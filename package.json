@@ -1,0 +1,17 @@
+{
+  "name": "french-scraper",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "playwright": "1.45.3"
+  }
+}
