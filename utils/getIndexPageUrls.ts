@@ -1,32 +1,25 @@
 import playwright from "playwright";
-import fs from "fs/promises";
+import { promises as fs } from "fs";
 
-const browserType = "chromium";
+import { browserType, launchOptions } from "./config";
 
-const headless = true;
+export const getIndexPageUrls = async () => {
+  console.log("Running getIndexPageUrls script");
 
-const launchOptions = {
-  headless,
-};
-
-// source of all other indexes in .index-title > a
-const indexPage = "https://conjugator.reverso.net/index-french-1-250.html";
-
-const run = async () => {
-  console.log("Running Scraper");
+  const indexPage = "https://conjugator.reverso.net/index-french-1-250.html";
   const browser = await playwright[browserType].launch(launchOptions);
   const context = await browser.newContext();
   const page = await context.newPage();
   await page.goto(indexPage);
 
-  if (headless === false) {
+  if (launchOptions.headless === false) {
     await page.waitForSelector("#didomi-popup");
     await page.click("#didomi-notice-agree-button");
   }
 
   const indexLinks = await page
     .locator(".index-title > a")
-    .evaluateAll((els) => els.map((el) => el.href));
+    .evaluateAll((els: HTMLAnchorElement[]) => els.map((el) => el.href));
 
   // TODO:
   // For each index page, scrape that page for the verb links on the page using this ".index-content li > a" selector.
@@ -38,7 +31,7 @@ const run = async () => {
     fs.writeFile(path, JSON.stringify({ indexLinks }), {
       encoding: "utf-8",
       flag: "w",
-    }).catch((error) => {
+    }).catch((error: Error) => {
       console.error("Error writing the JSON file:", error);
     });
     console.log("Data successfully saved to disk");
@@ -47,6 +40,6 @@ const run = async () => {
   }
 
   await browser.close();
-};
 
-run();
+  return indexLinks;
+};
