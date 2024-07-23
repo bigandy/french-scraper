@@ -1,7 +1,11 @@
 import fs from "fs-extra";
 import cheerio from "cheerio";
 
-import type { Verbs } from "../types/verb";
+import type { Verbs, Verb, Model } from "../types/verb";
+
+function capitalizeFirstLetter(string: string) {
+  return string.charAt(0).toUpperCase() + string.slice(1);
+}
 
 export const convertOneVerbPage = async () => {
   console.log("Running scrapeOneVerbPage script");
@@ -28,13 +32,81 @@ export const convertOneVerbPage = async () => {
     const $ = cheerio.load(fileData);
     const name = $("#ch_lblModel").text(); // Read the HTML with cheerio
     const definition = $("#list-translations p").text();
+    const model = $("#ch_lblModel").text() as Model;
+    const auxiliary = $("#ch_lblAuxiliary").text() as Model;
+    const otherForms = $("#ch_lblAutreForm").text();
+
     console.log("Data read from file", name);
+
+    // TODO: type Indicative
+    const indicatif: any = {};
+    const indicativeChildren = [
+      "présent",
+      "imparfait",
+      "futur",
+      "passé simple",
+      "passé composé",
+      "plus-que-parfait",
+      "passé antérieur",
+      "futur antérieur",
+    ];
+
+    indicativeChildren.forEach((selector) => {
+      const combinedSelector = `[mobile-title="Indicatif ${capitalizeFirstLetter(
+        selector
+      )}"] ul`;
+
+      const items = $(combinedSelector).find("li");
+
+      const texts: any = {};
+      items.each((_, item) => {
+        const split = $(item).text().trim().split(" ");
+        texts[split[0]] = split[1];
+      });
+      indicatif[selector] = texts;
+    });
+
+    // console.log({ Indicatif });
+
+    // const subjonctif: any = {};
+    // const subjonctifChildren = [
+    //   "présent",
+    //   "imparfait",
+    //   "plus-que-parfait",
+    //   "passé",
+    // ];
+
+    // subjonctifChildren.forEach((selector) => {
+    //   const combinedSelector = `[mobile-title="Subjonctif ${capitalizeFirstLetter(
+    //     selector
+    //   )}"] ul`;
+
+    //   const items = $(combinedSelector).find("li");
+
+    //   const texts: any = {};
+    //   items.each((_, item) => {
+    //     const split = $(item).text().trim().split(" ");
+    //     texts[split[0]] = split[1];
+    //   });
+    //   subjonctif[selector] = texts;
+    // });
+
+    // for each verb sub-component grouping we have a [mobile-title="Parent Child"]  > ul
+    // Listing which will contain all the information
+    // an example is [mobile=title="Indicatif Présent"] > ul
 
     const result: Verbs = {
       name,
       definition,
+      model,
+      auxiliary,
+      otherForms,
+
+      indicatif,
+      //   subjonctif,
     };
 
+    // WRITE TO JSON
     try {
       fs.outputFile(getPath("index.json"), JSON.stringify(result), {
         encoding: "utf-8",

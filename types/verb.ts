@@ -1,33 +1,33 @@
-interface Verb {
+export interface Verb {
   je: string;
   tu: string;
-  il: string; // elle/il/on
+  "il/elle": string; // elle/il/on
   nous: string;
   vous: string;
-  ils: string; // ils/elles
+  "ils/elles": string; // ils/elles
 }
 
-type Model = "être" | "avoir";
+export type Model = "être" | "avoir";
 
 export interface Verbs {
   name: string;
   definition: string; // What the verb means
 
-  // model: Model;
-  // auxillary: Model;
-  // otherForms: string;
+  model: Model;
+  auxiliary: Model;
+  otherForms: string;
 
-  // // Indicative
-  // indicative: {
-  //   present: Verb;
-  //   imparfait: Verb;
-  //   futur: Verb;
-  //   "passé simple": Verb;
-  //   "passé composé": Verb;
-  //   "plus-que-parfait": Verb;
-  //   "Passé antérieur": Verb;
-  //   "futur antérieur": Verb;
-  // };
+  // Indicative
+  indicatif: {
+    present: Verb;
+    imparfait: Verb;
+    futur: Verb;
+    "passé simple": Verb;
+    "passé composé": Verb;
+    "plus-que-parfait": Verb;
+    "Passé antérieur": Verb;
+    "futur antérieur": Verb;
+  };
 
   // // Subjonctif
   // subjonctif: {
