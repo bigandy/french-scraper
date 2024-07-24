@@ -8,13 +8,16 @@ Once I have the verbs I will be able to test myself against the verbs: what does
 
 ### Data
 
-1. Get list of all verbs contained on site (2000 verbs) by going to an index page, getting all the links to other index pages and then with all these index pages, scrape each index page and harvest the data.
+- [x] Get a list of index pages using Playwright. Store as a .json file
+- [ ] For each of these index pages there is a list of verbs with their links, collect all of these and store as a .json file
+- [x] construct a data structure as a Typescript interface to know the shape for the data to be collected per verb
+- [ ] run Playwright scraper on each verb pages, one at a time in a queue, to collect this data
+- [x] Grab the HTML from an individual page
+- [ ] from the HTML, grab the pertinent data and store as a .json file
 
-2. Once have a list of 2000 urls of verbs to harvest, construct a data structure to store all this data for use later on
+### Future
 
-3. With the list of the 2000 urls and the structure of the data it is now time to run Playwright scraper on each of these pages, one at a time in a queue, to collect this data
-
-4. Store the data. But where? Either as local .json files or in a DB. A DB could be useful if I want to have the ability in the future to add custom non-verb words, add extra verbs from elsewhere. I'll make that choice later.
+- Store the data in a DB. A DB could be useful if I want to have the ability in the future to add custom non-verb words, add extra verbs from elsewhere. I'll make that choice later.
 
 ### Visualise the data
 
