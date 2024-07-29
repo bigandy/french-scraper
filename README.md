@@ -9,10 +9,9 @@ Once I have the verbs I will be able to test myself against the verbs: what does
 ### Data
 
 - [x] Get a list of index pages using Playwright. Store as a .json file
-- [ ] For each of these index pages there is a list of verbs with their links, collect all of these and store as a .json file
+- [x] For each of these index pages there is a list of verbs with their links, collect all of these and store as a .json file
 - [x] construct a data structure as a Typescript interface to know the shape for the data to be collected per verb
-- [ ] run Playwright scraper on each verb pages, one at a time in a queue, to collect this data
-- [x] Grab the HTML from an individual page
+- [ ] Grab the HTML from an individual page by going to each url with Playwright
 - [ ] from the HTML, grab the pertinent data and store as a .json file
 
 ### Future
