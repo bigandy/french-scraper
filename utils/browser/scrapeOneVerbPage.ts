@@ -3,6 +3,9 @@ import fs from "fs-extra";
 
 import { browserType, launchOptions } from "./config";
 
+/**
+ * Get the HTML content from one verb page url.
+ */
 export const scrapeOneVerbPage = async () => {
   console.log("Running scrapeOneVerbPage script");
 

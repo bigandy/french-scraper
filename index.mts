@@ -1,8 +1,6 @@
 // source of all other indexes in .index-title > a
 
-import { getIndexPageUrls } from "./utils/getIndexPageUrls";
-import { scrapeOneVerbPage } from "./utils/scrapeOneVerbPage";
-import { convertOneVerbPage } from "./utils/convertOneVerbPage";
+import { getAllVerbUrlsFromIndexUrls } from "./utils/browser/getAllVerbUrlsFromIndexUrls";
 
 const run = async () => {
   // const urls = await getIndexPageUrls();
@@ -10,7 +8,9 @@ const run = async () => {
   // console.log({ urls });
 
   // await scrapeOneVerbPage();
-  await convertOneVerbPage();
+  // await convertOneVerbPage();
+
+  await getAllVerbUrlsFromIndexUrls();
 };
 
 run();

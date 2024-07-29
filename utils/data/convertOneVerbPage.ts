@@ -7,7 +7,11 @@ function capitalizeFirstLetter(string: string) {
   return string.charAt(0).toUpperCase() + string.slice(1);
 }
 
-export const convertOneVerbPage = async () => {
+/**
+ * Turn the HTML of one verb page collected
+ * and extract the data from it using cheerio.
+ */
+export const convertOneVerbPageHTMLToGetTheData = async () => {
   console.log("Running scrapeOneVerbPage script");
 
   const verb = "%C3%AAtre"; // être
