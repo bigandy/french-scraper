@@ -1,294 +1,1071 @@
+<div class="stickem-container clearfix">
+  <div class="wrapperW">
+    <div class="headerDescription conj clearfix">
+      <h1 class="bigger">Conjugation verb <b>pouvoir</b> in French</h1>
+    </div>
+    <div id="content-menu">
+      <div class="tableForm clearfix">
+        <div class="conjForm">
+          <div class="input-wrap">
+            <label for="txtVerb" id="txtVerbLabel" class="hide-element"
+              >Enter an infinitive verb or a conjugated form to have its
+              conjugation table</label
+            >
+            <input
+              name="ctl00$txtVerb"
+              type="text"
+              value="pouvoir"
+              id="txtVerb"
+              class="verbbox keyboardInput ui-autocomplete-input"
+              autocapitalize="off"
+              tooltip="Enter an infinitive verb or a conjugated form to have its conjugation table"
+              autocomplete="off"
+              vki_attached="true"
+            />
 
-                            <div class="stickem-container clearfix">
-                                <div class="wrapperW">
-                                    <div class="headerDescription conj clearfix">
-                                        <h1 class="bigger">Conjugation verb <b>pouvoir</b> in French</h1>
-                                        
-                                    </div>
-                                    <div id="content-menu">
-                                        <div class="tableForm clearfix">
-                                            <div class="conjForm">
-                                                <div class="input-wrap">
-                                                    <label for="txtVerb" id="txtVerbLabel" class="hide-element">Enter an infinitive verb or a conjugated form to have its conjugation table</label>
-                                                    <input name="ctl00$txtVerb" type="text" value="pouvoir" id="txtVerb" class="verbbox keyboardInput ui-autocomplete-input" autocapitalize="off" tooltip="Enter an infinitive verb or a conjugated form to have its conjugation table" autocomplete="off" vki_attached="true">
-                                                    
-                                                    <div id="imgKeyboardContainer"><span class="keyboardInputInitiator icon-keyboard"></span></div>
-                                                    
-                                                    <a class="reset-search" onclick="clearSearch();" style="display: inline;">X</a>
-                                                </div>
-                                                <div class="select-wrap">
-                                                    <a href="#" class="current-conj-language dropdown-toggle">
-                                                        
-                                                        <label class="">French</label>
-                                                        <span class="icon icon-arrow"></span></a>
-                                                    <ul class="dropdown">
-                                                        <li code="en">English</li>
-                                                        <li code="fr">French</li>
-                                                        <li code="es">Spanish</li>
-                                                        <li code="de">German</li>
-                                                        <li code="it">Italian</li>
-                                                        <li code="pt">Portuguese</li>
-                                                        <li code="he">Hebrew</li>
-							                            <li code="ru">Russian</li>
-                                                        <li code="ar">Arabic</li>
-                                                        <li code="jp" class="last-drop-item">Japanese</li>
-                                                    </ul>
-                                                </div>
-                                                <a onclick="doRedirectConjugate(''); return false;" id="lbConjugate" title="Conjugate" href="#">Conjugate</a>
+            <div id="imgKeyboardContainer">
+              <span class="keyboardInputInitiator icon-keyboard"></span>
+            </div>
 
-                                                
-                                                
-                                                
-                                                
-                                            </div>
-                                            
-                                        </div>
+            <a
+              class="reset-search"
+              onclick="clearSearch();"
+              style="display: inline"
+              >X</a
+            >
+          </div>
+          <div class="select-wrap">
+            <a href="#" class="current-conj-language dropdown-toggle">
+              <label class="">French</label>
+              <span class="icon icon-arrow"></span
+            ></a>
+            <ul class="dropdown">
+              <li code="en">English</li>
+              <li code="fr">French</li>
+              <li code="es">Spanish</li>
+              <li code="de">German</li>
+              <li code="it">Italian</li>
+              <li code="pt">Portuguese</li>
+              <li code="he">Hebrew</li>
+              <li code="ru">Russian</li>
+              <li code="ar">Arabic</li>
+              <li code="jp" class="last-drop-item">Japanese</li>
+            </ul>
+          </div>
+          <a
+            onclick="doRedirectConjugate(''); return false;"
+            id="lbConjugate"
+            title="Conjugate"
+            href="#"
+            >Conjugate</a
+          >
+        </div>
+      </div>
 
-                                         
+      <div class="righttoolboxWrap clearfix grey-bg">
+        <div class="righttoolbox">
+          Toolbox:
+          <a
+            href="https://conjugator.reverso.net/conjugation-rules-model-french.html"
+            id="aModel"
+          >
+            <span id="lblModels">Models</span>
+          </a>
 
-                                        <div class="righttoolboxWrap clearfix grey-bg">
-                                            <div class="righttoolbox">
-                                                Toolbox:
-                                                <a href="https://conjugator.reverso.net/conjugation-rules-model-french.html" id="aModel">
-                                                    <span id="lblModels">Models</span>
-                                                </a>
-                                                
-                                                
-												
-												
-                                                
-                                                
-												
-                                                
-                                                <a href="https://conjugator.reverso.net/rules-conjugation-groups-french.html" id="aGroupes">
-                                                    <span id="lblGroupes">Groups</span>
-                                                </a>
-                                                <a href="https://conjugator.reverso.net/rules-conjugation-auxiliaries-french.html" id="aAuxiliare">
-                                                    <span id="lblAuxiliaire">Auxiliaries</span>
-                                                </a>
-                                                <a href="https://conjugator.reverso.net/rules-conjugation-verb-french.html" id="aVerb">
-                                                    <span id="lblVerbe">French verb</span>
-                                                </a>
+          <a
+            href="https://conjugator.reverso.net/rules-conjugation-groups-french.html"
+            id="aGroupes"
+          >
+            <span id="lblGroupes">Groups</span>
+          </a>
+          <a
+            href="https://conjugator.reverso.net/rules-conjugation-auxiliaries-french.html"
+            id="aAuxiliare"
+          >
+            <span id="lblAuxiliaire">Auxiliaries</span>
+          </a>
+          <a
+            href="https://conjugator.reverso.net/rules-conjugation-verb-french.html"
+            id="aVerb"
+          >
+            <span id="lblVerbe">French verb</span>
+          </a>
+        </div>
+      </div>
+    </div>
 
-                                                
-                                                
-                                                
-                                            </div>
-                                        </div>
-                                    </div>
-                                    
     <div id="ch_divConjugatorHeader" class="subHead subHead-res clearfix">
-        <div class="word-transl-options">
-			
-            <div id="ch_leftWordTransl" class="left-word-transl">
+      <div class="word-transl-options">
+        <div id="ch_leftWordTransl" class="left-word-transl">
+          <div class="targetted-word-wrap">
+            <span class="lang-word flag-res fr"></span>
+            <h2>
+              <a
+                href="#"
+                id="ch_lblVerb"
+                class="targetted-word-transl"
+                style="color: #0970ac"
+                tooltip="Existing infinitive"
+                >pouvoir</a
+              >
+            </h2>
+          </div>
 
-                <div class="targetted-word-wrap">
-                    <span class="lang-word flag-res fr"></span>
-                    <h2><a href="#" id="ch_lblVerb" class="targetted-word-transl" style="color: #0970ac;" tooltip="Existing infinitive">pouvoir</a></h2>
-                </div>
+          <input
+            name="ctl00$ch$hApiTranslated"
+            type="hidden"
+            id="ch_hApiTranslated"
+            value="can;be able to"
+          />
 
-                <input name="ctl00$ch$hApiTranslated" type="hidden" id="ch_hApiTranslated" value="can;be able to">
+          <div class="top-icons-box">
+            <a
+              id="lnkContext"
+              title="See translation in context"
+              style="display: none"
+              ><span class="icon context-search"
+                ><span class="path1"></span><span class="path2"></span
+                ><span class="path3"></span><span class="path4"></span></span
+            ></a>
+            <a id="lnkSynonyms" title="Synonyms" style=""
+              ><span class="icon icon-synonyms"></span
+            ></a>
 
-              
+            <a id="btnVoice" title="Speak" class="voice-button">
+              <span class="icon icon-audio"></span>
+            </a>
+          </div>
 
-                <div class="top-icons-box">
-                    
-
-                    <a id="lnkContext" title="See translation in context" style="display: none"><span class="icon context-search"><span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span></span></a>
-                    <a id="lnkSynonyms" title="Synonyms" style=""><span class="icon icon-synonyms"></span></a>
-
-                    <a id="btnVoice" title="Speak" class="voice-button">
-                        <span class="icon icon-audio"></span>
-                    </a>
-                </div>
-
-                <span class="translate-arr icon-right-arrow" style="display: inline;"></span>
-                <div id="list-translations" class="word-translated-wrap" title="See translation in context" style="display: flex;">
-                    <span class="lang-word-translation flag-res en"></span>
-                    <p class="context-term">can; be able to; ...</p>
-                </div>
-                <div id="list-synonyms" class="word-translated-wrap" title="Synonyms" style="display:none">
-                    <span class="lang-word-translation icon-synonyms icon"></span>
-                    <p class="context-term"></p>
-                </div>
-
-                </div>
-
-                
-                    <a class="dd-button" title="See more">
-                        <span class="arrow-dd"></span>
-                    </a>
-                <a href="#" id="ch_lblPrint" class="print-btn" onclick="PrintConjResult(&quot;Conjugation of <b>pouvoir</b> verb in French with&quot;,&quot;©2019 Reverso-Softissimo. All rights reserved&quot;);return false;">
-                    <i class="hide-element">Print</i>
-                    <span class="icon-print"></span>
-                </a>
-        </div><div class="verb-forms-wrap"><h2>Infinitif <div><a href="#">pouvoir</a></div></h2><h2>Participe Présent <div><a href="#">pouvant</a></div></h2><h2>Participe Passé <div><a href="#"> pu</a></div></h2></div>
-        
-
-         <div class="alternate-versions">
-                
-                <div class="wrap-three-col">
-                    <p>
-                        <a href="https://conjugator.reverso.net/conjugation-rules-model-french.html" id="ch_lblModelPrev" class="graylink">Model</a>:
-                        <span id="ch_lblModel" tooltip="See more info on the conjugation model and verbs which conjugate the same way."><a href="https://conjugator.reverso.net/conjugation-rules-model-french/model-pouvoir.html">pouvoir</a></span>
-                    </p>
-                </div>
-                
-                <div class="wrap-three-col">
-                    <p>
-                        <span id="ch_lblAuxiliaryPrev">Auxiliary</span>:
-                        <span id="ch_lblAuxiliary" tooltip="The auxiliary verb used in the conjugation of the compounds forms."><a href="conjugation-french-verb-avoir.html">avoir</a></span>
-                    </p>
-                </div>
-                
-                <div class="wrap-three-col">
-                    <p>
-                        <span id="ch_lblArray4">Other forms:</span>
-                        <span id="ch_lblAutreForm" tooltip="See how the verb conjugates in other forms: negative, reflexive."><a href="conjugation-french-verb-se%20pouvoir.html" rel="nofollow">se pouvoir</a>/<a href="conjugation-french-verb-ne%20pas%20pouvoir.html" rel="nofollow">ne pas pouvoir</a>/<a href="conjugation-french-verb-ne%20pas%20se%20pouvoir.html" rel="nofollow">ne pas se pouvoir</a></span>
-                    </p>
-                </div>
-                
-                <div class="wrap-three-col">
-                    
-                </div>
-            </div>
-
-
-          <div class="expanded-dd-contents fr">
-
-            
-            <div class="info-wrap-section">
-                <p><span class="icon icon-info"></span>
-                    <span id="ch_lblPtInfo">Pouvoir has its own conjugation pattern.
-The variant "puis" (1st person singular of indicative present) is used in questions: Puis-je vous aider?
-This form can also be used in affirmative and negative sentences in some context: je puis venir, je ne puis vous dire.
-The verb se pouvoir is only used as an impersonal verb in 3rd peson: il se peut.
-</span></p>
-            </div>
-            
-            <div class="variants-wrap-block">
-                <p><span class="icon icon-alert"></span><span>The verb has several variants of conjugation, which may correspond to different meanings. Please use the menu to select one or all variants.</span></p>
-                <div class="conjForm">
-                    <div class="select-wrap">
-                        <select name="ctl00$ch$dlsVariant" id="ch_dlsVariant" onchange="DoRedirectVariant();">
-	<option selected="selected" value="0">All</option>
-	<option value="1">Variant 1</option>
-	<option value="2">Variant 2</option>
-
-</select>
-                        <span class="icon icon-arrow"></span>
-                    </div>
-                </div>
-            </div>
-              
+          <span
+            class="translate-arr icon-right-arrow"
+            style="display: inline"
+          ></span>
+          <div
+            id="list-translations"
+            class="word-translated-wrap"
+            title="See translation in context"
+            style="display: flex"
+          >
+            <span class="lang-word-translation flag-res en"></span>
+            <p class="context-term">can; be able to; ...</p>
+          </div>
+          <div
+            id="list-synonyms"
+            class="word-translated-wrap"
+            title="Synonyms"
+            style="display: none"
+          >
+            <span class="lang-word-translation icon-synonyms icon"></span>
+            <p class="context-term"></p>
+          </div>
         </div>
 
-    </div>
-    
-    
+        <a class="dd-button" title="See more">
+          <span class="arrow-dd"></span>
+        </a>
+        <a
+          href="#"
+          id="ch_lblPrint"
+          class="print-btn"
+          onclick='PrintConjResult("Conjugation of <b>pouvoir</b> verb in French with","©2019 Reverso-Softissimo. All rights reserved");return false;'
+        >
+          <i class="hide-element">Print</i>
+          <span class="icon-print"></span>
+        </a>
+      </div>
+      <div class="verb-forms-wrap">
+        <h2>
+          Infinitif
+          <div><a href="#">pouvoir</a></div>
+        </h2>
+        <h2>
+          Participe Présent
+          <div><a href="#">pouvant</a></div>
+        </h2>
+        <h2>
+          Participe Passé
+          <div><a href="#"> pu</a></div>
+        </h2>
+      </div>
 
-    
+      <div class="alternate-versions">
+        <div class="wrap-three-col">
+          <p>
+            <a
+              href="https://conjugator.reverso.net/conjugation-rules-model-french.html"
+              id="ch_lblModelPrev"
+              class="graylink"
+              >Model</a
+            >:
+            <span
+              id="ch_lblModel"
+              tooltip="See more info on the conjugation model and verbs which conjugate the same way."
+              ><a
+                href="https://conjugator.reverso.net/conjugation-rules-model-french/model-pouvoir.html"
+                >pouvoir</a
+              ></span
+            >
+          </p>
+        </div>
+
+        <div class="wrap-three-col">
+          <p>
+            <span id="ch_lblAuxiliaryPrev">Auxiliary</span>:
+            <span
+              id="ch_lblAuxiliary"
+              tooltip="The auxiliary verb used in the conjugation of the compounds forms."
+              ><a href="conjugation-french-verb-avoir.html">avoir</a></span
+            >
+          </p>
+        </div>
+
+        <div class="wrap-three-col">
+          <p>
+            <span id="ch_lblArray4">Other forms:</span>
+            <span
+              id="ch_lblAutreForm"
+              tooltip="See how the verb conjugates in other forms: negative, reflexive."
+              ><a
+                href="conjugation-french-verb-se%20pouvoir.html"
+                rel="nofollow"
+                >se pouvoir</a
+              >/<a
+                href="conjugation-french-verb-ne%20pas%20pouvoir.html"
+                rel="nofollow"
+                >ne pas pouvoir</a
+              >/<a
+                href="conjugation-french-verb-ne%20pas%20se%20pouvoir.html"
+                rel="nofollow"
+                >ne pas se pouvoir</a
+              ></span
+            >
+          </p>
+        </div>
+
+        <div class="wrap-three-col"></div>
+      </div>
+
+      <div class="expanded-dd-contents fr">
+        <div class="info-wrap-section">
+          <p>
+            <span class="icon icon-info"></span>
+            <span id="ch_lblPtInfo"
+              >Pouvoir has its own conjugation pattern. The variant "puis" (1st
+              person singular of indicative present) is used in questions:
+              Puis-je vous aider? This form can also be used in affirmative and
+              negative sentences in some context: je puis venir, je ne puis vous
+              dire. The verb se pouvoir is only used as an impersonal verb in
+              3rd peson: il se peut.
+            </span>
+          </p>
+        </div>
+
+        <div class="variants-wrap-block">
+          <p>
+            <span class="icon icon-alert"></span
+            ><span
+              >The verb has several variants of conjugation, which may
+              correspond to different meanings. Please use the menu to select
+              one or all variants.</span
+            >
+          </p>
+          <div class="conjForm">
+            <div class="select-wrap">
+              <select
+                name="ctl00$ch$dlsVariant"
+                id="ch_dlsVariant"
+                onchange="DoRedirectVariant();"
+              >
+                <option selected="selected" value="0">All</option>
+                <option value="1">Variant 1</option>
+                <option value="2">Variant 2</option>
+              </select>
+              <span class="icon icon-arrow"></span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <div class="word-wrap">
-        
-				
-		
-        <div id="ch_divSimple" class="word-wrap-simple"><div class="result-block-api"><div class="word-wrap-row"><div class="word-wrap-title"><h4>Indicatif</h4></div><div class="wrap-three-col"><div class="blue-box-wrap" mobile-title="Indicatif Présent"><p>Présent</p><ul class="wrap-verbs-listing"><li><i class="graytxt">je </i><i class="verbtxt">peux</i></li><li><i class="graytxt">tu </i><i class="verbtxt">peux</i></li><li><i class="graytxt">il/elle </i><i class="verbtxt">peut</i></li><li><i class="graytxt">nous </i><i class="verbtxt">pouvons</i></li><li><i class="graytxt">vous </i><i class="verbtxt">pouvez</i></li><li><i class="graytxt">ils/elles </i><i class="verbtxt">peuvent</i></li><li><hr class="separation-variants"></li><li v="2"><i class="graytxt">je </i><i class="verbtxt">puis</i></li><li v="2"><i class="graytxt">tu </i><i class="verbtxt">peux</i></li><li v="2"><i class="graytxt">il/elle </i><i class="verbtxt">peut</i></li><li v="2"><i class="graytxt">nous </i><i class="verbtxt">pouvons</i></li><li v="2"><i class="graytxt">vous </i><i class="verbtxt">pouvez</i></li><li v="2"><i class="graytxt">ils/elles </i><i class="verbtxt">peuvent</i></li></ul></div></div><div class="wrap-three-col"><div class="blue-box-wrap" mobile-title="Indicatif Imparfait"><p>Imparfait</p><ul class="wrap-verbs-listing"><li><i class="graytxt">je </i><i class="verbtxt">pouvais</i></li><li><i class="graytxt">tu </i><i class="verbtxt">pouvais</i></li><li><i class="graytxt">il/elle </i><i class="verbtxt">pouvait</i></li><li><i class="graytxt">nous </i><i class="verbtxt">pouvions</i></li><li><i class="graytxt">vous </i><i class="verbtxt">pouviez</i></li><li><i class="graytxt">ils/elles </i><i class="verbtxt">pouvaient</i></li></ul></div></div><div class="wrap-three-col"><div class="blue-box-wrap" mobile-title="Indicatif Futur"><p>Futur</p><ul class="wrap-verbs-listing"><li><i class="graytxt">je </i><i class="verbtxt">pourrai</i></li><li><i class="graytxt">tu </i><i class="verbtxt">pourras</i></li><li><i class="graytxt">il/elle </i><i class="verbtxt">pourra</i></li><li><i class="graytxt">nous </i><i class="verbtxt">pourrons</i></li><li><i class="graytxt">vous </i><i class="verbtxt">pourrez</i></li><li><i class="graytxt">ils/elles </i><i class="verbtxt">pourront</i></li></ul></div></div></div><div class="top-horizontal">			
-			
-				
-					<div class="bnrtitle">
-						Advertising</div>  
-						<div class="inside-box">
-						<!-- Conjugueur-TOP_728x90 -->
-                            
-                            
-						        <div id="div-gpt-ad-Reverso_Conj_D_All_728x90_ATF" style="width:728px; height:90px;"><div id="div-gpt-ad-Reverso_Conj_D_All_728x90_ATF__ayManagerEnv__1_3e4b1776" style=""><div id="google_ads_iframe_/2629866/Reverso_Conj_D_All_728x90_ATF_AY_0__container__" style="border: 0pt none; margin: auto; text-align: center; width: 728px; height: 0px;"></div></div>
-                                    <script type="text/javascript">
-                                        ramjs.que.push(function () { ramjs.business.displayGoogletagSlot('div-gpt-ad-Reverso_Conj_D_All_728x90_ATF') });
-                                    </script>
-						        </div>
-                            
+      <div id="ch_divSimple" class="word-wrap-simple">
+        <div class="result-block-api">
+          <div class="word-wrap-row">
+            <div class="word-wrap-title"><h4>Indicatif</h4></div>
+            <div class="wrap-three-col">
+              <div class="blue-box-wrap" mobile-title="Indicatif Présent">
+                <p>Présent</p>
+                <ul class="wrap-verbs-listing">
+                  <li><i class="graytxt">je </i><i class="verbtxt">peux</i></li>
+                  <li><i class="graytxt">tu </i><i class="verbtxt">peux</i></li>
+                  <li>
+                    <i class="graytxt">il/elle </i><i class="verbtxt">peut</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">nous </i><i class="verbtxt">pouvons</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">vous </i><i class="verbtxt">pouvez</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">ils/elles </i
+                    ><i class="verbtxt">peuvent</i>
+                  </li>
+                  <li><hr class="separation-variants" /></li>
+                  <li v="2">
+                    <i class="graytxt">je </i><i class="verbtxt">puis</i>
+                  </li>
+                  <li v="2">
+                    <i class="graytxt">tu </i><i class="verbtxt">peux</i>
+                  </li>
+                  <li v="2">
+                    <i class="graytxt">il/elle </i><i class="verbtxt">peut</i>
+                  </li>
+                  <li v="2">
+                    <i class="graytxt">nous </i><i class="verbtxt">pouvons</i>
+                  </li>
+                  <li v="2">
+                    <i class="graytxt">vous </i><i class="verbtxt">pouvez</i>
+                  </li>
+                  <li v="2">
+                    <i class="graytxt">ils/elles </i
+                    ><i class="verbtxt">peuvent</i>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="wrap-three-col">
+              <div class="blue-box-wrap" mobile-title="Indicatif Imparfait">
+                <p>Imparfait</p>
+                <ul class="wrap-verbs-listing">
+                  <li>
+                    <i class="graytxt">je </i><i class="verbtxt">pouvais</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">tu </i><i class="verbtxt">pouvais</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">il/elle </i
+                    ><i class="verbtxt">pouvait</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">nous </i><i class="verbtxt">pouvions</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">vous </i><i class="verbtxt">pouviez</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">ils/elles </i
+                    ><i class="verbtxt">pouvaient</i>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="wrap-three-col">
+              <div class="blue-box-wrap" mobile-title="Indicatif Futur">
+                <p>Futur</p>
+                <ul class="wrap-verbs-listing">
+                  <li>
+                    <i class="graytxt">je </i><i class="verbtxt">pourrai</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">tu </i><i class="verbtxt">pourras</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">il/elle </i><i class="verbtxt">pourra</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">nous </i><i class="verbtxt">pourrons</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">vous </i><i class="verbtxt">pourrez</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">ils/elles </i
+                    ><i class="verbtxt">pourront</i>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="top-horizontal">
+            <div class="bnrtitle">Advertising</div>
+            <div class="inside-box">
+              <!-- Conjugueur-TOP_728x90 -->
 
-						<!-- /2629866/Conjugueur_RichMedia -->
-						<div id="div-gpt-ad-Conjugueur_RichMedia" style="height: 1px; width: 1px;" data-google-query-id="CJf3hs-yzocDFeRc9ggdeZEwuQ">
-                            <script type="text/javascript">
-                                ramjs.que.push(function () { ramjs.business.displayGoogletagSlot('div-gpt-ad-Conjugueur_RichMedia') });
-                            </script>
-						<div id="google_ads_iframe_/2629866/Conjugueur_RichMedia_0__container__" style="border: 0pt none; margin: auto; text-align: center;"></div></div>
-					</div>
-				
-				</div><div class="word-wrap-row"><div class="wrap-three-col"><div class="blue-box-wrap" mobile-title="Indicatif Passé simple"><p>Passé simple</p><ul class="wrap-verbs-listing"><li><i class="graytxt">je </i><i class="verbtxt">pus</i></li><li><i class="graytxt">tu </i><i class="verbtxt">pus</i></li><li><i class="graytxt">il/elle </i><i class="verbtxt">put</i></li><li><i class="graytxt">nous </i><i class="verbtxt">pûmes</i></li><li><i class="graytxt">vous </i><i class="verbtxt">pûtes</i></li><li><i class="graytxt">ils/elles </i><i class="verbtxt">purent</i></li></ul></div></div><div class="wrap-three-col" c="1"><div class="blue-box-wrap" mobile-title="Indicatif Passé composé"><p>Passé composé</p><ul class="wrap-verbs-listing"><li><i class="graytxt">j'</i><i class="auxgraytxt">ai </i><i class="verbtxt">pu</i></li><li><i class="graytxt">tu </i><i class="auxgraytxt">as </i><i class="verbtxt">pu</i></li><li><i class="graytxt">il/elle </i><i class="auxgraytxt">a </i><i class="verbtxt">pu</i></li><li><i class="graytxt">nous </i><i class="auxgraytxt">avons </i><i class="verbtxt">pu</i></li><li><i class="graytxt">vous </i><i class="auxgraytxt">avez </i><i class="verbtxt">pu</i></li><li><i class="graytxt">ils/elles </i><i class="auxgraytxt">ont </i><i class="verbtxt">pu</i></li></ul></div></div><div class="wrap-three-col" c="1"><div class="blue-box-wrap" mobile-title="Indicatif Plus-que-parfait"><p>Plus-que-parfait</p><ul class="wrap-verbs-listing"><li><i class="graytxt">j'</i><i class="auxgraytxt">avais </i><i class="verbtxt">pu</i></li><li><i class="graytxt">tu </i><i class="auxgraytxt">avais </i><i class="verbtxt">pu</i></li><li><i class="graytxt">il/elle </i><i class="auxgraytxt">avait </i><i class="verbtxt">pu</i></li><li><i class="graytxt">nous </i><i class="auxgraytxt">avions </i><i class="verbtxt">pu</i></li><li><i class="graytxt">vous </i><i class="auxgraytxt">aviez </i><i class="verbtxt">pu</i></li><li><i class="graytxt">ils/elles </i><i class="auxgraytxt">avaient </i><i class="verbtxt">pu</i></li></ul></div></div></div><div class="word-wrap-row"><div class="wrap-three-col" c="1" style="margin-top: 32px;"><div class="blue-box-wrap" mobile-title="Indicatif Passé antérieur"><p>Passé antérieur</p><ul class="wrap-verbs-listing"><li><i class="graytxt">j'</i><i class="auxgraytxt">eus </i><i class="verbtxt">pu</i></li><li><i class="graytxt">tu </i><i class="auxgraytxt">eus </i><i class="verbtxt">pu</i></li><li><i class="graytxt">il/elle </i><i class="auxgraytxt">eut </i><i class="verbtxt">pu</i></li><li><i class="graytxt">nous </i><i class="auxgraytxt">eûmes </i><i class="verbtxt">pu</i></li><li><i class="graytxt">vous </i><i class="auxgraytxt">eûtes </i><i class="verbtxt">pu</i></li><li><i class="graytxt">ils/elles </i><i class="auxgraytxt">eurent </i><i class="verbtxt">pu</i></li></ul></div></div><div class="wrap-three-col" c="1" style="margin-top: 32px;"><div class="blue-box-wrap" mobile-title="Indicatif Futur antérieur"><p>Futur antérieur</p><ul class="wrap-verbs-listing"><li><i class="graytxt">j'</i><i class="auxgraytxt">aurai </i><i class="verbtxt">pu</i></li><li><i class="graytxt">tu </i><i class="auxgraytxt">auras </i><i class="verbtxt">pu</i></li><li><i class="graytxt">il/elle </i><i class="auxgraytxt">aura </i><i class="verbtxt">pu</i></li><li><i class="graytxt">nous </i><i class="auxgraytxt">aurons </i><i class="verbtxt">pu</i></li><li><i class="graytxt">vous </i><i class="auxgraytxt">aurez </i><i class="verbtxt">pu</i></li><li><i class="graytxt">ils/elles </i><i class="auxgraytxt">auront </i><i class="verbtxt">pu</i></li></ul></div></div><div class="wrap-three-col" style="margin-top: 0px;"><div class="word-wrap-title"><h4>Subjonctif</h4></div><div class="blue-box-wrap alt-tense" mobile-title="Subjonctif Présent"><p>Présent</p><ul class="wrap-verbs-listing"><li><i class="particletxt">que </i><i class="graytxt">je </i><i class="verbtxt">puisse</i></li><li><i class="particletxt">que </i><i class="graytxt">tu </i><i class="verbtxt">puisses</i></li><li><i class="particletxt">qu'</i><i class="graytxt">il/elle </i><i class="verbtxt">puisse</i></li><li><i class="particletxt">que </i><i class="graytxt">nous </i><i class="verbtxt">puissions</i></li><li><i class="particletxt">que </i><i class="graytxt">vous </i><i class="verbtxt">puissiez</i></li><li><i class="particletxt">qu'</i><i class="graytxt">ils/elles </i><i class="verbtxt">puissent</i></li></ul></div></div></div><div class="word-wrap-row"><div class="wrap-three-col"><div class="blue-box-wrap alt-tense" mobile-title="Subjonctif Imparfait"><p>Imparfait</p><ul class="wrap-verbs-listing"><li><i class="particletxt">que </i><i class="graytxt">je </i><i class="verbtxt">pusse</i></li><li><i class="particletxt">que </i><i class="graytxt">tu </i><i class="verbtxt">pusses</i></li><li><i class="particletxt">qu'</i><i class="graytxt">il/elle </i><i class="verbtxt">pût</i></li><li><i class="particletxt">que </i><i class="graytxt">nous </i><i class="verbtxt">pussions</i></li><li><i class="particletxt">que </i><i class="graytxt">vous </i><i class="verbtxt">pussiez</i></li><li><i class="particletxt">qu'</i><i class="graytxt">ils/elles </i><i class="verbtxt">pussent</i></li></ul></div></div><div class="wrap-three-col" c="1"><div class="blue-box-wrap alt-tense" mobile-title="Subjonctif Plus-que-parfait"><p>Plus-que-parfait</p><ul class="wrap-verbs-listing"><li><i class="particletxt">que </i><i class="graytxt">j'</i><i class="auxgraytxt">eusse </i><i class="verbtxt">pu</i></li><li><i class="particletxt">que </i><i class="graytxt">tu </i><i class="auxgraytxt">eusses </i><i class="verbtxt">pu</i></li><li><i class="particletxt">qu'</i><i class="graytxt">il/elle </i><i class="auxgraytxt">eût </i><i class="verbtxt">pu</i></li><li><i class="particletxt">que </i><i class="graytxt">nous </i><i class="auxgraytxt">eussions </i><i class="verbtxt">pu</i></li><li><i class="particletxt">que </i><i class="graytxt">vous </i><i class="auxgraytxt">eussiez </i><i class="verbtxt">pu</i></li><li><i class="particletxt">qu'</i><i class="graytxt">ils/elles </i><i class="auxgraytxt">eussent </i><i class="verbtxt">pu</i></li></ul></div></div><div class="wrap-three-col" c="1"><div class="blue-box-wrap alt-tense" mobile-title="Subjonctif Passé"><p>Passé</p><ul class="wrap-verbs-listing"><li><i class="particletxt">que </i><i class="graytxt">j'</i><i class="auxgraytxt">aie </i><i class="verbtxt">pu</i></li><li><i class="particletxt">que </i><i class="graytxt">tu </i><i class="auxgraytxt">aies </i><i class="verbtxt">pu</i></li><li><i class="particletxt">qu'</i><i class="graytxt">il/elle </i><i class="auxgraytxt">ait </i><i class="verbtxt">pu</i></li><li><i class="particletxt">que </i><i class="graytxt">nous </i><i class="auxgraytxt">ayons </i><i class="verbtxt">pu</i></li><li><i class="particletxt">que </i><i class="graytxt">vous </i><i class="auxgraytxt">ayez </i><i class="verbtxt">pu</i></li><li><i class="particletxt">qu'</i><i class="graytxt">ils/elles </i><i class="auxgraytxt">aient </i><i class="verbtxt">pu</i></li></ul></div></div></div><div class="word-wrap-row"><div class="word-wrap-title"><h4>Conditionnel</h4></div><div class="wrap-three-col"><div class="blue-box-wrap" mobile-title="Conditionnel Présent"><p>Présent</p><ul class="wrap-verbs-listing"><li><i class="graytxt">je </i><i class="verbtxt">pourrais</i></li><li><i class="graytxt">tu </i><i class="verbtxt">pourrais</i></li><li><i class="graytxt">il/elle </i><i class="verbtxt">pourrait</i></li><li><i class="graytxt">nous </i><i class="verbtxt">pourrions</i></li><li><i class="graytxt">vous </i><i class="verbtxt">pourriez</i></li><li><i class="graytxt">ils/elles </i><i class="verbtxt">pourraient</i></li></ul></div></div><div class="wrap-three-col" c="1"><div class="blue-box-wrap" mobile-title="Conditionnel Passé première forme"><p>Passé première forme</p><ul class="wrap-verbs-listing"><li><i class="graytxt">j'</i><i class="auxgraytxt">aurais </i><i class="verbtxt">pu</i></li><li><i class="graytxt">tu </i><i class="auxgraytxt">aurais </i><i class="verbtxt">pu</i></li><li><i class="graytxt">il/elle </i><i class="auxgraytxt">aurait </i><i class="verbtxt">pu</i></li><li><i class="graytxt">nous </i><i class="auxgraytxt">aurions </i><i class="verbtxt">pu</i></li><li><i class="graytxt">vous </i><i class="auxgraytxt">auriez </i><i class="verbtxt">pu</i></li><li><i class="graytxt">ils/elles </i><i class="auxgraytxt">auraient </i><i class="verbtxt">pu</i></li></ul></div></div><div class="wrap-three-col" c="1"><div class="blue-box-wrap" mobile-title="Conditionnel Passé deuxième forme"><p>Passé deuxième forme</p><ul class="wrap-verbs-listing"><li><i class="graytxt">j'</i><i class="auxgraytxt">eusse </i><i class="verbtxt">pu</i></li><li><i class="graytxt">tu </i><i class="auxgraytxt">eusses </i><i class="verbtxt">pu</i></li><li><i class="graytxt">il/elle </i><i class="auxgraytxt">eût </i><i class="verbtxt">pu</i></li><li><i class="graytxt">nous </i><i class="auxgraytxt">eussions </i><i class="verbtxt">pu</i></li><li><i class="graytxt">vous </i><i class="auxgraytxt">eussiez </i><i class="verbtxt">pu</i></li><li><i class="graytxt">ils/elles </i><i class="auxgraytxt">eussent </i><i class="verbtxt">pu</i></li></ul></div></div></div><div class="word-wrap-row"><div class="word-wrap-title"><h4>Participe</h4></div><div class="wrap-three-col"><div class="blue-box-wrap alt-tense" mobile-title="Participe Présent"><p>Présent</p><ul class="wrap-verbs-listing top2"><li><i class="verbtxt">pouvant</i></li></ul></div></div><div class="wrap-three-col" c="1"><div class="blue-box-wrap alt-tense" mobile-title="Participe Passé composé"><p>Passé composé</p><ul class="wrap-verbs-listing"><li><i class="auxgraytxt">ayant </i><i class="verbtxt">pu</i></li></ul></div></div><div class="wrap-three-col"><div class="blue-box-wrap alt-tense" mobile-title="Participe Passé"><p>Passé</p><ul class="wrap-verbs-listing top3"><li><i class="graytxt name">masc.sg.: </i><i class="verbtxt">pu</i></li></ul></div></div></div><div class="word-wrap-row"><div class="word-wrap-title two-col-left"><h4>Impératif</h4></div><div class="wrap-three-col"><div class="blue-box-wrap" mobile-title="Impératif Présent"><p>Présent</p><ul class="wrap-verbs-listing"></ul></div></div><div class="wrap-three-col" c="1"><div class="blue-box-wrap" mobile-title="Impératif Passé"><p>Passé</p><ul class="wrap-verbs-listing"><li><i class="auxgraytxt">aie </i><i class="verbtxt">pu</i></li><li><i class="auxgraytxt">ayons </i><i class="verbtxt">pu</i></li><li><i class="auxgraytxt">ayez </i><i class="verbtxt">pu</i></li></ul></div></div><div class="wrap-three-col" style="margin-top: -21px;"><div class="word-wrap-title"><h4>Infinitif</h4></div><div class="blue-box-wrap alt-tense" mobile-title="Infinitif Présent"><p>Présent</p><ul class="wrap-verbs-listing top1"><li><i class="verbtxt">pouvoir</i></li></ul></div><div class="blue-box-wrap alt-tense" mobile-title="Infinitif Passé"><p>Passé</p><ul class="wrap-verbs-listing"><li><i class="auxgraytxt">avoir </i><i class="verbtxt">pu</i></li></ul></div></div></div><div class="word-wrap-row one-col"><div class="wrap-three-col" c="1"></div></div></div></div>
+              <div
+                id="div-gpt-ad-Reverso_Conj_D_All_728x90_ATF"
+                style="width: 728px; height: 90px"
+              >
+                <div
+                  id="div-gpt-ad-Reverso_Conj_D_All_728x90_ATF__ayManagerEnv__1_3e4b1776"
+                  style=""
+                >
+                  <div
+                    id="google_ads_iframe_/2629866/Reverso_Conj_D_All_728x90_ATF_AY_0__container__"
+                    style="
+                      border: 0pt none;
+                      margin: auto;
+                      text-align: center;
+                      width: 728px;
+                      height: 0px;
+                    "
+                  ></div>
+                </div>
+                <script type="text/javascript">
+                  ramjs.que.push(function () {
+                    ramjs.business.displayGoogletagSlot(
+                      "div-gpt-ad-Reverso_Conj_D_All_728x90_ATF",
+                    );
+                  });
+                </script>
+              </div>
 
+              <!-- /2629866/Conjugueur_RichMedia -->
+              <div
+                id="div-gpt-ad-Conjugueur_RichMedia"
+                style="height: 1px; width: 1px"
+                data-google-query-id="CJf3hs-yzocDFeRc9ggdeZEwuQ"
+              >
+                <script type="text/javascript">
+                  ramjs.que.push(function () {
+                    ramjs.business.displayGoogletagSlot(
+                      "div-gpt-ad-Conjugueur_RichMedia",
+                    );
+                  });
+                </script>
+                <div
+                  id="google_ads_iframe_/2629866/Conjugueur_RichMedia_0__container__"
+                  style="border: 0pt none; margin: auto; text-align: center"
+                ></div>
+              </div>
+            </div>
+          </div>
+          <div class="word-wrap-row">
+            <div class="wrap-three-col">
+              <div class="blue-box-wrap" mobile-title="Indicatif Passé simple">
+                <p>Passé simple</p>
+                <ul class="wrap-verbs-listing">
+                  <li><i class="graytxt">je </i><i class="verbtxt">pus</i></li>
+                  <li><i class="graytxt">tu </i><i class="verbtxt">pus</i></li>
+                  <li>
+                    <i class="graytxt">il/elle </i><i class="verbtxt">put</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">nous </i><i class="verbtxt">pûmes</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">vous </i><i class="verbtxt">pûtes</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">ils/elles </i
+                    ><i class="verbtxt">purent</i>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="wrap-three-col" c="1">
+              <div class="blue-box-wrap" mobile-title="Indicatif Passé composé">
+                <p>Passé composé</p>
+                <ul class="wrap-verbs-listing">
+                  <li>
+                    <i class="graytxt">j'</i><i class="auxgraytxt">ai </i
+                    ><i class="verbtxt">pu</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">tu </i><i class="auxgraytxt">as </i
+                    ><i class="verbtxt">pu</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">il/elle </i><i class="auxgraytxt">a </i
+                    ><i class="verbtxt">pu</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">nous </i><i class="auxgraytxt">avons </i
+                    ><i class="verbtxt">pu</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">vous </i><i class="auxgraytxt">avez </i
+                    ><i class="verbtxt">pu</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">ils/elles </i
+                    ><i class="auxgraytxt">ont </i><i class="verbtxt">pu</i>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="wrap-three-col" c="1">
+              <div
+                class="blue-box-wrap"
+                mobile-title="Indicatif Plus-que-parfait"
+              >
+                <p>Plus-que-parfait</p>
+                <ul class="wrap-verbs-listing">
+                  <li>
+                    <i class="graytxt">j'</i><i class="auxgraytxt">avais </i
+                    ><i class="verbtxt">pu</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">tu </i><i class="auxgraytxt">avais </i
+                    ><i class="verbtxt">pu</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">il/elle </i
+                    ><i class="auxgraytxt">avait </i><i class="verbtxt">pu</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">nous </i><i class="auxgraytxt">avions </i
+                    ><i class="verbtxt">pu</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">vous </i><i class="auxgraytxt">aviez </i
+                    ><i class="verbtxt">pu</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">ils/elles </i
+                    ><i class="auxgraytxt">avaient </i><i class="verbtxt">pu</i>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="word-wrap-row">
+            <div class="wrap-three-col" c="1" style="margin-top: 32px">
+              <div
+                class="blue-box-wrap"
+                mobile-title="Indicatif Passé antérieur"
+              >
+                <p>Passé antérieur</p>
+                <ul class="wrap-verbs-listing">
+                  <li>
+                    <i class="graytxt">j'</i><i class="auxgraytxt">eus </i
+                    ><i class="verbtxt">pu</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">tu </i><i class="auxgraytxt">eus </i
+                    ><i class="verbtxt">pu</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">il/elle </i><i class="auxgraytxt">eut </i
+                    ><i class="verbtxt">pu</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">nous </i><i class="auxgraytxt">eûmes </i
+                    ><i class="verbtxt">pu</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">vous </i><i class="auxgraytxt">eûtes </i
+                    ><i class="verbtxt">pu</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">ils/elles </i
+                    ><i class="auxgraytxt">eurent </i><i class="verbtxt">pu</i>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="wrap-three-col" c="1" style="margin-top: 32px">
+              <div
+                class="blue-box-wrap"
+                mobile-title="Indicatif Futur antérieur"
+              >
+                <p>Futur antérieur</p>
+                <ul class="wrap-verbs-listing">
+                  <li>
+                    <i class="graytxt">j'</i><i class="auxgraytxt">aurai </i
+                    ><i class="verbtxt">pu</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">tu </i><i class="auxgraytxt">auras </i
+                    ><i class="verbtxt">pu</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">il/elle </i
+                    ><i class="auxgraytxt">aura </i><i class="verbtxt">pu</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">nous </i><i class="auxgraytxt">aurons </i
+                    ><i class="verbtxt">pu</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">vous </i><i class="auxgraytxt">aurez </i
+                    ><i class="verbtxt">pu</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">ils/elles </i
+                    ><i class="auxgraytxt">auront </i><i class="verbtxt">pu</i>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="wrap-three-col" style="margin-top: 0px">
+              <div class="word-wrap-title"><h4>Subjonctif</h4></div>
+              <div
+                class="blue-box-wrap alt-tense"
+                mobile-title="Subjonctif Présent"
+              >
+                <p>Présent</p>
+                <ul class="wrap-verbs-listing">
+                  <li>
+                    <i class="particletxt">que </i><i class="graytxt">je </i
+                    ><i class="verbtxt">puisse</i>
+                  </li>
+                  <li>
+                    <i class="particletxt">que </i><i class="graytxt">tu </i
+                    ><i class="verbtxt">puisses</i>
+                  </li>
+                  <li>
+                    <i class="particletxt">qu'</i><i class="graytxt">il/elle </i
+                    ><i class="verbtxt">puisse</i>
+                  </li>
+                  <li>
+                    <i class="particletxt">que </i><i class="graytxt">nous </i
+                    ><i class="verbtxt">puissions</i>
+                  </li>
+                  <li>
+                    <i class="particletxt">que </i><i class="graytxt">vous </i
+                    ><i class="verbtxt">puissiez</i>
+                  </li>
+                  <li>
+                    <i class="particletxt">qu'</i
+                    ><i class="graytxt">ils/elles </i
+                    ><i class="verbtxt">puissent</i>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="word-wrap-row">
+            <div class="wrap-three-col">
+              <div
+                class="blue-box-wrap alt-tense"
+                mobile-title="Subjonctif Imparfait"
+              >
+                <p>Imparfait</p>
+                <ul class="wrap-verbs-listing">
+                  <li>
+                    <i class="particletxt">que </i><i class="graytxt">je </i
+                    ><i class="verbtxt">pusse</i>
+                  </li>
+                  <li>
+                    <i class="particletxt">que </i><i class="graytxt">tu </i
+                    ><i class="verbtxt">pusses</i>
+                  </li>
+                  <li>
+                    <i class="particletxt">qu'</i><i class="graytxt">il/elle </i
+                    ><i class="verbtxt">pût</i>
+                  </li>
+                  <li>
+                    <i class="particletxt">que </i><i class="graytxt">nous </i
+                    ><i class="verbtxt">pussions</i>
+                  </li>
+                  <li>
+                    <i class="particletxt">que </i><i class="graytxt">vous </i
+                    ><i class="verbtxt">pussiez</i>
+                  </li>
+                  <li>
+                    <i class="particletxt">qu'</i
+                    ><i class="graytxt">ils/elles </i
+                    ><i class="verbtxt">pussent</i>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="wrap-three-col" c="1">
+              <div
+                class="blue-box-wrap alt-tense"
+                mobile-title="Subjonctif Plus-que-parfait"
+              >
+                <p>Plus-que-parfait</p>
+                <ul class="wrap-verbs-listing">
+                  <li>
+                    <i class="particletxt">que </i><i class="graytxt">j'</i
+                    ><i class="auxgraytxt">eusse </i><i class="verbtxt">pu</i>
+                  </li>
+                  <li>
+                    <i class="particletxt">que </i><i class="graytxt">tu </i
+                    ><i class="auxgraytxt">eusses </i><i class="verbtxt">pu</i>
+                  </li>
+                  <li>
+                    <i class="particletxt">qu'</i><i class="graytxt">il/elle </i
+                    ><i class="auxgraytxt">eût </i><i class="verbtxt">pu</i>
+                  </li>
+                  <li>
+                    <i class="particletxt">que </i><i class="graytxt">nous </i
+                    ><i class="auxgraytxt">eussions </i
+                    ><i class="verbtxt">pu</i>
+                  </li>
+                  <li>
+                    <i class="particletxt">que </i><i class="graytxt">vous </i
+                    ><i class="auxgraytxt">eussiez </i><i class="verbtxt">pu</i>
+                  </li>
+                  <li>
+                    <i class="particletxt">qu'</i
+                    ><i class="graytxt">ils/elles </i
+                    ><i class="auxgraytxt">eussent </i><i class="verbtxt">pu</i>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="wrap-three-col" c="1">
+              <div
+                class="blue-box-wrap alt-tense"
+                mobile-title="Subjonctif Passé"
+              >
+                <p>Passé</p>
+                <ul class="wrap-verbs-listing">
+                  <li>
+                    <i class="particletxt">que </i><i class="graytxt">j'</i
+                    ><i class="auxgraytxt">aie </i><i class="verbtxt">pu</i>
+                  </li>
+                  <li>
+                    <i class="particletxt">que </i><i class="graytxt">tu </i
+                    ><i class="auxgraytxt">aies </i><i class="verbtxt">pu</i>
+                  </li>
+                  <li>
+                    <i class="particletxt">qu'</i><i class="graytxt">il/elle </i
+                    ><i class="auxgraytxt">ait </i><i class="verbtxt">pu</i>
+                  </li>
+                  <li>
+                    <i class="particletxt">que </i><i class="graytxt">nous </i
+                    ><i class="auxgraytxt">ayons </i><i class="verbtxt">pu</i>
+                  </li>
+                  <li>
+                    <i class="particletxt">que </i><i class="graytxt">vous </i
+                    ><i class="auxgraytxt">ayez </i><i class="verbtxt">pu</i>
+                  </li>
+                  <li>
+                    <i class="particletxt">qu'</i
+                    ><i class="graytxt">ils/elles </i
+                    ><i class="auxgraytxt">aient </i><i class="verbtxt">pu</i>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="word-wrap-row">
+            <div class="word-wrap-title"><h4>Conditionnel</h4></div>
+            <div class="wrap-three-col">
+              <div class="blue-box-wrap" mobile-title="Conditionnel Présent">
+                <p>Présent</p>
+                <ul class="wrap-verbs-listing">
+                  <li>
+                    <i class="graytxt">je </i><i class="verbtxt">pourrais</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">tu </i><i class="verbtxt">pourrais</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">il/elle </i
+                    ><i class="verbtxt">pourrait</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">nous </i><i class="verbtxt">pourrions</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">vous </i><i class="verbtxt">pourriez</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">ils/elles </i
+                    ><i class="verbtxt">pourraient</i>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="wrap-three-col" c="1">
+              <div
+                class="blue-box-wrap"
+                mobile-title="Conditionnel Passé première forme"
+              >
+                <p>Passé première forme</p>
+                <ul class="wrap-verbs-listing">
+                  <li>
+                    <i class="graytxt">j'</i><i class="auxgraytxt">aurais </i
+                    ><i class="verbtxt">pu</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">tu </i><i class="auxgraytxt">aurais </i
+                    ><i class="verbtxt">pu</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">il/elle </i
+                    ><i class="auxgraytxt">aurait </i><i class="verbtxt">pu</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">nous </i
+                    ><i class="auxgraytxt">aurions </i><i class="verbtxt">pu</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">vous </i><i class="auxgraytxt">auriez </i
+                    ><i class="verbtxt">pu</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">ils/elles </i
+                    ><i class="auxgraytxt">auraient </i
+                    ><i class="verbtxt">pu</i>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="wrap-three-col" c="1">
+              <div
+                class="blue-box-wrap"
+                mobile-title="Conditionnel Passé deuxième forme"
+              >
+                <p>Passé deuxième forme</p>
+                <ul class="wrap-verbs-listing">
+                  <li>
+                    <i class="graytxt">j'</i><i class="auxgraytxt">eusse </i
+                    ><i class="verbtxt">pu</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">tu </i><i class="auxgraytxt">eusses </i
+                    ><i class="verbtxt">pu</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">il/elle </i><i class="auxgraytxt">eût </i
+                    ><i class="verbtxt">pu</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">nous </i
+                    ><i class="auxgraytxt">eussions </i
+                    ><i class="verbtxt">pu</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">vous </i
+                    ><i class="auxgraytxt">eussiez </i><i class="verbtxt">pu</i>
+                  </li>
+                  <li>
+                    <i class="graytxt">ils/elles </i
+                    ><i class="auxgraytxt">eussent </i><i class="verbtxt">pu</i>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="word-wrap-row">
+            <div class="word-wrap-title"><h4>Participe</h4></div>
+            <div class="wrap-three-col">
+              <div
+                class="blue-box-wrap alt-tense"
+                mobile-title="Participe Présent"
+              >
+                <p>Présent</p>
+                <ul class="wrap-verbs-listing top2">
+                  <li><i class="verbtxt">pouvant</i></li>
+                </ul>
+              </div>
+            </div>
+            <div class="wrap-three-col" c="1">
+              <div
+                class="blue-box-wrap alt-tense"
+                mobile-title="Participe Passé composé"
+              >
+                <p>Passé composé</p>
+                <ul class="wrap-verbs-listing">
+                  <li>
+                    <i class="auxgraytxt">ayant </i><i class="verbtxt">pu</i>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="wrap-three-col">
+              <div
+                class="blue-box-wrap alt-tense"
+                mobile-title="Participe Passé"
+              >
+                <p>Passé</p>
+                <ul class="wrap-verbs-listing top3">
+                  <li>
+                    <i class="graytxt name">masc.sg.: </i
+                    ><i class="verbtxt">pu</i>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="word-wrap-row">
+            <div class="word-wrap-title two-col-left"><h4>Impératif</h4></div>
+            <div class="wrap-three-col">
+              <div class="blue-box-wrap" mobile-title="Impératif Présent">
+                <p>Présent</p>
+                <ul class="wrap-verbs-listing"></ul>
+              </div>
+            </div>
+            <div class="wrap-three-col" c="1">
+              <div class="blue-box-wrap" mobile-title="Impératif Passé">
+                <p>Passé</p>
+                <ul class="wrap-verbs-listing">
+                  <li>
+                    <i class="auxgraytxt">aie </i><i class="verbtxt">pu</i>
+                  </li>
+                  <li>
+                    <i class="auxgraytxt">ayons </i><i class="verbtxt">pu</i>
+                  </li>
+                  <li>
+                    <i class="auxgraytxt">ayez </i><i class="verbtxt">pu</i>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="wrap-three-col" style="margin-top: -21px">
+              <div class="word-wrap-title"><h4>Infinitif</h4></div>
+              <div
+                class="blue-box-wrap alt-tense"
+                mobile-title="Infinitif Présent"
+              >
+                <p>Présent</p>
+                <ul class="wrap-verbs-listing top1">
+                  <li><i class="verbtxt">pouvoir</i></li>
+                </ul>
+              </div>
+              <div
+                class="blue-box-wrap alt-tense"
+                mobile-title="Infinitif Passé"
+              >
+                <p>Passé</p>
+                <ul class="wrap-verbs-listing">
+                  <li>
+                    <i class="auxgraytxt">avoir </i><i class="verbtxt">pu</i>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="word-wrap-row one-col">
+            <div class="wrap-three-col" c="1"></div>
+          </div>
+        </div>
+      </div>
     </div>
-    
-				<div class="bottom-horizontal">			
-			
-				
-					<div class="bnrtitle">Advertising</div>			
-					<div class="inside-box">
-						<!-- Conjugueur-BOTTOM_728x90 -->
-						<div id="div-gpt-ad-Reverso_Conj_D_All_728x90_BTF" style="width:728px; height:90px;"><div id="div-gpt-ad-Reverso_Conj_D_All_728x90_BTF__ayManagerEnv__1"></div>
-                            <script type="text/javascript">
-                                ramjs.que.push(function () { ramjs.business.displayGoogletagSlot('div-gpt-ad-Reverso_Conj_D_All_728x90_BTF') });
-                            </script>
-						</div>
-					</div>
-                
-				</div>
-		
+
+    <div class="bottom-horizontal">
+      <div class="bnrtitle">Advertising</div>
+      <div class="inside-box">
+        <!-- Conjugueur-BOTTOM_728x90 -->
+        <div
+          id="div-gpt-ad-Reverso_Conj_D_All_728x90_BTF"
+          style="width: 728px; height: 90px"
+        >
+          <div
+            id="div-gpt-ad-Reverso_Conj_D_All_728x90_BTF__ayManagerEnv__1"
+          ></div>
+          <script type="text/javascript">
+            ramjs.que.push(function () {
+              ramjs.business.displayGoogletagSlot(
+                "div-gpt-ad-Reverso_Conj_D_All_728x90_BTF",
+              );
+            });
+          </script>
+        </div>
+      </div>
+    </div>
+
     <div class="word-wrap-descr">
-        <b>pouvoir</b> verb conjugation to all tenses, modes and persons.<br> Search the definition and the translation in context for “<b>pouvoir</b>”, with examples of use extracted from real-life communication.<br>
+      <b>pouvoir</b> verb conjugation to all tenses, modes and persons.<br />
+      Search the definition and the translation in context for “<b>pouvoir</b>”,
+      with examples of use extracted from real-life communication.<br />
     </div>
-
-
-	
 
     <div class="verb-info-repeat">
-                    <p>
-                        <a href="https://conjugator.reverso.net/conjugation-rules-model-french.html" id="ch2_lblModelPrev" class="graylink">Model</a>:
-                        <span id="ch2_lblModel" tooltip="See more info on the conjugation model and verbs which conjugate the same way."><a href="https://conjugator.reverso.net/conjugation-rules-model-french/model-pouvoir.html">pouvoir</a></span>
-                    </p>
-                
-                    <p>
-                        <span id="ch2_lblAuxiliaryPrev">Auxiliary</span>:
-                        <span id="ch2_lblAuxiliary" tooltip="The auxiliary verb used in the conjugation of the compounds forms."><a href="conjugation-french-verb-avoir.html">avoir</a></span>
-                    </p>
-                
-                    <p>
-                        <span id="ch2_lblArray4">Other forms:</span>
-                        <span id="ch2_lblAutreForm" tooltip="See how the verb conjugates in other forms: negative, reflexive."><a href="conjugation-french-verb-se%20pouvoir.html" rel="nofollow">se pouvoir</a>/<a href="conjugation-french-verb-ne%20pas%20pouvoir.html" rel="nofollow">ne pas pouvoir</a>/<a href="conjugation-french-verb-ne%20pas%20se%20pouvoir.html" rel="nofollow">ne pas se pouvoir</a></span>
-                    </p>
-                
-                    
-                </div>
-    <div class="verb-others-list">
-       Conjugate also <a href="conjugation-french-verb-pr%C3%A9dire.html">prédire</a>, <a href="conjugation-french-verb-reconna%C3%AEtre.html">reconnaître</a>, <a href="conjugation-french-verb-contraindre.html">contraindre</a>, <a href="conjugation-french-verb-conduire.html">conduire</a>, <a href="conjugation-french-verb-propulser.html">propulser</a>, <a href="conjugation-french-verb-%C3%A9puiser.html">épuiser</a>, <a href="conjugation-french-verb-appliquer.html">appliquer</a>, <a href="conjugation-french-verb-appr%C3%A9cier.html">apprécier</a>, <a href="conjugation-french-verb-coordonner.html">coordonner</a>, <a href="conjugation-french-verb-cr%C3%A9er.html">créer</a>
+      <p>
+        <a
+          href="https://conjugator.reverso.net/conjugation-rules-model-french.html"
+          id="ch2_lblModelPrev"
+          class="graylink"
+          >Model</a
+        >:
+        <span
+          id="ch2_lblModel"
+          tooltip="See more info on the conjugation model and verbs which conjugate the same way."
+          ><a
+            href="https://conjugator.reverso.net/conjugation-rules-model-french/model-pouvoir.html"
+            >pouvoir</a
+          ></span
+        >
+      </p>
+
+      <p>
+        <span id="ch2_lblAuxiliaryPrev">Auxiliary</span>:
+        <span
+          id="ch2_lblAuxiliary"
+          tooltip="The auxiliary verb used in the conjugation of the compounds forms."
+          ><a href="conjugation-french-verb-avoir.html">avoir</a></span
+        >
+      </p>
+
+      <p>
+        <span id="ch2_lblArray4">Other forms:</span>
+        <span
+          id="ch2_lblAutreForm"
+          tooltip="See how the verb conjugates in other forms: negative, reflexive."
+          ><a href="conjugation-french-verb-se%20pouvoir.html" rel="nofollow"
+            >se pouvoir</a
+          >/<a
+            href="conjugation-french-verb-ne%20pas%20pouvoir.html"
+            rel="nofollow"
+            >ne pas pouvoir</a
+          >/<a
+            href="conjugation-french-verb-ne%20pas%20se%20pouvoir.html"
+            rel="nofollow"
+            >ne pas se pouvoir</a
+          ></span
+        >
+      </p>
     </div>
-    
+    <div class="verb-others-list">
+      Conjugate also
+      <a href="conjugation-french-verb-pr%C3%A9dire.html">prédire</a>,
+      <a href="conjugation-french-verb-reconna%C3%AEtre.html">reconnaître</a>,
+      <a href="conjugation-french-verb-contraindre.html">contraindre</a>,
+      <a href="conjugation-french-verb-conduire.html">conduire</a>,
+      <a href="conjugation-french-verb-propulser.html">propulser</a>,
+      <a href="conjugation-french-verb-%C3%A9puiser.html">épuiser</a>,
+      <a href="conjugation-french-verb-appliquer.html">appliquer</a>,
+      <a href="conjugation-french-verb-appr%C3%A9cier.html">apprécier</a>,
+      <a href="conjugation-french-verb-coordonner.html">coordonner</a>,
+      <a href="conjugation-french-verb-cr%C3%A9er.html">créer</a>
+    </div>
 
-    <div id="infoDialog" tabindex="-1" style="display: none;">Text is copied</div>
+    <div id="infoDialog" tabindex="-1" style="display: none">
+      Text is copied
+    </div>
+  </div>
 
-                                </div>
-                                
-                                <div class="sticky">
-                                    <div class="verticalbox">
-                                        <div class="verticalboxtitle">
-                                            <span>Advertising</span>
-                                        </div>
-                                        
-				<div class="right-vertical">			
-			
-				
-					<!-- /2629866/Conjugueur_160x600 -->
-					<div id="div-gpt-ad-Reverso_Conj_D_All_160x600_ATF"><div id="div-gpt-ad-Reverso_Conj_D_All_160x600_ATF__ayManagerEnv__1_24f1c91c" style=""><div id="google_ads_iframe_/2629866/Reverso_Conj_D_All_160x600_ATF_AY_0__container__" style="border: 0pt none; margin: auto; text-align: center; width: 300px; height: 0px;"></div></div>
-                        <script type="text/javascript">
-                            ramjs.que.push(function () { ramjs.business.displayGoogletagSlot('div-gpt-ad-Reverso_Conj_D_All_160x600_ATF') });
-                        </script>
-					</div>
-				
-				</div>
-		
-                                    </div>
-                                </div>
-                                
-                            </div>
-                        
+  <div class="sticky">
+    <div class="verticalbox">
+      <div class="verticalboxtitle">
+        <span>Advertising</span>
+      </div>
+
+      <div class="right-vertical">
+        <!-- /2629866/Conjugueur_160x600 -->
+        <div id="div-gpt-ad-Reverso_Conj_D_All_160x600_ATF">
+          <div
+            id="div-gpt-ad-Reverso_Conj_D_All_160x600_ATF__ayManagerEnv__1_24f1c91c"
+            style=""
+          >
+            <div
+              id="google_ads_iframe_/2629866/Reverso_Conj_D_All_160x600_ATF_AY_0__container__"
+              style="
+                border: 0pt none;
+                margin: auto;
+                text-align: center;
+                width: 300px;
+                height: 0px;
+              "
+            ></div>
+          </div>
+          <script type="text/javascript">
+            ramjs.que.push(function () {
+              ramjs.business.displayGoogletagSlot(
+                "div-gpt-ad-Reverso_Conj_D_All_160x600_ATF",
+              );
+            });
+          </script>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
