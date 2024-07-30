@@ -1,16 +1,15 @@
-import playwright, { Page } from "playwright";
+import { setTimeout } from "node:timers/promises";
 import fs from "fs-extra";
+import { Page } from "playwright";
+
+import playwright from "playwright";
 
 import { browserType, launchOptions } from "./config";
 
-/**
- * Get the HTML content from one verb page url.
- */
-export const scrapePageForHTMLContent = async (url: string, page: Page) => {
-  const verb = url.split("-").at(-1)?.replace(".html", "");
+const getVerbNamefromUrl = (url: string) =>
+  url.split("-").at(-1)?.replace(".html", "");
 
-  console.log("Running scrapeOneVerbPage script with verb " + verb);
-
+const getPageContent = async (url: string, page: Page) => {
   await page.goto(url);
 
   if (launchOptions.headless === false) {
@@ -18,37 +17,66 @@ export const scrapePageForHTMLContent = async (url: string, page: Page) => {
     await page.click("#didomi-notice-agree-button");
   }
 
-  const contentConj = await page.innerHTML(".content-conj");
+  const content = await page.innerHTML(".content-conj");
+
+  return content;
+};
+
+const writeHTMLToFile = async (path: string, content: string) => {
+  try {
+    await fs.outputFile(path, content, {
+      encoding: "utf-8",
+      flag: "w",
+    });
+    console.log("Data successfully saved to disk: " + path);
+  } catch (error) {
+    console.log("An error has occurred ", error);
+  }
+};
+
+/**
+ * Get the HTML content from one verb page url.
+ */
+export const scrapePageForHTMLContent = async (url: string, page: Page) => {
+  const verb = getVerbNamefromUrl(url);
+  console.log("Running scrapeOneVerbPage script with verb " + verb);
+
+  const content = await getPageContent(url, page);
+
+  const path = `./data/verbs/${verb}/index.html`;
+
+  await writeHTMLToFile(path, content);
 
   // TODO:
   // For each index page, scrape that page for the verb links on the page using this ".index-content li > a" selector.
   // - Do this is a serial manner so that one page at a time so as to not strain the source website too much.
-
-  const path = `./data/verbs/${verb}/index.html`;
-
-  try {
-    fs.outputFile(path, contentConj, {
-      encoding: "utf-8",
-      flag: "w",
-    });
-    // .catch((error: Error) => {
-    //   console.error("Error writing the JSON file:", error);
-    // });
-    console.log("Data successfully saved to disk: " + verb);
-  } catch (error) {
-    console.log("An error has occurred ", error);
-  }
-  return;
 };
 
-// const scrapeOneVerbPage = async () => {
-//   const verbPageUrl = `https://conjugator.reverso.net/conjugation-french-verb-%C3%AAtre.html`;
+export const scrapeOneVerbPage = async () => {
+  const verbPageUrl = `https://conjugator.reverso.net/conjugation-french-verb-%C3%AAtre.html`;
 
-//   const browser = await playwright[browserType].launch(launchOptions);
-//   const context = await browser.newContext();
-//   const page = await context.newPage();
+  const browser = await playwright[browserType].launch(launchOptions);
+  const context = await browser.newContext();
+  const page = await context.newPage();
 
-//   await scrapePageForHTMLContent(verbPageUrl, page);
+  // First scrape
+  await scrapePageForHTMLContent(verbPageUrl, page);
 
-//   await browser.close();
-// };
+  console.time("waiting");
+
+  // 2s wait
+  await setTimeout(2000);
+
+  console.timeEnd("waiting");
+
+  // 2nd scrape
+  await scrapePageForHTMLContent(
+    "https://conjugator.reverso.net/conjugation-french-verb-faire.html",
+    page
+  );
+
+  // "https://conjugator.reverso.net/conjugation-french-verb-%C3%AAtre.html",
+  //   "https://conjugator.reverso.net/conjugation-french-verb-faire.html",
+
+  await browser.close();
+};
