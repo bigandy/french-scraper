@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "tsx index.mts",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prettier-write": "prettier --write data/verbs"
   },
   "keywords": [],
   "author": "",
@@ -13,7 +14,6 @@
   "description": "",
   "dependencies": {
     "cheerio": "1.0.0-rc.12",
-    "p-limit": "6.1.0",
     "playwright": "1.45.3",
     "typescript": "5.5.4"
   },
@@ -22,7 +22,7 @@
     "@types/node": "20.14.11",
     "fs-extra": "11.2.0",
     "p-queue": "8.0.1",
-    "p-series": "3.0.0",
+    "prettier": "3.3.3",
     "ts-node": "10.9.2",
     "tsx": "4.16.2"
   }

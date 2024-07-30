@@ -7,7 +7,9 @@ import playwright from "playwright";
 import { browserType, launchOptions } from "./config";
 
 const getVerbNamefromUrl = (url: string) =>
-  url.split("-").at(-1)?.replace(".html", "");
+  url
+    .replace("https://conjugator.reverso.net/conjugation-french-verb-", "")
+    .replace(".html", "");
 
 const getPageContent = async (url: string, page: Page) => {
   await page.goto(url);
@@ -35,17 +37,64 @@ const writeHTMLToFile = async (path: string, content: string) => {
 };
 
 /**
+ * Record if the scrape is successful or unsuccessful
+ */
+const writeToRecordFile = async (url: string, filePath: string) => {
+  try {
+    const fileDataBuffer = await fs.readFileSync(filePath);
+
+    // convert the Buffer to HTML
+    const fileData = Buffer.from(fileDataBuffer).toString();
+    const { urls } = JSON.parse(fileData);
+
+    if (!urls.includes(url)) {
+      const content = [...urls, url];
+
+      await fs.outputFile(filePath, JSON.stringify({ urls: content }), {
+        encoding: "utf-8",
+        flag: "w",
+      });
+    }
+
+    console.log("Data successfully saved to disk: " + url);
+  } catch (error) {
+    console.log("An error has occurred ", error);
+
+    // @ts-expect-error
+    if (error.errno === -2) {
+      await fs.outputFile(filePath, JSON.stringify({ urls: [] }), {
+        encoding: "utf-8",
+        flag: "w",
+      });
+
+      writeToRecordFile(url, filePath);
+    }
+  }
+};
+
+/**
  * Get the HTML content from one verb page url.
  */
 export const scrapePageForHTMLContent = async (url: string, page: Page) => {
   const verb = getVerbNamefromUrl(url);
-  console.log("Running scrapeOneVerbPage script with verb " + verb);
-
-  const content = await getPageContent(url, page);
 
   const path = `./data/verbs/${verb}/index.html`;
+  const successFilePath = "./data/recording/success.json";
+  const errorFilePath = "./data/recording/error.json";
 
-  await writeHTMLToFile(path, content);
+  try {
+    console.log("Running scrapeOneVerbPage script with verb " + verb);
+
+    const content = await getPageContent(url, page);
+
+    await writeHTMLToFile(path, content);
+
+    await writeToRecordFile(url, successFilePath);
+  } catch (error) {
+    console.error("error in scrapePageForHTMLContent", error);
+
+    await writeToRecordFile(url, errorFilePath);
+  }
 
   // TODO:
   // For each index page, scrape that page for the verb links on the page using this ".index-content li > a" selector.
@@ -53,7 +102,7 @@ export const scrapePageForHTMLContent = async (url: string, page: Page) => {
 };
 
 export const scrapeOneVerbPage = async () => {
-  const verbPageUrl = `https://conjugator.reverso.net/conjugation-french-verb-%C3%AAtre.html`;
+  const verbPageUrl = `https://conjugator.reverso.net/conjugation-french-verb-fermer.html`;
 
   const browser = await playwright[browserType].launch(launchOptions);
   const context = await browser.newContext();
@@ -64,12 +113,12 @@ export const scrapeOneVerbPage = async () => {
 
   console.time("waiting");
 
-  // 2s wait
+  // // 2s wait
   await setTimeout(2000);
 
   console.timeEnd("waiting");
 
-  // 2nd scrape
+  // // 2nd scrape
   await scrapePageForHTMLContent(
     "https://conjugator.reverso.net/conjugation-french-verb-faire.html",
     page

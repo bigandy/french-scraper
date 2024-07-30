@@ -1,7 +1,7 @@
-import fs from "fs-extra";
 import cheerio from "cheerio";
+import fs from "fs-extra";
 
-import type { Verbs, Verb, Model } from "../types/verb";
+import type { Model, Verbs } from "../../types/verb";
 
 function capitalizeFirstLetter(string: string) {
   return string.charAt(0).toUpperCase() + string.slice(1);
