@@ -8,8 +8,8 @@ import { scrapePageForHTMLContent } from "./scrapeOneVerbPage";
 import PQueue from "p-queue";
 const queue = new PQueue({
   concurrency: 1,
-  interval: 3000, // 3s
-  intervalCap: 3,
+  interval: 5000, // 5s
+  intervalCap: 1,
 });
 
 // TODO
