@@ -3,24 +3,14 @@ import fs from "fs-extra";
 
 import type { Model, Verbs } from "../../types/verb";
 
-function capitalizeFirstLetter(string: string) {
-  return string.charAt(0).toUpperCase() + string.slice(1);
-}
+import { capitalizeFirstLetter } from "../helpers";
 
-/**
- * Turn the HTML of one verb page collected
- * and extract the data from it using cheerio.
- */
-export const convertOneVerbPageHTMLToGetTheData = async () => {
-  console.log("Running scrapeOneVerbPage script");
+const getPath = (verb: string, filename: "index.html" | "index.json") => {
+  const path = `./data/verbs/${verb}/${filename}`;
+  return path;
+};
 
-  const verb = "%C3%AAtre"; // être
-
-  const getPath = (filename: "index.html" | "index.json") => {
-    const path = `./data/verbs/${verb}/${filename}`;
-    return path;
-  };
-
+const extractFileDataFromHtmlFile = async (verb: string) => {
   // TODO:
   // 1. Load the HTML of the verb
   // 2. read the content of the HTML and extract the information in a form that can be
@@ -29,10 +19,28 @@ export const convertOneVerbPageHTMLToGetTheData = async () => {
   // 4. save the data as a .json file in the same folder
 
   try {
-    const fileDataBuffer = await fs.readFileSync(getPath("index.html"));
+    const fileDataBuffer = await fs.readFileSync(getPath(verb, "index.html"));
 
     // convert the Buffer to HTML
     const fileData = Buffer.from(fileDataBuffer).toString();
+
+    return fileData;
+  } catch (error: any) {
+    throw new Error("Error in extractFileDataFromHtmlFile", error.toString());
+  }
+};
+
+/**
+ * Turn the HTML of one verb page collected
+ * and extract the data from it using cheerio.
+ */
+export const convertOneVerbPageHTMLToGetTheData = async () => {
+  console.log("Running scrapeOneVerbPage script");
+  const verb = "%C3%AAtre"; // être
+
+  try {
+    const fileData = await extractFileDataFromHtmlFile(verb);
+
     const $ = cheerio.load(fileData);
     const name = $("#ch_lblModel").text(); // Read the HTML with cheerio
     const definition = $("#list-translations p").text();

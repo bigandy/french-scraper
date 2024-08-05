@@ -14,6 +14,8 @@ Once I have the verbs I will be able to test myself against the verbs: what does
 - [x] Grab the HTML from an individual page by going to each url with Playwright
 - [ ] from the HTML, grab the pertinent data and store as a .json file
 
+- [ ] Write test to check whether the data from the convertOneVerbPageHTMLToGetTheData function is accurate versus the input HTML
+
 ### Future
 
 - Store the data in a DB. A DB could be useful if I want to have the ability in the future to add custom non-verb words, add extra verbs from elsewhere. I'll make that choice later.
