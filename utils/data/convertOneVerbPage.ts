@@ -11,13 +11,6 @@ const getPath = (verb: string, filename: "index.html" | "index.json") => {
 };
 
 const extractFileDataFromHtmlFile = async (verb: string) => {
-  // TODO:
-  // 1. Load the HTML of the verb
-  // 2. read the content of the HTML and extract the information in a form that can be
-  //    used in a later stage
-  // 3. the structure of the data is already defined in /types/verb.ts
-  // 4. save the data as a .json file in the same folder
-
   try {
     const fileDataBuffer = await fs.readFileSync(getPath(verb, "index.html"));
 
@@ -41,8 +34,10 @@ export const convertOneVerbPageHTMLToGetTheData = async () => {
   try {
     const fileData = await extractFileDataFromHtmlFile(verb);
 
+    // Read the HTML with cheerio
     const $ = cheerio.load(fileData);
-    const name = $("#ch_lblModel").text(); // Read the HTML with cheerio
+
+    const name = $("#ch_lblModel").text();
     const definition = $("#list-translations p").text();
     const model = $("#ch_lblModel").text() as Model;
     const auxiliary = $("#ch_lblAuxiliary").text() as Model;
@@ -119,19 +114,21 @@ export const convertOneVerbPageHTMLToGetTheData = async () => {
     };
 
     // WRITE TO JSON
-    try {
-      fs.outputFile(getPath("index.json"), JSON.stringify(result), {
-        encoding: "utf-8",
-        flag: "w",
-      });
-      // .catch((error: Error) => {
-      //   console.error("Error writing the JSON file:", error);
-      // });
-      console.log("Data successfully saved to disk");
-    } catch (error) {
-      console.log("An error has occurred ", error);
-    }
+    writeDataToJSON(getPath(verb, "index.json"), result);
   } catch (error) {
     console.log("An error has occurred ", error);
+  }
+};
+
+const writeDataToJSON = (filePath: string, result: Verbs) => {
+  try {
+    fs.outputFile(filePath, JSON.stringify(result), {
+      encoding: "utf-8",
+      flag: "w",
+    });
+    console.log("Data successfully saved to disk");
+  } catch (error) {
+    console.log("An error has occurred ", error);
+    throw new Error("An error has occurred in writeDataToJSON");
   }
 };
