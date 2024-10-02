@@ -1,11 +1,15 @@
-export interface Verb {
-  je: string;
-  tu: string;
-  "il/elle": string; // elle/il/on
-  nous: string;
-  vous: string;
-  "ils/elles": string; // ils/elles
+interface VerbWithBothOptions {
+  je?: string;
+  "j'"?: string;
+  tu?: string;
+  "il/elle"?: string;
+  vous?: string;
+  "ils/elles"?: string;
 }
+
+export type Verb =
+  | Omit<VerbWithBothOptions, "je">
+  | Omit<VerbWithBothOptions, "j'">;
 
 export type Model = "être" | "avoir";
 
