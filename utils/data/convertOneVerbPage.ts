@@ -1,41 +1,24 @@
-import cheerio from "cheerio";
-import fs from "fs-extra";
+import { load } from "cheerio";
 
 import type { Model, Verbs } from "../../types/verb";
 
 import { capitalizeFirstLetter } from "../helpers";
-
-const getPath = (verb: string, filename: "index.html" | "index.json") => {
-  const path = `./data/verbs/${verb}/${filename}`;
-  return path;
-};
-
-const extractFileDataFromHtmlFile = async (verb: string) => {
-  try {
-    const fileDataBuffer = await fs.readFileSync(getPath(verb, "index.html"));
-
-    // convert the Buffer to HTML
-    const fileData = Buffer.from(fileDataBuffer).toString();
-
-    return fileData;
-  } catch (error: any) {
-    throw new Error("Error in extractFileDataFromHtmlFile", error.toString());
-  }
-};
+import {
+  writeDataToJSON,
+  extractFileDataFromHtmlFile,
+  getPath,
+} from "./helpers";
 
 /**
  * Turn the HTML of one verb page collected
  * and extract the data from it using cheerio.
  */
-export const convertOneVerbPageHTMLToGetTheData = async () => {
-  console.log("Running scrapeOneVerbPage script");
-  const verb = "%C3%AAtre"; // être
+export const scrapeVerbHTML = async (html: string) => {
+  // const verb = "%C3%AAtre"; // être
 
   try {
-    const fileData = await extractFileDataFromHtmlFile(verb);
-
     // Read the HTML with cheerio
-    const $ = cheerio.load(fileData);
+    const $ = load(html);
 
     const name = $("#ch_lblModel").text();
     const definition = $("#list-translations p").text();
@@ -43,7 +26,7 @@ export const convertOneVerbPageHTMLToGetTheData = async () => {
     const auxiliary = $("#ch_lblAuxiliary").text() as Model;
     const otherForms = $("#ch_lblAutreForm").text();
 
-    console.log("Data read from file", name);
+    // console.log("Data read from file", name);
 
     // TODO: type Indicative
     const indicatif: any = {};
@@ -67,9 +50,19 @@ export const convertOneVerbPageHTMLToGetTheData = async () => {
 
       const texts: any = {};
       items.each((_, item) => {
-        const split = $(item).text().trim().split(" ");
-        texts[split[0]] = split[1];
+        const text = $(item).text().replaceAll("\n", "").trim();
+        let split = [];
+        if (text.includes("j'")) {
+          split = text.split("j'");
+          // add j' to beginning of array
+          split[0] = "j'";
+        } else {
+          split = text.split(" ");
+        }
+        const [first, ...rest] = split;
+        texts[first] = rest;
       });
+      // console.log({ texts });
       indicatif[selector] = texts;
     });
 
@@ -114,21 +107,18 @@ export const convertOneVerbPageHTMLToGetTheData = async () => {
     };
 
     // WRITE TO JSON
-    writeDataToJSON(getPath(verb, "index.json"), result);
+    return result;
   } catch (error) {
     console.log("An error has occurred ", error);
   }
 };
 
-const writeDataToJSON = (filePath: string, result: Verbs) => {
-  try {
-    fs.outputFile(filePath, JSON.stringify(result), {
-      encoding: "utf-8",
-      flag: "w",
-    });
-    console.log("Data successfully saved to disk");
-  } catch (error) {
-    console.log("An error has occurred ", error);
-    throw new Error("An error has occurred in writeDataToJSON");
-  }
+export const convertOneVerbPageHTMLToGetTheData = async (
+  verb = "%C3%AAtre"
+) => {
+  const html = await extractFileDataFromHtmlFile(verb);
+  const formattedData = await scrapeVerbHTML(html);
+  await writeDataToJSON(getPath(verb, "index.json"), formattedData);
+
+  return formattedData;
 };
