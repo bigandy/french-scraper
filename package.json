@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "tsx index.mts",
     "test": "vitest",
-    "prettier-write": "prettier --write data/verbs"
+    "prettier-write": "prettier --write data/verbs",
+    "prepare": "husky install"
   },
   "keywords": [],
   "author": "",
@@ -21,10 +22,15 @@
     "@types/fs-extra": "11.0.4",
     "@types/node": "20.14.11",
     "fs-extra": "11.2.0",
+    "husky": "9.1.6",
+    "lint-staged": "15.2.10",
     "p-queue": "8.0.1",
     "prettier": "3.3.3",
     "ts-node": "10.9.2",
     "tsx": "4.16.2",
     "vitest": "2.1.1"
+  },
+  "lint-staged": {
+    "*.{js,css,ts}": "prettier --write"
   }
 }
