@@ -100,6 +100,32 @@ test("convertOneVerbPageHTMLToGetTheData", async () => {
         "qu'ils/elles": "aient été",
       },
     },
+    conditionnel: {
+      présent: {
+        je: "serais",
+        tu: "serais",
+        "il/elle": "serait",
+        nous: "serions",
+        vous: "seriez",
+        "ils/elles": "seraient",
+      },
+      "passé première forme": {
+        "j'": "aurais été",
+        tu: "aurais été",
+        "il/elle": "aurait été",
+        nous: "aurions été",
+        vous: "auriez été",
+        "ils/elles": "auraient été",
+      },
+      "passé deuxième forme": {
+        "j'": "eusse été",
+        tu: "eusses été",
+        "il/elle": "eût été",
+        nous: "eussions été",
+        vous: "eussiez été",
+        "ils/elles": "eussent été",
+      },
+    },
   };
 
   // This is when you want to check for the presence of key: value pair in object but not check the whole object.

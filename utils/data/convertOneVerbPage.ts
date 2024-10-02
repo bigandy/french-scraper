@@ -87,26 +87,42 @@ const getSubjonctive = ($: CheerioAPI) => {
     subjonctif[selector] = texts;
   });
 
-  // subjonctifChildren.forEach((selector) => {
-  //   const combinedSelector = `[mobile-title="Subjonctif ${capitalizeFirstLetter(
-  //     selector
-  //   )}"] ul`;
-
-  //   const items = $(combinedSelector).find("li");
-
-  //   const texts: any = {};
-  //   items.each((_, item) => {
-  //     const split = $(item).text().trim().split(" ");
-  //     texts[split[0]] = split[1];
-  //   });
-  //   subjonctif[selector] = texts;
-  // });
-
-  // for each verb sub-component grouping we have a [mobile-title="Parent Child"]  > ul
-  // Listing which will contain all the information
-  // an example is [mobile=title="Indicatif Présent"] > ul
-
   return subjonctif;
+};
+
+const getConditionnel = ($: CheerioAPI) => {
+  const conditionnel: any = {};
+  const conditionnelChildren = [
+    "présent",
+    "passé première forme",
+    "passé deuxième forme",
+  ];
+
+  conditionnelChildren.forEach((selector) => {
+    const combinedSelector = `[mobile-title="Conditionnel ${capitalizeFirstLetter(
+      selector
+    )}"] ul`;
+
+    const items = $(combinedSelector).find("li");
+
+    const texts: any = {};
+    items.each((_, item) => {
+      const text = $(item).text().replaceAll("\n", "").trim();
+      let split = [];
+      if (text.includes("j'")) {
+        split = text.split("j'");
+        // add j' to beginning of array
+        split[0] = "j'";
+      } else {
+        split = text.split(" ");
+      }
+      const [first, ...rest] = split;
+      texts[first] = rest.join(" ");
+    });
+    conditionnel[selector] = texts;
+  });
+
+  return conditionnel;
 };
 
 /**
@@ -130,6 +146,7 @@ export const scrapeVerbHTML = async (html: string) => {
 
     const indicatif = getIndicative($);
     const subjonctif = getSubjonctive($);
+    const conditionnel = getConditionnel($);
 
     const result: Verbs = {
       name,
@@ -141,6 +158,7 @@ export const scrapeVerbHTML = async (html: string) => {
       // @ts-expect-error
       indicatif,
       subjonctif,
+      conditionnel,
     };
 
     // WRITE TO JSON
