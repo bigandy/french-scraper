@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "tsx index.mts",
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "vitest",
     "prettier-write": "prettier --write data/verbs"
   },
   "keywords": [],
@@ -24,6 +24,7 @@
     "p-queue": "8.0.1",
     "prettier": "3.3.3",
     "ts-node": "10.9.2",
-    "tsx": "4.16.2"
+    "tsx": "4.16.2",
+    "vitest": "2.1.1"
   }
 }
