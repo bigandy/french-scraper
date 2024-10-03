@@ -126,6 +126,21 @@ test("convertOneVerbPageHTMLToGetTheData", async () => {
         "ils/elles": "eussent été",
       },
     },
+    participe: {
+      présent: { étant: "" },
+      "passé composé": { ayant: "été" },
+      passé: {
+        "masc.sg.:": "été",
+        "masc.pl.:": "été",
+        "fém.sg.:": "été",
+        "fém.pl.:": "été",
+      },
+    },
+    imperatif: {
+      présent: { sois: "", soyons: "", soyez: "" },
+      passé: { aie: "été", ayons: "été", ayez: "été" },
+    },
+    infinitif: { présent: { être: "" }, passé: { avoir: "été" } },
   };
 
   // This is when you want to check for the presence of key: value pair in object but not check the whole object.

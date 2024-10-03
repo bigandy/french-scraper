@@ -3,7 +3,7 @@
 // import { getAllVerbUrlsFromIndexUrls } from "./utils/browser/getAllVerbUrlsFromIndexUrls";
 
 // import { scrapeOneVerbPage } from "./utils/browser/scrapeOneVerbPage";
-import { convertOneVerbPageHTMLToGetTheData } from "./utils/data/convertOneVerbPage";
+import { convertOneVerbPageHTMLToGetTheData, writeVerbDataToJSON } from "./utils/data/convertOneVerbPage";
 
 const run = async () => {
   // const urls = await getIndexPageUrls();
@@ -16,7 +16,10 @@ const run = async () => {
   // await scrapeOneVerbPage();
   // await scrapeAllVerbPages();
 
-  await convertOneVerbPageHTMLToGetTheData();
+  const data = await convertOneVerbPageHTMLToGetTheData();
+  if (data) {
+    await writeVerbDataToJSON("%C3%AAtre", data);
+  }
 };
 
 run();

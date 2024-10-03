@@ -29,7 +29,7 @@ const getIndicative = ($: CheerioAPI) => {
 
   indicativeChildren.forEach((selector) => {
     const combinedSelector = `[mobile-title="Indicatif ${capitalizeFirstLetter(
-      selector
+      selector,
     )}"] ul`;
 
     const items = $(combinedSelector).find("li");
@@ -65,7 +65,7 @@ const getSubjonctive = ($: CheerioAPI) => {
 
   subjonctifChildren.forEach((selector) => {
     const combinedSelector = `[mobile-title="Subjonctif ${capitalizeFirstLetter(
-      selector
+      selector,
     )}"] ul`;
 
     const items = $(combinedSelector).find("li");
@@ -90,6 +90,11 @@ const getSubjonctive = ($: CheerioAPI) => {
   return subjonctif;
 };
 
+/**
+ * Get the conditionnel from the html provided.
+ * @param $ CheerioAPI
+ * @returns data object
+ */
 const getConditionnel = ($: CheerioAPI) => {
   const conditionnel: any = {};
   const conditionnelChildren = [
@@ -100,7 +105,7 @@ const getConditionnel = ($: CheerioAPI) => {
 
   conditionnelChildren.forEach((selector) => {
     const combinedSelector = `[mobile-title="Conditionnel ${capitalizeFirstLetter(
-      selector
+      selector,
     )}"] ul`;
 
     const items = $(combinedSelector).find("li");
@@ -125,28 +130,143 @@ const getConditionnel = ($: CheerioAPI) => {
   return conditionnel;
 };
 
+const getParticipe = ($: CheerioAPI) => {
+  const participe: any = {};
+  const participeChildren = ["présent", "passé composé", "passé"];
+
+  participeChildren.forEach((selector) => {
+    const combinedSelector = `[mobile-title="Participe ${capitalizeFirstLetter(
+      selector,
+    )}"] ul`;
+
+    const items = $(combinedSelector).find("li");
+
+    const texts: any = {};
+    items.each((_, item) => {
+      const text = $(item).text().replaceAll("\n", "").trim();
+      let split = [];
+      if (text.includes("j'")) {
+        split = text.split("j'");
+        // add j' to beginning of array
+        split[0] = "j'";
+      } else {
+        split = text.split(" ");
+      }
+      const [first, ...rest] = split;
+      texts[first] = rest.join(" ");
+    });
+    participe[selector] = texts;
+  });
+
+  return participe;
+};
+
+const getImperatif = ($: CheerioAPI) => {
+  const imperatif: any = {};
+  const imperatifChildren = ["présent", "passé"];
+
+  imperatifChildren.forEach((selector) => {
+    const combinedSelector = `[mobile-title="Impératif ${capitalizeFirstLetter(
+      selector,
+    )}"] ul`;
+
+    const items = $(combinedSelector).find("li");
+
+    const texts: any = {};
+    items.each((_, item) => {
+      const text = $(item).text().replaceAll("\n", "").trim();
+      let split = [];
+      if (text.includes("j'")) {
+        split = text.split("j'");
+        // add j' to beginning of array
+        split[0] = "j'";
+      } else {
+        split = text.split(" ");
+      }
+      const [first, ...rest] = split;
+      texts[first] = rest.join(" ");
+    });
+    imperatif[selector] = texts;
+  });
+
+  return imperatif;
+};
+
+const getInfinitif = ($: CheerioAPI) => {
+  const infinitif: any = {};
+  const infinitifChildren = ["présent", "passé"];
+
+  infinitifChildren.forEach((selector) => {
+    const combinedSelector = `[mobile-title="Infinitif ${capitalizeFirstLetter(
+      selector,
+    )}"] ul`;
+
+    const items = $(combinedSelector).find("li");
+
+    const texts: any = {};
+    items.each((_, item) => {
+      const text = $(item).text().replaceAll("\n", "").trim();
+      let split = [];
+      if (text.includes("j'")) {
+        split = text.split("j'");
+        // add j' to beginning of array
+        split[0] = "j'";
+      } else {
+        split = text.split(" ");
+      }
+      const [first, ...rest] = split;
+      texts[first] = rest.join(" ");
+    });
+    infinitif[selector] = texts;
+  });
+
+  return infinitif;
+};
+
+const getName = ($: CheerioAPI) => {
+  return $("#ch_lblModel").text();
+};
+
+const getDefinition = ($: CheerioAPI) => {
+  return $("#list-translations p").text();
+};
+
+const getModel = ($: CheerioAPI) => {
+  return $("#ch_lblModel").text() as Model;
+};
+
+const getAuxillery = ($: CheerioAPI) => {
+  return $("#ch_lblAuxiliary").text() as Model;
+};
+
+const getOtherForms = ($: CheerioAPI) => {
+  return $("#ch_lblAutreForm").text();
+};
+
 /**
  * Turn the HTML of one verb page collected
  * and extract the data from it using cheerio.
  */
-export const scrapeVerbHTML = async (html: string) => {
-  // const verb = "%C3%AAtre"; // être
-
+export const getDataFromHtml = async (html: string) => {
   try {
     // Read the HTML with cheerio
     const $ = load(html);
 
-    const name = $("#ch_lblModel").text();
-    const definition = $("#list-translations p").text();
-    const model = $("#ch_lblModel").text() as Model;
-    const auxiliary = $("#ch_lblAuxiliary").text() as Model;
-    const otherForms = $("#ch_lblAutreForm").text();
+    const name = getName($);
+    const definition = getDefinition($);
+    const model = getModel($);
+    const auxiliary = getAuxillery($);
+    const otherForms = getOtherForms($);
 
     // console.log("Data read from file", name);
 
     const indicatif = getIndicative($);
     const subjonctif = getSubjonctive($);
     const conditionnel = getConditionnel($);
+
+    const participe = getParticipe($);
+    const imperatif = getImperatif($);
+    const infinitif = getInfinitif($);
 
     const result: Verbs = {
       name,
@@ -159,9 +279,12 @@ export const scrapeVerbHTML = async (html: string) => {
       indicatif,
       subjonctif,
       conditionnel,
+
+      participe,
+      imperatif,
+      infinitif,
     };
 
-    // WRITE TO JSON
     return result;
   } catch (error) {
     console.log("An error has occurred ", error);
@@ -169,11 +292,14 @@ export const scrapeVerbHTML = async (html: string) => {
 };
 
 export const convertOneVerbPageHTMLToGetTheData = async (
-  verb = "%C3%AAtre"
+  verb = "%C3%AAtre",
 ) => {
   const html = await extractFileDataFromHtmlFile(verb);
-  const formattedData = await scrapeVerbHTML(html);
-  await writeDataToJSON(getPath(verb, "index.json"), formattedData);
+  const formattedData = await getDataFromHtml(html);
 
   return formattedData;
+};
+
+export const writeVerbDataToJSON = async (verb = "%C3%AAtre", data: Verbs) => {
+  await writeDataToJSON(getPath(verb, "index.json"), data);
 };
