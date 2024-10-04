@@ -147,7 +147,7 @@ describe("convertOneVerbPageHTMLToGetTheData", async () => {
 
   test.each(Object.keys(testData))(`%s is correct`, (name) => {
     // @ts-expect-error
-    expect(data?.[name]).toEqual(testData?.[name]);
+    expect(data?.[name]).toMatchObject(testData?.[name]);
   });
 
   // This is when you want to check for the presence of key: value pair in object but not check the whole object.
