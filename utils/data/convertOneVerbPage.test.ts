@@ -1,4 +1,4 @@
-import { test, expect, describe, beforeAll, it } from "vitest";
+import { test, expect, describe, it } from "vitest";
 import { convertOneVerbPageHTMLToGetTheData } from "./convertOneVerbPage";
 
 const testData = {
@@ -145,28 +145,19 @@ describe("convertOneVerbPageHTMLToGetTheData", async () => {
   const data = await convertOneVerbPageHTMLToGetTheData();
   // });
 
-  // const tests = ["name", "auxillary"];
-
   test.each(Object.keys(testData))(`%s is correct`, (name) => {
     // @ts-expect-error
     expect(data?.[name]).toEqual(testData?.[name]);
   });
 
-  test("name is correct", async () => {
-    // This is when you want to check for the presence of key: value pair in object but not check the whole object.
-    // AHTODO: Need to figure this out still!
-    //   expect(data).toEqual(expect.objectContaining(test));
-    //   expect(data).toEqual(
-    //     expect.objectContaining({
-    //       indicatif: expect.any(Object),
-    //     })
-    //   );
-
-    expect(data?.name).toBe(testData.name);
-  });
-  test("auxiliary is correct", async () => {
-    expect(data?.auxiliary).toBe(testData.auxiliary);
-  });
+  // This is when you want to check for the presence of key: value pair in object but not check the whole object.
+  // AHTODO: Need to figure this out still!
+  //   expect(data).toEqual(expect.objectContaining(test));
+  //   expect(data).toEqual(
+  //     expect.objectContaining({
+  //       indicatif: expect.any(Object),
+  //     })
+  //   );
 
   it("the returned object should match the test data object", () => {
     // This is when you want to check every part of the object. Fails if any differences.
