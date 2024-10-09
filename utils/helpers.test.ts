@@ -1,10 +1,10 @@
-import { expect, test } from "vitest";
+import { expect, test } from 'vitest'
 
-import { capitalizeFirstLetter } from "./helpers";
+import { capitalizeFirstLetter } from './helpers'
 
-test("capitalize first letter", () => {
-  expect(capitalizeFirstLetter("andrew")).toBe("Andrew");
+test('capitalize first letter', () => {
+	expect(capitalizeFirstLetter('andrew')).toBe('Andrew')
 
-  expect(capitalizeFirstLetter("Andrew")).not.toBe("andrew");
-  expect(capitalizeFirstLetter("andré")).toBe("André");
-});
+	expect(capitalizeFirstLetter('Andrew')).not.toBe('andrew')
+	expect(capitalizeFirstLetter('andré')).toBe('André')
+})

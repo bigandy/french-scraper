@@ -18,7 +18,7 @@ const run = async () => {
 
   const data = await convertOneVerbPageHTMLToGetTheData();
   if (data) {
-    await writeVerbDataToJSON("%C3%AAtre", data);
+    await writeVerbDataToJSON(data, "%C3%AAtre");
   }
 };
 
