@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "designate; appoint; nominate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se désigner/ne pas désigner/ne pas se désigner",
+	"indicatif": {
+		"présent": {
+			"je": "désigne",
+			"tu": "désignes",
+			"il/elle": "désigne",
+			"nous": "désignons",
+			"vous": "désignez",
+			"ils/elles": "désignent"
+		},
+		"imparfait": {
+			"je": "désignais",
+			"tu": "désignais",
+			"il/elle": "désignait",
+			"nous": "désignions",
+			"vous": "désigniez",
+			"ils/elles": "désignaient"
+		},
+		"futur": {
+			"je": "désignerai",
+			"tu": "désigneras",
+			"il/elle": "désignera",
+			"nous": "désignerons",
+			"vous": "désignerez",
+			"ils/elles": "désigneront"
+		},
+		"passé simple": {
+			"je": "désignai",
+			"tu": "désignas",
+			"il/elle": "désigna",
+			"nous": "désignâmes",
+			"vous": "désignâtes",
+			"ils/elles": "désignèrent"
+		},
+		"passé composé": {
+			"j'": "ai désigné",
+			"tu": "as désigné",
+			"il/elle": "a désigné",
+			"nous": "avons désigné",
+			"vous": "avez désigné",
+			"ils/elles": "ont désigné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais désigné",
+			"tu": "avais désigné",
+			"il/elle": "avait désigné",
+			"nous": "avions désigné",
+			"vous": "aviez désigné",
+			"ils/elles": "avaient désigné"
+		},
+		"passé antérieur": {
+			"j'": "eus désigné",
+			"tu": "eus désigné",
+			"il/elle": "eut désigné",
+			"nous": "eûmes désigné",
+			"vous": "eûtes désigné",
+			"ils/elles": "eurent désigné"
+		},
+		"futur antérieur": {
+			"j'": "aurai désigné",
+			"tu": "auras désigné",
+			"il/elle": "aura désigné",
+			"nous": "aurons désigné",
+			"vous": "aurez désigné",
+			"ils/elles": "auront désigné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous désigniez",
+			"qu'il/elle": "désigne",
+			"qu'ils/elles": "désignent"
+		},
+		"imparfait": {
+			"que": "vous désignassiez",
+			"qu'il/elle": "désignât",
+			"qu'ils/elles": "désignassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse désigné",
+			"que": "vous eussiez désigné",
+			"qu'il/elle": "eût désigné",
+			"qu'ils/elles": "eussent désigné"
+		},
+		"passé": {
+			"j'": "aie désigné",
+			"que": "vous ayez désigné",
+			"qu'il/elle": "ait désigné",
+			"qu'ils/elles": "aient désigné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "désignerais",
+			"tu": "désignerais",
+			"il/elle": "désignerait",
+			"nous": "désignerions",
+			"vous": "désigneriez",
+			"ils/elles": "désigneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais désigné",
+			"tu": "aurais désigné",
+			"il/elle": "aurait désigné",
+			"nous": "aurions désigné",
+			"vous": "auriez désigné",
+			"ils/elles": "auraient désigné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse désigné",
+			"tu": "eusses désigné",
+			"il/elle": "eût désigné",
+			"nous": "eussions désigné",
+			"vous": "eussiez désigné",
+			"ils/elles": "eussent désigné"
+		}
+	},
+	"participe": {
+		"présent": { "désignant": "" },
+		"passé composé": { "ayant": "désigné" },
+		"passé": {
+			"masc.sg.:": "désigné",
+			"masc.pl.:": "désignés",
+			"fém.sg.:": "désignée",
+			"fém.pl.:": "désignées"
+		}
+	},
+	"imperatif": {
+		"présent": { "désigne": "", "désignons": "", "désignez": "" },
+		"passé": { "aie": "désigné", "ayons": "désigné", "ayez": "désigné" }
+	},
+	"infinitif": {
+		"présent": { "désigner": "" },
+		"passé": { "avoir": "désigné" }
+	}
+}

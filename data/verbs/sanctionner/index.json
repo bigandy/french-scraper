@@ -1,0 +1,145 @@
+{
+	"name": "marcher",
+	"definition": "punish; sanction; penalize; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se sanctionner/ne pas sanctionner/ne pas se sanctionner",
+	"indicatif": {
+		"présent": {
+			"je": "sanctionne",
+			"tu": "sanctionnes",
+			"il/elle": "sanctionne",
+			"nous": "sanctionnons",
+			"vous": "sanctionnez",
+			"ils/elles": "sanctionnent"
+		},
+		"imparfait": {
+			"je": "sanctionnais",
+			"tu": "sanctionnais",
+			"il/elle": "sanctionnait",
+			"nous": "sanctionnions",
+			"vous": "sanctionniez",
+			"ils/elles": "sanctionnaient"
+		},
+		"futur": {
+			"je": "sanctionnerai",
+			"tu": "sanctionneras",
+			"il/elle": "sanctionnera",
+			"nous": "sanctionnerons",
+			"vous": "sanctionnerez",
+			"ils/elles": "sanctionneront"
+		},
+		"passé simple": {
+			"je": "sanctionnai",
+			"tu": "sanctionnas",
+			"il/elle": "sanctionna",
+			"nous": "sanctionnâmes",
+			"vous": "sanctionnâtes",
+			"ils/elles": "sanctionnèrent"
+		},
+		"passé composé": {
+			"j'": "ai sanctionné",
+			"tu": "as sanctionné",
+			"il/elle": "a sanctionné",
+			"nous": "avons sanctionné",
+			"vous": "avez sanctionné",
+			"ils/elles": "ont sanctionné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais sanctionné",
+			"tu": "avais sanctionné",
+			"il/elle": "avait sanctionné",
+			"nous": "avions sanctionné",
+			"vous": "aviez sanctionné",
+			"ils/elles": "avaient sanctionné"
+		},
+		"passé antérieur": {
+			"j'": "eus sanctionné",
+			"tu": "eus sanctionné",
+			"il/elle": "eut sanctionné",
+			"nous": "eûmes sanctionné",
+			"vous": "eûtes sanctionné",
+			"ils/elles": "eurent sanctionné"
+		},
+		"futur antérieur": {
+			"j'": "aurai sanctionné",
+			"tu": "auras sanctionné",
+			"il/elle": "aura sanctionné",
+			"nous": "aurons sanctionné",
+			"vous": "aurez sanctionné",
+			"ils/elles": "auront sanctionné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous sanctionniez",
+			"qu'il/elle": "sanctionne",
+			"qu'ils/elles": "sanctionnent"
+		},
+		"imparfait": {
+			"que": "vous sanctionnassiez",
+			"qu'il/elle": "sanctionnât",
+			"qu'ils/elles": "sanctionnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse sanctionné",
+			"que": "vous eussiez sanctionné",
+			"qu'il/elle": "eût sanctionné",
+			"qu'ils/elles": "eussent sanctionné"
+		},
+		"passé": {
+			"j'": "aie sanctionné",
+			"que": "vous ayez sanctionné",
+			"qu'il/elle": "ait sanctionné",
+			"qu'ils/elles": "aient sanctionné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "sanctionnerais",
+			"tu": "sanctionnerais",
+			"il/elle": "sanctionnerait",
+			"nous": "sanctionnerions",
+			"vous": "sanctionneriez",
+			"ils/elles": "sanctionneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais sanctionné",
+			"tu": "aurais sanctionné",
+			"il/elle": "aurait sanctionné",
+			"nous": "aurions sanctionné",
+			"vous": "auriez sanctionné",
+			"ils/elles": "auraient sanctionné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse sanctionné",
+			"tu": "eusses sanctionné",
+			"il/elle": "eût sanctionné",
+			"nous": "eussions sanctionné",
+			"vous": "eussiez sanctionné",
+			"ils/elles": "eussent sanctionné"
+		}
+	},
+	"participe": {
+		"présent": { "sanctionnant": "" },
+		"passé composé": { "ayant": "sanctionné" },
+		"passé": {
+			"masc.sg.:": "sanctionné",
+			"masc.pl.:": "sanctionnés",
+			"fém.sg.:": "sanctionnée",
+			"fém.pl.:": "sanctionnées"
+		}
+	},
+	"imperatif": {
+		"présent": { "sanctionne": "", "sanctionnons": "", "sanctionnez": "" },
+		"passé": {
+			"aie": "sanctionné",
+			"ayons": "sanctionné",
+			"ayez": "sanctionné"
+		}
+	},
+	"infinitif": {
+		"présent": { "sanctionner": "" },
+		"passé": { "avoir": "sanctionné" }
+	}
+}

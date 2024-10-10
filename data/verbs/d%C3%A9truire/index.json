@@ -1,0 +1,141 @@
+{
+	"name": "cuire",
+	"definition": "destroy; ruin; kill; ...",
+	"model": "cuire",
+	"auxiliary": "avoir",
+	"otherForms": "se détruire/ne pas détruire/ne pas se détruire",
+	"indicatif": {
+		"présent": {
+			"je": "détruis",
+			"tu": "détruis",
+			"il/elle": "détruit",
+			"nous": "détruisons",
+			"vous": "détruisez",
+			"ils/elles": "détruisent"
+		},
+		"imparfait": {
+			"je": "détruisais",
+			"tu": "détruisais",
+			"il/elle": "détruisait",
+			"nous": "détruisions",
+			"vous": "détruisiez",
+			"ils/elles": "détruisaient"
+		},
+		"futur": {
+			"je": "détruirai",
+			"tu": "détruiras",
+			"il/elle": "détruira",
+			"nous": "détruirons",
+			"vous": "détruirez",
+			"ils/elles": "détruiront"
+		},
+		"passé simple": {
+			"je": "détruisis",
+			"tu": "détruisis",
+			"il/elle": "détruisit",
+			"nous": "détruisîmes",
+			"vous": "détruisîtes",
+			"ils/elles": "détruisirent"
+		},
+		"passé composé": {
+			"j'": "ai détruit",
+			"tu": "as détruit",
+			"il/elle": "a détruit",
+			"nous": "avons détruit",
+			"vous": "avez détruit",
+			"ils/elles": "ont détruit"
+		},
+		"plus-que-parfait": {
+			"j'": "avais détruit",
+			"tu": "avais détruit",
+			"il/elle": "avait détruit",
+			"nous": "avions détruit",
+			"vous": "aviez détruit",
+			"ils/elles": "avaient détruit"
+		},
+		"passé antérieur": {
+			"j'": "eus détruit",
+			"tu": "eus détruit",
+			"il/elle": "eut détruit",
+			"nous": "eûmes détruit",
+			"vous": "eûtes détruit",
+			"ils/elles": "eurent détruit"
+		},
+		"futur antérieur": {
+			"j'": "aurai détruit",
+			"tu": "auras détruit",
+			"il/elle": "aura détruit",
+			"nous": "aurons détruit",
+			"vous": "aurez détruit",
+			"ils/elles": "auront détruit"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous détruisiez",
+			"qu'il/elle": "détruise",
+			"qu'ils/elles": "détruisent"
+		},
+		"imparfait": {
+			"que": "vous détruisissiez",
+			"qu'il/elle": "détruisît",
+			"qu'ils/elles": "détruisissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse détruit",
+			"que": "vous eussiez détruit",
+			"qu'il/elle": "eût détruit",
+			"qu'ils/elles": "eussent détruit"
+		},
+		"passé": {
+			"j'": "aie détruit",
+			"que": "vous ayez détruit",
+			"qu'il/elle": "ait détruit",
+			"qu'ils/elles": "aient détruit"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "détruirais",
+			"tu": "détruirais",
+			"il/elle": "détruirait",
+			"nous": "détruirions",
+			"vous": "détruiriez",
+			"ils/elles": "détruiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais détruit",
+			"tu": "aurais détruit",
+			"il/elle": "aurait détruit",
+			"nous": "aurions détruit",
+			"vous": "auriez détruit",
+			"ils/elles": "auraient détruit"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse détruit",
+			"tu": "eusses détruit",
+			"il/elle": "eût détruit",
+			"nous": "eussions détruit",
+			"vous": "eussiez détruit",
+			"ils/elles": "eussent détruit"
+		}
+	},
+	"participe": {
+		"présent": { "détruisant": "" },
+		"passé composé": { "ayant": "détruit" },
+		"passé": {
+			"masc.sg.:": "détruit",
+			"masc.pl.:": "détruits",
+			"fém.sg.:": "détruite",
+			"fém.pl.:": "détruites"
+		}
+	},
+	"imperatif": {
+		"présent": { "détruis": "", "détruisons": "", "détruisez": "" },
+		"passé": { "aie": "détruit", "ayons": "détruit", "ayez": "détruit" }
+	},
+	"infinitif": {
+		"présent": { "détruire": "" },
+		"passé": { "avoir": "détruit" }
+	}
+}

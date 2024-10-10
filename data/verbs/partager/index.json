@@ -1,0 +1,141 @@
+{
+	"name": "manger",
+	"definition": "share; split; divide; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "se partager/ne pas partager/ne pas se partager",
+	"indicatif": {
+		"présent": {
+			"je": "partage",
+			"tu": "partages",
+			"il/elle": "partage",
+			"nous": "partageons",
+			"vous": "partagez",
+			"ils/elles": "partagent"
+		},
+		"imparfait": {
+			"je": "partageais",
+			"tu": "partageais",
+			"il/elle": "partageait",
+			"nous": "partagions",
+			"vous": "partagiez",
+			"ils/elles": "partageaient"
+		},
+		"futur": {
+			"je": "partagerai",
+			"tu": "partageras",
+			"il/elle": "partagera",
+			"nous": "partagerons",
+			"vous": "partagerez",
+			"ils/elles": "partageront"
+		},
+		"passé simple": {
+			"je": "partageai",
+			"tu": "partageas",
+			"il/elle": "partagea",
+			"nous": "partageâmes",
+			"vous": "partageâtes",
+			"ils/elles": "partagèrent"
+		},
+		"passé composé": {
+			"j'": "ai partagé",
+			"tu": "as partagé",
+			"il/elle": "a partagé",
+			"nous": "avons partagé",
+			"vous": "avez partagé",
+			"ils/elles": "ont partagé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais partagé",
+			"tu": "avais partagé",
+			"il/elle": "avait partagé",
+			"nous": "avions partagé",
+			"vous": "aviez partagé",
+			"ils/elles": "avaient partagé"
+		},
+		"passé antérieur": {
+			"j'": "eus partagé",
+			"tu": "eus partagé",
+			"il/elle": "eut partagé",
+			"nous": "eûmes partagé",
+			"vous": "eûtes partagé",
+			"ils/elles": "eurent partagé"
+		},
+		"futur antérieur": {
+			"j'": "aurai partagé",
+			"tu": "auras partagé",
+			"il/elle": "aura partagé",
+			"nous": "aurons partagé",
+			"vous": "aurez partagé",
+			"ils/elles": "auront partagé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous partagiez",
+			"qu'il/elle": "partage",
+			"qu'ils/elles": "partagent"
+		},
+		"imparfait": {
+			"que": "vous partageassiez",
+			"qu'il/elle": "partageât",
+			"qu'ils/elles": "partageassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse partagé",
+			"que": "vous eussiez partagé",
+			"qu'il/elle": "eût partagé",
+			"qu'ils/elles": "eussent partagé"
+		},
+		"passé": {
+			"j'": "aie partagé",
+			"que": "vous ayez partagé",
+			"qu'il/elle": "ait partagé",
+			"qu'ils/elles": "aient partagé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "partagerais",
+			"tu": "partagerais",
+			"il/elle": "partagerait",
+			"nous": "partagerions",
+			"vous": "partageriez",
+			"ils/elles": "partageraient"
+		},
+		"passé première forme": {
+			"j'": "aurais partagé",
+			"tu": "aurais partagé",
+			"il/elle": "aurait partagé",
+			"nous": "aurions partagé",
+			"vous": "auriez partagé",
+			"ils/elles": "auraient partagé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse partagé",
+			"tu": "eusses partagé",
+			"il/elle": "eût partagé",
+			"nous": "eussions partagé",
+			"vous": "eussiez partagé",
+			"ils/elles": "eussent partagé"
+		}
+	},
+	"participe": {
+		"présent": { "partageant": "" },
+		"passé composé": { "ayant": "partagé" },
+		"passé": {
+			"masc.sg.:": "partagé",
+			"masc.pl.:": "partagés",
+			"fém.sg.:": "partagée",
+			"fém.pl.:": "partagées"
+		}
+	},
+	"imperatif": {
+		"présent": { "partage": "", "partageons": "", "partagez": "" },
+		"passé": { "aie": "partagé", "ayons": "partagé", "ayez": "partagé" }
+	},
+	"infinitif": {
+		"présent": { "partager": "" },
+		"passé": { "avoir": "partagé" }
+	}
+}

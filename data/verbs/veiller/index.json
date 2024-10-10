@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "make sure; monitor; watch; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se veiller/ne pas veiller/ne pas se veiller",
+	"indicatif": {
+		"présent": {
+			"je": "veille",
+			"tu": "veilles",
+			"il/elle": "veille",
+			"nous": "veillons",
+			"vous": "veillez",
+			"ils/elles": "veillent"
+		},
+		"imparfait": {
+			"je": "veillais",
+			"tu": "veillais",
+			"il/elle": "veillait",
+			"nous": "veillions",
+			"vous": "veilliez",
+			"ils/elles": "veillaient"
+		},
+		"futur": {
+			"je": "veillerai",
+			"tu": "veilleras",
+			"il/elle": "veillera",
+			"nous": "veillerons",
+			"vous": "veillerez",
+			"ils/elles": "veilleront"
+		},
+		"passé simple": {
+			"je": "veillai",
+			"tu": "veillas",
+			"il/elle": "veilla",
+			"nous": "veillâmes",
+			"vous": "veillâtes",
+			"ils/elles": "veillèrent"
+		},
+		"passé composé": {
+			"j'": "ai veillé",
+			"tu": "as veillé",
+			"il/elle": "a veillé",
+			"nous": "avons veillé",
+			"vous": "avez veillé",
+			"ils/elles": "ont veillé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais veillé",
+			"tu": "avais veillé",
+			"il/elle": "avait veillé",
+			"nous": "avions veillé",
+			"vous": "aviez veillé",
+			"ils/elles": "avaient veillé"
+		},
+		"passé antérieur": {
+			"j'": "eus veillé",
+			"tu": "eus veillé",
+			"il/elle": "eut veillé",
+			"nous": "eûmes veillé",
+			"vous": "eûtes veillé",
+			"ils/elles": "eurent veillé"
+		},
+		"futur antérieur": {
+			"j'": "aurai veillé",
+			"tu": "auras veillé",
+			"il/elle": "aura veillé",
+			"nous": "aurons veillé",
+			"vous": "aurez veillé",
+			"ils/elles": "auront veillé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous veilliez",
+			"qu'il/elle": "veille",
+			"qu'ils/elles": "veillent"
+		},
+		"imparfait": {
+			"que": "vous veillassiez",
+			"qu'il/elle": "veillât",
+			"qu'ils/elles": "veillassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse veillé",
+			"que": "vous eussiez veillé",
+			"qu'il/elle": "eût veillé",
+			"qu'ils/elles": "eussent veillé"
+		},
+		"passé": {
+			"j'": "aie veillé",
+			"que": "vous ayez veillé",
+			"qu'il/elle": "ait veillé",
+			"qu'ils/elles": "aient veillé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "veillerais",
+			"tu": "veillerais",
+			"il/elle": "veillerait",
+			"nous": "veillerions",
+			"vous": "veilleriez",
+			"ils/elles": "veilleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais veillé",
+			"tu": "aurais veillé",
+			"il/elle": "aurait veillé",
+			"nous": "aurions veillé",
+			"vous": "auriez veillé",
+			"ils/elles": "auraient veillé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse veillé",
+			"tu": "eusses veillé",
+			"il/elle": "eût veillé",
+			"nous": "eussions veillé",
+			"vous": "eussiez veillé",
+			"ils/elles": "eussent veillé"
+		}
+	},
+	"participe": {
+		"présent": { "veillant": "" },
+		"passé composé": { "ayant": "veillé" },
+		"passé": {
+			"masc.sg.:": "veillé",
+			"masc.pl.:": "veillés",
+			"fém.sg.:": "veillée",
+			"fém.pl.:": "veillées"
+		}
+	},
+	"imperatif": {
+		"présent": { "veille": "", "veillons": "", "veillez": "" },
+		"passé": { "aie": "veillé", "ayons": "veillé", "ayez": "veillé" }
+	},
+	"infinitif": { "présent": { "veiller": "" }, "passé": { "avoir": "veillé" } }
+}

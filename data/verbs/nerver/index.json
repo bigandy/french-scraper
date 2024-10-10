@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se nerver/ne pas nerver/ne pas se nerver",
+	"indicatif": {
+		"présent": {
+			"je": "nerve",
+			"tu": "nerves",
+			"il/elle": "nerve",
+			"nous": "nervons",
+			"vous": "nervez",
+			"ils/elles": "nervent"
+		},
+		"imparfait": {
+			"je": "nervais",
+			"tu": "nervais",
+			"il/elle": "nervait",
+			"nous": "nervions",
+			"vous": "nerviez",
+			"ils/elles": "nervaient"
+		},
+		"futur": {
+			"je": "nerverai",
+			"tu": "nerveras",
+			"il/elle": "nervera",
+			"nous": "nerverons",
+			"vous": "nerverez",
+			"ils/elles": "nerveront"
+		},
+		"passé simple": {
+			"je": "nervai",
+			"tu": "nervas",
+			"il/elle": "nerva",
+			"nous": "nervâmes",
+			"vous": "nervâtes",
+			"ils/elles": "nervèrent"
+		},
+		"passé composé": {
+			"j'": "ai nervé",
+			"tu": "as nervé",
+			"il/elle": "a nervé",
+			"nous": "avons nervé",
+			"vous": "avez nervé",
+			"ils/elles": "ont nervé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais nervé",
+			"tu": "avais nervé",
+			"il/elle": "avait nervé",
+			"nous": "avions nervé",
+			"vous": "aviez nervé",
+			"ils/elles": "avaient nervé"
+		},
+		"passé antérieur": {
+			"j'": "eus nervé",
+			"tu": "eus nervé",
+			"il/elle": "eut nervé",
+			"nous": "eûmes nervé",
+			"vous": "eûtes nervé",
+			"ils/elles": "eurent nervé"
+		},
+		"futur antérieur": {
+			"j'": "aurai nervé",
+			"tu": "auras nervé",
+			"il/elle": "aura nervé",
+			"nous": "aurons nervé",
+			"vous": "aurez nervé",
+			"ils/elles": "auront nervé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous nerviez",
+			"qu'il/elle": "nerve",
+			"qu'ils/elles": "nervent"
+		},
+		"imparfait": {
+			"que": "vous nervassiez",
+			"qu'il/elle": "nervât",
+			"qu'ils/elles": "nervassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse nervé",
+			"que": "vous eussiez nervé",
+			"qu'il/elle": "eût nervé",
+			"qu'ils/elles": "eussent nervé"
+		},
+		"passé": {
+			"j'": "aie nervé",
+			"que": "vous ayez nervé",
+			"qu'il/elle": "ait nervé",
+			"qu'ils/elles": "aient nervé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "nerverais",
+			"tu": "nerverais",
+			"il/elle": "nerverait",
+			"nous": "nerverions",
+			"vous": "nerveriez",
+			"ils/elles": "nerveraient"
+		},
+		"passé première forme": {
+			"j'": "aurais nervé",
+			"tu": "aurais nervé",
+			"il/elle": "aurait nervé",
+			"nous": "aurions nervé",
+			"vous": "auriez nervé",
+			"ils/elles": "auraient nervé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse nervé",
+			"tu": "eusses nervé",
+			"il/elle": "eût nervé",
+			"nous": "eussions nervé",
+			"vous": "eussiez nervé",
+			"ils/elles": "eussent nervé"
+		}
+	},
+	"participe": {
+		"présent": { "nervant": "" },
+		"passé composé": { "ayant": "nervé" },
+		"passé": {
+			"masc.sg.:": "nervé",
+			"masc.pl.:": "nervés",
+			"fém.sg.:": "nervée",
+			"fém.pl.:": "nervées"
+		}
+	},
+	"imperatif": {
+		"présent": { "nerve": "", "nervons": "", "nervez": "" },
+		"passé": { "aie": "nervé", "ayons": "nervé", "ayez": "nervé" }
+	},
+	"infinitif": { "présent": { "nerver": "" }, "passé": { "avoir": "nervé" } }
+}

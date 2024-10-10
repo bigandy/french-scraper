@@ -1,0 +1,138 @@
+{
+	"name": "aérer",
+	"definition": "manage; handle; deal with; ...",
+	"model": "aérer",
+	"auxiliary": "avoir",
+	"otherForms": "se gérer/ne pas gérer/ne pas se gérer",
+	"indicatif": {
+		"présent": {
+			"je": "gère",
+			"tu": "gères",
+			"il/elle": "gère",
+			"nous": "gérons",
+			"vous": "gérez",
+			"ils/elles": "gèrent"
+		},
+		"imparfait": {
+			"je": "gérais",
+			"tu": "gérais",
+			"il/elle": "gérait",
+			"nous": "gérions",
+			"vous": "gériez",
+			"ils/elles": "géraient"
+		},
+		"futur": {
+			"je": "gérerai",
+			"tu": "géreras",
+			"il/elle": "gérera",
+			"nous": "gérerons",
+			"vous": "gérerez",
+			"ils/elles": "géreront"
+		},
+		"passé simple": {
+			"je": "gérai",
+			"tu": "géras",
+			"il/elle": "géra",
+			"nous": "gérâmes",
+			"vous": "gérâtes",
+			"ils/elles": "gérèrent"
+		},
+		"passé composé": {
+			"j'": "ai géré",
+			"tu": "as géré",
+			"il/elle": "a géré",
+			"nous": "avons géré",
+			"vous": "avez géré",
+			"ils/elles": "ont géré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais géré",
+			"tu": "avais géré",
+			"il/elle": "avait géré",
+			"nous": "avions géré",
+			"vous": "aviez géré",
+			"ils/elles": "avaient géré"
+		},
+		"passé antérieur": {
+			"j'": "eus géré",
+			"tu": "eus géré",
+			"il/elle": "eut géré",
+			"nous": "eûmes géré",
+			"vous": "eûtes géré",
+			"ils/elles": "eurent géré"
+		},
+		"futur antérieur": {
+			"j'": "aurai géré",
+			"tu": "auras géré",
+			"il/elle": "aura géré",
+			"nous": "aurons géré",
+			"vous": "aurez géré",
+			"ils/elles": "auront géré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous gériez",
+			"qu'il/elle": "gère",
+			"qu'ils/elles": "gèrent"
+		},
+		"imparfait": {
+			"que": "vous gérassiez",
+			"qu'il/elle": "gérât",
+			"qu'ils/elles": "gérassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse géré",
+			"que": "vous eussiez géré",
+			"qu'il/elle": "eût géré",
+			"qu'ils/elles": "eussent géré"
+		},
+		"passé": {
+			"j'": "aie géré",
+			"que": "vous ayez géré",
+			"qu'il/elle": "ait géré",
+			"qu'ils/elles": "aient géré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "gérerais",
+			"tu": "gérerais",
+			"il/elle": "gérerait",
+			"nous": "gérerions",
+			"vous": "géreriez",
+			"ils/elles": "géreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais géré",
+			"tu": "aurais géré",
+			"il/elle": "aurait géré",
+			"nous": "aurions géré",
+			"vous": "auriez géré",
+			"ils/elles": "auraient géré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse géré",
+			"tu": "eusses géré",
+			"il/elle": "eût géré",
+			"nous": "eussions géré",
+			"vous": "eussiez géré",
+			"ils/elles": "eussent géré"
+		}
+	},
+	"participe": {
+		"présent": { "gérant": "" },
+		"passé composé": { "ayant": "géré" },
+		"passé": {
+			"masc.sg.:": "géré",
+			"masc.pl.:": "gérés",
+			"fém.sg.:": "gérée",
+			"fém.pl.:": "gérées"
+		}
+	},
+	"imperatif": {
+		"présent": { "gère": "", "gérons": "", "gérez": "" },
+		"passé": { "aie": "géré", "ayons": "géré", "ayez": "géré" }
+	},
+	"infinitif": { "présent": { "gérer": "" }, "passé": { "avoir": "géré" } }
+}

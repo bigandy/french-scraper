@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "establish; create; achieve; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'instaurer/ne pas instaurer/ne pas s'instaurer",
+	"indicatif": {
+		"présent": {
+			"j'": "instaure",
+			"tu": "instaures",
+			"il/elle": "instaure",
+			"nous": "instaurons",
+			"vous": "instaurez",
+			"ils/elles": "instaurent"
+		},
+		"imparfait": {
+			"j'": "instaurais",
+			"tu": "instaurais",
+			"il/elle": "instaurait",
+			"nous": "instaurions",
+			"vous": "instauriez",
+			"ils/elles": "instauraient"
+		},
+		"futur": {
+			"j'": "instaurerai",
+			"tu": "instaureras",
+			"il/elle": "instaurera",
+			"nous": "instaurerons",
+			"vous": "instaurerez",
+			"ils/elles": "instaureront"
+		},
+		"passé simple": {
+			"j'": "instaurai",
+			"tu": "instauras",
+			"il/elle": "instaura",
+			"nous": "instaurâmes",
+			"vous": "instaurâtes",
+			"ils/elles": "instaurèrent"
+		},
+		"passé composé": {
+			"j'": "ai instauré",
+			"tu": "as instauré",
+			"il/elle": "a instauré",
+			"nous": "avons instauré",
+			"vous": "avez instauré",
+			"ils/elles": "ont instauré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais instauré",
+			"tu": "avais instauré",
+			"il/elle": "avait instauré",
+			"nous": "avions instauré",
+			"vous": "aviez instauré",
+			"ils/elles": "avaient instauré"
+		},
+		"passé antérieur": {
+			"j'": "eus instauré",
+			"tu": "eus instauré",
+			"il/elle": "eut instauré",
+			"nous": "eûmes instauré",
+			"vous": "eûtes instauré",
+			"ils/elles": "eurent instauré"
+		},
+		"futur antérieur": {
+			"j'": "aurai instauré",
+			"tu": "auras instauré",
+			"il/elle": "aura instauré",
+			"nous": "aurons instauré",
+			"vous": "aurez instauré",
+			"ils/elles": "auront instauré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "instaure",
+			"que": "vous instauriez",
+			"qu'il/elle": "instaure",
+			"qu'ils/elles": "instaurent"
+		},
+		"imparfait": {
+			"j'": "instaurasse",
+			"que": "vous instaurassiez",
+			"qu'il/elle": "instaurât",
+			"qu'ils/elles": "instaurassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse instauré",
+			"que": "vous eussiez instauré",
+			"qu'il/elle": "eût instauré",
+			"qu'ils/elles": "eussent instauré"
+		},
+		"passé": {
+			"j'": "aie instauré",
+			"que": "vous ayez instauré",
+			"qu'il/elle": "ait instauré",
+			"qu'ils/elles": "aient instauré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "instaurerais",
+			"tu": "instaurerais",
+			"il/elle": "instaurerait",
+			"nous": "instaurerions",
+			"vous": "instaureriez",
+			"ils/elles": "instaureraient"
+		},
+		"passé première forme": {
+			"j'": "aurais instauré",
+			"tu": "aurais instauré",
+			"il/elle": "aurait instauré",
+			"nous": "aurions instauré",
+			"vous": "auriez instauré",
+			"ils/elles": "auraient instauré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse instauré",
+			"tu": "eusses instauré",
+			"il/elle": "eût instauré",
+			"nous": "eussions instauré",
+			"vous": "eussiez instauré",
+			"ils/elles": "eussent instauré"
+		}
+	},
+	"participe": {
+		"présent": { "instaurant": "" },
+		"passé composé": { "ayant": "instauré" },
+		"passé": {
+			"masc.sg.:": "instauré",
+			"masc.pl.:": "instaurés",
+			"fém.sg.:": "instaurée",
+			"fém.pl.:": "instaurées"
+		}
+	},
+	"imperatif": {
+		"présent": { "instaure": "", "instaurons": "", "instaurez": "" },
+		"passé": { "aie": "instauré", "ayons": "instauré", "ayez": "instauré" }
+	},
+	"infinitif": {
+		"présent": { "instaurer": "" },
+		"passé": { "avoir": "instauré" }
+	}
+}

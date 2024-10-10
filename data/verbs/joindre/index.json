@@ -1,0 +1,138 @@
+{
+	"name": "craindre",
+	"definition": "join; reach; attach; ...",
+	"model": "craindre",
+	"auxiliary": "avoir",
+	"otherForms": "se joindre/ne pas joindre/ne pas se joindre",
+	"indicatif": {
+		"présent": {
+			"je": "joins",
+			"tu": "joins",
+			"il/elle": "joint",
+			"nous": "joignons",
+			"vous": "joignez",
+			"ils/elles": "joignent"
+		},
+		"imparfait": {
+			"je": "joignais",
+			"tu": "joignais",
+			"il/elle": "joignait",
+			"nous": "joignions",
+			"vous": "joigniez",
+			"ils/elles": "joignaient"
+		},
+		"futur": {
+			"je": "joindrai",
+			"tu": "joindras",
+			"il/elle": "joindra",
+			"nous": "joindrons",
+			"vous": "joindrez",
+			"ils/elles": "joindront"
+		},
+		"passé simple": {
+			"je": "joignis",
+			"tu": "joignis",
+			"il/elle": "joignit",
+			"nous": "joignîmes",
+			"vous": "joignîtes",
+			"ils/elles": "joignirent"
+		},
+		"passé composé": {
+			"j'": "ai joint",
+			"tu": "as joint",
+			"il/elle": "a joint",
+			"nous": "avons joint",
+			"vous": "avez joint",
+			"ils/elles": "ont joint"
+		},
+		"plus-que-parfait": {
+			"j'": "avais joint",
+			"tu": "avais joint",
+			"il/elle": "avait joint",
+			"nous": "avions joint",
+			"vous": "aviez joint",
+			"ils/elles": "avaient joint"
+		},
+		"passé antérieur": {
+			"j'": "eus joint",
+			"tu": "eus joint",
+			"il/elle": "eut joint",
+			"nous": "eûmes joint",
+			"vous": "eûtes joint",
+			"ils/elles": "eurent joint"
+		},
+		"futur antérieur": {
+			"j'": "aurai joint",
+			"tu": "auras joint",
+			"il/elle": "aura joint",
+			"nous": "aurons joint",
+			"vous": "aurez joint",
+			"ils/elles": "auront joint"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous joigniez",
+			"qu'il/elle": "joigne",
+			"qu'ils/elles": "joignent"
+		},
+		"imparfait": {
+			"que": "vous joignissiez",
+			"qu'il/elle": "joignît",
+			"qu'ils/elles": "joignissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse joint",
+			"que": "vous eussiez joint",
+			"qu'il/elle": "eût joint",
+			"qu'ils/elles": "eussent joint"
+		},
+		"passé": {
+			"j'": "aie joint",
+			"que": "vous ayez joint",
+			"qu'il/elle": "ait joint",
+			"qu'ils/elles": "aient joint"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "joindrais",
+			"tu": "joindrais",
+			"il/elle": "joindrait",
+			"nous": "joindrions",
+			"vous": "joindriez",
+			"ils/elles": "joindraient"
+		},
+		"passé première forme": {
+			"j'": "aurais joint",
+			"tu": "aurais joint",
+			"il/elle": "aurait joint",
+			"nous": "aurions joint",
+			"vous": "auriez joint",
+			"ils/elles": "auraient joint"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse joint",
+			"tu": "eusses joint",
+			"il/elle": "eût joint",
+			"nous": "eussions joint",
+			"vous": "eussiez joint",
+			"ils/elles": "eussent joint"
+		}
+	},
+	"participe": {
+		"présent": { "joignant": "" },
+		"passé composé": { "ayant": "joint" },
+		"passé": {
+			"masc.sg.:": "joint",
+			"masc.pl.:": "joints",
+			"fém.sg.:": "jointe",
+			"fém.pl.:": "jointes"
+		}
+	},
+	"imperatif": {
+		"présent": { "joins": "", "joignons": "", "joignez": "" },
+		"passé": { "aie": "joint", "ayons": "joint", "ayez": "joint" }
+	},
+	"infinitif": { "présent": { "joindre": "" }, "passé": { "avoir": "joint" } }
+}

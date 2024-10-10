@@ -1,0 +1,141 @@
+{
+	"name": "finir",
+	"definition": "cool; cool down; chill; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se refroidir/ne pas refroidir/ne pas se refroidir",
+	"indicatif": {
+		"présent": {
+			"je": "refroidis",
+			"tu": "refroidis",
+			"il/elle": "refroidit",
+			"nous": "refroidissons",
+			"vous": "refroidissez",
+			"ils/elles": "refroidissent"
+		},
+		"imparfait": {
+			"je": "refroidissais",
+			"tu": "refroidissais",
+			"il/elle": "refroidissait",
+			"nous": "refroidissions",
+			"vous": "refroidissiez",
+			"ils/elles": "refroidissaient"
+		},
+		"futur": {
+			"je": "refroidirai",
+			"tu": "refroidiras",
+			"il/elle": "refroidira",
+			"nous": "refroidirons",
+			"vous": "refroidirez",
+			"ils/elles": "refroidiront"
+		},
+		"passé simple": {
+			"je": "refroidis",
+			"tu": "refroidis",
+			"il/elle": "refroidit",
+			"nous": "refroidîmes",
+			"vous": "refroidîtes",
+			"ils/elles": "refroidirent"
+		},
+		"passé composé": {
+			"j'": "ai refroidi",
+			"tu": "as refroidi",
+			"il/elle": "a refroidi",
+			"nous": "avons refroidi",
+			"vous": "avez refroidi",
+			"ils/elles": "ont refroidi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais refroidi",
+			"tu": "avais refroidi",
+			"il/elle": "avait refroidi",
+			"nous": "avions refroidi",
+			"vous": "aviez refroidi",
+			"ils/elles": "avaient refroidi"
+		},
+		"passé antérieur": {
+			"j'": "eus refroidi",
+			"tu": "eus refroidi",
+			"il/elle": "eut refroidi",
+			"nous": "eûmes refroidi",
+			"vous": "eûtes refroidi",
+			"ils/elles": "eurent refroidi"
+		},
+		"futur antérieur": {
+			"j'": "aurai refroidi",
+			"tu": "auras refroidi",
+			"il/elle": "aura refroidi",
+			"nous": "aurons refroidi",
+			"vous": "aurez refroidi",
+			"ils/elles": "auront refroidi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous refroidissiez",
+			"qu'il/elle": "refroidisse",
+			"qu'ils/elles": "refroidissent"
+		},
+		"imparfait": {
+			"que": "vous refroidissiez",
+			"qu'il/elle": "refroidît",
+			"qu'ils/elles": "refroidissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse refroidi",
+			"que": "vous eussiez refroidi",
+			"qu'il/elle": "eût refroidi",
+			"qu'ils/elles": "eussent refroidi"
+		},
+		"passé": {
+			"j'": "aie refroidi",
+			"que": "vous ayez refroidi",
+			"qu'il/elle": "ait refroidi",
+			"qu'ils/elles": "aient refroidi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "refroidirais",
+			"tu": "refroidirais",
+			"il/elle": "refroidirait",
+			"nous": "refroidirions",
+			"vous": "refroidiriez",
+			"ils/elles": "refroidiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais refroidi",
+			"tu": "aurais refroidi",
+			"il/elle": "aurait refroidi",
+			"nous": "aurions refroidi",
+			"vous": "auriez refroidi",
+			"ils/elles": "auraient refroidi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse refroidi",
+			"tu": "eusses refroidi",
+			"il/elle": "eût refroidi",
+			"nous": "eussions refroidi",
+			"vous": "eussiez refroidi",
+			"ils/elles": "eussent refroidi"
+		}
+	},
+	"participe": {
+		"présent": { "refroidissant": "" },
+		"passé composé": { "ayant": "refroidi" },
+		"passé": {
+			"masc.sg.:": "refroidi",
+			"masc.pl.:": "refroidis",
+			"fém.sg.:": "refroidie",
+			"fém.pl.:": "refroidies"
+		}
+	},
+	"imperatif": {
+		"présent": { "refroidis": "", "refroidissons": "", "refroidissez": "" },
+		"passé": { "aie": "refroidi", "ayons": "refroidi", "ayez": "refroidi" }
+	},
+	"infinitif": {
+		"présent": { "refroidir": "" },
+		"passé": { "avoir": "refroidi" }
+	}
+}

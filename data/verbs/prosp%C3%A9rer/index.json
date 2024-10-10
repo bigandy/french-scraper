@@ -1,0 +1,141 @@
+{
+	"name": "aérer",
+	"definition": "prosper; thrive; flourish; ...",
+	"model": "aérer",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas prospérer",
+	"indicatif": {
+		"présent": {
+			"je": "prospère",
+			"tu": "prospères",
+			"il/elle": "prospère",
+			"nous": "prospérons",
+			"vous": "prospérez",
+			"ils/elles": "prospèrent"
+		},
+		"imparfait": {
+			"je": "prospérais",
+			"tu": "prospérais",
+			"il/elle": "prospérait",
+			"nous": "prospérions",
+			"vous": "prospériez",
+			"ils/elles": "prospéraient"
+		},
+		"futur": {
+			"je": "prospérerai",
+			"tu": "prospéreras",
+			"il/elle": "prospérera",
+			"nous": "prospérerons",
+			"vous": "prospérerez",
+			"ils/elles": "prospéreront"
+		},
+		"passé simple": {
+			"je": "prospérai",
+			"tu": "prospéras",
+			"il/elle": "prospéra",
+			"nous": "prospérâmes",
+			"vous": "prospérâtes",
+			"ils/elles": "prospérèrent"
+		},
+		"passé composé": {
+			"j'": "ai prospéré",
+			"tu": "as prospéré",
+			"il/elle": "a prospéré",
+			"nous": "avons prospéré",
+			"vous": "avez prospéré",
+			"ils/elles": "ont prospéré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais prospéré",
+			"tu": "avais prospéré",
+			"il/elle": "avait prospéré",
+			"nous": "avions prospéré",
+			"vous": "aviez prospéré",
+			"ils/elles": "avaient prospéré"
+		},
+		"passé antérieur": {
+			"j'": "eus prospéré",
+			"tu": "eus prospéré",
+			"il/elle": "eut prospéré",
+			"nous": "eûmes prospéré",
+			"vous": "eûtes prospéré",
+			"ils/elles": "eurent prospéré"
+		},
+		"futur antérieur": {
+			"j'": "aurai prospéré",
+			"tu": "auras prospéré",
+			"il/elle": "aura prospéré",
+			"nous": "aurons prospéré",
+			"vous": "aurez prospéré",
+			"ils/elles": "auront prospéré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous prospériez",
+			"qu'il/elle": "prospère",
+			"qu'ils/elles": "prospèrent"
+		},
+		"imparfait": {
+			"que": "vous prospérassiez",
+			"qu'il/elle": "prospérât",
+			"qu'ils/elles": "prospérassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse prospéré",
+			"que": "vous eussiez prospéré",
+			"qu'il/elle": "eût prospéré",
+			"qu'ils/elles": "eussent prospéré"
+		},
+		"passé": {
+			"j'": "aie prospéré",
+			"que": "vous ayez prospéré",
+			"qu'il/elle": "ait prospéré",
+			"qu'ils/elles": "aient prospéré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "prospérerais",
+			"tu": "prospérerais",
+			"il/elle": "prospérerait",
+			"nous": "prospérerions",
+			"vous": "prospéreriez",
+			"ils/elles": "prospéreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais prospéré",
+			"tu": "aurais prospéré",
+			"il/elle": "aurait prospéré",
+			"nous": "aurions prospéré",
+			"vous": "auriez prospéré",
+			"ils/elles": "auraient prospéré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse prospéré",
+			"tu": "eusses prospéré",
+			"il/elle": "eût prospéré",
+			"nous": "eussions prospéré",
+			"vous": "eussiez prospéré",
+			"ils/elles": "eussent prospéré"
+		}
+	},
+	"participe": {
+		"présent": { "prospérant": "" },
+		"passé composé": { "ayant": "prospéré" },
+		"passé": {
+			"masc.sg.:": "prospéré",
+			"masc.pl.:": "prospérés",
+			"fém.sg.:": "prospérée",
+			"fém.pl.:": "prospérées"
+		}
+	},
+	"imperatif": {
+		"présent": { "prospère": "", "prospérons": "", "prospérez": "" },
+		"passé": { "aie": "prospéré", "ayons": "prospéré", "ayez": "prospéré" }
+	},
+	"infinitif": {
+		"présent": { "prospérer": "" },
+		"passé": { "avoir": "prospéré" }
+	}
+}

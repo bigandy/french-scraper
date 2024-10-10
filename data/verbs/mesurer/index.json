@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "measure; assess; gauge; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se mesurer/ne pas mesurer/ne pas se mesurer",
+	"indicatif": {
+		"présent": {
+			"je": "mesure",
+			"tu": "mesures",
+			"il/elle": "mesure",
+			"nous": "mesurons",
+			"vous": "mesurez",
+			"ils/elles": "mesurent"
+		},
+		"imparfait": {
+			"je": "mesurais",
+			"tu": "mesurais",
+			"il/elle": "mesurait",
+			"nous": "mesurions",
+			"vous": "mesuriez",
+			"ils/elles": "mesuraient"
+		},
+		"futur": {
+			"je": "mesurerai",
+			"tu": "mesureras",
+			"il/elle": "mesurera",
+			"nous": "mesurerons",
+			"vous": "mesurerez",
+			"ils/elles": "mesureront"
+		},
+		"passé simple": {
+			"je": "mesurai",
+			"tu": "mesuras",
+			"il/elle": "mesura",
+			"nous": "mesurâmes",
+			"vous": "mesurâtes",
+			"ils/elles": "mesurèrent"
+		},
+		"passé composé": {
+			"j'": "ai mesuré",
+			"tu": "as mesuré",
+			"il/elle": "a mesuré",
+			"nous": "avons mesuré",
+			"vous": "avez mesuré",
+			"ils/elles": "ont mesuré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais mesuré",
+			"tu": "avais mesuré",
+			"il/elle": "avait mesuré",
+			"nous": "avions mesuré",
+			"vous": "aviez mesuré",
+			"ils/elles": "avaient mesuré"
+		},
+		"passé antérieur": {
+			"j'": "eus mesuré",
+			"tu": "eus mesuré",
+			"il/elle": "eut mesuré",
+			"nous": "eûmes mesuré",
+			"vous": "eûtes mesuré",
+			"ils/elles": "eurent mesuré"
+		},
+		"futur antérieur": {
+			"j'": "aurai mesuré",
+			"tu": "auras mesuré",
+			"il/elle": "aura mesuré",
+			"nous": "aurons mesuré",
+			"vous": "aurez mesuré",
+			"ils/elles": "auront mesuré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous mesuriez",
+			"qu'il/elle": "mesure",
+			"qu'ils/elles": "mesurent"
+		},
+		"imparfait": {
+			"que": "vous mesurassiez",
+			"qu'il/elle": "mesurât",
+			"qu'ils/elles": "mesurassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse mesuré",
+			"que": "vous eussiez mesuré",
+			"qu'il/elle": "eût mesuré",
+			"qu'ils/elles": "eussent mesuré"
+		},
+		"passé": {
+			"j'": "aie mesuré",
+			"que": "vous ayez mesuré",
+			"qu'il/elle": "ait mesuré",
+			"qu'ils/elles": "aient mesuré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "mesurerais",
+			"tu": "mesurerais",
+			"il/elle": "mesurerait",
+			"nous": "mesurerions",
+			"vous": "mesureriez",
+			"ils/elles": "mesureraient"
+		},
+		"passé première forme": {
+			"j'": "aurais mesuré",
+			"tu": "aurais mesuré",
+			"il/elle": "aurait mesuré",
+			"nous": "aurions mesuré",
+			"vous": "auriez mesuré",
+			"ils/elles": "auraient mesuré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse mesuré",
+			"tu": "eusses mesuré",
+			"il/elle": "eût mesuré",
+			"nous": "eussions mesuré",
+			"vous": "eussiez mesuré",
+			"ils/elles": "eussent mesuré"
+		}
+	},
+	"participe": {
+		"présent": { "mesurant": "" },
+		"passé composé": { "ayant": "mesuré" },
+		"passé": {
+			"masc.sg.:": "mesuré",
+			"masc.pl.:": "mesurés",
+			"fém.sg.:": "mesurée",
+			"fém.pl.:": "mesurées"
+		}
+	},
+	"imperatif": {
+		"présent": { "mesure": "", "mesurons": "", "mesurez": "" },
+		"passé": { "aie": "mesuré", "ayons": "mesuré", "ayez": "mesuré" }
+	},
+	"infinitif": { "présent": { "mesurer": "" }, "passé": { "avoir": "mesuré" } }
+}

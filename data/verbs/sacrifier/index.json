@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "sacrifice; give up; sell out; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se sacrifier/ne pas sacrifier/ne pas se sacrifier",
+	"indicatif": {
+		"présent": {
+			"je": "sacrifie",
+			"tu": "sacrifies",
+			"il/elle": "sacrifie",
+			"nous": "sacrifions",
+			"vous": "sacrifiez",
+			"ils/elles": "sacrifient"
+		},
+		"imparfait": {
+			"je": "sacrifiais",
+			"tu": "sacrifiais",
+			"il/elle": "sacrifiait",
+			"nous": "sacrifiions",
+			"vous": "sacrifiiez",
+			"ils/elles": "sacrifiaient"
+		},
+		"futur": {
+			"je": "sacrifierai",
+			"tu": "sacrifieras",
+			"il/elle": "sacrifiera",
+			"nous": "sacrifierons",
+			"vous": "sacrifierez",
+			"ils/elles": "sacrifieront"
+		},
+		"passé simple": {
+			"je": "sacrifiai",
+			"tu": "sacrifias",
+			"il/elle": "sacrifia",
+			"nous": "sacrifiâmes",
+			"vous": "sacrifiâtes",
+			"ils/elles": "sacrifièrent"
+		},
+		"passé composé": {
+			"j'": "ai sacrifié",
+			"tu": "as sacrifié",
+			"il/elle": "a sacrifié",
+			"nous": "avons sacrifié",
+			"vous": "avez sacrifié",
+			"ils/elles": "ont sacrifié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais sacrifié",
+			"tu": "avais sacrifié",
+			"il/elle": "avait sacrifié",
+			"nous": "avions sacrifié",
+			"vous": "aviez sacrifié",
+			"ils/elles": "avaient sacrifié"
+		},
+		"passé antérieur": {
+			"j'": "eus sacrifié",
+			"tu": "eus sacrifié",
+			"il/elle": "eut sacrifié",
+			"nous": "eûmes sacrifié",
+			"vous": "eûtes sacrifié",
+			"ils/elles": "eurent sacrifié"
+		},
+		"futur antérieur": {
+			"j'": "aurai sacrifié",
+			"tu": "auras sacrifié",
+			"il/elle": "aura sacrifié",
+			"nous": "aurons sacrifié",
+			"vous": "aurez sacrifié",
+			"ils/elles": "auront sacrifié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous sacrifiiez",
+			"qu'il/elle": "sacrifie",
+			"qu'ils/elles": "sacrifient"
+		},
+		"imparfait": {
+			"que": "vous sacrifiassiez",
+			"qu'il/elle": "sacrifiât",
+			"qu'ils/elles": "sacrifiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse sacrifié",
+			"que": "vous eussiez sacrifié",
+			"qu'il/elle": "eût sacrifié",
+			"qu'ils/elles": "eussent sacrifié"
+		},
+		"passé": {
+			"j'": "aie sacrifié",
+			"que": "vous ayez sacrifié",
+			"qu'il/elle": "ait sacrifié",
+			"qu'ils/elles": "aient sacrifié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "sacrifierais",
+			"tu": "sacrifierais",
+			"il/elle": "sacrifierait",
+			"nous": "sacrifierions",
+			"vous": "sacrifieriez",
+			"ils/elles": "sacrifieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais sacrifié",
+			"tu": "aurais sacrifié",
+			"il/elle": "aurait sacrifié",
+			"nous": "aurions sacrifié",
+			"vous": "auriez sacrifié",
+			"ils/elles": "auraient sacrifié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse sacrifié",
+			"tu": "eusses sacrifié",
+			"il/elle": "eût sacrifié",
+			"nous": "eussions sacrifié",
+			"vous": "eussiez sacrifié",
+			"ils/elles": "eussent sacrifié"
+		}
+	},
+	"participe": {
+		"présent": { "sacrifiant": "" },
+		"passé composé": { "ayant": "sacrifié" },
+		"passé": {
+			"masc.sg.:": "sacrifié",
+			"masc.pl.:": "sacrifiés",
+			"fém.sg.:": "sacrifiée",
+			"fém.pl.:": "sacrifiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "sacrifie": "", "sacrifions": "", "sacrifiez": "" },
+		"passé": { "aie": "sacrifié", "ayons": "sacrifié", "ayez": "sacrifié" }
+	},
+	"infinitif": {
+		"présent": { "sacrifier": "" },
+		"passé": { "avoir": "sacrifié" }
+	}
+}

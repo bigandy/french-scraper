@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "appoint; name; nominate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se nommer/ne pas nommer/ne pas se nommer",
+	"indicatif": {
+		"présent": {
+			"je": "nomme",
+			"tu": "nommes",
+			"il/elle": "nomme",
+			"nous": "nommons",
+			"vous": "nommez",
+			"ils/elles": "nomment"
+		},
+		"imparfait": {
+			"je": "nommais",
+			"tu": "nommais",
+			"il/elle": "nommait",
+			"nous": "nommions",
+			"vous": "nommiez",
+			"ils/elles": "nommaient"
+		},
+		"futur": {
+			"je": "nommerai",
+			"tu": "nommeras",
+			"il/elle": "nommera",
+			"nous": "nommerons",
+			"vous": "nommerez",
+			"ils/elles": "nommeront"
+		},
+		"passé simple": {
+			"je": "nommai",
+			"tu": "nommas",
+			"il/elle": "nomma",
+			"nous": "nommâmes",
+			"vous": "nommâtes",
+			"ils/elles": "nommèrent"
+		},
+		"passé composé": {
+			"j'": "ai nommé",
+			"tu": "as nommé",
+			"il/elle": "a nommé",
+			"nous": "avons nommé",
+			"vous": "avez nommé",
+			"ils/elles": "ont nommé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais nommé",
+			"tu": "avais nommé",
+			"il/elle": "avait nommé",
+			"nous": "avions nommé",
+			"vous": "aviez nommé",
+			"ils/elles": "avaient nommé"
+		},
+		"passé antérieur": {
+			"j'": "eus nommé",
+			"tu": "eus nommé",
+			"il/elle": "eut nommé",
+			"nous": "eûmes nommé",
+			"vous": "eûtes nommé",
+			"ils/elles": "eurent nommé"
+		},
+		"futur antérieur": {
+			"j'": "aurai nommé",
+			"tu": "auras nommé",
+			"il/elle": "aura nommé",
+			"nous": "aurons nommé",
+			"vous": "aurez nommé",
+			"ils/elles": "auront nommé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous nommiez",
+			"qu'il/elle": "nomme",
+			"qu'ils/elles": "nomment"
+		},
+		"imparfait": {
+			"que": "vous nommassiez",
+			"qu'il/elle": "nommât",
+			"qu'ils/elles": "nommassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse nommé",
+			"que": "vous eussiez nommé",
+			"qu'il/elle": "eût nommé",
+			"qu'ils/elles": "eussent nommé"
+		},
+		"passé": {
+			"j'": "aie nommé",
+			"que": "vous ayez nommé",
+			"qu'il/elle": "ait nommé",
+			"qu'ils/elles": "aient nommé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "nommerais",
+			"tu": "nommerais",
+			"il/elle": "nommerait",
+			"nous": "nommerions",
+			"vous": "nommeriez",
+			"ils/elles": "nommeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais nommé",
+			"tu": "aurais nommé",
+			"il/elle": "aurait nommé",
+			"nous": "aurions nommé",
+			"vous": "auriez nommé",
+			"ils/elles": "auraient nommé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse nommé",
+			"tu": "eusses nommé",
+			"il/elle": "eût nommé",
+			"nous": "eussions nommé",
+			"vous": "eussiez nommé",
+			"ils/elles": "eussent nommé"
+		}
+	},
+	"participe": {
+		"présent": { "nommant": "" },
+		"passé composé": { "ayant": "nommé" },
+		"passé": {
+			"masc.sg.:": "nommé",
+			"masc.pl.:": "nommés",
+			"fém.sg.:": "nommée",
+			"fém.pl.:": "nommées"
+		}
+	},
+	"imperatif": {
+		"présent": { "nomme": "", "nommons": "", "nommez": "" },
+		"passé": { "aie": "nommé", "ayons": "nommé", "ayez": "nommé" }
+	},
+	"infinitif": { "présent": { "nommer": "" }, "passé": { "avoir": "nommé" } }
+}

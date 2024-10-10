@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "stick; paste; bond; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se coller/ne pas coller/ne pas se coller",
+	"indicatif": {
+		"présent": {
+			"je": "colle",
+			"tu": "colles",
+			"il/elle": "colle",
+			"nous": "collons",
+			"vous": "collez",
+			"ils/elles": "collent"
+		},
+		"imparfait": {
+			"je": "collais",
+			"tu": "collais",
+			"il/elle": "collait",
+			"nous": "collions",
+			"vous": "colliez",
+			"ils/elles": "collaient"
+		},
+		"futur": {
+			"je": "collerai",
+			"tu": "colleras",
+			"il/elle": "collera",
+			"nous": "collerons",
+			"vous": "collerez",
+			"ils/elles": "colleront"
+		},
+		"passé simple": {
+			"je": "collai",
+			"tu": "collas",
+			"il/elle": "colla",
+			"nous": "collâmes",
+			"vous": "collâtes",
+			"ils/elles": "collèrent"
+		},
+		"passé composé": {
+			"j'": "ai collé",
+			"tu": "as collé",
+			"il/elle": "a collé",
+			"nous": "avons collé",
+			"vous": "avez collé",
+			"ils/elles": "ont collé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais collé",
+			"tu": "avais collé",
+			"il/elle": "avait collé",
+			"nous": "avions collé",
+			"vous": "aviez collé",
+			"ils/elles": "avaient collé"
+		},
+		"passé antérieur": {
+			"j'": "eus collé",
+			"tu": "eus collé",
+			"il/elle": "eut collé",
+			"nous": "eûmes collé",
+			"vous": "eûtes collé",
+			"ils/elles": "eurent collé"
+		},
+		"futur antérieur": {
+			"j'": "aurai collé",
+			"tu": "auras collé",
+			"il/elle": "aura collé",
+			"nous": "aurons collé",
+			"vous": "aurez collé",
+			"ils/elles": "auront collé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous colliez",
+			"qu'il/elle": "colle",
+			"qu'ils/elles": "collent"
+		},
+		"imparfait": {
+			"que": "vous collassiez",
+			"qu'il/elle": "collât",
+			"qu'ils/elles": "collassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse collé",
+			"que": "vous eussiez collé",
+			"qu'il/elle": "eût collé",
+			"qu'ils/elles": "eussent collé"
+		},
+		"passé": {
+			"j'": "aie collé",
+			"que": "vous ayez collé",
+			"qu'il/elle": "ait collé",
+			"qu'ils/elles": "aient collé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "collerais",
+			"tu": "collerais",
+			"il/elle": "collerait",
+			"nous": "collerions",
+			"vous": "colleriez",
+			"ils/elles": "colleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais collé",
+			"tu": "aurais collé",
+			"il/elle": "aurait collé",
+			"nous": "aurions collé",
+			"vous": "auriez collé",
+			"ils/elles": "auraient collé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse collé",
+			"tu": "eusses collé",
+			"il/elle": "eût collé",
+			"nous": "eussions collé",
+			"vous": "eussiez collé",
+			"ils/elles": "eussent collé"
+		}
+	},
+	"participe": {
+		"présent": { "collant": "" },
+		"passé composé": { "ayant": "collé" },
+		"passé": {
+			"masc.sg.:": "collé",
+			"masc.pl.:": "collés",
+			"fém.sg.:": "collée",
+			"fém.pl.:": "collées"
+		}
+	},
+	"imperatif": {
+		"présent": { "colle": "", "collons": "", "collez": "" },
+		"passé": { "aie": "collé", "ayons": "collé", "ayez": "collé" }
+	},
+	"infinitif": { "présent": { "coller": "" }, "passé": { "avoir": "collé" } }
+}

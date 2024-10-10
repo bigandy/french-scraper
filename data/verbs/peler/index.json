@@ -1,0 +1,138 @@
+{
+	"name": "peler",
+	"definition": "peel; skin; peal; ...",
+	"model": "peler",
+	"auxiliary": "avoir",
+	"otherForms": "se peler/ne pas peler/ne pas se peler",
+	"indicatif": {
+		"présent": {
+			"je": "pèle",
+			"tu": "pèles",
+			"il/elle": "pèle",
+			"nous": "pelons",
+			"vous": "pelez",
+			"ils/elles": "pèlent"
+		},
+		"imparfait": {
+			"je": "pelais",
+			"tu": "pelais",
+			"il/elle": "pelait",
+			"nous": "pelions",
+			"vous": "peliez",
+			"ils/elles": "pelaient"
+		},
+		"futur": {
+			"je": "pèlerai",
+			"tu": "pèleras",
+			"il/elle": "pèlera",
+			"nous": "pèlerons",
+			"vous": "pèlerez",
+			"ils/elles": "pèleront"
+		},
+		"passé simple": {
+			"je": "pelai",
+			"tu": "pelas",
+			"il/elle": "pela",
+			"nous": "pelâmes",
+			"vous": "pelâtes",
+			"ils/elles": "pelèrent"
+		},
+		"passé composé": {
+			"j'": "ai pelé",
+			"tu": "as pelé",
+			"il/elle": "a pelé",
+			"nous": "avons pelé",
+			"vous": "avez pelé",
+			"ils/elles": "ont pelé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais pelé",
+			"tu": "avais pelé",
+			"il/elle": "avait pelé",
+			"nous": "avions pelé",
+			"vous": "aviez pelé",
+			"ils/elles": "avaient pelé"
+		},
+		"passé antérieur": {
+			"j'": "eus pelé",
+			"tu": "eus pelé",
+			"il/elle": "eut pelé",
+			"nous": "eûmes pelé",
+			"vous": "eûtes pelé",
+			"ils/elles": "eurent pelé"
+		},
+		"futur antérieur": {
+			"j'": "aurai pelé",
+			"tu": "auras pelé",
+			"il/elle": "aura pelé",
+			"nous": "aurons pelé",
+			"vous": "aurez pelé",
+			"ils/elles": "auront pelé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous peliez",
+			"qu'il/elle": "pèle",
+			"qu'ils/elles": "pèlent"
+		},
+		"imparfait": {
+			"que": "vous pelassiez",
+			"qu'il/elle": "pelât",
+			"qu'ils/elles": "pelassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse pelé",
+			"que": "vous eussiez pelé",
+			"qu'il/elle": "eût pelé",
+			"qu'ils/elles": "eussent pelé"
+		},
+		"passé": {
+			"j'": "aie pelé",
+			"que": "vous ayez pelé",
+			"qu'il/elle": "ait pelé",
+			"qu'ils/elles": "aient pelé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "pèlerais",
+			"tu": "pèlerais",
+			"il/elle": "pèlerait",
+			"nous": "pèlerions",
+			"vous": "pèleriez",
+			"ils/elles": "pèleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais pelé",
+			"tu": "aurais pelé",
+			"il/elle": "aurait pelé",
+			"nous": "aurions pelé",
+			"vous": "auriez pelé",
+			"ils/elles": "auraient pelé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse pelé",
+			"tu": "eusses pelé",
+			"il/elle": "eût pelé",
+			"nous": "eussions pelé",
+			"vous": "eussiez pelé",
+			"ils/elles": "eussent pelé"
+		}
+	},
+	"participe": {
+		"présent": { "pelant": "" },
+		"passé composé": { "ayant": "pelé" },
+		"passé": {
+			"masc.sg.:": "pelé",
+			"masc.pl.:": "pelés",
+			"fém.sg.:": "pelée",
+			"fém.pl.:": "pelées"
+		}
+	},
+	"imperatif": {
+		"présent": { "pèle": "", "pelons": "", "pelez": "" },
+		"passé": { "aie": "pelé", "ayons": "pelé", "ayez": "pelé" }
+	},
+	"infinitif": { "présent": { "peler": "" }, "passé": { "avoir": "pelé" } }
+}

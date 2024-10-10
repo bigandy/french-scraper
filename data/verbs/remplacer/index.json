@@ -1,0 +1,141 @@
+{
+	"name": "commencer",
+	"definition": "replace; substitute; change; ...",
+	"model": "commencer",
+	"auxiliary": "avoir",
+	"otherForms": "se remplacer/ne pas remplacer/ne pas se remplacer",
+	"indicatif": {
+		"présent": {
+			"je": "remplace",
+			"tu": "remplaces",
+			"il/elle": "remplace",
+			"nous": "remplaçons",
+			"vous": "remplacez",
+			"ils/elles": "remplacent"
+		},
+		"imparfait": {
+			"je": "remplaçais",
+			"tu": "remplaçais",
+			"il/elle": "remplaçait",
+			"nous": "remplacions",
+			"vous": "remplaciez",
+			"ils/elles": "remplaçaient"
+		},
+		"futur": {
+			"je": "remplacerai",
+			"tu": "remplaceras",
+			"il/elle": "remplacera",
+			"nous": "remplacerons",
+			"vous": "remplacerez",
+			"ils/elles": "remplaceront"
+		},
+		"passé simple": {
+			"je": "remplaçai",
+			"tu": "remplaças",
+			"il/elle": "remplaça",
+			"nous": "remplaçâmes",
+			"vous": "remplaçâtes",
+			"ils/elles": "remplacèrent"
+		},
+		"passé composé": {
+			"j'": "ai remplacé",
+			"tu": "as remplacé",
+			"il/elle": "a remplacé",
+			"nous": "avons remplacé",
+			"vous": "avez remplacé",
+			"ils/elles": "ont remplacé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais remplacé",
+			"tu": "avais remplacé",
+			"il/elle": "avait remplacé",
+			"nous": "avions remplacé",
+			"vous": "aviez remplacé",
+			"ils/elles": "avaient remplacé"
+		},
+		"passé antérieur": {
+			"j'": "eus remplacé",
+			"tu": "eus remplacé",
+			"il/elle": "eut remplacé",
+			"nous": "eûmes remplacé",
+			"vous": "eûtes remplacé",
+			"ils/elles": "eurent remplacé"
+		},
+		"futur antérieur": {
+			"j'": "aurai remplacé",
+			"tu": "auras remplacé",
+			"il/elle": "aura remplacé",
+			"nous": "aurons remplacé",
+			"vous": "aurez remplacé",
+			"ils/elles": "auront remplacé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous remplaciez",
+			"qu'il/elle": "remplace",
+			"qu'ils/elles": "remplacent"
+		},
+		"imparfait": {
+			"que": "vous remplaçassiez",
+			"qu'il/elle": "remplaçât",
+			"qu'ils/elles": "remplaçassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse remplacé",
+			"que": "vous eussiez remplacé",
+			"qu'il/elle": "eût remplacé",
+			"qu'ils/elles": "eussent remplacé"
+		},
+		"passé": {
+			"j'": "aie remplacé",
+			"que": "vous ayez remplacé",
+			"qu'il/elle": "ait remplacé",
+			"qu'ils/elles": "aient remplacé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "remplacerais",
+			"tu": "remplacerais",
+			"il/elle": "remplacerait",
+			"nous": "remplacerions",
+			"vous": "remplaceriez",
+			"ils/elles": "remplaceraient"
+		},
+		"passé première forme": {
+			"j'": "aurais remplacé",
+			"tu": "aurais remplacé",
+			"il/elle": "aurait remplacé",
+			"nous": "aurions remplacé",
+			"vous": "auriez remplacé",
+			"ils/elles": "auraient remplacé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse remplacé",
+			"tu": "eusses remplacé",
+			"il/elle": "eût remplacé",
+			"nous": "eussions remplacé",
+			"vous": "eussiez remplacé",
+			"ils/elles": "eussent remplacé"
+		}
+	},
+	"participe": {
+		"présent": { "remplaçant": "" },
+		"passé composé": { "ayant": "remplacé" },
+		"passé": {
+			"masc.sg.:": "remplacé",
+			"masc.pl.:": "remplacés",
+			"fém.sg.:": "remplacée",
+			"fém.pl.:": "remplacées"
+		}
+	},
+	"imperatif": {
+		"présent": { "remplace": "", "remplaçons": "", "remplacez": "" },
+		"passé": { "aie": "remplacé", "ayons": "remplacé", "ayez": "remplacé" }
+	},
+	"infinitif": {
+		"présent": { "remplacer": "" },
+		"passé": { "avoir": "remplacé" }
+	}
+}

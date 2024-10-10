@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "identify; recognize; recognise; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'identifier/ne pas identifier/ne pas s'identifier",
+	"indicatif": {
+		"présent": {
+			"j'": "identifie",
+			"tu": "identifies",
+			"il/elle": "identifie",
+			"nous": "identifions",
+			"vous": "identifiez",
+			"ils/elles": "identifient"
+		},
+		"imparfait": {
+			"j'": "identifiais",
+			"tu": "identifiais",
+			"il/elle": "identifiait",
+			"nous": "identifiions",
+			"vous": "identifiiez",
+			"ils/elles": "identifiaient"
+		},
+		"futur": {
+			"j'": "identifierai",
+			"tu": "identifieras",
+			"il/elle": "identifiera",
+			"nous": "identifierons",
+			"vous": "identifierez",
+			"ils/elles": "identifieront"
+		},
+		"passé simple": {
+			"j'": "identifiai",
+			"tu": "identifias",
+			"il/elle": "identifia",
+			"nous": "identifiâmes",
+			"vous": "identifiâtes",
+			"ils/elles": "identifièrent"
+		},
+		"passé composé": {
+			"j'": "ai identifié",
+			"tu": "as identifié",
+			"il/elle": "a identifié",
+			"nous": "avons identifié",
+			"vous": "avez identifié",
+			"ils/elles": "ont identifié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais identifié",
+			"tu": "avais identifié",
+			"il/elle": "avait identifié",
+			"nous": "avions identifié",
+			"vous": "aviez identifié",
+			"ils/elles": "avaient identifié"
+		},
+		"passé antérieur": {
+			"j'": "eus identifié",
+			"tu": "eus identifié",
+			"il/elle": "eut identifié",
+			"nous": "eûmes identifié",
+			"vous": "eûtes identifié",
+			"ils/elles": "eurent identifié"
+		},
+		"futur antérieur": {
+			"j'": "aurai identifié",
+			"tu": "auras identifié",
+			"il/elle": "aura identifié",
+			"nous": "aurons identifié",
+			"vous": "aurez identifié",
+			"ils/elles": "auront identifié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "identifie",
+			"que": "vous identifiiez",
+			"qu'il/elle": "identifie",
+			"qu'ils/elles": "identifient"
+		},
+		"imparfait": {
+			"j'": "identifiasse",
+			"que": "vous identifiassiez",
+			"qu'il/elle": "identifiât",
+			"qu'ils/elles": "identifiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse identifié",
+			"que": "vous eussiez identifié",
+			"qu'il/elle": "eût identifié",
+			"qu'ils/elles": "eussent identifié"
+		},
+		"passé": {
+			"j'": "aie identifié",
+			"que": "vous ayez identifié",
+			"qu'il/elle": "ait identifié",
+			"qu'ils/elles": "aient identifié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "identifierais",
+			"tu": "identifierais",
+			"il/elle": "identifierait",
+			"nous": "identifierions",
+			"vous": "identifieriez",
+			"ils/elles": "identifieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais identifié",
+			"tu": "aurais identifié",
+			"il/elle": "aurait identifié",
+			"nous": "aurions identifié",
+			"vous": "auriez identifié",
+			"ils/elles": "auraient identifié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse identifié",
+			"tu": "eusses identifié",
+			"il/elle": "eût identifié",
+			"nous": "eussions identifié",
+			"vous": "eussiez identifié",
+			"ils/elles": "eussent identifié"
+		}
+	},
+	"participe": {
+		"présent": { "identifiant": "" },
+		"passé composé": { "ayant": "identifié" },
+		"passé": {
+			"masc.sg.:": "identifié",
+			"masc.pl.:": "identifiés",
+			"fém.sg.:": "identifiée",
+			"fém.pl.:": "identifiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "identifie": "", "identifions": "", "identifiez": "" },
+		"passé": { "aie": "identifié", "ayons": "identifié", "ayez": "identifié" }
+	},
+	"infinitif": {
+		"présent": { "identifier": "" },
+		"passé": { "avoir": "identifié" }
+	}
+}

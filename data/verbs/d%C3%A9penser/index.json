@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "spend; expend; waste; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se dépenser/ne pas dépenser/ne pas se dépenser",
+	"indicatif": {
+		"présent": {
+			"je": "dépense",
+			"tu": "dépenses",
+			"il/elle": "dépense",
+			"nous": "dépensons",
+			"vous": "dépensez",
+			"ils/elles": "dépensent"
+		},
+		"imparfait": {
+			"je": "dépensais",
+			"tu": "dépensais",
+			"il/elle": "dépensait",
+			"nous": "dépensions",
+			"vous": "dépensiez",
+			"ils/elles": "dépensaient"
+		},
+		"futur": {
+			"je": "dépenserai",
+			"tu": "dépenseras",
+			"il/elle": "dépensera",
+			"nous": "dépenserons",
+			"vous": "dépenserez",
+			"ils/elles": "dépenseront"
+		},
+		"passé simple": {
+			"je": "dépensai",
+			"tu": "dépensas",
+			"il/elle": "dépensa",
+			"nous": "dépensâmes",
+			"vous": "dépensâtes",
+			"ils/elles": "dépensèrent"
+		},
+		"passé composé": {
+			"j'": "ai dépensé",
+			"tu": "as dépensé",
+			"il/elle": "a dépensé",
+			"nous": "avons dépensé",
+			"vous": "avez dépensé",
+			"ils/elles": "ont dépensé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais dépensé",
+			"tu": "avais dépensé",
+			"il/elle": "avait dépensé",
+			"nous": "avions dépensé",
+			"vous": "aviez dépensé",
+			"ils/elles": "avaient dépensé"
+		},
+		"passé antérieur": {
+			"j'": "eus dépensé",
+			"tu": "eus dépensé",
+			"il/elle": "eut dépensé",
+			"nous": "eûmes dépensé",
+			"vous": "eûtes dépensé",
+			"ils/elles": "eurent dépensé"
+		},
+		"futur antérieur": {
+			"j'": "aurai dépensé",
+			"tu": "auras dépensé",
+			"il/elle": "aura dépensé",
+			"nous": "aurons dépensé",
+			"vous": "aurez dépensé",
+			"ils/elles": "auront dépensé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous dépensiez",
+			"qu'il/elle": "dépense",
+			"qu'ils/elles": "dépensent"
+		},
+		"imparfait": {
+			"que": "vous dépensassiez",
+			"qu'il/elle": "dépensât",
+			"qu'ils/elles": "dépensassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse dépensé",
+			"que": "vous eussiez dépensé",
+			"qu'il/elle": "eût dépensé",
+			"qu'ils/elles": "eussent dépensé"
+		},
+		"passé": {
+			"j'": "aie dépensé",
+			"que": "vous ayez dépensé",
+			"qu'il/elle": "ait dépensé",
+			"qu'ils/elles": "aient dépensé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "dépenserais",
+			"tu": "dépenserais",
+			"il/elle": "dépenserait",
+			"nous": "dépenserions",
+			"vous": "dépenseriez",
+			"ils/elles": "dépenseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais dépensé",
+			"tu": "aurais dépensé",
+			"il/elle": "aurait dépensé",
+			"nous": "aurions dépensé",
+			"vous": "auriez dépensé",
+			"ils/elles": "auraient dépensé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse dépensé",
+			"tu": "eusses dépensé",
+			"il/elle": "eût dépensé",
+			"nous": "eussions dépensé",
+			"vous": "eussiez dépensé",
+			"ils/elles": "eussent dépensé"
+		}
+	},
+	"participe": {
+		"présent": { "dépensant": "" },
+		"passé composé": { "ayant": "dépensé" },
+		"passé": {
+			"masc.sg.:": "dépensé",
+			"masc.pl.:": "dépensés",
+			"fém.sg.:": "dépensée",
+			"fém.pl.:": "dépensées"
+		}
+	},
+	"imperatif": {
+		"présent": { "dépense": "", "dépensons": "", "dépensez": "" },
+		"passé": { "aie": "dépensé", "ayons": "dépensé", "ayez": "dépensé" }
+	},
+	"infinitif": {
+		"présent": { "dépenser": "" },
+		"passé": { "avoir": "dépensé" }
+	}
+}

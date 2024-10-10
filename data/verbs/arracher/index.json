@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "rip; tear; rip out; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'arracher/ne pas arracher/ne pas s'arracher",
+	"indicatif": {
+		"présent": {
+			"j'": "arrache",
+			"tu": "arraches",
+			"il/elle": "arrache",
+			"nous": "arrachons",
+			"vous": "arrachez",
+			"ils/elles": "arrachent"
+		},
+		"imparfait": {
+			"j'": "arrachais",
+			"tu": "arrachais",
+			"il/elle": "arrachait",
+			"nous": "arrachions",
+			"vous": "arrachiez",
+			"ils/elles": "arrachaient"
+		},
+		"futur": {
+			"j'": "arracherai",
+			"tu": "arracheras",
+			"il/elle": "arrachera",
+			"nous": "arracherons",
+			"vous": "arracherez",
+			"ils/elles": "arracheront"
+		},
+		"passé simple": {
+			"j'": "arrachai",
+			"tu": "arrachas",
+			"il/elle": "arracha",
+			"nous": "arrachâmes",
+			"vous": "arrachâtes",
+			"ils/elles": "arrachèrent"
+		},
+		"passé composé": {
+			"j'": "ai arraché",
+			"tu": "as arraché",
+			"il/elle": "a arraché",
+			"nous": "avons arraché",
+			"vous": "avez arraché",
+			"ils/elles": "ont arraché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais arraché",
+			"tu": "avais arraché",
+			"il/elle": "avait arraché",
+			"nous": "avions arraché",
+			"vous": "aviez arraché",
+			"ils/elles": "avaient arraché"
+		},
+		"passé antérieur": {
+			"j'": "eus arraché",
+			"tu": "eus arraché",
+			"il/elle": "eut arraché",
+			"nous": "eûmes arraché",
+			"vous": "eûtes arraché",
+			"ils/elles": "eurent arraché"
+		},
+		"futur antérieur": {
+			"j'": "aurai arraché",
+			"tu": "auras arraché",
+			"il/elle": "aura arraché",
+			"nous": "aurons arraché",
+			"vous": "aurez arraché",
+			"ils/elles": "auront arraché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "arrache",
+			"que": "vous arrachiez",
+			"qu'il/elle": "arrache",
+			"qu'ils/elles": "arrachent"
+		},
+		"imparfait": {
+			"j'": "arrachasse",
+			"que": "vous arrachassiez",
+			"qu'il/elle": "arrachât",
+			"qu'ils/elles": "arrachassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse arraché",
+			"que": "vous eussiez arraché",
+			"qu'il/elle": "eût arraché",
+			"qu'ils/elles": "eussent arraché"
+		},
+		"passé": {
+			"j'": "aie arraché",
+			"que": "vous ayez arraché",
+			"qu'il/elle": "ait arraché",
+			"qu'ils/elles": "aient arraché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "arracherais",
+			"tu": "arracherais",
+			"il/elle": "arracherait",
+			"nous": "arracherions",
+			"vous": "arracheriez",
+			"ils/elles": "arracheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais arraché",
+			"tu": "aurais arraché",
+			"il/elle": "aurait arraché",
+			"nous": "aurions arraché",
+			"vous": "auriez arraché",
+			"ils/elles": "auraient arraché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse arraché",
+			"tu": "eusses arraché",
+			"il/elle": "eût arraché",
+			"nous": "eussions arraché",
+			"vous": "eussiez arraché",
+			"ils/elles": "eussent arraché"
+		}
+	},
+	"participe": {
+		"présent": { "arrachant": "" },
+		"passé composé": { "ayant": "arraché" },
+		"passé": {
+			"masc.sg.:": "arraché",
+			"masc.pl.:": "arrachés",
+			"fém.sg.:": "arrachée",
+			"fém.pl.:": "arrachées"
+		}
+	},
+	"imperatif": {
+		"présent": { "arrache": "", "arrachons": "", "arrachez": "" },
+		"passé": { "aie": "arraché", "ayons": "arraché", "ayez": "arraché" }
+	},
+	"infinitif": {
+		"présent": { "arracher": "" },
+		"passé": { "avoir": "arraché" }
+	}
+}

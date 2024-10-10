@@ -1,0 +1,141 @@
+{
+	"name": "ouvrir",
+	"definition": "suffer; hurt; pain; ...",
+	"model": "ouvrir",
+	"auxiliary": "avoir",
+	"otherForms": "se souffrir/ne pas souffrir/ne pas se souffrir",
+	"indicatif": {
+		"présent": {
+			"je": "souffre",
+			"tu": "souffres",
+			"il/elle": "souffre",
+			"nous": "souffrons",
+			"vous": "souffrez",
+			"ils/elles": "souffrent"
+		},
+		"imparfait": {
+			"je": "souffrais",
+			"tu": "souffrais",
+			"il/elle": "souffrait",
+			"nous": "souffrions",
+			"vous": "souffriez",
+			"ils/elles": "souffraient"
+		},
+		"futur": {
+			"je": "souffrirai",
+			"tu": "souffriras",
+			"il/elle": "souffrira",
+			"nous": "souffrirons",
+			"vous": "souffrirez",
+			"ils/elles": "souffriront"
+		},
+		"passé simple": {
+			"je": "souffris",
+			"tu": "souffris",
+			"il/elle": "souffrit",
+			"nous": "souffrîmes",
+			"vous": "souffrîtes",
+			"ils/elles": "souffrirent"
+		},
+		"passé composé": {
+			"j'": "ai souffert",
+			"tu": "as souffert",
+			"il/elle": "a souffert",
+			"nous": "avons souffert",
+			"vous": "avez souffert",
+			"ils/elles": "ont souffert"
+		},
+		"plus-que-parfait": {
+			"j'": "avais souffert",
+			"tu": "avais souffert",
+			"il/elle": "avait souffert",
+			"nous": "avions souffert",
+			"vous": "aviez souffert",
+			"ils/elles": "avaient souffert"
+		},
+		"passé antérieur": {
+			"j'": "eus souffert",
+			"tu": "eus souffert",
+			"il/elle": "eut souffert",
+			"nous": "eûmes souffert",
+			"vous": "eûtes souffert",
+			"ils/elles": "eurent souffert"
+		},
+		"futur antérieur": {
+			"j'": "aurai souffert",
+			"tu": "auras souffert",
+			"il/elle": "aura souffert",
+			"nous": "aurons souffert",
+			"vous": "aurez souffert",
+			"ils/elles": "auront souffert"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous souffriez",
+			"qu'il/elle": "souffre",
+			"qu'ils/elles": "souffrent"
+		},
+		"imparfait": {
+			"que": "vous souffrissiez",
+			"qu'il/elle": "souffrît",
+			"qu'ils/elles": "souffrissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse souffert",
+			"que": "vous eussiez souffert",
+			"qu'il/elle": "eût souffert",
+			"qu'ils/elles": "eussent souffert"
+		},
+		"passé": {
+			"j'": "aie souffert",
+			"que": "vous ayez souffert",
+			"qu'il/elle": "ait souffert",
+			"qu'ils/elles": "aient souffert"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "souffrirais",
+			"tu": "souffrirais",
+			"il/elle": "souffrirait",
+			"nous": "souffririons",
+			"vous": "souffririez",
+			"ils/elles": "souffriraient"
+		},
+		"passé première forme": {
+			"j'": "aurais souffert",
+			"tu": "aurais souffert",
+			"il/elle": "aurait souffert",
+			"nous": "aurions souffert",
+			"vous": "auriez souffert",
+			"ils/elles": "auraient souffert"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse souffert",
+			"tu": "eusses souffert",
+			"il/elle": "eût souffert",
+			"nous": "eussions souffert",
+			"vous": "eussiez souffert",
+			"ils/elles": "eussent souffert"
+		}
+	},
+	"participe": {
+		"présent": { "souffrant": "" },
+		"passé composé": { "ayant": "souffert" },
+		"passé": {
+			"masc.sg.:": "souffert",
+			"masc.pl.:": "soufferts",
+			"fém.sg.:": "soufferte",
+			"fém.pl.:": "souffertes"
+		}
+	},
+	"imperatif": {
+		"présent": { "souffre": "", "souffrons": "", "souffrez": "" },
+		"passé": { "aie": "souffert", "ayons": "souffert", "ayez": "souffert" }
+	},
+	"infinitif": {
+		"présent": { "souffrir": "" },
+		"passé": { "avoir": "souffert" }
+	}
+}

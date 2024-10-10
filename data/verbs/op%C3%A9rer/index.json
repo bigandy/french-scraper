@@ -1,0 +1,140 @@
+{
+	"name": "aérer",
+	"definition": "operate; effect; bring about; ...",
+	"model": "aérer",
+	"auxiliary": "avoir",
+	"otherForms": "s'opérer/ne pas opérer/ne pas s'opérer",
+	"indicatif": {
+		"présent": {
+			"j'": "opère",
+			"tu": "opères",
+			"il/elle": "opère",
+			"nous": "opérons",
+			"vous": "opérez",
+			"ils/elles": "opèrent"
+		},
+		"imparfait": {
+			"j'": "opérais",
+			"tu": "opérais",
+			"il/elle": "opérait",
+			"nous": "opérions",
+			"vous": "opériez",
+			"ils/elles": "opéraient"
+		},
+		"futur": {
+			"j'": "opérerai",
+			"tu": "opéreras",
+			"il/elle": "opérera",
+			"nous": "opérerons",
+			"vous": "opérerez",
+			"ils/elles": "opéreront"
+		},
+		"passé simple": {
+			"j'": "opérai",
+			"tu": "opéras",
+			"il/elle": "opéra",
+			"nous": "opérâmes",
+			"vous": "opérâtes",
+			"ils/elles": "opérèrent"
+		},
+		"passé composé": {
+			"j'": "ai opéré",
+			"tu": "as opéré",
+			"il/elle": "a opéré",
+			"nous": "avons opéré",
+			"vous": "avez opéré",
+			"ils/elles": "ont opéré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais opéré",
+			"tu": "avais opéré",
+			"il/elle": "avait opéré",
+			"nous": "avions opéré",
+			"vous": "aviez opéré",
+			"ils/elles": "avaient opéré"
+		},
+		"passé antérieur": {
+			"j'": "eus opéré",
+			"tu": "eus opéré",
+			"il/elle": "eut opéré",
+			"nous": "eûmes opéré",
+			"vous": "eûtes opéré",
+			"ils/elles": "eurent opéré"
+		},
+		"futur antérieur": {
+			"j'": "aurai opéré",
+			"tu": "auras opéré",
+			"il/elle": "aura opéré",
+			"nous": "aurons opéré",
+			"vous": "aurez opéré",
+			"ils/elles": "auront opéré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "opère",
+			"que": "vous opériez",
+			"qu'il/elle": "opère",
+			"qu'ils/elles": "opèrent"
+		},
+		"imparfait": {
+			"j'": "opérasse",
+			"que": "vous opérassiez",
+			"qu'il/elle": "opérât",
+			"qu'ils/elles": "opérassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse opéré",
+			"que": "vous eussiez opéré",
+			"qu'il/elle": "eût opéré",
+			"qu'ils/elles": "eussent opéré"
+		},
+		"passé": {
+			"j'": "aie opéré",
+			"que": "vous ayez opéré",
+			"qu'il/elle": "ait opéré",
+			"qu'ils/elles": "aient opéré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "opérerais",
+			"tu": "opérerais",
+			"il/elle": "opérerait",
+			"nous": "opérerions",
+			"vous": "opéreriez",
+			"ils/elles": "opéreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais opéré",
+			"tu": "aurais opéré",
+			"il/elle": "aurait opéré",
+			"nous": "aurions opéré",
+			"vous": "auriez opéré",
+			"ils/elles": "auraient opéré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse opéré",
+			"tu": "eusses opéré",
+			"il/elle": "eût opéré",
+			"nous": "eussions opéré",
+			"vous": "eussiez opéré",
+			"ils/elles": "eussent opéré"
+		}
+	},
+	"participe": {
+		"présent": { "opérant": "" },
+		"passé composé": { "ayant": "opéré" },
+		"passé": {
+			"masc.sg.:": "opéré",
+			"masc.pl.:": "opérés",
+			"fém.sg.:": "opérée",
+			"fém.pl.:": "opérées"
+		}
+	},
+	"imperatif": {
+		"présent": { "opère": "", "opérons": "", "opérez": "" },
+		"passé": { "aie": "opéré", "ayons": "opéré", "ayez": "opéré" }
+	},
+	"infinitif": { "présent": { "opérer": "" }, "passé": { "avoir": "opéré" } }
+}

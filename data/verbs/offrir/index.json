@@ -1,0 +1,140 @@
+{
+	"name": "ouvrir",
+	"definition": "offer; provide; give; ...",
+	"model": "ouvrir",
+	"auxiliary": "avoir",
+	"otherForms": "s'offrir/ne pas offrir/ne pas s'offrir",
+	"indicatif": {
+		"présent": {
+			"j'": "offre",
+			"tu": "offres",
+			"il/elle": "offre",
+			"nous": "offrons",
+			"vous": "offrez",
+			"ils/elles": "offrent"
+		},
+		"imparfait": {
+			"j'": "offrais",
+			"tu": "offrais",
+			"il/elle": "offrait",
+			"nous": "offrions",
+			"vous": "offriez",
+			"ils/elles": "offraient"
+		},
+		"futur": {
+			"j'": "offrirai",
+			"tu": "offriras",
+			"il/elle": "offrira",
+			"nous": "offrirons",
+			"vous": "offrirez",
+			"ils/elles": "offriront"
+		},
+		"passé simple": {
+			"j'": "offris",
+			"tu": "offris",
+			"il/elle": "offrit",
+			"nous": "offrîmes",
+			"vous": "offrîtes",
+			"ils/elles": "offrirent"
+		},
+		"passé composé": {
+			"j'": "ai offert",
+			"tu": "as offert",
+			"il/elle": "a offert",
+			"nous": "avons offert",
+			"vous": "avez offert",
+			"ils/elles": "ont offert"
+		},
+		"plus-que-parfait": {
+			"j'": "avais offert",
+			"tu": "avais offert",
+			"il/elle": "avait offert",
+			"nous": "avions offert",
+			"vous": "aviez offert",
+			"ils/elles": "avaient offert"
+		},
+		"passé antérieur": {
+			"j'": "eus offert",
+			"tu": "eus offert",
+			"il/elle": "eut offert",
+			"nous": "eûmes offert",
+			"vous": "eûtes offert",
+			"ils/elles": "eurent offert"
+		},
+		"futur antérieur": {
+			"j'": "aurai offert",
+			"tu": "auras offert",
+			"il/elle": "aura offert",
+			"nous": "aurons offert",
+			"vous": "aurez offert",
+			"ils/elles": "auront offert"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "offre",
+			"que": "vous offriez",
+			"qu'il/elle": "offre",
+			"qu'ils/elles": "offrent"
+		},
+		"imparfait": {
+			"j'": "offrisse",
+			"que": "vous offrissiez",
+			"qu'il/elle": "offrît",
+			"qu'ils/elles": "offrissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse offert",
+			"que": "vous eussiez offert",
+			"qu'il/elle": "eût offert",
+			"qu'ils/elles": "eussent offert"
+		},
+		"passé": {
+			"j'": "aie offert",
+			"que": "vous ayez offert",
+			"qu'il/elle": "ait offert",
+			"qu'ils/elles": "aient offert"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "offrirais",
+			"tu": "offrirais",
+			"il/elle": "offrirait",
+			"nous": "offririons",
+			"vous": "offririez",
+			"ils/elles": "offriraient"
+		},
+		"passé première forme": {
+			"j'": "aurais offert",
+			"tu": "aurais offert",
+			"il/elle": "aurait offert",
+			"nous": "aurions offert",
+			"vous": "auriez offert",
+			"ils/elles": "auraient offert"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse offert",
+			"tu": "eusses offert",
+			"il/elle": "eût offert",
+			"nous": "eussions offert",
+			"vous": "eussiez offert",
+			"ils/elles": "eussent offert"
+		}
+	},
+	"participe": {
+		"présent": { "offrant": "" },
+		"passé composé": { "ayant": "offert" },
+		"passé": {
+			"masc.sg.:": "offert",
+			"masc.pl.:": "offerts",
+			"fém.sg.:": "offerte",
+			"fém.pl.:": "offertes"
+		}
+	},
+	"imperatif": {
+		"présent": { "offre": "", "offrons": "", "offrez": "" },
+		"passé": { "aie": "offert", "ayons": "offert", "ayez": "offert" }
+	},
+	"infinitif": { "présent": { "offrir": "" }, "passé": { "avoir": "offert" } }
+}

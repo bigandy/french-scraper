@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "express; speak; voice; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'exprimer/ne pas exprimer/ne pas s'exprimer",
+	"indicatif": {
+		"présent": {
+			"j'": "exprime",
+			"tu": "exprimes",
+			"il/elle": "exprime",
+			"nous": "exprimons",
+			"vous": "exprimez",
+			"ils/elles": "expriment"
+		},
+		"imparfait": {
+			"j'": "exprimais",
+			"tu": "exprimais",
+			"il/elle": "exprimait",
+			"nous": "exprimions",
+			"vous": "exprimiez",
+			"ils/elles": "exprimaient"
+		},
+		"futur": {
+			"j'": "exprimerai",
+			"tu": "exprimeras",
+			"il/elle": "exprimera",
+			"nous": "exprimerons",
+			"vous": "exprimerez",
+			"ils/elles": "exprimeront"
+		},
+		"passé simple": {
+			"j'": "exprimai",
+			"tu": "exprimas",
+			"il/elle": "exprima",
+			"nous": "exprimâmes",
+			"vous": "exprimâtes",
+			"ils/elles": "exprimèrent"
+		},
+		"passé composé": {
+			"j'": "ai exprimé",
+			"tu": "as exprimé",
+			"il/elle": "a exprimé",
+			"nous": "avons exprimé",
+			"vous": "avez exprimé",
+			"ils/elles": "ont exprimé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais exprimé",
+			"tu": "avais exprimé",
+			"il/elle": "avait exprimé",
+			"nous": "avions exprimé",
+			"vous": "aviez exprimé",
+			"ils/elles": "avaient exprimé"
+		},
+		"passé antérieur": {
+			"j'": "eus exprimé",
+			"tu": "eus exprimé",
+			"il/elle": "eut exprimé",
+			"nous": "eûmes exprimé",
+			"vous": "eûtes exprimé",
+			"ils/elles": "eurent exprimé"
+		},
+		"futur antérieur": {
+			"j'": "aurai exprimé",
+			"tu": "auras exprimé",
+			"il/elle": "aura exprimé",
+			"nous": "aurons exprimé",
+			"vous": "aurez exprimé",
+			"ils/elles": "auront exprimé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "exprime",
+			"que": "vous exprimiez",
+			"qu'il/elle": "exprime",
+			"qu'ils/elles": "expriment"
+		},
+		"imparfait": {
+			"j'": "exprimasse",
+			"que": "vous exprimassiez",
+			"qu'il/elle": "exprimât",
+			"qu'ils/elles": "exprimassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse exprimé",
+			"que": "vous eussiez exprimé",
+			"qu'il/elle": "eût exprimé",
+			"qu'ils/elles": "eussent exprimé"
+		},
+		"passé": {
+			"j'": "aie exprimé",
+			"que": "vous ayez exprimé",
+			"qu'il/elle": "ait exprimé",
+			"qu'ils/elles": "aient exprimé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "exprimerais",
+			"tu": "exprimerais",
+			"il/elle": "exprimerait",
+			"nous": "exprimerions",
+			"vous": "exprimeriez",
+			"ils/elles": "exprimeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais exprimé",
+			"tu": "aurais exprimé",
+			"il/elle": "aurait exprimé",
+			"nous": "aurions exprimé",
+			"vous": "auriez exprimé",
+			"ils/elles": "auraient exprimé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse exprimé",
+			"tu": "eusses exprimé",
+			"il/elle": "eût exprimé",
+			"nous": "eussions exprimé",
+			"vous": "eussiez exprimé",
+			"ils/elles": "eussent exprimé"
+		}
+	},
+	"participe": {
+		"présent": { "exprimant": "" },
+		"passé composé": { "ayant": "exprimé" },
+		"passé": {
+			"masc.sg.:": "exprimé",
+			"masc.pl.:": "exprimés",
+			"fém.sg.:": "exprimée",
+			"fém.pl.:": "exprimées"
+		}
+	},
+	"imperatif": {
+		"présent": { "exprime": "", "exprimons": "", "exprimez": "" },
+		"passé": { "aie": "exprimé", "ayons": "exprimé", "ayez": "exprimé" }
+	},
+	"infinitif": {
+		"présent": { "exprimer": "" },
+		"passé": { "avoir": "exprimé" }
+	}
+}

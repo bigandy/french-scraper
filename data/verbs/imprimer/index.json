@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "print; print out; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'imprimer/ne pas imprimer/ne pas s'imprimer",
+	"indicatif": {
+		"présent": {
+			"j'": "imprime",
+			"tu": "imprimes",
+			"il/elle": "imprime",
+			"nous": "imprimons",
+			"vous": "imprimez",
+			"ils/elles": "impriment"
+		},
+		"imparfait": {
+			"j'": "imprimais",
+			"tu": "imprimais",
+			"il/elle": "imprimait",
+			"nous": "imprimions",
+			"vous": "imprimiez",
+			"ils/elles": "imprimaient"
+		},
+		"futur": {
+			"j'": "imprimerai",
+			"tu": "imprimeras",
+			"il/elle": "imprimera",
+			"nous": "imprimerons",
+			"vous": "imprimerez",
+			"ils/elles": "imprimeront"
+		},
+		"passé simple": {
+			"j'": "imprimai",
+			"tu": "imprimas",
+			"il/elle": "imprima",
+			"nous": "imprimâmes",
+			"vous": "imprimâtes",
+			"ils/elles": "imprimèrent"
+		},
+		"passé composé": {
+			"j'": "ai imprimé",
+			"tu": "as imprimé",
+			"il/elle": "a imprimé",
+			"nous": "avons imprimé",
+			"vous": "avez imprimé",
+			"ils/elles": "ont imprimé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais imprimé",
+			"tu": "avais imprimé",
+			"il/elle": "avait imprimé",
+			"nous": "avions imprimé",
+			"vous": "aviez imprimé",
+			"ils/elles": "avaient imprimé"
+		},
+		"passé antérieur": {
+			"j'": "eus imprimé",
+			"tu": "eus imprimé",
+			"il/elle": "eut imprimé",
+			"nous": "eûmes imprimé",
+			"vous": "eûtes imprimé",
+			"ils/elles": "eurent imprimé"
+		},
+		"futur antérieur": {
+			"j'": "aurai imprimé",
+			"tu": "auras imprimé",
+			"il/elle": "aura imprimé",
+			"nous": "aurons imprimé",
+			"vous": "aurez imprimé",
+			"ils/elles": "auront imprimé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "imprime",
+			"que": "vous imprimiez",
+			"qu'il/elle": "imprime",
+			"qu'ils/elles": "impriment"
+		},
+		"imparfait": {
+			"j'": "imprimasse",
+			"que": "vous imprimassiez",
+			"qu'il/elle": "imprimât",
+			"qu'ils/elles": "imprimassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse imprimé",
+			"que": "vous eussiez imprimé",
+			"qu'il/elle": "eût imprimé",
+			"qu'ils/elles": "eussent imprimé"
+		},
+		"passé": {
+			"j'": "aie imprimé",
+			"que": "vous ayez imprimé",
+			"qu'il/elle": "ait imprimé",
+			"qu'ils/elles": "aient imprimé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "imprimerais",
+			"tu": "imprimerais",
+			"il/elle": "imprimerait",
+			"nous": "imprimerions",
+			"vous": "imprimeriez",
+			"ils/elles": "imprimeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais imprimé",
+			"tu": "aurais imprimé",
+			"il/elle": "aurait imprimé",
+			"nous": "aurions imprimé",
+			"vous": "auriez imprimé",
+			"ils/elles": "auraient imprimé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse imprimé",
+			"tu": "eusses imprimé",
+			"il/elle": "eût imprimé",
+			"nous": "eussions imprimé",
+			"vous": "eussiez imprimé",
+			"ils/elles": "eussent imprimé"
+		}
+	},
+	"participe": {
+		"présent": { "imprimant": "" },
+		"passé composé": { "ayant": "imprimé" },
+		"passé": {
+			"masc.sg.:": "imprimé",
+			"masc.pl.:": "imprimés",
+			"fém.sg.:": "imprimée",
+			"fém.pl.:": "imprimées"
+		}
+	},
+	"imperatif": {
+		"présent": { "imprime": "", "imprimons": "", "imprimez": "" },
+		"passé": { "aie": "imprimé", "ayons": "imprimé", "ayez": "imprimé" }
+	},
+	"infinitif": {
+		"présent": { "imprimer": "" },
+		"passé": { "avoir": "imprimé" }
+	}
+}

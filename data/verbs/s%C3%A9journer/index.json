@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "stay; reside; remain; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas séjourner",
+	"indicatif": {
+		"présent": {
+			"je": "séjourne",
+			"tu": "séjournes",
+			"il/elle": "séjourne",
+			"nous": "séjournons",
+			"vous": "séjournez",
+			"ils/elles": "séjournent"
+		},
+		"imparfait": {
+			"je": "séjournais",
+			"tu": "séjournais",
+			"il/elle": "séjournait",
+			"nous": "séjournions",
+			"vous": "séjourniez",
+			"ils/elles": "séjournaient"
+		},
+		"futur": {
+			"je": "séjournerai",
+			"tu": "séjourneras",
+			"il/elle": "séjournera",
+			"nous": "séjournerons",
+			"vous": "séjournerez",
+			"ils/elles": "séjourneront"
+		},
+		"passé simple": {
+			"je": "séjournai",
+			"tu": "séjournas",
+			"il/elle": "séjourna",
+			"nous": "séjournâmes",
+			"vous": "séjournâtes",
+			"ils/elles": "séjournèrent"
+		},
+		"passé composé": {
+			"j'": "ai séjourné",
+			"tu": "as séjourné",
+			"il/elle": "a séjourné",
+			"nous": "avons séjourné",
+			"vous": "avez séjourné",
+			"ils/elles": "ont séjourné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais séjourné",
+			"tu": "avais séjourné",
+			"il/elle": "avait séjourné",
+			"nous": "avions séjourné",
+			"vous": "aviez séjourné",
+			"ils/elles": "avaient séjourné"
+		},
+		"passé antérieur": {
+			"j'": "eus séjourné",
+			"tu": "eus séjourné",
+			"il/elle": "eut séjourné",
+			"nous": "eûmes séjourné",
+			"vous": "eûtes séjourné",
+			"ils/elles": "eurent séjourné"
+		},
+		"futur antérieur": {
+			"j'": "aurai séjourné",
+			"tu": "auras séjourné",
+			"il/elle": "aura séjourné",
+			"nous": "aurons séjourné",
+			"vous": "aurez séjourné",
+			"ils/elles": "auront séjourné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous séjourniez",
+			"qu'il/elle": "séjourne",
+			"qu'ils/elles": "séjournent"
+		},
+		"imparfait": {
+			"que": "vous séjournassiez",
+			"qu'il/elle": "séjournât",
+			"qu'ils/elles": "séjournassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse séjourné",
+			"que": "vous eussiez séjourné",
+			"qu'il/elle": "eût séjourné",
+			"qu'ils/elles": "eussent séjourné"
+		},
+		"passé": {
+			"j'": "aie séjourné",
+			"que": "vous ayez séjourné",
+			"qu'il/elle": "ait séjourné",
+			"qu'ils/elles": "aient séjourné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "séjournerais",
+			"tu": "séjournerais",
+			"il/elle": "séjournerait",
+			"nous": "séjournerions",
+			"vous": "séjourneriez",
+			"ils/elles": "séjourneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais séjourné",
+			"tu": "aurais séjourné",
+			"il/elle": "aurait séjourné",
+			"nous": "aurions séjourné",
+			"vous": "auriez séjourné",
+			"ils/elles": "auraient séjourné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse séjourné",
+			"tu": "eusses séjourné",
+			"il/elle": "eût séjourné",
+			"nous": "eussions séjourné",
+			"vous": "eussiez séjourné",
+			"ils/elles": "eussent séjourné"
+		}
+	},
+	"participe": {
+		"présent": { "séjournant": "" },
+		"passé composé": { "ayant": "séjourné" },
+		"passé": {
+			"masc.sg.:": "séjourné",
+			"masc.pl.:": "séjournés",
+			"fém.sg.:": "séjournée",
+			"fém.pl.:": "séjournées"
+		}
+	},
+	"imperatif": {
+		"présent": { "séjourne": "", "séjournons": "", "séjournez": "" },
+		"passé": { "aie": "séjourné", "ayons": "séjourné", "ayez": "séjourné" }
+	},
+	"infinitif": {
+		"présent": { "séjourner": "" },
+		"passé": { "avoir": "séjourné" }
+	}
+}

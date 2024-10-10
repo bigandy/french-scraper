@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "heat; warm; warm up; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se réchauffer/ne pas réchauffer/ne pas se réchauffer",
+	"indicatif": {
+		"présent": {
+			"je": "réchauffe",
+			"tu": "réchauffes",
+			"il/elle": "réchauffe",
+			"nous": "réchauffons",
+			"vous": "réchauffez",
+			"ils/elles": "réchauffent"
+		},
+		"imparfait": {
+			"je": "réchauffais",
+			"tu": "réchauffais",
+			"il/elle": "réchauffait",
+			"nous": "réchauffions",
+			"vous": "réchauffiez",
+			"ils/elles": "réchauffaient"
+		},
+		"futur": {
+			"je": "réchaufferai",
+			"tu": "réchaufferas",
+			"il/elle": "réchauffera",
+			"nous": "réchaufferons",
+			"vous": "réchaufferez",
+			"ils/elles": "réchaufferont"
+		},
+		"passé simple": {
+			"je": "réchauffai",
+			"tu": "réchauffas",
+			"il/elle": "réchauffa",
+			"nous": "réchauffâmes",
+			"vous": "réchauffâtes",
+			"ils/elles": "réchauffèrent"
+		},
+		"passé composé": {
+			"j'": "ai réchauffé",
+			"tu": "as réchauffé",
+			"il/elle": "a réchauffé",
+			"nous": "avons réchauffé",
+			"vous": "avez réchauffé",
+			"ils/elles": "ont réchauffé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais réchauffé",
+			"tu": "avais réchauffé",
+			"il/elle": "avait réchauffé",
+			"nous": "avions réchauffé",
+			"vous": "aviez réchauffé",
+			"ils/elles": "avaient réchauffé"
+		},
+		"passé antérieur": {
+			"j'": "eus réchauffé",
+			"tu": "eus réchauffé",
+			"il/elle": "eut réchauffé",
+			"nous": "eûmes réchauffé",
+			"vous": "eûtes réchauffé",
+			"ils/elles": "eurent réchauffé"
+		},
+		"futur antérieur": {
+			"j'": "aurai réchauffé",
+			"tu": "auras réchauffé",
+			"il/elle": "aura réchauffé",
+			"nous": "aurons réchauffé",
+			"vous": "aurez réchauffé",
+			"ils/elles": "auront réchauffé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous réchauffiez",
+			"qu'il/elle": "réchauffe",
+			"qu'ils/elles": "réchauffent"
+		},
+		"imparfait": {
+			"que": "vous réchauffassiez",
+			"qu'il/elle": "réchauffât",
+			"qu'ils/elles": "réchauffassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse réchauffé",
+			"que": "vous eussiez réchauffé",
+			"qu'il/elle": "eût réchauffé",
+			"qu'ils/elles": "eussent réchauffé"
+		},
+		"passé": {
+			"j'": "aie réchauffé",
+			"que": "vous ayez réchauffé",
+			"qu'il/elle": "ait réchauffé",
+			"qu'ils/elles": "aient réchauffé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "réchaufferais",
+			"tu": "réchaufferais",
+			"il/elle": "réchaufferait",
+			"nous": "réchaufferions",
+			"vous": "réchaufferiez",
+			"ils/elles": "réchaufferaient"
+		},
+		"passé première forme": {
+			"j'": "aurais réchauffé",
+			"tu": "aurais réchauffé",
+			"il/elle": "aurait réchauffé",
+			"nous": "aurions réchauffé",
+			"vous": "auriez réchauffé",
+			"ils/elles": "auraient réchauffé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse réchauffé",
+			"tu": "eusses réchauffé",
+			"il/elle": "eût réchauffé",
+			"nous": "eussions réchauffé",
+			"vous": "eussiez réchauffé",
+			"ils/elles": "eussent réchauffé"
+		}
+	},
+	"participe": {
+		"présent": { "réchauffant": "" },
+		"passé composé": { "ayant": "réchauffé" },
+		"passé": {
+			"masc.sg.:": "réchauffé",
+			"masc.pl.:": "réchauffés",
+			"fém.sg.:": "réchauffée",
+			"fém.pl.:": "réchauffées"
+		}
+	},
+	"imperatif": {
+		"présent": { "réchauffe": "", "réchauffons": "", "réchauffez": "" },
+		"passé": { "aie": "réchauffé", "ayons": "réchauffé", "ayez": "réchauffé" }
+	},
+	"infinitif": {
+		"présent": { "réchauffer": "" },
+		"passé": { "avoir": "réchauffé" }
+	}
+}

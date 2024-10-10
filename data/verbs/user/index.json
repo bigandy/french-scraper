@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "use; wear; exercise; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'user/ne pas user/ne pas s'user",
+	"indicatif": {
+		"présent": {
+			"j'": "use",
+			"tu": "uses",
+			"il/elle": "use",
+			"nous": "usons",
+			"vous": "usez",
+			"ils/elles": "usent"
+		},
+		"imparfait": {
+			"j'": "usais",
+			"tu": "usais",
+			"il/elle": "usait",
+			"nous": "usions",
+			"vous": "usiez",
+			"ils/elles": "usaient"
+		},
+		"futur": {
+			"j'": "userai",
+			"tu": "useras",
+			"il/elle": "usera",
+			"nous": "userons",
+			"vous": "userez",
+			"ils/elles": "useront"
+		},
+		"passé simple": {
+			"j'": "usai",
+			"tu": "usas",
+			"il/elle": "usa",
+			"nous": "usâmes",
+			"vous": "usâtes",
+			"ils/elles": "usèrent"
+		},
+		"passé composé": {
+			"j'": "ai usé",
+			"tu": "as usé",
+			"il/elle": "a usé",
+			"nous": "avons usé",
+			"vous": "avez usé",
+			"ils/elles": "ont usé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais usé",
+			"tu": "avais usé",
+			"il/elle": "avait usé",
+			"nous": "avions usé",
+			"vous": "aviez usé",
+			"ils/elles": "avaient usé"
+		},
+		"passé antérieur": {
+			"j'": "eus usé",
+			"tu": "eus usé",
+			"il/elle": "eut usé",
+			"nous": "eûmes usé",
+			"vous": "eûtes usé",
+			"ils/elles": "eurent usé"
+		},
+		"futur antérieur": {
+			"j'": "aurai usé",
+			"tu": "auras usé",
+			"il/elle": "aura usé",
+			"nous": "aurons usé",
+			"vous": "aurez usé",
+			"ils/elles": "auront usé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "use",
+			"que": "vous usiez",
+			"qu'il/elle": "use",
+			"qu'ils/elles": "usent"
+		},
+		"imparfait": {
+			"j'": "usasse",
+			"que": "vous usassiez",
+			"qu'il/elle": "usât",
+			"qu'ils/elles": "usassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse usé",
+			"que": "vous eussiez usé",
+			"qu'il/elle": "eût usé",
+			"qu'ils/elles": "eussent usé"
+		},
+		"passé": {
+			"j'": "aie usé",
+			"que": "vous ayez usé",
+			"qu'il/elle": "ait usé",
+			"qu'ils/elles": "aient usé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "userais",
+			"tu": "userais",
+			"il/elle": "userait",
+			"nous": "userions",
+			"vous": "useriez",
+			"ils/elles": "useraient"
+		},
+		"passé première forme": {
+			"j'": "aurais usé",
+			"tu": "aurais usé",
+			"il/elle": "aurait usé",
+			"nous": "aurions usé",
+			"vous": "auriez usé",
+			"ils/elles": "auraient usé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse usé",
+			"tu": "eusses usé",
+			"il/elle": "eût usé",
+			"nous": "eussions usé",
+			"vous": "eussiez usé",
+			"ils/elles": "eussent usé"
+		}
+	},
+	"participe": {
+		"présent": { "usant": "" },
+		"passé composé": { "ayant": "usé" },
+		"passé": {
+			"masc.sg.:": "usé",
+			"masc.pl.:": "usés",
+			"fém.sg.:": "usée",
+			"fém.pl.:": "usées"
+		}
+	},
+	"imperatif": {
+		"présent": { "use": "", "usons": "", "usez": "" },
+		"passé": { "aie": "usé", "ayons": "usé", "ayez": "usé" }
+	},
+	"infinitif": { "présent": { "user": "" }, "passé": { "avoir": "usé" } }
+}

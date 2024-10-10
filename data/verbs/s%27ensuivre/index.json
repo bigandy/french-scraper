@@ -1,0 +1,112 @@
+{
+	"name": "ensuivre",
+	"definition": "ensue; follow; result; ...",
+	"model": "ensuivre",
+	"auxiliary": "être",
+	"otherForms": "ne pas s'ensuivre",
+	"indicatif": {
+		"présent": { "il/elle": "s'ensuit", "ils/elles": "s'ensuivent" },
+		"imparfait": { "il/elle": "s'ensuivait", "ils/elles": "s'ensuivaient" },
+		"futur": { "il/elle": "s'ensuivra", "ils/elles": "s'ensuivront" },
+		"passé simple": { "il/elle": "s'ensuivit", "ils/elles": "s'ensuivirent" },
+		"passé composé": {
+			"je": "me suis ensuivi",
+			"tu": "t'es ensuivi",
+			"il": "s'est ensuivi",
+			"elle": "s'est ensuivi",
+			"nous": "nous sommes ensuivi",
+			"vous": "vous êtes ensuivi",
+			"ils": "se sont ensuivi",
+			"elles": "se sont ensuivi"
+		},
+		"plus-que-parfait": {
+			"je": "m'étais ensuivi",
+			"tu": "t'étais ensuivi",
+			"il": "s'était ensuivi",
+			"elle": "s'était ensuivi",
+			"nous": "nous étions ensuivi",
+			"vous": "vous étiez ensuivi",
+			"ils": "s'étaient ensuivi",
+			"elles": "s'étaient ensuivi"
+		},
+		"passé antérieur": {
+			"je": "me fus ensuivi",
+			"tu": "te fus ensuivi",
+			"il": "se fut ensuivi",
+			"elle": "se fut ensuivi",
+			"nous": "nous fûmes ensuivi",
+			"vous": "vous fûtes ensuivi",
+			"ils": "se furent ensuivi",
+			"elles": "se furent ensuivi"
+		},
+		"futur antérieur": {
+			"je": "me serai ensuivi",
+			"tu": "te seras ensuivi",
+			"il": "se sera ensuivi",
+			"elle": "se sera ensuivi",
+			"nous": "nous serons ensuivi",
+			"vous": "vous serez ensuivi",
+			"ils": "se seront ensuivi",
+			"elles": "se seront ensuivi"
+		}
+	},
+	"subjonctif": {
+		"présent": { "qu'il/elle": "s'ensuive", "qu'ils/elles": "s'ensuivent" },
+		"imparfait": {
+			"qu'il/elle": "s'ensuivît",
+			"qu'ils/elles": "s'ensuivissent"
+		},
+		"plus-que-parfait": {
+			"que": "vous vous fussiez ensuivi",
+			"qu'il": "se fût ensuivi",
+			"qu'elle": "se fût ensuivi",
+			"qu'ils": "se fussent ensuivi",
+			"qu'elles": "se fussent ensuivi"
+		},
+		"passé": {
+			"que": "vous vous soyez ensuivi",
+			"qu'il": "se soit ensuivi",
+			"qu'elle": "se soit ensuivi",
+			"qu'ils": "se soient ensuivi",
+			"qu'elles": "se soient ensuivi"
+		}
+	},
+	"conditionnel": {
+		"présent": { "il/elle": "s'ensuivrait", "ils/elles": "s'ensuivraient" },
+		"passé première forme": {
+			"je": "me serais ensuivi",
+			"tu": "te serais ensuivi",
+			"il": "se serait ensuivi",
+			"elle": "se serait ensuivi",
+			"nous": "nous serions ensuivi",
+			"vous": "vous seriez ensuivi",
+			"ils": "se seraient ensuivi",
+			"elles": "se seraient ensuivi"
+		},
+		"passé deuxième forme": {
+			"je": "me fusse ensuivi",
+			"tu": "te fusses ensuivi",
+			"il": "se fût ensuivi",
+			"elle": "se fût ensuivi",
+			"nous": "nous fussions ensuivi",
+			"vous": "vous fussiez ensuivi",
+			"ils": "se fussent ensuivi",
+			"elles": "se fussent ensuivi"
+		}
+	},
+	"participe": {
+		"présent": { "s'ensuivant": "" },
+		"passé composé": { "s'étant": "ensuivi" },
+		"passé": {
+			"masc.sg.:": "ensuivi",
+			"masc.pl.:": "ensuivi",
+			"fém.sg.:": "ensuivi",
+			"fém.pl.:": "ensuivi"
+		}
+	},
+	"imperatif": { "présent": {}, "passé": {} },
+	"infinitif": {
+		"présent": { "s'ensuivre": "" },
+		"passé": { "s'être": "ensuivi" }
+	}
+}

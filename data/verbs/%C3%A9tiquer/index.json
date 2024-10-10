@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "label; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'étiquer/ne pas étiquer/ne pas s'étiquer",
+	"indicatif": {
+		"présent": {
+			"j'": "étique",
+			"tu": "étiques",
+			"il/elle": "étique",
+			"nous": "étiquons",
+			"vous": "étiquez",
+			"ils/elles": "étiquent"
+		},
+		"imparfait": {
+			"j'": "étiquais",
+			"tu": "étiquais",
+			"il/elle": "étiquait",
+			"nous": "étiquions",
+			"vous": "étiquiez",
+			"ils/elles": "étiquaient"
+		},
+		"futur": {
+			"j'": "étiquerai",
+			"tu": "étiqueras",
+			"il/elle": "étiquera",
+			"nous": "étiquerons",
+			"vous": "étiquerez",
+			"ils/elles": "étiqueront"
+		},
+		"passé simple": {
+			"j'": "étiquai",
+			"tu": "étiquas",
+			"il/elle": "étiqua",
+			"nous": "étiquâmes",
+			"vous": "étiquâtes",
+			"ils/elles": "étiquèrent"
+		},
+		"passé composé": {
+			"j'": "ai étiqué",
+			"tu": "as étiqué",
+			"il/elle": "a étiqué",
+			"nous": "avons étiqué",
+			"vous": "avez étiqué",
+			"ils/elles": "ont étiqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais étiqué",
+			"tu": "avais étiqué",
+			"il/elle": "avait étiqué",
+			"nous": "avions étiqué",
+			"vous": "aviez étiqué",
+			"ils/elles": "avaient étiqué"
+		},
+		"passé antérieur": {
+			"j'": "eus étiqué",
+			"tu": "eus étiqué",
+			"il/elle": "eut étiqué",
+			"nous": "eûmes étiqué",
+			"vous": "eûtes étiqué",
+			"ils/elles": "eurent étiqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai étiqué",
+			"tu": "auras étiqué",
+			"il/elle": "aura étiqué",
+			"nous": "aurons étiqué",
+			"vous": "aurez étiqué",
+			"ils/elles": "auront étiqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "étique",
+			"que": "vous étiquiez",
+			"qu'il/elle": "étique",
+			"qu'ils/elles": "étiquent"
+		},
+		"imparfait": {
+			"j'": "étiquasse",
+			"que": "vous étiquassiez",
+			"qu'il/elle": "étiquât",
+			"qu'ils/elles": "étiquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse étiqué",
+			"que": "vous eussiez étiqué",
+			"qu'il/elle": "eût étiqué",
+			"qu'ils/elles": "eussent étiqué"
+		},
+		"passé": {
+			"j'": "aie étiqué",
+			"que": "vous ayez étiqué",
+			"qu'il/elle": "ait étiqué",
+			"qu'ils/elles": "aient étiqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "étiquerais",
+			"tu": "étiquerais",
+			"il/elle": "étiquerait",
+			"nous": "étiquerions",
+			"vous": "étiqueriez",
+			"ils/elles": "étiqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais étiqué",
+			"tu": "aurais étiqué",
+			"il/elle": "aurait étiqué",
+			"nous": "aurions étiqué",
+			"vous": "auriez étiqué",
+			"ils/elles": "auraient étiqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse étiqué",
+			"tu": "eusses étiqué",
+			"il/elle": "eût étiqué",
+			"nous": "eussions étiqué",
+			"vous": "eussiez étiqué",
+			"ils/elles": "eussent étiqué"
+		}
+	},
+	"participe": {
+		"présent": { "étiquant": "" },
+		"passé composé": { "ayant": "étiqué" },
+		"passé": {
+			"masc.sg.:": "étiqué",
+			"masc.pl.:": "étiqués",
+			"fém.sg.:": "étiquée",
+			"fém.pl.:": "étiquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "étique": "", "étiquons": "", "étiquez": "" },
+		"passé": { "aie": "étiqué", "ayons": "étiqué", "ayez": "étiqué" }
+	},
+	"infinitif": { "présent": { "étiquer": "" }, "passé": { "avoir": "étiqué" } }
+}

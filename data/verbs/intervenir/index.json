@@ -1,0 +1,161 @@
+{
+	"name": "tenir",
+	"definition": "intervene; respond; ...",
+	"model": "tenir",
+	"auxiliary": "être",
+	"otherForms": "ne pas intervenir",
+	"indicatif": {
+		"présent": {
+			"j'": "interviens",
+			"tu": "interviens",
+			"il/elle": "intervient",
+			"nous": "intervenons",
+			"vous": "intervenez",
+			"ils/elles": "interviennent"
+		},
+		"imparfait": {
+			"j'": "intervenais",
+			"tu": "intervenais",
+			"il/elle": "intervenait",
+			"nous": "intervenions",
+			"vous": "interveniez",
+			"ils/elles": "intervenaient"
+		},
+		"futur": {
+			"j'": "interviendrai",
+			"tu": "interviendras",
+			"il/elle": "interviendra",
+			"nous": "interviendrons",
+			"vous": "interviendrez",
+			"ils/elles": "interviendront"
+		},
+		"passé simple": {
+			"j'": "intervins",
+			"tu": "intervins",
+			"il/elle": "intervint",
+			"nous": "intervînmes",
+			"vous": "intervîntes",
+			"ils/elles": "intervinrent"
+		},
+		"passé composé": {
+			"je": "suis intervenu",
+			"tu": "es intervenu",
+			"il": "est intervenu",
+			"elle": "est intervenue",
+			"nous": "sommes intervenus",
+			"vous": "êtes intervenus",
+			"ils": "sont intervenus",
+			"elles": "sont intervenues"
+		},
+		"plus-que-parfait": {
+			"j'": "étais intervenu",
+			"tu": "étais intervenu",
+			"il": "était intervenu",
+			"elle": "était intervenue",
+			"nous": "étions intervenus",
+			"vous": "étiez intervenus",
+			"ils": "étaient intervenus",
+			"elles": "étaient intervenues"
+		},
+		"passé antérieur": {
+			"je": "fus intervenu",
+			"tu": "fus intervenu",
+			"il": "fut intervenu",
+			"elle": "fut intervenue",
+			"nous": "fûmes intervenus",
+			"vous": "fûtes intervenus",
+			"ils": "furent intervenus",
+			"elles": "furent intervenues"
+		},
+		"futur antérieur": {
+			"je": "serai intervenu",
+			"tu": "seras intervenu",
+			"il": "sera intervenu",
+			"elle": "sera intervenue",
+			"nous": "serons intervenus",
+			"vous": "serez intervenus",
+			"ils": "seront intervenus",
+			"elles": "seront intervenues"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "intervienne",
+			"que": "vous interveniez",
+			"qu'il/elle": "intervienne",
+			"qu'ils/elles": "interviennent"
+		},
+		"imparfait": {
+			"j'": "intervinsse",
+			"que": "vous intervinssiez",
+			"qu'il/elle": "intervînt",
+			"qu'ils/elles": "intervinssent"
+		},
+		"plus-que-parfait": {
+			"que": "vous fussiez intervenus",
+			"qu'il": "fût intervenu",
+			"qu'elle": "fût intervenue",
+			"qu'ils": "fussent intervenus",
+			"qu'elles": "fussent intervenues"
+		},
+		"passé": {
+			"que": "vous soyez intervenus",
+			"qu'il": "soit intervenu",
+			"qu'elle": "soit intervenue",
+			"qu'ils": "soient intervenus",
+			"qu'elles": "soient intervenues"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "interviendrais",
+			"tu": "interviendrais",
+			"il/elle": "interviendrait",
+			"nous": "interviendrions",
+			"vous": "interviendriez",
+			"ils/elles": "interviendraient"
+		},
+		"passé première forme": {
+			"je": "serais intervenu",
+			"tu": "serais intervenu",
+			"il": "serait intervenu",
+			"elle": "serait intervenue",
+			"nous": "serions intervenus",
+			"vous": "seriez intervenus",
+			"ils": "seraient intervenus",
+			"elles": "seraient intervenues"
+		},
+		"passé deuxième forme": {
+			"je": "fusse intervenu",
+			"tu": "fusses intervenu",
+			"il": "fût intervenu",
+			"elle": "fût intervenue",
+			"nous": "fussions intervenus",
+			"vous": "fussiez intervenus",
+			"ils": "fussent intervenus",
+			"elles": "fussent intervenues"
+		}
+	},
+	"participe": {
+		"présent": { "intervenant": "" },
+		"passé composé": { "étant": "intervenue" },
+		"passé": {
+			"masc.sg.:": "intervenu",
+			"masc.pl.:": "intervenus",
+			"fém.sg.:": "intervenue",
+			"fém.pl.:": "intervenues"
+		}
+	},
+	"imperatif": {
+		"présent": { "interviens": "", "intervenons": "", "intervenez": "" },
+		"passé": {
+			"sois": "intervenu",
+			"soyons": "intervenu",
+			"soyez": "intervenu"
+		}
+	},
+	"infinitif": {
+		"présent": { "intervenir": "" },
+		"passé": { "être": "intervenu" }
+	}
+}

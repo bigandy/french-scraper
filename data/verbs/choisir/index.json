@@ -1,0 +1,138 @@
+{
+	"name": "finir",
+	"definition": "choose; select; pick; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se choisir/ne pas choisir/ne pas se choisir",
+	"indicatif": {
+		"présent": {
+			"je": "choisis",
+			"tu": "choisis",
+			"il/elle": "choisit",
+			"nous": "choisissons",
+			"vous": "choisissez",
+			"ils/elles": "choisissent"
+		},
+		"imparfait": {
+			"je": "choisissais",
+			"tu": "choisissais",
+			"il/elle": "choisissait",
+			"nous": "choisissions",
+			"vous": "choisissiez",
+			"ils/elles": "choisissaient"
+		},
+		"futur": {
+			"je": "choisirai",
+			"tu": "choisiras",
+			"il/elle": "choisira",
+			"nous": "choisirons",
+			"vous": "choisirez",
+			"ils/elles": "choisiront"
+		},
+		"passé simple": {
+			"je": "choisis",
+			"tu": "choisis",
+			"il/elle": "choisit",
+			"nous": "choisîmes",
+			"vous": "choisîtes",
+			"ils/elles": "choisirent"
+		},
+		"passé composé": {
+			"j'": "ai choisi",
+			"tu": "as choisi",
+			"il/elle": "a choisi",
+			"nous": "avons choisi",
+			"vous": "avez choisi",
+			"ils/elles": "ont choisi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais choisi",
+			"tu": "avais choisi",
+			"il/elle": "avait choisi",
+			"nous": "avions choisi",
+			"vous": "aviez choisi",
+			"ils/elles": "avaient choisi"
+		},
+		"passé antérieur": {
+			"j'": "eus choisi",
+			"tu": "eus choisi",
+			"il/elle": "eut choisi",
+			"nous": "eûmes choisi",
+			"vous": "eûtes choisi",
+			"ils/elles": "eurent choisi"
+		},
+		"futur antérieur": {
+			"j'": "aurai choisi",
+			"tu": "auras choisi",
+			"il/elle": "aura choisi",
+			"nous": "aurons choisi",
+			"vous": "aurez choisi",
+			"ils/elles": "auront choisi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous choisissiez",
+			"qu'il/elle": "choisisse",
+			"qu'ils/elles": "choisissent"
+		},
+		"imparfait": {
+			"que": "vous choisissiez",
+			"qu'il/elle": "choisît",
+			"qu'ils/elles": "choisissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse choisi",
+			"que": "vous eussiez choisi",
+			"qu'il/elle": "eût choisi",
+			"qu'ils/elles": "eussent choisi"
+		},
+		"passé": {
+			"j'": "aie choisi",
+			"que": "vous ayez choisi",
+			"qu'il/elle": "ait choisi",
+			"qu'ils/elles": "aient choisi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "choisirais",
+			"tu": "choisirais",
+			"il/elle": "choisirait",
+			"nous": "choisirions",
+			"vous": "choisiriez",
+			"ils/elles": "choisiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais choisi",
+			"tu": "aurais choisi",
+			"il/elle": "aurait choisi",
+			"nous": "aurions choisi",
+			"vous": "auriez choisi",
+			"ils/elles": "auraient choisi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse choisi",
+			"tu": "eusses choisi",
+			"il/elle": "eût choisi",
+			"nous": "eussions choisi",
+			"vous": "eussiez choisi",
+			"ils/elles": "eussent choisi"
+		}
+	},
+	"participe": {
+		"présent": { "choisissant": "" },
+		"passé composé": { "ayant": "choisi" },
+		"passé": {
+			"masc.sg.:": "choisi",
+			"masc.pl.:": "choisis",
+			"fém.sg.:": "choisie",
+			"fém.pl.:": "choisies"
+		}
+	},
+	"imperatif": {
+		"présent": { "choisis": "", "choisissons": "", "choisissez": "" },
+		"passé": { "aie": "choisi", "ayons": "choisi", "ayez": "choisi" }
+	},
+	"infinitif": { "présent": { "choisir": "" }, "passé": { "avoir": "choisi" } }
+}

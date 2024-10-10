@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "generate; create; raise; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se susciter/ne pas susciter/ne pas se susciter",
+	"indicatif": {
+		"présent": {
+			"je": "suscite",
+			"tu": "suscites",
+			"il/elle": "suscite",
+			"nous": "suscitons",
+			"vous": "suscitez",
+			"ils/elles": "suscitent"
+		},
+		"imparfait": {
+			"je": "suscitais",
+			"tu": "suscitais",
+			"il/elle": "suscitait",
+			"nous": "suscitions",
+			"vous": "suscitiez",
+			"ils/elles": "suscitaient"
+		},
+		"futur": {
+			"je": "susciterai",
+			"tu": "susciteras",
+			"il/elle": "suscitera",
+			"nous": "susciterons",
+			"vous": "susciterez",
+			"ils/elles": "susciteront"
+		},
+		"passé simple": {
+			"je": "suscitai",
+			"tu": "suscitas",
+			"il/elle": "suscita",
+			"nous": "suscitâmes",
+			"vous": "suscitâtes",
+			"ils/elles": "suscitèrent"
+		},
+		"passé composé": {
+			"j'": "ai suscité",
+			"tu": "as suscité",
+			"il/elle": "a suscité",
+			"nous": "avons suscité",
+			"vous": "avez suscité",
+			"ils/elles": "ont suscité"
+		},
+		"plus-que-parfait": {
+			"j'": "avais suscité",
+			"tu": "avais suscité",
+			"il/elle": "avait suscité",
+			"nous": "avions suscité",
+			"vous": "aviez suscité",
+			"ils/elles": "avaient suscité"
+		},
+		"passé antérieur": {
+			"j'": "eus suscité",
+			"tu": "eus suscité",
+			"il/elle": "eut suscité",
+			"nous": "eûmes suscité",
+			"vous": "eûtes suscité",
+			"ils/elles": "eurent suscité"
+		},
+		"futur antérieur": {
+			"j'": "aurai suscité",
+			"tu": "auras suscité",
+			"il/elle": "aura suscité",
+			"nous": "aurons suscité",
+			"vous": "aurez suscité",
+			"ils/elles": "auront suscité"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous suscitiez",
+			"qu'il/elle": "suscite",
+			"qu'ils/elles": "suscitent"
+		},
+		"imparfait": {
+			"que": "vous suscitassiez",
+			"qu'il/elle": "suscitât",
+			"qu'ils/elles": "suscitassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse suscité",
+			"que": "vous eussiez suscité",
+			"qu'il/elle": "eût suscité",
+			"qu'ils/elles": "eussent suscité"
+		},
+		"passé": {
+			"j'": "aie suscité",
+			"que": "vous ayez suscité",
+			"qu'il/elle": "ait suscité",
+			"qu'ils/elles": "aient suscité"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "susciterais",
+			"tu": "susciterais",
+			"il/elle": "susciterait",
+			"nous": "susciterions",
+			"vous": "susciteriez",
+			"ils/elles": "susciteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais suscité",
+			"tu": "aurais suscité",
+			"il/elle": "aurait suscité",
+			"nous": "aurions suscité",
+			"vous": "auriez suscité",
+			"ils/elles": "auraient suscité"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse suscité",
+			"tu": "eusses suscité",
+			"il/elle": "eût suscité",
+			"nous": "eussions suscité",
+			"vous": "eussiez suscité",
+			"ils/elles": "eussent suscité"
+		}
+	},
+	"participe": {
+		"présent": { "suscitant": "" },
+		"passé composé": { "ayant": "suscité" },
+		"passé": {
+			"masc.sg.:": "suscité",
+			"masc.pl.:": "suscités",
+			"fém.sg.:": "suscitée",
+			"fém.pl.:": "suscitées"
+		}
+	},
+	"imperatif": {
+		"présent": { "suscite": "", "suscitons": "", "suscitez": "" },
+		"passé": { "aie": "suscité", "ayons": "suscité", "ayez": "suscité" }
+	},
+	"infinitif": {
+		"présent": { "susciter": "" },
+		"passé": { "avoir": "suscité" }
+	}
+}

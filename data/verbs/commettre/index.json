@@ -1,0 +1,141 @@
+{
+	"name": "mettre",
+	"definition": "commit; make; carry out; ...",
+	"model": "mettre",
+	"auxiliary": "avoir",
+	"otherForms": "se commettre/ne pas commettre/ne pas se commettre",
+	"indicatif": {
+		"présent": {
+			"je": "commets",
+			"tu": "commets",
+			"il/elle": "commet",
+			"nous": "commettons",
+			"vous": "commettez",
+			"ils/elles": "commettent"
+		},
+		"imparfait": {
+			"je": "commettais",
+			"tu": "commettais",
+			"il/elle": "commettait",
+			"nous": "commettions",
+			"vous": "commettiez",
+			"ils/elles": "commettaient"
+		},
+		"futur": {
+			"je": "commettrai",
+			"tu": "commettras",
+			"il/elle": "commettra",
+			"nous": "commettrons",
+			"vous": "commettrez",
+			"ils/elles": "commettront"
+		},
+		"passé simple": {
+			"je": "commis",
+			"tu": "commis",
+			"il/elle": "commit",
+			"nous": "commîmes",
+			"vous": "commîtes",
+			"ils/elles": "commirent"
+		},
+		"passé composé": {
+			"j'": "ai commis",
+			"tu": "as commis",
+			"il/elle": "a commis",
+			"nous": "avons commis",
+			"vous": "avez commis",
+			"ils/elles": "ont commis"
+		},
+		"plus-que-parfait": {
+			"j'": "avais commis",
+			"tu": "avais commis",
+			"il/elle": "avait commis",
+			"nous": "avions commis",
+			"vous": "aviez commis",
+			"ils/elles": "avaient commis"
+		},
+		"passé antérieur": {
+			"j'": "eus commis",
+			"tu": "eus commis",
+			"il/elle": "eut commis",
+			"nous": "eûmes commis",
+			"vous": "eûtes commis",
+			"ils/elles": "eurent commis"
+		},
+		"futur antérieur": {
+			"j'": "aurai commis",
+			"tu": "auras commis",
+			"il/elle": "aura commis",
+			"nous": "aurons commis",
+			"vous": "aurez commis",
+			"ils/elles": "auront commis"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous commettiez",
+			"qu'il/elle": "commette",
+			"qu'ils/elles": "commettent"
+		},
+		"imparfait": {
+			"que": "vous commissiez",
+			"qu'il/elle": "commît",
+			"qu'ils/elles": "commissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse commis",
+			"que": "vous eussiez commis",
+			"qu'il/elle": "eût commis",
+			"qu'ils/elles": "eussent commis"
+		},
+		"passé": {
+			"j'": "aie commis",
+			"que": "vous ayez commis",
+			"qu'il/elle": "ait commis",
+			"qu'ils/elles": "aient commis"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "commettrais",
+			"tu": "commettrais",
+			"il/elle": "commettrait",
+			"nous": "commettrions",
+			"vous": "commettriez",
+			"ils/elles": "commettraient"
+		},
+		"passé première forme": {
+			"j'": "aurais commis",
+			"tu": "aurais commis",
+			"il/elle": "aurait commis",
+			"nous": "aurions commis",
+			"vous": "auriez commis",
+			"ils/elles": "auraient commis"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse commis",
+			"tu": "eusses commis",
+			"il/elle": "eût commis",
+			"nous": "eussions commis",
+			"vous": "eussiez commis",
+			"ils/elles": "eussent commis"
+		}
+	},
+	"participe": {
+		"présent": { "commettant": "" },
+		"passé composé": { "ayant": "commis" },
+		"passé": {
+			"masc.sg.:": "commis",
+			"masc.pl.:": "commis",
+			"fém.sg.:": "commise",
+			"fém.pl.:": "commises"
+		}
+	},
+	"imperatif": {
+		"présent": { "commets": "", "commettons": "", "commettez": "" },
+		"passé": { "aie": "commis", "ayons": "commis", "ayez": "commis" }
+	},
+	"infinitif": {
+		"présent": { "commettre": "" },
+		"passé": { "avoir": "commis" }
+	}
+}

@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "perform; carry out; make; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'effectuer/ne pas effectuer/ne pas s'effectuer",
+	"indicatif": {
+		"présent": {
+			"j'": "effectue",
+			"tu": "effectues",
+			"il/elle": "effectue",
+			"nous": "effectuons",
+			"vous": "effectuez",
+			"ils/elles": "effectuent"
+		},
+		"imparfait": {
+			"j'": "effectuais",
+			"tu": "effectuais",
+			"il/elle": "effectuait",
+			"nous": "effectuions",
+			"vous": "effectuiez",
+			"ils/elles": "effectuaient"
+		},
+		"futur": {
+			"j'": "effectuerai",
+			"tu": "effectueras",
+			"il/elle": "effectuera",
+			"nous": "effectuerons",
+			"vous": "effectuerez",
+			"ils/elles": "effectueront"
+		},
+		"passé simple": {
+			"j'": "effectuai",
+			"tu": "effectuas",
+			"il/elle": "effectua",
+			"nous": "effectuâmes",
+			"vous": "effectuâtes",
+			"ils/elles": "effectuèrent"
+		},
+		"passé composé": {
+			"j'": "ai effectué",
+			"tu": "as effectué",
+			"il/elle": "a effectué",
+			"nous": "avons effectué",
+			"vous": "avez effectué",
+			"ils/elles": "ont effectué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais effectué",
+			"tu": "avais effectué",
+			"il/elle": "avait effectué",
+			"nous": "avions effectué",
+			"vous": "aviez effectué",
+			"ils/elles": "avaient effectué"
+		},
+		"passé antérieur": {
+			"j'": "eus effectué",
+			"tu": "eus effectué",
+			"il/elle": "eut effectué",
+			"nous": "eûmes effectué",
+			"vous": "eûtes effectué",
+			"ils/elles": "eurent effectué"
+		},
+		"futur antérieur": {
+			"j'": "aurai effectué",
+			"tu": "auras effectué",
+			"il/elle": "aura effectué",
+			"nous": "aurons effectué",
+			"vous": "aurez effectué",
+			"ils/elles": "auront effectué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "effectue",
+			"que": "vous effectuiez",
+			"qu'il/elle": "effectue",
+			"qu'ils/elles": "effectuent"
+		},
+		"imparfait": {
+			"j'": "effectuasse",
+			"que": "vous effectuassiez",
+			"qu'il/elle": "effectuât",
+			"qu'ils/elles": "effectuassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse effectué",
+			"que": "vous eussiez effectué",
+			"qu'il/elle": "eût effectué",
+			"qu'ils/elles": "eussent effectué"
+		},
+		"passé": {
+			"j'": "aie effectué",
+			"que": "vous ayez effectué",
+			"qu'il/elle": "ait effectué",
+			"qu'ils/elles": "aient effectué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "effectuerais",
+			"tu": "effectuerais",
+			"il/elle": "effectuerait",
+			"nous": "effectuerions",
+			"vous": "effectueriez",
+			"ils/elles": "effectueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais effectué",
+			"tu": "aurais effectué",
+			"il/elle": "aurait effectué",
+			"nous": "aurions effectué",
+			"vous": "auriez effectué",
+			"ils/elles": "auraient effectué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse effectué",
+			"tu": "eusses effectué",
+			"il/elle": "eût effectué",
+			"nous": "eussions effectué",
+			"vous": "eussiez effectué",
+			"ils/elles": "eussent effectué"
+		}
+	},
+	"participe": {
+		"présent": { "effectuant": "" },
+		"passé composé": { "ayant": "effectué" },
+		"passé": {
+			"masc.sg.:": "effectué",
+			"masc.pl.:": "effectués",
+			"fém.sg.:": "effectuée",
+			"fém.pl.:": "effectuées"
+		}
+	},
+	"imperatif": {
+		"présent": { "effectue": "", "effectuons": "", "effectuez": "" },
+		"passé": { "aie": "effectué", "ayons": "effectué", "ayez": "effectué" }
+	},
+	"infinitif": {
+		"présent": { "effectuer": "" },
+		"passé": { "avoir": "effectué" }
+	}
+}

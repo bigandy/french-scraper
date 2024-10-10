@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "switch; tilt; toggle; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se basculer/ne pas basculer/ne pas se basculer",
+	"indicatif": {
+		"présent": {
+			"je": "bascule",
+			"tu": "bascules",
+			"il/elle": "bascule",
+			"nous": "basculons",
+			"vous": "basculez",
+			"ils/elles": "basculent"
+		},
+		"imparfait": {
+			"je": "basculais",
+			"tu": "basculais",
+			"il/elle": "basculait",
+			"nous": "basculions",
+			"vous": "basculiez",
+			"ils/elles": "basculaient"
+		},
+		"futur": {
+			"je": "basculerai",
+			"tu": "basculeras",
+			"il/elle": "basculera",
+			"nous": "basculerons",
+			"vous": "basculerez",
+			"ils/elles": "basculeront"
+		},
+		"passé simple": {
+			"je": "basculai",
+			"tu": "basculas",
+			"il/elle": "bascula",
+			"nous": "basculâmes",
+			"vous": "basculâtes",
+			"ils/elles": "basculèrent"
+		},
+		"passé composé": {
+			"j'": "ai basculé",
+			"tu": "as basculé",
+			"il/elle": "a basculé",
+			"nous": "avons basculé",
+			"vous": "avez basculé",
+			"ils/elles": "ont basculé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais basculé",
+			"tu": "avais basculé",
+			"il/elle": "avait basculé",
+			"nous": "avions basculé",
+			"vous": "aviez basculé",
+			"ils/elles": "avaient basculé"
+		},
+		"passé antérieur": {
+			"j'": "eus basculé",
+			"tu": "eus basculé",
+			"il/elle": "eut basculé",
+			"nous": "eûmes basculé",
+			"vous": "eûtes basculé",
+			"ils/elles": "eurent basculé"
+		},
+		"futur antérieur": {
+			"j'": "aurai basculé",
+			"tu": "auras basculé",
+			"il/elle": "aura basculé",
+			"nous": "aurons basculé",
+			"vous": "aurez basculé",
+			"ils/elles": "auront basculé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous basculiez",
+			"qu'il/elle": "bascule",
+			"qu'ils/elles": "basculent"
+		},
+		"imparfait": {
+			"que": "vous basculassiez",
+			"qu'il/elle": "basculât",
+			"qu'ils/elles": "basculassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse basculé",
+			"que": "vous eussiez basculé",
+			"qu'il/elle": "eût basculé",
+			"qu'ils/elles": "eussent basculé"
+		},
+		"passé": {
+			"j'": "aie basculé",
+			"que": "vous ayez basculé",
+			"qu'il/elle": "ait basculé",
+			"qu'ils/elles": "aient basculé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "basculerais",
+			"tu": "basculerais",
+			"il/elle": "basculerait",
+			"nous": "basculerions",
+			"vous": "basculeriez",
+			"ils/elles": "basculeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais basculé",
+			"tu": "aurais basculé",
+			"il/elle": "aurait basculé",
+			"nous": "aurions basculé",
+			"vous": "auriez basculé",
+			"ils/elles": "auraient basculé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse basculé",
+			"tu": "eusses basculé",
+			"il/elle": "eût basculé",
+			"nous": "eussions basculé",
+			"vous": "eussiez basculé",
+			"ils/elles": "eussent basculé"
+		}
+	},
+	"participe": {
+		"présent": { "basculant": "" },
+		"passé composé": { "ayant": "basculé" },
+		"passé": {
+			"masc.sg.:": "basculé",
+			"masc.pl.:": "basculés",
+			"fém.sg.:": "basculée",
+			"fém.pl.:": "basculées"
+		}
+	},
+	"imperatif": {
+		"présent": { "bascule": "", "basculons": "", "basculez": "" },
+		"passé": { "aie": "basculé", "ayons": "basculé", "ayez": "basculé" }
+	},
+	"infinitif": {
+		"présent": { "basculer": "" },
+		"passé": { "avoir": "basculé" }
+	}
+}

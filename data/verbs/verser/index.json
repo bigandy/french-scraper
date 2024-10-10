@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "pay; pour; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se verser/ne pas verser/ne pas se verser",
+	"indicatif": {
+		"présent": {
+			"je": "verse",
+			"tu": "verses",
+			"il/elle": "verse",
+			"nous": "versons",
+			"vous": "versez",
+			"ils/elles": "versent"
+		},
+		"imparfait": {
+			"je": "versais",
+			"tu": "versais",
+			"il/elle": "versait",
+			"nous": "versions",
+			"vous": "versiez",
+			"ils/elles": "versaient"
+		},
+		"futur": {
+			"je": "verserai",
+			"tu": "verseras",
+			"il/elle": "versera",
+			"nous": "verserons",
+			"vous": "verserez",
+			"ils/elles": "verseront"
+		},
+		"passé simple": {
+			"je": "versai",
+			"tu": "versas",
+			"il/elle": "versa",
+			"nous": "versâmes",
+			"vous": "versâtes",
+			"ils/elles": "versèrent"
+		},
+		"passé composé": {
+			"j'": "ai versé",
+			"tu": "as versé",
+			"il/elle": "a versé",
+			"nous": "avons versé",
+			"vous": "avez versé",
+			"ils/elles": "ont versé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais versé",
+			"tu": "avais versé",
+			"il/elle": "avait versé",
+			"nous": "avions versé",
+			"vous": "aviez versé",
+			"ils/elles": "avaient versé"
+		},
+		"passé antérieur": {
+			"j'": "eus versé",
+			"tu": "eus versé",
+			"il/elle": "eut versé",
+			"nous": "eûmes versé",
+			"vous": "eûtes versé",
+			"ils/elles": "eurent versé"
+		},
+		"futur antérieur": {
+			"j'": "aurai versé",
+			"tu": "auras versé",
+			"il/elle": "aura versé",
+			"nous": "aurons versé",
+			"vous": "aurez versé",
+			"ils/elles": "auront versé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous versiez",
+			"qu'il/elle": "verse",
+			"qu'ils/elles": "versent"
+		},
+		"imparfait": {
+			"que": "vous versassiez",
+			"qu'il/elle": "versât",
+			"qu'ils/elles": "versassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse versé",
+			"que": "vous eussiez versé",
+			"qu'il/elle": "eût versé",
+			"qu'ils/elles": "eussent versé"
+		},
+		"passé": {
+			"j'": "aie versé",
+			"que": "vous ayez versé",
+			"qu'il/elle": "ait versé",
+			"qu'ils/elles": "aient versé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "verserais",
+			"tu": "verserais",
+			"il/elle": "verserait",
+			"nous": "verserions",
+			"vous": "verseriez",
+			"ils/elles": "verseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais versé",
+			"tu": "aurais versé",
+			"il/elle": "aurait versé",
+			"nous": "aurions versé",
+			"vous": "auriez versé",
+			"ils/elles": "auraient versé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse versé",
+			"tu": "eusses versé",
+			"il/elle": "eût versé",
+			"nous": "eussions versé",
+			"vous": "eussiez versé",
+			"ils/elles": "eussent versé"
+		}
+	},
+	"participe": {
+		"présent": { "versant": "" },
+		"passé composé": { "ayant": "versé" },
+		"passé": {
+			"masc.sg.:": "versé",
+			"masc.pl.:": "versés",
+			"fém.sg.:": "versée",
+			"fém.pl.:": "versées"
+		}
+	},
+	"imperatif": {
+		"présent": { "verse": "", "versons": "", "versez": "" },
+		"passé": { "aie": "versé", "ayons": "versé", "ayez": "versé" }
+	},
+	"infinitif": { "présent": { "verser": "" }, "passé": { "avoir": "versé" } }
+}

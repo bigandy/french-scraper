@@ -1,0 +1,141 @@
+{
+	"name": "connaître",
+	"definition": "know; understand; meet; ...",
+	"model": "connaître",
+	"auxiliary": "avoir",
+	"otherForms": "se connaître/ne pas connaître/ne pas se connaître",
+	"indicatif": {
+		"présent": {
+			"je": "connais",
+			"tu": "connais",
+			"il/elle": "connait",
+			"nous": "connaissons",
+			"vous": "connaissez",
+			"ils/elles": "connaissent",
+			"": ""
+		},
+		"imparfait": {
+			"je": "connaissais",
+			"tu": "connaissais",
+			"il/elle": "connaissait",
+			"nous": "connaissions",
+			"vous": "connaissiez",
+			"ils/elles": "connaissaient"
+		},
+		"futur": {
+			"je": "connaîtrai",
+			"tu": "connaîtras",
+			"il/elle": "connaitra",
+			"nous": "connaitrons",
+			"vous": "connaitrez",
+			"ils/elles": "connaitront",
+			"": ""
+		},
+		"passé simple": {
+			"je": "connus",
+			"tu": "connus",
+			"il/elle": "connut",
+			"nous": "connûmes",
+			"vous": "connûtes",
+			"ils/elles": "connurent"
+		},
+		"passé composé": {
+			"j'": "ai connu",
+			"tu": "as connu",
+			"il/elle": "a connu",
+			"nous": "avons connu",
+			"vous": "avez connu",
+			"ils/elles": "ont connu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais connu",
+			"tu": "avais connu",
+			"il/elle": "avait connu",
+			"nous": "avions connu",
+			"vous": "aviez connu",
+			"ils/elles": "avaient connu"
+		},
+		"passé antérieur": {
+			"j'": "eus connu",
+			"tu": "eus connu",
+			"il/elle": "eut connu",
+			"nous": "eûmes connu",
+			"vous": "eûtes connu",
+			"ils/elles": "eurent connu"
+		},
+		"futur antérieur": {
+			"j'": "aurai connu",
+			"tu": "auras connu",
+			"il/elle": "aura connu",
+			"nous": "aurons connu",
+			"vous": "aurez connu",
+			"ils/elles": "auront connu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous connaissiez",
+			"qu'il/elle": "connaisse",
+			"qu'ils/elles": "connaissent"
+		},
+		"imparfait": {
+			"que": "vous connussiez",
+			"qu'il/elle": "connût",
+			"qu'ils/elles": "connussent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse connu",
+			"que": "vous eussiez connu",
+			"qu'il/elle": "eût connu",
+			"qu'ils/elles": "eussent connu"
+		},
+		"passé": {
+			"j'": "aie connu",
+			"que": "vous ayez connu",
+			"qu'il/elle": "ait connu",
+			"qu'ils/elles": "aient connu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "connaitrais",
+			"tu": "connaitrais",
+			"il/elle": "connaitrait",
+			"nous": "connaitrions",
+			"vous": "connaitriez",
+			"ils/elles": "connaitraient",
+			"": ""
+		},
+		"passé première forme": {
+			"j'": "aurais connu",
+			"tu": "aurais connu",
+			"il/elle": "aurait connu",
+			"nous": "aurions connu",
+			"vous": "auriez connu",
+			"ils/elles": "auraient connu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse connu",
+			"tu": "eusses connu",
+			"il/elle": "eût connu",
+			"nous": "eussions connu",
+			"vous": "eussiez connu",
+			"ils/elles": "eussent connu"
+		}
+	},
+	"participe": {
+		"présent": { "connaissant": "" },
+		"passé composé": { "ayant": "connu" },
+		"passé": {
+			"masc.sg.:": "connu",
+			"masc.pl.:": "connus",
+			"fém.sg.:": "connue",
+			"fém.pl.:": "connues"
+		}
+	},
+	"imperatif": {
+		"présent": { "connais": "", "connaissons": "", "connaissez": "" },
+		"passé": { "aie": "connu", "ayons": "connu", "ayez": "connu" }
+	},
+	"infinitif": { "présent": { "connaître": "" }, "passé": { "avoir": "connu" } }
+}

@@ -1,0 +1,138 @@
+{
+	"name": "manger",
+	"definition": "leave; save; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "se ménager/ne pas ménager/ne pas se ménager",
+	"indicatif": {
+		"présent": {
+			"je": "ménage",
+			"tu": "ménages",
+			"il/elle": "ménage",
+			"nous": "ménageons",
+			"vous": "ménagez",
+			"ils/elles": "ménagent"
+		},
+		"imparfait": {
+			"je": "ménageais",
+			"tu": "ménageais",
+			"il/elle": "ménageait",
+			"nous": "ménagions",
+			"vous": "ménagiez",
+			"ils/elles": "ménageaient"
+		},
+		"futur": {
+			"je": "ménagerai",
+			"tu": "ménageras",
+			"il/elle": "ménagera",
+			"nous": "ménagerons",
+			"vous": "ménagerez",
+			"ils/elles": "ménageront"
+		},
+		"passé simple": {
+			"je": "ménageai",
+			"tu": "ménageas",
+			"il/elle": "ménagea",
+			"nous": "ménageâmes",
+			"vous": "ménageâtes",
+			"ils/elles": "ménagèrent"
+		},
+		"passé composé": {
+			"j'": "ai ménagé",
+			"tu": "as ménagé",
+			"il/elle": "a ménagé",
+			"nous": "avons ménagé",
+			"vous": "avez ménagé",
+			"ils/elles": "ont ménagé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais ménagé",
+			"tu": "avais ménagé",
+			"il/elle": "avait ménagé",
+			"nous": "avions ménagé",
+			"vous": "aviez ménagé",
+			"ils/elles": "avaient ménagé"
+		},
+		"passé antérieur": {
+			"j'": "eus ménagé",
+			"tu": "eus ménagé",
+			"il/elle": "eut ménagé",
+			"nous": "eûmes ménagé",
+			"vous": "eûtes ménagé",
+			"ils/elles": "eurent ménagé"
+		},
+		"futur antérieur": {
+			"j'": "aurai ménagé",
+			"tu": "auras ménagé",
+			"il/elle": "aura ménagé",
+			"nous": "aurons ménagé",
+			"vous": "aurez ménagé",
+			"ils/elles": "auront ménagé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous ménagiez",
+			"qu'il/elle": "ménage",
+			"qu'ils/elles": "ménagent"
+		},
+		"imparfait": {
+			"que": "vous ménageassiez",
+			"qu'il/elle": "ménageât",
+			"qu'ils/elles": "ménageassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse ménagé",
+			"que": "vous eussiez ménagé",
+			"qu'il/elle": "eût ménagé",
+			"qu'ils/elles": "eussent ménagé"
+		},
+		"passé": {
+			"j'": "aie ménagé",
+			"que": "vous ayez ménagé",
+			"qu'il/elle": "ait ménagé",
+			"qu'ils/elles": "aient ménagé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "ménagerais",
+			"tu": "ménagerais",
+			"il/elle": "ménagerait",
+			"nous": "ménagerions",
+			"vous": "ménageriez",
+			"ils/elles": "ménageraient"
+		},
+		"passé première forme": {
+			"j'": "aurais ménagé",
+			"tu": "aurais ménagé",
+			"il/elle": "aurait ménagé",
+			"nous": "aurions ménagé",
+			"vous": "auriez ménagé",
+			"ils/elles": "auraient ménagé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse ménagé",
+			"tu": "eusses ménagé",
+			"il/elle": "eût ménagé",
+			"nous": "eussions ménagé",
+			"vous": "eussiez ménagé",
+			"ils/elles": "eussent ménagé"
+		}
+	},
+	"participe": {
+		"présent": { "ménageant": "" },
+		"passé composé": { "ayant": "ménagé" },
+		"passé": {
+			"masc.sg.:": "ménagé",
+			"masc.pl.:": "ménagés",
+			"fém.sg.:": "ménagée",
+			"fém.pl.:": "ménagées"
+		}
+	},
+	"imperatif": {
+		"présent": { "ménage": "", "ménageons": "", "ménagez": "" },
+		"passé": { "aie": "ménagé", "ayons": "ménagé", "ayez": "ménagé" }
+	},
+	"infinitif": { "présent": { "ménager": "" }, "passé": { "avoir": "ménagé" } }
+}

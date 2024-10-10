@@ -1,0 +1,143 @@
+{
+	"name": "commencer",
+	"definition": "announce; tell; report; ...",
+	"model": "commencer",
+	"auxiliary": "avoir",
+	"otherForms": "s'annoncer/ne pas annoncer/ne pas s'annoncer",
+	"indicatif": {
+		"présent": {
+			"j'": "annonce",
+			"tu": "annonces",
+			"il/elle": "annonce",
+			"nous": "annonçons",
+			"vous": "annoncez",
+			"ils/elles": "annoncent"
+		},
+		"imparfait": {
+			"j'": "annonçais",
+			"tu": "annonçais",
+			"il/elle": "annonçait",
+			"nous": "annoncions",
+			"vous": "annonciez",
+			"ils/elles": "annonçaient"
+		},
+		"futur": {
+			"j'": "annoncerai",
+			"tu": "annonceras",
+			"il/elle": "annoncera",
+			"nous": "annoncerons",
+			"vous": "annoncerez",
+			"ils/elles": "annonceront"
+		},
+		"passé simple": {
+			"j'": "annonçai",
+			"tu": "annonças",
+			"il/elle": "annonça",
+			"nous": "annonçâmes",
+			"vous": "annonçâtes",
+			"ils/elles": "annoncèrent"
+		},
+		"passé composé": {
+			"j'": "ai annoncé",
+			"tu": "as annoncé",
+			"il/elle": "a annoncé",
+			"nous": "avons annoncé",
+			"vous": "avez annoncé",
+			"ils/elles": "ont annoncé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais annoncé",
+			"tu": "avais annoncé",
+			"il/elle": "avait annoncé",
+			"nous": "avions annoncé",
+			"vous": "aviez annoncé",
+			"ils/elles": "avaient annoncé"
+		},
+		"passé antérieur": {
+			"j'": "eus annoncé",
+			"tu": "eus annoncé",
+			"il/elle": "eut annoncé",
+			"nous": "eûmes annoncé",
+			"vous": "eûtes annoncé",
+			"ils/elles": "eurent annoncé"
+		},
+		"futur antérieur": {
+			"j'": "aurai annoncé",
+			"tu": "auras annoncé",
+			"il/elle": "aura annoncé",
+			"nous": "aurons annoncé",
+			"vous": "aurez annoncé",
+			"ils/elles": "auront annoncé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "annonce",
+			"que": "vous annonciez",
+			"qu'il/elle": "annonce",
+			"qu'ils/elles": "annoncent"
+		},
+		"imparfait": {
+			"j'": "annonçasse",
+			"que": "vous annonçassiez",
+			"qu'il/elle": "annonçât",
+			"qu'ils/elles": "annonçassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse annoncé",
+			"que": "vous eussiez annoncé",
+			"qu'il/elle": "eût annoncé",
+			"qu'ils/elles": "eussent annoncé"
+		},
+		"passé": {
+			"j'": "aie annoncé",
+			"que": "vous ayez annoncé",
+			"qu'il/elle": "ait annoncé",
+			"qu'ils/elles": "aient annoncé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "annoncerais",
+			"tu": "annoncerais",
+			"il/elle": "annoncerait",
+			"nous": "annoncerions",
+			"vous": "annonceriez",
+			"ils/elles": "annonceraient"
+		},
+		"passé première forme": {
+			"j'": "aurais annoncé",
+			"tu": "aurais annoncé",
+			"il/elle": "aurait annoncé",
+			"nous": "aurions annoncé",
+			"vous": "auriez annoncé",
+			"ils/elles": "auraient annoncé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse annoncé",
+			"tu": "eusses annoncé",
+			"il/elle": "eût annoncé",
+			"nous": "eussions annoncé",
+			"vous": "eussiez annoncé",
+			"ils/elles": "eussent annoncé"
+		}
+	},
+	"participe": {
+		"présent": { "annonçant": "" },
+		"passé composé": { "ayant": "annoncé" },
+		"passé": {
+			"masc.sg.:": "annoncé",
+			"masc.pl.:": "annoncés",
+			"fém.sg.:": "annoncée",
+			"fém.pl.:": "annoncées"
+		}
+	},
+	"imperatif": {
+		"présent": { "annonce": "", "annonçons": "", "annoncez": "" },
+		"passé": { "aie": "annoncé", "ayons": "annoncé", "ayez": "annoncé" }
+	},
+	"infinitif": {
+		"présent": { "annoncer": "" },
+		"passé": { "avoir": "annoncé" }
+	}
+}

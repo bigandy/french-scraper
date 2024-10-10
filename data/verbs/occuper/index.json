@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "occupy; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'occuper/ne pas occuper/ne pas s'occuper",
+	"indicatif": {
+		"présent": {
+			"j'": "occupe",
+			"tu": "occupes",
+			"il/elle": "occupe",
+			"nous": "occupons",
+			"vous": "occupez",
+			"ils/elles": "occupent"
+		},
+		"imparfait": {
+			"j'": "occupais",
+			"tu": "occupais",
+			"il/elle": "occupait",
+			"nous": "occupions",
+			"vous": "occupiez",
+			"ils/elles": "occupaient"
+		},
+		"futur": {
+			"j'": "occuperai",
+			"tu": "occuperas",
+			"il/elle": "occupera",
+			"nous": "occuperons",
+			"vous": "occuperez",
+			"ils/elles": "occuperont"
+		},
+		"passé simple": {
+			"j'": "occupai",
+			"tu": "occupas",
+			"il/elle": "occupa",
+			"nous": "occupâmes",
+			"vous": "occupâtes",
+			"ils/elles": "occupèrent"
+		},
+		"passé composé": {
+			"j'": "ai occupé",
+			"tu": "as occupé",
+			"il/elle": "a occupé",
+			"nous": "avons occupé",
+			"vous": "avez occupé",
+			"ils/elles": "ont occupé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais occupé",
+			"tu": "avais occupé",
+			"il/elle": "avait occupé",
+			"nous": "avions occupé",
+			"vous": "aviez occupé",
+			"ils/elles": "avaient occupé"
+		},
+		"passé antérieur": {
+			"j'": "eus occupé",
+			"tu": "eus occupé",
+			"il/elle": "eut occupé",
+			"nous": "eûmes occupé",
+			"vous": "eûtes occupé",
+			"ils/elles": "eurent occupé"
+		},
+		"futur antérieur": {
+			"j'": "aurai occupé",
+			"tu": "auras occupé",
+			"il/elle": "aura occupé",
+			"nous": "aurons occupé",
+			"vous": "aurez occupé",
+			"ils/elles": "auront occupé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "occupe",
+			"que": "vous occupiez",
+			"qu'il/elle": "occupe",
+			"qu'ils/elles": "occupent"
+		},
+		"imparfait": {
+			"j'": "occupasse",
+			"que": "vous occupassiez",
+			"qu'il/elle": "occupât",
+			"qu'ils/elles": "occupassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse occupé",
+			"que": "vous eussiez occupé",
+			"qu'il/elle": "eût occupé",
+			"qu'ils/elles": "eussent occupé"
+		},
+		"passé": {
+			"j'": "aie occupé",
+			"que": "vous ayez occupé",
+			"qu'il/elle": "ait occupé",
+			"qu'ils/elles": "aient occupé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "occuperais",
+			"tu": "occuperais",
+			"il/elle": "occuperait",
+			"nous": "occuperions",
+			"vous": "occuperiez",
+			"ils/elles": "occuperaient"
+		},
+		"passé première forme": {
+			"j'": "aurais occupé",
+			"tu": "aurais occupé",
+			"il/elle": "aurait occupé",
+			"nous": "aurions occupé",
+			"vous": "auriez occupé",
+			"ils/elles": "auraient occupé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse occupé",
+			"tu": "eusses occupé",
+			"il/elle": "eût occupé",
+			"nous": "eussions occupé",
+			"vous": "eussiez occupé",
+			"ils/elles": "eussent occupé"
+		}
+	},
+	"participe": {
+		"présent": { "occupant": "" },
+		"passé composé": { "ayant": "occupé" },
+		"passé": {
+			"masc.sg.:": "occupé",
+			"masc.pl.:": "occupés",
+			"fém.sg.:": "occupée",
+			"fém.pl.:": "occupées"
+		}
+	},
+	"imperatif": {
+		"présent": { "occupe": "", "occupons": "", "occupez": "" },
+		"passé": { "aie": "occupé", "ayons": "occupé", "ayez": "occupé" }
+	},
+	"infinitif": { "présent": { "occuper": "" }, "passé": { "avoir": "occupé" } }
+}

@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "negotiate; bargain; trade; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se négocier/ne pas négocier/ne pas se négocier",
+	"indicatif": {
+		"présent": {
+			"je": "négocie",
+			"tu": "négocies",
+			"il/elle": "négocie",
+			"nous": "négocions",
+			"vous": "négociez",
+			"ils/elles": "négocient"
+		},
+		"imparfait": {
+			"je": "négociais",
+			"tu": "négociais",
+			"il/elle": "négociait",
+			"nous": "négociions",
+			"vous": "négociiez",
+			"ils/elles": "négociaient"
+		},
+		"futur": {
+			"je": "négocierai",
+			"tu": "négocieras",
+			"il/elle": "négociera",
+			"nous": "négocierons",
+			"vous": "négocierez",
+			"ils/elles": "négocieront"
+		},
+		"passé simple": {
+			"je": "négociai",
+			"tu": "négocias",
+			"il/elle": "négocia",
+			"nous": "négociâmes",
+			"vous": "négociâtes",
+			"ils/elles": "négocièrent"
+		},
+		"passé composé": {
+			"j'": "ai négocié",
+			"tu": "as négocié",
+			"il/elle": "a négocié",
+			"nous": "avons négocié",
+			"vous": "avez négocié",
+			"ils/elles": "ont négocié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais négocié",
+			"tu": "avais négocié",
+			"il/elle": "avait négocié",
+			"nous": "avions négocié",
+			"vous": "aviez négocié",
+			"ils/elles": "avaient négocié"
+		},
+		"passé antérieur": {
+			"j'": "eus négocié",
+			"tu": "eus négocié",
+			"il/elle": "eut négocié",
+			"nous": "eûmes négocié",
+			"vous": "eûtes négocié",
+			"ils/elles": "eurent négocié"
+		},
+		"futur antérieur": {
+			"j'": "aurai négocié",
+			"tu": "auras négocié",
+			"il/elle": "aura négocié",
+			"nous": "aurons négocié",
+			"vous": "aurez négocié",
+			"ils/elles": "auront négocié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous négociiez",
+			"qu'il/elle": "négocie",
+			"qu'ils/elles": "négocient"
+		},
+		"imparfait": {
+			"que": "vous négociassiez",
+			"qu'il/elle": "négociât",
+			"qu'ils/elles": "négociassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse négocié",
+			"que": "vous eussiez négocié",
+			"qu'il/elle": "eût négocié",
+			"qu'ils/elles": "eussent négocié"
+		},
+		"passé": {
+			"j'": "aie négocié",
+			"que": "vous ayez négocié",
+			"qu'il/elle": "ait négocié",
+			"qu'ils/elles": "aient négocié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "négocierais",
+			"tu": "négocierais",
+			"il/elle": "négocierait",
+			"nous": "négocierions",
+			"vous": "négocieriez",
+			"ils/elles": "négocieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais négocié",
+			"tu": "aurais négocié",
+			"il/elle": "aurait négocié",
+			"nous": "aurions négocié",
+			"vous": "auriez négocié",
+			"ils/elles": "auraient négocié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse négocié",
+			"tu": "eusses négocié",
+			"il/elle": "eût négocié",
+			"nous": "eussions négocié",
+			"vous": "eussiez négocié",
+			"ils/elles": "eussent négocié"
+		}
+	},
+	"participe": {
+		"présent": { "négociant": "" },
+		"passé composé": { "ayant": "négocié" },
+		"passé": {
+			"masc.sg.:": "négocié",
+			"masc.pl.:": "négociés",
+			"fém.sg.:": "négociée",
+			"fém.pl.:": "négociées"
+		}
+	},
+	"imperatif": {
+		"présent": { "négocie": "", "négocions": "", "négociez": "" },
+		"passé": { "aie": "négocié", "ayons": "négocié", "ayez": "négocié" }
+	},
+	"infinitif": {
+		"présent": { "négocier": "" },
+		"passé": { "avoir": "négocié" }
+	}
+}

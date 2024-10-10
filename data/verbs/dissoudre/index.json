@@ -1,0 +1,130 @@
+{
+	"name": "absoudre",
+	"definition": "dissolve; disband; break up; ...",
+	"model": "absoudre",
+	"auxiliary": "avoir",
+	"otherForms": "se dissoudre/ne pas dissoudre/ne pas se dissoudre",
+	"indicatif": {
+		"présent": {
+			"je": "dissous",
+			"tu": "dissous",
+			"il/elle": "dissout",
+			"nous": "dissolvons",
+			"vous": "dissolvez",
+			"ils/elles": "dissolvent"
+		},
+		"imparfait": {
+			"je": "dissolvais",
+			"tu": "dissolvais",
+			"il/elle": "dissolvait",
+			"nous": "dissolvions",
+			"vous": "dissolviez",
+			"ils/elles": "dissolvaient"
+		},
+		"futur": {
+			"je": "dissoudrai",
+			"tu": "dissoudras",
+			"il/elle": "dissoudra",
+			"nous": "dissoudrons",
+			"vous": "dissoudrez",
+			"ils/elles": "dissoudront"
+		},
+		"passé simple": {},
+		"passé composé": {
+			"j'": "ai dissous",
+			"tu": "as dissous",
+			"il/elle": "a dissous",
+			"nous": "avons dissous",
+			"vous": "avez dissous",
+			"ils/elles": "ont dissous"
+		},
+		"plus-que-parfait": {
+			"j'": "avais dissous",
+			"tu": "avais dissous",
+			"il/elle": "avait dissous",
+			"nous": "avions dissous",
+			"vous": "aviez dissous",
+			"ils/elles": "avaient dissous"
+		},
+		"passé antérieur": {
+			"j'": "eus dissous",
+			"tu": "eus dissous",
+			"il/elle": "eut dissous",
+			"nous": "eûmes dissous",
+			"vous": "eûtes dissous",
+			"ils/elles": "eurent dissous"
+		},
+		"futur antérieur": {
+			"j'": "aurai dissous",
+			"tu": "auras dissous",
+			"il/elle": "aura dissous",
+			"nous": "aurons dissous",
+			"vous": "aurez dissous",
+			"ils/elles": "auront dissous"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous dissolviez",
+			"qu'il/elle": "dissolve",
+			"qu'ils/elles": "dissolvent"
+		},
+		"imparfait": {},
+		"plus-que-parfait": {
+			"j'": "eusse dissous",
+			"que": "vous eussiez dissous",
+			"qu'il/elle": "eût dissous",
+			"qu'ils/elles": "eussent dissous"
+		},
+		"passé": {
+			"j'": "aie dissous",
+			"que": "vous ayez dissous",
+			"qu'il/elle": "ait dissous",
+			"qu'ils/elles": "aient dissous"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "dissoudrais",
+			"tu": "dissoudrais",
+			"il/elle": "dissoudrait",
+			"nous": "dissoudrions",
+			"vous": "dissoudriez",
+			"ils/elles": "dissoudraient"
+		},
+		"passé première forme": {
+			"j'": "aurais dissous",
+			"tu": "aurais dissous",
+			"il/elle": "aurait dissous",
+			"nous": "aurions dissous",
+			"vous": "auriez dissous",
+			"ils/elles": "auraient dissous"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse dissous",
+			"tu": "eusses dissous",
+			"il/elle": "eût dissous",
+			"nous": "eussions dissous",
+			"vous": "eussiez dissous",
+			"ils/elles": "eussent dissous"
+		}
+	},
+	"participe": {
+		"présent": { "dissolvant": "" },
+		"passé composé": { "ayant": "dissous" },
+		"passé": {
+			"masc.sg.:": "dissous",
+			"masc.pl.:": "dissous",
+			"fém.sg.:": "dissoute",
+			"fém.pl.:": "dissoutes"
+		}
+	},
+	"imperatif": {
+		"présent": { "dissous": "", "dissolvons": "", "dissolvez": "" },
+		"passé": { "aie": "dissous", "ayons": "dissous", "ayez": "dissous" }
+	},
+	"infinitif": {
+		"présent": { "dissoudre": "" },
+		"passé": { "avoir": "dissous" }
+	}
+}

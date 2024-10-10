@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "form; train; provide; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se former/ne pas former/ne pas se former",
+	"indicatif": {
+		"présent": {
+			"je": "forme",
+			"tu": "formes",
+			"il/elle": "forme",
+			"nous": "formons",
+			"vous": "formez",
+			"ils/elles": "forment"
+		},
+		"imparfait": {
+			"je": "formais",
+			"tu": "formais",
+			"il/elle": "formait",
+			"nous": "formions",
+			"vous": "formiez",
+			"ils/elles": "formaient"
+		},
+		"futur": {
+			"je": "formerai",
+			"tu": "formeras",
+			"il/elle": "formera",
+			"nous": "formerons",
+			"vous": "formerez",
+			"ils/elles": "formeront"
+		},
+		"passé simple": {
+			"je": "formai",
+			"tu": "formas",
+			"il/elle": "forma",
+			"nous": "formâmes",
+			"vous": "formâtes",
+			"ils/elles": "formèrent"
+		},
+		"passé composé": {
+			"j'": "ai formé",
+			"tu": "as formé",
+			"il/elle": "a formé",
+			"nous": "avons formé",
+			"vous": "avez formé",
+			"ils/elles": "ont formé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais formé",
+			"tu": "avais formé",
+			"il/elle": "avait formé",
+			"nous": "avions formé",
+			"vous": "aviez formé",
+			"ils/elles": "avaient formé"
+		},
+		"passé antérieur": {
+			"j'": "eus formé",
+			"tu": "eus formé",
+			"il/elle": "eut formé",
+			"nous": "eûmes formé",
+			"vous": "eûtes formé",
+			"ils/elles": "eurent formé"
+		},
+		"futur antérieur": {
+			"j'": "aurai formé",
+			"tu": "auras formé",
+			"il/elle": "aura formé",
+			"nous": "aurons formé",
+			"vous": "aurez formé",
+			"ils/elles": "auront formé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous formiez",
+			"qu'il/elle": "forme",
+			"qu'ils/elles": "forment"
+		},
+		"imparfait": {
+			"que": "vous formassiez",
+			"qu'il/elle": "formât",
+			"qu'ils/elles": "formassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse formé",
+			"que": "vous eussiez formé",
+			"qu'il/elle": "eût formé",
+			"qu'ils/elles": "eussent formé"
+		},
+		"passé": {
+			"j'": "aie formé",
+			"que": "vous ayez formé",
+			"qu'il/elle": "ait formé",
+			"qu'ils/elles": "aient formé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "formerais",
+			"tu": "formerais",
+			"il/elle": "formerait",
+			"nous": "formerions",
+			"vous": "formeriez",
+			"ils/elles": "formeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais formé",
+			"tu": "aurais formé",
+			"il/elle": "aurait formé",
+			"nous": "aurions formé",
+			"vous": "auriez formé",
+			"ils/elles": "auraient formé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse formé",
+			"tu": "eusses formé",
+			"il/elle": "eût formé",
+			"nous": "eussions formé",
+			"vous": "eussiez formé",
+			"ils/elles": "eussent formé"
+		}
+	},
+	"participe": {
+		"présent": { "formant": "" },
+		"passé composé": { "ayant": "formé" },
+		"passé": {
+			"masc.sg.:": "formé",
+			"masc.pl.:": "formés",
+			"fém.sg.:": "formée",
+			"fém.pl.:": "formées"
+		}
+	},
+	"imperatif": {
+		"présent": { "forme": "", "formons": "", "formez": "" },
+		"passé": { "aie": "formé", "ayons": "formé", "ayez": "formé" }
+	},
+	"infinitif": { "présent": { "former": "" }, "passé": { "avoir": "formé" } }
+}

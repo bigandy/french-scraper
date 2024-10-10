@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "guide; lead; inform; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se guider/ne pas guider/ne pas se guider",
+	"indicatif": {
+		"présent": {
+			"je": "guide",
+			"tu": "guides",
+			"il/elle": "guide",
+			"nous": "guidons",
+			"vous": "guidez",
+			"ils/elles": "guident"
+		},
+		"imparfait": {
+			"je": "guidais",
+			"tu": "guidais",
+			"il/elle": "guidait",
+			"nous": "guidions",
+			"vous": "guidiez",
+			"ils/elles": "guidaient"
+		},
+		"futur": {
+			"je": "guiderai",
+			"tu": "guideras",
+			"il/elle": "guidera",
+			"nous": "guiderons",
+			"vous": "guiderez",
+			"ils/elles": "guideront"
+		},
+		"passé simple": {
+			"je": "guidai",
+			"tu": "guidas",
+			"il/elle": "guida",
+			"nous": "guidâmes",
+			"vous": "guidâtes",
+			"ils/elles": "guidèrent"
+		},
+		"passé composé": {
+			"j'": "ai guidé",
+			"tu": "as guidé",
+			"il/elle": "a guidé",
+			"nous": "avons guidé",
+			"vous": "avez guidé",
+			"ils/elles": "ont guidé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais guidé",
+			"tu": "avais guidé",
+			"il/elle": "avait guidé",
+			"nous": "avions guidé",
+			"vous": "aviez guidé",
+			"ils/elles": "avaient guidé"
+		},
+		"passé antérieur": {
+			"j'": "eus guidé",
+			"tu": "eus guidé",
+			"il/elle": "eut guidé",
+			"nous": "eûmes guidé",
+			"vous": "eûtes guidé",
+			"ils/elles": "eurent guidé"
+		},
+		"futur antérieur": {
+			"j'": "aurai guidé",
+			"tu": "auras guidé",
+			"il/elle": "aura guidé",
+			"nous": "aurons guidé",
+			"vous": "aurez guidé",
+			"ils/elles": "auront guidé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous guidiez",
+			"qu'il/elle": "guide",
+			"qu'ils/elles": "guident"
+		},
+		"imparfait": {
+			"que": "vous guidassiez",
+			"qu'il/elle": "guidât",
+			"qu'ils/elles": "guidassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse guidé",
+			"que": "vous eussiez guidé",
+			"qu'il/elle": "eût guidé",
+			"qu'ils/elles": "eussent guidé"
+		},
+		"passé": {
+			"j'": "aie guidé",
+			"que": "vous ayez guidé",
+			"qu'il/elle": "ait guidé",
+			"qu'ils/elles": "aient guidé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "guiderais",
+			"tu": "guiderais",
+			"il/elle": "guiderait",
+			"nous": "guiderions",
+			"vous": "guideriez",
+			"ils/elles": "guideraient"
+		},
+		"passé première forme": {
+			"j'": "aurais guidé",
+			"tu": "aurais guidé",
+			"il/elle": "aurait guidé",
+			"nous": "aurions guidé",
+			"vous": "auriez guidé",
+			"ils/elles": "auraient guidé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse guidé",
+			"tu": "eusses guidé",
+			"il/elle": "eût guidé",
+			"nous": "eussions guidé",
+			"vous": "eussiez guidé",
+			"ils/elles": "eussent guidé"
+		}
+	},
+	"participe": {
+		"présent": { "guidant": "" },
+		"passé composé": { "ayant": "guidé" },
+		"passé": {
+			"masc.sg.:": "guidé",
+			"masc.pl.:": "guidés",
+			"fém.sg.:": "guidée",
+			"fém.pl.:": "guidées"
+		}
+	},
+	"imperatif": {
+		"présent": { "guide": "", "guidons": "", "guidez": "" },
+		"passé": { "aie": "guidé", "ayons": "guidé", "ayez": "guidé" }
+	},
+	"infinitif": { "présent": { "guider": "" }, "passé": { "avoir": "guidé" } }
+}

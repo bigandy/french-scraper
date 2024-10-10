@@ -1,0 +1,194 @@
+{
+	"name": "marcher",
+	"definition": "lower; reduce; decline; ...",
+	"model": "marcher",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "se baisser/ne pas baisser/ne pas se baisser",
+	"indicatif": {
+		"présent": {
+			"je": "baisse",
+			"tu": "baisses",
+			"il/elle": "baisse",
+			"nous": "baissons",
+			"vous": "baissez",
+			"ils/elles": "baissent"
+		},
+		"imparfait": {
+			"je": "baissais",
+			"tu": "baissais",
+			"il/elle": "baissait",
+			"nous": "baissions",
+			"vous": "baissiez",
+			"ils/elles": "baissaient"
+		},
+		"futur": {
+			"je": "baisserai",
+			"tu": "baisseras",
+			"il/elle": "baissera",
+			"nous": "baisserons",
+			"vous": "baisserez",
+			"ils/elles": "baisseront"
+		},
+		"passé simple": {
+			"je": "baissai",
+			"tu": "baissas",
+			"il/elle": "baissa",
+			"nous": "baissâmes",
+			"vous": "baissâtes",
+			"ils/elles": "baissèrent"
+		},
+		"passé composé": {
+			"j'": "ai baissé",
+			"tu": "es baissé",
+			"il/elle": "a baissé",
+			"nous": "sommes baissés",
+			"vous": "êtes baissés",
+			"ils/elles": "ont baissé",
+			"": "",
+			"je": "suis baissé",
+			"il": "est baissé",
+			"elle": "est baissée",
+			"ils": "sont baissés",
+			"elles": "sont baissées"
+		},
+		"plus-que-parfait": {
+			"j'": "étais baissé",
+			"tu": "étais baissé",
+			"il/elle": "avait baissé",
+			"nous": "étions baissés",
+			"vous": "étiez baissés",
+			"ils/elles": "avaient baissé",
+			"": "",
+			"il": "était baissé",
+			"elle": "était baissée",
+			"ils": "étaient baissés",
+			"elles": "étaient baissées"
+		},
+		"passé antérieur": {
+			"j'": "eus baissé",
+			"tu": "fus baissé",
+			"il/elle": "eut baissé",
+			"nous": "fûmes baissés",
+			"vous": "fûtes baissés",
+			"ils/elles": "eurent baissé",
+			"": "",
+			"je": "fus baissé",
+			"il": "fut baissé",
+			"elle": "fut baissée",
+			"ils": "furent baissés",
+			"elles": "furent baissées"
+		},
+		"futur antérieur": {
+			"j'": "aurai baissé",
+			"tu": "seras baissé",
+			"il/elle": "aura baissé",
+			"nous": "serons baissés",
+			"vous": "serez baissés",
+			"ils/elles": "auront baissé",
+			"": "",
+			"je": "serai baissé",
+			"il": "sera baissé",
+			"elle": "sera baissée",
+			"ils": "seront baissés",
+			"elles": "seront baissées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous baissiez",
+			"qu'il/elle": "baisse",
+			"qu'ils/elles": "baissent"
+		},
+		"imparfait": {
+			"que": "vous baissassiez",
+			"qu'il/elle": "baissât",
+			"qu'ils/elles": "baissassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse baissé",
+			"que": "vous fussiez baissés",
+			"qu'il/elle": "eût baissé",
+			"qu'ils/elles": "eussent baissé",
+			"": "",
+			"qu'il": "fût baissé",
+			"qu'elle": "fût baissée",
+			"qu'ils": "fussent baissés",
+			"qu'elles": "fussent baissées"
+		},
+		"passé": {
+			"j'": "aie baissé",
+			"que": "vous soyez baissés",
+			"qu'il/elle": "ait baissé",
+			"qu'ils/elles": "aient baissé",
+			"": "",
+			"qu'il": "soit baissé",
+			"qu'elle": "soit baissée",
+			"qu'ils": "soient baissés",
+			"qu'elles": "soient baissées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "baisserais",
+			"tu": "baisserais",
+			"il/elle": "baisserait",
+			"nous": "baisserions",
+			"vous": "baisseriez",
+			"ils/elles": "baisseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais baissé",
+			"tu": "serais baissé",
+			"il/elle": "aurait baissé",
+			"nous": "serions baissés",
+			"vous": "seriez baissés",
+			"ils/elles": "auraient baissé",
+			"": "",
+			"je": "serais baissé",
+			"il": "serait baissé",
+			"elle": "serait baissée",
+			"ils": "seraient baissés",
+			"elles": "seraient baissées"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse baissé",
+			"tu": "fusses baissé",
+			"il/elle": "eût baissé",
+			"nous": "fussions baissés",
+			"vous": "fussiez baissés",
+			"ils/elles": "eussent baissé",
+			"": "",
+			"je": "fusse baissé",
+			"il": "fût baissé",
+			"elle": "fût baissée",
+			"ils": "fussent baissés",
+			"elles": "fussent baissées"
+		}
+	},
+	"participe": {
+		"présent": { "baissant": "" },
+		"passé composé": { "ayant": "baissé", "": "", "étant": "baissée" },
+		"passé": {
+			"masc.sg.:": "baissé",
+			"masc.pl.:": "baissés",
+			"fém.sg.:": "baissée",
+			"fém.pl.:": "baissées"
+		}
+	},
+	"imperatif": {
+		"présent": { "baisse": "", "baissons": "", "baissez": "" },
+		"passé": {
+			"aie": "baissé",
+			"ayons": "baissé",
+			"ayez": "baissé",
+			"": "",
+			"sois": "baissé",
+			"soyons": "baissé",
+			"soyez": "baissé"
+		}
+	},
+	"infinitif": {
+		"présent": { "baisser": "" },
+		"passé": { "avoir": "baissé", "": "", "être": "baissé" }
+	}
+}

@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "light; turn on; ignite; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'allumer/ne pas allumer/ne pas s'allumer",
+	"indicatif": {
+		"présent": {
+			"j'": "allume",
+			"tu": "allumes",
+			"il/elle": "allume",
+			"nous": "allumons",
+			"vous": "allumez",
+			"ils/elles": "allument"
+		},
+		"imparfait": {
+			"j'": "allumais",
+			"tu": "allumais",
+			"il/elle": "allumait",
+			"nous": "allumions",
+			"vous": "allumiez",
+			"ils/elles": "allumaient"
+		},
+		"futur": {
+			"j'": "allumerai",
+			"tu": "allumeras",
+			"il/elle": "allumera",
+			"nous": "allumerons",
+			"vous": "allumerez",
+			"ils/elles": "allumeront"
+		},
+		"passé simple": {
+			"j'": "allumai",
+			"tu": "allumas",
+			"il/elle": "alluma",
+			"nous": "allumâmes",
+			"vous": "allumâtes",
+			"ils/elles": "allumèrent"
+		},
+		"passé composé": {
+			"j'": "ai allumé",
+			"tu": "as allumé",
+			"il/elle": "a allumé",
+			"nous": "avons allumé",
+			"vous": "avez allumé",
+			"ils/elles": "ont allumé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais allumé",
+			"tu": "avais allumé",
+			"il/elle": "avait allumé",
+			"nous": "avions allumé",
+			"vous": "aviez allumé",
+			"ils/elles": "avaient allumé"
+		},
+		"passé antérieur": {
+			"j'": "eus allumé",
+			"tu": "eus allumé",
+			"il/elle": "eut allumé",
+			"nous": "eûmes allumé",
+			"vous": "eûtes allumé",
+			"ils/elles": "eurent allumé"
+		},
+		"futur antérieur": {
+			"j'": "aurai allumé",
+			"tu": "auras allumé",
+			"il/elle": "aura allumé",
+			"nous": "aurons allumé",
+			"vous": "aurez allumé",
+			"ils/elles": "auront allumé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "allume",
+			"que": "vous allumiez",
+			"qu'il/elle": "allume",
+			"qu'ils/elles": "allument"
+		},
+		"imparfait": {
+			"j'": "allumasse",
+			"que": "vous allumassiez",
+			"qu'il/elle": "allumât",
+			"qu'ils/elles": "allumassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse allumé",
+			"que": "vous eussiez allumé",
+			"qu'il/elle": "eût allumé",
+			"qu'ils/elles": "eussent allumé"
+		},
+		"passé": {
+			"j'": "aie allumé",
+			"que": "vous ayez allumé",
+			"qu'il/elle": "ait allumé",
+			"qu'ils/elles": "aient allumé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "allumerais",
+			"tu": "allumerais",
+			"il/elle": "allumerait",
+			"nous": "allumerions",
+			"vous": "allumeriez",
+			"ils/elles": "allumeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais allumé",
+			"tu": "aurais allumé",
+			"il/elle": "aurait allumé",
+			"nous": "aurions allumé",
+			"vous": "auriez allumé",
+			"ils/elles": "auraient allumé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse allumé",
+			"tu": "eusses allumé",
+			"il/elle": "eût allumé",
+			"nous": "eussions allumé",
+			"vous": "eussiez allumé",
+			"ils/elles": "eussent allumé"
+		}
+	},
+	"participe": {
+		"présent": { "allumant": "" },
+		"passé composé": { "ayant": "allumé" },
+		"passé": {
+			"masc.sg.:": "allumé",
+			"masc.pl.:": "allumés",
+			"fém.sg.:": "allumée",
+			"fém.pl.:": "allumées"
+		}
+	},
+	"imperatif": {
+		"présent": { "allume": "", "allumons": "", "allumez": "" },
+		"passé": { "aie": "allumé", "ayons": "allumé", "ayez": "allumé" }
+	},
+	"infinitif": { "présent": { "allumer": "" }, "passé": { "avoir": "allumé" } }
+}

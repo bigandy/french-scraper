@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "implant; implement; establish; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'implanter/ne pas implanter/ne pas s'implanter",
+	"indicatif": {
+		"présent": {
+			"j'": "implante",
+			"tu": "implantes",
+			"il/elle": "implante",
+			"nous": "implantons",
+			"vous": "implantez",
+			"ils/elles": "implantent"
+		},
+		"imparfait": {
+			"j'": "implantais",
+			"tu": "implantais",
+			"il/elle": "implantait",
+			"nous": "implantions",
+			"vous": "implantiez",
+			"ils/elles": "implantaient"
+		},
+		"futur": {
+			"j'": "implanterai",
+			"tu": "implanteras",
+			"il/elle": "implantera",
+			"nous": "implanterons",
+			"vous": "implanterez",
+			"ils/elles": "implanteront"
+		},
+		"passé simple": {
+			"j'": "implantai",
+			"tu": "implantas",
+			"il/elle": "implanta",
+			"nous": "implantâmes",
+			"vous": "implantâtes",
+			"ils/elles": "implantèrent"
+		},
+		"passé composé": {
+			"j'": "ai implanté",
+			"tu": "as implanté",
+			"il/elle": "a implanté",
+			"nous": "avons implanté",
+			"vous": "avez implanté",
+			"ils/elles": "ont implanté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais implanté",
+			"tu": "avais implanté",
+			"il/elle": "avait implanté",
+			"nous": "avions implanté",
+			"vous": "aviez implanté",
+			"ils/elles": "avaient implanté"
+		},
+		"passé antérieur": {
+			"j'": "eus implanté",
+			"tu": "eus implanté",
+			"il/elle": "eut implanté",
+			"nous": "eûmes implanté",
+			"vous": "eûtes implanté",
+			"ils/elles": "eurent implanté"
+		},
+		"futur antérieur": {
+			"j'": "aurai implanté",
+			"tu": "auras implanté",
+			"il/elle": "aura implanté",
+			"nous": "aurons implanté",
+			"vous": "aurez implanté",
+			"ils/elles": "auront implanté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "implante",
+			"que": "vous implantiez",
+			"qu'il/elle": "implante",
+			"qu'ils/elles": "implantent"
+		},
+		"imparfait": {
+			"j'": "implantasse",
+			"que": "vous implantassiez",
+			"qu'il/elle": "implantât",
+			"qu'ils/elles": "implantassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse implanté",
+			"que": "vous eussiez implanté",
+			"qu'il/elle": "eût implanté",
+			"qu'ils/elles": "eussent implanté"
+		},
+		"passé": {
+			"j'": "aie implanté",
+			"que": "vous ayez implanté",
+			"qu'il/elle": "ait implanté",
+			"qu'ils/elles": "aient implanté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "implanterais",
+			"tu": "implanterais",
+			"il/elle": "implanterait",
+			"nous": "implanterions",
+			"vous": "implanteriez",
+			"ils/elles": "implanteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais implanté",
+			"tu": "aurais implanté",
+			"il/elle": "aurait implanté",
+			"nous": "aurions implanté",
+			"vous": "auriez implanté",
+			"ils/elles": "auraient implanté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse implanté",
+			"tu": "eusses implanté",
+			"il/elle": "eût implanté",
+			"nous": "eussions implanté",
+			"vous": "eussiez implanté",
+			"ils/elles": "eussent implanté"
+		}
+	},
+	"participe": {
+		"présent": { "implantant": "" },
+		"passé composé": { "ayant": "implanté" },
+		"passé": {
+			"masc.sg.:": "implanté",
+			"masc.pl.:": "implantés",
+			"fém.sg.:": "implantée",
+			"fém.pl.:": "implantées"
+		}
+	},
+	"imperatif": {
+		"présent": { "implante": "", "implantons": "", "implantez": "" },
+		"passé": { "aie": "implanté", "ayons": "implanté", "ayez": "implanté" }
+	},
+	"infinitif": {
+		"présent": { "implanter": "" },
+		"passé": { "avoir": "implanté" }
+	}
+}

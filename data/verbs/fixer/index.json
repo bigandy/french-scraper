@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "set; fix; secure; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se fixer/ne pas fixer/ne pas se fixer",
+	"indicatif": {
+		"présent": {
+			"je": "fixe",
+			"tu": "fixes",
+			"il/elle": "fixe",
+			"nous": "fixons",
+			"vous": "fixez",
+			"ils/elles": "fixent"
+		},
+		"imparfait": {
+			"je": "fixais",
+			"tu": "fixais",
+			"il/elle": "fixait",
+			"nous": "fixions",
+			"vous": "fixiez",
+			"ils/elles": "fixaient"
+		},
+		"futur": {
+			"je": "fixerai",
+			"tu": "fixeras",
+			"il/elle": "fixera",
+			"nous": "fixerons",
+			"vous": "fixerez",
+			"ils/elles": "fixeront"
+		},
+		"passé simple": {
+			"je": "fixai",
+			"tu": "fixas",
+			"il/elle": "fixa",
+			"nous": "fixâmes",
+			"vous": "fixâtes",
+			"ils/elles": "fixèrent"
+		},
+		"passé composé": {
+			"j'": "ai fixé",
+			"tu": "as fixé",
+			"il/elle": "a fixé",
+			"nous": "avons fixé",
+			"vous": "avez fixé",
+			"ils/elles": "ont fixé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais fixé",
+			"tu": "avais fixé",
+			"il/elle": "avait fixé",
+			"nous": "avions fixé",
+			"vous": "aviez fixé",
+			"ils/elles": "avaient fixé"
+		},
+		"passé antérieur": {
+			"j'": "eus fixé",
+			"tu": "eus fixé",
+			"il/elle": "eut fixé",
+			"nous": "eûmes fixé",
+			"vous": "eûtes fixé",
+			"ils/elles": "eurent fixé"
+		},
+		"futur antérieur": {
+			"j'": "aurai fixé",
+			"tu": "auras fixé",
+			"il/elle": "aura fixé",
+			"nous": "aurons fixé",
+			"vous": "aurez fixé",
+			"ils/elles": "auront fixé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous fixiez",
+			"qu'il/elle": "fixe",
+			"qu'ils/elles": "fixent"
+		},
+		"imparfait": {
+			"que": "vous fixassiez",
+			"qu'il/elle": "fixât",
+			"qu'ils/elles": "fixassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse fixé",
+			"que": "vous eussiez fixé",
+			"qu'il/elle": "eût fixé",
+			"qu'ils/elles": "eussent fixé"
+		},
+		"passé": {
+			"j'": "aie fixé",
+			"que": "vous ayez fixé",
+			"qu'il/elle": "ait fixé",
+			"qu'ils/elles": "aient fixé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "fixerais",
+			"tu": "fixerais",
+			"il/elle": "fixerait",
+			"nous": "fixerions",
+			"vous": "fixeriez",
+			"ils/elles": "fixeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais fixé",
+			"tu": "aurais fixé",
+			"il/elle": "aurait fixé",
+			"nous": "aurions fixé",
+			"vous": "auriez fixé",
+			"ils/elles": "auraient fixé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse fixé",
+			"tu": "eusses fixé",
+			"il/elle": "eût fixé",
+			"nous": "eussions fixé",
+			"vous": "eussiez fixé",
+			"ils/elles": "eussent fixé"
+		}
+	},
+	"participe": {
+		"présent": { "fixant": "" },
+		"passé composé": { "ayant": "fixé" },
+		"passé": {
+			"masc.sg.:": "fixé",
+			"masc.pl.:": "fixés",
+			"fém.sg.:": "fixée",
+			"fém.pl.:": "fixées"
+		}
+	},
+	"imperatif": {
+		"présent": { "fixe": "", "fixons": "", "fixez": "" },
+		"passé": { "aie": "fixé", "ayons": "fixé", "ayez": "fixé" }
+	},
+	"infinitif": { "présent": { "fixer": "" }, "passé": { "avoir": "fixé" } }
+}

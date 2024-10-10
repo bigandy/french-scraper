@@ -1,0 +1,141 @@
+{
+	"name": "prendre",
+	"definition": "understand; include; comprise; ...",
+	"model": "prendre",
+	"auxiliary": "avoir",
+	"otherForms": "se comprendre/ne pas comprendre/ne pas se comprendre",
+	"indicatif": {
+		"présent": {
+			"je": "comprends",
+			"tu": "comprends",
+			"il/elle": "comprend",
+			"nous": "comprenons",
+			"vous": "comprenez",
+			"ils/elles": "comprennent"
+		},
+		"imparfait": {
+			"je": "comprenais",
+			"tu": "comprenais",
+			"il/elle": "comprenait",
+			"nous": "comprenions",
+			"vous": "compreniez",
+			"ils/elles": "comprenaient"
+		},
+		"futur": {
+			"je": "comprendrai",
+			"tu": "comprendras",
+			"il/elle": "comprendra",
+			"nous": "comprendrons",
+			"vous": "comprendrez",
+			"ils/elles": "comprendront"
+		},
+		"passé simple": {
+			"je": "compris",
+			"tu": "compris",
+			"il/elle": "comprit",
+			"nous": "comprîmes",
+			"vous": "comprîtes",
+			"ils/elles": "comprirent"
+		},
+		"passé composé": {
+			"j'": "ai compris",
+			"tu": "as compris",
+			"il/elle": "a compris",
+			"nous": "avons compris",
+			"vous": "avez compris",
+			"ils/elles": "ont compris"
+		},
+		"plus-que-parfait": {
+			"j'": "avais compris",
+			"tu": "avais compris",
+			"il/elle": "avait compris",
+			"nous": "avions compris",
+			"vous": "aviez compris",
+			"ils/elles": "avaient compris"
+		},
+		"passé antérieur": {
+			"j'": "eus compris",
+			"tu": "eus compris",
+			"il/elle": "eut compris",
+			"nous": "eûmes compris",
+			"vous": "eûtes compris",
+			"ils/elles": "eurent compris"
+		},
+		"futur antérieur": {
+			"j'": "aurai compris",
+			"tu": "auras compris",
+			"il/elle": "aura compris",
+			"nous": "aurons compris",
+			"vous": "aurez compris",
+			"ils/elles": "auront compris"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous compreniez",
+			"qu'il/elle": "comprenne",
+			"qu'ils/elles": "comprennent"
+		},
+		"imparfait": {
+			"que": "vous comprissiez",
+			"qu'il/elle": "comprît",
+			"qu'ils/elles": "comprissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse compris",
+			"que": "vous eussiez compris",
+			"qu'il/elle": "eût compris",
+			"qu'ils/elles": "eussent compris"
+		},
+		"passé": {
+			"j'": "aie compris",
+			"que": "vous ayez compris",
+			"qu'il/elle": "ait compris",
+			"qu'ils/elles": "aient compris"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "comprendrais",
+			"tu": "comprendrais",
+			"il/elle": "comprendrait",
+			"nous": "comprendrions",
+			"vous": "comprendriez",
+			"ils/elles": "comprendraient"
+		},
+		"passé première forme": {
+			"j'": "aurais compris",
+			"tu": "aurais compris",
+			"il/elle": "aurait compris",
+			"nous": "aurions compris",
+			"vous": "auriez compris",
+			"ils/elles": "auraient compris"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse compris",
+			"tu": "eusses compris",
+			"il/elle": "eût compris",
+			"nous": "eussions compris",
+			"vous": "eussiez compris",
+			"ils/elles": "eussent compris"
+		}
+	},
+	"participe": {
+		"présent": { "comprenant": "" },
+		"passé composé": { "ayant": "compris" },
+		"passé": {
+			"masc.sg.:": "compris",
+			"masc.pl.:": "compris",
+			"fém.sg.:": "comprise",
+			"fém.pl.:": "comprises"
+		}
+	},
+	"imperatif": {
+		"présent": { "comprends": "", "comprenons": "", "comprenez": "" },
+		"passé": { "aie": "compris", "ayons": "compris", "ayez": "compris" }
+	},
+	"infinitif": {
+		"présent": { "comprendre": "" },
+		"passé": { "avoir": "compris" }
+	}
+}

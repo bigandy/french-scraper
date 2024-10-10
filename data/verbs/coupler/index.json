@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "couple; connect; link; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se coupler/ne pas coupler/ne pas se coupler",
+	"indicatif": {
+		"présent": {
+			"je": "couple",
+			"tu": "couples",
+			"il/elle": "couple",
+			"nous": "couplons",
+			"vous": "couplez",
+			"ils/elles": "couplent"
+		},
+		"imparfait": {
+			"je": "couplais",
+			"tu": "couplais",
+			"il/elle": "couplait",
+			"nous": "couplions",
+			"vous": "coupliez",
+			"ils/elles": "couplaient"
+		},
+		"futur": {
+			"je": "couplerai",
+			"tu": "coupleras",
+			"il/elle": "couplera",
+			"nous": "couplerons",
+			"vous": "couplerez",
+			"ils/elles": "coupleront"
+		},
+		"passé simple": {
+			"je": "couplai",
+			"tu": "couplas",
+			"il/elle": "coupla",
+			"nous": "couplâmes",
+			"vous": "couplâtes",
+			"ils/elles": "couplèrent"
+		},
+		"passé composé": {
+			"j'": "ai couplé",
+			"tu": "as couplé",
+			"il/elle": "a couplé",
+			"nous": "avons couplé",
+			"vous": "avez couplé",
+			"ils/elles": "ont couplé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais couplé",
+			"tu": "avais couplé",
+			"il/elle": "avait couplé",
+			"nous": "avions couplé",
+			"vous": "aviez couplé",
+			"ils/elles": "avaient couplé"
+		},
+		"passé antérieur": {
+			"j'": "eus couplé",
+			"tu": "eus couplé",
+			"il/elle": "eut couplé",
+			"nous": "eûmes couplé",
+			"vous": "eûtes couplé",
+			"ils/elles": "eurent couplé"
+		},
+		"futur antérieur": {
+			"j'": "aurai couplé",
+			"tu": "auras couplé",
+			"il/elle": "aura couplé",
+			"nous": "aurons couplé",
+			"vous": "aurez couplé",
+			"ils/elles": "auront couplé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous coupliez",
+			"qu'il/elle": "couple",
+			"qu'ils/elles": "couplent"
+		},
+		"imparfait": {
+			"que": "vous couplassiez",
+			"qu'il/elle": "couplât",
+			"qu'ils/elles": "couplassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse couplé",
+			"que": "vous eussiez couplé",
+			"qu'il/elle": "eût couplé",
+			"qu'ils/elles": "eussent couplé"
+		},
+		"passé": {
+			"j'": "aie couplé",
+			"que": "vous ayez couplé",
+			"qu'il/elle": "ait couplé",
+			"qu'ils/elles": "aient couplé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "couplerais",
+			"tu": "couplerais",
+			"il/elle": "couplerait",
+			"nous": "couplerions",
+			"vous": "coupleriez",
+			"ils/elles": "coupleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais couplé",
+			"tu": "aurais couplé",
+			"il/elle": "aurait couplé",
+			"nous": "aurions couplé",
+			"vous": "auriez couplé",
+			"ils/elles": "auraient couplé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse couplé",
+			"tu": "eusses couplé",
+			"il/elle": "eût couplé",
+			"nous": "eussions couplé",
+			"vous": "eussiez couplé",
+			"ils/elles": "eussent couplé"
+		}
+	},
+	"participe": {
+		"présent": { "couplant": "" },
+		"passé composé": { "ayant": "couplé" },
+		"passé": {
+			"masc.sg.:": "couplé",
+			"masc.pl.:": "couplés",
+			"fém.sg.:": "couplée",
+			"fém.pl.:": "couplées"
+		}
+	},
+	"imperatif": {
+		"présent": { "couple": "", "couplons": "", "couplez": "" },
+		"passé": { "aie": "couplé", "ayons": "couplé", "ayez": "couplé" }
+	},
+	"infinitif": { "présent": { "coupler": "" }, "passé": { "avoir": "couplé" } }
+}

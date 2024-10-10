@@ -1,0 +1,127 @@
+{
+	"name": "braire",
+	"definition": "bray; ...",
+	"model": "braire",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas braire",
+	"indicatif": {
+		"présent": {
+			"je": "brais",
+			"tu": "brais",
+			"il/elle": "brait",
+			"nous": "brayons",
+			"vous": "brayez",
+			"ils/elles": "braient"
+		},
+		"imparfait": {
+			"je": "brayais",
+			"tu": "brayais",
+			"il/elle": "brayait",
+			"nous": "brayions",
+			"vous": "brayiez",
+			"ils/elles": "brayaient"
+		},
+		"futur": {
+			"je": "brairai",
+			"tu": "brairas",
+			"il/elle": "braira",
+			"nous": "brairons",
+			"vous": "brairez",
+			"ils/elles": "brairont"
+		},
+		"passé simple": {},
+		"passé composé": {
+			"j'": "ai brait",
+			"tu": "as brait",
+			"il/elle": "a brait",
+			"nous": "avons brait",
+			"vous": "avez brait",
+			"ils/elles": "ont brait"
+		},
+		"plus-que-parfait": {
+			"j'": "avais brait",
+			"tu": "avais brait",
+			"il/elle": "avait brait",
+			"nous": "avions brait",
+			"vous": "aviez brait",
+			"ils/elles": "avaient brait"
+		},
+		"passé antérieur": {
+			"j'": "eus brait",
+			"tu": "eus brait",
+			"il/elle": "eut brait",
+			"nous": "eûmes brait",
+			"vous": "eûtes brait",
+			"ils/elles": "eurent brait"
+		},
+		"futur antérieur": {
+			"j'": "aurai brait",
+			"tu": "auras brait",
+			"il/elle": "aura brait",
+			"nous": "aurons brait",
+			"vous": "aurez brait",
+			"ils/elles": "auront brait"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous brayiez",
+			"qu'il/elle": "braie",
+			"qu'ils/elles": "braient"
+		},
+		"imparfait": {},
+		"plus-que-parfait": {
+			"j'": "eusse brait",
+			"que": "vous eussiez brait",
+			"qu'il/elle": "eût brait",
+			"qu'ils/elles": "eussent brait"
+		},
+		"passé": {
+			"j'": "aie brait",
+			"que": "vous ayez brait",
+			"qu'il/elle": "ait brait",
+			"qu'ils/elles": "aient brait"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "brairais",
+			"tu": "brairais",
+			"il/elle": "brairait",
+			"nous": "brairions",
+			"vous": "brairiez",
+			"ils/elles": "brairaient"
+		},
+		"passé première forme": {
+			"j'": "aurais brait",
+			"tu": "aurais brait",
+			"il/elle": "aurait brait",
+			"nous": "aurions brait",
+			"vous": "auriez brait",
+			"ils/elles": "auraient brait"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse brait",
+			"tu": "eusses brait",
+			"il/elle": "eût brait",
+			"nous": "eussions brait",
+			"vous": "eussiez brait",
+			"ils/elles": "eussent brait"
+		}
+	},
+	"participe": {
+		"présent": { "brayant": "" },
+		"passé composé": { "ayant": "brait" },
+		"passé": {
+			"masc.sg.:": "brait",
+			"masc.pl.:": "brait",
+			"fém.sg.:": "brait",
+			"fém.pl.:": "brait"
+		}
+	},
+	"imperatif": {
+		"présent": { "brais": "", "brayons": "", "brayez": "" },
+		"passé": { "aie": "brait", "ayons": "brait", "ayez": "brait" }
+	},
+	"infinitif": { "présent": { "braire": "" }, "passé": { "avoir": "brait" } }
+}

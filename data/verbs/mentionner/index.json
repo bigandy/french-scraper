@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "mention; include; refer; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se mentionner/ne pas mentionner/ne pas se mentionner",
+	"indicatif": {
+		"présent": {
+			"je": "mentionne",
+			"tu": "mentionnes",
+			"il/elle": "mentionne",
+			"nous": "mentionnons",
+			"vous": "mentionnez",
+			"ils/elles": "mentionnent"
+		},
+		"imparfait": {
+			"je": "mentionnais",
+			"tu": "mentionnais",
+			"il/elle": "mentionnait",
+			"nous": "mentionnions",
+			"vous": "mentionniez",
+			"ils/elles": "mentionnaient"
+		},
+		"futur": {
+			"je": "mentionnerai",
+			"tu": "mentionneras",
+			"il/elle": "mentionnera",
+			"nous": "mentionnerons",
+			"vous": "mentionnerez",
+			"ils/elles": "mentionneront"
+		},
+		"passé simple": {
+			"je": "mentionnai",
+			"tu": "mentionnas",
+			"il/elle": "mentionna",
+			"nous": "mentionnâmes",
+			"vous": "mentionnâtes",
+			"ils/elles": "mentionnèrent"
+		},
+		"passé composé": {
+			"j'": "ai mentionné",
+			"tu": "as mentionné",
+			"il/elle": "a mentionné",
+			"nous": "avons mentionné",
+			"vous": "avez mentionné",
+			"ils/elles": "ont mentionné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais mentionné",
+			"tu": "avais mentionné",
+			"il/elle": "avait mentionné",
+			"nous": "avions mentionné",
+			"vous": "aviez mentionné",
+			"ils/elles": "avaient mentionné"
+		},
+		"passé antérieur": {
+			"j'": "eus mentionné",
+			"tu": "eus mentionné",
+			"il/elle": "eut mentionné",
+			"nous": "eûmes mentionné",
+			"vous": "eûtes mentionné",
+			"ils/elles": "eurent mentionné"
+		},
+		"futur antérieur": {
+			"j'": "aurai mentionné",
+			"tu": "auras mentionné",
+			"il/elle": "aura mentionné",
+			"nous": "aurons mentionné",
+			"vous": "aurez mentionné",
+			"ils/elles": "auront mentionné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous mentionniez",
+			"qu'il/elle": "mentionne",
+			"qu'ils/elles": "mentionnent"
+		},
+		"imparfait": {
+			"que": "vous mentionnassiez",
+			"qu'il/elle": "mentionnât",
+			"qu'ils/elles": "mentionnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse mentionné",
+			"que": "vous eussiez mentionné",
+			"qu'il/elle": "eût mentionné",
+			"qu'ils/elles": "eussent mentionné"
+		},
+		"passé": {
+			"j'": "aie mentionné",
+			"que": "vous ayez mentionné",
+			"qu'il/elle": "ait mentionné",
+			"qu'ils/elles": "aient mentionné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "mentionnerais",
+			"tu": "mentionnerais",
+			"il/elle": "mentionnerait",
+			"nous": "mentionnerions",
+			"vous": "mentionneriez",
+			"ils/elles": "mentionneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais mentionné",
+			"tu": "aurais mentionné",
+			"il/elle": "aurait mentionné",
+			"nous": "aurions mentionné",
+			"vous": "auriez mentionné",
+			"ils/elles": "auraient mentionné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse mentionné",
+			"tu": "eusses mentionné",
+			"il/elle": "eût mentionné",
+			"nous": "eussions mentionné",
+			"vous": "eussiez mentionné",
+			"ils/elles": "eussent mentionné"
+		}
+	},
+	"participe": {
+		"présent": { "mentionnant": "" },
+		"passé composé": { "ayant": "mentionné" },
+		"passé": {
+			"masc.sg.:": "mentionné",
+			"masc.pl.:": "mentionnés",
+			"fém.sg.:": "mentionnée",
+			"fém.pl.:": "mentionnées"
+		}
+	},
+	"imperatif": {
+		"présent": { "mentionne": "", "mentionnons": "", "mentionnez": "" },
+		"passé": { "aie": "mentionné", "ayons": "mentionné", "ayez": "mentionné" }
+	},
+	"infinitif": {
+		"présent": { "mentionner": "" },
+		"passé": { "avoir": "mentionné" }
+	}
+}

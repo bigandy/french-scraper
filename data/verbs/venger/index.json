@@ -1,0 +1,138 @@
+{
+	"name": "manger",
+	"definition": "revenge; avenge; take revenge; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "se venger/ne pas venger/ne pas se venger",
+	"indicatif": {
+		"présent": {
+			"je": "venge",
+			"tu": "venges",
+			"il/elle": "venge",
+			"nous": "vengeons",
+			"vous": "vengez",
+			"ils/elles": "vengent"
+		},
+		"imparfait": {
+			"je": "vengeais",
+			"tu": "vengeais",
+			"il/elle": "vengeait",
+			"nous": "vengions",
+			"vous": "vengiez",
+			"ils/elles": "vengeaient"
+		},
+		"futur": {
+			"je": "vengerai",
+			"tu": "vengeras",
+			"il/elle": "vengera",
+			"nous": "vengerons",
+			"vous": "vengerez",
+			"ils/elles": "vengeront"
+		},
+		"passé simple": {
+			"je": "vengeai",
+			"tu": "vengeas",
+			"il/elle": "vengea",
+			"nous": "vengeâmes",
+			"vous": "vengeâtes",
+			"ils/elles": "vengèrent"
+		},
+		"passé composé": {
+			"j'": "ai vengé",
+			"tu": "as vengé",
+			"il/elle": "a vengé",
+			"nous": "avons vengé",
+			"vous": "avez vengé",
+			"ils/elles": "ont vengé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais vengé",
+			"tu": "avais vengé",
+			"il/elle": "avait vengé",
+			"nous": "avions vengé",
+			"vous": "aviez vengé",
+			"ils/elles": "avaient vengé"
+		},
+		"passé antérieur": {
+			"j'": "eus vengé",
+			"tu": "eus vengé",
+			"il/elle": "eut vengé",
+			"nous": "eûmes vengé",
+			"vous": "eûtes vengé",
+			"ils/elles": "eurent vengé"
+		},
+		"futur antérieur": {
+			"j'": "aurai vengé",
+			"tu": "auras vengé",
+			"il/elle": "aura vengé",
+			"nous": "aurons vengé",
+			"vous": "aurez vengé",
+			"ils/elles": "auront vengé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous vengiez",
+			"qu'il/elle": "venge",
+			"qu'ils/elles": "vengent"
+		},
+		"imparfait": {
+			"que": "vous vengeassiez",
+			"qu'il/elle": "vengeât",
+			"qu'ils/elles": "vengeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse vengé",
+			"que": "vous eussiez vengé",
+			"qu'il/elle": "eût vengé",
+			"qu'ils/elles": "eussent vengé"
+		},
+		"passé": {
+			"j'": "aie vengé",
+			"que": "vous ayez vengé",
+			"qu'il/elle": "ait vengé",
+			"qu'ils/elles": "aient vengé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "vengerais",
+			"tu": "vengerais",
+			"il/elle": "vengerait",
+			"nous": "vengerions",
+			"vous": "vengeriez",
+			"ils/elles": "vengeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais vengé",
+			"tu": "aurais vengé",
+			"il/elle": "aurait vengé",
+			"nous": "aurions vengé",
+			"vous": "auriez vengé",
+			"ils/elles": "auraient vengé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse vengé",
+			"tu": "eusses vengé",
+			"il/elle": "eût vengé",
+			"nous": "eussions vengé",
+			"vous": "eussiez vengé",
+			"ils/elles": "eussent vengé"
+		}
+	},
+	"participe": {
+		"présent": { "vengeant": "" },
+		"passé composé": { "ayant": "vengé" },
+		"passé": {
+			"masc.sg.:": "vengé",
+			"masc.pl.:": "vengés",
+			"fém.sg.:": "vengée",
+			"fém.pl.:": "vengées"
+		}
+	},
+	"imperatif": {
+		"présent": { "venge": "", "vengeons": "", "vengez": "" },
+		"passé": { "aie": "vengé", "ayons": "vengé", "ayez": "vengé" }
+	},
+	"infinitif": { "présent": { "venger": "" }, "passé": { "avoir": "vengé" } }
+}

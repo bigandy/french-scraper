@@ -1,0 +1,152 @@
+{
+	"name": "mentir",
+	"definition": "repent; regret; ...",
+	"model": "mentir",
+	"auxiliary": "être",
+	"otherForms": "se repentir/ne pas repentir/ne pas se repentir",
+	"indicatif": {
+		"présent": {
+			"je": "repens",
+			"tu": "repens",
+			"il/elle": "repent",
+			"nous": "repentons",
+			"vous": "repentez",
+			"ils/elles": "repentent"
+		},
+		"imparfait": {
+			"je": "repentais",
+			"tu": "repentais",
+			"il/elle": "repentait",
+			"nous": "repentions",
+			"vous": "repentiez",
+			"ils/elles": "repentaient"
+		},
+		"futur": {
+			"je": "repentirai",
+			"tu": "repentiras",
+			"il/elle": "repentira",
+			"nous": "repentirons",
+			"vous": "repentirez",
+			"ils/elles": "repentiront"
+		},
+		"passé simple": {
+			"je": "repentis",
+			"tu": "repentis",
+			"il/elle": "repentit",
+			"nous": "repentîmes",
+			"vous": "repentîtes",
+			"ils/elles": "repentirent"
+		},
+		"passé composé": {
+			"je": "suis repenti",
+			"tu": "es repenti",
+			"il": "est repenti",
+			"elle": "est repentie",
+			"nous": "sommes repentis",
+			"vous": "êtes repentis",
+			"ils": "sont repentis",
+			"elles": "sont repenties"
+		},
+		"plus-que-parfait": {
+			"j'": "étais repenti",
+			"tu": "étais repenti",
+			"il": "était repenti",
+			"elle": "était repentie",
+			"nous": "étions repentis",
+			"vous": "étiez repentis",
+			"ils": "étaient repentis",
+			"elles": "étaient repenties"
+		},
+		"passé antérieur": {
+			"je": "fus repenti",
+			"tu": "fus repenti",
+			"il": "fut repenti",
+			"elle": "fut repentie",
+			"nous": "fûmes repentis",
+			"vous": "fûtes repentis",
+			"ils": "furent repentis",
+			"elles": "furent repenties"
+		},
+		"futur antérieur": {
+			"je": "serai repenti",
+			"tu": "seras repenti",
+			"il": "sera repenti",
+			"elle": "sera repentie",
+			"nous": "serons repentis",
+			"vous": "serez repentis",
+			"ils": "seront repentis",
+			"elles": "seront repenties"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous repentiez",
+			"qu'il/elle": "repente",
+			"qu'ils/elles": "repentent"
+		},
+		"imparfait": {
+			"que": "vous repentissiez",
+			"qu'il/elle": "repentît",
+			"qu'ils/elles": "repentissent"
+		},
+		"plus-que-parfait": {
+			"que": "vous fussiez repentis",
+			"qu'il": "fût repenti",
+			"qu'elle": "fût repentie",
+			"qu'ils": "fussent repentis",
+			"qu'elles": "fussent repenties"
+		},
+		"passé": {
+			"que": "vous soyez repentis",
+			"qu'il": "soit repenti",
+			"qu'elle": "soit repentie",
+			"qu'ils": "soient repentis",
+			"qu'elles": "soient repenties"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "repentirais",
+			"tu": "repentirais",
+			"il/elle": "repentirait",
+			"nous": "repentirions",
+			"vous": "repentiriez",
+			"ils/elles": "repentiraient"
+		},
+		"passé première forme": {
+			"je": "serais repenti",
+			"tu": "serais repenti",
+			"il": "serait repenti",
+			"elle": "serait repentie",
+			"nous": "serions repentis",
+			"vous": "seriez repentis",
+			"ils": "seraient repentis",
+			"elles": "seraient repenties"
+		},
+		"passé deuxième forme": {
+			"je": "fusse repenti",
+			"tu": "fusses repenti",
+			"il": "fût repenti",
+			"elle": "fût repentie",
+			"nous": "fussions repentis",
+			"vous": "fussiez repentis",
+			"ils": "fussent repentis",
+			"elles": "fussent repenties"
+		}
+	},
+	"participe": {
+		"présent": { "repentant": "" },
+		"passé composé": { "étant": "repentie" },
+		"passé": {
+			"masc.sg.:": "repenti",
+			"masc.pl.:": "repentis",
+			"fém.sg.:": "repentie",
+			"fém.pl.:": "repenties"
+		}
+	},
+	"imperatif": {
+		"présent": { "repens": "", "repentons": "", "repentez": "" },
+		"passé": { "sois": "repenti", "soyons": "repenti", "soyez": "repenti" }
+	},
+	"infinitif": { "présent": { "repentir": "" }, "passé": { "être": "repenti" } }
+}

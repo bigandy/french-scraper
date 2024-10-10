@@ -1,0 +1,145 @@
+{
+	"name": "marcher",
+	"definition": "regulate; control; govern; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se réglementer/ne pas réglementer/ne pas se réglementer",
+	"indicatif": {
+		"présent": {
+			"je": "réglemente",
+			"tu": "réglementes",
+			"il/elle": "réglemente",
+			"nous": "réglementons",
+			"vous": "réglementez",
+			"ils/elles": "réglementent"
+		},
+		"imparfait": {
+			"je": "réglementais",
+			"tu": "réglementais",
+			"il/elle": "réglementait",
+			"nous": "réglementions",
+			"vous": "réglementiez",
+			"ils/elles": "réglementaient"
+		},
+		"futur": {
+			"je": "réglementerai",
+			"tu": "réglementeras",
+			"il/elle": "réglementera",
+			"nous": "réglementerons",
+			"vous": "réglementerez",
+			"ils/elles": "réglementeront"
+		},
+		"passé simple": {
+			"je": "réglementai",
+			"tu": "réglementas",
+			"il/elle": "réglementa",
+			"nous": "réglementâmes",
+			"vous": "réglementâtes",
+			"ils/elles": "réglementèrent"
+		},
+		"passé composé": {
+			"j'": "ai réglementé",
+			"tu": "as réglementé",
+			"il/elle": "a réglementé",
+			"nous": "avons réglementé",
+			"vous": "avez réglementé",
+			"ils/elles": "ont réglementé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais réglementé",
+			"tu": "avais réglementé",
+			"il/elle": "avait réglementé",
+			"nous": "avions réglementé",
+			"vous": "aviez réglementé",
+			"ils/elles": "avaient réglementé"
+		},
+		"passé antérieur": {
+			"j'": "eus réglementé",
+			"tu": "eus réglementé",
+			"il/elle": "eut réglementé",
+			"nous": "eûmes réglementé",
+			"vous": "eûtes réglementé",
+			"ils/elles": "eurent réglementé"
+		},
+		"futur antérieur": {
+			"j'": "aurai réglementé",
+			"tu": "auras réglementé",
+			"il/elle": "aura réglementé",
+			"nous": "aurons réglementé",
+			"vous": "aurez réglementé",
+			"ils/elles": "auront réglementé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous réglementiez",
+			"qu'il/elle": "réglemente",
+			"qu'ils/elles": "réglementent"
+		},
+		"imparfait": {
+			"que": "vous réglementassiez",
+			"qu'il/elle": "réglementât",
+			"qu'ils/elles": "réglementassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse réglementé",
+			"que": "vous eussiez réglementé",
+			"qu'il/elle": "eût réglementé",
+			"qu'ils/elles": "eussent réglementé"
+		},
+		"passé": {
+			"j'": "aie réglementé",
+			"que": "vous ayez réglementé",
+			"qu'il/elle": "ait réglementé",
+			"qu'ils/elles": "aient réglementé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "réglementerais",
+			"tu": "réglementerais",
+			"il/elle": "réglementerait",
+			"nous": "réglementerions",
+			"vous": "réglementeriez",
+			"ils/elles": "réglementeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais réglementé",
+			"tu": "aurais réglementé",
+			"il/elle": "aurait réglementé",
+			"nous": "aurions réglementé",
+			"vous": "auriez réglementé",
+			"ils/elles": "auraient réglementé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse réglementé",
+			"tu": "eusses réglementé",
+			"il/elle": "eût réglementé",
+			"nous": "eussions réglementé",
+			"vous": "eussiez réglementé",
+			"ils/elles": "eussent réglementé"
+		}
+	},
+	"participe": {
+		"présent": { "réglementant": "" },
+		"passé composé": { "ayant": "réglementé" },
+		"passé": {
+			"masc.sg.:": "réglementé",
+			"masc.pl.:": "réglementés",
+			"fém.sg.:": "réglementée",
+			"fém.pl.:": "réglementées"
+		}
+	},
+	"imperatif": {
+		"présent": { "réglemente": "", "réglementons": "", "réglementez": "" },
+		"passé": {
+			"aie": "réglementé",
+			"ayons": "réglementé",
+			"ayez": "réglementé"
+		}
+	},
+	"infinitif": {
+		"présent": { "réglementer": "" },
+		"passé": { "avoir": "réglementé" }
+	}
+}

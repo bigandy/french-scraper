@@ -1,0 +1,138 @@
+{
+	"name": "manger",
+	"definition": "eat; dine; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "se manger/ne pas manger/ne pas se manger",
+	"indicatif": {
+		"présent": {
+			"je": "mange",
+			"tu": "manges",
+			"il/elle": "mange",
+			"nous": "mangeons",
+			"vous": "mangez",
+			"ils/elles": "mangent"
+		},
+		"imparfait": {
+			"je": "mangeais",
+			"tu": "mangeais",
+			"il/elle": "mangeait",
+			"nous": "mangions",
+			"vous": "mangiez",
+			"ils/elles": "mangeaient"
+		},
+		"futur": {
+			"je": "mangerai",
+			"tu": "mangeras",
+			"il/elle": "mangera",
+			"nous": "mangerons",
+			"vous": "mangerez",
+			"ils/elles": "mangeront"
+		},
+		"passé simple": {
+			"je": "mangeai",
+			"tu": "mangeas",
+			"il/elle": "mangea",
+			"nous": "mangeâmes",
+			"vous": "mangeâtes",
+			"ils/elles": "mangèrent"
+		},
+		"passé composé": {
+			"j'": "ai mangé",
+			"tu": "as mangé",
+			"il/elle": "a mangé",
+			"nous": "avons mangé",
+			"vous": "avez mangé",
+			"ils/elles": "ont mangé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais mangé",
+			"tu": "avais mangé",
+			"il/elle": "avait mangé",
+			"nous": "avions mangé",
+			"vous": "aviez mangé",
+			"ils/elles": "avaient mangé"
+		},
+		"passé antérieur": {
+			"j'": "eus mangé",
+			"tu": "eus mangé",
+			"il/elle": "eut mangé",
+			"nous": "eûmes mangé",
+			"vous": "eûtes mangé",
+			"ils/elles": "eurent mangé"
+		},
+		"futur antérieur": {
+			"j'": "aurai mangé",
+			"tu": "auras mangé",
+			"il/elle": "aura mangé",
+			"nous": "aurons mangé",
+			"vous": "aurez mangé",
+			"ils/elles": "auront mangé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous mangiez",
+			"qu'il/elle": "mange",
+			"qu'ils/elles": "mangent"
+		},
+		"imparfait": {
+			"que": "vous mangeassiez",
+			"qu'il/elle": "mangeât",
+			"qu'ils/elles": "mangeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse mangé",
+			"que": "vous eussiez mangé",
+			"qu'il/elle": "eût mangé",
+			"qu'ils/elles": "eussent mangé"
+		},
+		"passé": {
+			"j'": "aie mangé",
+			"que": "vous ayez mangé",
+			"qu'il/elle": "ait mangé",
+			"qu'ils/elles": "aient mangé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "mangerais",
+			"tu": "mangerais",
+			"il/elle": "mangerait",
+			"nous": "mangerions",
+			"vous": "mangeriez",
+			"ils/elles": "mangeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais mangé",
+			"tu": "aurais mangé",
+			"il/elle": "aurait mangé",
+			"nous": "aurions mangé",
+			"vous": "auriez mangé",
+			"ils/elles": "auraient mangé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse mangé",
+			"tu": "eusses mangé",
+			"il/elle": "eût mangé",
+			"nous": "eussions mangé",
+			"vous": "eussiez mangé",
+			"ils/elles": "eussent mangé"
+		}
+	},
+	"participe": {
+		"présent": { "mangeant": "" },
+		"passé composé": { "ayant": "mangé" },
+		"passé": {
+			"masc.sg.:": "mangé",
+			"masc.pl.:": "mangés",
+			"fém.sg.:": "mangée",
+			"fém.pl.:": "mangées"
+		}
+	},
+	"imperatif": {
+		"présent": { "mange": "", "mangeons": "", "mangez": "" },
+		"passé": { "aie": "mangé", "ayons": "mangé", "ayez": "mangé" }
+	},
+	"infinitif": { "présent": { "manger": "" }, "passé": { "avoir": "mangé" } }
+}

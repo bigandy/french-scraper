@@ -1,0 +1,141 @@
+{
+	"name": "commencer",
+	"definition": "finance; fund; support; ...",
+	"model": "commencer",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas financer",
+	"indicatif": {
+		"présent": {
+			"je": "finance",
+			"tu": "finances",
+			"il/elle": "finance",
+			"nous": "finançons",
+			"vous": "financez",
+			"ils/elles": "financent"
+		},
+		"imparfait": {
+			"je": "finançais",
+			"tu": "finançais",
+			"il/elle": "finançait",
+			"nous": "financions",
+			"vous": "financiez",
+			"ils/elles": "finançaient"
+		},
+		"futur": {
+			"je": "financerai",
+			"tu": "financeras",
+			"il/elle": "financera",
+			"nous": "financerons",
+			"vous": "financerez",
+			"ils/elles": "financeront"
+		},
+		"passé simple": {
+			"je": "finançai",
+			"tu": "finanças",
+			"il/elle": "finança",
+			"nous": "finançâmes",
+			"vous": "finançâtes",
+			"ils/elles": "financèrent"
+		},
+		"passé composé": {
+			"j'": "ai financé",
+			"tu": "as financé",
+			"il/elle": "a financé",
+			"nous": "avons financé",
+			"vous": "avez financé",
+			"ils/elles": "ont financé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais financé",
+			"tu": "avais financé",
+			"il/elle": "avait financé",
+			"nous": "avions financé",
+			"vous": "aviez financé",
+			"ils/elles": "avaient financé"
+		},
+		"passé antérieur": {
+			"j'": "eus financé",
+			"tu": "eus financé",
+			"il/elle": "eut financé",
+			"nous": "eûmes financé",
+			"vous": "eûtes financé",
+			"ils/elles": "eurent financé"
+		},
+		"futur antérieur": {
+			"j'": "aurai financé",
+			"tu": "auras financé",
+			"il/elle": "aura financé",
+			"nous": "aurons financé",
+			"vous": "aurez financé",
+			"ils/elles": "auront financé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous financiez",
+			"qu'il/elle": "finance",
+			"qu'ils/elles": "financent"
+		},
+		"imparfait": {
+			"que": "vous finançassiez",
+			"qu'il/elle": "finançât",
+			"qu'ils/elles": "finançassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse financé",
+			"que": "vous eussiez financé",
+			"qu'il/elle": "eût financé",
+			"qu'ils/elles": "eussent financé"
+		},
+		"passé": {
+			"j'": "aie financé",
+			"que": "vous ayez financé",
+			"qu'il/elle": "ait financé",
+			"qu'ils/elles": "aient financé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "financerais",
+			"tu": "financerais",
+			"il/elle": "financerait",
+			"nous": "financerions",
+			"vous": "financeriez",
+			"ils/elles": "financeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais financé",
+			"tu": "aurais financé",
+			"il/elle": "aurait financé",
+			"nous": "aurions financé",
+			"vous": "auriez financé",
+			"ils/elles": "auraient financé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse financé",
+			"tu": "eusses financé",
+			"il/elle": "eût financé",
+			"nous": "eussions financé",
+			"vous": "eussiez financé",
+			"ils/elles": "eussent financé"
+		}
+	},
+	"participe": {
+		"présent": { "finançant": "" },
+		"passé composé": { "ayant": "financé" },
+		"passé": {
+			"masc.sg.:": "financé",
+			"masc.pl.:": "financés",
+			"fém.sg.:": "financée",
+			"fém.pl.:": "financées"
+		}
+	},
+	"imperatif": {
+		"présent": { "finance": "", "finançons": "", "financez": "" },
+		"passé": { "aie": "financé", "ayons": "financé", "ayez": "financé" }
+	},
+	"infinitif": {
+		"présent": { "financer": "" },
+		"passé": { "avoir": "financé" }
+	}
+}

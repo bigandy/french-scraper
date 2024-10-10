@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "embark; board; ship; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'embarquer/ne pas embarquer/ne pas s'embarquer",
+	"indicatif": {
+		"présent": {
+			"j'": "embarque",
+			"tu": "embarques",
+			"il/elle": "embarque",
+			"nous": "embarquons",
+			"vous": "embarquez",
+			"ils/elles": "embarquent"
+		},
+		"imparfait": {
+			"j'": "embarquais",
+			"tu": "embarquais",
+			"il/elle": "embarquait",
+			"nous": "embarquions",
+			"vous": "embarquiez",
+			"ils/elles": "embarquaient"
+		},
+		"futur": {
+			"j'": "embarquerai",
+			"tu": "embarqueras",
+			"il/elle": "embarquera",
+			"nous": "embarquerons",
+			"vous": "embarquerez",
+			"ils/elles": "embarqueront"
+		},
+		"passé simple": {
+			"j'": "embarquai",
+			"tu": "embarquas",
+			"il/elle": "embarqua",
+			"nous": "embarquâmes",
+			"vous": "embarquâtes",
+			"ils/elles": "embarquèrent"
+		},
+		"passé composé": {
+			"j'": "ai embarqué",
+			"tu": "as embarqué",
+			"il/elle": "a embarqué",
+			"nous": "avons embarqué",
+			"vous": "avez embarqué",
+			"ils/elles": "ont embarqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais embarqué",
+			"tu": "avais embarqué",
+			"il/elle": "avait embarqué",
+			"nous": "avions embarqué",
+			"vous": "aviez embarqué",
+			"ils/elles": "avaient embarqué"
+		},
+		"passé antérieur": {
+			"j'": "eus embarqué",
+			"tu": "eus embarqué",
+			"il/elle": "eut embarqué",
+			"nous": "eûmes embarqué",
+			"vous": "eûtes embarqué",
+			"ils/elles": "eurent embarqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai embarqué",
+			"tu": "auras embarqué",
+			"il/elle": "aura embarqué",
+			"nous": "aurons embarqué",
+			"vous": "aurez embarqué",
+			"ils/elles": "auront embarqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "embarque",
+			"que": "vous embarquiez",
+			"qu'il/elle": "embarque",
+			"qu'ils/elles": "embarquent"
+		},
+		"imparfait": {
+			"j'": "embarquasse",
+			"que": "vous embarquassiez",
+			"qu'il/elle": "embarquât",
+			"qu'ils/elles": "embarquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse embarqué",
+			"que": "vous eussiez embarqué",
+			"qu'il/elle": "eût embarqué",
+			"qu'ils/elles": "eussent embarqué"
+		},
+		"passé": {
+			"j'": "aie embarqué",
+			"que": "vous ayez embarqué",
+			"qu'il/elle": "ait embarqué",
+			"qu'ils/elles": "aient embarqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "embarquerais",
+			"tu": "embarquerais",
+			"il/elle": "embarquerait",
+			"nous": "embarquerions",
+			"vous": "embarqueriez",
+			"ils/elles": "embarqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais embarqué",
+			"tu": "aurais embarqué",
+			"il/elle": "aurait embarqué",
+			"nous": "aurions embarqué",
+			"vous": "auriez embarqué",
+			"ils/elles": "auraient embarqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse embarqué",
+			"tu": "eusses embarqué",
+			"il/elle": "eût embarqué",
+			"nous": "eussions embarqué",
+			"vous": "eussiez embarqué",
+			"ils/elles": "eussent embarqué"
+		}
+	},
+	"participe": {
+		"présent": { "embarquant": "" },
+		"passé composé": { "ayant": "embarqué" },
+		"passé": {
+			"masc.sg.:": "embarqué",
+			"masc.pl.:": "embarqués",
+			"fém.sg.:": "embarquée",
+			"fém.pl.:": "embarquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "embarque": "", "embarquons": "", "embarquez": "" },
+		"passé": { "aie": "embarqué", "ayons": "embarqué", "ayez": "embarqué" }
+	},
+	"infinitif": {
+		"présent": { "embarquer": "" },
+		"passé": { "avoir": "embarqué" }
+	}
+}

@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "be included; appear; figure; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se figurer/ne pas figurer/ne pas se figurer",
+	"indicatif": {
+		"présent": {
+			"je": "figure",
+			"tu": "figures",
+			"il/elle": "figure",
+			"nous": "figurons",
+			"vous": "figurez",
+			"ils/elles": "figurent"
+		},
+		"imparfait": {
+			"je": "figurais",
+			"tu": "figurais",
+			"il/elle": "figurait",
+			"nous": "figurions",
+			"vous": "figuriez",
+			"ils/elles": "figuraient"
+		},
+		"futur": {
+			"je": "figurerai",
+			"tu": "figureras",
+			"il/elle": "figurera",
+			"nous": "figurerons",
+			"vous": "figurerez",
+			"ils/elles": "figureront"
+		},
+		"passé simple": {
+			"je": "figurai",
+			"tu": "figuras",
+			"il/elle": "figura",
+			"nous": "figurâmes",
+			"vous": "figurâtes",
+			"ils/elles": "figurèrent"
+		},
+		"passé composé": {
+			"j'": "ai figuré",
+			"tu": "as figuré",
+			"il/elle": "a figuré",
+			"nous": "avons figuré",
+			"vous": "avez figuré",
+			"ils/elles": "ont figuré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais figuré",
+			"tu": "avais figuré",
+			"il/elle": "avait figuré",
+			"nous": "avions figuré",
+			"vous": "aviez figuré",
+			"ils/elles": "avaient figuré"
+		},
+		"passé antérieur": {
+			"j'": "eus figuré",
+			"tu": "eus figuré",
+			"il/elle": "eut figuré",
+			"nous": "eûmes figuré",
+			"vous": "eûtes figuré",
+			"ils/elles": "eurent figuré"
+		},
+		"futur antérieur": {
+			"j'": "aurai figuré",
+			"tu": "auras figuré",
+			"il/elle": "aura figuré",
+			"nous": "aurons figuré",
+			"vous": "aurez figuré",
+			"ils/elles": "auront figuré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous figuriez",
+			"qu'il/elle": "figure",
+			"qu'ils/elles": "figurent"
+		},
+		"imparfait": {
+			"que": "vous figurassiez",
+			"qu'il/elle": "figurât",
+			"qu'ils/elles": "figurassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse figuré",
+			"que": "vous eussiez figuré",
+			"qu'il/elle": "eût figuré",
+			"qu'ils/elles": "eussent figuré"
+		},
+		"passé": {
+			"j'": "aie figuré",
+			"que": "vous ayez figuré",
+			"qu'il/elle": "ait figuré",
+			"qu'ils/elles": "aient figuré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "figurerais",
+			"tu": "figurerais",
+			"il/elle": "figurerait",
+			"nous": "figurerions",
+			"vous": "figureriez",
+			"ils/elles": "figureraient"
+		},
+		"passé première forme": {
+			"j'": "aurais figuré",
+			"tu": "aurais figuré",
+			"il/elle": "aurait figuré",
+			"nous": "aurions figuré",
+			"vous": "auriez figuré",
+			"ils/elles": "auraient figuré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse figuré",
+			"tu": "eusses figuré",
+			"il/elle": "eût figuré",
+			"nous": "eussions figuré",
+			"vous": "eussiez figuré",
+			"ils/elles": "eussent figuré"
+		}
+	},
+	"participe": {
+		"présent": { "figurant": "" },
+		"passé composé": { "ayant": "figuré" },
+		"passé": {
+			"masc.sg.:": "figuré",
+			"masc.pl.:": "figurés",
+			"fém.sg.:": "figurée",
+			"fém.pl.:": "figurées"
+		}
+	},
+	"imperatif": {
+		"présent": { "figure": "", "figurons": "", "figurez": "" },
+		"passé": { "aie": "figuré", "ayons": "figuré", "ayez": "figuré" }
+	},
+	"infinitif": { "présent": { "figurer": "" }, "passé": { "avoir": "figuré" } }
+}

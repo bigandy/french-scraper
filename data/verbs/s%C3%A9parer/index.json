@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "separate; split up; segregate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se séparer/ne pas séparer/ne pas se séparer",
+	"indicatif": {
+		"présent": {
+			"je": "sépare",
+			"tu": "sépares",
+			"il/elle": "sépare",
+			"nous": "séparons",
+			"vous": "séparez",
+			"ils/elles": "séparent"
+		},
+		"imparfait": {
+			"je": "séparais",
+			"tu": "séparais",
+			"il/elle": "séparait",
+			"nous": "séparions",
+			"vous": "sépariez",
+			"ils/elles": "séparaient"
+		},
+		"futur": {
+			"je": "séparerai",
+			"tu": "sépareras",
+			"il/elle": "séparera",
+			"nous": "séparerons",
+			"vous": "séparerez",
+			"ils/elles": "sépareront"
+		},
+		"passé simple": {
+			"je": "séparai",
+			"tu": "séparas",
+			"il/elle": "sépara",
+			"nous": "séparâmes",
+			"vous": "séparâtes",
+			"ils/elles": "séparèrent"
+		},
+		"passé composé": {
+			"j'": "ai séparé",
+			"tu": "as séparé",
+			"il/elle": "a séparé",
+			"nous": "avons séparé",
+			"vous": "avez séparé",
+			"ils/elles": "ont séparé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais séparé",
+			"tu": "avais séparé",
+			"il/elle": "avait séparé",
+			"nous": "avions séparé",
+			"vous": "aviez séparé",
+			"ils/elles": "avaient séparé"
+		},
+		"passé antérieur": {
+			"j'": "eus séparé",
+			"tu": "eus séparé",
+			"il/elle": "eut séparé",
+			"nous": "eûmes séparé",
+			"vous": "eûtes séparé",
+			"ils/elles": "eurent séparé"
+		},
+		"futur antérieur": {
+			"j'": "aurai séparé",
+			"tu": "auras séparé",
+			"il/elle": "aura séparé",
+			"nous": "aurons séparé",
+			"vous": "aurez séparé",
+			"ils/elles": "auront séparé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous sépariez",
+			"qu'il/elle": "sépare",
+			"qu'ils/elles": "séparent"
+		},
+		"imparfait": {
+			"que": "vous séparassiez",
+			"qu'il/elle": "séparât",
+			"qu'ils/elles": "séparassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse séparé",
+			"que": "vous eussiez séparé",
+			"qu'il/elle": "eût séparé",
+			"qu'ils/elles": "eussent séparé"
+		},
+		"passé": {
+			"j'": "aie séparé",
+			"que": "vous ayez séparé",
+			"qu'il/elle": "ait séparé",
+			"qu'ils/elles": "aient séparé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "séparerais",
+			"tu": "séparerais",
+			"il/elle": "séparerait",
+			"nous": "séparerions",
+			"vous": "sépareriez",
+			"ils/elles": "sépareraient"
+		},
+		"passé première forme": {
+			"j'": "aurais séparé",
+			"tu": "aurais séparé",
+			"il/elle": "aurait séparé",
+			"nous": "aurions séparé",
+			"vous": "auriez séparé",
+			"ils/elles": "auraient séparé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse séparé",
+			"tu": "eusses séparé",
+			"il/elle": "eût séparé",
+			"nous": "eussions séparé",
+			"vous": "eussiez séparé",
+			"ils/elles": "eussent séparé"
+		}
+	},
+	"participe": {
+		"présent": { "séparant": "" },
+		"passé composé": { "ayant": "séparé" },
+		"passé": {
+			"masc.sg.:": "séparé",
+			"masc.pl.:": "séparés",
+			"fém.sg.:": "séparée",
+			"fém.pl.:": "séparées"
+		}
+	},
+	"imperatif": {
+		"présent": { "sépare": "", "séparons": "", "séparez": "" },
+		"passé": { "aie": "séparé", "ayons": "séparé", "ayez": "séparé" }
+	},
+	"infinitif": { "présent": { "séparer": "" }, "passé": { "avoir": "séparé" } }
+}

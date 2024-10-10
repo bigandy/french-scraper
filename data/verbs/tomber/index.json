@@ -1,0 +1,194 @@
+{
+	"name": "marcher",
+	"definition": "fall; drop; down; ...",
+	"model": "marcher",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "se tomber/ne pas tomber/ne pas se tomber",
+	"indicatif": {
+		"présent": {
+			"je": "tombe",
+			"tu": "tombes",
+			"il/elle": "tombe",
+			"nous": "tombons",
+			"vous": "tombez",
+			"ils/elles": "tombent"
+		},
+		"imparfait": {
+			"je": "tombais",
+			"tu": "tombais",
+			"il/elle": "tombait",
+			"nous": "tombions",
+			"vous": "tombiez",
+			"ils/elles": "tombaient"
+		},
+		"futur": {
+			"je": "tomberai",
+			"tu": "tomberas",
+			"il/elle": "tombera",
+			"nous": "tomberons",
+			"vous": "tomberez",
+			"ils/elles": "tomberont"
+		},
+		"passé simple": {
+			"je": "tombai",
+			"tu": "tombas",
+			"il/elle": "tomba",
+			"nous": "tombâmes",
+			"vous": "tombâtes",
+			"ils/elles": "tombèrent"
+		},
+		"passé composé": {
+			"j'": "ai tombé",
+			"tu": "es tombé",
+			"il/elle": "a tombé",
+			"nous": "sommes tombés",
+			"vous": "êtes tombés",
+			"ils/elles": "ont tombé",
+			"": "",
+			"je": "suis tombé",
+			"il": "est tombé",
+			"elle": "est tombée",
+			"ils": "sont tombés",
+			"elles": "sont tombées"
+		},
+		"plus-que-parfait": {
+			"j'": "étais tombé",
+			"tu": "étais tombé",
+			"il/elle": "avait tombé",
+			"nous": "étions tombés",
+			"vous": "étiez tombés",
+			"ils/elles": "avaient tombé",
+			"": "",
+			"il": "était tombé",
+			"elle": "était tombée",
+			"ils": "étaient tombés",
+			"elles": "étaient tombées"
+		},
+		"passé antérieur": {
+			"j'": "eus tombé",
+			"tu": "fus tombé",
+			"il/elle": "eut tombé",
+			"nous": "fûmes tombés",
+			"vous": "fûtes tombés",
+			"ils/elles": "eurent tombé",
+			"": "",
+			"je": "fus tombé",
+			"il": "fut tombé",
+			"elle": "fut tombée",
+			"ils": "furent tombés",
+			"elles": "furent tombées"
+		},
+		"futur antérieur": {
+			"j'": "aurai tombé",
+			"tu": "seras tombé",
+			"il/elle": "aura tombé",
+			"nous": "serons tombés",
+			"vous": "serez tombés",
+			"ils/elles": "auront tombé",
+			"": "",
+			"je": "serai tombé",
+			"il": "sera tombé",
+			"elle": "sera tombée",
+			"ils": "seront tombés",
+			"elles": "seront tombées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous tombiez",
+			"qu'il/elle": "tombe",
+			"qu'ils/elles": "tombent"
+		},
+		"imparfait": {
+			"que": "vous tombassiez",
+			"qu'il/elle": "tombât",
+			"qu'ils/elles": "tombassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse tombé",
+			"que": "vous fussiez tombés",
+			"qu'il/elle": "eût tombé",
+			"qu'ils/elles": "eussent tombé",
+			"": "",
+			"qu'il": "fût tombé",
+			"qu'elle": "fût tombée",
+			"qu'ils": "fussent tombés",
+			"qu'elles": "fussent tombées"
+		},
+		"passé": {
+			"j'": "aie tombé",
+			"que": "vous soyez tombés",
+			"qu'il/elle": "ait tombé",
+			"qu'ils/elles": "aient tombé",
+			"": "",
+			"qu'il": "soit tombé",
+			"qu'elle": "soit tombée",
+			"qu'ils": "soient tombés",
+			"qu'elles": "soient tombées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "tomberais",
+			"tu": "tomberais",
+			"il/elle": "tomberait",
+			"nous": "tomberions",
+			"vous": "tomberiez",
+			"ils/elles": "tomberaient"
+		},
+		"passé première forme": {
+			"j'": "aurais tombé",
+			"tu": "serais tombé",
+			"il/elle": "aurait tombé",
+			"nous": "serions tombés",
+			"vous": "seriez tombés",
+			"ils/elles": "auraient tombé",
+			"": "",
+			"je": "serais tombé",
+			"il": "serait tombé",
+			"elle": "serait tombée",
+			"ils": "seraient tombés",
+			"elles": "seraient tombées"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse tombé",
+			"tu": "fusses tombé",
+			"il/elle": "eût tombé",
+			"nous": "fussions tombés",
+			"vous": "fussiez tombés",
+			"ils/elles": "eussent tombé",
+			"": "",
+			"je": "fusse tombé",
+			"il": "fût tombé",
+			"elle": "fût tombée",
+			"ils": "fussent tombés",
+			"elles": "fussent tombées"
+		}
+	},
+	"participe": {
+		"présent": { "tombant": "" },
+		"passé composé": { "ayant": "tombé", "": "", "étant": "tombée" },
+		"passé": {
+			"masc.sg.:": "tombé",
+			"masc.pl.:": "tombés",
+			"fém.sg.:": "tombée",
+			"fém.pl.:": "tombées"
+		}
+	},
+	"imperatif": {
+		"présent": { "tombe": "", "tombons": "", "tombez": "" },
+		"passé": {
+			"aie": "tombé",
+			"ayons": "tombé",
+			"ayez": "tombé",
+			"": "",
+			"sois": "tombé",
+			"soyons": "tombé",
+			"soyez": "tombé"
+		}
+	},
+	"infinitif": {
+		"présent": { "tomber": "" },
+		"passé": { "avoir": "tombé", "": "", "être": "tombé" }
+	}
+}

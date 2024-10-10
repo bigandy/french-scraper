@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "present; submit; introduce; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se présenter/ne pas présenter/ne pas se présenter",
+	"indicatif": {
+		"présent": {
+			"je": "présente",
+			"tu": "présentes",
+			"il/elle": "présente",
+			"nous": "présentons",
+			"vous": "présentez",
+			"ils/elles": "présentent"
+		},
+		"imparfait": {
+			"je": "présentais",
+			"tu": "présentais",
+			"il/elle": "présentait",
+			"nous": "présentions",
+			"vous": "présentiez",
+			"ils/elles": "présentaient"
+		},
+		"futur": {
+			"je": "présenterai",
+			"tu": "présenteras",
+			"il/elle": "présentera",
+			"nous": "présenterons",
+			"vous": "présenterez",
+			"ils/elles": "présenteront"
+		},
+		"passé simple": {
+			"je": "présentai",
+			"tu": "présentas",
+			"il/elle": "présenta",
+			"nous": "présentâmes",
+			"vous": "présentâtes",
+			"ils/elles": "présentèrent"
+		},
+		"passé composé": {
+			"j'": "ai présenté",
+			"tu": "as présenté",
+			"il/elle": "a présenté",
+			"nous": "avons présenté",
+			"vous": "avez présenté",
+			"ils/elles": "ont présenté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais présenté",
+			"tu": "avais présenté",
+			"il/elle": "avait présenté",
+			"nous": "avions présenté",
+			"vous": "aviez présenté",
+			"ils/elles": "avaient présenté"
+		},
+		"passé antérieur": {
+			"j'": "eus présenté",
+			"tu": "eus présenté",
+			"il/elle": "eut présenté",
+			"nous": "eûmes présenté",
+			"vous": "eûtes présenté",
+			"ils/elles": "eurent présenté"
+		},
+		"futur antérieur": {
+			"j'": "aurai présenté",
+			"tu": "auras présenté",
+			"il/elle": "aura présenté",
+			"nous": "aurons présenté",
+			"vous": "aurez présenté",
+			"ils/elles": "auront présenté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous présentiez",
+			"qu'il/elle": "présente",
+			"qu'ils/elles": "présentent"
+		},
+		"imparfait": {
+			"que": "vous présentassiez",
+			"qu'il/elle": "présentât",
+			"qu'ils/elles": "présentassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse présenté",
+			"que": "vous eussiez présenté",
+			"qu'il/elle": "eût présenté",
+			"qu'ils/elles": "eussent présenté"
+		},
+		"passé": {
+			"j'": "aie présenté",
+			"que": "vous ayez présenté",
+			"qu'il/elle": "ait présenté",
+			"qu'ils/elles": "aient présenté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "présenterais",
+			"tu": "présenterais",
+			"il/elle": "présenterait",
+			"nous": "présenterions",
+			"vous": "présenteriez",
+			"ils/elles": "présenteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais présenté",
+			"tu": "aurais présenté",
+			"il/elle": "aurait présenté",
+			"nous": "aurions présenté",
+			"vous": "auriez présenté",
+			"ils/elles": "auraient présenté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse présenté",
+			"tu": "eusses présenté",
+			"il/elle": "eût présenté",
+			"nous": "eussions présenté",
+			"vous": "eussiez présenté",
+			"ils/elles": "eussent présenté"
+		}
+	},
+	"participe": {
+		"présent": { "présentant": "" },
+		"passé composé": { "ayant": "présenté" },
+		"passé": {
+			"masc.sg.:": "présenté",
+			"masc.pl.:": "présentés",
+			"fém.sg.:": "présentée",
+			"fém.pl.:": "présentées"
+		}
+	},
+	"imperatif": {
+		"présent": { "présente": "", "présentons": "", "présentez": "" },
+		"passé": { "aie": "présenté", "ayons": "présenté", "ayez": "présenté" }
+	},
+	"infinitif": {
+		"présent": { "présenter": "" },
+		"passé": { "avoir": "présenté" }
+	}
+}

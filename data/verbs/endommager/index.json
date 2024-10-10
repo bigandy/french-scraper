@@ -1,0 +1,143 @@
+{
+	"name": "manger",
+	"definition": "damage; harm; cause damage; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "s'endommager/ne pas endommager/ne pas s'endommager",
+	"indicatif": {
+		"présent": {
+			"j'": "endommage",
+			"tu": "endommages",
+			"il/elle": "endommage",
+			"nous": "endommageons",
+			"vous": "endommagez",
+			"ils/elles": "endommagent"
+		},
+		"imparfait": {
+			"j'": "endommageais",
+			"tu": "endommageais",
+			"il/elle": "endommageait",
+			"nous": "endommagions",
+			"vous": "endommagiez",
+			"ils/elles": "endommageaient"
+		},
+		"futur": {
+			"j'": "endommagerai",
+			"tu": "endommageras",
+			"il/elle": "endommagera",
+			"nous": "endommagerons",
+			"vous": "endommagerez",
+			"ils/elles": "endommageront"
+		},
+		"passé simple": {
+			"j'": "endommageai",
+			"tu": "endommageas",
+			"il/elle": "endommagea",
+			"nous": "endommageâmes",
+			"vous": "endommageâtes",
+			"ils/elles": "endommagèrent"
+		},
+		"passé composé": {
+			"j'": "ai endommagé",
+			"tu": "as endommagé",
+			"il/elle": "a endommagé",
+			"nous": "avons endommagé",
+			"vous": "avez endommagé",
+			"ils/elles": "ont endommagé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais endommagé",
+			"tu": "avais endommagé",
+			"il/elle": "avait endommagé",
+			"nous": "avions endommagé",
+			"vous": "aviez endommagé",
+			"ils/elles": "avaient endommagé"
+		},
+		"passé antérieur": {
+			"j'": "eus endommagé",
+			"tu": "eus endommagé",
+			"il/elle": "eut endommagé",
+			"nous": "eûmes endommagé",
+			"vous": "eûtes endommagé",
+			"ils/elles": "eurent endommagé"
+		},
+		"futur antérieur": {
+			"j'": "aurai endommagé",
+			"tu": "auras endommagé",
+			"il/elle": "aura endommagé",
+			"nous": "aurons endommagé",
+			"vous": "aurez endommagé",
+			"ils/elles": "auront endommagé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "endommage",
+			"que": "vous endommagiez",
+			"qu'il/elle": "endommage",
+			"qu'ils/elles": "endommagent"
+		},
+		"imparfait": {
+			"j'": "endommageasse",
+			"que": "vous endommageassiez",
+			"qu'il/elle": "endommageât",
+			"qu'ils/elles": "endommageassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse endommagé",
+			"que": "vous eussiez endommagé",
+			"qu'il/elle": "eût endommagé",
+			"qu'ils/elles": "eussent endommagé"
+		},
+		"passé": {
+			"j'": "aie endommagé",
+			"que": "vous ayez endommagé",
+			"qu'il/elle": "ait endommagé",
+			"qu'ils/elles": "aient endommagé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "endommagerais",
+			"tu": "endommagerais",
+			"il/elle": "endommagerait",
+			"nous": "endommagerions",
+			"vous": "endommageriez",
+			"ils/elles": "endommageraient"
+		},
+		"passé première forme": {
+			"j'": "aurais endommagé",
+			"tu": "aurais endommagé",
+			"il/elle": "aurait endommagé",
+			"nous": "aurions endommagé",
+			"vous": "auriez endommagé",
+			"ils/elles": "auraient endommagé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse endommagé",
+			"tu": "eusses endommagé",
+			"il/elle": "eût endommagé",
+			"nous": "eussions endommagé",
+			"vous": "eussiez endommagé",
+			"ils/elles": "eussent endommagé"
+		}
+	},
+	"participe": {
+		"présent": { "endommageant": "" },
+		"passé composé": { "ayant": "endommagé" },
+		"passé": {
+			"masc.sg.:": "endommagé",
+			"masc.pl.:": "endommagés",
+			"fém.sg.:": "endommagée",
+			"fém.pl.:": "endommagées"
+		}
+	},
+	"imperatif": {
+		"présent": { "endommage": "", "endommageons": "", "endommagez": "" },
+		"passé": { "aie": "endommagé", "ayons": "endommagé", "ayez": "endommagé" }
+	},
+	"infinitif": {
+		"présent": { "endommager": "" },
+		"passé": { "avoir": "endommagé" }
+	}
+}

@@ -1,0 +1,138 @@
+{
+	"name": "manger",
+	"definition": "travel; journey; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "se voyager/ne pas voyager/ne pas se voyager",
+	"indicatif": {
+		"présent": {
+			"je": "voyage",
+			"tu": "voyages",
+			"il/elle": "voyage",
+			"nous": "voyageons",
+			"vous": "voyagez",
+			"ils/elles": "voyagent"
+		},
+		"imparfait": {
+			"je": "voyageais",
+			"tu": "voyageais",
+			"il/elle": "voyageait",
+			"nous": "voyagions",
+			"vous": "voyagiez",
+			"ils/elles": "voyageaient"
+		},
+		"futur": {
+			"je": "voyagerai",
+			"tu": "voyageras",
+			"il/elle": "voyagera",
+			"nous": "voyagerons",
+			"vous": "voyagerez",
+			"ils/elles": "voyageront"
+		},
+		"passé simple": {
+			"je": "voyageai",
+			"tu": "voyageas",
+			"il/elle": "voyagea",
+			"nous": "voyageâmes",
+			"vous": "voyageâtes",
+			"ils/elles": "voyagèrent"
+		},
+		"passé composé": {
+			"j'": "ai voyagé",
+			"tu": "as voyagé",
+			"il/elle": "a voyagé",
+			"nous": "avons voyagé",
+			"vous": "avez voyagé",
+			"ils/elles": "ont voyagé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais voyagé",
+			"tu": "avais voyagé",
+			"il/elle": "avait voyagé",
+			"nous": "avions voyagé",
+			"vous": "aviez voyagé",
+			"ils/elles": "avaient voyagé"
+		},
+		"passé antérieur": {
+			"j'": "eus voyagé",
+			"tu": "eus voyagé",
+			"il/elle": "eut voyagé",
+			"nous": "eûmes voyagé",
+			"vous": "eûtes voyagé",
+			"ils/elles": "eurent voyagé"
+		},
+		"futur antérieur": {
+			"j'": "aurai voyagé",
+			"tu": "auras voyagé",
+			"il/elle": "aura voyagé",
+			"nous": "aurons voyagé",
+			"vous": "aurez voyagé",
+			"ils/elles": "auront voyagé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous voyagiez",
+			"qu'il/elle": "voyage",
+			"qu'ils/elles": "voyagent"
+		},
+		"imparfait": {
+			"que": "vous voyageassiez",
+			"qu'il/elle": "voyageât",
+			"qu'ils/elles": "voyageassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse voyagé",
+			"que": "vous eussiez voyagé",
+			"qu'il/elle": "eût voyagé",
+			"qu'ils/elles": "eussent voyagé"
+		},
+		"passé": {
+			"j'": "aie voyagé",
+			"que": "vous ayez voyagé",
+			"qu'il/elle": "ait voyagé",
+			"qu'ils/elles": "aient voyagé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "voyagerais",
+			"tu": "voyagerais",
+			"il/elle": "voyagerait",
+			"nous": "voyagerions",
+			"vous": "voyageriez",
+			"ils/elles": "voyageraient"
+		},
+		"passé première forme": {
+			"j'": "aurais voyagé",
+			"tu": "aurais voyagé",
+			"il/elle": "aurait voyagé",
+			"nous": "aurions voyagé",
+			"vous": "auriez voyagé",
+			"ils/elles": "auraient voyagé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse voyagé",
+			"tu": "eusses voyagé",
+			"il/elle": "eût voyagé",
+			"nous": "eussions voyagé",
+			"vous": "eussiez voyagé",
+			"ils/elles": "eussent voyagé"
+		}
+	},
+	"participe": {
+		"présent": { "voyageant": "" },
+		"passé composé": { "ayant": "voyagé" },
+		"passé": {
+			"masc.sg.:": "voyagé",
+			"masc.pl.:": "voyagés",
+			"fém.sg.:": "voyagée",
+			"fém.pl.:": "voyagées"
+		}
+	},
+	"imperatif": {
+		"présent": { "voyage": "", "voyageons": "", "voyagez": "" },
+		"passé": { "aie": "voyagé", "ayons": "voyagé", "ayez": "voyagé" }
+	},
+	"infinitif": { "présent": { "voyager": "" }, "passé": { "avoir": "voyagé" } }
+}

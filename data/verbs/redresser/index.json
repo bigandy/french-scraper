@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "redress; straighten; rectify; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se redresser/ne pas redresser/ne pas se redresser",
+	"indicatif": {
+		"présent": {
+			"je": "redresse",
+			"tu": "redresses",
+			"il/elle": "redresse",
+			"nous": "redressons",
+			"vous": "redressez",
+			"ils/elles": "redressent"
+		},
+		"imparfait": {
+			"je": "redressais",
+			"tu": "redressais",
+			"il/elle": "redressait",
+			"nous": "redressions",
+			"vous": "redressiez",
+			"ils/elles": "redressaient"
+		},
+		"futur": {
+			"je": "redresserai",
+			"tu": "redresseras",
+			"il/elle": "redressera",
+			"nous": "redresserons",
+			"vous": "redresserez",
+			"ils/elles": "redresseront"
+		},
+		"passé simple": {
+			"je": "redressai",
+			"tu": "redressas",
+			"il/elle": "redressa",
+			"nous": "redressâmes",
+			"vous": "redressâtes",
+			"ils/elles": "redressèrent"
+		},
+		"passé composé": {
+			"j'": "ai redressé",
+			"tu": "as redressé",
+			"il/elle": "a redressé",
+			"nous": "avons redressé",
+			"vous": "avez redressé",
+			"ils/elles": "ont redressé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais redressé",
+			"tu": "avais redressé",
+			"il/elle": "avait redressé",
+			"nous": "avions redressé",
+			"vous": "aviez redressé",
+			"ils/elles": "avaient redressé"
+		},
+		"passé antérieur": {
+			"j'": "eus redressé",
+			"tu": "eus redressé",
+			"il/elle": "eut redressé",
+			"nous": "eûmes redressé",
+			"vous": "eûtes redressé",
+			"ils/elles": "eurent redressé"
+		},
+		"futur antérieur": {
+			"j'": "aurai redressé",
+			"tu": "auras redressé",
+			"il/elle": "aura redressé",
+			"nous": "aurons redressé",
+			"vous": "aurez redressé",
+			"ils/elles": "auront redressé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous redressiez",
+			"qu'il/elle": "redresse",
+			"qu'ils/elles": "redressent"
+		},
+		"imparfait": {
+			"que": "vous redressassiez",
+			"qu'il/elle": "redressât",
+			"qu'ils/elles": "redressassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse redressé",
+			"que": "vous eussiez redressé",
+			"qu'il/elle": "eût redressé",
+			"qu'ils/elles": "eussent redressé"
+		},
+		"passé": {
+			"j'": "aie redressé",
+			"que": "vous ayez redressé",
+			"qu'il/elle": "ait redressé",
+			"qu'ils/elles": "aient redressé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "redresserais",
+			"tu": "redresserais",
+			"il/elle": "redresserait",
+			"nous": "redresserions",
+			"vous": "redresseriez",
+			"ils/elles": "redresseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais redressé",
+			"tu": "aurais redressé",
+			"il/elle": "aurait redressé",
+			"nous": "aurions redressé",
+			"vous": "auriez redressé",
+			"ils/elles": "auraient redressé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse redressé",
+			"tu": "eusses redressé",
+			"il/elle": "eût redressé",
+			"nous": "eussions redressé",
+			"vous": "eussiez redressé",
+			"ils/elles": "eussent redressé"
+		}
+	},
+	"participe": {
+		"présent": { "redressant": "" },
+		"passé composé": { "ayant": "redressé" },
+		"passé": {
+			"masc.sg.:": "redressé",
+			"masc.pl.:": "redressés",
+			"fém.sg.:": "redressée",
+			"fém.pl.:": "redressées"
+		}
+	},
+	"imperatif": {
+		"présent": { "redresse": "", "redressons": "", "redressez": "" },
+		"passé": { "aie": "redressé", "ayons": "redressé", "ayez": "redressé" }
+	},
+	"infinitif": {
+		"présent": { "redresser": "" },
+		"passé": { "avoir": "redressé" }
+	}
+}

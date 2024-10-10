@@ -1,0 +1,138 @@
+{
+	"name": "finir",
+	"definition": "heal; cure; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se guérir/ne pas guérir/ne pas se guérir",
+	"indicatif": {
+		"présent": {
+			"je": "guéris",
+			"tu": "guéris",
+			"il/elle": "guérit",
+			"nous": "guérissons",
+			"vous": "guérissez",
+			"ils/elles": "guérissent"
+		},
+		"imparfait": {
+			"je": "guérissais",
+			"tu": "guérissais",
+			"il/elle": "guérissait",
+			"nous": "guérissions",
+			"vous": "guérissiez",
+			"ils/elles": "guérissaient"
+		},
+		"futur": {
+			"je": "guérirai",
+			"tu": "guériras",
+			"il/elle": "guérira",
+			"nous": "guérirons",
+			"vous": "guérirez",
+			"ils/elles": "guériront"
+		},
+		"passé simple": {
+			"je": "guéris",
+			"tu": "guéris",
+			"il/elle": "guérit",
+			"nous": "guérîmes",
+			"vous": "guérîtes",
+			"ils/elles": "guérirent"
+		},
+		"passé composé": {
+			"j'": "ai guéri",
+			"tu": "as guéri",
+			"il/elle": "a guéri",
+			"nous": "avons guéri",
+			"vous": "avez guéri",
+			"ils/elles": "ont guéri"
+		},
+		"plus-que-parfait": {
+			"j'": "avais guéri",
+			"tu": "avais guéri",
+			"il/elle": "avait guéri",
+			"nous": "avions guéri",
+			"vous": "aviez guéri",
+			"ils/elles": "avaient guéri"
+		},
+		"passé antérieur": {
+			"j'": "eus guéri",
+			"tu": "eus guéri",
+			"il/elle": "eut guéri",
+			"nous": "eûmes guéri",
+			"vous": "eûtes guéri",
+			"ils/elles": "eurent guéri"
+		},
+		"futur antérieur": {
+			"j'": "aurai guéri",
+			"tu": "auras guéri",
+			"il/elle": "aura guéri",
+			"nous": "aurons guéri",
+			"vous": "aurez guéri",
+			"ils/elles": "auront guéri"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous guérissiez",
+			"qu'il/elle": "guérisse",
+			"qu'ils/elles": "guérissent"
+		},
+		"imparfait": {
+			"que": "vous guérissiez",
+			"qu'il/elle": "guérît",
+			"qu'ils/elles": "guérissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse guéri",
+			"que": "vous eussiez guéri",
+			"qu'il/elle": "eût guéri",
+			"qu'ils/elles": "eussent guéri"
+		},
+		"passé": {
+			"j'": "aie guéri",
+			"que": "vous ayez guéri",
+			"qu'il/elle": "ait guéri",
+			"qu'ils/elles": "aient guéri"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "guérirais",
+			"tu": "guérirais",
+			"il/elle": "guérirait",
+			"nous": "guéririons",
+			"vous": "guéririez",
+			"ils/elles": "guériraient"
+		},
+		"passé première forme": {
+			"j'": "aurais guéri",
+			"tu": "aurais guéri",
+			"il/elle": "aurait guéri",
+			"nous": "aurions guéri",
+			"vous": "auriez guéri",
+			"ils/elles": "auraient guéri"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse guéri",
+			"tu": "eusses guéri",
+			"il/elle": "eût guéri",
+			"nous": "eussions guéri",
+			"vous": "eussiez guéri",
+			"ils/elles": "eussent guéri"
+		}
+	},
+	"participe": {
+		"présent": { "guérissant": "" },
+		"passé composé": { "ayant": "guéri" },
+		"passé": {
+			"masc.sg.:": "guéri",
+			"masc.pl.:": "guéris",
+			"fém.sg.:": "guérie",
+			"fém.pl.:": "guéries"
+		}
+	},
+	"imperatif": {
+		"présent": { "guéris": "", "guérissons": "", "guérissez": "" },
+		"passé": { "aie": "guéri", "ayons": "guéri", "ayez": "guéri" }
+	},
+	"infinitif": { "présent": { "guérir": "" }, "passé": { "avoir": "guéri" } }
+}

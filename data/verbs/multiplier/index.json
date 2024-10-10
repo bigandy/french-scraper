@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "multiply; increase; expand; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se multiplier/ne pas multiplier/ne pas se multiplier",
+	"indicatif": {
+		"présent": {
+			"je": "multiplie",
+			"tu": "multiplies",
+			"il/elle": "multiplie",
+			"nous": "multiplions",
+			"vous": "multipliez",
+			"ils/elles": "multiplient"
+		},
+		"imparfait": {
+			"je": "multipliais",
+			"tu": "multipliais",
+			"il/elle": "multipliait",
+			"nous": "multipliions",
+			"vous": "multipliiez",
+			"ils/elles": "multipliaient"
+		},
+		"futur": {
+			"je": "multiplierai",
+			"tu": "multiplieras",
+			"il/elle": "multipliera",
+			"nous": "multiplierons",
+			"vous": "multiplierez",
+			"ils/elles": "multiplieront"
+		},
+		"passé simple": {
+			"je": "multipliai",
+			"tu": "multiplias",
+			"il/elle": "multiplia",
+			"nous": "multipliâmes",
+			"vous": "multipliâtes",
+			"ils/elles": "multiplièrent"
+		},
+		"passé composé": {
+			"j'": "ai multiplié",
+			"tu": "as multiplié",
+			"il/elle": "a multiplié",
+			"nous": "avons multiplié",
+			"vous": "avez multiplié",
+			"ils/elles": "ont multiplié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais multiplié",
+			"tu": "avais multiplié",
+			"il/elle": "avait multiplié",
+			"nous": "avions multiplié",
+			"vous": "aviez multiplié",
+			"ils/elles": "avaient multiplié"
+		},
+		"passé antérieur": {
+			"j'": "eus multiplié",
+			"tu": "eus multiplié",
+			"il/elle": "eut multiplié",
+			"nous": "eûmes multiplié",
+			"vous": "eûtes multiplié",
+			"ils/elles": "eurent multiplié"
+		},
+		"futur antérieur": {
+			"j'": "aurai multiplié",
+			"tu": "auras multiplié",
+			"il/elle": "aura multiplié",
+			"nous": "aurons multiplié",
+			"vous": "aurez multiplié",
+			"ils/elles": "auront multiplié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous multipliiez",
+			"qu'il/elle": "multiplie",
+			"qu'ils/elles": "multiplient"
+		},
+		"imparfait": {
+			"que": "vous multipliassiez",
+			"qu'il/elle": "multipliât",
+			"qu'ils/elles": "multipliassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse multiplié",
+			"que": "vous eussiez multiplié",
+			"qu'il/elle": "eût multiplié",
+			"qu'ils/elles": "eussent multiplié"
+		},
+		"passé": {
+			"j'": "aie multiplié",
+			"que": "vous ayez multiplié",
+			"qu'il/elle": "ait multiplié",
+			"qu'ils/elles": "aient multiplié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "multiplierais",
+			"tu": "multiplierais",
+			"il/elle": "multiplierait",
+			"nous": "multiplierions",
+			"vous": "multiplieriez",
+			"ils/elles": "multiplieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais multiplié",
+			"tu": "aurais multiplié",
+			"il/elle": "aurait multiplié",
+			"nous": "aurions multiplié",
+			"vous": "auriez multiplié",
+			"ils/elles": "auraient multiplié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse multiplié",
+			"tu": "eusses multiplié",
+			"il/elle": "eût multiplié",
+			"nous": "eussions multiplié",
+			"vous": "eussiez multiplié",
+			"ils/elles": "eussent multiplié"
+		}
+	},
+	"participe": {
+		"présent": { "multipliant": "" },
+		"passé composé": { "ayant": "multiplié" },
+		"passé": {
+			"masc.sg.:": "multiplié",
+			"masc.pl.:": "multipliés",
+			"fém.sg.:": "multipliée",
+			"fém.pl.:": "multipliées"
+		}
+	},
+	"imperatif": {
+		"présent": { "multiplie": "", "multiplions": "", "multipliez": "" },
+		"passé": { "aie": "multiplié", "ayons": "multiplié", "ayez": "multiplié" }
+	},
+	"infinitif": {
+		"présent": { "multiplier": "" },
+		"passé": { "avoir": "multiplié" }
+	}
+}

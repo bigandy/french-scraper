@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "congratulate; commend; welcome; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se féliciter/ne pas féliciter/ne pas se féliciter",
+	"indicatif": {
+		"présent": {
+			"je": "félicite",
+			"tu": "félicites",
+			"il/elle": "félicite",
+			"nous": "félicitons",
+			"vous": "félicitez",
+			"ils/elles": "félicitent"
+		},
+		"imparfait": {
+			"je": "félicitais",
+			"tu": "félicitais",
+			"il/elle": "félicitait",
+			"nous": "félicitions",
+			"vous": "félicitiez",
+			"ils/elles": "félicitaient"
+		},
+		"futur": {
+			"je": "féliciterai",
+			"tu": "féliciteras",
+			"il/elle": "félicitera",
+			"nous": "féliciterons",
+			"vous": "féliciterez",
+			"ils/elles": "féliciteront"
+		},
+		"passé simple": {
+			"je": "félicitai",
+			"tu": "félicitas",
+			"il/elle": "félicita",
+			"nous": "félicitâmes",
+			"vous": "félicitâtes",
+			"ils/elles": "félicitèrent"
+		},
+		"passé composé": {
+			"j'": "ai félicité",
+			"tu": "as félicité",
+			"il/elle": "a félicité",
+			"nous": "avons félicité",
+			"vous": "avez félicité",
+			"ils/elles": "ont félicité"
+		},
+		"plus-que-parfait": {
+			"j'": "avais félicité",
+			"tu": "avais félicité",
+			"il/elle": "avait félicité",
+			"nous": "avions félicité",
+			"vous": "aviez félicité",
+			"ils/elles": "avaient félicité"
+		},
+		"passé antérieur": {
+			"j'": "eus félicité",
+			"tu": "eus félicité",
+			"il/elle": "eut félicité",
+			"nous": "eûmes félicité",
+			"vous": "eûtes félicité",
+			"ils/elles": "eurent félicité"
+		},
+		"futur antérieur": {
+			"j'": "aurai félicité",
+			"tu": "auras félicité",
+			"il/elle": "aura félicité",
+			"nous": "aurons félicité",
+			"vous": "aurez félicité",
+			"ils/elles": "auront félicité"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous félicitiez",
+			"qu'il/elle": "félicite",
+			"qu'ils/elles": "félicitent"
+		},
+		"imparfait": {
+			"que": "vous félicitassiez",
+			"qu'il/elle": "félicitât",
+			"qu'ils/elles": "félicitassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse félicité",
+			"que": "vous eussiez félicité",
+			"qu'il/elle": "eût félicité",
+			"qu'ils/elles": "eussent félicité"
+		},
+		"passé": {
+			"j'": "aie félicité",
+			"que": "vous ayez félicité",
+			"qu'il/elle": "ait félicité",
+			"qu'ils/elles": "aient félicité"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "féliciterais",
+			"tu": "féliciterais",
+			"il/elle": "féliciterait",
+			"nous": "féliciterions",
+			"vous": "féliciteriez",
+			"ils/elles": "féliciteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais félicité",
+			"tu": "aurais félicité",
+			"il/elle": "aurait félicité",
+			"nous": "aurions félicité",
+			"vous": "auriez félicité",
+			"ils/elles": "auraient félicité"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse félicité",
+			"tu": "eusses félicité",
+			"il/elle": "eût félicité",
+			"nous": "eussions félicité",
+			"vous": "eussiez félicité",
+			"ils/elles": "eussent félicité"
+		}
+	},
+	"participe": {
+		"présent": { "félicitant": "" },
+		"passé composé": { "ayant": "félicité" },
+		"passé": {
+			"masc.sg.:": "félicité",
+			"masc.pl.:": "félicités",
+			"fém.sg.:": "félicitée",
+			"fém.pl.:": "félicitées"
+		}
+	},
+	"imperatif": {
+		"présent": { "félicite": "", "félicitons": "", "félicitez": "" },
+		"passé": { "aie": "félicité", "ayons": "félicité", "ayez": "félicité" }
+	},
+	"infinitif": {
+		"présent": { "féliciter": "" },
+		"passé": { "avoir": "félicité" }
+	}
+}

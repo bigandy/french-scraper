@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se jeuner/ne pas jeuner/ne pas se jeuner",
+	"indicatif": {
+		"présent": {
+			"je": "jeune",
+			"tu": "jeunes",
+			"il/elle": "jeune",
+			"nous": "jeunons",
+			"vous": "jeunez",
+			"ils/elles": "jeunent"
+		},
+		"imparfait": {
+			"je": "jeunais",
+			"tu": "jeunais",
+			"il/elle": "jeunait",
+			"nous": "jeunions",
+			"vous": "jeuniez",
+			"ils/elles": "jeunaient"
+		},
+		"futur": {
+			"je": "jeunerai",
+			"tu": "jeuneras",
+			"il/elle": "jeunera",
+			"nous": "jeunerons",
+			"vous": "jeunerez",
+			"ils/elles": "jeuneront"
+		},
+		"passé simple": {
+			"je": "jeunai",
+			"tu": "jeunas",
+			"il/elle": "jeuna",
+			"nous": "jeunâmes",
+			"vous": "jeunâtes",
+			"ils/elles": "jeunèrent"
+		},
+		"passé composé": {
+			"j'": "ai jeuné",
+			"tu": "as jeuné",
+			"il/elle": "a jeuné",
+			"nous": "avons jeuné",
+			"vous": "avez jeuné",
+			"ils/elles": "ont jeuné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais jeuné",
+			"tu": "avais jeuné",
+			"il/elle": "avait jeuné",
+			"nous": "avions jeuné",
+			"vous": "aviez jeuné",
+			"ils/elles": "avaient jeuné"
+		},
+		"passé antérieur": {
+			"j'": "eus jeuné",
+			"tu": "eus jeuné",
+			"il/elle": "eut jeuné",
+			"nous": "eûmes jeuné",
+			"vous": "eûtes jeuné",
+			"ils/elles": "eurent jeuné"
+		},
+		"futur antérieur": {
+			"j'": "aurai jeuné",
+			"tu": "auras jeuné",
+			"il/elle": "aura jeuné",
+			"nous": "aurons jeuné",
+			"vous": "aurez jeuné",
+			"ils/elles": "auront jeuné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous jeuniez",
+			"qu'il/elle": "jeune",
+			"qu'ils/elles": "jeunent"
+		},
+		"imparfait": {
+			"que": "vous jeunassiez",
+			"qu'il/elle": "jeunât",
+			"qu'ils/elles": "jeunassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse jeuné",
+			"que": "vous eussiez jeuné",
+			"qu'il/elle": "eût jeuné",
+			"qu'ils/elles": "eussent jeuné"
+		},
+		"passé": {
+			"j'": "aie jeuné",
+			"que": "vous ayez jeuné",
+			"qu'il/elle": "ait jeuné",
+			"qu'ils/elles": "aient jeuné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "jeunerais",
+			"tu": "jeunerais",
+			"il/elle": "jeunerait",
+			"nous": "jeunerions",
+			"vous": "jeuneriez",
+			"ils/elles": "jeuneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais jeuné",
+			"tu": "aurais jeuné",
+			"il/elle": "aurait jeuné",
+			"nous": "aurions jeuné",
+			"vous": "auriez jeuné",
+			"ils/elles": "auraient jeuné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse jeuné",
+			"tu": "eusses jeuné",
+			"il/elle": "eût jeuné",
+			"nous": "eussions jeuné",
+			"vous": "eussiez jeuné",
+			"ils/elles": "eussent jeuné"
+		}
+	},
+	"participe": {
+		"présent": { "jeunant": "" },
+		"passé composé": { "ayant": "jeuné" },
+		"passé": {
+			"masc.sg.:": "jeuné",
+			"masc.pl.:": "jeunés",
+			"fém.sg.:": "jeunée",
+			"fém.pl.:": "jeunées"
+		}
+	},
+	"imperatif": {
+		"présent": { "jeune": "", "jeunons": "", "jeunez": "" },
+		"passé": { "aie": "jeuné", "ayons": "jeuné", "ayez": "jeuné" }
+	},
+	"infinitif": { "présent": { "jeuner": "" }, "passé": { "avoir": "jeuné" } }
+}

@@ -1,0 +1,138 @@
+{
+	"name": "surseoir",
+	"definition": "stay; postpone; suspend; ...",
+	"model": "surseoir",
+	"auxiliary": "avoir",
+	"otherForms": "se surseoir/ne pas surseoir/ne pas se surseoir",
+	"indicatif": {
+		"présent": {
+			"je": "sursois",
+			"tu": "sursois",
+			"il/elle": "sursoit",
+			"nous": "sursoyons",
+			"vous": "sursoyez",
+			"ils/elles": "sursoient"
+		},
+		"imparfait": {
+			"je": "sursoyais",
+			"tu": "sursoyais",
+			"il/elle": "sursoyait",
+			"nous": "sursoyions",
+			"vous": "sursoyiez",
+			"ils/elles": "sursoyaient"
+		},
+		"futur": {
+			"je": "surseoirai",
+			"tu": "surseoiras",
+			"il/elle": "surseoira",
+			"nous": "surseoirons",
+			"vous": "surseoirez",
+			"ils/elles": "surseoiront"
+		},
+		"passé simple": {
+			"je": "sursis",
+			"tu": "sursis",
+			"il/elle": "sursit",
+			"nous": "sursîmes",
+			"vous": "sursîtes",
+			"ils/elles": "sursirent"
+		},
+		"passé composé": {
+			"j'": "ai sursis",
+			"tu": "as sursis",
+			"il/elle": "a sursis",
+			"nous": "avons sursis",
+			"vous": "avez sursis",
+			"ils/elles": "ont sursis"
+		},
+		"plus-que-parfait": {
+			"j'": "avais sursis",
+			"tu": "avais sursis",
+			"il/elle": "avait sursis",
+			"nous": "avions sursis",
+			"vous": "aviez sursis",
+			"ils/elles": "avaient sursis"
+		},
+		"passé antérieur": {
+			"j'": "eus sursis",
+			"tu": "eus sursis",
+			"il/elle": "eut sursis",
+			"nous": "eûmes sursis",
+			"vous": "eûtes sursis",
+			"ils/elles": "eurent sursis"
+		},
+		"futur antérieur": {
+			"j'": "aurai sursis",
+			"tu": "auras sursis",
+			"il/elle": "aura sursis",
+			"nous": "aurons sursis",
+			"vous": "aurez sursis",
+			"ils/elles": "auront sursis"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous sursoyiez",
+			"qu'il/elle": "sursoie",
+			"qu'ils/elles": "sursoient"
+		},
+		"imparfait": {
+			"que": "vous sursissiez",
+			"qu'il/elle": "sursît",
+			"qu'ils/elles": "sursissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse sursis",
+			"que": "vous eussiez sursis",
+			"qu'il/elle": "eût sursis",
+			"qu'ils/elles": "eussent sursis"
+		},
+		"passé": {
+			"j'": "aie sursis",
+			"que": "vous ayez sursis",
+			"qu'il/elle": "ait sursis",
+			"qu'ils/elles": "aient sursis"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "surseoirais",
+			"tu": "surseoirais",
+			"il/elle": "surseoirait",
+			"nous": "surseoirions",
+			"vous": "surseoiriez",
+			"ils/elles": "surseoiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais sursis",
+			"tu": "aurais sursis",
+			"il/elle": "aurait sursis",
+			"nous": "aurions sursis",
+			"vous": "auriez sursis",
+			"ils/elles": "auraient sursis"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse sursis",
+			"tu": "eusses sursis",
+			"il/elle": "eût sursis",
+			"nous": "eussions sursis",
+			"vous": "eussiez sursis",
+			"ils/elles": "eussent sursis"
+		}
+	},
+	"participe": {
+		"présent": { "sursoyant": "" },
+		"passé composé": { "ayant": "sursis" },
+		"passé": {
+			"masc.sg.:": "sursis",
+			"masc.pl.:": "sursis",
+			"fém.sg.:": "sursise",
+			"fém.pl.:": "sursises"
+		}
+	},
+	"imperatif": {
+		"présent": { "sursois": "", "sursoyons": "", "sursoyez": "" },
+		"passé": { "aie": "sursis", "ayons": "sursis", "ayez": "sursis" }
+	},
+	"infinitif": { "présent": { "surseoir": "" }, "passé": { "avoir": "sursis" } }
+}

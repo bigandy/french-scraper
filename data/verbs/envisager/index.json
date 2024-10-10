@@ -1,0 +1,143 @@
+{
+	"name": "manger",
+	"definition": "consider; envisage; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "s'envisager/ne pas envisager/ne pas s'envisager",
+	"indicatif": {
+		"présent": {
+			"j'": "envisage",
+			"tu": "envisages",
+			"il/elle": "envisage",
+			"nous": "envisageons",
+			"vous": "envisagez",
+			"ils/elles": "envisagent"
+		},
+		"imparfait": {
+			"j'": "envisageais",
+			"tu": "envisageais",
+			"il/elle": "envisageait",
+			"nous": "envisagions",
+			"vous": "envisagiez",
+			"ils/elles": "envisageaient"
+		},
+		"futur": {
+			"j'": "envisagerai",
+			"tu": "envisageras",
+			"il/elle": "envisagera",
+			"nous": "envisagerons",
+			"vous": "envisagerez",
+			"ils/elles": "envisageront"
+		},
+		"passé simple": {
+			"j'": "envisageai",
+			"tu": "envisageas",
+			"il/elle": "envisagea",
+			"nous": "envisageâmes",
+			"vous": "envisageâtes",
+			"ils/elles": "envisagèrent"
+		},
+		"passé composé": {
+			"j'": "ai envisagé",
+			"tu": "as envisagé",
+			"il/elle": "a envisagé",
+			"nous": "avons envisagé",
+			"vous": "avez envisagé",
+			"ils/elles": "ont envisagé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais envisagé",
+			"tu": "avais envisagé",
+			"il/elle": "avait envisagé",
+			"nous": "avions envisagé",
+			"vous": "aviez envisagé",
+			"ils/elles": "avaient envisagé"
+		},
+		"passé antérieur": {
+			"j'": "eus envisagé",
+			"tu": "eus envisagé",
+			"il/elle": "eut envisagé",
+			"nous": "eûmes envisagé",
+			"vous": "eûtes envisagé",
+			"ils/elles": "eurent envisagé"
+		},
+		"futur antérieur": {
+			"j'": "aurai envisagé",
+			"tu": "auras envisagé",
+			"il/elle": "aura envisagé",
+			"nous": "aurons envisagé",
+			"vous": "aurez envisagé",
+			"ils/elles": "auront envisagé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "envisage",
+			"que": "vous envisagiez",
+			"qu'il/elle": "envisage",
+			"qu'ils/elles": "envisagent"
+		},
+		"imparfait": {
+			"j'": "envisageasse",
+			"que": "vous envisageassiez",
+			"qu'il/elle": "envisageât",
+			"qu'ils/elles": "envisageassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse envisagé",
+			"que": "vous eussiez envisagé",
+			"qu'il/elle": "eût envisagé",
+			"qu'ils/elles": "eussent envisagé"
+		},
+		"passé": {
+			"j'": "aie envisagé",
+			"que": "vous ayez envisagé",
+			"qu'il/elle": "ait envisagé",
+			"qu'ils/elles": "aient envisagé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "envisagerais",
+			"tu": "envisagerais",
+			"il/elle": "envisagerait",
+			"nous": "envisagerions",
+			"vous": "envisageriez",
+			"ils/elles": "envisageraient"
+		},
+		"passé première forme": {
+			"j'": "aurais envisagé",
+			"tu": "aurais envisagé",
+			"il/elle": "aurait envisagé",
+			"nous": "aurions envisagé",
+			"vous": "auriez envisagé",
+			"ils/elles": "auraient envisagé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse envisagé",
+			"tu": "eusses envisagé",
+			"il/elle": "eût envisagé",
+			"nous": "eussions envisagé",
+			"vous": "eussiez envisagé",
+			"ils/elles": "eussent envisagé"
+		}
+	},
+	"participe": {
+		"présent": { "envisageant": "" },
+		"passé composé": { "ayant": "envisagé" },
+		"passé": {
+			"masc.sg.:": "envisagé",
+			"masc.pl.:": "envisagés",
+			"fém.sg.:": "envisagée",
+			"fém.pl.:": "envisagées"
+		}
+	},
+	"imperatif": {
+		"présent": { "envisage": "", "envisageons": "", "envisagez": "" },
+		"passé": { "aie": "envisagé", "ayons": "envisagé", "ayez": "envisagé" }
+	},
+	"infinitif": {
+		"présent": { "envisager": "" },
+		"passé": { "avoir": "envisagé" }
+	}
+}

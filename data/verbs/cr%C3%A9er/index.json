@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "create; establish; build; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se créer/ne pas créer/ne pas se créer",
+	"indicatif": {
+		"présent": {
+			"je": "crée",
+			"tu": "crées",
+			"il/elle": "crée",
+			"nous": "créons",
+			"vous": "créez",
+			"ils/elles": "créent"
+		},
+		"imparfait": {
+			"je": "créais",
+			"tu": "créais",
+			"il/elle": "créait",
+			"nous": "créions",
+			"vous": "créiez",
+			"ils/elles": "créaient"
+		},
+		"futur": {
+			"je": "créerai",
+			"tu": "créeras",
+			"il/elle": "créera",
+			"nous": "créerons",
+			"vous": "créerez",
+			"ils/elles": "créeront"
+		},
+		"passé simple": {
+			"je": "créai",
+			"tu": "créas",
+			"il/elle": "créa",
+			"nous": "créâmes",
+			"vous": "créâtes",
+			"ils/elles": "créèrent"
+		},
+		"passé composé": {
+			"j'": "ai créé",
+			"tu": "as créé",
+			"il/elle": "a créé",
+			"nous": "avons créé",
+			"vous": "avez créé",
+			"ils/elles": "ont créé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais créé",
+			"tu": "avais créé",
+			"il/elle": "avait créé",
+			"nous": "avions créé",
+			"vous": "aviez créé",
+			"ils/elles": "avaient créé"
+		},
+		"passé antérieur": {
+			"j'": "eus créé",
+			"tu": "eus créé",
+			"il/elle": "eut créé",
+			"nous": "eûmes créé",
+			"vous": "eûtes créé",
+			"ils/elles": "eurent créé"
+		},
+		"futur antérieur": {
+			"j'": "aurai créé",
+			"tu": "auras créé",
+			"il/elle": "aura créé",
+			"nous": "aurons créé",
+			"vous": "aurez créé",
+			"ils/elles": "auront créé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous créiez",
+			"qu'il/elle": "crée",
+			"qu'ils/elles": "créent"
+		},
+		"imparfait": {
+			"que": "vous créassiez",
+			"qu'il/elle": "créât",
+			"qu'ils/elles": "créassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse créé",
+			"que": "vous eussiez créé",
+			"qu'il/elle": "eût créé",
+			"qu'ils/elles": "eussent créé"
+		},
+		"passé": {
+			"j'": "aie créé",
+			"que": "vous ayez créé",
+			"qu'il/elle": "ait créé",
+			"qu'ils/elles": "aient créé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "créerais",
+			"tu": "créerais",
+			"il/elle": "créerait",
+			"nous": "créerions",
+			"vous": "créeriez",
+			"ils/elles": "créeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais créé",
+			"tu": "aurais créé",
+			"il/elle": "aurait créé",
+			"nous": "aurions créé",
+			"vous": "auriez créé",
+			"ils/elles": "auraient créé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse créé",
+			"tu": "eusses créé",
+			"il/elle": "eût créé",
+			"nous": "eussions créé",
+			"vous": "eussiez créé",
+			"ils/elles": "eussent créé"
+		}
+	},
+	"participe": {
+		"présent": { "créant": "" },
+		"passé composé": { "ayant": "créé" },
+		"passé": {
+			"masc.sg.:": "créé",
+			"masc.pl.:": "créés",
+			"fém.sg.:": "créée",
+			"fém.pl.:": "créées"
+		}
+	},
+	"imperatif": {
+		"présent": { "crée": "", "créons": "", "créez": "" },
+		"passé": { "aie": "créé", "ayons": "créé", "ayez": "créé" }
+	},
+	"infinitif": { "présent": { "créer": "" }, "passé": { "avoir": "créé" } }
+}

@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "generate; create; cause; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'engendrer/ne pas engendrer/ne pas s'engendrer",
+	"indicatif": {
+		"présent": {
+			"j'": "engendre",
+			"tu": "engendres",
+			"il/elle": "engendre",
+			"nous": "engendrons",
+			"vous": "engendrez",
+			"ils/elles": "engendrent"
+		},
+		"imparfait": {
+			"j'": "engendrais",
+			"tu": "engendrais",
+			"il/elle": "engendrait",
+			"nous": "engendrions",
+			"vous": "engendriez",
+			"ils/elles": "engendraient"
+		},
+		"futur": {
+			"j'": "engendrerai",
+			"tu": "engendreras",
+			"il/elle": "engendrera",
+			"nous": "engendrerons",
+			"vous": "engendrerez",
+			"ils/elles": "engendreront"
+		},
+		"passé simple": {
+			"j'": "engendrai",
+			"tu": "engendras",
+			"il/elle": "engendra",
+			"nous": "engendrâmes",
+			"vous": "engendrâtes",
+			"ils/elles": "engendrèrent"
+		},
+		"passé composé": {
+			"j'": "ai engendré",
+			"tu": "as engendré",
+			"il/elle": "a engendré",
+			"nous": "avons engendré",
+			"vous": "avez engendré",
+			"ils/elles": "ont engendré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais engendré",
+			"tu": "avais engendré",
+			"il/elle": "avait engendré",
+			"nous": "avions engendré",
+			"vous": "aviez engendré",
+			"ils/elles": "avaient engendré"
+		},
+		"passé antérieur": {
+			"j'": "eus engendré",
+			"tu": "eus engendré",
+			"il/elle": "eut engendré",
+			"nous": "eûmes engendré",
+			"vous": "eûtes engendré",
+			"ils/elles": "eurent engendré"
+		},
+		"futur antérieur": {
+			"j'": "aurai engendré",
+			"tu": "auras engendré",
+			"il/elle": "aura engendré",
+			"nous": "aurons engendré",
+			"vous": "aurez engendré",
+			"ils/elles": "auront engendré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "engendre",
+			"que": "vous engendriez",
+			"qu'il/elle": "engendre",
+			"qu'ils/elles": "engendrent"
+		},
+		"imparfait": {
+			"j'": "engendrasse",
+			"que": "vous engendrassiez",
+			"qu'il/elle": "engendrât",
+			"qu'ils/elles": "engendrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse engendré",
+			"que": "vous eussiez engendré",
+			"qu'il/elle": "eût engendré",
+			"qu'ils/elles": "eussent engendré"
+		},
+		"passé": {
+			"j'": "aie engendré",
+			"que": "vous ayez engendré",
+			"qu'il/elle": "ait engendré",
+			"qu'ils/elles": "aient engendré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "engendrerais",
+			"tu": "engendrerais",
+			"il/elle": "engendrerait",
+			"nous": "engendrerions",
+			"vous": "engendreriez",
+			"ils/elles": "engendreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais engendré",
+			"tu": "aurais engendré",
+			"il/elle": "aurait engendré",
+			"nous": "aurions engendré",
+			"vous": "auriez engendré",
+			"ils/elles": "auraient engendré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse engendré",
+			"tu": "eusses engendré",
+			"il/elle": "eût engendré",
+			"nous": "eussions engendré",
+			"vous": "eussiez engendré",
+			"ils/elles": "eussent engendré"
+		}
+	},
+	"participe": {
+		"présent": { "engendrant": "" },
+		"passé composé": { "ayant": "engendré" },
+		"passé": {
+			"masc.sg.:": "engendré",
+			"masc.pl.:": "engendrés",
+			"fém.sg.:": "engendrée",
+			"fém.pl.:": "engendrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "engendre": "", "engendrons": "", "engendrez": "" },
+		"passé": { "aie": "engendré", "ayons": "engendré", "ayez": "engendré" }
+	},
+	"infinitif": {
+		"présent": { "engendrer": "" },
+		"passé": { "avoir": "engendré" }
+	}
+}

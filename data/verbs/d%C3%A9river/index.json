@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "derive; drift; divert; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se dériver/ne pas dériver/ne pas se dériver",
+	"indicatif": {
+		"présent": {
+			"je": "dérive",
+			"tu": "dérives",
+			"il/elle": "dérive",
+			"nous": "dérivons",
+			"vous": "dérivez",
+			"ils/elles": "dérivent"
+		},
+		"imparfait": {
+			"je": "dérivais",
+			"tu": "dérivais",
+			"il/elle": "dérivait",
+			"nous": "dérivions",
+			"vous": "dériviez",
+			"ils/elles": "dérivaient"
+		},
+		"futur": {
+			"je": "dériverai",
+			"tu": "dériveras",
+			"il/elle": "dérivera",
+			"nous": "dériverons",
+			"vous": "dériverez",
+			"ils/elles": "dériveront"
+		},
+		"passé simple": {
+			"je": "dérivai",
+			"tu": "dérivas",
+			"il/elle": "dériva",
+			"nous": "dérivâmes",
+			"vous": "dérivâtes",
+			"ils/elles": "dérivèrent"
+		},
+		"passé composé": {
+			"j'": "ai dérivé",
+			"tu": "as dérivé",
+			"il/elle": "a dérivé",
+			"nous": "avons dérivé",
+			"vous": "avez dérivé",
+			"ils/elles": "ont dérivé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais dérivé",
+			"tu": "avais dérivé",
+			"il/elle": "avait dérivé",
+			"nous": "avions dérivé",
+			"vous": "aviez dérivé",
+			"ils/elles": "avaient dérivé"
+		},
+		"passé antérieur": {
+			"j'": "eus dérivé",
+			"tu": "eus dérivé",
+			"il/elle": "eut dérivé",
+			"nous": "eûmes dérivé",
+			"vous": "eûtes dérivé",
+			"ils/elles": "eurent dérivé"
+		},
+		"futur antérieur": {
+			"j'": "aurai dérivé",
+			"tu": "auras dérivé",
+			"il/elle": "aura dérivé",
+			"nous": "aurons dérivé",
+			"vous": "aurez dérivé",
+			"ils/elles": "auront dérivé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous dériviez",
+			"qu'il/elle": "dérive",
+			"qu'ils/elles": "dérivent"
+		},
+		"imparfait": {
+			"que": "vous dérivassiez",
+			"qu'il/elle": "dérivât",
+			"qu'ils/elles": "dérivassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse dérivé",
+			"que": "vous eussiez dérivé",
+			"qu'il/elle": "eût dérivé",
+			"qu'ils/elles": "eussent dérivé"
+		},
+		"passé": {
+			"j'": "aie dérivé",
+			"que": "vous ayez dérivé",
+			"qu'il/elle": "ait dérivé",
+			"qu'ils/elles": "aient dérivé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "dériverais",
+			"tu": "dériverais",
+			"il/elle": "dériverait",
+			"nous": "dériverions",
+			"vous": "dériveriez",
+			"ils/elles": "dériveraient"
+		},
+		"passé première forme": {
+			"j'": "aurais dérivé",
+			"tu": "aurais dérivé",
+			"il/elle": "aurait dérivé",
+			"nous": "aurions dérivé",
+			"vous": "auriez dérivé",
+			"ils/elles": "auraient dérivé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse dérivé",
+			"tu": "eusses dérivé",
+			"il/elle": "eût dérivé",
+			"nous": "eussions dérivé",
+			"vous": "eussiez dérivé",
+			"ils/elles": "eussent dérivé"
+		}
+	},
+	"participe": {
+		"présent": { "dérivant": "" },
+		"passé composé": { "ayant": "dérivé" },
+		"passé": {
+			"masc.sg.:": "dérivé",
+			"masc.pl.:": "dérivés",
+			"fém.sg.:": "dérivée",
+			"fém.pl.:": "dérivées"
+		}
+	},
+	"imperatif": {
+		"présent": { "dérive": "", "dérivons": "", "dérivez": "" },
+		"passé": { "aie": "dérivé", "ayons": "dérivé", "ayez": "dérivé" }
+	},
+	"infinitif": { "présent": { "dériver": "" }, "passé": { "avoir": "dérivé" } }
+}

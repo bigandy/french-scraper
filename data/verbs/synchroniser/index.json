@@ -1,0 +1,145 @@
+{
+	"name": "marcher",
+	"definition": "synchronize; synchronise; synch; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se synchroniser/ne pas synchroniser/ne pas se synchroniser",
+	"indicatif": {
+		"présent": {
+			"je": "synchronise",
+			"tu": "synchronises",
+			"il/elle": "synchronise",
+			"nous": "synchronisons",
+			"vous": "synchronisez",
+			"ils/elles": "synchronisent"
+		},
+		"imparfait": {
+			"je": "synchronisais",
+			"tu": "synchronisais",
+			"il/elle": "synchronisait",
+			"nous": "synchronisions",
+			"vous": "synchronisiez",
+			"ils/elles": "synchronisaient"
+		},
+		"futur": {
+			"je": "synchroniserai",
+			"tu": "synchroniseras",
+			"il/elle": "synchronisera",
+			"nous": "synchroniserons",
+			"vous": "synchroniserez",
+			"ils/elles": "synchroniseront"
+		},
+		"passé simple": {
+			"je": "synchronisai",
+			"tu": "synchronisas",
+			"il/elle": "synchronisa",
+			"nous": "synchronisâmes",
+			"vous": "synchronisâtes",
+			"ils/elles": "synchronisèrent"
+		},
+		"passé composé": {
+			"j'": "ai synchronisé",
+			"tu": "as synchronisé",
+			"il/elle": "a synchronisé",
+			"nous": "avons synchronisé",
+			"vous": "avez synchronisé",
+			"ils/elles": "ont synchronisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais synchronisé",
+			"tu": "avais synchronisé",
+			"il/elle": "avait synchronisé",
+			"nous": "avions synchronisé",
+			"vous": "aviez synchronisé",
+			"ils/elles": "avaient synchronisé"
+		},
+		"passé antérieur": {
+			"j'": "eus synchronisé",
+			"tu": "eus synchronisé",
+			"il/elle": "eut synchronisé",
+			"nous": "eûmes synchronisé",
+			"vous": "eûtes synchronisé",
+			"ils/elles": "eurent synchronisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai synchronisé",
+			"tu": "auras synchronisé",
+			"il/elle": "aura synchronisé",
+			"nous": "aurons synchronisé",
+			"vous": "aurez synchronisé",
+			"ils/elles": "auront synchronisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous synchronisiez",
+			"qu'il/elle": "synchronise",
+			"qu'ils/elles": "synchronisent"
+		},
+		"imparfait": {
+			"que": "vous synchronisassiez",
+			"qu'il/elle": "synchronisât",
+			"qu'ils/elles": "synchronisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse synchronisé",
+			"que": "vous eussiez synchronisé",
+			"qu'il/elle": "eût synchronisé",
+			"qu'ils/elles": "eussent synchronisé"
+		},
+		"passé": {
+			"j'": "aie synchronisé",
+			"que": "vous ayez synchronisé",
+			"qu'il/elle": "ait synchronisé",
+			"qu'ils/elles": "aient synchronisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "synchroniserais",
+			"tu": "synchroniserais",
+			"il/elle": "synchroniserait",
+			"nous": "synchroniserions",
+			"vous": "synchroniseriez",
+			"ils/elles": "synchroniseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais synchronisé",
+			"tu": "aurais synchronisé",
+			"il/elle": "aurait synchronisé",
+			"nous": "aurions synchronisé",
+			"vous": "auriez synchronisé",
+			"ils/elles": "auraient synchronisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse synchronisé",
+			"tu": "eusses synchronisé",
+			"il/elle": "eût synchronisé",
+			"nous": "eussions synchronisé",
+			"vous": "eussiez synchronisé",
+			"ils/elles": "eussent synchronisé"
+		}
+	},
+	"participe": {
+		"présent": { "synchronisant": "" },
+		"passé composé": { "ayant": "synchronisé" },
+		"passé": {
+			"masc.sg.:": "synchronisé",
+			"masc.pl.:": "synchronisés",
+			"fém.sg.:": "synchronisée",
+			"fém.pl.:": "synchronisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "synchronise": "", "synchronisons": "", "synchronisez": "" },
+		"passé": {
+			"aie": "synchronisé",
+			"ayons": "synchronisé",
+			"ayez": "synchronisé"
+		}
+	},
+	"infinitif": {
+		"présent": { "synchroniser": "" },
+		"passé": { "avoir": "synchronisé" }
+	}
+}

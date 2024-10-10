@@ -1,0 +1,138 @@
+{
+	"name": "finir",
+	"definition": "",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se clapir/ne pas clapir/ne pas se clapir",
+	"indicatif": {
+		"présent": {
+			"je": "clapis",
+			"tu": "clapis",
+			"il/elle": "clapit",
+			"nous": "clapissons",
+			"vous": "clapissez",
+			"ils/elles": "clapissent"
+		},
+		"imparfait": {
+			"je": "clapissais",
+			"tu": "clapissais",
+			"il/elle": "clapissait",
+			"nous": "clapissions",
+			"vous": "clapissiez",
+			"ils/elles": "clapissaient"
+		},
+		"futur": {
+			"je": "clapirai",
+			"tu": "clapiras",
+			"il/elle": "clapira",
+			"nous": "clapirons",
+			"vous": "clapirez",
+			"ils/elles": "clapiront"
+		},
+		"passé simple": {
+			"je": "clapis",
+			"tu": "clapis",
+			"il/elle": "clapit",
+			"nous": "clapîmes",
+			"vous": "clapîtes",
+			"ils/elles": "clapirent"
+		},
+		"passé composé": {
+			"j'": "ai clapi",
+			"tu": "as clapi",
+			"il/elle": "a clapi",
+			"nous": "avons clapi",
+			"vous": "avez clapi",
+			"ils/elles": "ont clapi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais clapi",
+			"tu": "avais clapi",
+			"il/elle": "avait clapi",
+			"nous": "avions clapi",
+			"vous": "aviez clapi",
+			"ils/elles": "avaient clapi"
+		},
+		"passé antérieur": {
+			"j'": "eus clapi",
+			"tu": "eus clapi",
+			"il/elle": "eut clapi",
+			"nous": "eûmes clapi",
+			"vous": "eûtes clapi",
+			"ils/elles": "eurent clapi"
+		},
+		"futur antérieur": {
+			"j'": "aurai clapi",
+			"tu": "auras clapi",
+			"il/elle": "aura clapi",
+			"nous": "aurons clapi",
+			"vous": "aurez clapi",
+			"ils/elles": "auront clapi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous clapissiez",
+			"qu'il/elle": "clapisse",
+			"qu'ils/elles": "clapissent"
+		},
+		"imparfait": {
+			"que": "vous clapissiez",
+			"qu'il/elle": "clapît",
+			"qu'ils/elles": "clapissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse clapi",
+			"que": "vous eussiez clapi",
+			"qu'il/elle": "eût clapi",
+			"qu'ils/elles": "eussent clapi"
+		},
+		"passé": {
+			"j'": "aie clapi",
+			"que": "vous ayez clapi",
+			"qu'il/elle": "ait clapi",
+			"qu'ils/elles": "aient clapi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "clapirais",
+			"tu": "clapirais",
+			"il/elle": "clapirait",
+			"nous": "clapirions",
+			"vous": "clapiriez",
+			"ils/elles": "clapiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais clapi",
+			"tu": "aurais clapi",
+			"il/elle": "aurait clapi",
+			"nous": "aurions clapi",
+			"vous": "auriez clapi",
+			"ils/elles": "auraient clapi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse clapi",
+			"tu": "eusses clapi",
+			"il/elle": "eût clapi",
+			"nous": "eussions clapi",
+			"vous": "eussiez clapi",
+			"ils/elles": "eussent clapi"
+		}
+	},
+	"participe": {
+		"présent": { "clapissant": "" },
+		"passé composé": { "ayant": "clapi" },
+		"passé": {
+			"masc.sg.:": "clapi",
+			"masc.pl.:": "clapis",
+			"fém.sg.:": "clapie",
+			"fém.pl.:": "clapies"
+		}
+	},
+	"imperatif": {
+		"présent": { "clapis": "", "clapissons": "", "clapissez": "" },
+		"passé": { "aie": "clapi", "ayons": "clapi", "ayez": "clapi" }
+	},
+	"infinitif": { "présent": { "clapir": "" }, "passé": { "avoir": "clapi" } }
+}

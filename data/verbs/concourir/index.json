@@ -1,0 +1,141 @@
+{
+	"name": "courir",
+	"definition": "compete; contribute; help; ...",
+	"model": "courir",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas concourir",
+	"indicatif": {
+		"présent": {
+			"je": "concours",
+			"tu": "concours",
+			"il/elle": "concourt",
+			"nous": "concourons",
+			"vous": "concourez",
+			"ils/elles": "concourent"
+		},
+		"imparfait": {
+			"je": "concourais",
+			"tu": "concourais",
+			"il/elle": "concourait",
+			"nous": "concourions",
+			"vous": "concouriez",
+			"ils/elles": "concouraient"
+		},
+		"futur": {
+			"je": "concourrai",
+			"tu": "concourras",
+			"il/elle": "concourra",
+			"nous": "concourrons",
+			"vous": "concourrez",
+			"ils/elles": "concourront"
+		},
+		"passé simple": {
+			"je": "concourus",
+			"tu": "concourus",
+			"il/elle": "concourut",
+			"nous": "concourûmes",
+			"vous": "concourûtes",
+			"ils/elles": "concoururent"
+		},
+		"passé composé": {
+			"j'": "ai concouru",
+			"tu": "as concouru",
+			"il/elle": "a concouru",
+			"nous": "avons concouru",
+			"vous": "avez concouru",
+			"ils/elles": "ont concouru"
+		},
+		"plus-que-parfait": {
+			"j'": "avais concouru",
+			"tu": "avais concouru",
+			"il/elle": "avait concouru",
+			"nous": "avions concouru",
+			"vous": "aviez concouru",
+			"ils/elles": "avaient concouru"
+		},
+		"passé antérieur": {
+			"j'": "eus concouru",
+			"tu": "eus concouru",
+			"il/elle": "eut concouru",
+			"nous": "eûmes concouru",
+			"vous": "eûtes concouru",
+			"ils/elles": "eurent concouru"
+		},
+		"futur antérieur": {
+			"j'": "aurai concouru",
+			"tu": "auras concouru",
+			"il/elle": "aura concouru",
+			"nous": "aurons concouru",
+			"vous": "aurez concouru",
+			"ils/elles": "auront concouru"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous concouriez",
+			"qu'il/elle": "concoure",
+			"qu'ils/elles": "concourent"
+		},
+		"imparfait": {
+			"que": "vous concourussiez",
+			"qu'il/elle": "concourût",
+			"qu'ils/elles": "concourussent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse concouru",
+			"que": "vous eussiez concouru",
+			"qu'il/elle": "eût concouru",
+			"qu'ils/elles": "eussent concouru"
+		},
+		"passé": {
+			"j'": "aie concouru",
+			"que": "vous ayez concouru",
+			"qu'il/elle": "ait concouru",
+			"qu'ils/elles": "aient concouru"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "concourrais",
+			"tu": "concourrais",
+			"il/elle": "concourrait",
+			"nous": "concourrions",
+			"vous": "concourriez",
+			"ils/elles": "concourraient"
+		},
+		"passé première forme": {
+			"j'": "aurais concouru",
+			"tu": "aurais concouru",
+			"il/elle": "aurait concouru",
+			"nous": "aurions concouru",
+			"vous": "auriez concouru",
+			"ils/elles": "auraient concouru"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse concouru",
+			"tu": "eusses concouru",
+			"il/elle": "eût concouru",
+			"nous": "eussions concouru",
+			"vous": "eussiez concouru",
+			"ils/elles": "eussent concouru"
+		}
+	},
+	"participe": {
+		"présent": { "concourant": "" },
+		"passé composé": { "ayant": "concouru" },
+		"passé": {
+			"masc.sg.:": "concouru",
+			"masc.pl.:": "concourus",
+			"fém.sg.:": "concourue",
+			"fém.pl.:": "concourues"
+		}
+	},
+	"imperatif": {
+		"présent": { "concours": "", "concourons": "", "concourez": "" },
+		"passé": { "aie": "concouru", "ayons": "concouru", "ayez": "concouru" }
+	},
+	"infinitif": {
+		"présent": { "concourir": "" },
+		"passé": { "avoir": "concouru" }
+	}
+}

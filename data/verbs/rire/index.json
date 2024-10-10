@@ -1,0 +1,138 @@
+{
+	"name": "rire",
+	"definition": "laugh; chuckle; amuse; ...",
+	"model": "rire",
+	"auxiliary": "avoir",
+	"otherForms": "se rire/ne pas rire/ne pas se rire",
+	"indicatif": {
+		"présent": {
+			"je": "ris",
+			"tu": "ris",
+			"il/elle": "rit",
+			"nous": "rions",
+			"vous": "riez",
+			"ils/elles": "rient"
+		},
+		"imparfait": {
+			"je": "riais",
+			"tu": "riais",
+			"il/elle": "riait",
+			"nous": "riions",
+			"vous": "riiez",
+			"ils/elles": "riaient"
+		},
+		"futur": {
+			"je": "rirai",
+			"tu": "riras",
+			"il/elle": "rira",
+			"nous": "rirons",
+			"vous": "rirez",
+			"ils/elles": "riront"
+		},
+		"passé simple": {
+			"je": "ris",
+			"tu": "ris",
+			"il/elle": "rit",
+			"nous": "rîmes",
+			"vous": "rîtes",
+			"ils/elles": "rirent"
+		},
+		"passé composé": {
+			"j'": "ai ri",
+			"tu": "as ri",
+			"il/elle": "a ri",
+			"nous": "avons ri",
+			"vous": "avez ri",
+			"ils/elles": "ont ri"
+		},
+		"plus-que-parfait": {
+			"j'": "avais ri",
+			"tu": "avais ri",
+			"il/elle": "avait ri",
+			"nous": "avions ri",
+			"vous": "aviez ri",
+			"ils/elles": "avaient ri"
+		},
+		"passé antérieur": {
+			"j'": "eus ri",
+			"tu": "eus ri",
+			"il/elle": "eut ri",
+			"nous": "eûmes ri",
+			"vous": "eûtes ri",
+			"ils/elles": "eurent ri"
+		},
+		"futur antérieur": {
+			"j'": "aurai ri",
+			"tu": "auras ri",
+			"il/elle": "aura ri",
+			"nous": "aurons ri",
+			"vous": "aurez ri",
+			"ils/elles": "auront ri"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous riiez",
+			"qu'il/elle": "rie",
+			"qu'ils/elles": "rient"
+		},
+		"imparfait": {
+			"que": "vous rissiez",
+			"qu'il/elle": "rît",
+			"qu'ils/elles": "rissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse ri",
+			"que": "vous eussiez ri",
+			"qu'il/elle": "eût ri",
+			"qu'ils/elles": "eussent ri"
+		},
+		"passé": {
+			"j'": "aie ri",
+			"que": "vous ayez ri",
+			"qu'il/elle": "ait ri",
+			"qu'ils/elles": "aient ri"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "rirais",
+			"tu": "rirais",
+			"il/elle": "rirait",
+			"nous": "ririons",
+			"vous": "ririez",
+			"ils/elles": "riraient"
+		},
+		"passé première forme": {
+			"j'": "aurais ri",
+			"tu": "aurais ri",
+			"il/elle": "aurait ri",
+			"nous": "aurions ri",
+			"vous": "auriez ri",
+			"ils/elles": "auraient ri"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse ri",
+			"tu": "eusses ri",
+			"il/elle": "eût ri",
+			"nous": "eussions ri",
+			"vous": "eussiez ri",
+			"ils/elles": "eussent ri"
+		}
+	},
+	"participe": {
+		"présent": { "riant": "" },
+		"passé composé": { "ayant": "ri" },
+		"passé": {
+			"masc.sg.:": "ri",
+			"masc.pl.:": "ri",
+			"fém.sg.:": "ri",
+			"fém.pl.:": "ri"
+		}
+	},
+	"imperatif": {
+		"présent": { "ris": "", "rions": "", "riez": "" },
+		"passé": { "aie": "ri", "ayons": "ri", "ayez": "ri" }
+	},
+	"infinitif": { "présent": { "rire": "" }, "passé": { "avoir": "ri" } }
+}

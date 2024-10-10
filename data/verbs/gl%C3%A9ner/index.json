@@ -1,0 +1,138 @@
+{
+	"name": "aliéner",
+	"definition": "",
+	"model": "aliéner",
+	"auxiliary": "avoir",
+	"otherForms": "se gléner/ne pas gléner/ne pas se gléner",
+	"indicatif": {
+		"présent": {
+			"je": "glène",
+			"tu": "glènes",
+			"il/elle": "glène",
+			"nous": "glénons",
+			"vous": "glénez",
+			"ils/elles": "glènent"
+		},
+		"imparfait": {
+			"je": "glénais",
+			"tu": "glénais",
+			"il/elle": "glénait",
+			"nous": "glénions",
+			"vous": "gléniez",
+			"ils/elles": "glénaient"
+		},
+		"futur": {
+			"je": "glénerai",
+			"tu": "gléneras",
+			"il/elle": "glénera",
+			"nous": "glénerons",
+			"vous": "glénerez",
+			"ils/elles": "gléneront"
+		},
+		"passé simple": {
+			"je": "glénai",
+			"tu": "glénas",
+			"il/elle": "gléna",
+			"nous": "glénâmes",
+			"vous": "glénâtes",
+			"ils/elles": "glénèrent"
+		},
+		"passé composé": {
+			"j'": "ai gléné",
+			"tu": "as gléné",
+			"il/elle": "a gléné",
+			"nous": "avons gléné",
+			"vous": "avez gléné",
+			"ils/elles": "ont gléné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais gléné",
+			"tu": "avais gléné",
+			"il/elle": "avait gléné",
+			"nous": "avions gléné",
+			"vous": "aviez gléné",
+			"ils/elles": "avaient gléné"
+		},
+		"passé antérieur": {
+			"j'": "eus gléné",
+			"tu": "eus gléné",
+			"il/elle": "eut gléné",
+			"nous": "eûmes gléné",
+			"vous": "eûtes gléné",
+			"ils/elles": "eurent gléné"
+		},
+		"futur antérieur": {
+			"j'": "aurai gléné",
+			"tu": "auras gléné",
+			"il/elle": "aura gléné",
+			"nous": "aurons gléné",
+			"vous": "aurez gléné",
+			"ils/elles": "auront gléné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous gléniez",
+			"qu'il/elle": "glène",
+			"qu'ils/elles": "glènent"
+		},
+		"imparfait": {
+			"que": "vous glénassiez",
+			"qu'il/elle": "glénât",
+			"qu'ils/elles": "glénassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse gléné",
+			"que": "vous eussiez gléné",
+			"qu'il/elle": "eût gléné",
+			"qu'ils/elles": "eussent gléné"
+		},
+		"passé": {
+			"j'": "aie gléné",
+			"que": "vous ayez gléné",
+			"qu'il/elle": "ait gléné",
+			"qu'ils/elles": "aient gléné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "glénerais",
+			"tu": "glénerais",
+			"il/elle": "glénerait",
+			"nous": "glénerions",
+			"vous": "gléneriez",
+			"ils/elles": "gléneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais gléné",
+			"tu": "aurais gléné",
+			"il/elle": "aurait gléné",
+			"nous": "aurions gléné",
+			"vous": "auriez gléné",
+			"ils/elles": "auraient gléné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse gléné",
+			"tu": "eusses gléné",
+			"il/elle": "eût gléné",
+			"nous": "eussions gléné",
+			"vous": "eussiez gléné",
+			"ils/elles": "eussent gléné"
+		}
+	},
+	"participe": {
+		"présent": { "glénant": "" },
+		"passé composé": { "ayant": "gléné" },
+		"passé": {
+			"masc.sg.:": "gléné",
+			"masc.pl.:": "glénés",
+			"fém.sg.:": "glénée",
+			"fém.pl.:": "glénées"
+		}
+	},
+	"imperatif": {
+		"présent": { "glène": "", "glénons": "", "glénez": "" },
+		"passé": { "aie": "gléné", "ayons": "gléné", "ayez": "gléné" }
+	},
+	"infinitif": { "présent": { "gléner": "" }, "passé": { "avoir": "gléné" } }
+}

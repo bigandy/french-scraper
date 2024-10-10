@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "detach; untie; remove; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se détacher/ne pas détacher/ne pas se détacher",
+	"indicatif": {
+		"présent": {
+			"je": "détache",
+			"tu": "détaches",
+			"il/elle": "détache",
+			"nous": "détachons",
+			"vous": "détachez",
+			"ils/elles": "détachent"
+		},
+		"imparfait": {
+			"je": "détachais",
+			"tu": "détachais",
+			"il/elle": "détachait",
+			"nous": "détachions",
+			"vous": "détachiez",
+			"ils/elles": "détachaient"
+		},
+		"futur": {
+			"je": "détacherai",
+			"tu": "détacheras",
+			"il/elle": "détachera",
+			"nous": "détacherons",
+			"vous": "détacherez",
+			"ils/elles": "détacheront"
+		},
+		"passé simple": {
+			"je": "détachai",
+			"tu": "détachas",
+			"il/elle": "détacha",
+			"nous": "détachâmes",
+			"vous": "détachâtes",
+			"ils/elles": "détachèrent"
+		},
+		"passé composé": {
+			"j'": "ai détaché",
+			"tu": "as détaché",
+			"il/elle": "a détaché",
+			"nous": "avons détaché",
+			"vous": "avez détaché",
+			"ils/elles": "ont détaché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais détaché",
+			"tu": "avais détaché",
+			"il/elle": "avait détaché",
+			"nous": "avions détaché",
+			"vous": "aviez détaché",
+			"ils/elles": "avaient détaché"
+		},
+		"passé antérieur": {
+			"j'": "eus détaché",
+			"tu": "eus détaché",
+			"il/elle": "eut détaché",
+			"nous": "eûmes détaché",
+			"vous": "eûtes détaché",
+			"ils/elles": "eurent détaché"
+		},
+		"futur antérieur": {
+			"j'": "aurai détaché",
+			"tu": "auras détaché",
+			"il/elle": "aura détaché",
+			"nous": "aurons détaché",
+			"vous": "aurez détaché",
+			"ils/elles": "auront détaché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous détachiez",
+			"qu'il/elle": "détache",
+			"qu'ils/elles": "détachent"
+		},
+		"imparfait": {
+			"que": "vous détachassiez",
+			"qu'il/elle": "détachât",
+			"qu'ils/elles": "détachassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse détaché",
+			"que": "vous eussiez détaché",
+			"qu'il/elle": "eût détaché",
+			"qu'ils/elles": "eussent détaché"
+		},
+		"passé": {
+			"j'": "aie détaché",
+			"que": "vous ayez détaché",
+			"qu'il/elle": "ait détaché",
+			"qu'ils/elles": "aient détaché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "détacherais",
+			"tu": "détacherais",
+			"il/elle": "détacherait",
+			"nous": "détacherions",
+			"vous": "détacheriez",
+			"ils/elles": "détacheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais détaché",
+			"tu": "aurais détaché",
+			"il/elle": "aurait détaché",
+			"nous": "aurions détaché",
+			"vous": "auriez détaché",
+			"ils/elles": "auraient détaché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse détaché",
+			"tu": "eusses détaché",
+			"il/elle": "eût détaché",
+			"nous": "eussions détaché",
+			"vous": "eussiez détaché",
+			"ils/elles": "eussent détaché"
+		}
+	},
+	"participe": {
+		"présent": { "détachant": "" },
+		"passé composé": { "ayant": "détaché" },
+		"passé": {
+			"masc.sg.:": "détaché",
+			"masc.pl.:": "détachés",
+			"fém.sg.:": "détachée",
+			"fém.pl.:": "détachées"
+		}
+	},
+	"imperatif": {
+		"présent": { "détache": "", "détachons": "", "détachez": "" },
+		"passé": { "aie": "détaché", "ayons": "détaché", "ayez": "détaché" }
+	},
+	"infinitif": {
+		"présent": { "détacher": "" },
+		"passé": { "avoir": "détaché" }
+	}
+}

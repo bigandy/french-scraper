@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "rectify; correct; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se rectifier/ne pas rectifier/ne pas se rectifier",
+	"indicatif": {
+		"présent": {
+			"je": "rectifie",
+			"tu": "rectifies",
+			"il/elle": "rectifie",
+			"nous": "rectifions",
+			"vous": "rectifiez",
+			"ils/elles": "rectifient"
+		},
+		"imparfait": {
+			"je": "rectifiais",
+			"tu": "rectifiais",
+			"il/elle": "rectifiait",
+			"nous": "rectifiions",
+			"vous": "rectifiiez",
+			"ils/elles": "rectifiaient"
+		},
+		"futur": {
+			"je": "rectifierai",
+			"tu": "rectifieras",
+			"il/elle": "rectifiera",
+			"nous": "rectifierons",
+			"vous": "rectifierez",
+			"ils/elles": "rectifieront"
+		},
+		"passé simple": {
+			"je": "rectifiai",
+			"tu": "rectifias",
+			"il/elle": "rectifia",
+			"nous": "rectifiâmes",
+			"vous": "rectifiâtes",
+			"ils/elles": "rectifièrent"
+		},
+		"passé composé": {
+			"j'": "ai rectifié",
+			"tu": "as rectifié",
+			"il/elle": "a rectifié",
+			"nous": "avons rectifié",
+			"vous": "avez rectifié",
+			"ils/elles": "ont rectifié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais rectifié",
+			"tu": "avais rectifié",
+			"il/elle": "avait rectifié",
+			"nous": "avions rectifié",
+			"vous": "aviez rectifié",
+			"ils/elles": "avaient rectifié"
+		},
+		"passé antérieur": {
+			"j'": "eus rectifié",
+			"tu": "eus rectifié",
+			"il/elle": "eut rectifié",
+			"nous": "eûmes rectifié",
+			"vous": "eûtes rectifié",
+			"ils/elles": "eurent rectifié"
+		},
+		"futur antérieur": {
+			"j'": "aurai rectifié",
+			"tu": "auras rectifié",
+			"il/elle": "aura rectifié",
+			"nous": "aurons rectifié",
+			"vous": "aurez rectifié",
+			"ils/elles": "auront rectifié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous rectifiiez",
+			"qu'il/elle": "rectifie",
+			"qu'ils/elles": "rectifient"
+		},
+		"imparfait": {
+			"que": "vous rectifiassiez",
+			"qu'il/elle": "rectifiât",
+			"qu'ils/elles": "rectifiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse rectifié",
+			"que": "vous eussiez rectifié",
+			"qu'il/elle": "eût rectifié",
+			"qu'ils/elles": "eussent rectifié"
+		},
+		"passé": {
+			"j'": "aie rectifié",
+			"que": "vous ayez rectifié",
+			"qu'il/elle": "ait rectifié",
+			"qu'ils/elles": "aient rectifié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "rectifierais",
+			"tu": "rectifierais",
+			"il/elle": "rectifierait",
+			"nous": "rectifierions",
+			"vous": "rectifieriez",
+			"ils/elles": "rectifieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais rectifié",
+			"tu": "aurais rectifié",
+			"il/elle": "aurait rectifié",
+			"nous": "aurions rectifié",
+			"vous": "auriez rectifié",
+			"ils/elles": "auraient rectifié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse rectifié",
+			"tu": "eusses rectifié",
+			"il/elle": "eût rectifié",
+			"nous": "eussions rectifié",
+			"vous": "eussiez rectifié",
+			"ils/elles": "eussent rectifié"
+		}
+	},
+	"participe": {
+		"présent": { "rectifiant": "" },
+		"passé composé": { "ayant": "rectifié" },
+		"passé": {
+			"masc.sg.:": "rectifié",
+			"masc.pl.:": "rectifiés",
+			"fém.sg.:": "rectifiée",
+			"fém.pl.:": "rectifiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "rectifie": "", "rectifions": "", "rectifiez": "" },
+		"passé": { "aie": "rectifié", "ayons": "rectifié", "ayez": "rectifié" }
+	},
+	"infinitif": {
+		"présent": { "rectifier": "" },
+		"passé": { "avoir": "rectifié" }
+	}
+}

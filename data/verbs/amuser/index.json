@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "entertain; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'amuser/ne pas amuser/ne pas s'amuser",
+	"indicatif": {
+		"présent": {
+			"j'": "amuse",
+			"tu": "amuses",
+			"il/elle": "amuse",
+			"nous": "amusons",
+			"vous": "amusez",
+			"ils/elles": "amusent"
+		},
+		"imparfait": {
+			"j'": "amusais",
+			"tu": "amusais",
+			"il/elle": "amusait",
+			"nous": "amusions",
+			"vous": "amusiez",
+			"ils/elles": "amusaient"
+		},
+		"futur": {
+			"j'": "amuserai",
+			"tu": "amuseras",
+			"il/elle": "amusera",
+			"nous": "amuserons",
+			"vous": "amuserez",
+			"ils/elles": "amuseront"
+		},
+		"passé simple": {
+			"j'": "amusai",
+			"tu": "amusas",
+			"il/elle": "amusa",
+			"nous": "amusâmes",
+			"vous": "amusâtes",
+			"ils/elles": "amusèrent"
+		},
+		"passé composé": {
+			"j'": "ai amusé",
+			"tu": "as amusé",
+			"il/elle": "a amusé",
+			"nous": "avons amusé",
+			"vous": "avez amusé",
+			"ils/elles": "ont amusé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais amusé",
+			"tu": "avais amusé",
+			"il/elle": "avait amusé",
+			"nous": "avions amusé",
+			"vous": "aviez amusé",
+			"ils/elles": "avaient amusé"
+		},
+		"passé antérieur": {
+			"j'": "eus amusé",
+			"tu": "eus amusé",
+			"il/elle": "eut amusé",
+			"nous": "eûmes amusé",
+			"vous": "eûtes amusé",
+			"ils/elles": "eurent amusé"
+		},
+		"futur antérieur": {
+			"j'": "aurai amusé",
+			"tu": "auras amusé",
+			"il/elle": "aura amusé",
+			"nous": "aurons amusé",
+			"vous": "aurez amusé",
+			"ils/elles": "auront amusé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "amuse",
+			"que": "vous amusiez",
+			"qu'il/elle": "amuse",
+			"qu'ils/elles": "amusent"
+		},
+		"imparfait": {
+			"j'": "amusasse",
+			"que": "vous amusassiez",
+			"qu'il/elle": "amusât",
+			"qu'ils/elles": "amusassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse amusé",
+			"que": "vous eussiez amusé",
+			"qu'il/elle": "eût amusé",
+			"qu'ils/elles": "eussent amusé"
+		},
+		"passé": {
+			"j'": "aie amusé",
+			"que": "vous ayez amusé",
+			"qu'il/elle": "ait amusé",
+			"qu'ils/elles": "aient amusé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "amuserais",
+			"tu": "amuserais",
+			"il/elle": "amuserait",
+			"nous": "amuserions",
+			"vous": "amuseriez",
+			"ils/elles": "amuseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais amusé",
+			"tu": "aurais amusé",
+			"il/elle": "aurait amusé",
+			"nous": "aurions amusé",
+			"vous": "auriez amusé",
+			"ils/elles": "auraient amusé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse amusé",
+			"tu": "eusses amusé",
+			"il/elle": "eût amusé",
+			"nous": "eussions amusé",
+			"vous": "eussiez amusé",
+			"ils/elles": "eussent amusé"
+		}
+	},
+	"participe": {
+		"présent": { "amusant": "" },
+		"passé composé": { "ayant": "amusé" },
+		"passé": {
+			"masc.sg.:": "amusé",
+			"masc.pl.:": "amusés",
+			"fém.sg.:": "amusée",
+			"fém.pl.:": "amusées"
+		}
+	},
+	"imperatif": {
+		"présent": { "amuse": "", "amusons": "", "amusez": "" },
+		"passé": { "aie": "amusé", "ayons": "amusé", "ayez": "amusé" }
+	},
+	"infinitif": { "présent": { "amuser": "" }, "passé": { "avoir": "amusé" } }
+}

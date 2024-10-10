@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "sing; chant; perform; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se chanter/ne pas chanter/ne pas se chanter",
+	"indicatif": {
+		"présent": {
+			"je": "chante",
+			"tu": "chantes",
+			"il/elle": "chante",
+			"nous": "chantons",
+			"vous": "chantez",
+			"ils/elles": "chantent"
+		},
+		"imparfait": {
+			"je": "chantais",
+			"tu": "chantais",
+			"il/elle": "chantait",
+			"nous": "chantions",
+			"vous": "chantiez",
+			"ils/elles": "chantaient"
+		},
+		"futur": {
+			"je": "chanterai",
+			"tu": "chanteras",
+			"il/elle": "chantera",
+			"nous": "chanterons",
+			"vous": "chanterez",
+			"ils/elles": "chanteront"
+		},
+		"passé simple": {
+			"je": "chantai",
+			"tu": "chantas",
+			"il/elle": "chanta",
+			"nous": "chantâmes",
+			"vous": "chantâtes",
+			"ils/elles": "chantèrent"
+		},
+		"passé composé": {
+			"j'": "ai chanté",
+			"tu": "as chanté",
+			"il/elle": "a chanté",
+			"nous": "avons chanté",
+			"vous": "avez chanté",
+			"ils/elles": "ont chanté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais chanté",
+			"tu": "avais chanté",
+			"il/elle": "avait chanté",
+			"nous": "avions chanté",
+			"vous": "aviez chanté",
+			"ils/elles": "avaient chanté"
+		},
+		"passé antérieur": {
+			"j'": "eus chanté",
+			"tu": "eus chanté",
+			"il/elle": "eut chanté",
+			"nous": "eûmes chanté",
+			"vous": "eûtes chanté",
+			"ils/elles": "eurent chanté"
+		},
+		"futur antérieur": {
+			"j'": "aurai chanté",
+			"tu": "auras chanté",
+			"il/elle": "aura chanté",
+			"nous": "aurons chanté",
+			"vous": "aurez chanté",
+			"ils/elles": "auront chanté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous chantiez",
+			"qu'il/elle": "chante",
+			"qu'ils/elles": "chantent"
+		},
+		"imparfait": {
+			"que": "vous chantassiez",
+			"qu'il/elle": "chantât",
+			"qu'ils/elles": "chantassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse chanté",
+			"que": "vous eussiez chanté",
+			"qu'il/elle": "eût chanté",
+			"qu'ils/elles": "eussent chanté"
+		},
+		"passé": {
+			"j'": "aie chanté",
+			"que": "vous ayez chanté",
+			"qu'il/elle": "ait chanté",
+			"qu'ils/elles": "aient chanté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "chanterais",
+			"tu": "chanterais",
+			"il/elle": "chanterait",
+			"nous": "chanterions",
+			"vous": "chanteriez",
+			"ils/elles": "chanteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais chanté",
+			"tu": "aurais chanté",
+			"il/elle": "aurait chanté",
+			"nous": "aurions chanté",
+			"vous": "auriez chanté",
+			"ils/elles": "auraient chanté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse chanté",
+			"tu": "eusses chanté",
+			"il/elle": "eût chanté",
+			"nous": "eussions chanté",
+			"vous": "eussiez chanté",
+			"ils/elles": "eussent chanté"
+		}
+	},
+	"participe": {
+		"présent": { "chantant": "" },
+		"passé composé": { "ayant": "chanté" },
+		"passé": {
+			"masc.sg.:": "chanté",
+			"masc.pl.:": "chantés",
+			"fém.sg.:": "chantée",
+			"fém.pl.:": "chantées"
+		}
+	},
+	"imperatif": {
+		"présent": { "chante": "", "chantons": "", "chantez": "" },
+		"passé": { "aie": "chanté", "ayons": "chanté", "ayez": "chanté" }
+	},
+	"infinitif": { "présent": { "chanter": "" }, "passé": { "avoir": "chanté" } }
+}

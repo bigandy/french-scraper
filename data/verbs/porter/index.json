@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "wear; carry; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se porter/ne pas porter/ne pas se porter",
+	"indicatif": {
+		"présent": {
+			"je": "porte",
+			"tu": "portes",
+			"il/elle": "porte",
+			"nous": "portons",
+			"vous": "portez",
+			"ils/elles": "portent"
+		},
+		"imparfait": {
+			"je": "portais",
+			"tu": "portais",
+			"il/elle": "portait",
+			"nous": "portions",
+			"vous": "portiez",
+			"ils/elles": "portaient"
+		},
+		"futur": {
+			"je": "porterai",
+			"tu": "porteras",
+			"il/elle": "portera",
+			"nous": "porterons",
+			"vous": "porterez",
+			"ils/elles": "porteront"
+		},
+		"passé simple": {
+			"je": "portai",
+			"tu": "portas",
+			"il/elle": "porta",
+			"nous": "portâmes",
+			"vous": "portâtes",
+			"ils/elles": "portèrent"
+		},
+		"passé composé": {
+			"j'": "ai porté",
+			"tu": "as porté",
+			"il/elle": "a porté",
+			"nous": "avons porté",
+			"vous": "avez porté",
+			"ils/elles": "ont porté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais porté",
+			"tu": "avais porté",
+			"il/elle": "avait porté",
+			"nous": "avions porté",
+			"vous": "aviez porté",
+			"ils/elles": "avaient porté"
+		},
+		"passé antérieur": {
+			"j'": "eus porté",
+			"tu": "eus porté",
+			"il/elle": "eut porté",
+			"nous": "eûmes porté",
+			"vous": "eûtes porté",
+			"ils/elles": "eurent porté"
+		},
+		"futur antérieur": {
+			"j'": "aurai porté",
+			"tu": "auras porté",
+			"il/elle": "aura porté",
+			"nous": "aurons porté",
+			"vous": "aurez porté",
+			"ils/elles": "auront porté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous portiez",
+			"qu'il/elle": "porte",
+			"qu'ils/elles": "portent"
+		},
+		"imparfait": {
+			"que": "vous portassiez",
+			"qu'il/elle": "portât",
+			"qu'ils/elles": "portassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse porté",
+			"que": "vous eussiez porté",
+			"qu'il/elle": "eût porté",
+			"qu'ils/elles": "eussent porté"
+		},
+		"passé": {
+			"j'": "aie porté",
+			"que": "vous ayez porté",
+			"qu'il/elle": "ait porté",
+			"qu'ils/elles": "aient porté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "porterais",
+			"tu": "porterais",
+			"il/elle": "porterait",
+			"nous": "porterions",
+			"vous": "porteriez",
+			"ils/elles": "porteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais porté",
+			"tu": "aurais porté",
+			"il/elle": "aurait porté",
+			"nous": "aurions porté",
+			"vous": "auriez porté",
+			"ils/elles": "auraient porté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse porté",
+			"tu": "eusses porté",
+			"il/elle": "eût porté",
+			"nous": "eussions porté",
+			"vous": "eussiez porté",
+			"ils/elles": "eussent porté"
+		}
+	},
+	"participe": {
+		"présent": { "portant": "" },
+		"passé composé": { "ayant": "porté" },
+		"passé": {
+			"masc.sg.:": "porté",
+			"masc.pl.:": "portés",
+			"fém.sg.:": "portée",
+			"fém.pl.:": "portées"
+		}
+	},
+	"imperatif": {
+		"présent": { "porte": "", "portons": "", "portez": "" },
+		"passé": { "aie": "porté", "ayons": "porté", "ayez": "porté" }
+	},
+	"infinitif": { "présent": { "porter": "" }, "passé": { "avoir": "porté" } }
+}

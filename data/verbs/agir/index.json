@@ -1,0 +1,140 @@
+{
+	"name": "finir",
+	"definition": "act; take action; work; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "s'agir/ne pas agir/ne pas s'agir",
+	"indicatif": {
+		"présent": {
+			"j'": "agis",
+			"tu": "agis",
+			"il/elle": "agit",
+			"nous": "agissons",
+			"vous": "agissez",
+			"ils/elles": "agissent"
+		},
+		"imparfait": {
+			"j'": "agissais",
+			"tu": "agissais",
+			"il/elle": "agissait",
+			"nous": "agissions",
+			"vous": "agissiez",
+			"ils/elles": "agissaient"
+		},
+		"futur": {
+			"j'": "agirai",
+			"tu": "agiras",
+			"il/elle": "agira",
+			"nous": "agirons",
+			"vous": "agirez",
+			"ils/elles": "agiront"
+		},
+		"passé simple": {
+			"j'": "agis",
+			"tu": "agis",
+			"il/elle": "agit",
+			"nous": "agîmes",
+			"vous": "agîtes",
+			"ils/elles": "agirent"
+		},
+		"passé composé": {
+			"j'": "ai agi",
+			"tu": "as agi",
+			"il/elle": "a agi",
+			"nous": "avons agi",
+			"vous": "avez agi",
+			"ils/elles": "ont agi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais agi",
+			"tu": "avais agi",
+			"il/elle": "avait agi",
+			"nous": "avions agi",
+			"vous": "aviez agi",
+			"ils/elles": "avaient agi"
+		},
+		"passé antérieur": {
+			"j'": "eus agi",
+			"tu": "eus agi",
+			"il/elle": "eut agi",
+			"nous": "eûmes agi",
+			"vous": "eûtes agi",
+			"ils/elles": "eurent agi"
+		},
+		"futur antérieur": {
+			"j'": "aurai agi",
+			"tu": "auras agi",
+			"il/elle": "aura agi",
+			"nous": "aurons agi",
+			"vous": "aurez agi",
+			"ils/elles": "auront agi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "agisse",
+			"que": "vous agissiez",
+			"qu'il/elle": "agisse",
+			"qu'ils/elles": "agissent"
+		},
+		"imparfait": {
+			"j'": "agisse",
+			"que": "vous agissiez",
+			"qu'il/elle": "agît",
+			"qu'ils/elles": "agissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse agi",
+			"que": "vous eussiez agi",
+			"qu'il/elle": "eût agi",
+			"qu'ils/elles": "eussent agi"
+		},
+		"passé": {
+			"j'": "aie agi",
+			"que": "vous ayez agi",
+			"qu'il/elle": "ait agi",
+			"qu'ils/elles": "aient agi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "agirais",
+			"tu": "agirais",
+			"il/elle": "agirait",
+			"nous": "agirions",
+			"vous": "agiriez",
+			"ils/elles": "agiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais agi",
+			"tu": "aurais agi",
+			"il/elle": "aurait agi",
+			"nous": "aurions agi",
+			"vous": "auriez agi",
+			"ils/elles": "auraient agi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse agi",
+			"tu": "eusses agi",
+			"il/elle": "eût agi",
+			"nous": "eussions agi",
+			"vous": "eussiez agi",
+			"ils/elles": "eussent agi"
+		}
+	},
+	"participe": {
+		"présent": { "agissant": "" },
+		"passé composé": { "ayant": "agi" },
+		"passé": {
+			"masc.sg.:": "agi",
+			"masc.pl.:": "agis",
+			"fém.sg.:": "agie",
+			"fém.pl.:": "agies"
+		}
+	},
+	"imperatif": {
+		"présent": { "agis": "", "agissons": "", "agissez": "" },
+		"passé": { "aie": "agi", "ayons": "agi", "ayez": "agi" }
+	},
+	"infinitif": { "présent": { "agir": "" }, "passé": { "avoir": "agi" } }
+}

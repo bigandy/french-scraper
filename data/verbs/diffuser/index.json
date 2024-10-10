@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "disseminate; broadcast; spread; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se diffuser/ne pas diffuser/ne pas se diffuser",
+	"indicatif": {
+		"présent": {
+			"je": "diffuse",
+			"tu": "diffuses",
+			"il/elle": "diffuse",
+			"nous": "diffusons",
+			"vous": "diffusez",
+			"ils/elles": "diffusent"
+		},
+		"imparfait": {
+			"je": "diffusais",
+			"tu": "diffusais",
+			"il/elle": "diffusait",
+			"nous": "diffusions",
+			"vous": "diffusiez",
+			"ils/elles": "diffusaient"
+		},
+		"futur": {
+			"je": "diffuserai",
+			"tu": "diffuseras",
+			"il/elle": "diffusera",
+			"nous": "diffuserons",
+			"vous": "diffuserez",
+			"ils/elles": "diffuseront"
+		},
+		"passé simple": {
+			"je": "diffusai",
+			"tu": "diffusas",
+			"il/elle": "diffusa",
+			"nous": "diffusâmes",
+			"vous": "diffusâtes",
+			"ils/elles": "diffusèrent"
+		},
+		"passé composé": {
+			"j'": "ai diffusé",
+			"tu": "as diffusé",
+			"il/elle": "a diffusé",
+			"nous": "avons diffusé",
+			"vous": "avez diffusé",
+			"ils/elles": "ont diffusé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais diffusé",
+			"tu": "avais diffusé",
+			"il/elle": "avait diffusé",
+			"nous": "avions diffusé",
+			"vous": "aviez diffusé",
+			"ils/elles": "avaient diffusé"
+		},
+		"passé antérieur": {
+			"j'": "eus diffusé",
+			"tu": "eus diffusé",
+			"il/elle": "eut diffusé",
+			"nous": "eûmes diffusé",
+			"vous": "eûtes diffusé",
+			"ils/elles": "eurent diffusé"
+		},
+		"futur antérieur": {
+			"j'": "aurai diffusé",
+			"tu": "auras diffusé",
+			"il/elle": "aura diffusé",
+			"nous": "aurons diffusé",
+			"vous": "aurez diffusé",
+			"ils/elles": "auront diffusé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous diffusiez",
+			"qu'il/elle": "diffuse",
+			"qu'ils/elles": "diffusent"
+		},
+		"imparfait": {
+			"que": "vous diffusassiez",
+			"qu'il/elle": "diffusât",
+			"qu'ils/elles": "diffusassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse diffusé",
+			"que": "vous eussiez diffusé",
+			"qu'il/elle": "eût diffusé",
+			"qu'ils/elles": "eussent diffusé"
+		},
+		"passé": {
+			"j'": "aie diffusé",
+			"que": "vous ayez diffusé",
+			"qu'il/elle": "ait diffusé",
+			"qu'ils/elles": "aient diffusé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "diffuserais",
+			"tu": "diffuserais",
+			"il/elle": "diffuserait",
+			"nous": "diffuserions",
+			"vous": "diffuseriez",
+			"ils/elles": "diffuseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais diffusé",
+			"tu": "aurais diffusé",
+			"il/elle": "aurait diffusé",
+			"nous": "aurions diffusé",
+			"vous": "auriez diffusé",
+			"ils/elles": "auraient diffusé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse diffusé",
+			"tu": "eusses diffusé",
+			"il/elle": "eût diffusé",
+			"nous": "eussions diffusé",
+			"vous": "eussiez diffusé",
+			"ils/elles": "eussent diffusé"
+		}
+	},
+	"participe": {
+		"présent": { "diffusant": "" },
+		"passé composé": { "ayant": "diffusé" },
+		"passé": {
+			"masc.sg.:": "diffusé",
+			"masc.pl.:": "diffusés",
+			"fém.sg.:": "diffusée",
+			"fém.pl.:": "diffusées"
+		}
+	},
+	"imperatif": {
+		"présent": { "diffuse": "", "diffusons": "", "diffusez": "" },
+		"passé": { "aie": "diffusé", "ayons": "diffusé", "ayez": "diffusé" }
+	},
+	"infinitif": {
+		"présent": { "diffuser": "" },
+		"passé": { "avoir": "diffusé" }
+	}
+}

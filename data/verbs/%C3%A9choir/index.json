@@ -1,0 +1,151 @@
+{
+	"name": "échoir",
+	"definition": "fall; accrue; devolve upon; ...",
+	"model": "échoir",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "ne pas échoir",
+	"indicatif": {
+		"présent": { "il/elle": "échet", "ils/elles": "échéent", "": "" },
+		"imparfait": { "il/elle": "échoyait", "ils/elles": "échoyaient" },
+		"futur": { "il/elle": "écherra", "ils/elles": "écherront", "": "" },
+		"passé simple": { "il/elle": "échut", "ils/elles": "échurent" },
+		"passé composé": {
+			"j'": "ai échu",
+			"tu": "es échu",
+			"il/elle": "a échu",
+			"nous": "sommes échus",
+			"vous": "êtes échus",
+			"ils/elles": "ont échu",
+			"": "",
+			"je": "suis échu",
+			"il": "est échu",
+			"elle": "est échue",
+			"ils": "sont échus",
+			"elles": "sont échues"
+		},
+		"plus-que-parfait": {
+			"j'": "étais échu",
+			"tu": "étais échu",
+			"il/elle": "avait échu",
+			"nous": "étions échus",
+			"vous": "étiez échus",
+			"ils/elles": "avaient échu",
+			"": "",
+			"il": "était échu",
+			"elle": "était échue",
+			"ils": "étaient échus",
+			"elles": "étaient échues"
+		},
+		"passé antérieur": {
+			"j'": "eus échu",
+			"tu": "fus échu",
+			"il/elle": "eut échu",
+			"nous": "fûmes échus",
+			"vous": "fûtes échus",
+			"ils/elles": "eurent échu",
+			"": "",
+			"je": "fus échu",
+			"il": "fut échu",
+			"elle": "fut échue",
+			"ils": "furent échus",
+			"elles": "furent échues"
+		},
+		"futur antérieur": {
+			"j'": "aurai échu",
+			"tu": "seras échu",
+			"il/elle": "aura échu",
+			"nous": "serons échus",
+			"vous": "serez échus",
+			"ils/elles": "auront échu",
+			"": "",
+			"je": "serai échu",
+			"il": "sera échu",
+			"elle": "sera échue",
+			"ils": "seront échus",
+			"elles": "seront échues"
+		}
+	},
+	"subjonctif": {
+		"présent": { "qu'il/elle": "échée", "qu'ils/elles": "échéent", "": "" },
+		"imparfait": { "qu'il/elle": "échût", "qu'ils/elles": "échussent" },
+		"plus-que-parfait": {
+			"j'": "eusse échu",
+			"que": "vous fussiez échus",
+			"qu'il/elle": "eût échu",
+			"qu'ils/elles": "eussent échu",
+			"": "",
+			"qu'il": "fût échu",
+			"qu'elle": "fût échue",
+			"qu'ils": "fussent échus",
+			"qu'elles": "fussent échues"
+		},
+		"passé": {
+			"j'": "aie échu",
+			"que": "vous soyez échus",
+			"qu'il/elle": "ait échu",
+			"qu'ils/elles": "aient échu",
+			"": "",
+			"qu'il": "soit échu",
+			"qu'elle": "soit échue",
+			"qu'ils": "soient échus",
+			"qu'elles": "soient échues"
+		}
+	},
+	"conditionnel": {
+		"présent": { "il/elle": "écherrait", "ils/elles": "écherraient", "": "" },
+		"passé première forme": {
+			"j'": "aurais échu",
+			"tu": "serais échu",
+			"il/elle": "aurait échu",
+			"nous": "serions échus",
+			"vous": "seriez échus",
+			"ils/elles": "auraient échu",
+			"": "",
+			"je": "serais échu",
+			"il": "serait échu",
+			"elle": "serait échue",
+			"ils": "seraient échus",
+			"elles": "seraient échues"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse échu",
+			"tu": "fusses échu",
+			"il/elle": "eût échu",
+			"nous": "fussions échus",
+			"vous": "fussiez échus",
+			"ils/elles": "eussent échu",
+			"": "",
+			"je": "fusse échu",
+			"il": "fût échu",
+			"elle": "fût échue",
+			"ils": "fussent échus",
+			"elles": "fussent échues"
+		}
+	},
+	"participe": {
+		"présent": { "échéant": "" },
+		"passé composé": { "ayant": "échu", "": "", "étant": "échue" },
+		"passé": {
+			"masc.sg.:": "échu",
+			"masc.pl.:": "échus",
+			"fém.sg.:": "échue",
+			"fém.pl.:": "échues"
+		}
+	},
+	"imperatif": {
+		"présent": {},
+		"passé": {
+			"aie": "échu",
+			"ayons": "échu",
+			"ayez": "échu",
+			"": "",
+			"sois": "échu",
+			"soyons": "échu",
+			"soyez": "échu"
+		}
+	},
+	"infinitif": {
+		"présent": { "échoir": "" },
+		"passé": { "avoir": "échu", "": "", "être": "échu" }
+	}
+}

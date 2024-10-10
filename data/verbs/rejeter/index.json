@@ -1,0 +1,138 @@
+{
+	"name": "jeter",
+	"definition": "reject; dismiss; deny; ...",
+	"model": "jeter",
+	"auxiliary": "avoir",
+	"otherForms": "se rejeter/ne pas rejeter/ne pas se rejeter",
+	"indicatif": {
+		"présent": {
+			"je": "rejette",
+			"tu": "rejettes",
+			"il/elle": "rejette",
+			"nous": "rejetons",
+			"vous": "rejetez",
+			"ils/elles": "rejettent"
+		},
+		"imparfait": {
+			"je": "rejetais",
+			"tu": "rejetais",
+			"il/elle": "rejetait",
+			"nous": "rejetions",
+			"vous": "rejetiez",
+			"ils/elles": "rejetaient"
+		},
+		"futur": {
+			"je": "rejetterai",
+			"tu": "rejetteras",
+			"il/elle": "rejettera",
+			"nous": "rejetterons",
+			"vous": "rejetterez",
+			"ils/elles": "rejetteront"
+		},
+		"passé simple": {
+			"je": "rejetai",
+			"tu": "rejetas",
+			"il/elle": "rejeta",
+			"nous": "rejetâmes",
+			"vous": "rejetâtes",
+			"ils/elles": "rejetèrent"
+		},
+		"passé composé": {
+			"j'": "ai rejeté",
+			"tu": "as rejeté",
+			"il/elle": "a rejeté",
+			"nous": "avons rejeté",
+			"vous": "avez rejeté",
+			"ils/elles": "ont rejeté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais rejeté",
+			"tu": "avais rejeté",
+			"il/elle": "avait rejeté",
+			"nous": "avions rejeté",
+			"vous": "aviez rejeté",
+			"ils/elles": "avaient rejeté"
+		},
+		"passé antérieur": {
+			"j'": "eus rejeté",
+			"tu": "eus rejeté",
+			"il/elle": "eut rejeté",
+			"nous": "eûmes rejeté",
+			"vous": "eûtes rejeté",
+			"ils/elles": "eurent rejeté"
+		},
+		"futur antérieur": {
+			"j'": "aurai rejeté",
+			"tu": "auras rejeté",
+			"il/elle": "aura rejeté",
+			"nous": "aurons rejeté",
+			"vous": "aurez rejeté",
+			"ils/elles": "auront rejeté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous rejetiez",
+			"qu'il/elle": "rejette",
+			"qu'ils/elles": "rejettent"
+		},
+		"imparfait": {
+			"que": "vous rejetassiez",
+			"qu'il/elle": "rejetât",
+			"qu'ils/elles": "rejetassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse rejeté",
+			"que": "vous eussiez rejeté",
+			"qu'il/elle": "eût rejeté",
+			"qu'ils/elles": "eussent rejeté"
+		},
+		"passé": {
+			"j'": "aie rejeté",
+			"que": "vous ayez rejeté",
+			"qu'il/elle": "ait rejeté",
+			"qu'ils/elles": "aient rejeté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "rejetterais",
+			"tu": "rejetterais",
+			"il/elle": "rejetterait",
+			"nous": "rejetterions",
+			"vous": "rejetteriez",
+			"ils/elles": "rejetteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais rejeté",
+			"tu": "aurais rejeté",
+			"il/elle": "aurait rejeté",
+			"nous": "aurions rejeté",
+			"vous": "auriez rejeté",
+			"ils/elles": "auraient rejeté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse rejeté",
+			"tu": "eusses rejeté",
+			"il/elle": "eût rejeté",
+			"nous": "eussions rejeté",
+			"vous": "eussiez rejeté",
+			"ils/elles": "eussent rejeté"
+		}
+	},
+	"participe": {
+		"présent": { "rejetant": "" },
+		"passé composé": { "ayant": "rejeté" },
+		"passé": {
+			"masc.sg.:": "rejeté",
+			"masc.pl.:": "rejetés",
+			"fém.sg.:": "rejetée",
+			"fém.pl.:": "rejetées"
+		}
+	},
+	"imperatif": {
+		"présent": { "rejette": "", "rejetons": "", "rejetez": "" },
+		"passé": { "aie": "rejeté", "ayons": "rejeté", "ayez": "rejeté" }
+	},
+	"infinitif": { "présent": { "rejeter": "" }, "passé": { "avoir": "rejeté" } }
+}

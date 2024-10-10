@@ -1,0 +1,145 @@
+{
+	"name": "marcher",
+	"definition": "reward; award; recognize; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se récompenser/ne pas récompenser/ne pas se récompenser",
+	"indicatif": {
+		"présent": {
+			"je": "récompense",
+			"tu": "récompenses",
+			"il/elle": "récompense",
+			"nous": "récompensons",
+			"vous": "récompensez",
+			"ils/elles": "récompensent"
+		},
+		"imparfait": {
+			"je": "récompensais",
+			"tu": "récompensais",
+			"il/elle": "récompensait",
+			"nous": "récompensions",
+			"vous": "récompensiez",
+			"ils/elles": "récompensaient"
+		},
+		"futur": {
+			"je": "récompenserai",
+			"tu": "récompenseras",
+			"il/elle": "récompensera",
+			"nous": "récompenserons",
+			"vous": "récompenserez",
+			"ils/elles": "récompenseront"
+		},
+		"passé simple": {
+			"je": "récompensai",
+			"tu": "récompensas",
+			"il/elle": "récompensa",
+			"nous": "récompensâmes",
+			"vous": "récompensâtes",
+			"ils/elles": "récompensèrent"
+		},
+		"passé composé": {
+			"j'": "ai récompensé",
+			"tu": "as récompensé",
+			"il/elle": "a récompensé",
+			"nous": "avons récompensé",
+			"vous": "avez récompensé",
+			"ils/elles": "ont récompensé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais récompensé",
+			"tu": "avais récompensé",
+			"il/elle": "avait récompensé",
+			"nous": "avions récompensé",
+			"vous": "aviez récompensé",
+			"ils/elles": "avaient récompensé"
+		},
+		"passé antérieur": {
+			"j'": "eus récompensé",
+			"tu": "eus récompensé",
+			"il/elle": "eut récompensé",
+			"nous": "eûmes récompensé",
+			"vous": "eûtes récompensé",
+			"ils/elles": "eurent récompensé"
+		},
+		"futur antérieur": {
+			"j'": "aurai récompensé",
+			"tu": "auras récompensé",
+			"il/elle": "aura récompensé",
+			"nous": "aurons récompensé",
+			"vous": "aurez récompensé",
+			"ils/elles": "auront récompensé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous récompensiez",
+			"qu'il/elle": "récompense",
+			"qu'ils/elles": "récompensent"
+		},
+		"imparfait": {
+			"que": "vous récompensassiez",
+			"qu'il/elle": "récompensât",
+			"qu'ils/elles": "récompensassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse récompensé",
+			"que": "vous eussiez récompensé",
+			"qu'il/elle": "eût récompensé",
+			"qu'ils/elles": "eussent récompensé"
+		},
+		"passé": {
+			"j'": "aie récompensé",
+			"que": "vous ayez récompensé",
+			"qu'il/elle": "ait récompensé",
+			"qu'ils/elles": "aient récompensé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "récompenserais",
+			"tu": "récompenserais",
+			"il/elle": "récompenserait",
+			"nous": "récompenserions",
+			"vous": "récompenseriez",
+			"ils/elles": "récompenseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais récompensé",
+			"tu": "aurais récompensé",
+			"il/elle": "aurait récompensé",
+			"nous": "aurions récompensé",
+			"vous": "auriez récompensé",
+			"ils/elles": "auraient récompensé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse récompensé",
+			"tu": "eusses récompensé",
+			"il/elle": "eût récompensé",
+			"nous": "eussions récompensé",
+			"vous": "eussiez récompensé",
+			"ils/elles": "eussent récompensé"
+		}
+	},
+	"participe": {
+		"présent": { "récompensant": "" },
+		"passé composé": { "ayant": "récompensé" },
+		"passé": {
+			"masc.sg.:": "récompensé",
+			"masc.pl.:": "récompensés",
+			"fém.sg.:": "récompensée",
+			"fém.pl.:": "récompensées"
+		}
+	},
+	"imperatif": {
+		"présent": { "récompense": "", "récompensons": "", "récompensez": "" },
+		"passé": {
+			"aie": "récompensé",
+			"ayons": "récompensé",
+			"ayez": "récompensé"
+		}
+	},
+	"infinitif": {
+		"présent": { "récompenser": "" },
+		"passé": { "avoir": "récompensé" }
+	}
+}

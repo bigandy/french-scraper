@@ -1,0 +1,194 @@
+{
+	"name": "lever",
+	"definition": "die; starve; kill; ...",
+	"model": "lever",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "se crever/ne pas crever/ne pas se crever",
+	"indicatif": {
+		"présent": {
+			"je": "crève",
+			"tu": "crèves",
+			"il/elle": "crève",
+			"nous": "crevons",
+			"vous": "crevez",
+			"ils/elles": "crèvent"
+		},
+		"imparfait": {
+			"je": "crevais",
+			"tu": "crevais",
+			"il/elle": "crevait",
+			"nous": "crevions",
+			"vous": "creviez",
+			"ils/elles": "crevaient"
+		},
+		"futur": {
+			"je": "crèverai",
+			"tu": "crèveras",
+			"il/elle": "crèvera",
+			"nous": "crèverons",
+			"vous": "crèverez",
+			"ils/elles": "crèveront"
+		},
+		"passé simple": {
+			"je": "crevai",
+			"tu": "crevas",
+			"il/elle": "creva",
+			"nous": "crevâmes",
+			"vous": "crevâtes",
+			"ils/elles": "crevèrent"
+		},
+		"passé composé": {
+			"j'": "ai crevé",
+			"tu": "es crevé",
+			"il/elle": "a crevé",
+			"nous": "sommes crevés",
+			"vous": "êtes crevés",
+			"ils/elles": "ont crevé",
+			"": "",
+			"je": "suis crevé",
+			"il": "est crevé",
+			"elle": "est crevée",
+			"ils": "sont crevés",
+			"elles": "sont crevées"
+		},
+		"plus-que-parfait": {
+			"j'": "étais crevé",
+			"tu": "étais crevé",
+			"il/elle": "avait crevé",
+			"nous": "étions crevés",
+			"vous": "étiez crevés",
+			"ils/elles": "avaient crevé",
+			"": "",
+			"il": "était crevé",
+			"elle": "était crevée",
+			"ils": "étaient crevés",
+			"elles": "étaient crevées"
+		},
+		"passé antérieur": {
+			"j'": "eus crevé",
+			"tu": "fus crevé",
+			"il/elle": "eut crevé",
+			"nous": "fûmes crevés",
+			"vous": "fûtes crevés",
+			"ils/elles": "eurent crevé",
+			"": "",
+			"je": "fus crevé",
+			"il": "fut crevé",
+			"elle": "fut crevée",
+			"ils": "furent crevés",
+			"elles": "furent crevées"
+		},
+		"futur antérieur": {
+			"j'": "aurai crevé",
+			"tu": "seras crevé",
+			"il/elle": "aura crevé",
+			"nous": "serons crevés",
+			"vous": "serez crevés",
+			"ils/elles": "auront crevé",
+			"": "",
+			"je": "serai crevé",
+			"il": "sera crevé",
+			"elle": "sera crevée",
+			"ils": "seront crevés",
+			"elles": "seront crevées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous creviez",
+			"qu'il/elle": "crève",
+			"qu'ils/elles": "crèvent"
+		},
+		"imparfait": {
+			"que": "vous crevassiez",
+			"qu'il/elle": "crevât",
+			"qu'ils/elles": "crevassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse crevé",
+			"que": "vous fussiez crevés",
+			"qu'il/elle": "eût crevé",
+			"qu'ils/elles": "eussent crevé",
+			"": "",
+			"qu'il": "fût crevé",
+			"qu'elle": "fût crevée",
+			"qu'ils": "fussent crevés",
+			"qu'elles": "fussent crevées"
+		},
+		"passé": {
+			"j'": "aie crevé",
+			"que": "vous soyez crevés",
+			"qu'il/elle": "ait crevé",
+			"qu'ils/elles": "aient crevé",
+			"": "",
+			"qu'il": "soit crevé",
+			"qu'elle": "soit crevée",
+			"qu'ils": "soient crevés",
+			"qu'elles": "soient crevées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "crèverais",
+			"tu": "crèverais",
+			"il/elle": "crèverait",
+			"nous": "crèverions",
+			"vous": "crèveriez",
+			"ils/elles": "crèveraient"
+		},
+		"passé première forme": {
+			"j'": "aurais crevé",
+			"tu": "serais crevé",
+			"il/elle": "aurait crevé",
+			"nous": "serions crevés",
+			"vous": "seriez crevés",
+			"ils/elles": "auraient crevé",
+			"": "",
+			"je": "serais crevé",
+			"il": "serait crevé",
+			"elle": "serait crevée",
+			"ils": "seraient crevés",
+			"elles": "seraient crevées"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse crevé",
+			"tu": "fusses crevé",
+			"il/elle": "eût crevé",
+			"nous": "fussions crevés",
+			"vous": "fussiez crevés",
+			"ils/elles": "eussent crevé",
+			"": "",
+			"je": "fusse crevé",
+			"il": "fût crevé",
+			"elle": "fût crevée",
+			"ils": "fussent crevés",
+			"elles": "fussent crevées"
+		}
+	},
+	"participe": {
+		"présent": { "crevant": "" },
+		"passé composé": { "ayant": "crevé", "": "", "étant": "crevée" },
+		"passé": {
+			"masc.sg.:": "crevé",
+			"masc.pl.:": "crevés",
+			"fém.sg.:": "crevée",
+			"fém.pl.:": "crevées"
+		}
+	},
+	"imperatif": {
+		"présent": { "crève": "", "crevons": "", "crevez": "" },
+		"passé": {
+			"aie": "crevé",
+			"ayons": "crevé",
+			"ayez": "crevé",
+			"": "",
+			"sois": "crevé",
+			"soyons": "crevé",
+			"soyez": "crevé"
+		}
+	},
+	"infinitif": {
+		"présent": { "crever": "" },
+		"passé": { "avoir": "crevé", "": "", "être": "crevé" }
+	}
+}

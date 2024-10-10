@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "display; show; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'afficher/ne pas afficher/ne pas s'afficher",
+	"indicatif": {
+		"présent": {
+			"j'": "affiche",
+			"tu": "affiches",
+			"il/elle": "affiche",
+			"nous": "affichons",
+			"vous": "affichez",
+			"ils/elles": "affichent"
+		},
+		"imparfait": {
+			"j'": "affichais",
+			"tu": "affichais",
+			"il/elle": "affichait",
+			"nous": "affichions",
+			"vous": "affichiez",
+			"ils/elles": "affichaient"
+		},
+		"futur": {
+			"j'": "afficherai",
+			"tu": "afficheras",
+			"il/elle": "affichera",
+			"nous": "afficherons",
+			"vous": "afficherez",
+			"ils/elles": "afficheront"
+		},
+		"passé simple": {
+			"j'": "affichai",
+			"tu": "affichas",
+			"il/elle": "afficha",
+			"nous": "affichâmes",
+			"vous": "affichâtes",
+			"ils/elles": "affichèrent"
+		},
+		"passé composé": {
+			"j'": "ai affiché",
+			"tu": "as affiché",
+			"il/elle": "a affiché",
+			"nous": "avons affiché",
+			"vous": "avez affiché",
+			"ils/elles": "ont affiché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais affiché",
+			"tu": "avais affiché",
+			"il/elle": "avait affiché",
+			"nous": "avions affiché",
+			"vous": "aviez affiché",
+			"ils/elles": "avaient affiché"
+		},
+		"passé antérieur": {
+			"j'": "eus affiché",
+			"tu": "eus affiché",
+			"il/elle": "eut affiché",
+			"nous": "eûmes affiché",
+			"vous": "eûtes affiché",
+			"ils/elles": "eurent affiché"
+		},
+		"futur antérieur": {
+			"j'": "aurai affiché",
+			"tu": "auras affiché",
+			"il/elle": "aura affiché",
+			"nous": "aurons affiché",
+			"vous": "aurez affiché",
+			"ils/elles": "auront affiché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "affiche",
+			"que": "vous affichiez",
+			"qu'il/elle": "affiche",
+			"qu'ils/elles": "affichent"
+		},
+		"imparfait": {
+			"j'": "affichasse",
+			"que": "vous affichassiez",
+			"qu'il/elle": "affichât",
+			"qu'ils/elles": "affichassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse affiché",
+			"que": "vous eussiez affiché",
+			"qu'il/elle": "eût affiché",
+			"qu'ils/elles": "eussent affiché"
+		},
+		"passé": {
+			"j'": "aie affiché",
+			"que": "vous ayez affiché",
+			"qu'il/elle": "ait affiché",
+			"qu'ils/elles": "aient affiché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "afficherais",
+			"tu": "afficherais",
+			"il/elle": "afficherait",
+			"nous": "afficherions",
+			"vous": "afficheriez",
+			"ils/elles": "afficheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais affiché",
+			"tu": "aurais affiché",
+			"il/elle": "aurait affiché",
+			"nous": "aurions affiché",
+			"vous": "auriez affiché",
+			"ils/elles": "auraient affiché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse affiché",
+			"tu": "eusses affiché",
+			"il/elle": "eût affiché",
+			"nous": "eussions affiché",
+			"vous": "eussiez affiché",
+			"ils/elles": "eussent affiché"
+		}
+	},
+	"participe": {
+		"présent": { "affichant": "" },
+		"passé composé": { "ayant": "affiché" },
+		"passé": {
+			"masc.sg.:": "affiché",
+			"masc.pl.:": "affichés",
+			"fém.sg.:": "affichée",
+			"fém.pl.:": "affichées"
+		}
+	},
+	"imperatif": {
+		"présent": { "affiche": "", "affichons": "", "affichez": "" },
+		"passé": { "aie": "affiché", "ayons": "affiché", "ayez": "affiché" }
+	},
+	"infinitif": {
+		"présent": { "afficher": "" },
+		"passé": { "avoir": "affiché" }
+	}
+}

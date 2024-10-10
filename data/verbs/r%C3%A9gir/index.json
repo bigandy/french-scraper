@@ -1,0 +1,138 @@
+{
+	"name": "finir",
+	"definition": "govern; regulate; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se régir/ne pas régir/ne pas se régir",
+	"indicatif": {
+		"présent": {
+			"je": "régis",
+			"tu": "régis",
+			"il/elle": "régit",
+			"nous": "régissons",
+			"vous": "régissez",
+			"ils/elles": "régissent"
+		},
+		"imparfait": {
+			"je": "régissais",
+			"tu": "régissais",
+			"il/elle": "régissait",
+			"nous": "régissions",
+			"vous": "régissiez",
+			"ils/elles": "régissaient"
+		},
+		"futur": {
+			"je": "régirai",
+			"tu": "régiras",
+			"il/elle": "régira",
+			"nous": "régirons",
+			"vous": "régirez",
+			"ils/elles": "régiront"
+		},
+		"passé simple": {
+			"je": "régis",
+			"tu": "régis",
+			"il/elle": "régit",
+			"nous": "régîmes",
+			"vous": "régîtes",
+			"ils/elles": "régirent"
+		},
+		"passé composé": {
+			"j'": "ai régi",
+			"tu": "as régi",
+			"il/elle": "a régi",
+			"nous": "avons régi",
+			"vous": "avez régi",
+			"ils/elles": "ont régi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais régi",
+			"tu": "avais régi",
+			"il/elle": "avait régi",
+			"nous": "avions régi",
+			"vous": "aviez régi",
+			"ils/elles": "avaient régi"
+		},
+		"passé antérieur": {
+			"j'": "eus régi",
+			"tu": "eus régi",
+			"il/elle": "eut régi",
+			"nous": "eûmes régi",
+			"vous": "eûtes régi",
+			"ils/elles": "eurent régi"
+		},
+		"futur antérieur": {
+			"j'": "aurai régi",
+			"tu": "auras régi",
+			"il/elle": "aura régi",
+			"nous": "aurons régi",
+			"vous": "aurez régi",
+			"ils/elles": "auront régi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous régissiez",
+			"qu'il/elle": "régisse",
+			"qu'ils/elles": "régissent"
+		},
+		"imparfait": {
+			"que": "vous régissiez",
+			"qu'il/elle": "régît",
+			"qu'ils/elles": "régissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse régi",
+			"que": "vous eussiez régi",
+			"qu'il/elle": "eût régi",
+			"qu'ils/elles": "eussent régi"
+		},
+		"passé": {
+			"j'": "aie régi",
+			"que": "vous ayez régi",
+			"qu'il/elle": "ait régi",
+			"qu'ils/elles": "aient régi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "régirais",
+			"tu": "régirais",
+			"il/elle": "régirait",
+			"nous": "régirions",
+			"vous": "régiriez",
+			"ils/elles": "régiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais régi",
+			"tu": "aurais régi",
+			"il/elle": "aurait régi",
+			"nous": "aurions régi",
+			"vous": "auriez régi",
+			"ils/elles": "auraient régi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse régi",
+			"tu": "eusses régi",
+			"il/elle": "eût régi",
+			"nous": "eussions régi",
+			"vous": "eussiez régi",
+			"ils/elles": "eussent régi"
+		}
+	},
+	"participe": {
+		"présent": { "régissant": "" },
+		"passé composé": { "ayant": "régi" },
+		"passé": {
+			"masc.sg.:": "régi",
+			"masc.pl.:": "régis",
+			"fém.sg.:": "régie",
+			"fém.pl.:": "régies"
+		}
+	},
+	"imperatif": {
+		"présent": { "régis": "", "régissons": "", "régissez": "" },
+		"passé": { "aie": "régi", "ayons": "régi", "ayez": "régi" }
+	},
+	"infinitif": { "présent": { "régir": "" }, "passé": { "avoir": "régi" } }
+}

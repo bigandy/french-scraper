@@ -1,0 +1,138 @@
+{
+	"name": "promener",
+	"definition": "bring; return; ...",
+	"model": "promener",
+	"auxiliary": "avoir",
+	"otherForms": "se ramener/ne pas ramener/ne pas se ramener",
+	"indicatif": {
+		"présent": {
+			"je": "ramène",
+			"tu": "ramènes",
+			"il/elle": "ramène",
+			"nous": "ramenons",
+			"vous": "ramenez",
+			"ils/elles": "ramènent"
+		},
+		"imparfait": {
+			"je": "ramenais",
+			"tu": "ramenais",
+			"il/elle": "ramenait",
+			"nous": "ramenions",
+			"vous": "rameniez",
+			"ils/elles": "ramenaient"
+		},
+		"futur": {
+			"je": "ramènerai",
+			"tu": "ramèneras",
+			"il/elle": "ramènera",
+			"nous": "ramènerons",
+			"vous": "ramènerez",
+			"ils/elles": "ramèneront"
+		},
+		"passé simple": {
+			"je": "ramenai",
+			"tu": "ramenas",
+			"il/elle": "ramena",
+			"nous": "ramenâmes",
+			"vous": "ramenâtes",
+			"ils/elles": "ramenèrent"
+		},
+		"passé composé": {
+			"j'": "ai ramené",
+			"tu": "as ramené",
+			"il/elle": "a ramené",
+			"nous": "avons ramené",
+			"vous": "avez ramené",
+			"ils/elles": "ont ramené"
+		},
+		"plus-que-parfait": {
+			"j'": "avais ramené",
+			"tu": "avais ramené",
+			"il/elle": "avait ramené",
+			"nous": "avions ramené",
+			"vous": "aviez ramené",
+			"ils/elles": "avaient ramené"
+		},
+		"passé antérieur": {
+			"j'": "eus ramené",
+			"tu": "eus ramené",
+			"il/elle": "eut ramené",
+			"nous": "eûmes ramené",
+			"vous": "eûtes ramené",
+			"ils/elles": "eurent ramené"
+		},
+		"futur antérieur": {
+			"j'": "aurai ramené",
+			"tu": "auras ramené",
+			"il/elle": "aura ramené",
+			"nous": "aurons ramené",
+			"vous": "aurez ramené",
+			"ils/elles": "auront ramené"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous rameniez",
+			"qu'il/elle": "ramène",
+			"qu'ils/elles": "ramènent"
+		},
+		"imparfait": {
+			"que": "vous ramenassiez",
+			"qu'il/elle": "ramenât",
+			"qu'ils/elles": "ramenassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse ramené",
+			"que": "vous eussiez ramené",
+			"qu'il/elle": "eût ramené",
+			"qu'ils/elles": "eussent ramené"
+		},
+		"passé": {
+			"j'": "aie ramené",
+			"que": "vous ayez ramené",
+			"qu'il/elle": "ait ramené",
+			"qu'ils/elles": "aient ramené"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "ramènerais",
+			"tu": "ramènerais",
+			"il/elle": "ramènerait",
+			"nous": "ramènerions",
+			"vous": "ramèneriez",
+			"ils/elles": "ramèneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais ramené",
+			"tu": "aurais ramené",
+			"il/elle": "aurait ramené",
+			"nous": "aurions ramené",
+			"vous": "auriez ramené",
+			"ils/elles": "auraient ramené"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse ramené",
+			"tu": "eusses ramené",
+			"il/elle": "eût ramené",
+			"nous": "eussions ramené",
+			"vous": "eussiez ramené",
+			"ils/elles": "eussent ramené"
+		}
+	},
+	"participe": {
+		"présent": { "ramenant": "" },
+		"passé composé": { "ayant": "ramené" },
+		"passé": {
+			"masc.sg.:": "ramené",
+			"masc.pl.:": "ramenés",
+			"fém.sg.:": "ramenée",
+			"fém.pl.:": "ramenées"
+		}
+	},
+	"imperatif": {
+		"présent": { "ramène": "", "ramenons": "", "ramenez": "" },
+		"passé": { "aie": "ramené", "ayons": "ramené", "ayez": "ramené" }
+	},
+	"infinitif": { "présent": { "ramener": "" }, "passé": { "avoir": "ramené" } }
+}

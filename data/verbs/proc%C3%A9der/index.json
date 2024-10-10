@@ -1,0 +1,141 @@
+{
+	"name": "céder",
+	"definition": "proceed; conduct; ...",
+	"model": "céder",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas procéder",
+	"indicatif": {
+		"présent": {
+			"je": "procède",
+			"tu": "procèdes",
+			"il/elle": "procède",
+			"nous": "procédons",
+			"vous": "procédez",
+			"ils/elles": "procèdent"
+		},
+		"imparfait": {
+			"je": "procédais",
+			"tu": "procédais",
+			"il/elle": "procédait",
+			"nous": "procédions",
+			"vous": "procédiez",
+			"ils/elles": "procédaient"
+		},
+		"futur": {
+			"je": "procéderai",
+			"tu": "procéderas",
+			"il/elle": "procédera",
+			"nous": "procéderons",
+			"vous": "procéderez",
+			"ils/elles": "procéderont"
+		},
+		"passé simple": {
+			"je": "procédai",
+			"tu": "procédas",
+			"il/elle": "procéda",
+			"nous": "procédâmes",
+			"vous": "procédâtes",
+			"ils/elles": "procédèrent"
+		},
+		"passé composé": {
+			"j'": "ai procédé",
+			"tu": "as procédé",
+			"il/elle": "a procédé",
+			"nous": "avons procédé",
+			"vous": "avez procédé",
+			"ils/elles": "ont procédé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais procédé",
+			"tu": "avais procédé",
+			"il/elle": "avait procédé",
+			"nous": "avions procédé",
+			"vous": "aviez procédé",
+			"ils/elles": "avaient procédé"
+		},
+		"passé antérieur": {
+			"j'": "eus procédé",
+			"tu": "eus procédé",
+			"il/elle": "eut procédé",
+			"nous": "eûmes procédé",
+			"vous": "eûtes procédé",
+			"ils/elles": "eurent procédé"
+		},
+		"futur antérieur": {
+			"j'": "aurai procédé",
+			"tu": "auras procédé",
+			"il/elle": "aura procédé",
+			"nous": "aurons procédé",
+			"vous": "aurez procédé",
+			"ils/elles": "auront procédé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous procédiez",
+			"qu'il/elle": "procède",
+			"qu'ils/elles": "procèdent"
+		},
+		"imparfait": {
+			"que": "vous procédassiez",
+			"qu'il/elle": "procédât",
+			"qu'ils/elles": "procédassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse procédé",
+			"que": "vous eussiez procédé",
+			"qu'il/elle": "eût procédé",
+			"qu'ils/elles": "eussent procédé"
+		},
+		"passé": {
+			"j'": "aie procédé",
+			"que": "vous ayez procédé",
+			"qu'il/elle": "ait procédé",
+			"qu'ils/elles": "aient procédé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "procéderais",
+			"tu": "procéderais",
+			"il/elle": "procéderait",
+			"nous": "procéderions",
+			"vous": "procéderiez",
+			"ils/elles": "procéderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais procédé",
+			"tu": "aurais procédé",
+			"il/elle": "aurait procédé",
+			"nous": "aurions procédé",
+			"vous": "auriez procédé",
+			"ils/elles": "auraient procédé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse procédé",
+			"tu": "eusses procédé",
+			"il/elle": "eût procédé",
+			"nous": "eussions procédé",
+			"vous": "eussiez procédé",
+			"ils/elles": "eussent procédé"
+		}
+	},
+	"participe": {
+		"présent": { "procédant": "" },
+		"passé composé": { "ayant": "procédé" },
+		"passé": {
+			"masc.sg.:": "procédé",
+			"masc.pl.:": "procédés",
+			"fém.sg.:": "procédée",
+			"fém.pl.:": "procédées"
+		}
+	},
+	"imperatif": {
+		"présent": { "procède": "", "procédons": "", "procédez": "" },
+		"passé": { "aie": "procédé", "ayons": "procédé", "ayez": "procédé" }
+	},
+	"infinitif": {
+		"présent": { "procéder": "" },
+		"passé": { "avoir": "procédé" }
+	}
+}

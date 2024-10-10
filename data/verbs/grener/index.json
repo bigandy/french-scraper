@@ -1,0 +1,138 @@
+{
+	"name": "promener",
+	"definition": "seed; grain; ...",
+	"model": "promener",
+	"auxiliary": "avoir",
+	"otherForms": "se grener/ne pas grener/ne pas se grener",
+	"indicatif": {
+		"présent": {
+			"je": "grène",
+			"tu": "grènes",
+			"il/elle": "grène",
+			"nous": "grenons",
+			"vous": "grenez",
+			"ils/elles": "grènent"
+		},
+		"imparfait": {
+			"je": "grenais",
+			"tu": "grenais",
+			"il/elle": "grenait",
+			"nous": "grenions",
+			"vous": "greniez",
+			"ils/elles": "grenaient"
+		},
+		"futur": {
+			"je": "grènerai",
+			"tu": "grèneras",
+			"il/elle": "grènera",
+			"nous": "grènerons",
+			"vous": "grènerez",
+			"ils/elles": "grèneront"
+		},
+		"passé simple": {
+			"je": "grenai",
+			"tu": "grenas",
+			"il/elle": "grena",
+			"nous": "grenâmes",
+			"vous": "grenâtes",
+			"ils/elles": "grenèrent"
+		},
+		"passé composé": {
+			"j'": "ai grené",
+			"tu": "as grené",
+			"il/elle": "a grené",
+			"nous": "avons grené",
+			"vous": "avez grené",
+			"ils/elles": "ont grené"
+		},
+		"plus-que-parfait": {
+			"j'": "avais grené",
+			"tu": "avais grené",
+			"il/elle": "avait grené",
+			"nous": "avions grené",
+			"vous": "aviez grené",
+			"ils/elles": "avaient grené"
+		},
+		"passé antérieur": {
+			"j'": "eus grené",
+			"tu": "eus grené",
+			"il/elle": "eut grené",
+			"nous": "eûmes grené",
+			"vous": "eûtes grené",
+			"ils/elles": "eurent grené"
+		},
+		"futur antérieur": {
+			"j'": "aurai grené",
+			"tu": "auras grené",
+			"il/elle": "aura grené",
+			"nous": "aurons grené",
+			"vous": "aurez grené",
+			"ils/elles": "auront grené"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous greniez",
+			"qu'il/elle": "grène",
+			"qu'ils/elles": "grènent"
+		},
+		"imparfait": {
+			"que": "vous grenassiez",
+			"qu'il/elle": "grenât",
+			"qu'ils/elles": "grenassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse grené",
+			"que": "vous eussiez grené",
+			"qu'il/elle": "eût grené",
+			"qu'ils/elles": "eussent grené"
+		},
+		"passé": {
+			"j'": "aie grené",
+			"que": "vous ayez grené",
+			"qu'il/elle": "ait grené",
+			"qu'ils/elles": "aient grené"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "grènerais",
+			"tu": "grènerais",
+			"il/elle": "grènerait",
+			"nous": "grènerions",
+			"vous": "grèneriez",
+			"ils/elles": "grèneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais grené",
+			"tu": "aurais grené",
+			"il/elle": "aurait grené",
+			"nous": "aurions grené",
+			"vous": "auriez grené",
+			"ils/elles": "auraient grené"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse grené",
+			"tu": "eusses grené",
+			"il/elle": "eût grené",
+			"nous": "eussions grené",
+			"vous": "eussiez grené",
+			"ils/elles": "eussent grené"
+		}
+	},
+	"participe": {
+		"présent": { "grenant": "" },
+		"passé composé": { "ayant": "grené" },
+		"passé": {
+			"masc.sg.:": "grené",
+			"masc.pl.:": "grenés",
+			"fém.sg.:": "grenée",
+			"fém.pl.:": "grenées"
+		}
+	},
+	"imperatif": {
+		"présent": { "grène": "", "grenons": "", "grenez": "" },
+		"passé": { "aie": "grené", "ayons": "grené", "ayez": "grené" }
+	},
+	"infinitif": { "présent": { "grener": "" }, "passé": { "avoir": "grené" } }
+}

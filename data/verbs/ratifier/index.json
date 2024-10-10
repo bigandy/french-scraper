@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "ratify; confirm; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se ratifier/ne pas ratifier/ne pas se ratifier",
+	"indicatif": {
+		"présent": {
+			"je": "ratifie",
+			"tu": "ratifies",
+			"il/elle": "ratifie",
+			"nous": "ratifions",
+			"vous": "ratifiez",
+			"ils/elles": "ratifient"
+		},
+		"imparfait": {
+			"je": "ratifiais",
+			"tu": "ratifiais",
+			"il/elle": "ratifiait",
+			"nous": "ratifiions",
+			"vous": "ratifiiez",
+			"ils/elles": "ratifiaient"
+		},
+		"futur": {
+			"je": "ratifierai",
+			"tu": "ratifieras",
+			"il/elle": "ratifiera",
+			"nous": "ratifierons",
+			"vous": "ratifierez",
+			"ils/elles": "ratifieront"
+		},
+		"passé simple": {
+			"je": "ratifiai",
+			"tu": "ratifias",
+			"il/elle": "ratifia",
+			"nous": "ratifiâmes",
+			"vous": "ratifiâtes",
+			"ils/elles": "ratifièrent"
+		},
+		"passé composé": {
+			"j'": "ai ratifié",
+			"tu": "as ratifié",
+			"il/elle": "a ratifié",
+			"nous": "avons ratifié",
+			"vous": "avez ratifié",
+			"ils/elles": "ont ratifié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais ratifié",
+			"tu": "avais ratifié",
+			"il/elle": "avait ratifié",
+			"nous": "avions ratifié",
+			"vous": "aviez ratifié",
+			"ils/elles": "avaient ratifié"
+		},
+		"passé antérieur": {
+			"j'": "eus ratifié",
+			"tu": "eus ratifié",
+			"il/elle": "eut ratifié",
+			"nous": "eûmes ratifié",
+			"vous": "eûtes ratifié",
+			"ils/elles": "eurent ratifié"
+		},
+		"futur antérieur": {
+			"j'": "aurai ratifié",
+			"tu": "auras ratifié",
+			"il/elle": "aura ratifié",
+			"nous": "aurons ratifié",
+			"vous": "aurez ratifié",
+			"ils/elles": "auront ratifié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous ratifiiez",
+			"qu'il/elle": "ratifie",
+			"qu'ils/elles": "ratifient"
+		},
+		"imparfait": {
+			"que": "vous ratifiassiez",
+			"qu'il/elle": "ratifiât",
+			"qu'ils/elles": "ratifiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse ratifié",
+			"que": "vous eussiez ratifié",
+			"qu'il/elle": "eût ratifié",
+			"qu'ils/elles": "eussent ratifié"
+		},
+		"passé": {
+			"j'": "aie ratifié",
+			"que": "vous ayez ratifié",
+			"qu'il/elle": "ait ratifié",
+			"qu'ils/elles": "aient ratifié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "ratifierais",
+			"tu": "ratifierais",
+			"il/elle": "ratifierait",
+			"nous": "ratifierions",
+			"vous": "ratifieriez",
+			"ils/elles": "ratifieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais ratifié",
+			"tu": "aurais ratifié",
+			"il/elle": "aurait ratifié",
+			"nous": "aurions ratifié",
+			"vous": "auriez ratifié",
+			"ils/elles": "auraient ratifié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse ratifié",
+			"tu": "eusses ratifié",
+			"il/elle": "eût ratifié",
+			"nous": "eussions ratifié",
+			"vous": "eussiez ratifié",
+			"ils/elles": "eussent ratifié"
+		}
+	},
+	"participe": {
+		"présent": { "ratifiant": "" },
+		"passé composé": { "ayant": "ratifié" },
+		"passé": {
+			"masc.sg.:": "ratifié",
+			"masc.pl.:": "ratifiés",
+			"fém.sg.:": "ratifiée",
+			"fém.pl.:": "ratifiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "ratifie": "", "ratifions": "", "ratifiez": "" },
+		"passé": { "aie": "ratifié", "ayons": "ratifié", "ayez": "ratifié" }
+	},
+	"infinitif": {
+		"présent": { "ratifier": "" },
+		"passé": { "avoir": "ratifié" }
+	}
+}

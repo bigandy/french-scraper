@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "compose; dial; call; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se composer/ne pas composer/ne pas se composer",
+	"indicatif": {
+		"présent": {
+			"je": "compose",
+			"tu": "composes",
+			"il/elle": "compose",
+			"nous": "composons",
+			"vous": "composez",
+			"ils/elles": "composent"
+		},
+		"imparfait": {
+			"je": "composais",
+			"tu": "composais",
+			"il/elle": "composait",
+			"nous": "composions",
+			"vous": "composiez",
+			"ils/elles": "composaient"
+		},
+		"futur": {
+			"je": "composerai",
+			"tu": "composeras",
+			"il/elle": "composera",
+			"nous": "composerons",
+			"vous": "composerez",
+			"ils/elles": "composeront"
+		},
+		"passé simple": {
+			"je": "composai",
+			"tu": "composas",
+			"il/elle": "composa",
+			"nous": "composâmes",
+			"vous": "composâtes",
+			"ils/elles": "composèrent"
+		},
+		"passé composé": {
+			"j'": "ai composé",
+			"tu": "as composé",
+			"il/elle": "a composé",
+			"nous": "avons composé",
+			"vous": "avez composé",
+			"ils/elles": "ont composé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais composé",
+			"tu": "avais composé",
+			"il/elle": "avait composé",
+			"nous": "avions composé",
+			"vous": "aviez composé",
+			"ils/elles": "avaient composé"
+		},
+		"passé antérieur": {
+			"j'": "eus composé",
+			"tu": "eus composé",
+			"il/elle": "eut composé",
+			"nous": "eûmes composé",
+			"vous": "eûtes composé",
+			"ils/elles": "eurent composé"
+		},
+		"futur antérieur": {
+			"j'": "aurai composé",
+			"tu": "auras composé",
+			"il/elle": "aura composé",
+			"nous": "aurons composé",
+			"vous": "aurez composé",
+			"ils/elles": "auront composé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous composiez",
+			"qu'il/elle": "compose",
+			"qu'ils/elles": "composent"
+		},
+		"imparfait": {
+			"que": "vous composassiez",
+			"qu'il/elle": "composât",
+			"qu'ils/elles": "composassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse composé",
+			"que": "vous eussiez composé",
+			"qu'il/elle": "eût composé",
+			"qu'ils/elles": "eussent composé"
+		},
+		"passé": {
+			"j'": "aie composé",
+			"que": "vous ayez composé",
+			"qu'il/elle": "ait composé",
+			"qu'ils/elles": "aient composé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "composerais",
+			"tu": "composerais",
+			"il/elle": "composerait",
+			"nous": "composerions",
+			"vous": "composeriez",
+			"ils/elles": "composeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais composé",
+			"tu": "aurais composé",
+			"il/elle": "aurait composé",
+			"nous": "aurions composé",
+			"vous": "auriez composé",
+			"ils/elles": "auraient composé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse composé",
+			"tu": "eusses composé",
+			"il/elle": "eût composé",
+			"nous": "eussions composé",
+			"vous": "eussiez composé",
+			"ils/elles": "eussent composé"
+		}
+	},
+	"participe": {
+		"présent": { "composant": "" },
+		"passé composé": { "ayant": "composé" },
+		"passé": {
+			"masc.sg.:": "composé",
+			"masc.pl.:": "composés",
+			"fém.sg.:": "composée",
+			"fém.pl.:": "composées"
+		}
+	},
+	"imperatif": {
+		"présent": { "compose": "", "composons": "", "composez": "" },
+		"passé": { "aie": "composé", "ayons": "composé", "ayez": "composé" }
+	},
+	"infinitif": {
+		"présent": { "composer": "" },
+		"passé": { "avoir": "composé" }
+	}
+}

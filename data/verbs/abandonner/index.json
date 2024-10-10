@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "abandon; give up; leave; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'abandonner/ne pas abandonner/ne pas s'abandonner",
+	"indicatif": {
+		"présent": {
+			"j'": "abandonne",
+			"tu": "abandonnes",
+			"il/elle": "abandonne",
+			"nous": "abandonnons",
+			"vous": "abandonnez",
+			"ils/elles": "abandonnent"
+		},
+		"imparfait": {
+			"j'": "abandonnais",
+			"tu": "abandonnais",
+			"il/elle": "abandonnait",
+			"nous": "abandonnions",
+			"vous": "abandonniez",
+			"ils/elles": "abandonnaient"
+		},
+		"futur": {
+			"j'": "abandonnerai",
+			"tu": "abandonneras",
+			"il/elle": "abandonnera",
+			"nous": "abandonnerons",
+			"vous": "abandonnerez",
+			"ils/elles": "abandonneront"
+		},
+		"passé simple": {
+			"j'": "abandonnai",
+			"tu": "abandonnas",
+			"il/elle": "abandonna",
+			"nous": "abandonnâmes",
+			"vous": "abandonnâtes",
+			"ils/elles": "abandonnèrent"
+		},
+		"passé composé": {
+			"j'": "ai abandonné",
+			"tu": "as abandonné",
+			"il/elle": "a abandonné",
+			"nous": "avons abandonné",
+			"vous": "avez abandonné",
+			"ils/elles": "ont abandonné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais abandonné",
+			"tu": "avais abandonné",
+			"il/elle": "avait abandonné",
+			"nous": "avions abandonné",
+			"vous": "aviez abandonné",
+			"ils/elles": "avaient abandonné"
+		},
+		"passé antérieur": {
+			"j'": "eus abandonné",
+			"tu": "eus abandonné",
+			"il/elle": "eut abandonné",
+			"nous": "eûmes abandonné",
+			"vous": "eûtes abandonné",
+			"ils/elles": "eurent abandonné"
+		},
+		"futur antérieur": {
+			"j'": "aurai abandonné",
+			"tu": "auras abandonné",
+			"il/elle": "aura abandonné",
+			"nous": "aurons abandonné",
+			"vous": "aurez abandonné",
+			"ils/elles": "auront abandonné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "abandonne",
+			"que": "vous abandonniez",
+			"qu'il/elle": "abandonne",
+			"qu'ils/elles": "abandonnent"
+		},
+		"imparfait": {
+			"j'": "abandonnasse",
+			"que": "vous abandonnassiez",
+			"qu'il/elle": "abandonnât",
+			"qu'ils/elles": "abandonnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse abandonné",
+			"que": "vous eussiez abandonné",
+			"qu'il/elle": "eût abandonné",
+			"qu'ils/elles": "eussent abandonné"
+		},
+		"passé": {
+			"j'": "aie abandonné",
+			"que": "vous ayez abandonné",
+			"qu'il/elle": "ait abandonné",
+			"qu'ils/elles": "aient abandonné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "abandonnerais",
+			"tu": "abandonnerais",
+			"il/elle": "abandonnerait",
+			"nous": "abandonnerions",
+			"vous": "abandonneriez",
+			"ils/elles": "abandonneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais abandonné",
+			"tu": "aurais abandonné",
+			"il/elle": "aurait abandonné",
+			"nous": "aurions abandonné",
+			"vous": "auriez abandonné",
+			"ils/elles": "auraient abandonné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse abandonné",
+			"tu": "eusses abandonné",
+			"il/elle": "eût abandonné",
+			"nous": "eussions abandonné",
+			"vous": "eussiez abandonné",
+			"ils/elles": "eussent abandonné"
+		}
+	},
+	"participe": {
+		"présent": { "abandonnant": "" },
+		"passé composé": { "ayant": "abandonné" },
+		"passé": {
+			"masc.sg.:": "abandonné",
+			"masc.pl.:": "abandonnés",
+			"fém.sg.:": "abandonnée",
+			"fém.pl.:": "abandonnées"
+		}
+	},
+	"imperatif": {
+		"présent": { "abandonne": "", "abandonnons": "", "abandonnez": "" },
+		"passé": { "aie": "abandonné", "ayons": "abandonné", "ayez": "abandonné" }
+	},
+	"infinitif": {
+		"présent": { "abandonner": "" },
+		"passé": { "avoir": "abandonné" }
+	}
+}

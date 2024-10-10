@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "approach; get close; approximate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'approcher/ne pas approcher/ne pas s'approcher",
+	"indicatif": {
+		"présent": {
+			"j'": "approche",
+			"tu": "approches",
+			"il/elle": "approche",
+			"nous": "approchons",
+			"vous": "approchez",
+			"ils/elles": "approchent"
+		},
+		"imparfait": {
+			"j'": "approchais",
+			"tu": "approchais",
+			"il/elle": "approchait",
+			"nous": "approchions",
+			"vous": "approchiez",
+			"ils/elles": "approchaient"
+		},
+		"futur": {
+			"j'": "approcherai",
+			"tu": "approcheras",
+			"il/elle": "approchera",
+			"nous": "approcherons",
+			"vous": "approcherez",
+			"ils/elles": "approcheront"
+		},
+		"passé simple": {
+			"j'": "approchai",
+			"tu": "approchas",
+			"il/elle": "approcha",
+			"nous": "approchâmes",
+			"vous": "approchâtes",
+			"ils/elles": "approchèrent"
+		},
+		"passé composé": {
+			"j'": "ai approché",
+			"tu": "as approché",
+			"il/elle": "a approché",
+			"nous": "avons approché",
+			"vous": "avez approché",
+			"ils/elles": "ont approché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais approché",
+			"tu": "avais approché",
+			"il/elle": "avait approché",
+			"nous": "avions approché",
+			"vous": "aviez approché",
+			"ils/elles": "avaient approché"
+		},
+		"passé antérieur": {
+			"j'": "eus approché",
+			"tu": "eus approché",
+			"il/elle": "eut approché",
+			"nous": "eûmes approché",
+			"vous": "eûtes approché",
+			"ils/elles": "eurent approché"
+		},
+		"futur antérieur": {
+			"j'": "aurai approché",
+			"tu": "auras approché",
+			"il/elle": "aura approché",
+			"nous": "aurons approché",
+			"vous": "aurez approché",
+			"ils/elles": "auront approché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "approche",
+			"que": "vous approchiez",
+			"qu'il/elle": "approche",
+			"qu'ils/elles": "approchent"
+		},
+		"imparfait": {
+			"j'": "approchasse",
+			"que": "vous approchassiez",
+			"qu'il/elle": "approchât",
+			"qu'ils/elles": "approchassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse approché",
+			"que": "vous eussiez approché",
+			"qu'il/elle": "eût approché",
+			"qu'ils/elles": "eussent approché"
+		},
+		"passé": {
+			"j'": "aie approché",
+			"que": "vous ayez approché",
+			"qu'il/elle": "ait approché",
+			"qu'ils/elles": "aient approché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "approcherais",
+			"tu": "approcherais",
+			"il/elle": "approcherait",
+			"nous": "approcherions",
+			"vous": "approcheriez",
+			"ils/elles": "approcheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais approché",
+			"tu": "aurais approché",
+			"il/elle": "aurait approché",
+			"nous": "aurions approché",
+			"vous": "auriez approché",
+			"ils/elles": "auraient approché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse approché",
+			"tu": "eusses approché",
+			"il/elle": "eût approché",
+			"nous": "eussions approché",
+			"vous": "eussiez approché",
+			"ils/elles": "eussent approché"
+		}
+	},
+	"participe": {
+		"présent": { "approchant": "" },
+		"passé composé": { "ayant": "approché" },
+		"passé": {
+			"masc.sg.:": "approché",
+			"masc.pl.:": "approchés",
+			"fém.sg.:": "approchée",
+			"fém.pl.:": "approchées"
+		}
+	},
+	"imperatif": {
+		"présent": { "approche": "", "approchons": "", "approchez": "" },
+		"passé": { "aie": "approché", "ayons": "approché", "ayez": "approché" }
+	},
+	"infinitif": {
+		"présent": { "approcher": "" },
+		"passé": { "avoir": "approché" }
+	}
+}

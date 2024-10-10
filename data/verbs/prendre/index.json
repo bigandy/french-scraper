@@ -1,0 +1,138 @@
+{
+	"name": "prendre",
+	"definition": "take; make; get; ...",
+	"model": "prendre",
+	"auxiliary": "avoir",
+	"otherForms": "se prendre/ne pas prendre/ne pas se prendre",
+	"indicatif": {
+		"présent": {
+			"je": "prends",
+			"tu": "prends",
+			"il/elle": "prend",
+			"nous": "prenons",
+			"vous": "prenez",
+			"ils/elles": "prennent"
+		},
+		"imparfait": {
+			"je": "prenais",
+			"tu": "prenais",
+			"il/elle": "prenait",
+			"nous": "prenions",
+			"vous": "preniez",
+			"ils/elles": "prenaient"
+		},
+		"futur": {
+			"je": "prendrai",
+			"tu": "prendras",
+			"il/elle": "prendra",
+			"nous": "prendrons",
+			"vous": "prendrez",
+			"ils/elles": "prendront"
+		},
+		"passé simple": {
+			"je": "pris",
+			"tu": "pris",
+			"il/elle": "prit",
+			"nous": "prîmes",
+			"vous": "prîtes",
+			"ils/elles": "prirent"
+		},
+		"passé composé": {
+			"j'": "ai pris",
+			"tu": "as pris",
+			"il/elle": "a pris",
+			"nous": "avons pris",
+			"vous": "avez pris",
+			"ils/elles": "ont pris"
+		},
+		"plus-que-parfait": {
+			"j'": "avais pris",
+			"tu": "avais pris",
+			"il/elle": "avait pris",
+			"nous": "avions pris",
+			"vous": "aviez pris",
+			"ils/elles": "avaient pris"
+		},
+		"passé antérieur": {
+			"j'": "eus pris",
+			"tu": "eus pris",
+			"il/elle": "eut pris",
+			"nous": "eûmes pris",
+			"vous": "eûtes pris",
+			"ils/elles": "eurent pris"
+		},
+		"futur antérieur": {
+			"j'": "aurai pris",
+			"tu": "auras pris",
+			"il/elle": "aura pris",
+			"nous": "aurons pris",
+			"vous": "aurez pris",
+			"ils/elles": "auront pris"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous preniez",
+			"qu'il/elle": "prenne",
+			"qu'ils/elles": "prennent"
+		},
+		"imparfait": {
+			"que": "vous prissiez",
+			"qu'il/elle": "prît",
+			"qu'ils/elles": "prissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse pris",
+			"que": "vous eussiez pris",
+			"qu'il/elle": "eût pris",
+			"qu'ils/elles": "eussent pris"
+		},
+		"passé": {
+			"j'": "aie pris",
+			"que": "vous ayez pris",
+			"qu'il/elle": "ait pris",
+			"qu'ils/elles": "aient pris"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "prendrais",
+			"tu": "prendrais",
+			"il/elle": "prendrait",
+			"nous": "prendrions",
+			"vous": "prendriez",
+			"ils/elles": "prendraient"
+		},
+		"passé première forme": {
+			"j'": "aurais pris",
+			"tu": "aurais pris",
+			"il/elle": "aurait pris",
+			"nous": "aurions pris",
+			"vous": "auriez pris",
+			"ils/elles": "auraient pris"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse pris",
+			"tu": "eusses pris",
+			"il/elle": "eût pris",
+			"nous": "eussions pris",
+			"vous": "eussiez pris",
+			"ils/elles": "eussent pris"
+		}
+	},
+	"participe": {
+		"présent": { "prenant": "" },
+		"passé composé": { "ayant": "pris" },
+		"passé": {
+			"masc.sg.:": "pris",
+			"masc.pl.:": "pris",
+			"fém.sg.:": "prise",
+			"fém.pl.:": "prises"
+		}
+	},
+	"imperatif": {
+		"présent": { "prends": "", "prenons": "", "prenez": "" },
+		"passé": { "aie": "pris", "ayons": "pris", "ayez": "pris" }
+	},
+	"infinitif": { "présent": { "prendre": "" }, "passé": { "avoir": "pris" } }
+}

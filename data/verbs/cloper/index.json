@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "smoke; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas cloper",
+	"indicatif": {
+		"présent": {
+			"je": "clope",
+			"tu": "clopes",
+			"il/elle": "clope",
+			"nous": "clopons",
+			"vous": "clopez",
+			"ils/elles": "clopent"
+		},
+		"imparfait": {
+			"je": "clopais",
+			"tu": "clopais",
+			"il/elle": "clopait",
+			"nous": "clopions",
+			"vous": "clopiez",
+			"ils/elles": "clopaient"
+		},
+		"futur": {
+			"je": "cloperai",
+			"tu": "cloperas",
+			"il/elle": "clopera",
+			"nous": "cloperons",
+			"vous": "cloperez",
+			"ils/elles": "cloperont"
+		},
+		"passé simple": {
+			"je": "clopai",
+			"tu": "clopas",
+			"il/elle": "clopa",
+			"nous": "clopâmes",
+			"vous": "clopâtes",
+			"ils/elles": "clopèrent"
+		},
+		"passé composé": {
+			"j'": "ai clopé",
+			"tu": "as clopé",
+			"il/elle": "a clopé",
+			"nous": "avons clopé",
+			"vous": "avez clopé",
+			"ils/elles": "ont clopé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais clopé",
+			"tu": "avais clopé",
+			"il/elle": "avait clopé",
+			"nous": "avions clopé",
+			"vous": "aviez clopé",
+			"ils/elles": "avaient clopé"
+		},
+		"passé antérieur": {
+			"j'": "eus clopé",
+			"tu": "eus clopé",
+			"il/elle": "eut clopé",
+			"nous": "eûmes clopé",
+			"vous": "eûtes clopé",
+			"ils/elles": "eurent clopé"
+		},
+		"futur antérieur": {
+			"j'": "aurai clopé",
+			"tu": "auras clopé",
+			"il/elle": "aura clopé",
+			"nous": "aurons clopé",
+			"vous": "aurez clopé",
+			"ils/elles": "auront clopé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous clopiez",
+			"qu'il/elle": "clope",
+			"qu'ils/elles": "clopent"
+		},
+		"imparfait": {
+			"que": "vous clopassiez",
+			"qu'il/elle": "clopât",
+			"qu'ils/elles": "clopassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse clopé",
+			"que": "vous eussiez clopé",
+			"qu'il/elle": "eût clopé",
+			"qu'ils/elles": "eussent clopé"
+		},
+		"passé": {
+			"j'": "aie clopé",
+			"que": "vous ayez clopé",
+			"qu'il/elle": "ait clopé",
+			"qu'ils/elles": "aient clopé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "cloperais",
+			"tu": "cloperais",
+			"il/elle": "cloperait",
+			"nous": "cloperions",
+			"vous": "cloperiez",
+			"ils/elles": "cloperaient"
+		},
+		"passé première forme": {
+			"j'": "aurais clopé",
+			"tu": "aurais clopé",
+			"il/elle": "aurait clopé",
+			"nous": "aurions clopé",
+			"vous": "auriez clopé",
+			"ils/elles": "auraient clopé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse clopé",
+			"tu": "eusses clopé",
+			"il/elle": "eût clopé",
+			"nous": "eussions clopé",
+			"vous": "eussiez clopé",
+			"ils/elles": "eussent clopé"
+		}
+	},
+	"participe": {
+		"présent": { "clopant": "" },
+		"passé composé": { "ayant": "clopé" },
+		"passé": {
+			"masc.sg.:": "clopé",
+			"masc.pl.:": "clopés",
+			"fém.sg.:": "clopée",
+			"fém.pl.:": "clopées"
+		}
+	},
+	"imperatif": {
+		"présent": { "clope": "", "clopons": "", "clopez": "" },
+		"passé": { "aie": "clopé", "ayons": "clopé", "ayez": "clopé" }
+	},
+	"infinitif": { "présent": { "cloper": "" }, "passé": { "avoir": "clopé" } }
+}

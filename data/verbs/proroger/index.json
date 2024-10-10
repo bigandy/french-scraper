@@ -1,0 +1,141 @@
+{
+	"name": "manger",
+	"definition": "extend; renew; prorogue; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "se proroger/ne pas proroger/ne pas se proroger",
+	"indicatif": {
+		"présent": {
+			"je": "proroge",
+			"tu": "proroges",
+			"il/elle": "proroge",
+			"nous": "prorogeons",
+			"vous": "prorogez",
+			"ils/elles": "prorogent"
+		},
+		"imparfait": {
+			"je": "prorogeais",
+			"tu": "prorogeais",
+			"il/elle": "prorogeait",
+			"nous": "prorogions",
+			"vous": "prorogiez",
+			"ils/elles": "prorogeaient"
+		},
+		"futur": {
+			"je": "prorogerai",
+			"tu": "prorogeras",
+			"il/elle": "prorogera",
+			"nous": "prorogerons",
+			"vous": "prorogerez",
+			"ils/elles": "prorogeront"
+		},
+		"passé simple": {
+			"je": "prorogeai",
+			"tu": "prorogeas",
+			"il/elle": "prorogea",
+			"nous": "prorogeâmes",
+			"vous": "prorogeâtes",
+			"ils/elles": "prorogèrent"
+		},
+		"passé composé": {
+			"j'": "ai prorogé",
+			"tu": "as prorogé",
+			"il/elle": "a prorogé",
+			"nous": "avons prorogé",
+			"vous": "avez prorogé",
+			"ils/elles": "ont prorogé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais prorogé",
+			"tu": "avais prorogé",
+			"il/elle": "avait prorogé",
+			"nous": "avions prorogé",
+			"vous": "aviez prorogé",
+			"ils/elles": "avaient prorogé"
+		},
+		"passé antérieur": {
+			"j'": "eus prorogé",
+			"tu": "eus prorogé",
+			"il/elle": "eut prorogé",
+			"nous": "eûmes prorogé",
+			"vous": "eûtes prorogé",
+			"ils/elles": "eurent prorogé"
+		},
+		"futur antérieur": {
+			"j'": "aurai prorogé",
+			"tu": "auras prorogé",
+			"il/elle": "aura prorogé",
+			"nous": "aurons prorogé",
+			"vous": "aurez prorogé",
+			"ils/elles": "auront prorogé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous prorogiez",
+			"qu'il/elle": "proroge",
+			"qu'ils/elles": "prorogent"
+		},
+		"imparfait": {
+			"que": "vous prorogeassiez",
+			"qu'il/elle": "prorogeât",
+			"qu'ils/elles": "prorogeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse prorogé",
+			"que": "vous eussiez prorogé",
+			"qu'il/elle": "eût prorogé",
+			"qu'ils/elles": "eussent prorogé"
+		},
+		"passé": {
+			"j'": "aie prorogé",
+			"que": "vous ayez prorogé",
+			"qu'il/elle": "ait prorogé",
+			"qu'ils/elles": "aient prorogé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "prorogerais",
+			"tu": "prorogerais",
+			"il/elle": "prorogerait",
+			"nous": "prorogerions",
+			"vous": "prorogeriez",
+			"ils/elles": "prorogeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais prorogé",
+			"tu": "aurais prorogé",
+			"il/elle": "aurait prorogé",
+			"nous": "aurions prorogé",
+			"vous": "auriez prorogé",
+			"ils/elles": "auraient prorogé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse prorogé",
+			"tu": "eusses prorogé",
+			"il/elle": "eût prorogé",
+			"nous": "eussions prorogé",
+			"vous": "eussiez prorogé",
+			"ils/elles": "eussent prorogé"
+		}
+	},
+	"participe": {
+		"présent": { "prorogeant": "" },
+		"passé composé": { "ayant": "prorogé" },
+		"passé": {
+			"masc.sg.:": "prorogé",
+			"masc.pl.:": "prorogés",
+			"fém.sg.:": "prorogée",
+			"fém.pl.:": "prorogées"
+		}
+	},
+	"imperatif": {
+		"présent": { "proroge": "", "prorogeons": "", "prorogez": "" },
+		"passé": { "aie": "prorogé", "ayons": "prorogé", "ayez": "prorogé" }
+	},
+	"infinitif": {
+		"présent": { "proroger": "" },
+		"passé": { "avoir": "prorogé" }
+	}
+}

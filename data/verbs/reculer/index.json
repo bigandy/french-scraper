@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "decline; step back; retreat; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se reculer/ne pas reculer/ne pas se reculer",
+	"indicatif": {
+		"présent": {
+			"je": "recule",
+			"tu": "recules",
+			"il/elle": "recule",
+			"nous": "reculons",
+			"vous": "reculez",
+			"ils/elles": "reculent"
+		},
+		"imparfait": {
+			"je": "reculais",
+			"tu": "reculais",
+			"il/elle": "reculait",
+			"nous": "reculions",
+			"vous": "reculiez",
+			"ils/elles": "reculaient"
+		},
+		"futur": {
+			"je": "reculerai",
+			"tu": "reculeras",
+			"il/elle": "reculera",
+			"nous": "reculerons",
+			"vous": "reculerez",
+			"ils/elles": "reculeront"
+		},
+		"passé simple": {
+			"je": "reculai",
+			"tu": "reculas",
+			"il/elle": "recula",
+			"nous": "reculâmes",
+			"vous": "reculâtes",
+			"ils/elles": "reculèrent"
+		},
+		"passé composé": {
+			"j'": "ai reculé",
+			"tu": "as reculé",
+			"il/elle": "a reculé",
+			"nous": "avons reculé",
+			"vous": "avez reculé",
+			"ils/elles": "ont reculé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais reculé",
+			"tu": "avais reculé",
+			"il/elle": "avait reculé",
+			"nous": "avions reculé",
+			"vous": "aviez reculé",
+			"ils/elles": "avaient reculé"
+		},
+		"passé antérieur": {
+			"j'": "eus reculé",
+			"tu": "eus reculé",
+			"il/elle": "eut reculé",
+			"nous": "eûmes reculé",
+			"vous": "eûtes reculé",
+			"ils/elles": "eurent reculé"
+		},
+		"futur antérieur": {
+			"j'": "aurai reculé",
+			"tu": "auras reculé",
+			"il/elle": "aura reculé",
+			"nous": "aurons reculé",
+			"vous": "aurez reculé",
+			"ils/elles": "auront reculé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous reculiez",
+			"qu'il/elle": "recule",
+			"qu'ils/elles": "reculent"
+		},
+		"imparfait": {
+			"que": "vous reculassiez",
+			"qu'il/elle": "reculât",
+			"qu'ils/elles": "reculassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse reculé",
+			"que": "vous eussiez reculé",
+			"qu'il/elle": "eût reculé",
+			"qu'ils/elles": "eussent reculé"
+		},
+		"passé": {
+			"j'": "aie reculé",
+			"que": "vous ayez reculé",
+			"qu'il/elle": "ait reculé",
+			"qu'ils/elles": "aient reculé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "reculerais",
+			"tu": "reculerais",
+			"il/elle": "reculerait",
+			"nous": "reculerions",
+			"vous": "reculeriez",
+			"ils/elles": "reculeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais reculé",
+			"tu": "aurais reculé",
+			"il/elle": "aurait reculé",
+			"nous": "aurions reculé",
+			"vous": "auriez reculé",
+			"ils/elles": "auraient reculé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse reculé",
+			"tu": "eusses reculé",
+			"il/elle": "eût reculé",
+			"nous": "eussions reculé",
+			"vous": "eussiez reculé",
+			"ils/elles": "eussent reculé"
+		}
+	},
+	"participe": {
+		"présent": { "reculant": "" },
+		"passé composé": { "ayant": "reculé" },
+		"passé": {
+			"masc.sg.:": "reculé",
+			"masc.pl.:": "reculés",
+			"fém.sg.:": "reculée",
+			"fém.pl.:": "reculées"
+		}
+	},
+	"imperatif": {
+		"présent": { "recule": "", "reculons": "", "reculez": "" },
+		"passé": { "aie": "reculé", "ayons": "reculé", "ayez": "reculé" }
+	},
+	"infinitif": { "présent": { "reculer": "" }, "passé": { "avoir": "reculé" } }
+}

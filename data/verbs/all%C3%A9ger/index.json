@@ -1,0 +1,140 @@
+{
+	"name": "protéger",
+	"definition": "alleviate; reduce; ease; ...",
+	"model": "protéger",
+	"auxiliary": "avoir",
+	"otherForms": "s'alléger/ne pas alléger/ne pas s'alléger",
+	"indicatif": {
+		"présent": {
+			"j'": "allège",
+			"tu": "allèges",
+			"il/elle": "allège",
+			"nous": "allégeons",
+			"vous": "allégez",
+			"ils/elles": "allègent"
+		},
+		"imparfait": {
+			"j'": "allégeais",
+			"tu": "allégeais",
+			"il/elle": "allégeait",
+			"nous": "allégions",
+			"vous": "allégiez",
+			"ils/elles": "allégeaient"
+		},
+		"futur": {
+			"j'": "allégerai",
+			"tu": "allégeras",
+			"il/elle": "allégera",
+			"nous": "allégerons",
+			"vous": "allégerez",
+			"ils/elles": "allégeront"
+		},
+		"passé simple": {
+			"j'": "allégeai",
+			"tu": "allégeas",
+			"il/elle": "allégea",
+			"nous": "allégeâmes",
+			"vous": "allégeâtes",
+			"ils/elles": "allégèrent"
+		},
+		"passé composé": {
+			"j'": "ai allégé",
+			"tu": "as allégé",
+			"il/elle": "a allégé",
+			"nous": "avons allégé",
+			"vous": "avez allégé",
+			"ils/elles": "ont allégé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais allégé",
+			"tu": "avais allégé",
+			"il/elle": "avait allégé",
+			"nous": "avions allégé",
+			"vous": "aviez allégé",
+			"ils/elles": "avaient allégé"
+		},
+		"passé antérieur": {
+			"j'": "eus allégé",
+			"tu": "eus allégé",
+			"il/elle": "eut allégé",
+			"nous": "eûmes allégé",
+			"vous": "eûtes allégé",
+			"ils/elles": "eurent allégé"
+		},
+		"futur antérieur": {
+			"j'": "aurai allégé",
+			"tu": "auras allégé",
+			"il/elle": "aura allégé",
+			"nous": "aurons allégé",
+			"vous": "aurez allégé",
+			"ils/elles": "auront allégé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "allège",
+			"que": "vous allégiez",
+			"qu'il/elle": "allège",
+			"qu'ils/elles": "allègent"
+		},
+		"imparfait": {
+			"j'": "allégeasse",
+			"que": "vous allégeassiez",
+			"qu'il/elle": "allégeât",
+			"qu'ils/elles": "allégeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse allégé",
+			"que": "vous eussiez allégé",
+			"qu'il/elle": "eût allégé",
+			"qu'ils/elles": "eussent allégé"
+		},
+		"passé": {
+			"j'": "aie allégé",
+			"que": "vous ayez allégé",
+			"qu'il/elle": "ait allégé",
+			"qu'ils/elles": "aient allégé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "allégerais",
+			"tu": "allégerais",
+			"il/elle": "allégerait",
+			"nous": "allégerions",
+			"vous": "allégeriez",
+			"ils/elles": "allégeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais allégé",
+			"tu": "aurais allégé",
+			"il/elle": "aurait allégé",
+			"nous": "aurions allégé",
+			"vous": "auriez allégé",
+			"ils/elles": "auraient allégé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse allégé",
+			"tu": "eusses allégé",
+			"il/elle": "eût allégé",
+			"nous": "eussions allégé",
+			"vous": "eussiez allégé",
+			"ils/elles": "eussent allégé"
+		}
+	},
+	"participe": {
+		"présent": { "allégeant": "" },
+		"passé composé": { "ayant": "allégé" },
+		"passé": {
+			"masc.sg.:": "allégé",
+			"masc.pl.:": "allégés",
+			"fém.sg.:": "allégée",
+			"fém.pl.:": "allégées"
+		}
+	},
+	"imperatif": {
+		"présent": { "allège": "", "allégeons": "", "allégez": "" },
+		"passé": { "aie": "allégé", "ayons": "allégé", "ayez": "allégé" }
+	},
+	"infinitif": { "présent": { "alléger": "" }, "passé": { "avoir": "allégé" } }
+}

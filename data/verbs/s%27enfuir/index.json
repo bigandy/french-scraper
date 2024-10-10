@@ -1,0 +1,152 @@
+{
+	"name": "fuir",
+	"definition": "escape; flee; run away; ...",
+	"model": "fuir",
+	"auxiliary": "être",
+	"otherForms": "ne pas s'enfuir",
+	"indicatif": {
+		"présent": {
+			"je": "m'enfuis",
+			"tu": "t'enfuis",
+			"il/elle": "s'enfuit",
+			"nous": "nous enfuyons",
+			"vous": "vous enfuyez",
+			"ils/elles": "s'enfuient"
+		},
+		"imparfait": {
+			"je": "m'enfuyais",
+			"tu": "t'enfuyais",
+			"il/elle": "s'enfuyait",
+			"nous": "nous enfuyions",
+			"vous": "vous enfuyiez",
+			"ils/elles": "s'enfuyaient"
+		},
+		"futur": {
+			"je": "m'enfuirai",
+			"tu": "t'enfuiras",
+			"il/elle": "s'enfuira",
+			"nous": "nous enfuirons",
+			"vous": "vous enfuirez",
+			"ils/elles": "s'enfuiront"
+		},
+		"passé simple": {
+			"je": "m'enfuis",
+			"tu": "t'enfuis",
+			"il/elle": "s'enfuit",
+			"nous": "nous enfuîmes",
+			"vous": "vous enfuîtes",
+			"ils/elles": "s'enfuirent"
+		},
+		"passé composé": {
+			"je": "me suis enfui",
+			"tu": "t'es enfui",
+			"il": "s'est enfui",
+			"elle": "s'est enfuie",
+			"nous": "nous sommes enfuis",
+			"vous": "vous êtes enfuis",
+			"ils": "se sont enfuis",
+			"elles": "se sont enfuies"
+		},
+		"plus-que-parfait": {
+			"je": "m'étais enfui",
+			"tu": "t'étais enfui",
+			"il": "s'était enfui",
+			"elle": "s'était enfuie",
+			"nous": "nous étions enfuis",
+			"vous": "vous étiez enfuis",
+			"ils": "s'étaient enfuis",
+			"elles": "s'étaient enfuies"
+		},
+		"passé antérieur": {
+			"je": "me fus enfui",
+			"tu": "te fus enfui",
+			"il": "se fut enfui",
+			"elle": "se fut enfuie",
+			"nous": "nous fûmes enfuis",
+			"vous": "vous fûtes enfuis",
+			"ils": "se furent enfuis",
+			"elles": "se furent enfuies"
+		},
+		"futur antérieur": {
+			"je": "me serai enfui",
+			"tu": "te seras enfui",
+			"il": "se sera enfui",
+			"elle": "se sera enfuie",
+			"nous": "nous serons enfuis",
+			"vous": "vous serez enfuis",
+			"ils": "se seront enfuis",
+			"elles": "se seront enfuies"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous vous enfuyiez",
+			"qu'il/elle": "s'enfuie",
+			"qu'ils/elles": "s'enfuient"
+		},
+		"imparfait": {
+			"que": "vous vous enfuissiez",
+			"qu'il/elle": "s'enfuît",
+			"qu'ils/elles": "s'enfuissent"
+		},
+		"plus-que-parfait": {
+			"que": "vous vous fussiez enfuis",
+			"qu'il": "se fût enfui",
+			"qu'elle": "se fût enfuie",
+			"qu'ils": "se fussent enfuis",
+			"qu'elles": "se fussent enfuies"
+		},
+		"passé": {
+			"que": "vous vous soyez enfuis",
+			"qu'il": "se soit enfui",
+			"qu'elle": "se soit enfuie",
+			"qu'ils": "se soient enfuis",
+			"qu'elles": "se soient enfuies"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "m'enfuirais",
+			"tu": "t'enfuirais",
+			"il/elle": "s'enfuirait",
+			"nous": "nous enfuirions",
+			"vous": "vous enfuiriez",
+			"ils/elles": "s'enfuiraient"
+		},
+		"passé première forme": {
+			"je": "me serais enfui",
+			"tu": "te serais enfui",
+			"il": "se serait enfui",
+			"elle": "se serait enfuie",
+			"nous": "nous serions enfuis",
+			"vous": "vous seriez enfuis",
+			"ils": "se seraient enfuis",
+			"elles": "se seraient enfuies"
+		},
+		"passé deuxième forme": {
+			"je": "me fusse enfui",
+			"tu": "te fusses enfui",
+			"il": "se fût enfui",
+			"elle": "se fût enfuie",
+			"nous": "nous fussions enfuis",
+			"vous": "vous fussiez enfuis",
+			"ils": "se fussent enfuis",
+			"elles": "se fussent enfuies"
+		}
+	},
+	"participe": {
+		"présent": { "s'enfuyant": "" },
+		"passé composé": { "s'étant": "enfui" },
+		"passé": {
+			"masc.sg.:": "enfui",
+			"masc.pl.:": "enfuis",
+			"fém.sg.:": "enfuie",
+			"fém.pl.:": "enfuies"
+		}
+	},
+	"imperatif": {
+		"présent": { "enfuis-toi": "", "enfuyons-nous": "", "enfuyez-vous": "" },
+		"passé": {}
+	},
+	"infinitif": { "présent": { "s'enfuir": "" }, "passé": { "s'être": "enfui" } }
+}

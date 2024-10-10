@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "pray; request; ask; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se prier/ne pas prier/ne pas se prier",
+	"indicatif": {
+		"présent": {
+			"je": "prie",
+			"tu": "pries",
+			"il/elle": "prie",
+			"nous": "prions",
+			"vous": "priez",
+			"ils/elles": "prient"
+		},
+		"imparfait": {
+			"je": "priais",
+			"tu": "priais",
+			"il/elle": "priait",
+			"nous": "priions",
+			"vous": "priiez",
+			"ils/elles": "priaient"
+		},
+		"futur": {
+			"je": "prierai",
+			"tu": "prieras",
+			"il/elle": "priera",
+			"nous": "prierons",
+			"vous": "prierez",
+			"ils/elles": "prieront"
+		},
+		"passé simple": {
+			"je": "priai",
+			"tu": "prias",
+			"il/elle": "pria",
+			"nous": "priâmes",
+			"vous": "priâtes",
+			"ils/elles": "prièrent"
+		},
+		"passé composé": {
+			"j'": "ai prié",
+			"tu": "as prié",
+			"il/elle": "a prié",
+			"nous": "avons prié",
+			"vous": "avez prié",
+			"ils/elles": "ont prié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais prié",
+			"tu": "avais prié",
+			"il/elle": "avait prié",
+			"nous": "avions prié",
+			"vous": "aviez prié",
+			"ils/elles": "avaient prié"
+		},
+		"passé antérieur": {
+			"j'": "eus prié",
+			"tu": "eus prié",
+			"il/elle": "eut prié",
+			"nous": "eûmes prié",
+			"vous": "eûtes prié",
+			"ils/elles": "eurent prié"
+		},
+		"futur antérieur": {
+			"j'": "aurai prié",
+			"tu": "auras prié",
+			"il/elle": "aura prié",
+			"nous": "aurons prié",
+			"vous": "aurez prié",
+			"ils/elles": "auront prié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous priiez",
+			"qu'il/elle": "prie",
+			"qu'ils/elles": "prient"
+		},
+		"imparfait": {
+			"que": "vous priassiez",
+			"qu'il/elle": "priât",
+			"qu'ils/elles": "priassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse prié",
+			"que": "vous eussiez prié",
+			"qu'il/elle": "eût prié",
+			"qu'ils/elles": "eussent prié"
+		},
+		"passé": {
+			"j'": "aie prié",
+			"que": "vous ayez prié",
+			"qu'il/elle": "ait prié",
+			"qu'ils/elles": "aient prié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "prierais",
+			"tu": "prierais",
+			"il/elle": "prierait",
+			"nous": "prierions",
+			"vous": "prieriez",
+			"ils/elles": "prieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais prié",
+			"tu": "aurais prié",
+			"il/elle": "aurait prié",
+			"nous": "aurions prié",
+			"vous": "auriez prié",
+			"ils/elles": "auraient prié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse prié",
+			"tu": "eusses prié",
+			"il/elle": "eût prié",
+			"nous": "eussions prié",
+			"vous": "eussiez prié",
+			"ils/elles": "eussent prié"
+		}
+	},
+	"participe": {
+		"présent": { "priant": "" },
+		"passé composé": { "ayant": "prié" },
+		"passé": {
+			"masc.sg.:": "prié",
+			"masc.pl.:": "priés",
+			"fém.sg.:": "priée",
+			"fém.pl.:": "priées"
+		}
+	},
+	"imperatif": {
+		"présent": { "prie": "", "prions": "", "priez": "" },
+		"passé": { "aie": "prié", "ayons": "prié", "ayez": "prié" }
+	},
+	"infinitif": { "présent": { "prier": "" }, "passé": { "avoir": "prié" } }
+}

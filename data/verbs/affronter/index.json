@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "face; confront; deal with; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'affronter/ne pas affronter/ne pas s'affronter",
+	"indicatif": {
+		"présent": {
+			"j'": "affronte",
+			"tu": "affrontes",
+			"il/elle": "affronte",
+			"nous": "affrontons",
+			"vous": "affrontez",
+			"ils/elles": "affrontent"
+		},
+		"imparfait": {
+			"j'": "affrontais",
+			"tu": "affrontais",
+			"il/elle": "affrontait",
+			"nous": "affrontions",
+			"vous": "affrontiez",
+			"ils/elles": "affrontaient"
+		},
+		"futur": {
+			"j'": "affronterai",
+			"tu": "affronteras",
+			"il/elle": "affrontera",
+			"nous": "affronterons",
+			"vous": "affronterez",
+			"ils/elles": "affronteront"
+		},
+		"passé simple": {
+			"j'": "affrontai",
+			"tu": "affrontas",
+			"il/elle": "affronta",
+			"nous": "affrontâmes",
+			"vous": "affrontâtes",
+			"ils/elles": "affrontèrent"
+		},
+		"passé composé": {
+			"j'": "ai affronté",
+			"tu": "as affronté",
+			"il/elle": "a affronté",
+			"nous": "avons affronté",
+			"vous": "avez affronté",
+			"ils/elles": "ont affronté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais affronté",
+			"tu": "avais affronté",
+			"il/elle": "avait affronté",
+			"nous": "avions affronté",
+			"vous": "aviez affronté",
+			"ils/elles": "avaient affronté"
+		},
+		"passé antérieur": {
+			"j'": "eus affronté",
+			"tu": "eus affronté",
+			"il/elle": "eut affronté",
+			"nous": "eûmes affronté",
+			"vous": "eûtes affronté",
+			"ils/elles": "eurent affronté"
+		},
+		"futur antérieur": {
+			"j'": "aurai affronté",
+			"tu": "auras affronté",
+			"il/elle": "aura affronté",
+			"nous": "aurons affronté",
+			"vous": "aurez affronté",
+			"ils/elles": "auront affronté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "affronte",
+			"que": "vous affrontiez",
+			"qu'il/elle": "affronte",
+			"qu'ils/elles": "affrontent"
+		},
+		"imparfait": {
+			"j'": "affrontasse",
+			"que": "vous affrontassiez",
+			"qu'il/elle": "affrontât",
+			"qu'ils/elles": "affrontassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse affronté",
+			"que": "vous eussiez affronté",
+			"qu'il/elle": "eût affronté",
+			"qu'ils/elles": "eussent affronté"
+		},
+		"passé": {
+			"j'": "aie affronté",
+			"que": "vous ayez affronté",
+			"qu'il/elle": "ait affronté",
+			"qu'ils/elles": "aient affronté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "affronterais",
+			"tu": "affronterais",
+			"il/elle": "affronterait",
+			"nous": "affronterions",
+			"vous": "affronteriez",
+			"ils/elles": "affronteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais affronté",
+			"tu": "aurais affronté",
+			"il/elle": "aurait affronté",
+			"nous": "aurions affronté",
+			"vous": "auriez affronté",
+			"ils/elles": "auraient affronté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse affronté",
+			"tu": "eusses affronté",
+			"il/elle": "eût affronté",
+			"nous": "eussions affronté",
+			"vous": "eussiez affronté",
+			"ils/elles": "eussent affronté"
+		}
+	},
+	"participe": {
+		"présent": { "affrontant": "" },
+		"passé composé": { "ayant": "affronté" },
+		"passé": {
+			"masc.sg.:": "affronté",
+			"masc.pl.:": "affrontés",
+			"fém.sg.:": "affrontée",
+			"fém.pl.:": "affrontées"
+		}
+	},
+	"imperatif": {
+		"présent": { "affronte": "", "affrontons": "", "affrontez": "" },
+		"passé": { "aie": "affronté", "ayons": "affronté", "ayez": "affronté" }
+	},
+	"infinitif": {
+		"présent": { "affronter": "" },
+		"passé": { "avoir": "affronté" }
+	}
+}

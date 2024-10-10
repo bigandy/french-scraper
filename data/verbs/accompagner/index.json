@@ -1,0 +1,147 @@
+{
+	"name": "marcher",
+	"definition": "accompany; support; go with; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'accompagner/ne pas accompagner/ne pas s'accompagner",
+	"indicatif": {
+		"présent": {
+			"j'": "accompagne",
+			"tu": "accompagnes",
+			"il/elle": "accompagne",
+			"nous": "accompagnons",
+			"vous": "accompagnez",
+			"ils/elles": "accompagnent"
+		},
+		"imparfait": {
+			"j'": "accompagnais",
+			"tu": "accompagnais",
+			"il/elle": "accompagnait",
+			"nous": "accompagnions",
+			"vous": "accompagniez",
+			"ils/elles": "accompagnaient"
+		},
+		"futur": {
+			"j'": "accompagnerai",
+			"tu": "accompagneras",
+			"il/elle": "accompagnera",
+			"nous": "accompagnerons",
+			"vous": "accompagnerez",
+			"ils/elles": "accompagneront"
+		},
+		"passé simple": {
+			"j'": "accompagnai",
+			"tu": "accompagnas",
+			"il/elle": "accompagna",
+			"nous": "accompagnâmes",
+			"vous": "accompagnâtes",
+			"ils/elles": "accompagnèrent"
+		},
+		"passé composé": {
+			"j'": "ai accompagné",
+			"tu": "as accompagné",
+			"il/elle": "a accompagné",
+			"nous": "avons accompagné",
+			"vous": "avez accompagné",
+			"ils/elles": "ont accompagné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais accompagné",
+			"tu": "avais accompagné",
+			"il/elle": "avait accompagné",
+			"nous": "avions accompagné",
+			"vous": "aviez accompagné",
+			"ils/elles": "avaient accompagné"
+		},
+		"passé antérieur": {
+			"j'": "eus accompagné",
+			"tu": "eus accompagné",
+			"il/elle": "eut accompagné",
+			"nous": "eûmes accompagné",
+			"vous": "eûtes accompagné",
+			"ils/elles": "eurent accompagné"
+		},
+		"futur antérieur": {
+			"j'": "aurai accompagné",
+			"tu": "auras accompagné",
+			"il/elle": "aura accompagné",
+			"nous": "aurons accompagné",
+			"vous": "aurez accompagné",
+			"ils/elles": "auront accompagné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "accompagne",
+			"que": "vous accompagniez",
+			"qu'il/elle": "accompagne",
+			"qu'ils/elles": "accompagnent"
+		},
+		"imparfait": {
+			"j'": "accompagnasse",
+			"que": "vous accompagnassiez",
+			"qu'il/elle": "accompagnât",
+			"qu'ils/elles": "accompagnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse accompagné",
+			"que": "vous eussiez accompagné",
+			"qu'il/elle": "eût accompagné",
+			"qu'ils/elles": "eussent accompagné"
+		},
+		"passé": {
+			"j'": "aie accompagné",
+			"que": "vous ayez accompagné",
+			"qu'il/elle": "ait accompagné",
+			"qu'ils/elles": "aient accompagné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "accompagnerais",
+			"tu": "accompagnerais",
+			"il/elle": "accompagnerait",
+			"nous": "accompagnerions",
+			"vous": "accompagneriez",
+			"ils/elles": "accompagneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais accompagné",
+			"tu": "aurais accompagné",
+			"il/elle": "aurait accompagné",
+			"nous": "aurions accompagné",
+			"vous": "auriez accompagné",
+			"ils/elles": "auraient accompagné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse accompagné",
+			"tu": "eusses accompagné",
+			"il/elle": "eût accompagné",
+			"nous": "eussions accompagné",
+			"vous": "eussiez accompagné",
+			"ils/elles": "eussent accompagné"
+		}
+	},
+	"participe": {
+		"présent": { "accompagnant": "" },
+		"passé composé": { "ayant": "accompagné" },
+		"passé": {
+			"masc.sg.:": "accompagné",
+			"masc.pl.:": "accompagnés",
+			"fém.sg.:": "accompagnée",
+			"fém.pl.:": "accompagnées"
+		}
+	},
+	"imperatif": {
+		"présent": { "accompagne": "", "accompagnons": "", "accompagnez": "" },
+		"passé": {
+			"aie": "accompagné",
+			"ayons": "accompagné",
+			"ayez": "accompagné"
+		}
+	},
+	"infinitif": {
+		"présent": { "accompagner": "" },
+		"passé": { "avoir": "accompagné" }
+	}
+}

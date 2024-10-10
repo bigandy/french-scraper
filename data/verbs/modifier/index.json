@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "change; modify; amend; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se modifier/ne pas modifier/ne pas se modifier",
+	"indicatif": {
+		"présent": {
+			"je": "modifie",
+			"tu": "modifies",
+			"il/elle": "modifie",
+			"nous": "modifions",
+			"vous": "modifiez",
+			"ils/elles": "modifient"
+		},
+		"imparfait": {
+			"je": "modifiais",
+			"tu": "modifiais",
+			"il/elle": "modifiait",
+			"nous": "modifiions",
+			"vous": "modifiiez",
+			"ils/elles": "modifiaient"
+		},
+		"futur": {
+			"je": "modifierai",
+			"tu": "modifieras",
+			"il/elle": "modifiera",
+			"nous": "modifierons",
+			"vous": "modifierez",
+			"ils/elles": "modifieront"
+		},
+		"passé simple": {
+			"je": "modifiai",
+			"tu": "modifias",
+			"il/elle": "modifia",
+			"nous": "modifiâmes",
+			"vous": "modifiâtes",
+			"ils/elles": "modifièrent"
+		},
+		"passé composé": {
+			"j'": "ai modifié",
+			"tu": "as modifié",
+			"il/elle": "a modifié",
+			"nous": "avons modifié",
+			"vous": "avez modifié",
+			"ils/elles": "ont modifié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais modifié",
+			"tu": "avais modifié",
+			"il/elle": "avait modifié",
+			"nous": "avions modifié",
+			"vous": "aviez modifié",
+			"ils/elles": "avaient modifié"
+		},
+		"passé antérieur": {
+			"j'": "eus modifié",
+			"tu": "eus modifié",
+			"il/elle": "eut modifié",
+			"nous": "eûmes modifié",
+			"vous": "eûtes modifié",
+			"ils/elles": "eurent modifié"
+		},
+		"futur antérieur": {
+			"j'": "aurai modifié",
+			"tu": "auras modifié",
+			"il/elle": "aura modifié",
+			"nous": "aurons modifié",
+			"vous": "aurez modifié",
+			"ils/elles": "auront modifié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous modifiiez",
+			"qu'il/elle": "modifie",
+			"qu'ils/elles": "modifient"
+		},
+		"imparfait": {
+			"que": "vous modifiassiez",
+			"qu'il/elle": "modifiât",
+			"qu'ils/elles": "modifiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse modifié",
+			"que": "vous eussiez modifié",
+			"qu'il/elle": "eût modifié",
+			"qu'ils/elles": "eussent modifié"
+		},
+		"passé": {
+			"j'": "aie modifié",
+			"que": "vous ayez modifié",
+			"qu'il/elle": "ait modifié",
+			"qu'ils/elles": "aient modifié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "modifierais",
+			"tu": "modifierais",
+			"il/elle": "modifierait",
+			"nous": "modifierions",
+			"vous": "modifieriez",
+			"ils/elles": "modifieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais modifié",
+			"tu": "aurais modifié",
+			"il/elle": "aurait modifié",
+			"nous": "aurions modifié",
+			"vous": "auriez modifié",
+			"ils/elles": "auraient modifié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse modifié",
+			"tu": "eusses modifié",
+			"il/elle": "eût modifié",
+			"nous": "eussions modifié",
+			"vous": "eussiez modifié",
+			"ils/elles": "eussent modifié"
+		}
+	},
+	"participe": {
+		"présent": { "modifiant": "" },
+		"passé composé": { "ayant": "modifié" },
+		"passé": {
+			"masc.sg.:": "modifié",
+			"masc.pl.:": "modifiés",
+			"fém.sg.:": "modifiée",
+			"fém.pl.:": "modifiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "modifie": "", "modifions": "", "modifiez": "" },
+		"passé": { "aie": "modifié", "ayons": "modifié", "ayez": "modifié" }
+	},
+	"infinitif": {
+		"présent": { "modifier": "" },
+		"passé": { "avoir": "modifié" }
+	}
+}

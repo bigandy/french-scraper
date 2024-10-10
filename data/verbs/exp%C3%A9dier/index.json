@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "ship; send; dispatch; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'expédier/ne pas expédier/ne pas s'expédier",
+	"indicatif": {
+		"présent": {
+			"j'": "expédie",
+			"tu": "expédies",
+			"il/elle": "expédie",
+			"nous": "expédions",
+			"vous": "expédiez",
+			"ils/elles": "expédient"
+		},
+		"imparfait": {
+			"j'": "expédiais",
+			"tu": "expédiais",
+			"il/elle": "expédiait",
+			"nous": "expédiions",
+			"vous": "expédiiez",
+			"ils/elles": "expédiaient"
+		},
+		"futur": {
+			"j'": "expédierai",
+			"tu": "expédieras",
+			"il/elle": "expédiera",
+			"nous": "expédierons",
+			"vous": "expédierez",
+			"ils/elles": "expédieront"
+		},
+		"passé simple": {
+			"j'": "expédiai",
+			"tu": "expédias",
+			"il/elle": "expédia",
+			"nous": "expédiâmes",
+			"vous": "expédiâtes",
+			"ils/elles": "expédièrent"
+		},
+		"passé composé": {
+			"j'": "ai expédié",
+			"tu": "as expédié",
+			"il/elle": "a expédié",
+			"nous": "avons expédié",
+			"vous": "avez expédié",
+			"ils/elles": "ont expédié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais expédié",
+			"tu": "avais expédié",
+			"il/elle": "avait expédié",
+			"nous": "avions expédié",
+			"vous": "aviez expédié",
+			"ils/elles": "avaient expédié"
+		},
+		"passé antérieur": {
+			"j'": "eus expédié",
+			"tu": "eus expédié",
+			"il/elle": "eut expédié",
+			"nous": "eûmes expédié",
+			"vous": "eûtes expédié",
+			"ils/elles": "eurent expédié"
+		},
+		"futur antérieur": {
+			"j'": "aurai expédié",
+			"tu": "auras expédié",
+			"il/elle": "aura expédié",
+			"nous": "aurons expédié",
+			"vous": "aurez expédié",
+			"ils/elles": "auront expédié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "expédie",
+			"que": "vous expédiiez",
+			"qu'il/elle": "expédie",
+			"qu'ils/elles": "expédient"
+		},
+		"imparfait": {
+			"j'": "expédiasse",
+			"que": "vous expédiassiez",
+			"qu'il/elle": "expédiât",
+			"qu'ils/elles": "expédiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse expédié",
+			"que": "vous eussiez expédié",
+			"qu'il/elle": "eût expédié",
+			"qu'ils/elles": "eussent expédié"
+		},
+		"passé": {
+			"j'": "aie expédié",
+			"que": "vous ayez expédié",
+			"qu'il/elle": "ait expédié",
+			"qu'ils/elles": "aient expédié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "expédierais",
+			"tu": "expédierais",
+			"il/elle": "expédierait",
+			"nous": "expédierions",
+			"vous": "expédieriez",
+			"ils/elles": "expédieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais expédié",
+			"tu": "aurais expédié",
+			"il/elle": "aurait expédié",
+			"nous": "aurions expédié",
+			"vous": "auriez expédié",
+			"ils/elles": "auraient expédié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse expédié",
+			"tu": "eusses expédié",
+			"il/elle": "eût expédié",
+			"nous": "eussions expédié",
+			"vous": "eussiez expédié",
+			"ils/elles": "eussent expédié"
+		}
+	},
+	"participe": {
+		"présent": { "expédiant": "" },
+		"passé composé": { "ayant": "expédié" },
+		"passé": {
+			"masc.sg.:": "expédié",
+			"masc.pl.:": "expédiés",
+			"fém.sg.:": "expédiée",
+			"fém.pl.:": "expédiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "expédie": "", "expédions": "", "expédiez": "" },
+		"passé": { "aie": "expédié", "ayons": "expédié", "ayez": "expédié" }
+	},
+	"infinitif": {
+		"présent": { "expédier": "" },
+		"passé": { "avoir": "expédié" }
+	}
+}

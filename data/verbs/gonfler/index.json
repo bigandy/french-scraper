@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "inflate; swell; expand; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se gonfler/ne pas gonfler/ne pas se gonfler",
+	"indicatif": {
+		"présent": {
+			"je": "gonfle",
+			"tu": "gonfles",
+			"il/elle": "gonfle",
+			"nous": "gonflons",
+			"vous": "gonflez",
+			"ils/elles": "gonflent"
+		},
+		"imparfait": {
+			"je": "gonflais",
+			"tu": "gonflais",
+			"il/elle": "gonflait",
+			"nous": "gonflions",
+			"vous": "gonfliez",
+			"ils/elles": "gonflaient"
+		},
+		"futur": {
+			"je": "gonflerai",
+			"tu": "gonfleras",
+			"il/elle": "gonflera",
+			"nous": "gonflerons",
+			"vous": "gonflerez",
+			"ils/elles": "gonfleront"
+		},
+		"passé simple": {
+			"je": "gonflai",
+			"tu": "gonflas",
+			"il/elle": "gonfla",
+			"nous": "gonflâmes",
+			"vous": "gonflâtes",
+			"ils/elles": "gonflèrent"
+		},
+		"passé composé": {
+			"j'": "ai gonflé",
+			"tu": "as gonflé",
+			"il/elle": "a gonflé",
+			"nous": "avons gonflé",
+			"vous": "avez gonflé",
+			"ils/elles": "ont gonflé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais gonflé",
+			"tu": "avais gonflé",
+			"il/elle": "avait gonflé",
+			"nous": "avions gonflé",
+			"vous": "aviez gonflé",
+			"ils/elles": "avaient gonflé"
+		},
+		"passé antérieur": {
+			"j'": "eus gonflé",
+			"tu": "eus gonflé",
+			"il/elle": "eut gonflé",
+			"nous": "eûmes gonflé",
+			"vous": "eûtes gonflé",
+			"ils/elles": "eurent gonflé"
+		},
+		"futur antérieur": {
+			"j'": "aurai gonflé",
+			"tu": "auras gonflé",
+			"il/elle": "aura gonflé",
+			"nous": "aurons gonflé",
+			"vous": "aurez gonflé",
+			"ils/elles": "auront gonflé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous gonfliez",
+			"qu'il/elle": "gonfle",
+			"qu'ils/elles": "gonflent"
+		},
+		"imparfait": {
+			"que": "vous gonflassiez",
+			"qu'il/elle": "gonflât",
+			"qu'ils/elles": "gonflassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse gonflé",
+			"que": "vous eussiez gonflé",
+			"qu'il/elle": "eût gonflé",
+			"qu'ils/elles": "eussent gonflé"
+		},
+		"passé": {
+			"j'": "aie gonflé",
+			"que": "vous ayez gonflé",
+			"qu'il/elle": "ait gonflé",
+			"qu'ils/elles": "aient gonflé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "gonflerais",
+			"tu": "gonflerais",
+			"il/elle": "gonflerait",
+			"nous": "gonflerions",
+			"vous": "gonfleriez",
+			"ils/elles": "gonfleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais gonflé",
+			"tu": "aurais gonflé",
+			"il/elle": "aurait gonflé",
+			"nous": "aurions gonflé",
+			"vous": "auriez gonflé",
+			"ils/elles": "auraient gonflé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse gonflé",
+			"tu": "eusses gonflé",
+			"il/elle": "eût gonflé",
+			"nous": "eussions gonflé",
+			"vous": "eussiez gonflé",
+			"ils/elles": "eussent gonflé"
+		}
+	},
+	"participe": {
+		"présent": { "gonflant": "" },
+		"passé composé": { "ayant": "gonflé" },
+		"passé": {
+			"masc.sg.:": "gonflé",
+			"masc.pl.:": "gonflés",
+			"fém.sg.:": "gonflée",
+			"fém.pl.:": "gonflées"
+		}
+	},
+	"imperatif": {
+		"présent": { "gonfle": "", "gonflons": "", "gonflez": "" },
+		"passé": { "aie": "gonflé", "ayons": "gonflé", "ayez": "gonflé" }
+	},
+	"infinitif": { "présent": { "gonfler": "" }, "passé": { "avoir": "gonflé" } }
+}

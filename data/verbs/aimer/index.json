@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "love; like; enjoy; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'aimer/ne pas aimer/ne pas s'aimer",
+	"indicatif": {
+		"présent": {
+			"j'": "aime",
+			"tu": "aimes",
+			"il/elle": "aime",
+			"nous": "aimons",
+			"vous": "aimez",
+			"ils/elles": "aiment"
+		},
+		"imparfait": {
+			"j'": "aimais",
+			"tu": "aimais",
+			"il/elle": "aimait",
+			"nous": "aimions",
+			"vous": "aimiez",
+			"ils/elles": "aimaient"
+		},
+		"futur": {
+			"j'": "aimerai",
+			"tu": "aimeras",
+			"il/elle": "aimera",
+			"nous": "aimerons",
+			"vous": "aimerez",
+			"ils/elles": "aimeront"
+		},
+		"passé simple": {
+			"j'": "aimai",
+			"tu": "aimas",
+			"il/elle": "aima",
+			"nous": "aimâmes",
+			"vous": "aimâtes",
+			"ils/elles": "aimèrent"
+		},
+		"passé composé": {
+			"j'": "ai aimé",
+			"tu": "as aimé",
+			"il/elle": "a aimé",
+			"nous": "avons aimé",
+			"vous": "avez aimé",
+			"ils/elles": "ont aimé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais aimé",
+			"tu": "avais aimé",
+			"il/elle": "avait aimé",
+			"nous": "avions aimé",
+			"vous": "aviez aimé",
+			"ils/elles": "avaient aimé"
+		},
+		"passé antérieur": {
+			"j'": "eus aimé",
+			"tu": "eus aimé",
+			"il/elle": "eut aimé",
+			"nous": "eûmes aimé",
+			"vous": "eûtes aimé",
+			"ils/elles": "eurent aimé"
+		},
+		"futur antérieur": {
+			"j'": "aurai aimé",
+			"tu": "auras aimé",
+			"il/elle": "aura aimé",
+			"nous": "aurons aimé",
+			"vous": "aurez aimé",
+			"ils/elles": "auront aimé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "aime",
+			"que": "vous aimiez",
+			"qu'il/elle": "aime",
+			"qu'ils/elles": "aiment"
+		},
+		"imparfait": {
+			"j'": "aimasse",
+			"que": "vous aimassiez",
+			"qu'il/elle": "aimât",
+			"qu'ils/elles": "aimassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse aimé",
+			"que": "vous eussiez aimé",
+			"qu'il/elle": "eût aimé",
+			"qu'ils/elles": "eussent aimé"
+		},
+		"passé": {
+			"j'": "aie aimé",
+			"que": "vous ayez aimé",
+			"qu'il/elle": "ait aimé",
+			"qu'ils/elles": "aient aimé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "aimerais",
+			"tu": "aimerais",
+			"il/elle": "aimerait",
+			"nous": "aimerions",
+			"vous": "aimeriez",
+			"ils/elles": "aimeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais aimé",
+			"tu": "aurais aimé",
+			"il/elle": "aurait aimé",
+			"nous": "aurions aimé",
+			"vous": "auriez aimé",
+			"ils/elles": "auraient aimé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse aimé",
+			"tu": "eusses aimé",
+			"il/elle": "eût aimé",
+			"nous": "eussions aimé",
+			"vous": "eussiez aimé",
+			"ils/elles": "eussent aimé"
+		}
+	},
+	"participe": {
+		"présent": { "aimant": "" },
+		"passé composé": { "ayant": "aimé" },
+		"passé": {
+			"masc.sg.:": "aimé",
+			"masc.pl.:": "aimés",
+			"fém.sg.:": "aimée",
+			"fém.pl.:": "aimées"
+		}
+	},
+	"imperatif": {
+		"présent": { "aime": "", "aimons": "", "aimez": "" },
+		"passé": { "aie": "aimé", "ayons": "aimé", "ayez": "aimé" }
+	},
+	"infinitif": { "présent": { "aimer": "" }, "passé": { "avoir": "aimé" } }
+}

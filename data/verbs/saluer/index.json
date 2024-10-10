@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "welcome; greet; commend; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se saluer/ne pas saluer/ne pas se saluer",
+	"indicatif": {
+		"présent": {
+			"je": "salue",
+			"tu": "salues",
+			"il/elle": "salue",
+			"nous": "saluons",
+			"vous": "saluez",
+			"ils/elles": "saluent"
+		},
+		"imparfait": {
+			"je": "saluais",
+			"tu": "saluais",
+			"il/elle": "saluait",
+			"nous": "saluions",
+			"vous": "saluiez",
+			"ils/elles": "saluaient"
+		},
+		"futur": {
+			"je": "saluerai",
+			"tu": "salueras",
+			"il/elle": "saluera",
+			"nous": "saluerons",
+			"vous": "saluerez",
+			"ils/elles": "salueront"
+		},
+		"passé simple": {
+			"je": "saluai",
+			"tu": "saluas",
+			"il/elle": "salua",
+			"nous": "saluâmes",
+			"vous": "saluâtes",
+			"ils/elles": "saluèrent"
+		},
+		"passé composé": {
+			"j'": "ai salué",
+			"tu": "as salué",
+			"il/elle": "a salué",
+			"nous": "avons salué",
+			"vous": "avez salué",
+			"ils/elles": "ont salué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais salué",
+			"tu": "avais salué",
+			"il/elle": "avait salué",
+			"nous": "avions salué",
+			"vous": "aviez salué",
+			"ils/elles": "avaient salué"
+		},
+		"passé antérieur": {
+			"j'": "eus salué",
+			"tu": "eus salué",
+			"il/elle": "eut salué",
+			"nous": "eûmes salué",
+			"vous": "eûtes salué",
+			"ils/elles": "eurent salué"
+		},
+		"futur antérieur": {
+			"j'": "aurai salué",
+			"tu": "auras salué",
+			"il/elle": "aura salué",
+			"nous": "aurons salué",
+			"vous": "aurez salué",
+			"ils/elles": "auront salué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous saluiez",
+			"qu'il/elle": "salue",
+			"qu'ils/elles": "saluent"
+		},
+		"imparfait": {
+			"que": "vous saluassiez",
+			"qu'il/elle": "saluât",
+			"qu'ils/elles": "saluassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse salué",
+			"que": "vous eussiez salué",
+			"qu'il/elle": "eût salué",
+			"qu'ils/elles": "eussent salué"
+		},
+		"passé": {
+			"j'": "aie salué",
+			"que": "vous ayez salué",
+			"qu'il/elle": "ait salué",
+			"qu'ils/elles": "aient salué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "saluerais",
+			"tu": "saluerais",
+			"il/elle": "saluerait",
+			"nous": "saluerions",
+			"vous": "salueriez",
+			"ils/elles": "salueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais salué",
+			"tu": "aurais salué",
+			"il/elle": "aurait salué",
+			"nous": "aurions salué",
+			"vous": "auriez salué",
+			"ils/elles": "auraient salué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse salué",
+			"tu": "eusses salué",
+			"il/elle": "eût salué",
+			"nous": "eussions salué",
+			"vous": "eussiez salué",
+			"ils/elles": "eussent salué"
+		}
+	},
+	"participe": {
+		"présent": { "saluant": "" },
+		"passé composé": { "ayant": "salué" },
+		"passé": {
+			"masc.sg.:": "salué",
+			"masc.pl.:": "salués",
+			"fém.sg.:": "saluée",
+			"fém.pl.:": "saluées"
+		}
+	},
+	"imperatif": {
+		"présent": { "salue": "", "saluons": "", "saluez": "" },
+		"passé": { "aie": "salué", "ayons": "salué", "ayez": "salué" }
+	},
+	"infinitif": { "présent": { "saluer": "" }, "passé": { "avoir": "salué" } }
+}

@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "treat; cure; heal; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se soigner/ne pas soigner/ne pas se soigner",
+	"indicatif": {
+		"présent": {
+			"je": "soigne",
+			"tu": "soignes",
+			"il/elle": "soigne",
+			"nous": "soignons",
+			"vous": "soignez",
+			"ils/elles": "soignent"
+		},
+		"imparfait": {
+			"je": "soignais",
+			"tu": "soignais",
+			"il/elle": "soignait",
+			"nous": "soignions",
+			"vous": "soigniez",
+			"ils/elles": "soignaient"
+		},
+		"futur": {
+			"je": "soignerai",
+			"tu": "soigneras",
+			"il/elle": "soignera",
+			"nous": "soignerons",
+			"vous": "soignerez",
+			"ils/elles": "soigneront"
+		},
+		"passé simple": {
+			"je": "soignai",
+			"tu": "soignas",
+			"il/elle": "soigna",
+			"nous": "soignâmes",
+			"vous": "soignâtes",
+			"ils/elles": "soignèrent"
+		},
+		"passé composé": {
+			"j'": "ai soigné",
+			"tu": "as soigné",
+			"il/elle": "a soigné",
+			"nous": "avons soigné",
+			"vous": "avez soigné",
+			"ils/elles": "ont soigné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais soigné",
+			"tu": "avais soigné",
+			"il/elle": "avait soigné",
+			"nous": "avions soigné",
+			"vous": "aviez soigné",
+			"ils/elles": "avaient soigné"
+		},
+		"passé antérieur": {
+			"j'": "eus soigné",
+			"tu": "eus soigné",
+			"il/elle": "eut soigné",
+			"nous": "eûmes soigné",
+			"vous": "eûtes soigné",
+			"ils/elles": "eurent soigné"
+		},
+		"futur antérieur": {
+			"j'": "aurai soigné",
+			"tu": "auras soigné",
+			"il/elle": "aura soigné",
+			"nous": "aurons soigné",
+			"vous": "aurez soigné",
+			"ils/elles": "auront soigné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous soigniez",
+			"qu'il/elle": "soigne",
+			"qu'ils/elles": "soignent"
+		},
+		"imparfait": {
+			"que": "vous soignassiez",
+			"qu'il/elle": "soignât",
+			"qu'ils/elles": "soignassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse soigné",
+			"que": "vous eussiez soigné",
+			"qu'il/elle": "eût soigné",
+			"qu'ils/elles": "eussent soigné"
+		},
+		"passé": {
+			"j'": "aie soigné",
+			"que": "vous ayez soigné",
+			"qu'il/elle": "ait soigné",
+			"qu'ils/elles": "aient soigné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "soignerais",
+			"tu": "soignerais",
+			"il/elle": "soignerait",
+			"nous": "soignerions",
+			"vous": "soigneriez",
+			"ils/elles": "soigneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais soigné",
+			"tu": "aurais soigné",
+			"il/elle": "aurait soigné",
+			"nous": "aurions soigné",
+			"vous": "auriez soigné",
+			"ils/elles": "auraient soigné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse soigné",
+			"tu": "eusses soigné",
+			"il/elle": "eût soigné",
+			"nous": "eussions soigné",
+			"vous": "eussiez soigné",
+			"ils/elles": "eussent soigné"
+		}
+	},
+	"participe": {
+		"présent": { "soignant": "" },
+		"passé composé": { "ayant": "soigné" },
+		"passé": {
+			"masc.sg.:": "soigné",
+			"masc.pl.:": "soignés",
+			"fém.sg.:": "soignée",
+			"fém.pl.:": "soignées"
+		}
+	},
+	"imperatif": {
+		"présent": { "soigne": "", "soignons": "", "soignez": "" },
+		"passé": { "aie": "soigné", "ayons": "soigné", "ayez": "soigné" }
+	},
+	"infinitif": { "présent": { "soigner": "" }, "passé": { "avoir": "soigné" } }
+}

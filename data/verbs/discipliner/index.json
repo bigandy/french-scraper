@@ -1,0 +1,145 @@
+{
+	"name": "marcher",
+	"definition": "discipline; control; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se discipliner/ne pas discipliner/ne pas se discipliner",
+	"indicatif": {
+		"présent": {
+			"je": "discipline",
+			"tu": "disciplines",
+			"il/elle": "discipline",
+			"nous": "disciplinons",
+			"vous": "disciplinez",
+			"ils/elles": "disciplinent"
+		},
+		"imparfait": {
+			"je": "disciplinais",
+			"tu": "disciplinais",
+			"il/elle": "disciplinait",
+			"nous": "disciplinions",
+			"vous": "discipliniez",
+			"ils/elles": "disciplinaient"
+		},
+		"futur": {
+			"je": "disciplinerai",
+			"tu": "disciplineras",
+			"il/elle": "disciplinera",
+			"nous": "disciplinerons",
+			"vous": "disciplinerez",
+			"ils/elles": "disciplineront"
+		},
+		"passé simple": {
+			"je": "disciplinai",
+			"tu": "disciplinas",
+			"il/elle": "disciplina",
+			"nous": "disciplinâmes",
+			"vous": "disciplinâtes",
+			"ils/elles": "disciplinèrent"
+		},
+		"passé composé": {
+			"j'": "ai discipliné",
+			"tu": "as discipliné",
+			"il/elle": "a discipliné",
+			"nous": "avons discipliné",
+			"vous": "avez discipliné",
+			"ils/elles": "ont discipliné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais discipliné",
+			"tu": "avais discipliné",
+			"il/elle": "avait discipliné",
+			"nous": "avions discipliné",
+			"vous": "aviez discipliné",
+			"ils/elles": "avaient discipliné"
+		},
+		"passé antérieur": {
+			"j'": "eus discipliné",
+			"tu": "eus discipliné",
+			"il/elle": "eut discipliné",
+			"nous": "eûmes discipliné",
+			"vous": "eûtes discipliné",
+			"ils/elles": "eurent discipliné"
+		},
+		"futur antérieur": {
+			"j'": "aurai discipliné",
+			"tu": "auras discipliné",
+			"il/elle": "aura discipliné",
+			"nous": "aurons discipliné",
+			"vous": "aurez discipliné",
+			"ils/elles": "auront discipliné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous discipliniez",
+			"qu'il/elle": "discipline",
+			"qu'ils/elles": "disciplinent"
+		},
+		"imparfait": {
+			"que": "vous disciplinassiez",
+			"qu'il/elle": "disciplinât",
+			"qu'ils/elles": "disciplinassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse discipliné",
+			"que": "vous eussiez discipliné",
+			"qu'il/elle": "eût discipliné",
+			"qu'ils/elles": "eussent discipliné"
+		},
+		"passé": {
+			"j'": "aie discipliné",
+			"que": "vous ayez discipliné",
+			"qu'il/elle": "ait discipliné",
+			"qu'ils/elles": "aient discipliné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "disciplinerais",
+			"tu": "disciplinerais",
+			"il/elle": "disciplinerait",
+			"nous": "disciplinerions",
+			"vous": "disciplineriez",
+			"ils/elles": "disciplineraient"
+		},
+		"passé première forme": {
+			"j'": "aurais discipliné",
+			"tu": "aurais discipliné",
+			"il/elle": "aurait discipliné",
+			"nous": "aurions discipliné",
+			"vous": "auriez discipliné",
+			"ils/elles": "auraient discipliné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse discipliné",
+			"tu": "eusses discipliné",
+			"il/elle": "eût discipliné",
+			"nous": "eussions discipliné",
+			"vous": "eussiez discipliné",
+			"ils/elles": "eussent discipliné"
+		}
+	},
+	"participe": {
+		"présent": { "disciplinant": "" },
+		"passé composé": { "ayant": "discipliné" },
+		"passé": {
+			"masc.sg.:": "discipliné",
+			"masc.pl.:": "disciplinés",
+			"fém.sg.:": "disciplinée",
+			"fém.pl.:": "disciplinées"
+		}
+	},
+	"imperatif": {
+		"présent": { "discipline": "", "disciplinons": "", "disciplinez": "" },
+		"passé": {
+			"aie": "discipliné",
+			"ayons": "discipliné",
+			"ayez": "discipliné"
+		}
+	},
+	"infinitif": {
+		"présent": { "discipliner": "" },
+		"passé": { "avoir": "discipliné" }
+	}
+}

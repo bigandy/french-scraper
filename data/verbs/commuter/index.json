@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "switch; commutate; commute; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se commuter/ne pas commuter/ne pas se commuter",
+	"indicatif": {
+		"présent": {
+			"je": "commute",
+			"tu": "commutes",
+			"il/elle": "commute",
+			"nous": "commutons",
+			"vous": "commutez",
+			"ils/elles": "commutent"
+		},
+		"imparfait": {
+			"je": "commutais",
+			"tu": "commutais",
+			"il/elle": "commutait",
+			"nous": "commutions",
+			"vous": "commutiez",
+			"ils/elles": "commutaient"
+		},
+		"futur": {
+			"je": "commuterai",
+			"tu": "commuteras",
+			"il/elle": "commutera",
+			"nous": "commuterons",
+			"vous": "commuterez",
+			"ils/elles": "commuteront"
+		},
+		"passé simple": {
+			"je": "commutai",
+			"tu": "commutas",
+			"il/elle": "commuta",
+			"nous": "commutâmes",
+			"vous": "commutâtes",
+			"ils/elles": "commutèrent"
+		},
+		"passé composé": {
+			"j'": "ai commuté",
+			"tu": "as commuté",
+			"il/elle": "a commuté",
+			"nous": "avons commuté",
+			"vous": "avez commuté",
+			"ils/elles": "ont commuté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais commuté",
+			"tu": "avais commuté",
+			"il/elle": "avait commuté",
+			"nous": "avions commuté",
+			"vous": "aviez commuté",
+			"ils/elles": "avaient commuté"
+		},
+		"passé antérieur": {
+			"j'": "eus commuté",
+			"tu": "eus commuté",
+			"il/elle": "eut commuté",
+			"nous": "eûmes commuté",
+			"vous": "eûtes commuté",
+			"ils/elles": "eurent commuté"
+		},
+		"futur antérieur": {
+			"j'": "aurai commuté",
+			"tu": "auras commuté",
+			"il/elle": "aura commuté",
+			"nous": "aurons commuté",
+			"vous": "aurez commuté",
+			"ils/elles": "auront commuté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous commutiez",
+			"qu'il/elle": "commute",
+			"qu'ils/elles": "commutent"
+		},
+		"imparfait": {
+			"que": "vous commutassiez",
+			"qu'il/elle": "commutât",
+			"qu'ils/elles": "commutassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse commuté",
+			"que": "vous eussiez commuté",
+			"qu'il/elle": "eût commuté",
+			"qu'ils/elles": "eussent commuté"
+		},
+		"passé": {
+			"j'": "aie commuté",
+			"que": "vous ayez commuté",
+			"qu'il/elle": "ait commuté",
+			"qu'ils/elles": "aient commuté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "commuterais",
+			"tu": "commuterais",
+			"il/elle": "commuterait",
+			"nous": "commuterions",
+			"vous": "commuteriez",
+			"ils/elles": "commuteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais commuté",
+			"tu": "aurais commuté",
+			"il/elle": "aurait commuté",
+			"nous": "aurions commuté",
+			"vous": "auriez commuté",
+			"ils/elles": "auraient commuté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse commuté",
+			"tu": "eusses commuté",
+			"il/elle": "eût commuté",
+			"nous": "eussions commuté",
+			"vous": "eussiez commuté",
+			"ils/elles": "eussent commuté"
+		}
+	},
+	"participe": {
+		"présent": { "commutant": "" },
+		"passé composé": { "ayant": "commuté" },
+		"passé": {
+			"masc.sg.:": "commuté",
+			"masc.pl.:": "commutés",
+			"fém.sg.:": "commutée",
+			"fém.pl.:": "commutées"
+		}
+	},
+	"imperatif": {
+		"présent": { "commute": "", "commutons": "", "commutez": "" },
+		"passé": { "aie": "commuté", "ayons": "commuté", "ayez": "commuté" }
+	},
+	"infinitif": {
+		"présent": { "commuter": "" },
+		"passé": { "avoir": "commuté" }
+	}
+}

@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "declare; report; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se déclarer/ne pas déclarer/ne pas se déclarer",
+	"indicatif": {
+		"présent": {
+			"je": "déclare",
+			"tu": "déclares",
+			"il/elle": "déclare",
+			"nous": "déclarons",
+			"vous": "déclarez",
+			"ils/elles": "déclarent"
+		},
+		"imparfait": {
+			"je": "déclarais",
+			"tu": "déclarais",
+			"il/elle": "déclarait",
+			"nous": "déclarions",
+			"vous": "déclariez",
+			"ils/elles": "déclaraient"
+		},
+		"futur": {
+			"je": "déclarerai",
+			"tu": "déclareras",
+			"il/elle": "déclarera",
+			"nous": "déclarerons",
+			"vous": "déclarerez",
+			"ils/elles": "déclareront"
+		},
+		"passé simple": {
+			"je": "déclarai",
+			"tu": "déclaras",
+			"il/elle": "déclara",
+			"nous": "déclarâmes",
+			"vous": "déclarâtes",
+			"ils/elles": "déclarèrent"
+		},
+		"passé composé": {
+			"j'": "ai déclaré",
+			"tu": "as déclaré",
+			"il/elle": "a déclaré",
+			"nous": "avons déclaré",
+			"vous": "avez déclaré",
+			"ils/elles": "ont déclaré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais déclaré",
+			"tu": "avais déclaré",
+			"il/elle": "avait déclaré",
+			"nous": "avions déclaré",
+			"vous": "aviez déclaré",
+			"ils/elles": "avaient déclaré"
+		},
+		"passé antérieur": {
+			"j'": "eus déclaré",
+			"tu": "eus déclaré",
+			"il/elle": "eut déclaré",
+			"nous": "eûmes déclaré",
+			"vous": "eûtes déclaré",
+			"ils/elles": "eurent déclaré"
+		},
+		"futur antérieur": {
+			"j'": "aurai déclaré",
+			"tu": "auras déclaré",
+			"il/elle": "aura déclaré",
+			"nous": "aurons déclaré",
+			"vous": "aurez déclaré",
+			"ils/elles": "auront déclaré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous déclariez",
+			"qu'il/elle": "déclare",
+			"qu'ils/elles": "déclarent"
+		},
+		"imparfait": {
+			"que": "vous déclarassiez",
+			"qu'il/elle": "déclarât",
+			"qu'ils/elles": "déclarassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse déclaré",
+			"que": "vous eussiez déclaré",
+			"qu'il/elle": "eût déclaré",
+			"qu'ils/elles": "eussent déclaré"
+		},
+		"passé": {
+			"j'": "aie déclaré",
+			"que": "vous ayez déclaré",
+			"qu'il/elle": "ait déclaré",
+			"qu'ils/elles": "aient déclaré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "déclarerais",
+			"tu": "déclarerais",
+			"il/elle": "déclarerait",
+			"nous": "déclarerions",
+			"vous": "déclareriez",
+			"ils/elles": "déclareraient"
+		},
+		"passé première forme": {
+			"j'": "aurais déclaré",
+			"tu": "aurais déclaré",
+			"il/elle": "aurait déclaré",
+			"nous": "aurions déclaré",
+			"vous": "auriez déclaré",
+			"ils/elles": "auraient déclaré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse déclaré",
+			"tu": "eusses déclaré",
+			"il/elle": "eût déclaré",
+			"nous": "eussions déclaré",
+			"vous": "eussiez déclaré",
+			"ils/elles": "eussent déclaré"
+		}
+	},
+	"participe": {
+		"présent": { "déclarant": "" },
+		"passé composé": { "ayant": "déclaré" },
+		"passé": {
+			"masc.sg.:": "déclaré",
+			"masc.pl.:": "déclarés",
+			"fém.sg.:": "déclarée",
+			"fém.pl.:": "déclarées"
+		}
+	},
+	"imperatif": {
+		"présent": { "déclare": "", "déclarons": "", "déclarez": "" },
+		"passé": { "aie": "déclaré", "ayons": "déclaré", "ayez": "déclaré" }
+	},
+	"infinitif": {
+		"présent": { "déclarer": "" },
+		"passé": { "avoir": "déclaré" }
+	}
+}

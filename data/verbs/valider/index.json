@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "validate; confirm; enable; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se valider/ne pas valider/ne pas se valider",
+	"indicatif": {
+		"présent": {
+			"je": "valide",
+			"tu": "valides",
+			"il/elle": "valide",
+			"nous": "validons",
+			"vous": "validez",
+			"ils/elles": "valident"
+		},
+		"imparfait": {
+			"je": "validais",
+			"tu": "validais",
+			"il/elle": "validait",
+			"nous": "validions",
+			"vous": "validiez",
+			"ils/elles": "validaient"
+		},
+		"futur": {
+			"je": "validerai",
+			"tu": "valideras",
+			"il/elle": "validera",
+			"nous": "validerons",
+			"vous": "validerez",
+			"ils/elles": "valideront"
+		},
+		"passé simple": {
+			"je": "validai",
+			"tu": "validas",
+			"il/elle": "valida",
+			"nous": "validâmes",
+			"vous": "validâtes",
+			"ils/elles": "validèrent"
+		},
+		"passé composé": {
+			"j'": "ai validé",
+			"tu": "as validé",
+			"il/elle": "a validé",
+			"nous": "avons validé",
+			"vous": "avez validé",
+			"ils/elles": "ont validé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais validé",
+			"tu": "avais validé",
+			"il/elle": "avait validé",
+			"nous": "avions validé",
+			"vous": "aviez validé",
+			"ils/elles": "avaient validé"
+		},
+		"passé antérieur": {
+			"j'": "eus validé",
+			"tu": "eus validé",
+			"il/elle": "eut validé",
+			"nous": "eûmes validé",
+			"vous": "eûtes validé",
+			"ils/elles": "eurent validé"
+		},
+		"futur antérieur": {
+			"j'": "aurai validé",
+			"tu": "auras validé",
+			"il/elle": "aura validé",
+			"nous": "aurons validé",
+			"vous": "aurez validé",
+			"ils/elles": "auront validé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous validiez",
+			"qu'il/elle": "valide",
+			"qu'ils/elles": "valident"
+		},
+		"imparfait": {
+			"que": "vous validassiez",
+			"qu'il/elle": "validât",
+			"qu'ils/elles": "validassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse validé",
+			"que": "vous eussiez validé",
+			"qu'il/elle": "eût validé",
+			"qu'ils/elles": "eussent validé"
+		},
+		"passé": {
+			"j'": "aie validé",
+			"que": "vous ayez validé",
+			"qu'il/elle": "ait validé",
+			"qu'ils/elles": "aient validé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "validerais",
+			"tu": "validerais",
+			"il/elle": "validerait",
+			"nous": "validerions",
+			"vous": "valideriez",
+			"ils/elles": "valideraient"
+		},
+		"passé première forme": {
+			"j'": "aurais validé",
+			"tu": "aurais validé",
+			"il/elle": "aurait validé",
+			"nous": "aurions validé",
+			"vous": "auriez validé",
+			"ils/elles": "auraient validé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse validé",
+			"tu": "eusses validé",
+			"il/elle": "eût validé",
+			"nous": "eussions validé",
+			"vous": "eussiez validé",
+			"ils/elles": "eussent validé"
+		}
+	},
+	"participe": {
+		"présent": { "validant": "" },
+		"passé composé": { "ayant": "validé" },
+		"passé": {
+			"masc.sg.:": "validé",
+			"masc.pl.:": "validés",
+			"fém.sg.:": "validée",
+			"fém.pl.:": "validées"
+		}
+	},
+	"imperatif": {
+		"présent": { "valide": "", "validons": "", "validez": "" },
+		"passé": { "aie": "validé", "ayons": "validé", "ayez": "validé" }
+	},
+	"infinitif": { "présent": { "valider": "" }, "passé": { "avoir": "validé" } }
+}

@@ -1,0 +1,138 @@
+{
+	"name": "manger",
+	"definition": "clear; release; generate; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "se dégager/ne pas dégager/ne pas se dégager",
+	"indicatif": {
+		"présent": {
+			"je": "dégage",
+			"tu": "dégages",
+			"il/elle": "dégage",
+			"nous": "dégageons",
+			"vous": "dégagez",
+			"ils/elles": "dégagent"
+		},
+		"imparfait": {
+			"je": "dégageais",
+			"tu": "dégageais",
+			"il/elle": "dégageait",
+			"nous": "dégagions",
+			"vous": "dégagiez",
+			"ils/elles": "dégageaient"
+		},
+		"futur": {
+			"je": "dégagerai",
+			"tu": "dégageras",
+			"il/elle": "dégagera",
+			"nous": "dégagerons",
+			"vous": "dégagerez",
+			"ils/elles": "dégageront"
+		},
+		"passé simple": {
+			"je": "dégageai",
+			"tu": "dégageas",
+			"il/elle": "dégagea",
+			"nous": "dégageâmes",
+			"vous": "dégageâtes",
+			"ils/elles": "dégagèrent"
+		},
+		"passé composé": {
+			"j'": "ai dégagé",
+			"tu": "as dégagé",
+			"il/elle": "a dégagé",
+			"nous": "avons dégagé",
+			"vous": "avez dégagé",
+			"ils/elles": "ont dégagé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais dégagé",
+			"tu": "avais dégagé",
+			"il/elle": "avait dégagé",
+			"nous": "avions dégagé",
+			"vous": "aviez dégagé",
+			"ils/elles": "avaient dégagé"
+		},
+		"passé antérieur": {
+			"j'": "eus dégagé",
+			"tu": "eus dégagé",
+			"il/elle": "eut dégagé",
+			"nous": "eûmes dégagé",
+			"vous": "eûtes dégagé",
+			"ils/elles": "eurent dégagé"
+		},
+		"futur antérieur": {
+			"j'": "aurai dégagé",
+			"tu": "auras dégagé",
+			"il/elle": "aura dégagé",
+			"nous": "aurons dégagé",
+			"vous": "aurez dégagé",
+			"ils/elles": "auront dégagé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous dégagiez",
+			"qu'il/elle": "dégage",
+			"qu'ils/elles": "dégagent"
+		},
+		"imparfait": {
+			"que": "vous dégageassiez",
+			"qu'il/elle": "dégageât",
+			"qu'ils/elles": "dégageassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse dégagé",
+			"que": "vous eussiez dégagé",
+			"qu'il/elle": "eût dégagé",
+			"qu'ils/elles": "eussent dégagé"
+		},
+		"passé": {
+			"j'": "aie dégagé",
+			"que": "vous ayez dégagé",
+			"qu'il/elle": "ait dégagé",
+			"qu'ils/elles": "aient dégagé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "dégagerais",
+			"tu": "dégagerais",
+			"il/elle": "dégagerait",
+			"nous": "dégagerions",
+			"vous": "dégageriez",
+			"ils/elles": "dégageraient"
+		},
+		"passé première forme": {
+			"j'": "aurais dégagé",
+			"tu": "aurais dégagé",
+			"il/elle": "aurait dégagé",
+			"nous": "aurions dégagé",
+			"vous": "auriez dégagé",
+			"ils/elles": "auraient dégagé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse dégagé",
+			"tu": "eusses dégagé",
+			"il/elle": "eût dégagé",
+			"nous": "eussions dégagé",
+			"vous": "eussiez dégagé",
+			"ils/elles": "eussent dégagé"
+		}
+	},
+	"participe": {
+		"présent": { "dégageant": "" },
+		"passé composé": { "ayant": "dégagé" },
+		"passé": {
+			"masc.sg.:": "dégagé",
+			"masc.pl.:": "dégagés",
+			"fém.sg.:": "dégagée",
+			"fém.pl.:": "dégagées"
+		}
+	},
+	"imperatif": {
+		"présent": { "dégage": "", "dégageons": "", "dégagez": "" },
+		"passé": { "aie": "dégagé", "ayons": "dégagé", "ayez": "dégagé" }
+	},
+	"infinitif": { "présent": { "dégager": "" }, "passé": { "avoir": "dégagé" } }
+}

@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "associate; involve; join; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'associer/ne pas associer/ne pas s'associer",
+	"indicatif": {
+		"présent": {
+			"j'": "associe",
+			"tu": "associes",
+			"il/elle": "associe",
+			"nous": "associons",
+			"vous": "associez",
+			"ils/elles": "associent"
+		},
+		"imparfait": {
+			"j'": "associais",
+			"tu": "associais",
+			"il/elle": "associait",
+			"nous": "associions",
+			"vous": "associiez",
+			"ils/elles": "associaient"
+		},
+		"futur": {
+			"j'": "associerai",
+			"tu": "associeras",
+			"il/elle": "associera",
+			"nous": "associerons",
+			"vous": "associerez",
+			"ils/elles": "associeront"
+		},
+		"passé simple": {
+			"j'": "associai",
+			"tu": "associas",
+			"il/elle": "associa",
+			"nous": "associâmes",
+			"vous": "associâtes",
+			"ils/elles": "associèrent"
+		},
+		"passé composé": {
+			"j'": "ai associé",
+			"tu": "as associé",
+			"il/elle": "a associé",
+			"nous": "avons associé",
+			"vous": "avez associé",
+			"ils/elles": "ont associé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais associé",
+			"tu": "avais associé",
+			"il/elle": "avait associé",
+			"nous": "avions associé",
+			"vous": "aviez associé",
+			"ils/elles": "avaient associé"
+		},
+		"passé antérieur": {
+			"j'": "eus associé",
+			"tu": "eus associé",
+			"il/elle": "eut associé",
+			"nous": "eûmes associé",
+			"vous": "eûtes associé",
+			"ils/elles": "eurent associé"
+		},
+		"futur antérieur": {
+			"j'": "aurai associé",
+			"tu": "auras associé",
+			"il/elle": "aura associé",
+			"nous": "aurons associé",
+			"vous": "aurez associé",
+			"ils/elles": "auront associé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "associe",
+			"que": "vous associiez",
+			"qu'il/elle": "associe",
+			"qu'ils/elles": "associent"
+		},
+		"imparfait": {
+			"j'": "associasse",
+			"que": "vous associassiez",
+			"qu'il/elle": "associât",
+			"qu'ils/elles": "associassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse associé",
+			"que": "vous eussiez associé",
+			"qu'il/elle": "eût associé",
+			"qu'ils/elles": "eussent associé"
+		},
+		"passé": {
+			"j'": "aie associé",
+			"que": "vous ayez associé",
+			"qu'il/elle": "ait associé",
+			"qu'ils/elles": "aient associé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "associerais",
+			"tu": "associerais",
+			"il/elle": "associerait",
+			"nous": "associerions",
+			"vous": "associeriez",
+			"ils/elles": "associeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais associé",
+			"tu": "aurais associé",
+			"il/elle": "aurait associé",
+			"nous": "aurions associé",
+			"vous": "auriez associé",
+			"ils/elles": "auraient associé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse associé",
+			"tu": "eusses associé",
+			"il/elle": "eût associé",
+			"nous": "eussions associé",
+			"vous": "eussiez associé",
+			"ils/elles": "eussent associé"
+		}
+	},
+	"participe": {
+		"présent": { "associant": "" },
+		"passé composé": { "ayant": "associé" },
+		"passé": {
+			"masc.sg.:": "associé",
+			"masc.pl.:": "associés",
+			"fém.sg.:": "associée",
+			"fém.pl.:": "associées"
+		}
+	},
+	"imperatif": {
+		"présent": { "associe": "", "associons": "", "associez": "" },
+		"passé": { "aie": "associé", "ayons": "associé", "ayez": "associé" }
+	},
+	"infinitif": {
+		"présent": { "associer": "" },
+		"passé": { "avoir": "associé" }
+	}
+}

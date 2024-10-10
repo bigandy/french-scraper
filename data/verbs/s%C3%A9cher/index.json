@@ -1,0 +1,138 @@
+{
+	"name": "sécher",
+	"definition": "dry; dry out; skip; ...",
+	"model": "sécher",
+	"auxiliary": "avoir",
+	"otherForms": "se sécher/ne pas sécher/ne pas se sécher",
+	"indicatif": {
+		"présent": {
+			"je": "sèche",
+			"tu": "sèches",
+			"il/elle": "sèche",
+			"nous": "séchons",
+			"vous": "séchez",
+			"ils/elles": "sèchent"
+		},
+		"imparfait": {
+			"je": "séchais",
+			"tu": "séchais",
+			"il/elle": "séchait",
+			"nous": "séchions",
+			"vous": "séchiez",
+			"ils/elles": "séchaient"
+		},
+		"futur": {
+			"je": "sécherai",
+			"tu": "sécheras",
+			"il/elle": "séchera",
+			"nous": "sécherons",
+			"vous": "sécherez",
+			"ils/elles": "sécheront"
+		},
+		"passé simple": {
+			"je": "séchai",
+			"tu": "séchas",
+			"il/elle": "sécha",
+			"nous": "séchâmes",
+			"vous": "séchâtes",
+			"ils/elles": "séchèrent"
+		},
+		"passé composé": {
+			"j'": "ai séché",
+			"tu": "as séché",
+			"il/elle": "a séché",
+			"nous": "avons séché",
+			"vous": "avez séché",
+			"ils/elles": "ont séché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais séché",
+			"tu": "avais séché",
+			"il/elle": "avait séché",
+			"nous": "avions séché",
+			"vous": "aviez séché",
+			"ils/elles": "avaient séché"
+		},
+		"passé antérieur": {
+			"j'": "eus séché",
+			"tu": "eus séché",
+			"il/elle": "eut séché",
+			"nous": "eûmes séché",
+			"vous": "eûtes séché",
+			"ils/elles": "eurent séché"
+		},
+		"futur antérieur": {
+			"j'": "aurai séché",
+			"tu": "auras séché",
+			"il/elle": "aura séché",
+			"nous": "aurons séché",
+			"vous": "aurez séché",
+			"ils/elles": "auront séché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous séchiez",
+			"qu'il/elle": "sèche",
+			"qu'ils/elles": "sèchent"
+		},
+		"imparfait": {
+			"que": "vous séchassiez",
+			"qu'il/elle": "séchât",
+			"qu'ils/elles": "séchassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse séché",
+			"que": "vous eussiez séché",
+			"qu'il/elle": "eût séché",
+			"qu'ils/elles": "eussent séché"
+		},
+		"passé": {
+			"j'": "aie séché",
+			"que": "vous ayez séché",
+			"qu'il/elle": "ait séché",
+			"qu'ils/elles": "aient séché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "sécherais",
+			"tu": "sécherais",
+			"il/elle": "sécherait",
+			"nous": "sécherions",
+			"vous": "sécheriez",
+			"ils/elles": "sécheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais séché",
+			"tu": "aurais séché",
+			"il/elle": "aurait séché",
+			"nous": "aurions séché",
+			"vous": "auriez séché",
+			"ils/elles": "auraient séché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse séché",
+			"tu": "eusses séché",
+			"il/elle": "eût séché",
+			"nous": "eussions séché",
+			"vous": "eussiez séché",
+			"ils/elles": "eussent séché"
+		}
+	},
+	"participe": {
+		"présent": { "séchant": "" },
+		"passé composé": { "ayant": "séché" },
+		"passé": {
+			"masc.sg.:": "séché",
+			"masc.pl.:": "séchés",
+			"fém.sg.:": "séchée",
+			"fém.pl.:": "séchées"
+		}
+	},
+	"imperatif": {
+		"présent": { "sèche": "", "séchons": "", "séchez": "" },
+		"passé": { "aie": "séché", "ayons": "séché", "ayez": "séché" }
+	},
+	"infinitif": { "présent": { "sécher": "" }, "passé": { "avoir": "séché" } }
+}

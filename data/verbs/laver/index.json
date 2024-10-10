@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "wash; clean; clear; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se laver/ne pas laver/ne pas se laver",
+	"indicatif": {
+		"présent": {
+			"je": "lave",
+			"tu": "laves",
+			"il/elle": "lave",
+			"nous": "lavons",
+			"vous": "lavez",
+			"ils/elles": "lavent"
+		},
+		"imparfait": {
+			"je": "lavais",
+			"tu": "lavais",
+			"il/elle": "lavait",
+			"nous": "lavions",
+			"vous": "laviez",
+			"ils/elles": "lavaient"
+		},
+		"futur": {
+			"je": "laverai",
+			"tu": "laveras",
+			"il/elle": "lavera",
+			"nous": "laverons",
+			"vous": "laverez",
+			"ils/elles": "laveront"
+		},
+		"passé simple": {
+			"je": "lavai",
+			"tu": "lavas",
+			"il/elle": "lava",
+			"nous": "lavâmes",
+			"vous": "lavâtes",
+			"ils/elles": "lavèrent"
+		},
+		"passé composé": {
+			"j'": "ai lavé",
+			"tu": "as lavé",
+			"il/elle": "a lavé",
+			"nous": "avons lavé",
+			"vous": "avez lavé",
+			"ils/elles": "ont lavé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais lavé",
+			"tu": "avais lavé",
+			"il/elle": "avait lavé",
+			"nous": "avions lavé",
+			"vous": "aviez lavé",
+			"ils/elles": "avaient lavé"
+		},
+		"passé antérieur": {
+			"j'": "eus lavé",
+			"tu": "eus lavé",
+			"il/elle": "eut lavé",
+			"nous": "eûmes lavé",
+			"vous": "eûtes lavé",
+			"ils/elles": "eurent lavé"
+		},
+		"futur antérieur": {
+			"j'": "aurai lavé",
+			"tu": "auras lavé",
+			"il/elle": "aura lavé",
+			"nous": "aurons lavé",
+			"vous": "aurez lavé",
+			"ils/elles": "auront lavé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous laviez",
+			"qu'il/elle": "lave",
+			"qu'ils/elles": "lavent"
+		},
+		"imparfait": {
+			"que": "vous lavassiez",
+			"qu'il/elle": "lavât",
+			"qu'ils/elles": "lavassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse lavé",
+			"que": "vous eussiez lavé",
+			"qu'il/elle": "eût lavé",
+			"qu'ils/elles": "eussent lavé"
+		},
+		"passé": {
+			"j'": "aie lavé",
+			"que": "vous ayez lavé",
+			"qu'il/elle": "ait lavé",
+			"qu'ils/elles": "aient lavé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "laverais",
+			"tu": "laverais",
+			"il/elle": "laverait",
+			"nous": "laverions",
+			"vous": "laveriez",
+			"ils/elles": "laveraient"
+		},
+		"passé première forme": {
+			"j'": "aurais lavé",
+			"tu": "aurais lavé",
+			"il/elle": "aurait lavé",
+			"nous": "aurions lavé",
+			"vous": "auriez lavé",
+			"ils/elles": "auraient lavé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse lavé",
+			"tu": "eusses lavé",
+			"il/elle": "eût lavé",
+			"nous": "eussions lavé",
+			"vous": "eussiez lavé",
+			"ils/elles": "eussent lavé"
+		}
+	},
+	"participe": {
+		"présent": { "lavant": "" },
+		"passé composé": { "ayant": "lavé" },
+		"passé": {
+			"masc.sg.:": "lavé",
+			"masc.pl.:": "lavés",
+			"fém.sg.:": "lavée",
+			"fém.pl.:": "lavées"
+		}
+	},
+	"imperatif": {
+		"présent": { "lave": "", "lavons": "", "lavez": "" },
+		"passé": { "aie": "lavé", "ayons": "lavé", "ayez": "lavé" }
+	},
+	"infinitif": { "présent": { "laver": "" }, "passé": { "avoir": "lavé" } }
+}

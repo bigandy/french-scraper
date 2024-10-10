@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "live; stay; inhabit; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas habiter",
+	"indicatif": {
+		"présent": {
+			"j'": "habite",
+			"tu": "habites",
+			"il/elle": "habite",
+			"nous": "habitons",
+			"vous": "habitez",
+			"ils/elles": "habitent"
+		},
+		"imparfait": {
+			"j'": "habitais",
+			"tu": "habitais",
+			"il/elle": "habitait",
+			"nous": "habitions",
+			"vous": "habitiez",
+			"ils/elles": "habitaient"
+		},
+		"futur": {
+			"j'": "habiterai",
+			"tu": "habiteras",
+			"il/elle": "habitera",
+			"nous": "habiterons",
+			"vous": "habiterez",
+			"ils/elles": "habiteront"
+		},
+		"passé simple": {
+			"j'": "habitai",
+			"tu": "habitas",
+			"il/elle": "habita",
+			"nous": "habitâmes",
+			"vous": "habitâtes",
+			"ils/elles": "habitèrent"
+		},
+		"passé composé": {
+			"j'": "ai habité",
+			"tu": "as habité",
+			"il/elle": "a habité",
+			"nous": "avons habité",
+			"vous": "avez habité",
+			"ils/elles": "ont habité"
+		},
+		"plus-que-parfait": {
+			"j'": "avais habité",
+			"tu": "avais habité",
+			"il/elle": "avait habité",
+			"nous": "avions habité",
+			"vous": "aviez habité",
+			"ils/elles": "avaient habité"
+		},
+		"passé antérieur": {
+			"j'": "eus habité",
+			"tu": "eus habité",
+			"il/elle": "eut habité",
+			"nous": "eûmes habité",
+			"vous": "eûtes habité",
+			"ils/elles": "eurent habité"
+		},
+		"futur antérieur": {
+			"j'": "aurai habité",
+			"tu": "auras habité",
+			"il/elle": "aura habité",
+			"nous": "aurons habité",
+			"vous": "aurez habité",
+			"ils/elles": "auront habité"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "habite",
+			"que": "vous habitiez",
+			"qu'il/elle": "habite",
+			"qu'ils/elles": "habitent"
+		},
+		"imparfait": {
+			"j'": "habitasse",
+			"que": "vous habitassiez",
+			"qu'il/elle": "habitât",
+			"qu'ils/elles": "habitassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse habité",
+			"que": "vous eussiez habité",
+			"qu'il/elle": "eût habité",
+			"qu'ils/elles": "eussent habité"
+		},
+		"passé": {
+			"j'": "aie habité",
+			"que": "vous ayez habité",
+			"qu'il/elle": "ait habité",
+			"qu'ils/elles": "aient habité"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "habiterais",
+			"tu": "habiterais",
+			"il/elle": "habiterait",
+			"nous": "habiterions",
+			"vous": "habiteriez",
+			"ils/elles": "habiteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais habité",
+			"tu": "aurais habité",
+			"il/elle": "aurait habité",
+			"nous": "aurions habité",
+			"vous": "auriez habité",
+			"ils/elles": "auraient habité"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse habité",
+			"tu": "eusses habité",
+			"il/elle": "eût habité",
+			"nous": "eussions habité",
+			"vous": "eussiez habité",
+			"ils/elles": "eussent habité"
+		}
+	},
+	"participe": {
+		"présent": { "habitant": "" },
+		"passé composé": { "ayant": "habité" },
+		"passé": {
+			"masc.sg.:": "habité",
+			"masc.pl.:": "habités",
+			"fém.sg.:": "habitée",
+			"fém.pl.:": "habitées"
+		}
+	},
+	"imperatif": {
+		"présent": { "habite": "", "habitons": "", "habitez": "" },
+		"passé": { "aie": "habité", "ayons": "habité", "ayez": "habité" }
+	},
+	"infinitif": { "présent": { "habiter": "" }, "passé": { "avoir": "habité" } }
+}

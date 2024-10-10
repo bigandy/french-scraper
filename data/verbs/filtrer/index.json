@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "filter; filter out; screen; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se filtrer/ne pas filtrer/ne pas se filtrer",
+	"indicatif": {
+		"présent": {
+			"je": "filtre",
+			"tu": "filtres",
+			"il/elle": "filtre",
+			"nous": "filtrons",
+			"vous": "filtrez",
+			"ils/elles": "filtrent"
+		},
+		"imparfait": {
+			"je": "filtrais",
+			"tu": "filtrais",
+			"il/elle": "filtrait",
+			"nous": "filtrions",
+			"vous": "filtriez",
+			"ils/elles": "filtraient"
+		},
+		"futur": {
+			"je": "filtrerai",
+			"tu": "filtreras",
+			"il/elle": "filtrera",
+			"nous": "filtrerons",
+			"vous": "filtrerez",
+			"ils/elles": "filtreront"
+		},
+		"passé simple": {
+			"je": "filtrai",
+			"tu": "filtras",
+			"il/elle": "filtra",
+			"nous": "filtrâmes",
+			"vous": "filtrâtes",
+			"ils/elles": "filtrèrent"
+		},
+		"passé composé": {
+			"j'": "ai filtré",
+			"tu": "as filtré",
+			"il/elle": "a filtré",
+			"nous": "avons filtré",
+			"vous": "avez filtré",
+			"ils/elles": "ont filtré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais filtré",
+			"tu": "avais filtré",
+			"il/elle": "avait filtré",
+			"nous": "avions filtré",
+			"vous": "aviez filtré",
+			"ils/elles": "avaient filtré"
+		},
+		"passé antérieur": {
+			"j'": "eus filtré",
+			"tu": "eus filtré",
+			"il/elle": "eut filtré",
+			"nous": "eûmes filtré",
+			"vous": "eûtes filtré",
+			"ils/elles": "eurent filtré"
+		},
+		"futur antérieur": {
+			"j'": "aurai filtré",
+			"tu": "auras filtré",
+			"il/elle": "aura filtré",
+			"nous": "aurons filtré",
+			"vous": "aurez filtré",
+			"ils/elles": "auront filtré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous filtriez",
+			"qu'il/elle": "filtre",
+			"qu'ils/elles": "filtrent"
+		},
+		"imparfait": {
+			"que": "vous filtrassiez",
+			"qu'il/elle": "filtrât",
+			"qu'ils/elles": "filtrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse filtré",
+			"que": "vous eussiez filtré",
+			"qu'il/elle": "eût filtré",
+			"qu'ils/elles": "eussent filtré"
+		},
+		"passé": {
+			"j'": "aie filtré",
+			"que": "vous ayez filtré",
+			"qu'il/elle": "ait filtré",
+			"qu'ils/elles": "aient filtré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "filtrerais",
+			"tu": "filtrerais",
+			"il/elle": "filtrerait",
+			"nous": "filtrerions",
+			"vous": "filtreriez",
+			"ils/elles": "filtreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais filtré",
+			"tu": "aurais filtré",
+			"il/elle": "aurait filtré",
+			"nous": "aurions filtré",
+			"vous": "auriez filtré",
+			"ils/elles": "auraient filtré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse filtré",
+			"tu": "eusses filtré",
+			"il/elle": "eût filtré",
+			"nous": "eussions filtré",
+			"vous": "eussiez filtré",
+			"ils/elles": "eussent filtré"
+		}
+	},
+	"participe": {
+		"présent": { "filtrant": "" },
+		"passé composé": { "ayant": "filtré" },
+		"passé": {
+			"masc.sg.:": "filtré",
+			"masc.pl.:": "filtrés",
+			"fém.sg.:": "filtrée",
+			"fém.pl.:": "filtrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "filtre": "", "filtrons": "", "filtrez": "" },
+		"passé": { "aie": "filtré", "ayons": "filtré", "ayez": "filtré" }
+	},
+	"infinitif": { "présent": { "filtrer": "" }, "passé": { "avoir": "filtré" } }
+}

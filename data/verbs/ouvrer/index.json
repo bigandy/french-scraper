@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "craft; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'ouvrer/ne pas ouvrer/ne pas s'ouvrer",
+	"indicatif": {
+		"présent": {
+			"j'": "ouvre",
+			"tu": "ouvres",
+			"il/elle": "ouvre",
+			"nous": "ouvrons",
+			"vous": "ouvrez",
+			"ils/elles": "ouvrent"
+		},
+		"imparfait": {
+			"j'": "ouvrais",
+			"tu": "ouvrais",
+			"il/elle": "ouvrait",
+			"nous": "ouvrions",
+			"vous": "ouvriez",
+			"ils/elles": "ouvraient"
+		},
+		"futur": {
+			"j'": "ouvrerai",
+			"tu": "ouvreras",
+			"il/elle": "ouvrera",
+			"nous": "ouvrerons",
+			"vous": "ouvrerez",
+			"ils/elles": "ouvreront"
+		},
+		"passé simple": {
+			"j'": "ouvrai",
+			"tu": "ouvras",
+			"il/elle": "ouvra",
+			"nous": "ouvrâmes",
+			"vous": "ouvrâtes",
+			"ils/elles": "ouvrèrent"
+		},
+		"passé composé": {
+			"j'": "ai ouvré",
+			"tu": "as ouvré",
+			"il/elle": "a ouvré",
+			"nous": "avons ouvré",
+			"vous": "avez ouvré",
+			"ils/elles": "ont ouvré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais ouvré",
+			"tu": "avais ouvré",
+			"il/elle": "avait ouvré",
+			"nous": "avions ouvré",
+			"vous": "aviez ouvré",
+			"ils/elles": "avaient ouvré"
+		},
+		"passé antérieur": {
+			"j'": "eus ouvré",
+			"tu": "eus ouvré",
+			"il/elle": "eut ouvré",
+			"nous": "eûmes ouvré",
+			"vous": "eûtes ouvré",
+			"ils/elles": "eurent ouvré"
+		},
+		"futur antérieur": {
+			"j'": "aurai ouvré",
+			"tu": "auras ouvré",
+			"il/elle": "aura ouvré",
+			"nous": "aurons ouvré",
+			"vous": "aurez ouvré",
+			"ils/elles": "auront ouvré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "ouvre",
+			"que": "vous ouvriez",
+			"qu'il/elle": "ouvre",
+			"qu'ils/elles": "ouvrent"
+		},
+		"imparfait": {
+			"j'": "ouvrasse",
+			"que": "vous ouvrassiez",
+			"qu'il/elle": "ouvrât",
+			"qu'ils/elles": "ouvrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse ouvré",
+			"que": "vous eussiez ouvré",
+			"qu'il/elle": "eût ouvré",
+			"qu'ils/elles": "eussent ouvré"
+		},
+		"passé": {
+			"j'": "aie ouvré",
+			"que": "vous ayez ouvré",
+			"qu'il/elle": "ait ouvré",
+			"qu'ils/elles": "aient ouvré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "ouvrerais",
+			"tu": "ouvrerais",
+			"il/elle": "ouvrerait",
+			"nous": "ouvrerions",
+			"vous": "ouvreriez",
+			"ils/elles": "ouvreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais ouvré",
+			"tu": "aurais ouvré",
+			"il/elle": "aurait ouvré",
+			"nous": "aurions ouvré",
+			"vous": "auriez ouvré",
+			"ils/elles": "auraient ouvré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse ouvré",
+			"tu": "eusses ouvré",
+			"il/elle": "eût ouvré",
+			"nous": "eussions ouvré",
+			"vous": "eussiez ouvré",
+			"ils/elles": "eussent ouvré"
+		}
+	},
+	"participe": {
+		"présent": { "ouvrant": "" },
+		"passé composé": { "ayant": "ouvré" },
+		"passé": {
+			"masc.sg.:": "ouvré",
+			"masc.pl.:": "ouvrés",
+			"fém.sg.:": "ouvrée",
+			"fém.pl.:": "ouvrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "ouvre": "", "ouvrons": "", "ouvrez": "" },
+		"passé": { "aie": "ouvré", "ayons": "ouvré", "ayez": "ouvré" }
+	},
+	"infinitif": { "présent": { "ouvrer": "" }, "passé": { "avoir": "ouvré" } }
+}

@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "pick up; collect; gather; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se ramasser/ne pas ramasser/ne pas se ramasser",
+	"indicatif": {
+		"présent": {
+			"je": "ramasse",
+			"tu": "ramasses",
+			"il/elle": "ramasse",
+			"nous": "ramassons",
+			"vous": "ramassez",
+			"ils/elles": "ramassent"
+		},
+		"imparfait": {
+			"je": "ramassais",
+			"tu": "ramassais",
+			"il/elle": "ramassait",
+			"nous": "ramassions",
+			"vous": "ramassiez",
+			"ils/elles": "ramassaient"
+		},
+		"futur": {
+			"je": "ramasserai",
+			"tu": "ramasseras",
+			"il/elle": "ramassera",
+			"nous": "ramasserons",
+			"vous": "ramasserez",
+			"ils/elles": "ramasseront"
+		},
+		"passé simple": {
+			"je": "ramassai",
+			"tu": "ramassas",
+			"il/elle": "ramassa",
+			"nous": "ramassâmes",
+			"vous": "ramassâtes",
+			"ils/elles": "ramassèrent"
+		},
+		"passé composé": {
+			"j'": "ai ramassé",
+			"tu": "as ramassé",
+			"il/elle": "a ramassé",
+			"nous": "avons ramassé",
+			"vous": "avez ramassé",
+			"ils/elles": "ont ramassé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais ramassé",
+			"tu": "avais ramassé",
+			"il/elle": "avait ramassé",
+			"nous": "avions ramassé",
+			"vous": "aviez ramassé",
+			"ils/elles": "avaient ramassé"
+		},
+		"passé antérieur": {
+			"j'": "eus ramassé",
+			"tu": "eus ramassé",
+			"il/elle": "eut ramassé",
+			"nous": "eûmes ramassé",
+			"vous": "eûtes ramassé",
+			"ils/elles": "eurent ramassé"
+		},
+		"futur antérieur": {
+			"j'": "aurai ramassé",
+			"tu": "auras ramassé",
+			"il/elle": "aura ramassé",
+			"nous": "aurons ramassé",
+			"vous": "aurez ramassé",
+			"ils/elles": "auront ramassé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous ramassiez",
+			"qu'il/elle": "ramasse",
+			"qu'ils/elles": "ramassent"
+		},
+		"imparfait": {
+			"que": "vous ramassassiez",
+			"qu'il/elle": "ramassât",
+			"qu'ils/elles": "ramassassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse ramassé",
+			"que": "vous eussiez ramassé",
+			"qu'il/elle": "eût ramassé",
+			"qu'ils/elles": "eussent ramassé"
+		},
+		"passé": {
+			"j'": "aie ramassé",
+			"que": "vous ayez ramassé",
+			"qu'il/elle": "ait ramassé",
+			"qu'ils/elles": "aient ramassé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "ramasserais",
+			"tu": "ramasserais",
+			"il/elle": "ramasserait",
+			"nous": "ramasserions",
+			"vous": "ramasseriez",
+			"ils/elles": "ramasseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais ramassé",
+			"tu": "aurais ramassé",
+			"il/elle": "aurait ramassé",
+			"nous": "aurions ramassé",
+			"vous": "auriez ramassé",
+			"ils/elles": "auraient ramassé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse ramassé",
+			"tu": "eusses ramassé",
+			"il/elle": "eût ramassé",
+			"nous": "eussions ramassé",
+			"vous": "eussiez ramassé",
+			"ils/elles": "eussent ramassé"
+		}
+	},
+	"participe": {
+		"présent": { "ramassant": "" },
+		"passé composé": { "ayant": "ramassé" },
+		"passé": {
+			"masc.sg.:": "ramassé",
+			"masc.pl.:": "ramassés",
+			"fém.sg.:": "ramassée",
+			"fém.pl.:": "ramassées"
+		}
+	},
+	"imperatif": {
+		"présent": { "ramasse": "", "ramassons": "", "ramassez": "" },
+		"passé": { "aie": "ramassé", "ayons": "ramassé", "ayez": "ramassé" }
+	},
+	"infinitif": {
+		"présent": { "ramasser": "" },
+		"passé": { "avoir": "ramassé" }
+	}
+}

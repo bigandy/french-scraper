@@ -1,0 +1,141 @@
+{
+	"name": "tenir",
+	"definition": "prevent; warn; ...",
+	"model": "tenir",
+	"auxiliary": "avoir",
+	"otherForms": "se prévenir/ne pas prévenir/ne pas se prévenir",
+	"indicatif": {
+		"présent": {
+			"je": "préviens",
+			"tu": "préviens",
+			"il/elle": "prévient",
+			"nous": "prévenons",
+			"vous": "prévenez",
+			"ils/elles": "préviennent"
+		},
+		"imparfait": {
+			"je": "prévenais",
+			"tu": "prévenais",
+			"il/elle": "prévenait",
+			"nous": "prévenions",
+			"vous": "préveniez",
+			"ils/elles": "prévenaient"
+		},
+		"futur": {
+			"je": "préviendrai",
+			"tu": "préviendras",
+			"il/elle": "préviendra",
+			"nous": "préviendrons",
+			"vous": "préviendrez",
+			"ils/elles": "préviendront"
+		},
+		"passé simple": {
+			"je": "prévins",
+			"tu": "prévins",
+			"il/elle": "prévint",
+			"nous": "prévînmes",
+			"vous": "prévîntes",
+			"ils/elles": "prévinrent"
+		},
+		"passé composé": {
+			"j'": "ai prévenu",
+			"tu": "as prévenu",
+			"il/elle": "a prévenu",
+			"nous": "avons prévenu",
+			"vous": "avez prévenu",
+			"ils/elles": "ont prévenu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais prévenu",
+			"tu": "avais prévenu",
+			"il/elle": "avait prévenu",
+			"nous": "avions prévenu",
+			"vous": "aviez prévenu",
+			"ils/elles": "avaient prévenu"
+		},
+		"passé antérieur": {
+			"j'": "eus prévenu",
+			"tu": "eus prévenu",
+			"il/elle": "eut prévenu",
+			"nous": "eûmes prévenu",
+			"vous": "eûtes prévenu",
+			"ils/elles": "eurent prévenu"
+		},
+		"futur antérieur": {
+			"j'": "aurai prévenu",
+			"tu": "auras prévenu",
+			"il/elle": "aura prévenu",
+			"nous": "aurons prévenu",
+			"vous": "aurez prévenu",
+			"ils/elles": "auront prévenu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous préveniez",
+			"qu'il/elle": "prévienne",
+			"qu'ils/elles": "préviennent"
+		},
+		"imparfait": {
+			"que": "vous prévinssiez",
+			"qu'il/elle": "prévînt",
+			"qu'ils/elles": "prévinssent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse prévenu",
+			"que": "vous eussiez prévenu",
+			"qu'il/elle": "eût prévenu",
+			"qu'ils/elles": "eussent prévenu"
+		},
+		"passé": {
+			"j'": "aie prévenu",
+			"que": "vous ayez prévenu",
+			"qu'il/elle": "ait prévenu",
+			"qu'ils/elles": "aient prévenu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "préviendrais",
+			"tu": "préviendrais",
+			"il/elle": "préviendrait",
+			"nous": "préviendrions",
+			"vous": "préviendriez",
+			"ils/elles": "préviendraient"
+		},
+		"passé première forme": {
+			"j'": "aurais prévenu",
+			"tu": "aurais prévenu",
+			"il/elle": "aurait prévenu",
+			"nous": "aurions prévenu",
+			"vous": "auriez prévenu",
+			"ils/elles": "auraient prévenu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse prévenu",
+			"tu": "eusses prévenu",
+			"il/elle": "eût prévenu",
+			"nous": "eussions prévenu",
+			"vous": "eussiez prévenu",
+			"ils/elles": "eussent prévenu"
+		}
+	},
+	"participe": {
+		"présent": { "prévenant": "" },
+		"passé composé": { "ayant": "prévenu" },
+		"passé": {
+			"masc.sg.:": "prévenu",
+			"masc.pl.:": "prévenus",
+			"fém.sg.:": "prévenue",
+			"fém.pl.:": "prévenues"
+		}
+	},
+	"imperatif": {
+		"présent": { "préviens": "", "prévenons": "", "prévenez": "" },
+		"passé": { "aie": "prévenu", "ayons": "prévenu", "ayez": "prévenu" }
+	},
+	"infinitif": {
+		"présent": { "prévenir": "" },
+		"passé": { "avoir": "prévenu" }
+	}
+}

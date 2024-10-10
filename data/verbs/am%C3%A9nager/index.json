@@ -1,0 +1,143 @@
+{
+	"name": "manger",
+	"definition": "develop; build; create; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "s'aménager/ne pas aménager/ne pas s'aménager",
+	"indicatif": {
+		"présent": {
+			"j'": "aménage",
+			"tu": "aménages",
+			"il/elle": "aménage",
+			"nous": "aménageons",
+			"vous": "aménagez",
+			"ils/elles": "aménagent"
+		},
+		"imparfait": {
+			"j'": "aménageais",
+			"tu": "aménageais",
+			"il/elle": "aménageait",
+			"nous": "aménagions",
+			"vous": "aménagiez",
+			"ils/elles": "aménageaient"
+		},
+		"futur": {
+			"j'": "aménagerai",
+			"tu": "aménageras",
+			"il/elle": "aménagera",
+			"nous": "aménagerons",
+			"vous": "aménagerez",
+			"ils/elles": "aménageront"
+		},
+		"passé simple": {
+			"j'": "aménageai",
+			"tu": "aménageas",
+			"il/elle": "aménagea",
+			"nous": "aménageâmes",
+			"vous": "aménageâtes",
+			"ils/elles": "aménagèrent"
+		},
+		"passé composé": {
+			"j'": "ai aménagé",
+			"tu": "as aménagé",
+			"il/elle": "a aménagé",
+			"nous": "avons aménagé",
+			"vous": "avez aménagé",
+			"ils/elles": "ont aménagé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais aménagé",
+			"tu": "avais aménagé",
+			"il/elle": "avait aménagé",
+			"nous": "avions aménagé",
+			"vous": "aviez aménagé",
+			"ils/elles": "avaient aménagé"
+		},
+		"passé antérieur": {
+			"j'": "eus aménagé",
+			"tu": "eus aménagé",
+			"il/elle": "eut aménagé",
+			"nous": "eûmes aménagé",
+			"vous": "eûtes aménagé",
+			"ils/elles": "eurent aménagé"
+		},
+		"futur antérieur": {
+			"j'": "aurai aménagé",
+			"tu": "auras aménagé",
+			"il/elle": "aura aménagé",
+			"nous": "aurons aménagé",
+			"vous": "aurez aménagé",
+			"ils/elles": "auront aménagé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "aménage",
+			"que": "vous aménagiez",
+			"qu'il/elle": "aménage",
+			"qu'ils/elles": "aménagent"
+		},
+		"imparfait": {
+			"j'": "aménageasse",
+			"que": "vous aménageassiez",
+			"qu'il/elle": "aménageât",
+			"qu'ils/elles": "aménageassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse aménagé",
+			"que": "vous eussiez aménagé",
+			"qu'il/elle": "eût aménagé",
+			"qu'ils/elles": "eussent aménagé"
+		},
+		"passé": {
+			"j'": "aie aménagé",
+			"que": "vous ayez aménagé",
+			"qu'il/elle": "ait aménagé",
+			"qu'ils/elles": "aient aménagé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "aménagerais",
+			"tu": "aménagerais",
+			"il/elle": "aménagerait",
+			"nous": "aménagerions",
+			"vous": "aménageriez",
+			"ils/elles": "aménageraient"
+		},
+		"passé première forme": {
+			"j'": "aurais aménagé",
+			"tu": "aurais aménagé",
+			"il/elle": "aurait aménagé",
+			"nous": "aurions aménagé",
+			"vous": "auriez aménagé",
+			"ils/elles": "auraient aménagé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse aménagé",
+			"tu": "eusses aménagé",
+			"il/elle": "eût aménagé",
+			"nous": "eussions aménagé",
+			"vous": "eussiez aménagé",
+			"ils/elles": "eussent aménagé"
+		}
+	},
+	"participe": {
+		"présent": { "aménageant": "" },
+		"passé composé": { "ayant": "aménagé" },
+		"passé": {
+			"masc.sg.:": "aménagé",
+			"masc.pl.:": "aménagés",
+			"fém.sg.:": "aménagée",
+			"fém.pl.:": "aménagées"
+		}
+	},
+	"imperatif": {
+		"présent": { "aménage": "", "aménageons": "", "aménagez": "" },
+		"passé": { "aie": "aménagé", "ayons": "aménagé", "ayez": "aménagé" }
+	},
+	"infinitif": {
+		"présent": { "aménager": "" },
+		"passé": { "avoir": "aménagé" }
+	}
+}

@@ -1,0 +1,141 @@
+{
+	"name": "craindre",
+	"definition": "join; reach; meet; ...",
+	"model": "craindre",
+	"auxiliary": "avoir",
+	"otherForms": "se rejoindre/ne pas rejoindre/ne pas se rejoindre",
+	"indicatif": {
+		"présent": {
+			"je": "rejoins",
+			"tu": "rejoins",
+			"il/elle": "rejoint",
+			"nous": "rejoignons",
+			"vous": "rejoignez",
+			"ils/elles": "rejoignent"
+		},
+		"imparfait": {
+			"je": "rejoignais",
+			"tu": "rejoignais",
+			"il/elle": "rejoignait",
+			"nous": "rejoignions",
+			"vous": "rejoigniez",
+			"ils/elles": "rejoignaient"
+		},
+		"futur": {
+			"je": "rejoindrai",
+			"tu": "rejoindras",
+			"il/elle": "rejoindra",
+			"nous": "rejoindrons",
+			"vous": "rejoindrez",
+			"ils/elles": "rejoindront"
+		},
+		"passé simple": {
+			"je": "rejoignis",
+			"tu": "rejoignis",
+			"il/elle": "rejoignit",
+			"nous": "rejoignîmes",
+			"vous": "rejoignîtes",
+			"ils/elles": "rejoignirent"
+		},
+		"passé composé": {
+			"j'": "ai rejoint",
+			"tu": "as rejoint",
+			"il/elle": "a rejoint",
+			"nous": "avons rejoint",
+			"vous": "avez rejoint",
+			"ils/elles": "ont rejoint"
+		},
+		"plus-que-parfait": {
+			"j'": "avais rejoint",
+			"tu": "avais rejoint",
+			"il/elle": "avait rejoint",
+			"nous": "avions rejoint",
+			"vous": "aviez rejoint",
+			"ils/elles": "avaient rejoint"
+		},
+		"passé antérieur": {
+			"j'": "eus rejoint",
+			"tu": "eus rejoint",
+			"il/elle": "eut rejoint",
+			"nous": "eûmes rejoint",
+			"vous": "eûtes rejoint",
+			"ils/elles": "eurent rejoint"
+		},
+		"futur antérieur": {
+			"j'": "aurai rejoint",
+			"tu": "auras rejoint",
+			"il/elle": "aura rejoint",
+			"nous": "aurons rejoint",
+			"vous": "aurez rejoint",
+			"ils/elles": "auront rejoint"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous rejoigniez",
+			"qu'il/elle": "rejoigne",
+			"qu'ils/elles": "rejoignent"
+		},
+		"imparfait": {
+			"que": "vous rejoignissiez",
+			"qu'il/elle": "rejoignît",
+			"qu'ils/elles": "rejoignissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse rejoint",
+			"que": "vous eussiez rejoint",
+			"qu'il/elle": "eût rejoint",
+			"qu'ils/elles": "eussent rejoint"
+		},
+		"passé": {
+			"j'": "aie rejoint",
+			"que": "vous ayez rejoint",
+			"qu'il/elle": "ait rejoint",
+			"qu'ils/elles": "aient rejoint"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "rejoindrais",
+			"tu": "rejoindrais",
+			"il/elle": "rejoindrait",
+			"nous": "rejoindrions",
+			"vous": "rejoindriez",
+			"ils/elles": "rejoindraient"
+		},
+		"passé première forme": {
+			"j'": "aurais rejoint",
+			"tu": "aurais rejoint",
+			"il/elle": "aurait rejoint",
+			"nous": "aurions rejoint",
+			"vous": "auriez rejoint",
+			"ils/elles": "auraient rejoint"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse rejoint",
+			"tu": "eusses rejoint",
+			"il/elle": "eût rejoint",
+			"nous": "eussions rejoint",
+			"vous": "eussiez rejoint",
+			"ils/elles": "eussent rejoint"
+		}
+	},
+	"participe": {
+		"présent": { "rejoignant": "" },
+		"passé composé": { "ayant": "rejoint" },
+		"passé": {
+			"masc.sg.:": "rejoint",
+			"masc.pl.:": "rejoints",
+			"fém.sg.:": "rejointe",
+			"fém.pl.:": "rejointes"
+		}
+	},
+	"imperatif": {
+		"présent": { "rejoins": "", "rejoignons": "", "rejoignez": "" },
+		"passé": { "aie": "rejoint", "ayons": "rejoint", "ayez": "rejoint" }
+	},
+	"infinitif": {
+		"présent": { "rejoindre": "" },
+		"passé": { "avoir": "rejoint" }
+	}
+}

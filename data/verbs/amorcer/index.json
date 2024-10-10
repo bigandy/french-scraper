@@ -1,0 +1,140 @@
+{
+	"name": "commencer",
+	"definition": "initiate; begin; start; ...",
+	"model": "commencer",
+	"auxiliary": "avoir",
+	"otherForms": "s'amorcer/ne pas amorcer/ne pas s'amorcer",
+	"indicatif": {
+		"présent": {
+			"j'": "amorce",
+			"tu": "amorces",
+			"il/elle": "amorce",
+			"nous": "amorçons",
+			"vous": "amorcez",
+			"ils/elles": "amorcent"
+		},
+		"imparfait": {
+			"j'": "amorçais",
+			"tu": "amorçais",
+			"il/elle": "amorçait",
+			"nous": "amorcions",
+			"vous": "amorciez",
+			"ils/elles": "amorçaient"
+		},
+		"futur": {
+			"j'": "amorcerai",
+			"tu": "amorceras",
+			"il/elle": "amorcera",
+			"nous": "amorcerons",
+			"vous": "amorcerez",
+			"ils/elles": "amorceront"
+		},
+		"passé simple": {
+			"j'": "amorçai",
+			"tu": "amorças",
+			"il/elle": "amorça",
+			"nous": "amorçâmes",
+			"vous": "amorçâtes",
+			"ils/elles": "amorcèrent"
+		},
+		"passé composé": {
+			"j'": "ai amorcé",
+			"tu": "as amorcé",
+			"il/elle": "a amorcé",
+			"nous": "avons amorcé",
+			"vous": "avez amorcé",
+			"ils/elles": "ont amorcé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais amorcé",
+			"tu": "avais amorcé",
+			"il/elle": "avait amorcé",
+			"nous": "avions amorcé",
+			"vous": "aviez amorcé",
+			"ils/elles": "avaient amorcé"
+		},
+		"passé antérieur": {
+			"j'": "eus amorcé",
+			"tu": "eus amorcé",
+			"il/elle": "eut amorcé",
+			"nous": "eûmes amorcé",
+			"vous": "eûtes amorcé",
+			"ils/elles": "eurent amorcé"
+		},
+		"futur antérieur": {
+			"j'": "aurai amorcé",
+			"tu": "auras amorcé",
+			"il/elle": "aura amorcé",
+			"nous": "aurons amorcé",
+			"vous": "aurez amorcé",
+			"ils/elles": "auront amorcé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "amorce",
+			"que": "vous amorciez",
+			"qu'il/elle": "amorce",
+			"qu'ils/elles": "amorcent"
+		},
+		"imparfait": {
+			"j'": "amorçasse",
+			"que": "vous amorçassiez",
+			"qu'il/elle": "amorçât",
+			"qu'ils/elles": "amorçassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse amorcé",
+			"que": "vous eussiez amorcé",
+			"qu'il/elle": "eût amorcé",
+			"qu'ils/elles": "eussent amorcé"
+		},
+		"passé": {
+			"j'": "aie amorcé",
+			"que": "vous ayez amorcé",
+			"qu'il/elle": "ait amorcé",
+			"qu'ils/elles": "aient amorcé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "amorcerais",
+			"tu": "amorcerais",
+			"il/elle": "amorcerait",
+			"nous": "amorcerions",
+			"vous": "amorceriez",
+			"ils/elles": "amorceraient"
+		},
+		"passé première forme": {
+			"j'": "aurais amorcé",
+			"tu": "aurais amorcé",
+			"il/elle": "aurait amorcé",
+			"nous": "aurions amorcé",
+			"vous": "auriez amorcé",
+			"ils/elles": "auraient amorcé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse amorcé",
+			"tu": "eusses amorcé",
+			"il/elle": "eût amorcé",
+			"nous": "eussions amorcé",
+			"vous": "eussiez amorcé",
+			"ils/elles": "eussent amorcé"
+		}
+	},
+	"participe": {
+		"présent": { "amorçant": "" },
+		"passé composé": { "ayant": "amorcé" },
+		"passé": {
+			"masc.sg.:": "amorcé",
+			"masc.pl.:": "amorcés",
+			"fém.sg.:": "amorcée",
+			"fém.pl.:": "amorcées"
+		}
+	},
+	"imperatif": {
+		"présent": { "amorce": "", "amorçons": "", "amorcez": "" },
+		"passé": { "aie": "amorcé", "ayons": "amorcé", "ayez": "amorcé" }
+	},
+	"infinitif": { "présent": { "amorcer": "" }, "passé": { "avoir": "amorcé" } }
+}

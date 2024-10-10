@@ -1,0 +1,145 @@
+{
+	"name": "marcher",
+	"definition": "save; safeguard; back up; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se sauvegarder/ne pas sauvegarder/ne pas se sauvegarder",
+	"indicatif": {
+		"présent": {
+			"je": "sauvegarde",
+			"tu": "sauvegardes",
+			"il/elle": "sauvegarde",
+			"nous": "sauvegardons",
+			"vous": "sauvegardez",
+			"ils/elles": "sauvegardent"
+		},
+		"imparfait": {
+			"je": "sauvegardais",
+			"tu": "sauvegardais",
+			"il/elle": "sauvegardait",
+			"nous": "sauvegardions",
+			"vous": "sauvegardiez",
+			"ils/elles": "sauvegardaient"
+		},
+		"futur": {
+			"je": "sauvegarderai",
+			"tu": "sauvegarderas",
+			"il/elle": "sauvegardera",
+			"nous": "sauvegarderons",
+			"vous": "sauvegarderez",
+			"ils/elles": "sauvegarderont"
+		},
+		"passé simple": {
+			"je": "sauvegardai",
+			"tu": "sauvegardas",
+			"il/elle": "sauvegarda",
+			"nous": "sauvegardâmes",
+			"vous": "sauvegardâtes",
+			"ils/elles": "sauvegardèrent"
+		},
+		"passé composé": {
+			"j'": "ai sauvegardé",
+			"tu": "as sauvegardé",
+			"il/elle": "a sauvegardé",
+			"nous": "avons sauvegardé",
+			"vous": "avez sauvegardé",
+			"ils/elles": "ont sauvegardé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais sauvegardé",
+			"tu": "avais sauvegardé",
+			"il/elle": "avait sauvegardé",
+			"nous": "avions sauvegardé",
+			"vous": "aviez sauvegardé",
+			"ils/elles": "avaient sauvegardé"
+		},
+		"passé antérieur": {
+			"j'": "eus sauvegardé",
+			"tu": "eus sauvegardé",
+			"il/elle": "eut sauvegardé",
+			"nous": "eûmes sauvegardé",
+			"vous": "eûtes sauvegardé",
+			"ils/elles": "eurent sauvegardé"
+		},
+		"futur antérieur": {
+			"j'": "aurai sauvegardé",
+			"tu": "auras sauvegardé",
+			"il/elle": "aura sauvegardé",
+			"nous": "aurons sauvegardé",
+			"vous": "aurez sauvegardé",
+			"ils/elles": "auront sauvegardé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous sauvegardiez",
+			"qu'il/elle": "sauvegarde",
+			"qu'ils/elles": "sauvegardent"
+		},
+		"imparfait": {
+			"que": "vous sauvegardassiez",
+			"qu'il/elle": "sauvegardât",
+			"qu'ils/elles": "sauvegardassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse sauvegardé",
+			"que": "vous eussiez sauvegardé",
+			"qu'il/elle": "eût sauvegardé",
+			"qu'ils/elles": "eussent sauvegardé"
+		},
+		"passé": {
+			"j'": "aie sauvegardé",
+			"que": "vous ayez sauvegardé",
+			"qu'il/elle": "ait sauvegardé",
+			"qu'ils/elles": "aient sauvegardé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "sauvegarderais",
+			"tu": "sauvegarderais",
+			"il/elle": "sauvegarderait",
+			"nous": "sauvegarderions",
+			"vous": "sauvegarderiez",
+			"ils/elles": "sauvegarderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais sauvegardé",
+			"tu": "aurais sauvegardé",
+			"il/elle": "aurait sauvegardé",
+			"nous": "aurions sauvegardé",
+			"vous": "auriez sauvegardé",
+			"ils/elles": "auraient sauvegardé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse sauvegardé",
+			"tu": "eusses sauvegardé",
+			"il/elle": "eût sauvegardé",
+			"nous": "eussions sauvegardé",
+			"vous": "eussiez sauvegardé",
+			"ils/elles": "eussent sauvegardé"
+		}
+	},
+	"participe": {
+		"présent": { "sauvegardant": "" },
+		"passé composé": { "ayant": "sauvegardé" },
+		"passé": {
+			"masc.sg.:": "sauvegardé",
+			"masc.pl.:": "sauvegardés",
+			"fém.sg.:": "sauvegardée",
+			"fém.pl.:": "sauvegardées"
+		}
+	},
+	"imperatif": {
+		"présent": { "sauvegarde": "", "sauvegardons": "", "sauvegardez": "" },
+		"passé": {
+			"aie": "sauvegardé",
+			"ayons": "sauvegardé",
+			"ayez": "sauvegardé"
+		}
+	},
+	"infinitif": {
+		"présent": { "sauvegarder": "" },
+		"passé": { "avoir": "sauvegardé" }
+	}
+}

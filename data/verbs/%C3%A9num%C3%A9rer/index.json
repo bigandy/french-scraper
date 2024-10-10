@@ -1,0 +1,143 @@
+{
+	"name": "aérer",
+	"definition": "list; enumerate; go through; ...",
+	"model": "aérer",
+	"auxiliary": "avoir",
+	"otherForms": "s'énumérer/ne pas énumérer/ne pas s'énumérer",
+	"indicatif": {
+		"présent": {
+			"j'": "énumère",
+			"tu": "énumères",
+			"il/elle": "énumère",
+			"nous": "énumérons",
+			"vous": "énumérez",
+			"ils/elles": "énumèrent"
+		},
+		"imparfait": {
+			"j'": "énumérais",
+			"tu": "énumérais",
+			"il/elle": "énumérait",
+			"nous": "énumérions",
+			"vous": "énumériez",
+			"ils/elles": "énuméraient"
+		},
+		"futur": {
+			"j'": "énumérerai",
+			"tu": "énuméreras",
+			"il/elle": "énumérera",
+			"nous": "énumérerons",
+			"vous": "énumérerez",
+			"ils/elles": "énuméreront"
+		},
+		"passé simple": {
+			"j'": "énumérai",
+			"tu": "énuméras",
+			"il/elle": "énuméra",
+			"nous": "énumérâmes",
+			"vous": "énumérâtes",
+			"ils/elles": "énumérèrent"
+		},
+		"passé composé": {
+			"j'": "ai énuméré",
+			"tu": "as énuméré",
+			"il/elle": "a énuméré",
+			"nous": "avons énuméré",
+			"vous": "avez énuméré",
+			"ils/elles": "ont énuméré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais énuméré",
+			"tu": "avais énuméré",
+			"il/elle": "avait énuméré",
+			"nous": "avions énuméré",
+			"vous": "aviez énuméré",
+			"ils/elles": "avaient énuméré"
+		},
+		"passé antérieur": {
+			"j'": "eus énuméré",
+			"tu": "eus énuméré",
+			"il/elle": "eut énuméré",
+			"nous": "eûmes énuméré",
+			"vous": "eûtes énuméré",
+			"ils/elles": "eurent énuméré"
+		},
+		"futur antérieur": {
+			"j'": "aurai énuméré",
+			"tu": "auras énuméré",
+			"il/elle": "aura énuméré",
+			"nous": "aurons énuméré",
+			"vous": "aurez énuméré",
+			"ils/elles": "auront énuméré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "énumère",
+			"que": "vous énumériez",
+			"qu'il/elle": "énumère",
+			"qu'ils/elles": "énumèrent"
+		},
+		"imparfait": {
+			"j'": "énumérasse",
+			"que": "vous énumérassiez",
+			"qu'il/elle": "énumérât",
+			"qu'ils/elles": "énumérassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse énuméré",
+			"que": "vous eussiez énuméré",
+			"qu'il/elle": "eût énuméré",
+			"qu'ils/elles": "eussent énuméré"
+		},
+		"passé": {
+			"j'": "aie énuméré",
+			"que": "vous ayez énuméré",
+			"qu'il/elle": "ait énuméré",
+			"qu'ils/elles": "aient énuméré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "énumérerais",
+			"tu": "énumérerais",
+			"il/elle": "énumérerait",
+			"nous": "énumérerions",
+			"vous": "énuméreriez",
+			"ils/elles": "énuméreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais énuméré",
+			"tu": "aurais énuméré",
+			"il/elle": "aurait énuméré",
+			"nous": "aurions énuméré",
+			"vous": "auriez énuméré",
+			"ils/elles": "auraient énuméré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse énuméré",
+			"tu": "eusses énuméré",
+			"il/elle": "eût énuméré",
+			"nous": "eussions énuméré",
+			"vous": "eussiez énuméré",
+			"ils/elles": "eussent énuméré"
+		}
+	},
+	"participe": {
+		"présent": { "énumérant": "" },
+		"passé composé": { "ayant": "énuméré" },
+		"passé": {
+			"masc.sg.:": "énuméré",
+			"masc.pl.:": "énumérés",
+			"fém.sg.:": "énumérée",
+			"fém.pl.:": "énumérées"
+		}
+	},
+	"imperatif": {
+		"présent": { "énumère": "", "énumérons": "", "énumérez": "" },
+		"passé": { "aie": "énuméré", "ayons": "énuméré", "ayez": "énuméré" }
+	},
+	"infinitif": {
+		"présent": { "énumérer": "" },
+		"passé": { "avoir": "énuméré" }
+	}
+}

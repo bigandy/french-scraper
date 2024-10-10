@@ -1,0 +1,143 @@
+{
+	"name": "attendre",
+	"definition": "wait; wait for; expect; ...",
+	"model": "attendre",
+	"auxiliary": "avoir",
+	"otherForms": "s'attendre/ne pas attendre/ne pas s'attendre",
+	"indicatif": {
+		"présent": {
+			"j'": "attends",
+			"tu": "attends",
+			"il/elle": "attend",
+			"nous": "attendons",
+			"vous": "attendez",
+			"ils/elles": "attendent"
+		},
+		"imparfait": {
+			"j'": "attendais",
+			"tu": "attendais",
+			"il/elle": "attendait",
+			"nous": "attendions",
+			"vous": "attendiez",
+			"ils/elles": "attendaient"
+		},
+		"futur": {
+			"j'": "attendrai",
+			"tu": "attendras",
+			"il/elle": "attendra",
+			"nous": "attendrons",
+			"vous": "attendrez",
+			"ils/elles": "attendront"
+		},
+		"passé simple": {
+			"j'": "attendis",
+			"tu": "attendis",
+			"il/elle": "attendit",
+			"nous": "attendîmes",
+			"vous": "attendîtes",
+			"ils/elles": "attendirent"
+		},
+		"passé composé": {
+			"j'": "ai attendu",
+			"tu": "as attendu",
+			"il/elle": "a attendu",
+			"nous": "avons attendu",
+			"vous": "avez attendu",
+			"ils/elles": "ont attendu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais attendu",
+			"tu": "avais attendu",
+			"il/elle": "avait attendu",
+			"nous": "avions attendu",
+			"vous": "aviez attendu",
+			"ils/elles": "avaient attendu"
+		},
+		"passé antérieur": {
+			"j'": "eus attendu",
+			"tu": "eus attendu",
+			"il/elle": "eut attendu",
+			"nous": "eûmes attendu",
+			"vous": "eûtes attendu",
+			"ils/elles": "eurent attendu"
+		},
+		"futur antérieur": {
+			"j'": "aurai attendu",
+			"tu": "auras attendu",
+			"il/elle": "aura attendu",
+			"nous": "aurons attendu",
+			"vous": "aurez attendu",
+			"ils/elles": "auront attendu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "attende",
+			"que": "vous attendiez",
+			"qu'il/elle": "attende",
+			"qu'ils/elles": "attendent"
+		},
+		"imparfait": {
+			"j'": "attendisse",
+			"que": "vous attendissiez",
+			"qu'il/elle": "attendît",
+			"qu'ils/elles": "attendissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse attendu",
+			"que": "vous eussiez attendu",
+			"qu'il/elle": "eût attendu",
+			"qu'ils/elles": "eussent attendu"
+		},
+		"passé": {
+			"j'": "aie attendu",
+			"que": "vous ayez attendu",
+			"qu'il/elle": "ait attendu",
+			"qu'ils/elles": "aient attendu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "attendrais",
+			"tu": "attendrais",
+			"il/elle": "attendrait",
+			"nous": "attendrions",
+			"vous": "attendriez",
+			"ils/elles": "attendraient"
+		},
+		"passé première forme": {
+			"j'": "aurais attendu",
+			"tu": "aurais attendu",
+			"il/elle": "aurait attendu",
+			"nous": "aurions attendu",
+			"vous": "auriez attendu",
+			"ils/elles": "auraient attendu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse attendu",
+			"tu": "eusses attendu",
+			"il/elle": "eût attendu",
+			"nous": "eussions attendu",
+			"vous": "eussiez attendu",
+			"ils/elles": "eussent attendu"
+		}
+	},
+	"participe": {
+		"présent": { "attendant": "" },
+		"passé composé": { "ayant": "attendu" },
+		"passé": {
+			"masc.sg.:": "attendu",
+			"masc.pl.:": "attendus",
+			"fém.sg.:": "attendue",
+			"fém.pl.:": "attendues"
+		}
+	},
+	"imperatif": {
+		"présent": { "attends": "", "attendons": "", "attendez": "" },
+		"passé": { "aie": "attendu", "ayons": "attendu", "ayez": "attendu" }
+	},
+	"infinitif": {
+		"présent": { "attendre": "" },
+		"passé": { "avoir": "attendu" }
+	}
+}

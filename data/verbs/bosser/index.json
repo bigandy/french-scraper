@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "work; cram; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se bosser/ne pas bosser/ne pas se bosser",
+	"indicatif": {
+		"présent": {
+			"je": "bosse",
+			"tu": "bosses",
+			"il/elle": "bosse",
+			"nous": "bossons",
+			"vous": "bossez",
+			"ils/elles": "bossent"
+		},
+		"imparfait": {
+			"je": "bossais",
+			"tu": "bossais",
+			"il/elle": "bossait",
+			"nous": "bossions",
+			"vous": "bossiez",
+			"ils/elles": "bossaient"
+		},
+		"futur": {
+			"je": "bosserai",
+			"tu": "bosseras",
+			"il/elle": "bossera",
+			"nous": "bosserons",
+			"vous": "bosserez",
+			"ils/elles": "bosseront"
+		},
+		"passé simple": {
+			"je": "bossai",
+			"tu": "bossas",
+			"il/elle": "bossa",
+			"nous": "bossâmes",
+			"vous": "bossâtes",
+			"ils/elles": "bossèrent"
+		},
+		"passé composé": {
+			"j'": "ai bossé",
+			"tu": "as bossé",
+			"il/elle": "a bossé",
+			"nous": "avons bossé",
+			"vous": "avez bossé",
+			"ils/elles": "ont bossé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais bossé",
+			"tu": "avais bossé",
+			"il/elle": "avait bossé",
+			"nous": "avions bossé",
+			"vous": "aviez bossé",
+			"ils/elles": "avaient bossé"
+		},
+		"passé antérieur": {
+			"j'": "eus bossé",
+			"tu": "eus bossé",
+			"il/elle": "eut bossé",
+			"nous": "eûmes bossé",
+			"vous": "eûtes bossé",
+			"ils/elles": "eurent bossé"
+		},
+		"futur antérieur": {
+			"j'": "aurai bossé",
+			"tu": "auras bossé",
+			"il/elle": "aura bossé",
+			"nous": "aurons bossé",
+			"vous": "aurez bossé",
+			"ils/elles": "auront bossé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous bossiez",
+			"qu'il/elle": "bosse",
+			"qu'ils/elles": "bossent"
+		},
+		"imparfait": {
+			"que": "vous bossassiez",
+			"qu'il/elle": "bossât",
+			"qu'ils/elles": "bossassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse bossé",
+			"que": "vous eussiez bossé",
+			"qu'il/elle": "eût bossé",
+			"qu'ils/elles": "eussent bossé"
+		},
+		"passé": {
+			"j'": "aie bossé",
+			"que": "vous ayez bossé",
+			"qu'il/elle": "ait bossé",
+			"qu'ils/elles": "aient bossé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "bosserais",
+			"tu": "bosserais",
+			"il/elle": "bosserait",
+			"nous": "bosserions",
+			"vous": "bosseriez",
+			"ils/elles": "bosseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais bossé",
+			"tu": "aurais bossé",
+			"il/elle": "aurait bossé",
+			"nous": "aurions bossé",
+			"vous": "auriez bossé",
+			"ils/elles": "auraient bossé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse bossé",
+			"tu": "eusses bossé",
+			"il/elle": "eût bossé",
+			"nous": "eussions bossé",
+			"vous": "eussiez bossé",
+			"ils/elles": "eussent bossé"
+		}
+	},
+	"participe": {
+		"présent": { "bossant": "" },
+		"passé composé": { "ayant": "bossé" },
+		"passé": {
+			"masc.sg.:": "bossé",
+			"masc.pl.:": "bossés",
+			"fém.sg.:": "bossée",
+			"fém.pl.:": "bossées"
+		}
+	},
+	"imperatif": {
+		"présent": { "bosse": "", "bossons": "", "bossez": "" },
+		"passé": { "aie": "bossé", "ayons": "bossé", "ayez": "bossé" }
+	},
+	"infinitif": { "présent": { "bosser": "" }, "passé": { "avoir": "bossé" } }
+}

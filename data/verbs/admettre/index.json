@@ -1,0 +1,140 @@
+{
+	"name": "mettre",
+	"definition": "admit; accept; recognize; ...",
+	"model": "mettre",
+	"auxiliary": "avoir",
+	"otherForms": "s'admettre/ne pas admettre/ne pas s'admettre",
+	"indicatif": {
+		"présent": {
+			"j'": "admets",
+			"tu": "admets",
+			"il/elle": "admet",
+			"nous": "admettons",
+			"vous": "admettez",
+			"ils/elles": "admettent"
+		},
+		"imparfait": {
+			"j'": "admettais",
+			"tu": "admettais",
+			"il/elle": "admettait",
+			"nous": "admettions",
+			"vous": "admettiez",
+			"ils/elles": "admettaient"
+		},
+		"futur": {
+			"j'": "admettrai",
+			"tu": "admettras",
+			"il/elle": "admettra",
+			"nous": "admettrons",
+			"vous": "admettrez",
+			"ils/elles": "admettront"
+		},
+		"passé simple": {
+			"j'": "admis",
+			"tu": "admis",
+			"il/elle": "admit",
+			"nous": "admîmes",
+			"vous": "admîtes",
+			"ils/elles": "admirent"
+		},
+		"passé composé": {
+			"j'": "ai admis",
+			"tu": "as admis",
+			"il/elle": "a admis",
+			"nous": "avons admis",
+			"vous": "avez admis",
+			"ils/elles": "ont admis"
+		},
+		"plus-que-parfait": {
+			"j'": "avais admis",
+			"tu": "avais admis",
+			"il/elle": "avait admis",
+			"nous": "avions admis",
+			"vous": "aviez admis",
+			"ils/elles": "avaient admis"
+		},
+		"passé antérieur": {
+			"j'": "eus admis",
+			"tu": "eus admis",
+			"il/elle": "eut admis",
+			"nous": "eûmes admis",
+			"vous": "eûtes admis",
+			"ils/elles": "eurent admis"
+		},
+		"futur antérieur": {
+			"j'": "aurai admis",
+			"tu": "auras admis",
+			"il/elle": "aura admis",
+			"nous": "aurons admis",
+			"vous": "aurez admis",
+			"ils/elles": "auront admis"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "admette",
+			"que": "vous admettiez",
+			"qu'il/elle": "admette",
+			"qu'ils/elles": "admettent"
+		},
+		"imparfait": {
+			"j'": "admisse",
+			"que": "vous admissiez",
+			"qu'il/elle": "admît",
+			"qu'ils/elles": "admissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse admis",
+			"que": "vous eussiez admis",
+			"qu'il/elle": "eût admis",
+			"qu'ils/elles": "eussent admis"
+		},
+		"passé": {
+			"j'": "aie admis",
+			"que": "vous ayez admis",
+			"qu'il/elle": "ait admis",
+			"qu'ils/elles": "aient admis"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "admettrais",
+			"tu": "admettrais",
+			"il/elle": "admettrait",
+			"nous": "admettrions",
+			"vous": "admettriez",
+			"ils/elles": "admettraient"
+		},
+		"passé première forme": {
+			"j'": "aurais admis",
+			"tu": "aurais admis",
+			"il/elle": "aurait admis",
+			"nous": "aurions admis",
+			"vous": "auriez admis",
+			"ils/elles": "auraient admis"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse admis",
+			"tu": "eusses admis",
+			"il/elle": "eût admis",
+			"nous": "eussions admis",
+			"vous": "eussiez admis",
+			"ils/elles": "eussent admis"
+		}
+	},
+	"participe": {
+		"présent": { "admettant": "" },
+		"passé composé": { "ayant": "admis" },
+		"passé": {
+			"masc.sg.:": "admis",
+			"masc.pl.:": "admis",
+			"fém.sg.:": "admise",
+			"fém.pl.:": "admises"
+		}
+	},
+	"imperatif": {
+		"présent": { "admets": "", "admettons": "", "admettez": "" },
+		"passé": { "aie": "admis", "ayons": "admis", "ayez": "admis" }
+	},
+	"infinitif": { "présent": { "admettre": "" }, "passé": { "avoir": "admis" } }
+}

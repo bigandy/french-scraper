@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "cut; cut out; slice; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se découper/ne pas découper/ne pas se découper",
+	"indicatif": {
+		"présent": {
+			"je": "découpe",
+			"tu": "découpes",
+			"il/elle": "découpe",
+			"nous": "découpons",
+			"vous": "découpez",
+			"ils/elles": "découpent"
+		},
+		"imparfait": {
+			"je": "découpais",
+			"tu": "découpais",
+			"il/elle": "découpait",
+			"nous": "découpions",
+			"vous": "découpiez",
+			"ils/elles": "découpaient"
+		},
+		"futur": {
+			"je": "découperai",
+			"tu": "découperas",
+			"il/elle": "découpera",
+			"nous": "découperons",
+			"vous": "découperez",
+			"ils/elles": "découperont"
+		},
+		"passé simple": {
+			"je": "découpai",
+			"tu": "découpas",
+			"il/elle": "découpa",
+			"nous": "découpâmes",
+			"vous": "découpâtes",
+			"ils/elles": "découpèrent"
+		},
+		"passé composé": {
+			"j'": "ai découpé",
+			"tu": "as découpé",
+			"il/elle": "a découpé",
+			"nous": "avons découpé",
+			"vous": "avez découpé",
+			"ils/elles": "ont découpé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais découpé",
+			"tu": "avais découpé",
+			"il/elle": "avait découpé",
+			"nous": "avions découpé",
+			"vous": "aviez découpé",
+			"ils/elles": "avaient découpé"
+		},
+		"passé antérieur": {
+			"j'": "eus découpé",
+			"tu": "eus découpé",
+			"il/elle": "eut découpé",
+			"nous": "eûmes découpé",
+			"vous": "eûtes découpé",
+			"ils/elles": "eurent découpé"
+		},
+		"futur antérieur": {
+			"j'": "aurai découpé",
+			"tu": "auras découpé",
+			"il/elle": "aura découpé",
+			"nous": "aurons découpé",
+			"vous": "aurez découpé",
+			"ils/elles": "auront découpé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous découpiez",
+			"qu'il/elle": "découpe",
+			"qu'ils/elles": "découpent"
+		},
+		"imparfait": {
+			"que": "vous découpassiez",
+			"qu'il/elle": "découpât",
+			"qu'ils/elles": "découpassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse découpé",
+			"que": "vous eussiez découpé",
+			"qu'il/elle": "eût découpé",
+			"qu'ils/elles": "eussent découpé"
+		},
+		"passé": {
+			"j'": "aie découpé",
+			"que": "vous ayez découpé",
+			"qu'il/elle": "ait découpé",
+			"qu'ils/elles": "aient découpé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "découperais",
+			"tu": "découperais",
+			"il/elle": "découperait",
+			"nous": "découperions",
+			"vous": "découperiez",
+			"ils/elles": "découperaient"
+		},
+		"passé première forme": {
+			"j'": "aurais découpé",
+			"tu": "aurais découpé",
+			"il/elle": "aurait découpé",
+			"nous": "aurions découpé",
+			"vous": "auriez découpé",
+			"ils/elles": "auraient découpé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse découpé",
+			"tu": "eusses découpé",
+			"il/elle": "eût découpé",
+			"nous": "eussions découpé",
+			"vous": "eussiez découpé",
+			"ils/elles": "eussent découpé"
+		}
+	},
+	"participe": {
+		"présent": { "découpant": "" },
+		"passé composé": { "ayant": "découpé" },
+		"passé": {
+			"masc.sg.:": "découpé",
+			"masc.pl.:": "découpés",
+			"fém.sg.:": "découpée",
+			"fém.pl.:": "découpées"
+		}
+	},
+	"imperatif": {
+		"présent": { "découpe": "", "découpons": "", "découpez": "" },
+		"passé": { "aie": "découpé", "ayons": "découpé", "ayez": "découpé" }
+	},
+	"infinitif": {
+		"présent": { "découper": "" },
+		"passé": { "avoir": "découpé" }
+	}
+}

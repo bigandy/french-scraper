@@ -1,0 +1,138 @@
+{
+	"name": "coudre",
+	"definition": "sew; stitch; fasten; ...",
+	"model": "coudre",
+	"auxiliary": "avoir",
+	"otherForms": "se coudre/ne pas coudre/ne pas se coudre",
+	"indicatif": {
+		"présent": {
+			"je": "couds",
+			"tu": "couds",
+			"il/elle": "coud",
+			"nous": "cousons",
+			"vous": "cousez",
+			"ils/elles": "cousent"
+		},
+		"imparfait": {
+			"je": "cousais",
+			"tu": "cousais",
+			"il/elle": "cousait",
+			"nous": "cousions",
+			"vous": "cousiez",
+			"ils/elles": "cousaient"
+		},
+		"futur": {
+			"je": "coudrai",
+			"tu": "coudras",
+			"il/elle": "coudra",
+			"nous": "coudrons",
+			"vous": "coudrez",
+			"ils/elles": "coudront"
+		},
+		"passé simple": {
+			"je": "cousis",
+			"tu": "cousis",
+			"il/elle": "cousit",
+			"nous": "cousîmes",
+			"vous": "cousîtes",
+			"ils/elles": "cousirent"
+		},
+		"passé composé": {
+			"j'": "ai cousu",
+			"tu": "as cousu",
+			"il/elle": "a cousu",
+			"nous": "avons cousu",
+			"vous": "avez cousu",
+			"ils/elles": "ont cousu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais cousu",
+			"tu": "avais cousu",
+			"il/elle": "avait cousu",
+			"nous": "avions cousu",
+			"vous": "aviez cousu",
+			"ils/elles": "avaient cousu"
+		},
+		"passé antérieur": {
+			"j'": "eus cousu",
+			"tu": "eus cousu",
+			"il/elle": "eut cousu",
+			"nous": "eûmes cousu",
+			"vous": "eûtes cousu",
+			"ils/elles": "eurent cousu"
+		},
+		"futur antérieur": {
+			"j'": "aurai cousu",
+			"tu": "auras cousu",
+			"il/elle": "aura cousu",
+			"nous": "aurons cousu",
+			"vous": "aurez cousu",
+			"ils/elles": "auront cousu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous cousiez",
+			"qu'il/elle": "couse",
+			"qu'ils/elles": "cousent"
+		},
+		"imparfait": {
+			"que": "vous cousissiez",
+			"qu'il/elle": "cousît",
+			"qu'ils/elles": "cousissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse cousu",
+			"que": "vous eussiez cousu",
+			"qu'il/elle": "eût cousu",
+			"qu'ils/elles": "eussent cousu"
+		},
+		"passé": {
+			"j'": "aie cousu",
+			"que": "vous ayez cousu",
+			"qu'il/elle": "ait cousu",
+			"qu'ils/elles": "aient cousu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "coudrais",
+			"tu": "coudrais",
+			"il/elle": "coudrait",
+			"nous": "coudrions",
+			"vous": "coudriez",
+			"ils/elles": "coudraient"
+		},
+		"passé première forme": {
+			"j'": "aurais cousu",
+			"tu": "aurais cousu",
+			"il/elle": "aurait cousu",
+			"nous": "aurions cousu",
+			"vous": "auriez cousu",
+			"ils/elles": "auraient cousu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse cousu",
+			"tu": "eusses cousu",
+			"il/elle": "eût cousu",
+			"nous": "eussions cousu",
+			"vous": "eussiez cousu",
+			"ils/elles": "eussent cousu"
+		}
+	},
+	"participe": {
+		"présent": { "cousant": "" },
+		"passé composé": { "ayant": "cousu" },
+		"passé": {
+			"masc.sg.:": "cousu",
+			"masc.pl.:": "cousus",
+			"fém.sg.:": "cousue",
+			"fém.pl.:": "cousues"
+		}
+	},
+	"imperatif": {
+		"présent": { "couds": "", "cousons": "", "cousez": "" },
+		"passé": { "aie": "cousu", "ayons": "cousu", "ayez": "cousu" }
+	},
+	"infinitif": { "présent": { "coudre": "" }, "passé": { "avoir": "cousu" } }
+}

@@ -1,0 +1,141 @@
+{
+	"name": "prendre",
+	"definition": "surprise; catch; amaze; ...",
+	"model": "prendre",
+	"auxiliary": "avoir",
+	"otherForms": "se surprendre/ne pas surprendre/ne pas se surprendre",
+	"indicatif": {
+		"présent": {
+			"je": "surprends",
+			"tu": "surprends",
+			"il/elle": "surprend",
+			"nous": "surprenons",
+			"vous": "surprenez",
+			"ils/elles": "surprennent"
+		},
+		"imparfait": {
+			"je": "surprenais",
+			"tu": "surprenais",
+			"il/elle": "surprenait",
+			"nous": "surprenions",
+			"vous": "surpreniez",
+			"ils/elles": "surprenaient"
+		},
+		"futur": {
+			"je": "surprendrai",
+			"tu": "surprendras",
+			"il/elle": "surprendra",
+			"nous": "surprendrons",
+			"vous": "surprendrez",
+			"ils/elles": "surprendront"
+		},
+		"passé simple": {
+			"je": "surpris",
+			"tu": "surpris",
+			"il/elle": "surprit",
+			"nous": "surprîmes",
+			"vous": "surprîtes",
+			"ils/elles": "surprirent"
+		},
+		"passé composé": {
+			"j'": "ai surpris",
+			"tu": "as surpris",
+			"il/elle": "a surpris",
+			"nous": "avons surpris",
+			"vous": "avez surpris",
+			"ils/elles": "ont surpris"
+		},
+		"plus-que-parfait": {
+			"j'": "avais surpris",
+			"tu": "avais surpris",
+			"il/elle": "avait surpris",
+			"nous": "avions surpris",
+			"vous": "aviez surpris",
+			"ils/elles": "avaient surpris"
+		},
+		"passé antérieur": {
+			"j'": "eus surpris",
+			"tu": "eus surpris",
+			"il/elle": "eut surpris",
+			"nous": "eûmes surpris",
+			"vous": "eûtes surpris",
+			"ils/elles": "eurent surpris"
+		},
+		"futur antérieur": {
+			"j'": "aurai surpris",
+			"tu": "auras surpris",
+			"il/elle": "aura surpris",
+			"nous": "aurons surpris",
+			"vous": "aurez surpris",
+			"ils/elles": "auront surpris"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous surpreniez",
+			"qu'il/elle": "surprenne",
+			"qu'ils/elles": "surprennent"
+		},
+		"imparfait": {
+			"que": "vous surprissiez",
+			"qu'il/elle": "surprît",
+			"qu'ils/elles": "surprissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse surpris",
+			"que": "vous eussiez surpris",
+			"qu'il/elle": "eût surpris",
+			"qu'ils/elles": "eussent surpris"
+		},
+		"passé": {
+			"j'": "aie surpris",
+			"que": "vous ayez surpris",
+			"qu'il/elle": "ait surpris",
+			"qu'ils/elles": "aient surpris"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "surprendrais",
+			"tu": "surprendrais",
+			"il/elle": "surprendrait",
+			"nous": "surprendrions",
+			"vous": "surprendriez",
+			"ils/elles": "surprendraient"
+		},
+		"passé première forme": {
+			"j'": "aurais surpris",
+			"tu": "aurais surpris",
+			"il/elle": "aurait surpris",
+			"nous": "aurions surpris",
+			"vous": "auriez surpris",
+			"ils/elles": "auraient surpris"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse surpris",
+			"tu": "eusses surpris",
+			"il/elle": "eût surpris",
+			"nous": "eussions surpris",
+			"vous": "eussiez surpris",
+			"ils/elles": "eussent surpris"
+		}
+	},
+	"participe": {
+		"présent": { "surprenant": "" },
+		"passé composé": { "ayant": "surpris" },
+		"passé": {
+			"masc.sg.:": "surpris",
+			"masc.pl.:": "surpris",
+			"fém.sg.:": "surprise",
+			"fém.pl.:": "surprises"
+		}
+	},
+	"imperatif": {
+		"présent": { "surprends": "", "surprenons": "", "surprenez": "" },
+		"passé": { "aie": "surpris", "ayons": "surpris", "ayez": "surpris" }
+	},
+	"infinitif": {
+		"présent": { "surprendre": "" },
+		"passé": { "avoir": "surpris" }
+	}
+}

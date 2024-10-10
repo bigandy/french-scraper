@@ -1,0 +1,196 @@
+{
+	"name": "finir",
+	"definition": "lead; achieve; reach; ...",
+	"model": "finir",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "ne pas aboutir",
+	"indicatif": {
+		"présent": {
+			"j'": "aboutis",
+			"tu": "aboutis",
+			"il/elle": "aboutit",
+			"nous": "aboutissons",
+			"vous": "aboutissez",
+			"ils/elles": "aboutissent"
+		},
+		"imparfait": {
+			"j'": "aboutissais",
+			"tu": "aboutissais",
+			"il/elle": "aboutissait",
+			"nous": "aboutissions",
+			"vous": "aboutissiez",
+			"ils/elles": "aboutissaient"
+		},
+		"futur": {
+			"j'": "aboutirai",
+			"tu": "aboutiras",
+			"il/elle": "aboutira",
+			"nous": "aboutirons",
+			"vous": "aboutirez",
+			"ils/elles": "aboutiront"
+		},
+		"passé simple": {
+			"j'": "aboutis",
+			"tu": "aboutis",
+			"il/elle": "aboutit",
+			"nous": "aboutîmes",
+			"vous": "aboutîtes",
+			"ils/elles": "aboutirent"
+		},
+		"passé composé": {
+			"j'": "ai abouti",
+			"tu": "es abouti",
+			"il/elle": "a abouti",
+			"nous": "sommes aboutis",
+			"vous": "êtes aboutis",
+			"ils/elles": "ont abouti",
+			"": "",
+			"je": "suis abouti",
+			"il": "est abouti",
+			"elle": "est aboutie",
+			"ils": "sont aboutis",
+			"elles": "sont abouties"
+		},
+		"plus-que-parfait": {
+			"j'": "étais abouti",
+			"tu": "étais abouti",
+			"il/elle": "avait abouti",
+			"nous": "étions aboutis",
+			"vous": "étiez aboutis",
+			"ils/elles": "avaient abouti",
+			"": "",
+			"il": "était abouti",
+			"elle": "était aboutie",
+			"ils": "étaient aboutis",
+			"elles": "étaient abouties"
+		},
+		"passé antérieur": {
+			"j'": "eus abouti",
+			"tu": "fus abouti",
+			"il/elle": "eut abouti",
+			"nous": "fûmes aboutis",
+			"vous": "fûtes aboutis",
+			"ils/elles": "eurent abouti",
+			"": "",
+			"je": "fus abouti",
+			"il": "fut abouti",
+			"elle": "fut aboutie",
+			"ils": "furent aboutis",
+			"elles": "furent abouties"
+		},
+		"futur antérieur": {
+			"j'": "aurai abouti",
+			"tu": "seras abouti",
+			"il/elle": "aura abouti",
+			"nous": "serons aboutis",
+			"vous": "serez aboutis",
+			"ils/elles": "auront abouti",
+			"": "",
+			"je": "serai abouti",
+			"il": "sera abouti",
+			"elle": "sera aboutie",
+			"ils": "seront aboutis",
+			"elles": "seront abouties"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "aboutisse",
+			"que": "vous aboutissiez",
+			"qu'il/elle": "aboutisse",
+			"qu'ils/elles": "aboutissent"
+		},
+		"imparfait": {
+			"j'": "aboutisse",
+			"que": "vous aboutissiez",
+			"qu'il/elle": "aboutît",
+			"qu'ils/elles": "aboutissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse abouti",
+			"que": "vous fussiez aboutis",
+			"qu'il/elle": "eût abouti",
+			"qu'ils/elles": "eussent abouti",
+			"": "",
+			"qu'il": "fût abouti",
+			"qu'elle": "fût aboutie",
+			"qu'ils": "fussent aboutis",
+			"qu'elles": "fussent abouties"
+		},
+		"passé": {
+			"j'": "aie abouti",
+			"que": "vous soyez aboutis",
+			"qu'il/elle": "ait abouti",
+			"qu'ils/elles": "aient abouti",
+			"": "",
+			"qu'il": "soit abouti",
+			"qu'elle": "soit aboutie",
+			"qu'ils": "soient aboutis",
+			"qu'elles": "soient abouties"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "aboutirais",
+			"tu": "aboutirais",
+			"il/elle": "aboutirait",
+			"nous": "aboutirions",
+			"vous": "aboutiriez",
+			"ils/elles": "aboutiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais abouti",
+			"tu": "serais abouti",
+			"il/elle": "aurait abouti",
+			"nous": "serions aboutis",
+			"vous": "seriez aboutis",
+			"ils/elles": "auraient abouti",
+			"": "",
+			"je": "serais abouti",
+			"il": "serait abouti",
+			"elle": "serait aboutie",
+			"ils": "seraient aboutis",
+			"elles": "seraient abouties"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse abouti",
+			"tu": "fusses abouti",
+			"il/elle": "eût abouti",
+			"nous": "fussions aboutis",
+			"vous": "fussiez aboutis",
+			"ils/elles": "eussent abouti",
+			"": "",
+			"je": "fusse abouti",
+			"il": "fût abouti",
+			"elle": "fût aboutie",
+			"ils": "fussent aboutis",
+			"elles": "fussent abouties"
+		}
+	},
+	"participe": {
+		"présent": { "aboutissant": "" },
+		"passé composé": { "ayant": "abouti", "": "", "étant": "aboutie" },
+		"passé": {
+			"masc.sg.:": "abouti",
+			"masc.pl.:": "aboutis",
+			"fém.sg.:": "aboutie",
+			"fém.pl.:": "abouties"
+		}
+	},
+	"imperatif": {
+		"présent": { "aboutis": "", "aboutissons": "", "aboutissez": "" },
+		"passé": {
+			"aie": "abouti",
+			"ayons": "abouti",
+			"ayez": "abouti",
+			"": "",
+			"sois": "abouti",
+			"soyons": "abouti",
+			"soyez": "abouti"
+		}
+	},
+	"infinitif": {
+		"présent": { "aboutir": "" },
+		"passé": { "avoir": "abouti", "": "", "être": "abouti" }
+	}
+}

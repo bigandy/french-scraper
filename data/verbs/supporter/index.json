@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "support; bear; withstand; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se supporter/ne pas supporter/ne pas se supporter",
+	"indicatif": {
+		"présent": {
+			"je": "supporte",
+			"tu": "supportes",
+			"il/elle": "supporte",
+			"nous": "supportons",
+			"vous": "supportez",
+			"ils/elles": "supportent"
+		},
+		"imparfait": {
+			"je": "supportais",
+			"tu": "supportais",
+			"il/elle": "supportait",
+			"nous": "supportions",
+			"vous": "supportiez",
+			"ils/elles": "supportaient"
+		},
+		"futur": {
+			"je": "supporterai",
+			"tu": "supporteras",
+			"il/elle": "supportera",
+			"nous": "supporterons",
+			"vous": "supporterez",
+			"ils/elles": "supporteront"
+		},
+		"passé simple": {
+			"je": "supportai",
+			"tu": "supportas",
+			"il/elle": "supporta",
+			"nous": "supportâmes",
+			"vous": "supportâtes",
+			"ils/elles": "supportèrent"
+		},
+		"passé composé": {
+			"j'": "ai supporté",
+			"tu": "as supporté",
+			"il/elle": "a supporté",
+			"nous": "avons supporté",
+			"vous": "avez supporté",
+			"ils/elles": "ont supporté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais supporté",
+			"tu": "avais supporté",
+			"il/elle": "avait supporté",
+			"nous": "avions supporté",
+			"vous": "aviez supporté",
+			"ils/elles": "avaient supporté"
+		},
+		"passé antérieur": {
+			"j'": "eus supporté",
+			"tu": "eus supporté",
+			"il/elle": "eut supporté",
+			"nous": "eûmes supporté",
+			"vous": "eûtes supporté",
+			"ils/elles": "eurent supporté"
+		},
+		"futur antérieur": {
+			"j'": "aurai supporté",
+			"tu": "auras supporté",
+			"il/elle": "aura supporté",
+			"nous": "aurons supporté",
+			"vous": "aurez supporté",
+			"ils/elles": "auront supporté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous supportiez",
+			"qu'il/elle": "supporte",
+			"qu'ils/elles": "supportent"
+		},
+		"imparfait": {
+			"que": "vous supportassiez",
+			"qu'il/elle": "supportât",
+			"qu'ils/elles": "supportassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse supporté",
+			"que": "vous eussiez supporté",
+			"qu'il/elle": "eût supporté",
+			"qu'ils/elles": "eussent supporté"
+		},
+		"passé": {
+			"j'": "aie supporté",
+			"que": "vous ayez supporté",
+			"qu'il/elle": "ait supporté",
+			"qu'ils/elles": "aient supporté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "supporterais",
+			"tu": "supporterais",
+			"il/elle": "supporterait",
+			"nous": "supporterions",
+			"vous": "supporteriez",
+			"ils/elles": "supporteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais supporté",
+			"tu": "aurais supporté",
+			"il/elle": "aurait supporté",
+			"nous": "aurions supporté",
+			"vous": "auriez supporté",
+			"ils/elles": "auraient supporté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse supporté",
+			"tu": "eusses supporté",
+			"il/elle": "eût supporté",
+			"nous": "eussions supporté",
+			"vous": "eussiez supporté",
+			"ils/elles": "eussent supporté"
+		}
+	},
+	"participe": {
+		"présent": { "supportant": "" },
+		"passé composé": { "ayant": "supporté" },
+		"passé": {
+			"masc.sg.:": "supporté",
+			"masc.pl.:": "supportés",
+			"fém.sg.:": "supportée",
+			"fém.pl.:": "supportées"
+		}
+	},
+	"imperatif": {
+		"présent": { "supporte": "", "supportons": "", "supportez": "" },
+		"passé": { "aie": "supporté", "ayons": "supporté", "ayez": "supporté" }
+	},
+	"infinitif": {
+		"présent": { "supporter": "" },
+		"passé": { "avoir": "supporté" }
+	}
+}

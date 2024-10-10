@@ -1,0 +1,138 @@
+{
+	"name": "cuire",
+	"definition": "seduce; attract; appeal; ...",
+	"model": "cuire",
+	"auxiliary": "avoir",
+	"otherForms": "se séduire/ne pas séduire/ne pas se séduire",
+	"indicatif": {
+		"présent": {
+			"je": "séduis",
+			"tu": "séduis",
+			"il/elle": "séduit",
+			"nous": "séduisons",
+			"vous": "séduisez",
+			"ils/elles": "séduisent"
+		},
+		"imparfait": {
+			"je": "séduisais",
+			"tu": "séduisais",
+			"il/elle": "séduisait",
+			"nous": "séduisions",
+			"vous": "séduisiez",
+			"ils/elles": "séduisaient"
+		},
+		"futur": {
+			"je": "séduirai",
+			"tu": "séduiras",
+			"il/elle": "séduira",
+			"nous": "séduirons",
+			"vous": "séduirez",
+			"ils/elles": "séduiront"
+		},
+		"passé simple": {
+			"je": "séduisis",
+			"tu": "séduisis",
+			"il/elle": "séduisit",
+			"nous": "séduisîmes",
+			"vous": "séduisîtes",
+			"ils/elles": "séduisirent"
+		},
+		"passé composé": {
+			"j'": "ai séduit",
+			"tu": "as séduit",
+			"il/elle": "a séduit",
+			"nous": "avons séduit",
+			"vous": "avez séduit",
+			"ils/elles": "ont séduit"
+		},
+		"plus-que-parfait": {
+			"j'": "avais séduit",
+			"tu": "avais séduit",
+			"il/elle": "avait séduit",
+			"nous": "avions séduit",
+			"vous": "aviez séduit",
+			"ils/elles": "avaient séduit"
+		},
+		"passé antérieur": {
+			"j'": "eus séduit",
+			"tu": "eus séduit",
+			"il/elle": "eut séduit",
+			"nous": "eûmes séduit",
+			"vous": "eûtes séduit",
+			"ils/elles": "eurent séduit"
+		},
+		"futur antérieur": {
+			"j'": "aurai séduit",
+			"tu": "auras séduit",
+			"il/elle": "aura séduit",
+			"nous": "aurons séduit",
+			"vous": "aurez séduit",
+			"ils/elles": "auront séduit"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous séduisiez",
+			"qu'il/elle": "séduise",
+			"qu'ils/elles": "séduisent"
+		},
+		"imparfait": {
+			"que": "vous séduisissiez",
+			"qu'il/elle": "séduisît",
+			"qu'ils/elles": "séduisissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse séduit",
+			"que": "vous eussiez séduit",
+			"qu'il/elle": "eût séduit",
+			"qu'ils/elles": "eussent séduit"
+		},
+		"passé": {
+			"j'": "aie séduit",
+			"que": "vous ayez séduit",
+			"qu'il/elle": "ait séduit",
+			"qu'ils/elles": "aient séduit"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "séduirais",
+			"tu": "séduirais",
+			"il/elle": "séduirait",
+			"nous": "séduirions",
+			"vous": "séduiriez",
+			"ils/elles": "séduiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais séduit",
+			"tu": "aurais séduit",
+			"il/elle": "aurait séduit",
+			"nous": "aurions séduit",
+			"vous": "auriez séduit",
+			"ils/elles": "auraient séduit"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse séduit",
+			"tu": "eusses séduit",
+			"il/elle": "eût séduit",
+			"nous": "eussions séduit",
+			"vous": "eussiez séduit",
+			"ils/elles": "eussent séduit"
+		}
+	},
+	"participe": {
+		"présent": { "séduisant": "" },
+		"passé composé": { "ayant": "séduit" },
+		"passé": {
+			"masc.sg.:": "séduit",
+			"masc.pl.:": "séduits",
+			"fém.sg.:": "séduite",
+			"fém.pl.:": "séduites"
+		}
+	},
+	"imperatif": {
+		"présent": { "séduis": "", "séduisons": "", "séduisez": "" },
+		"passé": { "aie": "séduit", "ayons": "séduit", "ayez": "séduit" }
+	},
+	"infinitif": { "présent": { "séduire": "" }, "passé": { "avoir": "séduit" } }
+}

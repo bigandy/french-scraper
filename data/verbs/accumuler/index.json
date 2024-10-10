@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "accumulate; build up; earn; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'accumuler/ne pas accumuler/ne pas s'accumuler",
+	"indicatif": {
+		"présent": {
+			"j'": "accumule",
+			"tu": "accumules",
+			"il/elle": "accumule",
+			"nous": "accumulons",
+			"vous": "accumulez",
+			"ils/elles": "accumulent"
+		},
+		"imparfait": {
+			"j'": "accumulais",
+			"tu": "accumulais",
+			"il/elle": "accumulait",
+			"nous": "accumulions",
+			"vous": "accumuliez",
+			"ils/elles": "accumulaient"
+		},
+		"futur": {
+			"j'": "accumulerai",
+			"tu": "accumuleras",
+			"il/elle": "accumulera",
+			"nous": "accumulerons",
+			"vous": "accumulerez",
+			"ils/elles": "accumuleront"
+		},
+		"passé simple": {
+			"j'": "accumulai",
+			"tu": "accumulas",
+			"il/elle": "accumula",
+			"nous": "accumulâmes",
+			"vous": "accumulâtes",
+			"ils/elles": "accumulèrent"
+		},
+		"passé composé": {
+			"j'": "ai accumulé",
+			"tu": "as accumulé",
+			"il/elle": "a accumulé",
+			"nous": "avons accumulé",
+			"vous": "avez accumulé",
+			"ils/elles": "ont accumulé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais accumulé",
+			"tu": "avais accumulé",
+			"il/elle": "avait accumulé",
+			"nous": "avions accumulé",
+			"vous": "aviez accumulé",
+			"ils/elles": "avaient accumulé"
+		},
+		"passé antérieur": {
+			"j'": "eus accumulé",
+			"tu": "eus accumulé",
+			"il/elle": "eut accumulé",
+			"nous": "eûmes accumulé",
+			"vous": "eûtes accumulé",
+			"ils/elles": "eurent accumulé"
+		},
+		"futur antérieur": {
+			"j'": "aurai accumulé",
+			"tu": "auras accumulé",
+			"il/elle": "aura accumulé",
+			"nous": "aurons accumulé",
+			"vous": "aurez accumulé",
+			"ils/elles": "auront accumulé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "accumule",
+			"que": "vous accumuliez",
+			"qu'il/elle": "accumule",
+			"qu'ils/elles": "accumulent"
+		},
+		"imparfait": {
+			"j'": "accumulasse",
+			"que": "vous accumulassiez",
+			"qu'il/elle": "accumulât",
+			"qu'ils/elles": "accumulassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse accumulé",
+			"que": "vous eussiez accumulé",
+			"qu'il/elle": "eût accumulé",
+			"qu'ils/elles": "eussent accumulé"
+		},
+		"passé": {
+			"j'": "aie accumulé",
+			"que": "vous ayez accumulé",
+			"qu'il/elle": "ait accumulé",
+			"qu'ils/elles": "aient accumulé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "accumulerais",
+			"tu": "accumulerais",
+			"il/elle": "accumulerait",
+			"nous": "accumulerions",
+			"vous": "accumuleriez",
+			"ils/elles": "accumuleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais accumulé",
+			"tu": "aurais accumulé",
+			"il/elle": "aurait accumulé",
+			"nous": "aurions accumulé",
+			"vous": "auriez accumulé",
+			"ils/elles": "auraient accumulé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse accumulé",
+			"tu": "eusses accumulé",
+			"il/elle": "eût accumulé",
+			"nous": "eussions accumulé",
+			"vous": "eussiez accumulé",
+			"ils/elles": "eussent accumulé"
+		}
+	},
+	"participe": {
+		"présent": { "accumulant": "" },
+		"passé composé": { "ayant": "accumulé" },
+		"passé": {
+			"masc.sg.:": "accumulé",
+			"masc.pl.:": "accumulés",
+			"fém.sg.:": "accumulée",
+			"fém.pl.:": "accumulées"
+		}
+	},
+	"imperatif": {
+		"présent": { "accumule": "", "accumulons": "", "accumulez": "" },
+		"passé": { "aie": "accumulé", "ayons": "accumulé", "ayez": "accumulé" }
+	},
+	"infinitif": {
+		"présent": { "accumuler": "" },
+		"passé": { "avoir": "accumulé" }
+	}
+}

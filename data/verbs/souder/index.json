@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "weld; solder; bond; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se souder/ne pas souder/ne pas se souder",
+	"indicatif": {
+		"présent": {
+			"je": "soude",
+			"tu": "soudes",
+			"il/elle": "soude",
+			"nous": "soudons",
+			"vous": "soudez",
+			"ils/elles": "soudent"
+		},
+		"imparfait": {
+			"je": "soudais",
+			"tu": "soudais",
+			"il/elle": "soudait",
+			"nous": "soudions",
+			"vous": "soudiez",
+			"ils/elles": "soudaient"
+		},
+		"futur": {
+			"je": "souderai",
+			"tu": "souderas",
+			"il/elle": "soudera",
+			"nous": "souderons",
+			"vous": "souderez",
+			"ils/elles": "souderont"
+		},
+		"passé simple": {
+			"je": "soudai",
+			"tu": "soudas",
+			"il/elle": "souda",
+			"nous": "soudâmes",
+			"vous": "soudâtes",
+			"ils/elles": "soudèrent"
+		},
+		"passé composé": {
+			"j'": "ai soudé",
+			"tu": "as soudé",
+			"il/elle": "a soudé",
+			"nous": "avons soudé",
+			"vous": "avez soudé",
+			"ils/elles": "ont soudé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais soudé",
+			"tu": "avais soudé",
+			"il/elle": "avait soudé",
+			"nous": "avions soudé",
+			"vous": "aviez soudé",
+			"ils/elles": "avaient soudé"
+		},
+		"passé antérieur": {
+			"j'": "eus soudé",
+			"tu": "eus soudé",
+			"il/elle": "eut soudé",
+			"nous": "eûmes soudé",
+			"vous": "eûtes soudé",
+			"ils/elles": "eurent soudé"
+		},
+		"futur antérieur": {
+			"j'": "aurai soudé",
+			"tu": "auras soudé",
+			"il/elle": "aura soudé",
+			"nous": "aurons soudé",
+			"vous": "aurez soudé",
+			"ils/elles": "auront soudé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous soudiez",
+			"qu'il/elle": "soude",
+			"qu'ils/elles": "soudent"
+		},
+		"imparfait": {
+			"que": "vous soudassiez",
+			"qu'il/elle": "soudât",
+			"qu'ils/elles": "soudassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse soudé",
+			"que": "vous eussiez soudé",
+			"qu'il/elle": "eût soudé",
+			"qu'ils/elles": "eussent soudé"
+		},
+		"passé": {
+			"j'": "aie soudé",
+			"que": "vous ayez soudé",
+			"qu'il/elle": "ait soudé",
+			"qu'ils/elles": "aient soudé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "souderais",
+			"tu": "souderais",
+			"il/elle": "souderait",
+			"nous": "souderions",
+			"vous": "souderiez",
+			"ils/elles": "souderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais soudé",
+			"tu": "aurais soudé",
+			"il/elle": "aurait soudé",
+			"nous": "aurions soudé",
+			"vous": "auriez soudé",
+			"ils/elles": "auraient soudé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse soudé",
+			"tu": "eusses soudé",
+			"il/elle": "eût soudé",
+			"nous": "eussions soudé",
+			"vous": "eussiez soudé",
+			"ils/elles": "eussent soudé"
+		}
+	},
+	"participe": {
+		"présent": { "soudant": "" },
+		"passé composé": { "ayant": "soudé" },
+		"passé": {
+			"masc.sg.:": "soudé",
+			"masc.pl.:": "soudés",
+			"fém.sg.:": "soudée",
+			"fém.pl.:": "soudées"
+		}
+	},
+	"imperatif": {
+		"présent": { "soude": "", "soudons": "", "soudez": "" },
+		"passé": { "aie": "soudé", "ayons": "soudé", "ayez": "soudé" }
+	},
+	"infinitif": { "présent": { "souder": "" }, "passé": { "avoir": "soudé" } }
+}

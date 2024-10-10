@@ -1,0 +1,143 @@
+{
+	"name": "finir",
+	"definition": "enlarge; zoom; expand; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "s'agrandir/ne pas agrandir/ne pas s'agrandir",
+	"indicatif": {
+		"présent": {
+			"j'": "agrandis",
+			"tu": "agrandis",
+			"il/elle": "agrandit",
+			"nous": "agrandissons",
+			"vous": "agrandissez",
+			"ils/elles": "agrandissent"
+		},
+		"imparfait": {
+			"j'": "agrandissais",
+			"tu": "agrandissais",
+			"il/elle": "agrandissait",
+			"nous": "agrandissions",
+			"vous": "agrandissiez",
+			"ils/elles": "agrandissaient"
+		},
+		"futur": {
+			"j'": "agrandirai",
+			"tu": "agrandiras",
+			"il/elle": "agrandira",
+			"nous": "agrandirons",
+			"vous": "agrandirez",
+			"ils/elles": "agrandiront"
+		},
+		"passé simple": {
+			"j'": "agrandis",
+			"tu": "agrandis",
+			"il/elle": "agrandit",
+			"nous": "agrandîmes",
+			"vous": "agrandîtes",
+			"ils/elles": "agrandirent"
+		},
+		"passé composé": {
+			"j'": "ai agrandi",
+			"tu": "as agrandi",
+			"il/elle": "a agrandi",
+			"nous": "avons agrandi",
+			"vous": "avez agrandi",
+			"ils/elles": "ont agrandi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais agrandi",
+			"tu": "avais agrandi",
+			"il/elle": "avait agrandi",
+			"nous": "avions agrandi",
+			"vous": "aviez agrandi",
+			"ils/elles": "avaient agrandi"
+		},
+		"passé antérieur": {
+			"j'": "eus agrandi",
+			"tu": "eus agrandi",
+			"il/elle": "eut agrandi",
+			"nous": "eûmes agrandi",
+			"vous": "eûtes agrandi",
+			"ils/elles": "eurent agrandi"
+		},
+		"futur antérieur": {
+			"j'": "aurai agrandi",
+			"tu": "auras agrandi",
+			"il/elle": "aura agrandi",
+			"nous": "aurons agrandi",
+			"vous": "aurez agrandi",
+			"ils/elles": "auront agrandi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "agrandisse",
+			"que": "vous agrandissiez",
+			"qu'il/elle": "agrandisse",
+			"qu'ils/elles": "agrandissent"
+		},
+		"imparfait": {
+			"j'": "agrandisse",
+			"que": "vous agrandissiez",
+			"qu'il/elle": "agrandît",
+			"qu'ils/elles": "agrandissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse agrandi",
+			"que": "vous eussiez agrandi",
+			"qu'il/elle": "eût agrandi",
+			"qu'ils/elles": "eussent agrandi"
+		},
+		"passé": {
+			"j'": "aie agrandi",
+			"que": "vous ayez agrandi",
+			"qu'il/elle": "ait agrandi",
+			"qu'ils/elles": "aient agrandi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "agrandirais",
+			"tu": "agrandirais",
+			"il/elle": "agrandirait",
+			"nous": "agrandirions",
+			"vous": "agrandiriez",
+			"ils/elles": "agrandiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais agrandi",
+			"tu": "aurais agrandi",
+			"il/elle": "aurait agrandi",
+			"nous": "aurions agrandi",
+			"vous": "auriez agrandi",
+			"ils/elles": "auraient agrandi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse agrandi",
+			"tu": "eusses agrandi",
+			"il/elle": "eût agrandi",
+			"nous": "eussions agrandi",
+			"vous": "eussiez agrandi",
+			"ils/elles": "eussent agrandi"
+		}
+	},
+	"participe": {
+		"présent": { "agrandissant": "" },
+		"passé composé": { "ayant": "agrandi" },
+		"passé": {
+			"masc.sg.:": "agrandi",
+			"masc.pl.:": "agrandis",
+			"fém.sg.:": "agrandie",
+			"fém.pl.:": "agrandies"
+		}
+	},
+	"imperatif": {
+		"présent": { "agrandis": "", "agrandissons": "", "agrandissez": "" },
+		"passé": { "aie": "agrandi", "ayons": "agrandi", "ayez": "agrandi" }
+	},
+	"infinitif": {
+		"présent": { "agrandir": "" },
+		"passé": { "avoir": "agrandi" }
+	}
+}

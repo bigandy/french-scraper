@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "normalize; standardize; normalise; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se normaliser/ne pas normaliser/ne pas se normaliser",
+	"indicatif": {
+		"présent": {
+			"je": "normalise",
+			"tu": "normalises",
+			"il/elle": "normalise",
+			"nous": "normalisons",
+			"vous": "normalisez",
+			"ils/elles": "normalisent"
+		},
+		"imparfait": {
+			"je": "normalisais",
+			"tu": "normalisais",
+			"il/elle": "normalisait",
+			"nous": "normalisions",
+			"vous": "normalisiez",
+			"ils/elles": "normalisaient"
+		},
+		"futur": {
+			"je": "normaliserai",
+			"tu": "normaliseras",
+			"il/elle": "normalisera",
+			"nous": "normaliserons",
+			"vous": "normaliserez",
+			"ils/elles": "normaliseront"
+		},
+		"passé simple": {
+			"je": "normalisai",
+			"tu": "normalisas",
+			"il/elle": "normalisa",
+			"nous": "normalisâmes",
+			"vous": "normalisâtes",
+			"ils/elles": "normalisèrent"
+		},
+		"passé composé": {
+			"j'": "ai normalisé",
+			"tu": "as normalisé",
+			"il/elle": "a normalisé",
+			"nous": "avons normalisé",
+			"vous": "avez normalisé",
+			"ils/elles": "ont normalisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais normalisé",
+			"tu": "avais normalisé",
+			"il/elle": "avait normalisé",
+			"nous": "avions normalisé",
+			"vous": "aviez normalisé",
+			"ils/elles": "avaient normalisé"
+		},
+		"passé antérieur": {
+			"j'": "eus normalisé",
+			"tu": "eus normalisé",
+			"il/elle": "eut normalisé",
+			"nous": "eûmes normalisé",
+			"vous": "eûtes normalisé",
+			"ils/elles": "eurent normalisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai normalisé",
+			"tu": "auras normalisé",
+			"il/elle": "aura normalisé",
+			"nous": "aurons normalisé",
+			"vous": "aurez normalisé",
+			"ils/elles": "auront normalisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous normalisiez",
+			"qu'il/elle": "normalise",
+			"qu'ils/elles": "normalisent"
+		},
+		"imparfait": {
+			"que": "vous normalisassiez",
+			"qu'il/elle": "normalisât",
+			"qu'ils/elles": "normalisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse normalisé",
+			"que": "vous eussiez normalisé",
+			"qu'il/elle": "eût normalisé",
+			"qu'ils/elles": "eussent normalisé"
+		},
+		"passé": {
+			"j'": "aie normalisé",
+			"que": "vous ayez normalisé",
+			"qu'il/elle": "ait normalisé",
+			"qu'ils/elles": "aient normalisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "normaliserais",
+			"tu": "normaliserais",
+			"il/elle": "normaliserait",
+			"nous": "normaliserions",
+			"vous": "normaliseriez",
+			"ils/elles": "normaliseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais normalisé",
+			"tu": "aurais normalisé",
+			"il/elle": "aurait normalisé",
+			"nous": "aurions normalisé",
+			"vous": "auriez normalisé",
+			"ils/elles": "auraient normalisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse normalisé",
+			"tu": "eusses normalisé",
+			"il/elle": "eût normalisé",
+			"nous": "eussions normalisé",
+			"vous": "eussiez normalisé",
+			"ils/elles": "eussent normalisé"
+		}
+	},
+	"participe": {
+		"présent": { "normalisant": "" },
+		"passé composé": { "ayant": "normalisé" },
+		"passé": {
+			"masc.sg.:": "normalisé",
+			"masc.pl.:": "normalisés",
+			"fém.sg.:": "normalisée",
+			"fém.pl.:": "normalisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "normalise": "", "normalisons": "", "normalisez": "" },
+		"passé": { "aie": "normalisé", "ayons": "normalisé", "ayez": "normalisé" }
+	},
+	"infinitif": {
+		"présent": { "normaliser": "" },
+		"passé": { "avoir": "normalisé" }
+	}
+}

@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "borrow; take; use; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'emprunter/ne pas emprunter/ne pas s'emprunter",
+	"indicatif": {
+		"présent": {
+			"j'": "emprunte",
+			"tu": "empruntes",
+			"il/elle": "emprunte",
+			"nous": "empruntons",
+			"vous": "empruntez",
+			"ils/elles": "empruntent"
+		},
+		"imparfait": {
+			"j'": "empruntais",
+			"tu": "empruntais",
+			"il/elle": "empruntait",
+			"nous": "empruntions",
+			"vous": "empruntiez",
+			"ils/elles": "empruntaient"
+		},
+		"futur": {
+			"j'": "emprunterai",
+			"tu": "emprunteras",
+			"il/elle": "empruntera",
+			"nous": "emprunterons",
+			"vous": "emprunterez",
+			"ils/elles": "emprunteront"
+		},
+		"passé simple": {
+			"j'": "empruntai",
+			"tu": "empruntas",
+			"il/elle": "emprunta",
+			"nous": "empruntâmes",
+			"vous": "empruntâtes",
+			"ils/elles": "empruntèrent"
+		},
+		"passé composé": {
+			"j'": "ai emprunté",
+			"tu": "as emprunté",
+			"il/elle": "a emprunté",
+			"nous": "avons emprunté",
+			"vous": "avez emprunté",
+			"ils/elles": "ont emprunté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais emprunté",
+			"tu": "avais emprunté",
+			"il/elle": "avait emprunté",
+			"nous": "avions emprunté",
+			"vous": "aviez emprunté",
+			"ils/elles": "avaient emprunté"
+		},
+		"passé antérieur": {
+			"j'": "eus emprunté",
+			"tu": "eus emprunté",
+			"il/elle": "eut emprunté",
+			"nous": "eûmes emprunté",
+			"vous": "eûtes emprunté",
+			"ils/elles": "eurent emprunté"
+		},
+		"futur antérieur": {
+			"j'": "aurai emprunté",
+			"tu": "auras emprunté",
+			"il/elle": "aura emprunté",
+			"nous": "aurons emprunté",
+			"vous": "aurez emprunté",
+			"ils/elles": "auront emprunté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "emprunte",
+			"que": "vous empruntiez",
+			"qu'il/elle": "emprunte",
+			"qu'ils/elles": "empruntent"
+		},
+		"imparfait": {
+			"j'": "empruntasse",
+			"que": "vous empruntassiez",
+			"qu'il/elle": "empruntât",
+			"qu'ils/elles": "empruntassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse emprunté",
+			"que": "vous eussiez emprunté",
+			"qu'il/elle": "eût emprunté",
+			"qu'ils/elles": "eussent emprunté"
+		},
+		"passé": {
+			"j'": "aie emprunté",
+			"que": "vous ayez emprunté",
+			"qu'il/elle": "ait emprunté",
+			"qu'ils/elles": "aient emprunté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "emprunterais",
+			"tu": "emprunterais",
+			"il/elle": "emprunterait",
+			"nous": "emprunterions",
+			"vous": "emprunteriez",
+			"ils/elles": "emprunteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais emprunté",
+			"tu": "aurais emprunté",
+			"il/elle": "aurait emprunté",
+			"nous": "aurions emprunté",
+			"vous": "auriez emprunté",
+			"ils/elles": "auraient emprunté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse emprunté",
+			"tu": "eusses emprunté",
+			"il/elle": "eût emprunté",
+			"nous": "eussions emprunté",
+			"vous": "eussiez emprunté",
+			"ils/elles": "eussent emprunté"
+		}
+	},
+	"participe": {
+		"présent": { "empruntant": "" },
+		"passé composé": { "ayant": "emprunté" },
+		"passé": {
+			"masc.sg.:": "emprunté",
+			"masc.pl.:": "empruntés",
+			"fém.sg.:": "empruntée",
+			"fém.pl.:": "empruntées"
+		}
+	},
+	"imperatif": {
+		"présent": { "emprunte": "", "empruntons": "", "empruntez": "" },
+		"passé": { "aie": "emprunté", "ayons": "emprunté", "ayez": "emprunté" }
+	},
+	"infinitif": {
+		"présent": { "emprunter": "" },
+		"passé": { "avoir": "emprunté" }
+	}
+}

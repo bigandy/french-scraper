@@ -1,0 +1,141 @@
+{
+	"name": "aérer",
+	"definition": "suggest; propose; imply; ...",
+	"model": "aérer",
+	"auxiliary": "avoir",
+	"otherForms": "se suggérer/ne pas suggérer/ne pas se suggérer",
+	"indicatif": {
+		"présent": {
+			"je": "suggère",
+			"tu": "suggères",
+			"il/elle": "suggère",
+			"nous": "suggérons",
+			"vous": "suggérez",
+			"ils/elles": "suggèrent"
+		},
+		"imparfait": {
+			"je": "suggérais",
+			"tu": "suggérais",
+			"il/elle": "suggérait",
+			"nous": "suggérions",
+			"vous": "suggériez",
+			"ils/elles": "suggéraient"
+		},
+		"futur": {
+			"je": "suggérerai",
+			"tu": "suggéreras",
+			"il/elle": "suggérera",
+			"nous": "suggérerons",
+			"vous": "suggérerez",
+			"ils/elles": "suggéreront"
+		},
+		"passé simple": {
+			"je": "suggérai",
+			"tu": "suggéras",
+			"il/elle": "suggéra",
+			"nous": "suggérâmes",
+			"vous": "suggérâtes",
+			"ils/elles": "suggérèrent"
+		},
+		"passé composé": {
+			"j'": "ai suggéré",
+			"tu": "as suggéré",
+			"il/elle": "a suggéré",
+			"nous": "avons suggéré",
+			"vous": "avez suggéré",
+			"ils/elles": "ont suggéré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais suggéré",
+			"tu": "avais suggéré",
+			"il/elle": "avait suggéré",
+			"nous": "avions suggéré",
+			"vous": "aviez suggéré",
+			"ils/elles": "avaient suggéré"
+		},
+		"passé antérieur": {
+			"j'": "eus suggéré",
+			"tu": "eus suggéré",
+			"il/elle": "eut suggéré",
+			"nous": "eûmes suggéré",
+			"vous": "eûtes suggéré",
+			"ils/elles": "eurent suggéré"
+		},
+		"futur antérieur": {
+			"j'": "aurai suggéré",
+			"tu": "auras suggéré",
+			"il/elle": "aura suggéré",
+			"nous": "aurons suggéré",
+			"vous": "aurez suggéré",
+			"ils/elles": "auront suggéré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous suggériez",
+			"qu'il/elle": "suggère",
+			"qu'ils/elles": "suggèrent"
+		},
+		"imparfait": {
+			"que": "vous suggérassiez",
+			"qu'il/elle": "suggérât",
+			"qu'ils/elles": "suggérassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse suggéré",
+			"que": "vous eussiez suggéré",
+			"qu'il/elle": "eût suggéré",
+			"qu'ils/elles": "eussent suggéré"
+		},
+		"passé": {
+			"j'": "aie suggéré",
+			"que": "vous ayez suggéré",
+			"qu'il/elle": "ait suggéré",
+			"qu'ils/elles": "aient suggéré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "suggérerais",
+			"tu": "suggérerais",
+			"il/elle": "suggérerait",
+			"nous": "suggérerions",
+			"vous": "suggéreriez",
+			"ils/elles": "suggéreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais suggéré",
+			"tu": "aurais suggéré",
+			"il/elle": "aurait suggéré",
+			"nous": "aurions suggéré",
+			"vous": "auriez suggéré",
+			"ils/elles": "auraient suggéré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse suggéré",
+			"tu": "eusses suggéré",
+			"il/elle": "eût suggéré",
+			"nous": "eussions suggéré",
+			"vous": "eussiez suggéré",
+			"ils/elles": "eussent suggéré"
+		}
+	},
+	"participe": {
+		"présent": { "suggérant": "" },
+		"passé composé": { "ayant": "suggéré" },
+		"passé": {
+			"masc.sg.:": "suggéré",
+			"masc.pl.:": "suggérés",
+			"fém.sg.:": "suggérée",
+			"fém.pl.:": "suggérées"
+		}
+	},
+	"imperatif": {
+		"présent": { "suggère": "", "suggérons": "", "suggérez": "" },
+		"passé": { "aie": "suggéré", "ayons": "suggéré", "ayez": "suggéré" }
+	},
+	"infinitif": {
+		"présent": { "suggérer": "" },
+		"passé": { "avoir": "suggéré" }
+	}
+}

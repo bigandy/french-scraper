@@ -1,0 +1,138 @@
+{
+	"name": "commencer",
+	"definition": "place; put; position; ...",
+	"model": "commencer",
+	"auxiliary": "avoir",
+	"otherForms": "se placer/ne pas placer/ne pas se placer",
+	"indicatif": {
+		"présent": {
+			"je": "place",
+			"tu": "places",
+			"il/elle": "place",
+			"nous": "plaçons",
+			"vous": "placez",
+			"ils/elles": "placent"
+		},
+		"imparfait": {
+			"je": "plaçais",
+			"tu": "plaçais",
+			"il/elle": "plaçait",
+			"nous": "placions",
+			"vous": "placiez",
+			"ils/elles": "plaçaient"
+		},
+		"futur": {
+			"je": "placerai",
+			"tu": "placeras",
+			"il/elle": "placera",
+			"nous": "placerons",
+			"vous": "placerez",
+			"ils/elles": "placeront"
+		},
+		"passé simple": {
+			"je": "plaçai",
+			"tu": "plaças",
+			"il/elle": "plaça",
+			"nous": "plaçâmes",
+			"vous": "plaçâtes",
+			"ils/elles": "placèrent"
+		},
+		"passé composé": {
+			"j'": "ai placé",
+			"tu": "as placé",
+			"il/elle": "a placé",
+			"nous": "avons placé",
+			"vous": "avez placé",
+			"ils/elles": "ont placé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais placé",
+			"tu": "avais placé",
+			"il/elle": "avait placé",
+			"nous": "avions placé",
+			"vous": "aviez placé",
+			"ils/elles": "avaient placé"
+		},
+		"passé antérieur": {
+			"j'": "eus placé",
+			"tu": "eus placé",
+			"il/elle": "eut placé",
+			"nous": "eûmes placé",
+			"vous": "eûtes placé",
+			"ils/elles": "eurent placé"
+		},
+		"futur antérieur": {
+			"j'": "aurai placé",
+			"tu": "auras placé",
+			"il/elle": "aura placé",
+			"nous": "aurons placé",
+			"vous": "aurez placé",
+			"ils/elles": "auront placé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous placiez",
+			"qu'il/elle": "place",
+			"qu'ils/elles": "placent"
+		},
+		"imparfait": {
+			"que": "vous plaçassiez",
+			"qu'il/elle": "plaçât",
+			"qu'ils/elles": "plaçassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse placé",
+			"que": "vous eussiez placé",
+			"qu'il/elle": "eût placé",
+			"qu'ils/elles": "eussent placé"
+		},
+		"passé": {
+			"j'": "aie placé",
+			"que": "vous ayez placé",
+			"qu'il/elle": "ait placé",
+			"qu'ils/elles": "aient placé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "placerais",
+			"tu": "placerais",
+			"il/elle": "placerait",
+			"nous": "placerions",
+			"vous": "placeriez",
+			"ils/elles": "placeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais placé",
+			"tu": "aurais placé",
+			"il/elle": "aurait placé",
+			"nous": "aurions placé",
+			"vous": "auriez placé",
+			"ils/elles": "auraient placé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse placé",
+			"tu": "eusses placé",
+			"il/elle": "eût placé",
+			"nous": "eussions placé",
+			"vous": "eussiez placé",
+			"ils/elles": "eussent placé"
+		}
+	},
+	"participe": {
+		"présent": { "plaçant": "" },
+		"passé composé": { "ayant": "placé" },
+		"passé": {
+			"masc.sg.:": "placé",
+			"masc.pl.:": "placés",
+			"fém.sg.:": "placée",
+			"fém.pl.:": "placées"
+		}
+	},
+	"imperatif": {
+		"présent": { "place": "", "plaçons": "", "placez": "" },
+		"passé": { "aie": "placé", "ayons": "placé", "ayez": "placé" }
+	},
+	"infinitif": { "présent": { "placer": "" }, "passé": { "avoir": "placé" } }
+}

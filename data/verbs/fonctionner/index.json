@@ -1,0 +1,145 @@
+{
+	"name": "marcher",
+	"definition": "operate; work; function; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas fonctionner",
+	"indicatif": {
+		"présent": {
+			"je": "fonctionne",
+			"tu": "fonctionnes",
+			"il/elle": "fonctionne",
+			"nous": "fonctionnons",
+			"vous": "fonctionnez",
+			"ils/elles": "fonctionnent"
+		},
+		"imparfait": {
+			"je": "fonctionnais",
+			"tu": "fonctionnais",
+			"il/elle": "fonctionnait",
+			"nous": "fonctionnions",
+			"vous": "fonctionniez",
+			"ils/elles": "fonctionnaient"
+		},
+		"futur": {
+			"je": "fonctionnerai",
+			"tu": "fonctionneras",
+			"il/elle": "fonctionnera",
+			"nous": "fonctionnerons",
+			"vous": "fonctionnerez",
+			"ils/elles": "fonctionneront"
+		},
+		"passé simple": {
+			"je": "fonctionnai",
+			"tu": "fonctionnas",
+			"il/elle": "fonctionna",
+			"nous": "fonctionnâmes",
+			"vous": "fonctionnâtes",
+			"ils/elles": "fonctionnèrent"
+		},
+		"passé composé": {
+			"j'": "ai fonctionné",
+			"tu": "as fonctionné",
+			"il/elle": "a fonctionné",
+			"nous": "avons fonctionné",
+			"vous": "avez fonctionné",
+			"ils/elles": "ont fonctionné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais fonctionné",
+			"tu": "avais fonctionné",
+			"il/elle": "avait fonctionné",
+			"nous": "avions fonctionné",
+			"vous": "aviez fonctionné",
+			"ils/elles": "avaient fonctionné"
+		},
+		"passé antérieur": {
+			"j'": "eus fonctionné",
+			"tu": "eus fonctionné",
+			"il/elle": "eut fonctionné",
+			"nous": "eûmes fonctionné",
+			"vous": "eûtes fonctionné",
+			"ils/elles": "eurent fonctionné"
+		},
+		"futur antérieur": {
+			"j'": "aurai fonctionné",
+			"tu": "auras fonctionné",
+			"il/elle": "aura fonctionné",
+			"nous": "aurons fonctionné",
+			"vous": "aurez fonctionné",
+			"ils/elles": "auront fonctionné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous fonctionniez",
+			"qu'il/elle": "fonctionne",
+			"qu'ils/elles": "fonctionnent"
+		},
+		"imparfait": {
+			"que": "vous fonctionnassiez",
+			"qu'il/elle": "fonctionnât",
+			"qu'ils/elles": "fonctionnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse fonctionné",
+			"que": "vous eussiez fonctionné",
+			"qu'il/elle": "eût fonctionné",
+			"qu'ils/elles": "eussent fonctionné"
+		},
+		"passé": {
+			"j'": "aie fonctionné",
+			"que": "vous ayez fonctionné",
+			"qu'il/elle": "ait fonctionné",
+			"qu'ils/elles": "aient fonctionné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "fonctionnerais",
+			"tu": "fonctionnerais",
+			"il/elle": "fonctionnerait",
+			"nous": "fonctionnerions",
+			"vous": "fonctionneriez",
+			"ils/elles": "fonctionneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais fonctionné",
+			"tu": "aurais fonctionné",
+			"il/elle": "aurait fonctionné",
+			"nous": "aurions fonctionné",
+			"vous": "auriez fonctionné",
+			"ils/elles": "auraient fonctionné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse fonctionné",
+			"tu": "eusses fonctionné",
+			"il/elle": "eût fonctionné",
+			"nous": "eussions fonctionné",
+			"vous": "eussiez fonctionné",
+			"ils/elles": "eussent fonctionné"
+		}
+	},
+	"participe": {
+		"présent": { "fonctionnant": "" },
+		"passé composé": { "ayant": "fonctionné" },
+		"passé": {
+			"masc.sg.:": "fonctionné",
+			"masc.pl.:": "fonctionnés",
+			"fém.sg.:": "fonctionnée",
+			"fém.pl.:": "fonctionnées"
+		}
+	},
+	"imperatif": {
+		"présent": { "fonctionne": "", "fonctionnons": "", "fonctionnez": "" },
+		"passé": {
+			"aie": "fonctionné",
+			"ayons": "fonctionné",
+			"ayez": "fonctionné"
+		}
+	},
+	"infinitif": {
+		"présent": { "fonctionner": "" },
+		"passé": { "avoir": "fonctionné" }
+	}
+}

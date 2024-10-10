@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "formulate; provide; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se formuler/ne pas formuler/ne pas se formuler",
+	"indicatif": {
+		"présent": {
+			"je": "formule",
+			"tu": "formules",
+			"il/elle": "formule",
+			"nous": "formulons",
+			"vous": "formulez",
+			"ils/elles": "formulent"
+		},
+		"imparfait": {
+			"je": "formulais",
+			"tu": "formulais",
+			"il/elle": "formulait",
+			"nous": "formulions",
+			"vous": "formuliez",
+			"ils/elles": "formulaient"
+		},
+		"futur": {
+			"je": "formulerai",
+			"tu": "formuleras",
+			"il/elle": "formulera",
+			"nous": "formulerons",
+			"vous": "formulerez",
+			"ils/elles": "formuleront"
+		},
+		"passé simple": {
+			"je": "formulai",
+			"tu": "formulas",
+			"il/elle": "formula",
+			"nous": "formulâmes",
+			"vous": "formulâtes",
+			"ils/elles": "formulèrent"
+		},
+		"passé composé": {
+			"j'": "ai formulé",
+			"tu": "as formulé",
+			"il/elle": "a formulé",
+			"nous": "avons formulé",
+			"vous": "avez formulé",
+			"ils/elles": "ont formulé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais formulé",
+			"tu": "avais formulé",
+			"il/elle": "avait formulé",
+			"nous": "avions formulé",
+			"vous": "aviez formulé",
+			"ils/elles": "avaient formulé"
+		},
+		"passé antérieur": {
+			"j'": "eus formulé",
+			"tu": "eus formulé",
+			"il/elle": "eut formulé",
+			"nous": "eûmes formulé",
+			"vous": "eûtes formulé",
+			"ils/elles": "eurent formulé"
+		},
+		"futur antérieur": {
+			"j'": "aurai formulé",
+			"tu": "auras formulé",
+			"il/elle": "aura formulé",
+			"nous": "aurons formulé",
+			"vous": "aurez formulé",
+			"ils/elles": "auront formulé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous formuliez",
+			"qu'il/elle": "formule",
+			"qu'ils/elles": "formulent"
+		},
+		"imparfait": {
+			"que": "vous formulassiez",
+			"qu'il/elle": "formulât",
+			"qu'ils/elles": "formulassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse formulé",
+			"que": "vous eussiez formulé",
+			"qu'il/elle": "eût formulé",
+			"qu'ils/elles": "eussent formulé"
+		},
+		"passé": {
+			"j'": "aie formulé",
+			"que": "vous ayez formulé",
+			"qu'il/elle": "ait formulé",
+			"qu'ils/elles": "aient formulé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "formulerais",
+			"tu": "formulerais",
+			"il/elle": "formulerait",
+			"nous": "formulerions",
+			"vous": "formuleriez",
+			"ils/elles": "formuleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais formulé",
+			"tu": "aurais formulé",
+			"il/elle": "aurait formulé",
+			"nous": "aurions formulé",
+			"vous": "auriez formulé",
+			"ils/elles": "auraient formulé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse formulé",
+			"tu": "eusses formulé",
+			"il/elle": "eût formulé",
+			"nous": "eussions formulé",
+			"vous": "eussiez formulé",
+			"ils/elles": "eussent formulé"
+		}
+	},
+	"participe": {
+		"présent": { "formulant": "" },
+		"passé composé": { "ayant": "formulé" },
+		"passé": {
+			"masc.sg.:": "formulé",
+			"masc.pl.:": "formulés",
+			"fém.sg.:": "formulée",
+			"fém.pl.:": "formulées"
+		}
+	},
+	"imperatif": {
+		"présent": { "formule": "", "formulons": "", "formulez": "" },
+		"passé": { "aie": "formulé", "ayons": "formulé", "ayez": "formulé" }
+	},
+	"infinitif": {
+		"présent": { "formuler": "" },
+		"passé": { "avoir": "formulé" }
+	}
+}

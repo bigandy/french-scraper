@@ -1,0 +1,138 @@
+{
+	"name": "mentir",
+	"definition": "feel; smell; sense; ...",
+	"model": "mentir",
+	"auxiliary": "avoir",
+	"otherForms": "se sentir/ne pas sentir/ne pas se sentir",
+	"indicatif": {
+		"présent": {
+			"je": "sens",
+			"tu": "sens",
+			"il/elle": "sent",
+			"nous": "sentons",
+			"vous": "sentez",
+			"ils/elles": "sentent"
+		},
+		"imparfait": {
+			"je": "sentais",
+			"tu": "sentais",
+			"il/elle": "sentait",
+			"nous": "sentions",
+			"vous": "sentiez",
+			"ils/elles": "sentaient"
+		},
+		"futur": {
+			"je": "sentirai",
+			"tu": "sentiras",
+			"il/elle": "sentira",
+			"nous": "sentirons",
+			"vous": "sentirez",
+			"ils/elles": "sentiront"
+		},
+		"passé simple": {
+			"je": "sentis",
+			"tu": "sentis",
+			"il/elle": "sentit",
+			"nous": "sentîmes",
+			"vous": "sentîtes",
+			"ils/elles": "sentirent"
+		},
+		"passé composé": {
+			"j'": "ai senti",
+			"tu": "as senti",
+			"il/elle": "a senti",
+			"nous": "avons senti",
+			"vous": "avez senti",
+			"ils/elles": "ont senti"
+		},
+		"plus-que-parfait": {
+			"j'": "avais senti",
+			"tu": "avais senti",
+			"il/elle": "avait senti",
+			"nous": "avions senti",
+			"vous": "aviez senti",
+			"ils/elles": "avaient senti"
+		},
+		"passé antérieur": {
+			"j'": "eus senti",
+			"tu": "eus senti",
+			"il/elle": "eut senti",
+			"nous": "eûmes senti",
+			"vous": "eûtes senti",
+			"ils/elles": "eurent senti"
+		},
+		"futur antérieur": {
+			"j'": "aurai senti",
+			"tu": "auras senti",
+			"il/elle": "aura senti",
+			"nous": "aurons senti",
+			"vous": "aurez senti",
+			"ils/elles": "auront senti"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous sentiez",
+			"qu'il/elle": "sente",
+			"qu'ils/elles": "sentent"
+		},
+		"imparfait": {
+			"que": "vous sentissiez",
+			"qu'il/elle": "sentît",
+			"qu'ils/elles": "sentissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse senti",
+			"que": "vous eussiez senti",
+			"qu'il/elle": "eût senti",
+			"qu'ils/elles": "eussent senti"
+		},
+		"passé": {
+			"j'": "aie senti",
+			"que": "vous ayez senti",
+			"qu'il/elle": "ait senti",
+			"qu'ils/elles": "aient senti"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "sentirais",
+			"tu": "sentirais",
+			"il/elle": "sentirait",
+			"nous": "sentirions",
+			"vous": "sentiriez",
+			"ils/elles": "sentiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais senti",
+			"tu": "aurais senti",
+			"il/elle": "aurait senti",
+			"nous": "aurions senti",
+			"vous": "auriez senti",
+			"ils/elles": "auraient senti"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse senti",
+			"tu": "eusses senti",
+			"il/elle": "eût senti",
+			"nous": "eussions senti",
+			"vous": "eussiez senti",
+			"ils/elles": "eussent senti"
+		}
+	},
+	"participe": {
+		"présent": { "sentant": "" },
+		"passé composé": { "ayant": "senti" },
+		"passé": {
+			"masc.sg.:": "senti",
+			"masc.pl.:": "sentis",
+			"fém.sg.:": "sentie",
+			"fém.pl.:": "senties"
+		}
+	},
+	"imperatif": {
+		"présent": { "sens": "", "sentons": "", "sentez": "" },
+		"passé": { "aie": "senti", "ayons": "senti", "ayez": "senti" }
+	},
+	"infinitif": { "présent": { "sentir": "" }, "passé": { "avoir": "senti" } }
+}

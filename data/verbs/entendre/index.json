@@ -1,0 +1,143 @@
+{
+	"name": "attendre",
+	"definition": "hear; listen; ...",
+	"model": "attendre",
+	"auxiliary": "avoir",
+	"otherForms": "s'entendre/ne pas entendre/ne pas s'entendre",
+	"indicatif": {
+		"présent": {
+			"j'": "entends",
+			"tu": "entends",
+			"il/elle": "entend",
+			"nous": "entendons",
+			"vous": "entendez",
+			"ils/elles": "entendent"
+		},
+		"imparfait": {
+			"j'": "entendais",
+			"tu": "entendais",
+			"il/elle": "entendait",
+			"nous": "entendions",
+			"vous": "entendiez",
+			"ils/elles": "entendaient"
+		},
+		"futur": {
+			"j'": "entendrai",
+			"tu": "entendras",
+			"il/elle": "entendra",
+			"nous": "entendrons",
+			"vous": "entendrez",
+			"ils/elles": "entendront"
+		},
+		"passé simple": {
+			"j'": "entendis",
+			"tu": "entendis",
+			"il/elle": "entendit",
+			"nous": "entendîmes",
+			"vous": "entendîtes",
+			"ils/elles": "entendirent"
+		},
+		"passé composé": {
+			"j'": "ai entendu",
+			"tu": "as entendu",
+			"il/elle": "a entendu",
+			"nous": "avons entendu",
+			"vous": "avez entendu",
+			"ils/elles": "ont entendu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais entendu",
+			"tu": "avais entendu",
+			"il/elle": "avait entendu",
+			"nous": "avions entendu",
+			"vous": "aviez entendu",
+			"ils/elles": "avaient entendu"
+		},
+		"passé antérieur": {
+			"j'": "eus entendu",
+			"tu": "eus entendu",
+			"il/elle": "eut entendu",
+			"nous": "eûmes entendu",
+			"vous": "eûtes entendu",
+			"ils/elles": "eurent entendu"
+		},
+		"futur antérieur": {
+			"j'": "aurai entendu",
+			"tu": "auras entendu",
+			"il/elle": "aura entendu",
+			"nous": "aurons entendu",
+			"vous": "aurez entendu",
+			"ils/elles": "auront entendu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "entende",
+			"que": "vous entendiez",
+			"qu'il/elle": "entende",
+			"qu'ils/elles": "entendent"
+		},
+		"imparfait": {
+			"j'": "entendisse",
+			"que": "vous entendissiez",
+			"qu'il/elle": "entendît",
+			"qu'ils/elles": "entendissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse entendu",
+			"que": "vous eussiez entendu",
+			"qu'il/elle": "eût entendu",
+			"qu'ils/elles": "eussent entendu"
+		},
+		"passé": {
+			"j'": "aie entendu",
+			"que": "vous ayez entendu",
+			"qu'il/elle": "ait entendu",
+			"qu'ils/elles": "aient entendu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "entendrais",
+			"tu": "entendrais",
+			"il/elle": "entendrait",
+			"nous": "entendrions",
+			"vous": "entendriez",
+			"ils/elles": "entendraient"
+		},
+		"passé première forme": {
+			"j'": "aurais entendu",
+			"tu": "aurais entendu",
+			"il/elle": "aurait entendu",
+			"nous": "aurions entendu",
+			"vous": "auriez entendu",
+			"ils/elles": "auraient entendu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse entendu",
+			"tu": "eusses entendu",
+			"il/elle": "eût entendu",
+			"nous": "eussions entendu",
+			"vous": "eussiez entendu",
+			"ils/elles": "eussent entendu"
+		}
+	},
+	"participe": {
+		"présent": { "entendant": "" },
+		"passé composé": { "ayant": "entendu" },
+		"passé": {
+			"masc.sg.:": "entendu",
+			"masc.pl.:": "entendus",
+			"fém.sg.:": "entendue",
+			"fém.pl.:": "entendues"
+		}
+	},
+	"imperatif": {
+		"présent": { "entends": "", "entendons": "", "entendez": "" },
+		"passé": { "aie": "entendu", "ayons": "entendu", "ayez": "entendu" }
+	},
+	"infinitif": {
+		"présent": { "entendre": "" },
+		"passé": { "avoir": "entendu" }
+	}
+}

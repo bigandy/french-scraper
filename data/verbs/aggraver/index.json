@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "aggravate; worsen; exacerbate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'aggraver/ne pas aggraver/ne pas s'aggraver",
+	"indicatif": {
+		"présent": {
+			"j'": "aggrave",
+			"tu": "aggraves",
+			"il/elle": "aggrave",
+			"nous": "aggravons",
+			"vous": "aggravez",
+			"ils/elles": "aggravent"
+		},
+		"imparfait": {
+			"j'": "aggravais",
+			"tu": "aggravais",
+			"il/elle": "aggravait",
+			"nous": "aggravions",
+			"vous": "aggraviez",
+			"ils/elles": "aggravaient"
+		},
+		"futur": {
+			"j'": "aggraverai",
+			"tu": "aggraveras",
+			"il/elle": "aggravera",
+			"nous": "aggraverons",
+			"vous": "aggraverez",
+			"ils/elles": "aggraveront"
+		},
+		"passé simple": {
+			"j'": "aggravai",
+			"tu": "aggravas",
+			"il/elle": "aggrava",
+			"nous": "aggravâmes",
+			"vous": "aggravâtes",
+			"ils/elles": "aggravèrent"
+		},
+		"passé composé": {
+			"j'": "ai aggravé",
+			"tu": "as aggravé",
+			"il/elle": "a aggravé",
+			"nous": "avons aggravé",
+			"vous": "avez aggravé",
+			"ils/elles": "ont aggravé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais aggravé",
+			"tu": "avais aggravé",
+			"il/elle": "avait aggravé",
+			"nous": "avions aggravé",
+			"vous": "aviez aggravé",
+			"ils/elles": "avaient aggravé"
+		},
+		"passé antérieur": {
+			"j'": "eus aggravé",
+			"tu": "eus aggravé",
+			"il/elle": "eut aggravé",
+			"nous": "eûmes aggravé",
+			"vous": "eûtes aggravé",
+			"ils/elles": "eurent aggravé"
+		},
+		"futur antérieur": {
+			"j'": "aurai aggravé",
+			"tu": "auras aggravé",
+			"il/elle": "aura aggravé",
+			"nous": "aurons aggravé",
+			"vous": "aurez aggravé",
+			"ils/elles": "auront aggravé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "aggrave",
+			"que": "vous aggraviez",
+			"qu'il/elle": "aggrave",
+			"qu'ils/elles": "aggravent"
+		},
+		"imparfait": {
+			"j'": "aggravasse",
+			"que": "vous aggravassiez",
+			"qu'il/elle": "aggravât",
+			"qu'ils/elles": "aggravassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse aggravé",
+			"que": "vous eussiez aggravé",
+			"qu'il/elle": "eût aggravé",
+			"qu'ils/elles": "eussent aggravé"
+		},
+		"passé": {
+			"j'": "aie aggravé",
+			"que": "vous ayez aggravé",
+			"qu'il/elle": "ait aggravé",
+			"qu'ils/elles": "aient aggravé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "aggraverais",
+			"tu": "aggraverais",
+			"il/elle": "aggraverait",
+			"nous": "aggraverions",
+			"vous": "aggraveriez",
+			"ils/elles": "aggraveraient"
+		},
+		"passé première forme": {
+			"j'": "aurais aggravé",
+			"tu": "aurais aggravé",
+			"il/elle": "aurait aggravé",
+			"nous": "aurions aggravé",
+			"vous": "auriez aggravé",
+			"ils/elles": "auraient aggravé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse aggravé",
+			"tu": "eusses aggravé",
+			"il/elle": "eût aggravé",
+			"nous": "eussions aggravé",
+			"vous": "eussiez aggravé",
+			"ils/elles": "eussent aggravé"
+		}
+	},
+	"participe": {
+		"présent": { "aggravant": "" },
+		"passé composé": { "ayant": "aggravé" },
+		"passé": {
+			"masc.sg.:": "aggravé",
+			"masc.pl.:": "aggravés",
+			"fém.sg.:": "aggravée",
+			"fém.pl.:": "aggravées"
+		}
+	},
+	"imperatif": {
+		"présent": { "aggrave": "", "aggravons": "", "aggravez": "" },
+		"passé": { "aie": "aggravé", "ayons": "aggravé", "ayez": "aggravé" }
+	},
+	"infinitif": {
+		"présent": { "aggraver": "" },
+		"passé": { "avoir": "aggravé" }
+	}
+}

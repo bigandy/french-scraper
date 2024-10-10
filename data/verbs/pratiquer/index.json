@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "practice; practise; perform; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se pratiquer/ne pas pratiquer/ne pas se pratiquer",
+	"indicatif": {
+		"présent": {
+			"je": "pratique",
+			"tu": "pratiques",
+			"il/elle": "pratique",
+			"nous": "pratiquons",
+			"vous": "pratiquez",
+			"ils/elles": "pratiquent"
+		},
+		"imparfait": {
+			"je": "pratiquais",
+			"tu": "pratiquais",
+			"il/elle": "pratiquait",
+			"nous": "pratiquions",
+			"vous": "pratiquiez",
+			"ils/elles": "pratiquaient"
+		},
+		"futur": {
+			"je": "pratiquerai",
+			"tu": "pratiqueras",
+			"il/elle": "pratiquera",
+			"nous": "pratiquerons",
+			"vous": "pratiquerez",
+			"ils/elles": "pratiqueront"
+		},
+		"passé simple": {
+			"je": "pratiquai",
+			"tu": "pratiquas",
+			"il/elle": "pratiqua",
+			"nous": "pratiquâmes",
+			"vous": "pratiquâtes",
+			"ils/elles": "pratiquèrent"
+		},
+		"passé composé": {
+			"j'": "ai pratiqué",
+			"tu": "as pratiqué",
+			"il/elle": "a pratiqué",
+			"nous": "avons pratiqué",
+			"vous": "avez pratiqué",
+			"ils/elles": "ont pratiqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais pratiqué",
+			"tu": "avais pratiqué",
+			"il/elle": "avait pratiqué",
+			"nous": "avions pratiqué",
+			"vous": "aviez pratiqué",
+			"ils/elles": "avaient pratiqué"
+		},
+		"passé antérieur": {
+			"j'": "eus pratiqué",
+			"tu": "eus pratiqué",
+			"il/elle": "eut pratiqué",
+			"nous": "eûmes pratiqué",
+			"vous": "eûtes pratiqué",
+			"ils/elles": "eurent pratiqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai pratiqué",
+			"tu": "auras pratiqué",
+			"il/elle": "aura pratiqué",
+			"nous": "aurons pratiqué",
+			"vous": "aurez pratiqué",
+			"ils/elles": "auront pratiqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous pratiquiez",
+			"qu'il/elle": "pratique",
+			"qu'ils/elles": "pratiquent"
+		},
+		"imparfait": {
+			"que": "vous pratiquassiez",
+			"qu'il/elle": "pratiquât",
+			"qu'ils/elles": "pratiquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse pratiqué",
+			"que": "vous eussiez pratiqué",
+			"qu'il/elle": "eût pratiqué",
+			"qu'ils/elles": "eussent pratiqué"
+		},
+		"passé": {
+			"j'": "aie pratiqué",
+			"que": "vous ayez pratiqué",
+			"qu'il/elle": "ait pratiqué",
+			"qu'ils/elles": "aient pratiqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "pratiquerais",
+			"tu": "pratiquerais",
+			"il/elle": "pratiquerait",
+			"nous": "pratiquerions",
+			"vous": "pratiqueriez",
+			"ils/elles": "pratiqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais pratiqué",
+			"tu": "aurais pratiqué",
+			"il/elle": "aurait pratiqué",
+			"nous": "aurions pratiqué",
+			"vous": "auriez pratiqué",
+			"ils/elles": "auraient pratiqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse pratiqué",
+			"tu": "eusses pratiqué",
+			"il/elle": "eût pratiqué",
+			"nous": "eussions pratiqué",
+			"vous": "eussiez pratiqué",
+			"ils/elles": "eussent pratiqué"
+		}
+	},
+	"participe": {
+		"présent": { "pratiquant": "" },
+		"passé composé": { "ayant": "pratiqué" },
+		"passé": {
+			"masc.sg.:": "pratiqué",
+			"masc.pl.:": "pratiqués",
+			"fém.sg.:": "pratiquée",
+			"fém.pl.:": "pratiquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "pratique": "", "pratiquons": "", "pratiquez": "" },
+		"passé": { "aie": "pratiqué", "ayons": "pratiqué", "ayez": "pratiqué" }
+	},
+	"infinitif": {
+		"présent": { "pratiquer": "" },
+		"passé": { "avoir": "pratiqué" }
+	}
+}

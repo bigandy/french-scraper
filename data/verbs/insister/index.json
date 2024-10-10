@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "insist; stress; emphasize; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas insister",
+	"indicatif": {
+		"présent": {
+			"j'": "insiste",
+			"tu": "insistes",
+			"il/elle": "insiste",
+			"nous": "insistons",
+			"vous": "insistez",
+			"ils/elles": "insistent"
+		},
+		"imparfait": {
+			"j'": "insistais",
+			"tu": "insistais",
+			"il/elle": "insistait",
+			"nous": "insistions",
+			"vous": "insistiez",
+			"ils/elles": "insistaient"
+		},
+		"futur": {
+			"j'": "insisterai",
+			"tu": "insisteras",
+			"il/elle": "insistera",
+			"nous": "insisterons",
+			"vous": "insisterez",
+			"ils/elles": "insisteront"
+		},
+		"passé simple": {
+			"j'": "insistai",
+			"tu": "insistas",
+			"il/elle": "insista",
+			"nous": "insistâmes",
+			"vous": "insistâtes",
+			"ils/elles": "insistèrent"
+		},
+		"passé composé": {
+			"j'": "ai insisté",
+			"tu": "as insisté",
+			"il/elle": "a insisté",
+			"nous": "avons insisté",
+			"vous": "avez insisté",
+			"ils/elles": "ont insisté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais insisté",
+			"tu": "avais insisté",
+			"il/elle": "avait insisté",
+			"nous": "avions insisté",
+			"vous": "aviez insisté",
+			"ils/elles": "avaient insisté"
+		},
+		"passé antérieur": {
+			"j'": "eus insisté",
+			"tu": "eus insisté",
+			"il/elle": "eut insisté",
+			"nous": "eûmes insisté",
+			"vous": "eûtes insisté",
+			"ils/elles": "eurent insisté"
+		},
+		"futur antérieur": {
+			"j'": "aurai insisté",
+			"tu": "auras insisté",
+			"il/elle": "aura insisté",
+			"nous": "aurons insisté",
+			"vous": "aurez insisté",
+			"ils/elles": "auront insisté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "insiste",
+			"que": "vous insistiez",
+			"qu'il/elle": "insiste",
+			"qu'ils/elles": "insistent"
+		},
+		"imparfait": {
+			"j'": "insistasse",
+			"que": "vous insistassiez",
+			"qu'il/elle": "insistât",
+			"qu'ils/elles": "insistassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse insisté",
+			"que": "vous eussiez insisté",
+			"qu'il/elle": "eût insisté",
+			"qu'ils/elles": "eussent insisté"
+		},
+		"passé": {
+			"j'": "aie insisté",
+			"que": "vous ayez insisté",
+			"qu'il/elle": "ait insisté",
+			"qu'ils/elles": "aient insisté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "insisterais",
+			"tu": "insisterais",
+			"il/elle": "insisterait",
+			"nous": "insisterions",
+			"vous": "insisteriez",
+			"ils/elles": "insisteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais insisté",
+			"tu": "aurais insisté",
+			"il/elle": "aurait insisté",
+			"nous": "aurions insisté",
+			"vous": "auriez insisté",
+			"ils/elles": "auraient insisté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse insisté",
+			"tu": "eusses insisté",
+			"il/elle": "eût insisté",
+			"nous": "eussions insisté",
+			"vous": "eussiez insisté",
+			"ils/elles": "eussent insisté"
+		}
+	},
+	"participe": {
+		"présent": { "insistant": "" },
+		"passé composé": { "ayant": "insisté" },
+		"passé": {
+			"masc.sg.:": "insisté",
+			"masc.pl.:": "insistés",
+			"fém.sg.:": "insistée",
+			"fém.pl.:": "insistées"
+		}
+	},
+	"imperatif": {
+		"présent": { "insiste": "", "insistons": "", "insistez": "" },
+		"passé": { "aie": "insisté", "ayons": "insisté", "ayez": "insisté" }
+	},
+	"infinitif": {
+		"présent": { "insister": "" },
+		"passé": { "avoir": "insisté" }
+	}
+}

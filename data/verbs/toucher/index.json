@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "touch; affect; hit; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se toucher/ne pas toucher/ne pas se toucher",
+	"indicatif": {
+		"présent": {
+			"je": "touche",
+			"tu": "touches",
+			"il/elle": "touche",
+			"nous": "touchons",
+			"vous": "touchez",
+			"ils/elles": "touchent"
+		},
+		"imparfait": {
+			"je": "touchais",
+			"tu": "touchais",
+			"il/elle": "touchait",
+			"nous": "touchions",
+			"vous": "touchiez",
+			"ils/elles": "touchaient"
+		},
+		"futur": {
+			"je": "toucherai",
+			"tu": "toucheras",
+			"il/elle": "touchera",
+			"nous": "toucherons",
+			"vous": "toucherez",
+			"ils/elles": "toucheront"
+		},
+		"passé simple": {
+			"je": "touchai",
+			"tu": "touchas",
+			"il/elle": "toucha",
+			"nous": "touchâmes",
+			"vous": "touchâtes",
+			"ils/elles": "touchèrent"
+		},
+		"passé composé": {
+			"j'": "ai touché",
+			"tu": "as touché",
+			"il/elle": "a touché",
+			"nous": "avons touché",
+			"vous": "avez touché",
+			"ils/elles": "ont touché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais touché",
+			"tu": "avais touché",
+			"il/elle": "avait touché",
+			"nous": "avions touché",
+			"vous": "aviez touché",
+			"ils/elles": "avaient touché"
+		},
+		"passé antérieur": {
+			"j'": "eus touché",
+			"tu": "eus touché",
+			"il/elle": "eut touché",
+			"nous": "eûmes touché",
+			"vous": "eûtes touché",
+			"ils/elles": "eurent touché"
+		},
+		"futur antérieur": {
+			"j'": "aurai touché",
+			"tu": "auras touché",
+			"il/elle": "aura touché",
+			"nous": "aurons touché",
+			"vous": "aurez touché",
+			"ils/elles": "auront touché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous touchiez",
+			"qu'il/elle": "touche",
+			"qu'ils/elles": "touchent"
+		},
+		"imparfait": {
+			"que": "vous touchassiez",
+			"qu'il/elle": "touchât",
+			"qu'ils/elles": "touchassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse touché",
+			"que": "vous eussiez touché",
+			"qu'il/elle": "eût touché",
+			"qu'ils/elles": "eussent touché"
+		},
+		"passé": {
+			"j'": "aie touché",
+			"que": "vous ayez touché",
+			"qu'il/elle": "ait touché",
+			"qu'ils/elles": "aient touché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "toucherais",
+			"tu": "toucherais",
+			"il/elle": "toucherait",
+			"nous": "toucherions",
+			"vous": "toucheriez",
+			"ils/elles": "toucheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais touché",
+			"tu": "aurais touché",
+			"il/elle": "aurait touché",
+			"nous": "aurions touché",
+			"vous": "auriez touché",
+			"ils/elles": "auraient touché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse touché",
+			"tu": "eusses touché",
+			"il/elle": "eût touché",
+			"nous": "eussions touché",
+			"vous": "eussiez touché",
+			"ils/elles": "eussent touché"
+		}
+	},
+	"participe": {
+		"présent": { "touchant": "" },
+		"passé composé": { "ayant": "touché" },
+		"passé": {
+			"masc.sg.:": "touché",
+			"masc.pl.:": "touchés",
+			"fém.sg.:": "touchée",
+			"fém.pl.:": "touchées"
+		}
+	},
+	"imperatif": {
+		"présent": { "touche": "", "touchons": "", "touchez": "" },
+		"passé": { "aie": "touché", "ayons": "touché", "ayez": "touché" }
+	},
+	"infinitif": { "présent": { "toucher": "" }, "passé": { "avoir": "touché" } }
+}

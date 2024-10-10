@@ -1,0 +1,146 @@
+{
+	"name": "connaître",
+	"definition": "appear; show; occur; ...",
+	"model": "connaître",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas apparaître",
+	"indicatif": {
+		"présent": {
+			"j'": "apparais",
+			"tu": "apparais",
+			"il/elle": "apparait",
+			"nous": "apparaissons",
+			"vous": "apparaissez",
+			"ils/elles": "apparaissent",
+			"": ""
+		},
+		"imparfait": {
+			"j'": "apparaissais",
+			"tu": "apparaissais",
+			"il/elle": "apparaissait",
+			"nous": "apparaissions",
+			"vous": "apparaissiez",
+			"ils/elles": "apparaissaient"
+		},
+		"futur": {
+			"j'": "apparaîtrai",
+			"tu": "apparaîtras",
+			"il/elle": "apparaitra",
+			"nous": "apparaitrons",
+			"vous": "apparaitrez",
+			"ils/elles": "apparaitront",
+			"": ""
+		},
+		"passé simple": {
+			"j'": "apparus",
+			"tu": "apparus",
+			"il/elle": "apparut",
+			"nous": "apparûmes",
+			"vous": "apparûtes",
+			"ils/elles": "apparurent"
+		},
+		"passé composé": {
+			"j'": "ai apparu",
+			"tu": "as apparu",
+			"il/elle": "a apparu",
+			"nous": "avons apparu",
+			"vous": "avez apparu",
+			"ils/elles": "ont apparu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais apparu",
+			"tu": "avais apparu",
+			"il/elle": "avait apparu",
+			"nous": "avions apparu",
+			"vous": "aviez apparu",
+			"ils/elles": "avaient apparu"
+		},
+		"passé antérieur": {
+			"j'": "eus apparu",
+			"tu": "eus apparu",
+			"il/elle": "eut apparu",
+			"nous": "eûmes apparu",
+			"vous": "eûtes apparu",
+			"ils/elles": "eurent apparu"
+		},
+		"futur antérieur": {
+			"j'": "aurai apparu",
+			"tu": "auras apparu",
+			"il/elle": "aura apparu",
+			"nous": "aurons apparu",
+			"vous": "aurez apparu",
+			"ils/elles": "auront apparu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "apparaisse",
+			"que": "vous apparaissiez",
+			"qu'il/elle": "apparaisse",
+			"qu'ils/elles": "apparaissent"
+		},
+		"imparfait": {
+			"j'": "apparusse",
+			"que": "vous apparussiez",
+			"qu'il/elle": "apparût",
+			"qu'ils/elles": "apparussent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse apparu",
+			"que": "vous eussiez apparu",
+			"qu'il/elle": "eût apparu",
+			"qu'ils/elles": "eussent apparu"
+		},
+		"passé": {
+			"j'": "aie apparu",
+			"que": "vous ayez apparu",
+			"qu'il/elle": "ait apparu",
+			"qu'ils/elles": "aient apparu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "apparaitrais",
+			"tu": "apparaitrais",
+			"il/elle": "apparaitrait",
+			"nous": "apparaitrions",
+			"vous": "apparaitriez",
+			"ils/elles": "apparaitraient",
+			"": ""
+		},
+		"passé première forme": {
+			"j'": "aurais apparu",
+			"tu": "aurais apparu",
+			"il/elle": "aurait apparu",
+			"nous": "aurions apparu",
+			"vous": "auriez apparu",
+			"ils/elles": "auraient apparu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse apparu",
+			"tu": "eusses apparu",
+			"il/elle": "eût apparu",
+			"nous": "eussions apparu",
+			"vous": "eussiez apparu",
+			"ils/elles": "eussent apparu"
+		}
+	},
+	"participe": {
+		"présent": { "apparaissant": "" },
+		"passé composé": { "ayant": "apparu" },
+		"passé": {
+			"masc.sg.:": "apparu",
+			"masc.pl.:": "apparus",
+			"fém.sg.:": "apparue",
+			"fém.pl.:": "apparues"
+		}
+	},
+	"imperatif": {
+		"présent": { "apparais": "", "apparaissons": "", "apparaissez": "" },
+		"passé": { "aie": "apparu", "ayons": "apparu", "ayez": "apparu" }
+	},
+	"infinitif": {
+		"présent": { "apparaître": "" },
+		"passé": { "avoir": "apparu" }
+	}
+}

@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "admire; see; enjoy; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'admirer/ne pas admirer/ne pas s'admirer",
+	"indicatif": {
+		"présent": {
+			"j'": "admire",
+			"tu": "admires",
+			"il/elle": "admire",
+			"nous": "admirons",
+			"vous": "admirez",
+			"ils/elles": "admirent"
+		},
+		"imparfait": {
+			"j'": "admirais",
+			"tu": "admirais",
+			"il/elle": "admirait",
+			"nous": "admirions",
+			"vous": "admiriez",
+			"ils/elles": "admiraient"
+		},
+		"futur": {
+			"j'": "admirerai",
+			"tu": "admireras",
+			"il/elle": "admirera",
+			"nous": "admirerons",
+			"vous": "admirerez",
+			"ils/elles": "admireront"
+		},
+		"passé simple": {
+			"j'": "admirai",
+			"tu": "admiras",
+			"il/elle": "admira",
+			"nous": "admirâmes",
+			"vous": "admirâtes",
+			"ils/elles": "admirèrent"
+		},
+		"passé composé": {
+			"j'": "ai admiré",
+			"tu": "as admiré",
+			"il/elle": "a admiré",
+			"nous": "avons admiré",
+			"vous": "avez admiré",
+			"ils/elles": "ont admiré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais admiré",
+			"tu": "avais admiré",
+			"il/elle": "avait admiré",
+			"nous": "avions admiré",
+			"vous": "aviez admiré",
+			"ils/elles": "avaient admiré"
+		},
+		"passé antérieur": {
+			"j'": "eus admiré",
+			"tu": "eus admiré",
+			"il/elle": "eut admiré",
+			"nous": "eûmes admiré",
+			"vous": "eûtes admiré",
+			"ils/elles": "eurent admiré"
+		},
+		"futur antérieur": {
+			"j'": "aurai admiré",
+			"tu": "auras admiré",
+			"il/elle": "aura admiré",
+			"nous": "aurons admiré",
+			"vous": "aurez admiré",
+			"ils/elles": "auront admiré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "admire",
+			"que": "vous admiriez",
+			"qu'il/elle": "admire",
+			"qu'ils/elles": "admirent"
+		},
+		"imparfait": {
+			"j'": "admirasse",
+			"que": "vous admirassiez",
+			"qu'il/elle": "admirât",
+			"qu'ils/elles": "admirassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse admiré",
+			"que": "vous eussiez admiré",
+			"qu'il/elle": "eût admiré",
+			"qu'ils/elles": "eussent admiré"
+		},
+		"passé": {
+			"j'": "aie admiré",
+			"que": "vous ayez admiré",
+			"qu'il/elle": "ait admiré",
+			"qu'ils/elles": "aient admiré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "admirerais",
+			"tu": "admirerais",
+			"il/elle": "admirerait",
+			"nous": "admirerions",
+			"vous": "admireriez",
+			"ils/elles": "admireraient"
+		},
+		"passé première forme": {
+			"j'": "aurais admiré",
+			"tu": "aurais admiré",
+			"il/elle": "aurait admiré",
+			"nous": "aurions admiré",
+			"vous": "auriez admiré",
+			"ils/elles": "auraient admiré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse admiré",
+			"tu": "eusses admiré",
+			"il/elle": "eût admiré",
+			"nous": "eussions admiré",
+			"vous": "eussiez admiré",
+			"ils/elles": "eussent admiré"
+		}
+	},
+	"participe": {
+		"présent": { "admirant": "" },
+		"passé composé": { "ayant": "admiré" },
+		"passé": {
+			"masc.sg.:": "admiré",
+			"masc.pl.:": "admirés",
+			"fém.sg.:": "admirée",
+			"fém.pl.:": "admirées"
+		}
+	},
+	"imperatif": {
+		"présent": { "admire": "", "admirons": "", "admirez": "" },
+		"passé": { "aie": "admiré", "ayons": "admiré", "ayez": "admiré" }
+	},
+	"infinitif": { "présent": { "admirer": "" }, "passé": { "avoir": "admiré" } }
+}

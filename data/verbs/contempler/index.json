@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "contemplate; behold; admire; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se contempler/ne pas contempler/ne pas se contempler",
+	"indicatif": {
+		"présent": {
+			"je": "contemple",
+			"tu": "contemples",
+			"il/elle": "contemple",
+			"nous": "contemplons",
+			"vous": "contemplez",
+			"ils/elles": "contemplent"
+		},
+		"imparfait": {
+			"je": "contemplais",
+			"tu": "contemplais",
+			"il/elle": "contemplait",
+			"nous": "contemplions",
+			"vous": "contempliez",
+			"ils/elles": "contemplaient"
+		},
+		"futur": {
+			"je": "contemplerai",
+			"tu": "contempleras",
+			"il/elle": "contemplera",
+			"nous": "contemplerons",
+			"vous": "contemplerez",
+			"ils/elles": "contempleront"
+		},
+		"passé simple": {
+			"je": "contemplai",
+			"tu": "contemplas",
+			"il/elle": "contempla",
+			"nous": "contemplâmes",
+			"vous": "contemplâtes",
+			"ils/elles": "contemplèrent"
+		},
+		"passé composé": {
+			"j'": "ai contemplé",
+			"tu": "as contemplé",
+			"il/elle": "a contemplé",
+			"nous": "avons contemplé",
+			"vous": "avez contemplé",
+			"ils/elles": "ont contemplé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais contemplé",
+			"tu": "avais contemplé",
+			"il/elle": "avait contemplé",
+			"nous": "avions contemplé",
+			"vous": "aviez contemplé",
+			"ils/elles": "avaient contemplé"
+		},
+		"passé antérieur": {
+			"j'": "eus contemplé",
+			"tu": "eus contemplé",
+			"il/elle": "eut contemplé",
+			"nous": "eûmes contemplé",
+			"vous": "eûtes contemplé",
+			"ils/elles": "eurent contemplé"
+		},
+		"futur antérieur": {
+			"j'": "aurai contemplé",
+			"tu": "auras contemplé",
+			"il/elle": "aura contemplé",
+			"nous": "aurons contemplé",
+			"vous": "aurez contemplé",
+			"ils/elles": "auront contemplé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous contempliez",
+			"qu'il/elle": "contemple",
+			"qu'ils/elles": "contemplent"
+		},
+		"imparfait": {
+			"que": "vous contemplassiez",
+			"qu'il/elle": "contemplât",
+			"qu'ils/elles": "contemplassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse contemplé",
+			"que": "vous eussiez contemplé",
+			"qu'il/elle": "eût contemplé",
+			"qu'ils/elles": "eussent contemplé"
+		},
+		"passé": {
+			"j'": "aie contemplé",
+			"que": "vous ayez contemplé",
+			"qu'il/elle": "ait contemplé",
+			"qu'ils/elles": "aient contemplé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "contemplerais",
+			"tu": "contemplerais",
+			"il/elle": "contemplerait",
+			"nous": "contemplerions",
+			"vous": "contempleriez",
+			"ils/elles": "contempleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais contemplé",
+			"tu": "aurais contemplé",
+			"il/elle": "aurait contemplé",
+			"nous": "aurions contemplé",
+			"vous": "auriez contemplé",
+			"ils/elles": "auraient contemplé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse contemplé",
+			"tu": "eusses contemplé",
+			"il/elle": "eût contemplé",
+			"nous": "eussions contemplé",
+			"vous": "eussiez contemplé",
+			"ils/elles": "eussent contemplé"
+		}
+	},
+	"participe": {
+		"présent": { "contemplant": "" },
+		"passé composé": { "ayant": "contemplé" },
+		"passé": {
+			"masc.sg.:": "contemplé",
+			"masc.pl.:": "contemplés",
+			"fém.sg.:": "contemplée",
+			"fém.pl.:": "contemplées"
+		}
+	},
+	"imperatif": {
+		"présent": { "contemple": "", "contemplons": "", "contemplez": "" },
+		"passé": { "aie": "contemplé", "ayons": "contemplé", "ayez": "contemplé" }
+	},
+	"infinitif": {
+		"présent": { "contempler": "" },
+		"passé": { "avoir": "contemplé" }
+	}
+}

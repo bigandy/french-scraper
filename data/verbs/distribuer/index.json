@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "distribute; dispense; deliver; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se distribuer/ne pas distribuer/ne pas se distribuer",
+	"indicatif": {
+		"présent": {
+			"je": "distribue",
+			"tu": "distribues",
+			"il/elle": "distribue",
+			"nous": "distribuons",
+			"vous": "distribuez",
+			"ils/elles": "distribuent"
+		},
+		"imparfait": {
+			"je": "distribuais",
+			"tu": "distribuais",
+			"il/elle": "distribuait",
+			"nous": "distribuions",
+			"vous": "distribuiez",
+			"ils/elles": "distribuaient"
+		},
+		"futur": {
+			"je": "distribuerai",
+			"tu": "distribueras",
+			"il/elle": "distribuera",
+			"nous": "distribuerons",
+			"vous": "distribuerez",
+			"ils/elles": "distribueront"
+		},
+		"passé simple": {
+			"je": "distribuai",
+			"tu": "distribuas",
+			"il/elle": "distribua",
+			"nous": "distribuâmes",
+			"vous": "distribuâtes",
+			"ils/elles": "distribuèrent"
+		},
+		"passé composé": {
+			"j'": "ai distribué",
+			"tu": "as distribué",
+			"il/elle": "a distribué",
+			"nous": "avons distribué",
+			"vous": "avez distribué",
+			"ils/elles": "ont distribué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais distribué",
+			"tu": "avais distribué",
+			"il/elle": "avait distribué",
+			"nous": "avions distribué",
+			"vous": "aviez distribué",
+			"ils/elles": "avaient distribué"
+		},
+		"passé antérieur": {
+			"j'": "eus distribué",
+			"tu": "eus distribué",
+			"il/elle": "eut distribué",
+			"nous": "eûmes distribué",
+			"vous": "eûtes distribué",
+			"ils/elles": "eurent distribué"
+		},
+		"futur antérieur": {
+			"j'": "aurai distribué",
+			"tu": "auras distribué",
+			"il/elle": "aura distribué",
+			"nous": "aurons distribué",
+			"vous": "aurez distribué",
+			"ils/elles": "auront distribué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous distribuiez",
+			"qu'il/elle": "distribue",
+			"qu'ils/elles": "distribuent"
+		},
+		"imparfait": {
+			"que": "vous distribuassiez",
+			"qu'il/elle": "distribuât",
+			"qu'ils/elles": "distribuassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse distribué",
+			"que": "vous eussiez distribué",
+			"qu'il/elle": "eût distribué",
+			"qu'ils/elles": "eussent distribué"
+		},
+		"passé": {
+			"j'": "aie distribué",
+			"que": "vous ayez distribué",
+			"qu'il/elle": "ait distribué",
+			"qu'ils/elles": "aient distribué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "distribuerais",
+			"tu": "distribuerais",
+			"il/elle": "distribuerait",
+			"nous": "distribuerions",
+			"vous": "distribueriez",
+			"ils/elles": "distribueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais distribué",
+			"tu": "aurais distribué",
+			"il/elle": "aurait distribué",
+			"nous": "aurions distribué",
+			"vous": "auriez distribué",
+			"ils/elles": "auraient distribué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse distribué",
+			"tu": "eusses distribué",
+			"il/elle": "eût distribué",
+			"nous": "eussions distribué",
+			"vous": "eussiez distribué",
+			"ils/elles": "eussent distribué"
+		}
+	},
+	"participe": {
+		"présent": { "distribuant": "" },
+		"passé composé": { "ayant": "distribué" },
+		"passé": {
+			"masc.sg.:": "distribué",
+			"masc.pl.:": "distribués",
+			"fém.sg.:": "distribuée",
+			"fém.pl.:": "distribuées"
+		}
+	},
+	"imperatif": {
+		"présent": { "distribue": "", "distribuons": "", "distribuez": "" },
+		"passé": { "aie": "distribué", "ayons": "distribué", "ayez": "distribué" }
+	},
+	"infinitif": {
+		"présent": { "distribuer": "" },
+		"passé": { "avoir": "distribué" }
+	}
+}

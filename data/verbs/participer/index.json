@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "participate; take part; attend; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas participer",
+	"indicatif": {
+		"présent": {
+			"je": "participe",
+			"tu": "participes",
+			"il/elle": "participe",
+			"nous": "participons",
+			"vous": "participez",
+			"ils/elles": "participent"
+		},
+		"imparfait": {
+			"je": "participais",
+			"tu": "participais",
+			"il/elle": "participait",
+			"nous": "participions",
+			"vous": "participiez",
+			"ils/elles": "participaient"
+		},
+		"futur": {
+			"je": "participerai",
+			"tu": "participeras",
+			"il/elle": "participera",
+			"nous": "participerons",
+			"vous": "participerez",
+			"ils/elles": "participeront"
+		},
+		"passé simple": {
+			"je": "participai",
+			"tu": "participas",
+			"il/elle": "participa",
+			"nous": "participâmes",
+			"vous": "participâtes",
+			"ils/elles": "participèrent"
+		},
+		"passé composé": {
+			"j'": "ai participé",
+			"tu": "as participé",
+			"il/elle": "a participé",
+			"nous": "avons participé",
+			"vous": "avez participé",
+			"ils/elles": "ont participé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais participé",
+			"tu": "avais participé",
+			"il/elle": "avait participé",
+			"nous": "avions participé",
+			"vous": "aviez participé",
+			"ils/elles": "avaient participé"
+		},
+		"passé antérieur": {
+			"j'": "eus participé",
+			"tu": "eus participé",
+			"il/elle": "eut participé",
+			"nous": "eûmes participé",
+			"vous": "eûtes participé",
+			"ils/elles": "eurent participé"
+		},
+		"futur antérieur": {
+			"j'": "aurai participé",
+			"tu": "auras participé",
+			"il/elle": "aura participé",
+			"nous": "aurons participé",
+			"vous": "aurez participé",
+			"ils/elles": "auront participé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous participiez",
+			"qu'il/elle": "participe",
+			"qu'ils/elles": "participent"
+		},
+		"imparfait": {
+			"que": "vous participassiez",
+			"qu'il/elle": "participât",
+			"qu'ils/elles": "participassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse participé",
+			"que": "vous eussiez participé",
+			"qu'il/elle": "eût participé",
+			"qu'ils/elles": "eussent participé"
+		},
+		"passé": {
+			"j'": "aie participé",
+			"que": "vous ayez participé",
+			"qu'il/elle": "ait participé",
+			"qu'ils/elles": "aient participé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "participerais",
+			"tu": "participerais",
+			"il/elle": "participerait",
+			"nous": "participerions",
+			"vous": "participeriez",
+			"ils/elles": "participeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais participé",
+			"tu": "aurais participé",
+			"il/elle": "aurait participé",
+			"nous": "aurions participé",
+			"vous": "auriez participé",
+			"ils/elles": "auraient participé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse participé",
+			"tu": "eusses participé",
+			"il/elle": "eût participé",
+			"nous": "eussions participé",
+			"vous": "eussiez participé",
+			"ils/elles": "eussent participé"
+		}
+	},
+	"participe": {
+		"présent": { "participant": "" },
+		"passé composé": { "ayant": "participé" },
+		"passé": {
+			"masc.sg.:": "participé",
+			"masc.pl.:": "participés",
+			"fém.sg.:": "participée",
+			"fém.pl.:": "participées"
+		}
+	},
+	"imperatif": {
+		"présent": { "participe": "", "participons": "", "participez": "" },
+		"passé": { "aie": "participé", "ayons": "participé", "ayez": "participé" }
+	},
+	"infinitif": {
+		"présent": { "participer": "" },
+		"passé": { "avoir": "participé" }
+	}
+}

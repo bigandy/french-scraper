@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "kill; shoot; murder; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se tuer/ne pas tuer/ne pas se tuer",
+	"indicatif": {
+		"présent": {
+			"je": "tue",
+			"tu": "tues",
+			"il/elle": "tue",
+			"nous": "tuons",
+			"vous": "tuez",
+			"ils/elles": "tuent"
+		},
+		"imparfait": {
+			"je": "tuais",
+			"tu": "tuais",
+			"il/elle": "tuait",
+			"nous": "tuions",
+			"vous": "tuiez",
+			"ils/elles": "tuaient"
+		},
+		"futur": {
+			"je": "tuerai",
+			"tu": "tueras",
+			"il/elle": "tuera",
+			"nous": "tuerons",
+			"vous": "tuerez",
+			"ils/elles": "tueront"
+		},
+		"passé simple": {
+			"je": "tuai",
+			"tu": "tuas",
+			"il/elle": "tua",
+			"nous": "tuâmes",
+			"vous": "tuâtes",
+			"ils/elles": "tuèrent"
+		},
+		"passé composé": {
+			"j'": "ai tué",
+			"tu": "as tué",
+			"il/elle": "a tué",
+			"nous": "avons tué",
+			"vous": "avez tué",
+			"ils/elles": "ont tué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais tué",
+			"tu": "avais tué",
+			"il/elle": "avait tué",
+			"nous": "avions tué",
+			"vous": "aviez tué",
+			"ils/elles": "avaient tué"
+		},
+		"passé antérieur": {
+			"j'": "eus tué",
+			"tu": "eus tué",
+			"il/elle": "eut tué",
+			"nous": "eûmes tué",
+			"vous": "eûtes tué",
+			"ils/elles": "eurent tué"
+		},
+		"futur antérieur": {
+			"j'": "aurai tué",
+			"tu": "auras tué",
+			"il/elle": "aura tué",
+			"nous": "aurons tué",
+			"vous": "aurez tué",
+			"ils/elles": "auront tué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous tuiez",
+			"qu'il/elle": "tue",
+			"qu'ils/elles": "tuent"
+		},
+		"imparfait": {
+			"que": "vous tuassiez",
+			"qu'il/elle": "tuât",
+			"qu'ils/elles": "tuassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse tué",
+			"que": "vous eussiez tué",
+			"qu'il/elle": "eût tué",
+			"qu'ils/elles": "eussent tué"
+		},
+		"passé": {
+			"j'": "aie tué",
+			"que": "vous ayez tué",
+			"qu'il/elle": "ait tué",
+			"qu'ils/elles": "aient tué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "tuerais",
+			"tu": "tuerais",
+			"il/elle": "tuerait",
+			"nous": "tuerions",
+			"vous": "tueriez",
+			"ils/elles": "tueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais tué",
+			"tu": "aurais tué",
+			"il/elle": "aurait tué",
+			"nous": "aurions tué",
+			"vous": "auriez tué",
+			"ils/elles": "auraient tué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse tué",
+			"tu": "eusses tué",
+			"il/elle": "eût tué",
+			"nous": "eussions tué",
+			"vous": "eussiez tué",
+			"ils/elles": "eussent tué"
+		}
+	},
+	"participe": {
+		"présent": { "tuant": "" },
+		"passé composé": { "ayant": "tué" },
+		"passé": {
+			"masc.sg.:": "tué",
+			"masc.pl.:": "tués",
+			"fém.sg.:": "tuée",
+			"fém.pl.:": "tuées"
+		}
+	},
+	"imperatif": {
+		"présent": { "tue": "", "tuons": "", "tuez": "" },
+		"passé": { "aie": "tué", "ayons": "tué", "ayez": "tué" }
+	},
+	"infinitif": { "présent": { "tuer": "" }, "passé": { "avoir": "tué" } }
+}

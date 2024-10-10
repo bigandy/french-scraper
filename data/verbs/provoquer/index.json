@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "cause; provoke; induce; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se provoquer/ne pas provoquer/ne pas se provoquer",
+	"indicatif": {
+		"présent": {
+			"je": "provoque",
+			"tu": "provoques",
+			"il/elle": "provoque",
+			"nous": "provoquons",
+			"vous": "provoquez",
+			"ils/elles": "provoquent"
+		},
+		"imparfait": {
+			"je": "provoquais",
+			"tu": "provoquais",
+			"il/elle": "provoquait",
+			"nous": "provoquions",
+			"vous": "provoquiez",
+			"ils/elles": "provoquaient"
+		},
+		"futur": {
+			"je": "provoquerai",
+			"tu": "provoqueras",
+			"il/elle": "provoquera",
+			"nous": "provoquerons",
+			"vous": "provoquerez",
+			"ils/elles": "provoqueront"
+		},
+		"passé simple": {
+			"je": "provoquai",
+			"tu": "provoquas",
+			"il/elle": "provoqua",
+			"nous": "provoquâmes",
+			"vous": "provoquâtes",
+			"ils/elles": "provoquèrent"
+		},
+		"passé composé": {
+			"j'": "ai provoqué",
+			"tu": "as provoqué",
+			"il/elle": "a provoqué",
+			"nous": "avons provoqué",
+			"vous": "avez provoqué",
+			"ils/elles": "ont provoqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais provoqué",
+			"tu": "avais provoqué",
+			"il/elle": "avait provoqué",
+			"nous": "avions provoqué",
+			"vous": "aviez provoqué",
+			"ils/elles": "avaient provoqué"
+		},
+		"passé antérieur": {
+			"j'": "eus provoqué",
+			"tu": "eus provoqué",
+			"il/elle": "eut provoqué",
+			"nous": "eûmes provoqué",
+			"vous": "eûtes provoqué",
+			"ils/elles": "eurent provoqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai provoqué",
+			"tu": "auras provoqué",
+			"il/elle": "aura provoqué",
+			"nous": "aurons provoqué",
+			"vous": "aurez provoqué",
+			"ils/elles": "auront provoqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous provoquiez",
+			"qu'il/elle": "provoque",
+			"qu'ils/elles": "provoquent"
+		},
+		"imparfait": {
+			"que": "vous provoquassiez",
+			"qu'il/elle": "provoquât",
+			"qu'ils/elles": "provoquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse provoqué",
+			"que": "vous eussiez provoqué",
+			"qu'il/elle": "eût provoqué",
+			"qu'ils/elles": "eussent provoqué"
+		},
+		"passé": {
+			"j'": "aie provoqué",
+			"que": "vous ayez provoqué",
+			"qu'il/elle": "ait provoqué",
+			"qu'ils/elles": "aient provoqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "provoquerais",
+			"tu": "provoquerais",
+			"il/elle": "provoquerait",
+			"nous": "provoquerions",
+			"vous": "provoqueriez",
+			"ils/elles": "provoqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais provoqué",
+			"tu": "aurais provoqué",
+			"il/elle": "aurait provoqué",
+			"nous": "aurions provoqué",
+			"vous": "auriez provoqué",
+			"ils/elles": "auraient provoqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse provoqué",
+			"tu": "eusses provoqué",
+			"il/elle": "eût provoqué",
+			"nous": "eussions provoqué",
+			"vous": "eussiez provoqué",
+			"ils/elles": "eussent provoqué"
+		}
+	},
+	"participe": {
+		"présent": { "provoquant": "" },
+		"passé composé": { "ayant": "provoqué" },
+		"passé": {
+			"masc.sg.:": "provoqué",
+			"masc.pl.:": "provoqués",
+			"fém.sg.:": "provoquée",
+			"fém.pl.:": "provoquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "provoque": "", "provoquons": "", "provoquez": "" },
+		"passé": { "aie": "provoqué", "ayons": "provoqué", "ayez": "provoqué" }
+	},
+	"infinitif": {
+		"présent": { "provoquer": "" },
+		"passé": { "avoir": "provoqué" }
+	}
+}

@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "quantify; quantize; quantitate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se quantifier/ne pas quantifier/ne pas se quantifier",
+	"indicatif": {
+		"présent": {
+			"je": "quantifie",
+			"tu": "quantifies",
+			"il/elle": "quantifie",
+			"nous": "quantifions",
+			"vous": "quantifiez",
+			"ils/elles": "quantifient"
+		},
+		"imparfait": {
+			"je": "quantifiais",
+			"tu": "quantifiais",
+			"il/elle": "quantifiait",
+			"nous": "quantifiions",
+			"vous": "quantifiiez",
+			"ils/elles": "quantifiaient"
+		},
+		"futur": {
+			"je": "quantifierai",
+			"tu": "quantifieras",
+			"il/elle": "quantifiera",
+			"nous": "quantifierons",
+			"vous": "quantifierez",
+			"ils/elles": "quantifieront"
+		},
+		"passé simple": {
+			"je": "quantifiai",
+			"tu": "quantifias",
+			"il/elle": "quantifia",
+			"nous": "quantifiâmes",
+			"vous": "quantifiâtes",
+			"ils/elles": "quantifièrent"
+		},
+		"passé composé": {
+			"j'": "ai quantifié",
+			"tu": "as quantifié",
+			"il/elle": "a quantifié",
+			"nous": "avons quantifié",
+			"vous": "avez quantifié",
+			"ils/elles": "ont quantifié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais quantifié",
+			"tu": "avais quantifié",
+			"il/elle": "avait quantifié",
+			"nous": "avions quantifié",
+			"vous": "aviez quantifié",
+			"ils/elles": "avaient quantifié"
+		},
+		"passé antérieur": {
+			"j'": "eus quantifié",
+			"tu": "eus quantifié",
+			"il/elle": "eut quantifié",
+			"nous": "eûmes quantifié",
+			"vous": "eûtes quantifié",
+			"ils/elles": "eurent quantifié"
+		},
+		"futur antérieur": {
+			"j'": "aurai quantifié",
+			"tu": "auras quantifié",
+			"il/elle": "aura quantifié",
+			"nous": "aurons quantifié",
+			"vous": "aurez quantifié",
+			"ils/elles": "auront quantifié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous quantifiiez",
+			"qu'il/elle": "quantifie",
+			"qu'ils/elles": "quantifient"
+		},
+		"imparfait": {
+			"que": "vous quantifiassiez",
+			"qu'il/elle": "quantifiât",
+			"qu'ils/elles": "quantifiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse quantifié",
+			"que": "vous eussiez quantifié",
+			"qu'il/elle": "eût quantifié",
+			"qu'ils/elles": "eussent quantifié"
+		},
+		"passé": {
+			"j'": "aie quantifié",
+			"que": "vous ayez quantifié",
+			"qu'il/elle": "ait quantifié",
+			"qu'ils/elles": "aient quantifié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "quantifierais",
+			"tu": "quantifierais",
+			"il/elle": "quantifierait",
+			"nous": "quantifierions",
+			"vous": "quantifieriez",
+			"ils/elles": "quantifieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais quantifié",
+			"tu": "aurais quantifié",
+			"il/elle": "aurait quantifié",
+			"nous": "aurions quantifié",
+			"vous": "auriez quantifié",
+			"ils/elles": "auraient quantifié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse quantifié",
+			"tu": "eusses quantifié",
+			"il/elle": "eût quantifié",
+			"nous": "eussions quantifié",
+			"vous": "eussiez quantifié",
+			"ils/elles": "eussent quantifié"
+		}
+	},
+	"participe": {
+		"présent": { "quantifiant": "" },
+		"passé composé": { "ayant": "quantifié" },
+		"passé": {
+			"masc.sg.:": "quantifié",
+			"masc.pl.:": "quantifiés",
+			"fém.sg.:": "quantifiée",
+			"fém.pl.:": "quantifiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "quantifie": "", "quantifions": "", "quantifiez": "" },
+		"passé": { "aie": "quantifié", "ayons": "quantifié", "ayez": "quantifié" }
+	},
+	"infinitif": {
+		"présent": { "quantifier": "" },
+		"passé": { "avoir": "quantifié" }
+	}
+}

@@ -1,0 +1,141 @@
+{
+	"name": "attendre",
+	"definition": "claim; pretend; argue; ...",
+	"model": "attendre",
+	"auxiliary": "avoir",
+	"otherForms": "se prétendre/ne pas prétendre/ne pas se prétendre",
+	"indicatif": {
+		"présent": {
+			"je": "prétends",
+			"tu": "prétends",
+			"il/elle": "prétend",
+			"nous": "prétendons",
+			"vous": "prétendez",
+			"ils/elles": "prétendent"
+		},
+		"imparfait": {
+			"je": "prétendais",
+			"tu": "prétendais",
+			"il/elle": "prétendait",
+			"nous": "prétendions",
+			"vous": "prétendiez",
+			"ils/elles": "prétendaient"
+		},
+		"futur": {
+			"je": "prétendrai",
+			"tu": "prétendras",
+			"il/elle": "prétendra",
+			"nous": "prétendrons",
+			"vous": "prétendrez",
+			"ils/elles": "prétendront"
+		},
+		"passé simple": {
+			"je": "prétendis",
+			"tu": "prétendis",
+			"il/elle": "prétendit",
+			"nous": "prétendîmes",
+			"vous": "prétendîtes",
+			"ils/elles": "prétendirent"
+		},
+		"passé composé": {
+			"j'": "ai prétendu",
+			"tu": "as prétendu",
+			"il/elle": "a prétendu",
+			"nous": "avons prétendu",
+			"vous": "avez prétendu",
+			"ils/elles": "ont prétendu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais prétendu",
+			"tu": "avais prétendu",
+			"il/elle": "avait prétendu",
+			"nous": "avions prétendu",
+			"vous": "aviez prétendu",
+			"ils/elles": "avaient prétendu"
+		},
+		"passé antérieur": {
+			"j'": "eus prétendu",
+			"tu": "eus prétendu",
+			"il/elle": "eut prétendu",
+			"nous": "eûmes prétendu",
+			"vous": "eûtes prétendu",
+			"ils/elles": "eurent prétendu"
+		},
+		"futur antérieur": {
+			"j'": "aurai prétendu",
+			"tu": "auras prétendu",
+			"il/elle": "aura prétendu",
+			"nous": "aurons prétendu",
+			"vous": "aurez prétendu",
+			"ils/elles": "auront prétendu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous prétendiez",
+			"qu'il/elle": "prétende",
+			"qu'ils/elles": "prétendent"
+		},
+		"imparfait": {
+			"que": "vous prétendissiez",
+			"qu'il/elle": "prétendît",
+			"qu'ils/elles": "prétendissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse prétendu",
+			"que": "vous eussiez prétendu",
+			"qu'il/elle": "eût prétendu",
+			"qu'ils/elles": "eussent prétendu"
+		},
+		"passé": {
+			"j'": "aie prétendu",
+			"que": "vous ayez prétendu",
+			"qu'il/elle": "ait prétendu",
+			"qu'ils/elles": "aient prétendu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "prétendrais",
+			"tu": "prétendrais",
+			"il/elle": "prétendrait",
+			"nous": "prétendrions",
+			"vous": "prétendriez",
+			"ils/elles": "prétendraient"
+		},
+		"passé première forme": {
+			"j'": "aurais prétendu",
+			"tu": "aurais prétendu",
+			"il/elle": "aurait prétendu",
+			"nous": "aurions prétendu",
+			"vous": "auriez prétendu",
+			"ils/elles": "auraient prétendu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse prétendu",
+			"tu": "eusses prétendu",
+			"il/elle": "eût prétendu",
+			"nous": "eussions prétendu",
+			"vous": "eussiez prétendu",
+			"ils/elles": "eussent prétendu"
+		}
+	},
+	"participe": {
+		"présent": { "prétendant": "" },
+		"passé composé": { "ayant": "prétendu" },
+		"passé": {
+			"masc.sg.:": "prétendu",
+			"masc.pl.:": "prétendus",
+			"fém.sg.:": "prétendue",
+			"fém.pl.:": "prétendues"
+		}
+	},
+	"imperatif": {
+		"présent": { "prétends": "", "prétendons": "", "prétendez": "" },
+		"passé": { "aie": "prétendu", "ayons": "prétendu", "ayez": "prétendu" }
+	},
+	"infinitif": {
+		"présent": { "prétendre": "" },
+		"passé": { "avoir": "prétendu" }
+	}
+}

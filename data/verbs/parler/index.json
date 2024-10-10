@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "talk to; talk; speak; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se parler/ne pas parler/ne pas se parler",
+	"indicatif": {
+		"présent": {
+			"je": "parle",
+			"tu": "parles",
+			"il/elle": "parle",
+			"nous": "parlons",
+			"vous": "parlez",
+			"ils/elles": "parlent"
+		},
+		"imparfait": {
+			"je": "parlais",
+			"tu": "parlais",
+			"il/elle": "parlait",
+			"nous": "parlions",
+			"vous": "parliez",
+			"ils/elles": "parlaient"
+		},
+		"futur": {
+			"je": "parlerai",
+			"tu": "parleras",
+			"il/elle": "parlera",
+			"nous": "parlerons",
+			"vous": "parlerez",
+			"ils/elles": "parleront"
+		},
+		"passé simple": {
+			"je": "parlai",
+			"tu": "parlas",
+			"il/elle": "parla",
+			"nous": "parlâmes",
+			"vous": "parlâtes",
+			"ils/elles": "parlèrent"
+		},
+		"passé composé": {
+			"j'": "ai parlé",
+			"tu": "as parlé",
+			"il/elle": "a parlé",
+			"nous": "avons parlé",
+			"vous": "avez parlé",
+			"ils/elles": "ont parlé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais parlé",
+			"tu": "avais parlé",
+			"il/elle": "avait parlé",
+			"nous": "avions parlé",
+			"vous": "aviez parlé",
+			"ils/elles": "avaient parlé"
+		},
+		"passé antérieur": {
+			"j'": "eus parlé",
+			"tu": "eus parlé",
+			"il/elle": "eut parlé",
+			"nous": "eûmes parlé",
+			"vous": "eûtes parlé",
+			"ils/elles": "eurent parlé"
+		},
+		"futur antérieur": {
+			"j'": "aurai parlé",
+			"tu": "auras parlé",
+			"il/elle": "aura parlé",
+			"nous": "aurons parlé",
+			"vous": "aurez parlé",
+			"ils/elles": "auront parlé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous parliez",
+			"qu'il/elle": "parle",
+			"qu'ils/elles": "parlent"
+		},
+		"imparfait": {
+			"que": "vous parlassiez",
+			"qu'il/elle": "parlât",
+			"qu'ils/elles": "parlassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse parlé",
+			"que": "vous eussiez parlé",
+			"qu'il/elle": "eût parlé",
+			"qu'ils/elles": "eussent parlé"
+		},
+		"passé": {
+			"j'": "aie parlé",
+			"que": "vous ayez parlé",
+			"qu'il/elle": "ait parlé",
+			"qu'ils/elles": "aient parlé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "parlerais",
+			"tu": "parlerais",
+			"il/elle": "parlerait",
+			"nous": "parlerions",
+			"vous": "parleriez",
+			"ils/elles": "parleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais parlé",
+			"tu": "aurais parlé",
+			"il/elle": "aurait parlé",
+			"nous": "aurions parlé",
+			"vous": "auriez parlé",
+			"ils/elles": "auraient parlé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse parlé",
+			"tu": "eusses parlé",
+			"il/elle": "eût parlé",
+			"nous": "eussions parlé",
+			"vous": "eussiez parlé",
+			"ils/elles": "eussent parlé"
+		}
+	},
+	"participe": {
+		"présent": { "parlant": "" },
+		"passé composé": { "ayant": "parlé" },
+		"passé": {
+			"masc.sg.:": "parlé",
+			"masc.pl.:": "parlés",
+			"fém.sg.:": "parlée",
+			"fém.pl.:": "parlées"
+		}
+	},
+	"imperatif": {
+		"présent": { "parle": "", "parlons": "", "parlez": "" },
+		"passé": { "aie": "parlé", "ayons": "parlé", "ayez": "parlé" }
+	},
+	"infinitif": { "présent": { "parler": "" }, "passé": { "avoir": "parlé" } }
+}

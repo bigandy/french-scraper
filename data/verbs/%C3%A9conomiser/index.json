@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "save; conserve; save money; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'économiser/ne pas économiser/ne pas s'économiser",
+	"indicatif": {
+		"présent": {
+			"j'": "économise",
+			"tu": "économises",
+			"il/elle": "économise",
+			"nous": "économisons",
+			"vous": "économisez",
+			"ils/elles": "économisent"
+		},
+		"imparfait": {
+			"j'": "économisais",
+			"tu": "économisais",
+			"il/elle": "économisait",
+			"nous": "économisions",
+			"vous": "économisiez",
+			"ils/elles": "économisaient"
+		},
+		"futur": {
+			"j'": "économiserai",
+			"tu": "économiseras",
+			"il/elle": "économisera",
+			"nous": "économiserons",
+			"vous": "économiserez",
+			"ils/elles": "économiseront"
+		},
+		"passé simple": {
+			"j'": "économisai",
+			"tu": "économisas",
+			"il/elle": "économisa",
+			"nous": "économisâmes",
+			"vous": "économisâtes",
+			"ils/elles": "économisèrent"
+		},
+		"passé composé": {
+			"j'": "ai économisé",
+			"tu": "as économisé",
+			"il/elle": "a économisé",
+			"nous": "avons économisé",
+			"vous": "avez économisé",
+			"ils/elles": "ont économisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais économisé",
+			"tu": "avais économisé",
+			"il/elle": "avait économisé",
+			"nous": "avions économisé",
+			"vous": "aviez économisé",
+			"ils/elles": "avaient économisé"
+		},
+		"passé antérieur": {
+			"j'": "eus économisé",
+			"tu": "eus économisé",
+			"il/elle": "eut économisé",
+			"nous": "eûmes économisé",
+			"vous": "eûtes économisé",
+			"ils/elles": "eurent économisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai économisé",
+			"tu": "auras économisé",
+			"il/elle": "aura économisé",
+			"nous": "aurons économisé",
+			"vous": "aurez économisé",
+			"ils/elles": "auront économisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "économise",
+			"que": "vous économisiez",
+			"qu'il/elle": "économise",
+			"qu'ils/elles": "économisent"
+		},
+		"imparfait": {
+			"j'": "économisasse",
+			"que": "vous économisassiez",
+			"qu'il/elle": "économisât",
+			"qu'ils/elles": "économisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse économisé",
+			"que": "vous eussiez économisé",
+			"qu'il/elle": "eût économisé",
+			"qu'ils/elles": "eussent économisé"
+		},
+		"passé": {
+			"j'": "aie économisé",
+			"que": "vous ayez économisé",
+			"qu'il/elle": "ait économisé",
+			"qu'ils/elles": "aient économisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "économiserais",
+			"tu": "économiserais",
+			"il/elle": "économiserait",
+			"nous": "économiserions",
+			"vous": "économiseriez",
+			"ils/elles": "économiseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais économisé",
+			"tu": "aurais économisé",
+			"il/elle": "aurait économisé",
+			"nous": "aurions économisé",
+			"vous": "auriez économisé",
+			"ils/elles": "auraient économisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse économisé",
+			"tu": "eusses économisé",
+			"il/elle": "eût économisé",
+			"nous": "eussions économisé",
+			"vous": "eussiez économisé",
+			"ils/elles": "eussent économisé"
+		}
+	},
+	"participe": {
+		"présent": { "économisant": "" },
+		"passé composé": { "ayant": "économisé" },
+		"passé": {
+			"masc.sg.:": "économisé",
+			"masc.pl.:": "économisés",
+			"fém.sg.:": "économisée",
+			"fém.pl.:": "économisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "économise": "", "économisons": "", "économisez": "" },
+		"passé": { "aie": "économisé", "ayons": "économisé", "ayez": "économisé" }
+	},
+	"infinitif": {
+		"présent": { "économiser": "" },
+		"passé": { "avoir": "économisé" }
+	}
+}

@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "inform; notify; advise; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'informer/ne pas informer/ne pas s'informer",
+	"indicatif": {
+		"présent": {
+			"j'": "informe",
+			"tu": "informes",
+			"il/elle": "informe",
+			"nous": "informons",
+			"vous": "informez",
+			"ils/elles": "informent"
+		},
+		"imparfait": {
+			"j'": "informais",
+			"tu": "informais",
+			"il/elle": "informait",
+			"nous": "informions",
+			"vous": "informiez",
+			"ils/elles": "informaient"
+		},
+		"futur": {
+			"j'": "informerai",
+			"tu": "informeras",
+			"il/elle": "informera",
+			"nous": "informerons",
+			"vous": "informerez",
+			"ils/elles": "informeront"
+		},
+		"passé simple": {
+			"j'": "informai",
+			"tu": "informas",
+			"il/elle": "informa",
+			"nous": "informâmes",
+			"vous": "informâtes",
+			"ils/elles": "informèrent"
+		},
+		"passé composé": {
+			"j'": "ai informé",
+			"tu": "as informé",
+			"il/elle": "a informé",
+			"nous": "avons informé",
+			"vous": "avez informé",
+			"ils/elles": "ont informé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais informé",
+			"tu": "avais informé",
+			"il/elle": "avait informé",
+			"nous": "avions informé",
+			"vous": "aviez informé",
+			"ils/elles": "avaient informé"
+		},
+		"passé antérieur": {
+			"j'": "eus informé",
+			"tu": "eus informé",
+			"il/elle": "eut informé",
+			"nous": "eûmes informé",
+			"vous": "eûtes informé",
+			"ils/elles": "eurent informé"
+		},
+		"futur antérieur": {
+			"j'": "aurai informé",
+			"tu": "auras informé",
+			"il/elle": "aura informé",
+			"nous": "aurons informé",
+			"vous": "aurez informé",
+			"ils/elles": "auront informé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "informe",
+			"que": "vous informiez",
+			"qu'il/elle": "informe",
+			"qu'ils/elles": "informent"
+		},
+		"imparfait": {
+			"j'": "informasse",
+			"que": "vous informassiez",
+			"qu'il/elle": "informât",
+			"qu'ils/elles": "informassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse informé",
+			"que": "vous eussiez informé",
+			"qu'il/elle": "eût informé",
+			"qu'ils/elles": "eussent informé"
+		},
+		"passé": {
+			"j'": "aie informé",
+			"que": "vous ayez informé",
+			"qu'il/elle": "ait informé",
+			"qu'ils/elles": "aient informé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "informerais",
+			"tu": "informerais",
+			"il/elle": "informerait",
+			"nous": "informerions",
+			"vous": "informeriez",
+			"ils/elles": "informeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais informé",
+			"tu": "aurais informé",
+			"il/elle": "aurait informé",
+			"nous": "aurions informé",
+			"vous": "auriez informé",
+			"ils/elles": "auraient informé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse informé",
+			"tu": "eusses informé",
+			"il/elle": "eût informé",
+			"nous": "eussions informé",
+			"vous": "eussiez informé",
+			"ils/elles": "eussent informé"
+		}
+	},
+	"participe": {
+		"présent": { "informant": "" },
+		"passé composé": { "ayant": "informé" },
+		"passé": {
+			"masc.sg.:": "informé",
+			"masc.pl.:": "informés",
+			"fém.sg.:": "informée",
+			"fém.pl.:": "informées"
+		}
+	},
+	"imperatif": {
+		"présent": { "informe": "", "informons": "", "informez": "" },
+		"passé": { "aie": "informé", "ayons": "informé", "ayez": "informé" }
+	},
+	"infinitif": {
+		"présent": { "informer": "" },
+		"passé": { "avoir": "informé" }
+	}
+}

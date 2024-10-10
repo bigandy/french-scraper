@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "qualify; call; describe; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se qualifier/ne pas qualifier/ne pas se qualifier",
+	"indicatif": {
+		"présent": {
+			"je": "qualifie",
+			"tu": "qualifies",
+			"il/elle": "qualifie",
+			"nous": "qualifions",
+			"vous": "qualifiez",
+			"ils/elles": "qualifient"
+		},
+		"imparfait": {
+			"je": "qualifiais",
+			"tu": "qualifiais",
+			"il/elle": "qualifiait",
+			"nous": "qualifiions",
+			"vous": "qualifiiez",
+			"ils/elles": "qualifiaient"
+		},
+		"futur": {
+			"je": "qualifierai",
+			"tu": "qualifieras",
+			"il/elle": "qualifiera",
+			"nous": "qualifierons",
+			"vous": "qualifierez",
+			"ils/elles": "qualifieront"
+		},
+		"passé simple": {
+			"je": "qualifiai",
+			"tu": "qualifias",
+			"il/elle": "qualifia",
+			"nous": "qualifiâmes",
+			"vous": "qualifiâtes",
+			"ils/elles": "qualifièrent"
+		},
+		"passé composé": {
+			"j'": "ai qualifié",
+			"tu": "as qualifié",
+			"il/elle": "a qualifié",
+			"nous": "avons qualifié",
+			"vous": "avez qualifié",
+			"ils/elles": "ont qualifié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais qualifié",
+			"tu": "avais qualifié",
+			"il/elle": "avait qualifié",
+			"nous": "avions qualifié",
+			"vous": "aviez qualifié",
+			"ils/elles": "avaient qualifié"
+		},
+		"passé antérieur": {
+			"j'": "eus qualifié",
+			"tu": "eus qualifié",
+			"il/elle": "eut qualifié",
+			"nous": "eûmes qualifié",
+			"vous": "eûtes qualifié",
+			"ils/elles": "eurent qualifié"
+		},
+		"futur antérieur": {
+			"j'": "aurai qualifié",
+			"tu": "auras qualifié",
+			"il/elle": "aura qualifié",
+			"nous": "aurons qualifié",
+			"vous": "aurez qualifié",
+			"ils/elles": "auront qualifié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous qualifiiez",
+			"qu'il/elle": "qualifie",
+			"qu'ils/elles": "qualifient"
+		},
+		"imparfait": {
+			"que": "vous qualifiassiez",
+			"qu'il/elle": "qualifiât",
+			"qu'ils/elles": "qualifiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse qualifié",
+			"que": "vous eussiez qualifié",
+			"qu'il/elle": "eût qualifié",
+			"qu'ils/elles": "eussent qualifié"
+		},
+		"passé": {
+			"j'": "aie qualifié",
+			"que": "vous ayez qualifié",
+			"qu'il/elle": "ait qualifié",
+			"qu'ils/elles": "aient qualifié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "qualifierais",
+			"tu": "qualifierais",
+			"il/elle": "qualifierait",
+			"nous": "qualifierions",
+			"vous": "qualifieriez",
+			"ils/elles": "qualifieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais qualifié",
+			"tu": "aurais qualifié",
+			"il/elle": "aurait qualifié",
+			"nous": "aurions qualifié",
+			"vous": "auriez qualifié",
+			"ils/elles": "auraient qualifié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse qualifié",
+			"tu": "eusses qualifié",
+			"il/elle": "eût qualifié",
+			"nous": "eussions qualifié",
+			"vous": "eussiez qualifié",
+			"ils/elles": "eussent qualifié"
+		}
+	},
+	"participe": {
+		"présent": { "qualifiant": "" },
+		"passé composé": { "ayant": "qualifié" },
+		"passé": {
+			"masc.sg.:": "qualifié",
+			"masc.pl.:": "qualifiés",
+			"fém.sg.:": "qualifiée",
+			"fém.pl.:": "qualifiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "qualifie": "", "qualifions": "", "qualifiez": "" },
+		"passé": { "aie": "qualifié", "ayons": "qualifié", "ayez": "qualifié" }
+	},
+	"infinitif": {
+		"présent": { "qualifier": "" },
+		"passé": { "avoir": "qualifié" }
+	}
+}

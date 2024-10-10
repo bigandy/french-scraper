@@ -1,0 +1,140 @@
+{
+	"name": "lever",
+	"definition": "remove; take off; kidnap; ...",
+	"model": "lever",
+	"auxiliary": "avoir",
+	"otherForms": "s'enlever/ne pas enlever/ne pas s'enlever",
+	"indicatif": {
+		"présent": {
+			"j'": "enlève",
+			"tu": "enlèves",
+			"il/elle": "enlève",
+			"nous": "enlevons",
+			"vous": "enlevez",
+			"ils/elles": "enlèvent"
+		},
+		"imparfait": {
+			"j'": "enlevais",
+			"tu": "enlevais",
+			"il/elle": "enlevait",
+			"nous": "enlevions",
+			"vous": "enleviez",
+			"ils/elles": "enlevaient"
+		},
+		"futur": {
+			"j'": "enlèverai",
+			"tu": "enlèveras",
+			"il/elle": "enlèvera",
+			"nous": "enlèverons",
+			"vous": "enlèverez",
+			"ils/elles": "enlèveront"
+		},
+		"passé simple": {
+			"j'": "enlevai",
+			"tu": "enlevas",
+			"il/elle": "enleva",
+			"nous": "enlevâmes",
+			"vous": "enlevâtes",
+			"ils/elles": "enlevèrent"
+		},
+		"passé composé": {
+			"j'": "ai enlevé",
+			"tu": "as enlevé",
+			"il/elle": "a enlevé",
+			"nous": "avons enlevé",
+			"vous": "avez enlevé",
+			"ils/elles": "ont enlevé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais enlevé",
+			"tu": "avais enlevé",
+			"il/elle": "avait enlevé",
+			"nous": "avions enlevé",
+			"vous": "aviez enlevé",
+			"ils/elles": "avaient enlevé"
+		},
+		"passé antérieur": {
+			"j'": "eus enlevé",
+			"tu": "eus enlevé",
+			"il/elle": "eut enlevé",
+			"nous": "eûmes enlevé",
+			"vous": "eûtes enlevé",
+			"ils/elles": "eurent enlevé"
+		},
+		"futur antérieur": {
+			"j'": "aurai enlevé",
+			"tu": "auras enlevé",
+			"il/elle": "aura enlevé",
+			"nous": "aurons enlevé",
+			"vous": "aurez enlevé",
+			"ils/elles": "auront enlevé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "enlève",
+			"que": "vous enleviez",
+			"qu'il/elle": "enlève",
+			"qu'ils/elles": "enlèvent"
+		},
+		"imparfait": {
+			"j'": "enlevasse",
+			"que": "vous enlevassiez",
+			"qu'il/elle": "enlevât",
+			"qu'ils/elles": "enlevassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse enlevé",
+			"que": "vous eussiez enlevé",
+			"qu'il/elle": "eût enlevé",
+			"qu'ils/elles": "eussent enlevé"
+		},
+		"passé": {
+			"j'": "aie enlevé",
+			"que": "vous ayez enlevé",
+			"qu'il/elle": "ait enlevé",
+			"qu'ils/elles": "aient enlevé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "enlèverais",
+			"tu": "enlèverais",
+			"il/elle": "enlèverait",
+			"nous": "enlèverions",
+			"vous": "enlèveriez",
+			"ils/elles": "enlèveraient"
+		},
+		"passé première forme": {
+			"j'": "aurais enlevé",
+			"tu": "aurais enlevé",
+			"il/elle": "aurait enlevé",
+			"nous": "aurions enlevé",
+			"vous": "auriez enlevé",
+			"ils/elles": "auraient enlevé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse enlevé",
+			"tu": "eusses enlevé",
+			"il/elle": "eût enlevé",
+			"nous": "eussions enlevé",
+			"vous": "eussiez enlevé",
+			"ils/elles": "eussent enlevé"
+		}
+	},
+	"participe": {
+		"présent": { "enlevant": "" },
+		"passé composé": { "ayant": "enlevé" },
+		"passé": {
+			"masc.sg.:": "enlevé",
+			"masc.pl.:": "enlevés",
+			"fém.sg.:": "enlevée",
+			"fém.pl.:": "enlevées"
+		}
+	},
+	"imperatif": {
+		"présent": { "enlève": "", "enlevons": "", "enlevez": "" },
+		"passé": { "aie": "enlevé", "ayons": "enlevé", "ayez": "enlevé" }
+	},
+	"infinitif": { "présent": { "enlever": "" }, "passé": { "avoir": "enlevé" } }
+}

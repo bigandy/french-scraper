@@ -1,0 +1,145 @@
+{
+	"name": "marcher",
+	"definition": "nominalize; substantivise; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se substantiver/ne pas substantiver/ne pas se substantiver",
+	"indicatif": {
+		"présent": {
+			"je": "substantive",
+			"tu": "substantives",
+			"il/elle": "substantive",
+			"nous": "substantivons",
+			"vous": "substantivez",
+			"ils/elles": "substantivent"
+		},
+		"imparfait": {
+			"je": "substantivais",
+			"tu": "substantivais",
+			"il/elle": "substantivait",
+			"nous": "substantivions",
+			"vous": "substantiviez",
+			"ils/elles": "substantivaient"
+		},
+		"futur": {
+			"je": "substantiverai",
+			"tu": "substantiveras",
+			"il/elle": "substantivera",
+			"nous": "substantiverons",
+			"vous": "substantiverez",
+			"ils/elles": "substantiveront"
+		},
+		"passé simple": {
+			"je": "substantivai",
+			"tu": "substantivas",
+			"il/elle": "substantiva",
+			"nous": "substantivâmes",
+			"vous": "substantivâtes",
+			"ils/elles": "substantivèrent"
+		},
+		"passé composé": {
+			"j'": "ai substantivé",
+			"tu": "as substantivé",
+			"il/elle": "a substantivé",
+			"nous": "avons substantivé",
+			"vous": "avez substantivé",
+			"ils/elles": "ont substantivé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais substantivé",
+			"tu": "avais substantivé",
+			"il/elle": "avait substantivé",
+			"nous": "avions substantivé",
+			"vous": "aviez substantivé",
+			"ils/elles": "avaient substantivé"
+		},
+		"passé antérieur": {
+			"j'": "eus substantivé",
+			"tu": "eus substantivé",
+			"il/elle": "eut substantivé",
+			"nous": "eûmes substantivé",
+			"vous": "eûtes substantivé",
+			"ils/elles": "eurent substantivé"
+		},
+		"futur antérieur": {
+			"j'": "aurai substantivé",
+			"tu": "auras substantivé",
+			"il/elle": "aura substantivé",
+			"nous": "aurons substantivé",
+			"vous": "aurez substantivé",
+			"ils/elles": "auront substantivé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous substantiviez",
+			"qu'il/elle": "substantive",
+			"qu'ils/elles": "substantivent"
+		},
+		"imparfait": {
+			"que": "vous substantivassiez",
+			"qu'il/elle": "substantivât",
+			"qu'ils/elles": "substantivassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse substantivé",
+			"que": "vous eussiez substantivé",
+			"qu'il/elle": "eût substantivé",
+			"qu'ils/elles": "eussent substantivé"
+		},
+		"passé": {
+			"j'": "aie substantivé",
+			"que": "vous ayez substantivé",
+			"qu'il/elle": "ait substantivé",
+			"qu'ils/elles": "aient substantivé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "substantiverais",
+			"tu": "substantiverais",
+			"il/elle": "substantiverait",
+			"nous": "substantiverions",
+			"vous": "substantiveriez",
+			"ils/elles": "substantiveraient"
+		},
+		"passé première forme": {
+			"j'": "aurais substantivé",
+			"tu": "aurais substantivé",
+			"il/elle": "aurait substantivé",
+			"nous": "aurions substantivé",
+			"vous": "auriez substantivé",
+			"ils/elles": "auraient substantivé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse substantivé",
+			"tu": "eusses substantivé",
+			"il/elle": "eût substantivé",
+			"nous": "eussions substantivé",
+			"vous": "eussiez substantivé",
+			"ils/elles": "eussent substantivé"
+		}
+	},
+	"participe": {
+		"présent": { "substantivant": "" },
+		"passé composé": { "ayant": "substantivé" },
+		"passé": {
+			"masc.sg.:": "substantivé",
+			"masc.pl.:": "substantivés",
+			"fém.sg.:": "substantivée",
+			"fém.pl.:": "substantivées"
+		}
+	},
+	"imperatif": {
+		"présent": { "substantive": "", "substantivons": "", "substantivez": "" },
+		"passé": {
+			"aie": "substantivé",
+			"ayons": "substantivé",
+			"ayez": "substantivé"
+		}
+	},
+	"infinitif": {
+		"présent": { "substantiver": "" },
+		"passé": { "avoir": "substantivé" }
+	}
+}

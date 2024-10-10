@@ -1,0 +1,147 @@
+{
+	"name": "marcher",
+	"definition": "instrument; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas instrumenter",
+	"indicatif": {
+		"présent": {
+			"j'": "instrumente",
+			"tu": "instrumentes",
+			"il/elle": "instrumente",
+			"nous": "instrumentons",
+			"vous": "instrumentez",
+			"ils/elles": "instrumentent"
+		},
+		"imparfait": {
+			"j'": "instrumentais",
+			"tu": "instrumentais",
+			"il/elle": "instrumentait",
+			"nous": "instrumentions",
+			"vous": "instrumentiez",
+			"ils/elles": "instrumentaient"
+		},
+		"futur": {
+			"j'": "instrumenterai",
+			"tu": "instrumenteras",
+			"il/elle": "instrumentera",
+			"nous": "instrumenterons",
+			"vous": "instrumenterez",
+			"ils/elles": "instrumenteront"
+		},
+		"passé simple": {
+			"j'": "instrumentai",
+			"tu": "instrumentas",
+			"il/elle": "instrumenta",
+			"nous": "instrumentâmes",
+			"vous": "instrumentâtes",
+			"ils/elles": "instrumentèrent"
+		},
+		"passé composé": {
+			"j'": "ai instrumenté",
+			"tu": "as instrumenté",
+			"il/elle": "a instrumenté",
+			"nous": "avons instrumenté",
+			"vous": "avez instrumenté",
+			"ils/elles": "ont instrumenté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais instrumenté",
+			"tu": "avais instrumenté",
+			"il/elle": "avait instrumenté",
+			"nous": "avions instrumenté",
+			"vous": "aviez instrumenté",
+			"ils/elles": "avaient instrumenté"
+		},
+		"passé antérieur": {
+			"j'": "eus instrumenté",
+			"tu": "eus instrumenté",
+			"il/elle": "eut instrumenté",
+			"nous": "eûmes instrumenté",
+			"vous": "eûtes instrumenté",
+			"ils/elles": "eurent instrumenté"
+		},
+		"futur antérieur": {
+			"j'": "aurai instrumenté",
+			"tu": "auras instrumenté",
+			"il/elle": "aura instrumenté",
+			"nous": "aurons instrumenté",
+			"vous": "aurez instrumenté",
+			"ils/elles": "auront instrumenté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "instrumente",
+			"que": "vous instrumentiez",
+			"qu'il/elle": "instrumente",
+			"qu'ils/elles": "instrumentent"
+		},
+		"imparfait": {
+			"j'": "instrumentasse",
+			"que": "vous instrumentassiez",
+			"qu'il/elle": "instrumentât",
+			"qu'ils/elles": "instrumentassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse instrumenté",
+			"que": "vous eussiez instrumenté",
+			"qu'il/elle": "eût instrumenté",
+			"qu'ils/elles": "eussent instrumenté"
+		},
+		"passé": {
+			"j'": "aie instrumenté",
+			"que": "vous ayez instrumenté",
+			"qu'il/elle": "ait instrumenté",
+			"qu'ils/elles": "aient instrumenté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "instrumenterais",
+			"tu": "instrumenterais",
+			"il/elle": "instrumenterait",
+			"nous": "instrumenterions",
+			"vous": "instrumenteriez",
+			"ils/elles": "instrumenteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais instrumenté",
+			"tu": "aurais instrumenté",
+			"il/elle": "aurait instrumenté",
+			"nous": "aurions instrumenté",
+			"vous": "auriez instrumenté",
+			"ils/elles": "auraient instrumenté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse instrumenté",
+			"tu": "eusses instrumenté",
+			"il/elle": "eût instrumenté",
+			"nous": "eussions instrumenté",
+			"vous": "eussiez instrumenté",
+			"ils/elles": "eussent instrumenté"
+		}
+	},
+	"participe": {
+		"présent": { "instrumentant": "" },
+		"passé composé": { "ayant": "instrumenté" },
+		"passé": {
+			"masc.sg.:": "instrumenté",
+			"masc.pl.:": "instrumentés",
+			"fém.sg.:": "instrumentée",
+			"fém.pl.:": "instrumentées"
+		}
+	},
+	"imperatif": {
+		"présent": { "instrumente": "", "instrumentons": "", "instrumentez": "" },
+		"passé": {
+			"aie": "instrumenté",
+			"ayons": "instrumenté",
+			"ayez": "instrumenté"
+		}
+	},
+	"infinitif": {
+		"présent": { "instrumenter": "" },
+		"passé": { "avoir": "instrumenté" }
+	}
+}

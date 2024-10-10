@@ -1,0 +1,143 @@
+{
+	"name": "prendre",
+	"definition": "learn; teach; learn how; ...",
+	"model": "prendre",
+	"auxiliary": "avoir",
+	"otherForms": "s'apprendre/ne pas apprendre/ne pas s'apprendre",
+	"indicatif": {
+		"présent": {
+			"j'": "apprends",
+			"tu": "apprends",
+			"il/elle": "apprend",
+			"nous": "apprenons",
+			"vous": "apprenez",
+			"ils/elles": "apprennent"
+		},
+		"imparfait": {
+			"j'": "apprenais",
+			"tu": "apprenais",
+			"il/elle": "apprenait",
+			"nous": "apprenions",
+			"vous": "appreniez",
+			"ils/elles": "apprenaient"
+		},
+		"futur": {
+			"j'": "apprendrai",
+			"tu": "apprendras",
+			"il/elle": "apprendra",
+			"nous": "apprendrons",
+			"vous": "apprendrez",
+			"ils/elles": "apprendront"
+		},
+		"passé simple": {
+			"j'": "appris",
+			"tu": "appris",
+			"il/elle": "apprit",
+			"nous": "apprîmes",
+			"vous": "apprîtes",
+			"ils/elles": "apprirent"
+		},
+		"passé composé": {
+			"j'": "ai appris",
+			"tu": "as appris",
+			"il/elle": "a appris",
+			"nous": "avons appris",
+			"vous": "avez appris",
+			"ils/elles": "ont appris"
+		},
+		"plus-que-parfait": {
+			"j'": "avais appris",
+			"tu": "avais appris",
+			"il/elle": "avait appris",
+			"nous": "avions appris",
+			"vous": "aviez appris",
+			"ils/elles": "avaient appris"
+		},
+		"passé antérieur": {
+			"j'": "eus appris",
+			"tu": "eus appris",
+			"il/elle": "eut appris",
+			"nous": "eûmes appris",
+			"vous": "eûtes appris",
+			"ils/elles": "eurent appris"
+		},
+		"futur antérieur": {
+			"j'": "aurai appris",
+			"tu": "auras appris",
+			"il/elle": "aura appris",
+			"nous": "aurons appris",
+			"vous": "aurez appris",
+			"ils/elles": "auront appris"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "apprenne",
+			"que": "vous appreniez",
+			"qu'il/elle": "apprenne",
+			"qu'ils/elles": "apprennent"
+		},
+		"imparfait": {
+			"j'": "apprisse",
+			"que": "vous apprissiez",
+			"qu'il/elle": "apprît",
+			"qu'ils/elles": "apprissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse appris",
+			"que": "vous eussiez appris",
+			"qu'il/elle": "eût appris",
+			"qu'ils/elles": "eussent appris"
+		},
+		"passé": {
+			"j'": "aie appris",
+			"que": "vous ayez appris",
+			"qu'il/elle": "ait appris",
+			"qu'ils/elles": "aient appris"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "apprendrais",
+			"tu": "apprendrais",
+			"il/elle": "apprendrait",
+			"nous": "apprendrions",
+			"vous": "apprendriez",
+			"ils/elles": "apprendraient"
+		},
+		"passé première forme": {
+			"j'": "aurais appris",
+			"tu": "aurais appris",
+			"il/elle": "aurait appris",
+			"nous": "aurions appris",
+			"vous": "auriez appris",
+			"ils/elles": "auraient appris"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse appris",
+			"tu": "eusses appris",
+			"il/elle": "eût appris",
+			"nous": "eussions appris",
+			"vous": "eussiez appris",
+			"ils/elles": "eussent appris"
+		}
+	},
+	"participe": {
+		"présent": { "apprenant": "" },
+		"passé composé": { "ayant": "appris" },
+		"passé": {
+			"masc.sg.:": "appris",
+			"masc.pl.:": "appris",
+			"fém.sg.:": "apprise",
+			"fém.pl.:": "apprises"
+		}
+	},
+	"imperatif": {
+		"présent": { "apprends": "", "apprenons": "", "apprenez": "" },
+		"passé": { "aie": "appris", "ayons": "appris", "ayez": "appris" }
+	},
+	"infinitif": {
+		"présent": { "apprendre": "" },
+		"passé": { "avoir": "appris" }
+	}
+}

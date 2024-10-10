@@ -1,0 +1,141 @@
+{
+	"name": "envoyer",
+	"definition": "refer; return; send; ...",
+	"model": "envoyer",
+	"auxiliary": "avoir",
+	"otherForms": "se renvoyer/ne pas renvoyer/ne pas se renvoyer",
+	"indicatif": {
+		"présent": {
+			"je": "renvoie",
+			"tu": "renvoies",
+			"il/elle": "renvoie",
+			"nous": "renvoyons",
+			"vous": "renvoyez",
+			"ils/elles": "renvoient"
+		},
+		"imparfait": {
+			"je": "renvoyais",
+			"tu": "renvoyais",
+			"il/elle": "renvoyait",
+			"nous": "renvoyions",
+			"vous": "renvoyiez",
+			"ils/elles": "renvoyaient"
+		},
+		"futur": {
+			"je": "renverrai",
+			"tu": "renverras",
+			"il/elle": "renverra",
+			"nous": "renverrons",
+			"vous": "renverrez",
+			"ils/elles": "renverront"
+		},
+		"passé simple": {
+			"je": "renvoyai",
+			"tu": "renvoyas",
+			"il/elle": "renvoya",
+			"nous": "renvoyâmes",
+			"vous": "renvoyâtes",
+			"ils/elles": "renvoyèrent"
+		},
+		"passé composé": {
+			"j'": "ai renvoyé",
+			"tu": "as renvoyé",
+			"il/elle": "a renvoyé",
+			"nous": "avons renvoyé",
+			"vous": "avez renvoyé",
+			"ils/elles": "ont renvoyé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais renvoyé",
+			"tu": "avais renvoyé",
+			"il/elle": "avait renvoyé",
+			"nous": "avions renvoyé",
+			"vous": "aviez renvoyé",
+			"ils/elles": "avaient renvoyé"
+		},
+		"passé antérieur": {
+			"j'": "eus renvoyé",
+			"tu": "eus renvoyé",
+			"il/elle": "eut renvoyé",
+			"nous": "eûmes renvoyé",
+			"vous": "eûtes renvoyé",
+			"ils/elles": "eurent renvoyé"
+		},
+		"futur antérieur": {
+			"j'": "aurai renvoyé",
+			"tu": "auras renvoyé",
+			"il/elle": "aura renvoyé",
+			"nous": "aurons renvoyé",
+			"vous": "aurez renvoyé",
+			"ils/elles": "auront renvoyé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous renvoyiez",
+			"qu'il/elle": "renvoie",
+			"qu'ils/elles": "renvoient"
+		},
+		"imparfait": {
+			"que": "vous renvoyassiez",
+			"qu'il/elle": "renvoyât",
+			"qu'ils/elles": "renvoyassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse renvoyé",
+			"que": "vous eussiez renvoyé",
+			"qu'il/elle": "eût renvoyé",
+			"qu'ils/elles": "eussent renvoyé"
+		},
+		"passé": {
+			"j'": "aie renvoyé",
+			"que": "vous ayez renvoyé",
+			"qu'il/elle": "ait renvoyé",
+			"qu'ils/elles": "aient renvoyé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "renverrais",
+			"tu": "renverrais",
+			"il/elle": "renverrait",
+			"nous": "renverrions",
+			"vous": "renverriez",
+			"ils/elles": "renverraient"
+		},
+		"passé première forme": {
+			"j'": "aurais renvoyé",
+			"tu": "aurais renvoyé",
+			"il/elle": "aurait renvoyé",
+			"nous": "aurions renvoyé",
+			"vous": "auriez renvoyé",
+			"ils/elles": "auraient renvoyé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse renvoyé",
+			"tu": "eusses renvoyé",
+			"il/elle": "eût renvoyé",
+			"nous": "eussions renvoyé",
+			"vous": "eussiez renvoyé",
+			"ils/elles": "eussent renvoyé"
+		}
+	},
+	"participe": {
+		"présent": { "renvoyant": "" },
+		"passé composé": { "ayant": "renvoyé" },
+		"passé": {
+			"masc.sg.:": "renvoyé",
+			"masc.pl.:": "renvoyés",
+			"fém.sg.:": "renvoyée",
+			"fém.pl.:": "renvoyées"
+		}
+	},
+	"imperatif": {
+		"présent": { "renvoie": "", "renvoyons": "", "renvoyez": "" },
+		"passé": { "aie": "renvoyé", "ayons": "renvoyé", "ayez": "renvoyé" }
+	},
+	"infinitif": {
+		"présent": { "renvoyer": "" },
+		"passé": { "avoir": "renvoyé" }
+	}
+}

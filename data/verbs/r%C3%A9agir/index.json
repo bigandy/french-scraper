@@ -1,0 +1,138 @@
+{
+	"name": "finir",
+	"definition": "react; respond; act; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas réagir",
+	"indicatif": {
+		"présent": {
+			"je": "réagis",
+			"tu": "réagis",
+			"il/elle": "réagit",
+			"nous": "réagissons",
+			"vous": "réagissez",
+			"ils/elles": "réagissent"
+		},
+		"imparfait": {
+			"je": "réagissais",
+			"tu": "réagissais",
+			"il/elle": "réagissait",
+			"nous": "réagissions",
+			"vous": "réagissiez",
+			"ils/elles": "réagissaient"
+		},
+		"futur": {
+			"je": "réagirai",
+			"tu": "réagiras",
+			"il/elle": "réagira",
+			"nous": "réagirons",
+			"vous": "réagirez",
+			"ils/elles": "réagiront"
+		},
+		"passé simple": {
+			"je": "réagis",
+			"tu": "réagis",
+			"il/elle": "réagit",
+			"nous": "réagîmes",
+			"vous": "réagîtes",
+			"ils/elles": "réagirent"
+		},
+		"passé composé": {
+			"j'": "ai réagi",
+			"tu": "as réagi",
+			"il/elle": "a réagi",
+			"nous": "avons réagi",
+			"vous": "avez réagi",
+			"ils/elles": "ont réagi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais réagi",
+			"tu": "avais réagi",
+			"il/elle": "avait réagi",
+			"nous": "avions réagi",
+			"vous": "aviez réagi",
+			"ils/elles": "avaient réagi"
+		},
+		"passé antérieur": {
+			"j'": "eus réagi",
+			"tu": "eus réagi",
+			"il/elle": "eut réagi",
+			"nous": "eûmes réagi",
+			"vous": "eûtes réagi",
+			"ils/elles": "eurent réagi"
+		},
+		"futur antérieur": {
+			"j'": "aurai réagi",
+			"tu": "auras réagi",
+			"il/elle": "aura réagi",
+			"nous": "aurons réagi",
+			"vous": "aurez réagi",
+			"ils/elles": "auront réagi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous réagissiez",
+			"qu'il/elle": "réagisse",
+			"qu'ils/elles": "réagissent"
+		},
+		"imparfait": {
+			"que": "vous réagissiez",
+			"qu'il/elle": "réagît",
+			"qu'ils/elles": "réagissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse réagi",
+			"que": "vous eussiez réagi",
+			"qu'il/elle": "eût réagi",
+			"qu'ils/elles": "eussent réagi"
+		},
+		"passé": {
+			"j'": "aie réagi",
+			"que": "vous ayez réagi",
+			"qu'il/elle": "ait réagi",
+			"qu'ils/elles": "aient réagi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "réagirais",
+			"tu": "réagirais",
+			"il/elle": "réagirait",
+			"nous": "réagirions",
+			"vous": "réagiriez",
+			"ils/elles": "réagiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais réagi",
+			"tu": "aurais réagi",
+			"il/elle": "aurait réagi",
+			"nous": "aurions réagi",
+			"vous": "auriez réagi",
+			"ils/elles": "auraient réagi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse réagi",
+			"tu": "eusses réagi",
+			"il/elle": "eût réagi",
+			"nous": "eussions réagi",
+			"vous": "eussiez réagi",
+			"ils/elles": "eussent réagi"
+		}
+	},
+	"participe": {
+		"présent": { "réagissant": "" },
+		"passé composé": { "ayant": "réagi" },
+		"passé": {
+			"masc.sg.:": "réagi",
+			"masc.pl.:": "réagis",
+			"fém.sg.:": "réagie",
+			"fém.pl.:": "réagies"
+		}
+	},
+	"imperatif": {
+		"présent": { "réagis": "", "réagissons": "", "réagissez": "" },
+		"passé": { "aie": "réagi", "ayons": "réagi", "ayez": "réagi" }
+	},
+	"infinitif": { "présent": { "réagir": "" }, "passé": { "avoir": "réagi" } }
+}

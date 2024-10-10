@@ -1,0 +1,196 @@
+{
+	"name": "marcher",
+	"definition": "enter; come in; input; ...",
+	"model": "marcher",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "ne pas entrer",
+	"indicatif": {
+		"présent": {
+			"j'": "entre",
+			"tu": "entres",
+			"il/elle": "entre",
+			"nous": "entrons",
+			"vous": "entrez",
+			"ils/elles": "entrent"
+		},
+		"imparfait": {
+			"j'": "entrais",
+			"tu": "entrais",
+			"il/elle": "entrait",
+			"nous": "entrions",
+			"vous": "entriez",
+			"ils/elles": "entraient"
+		},
+		"futur": {
+			"j'": "entrerai",
+			"tu": "entreras",
+			"il/elle": "entrera",
+			"nous": "entrerons",
+			"vous": "entrerez",
+			"ils/elles": "entreront"
+		},
+		"passé simple": {
+			"j'": "entrai",
+			"tu": "entras",
+			"il/elle": "entra",
+			"nous": "entrâmes",
+			"vous": "entrâtes",
+			"ils/elles": "entrèrent"
+		},
+		"passé composé": {
+			"j'": "ai entré",
+			"tu": "es entré",
+			"il/elle": "a entré",
+			"nous": "sommes entrés",
+			"vous": "êtes entrés",
+			"ils/elles": "ont entré",
+			"": "",
+			"je": "suis entré",
+			"il": "est entré",
+			"elle": "est entrée",
+			"ils": "sont entrés",
+			"elles": "sont entrées"
+		},
+		"plus-que-parfait": {
+			"j'": "étais entré",
+			"tu": "étais entré",
+			"il/elle": "avait entré",
+			"nous": "étions entrés",
+			"vous": "étiez entrés",
+			"ils/elles": "avaient entré",
+			"": "",
+			"il": "était entré",
+			"elle": "était entrée",
+			"ils": "étaient entrés",
+			"elles": "étaient entrées"
+		},
+		"passé antérieur": {
+			"j'": "eus entré",
+			"tu": "fus entré",
+			"il/elle": "eut entré",
+			"nous": "fûmes entrés",
+			"vous": "fûtes entrés",
+			"ils/elles": "eurent entré",
+			"": "",
+			"je": "fus entré",
+			"il": "fut entré",
+			"elle": "fut entrée",
+			"ils": "furent entrés",
+			"elles": "furent entrées"
+		},
+		"futur antérieur": {
+			"j'": "aurai entré",
+			"tu": "seras entré",
+			"il/elle": "aura entré",
+			"nous": "serons entrés",
+			"vous": "serez entrés",
+			"ils/elles": "auront entré",
+			"": "",
+			"je": "serai entré",
+			"il": "sera entré",
+			"elle": "sera entrée",
+			"ils": "seront entrés",
+			"elles": "seront entrées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "entre",
+			"que": "vous entriez",
+			"qu'il/elle": "entre",
+			"qu'ils/elles": "entrent"
+		},
+		"imparfait": {
+			"j'": "entrasse",
+			"que": "vous entrassiez",
+			"qu'il/elle": "entrât",
+			"qu'ils/elles": "entrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse entré",
+			"que": "vous fussiez entrés",
+			"qu'il/elle": "eût entré",
+			"qu'ils/elles": "eussent entré",
+			"": "",
+			"qu'il": "fût entré",
+			"qu'elle": "fût entrée",
+			"qu'ils": "fussent entrés",
+			"qu'elles": "fussent entrées"
+		},
+		"passé": {
+			"j'": "aie entré",
+			"que": "vous soyez entrés",
+			"qu'il/elle": "ait entré",
+			"qu'ils/elles": "aient entré",
+			"": "",
+			"qu'il": "soit entré",
+			"qu'elle": "soit entrée",
+			"qu'ils": "soient entrés",
+			"qu'elles": "soient entrées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "entrerais",
+			"tu": "entrerais",
+			"il/elle": "entrerait",
+			"nous": "entrerions",
+			"vous": "entreriez",
+			"ils/elles": "entreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais entré",
+			"tu": "serais entré",
+			"il/elle": "aurait entré",
+			"nous": "serions entrés",
+			"vous": "seriez entrés",
+			"ils/elles": "auraient entré",
+			"": "",
+			"je": "serais entré",
+			"il": "serait entré",
+			"elle": "serait entrée",
+			"ils": "seraient entrés",
+			"elles": "seraient entrées"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse entré",
+			"tu": "fusses entré",
+			"il/elle": "eût entré",
+			"nous": "fussions entrés",
+			"vous": "fussiez entrés",
+			"ils/elles": "eussent entré",
+			"": "",
+			"je": "fusse entré",
+			"il": "fût entré",
+			"elle": "fût entrée",
+			"ils": "fussent entrés",
+			"elles": "fussent entrées"
+		}
+	},
+	"participe": {
+		"présent": { "entrant": "" },
+		"passé composé": { "ayant": "entré", "": "", "étant": "entrée" },
+		"passé": {
+			"masc.sg.:": "entré",
+			"masc.pl.:": "entrés",
+			"fém.sg.:": "entrée",
+			"fém.pl.:": "entrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "entre": "", "entrons": "", "entrez": "" },
+		"passé": {
+			"aie": "entré",
+			"ayons": "entré",
+			"ayez": "entré",
+			"": "",
+			"sois": "entré",
+			"soyons": "entré",
+			"soyez": "entré"
+		}
+	},
+	"infinitif": {
+		"présent": { "entrer": "" },
+		"passé": { "avoir": "entré", "": "", "être": "entré" }
+	}
+}

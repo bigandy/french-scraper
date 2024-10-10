@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "lend; give; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se prêter/ne pas prêter/ne pas se prêter",
+	"indicatif": {
+		"présent": {
+			"je": "prête",
+			"tu": "prêtes",
+			"il/elle": "prête",
+			"nous": "prêtons",
+			"vous": "prêtez",
+			"ils/elles": "prêtent"
+		},
+		"imparfait": {
+			"je": "prêtais",
+			"tu": "prêtais",
+			"il/elle": "prêtait",
+			"nous": "prêtions",
+			"vous": "prêtiez",
+			"ils/elles": "prêtaient"
+		},
+		"futur": {
+			"je": "prêterai",
+			"tu": "prêteras",
+			"il/elle": "prêtera",
+			"nous": "prêterons",
+			"vous": "prêterez",
+			"ils/elles": "prêteront"
+		},
+		"passé simple": {
+			"je": "prêtai",
+			"tu": "prêtas",
+			"il/elle": "prêta",
+			"nous": "prêtâmes",
+			"vous": "prêtâtes",
+			"ils/elles": "prêtèrent"
+		},
+		"passé composé": {
+			"j'": "ai prêté",
+			"tu": "as prêté",
+			"il/elle": "a prêté",
+			"nous": "avons prêté",
+			"vous": "avez prêté",
+			"ils/elles": "ont prêté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais prêté",
+			"tu": "avais prêté",
+			"il/elle": "avait prêté",
+			"nous": "avions prêté",
+			"vous": "aviez prêté",
+			"ils/elles": "avaient prêté"
+		},
+		"passé antérieur": {
+			"j'": "eus prêté",
+			"tu": "eus prêté",
+			"il/elle": "eut prêté",
+			"nous": "eûmes prêté",
+			"vous": "eûtes prêté",
+			"ils/elles": "eurent prêté"
+		},
+		"futur antérieur": {
+			"j'": "aurai prêté",
+			"tu": "auras prêté",
+			"il/elle": "aura prêté",
+			"nous": "aurons prêté",
+			"vous": "aurez prêté",
+			"ils/elles": "auront prêté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous prêtiez",
+			"qu'il/elle": "prête",
+			"qu'ils/elles": "prêtent"
+		},
+		"imparfait": {
+			"que": "vous prêtassiez",
+			"qu'il/elle": "prêtât",
+			"qu'ils/elles": "prêtassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse prêté",
+			"que": "vous eussiez prêté",
+			"qu'il/elle": "eût prêté",
+			"qu'ils/elles": "eussent prêté"
+		},
+		"passé": {
+			"j'": "aie prêté",
+			"que": "vous ayez prêté",
+			"qu'il/elle": "ait prêté",
+			"qu'ils/elles": "aient prêté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "prêterais",
+			"tu": "prêterais",
+			"il/elle": "prêterait",
+			"nous": "prêterions",
+			"vous": "prêteriez",
+			"ils/elles": "prêteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais prêté",
+			"tu": "aurais prêté",
+			"il/elle": "aurait prêté",
+			"nous": "aurions prêté",
+			"vous": "auriez prêté",
+			"ils/elles": "auraient prêté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse prêté",
+			"tu": "eusses prêté",
+			"il/elle": "eût prêté",
+			"nous": "eussions prêté",
+			"vous": "eussiez prêté",
+			"ils/elles": "eussent prêté"
+		}
+	},
+	"participe": {
+		"présent": { "prêtant": "" },
+		"passé composé": { "ayant": "prêté" },
+		"passé": {
+			"masc.sg.:": "prêté",
+			"masc.pl.:": "prêtés",
+			"fém.sg.:": "prêtée",
+			"fém.pl.:": "prêtées"
+		}
+	},
+	"imperatif": {
+		"présent": { "prête": "", "prêtons": "", "prêtez": "" },
+		"passé": { "aie": "prêté", "ayons": "prêté", "ayez": "prêté" }
+	},
+	"infinitif": { "présent": { "prêter": "" }, "passé": { "avoir": "prêté" } }
+}

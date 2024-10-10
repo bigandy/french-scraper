@@ -1,0 +1,138 @@
+{
+	"name": "finir",
+	"definition": "feed; nourish; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se nourrir/ne pas nourrir/ne pas se nourrir",
+	"indicatif": {
+		"présent": {
+			"je": "nourris",
+			"tu": "nourris",
+			"il/elle": "nourrit",
+			"nous": "nourrissons",
+			"vous": "nourrissez",
+			"ils/elles": "nourrissent"
+		},
+		"imparfait": {
+			"je": "nourrissais",
+			"tu": "nourrissais",
+			"il/elle": "nourrissait",
+			"nous": "nourrissions",
+			"vous": "nourrissiez",
+			"ils/elles": "nourrissaient"
+		},
+		"futur": {
+			"je": "nourrirai",
+			"tu": "nourriras",
+			"il/elle": "nourrira",
+			"nous": "nourrirons",
+			"vous": "nourrirez",
+			"ils/elles": "nourriront"
+		},
+		"passé simple": {
+			"je": "nourris",
+			"tu": "nourris",
+			"il/elle": "nourrit",
+			"nous": "nourrîmes",
+			"vous": "nourrîtes",
+			"ils/elles": "nourrirent"
+		},
+		"passé composé": {
+			"j'": "ai nourri",
+			"tu": "as nourri",
+			"il/elle": "a nourri",
+			"nous": "avons nourri",
+			"vous": "avez nourri",
+			"ils/elles": "ont nourri"
+		},
+		"plus-que-parfait": {
+			"j'": "avais nourri",
+			"tu": "avais nourri",
+			"il/elle": "avait nourri",
+			"nous": "avions nourri",
+			"vous": "aviez nourri",
+			"ils/elles": "avaient nourri"
+		},
+		"passé antérieur": {
+			"j'": "eus nourri",
+			"tu": "eus nourri",
+			"il/elle": "eut nourri",
+			"nous": "eûmes nourri",
+			"vous": "eûtes nourri",
+			"ils/elles": "eurent nourri"
+		},
+		"futur antérieur": {
+			"j'": "aurai nourri",
+			"tu": "auras nourri",
+			"il/elle": "aura nourri",
+			"nous": "aurons nourri",
+			"vous": "aurez nourri",
+			"ils/elles": "auront nourri"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous nourrissiez",
+			"qu'il/elle": "nourrisse",
+			"qu'ils/elles": "nourrissent"
+		},
+		"imparfait": {
+			"que": "vous nourrissiez",
+			"qu'il/elle": "nourrît",
+			"qu'ils/elles": "nourrissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse nourri",
+			"que": "vous eussiez nourri",
+			"qu'il/elle": "eût nourri",
+			"qu'ils/elles": "eussent nourri"
+		},
+		"passé": {
+			"j'": "aie nourri",
+			"que": "vous ayez nourri",
+			"qu'il/elle": "ait nourri",
+			"qu'ils/elles": "aient nourri"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "nourrirais",
+			"tu": "nourrirais",
+			"il/elle": "nourrirait",
+			"nous": "nourririons",
+			"vous": "nourririez",
+			"ils/elles": "nourriraient"
+		},
+		"passé première forme": {
+			"j'": "aurais nourri",
+			"tu": "aurais nourri",
+			"il/elle": "aurait nourri",
+			"nous": "aurions nourri",
+			"vous": "auriez nourri",
+			"ils/elles": "auraient nourri"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse nourri",
+			"tu": "eusses nourri",
+			"il/elle": "eût nourri",
+			"nous": "eussions nourri",
+			"vous": "eussiez nourri",
+			"ils/elles": "eussent nourri"
+		}
+	},
+	"participe": {
+		"présent": { "nourrissant": "" },
+		"passé composé": { "ayant": "nourri" },
+		"passé": {
+			"masc.sg.:": "nourri",
+			"masc.pl.:": "nourris",
+			"fém.sg.:": "nourrie",
+			"fém.pl.:": "nourries"
+		}
+	},
+	"imperatif": {
+		"présent": { "nourris": "", "nourrissons": "", "nourrissez": "" },
+		"passé": { "aie": "nourri", "ayons": "nourri", "ayez": "nourri" }
+	},
+	"infinitif": { "présent": { "nourrir": "" }, "passé": { "avoir": "nourri" } }
+}

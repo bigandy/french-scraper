@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "observe; note; see; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'observer/ne pas observer/ne pas s'observer",
+	"indicatif": {
+		"présent": {
+			"j'": "observe",
+			"tu": "observes",
+			"il/elle": "observe",
+			"nous": "observons",
+			"vous": "observez",
+			"ils/elles": "observent"
+		},
+		"imparfait": {
+			"j'": "observais",
+			"tu": "observais",
+			"il/elle": "observait",
+			"nous": "observions",
+			"vous": "observiez",
+			"ils/elles": "observaient"
+		},
+		"futur": {
+			"j'": "observerai",
+			"tu": "observeras",
+			"il/elle": "observera",
+			"nous": "observerons",
+			"vous": "observerez",
+			"ils/elles": "observeront"
+		},
+		"passé simple": {
+			"j'": "observai",
+			"tu": "observas",
+			"il/elle": "observa",
+			"nous": "observâmes",
+			"vous": "observâtes",
+			"ils/elles": "observèrent"
+		},
+		"passé composé": {
+			"j'": "ai observé",
+			"tu": "as observé",
+			"il/elle": "a observé",
+			"nous": "avons observé",
+			"vous": "avez observé",
+			"ils/elles": "ont observé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais observé",
+			"tu": "avais observé",
+			"il/elle": "avait observé",
+			"nous": "avions observé",
+			"vous": "aviez observé",
+			"ils/elles": "avaient observé"
+		},
+		"passé antérieur": {
+			"j'": "eus observé",
+			"tu": "eus observé",
+			"il/elle": "eut observé",
+			"nous": "eûmes observé",
+			"vous": "eûtes observé",
+			"ils/elles": "eurent observé"
+		},
+		"futur antérieur": {
+			"j'": "aurai observé",
+			"tu": "auras observé",
+			"il/elle": "aura observé",
+			"nous": "aurons observé",
+			"vous": "aurez observé",
+			"ils/elles": "auront observé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "observe",
+			"que": "vous observiez",
+			"qu'il/elle": "observe",
+			"qu'ils/elles": "observent"
+		},
+		"imparfait": {
+			"j'": "observasse",
+			"que": "vous observassiez",
+			"qu'il/elle": "observât",
+			"qu'ils/elles": "observassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse observé",
+			"que": "vous eussiez observé",
+			"qu'il/elle": "eût observé",
+			"qu'ils/elles": "eussent observé"
+		},
+		"passé": {
+			"j'": "aie observé",
+			"que": "vous ayez observé",
+			"qu'il/elle": "ait observé",
+			"qu'ils/elles": "aient observé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "observerais",
+			"tu": "observerais",
+			"il/elle": "observerait",
+			"nous": "observerions",
+			"vous": "observeriez",
+			"ils/elles": "observeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais observé",
+			"tu": "aurais observé",
+			"il/elle": "aurait observé",
+			"nous": "aurions observé",
+			"vous": "auriez observé",
+			"ils/elles": "auraient observé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse observé",
+			"tu": "eusses observé",
+			"il/elle": "eût observé",
+			"nous": "eussions observé",
+			"vous": "eussiez observé",
+			"ils/elles": "eussent observé"
+		}
+	},
+	"participe": {
+		"présent": { "observant": "" },
+		"passé composé": { "ayant": "observé" },
+		"passé": {
+			"masc.sg.:": "observé",
+			"masc.pl.:": "observés",
+			"fém.sg.:": "observée",
+			"fém.pl.:": "observées"
+		}
+	},
+	"imperatif": {
+		"présent": { "observe": "", "observons": "", "observez": "" },
+		"passé": { "aie": "observé", "ayons": "observé", "ayez": "observé" }
+	},
+	"infinitif": {
+		"présent": { "observer": "" },
+		"passé": { "avoir": "observé" }
+	}
+}

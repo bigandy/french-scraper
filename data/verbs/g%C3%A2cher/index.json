@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "ruin; spoil; waste; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se gâcher/ne pas gâcher/ne pas se gâcher",
+	"indicatif": {
+		"présent": {
+			"je": "gâche",
+			"tu": "gâches",
+			"il/elle": "gâche",
+			"nous": "gâchons",
+			"vous": "gâchez",
+			"ils/elles": "gâchent"
+		},
+		"imparfait": {
+			"je": "gâchais",
+			"tu": "gâchais",
+			"il/elle": "gâchait",
+			"nous": "gâchions",
+			"vous": "gâchiez",
+			"ils/elles": "gâchaient"
+		},
+		"futur": {
+			"je": "gâcherai",
+			"tu": "gâcheras",
+			"il/elle": "gâchera",
+			"nous": "gâcherons",
+			"vous": "gâcherez",
+			"ils/elles": "gâcheront"
+		},
+		"passé simple": {
+			"je": "gâchai",
+			"tu": "gâchas",
+			"il/elle": "gâcha",
+			"nous": "gâchâmes",
+			"vous": "gâchâtes",
+			"ils/elles": "gâchèrent"
+		},
+		"passé composé": {
+			"j'": "ai gâché",
+			"tu": "as gâché",
+			"il/elle": "a gâché",
+			"nous": "avons gâché",
+			"vous": "avez gâché",
+			"ils/elles": "ont gâché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais gâché",
+			"tu": "avais gâché",
+			"il/elle": "avait gâché",
+			"nous": "avions gâché",
+			"vous": "aviez gâché",
+			"ils/elles": "avaient gâché"
+		},
+		"passé antérieur": {
+			"j'": "eus gâché",
+			"tu": "eus gâché",
+			"il/elle": "eut gâché",
+			"nous": "eûmes gâché",
+			"vous": "eûtes gâché",
+			"ils/elles": "eurent gâché"
+		},
+		"futur antérieur": {
+			"j'": "aurai gâché",
+			"tu": "auras gâché",
+			"il/elle": "aura gâché",
+			"nous": "aurons gâché",
+			"vous": "aurez gâché",
+			"ils/elles": "auront gâché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous gâchiez",
+			"qu'il/elle": "gâche",
+			"qu'ils/elles": "gâchent"
+		},
+		"imparfait": {
+			"que": "vous gâchassiez",
+			"qu'il/elle": "gâchât",
+			"qu'ils/elles": "gâchassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse gâché",
+			"que": "vous eussiez gâché",
+			"qu'il/elle": "eût gâché",
+			"qu'ils/elles": "eussent gâché"
+		},
+		"passé": {
+			"j'": "aie gâché",
+			"que": "vous ayez gâché",
+			"qu'il/elle": "ait gâché",
+			"qu'ils/elles": "aient gâché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "gâcherais",
+			"tu": "gâcherais",
+			"il/elle": "gâcherait",
+			"nous": "gâcherions",
+			"vous": "gâcheriez",
+			"ils/elles": "gâcheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais gâché",
+			"tu": "aurais gâché",
+			"il/elle": "aurait gâché",
+			"nous": "aurions gâché",
+			"vous": "auriez gâché",
+			"ils/elles": "auraient gâché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse gâché",
+			"tu": "eusses gâché",
+			"il/elle": "eût gâché",
+			"nous": "eussions gâché",
+			"vous": "eussiez gâché",
+			"ils/elles": "eussent gâché"
+		}
+	},
+	"participe": {
+		"présent": { "gâchant": "" },
+		"passé composé": { "ayant": "gâché" },
+		"passé": {
+			"masc.sg.:": "gâché",
+			"masc.pl.:": "gâchés",
+			"fém.sg.:": "gâchée",
+			"fém.pl.:": "gâchées"
+		}
+	},
+	"imperatif": {
+		"présent": { "gâche": "", "gâchons": "", "gâchez": "" },
+		"passé": { "aie": "gâché", "ayons": "gâché", "ayez": "gâché" }
+	},
+	"infinitif": { "présent": { "gâcher": "" }, "passé": { "avoir": "gâché" } }
+}

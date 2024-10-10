@@ -1,0 +1,141 @@
+{
+	"name": "commencer",
+	"definition": "move; displace; ...",
+	"model": "commencer",
+	"auxiliary": "avoir",
+	"otherForms": "se déplacer/ne pas déplacer/ne pas se déplacer",
+	"indicatif": {
+		"présent": {
+			"je": "déplace",
+			"tu": "déplaces",
+			"il/elle": "déplace",
+			"nous": "déplaçons",
+			"vous": "déplacez",
+			"ils/elles": "déplacent"
+		},
+		"imparfait": {
+			"je": "déplaçais",
+			"tu": "déplaçais",
+			"il/elle": "déplaçait",
+			"nous": "déplacions",
+			"vous": "déplaciez",
+			"ils/elles": "déplaçaient"
+		},
+		"futur": {
+			"je": "déplacerai",
+			"tu": "déplaceras",
+			"il/elle": "déplacera",
+			"nous": "déplacerons",
+			"vous": "déplacerez",
+			"ils/elles": "déplaceront"
+		},
+		"passé simple": {
+			"je": "déplaçai",
+			"tu": "déplaças",
+			"il/elle": "déplaça",
+			"nous": "déplaçâmes",
+			"vous": "déplaçâtes",
+			"ils/elles": "déplacèrent"
+		},
+		"passé composé": {
+			"j'": "ai déplacé",
+			"tu": "as déplacé",
+			"il/elle": "a déplacé",
+			"nous": "avons déplacé",
+			"vous": "avez déplacé",
+			"ils/elles": "ont déplacé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais déplacé",
+			"tu": "avais déplacé",
+			"il/elle": "avait déplacé",
+			"nous": "avions déplacé",
+			"vous": "aviez déplacé",
+			"ils/elles": "avaient déplacé"
+		},
+		"passé antérieur": {
+			"j'": "eus déplacé",
+			"tu": "eus déplacé",
+			"il/elle": "eut déplacé",
+			"nous": "eûmes déplacé",
+			"vous": "eûtes déplacé",
+			"ils/elles": "eurent déplacé"
+		},
+		"futur antérieur": {
+			"j'": "aurai déplacé",
+			"tu": "auras déplacé",
+			"il/elle": "aura déplacé",
+			"nous": "aurons déplacé",
+			"vous": "aurez déplacé",
+			"ils/elles": "auront déplacé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous déplaciez",
+			"qu'il/elle": "déplace",
+			"qu'ils/elles": "déplacent"
+		},
+		"imparfait": {
+			"que": "vous déplaçassiez",
+			"qu'il/elle": "déplaçât",
+			"qu'ils/elles": "déplaçassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse déplacé",
+			"que": "vous eussiez déplacé",
+			"qu'il/elle": "eût déplacé",
+			"qu'ils/elles": "eussent déplacé"
+		},
+		"passé": {
+			"j'": "aie déplacé",
+			"que": "vous ayez déplacé",
+			"qu'il/elle": "ait déplacé",
+			"qu'ils/elles": "aient déplacé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "déplacerais",
+			"tu": "déplacerais",
+			"il/elle": "déplacerait",
+			"nous": "déplacerions",
+			"vous": "déplaceriez",
+			"ils/elles": "déplaceraient"
+		},
+		"passé première forme": {
+			"j'": "aurais déplacé",
+			"tu": "aurais déplacé",
+			"il/elle": "aurait déplacé",
+			"nous": "aurions déplacé",
+			"vous": "auriez déplacé",
+			"ils/elles": "auraient déplacé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse déplacé",
+			"tu": "eusses déplacé",
+			"il/elle": "eût déplacé",
+			"nous": "eussions déplacé",
+			"vous": "eussiez déplacé",
+			"ils/elles": "eussent déplacé"
+		}
+	},
+	"participe": {
+		"présent": { "déplaçant": "" },
+		"passé composé": { "ayant": "déplacé" },
+		"passé": {
+			"masc.sg.:": "déplacé",
+			"masc.pl.:": "déplacés",
+			"fém.sg.:": "déplacée",
+			"fém.pl.:": "déplacées"
+		}
+	},
+	"imperatif": {
+		"présent": { "déplace": "", "déplaçons": "", "déplacez": "" },
+		"passé": { "aie": "déplacé", "ayons": "déplacé", "ayez": "déplacé" }
+	},
+	"infinitif": {
+		"présent": { "déplacer": "" },
+		"passé": { "avoir": "déplacé" }
+	}
+}

@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "console; comfort; solace; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se consoler/ne pas consoler/ne pas se consoler",
+	"indicatif": {
+		"présent": {
+			"je": "console",
+			"tu": "consoles",
+			"il/elle": "console",
+			"nous": "consolons",
+			"vous": "consolez",
+			"ils/elles": "consolent"
+		},
+		"imparfait": {
+			"je": "consolais",
+			"tu": "consolais",
+			"il/elle": "consolait",
+			"nous": "consolions",
+			"vous": "consoliez",
+			"ils/elles": "consolaient"
+		},
+		"futur": {
+			"je": "consolerai",
+			"tu": "consoleras",
+			"il/elle": "consolera",
+			"nous": "consolerons",
+			"vous": "consolerez",
+			"ils/elles": "consoleront"
+		},
+		"passé simple": {
+			"je": "consolai",
+			"tu": "consolas",
+			"il/elle": "consola",
+			"nous": "consolâmes",
+			"vous": "consolâtes",
+			"ils/elles": "consolèrent"
+		},
+		"passé composé": {
+			"j'": "ai consolé",
+			"tu": "as consolé",
+			"il/elle": "a consolé",
+			"nous": "avons consolé",
+			"vous": "avez consolé",
+			"ils/elles": "ont consolé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais consolé",
+			"tu": "avais consolé",
+			"il/elle": "avait consolé",
+			"nous": "avions consolé",
+			"vous": "aviez consolé",
+			"ils/elles": "avaient consolé"
+		},
+		"passé antérieur": {
+			"j'": "eus consolé",
+			"tu": "eus consolé",
+			"il/elle": "eut consolé",
+			"nous": "eûmes consolé",
+			"vous": "eûtes consolé",
+			"ils/elles": "eurent consolé"
+		},
+		"futur antérieur": {
+			"j'": "aurai consolé",
+			"tu": "auras consolé",
+			"il/elle": "aura consolé",
+			"nous": "aurons consolé",
+			"vous": "aurez consolé",
+			"ils/elles": "auront consolé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous consoliez",
+			"qu'il/elle": "console",
+			"qu'ils/elles": "consolent"
+		},
+		"imparfait": {
+			"que": "vous consolassiez",
+			"qu'il/elle": "consolât",
+			"qu'ils/elles": "consolassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse consolé",
+			"que": "vous eussiez consolé",
+			"qu'il/elle": "eût consolé",
+			"qu'ils/elles": "eussent consolé"
+		},
+		"passé": {
+			"j'": "aie consolé",
+			"que": "vous ayez consolé",
+			"qu'il/elle": "ait consolé",
+			"qu'ils/elles": "aient consolé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "consolerais",
+			"tu": "consolerais",
+			"il/elle": "consolerait",
+			"nous": "consolerions",
+			"vous": "consoleriez",
+			"ils/elles": "consoleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais consolé",
+			"tu": "aurais consolé",
+			"il/elle": "aurait consolé",
+			"nous": "aurions consolé",
+			"vous": "auriez consolé",
+			"ils/elles": "auraient consolé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse consolé",
+			"tu": "eusses consolé",
+			"il/elle": "eût consolé",
+			"nous": "eussions consolé",
+			"vous": "eussiez consolé",
+			"ils/elles": "eussent consolé"
+		}
+	},
+	"participe": {
+		"présent": { "consolant": "" },
+		"passé composé": { "ayant": "consolé" },
+		"passé": {
+			"masc.sg.:": "consolé",
+			"masc.pl.:": "consolés",
+			"fém.sg.:": "consolée",
+			"fém.pl.:": "consolées"
+		}
+	},
+	"imperatif": {
+		"présent": { "console": "", "consolons": "", "consolez": "" },
+		"passé": { "aie": "consolé", "ayons": "consolé", "ayez": "consolé" }
+	},
+	"infinitif": {
+		"présent": { "consoler": "" },
+		"passé": { "avoir": "consolé" }
+	}
+}

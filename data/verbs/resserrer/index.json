@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "strengthen; tighten; enhance; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se resserrer/ne pas resserrer/ne pas se resserrer",
+	"indicatif": {
+		"présent": {
+			"je": "resserre",
+			"tu": "resserres",
+			"il/elle": "resserre",
+			"nous": "resserrons",
+			"vous": "resserrez",
+			"ils/elles": "resserrent"
+		},
+		"imparfait": {
+			"je": "resserrais",
+			"tu": "resserrais",
+			"il/elle": "resserrait",
+			"nous": "resserrions",
+			"vous": "resserriez",
+			"ils/elles": "resserraient"
+		},
+		"futur": {
+			"je": "resserrerai",
+			"tu": "resserreras",
+			"il/elle": "resserrera",
+			"nous": "resserrerons",
+			"vous": "resserrerez",
+			"ils/elles": "resserreront"
+		},
+		"passé simple": {
+			"je": "resserrai",
+			"tu": "resserras",
+			"il/elle": "resserra",
+			"nous": "resserrâmes",
+			"vous": "resserrâtes",
+			"ils/elles": "resserrèrent"
+		},
+		"passé composé": {
+			"j'": "ai resserré",
+			"tu": "as resserré",
+			"il/elle": "a resserré",
+			"nous": "avons resserré",
+			"vous": "avez resserré",
+			"ils/elles": "ont resserré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais resserré",
+			"tu": "avais resserré",
+			"il/elle": "avait resserré",
+			"nous": "avions resserré",
+			"vous": "aviez resserré",
+			"ils/elles": "avaient resserré"
+		},
+		"passé antérieur": {
+			"j'": "eus resserré",
+			"tu": "eus resserré",
+			"il/elle": "eut resserré",
+			"nous": "eûmes resserré",
+			"vous": "eûtes resserré",
+			"ils/elles": "eurent resserré"
+		},
+		"futur antérieur": {
+			"j'": "aurai resserré",
+			"tu": "auras resserré",
+			"il/elle": "aura resserré",
+			"nous": "aurons resserré",
+			"vous": "aurez resserré",
+			"ils/elles": "auront resserré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous resserriez",
+			"qu'il/elle": "resserre",
+			"qu'ils/elles": "resserrent"
+		},
+		"imparfait": {
+			"que": "vous resserrassiez",
+			"qu'il/elle": "resserrât",
+			"qu'ils/elles": "resserrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse resserré",
+			"que": "vous eussiez resserré",
+			"qu'il/elle": "eût resserré",
+			"qu'ils/elles": "eussent resserré"
+		},
+		"passé": {
+			"j'": "aie resserré",
+			"que": "vous ayez resserré",
+			"qu'il/elle": "ait resserré",
+			"qu'ils/elles": "aient resserré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "resserrerais",
+			"tu": "resserrerais",
+			"il/elle": "resserrerait",
+			"nous": "resserrerions",
+			"vous": "resserreriez",
+			"ils/elles": "resserreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais resserré",
+			"tu": "aurais resserré",
+			"il/elle": "aurait resserré",
+			"nous": "aurions resserré",
+			"vous": "auriez resserré",
+			"ils/elles": "auraient resserré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse resserré",
+			"tu": "eusses resserré",
+			"il/elle": "eût resserré",
+			"nous": "eussions resserré",
+			"vous": "eussiez resserré",
+			"ils/elles": "eussent resserré"
+		}
+	},
+	"participe": {
+		"présent": { "resserrant": "" },
+		"passé composé": { "ayant": "resserré" },
+		"passé": {
+			"masc.sg.:": "resserré",
+			"masc.pl.:": "resserrés",
+			"fém.sg.:": "resserrée",
+			"fém.pl.:": "resserrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "resserre": "", "resserrons": "", "resserrez": "" },
+		"passé": { "aie": "resserré", "ayons": "resserré", "ayez": "resserré" }
+	},
+	"infinitif": {
+		"présent": { "resserrer": "" },
+		"passé": { "avoir": "resserré" }
+	}
+}

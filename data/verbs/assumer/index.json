@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "assume; take; shoulder; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'assumer/ne pas assumer/ne pas s'assumer",
+	"indicatif": {
+		"présent": {
+			"j'": "assume",
+			"tu": "assumes",
+			"il/elle": "assume",
+			"nous": "assumons",
+			"vous": "assumez",
+			"ils/elles": "assument"
+		},
+		"imparfait": {
+			"j'": "assumais",
+			"tu": "assumais",
+			"il/elle": "assumait",
+			"nous": "assumions",
+			"vous": "assumiez",
+			"ils/elles": "assumaient"
+		},
+		"futur": {
+			"j'": "assumerai",
+			"tu": "assumeras",
+			"il/elle": "assumera",
+			"nous": "assumerons",
+			"vous": "assumerez",
+			"ils/elles": "assumeront"
+		},
+		"passé simple": {
+			"j'": "assumai",
+			"tu": "assumas",
+			"il/elle": "assuma",
+			"nous": "assumâmes",
+			"vous": "assumâtes",
+			"ils/elles": "assumèrent"
+		},
+		"passé composé": {
+			"j'": "ai assumé",
+			"tu": "as assumé",
+			"il/elle": "a assumé",
+			"nous": "avons assumé",
+			"vous": "avez assumé",
+			"ils/elles": "ont assumé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais assumé",
+			"tu": "avais assumé",
+			"il/elle": "avait assumé",
+			"nous": "avions assumé",
+			"vous": "aviez assumé",
+			"ils/elles": "avaient assumé"
+		},
+		"passé antérieur": {
+			"j'": "eus assumé",
+			"tu": "eus assumé",
+			"il/elle": "eut assumé",
+			"nous": "eûmes assumé",
+			"vous": "eûtes assumé",
+			"ils/elles": "eurent assumé"
+		},
+		"futur antérieur": {
+			"j'": "aurai assumé",
+			"tu": "auras assumé",
+			"il/elle": "aura assumé",
+			"nous": "aurons assumé",
+			"vous": "aurez assumé",
+			"ils/elles": "auront assumé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "assume",
+			"que": "vous assumiez",
+			"qu'il/elle": "assume",
+			"qu'ils/elles": "assument"
+		},
+		"imparfait": {
+			"j'": "assumasse",
+			"que": "vous assumassiez",
+			"qu'il/elle": "assumât",
+			"qu'ils/elles": "assumassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse assumé",
+			"que": "vous eussiez assumé",
+			"qu'il/elle": "eût assumé",
+			"qu'ils/elles": "eussent assumé"
+		},
+		"passé": {
+			"j'": "aie assumé",
+			"que": "vous ayez assumé",
+			"qu'il/elle": "ait assumé",
+			"qu'ils/elles": "aient assumé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "assumerais",
+			"tu": "assumerais",
+			"il/elle": "assumerait",
+			"nous": "assumerions",
+			"vous": "assumeriez",
+			"ils/elles": "assumeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais assumé",
+			"tu": "aurais assumé",
+			"il/elle": "aurait assumé",
+			"nous": "aurions assumé",
+			"vous": "auriez assumé",
+			"ils/elles": "auraient assumé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse assumé",
+			"tu": "eusses assumé",
+			"il/elle": "eût assumé",
+			"nous": "eussions assumé",
+			"vous": "eussiez assumé",
+			"ils/elles": "eussent assumé"
+		}
+	},
+	"participe": {
+		"présent": { "assumant": "" },
+		"passé composé": { "ayant": "assumé" },
+		"passé": {
+			"masc.sg.:": "assumé",
+			"masc.pl.:": "assumés",
+			"fém.sg.:": "assumée",
+			"fém.pl.:": "assumées"
+		}
+	},
+	"imperatif": {
+		"présent": { "assume": "", "assumons": "", "assumez": "" },
+		"passé": { "aie": "assumé", "ayons": "assumé", "ayez": "assumé" }
+	},
+	"infinitif": { "présent": { "assumer": "" }, "passé": { "avoir": "assumé" } }
+}

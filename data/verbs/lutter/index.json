@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "fight; struggle; strive; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas lutter",
+	"indicatif": {
+		"présent": {
+			"je": "lutte",
+			"tu": "luttes",
+			"il/elle": "lutte",
+			"nous": "luttons",
+			"vous": "luttez",
+			"ils/elles": "luttent"
+		},
+		"imparfait": {
+			"je": "luttais",
+			"tu": "luttais",
+			"il/elle": "luttait",
+			"nous": "luttions",
+			"vous": "luttiez",
+			"ils/elles": "luttaient"
+		},
+		"futur": {
+			"je": "lutterai",
+			"tu": "lutteras",
+			"il/elle": "luttera",
+			"nous": "lutterons",
+			"vous": "lutterez",
+			"ils/elles": "lutteront"
+		},
+		"passé simple": {
+			"je": "luttai",
+			"tu": "luttas",
+			"il/elle": "lutta",
+			"nous": "luttâmes",
+			"vous": "luttâtes",
+			"ils/elles": "luttèrent"
+		},
+		"passé composé": {
+			"j'": "ai lutté",
+			"tu": "as lutté",
+			"il/elle": "a lutté",
+			"nous": "avons lutté",
+			"vous": "avez lutté",
+			"ils/elles": "ont lutté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais lutté",
+			"tu": "avais lutté",
+			"il/elle": "avait lutté",
+			"nous": "avions lutté",
+			"vous": "aviez lutté",
+			"ils/elles": "avaient lutté"
+		},
+		"passé antérieur": {
+			"j'": "eus lutté",
+			"tu": "eus lutté",
+			"il/elle": "eut lutté",
+			"nous": "eûmes lutté",
+			"vous": "eûtes lutté",
+			"ils/elles": "eurent lutté"
+		},
+		"futur antérieur": {
+			"j'": "aurai lutté",
+			"tu": "auras lutté",
+			"il/elle": "aura lutté",
+			"nous": "aurons lutté",
+			"vous": "aurez lutté",
+			"ils/elles": "auront lutté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous luttiez",
+			"qu'il/elle": "lutte",
+			"qu'ils/elles": "luttent"
+		},
+		"imparfait": {
+			"que": "vous luttassiez",
+			"qu'il/elle": "luttât",
+			"qu'ils/elles": "luttassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse lutté",
+			"que": "vous eussiez lutté",
+			"qu'il/elle": "eût lutté",
+			"qu'ils/elles": "eussent lutté"
+		},
+		"passé": {
+			"j'": "aie lutté",
+			"que": "vous ayez lutté",
+			"qu'il/elle": "ait lutté",
+			"qu'ils/elles": "aient lutté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "lutterais",
+			"tu": "lutterais",
+			"il/elle": "lutterait",
+			"nous": "lutterions",
+			"vous": "lutteriez",
+			"ils/elles": "lutteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais lutté",
+			"tu": "aurais lutté",
+			"il/elle": "aurait lutté",
+			"nous": "aurions lutté",
+			"vous": "auriez lutté",
+			"ils/elles": "auraient lutté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse lutté",
+			"tu": "eusses lutté",
+			"il/elle": "eût lutté",
+			"nous": "eussions lutté",
+			"vous": "eussiez lutté",
+			"ils/elles": "eussent lutté"
+		}
+	},
+	"participe": {
+		"présent": { "luttant": "" },
+		"passé composé": { "ayant": "lutté" },
+		"passé": {
+			"masc.sg.:": "lutté",
+			"masc.pl.:": "luttés",
+			"fém.sg.:": "luttée",
+			"fém.pl.:": "luttées"
+		}
+	},
+	"imperatif": {
+		"présent": { "lutte": "", "luttons": "", "luttez": "" },
+		"passé": { "aie": "lutté", "ayons": "lutté", "ayez": "lutté" }
+	},
+	"infinitif": { "présent": { "lutter": "" }, "passé": { "avoir": "lutté" } }
+}

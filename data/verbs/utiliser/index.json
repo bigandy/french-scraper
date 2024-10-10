@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "use; utilize; utilise; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'utiliser/ne pas utiliser/ne pas s'utiliser",
+	"indicatif": {
+		"présent": {
+			"j'": "utilise",
+			"tu": "utilises",
+			"il/elle": "utilise",
+			"nous": "utilisons",
+			"vous": "utilisez",
+			"ils/elles": "utilisent"
+		},
+		"imparfait": {
+			"j'": "utilisais",
+			"tu": "utilisais",
+			"il/elle": "utilisait",
+			"nous": "utilisions",
+			"vous": "utilisiez",
+			"ils/elles": "utilisaient"
+		},
+		"futur": {
+			"j'": "utiliserai",
+			"tu": "utiliseras",
+			"il/elle": "utilisera",
+			"nous": "utiliserons",
+			"vous": "utiliserez",
+			"ils/elles": "utiliseront"
+		},
+		"passé simple": {
+			"j'": "utilisai",
+			"tu": "utilisas",
+			"il/elle": "utilisa",
+			"nous": "utilisâmes",
+			"vous": "utilisâtes",
+			"ils/elles": "utilisèrent"
+		},
+		"passé composé": {
+			"j'": "ai utilisé",
+			"tu": "as utilisé",
+			"il/elle": "a utilisé",
+			"nous": "avons utilisé",
+			"vous": "avez utilisé",
+			"ils/elles": "ont utilisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais utilisé",
+			"tu": "avais utilisé",
+			"il/elle": "avait utilisé",
+			"nous": "avions utilisé",
+			"vous": "aviez utilisé",
+			"ils/elles": "avaient utilisé"
+		},
+		"passé antérieur": {
+			"j'": "eus utilisé",
+			"tu": "eus utilisé",
+			"il/elle": "eut utilisé",
+			"nous": "eûmes utilisé",
+			"vous": "eûtes utilisé",
+			"ils/elles": "eurent utilisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai utilisé",
+			"tu": "auras utilisé",
+			"il/elle": "aura utilisé",
+			"nous": "aurons utilisé",
+			"vous": "aurez utilisé",
+			"ils/elles": "auront utilisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "utilise",
+			"que": "vous utilisiez",
+			"qu'il/elle": "utilise",
+			"qu'ils/elles": "utilisent"
+		},
+		"imparfait": {
+			"j'": "utilisasse",
+			"que": "vous utilisassiez",
+			"qu'il/elle": "utilisât",
+			"qu'ils/elles": "utilisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse utilisé",
+			"que": "vous eussiez utilisé",
+			"qu'il/elle": "eût utilisé",
+			"qu'ils/elles": "eussent utilisé"
+		},
+		"passé": {
+			"j'": "aie utilisé",
+			"que": "vous ayez utilisé",
+			"qu'il/elle": "ait utilisé",
+			"qu'ils/elles": "aient utilisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "utiliserais",
+			"tu": "utiliserais",
+			"il/elle": "utiliserait",
+			"nous": "utiliserions",
+			"vous": "utiliseriez",
+			"ils/elles": "utiliseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais utilisé",
+			"tu": "aurais utilisé",
+			"il/elle": "aurait utilisé",
+			"nous": "aurions utilisé",
+			"vous": "auriez utilisé",
+			"ils/elles": "auraient utilisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse utilisé",
+			"tu": "eusses utilisé",
+			"il/elle": "eût utilisé",
+			"nous": "eussions utilisé",
+			"vous": "eussiez utilisé",
+			"ils/elles": "eussent utilisé"
+		}
+	},
+	"participe": {
+		"présent": { "utilisant": "" },
+		"passé composé": { "ayant": "utilisé" },
+		"passé": {
+			"masc.sg.:": "utilisé",
+			"masc.pl.:": "utilisés",
+			"fém.sg.:": "utilisée",
+			"fém.pl.:": "utilisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "utilise": "", "utilisons": "", "utilisez": "" },
+		"passé": { "aie": "utilisé", "ayons": "utilisé", "ayez": "utilisé" }
+	},
+	"infinitif": {
+		"présent": { "utiliser": "" },
+		"passé": { "avoir": "utilisé" }
+	}
+}

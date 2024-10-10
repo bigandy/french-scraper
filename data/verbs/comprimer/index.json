@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "compress; press; squeeze; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se comprimer/ne pas comprimer/ne pas se comprimer",
+	"indicatif": {
+		"présent": {
+			"je": "comprime",
+			"tu": "comprimes",
+			"il/elle": "comprime",
+			"nous": "comprimons",
+			"vous": "comprimez",
+			"ils/elles": "compriment"
+		},
+		"imparfait": {
+			"je": "comprimais",
+			"tu": "comprimais",
+			"il/elle": "comprimait",
+			"nous": "comprimions",
+			"vous": "comprimiez",
+			"ils/elles": "comprimaient"
+		},
+		"futur": {
+			"je": "comprimerai",
+			"tu": "comprimeras",
+			"il/elle": "comprimera",
+			"nous": "comprimerons",
+			"vous": "comprimerez",
+			"ils/elles": "comprimeront"
+		},
+		"passé simple": {
+			"je": "comprimai",
+			"tu": "comprimas",
+			"il/elle": "comprima",
+			"nous": "comprimâmes",
+			"vous": "comprimâtes",
+			"ils/elles": "comprimèrent"
+		},
+		"passé composé": {
+			"j'": "ai comprimé",
+			"tu": "as comprimé",
+			"il/elle": "a comprimé",
+			"nous": "avons comprimé",
+			"vous": "avez comprimé",
+			"ils/elles": "ont comprimé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais comprimé",
+			"tu": "avais comprimé",
+			"il/elle": "avait comprimé",
+			"nous": "avions comprimé",
+			"vous": "aviez comprimé",
+			"ils/elles": "avaient comprimé"
+		},
+		"passé antérieur": {
+			"j'": "eus comprimé",
+			"tu": "eus comprimé",
+			"il/elle": "eut comprimé",
+			"nous": "eûmes comprimé",
+			"vous": "eûtes comprimé",
+			"ils/elles": "eurent comprimé"
+		},
+		"futur antérieur": {
+			"j'": "aurai comprimé",
+			"tu": "auras comprimé",
+			"il/elle": "aura comprimé",
+			"nous": "aurons comprimé",
+			"vous": "aurez comprimé",
+			"ils/elles": "auront comprimé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous comprimiez",
+			"qu'il/elle": "comprime",
+			"qu'ils/elles": "compriment"
+		},
+		"imparfait": {
+			"que": "vous comprimassiez",
+			"qu'il/elle": "comprimât",
+			"qu'ils/elles": "comprimassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse comprimé",
+			"que": "vous eussiez comprimé",
+			"qu'il/elle": "eût comprimé",
+			"qu'ils/elles": "eussent comprimé"
+		},
+		"passé": {
+			"j'": "aie comprimé",
+			"que": "vous ayez comprimé",
+			"qu'il/elle": "ait comprimé",
+			"qu'ils/elles": "aient comprimé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "comprimerais",
+			"tu": "comprimerais",
+			"il/elle": "comprimerait",
+			"nous": "comprimerions",
+			"vous": "comprimeriez",
+			"ils/elles": "comprimeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais comprimé",
+			"tu": "aurais comprimé",
+			"il/elle": "aurait comprimé",
+			"nous": "aurions comprimé",
+			"vous": "auriez comprimé",
+			"ils/elles": "auraient comprimé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse comprimé",
+			"tu": "eusses comprimé",
+			"il/elle": "eût comprimé",
+			"nous": "eussions comprimé",
+			"vous": "eussiez comprimé",
+			"ils/elles": "eussent comprimé"
+		}
+	},
+	"participe": {
+		"présent": { "comprimant": "" },
+		"passé composé": { "ayant": "comprimé" },
+		"passé": {
+			"masc.sg.:": "comprimé",
+			"masc.pl.:": "comprimés",
+			"fém.sg.:": "comprimée",
+			"fém.pl.:": "comprimées"
+		}
+	},
+	"imperatif": {
+		"présent": { "comprime": "", "comprimons": "", "comprimez": "" },
+		"passé": { "aie": "comprimé", "ayons": "comprimé", "ayez": "comprimé" }
+	},
+	"infinitif": {
+		"présent": { "comprimer": "" },
+		"passé": { "avoir": "comprimé" }
+	}
+}

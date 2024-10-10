@@ -1,0 +1,147 @@
+{
+	"name": "rompre",
+	"definition": "interrupt; stop; discontinue; ...",
+	"model": "rompre",
+	"auxiliary": "avoir",
+	"otherForms": "s'interrompre/ne pas interrompre/ne pas s'interrompre",
+	"indicatif": {
+		"présent": {
+			"j'": "interromps",
+			"tu": "interromps",
+			"il/elle": "interrompt",
+			"nous": "interrompons",
+			"vous": "interrompez",
+			"ils/elles": "interrompent"
+		},
+		"imparfait": {
+			"j'": "interrompais",
+			"tu": "interrompais",
+			"il/elle": "interrompait",
+			"nous": "interrompions",
+			"vous": "interrompiez",
+			"ils/elles": "interrompaient"
+		},
+		"futur": {
+			"j'": "interromprai",
+			"tu": "interrompras",
+			"il/elle": "interrompra",
+			"nous": "interromprons",
+			"vous": "interromprez",
+			"ils/elles": "interrompront"
+		},
+		"passé simple": {
+			"j'": "interrompis",
+			"tu": "interrompis",
+			"il/elle": "interrompit",
+			"nous": "interrompîmes",
+			"vous": "interrompîtes",
+			"ils/elles": "interrompirent"
+		},
+		"passé composé": {
+			"j'": "ai interrompu",
+			"tu": "as interrompu",
+			"il/elle": "a interrompu",
+			"nous": "avons interrompu",
+			"vous": "avez interrompu",
+			"ils/elles": "ont interrompu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais interrompu",
+			"tu": "avais interrompu",
+			"il/elle": "avait interrompu",
+			"nous": "avions interrompu",
+			"vous": "aviez interrompu",
+			"ils/elles": "avaient interrompu"
+		},
+		"passé antérieur": {
+			"j'": "eus interrompu",
+			"tu": "eus interrompu",
+			"il/elle": "eut interrompu",
+			"nous": "eûmes interrompu",
+			"vous": "eûtes interrompu",
+			"ils/elles": "eurent interrompu"
+		},
+		"futur antérieur": {
+			"j'": "aurai interrompu",
+			"tu": "auras interrompu",
+			"il/elle": "aura interrompu",
+			"nous": "aurons interrompu",
+			"vous": "aurez interrompu",
+			"ils/elles": "auront interrompu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "interrompe",
+			"que": "vous interrompiez",
+			"qu'il/elle": "interrompe",
+			"qu'ils/elles": "interrompent"
+		},
+		"imparfait": {
+			"j'": "interrompisse",
+			"que": "vous interrompissiez",
+			"qu'il/elle": "interrompît",
+			"qu'ils/elles": "interrompissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse interrompu",
+			"que": "vous eussiez interrompu",
+			"qu'il/elle": "eût interrompu",
+			"qu'ils/elles": "eussent interrompu"
+		},
+		"passé": {
+			"j'": "aie interrompu",
+			"que": "vous ayez interrompu",
+			"qu'il/elle": "ait interrompu",
+			"qu'ils/elles": "aient interrompu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "interromprais",
+			"tu": "interromprais",
+			"il/elle": "interromprait",
+			"nous": "interromprions",
+			"vous": "interrompriez",
+			"ils/elles": "interrompraient"
+		},
+		"passé première forme": {
+			"j'": "aurais interrompu",
+			"tu": "aurais interrompu",
+			"il/elle": "aurait interrompu",
+			"nous": "aurions interrompu",
+			"vous": "auriez interrompu",
+			"ils/elles": "auraient interrompu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse interrompu",
+			"tu": "eusses interrompu",
+			"il/elle": "eût interrompu",
+			"nous": "eussions interrompu",
+			"vous": "eussiez interrompu",
+			"ils/elles": "eussent interrompu"
+		}
+	},
+	"participe": {
+		"présent": { "interrompant": "" },
+		"passé composé": { "ayant": "interrompu" },
+		"passé": {
+			"masc.sg.:": "interrompu",
+			"masc.pl.:": "interrompus",
+			"fém.sg.:": "interrompue",
+			"fém.pl.:": "interrompues"
+		}
+	},
+	"imperatif": {
+		"présent": { "interromps": "", "interrompons": "", "interrompez": "" },
+		"passé": {
+			"aie": "interrompu",
+			"ayons": "interrompu",
+			"ayez": "interrompu"
+		}
+	},
+	"infinitif": {
+		"présent": { "interrompre": "" },
+		"passé": { "avoir": "interrompu" }
+	}
+}

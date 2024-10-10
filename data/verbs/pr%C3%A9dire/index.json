@@ -1,0 +1,138 @@
+{
+	"name": "interdire",
+	"definition": "predict; forecast; foretell; ...",
+	"model": "interdire",
+	"auxiliary": "avoir",
+	"otherForms": "se prédire/ne pas prédire/ne pas se prédire",
+	"indicatif": {
+		"présent": {
+			"je": "prédis",
+			"tu": "prédis",
+			"il/elle": "prédit",
+			"nous": "prédisons",
+			"vous": "prédisez",
+			"ils/elles": "prédisent"
+		},
+		"imparfait": {
+			"je": "prédisais",
+			"tu": "prédisais",
+			"il/elle": "prédisait",
+			"nous": "prédisions",
+			"vous": "prédisiez",
+			"ils/elles": "prédisaient"
+		},
+		"futur": {
+			"je": "prédirai",
+			"tu": "prédiras",
+			"il/elle": "prédira",
+			"nous": "prédirons",
+			"vous": "prédirez",
+			"ils/elles": "prédiront"
+		},
+		"passé simple": {
+			"je": "prédis",
+			"tu": "prédis",
+			"il/elle": "prédit",
+			"nous": "prédîmes",
+			"vous": "prédîtes",
+			"ils/elles": "prédirent"
+		},
+		"passé composé": {
+			"j'": "ai prédit",
+			"tu": "as prédit",
+			"il/elle": "a prédit",
+			"nous": "avons prédit",
+			"vous": "avez prédit",
+			"ils/elles": "ont prédit"
+		},
+		"plus-que-parfait": {
+			"j'": "avais prédit",
+			"tu": "avais prédit",
+			"il/elle": "avait prédit",
+			"nous": "avions prédit",
+			"vous": "aviez prédit",
+			"ils/elles": "avaient prédit"
+		},
+		"passé antérieur": {
+			"j'": "eus prédit",
+			"tu": "eus prédit",
+			"il/elle": "eut prédit",
+			"nous": "eûmes prédit",
+			"vous": "eûtes prédit",
+			"ils/elles": "eurent prédit"
+		},
+		"futur antérieur": {
+			"j'": "aurai prédit",
+			"tu": "auras prédit",
+			"il/elle": "aura prédit",
+			"nous": "aurons prédit",
+			"vous": "aurez prédit",
+			"ils/elles": "auront prédit"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous prédisiez",
+			"qu'il/elle": "prédise",
+			"qu'ils/elles": "prédisent"
+		},
+		"imparfait": {
+			"que": "vous prédissiez",
+			"qu'il/elle": "prédît",
+			"qu'ils/elles": "prédissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse prédit",
+			"que": "vous eussiez prédit",
+			"qu'il/elle": "eût prédit",
+			"qu'ils/elles": "eussent prédit"
+		},
+		"passé": {
+			"j'": "aie prédit",
+			"que": "vous ayez prédit",
+			"qu'il/elle": "ait prédit",
+			"qu'ils/elles": "aient prédit"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "prédirais",
+			"tu": "prédirais",
+			"il/elle": "prédirait",
+			"nous": "prédirions",
+			"vous": "prédiriez",
+			"ils/elles": "prédiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais prédit",
+			"tu": "aurais prédit",
+			"il/elle": "aurait prédit",
+			"nous": "aurions prédit",
+			"vous": "auriez prédit",
+			"ils/elles": "auraient prédit"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse prédit",
+			"tu": "eusses prédit",
+			"il/elle": "eût prédit",
+			"nous": "eussions prédit",
+			"vous": "eussiez prédit",
+			"ils/elles": "eussent prédit"
+		}
+	},
+	"participe": {
+		"présent": { "prédisant": "" },
+		"passé composé": { "ayant": "prédit" },
+		"passé": {
+			"masc.sg.:": "prédit",
+			"masc.pl.:": "prédits",
+			"fém.sg.:": "prédite",
+			"fém.pl.:": "prédites"
+		}
+	},
+	"imperatif": {
+		"présent": { "prédis": "", "prédisons": "", "prédisez": "" },
+		"passé": { "aie": "prédit", "ayons": "prédit", "ayez": "prédit" }
+	},
+	"infinitif": { "présent": { "prédire": "" }, "passé": { "avoir": "prédit" } }
+}

@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "connect; couple; interconnect; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se raccorder/ne pas raccorder/ne pas se raccorder",
+	"indicatif": {
+		"présent": {
+			"je": "raccorde",
+			"tu": "raccordes",
+			"il/elle": "raccorde",
+			"nous": "raccordons",
+			"vous": "raccordez",
+			"ils/elles": "raccordent"
+		},
+		"imparfait": {
+			"je": "raccordais",
+			"tu": "raccordais",
+			"il/elle": "raccordait",
+			"nous": "raccordions",
+			"vous": "raccordiez",
+			"ils/elles": "raccordaient"
+		},
+		"futur": {
+			"je": "raccorderai",
+			"tu": "raccorderas",
+			"il/elle": "raccordera",
+			"nous": "raccorderons",
+			"vous": "raccorderez",
+			"ils/elles": "raccorderont"
+		},
+		"passé simple": {
+			"je": "raccordai",
+			"tu": "raccordas",
+			"il/elle": "raccorda",
+			"nous": "raccordâmes",
+			"vous": "raccordâtes",
+			"ils/elles": "raccordèrent"
+		},
+		"passé composé": {
+			"j'": "ai raccordé",
+			"tu": "as raccordé",
+			"il/elle": "a raccordé",
+			"nous": "avons raccordé",
+			"vous": "avez raccordé",
+			"ils/elles": "ont raccordé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais raccordé",
+			"tu": "avais raccordé",
+			"il/elle": "avait raccordé",
+			"nous": "avions raccordé",
+			"vous": "aviez raccordé",
+			"ils/elles": "avaient raccordé"
+		},
+		"passé antérieur": {
+			"j'": "eus raccordé",
+			"tu": "eus raccordé",
+			"il/elle": "eut raccordé",
+			"nous": "eûmes raccordé",
+			"vous": "eûtes raccordé",
+			"ils/elles": "eurent raccordé"
+		},
+		"futur antérieur": {
+			"j'": "aurai raccordé",
+			"tu": "auras raccordé",
+			"il/elle": "aura raccordé",
+			"nous": "aurons raccordé",
+			"vous": "aurez raccordé",
+			"ils/elles": "auront raccordé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous raccordiez",
+			"qu'il/elle": "raccorde",
+			"qu'ils/elles": "raccordent"
+		},
+		"imparfait": {
+			"que": "vous raccordassiez",
+			"qu'il/elle": "raccordât",
+			"qu'ils/elles": "raccordassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse raccordé",
+			"que": "vous eussiez raccordé",
+			"qu'il/elle": "eût raccordé",
+			"qu'ils/elles": "eussent raccordé"
+		},
+		"passé": {
+			"j'": "aie raccordé",
+			"que": "vous ayez raccordé",
+			"qu'il/elle": "ait raccordé",
+			"qu'ils/elles": "aient raccordé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "raccorderais",
+			"tu": "raccorderais",
+			"il/elle": "raccorderait",
+			"nous": "raccorderions",
+			"vous": "raccorderiez",
+			"ils/elles": "raccorderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais raccordé",
+			"tu": "aurais raccordé",
+			"il/elle": "aurait raccordé",
+			"nous": "aurions raccordé",
+			"vous": "auriez raccordé",
+			"ils/elles": "auraient raccordé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse raccordé",
+			"tu": "eusses raccordé",
+			"il/elle": "eût raccordé",
+			"nous": "eussions raccordé",
+			"vous": "eussiez raccordé",
+			"ils/elles": "eussent raccordé"
+		}
+	},
+	"participe": {
+		"présent": { "raccordant": "" },
+		"passé composé": { "ayant": "raccordé" },
+		"passé": {
+			"masc.sg.:": "raccordé",
+			"masc.pl.:": "raccordés",
+			"fém.sg.:": "raccordée",
+			"fém.pl.:": "raccordées"
+		}
+	},
+	"imperatif": {
+		"présent": { "raccorde": "", "raccordons": "", "raccordez": "" },
+		"passé": { "aie": "raccordé", "ayons": "raccordé", "ayez": "raccordé" }
+	},
+	"infinitif": {
+		"présent": { "raccorder": "" },
+		"passé": { "avoir": "raccordé" }
+	}
+}

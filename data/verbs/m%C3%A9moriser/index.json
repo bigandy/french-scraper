@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "store; memorize; memorise; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se mémoriser/ne pas mémoriser/ne pas se mémoriser",
+	"indicatif": {
+		"présent": {
+			"je": "mémorise",
+			"tu": "mémorises",
+			"il/elle": "mémorise",
+			"nous": "mémorisons",
+			"vous": "mémorisez",
+			"ils/elles": "mémorisent"
+		},
+		"imparfait": {
+			"je": "mémorisais",
+			"tu": "mémorisais",
+			"il/elle": "mémorisait",
+			"nous": "mémorisions",
+			"vous": "mémorisiez",
+			"ils/elles": "mémorisaient"
+		},
+		"futur": {
+			"je": "mémoriserai",
+			"tu": "mémoriseras",
+			"il/elle": "mémorisera",
+			"nous": "mémoriserons",
+			"vous": "mémoriserez",
+			"ils/elles": "mémoriseront"
+		},
+		"passé simple": {
+			"je": "mémorisai",
+			"tu": "mémorisas",
+			"il/elle": "mémorisa",
+			"nous": "mémorisâmes",
+			"vous": "mémorisâtes",
+			"ils/elles": "mémorisèrent"
+		},
+		"passé composé": {
+			"j'": "ai mémorisé",
+			"tu": "as mémorisé",
+			"il/elle": "a mémorisé",
+			"nous": "avons mémorisé",
+			"vous": "avez mémorisé",
+			"ils/elles": "ont mémorisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais mémorisé",
+			"tu": "avais mémorisé",
+			"il/elle": "avait mémorisé",
+			"nous": "avions mémorisé",
+			"vous": "aviez mémorisé",
+			"ils/elles": "avaient mémorisé"
+		},
+		"passé antérieur": {
+			"j'": "eus mémorisé",
+			"tu": "eus mémorisé",
+			"il/elle": "eut mémorisé",
+			"nous": "eûmes mémorisé",
+			"vous": "eûtes mémorisé",
+			"ils/elles": "eurent mémorisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai mémorisé",
+			"tu": "auras mémorisé",
+			"il/elle": "aura mémorisé",
+			"nous": "aurons mémorisé",
+			"vous": "aurez mémorisé",
+			"ils/elles": "auront mémorisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous mémorisiez",
+			"qu'il/elle": "mémorise",
+			"qu'ils/elles": "mémorisent"
+		},
+		"imparfait": {
+			"que": "vous mémorisassiez",
+			"qu'il/elle": "mémorisât",
+			"qu'ils/elles": "mémorisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse mémorisé",
+			"que": "vous eussiez mémorisé",
+			"qu'il/elle": "eût mémorisé",
+			"qu'ils/elles": "eussent mémorisé"
+		},
+		"passé": {
+			"j'": "aie mémorisé",
+			"que": "vous ayez mémorisé",
+			"qu'il/elle": "ait mémorisé",
+			"qu'ils/elles": "aient mémorisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "mémoriserais",
+			"tu": "mémoriserais",
+			"il/elle": "mémoriserait",
+			"nous": "mémoriserions",
+			"vous": "mémoriseriez",
+			"ils/elles": "mémoriseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais mémorisé",
+			"tu": "aurais mémorisé",
+			"il/elle": "aurait mémorisé",
+			"nous": "aurions mémorisé",
+			"vous": "auriez mémorisé",
+			"ils/elles": "auraient mémorisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse mémorisé",
+			"tu": "eusses mémorisé",
+			"il/elle": "eût mémorisé",
+			"nous": "eussions mémorisé",
+			"vous": "eussiez mémorisé",
+			"ils/elles": "eussent mémorisé"
+		}
+	},
+	"participe": {
+		"présent": { "mémorisant": "" },
+		"passé composé": { "ayant": "mémorisé" },
+		"passé": {
+			"masc.sg.:": "mémorisé",
+			"masc.pl.:": "mémorisés",
+			"fém.sg.:": "mémorisée",
+			"fém.pl.:": "mémorisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "mémorise": "", "mémorisons": "", "mémorisez": "" },
+		"passé": { "aie": "mémorisé", "ayons": "mémorisé", "ayez": "mémorisé" }
+	},
+	"infinitif": {
+		"présent": { "mémoriser": "" },
+		"passé": { "avoir": "mémorisé" }
+	}
+}

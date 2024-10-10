@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "fire; turn; transfer; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se virer/ne pas virer/ne pas se virer",
+	"indicatif": {
+		"présent": {
+			"je": "vire",
+			"tu": "vires",
+			"il/elle": "vire",
+			"nous": "virons",
+			"vous": "virez",
+			"ils/elles": "virent"
+		},
+		"imparfait": {
+			"je": "virais",
+			"tu": "virais",
+			"il/elle": "virait",
+			"nous": "virions",
+			"vous": "viriez",
+			"ils/elles": "viraient"
+		},
+		"futur": {
+			"je": "virerai",
+			"tu": "vireras",
+			"il/elle": "virera",
+			"nous": "virerons",
+			"vous": "virerez",
+			"ils/elles": "vireront"
+		},
+		"passé simple": {
+			"je": "virai",
+			"tu": "viras",
+			"il/elle": "vira",
+			"nous": "virâmes",
+			"vous": "virâtes",
+			"ils/elles": "virèrent"
+		},
+		"passé composé": {
+			"j'": "ai viré",
+			"tu": "as viré",
+			"il/elle": "a viré",
+			"nous": "avons viré",
+			"vous": "avez viré",
+			"ils/elles": "ont viré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais viré",
+			"tu": "avais viré",
+			"il/elle": "avait viré",
+			"nous": "avions viré",
+			"vous": "aviez viré",
+			"ils/elles": "avaient viré"
+		},
+		"passé antérieur": {
+			"j'": "eus viré",
+			"tu": "eus viré",
+			"il/elle": "eut viré",
+			"nous": "eûmes viré",
+			"vous": "eûtes viré",
+			"ils/elles": "eurent viré"
+		},
+		"futur antérieur": {
+			"j'": "aurai viré",
+			"tu": "auras viré",
+			"il/elle": "aura viré",
+			"nous": "aurons viré",
+			"vous": "aurez viré",
+			"ils/elles": "auront viré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous viriez",
+			"qu'il/elle": "vire",
+			"qu'ils/elles": "virent"
+		},
+		"imparfait": {
+			"que": "vous virassiez",
+			"qu'il/elle": "virât",
+			"qu'ils/elles": "virassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse viré",
+			"que": "vous eussiez viré",
+			"qu'il/elle": "eût viré",
+			"qu'ils/elles": "eussent viré"
+		},
+		"passé": {
+			"j'": "aie viré",
+			"que": "vous ayez viré",
+			"qu'il/elle": "ait viré",
+			"qu'ils/elles": "aient viré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "virerais",
+			"tu": "virerais",
+			"il/elle": "virerait",
+			"nous": "virerions",
+			"vous": "vireriez",
+			"ils/elles": "vireraient"
+		},
+		"passé première forme": {
+			"j'": "aurais viré",
+			"tu": "aurais viré",
+			"il/elle": "aurait viré",
+			"nous": "aurions viré",
+			"vous": "auriez viré",
+			"ils/elles": "auraient viré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse viré",
+			"tu": "eusses viré",
+			"il/elle": "eût viré",
+			"nous": "eussions viré",
+			"vous": "eussiez viré",
+			"ils/elles": "eussent viré"
+		}
+	},
+	"participe": {
+		"présent": { "virant": "" },
+		"passé composé": { "ayant": "viré" },
+		"passé": {
+			"masc.sg.:": "viré",
+			"masc.pl.:": "virés",
+			"fém.sg.:": "virée",
+			"fém.pl.:": "virées"
+		}
+	},
+	"imperatif": {
+		"présent": { "vire": "", "virons": "", "virez": "" },
+		"passé": { "aie": "viré", "ayons": "viré", "ayez": "viré" }
+	},
+	"infinitif": { "présent": { "virer": "" }, "passé": { "avoir": "viré" } }
+}

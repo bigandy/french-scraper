@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "develop; prepare; elaborate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'élaborer/ne pas élaborer/ne pas s'élaborer",
+	"indicatif": {
+		"présent": {
+			"j'": "élabore",
+			"tu": "élabores",
+			"il/elle": "élabore",
+			"nous": "élaborons",
+			"vous": "élaborez",
+			"ils/elles": "élaborent"
+		},
+		"imparfait": {
+			"j'": "élaborais",
+			"tu": "élaborais",
+			"il/elle": "élaborait",
+			"nous": "élaborions",
+			"vous": "élaboriez",
+			"ils/elles": "élaboraient"
+		},
+		"futur": {
+			"j'": "élaborerai",
+			"tu": "élaboreras",
+			"il/elle": "élaborera",
+			"nous": "élaborerons",
+			"vous": "élaborerez",
+			"ils/elles": "élaboreront"
+		},
+		"passé simple": {
+			"j'": "élaborai",
+			"tu": "élaboras",
+			"il/elle": "élabora",
+			"nous": "élaborâmes",
+			"vous": "élaborâtes",
+			"ils/elles": "élaborèrent"
+		},
+		"passé composé": {
+			"j'": "ai élaboré",
+			"tu": "as élaboré",
+			"il/elle": "a élaboré",
+			"nous": "avons élaboré",
+			"vous": "avez élaboré",
+			"ils/elles": "ont élaboré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais élaboré",
+			"tu": "avais élaboré",
+			"il/elle": "avait élaboré",
+			"nous": "avions élaboré",
+			"vous": "aviez élaboré",
+			"ils/elles": "avaient élaboré"
+		},
+		"passé antérieur": {
+			"j'": "eus élaboré",
+			"tu": "eus élaboré",
+			"il/elle": "eut élaboré",
+			"nous": "eûmes élaboré",
+			"vous": "eûtes élaboré",
+			"ils/elles": "eurent élaboré"
+		},
+		"futur antérieur": {
+			"j'": "aurai élaboré",
+			"tu": "auras élaboré",
+			"il/elle": "aura élaboré",
+			"nous": "aurons élaboré",
+			"vous": "aurez élaboré",
+			"ils/elles": "auront élaboré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "élabore",
+			"que": "vous élaboriez",
+			"qu'il/elle": "élabore",
+			"qu'ils/elles": "élaborent"
+		},
+		"imparfait": {
+			"j'": "élaborasse",
+			"que": "vous élaborassiez",
+			"qu'il/elle": "élaborât",
+			"qu'ils/elles": "élaborassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse élaboré",
+			"que": "vous eussiez élaboré",
+			"qu'il/elle": "eût élaboré",
+			"qu'ils/elles": "eussent élaboré"
+		},
+		"passé": {
+			"j'": "aie élaboré",
+			"que": "vous ayez élaboré",
+			"qu'il/elle": "ait élaboré",
+			"qu'ils/elles": "aient élaboré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "élaborerais",
+			"tu": "élaborerais",
+			"il/elle": "élaborerait",
+			"nous": "élaborerions",
+			"vous": "élaboreriez",
+			"ils/elles": "élaboreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais élaboré",
+			"tu": "aurais élaboré",
+			"il/elle": "aurait élaboré",
+			"nous": "aurions élaboré",
+			"vous": "auriez élaboré",
+			"ils/elles": "auraient élaboré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse élaboré",
+			"tu": "eusses élaboré",
+			"il/elle": "eût élaboré",
+			"nous": "eussions élaboré",
+			"vous": "eussiez élaboré",
+			"ils/elles": "eussent élaboré"
+		}
+	},
+	"participe": {
+		"présent": { "élaborant": "" },
+		"passé composé": { "ayant": "élaboré" },
+		"passé": {
+			"masc.sg.:": "élaboré",
+			"masc.pl.:": "élaborés",
+			"fém.sg.:": "élaborée",
+			"fém.pl.:": "élaborées"
+		}
+	},
+	"imperatif": {
+		"présent": { "élabore": "", "élaborons": "", "élaborez": "" },
+		"passé": { "aie": "élaboré", "ayons": "élaboré", "ayez": "élaboré" }
+	},
+	"infinitif": {
+		"présent": { "élaborer": "" },
+		"passé": { "avoir": "élaboré" }
+	}
+}

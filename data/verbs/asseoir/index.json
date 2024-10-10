@@ -1,0 +1,153 @@
+{
+	"name": "asseoir",
+	"definition": "sit; sit down; ...",
+	"model": "asseoir",
+	"auxiliary": "avoir",
+	"otherForms": "s'asseoir/ne pas asseoir/ne pas s'asseoir",
+	"indicatif": {
+		"présent": {
+			"j'": "assois",
+			"tu": "assois",
+			"il/elle": "assoit",
+			"nous": "assoyons",
+			"vous": "assoyez",
+			"ils/elles": "assoient",
+			"": ""
+		},
+		"imparfait": {
+			"j'": "assoyais",
+			"tu": "assoyais",
+			"il/elle": "assoyait",
+			"nous": "assoyions",
+			"vous": "assoyiez",
+			"ils/elles": "assoyaient",
+			"": ""
+		},
+		"futur": {
+			"j'": "assoirai",
+			"tu": "assoiras",
+			"il/elle": "assoira",
+			"nous": "assoirons",
+			"vous": "assoirez",
+			"ils/elles": "assoiront",
+			"": ""
+		},
+		"passé simple": {
+			"j'": "assis",
+			"tu": "assis",
+			"il/elle": "assit",
+			"nous": "assîmes",
+			"vous": "assîtes",
+			"ils/elles": "assirent"
+		},
+		"passé composé": {
+			"j'": "ai assis",
+			"tu": "as assis",
+			"il/elle": "a assis",
+			"nous": "avons assis",
+			"vous": "avez assis",
+			"ils/elles": "ont assis"
+		},
+		"plus-que-parfait": {
+			"j'": "avais assis",
+			"tu": "avais assis",
+			"il/elle": "avait assis",
+			"nous": "avions assis",
+			"vous": "aviez assis",
+			"ils/elles": "avaient assis"
+		},
+		"passé antérieur": {
+			"j'": "eus assis",
+			"tu": "eus assis",
+			"il/elle": "eut assis",
+			"nous": "eûmes assis",
+			"vous": "eûtes assis",
+			"ils/elles": "eurent assis"
+		},
+		"futur antérieur": {
+			"j'": "aurai assis",
+			"tu": "auras assis",
+			"il/elle": "aura assis",
+			"nous": "aurons assis",
+			"vous": "aurez assis",
+			"ils/elles": "auront assis"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "assoie",
+			"que": "vous assoyiez",
+			"qu'il/elle": "assoie",
+			"qu'ils/elles": "assoient",
+			"": ""
+		},
+		"imparfait": {
+			"j'": "assisse",
+			"que": "vous assissiez",
+			"qu'il/elle": "assît",
+			"qu'ils/elles": "assissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse assis",
+			"que": "vous eussiez assis",
+			"qu'il/elle": "eût assis",
+			"qu'ils/elles": "eussent assis"
+		},
+		"passé": {
+			"j'": "aie assis",
+			"que": "vous ayez assis",
+			"qu'il/elle": "ait assis",
+			"qu'ils/elles": "aient assis"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "assoirais",
+			"tu": "assoirais",
+			"il/elle": "assoirait",
+			"nous": "assoirions",
+			"vous": "assoiriez",
+			"ils/elles": "assoiraient",
+			"": ""
+		},
+		"passé première forme": {
+			"j'": "aurais assis",
+			"tu": "aurais assis",
+			"il/elle": "aurait assis",
+			"nous": "aurions assis",
+			"vous": "auriez assis",
+			"ils/elles": "auraient assis"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse assis",
+			"tu": "eusses assis",
+			"il/elle": "eût assis",
+			"nous": "eussions assis",
+			"vous": "eussiez assis",
+			"ils/elles": "eussent assis"
+		}
+	},
+	"participe": {
+		"présent": { "asseyant": "", "": "", "assoyant": "" },
+		"passé composé": { "ayant": "assis" },
+		"passé": {
+			"masc.sg.:": "assis",
+			"masc.pl.:": "assis",
+			"fém.sg.:": "assise",
+			"fém.pl.:": "assises"
+		}
+	},
+	"imperatif": {
+		"présent": {
+			"assieds": "",
+			"asseyons": "",
+			"asseyez": "",
+			"": "",
+			"assois": "",
+			"assoyons": "",
+			"assoyez": ""
+		},
+		"passé": { "aie": "assis", "ayons": "assis", "ayez": "assis" }
+	},
+	"infinitif": { "présent": { "asseoir": "" }, "passé": { "avoir": "assis" } }
+}

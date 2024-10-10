@@ -1,0 +1,145 @@
+{
+	"name": "marcher",
+	"definition": "\n              characterize; characterise; describe; ...\n            ",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se caractériser/ne pas caractériser/ne pas se caractériser",
+	"indicatif": {
+		"présent": {
+			"je": "caractérise",
+			"tu": "caractérises",
+			"il/elle": "caractérise",
+			"nous": "caractérisons",
+			"vous": "caractérisez",
+			"ils/elles": "caractérisent"
+		},
+		"imparfait": {
+			"je": "caractérisais",
+			"tu": "caractérisais",
+			"il/elle": "caractérisait",
+			"nous": "caractérisions",
+			"vous": "caractérisiez",
+			"ils/elles": "caractérisaient"
+		},
+		"futur": {
+			"je": "caractériserai",
+			"tu": "caractériseras",
+			"il/elle": "caractérisera",
+			"nous": "caractériserons",
+			"vous": "caractériserez",
+			"ils/elles": "caractériseront"
+		},
+		"passé simple": {
+			"je": "caractérisai",
+			"tu": "caractérisas",
+			"il/elle": "caractérisa",
+			"nous": "caractérisâmes",
+			"vous": "caractérisâtes",
+			"ils/elles": "caractérisèrent"
+		},
+		"passé composé": {
+			"j'": "ai caractérisé",
+			"tu": "as caractérisé",
+			"il/elle": "a caractérisé",
+			"nous": "avons caractérisé",
+			"vous": "avez caractérisé",
+			"ils/elles": "ont caractérisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais caractérisé",
+			"tu": "avais caractérisé",
+			"il/elle": "avait caractérisé",
+			"nous": "avions caractérisé",
+			"vous": "aviez caractérisé",
+			"ils/elles": "avaient caractérisé"
+		},
+		"passé antérieur": {
+			"j'": "eus caractérisé",
+			"tu": "eus caractérisé",
+			"il/elle": "eut caractérisé",
+			"nous": "eûmes caractérisé",
+			"vous": "eûtes caractérisé",
+			"ils/elles": "eurent caractérisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai caractérisé",
+			"tu": "auras caractérisé",
+			"il/elle": "aura caractérisé",
+			"nous": "aurons caractérisé",
+			"vous": "aurez caractérisé",
+			"ils/elles": "auront caractérisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous caractérisiez",
+			"qu'il/elle": "caractérise",
+			"qu'ils/elles": "caractérisent"
+		},
+		"imparfait": {
+			"que": "vous caractérisassiez",
+			"qu'il/elle": "caractérisât",
+			"qu'ils/elles": "caractérisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse caractérisé",
+			"que": "vous eussiez caractérisé",
+			"qu'il/elle": "eût caractérisé",
+			"qu'ils/elles": "eussent caractérisé"
+		},
+		"passé": {
+			"j'": "aie caractérisé",
+			"que": "vous ayez caractérisé",
+			"qu'il/elle": "ait caractérisé",
+			"qu'ils/elles": "aient caractérisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "caractériserais",
+			"tu": "caractériserais",
+			"il/elle": "caractériserait",
+			"nous": "caractériserions",
+			"vous": "caractériseriez",
+			"ils/elles": "caractériseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais caractérisé",
+			"tu": "aurais caractérisé",
+			"il/elle": "aurait caractérisé",
+			"nous": "aurions caractérisé",
+			"vous": "auriez caractérisé",
+			"ils/elles": "auraient caractérisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse caractérisé",
+			"tu": "eusses caractérisé",
+			"il/elle": "eût caractérisé",
+			"nous": "eussions caractérisé",
+			"vous": "eussiez caractérisé",
+			"ils/elles": "eussent caractérisé"
+		}
+	},
+	"participe": {
+		"présent": { "caractérisant": "" },
+		"passé composé": { "ayant": "caractérisé" },
+		"passé": {
+			"masc.sg.:": "caractérisé",
+			"masc.pl.:": "caractérisés",
+			"fém.sg.:": "caractérisée",
+			"fém.pl.:": "caractérisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "caractérise": "", "caractérisons": "", "caractérisez": "" },
+		"passé": {
+			"aie": "caractérisé",
+			"ayons": "caractérisé",
+			"ayez": "caractérisé"
+		}
+	},
+	"infinitif": {
+		"présent": { "caractériser": "" },
+		"passé": { "avoir": "caractérisé" }
+	}
+}

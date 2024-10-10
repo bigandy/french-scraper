@@ -1,0 +1,138 @@
+{
+	"name": "tenir",
+	"definition": "retain; hold; remember; ...",
+	"model": "tenir",
+	"auxiliary": "avoir",
+	"otherForms": "se retenir/ne pas retenir/ne pas se retenir",
+	"indicatif": {
+		"présent": {
+			"je": "retiens",
+			"tu": "retiens",
+			"il/elle": "retient",
+			"nous": "retenons",
+			"vous": "retenez",
+			"ils/elles": "retiennent"
+		},
+		"imparfait": {
+			"je": "retenais",
+			"tu": "retenais",
+			"il/elle": "retenait",
+			"nous": "retenions",
+			"vous": "reteniez",
+			"ils/elles": "retenaient"
+		},
+		"futur": {
+			"je": "retiendrai",
+			"tu": "retiendras",
+			"il/elle": "retiendra",
+			"nous": "retiendrons",
+			"vous": "retiendrez",
+			"ils/elles": "retiendront"
+		},
+		"passé simple": {
+			"je": "retins",
+			"tu": "retins",
+			"il/elle": "retint",
+			"nous": "retînmes",
+			"vous": "retîntes",
+			"ils/elles": "retinrent"
+		},
+		"passé composé": {
+			"j'": "ai retenu",
+			"tu": "as retenu",
+			"il/elle": "a retenu",
+			"nous": "avons retenu",
+			"vous": "avez retenu",
+			"ils/elles": "ont retenu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais retenu",
+			"tu": "avais retenu",
+			"il/elle": "avait retenu",
+			"nous": "avions retenu",
+			"vous": "aviez retenu",
+			"ils/elles": "avaient retenu"
+		},
+		"passé antérieur": {
+			"j'": "eus retenu",
+			"tu": "eus retenu",
+			"il/elle": "eut retenu",
+			"nous": "eûmes retenu",
+			"vous": "eûtes retenu",
+			"ils/elles": "eurent retenu"
+		},
+		"futur antérieur": {
+			"j'": "aurai retenu",
+			"tu": "auras retenu",
+			"il/elle": "aura retenu",
+			"nous": "aurons retenu",
+			"vous": "aurez retenu",
+			"ils/elles": "auront retenu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous reteniez",
+			"qu'il/elle": "retienne",
+			"qu'ils/elles": "retiennent"
+		},
+		"imparfait": {
+			"que": "vous retinssiez",
+			"qu'il/elle": "retînt",
+			"qu'ils/elles": "retinssent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse retenu",
+			"que": "vous eussiez retenu",
+			"qu'il/elle": "eût retenu",
+			"qu'ils/elles": "eussent retenu"
+		},
+		"passé": {
+			"j'": "aie retenu",
+			"que": "vous ayez retenu",
+			"qu'il/elle": "ait retenu",
+			"qu'ils/elles": "aient retenu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "retiendrais",
+			"tu": "retiendrais",
+			"il/elle": "retiendrait",
+			"nous": "retiendrions",
+			"vous": "retiendriez",
+			"ils/elles": "retiendraient"
+		},
+		"passé première forme": {
+			"j'": "aurais retenu",
+			"tu": "aurais retenu",
+			"il/elle": "aurait retenu",
+			"nous": "aurions retenu",
+			"vous": "auriez retenu",
+			"ils/elles": "auraient retenu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse retenu",
+			"tu": "eusses retenu",
+			"il/elle": "eût retenu",
+			"nous": "eussions retenu",
+			"vous": "eussiez retenu",
+			"ils/elles": "eussent retenu"
+		}
+	},
+	"participe": {
+		"présent": { "retenant": "" },
+		"passé composé": { "ayant": "retenu" },
+		"passé": {
+			"masc.sg.:": "retenu",
+			"masc.pl.:": "retenus",
+			"fém.sg.:": "retenue",
+			"fém.pl.:": "retenues"
+		}
+	},
+	"imperatif": {
+		"présent": { "retiens": "", "retenons": "", "retenez": "" },
+		"passé": { "aie": "retenu", "ayons": "retenu", "ayez": "retenu" }
+	},
+	"infinitif": { "présent": { "retenir": "" }, "passé": { "avoir": "retenu" } }
+}

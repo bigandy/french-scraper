@@ -1,0 +1,140 @@
+{
+	"name": "commencer",
+	"definition": "exercise; exert; perform; ...",
+	"model": "commencer",
+	"auxiliary": "avoir",
+	"otherForms": "s'exercer/ne pas exercer/ne pas s'exercer",
+	"indicatif": {
+		"présent": {
+			"j'": "exerce",
+			"tu": "exerces",
+			"il/elle": "exerce",
+			"nous": "exerçons",
+			"vous": "exercez",
+			"ils/elles": "exercent"
+		},
+		"imparfait": {
+			"j'": "exerçais",
+			"tu": "exerçais",
+			"il/elle": "exerçait",
+			"nous": "exercions",
+			"vous": "exerciez",
+			"ils/elles": "exerçaient"
+		},
+		"futur": {
+			"j'": "exercerai",
+			"tu": "exerceras",
+			"il/elle": "exercera",
+			"nous": "exercerons",
+			"vous": "exercerez",
+			"ils/elles": "exerceront"
+		},
+		"passé simple": {
+			"j'": "exerçai",
+			"tu": "exerças",
+			"il/elle": "exerça",
+			"nous": "exerçâmes",
+			"vous": "exerçâtes",
+			"ils/elles": "exercèrent"
+		},
+		"passé composé": {
+			"j'": "ai exercé",
+			"tu": "as exercé",
+			"il/elle": "a exercé",
+			"nous": "avons exercé",
+			"vous": "avez exercé",
+			"ils/elles": "ont exercé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais exercé",
+			"tu": "avais exercé",
+			"il/elle": "avait exercé",
+			"nous": "avions exercé",
+			"vous": "aviez exercé",
+			"ils/elles": "avaient exercé"
+		},
+		"passé antérieur": {
+			"j'": "eus exercé",
+			"tu": "eus exercé",
+			"il/elle": "eut exercé",
+			"nous": "eûmes exercé",
+			"vous": "eûtes exercé",
+			"ils/elles": "eurent exercé"
+		},
+		"futur antérieur": {
+			"j'": "aurai exercé",
+			"tu": "auras exercé",
+			"il/elle": "aura exercé",
+			"nous": "aurons exercé",
+			"vous": "aurez exercé",
+			"ils/elles": "auront exercé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "exerce",
+			"que": "vous exerciez",
+			"qu'il/elle": "exerce",
+			"qu'ils/elles": "exercent"
+		},
+		"imparfait": {
+			"j'": "exerçasse",
+			"que": "vous exerçassiez",
+			"qu'il/elle": "exerçât",
+			"qu'ils/elles": "exerçassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse exercé",
+			"que": "vous eussiez exercé",
+			"qu'il/elle": "eût exercé",
+			"qu'ils/elles": "eussent exercé"
+		},
+		"passé": {
+			"j'": "aie exercé",
+			"que": "vous ayez exercé",
+			"qu'il/elle": "ait exercé",
+			"qu'ils/elles": "aient exercé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "exercerais",
+			"tu": "exercerais",
+			"il/elle": "exercerait",
+			"nous": "exercerions",
+			"vous": "exerceriez",
+			"ils/elles": "exerceraient"
+		},
+		"passé première forme": {
+			"j'": "aurais exercé",
+			"tu": "aurais exercé",
+			"il/elle": "aurait exercé",
+			"nous": "aurions exercé",
+			"vous": "auriez exercé",
+			"ils/elles": "auraient exercé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse exercé",
+			"tu": "eusses exercé",
+			"il/elle": "eût exercé",
+			"nous": "eussions exercé",
+			"vous": "eussiez exercé",
+			"ils/elles": "eussent exercé"
+		}
+	},
+	"participe": {
+		"présent": { "exerçant": "" },
+		"passé composé": { "ayant": "exercé" },
+		"passé": {
+			"masc.sg.:": "exercé",
+			"masc.pl.:": "exercés",
+			"fém.sg.:": "exercée",
+			"fém.pl.:": "exercées"
+		}
+	},
+	"imperatif": {
+		"présent": { "exerce": "", "exerçons": "", "exercez": "" },
+		"passé": { "aie": "exercé", "ayons": "exercé", "ayez": "exercé" }
+	},
+	"infinitif": { "présent": { "exercer": "" }, "passé": { "avoir": "exercé" } }
+}

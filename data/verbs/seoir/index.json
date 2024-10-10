@@ -1,0 +1,95 @@
+{
+	"name": "seoir",
+	"definition": "become; be appropriate; be proper; ...",
+	"model": "seoir",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas seoir",
+	"indicatif": {
+		"présent": { "il/elle": "sied", "ils/elles": "siéent" },
+		"imparfait": { "il/elle": "seyait", "ils/elles": "seyaient" },
+		"futur": { "il/elle": "siéra", "ils/elles": "siéront" },
+		"passé simple": {},
+		"passé composé": {
+			"j'": "ai sis",
+			"tu": "as sis",
+			"il/elle": "a sis",
+			"nous": "avons sis",
+			"vous": "avez sis",
+			"ils/elles": "ont sis"
+		},
+		"plus-que-parfait": {
+			"j'": "avais sis",
+			"tu": "avais sis",
+			"il/elle": "avait sis",
+			"nous": "avions sis",
+			"vous": "aviez sis",
+			"ils/elles": "avaient sis"
+		},
+		"passé antérieur": {
+			"j'": "eus sis",
+			"tu": "eus sis",
+			"il/elle": "eut sis",
+			"nous": "eûmes sis",
+			"vous": "eûtes sis",
+			"ils/elles": "eurent sis"
+		},
+		"futur antérieur": {
+			"j'": "aurai sis",
+			"tu": "auras sis",
+			"il/elle": "aura sis",
+			"nous": "aurons sis",
+			"vous": "aurez sis",
+			"ils/elles": "auront sis"
+		}
+	},
+	"subjonctif": {
+		"présent": { "qu'il/elle": "siée", "qu'ils/elles": "siéent" },
+		"imparfait": {},
+		"plus-que-parfait": {
+			"j'": "eusse sis",
+			"que": "vous eussiez sis",
+			"qu'il/elle": "eût sis",
+			"qu'ils/elles": "eussent sis"
+		},
+		"passé": {
+			"j'": "aie sis",
+			"que": "vous ayez sis",
+			"qu'il/elle": "ait sis",
+			"qu'ils/elles": "aient sis"
+		}
+	},
+	"conditionnel": {
+		"présent": { "il/elle": "siérait", "ils/elles": "siéraient" },
+		"passé première forme": {
+			"j'": "aurais sis",
+			"tu": "aurais sis",
+			"il/elle": "aurait sis",
+			"nous": "aurions sis",
+			"vous": "auriez sis",
+			"ils/elles": "auraient sis"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse sis",
+			"tu": "eusses sis",
+			"il/elle": "eût sis",
+			"nous": "eussions sis",
+			"vous": "eussiez sis",
+			"ils/elles": "eussent sis"
+		}
+	},
+	"participe": {
+		"présent": { "séant": "", "": "", "seyant": "" },
+		"passé composé": { "ayant": "sis" },
+		"passé": {
+			"masc.sg.:": "sis",
+			"masc.pl.:": "sis",
+			"fém.sg.:": "sise",
+			"fém.pl.:": "sises"
+		}
+	},
+	"imperatif": {
+		"présent": {},
+		"passé": { "aie": "sis", "ayons": "sis", "ayez": "sis" }
+	},
+	"infinitif": { "présent": { "seoir": "" }, "passé": { "avoir": "sis" } }
+}

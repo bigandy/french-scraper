@@ -1,0 +1,194 @@
+{
+	"name": "attendre",
+	"definition": "get off; go down; descend; ...",
+	"model": "attendre",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "se descendre/ne pas descendre/ne pas se descendre",
+	"indicatif": {
+		"présent": {
+			"je": "descends",
+			"tu": "descends",
+			"il/elle": "descend",
+			"nous": "descendons",
+			"vous": "descendez",
+			"ils/elles": "descendent"
+		},
+		"imparfait": {
+			"je": "descendais",
+			"tu": "descendais",
+			"il/elle": "descendait",
+			"nous": "descendions",
+			"vous": "descendiez",
+			"ils/elles": "descendaient"
+		},
+		"futur": {
+			"je": "descendrai",
+			"tu": "descendras",
+			"il/elle": "descendra",
+			"nous": "descendrons",
+			"vous": "descendrez",
+			"ils/elles": "descendront"
+		},
+		"passé simple": {
+			"je": "descendis",
+			"tu": "descendis",
+			"il/elle": "descendit",
+			"nous": "descendîmes",
+			"vous": "descendîtes",
+			"ils/elles": "descendirent"
+		},
+		"passé composé": {
+			"j'": "ai descendu",
+			"tu": "es descendu",
+			"il/elle": "a descendu",
+			"nous": "sommes descendus",
+			"vous": "êtes descendus",
+			"ils/elles": "ont descendu",
+			"": "",
+			"je": "suis descendu",
+			"il": "est descendu",
+			"elle": "est descendue",
+			"ils": "sont descendus",
+			"elles": "sont descendues"
+		},
+		"plus-que-parfait": {
+			"j'": "étais descendu",
+			"tu": "étais descendu",
+			"il/elle": "avait descendu",
+			"nous": "étions descendus",
+			"vous": "étiez descendus",
+			"ils/elles": "avaient descendu",
+			"": "",
+			"il": "était descendu",
+			"elle": "était descendue",
+			"ils": "étaient descendus",
+			"elles": "étaient descendues"
+		},
+		"passé antérieur": {
+			"j'": "eus descendu",
+			"tu": "fus descendu",
+			"il/elle": "eut descendu",
+			"nous": "fûmes descendus",
+			"vous": "fûtes descendus",
+			"ils/elles": "eurent descendu",
+			"": "",
+			"je": "fus descendu",
+			"il": "fut descendu",
+			"elle": "fut descendue",
+			"ils": "furent descendus",
+			"elles": "furent descendues"
+		},
+		"futur antérieur": {
+			"j'": "aurai descendu",
+			"tu": "seras descendu",
+			"il/elle": "aura descendu",
+			"nous": "serons descendus",
+			"vous": "serez descendus",
+			"ils/elles": "auront descendu",
+			"": "",
+			"je": "serai descendu",
+			"il": "sera descendu",
+			"elle": "sera descendue",
+			"ils": "seront descendus",
+			"elles": "seront descendues"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous descendiez",
+			"qu'il/elle": "descende",
+			"qu'ils/elles": "descendent"
+		},
+		"imparfait": {
+			"que": "vous descendissiez",
+			"qu'il/elle": "descendît",
+			"qu'ils/elles": "descendissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse descendu",
+			"que": "vous fussiez descendus",
+			"qu'il/elle": "eût descendu",
+			"qu'ils/elles": "eussent descendu",
+			"": "",
+			"qu'il": "fût descendu",
+			"qu'elle": "fût descendue",
+			"qu'ils": "fussent descendus",
+			"qu'elles": "fussent descendues"
+		},
+		"passé": {
+			"j'": "aie descendu",
+			"que": "vous soyez descendus",
+			"qu'il/elle": "ait descendu",
+			"qu'ils/elles": "aient descendu",
+			"": "",
+			"qu'il": "soit descendu",
+			"qu'elle": "soit descendue",
+			"qu'ils": "soient descendus",
+			"qu'elles": "soient descendues"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "descendrais",
+			"tu": "descendrais",
+			"il/elle": "descendrait",
+			"nous": "descendrions",
+			"vous": "descendriez",
+			"ils/elles": "descendraient"
+		},
+		"passé première forme": {
+			"j'": "aurais descendu",
+			"tu": "serais descendu",
+			"il/elle": "aurait descendu",
+			"nous": "serions descendus",
+			"vous": "seriez descendus",
+			"ils/elles": "auraient descendu",
+			"": "",
+			"je": "serais descendu",
+			"il": "serait descendu",
+			"elle": "serait descendue",
+			"ils": "seraient descendus",
+			"elles": "seraient descendues"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse descendu",
+			"tu": "fusses descendu",
+			"il/elle": "eût descendu",
+			"nous": "fussions descendus",
+			"vous": "fussiez descendus",
+			"ils/elles": "eussent descendu",
+			"": "",
+			"je": "fusse descendu",
+			"il": "fût descendu",
+			"elle": "fût descendue",
+			"ils": "fussent descendus",
+			"elles": "fussent descendues"
+		}
+	},
+	"participe": {
+		"présent": { "descendant": "" },
+		"passé composé": { "ayant": "descendu", "": "", "étant": "descendue" },
+		"passé": {
+			"masc.sg.:": "descendu",
+			"masc.pl.:": "descendus",
+			"fém.sg.:": "descendue",
+			"fém.pl.:": "descendues"
+		}
+	},
+	"imperatif": {
+		"présent": { "descends": "", "descendons": "", "descendez": "" },
+		"passé": {
+			"aie": "descendu",
+			"ayons": "descendu",
+			"ayez": "descendu",
+			"": "",
+			"sois": "descendu",
+			"soyons": "descendu",
+			"soyez": "descendu"
+		}
+	},
+	"infinitif": {
+		"présent": { "descendre": "" },
+		"passé": { "avoir": "descendu", "": "", "être": "descendu" }
+	}
+}

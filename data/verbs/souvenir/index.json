@@ -1,0 +1,152 @@
+{
+	"name": "tenir",
+	"definition": "remember; remind; commemorate; ...",
+	"model": "tenir",
+	"auxiliary": "être",
+	"otherForms": "se souvenir/ne pas souvenir/ne pas se souvenir",
+	"indicatif": {
+		"présent": {
+			"je": "souviens",
+			"tu": "souviens",
+			"il/elle": "souvient",
+			"nous": "souvenons",
+			"vous": "souvenez",
+			"ils/elles": "souviennent"
+		},
+		"imparfait": {
+			"je": "souvenais",
+			"tu": "souvenais",
+			"il/elle": "souvenait",
+			"nous": "souvenions",
+			"vous": "souveniez",
+			"ils/elles": "souvenaient"
+		},
+		"futur": {
+			"je": "souviendrai",
+			"tu": "souviendras",
+			"il/elle": "souviendra",
+			"nous": "souviendrons",
+			"vous": "souviendrez",
+			"ils/elles": "souviendront"
+		},
+		"passé simple": {
+			"je": "souvins",
+			"tu": "souvins",
+			"il/elle": "souvint",
+			"nous": "souvînmes",
+			"vous": "souvîntes",
+			"ils/elles": "souvinrent"
+		},
+		"passé composé": {
+			"je": "suis souvenu",
+			"tu": "es souvenu",
+			"il": "est souvenu",
+			"elle": "est souvenue",
+			"nous": "sommes souvenus",
+			"vous": "êtes souvenus",
+			"ils": "sont souvenus",
+			"elles": "sont souvenues"
+		},
+		"plus-que-parfait": {
+			"j'": "étais souvenu",
+			"tu": "étais souvenu",
+			"il": "était souvenu",
+			"elle": "était souvenue",
+			"nous": "étions souvenus",
+			"vous": "étiez souvenus",
+			"ils": "étaient souvenus",
+			"elles": "étaient souvenues"
+		},
+		"passé antérieur": {
+			"je": "fus souvenu",
+			"tu": "fus souvenu",
+			"il": "fut souvenu",
+			"elle": "fut souvenue",
+			"nous": "fûmes souvenus",
+			"vous": "fûtes souvenus",
+			"ils": "furent souvenus",
+			"elles": "furent souvenues"
+		},
+		"futur antérieur": {
+			"je": "serai souvenu",
+			"tu": "seras souvenu",
+			"il": "sera souvenu",
+			"elle": "sera souvenue",
+			"nous": "serons souvenus",
+			"vous": "serez souvenus",
+			"ils": "seront souvenus",
+			"elles": "seront souvenues"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous souveniez",
+			"qu'il/elle": "souvienne",
+			"qu'ils/elles": "souviennent"
+		},
+		"imparfait": {
+			"que": "vous souvinssiez",
+			"qu'il/elle": "souvînt",
+			"qu'ils/elles": "souvinssent"
+		},
+		"plus-que-parfait": {
+			"que": "vous fussiez souvenus",
+			"qu'il": "fût souvenu",
+			"qu'elle": "fût souvenue",
+			"qu'ils": "fussent souvenus",
+			"qu'elles": "fussent souvenues"
+		},
+		"passé": {
+			"que": "vous soyez souvenus",
+			"qu'il": "soit souvenu",
+			"qu'elle": "soit souvenue",
+			"qu'ils": "soient souvenus",
+			"qu'elles": "soient souvenues"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "souviendrais",
+			"tu": "souviendrais",
+			"il/elle": "souviendrait",
+			"nous": "souviendrions",
+			"vous": "souviendriez",
+			"ils/elles": "souviendraient"
+		},
+		"passé première forme": {
+			"je": "serais souvenu",
+			"tu": "serais souvenu",
+			"il": "serait souvenu",
+			"elle": "serait souvenue",
+			"nous": "serions souvenus",
+			"vous": "seriez souvenus",
+			"ils": "seraient souvenus",
+			"elles": "seraient souvenues"
+		},
+		"passé deuxième forme": {
+			"je": "fusse souvenu",
+			"tu": "fusses souvenu",
+			"il": "fût souvenu",
+			"elle": "fût souvenue",
+			"nous": "fussions souvenus",
+			"vous": "fussiez souvenus",
+			"ils": "fussent souvenus",
+			"elles": "fussent souvenues"
+		}
+	},
+	"participe": {
+		"présent": { "souvenant": "" },
+		"passé composé": { "étant": "souvenue" },
+		"passé": {
+			"masc.sg.:": "souvenu",
+			"masc.pl.:": "souvenus",
+			"fém.sg.:": "souvenue",
+			"fém.pl.:": "souvenues"
+		}
+	},
+	"imperatif": {
+		"présent": { "souviens": "", "souvenons": "", "souvenez": "" },
+		"passé": { "sois": "souvenu", "soyons": "souvenu", "soyez": "souvenu" }
+	},
+	"infinitif": { "présent": { "souvenir": "" }, "passé": { "être": "souvenu" } }
+}

@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "miss; fail; blow; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se rater/ne pas rater/ne pas se rater",
+	"indicatif": {
+		"présent": {
+			"je": "rate",
+			"tu": "rates",
+			"il/elle": "rate",
+			"nous": "ratons",
+			"vous": "ratez",
+			"ils/elles": "ratent"
+		},
+		"imparfait": {
+			"je": "ratais",
+			"tu": "ratais",
+			"il/elle": "ratait",
+			"nous": "rations",
+			"vous": "ratiez",
+			"ils/elles": "rataient"
+		},
+		"futur": {
+			"je": "raterai",
+			"tu": "rateras",
+			"il/elle": "ratera",
+			"nous": "raterons",
+			"vous": "raterez",
+			"ils/elles": "rateront"
+		},
+		"passé simple": {
+			"je": "ratai",
+			"tu": "ratas",
+			"il/elle": "rata",
+			"nous": "ratâmes",
+			"vous": "ratâtes",
+			"ils/elles": "ratèrent"
+		},
+		"passé composé": {
+			"j'": "ai raté",
+			"tu": "as raté",
+			"il/elle": "a raté",
+			"nous": "avons raté",
+			"vous": "avez raté",
+			"ils/elles": "ont raté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais raté",
+			"tu": "avais raté",
+			"il/elle": "avait raté",
+			"nous": "avions raté",
+			"vous": "aviez raté",
+			"ils/elles": "avaient raté"
+		},
+		"passé antérieur": {
+			"j'": "eus raté",
+			"tu": "eus raté",
+			"il/elle": "eut raté",
+			"nous": "eûmes raté",
+			"vous": "eûtes raté",
+			"ils/elles": "eurent raté"
+		},
+		"futur antérieur": {
+			"j'": "aurai raté",
+			"tu": "auras raté",
+			"il/elle": "aura raté",
+			"nous": "aurons raté",
+			"vous": "aurez raté",
+			"ils/elles": "auront raté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous ratiez",
+			"qu'il/elle": "rate",
+			"qu'ils/elles": "ratent"
+		},
+		"imparfait": {
+			"que": "vous ratassiez",
+			"qu'il/elle": "ratât",
+			"qu'ils/elles": "ratassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse raté",
+			"que": "vous eussiez raté",
+			"qu'il/elle": "eût raté",
+			"qu'ils/elles": "eussent raté"
+		},
+		"passé": {
+			"j'": "aie raté",
+			"que": "vous ayez raté",
+			"qu'il/elle": "ait raté",
+			"qu'ils/elles": "aient raté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "raterais",
+			"tu": "raterais",
+			"il/elle": "raterait",
+			"nous": "raterions",
+			"vous": "rateriez",
+			"ils/elles": "rateraient"
+		},
+		"passé première forme": {
+			"j'": "aurais raté",
+			"tu": "aurais raté",
+			"il/elle": "aurait raté",
+			"nous": "aurions raté",
+			"vous": "auriez raté",
+			"ils/elles": "auraient raté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse raté",
+			"tu": "eusses raté",
+			"il/elle": "eût raté",
+			"nous": "eussions raté",
+			"vous": "eussiez raté",
+			"ils/elles": "eussent raté"
+		}
+	},
+	"participe": {
+		"présent": { "ratant": "" },
+		"passé composé": { "ayant": "raté" },
+		"passé": {
+			"masc.sg.:": "raté",
+			"masc.pl.:": "ratés",
+			"fém.sg.:": "ratée",
+			"fém.pl.:": "ratées"
+		}
+	},
+	"imperatif": {
+		"présent": { "rate": "", "ratons": "", "ratez": "" },
+		"passé": { "aie": "raté", "ayons": "raté", "ayez": "raté" }
+	},
+	"infinitif": { "présent": { "rater": "" }, "passé": { "avoir": "raté" } }
+}

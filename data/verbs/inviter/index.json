@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "invite; ask; call on; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'inviter/ne pas inviter/ne pas s'inviter",
+	"indicatif": {
+		"présent": {
+			"j'": "invite",
+			"tu": "invites",
+			"il/elle": "invite",
+			"nous": "invitons",
+			"vous": "invitez",
+			"ils/elles": "invitent"
+		},
+		"imparfait": {
+			"j'": "invitais",
+			"tu": "invitais",
+			"il/elle": "invitait",
+			"nous": "invitions",
+			"vous": "invitiez",
+			"ils/elles": "invitaient"
+		},
+		"futur": {
+			"j'": "inviterai",
+			"tu": "inviteras",
+			"il/elle": "invitera",
+			"nous": "inviterons",
+			"vous": "inviterez",
+			"ils/elles": "inviteront"
+		},
+		"passé simple": {
+			"j'": "invitai",
+			"tu": "invitas",
+			"il/elle": "invita",
+			"nous": "invitâmes",
+			"vous": "invitâtes",
+			"ils/elles": "invitèrent"
+		},
+		"passé composé": {
+			"j'": "ai invité",
+			"tu": "as invité",
+			"il/elle": "a invité",
+			"nous": "avons invité",
+			"vous": "avez invité",
+			"ils/elles": "ont invité"
+		},
+		"plus-que-parfait": {
+			"j'": "avais invité",
+			"tu": "avais invité",
+			"il/elle": "avait invité",
+			"nous": "avions invité",
+			"vous": "aviez invité",
+			"ils/elles": "avaient invité"
+		},
+		"passé antérieur": {
+			"j'": "eus invité",
+			"tu": "eus invité",
+			"il/elle": "eut invité",
+			"nous": "eûmes invité",
+			"vous": "eûtes invité",
+			"ils/elles": "eurent invité"
+		},
+		"futur antérieur": {
+			"j'": "aurai invité",
+			"tu": "auras invité",
+			"il/elle": "aura invité",
+			"nous": "aurons invité",
+			"vous": "aurez invité",
+			"ils/elles": "auront invité"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "invite",
+			"que": "vous invitiez",
+			"qu'il/elle": "invite",
+			"qu'ils/elles": "invitent"
+		},
+		"imparfait": {
+			"j'": "invitasse",
+			"que": "vous invitassiez",
+			"qu'il/elle": "invitât",
+			"qu'ils/elles": "invitassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse invité",
+			"que": "vous eussiez invité",
+			"qu'il/elle": "eût invité",
+			"qu'ils/elles": "eussent invité"
+		},
+		"passé": {
+			"j'": "aie invité",
+			"que": "vous ayez invité",
+			"qu'il/elle": "ait invité",
+			"qu'ils/elles": "aient invité"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "inviterais",
+			"tu": "inviterais",
+			"il/elle": "inviterait",
+			"nous": "inviterions",
+			"vous": "inviteriez",
+			"ils/elles": "inviteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais invité",
+			"tu": "aurais invité",
+			"il/elle": "aurait invité",
+			"nous": "aurions invité",
+			"vous": "auriez invité",
+			"ils/elles": "auraient invité"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse invité",
+			"tu": "eusses invité",
+			"il/elle": "eût invité",
+			"nous": "eussions invité",
+			"vous": "eussiez invité",
+			"ils/elles": "eussent invité"
+		}
+	},
+	"participe": {
+		"présent": { "invitant": "" },
+		"passé composé": { "ayant": "invité" },
+		"passé": {
+			"masc.sg.:": "invité",
+			"masc.pl.:": "invités",
+			"fém.sg.:": "invitée",
+			"fém.pl.:": "invitées"
+		}
+	},
+	"imperatif": {
+		"présent": { "invite": "", "invitons": "", "invitez": "" },
+		"passé": { "aie": "invité", "ayons": "invité", "ayez": "invité" }
+	},
+	"infinitif": { "présent": { "inviter": "" }, "passé": { "avoir": "invité" } }
+}

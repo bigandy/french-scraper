@@ -30,6 +30,7 @@ export const extractFileDataFromHtmlFile = async (verb: string) => {
 
 		return fileData
 	} catch (error: any) {
+		console.error({ error })
 		throw new Error('Error in extractFileDataFromHtmlFile', error.toString())
 	}
 }

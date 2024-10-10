@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "find; figure out; identify; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se trouver/ne pas trouver/ne pas se trouver",
+	"indicatif": {
+		"présent": {
+			"je": "trouve",
+			"tu": "trouves",
+			"il/elle": "trouve",
+			"nous": "trouvons",
+			"vous": "trouvez",
+			"ils/elles": "trouvent"
+		},
+		"imparfait": {
+			"je": "trouvais",
+			"tu": "trouvais",
+			"il/elle": "trouvait",
+			"nous": "trouvions",
+			"vous": "trouviez",
+			"ils/elles": "trouvaient"
+		},
+		"futur": {
+			"je": "trouverai",
+			"tu": "trouveras",
+			"il/elle": "trouvera",
+			"nous": "trouverons",
+			"vous": "trouverez",
+			"ils/elles": "trouveront"
+		},
+		"passé simple": {
+			"je": "trouvai",
+			"tu": "trouvas",
+			"il/elle": "trouva",
+			"nous": "trouvâmes",
+			"vous": "trouvâtes",
+			"ils/elles": "trouvèrent"
+		},
+		"passé composé": {
+			"j'": "ai trouvé",
+			"tu": "as trouvé",
+			"il/elle": "a trouvé",
+			"nous": "avons trouvé",
+			"vous": "avez trouvé",
+			"ils/elles": "ont trouvé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais trouvé",
+			"tu": "avais trouvé",
+			"il/elle": "avait trouvé",
+			"nous": "avions trouvé",
+			"vous": "aviez trouvé",
+			"ils/elles": "avaient trouvé"
+		},
+		"passé antérieur": {
+			"j'": "eus trouvé",
+			"tu": "eus trouvé",
+			"il/elle": "eut trouvé",
+			"nous": "eûmes trouvé",
+			"vous": "eûtes trouvé",
+			"ils/elles": "eurent trouvé"
+		},
+		"futur antérieur": {
+			"j'": "aurai trouvé",
+			"tu": "auras trouvé",
+			"il/elle": "aura trouvé",
+			"nous": "aurons trouvé",
+			"vous": "aurez trouvé",
+			"ils/elles": "auront trouvé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous trouviez",
+			"qu'il/elle": "trouve",
+			"qu'ils/elles": "trouvent"
+		},
+		"imparfait": {
+			"que": "vous trouvassiez",
+			"qu'il/elle": "trouvât",
+			"qu'ils/elles": "trouvassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse trouvé",
+			"que": "vous eussiez trouvé",
+			"qu'il/elle": "eût trouvé",
+			"qu'ils/elles": "eussent trouvé"
+		},
+		"passé": {
+			"j'": "aie trouvé",
+			"que": "vous ayez trouvé",
+			"qu'il/elle": "ait trouvé",
+			"qu'ils/elles": "aient trouvé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "trouverais",
+			"tu": "trouverais",
+			"il/elle": "trouverait",
+			"nous": "trouverions",
+			"vous": "trouveriez",
+			"ils/elles": "trouveraient"
+		},
+		"passé première forme": {
+			"j'": "aurais trouvé",
+			"tu": "aurais trouvé",
+			"il/elle": "aurait trouvé",
+			"nous": "aurions trouvé",
+			"vous": "auriez trouvé",
+			"ils/elles": "auraient trouvé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse trouvé",
+			"tu": "eusses trouvé",
+			"il/elle": "eût trouvé",
+			"nous": "eussions trouvé",
+			"vous": "eussiez trouvé",
+			"ils/elles": "eussent trouvé"
+		}
+	},
+	"participe": {
+		"présent": { "trouvant": "" },
+		"passé composé": { "ayant": "trouvé" },
+		"passé": {
+			"masc.sg.:": "trouvé",
+			"masc.pl.:": "trouvés",
+			"fém.sg.:": "trouvée",
+			"fém.pl.:": "trouvées"
+		}
+	},
+	"imperatif": {
+		"présent": { "trouve": "", "trouvons": "", "trouvez": "" },
+		"passé": { "aie": "trouvé", "ayons": "trouvé", "ayez": "trouvé" }
+	},
+	"infinitif": { "présent": { "trouver": "" }, "passé": { "avoir": "trouvé" } }
+}

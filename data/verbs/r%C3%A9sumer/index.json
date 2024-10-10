@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "summarize; sum up; summarise; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se résumer/ne pas résumer/ne pas se résumer",
+	"indicatif": {
+		"présent": {
+			"je": "résume",
+			"tu": "résumes",
+			"il/elle": "résume",
+			"nous": "résumons",
+			"vous": "résumez",
+			"ils/elles": "résument"
+		},
+		"imparfait": {
+			"je": "résumais",
+			"tu": "résumais",
+			"il/elle": "résumait",
+			"nous": "résumions",
+			"vous": "résumiez",
+			"ils/elles": "résumaient"
+		},
+		"futur": {
+			"je": "résumerai",
+			"tu": "résumeras",
+			"il/elle": "résumera",
+			"nous": "résumerons",
+			"vous": "résumerez",
+			"ils/elles": "résumeront"
+		},
+		"passé simple": {
+			"je": "résumai",
+			"tu": "résumas",
+			"il/elle": "résuma",
+			"nous": "résumâmes",
+			"vous": "résumâtes",
+			"ils/elles": "résumèrent"
+		},
+		"passé composé": {
+			"j'": "ai résumé",
+			"tu": "as résumé",
+			"il/elle": "a résumé",
+			"nous": "avons résumé",
+			"vous": "avez résumé",
+			"ils/elles": "ont résumé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais résumé",
+			"tu": "avais résumé",
+			"il/elle": "avait résumé",
+			"nous": "avions résumé",
+			"vous": "aviez résumé",
+			"ils/elles": "avaient résumé"
+		},
+		"passé antérieur": {
+			"j'": "eus résumé",
+			"tu": "eus résumé",
+			"il/elle": "eut résumé",
+			"nous": "eûmes résumé",
+			"vous": "eûtes résumé",
+			"ils/elles": "eurent résumé"
+		},
+		"futur antérieur": {
+			"j'": "aurai résumé",
+			"tu": "auras résumé",
+			"il/elle": "aura résumé",
+			"nous": "aurons résumé",
+			"vous": "aurez résumé",
+			"ils/elles": "auront résumé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous résumiez",
+			"qu'il/elle": "résume",
+			"qu'ils/elles": "résument"
+		},
+		"imparfait": {
+			"que": "vous résumassiez",
+			"qu'il/elle": "résumât",
+			"qu'ils/elles": "résumassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse résumé",
+			"que": "vous eussiez résumé",
+			"qu'il/elle": "eût résumé",
+			"qu'ils/elles": "eussent résumé"
+		},
+		"passé": {
+			"j'": "aie résumé",
+			"que": "vous ayez résumé",
+			"qu'il/elle": "ait résumé",
+			"qu'ils/elles": "aient résumé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "résumerais",
+			"tu": "résumerais",
+			"il/elle": "résumerait",
+			"nous": "résumerions",
+			"vous": "résumeriez",
+			"ils/elles": "résumeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais résumé",
+			"tu": "aurais résumé",
+			"il/elle": "aurait résumé",
+			"nous": "aurions résumé",
+			"vous": "auriez résumé",
+			"ils/elles": "auraient résumé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse résumé",
+			"tu": "eusses résumé",
+			"il/elle": "eût résumé",
+			"nous": "eussions résumé",
+			"vous": "eussiez résumé",
+			"ils/elles": "eussent résumé"
+		}
+	},
+	"participe": {
+		"présent": { "résumant": "" },
+		"passé composé": { "ayant": "résumé" },
+		"passé": {
+			"masc.sg.:": "résumé",
+			"masc.pl.:": "résumés",
+			"fém.sg.:": "résumée",
+			"fém.pl.:": "résumées"
+		}
+	},
+	"imperatif": {
+		"présent": { "résume": "", "résumons": "", "résumez": "" },
+		"passé": { "aie": "résumé", "ayons": "résumé", "ayez": "résumé" }
+	},
+	"infinitif": { "présent": { "résumer": "" }, "passé": { "avoir": "résumé" } }
+}

@@ -1,0 +1,138 @@
+{
+	"name": "vaincre",
+	"definition": "defeat; overcome; beat; ...",
+	"model": "vaincre",
+	"auxiliary": "avoir",
+	"otherForms": "se vaincre/ne pas vaincre/ne pas se vaincre",
+	"indicatif": {
+		"présent": {
+			"je": "vaincs",
+			"tu": "vaincs",
+			"il/elle": "vainc",
+			"nous": "vainquons",
+			"vous": "vainquez",
+			"ils/elles": "vainquent"
+		},
+		"imparfait": {
+			"je": "vainquais",
+			"tu": "vainquais",
+			"il/elle": "vainquait",
+			"nous": "vainquions",
+			"vous": "vainquiez",
+			"ils/elles": "vainquaient"
+		},
+		"futur": {
+			"je": "vaincrai",
+			"tu": "vaincras",
+			"il/elle": "vaincra",
+			"nous": "vaincrons",
+			"vous": "vaincrez",
+			"ils/elles": "vaincront"
+		},
+		"passé simple": {
+			"je": "vainquis",
+			"tu": "vainquis",
+			"il/elle": "vainquit",
+			"nous": "vainquîmes",
+			"vous": "vainquîtes",
+			"ils/elles": "vainquirent"
+		},
+		"passé composé": {
+			"j'": "ai vaincu",
+			"tu": "as vaincu",
+			"il/elle": "a vaincu",
+			"nous": "avons vaincu",
+			"vous": "avez vaincu",
+			"ils/elles": "ont vaincu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais vaincu",
+			"tu": "avais vaincu",
+			"il/elle": "avait vaincu",
+			"nous": "avions vaincu",
+			"vous": "aviez vaincu",
+			"ils/elles": "avaient vaincu"
+		},
+		"passé antérieur": {
+			"j'": "eus vaincu",
+			"tu": "eus vaincu",
+			"il/elle": "eut vaincu",
+			"nous": "eûmes vaincu",
+			"vous": "eûtes vaincu",
+			"ils/elles": "eurent vaincu"
+		},
+		"futur antérieur": {
+			"j'": "aurai vaincu",
+			"tu": "auras vaincu",
+			"il/elle": "aura vaincu",
+			"nous": "aurons vaincu",
+			"vous": "aurez vaincu",
+			"ils/elles": "auront vaincu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous vainquiez",
+			"qu'il/elle": "vainque",
+			"qu'ils/elles": "vainquent"
+		},
+		"imparfait": {
+			"que": "vous vainquissiez",
+			"qu'il/elle": "vainquît",
+			"qu'ils/elles": "vainquissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse vaincu",
+			"que": "vous eussiez vaincu",
+			"qu'il/elle": "eût vaincu",
+			"qu'ils/elles": "eussent vaincu"
+		},
+		"passé": {
+			"j'": "aie vaincu",
+			"que": "vous ayez vaincu",
+			"qu'il/elle": "ait vaincu",
+			"qu'ils/elles": "aient vaincu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "vaincrais",
+			"tu": "vaincrais",
+			"il/elle": "vaincrait",
+			"nous": "vaincrions",
+			"vous": "vaincriez",
+			"ils/elles": "vaincraient"
+		},
+		"passé première forme": {
+			"j'": "aurais vaincu",
+			"tu": "aurais vaincu",
+			"il/elle": "aurait vaincu",
+			"nous": "aurions vaincu",
+			"vous": "auriez vaincu",
+			"ils/elles": "auraient vaincu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse vaincu",
+			"tu": "eusses vaincu",
+			"il/elle": "eût vaincu",
+			"nous": "eussions vaincu",
+			"vous": "eussiez vaincu",
+			"ils/elles": "eussent vaincu"
+		}
+	},
+	"participe": {
+		"présent": { "vainquant": "" },
+		"passé composé": { "ayant": "vaincu" },
+		"passé": {
+			"masc.sg.:": "vaincu",
+			"masc.pl.:": "vaincus",
+			"fém.sg.:": "vaincue",
+			"fém.pl.:": "vaincues"
+		}
+	},
+	"imperatif": {
+		"présent": { "vaincs": "", "vainquons": "", "vainquez": "" },
+		"passé": { "aie": "vaincu", "ayons": "vaincu", "ayez": "vaincu" }
+	},
+	"infinitif": { "présent": { "vaincre": "" }, "passé": { "avoir": "vaincu" } }
+}

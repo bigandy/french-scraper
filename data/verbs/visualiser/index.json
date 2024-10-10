@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "view; visualize; visualise; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se visualiser/ne pas visualiser/ne pas se visualiser",
+	"indicatif": {
+		"présent": {
+			"je": "visualise",
+			"tu": "visualises",
+			"il/elle": "visualise",
+			"nous": "visualisons",
+			"vous": "visualisez",
+			"ils/elles": "visualisent"
+		},
+		"imparfait": {
+			"je": "visualisais",
+			"tu": "visualisais",
+			"il/elle": "visualisait",
+			"nous": "visualisions",
+			"vous": "visualisiez",
+			"ils/elles": "visualisaient"
+		},
+		"futur": {
+			"je": "visualiserai",
+			"tu": "visualiseras",
+			"il/elle": "visualisera",
+			"nous": "visualiserons",
+			"vous": "visualiserez",
+			"ils/elles": "visualiseront"
+		},
+		"passé simple": {
+			"je": "visualisai",
+			"tu": "visualisas",
+			"il/elle": "visualisa",
+			"nous": "visualisâmes",
+			"vous": "visualisâtes",
+			"ils/elles": "visualisèrent"
+		},
+		"passé composé": {
+			"j'": "ai visualisé",
+			"tu": "as visualisé",
+			"il/elle": "a visualisé",
+			"nous": "avons visualisé",
+			"vous": "avez visualisé",
+			"ils/elles": "ont visualisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais visualisé",
+			"tu": "avais visualisé",
+			"il/elle": "avait visualisé",
+			"nous": "avions visualisé",
+			"vous": "aviez visualisé",
+			"ils/elles": "avaient visualisé"
+		},
+		"passé antérieur": {
+			"j'": "eus visualisé",
+			"tu": "eus visualisé",
+			"il/elle": "eut visualisé",
+			"nous": "eûmes visualisé",
+			"vous": "eûtes visualisé",
+			"ils/elles": "eurent visualisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai visualisé",
+			"tu": "auras visualisé",
+			"il/elle": "aura visualisé",
+			"nous": "aurons visualisé",
+			"vous": "aurez visualisé",
+			"ils/elles": "auront visualisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous visualisiez",
+			"qu'il/elle": "visualise",
+			"qu'ils/elles": "visualisent"
+		},
+		"imparfait": {
+			"que": "vous visualisassiez",
+			"qu'il/elle": "visualisât",
+			"qu'ils/elles": "visualisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse visualisé",
+			"que": "vous eussiez visualisé",
+			"qu'il/elle": "eût visualisé",
+			"qu'ils/elles": "eussent visualisé"
+		},
+		"passé": {
+			"j'": "aie visualisé",
+			"que": "vous ayez visualisé",
+			"qu'il/elle": "ait visualisé",
+			"qu'ils/elles": "aient visualisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "visualiserais",
+			"tu": "visualiserais",
+			"il/elle": "visualiserait",
+			"nous": "visualiserions",
+			"vous": "visualiseriez",
+			"ils/elles": "visualiseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais visualisé",
+			"tu": "aurais visualisé",
+			"il/elle": "aurait visualisé",
+			"nous": "aurions visualisé",
+			"vous": "auriez visualisé",
+			"ils/elles": "auraient visualisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse visualisé",
+			"tu": "eusses visualisé",
+			"il/elle": "eût visualisé",
+			"nous": "eussions visualisé",
+			"vous": "eussiez visualisé",
+			"ils/elles": "eussent visualisé"
+		}
+	},
+	"participe": {
+		"présent": { "visualisant": "" },
+		"passé composé": { "ayant": "visualisé" },
+		"passé": {
+			"masc.sg.:": "visualisé",
+			"masc.pl.:": "visualisés",
+			"fém.sg.:": "visualisée",
+			"fém.pl.:": "visualisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "visualise": "", "visualisons": "", "visualisez": "" },
+		"passé": { "aie": "visualisé", "ayons": "visualisé", "ayez": "visualisé" }
+	},
+	"infinitif": {
+		"présent": { "visualiser": "" },
+		"passé": { "avoir": "visualisé" }
+	}
+}

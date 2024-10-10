@@ -1,0 +1,138 @@
+{
+	"name": "haïr",
+	"definition": "hate; ...",
+	"model": "haïr",
+	"auxiliary": "avoir",
+	"otherForms": "se haïr/ne pas haïr/ne pas se haïr",
+	"indicatif": {
+		"présent": {
+			"je": "hais",
+			"tu": "hais",
+			"il/elle": "hait",
+			"nous": "haïssons",
+			"vous": "haïssez",
+			"ils/elles": "haïssent"
+		},
+		"imparfait": {
+			"je": "haïssais",
+			"tu": "haïssais",
+			"il/elle": "haïssait",
+			"nous": "haïssions",
+			"vous": "haïssiez",
+			"ils/elles": "haïssaient"
+		},
+		"futur": {
+			"je": "haïrai",
+			"tu": "haïras",
+			"il/elle": "haïra",
+			"nous": "haïrons",
+			"vous": "haïrez",
+			"ils/elles": "haïront"
+		},
+		"passé simple": {
+			"je": "haïs",
+			"tu": "haïs",
+			"il/elle": "haït",
+			"nous": "haïmes",
+			"vous": "haïtes",
+			"ils/elles": "haïrent"
+		},
+		"passé composé": {
+			"j'": "ai haï",
+			"tu": "as haï",
+			"il/elle": "a haï",
+			"nous": "avons haï",
+			"vous": "avez haï",
+			"ils/elles": "ont haï"
+		},
+		"plus-que-parfait": {
+			"j'": "avais haï",
+			"tu": "avais haï",
+			"il/elle": "avait haï",
+			"nous": "avions haï",
+			"vous": "aviez haï",
+			"ils/elles": "avaient haï"
+		},
+		"passé antérieur": {
+			"j'": "eus haï",
+			"tu": "eus haï",
+			"il/elle": "eut haï",
+			"nous": "eûmes haï",
+			"vous": "eûtes haï",
+			"ils/elles": "eurent haï"
+		},
+		"futur antérieur": {
+			"j'": "aurai haï",
+			"tu": "auras haï",
+			"il/elle": "aura haï",
+			"nous": "aurons haï",
+			"vous": "aurez haï",
+			"ils/elles": "auront haï"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous haïssiez",
+			"qu'il/elle": "haïsse",
+			"qu'ils/elles": "haïssent"
+		},
+		"imparfait": {
+			"que": "vous haïssiez",
+			"qu'il/elle": "haït",
+			"qu'ils/elles": "haïssent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse haï",
+			"que": "vous eussiez haï",
+			"qu'il/elle": "eût haï",
+			"qu'ils/elles": "eussent haï"
+		},
+		"passé": {
+			"j'": "aie haï",
+			"que": "vous ayez haï",
+			"qu'il/elle": "ait haï",
+			"qu'ils/elles": "aient haï"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "haïrais",
+			"tu": "haïrais",
+			"il/elle": "haïrait",
+			"nous": "haïrions",
+			"vous": "haïriez",
+			"ils/elles": "haïraient"
+		},
+		"passé première forme": {
+			"j'": "aurais haï",
+			"tu": "aurais haï",
+			"il/elle": "aurait haï",
+			"nous": "aurions haï",
+			"vous": "auriez haï",
+			"ils/elles": "auraient haï"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse haï",
+			"tu": "eusses haï",
+			"il/elle": "eût haï",
+			"nous": "eussions haï",
+			"vous": "eussiez haï",
+			"ils/elles": "eussent haï"
+		}
+	},
+	"participe": {
+		"présent": { "haïssant": "" },
+		"passé composé": { "ayant": "haï" },
+		"passé": {
+			"masc.sg.:": "haï",
+			"masc.pl.:": "haïs",
+			"fém.sg.:": "haie",
+			"fém.pl.:": "haies"
+		}
+	},
+	"imperatif": {
+		"présent": { "hais": "", "haïssons": "", "haïssez": "" },
+		"passé": { "aie": "haï", "ayons": "haï", "ayez": "haï" }
+	},
+	"infinitif": { "présent": { "haïr": "" }, "passé": { "avoir": "haï" } }
+}

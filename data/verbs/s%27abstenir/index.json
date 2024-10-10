@@ -1,0 +1,159 @@
+{
+	"name": "tenir",
+	"definition": "refrain; abstain; abstain from; ...",
+	"model": "tenir",
+	"auxiliary": "être",
+	"otherForms": "ne pas s'abstenir",
+	"indicatif": {
+		"présent": {
+			"je": "m'abstiens",
+			"tu": "t'abstiens",
+			"il/elle": "s'abstient",
+			"nous": "nous abstenons",
+			"vous": "vous abstenez",
+			"ils/elles": "s'abstiennent"
+		},
+		"imparfait": {
+			"je": "m'abstenais",
+			"tu": "t'abstenais",
+			"il/elle": "s'abstenait",
+			"nous": "nous abstenions",
+			"vous": "vous absteniez",
+			"ils/elles": "s'abstenaient"
+		},
+		"futur": {
+			"je": "m'abstiendrai",
+			"tu": "t'abstiendras",
+			"il/elle": "s'abstiendra",
+			"nous": "nous abstiendrons",
+			"vous": "vous abstiendrez",
+			"ils/elles": "s'abstiendront"
+		},
+		"passé simple": {
+			"je": "m'abstins",
+			"tu": "t'abstins",
+			"il/elle": "s'abstint",
+			"nous": "nous abstînmes",
+			"vous": "vous abstîntes",
+			"ils/elles": "s'abstinrent"
+		},
+		"passé composé": {
+			"je": "me suis abstenu",
+			"tu": "t'es abstenu",
+			"il": "s'est abstenu",
+			"elle": "s'est abstenue",
+			"nous": "nous sommes abstenus",
+			"vous": "vous êtes abstenus",
+			"ils": "se sont abstenus",
+			"elles": "se sont abstenues"
+		},
+		"plus-que-parfait": {
+			"je": "m'étais abstenu",
+			"tu": "t'étais abstenu",
+			"il": "s'était abstenu",
+			"elle": "s'était abstenue",
+			"nous": "nous étions abstenus",
+			"vous": "vous étiez abstenus",
+			"ils": "s'étaient abstenus",
+			"elles": "s'étaient abstenues"
+		},
+		"passé antérieur": {
+			"je": "me fus abstenu",
+			"tu": "te fus abstenu",
+			"il": "se fut abstenu",
+			"elle": "se fut abstenue",
+			"nous": "nous fûmes abstenus",
+			"vous": "vous fûtes abstenus",
+			"ils": "se furent abstenus",
+			"elles": "se furent abstenues"
+		},
+		"futur antérieur": {
+			"je": "me serai abstenu",
+			"tu": "te seras abstenu",
+			"il": "se sera abstenu",
+			"elle": "se sera abstenue",
+			"nous": "nous serons abstenus",
+			"vous": "vous serez abstenus",
+			"ils": "se seront abstenus",
+			"elles": "se seront abstenues"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous vous absteniez",
+			"qu'il/elle": "s'abstienne",
+			"qu'ils/elles": "s'abstiennent"
+		},
+		"imparfait": {
+			"que": "vous vous abstinssiez",
+			"qu'il/elle": "s'abstînt",
+			"qu'ils/elles": "s'abstinssent"
+		},
+		"plus-que-parfait": {
+			"que": "vous vous fussiez abstenus",
+			"qu'il": "se fût abstenu",
+			"qu'elle": "se fût abstenue",
+			"qu'ils": "se fussent abstenus",
+			"qu'elles": "se fussent abstenues"
+		},
+		"passé": {
+			"que": "vous vous soyez abstenus",
+			"qu'il": "se soit abstenu",
+			"qu'elle": "se soit abstenue",
+			"qu'ils": "se soient abstenus",
+			"qu'elles": "se soient abstenues"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "m'abstiendrais",
+			"tu": "t'abstiendrais",
+			"il/elle": "s'abstiendrait",
+			"nous": "nous abstiendrions",
+			"vous": "vous abstiendriez",
+			"ils/elles": "s'abstiendraient"
+		},
+		"passé première forme": {
+			"je": "me serais abstenu",
+			"tu": "te serais abstenu",
+			"il": "se serait abstenu",
+			"elle": "se serait abstenue",
+			"nous": "nous serions abstenus",
+			"vous": "vous seriez abstenus",
+			"ils": "se seraient abstenus",
+			"elles": "se seraient abstenues"
+		},
+		"passé deuxième forme": {
+			"je": "me fusse abstenu",
+			"tu": "te fusses abstenu",
+			"il": "se fût abstenu",
+			"elle": "se fût abstenue",
+			"nous": "nous fussions abstenus",
+			"vous": "vous fussiez abstenus",
+			"ils": "se fussent abstenus",
+			"elles": "se fussent abstenues"
+		}
+	},
+	"participe": {
+		"présent": { "s'abstenant": "" },
+		"passé composé": { "s'étant": "abstenu" },
+		"passé": {
+			"masc.sg.:": "abstenu",
+			"masc.pl.:": "abstenus",
+			"fém.sg.:": "abstenue",
+			"fém.pl.:": "abstenues"
+		}
+	},
+	"imperatif": {
+		"présent": {
+			"abstiens-toi": "",
+			"abstenons-nous": "",
+			"abstenez-vous": ""
+		},
+		"passé": {}
+	},
+	"infinitif": {
+		"présent": { "s'abstenir": "" },
+		"passé": { "s'être": "abstenu" }
+	}
+}

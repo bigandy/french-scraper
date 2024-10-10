@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "sign; sign off; enter into; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se signer/ne pas signer/ne pas se signer",
+	"indicatif": {
+		"présent": {
+			"je": "signe",
+			"tu": "signes",
+			"il/elle": "signe",
+			"nous": "signons",
+			"vous": "signez",
+			"ils/elles": "signent"
+		},
+		"imparfait": {
+			"je": "signais",
+			"tu": "signais",
+			"il/elle": "signait",
+			"nous": "signions",
+			"vous": "signiez",
+			"ils/elles": "signaient"
+		},
+		"futur": {
+			"je": "signerai",
+			"tu": "signeras",
+			"il/elle": "signera",
+			"nous": "signerons",
+			"vous": "signerez",
+			"ils/elles": "signeront"
+		},
+		"passé simple": {
+			"je": "signai",
+			"tu": "signas",
+			"il/elle": "signa",
+			"nous": "signâmes",
+			"vous": "signâtes",
+			"ils/elles": "signèrent"
+		},
+		"passé composé": {
+			"j'": "ai signé",
+			"tu": "as signé",
+			"il/elle": "a signé",
+			"nous": "avons signé",
+			"vous": "avez signé",
+			"ils/elles": "ont signé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais signé",
+			"tu": "avais signé",
+			"il/elle": "avait signé",
+			"nous": "avions signé",
+			"vous": "aviez signé",
+			"ils/elles": "avaient signé"
+		},
+		"passé antérieur": {
+			"j'": "eus signé",
+			"tu": "eus signé",
+			"il/elle": "eut signé",
+			"nous": "eûmes signé",
+			"vous": "eûtes signé",
+			"ils/elles": "eurent signé"
+		},
+		"futur antérieur": {
+			"j'": "aurai signé",
+			"tu": "auras signé",
+			"il/elle": "aura signé",
+			"nous": "aurons signé",
+			"vous": "aurez signé",
+			"ils/elles": "auront signé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous signiez",
+			"qu'il/elle": "signe",
+			"qu'ils/elles": "signent"
+		},
+		"imparfait": {
+			"que": "vous signassiez",
+			"qu'il/elle": "signât",
+			"qu'ils/elles": "signassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse signé",
+			"que": "vous eussiez signé",
+			"qu'il/elle": "eût signé",
+			"qu'ils/elles": "eussent signé"
+		},
+		"passé": {
+			"j'": "aie signé",
+			"que": "vous ayez signé",
+			"qu'il/elle": "ait signé",
+			"qu'ils/elles": "aient signé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "signerais",
+			"tu": "signerais",
+			"il/elle": "signerait",
+			"nous": "signerions",
+			"vous": "signeriez",
+			"ils/elles": "signeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais signé",
+			"tu": "aurais signé",
+			"il/elle": "aurait signé",
+			"nous": "aurions signé",
+			"vous": "auriez signé",
+			"ils/elles": "auraient signé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse signé",
+			"tu": "eusses signé",
+			"il/elle": "eût signé",
+			"nous": "eussions signé",
+			"vous": "eussiez signé",
+			"ils/elles": "eussent signé"
+		}
+	},
+	"participe": {
+		"présent": { "signant": "" },
+		"passé composé": { "ayant": "signé" },
+		"passé": {
+			"masc.sg.:": "signé",
+			"masc.pl.:": "signés",
+			"fém.sg.:": "signée",
+			"fém.pl.:": "signées"
+		}
+	},
+	"imperatif": {
+		"présent": { "signe": "", "signons": "", "signez": "" },
+		"passé": { "aie": "signé", "ayons": "signé", "ayez": "signé" }
+	},
+	"infinitif": { "présent": { "signer": "" }, "passé": { "avoir": "signé" } }
+}

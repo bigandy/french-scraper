@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "stop; arrest; quit; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'arrêter/ne pas arrêter/ne pas s'arrêter",
+	"indicatif": {
+		"présent": {
+			"j'": "arrête",
+			"tu": "arrêtes",
+			"il/elle": "arrête",
+			"nous": "arrêtons",
+			"vous": "arrêtez",
+			"ils/elles": "arrêtent"
+		},
+		"imparfait": {
+			"j'": "arrêtais",
+			"tu": "arrêtais",
+			"il/elle": "arrêtait",
+			"nous": "arrêtions",
+			"vous": "arrêtiez",
+			"ils/elles": "arrêtaient"
+		},
+		"futur": {
+			"j'": "arrêterai",
+			"tu": "arrêteras",
+			"il/elle": "arrêtera",
+			"nous": "arrêterons",
+			"vous": "arrêterez",
+			"ils/elles": "arrêteront"
+		},
+		"passé simple": {
+			"j'": "arrêtai",
+			"tu": "arrêtas",
+			"il/elle": "arrêta",
+			"nous": "arrêtâmes",
+			"vous": "arrêtâtes",
+			"ils/elles": "arrêtèrent"
+		},
+		"passé composé": {
+			"j'": "ai arrêté",
+			"tu": "as arrêté",
+			"il/elle": "a arrêté",
+			"nous": "avons arrêté",
+			"vous": "avez arrêté",
+			"ils/elles": "ont arrêté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais arrêté",
+			"tu": "avais arrêté",
+			"il/elle": "avait arrêté",
+			"nous": "avions arrêté",
+			"vous": "aviez arrêté",
+			"ils/elles": "avaient arrêté"
+		},
+		"passé antérieur": {
+			"j'": "eus arrêté",
+			"tu": "eus arrêté",
+			"il/elle": "eut arrêté",
+			"nous": "eûmes arrêté",
+			"vous": "eûtes arrêté",
+			"ils/elles": "eurent arrêté"
+		},
+		"futur antérieur": {
+			"j'": "aurai arrêté",
+			"tu": "auras arrêté",
+			"il/elle": "aura arrêté",
+			"nous": "aurons arrêté",
+			"vous": "aurez arrêté",
+			"ils/elles": "auront arrêté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "arrête",
+			"que": "vous arrêtiez",
+			"qu'il/elle": "arrête",
+			"qu'ils/elles": "arrêtent"
+		},
+		"imparfait": {
+			"j'": "arrêtasse",
+			"que": "vous arrêtassiez",
+			"qu'il/elle": "arrêtât",
+			"qu'ils/elles": "arrêtassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse arrêté",
+			"que": "vous eussiez arrêté",
+			"qu'il/elle": "eût arrêté",
+			"qu'ils/elles": "eussent arrêté"
+		},
+		"passé": {
+			"j'": "aie arrêté",
+			"que": "vous ayez arrêté",
+			"qu'il/elle": "ait arrêté",
+			"qu'ils/elles": "aient arrêté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "arrêterais",
+			"tu": "arrêterais",
+			"il/elle": "arrêterait",
+			"nous": "arrêterions",
+			"vous": "arrêteriez",
+			"ils/elles": "arrêteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais arrêté",
+			"tu": "aurais arrêté",
+			"il/elle": "aurait arrêté",
+			"nous": "aurions arrêté",
+			"vous": "auriez arrêté",
+			"ils/elles": "auraient arrêté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse arrêté",
+			"tu": "eusses arrêté",
+			"il/elle": "eût arrêté",
+			"nous": "eussions arrêté",
+			"vous": "eussiez arrêté",
+			"ils/elles": "eussent arrêté"
+		}
+	},
+	"participe": {
+		"présent": { "arrêtant": "" },
+		"passé composé": { "ayant": "arrêté" },
+		"passé": {
+			"masc.sg.:": "arrêté",
+			"masc.pl.:": "arrêtés",
+			"fém.sg.:": "arrêtée",
+			"fém.pl.:": "arrêtées"
+		}
+	},
+	"imperatif": {
+		"présent": { "arrête": "", "arrêtons": "", "arrêtez": "" },
+		"passé": { "aie": "arrêté", "ayons": "arrêté", "ayez": "arrêté" }
+	},
+	"infinitif": { "présent": { "arrêter": "" }, "passé": { "avoir": "arrêté" } }
+}

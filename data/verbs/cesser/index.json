@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "stop; cease; end; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se cesser/ne pas cesser/ne pas se cesser",
+	"indicatif": {
+		"présent": {
+			"je": "cesse",
+			"tu": "cesses",
+			"il/elle": "cesse",
+			"nous": "cessons",
+			"vous": "cessez",
+			"ils/elles": "cessent"
+		},
+		"imparfait": {
+			"je": "cessais",
+			"tu": "cessais",
+			"il/elle": "cessait",
+			"nous": "cessions",
+			"vous": "cessiez",
+			"ils/elles": "cessaient"
+		},
+		"futur": {
+			"je": "cesserai",
+			"tu": "cesseras",
+			"il/elle": "cessera",
+			"nous": "cesserons",
+			"vous": "cesserez",
+			"ils/elles": "cesseront"
+		},
+		"passé simple": {
+			"je": "cessai",
+			"tu": "cessas",
+			"il/elle": "cessa",
+			"nous": "cessâmes",
+			"vous": "cessâtes",
+			"ils/elles": "cessèrent"
+		},
+		"passé composé": {
+			"j'": "ai cessé",
+			"tu": "as cessé",
+			"il/elle": "a cessé",
+			"nous": "avons cessé",
+			"vous": "avez cessé",
+			"ils/elles": "ont cessé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais cessé",
+			"tu": "avais cessé",
+			"il/elle": "avait cessé",
+			"nous": "avions cessé",
+			"vous": "aviez cessé",
+			"ils/elles": "avaient cessé"
+		},
+		"passé antérieur": {
+			"j'": "eus cessé",
+			"tu": "eus cessé",
+			"il/elle": "eut cessé",
+			"nous": "eûmes cessé",
+			"vous": "eûtes cessé",
+			"ils/elles": "eurent cessé"
+		},
+		"futur antérieur": {
+			"j'": "aurai cessé",
+			"tu": "auras cessé",
+			"il/elle": "aura cessé",
+			"nous": "aurons cessé",
+			"vous": "aurez cessé",
+			"ils/elles": "auront cessé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous cessiez",
+			"qu'il/elle": "cesse",
+			"qu'ils/elles": "cessent"
+		},
+		"imparfait": {
+			"que": "vous cessassiez",
+			"qu'il/elle": "cessât",
+			"qu'ils/elles": "cessassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse cessé",
+			"que": "vous eussiez cessé",
+			"qu'il/elle": "eût cessé",
+			"qu'ils/elles": "eussent cessé"
+		},
+		"passé": {
+			"j'": "aie cessé",
+			"que": "vous ayez cessé",
+			"qu'il/elle": "ait cessé",
+			"qu'ils/elles": "aient cessé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "cesserais",
+			"tu": "cesserais",
+			"il/elle": "cesserait",
+			"nous": "cesserions",
+			"vous": "cesseriez",
+			"ils/elles": "cesseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais cessé",
+			"tu": "aurais cessé",
+			"il/elle": "aurait cessé",
+			"nous": "aurions cessé",
+			"vous": "auriez cessé",
+			"ils/elles": "auraient cessé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse cessé",
+			"tu": "eusses cessé",
+			"il/elle": "eût cessé",
+			"nous": "eussions cessé",
+			"vous": "eussiez cessé",
+			"ils/elles": "eussent cessé"
+		}
+	},
+	"participe": {
+		"présent": { "cessant": "" },
+		"passé composé": { "ayant": "cessé" },
+		"passé": {
+			"masc.sg.:": "cessé",
+			"masc.pl.:": "cessés",
+			"fém.sg.:": "cessée",
+			"fém.pl.:": "cessées"
+		}
+	},
+	"imperatif": {
+		"présent": { "cesse": "", "cessons": "", "cessez": "" },
+		"passé": { "aie": "cessé", "ayons": "cessé", "ayez": "cessé" }
+	},
+	"infinitif": { "présent": { "cesser": "" }, "passé": { "avoir": "cessé" } }
+}

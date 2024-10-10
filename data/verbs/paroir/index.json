@@ -1,0 +1,138 @@
+{
+	"name": "finir",
+	"definition": "",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se paroir/ne pas paroir/ne pas se paroir",
+	"indicatif": {
+		"présent": {
+			"je": "parois",
+			"tu": "parois",
+			"il/elle": "paroit",
+			"nous": "paroissons",
+			"vous": "paroissez",
+			"ils/elles": "paroissent"
+		},
+		"imparfait": {
+			"je": "paroissais",
+			"tu": "paroissais",
+			"il/elle": "paroissait",
+			"nous": "paroissions",
+			"vous": "paroissiez",
+			"ils/elles": "paroissaient"
+		},
+		"futur": {
+			"je": "paroirai",
+			"tu": "paroiras",
+			"il/elle": "paroira",
+			"nous": "paroirons",
+			"vous": "paroirez",
+			"ils/elles": "paroiront"
+		},
+		"passé simple": {
+			"je": "parois",
+			"tu": "parois",
+			"il/elle": "paroit",
+			"nous": "paroîmes",
+			"vous": "paroîtes",
+			"ils/elles": "paroirent"
+		},
+		"passé composé": {
+			"j'": "ai paroi",
+			"tu": "as paroi",
+			"il/elle": "a paroi",
+			"nous": "avons paroi",
+			"vous": "avez paroi",
+			"ils/elles": "ont paroi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais paroi",
+			"tu": "avais paroi",
+			"il/elle": "avait paroi",
+			"nous": "avions paroi",
+			"vous": "aviez paroi",
+			"ils/elles": "avaient paroi"
+		},
+		"passé antérieur": {
+			"j'": "eus paroi",
+			"tu": "eus paroi",
+			"il/elle": "eut paroi",
+			"nous": "eûmes paroi",
+			"vous": "eûtes paroi",
+			"ils/elles": "eurent paroi"
+		},
+		"futur antérieur": {
+			"j'": "aurai paroi",
+			"tu": "auras paroi",
+			"il/elle": "aura paroi",
+			"nous": "aurons paroi",
+			"vous": "aurez paroi",
+			"ils/elles": "auront paroi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous paroissiez",
+			"qu'il/elle": "paroisse",
+			"qu'ils/elles": "paroissent"
+		},
+		"imparfait": {
+			"que": "vous paroissiez",
+			"qu'il/elle": "paroît",
+			"qu'ils/elles": "paroissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse paroi",
+			"que": "vous eussiez paroi",
+			"qu'il/elle": "eût paroi",
+			"qu'ils/elles": "eussent paroi"
+		},
+		"passé": {
+			"j'": "aie paroi",
+			"que": "vous ayez paroi",
+			"qu'il/elle": "ait paroi",
+			"qu'ils/elles": "aient paroi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "paroirais",
+			"tu": "paroirais",
+			"il/elle": "paroirait",
+			"nous": "paroirions",
+			"vous": "paroiriez",
+			"ils/elles": "paroiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais paroi",
+			"tu": "aurais paroi",
+			"il/elle": "aurait paroi",
+			"nous": "aurions paroi",
+			"vous": "auriez paroi",
+			"ils/elles": "auraient paroi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse paroi",
+			"tu": "eusses paroi",
+			"il/elle": "eût paroi",
+			"nous": "eussions paroi",
+			"vous": "eussiez paroi",
+			"ils/elles": "eussent paroi"
+		}
+	},
+	"participe": {
+		"présent": { "paroissant": "" },
+		"passé composé": { "ayant": "paroi" },
+		"passé": {
+			"masc.sg.:": "paroi",
+			"masc.pl.:": "parois",
+			"fém.sg.:": "paroie",
+			"fém.pl.:": "paroies"
+		}
+	},
+	"imperatif": {
+		"présent": { "parois": "", "paroissons": "", "paroissez": "" },
+		"passé": { "aie": "paroi", "ayons": "paroi", "ayez": "paroi" }
+	},
+	"infinitif": { "présent": { "paroir": "" }, "passé": { "avoir": "paroi" } }
+}

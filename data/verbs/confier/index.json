@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "entrust; give; assign; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se confier/ne pas confier/ne pas se confier",
+	"indicatif": {
+		"présent": {
+			"je": "confie",
+			"tu": "confies",
+			"il/elle": "confie",
+			"nous": "confions",
+			"vous": "confiez",
+			"ils/elles": "confient"
+		},
+		"imparfait": {
+			"je": "confiais",
+			"tu": "confiais",
+			"il/elle": "confiait",
+			"nous": "confiions",
+			"vous": "confiiez",
+			"ils/elles": "confiaient"
+		},
+		"futur": {
+			"je": "confierai",
+			"tu": "confieras",
+			"il/elle": "confiera",
+			"nous": "confierons",
+			"vous": "confierez",
+			"ils/elles": "confieront"
+		},
+		"passé simple": {
+			"je": "confiai",
+			"tu": "confias",
+			"il/elle": "confia",
+			"nous": "confiâmes",
+			"vous": "confiâtes",
+			"ils/elles": "confièrent"
+		},
+		"passé composé": {
+			"j'": "ai confié",
+			"tu": "as confié",
+			"il/elle": "a confié",
+			"nous": "avons confié",
+			"vous": "avez confié",
+			"ils/elles": "ont confié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais confié",
+			"tu": "avais confié",
+			"il/elle": "avait confié",
+			"nous": "avions confié",
+			"vous": "aviez confié",
+			"ils/elles": "avaient confié"
+		},
+		"passé antérieur": {
+			"j'": "eus confié",
+			"tu": "eus confié",
+			"il/elle": "eut confié",
+			"nous": "eûmes confié",
+			"vous": "eûtes confié",
+			"ils/elles": "eurent confié"
+		},
+		"futur antérieur": {
+			"j'": "aurai confié",
+			"tu": "auras confié",
+			"il/elle": "aura confié",
+			"nous": "aurons confié",
+			"vous": "aurez confié",
+			"ils/elles": "auront confié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous confiiez",
+			"qu'il/elle": "confie",
+			"qu'ils/elles": "confient"
+		},
+		"imparfait": {
+			"que": "vous confiassiez",
+			"qu'il/elle": "confiât",
+			"qu'ils/elles": "confiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse confié",
+			"que": "vous eussiez confié",
+			"qu'il/elle": "eût confié",
+			"qu'ils/elles": "eussent confié"
+		},
+		"passé": {
+			"j'": "aie confié",
+			"que": "vous ayez confié",
+			"qu'il/elle": "ait confié",
+			"qu'ils/elles": "aient confié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "confierais",
+			"tu": "confierais",
+			"il/elle": "confierait",
+			"nous": "confierions",
+			"vous": "confieriez",
+			"ils/elles": "confieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais confié",
+			"tu": "aurais confié",
+			"il/elle": "aurait confié",
+			"nous": "aurions confié",
+			"vous": "auriez confié",
+			"ils/elles": "auraient confié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse confié",
+			"tu": "eusses confié",
+			"il/elle": "eût confié",
+			"nous": "eussions confié",
+			"vous": "eussiez confié",
+			"ils/elles": "eussent confié"
+		}
+	},
+	"participe": {
+		"présent": { "confiant": "" },
+		"passé composé": { "ayant": "confié" },
+		"passé": {
+			"masc.sg.:": "confié",
+			"masc.pl.:": "confiés",
+			"fém.sg.:": "confiée",
+			"fém.pl.:": "confiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "confie": "", "confions": "", "confiez": "" },
+		"passé": { "aie": "confié", "ayons": "confié", "ayez": "confié" }
+	},
+	"infinitif": { "présent": { "confier": "" }, "passé": { "avoir": "confié" } }
+}

@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "rivet; clinch; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se river/ne pas river/ne pas se river",
+	"indicatif": {
+		"présent": {
+			"je": "rive",
+			"tu": "rives",
+			"il/elle": "rive",
+			"nous": "rivons",
+			"vous": "rivez",
+			"ils/elles": "rivent"
+		},
+		"imparfait": {
+			"je": "rivais",
+			"tu": "rivais",
+			"il/elle": "rivait",
+			"nous": "rivions",
+			"vous": "riviez",
+			"ils/elles": "rivaient"
+		},
+		"futur": {
+			"je": "riverai",
+			"tu": "riveras",
+			"il/elle": "rivera",
+			"nous": "riverons",
+			"vous": "riverez",
+			"ils/elles": "riveront"
+		},
+		"passé simple": {
+			"je": "rivai",
+			"tu": "rivas",
+			"il/elle": "riva",
+			"nous": "rivâmes",
+			"vous": "rivâtes",
+			"ils/elles": "rivèrent"
+		},
+		"passé composé": {
+			"j'": "ai rivé",
+			"tu": "as rivé",
+			"il/elle": "a rivé",
+			"nous": "avons rivé",
+			"vous": "avez rivé",
+			"ils/elles": "ont rivé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais rivé",
+			"tu": "avais rivé",
+			"il/elle": "avait rivé",
+			"nous": "avions rivé",
+			"vous": "aviez rivé",
+			"ils/elles": "avaient rivé"
+		},
+		"passé antérieur": {
+			"j'": "eus rivé",
+			"tu": "eus rivé",
+			"il/elle": "eut rivé",
+			"nous": "eûmes rivé",
+			"vous": "eûtes rivé",
+			"ils/elles": "eurent rivé"
+		},
+		"futur antérieur": {
+			"j'": "aurai rivé",
+			"tu": "auras rivé",
+			"il/elle": "aura rivé",
+			"nous": "aurons rivé",
+			"vous": "aurez rivé",
+			"ils/elles": "auront rivé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous riviez",
+			"qu'il/elle": "rive",
+			"qu'ils/elles": "rivent"
+		},
+		"imparfait": {
+			"que": "vous rivassiez",
+			"qu'il/elle": "rivât",
+			"qu'ils/elles": "rivassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse rivé",
+			"que": "vous eussiez rivé",
+			"qu'il/elle": "eût rivé",
+			"qu'ils/elles": "eussent rivé"
+		},
+		"passé": {
+			"j'": "aie rivé",
+			"que": "vous ayez rivé",
+			"qu'il/elle": "ait rivé",
+			"qu'ils/elles": "aient rivé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "riverais",
+			"tu": "riverais",
+			"il/elle": "riverait",
+			"nous": "riverions",
+			"vous": "riveriez",
+			"ils/elles": "riveraient"
+		},
+		"passé première forme": {
+			"j'": "aurais rivé",
+			"tu": "aurais rivé",
+			"il/elle": "aurait rivé",
+			"nous": "aurions rivé",
+			"vous": "auriez rivé",
+			"ils/elles": "auraient rivé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse rivé",
+			"tu": "eusses rivé",
+			"il/elle": "eût rivé",
+			"nous": "eussions rivé",
+			"vous": "eussiez rivé",
+			"ils/elles": "eussent rivé"
+		}
+	},
+	"participe": {
+		"présent": { "rivant": "" },
+		"passé composé": { "ayant": "rivé" },
+		"passé": {
+			"masc.sg.:": "rivé",
+			"masc.pl.:": "rivés",
+			"fém.sg.:": "rivée",
+			"fém.pl.:": "rivées"
+		}
+	},
+	"imperatif": {
+		"présent": { "rive": "", "rivons": "", "rivez": "" },
+		"passé": { "aie": "rivé", "ayons": "rivé", "ayez": "rivé" }
+	},
+	"infinitif": { "présent": { "river": "" }, "passé": { "avoir": "rivé" } }
+}

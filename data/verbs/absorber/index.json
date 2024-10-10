@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "absorb; take; accommodate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'absorber/ne pas absorber/ne pas s'absorber",
+	"indicatif": {
+		"présent": {
+			"j'": "absorbe",
+			"tu": "absorbes",
+			"il/elle": "absorbe",
+			"nous": "absorbons",
+			"vous": "absorbez",
+			"ils/elles": "absorbent"
+		},
+		"imparfait": {
+			"j'": "absorbais",
+			"tu": "absorbais",
+			"il/elle": "absorbait",
+			"nous": "absorbions",
+			"vous": "absorbiez",
+			"ils/elles": "absorbaient"
+		},
+		"futur": {
+			"j'": "absorberai",
+			"tu": "absorberas",
+			"il/elle": "absorbera",
+			"nous": "absorberons",
+			"vous": "absorberez",
+			"ils/elles": "absorberont"
+		},
+		"passé simple": {
+			"j'": "absorbai",
+			"tu": "absorbas",
+			"il/elle": "absorba",
+			"nous": "absorbâmes",
+			"vous": "absorbâtes",
+			"ils/elles": "absorbèrent"
+		},
+		"passé composé": {
+			"j'": "ai absorbé",
+			"tu": "as absorbé",
+			"il/elle": "a absorbé",
+			"nous": "avons absorbé",
+			"vous": "avez absorbé",
+			"ils/elles": "ont absorbé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais absorbé",
+			"tu": "avais absorbé",
+			"il/elle": "avait absorbé",
+			"nous": "avions absorbé",
+			"vous": "aviez absorbé",
+			"ils/elles": "avaient absorbé"
+		},
+		"passé antérieur": {
+			"j'": "eus absorbé",
+			"tu": "eus absorbé",
+			"il/elle": "eut absorbé",
+			"nous": "eûmes absorbé",
+			"vous": "eûtes absorbé",
+			"ils/elles": "eurent absorbé"
+		},
+		"futur antérieur": {
+			"j'": "aurai absorbé",
+			"tu": "auras absorbé",
+			"il/elle": "aura absorbé",
+			"nous": "aurons absorbé",
+			"vous": "aurez absorbé",
+			"ils/elles": "auront absorbé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "absorbe",
+			"que": "vous absorbiez",
+			"qu'il/elle": "absorbe",
+			"qu'ils/elles": "absorbent"
+		},
+		"imparfait": {
+			"j'": "absorbasse",
+			"que": "vous absorbassiez",
+			"qu'il/elle": "absorbât",
+			"qu'ils/elles": "absorbassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse absorbé",
+			"que": "vous eussiez absorbé",
+			"qu'il/elle": "eût absorbé",
+			"qu'ils/elles": "eussent absorbé"
+		},
+		"passé": {
+			"j'": "aie absorbé",
+			"que": "vous ayez absorbé",
+			"qu'il/elle": "ait absorbé",
+			"qu'ils/elles": "aient absorbé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "absorberais",
+			"tu": "absorberais",
+			"il/elle": "absorberait",
+			"nous": "absorberions",
+			"vous": "absorberiez",
+			"ils/elles": "absorberaient"
+		},
+		"passé première forme": {
+			"j'": "aurais absorbé",
+			"tu": "aurais absorbé",
+			"il/elle": "aurait absorbé",
+			"nous": "aurions absorbé",
+			"vous": "auriez absorbé",
+			"ils/elles": "auraient absorbé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse absorbé",
+			"tu": "eusses absorbé",
+			"il/elle": "eût absorbé",
+			"nous": "eussions absorbé",
+			"vous": "eussiez absorbé",
+			"ils/elles": "eussent absorbé"
+		}
+	},
+	"participe": {
+		"présent": { "absorbant": "" },
+		"passé composé": { "ayant": "absorbé" },
+		"passé": {
+			"masc.sg.:": "absorbé",
+			"masc.pl.:": "absorbés",
+			"fém.sg.:": "absorbée",
+			"fém.pl.:": "absorbées"
+		}
+	},
+	"imperatif": {
+		"présent": { "absorbe": "", "absorbons": "", "absorbez": "" },
+		"passé": { "aie": "absorbé", "ayons": "absorbé", "ayez": "absorbé" }
+	},
+	"infinitif": {
+		"présent": { "absorber": "" },
+		"passé": { "avoir": "absorbé" }
+	}
+}

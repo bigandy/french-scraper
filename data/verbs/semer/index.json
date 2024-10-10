@@ -1,0 +1,138 @@
+{
+	"name": "semer",
+	"definition": "sow; plant; spread; ...",
+	"model": "semer",
+	"auxiliary": "avoir",
+	"otherForms": "se semer/ne pas semer/ne pas se semer",
+	"indicatif": {
+		"présent": {
+			"je": "sème",
+			"tu": "sèmes",
+			"il/elle": "sème",
+			"nous": "semons",
+			"vous": "semez",
+			"ils/elles": "sèment"
+		},
+		"imparfait": {
+			"je": "semais",
+			"tu": "semais",
+			"il/elle": "semait",
+			"nous": "semions",
+			"vous": "semiez",
+			"ils/elles": "semaient"
+		},
+		"futur": {
+			"je": "sèmerai",
+			"tu": "sèmeras",
+			"il/elle": "sèmera",
+			"nous": "sèmerons",
+			"vous": "sèmerez",
+			"ils/elles": "sèmeront"
+		},
+		"passé simple": {
+			"je": "semai",
+			"tu": "semas",
+			"il/elle": "sema",
+			"nous": "semâmes",
+			"vous": "semâtes",
+			"ils/elles": "semèrent"
+		},
+		"passé composé": {
+			"j'": "ai semé",
+			"tu": "as semé",
+			"il/elle": "a semé",
+			"nous": "avons semé",
+			"vous": "avez semé",
+			"ils/elles": "ont semé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais semé",
+			"tu": "avais semé",
+			"il/elle": "avait semé",
+			"nous": "avions semé",
+			"vous": "aviez semé",
+			"ils/elles": "avaient semé"
+		},
+		"passé antérieur": {
+			"j'": "eus semé",
+			"tu": "eus semé",
+			"il/elle": "eut semé",
+			"nous": "eûmes semé",
+			"vous": "eûtes semé",
+			"ils/elles": "eurent semé"
+		},
+		"futur antérieur": {
+			"j'": "aurai semé",
+			"tu": "auras semé",
+			"il/elle": "aura semé",
+			"nous": "aurons semé",
+			"vous": "aurez semé",
+			"ils/elles": "auront semé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous semiez",
+			"qu'il/elle": "sème",
+			"qu'ils/elles": "sèment"
+		},
+		"imparfait": {
+			"que": "vous semassiez",
+			"qu'il/elle": "semât",
+			"qu'ils/elles": "semassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse semé",
+			"que": "vous eussiez semé",
+			"qu'il/elle": "eût semé",
+			"qu'ils/elles": "eussent semé"
+		},
+		"passé": {
+			"j'": "aie semé",
+			"que": "vous ayez semé",
+			"qu'il/elle": "ait semé",
+			"qu'ils/elles": "aient semé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "sèmerais",
+			"tu": "sèmerais",
+			"il/elle": "sèmerait",
+			"nous": "sèmerions",
+			"vous": "sèmeriez",
+			"ils/elles": "sèmeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais semé",
+			"tu": "aurais semé",
+			"il/elle": "aurait semé",
+			"nous": "aurions semé",
+			"vous": "auriez semé",
+			"ils/elles": "auraient semé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse semé",
+			"tu": "eusses semé",
+			"il/elle": "eût semé",
+			"nous": "eussions semé",
+			"vous": "eussiez semé",
+			"ils/elles": "eussent semé"
+		}
+	},
+	"participe": {
+		"présent": { "semant": "" },
+		"passé composé": { "ayant": "semé" },
+		"passé": {
+			"masc.sg.:": "semé",
+			"masc.pl.:": "semés",
+			"fém.sg.:": "semée",
+			"fém.pl.:": "semées"
+		}
+	},
+	"imperatif": {
+		"présent": { "sème": "", "semons": "", "semez": "" },
+		"passé": { "aie": "semé", "ayons": "semé", "ayez": "semé" }
+	},
+	"infinitif": { "présent": { "semer": "" }, "passé": { "avoir": "semé" } }
+}

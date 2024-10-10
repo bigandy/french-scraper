@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "deprive; deny; take away; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se priver/ne pas priver/ne pas se priver",
+	"indicatif": {
+		"présent": {
+			"je": "prive",
+			"tu": "prives",
+			"il/elle": "prive",
+			"nous": "privons",
+			"vous": "privez",
+			"ils/elles": "privent"
+		},
+		"imparfait": {
+			"je": "privais",
+			"tu": "privais",
+			"il/elle": "privait",
+			"nous": "privions",
+			"vous": "priviez",
+			"ils/elles": "privaient"
+		},
+		"futur": {
+			"je": "priverai",
+			"tu": "priveras",
+			"il/elle": "privera",
+			"nous": "priverons",
+			"vous": "priverez",
+			"ils/elles": "priveront"
+		},
+		"passé simple": {
+			"je": "privai",
+			"tu": "privas",
+			"il/elle": "priva",
+			"nous": "privâmes",
+			"vous": "privâtes",
+			"ils/elles": "privèrent"
+		},
+		"passé composé": {
+			"j'": "ai privé",
+			"tu": "as privé",
+			"il/elle": "a privé",
+			"nous": "avons privé",
+			"vous": "avez privé",
+			"ils/elles": "ont privé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais privé",
+			"tu": "avais privé",
+			"il/elle": "avait privé",
+			"nous": "avions privé",
+			"vous": "aviez privé",
+			"ils/elles": "avaient privé"
+		},
+		"passé antérieur": {
+			"j'": "eus privé",
+			"tu": "eus privé",
+			"il/elle": "eut privé",
+			"nous": "eûmes privé",
+			"vous": "eûtes privé",
+			"ils/elles": "eurent privé"
+		},
+		"futur antérieur": {
+			"j'": "aurai privé",
+			"tu": "auras privé",
+			"il/elle": "aura privé",
+			"nous": "aurons privé",
+			"vous": "aurez privé",
+			"ils/elles": "auront privé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous priviez",
+			"qu'il/elle": "prive",
+			"qu'ils/elles": "privent"
+		},
+		"imparfait": {
+			"que": "vous privassiez",
+			"qu'il/elle": "privât",
+			"qu'ils/elles": "privassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse privé",
+			"que": "vous eussiez privé",
+			"qu'il/elle": "eût privé",
+			"qu'ils/elles": "eussent privé"
+		},
+		"passé": {
+			"j'": "aie privé",
+			"que": "vous ayez privé",
+			"qu'il/elle": "ait privé",
+			"qu'ils/elles": "aient privé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "priverais",
+			"tu": "priverais",
+			"il/elle": "priverait",
+			"nous": "priverions",
+			"vous": "priveriez",
+			"ils/elles": "priveraient"
+		},
+		"passé première forme": {
+			"j'": "aurais privé",
+			"tu": "aurais privé",
+			"il/elle": "aurait privé",
+			"nous": "aurions privé",
+			"vous": "auriez privé",
+			"ils/elles": "auraient privé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse privé",
+			"tu": "eusses privé",
+			"il/elle": "eût privé",
+			"nous": "eussions privé",
+			"vous": "eussiez privé",
+			"ils/elles": "eussent privé"
+		}
+	},
+	"participe": {
+		"présent": { "privant": "" },
+		"passé composé": { "ayant": "privé" },
+		"passé": {
+			"masc.sg.:": "privé",
+			"masc.pl.:": "privés",
+			"fém.sg.:": "privée",
+			"fém.pl.:": "privées"
+		}
+	},
+	"imperatif": {
+		"présent": { "prive": "", "privons": "", "privez": "" },
+		"passé": { "aie": "privé", "ayons": "privé", "ayez": "privé" }
+	},
+	"infinitif": { "présent": { "priver": "" }, "passé": { "avoir": "privé" } }
+}

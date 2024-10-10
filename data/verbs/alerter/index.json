@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "alert; warn; notify; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'alerter/ne pas alerter/ne pas s'alerter",
+	"indicatif": {
+		"présent": {
+			"j'": "alerte",
+			"tu": "alertes",
+			"il/elle": "alerte",
+			"nous": "alertons",
+			"vous": "alertez",
+			"ils/elles": "alertent"
+		},
+		"imparfait": {
+			"j'": "alertais",
+			"tu": "alertais",
+			"il/elle": "alertait",
+			"nous": "alertions",
+			"vous": "alertiez",
+			"ils/elles": "alertaient"
+		},
+		"futur": {
+			"j'": "alerterai",
+			"tu": "alerteras",
+			"il/elle": "alertera",
+			"nous": "alerterons",
+			"vous": "alerterez",
+			"ils/elles": "alerteront"
+		},
+		"passé simple": {
+			"j'": "alertai",
+			"tu": "alertas",
+			"il/elle": "alerta",
+			"nous": "alertâmes",
+			"vous": "alertâtes",
+			"ils/elles": "alertèrent"
+		},
+		"passé composé": {
+			"j'": "ai alerté",
+			"tu": "as alerté",
+			"il/elle": "a alerté",
+			"nous": "avons alerté",
+			"vous": "avez alerté",
+			"ils/elles": "ont alerté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais alerté",
+			"tu": "avais alerté",
+			"il/elle": "avait alerté",
+			"nous": "avions alerté",
+			"vous": "aviez alerté",
+			"ils/elles": "avaient alerté"
+		},
+		"passé antérieur": {
+			"j'": "eus alerté",
+			"tu": "eus alerté",
+			"il/elle": "eut alerté",
+			"nous": "eûmes alerté",
+			"vous": "eûtes alerté",
+			"ils/elles": "eurent alerté"
+		},
+		"futur antérieur": {
+			"j'": "aurai alerté",
+			"tu": "auras alerté",
+			"il/elle": "aura alerté",
+			"nous": "aurons alerté",
+			"vous": "aurez alerté",
+			"ils/elles": "auront alerté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "alerte",
+			"que": "vous alertiez",
+			"qu'il/elle": "alerte",
+			"qu'ils/elles": "alertent"
+		},
+		"imparfait": {
+			"j'": "alertasse",
+			"que": "vous alertassiez",
+			"qu'il/elle": "alertât",
+			"qu'ils/elles": "alertassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse alerté",
+			"que": "vous eussiez alerté",
+			"qu'il/elle": "eût alerté",
+			"qu'ils/elles": "eussent alerté"
+		},
+		"passé": {
+			"j'": "aie alerté",
+			"que": "vous ayez alerté",
+			"qu'il/elle": "ait alerté",
+			"qu'ils/elles": "aient alerté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "alerterais",
+			"tu": "alerterais",
+			"il/elle": "alerterait",
+			"nous": "alerterions",
+			"vous": "alerteriez",
+			"ils/elles": "alerteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais alerté",
+			"tu": "aurais alerté",
+			"il/elle": "aurait alerté",
+			"nous": "aurions alerté",
+			"vous": "auriez alerté",
+			"ils/elles": "auraient alerté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse alerté",
+			"tu": "eusses alerté",
+			"il/elle": "eût alerté",
+			"nous": "eussions alerté",
+			"vous": "eussiez alerté",
+			"ils/elles": "eussent alerté"
+		}
+	},
+	"participe": {
+		"présent": { "alertant": "" },
+		"passé composé": { "ayant": "alerté" },
+		"passé": {
+			"masc.sg.:": "alerté",
+			"masc.pl.:": "alertés",
+			"fém.sg.:": "alertée",
+			"fém.pl.:": "alertées"
+		}
+	},
+	"imperatif": {
+		"présent": { "alerte": "", "alertons": "", "alertez": "" },
+		"passé": { "aie": "alerté", "ayons": "alerté", "ayez": "alerté" }
+	},
+	"infinitif": { "présent": { "alerter": "" }, "passé": { "avoir": "alerté" } }
+}

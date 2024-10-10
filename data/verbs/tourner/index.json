@@ -1,0 +1,194 @@
+{
+	"name": "marcher",
+	"definition": "turn; rotate; spin; ...",
+	"model": "marcher",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "se tourner/ne pas tourner/ne pas se tourner",
+	"indicatif": {
+		"présent": {
+			"je": "tourne",
+			"tu": "tournes",
+			"il/elle": "tourne",
+			"nous": "tournons",
+			"vous": "tournez",
+			"ils/elles": "tournent"
+		},
+		"imparfait": {
+			"je": "tournais",
+			"tu": "tournais",
+			"il/elle": "tournait",
+			"nous": "tournions",
+			"vous": "tourniez",
+			"ils/elles": "tournaient"
+		},
+		"futur": {
+			"je": "tournerai",
+			"tu": "tourneras",
+			"il/elle": "tournera",
+			"nous": "tournerons",
+			"vous": "tournerez",
+			"ils/elles": "tourneront"
+		},
+		"passé simple": {
+			"je": "tournai",
+			"tu": "tournas",
+			"il/elle": "tourna",
+			"nous": "tournâmes",
+			"vous": "tournâtes",
+			"ils/elles": "tournèrent"
+		},
+		"passé composé": {
+			"j'": "ai tourné",
+			"tu": "es tourné",
+			"il/elle": "a tourné",
+			"nous": "sommes tournés",
+			"vous": "êtes tournés",
+			"ils/elles": "ont tourné",
+			"": "",
+			"je": "suis tourné",
+			"il": "est tourné",
+			"elle": "est tournée",
+			"ils": "sont tournés",
+			"elles": "sont tournées"
+		},
+		"plus-que-parfait": {
+			"j'": "étais tourné",
+			"tu": "étais tourné",
+			"il/elle": "avait tourné",
+			"nous": "étions tournés",
+			"vous": "étiez tournés",
+			"ils/elles": "avaient tourné",
+			"": "",
+			"il": "était tourné",
+			"elle": "était tournée",
+			"ils": "étaient tournés",
+			"elles": "étaient tournées"
+		},
+		"passé antérieur": {
+			"j'": "eus tourné",
+			"tu": "fus tourné",
+			"il/elle": "eut tourné",
+			"nous": "fûmes tournés",
+			"vous": "fûtes tournés",
+			"ils/elles": "eurent tourné",
+			"": "",
+			"je": "fus tourné",
+			"il": "fut tourné",
+			"elle": "fut tournée",
+			"ils": "furent tournés",
+			"elles": "furent tournées"
+		},
+		"futur antérieur": {
+			"j'": "aurai tourné",
+			"tu": "seras tourné",
+			"il/elle": "aura tourné",
+			"nous": "serons tournés",
+			"vous": "serez tournés",
+			"ils/elles": "auront tourné",
+			"": "",
+			"je": "serai tourné",
+			"il": "sera tourné",
+			"elle": "sera tournée",
+			"ils": "seront tournés",
+			"elles": "seront tournées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous tourniez",
+			"qu'il/elle": "tourne",
+			"qu'ils/elles": "tournent"
+		},
+		"imparfait": {
+			"que": "vous tournassiez",
+			"qu'il/elle": "tournât",
+			"qu'ils/elles": "tournassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse tourné",
+			"que": "vous fussiez tournés",
+			"qu'il/elle": "eût tourné",
+			"qu'ils/elles": "eussent tourné",
+			"": "",
+			"qu'il": "fût tourné",
+			"qu'elle": "fût tournée",
+			"qu'ils": "fussent tournés",
+			"qu'elles": "fussent tournées"
+		},
+		"passé": {
+			"j'": "aie tourné",
+			"que": "vous soyez tournés",
+			"qu'il/elle": "ait tourné",
+			"qu'ils/elles": "aient tourné",
+			"": "",
+			"qu'il": "soit tourné",
+			"qu'elle": "soit tournée",
+			"qu'ils": "soient tournés",
+			"qu'elles": "soient tournées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "tournerais",
+			"tu": "tournerais",
+			"il/elle": "tournerait",
+			"nous": "tournerions",
+			"vous": "tourneriez",
+			"ils/elles": "tourneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais tourné",
+			"tu": "serais tourné",
+			"il/elle": "aurait tourné",
+			"nous": "serions tournés",
+			"vous": "seriez tournés",
+			"ils/elles": "auraient tourné",
+			"": "",
+			"je": "serais tourné",
+			"il": "serait tourné",
+			"elle": "serait tournée",
+			"ils": "seraient tournés",
+			"elles": "seraient tournées"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse tourné",
+			"tu": "fusses tourné",
+			"il/elle": "eût tourné",
+			"nous": "fussions tournés",
+			"vous": "fussiez tournés",
+			"ils/elles": "eussent tourné",
+			"": "",
+			"je": "fusse tourné",
+			"il": "fût tourné",
+			"elle": "fût tournée",
+			"ils": "fussent tournés",
+			"elles": "fussent tournées"
+		}
+	},
+	"participe": {
+		"présent": { "tournant": "" },
+		"passé composé": { "ayant": "tourné", "": "", "étant": "tournée" },
+		"passé": {
+			"masc.sg.:": "tourné",
+			"masc.pl.:": "tournés",
+			"fém.sg.:": "tournée",
+			"fém.pl.:": "tournées"
+		}
+	},
+	"imperatif": {
+		"présent": { "tourne": "", "tournons": "", "tournez": "" },
+		"passé": {
+			"aie": "tourné",
+			"ayons": "tourné",
+			"ayez": "tourné",
+			"": "",
+			"sois": "tourné",
+			"soyons": "tourné",
+			"soyez": "tourné"
+		}
+	},
+	"infinitif": {
+		"présent": { "tourner": "" },
+		"passé": { "avoir": "tourné", "": "", "être": "tourné" }
+	}
+}

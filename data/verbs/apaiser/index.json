@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "appease; ease; soothe; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'apaiser/ne pas apaiser/ne pas s'apaiser",
+	"indicatif": {
+		"présent": {
+			"j'": "apaise",
+			"tu": "apaises",
+			"il/elle": "apaise",
+			"nous": "apaisons",
+			"vous": "apaisez",
+			"ils/elles": "apaisent"
+		},
+		"imparfait": {
+			"j'": "apaisais",
+			"tu": "apaisais",
+			"il/elle": "apaisait",
+			"nous": "apaisions",
+			"vous": "apaisiez",
+			"ils/elles": "apaisaient"
+		},
+		"futur": {
+			"j'": "apaiserai",
+			"tu": "apaiseras",
+			"il/elle": "apaisera",
+			"nous": "apaiserons",
+			"vous": "apaiserez",
+			"ils/elles": "apaiseront"
+		},
+		"passé simple": {
+			"j'": "apaisai",
+			"tu": "apaisas",
+			"il/elle": "apaisa",
+			"nous": "apaisâmes",
+			"vous": "apaisâtes",
+			"ils/elles": "apaisèrent"
+		},
+		"passé composé": {
+			"j'": "ai apaisé",
+			"tu": "as apaisé",
+			"il/elle": "a apaisé",
+			"nous": "avons apaisé",
+			"vous": "avez apaisé",
+			"ils/elles": "ont apaisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais apaisé",
+			"tu": "avais apaisé",
+			"il/elle": "avait apaisé",
+			"nous": "avions apaisé",
+			"vous": "aviez apaisé",
+			"ils/elles": "avaient apaisé"
+		},
+		"passé antérieur": {
+			"j'": "eus apaisé",
+			"tu": "eus apaisé",
+			"il/elle": "eut apaisé",
+			"nous": "eûmes apaisé",
+			"vous": "eûtes apaisé",
+			"ils/elles": "eurent apaisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai apaisé",
+			"tu": "auras apaisé",
+			"il/elle": "aura apaisé",
+			"nous": "aurons apaisé",
+			"vous": "aurez apaisé",
+			"ils/elles": "auront apaisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "apaise",
+			"que": "vous apaisiez",
+			"qu'il/elle": "apaise",
+			"qu'ils/elles": "apaisent"
+		},
+		"imparfait": {
+			"j'": "apaisasse",
+			"que": "vous apaisassiez",
+			"qu'il/elle": "apaisât",
+			"qu'ils/elles": "apaisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse apaisé",
+			"que": "vous eussiez apaisé",
+			"qu'il/elle": "eût apaisé",
+			"qu'ils/elles": "eussent apaisé"
+		},
+		"passé": {
+			"j'": "aie apaisé",
+			"que": "vous ayez apaisé",
+			"qu'il/elle": "ait apaisé",
+			"qu'ils/elles": "aient apaisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "apaiserais",
+			"tu": "apaiserais",
+			"il/elle": "apaiserait",
+			"nous": "apaiserions",
+			"vous": "apaiseriez",
+			"ils/elles": "apaiseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais apaisé",
+			"tu": "aurais apaisé",
+			"il/elle": "aurait apaisé",
+			"nous": "aurions apaisé",
+			"vous": "auriez apaisé",
+			"ils/elles": "auraient apaisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse apaisé",
+			"tu": "eusses apaisé",
+			"il/elle": "eût apaisé",
+			"nous": "eussions apaisé",
+			"vous": "eussiez apaisé",
+			"ils/elles": "eussent apaisé"
+		}
+	},
+	"participe": {
+		"présent": { "apaisant": "" },
+		"passé composé": { "ayant": "apaisé" },
+		"passé": {
+			"masc.sg.:": "apaisé",
+			"masc.pl.:": "apaisés",
+			"fém.sg.:": "apaisée",
+			"fém.pl.:": "apaisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "apaise": "", "apaisons": "", "apaisez": "" },
+		"passé": { "aie": "apaisé", "ayons": "apaisé", "ayez": "apaisé" }
+	},
+	"infinitif": { "présent": { "apaiser": "" }, "passé": { "avoir": "apaisé" } }
+}

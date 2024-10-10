@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "start; boot; begin; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se démarrer/ne pas démarrer/ne pas se démarrer",
+	"indicatif": {
+		"présent": {
+			"je": "démarre",
+			"tu": "démarres",
+			"il/elle": "démarre",
+			"nous": "démarrons",
+			"vous": "démarrez",
+			"ils/elles": "démarrent"
+		},
+		"imparfait": {
+			"je": "démarrais",
+			"tu": "démarrais",
+			"il/elle": "démarrait",
+			"nous": "démarrions",
+			"vous": "démarriez",
+			"ils/elles": "démarraient"
+		},
+		"futur": {
+			"je": "démarrerai",
+			"tu": "démarreras",
+			"il/elle": "démarrera",
+			"nous": "démarrerons",
+			"vous": "démarrerez",
+			"ils/elles": "démarreront"
+		},
+		"passé simple": {
+			"je": "démarrai",
+			"tu": "démarras",
+			"il/elle": "démarra",
+			"nous": "démarrâmes",
+			"vous": "démarrâtes",
+			"ils/elles": "démarrèrent"
+		},
+		"passé composé": {
+			"j'": "ai démarré",
+			"tu": "as démarré",
+			"il/elle": "a démarré",
+			"nous": "avons démarré",
+			"vous": "avez démarré",
+			"ils/elles": "ont démarré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais démarré",
+			"tu": "avais démarré",
+			"il/elle": "avait démarré",
+			"nous": "avions démarré",
+			"vous": "aviez démarré",
+			"ils/elles": "avaient démarré"
+		},
+		"passé antérieur": {
+			"j'": "eus démarré",
+			"tu": "eus démarré",
+			"il/elle": "eut démarré",
+			"nous": "eûmes démarré",
+			"vous": "eûtes démarré",
+			"ils/elles": "eurent démarré"
+		},
+		"futur antérieur": {
+			"j'": "aurai démarré",
+			"tu": "auras démarré",
+			"il/elle": "aura démarré",
+			"nous": "aurons démarré",
+			"vous": "aurez démarré",
+			"ils/elles": "auront démarré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous démarriez",
+			"qu'il/elle": "démarre",
+			"qu'ils/elles": "démarrent"
+		},
+		"imparfait": {
+			"que": "vous démarrassiez",
+			"qu'il/elle": "démarrât",
+			"qu'ils/elles": "démarrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse démarré",
+			"que": "vous eussiez démarré",
+			"qu'il/elle": "eût démarré",
+			"qu'ils/elles": "eussent démarré"
+		},
+		"passé": {
+			"j'": "aie démarré",
+			"que": "vous ayez démarré",
+			"qu'il/elle": "ait démarré",
+			"qu'ils/elles": "aient démarré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "démarrerais",
+			"tu": "démarrerais",
+			"il/elle": "démarrerait",
+			"nous": "démarrerions",
+			"vous": "démarreriez",
+			"ils/elles": "démarreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais démarré",
+			"tu": "aurais démarré",
+			"il/elle": "aurait démarré",
+			"nous": "aurions démarré",
+			"vous": "auriez démarré",
+			"ils/elles": "auraient démarré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse démarré",
+			"tu": "eusses démarré",
+			"il/elle": "eût démarré",
+			"nous": "eussions démarré",
+			"vous": "eussiez démarré",
+			"ils/elles": "eussent démarré"
+		}
+	},
+	"participe": {
+		"présent": { "démarrant": "" },
+		"passé composé": { "ayant": "démarré" },
+		"passé": {
+			"masc.sg.:": "démarré",
+			"masc.pl.:": "démarrés",
+			"fém.sg.:": "démarrée",
+			"fém.pl.:": "démarrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "démarre": "", "démarrons": "", "démarrez": "" },
+		"passé": { "aie": "démarré", "ayons": "démarré", "ayez": "démarré" }
+	},
+	"infinitif": {
+		"présent": { "démarrer": "" },
+		"passé": { "avoir": "démarré" }
+	}
+}

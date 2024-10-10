@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "coordinate; co-ordinate; oversee; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se coordonner/ne pas coordonner/ne pas se coordonner",
+	"indicatif": {
+		"présent": {
+			"je": "coordonne",
+			"tu": "coordonnes",
+			"il/elle": "coordonne",
+			"nous": "coordonnons",
+			"vous": "coordonnez",
+			"ils/elles": "coordonnent"
+		},
+		"imparfait": {
+			"je": "coordonnais",
+			"tu": "coordonnais",
+			"il/elle": "coordonnait",
+			"nous": "coordonnions",
+			"vous": "coordonniez",
+			"ils/elles": "coordonnaient"
+		},
+		"futur": {
+			"je": "coordonnerai",
+			"tu": "coordonneras",
+			"il/elle": "coordonnera",
+			"nous": "coordonnerons",
+			"vous": "coordonnerez",
+			"ils/elles": "coordonneront"
+		},
+		"passé simple": {
+			"je": "coordonnai",
+			"tu": "coordonnas",
+			"il/elle": "coordonna",
+			"nous": "coordonnâmes",
+			"vous": "coordonnâtes",
+			"ils/elles": "coordonnèrent"
+		},
+		"passé composé": {
+			"j'": "ai coordonné",
+			"tu": "as coordonné",
+			"il/elle": "a coordonné",
+			"nous": "avons coordonné",
+			"vous": "avez coordonné",
+			"ils/elles": "ont coordonné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais coordonné",
+			"tu": "avais coordonné",
+			"il/elle": "avait coordonné",
+			"nous": "avions coordonné",
+			"vous": "aviez coordonné",
+			"ils/elles": "avaient coordonné"
+		},
+		"passé antérieur": {
+			"j'": "eus coordonné",
+			"tu": "eus coordonné",
+			"il/elle": "eut coordonné",
+			"nous": "eûmes coordonné",
+			"vous": "eûtes coordonné",
+			"ils/elles": "eurent coordonné"
+		},
+		"futur antérieur": {
+			"j'": "aurai coordonné",
+			"tu": "auras coordonné",
+			"il/elle": "aura coordonné",
+			"nous": "aurons coordonné",
+			"vous": "aurez coordonné",
+			"ils/elles": "auront coordonné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous coordonniez",
+			"qu'il/elle": "coordonne",
+			"qu'ils/elles": "coordonnent"
+		},
+		"imparfait": {
+			"que": "vous coordonnassiez",
+			"qu'il/elle": "coordonnât",
+			"qu'ils/elles": "coordonnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse coordonné",
+			"que": "vous eussiez coordonné",
+			"qu'il/elle": "eût coordonné",
+			"qu'ils/elles": "eussent coordonné"
+		},
+		"passé": {
+			"j'": "aie coordonné",
+			"que": "vous ayez coordonné",
+			"qu'il/elle": "ait coordonné",
+			"qu'ils/elles": "aient coordonné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "coordonnerais",
+			"tu": "coordonnerais",
+			"il/elle": "coordonnerait",
+			"nous": "coordonnerions",
+			"vous": "coordonneriez",
+			"ils/elles": "coordonneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais coordonné",
+			"tu": "aurais coordonné",
+			"il/elle": "aurait coordonné",
+			"nous": "aurions coordonné",
+			"vous": "auriez coordonné",
+			"ils/elles": "auraient coordonné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse coordonné",
+			"tu": "eusses coordonné",
+			"il/elle": "eût coordonné",
+			"nous": "eussions coordonné",
+			"vous": "eussiez coordonné",
+			"ils/elles": "eussent coordonné"
+		}
+	},
+	"participe": {
+		"présent": { "coordonnant": "" },
+		"passé composé": { "ayant": "coordonné" },
+		"passé": {
+			"masc.sg.:": "coordonné",
+			"masc.pl.:": "coordonnés",
+			"fém.sg.:": "coordonnée",
+			"fém.pl.:": "coordonnées"
+		}
+	},
+	"imperatif": {
+		"présent": { "coordonne": "", "coordonnons": "", "coordonnez": "" },
+		"passé": { "aie": "coordonné", "ayons": "coordonné", "ayez": "coordonné" }
+	},
+	"infinitif": {
+		"présent": { "coordonner": "" },
+		"passé": { "avoir": "coordonné" }
+	}
+}

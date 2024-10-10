@@ -1,0 +1,154 @@
+{
+	"name": "marcher",
+	"definition": "happen; arrive; get; ...",
+	"model": "marcher",
+	"auxiliary": "être",
+	"otherForms": "ne pas arriver",
+	"indicatif": {
+		"présent": {
+			"j'": "arrive",
+			"tu": "arrives",
+			"il/elle": "arrive",
+			"nous": "arrivons",
+			"vous": "arrivez",
+			"ils/elles": "arrivent"
+		},
+		"imparfait": {
+			"j'": "arrivais",
+			"tu": "arrivais",
+			"il/elle": "arrivait",
+			"nous": "arrivions",
+			"vous": "arriviez",
+			"ils/elles": "arrivaient"
+		},
+		"futur": {
+			"j'": "arriverai",
+			"tu": "arriveras",
+			"il/elle": "arrivera",
+			"nous": "arriverons",
+			"vous": "arriverez",
+			"ils/elles": "arriveront"
+		},
+		"passé simple": {
+			"j'": "arrivai",
+			"tu": "arrivas",
+			"il/elle": "arriva",
+			"nous": "arrivâmes",
+			"vous": "arrivâtes",
+			"ils/elles": "arrivèrent"
+		},
+		"passé composé": {
+			"je": "suis arrivé",
+			"tu": "es arrivé",
+			"il": "est arrivé",
+			"elle": "est arrivée",
+			"nous": "sommes arrivés",
+			"vous": "êtes arrivés",
+			"ils": "sont arrivés",
+			"elles": "sont arrivées"
+		},
+		"plus-que-parfait": {
+			"j'": "étais arrivé",
+			"tu": "étais arrivé",
+			"il": "était arrivé",
+			"elle": "était arrivée",
+			"nous": "étions arrivés",
+			"vous": "étiez arrivés",
+			"ils": "étaient arrivés",
+			"elles": "étaient arrivées"
+		},
+		"passé antérieur": {
+			"je": "fus arrivé",
+			"tu": "fus arrivé",
+			"il": "fut arrivé",
+			"elle": "fut arrivée",
+			"nous": "fûmes arrivés",
+			"vous": "fûtes arrivés",
+			"ils": "furent arrivés",
+			"elles": "furent arrivées"
+		},
+		"futur antérieur": {
+			"je": "serai arrivé",
+			"tu": "seras arrivé",
+			"il": "sera arrivé",
+			"elle": "sera arrivée",
+			"nous": "serons arrivés",
+			"vous": "serez arrivés",
+			"ils": "seront arrivés",
+			"elles": "seront arrivées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "arrive",
+			"que": "vous arriviez",
+			"qu'il/elle": "arrive",
+			"qu'ils/elles": "arrivent"
+		},
+		"imparfait": {
+			"j'": "arrivasse",
+			"que": "vous arrivassiez",
+			"qu'il/elle": "arrivât",
+			"qu'ils/elles": "arrivassent"
+		},
+		"plus-que-parfait": {
+			"que": "vous fussiez arrivés",
+			"qu'il": "fût arrivé",
+			"qu'elle": "fût arrivée",
+			"qu'ils": "fussent arrivés",
+			"qu'elles": "fussent arrivées"
+		},
+		"passé": {
+			"que": "vous soyez arrivés",
+			"qu'il": "soit arrivé",
+			"qu'elle": "soit arrivée",
+			"qu'ils": "soient arrivés",
+			"qu'elles": "soient arrivées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "arriverais",
+			"tu": "arriverais",
+			"il/elle": "arriverait",
+			"nous": "arriverions",
+			"vous": "arriveriez",
+			"ils/elles": "arriveraient"
+		},
+		"passé première forme": {
+			"je": "serais arrivé",
+			"tu": "serais arrivé",
+			"il": "serait arrivé",
+			"elle": "serait arrivée",
+			"nous": "serions arrivés",
+			"vous": "seriez arrivés",
+			"ils": "seraient arrivés",
+			"elles": "seraient arrivées"
+		},
+		"passé deuxième forme": {
+			"je": "fusse arrivé",
+			"tu": "fusses arrivé",
+			"il": "fût arrivé",
+			"elle": "fût arrivée",
+			"nous": "fussions arrivés",
+			"vous": "fussiez arrivés",
+			"ils": "fussent arrivés",
+			"elles": "fussent arrivées"
+		}
+	},
+	"participe": {
+		"présent": { "arrivant": "" },
+		"passé composé": { "étant": "arrivée" },
+		"passé": {
+			"masc.sg.:": "arrivé",
+			"masc.pl.:": "arrivés",
+			"fém.sg.:": "arrivée",
+			"fém.pl.:": "arrivées"
+		}
+	},
+	"imperatif": {
+		"présent": { "arrive": "", "arrivons": "", "arrivez": "" },
+		"passé": { "sois": "arrivé", "soyons": "arrivé", "soyez": "arrivé" }
+	},
+	"infinitif": { "présent": { "arriver": "" }, "passé": { "être": "arrivé" } }
+}

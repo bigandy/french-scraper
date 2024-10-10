@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "officiate; preside; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas officier",
+	"indicatif": {
+		"présent": {
+			"j'": "officie",
+			"tu": "officies",
+			"il/elle": "officie",
+			"nous": "officions",
+			"vous": "officiez",
+			"ils/elles": "officient"
+		},
+		"imparfait": {
+			"j'": "officiais",
+			"tu": "officiais",
+			"il/elle": "officiait",
+			"nous": "officiions",
+			"vous": "officiiez",
+			"ils/elles": "officiaient"
+		},
+		"futur": {
+			"j'": "officierai",
+			"tu": "officieras",
+			"il/elle": "officiera",
+			"nous": "officierons",
+			"vous": "officierez",
+			"ils/elles": "officieront"
+		},
+		"passé simple": {
+			"j'": "officiai",
+			"tu": "officias",
+			"il/elle": "officia",
+			"nous": "officiâmes",
+			"vous": "officiâtes",
+			"ils/elles": "officièrent"
+		},
+		"passé composé": {
+			"j'": "ai officié",
+			"tu": "as officié",
+			"il/elle": "a officié",
+			"nous": "avons officié",
+			"vous": "avez officié",
+			"ils/elles": "ont officié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais officié",
+			"tu": "avais officié",
+			"il/elle": "avait officié",
+			"nous": "avions officié",
+			"vous": "aviez officié",
+			"ils/elles": "avaient officié"
+		},
+		"passé antérieur": {
+			"j'": "eus officié",
+			"tu": "eus officié",
+			"il/elle": "eut officié",
+			"nous": "eûmes officié",
+			"vous": "eûtes officié",
+			"ils/elles": "eurent officié"
+		},
+		"futur antérieur": {
+			"j'": "aurai officié",
+			"tu": "auras officié",
+			"il/elle": "aura officié",
+			"nous": "aurons officié",
+			"vous": "aurez officié",
+			"ils/elles": "auront officié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "officie",
+			"que": "vous officiiez",
+			"qu'il/elle": "officie",
+			"qu'ils/elles": "officient"
+		},
+		"imparfait": {
+			"j'": "officiasse",
+			"que": "vous officiassiez",
+			"qu'il/elle": "officiât",
+			"qu'ils/elles": "officiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse officié",
+			"que": "vous eussiez officié",
+			"qu'il/elle": "eût officié",
+			"qu'ils/elles": "eussent officié"
+		},
+		"passé": {
+			"j'": "aie officié",
+			"que": "vous ayez officié",
+			"qu'il/elle": "ait officié",
+			"qu'ils/elles": "aient officié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "officierais",
+			"tu": "officierais",
+			"il/elle": "officierait",
+			"nous": "officierions",
+			"vous": "officieriez",
+			"ils/elles": "officieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais officié",
+			"tu": "aurais officié",
+			"il/elle": "aurait officié",
+			"nous": "aurions officié",
+			"vous": "auriez officié",
+			"ils/elles": "auraient officié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse officié",
+			"tu": "eusses officié",
+			"il/elle": "eût officié",
+			"nous": "eussions officié",
+			"vous": "eussiez officié",
+			"ils/elles": "eussent officié"
+		}
+	},
+	"participe": {
+		"présent": { "officiant": "" },
+		"passé composé": { "ayant": "officié" },
+		"passé": {
+			"masc.sg.:": "officié",
+			"masc.pl.:": "officiés",
+			"fém.sg.:": "officiée",
+			"fém.pl.:": "officiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "officie": "", "officions": "", "officiez": "" },
+		"passé": { "aie": "officié", "ayons": "officié", "ayez": "officié" }
+	},
+	"infinitif": {
+		"présent": { "officier": "" },
+		"passé": { "avoir": "officié" }
+	}
+}

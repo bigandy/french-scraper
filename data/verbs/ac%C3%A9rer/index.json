@@ -1,0 +1,140 @@
+{
+	"name": "aérer",
+	"definition": "sharpen; ...",
+	"model": "aérer",
+	"auxiliary": "avoir",
+	"otherForms": "s'acérer/ne pas acérer/ne pas s'acérer",
+	"indicatif": {
+		"présent": {
+			"j'": "acère",
+			"tu": "acères",
+			"il/elle": "acère",
+			"nous": "acérons",
+			"vous": "acérez",
+			"ils/elles": "acèrent"
+		},
+		"imparfait": {
+			"j'": "acérais",
+			"tu": "acérais",
+			"il/elle": "acérait",
+			"nous": "acérions",
+			"vous": "acériez",
+			"ils/elles": "acéraient"
+		},
+		"futur": {
+			"j'": "acérerai",
+			"tu": "acéreras",
+			"il/elle": "acérera",
+			"nous": "acérerons",
+			"vous": "acérerez",
+			"ils/elles": "acéreront"
+		},
+		"passé simple": {
+			"j'": "acérai",
+			"tu": "acéras",
+			"il/elle": "acéra",
+			"nous": "acérâmes",
+			"vous": "acérâtes",
+			"ils/elles": "acérèrent"
+		},
+		"passé composé": {
+			"j'": "ai acéré",
+			"tu": "as acéré",
+			"il/elle": "a acéré",
+			"nous": "avons acéré",
+			"vous": "avez acéré",
+			"ils/elles": "ont acéré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais acéré",
+			"tu": "avais acéré",
+			"il/elle": "avait acéré",
+			"nous": "avions acéré",
+			"vous": "aviez acéré",
+			"ils/elles": "avaient acéré"
+		},
+		"passé antérieur": {
+			"j'": "eus acéré",
+			"tu": "eus acéré",
+			"il/elle": "eut acéré",
+			"nous": "eûmes acéré",
+			"vous": "eûtes acéré",
+			"ils/elles": "eurent acéré"
+		},
+		"futur antérieur": {
+			"j'": "aurai acéré",
+			"tu": "auras acéré",
+			"il/elle": "aura acéré",
+			"nous": "aurons acéré",
+			"vous": "aurez acéré",
+			"ils/elles": "auront acéré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "acère",
+			"que": "vous acériez",
+			"qu'il/elle": "acère",
+			"qu'ils/elles": "acèrent"
+		},
+		"imparfait": {
+			"j'": "acérasse",
+			"que": "vous acérassiez",
+			"qu'il/elle": "acérât",
+			"qu'ils/elles": "acérassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse acéré",
+			"que": "vous eussiez acéré",
+			"qu'il/elle": "eût acéré",
+			"qu'ils/elles": "eussent acéré"
+		},
+		"passé": {
+			"j'": "aie acéré",
+			"que": "vous ayez acéré",
+			"qu'il/elle": "ait acéré",
+			"qu'ils/elles": "aient acéré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "acérerais",
+			"tu": "acérerais",
+			"il/elle": "acérerait",
+			"nous": "acérerions",
+			"vous": "acéreriez",
+			"ils/elles": "acéreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais acéré",
+			"tu": "aurais acéré",
+			"il/elle": "aurait acéré",
+			"nous": "aurions acéré",
+			"vous": "auriez acéré",
+			"ils/elles": "auraient acéré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse acéré",
+			"tu": "eusses acéré",
+			"il/elle": "eût acéré",
+			"nous": "eussions acéré",
+			"vous": "eussiez acéré",
+			"ils/elles": "eussent acéré"
+		}
+	},
+	"participe": {
+		"présent": { "acérant": "" },
+		"passé composé": { "ayant": "acéré" },
+		"passé": {
+			"masc.sg.:": "acéré",
+			"masc.pl.:": "acérés",
+			"fém.sg.:": "acérée",
+			"fém.pl.:": "acérées"
+		}
+	},
+	"imperatif": {
+		"présent": { "acère": "", "acérons": "", "acérez": "" },
+		"passé": { "aie": "acéré", "ayons": "acéré", "ayez": "acéré" }
+	},
+	"infinitif": { "présent": { "acérer": "" }, "passé": { "avoir": "acéré" } }
+}

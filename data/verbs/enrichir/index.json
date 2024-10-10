@@ -1,0 +1,143 @@
+{
+	"name": "finir",
+	"definition": "enrich; enhance; add; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "s'enrichir/ne pas enrichir/ne pas s'enrichir",
+	"indicatif": {
+		"présent": {
+			"j'": "enrichis",
+			"tu": "enrichis",
+			"il/elle": "enrichit",
+			"nous": "enrichissons",
+			"vous": "enrichissez",
+			"ils/elles": "enrichissent"
+		},
+		"imparfait": {
+			"j'": "enrichissais",
+			"tu": "enrichissais",
+			"il/elle": "enrichissait",
+			"nous": "enrichissions",
+			"vous": "enrichissiez",
+			"ils/elles": "enrichissaient"
+		},
+		"futur": {
+			"j'": "enrichirai",
+			"tu": "enrichiras",
+			"il/elle": "enrichira",
+			"nous": "enrichirons",
+			"vous": "enrichirez",
+			"ils/elles": "enrichiront"
+		},
+		"passé simple": {
+			"j'": "enrichis",
+			"tu": "enrichis",
+			"il/elle": "enrichit",
+			"nous": "enrichîmes",
+			"vous": "enrichîtes",
+			"ils/elles": "enrichirent"
+		},
+		"passé composé": {
+			"j'": "ai enrichi",
+			"tu": "as enrichi",
+			"il/elle": "a enrichi",
+			"nous": "avons enrichi",
+			"vous": "avez enrichi",
+			"ils/elles": "ont enrichi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais enrichi",
+			"tu": "avais enrichi",
+			"il/elle": "avait enrichi",
+			"nous": "avions enrichi",
+			"vous": "aviez enrichi",
+			"ils/elles": "avaient enrichi"
+		},
+		"passé antérieur": {
+			"j'": "eus enrichi",
+			"tu": "eus enrichi",
+			"il/elle": "eut enrichi",
+			"nous": "eûmes enrichi",
+			"vous": "eûtes enrichi",
+			"ils/elles": "eurent enrichi"
+		},
+		"futur antérieur": {
+			"j'": "aurai enrichi",
+			"tu": "auras enrichi",
+			"il/elle": "aura enrichi",
+			"nous": "aurons enrichi",
+			"vous": "aurez enrichi",
+			"ils/elles": "auront enrichi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "enrichisse",
+			"que": "vous enrichissiez",
+			"qu'il/elle": "enrichisse",
+			"qu'ils/elles": "enrichissent"
+		},
+		"imparfait": {
+			"j'": "enrichisse",
+			"que": "vous enrichissiez",
+			"qu'il/elle": "enrichît",
+			"qu'ils/elles": "enrichissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse enrichi",
+			"que": "vous eussiez enrichi",
+			"qu'il/elle": "eût enrichi",
+			"qu'ils/elles": "eussent enrichi"
+		},
+		"passé": {
+			"j'": "aie enrichi",
+			"que": "vous ayez enrichi",
+			"qu'il/elle": "ait enrichi",
+			"qu'ils/elles": "aient enrichi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "enrichirais",
+			"tu": "enrichirais",
+			"il/elle": "enrichirait",
+			"nous": "enrichirions",
+			"vous": "enrichiriez",
+			"ils/elles": "enrichiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais enrichi",
+			"tu": "aurais enrichi",
+			"il/elle": "aurait enrichi",
+			"nous": "aurions enrichi",
+			"vous": "auriez enrichi",
+			"ils/elles": "auraient enrichi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse enrichi",
+			"tu": "eusses enrichi",
+			"il/elle": "eût enrichi",
+			"nous": "eussions enrichi",
+			"vous": "eussiez enrichi",
+			"ils/elles": "eussent enrichi"
+		}
+	},
+	"participe": {
+		"présent": { "enrichissant": "" },
+		"passé composé": { "ayant": "enrichi" },
+		"passé": {
+			"masc.sg.:": "enrichi",
+			"masc.pl.:": "enrichis",
+			"fém.sg.:": "enrichie",
+			"fém.pl.:": "enrichies"
+		}
+	},
+	"imperatif": {
+		"présent": { "enrichis": "", "enrichissons": "", "enrichissez": "" },
+		"passé": { "aie": "enrichi", "ayons": "enrichi", "ayez": "enrichi" }
+	},
+	"infinitif": {
+		"présent": { "enrichir": "" },
+		"passé": { "avoir": "enrichi" }
+	}
+}

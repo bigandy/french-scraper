@@ -1,0 +1,138 @@
+{
+	"name": "commencer",
+	"definition": "force; compel; push; ...",
+	"model": "commencer",
+	"auxiliary": "avoir",
+	"otherForms": "se forcer/ne pas forcer/ne pas se forcer",
+	"indicatif": {
+		"présent": {
+			"je": "force",
+			"tu": "forces",
+			"il/elle": "force",
+			"nous": "forçons",
+			"vous": "forcez",
+			"ils/elles": "forcent"
+		},
+		"imparfait": {
+			"je": "forçais",
+			"tu": "forçais",
+			"il/elle": "forçait",
+			"nous": "forcions",
+			"vous": "forciez",
+			"ils/elles": "forçaient"
+		},
+		"futur": {
+			"je": "forcerai",
+			"tu": "forceras",
+			"il/elle": "forcera",
+			"nous": "forcerons",
+			"vous": "forcerez",
+			"ils/elles": "forceront"
+		},
+		"passé simple": {
+			"je": "forçai",
+			"tu": "forças",
+			"il/elle": "força",
+			"nous": "forçâmes",
+			"vous": "forçâtes",
+			"ils/elles": "forcèrent"
+		},
+		"passé composé": {
+			"j'": "ai forcé",
+			"tu": "as forcé",
+			"il/elle": "a forcé",
+			"nous": "avons forcé",
+			"vous": "avez forcé",
+			"ils/elles": "ont forcé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais forcé",
+			"tu": "avais forcé",
+			"il/elle": "avait forcé",
+			"nous": "avions forcé",
+			"vous": "aviez forcé",
+			"ils/elles": "avaient forcé"
+		},
+		"passé antérieur": {
+			"j'": "eus forcé",
+			"tu": "eus forcé",
+			"il/elle": "eut forcé",
+			"nous": "eûmes forcé",
+			"vous": "eûtes forcé",
+			"ils/elles": "eurent forcé"
+		},
+		"futur antérieur": {
+			"j'": "aurai forcé",
+			"tu": "auras forcé",
+			"il/elle": "aura forcé",
+			"nous": "aurons forcé",
+			"vous": "aurez forcé",
+			"ils/elles": "auront forcé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous forciez",
+			"qu'il/elle": "force",
+			"qu'ils/elles": "forcent"
+		},
+		"imparfait": {
+			"que": "vous forçassiez",
+			"qu'il/elle": "forçât",
+			"qu'ils/elles": "forçassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse forcé",
+			"que": "vous eussiez forcé",
+			"qu'il/elle": "eût forcé",
+			"qu'ils/elles": "eussent forcé"
+		},
+		"passé": {
+			"j'": "aie forcé",
+			"que": "vous ayez forcé",
+			"qu'il/elle": "ait forcé",
+			"qu'ils/elles": "aient forcé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "forcerais",
+			"tu": "forcerais",
+			"il/elle": "forcerait",
+			"nous": "forcerions",
+			"vous": "forceriez",
+			"ils/elles": "forceraient"
+		},
+		"passé première forme": {
+			"j'": "aurais forcé",
+			"tu": "aurais forcé",
+			"il/elle": "aurait forcé",
+			"nous": "aurions forcé",
+			"vous": "auriez forcé",
+			"ils/elles": "auraient forcé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse forcé",
+			"tu": "eusses forcé",
+			"il/elle": "eût forcé",
+			"nous": "eussions forcé",
+			"vous": "eussiez forcé",
+			"ils/elles": "eussent forcé"
+		}
+	},
+	"participe": {
+		"présent": { "forçant": "" },
+		"passé composé": { "ayant": "forcé" },
+		"passé": {
+			"masc.sg.:": "forcé",
+			"masc.pl.:": "forcés",
+			"fém.sg.:": "forcée",
+			"fém.pl.:": "forcées"
+		}
+	},
+	"imperatif": {
+		"présent": { "force": "", "forçons": "", "forcez": "" },
+		"passé": { "aie": "forcé", "ayons": "forcé", "ayez": "forcé" }
+	},
+	"infinitif": { "présent": { "forcer": "" }, "passé": { "avoir": "forcé" } }
+}

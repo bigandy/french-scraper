@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "reverse; invert; turn; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'inverser/ne pas inverser/ne pas s'inverser",
+	"indicatif": {
+		"présent": {
+			"j'": "inverse",
+			"tu": "inverses",
+			"il/elle": "inverse",
+			"nous": "inversons",
+			"vous": "inversez",
+			"ils/elles": "inversent"
+		},
+		"imparfait": {
+			"j'": "inversais",
+			"tu": "inversais",
+			"il/elle": "inversait",
+			"nous": "inversions",
+			"vous": "inversiez",
+			"ils/elles": "inversaient"
+		},
+		"futur": {
+			"j'": "inverserai",
+			"tu": "inverseras",
+			"il/elle": "inversera",
+			"nous": "inverserons",
+			"vous": "inverserez",
+			"ils/elles": "inverseront"
+		},
+		"passé simple": {
+			"j'": "inversai",
+			"tu": "inversas",
+			"il/elle": "inversa",
+			"nous": "inversâmes",
+			"vous": "inversâtes",
+			"ils/elles": "inversèrent"
+		},
+		"passé composé": {
+			"j'": "ai inversé",
+			"tu": "as inversé",
+			"il/elle": "a inversé",
+			"nous": "avons inversé",
+			"vous": "avez inversé",
+			"ils/elles": "ont inversé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais inversé",
+			"tu": "avais inversé",
+			"il/elle": "avait inversé",
+			"nous": "avions inversé",
+			"vous": "aviez inversé",
+			"ils/elles": "avaient inversé"
+		},
+		"passé antérieur": {
+			"j'": "eus inversé",
+			"tu": "eus inversé",
+			"il/elle": "eut inversé",
+			"nous": "eûmes inversé",
+			"vous": "eûtes inversé",
+			"ils/elles": "eurent inversé"
+		},
+		"futur antérieur": {
+			"j'": "aurai inversé",
+			"tu": "auras inversé",
+			"il/elle": "aura inversé",
+			"nous": "aurons inversé",
+			"vous": "aurez inversé",
+			"ils/elles": "auront inversé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "inverse",
+			"que": "vous inversiez",
+			"qu'il/elle": "inverse",
+			"qu'ils/elles": "inversent"
+		},
+		"imparfait": {
+			"j'": "inversasse",
+			"que": "vous inversassiez",
+			"qu'il/elle": "inversât",
+			"qu'ils/elles": "inversassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse inversé",
+			"que": "vous eussiez inversé",
+			"qu'il/elle": "eût inversé",
+			"qu'ils/elles": "eussent inversé"
+		},
+		"passé": {
+			"j'": "aie inversé",
+			"que": "vous ayez inversé",
+			"qu'il/elle": "ait inversé",
+			"qu'ils/elles": "aient inversé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "inverserais",
+			"tu": "inverserais",
+			"il/elle": "inverserait",
+			"nous": "inverserions",
+			"vous": "inverseriez",
+			"ils/elles": "inverseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais inversé",
+			"tu": "aurais inversé",
+			"il/elle": "aurait inversé",
+			"nous": "aurions inversé",
+			"vous": "auriez inversé",
+			"ils/elles": "auraient inversé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse inversé",
+			"tu": "eusses inversé",
+			"il/elle": "eût inversé",
+			"nous": "eussions inversé",
+			"vous": "eussiez inversé",
+			"ils/elles": "eussent inversé"
+		}
+	},
+	"participe": {
+		"présent": { "inversant": "" },
+		"passé composé": { "ayant": "inversé" },
+		"passé": {
+			"masc.sg.:": "inversé",
+			"masc.pl.:": "inversés",
+			"fém.sg.:": "inversée",
+			"fém.pl.:": "inversées"
+		}
+	},
+	"imperatif": {
+		"présent": { "inverse": "", "inversons": "", "inversez": "" },
+		"passé": { "aie": "inversé", "ayons": "inversé", "ayez": "inversé" }
+	},
+	"infinitif": {
+		"présent": { "inverser": "" },
+		"passé": { "avoir": "inversé" }
+	}
+}

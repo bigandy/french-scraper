@@ -1,0 +1,141 @@
+{
+	"name": "vaincre",
+	"definition": "convince; persuade; ...",
+	"model": "vaincre",
+	"auxiliary": "avoir",
+	"otherForms": "se convaincre/ne pas convaincre/ne pas se convaincre",
+	"indicatif": {
+		"présent": {
+			"je": "convaincs",
+			"tu": "convaincs",
+			"il/elle": "convainc",
+			"nous": "convainquons",
+			"vous": "convainquez",
+			"ils/elles": "convainquent"
+		},
+		"imparfait": {
+			"je": "convainquais",
+			"tu": "convainquais",
+			"il/elle": "convainquait",
+			"nous": "convainquions",
+			"vous": "convainquiez",
+			"ils/elles": "convainquaient"
+		},
+		"futur": {
+			"je": "convaincrai",
+			"tu": "convaincras",
+			"il/elle": "convaincra",
+			"nous": "convaincrons",
+			"vous": "convaincrez",
+			"ils/elles": "convaincront"
+		},
+		"passé simple": {
+			"je": "convainquis",
+			"tu": "convainquis",
+			"il/elle": "convainquit",
+			"nous": "convainquîmes",
+			"vous": "convainquîtes",
+			"ils/elles": "convainquirent"
+		},
+		"passé composé": {
+			"j'": "ai convaincu",
+			"tu": "as convaincu",
+			"il/elle": "a convaincu",
+			"nous": "avons convaincu",
+			"vous": "avez convaincu",
+			"ils/elles": "ont convaincu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais convaincu",
+			"tu": "avais convaincu",
+			"il/elle": "avait convaincu",
+			"nous": "avions convaincu",
+			"vous": "aviez convaincu",
+			"ils/elles": "avaient convaincu"
+		},
+		"passé antérieur": {
+			"j'": "eus convaincu",
+			"tu": "eus convaincu",
+			"il/elle": "eut convaincu",
+			"nous": "eûmes convaincu",
+			"vous": "eûtes convaincu",
+			"ils/elles": "eurent convaincu"
+		},
+		"futur antérieur": {
+			"j'": "aurai convaincu",
+			"tu": "auras convaincu",
+			"il/elle": "aura convaincu",
+			"nous": "aurons convaincu",
+			"vous": "aurez convaincu",
+			"ils/elles": "auront convaincu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous convainquiez",
+			"qu'il/elle": "convainque",
+			"qu'ils/elles": "convainquent"
+		},
+		"imparfait": {
+			"que": "vous convainquissiez",
+			"qu'il/elle": "convainquît",
+			"qu'ils/elles": "convainquissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse convaincu",
+			"que": "vous eussiez convaincu",
+			"qu'il/elle": "eût convaincu",
+			"qu'ils/elles": "eussent convaincu"
+		},
+		"passé": {
+			"j'": "aie convaincu",
+			"que": "vous ayez convaincu",
+			"qu'il/elle": "ait convaincu",
+			"qu'ils/elles": "aient convaincu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "convaincrais",
+			"tu": "convaincrais",
+			"il/elle": "convaincrait",
+			"nous": "convaincrions",
+			"vous": "convaincriez",
+			"ils/elles": "convaincraient"
+		},
+		"passé première forme": {
+			"j'": "aurais convaincu",
+			"tu": "aurais convaincu",
+			"il/elle": "aurait convaincu",
+			"nous": "aurions convaincu",
+			"vous": "auriez convaincu",
+			"ils/elles": "auraient convaincu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse convaincu",
+			"tu": "eusses convaincu",
+			"il/elle": "eût convaincu",
+			"nous": "eussions convaincu",
+			"vous": "eussiez convaincu",
+			"ils/elles": "eussent convaincu"
+		}
+	},
+	"participe": {
+		"présent": { "convainquant": "" },
+		"passé composé": { "ayant": "convaincu" },
+		"passé": {
+			"masc.sg.:": "convaincu",
+			"masc.pl.:": "convaincus",
+			"fém.sg.:": "convaincue",
+			"fém.pl.:": "convaincues"
+		}
+	},
+	"imperatif": {
+		"présent": { "convaincs": "", "convainquons": "", "convainquez": "" },
+		"passé": { "aie": "convaincu", "ayons": "convaincu", "ayez": "convaincu" }
+	},
+	"infinitif": {
+		"présent": { "convaincre": "" },
+		"passé": { "avoir": "convaincu" }
+	}
+}

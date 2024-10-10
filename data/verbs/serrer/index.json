@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "clamp; tighten; shake; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se serrer/ne pas serrer/ne pas se serrer",
+	"indicatif": {
+		"présent": {
+			"je": "serre",
+			"tu": "serres",
+			"il/elle": "serre",
+			"nous": "serrons",
+			"vous": "serrez",
+			"ils/elles": "serrent"
+		},
+		"imparfait": {
+			"je": "serrais",
+			"tu": "serrais",
+			"il/elle": "serrait",
+			"nous": "serrions",
+			"vous": "serriez",
+			"ils/elles": "serraient"
+		},
+		"futur": {
+			"je": "serrerai",
+			"tu": "serreras",
+			"il/elle": "serrera",
+			"nous": "serrerons",
+			"vous": "serrerez",
+			"ils/elles": "serreront"
+		},
+		"passé simple": {
+			"je": "serrai",
+			"tu": "serras",
+			"il/elle": "serra",
+			"nous": "serrâmes",
+			"vous": "serrâtes",
+			"ils/elles": "serrèrent"
+		},
+		"passé composé": {
+			"j'": "ai serré",
+			"tu": "as serré",
+			"il/elle": "a serré",
+			"nous": "avons serré",
+			"vous": "avez serré",
+			"ils/elles": "ont serré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais serré",
+			"tu": "avais serré",
+			"il/elle": "avait serré",
+			"nous": "avions serré",
+			"vous": "aviez serré",
+			"ils/elles": "avaient serré"
+		},
+		"passé antérieur": {
+			"j'": "eus serré",
+			"tu": "eus serré",
+			"il/elle": "eut serré",
+			"nous": "eûmes serré",
+			"vous": "eûtes serré",
+			"ils/elles": "eurent serré"
+		},
+		"futur antérieur": {
+			"j'": "aurai serré",
+			"tu": "auras serré",
+			"il/elle": "aura serré",
+			"nous": "aurons serré",
+			"vous": "aurez serré",
+			"ils/elles": "auront serré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous serriez",
+			"qu'il/elle": "serre",
+			"qu'ils/elles": "serrent"
+		},
+		"imparfait": {
+			"que": "vous serrassiez",
+			"qu'il/elle": "serrât",
+			"qu'ils/elles": "serrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse serré",
+			"que": "vous eussiez serré",
+			"qu'il/elle": "eût serré",
+			"qu'ils/elles": "eussent serré"
+		},
+		"passé": {
+			"j'": "aie serré",
+			"que": "vous ayez serré",
+			"qu'il/elle": "ait serré",
+			"qu'ils/elles": "aient serré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "serrerais",
+			"tu": "serrerais",
+			"il/elle": "serrerait",
+			"nous": "serrerions",
+			"vous": "serreriez",
+			"ils/elles": "serreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais serré",
+			"tu": "aurais serré",
+			"il/elle": "aurait serré",
+			"nous": "aurions serré",
+			"vous": "auriez serré",
+			"ils/elles": "auraient serré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse serré",
+			"tu": "eusses serré",
+			"il/elle": "eût serré",
+			"nous": "eussions serré",
+			"vous": "eussiez serré",
+			"ils/elles": "eussent serré"
+		}
+	},
+	"participe": {
+		"présent": { "serrant": "" },
+		"passé composé": { "ayant": "serré" },
+		"passé": {
+			"masc.sg.:": "serré",
+			"masc.pl.:": "serrés",
+			"fém.sg.:": "serrée",
+			"fém.pl.:": "serrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "serre": "", "serrons": "", "serrez": "" },
+		"passé": { "aie": "serré", "ayons": "serré", "ayez": "serré" }
+	},
+	"infinitif": { "présent": { "serrer": "" }, "passé": { "avoir": "serré" } }
+}

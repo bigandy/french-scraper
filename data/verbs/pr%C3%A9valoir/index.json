@@ -1,0 +1,141 @@
+{
+	"name": "prévaloir",
+	"definition": "prevail; take advantage; ...",
+	"model": "prévaloir",
+	"auxiliary": "avoir",
+	"otherForms": "se prévaloir/ne pas prévaloir/ne pas se prévaloir",
+	"indicatif": {
+		"présent": {
+			"je": "prévaux",
+			"tu": "prévaux",
+			"il/elle": "prévaut",
+			"nous": "prévalons",
+			"vous": "prévalez",
+			"ils/elles": "prévalent"
+		},
+		"imparfait": {
+			"je": "prévalais",
+			"tu": "prévalais",
+			"il/elle": "prévalait",
+			"nous": "prévalions",
+			"vous": "prévaliez",
+			"ils/elles": "prévalaient"
+		},
+		"futur": {
+			"je": "prévaudrai",
+			"tu": "prévaudras",
+			"il/elle": "prévaudra",
+			"nous": "prévaudrons",
+			"vous": "prévaudrez",
+			"ils/elles": "prévaudront"
+		},
+		"passé simple": {
+			"je": "prévalus",
+			"tu": "prévalus",
+			"il/elle": "prévalut",
+			"nous": "prévalûmes",
+			"vous": "prévalûtes",
+			"ils/elles": "prévalurent"
+		},
+		"passé composé": {
+			"j'": "ai prévalu",
+			"tu": "as prévalu",
+			"il/elle": "a prévalu",
+			"nous": "avons prévalu",
+			"vous": "avez prévalu",
+			"ils/elles": "ont prévalu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais prévalu",
+			"tu": "avais prévalu",
+			"il/elle": "avait prévalu",
+			"nous": "avions prévalu",
+			"vous": "aviez prévalu",
+			"ils/elles": "avaient prévalu"
+		},
+		"passé antérieur": {
+			"j'": "eus prévalu",
+			"tu": "eus prévalu",
+			"il/elle": "eut prévalu",
+			"nous": "eûmes prévalu",
+			"vous": "eûtes prévalu",
+			"ils/elles": "eurent prévalu"
+		},
+		"futur antérieur": {
+			"j'": "aurai prévalu",
+			"tu": "auras prévalu",
+			"il/elle": "aura prévalu",
+			"nous": "aurons prévalu",
+			"vous": "aurez prévalu",
+			"ils/elles": "auront prévalu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous prévaliez",
+			"qu'il/elle": "prévale",
+			"qu'ils/elles": "prévalent"
+		},
+		"imparfait": {
+			"que": "vous prévalussiez",
+			"qu'il/elle": "prévalût",
+			"qu'ils/elles": "prévalussent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse prévalu",
+			"que": "vous eussiez prévalu",
+			"qu'il/elle": "eût prévalu",
+			"qu'ils/elles": "eussent prévalu"
+		},
+		"passé": {
+			"j'": "aie prévalu",
+			"que": "vous ayez prévalu",
+			"qu'il/elle": "ait prévalu",
+			"qu'ils/elles": "aient prévalu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "prévaudrais",
+			"tu": "prévaudrais",
+			"il/elle": "prévaudrait",
+			"nous": "prévaudrions",
+			"vous": "prévaudriez",
+			"ils/elles": "prévaudraient"
+		},
+		"passé première forme": {
+			"j'": "aurais prévalu",
+			"tu": "aurais prévalu",
+			"il/elle": "aurait prévalu",
+			"nous": "aurions prévalu",
+			"vous": "auriez prévalu",
+			"ils/elles": "auraient prévalu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse prévalu",
+			"tu": "eusses prévalu",
+			"il/elle": "eût prévalu",
+			"nous": "eussions prévalu",
+			"vous": "eussiez prévalu",
+			"ils/elles": "eussent prévalu"
+		}
+	},
+	"participe": {
+		"présent": { "prévalant": "" },
+		"passé composé": { "ayant": "prévalu" },
+		"passé": {
+			"masc.sg.:": "prévalu",
+			"masc.pl.:": "prévalus",
+			"fém.sg.:": "prévalue",
+			"fém.pl.:": "prévalues"
+		}
+	},
+	"imperatif": {
+		"présent": { "prévaux": "", "prévalons": "", "prévalez": "" },
+		"passé": { "aie": "prévalu", "ayons": "prévalu", "ayez": "prévalu" }
+	},
+	"infinitif": {
+		"présent": { "prévaloir": "" },
+		"passé": { "avoir": "prévalu" }
+	}
+}

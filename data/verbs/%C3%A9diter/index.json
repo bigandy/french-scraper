@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "edit; publish; redact; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'éditer/ne pas éditer/ne pas s'éditer",
+	"indicatif": {
+		"présent": {
+			"j'": "édite",
+			"tu": "édites",
+			"il/elle": "édite",
+			"nous": "éditons",
+			"vous": "éditez",
+			"ils/elles": "éditent"
+		},
+		"imparfait": {
+			"j'": "éditais",
+			"tu": "éditais",
+			"il/elle": "éditait",
+			"nous": "éditions",
+			"vous": "éditiez",
+			"ils/elles": "éditaient"
+		},
+		"futur": {
+			"j'": "éditerai",
+			"tu": "éditeras",
+			"il/elle": "éditera",
+			"nous": "éditerons",
+			"vous": "éditerez",
+			"ils/elles": "éditeront"
+		},
+		"passé simple": {
+			"j'": "éditai",
+			"tu": "éditas",
+			"il/elle": "édita",
+			"nous": "éditâmes",
+			"vous": "éditâtes",
+			"ils/elles": "éditèrent"
+		},
+		"passé composé": {
+			"j'": "ai édité",
+			"tu": "as édité",
+			"il/elle": "a édité",
+			"nous": "avons édité",
+			"vous": "avez édité",
+			"ils/elles": "ont édité"
+		},
+		"plus-que-parfait": {
+			"j'": "avais édité",
+			"tu": "avais édité",
+			"il/elle": "avait édité",
+			"nous": "avions édité",
+			"vous": "aviez édité",
+			"ils/elles": "avaient édité"
+		},
+		"passé antérieur": {
+			"j'": "eus édité",
+			"tu": "eus édité",
+			"il/elle": "eut édité",
+			"nous": "eûmes édité",
+			"vous": "eûtes édité",
+			"ils/elles": "eurent édité"
+		},
+		"futur antérieur": {
+			"j'": "aurai édité",
+			"tu": "auras édité",
+			"il/elle": "aura édité",
+			"nous": "aurons édité",
+			"vous": "aurez édité",
+			"ils/elles": "auront édité"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "édite",
+			"que": "vous éditiez",
+			"qu'il/elle": "édite",
+			"qu'ils/elles": "éditent"
+		},
+		"imparfait": {
+			"j'": "éditasse",
+			"que": "vous éditassiez",
+			"qu'il/elle": "éditât",
+			"qu'ils/elles": "éditassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse édité",
+			"que": "vous eussiez édité",
+			"qu'il/elle": "eût édité",
+			"qu'ils/elles": "eussent édité"
+		},
+		"passé": {
+			"j'": "aie édité",
+			"que": "vous ayez édité",
+			"qu'il/elle": "ait édité",
+			"qu'ils/elles": "aient édité"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "éditerais",
+			"tu": "éditerais",
+			"il/elle": "éditerait",
+			"nous": "éditerions",
+			"vous": "éditeriez",
+			"ils/elles": "éditeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais édité",
+			"tu": "aurais édité",
+			"il/elle": "aurait édité",
+			"nous": "aurions édité",
+			"vous": "auriez édité",
+			"ils/elles": "auraient édité"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse édité",
+			"tu": "eusses édité",
+			"il/elle": "eût édité",
+			"nous": "eussions édité",
+			"vous": "eussiez édité",
+			"ils/elles": "eussent édité"
+		}
+	},
+	"participe": {
+		"présent": { "éditant": "" },
+		"passé composé": { "ayant": "édité" },
+		"passé": {
+			"masc.sg.:": "édité",
+			"masc.pl.:": "édités",
+			"fém.sg.:": "éditée",
+			"fém.pl.:": "éditées"
+		}
+	},
+	"imperatif": {
+		"présent": { "édite": "", "éditons": "", "éditez": "" },
+		"passé": { "aie": "édité", "ayons": "édité", "ayez": "édité" }
+	},
+	"infinitif": { "présent": { "éditer": "" }, "passé": { "avoir": "édité" } }
+}

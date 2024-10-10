@@ -1,0 +1,145 @@
+{
+	"name": "marcher",
+	"definition": "communicate; contact; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se communiquer/ne pas communiquer/ne pas se communiquer",
+	"indicatif": {
+		"présent": {
+			"je": "communique",
+			"tu": "communiques",
+			"il/elle": "communique",
+			"nous": "communiquons",
+			"vous": "communiquez",
+			"ils/elles": "communiquent"
+		},
+		"imparfait": {
+			"je": "communiquais",
+			"tu": "communiquais",
+			"il/elle": "communiquait",
+			"nous": "communiquions",
+			"vous": "communiquiez",
+			"ils/elles": "communiquaient"
+		},
+		"futur": {
+			"je": "communiquerai",
+			"tu": "communiqueras",
+			"il/elle": "communiquera",
+			"nous": "communiquerons",
+			"vous": "communiquerez",
+			"ils/elles": "communiqueront"
+		},
+		"passé simple": {
+			"je": "communiquai",
+			"tu": "communiquas",
+			"il/elle": "communiqua",
+			"nous": "communiquâmes",
+			"vous": "communiquâtes",
+			"ils/elles": "communiquèrent"
+		},
+		"passé composé": {
+			"j'": "ai communiqué",
+			"tu": "as communiqué",
+			"il/elle": "a communiqué",
+			"nous": "avons communiqué",
+			"vous": "avez communiqué",
+			"ils/elles": "ont communiqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais communiqué",
+			"tu": "avais communiqué",
+			"il/elle": "avait communiqué",
+			"nous": "avions communiqué",
+			"vous": "aviez communiqué",
+			"ils/elles": "avaient communiqué"
+		},
+		"passé antérieur": {
+			"j'": "eus communiqué",
+			"tu": "eus communiqué",
+			"il/elle": "eut communiqué",
+			"nous": "eûmes communiqué",
+			"vous": "eûtes communiqué",
+			"ils/elles": "eurent communiqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai communiqué",
+			"tu": "auras communiqué",
+			"il/elle": "aura communiqué",
+			"nous": "aurons communiqué",
+			"vous": "aurez communiqué",
+			"ils/elles": "auront communiqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous communiquiez",
+			"qu'il/elle": "communique",
+			"qu'ils/elles": "communiquent"
+		},
+		"imparfait": {
+			"que": "vous communiquassiez",
+			"qu'il/elle": "communiquât",
+			"qu'ils/elles": "communiquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse communiqué",
+			"que": "vous eussiez communiqué",
+			"qu'il/elle": "eût communiqué",
+			"qu'ils/elles": "eussent communiqué"
+		},
+		"passé": {
+			"j'": "aie communiqué",
+			"que": "vous ayez communiqué",
+			"qu'il/elle": "ait communiqué",
+			"qu'ils/elles": "aient communiqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "communiquerais",
+			"tu": "communiquerais",
+			"il/elle": "communiquerait",
+			"nous": "communiquerions",
+			"vous": "communiqueriez",
+			"ils/elles": "communiqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais communiqué",
+			"tu": "aurais communiqué",
+			"il/elle": "aurait communiqué",
+			"nous": "aurions communiqué",
+			"vous": "auriez communiqué",
+			"ils/elles": "auraient communiqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse communiqué",
+			"tu": "eusses communiqué",
+			"il/elle": "eût communiqué",
+			"nous": "eussions communiqué",
+			"vous": "eussiez communiqué",
+			"ils/elles": "eussent communiqué"
+		}
+	},
+	"participe": {
+		"présent": { "communiquant": "" },
+		"passé composé": { "ayant": "communiqué" },
+		"passé": {
+			"masc.sg.:": "communiqué",
+			"masc.pl.:": "communiqués",
+			"fém.sg.:": "communiquée",
+			"fém.pl.:": "communiquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "communique": "", "communiquons": "", "communiquez": "" },
+		"passé": {
+			"aie": "communiqué",
+			"ayons": "communiqué",
+			"ayez": "communiqué"
+		}
+	},
+	"infinitif": {
+		"présent": { "communiquer": "" },
+		"passé": { "avoir": "communiqué" }
+	}
+}

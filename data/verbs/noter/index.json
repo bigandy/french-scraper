@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "note; notice; record; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se noter/ne pas noter/ne pas se noter",
+	"indicatif": {
+		"présent": {
+			"je": "note",
+			"tu": "notes",
+			"il/elle": "note",
+			"nous": "notons",
+			"vous": "notez",
+			"ils/elles": "notent"
+		},
+		"imparfait": {
+			"je": "notais",
+			"tu": "notais",
+			"il/elle": "notait",
+			"nous": "notions",
+			"vous": "notiez",
+			"ils/elles": "notaient"
+		},
+		"futur": {
+			"je": "noterai",
+			"tu": "noteras",
+			"il/elle": "notera",
+			"nous": "noterons",
+			"vous": "noterez",
+			"ils/elles": "noteront"
+		},
+		"passé simple": {
+			"je": "notai",
+			"tu": "notas",
+			"il/elle": "nota",
+			"nous": "notâmes",
+			"vous": "notâtes",
+			"ils/elles": "notèrent"
+		},
+		"passé composé": {
+			"j'": "ai noté",
+			"tu": "as noté",
+			"il/elle": "a noté",
+			"nous": "avons noté",
+			"vous": "avez noté",
+			"ils/elles": "ont noté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais noté",
+			"tu": "avais noté",
+			"il/elle": "avait noté",
+			"nous": "avions noté",
+			"vous": "aviez noté",
+			"ils/elles": "avaient noté"
+		},
+		"passé antérieur": {
+			"j'": "eus noté",
+			"tu": "eus noté",
+			"il/elle": "eut noté",
+			"nous": "eûmes noté",
+			"vous": "eûtes noté",
+			"ils/elles": "eurent noté"
+		},
+		"futur antérieur": {
+			"j'": "aurai noté",
+			"tu": "auras noté",
+			"il/elle": "aura noté",
+			"nous": "aurons noté",
+			"vous": "aurez noté",
+			"ils/elles": "auront noté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous notiez",
+			"qu'il/elle": "note",
+			"qu'ils/elles": "notent"
+		},
+		"imparfait": {
+			"que": "vous notassiez",
+			"qu'il/elle": "notât",
+			"qu'ils/elles": "notassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse noté",
+			"que": "vous eussiez noté",
+			"qu'il/elle": "eût noté",
+			"qu'ils/elles": "eussent noté"
+		},
+		"passé": {
+			"j'": "aie noté",
+			"que": "vous ayez noté",
+			"qu'il/elle": "ait noté",
+			"qu'ils/elles": "aient noté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "noterais",
+			"tu": "noterais",
+			"il/elle": "noterait",
+			"nous": "noterions",
+			"vous": "noteriez",
+			"ils/elles": "noteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais noté",
+			"tu": "aurais noté",
+			"il/elle": "aurait noté",
+			"nous": "aurions noté",
+			"vous": "auriez noté",
+			"ils/elles": "auraient noté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse noté",
+			"tu": "eusses noté",
+			"il/elle": "eût noté",
+			"nous": "eussions noté",
+			"vous": "eussiez noté",
+			"ils/elles": "eussent noté"
+		}
+	},
+	"participe": {
+		"présent": { "notant": "" },
+		"passé composé": { "ayant": "noté" },
+		"passé": {
+			"masc.sg.:": "noté",
+			"masc.pl.:": "notés",
+			"fém.sg.:": "notée",
+			"fém.pl.:": "notées"
+		}
+	},
+	"imperatif": {
+		"présent": { "note": "", "notons": "", "notez": "" },
+		"passé": { "aie": "noté", "ayons": "noté", "ayez": "noté" }
+	},
+	"infinitif": { "présent": { "noter": "" }, "passé": { "avoir": "noté" } }
+}

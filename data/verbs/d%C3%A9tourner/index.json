@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "divert; distract; hijack; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se détourner/ne pas détourner/ne pas se détourner",
+	"indicatif": {
+		"présent": {
+			"je": "détourne",
+			"tu": "détournes",
+			"il/elle": "détourne",
+			"nous": "détournons",
+			"vous": "détournez",
+			"ils/elles": "détournent"
+		},
+		"imparfait": {
+			"je": "détournais",
+			"tu": "détournais",
+			"il/elle": "détournait",
+			"nous": "détournions",
+			"vous": "détourniez",
+			"ils/elles": "détournaient"
+		},
+		"futur": {
+			"je": "détournerai",
+			"tu": "détourneras",
+			"il/elle": "détournera",
+			"nous": "détournerons",
+			"vous": "détournerez",
+			"ils/elles": "détourneront"
+		},
+		"passé simple": {
+			"je": "détournai",
+			"tu": "détournas",
+			"il/elle": "détourna",
+			"nous": "détournâmes",
+			"vous": "détournâtes",
+			"ils/elles": "détournèrent"
+		},
+		"passé composé": {
+			"j'": "ai détourné",
+			"tu": "as détourné",
+			"il/elle": "a détourné",
+			"nous": "avons détourné",
+			"vous": "avez détourné",
+			"ils/elles": "ont détourné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais détourné",
+			"tu": "avais détourné",
+			"il/elle": "avait détourné",
+			"nous": "avions détourné",
+			"vous": "aviez détourné",
+			"ils/elles": "avaient détourné"
+		},
+		"passé antérieur": {
+			"j'": "eus détourné",
+			"tu": "eus détourné",
+			"il/elle": "eut détourné",
+			"nous": "eûmes détourné",
+			"vous": "eûtes détourné",
+			"ils/elles": "eurent détourné"
+		},
+		"futur antérieur": {
+			"j'": "aurai détourné",
+			"tu": "auras détourné",
+			"il/elle": "aura détourné",
+			"nous": "aurons détourné",
+			"vous": "aurez détourné",
+			"ils/elles": "auront détourné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous détourniez",
+			"qu'il/elle": "détourne",
+			"qu'ils/elles": "détournent"
+		},
+		"imparfait": {
+			"que": "vous détournassiez",
+			"qu'il/elle": "détournât",
+			"qu'ils/elles": "détournassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse détourné",
+			"que": "vous eussiez détourné",
+			"qu'il/elle": "eût détourné",
+			"qu'ils/elles": "eussent détourné"
+		},
+		"passé": {
+			"j'": "aie détourné",
+			"que": "vous ayez détourné",
+			"qu'il/elle": "ait détourné",
+			"qu'ils/elles": "aient détourné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "détournerais",
+			"tu": "détournerais",
+			"il/elle": "détournerait",
+			"nous": "détournerions",
+			"vous": "détourneriez",
+			"ils/elles": "détourneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais détourné",
+			"tu": "aurais détourné",
+			"il/elle": "aurait détourné",
+			"nous": "aurions détourné",
+			"vous": "auriez détourné",
+			"ils/elles": "auraient détourné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse détourné",
+			"tu": "eusses détourné",
+			"il/elle": "eût détourné",
+			"nous": "eussions détourné",
+			"vous": "eussiez détourné",
+			"ils/elles": "eussent détourné"
+		}
+	},
+	"participe": {
+		"présent": { "détournant": "" },
+		"passé composé": { "ayant": "détourné" },
+		"passé": {
+			"masc.sg.:": "détourné",
+			"masc.pl.:": "détournés",
+			"fém.sg.:": "détournée",
+			"fém.pl.:": "détournées"
+		}
+	},
+	"imperatif": {
+		"présent": { "détourne": "", "détournons": "", "détournez": "" },
+		"passé": { "aie": "détourné", "ayons": "détourné", "ayez": "détourné" }
+	},
+	"infinitif": {
+		"présent": { "détourner": "" },
+		"passé": { "avoir": "détourné" }
+	}
+}

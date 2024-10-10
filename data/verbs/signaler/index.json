@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "report; point out; note; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se signaler/ne pas signaler/ne pas se signaler",
+	"indicatif": {
+		"présent": {
+			"je": "signale",
+			"tu": "signales",
+			"il/elle": "signale",
+			"nous": "signalons",
+			"vous": "signalez",
+			"ils/elles": "signalent"
+		},
+		"imparfait": {
+			"je": "signalais",
+			"tu": "signalais",
+			"il/elle": "signalait",
+			"nous": "signalions",
+			"vous": "signaliez",
+			"ils/elles": "signalaient"
+		},
+		"futur": {
+			"je": "signalerai",
+			"tu": "signaleras",
+			"il/elle": "signalera",
+			"nous": "signalerons",
+			"vous": "signalerez",
+			"ils/elles": "signaleront"
+		},
+		"passé simple": {
+			"je": "signalai",
+			"tu": "signalas",
+			"il/elle": "signala",
+			"nous": "signalâmes",
+			"vous": "signalâtes",
+			"ils/elles": "signalèrent"
+		},
+		"passé composé": {
+			"j'": "ai signalé",
+			"tu": "as signalé",
+			"il/elle": "a signalé",
+			"nous": "avons signalé",
+			"vous": "avez signalé",
+			"ils/elles": "ont signalé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais signalé",
+			"tu": "avais signalé",
+			"il/elle": "avait signalé",
+			"nous": "avions signalé",
+			"vous": "aviez signalé",
+			"ils/elles": "avaient signalé"
+		},
+		"passé antérieur": {
+			"j'": "eus signalé",
+			"tu": "eus signalé",
+			"il/elle": "eut signalé",
+			"nous": "eûmes signalé",
+			"vous": "eûtes signalé",
+			"ils/elles": "eurent signalé"
+		},
+		"futur antérieur": {
+			"j'": "aurai signalé",
+			"tu": "auras signalé",
+			"il/elle": "aura signalé",
+			"nous": "aurons signalé",
+			"vous": "aurez signalé",
+			"ils/elles": "auront signalé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous signaliez",
+			"qu'il/elle": "signale",
+			"qu'ils/elles": "signalent"
+		},
+		"imparfait": {
+			"que": "vous signalassiez",
+			"qu'il/elle": "signalât",
+			"qu'ils/elles": "signalassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse signalé",
+			"que": "vous eussiez signalé",
+			"qu'il/elle": "eût signalé",
+			"qu'ils/elles": "eussent signalé"
+		},
+		"passé": {
+			"j'": "aie signalé",
+			"que": "vous ayez signalé",
+			"qu'il/elle": "ait signalé",
+			"qu'ils/elles": "aient signalé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "signalerais",
+			"tu": "signalerais",
+			"il/elle": "signalerait",
+			"nous": "signalerions",
+			"vous": "signaleriez",
+			"ils/elles": "signaleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais signalé",
+			"tu": "aurais signalé",
+			"il/elle": "aurait signalé",
+			"nous": "aurions signalé",
+			"vous": "auriez signalé",
+			"ils/elles": "auraient signalé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse signalé",
+			"tu": "eusses signalé",
+			"il/elle": "eût signalé",
+			"nous": "eussions signalé",
+			"vous": "eussiez signalé",
+			"ils/elles": "eussent signalé"
+		}
+	},
+	"participe": {
+		"présent": { "signalant": "" },
+		"passé composé": { "ayant": "signalé" },
+		"passé": {
+			"masc.sg.:": "signalé",
+			"masc.pl.:": "signalés",
+			"fém.sg.:": "signalée",
+			"fém.pl.:": "signalées"
+		}
+	},
+	"imperatif": {
+		"présent": { "signale": "", "signalons": "", "signalez": "" },
+		"passé": { "aie": "signalé", "ayons": "signalé", "ayez": "signalé" }
+	},
+	"infinitif": {
+		"présent": { "signaler": "" },
+		"passé": { "avoir": "signalé" }
+	}
+}

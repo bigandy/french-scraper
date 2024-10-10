@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "finalize; finalise; complete; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se finaliser/ne pas finaliser/ne pas se finaliser",
+	"indicatif": {
+		"présent": {
+			"je": "finalise",
+			"tu": "finalises",
+			"il/elle": "finalise",
+			"nous": "finalisons",
+			"vous": "finalisez",
+			"ils/elles": "finalisent"
+		},
+		"imparfait": {
+			"je": "finalisais",
+			"tu": "finalisais",
+			"il/elle": "finalisait",
+			"nous": "finalisions",
+			"vous": "finalisiez",
+			"ils/elles": "finalisaient"
+		},
+		"futur": {
+			"je": "finaliserai",
+			"tu": "finaliseras",
+			"il/elle": "finalisera",
+			"nous": "finaliserons",
+			"vous": "finaliserez",
+			"ils/elles": "finaliseront"
+		},
+		"passé simple": {
+			"je": "finalisai",
+			"tu": "finalisas",
+			"il/elle": "finalisa",
+			"nous": "finalisâmes",
+			"vous": "finalisâtes",
+			"ils/elles": "finalisèrent"
+		},
+		"passé composé": {
+			"j'": "ai finalisé",
+			"tu": "as finalisé",
+			"il/elle": "a finalisé",
+			"nous": "avons finalisé",
+			"vous": "avez finalisé",
+			"ils/elles": "ont finalisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais finalisé",
+			"tu": "avais finalisé",
+			"il/elle": "avait finalisé",
+			"nous": "avions finalisé",
+			"vous": "aviez finalisé",
+			"ils/elles": "avaient finalisé"
+		},
+		"passé antérieur": {
+			"j'": "eus finalisé",
+			"tu": "eus finalisé",
+			"il/elle": "eut finalisé",
+			"nous": "eûmes finalisé",
+			"vous": "eûtes finalisé",
+			"ils/elles": "eurent finalisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai finalisé",
+			"tu": "auras finalisé",
+			"il/elle": "aura finalisé",
+			"nous": "aurons finalisé",
+			"vous": "aurez finalisé",
+			"ils/elles": "auront finalisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous finalisiez",
+			"qu'il/elle": "finalise",
+			"qu'ils/elles": "finalisent"
+		},
+		"imparfait": {
+			"que": "vous finalisassiez",
+			"qu'il/elle": "finalisât",
+			"qu'ils/elles": "finalisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse finalisé",
+			"que": "vous eussiez finalisé",
+			"qu'il/elle": "eût finalisé",
+			"qu'ils/elles": "eussent finalisé"
+		},
+		"passé": {
+			"j'": "aie finalisé",
+			"que": "vous ayez finalisé",
+			"qu'il/elle": "ait finalisé",
+			"qu'ils/elles": "aient finalisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "finaliserais",
+			"tu": "finaliserais",
+			"il/elle": "finaliserait",
+			"nous": "finaliserions",
+			"vous": "finaliseriez",
+			"ils/elles": "finaliseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais finalisé",
+			"tu": "aurais finalisé",
+			"il/elle": "aurait finalisé",
+			"nous": "aurions finalisé",
+			"vous": "auriez finalisé",
+			"ils/elles": "auraient finalisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse finalisé",
+			"tu": "eusses finalisé",
+			"il/elle": "eût finalisé",
+			"nous": "eussions finalisé",
+			"vous": "eussiez finalisé",
+			"ils/elles": "eussent finalisé"
+		}
+	},
+	"participe": {
+		"présent": { "finalisant": "" },
+		"passé composé": { "ayant": "finalisé" },
+		"passé": {
+			"masc.sg.:": "finalisé",
+			"masc.pl.:": "finalisés",
+			"fém.sg.:": "finalisée",
+			"fém.pl.:": "finalisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "finalise": "", "finalisons": "", "finalisez": "" },
+		"passé": { "aie": "finalisé", "ayons": "finalisé", "ayez": "finalisé" }
+	},
+	"infinitif": {
+		"présent": { "finaliser": "" },
+		"passé": { "avoir": "finalisé" }
+	}
+}

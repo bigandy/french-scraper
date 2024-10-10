@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "guide; direct; orient; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'orienter/ne pas orienter/ne pas s'orienter",
+	"indicatif": {
+		"présent": {
+			"j'": "oriente",
+			"tu": "orientes",
+			"il/elle": "oriente",
+			"nous": "orientons",
+			"vous": "orientez",
+			"ils/elles": "orientent"
+		},
+		"imparfait": {
+			"j'": "orientais",
+			"tu": "orientais",
+			"il/elle": "orientait",
+			"nous": "orientions",
+			"vous": "orientiez",
+			"ils/elles": "orientaient"
+		},
+		"futur": {
+			"j'": "orienterai",
+			"tu": "orienteras",
+			"il/elle": "orientera",
+			"nous": "orienterons",
+			"vous": "orienterez",
+			"ils/elles": "orienteront"
+		},
+		"passé simple": {
+			"j'": "orientai",
+			"tu": "orientas",
+			"il/elle": "orienta",
+			"nous": "orientâmes",
+			"vous": "orientâtes",
+			"ils/elles": "orientèrent"
+		},
+		"passé composé": {
+			"j'": "ai orienté",
+			"tu": "as orienté",
+			"il/elle": "a orienté",
+			"nous": "avons orienté",
+			"vous": "avez orienté",
+			"ils/elles": "ont orienté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais orienté",
+			"tu": "avais orienté",
+			"il/elle": "avait orienté",
+			"nous": "avions orienté",
+			"vous": "aviez orienté",
+			"ils/elles": "avaient orienté"
+		},
+		"passé antérieur": {
+			"j'": "eus orienté",
+			"tu": "eus orienté",
+			"il/elle": "eut orienté",
+			"nous": "eûmes orienté",
+			"vous": "eûtes orienté",
+			"ils/elles": "eurent orienté"
+		},
+		"futur antérieur": {
+			"j'": "aurai orienté",
+			"tu": "auras orienté",
+			"il/elle": "aura orienté",
+			"nous": "aurons orienté",
+			"vous": "aurez orienté",
+			"ils/elles": "auront orienté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "oriente",
+			"que": "vous orientiez",
+			"qu'il/elle": "oriente",
+			"qu'ils/elles": "orientent"
+		},
+		"imparfait": {
+			"j'": "orientasse",
+			"que": "vous orientassiez",
+			"qu'il/elle": "orientât",
+			"qu'ils/elles": "orientassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse orienté",
+			"que": "vous eussiez orienté",
+			"qu'il/elle": "eût orienté",
+			"qu'ils/elles": "eussent orienté"
+		},
+		"passé": {
+			"j'": "aie orienté",
+			"que": "vous ayez orienté",
+			"qu'il/elle": "ait orienté",
+			"qu'ils/elles": "aient orienté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "orienterais",
+			"tu": "orienterais",
+			"il/elle": "orienterait",
+			"nous": "orienterions",
+			"vous": "orienteriez",
+			"ils/elles": "orienteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais orienté",
+			"tu": "aurais orienté",
+			"il/elle": "aurait orienté",
+			"nous": "aurions orienté",
+			"vous": "auriez orienté",
+			"ils/elles": "auraient orienté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse orienté",
+			"tu": "eusses orienté",
+			"il/elle": "eût orienté",
+			"nous": "eussions orienté",
+			"vous": "eussiez orienté",
+			"ils/elles": "eussent orienté"
+		}
+	},
+	"participe": {
+		"présent": { "orientant": "" },
+		"passé composé": { "ayant": "orienté" },
+		"passé": {
+			"masc.sg.:": "orienté",
+			"masc.pl.:": "orientés",
+			"fém.sg.:": "orientée",
+			"fém.pl.:": "orientées"
+		}
+	},
+	"imperatif": {
+		"présent": { "oriente": "", "orientons": "", "orientez": "" },
+		"passé": { "aie": "orienté", "ayons": "orienté", "ayez": "orienté" }
+	},
+	"infinitif": {
+		"présent": { "orienter": "" },
+		"passé": { "avoir": "orienté" }
+	}
+}

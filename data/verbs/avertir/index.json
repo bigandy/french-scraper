@@ -1,0 +1,140 @@
+{
+	"name": "finir",
+	"definition": "warn; notify; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "s'avertir/ne pas avertir/ne pas s'avertir",
+	"indicatif": {
+		"présent": {
+			"j'": "avertis",
+			"tu": "avertis",
+			"il/elle": "avertit",
+			"nous": "avertissons",
+			"vous": "avertissez",
+			"ils/elles": "avertissent"
+		},
+		"imparfait": {
+			"j'": "avertissais",
+			"tu": "avertissais",
+			"il/elle": "avertissait",
+			"nous": "avertissions",
+			"vous": "avertissiez",
+			"ils/elles": "avertissaient"
+		},
+		"futur": {
+			"j'": "avertirai",
+			"tu": "avertiras",
+			"il/elle": "avertira",
+			"nous": "avertirons",
+			"vous": "avertirez",
+			"ils/elles": "avertiront"
+		},
+		"passé simple": {
+			"j'": "avertis",
+			"tu": "avertis",
+			"il/elle": "avertit",
+			"nous": "avertîmes",
+			"vous": "avertîtes",
+			"ils/elles": "avertirent"
+		},
+		"passé composé": {
+			"j'": "ai averti",
+			"tu": "as averti",
+			"il/elle": "a averti",
+			"nous": "avons averti",
+			"vous": "avez averti",
+			"ils/elles": "ont averti"
+		},
+		"plus-que-parfait": {
+			"j'": "avais averti",
+			"tu": "avais averti",
+			"il/elle": "avait averti",
+			"nous": "avions averti",
+			"vous": "aviez averti",
+			"ils/elles": "avaient averti"
+		},
+		"passé antérieur": {
+			"j'": "eus averti",
+			"tu": "eus averti",
+			"il/elle": "eut averti",
+			"nous": "eûmes averti",
+			"vous": "eûtes averti",
+			"ils/elles": "eurent averti"
+		},
+		"futur antérieur": {
+			"j'": "aurai averti",
+			"tu": "auras averti",
+			"il/elle": "aura averti",
+			"nous": "aurons averti",
+			"vous": "aurez averti",
+			"ils/elles": "auront averti"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "avertisse",
+			"que": "vous avertissiez",
+			"qu'il/elle": "avertisse",
+			"qu'ils/elles": "avertissent"
+		},
+		"imparfait": {
+			"j'": "avertisse",
+			"que": "vous avertissiez",
+			"qu'il/elle": "avertît",
+			"qu'ils/elles": "avertissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse averti",
+			"que": "vous eussiez averti",
+			"qu'il/elle": "eût averti",
+			"qu'ils/elles": "eussent averti"
+		},
+		"passé": {
+			"j'": "aie averti",
+			"que": "vous ayez averti",
+			"qu'il/elle": "ait averti",
+			"qu'ils/elles": "aient averti"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "avertirais",
+			"tu": "avertirais",
+			"il/elle": "avertirait",
+			"nous": "avertirions",
+			"vous": "avertiriez",
+			"ils/elles": "avertiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais averti",
+			"tu": "aurais averti",
+			"il/elle": "aurait averti",
+			"nous": "aurions averti",
+			"vous": "auriez averti",
+			"ils/elles": "auraient averti"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse averti",
+			"tu": "eusses averti",
+			"il/elle": "eût averti",
+			"nous": "eussions averti",
+			"vous": "eussiez averti",
+			"ils/elles": "eussent averti"
+		}
+	},
+	"participe": {
+		"présent": { "avertissant": "" },
+		"passé composé": { "ayant": "averti" },
+		"passé": {
+			"masc.sg.:": "averti",
+			"masc.pl.:": "avertis",
+			"fém.sg.:": "avertie",
+			"fém.pl.:": "averties"
+		}
+	},
+	"imperatif": {
+		"présent": { "avertis": "", "avertissons": "", "avertissez": "" },
+		"passé": { "aie": "averti", "ayons": "averti", "ayez": "averti" }
+	},
+	"infinitif": { "présent": { "avertir": "" }, "passé": { "avoir": "averti" } }
+}

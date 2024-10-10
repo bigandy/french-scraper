@@ -1,0 +1,140 @@
+{
+	"name": "ouvrir",
+	"definition": "open; open up; initiate; ...",
+	"model": "ouvrir",
+	"auxiliary": "avoir",
+	"otherForms": "s'ouvrir/ne pas ouvrir/ne pas s'ouvrir",
+	"indicatif": {
+		"présent": {
+			"j'": "ouvre",
+			"tu": "ouvres",
+			"il/elle": "ouvre",
+			"nous": "ouvrons",
+			"vous": "ouvrez",
+			"ils/elles": "ouvrent"
+		},
+		"imparfait": {
+			"j'": "ouvrais",
+			"tu": "ouvrais",
+			"il/elle": "ouvrait",
+			"nous": "ouvrions",
+			"vous": "ouvriez",
+			"ils/elles": "ouvraient"
+		},
+		"futur": {
+			"j'": "ouvrirai",
+			"tu": "ouvriras",
+			"il/elle": "ouvrira",
+			"nous": "ouvrirons",
+			"vous": "ouvrirez",
+			"ils/elles": "ouvriront"
+		},
+		"passé simple": {
+			"j'": "ouvris",
+			"tu": "ouvris",
+			"il/elle": "ouvrit",
+			"nous": "ouvrîmes",
+			"vous": "ouvrîtes",
+			"ils/elles": "ouvrirent"
+		},
+		"passé composé": {
+			"j'": "ai ouvert",
+			"tu": "as ouvert",
+			"il/elle": "a ouvert",
+			"nous": "avons ouvert",
+			"vous": "avez ouvert",
+			"ils/elles": "ont ouvert"
+		},
+		"plus-que-parfait": {
+			"j'": "avais ouvert",
+			"tu": "avais ouvert",
+			"il/elle": "avait ouvert",
+			"nous": "avions ouvert",
+			"vous": "aviez ouvert",
+			"ils/elles": "avaient ouvert"
+		},
+		"passé antérieur": {
+			"j'": "eus ouvert",
+			"tu": "eus ouvert",
+			"il/elle": "eut ouvert",
+			"nous": "eûmes ouvert",
+			"vous": "eûtes ouvert",
+			"ils/elles": "eurent ouvert"
+		},
+		"futur antérieur": {
+			"j'": "aurai ouvert",
+			"tu": "auras ouvert",
+			"il/elle": "aura ouvert",
+			"nous": "aurons ouvert",
+			"vous": "aurez ouvert",
+			"ils/elles": "auront ouvert"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "ouvre",
+			"que": "vous ouvriez",
+			"qu'il/elle": "ouvre",
+			"qu'ils/elles": "ouvrent"
+		},
+		"imparfait": {
+			"j'": "ouvrisse",
+			"que": "vous ouvrissiez",
+			"qu'il/elle": "ouvrît",
+			"qu'ils/elles": "ouvrissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse ouvert",
+			"que": "vous eussiez ouvert",
+			"qu'il/elle": "eût ouvert",
+			"qu'ils/elles": "eussent ouvert"
+		},
+		"passé": {
+			"j'": "aie ouvert",
+			"que": "vous ayez ouvert",
+			"qu'il/elle": "ait ouvert",
+			"qu'ils/elles": "aient ouvert"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "ouvrirais",
+			"tu": "ouvrirais",
+			"il/elle": "ouvrirait",
+			"nous": "ouvririons",
+			"vous": "ouvririez",
+			"ils/elles": "ouvriraient"
+		},
+		"passé première forme": {
+			"j'": "aurais ouvert",
+			"tu": "aurais ouvert",
+			"il/elle": "aurait ouvert",
+			"nous": "aurions ouvert",
+			"vous": "auriez ouvert",
+			"ils/elles": "auraient ouvert"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse ouvert",
+			"tu": "eusses ouvert",
+			"il/elle": "eût ouvert",
+			"nous": "eussions ouvert",
+			"vous": "eussiez ouvert",
+			"ils/elles": "eussent ouvert"
+		}
+	},
+	"participe": {
+		"présent": { "ouvrant": "" },
+		"passé composé": { "ayant": "ouvert" },
+		"passé": {
+			"masc.sg.:": "ouvert",
+			"masc.pl.:": "ouverts",
+			"fém.sg.:": "ouverte",
+			"fém.pl.:": "ouvertes"
+		}
+	},
+	"imperatif": {
+		"présent": { "ouvre": "", "ouvrons": "", "ouvrez": "" },
+		"passé": { "aie": "ouvert", "ayons": "ouvert", "ayez": "ouvert" }
+	},
+	"infinitif": { "présent": { "ouvrir": "" }, "passé": { "avoir": "ouvert" } }
+}

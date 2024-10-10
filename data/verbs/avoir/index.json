@@ -1,0 +1,140 @@
+{
+	"name": "avoir",
+	"definition": "have; take; give; ...",
+	"model": "avoir",
+	"auxiliary": "avoir",
+	"otherForms": "s'avoir/ne pas avoir/ne pas s'avoir",
+	"indicatif": {
+		"présent": {
+			"j'": "ai",
+			"tu": "as",
+			"il/elle": "a",
+			"nous": "avons",
+			"vous": "avez",
+			"ils/elles": "ont"
+		},
+		"imparfait": {
+			"j'": "avais",
+			"tu": "avais",
+			"il/elle": "avait",
+			"nous": "avions",
+			"vous": "aviez",
+			"ils/elles": "avaient"
+		},
+		"futur": {
+			"j'": "aurai",
+			"tu": "auras",
+			"il/elle": "aura",
+			"nous": "aurons",
+			"vous": "aurez",
+			"ils/elles": "auront"
+		},
+		"passé simple": {
+			"j'": "eus",
+			"tu": "eus",
+			"il/elle": "eut",
+			"nous": "eûmes",
+			"vous": "eûtes",
+			"ils/elles": "eurent"
+		},
+		"passé composé": {
+			"j'": "ai eu",
+			"tu": "as eu",
+			"il/elle": "a eu",
+			"nous": "avons eu",
+			"vous": "avez eu",
+			"ils/elles": "ont eu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais eu",
+			"tu": "avais eu",
+			"il/elle": "avait eu",
+			"nous": "avions eu",
+			"vous": "aviez eu",
+			"ils/elles": "avaient eu"
+		},
+		"passé antérieur": {
+			"j'": "eus eu",
+			"tu": "eus eu",
+			"il/elle": "eut eu",
+			"nous": "eûmes eu",
+			"vous": "eûtes eu",
+			"ils/elles": "eurent eu"
+		},
+		"futur antérieur": {
+			"j'": "aurai eu",
+			"tu": "auras eu",
+			"il/elle": "aura eu",
+			"nous": "aurons eu",
+			"vous": "aurez eu",
+			"ils/elles": "auront eu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "aie",
+			"que": "vous ayez",
+			"qu'il/elle": "ait",
+			"qu'ils/elles": "aient"
+		},
+		"imparfait": {
+			"j'": "eusse",
+			"que": "vous eussiez",
+			"qu'il/elle": "eût",
+			"qu'ils/elles": "eussent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse eu",
+			"que": "vous eussiez eu",
+			"qu'il/elle": "eût eu",
+			"qu'ils/elles": "eussent eu"
+		},
+		"passé": {
+			"j'": "aie eu",
+			"que": "vous ayez eu",
+			"qu'il/elle": "ait eu",
+			"qu'ils/elles": "aient eu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "aurais",
+			"tu": "aurais",
+			"il/elle": "aurait",
+			"nous": "aurions",
+			"vous": "auriez",
+			"ils/elles": "auraient"
+		},
+		"passé première forme": {
+			"j'": "aurais eu",
+			"tu": "aurais eu",
+			"il/elle": "aurait eu",
+			"nous": "aurions eu",
+			"vous": "auriez eu",
+			"ils/elles": "auraient eu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse eu",
+			"tu": "eusses eu",
+			"il/elle": "eût eu",
+			"nous": "eussions eu",
+			"vous": "eussiez eu",
+			"ils/elles": "eussent eu"
+		}
+	},
+	"participe": {
+		"présent": { "ayant": "" },
+		"passé composé": { "ayant": "eu" },
+		"passé": {
+			"masc.sg.:": "eu",
+			"masc.pl.:": "eus",
+			"fém.sg.:": "eue",
+			"fém.pl.:": "eues"
+		}
+	},
+	"imperatif": {
+		"présent": { "aie": "", "ayons": "", "ayez": "" },
+		"passé": { "aie": "eu", "ayons": "eu", "ayez": "eu" }
+	},
+	"infinitif": { "présent": { "avoir": "" }, "passé": { "avoir": "eu" } }
+}

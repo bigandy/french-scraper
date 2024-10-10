@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "balance; equalize; equilibrate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'équilibrer/ne pas équilibrer/ne pas s'équilibrer",
+	"indicatif": {
+		"présent": {
+			"j'": "équilibre",
+			"tu": "équilibres",
+			"il/elle": "équilibre",
+			"nous": "équilibrons",
+			"vous": "équilibrez",
+			"ils/elles": "équilibrent"
+		},
+		"imparfait": {
+			"j'": "équilibrais",
+			"tu": "équilibrais",
+			"il/elle": "équilibrait",
+			"nous": "équilibrions",
+			"vous": "équilibriez",
+			"ils/elles": "équilibraient"
+		},
+		"futur": {
+			"j'": "équilibrerai",
+			"tu": "équilibreras",
+			"il/elle": "équilibrera",
+			"nous": "équilibrerons",
+			"vous": "équilibrerez",
+			"ils/elles": "équilibreront"
+		},
+		"passé simple": {
+			"j'": "équilibrai",
+			"tu": "équilibras",
+			"il/elle": "équilibra",
+			"nous": "équilibrâmes",
+			"vous": "équilibrâtes",
+			"ils/elles": "équilibrèrent"
+		},
+		"passé composé": {
+			"j'": "ai équilibré",
+			"tu": "as équilibré",
+			"il/elle": "a équilibré",
+			"nous": "avons équilibré",
+			"vous": "avez équilibré",
+			"ils/elles": "ont équilibré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais équilibré",
+			"tu": "avais équilibré",
+			"il/elle": "avait équilibré",
+			"nous": "avions équilibré",
+			"vous": "aviez équilibré",
+			"ils/elles": "avaient équilibré"
+		},
+		"passé antérieur": {
+			"j'": "eus équilibré",
+			"tu": "eus équilibré",
+			"il/elle": "eut équilibré",
+			"nous": "eûmes équilibré",
+			"vous": "eûtes équilibré",
+			"ils/elles": "eurent équilibré"
+		},
+		"futur antérieur": {
+			"j'": "aurai équilibré",
+			"tu": "auras équilibré",
+			"il/elle": "aura équilibré",
+			"nous": "aurons équilibré",
+			"vous": "aurez équilibré",
+			"ils/elles": "auront équilibré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "équilibre",
+			"que": "vous équilibriez",
+			"qu'il/elle": "équilibre",
+			"qu'ils/elles": "équilibrent"
+		},
+		"imparfait": {
+			"j'": "équilibrasse",
+			"que": "vous équilibrassiez",
+			"qu'il/elle": "équilibrât",
+			"qu'ils/elles": "équilibrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse équilibré",
+			"que": "vous eussiez équilibré",
+			"qu'il/elle": "eût équilibré",
+			"qu'ils/elles": "eussent équilibré"
+		},
+		"passé": {
+			"j'": "aie équilibré",
+			"que": "vous ayez équilibré",
+			"qu'il/elle": "ait équilibré",
+			"qu'ils/elles": "aient équilibré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "équilibrerais",
+			"tu": "équilibrerais",
+			"il/elle": "équilibrerait",
+			"nous": "équilibrerions",
+			"vous": "équilibreriez",
+			"ils/elles": "équilibreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais équilibré",
+			"tu": "aurais équilibré",
+			"il/elle": "aurait équilibré",
+			"nous": "aurions équilibré",
+			"vous": "auriez équilibré",
+			"ils/elles": "auraient équilibré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse équilibré",
+			"tu": "eusses équilibré",
+			"il/elle": "eût équilibré",
+			"nous": "eussions équilibré",
+			"vous": "eussiez équilibré",
+			"ils/elles": "eussent équilibré"
+		}
+	},
+	"participe": {
+		"présent": { "équilibrant": "" },
+		"passé composé": { "ayant": "équilibré" },
+		"passé": {
+			"masc.sg.:": "équilibré",
+			"masc.pl.:": "équilibrés",
+			"fém.sg.:": "équilibrée",
+			"fém.pl.:": "équilibrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "équilibre": "", "équilibrons": "", "équilibrez": "" },
+		"passé": { "aie": "équilibré", "ayons": "équilibré", "ayez": "équilibré" }
+	},
+	"infinitif": {
+		"présent": { "équilibrer": "" },
+		"passé": { "avoir": "équilibré" }
+	}
+}

@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "swallow; eat; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'avaler/ne pas avaler/ne pas s'avaler",
+	"indicatif": {
+		"présent": {
+			"j'": "avale",
+			"tu": "avales",
+			"il/elle": "avale",
+			"nous": "avalons",
+			"vous": "avalez",
+			"ils/elles": "avalent"
+		},
+		"imparfait": {
+			"j'": "avalais",
+			"tu": "avalais",
+			"il/elle": "avalait",
+			"nous": "avalions",
+			"vous": "avaliez",
+			"ils/elles": "avalaient"
+		},
+		"futur": {
+			"j'": "avalerai",
+			"tu": "avaleras",
+			"il/elle": "avalera",
+			"nous": "avalerons",
+			"vous": "avalerez",
+			"ils/elles": "avaleront"
+		},
+		"passé simple": {
+			"j'": "avalai",
+			"tu": "avalas",
+			"il/elle": "avala",
+			"nous": "avalâmes",
+			"vous": "avalâtes",
+			"ils/elles": "avalèrent"
+		},
+		"passé composé": {
+			"j'": "ai avalé",
+			"tu": "as avalé",
+			"il/elle": "a avalé",
+			"nous": "avons avalé",
+			"vous": "avez avalé",
+			"ils/elles": "ont avalé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais avalé",
+			"tu": "avais avalé",
+			"il/elle": "avait avalé",
+			"nous": "avions avalé",
+			"vous": "aviez avalé",
+			"ils/elles": "avaient avalé"
+		},
+		"passé antérieur": {
+			"j'": "eus avalé",
+			"tu": "eus avalé",
+			"il/elle": "eut avalé",
+			"nous": "eûmes avalé",
+			"vous": "eûtes avalé",
+			"ils/elles": "eurent avalé"
+		},
+		"futur antérieur": {
+			"j'": "aurai avalé",
+			"tu": "auras avalé",
+			"il/elle": "aura avalé",
+			"nous": "aurons avalé",
+			"vous": "aurez avalé",
+			"ils/elles": "auront avalé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "avale",
+			"que": "vous avaliez",
+			"qu'il/elle": "avale",
+			"qu'ils/elles": "avalent"
+		},
+		"imparfait": {
+			"j'": "avalasse",
+			"que": "vous avalassiez",
+			"qu'il/elle": "avalât",
+			"qu'ils/elles": "avalassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse avalé",
+			"que": "vous eussiez avalé",
+			"qu'il/elle": "eût avalé",
+			"qu'ils/elles": "eussent avalé"
+		},
+		"passé": {
+			"j'": "aie avalé",
+			"que": "vous ayez avalé",
+			"qu'il/elle": "ait avalé",
+			"qu'ils/elles": "aient avalé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "avalerais",
+			"tu": "avalerais",
+			"il/elle": "avalerait",
+			"nous": "avalerions",
+			"vous": "avaleriez",
+			"ils/elles": "avaleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais avalé",
+			"tu": "aurais avalé",
+			"il/elle": "aurait avalé",
+			"nous": "aurions avalé",
+			"vous": "auriez avalé",
+			"ils/elles": "auraient avalé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse avalé",
+			"tu": "eusses avalé",
+			"il/elle": "eût avalé",
+			"nous": "eussions avalé",
+			"vous": "eussiez avalé",
+			"ils/elles": "eussent avalé"
+		}
+	},
+	"participe": {
+		"présent": { "avalant": "" },
+		"passé composé": { "ayant": "avalé" },
+		"passé": {
+			"masc.sg.:": "avalé",
+			"masc.pl.:": "avalés",
+			"fém.sg.:": "avalée",
+			"fém.pl.:": "avalées"
+		}
+	},
+	"imperatif": {
+		"présent": { "avale": "", "avalons": "", "avalez": "" },
+		"passé": { "aie": "avalé", "ayons": "avalé", "ayez": "avalé" }
+	},
+	"infinitif": { "présent": { "avaler": "" }, "passé": { "avoir": "avalé" } }
+}

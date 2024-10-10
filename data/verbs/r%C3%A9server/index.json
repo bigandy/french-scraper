@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "book; reserve; set aside; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se réserver/ne pas réserver/ne pas se réserver",
+	"indicatif": {
+		"présent": {
+			"je": "réserve",
+			"tu": "réserves",
+			"il/elle": "réserve",
+			"nous": "réservons",
+			"vous": "réservez",
+			"ils/elles": "réservent"
+		},
+		"imparfait": {
+			"je": "réservais",
+			"tu": "réservais",
+			"il/elle": "réservait",
+			"nous": "réservions",
+			"vous": "réserviez",
+			"ils/elles": "réservaient"
+		},
+		"futur": {
+			"je": "réserverai",
+			"tu": "réserveras",
+			"il/elle": "réservera",
+			"nous": "réserverons",
+			"vous": "réserverez",
+			"ils/elles": "réserveront"
+		},
+		"passé simple": {
+			"je": "réservai",
+			"tu": "réservas",
+			"il/elle": "réserva",
+			"nous": "réservâmes",
+			"vous": "réservâtes",
+			"ils/elles": "réservèrent"
+		},
+		"passé composé": {
+			"j'": "ai réservé",
+			"tu": "as réservé",
+			"il/elle": "a réservé",
+			"nous": "avons réservé",
+			"vous": "avez réservé",
+			"ils/elles": "ont réservé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais réservé",
+			"tu": "avais réservé",
+			"il/elle": "avait réservé",
+			"nous": "avions réservé",
+			"vous": "aviez réservé",
+			"ils/elles": "avaient réservé"
+		},
+		"passé antérieur": {
+			"j'": "eus réservé",
+			"tu": "eus réservé",
+			"il/elle": "eut réservé",
+			"nous": "eûmes réservé",
+			"vous": "eûtes réservé",
+			"ils/elles": "eurent réservé"
+		},
+		"futur antérieur": {
+			"j'": "aurai réservé",
+			"tu": "auras réservé",
+			"il/elle": "aura réservé",
+			"nous": "aurons réservé",
+			"vous": "aurez réservé",
+			"ils/elles": "auront réservé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous réserviez",
+			"qu'il/elle": "réserve",
+			"qu'ils/elles": "réservent"
+		},
+		"imparfait": {
+			"que": "vous réservassiez",
+			"qu'il/elle": "réservât",
+			"qu'ils/elles": "réservassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse réservé",
+			"que": "vous eussiez réservé",
+			"qu'il/elle": "eût réservé",
+			"qu'ils/elles": "eussent réservé"
+		},
+		"passé": {
+			"j'": "aie réservé",
+			"que": "vous ayez réservé",
+			"qu'il/elle": "ait réservé",
+			"qu'ils/elles": "aient réservé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "réserverais",
+			"tu": "réserverais",
+			"il/elle": "réserverait",
+			"nous": "réserverions",
+			"vous": "réserveriez",
+			"ils/elles": "réserveraient"
+		},
+		"passé première forme": {
+			"j'": "aurais réservé",
+			"tu": "aurais réservé",
+			"il/elle": "aurait réservé",
+			"nous": "aurions réservé",
+			"vous": "auriez réservé",
+			"ils/elles": "auraient réservé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse réservé",
+			"tu": "eusses réservé",
+			"il/elle": "eût réservé",
+			"nous": "eussions réservé",
+			"vous": "eussiez réservé",
+			"ils/elles": "eussent réservé"
+		}
+	},
+	"participe": {
+		"présent": { "réservant": "" },
+		"passé composé": { "ayant": "réservé" },
+		"passé": {
+			"masc.sg.:": "réservé",
+			"masc.pl.:": "réservés",
+			"fém.sg.:": "réservée",
+			"fém.pl.:": "réservées"
+		}
+	},
+	"imperatif": {
+		"présent": { "réserve": "", "réservons": "", "réservez": "" },
+		"passé": { "aie": "réservé", "ayons": "réservé", "ayez": "réservé" }
+	},
+	"infinitif": {
+		"présent": { "réserver": "" },
+		"passé": { "avoir": "réservé" }
+	}
+}

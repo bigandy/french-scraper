@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "calculate; compute; determine; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se calculer/ne pas calculer/ne pas se calculer",
+	"indicatif": {
+		"présent": {
+			"je": "calcule",
+			"tu": "calcules",
+			"il/elle": "calcule",
+			"nous": "calculons",
+			"vous": "calculez",
+			"ils/elles": "calculent"
+		},
+		"imparfait": {
+			"je": "calculais",
+			"tu": "calculais",
+			"il/elle": "calculait",
+			"nous": "calculions",
+			"vous": "calculiez",
+			"ils/elles": "calculaient"
+		},
+		"futur": {
+			"je": "calculerai",
+			"tu": "calculeras",
+			"il/elle": "calculera",
+			"nous": "calculerons",
+			"vous": "calculerez",
+			"ils/elles": "calculeront"
+		},
+		"passé simple": {
+			"je": "calculai",
+			"tu": "calculas",
+			"il/elle": "calcula",
+			"nous": "calculâmes",
+			"vous": "calculâtes",
+			"ils/elles": "calculèrent"
+		},
+		"passé composé": {
+			"j'": "ai calculé",
+			"tu": "as calculé",
+			"il/elle": "a calculé",
+			"nous": "avons calculé",
+			"vous": "avez calculé",
+			"ils/elles": "ont calculé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais calculé",
+			"tu": "avais calculé",
+			"il/elle": "avait calculé",
+			"nous": "avions calculé",
+			"vous": "aviez calculé",
+			"ils/elles": "avaient calculé"
+		},
+		"passé antérieur": {
+			"j'": "eus calculé",
+			"tu": "eus calculé",
+			"il/elle": "eut calculé",
+			"nous": "eûmes calculé",
+			"vous": "eûtes calculé",
+			"ils/elles": "eurent calculé"
+		},
+		"futur antérieur": {
+			"j'": "aurai calculé",
+			"tu": "auras calculé",
+			"il/elle": "aura calculé",
+			"nous": "aurons calculé",
+			"vous": "aurez calculé",
+			"ils/elles": "auront calculé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous calculiez",
+			"qu'il/elle": "calcule",
+			"qu'ils/elles": "calculent"
+		},
+		"imparfait": {
+			"que": "vous calculassiez",
+			"qu'il/elle": "calculât",
+			"qu'ils/elles": "calculassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse calculé",
+			"que": "vous eussiez calculé",
+			"qu'il/elle": "eût calculé",
+			"qu'ils/elles": "eussent calculé"
+		},
+		"passé": {
+			"j'": "aie calculé",
+			"que": "vous ayez calculé",
+			"qu'il/elle": "ait calculé",
+			"qu'ils/elles": "aient calculé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "calculerais",
+			"tu": "calculerais",
+			"il/elle": "calculerait",
+			"nous": "calculerions",
+			"vous": "calculeriez",
+			"ils/elles": "calculeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais calculé",
+			"tu": "aurais calculé",
+			"il/elle": "aurait calculé",
+			"nous": "aurions calculé",
+			"vous": "auriez calculé",
+			"ils/elles": "auraient calculé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse calculé",
+			"tu": "eusses calculé",
+			"il/elle": "eût calculé",
+			"nous": "eussions calculé",
+			"vous": "eussiez calculé",
+			"ils/elles": "eussent calculé"
+		}
+	},
+	"participe": {
+		"présent": { "calculant": "" },
+		"passé composé": { "ayant": "calculé" },
+		"passé": {
+			"masc.sg.:": "calculé",
+			"masc.pl.:": "calculés",
+			"fém.sg.:": "calculée",
+			"fém.pl.:": "calculées"
+		}
+	},
+	"imperatif": {
+		"présent": { "calcule": "", "calculons": "", "calculez": "" },
+		"passé": { "aie": "calculé", "ayons": "calculé", "ayez": "calculé" }
+	},
+	"infinitif": {
+		"présent": { "calculer": "" },
+		"passé": { "avoir": "calculé" }
+	}
+}

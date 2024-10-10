@@ -1,0 +1,138 @@
+{
+	"name": "courir",
+	"definition": "run; chase; race; ...",
+	"model": "courir",
+	"auxiliary": "avoir",
+	"otherForms": "se courir/ne pas courir/ne pas se courir",
+	"indicatif": {
+		"présent": {
+			"je": "cours",
+			"tu": "cours",
+			"il/elle": "court",
+			"nous": "courons",
+			"vous": "courez",
+			"ils/elles": "courent"
+		},
+		"imparfait": {
+			"je": "courais",
+			"tu": "courais",
+			"il/elle": "courait",
+			"nous": "courions",
+			"vous": "couriez",
+			"ils/elles": "couraient"
+		},
+		"futur": {
+			"je": "courrai",
+			"tu": "courras",
+			"il/elle": "courra",
+			"nous": "courrons",
+			"vous": "courrez",
+			"ils/elles": "courront"
+		},
+		"passé simple": {
+			"je": "courus",
+			"tu": "courus",
+			"il/elle": "courut",
+			"nous": "courûmes",
+			"vous": "courûtes",
+			"ils/elles": "coururent"
+		},
+		"passé composé": {
+			"j'": "ai couru",
+			"tu": "as couru",
+			"il/elle": "a couru",
+			"nous": "avons couru",
+			"vous": "avez couru",
+			"ils/elles": "ont couru"
+		},
+		"plus-que-parfait": {
+			"j'": "avais couru",
+			"tu": "avais couru",
+			"il/elle": "avait couru",
+			"nous": "avions couru",
+			"vous": "aviez couru",
+			"ils/elles": "avaient couru"
+		},
+		"passé antérieur": {
+			"j'": "eus couru",
+			"tu": "eus couru",
+			"il/elle": "eut couru",
+			"nous": "eûmes couru",
+			"vous": "eûtes couru",
+			"ils/elles": "eurent couru"
+		},
+		"futur antérieur": {
+			"j'": "aurai couru",
+			"tu": "auras couru",
+			"il/elle": "aura couru",
+			"nous": "aurons couru",
+			"vous": "aurez couru",
+			"ils/elles": "auront couru"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous couriez",
+			"qu'il/elle": "coure",
+			"qu'ils/elles": "courent"
+		},
+		"imparfait": {
+			"que": "vous courussiez",
+			"qu'il/elle": "courût",
+			"qu'ils/elles": "courussent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse couru",
+			"que": "vous eussiez couru",
+			"qu'il/elle": "eût couru",
+			"qu'ils/elles": "eussent couru"
+		},
+		"passé": {
+			"j'": "aie couru",
+			"que": "vous ayez couru",
+			"qu'il/elle": "ait couru",
+			"qu'ils/elles": "aient couru"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "courrais",
+			"tu": "courrais",
+			"il/elle": "courrait",
+			"nous": "courrions",
+			"vous": "courriez",
+			"ils/elles": "courraient"
+		},
+		"passé première forme": {
+			"j'": "aurais couru",
+			"tu": "aurais couru",
+			"il/elle": "aurait couru",
+			"nous": "aurions couru",
+			"vous": "auriez couru",
+			"ils/elles": "auraient couru"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse couru",
+			"tu": "eusses couru",
+			"il/elle": "eût couru",
+			"nous": "eussions couru",
+			"vous": "eussiez couru",
+			"ils/elles": "eussent couru"
+		}
+	},
+	"participe": {
+		"présent": { "courant": "" },
+		"passé composé": { "ayant": "couru" },
+		"passé": {
+			"masc.sg.:": "couru",
+			"masc.pl.:": "courus",
+			"fém.sg.:": "courue",
+			"fém.pl.:": "courues"
+		}
+	},
+	"imperatif": {
+		"présent": { "cours": "", "courons": "", "courez": "" },
+		"passé": { "aie": "couru", "ayons": "couru", "ayez": "couru" }
+	},
+	"infinitif": { "présent": { "courir": "" }, "passé": { "avoir": "couru" } }
+}

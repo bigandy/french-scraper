@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "blame; fault; condemn; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se blâmer/ne pas blâmer/ne pas se blâmer",
+	"indicatif": {
+		"présent": {
+			"je": "blâme",
+			"tu": "blâmes",
+			"il/elle": "blâme",
+			"nous": "blâmons",
+			"vous": "blâmez",
+			"ils/elles": "blâment"
+		},
+		"imparfait": {
+			"je": "blâmais",
+			"tu": "blâmais",
+			"il/elle": "blâmait",
+			"nous": "blâmions",
+			"vous": "blâmiez",
+			"ils/elles": "blâmaient"
+		},
+		"futur": {
+			"je": "blâmerai",
+			"tu": "blâmeras",
+			"il/elle": "blâmera",
+			"nous": "blâmerons",
+			"vous": "blâmerez",
+			"ils/elles": "blâmeront"
+		},
+		"passé simple": {
+			"je": "blâmai",
+			"tu": "blâmas",
+			"il/elle": "blâma",
+			"nous": "blâmâmes",
+			"vous": "blâmâtes",
+			"ils/elles": "blâmèrent"
+		},
+		"passé composé": {
+			"j'": "ai blâmé",
+			"tu": "as blâmé",
+			"il/elle": "a blâmé",
+			"nous": "avons blâmé",
+			"vous": "avez blâmé",
+			"ils/elles": "ont blâmé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais blâmé",
+			"tu": "avais blâmé",
+			"il/elle": "avait blâmé",
+			"nous": "avions blâmé",
+			"vous": "aviez blâmé",
+			"ils/elles": "avaient blâmé"
+		},
+		"passé antérieur": {
+			"j'": "eus blâmé",
+			"tu": "eus blâmé",
+			"il/elle": "eut blâmé",
+			"nous": "eûmes blâmé",
+			"vous": "eûtes blâmé",
+			"ils/elles": "eurent blâmé"
+		},
+		"futur antérieur": {
+			"j'": "aurai blâmé",
+			"tu": "auras blâmé",
+			"il/elle": "aura blâmé",
+			"nous": "aurons blâmé",
+			"vous": "aurez blâmé",
+			"ils/elles": "auront blâmé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous blâmiez",
+			"qu'il/elle": "blâme",
+			"qu'ils/elles": "blâment"
+		},
+		"imparfait": {
+			"que": "vous blâmassiez",
+			"qu'il/elle": "blâmât",
+			"qu'ils/elles": "blâmassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse blâmé",
+			"que": "vous eussiez blâmé",
+			"qu'il/elle": "eût blâmé",
+			"qu'ils/elles": "eussent blâmé"
+		},
+		"passé": {
+			"j'": "aie blâmé",
+			"que": "vous ayez blâmé",
+			"qu'il/elle": "ait blâmé",
+			"qu'ils/elles": "aient blâmé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "blâmerais",
+			"tu": "blâmerais",
+			"il/elle": "blâmerait",
+			"nous": "blâmerions",
+			"vous": "blâmeriez",
+			"ils/elles": "blâmeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais blâmé",
+			"tu": "aurais blâmé",
+			"il/elle": "aurait blâmé",
+			"nous": "aurions blâmé",
+			"vous": "auriez blâmé",
+			"ils/elles": "auraient blâmé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse blâmé",
+			"tu": "eusses blâmé",
+			"il/elle": "eût blâmé",
+			"nous": "eussions blâmé",
+			"vous": "eussiez blâmé",
+			"ils/elles": "eussent blâmé"
+		}
+	},
+	"participe": {
+		"présent": { "blâmant": "" },
+		"passé composé": { "ayant": "blâmé" },
+		"passé": {
+			"masc.sg.:": "blâmé",
+			"masc.pl.:": "blâmés",
+			"fém.sg.:": "blâmée",
+			"fém.pl.:": "blâmées"
+		}
+	},
+	"imperatif": {
+		"présent": { "blâme": "", "blâmons": "", "blâmez": "" },
+		"passé": { "aie": "blâmé", "ayons": "blâmé", "ayez": "blâmé" }
+	},
+	"infinitif": { "présent": { "blâmer": "" }, "passé": { "avoir": "blâmé" } }
+}

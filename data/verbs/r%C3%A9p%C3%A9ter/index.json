@@ -1,0 +1,138 @@
+{
+	"name": "répéter",
+	"definition": "repeat; reiterate; rehearse; ...",
+	"model": "répéter",
+	"auxiliary": "avoir",
+	"otherForms": "se répéter/ne pas répéter/ne pas se répéter",
+	"indicatif": {
+		"présent": {
+			"je": "répète",
+			"tu": "répètes",
+			"il/elle": "répète",
+			"nous": "répétons",
+			"vous": "répétez",
+			"ils/elles": "répètent"
+		},
+		"imparfait": {
+			"je": "répétais",
+			"tu": "répétais",
+			"il/elle": "répétait",
+			"nous": "répétions",
+			"vous": "répétiez",
+			"ils/elles": "répétaient"
+		},
+		"futur": {
+			"je": "répéterai",
+			"tu": "répéteras",
+			"il/elle": "répétera",
+			"nous": "répéterons",
+			"vous": "répéterez",
+			"ils/elles": "répéteront"
+		},
+		"passé simple": {
+			"je": "répétai",
+			"tu": "répétas",
+			"il/elle": "répéta",
+			"nous": "répétâmes",
+			"vous": "répétâtes",
+			"ils/elles": "répétèrent"
+		},
+		"passé composé": {
+			"j'": "ai répété",
+			"tu": "as répété",
+			"il/elle": "a répété",
+			"nous": "avons répété",
+			"vous": "avez répété",
+			"ils/elles": "ont répété"
+		},
+		"plus-que-parfait": {
+			"j'": "avais répété",
+			"tu": "avais répété",
+			"il/elle": "avait répété",
+			"nous": "avions répété",
+			"vous": "aviez répété",
+			"ils/elles": "avaient répété"
+		},
+		"passé antérieur": {
+			"j'": "eus répété",
+			"tu": "eus répété",
+			"il/elle": "eut répété",
+			"nous": "eûmes répété",
+			"vous": "eûtes répété",
+			"ils/elles": "eurent répété"
+		},
+		"futur antérieur": {
+			"j'": "aurai répété",
+			"tu": "auras répété",
+			"il/elle": "aura répété",
+			"nous": "aurons répété",
+			"vous": "aurez répété",
+			"ils/elles": "auront répété"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous répétiez",
+			"qu'il/elle": "répète",
+			"qu'ils/elles": "répètent"
+		},
+		"imparfait": {
+			"que": "vous répétassiez",
+			"qu'il/elle": "répétât",
+			"qu'ils/elles": "répétassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse répété",
+			"que": "vous eussiez répété",
+			"qu'il/elle": "eût répété",
+			"qu'ils/elles": "eussent répété"
+		},
+		"passé": {
+			"j'": "aie répété",
+			"que": "vous ayez répété",
+			"qu'il/elle": "ait répété",
+			"qu'ils/elles": "aient répété"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "répéterais",
+			"tu": "répéterais",
+			"il/elle": "répéterait",
+			"nous": "répéterions",
+			"vous": "répéteriez",
+			"ils/elles": "répéteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais répété",
+			"tu": "aurais répété",
+			"il/elle": "aurait répété",
+			"nous": "aurions répété",
+			"vous": "auriez répété",
+			"ils/elles": "auraient répété"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse répété",
+			"tu": "eusses répété",
+			"il/elle": "eût répété",
+			"nous": "eussions répété",
+			"vous": "eussiez répété",
+			"ils/elles": "eussent répété"
+		}
+	},
+	"participe": {
+		"présent": { "répétant": "" },
+		"passé composé": { "ayant": "répété" },
+		"passé": {
+			"masc.sg.:": "répété",
+			"masc.pl.:": "répétés",
+			"fém.sg.:": "répétée",
+			"fém.pl.:": "répétées"
+		}
+	},
+	"imperatif": {
+		"présent": { "répète": "", "répétons": "", "répétez": "" },
+		"passé": { "aie": "répété", "ayons": "répété", "ayez": "répété" }
+	},
+	"infinitif": { "présent": { "répéter": "" }, "passé": { "avoir": "répété" } }
+}

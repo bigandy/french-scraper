@@ -1,0 +1,138 @@
+{
+	"name": "lever",
+	"definition": "meet; address; face; ...",
+	"model": "lever",
+	"auxiliary": "avoir",
+	"otherForms": "se relever/ne pas relever/ne pas se relever",
+	"indicatif": {
+		"présent": {
+			"je": "relève",
+			"tu": "relèves",
+			"il/elle": "relève",
+			"nous": "relevons",
+			"vous": "relevez",
+			"ils/elles": "relèvent"
+		},
+		"imparfait": {
+			"je": "relevais",
+			"tu": "relevais",
+			"il/elle": "relevait",
+			"nous": "relevions",
+			"vous": "releviez",
+			"ils/elles": "relevaient"
+		},
+		"futur": {
+			"je": "relèverai",
+			"tu": "relèveras",
+			"il/elle": "relèvera",
+			"nous": "relèverons",
+			"vous": "relèverez",
+			"ils/elles": "relèveront"
+		},
+		"passé simple": {
+			"je": "relevai",
+			"tu": "relevas",
+			"il/elle": "releva",
+			"nous": "relevâmes",
+			"vous": "relevâtes",
+			"ils/elles": "relevèrent"
+		},
+		"passé composé": {
+			"j'": "ai relevé",
+			"tu": "as relevé",
+			"il/elle": "a relevé",
+			"nous": "avons relevé",
+			"vous": "avez relevé",
+			"ils/elles": "ont relevé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais relevé",
+			"tu": "avais relevé",
+			"il/elle": "avait relevé",
+			"nous": "avions relevé",
+			"vous": "aviez relevé",
+			"ils/elles": "avaient relevé"
+		},
+		"passé antérieur": {
+			"j'": "eus relevé",
+			"tu": "eus relevé",
+			"il/elle": "eut relevé",
+			"nous": "eûmes relevé",
+			"vous": "eûtes relevé",
+			"ils/elles": "eurent relevé"
+		},
+		"futur antérieur": {
+			"j'": "aurai relevé",
+			"tu": "auras relevé",
+			"il/elle": "aura relevé",
+			"nous": "aurons relevé",
+			"vous": "aurez relevé",
+			"ils/elles": "auront relevé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous releviez",
+			"qu'il/elle": "relève",
+			"qu'ils/elles": "relèvent"
+		},
+		"imparfait": {
+			"que": "vous relevassiez",
+			"qu'il/elle": "relevât",
+			"qu'ils/elles": "relevassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse relevé",
+			"que": "vous eussiez relevé",
+			"qu'il/elle": "eût relevé",
+			"qu'ils/elles": "eussent relevé"
+		},
+		"passé": {
+			"j'": "aie relevé",
+			"que": "vous ayez relevé",
+			"qu'il/elle": "ait relevé",
+			"qu'ils/elles": "aient relevé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "relèverais",
+			"tu": "relèverais",
+			"il/elle": "relèverait",
+			"nous": "relèverions",
+			"vous": "relèveriez",
+			"ils/elles": "relèveraient"
+		},
+		"passé première forme": {
+			"j'": "aurais relevé",
+			"tu": "aurais relevé",
+			"il/elle": "aurait relevé",
+			"nous": "aurions relevé",
+			"vous": "auriez relevé",
+			"ils/elles": "auraient relevé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse relevé",
+			"tu": "eusses relevé",
+			"il/elle": "eût relevé",
+			"nous": "eussions relevé",
+			"vous": "eussiez relevé",
+			"ils/elles": "eussent relevé"
+		}
+	},
+	"participe": {
+		"présent": { "relevant": "" },
+		"passé composé": { "ayant": "relevé" },
+		"passé": {
+			"masc.sg.:": "relevé",
+			"masc.pl.:": "relevés",
+			"fém.sg.:": "relevée",
+			"fém.pl.:": "relevées"
+		}
+	},
+	"imperatif": {
+		"présent": { "relève": "", "relevons": "", "relevez": "" },
+		"passé": { "aie": "relevé", "ayons": "relevé", "ayez": "relevé" }
+	},
+	"infinitif": { "présent": { "relever": "" }, "passé": { "avoir": "relevé" } }
+}

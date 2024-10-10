@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "activate; enable; turn on; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'activer/ne pas activer/ne pas s'activer",
+	"indicatif": {
+		"présent": {
+			"j'": "active",
+			"tu": "actives",
+			"il/elle": "active",
+			"nous": "activons",
+			"vous": "activez",
+			"ils/elles": "activent"
+		},
+		"imparfait": {
+			"j'": "activais",
+			"tu": "activais",
+			"il/elle": "activait",
+			"nous": "activions",
+			"vous": "activiez",
+			"ils/elles": "activaient"
+		},
+		"futur": {
+			"j'": "activerai",
+			"tu": "activeras",
+			"il/elle": "activera",
+			"nous": "activerons",
+			"vous": "activerez",
+			"ils/elles": "activeront"
+		},
+		"passé simple": {
+			"j'": "activai",
+			"tu": "activas",
+			"il/elle": "activa",
+			"nous": "activâmes",
+			"vous": "activâtes",
+			"ils/elles": "activèrent"
+		},
+		"passé composé": {
+			"j'": "ai activé",
+			"tu": "as activé",
+			"il/elle": "a activé",
+			"nous": "avons activé",
+			"vous": "avez activé",
+			"ils/elles": "ont activé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais activé",
+			"tu": "avais activé",
+			"il/elle": "avait activé",
+			"nous": "avions activé",
+			"vous": "aviez activé",
+			"ils/elles": "avaient activé"
+		},
+		"passé antérieur": {
+			"j'": "eus activé",
+			"tu": "eus activé",
+			"il/elle": "eut activé",
+			"nous": "eûmes activé",
+			"vous": "eûtes activé",
+			"ils/elles": "eurent activé"
+		},
+		"futur antérieur": {
+			"j'": "aurai activé",
+			"tu": "auras activé",
+			"il/elle": "aura activé",
+			"nous": "aurons activé",
+			"vous": "aurez activé",
+			"ils/elles": "auront activé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "active",
+			"que": "vous activiez",
+			"qu'il/elle": "active",
+			"qu'ils/elles": "activent"
+		},
+		"imparfait": {
+			"j'": "activasse",
+			"que": "vous activassiez",
+			"qu'il/elle": "activât",
+			"qu'ils/elles": "activassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse activé",
+			"que": "vous eussiez activé",
+			"qu'il/elle": "eût activé",
+			"qu'ils/elles": "eussent activé"
+		},
+		"passé": {
+			"j'": "aie activé",
+			"que": "vous ayez activé",
+			"qu'il/elle": "ait activé",
+			"qu'ils/elles": "aient activé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "activerais",
+			"tu": "activerais",
+			"il/elle": "activerait",
+			"nous": "activerions",
+			"vous": "activeriez",
+			"ils/elles": "activeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais activé",
+			"tu": "aurais activé",
+			"il/elle": "aurait activé",
+			"nous": "aurions activé",
+			"vous": "auriez activé",
+			"ils/elles": "auraient activé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse activé",
+			"tu": "eusses activé",
+			"il/elle": "eût activé",
+			"nous": "eussions activé",
+			"vous": "eussiez activé",
+			"ils/elles": "eussent activé"
+		}
+	},
+	"participe": {
+		"présent": { "activant": "" },
+		"passé composé": { "ayant": "activé" },
+		"passé": {
+			"masc.sg.:": "activé",
+			"masc.pl.:": "activés",
+			"fém.sg.:": "activée",
+			"fém.pl.:": "activées"
+		}
+	},
+	"imperatif": {
+		"présent": { "active": "", "activons": "", "activez": "" },
+		"passé": { "aie": "activé", "ayons": "activé", "ayez": "activé" }
+	},
+	"infinitif": { "présent": { "activer": "" }, "passé": { "avoir": "activé" } }
+}

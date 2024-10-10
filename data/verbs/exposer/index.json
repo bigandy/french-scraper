@@ -1,0 +1,145 @@
+{
+	"name": "marcher",
+	"definition": "underexpose; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se sous-exposer/ne pas sous-exposer/ne pas se sous-exposer",
+	"indicatif": {
+		"présent": {
+			"je": "sous-expose",
+			"tu": "sous-exposes",
+			"il/elle": "sous-expose",
+			"nous": "sous-exposons",
+			"vous": "sous-exposez",
+			"ils/elles": "sous-exposent"
+		},
+		"imparfait": {
+			"je": "sous-exposais",
+			"tu": "sous-exposais",
+			"il/elle": "sous-exposait",
+			"nous": "sous-exposions",
+			"vous": "sous-exposiez",
+			"ils/elles": "sous-exposaient"
+		},
+		"futur": {
+			"je": "sous-exposerai",
+			"tu": "sous-exposeras",
+			"il/elle": "sous-exposera",
+			"nous": "sous-exposerons",
+			"vous": "sous-exposerez",
+			"ils/elles": "sous-exposeront"
+		},
+		"passé simple": {
+			"je": "sous-exposai",
+			"tu": "sous-exposas",
+			"il/elle": "sous-exposa",
+			"nous": "sous-exposâmes",
+			"vous": "sous-exposâtes",
+			"ils/elles": "sous-exposèrent"
+		},
+		"passé composé": {
+			"j'": "ai sous-exposé",
+			"tu": "as sous-exposé",
+			"il/elle": "a sous-exposé",
+			"nous": "avons sous-exposé",
+			"vous": "avez sous-exposé",
+			"ils/elles": "ont sous-exposé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais sous-exposé",
+			"tu": "avais sous-exposé",
+			"il/elle": "avait sous-exposé",
+			"nous": "avions sous-exposé",
+			"vous": "aviez sous-exposé",
+			"ils/elles": "avaient sous-exposé"
+		},
+		"passé antérieur": {
+			"j'": "eus sous-exposé",
+			"tu": "eus sous-exposé",
+			"il/elle": "eut sous-exposé",
+			"nous": "eûmes sous-exposé",
+			"vous": "eûtes sous-exposé",
+			"ils/elles": "eurent sous-exposé"
+		},
+		"futur antérieur": {
+			"j'": "aurai sous-exposé",
+			"tu": "auras sous-exposé",
+			"il/elle": "aura sous-exposé",
+			"nous": "aurons sous-exposé",
+			"vous": "aurez sous-exposé",
+			"ils/elles": "auront sous-exposé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous sous-exposiez",
+			"qu'il/elle": "sous-expose",
+			"qu'ils/elles": "sous-exposent"
+		},
+		"imparfait": {
+			"que": "vous sous-exposassiez",
+			"qu'il/elle": "sous-exposât",
+			"qu'ils/elles": "sous-exposassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse sous-exposé",
+			"que": "vous eussiez sous-exposé",
+			"qu'il/elle": "eût sous-exposé",
+			"qu'ils/elles": "eussent sous-exposé"
+		},
+		"passé": {
+			"j'": "aie sous-exposé",
+			"que": "vous ayez sous-exposé",
+			"qu'il/elle": "ait sous-exposé",
+			"qu'ils/elles": "aient sous-exposé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "sous-exposerais",
+			"tu": "sous-exposerais",
+			"il/elle": "sous-exposerait",
+			"nous": "sous-exposerions",
+			"vous": "sous-exposeriez",
+			"ils/elles": "sous-exposeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais sous-exposé",
+			"tu": "aurais sous-exposé",
+			"il/elle": "aurait sous-exposé",
+			"nous": "aurions sous-exposé",
+			"vous": "auriez sous-exposé",
+			"ils/elles": "auraient sous-exposé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse sous-exposé",
+			"tu": "eusses sous-exposé",
+			"il/elle": "eût sous-exposé",
+			"nous": "eussions sous-exposé",
+			"vous": "eussiez sous-exposé",
+			"ils/elles": "eussent sous-exposé"
+		}
+	},
+	"participe": {
+		"présent": { "sous-exposant": "" },
+		"passé composé": { "ayant": "sous-exposé" },
+		"passé": {
+			"masc.sg.:": "sous-exposé",
+			"masc.pl.:": "sous-exposés",
+			"fém.sg.:": "sous-exposée",
+			"fém.pl.:": "sous-exposées"
+		}
+	},
+	"imperatif": {
+		"présent": { "sous-expose": "", "sous-exposons": "", "sous-exposez": "" },
+		"passé": {
+			"aie": "sous-exposé",
+			"ayons": "sous-exposé",
+			"ayez": "sous-exposé"
+		}
+	},
+	"infinitif": {
+		"présent": { "sous-exposer": "" },
+		"passé": { "avoir": "sous-exposé" }
+	}
+}

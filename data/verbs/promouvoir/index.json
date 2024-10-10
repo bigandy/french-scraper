@@ -1,0 +1,141 @@
+{
+	"name": "émouvoir",
+	"definition": "promote; foster; advance; ...",
+	"model": "émouvoir",
+	"auxiliary": "avoir",
+	"otherForms": "se promouvoir/ne pas promouvoir/ne pas se promouvoir",
+	"indicatif": {
+		"présent": {
+			"je": "promeus",
+			"tu": "promeus",
+			"il/elle": "promeut",
+			"nous": "promouvons",
+			"vous": "promouvez",
+			"ils/elles": "promeuvent"
+		},
+		"imparfait": {
+			"je": "promouvais",
+			"tu": "promouvais",
+			"il/elle": "promouvait",
+			"nous": "promouvions",
+			"vous": "promouviez",
+			"ils/elles": "promouvaient"
+		},
+		"futur": {
+			"je": "promouvrai",
+			"tu": "promouvras",
+			"il/elle": "promouvra",
+			"nous": "promouvrons",
+			"vous": "promouvrez",
+			"ils/elles": "promouvront"
+		},
+		"passé simple": {
+			"je": "promus",
+			"tu": "promus",
+			"il/elle": "promut",
+			"nous": "promûmes",
+			"vous": "promûtes",
+			"ils/elles": "promurent"
+		},
+		"passé composé": {
+			"j'": "ai promu",
+			"tu": "as promu",
+			"il/elle": "a promu",
+			"nous": "avons promu",
+			"vous": "avez promu",
+			"ils/elles": "ont promu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais promu",
+			"tu": "avais promu",
+			"il/elle": "avait promu",
+			"nous": "avions promu",
+			"vous": "aviez promu",
+			"ils/elles": "avaient promu"
+		},
+		"passé antérieur": {
+			"j'": "eus promu",
+			"tu": "eus promu",
+			"il/elle": "eut promu",
+			"nous": "eûmes promu",
+			"vous": "eûtes promu",
+			"ils/elles": "eurent promu"
+		},
+		"futur antérieur": {
+			"j'": "aurai promu",
+			"tu": "auras promu",
+			"il/elle": "aura promu",
+			"nous": "aurons promu",
+			"vous": "aurez promu",
+			"ils/elles": "auront promu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous promouviez",
+			"qu'il/elle": "promeuve",
+			"qu'ils/elles": "promeuvent"
+		},
+		"imparfait": {
+			"que": "vous promussiez",
+			"qu'il/elle": "promût",
+			"qu'ils/elles": "promussent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse promu",
+			"que": "vous eussiez promu",
+			"qu'il/elle": "eût promu",
+			"qu'ils/elles": "eussent promu"
+		},
+		"passé": {
+			"j'": "aie promu",
+			"que": "vous ayez promu",
+			"qu'il/elle": "ait promu",
+			"qu'ils/elles": "aient promu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "promouvrais",
+			"tu": "promouvrais",
+			"il/elle": "promouvrait",
+			"nous": "promouvrions",
+			"vous": "promouvriez",
+			"ils/elles": "promouvraient"
+		},
+		"passé première forme": {
+			"j'": "aurais promu",
+			"tu": "aurais promu",
+			"il/elle": "aurait promu",
+			"nous": "aurions promu",
+			"vous": "auriez promu",
+			"ils/elles": "auraient promu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse promu",
+			"tu": "eusses promu",
+			"il/elle": "eût promu",
+			"nous": "eussions promu",
+			"vous": "eussiez promu",
+			"ils/elles": "eussent promu"
+		}
+	},
+	"participe": {
+		"présent": { "promouvant": "" },
+		"passé composé": { "ayant": "promu" },
+		"passé": {
+			"masc.sg.:": "promu",
+			"masc.pl.:": "promus",
+			"fém.sg.:": "promue",
+			"fém.pl.:": "promues"
+		}
+	},
+	"imperatif": {
+		"présent": { "promeus": "", "promouvons": "", "promouvez": "" },
+		"passé": { "aie": "promu", "ayons": "promu", "ayez": "promu" }
+	},
+	"infinitif": {
+		"présent": { "promouvoir": "" },
+		"passé": { "avoir": "promu" }
+	}
+}

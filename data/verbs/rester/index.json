@@ -1,0 +1,152 @@
+{
+	"name": "marcher",
+	"definition": "stay; remain; keep; ...",
+	"model": "marcher",
+	"auxiliary": "être",
+	"otherForms": "ne pas rester",
+	"indicatif": {
+		"présent": {
+			"je": "reste",
+			"tu": "restes",
+			"il/elle": "reste",
+			"nous": "restons",
+			"vous": "restez",
+			"ils/elles": "restent"
+		},
+		"imparfait": {
+			"je": "restais",
+			"tu": "restais",
+			"il/elle": "restait",
+			"nous": "restions",
+			"vous": "restiez",
+			"ils/elles": "restaient"
+		},
+		"futur": {
+			"je": "resterai",
+			"tu": "resteras",
+			"il/elle": "restera",
+			"nous": "resterons",
+			"vous": "resterez",
+			"ils/elles": "resteront"
+		},
+		"passé simple": {
+			"je": "restai",
+			"tu": "restas",
+			"il/elle": "resta",
+			"nous": "restâmes",
+			"vous": "restâtes",
+			"ils/elles": "restèrent"
+		},
+		"passé composé": {
+			"je": "suis resté",
+			"tu": "es resté",
+			"il": "est resté",
+			"elle": "est restée",
+			"nous": "sommes restés",
+			"vous": "êtes restés",
+			"ils": "sont restés",
+			"elles": "sont restées"
+		},
+		"plus-que-parfait": {
+			"j'": "étais resté",
+			"tu": "étais resté",
+			"il": "était resté",
+			"elle": "était restée",
+			"nous": "étions restés",
+			"vous": "étiez restés",
+			"ils": "étaient restés",
+			"elles": "étaient restées"
+		},
+		"passé antérieur": {
+			"je": "fus resté",
+			"tu": "fus resté",
+			"il": "fut resté",
+			"elle": "fut restée",
+			"nous": "fûmes restés",
+			"vous": "fûtes restés",
+			"ils": "furent restés",
+			"elles": "furent restées"
+		},
+		"futur antérieur": {
+			"je": "serai resté",
+			"tu": "seras resté",
+			"il": "sera resté",
+			"elle": "sera restée",
+			"nous": "serons restés",
+			"vous": "serez restés",
+			"ils": "seront restés",
+			"elles": "seront restées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous restiez",
+			"qu'il/elle": "reste",
+			"qu'ils/elles": "restent"
+		},
+		"imparfait": {
+			"que": "vous restassiez",
+			"qu'il/elle": "restât",
+			"qu'ils/elles": "restassent"
+		},
+		"plus-que-parfait": {
+			"que": "vous fussiez restés",
+			"qu'il": "fût resté",
+			"qu'elle": "fût restée",
+			"qu'ils": "fussent restés",
+			"qu'elles": "fussent restées"
+		},
+		"passé": {
+			"que": "vous soyez restés",
+			"qu'il": "soit resté",
+			"qu'elle": "soit restée",
+			"qu'ils": "soient restés",
+			"qu'elles": "soient restées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "resterais",
+			"tu": "resterais",
+			"il/elle": "resterait",
+			"nous": "resterions",
+			"vous": "resteriez",
+			"ils/elles": "resteraient"
+		},
+		"passé première forme": {
+			"je": "serais resté",
+			"tu": "serais resté",
+			"il": "serait resté",
+			"elle": "serait restée",
+			"nous": "serions restés",
+			"vous": "seriez restés",
+			"ils": "seraient restés",
+			"elles": "seraient restées"
+		},
+		"passé deuxième forme": {
+			"je": "fusse resté",
+			"tu": "fusses resté",
+			"il": "fût resté",
+			"elle": "fût restée",
+			"nous": "fussions restés",
+			"vous": "fussiez restés",
+			"ils": "fussent restés",
+			"elles": "fussent restées"
+		}
+	},
+	"participe": {
+		"présent": { "restant": "" },
+		"passé composé": { "étant": "restée" },
+		"passé": {
+			"masc.sg.:": "resté",
+			"masc.pl.:": "restés",
+			"fém.sg.:": "restée",
+			"fém.pl.:": "restées"
+		}
+	},
+	"imperatif": {
+		"présent": { "reste": "", "restons": "", "restez": "" },
+		"passé": { "sois": "resté", "soyons": "resté", "soyez": "resté" }
+	},
+	"infinitif": { "présent": { "rester": "" }, "passé": { "être": "resté" } }
+}

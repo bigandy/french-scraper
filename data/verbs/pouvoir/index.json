@@ -1,0 +1,134 @@
+{
+	"name": "pouvoir",
+	"definition": "can; be able to; ...",
+	"model": "pouvoir",
+	"auxiliary": "avoir",
+	"otherForms": "se pouvoir/ne pas pouvoir/ne pas se pouvoir",
+	"indicatif": {
+		"présent": {
+			"je": "puis",
+			"tu": "peux",
+			"il/elle": "peut",
+			"nous": "pouvons",
+			"vous": "pouvez",
+			"ils/elles": "peuvent",
+			"": ""
+		},
+		"imparfait": {
+			"je": "pouvais",
+			"tu": "pouvais",
+			"il/elle": "pouvait",
+			"nous": "pouvions",
+			"vous": "pouviez",
+			"ils/elles": "pouvaient"
+		},
+		"futur": {
+			"je": "pourrai",
+			"tu": "pourras",
+			"il/elle": "pourra",
+			"nous": "pourrons",
+			"vous": "pourrez",
+			"ils/elles": "pourront"
+		},
+		"passé simple": {
+			"je": "pus",
+			"tu": "pus",
+			"il/elle": "put",
+			"nous": "pûmes",
+			"vous": "pûtes",
+			"ils/elles": "purent"
+		},
+		"passé composé": {
+			"j'": "ai pu",
+			"tu": "as pu",
+			"il/elle": "a pu",
+			"nous": "avons pu",
+			"vous": "avez pu",
+			"ils/elles": "ont pu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais pu",
+			"tu": "avais pu",
+			"il/elle": "avait pu",
+			"nous": "avions pu",
+			"vous": "aviez pu",
+			"ils/elles": "avaient pu"
+		},
+		"passé antérieur": {
+			"j'": "eus pu",
+			"tu": "eus pu",
+			"il/elle": "eut pu",
+			"nous": "eûmes pu",
+			"vous": "eûtes pu",
+			"ils/elles": "eurent pu"
+		},
+		"futur antérieur": {
+			"j'": "aurai pu",
+			"tu": "auras pu",
+			"il/elle": "aura pu",
+			"nous": "aurons pu",
+			"vous": "aurez pu",
+			"ils/elles": "auront pu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous puissiez",
+			"qu'il/elle": "puisse",
+			"qu'ils/elles": "puissent"
+		},
+		"imparfait": {
+			"que": "vous pussiez",
+			"qu'il/elle": "pût",
+			"qu'ils/elles": "pussent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse pu",
+			"que": "vous eussiez pu",
+			"qu'il/elle": "eût pu",
+			"qu'ils/elles": "eussent pu"
+		},
+		"passé": {
+			"j'": "aie pu",
+			"que": "vous ayez pu",
+			"qu'il/elle": "ait pu",
+			"qu'ils/elles": "aient pu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "pourrais",
+			"tu": "pourrais",
+			"il/elle": "pourrait",
+			"nous": "pourrions",
+			"vous": "pourriez",
+			"ils/elles": "pourraient"
+		},
+		"passé première forme": {
+			"j'": "aurais pu",
+			"tu": "aurais pu",
+			"il/elle": "aurait pu",
+			"nous": "aurions pu",
+			"vous": "auriez pu",
+			"ils/elles": "auraient pu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse pu",
+			"tu": "eusses pu",
+			"il/elle": "eût pu",
+			"nous": "eussions pu",
+			"vous": "eussiez pu",
+			"ils/elles": "eussent pu"
+		}
+	},
+	"participe": {
+		"présent": { "pouvant": "" },
+		"passé composé": { "ayant": "pu" },
+		"passé": { "masc.sg.:": "pu" }
+	},
+	"imperatif": {
+		"présent": {},
+		"passé": { "aie": "pu", "ayons": "pu", "ayez": "pu" }
+	},
+	"infinitif": { "présent": { "pouvoir": "" }, "passé": { "avoir": "pu" } }
+}

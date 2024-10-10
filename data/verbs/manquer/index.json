@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "miss; run out; lack; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se manquer/ne pas manquer/ne pas se manquer",
+	"indicatif": {
+		"présent": {
+			"je": "manque",
+			"tu": "manques",
+			"il/elle": "manque",
+			"nous": "manquons",
+			"vous": "manquez",
+			"ils/elles": "manquent"
+		},
+		"imparfait": {
+			"je": "manquais",
+			"tu": "manquais",
+			"il/elle": "manquait",
+			"nous": "manquions",
+			"vous": "manquiez",
+			"ils/elles": "manquaient"
+		},
+		"futur": {
+			"je": "manquerai",
+			"tu": "manqueras",
+			"il/elle": "manquera",
+			"nous": "manquerons",
+			"vous": "manquerez",
+			"ils/elles": "manqueront"
+		},
+		"passé simple": {
+			"je": "manquai",
+			"tu": "manquas",
+			"il/elle": "manqua",
+			"nous": "manquâmes",
+			"vous": "manquâtes",
+			"ils/elles": "manquèrent"
+		},
+		"passé composé": {
+			"j'": "ai manqué",
+			"tu": "as manqué",
+			"il/elle": "a manqué",
+			"nous": "avons manqué",
+			"vous": "avez manqué",
+			"ils/elles": "ont manqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais manqué",
+			"tu": "avais manqué",
+			"il/elle": "avait manqué",
+			"nous": "avions manqué",
+			"vous": "aviez manqué",
+			"ils/elles": "avaient manqué"
+		},
+		"passé antérieur": {
+			"j'": "eus manqué",
+			"tu": "eus manqué",
+			"il/elle": "eut manqué",
+			"nous": "eûmes manqué",
+			"vous": "eûtes manqué",
+			"ils/elles": "eurent manqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai manqué",
+			"tu": "auras manqué",
+			"il/elle": "aura manqué",
+			"nous": "aurons manqué",
+			"vous": "aurez manqué",
+			"ils/elles": "auront manqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous manquiez",
+			"qu'il/elle": "manque",
+			"qu'ils/elles": "manquent"
+		},
+		"imparfait": {
+			"que": "vous manquassiez",
+			"qu'il/elle": "manquât",
+			"qu'ils/elles": "manquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse manqué",
+			"que": "vous eussiez manqué",
+			"qu'il/elle": "eût manqué",
+			"qu'ils/elles": "eussent manqué"
+		},
+		"passé": {
+			"j'": "aie manqué",
+			"que": "vous ayez manqué",
+			"qu'il/elle": "ait manqué",
+			"qu'ils/elles": "aient manqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "manquerais",
+			"tu": "manquerais",
+			"il/elle": "manquerait",
+			"nous": "manquerions",
+			"vous": "manqueriez",
+			"ils/elles": "manqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais manqué",
+			"tu": "aurais manqué",
+			"il/elle": "aurait manqué",
+			"nous": "aurions manqué",
+			"vous": "auriez manqué",
+			"ils/elles": "auraient manqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse manqué",
+			"tu": "eusses manqué",
+			"il/elle": "eût manqué",
+			"nous": "eussions manqué",
+			"vous": "eussiez manqué",
+			"ils/elles": "eussent manqué"
+		}
+	},
+	"participe": {
+		"présent": { "manquant": "" },
+		"passé composé": { "ayant": "manqué" },
+		"passé": {
+			"masc.sg.:": "manqué",
+			"masc.pl.:": "manqués",
+			"fém.sg.:": "manquée",
+			"fém.pl.:": "manquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "manque": "", "manquons": "", "manquez": "" },
+		"passé": { "aie": "manqué", "ayons": "manqué", "ayez": "manqué" }
+	},
+	"infinitif": { "présent": { "manquer": "" }, "passé": { "avoir": "manqué" } }
+}

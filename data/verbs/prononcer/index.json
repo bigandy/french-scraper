@@ -1,0 +1,141 @@
+{
+	"name": "commencer",
+	"definition": "pronounce; say; ...",
+	"model": "commencer",
+	"auxiliary": "avoir",
+	"otherForms": "se prononcer/ne pas prononcer/ne pas se prononcer",
+	"indicatif": {
+		"présent": {
+			"je": "prononce",
+			"tu": "prononces",
+			"il/elle": "prononce",
+			"nous": "prononçons",
+			"vous": "prononcez",
+			"ils/elles": "prononcent"
+		},
+		"imparfait": {
+			"je": "prononçais",
+			"tu": "prononçais",
+			"il/elle": "prononçait",
+			"nous": "prononcions",
+			"vous": "prononciez",
+			"ils/elles": "prononçaient"
+		},
+		"futur": {
+			"je": "prononcerai",
+			"tu": "prononceras",
+			"il/elle": "prononcera",
+			"nous": "prononcerons",
+			"vous": "prononcerez",
+			"ils/elles": "prononceront"
+		},
+		"passé simple": {
+			"je": "prononçai",
+			"tu": "prononças",
+			"il/elle": "prononça",
+			"nous": "prononçâmes",
+			"vous": "prononçâtes",
+			"ils/elles": "prononcèrent"
+		},
+		"passé composé": {
+			"j'": "ai prononcé",
+			"tu": "as prononcé",
+			"il/elle": "a prononcé",
+			"nous": "avons prononcé",
+			"vous": "avez prononcé",
+			"ils/elles": "ont prononcé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais prononcé",
+			"tu": "avais prononcé",
+			"il/elle": "avait prononcé",
+			"nous": "avions prononcé",
+			"vous": "aviez prononcé",
+			"ils/elles": "avaient prononcé"
+		},
+		"passé antérieur": {
+			"j'": "eus prononcé",
+			"tu": "eus prononcé",
+			"il/elle": "eut prononcé",
+			"nous": "eûmes prononcé",
+			"vous": "eûtes prononcé",
+			"ils/elles": "eurent prononcé"
+		},
+		"futur antérieur": {
+			"j'": "aurai prononcé",
+			"tu": "auras prononcé",
+			"il/elle": "aura prononcé",
+			"nous": "aurons prononcé",
+			"vous": "aurez prononcé",
+			"ils/elles": "auront prononcé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous prononciez",
+			"qu'il/elle": "prononce",
+			"qu'ils/elles": "prononcent"
+		},
+		"imparfait": {
+			"que": "vous prononçassiez",
+			"qu'il/elle": "prononçât",
+			"qu'ils/elles": "prononçassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse prononcé",
+			"que": "vous eussiez prononcé",
+			"qu'il/elle": "eût prononcé",
+			"qu'ils/elles": "eussent prononcé"
+		},
+		"passé": {
+			"j'": "aie prononcé",
+			"que": "vous ayez prononcé",
+			"qu'il/elle": "ait prononcé",
+			"qu'ils/elles": "aient prononcé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "prononcerais",
+			"tu": "prononcerais",
+			"il/elle": "prononcerait",
+			"nous": "prononcerions",
+			"vous": "prononceriez",
+			"ils/elles": "prononceraient"
+		},
+		"passé première forme": {
+			"j'": "aurais prononcé",
+			"tu": "aurais prononcé",
+			"il/elle": "aurait prononcé",
+			"nous": "aurions prononcé",
+			"vous": "auriez prononcé",
+			"ils/elles": "auraient prononcé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse prononcé",
+			"tu": "eusses prononcé",
+			"il/elle": "eût prononcé",
+			"nous": "eussions prononcé",
+			"vous": "eussiez prononcé",
+			"ils/elles": "eussent prononcé"
+		}
+	},
+	"participe": {
+		"présent": { "prononçant": "" },
+		"passé composé": { "ayant": "prononcé" },
+		"passé": {
+			"masc.sg.:": "prononcé",
+			"masc.pl.:": "prononcés",
+			"fém.sg.:": "prononcée",
+			"fém.pl.:": "prononcées"
+		}
+	},
+	"imperatif": {
+		"présent": { "prononce": "", "prononçons": "", "prononcez": "" },
+		"passé": { "aie": "prononcé", "ayons": "prononcé", "ayez": "prononcé" }
+	},
+	"infinitif": {
+		"présent": { "prononcer": "" },
+		"passé": { "avoir": "prononcé" }
+	}
+}

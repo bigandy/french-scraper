@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "propose; offer; provide; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se proposer/ne pas proposer/ne pas se proposer",
+	"indicatif": {
+		"présent": {
+			"je": "propose",
+			"tu": "proposes",
+			"il/elle": "propose",
+			"nous": "proposons",
+			"vous": "proposez",
+			"ils/elles": "proposent"
+		},
+		"imparfait": {
+			"je": "proposais",
+			"tu": "proposais",
+			"il/elle": "proposait",
+			"nous": "proposions",
+			"vous": "proposiez",
+			"ils/elles": "proposaient"
+		},
+		"futur": {
+			"je": "proposerai",
+			"tu": "proposeras",
+			"il/elle": "proposera",
+			"nous": "proposerons",
+			"vous": "proposerez",
+			"ils/elles": "proposeront"
+		},
+		"passé simple": {
+			"je": "proposai",
+			"tu": "proposas",
+			"il/elle": "proposa",
+			"nous": "proposâmes",
+			"vous": "proposâtes",
+			"ils/elles": "proposèrent"
+		},
+		"passé composé": {
+			"j'": "ai proposé",
+			"tu": "as proposé",
+			"il/elle": "a proposé",
+			"nous": "avons proposé",
+			"vous": "avez proposé",
+			"ils/elles": "ont proposé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais proposé",
+			"tu": "avais proposé",
+			"il/elle": "avait proposé",
+			"nous": "avions proposé",
+			"vous": "aviez proposé",
+			"ils/elles": "avaient proposé"
+		},
+		"passé antérieur": {
+			"j'": "eus proposé",
+			"tu": "eus proposé",
+			"il/elle": "eut proposé",
+			"nous": "eûmes proposé",
+			"vous": "eûtes proposé",
+			"ils/elles": "eurent proposé"
+		},
+		"futur antérieur": {
+			"j'": "aurai proposé",
+			"tu": "auras proposé",
+			"il/elle": "aura proposé",
+			"nous": "aurons proposé",
+			"vous": "aurez proposé",
+			"ils/elles": "auront proposé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous proposiez",
+			"qu'il/elle": "propose",
+			"qu'ils/elles": "proposent"
+		},
+		"imparfait": {
+			"que": "vous proposassiez",
+			"qu'il/elle": "proposât",
+			"qu'ils/elles": "proposassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse proposé",
+			"que": "vous eussiez proposé",
+			"qu'il/elle": "eût proposé",
+			"qu'ils/elles": "eussent proposé"
+		},
+		"passé": {
+			"j'": "aie proposé",
+			"que": "vous ayez proposé",
+			"qu'il/elle": "ait proposé",
+			"qu'ils/elles": "aient proposé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "proposerais",
+			"tu": "proposerais",
+			"il/elle": "proposerait",
+			"nous": "proposerions",
+			"vous": "proposeriez",
+			"ils/elles": "proposeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais proposé",
+			"tu": "aurais proposé",
+			"il/elle": "aurait proposé",
+			"nous": "aurions proposé",
+			"vous": "auriez proposé",
+			"ils/elles": "auraient proposé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse proposé",
+			"tu": "eusses proposé",
+			"il/elle": "eût proposé",
+			"nous": "eussions proposé",
+			"vous": "eussiez proposé",
+			"ils/elles": "eussent proposé"
+		}
+	},
+	"participe": {
+		"présent": { "proposant": "" },
+		"passé composé": { "ayant": "proposé" },
+		"passé": {
+			"masc.sg.:": "proposé",
+			"masc.pl.:": "proposés",
+			"fém.sg.:": "proposée",
+			"fém.pl.:": "proposées"
+		}
+	},
+	"imperatif": {
+		"présent": { "propose": "", "proposons": "", "proposez": "" },
+		"passé": { "aie": "proposé", "ayons": "proposé", "ayez": "proposé" }
+	},
+	"infinitif": {
+		"présent": { "proposer": "" },
+		"passé": { "avoir": "proposé" }
+	}
+}

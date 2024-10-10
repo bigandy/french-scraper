@@ -1,0 +1,138 @@
+{
+	"name": "promener",
+	"definition": "conduct; lead; carry out; ...",
+	"model": "promener",
+	"auxiliary": "avoir",
+	"otherForms": "se mener/ne pas mener/ne pas se mener",
+	"indicatif": {
+		"présent": {
+			"je": "mène",
+			"tu": "mènes",
+			"il/elle": "mène",
+			"nous": "menons",
+			"vous": "menez",
+			"ils/elles": "mènent"
+		},
+		"imparfait": {
+			"je": "menais",
+			"tu": "menais",
+			"il/elle": "menait",
+			"nous": "menions",
+			"vous": "meniez",
+			"ils/elles": "menaient"
+		},
+		"futur": {
+			"je": "mènerai",
+			"tu": "mèneras",
+			"il/elle": "mènera",
+			"nous": "mènerons",
+			"vous": "mènerez",
+			"ils/elles": "mèneront"
+		},
+		"passé simple": {
+			"je": "menai",
+			"tu": "menas",
+			"il/elle": "mena",
+			"nous": "menâmes",
+			"vous": "menâtes",
+			"ils/elles": "menèrent"
+		},
+		"passé composé": {
+			"j'": "ai mené",
+			"tu": "as mené",
+			"il/elle": "a mené",
+			"nous": "avons mené",
+			"vous": "avez mené",
+			"ils/elles": "ont mené"
+		},
+		"plus-que-parfait": {
+			"j'": "avais mené",
+			"tu": "avais mené",
+			"il/elle": "avait mené",
+			"nous": "avions mené",
+			"vous": "aviez mené",
+			"ils/elles": "avaient mené"
+		},
+		"passé antérieur": {
+			"j'": "eus mené",
+			"tu": "eus mené",
+			"il/elle": "eut mené",
+			"nous": "eûmes mené",
+			"vous": "eûtes mené",
+			"ils/elles": "eurent mené"
+		},
+		"futur antérieur": {
+			"j'": "aurai mené",
+			"tu": "auras mené",
+			"il/elle": "aura mené",
+			"nous": "aurons mené",
+			"vous": "aurez mené",
+			"ils/elles": "auront mené"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous meniez",
+			"qu'il/elle": "mène",
+			"qu'ils/elles": "mènent"
+		},
+		"imparfait": {
+			"que": "vous menassiez",
+			"qu'il/elle": "menât",
+			"qu'ils/elles": "menassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse mené",
+			"que": "vous eussiez mené",
+			"qu'il/elle": "eût mené",
+			"qu'ils/elles": "eussent mené"
+		},
+		"passé": {
+			"j'": "aie mené",
+			"que": "vous ayez mené",
+			"qu'il/elle": "ait mené",
+			"qu'ils/elles": "aient mené"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "mènerais",
+			"tu": "mènerais",
+			"il/elle": "mènerait",
+			"nous": "mènerions",
+			"vous": "mèneriez",
+			"ils/elles": "mèneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais mené",
+			"tu": "aurais mené",
+			"il/elle": "aurait mené",
+			"nous": "aurions mené",
+			"vous": "auriez mené",
+			"ils/elles": "auraient mené"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse mené",
+			"tu": "eusses mené",
+			"il/elle": "eût mené",
+			"nous": "eussions mené",
+			"vous": "eussiez mené",
+			"ils/elles": "eussent mené"
+		}
+	},
+	"participe": {
+		"présent": { "menant": "" },
+		"passé composé": { "ayant": "mené" },
+		"passé": {
+			"masc.sg.:": "mené",
+			"masc.pl.:": "menés",
+			"fém.sg.:": "menée",
+			"fém.pl.:": "menées"
+		}
+	},
+	"imperatif": {
+		"présent": { "mène": "", "menons": "", "menez": "" },
+		"passé": { "aie": "mené", "ayons": "mené", "ayez": "mené" }
+	},
+	"infinitif": { "présent": { "mener": "" }, "passé": { "avoir": "mené" } }
+}

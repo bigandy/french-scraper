@@ -1,0 +1,152 @@
+{
+	"name": "mentir",
+	"definition": "leave; go; get out; ...",
+	"model": "mentir",
+	"auxiliary": "être",
+	"otherForms": "se partir/ne pas partir/ne pas se partir",
+	"indicatif": {
+		"présent": {
+			"je": "pars",
+			"tu": "pars",
+			"il/elle": "part",
+			"nous": "partons",
+			"vous": "partez",
+			"ils/elles": "partent"
+		},
+		"imparfait": {
+			"je": "partais",
+			"tu": "partais",
+			"il/elle": "partait",
+			"nous": "partions",
+			"vous": "partiez",
+			"ils/elles": "partaient"
+		},
+		"futur": {
+			"je": "partirai",
+			"tu": "partiras",
+			"il/elle": "partira",
+			"nous": "partirons",
+			"vous": "partirez",
+			"ils/elles": "partiront"
+		},
+		"passé simple": {
+			"je": "partis",
+			"tu": "partis",
+			"il/elle": "partit",
+			"nous": "partîmes",
+			"vous": "partîtes",
+			"ils/elles": "partirent"
+		},
+		"passé composé": {
+			"je": "suis parti",
+			"tu": "es parti",
+			"il": "est parti",
+			"elle": "est partie",
+			"nous": "sommes partis",
+			"vous": "êtes partis",
+			"ils": "sont partis",
+			"elles": "sont parties"
+		},
+		"plus-que-parfait": {
+			"j'": "étais parti",
+			"tu": "étais parti",
+			"il": "était parti",
+			"elle": "était partie",
+			"nous": "étions partis",
+			"vous": "étiez partis",
+			"ils": "étaient partis",
+			"elles": "étaient parties"
+		},
+		"passé antérieur": {
+			"je": "fus parti",
+			"tu": "fus parti",
+			"il": "fut parti",
+			"elle": "fut partie",
+			"nous": "fûmes partis",
+			"vous": "fûtes partis",
+			"ils": "furent partis",
+			"elles": "furent parties"
+		},
+		"futur antérieur": {
+			"je": "serai parti",
+			"tu": "seras parti",
+			"il": "sera parti",
+			"elle": "sera partie",
+			"nous": "serons partis",
+			"vous": "serez partis",
+			"ils": "seront partis",
+			"elles": "seront parties"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous partiez",
+			"qu'il/elle": "parte",
+			"qu'ils/elles": "partent"
+		},
+		"imparfait": {
+			"que": "vous partissiez",
+			"qu'il/elle": "partît",
+			"qu'ils/elles": "partissent"
+		},
+		"plus-que-parfait": {
+			"que": "vous fussiez partis",
+			"qu'il": "fût parti",
+			"qu'elle": "fût partie",
+			"qu'ils": "fussent partis",
+			"qu'elles": "fussent parties"
+		},
+		"passé": {
+			"que": "vous soyez partis",
+			"qu'il": "soit parti",
+			"qu'elle": "soit partie",
+			"qu'ils": "soient partis",
+			"qu'elles": "soient parties"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "partirais",
+			"tu": "partirais",
+			"il/elle": "partirait",
+			"nous": "partirions",
+			"vous": "partiriez",
+			"ils/elles": "partiraient"
+		},
+		"passé première forme": {
+			"je": "serais parti",
+			"tu": "serais parti",
+			"il": "serait parti",
+			"elle": "serait partie",
+			"nous": "serions partis",
+			"vous": "seriez partis",
+			"ils": "seraient partis",
+			"elles": "seraient parties"
+		},
+		"passé deuxième forme": {
+			"je": "fusse parti",
+			"tu": "fusses parti",
+			"il": "fût parti",
+			"elle": "fût partie",
+			"nous": "fussions partis",
+			"vous": "fussiez partis",
+			"ils": "fussent partis",
+			"elles": "fussent parties"
+		}
+	},
+	"participe": {
+		"présent": { "partant": "" },
+		"passé composé": { "étant": "partie" },
+		"passé": {
+			"masc.sg.:": "parti",
+			"masc.pl.:": "partis",
+			"fém.sg.:": "partie",
+			"fém.pl.:": "parties"
+		}
+	},
+	"imperatif": {
+		"présent": { "pars": "", "partons": "", "partez": "" },
+		"passé": { "sois": "parti", "soyons": "parti", "soyez": "parti" }
+	},
+	"infinitif": { "présent": { "partir": "" }, "passé": { "être": "parti" } }
+}

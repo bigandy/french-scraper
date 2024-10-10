@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "kiss; embrace; hug; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'embrasser/ne pas embrasser/ne pas s'embrasser",
+	"indicatif": {
+		"présent": {
+			"j'": "embrasse",
+			"tu": "embrasses",
+			"il/elle": "embrasse",
+			"nous": "embrassons",
+			"vous": "embrassez",
+			"ils/elles": "embrassent"
+		},
+		"imparfait": {
+			"j'": "embrassais",
+			"tu": "embrassais",
+			"il/elle": "embrassait",
+			"nous": "embrassions",
+			"vous": "embrassiez",
+			"ils/elles": "embrassaient"
+		},
+		"futur": {
+			"j'": "embrasserai",
+			"tu": "embrasseras",
+			"il/elle": "embrassera",
+			"nous": "embrasserons",
+			"vous": "embrasserez",
+			"ils/elles": "embrasseront"
+		},
+		"passé simple": {
+			"j'": "embrassai",
+			"tu": "embrassas",
+			"il/elle": "embrassa",
+			"nous": "embrassâmes",
+			"vous": "embrassâtes",
+			"ils/elles": "embrassèrent"
+		},
+		"passé composé": {
+			"j'": "ai embrassé",
+			"tu": "as embrassé",
+			"il/elle": "a embrassé",
+			"nous": "avons embrassé",
+			"vous": "avez embrassé",
+			"ils/elles": "ont embrassé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais embrassé",
+			"tu": "avais embrassé",
+			"il/elle": "avait embrassé",
+			"nous": "avions embrassé",
+			"vous": "aviez embrassé",
+			"ils/elles": "avaient embrassé"
+		},
+		"passé antérieur": {
+			"j'": "eus embrassé",
+			"tu": "eus embrassé",
+			"il/elle": "eut embrassé",
+			"nous": "eûmes embrassé",
+			"vous": "eûtes embrassé",
+			"ils/elles": "eurent embrassé"
+		},
+		"futur antérieur": {
+			"j'": "aurai embrassé",
+			"tu": "auras embrassé",
+			"il/elle": "aura embrassé",
+			"nous": "aurons embrassé",
+			"vous": "aurez embrassé",
+			"ils/elles": "auront embrassé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "embrasse",
+			"que": "vous embrassiez",
+			"qu'il/elle": "embrasse",
+			"qu'ils/elles": "embrassent"
+		},
+		"imparfait": {
+			"j'": "embrassasse",
+			"que": "vous embrassassiez",
+			"qu'il/elle": "embrassât",
+			"qu'ils/elles": "embrassassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse embrassé",
+			"que": "vous eussiez embrassé",
+			"qu'il/elle": "eût embrassé",
+			"qu'ils/elles": "eussent embrassé"
+		},
+		"passé": {
+			"j'": "aie embrassé",
+			"que": "vous ayez embrassé",
+			"qu'il/elle": "ait embrassé",
+			"qu'ils/elles": "aient embrassé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "embrasserais",
+			"tu": "embrasserais",
+			"il/elle": "embrasserait",
+			"nous": "embrasserions",
+			"vous": "embrasseriez",
+			"ils/elles": "embrasseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais embrassé",
+			"tu": "aurais embrassé",
+			"il/elle": "aurait embrassé",
+			"nous": "aurions embrassé",
+			"vous": "auriez embrassé",
+			"ils/elles": "auraient embrassé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse embrassé",
+			"tu": "eusses embrassé",
+			"il/elle": "eût embrassé",
+			"nous": "eussions embrassé",
+			"vous": "eussiez embrassé",
+			"ils/elles": "eussent embrassé"
+		}
+	},
+	"participe": {
+		"présent": { "embrassant": "" },
+		"passé composé": { "ayant": "embrassé" },
+		"passé": {
+			"masc.sg.:": "embrassé",
+			"masc.pl.:": "embrassés",
+			"fém.sg.:": "embrassée",
+			"fém.pl.:": "embrassées"
+		}
+	},
+	"imperatif": {
+		"présent": { "embrasse": "", "embrassons": "", "embrassez": "" },
+		"passé": { "aie": "embrassé", "ayons": "embrassé", "ayez": "embrassé" }
+	},
+	"infinitif": {
+		"présent": { "embrasser": "" },
+		"passé": { "avoir": "embrassé" }
+	}
+}

@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "wax; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se farter/ne pas farter/ne pas se farter",
+	"indicatif": {
+		"présent": {
+			"je": "farte",
+			"tu": "fartes",
+			"il/elle": "farte",
+			"nous": "fartons",
+			"vous": "fartez",
+			"ils/elles": "fartent"
+		},
+		"imparfait": {
+			"je": "fartais",
+			"tu": "fartais",
+			"il/elle": "fartait",
+			"nous": "fartions",
+			"vous": "fartiez",
+			"ils/elles": "fartaient"
+		},
+		"futur": {
+			"je": "farterai",
+			"tu": "farteras",
+			"il/elle": "fartera",
+			"nous": "farterons",
+			"vous": "farterez",
+			"ils/elles": "farteront"
+		},
+		"passé simple": {
+			"je": "fartai",
+			"tu": "fartas",
+			"il/elle": "farta",
+			"nous": "fartâmes",
+			"vous": "fartâtes",
+			"ils/elles": "fartèrent"
+		},
+		"passé composé": {
+			"j'": "ai farté",
+			"tu": "as farté",
+			"il/elle": "a farté",
+			"nous": "avons farté",
+			"vous": "avez farté",
+			"ils/elles": "ont farté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais farté",
+			"tu": "avais farté",
+			"il/elle": "avait farté",
+			"nous": "avions farté",
+			"vous": "aviez farté",
+			"ils/elles": "avaient farté"
+		},
+		"passé antérieur": {
+			"j'": "eus farté",
+			"tu": "eus farté",
+			"il/elle": "eut farté",
+			"nous": "eûmes farté",
+			"vous": "eûtes farté",
+			"ils/elles": "eurent farté"
+		},
+		"futur antérieur": {
+			"j'": "aurai farté",
+			"tu": "auras farté",
+			"il/elle": "aura farté",
+			"nous": "aurons farté",
+			"vous": "aurez farté",
+			"ils/elles": "auront farté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous fartiez",
+			"qu'il/elle": "farte",
+			"qu'ils/elles": "fartent"
+		},
+		"imparfait": {
+			"que": "vous fartassiez",
+			"qu'il/elle": "fartât",
+			"qu'ils/elles": "fartassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse farté",
+			"que": "vous eussiez farté",
+			"qu'il/elle": "eût farté",
+			"qu'ils/elles": "eussent farté"
+		},
+		"passé": {
+			"j'": "aie farté",
+			"que": "vous ayez farté",
+			"qu'il/elle": "ait farté",
+			"qu'ils/elles": "aient farté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "farterais",
+			"tu": "farterais",
+			"il/elle": "farterait",
+			"nous": "farterions",
+			"vous": "farteriez",
+			"ils/elles": "farteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais farté",
+			"tu": "aurais farté",
+			"il/elle": "aurait farté",
+			"nous": "aurions farté",
+			"vous": "auriez farté",
+			"ils/elles": "auraient farté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse farté",
+			"tu": "eusses farté",
+			"il/elle": "eût farté",
+			"nous": "eussions farté",
+			"vous": "eussiez farté",
+			"ils/elles": "eussent farté"
+		}
+	},
+	"participe": {
+		"présent": { "fartant": "" },
+		"passé composé": { "ayant": "farté" },
+		"passé": {
+			"masc.sg.:": "farté",
+			"masc.pl.:": "fartés",
+			"fém.sg.:": "fartée",
+			"fém.pl.:": "fartées"
+		}
+	},
+	"imperatif": {
+		"présent": { "farte": "", "fartons": "", "fartez": "" },
+		"passé": { "aie": "farté", "ayons": "farté", "ayez": "farté" }
+	},
+	"infinitif": { "présent": { "farter": "" }, "passé": { "avoir": "farté" } }
+}

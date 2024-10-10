@@ -1,0 +1,145 @@
+{
+	"name": "marcher",
+	"definition": "\n              differentiate; distinguish; discriminate; ...\n            ",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se différencier/ne pas différencier/ne pas se différencier",
+	"indicatif": {
+		"présent": {
+			"je": "différencie",
+			"tu": "différencies",
+			"il/elle": "différencie",
+			"nous": "différencions",
+			"vous": "différenciez",
+			"ils/elles": "différencient"
+		},
+		"imparfait": {
+			"je": "différenciais",
+			"tu": "différenciais",
+			"il/elle": "différenciait",
+			"nous": "différenciions",
+			"vous": "différenciiez",
+			"ils/elles": "différenciaient"
+		},
+		"futur": {
+			"je": "différencierai",
+			"tu": "différencieras",
+			"il/elle": "différenciera",
+			"nous": "différencierons",
+			"vous": "différencierez",
+			"ils/elles": "différencieront"
+		},
+		"passé simple": {
+			"je": "différenciai",
+			"tu": "différencias",
+			"il/elle": "différencia",
+			"nous": "différenciâmes",
+			"vous": "différenciâtes",
+			"ils/elles": "différencièrent"
+		},
+		"passé composé": {
+			"j'": "ai différencié",
+			"tu": "as différencié",
+			"il/elle": "a différencié",
+			"nous": "avons différencié",
+			"vous": "avez différencié",
+			"ils/elles": "ont différencié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais différencié",
+			"tu": "avais différencié",
+			"il/elle": "avait différencié",
+			"nous": "avions différencié",
+			"vous": "aviez différencié",
+			"ils/elles": "avaient différencié"
+		},
+		"passé antérieur": {
+			"j'": "eus différencié",
+			"tu": "eus différencié",
+			"il/elle": "eut différencié",
+			"nous": "eûmes différencié",
+			"vous": "eûtes différencié",
+			"ils/elles": "eurent différencié"
+		},
+		"futur antérieur": {
+			"j'": "aurai différencié",
+			"tu": "auras différencié",
+			"il/elle": "aura différencié",
+			"nous": "aurons différencié",
+			"vous": "aurez différencié",
+			"ils/elles": "auront différencié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous différenciiez",
+			"qu'il/elle": "différencie",
+			"qu'ils/elles": "différencient"
+		},
+		"imparfait": {
+			"que": "vous différenciassiez",
+			"qu'il/elle": "différenciât",
+			"qu'ils/elles": "différenciassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse différencié",
+			"que": "vous eussiez différencié",
+			"qu'il/elle": "eût différencié",
+			"qu'ils/elles": "eussent différencié"
+		},
+		"passé": {
+			"j'": "aie différencié",
+			"que": "vous ayez différencié",
+			"qu'il/elle": "ait différencié",
+			"qu'ils/elles": "aient différencié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "différencierais",
+			"tu": "différencierais",
+			"il/elle": "différencierait",
+			"nous": "différencierions",
+			"vous": "différencieriez",
+			"ils/elles": "différencieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais différencié",
+			"tu": "aurais différencié",
+			"il/elle": "aurait différencié",
+			"nous": "aurions différencié",
+			"vous": "auriez différencié",
+			"ils/elles": "auraient différencié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse différencié",
+			"tu": "eusses différencié",
+			"il/elle": "eût différencié",
+			"nous": "eussions différencié",
+			"vous": "eussiez différencié",
+			"ils/elles": "eussent différencié"
+		}
+	},
+	"participe": {
+		"présent": { "différenciant": "" },
+		"passé composé": { "ayant": "différencié" },
+		"passé": {
+			"masc.sg.:": "différencié",
+			"masc.pl.:": "différenciés",
+			"fém.sg.:": "différenciée",
+			"fém.pl.:": "différenciées"
+		}
+	},
+	"imperatif": {
+		"présent": { "différencie": "", "différencions": "", "différenciez": "" },
+		"passé": {
+			"aie": "différencié",
+			"ayons": "différencié",
+			"ayez": "différencié"
+		}
+	},
+	"infinitif": {
+		"présent": { "différencier": "" },
+		"passé": { "avoir": "différencié" }
+	}
+}

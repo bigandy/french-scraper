@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'enlier/ne pas enlier/ne pas s'enlier",
+	"indicatif": {
+		"présent": {
+			"j'": "enlie",
+			"tu": "enlies",
+			"il/elle": "enlie",
+			"nous": "enlions",
+			"vous": "enliez",
+			"ils/elles": "enlient"
+		},
+		"imparfait": {
+			"j'": "enliais",
+			"tu": "enliais",
+			"il/elle": "enliait",
+			"nous": "enliions",
+			"vous": "enliiez",
+			"ils/elles": "enliaient"
+		},
+		"futur": {
+			"j'": "enlierai",
+			"tu": "enlieras",
+			"il/elle": "enliera",
+			"nous": "enlierons",
+			"vous": "enlierez",
+			"ils/elles": "enlieront"
+		},
+		"passé simple": {
+			"j'": "enliai",
+			"tu": "enlias",
+			"il/elle": "enlia",
+			"nous": "enliâmes",
+			"vous": "enliâtes",
+			"ils/elles": "enlièrent"
+		},
+		"passé composé": {
+			"j'": "ai enlié",
+			"tu": "as enlié",
+			"il/elle": "a enlié",
+			"nous": "avons enlié",
+			"vous": "avez enlié",
+			"ils/elles": "ont enlié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais enlié",
+			"tu": "avais enlié",
+			"il/elle": "avait enlié",
+			"nous": "avions enlié",
+			"vous": "aviez enlié",
+			"ils/elles": "avaient enlié"
+		},
+		"passé antérieur": {
+			"j'": "eus enlié",
+			"tu": "eus enlié",
+			"il/elle": "eut enlié",
+			"nous": "eûmes enlié",
+			"vous": "eûtes enlié",
+			"ils/elles": "eurent enlié"
+		},
+		"futur antérieur": {
+			"j'": "aurai enlié",
+			"tu": "auras enlié",
+			"il/elle": "aura enlié",
+			"nous": "aurons enlié",
+			"vous": "aurez enlié",
+			"ils/elles": "auront enlié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "enlie",
+			"que": "vous enliiez",
+			"qu'il/elle": "enlie",
+			"qu'ils/elles": "enlient"
+		},
+		"imparfait": {
+			"j'": "enliasse",
+			"que": "vous enliassiez",
+			"qu'il/elle": "enliât",
+			"qu'ils/elles": "enliassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse enlié",
+			"que": "vous eussiez enlié",
+			"qu'il/elle": "eût enlié",
+			"qu'ils/elles": "eussent enlié"
+		},
+		"passé": {
+			"j'": "aie enlié",
+			"que": "vous ayez enlié",
+			"qu'il/elle": "ait enlié",
+			"qu'ils/elles": "aient enlié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "enlierais",
+			"tu": "enlierais",
+			"il/elle": "enlierait",
+			"nous": "enlierions",
+			"vous": "enlieriez",
+			"ils/elles": "enlieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais enlié",
+			"tu": "aurais enlié",
+			"il/elle": "aurait enlié",
+			"nous": "aurions enlié",
+			"vous": "auriez enlié",
+			"ils/elles": "auraient enlié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse enlié",
+			"tu": "eusses enlié",
+			"il/elle": "eût enlié",
+			"nous": "eussions enlié",
+			"vous": "eussiez enlié",
+			"ils/elles": "eussent enlié"
+		}
+	},
+	"participe": {
+		"présent": { "enliant": "" },
+		"passé composé": { "ayant": "enlié" },
+		"passé": {
+			"masc.sg.:": "enlié",
+			"masc.pl.:": "enliés",
+			"fém.sg.:": "enliée",
+			"fém.pl.:": "enliées"
+		}
+	},
+	"imperatif": {
+		"présent": { "enlie": "", "enlions": "", "enliez": "" },
+		"passé": { "aie": "enlié", "ayons": "enlié", "ayez": "enlié" }
+	},
+	"infinitif": { "présent": { "enlier": "" }, "passé": { "avoir": "enlié" } }
+}

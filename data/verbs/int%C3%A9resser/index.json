@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "interest; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'intéresser/ne pas intéresser/ne pas s'intéresser",
+	"indicatif": {
+		"présent": {
+			"j'": "intéresse",
+			"tu": "intéresses",
+			"il/elle": "intéresse",
+			"nous": "intéressons",
+			"vous": "intéressez",
+			"ils/elles": "intéressent"
+		},
+		"imparfait": {
+			"j'": "intéressais",
+			"tu": "intéressais",
+			"il/elle": "intéressait",
+			"nous": "intéressions",
+			"vous": "intéressiez",
+			"ils/elles": "intéressaient"
+		},
+		"futur": {
+			"j'": "intéresserai",
+			"tu": "intéresseras",
+			"il/elle": "intéressera",
+			"nous": "intéresserons",
+			"vous": "intéresserez",
+			"ils/elles": "intéresseront"
+		},
+		"passé simple": {
+			"j'": "intéressai",
+			"tu": "intéressas",
+			"il/elle": "intéressa",
+			"nous": "intéressâmes",
+			"vous": "intéressâtes",
+			"ils/elles": "intéressèrent"
+		},
+		"passé composé": {
+			"j'": "ai intéressé",
+			"tu": "as intéressé",
+			"il/elle": "a intéressé",
+			"nous": "avons intéressé",
+			"vous": "avez intéressé",
+			"ils/elles": "ont intéressé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais intéressé",
+			"tu": "avais intéressé",
+			"il/elle": "avait intéressé",
+			"nous": "avions intéressé",
+			"vous": "aviez intéressé",
+			"ils/elles": "avaient intéressé"
+		},
+		"passé antérieur": {
+			"j'": "eus intéressé",
+			"tu": "eus intéressé",
+			"il/elle": "eut intéressé",
+			"nous": "eûmes intéressé",
+			"vous": "eûtes intéressé",
+			"ils/elles": "eurent intéressé"
+		},
+		"futur antérieur": {
+			"j'": "aurai intéressé",
+			"tu": "auras intéressé",
+			"il/elle": "aura intéressé",
+			"nous": "aurons intéressé",
+			"vous": "aurez intéressé",
+			"ils/elles": "auront intéressé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "intéresse",
+			"que": "vous intéressiez",
+			"qu'il/elle": "intéresse",
+			"qu'ils/elles": "intéressent"
+		},
+		"imparfait": {
+			"j'": "intéressasse",
+			"que": "vous intéressassiez",
+			"qu'il/elle": "intéressât",
+			"qu'ils/elles": "intéressassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse intéressé",
+			"que": "vous eussiez intéressé",
+			"qu'il/elle": "eût intéressé",
+			"qu'ils/elles": "eussent intéressé"
+		},
+		"passé": {
+			"j'": "aie intéressé",
+			"que": "vous ayez intéressé",
+			"qu'il/elle": "ait intéressé",
+			"qu'ils/elles": "aient intéressé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "intéresserais",
+			"tu": "intéresserais",
+			"il/elle": "intéresserait",
+			"nous": "intéresserions",
+			"vous": "intéresseriez",
+			"ils/elles": "intéresseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais intéressé",
+			"tu": "aurais intéressé",
+			"il/elle": "aurait intéressé",
+			"nous": "aurions intéressé",
+			"vous": "auriez intéressé",
+			"ils/elles": "auraient intéressé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse intéressé",
+			"tu": "eusses intéressé",
+			"il/elle": "eût intéressé",
+			"nous": "eussions intéressé",
+			"vous": "eussiez intéressé",
+			"ils/elles": "eussent intéressé"
+		}
+	},
+	"participe": {
+		"présent": { "intéressant": "" },
+		"passé composé": { "ayant": "intéressé" },
+		"passé": {
+			"masc.sg.:": "intéressé",
+			"masc.pl.:": "intéressés",
+			"fém.sg.:": "intéressée",
+			"fém.pl.:": "intéressées"
+		}
+	},
+	"imperatif": {
+		"présent": { "intéresse": "", "intéressons": "", "intéressez": "" },
+		"passé": { "aie": "intéressé", "ayons": "intéressé", "ayez": "intéressé" }
+	},
+	"infinitif": {
+		"présent": { "intéresser": "" },
+		"passé": { "avoir": "intéressé" }
+	}
+}

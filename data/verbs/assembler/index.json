@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "assemble; join; connect; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'assembler/ne pas assembler/ne pas s'assembler",
+	"indicatif": {
+		"présent": {
+			"j'": "assemble",
+			"tu": "assembles",
+			"il/elle": "assemble",
+			"nous": "assemblons",
+			"vous": "assemblez",
+			"ils/elles": "assemblent"
+		},
+		"imparfait": {
+			"j'": "assemblais",
+			"tu": "assemblais",
+			"il/elle": "assemblait",
+			"nous": "assemblions",
+			"vous": "assembliez",
+			"ils/elles": "assemblaient"
+		},
+		"futur": {
+			"j'": "assemblerai",
+			"tu": "assembleras",
+			"il/elle": "assemblera",
+			"nous": "assemblerons",
+			"vous": "assemblerez",
+			"ils/elles": "assembleront"
+		},
+		"passé simple": {
+			"j'": "assemblai",
+			"tu": "assemblas",
+			"il/elle": "assembla",
+			"nous": "assemblâmes",
+			"vous": "assemblâtes",
+			"ils/elles": "assemblèrent"
+		},
+		"passé composé": {
+			"j'": "ai assemblé",
+			"tu": "as assemblé",
+			"il/elle": "a assemblé",
+			"nous": "avons assemblé",
+			"vous": "avez assemblé",
+			"ils/elles": "ont assemblé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais assemblé",
+			"tu": "avais assemblé",
+			"il/elle": "avait assemblé",
+			"nous": "avions assemblé",
+			"vous": "aviez assemblé",
+			"ils/elles": "avaient assemblé"
+		},
+		"passé antérieur": {
+			"j'": "eus assemblé",
+			"tu": "eus assemblé",
+			"il/elle": "eut assemblé",
+			"nous": "eûmes assemblé",
+			"vous": "eûtes assemblé",
+			"ils/elles": "eurent assemblé"
+		},
+		"futur antérieur": {
+			"j'": "aurai assemblé",
+			"tu": "auras assemblé",
+			"il/elle": "aura assemblé",
+			"nous": "aurons assemblé",
+			"vous": "aurez assemblé",
+			"ils/elles": "auront assemblé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "assemble",
+			"que": "vous assembliez",
+			"qu'il/elle": "assemble",
+			"qu'ils/elles": "assemblent"
+		},
+		"imparfait": {
+			"j'": "assemblasse",
+			"que": "vous assemblassiez",
+			"qu'il/elle": "assemblât",
+			"qu'ils/elles": "assemblassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse assemblé",
+			"que": "vous eussiez assemblé",
+			"qu'il/elle": "eût assemblé",
+			"qu'ils/elles": "eussent assemblé"
+		},
+		"passé": {
+			"j'": "aie assemblé",
+			"que": "vous ayez assemblé",
+			"qu'il/elle": "ait assemblé",
+			"qu'ils/elles": "aient assemblé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "assemblerais",
+			"tu": "assemblerais",
+			"il/elle": "assemblerait",
+			"nous": "assemblerions",
+			"vous": "assembleriez",
+			"ils/elles": "assembleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais assemblé",
+			"tu": "aurais assemblé",
+			"il/elle": "aurait assemblé",
+			"nous": "aurions assemblé",
+			"vous": "auriez assemblé",
+			"ils/elles": "auraient assemblé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse assemblé",
+			"tu": "eusses assemblé",
+			"il/elle": "eût assemblé",
+			"nous": "eussions assemblé",
+			"vous": "eussiez assemblé",
+			"ils/elles": "eussent assemblé"
+		}
+	},
+	"participe": {
+		"présent": { "assemblant": "" },
+		"passé composé": { "ayant": "assemblé" },
+		"passé": {
+			"masc.sg.:": "assemblé",
+			"masc.pl.:": "assemblés",
+			"fém.sg.:": "assemblée",
+			"fém.pl.:": "assemblées"
+		}
+	},
+	"imperatif": {
+		"présent": { "assemble": "", "assemblons": "", "assemblez": "" },
+		"passé": { "aie": "assemblé", "ayons": "assemblé", "ayez": "assemblé" }
+	},
+	"infinitif": {
+		"présent": { "assembler": "" },
+		"passé": { "avoir": "assemblé" }
+	}
+}

@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "cancel; annul; undo; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'annuler/ne pas annuler/ne pas s'annuler",
+	"indicatif": {
+		"présent": {
+			"j'": "annule",
+			"tu": "annules",
+			"il/elle": "annule",
+			"nous": "annulons",
+			"vous": "annulez",
+			"ils/elles": "annulent"
+		},
+		"imparfait": {
+			"j'": "annulais",
+			"tu": "annulais",
+			"il/elle": "annulait",
+			"nous": "annulions",
+			"vous": "annuliez",
+			"ils/elles": "annulaient"
+		},
+		"futur": {
+			"j'": "annulerai",
+			"tu": "annuleras",
+			"il/elle": "annulera",
+			"nous": "annulerons",
+			"vous": "annulerez",
+			"ils/elles": "annuleront"
+		},
+		"passé simple": {
+			"j'": "annulai",
+			"tu": "annulas",
+			"il/elle": "annula",
+			"nous": "annulâmes",
+			"vous": "annulâtes",
+			"ils/elles": "annulèrent"
+		},
+		"passé composé": {
+			"j'": "ai annulé",
+			"tu": "as annulé",
+			"il/elle": "a annulé",
+			"nous": "avons annulé",
+			"vous": "avez annulé",
+			"ils/elles": "ont annulé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais annulé",
+			"tu": "avais annulé",
+			"il/elle": "avait annulé",
+			"nous": "avions annulé",
+			"vous": "aviez annulé",
+			"ils/elles": "avaient annulé"
+		},
+		"passé antérieur": {
+			"j'": "eus annulé",
+			"tu": "eus annulé",
+			"il/elle": "eut annulé",
+			"nous": "eûmes annulé",
+			"vous": "eûtes annulé",
+			"ils/elles": "eurent annulé"
+		},
+		"futur antérieur": {
+			"j'": "aurai annulé",
+			"tu": "auras annulé",
+			"il/elle": "aura annulé",
+			"nous": "aurons annulé",
+			"vous": "aurez annulé",
+			"ils/elles": "auront annulé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "annule",
+			"que": "vous annuliez",
+			"qu'il/elle": "annule",
+			"qu'ils/elles": "annulent"
+		},
+		"imparfait": {
+			"j'": "annulasse",
+			"que": "vous annulassiez",
+			"qu'il/elle": "annulât",
+			"qu'ils/elles": "annulassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse annulé",
+			"que": "vous eussiez annulé",
+			"qu'il/elle": "eût annulé",
+			"qu'ils/elles": "eussent annulé"
+		},
+		"passé": {
+			"j'": "aie annulé",
+			"que": "vous ayez annulé",
+			"qu'il/elle": "ait annulé",
+			"qu'ils/elles": "aient annulé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "annulerais",
+			"tu": "annulerais",
+			"il/elle": "annulerait",
+			"nous": "annulerions",
+			"vous": "annuleriez",
+			"ils/elles": "annuleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais annulé",
+			"tu": "aurais annulé",
+			"il/elle": "aurait annulé",
+			"nous": "aurions annulé",
+			"vous": "auriez annulé",
+			"ils/elles": "auraient annulé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse annulé",
+			"tu": "eusses annulé",
+			"il/elle": "eût annulé",
+			"nous": "eussions annulé",
+			"vous": "eussiez annulé",
+			"ils/elles": "eussent annulé"
+		}
+	},
+	"participe": {
+		"présent": { "annulant": "" },
+		"passé composé": { "ayant": "annulé" },
+		"passé": {
+			"masc.sg.:": "annulé",
+			"masc.pl.:": "annulés",
+			"fém.sg.:": "annulée",
+			"fém.pl.:": "annulées"
+		}
+	},
+	"imperatif": {
+		"présent": { "annule": "", "annulons": "", "annulez": "" },
+		"passé": { "aie": "annulé", "ayons": "annulé", "ayez": "annulé" }
+	},
+	"infinitif": { "présent": { "annuler": "" }, "passé": { "avoir": "annulé" } }
+}

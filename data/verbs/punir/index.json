@@ -1,0 +1,138 @@
+{
+	"name": "finir",
+	"definition": "punish; discipline; sanction; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se punir/ne pas punir/ne pas se punir",
+	"indicatif": {
+		"présent": {
+			"je": "punis",
+			"tu": "punis",
+			"il/elle": "punit",
+			"nous": "punissons",
+			"vous": "punissez",
+			"ils/elles": "punissent"
+		},
+		"imparfait": {
+			"je": "punissais",
+			"tu": "punissais",
+			"il/elle": "punissait",
+			"nous": "punissions",
+			"vous": "punissiez",
+			"ils/elles": "punissaient"
+		},
+		"futur": {
+			"je": "punirai",
+			"tu": "puniras",
+			"il/elle": "punira",
+			"nous": "punirons",
+			"vous": "punirez",
+			"ils/elles": "puniront"
+		},
+		"passé simple": {
+			"je": "punis",
+			"tu": "punis",
+			"il/elle": "punit",
+			"nous": "punîmes",
+			"vous": "punîtes",
+			"ils/elles": "punirent"
+		},
+		"passé composé": {
+			"j'": "ai puni",
+			"tu": "as puni",
+			"il/elle": "a puni",
+			"nous": "avons puni",
+			"vous": "avez puni",
+			"ils/elles": "ont puni"
+		},
+		"plus-que-parfait": {
+			"j'": "avais puni",
+			"tu": "avais puni",
+			"il/elle": "avait puni",
+			"nous": "avions puni",
+			"vous": "aviez puni",
+			"ils/elles": "avaient puni"
+		},
+		"passé antérieur": {
+			"j'": "eus puni",
+			"tu": "eus puni",
+			"il/elle": "eut puni",
+			"nous": "eûmes puni",
+			"vous": "eûtes puni",
+			"ils/elles": "eurent puni"
+		},
+		"futur antérieur": {
+			"j'": "aurai puni",
+			"tu": "auras puni",
+			"il/elle": "aura puni",
+			"nous": "aurons puni",
+			"vous": "aurez puni",
+			"ils/elles": "auront puni"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous punissiez",
+			"qu'il/elle": "punisse",
+			"qu'ils/elles": "punissent"
+		},
+		"imparfait": {
+			"que": "vous punissiez",
+			"qu'il/elle": "punît",
+			"qu'ils/elles": "punissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse puni",
+			"que": "vous eussiez puni",
+			"qu'il/elle": "eût puni",
+			"qu'ils/elles": "eussent puni"
+		},
+		"passé": {
+			"j'": "aie puni",
+			"que": "vous ayez puni",
+			"qu'il/elle": "ait puni",
+			"qu'ils/elles": "aient puni"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "punirais",
+			"tu": "punirais",
+			"il/elle": "punirait",
+			"nous": "punirions",
+			"vous": "puniriez",
+			"ils/elles": "puniraient"
+		},
+		"passé première forme": {
+			"j'": "aurais puni",
+			"tu": "aurais puni",
+			"il/elle": "aurait puni",
+			"nous": "aurions puni",
+			"vous": "auriez puni",
+			"ils/elles": "auraient puni"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse puni",
+			"tu": "eusses puni",
+			"il/elle": "eût puni",
+			"nous": "eussions puni",
+			"vous": "eussiez puni",
+			"ils/elles": "eussent puni"
+		}
+	},
+	"participe": {
+		"présent": { "punissant": "" },
+		"passé composé": { "ayant": "puni" },
+		"passé": {
+			"masc.sg.:": "puni",
+			"masc.pl.:": "punis",
+			"fém.sg.:": "punie",
+			"fém.pl.:": "punies"
+		}
+	},
+	"imperatif": {
+		"présent": { "punis": "", "punissons": "", "punissez": "" },
+		"passé": { "aie": "puni", "ayons": "puni", "ayez": "puni" }
+	},
+	"infinitif": { "présent": { "punir": "" }, "passé": { "avoir": "puni" } }
+}

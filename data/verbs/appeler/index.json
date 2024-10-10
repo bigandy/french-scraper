@@ -1,0 +1,140 @@
+{
+	"name": "appeler",
+	"definition": "call; name; ...",
+	"model": "appeler",
+	"auxiliary": "avoir",
+	"otherForms": "s'appeler/ne pas appeler/ne pas s'appeler",
+	"indicatif": {
+		"présent": {
+			"j'": "appelle",
+			"tu": "appelles",
+			"il/elle": "appelle",
+			"nous": "appelons",
+			"vous": "appelez",
+			"ils/elles": "appellent"
+		},
+		"imparfait": {
+			"j'": "appelais",
+			"tu": "appelais",
+			"il/elle": "appelait",
+			"nous": "appelions",
+			"vous": "appeliez",
+			"ils/elles": "appelaient"
+		},
+		"futur": {
+			"j'": "appellerai",
+			"tu": "appelleras",
+			"il/elle": "appellera",
+			"nous": "appellerons",
+			"vous": "appellerez",
+			"ils/elles": "appelleront"
+		},
+		"passé simple": {
+			"j'": "appelai",
+			"tu": "appelas",
+			"il/elle": "appela",
+			"nous": "appelâmes",
+			"vous": "appelâtes",
+			"ils/elles": "appelèrent"
+		},
+		"passé composé": {
+			"j'": "ai appelé",
+			"tu": "as appelé",
+			"il/elle": "a appelé",
+			"nous": "avons appelé",
+			"vous": "avez appelé",
+			"ils/elles": "ont appelé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais appelé",
+			"tu": "avais appelé",
+			"il/elle": "avait appelé",
+			"nous": "avions appelé",
+			"vous": "aviez appelé",
+			"ils/elles": "avaient appelé"
+		},
+		"passé antérieur": {
+			"j'": "eus appelé",
+			"tu": "eus appelé",
+			"il/elle": "eut appelé",
+			"nous": "eûmes appelé",
+			"vous": "eûtes appelé",
+			"ils/elles": "eurent appelé"
+		},
+		"futur antérieur": {
+			"j'": "aurai appelé",
+			"tu": "auras appelé",
+			"il/elle": "aura appelé",
+			"nous": "aurons appelé",
+			"vous": "aurez appelé",
+			"ils/elles": "auront appelé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "appelle",
+			"que": "vous appeliez",
+			"qu'il/elle": "appelle",
+			"qu'ils/elles": "appellent"
+		},
+		"imparfait": {
+			"j'": "appelasse",
+			"que": "vous appelassiez",
+			"qu'il/elle": "appelât",
+			"qu'ils/elles": "appelassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse appelé",
+			"que": "vous eussiez appelé",
+			"qu'il/elle": "eût appelé",
+			"qu'ils/elles": "eussent appelé"
+		},
+		"passé": {
+			"j'": "aie appelé",
+			"que": "vous ayez appelé",
+			"qu'il/elle": "ait appelé",
+			"qu'ils/elles": "aient appelé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "appellerais",
+			"tu": "appellerais",
+			"il/elle": "appellerait",
+			"nous": "appellerions",
+			"vous": "appelleriez",
+			"ils/elles": "appelleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais appelé",
+			"tu": "aurais appelé",
+			"il/elle": "aurait appelé",
+			"nous": "aurions appelé",
+			"vous": "auriez appelé",
+			"ils/elles": "auraient appelé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse appelé",
+			"tu": "eusses appelé",
+			"il/elle": "eût appelé",
+			"nous": "eussions appelé",
+			"vous": "eussiez appelé",
+			"ils/elles": "eussent appelé"
+		}
+	},
+	"participe": {
+		"présent": { "appelant": "" },
+		"passé composé": { "ayant": "appelé" },
+		"passé": {
+			"masc.sg.:": "appelé",
+			"masc.pl.:": "appelés",
+			"fém.sg.:": "appelée",
+			"fém.pl.:": "appelées"
+		}
+	},
+	"imperatif": {
+		"présent": { "appelle": "", "appelons": "", "appelez": "" },
+		"passé": { "aie": "appelé", "ayons": "appelé", "ayez": "appelé" }
+	},
+	"infinitif": { "présent": { "appeler": "" }, "passé": { "avoir": "appelé" } }
+}

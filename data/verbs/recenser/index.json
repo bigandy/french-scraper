@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "identify; map; list; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se recenser/ne pas recenser/ne pas se recenser",
+	"indicatif": {
+		"présent": {
+			"je": "recense",
+			"tu": "recenses",
+			"il/elle": "recense",
+			"nous": "recensons",
+			"vous": "recensez",
+			"ils/elles": "recensent"
+		},
+		"imparfait": {
+			"je": "recensais",
+			"tu": "recensais",
+			"il/elle": "recensait",
+			"nous": "recensions",
+			"vous": "recensiez",
+			"ils/elles": "recensaient"
+		},
+		"futur": {
+			"je": "recenserai",
+			"tu": "recenseras",
+			"il/elle": "recensera",
+			"nous": "recenserons",
+			"vous": "recenserez",
+			"ils/elles": "recenseront"
+		},
+		"passé simple": {
+			"je": "recensai",
+			"tu": "recensas",
+			"il/elle": "recensa",
+			"nous": "recensâmes",
+			"vous": "recensâtes",
+			"ils/elles": "recensèrent"
+		},
+		"passé composé": {
+			"j'": "ai recensé",
+			"tu": "as recensé",
+			"il/elle": "a recensé",
+			"nous": "avons recensé",
+			"vous": "avez recensé",
+			"ils/elles": "ont recensé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais recensé",
+			"tu": "avais recensé",
+			"il/elle": "avait recensé",
+			"nous": "avions recensé",
+			"vous": "aviez recensé",
+			"ils/elles": "avaient recensé"
+		},
+		"passé antérieur": {
+			"j'": "eus recensé",
+			"tu": "eus recensé",
+			"il/elle": "eut recensé",
+			"nous": "eûmes recensé",
+			"vous": "eûtes recensé",
+			"ils/elles": "eurent recensé"
+		},
+		"futur antérieur": {
+			"j'": "aurai recensé",
+			"tu": "auras recensé",
+			"il/elle": "aura recensé",
+			"nous": "aurons recensé",
+			"vous": "aurez recensé",
+			"ils/elles": "auront recensé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous recensiez",
+			"qu'il/elle": "recense",
+			"qu'ils/elles": "recensent"
+		},
+		"imparfait": {
+			"que": "vous recensassiez",
+			"qu'il/elle": "recensât",
+			"qu'ils/elles": "recensassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse recensé",
+			"que": "vous eussiez recensé",
+			"qu'il/elle": "eût recensé",
+			"qu'ils/elles": "eussent recensé"
+		},
+		"passé": {
+			"j'": "aie recensé",
+			"que": "vous ayez recensé",
+			"qu'il/elle": "ait recensé",
+			"qu'ils/elles": "aient recensé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "recenserais",
+			"tu": "recenserais",
+			"il/elle": "recenserait",
+			"nous": "recenserions",
+			"vous": "recenseriez",
+			"ils/elles": "recenseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais recensé",
+			"tu": "aurais recensé",
+			"il/elle": "aurait recensé",
+			"nous": "aurions recensé",
+			"vous": "auriez recensé",
+			"ils/elles": "auraient recensé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse recensé",
+			"tu": "eusses recensé",
+			"il/elle": "eût recensé",
+			"nous": "eussions recensé",
+			"vous": "eussiez recensé",
+			"ils/elles": "eussent recensé"
+		}
+	},
+	"participe": {
+		"présent": { "recensant": "" },
+		"passé composé": { "ayant": "recensé" },
+		"passé": {
+			"masc.sg.:": "recensé",
+			"masc.pl.:": "recensés",
+			"fém.sg.:": "recensée",
+			"fém.pl.:": "recensées"
+		}
+	},
+	"imperatif": {
+		"présent": { "recense": "", "recensons": "", "recensez": "" },
+		"passé": { "aie": "recensé", "ayons": "recensé", "ayez": "recensé" }
+	},
+	"infinitif": {
+		"présent": { "recenser": "" },
+		"passé": { "avoir": "recensé" }
+	}
+}

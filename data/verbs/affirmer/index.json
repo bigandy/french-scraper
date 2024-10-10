@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "say; affirm; assert; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'affirmer/ne pas affirmer/ne pas s'affirmer",
+	"indicatif": {
+		"présent": {
+			"j'": "affirme",
+			"tu": "affirmes",
+			"il/elle": "affirme",
+			"nous": "affirmons",
+			"vous": "affirmez",
+			"ils/elles": "affirment"
+		},
+		"imparfait": {
+			"j'": "affirmais",
+			"tu": "affirmais",
+			"il/elle": "affirmait",
+			"nous": "affirmions",
+			"vous": "affirmiez",
+			"ils/elles": "affirmaient"
+		},
+		"futur": {
+			"j'": "affirmerai",
+			"tu": "affirmeras",
+			"il/elle": "affirmera",
+			"nous": "affirmerons",
+			"vous": "affirmerez",
+			"ils/elles": "affirmeront"
+		},
+		"passé simple": {
+			"j'": "affirmai",
+			"tu": "affirmas",
+			"il/elle": "affirma",
+			"nous": "affirmâmes",
+			"vous": "affirmâtes",
+			"ils/elles": "affirmèrent"
+		},
+		"passé composé": {
+			"j'": "ai affirmé",
+			"tu": "as affirmé",
+			"il/elle": "a affirmé",
+			"nous": "avons affirmé",
+			"vous": "avez affirmé",
+			"ils/elles": "ont affirmé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais affirmé",
+			"tu": "avais affirmé",
+			"il/elle": "avait affirmé",
+			"nous": "avions affirmé",
+			"vous": "aviez affirmé",
+			"ils/elles": "avaient affirmé"
+		},
+		"passé antérieur": {
+			"j'": "eus affirmé",
+			"tu": "eus affirmé",
+			"il/elle": "eut affirmé",
+			"nous": "eûmes affirmé",
+			"vous": "eûtes affirmé",
+			"ils/elles": "eurent affirmé"
+		},
+		"futur antérieur": {
+			"j'": "aurai affirmé",
+			"tu": "auras affirmé",
+			"il/elle": "aura affirmé",
+			"nous": "aurons affirmé",
+			"vous": "aurez affirmé",
+			"ils/elles": "auront affirmé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "affirme",
+			"que": "vous affirmiez",
+			"qu'il/elle": "affirme",
+			"qu'ils/elles": "affirment"
+		},
+		"imparfait": {
+			"j'": "affirmasse",
+			"que": "vous affirmassiez",
+			"qu'il/elle": "affirmât",
+			"qu'ils/elles": "affirmassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse affirmé",
+			"que": "vous eussiez affirmé",
+			"qu'il/elle": "eût affirmé",
+			"qu'ils/elles": "eussent affirmé"
+		},
+		"passé": {
+			"j'": "aie affirmé",
+			"que": "vous ayez affirmé",
+			"qu'il/elle": "ait affirmé",
+			"qu'ils/elles": "aient affirmé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "affirmerais",
+			"tu": "affirmerais",
+			"il/elle": "affirmerait",
+			"nous": "affirmerions",
+			"vous": "affirmeriez",
+			"ils/elles": "affirmeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais affirmé",
+			"tu": "aurais affirmé",
+			"il/elle": "aurait affirmé",
+			"nous": "aurions affirmé",
+			"vous": "auriez affirmé",
+			"ils/elles": "auraient affirmé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse affirmé",
+			"tu": "eusses affirmé",
+			"il/elle": "eût affirmé",
+			"nous": "eussions affirmé",
+			"vous": "eussiez affirmé",
+			"ils/elles": "eussent affirmé"
+		}
+	},
+	"participe": {
+		"présent": { "affirmant": "" },
+		"passé composé": { "ayant": "affirmé" },
+		"passé": {
+			"masc.sg.:": "affirmé",
+			"masc.pl.:": "affirmés",
+			"fém.sg.:": "affirmée",
+			"fém.pl.:": "affirmées"
+		}
+	},
+	"imperatif": {
+		"présent": { "affirme": "", "affirmons": "", "affirmez": "" },
+		"passé": { "aie": "affirmé", "ayons": "affirmé", "ayez": "affirmé" }
+	},
+	"infinitif": {
+		"présent": { "affirmer": "" },
+		"passé": { "avoir": "affirmé" }
+	}
+}

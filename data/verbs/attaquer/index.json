@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "attack; tackle; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'attaquer/ne pas attaquer/ne pas s'attaquer",
+	"indicatif": {
+		"présent": {
+			"j'": "attaque",
+			"tu": "attaques",
+			"il/elle": "attaque",
+			"nous": "attaquons",
+			"vous": "attaquez",
+			"ils/elles": "attaquent"
+		},
+		"imparfait": {
+			"j'": "attaquais",
+			"tu": "attaquais",
+			"il/elle": "attaquait",
+			"nous": "attaquions",
+			"vous": "attaquiez",
+			"ils/elles": "attaquaient"
+		},
+		"futur": {
+			"j'": "attaquerai",
+			"tu": "attaqueras",
+			"il/elle": "attaquera",
+			"nous": "attaquerons",
+			"vous": "attaquerez",
+			"ils/elles": "attaqueront"
+		},
+		"passé simple": {
+			"j'": "attaquai",
+			"tu": "attaquas",
+			"il/elle": "attaqua",
+			"nous": "attaquâmes",
+			"vous": "attaquâtes",
+			"ils/elles": "attaquèrent"
+		},
+		"passé composé": {
+			"j'": "ai attaqué",
+			"tu": "as attaqué",
+			"il/elle": "a attaqué",
+			"nous": "avons attaqué",
+			"vous": "avez attaqué",
+			"ils/elles": "ont attaqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais attaqué",
+			"tu": "avais attaqué",
+			"il/elle": "avait attaqué",
+			"nous": "avions attaqué",
+			"vous": "aviez attaqué",
+			"ils/elles": "avaient attaqué"
+		},
+		"passé antérieur": {
+			"j'": "eus attaqué",
+			"tu": "eus attaqué",
+			"il/elle": "eut attaqué",
+			"nous": "eûmes attaqué",
+			"vous": "eûtes attaqué",
+			"ils/elles": "eurent attaqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai attaqué",
+			"tu": "auras attaqué",
+			"il/elle": "aura attaqué",
+			"nous": "aurons attaqué",
+			"vous": "aurez attaqué",
+			"ils/elles": "auront attaqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "attaque",
+			"que": "vous attaquiez",
+			"qu'il/elle": "attaque",
+			"qu'ils/elles": "attaquent"
+		},
+		"imparfait": {
+			"j'": "attaquasse",
+			"que": "vous attaquassiez",
+			"qu'il/elle": "attaquât",
+			"qu'ils/elles": "attaquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse attaqué",
+			"que": "vous eussiez attaqué",
+			"qu'il/elle": "eût attaqué",
+			"qu'ils/elles": "eussent attaqué"
+		},
+		"passé": {
+			"j'": "aie attaqué",
+			"que": "vous ayez attaqué",
+			"qu'il/elle": "ait attaqué",
+			"qu'ils/elles": "aient attaqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "attaquerais",
+			"tu": "attaquerais",
+			"il/elle": "attaquerait",
+			"nous": "attaquerions",
+			"vous": "attaqueriez",
+			"ils/elles": "attaqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais attaqué",
+			"tu": "aurais attaqué",
+			"il/elle": "aurait attaqué",
+			"nous": "aurions attaqué",
+			"vous": "auriez attaqué",
+			"ils/elles": "auraient attaqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse attaqué",
+			"tu": "eusses attaqué",
+			"il/elle": "eût attaqué",
+			"nous": "eussions attaqué",
+			"vous": "eussiez attaqué",
+			"ils/elles": "eussent attaqué"
+		}
+	},
+	"participe": {
+		"présent": { "attaquant": "" },
+		"passé composé": { "ayant": "attaqué" },
+		"passé": {
+			"masc.sg.:": "attaqué",
+			"masc.pl.:": "attaqués",
+			"fém.sg.:": "attaquée",
+			"fém.pl.:": "attaquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "attaque": "", "attaquons": "", "attaquez": "" },
+		"passé": { "aie": "attaqué", "ayons": "attaqué", "ayez": "attaqué" }
+	},
+	"infinitif": {
+		"présent": { "attaquer": "" },
+		"passé": { "avoir": "attaqué" }
+	}
+}

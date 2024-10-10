@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "cause; result; talk; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se causer/ne pas causer/ne pas se causer",
+	"indicatif": {
+		"présent": {
+			"je": "cause",
+			"tu": "causes",
+			"il/elle": "cause",
+			"nous": "causons",
+			"vous": "causez",
+			"ils/elles": "causent"
+		},
+		"imparfait": {
+			"je": "causais",
+			"tu": "causais",
+			"il/elle": "causait",
+			"nous": "causions",
+			"vous": "causiez",
+			"ils/elles": "causaient"
+		},
+		"futur": {
+			"je": "causerai",
+			"tu": "causeras",
+			"il/elle": "causera",
+			"nous": "causerons",
+			"vous": "causerez",
+			"ils/elles": "causeront"
+		},
+		"passé simple": {
+			"je": "causai",
+			"tu": "causas",
+			"il/elle": "causa",
+			"nous": "causâmes",
+			"vous": "causâtes",
+			"ils/elles": "causèrent"
+		},
+		"passé composé": {
+			"j'": "ai causé",
+			"tu": "as causé",
+			"il/elle": "a causé",
+			"nous": "avons causé",
+			"vous": "avez causé",
+			"ils/elles": "ont causé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais causé",
+			"tu": "avais causé",
+			"il/elle": "avait causé",
+			"nous": "avions causé",
+			"vous": "aviez causé",
+			"ils/elles": "avaient causé"
+		},
+		"passé antérieur": {
+			"j'": "eus causé",
+			"tu": "eus causé",
+			"il/elle": "eut causé",
+			"nous": "eûmes causé",
+			"vous": "eûtes causé",
+			"ils/elles": "eurent causé"
+		},
+		"futur antérieur": {
+			"j'": "aurai causé",
+			"tu": "auras causé",
+			"il/elle": "aura causé",
+			"nous": "aurons causé",
+			"vous": "aurez causé",
+			"ils/elles": "auront causé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous causiez",
+			"qu'il/elle": "cause",
+			"qu'ils/elles": "causent"
+		},
+		"imparfait": {
+			"que": "vous causassiez",
+			"qu'il/elle": "causât",
+			"qu'ils/elles": "causassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse causé",
+			"que": "vous eussiez causé",
+			"qu'il/elle": "eût causé",
+			"qu'ils/elles": "eussent causé"
+		},
+		"passé": {
+			"j'": "aie causé",
+			"que": "vous ayez causé",
+			"qu'il/elle": "ait causé",
+			"qu'ils/elles": "aient causé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "causerais",
+			"tu": "causerais",
+			"il/elle": "causerait",
+			"nous": "causerions",
+			"vous": "causeriez",
+			"ils/elles": "causeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais causé",
+			"tu": "aurais causé",
+			"il/elle": "aurait causé",
+			"nous": "aurions causé",
+			"vous": "auriez causé",
+			"ils/elles": "auraient causé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse causé",
+			"tu": "eusses causé",
+			"il/elle": "eût causé",
+			"nous": "eussions causé",
+			"vous": "eussiez causé",
+			"ils/elles": "eussent causé"
+		}
+	},
+	"participe": {
+		"présent": { "causant": "" },
+		"passé composé": { "ayant": "causé" },
+		"passé": {
+			"masc.sg.:": "causé",
+			"masc.pl.:": "causés",
+			"fém.sg.:": "causée",
+			"fém.pl.:": "causées"
+		}
+	},
+	"imperatif": {
+		"présent": { "cause": "", "causons": "", "causez": "" },
+		"passé": { "aie": "causé", "ayons": "causé", "ayez": "causé" }
+	},
+	"infinitif": { "présent": { "causer": "" }, "passé": { "avoir": "causé" } }
+}

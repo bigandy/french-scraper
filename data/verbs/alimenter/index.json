@@ -1,0 +1,149 @@
+{
+	"name": "marcher",
+	"definition": "undernourish; underfeed; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se sous-alimenter/ne pas sous-alimenter/ne pas se sous-alimenter",
+	"indicatif": {
+		"présent": {
+			"je": "sous-alimente",
+			"tu": "sous-alimentes",
+			"il/elle": "sous-alimente",
+			"nous": "sous-alimentons",
+			"vous": "sous-alimentez",
+			"ils/elles": "sous-alimentent"
+		},
+		"imparfait": {
+			"je": "sous-alimentais",
+			"tu": "sous-alimentais",
+			"il/elle": "sous-alimentait",
+			"nous": "sous-alimentions",
+			"vous": "sous-alimentiez",
+			"ils/elles": "sous-alimentaient"
+		},
+		"futur": {
+			"je": "sous-alimenterai",
+			"tu": "sous-alimenteras",
+			"il/elle": "sous-alimentera",
+			"nous": "sous-alimenterons",
+			"vous": "sous-alimenterez",
+			"ils/elles": "sous-alimenteront"
+		},
+		"passé simple": {
+			"je": "sous-alimentai",
+			"tu": "sous-alimentas",
+			"il/elle": "sous-alimenta",
+			"nous": "sous-alimentâmes",
+			"vous": "sous-alimentâtes",
+			"ils/elles": "sous-alimentèrent"
+		},
+		"passé composé": {
+			"j'": "ai sous-alimenté",
+			"tu": "as sous-alimenté",
+			"il/elle": "a sous-alimenté",
+			"nous": "avons sous-alimenté",
+			"vous": "avez sous-alimenté",
+			"ils/elles": "ont sous-alimenté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais sous-alimenté",
+			"tu": "avais sous-alimenté",
+			"il/elle": "avait sous-alimenté",
+			"nous": "avions sous-alimenté",
+			"vous": "aviez sous-alimenté",
+			"ils/elles": "avaient sous-alimenté"
+		},
+		"passé antérieur": {
+			"j'": "eus sous-alimenté",
+			"tu": "eus sous-alimenté",
+			"il/elle": "eut sous-alimenté",
+			"nous": "eûmes sous-alimenté",
+			"vous": "eûtes sous-alimenté",
+			"ils/elles": "eurent sous-alimenté"
+		},
+		"futur antérieur": {
+			"j'": "aurai sous-alimenté",
+			"tu": "auras sous-alimenté",
+			"il/elle": "aura sous-alimenté",
+			"nous": "aurons sous-alimenté",
+			"vous": "aurez sous-alimenté",
+			"ils/elles": "auront sous-alimenté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous sous-alimentiez",
+			"qu'il/elle": "sous-alimente",
+			"qu'ils/elles": "sous-alimentent"
+		},
+		"imparfait": {
+			"que": "vous sous-alimentassiez",
+			"qu'il/elle": "sous-alimentât",
+			"qu'ils/elles": "sous-alimentassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse sous-alimenté",
+			"que": "vous eussiez sous-alimenté",
+			"qu'il/elle": "eût sous-alimenté",
+			"qu'ils/elles": "eussent sous-alimenté"
+		},
+		"passé": {
+			"j'": "aie sous-alimenté",
+			"que": "vous ayez sous-alimenté",
+			"qu'il/elle": "ait sous-alimenté",
+			"qu'ils/elles": "aient sous-alimenté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "sous-alimenterais",
+			"tu": "sous-alimenterais",
+			"il/elle": "sous-alimenterait",
+			"nous": "sous-alimenterions",
+			"vous": "sous-alimenteriez",
+			"ils/elles": "sous-alimenteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais sous-alimenté",
+			"tu": "aurais sous-alimenté",
+			"il/elle": "aurait sous-alimenté",
+			"nous": "aurions sous-alimenté",
+			"vous": "auriez sous-alimenté",
+			"ils/elles": "auraient sous-alimenté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse sous-alimenté",
+			"tu": "eusses sous-alimenté",
+			"il/elle": "eût sous-alimenté",
+			"nous": "eussions sous-alimenté",
+			"vous": "eussiez sous-alimenté",
+			"ils/elles": "eussent sous-alimenté"
+		}
+	},
+	"participe": {
+		"présent": { "sous-alimentant": "" },
+		"passé composé": { "ayant": "sous-alimenté" },
+		"passé": {
+			"masc.sg.:": "sous-alimenté",
+			"masc.pl.:": "sous-alimentés",
+			"fém.sg.:": "sous-alimentée",
+			"fém.pl.:": "sous-alimentées"
+		}
+	},
+	"imperatif": {
+		"présent": {
+			"sous-alimente": "",
+			"sous-alimentons": "",
+			"sous-alimentez": ""
+		},
+		"passé": {
+			"aie": "sous-alimenté",
+			"ayons": "sous-alimenté",
+			"ayez": "sous-alimenté"
+		}
+	},
+	"infinitif": {
+		"présent": { "sous-alimenter": "" },
+		"passé": { "avoir": "sous-alimenté" }
+	}
+}

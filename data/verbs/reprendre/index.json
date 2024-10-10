@@ -1,0 +1,141 @@
+{
+	"name": "prendre",
+	"definition": "resume; take over; regain; ...",
+	"model": "prendre",
+	"auxiliary": "avoir",
+	"otherForms": "se reprendre/ne pas reprendre/ne pas se reprendre",
+	"indicatif": {
+		"présent": {
+			"je": "reprends",
+			"tu": "reprends",
+			"il/elle": "reprend",
+			"nous": "reprenons",
+			"vous": "reprenez",
+			"ils/elles": "reprennent"
+		},
+		"imparfait": {
+			"je": "reprenais",
+			"tu": "reprenais",
+			"il/elle": "reprenait",
+			"nous": "reprenions",
+			"vous": "repreniez",
+			"ils/elles": "reprenaient"
+		},
+		"futur": {
+			"je": "reprendrai",
+			"tu": "reprendras",
+			"il/elle": "reprendra",
+			"nous": "reprendrons",
+			"vous": "reprendrez",
+			"ils/elles": "reprendront"
+		},
+		"passé simple": {
+			"je": "repris",
+			"tu": "repris",
+			"il/elle": "reprit",
+			"nous": "reprîmes",
+			"vous": "reprîtes",
+			"ils/elles": "reprirent"
+		},
+		"passé composé": {
+			"j'": "ai repris",
+			"tu": "as repris",
+			"il/elle": "a repris",
+			"nous": "avons repris",
+			"vous": "avez repris",
+			"ils/elles": "ont repris"
+		},
+		"plus-que-parfait": {
+			"j'": "avais repris",
+			"tu": "avais repris",
+			"il/elle": "avait repris",
+			"nous": "avions repris",
+			"vous": "aviez repris",
+			"ils/elles": "avaient repris"
+		},
+		"passé antérieur": {
+			"j'": "eus repris",
+			"tu": "eus repris",
+			"il/elle": "eut repris",
+			"nous": "eûmes repris",
+			"vous": "eûtes repris",
+			"ils/elles": "eurent repris"
+		},
+		"futur antérieur": {
+			"j'": "aurai repris",
+			"tu": "auras repris",
+			"il/elle": "aura repris",
+			"nous": "aurons repris",
+			"vous": "aurez repris",
+			"ils/elles": "auront repris"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous repreniez",
+			"qu'il/elle": "reprenne",
+			"qu'ils/elles": "reprennent"
+		},
+		"imparfait": {
+			"que": "vous reprissiez",
+			"qu'il/elle": "reprît",
+			"qu'ils/elles": "reprissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse repris",
+			"que": "vous eussiez repris",
+			"qu'il/elle": "eût repris",
+			"qu'ils/elles": "eussent repris"
+		},
+		"passé": {
+			"j'": "aie repris",
+			"que": "vous ayez repris",
+			"qu'il/elle": "ait repris",
+			"qu'ils/elles": "aient repris"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "reprendrais",
+			"tu": "reprendrais",
+			"il/elle": "reprendrait",
+			"nous": "reprendrions",
+			"vous": "reprendriez",
+			"ils/elles": "reprendraient"
+		},
+		"passé première forme": {
+			"j'": "aurais repris",
+			"tu": "aurais repris",
+			"il/elle": "aurait repris",
+			"nous": "aurions repris",
+			"vous": "auriez repris",
+			"ils/elles": "auraient repris"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse repris",
+			"tu": "eusses repris",
+			"il/elle": "eût repris",
+			"nous": "eussions repris",
+			"vous": "eussiez repris",
+			"ils/elles": "eussent repris"
+		}
+	},
+	"participe": {
+		"présent": { "reprenant": "" },
+		"passé composé": { "ayant": "repris" },
+		"passé": {
+			"masc.sg.:": "repris",
+			"masc.pl.:": "repris",
+			"fém.sg.:": "reprise",
+			"fém.pl.:": "reprises"
+		}
+	},
+	"imperatif": {
+		"présent": { "reprends": "", "reprenons": "", "reprenez": "" },
+		"passé": { "aie": "repris", "ayons": "repris", "ayez": "repris" }
+	},
+	"infinitif": {
+		"présent": { "reprendre": "" },
+		"passé": { "avoir": "repris" }
+	}
+}

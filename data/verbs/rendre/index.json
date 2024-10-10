@@ -1,0 +1,138 @@
+{
+	"name": "attendre",
+	"definition": "make; give back; return; ...",
+	"model": "attendre",
+	"auxiliary": "avoir",
+	"otherForms": "se rendre/ne pas rendre/ne pas se rendre",
+	"indicatif": {
+		"présent": {
+			"je": "rends",
+			"tu": "rends",
+			"il/elle": "rend",
+			"nous": "rendons",
+			"vous": "rendez",
+			"ils/elles": "rendent"
+		},
+		"imparfait": {
+			"je": "rendais",
+			"tu": "rendais",
+			"il/elle": "rendait",
+			"nous": "rendions",
+			"vous": "rendiez",
+			"ils/elles": "rendaient"
+		},
+		"futur": {
+			"je": "rendrai",
+			"tu": "rendras",
+			"il/elle": "rendra",
+			"nous": "rendrons",
+			"vous": "rendrez",
+			"ils/elles": "rendront"
+		},
+		"passé simple": {
+			"je": "rendis",
+			"tu": "rendis",
+			"il/elle": "rendit",
+			"nous": "rendîmes",
+			"vous": "rendîtes",
+			"ils/elles": "rendirent"
+		},
+		"passé composé": {
+			"j'": "ai rendu",
+			"tu": "as rendu",
+			"il/elle": "a rendu",
+			"nous": "avons rendu",
+			"vous": "avez rendu",
+			"ils/elles": "ont rendu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais rendu",
+			"tu": "avais rendu",
+			"il/elle": "avait rendu",
+			"nous": "avions rendu",
+			"vous": "aviez rendu",
+			"ils/elles": "avaient rendu"
+		},
+		"passé antérieur": {
+			"j'": "eus rendu",
+			"tu": "eus rendu",
+			"il/elle": "eut rendu",
+			"nous": "eûmes rendu",
+			"vous": "eûtes rendu",
+			"ils/elles": "eurent rendu"
+		},
+		"futur antérieur": {
+			"j'": "aurai rendu",
+			"tu": "auras rendu",
+			"il/elle": "aura rendu",
+			"nous": "aurons rendu",
+			"vous": "aurez rendu",
+			"ils/elles": "auront rendu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous rendiez",
+			"qu'il/elle": "rende",
+			"qu'ils/elles": "rendent"
+		},
+		"imparfait": {
+			"que": "vous rendissiez",
+			"qu'il/elle": "rendît",
+			"qu'ils/elles": "rendissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse rendu",
+			"que": "vous eussiez rendu",
+			"qu'il/elle": "eût rendu",
+			"qu'ils/elles": "eussent rendu"
+		},
+		"passé": {
+			"j'": "aie rendu",
+			"que": "vous ayez rendu",
+			"qu'il/elle": "ait rendu",
+			"qu'ils/elles": "aient rendu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "rendrais",
+			"tu": "rendrais",
+			"il/elle": "rendrait",
+			"nous": "rendrions",
+			"vous": "rendriez",
+			"ils/elles": "rendraient"
+		},
+		"passé première forme": {
+			"j'": "aurais rendu",
+			"tu": "aurais rendu",
+			"il/elle": "aurait rendu",
+			"nous": "aurions rendu",
+			"vous": "auriez rendu",
+			"ils/elles": "auraient rendu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse rendu",
+			"tu": "eusses rendu",
+			"il/elle": "eût rendu",
+			"nous": "eussions rendu",
+			"vous": "eussiez rendu",
+			"ils/elles": "eussent rendu"
+		}
+	},
+	"participe": {
+		"présent": { "rendant": "" },
+		"passé composé": { "ayant": "rendu" },
+		"passé": {
+			"masc.sg.:": "rendu",
+			"masc.pl.:": "rendus",
+			"fém.sg.:": "rendue",
+			"fém.pl.:": "rendues"
+		}
+	},
+	"imperatif": {
+		"présent": { "rends": "", "rendons": "", "rendez": "" },
+		"passé": { "aie": "rendu", "ayons": "rendu", "ayez": "rendu" }
+	},
+	"infinitif": { "présent": { "rendre": "" }, "passé": { "avoir": "rendu" } }
+}

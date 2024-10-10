@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "advance; progress; make progress; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas progresser",
+	"indicatif": {
+		"présent": {
+			"je": "progresse",
+			"tu": "progresses",
+			"il/elle": "progresse",
+			"nous": "progressons",
+			"vous": "progressez",
+			"ils/elles": "progressent"
+		},
+		"imparfait": {
+			"je": "progressais",
+			"tu": "progressais",
+			"il/elle": "progressait",
+			"nous": "progressions",
+			"vous": "progressiez",
+			"ils/elles": "progressaient"
+		},
+		"futur": {
+			"je": "progresserai",
+			"tu": "progresseras",
+			"il/elle": "progressera",
+			"nous": "progresserons",
+			"vous": "progresserez",
+			"ils/elles": "progresseront"
+		},
+		"passé simple": {
+			"je": "progressai",
+			"tu": "progressas",
+			"il/elle": "progressa",
+			"nous": "progressâmes",
+			"vous": "progressâtes",
+			"ils/elles": "progressèrent"
+		},
+		"passé composé": {
+			"j'": "ai progressé",
+			"tu": "as progressé",
+			"il/elle": "a progressé",
+			"nous": "avons progressé",
+			"vous": "avez progressé",
+			"ils/elles": "ont progressé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais progressé",
+			"tu": "avais progressé",
+			"il/elle": "avait progressé",
+			"nous": "avions progressé",
+			"vous": "aviez progressé",
+			"ils/elles": "avaient progressé"
+		},
+		"passé antérieur": {
+			"j'": "eus progressé",
+			"tu": "eus progressé",
+			"il/elle": "eut progressé",
+			"nous": "eûmes progressé",
+			"vous": "eûtes progressé",
+			"ils/elles": "eurent progressé"
+		},
+		"futur antérieur": {
+			"j'": "aurai progressé",
+			"tu": "auras progressé",
+			"il/elle": "aura progressé",
+			"nous": "aurons progressé",
+			"vous": "aurez progressé",
+			"ils/elles": "auront progressé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous progressiez",
+			"qu'il/elle": "progresse",
+			"qu'ils/elles": "progressent"
+		},
+		"imparfait": {
+			"que": "vous progressassiez",
+			"qu'il/elle": "progressât",
+			"qu'ils/elles": "progressassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse progressé",
+			"que": "vous eussiez progressé",
+			"qu'il/elle": "eût progressé",
+			"qu'ils/elles": "eussent progressé"
+		},
+		"passé": {
+			"j'": "aie progressé",
+			"que": "vous ayez progressé",
+			"qu'il/elle": "ait progressé",
+			"qu'ils/elles": "aient progressé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "progresserais",
+			"tu": "progresserais",
+			"il/elle": "progresserait",
+			"nous": "progresserions",
+			"vous": "progresseriez",
+			"ils/elles": "progresseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais progressé",
+			"tu": "aurais progressé",
+			"il/elle": "aurait progressé",
+			"nous": "aurions progressé",
+			"vous": "auriez progressé",
+			"ils/elles": "auraient progressé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse progressé",
+			"tu": "eusses progressé",
+			"il/elle": "eût progressé",
+			"nous": "eussions progressé",
+			"vous": "eussiez progressé",
+			"ils/elles": "eussent progressé"
+		}
+	},
+	"participe": {
+		"présent": { "progressant": "" },
+		"passé composé": { "ayant": "progressé" },
+		"passé": {
+			"masc.sg.:": "progressé",
+			"masc.pl.:": "progressés",
+			"fém.sg.:": "progressée",
+			"fém.pl.:": "progressées"
+		}
+	},
+	"imperatif": {
+		"présent": { "progresse": "", "progressons": "", "progressez": "" },
+		"passé": { "aie": "progressé", "ayons": "progressé", "ayez": "progressé" }
+	},
+	"infinitif": {
+		"présent": { "progresser": "" },
+		"passé": { "avoir": "progressé" }
+	}
+}

@@ -1,0 +1,138 @@
+{
+	"name": "régler",
+	"definition": "resolve; address; adjust; ...",
+	"model": "régler",
+	"auxiliary": "avoir",
+	"otherForms": "se régler/ne pas régler/ne pas se régler",
+	"indicatif": {
+		"présent": {
+			"je": "règle",
+			"tu": "règles",
+			"il/elle": "règle",
+			"nous": "réglons",
+			"vous": "réglez",
+			"ils/elles": "règlent"
+		},
+		"imparfait": {
+			"je": "réglais",
+			"tu": "réglais",
+			"il/elle": "réglait",
+			"nous": "réglions",
+			"vous": "régliez",
+			"ils/elles": "réglaient"
+		},
+		"futur": {
+			"je": "réglerai",
+			"tu": "régleras",
+			"il/elle": "réglera",
+			"nous": "réglerons",
+			"vous": "réglerez",
+			"ils/elles": "régleront"
+		},
+		"passé simple": {
+			"je": "réglai",
+			"tu": "réglas",
+			"il/elle": "régla",
+			"nous": "réglâmes",
+			"vous": "réglâtes",
+			"ils/elles": "réglèrent"
+		},
+		"passé composé": {
+			"j'": "ai réglé",
+			"tu": "as réglé",
+			"il/elle": "a réglé",
+			"nous": "avons réglé",
+			"vous": "avez réglé",
+			"ils/elles": "ont réglé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais réglé",
+			"tu": "avais réglé",
+			"il/elle": "avait réglé",
+			"nous": "avions réglé",
+			"vous": "aviez réglé",
+			"ils/elles": "avaient réglé"
+		},
+		"passé antérieur": {
+			"j'": "eus réglé",
+			"tu": "eus réglé",
+			"il/elle": "eut réglé",
+			"nous": "eûmes réglé",
+			"vous": "eûtes réglé",
+			"ils/elles": "eurent réglé"
+		},
+		"futur antérieur": {
+			"j'": "aurai réglé",
+			"tu": "auras réglé",
+			"il/elle": "aura réglé",
+			"nous": "aurons réglé",
+			"vous": "aurez réglé",
+			"ils/elles": "auront réglé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous régliez",
+			"qu'il/elle": "règle",
+			"qu'ils/elles": "règlent"
+		},
+		"imparfait": {
+			"que": "vous réglassiez",
+			"qu'il/elle": "réglât",
+			"qu'ils/elles": "réglassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse réglé",
+			"que": "vous eussiez réglé",
+			"qu'il/elle": "eût réglé",
+			"qu'ils/elles": "eussent réglé"
+		},
+		"passé": {
+			"j'": "aie réglé",
+			"que": "vous ayez réglé",
+			"qu'il/elle": "ait réglé",
+			"qu'ils/elles": "aient réglé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "réglerais",
+			"tu": "réglerais",
+			"il/elle": "réglerait",
+			"nous": "réglerions",
+			"vous": "régleriez",
+			"ils/elles": "régleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais réglé",
+			"tu": "aurais réglé",
+			"il/elle": "aurait réglé",
+			"nous": "aurions réglé",
+			"vous": "auriez réglé",
+			"ils/elles": "auraient réglé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse réglé",
+			"tu": "eusses réglé",
+			"il/elle": "eût réglé",
+			"nous": "eussions réglé",
+			"vous": "eussiez réglé",
+			"ils/elles": "eussent réglé"
+		}
+	},
+	"participe": {
+		"présent": { "réglant": "" },
+		"passé composé": { "ayant": "réglé" },
+		"passé": {
+			"masc.sg.:": "réglé",
+			"masc.pl.:": "réglés",
+			"fém.sg.:": "réglée",
+			"fém.pl.:": "réglées"
+		}
+	},
+	"imperatif": {
+		"présent": { "règle": "", "réglons": "", "réglez": "" },
+		"passé": { "aie": "réglé", "ayons": "réglé", "ayez": "réglé" }
+	},
+	"infinitif": { "présent": { "régler": "" }, "passé": { "avoir": "réglé" } }
+}

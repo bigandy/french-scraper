@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "decode; decrypt; decipher; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se décoder/ne pas décoder/ne pas se décoder",
+	"indicatif": {
+		"présent": {
+			"je": "décode",
+			"tu": "décodes",
+			"il/elle": "décode",
+			"nous": "décodons",
+			"vous": "décodez",
+			"ils/elles": "décodent"
+		},
+		"imparfait": {
+			"je": "décodais",
+			"tu": "décodais",
+			"il/elle": "décodait",
+			"nous": "décodions",
+			"vous": "décodiez",
+			"ils/elles": "décodaient"
+		},
+		"futur": {
+			"je": "décoderai",
+			"tu": "décoderas",
+			"il/elle": "décodera",
+			"nous": "décoderons",
+			"vous": "décoderez",
+			"ils/elles": "décoderont"
+		},
+		"passé simple": {
+			"je": "décodai",
+			"tu": "décodas",
+			"il/elle": "décoda",
+			"nous": "décodâmes",
+			"vous": "décodâtes",
+			"ils/elles": "décodèrent"
+		},
+		"passé composé": {
+			"j'": "ai décodé",
+			"tu": "as décodé",
+			"il/elle": "a décodé",
+			"nous": "avons décodé",
+			"vous": "avez décodé",
+			"ils/elles": "ont décodé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais décodé",
+			"tu": "avais décodé",
+			"il/elle": "avait décodé",
+			"nous": "avions décodé",
+			"vous": "aviez décodé",
+			"ils/elles": "avaient décodé"
+		},
+		"passé antérieur": {
+			"j'": "eus décodé",
+			"tu": "eus décodé",
+			"il/elle": "eut décodé",
+			"nous": "eûmes décodé",
+			"vous": "eûtes décodé",
+			"ils/elles": "eurent décodé"
+		},
+		"futur antérieur": {
+			"j'": "aurai décodé",
+			"tu": "auras décodé",
+			"il/elle": "aura décodé",
+			"nous": "aurons décodé",
+			"vous": "aurez décodé",
+			"ils/elles": "auront décodé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous décodiez",
+			"qu'il/elle": "décode",
+			"qu'ils/elles": "décodent"
+		},
+		"imparfait": {
+			"que": "vous décodassiez",
+			"qu'il/elle": "décodât",
+			"qu'ils/elles": "décodassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse décodé",
+			"que": "vous eussiez décodé",
+			"qu'il/elle": "eût décodé",
+			"qu'ils/elles": "eussent décodé"
+		},
+		"passé": {
+			"j'": "aie décodé",
+			"que": "vous ayez décodé",
+			"qu'il/elle": "ait décodé",
+			"qu'ils/elles": "aient décodé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "décoderais",
+			"tu": "décoderais",
+			"il/elle": "décoderait",
+			"nous": "décoderions",
+			"vous": "décoderiez",
+			"ils/elles": "décoderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais décodé",
+			"tu": "aurais décodé",
+			"il/elle": "aurait décodé",
+			"nous": "aurions décodé",
+			"vous": "auriez décodé",
+			"ils/elles": "auraient décodé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse décodé",
+			"tu": "eusses décodé",
+			"il/elle": "eût décodé",
+			"nous": "eussions décodé",
+			"vous": "eussiez décodé",
+			"ils/elles": "eussent décodé"
+		}
+	},
+	"participe": {
+		"présent": { "décodant": "" },
+		"passé composé": { "ayant": "décodé" },
+		"passé": {
+			"masc.sg.:": "décodé",
+			"masc.pl.:": "décodés",
+			"fém.sg.:": "décodée",
+			"fém.pl.:": "décodées"
+		}
+	},
+	"imperatif": {
+		"présent": { "décode": "", "décodons": "", "décodez": "" },
+		"passé": { "aie": "décodé", "ayons": "décodé", "ayez": "décodé" }
+	},
+	"infinitif": { "présent": { "décoder": "" }, "passé": { "avoir": "décodé" } }
+}

@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "oppose; object; resist; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'opposer/ne pas opposer/ne pas s'opposer",
+	"indicatif": {
+		"présent": {
+			"j'": "oppose",
+			"tu": "opposes",
+			"il/elle": "oppose",
+			"nous": "opposons",
+			"vous": "opposez",
+			"ils/elles": "opposent"
+		},
+		"imparfait": {
+			"j'": "opposais",
+			"tu": "opposais",
+			"il/elle": "opposait",
+			"nous": "opposions",
+			"vous": "opposiez",
+			"ils/elles": "opposaient"
+		},
+		"futur": {
+			"j'": "opposerai",
+			"tu": "opposeras",
+			"il/elle": "opposera",
+			"nous": "opposerons",
+			"vous": "opposerez",
+			"ils/elles": "opposeront"
+		},
+		"passé simple": {
+			"j'": "opposai",
+			"tu": "opposas",
+			"il/elle": "opposa",
+			"nous": "opposâmes",
+			"vous": "opposâtes",
+			"ils/elles": "opposèrent"
+		},
+		"passé composé": {
+			"j'": "ai opposé",
+			"tu": "as opposé",
+			"il/elle": "a opposé",
+			"nous": "avons opposé",
+			"vous": "avez opposé",
+			"ils/elles": "ont opposé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais opposé",
+			"tu": "avais opposé",
+			"il/elle": "avait opposé",
+			"nous": "avions opposé",
+			"vous": "aviez opposé",
+			"ils/elles": "avaient opposé"
+		},
+		"passé antérieur": {
+			"j'": "eus opposé",
+			"tu": "eus opposé",
+			"il/elle": "eut opposé",
+			"nous": "eûmes opposé",
+			"vous": "eûtes opposé",
+			"ils/elles": "eurent opposé"
+		},
+		"futur antérieur": {
+			"j'": "aurai opposé",
+			"tu": "auras opposé",
+			"il/elle": "aura opposé",
+			"nous": "aurons opposé",
+			"vous": "aurez opposé",
+			"ils/elles": "auront opposé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "oppose",
+			"que": "vous opposiez",
+			"qu'il/elle": "oppose",
+			"qu'ils/elles": "opposent"
+		},
+		"imparfait": {
+			"j'": "opposasse",
+			"que": "vous opposassiez",
+			"qu'il/elle": "opposât",
+			"qu'ils/elles": "opposassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse opposé",
+			"que": "vous eussiez opposé",
+			"qu'il/elle": "eût opposé",
+			"qu'ils/elles": "eussent opposé"
+		},
+		"passé": {
+			"j'": "aie opposé",
+			"que": "vous ayez opposé",
+			"qu'il/elle": "ait opposé",
+			"qu'ils/elles": "aient opposé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "opposerais",
+			"tu": "opposerais",
+			"il/elle": "opposerait",
+			"nous": "opposerions",
+			"vous": "opposeriez",
+			"ils/elles": "opposeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais opposé",
+			"tu": "aurais opposé",
+			"il/elle": "aurait opposé",
+			"nous": "aurions opposé",
+			"vous": "auriez opposé",
+			"ils/elles": "auraient opposé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse opposé",
+			"tu": "eusses opposé",
+			"il/elle": "eût opposé",
+			"nous": "eussions opposé",
+			"vous": "eussiez opposé",
+			"ils/elles": "eussent opposé"
+		}
+	},
+	"participe": {
+		"présent": { "opposant": "" },
+		"passé composé": { "ayant": "opposé" },
+		"passé": {
+			"masc.sg.:": "opposé",
+			"masc.pl.:": "opposés",
+			"fém.sg.:": "opposée",
+			"fém.pl.:": "opposées"
+		}
+	},
+	"imperatif": {
+		"présent": { "oppose": "", "opposons": "", "opposez": "" },
+		"passé": { "aie": "opposé", "ayons": "opposé", "ayez": "opposé" }
+	},
+	"infinitif": { "présent": { "opposer": "" }, "passé": { "avoir": "opposé" } }
+}

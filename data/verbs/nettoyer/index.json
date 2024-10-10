@@ -1,0 +1,141 @@
+{
+	"name": "balayer",
+	"definition": "clean; clean up; cleanse; ...",
+	"model": "balayer",
+	"auxiliary": "avoir",
+	"otherForms": "se nettoyer/ne pas nettoyer/ne pas se nettoyer",
+	"indicatif": {
+		"présent": {
+			"je": "nettoie",
+			"tu": "nettoies",
+			"il/elle": "nettoie",
+			"nous": "nettoyons",
+			"vous": "nettoyez",
+			"ils/elles": "nettoient"
+		},
+		"imparfait": {
+			"je": "nettoyais",
+			"tu": "nettoyais",
+			"il/elle": "nettoyait",
+			"nous": "nettoyions",
+			"vous": "nettoyiez",
+			"ils/elles": "nettoyaient"
+		},
+		"futur": {
+			"je": "nettoierai",
+			"tu": "nettoieras",
+			"il/elle": "nettoiera",
+			"nous": "nettoierons",
+			"vous": "nettoierez",
+			"ils/elles": "nettoieront"
+		},
+		"passé simple": {
+			"je": "nettoyai",
+			"tu": "nettoyas",
+			"il/elle": "nettoya",
+			"nous": "nettoyâmes",
+			"vous": "nettoyâtes",
+			"ils/elles": "nettoyèrent"
+		},
+		"passé composé": {
+			"j'": "ai nettoyé",
+			"tu": "as nettoyé",
+			"il/elle": "a nettoyé",
+			"nous": "avons nettoyé",
+			"vous": "avez nettoyé",
+			"ils/elles": "ont nettoyé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais nettoyé",
+			"tu": "avais nettoyé",
+			"il/elle": "avait nettoyé",
+			"nous": "avions nettoyé",
+			"vous": "aviez nettoyé",
+			"ils/elles": "avaient nettoyé"
+		},
+		"passé antérieur": {
+			"j'": "eus nettoyé",
+			"tu": "eus nettoyé",
+			"il/elle": "eut nettoyé",
+			"nous": "eûmes nettoyé",
+			"vous": "eûtes nettoyé",
+			"ils/elles": "eurent nettoyé"
+		},
+		"futur antérieur": {
+			"j'": "aurai nettoyé",
+			"tu": "auras nettoyé",
+			"il/elle": "aura nettoyé",
+			"nous": "aurons nettoyé",
+			"vous": "aurez nettoyé",
+			"ils/elles": "auront nettoyé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous nettoyiez",
+			"qu'il/elle": "nettoie",
+			"qu'ils/elles": "nettoient"
+		},
+		"imparfait": {
+			"que": "vous nettoyassiez",
+			"qu'il/elle": "nettoyât",
+			"qu'ils/elles": "nettoyassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse nettoyé",
+			"que": "vous eussiez nettoyé",
+			"qu'il/elle": "eût nettoyé",
+			"qu'ils/elles": "eussent nettoyé"
+		},
+		"passé": {
+			"j'": "aie nettoyé",
+			"que": "vous ayez nettoyé",
+			"qu'il/elle": "ait nettoyé",
+			"qu'ils/elles": "aient nettoyé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "nettoierais",
+			"tu": "nettoierais",
+			"il/elle": "nettoierait",
+			"nous": "nettoierions",
+			"vous": "nettoieriez",
+			"ils/elles": "nettoieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais nettoyé",
+			"tu": "aurais nettoyé",
+			"il/elle": "aurait nettoyé",
+			"nous": "aurions nettoyé",
+			"vous": "auriez nettoyé",
+			"ils/elles": "auraient nettoyé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse nettoyé",
+			"tu": "eusses nettoyé",
+			"il/elle": "eût nettoyé",
+			"nous": "eussions nettoyé",
+			"vous": "eussiez nettoyé",
+			"ils/elles": "eussent nettoyé"
+		}
+	},
+	"participe": {
+		"présent": { "nettoyant": "" },
+		"passé composé": { "ayant": "nettoyé" },
+		"passé": {
+			"masc.sg.:": "nettoyé",
+			"masc.pl.:": "nettoyés",
+			"fém.sg.:": "nettoyée",
+			"fém.pl.:": "nettoyées"
+		}
+	},
+	"imperatif": {
+		"présent": { "nettoie": "", "nettoyons": "", "nettoyez": "" },
+		"passé": { "aie": "nettoyé", "ayons": "nettoyé", "ayez": "nettoyé" }
+	},
+	"infinitif": {
+		"présent": { "nettoyer": "" },
+		"passé": { "avoir": "nettoyé" }
+	}
+}

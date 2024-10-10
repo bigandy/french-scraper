@@ -1,0 +1,138 @@
+{
+	"name": "finir",
+	"definition": "",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas clatir",
+	"indicatif": {
+		"présent": {
+			"je": "clatis",
+			"tu": "clatis",
+			"il/elle": "clatit",
+			"nous": "clatissons",
+			"vous": "clatissez",
+			"ils/elles": "clatissent"
+		},
+		"imparfait": {
+			"je": "clatissais",
+			"tu": "clatissais",
+			"il/elle": "clatissait",
+			"nous": "clatissions",
+			"vous": "clatissiez",
+			"ils/elles": "clatissaient"
+		},
+		"futur": {
+			"je": "clatirai",
+			"tu": "clatiras",
+			"il/elle": "clatira",
+			"nous": "clatirons",
+			"vous": "clatirez",
+			"ils/elles": "clatiront"
+		},
+		"passé simple": {
+			"je": "clatis",
+			"tu": "clatis",
+			"il/elle": "clatit",
+			"nous": "clatîmes",
+			"vous": "clatîtes",
+			"ils/elles": "clatirent"
+		},
+		"passé composé": {
+			"j'": "ai clati",
+			"tu": "as clati",
+			"il/elle": "a clati",
+			"nous": "avons clati",
+			"vous": "avez clati",
+			"ils/elles": "ont clati"
+		},
+		"plus-que-parfait": {
+			"j'": "avais clati",
+			"tu": "avais clati",
+			"il/elle": "avait clati",
+			"nous": "avions clati",
+			"vous": "aviez clati",
+			"ils/elles": "avaient clati"
+		},
+		"passé antérieur": {
+			"j'": "eus clati",
+			"tu": "eus clati",
+			"il/elle": "eut clati",
+			"nous": "eûmes clati",
+			"vous": "eûtes clati",
+			"ils/elles": "eurent clati"
+		},
+		"futur antérieur": {
+			"j'": "aurai clati",
+			"tu": "auras clati",
+			"il/elle": "aura clati",
+			"nous": "aurons clati",
+			"vous": "aurez clati",
+			"ils/elles": "auront clati"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous clatissiez",
+			"qu'il/elle": "clatisse",
+			"qu'ils/elles": "clatissent"
+		},
+		"imparfait": {
+			"que": "vous clatissiez",
+			"qu'il/elle": "clatît",
+			"qu'ils/elles": "clatissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse clati",
+			"que": "vous eussiez clati",
+			"qu'il/elle": "eût clati",
+			"qu'ils/elles": "eussent clati"
+		},
+		"passé": {
+			"j'": "aie clati",
+			"que": "vous ayez clati",
+			"qu'il/elle": "ait clati",
+			"qu'ils/elles": "aient clati"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "clatirais",
+			"tu": "clatirais",
+			"il/elle": "clatirait",
+			"nous": "clatirions",
+			"vous": "clatiriez",
+			"ils/elles": "clatiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais clati",
+			"tu": "aurais clati",
+			"il/elle": "aurait clati",
+			"nous": "aurions clati",
+			"vous": "auriez clati",
+			"ils/elles": "auraient clati"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse clati",
+			"tu": "eusses clati",
+			"il/elle": "eût clati",
+			"nous": "eussions clati",
+			"vous": "eussiez clati",
+			"ils/elles": "eussent clati"
+		}
+	},
+	"participe": {
+		"présent": { "clatissant": "" },
+		"passé composé": { "ayant": "clati" },
+		"passé": {
+			"masc.sg.:": "clati",
+			"masc.pl.:": "clatis",
+			"fém.sg.:": "clatie",
+			"fém.pl.:": "claties"
+		}
+	},
+	"imperatif": {
+		"présent": { "clatis": "", "clatissons": "", "clatissez": "" },
+		"passé": { "aie": "clati", "ayons": "clati", "ayez": "clati" }
+	},
+	"infinitif": { "présent": { "clatir": "" }, "passé": { "avoir": "clati" } }
+}

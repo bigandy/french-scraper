@@ -1,0 +1,140 @@
+{
+	"name": "lever",
+	"definition": "complete; conclude; finalize; ...",
+	"model": "lever",
+	"auxiliary": "avoir",
+	"otherForms": "s'achever/ne pas achever/ne pas s'achever",
+	"indicatif": {
+		"présent": {
+			"j'": "achève",
+			"tu": "achèves",
+			"il/elle": "achève",
+			"nous": "achevons",
+			"vous": "achevez",
+			"ils/elles": "achèvent"
+		},
+		"imparfait": {
+			"j'": "achevais",
+			"tu": "achevais",
+			"il/elle": "achevait",
+			"nous": "achevions",
+			"vous": "acheviez",
+			"ils/elles": "achevaient"
+		},
+		"futur": {
+			"j'": "achèverai",
+			"tu": "achèveras",
+			"il/elle": "achèvera",
+			"nous": "achèverons",
+			"vous": "achèverez",
+			"ils/elles": "achèveront"
+		},
+		"passé simple": {
+			"j'": "achevai",
+			"tu": "achevas",
+			"il/elle": "acheva",
+			"nous": "achevâmes",
+			"vous": "achevâtes",
+			"ils/elles": "achevèrent"
+		},
+		"passé composé": {
+			"j'": "ai achevé",
+			"tu": "as achevé",
+			"il/elle": "a achevé",
+			"nous": "avons achevé",
+			"vous": "avez achevé",
+			"ils/elles": "ont achevé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais achevé",
+			"tu": "avais achevé",
+			"il/elle": "avait achevé",
+			"nous": "avions achevé",
+			"vous": "aviez achevé",
+			"ils/elles": "avaient achevé"
+		},
+		"passé antérieur": {
+			"j'": "eus achevé",
+			"tu": "eus achevé",
+			"il/elle": "eut achevé",
+			"nous": "eûmes achevé",
+			"vous": "eûtes achevé",
+			"ils/elles": "eurent achevé"
+		},
+		"futur antérieur": {
+			"j'": "aurai achevé",
+			"tu": "auras achevé",
+			"il/elle": "aura achevé",
+			"nous": "aurons achevé",
+			"vous": "aurez achevé",
+			"ils/elles": "auront achevé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "achève",
+			"que": "vous acheviez",
+			"qu'il/elle": "achève",
+			"qu'ils/elles": "achèvent"
+		},
+		"imparfait": {
+			"j'": "achevasse",
+			"que": "vous achevassiez",
+			"qu'il/elle": "achevât",
+			"qu'ils/elles": "achevassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse achevé",
+			"que": "vous eussiez achevé",
+			"qu'il/elle": "eût achevé",
+			"qu'ils/elles": "eussent achevé"
+		},
+		"passé": {
+			"j'": "aie achevé",
+			"que": "vous ayez achevé",
+			"qu'il/elle": "ait achevé",
+			"qu'ils/elles": "aient achevé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "achèverais",
+			"tu": "achèverais",
+			"il/elle": "achèverait",
+			"nous": "achèverions",
+			"vous": "achèveriez",
+			"ils/elles": "achèveraient"
+		},
+		"passé première forme": {
+			"j'": "aurais achevé",
+			"tu": "aurais achevé",
+			"il/elle": "aurait achevé",
+			"nous": "aurions achevé",
+			"vous": "auriez achevé",
+			"ils/elles": "auraient achevé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse achevé",
+			"tu": "eusses achevé",
+			"il/elle": "eût achevé",
+			"nous": "eussions achevé",
+			"vous": "eussiez achevé",
+			"ils/elles": "eussent achevé"
+		}
+	},
+	"participe": {
+		"présent": { "achevant": "" },
+		"passé composé": { "ayant": "achevé" },
+		"passé": {
+			"masc.sg.:": "achevé",
+			"masc.pl.:": "achevés",
+			"fém.sg.:": "achevée",
+			"fém.pl.:": "achevées"
+		}
+	},
+	"imperatif": {
+		"présent": { "achève": "", "achevons": "", "achevez": "" },
+		"passé": { "aie": "achevé", "ayons": "achevé", "ayez": "achevé" }
+	},
+	"infinitif": { "présent": { "achever": "" }, "passé": { "avoir": "achevé" } }
+}

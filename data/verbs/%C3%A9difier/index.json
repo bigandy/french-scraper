@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "build; construct; edify; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'édifier/ne pas édifier/ne pas s'édifier",
+	"indicatif": {
+		"présent": {
+			"j'": "édifie",
+			"tu": "édifies",
+			"il/elle": "édifie",
+			"nous": "édifions",
+			"vous": "édifiez",
+			"ils/elles": "édifient"
+		},
+		"imparfait": {
+			"j'": "édifiais",
+			"tu": "édifiais",
+			"il/elle": "édifiait",
+			"nous": "édifiions",
+			"vous": "édifiiez",
+			"ils/elles": "édifiaient"
+		},
+		"futur": {
+			"j'": "édifierai",
+			"tu": "édifieras",
+			"il/elle": "édifiera",
+			"nous": "édifierons",
+			"vous": "édifierez",
+			"ils/elles": "édifieront"
+		},
+		"passé simple": {
+			"j'": "édifiai",
+			"tu": "édifias",
+			"il/elle": "édifia",
+			"nous": "édifiâmes",
+			"vous": "édifiâtes",
+			"ils/elles": "édifièrent"
+		},
+		"passé composé": {
+			"j'": "ai édifié",
+			"tu": "as édifié",
+			"il/elle": "a édifié",
+			"nous": "avons édifié",
+			"vous": "avez édifié",
+			"ils/elles": "ont édifié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais édifié",
+			"tu": "avais édifié",
+			"il/elle": "avait édifié",
+			"nous": "avions édifié",
+			"vous": "aviez édifié",
+			"ils/elles": "avaient édifié"
+		},
+		"passé antérieur": {
+			"j'": "eus édifié",
+			"tu": "eus édifié",
+			"il/elle": "eut édifié",
+			"nous": "eûmes édifié",
+			"vous": "eûtes édifié",
+			"ils/elles": "eurent édifié"
+		},
+		"futur antérieur": {
+			"j'": "aurai édifié",
+			"tu": "auras édifié",
+			"il/elle": "aura édifié",
+			"nous": "aurons édifié",
+			"vous": "aurez édifié",
+			"ils/elles": "auront édifié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "édifie",
+			"que": "vous édifiiez",
+			"qu'il/elle": "édifie",
+			"qu'ils/elles": "édifient"
+		},
+		"imparfait": {
+			"j'": "édifiasse",
+			"que": "vous édifiassiez",
+			"qu'il/elle": "édifiât",
+			"qu'ils/elles": "édifiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse édifié",
+			"que": "vous eussiez édifié",
+			"qu'il/elle": "eût édifié",
+			"qu'ils/elles": "eussent édifié"
+		},
+		"passé": {
+			"j'": "aie édifié",
+			"que": "vous ayez édifié",
+			"qu'il/elle": "ait édifié",
+			"qu'ils/elles": "aient édifié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "édifierais",
+			"tu": "édifierais",
+			"il/elle": "édifierait",
+			"nous": "édifierions",
+			"vous": "édifieriez",
+			"ils/elles": "édifieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais édifié",
+			"tu": "aurais édifié",
+			"il/elle": "aurait édifié",
+			"nous": "aurions édifié",
+			"vous": "auriez édifié",
+			"ils/elles": "auraient édifié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse édifié",
+			"tu": "eusses édifié",
+			"il/elle": "eût édifié",
+			"nous": "eussions édifié",
+			"vous": "eussiez édifié",
+			"ils/elles": "eussent édifié"
+		}
+	},
+	"participe": {
+		"présent": { "édifiant": "" },
+		"passé composé": { "ayant": "édifié" },
+		"passé": {
+			"masc.sg.:": "édifié",
+			"masc.pl.:": "édifiés",
+			"fém.sg.:": "édifiée",
+			"fém.pl.:": "édifiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "édifie": "", "édifions": "", "édifiez": "" },
+		"passé": { "aie": "édifié", "ayons": "édifié", "ayez": "édifié" }
+	},
+	"infinitif": { "présent": { "édifier": "" }, "passé": { "avoir": "édifié" } }
+}

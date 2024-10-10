@@ -1,0 +1,140 @@
+{
+	"name": "envoyer",
+	"definition": "send; submit; transmit; ...",
+	"model": "envoyer",
+	"auxiliary": "avoir",
+	"otherForms": "s'envoyer/ne pas envoyer/ne pas s'envoyer",
+	"indicatif": {
+		"présent": {
+			"j'": "envoie",
+			"tu": "envoies",
+			"il/elle": "envoie",
+			"nous": "envoyons",
+			"vous": "envoyez",
+			"ils/elles": "envoient"
+		},
+		"imparfait": {
+			"j'": "envoyais",
+			"tu": "envoyais",
+			"il/elle": "envoyait",
+			"nous": "envoyions",
+			"vous": "envoyiez",
+			"ils/elles": "envoyaient"
+		},
+		"futur": {
+			"j'": "enverrai",
+			"tu": "enverras",
+			"il/elle": "enverra",
+			"nous": "enverrons",
+			"vous": "enverrez",
+			"ils/elles": "enverront"
+		},
+		"passé simple": {
+			"j'": "envoyai",
+			"tu": "envoyas",
+			"il/elle": "envoya",
+			"nous": "envoyâmes",
+			"vous": "envoyâtes",
+			"ils/elles": "envoyèrent"
+		},
+		"passé composé": {
+			"j'": "ai envoyé",
+			"tu": "as envoyé",
+			"il/elle": "a envoyé",
+			"nous": "avons envoyé",
+			"vous": "avez envoyé",
+			"ils/elles": "ont envoyé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais envoyé",
+			"tu": "avais envoyé",
+			"il/elle": "avait envoyé",
+			"nous": "avions envoyé",
+			"vous": "aviez envoyé",
+			"ils/elles": "avaient envoyé"
+		},
+		"passé antérieur": {
+			"j'": "eus envoyé",
+			"tu": "eus envoyé",
+			"il/elle": "eut envoyé",
+			"nous": "eûmes envoyé",
+			"vous": "eûtes envoyé",
+			"ils/elles": "eurent envoyé"
+		},
+		"futur antérieur": {
+			"j'": "aurai envoyé",
+			"tu": "auras envoyé",
+			"il/elle": "aura envoyé",
+			"nous": "aurons envoyé",
+			"vous": "aurez envoyé",
+			"ils/elles": "auront envoyé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "envoie",
+			"que": "vous envoyiez",
+			"qu'il/elle": "envoie",
+			"qu'ils/elles": "envoient"
+		},
+		"imparfait": {
+			"j'": "envoyasse",
+			"que": "vous envoyassiez",
+			"qu'il/elle": "envoyât",
+			"qu'ils/elles": "envoyassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse envoyé",
+			"que": "vous eussiez envoyé",
+			"qu'il/elle": "eût envoyé",
+			"qu'ils/elles": "eussent envoyé"
+		},
+		"passé": {
+			"j'": "aie envoyé",
+			"que": "vous ayez envoyé",
+			"qu'il/elle": "ait envoyé",
+			"qu'ils/elles": "aient envoyé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "enverrais",
+			"tu": "enverrais",
+			"il/elle": "enverrait",
+			"nous": "enverrions",
+			"vous": "enverriez",
+			"ils/elles": "enverraient"
+		},
+		"passé première forme": {
+			"j'": "aurais envoyé",
+			"tu": "aurais envoyé",
+			"il/elle": "aurait envoyé",
+			"nous": "aurions envoyé",
+			"vous": "auriez envoyé",
+			"ils/elles": "auraient envoyé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse envoyé",
+			"tu": "eusses envoyé",
+			"il/elle": "eût envoyé",
+			"nous": "eussions envoyé",
+			"vous": "eussiez envoyé",
+			"ils/elles": "eussent envoyé"
+		}
+	},
+	"participe": {
+		"présent": { "envoyant": "" },
+		"passé composé": { "ayant": "envoyé" },
+		"passé": {
+			"masc.sg.:": "envoyé",
+			"masc.pl.:": "envoyés",
+			"fém.sg.:": "envoyée",
+			"fém.pl.:": "envoyées"
+		}
+	},
+	"imperatif": {
+		"présent": { "envoie": "", "envoyons": "", "envoyez": "" },
+		"passé": { "aie": "envoyé", "ayons": "envoyé", "ayez": "envoyé" }
+	},
+	"infinitif": { "présent": { "envoyer": "" }, "passé": { "avoir": "envoyé" } }
+}

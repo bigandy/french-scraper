@@ -1,0 +1,138 @@
+{
+	"name": "receper",
+	"definition": "",
+	"model": "receper",
+	"auxiliary": "avoir",
+	"otherForms": "se receper/ne pas receper/ne pas se receper",
+	"indicatif": {
+		"présent": {
+			"je": "recèpe",
+			"tu": "recèpes",
+			"il/elle": "recèpe",
+			"nous": "recepons",
+			"vous": "recepez",
+			"ils/elles": "recèpent"
+		},
+		"imparfait": {
+			"je": "recepais",
+			"tu": "recepais",
+			"il/elle": "recepait",
+			"nous": "recepions",
+			"vous": "recepiez",
+			"ils/elles": "recepaient"
+		},
+		"futur": {
+			"je": "recèperai",
+			"tu": "recèperas",
+			"il/elle": "recèpera",
+			"nous": "recèperons",
+			"vous": "recèperez",
+			"ils/elles": "recèperont"
+		},
+		"passé simple": {
+			"je": "recepai",
+			"tu": "recepas",
+			"il/elle": "recepa",
+			"nous": "recepâmes",
+			"vous": "recepâtes",
+			"ils/elles": "recepèrent"
+		},
+		"passé composé": {
+			"j'": "ai recepé",
+			"tu": "as recepé",
+			"il/elle": "a recepé",
+			"nous": "avons recepé",
+			"vous": "avez recepé",
+			"ils/elles": "ont recepé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais recepé",
+			"tu": "avais recepé",
+			"il/elle": "avait recepé",
+			"nous": "avions recepé",
+			"vous": "aviez recepé",
+			"ils/elles": "avaient recepé"
+		},
+		"passé antérieur": {
+			"j'": "eus recepé",
+			"tu": "eus recepé",
+			"il/elle": "eut recepé",
+			"nous": "eûmes recepé",
+			"vous": "eûtes recepé",
+			"ils/elles": "eurent recepé"
+		},
+		"futur antérieur": {
+			"j'": "aurai recepé",
+			"tu": "auras recepé",
+			"il/elle": "aura recepé",
+			"nous": "aurons recepé",
+			"vous": "aurez recepé",
+			"ils/elles": "auront recepé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous recepiez",
+			"qu'il/elle": "recèpe",
+			"qu'ils/elles": "recèrent"
+		},
+		"imparfait": {
+			"que": "vous recepassiez",
+			"qu'il/elle": "recepât",
+			"qu'ils/elles": "recepassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse recepé",
+			"que": "vous eussiez recepé",
+			"qu'il/elle": "eût recepé",
+			"qu'ils/elles": "eussent recepé"
+		},
+		"passé": {
+			"j'": "aie recepé",
+			"que": "vous ayez recepé",
+			"qu'il/elle": "ait recepé",
+			"qu'ils/elles": "aient recepé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "recèperais",
+			"tu": "recèperais",
+			"il/elle": "recèperait",
+			"nous": "recèperions",
+			"vous": "recèperiez",
+			"ils/elles": "recèperaient"
+		},
+		"passé première forme": {
+			"j'": "aurais recepé",
+			"tu": "aurais recepé",
+			"il/elle": "aurait recepé",
+			"nous": "aurions recepé",
+			"vous": "auriez recepé",
+			"ils/elles": "auraient recepé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse recepé",
+			"tu": "eusses recepé",
+			"il/elle": "eût recepé",
+			"nous": "eussions recepé",
+			"vous": "eussiez recepé",
+			"ils/elles": "eussent recepé"
+		}
+	},
+	"participe": {
+		"présent": { "recepant": "" },
+		"passé composé": { "ayant": "recepé" },
+		"passé": {
+			"masc.sg.:": "recepé",
+			"masc.pl.:": "recepés",
+			"fém.sg.:": "recepée",
+			"fém.pl.:": "recepées"
+		}
+	},
+	"imperatif": {
+		"présent": { "recèpe": "", "recepons": "", "recepez": "" },
+		"passé": { "aie": "recepé", "ayons": "recepé", "ayez": "recepé" }
+	},
+	"infinitif": { "présent": { "receper": "" }, "passé": { "avoir": "recepé" } }
+}

@@ -1,0 +1,138 @@
+{
+	"name": "mettre",
+	"definition": "put; set; get; ...",
+	"model": "mettre",
+	"auxiliary": "avoir",
+	"otherForms": "se mettre/ne pas mettre/ne pas se mettre",
+	"indicatif": {
+		"présent": {
+			"je": "mets",
+			"tu": "mets",
+			"il/elle": "met",
+			"nous": "mettons",
+			"vous": "mettez",
+			"ils/elles": "mettent"
+		},
+		"imparfait": {
+			"je": "mettais",
+			"tu": "mettais",
+			"il/elle": "mettait",
+			"nous": "mettions",
+			"vous": "mettiez",
+			"ils/elles": "mettaient"
+		},
+		"futur": {
+			"je": "mettrai",
+			"tu": "mettras",
+			"il/elle": "mettra",
+			"nous": "mettrons",
+			"vous": "mettrez",
+			"ils/elles": "mettront"
+		},
+		"passé simple": {
+			"je": "mis",
+			"tu": "mis",
+			"il/elle": "mit",
+			"nous": "mîmes",
+			"vous": "mîtes",
+			"ils/elles": "mirent"
+		},
+		"passé composé": {
+			"j'": "ai mis",
+			"tu": "as mis",
+			"il/elle": "a mis",
+			"nous": "avons mis",
+			"vous": "avez mis",
+			"ils/elles": "ont mis"
+		},
+		"plus-que-parfait": {
+			"j'": "avais mis",
+			"tu": "avais mis",
+			"il/elle": "avait mis",
+			"nous": "avions mis",
+			"vous": "aviez mis",
+			"ils/elles": "avaient mis"
+		},
+		"passé antérieur": {
+			"j'": "eus mis",
+			"tu": "eus mis",
+			"il/elle": "eut mis",
+			"nous": "eûmes mis",
+			"vous": "eûtes mis",
+			"ils/elles": "eurent mis"
+		},
+		"futur antérieur": {
+			"j'": "aurai mis",
+			"tu": "auras mis",
+			"il/elle": "aura mis",
+			"nous": "aurons mis",
+			"vous": "aurez mis",
+			"ils/elles": "auront mis"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous mettiez",
+			"qu'il/elle": "mette",
+			"qu'ils/elles": "mettent"
+		},
+		"imparfait": {
+			"que": "vous missiez",
+			"qu'il/elle": "mît",
+			"qu'ils/elles": "missent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse mis",
+			"que": "vous eussiez mis",
+			"qu'il/elle": "eût mis",
+			"qu'ils/elles": "eussent mis"
+		},
+		"passé": {
+			"j'": "aie mis",
+			"que": "vous ayez mis",
+			"qu'il/elle": "ait mis",
+			"qu'ils/elles": "aient mis"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "mettrais",
+			"tu": "mettrais",
+			"il/elle": "mettrait",
+			"nous": "mettrions",
+			"vous": "mettriez",
+			"ils/elles": "mettraient"
+		},
+		"passé première forme": {
+			"j'": "aurais mis",
+			"tu": "aurais mis",
+			"il/elle": "aurait mis",
+			"nous": "aurions mis",
+			"vous": "auriez mis",
+			"ils/elles": "auraient mis"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse mis",
+			"tu": "eusses mis",
+			"il/elle": "eût mis",
+			"nous": "eussions mis",
+			"vous": "eussiez mis",
+			"ils/elles": "eussent mis"
+		}
+	},
+	"participe": {
+		"présent": { "mettant": "" },
+		"passé composé": { "ayant": "mis" },
+		"passé": {
+			"masc.sg.:": "mis",
+			"masc.pl.:": "mis",
+			"fém.sg.:": "mise",
+			"fém.pl.:": "mises"
+		}
+	},
+	"imperatif": {
+		"présent": { "mets": "", "mettons": "", "mettez": "" },
+		"passé": { "aie": "mis", "ayons": "mis", "ayez": "mis" }
+	},
+	"infinitif": { "présent": { "mettre": "" }, "passé": { "avoir": "mis" } }
+}

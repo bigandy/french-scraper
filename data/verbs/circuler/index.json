@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "circulate; flow; move; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas circuler",
+	"indicatif": {
+		"présent": {
+			"je": "circule",
+			"tu": "circules",
+			"il/elle": "circule",
+			"nous": "circulons",
+			"vous": "circulez",
+			"ils/elles": "circulent"
+		},
+		"imparfait": {
+			"je": "circulais",
+			"tu": "circulais",
+			"il/elle": "circulait",
+			"nous": "circulions",
+			"vous": "circuliez",
+			"ils/elles": "circulaient"
+		},
+		"futur": {
+			"je": "circulerai",
+			"tu": "circuleras",
+			"il/elle": "circulera",
+			"nous": "circulerons",
+			"vous": "circulerez",
+			"ils/elles": "circuleront"
+		},
+		"passé simple": {
+			"je": "circulai",
+			"tu": "circulas",
+			"il/elle": "circula",
+			"nous": "circulâmes",
+			"vous": "circulâtes",
+			"ils/elles": "circulèrent"
+		},
+		"passé composé": {
+			"j'": "ai circulé",
+			"tu": "as circulé",
+			"il/elle": "a circulé",
+			"nous": "avons circulé",
+			"vous": "avez circulé",
+			"ils/elles": "ont circulé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais circulé",
+			"tu": "avais circulé",
+			"il/elle": "avait circulé",
+			"nous": "avions circulé",
+			"vous": "aviez circulé",
+			"ils/elles": "avaient circulé"
+		},
+		"passé antérieur": {
+			"j'": "eus circulé",
+			"tu": "eus circulé",
+			"il/elle": "eut circulé",
+			"nous": "eûmes circulé",
+			"vous": "eûtes circulé",
+			"ils/elles": "eurent circulé"
+		},
+		"futur antérieur": {
+			"j'": "aurai circulé",
+			"tu": "auras circulé",
+			"il/elle": "aura circulé",
+			"nous": "aurons circulé",
+			"vous": "aurez circulé",
+			"ils/elles": "auront circulé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous circuliez",
+			"qu'il/elle": "circule",
+			"qu'ils/elles": "circulent"
+		},
+		"imparfait": {
+			"que": "vous circulassiez",
+			"qu'il/elle": "circulât",
+			"qu'ils/elles": "circulassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse circulé",
+			"que": "vous eussiez circulé",
+			"qu'il/elle": "eût circulé",
+			"qu'ils/elles": "eussent circulé"
+		},
+		"passé": {
+			"j'": "aie circulé",
+			"que": "vous ayez circulé",
+			"qu'il/elle": "ait circulé",
+			"qu'ils/elles": "aient circulé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "circulerais",
+			"tu": "circulerais",
+			"il/elle": "circulerait",
+			"nous": "circulerions",
+			"vous": "circuleriez",
+			"ils/elles": "circuleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais circulé",
+			"tu": "aurais circulé",
+			"il/elle": "aurait circulé",
+			"nous": "aurions circulé",
+			"vous": "auriez circulé",
+			"ils/elles": "auraient circulé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse circulé",
+			"tu": "eusses circulé",
+			"il/elle": "eût circulé",
+			"nous": "eussions circulé",
+			"vous": "eussiez circulé",
+			"ils/elles": "eussent circulé"
+		}
+	},
+	"participe": {
+		"présent": { "circulant": "" },
+		"passé composé": { "ayant": "circulé" },
+		"passé": {
+			"masc.sg.:": "circulé",
+			"masc.pl.:": "circulés",
+			"fém.sg.:": "circulée",
+			"fém.pl.:": "circulées"
+		}
+	},
+	"imperatif": {
+		"présent": { "circule": "", "circulons": "", "circulez": "" },
+		"passé": { "aie": "circulé", "ayons": "circulé", "ayez": "circulé" }
+	},
+	"infinitif": {
+		"présent": { "circuler": "" },
+		"passé": { "avoir": "circulé" }
+	}
+}

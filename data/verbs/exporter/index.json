@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "export; be exported; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'exporter/ne pas exporter/ne pas s'exporter",
+	"indicatif": {
+		"présent": {
+			"j'": "exporte",
+			"tu": "exportes",
+			"il/elle": "exporte",
+			"nous": "exportons",
+			"vous": "exportez",
+			"ils/elles": "exportent"
+		},
+		"imparfait": {
+			"j'": "exportais",
+			"tu": "exportais",
+			"il/elle": "exportait",
+			"nous": "exportions",
+			"vous": "exportiez",
+			"ils/elles": "exportaient"
+		},
+		"futur": {
+			"j'": "exporterai",
+			"tu": "exporteras",
+			"il/elle": "exportera",
+			"nous": "exporterons",
+			"vous": "exporterez",
+			"ils/elles": "exporteront"
+		},
+		"passé simple": {
+			"j'": "exportai",
+			"tu": "exportas",
+			"il/elle": "exporta",
+			"nous": "exportâmes",
+			"vous": "exportâtes",
+			"ils/elles": "exportèrent"
+		},
+		"passé composé": {
+			"j'": "ai exporté",
+			"tu": "as exporté",
+			"il/elle": "a exporté",
+			"nous": "avons exporté",
+			"vous": "avez exporté",
+			"ils/elles": "ont exporté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais exporté",
+			"tu": "avais exporté",
+			"il/elle": "avait exporté",
+			"nous": "avions exporté",
+			"vous": "aviez exporté",
+			"ils/elles": "avaient exporté"
+		},
+		"passé antérieur": {
+			"j'": "eus exporté",
+			"tu": "eus exporté",
+			"il/elle": "eut exporté",
+			"nous": "eûmes exporté",
+			"vous": "eûtes exporté",
+			"ils/elles": "eurent exporté"
+		},
+		"futur antérieur": {
+			"j'": "aurai exporté",
+			"tu": "auras exporté",
+			"il/elle": "aura exporté",
+			"nous": "aurons exporté",
+			"vous": "aurez exporté",
+			"ils/elles": "auront exporté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "exporte",
+			"que": "vous exportiez",
+			"qu'il/elle": "exporte",
+			"qu'ils/elles": "exportent"
+		},
+		"imparfait": {
+			"j'": "exportasse",
+			"que": "vous exportassiez",
+			"qu'il/elle": "exportât",
+			"qu'ils/elles": "exportassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse exporté",
+			"que": "vous eussiez exporté",
+			"qu'il/elle": "eût exporté",
+			"qu'ils/elles": "eussent exporté"
+		},
+		"passé": {
+			"j'": "aie exporté",
+			"que": "vous ayez exporté",
+			"qu'il/elle": "ait exporté",
+			"qu'ils/elles": "aient exporté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "exporterais",
+			"tu": "exporterais",
+			"il/elle": "exporterait",
+			"nous": "exporterions",
+			"vous": "exporteriez",
+			"ils/elles": "exporteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais exporté",
+			"tu": "aurais exporté",
+			"il/elle": "aurait exporté",
+			"nous": "aurions exporté",
+			"vous": "auriez exporté",
+			"ils/elles": "auraient exporté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse exporté",
+			"tu": "eusses exporté",
+			"il/elle": "eût exporté",
+			"nous": "eussions exporté",
+			"vous": "eussiez exporté",
+			"ils/elles": "eussent exporté"
+		}
+	},
+	"participe": {
+		"présent": { "exportant": "" },
+		"passé composé": { "ayant": "exporté" },
+		"passé": {
+			"masc.sg.:": "exporté",
+			"masc.pl.:": "exportés",
+			"fém.sg.:": "exportée",
+			"fém.pl.:": "exportées"
+		}
+	},
+	"imperatif": {
+		"présent": { "exporte": "", "exportons": "", "exportez": "" },
+		"passé": { "aie": "exporté", "ayons": "exporté", "ayez": "exporté" }
+	},
+	"infinitif": {
+		"présent": { "exporter": "" },
+		"passé": { "avoir": "exporté" }
+	}
+}

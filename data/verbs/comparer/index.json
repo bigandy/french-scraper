@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "compare; match; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se comparer/ne pas comparer/ne pas se comparer",
+	"indicatif": {
+		"présent": {
+			"je": "compare",
+			"tu": "compares",
+			"il/elle": "compare",
+			"nous": "comparons",
+			"vous": "comparez",
+			"ils/elles": "comparent"
+		},
+		"imparfait": {
+			"je": "comparais",
+			"tu": "comparais",
+			"il/elle": "comparait",
+			"nous": "comparions",
+			"vous": "compariez",
+			"ils/elles": "comparaient"
+		},
+		"futur": {
+			"je": "comparerai",
+			"tu": "compareras",
+			"il/elle": "comparera",
+			"nous": "comparerons",
+			"vous": "comparerez",
+			"ils/elles": "compareront"
+		},
+		"passé simple": {
+			"je": "comparai",
+			"tu": "comparas",
+			"il/elle": "compara",
+			"nous": "comparâmes",
+			"vous": "comparâtes",
+			"ils/elles": "comparèrent"
+		},
+		"passé composé": {
+			"j'": "ai comparé",
+			"tu": "as comparé",
+			"il/elle": "a comparé",
+			"nous": "avons comparé",
+			"vous": "avez comparé",
+			"ils/elles": "ont comparé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais comparé",
+			"tu": "avais comparé",
+			"il/elle": "avait comparé",
+			"nous": "avions comparé",
+			"vous": "aviez comparé",
+			"ils/elles": "avaient comparé"
+		},
+		"passé antérieur": {
+			"j'": "eus comparé",
+			"tu": "eus comparé",
+			"il/elle": "eut comparé",
+			"nous": "eûmes comparé",
+			"vous": "eûtes comparé",
+			"ils/elles": "eurent comparé"
+		},
+		"futur antérieur": {
+			"j'": "aurai comparé",
+			"tu": "auras comparé",
+			"il/elle": "aura comparé",
+			"nous": "aurons comparé",
+			"vous": "aurez comparé",
+			"ils/elles": "auront comparé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous compariez",
+			"qu'il/elle": "compare",
+			"qu'ils/elles": "comparent"
+		},
+		"imparfait": {
+			"que": "vous comparassiez",
+			"qu'il/elle": "comparât",
+			"qu'ils/elles": "comparassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse comparé",
+			"que": "vous eussiez comparé",
+			"qu'il/elle": "eût comparé",
+			"qu'ils/elles": "eussent comparé"
+		},
+		"passé": {
+			"j'": "aie comparé",
+			"que": "vous ayez comparé",
+			"qu'il/elle": "ait comparé",
+			"qu'ils/elles": "aient comparé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "comparerais",
+			"tu": "comparerais",
+			"il/elle": "comparerait",
+			"nous": "comparerions",
+			"vous": "compareriez",
+			"ils/elles": "compareraient"
+		},
+		"passé première forme": {
+			"j'": "aurais comparé",
+			"tu": "aurais comparé",
+			"il/elle": "aurait comparé",
+			"nous": "aurions comparé",
+			"vous": "auriez comparé",
+			"ils/elles": "auraient comparé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse comparé",
+			"tu": "eusses comparé",
+			"il/elle": "eût comparé",
+			"nous": "eussions comparé",
+			"vous": "eussiez comparé",
+			"ils/elles": "eussent comparé"
+		}
+	},
+	"participe": {
+		"présent": { "comparant": "" },
+		"passé composé": { "ayant": "comparé" },
+		"passé": {
+			"masc.sg.:": "comparé",
+			"masc.pl.:": "comparés",
+			"fém.sg.:": "comparée",
+			"fém.pl.:": "comparées"
+		}
+	},
+	"imperatif": {
+		"présent": { "compare": "", "comparons": "", "comparez": "" },
+		"passé": { "aie": "comparé", "ayons": "comparé", "ayez": "comparé" }
+	},
+	"infinitif": {
+		"présent": { "comparer": "" },
+		"passé": { "avoir": "comparé" }
+	}
+}

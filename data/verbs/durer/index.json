@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "last; continue; go on; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas durer",
+	"indicatif": {
+		"présent": {
+			"je": "dure",
+			"tu": "dures",
+			"il/elle": "dure",
+			"nous": "durons",
+			"vous": "durez",
+			"ils/elles": "durent"
+		},
+		"imparfait": {
+			"je": "durais",
+			"tu": "durais",
+			"il/elle": "durait",
+			"nous": "durions",
+			"vous": "duriez",
+			"ils/elles": "duraient"
+		},
+		"futur": {
+			"je": "durerai",
+			"tu": "dureras",
+			"il/elle": "durera",
+			"nous": "durerons",
+			"vous": "durerez",
+			"ils/elles": "dureront"
+		},
+		"passé simple": {
+			"je": "durai",
+			"tu": "duras",
+			"il/elle": "dura",
+			"nous": "durâmes",
+			"vous": "durâtes",
+			"ils/elles": "durèrent"
+		},
+		"passé composé": {
+			"j'": "ai duré",
+			"tu": "as duré",
+			"il/elle": "a duré",
+			"nous": "avons duré",
+			"vous": "avez duré",
+			"ils/elles": "ont duré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais duré",
+			"tu": "avais duré",
+			"il/elle": "avait duré",
+			"nous": "avions duré",
+			"vous": "aviez duré",
+			"ils/elles": "avaient duré"
+		},
+		"passé antérieur": {
+			"j'": "eus duré",
+			"tu": "eus duré",
+			"il/elle": "eut duré",
+			"nous": "eûmes duré",
+			"vous": "eûtes duré",
+			"ils/elles": "eurent duré"
+		},
+		"futur antérieur": {
+			"j'": "aurai duré",
+			"tu": "auras duré",
+			"il/elle": "aura duré",
+			"nous": "aurons duré",
+			"vous": "aurez duré",
+			"ils/elles": "auront duré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous duriez",
+			"qu'il/elle": "dure",
+			"qu'ils/elles": "durent"
+		},
+		"imparfait": {
+			"que": "vous durassiez",
+			"qu'il/elle": "durât",
+			"qu'ils/elles": "durassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse duré",
+			"que": "vous eussiez duré",
+			"qu'il/elle": "eût duré",
+			"qu'ils/elles": "eussent duré"
+		},
+		"passé": {
+			"j'": "aie duré",
+			"que": "vous ayez duré",
+			"qu'il/elle": "ait duré",
+			"qu'ils/elles": "aient duré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "durerais",
+			"tu": "durerais",
+			"il/elle": "durerait",
+			"nous": "durerions",
+			"vous": "dureriez",
+			"ils/elles": "dureraient"
+		},
+		"passé première forme": {
+			"j'": "aurais duré",
+			"tu": "aurais duré",
+			"il/elle": "aurait duré",
+			"nous": "aurions duré",
+			"vous": "auriez duré",
+			"ils/elles": "auraient duré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse duré",
+			"tu": "eusses duré",
+			"il/elle": "eût duré",
+			"nous": "eussions duré",
+			"vous": "eussiez duré",
+			"ils/elles": "eussent duré"
+		}
+	},
+	"participe": {
+		"présent": { "durant": "" },
+		"passé composé": { "ayant": "duré" },
+		"passé": {
+			"masc.sg.:": "duré",
+			"masc.pl.:": "durés",
+			"fém.sg.:": "durée",
+			"fém.pl.:": "durées"
+		}
+	},
+	"imperatif": {
+		"présent": { "dure": "", "durons": "", "durez": "" },
+		"passé": { "aie": "duré", "ayons": "duré", "ayez": "duré" }
+	},
+	"infinitif": { "présent": { "durer": "" }, "passé": { "avoir": "duré" } }
+}

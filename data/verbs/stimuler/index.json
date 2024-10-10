@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "stimulate; boost; promote; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se stimuler/ne pas stimuler/ne pas se stimuler",
+	"indicatif": {
+		"présent": {
+			"je": "stimule",
+			"tu": "stimules",
+			"il/elle": "stimule",
+			"nous": "stimulons",
+			"vous": "stimulez",
+			"ils/elles": "stimulent"
+		},
+		"imparfait": {
+			"je": "stimulais",
+			"tu": "stimulais",
+			"il/elle": "stimulait",
+			"nous": "stimulions",
+			"vous": "stimuliez",
+			"ils/elles": "stimulaient"
+		},
+		"futur": {
+			"je": "stimulerai",
+			"tu": "stimuleras",
+			"il/elle": "stimulera",
+			"nous": "stimulerons",
+			"vous": "stimulerez",
+			"ils/elles": "stimuleront"
+		},
+		"passé simple": {
+			"je": "stimulai",
+			"tu": "stimulas",
+			"il/elle": "stimula",
+			"nous": "stimulâmes",
+			"vous": "stimulâtes",
+			"ils/elles": "stimulèrent"
+		},
+		"passé composé": {
+			"j'": "ai stimulé",
+			"tu": "as stimulé",
+			"il/elle": "a stimulé",
+			"nous": "avons stimulé",
+			"vous": "avez stimulé",
+			"ils/elles": "ont stimulé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais stimulé",
+			"tu": "avais stimulé",
+			"il/elle": "avait stimulé",
+			"nous": "avions stimulé",
+			"vous": "aviez stimulé",
+			"ils/elles": "avaient stimulé"
+		},
+		"passé antérieur": {
+			"j'": "eus stimulé",
+			"tu": "eus stimulé",
+			"il/elle": "eut stimulé",
+			"nous": "eûmes stimulé",
+			"vous": "eûtes stimulé",
+			"ils/elles": "eurent stimulé"
+		},
+		"futur antérieur": {
+			"j'": "aurai stimulé",
+			"tu": "auras stimulé",
+			"il/elle": "aura stimulé",
+			"nous": "aurons stimulé",
+			"vous": "aurez stimulé",
+			"ils/elles": "auront stimulé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous stimuliez",
+			"qu'il/elle": "stimule",
+			"qu'ils/elles": "stimulent"
+		},
+		"imparfait": {
+			"que": "vous stimulassiez",
+			"qu'il/elle": "stimulât",
+			"qu'ils/elles": "stimulassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse stimulé",
+			"que": "vous eussiez stimulé",
+			"qu'il/elle": "eût stimulé",
+			"qu'ils/elles": "eussent stimulé"
+		},
+		"passé": {
+			"j'": "aie stimulé",
+			"que": "vous ayez stimulé",
+			"qu'il/elle": "ait stimulé",
+			"qu'ils/elles": "aient stimulé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "stimulerais",
+			"tu": "stimulerais",
+			"il/elle": "stimulerait",
+			"nous": "stimulerions",
+			"vous": "stimuleriez",
+			"ils/elles": "stimuleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais stimulé",
+			"tu": "aurais stimulé",
+			"il/elle": "aurait stimulé",
+			"nous": "aurions stimulé",
+			"vous": "auriez stimulé",
+			"ils/elles": "auraient stimulé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse stimulé",
+			"tu": "eusses stimulé",
+			"il/elle": "eût stimulé",
+			"nous": "eussions stimulé",
+			"vous": "eussiez stimulé",
+			"ils/elles": "eussent stimulé"
+		}
+	},
+	"participe": {
+		"présent": { "stimulant": "" },
+		"passé composé": { "ayant": "stimulé" },
+		"passé": {
+			"masc.sg.:": "stimulé",
+			"masc.pl.:": "stimulés",
+			"fém.sg.:": "stimulée",
+			"fém.pl.:": "stimulées"
+		}
+	},
+	"imperatif": {
+		"présent": { "stimule": "", "stimulons": "", "stimulez": "" },
+		"passé": { "aie": "stimulé", "ayons": "stimulé", "ayez": "stimulé" }
+	},
+	"infinitif": {
+		"présent": { "stimuler": "" },
+		"passé": { "avoir": "stimulé" }
+	}
+}

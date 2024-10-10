@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "seek; solicit; request; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se solliciter/ne pas solliciter/ne pas se solliciter",
+	"indicatif": {
+		"présent": {
+			"je": "sollicite",
+			"tu": "sollicites",
+			"il/elle": "sollicite",
+			"nous": "sollicitons",
+			"vous": "sollicitez",
+			"ils/elles": "sollicitent"
+		},
+		"imparfait": {
+			"je": "sollicitais",
+			"tu": "sollicitais",
+			"il/elle": "sollicitait",
+			"nous": "sollicitions",
+			"vous": "sollicitiez",
+			"ils/elles": "sollicitaient"
+		},
+		"futur": {
+			"je": "solliciterai",
+			"tu": "solliciteras",
+			"il/elle": "sollicitera",
+			"nous": "solliciterons",
+			"vous": "solliciterez",
+			"ils/elles": "solliciteront"
+		},
+		"passé simple": {
+			"je": "sollicitai",
+			"tu": "sollicitas",
+			"il/elle": "sollicita",
+			"nous": "sollicitâmes",
+			"vous": "sollicitâtes",
+			"ils/elles": "sollicitèrent"
+		},
+		"passé composé": {
+			"j'": "ai sollicité",
+			"tu": "as sollicité",
+			"il/elle": "a sollicité",
+			"nous": "avons sollicité",
+			"vous": "avez sollicité",
+			"ils/elles": "ont sollicité"
+		},
+		"plus-que-parfait": {
+			"j'": "avais sollicité",
+			"tu": "avais sollicité",
+			"il/elle": "avait sollicité",
+			"nous": "avions sollicité",
+			"vous": "aviez sollicité",
+			"ils/elles": "avaient sollicité"
+		},
+		"passé antérieur": {
+			"j'": "eus sollicité",
+			"tu": "eus sollicité",
+			"il/elle": "eut sollicité",
+			"nous": "eûmes sollicité",
+			"vous": "eûtes sollicité",
+			"ils/elles": "eurent sollicité"
+		},
+		"futur antérieur": {
+			"j'": "aurai sollicité",
+			"tu": "auras sollicité",
+			"il/elle": "aura sollicité",
+			"nous": "aurons sollicité",
+			"vous": "aurez sollicité",
+			"ils/elles": "auront sollicité"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous sollicitiez",
+			"qu'il/elle": "sollicite",
+			"qu'ils/elles": "sollicitent"
+		},
+		"imparfait": {
+			"que": "vous sollicitassiez",
+			"qu'il/elle": "sollicitât",
+			"qu'ils/elles": "sollicitassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse sollicité",
+			"que": "vous eussiez sollicité",
+			"qu'il/elle": "eût sollicité",
+			"qu'ils/elles": "eussent sollicité"
+		},
+		"passé": {
+			"j'": "aie sollicité",
+			"que": "vous ayez sollicité",
+			"qu'il/elle": "ait sollicité",
+			"qu'ils/elles": "aient sollicité"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "solliciterais",
+			"tu": "solliciterais",
+			"il/elle": "solliciterait",
+			"nous": "solliciterions",
+			"vous": "solliciteriez",
+			"ils/elles": "solliciteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais sollicité",
+			"tu": "aurais sollicité",
+			"il/elle": "aurait sollicité",
+			"nous": "aurions sollicité",
+			"vous": "auriez sollicité",
+			"ils/elles": "auraient sollicité"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse sollicité",
+			"tu": "eusses sollicité",
+			"il/elle": "eût sollicité",
+			"nous": "eussions sollicité",
+			"vous": "eussiez sollicité",
+			"ils/elles": "eussent sollicité"
+		}
+	},
+	"participe": {
+		"présent": { "sollicitant": "" },
+		"passé composé": { "ayant": "sollicité" },
+		"passé": {
+			"masc.sg.:": "sollicité",
+			"masc.pl.:": "sollicités",
+			"fém.sg.:": "sollicitée",
+			"fém.pl.:": "sollicitées"
+		}
+	},
+	"imperatif": {
+		"présent": { "sollicite": "", "sollicitons": "", "sollicitez": "" },
+		"passé": { "aie": "sollicité", "ayons": "sollicité", "ayez": "sollicité" }
+	},
+	"infinitif": {
+		"présent": { "solliciter": "" },
+		"passé": { "avoir": "sollicité" }
+	}
+}

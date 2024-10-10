@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "dialogue; interact; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se dialoguer/ne pas dialoguer/ne pas se dialoguer",
+	"indicatif": {
+		"présent": {
+			"je": "dialogue",
+			"tu": "dialogues",
+			"il/elle": "dialogue",
+			"nous": "dialoguons",
+			"vous": "dialoguez",
+			"ils/elles": "dialoguent"
+		},
+		"imparfait": {
+			"je": "dialoguais",
+			"tu": "dialoguais",
+			"il/elle": "dialoguait",
+			"nous": "dialoguions",
+			"vous": "dialoguiez",
+			"ils/elles": "dialoguaient"
+		},
+		"futur": {
+			"je": "dialoguerai",
+			"tu": "dialogueras",
+			"il/elle": "dialoguera",
+			"nous": "dialoguerons",
+			"vous": "dialoguerez",
+			"ils/elles": "dialogueront"
+		},
+		"passé simple": {
+			"je": "dialoguai",
+			"tu": "dialoguas",
+			"il/elle": "dialogua",
+			"nous": "dialoguâmes",
+			"vous": "dialoguâtes",
+			"ils/elles": "dialoguèrent"
+		},
+		"passé composé": {
+			"j'": "ai dialogué",
+			"tu": "as dialogué",
+			"il/elle": "a dialogué",
+			"nous": "avons dialogué",
+			"vous": "avez dialogué",
+			"ils/elles": "ont dialogué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais dialogué",
+			"tu": "avais dialogué",
+			"il/elle": "avait dialogué",
+			"nous": "avions dialogué",
+			"vous": "aviez dialogué",
+			"ils/elles": "avaient dialogué"
+		},
+		"passé antérieur": {
+			"j'": "eus dialogué",
+			"tu": "eus dialogué",
+			"il/elle": "eut dialogué",
+			"nous": "eûmes dialogué",
+			"vous": "eûtes dialogué",
+			"ils/elles": "eurent dialogué"
+		},
+		"futur antérieur": {
+			"j'": "aurai dialogué",
+			"tu": "auras dialogué",
+			"il/elle": "aura dialogué",
+			"nous": "aurons dialogué",
+			"vous": "aurez dialogué",
+			"ils/elles": "auront dialogué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous dialoguiez",
+			"qu'il/elle": "dialogue",
+			"qu'ils/elles": "dialoguent"
+		},
+		"imparfait": {
+			"que": "vous dialoguassiez",
+			"qu'il/elle": "dialoguât",
+			"qu'ils/elles": "dialoguassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse dialogué",
+			"que": "vous eussiez dialogué",
+			"qu'il/elle": "eût dialogué",
+			"qu'ils/elles": "eussent dialogué"
+		},
+		"passé": {
+			"j'": "aie dialogué",
+			"que": "vous ayez dialogué",
+			"qu'il/elle": "ait dialogué",
+			"qu'ils/elles": "aient dialogué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "dialoguerais",
+			"tu": "dialoguerais",
+			"il/elle": "dialoguerait",
+			"nous": "dialoguerions",
+			"vous": "dialogueriez",
+			"ils/elles": "dialogueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais dialogué",
+			"tu": "aurais dialogué",
+			"il/elle": "aurait dialogué",
+			"nous": "aurions dialogué",
+			"vous": "auriez dialogué",
+			"ils/elles": "auraient dialogué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse dialogué",
+			"tu": "eusses dialogué",
+			"il/elle": "eût dialogué",
+			"nous": "eussions dialogué",
+			"vous": "eussiez dialogué",
+			"ils/elles": "eussent dialogué"
+		}
+	},
+	"participe": {
+		"présent": { "dialoguant": "" },
+		"passé composé": { "ayant": "dialogué" },
+		"passé": {
+			"masc.sg.:": "dialogué",
+			"masc.pl.:": "dialogués",
+			"fém.sg.:": "dialoguée",
+			"fém.pl.:": "dialoguées"
+		}
+	},
+	"imperatif": {
+		"présent": { "dialogue": "", "dialoguons": "", "dialoguez": "" },
+		"passé": { "aie": "dialogué", "ayons": "dialogué", "ayez": "dialogué" }
+	},
+	"infinitif": {
+		"présent": { "dialoguer": "" },
+		"passé": { "avoir": "dialogué" }
+	}
+}

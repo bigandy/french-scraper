@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "develop; expand; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se développer/ne pas développer/ne pas se développer",
+	"indicatif": {
+		"présent": {
+			"je": "développe",
+			"tu": "développes",
+			"il/elle": "développe",
+			"nous": "développons",
+			"vous": "développez",
+			"ils/elles": "développent"
+		},
+		"imparfait": {
+			"je": "développais",
+			"tu": "développais",
+			"il/elle": "développait",
+			"nous": "développions",
+			"vous": "développiez",
+			"ils/elles": "développaient"
+		},
+		"futur": {
+			"je": "développerai",
+			"tu": "développeras",
+			"il/elle": "développera",
+			"nous": "développerons",
+			"vous": "développerez",
+			"ils/elles": "développeront"
+		},
+		"passé simple": {
+			"je": "développai",
+			"tu": "développas",
+			"il/elle": "développa",
+			"nous": "développâmes",
+			"vous": "développâtes",
+			"ils/elles": "développèrent"
+		},
+		"passé composé": {
+			"j'": "ai développé",
+			"tu": "as développé",
+			"il/elle": "a développé",
+			"nous": "avons développé",
+			"vous": "avez développé",
+			"ils/elles": "ont développé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais développé",
+			"tu": "avais développé",
+			"il/elle": "avait développé",
+			"nous": "avions développé",
+			"vous": "aviez développé",
+			"ils/elles": "avaient développé"
+		},
+		"passé antérieur": {
+			"j'": "eus développé",
+			"tu": "eus développé",
+			"il/elle": "eut développé",
+			"nous": "eûmes développé",
+			"vous": "eûtes développé",
+			"ils/elles": "eurent développé"
+		},
+		"futur antérieur": {
+			"j'": "aurai développé",
+			"tu": "auras développé",
+			"il/elle": "aura développé",
+			"nous": "aurons développé",
+			"vous": "aurez développé",
+			"ils/elles": "auront développé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous développiez",
+			"qu'il/elle": "développe",
+			"qu'ils/elles": "développent"
+		},
+		"imparfait": {
+			"que": "vous développassiez",
+			"qu'il/elle": "développât",
+			"qu'ils/elles": "développassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse développé",
+			"que": "vous eussiez développé",
+			"qu'il/elle": "eût développé",
+			"qu'ils/elles": "eussent développé"
+		},
+		"passé": {
+			"j'": "aie développé",
+			"que": "vous ayez développé",
+			"qu'il/elle": "ait développé",
+			"qu'ils/elles": "aient développé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "développerais",
+			"tu": "développerais",
+			"il/elle": "développerait",
+			"nous": "développerions",
+			"vous": "développeriez",
+			"ils/elles": "développeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais développé",
+			"tu": "aurais développé",
+			"il/elle": "aurait développé",
+			"nous": "aurions développé",
+			"vous": "auriez développé",
+			"ils/elles": "auraient développé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse développé",
+			"tu": "eusses développé",
+			"il/elle": "eût développé",
+			"nous": "eussions développé",
+			"vous": "eussiez développé",
+			"ils/elles": "eussent développé"
+		}
+	},
+	"participe": {
+		"présent": { "développant": "" },
+		"passé composé": { "ayant": "développé" },
+		"passé": {
+			"masc.sg.:": "développé",
+			"masc.pl.:": "développés",
+			"fém.sg.:": "développée",
+			"fém.pl.:": "développées"
+		}
+	},
+	"imperatif": {
+		"présent": { "développe": "", "développons": "", "développez": "" },
+		"passé": { "aie": "développé", "ayons": "développé", "ayez": "développé" }
+	},
+	"infinitif": {
+		"présent": { "développer": "" },
+		"passé": { "avoir": "développé" }
+	}
+}

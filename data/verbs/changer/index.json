@@ -1,0 +1,194 @@
+{
+	"name": "manger",
+	"definition": "change; switch; make a difference; ...",
+	"model": "manger",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "se changer/ne pas changer/ne pas se changer",
+	"indicatif": {
+		"présent": {
+			"je": "change",
+			"tu": "changes",
+			"il/elle": "change",
+			"nous": "changeons",
+			"vous": "changez",
+			"ils/elles": "changent"
+		},
+		"imparfait": {
+			"je": "changeais",
+			"tu": "changeais",
+			"il/elle": "changeait",
+			"nous": "changions",
+			"vous": "changiez",
+			"ils/elles": "changeaient"
+		},
+		"futur": {
+			"je": "changerai",
+			"tu": "changeras",
+			"il/elle": "changera",
+			"nous": "changerons",
+			"vous": "changerez",
+			"ils/elles": "changeront"
+		},
+		"passé simple": {
+			"je": "changeai",
+			"tu": "changeas",
+			"il/elle": "changea",
+			"nous": "changeâmes",
+			"vous": "changeâtes",
+			"ils/elles": "changèrent"
+		},
+		"passé composé": {
+			"j'": "ai changé",
+			"tu": "es changé",
+			"il/elle": "a changé",
+			"nous": "sommes changés",
+			"vous": "êtes changés",
+			"ils/elles": "ont changé",
+			"": "",
+			"je": "suis changé",
+			"il": "est changé",
+			"elle": "est changée",
+			"ils": "sont changés",
+			"elles": "sont changées"
+		},
+		"plus-que-parfait": {
+			"j'": "étais changé",
+			"tu": "étais changé",
+			"il/elle": "avait changé",
+			"nous": "étions changés",
+			"vous": "étiez changés",
+			"ils/elles": "avaient changé",
+			"": "",
+			"il": "était changé",
+			"elle": "était changée",
+			"ils": "étaient changés",
+			"elles": "étaient changées"
+		},
+		"passé antérieur": {
+			"j'": "eus changé",
+			"tu": "fus changé",
+			"il/elle": "eut changé",
+			"nous": "fûmes changés",
+			"vous": "fûtes changés",
+			"ils/elles": "eurent changé",
+			"": "",
+			"je": "fus changé",
+			"il": "fut changé",
+			"elle": "fut changée",
+			"ils": "furent changés",
+			"elles": "furent changées"
+		},
+		"futur antérieur": {
+			"j'": "aurai changé",
+			"tu": "seras changé",
+			"il/elle": "aura changé",
+			"nous": "serons changés",
+			"vous": "serez changés",
+			"ils/elles": "auront changé",
+			"": "",
+			"je": "serai changé",
+			"il": "sera changé",
+			"elle": "sera changée",
+			"ils": "seront changés",
+			"elles": "seront changées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous changiez",
+			"qu'il/elle": "change",
+			"qu'ils/elles": "changent"
+		},
+		"imparfait": {
+			"que": "vous changeassiez",
+			"qu'il/elle": "changeât",
+			"qu'ils/elles": "changeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse changé",
+			"que": "vous fussiez changés",
+			"qu'il/elle": "eût changé",
+			"qu'ils/elles": "eussent changé",
+			"": "",
+			"qu'il": "fût changé",
+			"qu'elle": "fût changée",
+			"qu'ils": "fussent changés",
+			"qu'elles": "fussent changées"
+		},
+		"passé": {
+			"j'": "aie changé",
+			"que": "vous soyez changés",
+			"qu'il/elle": "ait changé",
+			"qu'ils/elles": "aient changé",
+			"": "",
+			"qu'il": "soit changé",
+			"qu'elle": "soit changée",
+			"qu'ils": "soient changés",
+			"qu'elles": "soient changées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "changerais",
+			"tu": "changerais",
+			"il/elle": "changerait",
+			"nous": "changerions",
+			"vous": "changeriez",
+			"ils/elles": "changeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais changé",
+			"tu": "serais changé",
+			"il/elle": "aurait changé",
+			"nous": "serions changés",
+			"vous": "seriez changés",
+			"ils/elles": "auraient changé",
+			"": "",
+			"je": "serais changé",
+			"il": "serait changé",
+			"elle": "serait changée",
+			"ils": "seraient changés",
+			"elles": "seraient changées"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse changé",
+			"tu": "fusses changé",
+			"il/elle": "eût changé",
+			"nous": "fussions changés",
+			"vous": "fussiez changés",
+			"ils/elles": "eussent changé",
+			"": "",
+			"je": "fusse changé",
+			"il": "fût changé",
+			"elle": "fût changée",
+			"ils": "fussent changés",
+			"elles": "fussent changées"
+		}
+	},
+	"participe": {
+		"présent": { "changeant": "" },
+		"passé composé": { "ayant": "changé", "": "", "étant": "changée" },
+		"passé": {
+			"masc.sg.:": "changé",
+			"masc.pl.:": "changés",
+			"fém.sg.:": "changée",
+			"fém.pl.:": "changées"
+		}
+	},
+	"imperatif": {
+		"présent": { "change": "", "changeons": "", "changez": "" },
+		"passé": {
+			"aie": "changé",
+			"ayons": "changé",
+			"ayez": "changé",
+			"": "",
+			"sois": "changé",
+			"soyons": "changé",
+			"soyez": "changé"
+		}
+	},
+	"infinitif": {
+		"présent": { "changer": "" },
+		"passé": { "avoir": "changé", "": "", "être": "changé" }
+	}
+}

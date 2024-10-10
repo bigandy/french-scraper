@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "ruin; destroy; bankrupt; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se ruiner/ne pas ruiner/ne pas se ruiner",
+	"indicatif": {
+		"présent": {
+			"je": "ruine",
+			"tu": "ruines",
+			"il/elle": "ruine",
+			"nous": "ruinons",
+			"vous": "ruinez",
+			"ils/elles": "ruinent"
+		},
+		"imparfait": {
+			"je": "ruinais",
+			"tu": "ruinais",
+			"il/elle": "ruinait",
+			"nous": "ruinions",
+			"vous": "ruiniez",
+			"ils/elles": "ruinaient"
+		},
+		"futur": {
+			"je": "ruinerai",
+			"tu": "ruineras",
+			"il/elle": "ruinera",
+			"nous": "ruinerons",
+			"vous": "ruinerez",
+			"ils/elles": "ruineront"
+		},
+		"passé simple": {
+			"je": "ruinai",
+			"tu": "ruinas",
+			"il/elle": "ruina",
+			"nous": "ruinâmes",
+			"vous": "ruinâtes",
+			"ils/elles": "ruinèrent"
+		},
+		"passé composé": {
+			"j'": "ai ruiné",
+			"tu": "as ruiné",
+			"il/elle": "a ruiné",
+			"nous": "avons ruiné",
+			"vous": "avez ruiné",
+			"ils/elles": "ont ruiné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais ruiné",
+			"tu": "avais ruiné",
+			"il/elle": "avait ruiné",
+			"nous": "avions ruiné",
+			"vous": "aviez ruiné",
+			"ils/elles": "avaient ruiné"
+		},
+		"passé antérieur": {
+			"j'": "eus ruiné",
+			"tu": "eus ruiné",
+			"il/elle": "eut ruiné",
+			"nous": "eûmes ruiné",
+			"vous": "eûtes ruiné",
+			"ils/elles": "eurent ruiné"
+		},
+		"futur antérieur": {
+			"j'": "aurai ruiné",
+			"tu": "auras ruiné",
+			"il/elle": "aura ruiné",
+			"nous": "aurons ruiné",
+			"vous": "aurez ruiné",
+			"ils/elles": "auront ruiné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous ruiniez",
+			"qu'il/elle": "ruine",
+			"qu'ils/elles": "ruinent"
+		},
+		"imparfait": {
+			"que": "vous ruinassiez",
+			"qu'il/elle": "ruinât",
+			"qu'ils/elles": "ruinassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse ruiné",
+			"que": "vous eussiez ruiné",
+			"qu'il/elle": "eût ruiné",
+			"qu'ils/elles": "eussent ruiné"
+		},
+		"passé": {
+			"j'": "aie ruiné",
+			"que": "vous ayez ruiné",
+			"qu'il/elle": "ait ruiné",
+			"qu'ils/elles": "aient ruiné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "ruinerais",
+			"tu": "ruinerais",
+			"il/elle": "ruinerait",
+			"nous": "ruinerions",
+			"vous": "ruineriez",
+			"ils/elles": "ruineraient"
+		},
+		"passé première forme": {
+			"j'": "aurais ruiné",
+			"tu": "aurais ruiné",
+			"il/elle": "aurait ruiné",
+			"nous": "aurions ruiné",
+			"vous": "auriez ruiné",
+			"ils/elles": "auraient ruiné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse ruiné",
+			"tu": "eusses ruiné",
+			"il/elle": "eût ruiné",
+			"nous": "eussions ruiné",
+			"vous": "eussiez ruiné",
+			"ils/elles": "eussent ruiné"
+		}
+	},
+	"participe": {
+		"présent": { "ruinant": "" },
+		"passé composé": { "ayant": "ruiné" },
+		"passé": {
+			"masc.sg.:": "ruiné",
+			"masc.pl.:": "ruinés",
+			"fém.sg.:": "ruinée",
+			"fém.pl.:": "ruinées"
+		}
+	},
+	"imperatif": {
+		"présent": { "ruine": "", "ruinons": "", "ruinez": "" },
+		"passé": { "aie": "ruiné", "ayons": "ruiné", "ayez": "ruiné" }
+	},
+	"infinitif": { "présent": { "ruiner": "" }, "passé": { "avoir": "ruiné" } }
+}

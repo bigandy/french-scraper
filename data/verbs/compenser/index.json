@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "compensate for; offset; compensate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se compenser/ne pas compenser/ne pas se compenser",
+	"indicatif": {
+		"présent": {
+			"je": "compense",
+			"tu": "compenses",
+			"il/elle": "compense",
+			"nous": "compensons",
+			"vous": "compensez",
+			"ils/elles": "compensent"
+		},
+		"imparfait": {
+			"je": "compensais",
+			"tu": "compensais",
+			"il/elle": "compensait",
+			"nous": "compensions",
+			"vous": "compensiez",
+			"ils/elles": "compensaient"
+		},
+		"futur": {
+			"je": "compenserai",
+			"tu": "compenseras",
+			"il/elle": "compensera",
+			"nous": "compenserons",
+			"vous": "compenserez",
+			"ils/elles": "compenseront"
+		},
+		"passé simple": {
+			"je": "compensai",
+			"tu": "compensas",
+			"il/elle": "compensa",
+			"nous": "compensâmes",
+			"vous": "compensâtes",
+			"ils/elles": "compensèrent"
+		},
+		"passé composé": {
+			"j'": "ai compensé",
+			"tu": "as compensé",
+			"il/elle": "a compensé",
+			"nous": "avons compensé",
+			"vous": "avez compensé",
+			"ils/elles": "ont compensé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais compensé",
+			"tu": "avais compensé",
+			"il/elle": "avait compensé",
+			"nous": "avions compensé",
+			"vous": "aviez compensé",
+			"ils/elles": "avaient compensé"
+		},
+		"passé antérieur": {
+			"j'": "eus compensé",
+			"tu": "eus compensé",
+			"il/elle": "eut compensé",
+			"nous": "eûmes compensé",
+			"vous": "eûtes compensé",
+			"ils/elles": "eurent compensé"
+		},
+		"futur antérieur": {
+			"j'": "aurai compensé",
+			"tu": "auras compensé",
+			"il/elle": "aura compensé",
+			"nous": "aurons compensé",
+			"vous": "aurez compensé",
+			"ils/elles": "auront compensé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous compensiez",
+			"qu'il/elle": "compense",
+			"qu'ils/elles": "compensent"
+		},
+		"imparfait": {
+			"que": "vous compensassiez",
+			"qu'il/elle": "compensât",
+			"qu'ils/elles": "compensassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse compensé",
+			"que": "vous eussiez compensé",
+			"qu'il/elle": "eût compensé",
+			"qu'ils/elles": "eussent compensé"
+		},
+		"passé": {
+			"j'": "aie compensé",
+			"que": "vous ayez compensé",
+			"qu'il/elle": "ait compensé",
+			"qu'ils/elles": "aient compensé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "compenserais",
+			"tu": "compenserais",
+			"il/elle": "compenserait",
+			"nous": "compenserions",
+			"vous": "compenseriez",
+			"ils/elles": "compenseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais compensé",
+			"tu": "aurais compensé",
+			"il/elle": "aurait compensé",
+			"nous": "aurions compensé",
+			"vous": "auriez compensé",
+			"ils/elles": "auraient compensé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse compensé",
+			"tu": "eusses compensé",
+			"il/elle": "eût compensé",
+			"nous": "eussions compensé",
+			"vous": "eussiez compensé",
+			"ils/elles": "eussent compensé"
+		}
+	},
+	"participe": {
+		"présent": { "compensant": "" },
+		"passé composé": { "ayant": "compensé" },
+		"passé": {
+			"masc.sg.:": "compensé",
+			"masc.pl.:": "compensés",
+			"fém.sg.:": "compensée",
+			"fém.pl.:": "compensées"
+		}
+	},
+	"imperatif": {
+		"présent": { "compense": "", "compensons": "", "compensez": "" },
+		"passé": { "aie": "compensé", "ayons": "compensé", "ayez": "compensé" }
+	},
+	"infinitif": {
+		"présent": { "compenser": "" },
+		"passé": { "avoir": "compensé" }
+	}
+}

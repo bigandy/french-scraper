@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "apply; be candidate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas candidater",
+	"indicatif": {
+		"présent": {
+			"je": "candidate",
+			"tu": "candidates",
+			"il/elle": "candidate",
+			"nous": "candidatons",
+			"vous": "candidatez",
+			"ils/elles": "candidatent"
+		},
+		"imparfait": {
+			"je": "candidatais",
+			"tu": "candidatais",
+			"il/elle": "candidatait",
+			"nous": "candidations",
+			"vous": "candidatiez",
+			"ils/elles": "candidataient"
+		},
+		"futur": {
+			"je": "candidaterai",
+			"tu": "candidateras",
+			"il/elle": "candidatera",
+			"nous": "candidaterons",
+			"vous": "candidaterez",
+			"ils/elles": "candidateront"
+		},
+		"passé simple": {
+			"je": "candidatai",
+			"tu": "candidatas",
+			"il/elle": "candidata",
+			"nous": "candidatâmes",
+			"vous": "candidatâtes",
+			"ils/elles": "candidatèrent"
+		},
+		"passé composé": {
+			"j'": "ai candidaté",
+			"tu": "as candidaté",
+			"il/elle": "a candidaté",
+			"nous": "avons candidaté",
+			"vous": "avez candidaté",
+			"ils/elles": "ont candidaté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais candidaté",
+			"tu": "avais candidaté",
+			"il/elle": "avait candidaté",
+			"nous": "avions candidaté",
+			"vous": "aviez candidaté",
+			"ils/elles": "avaient candidaté"
+		},
+		"passé antérieur": {
+			"j'": "eus candidaté",
+			"tu": "eus candidaté",
+			"il/elle": "eut candidaté",
+			"nous": "eûmes candidaté",
+			"vous": "eûtes candidaté",
+			"ils/elles": "eurent candidaté"
+		},
+		"futur antérieur": {
+			"j'": "aurai candidaté",
+			"tu": "auras candidaté",
+			"il/elle": "aura candidaté",
+			"nous": "aurons candidaté",
+			"vous": "aurez candidaté",
+			"ils/elles": "auront candidaté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous candidatiez",
+			"qu'il/elle": "candidate",
+			"qu'ils/elles": "candidatent"
+		},
+		"imparfait": {
+			"que": "vous candidatassiez",
+			"qu'il/elle": "candidatât",
+			"qu'ils/elles": "candidatassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse candidaté",
+			"que": "vous eussiez candidaté",
+			"qu'il/elle": "eût candidaté",
+			"qu'ils/elles": "eussent candidaté"
+		},
+		"passé": {
+			"j'": "aie candidaté",
+			"que": "vous ayez candidaté",
+			"qu'il/elle": "ait candidaté",
+			"qu'ils/elles": "aient candidaté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "candidaterais",
+			"tu": "candidaterais",
+			"il/elle": "candidaterait",
+			"nous": "candidaterions",
+			"vous": "candidateriez",
+			"ils/elles": "candidateraient"
+		},
+		"passé première forme": {
+			"j'": "aurais candidaté",
+			"tu": "aurais candidaté",
+			"il/elle": "aurait candidaté",
+			"nous": "aurions candidaté",
+			"vous": "auriez candidaté",
+			"ils/elles": "auraient candidaté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse candidaté",
+			"tu": "eusses candidaté",
+			"il/elle": "eût candidaté",
+			"nous": "eussions candidaté",
+			"vous": "eussiez candidaté",
+			"ils/elles": "eussent candidaté"
+		}
+	},
+	"participe": {
+		"présent": { "candidatant": "" },
+		"passé composé": { "ayant": "candidaté" },
+		"passé": {
+			"masc.sg.:": "candidaté",
+			"masc.pl.:": "candidatés",
+			"fém.sg.:": "candidatée",
+			"fém.pl.:": "candidatées"
+		}
+	},
+	"imperatif": {
+		"présent": { "candidate": "", "candidatons": "", "candidatez": "" },
+		"passé": { "aie": "candidaté", "ayons": "candidaté", "ayez": "candidaté" }
+	},
+	"infinitif": {
+		"présent": { "candidater": "" },
+		"passé": { "avoir": "candidaté" }
+	}
+}

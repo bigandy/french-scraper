@@ -1,0 +1,141 @@
+{
+	"name": "craindre",
+	"definition": "force; compel; coerce; ...",
+	"model": "craindre",
+	"auxiliary": "avoir",
+	"otherForms": "se contraindre/ne pas contraindre/ne pas se contraindre",
+	"indicatif": {
+		"présent": {
+			"je": "contrains",
+			"tu": "contrains",
+			"il/elle": "contraint",
+			"nous": "contraignons",
+			"vous": "contraignez",
+			"ils/elles": "contraignent"
+		},
+		"imparfait": {
+			"je": "contraignais",
+			"tu": "contraignais",
+			"il/elle": "contraignait",
+			"nous": "contraignions",
+			"vous": "contraigniez",
+			"ils/elles": "contraignaient"
+		},
+		"futur": {
+			"je": "contraindrai",
+			"tu": "contraindras",
+			"il/elle": "contraindra",
+			"nous": "contraindrons",
+			"vous": "contraindrez",
+			"ils/elles": "contraindront"
+		},
+		"passé simple": {
+			"je": "contraignis",
+			"tu": "contraignis",
+			"il/elle": "contraignit",
+			"nous": "contraignîmes",
+			"vous": "contraignîtes",
+			"ils/elles": "contraignirent"
+		},
+		"passé composé": {
+			"j'": "ai contraint",
+			"tu": "as contraint",
+			"il/elle": "a contraint",
+			"nous": "avons contraint",
+			"vous": "avez contraint",
+			"ils/elles": "ont contraint"
+		},
+		"plus-que-parfait": {
+			"j'": "avais contraint",
+			"tu": "avais contraint",
+			"il/elle": "avait contraint",
+			"nous": "avions contraint",
+			"vous": "aviez contraint",
+			"ils/elles": "avaient contraint"
+		},
+		"passé antérieur": {
+			"j'": "eus contraint",
+			"tu": "eus contraint",
+			"il/elle": "eut contraint",
+			"nous": "eûmes contraint",
+			"vous": "eûtes contraint",
+			"ils/elles": "eurent contraint"
+		},
+		"futur antérieur": {
+			"j'": "aurai contraint",
+			"tu": "auras contraint",
+			"il/elle": "aura contraint",
+			"nous": "aurons contraint",
+			"vous": "aurez contraint",
+			"ils/elles": "auront contraint"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous contraigniez",
+			"qu'il/elle": "contraigne",
+			"qu'ils/elles": "contraignent"
+		},
+		"imparfait": {
+			"que": "vous contraignissiez",
+			"qu'il/elle": "contraignît",
+			"qu'ils/elles": "contraignissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse contraint",
+			"que": "vous eussiez contraint",
+			"qu'il/elle": "eût contraint",
+			"qu'ils/elles": "eussent contraint"
+		},
+		"passé": {
+			"j'": "aie contraint",
+			"que": "vous ayez contraint",
+			"qu'il/elle": "ait contraint",
+			"qu'ils/elles": "aient contraint"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "contraindrais",
+			"tu": "contraindrais",
+			"il/elle": "contraindrait",
+			"nous": "contraindrions",
+			"vous": "contraindriez",
+			"ils/elles": "contraindraient"
+		},
+		"passé première forme": {
+			"j'": "aurais contraint",
+			"tu": "aurais contraint",
+			"il/elle": "aurait contraint",
+			"nous": "aurions contraint",
+			"vous": "auriez contraint",
+			"ils/elles": "auraient contraint"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse contraint",
+			"tu": "eusses contraint",
+			"il/elle": "eût contraint",
+			"nous": "eussions contraint",
+			"vous": "eussiez contraint",
+			"ils/elles": "eussent contraint"
+		}
+	},
+	"participe": {
+		"présent": { "contraignant": "" },
+		"passé composé": { "ayant": "contraint" },
+		"passé": {
+			"masc.sg.:": "contraint",
+			"masc.pl.:": "contraints",
+			"fém.sg.:": "contrainte",
+			"fém.pl.:": "contraintes"
+		}
+	},
+	"imperatif": {
+		"présent": { "contrains": "", "contraignons": "", "contraignez": "" },
+		"passé": { "aie": "contraint", "ayons": "contraint", "ayez": "contraint" }
+	},
+	"infinitif": {
+		"présent": { "contraindre": "" },
+		"passé": { "avoir": "contraint" }
+	}
+}

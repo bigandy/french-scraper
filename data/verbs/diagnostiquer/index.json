@@ -1,0 +1,149 @@
+{
+	"name": "marcher",
+	"definition": "diagnose; diagnosticate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se diagnostiquer/ne pas diagnostiquer/ne pas se diagnostiquer",
+	"indicatif": {
+		"présent": {
+			"je": "diagnostique",
+			"tu": "diagnostiques",
+			"il/elle": "diagnostique",
+			"nous": "diagnostiquons",
+			"vous": "diagnostiquez",
+			"ils/elles": "diagnostiquent"
+		},
+		"imparfait": {
+			"je": "diagnostiquais",
+			"tu": "diagnostiquais",
+			"il/elle": "diagnostiquait",
+			"nous": "diagnostiquions",
+			"vous": "diagnostiquiez",
+			"ils/elles": "diagnostiquaient"
+		},
+		"futur": {
+			"je": "diagnostiquerai",
+			"tu": "diagnostiqueras",
+			"il/elle": "diagnostiquera",
+			"nous": "diagnostiquerons",
+			"vous": "diagnostiquerez",
+			"ils/elles": "diagnostiqueront"
+		},
+		"passé simple": {
+			"je": "diagnostiquai",
+			"tu": "diagnostiquas",
+			"il/elle": "diagnostiqua",
+			"nous": "diagnostiquâmes",
+			"vous": "diagnostiquâtes",
+			"ils/elles": "diagnostiquèrent"
+		},
+		"passé composé": {
+			"j'": "ai diagnostiqué",
+			"tu": "as diagnostiqué",
+			"il/elle": "a diagnostiqué",
+			"nous": "avons diagnostiqué",
+			"vous": "avez diagnostiqué",
+			"ils/elles": "ont diagnostiqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais diagnostiqué",
+			"tu": "avais diagnostiqué",
+			"il/elle": "avait diagnostiqué",
+			"nous": "avions diagnostiqué",
+			"vous": "aviez diagnostiqué",
+			"ils/elles": "avaient diagnostiqué"
+		},
+		"passé antérieur": {
+			"j'": "eus diagnostiqué",
+			"tu": "eus diagnostiqué",
+			"il/elle": "eut diagnostiqué",
+			"nous": "eûmes diagnostiqué",
+			"vous": "eûtes diagnostiqué",
+			"ils/elles": "eurent diagnostiqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai diagnostiqué",
+			"tu": "auras diagnostiqué",
+			"il/elle": "aura diagnostiqué",
+			"nous": "aurons diagnostiqué",
+			"vous": "aurez diagnostiqué",
+			"ils/elles": "auront diagnostiqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous diagnostiquiez",
+			"qu'il/elle": "diagnostique",
+			"qu'ils/elles": "diagnostiquent"
+		},
+		"imparfait": {
+			"que": "vous diagnostiquassiez",
+			"qu'il/elle": "diagnostiquât",
+			"qu'ils/elles": "diagnostiquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse diagnostiqué",
+			"que": "vous eussiez diagnostiqué",
+			"qu'il/elle": "eût diagnostiqué",
+			"qu'ils/elles": "eussent diagnostiqué"
+		},
+		"passé": {
+			"j'": "aie diagnostiqué",
+			"que": "vous ayez diagnostiqué",
+			"qu'il/elle": "ait diagnostiqué",
+			"qu'ils/elles": "aient diagnostiqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "diagnostiquerais",
+			"tu": "diagnostiquerais",
+			"il/elle": "diagnostiquerait",
+			"nous": "diagnostiquerions",
+			"vous": "diagnostiqueriez",
+			"ils/elles": "diagnostiqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais diagnostiqué",
+			"tu": "aurais diagnostiqué",
+			"il/elle": "aurait diagnostiqué",
+			"nous": "aurions diagnostiqué",
+			"vous": "auriez diagnostiqué",
+			"ils/elles": "auraient diagnostiqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse diagnostiqué",
+			"tu": "eusses diagnostiqué",
+			"il/elle": "eût diagnostiqué",
+			"nous": "eussions diagnostiqué",
+			"vous": "eussiez diagnostiqué",
+			"ils/elles": "eussent diagnostiqué"
+		}
+	},
+	"participe": {
+		"présent": { "diagnostiquant": "" },
+		"passé composé": { "ayant": "diagnostiqué" },
+		"passé": {
+			"masc.sg.:": "diagnostiqué",
+			"masc.pl.:": "diagnostiqués",
+			"fém.sg.:": "diagnostiquée",
+			"fém.pl.:": "diagnostiquées"
+		}
+	},
+	"imperatif": {
+		"présent": {
+			"diagnostique": "",
+			"diagnostiquons": "",
+			"diagnostiquez": ""
+		},
+		"passé": {
+			"aie": "diagnostiqué",
+			"ayons": "diagnostiqué",
+			"ayez": "diagnostiqué"
+		}
+	},
+	"infinitif": {
+		"présent": { "diagnostiquer": "" },
+		"passé": { "avoir": "diagnostiqué" }
+	}
+}

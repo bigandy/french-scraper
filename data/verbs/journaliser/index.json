@@ -1,0 +1,145 @@
+{
+	"name": "marcher",
+	"definition": "log; journalize; journalise; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se journaliser/ne pas journaliser/ne pas se journaliser",
+	"indicatif": {
+		"présent": {
+			"je": "journalise",
+			"tu": "journalises",
+			"il/elle": "journalise",
+			"nous": "journalisons",
+			"vous": "journalisez",
+			"ils/elles": "journalisent"
+		},
+		"imparfait": {
+			"je": "journalisais",
+			"tu": "journalisais",
+			"il/elle": "journalisait",
+			"nous": "journalisions",
+			"vous": "journalisiez",
+			"ils/elles": "journalisaient"
+		},
+		"futur": {
+			"je": "journaliserai",
+			"tu": "journaliseras",
+			"il/elle": "journalisera",
+			"nous": "journaliserons",
+			"vous": "journaliserez",
+			"ils/elles": "journaliseront"
+		},
+		"passé simple": {
+			"je": "journalisai",
+			"tu": "journalisas",
+			"il/elle": "journalisa",
+			"nous": "journalisâmes",
+			"vous": "journalisâtes",
+			"ils/elles": "journalisèrent"
+		},
+		"passé composé": {
+			"j'": "ai journalisé",
+			"tu": "as journalisé",
+			"il/elle": "a journalisé",
+			"nous": "avons journalisé",
+			"vous": "avez journalisé",
+			"ils/elles": "ont journalisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais journalisé",
+			"tu": "avais journalisé",
+			"il/elle": "avait journalisé",
+			"nous": "avions journalisé",
+			"vous": "aviez journalisé",
+			"ils/elles": "avaient journalisé"
+		},
+		"passé antérieur": {
+			"j'": "eus journalisé",
+			"tu": "eus journalisé",
+			"il/elle": "eut journalisé",
+			"nous": "eûmes journalisé",
+			"vous": "eûtes journalisé",
+			"ils/elles": "eurent journalisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai journalisé",
+			"tu": "auras journalisé",
+			"il/elle": "aura journalisé",
+			"nous": "aurons journalisé",
+			"vous": "aurez journalisé",
+			"ils/elles": "auront journalisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous journalisiez",
+			"qu'il/elle": "journalise",
+			"qu'ils/elles": "journalisent"
+		},
+		"imparfait": {
+			"que": "vous journalisassiez",
+			"qu'il/elle": "journalisât",
+			"qu'ils/elles": "journalisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse journalisé",
+			"que": "vous eussiez journalisé",
+			"qu'il/elle": "eût journalisé",
+			"qu'ils/elles": "eussent journalisé"
+		},
+		"passé": {
+			"j'": "aie journalisé",
+			"que": "vous ayez journalisé",
+			"qu'il/elle": "ait journalisé",
+			"qu'ils/elles": "aient journalisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "journaliserais",
+			"tu": "journaliserais",
+			"il/elle": "journaliserait",
+			"nous": "journaliserions",
+			"vous": "journaliseriez",
+			"ils/elles": "journaliseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais journalisé",
+			"tu": "aurais journalisé",
+			"il/elle": "aurait journalisé",
+			"nous": "aurions journalisé",
+			"vous": "auriez journalisé",
+			"ils/elles": "auraient journalisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse journalisé",
+			"tu": "eusses journalisé",
+			"il/elle": "eût journalisé",
+			"nous": "eussions journalisé",
+			"vous": "eussiez journalisé",
+			"ils/elles": "eussent journalisé"
+		}
+	},
+	"participe": {
+		"présent": { "journalisant": "" },
+		"passé composé": { "ayant": "journalisé" },
+		"passé": {
+			"masc.sg.:": "journalisé",
+			"masc.pl.:": "journalisés",
+			"fém.sg.:": "journalisée",
+			"fém.pl.:": "journalisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "journalise": "", "journalisons": "", "journalisez": "" },
+		"passé": {
+			"aie": "journalisé",
+			"ayons": "journalisé",
+			"ayez": "journalisé"
+		}
+	},
+	"infinitif": {
+		"présent": { "journaliser": "" },
+		"passé": { "avoir": "journalisé" }
+	}
+}

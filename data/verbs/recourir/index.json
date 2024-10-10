@@ -1,0 +1,141 @@
+{
+	"name": "courir",
+	"definition": "use; resort; ...",
+	"model": "courir",
+	"auxiliary": "avoir",
+	"otherForms": "se recourir/ne pas recourir/ne pas se recourir",
+	"indicatif": {
+		"présent": {
+			"je": "recours",
+			"tu": "recours",
+			"il/elle": "recourt",
+			"nous": "recourons",
+			"vous": "recourez",
+			"ils/elles": "recourent"
+		},
+		"imparfait": {
+			"je": "recourais",
+			"tu": "recourais",
+			"il/elle": "recourait",
+			"nous": "recourions",
+			"vous": "recouriez",
+			"ils/elles": "recouraient"
+		},
+		"futur": {
+			"je": "recourrai",
+			"tu": "recourras",
+			"il/elle": "recourra",
+			"nous": "recourrons",
+			"vous": "recourrez",
+			"ils/elles": "recourront"
+		},
+		"passé simple": {
+			"je": "recourus",
+			"tu": "recourus",
+			"il/elle": "recourut",
+			"nous": "recourûmes",
+			"vous": "recourûtes",
+			"ils/elles": "recoururent"
+		},
+		"passé composé": {
+			"j'": "ai recouru",
+			"tu": "as recouru",
+			"il/elle": "a recouru",
+			"nous": "avons recouru",
+			"vous": "avez recouru",
+			"ils/elles": "ont recouru"
+		},
+		"plus-que-parfait": {
+			"j'": "avais recouru",
+			"tu": "avais recouru",
+			"il/elle": "avait recouru",
+			"nous": "avions recouru",
+			"vous": "aviez recouru",
+			"ils/elles": "avaient recouru"
+		},
+		"passé antérieur": {
+			"j'": "eus recouru",
+			"tu": "eus recouru",
+			"il/elle": "eut recouru",
+			"nous": "eûmes recouru",
+			"vous": "eûtes recouru",
+			"ils/elles": "eurent recouru"
+		},
+		"futur antérieur": {
+			"j'": "aurai recouru",
+			"tu": "auras recouru",
+			"il/elle": "aura recouru",
+			"nous": "aurons recouru",
+			"vous": "aurez recouru",
+			"ils/elles": "auront recouru"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous recouriez",
+			"qu'il/elle": "recoure",
+			"qu'ils/elles": "recourent"
+		},
+		"imparfait": {
+			"que": "vous recourussiez",
+			"qu'il/elle": "recourût",
+			"qu'ils/elles": "recourussent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse recouru",
+			"que": "vous eussiez recouru",
+			"qu'il/elle": "eût recouru",
+			"qu'ils/elles": "eussent recouru"
+		},
+		"passé": {
+			"j'": "aie recouru",
+			"que": "vous ayez recouru",
+			"qu'il/elle": "ait recouru",
+			"qu'ils/elles": "aient recouru"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "recourrais",
+			"tu": "recourrais",
+			"il/elle": "recourrait",
+			"nous": "recourrions",
+			"vous": "recourriez",
+			"ils/elles": "recourraient"
+		},
+		"passé première forme": {
+			"j'": "aurais recouru",
+			"tu": "aurais recouru",
+			"il/elle": "aurait recouru",
+			"nous": "aurions recouru",
+			"vous": "auriez recouru",
+			"ils/elles": "auraient recouru"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse recouru",
+			"tu": "eusses recouru",
+			"il/elle": "eût recouru",
+			"nous": "eussions recouru",
+			"vous": "eussiez recouru",
+			"ils/elles": "eussent recouru"
+		}
+	},
+	"participe": {
+		"présent": { "recourant": "" },
+		"passé composé": { "ayant": "recouru" },
+		"passé": {
+			"masc.sg.:": "recouru",
+			"masc.pl.:": "recourus",
+			"fém.sg.:": "recourue",
+			"fém.pl.:": "recourues"
+		}
+	},
+	"imperatif": {
+		"présent": { "recours": "", "recourons": "", "recourez": "" },
+		"passé": { "aie": "recouru", "ayons": "recouru", "ayez": "recouru" }
+	},
+	"infinitif": {
+		"présent": { "recourir": "" },
+		"passé": { "avoir": "recouru" }
+	}
+}

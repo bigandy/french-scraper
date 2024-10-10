@@ -1,0 +1,138 @@
+{
+	"name": "mentir",
+	"definition": "lie; lie to; be lying; ...",
+	"model": "mentir",
+	"auxiliary": "avoir",
+	"otherForms": "se mentir/ne pas mentir/ne pas se mentir",
+	"indicatif": {
+		"présent": {
+			"je": "mens",
+			"tu": "mens",
+			"il/elle": "ment",
+			"nous": "mentons",
+			"vous": "mentez",
+			"ils/elles": "mentent"
+		},
+		"imparfait": {
+			"je": "mentais",
+			"tu": "mentais",
+			"il/elle": "mentait",
+			"nous": "mentions",
+			"vous": "mentiez",
+			"ils/elles": "mentaient"
+		},
+		"futur": {
+			"je": "mentirai",
+			"tu": "mentiras",
+			"il/elle": "mentira",
+			"nous": "mentirons",
+			"vous": "mentirez",
+			"ils/elles": "mentiront"
+		},
+		"passé simple": {
+			"je": "mentis",
+			"tu": "mentis",
+			"il/elle": "mentit",
+			"nous": "mentîmes",
+			"vous": "mentîtes",
+			"ils/elles": "mentirent"
+		},
+		"passé composé": {
+			"j'": "ai menti",
+			"tu": "as menti",
+			"il/elle": "a menti",
+			"nous": "avons menti",
+			"vous": "avez menti",
+			"ils/elles": "ont menti"
+		},
+		"plus-que-parfait": {
+			"j'": "avais menti",
+			"tu": "avais menti",
+			"il/elle": "avait menti",
+			"nous": "avions menti",
+			"vous": "aviez menti",
+			"ils/elles": "avaient menti"
+		},
+		"passé antérieur": {
+			"j'": "eus menti",
+			"tu": "eus menti",
+			"il/elle": "eut menti",
+			"nous": "eûmes menti",
+			"vous": "eûtes menti",
+			"ils/elles": "eurent menti"
+		},
+		"futur antérieur": {
+			"j'": "aurai menti",
+			"tu": "auras menti",
+			"il/elle": "aura menti",
+			"nous": "aurons menti",
+			"vous": "aurez menti",
+			"ils/elles": "auront menti"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous mentiez",
+			"qu'il/elle": "mente",
+			"qu'ils/elles": "mentent"
+		},
+		"imparfait": {
+			"que": "vous mentissiez",
+			"qu'il/elle": "mentît",
+			"qu'ils/elles": "mentissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse menti",
+			"que": "vous eussiez menti",
+			"qu'il/elle": "eût menti",
+			"qu'ils/elles": "eussent menti"
+		},
+		"passé": {
+			"j'": "aie menti",
+			"que": "vous ayez menti",
+			"qu'il/elle": "ait menti",
+			"qu'ils/elles": "aient menti"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "mentirais",
+			"tu": "mentirais",
+			"il/elle": "mentirait",
+			"nous": "mentirions",
+			"vous": "mentiriez",
+			"ils/elles": "mentiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais menti",
+			"tu": "aurais menti",
+			"il/elle": "aurait menti",
+			"nous": "aurions menti",
+			"vous": "auriez menti",
+			"ils/elles": "auraient menti"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse menti",
+			"tu": "eusses menti",
+			"il/elle": "eût menti",
+			"nous": "eussions menti",
+			"vous": "eussiez menti",
+			"ils/elles": "eussent menti"
+		}
+	},
+	"participe": {
+		"présent": { "mentant": "" },
+		"passé composé": { "ayant": "menti" },
+		"passé": {
+			"masc.sg.:": "menti",
+			"masc.pl.:": "mentis",
+			"fém.sg.:": "mentie",
+			"fém.pl.:": "menties"
+		}
+	},
+	"imperatif": {
+		"présent": { "mens": "", "mentons": "", "mentez": "" },
+		"passé": { "aie": "menti", "ayons": "menti", "ayez": "menti" }
+	},
+	"infinitif": { "présent": { "mentir": "" }, "passé": { "avoir": "menti" } }
+}

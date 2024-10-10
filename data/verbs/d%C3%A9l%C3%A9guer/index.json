@@ -1,0 +1,141 @@
+{
+	"name": "léguer",
+	"definition": "delegate; devolve; outsource; ...",
+	"model": "léguer",
+	"auxiliary": "avoir",
+	"otherForms": "se déléguer/ne pas déléguer/ne pas se déléguer",
+	"indicatif": {
+		"présent": {
+			"je": "délègue",
+			"tu": "délègues",
+			"il/elle": "délègue",
+			"nous": "déléguons",
+			"vous": "déléguez",
+			"ils/elles": "délèguent"
+		},
+		"imparfait": {
+			"je": "déléguais",
+			"tu": "déléguais",
+			"il/elle": "déléguait",
+			"nous": "déléguions",
+			"vous": "déléguiez",
+			"ils/elles": "déléguaient"
+		},
+		"futur": {
+			"je": "déléguerai",
+			"tu": "délégueras",
+			"il/elle": "déléguera",
+			"nous": "déléguerons",
+			"vous": "déléguerez",
+			"ils/elles": "délégueront"
+		},
+		"passé simple": {
+			"je": "déléguai",
+			"tu": "déléguas",
+			"il/elle": "délégua",
+			"nous": "déléguâmes",
+			"vous": "déléguâtes",
+			"ils/elles": "déléguèrent"
+		},
+		"passé composé": {
+			"j'": "ai délégué",
+			"tu": "as délégué",
+			"il/elle": "a délégué",
+			"nous": "avons délégué",
+			"vous": "avez délégué",
+			"ils/elles": "ont délégué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais délégué",
+			"tu": "avais délégué",
+			"il/elle": "avait délégué",
+			"nous": "avions délégué",
+			"vous": "aviez délégué",
+			"ils/elles": "avaient délégué"
+		},
+		"passé antérieur": {
+			"j'": "eus délégué",
+			"tu": "eus délégué",
+			"il/elle": "eut délégué",
+			"nous": "eûmes délégué",
+			"vous": "eûtes délégué",
+			"ils/elles": "eurent délégué"
+		},
+		"futur antérieur": {
+			"j'": "aurai délégué",
+			"tu": "auras délégué",
+			"il/elle": "aura délégué",
+			"nous": "aurons délégué",
+			"vous": "aurez délégué",
+			"ils/elles": "auront délégué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous déléguiez",
+			"qu'il/elle": "délègue",
+			"qu'ils/elles": "délèguent"
+		},
+		"imparfait": {
+			"que": "vous déléguassiez",
+			"qu'il/elle": "déléguât",
+			"qu'ils/elles": "déléguassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse délégué",
+			"que": "vous eussiez délégué",
+			"qu'il/elle": "eût délégué",
+			"qu'ils/elles": "eussent délégué"
+		},
+		"passé": {
+			"j'": "aie délégué",
+			"que": "vous ayez délégué",
+			"qu'il/elle": "ait délégué",
+			"qu'ils/elles": "aient délégué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "déléguerais",
+			"tu": "déléguerais",
+			"il/elle": "déléguerait",
+			"nous": "déléguerions",
+			"vous": "délégueriez",
+			"ils/elles": "délégueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais délégué",
+			"tu": "aurais délégué",
+			"il/elle": "aurait délégué",
+			"nous": "aurions délégué",
+			"vous": "auriez délégué",
+			"ils/elles": "auraient délégué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse délégué",
+			"tu": "eusses délégué",
+			"il/elle": "eût délégué",
+			"nous": "eussions délégué",
+			"vous": "eussiez délégué",
+			"ils/elles": "eussent délégué"
+		}
+	},
+	"participe": {
+		"présent": { "déléguant": "" },
+		"passé composé": { "ayant": "délégué" },
+		"passé": {
+			"masc.sg.:": "délégué",
+			"masc.pl.:": "délégués",
+			"fém.sg.:": "déléguée",
+			"fém.pl.:": "déléguées"
+		}
+	},
+	"imperatif": {
+		"présent": { "délègue": "", "déléguons": "", "déléguez": "" },
+		"passé": { "aie": "délégué", "ayons": "délégué", "ayez": "délégué" }
+	},
+	"infinitif": {
+		"présent": { "déléguer": "" },
+		"passé": { "avoir": "délégué" }
+	}
+}

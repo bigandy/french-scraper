@@ -1,0 +1,140 @@
+{
+	"name": "écrire",
+	"definition": "write; spell; enter; ...",
+	"model": "écrire",
+	"auxiliary": "avoir",
+	"otherForms": "s'écrire/ne pas écrire/ne pas s'écrire",
+	"indicatif": {
+		"présent": {
+			"j'": "écris",
+			"tu": "écris",
+			"il/elle": "écrit",
+			"nous": "écrivons",
+			"vous": "écrivez",
+			"ils/elles": "écrivent"
+		},
+		"imparfait": {
+			"j'": "écrivais",
+			"tu": "écrivais",
+			"il/elle": "écrivait",
+			"nous": "écrivions",
+			"vous": "écriviez",
+			"ils/elles": "écrivaient"
+		},
+		"futur": {
+			"j'": "écrirai",
+			"tu": "écriras",
+			"il/elle": "écrira",
+			"nous": "écrirons",
+			"vous": "écrirez",
+			"ils/elles": "écriront"
+		},
+		"passé simple": {
+			"j'": "écrivis",
+			"tu": "écrivis",
+			"il/elle": "écrivit",
+			"nous": "écrivîmes",
+			"vous": "écrivîtes",
+			"ils/elles": "écrivirent"
+		},
+		"passé composé": {
+			"j'": "ai écrit",
+			"tu": "as écrit",
+			"il/elle": "a écrit",
+			"nous": "avons écrit",
+			"vous": "avez écrit",
+			"ils/elles": "ont écrit"
+		},
+		"plus-que-parfait": {
+			"j'": "avais écrit",
+			"tu": "avais écrit",
+			"il/elle": "avait écrit",
+			"nous": "avions écrit",
+			"vous": "aviez écrit",
+			"ils/elles": "avaient écrit"
+		},
+		"passé antérieur": {
+			"j'": "eus écrit",
+			"tu": "eus écrit",
+			"il/elle": "eut écrit",
+			"nous": "eûmes écrit",
+			"vous": "eûtes écrit",
+			"ils/elles": "eurent écrit"
+		},
+		"futur antérieur": {
+			"j'": "aurai écrit",
+			"tu": "auras écrit",
+			"il/elle": "aura écrit",
+			"nous": "aurons écrit",
+			"vous": "aurez écrit",
+			"ils/elles": "auront écrit"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "écrive",
+			"que": "vous écriviez",
+			"qu'il/elle": "écrive",
+			"qu'ils/elles": "écrivent"
+		},
+		"imparfait": {
+			"j'": "écrivisse",
+			"que": "vous écrivissiez",
+			"qu'il/elle": "écrivît",
+			"qu'ils/elles": "écrivissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse écrit",
+			"que": "vous eussiez écrit",
+			"qu'il/elle": "eût écrit",
+			"qu'ils/elles": "eussent écrit"
+		},
+		"passé": {
+			"j'": "aie écrit",
+			"que": "vous ayez écrit",
+			"qu'il/elle": "ait écrit",
+			"qu'ils/elles": "aient écrit"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "écrirais",
+			"tu": "écrirais",
+			"il/elle": "écrirait",
+			"nous": "écririons",
+			"vous": "écririez",
+			"ils/elles": "écriraient"
+		},
+		"passé première forme": {
+			"j'": "aurais écrit",
+			"tu": "aurais écrit",
+			"il/elle": "aurait écrit",
+			"nous": "aurions écrit",
+			"vous": "auriez écrit",
+			"ils/elles": "auraient écrit"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse écrit",
+			"tu": "eusses écrit",
+			"il/elle": "eût écrit",
+			"nous": "eussions écrit",
+			"vous": "eussiez écrit",
+			"ils/elles": "eussent écrit"
+		}
+	},
+	"participe": {
+		"présent": { "écrivant": "" },
+		"passé composé": { "ayant": "écrit" },
+		"passé": {
+			"masc.sg.:": "écrit",
+			"masc.pl.:": "écrits",
+			"fém.sg.:": "écrite",
+			"fém.pl.:": "écrites"
+		}
+	},
+	"imperatif": {
+		"présent": { "écris": "", "écrivons": "", "écrivez": "" },
+		"passé": { "aie": "écrit", "ayons": "écrit", "ayez": "écrit" }
+	},
+	"infinitif": { "présent": { "écrire": "" }, "passé": { "avoir": "écrit" } }
+}

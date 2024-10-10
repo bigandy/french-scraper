@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "store; stock; stockpile; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se stocker/ne pas stocker/ne pas se stocker",
+	"indicatif": {
+		"présent": {
+			"je": "stocke",
+			"tu": "stockes",
+			"il/elle": "stocke",
+			"nous": "stockons",
+			"vous": "stockez",
+			"ils/elles": "stockent"
+		},
+		"imparfait": {
+			"je": "stockais",
+			"tu": "stockais",
+			"il/elle": "stockait",
+			"nous": "stockions",
+			"vous": "stockiez",
+			"ils/elles": "stockaient"
+		},
+		"futur": {
+			"je": "stockerai",
+			"tu": "stockeras",
+			"il/elle": "stockera",
+			"nous": "stockerons",
+			"vous": "stockerez",
+			"ils/elles": "stockeront"
+		},
+		"passé simple": {
+			"je": "stockai",
+			"tu": "stockas",
+			"il/elle": "stocka",
+			"nous": "stockâmes",
+			"vous": "stockâtes",
+			"ils/elles": "stockèrent"
+		},
+		"passé composé": {
+			"j'": "ai stocké",
+			"tu": "as stocké",
+			"il/elle": "a stocké",
+			"nous": "avons stocké",
+			"vous": "avez stocké",
+			"ils/elles": "ont stocké"
+		},
+		"plus-que-parfait": {
+			"j'": "avais stocké",
+			"tu": "avais stocké",
+			"il/elle": "avait stocké",
+			"nous": "avions stocké",
+			"vous": "aviez stocké",
+			"ils/elles": "avaient stocké"
+		},
+		"passé antérieur": {
+			"j'": "eus stocké",
+			"tu": "eus stocké",
+			"il/elle": "eut stocké",
+			"nous": "eûmes stocké",
+			"vous": "eûtes stocké",
+			"ils/elles": "eurent stocké"
+		},
+		"futur antérieur": {
+			"j'": "aurai stocké",
+			"tu": "auras stocké",
+			"il/elle": "aura stocké",
+			"nous": "aurons stocké",
+			"vous": "aurez stocké",
+			"ils/elles": "auront stocké"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous stockiez",
+			"qu'il/elle": "stocke",
+			"qu'ils/elles": "stockent"
+		},
+		"imparfait": {
+			"que": "vous stockassiez",
+			"qu'il/elle": "stockât",
+			"qu'ils/elles": "stockassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse stocké",
+			"que": "vous eussiez stocké",
+			"qu'il/elle": "eût stocké",
+			"qu'ils/elles": "eussent stocké"
+		},
+		"passé": {
+			"j'": "aie stocké",
+			"que": "vous ayez stocké",
+			"qu'il/elle": "ait stocké",
+			"qu'ils/elles": "aient stocké"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "stockerais",
+			"tu": "stockerais",
+			"il/elle": "stockerait",
+			"nous": "stockerions",
+			"vous": "stockeriez",
+			"ils/elles": "stockeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais stocké",
+			"tu": "aurais stocké",
+			"il/elle": "aurait stocké",
+			"nous": "aurions stocké",
+			"vous": "auriez stocké",
+			"ils/elles": "auraient stocké"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse stocké",
+			"tu": "eusses stocké",
+			"il/elle": "eût stocké",
+			"nous": "eussions stocké",
+			"vous": "eussiez stocké",
+			"ils/elles": "eussent stocké"
+		}
+	},
+	"participe": {
+		"présent": { "stockant": "" },
+		"passé composé": { "ayant": "stocké" },
+		"passé": {
+			"masc.sg.:": "stocké",
+			"masc.pl.:": "stockés",
+			"fém.sg.:": "stockée",
+			"fém.pl.:": "stockées"
+		}
+	},
+	"imperatif": {
+		"présent": { "stocke": "", "stockons": "", "stockez": "" },
+		"passé": { "aie": "stocké", "ayons": "stocké", "ayez": "stocké" }
+	},
+	"infinitif": { "présent": { "stocker": "" }, "passé": { "avoir": "stocké" } }
+}

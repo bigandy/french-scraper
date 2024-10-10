@@ -1,0 +1,138 @@
+{
+	"name": "jeter",
+	"definition": "throw; cast; ...",
+	"model": "jeter",
+	"auxiliary": "avoir",
+	"otherForms": "se jeter/ne pas jeter/ne pas se jeter",
+	"indicatif": {
+		"présent": {
+			"je": "jette",
+			"tu": "jettes",
+			"il/elle": "jette",
+			"nous": "jetons",
+			"vous": "jetez",
+			"ils/elles": "jettent"
+		},
+		"imparfait": {
+			"je": "jetais",
+			"tu": "jetais",
+			"il/elle": "jetait",
+			"nous": "jetions",
+			"vous": "jetiez",
+			"ils/elles": "jetaient"
+		},
+		"futur": {
+			"je": "jetterai",
+			"tu": "jetteras",
+			"il/elle": "jettera",
+			"nous": "jetterons",
+			"vous": "jetterez",
+			"ils/elles": "jetteront"
+		},
+		"passé simple": {
+			"je": "jetai",
+			"tu": "jetas",
+			"il/elle": "jeta",
+			"nous": "jetâmes",
+			"vous": "jetâtes",
+			"ils/elles": "jetèrent"
+		},
+		"passé composé": {
+			"j'": "ai jeté",
+			"tu": "as jeté",
+			"il/elle": "a jeté",
+			"nous": "avons jeté",
+			"vous": "avez jeté",
+			"ils/elles": "ont jeté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais jeté",
+			"tu": "avais jeté",
+			"il/elle": "avait jeté",
+			"nous": "avions jeté",
+			"vous": "aviez jeté",
+			"ils/elles": "avaient jeté"
+		},
+		"passé antérieur": {
+			"j'": "eus jeté",
+			"tu": "eus jeté",
+			"il/elle": "eut jeté",
+			"nous": "eûmes jeté",
+			"vous": "eûtes jeté",
+			"ils/elles": "eurent jeté"
+		},
+		"futur antérieur": {
+			"j'": "aurai jeté",
+			"tu": "auras jeté",
+			"il/elle": "aura jeté",
+			"nous": "aurons jeté",
+			"vous": "aurez jeté",
+			"ils/elles": "auront jeté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous jetiez",
+			"qu'il/elle": "jette",
+			"qu'ils/elles": "jettent"
+		},
+		"imparfait": {
+			"que": "vous jetassiez",
+			"qu'il/elle": "jetât",
+			"qu'ils/elles": "jetassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse jeté",
+			"que": "vous eussiez jeté",
+			"qu'il/elle": "eût jeté",
+			"qu'ils/elles": "eussent jeté"
+		},
+		"passé": {
+			"j'": "aie jeté",
+			"que": "vous ayez jeté",
+			"qu'il/elle": "ait jeté",
+			"qu'ils/elles": "aient jeté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "jetterais",
+			"tu": "jetterais",
+			"il/elle": "jetterait",
+			"nous": "jetterions",
+			"vous": "jetteriez",
+			"ils/elles": "jetteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais jeté",
+			"tu": "aurais jeté",
+			"il/elle": "aurait jeté",
+			"nous": "aurions jeté",
+			"vous": "auriez jeté",
+			"ils/elles": "auraient jeté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse jeté",
+			"tu": "eusses jeté",
+			"il/elle": "eût jeté",
+			"nous": "eussions jeté",
+			"vous": "eussiez jeté",
+			"ils/elles": "eussent jeté"
+		}
+	},
+	"participe": {
+		"présent": { "jetant": "" },
+		"passé composé": { "ayant": "jeté" },
+		"passé": {
+			"masc.sg.:": "jeté",
+			"masc.pl.:": "jetés",
+			"fém.sg.:": "jetée",
+			"fém.pl.:": "jetées"
+		}
+	},
+	"imperatif": {
+		"présent": { "jette": "", "jetons": "", "jetez": "" },
+		"passé": { "aie": "jeté", "ayons": "jeté", "ayez": "jeté" }
+	},
+	"infinitif": { "présent": { "jeter": "" }, "passé": { "avoir": "jeté" } }
+}

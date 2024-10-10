@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "seek; search; search for; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se rechercher/ne pas rechercher/ne pas se rechercher",
+	"indicatif": {
+		"présent": {
+			"je": "recherche",
+			"tu": "recherches",
+			"il/elle": "recherche",
+			"nous": "recherchons",
+			"vous": "recherchez",
+			"ils/elles": "recherchent"
+		},
+		"imparfait": {
+			"je": "recherchais",
+			"tu": "recherchais",
+			"il/elle": "recherchait",
+			"nous": "recherchions",
+			"vous": "recherchiez",
+			"ils/elles": "recherchaient"
+		},
+		"futur": {
+			"je": "rechercherai",
+			"tu": "rechercheras",
+			"il/elle": "recherchera",
+			"nous": "rechercherons",
+			"vous": "rechercherez",
+			"ils/elles": "rechercheront"
+		},
+		"passé simple": {
+			"je": "recherchai",
+			"tu": "recherchas",
+			"il/elle": "rechercha",
+			"nous": "recherchâmes",
+			"vous": "recherchâtes",
+			"ils/elles": "recherchèrent"
+		},
+		"passé composé": {
+			"j'": "ai recherché",
+			"tu": "as recherché",
+			"il/elle": "a recherché",
+			"nous": "avons recherché",
+			"vous": "avez recherché",
+			"ils/elles": "ont recherché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais recherché",
+			"tu": "avais recherché",
+			"il/elle": "avait recherché",
+			"nous": "avions recherché",
+			"vous": "aviez recherché",
+			"ils/elles": "avaient recherché"
+		},
+		"passé antérieur": {
+			"j'": "eus recherché",
+			"tu": "eus recherché",
+			"il/elle": "eut recherché",
+			"nous": "eûmes recherché",
+			"vous": "eûtes recherché",
+			"ils/elles": "eurent recherché"
+		},
+		"futur antérieur": {
+			"j'": "aurai recherché",
+			"tu": "auras recherché",
+			"il/elle": "aura recherché",
+			"nous": "aurons recherché",
+			"vous": "aurez recherché",
+			"ils/elles": "auront recherché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous recherchiez",
+			"qu'il/elle": "recherche",
+			"qu'ils/elles": "recherchent"
+		},
+		"imparfait": {
+			"que": "vous recherchassiez",
+			"qu'il/elle": "recherchât",
+			"qu'ils/elles": "recherchassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse recherché",
+			"que": "vous eussiez recherché",
+			"qu'il/elle": "eût recherché",
+			"qu'ils/elles": "eussent recherché"
+		},
+		"passé": {
+			"j'": "aie recherché",
+			"que": "vous ayez recherché",
+			"qu'il/elle": "ait recherché",
+			"qu'ils/elles": "aient recherché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "rechercherais",
+			"tu": "rechercherais",
+			"il/elle": "rechercherait",
+			"nous": "rechercherions",
+			"vous": "rechercheriez",
+			"ils/elles": "rechercheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais recherché",
+			"tu": "aurais recherché",
+			"il/elle": "aurait recherché",
+			"nous": "aurions recherché",
+			"vous": "auriez recherché",
+			"ils/elles": "auraient recherché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse recherché",
+			"tu": "eusses recherché",
+			"il/elle": "eût recherché",
+			"nous": "eussions recherché",
+			"vous": "eussiez recherché",
+			"ils/elles": "eussent recherché"
+		}
+	},
+	"participe": {
+		"présent": { "recherchant": "" },
+		"passé composé": { "ayant": "recherché" },
+		"passé": {
+			"masc.sg.:": "recherché",
+			"masc.pl.:": "recherchés",
+			"fém.sg.:": "recherchée",
+			"fém.pl.:": "recherchées"
+		}
+	},
+	"imperatif": {
+		"présent": { "recherche": "", "recherchons": "", "recherchez": "" },
+		"passé": { "aie": "recherché", "ayons": "recherché", "ayez": "recherché" }
+	},
+	"infinitif": {
+		"présent": { "rechercher": "" },
+		"passé": { "avoir": "recherché" }
+	}
+}

@@ -1,0 +1,138 @@
+{
+	"name": "finir",
+	"definition": "meet; gather; bring together; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se réunir/ne pas réunir/ne pas se réunir",
+	"indicatif": {
+		"présent": {
+			"je": "réunis",
+			"tu": "réunis",
+			"il/elle": "réunit",
+			"nous": "réunissons",
+			"vous": "réunissez",
+			"ils/elles": "réunissent"
+		},
+		"imparfait": {
+			"je": "réunissais",
+			"tu": "réunissais",
+			"il/elle": "réunissait",
+			"nous": "réunissions",
+			"vous": "réunissiez",
+			"ils/elles": "réunissaient"
+		},
+		"futur": {
+			"je": "réunirai",
+			"tu": "réuniras",
+			"il/elle": "réunira",
+			"nous": "réunirons",
+			"vous": "réunirez",
+			"ils/elles": "réuniront"
+		},
+		"passé simple": {
+			"je": "réunis",
+			"tu": "réunis",
+			"il/elle": "réunit",
+			"nous": "réunîmes",
+			"vous": "réunîtes",
+			"ils/elles": "réunirent"
+		},
+		"passé composé": {
+			"j'": "ai réuni",
+			"tu": "as réuni",
+			"il/elle": "a réuni",
+			"nous": "avons réuni",
+			"vous": "avez réuni",
+			"ils/elles": "ont réuni"
+		},
+		"plus-que-parfait": {
+			"j'": "avais réuni",
+			"tu": "avais réuni",
+			"il/elle": "avait réuni",
+			"nous": "avions réuni",
+			"vous": "aviez réuni",
+			"ils/elles": "avaient réuni"
+		},
+		"passé antérieur": {
+			"j'": "eus réuni",
+			"tu": "eus réuni",
+			"il/elle": "eut réuni",
+			"nous": "eûmes réuni",
+			"vous": "eûtes réuni",
+			"ils/elles": "eurent réuni"
+		},
+		"futur antérieur": {
+			"j'": "aurai réuni",
+			"tu": "auras réuni",
+			"il/elle": "aura réuni",
+			"nous": "aurons réuni",
+			"vous": "aurez réuni",
+			"ils/elles": "auront réuni"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous réunissiez",
+			"qu'il/elle": "réunisse",
+			"qu'ils/elles": "réunissent"
+		},
+		"imparfait": {
+			"que": "vous réunissiez",
+			"qu'il/elle": "réunît",
+			"qu'ils/elles": "réunissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse réuni",
+			"que": "vous eussiez réuni",
+			"qu'il/elle": "eût réuni",
+			"qu'ils/elles": "eussent réuni"
+		},
+		"passé": {
+			"j'": "aie réuni",
+			"que": "vous ayez réuni",
+			"qu'il/elle": "ait réuni",
+			"qu'ils/elles": "aient réuni"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "réunirais",
+			"tu": "réunirais",
+			"il/elle": "réunirait",
+			"nous": "réunirions",
+			"vous": "réuniriez",
+			"ils/elles": "réuniraient"
+		},
+		"passé première forme": {
+			"j'": "aurais réuni",
+			"tu": "aurais réuni",
+			"il/elle": "aurait réuni",
+			"nous": "aurions réuni",
+			"vous": "auriez réuni",
+			"ils/elles": "auraient réuni"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse réuni",
+			"tu": "eusses réuni",
+			"il/elle": "eût réuni",
+			"nous": "eussions réuni",
+			"vous": "eussiez réuni",
+			"ils/elles": "eussent réuni"
+		}
+	},
+	"participe": {
+		"présent": { "réunissant": "" },
+		"passé composé": { "ayant": "réuni" },
+		"passé": {
+			"masc.sg.:": "réuni",
+			"masc.pl.:": "réunis",
+			"fém.sg.:": "réunie",
+			"fém.pl.:": "réunies"
+		}
+	},
+	"imperatif": {
+		"présent": { "réunis": "", "réunissons": "", "réunissez": "" },
+		"passé": { "aie": "réuni", "ayons": "réuni", "ayez": "réuni" }
+	},
+	"infinitif": { "présent": { "réunir": "" }, "passé": { "avoir": "réuni" } }
+}

@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "listen to; listen; hear; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'écouter/ne pas écouter/ne pas s'écouter",
+	"indicatif": {
+		"présent": {
+			"j'": "écoute",
+			"tu": "écoutes",
+			"il/elle": "écoute",
+			"nous": "écoutons",
+			"vous": "écoutez",
+			"ils/elles": "écoutent"
+		},
+		"imparfait": {
+			"j'": "écoutais",
+			"tu": "écoutais",
+			"il/elle": "écoutait",
+			"nous": "écoutions",
+			"vous": "écoutiez",
+			"ils/elles": "écoutaient"
+		},
+		"futur": {
+			"j'": "écouterai",
+			"tu": "écouteras",
+			"il/elle": "écoutera",
+			"nous": "écouterons",
+			"vous": "écouterez",
+			"ils/elles": "écouteront"
+		},
+		"passé simple": {
+			"j'": "écoutai",
+			"tu": "écoutas",
+			"il/elle": "écouta",
+			"nous": "écoutâmes",
+			"vous": "écoutâtes",
+			"ils/elles": "écoutèrent"
+		},
+		"passé composé": {
+			"j'": "ai écouté",
+			"tu": "as écouté",
+			"il/elle": "a écouté",
+			"nous": "avons écouté",
+			"vous": "avez écouté",
+			"ils/elles": "ont écouté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais écouté",
+			"tu": "avais écouté",
+			"il/elle": "avait écouté",
+			"nous": "avions écouté",
+			"vous": "aviez écouté",
+			"ils/elles": "avaient écouté"
+		},
+		"passé antérieur": {
+			"j'": "eus écouté",
+			"tu": "eus écouté",
+			"il/elle": "eut écouté",
+			"nous": "eûmes écouté",
+			"vous": "eûtes écouté",
+			"ils/elles": "eurent écouté"
+		},
+		"futur antérieur": {
+			"j'": "aurai écouté",
+			"tu": "auras écouté",
+			"il/elle": "aura écouté",
+			"nous": "aurons écouté",
+			"vous": "aurez écouté",
+			"ils/elles": "auront écouté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "écoute",
+			"que": "vous écoutiez",
+			"qu'il/elle": "écoute",
+			"qu'ils/elles": "écoutent"
+		},
+		"imparfait": {
+			"j'": "écoutasse",
+			"que": "vous écoutassiez",
+			"qu'il/elle": "écoutât",
+			"qu'ils/elles": "écoutassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse écouté",
+			"que": "vous eussiez écouté",
+			"qu'il/elle": "eût écouté",
+			"qu'ils/elles": "eussent écouté"
+		},
+		"passé": {
+			"j'": "aie écouté",
+			"que": "vous ayez écouté",
+			"qu'il/elle": "ait écouté",
+			"qu'ils/elles": "aient écouté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "écouterais",
+			"tu": "écouterais",
+			"il/elle": "écouterait",
+			"nous": "écouterions",
+			"vous": "écouteriez",
+			"ils/elles": "écouteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais écouté",
+			"tu": "aurais écouté",
+			"il/elle": "aurait écouté",
+			"nous": "aurions écouté",
+			"vous": "auriez écouté",
+			"ils/elles": "auraient écouté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse écouté",
+			"tu": "eusses écouté",
+			"il/elle": "eût écouté",
+			"nous": "eussions écouté",
+			"vous": "eussiez écouté",
+			"ils/elles": "eussent écouté"
+		}
+	},
+	"participe": {
+		"présent": { "écoutant": "" },
+		"passé composé": { "ayant": "écouté" },
+		"passé": {
+			"masc.sg.:": "écouté",
+			"masc.pl.:": "écoutés",
+			"fém.sg.:": "écoutée",
+			"fém.pl.:": "écoutées"
+		}
+	},
+	"imperatif": {
+		"présent": { "écoute": "", "écoutons": "", "écoutez": "" },
+		"passé": { "aie": "écouté", "ayons": "écouté", "ayez": "écouté" }
+	},
+	"infinitif": { "présent": { "écouter": "" }, "passé": { "avoir": "écouté" } }
+}

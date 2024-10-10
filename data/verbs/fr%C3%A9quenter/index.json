@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "attend; date; go to; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se fréquenter/ne pas fréquenter/ne pas se fréquenter",
+	"indicatif": {
+		"présent": {
+			"je": "fréquente",
+			"tu": "fréquentes",
+			"il/elle": "fréquente",
+			"nous": "fréquentons",
+			"vous": "fréquentez",
+			"ils/elles": "fréquentent"
+		},
+		"imparfait": {
+			"je": "fréquentais",
+			"tu": "fréquentais",
+			"il/elle": "fréquentait",
+			"nous": "fréquentions",
+			"vous": "fréquentiez",
+			"ils/elles": "fréquentaient"
+		},
+		"futur": {
+			"je": "fréquenterai",
+			"tu": "fréquenteras",
+			"il/elle": "fréquentera",
+			"nous": "fréquenterons",
+			"vous": "fréquenterez",
+			"ils/elles": "fréquenteront"
+		},
+		"passé simple": {
+			"je": "fréquentai",
+			"tu": "fréquentas",
+			"il/elle": "fréquenta",
+			"nous": "fréquentâmes",
+			"vous": "fréquentâtes",
+			"ils/elles": "fréquentèrent"
+		},
+		"passé composé": {
+			"j'": "ai fréquenté",
+			"tu": "as fréquenté",
+			"il/elle": "a fréquenté",
+			"nous": "avons fréquenté",
+			"vous": "avez fréquenté",
+			"ils/elles": "ont fréquenté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais fréquenté",
+			"tu": "avais fréquenté",
+			"il/elle": "avait fréquenté",
+			"nous": "avions fréquenté",
+			"vous": "aviez fréquenté",
+			"ils/elles": "avaient fréquenté"
+		},
+		"passé antérieur": {
+			"j'": "eus fréquenté",
+			"tu": "eus fréquenté",
+			"il/elle": "eut fréquenté",
+			"nous": "eûmes fréquenté",
+			"vous": "eûtes fréquenté",
+			"ils/elles": "eurent fréquenté"
+		},
+		"futur antérieur": {
+			"j'": "aurai fréquenté",
+			"tu": "auras fréquenté",
+			"il/elle": "aura fréquenté",
+			"nous": "aurons fréquenté",
+			"vous": "aurez fréquenté",
+			"ils/elles": "auront fréquenté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous fréquentiez",
+			"qu'il/elle": "fréquente",
+			"qu'ils/elles": "fréquentent"
+		},
+		"imparfait": {
+			"que": "vous fréquentassiez",
+			"qu'il/elle": "fréquentât",
+			"qu'ils/elles": "fréquentassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse fréquenté",
+			"que": "vous eussiez fréquenté",
+			"qu'il/elle": "eût fréquenté",
+			"qu'ils/elles": "eussent fréquenté"
+		},
+		"passé": {
+			"j'": "aie fréquenté",
+			"que": "vous ayez fréquenté",
+			"qu'il/elle": "ait fréquenté",
+			"qu'ils/elles": "aient fréquenté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "fréquenterais",
+			"tu": "fréquenterais",
+			"il/elle": "fréquenterait",
+			"nous": "fréquenterions",
+			"vous": "fréquenteriez",
+			"ils/elles": "fréquenteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais fréquenté",
+			"tu": "aurais fréquenté",
+			"il/elle": "aurait fréquenté",
+			"nous": "aurions fréquenté",
+			"vous": "auriez fréquenté",
+			"ils/elles": "auraient fréquenté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse fréquenté",
+			"tu": "eusses fréquenté",
+			"il/elle": "eût fréquenté",
+			"nous": "eussions fréquenté",
+			"vous": "eussiez fréquenté",
+			"ils/elles": "eussent fréquenté"
+		}
+	},
+	"participe": {
+		"présent": { "fréquentant": "" },
+		"passé composé": { "ayant": "fréquenté" },
+		"passé": {
+			"masc.sg.:": "fréquenté",
+			"masc.pl.:": "fréquentés",
+			"fém.sg.:": "fréquentée",
+			"fém.pl.:": "fréquentées"
+		}
+	},
+	"imperatif": {
+		"présent": { "fréquente": "", "fréquentons": "", "fréquentez": "" },
+		"passé": { "aie": "fréquenté", "ayons": "fréquenté", "ayez": "fréquenté" }
+	},
+	"infinitif": {
+		"présent": { "fréquenter": "" },
+		"passé": { "avoir": "fréquenté" }
+	}
+}

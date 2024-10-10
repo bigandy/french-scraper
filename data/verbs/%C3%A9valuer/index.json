@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "assess; evaluate; estimate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'évaluer/ne pas évaluer/ne pas s'évaluer",
+	"indicatif": {
+		"présent": {
+			"j'": "évalue",
+			"tu": "évalues",
+			"il/elle": "évalue",
+			"nous": "évaluons",
+			"vous": "évaluez",
+			"ils/elles": "évaluent"
+		},
+		"imparfait": {
+			"j'": "évaluais",
+			"tu": "évaluais",
+			"il/elle": "évaluait",
+			"nous": "évaluions",
+			"vous": "évaluiez",
+			"ils/elles": "évaluaient"
+		},
+		"futur": {
+			"j'": "évaluerai",
+			"tu": "évalueras",
+			"il/elle": "évaluera",
+			"nous": "évaluerons",
+			"vous": "évaluerez",
+			"ils/elles": "évalueront"
+		},
+		"passé simple": {
+			"j'": "évaluai",
+			"tu": "évaluas",
+			"il/elle": "évalua",
+			"nous": "évaluâmes",
+			"vous": "évaluâtes",
+			"ils/elles": "évaluèrent"
+		},
+		"passé composé": {
+			"j'": "ai évalué",
+			"tu": "as évalué",
+			"il/elle": "a évalué",
+			"nous": "avons évalué",
+			"vous": "avez évalué",
+			"ils/elles": "ont évalué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais évalué",
+			"tu": "avais évalué",
+			"il/elle": "avait évalué",
+			"nous": "avions évalué",
+			"vous": "aviez évalué",
+			"ils/elles": "avaient évalué"
+		},
+		"passé antérieur": {
+			"j'": "eus évalué",
+			"tu": "eus évalué",
+			"il/elle": "eut évalué",
+			"nous": "eûmes évalué",
+			"vous": "eûtes évalué",
+			"ils/elles": "eurent évalué"
+		},
+		"futur antérieur": {
+			"j'": "aurai évalué",
+			"tu": "auras évalué",
+			"il/elle": "aura évalué",
+			"nous": "aurons évalué",
+			"vous": "aurez évalué",
+			"ils/elles": "auront évalué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "évalue",
+			"que": "vous évaluiez",
+			"qu'il/elle": "évalue",
+			"qu'ils/elles": "évaluent"
+		},
+		"imparfait": {
+			"j'": "évaluasse",
+			"que": "vous évaluassiez",
+			"qu'il/elle": "évaluât",
+			"qu'ils/elles": "évaluassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse évalué",
+			"que": "vous eussiez évalué",
+			"qu'il/elle": "eût évalué",
+			"qu'ils/elles": "eussent évalué"
+		},
+		"passé": {
+			"j'": "aie évalué",
+			"que": "vous ayez évalué",
+			"qu'il/elle": "ait évalué",
+			"qu'ils/elles": "aient évalué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "évaluerais",
+			"tu": "évaluerais",
+			"il/elle": "évaluerait",
+			"nous": "évaluerions",
+			"vous": "évalueriez",
+			"ils/elles": "évalueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais évalué",
+			"tu": "aurais évalué",
+			"il/elle": "aurait évalué",
+			"nous": "aurions évalué",
+			"vous": "auriez évalué",
+			"ils/elles": "auraient évalué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse évalué",
+			"tu": "eusses évalué",
+			"il/elle": "eût évalué",
+			"nous": "eussions évalué",
+			"vous": "eussiez évalué",
+			"ils/elles": "eussent évalué"
+		}
+	},
+	"participe": {
+		"présent": { "évaluant": "" },
+		"passé composé": { "ayant": "évalué" },
+		"passé": {
+			"masc.sg.:": "évalué",
+			"masc.pl.:": "évalués",
+			"fém.sg.:": "évaluée",
+			"fém.pl.:": "évaluées"
+		}
+	},
+	"imperatif": {
+		"présent": { "évalue": "", "évaluons": "", "évaluez": "" },
+		"passé": { "aie": "évalué", "ayons": "évalué", "ayez": "évalué" }
+	},
+	"infinitif": { "présent": { "évaluer": "" }, "passé": { "avoir": "évalué" } }
+}

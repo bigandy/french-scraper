@@ -1,0 +1,141 @@
+{
+	"name": "cuire",
+	"definition": "drive; lead; conduct; ...",
+	"model": "cuire",
+	"auxiliary": "avoir",
+	"otherForms": "se conduire/ne pas conduire/ne pas se conduire",
+	"indicatif": {
+		"présent": {
+			"je": "conduis",
+			"tu": "conduis",
+			"il/elle": "conduit",
+			"nous": "conduisons",
+			"vous": "conduisez",
+			"ils/elles": "conduisent"
+		},
+		"imparfait": {
+			"je": "conduisais",
+			"tu": "conduisais",
+			"il/elle": "conduisait",
+			"nous": "conduisions",
+			"vous": "conduisiez",
+			"ils/elles": "conduisaient"
+		},
+		"futur": {
+			"je": "conduirai",
+			"tu": "conduiras",
+			"il/elle": "conduira",
+			"nous": "conduirons",
+			"vous": "conduirez",
+			"ils/elles": "conduiront"
+		},
+		"passé simple": {
+			"je": "conduisis",
+			"tu": "conduisis",
+			"il/elle": "conduisit",
+			"nous": "conduisîmes",
+			"vous": "conduisîtes",
+			"ils/elles": "conduisirent"
+		},
+		"passé composé": {
+			"j'": "ai conduit",
+			"tu": "as conduit",
+			"il/elle": "a conduit",
+			"nous": "avons conduit",
+			"vous": "avez conduit",
+			"ils/elles": "ont conduit"
+		},
+		"plus-que-parfait": {
+			"j'": "avais conduit",
+			"tu": "avais conduit",
+			"il/elle": "avait conduit",
+			"nous": "avions conduit",
+			"vous": "aviez conduit",
+			"ils/elles": "avaient conduit"
+		},
+		"passé antérieur": {
+			"j'": "eus conduit",
+			"tu": "eus conduit",
+			"il/elle": "eut conduit",
+			"nous": "eûmes conduit",
+			"vous": "eûtes conduit",
+			"ils/elles": "eurent conduit"
+		},
+		"futur antérieur": {
+			"j'": "aurai conduit",
+			"tu": "auras conduit",
+			"il/elle": "aura conduit",
+			"nous": "aurons conduit",
+			"vous": "aurez conduit",
+			"ils/elles": "auront conduit"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous conduisiez",
+			"qu'il/elle": "conduise",
+			"qu'ils/elles": "conduisent"
+		},
+		"imparfait": {
+			"que": "vous conduisissiez",
+			"qu'il/elle": "conduisît",
+			"qu'ils/elles": "conduisissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse conduit",
+			"que": "vous eussiez conduit",
+			"qu'il/elle": "eût conduit",
+			"qu'ils/elles": "eussent conduit"
+		},
+		"passé": {
+			"j'": "aie conduit",
+			"que": "vous ayez conduit",
+			"qu'il/elle": "ait conduit",
+			"qu'ils/elles": "aient conduit"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "conduirais",
+			"tu": "conduirais",
+			"il/elle": "conduirait",
+			"nous": "conduirions",
+			"vous": "conduiriez",
+			"ils/elles": "conduiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais conduit",
+			"tu": "aurais conduit",
+			"il/elle": "aurait conduit",
+			"nous": "aurions conduit",
+			"vous": "auriez conduit",
+			"ils/elles": "auraient conduit"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse conduit",
+			"tu": "eusses conduit",
+			"il/elle": "eût conduit",
+			"nous": "eussions conduit",
+			"vous": "eussiez conduit",
+			"ils/elles": "eussent conduit"
+		}
+	},
+	"participe": {
+		"présent": { "conduisant": "" },
+		"passé composé": { "ayant": "conduit" },
+		"passé": {
+			"masc.sg.:": "conduit",
+			"masc.pl.:": "conduits",
+			"fém.sg.:": "conduite",
+			"fém.pl.:": "conduites"
+		}
+	},
+	"imperatif": {
+		"présent": { "conduis": "", "conduisons": "", "conduisez": "" },
+		"passé": { "aie": "conduit", "ayons": "conduit", "ayez": "conduit" }
+	},
+	"infinitif": {
+		"présent": { "conduire": "" },
+		"passé": { "avoir": "conduit" }
+	}
+}

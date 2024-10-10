@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "apologize; excuse; apologise; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'excuser/ne pas excuser/ne pas s'excuser",
+	"indicatif": {
+		"présent": {
+			"j'": "excuse",
+			"tu": "excuses",
+			"il/elle": "excuse",
+			"nous": "excusons",
+			"vous": "excusez",
+			"ils/elles": "excusent"
+		},
+		"imparfait": {
+			"j'": "excusais",
+			"tu": "excusais",
+			"il/elle": "excusait",
+			"nous": "excusions",
+			"vous": "excusiez",
+			"ils/elles": "excusaient"
+		},
+		"futur": {
+			"j'": "excuserai",
+			"tu": "excuseras",
+			"il/elle": "excusera",
+			"nous": "excuserons",
+			"vous": "excuserez",
+			"ils/elles": "excuseront"
+		},
+		"passé simple": {
+			"j'": "excusai",
+			"tu": "excusas",
+			"il/elle": "excusa",
+			"nous": "excusâmes",
+			"vous": "excusâtes",
+			"ils/elles": "excusèrent"
+		},
+		"passé composé": {
+			"j'": "ai excusé",
+			"tu": "as excusé",
+			"il/elle": "a excusé",
+			"nous": "avons excusé",
+			"vous": "avez excusé",
+			"ils/elles": "ont excusé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais excusé",
+			"tu": "avais excusé",
+			"il/elle": "avait excusé",
+			"nous": "avions excusé",
+			"vous": "aviez excusé",
+			"ils/elles": "avaient excusé"
+		},
+		"passé antérieur": {
+			"j'": "eus excusé",
+			"tu": "eus excusé",
+			"il/elle": "eut excusé",
+			"nous": "eûmes excusé",
+			"vous": "eûtes excusé",
+			"ils/elles": "eurent excusé"
+		},
+		"futur antérieur": {
+			"j'": "aurai excusé",
+			"tu": "auras excusé",
+			"il/elle": "aura excusé",
+			"nous": "aurons excusé",
+			"vous": "aurez excusé",
+			"ils/elles": "auront excusé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "excuse",
+			"que": "vous excusiez",
+			"qu'il/elle": "excuse",
+			"qu'ils/elles": "excusent"
+		},
+		"imparfait": {
+			"j'": "excusasse",
+			"que": "vous excusassiez",
+			"qu'il/elle": "excusât",
+			"qu'ils/elles": "excusassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse excusé",
+			"que": "vous eussiez excusé",
+			"qu'il/elle": "eût excusé",
+			"qu'ils/elles": "eussent excusé"
+		},
+		"passé": {
+			"j'": "aie excusé",
+			"que": "vous ayez excusé",
+			"qu'il/elle": "ait excusé",
+			"qu'ils/elles": "aient excusé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "excuserais",
+			"tu": "excuserais",
+			"il/elle": "excuserait",
+			"nous": "excuserions",
+			"vous": "excuseriez",
+			"ils/elles": "excuseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais excusé",
+			"tu": "aurais excusé",
+			"il/elle": "aurait excusé",
+			"nous": "aurions excusé",
+			"vous": "auriez excusé",
+			"ils/elles": "auraient excusé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse excusé",
+			"tu": "eusses excusé",
+			"il/elle": "eût excusé",
+			"nous": "eussions excusé",
+			"vous": "eussiez excusé",
+			"ils/elles": "eussent excusé"
+		}
+	},
+	"participe": {
+		"présent": { "excusant": "" },
+		"passé composé": { "ayant": "excusé" },
+		"passé": {
+			"masc.sg.:": "excusé",
+			"masc.pl.:": "excusés",
+			"fém.sg.:": "excusée",
+			"fém.pl.:": "excusées"
+		}
+	},
+	"imperatif": {
+		"présent": { "excuse": "", "excusons": "", "excusez": "" },
+		"passé": { "aie": "excusé", "ayons": "excusé", "ayez": "excusé" }
+	},
+	"infinitif": { "présent": { "excuser": "" }, "passé": { "avoir": "excusé" } }
+}

@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "hang out; drag; hang around; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se traîner/ne pas traîner/ne pas se traîner",
+	"indicatif": {
+		"présent": {
+			"je": "traîne",
+			"tu": "traînes",
+			"il/elle": "traîne",
+			"nous": "traînons",
+			"vous": "traînez",
+			"ils/elles": "traînent"
+		},
+		"imparfait": {
+			"je": "traînais",
+			"tu": "traînais",
+			"il/elle": "traînait",
+			"nous": "traînions",
+			"vous": "traîniez",
+			"ils/elles": "traînaient"
+		},
+		"futur": {
+			"je": "traînerai",
+			"tu": "traîneras",
+			"il/elle": "traînera",
+			"nous": "traînerons",
+			"vous": "traînerez",
+			"ils/elles": "traîneront"
+		},
+		"passé simple": {
+			"je": "traînai",
+			"tu": "traînas",
+			"il/elle": "traîna",
+			"nous": "traînâmes",
+			"vous": "traînâtes",
+			"ils/elles": "traînèrent"
+		},
+		"passé composé": {
+			"j'": "ai traîné",
+			"tu": "as traîné",
+			"il/elle": "a traîné",
+			"nous": "avons traîné",
+			"vous": "avez traîné",
+			"ils/elles": "ont traîné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais traîné",
+			"tu": "avais traîné",
+			"il/elle": "avait traîné",
+			"nous": "avions traîné",
+			"vous": "aviez traîné",
+			"ils/elles": "avaient traîné"
+		},
+		"passé antérieur": {
+			"j'": "eus traîné",
+			"tu": "eus traîné",
+			"il/elle": "eut traîné",
+			"nous": "eûmes traîné",
+			"vous": "eûtes traîné",
+			"ils/elles": "eurent traîné"
+		},
+		"futur antérieur": {
+			"j'": "aurai traîné",
+			"tu": "auras traîné",
+			"il/elle": "aura traîné",
+			"nous": "aurons traîné",
+			"vous": "aurez traîné",
+			"ils/elles": "auront traîné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous traîniez",
+			"qu'il/elle": "traîne",
+			"qu'ils/elles": "traînent"
+		},
+		"imparfait": {
+			"que": "vous traînassiez",
+			"qu'il/elle": "traînât",
+			"qu'ils/elles": "traînassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse traîné",
+			"que": "vous eussiez traîné",
+			"qu'il/elle": "eût traîné",
+			"qu'ils/elles": "eussent traîné"
+		},
+		"passé": {
+			"j'": "aie traîné",
+			"que": "vous ayez traîné",
+			"qu'il/elle": "ait traîné",
+			"qu'ils/elles": "aient traîné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "traînerais",
+			"tu": "traînerais",
+			"il/elle": "traînerait",
+			"nous": "traînerions",
+			"vous": "traîneriez",
+			"ils/elles": "traîneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais traîné",
+			"tu": "aurais traîné",
+			"il/elle": "aurait traîné",
+			"nous": "aurions traîné",
+			"vous": "auriez traîné",
+			"ils/elles": "auraient traîné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse traîné",
+			"tu": "eusses traîné",
+			"il/elle": "eût traîné",
+			"nous": "eussions traîné",
+			"vous": "eussiez traîné",
+			"ils/elles": "eussent traîné"
+		}
+	},
+	"participe": {
+		"présent": { "traînant": "" },
+		"passé composé": { "ayant": "traîné" },
+		"passé": {
+			"masc.sg.:": "traîné",
+			"masc.pl.:": "traînés",
+			"fém.sg.:": "traînée",
+			"fém.pl.:": "traînées"
+		}
+	},
+	"imperatif": {
+		"présent": { "traîne": "", "traînons": "", "traînez": "" },
+		"passé": { "aie": "traîné", "ayons": "traîné", "ayez": "traîné" }
+	},
+	"infinitif": { "présent": { "traîner": "" }, "passé": { "avoir": "traîné" } }
+}

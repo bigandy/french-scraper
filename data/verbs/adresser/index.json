@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "address; send; contact; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'adresser/ne pas adresser/ne pas s'adresser",
+	"indicatif": {
+		"présent": {
+			"j'": "adresse",
+			"tu": "adresses",
+			"il/elle": "adresse",
+			"nous": "adressons",
+			"vous": "adressez",
+			"ils/elles": "adressent"
+		},
+		"imparfait": {
+			"j'": "adressais",
+			"tu": "adressais",
+			"il/elle": "adressait",
+			"nous": "adressions",
+			"vous": "adressiez",
+			"ils/elles": "adressaient"
+		},
+		"futur": {
+			"j'": "adresserai",
+			"tu": "adresseras",
+			"il/elle": "adressera",
+			"nous": "adresserons",
+			"vous": "adresserez",
+			"ils/elles": "adresseront"
+		},
+		"passé simple": {
+			"j'": "adressai",
+			"tu": "adressas",
+			"il/elle": "adressa",
+			"nous": "adressâmes",
+			"vous": "adressâtes",
+			"ils/elles": "adressèrent"
+		},
+		"passé composé": {
+			"j'": "ai adressé",
+			"tu": "as adressé",
+			"il/elle": "a adressé",
+			"nous": "avons adressé",
+			"vous": "avez adressé",
+			"ils/elles": "ont adressé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais adressé",
+			"tu": "avais adressé",
+			"il/elle": "avait adressé",
+			"nous": "avions adressé",
+			"vous": "aviez adressé",
+			"ils/elles": "avaient adressé"
+		},
+		"passé antérieur": {
+			"j'": "eus adressé",
+			"tu": "eus adressé",
+			"il/elle": "eut adressé",
+			"nous": "eûmes adressé",
+			"vous": "eûtes adressé",
+			"ils/elles": "eurent adressé"
+		},
+		"futur antérieur": {
+			"j'": "aurai adressé",
+			"tu": "auras adressé",
+			"il/elle": "aura adressé",
+			"nous": "aurons adressé",
+			"vous": "aurez adressé",
+			"ils/elles": "auront adressé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "adresse",
+			"que": "vous adressiez",
+			"qu'il/elle": "adresse",
+			"qu'ils/elles": "adressent"
+		},
+		"imparfait": {
+			"j'": "adressasse",
+			"que": "vous adressassiez",
+			"qu'il/elle": "adressât",
+			"qu'ils/elles": "adressassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse adressé",
+			"que": "vous eussiez adressé",
+			"qu'il/elle": "eût adressé",
+			"qu'ils/elles": "eussent adressé"
+		},
+		"passé": {
+			"j'": "aie adressé",
+			"que": "vous ayez adressé",
+			"qu'il/elle": "ait adressé",
+			"qu'ils/elles": "aient adressé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "adresserais",
+			"tu": "adresserais",
+			"il/elle": "adresserait",
+			"nous": "adresserions",
+			"vous": "adresseriez",
+			"ils/elles": "adresseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais adressé",
+			"tu": "aurais adressé",
+			"il/elle": "aurait adressé",
+			"nous": "aurions adressé",
+			"vous": "auriez adressé",
+			"ils/elles": "auraient adressé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse adressé",
+			"tu": "eusses adressé",
+			"il/elle": "eût adressé",
+			"nous": "eussions adressé",
+			"vous": "eussiez adressé",
+			"ils/elles": "eussent adressé"
+		}
+	},
+	"participe": {
+		"présent": { "adressant": "" },
+		"passé composé": { "ayant": "adressé" },
+		"passé": {
+			"masc.sg.:": "adressé",
+			"masc.pl.:": "adressés",
+			"fém.sg.:": "adressée",
+			"fém.pl.:": "adressées"
+		}
+	},
+	"imperatif": {
+		"présent": { "adresse": "", "adressons": "", "adressez": "" },
+		"passé": { "aie": "adressé", "ayons": "adressé", "ayez": "adressé" }
+	},
+	"infinitif": {
+		"présent": { "adresser": "" },
+		"passé": { "avoir": "adressé" }
+	}
+}

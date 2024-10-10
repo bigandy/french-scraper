@@ -1,0 +1,138 @@
+{
+	"name": "recevoir",
+	"definition": "disappoint; deceive; fail; ...",
+	"model": "recevoir",
+	"auxiliary": "avoir",
+	"otherForms": "se décevoir/ne pas décevoir/ne pas se décevoir",
+	"indicatif": {
+		"présent": {
+			"je": "déçois",
+			"tu": "déçois",
+			"il/elle": "déçoit",
+			"nous": "décevons",
+			"vous": "décevez",
+			"ils/elles": "déçoivent"
+		},
+		"imparfait": {
+			"je": "décevais",
+			"tu": "décevais",
+			"il/elle": "décevait",
+			"nous": "décevions",
+			"vous": "déceviez",
+			"ils/elles": "décevaient"
+		},
+		"futur": {
+			"je": "décevrai",
+			"tu": "décevras",
+			"il/elle": "décevra",
+			"nous": "décevrons",
+			"vous": "décevrez",
+			"ils/elles": "décevront"
+		},
+		"passé simple": {
+			"je": "déçus",
+			"tu": "déçus",
+			"il/elle": "déçut",
+			"nous": "déçûmes",
+			"vous": "déçûtes",
+			"ils/elles": "déçurent"
+		},
+		"passé composé": {
+			"j'": "ai déçu",
+			"tu": "as déçu",
+			"il/elle": "a déçu",
+			"nous": "avons déçu",
+			"vous": "avez déçu",
+			"ils/elles": "ont déçu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais déçu",
+			"tu": "avais déçu",
+			"il/elle": "avait déçu",
+			"nous": "avions déçu",
+			"vous": "aviez déçu",
+			"ils/elles": "avaient déçu"
+		},
+		"passé antérieur": {
+			"j'": "eus déçu",
+			"tu": "eus déçu",
+			"il/elle": "eut déçu",
+			"nous": "eûmes déçu",
+			"vous": "eûtes déçu",
+			"ils/elles": "eurent déçu"
+		},
+		"futur antérieur": {
+			"j'": "aurai déçu",
+			"tu": "auras déçu",
+			"il/elle": "aura déçu",
+			"nous": "aurons déçu",
+			"vous": "aurez déçu",
+			"ils/elles": "auront déçu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous déceviez",
+			"qu'il/elle": "déçoive",
+			"qu'ils/elles": "déçoivent"
+		},
+		"imparfait": {
+			"que": "vous déçussiez",
+			"qu'il/elle": "déçût",
+			"qu'ils/elles": "déçussent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse déçu",
+			"que": "vous eussiez déçu",
+			"qu'il/elle": "eût déçu",
+			"qu'ils/elles": "eussent déçu"
+		},
+		"passé": {
+			"j'": "aie déçu",
+			"que": "vous ayez déçu",
+			"qu'il/elle": "ait déçu",
+			"qu'ils/elles": "aient déçu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "décevrais",
+			"tu": "décevrais",
+			"il/elle": "décevrait",
+			"nous": "décevrions",
+			"vous": "décevriez",
+			"ils/elles": "décevraient"
+		},
+		"passé première forme": {
+			"j'": "aurais déçu",
+			"tu": "aurais déçu",
+			"il/elle": "aurait déçu",
+			"nous": "aurions déçu",
+			"vous": "auriez déçu",
+			"ils/elles": "auraient déçu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse déçu",
+			"tu": "eusses déçu",
+			"il/elle": "eût déçu",
+			"nous": "eussions déçu",
+			"vous": "eussiez déçu",
+			"ils/elles": "eussent déçu"
+		}
+	},
+	"participe": {
+		"présent": { "décevant": "" },
+		"passé composé": { "ayant": "déçu" },
+		"passé": {
+			"masc.sg.:": "déçu",
+			"masc.pl.:": "déçus",
+			"fém.sg.:": "déçue",
+			"fém.pl.:": "déçues"
+		}
+	},
+	"imperatif": {
+		"présent": { "déçois": "", "décevons": "", "décevez": "" },
+		"passé": { "aie": "déçu", "ayons": "déçu", "ayez": "déçu" }
+	},
+	"infinitif": { "présent": { "décevoir": "" }, "passé": { "avoir": "déçu" } }
+}

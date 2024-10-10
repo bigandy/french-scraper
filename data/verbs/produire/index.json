@@ -1,0 +1,141 @@
+{
+	"name": "cuire",
+	"definition": "produce; generate; provide; ...",
+	"model": "cuire",
+	"auxiliary": "avoir",
+	"otherForms": "se produire/ne pas produire/ne pas se produire",
+	"indicatif": {
+		"présent": {
+			"je": "produis",
+			"tu": "produis",
+			"il/elle": "produit",
+			"nous": "produisons",
+			"vous": "produisez",
+			"ils/elles": "produisent"
+		},
+		"imparfait": {
+			"je": "produisais",
+			"tu": "produisais",
+			"il/elle": "produisait",
+			"nous": "produisions",
+			"vous": "produisiez",
+			"ils/elles": "produisaient"
+		},
+		"futur": {
+			"je": "produirai",
+			"tu": "produiras",
+			"il/elle": "produira",
+			"nous": "produirons",
+			"vous": "produirez",
+			"ils/elles": "produiront"
+		},
+		"passé simple": {
+			"je": "produisis",
+			"tu": "produisis",
+			"il/elle": "produisit",
+			"nous": "produisîmes",
+			"vous": "produisîtes",
+			"ils/elles": "produisirent"
+		},
+		"passé composé": {
+			"j'": "ai produit",
+			"tu": "as produit",
+			"il/elle": "a produit",
+			"nous": "avons produit",
+			"vous": "avez produit",
+			"ils/elles": "ont produit"
+		},
+		"plus-que-parfait": {
+			"j'": "avais produit",
+			"tu": "avais produit",
+			"il/elle": "avait produit",
+			"nous": "avions produit",
+			"vous": "aviez produit",
+			"ils/elles": "avaient produit"
+		},
+		"passé antérieur": {
+			"j'": "eus produit",
+			"tu": "eus produit",
+			"il/elle": "eut produit",
+			"nous": "eûmes produit",
+			"vous": "eûtes produit",
+			"ils/elles": "eurent produit"
+		},
+		"futur antérieur": {
+			"j'": "aurai produit",
+			"tu": "auras produit",
+			"il/elle": "aura produit",
+			"nous": "aurons produit",
+			"vous": "aurez produit",
+			"ils/elles": "auront produit"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous produisiez",
+			"qu'il/elle": "produise",
+			"qu'ils/elles": "produisent"
+		},
+		"imparfait": {
+			"que": "vous produisissiez",
+			"qu'il/elle": "produisît",
+			"qu'ils/elles": "produisissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse produit",
+			"que": "vous eussiez produit",
+			"qu'il/elle": "eût produit",
+			"qu'ils/elles": "eussent produit"
+		},
+		"passé": {
+			"j'": "aie produit",
+			"que": "vous ayez produit",
+			"qu'il/elle": "ait produit",
+			"qu'ils/elles": "aient produit"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "produirais",
+			"tu": "produirais",
+			"il/elle": "produirait",
+			"nous": "produirions",
+			"vous": "produiriez",
+			"ils/elles": "produiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais produit",
+			"tu": "aurais produit",
+			"il/elle": "aurait produit",
+			"nous": "aurions produit",
+			"vous": "auriez produit",
+			"ils/elles": "auraient produit"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse produit",
+			"tu": "eusses produit",
+			"il/elle": "eût produit",
+			"nous": "eussions produit",
+			"vous": "eussiez produit",
+			"ils/elles": "eussent produit"
+		}
+	},
+	"participe": {
+		"présent": { "produisant": "" },
+		"passé composé": { "ayant": "produit" },
+		"passé": {
+			"masc.sg.:": "produit",
+			"masc.pl.:": "produits",
+			"fém.sg.:": "produite",
+			"fém.pl.:": "produites"
+		}
+	},
+	"imperatif": {
+		"présent": { "produis": "", "produisons": "", "produisez": "" },
+		"passé": { "aie": "produit", "ayons": "produit", "ayez": "produit" }
+	},
+	"infinitif": {
+		"présent": { "produire": "" },
+		"passé": { "avoir": "produit" }
+	}
+}

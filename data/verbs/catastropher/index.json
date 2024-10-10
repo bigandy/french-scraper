@@ -1,0 +1,145 @@
+{
+	"name": "marcher",
+	"definition": "devastate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se catastropher/ne pas catastropher/ne pas se catastropher",
+	"indicatif": {
+		"présent": {
+			"je": "catastrophe",
+			"tu": "catastrophes",
+			"il/elle": "catastrophe",
+			"nous": "catastrophons",
+			"vous": "catastrophez",
+			"ils/elles": "catastrophent"
+		},
+		"imparfait": {
+			"je": "catastrophais",
+			"tu": "catastrophais",
+			"il/elle": "catastrophait",
+			"nous": "catastrophions",
+			"vous": "catastrophiez",
+			"ils/elles": "catastrophaient"
+		},
+		"futur": {
+			"je": "catastropherai",
+			"tu": "catastropheras",
+			"il/elle": "catastrophera",
+			"nous": "catastropherons",
+			"vous": "catastropherez",
+			"ils/elles": "catastropheront"
+		},
+		"passé simple": {
+			"je": "catastrophai",
+			"tu": "catastrophas",
+			"il/elle": "catastropha",
+			"nous": "catastrophâmes",
+			"vous": "catastrophâtes",
+			"ils/elles": "catastrophèrent"
+		},
+		"passé composé": {
+			"j'": "ai catastrophé",
+			"tu": "as catastrophé",
+			"il/elle": "a catastrophé",
+			"nous": "avons catastrophé",
+			"vous": "avez catastrophé",
+			"ils/elles": "ont catastrophé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais catastrophé",
+			"tu": "avais catastrophé",
+			"il/elle": "avait catastrophé",
+			"nous": "avions catastrophé",
+			"vous": "aviez catastrophé",
+			"ils/elles": "avaient catastrophé"
+		},
+		"passé antérieur": {
+			"j'": "eus catastrophé",
+			"tu": "eus catastrophé",
+			"il/elle": "eut catastrophé",
+			"nous": "eûmes catastrophé",
+			"vous": "eûtes catastrophé",
+			"ils/elles": "eurent catastrophé"
+		},
+		"futur antérieur": {
+			"j'": "aurai catastrophé",
+			"tu": "auras catastrophé",
+			"il/elle": "aura catastrophé",
+			"nous": "aurons catastrophé",
+			"vous": "aurez catastrophé",
+			"ils/elles": "auront catastrophé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous catastrophiez",
+			"qu'il/elle": "catastrophe",
+			"qu'ils/elles": "catastrophent"
+		},
+		"imparfait": {
+			"que": "vous catastrophassiez",
+			"qu'il/elle": "catastrophât",
+			"qu'ils/elles": "catastrophassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse catastrophé",
+			"que": "vous eussiez catastrophé",
+			"qu'il/elle": "eût catastrophé",
+			"qu'ils/elles": "eussent catastrophé"
+		},
+		"passé": {
+			"j'": "aie catastrophé",
+			"que": "vous ayez catastrophé",
+			"qu'il/elle": "ait catastrophé",
+			"qu'ils/elles": "aient catastrophé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "catastropherais",
+			"tu": "catastropherais",
+			"il/elle": "catastropherait",
+			"nous": "catastropherions",
+			"vous": "catastropheriez",
+			"ils/elles": "catastropheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais catastrophé",
+			"tu": "aurais catastrophé",
+			"il/elle": "aurait catastrophé",
+			"nous": "aurions catastrophé",
+			"vous": "auriez catastrophé",
+			"ils/elles": "auraient catastrophé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse catastrophé",
+			"tu": "eusses catastrophé",
+			"il/elle": "eût catastrophé",
+			"nous": "eussions catastrophé",
+			"vous": "eussiez catastrophé",
+			"ils/elles": "eussent catastrophé"
+		}
+	},
+	"participe": {
+		"présent": { "catastrophant": "" },
+		"passé composé": { "ayant": "catastrophé" },
+		"passé": {
+			"masc.sg.:": "catastrophé",
+			"masc.pl.:": "catastrophés",
+			"fém.sg.:": "catastrophée",
+			"fém.pl.:": "catastrophées"
+		}
+	},
+	"imperatif": {
+		"présent": { "catastrophe": "", "catastrophons": "", "catastrophez": "" },
+		"passé": {
+			"aie": "catastrophé",
+			"ayons": "catastrophé",
+			"ayez": "catastrophé"
+		}
+	},
+	"infinitif": {
+		"présent": { "catastropher": "" },
+		"passé": { "avoir": "catastrophé" }
+	}
+}

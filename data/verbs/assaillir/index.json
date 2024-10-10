@@ -1,0 +1,143 @@
+{
+	"name": "assaillir",
+	"definition": "assault; attack; assail; ...",
+	"model": "assaillir",
+	"auxiliary": "avoir",
+	"otherForms": "s'assaillir/ne pas assaillir/ne pas s'assaillir",
+	"indicatif": {
+		"présent": {
+			"j'": "assaille",
+			"tu": "assailles",
+			"il/elle": "assaille",
+			"nous": "assaillons",
+			"vous": "assaillez",
+			"ils/elles": "assaillent"
+		},
+		"imparfait": {
+			"j'": "assaillais",
+			"tu": "assaillais",
+			"il/elle": "assaillait",
+			"nous": "assaillions",
+			"vous": "assailliez",
+			"ils/elles": "assaillaient"
+		},
+		"futur": {
+			"j'": "assaillirai",
+			"tu": "assailliras",
+			"il/elle": "assaillira",
+			"nous": "assaillirons",
+			"vous": "assaillirez",
+			"ils/elles": "assailliront"
+		},
+		"passé simple": {
+			"j'": "assaillis",
+			"tu": "assaillis",
+			"il/elle": "assaillit",
+			"nous": "assaillîmes",
+			"vous": "assaillîtes",
+			"ils/elles": "assaillirent"
+		},
+		"passé composé": {
+			"j'": "ai assailli",
+			"tu": "as assailli",
+			"il/elle": "a assailli",
+			"nous": "avons assailli",
+			"vous": "avez assailli",
+			"ils/elles": "ont assailli"
+		},
+		"plus-que-parfait": {
+			"j'": "avais assailli",
+			"tu": "avais assailli",
+			"il/elle": "avait assailli",
+			"nous": "avions assailli",
+			"vous": "aviez assailli",
+			"ils/elles": "avaient assailli"
+		},
+		"passé antérieur": {
+			"j'": "eus assailli",
+			"tu": "eus assailli",
+			"il/elle": "eut assailli",
+			"nous": "eûmes assailli",
+			"vous": "eûtes assailli",
+			"ils/elles": "eurent assailli"
+		},
+		"futur antérieur": {
+			"j'": "aurai assailli",
+			"tu": "auras assailli",
+			"il/elle": "aura assailli",
+			"nous": "aurons assailli",
+			"vous": "aurez assailli",
+			"ils/elles": "auront assailli"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "assaille",
+			"que": "vous assailliez",
+			"qu'il/elle": "assaille",
+			"qu'ils/elles": "assaillent"
+		},
+		"imparfait": {
+			"j'": "assaillisse",
+			"que": "vous assaillissiez",
+			"qu'il/elle": "assaillît",
+			"qu'ils/elles": "assaillissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse assailli",
+			"que": "vous eussiez assailli",
+			"qu'il/elle": "eût assailli",
+			"qu'ils/elles": "eussent assailli"
+		},
+		"passé": {
+			"j'": "aie assailli",
+			"que": "vous ayez assailli",
+			"qu'il/elle": "ait assailli",
+			"qu'ils/elles": "aient assailli"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "assaillirais",
+			"tu": "assaillirais",
+			"il/elle": "assaillirait",
+			"nous": "assaillirions",
+			"vous": "assailliriez",
+			"ils/elles": "assailliraient"
+		},
+		"passé première forme": {
+			"j'": "aurais assailli",
+			"tu": "aurais assailli",
+			"il/elle": "aurait assailli",
+			"nous": "aurions assailli",
+			"vous": "auriez assailli",
+			"ils/elles": "auraient assailli"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse assailli",
+			"tu": "eusses assailli",
+			"il/elle": "eût assailli",
+			"nous": "eussions assailli",
+			"vous": "eussiez assailli",
+			"ils/elles": "eussent assailli"
+		}
+	},
+	"participe": {
+		"présent": { "assaillant": "" },
+		"passé composé": { "ayant": "assailli" },
+		"passé": {
+			"masc.sg.:": "assailli",
+			"masc.pl.:": "assaillis",
+			"fém.sg.:": "assaillie",
+			"fém.pl.:": "assaillies"
+		}
+	},
+	"imperatif": {
+		"présent": { "assaille": "", "assaillons": "", "assaillez": "" },
+		"passé": { "aie": "assailli", "ayons": "assailli", "ayez": "assailli" }
+	},
+	"infinitif": {
+		"présent": { "assaillir": "" },
+		"passé": { "avoir": "assailli" }
+	}
+}

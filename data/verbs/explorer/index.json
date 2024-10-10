@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "explore; browse; investigate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'explorer/ne pas explorer/ne pas s'explorer",
+	"indicatif": {
+		"présent": {
+			"j'": "explore",
+			"tu": "explores",
+			"il/elle": "explore",
+			"nous": "explorons",
+			"vous": "explorez",
+			"ils/elles": "explorent"
+		},
+		"imparfait": {
+			"j'": "explorais",
+			"tu": "explorais",
+			"il/elle": "explorait",
+			"nous": "explorions",
+			"vous": "exploriez",
+			"ils/elles": "exploraient"
+		},
+		"futur": {
+			"j'": "explorerai",
+			"tu": "exploreras",
+			"il/elle": "explorera",
+			"nous": "explorerons",
+			"vous": "explorerez",
+			"ils/elles": "exploreront"
+		},
+		"passé simple": {
+			"j'": "explorai",
+			"tu": "exploras",
+			"il/elle": "explora",
+			"nous": "explorâmes",
+			"vous": "explorâtes",
+			"ils/elles": "explorèrent"
+		},
+		"passé composé": {
+			"j'": "ai exploré",
+			"tu": "as exploré",
+			"il/elle": "a exploré",
+			"nous": "avons exploré",
+			"vous": "avez exploré",
+			"ils/elles": "ont exploré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais exploré",
+			"tu": "avais exploré",
+			"il/elle": "avait exploré",
+			"nous": "avions exploré",
+			"vous": "aviez exploré",
+			"ils/elles": "avaient exploré"
+		},
+		"passé antérieur": {
+			"j'": "eus exploré",
+			"tu": "eus exploré",
+			"il/elle": "eut exploré",
+			"nous": "eûmes exploré",
+			"vous": "eûtes exploré",
+			"ils/elles": "eurent exploré"
+		},
+		"futur antérieur": {
+			"j'": "aurai exploré",
+			"tu": "auras exploré",
+			"il/elle": "aura exploré",
+			"nous": "aurons exploré",
+			"vous": "aurez exploré",
+			"ils/elles": "auront exploré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "explore",
+			"que": "vous exploriez",
+			"qu'il/elle": "explore",
+			"qu'ils/elles": "explorent"
+		},
+		"imparfait": {
+			"j'": "explorasse",
+			"que": "vous explorassiez",
+			"qu'il/elle": "explorât",
+			"qu'ils/elles": "explorassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse exploré",
+			"que": "vous eussiez exploré",
+			"qu'il/elle": "eût exploré",
+			"qu'ils/elles": "eussent exploré"
+		},
+		"passé": {
+			"j'": "aie exploré",
+			"que": "vous ayez exploré",
+			"qu'il/elle": "ait exploré",
+			"qu'ils/elles": "aient exploré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "explorerais",
+			"tu": "explorerais",
+			"il/elle": "explorerait",
+			"nous": "explorerions",
+			"vous": "exploreriez",
+			"ils/elles": "exploreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais exploré",
+			"tu": "aurais exploré",
+			"il/elle": "aurait exploré",
+			"nous": "aurions exploré",
+			"vous": "auriez exploré",
+			"ils/elles": "auraient exploré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse exploré",
+			"tu": "eusses exploré",
+			"il/elle": "eût exploré",
+			"nous": "eussions exploré",
+			"vous": "eussiez exploré",
+			"ils/elles": "eussent exploré"
+		}
+	},
+	"participe": {
+		"présent": { "explorant": "" },
+		"passé composé": { "ayant": "exploré" },
+		"passé": {
+			"masc.sg.:": "exploré",
+			"masc.pl.:": "explorés",
+			"fém.sg.:": "explorée",
+			"fém.pl.:": "explorées"
+		}
+	},
+	"imperatif": {
+		"présent": { "explore": "", "explorons": "", "explorez": "" },
+		"passé": { "aie": "exploré", "ayons": "exploré", "ayez": "exploré" }
+	},
+	"infinitif": {
+		"présent": { "explorer": "" },
+		"passé": { "avoir": "exploré" }
+	}
+}

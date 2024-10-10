@@ -1,0 +1,141 @@
+{
+	"name": "mettre",
+	"definition": "allow; enable; permit; ...",
+	"model": "mettre",
+	"auxiliary": "avoir",
+	"otherForms": "se permettre/ne pas permettre/ne pas se permettre",
+	"indicatif": {
+		"présent": {
+			"je": "permets",
+			"tu": "permets",
+			"il/elle": "permet",
+			"nous": "permettons",
+			"vous": "permettez",
+			"ils/elles": "permettent"
+		},
+		"imparfait": {
+			"je": "permettais",
+			"tu": "permettais",
+			"il/elle": "permettait",
+			"nous": "permettions",
+			"vous": "permettiez",
+			"ils/elles": "permettaient"
+		},
+		"futur": {
+			"je": "permettrai",
+			"tu": "permettras",
+			"il/elle": "permettra",
+			"nous": "permettrons",
+			"vous": "permettrez",
+			"ils/elles": "permettront"
+		},
+		"passé simple": {
+			"je": "permis",
+			"tu": "permis",
+			"il/elle": "permit",
+			"nous": "permîmes",
+			"vous": "permîtes",
+			"ils/elles": "permirent"
+		},
+		"passé composé": {
+			"j'": "ai permis",
+			"tu": "as permis",
+			"il/elle": "a permis",
+			"nous": "avons permis",
+			"vous": "avez permis",
+			"ils/elles": "ont permis"
+		},
+		"plus-que-parfait": {
+			"j'": "avais permis",
+			"tu": "avais permis",
+			"il/elle": "avait permis",
+			"nous": "avions permis",
+			"vous": "aviez permis",
+			"ils/elles": "avaient permis"
+		},
+		"passé antérieur": {
+			"j'": "eus permis",
+			"tu": "eus permis",
+			"il/elle": "eut permis",
+			"nous": "eûmes permis",
+			"vous": "eûtes permis",
+			"ils/elles": "eurent permis"
+		},
+		"futur antérieur": {
+			"j'": "aurai permis",
+			"tu": "auras permis",
+			"il/elle": "aura permis",
+			"nous": "aurons permis",
+			"vous": "aurez permis",
+			"ils/elles": "auront permis"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous permettiez",
+			"qu'il/elle": "permette",
+			"qu'ils/elles": "permettent"
+		},
+		"imparfait": {
+			"que": "vous permissiez",
+			"qu'il/elle": "permît",
+			"qu'ils/elles": "permissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse permis",
+			"que": "vous eussiez permis",
+			"qu'il/elle": "eût permis",
+			"qu'ils/elles": "eussent permis"
+		},
+		"passé": {
+			"j'": "aie permis",
+			"que": "vous ayez permis",
+			"qu'il/elle": "ait permis",
+			"qu'ils/elles": "aient permis"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "permettrais",
+			"tu": "permettrais",
+			"il/elle": "permettrait",
+			"nous": "permettrions",
+			"vous": "permettriez",
+			"ils/elles": "permettraient"
+		},
+		"passé première forme": {
+			"j'": "aurais permis",
+			"tu": "aurais permis",
+			"il/elle": "aurait permis",
+			"nous": "aurions permis",
+			"vous": "auriez permis",
+			"ils/elles": "auraient permis"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse permis",
+			"tu": "eusses permis",
+			"il/elle": "eût permis",
+			"nous": "eussions permis",
+			"vous": "eussiez permis",
+			"ils/elles": "eussent permis"
+		}
+	},
+	"participe": {
+		"présent": { "permettant": "" },
+		"passé composé": { "ayant": "permis" },
+		"passé": {
+			"masc.sg.:": "permis",
+			"masc.pl.:": "permis",
+			"fém.sg.:": "permise",
+			"fém.pl.:": "permises"
+		}
+	},
+	"imperatif": {
+		"présent": { "permets": "", "permettons": "", "permettez": "" },
+		"passé": { "aie": "permis", "ayons": "permis", "ayez": "permis" }
+	},
+	"infinitif": {
+		"présent": { "permettre": "" },
+		"passé": { "avoir": "permis" }
+	}
+}

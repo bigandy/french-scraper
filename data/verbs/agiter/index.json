@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "shake; stir; agitate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'agiter/ne pas agiter/ne pas s'agiter",
+	"indicatif": {
+		"présent": {
+			"j'": "agite",
+			"tu": "agites",
+			"il/elle": "agite",
+			"nous": "agitons",
+			"vous": "agitez",
+			"ils/elles": "agitent"
+		},
+		"imparfait": {
+			"j'": "agitais",
+			"tu": "agitais",
+			"il/elle": "agitait",
+			"nous": "agitions",
+			"vous": "agitiez",
+			"ils/elles": "agitaient"
+		},
+		"futur": {
+			"j'": "agiterai",
+			"tu": "agiteras",
+			"il/elle": "agitera",
+			"nous": "agiterons",
+			"vous": "agiterez",
+			"ils/elles": "agiteront"
+		},
+		"passé simple": {
+			"j'": "agitai",
+			"tu": "agitas",
+			"il/elle": "agita",
+			"nous": "agitâmes",
+			"vous": "agitâtes",
+			"ils/elles": "agitèrent"
+		},
+		"passé composé": {
+			"j'": "ai agité",
+			"tu": "as agité",
+			"il/elle": "a agité",
+			"nous": "avons agité",
+			"vous": "avez agité",
+			"ils/elles": "ont agité"
+		},
+		"plus-que-parfait": {
+			"j'": "avais agité",
+			"tu": "avais agité",
+			"il/elle": "avait agité",
+			"nous": "avions agité",
+			"vous": "aviez agité",
+			"ils/elles": "avaient agité"
+		},
+		"passé antérieur": {
+			"j'": "eus agité",
+			"tu": "eus agité",
+			"il/elle": "eut agité",
+			"nous": "eûmes agité",
+			"vous": "eûtes agité",
+			"ils/elles": "eurent agité"
+		},
+		"futur antérieur": {
+			"j'": "aurai agité",
+			"tu": "auras agité",
+			"il/elle": "aura agité",
+			"nous": "aurons agité",
+			"vous": "aurez agité",
+			"ils/elles": "auront agité"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "agite",
+			"que": "vous agitiez",
+			"qu'il/elle": "agite",
+			"qu'ils/elles": "agitent"
+		},
+		"imparfait": {
+			"j'": "agitasse",
+			"que": "vous agitassiez",
+			"qu'il/elle": "agitât",
+			"qu'ils/elles": "agitassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse agité",
+			"que": "vous eussiez agité",
+			"qu'il/elle": "eût agité",
+			"qu'ils/elles": "eussent agité"
+		},
+		"passé": {
+			"j'": "aie agité",
+			"que": "vous ayez agité",
+			"qu'il/elle": "ait agité",
+			"qu'ils/elles": "aient agité"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "agiterais",
+			"tu": "agiterais",
+			"il/elle": "agiterait",
+			"nous": "agiterions",
+			"vous": "agiteriez",
+			"ils/elles": "agiteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais agité",
+			"tu": "aurais agité",
+			"il/elle": "aurait agité",
+			"nous": "aurions agité",
+			"vous": "auriez agité",
+			"ils/elles": "auraient agité"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse agité",
+			"tu": "eusses agité",
+			"il/elle": "eût agité",
+			"nous": "eussions agité",
+			"vous": "eussiez agité",
+			"ils/elles": "eussent agité"
+		}
+	},
+	"participe": {
+		"présent": { "agitant": "" },
+		"passé composé": { "ayant": "agité" },
+		"passé": {
+			"masc.sg.:": "agité",
+			"masc.pl.:": "agités",
+			"fém.sg.:": "agitée",
+			"fém.pl.:": "agitées"
+		}
+	},
+	"imperatif": {
+		"présent": { "agite": "", "agitons": "", "agitez": "" },
+		"passé": { "aie": "agité", "ayons": "agité", "ayez": "agité" }
+	},
+	"infinitif": { "présent": { "agiter": "" }, "passé": { "avoir": "agité" } }
+}

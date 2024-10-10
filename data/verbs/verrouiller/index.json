@@ -1,0 +1,145 @@
+{
+	"name": "marcher",
+	"definition": "lock; latch; interlock; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se verrouiller/ne pas verrouiller/ne pas se verrouiller",
+	"indicatif": {
+		"présent": {
+			"je": "verrouille",
+			"tu": "verrouilles",
+			"il/elle": "verrouille",
+			"nous": "verrouillons",
+			"vous": "verrouillez",
+			"ils/elles": "verrouillent"
+		},
+		"imparfait": {
+			"je": "verrouillais",
+			"tu": "verrouillais",
+			"il/elle": "verrouillait",
+			"nous": "verrouillions",
+			"vous": "verrouilliez",
+			"ils/elles": "verrouillaient"
+		},
+		"futur": {
+			"je": "verrouillerai",
+			"tu": "verrouilleras",
+			"il/elle": "verrouillera",
+			"nous": "verrouillerons",
+			"vous": "verrouillerez",
+			"ils/elles": "verrouilleront"
+		},
+		"passé simple": {
+			"je": "verrouillai",
+			"tu": "verrouillas",
+			"il/elle": "verrouilla",
+			"nous": "verrouillâmes",
+			"vous": "verrouillâtes",
+			"ils/elles": "verrouillèrent"
+		},
+		"passé composé": {
+			"j'": "ai verrouillé",
+			"tu": "as verrouillé",
+			"il/elle": "a verrouillé",
+			"nous": "avons verrouillé",
+			"vous": "avez verrouillé",
+			"ils/elles": "ont verrouillé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais verrouillé",
+			"tu": "avais verrouillé",
+			"il/elle": "avait verrouillé",
+			"nous": "avions verrouillé",
+			"vous": "aviez verrouillé",
+			"ils/elles": "avaient verrouillé"
+		},
+		"passé antérieur": {
+			"j'": "eus verrouillé",
+			"tu": "eus verrouillé",
+			"il/elle": "eut verrouillé",
+			"nous": "eûmes verrouillé",
+			"vous": "eûtes verrouillé",
+			"ils/elles": "eurent verrouillé"
+		},
+		"futur antérieur": {
+			"j'": "aurai verrouillé",
+			"tu": "auras verrouillé",
+			"il/elle": "aura verrouillé",
+			"nous": "aurons verrouillé",
+			"vous": "aurez verrouillé",
+			"ils/elles": "auront verrouillé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous verrouilliez",
+			"qu'il/elle": "verrouille",
+			"qu'ils/elles": "verrouillent"
+		},
+		"imparfait": {
+			"que": "vous verrouillassiez",
+			"qu'il/elle": "verrouillât",
+			"qu'ils/elles": "verrouillassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse verrouillé",
+			"que": "vous eussiez verrouillé",
+			"qu'il/elle": "eût verrouillé",
+			"qu'ils/elles": "eussent verrouillé"
+		},
+		"passé": {
+			"j'": "aie verrouillé",
+			"que": "vous ayez verrouillé",
+			"qu'il/elle": "ait verrouillé",
+			"qu'ils/elles": "aient verrouillé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "verrouillerais",
+			"tu": "verrouillerais",
+			"il/elle": "verrouillerait",
+			"nous": "verrouillerions",
+			"vous": "verrouilleriez",
+			"ils/elles": "verrouilleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais verrouillé",
+			"tu": "aurais verrouillé",
+			"il/elle": "aurait verrouillé",
+			"nous": "aurions verrouillé",
+			"vous": "auriez verrouillé",
+			"ils/elles": "auraient verrouillé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse verrouillé",
+			"tu": "eusses verrouillé",
+			"il/elle": "eût verrouillé",
+			"nous": "eussions verrouillé",
+			"vous": "eussiez verrouillé",
+			"ils/elles": "eussent verrouillé"
+		}
+	},
+	"participe": {
+		"présent": { "verrouillant": "" },
+		"passé composé": { "ayant": "verrouillé" },
+		"passé": {
+			"masc.sg.:": "verrouillé",
+			"masc.pl.:": "verrouillés",
+			"fém.sg.:": "verrouillée",
+			"fém.pl.:": "verrouillées"
+		}
+	},
+	"imperatif": {
+		"présent": { "verrouille": "", "verrouillons": "", "verrouillez": "" },
+		"passé": {
+			"aie": "verrouillé",
+			"ayons": "verrouillé",
+			"ayez": "verrouillé"
+		}
+	},
+	"infinitif": {
+		"présent": { "verrouiller": "" },
+		"passé": { "avoir": "verrouillé" }
+	}
+}

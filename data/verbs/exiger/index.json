@@ -1,0 +1,140 @@
+{
+	"name": "manger",
+	"definition": "require; demand; request; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "s'exiger/ne pas exiger/ne pas s'exiger",
+	"indicatif": {
+		"présent": {
+			"j'": "exige",
+			"tu": "exiges",
+			"il/elle": "exige",
+			"nous": "exigeons",
+			"vous": "exigez",
+			"ils/elles": "exigent"
+		},
+		"imparfait": {
+			"j'": "exigeais",
+			"tu": "exigeais",
+			"il/elle": "exigeait",
+			"nous": "exigions",
+			"vous": "exigiez",
+			"ils/elles": "exigeaient"
+		},
+		"futur": {
+			"j'": "exigerai",
+			"tu": "exigeras",
+			"il/elle": "exigera",
+			"nous": "exigerons",
+			"vous": "exigerez",
+			"ils/elles": "exigeront"
+		},
+		"passé simple": {
+			"j'": "exigeai",
+			"tu": "exigeas",
+			"il/elle": "exigea",
+			"nous": "exigeâmes",
+			"vous": "exigeâtes",
+			"ils/elles": "exigèrent"
+		},
+		"passé composé": {
+			"j'": "ai exigé",
+			"tu": "as exigé",
+			"il/elle": "a exigé",
+			"nous": "avons exigé",
+			"vous": "avez exigé",
+			"ils/elles": "ont exigé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais exigé",
+			"tu": "avais exigé",
+			"il/elle": "avait exigé",
+			"nous": "avions exigé",
+			"vous": "aviez exigé",
+			"ils/elles": "avaient exigé"
+		},
+		"passé antérieur": {
+			"j'": "eus exigé",
+			"tu": "eus exigé",
+			"il/elle": "eut exigé",
+			"nous": "eûmes exigé",
+			"vous": "eûtes exigé",
+			"ils/elles": "eurent exigé"
+		},
+		"futur antérieur": {
+			"j'": "aurai exigé",
+			"tu": "auras exigé",
+			"il/elle": "aura exigé",
+			"nous": "aurons exigé",
+			"vous": "aurez exigé",
+			"ils/elles": "auront exigé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "exige",
+			"que": "vous exigiez",
+			"qu'il/elle": "exige",
+			"qu'ils/elles": "exigent"
+		},
+		"imparfait": {
+			"j'": "exigeasse",
+			"que": "vous exigeassiez",
+			"qu'il/elle": "exigeât",
+			"qu'ils/elles": "exigeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse exigé",
+			"que": "vous eussiez exigé",
+			"qu'il/elle": "eût exigé",
+			"qu'ils/elles": "eussent exigé"
+		},
+		"passé": {
+			"j'": "aie exigé",
+			"que": "vous ayez exigé",
+			"qu'il/elle": "ait exigé",
+			"qu'ils/elles": "aient exigé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "exigerais",
+			"tu": "exigerais",
+			"il/elle": "exigerait",
+			"nous": "exigerions",
+			"vous": "exigeriez",
+			"ils/elles": "exigeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais exigé",
+			"tu": "aurais exigé",
+			"il/elle": "aurait exigé",
+			"nous": "aurions exigé",
+			"vous": "auriez exigé",
+			"ils/elles": "auraient exigé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse exigé",
+			"tu": "eusses exigé",
+			"il/elle": "eût exigé",
+			"nous": "eussions exigé",
+			"vous": "eussiez exigé",
+			"ils/elles": "eussent exigé"
+		}
+	},
+	"participe": {
+		"présent": { "exigeant": "" },
+		"passé composé": { "ayant": "exigé" },
+		"passé": {
+			"masc.sg.:": "exigé",
+			"masc.pl.:": "exigés",
+			"fém.sg.:": "exigée",
+			"fém.pl.:": "exigées"
+		}
+	},
+	"imperatif": {
+		"présent": { "exige": "", "exigeons": "", "exigez": "" },
+		"passé": { "aie": "exigé", "ayons": "exigé", "ayez": "exigé" }
+	},
+	"infinitif": { "présent": { "exiger": "" }, "passé": { "avoir": "exigé" } }
+}

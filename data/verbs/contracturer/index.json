@@ -1,0 +1,145 @@
+{
+	"name": "marcher",
+	"definition": "",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se contracturer/ne pas contracturer/ne pas se contracturer",
+	"indicatif": {
+		"présent": {
+			"je": "contracture",
+			"tu": "contractures",
+			"il/elle": "contracture",
+			"nous": "contracturons",
+			"vous": "contracturez",
+			"ils/elles": "contracturent"
+		},
+		"imparfait": {
+			"je": "contracturais",
+			"tu": "contracturais",
+			"il/elle": "contracturait",
+			"nous": "contracturions",
+			"vous": "contracturiez",
+			"ils/elles": "contracturaient"
+		},
+		"futur": {
+			"je": "contracturerai",
+			"tu": "contractureras",
+			"il/elle": "contracturera",
+			"nous": "contracturerons",
+			"vous": "contracturerez",
+			"ils/elles": "contractureront"
+		},
+		"passé simple": {
+			"je": "contracturai",
+			"tu": "contracturas",
+			"il/elle": "contractura",
+			"nous": "contracturâmes",
+			"vous": "contracturâtes",
+			"ils/elles": "contracturèrent"
+		},
+		"passé composé": {
+			"j'": "ai contracturé",
+			"tu": "as contracturé",
+			"il/elle": "a contracturé",
+			"nous": "avons contracturé",
+			"vous": "avez contracturé",
+			"ils/elles": "ont contracturé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais contracturé",
+			"tu": "avais contracturé",
+			"il/elle": "avait contracturé",
+			"nous": "avions contracturé",
+			"vous": "aviez contracturé",
+			"ils/elles": "avaient contracturé"
+		},
+		"passé antérieur": {
+			"j'": "eus contracturé",
+			"tu": "eus contracturé",
+			"il/elle": "eut contracturé",
+			"nous": "eûmes contracturé",
+			"vous": "eûtes contracturé",
+			"ils/elles": "eurent contracturé"
+		},
+		"futur antérieur": {
+			"j'": "aurai contracturé",
+			"tu": "auras contracturé",
+			"il/elle": "aura contracturé",
+			"nous": "aurons contracturé",
+			"vous": "aurez contracturé",
+			"ils/elles": "auront contracturé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous contracturiez",
+			"qu'il/elle": "contracture",
+			"qu'ils/elles": "contracturent"
+		},
+		"imparfait": {
+			"que": "vous contracturassiez",
+			"qu'il/elle": "contracturât",
+			"qu'ils/elles": "contracturassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse contracturé",
+			"que": "vous eussiez contracturé",
+			"qu'il/elle": "eût contracturé",
+			"qu'ils/elles": "eussent contracturé"
+		},
+		"passé": {
+			"j'": "aie contracturé",
+			"que": "vous ayez contracturé",
+			"qu'il/elle": "ait contracturé",
+			"qu'ils/elles": "aient contracturé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "contracturerais",
+			"tu": "contracturerais",
+			"il/elle": "contracturerait",
+			"nous": "contracturerions",
+			"vous": "contractureriez",
+			"ils/elles": "contractureraient"
+		},
+		"passé première forme": {
+			"j'": "aurais contracturé",
+			"tu": "aurais contracturé",
+			"il/elle": "aurait contracturé",
+			"nous": "aurions contracturé",
+			"vous": "auriez contracturé",
+			"ils/elles": "auraient contracturé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse contracturé",
+			"tu": "eusses contracturé",
+			"il/elle": "eût contracturé",
+			"nous": "eussions contracturé",
+			"vous": "eussiez contracturé",
+			"ils/elles": "eussent contracturé"
+		}
+	},
+	"participe": {
+		"présent": { "contracturant": "" },
+		"passé composé": { "ayant": "contracturé" },
+		"passé": {
+			"masc.sg.:": "contracturé",
+			"masc.pl.:": "contracturés",
+			"fém.sg.:": "contracturée",
+			"fém.pl.:": "contracturées"
+		}
+	},
+	"imperatif": {
+		"présent": { "contracture": "", "contracturons": "", "contracturez": "" },
+		"passé": {
+			"aie": "contracturé",
+			"ayons": "contracturé",
+			"ayez": "contracturé"
+		}
+	},
+	"infinitif": {
+		"présent": { "contracturer": "" },
+		"passé": { "avoir": "contracturé" }
+	}
+}

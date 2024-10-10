@@ -1,0 +1,138 @@
+{
+	"name": "valoir",
+	"definition": "be worth; ...",
+	"model": "valoir",
+	"auxiliary": "avoir",
+	"otherForms": "se valoir/ne pas valoir/ne pas se valoir",
+	"indicatif": {
+		"présent": {
+			"je": "vaux",
+			"tu": "vaux",
+			"il/elle": "vaut",
+			"nous": "valons",
+			"vous": "valez",
+			"ils/elles": "valent"
+		},
+		"imparfait": {
+			"je": "valais",
+			"tu": "valais",
+			"il/elle": "valait",
+			"nous": "valions",
+			"vous": "valiez",
+			"ils/elles": "valaient"
+		},
+		"futur": {
+			"je": "vaudrai",
+			"tu": "vaudras",
+			"il/elle": "vaudra",
+			"nous": "vaudrons",
+			"vous": "vaudrez",
+			"ils/elles": "vaudront"
+		},
+		"passé simple": {
+			"je": "valus",
+			"tu": "valus",
+			"il/elle": "valut",
+			"nous": "valûmes",
+			"vous": "valûtes",
+			"ils/elles": "valurent"
+		},
+		"passé composé": {
+			"j'": "ai valu",
+			"tu": "as valu",
+			"il/elle": "a valu",
+			"nous": "avons valu",
+			"vous": "avez valu",
+			"ils/elles": "ont valu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais valu",
+			"tu": "avais valu",
+			"il/elle": "avait valu",
+			"nous": "avions valu",
+			"vous": "aviez valu",
+			"ils/elles": "avaient valu"
+		},
+		"passé antérieur": {
+			"j'": "eus valu",
+			"tu": "eus valu",
+			"il/elle": "eut valu",
+			"nous": "eûmes valu",
+			"vous": "eûtes valu",
+			"ils/elles": "eurent valu"
+		},
+		"futur antérieur": {
+			"j'": "aurai valu",
+			"tu": "auras valu",
+			"il/elle": "aura valu",
+			"nous": "aurons valu",
+			"vous": "aurez valu",
+			"ils/elles": "auront valu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous valiez",
+			"qu'il/elle": "vaille",
+			"qu'ils/elles": "vaillent"
+		},
+		"imparfait": {
+			"que": "vous valussiez",
+			"qu'il/elle": "valût",
+			"qu'ils/elles": "valussent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse valu",
+			"que": "vous eussiez valu",
+			"qu'il/elle": "eût valu",
+			"qu'ils/elles": "eussent valu"
+		},
+		"passé": {
+			"j'": "aie valu",
+			"que": "vous ayez valu",
+			"qu'il/elle": "ait valu",
+			"qu'ils/elles": "aient valu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "vaudrais",
+			"tu": "vaudrais",
+			"il/elle": "vaudrait",
+			"nous": "vaudrions",
+			"vous": "vaudriez",
+			"ils/elles": "vaudraient"
+		},
+		"passé première forme": {
+			"j'": "aurais valu",
+			"tu": "aurais valu",
+			"il/elle": "aurait valu",
+			"nous": "aurions valu",
+			"vous": "auriez valu",
+			"ils/elles": "auraient valu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse valu",
+			"tu": "eusses valu",
+			"il/elle": "eût valu",
+			"nous": "eussions valu",
+			"vous": "eussiez valu",
+			"ils/elles": "eussent valu"
+		}
+	},
+	"participe": {
+		"présent": { "valant": "" },
+		"passé composé": { "ayant": "valu" },
+		"passé": {
+			"masc.sg.:": "valu",
+			"masc.pl.:": "valus",
+			"fém.sg.:": "value",
+			"fém.pl.:": "values"
+		}
+	},
+	"imperatif": {
+		"présent": { "vaux": "", "valons": "", "valez": "" },
+		"passé": { "aie": "valu", "ayons": "valu", "ayez": "valu" }
+	},
+	"infinitif": { "présent": { "valoir": "" }, "passé": { "avoir": "valu" } }
+}

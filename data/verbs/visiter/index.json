@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "visit; tour; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se visiter/ne pas visiter/ne pas se visiter",
+	"indicatif": {
+		"présent": {
+			"je": "visite",
+			"tu": "visites",
+			"il/elle": "visite",
+			"nous": "visitons",
+			"vous": "visitez",
+			"ils/elles": "visitent"
+		},
+		"imparfait": {
+			"je": "visitais",
+			"tu": "visitais",
+			"il/elle": "visitait",
+			"nous": "visitions",
+			"vous": "visitiez",
+			"ils/elles": "visitaient"
+		},
+		"futur": {
+			"je": "visiterai",
+			"tu": "visiteras",
+			"il/elle": "visitera",
+			"nous": "visiterons",
+			"vous": "visiterez",
+			"ils/elles": "visiteront"
+		},
+		"passé simple": {
+			"je": "visitai",
+			"tu": "visitas",
+			"il/elle": "visita",
+			"nous": "visitâmes",
+			"vous": "visitâtes",
+			"ils/elles": "visitèrent"
+		},
+		"passé composé": {
+			"j'": "ai visité",
+			"tu": "as visité",
+			"il/elle": "a visité",
+			"nous": "avons visité",
+			"vous": "avez visité",
+			"ils/elles": "ont visité"
+		},
+		"plus-que-parfait": {
+			"j'": "avais visité",
+			"tu": "avais visité",
+			"il/elle": "avait visité",
+			"nous": "avions visité",
+			"vous": "aviez visité",
+			"ils/elles": "avaient visité"
+		},
+		"passé antérieur": {
+			"j'": "eus visité",
+			"tu": "eus visité",
+			"il/elle": "eut visité",
+			"nous": "eûmes visité",
+			"vous": "eûtes visité",
+			"ils/elles": "eurent visité"
+		},
+		"futur antérieur": {
+			"j'": "aurai visité",
+			"tu": "auras visité",
+			"il/elle": "aura visité",
+			"nous": "aurons visité",
+			"vous": "aurez visité",
+			"ils/elles": "auront visité"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous visitiez",
+			"qu'il/elle": "visite",
+			"qu'ils/elles": "visitent"
+		},
+		"imparfait": {
+			"que": "vous visitassiez",
+			"qu'il/elle": "visitât",
+			"qu'ils/elles": "visitassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse visité",
+			"que": "vous eussiez visité",
+			"qu'il/elle": "eût visité",
+			"qu'ils/elles": "eussent visité"
+		},
+		"passé": {
+			"j'": "aie visité",
+			"que": "vous ayez visité",
+			"qu'il/elle": "ait visité",
+			"qu'ils/elles": "aient visité"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "visiterais",
+			"tu": "visiterais",
+			"il/elle": "visiterait",
+			"nous": "visiterions",
+			"vous": "visiteriez",
+			"ils/elles": "visiteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais visité",
+			"tu": "aurais visité",
+			"il/elle": "aurait visité",
+			"nous": "aurions visité",
+			"vous": "auriez visité",
+			"ils/elles": "auraient visité"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse visité",
+			"tu": "eusses visité",
+			"il/elle": "eût visité",
+			"nous": "eussions visité",
+			"vous": "eussiez visité",
+			"ils/elles": "eussent visité"
+		}
+	},
+	"participe": {
+		"présent": { "visitant": "" },
+		"passé composé": { "ayant": "visité" },
+		"passé": {
+			"masc.sg.:": "visité",
+			"masc.pl.:": "visités",
+			"fém.sg.:": "visitée",
+			"fém.pl.:": "visitées"
+		}
+	},
+	"imperatif": {
+		"présent": { "visite": "", "visitons": "", "visitez": "" },
+		"passé": { "aie": "visité", "ayons": "visité", "ayez": "visité" }
+	},
+	"infinitif": { "présent": { "visiter": "" }, "passé": { "avoir": "visité" } }
+}

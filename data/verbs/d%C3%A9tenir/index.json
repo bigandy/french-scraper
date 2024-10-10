@@ -1,0 +1,138 @@
+{
+	"name": "tenir",
+	"definition": "hold; detain; possess; ...",
+	"model": "tenir",
+	"auxiliary": "avoir",
+	"otherForms": "se détenir/ne pas détenir/ne pas se détenir",
+	"indicatif": {
+		"présent": {
+			"je": "détiens",
+			"tu": "détiens",
+			"il/elle": "détient",
+			"nous": "détenons",
+			"vous": "détenez",
+			"ils/elles": "détiennent"
+		},
+		"imparfait": {
+			"je": "détenais",
+			"tu": "détenais",
+			"il/elle": "détenait",
+			"nous": "détenions",
+			"vous": "déteniez",
+			"ils/elles": "détenaient"
+		},
+		"futur": {
+			"je": "détiendrai",
+			"tu": "détiendras",
+			"il/elle": "détiendra",
+			"nous": "détiendrons",
+			"vous": "détiendrez",
+			"ils/elles": "détiendront"
+		},
+		"passé simple": {
+			"je": "détins",
+			"tu": "détins",
+			"il/elle": "détint",
+			"nous": "détînmes",
+			"vous": "détîntes",
+			"ils/elles": "détinrent"
+		},
+		"passé composé": {
+			"j'": "ai détenu",
+			"tu": "as détenu",
+			"il/elle": "a détenu",
+			"nous": "avons détenu",
+			"vous": "avez détenu",
+			"ils/elles": "ont détenu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais détenu",
+			"tu": "avais détenu",
+			"il/elle": "avait détenu",
+			"nous": "avions détenu",
+			"vous": "aviez détenu",
+			"ils/elles": "avaient détenu"
+		},
+		"passé antérieur": {
+			"j'": "eus détenu",
+			"tu": "eus détenu",
+			"il/elle": "eut détenu",
+			"nous": "eûmes détenu",
+			"vous": "eûtes détenu",
+			"ils/elles": "eurent détenu"
+		},
+		"futur antérieur": {
+			"j'": "aurai détenu",
+			"tu": "auras détenu",
+			"il/elle": "aura détenu",
+			"nous": "aurons détenu",
+			"vous": "aurez détenu",
+			"ils/elles": "auront détenu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous déteniez",
+			"qu'il/elle": "détienne",
+			"qu'ils/elles": "détiennent"
+		},
+		"imparfait": {
+			"que": "vous détinssiez",
+			"qu'il/elle": "détînt",
+			"qu'ils/elles": "détinssent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse détenu",
+			"que": "vous eussiez détenu",
+			"qu'il/elle": "eût détenu",
+			"qu'ils/elles": "eussent détenu"
+		},
+		"passé": {
+			"j'": "aie détenu",
+			"que": "vous ayez détenu",
+			"qu'il/elle": "ait détenu",
+			"qu'ils/elles": "aient détenu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "détiendrais",
+			"tu": "détiendrais",
+			"il/elle": "détiendrait",
+			"nous": "détiendrions",
+			"vous": "détiendriez",
+			"ils/elles": "détiendraient"
+		},
+		"passé première forme": {
+			"j'": "aurais détenu",
+			"tu": "aurais détenu",
+			"il/elle": "aurait détenu",
+			"nous": "aurions détenu",
+			"vous": "auriez détenu",
+			"ils/elles": "auraient détenu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse détenu",
+			"tu": "eusses détenu",
+			"il/elle": "eût détenu",
+			"nous": "eussions détenu",
+			"vous": "eussiez détenu",
+			"ils/elles": "eussent détenu"
+		}
+	},
+	"participe": {
+		"présent": { "détenant": "" },
+		"passé composé": { "ayant": "détenu" },
+		"passé": {
+			"masc.sg.:": "détenu",
+			"masc.pl.:": "détenus",
+			"fém.sg.:": "détenue",
+			"fém.pl.:": "détenues"
+		}
+	},
+	"imperatif": {
+		"présent": { "détiens": "", "détenons": "", "détenez": "" },
+		"passé": { "aie": "détenu", "ayons": "détenu", "ayez": "détenu" }
+	},
+	"infinitif": { "présent": { "détenir": "" }, "passé": { "avoir": "détenu" } }
+}

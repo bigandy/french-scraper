@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "regret; miss; be sorry; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se regretter/ne pas regretter/ne pas se regretter",
+	"indicatif": {
+		"présent": {
+			"je": "regrette",
+			"tu": "regrettes",
+			"il/elle": "regrette",
+			"nous": "regrettons",
+			"vous": "regrettez",
+			"ils/elles": "regrettent"
+		},
+		"imparfait": {
+			"je": "regrettais",
+			"tu": "regrettais",
+			"il/elle": "regrettait",
+			"nous": "regrettions",
+			"vous": "regrettiez",
+			"ils/elles": "regrettaient"
+		},
+		"futur": {
+			"je": "regretterai",
+			"tu": "regretteras",
+			"il/elle": "regrettera",
+			"nous": "regretterons",
+			"vous": "regretterez",
+			"ils/elles": "regretteront"
+		},
+		"passé simple": {
+			"je": "regrettai",
+			"tu": "regrettas",
+			"il/elle": "regretta",
+			"nous": "regrettâmes",
+			"vous": "regrettâtes",
+			"ils/elles": "regrettèrent"
+		},
+		"passé composé": {
+			"j'": "ai regretté",
+			"tu": "as regretté",
+			"il/elle": "a regretté",
+			"nous": "avons regretté",
+			"vous": "avez regretté",
+			"ils/elles": "ont regretté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais regretté",
+			"tu": "avais regretté",
+			"il/elle": "avait regretté",
+			"nous": "avions regretté",
+			"vous": "aviez regretté",
+			"ils/elles": "avaient regretté"
+		},
+		"passé antérieur": {
+			"j'": "eus regretté",
+			"tu": "eus regretté",
+			"il/elle": "eut regretté",
+			"nous": "eûmes regretté",
+			"vous": "eûtes regretté",
+			"ils/elles": "eurent regretté"
+		},
+		"futur antérieur": {
+			"j'": "aurai regretté",
+			"tu": "auras regretté",
+			"il/elle": "aura regretté",
+			"nous": "aurons regretté",
+			"vous": "aurez regretté",
+			"ils/elles": "auront regretté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous regrettiez",
+			"qu'il/elle": "regrette",
+			"qu'ils/elles": "regrettent"
+		},
+		"imparfait": {
+			"que": "vous regrettassiez",
+			"qu'il/elle": "regrettât",
+			"qu'ils/elles": "regrettassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse regretté",
+			"que": "vous eussiez regretté",
+			"qu'il/elle": "eût regretté",
+			"qu'ils/elles": "eussent regretté"
+		},
+		"passé": {
+			"j'": "aie regretté",
+			"que": "vous ayez regretté",
+			"qu'il/elle": "ait regretté",
+			"qu'ils/elles": "aient regretté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "regretterais",
+			"tu": "regretterais",
+			"il/elle": "regretterait",
+			"nous": "regretterions",
+			"vous": "regretteriez",
+			"ils/elles": "regretteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais regretté",
+			"tu": "aurais regretté",
+			"il/elle": "aurait regretté",
+			"nous": "aurions regretté",
+			"vous": "auriez regretté",
+			"ils/elles": "auraient regretté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse regretté",
+			"tu": "eusses regretté",
+			"il/elle": "eût regretté",
+			"nous": "eussions regretté",
+			"vous": "eussiez regretté",
+			"ils/elles": "eussent regretté"
+		}
+	},
+	"participe": {
+		"présent": { "regrettant": "" },
+		"passé composé": { "ayant": "regretté" },
+		"passé": {
+			"masc.sg.:": "regretté",
+			"masc.pl.:": "regrettés",
+			"fém.sg.:": "regrettée",
+			"fém.pl.:": "regrettées"
+		}
+	},
+	"imperatif": {
+		"présent": { "regrette": "", "regrettons": "", "regrettez": "" },
+		"passé": { "aie": "regretté", "ayons": "regretté", "ayez": "regretté" }
+	},
+	"infinitif": {
+		"présent": { "regretter": "" },
+		"passé": { "avoir": "regretté" }
+	}
+}

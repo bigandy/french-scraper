@@ -1,0 +1,145 @@
+{
+	"name": "marcher",
+	"definition": "underinsure; underassure; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se sous-assurer/ne pas sous-assurer/ne pas se sous-assurer",
+	"indicatif": {
+		"présent": {
+			"je": "sous-assure",
+			"tu": "sous-assures",
+			"il/elle": "sous-assure",
+			"nous": "sous-assurons",
+			"vous": "sous-assurez",
+			"ils/elles": "sous-assurent"
+		},
+		"imparfait": {
+			"je": "sous-assurais",
+			"tu": "sous-assurais",
+			"il/elle": "sous-assurait",
+			"nous": "sous-assurions",
+			"vous": "sous-assuriez",
+			"ils/elles": "sous-assuraient"
+		},
+		"futur": {
+			"je": "sous-assurerai",
+			"tu": "sous-assureras",
+			"il/elle": "sous-assurera",
+			"nous": "sous-assurerons",
+			"vous": "sous-assurerez",
+			"ils/elles": "sous-assureront"
+		},
+		"passé simple": {
+			"je": "sous-assurai",
+			"tu": "sous-assuras",
+			"il/elle": "sous-assura",
+			"nous": "sous-assurâmes",
+			"vous": "sous-assurâtes",
+			"ils/elles": "sous-assurèrent"
+		},
+		"passé composé": {
+			"j'": "ai sous-assuré",
+			"tu": "as sous-assuré",
+			"il/elle": "a sous-assuré",
+			"nous": "avons sous-assuré",
+			"vous": "avez sous-assuré",
+			"ils/elles": "ont sous-assuré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais sous-assuré",
+			"tu": "avais sous-assuré",
+			"il/elle": "avait sous-assuré",
+			"nous": "avions sous-assuré",
+			"vous": "aviez sous-assuré",
+			"ils/elles": "avaient sous-assuré"
+		},
+		"passé antérieur": {
+			"j'": "eus sous-assuré",
+			"tu": "eus sous-assuré",
+			"il/elle": "eut sous-assuré",
+			"nous": "eûmes sous-assuré",
+			"vous": "eûtes sous-assuré",
+			"ils/elles": "eurent sous-assuré"
+		},
+		"futur antérieur": {
+			"j'": "aurai sous-assuré",
+			"tu": "auras sous-assuré",
+			"il/elle": "aura sous-assuré",
+			"nous": "aurons sous-assuré",
+			"vous": "aurez sous-assuré",
+			"ils/elles": "auront sous-assuré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous sous-assuriez",
+			"qu'il/elle": "sous-assure",
+			"qu'ils/elles": "sous-assurent"
+		},
+		"imparfait": {
+			"que": "vous sous-assurassiez",
+			"qu'il/elle": "sous-assurât",
+			"qu'ils/elles": "sous-assurassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse sous-assuré",
+			"que": "vous eussiez sous-assuré",
+			"qu'il/elle": "eût sous-assuré",
+			"qu'ils/elles": "eussent sous-assuré"
+		},
+		"passé": {
+			"j'": "aie sous-assuré",
+			"que": "vous ayez sous-assuré",
+			"qu'il/elle": "ait sous-assuré",
+			"qu'ils/elles": "aient sous-assuré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "sous-assurerais",
+			"tu": "sous-assurerais",
+			"il/elle": "sous-assurerait",
+			"nous": "sous-assurerions",
+			"vous": "sous-assureriez",
+			"ils/elles": "sous-assureraient"
+		},
+		"passé première forme": {
+			"j'": "aurais sous-assuré",
+			"tu": "aurais sous-assuré",
+			"il/elle": "aurait sous-assuré",
+			"nous": "aurions sous-assuré",
+			"vous": "auriez sous-assuré",
+			"ils/elles": "auraient sous-assuré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse sous-assuré",
+			"tu": "eusses sous-assuré",
+			"il/elle": "eût sous-assuré",
+			"nous": "eussions sous-assuré",
+			"vous": "eussiez sous-assuré",
+			"ils/elles": "eussent sous-assuré"
+		}
+	},
+	"participe": {
+		"présent": { "sous-assurant": "" },
+		"passé composé": { "ayant": "sous-assuré" },
+		"passé": {
+			"masc.sg.:": "sous-assuré",
+			"masc.pl.:": "sous-assurés",
+			"fém.sg.:": "sous-assurée",
+			"fém.pl.:": "sous-assurées"
+		}
+	},
+	"imperatif": {
+		"présent": { "sous-assure": "", "sous-assurons": "", "sous-assurez": "" },
+		"passé": {
+			"aie": "sous-assuré",
+			"ayons": "sous-assuré",
+			"ayez": "sous-assuré"
+		}
+	},
+	"infinitif": {
+		"présent": { "sous-assurer": "" },
+		"passé": { "avoir": "sous-assuré" }
+	}
+}

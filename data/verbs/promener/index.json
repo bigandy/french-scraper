@@ -1,0 +1,141 @@
+{
+	"name": "promener",
+	"definition": "walk; stroll; walk around; ...",
+	"model": "promener",
+	"auxiliary": "avoir",
+	"otherForms": "se promener/ne pas promener/ne pas se promener",
+	"indicatif": {
+		"présent": {
+			"je": "promène",
+			"tu": "promènes",
+			"il/elle": "promène",
+			"nous": "promenons",
+			"vous": "promenez",
+			"ils/elles": "promènent"
+		},
+		"imparfait": {
+			"je": "promenais",
+			"tu": "promenais",
+			"il/elle": "promenait",
+			"nous": "promenions",
+			"vous": "promeniez",
+			"ils/elles": "promenaient"
+		},
+		"futur": {
+			"je": "promènerai",
+			"tu": "promèneras",
+			"il/elle": "promènera",
+			"nous": "promènerons",
+			"vous": "promènerez",
+			"ils/elles": "promèneront"
+		},
+		"passé simple": {
+			"je": "promenai",
+			"tu": "promenas",
+			"il/elle": "promena",
+			"nous": "promenâmes",
+			"vous": "promenâtes",
+			"ils/elles": "promenèrent"
+		},
+		"passé composé": {
+			"j'": "ai promené",
+			"tu": "as promené",
+			"il/elle": "a promené",
+			"nous": "avons promené",
+			"vous": "avez promené",
+			"ils/elles": "ont promené"
+		},
+		"plus-que-parfait": {
+			"j'": "avais promené",
+			"tu": "avais promené",
+			"il/elle": "avait promené",
+			"nous": "avions promené",
+			"vous": "aviez promené",
+			"ils/elles": "avaient promené"
+		},
+		"passé antérieur": {
+			"j'": "eus promené",
+			"tu": "eus promené",
+			"il/elle": "eut promené",
+			"nous": "eûmes promené",
+			"vous": "eûtes promené",
+			"ils/elles": "eurent promené"
+		},
+		"futur antérieur": {
+			"j'": "aurai promené",
+			"tu": "auras promené",
+			"il/elle": "aura promené",
+			"nous": "aurons promené",
+			"vous": "aurez promené",
+			"ils/elles": "auront promené"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous promeniez",
+			"qu'il/elle": "promène",
+			"qu'ils/elles": "promènent"
+		},
+		"imparfait": {
+			"que": "vous promenassiez",
+			"qu'il/elle": "promenât",
+			"qu'ils/elles": "promenassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse promené",
+			"que": "vous eussiez promené",
+			"qu'il/elle": "eût promené",
+			"qu'ils/elles": "eussent promené"
+		},
+		"passé": {
+			"j'": "aie promené",
+			"que": "vous ayez promené",
+			"qu'il/elle": "ait promené",
+			"qu'ils/elles": "aient promené"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "promènerais",
+			"tu": "promènerais",
+			"il/elle": "promènerait",
+			"nous": "promènerions",
+			"vous": "promèneriez",
+			"ils/elles": "promèneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais promené",
+			"tu": "aurais promené",
+			"il/elle": "aurait promené",
+			"nous": "aurions promené",
+			"vous": "auriez promené",
+			"ils/elles": "auraient promené"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse promené",
+			"tu": "eusses promené",
+			"il/elle": "eût promené",
+			"nous": "eussions promené",
+			"vous": "eussiez promené",
+			"ils/elles": "eussent promené"
+		}
+	},
+	"participe": {
+		"présent": { "promenant": "" },
+		"passé composé": { "ayant": "promené" },
+		"passé": {
+			"masc.sg.:": "promené",
+			"masc.pl.:": "promenés",
+			"fém.sg.:": "promenée",
+			"fém.pl.:": "promenées"
+		}
+	},
+	"imperatif": {
+		"présent": { "promène": "", "promenons": "", "promenez": "" },
+		"passé": { "aie": "promené", "ayons": "promené", "ayez": "promené" }
+	},
+	"infinitif": {
+		"présent": { "promener": "" },
+		"passé": { "avoir": "promené" }
+	}
+}

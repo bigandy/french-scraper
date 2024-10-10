@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "minimize; minimise; reduce; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se minimiser/ne pas minimiser/ne pas se minimiser",
+	"indicatif": {
+		"présent": {
+			"je": "minimise",
+			"tu": "minimises",
+			"il/elle": "minimise",
+			"nous": "minimisons",
+			"vous": "minimisez",
+			"ils/elles": "minimisent"
+		},
+		"imparfait": {
+			"je": "minimisais",
+			"tu": "minimisais",
+			"il/elle": "minimisait",
+			"nous": "minimisions",
+			"vous": "minimisiez",
+			"ils/elles": "minimisaient"
+		},
+		"futur": {
+			"je": "minimiserai",
+			"tu": "minimiseras",
+			"il/elle": "minimisera",
+			"nous": "minimiserons",
+			"vous": "minimiserez",
+			"ils/elles": "minimiseront"
+		},
+		"passé simple": {
+			"je": "minimisai",
+			"tu": "minimisas",
+			"il/elle": "minimisa",
+			"nous": "minimisâmes",
+			"vous": "minimisâtes",
+			"ils/elles": "minimisèrent"
+		},
+		"passé composé": {
+			"j'": "ai minimisé",
+			"tu": "as minimisé",
+			"il/elle": "a minimisé",
+			"nous": "avons minimisé",
+			"vous": "avez minimisé",
+			"ils/elles": "ont minimisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais minimisé",
+			"tu": "avais minimisé",
+			"il/elle": "avait minimisé",
+			"nous": "avions minimisé",
+			"vous": "aviez minimisé",
+			"ils/elles": "avaient minimisé"
+		},
+		"passé antérieur": {
+			"j'": "eus minimisé",
+			"tu": "eus minimisé",
+			"il/elle": "eut minimisé",
+			"nous": "eûmes minimisé",
+			"vous": "eûtes minimisé",
+			"ils/elles": "eurent minimisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai minimisé",
+			"tu": "auras minimisé",
+			"il/elle": "aura minimisé",
+			"nous": "aurons minimisé",
+			"vous": "aurez minimisé",
+			"ils/elles": "auront minimisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous minimisiez",
+			"qu'il/elle": "minimise",
+			"qu'ils/elles": "minimisent"
+		},
+		"imparfait": {
+			"que": "vous minimisassiez",
+			"qu'il/elle": "minimisât",
+			"qu'ils/elles": "minimisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse minimisé",
+			"que": "vous eussiez minimisé",
+			"qu'il/elle": "eût minimisé",
+			"qu'ils/elles": "eussent minimisé"
+		},
+		"passé": {
+			"j'": "aie minimisé",
+			"que": "vous ayez minimisé",
+			"qu'il/elle": "ait minimisé",
+			"qu'ils/elles": "aient minimisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "minimiserais",
+			"tu": "minimiserais",
+			"il/elle": "minimiserait",
+			"nous": "minimiserions",
+			"vous": "minimiseriez",
+			"ils/elles": "minimiseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais minimisé",
+			"tu": "aurais minimisé",
+			"il/elle": "aurait minimisé",
+			"nous": "aurions minimisé",
+			"vous": "auriez minimisé",
+			"ils/elles": "auraient minimisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse minimisé",
+			"tu": "eusses minimisé",
+			"il/elle": "eût minimisé",
+			"nous": "eussions minimisé",
+			"vous": "eussiez minimisé",
+			"ils/elles": "eussent minimisé"
+		}
+	},
+	"participe": {
+		"présent": { "minimisant": "" },
+		"passé composé": { "ayant": "minimisé" },
+		"passé": {
+			"masc.sg.:": "minimisé",
+			"masc.pl.:": "minimisés",
+			"fém.sg.:": "minimisée",
+			"fém.pl.:": "minimisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "minimise": "", "minimisons": "", "minimisez": "" },
+		"passé": { "aie": "minimisé", "ayons": "minimisé", "ayez": "minimisé" }
+	},
+	"infinitif": {
+		"présent": { "minimiser": "" },
+		"passé": { "avoir": "minimisé" }
+	}
+}

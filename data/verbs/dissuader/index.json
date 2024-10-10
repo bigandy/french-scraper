@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "deter; discourage; dissuade; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se dissuader/ne pas dissuader/ne pas se dissuader",
+	"indicatif": {
+		"présent": {
+			"je": "dissuade",
+			"tu": "dissuades",
+			"il/elle": "dissuade",
+			"nous": "dissuadons",
+			"vous": "dissuadez",
+			"ils/elles": "dissuadent"
+		},
+		"imparfait": {
+			"je": "dissuadais",
+			"tu": "dissuadais",
+			"il/elle": "dissuadait",
+			"nous": "dissuadions",
+			"vous": "dissuadiez",
+			"ils/elles": "dissuadaient"
+		},
+		"futur": {
+			"je": "dissuaderai",
+			"tu": "dissuaderas",
+			"il/elle": "dissuadera",
+			"nous": "dissuaderons",
+			"vous": "dissuaderez",
+			"ils/elles": "dissuaderont"
+		},
+		"passé simple": {
+			"je": "dissuadai",
+			"tu": "dissuadas",
+			"il/elle": "dissuada",
+			"nous": "dissuadâmes",
+			"vous": "dissuadâtes",
+			"ils/elles": "dissuadèrent"
+		},
+		"passé composé": {
+			"j'": "ai dissuadé",
+			"tu": "as dissuadé",
+			"il/elle": "a dissuadé",
+			"nous": "avons dissuadé",
+			"vous": "avez dissuadé",
+			"ils/elles": "ont dissuadé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais dissuadé",
+			"tu": "avais dissuadé",
+			"il/elle": "avait dissuadé",
+			"nous": "avions dissuadé",
+			"vous": "aviez dissuadé",
+			"ils/elles": "avaient dissuadé"
+		},
+		"passé antérieur": {
+			"j'": "eus dissuadé",
+			"tu": "eus dissuadé",
+			"il/elle": "eut dissuadé",
+			"nous": "eûmes dissuadé",
+			"vous": "eûtes dissuadé",
+			"ils/elles": "eurent dissuadé"
+		},
+		"futur antérieur": {
+			"j'": "aurai dissuadé",
+			"tu": "auras dissuadé",
+			"il/elle": "aura dissuadé",
+			"nous": "aurons dissuadé",
+			"vous": "aurez dissuadé",
+			"ils/elles": "auront dissuadé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous dissuadiez",
+			"qu'il/elle": "dissuade",
+			"qu'ils/elles": "dissuadent"
+		},
+		"imparfait": {
+			"que": "vous dissuadassiez",
+			"qu'il/elle": "dissuadât",
+			"qu'ils/elles": "dissuadassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse dissuadé",
+			"que": "vous eussiez dissuadé",
+			"qu'il/elle": "eût dissuadé",
+			"qu'ils/elles": "eussent dissuadé"
+		},
+		"passé": {
+			"j'": "aie dissuadé",
+			"que": "vous ayez dissuadé",
+			"qu'il/elle": "ait dissuadé",
+			"qu'ils/elles": "aient dissuadé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "dissuaderais",
+			"tu": "dissuaderais",
+			"il/elle": "dissuaderait",
+			"nous": "dissuaderions",
+			"vous": "dissuaderiez",
+			"ils/elles": "dissuaderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais dissuadé",
+			"tu": "aurais dissuadé",
+			"il/elle": "aurait dissuadé",
+			"nous": "aurions dissuadé",
+			"vous": "auriez dissuadé",
+			"ils/elles": "auraient dissuadé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse dissuadé",
+			"tu": "eusses dissuadé",
+			"il/elle": "eût dissuadé",
+			"nous": "eussions dissuadé",
+			"vous": "eussiez dissuadé",
+			"ils/elles": "eussent dissuadé"
+		}
+	},
+	"participe": {
+		"présent": { "dissuadant": "" },
+		"passé composé": { "ayant": "dissuadé" },
+		"passé": {
+			"masc.sg.:": "dissuadé",
+			"masc.pl.:": "dissuadés",
+			"fém.sg.:": "dissuadée",
+			"fém.pl.:": "dissuadées"
+		}
+	},
+	"imperatif": {
+		"présent": { "dissuade": "", "dissuadons": "", "dissuadez": "" },
+		"passé": { "aie": "dissuadé", "ayons": "dissuadé", "ayez": "dissuadé" }
+	},
+	"infinitif": {
+		"présent": { "dissuader": "" },
+		"passé": { "avoir": "dissuadé" }
+	}
+}

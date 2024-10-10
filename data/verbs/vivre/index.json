@@ -1,0 +1,138 @@
+{
+	"name": "vivre",
+	"definition": "live; experience; stay; ...",
+	"model": "vivre",
+	"auxiliary": "avoir",
+	"otherForms": "se vivre/ne pas vivre/ne pas se vivre",
+	"indicatif": {
+		"présent": {
+			"je": "vis",
+			"tu": "vis",
+			"il/elle": "vit",
+			"nous": "vivons",
+			"vous": "vivez",
+			"ils/elles": "vivent"
+		},
+		"imparfait": {
+			"je": "vivais",
+			"tu": "vivais",
+			"il/elle": "vivait",
+			"nous": "vivions",
+			"vous": "viviez",
+			"ils/elles": "vivaient"
+		},
+		"futur": {
+			"je": "vivrai",
+			"tu": "vivras",
+			"il/elle": "vivra",
+			"nous": "vivrons",
+			"vous": "vivrez",
+			"ils/elles": "vivront"
+		},
+		"passé simple": {
+			"je": "vécus",
+			"tu": "vécus",
+			"il/elle": "vécut",
+			"nous": "vécûmes",
+			"vous": "vécûtes",
+			"ils/elles": "vécurent"
+		},
+		"passé composé": {
+			"j'": "ai vécu",
+			"tu": "as vécu",
+			"il/elle": "a vécu",
+			"nous": "avons vécu",
+			"vous": "avez vécu",
+			"ils/elles": "ont vécu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais vécu",
+			"tu": "avais vécu",
+			"il/elle": "avait vécu",
+			"nous": "avions vécu",
+			"vous": "aviez vécu",
+			"ils/elles": "avaient vécu"
+		},
+		"passé antérieur": {
+			"j'": "eus vécu",
+			"tu": "eus vécu",
+			"il/elle": "eut vécu",
+			"nous": "eûmes vécu",
+			"vous": "eûtes vécu",
+			"ils/elles": "eurent vécu"
+		},
+		"futur antérieur": {
+			"j'": "aurai vécu",
+			"tu": "auras vécu",
+			"il/elle": "aura vécu",
+			"nous": "aurons vécu",
+			"vous": "aurez vécu",
+			"ils/elles": "auront vécu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous viviez",
+			"qu'il/elle": "vive",
+			"qu'ils/elles": "vivent"
+		},
+		"imparfait": {
+			"que": "vous vécussiez",
+			"qu'il/elle": "vécût",
+			"qu'ils/elles": "vécussent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse vécu",
+			"que": "vous eussiez vécu",
+			"qu'il/elle": "eût vécu",
+			"qu'ils/elles": "eussent vécu"
+		},
+		"passé": {
+			"j'": "aie vécu",
+			"que": "vous ayez vécu",
+			"qu'il/elle": "ait vécu",
+			"qu'ils/elles": "aient vécu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "vivrais",
+			"tu": "vivrais",
+			"il/elle": "vivrait",
+			"nous": "vivrions",
+			"vous": "vivriez",
+			"ils/elles": "vivraient"
+		},
+		"passé première forme": {
+			"j'": "aurais vécu",
+			"tu": "aurais vécu",
+			"il/elle": "aurait vécu",
+			"nous": "aurions vécu",
+			"vous": "auriez vécu",
+			"ils/elles": "auraient vécu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse vécu",
+			"tu": "eusses vécu",
+			"il/elle": "eût vécu",
+			"nous": "eussions vécu",
+			"vous": "eussiez vécu",
+			"ils/elles": "eussent vécu"
+		}
+	},
+	"participe": {
+		"présent": { "vivant": "" },
+		"passé composé": { "ayant": "vécu" },
+		"passé": {
+			"masc.sg.:": "vécu",
+			"masc.pl.:": "vécus",
+			"fém.sg.:": "vécue",
+			"fém.pl.:": "vécues"
+		}
+	},
+	"imperatif": {
+		"présent": { "vis": "", "vivons": "", "vivez": "" },
+		"passé": { "aie": "vécu", "ayons": "vécu", "ayez": "vécu" }
+	},
+	"infinitif": { "présent": { "vivre": "" }, "passé": { "avoir": "vécu" } }
+}

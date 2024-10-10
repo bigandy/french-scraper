@@ -1,0 +1,138 @@
+{
+	"name": "finir",
+	"definition": "paralyze; numb; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se transir/ne pas transir/ne pas se transir",
+	"indicatif": {
+		"présent": {
+			"je": "transis",
+			"tu": "transis",
+			"il/elle": "transit",
+			"nous": "transissons",
+			"vous": "transissez",
+			"ils/elles": "transissent"
+		},
+		"imparfait": {
+			"je": "transissais",
+			"tu": "transissais",
+			"il/elle": "transissait",
+			"nous": "transissions",
+			"vous": "transissiez",
+			"ils/elles": "transissaient"
+		},
+		"futur": {
+			"je": "transirai",
+			"tu": "transiras",
+			"il/elle": "transira",
+			"nous": "transirons",
+			"vous": "transirez",
+			"ils/elles": "transiront"
+		},
+		"passé simple": {
+			"je": "transis",
+			"tu": "transis",
+			"il/elle": "transit",
+			"nous": "transîmes",
+			"vous": "transîtes",
+			"ils/elles": "transirent"
+		},
+		"passé composé": {
+			"j'": "ai transi",
+			"tu": "as transi",
+			"il/elle": "a transi",
+			"nous": "avons transi",
+			"vous": "avez transi",
+			"ils/elles": "ont transi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais transi",
+			"tu": "avais transi",
+			"il/elle": "avait transi",
+			"nous": "avions transi",
+			"vous": "aviez transi",
+			"ils/elles": "avaient transi"
+		},
+		"passé antérieur": {
+			"j'": "eus transi",
+			"tu": "eus transi",
+			"il/elle": "eut transi",
+			"nous": "eûmes transi",
+			"vous": "eûtes transi",
+			"ils/elles": "eurent transi"
+		},
+		"futur antérieur": {
+			"j'": "aurai transi",
+			"tu": "auras transi",
+			"il/elle": "aura transi",
+			"nous": "aurons transi",
+			"vous": "aurez transi",
+			"ils/elles": "auront transi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous transissiez",
+			"qu'il/elle": "transisse",
+			"qu'ils/elles": "transissent"
+		},
+		"imparfait": {
+			"que": "vous transissiez",
+			"qu'il/elle": "transît",
+			"qu'ils/elles": "transissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse transi",
+			"que": "vous eussiez transi",
+			"qu'il/elle": "eût transi",
+			"qu'ils/elles": "eussent transi"
+		},
+		"passé": {
+			"j'": "aie transi",
+			"que": "vous ayez transi",
+			"qu'il/elle": "ait transi",
+			"qu'ils/elles": "aient transi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "transirais",
+			"tu": "transirais",
+			"il/elle": "transirait",
+			"nous": "transirions",
+			"vous": "transiriez",
+			"ils/elles": "transiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais transi",
+			"tu": "aurais transi",
+			"il/elle": "aurait transi",
+			"nous": "aurions transi",
+			"vous": "auriez transi",
+			"ils/elles": "auraient transi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse transi",
+			"tu": "eusses transi",
+			"il/elle": "eût transi",
+			"nous": "eussions transi",
+			"vous": "eussiez transi",
+			"ils/elles": "eussent transi"
+		}
+	},
+	"participe": {
+		"présent": { "transissant": "" },
+		"passé composé": { "ayant": "transi" },
+		"passé": {
+			"masc.sg.:": "transi",
+			"masc.pl.:": "transis",
+			"fém.sg.:": "transie",
+			"fém.pl.:": "transies"
+		}
+	},
+	"imperatif": {
+		"présent": { "transis": "", "transissons": "", "transissez": "" },
+		"passé": { "aie": "transi", "ayons": "transi", "ayez": "transi" }
+	},
+	"infinitif": { "présent": { "transir": "" }, "passé": { "avoir": "transi" } }
+}

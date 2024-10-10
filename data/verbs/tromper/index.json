@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "deceive; fool; cheat on; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se tromper/ne pas tromper/ne pas se tromper",
+	"indicatif": {
+		"présent": {
+			"je": "trompe",
+			"tu": "trompes",
+			"il/elle": "trompe",
+			"nous": "trompons",
+			"vous": "trompez",
+			"ils/elles": "trompent"
+		},
+		"imparfait": {
+			"je": "trompais",
+			"tu": "trompais",
+			"il/elle": "trompait",
+			"nous": "trompions",
+			"vous": "trompiez",
+			"ils/elles": "trompaient"
+		},
+		"futur": {
+			"je": "tromperai",
+			"tu": "tromperas",
+			"il/elle": "trompera",
+			"nous": "tromperons",
+			"vous": "tromperez",
+			"ils/elles": "tromperont"
+		},
+		"passé simple": {
+			"je": "trompai",
+			"tu": "trompas",
+			"il/elle": "trompa",
+			"nous": "trompâmes",
+			"vous": "trompâtes",
+			"ils/elles": "trompèrent"
+		},
+		"passé composé": {
+			"j'": "ai trompé",
+			"tu": "as trompé",
+			"il/elle": "a trompé",
+			"nous": "avons trompé",
+			"vous": "avez trompé",
+			"ils/elles": "ont trompé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais trompé",
+			"tu": "avais trompé",
+			"il/elle": "avait trompé",
+			"nous": "avions trompé",
+			"vous": "aviez trompé",
+			"ils/elles": "avaient trompé"
+		},
+		"passé antérieur": {
+			"j'": "eus trompé",
+			"tu": "eus trompé",
+			"il/elle": "eut trompé",
+			"nous": "eûmes trompé",
+			"vous": "eûtes trompé",
+			"ils/elles": "eurent trompé"
+		},
+		"futur antérieur": {
+			"j'": "aurai trompé",
+			"tu": "auras trompé",
+			"il/elle": "aura trompé",
+			"nous": "aurons trompé",
+			"vous": "aurez trompé",
+			"ils/elles": "auront trompé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous trompiez",
+			"qu'il/elle": "trompe",
+			"qu'ils/elles": "trompent"
+		},
+		"imparfait": {
+			"que": "vous trompassiez",
+			"qu'il/elle": "trompât",
+			"qu'ils/elles": "trompassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse trompé",
+			"que": "vous eussiez trompé",
+			"qu'il/elle": "eût trompé",
+			"qu'ils/elles": "eussent trompé"
+		},
+		"passé": {
+			"j'": "aie trompé",
+			"que": "vous ayez trompé",
+			"qu'il/elle": "ait trompé",
+			"qu'ils/elles": "aient trompé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "tromperais",
+			"tu": "tromperais",
+			"il/elle": "tromperait",
+			"nous": "tromperions",
+			"vous": "tromperiez",
+			"ils/elles": "tromperaient"
+		},
+		"passé première forme": {
+			"j'": "aurais trompé",
+			"tu": "aurais trompé",
+			"il/elle": "aurait trompé",
+			"nous": "aurions trompé",
+			"vous": "auriez trompé",
+			"ils/elles": "auraient trompé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse trompé",
+			"tu": "eusses trompé",
+			"il/elle": "eût trompé",
+			"nous": "eussions trompé",
+			"vous": "eussiez trompé",
+			"ils/elles": "eussent trompé"
+		}
+	},
+	"participe": {
+		"présent": { "trompant": "" },
+		"passé composé": { "ayant": "trompé" },
+		"passé": {
+			"masc.sg.:": "trompé",
+			"masc.pl.:": "trompés",
+			"fém.sg.:": "trompée",
+			"fém.pl.:": "trompées"
+		}
+	},
+	"imperatif": {
+		"présent": { "trompe": "", "trompons": "", "trompez": "" },
+		"passé": { "aie": "trompé", "ayons": "trompé", "ayez": "trompé" }
+	},
+	"infinitif": { "présent": { "tromper": "" }, "passé": { "avoir": "trompé" } }
+}

@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "copy; duplicate; reproduce; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se copier/ne pas copier/ne pas se copier",
+	"indicatif": {
+		"présent": {
+			"je": "copie",
+			"tu": "copies",
+			"il/elle": "copie",
+			"nous": "copions",
+			"vous": "copiez",
+			"ils/elles": "copient"
+		},
+		"imparfait": {
+			"je": "copiais",
+			"tu": "copiais",
+			"il/elle": "copiait",
+			"nous": "copiions",
+			"vous": "copiiez",
+			"ils/elles": "copiaient"
+		},
+		"futur": {
+			"je": "copierai",
+			"tu": "copieras",
+			"il/elle": "copiera",
+			"nous": "copierons",
+			"vous": "copierez",
+			"ils/elles": "copieront"
+		},
+		"passé simple": {
+			"je": "copiai",
+			"tu": "copias",
+			"il/elle": "copia",
+			"nous": "copiâmes",
+			"vous": "copiâtes",
+			"ils/elles": "copièrent"
+		},
+		"passé composé": {
+			"j'": "ai copié",
+			"tu": "as copié",
+			"il/elle": "a copié",
+			"nous": "avons copié",
+			"vous": "avez copié",
+			"ils/elles": "ont copié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais copié",
+			"tu": "avais copié",
+			"il/elle": "avait copié",
+			"nous": "avions copié",
+			"vous": "aviez copié",
+			"ils/elles": "avaient copié"
+		},
+		"passé antérieur": {
+			"j'": "eus copié",
+			"tu": "eus copié",
+			"il/elle": "eut copié",
+			"nous": "eûmes copié",
+			"vous": "eûtes copié",
+			"ils/elles": "eurent copié"
+		},
+		"futur antérieur": {
+			"j'": "aurai copié",
+			"tu": "auras copié",
+			"il/elle": "aura copié",
+			"nous": "aurons copié",
+			"vous": "aurez copié",
+			"ils/elles": "auront copié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous copiiez",
+			"qu'il/elle": "copie",
+			"qu'ils/elles": "copient"
+		},
+		"imparfait": {
+			"que": "vous copiassiez",
+			"qu'il/elle": "copiât",
+			"qu'ils/elles": "copiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse copié",
+			"que": "vous eussiez copié",
+			"qu'il/elle": "eût copié",
+			"qu'ils/elles": "eussent copié"
+		},
+		"passé": {
+			"j'": "aie copié",
+			"que": "vous ayez copié",
+			"qu'il/elle": "ait copié",
+			"qu'ils/elles": "aient copié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "copierais",
+			"tu": "copierais",
+			"il/elle": "copierait",
+			"nous": "copierions",
+			"vous": "copieriez",
+			"ils/elles": "copieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais copié",
+			"tu": "aurais copié",
+			"il/elle": "aurait copié",
+			"nous": "aurions copié",
+			"vous": "auriez copié",
+			"ils/elles": "auraient copié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse copié",
+			"tu": "eusses copié",
+			"il/elle": "eût copié",
+			"nous": "eussions copié",
+			"vous": "eussiez copié",
+			"ils/elles": "eussent copié"
+		}
+	},
+	"participe": {
+		"présent": { "copiant": "" },
+		"passé composé": { "ayant": "copié" },
+		"passé": {
+			"masc.sg.:": "copié",
+			"masc.pl.:": "copiés",
+			"fém.sg.:": "copiée",
+			"fém.pl.:": "copiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "copie": "", "copions": "", "copiez": "" },
+		"passé": { "aie": "copié", "ayons": "copié", "ayez": "copié" }
+	},
+	"infinitif": { "présent": { "copier": "" }, "passé": { "avoir": "copié" } }
+}

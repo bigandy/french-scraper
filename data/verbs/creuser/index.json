@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "dig; excavate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se creuser/ne pas creuser/ne pas se creuser",
+	"indicatif": {
+		"présent": {
+			"je": "creuse",
+			"tu": "creuses",
+			"il/elle": "creuse",
+			"nous": "creusons",
+			"vous": "creusez",
+			"ils/elles": "creusent"
+		},
+		"imparfait": {
+			"je": "creusais",
+			"tu": "creusais",
+			"il/elle": "creusait",
+			"nous": "creusions",
+			"vous": "creusiez",
+			"ils/elles": "creusaient"
+		},
+		"futur": {
+			"je": "creuserai",
+			"tu": "creuseras",
+			"il/elle": "creusera",
+			"nous": "creuserons",
+			"vous": "creuserez",
+			"ils/elles": "creuseront"
+		},
+		"passé simple": {
+			"je": "creusai",
+			"tu": "creusas",
+			"il/elle": "creusa",
+			"nous": "creusâmes",
+			"vous": "creusâtes",
+			"ils/elles": "creusèrent"
+		},
+		"passé composé": {
+			"j'": "ai creusé",
+			"tu": "as creusé",
+			"il/elle": "a creusé",
+			"nous": "avons creusé",
+			"vous": "avez creusé",
+			"ils/elles": "ont creusé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais creusé",
+			"tu": "avais creusé",
+			"il/elle": "avait creusé",
+			"nous": "avions creusé",
+			"vous": "aviez creusé",
+			"ils/elles": "avaient creusé"
+		},
+		"passé antérieur": {
+			"j'": "eus creusé",
+			"tu": "eus creusé",
+			"il/elle": "eut creusé",
+			"nous": "eûmes creusé",
+			"vous": "eûtes creusé",
+			"ils/elles": "eurent creusé"
+		},
+		"futur antérieur": {
+			"j'": "aurai creusé",
+			"tu": "auras creusé",
+			"il/elle": "aura creusé",
+			"nous": "aurons creusé",
+			"vous": "aurez creusé",
+			"ils/elles": "auront creusé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous creusiez",
+			"qu'il/elle": "creuse",
+			"qu'ils/elles": "creusent"
+		},
+		"imparfait": {
+			"que": "vous creusassiez",
+			"qu'il/elle": "creusât",
+			"qu'ils/elles": "creusassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse creusé",
+			"que": "vous eussiez creusé",
+			"qu'il/elle": "eût creusé",
+			"qu'ils/elles": "eussent creusé"
+		},
+		"passé": {
+			"j'": "aie creusé",
+			"que": "vous ayez creusé",
+			"qu'il/elle": "ait creusé",
+			"qu'ils/elles": "aient creusé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "creuserais",
+			"tu": "creuserais",
+			"il/elle": "creuserait",
+			"nous": "creuserions",
+			"vous": "creuseriez",
+			"ils/elles": "creuseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais creusé",
+			"tu": "aurais creusé",
+			"il/elle": "aurait creusé",
+			"nous": "aurions creusé",
+			"vous": "auriez creusé",
+			"ils/elles": "auraient creusé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse creusé",
+			"tu": "eusses creusé",
+			"il/elle": "eût creusé",
+			"nous": "eussions creusé",
+			"vous": "eussiez creusé",
+			"ils/elles": "eussent creusé"
+		}
+	},
+	"participe": {
+		"présent": { "creusant": "" },
+		"passé composé": { "ayant": "creusé" },
+		"passé": {
+			"masc.sg.:": "creusé",
+			"masc.pl.:": "creusés",
+			"fém.sg.:": "creusée",
+			"fém.pl.:": "creusées"
+		}
+	},
+	"imperatif": {
+		"présent": { "creuse": "", "creusons": "", "creusez": "" },
+		"passé": { "aie": "creusé", "ayons": "creusé", "ayez": "creusé" }
+	},
+	"infinitif": { "présent": { "creuser": "" }, "passé": { "avoir": "creusé" } }
+}

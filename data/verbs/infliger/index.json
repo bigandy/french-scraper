@@ -1,0 +1,143 @@
+{
+	"name": "manger",
+	"definition": "inflict; impose; cause; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "s'infliger/ne pas infliger/ne pas s'infliger",
+	"indicatif": {
+		"présent": {
+			"j'": "inflige",
+			"tu": "infliges",
+			"il/elle": "inflige",
+			"nous": "infligeons",
+			"vous": "infligez",
+			"ils/elles": "infligent"
+		},
+		"imparfait": {
+			"j'": "infligeais",
+			"tu": "infligeais",
+			"il/elle": "infligeait",
+			"nous": "infligions",
+			"vous": "infligiez",
+			"ils/elles": "infligeaient"
+		},
+		"futur": {
+			"j'": "infligerai",
+			"tu": "infligeras",
+			"il/elle": "infligera",
+			"nous": "infligerons",
+			"vous": "infligerez",
+			"ils/elles": "infligeront"
+		},
+		"passé simple": {
+			"j'": "infligeai",
+			"tu": "infligeas",
+			"il/elle": "infligea",
+			"nous": "infligeâmes",
+			"vous": "infligeâtes",
+			"ils/elles": "infligèrent"
+		},
+		"passé composé": {
+			"j'": "ai infligé",
+			"tu": "as infligé",
+			"il/elle": "a infligé",
+			"nous": "avons infligé",
+			"vous": "avez infligé",
+			"ils/elles": "ont infligé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais infligé",
+			"tu": "avais infligé",
+			"il/elle": "avait infligé",
+			"nous": "avions infligé",
+			"vous": "aviez infligé",
+			"ils/elles": "avaient infligé"
+		},
+		"passé antérieur": {
+			"j'": "eus infligé",
+			"tu": "eus infligé",
+			"il/elle": "eut infligé",
+			"nous": "eûmes infligé",
+			"vous": "eûtes infligé",
+			"ils/elles": "eurent infligé"
+		},
+		"futur antérieur": {
+			"j'": "aurai infligé",
+			"tu": "auras infligé",
+			"il/elle": "aura infligé",
+			"nous": "aurons infligé",
+			"vous": "aurez infligé",
+			"ils/elles": "auront infligé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "inflige",
+			"que": "vous infligiez",
+			"qu'il/elle": "inflige",
+			"qu'ils/elles": "infligent"
+		},
+		"imparfait": {
+			"j'": "infligeasse",
+			"que": "vous infligeassiez",
+			"qu'il/elle": "infligeât",
+			"qu'ils/elles": "infligeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse infligé",
+			"que": "vous eussiez infligé",
+			"qu'il/elle": "eût infligé",
+			"qu'ils/elles": "eussent infligé"
+		},
+		"passé": {
+			"j'": "aie infligé",
+			"que": "vous ayez infligé",
+			"qu'il/elle": "ait infligé",
+			"qu'ils/elles": "aient infligé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "infligerais",
+			"tu": "infligerais",
+			"il/elle": "infligerait",
+			"nous": "infligerions",
+			"vous": "infligeriez",
+			"ils/elles": "infligeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais infligé",
+			"tu": "aurais infligé",
+			"il/elle": "aurait infligé",
+			"nous": "aurions infligé",
+			"vous": "auriez infligé",
+			"ils/elles": "auraient infligé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse infligé",
+			"tu": "eusses infligé",
+			"il/elle": "eût infligé",
+			"nous": "eussions infligé",
+			"vous": "eussiez infligé",
+			"ils/elles": "eussent infligé"
+		}
+	},
+	"participe": {
+		"présent": { "infligeant": "" },
+		"passé composé": { "ayant": "infligé" },
+		"passé": {
+			"masc.sg.:": "infligé",
+			"masc.pl.:": "infligés",
+			"fém.sg.:": "infligée",
+			"fém.pl.:": "infligées"
+		}
+	},
+	"imperatif": {
+		"présent": { "inflige": "", "infligeons": "", "infligez": "" },
+		"passé": { "aie": "infligé", "ayons": "infligé", "ayez": "infligé" }
+	},
+	"infinitif": {
+		"présent": { "infliger": "" },
+		"passé": { "avoir": "infligé" }
+	}
+}

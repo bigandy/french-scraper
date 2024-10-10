@@ -1,0 +1,141 @@
+{
+	"name": "finir",
+	"definition": "bruise; hurt; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se meurtrir/ne pas meurtrir/ne pas se meurtrir",
+	"indicatif": {
+		"présent": {
+			"je": "meurtris",
+			"tu": "meurtris",
+			"il/elle": "meurtrit",
+			"nous": "meurtrissons",
+			"vous": "meurtrissez",
+			"ils/elles": "meurtrissent"
+		},
+		"imparfait": {
+			"je": "meurtrissais",
+			"tu": "meurtrissais",
+			"il/elle": "meurtrissait",
+			"nous": "meurtrissions",
+			"vous": "meurtrissiez",
+			"ils/elles": "meurtrissaient"
+		},
+		"futur": {
+			"je": "meurtrirai",
+			"tu": "meurtriras",
+			"il/elle": "meurtrira",
+			"nous": "meurtrirons",
+			"vous": "meurtrirez",
+			"ils/elles": "meurtriront"
+		},
+		"passé simple": {
+			"je": "meurtris",
+			"tu": "meurtris",
+			"il/elle": "meurtrit",
+			"nous": "meurtrîmes",
+			"vous": "meurtrîtes",
+			"ils/elles": "meurtrirent"
+		},
+		"passé composé": {
+			"j'": "ai meurtri",
+			"tu": "as meurtri",
+			"il/elle": "a meurtri",
+			"nous": "avons meurtri",
+			"vous": "avez meurtri",
+			"ils/elles": "ont meurtri"
+		},
+		"plus-que-parfait": {
+			"j'": "avais meurtri",
+			"tu": "avais meurtri",
+			"il/elle": "avait meurtri",
+			"nous": "avions meurtri",
+			"vous": "aviez meurtri",
+			"ils/elles": "avaient meurtri"
+		},
+		"passé antérieur": {
+			"j'": "eus meurtri",
+			"tu": "eus meurtri",
+			"il/elle": "eut meurtri",
+			"nous": "eûmes meurtri",
+			"vous": "eûtes meurtri",
+			"ils/elles": "eurent meurtri"
+		},
+		"futur antérieur": {
+			"j'": "aurai meurtri",
+			"tu": "auras meurtri",
+			"il/elle": "aura meurtri",
+			"nous": "aurons meurtri",
+			"vous": "aurez meurtri",
+			"ils/elles": "auront meurtri"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous meurtrissiez",
+			"qu'il/elle": "meurtrisse",
+			"qu'ils/elles": "meurtrissent"
+		},
+		"imparfait": {
+			"que": "vous meurtrissiez",
+			"qu'il/elle": "meurtrît",
+			"qu'ils/elles": "meurtrissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse meurtri",
+			"que": "vous eussiez meurtri",
+			"qu'il/elle": "eût meurtri",
+			"qu'ils/elles": "eussent meurtri"
+		},
+		"passé": {
+			"j'": "aie meurtri",
+			"que": "vous ayez meurtri",
+			"qu'il/elle": "ait meurtri",
+			"qu'ils/elles": "aient meurtri"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "meurtrirais",
+			"tu": "meurtrirais",
+			"il/elle": "meurtrirait",
+			"nous": "meurtririons",
+			"vous": "meurtririez",
+			"ils/elles": "meurtriraient"
+		},
+		"passé première forme": {
+			"j'": "aurais meurtri",
+			"tu": "aurais meurtri",
+			"il/elle": "aurait meurtri",
+			"nous": "aurions meurtri",
+			"vous": "auriez meurtri",
+			"ils/elles": "auraient meurtri"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse meurtri",
+			"tu": "eusses meurtri",
+			"il/elle": "eût meurtri",
+			"nous": "eussions meurtri",
+			"vous": "eussiez meurtri",
+			"ils/elles": "eussent meurtri"
+		}
+	},
+	"participe": {
+		"présent": { "meurtrissant": "" },
+		"passé composé": { "ayant": "meurtri" },
+		"passé": {
+			"masc.sg.:": "meurtri",
+			"masc.pl.:": "meurtris",
+			"fém.sg.:": "meurtrie",
+			"fém.pl.:": "meurtries"
+		}
+	},
+	"imperatif": {
+		"présent": { "meurtris": "", "meurtrissons": "", "meurtrissez": "" },
+		"passé": { "aie": "meurtri", "ayons": "meurtri", "ayez": "meurtri" }
+	},
+	"infinitif": {
+		"présent": { "meurtrir": "" },
+		"passé": { "avoir": "meurtri" }
+	}
+}

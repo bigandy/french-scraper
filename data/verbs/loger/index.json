@@ -1,0 +1,138 @@
+{
+	"name": "manger",
+	"definition": "house; accommodate; receive; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "se loger/ne pas loger/ne pas se loger",
+	"indicatif": {
+		"présent": {
+			"je": "loge",
+			"tu": "loges",
+			"il/elle": "loge",
+			"nous": "logeons",
+			"vous": "logez",
+			"ils/elles": "logent"
+		},
+		"imparfait": {
+			"je": "logeais",
+			"tu": "logeais",
+			"il/elle": "logeait",
+			"nous": "logions",
+			"vous": "logiez",
+			"ils/elles": "logeaient"
+		},
+		"futur": {
+			"je": "logerai",
+			"tu": "logeras",
+			"il/elle": "logera",
+			"nous": "logerons",
+			"vous": "logerez",
+			"ils/elles": "logeront"
+		},
+		"passé simple": {
+			"je": "logeai",
+			"tu": "logeas",
+			"il/elle": "logea",
+			"nous": "logeâmes",
+			"vous": "logeâtes",
+			"ils/elles": "logèrent"
+		},
+		"passé composé": {
+			"j'": "ai logé",
+			"tu": "as logé",
+			"il/elle": "a logé",
+			"nous": "avons logé",
+			"vous": "avez logé",
+			"ils/elles": "ont logé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais logé",
+			"tu": "avais logé",
+			"il/elle": "avait logé",
+			"nous": "avions logé",
+			"vous": "aviez logé",
+			"ils/elles": "avaient logé"
+		},
+		"passé antérieur": {
+			"j'": "eus logé",
+			"tu": "eus logé",
+			"il/elle": "eut logé",
+			"nous": "eûmes logé",
+			"vous": "eûtes logé",
+			"ils/elles": "eurent logé"
+		},
+		"futur antérieur": {
+			"j'": "aurai logé",
+			"tu": "auras logé",
+			"il/elle": "aura logé",
+			"nous": "aurons logé",
+			"vous": "aurez logé",
+			"ils/elles": "auront logé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous logiez",
+			"qu'il/elle": "loge",
+			"qu'ils/elles": "logent"
+		},
+		"imparfait": {
+			"que": "vous logeassiez",
+			"qu'il/elle": "logeât",
+			"qu'ils/elles": "logeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse logé",
+			"que": "vous eussiez logé",
+			"qu'il/elle": "eût logé",
+			"qu'ils/elles": "eussent logé"
+		},
+		"passé": {
+			"j'": "aie logé",
+			"que": "vous ayez logé",
+			"qu'il/elle": "ait logé",
+			"qu'ils/elles": "aient logé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "logerais",
+			"tu": "logerais",
+			"il/elle": "logerait",
+			"nous": "logerions",
+			"vous": "logeriez",
+			"ils/elles": "logeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais logé",
+			"tu": "aurais logé",
+			"il/elle": "aurait logé",
+			"nous": "aurions logé",
+			"vous": "auriez logé",
+			"ils/elles": "auraient logé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse logé",
+			"tu": "eusses logé",
+			"il/elle": "eût logé",
+			"nous": "eussions logé",
+			"vous": "eussiez logé",
+			"ils/elles": "eussent logé"
+		}
+	},
+	"participe": {
+		"présent": { "logeant": "" },
+		"passé composé": { "ayant": "logé" },
+		"passé": {
+			"masc.sg.:": "logé",
+			"masc.pl.:": "logés",
+			"fém.sg.:": "logée",
+			"fém.pl.:": "logées"
+		}
+	},
+	"imperatif": {
+		"présent": { "loge": "", "logeons": "", "logez": "" },
+		"passé": { "aie": "logé", "ayons": "logé", "ayez": "logé" }
+	},
+	"infinitif": { "présent": { "loger": "" }, "passé": { "avoir": "logé" } }
+}

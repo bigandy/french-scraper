@@ -1,0 +1,143 @@
+{
+	"name": "cueillir",
+	"definition": "welcome; host; accommodate; ...",
+	"model": "cueillir",
+	"auxiliary": "avoir",
+	"otherForms": "s'accueillir/ne pas accueillir/ne pas s'accueillir",
+	"indicatif": {
+		"présent": {
+			"j'": "accueille",
+			"tu": "accueilles",
+			"il/elle": "accueille",
+			"nous": "accueillons",
+			"vous": "accueillez",
+			"ils/elles": "accueillent"
+		},
+		"imparfait": {
+			"j'": "accueillais",
+			"tu": "accueillais",
+			"il/elle": "accueillait",
+			"nous": "accueillions",
+			"vous": "accueilliez",
+			"ils/elles": "accueillaient"
+		},
+		"futur": {
+			"j'": "accueillerai",
+			"tu": "accueilleras",
+			"il/elle": "accueillera",
+			"nous": "accueillerons",
+			"vous": "accueillerez",
+			"ils/elles": "accueilleront"
+		},
+		"passé simple": {
+			"j'": "accueillis",
+			"tu": "accueillis",
+			"il/elle": "accueillit",
+			"nous": "accueillîmes",
+			"vous": "accueillîtes",
+			"ils/elles": "accueillirent"
+		},
+		"passé composé": {
+			"j'": "ai accueilli",
+			"tu": "as accueilli",
+			"il/elle": "a accueilli",
+			"nous": "avons accueilli",
+			"vous": "avez accueilli",
+			"ils/elles": "ont accueilli"
+		},
+		"plus-que-parfait": {
+			"j'": "avais accueilli",
+			"tu": "avais accueilli",
+			"il/elle": "avait accueilli",
+			"nous": "avions accueilli",
+			"vous": "aviez accueilli",
+			"ils/elles": "avaient accueilli"
+		},
+		"passé antérieur": {
+			"j'": "eus accueilli",
+			"tu": "eus accueilli",
+			"il/elle": "eut accueilli",
+			"nous": "eûmes accueilli",
+			"vous": "eûtes accueilli",
+			"ils/elles": "eurent accueilli"
+		},
+		"futur antérieur": {
+			"j'": "aurai accueilli",
+			"tu": "auras accueilli",
+			"il/elle": "aura accueilli",
+			"nous": "aurons accueilli",
+			"vous": "aurez accueilli",
+			"ils/elles": "auront accueilli"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "accueille",
+			"que": "vous accueilliez",
+			"qu'il/elle": "accueille",
+			"qu'ils/elles": "accueillent"
+		},
+		"imparfait": {
+			"j'": "accueillisse",
+			"que": "vous accueillissiez",
+			"qu'il/elle": "accueillît",
+			"qu'ils/elles": "accueillissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse accueilli",
+			"que": "vous eussiez accueilli",
+			"qu'il/elle": "eût accueilli",
+			"qu'ils/elles": "eussent accueilli"
+		},
+		"passé": {
+			"j'": "aie accueilli",
+			"que": "vous ayez accueilli",
+			"qu'il/elle": "ait accueilli",
+			"qu'ils/elles": "aient accueilli"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "accueillerais",
+			"tu": "accueillerais",
+			"il/elle": "accueillerait",
+			"nous": "accueillerions",
+			"vous": "accueilleriez",
+			"ils/elles": "accueilleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais accueilli",
+			"tu": "aurais accueilli",
+			"il/elle": "aurait accueilli",
+			"nous": "aurions accueilli",
+			"vous": "auriez accueilli",
+			"ils/elles": "auraient accueilli"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse accueilli",
+			"tu": "eusses accueilli",
+			"il/elle": "eût accueilli",
+			"nous": "eussions accueilli",
+			"vous": "eussiez accueilli",
+			"ils/elles": "eussent accueilli"
+		}
+	},
+	"participe": {
+		"présent": { "accueillant": "" },
+		"passé composé": { "ayant": "accueilli" },
+		"passé": {
+			"masc.sg.:": "accueilli",
+			"masc.pl.:": "accueillis",
+			"fém.sg.:": "accueillie",
+			"fém.pl.:": "accueillies"
+		}
+	},
+	"imperatif": {
+		"présent": { "accueille": "", "accueillons": "", "accueillez": "" },
+		"passé": { "aie": "accueilli", "ayons": "accueilli", "ayez": "accueilli" }
+	},
+	"infinitif": {
+		"présent": { "accueillir": "" },
+		"passé": { "avoir": "accueilli" }
+	}
+}

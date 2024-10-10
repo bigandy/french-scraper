@@ -1,0 +1,141 @@
+{
+	"name": "craindre",
+	"definition": "restrict; limit; restrain; ...",
+	"model": "craindre",
+	"auxiliary": "avoir",
+	"otherForms": "se restreindre/ne pas restreindre/ne pas se restreindre",
+	"indicatif": {
+		"présent": {
+			"je": "restreins",
+			"tu": "restreins",
+			"il/elle": "restreint",
+			"nous": "restreignons",
+			"vous": "restreignez",
+			"ils/elles": "restreignent"
+		},
+		"imparfait": {
+			"je": "restreignais",
+			"tu": "restreignais",
+			"il/elle": "restreignait",
+			"nous": "restreignions",
+			"vous": "restreigniez",
+			"ils/elles": "restreignaient"
+		},
+		"futur": {
+			"je": "restreindrai",
+			"tu": "restreindras",
+			"il/elle": "restreindra",
+			"nous": "restreindrons",
+			"vous": "restreindrez",
+			"ils/elles": "restreindront"
+		},
+		"passé simple": {
+			"je": "restreignis",
+			"tu": "restreignis",
+			"il/elle": "restreignit",
+			"nous": "restreignîmes",
+			"vous": "restreignîtes",
+			"ils/elles": "restreignirent"
+		},
+		"passé composé": {
+			"j'": "ai restreint",
+			"tu": "as restreint",
+			"il/elle": "a restreint",
+			"nous": "avons restreint",
+			"vous": "avez restreint",
+			"ils/elles": "ont restreint"
+		},
+		"plus-que-parfait": {
+			"j'": "avais restreint",
+			"tu": "avais restreint",
+			"il/elle": "avait restreint",
+			"nous": "avions restreint",
+			"vous": "aviez restreint",
+			"ils/elles": "avaient restreint"
+		},
+		"passé antérieur": {
+			"j'": "eus restreint",
+			"tu": "eus restreint",
+			"il/elle": "eut restreint",
+			"nous": "eûmes restreint",
+			"vous": "eûtes restreint",
+			"ils/elles": "eurent restreint"
+		},
+		"futur antérieur": {
+			"j'": "aurai restreint",
+			"tu": "auras restreint",
+			"il/elle": "aura restreint",
+			"nous": "aurons restreint",
+			"vous": "aurez restreint",
+			"ils/elles": "auront restreint"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous restreigniez",
+			"qu'il/elle": "restreigne",
+			"qu'ils/elles": "restreignent"
+		},
+		"imparfait": {
+			"que": "vous restreignissiez",
+			"qu'il/elle": "restreignît",
+			"qu'ils/elles": "restreignissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse restreint",
+			"que": "vous eussiez restreint",
+			"qu'il/elle": "eût restreint",
+			"qu'ils/elles": "eussent restreint"
+		},
+		"passé": {
+			"j'": "aie restreint",
+			"que": "vous ayez restreint",
+			"qu'il/elle": "ait restreint",
+			"qu'ils/elles": "aient restreint"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "restreindrais",
+			"tu": "restreindrais",
+			"il/elle": "restreindrait",
+			"nous": "restreindrions",
+			"vous": "restreindriez",
+			"ils/elles": "restreindraient"
+		},
+		"passé première forme": {
+			"j'": "aurais restreint",
+			"tu": "aurais restreint",
+			"il/elle": "aurait restreint",
+			"nous": "aurions restreint",
+			"vous": "auriez restreint",
+			"ils/elles": "auraient restreint"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse restreint",
+			"tu": "eusses restreint",
+			"il/elle": "eût restreint",
+			"nous": "eussions restreint",
+			"vous": "eussiez restreint",
+			"ils/elles": "eussent restreint"
+		}
+	},
+	"participe": {
+		"présent": { "restreignant": "" },
+		"passé composé": { "ayant": "restreint" },
+		"passé": {
+			"masc.sg.:": "restreint",
+			"masc.pl.:": "restreints",
+			"fém.sg.:": "restreinte",
+			"fém.pl.:": "restreintes"
+		}
+	},
+	"imperatif": {
+		"présent": { "restreins": "", "restreignons": "", "restreignez": "" },
+		"passé": { "aie": "restreint", "ayons": "restreint", "ayez": "restreint" }
+	},
+	"infinitif": {
+		"présent": { "restreindre": "" },
+		"passé": { "avoir": "restreint" }
+	}
+}

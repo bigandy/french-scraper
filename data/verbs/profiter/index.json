@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "enjoy; take advantage; benefit; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas profiter",
+	"indicatif": {
+		"présent": {
+			"je": "profite",
+			"tu": "profites",
+			"il/elle": "profite",
+			"nous": "profitons",
+			"vous": "profitez",
+			"ils/elles": "profitent"
+		},
+		"imparfait": {
+			"je": "profitais",
+			"tu": "profitais",
+			"il/elle": "profitait",
+			"nous": "profitions",
+			"vous": "profitiez",
+			"ils/elles": "profitaient"
+		},
+		"futur": {
+			"je": "profiterai",
+			"tu": "profiteras",
+			"il/elle": "profitera",
+			"nous": "profiterons",
+			"vous": "profiterez",
+			"ils/elles": "profiteront"
+		},
+		"passé simple": {
+			"je": "profitai",
+			"tu": "profitas",
+			"il/elle": "profita",
+			"nous": "profitâmes",
+			"vous": "profitâtes",
+			"ils/elles": "profitèrent"
+		},
+		"passé composé": {
+			"j'": "ai profité",
+			"tu": "as profité",
+			"il/elle": "a profité",
+			"nous": "avons profité",
+			"vous": "avez profité",
+			"ils/elles": "ont profité"
+		},
+		"plus-que-parfait": {
+			"j'": "avais profité",
+			"tu": "avais profité",
+			"il/elle": "avait profité",
+			"nous": "avions profité",
+			"vous": "aviez profité",
+			"ils/elles": "avaient profité"
+		},
+		"passé antérieur": {
+			"j'": "eus profité",
+			"tu": "eus profité",
+			"il/elle": "eut profité",
+			"nous": "eûmes profité",
+			"vous": "eûtes profité",
+			"ils/elles": "eurent profité"
+		},
+		"futur antérieur": {
+			"j'": "aurai profité",
+			"tu": "auras profité",
+			"il/elle": "aura profité",
+			"nous": "aurons profité",
+			"vous": "aurez profité",
+			"ils/elles": "auront profité"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous profitiez",
+			"qu'il/elle": "profite",
+			"qu'ils/elles": "profitent"
+		},
+		"imparfait": {
+			"que": "vous profitassiez",
+			"qu'il/elle": "profitât",
+			"qu'ils/elles": "profitassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse profité",
+			"que": "vous eussiez profité",
+			"qu'il/elle": "eût profité",
+			"qu'ils/elles": "eussent profité"
+		},
+		"passé": {
+			"j'": "aie profité",
+			"que": "vous ayez profité",
+			"qu'il/elle": "ait profité",
+			"qu'ils/elles": "aient profité"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "profiterais",
+			"tu": "profiterais",
+			"il/elle": "profiterait",
+			"nous": "profiterions",
+			"vous": "profiteriez",
+			"ils/elles": "profiteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais profité",
+			"tu": "aurais profité",
+			"il/elle": "aurait profité",
+			"nous": "aurions profité",
+			"vous": "auriez profité",
+			"ils/elles": "auraient profité"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse profité",
+			"tu": "eusses profité",
+			"il/elle": "eût profité",
+			"nous": "eussions profité",
+			"vous": "eussiez profité",
+			"ils/elles": "eussent profité"
+		}
+	},
+	"participe": {
+		"présent": { "profitant": "" },
+		"passé composé": { "ayant": "profité" },
+		"passé": {
+			"masc.sg.:": "profité",
+			"masc.pl.:": "profités",
+			"fém.sg.:": "profitée",
+			"fém.pl.:": "profitées"
+		}
+	},
+	"imperatif": {
+		"présent": { "profite": "", "profitons": "", "profitez": "" },
+		"passé": { "aie": "profité", "ayons": "profité", "ayez": "profité" }
+	},
+	"infinitif": {
+		"présent": { "profiter": "" },
+		"passé": { "avoir": "profité" }
+	}
+}

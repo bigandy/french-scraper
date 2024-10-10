@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "walk; work; step; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se marcher/ne pas marcher/ne pas se marcher",
+	"indicatif": {
+		"présent": {
+			"je": "marche",
+			"tu": "marches",
+			"il/elle": "marche",
+			"nous": "marchons",
+			"vous": "marchez",
+			"ils/elles": "marchent"
+		},
+		"imparfait": {
+			"je": "marchais",
+			"tu": "marchais",
+			"il/elle": "marchait",
+			"nous": "marchions",
+			"vous": "marchiez",
+			"ils/elles": "marchaient"
+		},
+		"futur": {
+			"je": "marcherai",
+			"tu": "marcheras",
+			"il/elle": "marchera",
+			"nous": "marcherons",
+			"vous": "marcherez",
+			"ils/elles": "marcheront"
+		},
+		"passé simple": {
+			"je": "marchai",
+			"tu": "marchas",
+			"il/elle": "marcha",
+			"nous": "marchâmes",
+			"vous": "marchâtes",
+			"ils/elles": "marchèrent"
+		},
+		"passé composé": {
+			"j'": "ai marché",
+			"tu": "as marché",
+			"il/elle": "a marché",
+			"nous": "avons marché",
+			"vous": "avez marché",
+			"ils/elles": "ont marché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais marché",
+			"tu": "avais marché",
+			"il/elle": "avait marché",
+			"nous": "avions marché",
+			"vous": "aviez marché",
+			"ils/elles": "avaient marché"
+		},
+		"passé antérieur": {
+			"j'": "eus marché",
+			"tu": "eus marché",
+			"il/elle": "eut marché",
+			"nous": "eûmes marché",
+			"vous": "eûtes marché",
+			"ils/elles": "eurent marché"
+		},
+		"futur antérieur": {
+			"j'": "aurai marché",
+			"tu": "auras marché",
+			"il/elle": "aura marché",
+			"nous": "aurons marché",
+			"vous": "aurez marché",
+			"ils/elles": "auront marché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous marchiez",
+			"qu'il/elle": "marche",
+			"qu'ils/elles": "marchent"
+		},
+		"imparfait": {
+			"que": "vous marchassiez",
+			"qu'il/elle": "marchât",
+			"qu'ils/elles": "marchassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse marché",
+			"que": "vous eussiez marché",
+			"qu'il/elle": "eût marché",
+			"qu'ils/elles": "eussent marché"
+		},
+		"passé": {
+			"j'": "aie marché",
+			"que": "vous ayez marché",
+			"qu'il/elle": "ait marché",
+			"qu'ils/elles": "aient marché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "marcherais",
+			"tu": "marcherais",
+			"il/elle": "marcherait",
+			"nous": "marcherions",
+			"vous": "marcheriez",
+			"ils/elles": "marcheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais marché",
+			"tu": "aurais marché",
+			"il/elle": "aurait marché",
+			"nous": "aurions marché",
+			"vous": "auriez marché",
+			"ils/elles": "auraient marché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse marché",
+			"tu": "eusses marché",
+			"il/elle": "eût marché",
+			"nous": "eussions marché",
+			"vous": "eussiez marché",
+			"ils/elles": "eussent marché"
+		}
+	},
+	"participe": {
+		"présent": { "marchant": "" },
+		"passé composé": { "ayant": "marché" },
+		"passé": {
+			"masc.sg.:": "marché",
+			"masc.pl.:": "marchés",
+			"fém.sg.:": "marchée",
+			"fém.pl.:": "marchées"
+		}
+	},
+	"imperatif": {
+		"présent": { "marche": "", "marchons": "", "marchez": "" },
+		"passé": { "aie": "marché", "ayons": "marché", "ayez": "marché" }
+	},
+	"infinitif": { "présent": { "marcher": "" }, "passé": { "avoir": "marché" } }
+}

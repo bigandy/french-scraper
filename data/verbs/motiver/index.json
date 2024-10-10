@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "motivate; justify; inspire; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se motiver/ne pas motiver/ne pas se motiver",
+	"indicatif": {
+		"présent": {
+			"je": "motive",
+			"tu": "motives",
+			"il/elle": "motive",
+			"nous": "motivons",
+			"vous": "motivez",
+			"ils/elles": "motivent"
+		},
+		"imparfait": {
+			"je": "motivais",
+			"tu": "motivais",
+			"il/elle": "motivait",
+			"nous": "motivions",
+			"vous": "motiviez",
+			"ils/elles": "motivaient"
+		},
+		"futur": {
+			"je": "motiverai",
+			"tu": "motiveras",
+			"il/elle": "motivera",
+			"nous": "motiverons",
+			"vous": "motiverez",
+			"ils/elles": "motiveront"
+		},
+		"passé simple": {
+			"je": "motivai",
+			"tu": "motivas",
+			"il/elle": "motiva",
+			"nous": "motivâmes",
+			"vous": "motivâtes",
+			"ils/elles": "motivèrent"
+		},
+		"passé composé": {
+			"j'": "ai motivé",
+			"tu": "as motivé",
+			"il/elle": "a motivé",
+			"nous": "avons motivé",
+			"vous": "avez motivé",
+			"ils/elles": "ont motivé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais motivé",
+			"tu": "avais motivé",
+			"il/elle": "avait motivé",
+			"nous": "avions motivé",
+			"vous": "aviez motivé",
+			"ils/elles": "avaient motivé"
+		},
+		"passé antérieur": {
+			"j'": "eus motivé",
+			"tu": "eus motivé",
+			"il/elle": "eut motivé",
+			"nous": "eûmes motivé",
+			"vous": "eûtes motivé",
+			"ils/elles": "eurent motivé"
+		},
+		"futur antérieur": {
+			"j'": "aurai motivé",
+			"tu": "auras motivé",
+			"il/elle": "aura motivé",
+			"nous": "aurons motivé",
+			"vous": "aurez motivé",
+			"ils/elles": "auront motivé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous motiviez",
+			"qu'il/elle": "motive",
+			"qu'ils/elles": "motivent"
+		},
+		"imparfait": {
+			"que": "vous motivassiez",
+			"qu'il/elle": "motivât",
+			"qu'ils/elles": "motivassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse motivé",
+			"que": "vous eussiez motivé",
+			"qu'il/elle": "eût motivé",
+			"qu'ils/elles": "eussent motivé"
+		},
+		"passé": {
+			"j'": "aie motivé",
+			"que": "vous ayez motivé",
+			"qu'il/elle": "ait motivé",
+			"qu'ils/elles": "aient motivé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "motiverais",
+			"tu": "motiverais",
+			"il/elle": "motiverait",
+			"nous": "motiverions",
+			"vous": "motiveriez",
+			"ils/elles": "motiveraient"
+		},
+		"passé première forme": {
+			"j'": "aurais motivé",
+			"tu": "aurais motivé",
+			"il/elle": "aurait motivé",
+			"nous": "aurions motivé",
+			"vous": "auriez motivé",
+			"ils/elles": "auraient motivé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse motivé",
+			"tu": "eusses motivé",
+			"il/elle": "eût motivé",
+			"nous": "eussions motivé",
+			"vous": "eussiez motivé",
+			"ils/elles": "eussent motivé"
+		}
+	},
+	"participe": {
+		"présent": { "motivant": "" },
+		"passé composé": { "ayant": "motivé" },
+		"passé": {
+			"masc.sg.:": "motivé",
+			"masc.pl.:": "motivés",
+			"fém.sg.:": "motivée",
+			"fém.pl.:": "motivées"
+		}
+	},
+	"imperatif": {
+		"présent": { "motive": "", "motivons": "", "motivez": "" },
+		"passé": { "aie": "motivé", "ayons": "motivé", "ayez": "motivé" }
+	},
+	"infinitif": { "présent": { "motiver": "" }, "passé": { "avoir": "motivé" } }
+}

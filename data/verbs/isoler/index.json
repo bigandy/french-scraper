@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "isolate; insulate; separate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'isoler/ne pas isoler/ne pas s'isoler",
+	"indicatif": {
+		"présent": {
+			"j'": "isole",
+			"tu": "isoles",
+			"il/elle": "isole",
+			"nous": "isolons",
+			"vous": "isolez",
+			"ils/elles": "isolent"
+		},
+		"imparfait": {
+			"j'": "isolais",
+			"tu": "isolais",
+			"il/elle": "isolait",
+			"nous": "isolions",
+			"vous": "isoliez",
+			"ils/elles": "isolaient"
+		},
+		"futur": {
+			"j'": "isolerai",
+			"tu": "isoleras",
+			"il/elle": "isolera",
+			"nous": "isolerons",
+			"vous": "isolerez",
+			"ils/elles": "isoleront"
+		},
+		"passé simple": {
+			"j'": "isolai",
+			"tu": "isolas",
+			"il/elle": "isola",
+			"nous": "isolâmes",
+			"vous": "isolâtes",
+			"ils/elles": "isolèrent"
+		},
+		"passé composé": {
+			"j'": "ai isolé",
+			"tu": "as isolé",
+			"il/elle": "a isolé",
+			"nous": "avons isolé",
+			"vous": "avez isolé",
+			"ils/elles": "ont isolé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais isolé",
+			"tu": "avais isolé",
+			"il/elle": "avait isolé",
+			"nous": "avions isolé",
+			"vous": "aviez isolé",
+			"ils/elles": "avaient isolé"
+		},
+		"passé antérieur": {
+			"j'": "eus isolé",
+			"tu": "eus isolé",
+			"il/elle": "eut isolé",
+			"nous": "eûmes isolé",
+			"vous": "eûtes isolé",
+			"ils/elles": "eurent isolé"
+		},
+		"futur antérieur": {
+			"j'": "aurai isolé",
+			"tu": "auras isolé",
+			"il/elle": "aura isolé",
+			"nous": "aurons isolé",
+			"vous": "aurez isolé",
+			"ils/elles": "auront isolé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "isole",
+			"que": "vous isoliez",
+			"qu'il/elle": "isole",
+			"qu'ils/elles": "isolent"
+		},
+		"imparfait": {
+			"j'": "isolasse",
+			"que": "vous isolassiez",
+			"qu'il/elle": "isolât",
+			"qu'ils/elles": "isolassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse isolé",
+			"que": "vous eussiez isolé",
+			"qu'il/elle": "eût isolé",
+			"qu'ils/elles": "eussent isolé"
+		},
+		"passé": {
+			"j'": "aie isolé",
+			"que": "vous ayez isolé",
+			"qu'il/elle": "ait isolé",
+			"qu'ils/elles": "aient isolé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "isolerais",
+			"tu": "isolerais",
+			"il/elle": "isolerait",
+			"nous": "isolerions",
+			"vous": "isoleriez",
+			"ils/elles": "isoleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais isolé",
+			"tu": "aurais isolé",
+			"il/elle": "aurait isolé",
+			"nous": "aurions isolé",
+			"vous": "auriez isolé",
+			"ils/elles": "auraient isolé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse isolé",
+			"tu": "eusses isolé",
+			"il/elle": "eût isolé",
+			"nous": "eussions isolé",
+			"vous": "eussiez isolé",
+			"ils/elles": "eussent isolé"
+		}
+	},
+	"participe": {
+		"présent": { "isolant": "" },
+		"passé composé": { "ayant": "isolé" },
+		"passé": {
+			"masc.sg.:": "isolé",
+			"masc.pl.:": "isolés",
+			"fém.sg.:": "isolée",
+			"fém.pl.:": "isolées"
+		}
+	},
+	"imperatif": {
+		"présent": { "isole": "", "isolons": "", "isolez": "" },
+		"passé": { "aie": "isolé", "ayons": "isolé", "ayez": "isolé" }
+	},
+	"infinitif": { "présent": { "isoler": "" }, "passé": { "avoir": "isolé" } }
+}

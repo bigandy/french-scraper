@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "steal; fly; rob; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se voler/ne pas voler/ne pas se voler",
+	"indicatif": {
+		"présent": {
+			"je": "vole",
+			"tu": "voles",
+			"il/elle": "vole",
+			"nous": "volons",
+			"vous": "volez",
+			"ils/elles": "volent"
+		},
+		"imparfait": {
+			"je": "volais",
+			"tu": "volais",
+			"il/elle": "volait",
+			"nous": "volions",
+			"vous": "voliez",
+			"ils/elles": "volaient"
+		},
+		"futur": {
+			"je": "volerai",
+			"tu": "voleras",
+			"il/elle": "volera",
+			"nous": "volerons",
+			"vous": "volerez",
+			"ils/elles": "voleront"
+		},
+		"passé simple": {
+			"je": "volai",
+			"tu": "volas",
+			"il/elle": "vola",
+			"nous": "volâmes",
+			"vous": "volâtes",
+			"ils/elles": "volèrent"
+		},
+		"passé composé": {
+			"j'": "ai volé",
+			"tu": "as volé",
+			"il/elle": "a volé",
+			"nous": "avons volé",
+			"vous": "avez volé",
+			"ils/elles": "ont volé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais volé",
+			"tu": "avais volé",
+			"il/elle": "avait volé",
+			"nous": "avions volé",
+			"vous": "aviez volé",
+			"ils/elles": "avaient volé"
+		},
+		"passé antérieur": {
+			"j'": "eus volé",
+			"tu": "eus volé",
+			"il/elle": "eut volé",
+			"nous": "eûmes volé",
+			"vous": "eûtes volé",
+			"ils/elles": "eurent volé"
+		},
+		"futur antérieur": {
+			"j'": "aurai volé",
+			"tu": "auras volé",
+			"il/elle": "aura volé",
+			"nous": "aurons volé",
+			"vous": "aurez volé",
+			"ils/elles": "auront volé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous voliez",
+			"qu'il/elle": "vole",
+			"qu'ils/elles": "volent"
+		},
+		"imparfait": {
+			"que": "vous volassiez",
+			"qu'il/elle": "volât",
+			"qu'ils/elles": "volassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse volé",
+			"que": "vous eussiez volé",
+			"qu'il/elle": "eût volé",
+			"qu'ils/elles": "eussent volé"
+		},
+		"passé": {
+			"j'": "aie volé",
+			"que": "vous ayez volé",
+			"qu'il/elle": "ait volé",
+			"qu'ils/elles": "aient volé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "volerais",
+			"tu": "volerais",
+			"il/elle": "volerait",
+			"nous": "volerions",
+			"vous": "voleriez",
+			"ils/elles": "voleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais volé",
+			"tu": "aurais volé",
+			"il/elle": "aurait volé",
+			"nous": "aurions volé",
+			"vous": "auriez volé",
+			"ils/elles": "auraient volé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse volé",
+			"tu": "eusses volé",
+			"il/elle": "eût volé",
+			"nous": "eussions volé",
+			"vous": "eussiez volé",
+			"ils/elles": "eussent volé"
+		}
+	},
+	"participe": {
+		"présent": { "volant": "" },
+		"passé composé": { "ayant": "volé" },
+		"passé": {
+			"masc.sg.:": "volé",
+			"masc.pl.:": "volés",
+			"fém.sg.:": "volée",
+			"fém.pl.:": "volées"
+		}
+	},
+	"imperatif": {
+		"présent": { "vole": "", "volons": "", "volez": "" },
+		"passé": { "aie": "volé", "ayons": "volé", "ayez": "volé" }
+	},
+	"infinitif": { "présent": { "voler": "" }, "passé": { "avoir": "volé" } }
+}

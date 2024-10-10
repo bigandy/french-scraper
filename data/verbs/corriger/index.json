@@ -1,0 +1,141 @@
+{
+	"name": "manger",
+	"definition": "correct; fix; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "se corriger/ne pas corriger/ne pas se corriger",
+	"indicatif": {
+		"présent": {
+			"je": "corrige",
+			"tu": "corriges",
+			"il/elle": "corrige",
+			"nous": "corrigeons",
+			"vous": "corrigez",
+			"ils/elles": "corrigent"
+		},
+		"imparfait": {
+			"je": "corrigeais",
+			"tu": "corrigeais",
+			"il/elle": "corrigeait",
+			"nous": "corrigions",
+			"vous": "corrigiez",
+			"ils/elles": "corrigeaient"
+		},
+		"futur": {
+			"je": "corrigerai",
+			"tu": "corrigeras",
+			"il/elle": "corrigera",
+			"nous": "corrigerons",
+			"vous": "corrigerez",
+			"ils/elles": "corrigeront"
+		},
+		"passé simple": {
+			"je": "corrigeai",
+			"tu": "corrigeas",
+			"il/elle": "corrigea",
+			"nous": "corrigeâmes",
+			"vous": "corrigeâtes",
+			"ils/elles": "corrigèrent"
+		},
+		"passé composé": {
+			"j'": "ai corrigé",
+			"tu": "as corrigé",
+			"il/elle": "a corrigé",
+			"nous": "avons corrigé",
+			"vous": "avez corrigé",
+			"ils/elles": "ont corrigé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais corrigé",
+			"tu": "avais corrigé",
+			"il/elle": "avait corrigé",
+			"nous": "avions corrigé",
+			"vous": "aviez corrigé",
+			"ils/elles": "avaient corrigé"
+		},
+		"passé antérieur": {
+			"j'": "eus corrigé",
+			"tu": "eus corrigé",
+			"il/elle": "eut corrigé",
+			"nous": "eûmes corrigé",
+			"vous": "eûtes corrigé",
+			"ils/elles": "eurent corrigé"
+		},
+		"futur antérieur": {
+			"j'": "aurai corrigé",
+			"tu": "auras corrigé",
+			"il/elle": "aura corrigé",
+			"nous": "aurons corrigé",
+			"vous": "aurez corrigé",
+			"ils/elles": "auront corrigé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous corrigiez",
+			"qu'il/elle": "corrige",
+			"qu'ils/elles": "corrigent"
+		},
+		"imparfait": {
+			"que": "vous corrigeassiez",
+			"qu'il/elle": "corrigeât",
+			"qu'ils/elles": "corrigeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse corrigé",
+			"que": "vous eussiez corrigé",
+			"qu'il/elle": "eût corrigé",
+			"qu'ils/elles": "eussent corrigé"
+		},
+		"passé": {
+			"j'": "aie corrigé",
+			"que": "vous ayez corrigé",
+			"qu'il/elle": "ait corrigé",
+			"qu'ils/elles": "aient corrigé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "corrigerais",
+			"tu": "corrigerais",
+			"il/elle": "corrigerait",
+			"nous": "corrigerions",
+			"vous": "corrigeriez",
+			"ils/elles": "corrigeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais corrigé",
+			"tu": "aurais corrigé",
+			"il/elle": "aurait corrigé",
+			"nous": "aurions corrigé",
+			"vous": "auriez corrigé",
+			"ils/elles": "auraient corrigé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse corrigé",
+			"tu": "eusses corrigé",
+			"il/elle": "eût corrigé",
+			"nous": "eussions corrigé",
+			"vous": "eussiez corrigé",
+			"ils/elles": "eussent corrigé"
+		}
+	},
+	"participe": {
+		"présent": { "corrigeant": "" },
+		"passé composé": { "ayant": "corrigé" },
+		"passé": {
+			"masc.sg.:": "corrigé",
+			"masc.pl.:": "corrigés",
+			"fém.sg.:": "corrigée",
+			"fém.pl.:": "corrigées"
+		}
+	},
+	"imperatif": {
+		"présent": { "corrige": "", "corrigeons": "", "corrigez": "" },
+		"passé": { "aie": "corrigé", "ayons": "corrigé", "ayez": "corrigé" }
+	},
+	"infinitif": {
+		"présent": { "corriger": "" },
+		"passé": { "avoir": "corrigé" }
+	}
+}

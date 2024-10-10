@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "forgive; pardon; excuse; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se pardonner/ne pas pardonner/ne pas se pardonner",
+	"indicatif": {
+		"présent": {
+			"je": "pardonne",
+			"tu": "pardonnes",
+			"il/elle": "pardonne",
+			"nous": "pardonnons",
+			"vous": "pardonnez",
+			"ils/elles": "pardonnent"
+		},
+		"imparfait": {
+			"je": "pardonnais",
+			"tu": "pardonnais",
+			"il/elle": "pardonnait",
+			"nous": "pardonnions",
+			"vous": "pardonniez",
+			"ils/elles": "pardonnaient"
+		},
+		"futur": {
+			"je": "pardonnerai",
+			"tu": "pardonneras",
+			"il/elle": "pardonnera",
+			"nous": "pardonnerons",
+			"vous": "pardonnerez",
+			"ils/elles": "pardonneront"
+		},
+		"passé simple": {
+			"je": "pardonnai",
+			"tu": "pardonnas",
+			"il/elle": "pardonna",
+			"nous": "pardonnâmes",
+			"vous": "pardonnâtes",
+			"ils/elles": "pardonnèrent"
+		},
+		"passé composé": {
+			"j'": "ai pardonné",
+			"tu": "as pardonné",
+			"il/elle": "a pardonné",
+			"nous": "avons pardonné",
+			"vous": "avez pardonné",
+			"ils/elles": "ont pardonné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais pardonné",
+			"tu": "avais pardonné",
+			"il/elle": "avait pardonné",
+			"nous": "avions pardonné",
+			"vous": "aviez pardonné",
+			"ils/elles": "avaient pardonné"
+		},
+		"passé antérieur": {
+			"j'": "eus pardonné",
+			"tu": "eus pardonné",
+			"il/elle": "eut pardonné",
+			"nous": "eûmes pardonné",
+			"vous": "eûtes pardonné",
+			"ils/elles": "eurent pardonné"
+		},
+		"futur antérieur": {
+			"j'": "aurai pardonné",
+			"tu": "auras pardonné",
+			"il/elle": "aura pardonné",
+			"nous": "aurons pardonné",
+			"vous": "aurez pardonné",
+			"ils/elles": "auront pardonné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous pardonniez",
+			"qu'il/elle": "pardonne",
+			"qu'ils/elles": "pardonnent"
+		},
+		"imparfait": {
+			"que": "vous pardonnassiez",
+			"qu'il/elle": "pardonnât",
+			"qu'ils/elles": "pardonnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse pardonné",
+			"que": "vous eussiez pardonné",
+			"qu'il/elle": "eût pardonné",
+			"qu'ils/elles": "eussent pardonné"
+		},
+		"passé": {
+			"j'": "aie pardonné",
+			"que": "vous ayez pardonné",
+			"qu'il/elle": "ait pardonné",
+			"qu'ils/elles": "aient pardonné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "pardonnerais",
+			"tu": "pardonnerais",
+			"il/elle": "pardonnerait",
+			"nous": "pardonnerions",
+			"vous": "pardonneriez",
+			"ils/elles": "pardonneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais pardonné",
+			"tu": "aurais pardonné",
+			"il/elle": "aurait pardonné",
+			"nous": "aurions pardonné",
+			"vous": "auriez pardonné",
+			"ils/elles": "auraient pardonné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse pardonné",
+			"tu": "eusses pardonné",
+			"il/elle": "eût pardonné",
+			"nous": "eussions pardonné",
+			"vous": "eussiez pardonné",
+			"ils/elles": "eussent pardonné"
+		}
+	},
+	"participe": {
+		"présent": { "pardonnant": "" },
+		"passé composé": { "ayant": "pardonné" },
+		"passé": {
+			"masc.sg.:": "pardonné",
+			"masc.pl.:": "pardonnés",
+			"fém.sg.:": "pardonnée",
+			"fém.pl.:": "pardonnées"
+		}
+	},
+	"imperatif": {
+		"présent": { "pardonne": "", "pardonnons": "", "pardonnez": "" },
+		"passé": { "aie": "pardonné", "ayons": "pardonné", "ayez": "pardonné" }
+	},
+	"infinitif": {
+		"présent": { "pardonner": "" },
+		"passé": { "avoir": "pardonné" }
+	}
+}

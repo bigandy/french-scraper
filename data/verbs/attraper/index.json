@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "catch; get; grab; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'attraper/ne pas attraper/ne pas s'attraper",
+	"indicatif": {
+		"présent": {
+			"j'": "attrape",
+			"tu": "attrapes",
+			"il/elle": "attrape",
+			"nous": "attrapons",
+			"vous": "attrapez",
+			"ils/elles": "attrapent"
+		},
+		"imparfait": {
+			"j'": "attrapais",
+			"tu": "attrapais",
+			"il/elle": "attrapait",
+			"nous": "attrapions",
+			"vous": "attrapiez",
+			"ils/elles": "attrapaient"
+		},
+		"futur": {
+			"j'": "attraperai",
+			"tu": "attraperas",
+			"il/elle": "attrapera",
+			"nous": "attraperons",
+			"vous": "attraperez",
+			"ils/elles": "attraperont"
+		},
+		"passé simple": {
+			"j'": "attrapai",
+			"tu": "attrapas",
+			"il/elle": "attrapa",
+			"nous": "attrapâmes",
+			"vous": "attrapâtes",
+			"ils/elles": "attrapèrent"
+		},
+		"passé composé": {
+			"j'": "ai attrapé",
+			"tu": "as attrapé",
+			"il/elle": "a attrapé",
+			"nous": "avons attrapé",
+			"vous": "avez attrapé",
+			"ils/elles": "ont attrapé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais attrapé",
+			"tu": "avais attrapé",
+			"il/elle": "avait attrapé",
+			"nous": "avions attrapé",
+			"vous": "aviez attrapé",
+			"ils/elles": "avaient attrapé"
+		},
+		"passé antérieur": {
+			"j'": "eus attrapé",
+			"tu": "eus attrapé",
+			"il/elle": "eut attrapé",
+			"nous": "eûmes attrapé",
+			"vous": "eûtes attrapé",
+			"ils/elles": "eurent attrapé"
+		},
+		"futur antérieur": {
+			"j'": "aurai attrapé",
+			"tu": "auras attrapé",
+			"il/elle": "aura attrapé",
+			"nous": "aurons attrapé",
+			"vous": "aurez attrapé",
+			"ils/elles": "auront attrapé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "attrape",
+			"que": "vous attrapiez",
+			"qu'il/elle": "attrape",
+			"qu'ils/elles": "attrapent"
+		},
+		"imparfait": {
+			"j'": "attrapasse",
+			"que": "vous attrapassiez",
+			"qu'il/elle": "attrapât",
+			"qu'ils/elles": "attrapassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse attrapé",
+			"que": "vous eussiez attrapé",
+			"qu'il/elle": "eût attrapé",
+			"qu'ils/elles": "eussent attrapé"
+		},
+		"passé": {
+			"j'": "aie attrapé",
+			"que": "vous ayez attrapé",
+			"qu'il/elle": "ait attrapé",
+			"qu'ils/elles": "aient attrapé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "attraperais",
+			"tu": "attraperais",
+			"il/elle": "attraperait",
+			"nous": "attraperions",
+			"vous": "attraperiez",
+			"ils/elles": "attraperaient"
+		},
+		"passé première forme": {
+			"j'": "aurais attrapé",
+			"tu": "aurais attrapé",
+			"il/elle": "aurait attrapé",
+			"nous": "aurions attrapé",
+			"vous": "auriez attrapé",
+			"ils/elles": "auraient attrapé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse attrapé",
+			"tu": "eusses attrapé",
+			"il/elle": "eût attrapé",
+			"nous": "eussions attrapé",
+			"vous": "eussiez attrapé",
+			"ils/elles": "eussent attrapé"
+		}
+	},
+	"participe": {
+		"présent": { "attrapant": "" },
+		"passé composé": { "ayant": "attrapé" },
+		"passé": {
+			"masc.sg.:": "attrapé",
+			"masc.pl.:": "attrapés",
+			"fém.sg.:": "attrapée",
+			"fém.pl.:": "attrapées"
+		}
+	},
+	"imperatif": {
+		"présent": { "attrape": "", "attrapons": "", "attrapez": "" },
+		"passé": { "aie": "attrapé", "ayons": "attrapé", "ayez": "attrapé" }
+	},
+	"infinitif": {
+		"présent": { "attraper": "" },
+		"passé": { "avoir": "attrapé" }
+	}
+}

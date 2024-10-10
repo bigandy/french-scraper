@@ -1,0 +1,144 @@
+{
+	"name": "connaître",
+	"definition": "appear; witness; attend; ...",
+	"model": "connaître",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas comparaître",
+	"indicatif": {
+		"présent": {
+			"je": "comparais",
+			"tu": "comparais",
+			"il/elle": "comparait",
+			"nous": "comparaissons",
+			"vous": "comparaissez",
+			"ils/elles": "comparaissent",
+			"": ""
+		},
+		"imparfait": {
+			"je": "comparaissais",
+			"tu": "comparaissais",
+			"il/elle": "comparaissait",
+			"nous": "comparaissions",
+			"vous": "comparaissiez",
+			"ils/elles": "comparaissaient"
+		},
+		"futur": {
+			"je": "comparaîtrai",
+			"tu": "comparaîtras",
+			"il/elle": "comparaitra",
+			"nous": "comparaitrons",
+			"vous": "comparaitrez",
+			"ils/elles": "comparaitront",
+			"": ""
+		},
+		"passé simple": {
+			"je": "comparus",
+			"tu": "comparus",
+			"il/elle": "comparut",
+			"nous": "comparûmes",
+			"vous": "comparûtes",
+			"ils/elles": "comparurent"
+		},
+		"passé composé": {
+			"j'": "ai comparu",
+			"tu": "as comparu",
+			"il/elle": "a comparu",
+			"nous": "avons comparu",
+			"vous": "avez comparu",
+			"ils/elles": "ont comparu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais comparu",
+			"tu": "avais comparu",
+			"il/elle": "avait comparu",
+			"nous": "avions comparu",
+			"vous": "aviez comparu",
+			"ils/elles": "avaient comparu"
+		},
+		"passé antérieur": {
+			"j'": "eus comparu",
+			"tu": "eus comparu",
+			"il/elle": "eut comparu",
+			"nous": "eûmes comparu",
+			"vous": "eûtes comparu",
+			"ils/elles": "eurent comparu"
+		},
+		"futur antérieur": {
+			"j'": "aurai comparu",
+			"tu": "auras comparu",
+			"il/elle": "aura comparu",
+			"nous": "aurons comparu",
+			"vous": "aurez comparu",
+			"ils/elles": "auront comparu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous comparaissiez",
+			"qu'il/elle": "comparaisse",
+			"qu'ils/elles": "comparaissent"
+		},
+		"imparfait": {
+			"que": "vous comparussiez",
+			"qu'il/elle": "comparût",
+			"qu'ils/elles": "comparussent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse comparu",
+			"que": "vous eussiez comparu",
+			"qu'il/elle": "eût comparu",
+			"qu'ils/elles": "eussent comparu"
+		},
+		"passé": {
+			"j'": "aie comparu",
+			"que": "vous ayez comparu",
+			"qu'il/elle": "ait comparu",
+			"qu'ils/elles": "aient comparu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "comparaitrais",
+			"tu": "comparaitrais",
+			"il/elle": "comparaitrait",
+			"nous": "comparaitrions",
+			"vous": "comparaitriez",
+			"ils/elles": "comparaitraient",
+			"": ""
+		},
+		"passé première forme": {
+			"j'": "aurais comparu",
+			"tu": "aurais comparu",
+			"il/elle": "aurait comparu",
+			"nous": "aurions comparu",
+			"vous": "auriez comparu",
+			"ils/elles": "auraient comparu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse comparu",
+			"tu": "eusses comparu",
+			"il/elle": "eût comparu",
+			"nous": "eussions comparu",
+			"vous": "eussiez comparu",
+			"ils/elles": "eussent comparu"
+		}
+	},
+	"participe": {
+		"présent": { "comparaissant": "" },
+		"passé composé": { "ayant": "comparu" },
+		"passé": {
+			"masc.sg.:": "comparu",
+			"masc.pl.:": "comparus",
+			"fém.sg.:": "comparue",
+			"fém.pl.:": "comparues"
+		}
+	},
+	"imperatif": {
+		"présent": { "comparais": "", "comparaissons": "", "comparaissez": "" },
+		"passé": { "aie": "comparu", "ayons": "comparu", "ayez": "comparu" }
+	},
+	"infinitif": {
+		"présent": { "comparaître": "" },
+		"passé": { "avoir": "comparu" }
+	}
+}

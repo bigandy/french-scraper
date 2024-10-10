@@ -1,0 +1,141 @@
+{
+	"name": "répéter",
+	"definition": "complete; complement; supplement; ...",
+	"model": "répéter",
+	"auxiliary": "avoir",
+	"otherForms": "se compléter/ne pas compléter/ne pas se compléter",
+	"indicatif": {
+		"présent": {
+			"je": "complète",
+			"tu": "complètes",
+			"il/elle": "complète",
+			"nous": "complétons",
+			"vous": "complétez",
+			"ils/elles": "complètent"
+		},
+		"imparfait": {
+			"je": "complétais",
+			"tu": "complétais",
+			"il/elle": "complétait",
+			"nous": "complétions",
+			"vous": "complétiez",
+			"ils/elles": "complétaient"
+		},
+		"futur": {
+			"je": "compléterai",
+			"tu": "compléteras",
+			"il/elle": "complétera",
+			"nous": "compléterons",
+			"vous": "compléterez",
+			"ils/elles": "compléteront"
+		},
+		"passé simple": {
+			"je": "complétai",
+			"tu": "complétas",
+			"il/elle": "compléta",
+			"nous": "complétâmes",
+			"vous": "complétâtes",
+			"ils/elles": "complétèrent"
+		},
+		"passé composé": {
+			"j'": "ai complété",
+			"tu": "as complété",
+			"il/elle": "a complété",
+			"nous": "avons complété",
+			"vous": "avez complété",
+			"ils/elles": "ont complété"
+		},
+		"plus-que-parfait": {
+			"j'": "avais complété",
+			"tu": "avais complété",
+			"il/elle": "avait complété",
+			"nous": "avions complété",
+			"vous": "aviez complété",
+			"ils/elles": "avaient complété"
+		},
+		"passé antérieur": {
+			"j'": "eus complété",
+			"tu": "eus complété",
+			"il/elle": "eut complété",
+			"nous": "eûmes complété",
+			"vous": "eûtes complété",
+			"ils/elles": "eurent complété"
+		},
+		"futur antérieur": {
+			"j'": "aurai complété",
+			"tu": "auras complété",
+			"il/elle": "aura complété",
+			"nous": "aurons complété",
+			"vous": "aurez complété",
+			"ils/elles": "auront complété"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous complétiez",
+			"qu'il/elle": "complète",
+			"qu'ils/elles": "complètent"
+		},
+		"imparfait": {
+			"que": "vous complétassiez",
+			"qu'il/elle": "complétât",
+			"qu'ils/elles": "complétassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse complété",
+			"que": "vous eussiez complété",
+			"qu'il/elle": "eût complété",
+			"qu'ils/elles": "eussent complété"
+		},
+		"passé": {
+			"j'": "aie complété",
+			"que": "vous ayez complété",
+			"qu'il/elle": "ait complété",
+			"qu'ils/elles": "aient complété"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "compléterais",
+			"tu": "compléterais",
+			"il/elle": "compléterait",
+			"nous": "compléterions",
+			"vous": "compléteriez",
+			"ils/elles": "compléteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais complété",
+			"tu": "aurais complété",
+			"il/elle": "aurait complété",
+			"nous": "aurions complété",
+			"vous": "auriez complété",
+			"ils/elles": "auraient complété"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse complété",
+			"tu": "eusses complété",
+			"il/elle": "eût complété",
+			"nous": "eussions complété",
+			"vous": "eussiez complété",
+			"ils/elles": "eussent complété"
+		}
+	},
+	"participe": {
+		"présent": { "complétant": "" },
+		"passé composé": { "ayant": "complété" },
+		"passé": {
+			"masc.sg.:": "complété",
+			"masc.pl.:": "complétés",
+			"fém.sg.:": "complétée",
+			"fém.pl.:": "complétées"
+		}
+	},
+	"imperatif": {
+		"présent": { "complète": "", "complétons": "", "complétez": "" },
+		"passé": { "aie": "complété", "ayons": "complété", "ayez": "complété" }
+	},
+	"infinitif": {
+		"présent": { "compléter": "" },
+		"passé": { "avoir": "complété" }
+	}
+}

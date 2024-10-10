@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "add; include; insert; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'ajouter/ne pas ajouter/ne pas s'ajouter",
+	"indicatif": {
+		"présent": {
+			"j'": "ajoute",
+			"tu": "ajoutes",
+			"il/elle": "ajoute",
+			"nous": "ajoutons",
+			"vous": "ajoutez",
+			"ils/elles": "ajoutent"
+		},
+		"imparfait": {
+			"j'": "ajoutais",
+			"tu": "ajoutais",
+			"il/elle": "ajoutait",
+			"nous": "ajoutions",
+			"vous": "ajoutiez",
+			"ils/elles": "ajoutaient"
+		},
+		"futur": {
+			"j'": "ajouterai",
+			"tu": "ajouteras",
+			"il/elle": "ajoutera",
+			"nous": "ajouterons",
+			"vous": "ajouterez",
+			"ils/elles": "ajouteront"
+		},
+		"passé simple": {
+			"j'": "ajoutai",
+			"tu": "ajoutas",
+			"il/elle": "ajouta",
+			"nous": "ajoutâmes",
+			"vous": "ajoutâtes",
+			"ils/elles": "ajoutèrent"
+		},
+		"passé composé": {
+			"j'": "ai ajouté",
+			"tu": "as ajouté",
+			"il/elle": "a ajouté",
+			"nous": "avons ajouté",
+			"vous": "avez ajouté",
+			"ils/elles": "ont ajouté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais ajouté",
+			"tu": "avais ajouté",
+			"il/elle": "avait ajouté",
+			"nous": "avions ajouté",
+			"vous": "aviez ajouté",
+			"ils/elles": "avaient ajouté"
+		},
+		"passé antérieur": {
+			"j'": "eus ajouté",
+			"tu": "eus ajouté",
+			"il/elle": "eut ajouté",
+			"nous": "eûmes ajouté",
+			"vous": "eûtes ajouté",
+			"ils/elles": "eurent ajouté"
+		},
+		"futur antérieur": {
+			"j'": "aurai ajouté",
+			"tu": "auras ajouté",
+			"il/elle": "aura ajouté",
+			"nous": "aurons ajouté",
+			"vous": "aurez ajouté",
+			"ils/elles": "auront ajouté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "ajoute",
+			"que": "vous ajoutiez",
+			"qu'il/elle": "ajoute",
+			"qu'ils/elles": "ajoutent"
+		},
+		"imparfait": {
+			"j'": "ajoutasse",
+			"que": "vous ajoutassiez",
+			"qu'il/elle": "ajoutât",
+			"qu'ils/elles": "ajoutassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse ajouté",
+			"que": "vous eussiez ajouté",
+			"qu'il/elle": "eût ajouté",
+			"qu'ils/elles": "eussent ajouté"
+		},
+		"passé": {
+			"j'": "aie ajouté",
+			"que": "vous ayez ajouté",
+			"qu'il/elle": "ait ajouté",
+			"qu'ils/elles": "aient ajouté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "ajouterais",
+			"tu": "ajouterais",
+			"il/elle": "ajouterait",
+			"nous": "ajouterions",
+			"vous": "ajouteriez",
+			"ils/elles": "ajouteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais ajouté",
+			"tu": "aurais ajouté",
+			"il/elle": "aurait ajouté",
+			"nous": "aurions ajouté",
+			"vous": "auriez ajouté",
+			"ils/elles": "auraient ajouté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse ajouté",
+			"tu": "eusses ajouté",
+			"il/elle": "eût ajouté",
+			"nous": "eussions ajouté",
+			"vous": "eussiez ajouté",
+			"ils/elles": "eussent ajouté"
+		}
+	},
+	"participe": {
+		"présent": { "ajoutant": "" },
+		"passé composé": { "ayant": "ajouté" },
+		"passé": {
+			"masc.sg.:": "ajouté",
+			"masc.pl.:": "ajoutés",
+			"fém.sg.:": "ajoutée",
+			"fém.pl.:": "ajoutées"
+		}
+	},
+	"imperatif": {
+		"présent": { "ajoute": "", "ajoutons": "", "ajoutez": "" },
+		"passé": { "aie": "ajouté", "ayons": "ajouté", "ayez": "ajouté" }
+	},
+	"infinitif": { "présent": { "ajouter": "" }, "passé": { "avoir": "ajouté" } }
+}

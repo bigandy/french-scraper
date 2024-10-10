@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "oversee; supervise; monitor; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se superviser/ne pas superviser/ne pas se superviser",
+	"indicatif": {
+		"présent": {
+			"je": "supervise",
+			"tu": "supervises",
+			"il/elle": "supervise",
+			"nous": "supervisons",
+			"vous": "supervisez",
+			"ils/elles": "supervisent"
+		},
+		"imparfait": {
+			"je": "supervisais",
+			"tu": "supervisais",
+			"il/elle": "supervisait",
+			"nous": "supervisions",
+			"vous": "supervisiez",
+			"ils/elles": "supervisaient"
+		},
+		"futur": {
+			"je": "superviserai",
+			"tu": "superviseras",
+			"il/elle": "supervisera",
+			"nous": "superviserons",
+			"vous": "superviserez",
+			"ils/elles": "superviseront"
+		},
+		"passé simple": {
+			"je": "supervisai",
+			"tu": "supervisas",
+			"il/elle": "supervisa",
+			"nous": "supervisâmes",
+			"vous": "supervisâtes",
+			"ils/elles": "supervisèrent"
+		},
+		"passé composé": {
+			"j'": "ai supervisé",
+			"tu": "as supervisé",
+			"il/elle": "a supervisé",
+			"nous": "avons supervisé",
+			"vous": "avez supervisé",
+			"ils/elles": "ont supervisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais supervisé",
+			"tu": "avais supervisé",
+			"il/elle": "avait supervisé",
+			"nous": "avions supervisé",
+			"vous": "aviez supervisé",
+			"ils/elles": "avaient supervisé"
+		},
+		"passé antérieur": {
+			"j'": "eus supervisé",
+			"tu": "eus supervisé",
+			"il/elle": "eut supervisé",
+			"nous": "eûmes supervisé",
+			"vous": "eûtes supervisé",
+			"ils/elles": "eurent supervisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai supervisé",
+			"tu": "auras supervisé",
+			"il/elle": "aura supervisé",
+			"nous": "aurons supervisé",
+			"vous": "aurez supervisé",
+			"ils/elles": "auront supervisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous supervisiez",
+			"qu'il/elle": "supervise",
+			"qu'ils/elles": "supervisent"
+		},
+		"imparfait": {
+			"que": "vous supervisassiez",
+			"qu'il/elle": "supervisât",
+			"qu'ils/elles": "supervisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse supervisé",
+			"que": "vous eussiez supervisé",
+			"qu'il/elle": "eût supervisé",
+			"qu'ils/elles": "eussent supervisé"
+		},
+		"passé": {
+			"j'": "aie supervisé",
+			"que": "vous ayez supervisé",
+			"qu'il/elle": "ait supervisé",
+			"qu'ils/elles": "aient supervisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "superviserais",
+			"tu": "superviserais",
+			"il/elle": "superviserait",
+			"nous": "superviserions",
+			"vous": "superviseriez",
+			"ils/elles": "superviseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais supervisé",
+			"tu": "aurais supervisé",
+			"il/elle": "aurait supervisé",
+			"nous": "aurions supervisé",
+			"vous": "auriez supervisé",
+			"ils/elles": "auraient supervisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse supervisé",
+			"tu": "eusses supervisé",
+			"il/elle": "eût supervisé",
+			"nous": "eussions supervisé",
+			"vous": "eussiez supervisé",
+			"ils/elles": "eussent supervisé"
+		}
+	},
+	"participe": {
+		"présent": { "supervisant": "" },
+		"passé composé": { "ayant": "supervisé" },
+		"passé": {
+			"masc.sg.:": "supervisé",
+			"masc.pl.:": "supervisés",
+			"fém.sg.:": "supervisée",
+			"fém.pl.:": "supervisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "supervise": "", "supervisons": "", "supervisez": "" },
+		"passé": { "aie": "supervisé", "ayons": "supervisé", "ayez": "supervisé" }
+	},
+	"infinitif": {
+		"présent": { "superviser": "" },
+		"passé": { "avoir": "supervisé" }
+	}
+}

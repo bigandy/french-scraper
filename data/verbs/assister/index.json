@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "attend; assist; witness; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'assister/ne pas assister/ne pas s'assister",
+	"indicatif": {
+		"présent": {
+			"j'": "assiste",
+			"tu": "assistes",
+			"il/elle": "assiste",
+			"nous": "assistons",
+			"vous": "assistez",
+			"ils/elles": "assistent"
+		},
+		"imparfait": {
+			"j'": "assistais",
+			"tu": "assistais",
+			"il/elle": "assistait",
+			"nous": "assistions",
+			"vous": "assistiez",
+			"ils/elles": "assistaient"
+		},
+		"futur": {
+			"j'": "assisterai",
+			"tu": "assisteras",
+			"il/elle": "assistera",
+			"nous": "assisterons",
+			"vous": "assisterez",
+			"ils/elles": "assisteront"
+		},
+		"passé simple": {
+			"j'": "assistai",
+			"tu": "assistas",
+			"il/elle": "assista",
+			"nous": "assistâmes",
+			"vous": "assistâtes",
+			"ils/elles": "assistèrent"
+		},
+		"passé composé": {
+			"j'": "ai assisté",
+			"tu": "as assisté",
+			"il/elle": "a assisté",
+			"nous": "avons assisté",
+			"vous": "avez assisté",
+			"ils/elles": "ont assisté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais assisté",
+			"tu": "avais assisté",
+			"il/elle": "avait assisté",
+			"nous": "avions assisté",
+			"vous": "aviez assisté",
+			"ils/elles": "avaient assisté"
+		},
+		"passé antérieur": {
+			"j'": "eus assisté",
+			"tu": "eus assisté",
+			"il/elle": "eut assisté",
+			"nous": "eûmes assisté",
+			"vous": "eûtes assisté",
+			"ils/elles": "eurent assisté"
+		},
+		"futur antérieur": {
+			"j'": "aurai assisté",
+			"tu": "auras assisté",
+			"il/elle": "aura assisté",
+			"nous": "aurons assisté",
+			"vous": "aurez assisté",
+			"ils/elles": "auront assisté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "assiste",
+			"que": "vous assistiez",
+			"qu'il/elle": "assiste",
+			"qu'ils/elles": "assistent"
+		},
+		"imparfait": {
+			"j'": "assistasse",
+			"que": "vous assistassiez",
+			"qu'il/elle": "assistât",
+			"qu'ils/elles": "assistassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse assisté",
+			"que": "vous eussiez assisté",
+			"qu'il/elle": "eût assisté",
+			"qu'ils/elles": "eussent assisté"
+		},
+		"passé": {
+			"j'": "aie assisté",
+			"que": "vous ayez assisté",
+			"qu'il/elle": "ait assisté",
+			"qu'ils/elles": "aient assisté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "assisterais",
+			"tu": "assisterais",
+			"il/elle": "assisterait",
+			"nous": "assisterions",
+			"vous": "assisteriez",
+			"ils/elles": "assisteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais assisté",
+			"tu": "aurais assisté",
+			"il/elle": "aurait assisté",
+			"nous": "aurions assisté",
+			"vous": "auriez assisté",
+			"ils/elles": "auraient assisté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse assisté",
+			"tu": "eusses assisté",
+			"il/elle": "eût assisté",
+			"nous": "eussions assisté",
+			"vous": "eussiez assisté",
+			"ils/elles": "eussent assisté"
+		}
+	},
+	"participe": {
+		"présent": { "assistant": "" },
+		"passé composé": { "ayant": "assisté" },
+		"passé": {
+			"masc.sg.:": "assisté",
+			"masc.pl.:": "assistés",
+			"fém.sg.:": "assistée",
+			"fém.pl.:": "assistées"
+		}
+	},
+	"imperatif": {
+		"présent": { "assiste": "", "assistons": "", "assistez": "" },
+		"passé": { "aie": "assisté", "ayons": "assisté", "ayez": "assisté" }
+	},
+	"infinitif": {
+		"présent": { "assister": "" },
+		"passé": { "avoir": "assisté" }
+	}
+}

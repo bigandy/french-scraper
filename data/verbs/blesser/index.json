@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "hurt; injure; harm; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se blesser/ne pas blesser/ne pas se blesser",
+	"indicatif": {
+		"présent": {
+			"je": "blesse",
+			"tu": "blesses",
+			"il/elle": "blesse",
+			"nous": "blessons",
+			"vous": "blessez",
+			"ils/elles": "blessent"
+		},
+		"imparfait": {
+			"je": "blessais",
+			"tu": "blessais",
+			"il/elle": "blessait",
+			"nous": "blessions",
+			"vous": "blessiez",
+			"ils/elles": "blessaient"
+		},
+		"futur": {
+			"je": "blesserai",
+			"tu": "blesseras",
+			"il/elle": "blessera",
+			"nous": "blesserons",
+			"vous": "blesserez",
+			"ils/elles": "blesseront"
+		},
+		"passé simple": {
+			"je": "blessai",
+			"tu": "blessas",
+			"il/elle": "blessa",
+			"nous": "blessâmes",
+			"vous": "blessâtes",
+			"ils/elles": "blessèrent"
+		},
+		"passé composé": {
+			"j'": "ai blessé",
+			"tu": "as blessé",
+			"il/elle": "a blessé",
+			"nous": "avons blessé",
+			"vous": "avez blessé",
+			"ils/elles": "ont blessé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais blessé",
+			"tu": "avais blessé",
+			"il/elle": "avait blessé",
+			"nous": "avions blessé",
+			"vous": "aviez blessé",
+			"ils/elles": "avaient blessé"
+		},
+		"passé antérieur": {
+			"j'": "eus blessé",
+			"tu": "eus blessé",
+			"il/elle": "eut blessé",
+			"nous": "eûmes blessé",
+			"vous": "eûtes blessé",
+			"ils/elles": "eurent blessé"
+		},
+		"futur antérieur": {
+			"j'": "aurai blessé",
+			"tu": "auras blessé",
+			"il/elle": "aura blessé",
+			"nous": "aurons blessé",
+			"vous": "aurez blessé",
+			"ils/elles": "auront blessé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous blessiez",
+			"qu'il/elle": "blesse",
+			"qu'ils/elles": "blessent"
+		},
+		"imparfait": {
+			"que": "vous blessassiez",
+			"qu'il/elle": "blessât",
+			"qu'ils/elles": "blessassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse blessé",
+			"que": "vous eussiez blessé",
+			"qu'il/elle": "eût blessé",
+			"qu'ils/elles": "eussent blessé"
+		},
+		"passé": {
+			"j'": "aie blessé",
+			"que": "vous ayez blessé",
+			"qu'il/elle": "ait blessé",
+			"qu'ils/elles": "aient blessé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "blesserais",
+			"tu": "blesserais",
+			"il/elle": "blesserait",
+			"nous": "blesserions",
+			"vous": "blesseriez",
+			"ils/elles": "blesseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais blessé",
+			"tu": "aurais blessé",
+			"il/elle": "aurait blessé",
+			"nous": "aurions blessé",
+			"vous": "auriez blessé",
+			"ils/elles": "auraient blessé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse blessé",
+			"tu": "eusses blessé",
+			"il/elle": "eût blessé",
+			"nous": "eussions blessé",
+			"vous": "eussiez blessé",
+			"ils/elles": "eussent blessé"
+		}
+	},
+	"participe": {
+		"présent": { "blessant": "" },
+		"passé composé": { "ayant": "blessé" },
+		"passé": {
+			"masc.sg.:": "blessé",
+			"masc.pl.:": "blessés",
+			"fém.sg.:": "blessée",
+			"fém.pl.:": "blessées"
+		}
+	},
+	"imperatif": {
+		"présent": { "blesse": "", "blessons": "", "blessez": "" },
+		"passé": { "aie": "blessé", "ayons": "blessé", "ayez": "blessé" }
+	},
+	"infinitif": { "présent": { "blesser": "" }, "passé": { "avoir": "blessé" } }
+}

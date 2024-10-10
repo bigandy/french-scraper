@@ -1,0 +1,141 @@
+{
+	"name": "cuire",
+	"definition": "reproduce; replicate; breed; ...",
+	"model": "cuire",
+	"auxiliary": "avoir",
+	"otherForms": "se reproduire/ne pas reproduire/ne pas se reproduire",
+	"indicatif": {
+		"présent": {
+			"je": "reproduis",
+			"tu": "reproduis",
+			"il/elle": "reproduit",
+			"nous": "reproduisons",
+			"vous": "reproduisez",
+			"ils/elles": "reproduisent"
+		},
+		"imparfait": {
+			"je": "reproduisais",
+			"tu": "reproduisais",
+			"il/elle": "reproduisait",
+			"nous": "reproduisions",
+			"vous": "reproduisiez",
+			"ils/elles": "reproduisaient"
+		},
+		"futur": {
+			"je": "reproduirai",
+			"tu": "reproduiras",
+			"il/elle": "reproduira",
+			"nous": "reproduirons",
+			"vous": "reproduirez",
+			"ils/elles": "reproduiront"
+		},
+		"passé simple": {
+			"je": "reproduisis",
+			"tu": "reproduisis",
+			"il/elle": "reproduisit",
+			"nous": "reproduisîmes",
+			"vous": "reproduisîtes",
+			"ils/elles": "reproduisirent"
+		},
+		"passé composé": {
+			"j'": "ai reproduit",
+			"tu": "as reproduit",
+			"il/elle": "a reproduit",
+			"nous": "avons reproduit",
+			"vous": "avez reproduit",
+			"ils/elles": "ont reproduit"
+		},
+		"plus-que-parfait": {
+			"j'": "avais reproduit",
+			"tu": "avais reproduit",
+			"il/elle": "avait reproduit",
+			"nous": "avions reproduit",
+			"vous": "aviez reproduit",
+			"ils/elles": "avaient reproduit"
+		},
+		"passé antérieur": {
+			"j'": "eus reproduit",
+			"tu": "eus reproduit",
+			"il/elle": "eut reproduit",
+			"nous": "eûmes reproduit",
+			"vous": "eûtes reproduit",
+			"ils/elles": "eurent reproduit"
+		},
+		"futur antérieur": {
+			"j'": "aurai reproduit",
+			"tu": "auras reproduit",
+			"il/elle": "aura reproduit",
+			"nous": "aurons reproduit",
+			"vous": "aurez reproduit",
+			"ils/elles": "auront reproduit"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous reproduisiez",
+			"qu'il/elle": "reproduise",
+			"qu'ils/elles": "reproduisent"
+		},
+		"imparfait": {
+			"que": "vous reproduisissiez",
+			"qu'il/elle": "reproduisît",
+			"qu'ils/elles": "reproduisissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse reproduit",
+			"que": "vous eussiez reproduit",
+			"qu'il/elle": "eût reproduit",
+			"qu'ils/elles": "eussent reproduit"
+		},
+		"passé": {
+			"j'": "aie reproduit",
+			"que": "vous ayez reproduit",
+			"qu'il/elle": "ait reproduit",
+			"qu'ils/elles": "aient reproduit"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "reproduirais",
+			"tu": "reproduirais",
+			"il/elle": "reproduirait",
+			"nous": "reproduirions",
+			"vous": "reproduiriez",
+			"ils/elles": "reproduiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais reproduit",
+			"tu": "aurais reproduit",
+			"il/elle": "aurait reproduit",
+			"nous": "aurions reproduit",
+			"vous": "auriez reproduit",
+			"ils/elles": "auraient reproduit"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse reproduit",
+			"tu": "eusses reproduit",
+			"il/elle": "eût reproduit",
+			"nous": "eussions reproduit",
+			"vous": "eussiez reproduit",
+			"ils/elles": "eussent reproduit"
+		}
+	},
+	"participe": {
+		"présent": { "reproduisant": "" },
+		"passé composé": { "ayant": "reproduit" },
+		"passé": {
+			"masc.sg.:": "reproduit",
+			"masc.pl.:": "reproduits",
+			"fém.sg.:": "reproduite",
+			"fém.pl.:": "reproduites"
+		}
+	},
+	"imperatif": {
+		"présent": { "reproduis": "", "reproduisons": "", "reproduisez": "" },
+		"passé": { "aie": "reproduit", "ayons": "reproduit", "ayez": "reproduit" }
+	},
+	"infinitif": {
+		"présent": { "reproduire": "" },
+		"passé": { "avoir": "reproduit" }
+	}
+}

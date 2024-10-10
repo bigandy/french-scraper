@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "honour; honor; fulfil; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'honorer/ne pas honorer/ne pas s'honorer",
+	"indicatif": {
+		"présent": {
+			"j'": "honore",
+			"tu": "honores",
+			"il/elle": "honore",
+			"nous": "honorons",
+			"vous": "honorez",
+			"ils/elles": "honorent"
+		},
+		"imparfait": {
+			"j'": "honorais",
+			"tu": "honorais",
+			"il/elle": "honorait",
+			"nous": "honorions",
+			"vous": "honoriez",
+			"ils/elles": "honoraient"
+		},
+		"futur": {
+			"j'": "honorerai",
+			"tu": "honoreras",
+			"il/elle": "honorera",
+			"nous": "honorerons",
+			"vous": "honorerez",
+			"ils/elles": "honoreront"
+		},
+		"passé simple": {
+			"j'": "honorai",
+			"tu": "honoras",
+			"il/elle": "honora",
+			"nous": "honorâmes",
+			"vous": "honorâtes",
+			"ils/elles": "honorèrent"
+		},
+		"passé composé": {
+			"j'": "ai honoré",
+			"tu": "as honoré",
+			"il/elle": "a honoré",
+			"nous": "avons honoré",
+			"vous": "avez honoré",
+			"ils/elles": "ont honoré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais honoré",
+			"tu": "avais honoré",
+			"il/elle": "avait honoré",
+			"nous": "avions honoré",
+			"vous": "aviez honoré",
+			"ils/elles": "avaient honoré"
+		},
+		"passé antérieur": {
+			"j'": "eus honoré",
+			"tu": "eus honoré",
+			"il/elle": "eut honoré",
+			"nous": "eûmes honoré",
+			"vous": "eûtes honoré",
+			"ils/elles": "eurent honoré"
+		},
+		"futur antérieur": {
+			"j'": "aurai honoré",
+			"tu": "auras honoré",
+			"il/elle": "aura honoré",
+			"nous": "aurons honoré",
+			"vous": "aurez honoré",
+			"ils/elles": "auront honoré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "honore",
+			"que": "vous honoriez",
+			"qu'il/elle": "honore",
+			"qu'ils/elles": "honorent"
+		},
+		"imparfait": {
+			"j'": "honorasse",
+			"que": "vous honorassiez",
+			"qu'il/elle": "honorât",
+			"qu'ils/elles": "honorassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse honoré",
+			"que": "vous eussiez honoré",
+			"qu'il/elle": "eût honoré",
+			"qu'ils/elles": "eussent honoré"
+		},
+		"passé": {
+			"j'": "aie honoré",
+			"que": "vous ayez honoré",
+			"qu'il/elle": "ait honoré",
+			"qu'ils/elles": "aient honoré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "honorerais",
+			"tu": "honorerais",
+			"il/elle": "honorerait",
+			"nous": "honorerions",
+			"vous": "honoreriez",
+			"ils/elles": "honoreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais honoré",
+			"tu": "aurais honoré",
+			"il/elle": "aurait honoré",
+			"nous": "aurions honoré",
+			"vous": "auriez honoré",
+			"ils/elles": "auraient honoré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse honoré",
+			"tu": "eusses honoré",
+			"il/elle": "eût honoré",
+			"nous": "eussions honoré",
+			"vous": "eussiez honoré",
+			"ils/elles": "eussent honoré"
+		}
+	},
+	"participe": {
+		"présent": { "honorant": "" },
+		"passé composé": { "ayant": "honoré" },
+		"passé": {
+			"masc.sg.:": "honoré",
+			"masc.pl.:": "honorés",
+			"fém.sg.:": "honorée",
+			"fém.pl.:": "honorées"
+		}
+	},
+	"imperatif": {
+		"présent": { "honore": "", "honorons": "", "honorez": "" },
+		"passé": { "aie": "honoré", "ayons": "honoré", "ayez": "honoré" }
+	},
+	"infinitif": { "présent": { "honorer": "" }, "passé": { "avoir": "honoré" } }
+}

@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "start; begin; initiate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'entamer/ne pas entamer/ne pas s'entamer",
+	"indicatif": {
+		"présent": {
+			"j'": "entame",
+			"tu": "entames",
+			"il/elle": "entame",
+			"nous": "entamons",
+			"vous": "entamez",
+			"ils/elles": "entament"
+		},
+		"imparfait": {
+			"j'": "entamais",
+			"tu": "entamais",
+			"il/elle": "entamait",
+			"nous": "entamions",
+			"vous": "entamiez",
+			"ils/elles": "entamaient"
+		},
+		"futur": {
+			"j'": "entamerai",
+			"tu": "entameras",
+			"il/elle": "entamera",
+			"nous": "entamerons",
+			"vous": "entamerez",
+			"ils/elles": "entameront"
+		},
+		"passé simple": {
+			"j'": "entamai",
+			"tu": "entamas",
+			"il/elle": "entama",
+			"nous": "entamâmes",
+			"vous": "entamâtes",
+			"ils/elles": "entamèrent"
+		},
+		"passé composé": {
+			"j'": "ai entamé",
+			"tu": "as entamé",
+			"il/elle": "a entamé",
+			"nous": "avons entamé",
+			"vous": "avez entamé",
+			"ils/elles": "ont entamé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais entamé",
+			"tu": "avais entamé",
+			"il/elle": "avait entamé",
+			"nous": "avions entamé",
+			"vous": "aviez entamé",
+			"ils/elles": "avaient entamé"
+		},
+		"passé antérieur": {
+			"j'": "eus entamé",
+			"tu": "eus entamé",
+			"il/elle": "eut entamé",
+			"nous": "eûmes entamé",
+			"vous": "eûtes entamé",
+			"ils/elles": "eurent entamé"
+		},
+		"futur antérieur": {
+			"j'": "aurai entamé",
+			"tu": "auras entamé",
+			"il/elle": "aura entamé",
+			"nous": "aurons entamé",
+			"vous": "aurez entamé",
+			"ils/elles": "auront entamé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "entame",
+			"que": "vous entamiez",
+			"qu'il/elle": "entame",
+			"qu'ils/elles": "entament"
+		},
+		"imparfait": {
+			"j'": "entamasse",
+			"que": "vous entamassiez",
+			"qu'il/elle": "entamât",
+			"qu'ils/elles": "entamassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse entamé",
+			"que": "vous eussiez entamé",
+			"qu'il/elle": "eût entamé",
+			"qu'ils/elles": "eussent entamé"
+		},
+		"passé": {
+			"j'": "aie entamé",
+			"que": "vous ayez entamé",
+			"qu'il/elle": "ait entamé",
+			"qu'ils/elles": "aient entamé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "entamerais",
+			"tu": "entamerais",
+			"il/elle": "entamerait",
+			"nous": "entamerions",
+			"vous": "entameriez",
+			"ils/elles": "entameraient"
+		},
+		"passé première forme": {
+			"j'": "aurais entamé",
+			"tu": "aurais entamé",
+			"il/elle": "aurait entamé",
+			"nous": "aurions entamé",
+			"vous": "auriez entamé",
+			"ils/elles": "auraient entamé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse entamé",
+			"tu": "eusses entamé",
+			"il/elle": "eût entamé",
+			"nous": "eussions entamé",
+			"vous": "eussiez entamé",
+			"ils/elles": "eussent entamé"
+		}
+	},
+	"participe": {
+		"présent": { "entamant": "" },
+		"passé composé": { "ayant": "entamé" },
+		"passé": {
+			"masc.sg.:": "entamé",
+			"masc.pl.:": "entamés",
+			"fém.sg.:": "entamée",
+			"fém.pl.:": "entamées"
+		}
+	},
+	"imperatif": {
+		"présent": { "entame": "", "entamons": "", "entamez": "" },
+		"passé": { "aie": "entamé", "ayons": "entamé", "ayez": "entamé" }
+	},
+	"infinitif": { "présent": { "entamer": "" }, "passé": { "avoir": "entamé" } }
+}

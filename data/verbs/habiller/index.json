@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "dress; get dressed; dress up; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'habiller/ne pas habiller/ne pas s'habiller",
+	"indicatif": {
+		"présent": {
+			"j'": "habille",
+			"tu": "habilles",
+			"il/elle": "habille",
+			"nous": "habillons",
+			"vous": "habillez",
+			"ils/elles": "habillent"
+		},
+		"imparfait": {
+			"j'": "habillais",
+			"tu": "habillais",
+			"il/elle": "habillait",
+			"nous": "habillions",
+			"vous": "habilliez",
+			"ils/elles": "habillaient"
+		},
+		"futur": {
+			"j'": "habillerai",
+			"tu": "habilleras",
+			"il/elle": "habillera",
+			"nous": "habillerons",
+			"vous": "habillerez",
+			"ils/elles": "habilleront"
+		},
+		"passé simple": {
+			"j'": "habillai",
+			"tu": "habillas",
+			"il/elle": "habilla",
+			"nous": "habillâmes",
+			"vous": "habillâtes",
+			"ils/elles": "habillèrent"
+		},
+		"passé composé": {
+			"j'": "ai habillé",
+			"tu": "as habillé",
+			"il/elle": "a habillé",
+			"nous": "avons habillé",
+			"vous": "avez habillé",
+			"ils/elles": "ont habillé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais habillé",
+			"tu": "avais habillé",
+			"il/elle": "avait habillé",
+			"nous": "avions habillé",
+			"vous": "aviez habillé",
+			"ils/elles": "avaient habillé"
+		},
+		"passé antérieur": {
+			"j'": "eus habillé",
+			"tu": "eus habillé",
+			"il/elle": "eut habillé",
+			"nous": "eûmes habillé",
+			"vous": "eûtes habillé",
+			"ils/elles": "eurent habillé"
+		},
+		"futur antérieur": {
+			"j'": "aurai habillé",
+			"tu": "auras habillé",
+			"il/elle": "aura habillé",
+			"nous": "aurons habillé",
+			"vous": "aurez habillé",
+			"ils/elles": "auront habillé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "habille",
+			"que": "vous habilliez",
+			"qu'il/elle": "habille",
+			"qu'ils/elles": "habillent"
+		},
+		"imparfait": {
+			"j'": "habillasse",
+			"que": "vous habillassiez",
+			"qu'il/elle": "habillât",
+			"qu'ils/elles": "habillassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse habillé",
+			"que": "vous eussiez habillé",
+			"qu'il/elle": "eût habillé",
+			"qu'ils/elles": "eussent habillé"
+		},
+		"passé": {
+			"j'": "aie habillé",
+			"que": "vous ayez habillé",
+			"qu'il/elle": "ait habillé",
+			"qu'ils/elles": "aient habillé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "habillerais",
+			"tu": "habillerais",
+			"il/elle": "habillerait",
+			"nous": "habillerions",
+			"vous": "habilleriez",
+			"ils/elles": "habilleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais habillé",
+			"tu": "aurais habillé",
+			"il/elle": "aurait habillé",
+			"nous": "aurions habillé",
+			"vous": "auriez habillé",
+			"ils/elles": "auraient habillé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse habillé",
+			"tu": "eusses habillé",
+			"il/elle": "eût habillé",
+			"nous": "eussions habillé",
+			"vous": "eussiez habillé",
+			"ils/elles": "eussent habillé"
+		}
+	},
+	"participe": {
+		"présent": { "habillant": "" },
+		"passé composé": { "ayant": "habillé" },
+		"passé": {
+			"masc.sg.:": "habillé",
+			"masc.pl.:": "habillés",
+			"fém.sg.:": "habillée",
+			"fém.pl.:": "habillées"
+		}
+	},
+	"imperatif": {
+		"présent": { "habille": "", "habillons": "", "habillez": "" },
+		"passé": { "aie": "habillé", "ayons": "habillé", "ayez": "habillé" }
+	},
+	"infinitif": {
+		"présent": { "habiller": "" },
+		"passé": { "avoir": "habillé" }
+	}
+}

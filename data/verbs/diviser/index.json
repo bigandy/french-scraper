@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "divide; split; partition; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se diviser/ne pas diviser/ne pas se diviser",
+	"indicatif": {
+		"présent": {
+			"je": "divise",
+			"tu": "divises",
+			"il/elle": "divise",
+			"nous": "divisons",
+			"vous": "divisez",
+			"ils/elles": "divisent"
+		},
+		"imparfait": {
+			"je": "divisais",
+			"tu": "divisais",
+			"il/elle": "divisait",
+			"nous": "divisions",
+			"vous": "divisiez",
+			"ils/elles": "divisaient"
+		},
+		"futur": {
+			"je": "diviserai",
+			"tu": "diviseras",
+			"il/elle": "divisera",
+			"nous": "diviserons",
+			"vous": "diviserez",
+			"ils/elles": "diviseront"
+		},
+		"passé simple": {
+			"je": "divisai",
+			"tu": "divisas",
+			"il/elle": "divisa",
+			"nous": "divisâmes",
+			"vous": "divisâtes",
+			"ils/elles": "divisèrent"
+		},
+		"passé composé": {
+			"j'": "ai divisé",
+			"tu": "as divisé",
+			"il/elle": "a divisé",
+			"nous": "avons divisé",
+			"vous": "avez divisé",
+			"ils/elles": "ont divisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais divisé",
+			"tu": "avais divisé",
+			"il/elle": "avait divisé",
+			"nous": "avions divisé",
+			"vous": "aviez divisé",
+			"ils/elles": "avaient divisé"
+		},
+		"passé antérieur": {
+			"j'": "eus divisé",
+			"tu": "eus divisé",
+			"il/elle": "eut divisé",
+			"nous": "eûmes divisé",
+			"vous": "eûtes divisé",
+			"ils/elles": "eurent divisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai divisé",
+			"tu": "auras divisé",
+			"il/elle": "aura divisé",
+			"nous": "aurons divisé",
+			"vous": "aurez divisé",
+			"ils/elles": "auront divisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous divisiez",
+			"qu'il/elle": "divise",
+			"qu'ils/elles": "divisent"
+		},
+		"imparfait": {
+			"que": "vous divisassiez",
+			"qu'il/elle": "divisât",
+			"qu'ils/elles": "divisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse divisé",
+			"que": "vous eussiez divisé",
+			"qu'il/elle": "eût divisé",
+			"qu'ils/elles": "eussent divisé"
+		},
+		"passé": {
+			"j'": "aie divisé",
+			"que": "vous ayez divisé",
+			"qu'il/elle": "ait divisé",
+			"qu'ils/elles": "aient divisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "diviserais",
+			"tu": "diviserais",
+			"il/elle": "diviserait",
+			"nous": "diviserions",
+			"vous": "diviseriez",
+			"ils/elles": "diviseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais divisé",
+			"tu": "aurais divisé",
+			"il/elle": "aurait divisé",
+			"nous": "aurions divisé",
+			"vous": "auriez divisé",
+			"ils/elles": "auraient divisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse divisé",
+			"tu": "eusses divisé",
+			"il/elle": "eût divisé",
+			"nous": "eussions divisé",
+			"vous": "eussiez divisé",
+			"ils/elles": "eussent divisé"
+		}
+	},
+	"participe": {
+		"présent": { "divisant": "" },
+		"passé composé": { "ayant": "divisé" },
+		"passé": {
+			"masc.sg.:": "divisé",
+			"masc.pl.:": "divisés",
+			"fém.sg.:": "divisée",
+			"fém.pl.:": "divisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "divise": "", "divisons": "", "divisez": "" },
+		"passé": { "aie": "divisé", "ayons": "divisé", "ayez": "divisé" }
+	},
+	"infinitif": { "présent": { "diviser": "" }, "passé": { "avoir": "divisé" } }
+}

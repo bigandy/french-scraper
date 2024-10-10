@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "get away; remove; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'éloigner/ne pas éloigner/ne pas s'éloigner",
+	"indicatif": {
+		"présent": {
+			"j'": "éloigne",
+			"tu": "éloignes",
+			"il/elle": "éloigne",
+			"nous": "éloignons",
+			"vous": "éloignez",
+			"ils/elles": "éloignent"
+		},
+		"imparfait": {
+			"j'": "éloignais",
+			"tu": "éloignais",
+			"il/elle": "éloignait",
+			"nous": "éloignions",
+			"vous": "éloigniez",
+			"ils/elles": "éloignaient"
+		},
+		"futur": {
+			"j'": "éloignerai",
+			"tu": "éloigneras",
+			"il/elle": "éloignera",
+			"nous": "éloignerons",
+			"vous": "éloignerez",
+			"ils/elles": "éloigneront"
+		},
+		"passé simple": {
+			"j'": "éloignai",
+			"tu": "éloignas",
+			"il/elle": "éloigna",
+			"nous": "éloignâmes",
+			"vous": "éloignâtes",
+			"ils/elles": "éloignèrent"
+		},
+		"passé composé": {
+			"j'": "ai éloigné",
+			"tu": "as éloigné",
+			"il/elle": "a éloigné",
+			"nous": "avons éloigné",
+			"vous": "avez éloigné",
+			"ils/elles": "ont éloigné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais éloigné",
+			"tu": "avais éloigné",
+			"il/elle": "avait éloigné",
+			"nous": "avions éloigné",
+			"vous": "aviez éloigné",
+			"ils/elles": "avaient éloigné"
+		},
+		"passé antérieur": {
+			"j'": "eus éloigné",
+			"tu": "eus éloigné",
+			"il/elle": "eut éloigné",
+			"nous": "eûmes éloigné",
+			"vous": "eûtes éloigné",
+			"ils/elles": "eurent éloigné"
+		},
+		"futur antérieur": {
+			"j'": "aurai éloigné",
+			"tu": "auras éloigné",
+			"il/elle": "aura éloigné",
+			"nous": "aurons éloigné",
+			"vous": "aurez éloigné",
+			"ils/elles": "auront éloigné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "éloigne",
+			"que": "vous éloigniez",
+			"qu'il/elle": "éloigne",
+			"qu'ils/elles": "éloignent"
+		},
+		"imparfait": {
+			"j'": "éloignasse",
+			"que": "vous éloignassiez",
+			"qu'il/elle": "éloignât",
+			"qu'ils/elles": "éloignassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse éloigné",
+			"que": "vous eussiez éloigné",
+			"qu'il/elle": "eût éloigné",
+			"qu'ils/elles": "eussent éloigné"
+		},
+		"passé": {
+			"j'": "aie éloigné",
+			"que": "vous ayez éloigné",
+			"qu'il/elle": "ait éloigné",
+			"qu'ils/elles": "aient éloigné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "éloignerais",
+			"tu": "éloignerais",
+			"il/elle": "éloignerait",
+			"nous": "éloignerions",
+			"vous": "éloigneriez",
+			"ils/elles": "éloigneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais éloigné",
+			"tu": "aurais éloigné",
+			"il/elle": "aurait éloigné",
+			"nous": "aurions éloigné",
+			"vous": "auriez éloigné",
+			"ils/elles": "auraient éloigné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse éloigné",
+			"tu": "eusses éloigné",
+			"il/elle": "eût éloigné",
+			"nous": "eussions éloigné",
+			"vous": "eussiez éloigné",
+			"ils/elles": "eussent éloigné"
+		}
+	},
+	"participe": {
+		"présent": { "éloignant": "" },
+		"passé composé": { "ayant": "éloigné" },
+		"passé": {
+			"masc.sg.:": "éloigné",
+			"masc.pl.:": "éloignés",
+			"fém.sg.:": "éloignée",
+			"fém.pl.:": "éloignées"
+		}
+	},
+	"imperatif": {
+		"présent": { "éloigne": "", "éloignons": "", "éloignez": "" },
+		"passé": { "aie": "éloigné", "ayons": "éloigné", "ayez": "éloigné" }
+	},
+	"infinitif": {
+		"présent": { "éloigner": "" },
+		"passé": { "avoir": "éloigné" }
+	}
+}

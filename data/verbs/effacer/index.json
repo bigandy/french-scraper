@@ -1,0 +1,140 @@
+{
+	"name": "commencer",
+	"definition": "erase; delete; clear; ...",
+	"model": "commencer",
+	"auxiliary": "avoir",
+	"otherForms": "s'effacer/ne pas effacer/ne pas s'effacer",
+	"indicatif": {
+		"présent": {
+			"j'": "efface",
+			"tu": "effaces",
+			"il/elle": "efface",
+			"nous": "effaçons",
+			"vous": "effacez",
+			"ils/elles": "effacent"
+		},
+		"imparfait": {
+			"j'": "effaçais",
+			"tu": "effaçais",
+			"il/elle": "effaçait",
+			"nous": "effacions",
+			"vous": "effaciez",
+			"ils/elles": "effaçaient"
+		},
+		"futur": {
+			"j'": "effacerai",
+			"tu": "effaceras",
+			"il/elle": "effacera",
+			"nous": "effacerons",
+			"vous": "effacerez",
+			"ils/elles": "effaceront"
+		},
+		"passé simple": {
+			"j'": "effaçai",
+			"tu": "effaças",
+			"il/elle": "effaça",
+			"nous": "effaçâmes",
+			"vous": "effaçâtes",
+			"ils/elles": "effacèrent"
+		},
+		"passé composé": {
+			"j'": "ai effacé",
+			"tu": "as effacé",
+			"il/elle": "a effacé",
+			"nous": "avons effacé",
+			"vous": "avez effacé",
+			"ils/elles": "ont effacé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais effacé",
+			"tu": "avais effacé",
+			"il/elle": "avait effacé",
+			"nous": "avions effacé",
+			"vous": "aviez effacé",
+			"ils/elles": "avaient effacé"
+		},
+		"passé antérieur": {
+			"j'": "eus effacé",
+			"tu": "eus effacé",
+			"il/elle": "eut effacé",
+			"nous": "eûmes effacé",
+			"vous": "eûtes effacé",
+			"ils/elles": "eurent effacé"
+		},
+		"futur antérieur": {
+			"j'": "aurai effacé",
+			"tu": "auras effacé",
+			"il/elle": "aura effacé",
+			"nous": "aurons effacé",
+			"vous": "aurez effacé",
+			"ils/elles": "auront effacé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "efface",
+			"que": "vous effaciez",
+			"qu'il/elle": "efface",
+			"qu'ils/elles": "effacent"
+		},
+		"imparfait": {
+			"j'": "effaçasse",
+			"que": "vous effaçassiez",
+			"qu'il/elle": "effaçât",
+			"qu'ils/elles": "effaçassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse effacé",
+			"que": "vous eussiez effacé",
+			"qu'il/elle": "eût effacé",
+			"qu'ils/elles": "eussent effacé"
+		},
+		"passé": {
+			"j'": "aie effacé",
+			"que": "vous ayez effacé",
+			"qu'il/elle": "ait effacé",
+			"qu'ils/elles": "aient effacé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "effacerais",
+			"tu": "effacerais",
+			"il/elle": "effacerait",
+			"nous": "effacerions",
+			"vous": "effaceriez",
+			"ils/elles": "effaceraient"
+		},
+		"passé première forme": {
+			"j'": "aurais effacé",
+			"tu": "aurais effacé",
+			"il/elle": "aurait effacé",
+			"nous": "aurions effacé",
+			"vous": "auriez effacé",
+			"ils/elles": "auraient effacé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse effacé",
+			"tu": "eusses effacé",
+			"il/elle": "eût effacé",
+			"nous": "eussions effacé",
+			"vous": "eussiez effacé",
+			"ils/elles": "eussent effacé"
+		}
+	},
+	"participe": {
+		"présent": { "effaçant": "" },
+		"passé composé": { "ayant": "effacé" },
+		"passé": {
+			"masc.sg.:": "effacé",
+			"masc.pl.:": "effacés",
+			"fém.sg.:": "effacée",
+			"fém.pl.:": "effacées"
+		}
+	},
+	"imperatif": {
+		"présent": { "efface": "", "effaçons": "", "effacez": "" },
+		"passé": { "aie": "effacé", "ayons": "effacé", "ayez": "effacé" }
+	},
+	"infinitif": { "présent": { "effacer": "" }, "passé": { "avoir": "effacé" } }
+}

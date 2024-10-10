@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "notify; report; inform; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se notifier/ne pas notifier/ne pas se notifier",
+	"indicatif": {
+		"présent": {
+			"je": "notifie",
+			"tu": "notifies",
+			"il/elle": "notifie",
+			"nous": "notifions",
+			"vous": "notifiez",
+			"ils/elles": "notifient"
+		},
+		"imparfait": {
+			"je": "notifiais",
+			"tu": "notifiais",
+			"il/elle": "notifiait",
+			"nous": "notifiions",
+			"vous": "notifiiez",
+			"ils/elles": "notifiaient"
+		},
+		"futur": {
+			"je": "notifierai",
+			"tu": "notifieras",
+			"il/elle": "notifiera",
+			"nous": "notifierons",
+			"vous": "notifierez",
+			"ils/elles": "notifieront"
+		},
+		"passé simple": {
+			"je": "notifiai",
+			"tu": "notifias",
+			"il/elle": "notifia",
+			"nous": "notifiâmes",
+			"vous": "notifiâtes",
+			"ils/elles": "notifièrent"
+		},
+		"passé composé": {
+			"j'": "ai notifié",
+			"tu": "as notifié",
+			"il/elle": "a notifié",
+			"nous": "avons notifié",
+			"vous": "avez notifié",
+			"ils/elles": "ont notifié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais notifié",
+			"tu": "avais notifié",
+			"il/elle": "avait notifié",
+			"nous": "avions notifié",
+			"vous": "aviez notifié",
+			"ils/elles": "avaient notifié"
+		},
+		"passé antérieur": {
+			"j'": "eus notifié",
+			"tu": "eus notifié",
+			"il/elle": "eut notifié",
+			"nous": "eûmes notifié",
+			"vous": "eûtes notifié",
+			"ils/elles": "eurent notifié"
+		},
+		"futur antérieur": {
+			"j'": "aurai notifié",
+			"tu": "auras notifié",
+			"il/elle": "aura notifié",
+			"nous": "aurons notifié",
+			"vous": "aurez notifié",
+			"ils/elles": "auront notifié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous notifiiez",
+			"qu'il/elle": "notifie",
+			"qu'ils/elles": "notifient"
+		},
+		"imparfait": {
+			"que": "vous notifiassiez",
+			"qu'il/elle": "notifiât",
+			"qu'ils/elles": "notifiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse notifié",
+			"que": "vous eussiez notifié",
+			"qu'il/elle": "eût notifié",
+			"qu'ils/elles": "eussent notifié"
+		},
+		"passé": {
+			"j'": "aie notifié",
+			"que": "vous ayez notifié",
+			"qu'il/elle": "ait notifié",
+			"qu'ils/elles": "aient notifié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "notifierais",
+			"tu": "notifierais",
+			"il/elle": "notifierait",
+			"nous": "notifierions",
+			"vous": "notifieriez",
+			"ils/elles": "notifieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais notifié",
+			"tu": "aurais notifié",
+			"il/elle": "aurait notifié",
+			"nous": "aurions notifié",
+			"vous": "auriez notifié",
+			"ils/elles": "auraient notifié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse notifié",
+			"tu": "eusses notifié",
+			"il/elle": "eût notifié",
+			"nous": "eussions notifié",
+			"vous": "eussiez notifié",
+			"ils/elles": "eussent notifié"
+		}
+	},
+	"participe": {
+		"présent": { "notifiant": "" },
+		"passé composé": { "ayant": "notifié" },
+		"passé": {
+			"masc.sg.:": "notifié",
+			"masc.pl.:": "notifiés",
+			"fém.sg.:": "notifiée",
+			"fém.pl.:": "notifiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "notifie": "", "notifions": "", "notifiez": "" },
+		"passé": { "aie": "notifié", "ayons": "notifié", "ayez": "notifié" }
+	},
+	"infinitif": {
+		"présent": { "notifier": "" },
+		"passé": { "avoir": "notifié" }
+	}
+}

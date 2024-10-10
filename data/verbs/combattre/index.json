@@ -1,0 +1,141 @@
+{
+	"name": "battre",
+	"definition": "combat; fight; address; ...",
+	"model": "battre",
+	"auxiliary": "avoir",
+	"otherForms": "se combattre/ne pas combattre/ne pas se combattre",
+	"indicatif": {
+		"présent": {
+			"je": "combats",
+			"tu": "combats",
+			"il/elle": "combat",
+			"nous": "combattons",
+			"vous": "combattez",
+			"ils/elles": "combattent"
+		},
+		"imparfait": {
+			"je": "combattais",
+			"tu": "combattais",
+			"il/elle": "combattait",
+			"nous": "combattions",
+			"vous": "combattiez",
+			"ils/elles": "combattaient"
+		},
+		"futur": {
+			"je": "combattrai",
+			"tu": "combattras",
+			"il/elle": "combattra",
+			"nous": "combattrons",
+			"vous": "combattrez",
+			"ils/elles": "combattront"
+		},
+		"passé simple": {
+			"je": "combattis",
+			"tu": "combattis",
+			"il/elle": "combattit",
+			"nous": "combattîmes",
+			"vous": "combattîtes",
+			"ils/elles": "combattirent"
+		},
+		"passé composé": {
+			"j'": "ai combattu",
+			"tu": "as combattu",
+			"il/elle": "a combattu",
+			"nous": "avons combattu",
+			"vous": "avez combattu",
+			"ils/elles": "ont combattu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais combattu",
+			"tu": "avais combattu",
+			"il/elle": "avait combattu",
+			"nous": "avions combattu",
+			"vous": "aviez combattu",
+			"ils/elles": "avaient combattu"
+		},
+		"passé antérieur": {
+			"j'": "eus combattu",
+			"tu": "eus combattu",
+			"il/elle": "eut combattu",
+			"nous": "eûmes combattu",
+			"vous": "eûtes combattu",
+			"ils/elles": "eurent combattu"
+		},
+		"futur antérieur": {
+			"j'": "aurai combattu",
+			"tu": "auras combattu",
+			"il/elle": "aura combattu",
+			"nous": "aurons combattu",
+			"vous": "aurez combattu",
+			"ils/elles": "auront combattu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous combattiez",
+			"qu'il/elle": "combatte",
+			"qu'ils/elles": "combattent"
+		},
+		"imparfait": {
+			"que": "vous combattissiez",
+			"qu'il/elle": "combattît",
+			"qu'ils/elles": "combattissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse combattu",
+			"que": "vous eussiez combattu",
+			"qu'il/elle": "eût combattu",
+			"qu'ils/elles": "eussent combattu"
+		},
+		"passé": {
+			"j'": "aie combattu",
+			"que": "vous ayez combattu",
+			"qu'il/elle": "ait combattu",
+			"qu'ils/elles": "aient combattu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "combattrais",
+			"tu": "combattrais",
+			"il/elle": "combattrait",
+			"nous": "combattrions",
+			"vous": "combattriez",
+			"ils/elles": "combattraient"
+		},
+		"passé première forme": {
+			"j'": "aurais combattu",
+			"tu": "aurais combattu",
+			"il/elle": "aurait combattu",
+			"nous": "aurions combattu",
+			"vous": "auriez combattu",
+			"ils/elles": "auraient combattu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse combattu",
+			"tu": "eusses combattu",
+			"il/elle": "eût combattu",
+			"nous": "eussions combattu",
+			"vous": "eussiez combattu",
+			"ils/elles": "eussent combattu"
+		}
+	},
+	"participe": {
+		"présent": { "combattant": "" },
+		"passé composé": { "ayant": "combattu" },
+		"passé": {
+			"masc.sg.:": "combattu",
+			"masc.pl.:": "combattus",
+			"fém.sg.:": "combattue",
+			"fém.pl.:": "combattues"
+		}
+	},
+	"imperatif": {
+		"présent": { "combats": "", "combattons": "", "combattez": "" },
+		"passé": { "aie": "combattu", "ayons": "combattu", "ayez": "combattu" }
+	},
+	"infinitif": {
+		"présent": { "combattre": "" },
+		"passé": { "avoir": "combattu" }
+	}
+}

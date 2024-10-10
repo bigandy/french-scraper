@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "avoid; prevent; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'éviter/ne pas éviter/ne pas s'éviter",
+	"indicatif": {
+		"présent": {
+			"j'": "évite",
+			"tu": "évites",
+			"il/elle": "évite",
+			"nous": "évitons",
+			"vous": "évitez",
+			"ils/elles": "évitent"
+		},
+		"imparfait": {
+			"j'": "évitais",
+			"tu": "évitais",
+			"il/elle": "évitait",
+			"nous": "évitions",
+			"vous": "évitiez",
+			"ils/elles": "évitaient"
+		},
+		"futur": {
+			"j'": "éviterai",
+			"tu": "éviteras",
+			"il/elle": "évitera",
+			"nous": "éviterons",
+			"vous": "éviterez",
+			"ils/elles": "éviteront"
+		},
+		"passé simple": {
+			"j'": "évitai",
+			"tu": "évitas",
+			"il/elle": "évita",
+			"nous": "évitâmes",
+			"vous": "évitâtes",
+			"ils/elles": "évitèrent"
+		},
+		"passé composé": {
+			"j'": "ai évité",
+			"tu": "as évité",
+			"il/elle": "a évité",
+			"nous": "avons évité",
+			"vous": "avez évité",
+			"ils/elles": "ont évité"
+		},
+		"plus-que-parfait": {
+			"j'": "avais évité",
+			"tu": "avais évité",
+			"il/elle": "avait évité",
+			"nous": "avions évité",
+			"vous": "aviez évité",
+			"ils/elles": "avaient évité"
+		},
+		"passé antérieur": {
+			"j'": "eus évité",
+			"tu": "eus évité",
+			"il/elle": "eut évité",
+			"nous": "eûmes évité",
+			"vous": "eûtes évité",
+			"ils/elles": "eurent évité"
+		},
+		"futur antérieur": {
+			"j'": "aurai évité",
+			"tu": "auras évité",
+			"il/elle": "aura évité",
+			"nous": "aurons évité",
+			"vous": "aurez évité",
+			"ils/elles": "auront évité"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "évite",
+			"que": "vous évitiez",
+			"qu'il/elle": "évite",
+			"qu'ils/elles": "évitent"
+		},
+		"imparfait": {
+			"j'": "évitasse",
+			"que": "vous évitassiez",
+			"qu'il/elle": "évitât",
+			"qu'ils/elles": "évitassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse évité",
+			"que": "vous eussiez évité",
+			"qu'il/elle": "eût évité",
+			"qu'ils/elles": "eussent évité"
+		},
+		"passé": {
+			"j'": "aie évité",
+			"que": "vous ayez évité",
+			"qu'il/elle": "ait évité",
+			"qu'ils/elles": "aient évité"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "éviterais",
+			"tu": "éviterais",
+			"il/elle": "éviterait",
+			"nous": "éviterions",
+			"vous": "éviteriez",
+			"ils/elles": "éviteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais évité",
+			"tu": "aurais évité",
+			"il/elle": "aurait évité",
+			"nous": "aurions évité",
+			"vous": "auriez évité",
+			"ils/elles": "auraient évité"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse évité",
+			"tu": "eusses évité",
+			"il/elle": "eût évité",
+			"nous": "eussions évité",
+			"vous": "eussiez évité",
+			"ils/elles": "eussent évité"
+		}
+	},
+	"participe": {
+		"présent": { "évitant": "" },
+		"passé composé": { "ayant": "évité" },
+		"passé": {
+			"masc.sg.:": "évité",
+			"masc.pl.:": "évités",
+			"fém.sg.:": "évitée",
+			"fém.pl.:": "évitées"
+		}
+	},
+	"imperatif": {
+		"présent": { "évite": "", "évitons": "", "évitez": "" },
+		"passé": { "aie": "évité", "ayons": "évité", "ayez": "évité" }
+	},
+	"infinitif": { "présent": { "éviter": "" }, "passé": { "avoir": "évité" } }
+}

@@ -1,0 +1,196 @@
+{
+	"name": "marcher",
+	"definition": "burst; pop; break out; ...",
+	"model": "marcher",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "s'éclater/ne pas éclater/ne pas s'éclater",
+	"indicatif": {
+		"présent": {
+			"j'": "éclate",
+			"tu": "éclates",
+			"il/elle": "éclate",
+			"nous": "éclatons",
+			"vous": "éclatez",
+			"ils/elles": "éclatent"
+		},
+		"imparfait": {
+			"j'": "éclatais",
+			"tu": "éclatais",
+			"il/elle": "éclatait",
+			"nous": "éclations",
+			"vous": "éclatiez",
+			"ils/elles": "éclataient"
+		},
+		"futur": {
+			"j'": "éclaterai",
+			"tu": "éclateras",
+			"il/elle": "éclatera",
+			"nous": "éclaterons",
+			"vous": "éclaterez",
+			"ils/elles": "éclateront"
+		},
+		"passé simple": {
+			"j'": "éclatai",
+			"tu": "éclatas",
+			"il/elle": "éclata",
+			"nous": "éclatâmes",
+			"vous": "éclatâtes",
+			"ils/elles": "éclatèrent"
+		},
+		"passé composé": {
+			"j'": "ai éclaté",
+			"tu": "es éclaté",
+			"il/elle": "a éclaté",
+			"nous": "sommes éclatés",
+			"vous": "êtes éclatés",
+			"ils/elles": "ont éclaté",
+			"": "",
+			"je": "suis éclaté",
+			"il": "est éclaté",
+			"elle": "est éclatée",
+			"ils": "sont éclatés",
+			"elles": "sont éclatées"
+		},
+		"plus-que-parfait": {
+			"j'": "étais éclaté",
+			"tu": "étais éclaté",
+			"il/elle": "avait éclaté",
+			"nous": "étions éclatés",
+			"vous": "étiez éclatés",
+			"ils/elles": "avaient éclaté",
+			"": "",
+			"il": "était éclaté",
+			"elle": "était éclatée",
+			"ils": "étaient éclatés",
+			"elles": "étaient éclatées"
+		},
+		"passé antérieur": {
+			"j'": "eus éclaté",
+			"tu": "fus éclaté",
+			"il/elle": "eut éclaté",
+			"nous": "fûmes éclatés",
+			"vous": "fûtes éclatés",
+			"ils/elles": "eurent éclaté",
+			"": "",
+			"je": "fus éclaté",
+			"il": "fut éclaté",
+			"elle": "fut éclatée",
+			"ils": "furent éclatés",
+			"elles": "furent éclatées"
+		},
+		"futur antérieur": {
+			"j'": "aurai éclaté",
+			"tu": "seras éclaté",
+			"il/elle": "aura éclaté",
+			"nous": "serons éclatés",
+			"vous": "serez éclatés",
+			"ils/elles": "auront éclaté",
+			"": "",
+			"je": "serai éclaté",
+			"il": "sera éclaté",
+			"elle": "sera éclatée",
+			"ils": "seront éclatés",
+			"elles": "seront éclatées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "éclate",
+			"que": "vous éclatiez",
+			"qu'il/elle": "éclate",
+			"qu'ils/elles": "éclatent"
+		},
+		"imparfait": {
+			"j'": "éclatasse",
+			"que": "vous éclatassiez",
+			"qu'il/elle": "éclatât",
+			"qu'ils/elles": "éclatassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse éclaté",
+			"que": "vous fussiez éclatés",
+			"qu'il/elle": "eût éclaté",
+			"qu'ils/elles": "eussent éclaté",
+			"": "",
+			"qu'il": "fût éclaté",
+			"qu'elle": "fût éclatée",
+			"qu'ils": "fussent éclatés",
+			"qu'elles": "fussent éclatées"
+		},
+		"passé": {
+			"j'": "aie éclaté",
+			"que": "vous soyez éclatés",
+			"qu'il/elle": "ait éclaté",
+			"qu'ils/elles": "aient éclaté",
+			"": "",
+			"qu'il": "soit éclaté",
+			"qu'elle": "soit éclatée",
+			"qu'ils": "soient éclatés",
+			"qu'elles": "soient éclatées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "éclaterais",
+			"tu": "éclaterais",
+			"il/elle": "éclaterait",
+			"nous": "éclaterions",
+			"vous": "éclateriez",
+			"ils/elles": "éclateraient"
+		},
+		"passé première forme": {
+			"j'": "aurais éclaté",
+			"tu": "serais éclaté",
+			"il/elle": "aurait éclaté",
+			"nous": "serions éclatés",
+			"vous": "seriez éclatés",
+			"ils/elles": "auraient éclaté",
+			"": "",
+			"je": "serais éclaté",
+			"il": "serait éclaté",
+			"elle": "serait éclatée",
+			"ils": "seraient éclatés",
+			"elles": "seraient éclatées"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse éclaté",
+			"tu": "fusses éclaté",
+			"il/elle": "eût éclaté",
+			"nous": "fussions éclatés",
+			"vous": "fussiez éclatés",
+			"ils/elles": "eussent éclaté",
+			"": "",
+			"je": "fusse éclaté",
+			"il": "fût éclaté",
+			"elle": "fût éclatée",
+			"ils": "fussent éclatés",
+			"elles": "fussent éclatées"
+		}
+	},
+	"participe": {
+		"présent": { "éclatant": "" },
+		"passé composé": { "ayant": "éclaté", "": "", "étant": "éclatée" },
+		"passé": {
+			"masc.sg.:": "éclaté",
+			"masc.pl.:": "éclatés",
+			"fém.sg.:": "éclatée",
+			"fém.pl.:": "éclatées"
+		}
+	},
+	"imperatif": {
+		"présent": { "éclate": "", "éclatons": "", "éclatez": "" },
+		"passé": {
+			"aie": "éclaté",
+			"ayons": "éclaté",
+			"ayez": "éclaté",
+			"": "",
+			"sois": "éclaté",
+			"soyons": "éclaté",
+			"soyez": "éclaté"
+		}
+	},
+	"infinitif": {
+		"présent": { "éclater": "" },
+		"passé": { "avoir": "éclaté", "": "", "être": "éclaté" }
+	}
+}

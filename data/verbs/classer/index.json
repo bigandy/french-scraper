@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "classify; rank; categorize; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se classer/ne pas classer/ne pas se classer",
+	"indicatif": {
+		"présent": {
+			"je": "classe",
+			"tu": "classes",
+			"il/elle": "classe",
+			"nous": "classons",
+			"vous": "classez",
+			"ils/elles": "classent"
+		},
+		"imparfait": {
+			"je": "classais",
+			"tu": "classais",
+			"il/elle": "classait",
+			"nous": "classions",
+			"vous": "classiez",
+			"ils/elles": "classaient"
+		},
+		"futur": {
+			"je": "classerai",
+			"tu": "classeras",
+			"il/elle": "classera",
+			"nous": "classerons",
+			"vous": "classerez",
+			"ils/elles": "classeront"
+		},
+		"passé simple": {
+			"je": "classai",
+			"tu": "classas",
+			"il/elle": "classa",
+			"nous": "classâmes",
+			"vous": "classâtes",
+			"ils/elles": "classèrent"
+		},
+		"passé composé": {
+			"j'": "ai classé",
+			"tu": "as classé",
+			"il/elle": "a classé",
+			"nous": "avons classé",
+			"vous": "avez classé",
+			"ils/elles": "ont classé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais classé",
+			"tu": "avais classé",
+			"il/elle": "avait classé",
+			"nous": "avions classé",
+			"vous": "aviez classé",
+			"ils/elles": "avaient classé"
+		},
+		"passé antérieur": {
+			"j'": "eus classé",
+			"tu": "eus classé",
+			"il/elle": "eut classé",
+			"nous": "eûmes classé",
+			"vous": "eûtes classé",
+			"ils/elles": "eurent classé"
+		},
+		"futur antérieur": {
+			"j'": "aurai classé",
+			"tu": "auras classé",
+			"il/elle": "aura classé",
+			"nous": "aurons classé",
+			"vous": "aurez classé",
+			"ils/elles": "auront classé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous classiez",
+			"qu'il/elle": "classe",
+			"qu'ils/elles": "classent"
+		},
+		"imparfait": {
+			"que": "vous classassiez",
+			"qu'il/elle": "classât",
+			"qu'ils/elles": "classassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse classé",
+			"que": "vous eussiez classé",
+			"qu'il/elle": "eût classé",
+			"qu'ils/elles": "eussent classé"
+		},
+		"passé": {
+			"j'": "aie classé",
+			"que": "vous ayez classé",
+			"qu'il/elle": "ait classé",
+			"qu'ils/elles": "aient classé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "classerais",
+			"tu": "classerais",
+			"il/elle": "classerait",
+			"nous": "classerions",
+			"vous": "classeriez",
+			"ils/elles": "classeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais classé",
+			"tu": "aurais classé",
+			"il/elle": "aurait classé",
+			"nous": "aurions classé",
+			"vous": "auriez classé",
+			"ils/elles": "auraient classé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse classé",
+			"tu": "eusses classé",
+			"il/elle": "eût classé",
+			"nous": "eussions classé",
+			"vous": "eussiez classé",
+			"ils/elles": "eussent classé"
+		}
+	},
+	"participe": {
+		"présent": { "classant": "" },
+		"passé composé": { "ayant": "classé" },
+		"passé": {
+			"masc.sg.:": "classé",
+			"masc.pl.:": "classés",
+			"fém.sg.:": "classée",
+			"fém.pl.:": "classées"
+		}
+	},
+	"imperatif": {
+		"présent": { "classe": "", "classons": "", "classez": "" },
+		"passé": { "aie": "classé", "ayons": "classé", "ayez": "classé" }
+	},
+	"infinitif": { "présent": { "classer": "" }, "passé": { "avoir": "classé" } }
+}

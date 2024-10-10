@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "cry; weep; mourn; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se pleurer/ne pas pleurer/ne pas se pleurer",
+	"indicatif": {
+		"présent": {
+			"je": "pleure",
+			"tu": "pleures",
+			"il/elle": "pleure",
+			"nous": "pleurons",
+			"vous": "pleurez",
+			"ils/elles": "pleurent"
+		},
+		"imparfait": {
+			"je": "pleurais",
+			"tu": "pleurais",
+			"il/elle": "pleurait",
+			"nous": "pleurions",
+			"vous": "pleuriez",
+			"ils/elles": "pleuraient"
+		},
+		"futur": {
+			"je": "pleurerai",
+			"tu": "pleureras",
+			"il/elle": "pleurera",
+			"nous": "pleurerons",
+			"vous": "pleurerez",
+			"ils/elles": "pleureront"
+		},
+		"passé simple": {
+			"je": "pleurai",
+			"tu": "pleuras",
+			"il/elle": "pleura",
+			"nous": "pleurâmes",
+			"vous": "pleurâtes",
+			"ils/elles": "pleurèrent"
+		},
+		"passé composé": {
+			"j'": "ai pleuré",
+			"tu": "as pleuré",
+			"il/elle": "a pleuré",
+			"nous": "avons pleuré",
+			"vous": "avez pleuré",
+			"ils/elles": "ont pleuré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais pleuré",
+			"tu": "avais pleuré",
+			"il/elle": "avait pleuré",
+			"nous": "avions pleuré",
+			"vous": "aviez pleuré",
+			"ils/elles": "avaient pleuré"
+		},
+		"passé antérieur": {
+			"j'": "eus pleuré",
+			"tu": "eus pleuré",
+			"il/elle": "eut pleuré",
+			"nous": "eûmes pleuré",
+			"vous": "eûtes pleuré",
+			"ils/elles": "eurent pleuré"
+		},
+		"futur antérieur": {
+			"j'": "aurai pleuré",
+			"tu": "auras pleuré",
+			"il/elle": "aura pleuré",
+			"nous": "aurons pleuré",
+			"vous": "aurez pleuré",
+			"ils/elles": "auront pleuré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous pleuriez",
+			"qu'il/elle": "pleure",
+			"qu'ils/elles": "pleurent"
+		},
+		"imparfait": {
+			"que": "vous pleurassiez",
+			"qu'il/elle": "pleurât",
+			"qu'ils/elles": "pleurassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse pleuré",
+			"que": "vous eussiez pleuré",
+			"qu'il/elle": "eût pleuré",
+			"qu'ils/elles": "eussent pleuré"
+		},
+		"passé": {
+			"j'": "aie pleuré",
+			"que": "vous ayez pleuré",
+			"qu'il/elle": "ait pleuré",
+			"qu'ils/elles": "aient pleuré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "pleurerais",
+			"tu": "pleurerais",
+			"il/elle": "pleurerait",
+			"nous": "pleurerions",
+			"vous": "pleureriez",
+			"ils/elles": "pleureraient"
+		},
+		"passé première forme": {
+			"j'": "aurais pleuré",
+			"tu": "aurais pleuré",
+			"il/elle": "aurait pleuré",
+			"nous": "aurions pleuré",
+			"vous": "auriez pleuré",
+			"ils/elles": "auraient pleuré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse pleuré",
+			"tu": "eusses pleuré",
+			"il/elle": "eût pleuré",
+			"nous": "eussions pleuré",
+			"vous": "eussiez pleuré",
+			"ils/elles": "eussent pleuré"
+		}
+	},
+	"participe": {
+		"présent": { "pleurant": "" },
+		"passé composé": { "ayant": "pleuré" },
+		"passé": {
+			"masc.sg.:": "pleuré",
+			"masc.pl.:": "pleurés",
+			"fém.sg.:": "pleurée",
+			"fém.pl.:": "pleurées"
+		}
+	},
+	"imperatif": {
+		"présent": { "pleure": "", "pleurons": "", "pleurez": "" },
+		"passé": { "aie": "pleuré", "ayons": "pleuré", "ayez": "pleuré" }
+	},
+	"infinitif": { "présent": { "pleurer": "" }, "passé": { "avoir": "pleuré" } }
+}

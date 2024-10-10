@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "discuss; talk; debate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se discuter/ne pas discuter/ne pas se discuter",
+	"indicatif": {
+		"présent": {
+			"je": "discute",
+			"tu": "discutes",
+			"il/elle": "discute",
+			"nous": "discutons",
+			"vous": "discutez",
+			"ils/elles": "discutent"
+		},
+		"imparfait": {
+			"je": "discutais",
+			"tu": "discutais",
+			"il/elle": "discutait",
+			"nous": "discutions",
+			"vous": "discutiez",
+			"ils/elles": "discutaient"
+		},
+		"futur": {
+			"je": "discuterai",
+			"tu": "discuteras",
+			"il/elle": "discutera",
+			"nous": "discuterons",
+			"vous": "discuterez",
+			"ils/elles": "discuteront"
+		},
+		"passé simple": {
+			"je": "discutai",
+			"tu": "discutas",
+			"il/elle": "discuta",
+			"nous": "discutâmes",
+			"vous": "discutâtes",
+			"ils/elles": "discutèrent"
+		},
+		"passé composé": {
+			"j'": "ai discuté",
+			"tu": "as discuté",
+			"il/elle": "a discuté",
+			"nous": "avons discuté",
+			"vous": "avez discuté",
+			"ils/elles": "ont discuté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais discuté",
+			"tu": "avais discuté",
+			"il/elle": "avait discuté",
+			"nous": "avions discuté",
+			"vous": "aviez discuté",
+			"ils/elles": "avaient discuté"
+		},
+		"passé antérieur": {
+			"j'": "eus discuté",
+			"tu": "eus discuté",
+			"il/elle": "eut discuté",
+			"nous": "eûmes discuté",
+			"vous": "eûtes discuté",
+			"ils/elles": "eurent discuté"
+		},
+		"futur antérieur": {
+			"j'": "aurai discuté",
+			"tu": "auras discuté",
+			"il/elle": "aura discuté",
+			"nous": "aurons discuté",
+			"vous": "aurez discuté",
+			"ils/elles": "auront discuté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous discutiez",
+			"qu'il/elle": "discute",
+			"qu'ils/elles": "discutent"
+		},
+		"imparfait": {
+			"que": "vous discutassiez",
+			"qu'il/elle": "discutât",
+			"qu'ils/elles": "discutassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse discuté",
+			"que": "vous eussiez discuté",
+			"qu'il/elle": "eût discuté",
+			"qu'ils/elles": "eussent discuté"
+		},
+		"passé": {
+			"j'": "aie discuté",
+			"que": "vous ayez discuté",
+			"qu'il/elle": "ait discuté",
+			"qu'ils/elles": "aient discuté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "discuterais",
+			"tu": "discuterais",
+			"il/elle": "discuterait",
+			"nous": "discuterions",
+			"vous": "discuteriez",
+			"ils/elles": "discuteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais discuté",
+			"tu": "aurais discuté",
+			"il/elle": "aurait discuté",
+			"nous": "aurions discuté",
+			"vous": "auriez discuté",
+			"ils/elles": "auraient discuté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse discuté",
+			"tu": "eusses discuté",
+			"il/elle": "eût discuté",
+			"nous": "eussions discuté",
+			"vous": "eussiez discuté",
+			"ils/elles": "eussent discuté"
+		}
+	},
+	"participe": {
+		"présent": { "discutant": "" },
+		"passé composé": { "ayant": "discuté" },
+		"passé": {
+			"masc.sg.:": "discuté",
+			"masc.pl.:": "discutés",
+			"fém.sg.:": "discutée",
+			"fém.pl.:": "discutées"
+		}
+	},
+	"imperatif": {
+		"présent": { "discute": "", "discutons": "", "discutez": "" },
+		"passé": { "aie": "discuté", "ayons": "discuté", "ayez": "discuté" }
+	},
+	"infinitif": {
+		"présent": { "discuter": "" },
+		"passé": { "avoir": "discuté" }
+	}
+}

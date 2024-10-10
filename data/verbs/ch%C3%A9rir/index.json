@@ -1,0 +1,138 @@
+{
+	"name": "finir",
+	"definition": "cherish; treasure; love; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se chérir/ne pas chérir/ne pas se chérir",
+	"indicatif": {
+		"présent": {
+			"je": "chéris",
+			"tu": "chéris",
+			"il/elle": "chérit",
+			"nous": "chérissons",
+			"vous": "chérissez",
+			"ils/elles": "chérissent"
+		},
+		"imparfait": {
+			"je": "chérissais",
+			"tu": "chérissais",
+			"il/elle": "chérissait",
+			"nous": "chérissions",
+			"vous": "chérissiez",
+			"ils/elles": "chérissaient"
+		},
+		"futur": {
+			"je": "chérirai",
+			"tu": "chériras",
+			"il/elle": "chérira",
+			"nous": "chérirons",
+			"vous": "chérirez",
+			"ils/elles": "chériront"
+		},
+		"passé simple": {
+			"je": "chéris",
+			"tu": "chéris",
+			"il/elle": "chérit",
+			"nous": "chérîmes",
+			"vous": "chérîtes",
+			"ils/elles": "chérirent"
+		},
+		"passé composé": {
+			"j'": "ai chéri",
+			"tu": "as chéri",
+			"il/elle": "a chéri",
+			"nous": "avons chéri",
+			"vous": "avez chéri",
+			"ils/elles": "ont chéri"
+		},
+		"plus-que-parfait": {
+			"j'": "avais chéri",
+			"tu": "avais chéri",
+			"il/elle": "avait chéri",
+			"nous": "avions chéri",
+			"vous": "aviez chéri",
+			"ils/elles": "avaient chéri"
+		},
+		"passé antérieur": {
+			"j'": "eus chéri",
+			"tu": "eus chéri",
+			"il/elle": "eut chéri",
+			"nous": "eûmes chéri",
+			"vous": "eûtes chéri",
+			"ils/elles": "eurent chéri"
+		},
+		"futur antérieur": {
+			"j'": "aurai chéri",
+			"tu": "auras chéri",
+			"il/elle": "aura chéri",
+			"nous": "aurons chéri",
+			"vous": "aurez chéri",
+			"ils/elles": "auront chéri"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous chérissiez",
+			"qu'il/elle": "chérisse",
+			"qu'ils/elles": "chérissent"
+		},
+		"imparfait": {
+			"que": "vous chérissiez",
+			"qu'il/elle": "chérît",
+			"qu'ils/elles": "chérissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse chéri",
+			"que": "vous eussiez chéri",
+			"qu'il/elle": "eût chéri",
+			"qu'ils/elles": "eussent chéri"
+		},
+		"passé": {
+			"j'": "aie chéri",
+			"que": "vous ayez chéri",
+			"qu'il/elle": "ait chéri",
+			"qu'ils/elles": "aient chéri"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "chérirais",
+			"tu": "chérirais",
+			"il/elle": "chérirait",
+			"nous": "chéririons",
+			"vous": "chéririez",
+			"ils/elles": "chériraient"
+		},
+		"passé première forme": {
+			"j'": "aurais chéri",
+			"tu": "aurais chéri",
+			"il/elle": "aurait chéri",
+			"nous": "aurions chéri",
+			"vous": "auriez chéri",
+			"ils/elles": "auraient chéri"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse chéri",
+			"tu": "eusses chéri",
+			"il/elle": "eût chéri",
+			"nous": "eussions chéri",
+			"vous": "eussiez chéri",
+			"ils/elles": "eussent chéri"
+		}
+	},
+	"participe": {
+		"présent": { "chérissant": "" },
+		"passé composé": { "ayant": "chéri" },
+		"passé": {
+			"masc.sg.:": "chéri",
+			"masc.pl.:": "chéris",
+			"fém.sg.:": "chérie",
+			"fém.pl.:": "chéries"
+		}
+	},
+	"imperatif": {
+		"présent": { "chéris": "", "chérissons": "", "chérissez": "" },
+		"passé": { "aie": "chéri", "ayons": "chéri", "ayez": "chéri" }
+	},
+	"infinitif": { "présent": { "chérir": "" }, "passé": { "avoir": "chéri" } }
+}

@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "meet; meet with; encounter; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se rencontrer/ne pas rencontrer/ne pas se rencontrer",
+	"indicatif": {
+		"présent": {
+			"je": "rencontre",
+			"tu": "rencontres",
+			"il/elle": "rencontre",
+			"nous": "rencontrons",
+			"vous": "rencontrez",
+			"ils/elles": "rencontrent"
+		},
+		"imparfait": {
+			"je": "rencontrais",
+			"tu": "rencontrais",
+			"il/elle": "rencontrait",
+			"nous": "rencontrions",
+			"vous": "rencontriez",
+			"ils/elles": "rencontraient"
+		},
+		"futur": {
+			"je": "rencontrerai",
+			"tu": "rencontreras",
+			"il/elle": "rencontrera",
+			"nous": "rencontrerons",
+			"vous": "rencontrerez",
+			"ils/elles": "rencontreront"
+		},
+		"passé simple": {
+			"je": "rencontrai",
+			"tu": "rencontras",
+			"il/elle": "rencontra",
+			"nous": "rencontrâmes",
+			"vous": "rencontrâtes",
+			"ils/elles": "rencontrèrent"
+		},
+		"passé composé": {
+			"j'": "ai rencontré",
+			"tu": "as rencontré",
+			"il/elle": "a rencontré",
+			"nous": "avons rencontré",
+			"vous": "avez rencontré",
+			"ils/elles": "ont rencontré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais rencontré",
+			"tu": "avais rencontré",
+			"il/elle": "avait rencontré",
+			"nous": "avions rencontré",
+			"vous": "aviez rencontré",
+			"ils/elles": "avaient rencontré"
+		},
+		"passé antérieur": {
+			"j'": "eus rencontré",
+			"tu": "eus rencontré",
+			"il/elle": "eut rencontré",
+			"nous": "eûmes rencontré",
+			"vous": "eûtes rencontré",
+			"ils/elles": "eurent rencontré"
+		},
+		"futur antérieur": {
+			"j'": "aurai rencontré",
+			"tu": "auras rencontré",
+			"il/elle": "aura rencontré",
+			"nous": "aurons rencontré",
+			"vous": "aurez rencontré",
+			"ils/elles": "auront rencontré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous rencontriez",
+			"qu'il/elle": "rencontre",
+			"qu'ils/elles": "rencontrent"
+		},
+		"imparfait": {
+			"que": "vous rencontrassiez",
+			"qu'il/elle": "rencontrât",
+			"qu'ils/elles": "rencontrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse rencontré",
+			"que": "vous eussiez rencontré",
+			"qu'il/elle": "eût rencontré",
+			"qu'ils/elles": "eussent rencontré"
+		},
+		"passé": {
+			"j'": "aie rencontré",
+			"que": "vous ayez rencontré",
+			"qu'il/elle": "ait rencontré",
+			"qu'ils/elles": "aient rencontré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "rencontrerais",
+			"tu": "rencontrerais",
+			"il/elle": "rencontrerait",
+			"nous": "rencontrerions",
+			"vous": "rencontreriez",
+			"ils/elles": "rencontreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais rencontré",
+			"tu": "aurais rencontré",
+			"il/elle": "aurait rencontré",
+			"nous": "aurions rencontré",
+			"vous": "auriez rencontré",
+			"ils/elles": "auraient rencontré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse rencontré",
+			"tu": "eusses rencontré",
+			"il/elle": "eût rencontré",
+			"nous": "eussions rencontré",
+			"vous": "eussiez rencontré",
+			"ils/elles": "eussent rencontré"
+		}
+	},
+	"participe": {
+		"présent": { "rencontrant": "" },
+		"passé composé": { "ayant": "rencontré" },
+		"passé": {
+			"masc.sg.:": "rencontré",
+			"masc.pl.:": "rencontrés",
+			"fém.sg.:": "rencontrée",
+			"fém.pl.:": "rencontrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "rencontre": "", "rencontrons": "", "rencontrez": "" },
+		"passé": { "aie": "rencontré", "ayons": "rencontré", "ayez": "rencontré" }
+	},
+	"infinitif": {
+		"présent": { "rencontrer": "" },
+		"passé": { "avoir": "rencontré" }
+	}
+}

@@ -1,0 +1,145 @@
+{
+	"name": "attendre",
+	"definition": "match; correspond; reflect; ...",
+	"model": "attendre",
+	"auxiliary": "avoir",
+	"otherForms": "se correspondre/ne pas correspondre/ne pas se correspondre",
+	"indicatif": {
+		"présent": {
+			"je": "corresponds",
+			"tu": "corresponds",
+			"il/elle": "correspond",
+			"nous": "correspondons",
+			"vous": "correspondez",
+			"ils/elles": "correspondent"
+		},
+		"imparfait": {
+			"je": "correspondais",
+			"tu": "correspondais",
+			"il/elle": "correspondait",
+			"nous": "correspondions",
+			"vous": "correspondiez",
+			"ils/elles": "correspondaient"
+		},
+		"futur": {
+			"je": "correspondrai",
+			"tu": "correspondras",
+			"il/elle": "correspondra",
+			"nous": "correspondrons",
+			"vous": "correspondrez",
+			"ils/elles": "correspondront"
+		},
+		"passé simple": {
+			"je": "correspondis",
+			"tu": "correspondis",
+			"il/elle": "correspondit",
+			"nous": "correspondîmes",
+			"vous": "correspondîtes",
+			"ils/elles": "correspondirent"
+		},
+		"passé composé": {
+			"j'": "ai correspondu",
+			"tu": "as correspondu",
+			"il/elle": "a correspondu",
+			"nous": "avons correspondu",
+			"vous": "avez correspondu",
+			"ils/elles": "ont correspondu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais correspondu",
+			"tu": "avais correspondu",
+			"il/elle": "avait correspondu",
+			"nous": "avions correspondu",
+			"vous": "aviez correspondu",
+			"ils/elles": "avaient correspondu"
+		},
+		"passé antérieur": {
+			"j'": "eus correspondu",
+			"tu": "eus correspondu",
+			"il/elle": "eut correspondu",
+			"nous": "eûmes correspondu",
+			"vous": "eûtes correspondu",
+			"ils/elles": "eurent correspondu"
+		},
+		"futur antérieur": {
+			"j'": "aurai correspondu",
+			"tu": "auras correspondu",
+			"il/elle": "aura correspondu",
+			"nous": "aurons correspondu",
+			"vous": "aurez correspondu",
+			"ils/elles": "auront correspondu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous correspondiez",
+			"qu'il/elle": "corresponde",
+			"qu'ils/elles": "correspondent"
+		},
+		"imparfait": {
+			"que": "vous correspondissiez",
+			"qu'il/elle": "correspondît",
+			"qu'ils/elles": "correspondissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse correspondu",
+			"que": "vous eussiez correspondu",
+			"qu'il/elle": "eût correspondu",
+			"qu'ils/elles": "eussent correspondu"
+		},
+		"passé": {
+			"j'": "aie correspondu",
+			"que": "vous ayez correspondu",
+			"qu'il/elle": "ait correspondu",
+			"qu'ils/elles": "aient correspondu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "correspondrais",
+			"tu": "correspondrais",
+			"il/elle": "correspondrait",
+			"nous": "correspondrions",
+			"vous": "correspondriez",
+			"ils/elles": "correspondraient"
+		},
+		"passé première forme": {
+			"j'": "aurais correspondu",
+			"tu": "aurais correspondu",
+			"il/elle": "aurait correspondu",
+			"nous": "aurions correspondu",
+			"vous": "auriez correspondu",
+			"ils/elles": "auraient correspondu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse correspondu",
+			"tu": "eusses correspondu",
+			"il/elle": "eût correspondu",
+			"nous": "eussions correspondu",
+			"vous": "eussiez correspondu",
+			"ils/elles": "eussent correspondu"
+		}
+	},
+	"participe": {
+		"présent": { "correspondant": "" },
+		"passé composé": { "ayant": "correspondu" },
+		"passé": {
+			"masc.sg.:": "correspondu",
+			"masc.pl.:": "correspondus",
+			"fém.sg.:": "correspondue",
+			"fém.pl.:": "correspondues"
+		}
+	},
+	"imperatif": {
+		"présent": { "corresponds": "", "correspondons": "", "correspondez": "" },
+		"passé": {
+			"aie": "correspondu",
+			"ayons": "correspondu",
+			"ayez": "correspondu"
+		}
+	},
+	"infinitif": {
+		"présent": { "correspondre": "" },
+		"passé": { "avoir": "correspondu" }
+	}
+}

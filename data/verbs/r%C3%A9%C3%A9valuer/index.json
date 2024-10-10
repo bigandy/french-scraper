@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "reassess; re-evaluate; reevaluate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se réévaluer/ne pas réévaluer/ne pas se réévaluer",
+	"indicatif": {
+		"présent": {
+			"je": "réévalue",
+			"tu": "réévalues",
+			"il/elle": "réévalue",
+			"nous": "réévaluons",
+			"vous": "réévaluez",
+			"ils/elles": "réévaluent"
+		},
+		"imparfait": {
+			"je": "réévaluais",
+			"tu": "réévaluais",
+			"il/elle": "réévaluait",
+			"nous": "réévaluions",
+			"vous": "réévaluiez",
+			"ils/elles": "réévaluaient"
+		},
+		"futur": {
+			"je": "réévaluerai",
+			"tu": "réévalueras",
+			"il/elle": "réévaluera",
+			"nous": "réévaluerons",
+			"vous": "réévaluerez",
+			"ils/elles": "réévalueront"
+		},
+		"passé simple": {
+			"je": "réévaluai",
+			"tu": "réévaluas",
+			"il/elle": "réévalua",
+			"nous": "réévaluâmes",
+			"vous": "réévaluâtes",
+			"ils/elles": "réévaluèrent"
+		},
+		"passé composé": {
+			"j'": "ai réévalué",
+			"tu": "as réévalué",
+			"il/elle": "a réévalué",
+			"nous": "avons réévalué",
+			"vous": "avez réévalué",
+			"ils/elles": "ont réévalué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais réévalué",
+			"tu": "avais réévalué",
+			"il/elle": "avait réévalué",
+			"nous": "avions réévalué",
+			"vous": "aviez réévalué",
+			"ils/elles": "avaient réévalué"
+		},
+		"passé antérieur": {
+			"j'": "eus réévalué",
+			"tu": "eus réévalué",
+			"il/elle": "eut réévalué",
+			"nous": "eûmes réévalué",
+			"vous": "eûtes réévalué",
+			"ils/elles": "eurent réévalué"
+		},
+		"futur antérieur": {
+			"j'": "aurai réévalué",
+			"tu": "auras réévalué",
+			"il/elle": "aura réévalué",
+			"nous": "aurons réévalué",
+			"vous": "aurez réévalué",
+			"ils/elles": "auront réévalué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous réévaluiez",
+			"qu'il/elle": "réévalue",
+			"qu'ils/elles": "réévaluent"
+		},
+		"imparfait": {
+			"que": "vous réévaluassiez",
+			"qu'il/elle": "réévaluât",
+			"qu'ils/elles": "réévaluassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse réévalué",
+			"que": "vous eussiez réévalué",
+			"qu'il/elle": "eût réévalué",
+			"qu'ils/elles": "eussent réévalué"
+		},
+		"passé": {
+			"j'": "aie réévalué",
+			"que": "vous ayez réévalué",
+			"qu'il/elle": "ait réévalué",
+			"qu'ils/elles": "aient réévalué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "réévaluerais",
+			"tu": "réévaluerais",
+			"il/elle": "réévaluerait",
+			"nous": "réévaluerions",
+			"vous": "réévalueriez",
+			"ils/elles": "réévalueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais réévalué",
+			"tu": "aurais réévalué",
+			"il/elle": "aurait réévalué",
+			"nous": "aurions réévalué",
+			"vous": "auriez réévalué",
+			"ils/elles": "auraient réévalué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse réévalué",
+			"tu": "eusses réévalué",
+			"il/elle": "eût réévalué",
+			"nous": "eussions réévalué",
+			"vous": "eussiez réévalué",
+			"ils/elles": "eussent réévalué"
+		}
+	},
+	"participe": {
+		"présent": { "réévaluant": "" },
+		"passé composé": { "ayant": "réévalué" },
+		"passé": {
+			"masc.sg.:": "réévalué",
+			"masc.pl.:": "réévalués",
+			"fém.sg.:": "réévaluée",
+			"fém.pl.:": "réévaluées"
+		}
+	},
+	"imperatif": {
+		"présent": { "réévalue": "", "réévaluons": "", "réévaluez": "" },
+		"passé": { "aie": "réévalué", "ayons": "réévalué", "ayez": "réévalué" }
+	},
+	"infinitif": {
+		"présent": { "réévaluer": "" },
+		"passé": { "avoir": "réévalué" }
+	}
+}

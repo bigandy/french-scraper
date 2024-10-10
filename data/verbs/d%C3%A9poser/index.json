@@ -1,0 +1,149 @@
+{
+	"name": "marcher",
+	"definition": "drag and drop; drag-and-drop; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se glisser-déposer/ne pas glisser-déposer/ne pas se glisser-déposer",
+	"indicatif": {
+		"présent": {
+			"je": "glisser-dépose",
+			"tu": "glisser-déposes",
+			"il/elle": "glisser-dépose",
+			"nous": "glisser-déposons",
+			"vous": "glisser-déposez",
+			"ils/elles": "glisser-déposent"
+		},
+		"imparfait": {
+			"je": "glisser-déposais",
+			"tu": "glisser-déposais",
+			"il/elle": "glisser-déposait",
+			"nous": "glisser-déposions",
+			"vous": "glisser-déposiez",
+			"ils/elles": "glisser-déposaient"
+		},
+		"futur": {
+			"je": "glisser-déposerai",
+			"tu": "glisser-déposeras",
+			"il/elle": "glisser-déposera",
+			"nous": "glisser-déposerons",
+			"vous": "glisser-déposerez",
+			"ils/elles": "glisser-déposeront"
+		},
+		"passé simple": {
+			"je": "glisser-déposai",
+			"tu": "glisser-déposas",
+			"il/elle": "glisser-déposa",
+			"nous": "glisser-déposâmes",
+			"vous": "glisser-déposâtes",
+			"ils/elles": "glisser-déposèrent"
+		},
+		"passé composé": {
+			"j'": "ai glisser-déposé",
+			"tu": "as glisser-déposé",
+			"il/elle": "a glisser-déposé",
+			"nous": "avons glisser-déposé",
+			"vous": "avez glisser-déposé",
+			"ils/elles": "ont glisser-déposé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais glisser-déposé",
+			"tu": "avais glisser-déposé",
+			"il/elle": "avait glisser-déposé",
+			"nous": "avions glisser-déposé",
+			"vous": "aviez glisser-déposé",
+			"ils/elles": "avaient glisser-déposé"
+		},
+		"passé antérieur": {
+			"j'": "eus glisser-déposé",
+			"tu": "eus glisser-déposé",
+			"il/elle": "eut glisser-déposé",
+			"nous": "eûmes glisser-déposé",
+			"vous": "eûtes glisser-déposé",
+			"ils/elles": "eurent glisser-déposé"
+		},
+		"futur antérieur": {
+			"j'": "aurai glisser-déposé",
+			"tu": "auras glisser-déposé",
+			"il/elle": "aura glisser-déposé",
+			"nous": "aurons glisser-déposé",
+			"vous": "aurez glisser-déposé",
+			"ils/elles": "auront glisser-déposé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous glisser-déposiez",
+			"qu'il/elle": "glisser-dépose",
+			"qu'ils/elles": "glisser-déposent"
+		},
+		"imparfait": {
+			"que": "vous glisser-déposassiez",
+			"qu'il/elle": "glisser-déposât",
+			"qu'ils/elles": "glisser-déposassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse glisser-déposé",
+			"que": "vous eussiez glisser-déposé",
+			"qu'il/elle": "eût glisser-déposé",
+			"qu'ils/elles": "eussent glisser-déposé"
+		},
+		"passé": {
+			"j'": "aie glisser-déposé",
+			"que": "vous ayez glisser-déposé",
+			"qu'il/elle": "ait glisser-déposé",
+			"qu'ils/elles": "aient glisser-déposé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "glisser-déposerais",
+			"tu": "glisser-déposerais",
+			"il/elle": "glisser-déposerait",
+			"nous": "glisser-déposerions",
+			"vous": "glisser-déposeriez",
+			"ils/elles": "glisser-déposeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais glisser-déposé",
+			"tu": "aurais glisser-déposé",
+			"il/elle": "aurait glisser-déposé",
+			"nous": "aurions glisser-déposé",
+			"vous": "auriez glisser-déposé",
+			"ils/elles": "auraient glisser-déposé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse glisser-déposé",
+			"tu": "eusses glisser-déposé",
+			"il/elle": "eût glisser-déposé",
+			"nous": "eussions glisser-déposé",
+			"vous": "eussiez glisser-déposé",
+			"ils/elles": "eussent glisser-déposé"
+		}
+	},
+	"participe": {
+		"présent": { "glisser-déposant": "" },
+		"passé composé": { "ayant": "glisser-déposé" },
+		"passé": {
+			"masc.sg.:": "glisser-déposé",
+			"masc.pl.:": "glisser-déposés",
+			"fém.sg.:": "glisser-déposée",
+			"fém.pl.:": "glisser-déposées"
+		}
+	},
+	"imperatif": {
+		"présent": {
+			"glisser-dépose": "",
+			"glisser-déposons": "",
+			"glisser-déposez": ""
+		},
+		"passé": {
+			"aie": "glisser-déposé",
+			"ayons": "glisser-déposé",
+			"ayez": "glisser-déposé"
+		}
+	},
+	"infinitif": {
+		"présent": { "glisser-déposer": "" },
+		"passé": { "avoir": "glisser-déposé" }
+	}
+}

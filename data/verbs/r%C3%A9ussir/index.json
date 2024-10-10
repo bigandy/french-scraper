@@ -1,0 +1,138 @@
+{
+	"name": "finir",
+	"definition": "succeed; be successful; pass; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se réussir/ne pas réussir/ne pas se réussir",
+	"indicatif": {
+		"présent": {
+			"je": "réussis",
+			"tu": "réussis",
+			"il/elle": "réussit",
+			"nous": "réussissons",
+			"vous": "réussissez",
+			"ils/elles": "réussissent"
+		},
+		"imparfait": {
+			"je": "réussissais",
+			"tu": "réussissais",
+			"il/elle": "réussissait",
+			"nous": "réussissions",
+			"vous": "réussissiez",
+			"ils/elles": "réussissaient"
+		},
+		"futur": {
+			"je": "réussirai",
+			"tu": "réussiras",
+			"il/elle": "réussira",
+			"nous": "réussirons",
+			"vous": "réussirez",
+			"ils/elles": "réussiront"
+		},
+		"passé simple": {
+			"je": "réussis",
+			"tu": "réussis",
+			"il/elle": "réussit",
+			"nous": "réussîmes",
+			"vous": "réussîtes",
+			"ils/elles": "réussirent"
+		},
+		"passé composé": {
+			"j'": "ai réussi",
+			"tu": "as réussi",
+			"il/elle": "a réussi",
+			"nous": "avons réussi",
+			"vous": "avez réussi",
+			"ils/elles": "ont réussi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais réussi",
+			"tu": "avais réussi",
+			"il/elle": "avait réussi",
+			"nous": "avions réussi",
+			"vous": "aviez réussi",
+			"ils/elles": "avaient réussi"
+		},
+		"passé antérieur": {
+			"j'": "eus réussi",
+			"tu": "eus réussi",
+			"il/elle": "eut réussi",
+			"nous": "eûmes réussi",
+			"vous": "eûtes réussi",
+			"ils/elles": "eurent réussi"
+		},
+		"futur antérieur": {
+			"j'": "aurai réussi",
+			"tu": "auras réussi",
+			"il/elle": "aura réussi",
+			"nous": "aurons réussi",
+			"vous": "aurez réussi",
+			"ils/elles": "auront réussi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous réussissiez",
+			"qu'il/elle": "réussisse",
+			"qu'ils/elles": "réussissent"
+		},
+		"imparfait": {
+			"que": "vous réussissiez",
+			"qu'il/elle": "réussît",
+			"qu'ils/elles": "réussissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse réussi",
+			"que": "vous eussiez réussi",
+			"qu'il/elle": "eût réussi",
+			"qu'ils/elles": "eussent réussi"
+		},
+		"passé": {
+			"j'": "aie réussi",
+			"que": "vous ayez réussi",
+			"qu'il/elle": "ait réussi",
+			"qu'ils/elles": "aient réussi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "réussirais",
+			"tu": "réussirais",
+			"il/elle": "réussirait",
+			"nous": "réussirions",
+			"vous": "réussiriez",
+			"ils/elles": "réussiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais réussi",
+			"tu": "aurais réussi",
+			"il/elle": "aurait réussi",
+			"nous": "aurions réussi",
+			"vous": "auriez réussi",
+			"ils/elles": "auraient réussi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse réussi",
+			"tu": "eusses réussi",
+			"il/elle": "eût réussi",
+			"nous": "eussions réussi",
+			"vous": "eussiez réussi",
+			"ils/elles": "eussent réussi"
+		}
+	},
+	"participe": {
+		"présent": { "réussissant": "" },
+		"passé composé": { "ayant": "réussi" },
+		"passé": {
+			"masc.sg.:": "réussi",
+			"masc.pl.:": "réussis",
+			"fém.sg.:": "réussie",
+			"fém.pl.:": "réussies"
+		}
+	},
+	"imperatif": {
+		"présent": { "réussis": "", "réussissons": "", "réussissez": "" },
+		"passé": { "aie": "réussi", "ayons": "réussi", "ayez": "réussi" }
+	},
+	"infinitif": { "présent": { "réussir": "" }, "passé": { "avoir": "réussi" } }
+}

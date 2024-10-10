@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "leave; quit; exit; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se quitter/ne pas quitter/ne pas se quitter",
+	"indicatif": {
+		"présent": {
+			"je": "quitte",
+			"tu": "quittes",
+			"il/elle": "quitte",
+			"nous": "quittons",
+			"vous": "quittez",
+			"ils/elles": "quittent"
+		},
+		"imparfait": {
+			"je": "quittais",
+			"tu": "quittais",
+			"il/elle": "quittait",
+			"nous": "quittions",
+			"vous": "quittiez",
+			"ils/elles": "quittaient"
+		},
+		"futur": {
+			"je": "quitterai",
+			"tu": "quitteras",
+			"il/elle": "quittera",
+			"nous": "quitterons",
+			"vous": "quitterez",
+			"ils/elles": "quitteront"
+		},
+		"passé simple": {
+			"je": "quittai",
+			"tu": "quittas",
+			"il/elle": "quitta",
+			"nous": "quittâmes",
+			"vous": "quittâtes",
+			"ils/elles": "quittèrent"
+		},
+		"passé composé": {
+			"j'": "ai quitté",
+			"tu": "as quitté",
+			"il/elle": "a quitté",
+			"nous": "avons quitté",
+			"vous": "avez quitté",
+			"ils/elles": "ont quitté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais quitté",
+			"tu": "avais quitté",
+			"il/elle": "avait quitté",
+			"nous": "avions quitté",
+			"vous": "aviez quitté",
+			"ils/elles": "avaient quitté"
+		},
+		"passé antérieur": {
+			"j'": "eus quitté",
+			"tu": "eus quitté",
+			"il/elle": "eut quitté",
+			"nous": "eûmes quitté",
+			"vous": "eûtes quitté",
+			"ils/elles": "eurent quitté"
+		},
+		"futur antérieur": {
+			"j'": "aurai quitté",
+			"tu": "auras quitté",
+			"il/elle": "aura quitté",
+			"nous": "aurons quitté",
+			"vous": "aurez quitté",
+			"ils/elles": "auront quitté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous quittiez",
+			"qu'il/elle": "quitte",
+			"qu'ils/elles": "quittent"
+		},
+		"imparfait": {
+			"que": "vous quittassiez",
+			"qu'il/elle": "quittât",
+			"qu'ils/elles": "quittassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse quitté",
+			"que": "vous eussiez quitté",
+			"qu'il/elle": "eût quitté",
+			"qu'ils/elles": "eussent quitté"
+		},
+		"passé": {
+			"j'": "aie quitté",
+			"que": "vous ayez quitté",
+			"qu'il/elle": "ait quitté",
+			"qu'ils/elles": "aient quitté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "quitterais",
+			"tu": "quitterais",
+			"il/elle": "quitterait",
+			"nous": "quitterions",
+			"vous": "quitteriez",
+			"ils/elles": "quitteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais quitté",
+			"tu": "aurais quitté",
+			"il/elle": "aurait quitté",
+			"nous": "aurions quitté",
+			"vous": "auriez quitté",
+			"ils/elles": "auraient quitté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse quitté",
+			"tu": "eusses quitté",
+			"il/elle": "eût quitté",
+			"nous": "eussions quitté",
+			"vous": "eussiez quitté",
+			"ils/elles": "eussent quitté"
+		}
+	},
+	"participe": {
+		"présent": { "quittant": "" },
+		"passé composé": { "ayant": "quitté" },
+		"passé": {
+			"masc.sg.:": "quitté",
+			"masc.pl.:": "quittés",
+			"fém.sg.:": "quittée",
+			"fém.pl.:": "quittées"
+		}
+	},
+	"imperatif": {
+		"présent": { "quitte": "", "quittons": "", "quittez": "" },
+		"passé": { "aie": "quitté", "ayons": "quitté", "ayez": "quitté" }
+	},
+	"infinitif": { "présent": { "quitter": "" }, "passé": { "avoir": "quitté" } }
+}

@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "let; leave; allow; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se laisser/ne pas laisser/ne pas se laisser",
+	"indicatif": {
+		"présent": {
+			"je": "laisse",
+			"tu": "laisses",
+			"il/elle": "laisse",
+			"nous": "laissons",
+			"vous": "laissez",
+			"ils/elles": "laissent"
+		},
+		"imparfait": {
+			"je": "laissais",
+			"tu": "laissais",
+			"il/elle": "laissait",
+			"nous": "laissions",
+			"vous": "laissiez",
+			"ils/elles": "laissaient"
+		},
+		"futur": {
+			"je": "laisserai",
+			"tu": "laisseras",
+			"il/elle": "laissera",
+			"nous": "laisserons",
+			"vous": "laisserez",
+			"ils/elles": "laisseront"
+		},
+		"passé simple": {
+			"je": "laissai",
+			"tu": "laissas",
+			"il/elle": "laissa",
+			"nous": "laissâmes",
+			"vous": "laissâtes",
+			"ils/elles": "laissèrent"
+		},
+		"passé composé": {
+			"j'": "ai laissé",
+			"tu": "as laissé",
+			"il/elle": "a laissé",
+			"nous": "avons laissé",
+			"vous": "avez laissé",
+			"ils/elles": "ont laissé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais laissé",
+			"tu": "avais laissé",
+			"il/elle": "avait laissé",
+			"nous": "avions laissé",
+			"vous": "aviez laissé",
+			"ils/elles": "avaient laissé"
+		},
+		"passé antérieur": {
+			"j'": "eus laissé",
+			"tu": "eus laissé",
+			"il/elle": "eut laissé",
+			"nous": "eûmes laissé",
+			"vous": "eûtes laissé",
+			"ils/elles": "eurent laissé"
+		},
+		"futur antérieur": {
+			"j'": "aurai laissé",
+			"tu": "auras laissé",
+			"il/elle": "aura laissé",
+			"nous": "aurons laissé",
+			"vous": "aurez laissé",
+			"ils/elles": "auront laissé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous laissiez",
+			"qu'il/elle": "laisse",
+			"qu'ils/elles": "laissent"
+		},
+		"imparfait": {
+			"que": "vous laissassiez",
+			"qu'il/elle": "laissât",
+			"qu'ils/elles": "laissassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse laissé",
+			"que": "vous eussiez laissé",
+			"qu'il/elle": "eût laissé",
+			"qu'ils/elles": "eussent laissé"
+		},
+		"passé": {
+			"j'": "aie laissé",
+			"que": "vous ayez laissé",
+			"qu'il/elle": "ait laissé",
+			"qu'ils/elles": "aient laissé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "laisserais",
+			"tu": "laisserais",
+			"il/elle": "laisserait",
+			"nous": "laisserions",
+			"vous": "laisseriez",
+			"ils/elles": "laisseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais laissé",
+			"tu": "aurais laissé",
+			"il/elle": "aurait laissé",
+			"nous": "aurions laissé",
+			"vous": "auriez laissé",
+			"ils/elles": "auraient laissé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse laissé",
+			"tu": "eusses laissé",
+			"il/elle": "eût laissé",
+			"nous": "eussions laissé",
+			"vous": "eussiez laissé",
+			"ils/elles": "eussent laissé"
+		}
+	},
+	"participe": {
+		"présent": { "laissant": "" },
+		"passé composé": { "ayant": "laissé" },
+		"passé": {
+			"masc.sg.:": "laissé",
+			"masc.pl.:": "laissés",
+			"fém.sg.:": "laissée",
+			"fém.pl.:": "laissées"
+		}
+	},
+	"imperatif": {
+		"présent": { "laisse": "", "laissons": "", "laissez": "" },
+		"passé": { "aie": "laissé", "ayons": "laissé", "ayez": "laissé" }
+	},
+	"infinitif": { "présent": { "laisser": "" }, "passé": { "avoir": "laissé" } }
+}

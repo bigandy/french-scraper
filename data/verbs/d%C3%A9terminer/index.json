@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "determine; identify; assess; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se déterminer/ne pas déterminer/ne pas se déterminer",
+	"indicatif": {
+		"présent": {
+			"je": "détermine",
+			"tu": "détermines",
+			"il/elle": "détermine",
+			"nous": "déterminons",
+			"vous": "déterminez",
+			"ils/elles": "déterminent"
+		},
+		"imparfait": {
+			"je": "déterminais",
+			"tu": "déterminais",
+			"il/elle": "déterminait",
+			"nous": "déterminions",
+			"vous": "déterminiez",
+			"ils/elles": "déterminaient"
+		},
+		"futur": {
+			"je": "déterminerai",
+			"tu": "détermineras",
+			"il/elle": "déterminera",
+			"nous": "déterminerons",
+			"vous": "déterminerez",
+			"ils/elles": "détermineront"
+		},
+		"passé simple": {
+			"je": "déterminai",
+			"tu": "déterminas",
+			"il/elle": "détermina",
+			"nous": "déterminâmes",
+			"vous": "déterminâtes",
+			"ils/elles": "déterminèrent"
+		},
+		"passé composé": {
+			"j'": "ai déterminé",
+			"tu": "as déterminé",
+			"il/elle": "a déterminé",
+			"nous": "avons déterminé",
+			"vous": "avez déterminé",
+			"ils/elles": "ont déterminé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais déterminé",
+			"tu": "avais déterminé",
+			"il/elle": "avait déterminé",
+			"nous": "avions déterminé",
+			"vous": "aviez déterminé",
+			"ils/elles": "avaient déterminé"
+		},
+		"passé antérieur": {
+			"j'": "eus déterminé",
+			"tu": "eus déterminé",
+			"il/elle": "eut déterminé",
+			"nous": "eûmes déterminé",
+			"vous": "eûtes déterminé",
+			"ils/elles": "eurent déterminé"
+		},
+		"futur antérieur": {
+			"j'": "aurai déterminé",
+			"tu": "auras déterminé",
+			"il/elle": "aura déterminé",
+			"nous": "aurons déterminé",
+			"vous": "aurez déterminé",
+			"ils/elles": "auront déterminé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous déterminiez",
+			"qu'il/elle": "détermine",
+			"qu'ils/elles": "déterminent"
+		},
+		"imparfait": {
+			"que": "vous déterminassiez",
+			"qu'il/elle": "déterminât",
+			"qu'ils/elles": "déterminassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse déterminé",
+			"que": "vous eussiez déterminé",
+			"qu'il/elle": "eût déterminé",
+			"qu'ils/elles": "eussent déterminé"
+		},
+		"passé": {
+			"j'": "aie déterminé",
+			"que": "vous ayez déterminé",
+			"qu'il/elle": "ait déterminé",
+			"qu'ils/elles": "aient déterminé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "déterminerais",
+			"tu": "déterminerais",
+			"il/elle": "déterminerait",
+			"nous": "déterminerions",
+			"vous": "détermineriez",
+			"ils/elles": "détermineraient"
+		},
+		"passé première forme": {
+			"j'": "aurais déterminé",
+			"tu": "aurais déterminé",
+			"il/elle": "aurait déterminé",
+			"nous": "aurions déterminé",
+			"vous": "auriez déterminé",
+			"ils/elles": "auraient déterminé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse déterminé",
+			"tu": "eusses déterminé",
+			"il/elle": "eût déterminé",
+			"nous": "eussions déterminé",
+			"vous": "eussiez déterminé",
+			"ils/elles": "eussent déterminé"
+		}
+	},
+	"participe": {
+		"présent": { "déterminant": "" },
+		"passé composé": { "ayant": "déterminé" },
+		"passé": {
+			"masc.sg.:": "déterminé",
+			"masc.pl.:": "déterminés",
+			"fém.sg.:": "déterminée",
+			"fém.pl.:": "déterminées"
+		}
+	},
+	"imperatif": {
+		"présent": { "détermine": "", "déterminons": "", "déterminez": "" },
+		"passé": { "aie": "déterminé", "ayons": "déterminé", "ayez": "déterminé" }
+	},
+	"infinitif": {
+		"présent": { "déterminer": "" },
+		"passé": { "avoir": "déterminé" }
+	}
+}

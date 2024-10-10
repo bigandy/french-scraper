@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "provide; deliver; dispense; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se dispenser/ne pas dispenser/ne pas se dispenser",
+	"indicatif": {
+		"présent": {
+			"je": "dispense",
+			"tu": "dispenses",
+			"il/elle": "dispense",
+			"nous": "dispensons",
+			"vous": "dispensez",
+			"ils/elles": "dispensent"
+		},
+		"imparfait": {
+			"je": "dispensais",
+			"tu": "dispensais",
+			"il/elle": "dispensait",
+			"nous": "dispensions",
+			"vous": "dispensiez",
+			"ils/elles": "dispensaient"
+		},
+		"futur": {
+			"je": "dispenserai",
+			"tu": "dispenseras",
+			"il/elle": "dispensera",
+			"nous": "dispenserons",
+			"vous": "dispenserez",
+			"ils/elles": "dispenseront"
+		},
+		"passé simple": {
+			"je": "dispensai",
+			"tu": "dispensas",
+			"il/elle": "dispensa",
+			"nous": "dispensâmes",
+			"vous": "dispensâtes",
+			"ils/elles": "dispensèrent"
+		},
+		"passé composé": {
+			"j'": "ai dispensé",
+			"tu": "as dispensé",
+			"il/elle": "a dispensé",
+			"nous": "avons dispensé",
+			"vous": "avez dispensé",
+			"ils/elles": "ont dispensé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais dispensé",
+			"tu": "avais dispensé",
+			"il/elle": "avait dispensé",
+			"nous": "avions dispensé",
+			"vous": "aviez dispensé",
+			"ils/elles": "avaient dispensé"
+		},
+		"passé antérieur": {
+			"j'": "eus dispensé",
+			"tu": "eus dispensé",
+			"il/elle": "eut dispensé",
+			"nous": "eûmes dispensé",
+			"vous": "eûtes dispensé",
+			"ils/elles": "eurent dispensé"
+		},
+		"futur antérieur": {
+			"j'": "aurai dispensé",
+			"tu": "auras dispensé",
+			"il/elle": "aura dispensé",
+			"nous": "aurons dispensé",
+			"vous": "aurez dispensé",
+			"ils/elles": "auront dispensé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous dispensiez",
+			"qu'il/elle": "dispense",
+			"qu'ils/elles": "dispensent"
+		},
+		"imparfait": {
+			"que": "vous dispensassiez",
+			"qu'il/elle": "dispensât",
+			"qu'ils/elles": "dispensassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse dispensé",
+			"que": "vous eussiez dispensé",
+			"qu'il/elle": "eût dispensé",
+			"qu'ils/elles": "eussent dispensé"
+		},
+		"passé": {
+			"j'": "aie dispensé",
+			"que": "vous ayez dispensé",
+			"qu'il/elle": "ait dispensé",
+			"qu'ils/elles": "aient dispensé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "dispenserais",
+			"tu": "dispenserais",
+			"il/elle": "dispenserait",
+			"nous": "dispenserions",
+			"vous": "dispenseriez",
+			"ils/elles": "dispenseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais dispensé",
+			"tu": "aurais dispensé",
+			"il/elle": "aurait dispensé",
+			"nous": "aurions dispensé",
+			"vous": "auriez dispensé",
+			"ils/elles": "auraient dispensé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse dispensé",
+			"tu": "eusses dispensé",
+			"il/elle": "eût dispensé",
+			"nous": "eussions dispensé",
+			"vous": "eussiez dispensé",
+			"ils/elles": "eussent dispensé"
+		}
+	},
+	"participe": {
+		"présent": { "dispensant": "" },
+		"passé composé": { "ayant": "dispensé" },
+		"passé": {
+			"masc.sg.:": "dispensé",
+			"masc.pl.:": "dispensés",
+			"fém.sg.:": "dispensée",
+			"fém.pl.:": "dispensées"
+		}
+	},
+	"imperatif": {
+		"présent": { "dispense": "", "dispensons": "", "dispensez": "" },
+		"passé": { "aie": "dispensé", "ayons": "dispensé", "ayez": "dispensé" }
+	},
+	"infinitif": {
+		"présent": { "dispenser": "" },
+		"passé": { "avoir": "dispensé" }
+	}
+}

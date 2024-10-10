@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "climb; rise; increase; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas grimper",
+	"indicatif": {
+		"présent": {
+			"je": "grimpe",
+			"tu": "grimpes",
+			"il/elle": "grimpe",
+			"nous": "grimpons",
+			"vous": "grimpez",
+			"ils/elles": "grimpent"
+		},
+		"imparfait": {
+			"je": "grimpais",
+			"tu": "grimpais",
+			"il/elle": "grimpait",
+			"nous": "grimpions",
+			"vous": "grimpiez",
+			"ils/elles": "grimpaient"
+		},
+		"futur": {
+			"je": "grimperai",
+			"tu": "grimperas",
+			"il/elle": "grimpera",
+			"nous": "grimperons",
+			"vous": "grimperez",
+			"ils/elles": "grimperont"
+		},
+		"passé simple": {
+			"je": "grimpai",
+			"tu": "grimpas",
+			"il/elle": "grimpa",
+			"nous": "grimpâmes",
+			"vous": "grimpâtes",
+			"ils/elles": "grimpèrent"
+		},
+		"passé composé": {
+			"j'": "ai grimpé",
+			"tu": "as grimpé",
+			"il/elle": "a grimpé",
+			"nous": "avons grimpé",
+			"vous": "avez grimpé",
+			"ils/elles": "ont grimpé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais grimpé",
+			"tu": "avais grimpé",
+			"il/elle": "avait grimpé",
+			"nous": "avions grimpé",
+			"vous": "aviez grimpé",
+			"ils/elles": "avaient grimpé"
+		},
+		"passé antérieur": {
+			"j'": "eus grimpé",
+			"tu": "eus grimpé",
+			"il/elle": "eut grimpé",
+			"nous": "eûmes grimpé",
+			"vous": "eûtes grimpé",
+			"ils/elles": "eurent grimpé"
+		},
+		"futur antérieur": {
+			"j'": "aurai grimpé",
+			"tu": "auras grimpé",
+			"il/elle": "aura grimpé",
+			"nous": "aurons grimpé",
+			"vous": "aurez grimpé",
+			"ils/elles": "auront grimpé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous grimpiez",
+			"qu'il/elle": "grimpe",
+			"qu'ils/elles": "grimpent"
+		},
+		"imparfait": {
+			"que": "vous grimpassiez",
+			"qu'il/elle": "grimpât",
+			"qu'ils/elles": "grimpassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse grimpé",
+			"que": "vous eussiez grimpé",
+			"qu'il/elle": "eût grimpé",
+			"qu'ils/elles": "eussent grimpé"
+		},
+		"passé": {
+			"j'": "aie grimpé",
+			"que": "vous ayez grimpé",
+			"qu'il/elle": "ait grimpé",
+			"qu'ils/elles": "aient grimpé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "grimperais",
+			"tu": "grimperais",
+			"il/elle": "grimperait",
+			"nous": "grimperions",
+			"vous": "grimperiez",
+			"ils/elles": "grimperaient"
+		},
+		"passé première forme": {
+			"j'": "aurais grimpé",
+			"tu": "aurais grimpé",
+			"il/elle": "aurait grimpé",
+			"nous": "aurions grimpé",
+			"vous": "auriez grimpé",
+			"ils/elles": "auraient grimpé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse grimpé",
+			"tu": "eusses grimpé",
+			"il/elle": "eût grimpé",
+			"nous": "eussions grimpé",
+			"vous": "eussiez grimpé",
+			"ils/elles": "eussent grimpé"
+		}
+	},
+	"participe": {
+		"présent": { "grimpant": "" },
+		"passé composé": { "ayant": "grimpé" },
+		"passé": {
+			"masc.sg.:": "grimpé",
+			"masc.pl.:": "grimpés",
+			"fém.sg.:": "grimpée",
+			"fém.pl.:": "grimpées"
+		}
+	},
+	"imperatif": {
+		"présent": { "grimpe": "", "grimpons": "", "grimpez": "" },
+		"passé": { "aie": "grimpé", "ayons": "grimpé", "ayez": "grimpé" }
+	},
+	"infinitif": { "présent": { "grimper": "" }, "passé": { "avoir": "grimpé" } }
+}

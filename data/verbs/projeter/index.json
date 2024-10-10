@@ -1,0 +1,141 @@
+{
+	"name": "jeter",
+	"definition": "project; plan; jet; ...",
+	"model": "jeter",
+	"auxiliary": "avoir",
+	"otherForms": "se projeter/ne pas projeter/ne pas se projeter",
+	"indicatif": {
+		"présent": {
+			"je": "projette",
+			"tu": "projettes",
+			"il/elle": "projette",
+			"nous": "projetons",
+			"vous": "projetez",
+			"ils/elles": "projettent"
+		},
+		"imparfait": {
+			"je": "projetais",
+			"tu": "projetais",
+			"il/elle": "projetait",
+			"nous": "projetions",
+			"vous": "projetiez",
+			"ils/elles": "projetaient"
+		},
+		"futur": {
+			"je": "projetterai",
+			"tu": "projetteras",
+			"il/elle": "projettera",
+			"nous": "projetterons",
+			"vous": "projetterez",
+			"ils/elles": "projetteront"
+		},
+		"passé simple": {
+			"je": "projetai",
+			"tu": "projetas",
+			"il/elle": "projeta",
+			"nous": "projetâmes",
+			"vous": "projetâtes",
+			"ils/elles": "projetèrent"
+		},
+		"passé composé": {
+			"j'": "ai projeté",
+			"tu": "as projeté",
+			"il/elle": "a projeté",
+			"nous": "avons projeté",
+			"vous": "avez projeté",
+			"ils/elles": "ont projeté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais projeté",
+			"tu": "avais projeté",
+			"il/elle": "avait projeté",
+			"nous": "avions projeté",
+			"vous": "aviez projeté",
+			"ils/elles": "avaient projeté"
+		},
+		"passé antérieur": {
+			"j'": "eus projeté",
+			"tu": "eus projeté",
+			"il/elle": "eut projeté",
+			"nous": "eûmes projeté",
+			"vous": "eûtes projeté",
+			"ils/elles": "eurent projeté"
+		},
+		"futur antérieur": {
+			"j'": "aurai projeté",
+			"tu": "auras projeté",
+			"il/elle": "aura projeté",
+			"nous": "aurons projeté",
+			"vous": "aurez projeté",
+			"ils/elles": "auront projeté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous projetiez",
+			"qu'il/elle": "projette",
+			"qu'ils/elles": "projettent"
+		},
+		"imparfait": {
+			"que": "vous projetassiez",
+			"qu'il/elle": "projetât",
+			"qu'ils/elles": "projetassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse projeté",
+			"que": "vous eussiez projeté",
+			"qu'il/elle": "eût projeté",
+			"qu'ils/elles": "eussent projeté"
+		},
+		"passé": {
+			"j'": "aie projeté",
+			"que": "vous ayez projeté",
+			"qu'il/elle": "ait projeté",
+			"qu'ils/elles": "aient projeté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "projetterais",
+			"tu": "projetterais",
+			"il/elle": "projetterait",
+			"nous": "projetterions",
+			"vous": "projetteriez",
+			"ils/elles": "projetteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais projeté",
+			"tu": "aurais projeté",
+			"il/elle": "aurait projeté",
+			"nous": "aurions projeté",
+			"vous": "auriez projeté",
+			"ils/elles": "auraient projeté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse projeté",
+			"tu": "eusses projeté",
+			"il/elle": "eût projeté",
+			"nous": "eussions projeté",
+			"vous": "eussiez projeté",
+			"ils/elles": "eussent projeté"
+		}
+	},
+	"participe": {
+		"présent": { "projetant": "" },
+		"passé composé": { "ayant": "projeté" },
+		"passé": {
+			"masc.sg.:": "projeté",
+			"masc.pl.:": "projetés",
+			"fém.sg.:": "projetée",
+			"fém.pl.:": "projetées"
+		}
+	},
+	"imperatif": {
+		"présent": { "projette": "", "projetons": "", "projetez": "" },
+		"passé": { "aie": "projeté", "ayons": "projeté", "ayez": "projeté" }
+	},
+	"infinitif": {
+		"présent": { "projeter": "" },
+		"passé": { "avoir": "projeté" }
+	}
+}

@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "harvest; reap; collect; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se récolter/ne pas récolter/ne pas se récolter",
+	"indicatif": {
+		"présent": {
+			"je": "récolte",
+			"tu": "récoltes",
+			"il/elle": "récolte",
+			"nous": "récoltons",
+			"vous": "récoltez",
+			"ils/elles": "récoltent"
+		},
+		"imparfait": {
+			"je": "récoltais",
+			"tu": "récoltais",
+			"il/elle": "récoltait",
+			"nous": "récoltions",
+			"vous": "récoltiez",
+			"ils/elles": "récoltaient"
+		},
+		"futur": {
+			"je": "récolterai",
+			"tu": "récolteras",
+			"il/elle": "récoltera",
+			"nous": "récolterons",
+			"vous": "récolterez",
+			"ils/elles": "récolteront"
+		},
+		"passé simple": {
+			"je": "récoltai",
+			"tu": "récoltas",
+			"il/elle": "récolta",
+			"nous": "récoltâmes",
+			"vous": "récoltâtes",
+			"ils/elles": "récoltèrent"
+		},
+		"passé composé": {
+			"j'": "ai récolté",
+			"tu": "as récolté",
+			"il/elle": "a récolté",
+			"nous": "avons récolté",
+			"vous": "avez récolté",
+			"ils/elles": "ont récolté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais récolté",
+			"tu": "avais récolté",
+			"il/elle": "avait récolté",
+			"nous": "avions récolté",
+			"vous": "aviez récolté",
+			"ils/elles": "avaient récolté"
+		},
+		"passé antérieur": {
+			"j'": "eus récolté",
+			"tu": "eus récolté",
+			"il/elle": "eut récolté",
+			"nous": "eûmes récolté",
+			"vous": "eûtes récolté",
+			"ils/elles": "eurent récolté"
+		},
+		"futur antérieur": {
+			"j'": "aurai récolté",
+			"tu": "auras récolté",
+			"il/elle": "aura récolté",
+			"nous": "aurons récolté",
+			"vous": "aurez récolté",
+			"ils/elles": "auront récolté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous récoltiez",
+			"qu'il/elle": "récolte",
+			"qu'ils/elles": "récoltent"
+		},
+		"imparfait": {
+			"que": "vous récoltassiez",
+			"qu'il/elle": "récoltât",
+			"qu'ils/elles": "récoltassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse récolté",
+			"que": "vous eussiez récolté",
+			"qu'il/elle": "eût récolté",
+			"qu'ils/elles": "eussent récolté"
+		},
+		"passé": {
+			"j'": "aie récolté",
+			"que": "vous ayez récolté",
+			"qu'il/elle": "ait récolté",
+			"qu'ils/elles": "aient récolté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "récolterais",
+			"tu": "récolterais",
+			"il/elle": "récolterait",
+			"nous": "récolterions",
+			"vous": "récolteriez",
+			"ils/elles": "récolteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais récolté",
+			"tu": "aurais récolté",
+			"il/elle": "aurait récolté",
+			"nous": "aurions récolté",
+			"vous": "auriez récolté",
+			"ils/elles": "auraient récolté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse récolté",
+			"tu": "eusses récolté",
+			"il/elle": "eût récolté",
+			"nous": "eussions récolté",
+			"vous": "eussiez récolté",
+			"ils/elles": "eussent récolté"
+		}
+	},
+	"participe": {
+		"présent": { "récoltant": "" },
+		"passé composé": { "ayant": "récolté" },
+		"passé": {
+			"masc.sg.:": "récolté",
+			"masc.pl.:": "récoltés",
+			"fém.sg.:": "récoltée",
+			"fém.pl.:": "récoltées"
+		}
+	},
+	"imperatif": {
+		"présent": { "récolte": "", "récoltons": "", "récoltez": "" },
+		"passé": { "aie": "récolté", "ayons": "récolté", "ayez": "récolté" }
+	},
+	"infinitif": {
+		"présent": { "récolter": "" },
+		"passé": { "avoir": "récolté" }
+	}
+}

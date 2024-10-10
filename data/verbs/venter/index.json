@@ -1,0 +1,35 @@
+{
+	"name": "venter",
+	"definition": "blow; be windy; ...",
+	"model": "venter",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas venter",
+	"indicatif": {
+		"présent": { "il": "vente" },
+		"imparfait": { "il": "ventait" },
+		"futur": { "il": "ventera" },
+		"passé simple": { "il": "venta" },
+		"passé composé": { "il": "a venté" },
+		"plus-que-parfait": { "il": "avait venté" },
+		"passé antérieur": { "il": "eut venté" },
+		"futur antérieur": { "il": "aura venté" }
+	},
+	"subjonctif": {
+		"présent": { "qu'il": "vente" },
+		"imparfait": { "qu'il": "ventât" },
+		"plus-que-parfait": { "qu'il": "eût venté" },
+		"passé": { "qu'il": "ait venté" }
+	},
+	"conditionnel": {
+		"présent": { "il": "venterait" },
+		"passé première forme": { "il": "aurait venté" },
+		"passé deuxième forme": { "il": "eût venté" }
+	},
+	"participe": {
+		"présent": { "ventant": "" },
+		"passé composé": {},
+		"passé": { "venté": "" }
+	},
+	"imperatif": { "présent": {}, "passé": {} },
+	"infinitif": { "présent": { "venter": "" }, "passé": { "avoir": "venté" } }
+}

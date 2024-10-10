@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "calm down; calm; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se calmer/ne pas calmer/ne pas se calmer",
+	"indicatif": {
+		"présent": {
+			"je": "calme",
+			"tu": "calmes",
+			"il/elle": "calme",
+			"nous": "calmons",
+			"vous": "calmez",
+			"ils/elles": "calment"
+		},
+		"imparfait": {
+			"je": "calmais",
+			"tu": "calmais",
+			"il/elle": "calmait",
+			"nous": "calmions",
+			"vous": "calmiez",
+			"ils/elles": "calmaient"
+		},
+		"futur": {
+			"je": "calmerai",
+			"tu": "calmeras",
+			"il/elle": "calmera",
+			"nous": "calmerons",
+			"vous": "calmerez",
+			"ils/elles": "calmeront"
+		},
+		"passé simple": {
+			"je": "calmai",
+			"tu": "calmas",
+			"il/elle": "calma",
+			"nous": "calmâmes",
+			"vous": "calmâtes",
+			"ils/elles": "calmèrent"
+		},
+		"passé composé": {
+			"j'": "ai calmé",
+			"tu": "as calmé",
+			"il/elle": "a calmé",
+			"nous": "avons calmé",
+			"vous": "avez calmé",
+			"ils/elles": "ont calmé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais calmé",
+			"tu": "avais calmé",
+			"il/elle": "avait calmé",
+			"nous": "avions calmé",
+			"vous": "aviez calmé",
+			"ils/elles": "avaient calmé"
+		},
+		"passé antérieur": {
+			"j'": "eus calmé",
+			"tu": "eus calmé",
+			"il/elle": "eut calmé",
+			"nous": "eûmes calmé",
+			"vous": "eûtes calmé",
+			"ils/elles": "eurent calmé"
+		},
+		"futur antérieur": {
+			"j'": "aurai calmé",
+			"tu": "auras calmé",
+			"il/elle": "aura calmé",
+			"nous": "aurons calmé",
+			"vous": "aurez calmé",
+			"ils/elles": "auront calmé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous calmiez",
+			"qu'il/elle": "calme",
+			"qu'ils/elles": "calment"
+		},
+		"imparfait": {
+			"que": "vous calmassiez",
+			"qu'il/elle": "calmât",
+			"qu'ils/elles": "calmassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse calmé",
+			"que": "vous eussiez calmé",
+			"qu'il/elle": "eût calmé",
+			"qu'ils/elles": "eussent calmé"
+		},
+		"passé": {
+			"j'": "aie calmé",
+			"que": "vous ayez calmé",
+			"qu'il/elle": "ait calmé",
+			"qu'ils/elles": "aient calmé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "calmerais",
+			"tu": "calmerais",
+			"il/elle": "calmerait",
+			"nous": "calmerions",
+			"vous": "calmeriez",
+			"ils/elles": "calmeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais calmé",
+			"tu": "aurais calmé",
+			"il/elle": "aurait calmé",
+			"nous": "aurions calmé",
+			"vous": "auriez calmé",
+			"ils/elles": "auraient calmé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse calmé",
+			"tu": "eusses calmé",
+			"il/elle": "eût calmé",
+			"nous": "eussions calmé",
+			"vous": "eussiez calmé",
+			"ils/elles": "eussent calmé"
+		}
+	},
+	"participe": {
+		"présent": { "calmant": "" },
+		"passé composé": { "ayant": "calmé" },
+		"passé": {
+			"masc.sg.:": "calmé",
+			"masc.pl.:": "calmés",
+			"fém.sg.:": "calmée",
+			"fém.pl.:": "calmées"
+		}
+	},
+	"imperatif": {
+		"présent": { "calme": "", "calmons": "", "calmez": "" },
+		"passé": { "aie": "calmé", "ayons": "calmé", "ayez": "calmé" }
+	},
+	"infinitif": { "présent": { "calmer": "" }, "passé": { "avoir": "calmé" } }
+}

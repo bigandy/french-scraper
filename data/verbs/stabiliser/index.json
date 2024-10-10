@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "stabilize; stabilise; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se stabiliser/ne pas stabiliser/ne pas se stabiliser",
+	"indicatif": {
+		"présent": {
+			"je": "stabilise",
+			"tu": "stabilises",
+			"il/elle": "stabilise",
+			"nous": "stabilisons",
+			"vous": "stabilisez",
+			"ils/elles": "stabilisent"
+		},
+		"imparfait": {
+			"je": "stabilisais",
+			"tu": "stabilisais",
+			"il/elle": "stabilisait",
+			"nous": "stabilisions",
+			"vous": "stabilisiez",
+			"ils/elles": "stabilisaient"
+		},
+		"futur": {
+			"je": "stabiliserai",
+			"tu": "stabiliseras",
+			"il/elle": "stabilisera",
+			"nous": "stabiliserons",
+			"vous": "stabiliserez",
+			"ils/elles": "stabiliseront"
+		},
+		"passé simple": {
+			"je": "stabilisai",
+			"tu": "stabilisas",
+			"il/elle": "stabilisa",
+			"nous": "stabilisâmes",
+			"vous": "stabilisâtes",
+			"ils/elles": "stabilisèrent"
+		},
+		"passé composé": {
+			"j'": "ai stabilisé",
+			"tu": "as stabilisé",
+			"il/elle": "a stabilisé",
+			"nous": "avons stabilisé",
+			"vous": "avez stabilisé",
+			"ils/elles": "ont stabilisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais stabilisé",
+			"tu": "avais stabilisé",
+			"il/elle": "avait stabilisé",
+			"nous": "avions stabilisé",
+			"vous": "aviez stabilisé",
+			"ils/elles": "avaient stabilisé"
+		},
+		"passé antérieur": {
+			"j'": "eus stabilisé",
+			"tu": "eus stabilisé",
+			"il/elle": "eut stabilisé",
+			"nous": "eûmes stabilisé",
+			"vous": "eûtes stabilisé",
+			"ils/elles": "eurent stabilisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai stabilisé",
+			"tu": "auras stabilisé",
+			"il/elle": "aura stabilisé",
+			"nous": "aurons stabilisé",
+			"vous": "aurez stabilisé",
+			"ils/elles": "auront stabilisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous stabilisiez",
+			"qu'il/elle": "stabilise",
+			"qu'ils/elles": "stabilisent"
+		},
+		"imparfait": {
+			"que": "vous stabilisassiez",
+			"qu'il/elle": "stabilisât",
+			"qu'ils/elles": "stabilisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse stabilisé",
+			"que": "vous eussiez stabilisé",
+			"qu'il/elle": "eût stabilisé",
+			"qu'ils/elles": "eussent stabilisé"
+		},
+		"passé": {
+			"j'": "aie stabilisé",
+			"que": "vous ayez stabilisé",
+			"qu'il/elle": "ait stabilisé",
+			"qu'ils/elles": "aient stabilisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "stabiliserais",
+			"tu": "stabiliserais",
+			"il/elle": "stabiliserait",
+			"nous": "stabiliserions",
+			"vous": "stabiliseriez",
+			"ils/elles": "stabiliseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais stabilisé",
+			"tu": "aurais stabilisé",
+			"il/elle": "aurait stabilisé",
+			"nous": "aurions stabilisé",
+			"vous": "auriez stabilisé",
+			"ils/elles": "auraient stabilisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse stabilisé",
+			"tu": "eusses stabilisé",
+			"il/elle": "eût stabilisé",
+			"nous": "eussions stabilisé",
+			"vous": "eussiez stabilisé",
+			"ils/elles": "eussent stabilisé"
+		}
+	},
+	"participe": {
+		"présent": { "stabilisant": "" },
+		"passé composé": { "ayant": "stabilisé" },
+		"passé": {
+			"masc.sg.:": "stabilisé",
+			"masc.pl.:": "stabilisés",
+			"fém.sg.:": "stabilisée",
+			"fém.pl.:": "stabilisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "stabilise": "", "stabilisons": "", "stabilisez": "" },
+		"passé": { "aie": "stabilisé", "ayons": "stabilisé", "ayez": "stabilisé" }
+	},
+	"infinitif": {
+		"présent": { "stabiliser": "" },
+		"passé": { "avoir": "stabilisé" }
+	}
+}

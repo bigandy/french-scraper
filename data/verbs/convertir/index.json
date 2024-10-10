@@ -1,0 +1,141 @@
+{
+	"name": "finir",
+	"definition": "convert; translate; transform; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se convertir/ne pas convertir/ne pas se convertir",
+	"indicatif": {
+		"présent": {
+			"je": "convertis",
+			"tu": "convertis",
+			"il/elle": "convertit",
+			"nous": "convertissons",
+			"vous": "convertissez",
+			"ils/elles": "convertissent"
+		},
+		"imparfait": {
+			"je": "convertissais",
+			"tu": "convertissais",
+			"il/elle": "convertissait",
+			"nous": "convertissions",
+			"vous": "convertissiez",
+			"ils/elles": "convertissaient"
+		},
+		"futur": {
+			"je": "convertirai",
+			"tu": "convertiras",
+			"il/elle": "convertira",
+			"nous": "convertirons",
+			"vous": "convertirez",
+			"ils/elles": "convertiront"
+		},
+		"passé simple": {
+			"je": "convertis",
+			"tu": "convertis",
+			"il/elle": "convertit",
+			"nous": "convertîmes",
+			"vous": "convertîtes",
+			"ils/elles": "convertirent"
+		},
+		"passé composé": {
+			"j'": "ai converti",
+			"tu": "as converti",
+			"il/elle": "a converti",
+			"nous": "avons converti",
+			"vous": "avez converti",
+			"ils/elles": "ont converti"
+		},
+		"plus-que-parfait": {
+			"j'": "avais converti",
+			"tu": "avais converti",
+			"il/elle": "avait converti",
+			"nous": "avions converti",
+			"vous": "aviez converti",
+			"ils/elles": "avaient converti"
+		},
+		"passé antérieur": {
+			"j'": "eus converti",
+			"tu": "eus converti",
+			"il/elle": "eut converti",
+			"nous": "eûmes converti",
+			"vous": "eûtes converti",
+			"ils/elles": "eurent converti"
+		},
+		"futur antérieur": {
+			"j'": "aurai converti",
+			"tu": "auras converti",
+			"il/elle": "aura converti",
+			"nous": "aurons converti",
+			"vous": "aurez converti",
+			"ils/elles": "auront converti"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous convertissiez",
+			"qu'il/elle": "convertisse",
+			"qu'ils/elles": "convertissent"
+		},
+		"imparfait": {
+			"que": "vous convertissiez",
+			"qu'il/elle": "convertît",
+			"qu'ils/elles": "convertissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse converti",
+			"que": "vous eussiez converti",
+			"qu'il/elle": "eût converti",
+			"qu'ils/elles": "eussent converti"
+		},
+		"passé": {
+			"j'": "aie converti",
+			"que": "vous ayez converti",
+			"qu'il/elle": "ait converti",
+			"qu'ils/elles": "aient converti"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "convertirais",
+			"tu": "convertirais",
+			"il/elle": "convertirait",
+			"nous": "convertirions",
+			"vous": "convertiriez",
+			"ils/elles": "convertiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais converti",
+			"tu": "aurais converti",
+			"il/elle": "aurait converti",
+			"nous": "aurions converti",
+			"vous": "auriez converti",
+			"ils/elles": "auraient converti"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse converti",
+			"tu": "eusses converti",
+			"il/elle": "eût converti",
+			"nous": "eussions converti",
+			"vous": "eussiez converti",
+			"ils/elles": "eussent converti"
+		}
+	},
+	"participe": {
+		"présent": { "convertissant": "" },
+		"passé composé": { "ayant": "converti" },
+		"passé": {
+			"masc.sg.:": "converti",
+			"masc.pl.:": "convertis",
+			"fém.sg.:": "convertie",
+			"fém.pl.:": "converties"
+		}
+	},
+	"imperatif": {
+		"présent": { "convertis": "", "convertissons": "", "convertissez": "" },
+		"passé": { "aie": "converti", "ayons": "converti", "ayez": "converti" }
+	},
+	"infinitif": {
+		"présent": { "convertir": "" },
+		"passé": { "avoir": "converti" }
+	}
+}

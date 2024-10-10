@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "adopt; take; pass; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'adopter/ne pas adopter/ne pas s'adopter",
+	"indicatif": {
+		"présent": {
+			"j'": "adopte",
+			"tu": "adoptes",
+			"il/elle": "adopte",
+			"nous": "adoptons",
+			"vous": "adoptez",
+			"ils/elles": "adoptent"
+		},
+		"imparfait": {
+			"j'": "adoptais",
+			"tu": "adoptais",
+			"il/elle": "adoptait",
+			"nous": "adoptions",
+			"vous": "adoptiez",
+			"ils/elles": "adoptaient"
+		},
+		"futur": {
+			"j'": "adopterai",
+			"tu": "adopteras",
+			"il/elle": "adoptera",
+			"nous": "adopterons",
+			"vous": "adopterez",
+			"ils/elles": "adopteront"
+		},
+		"passé simple": {
+			"j'": "adoptai",
+			"tu": "adoptas",
+			"il/elle": "adopta",
+			"nous": "adoptâmes",
+			"vous": "adoptâtes",
+			"ils/elles": "adoptèrent"
+		},
+		"passé composé": {
+			"j'": "ai adopté",
+			"tu": "as adopté",
+			"il/elle": "a adopté",
+			"nous": "avons adopté",
+			"vous": "avez adopté",
+			"ils/elles": "ont adopté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais adopté",
+			"tu": "avais adopté",
+			"il/elle": "avait adopté",
+			"nous": "avions adopté",
+			"vous": "aviez adopté",
+			"ils/elles": "avaient adopté"
+		},
+		"passé antérieur": {
+			"j'": "eus adopté",
+			"tu": "eus adopté",
+			"il/elle": "eut adopté",
+			"nous": "eûmes adopté",
+			"vous": "eûtes adopté",
+			"ils/elles": "eurent adopté"
+		},
+		"futur antérieur": {
+			"j'": "aurai adopté",
+			"tu": "auras adopté",
+			"il/elle": "aura adopté",
+			"nous": "aurons adopté",
+			"vous": "aurez adopté",
+			"ils/elles": "auront adopté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "adopte",
+			"que": "vous adoptiez",
+			"qu'il/elle": "adopte",
+			"qu'ils/elles": "adoptent"
+		},
+		"imparfait": {
+			"j'": "adoptasse",
+			"que": "vous adoptassiez",
+			"qu'il/elle": "adoptât",
+			"qu'ils/elles": "adoptassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse adopté",
+			"que": "vous eussiez adopté",
+			"qu'il/elle": "eût adopté",
+			"qu'ils/elles": "eussent adopté"
+		},
+		"passé": {
+			"j'": "aie adopté",
+			"que": "vous ayez adopté",
+			"qu'il/elle": "ait adopté",
+			"qu'ils/elles": "aient adopté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "adopterais",
+			"tu": "adopterais",
+			"il/elle": "adopterait",
+			"nous": "adopterions",
+			"vous": "adopteriez",
+			"ils/elles": "adopteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais adopté",
+			"tu": "aurais adopté",
+			"il/elle": "aurait adopté",
+			"nous": "aurions adopté",
+			"vous": "auriez adopté",
+			"ils/elles": "auraient adopté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse adopté",
+			"tu": "eusses adopté",
+			"il/elle": "eût adopté",
+			"nous": "eussions adopté",
+			"vous": "eussiez adopté",
+			"ils/elles": "eussent adopté"
+		}
+	},
+	"participe": {
+		"présent": { "adoptant": "" },
+		"passé composé": { "ayant": "adopté" },
+		"passé": {
+			"masc.sg.:": "adopté",
+			"masc.pl.:": "adoptés",
+			"fém.sg.:": "adoptée",
+			"fém.pl.:": "adoptées"
+		}
+	},
+	"imperatif": {
+		"présent": { "adopte": "", "adoptons": "", "adoptez": "" },
+		"passé": { "aie": "adopté", "ayons": "adopté", "ayez": "adopté" }
+	},
+	"infinitif": { "présent": { "adopter": "" }, "passé": { "avoir": "adopté" } }
+}

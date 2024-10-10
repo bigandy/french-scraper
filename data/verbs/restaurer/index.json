@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "restore; rebuild; re-establish; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se restaurer/ne pas restaurer/ne pas se restaurer",
+	"indicatif": {
+		"présent": {
+			"je": "restaure",
+			"tu": "restaures",
+			"il/elle": "restaure",
+			"nous": "restaurons",
+			"vous": "restaurez",
+			"ils/elles": "restaurent"
+		},
+		"imparfait": {
+			"je": "restaurais",
+			"tu": "restaurais",
+			"il/elle": "restaurait",
+			"nous": "restaurions",
+			"vous": "restauriez",
+			"ils/elles": "restauraient"
+		},
+		"futur": {
+			"je": "restaurerai",
+			"tu": "restaureras",
+			"il/elle": "restaurera",
+			"nous": "restaurerons",
+			"vous": "restaurerez",
+			"ils/elles": "restaureront"
+		},
+		"passé simple": {
+			"je": "restaurai",
+			"tu": "restauras",
+			"il/elle": "restaura",
+			"nous": "restaurâmes",
+			"vous": "restaurâtes",
+			"ils/elles": "restaurèrent"
+		},
+		"passé composé": {
+			"j'": "ai restauré",
+			"tu": "as restauré",
+			"il/elle": "a restauré",
+			"nous": "avons restauré",
+			"vous": "avez restauré",
+			"ils/elles": "ont restauré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais restauré",
+			"tu": "avais restauré",
+			"il/elle": "avait restauré",
+			"nous": "avions restauré",
+			"vous": "aviez restauré",
+			"ils/elles": "avaient restauré"
+		},
+		"passé antérieur": {
+			"j'": "eus restauré",
+			"tu": "eus restauré",
+			"il/elle": "eut restauré",
+			"nous": "eûmes restauré",
+			"vous": "eûtes restauré",
+			"ils/elles": "eurent restauré"
+		},
+		"futur antérieur": {
+			"j'": "aurai restauré",
+			"tu": "auras restauré",
+			"il/elle": "aura restauré",
+			"nous": "aurons restauré",
+			"vous": "aurez restauré",
+			"ils/elles": "auront restauré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous restauriez",
+			"qu'il/elle": "restaure",
+			"qu'ils/elles": "restaurent"
+		},
+		"imparfait": {
+			"que": "vous restaurassiez",
+			"qu'il/elle": "restaurât",
+			"qu'ils/elles": "restaurassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse restauré",
+			"que": "vous eussiez restauré",
+			"qu'il/elle": "eût restauré",
+			"qu'ils/elles": "eussent restauré"
+		},
+		"passé": {
+			"j'": "aie restauré",
+			"que": "vous ayez restauré",
+			"qu'il/elle": "ait restauré",
+			"qu'ils/elles": "aient restauré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "restaurerais",
+			"tu": "restaurerais",
+			"il/elle": "restaurerait",
+			"nous": "restaurerions",
+			"vous": "restaureriez",
+			"ils/elles": "restaureraient"
+		},
+		"passé première forme": {
+			"j'": "aurais restauré",
+			"tu": "aurais restauré",
+			"il/elle": "aurait restauré",
+			"nous": "aurions restauré",
+			"vous": "auriez restauré",
+			"ils/elles": "auraient restauré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse restauré",
+			"tu": "eusses restauré",
+			"il/elle": "eût restauré",
+			"nous": "eussions restauré",
+			"vous": "eussiez restauré",
+			"ils/elles": "eussent restauré"
+		}
+	},
+	"participe": {
+		"présent": { "restaurant": "" },
+		"passé composé": { "ayant": "restauré" },
+		"passé": {
+			"masc.sg.:": "restauré",
+			"masc.pl.:": "restaurés",
+			"fém.sg.:": "restaurée",
+			"fém.pl.:": "restaurées"
+		}
+	},
+	"imperatif": {
+		"présent": { "restaure": "", "restaurons": "", "restaurez": "" },
+		"passé": { "aie": "restauré", "ayons": "restauré", "ayez": "restauré" }
+	},
+	"infinitif": {
+		"présent": { "restaurer": "" },
+		"passé": { "avoir": "restauré" }
+	}
+}

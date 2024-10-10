@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "secure; protect; safeguard; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se sécuriser/ne pas sécuriser/ne pas se sécuriser",
+	"indicatif": {
+		"présent": {
+			"je": "sécurise",
+			"tu": "sécurises",
+			"il/elle": "sécurise",
+			"nous": "sécurisons",
+			"vous": "sécurisez",
+			"ils/elles": "sécurisent"
+		},
+		"imparfait": {
+			"je": "sécurisais",
+			"tu": "sécurisais",
+			"il/elle": "sécurisait",
+			"nous": "sécurisions",
+			"vous": "sécurisiez",
+			"ils/elles": "sécurisaient"
+		},
+		"futur": {
+			"je": "sécuriserai",
+			"tu": "sécuriseras",
+			"il/elle": "sécurisera",
+			"nous": "sécuriserons",
+			"vous": "sécuriserez",
+			"ils/elles": "sécuriseront"
+		},
+		"passé simple": {
+			"je": "sécurisai",
+			"tu": "sécurisas",
+			"il/elle": "sécurisa",
+			"nous": "sécurisâmes",
+			"vous": "sécurisâtes",
+			"ils/elles": "sécurisèrent"
+		},
+		"passé composé": {
+			"j'": "ai sécurisé",
+			"tu": "as sécurisé",
+			"il/elle": "a sécurisé",
+			"nous": "avons sécurisé",
+			"vous": "avez sécurisé",
+			"ils/elles": "ont sécurisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais sécurisé",
+			"tu": "avais sécurisé",
+			"il/elle": "avait sécurisé",
+			"nous": "avions sécurisé",
+			"vous": "aviez sécurisé",
+			"ils/elles": "avaient sécurisé"
+		},
+		"passé antérieur": {
+			"j'": "eus sécurisé",
+			"tu": "eus sécurisé",
+			"il/elle": "eut sécurisé",
+			"nous": "eûmes sécurisé",
+			"vous": "eûtes sécurisé",
+			"ils/elles": "eurent sécurisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai sécurisé",
+			"tu": "auras sécurisé",
+			"il/elle": "aura sécurisé",
+			"nous": "aurons sécurisé",
+			"vous": "aurez sécurisé",
+			"ils/elles": "auront sécurisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous sécurisiez",
+			"qu'il/elle": "sécurise",
+			"qu'ils/elles": "sécurisent"
+		},
+		"imparfait": {
+			"que": "vous sécurisassiez",
+			"qu'il/elle": "sécurisât",
+			"qu'ils/elles": "sécurisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse sécurisé",
+			"que": "vous eussiez sécurisé",
+			"qu'il/elle": "eût sécurisé",
+			"qu'ils/elles": "eussent sécurisé"
+		},
+		"passé": {
+			"j'": "aie sécurisé",
+			"que": "vous ayez sécurisé",
+			"qu'il/elle": "ait sécurisé",
+			"qu'ils/elles": "aient sécurisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "sécuriserais",
+			"tu": "sécuriserais",
+			"il/elle": "sécuriserait",
+			"nous": "sécuriserions",
+			"vous": "sécuriseriez",
+			"ils/elles": "sécuriseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais sécurisé",
+			"tu": "aurais sécurisé",
+			"il/elle": "aurait sécurisé",
+			"nous": "aurions sécurisé",
+			"vous": "auriez sécurisé",
+			"ils/elles": "auraient sécurisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse sécurisé",
+			"tu": "eusses sécurisé",
+			"il/elle": "eût sécurisé",
+			"nous": "eussions sécurisé",
+			"vous": "eussiez sécurisé",
+			"ils/elles": "eussent sécurisé"
+		}
+	},
+	"participe": {
+		"présent": { "sécurisant": "" },
+		"passé composé": { "ayant": "sécurisé" },
+		"passé": {
+			"masc.sg.:": "sécurisé",
+			"masc.pl.:": "sécurisés",
+			"fém.sg.:": "sécurisée",
+			"fém.pl.:": "sécurisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "sécurise": "", "sécurisons": "", "sécurisez": "" },
+		"passé": { "aie": "sécurisé", "ayons": "sécurisé", "ayez": "sécurisé" }
+	},
+	"infinitif": {
+		"présent": { "sécuriser": "" },
+		"passé": { "avoir": "sécurisé" }
+	}
+}

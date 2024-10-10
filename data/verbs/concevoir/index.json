@@ -1,0 +1,138 @@
+{
+	"name": "recevoir",
+	"definition": "design; develop; conceive; ...",
+	"model": "recevoir",
+	"auxiliary": "avoir",
+	"otherForms": "se concevoir/ne pas concevoir/ne pas se concevoir",
+	"indicatif": {
+		"présent": {
+			"je": "conçois",
+			"tu": "conçois",
+			"il/elle": "conçoit",
+			"nous": "concevons",
+			"vous": "concevez",
+			"ils/elles": "conçoivent"
+		},
+		"imparfait": {
+			"je": "concevais",
+			"tu": "concevais",
+			"il/elle": "concevait",
+			"nous": "concevions",
+			"vous": "conceviez",
+			"ils/elles": "concevaient"
+		},
+		"futur": {
+			"je": "concevrai",
+			"tu": "concevras",
+			"il/elle": "concevra",
+			"nous": "concevrons",
+			"vous": "concevrez",
+			"ils/elles": "concevront"
+		},
+		"passé simple": {
+			"je": "conçus",
+			"tu": "conçus",
+			"il/elle": "conçut",
+			"nous": "conçûmes",
+			"vous": "conçûtes",
+			"ils/elles": "conçurent"
+		},
+		"passé composé": {
+			"j'": "ai conçu",
+			"tu": "as conçu",
+			"il/elle": "a conçu",
+			"nous": "avons conçu",
+			"vous": "avez conçu",
+			"ils/elles": "ont conçu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais conçu",
+			"tu": "avais conçu",
+			"il/elle": "avait conçu",
+			"nous": "avions conçu",
+			"vous": "aviez conçu",
+			"ils/elles": "avaient conçu"
+		},
+		"passé antérieur": {
+			"j'": "eus conçu",
+			"tu": "eus conçu",
+			"il/elle": "eut conçu",
+			"nous": "eûmes conçu",
+			"vous": "eûtes conçu",
+			"ils/elles": "eurent conçu"
+		},
+		"futur antérieur": {
+			"j'": "aurai conçu",
+			"tu": "auras conçu",
+			"il/elle": "aura conçu",
+			"nous": "aurons conçu",
+			"vous": "aurez conçu",
+			"ils/elles": "auront conçu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous conceviez",
+			"qu'il/elle": "conçoive",
+			"qu'ils/elles": "conçoivent"
+		},
+		"imparfait": {
+			"que": "vous conçussiez",
+			"qu'il/elle": "conçût",
+			"qu'ils/elles": "conçussent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse conçu",
+			"que": "vous eussiez conçu",
+			"qu'il/elle": "eût conçu",
+			"qu'ils/elles": "eussent conçu"
+		},
+		"passé": {
+			"j'": "aie conçu",
+			"que": "vous ayez conçu",
+			"qu'il/elle": "ait conçu",
+			"qu'ils/elles": "aient conçu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "concevrais",
+			"tu": "concevrais",
+			"il/elle": "concevrait",
+			"nous": "concevrions",
+			"vous": "concevriez",
+			"ils/elles": "concevraient"
+		},
+		"passé première forme": {
+			"j'": "aurais conçu",
+			"tu": "aurais conçu",
+			"il/elle": "aurait conçu",
+			"nous": "aurions conçu",
+			"vous": "auriez conçu",
+			"ils/elles": "auraient conçu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse conçu",
+			"tu": "eusses conçu",
+			"il/elle": "eût conçu",
+			"nous": "eussions conçu",
+			"vous": "eussiez conçu",
+			"ils/elles": "eussent conçu"
+		}
+	},
+	"participe": {
+		"présent": { "concevant": "" },
+		"passé composé": { "ayant": "conçu" },
+		"passé": {
+			"masc.sg.:": "conçu",
+			"masc.pl.:": "conçus",
+			"fém.sg.:": "conçue",
+			"fém.pl.:": "conçues"
+		}
+	},
+	"imperatif": {
+		"présent": { "conçois": "", "concevons": "", "concevez": "" },
+		"passé": { "aie": "conçu", "ayons": "conçu", "ayez": "conçu" }
+	},
+	"infinitif": { "présent": { "concevoir": "" }, "passé": { "avoir": "conçu" } }
+}

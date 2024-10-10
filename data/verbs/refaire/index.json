@@ -1,0 +1,138 @@
+{
+	"name": "faire",
+	"definition": "do it again; redo; repeat; ...",
+	"model": "faire",
+	"auxiliary": "avoir",
+	"otherForms": "se refaire/ne pas refaire/ne pas se refaire",
+	"indicatif": {
+		"présent": {
+			"je": "refais",
+			"tu": "refais",
+			"il/elle": "refait",
+			"nous": "refaisons",
+			"vous": "refaites",
+			"ils/elles": "refont"
+		},
+		"imparfait": {
+			"je": "refaisais",
+			"tu": "refaisais",
+			"il/elle": "refaisait",
+			"nous": "refaisions",
+			"vous": "refaisiez",
+			"ils/elles": "refaisaient"
+		},
+		"futur": {
+			"je": "referai",
+			"tu": "referas",
+			"il/elle": "refera",
+			"nous": "referons",
+			"vous": "referez",
+			"ils/elles": "referont"
+		},
+		"passé simple": {
+			"je": "refis",
+			"tu": "refis",
+			"il/elle": "refit",
+			"nous": "refîmes",
+			"vous": "refîtes",
+			"ils/elles": "refirent"
+		},
+		"passé composé": {
+			"j'": "ai refait",
+			"tu": "as refait",
+			"il/elle": "a refait",
+			"nous": "avons refait",
+			"vous": "avez refait",
+			"ils/elles": "ont refait"
+		},
+		"plus-que-parfait": {
+			"j'": "avais refait",
+			"tu": "avais refait",
+			"il/elle": "avait refait",
+			"nous": "avions refait",
+			"vous": "aviez refait",
+			"ils/elles": "avaient refait"
+		},
+		"passé antérieur": {
+			"j'": "eus refait",
+			"tu": "eus refait",
+			"il/elle": "eut refait",
+			"nous": "eûmes refait",
+			"vous": "eûtes refait",
+			"ils/elles": "eurent refait"
+		},
+		"futur antérieur": {
+			"j'": "aurai refait",
+			"tu": "auras refait",
+			"il/elle": "aura refait",
+			"nous": "aurons refait",
+			"vous": "aurez refait",
+			"ils/elles": "auront refait"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous refassiez",
+			"qu'il/elle": "refasse",
+			"qu'ils/elles": "refassent"
+		},
+		"imparfait": {
+			"que": "vous refissiez",
+			"qu'il/elle": "refît",
+			"qu'ils/elles": "refissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse refait",
+			"que": "vous eussiez refait",
+			"qu'il/elle": "eût refait",
+			"qu'ils/elles": "eussent refait"
+		},
+		"passé": {
+			"j'": "aie refait",
+			"que": "vous ayez refait",
+			"qu'il/elle": "ait refait",
+			"qu'ils/elles": "aient refait"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "referais",
+			"tu": "referais",
+			"il/elle": "referait",
+			"nous": "referions",
+			"vous": "referiez",
+			"ils/elles": "referaient"
+		},
+		"passé première forme": {
+			"j'": "aurais refait",
+			"tu": "aurais refait",
+			"il/elle": "aurait refait",
+			"nous": "aurions refait",
+			"vous": "auriez refait",
+			"ils/elles": "auraient refait"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse refait",
+			"tu": "eusses refait",
+			"il/elle": "eût refait",
+			"nous": "eussions refait",
+			"vous": "eussiez refait",
+			"ils/elles": "eussent refait"
+		}
+	},
+	"participe": {
+		"présent": { "refaisant": "" },
+		"passé composé": { "ayant": "refait" },
+		"passé": {
+			"masc.sg.:": "refait",
+			"masc.pl.:": "refaits",
+			"fém.sg.:": "refaite",
+			"fém.pl.:": "refaites"
+		}
+	},
+	"imperatif": {
+		"présent": { "refais": "", "refaisons": "", "refaites": "" },
+		"passé": { "aie": "refait", "ayons": "refait", "ayez": "refait" }
+	},
+	"infinitif": { "présent": { "refaire": "" }, "passé": { "avoir": "refait" } }
+}

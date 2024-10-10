@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "teach; educate; instruct; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'enseigner/ne pas enseigner/ne pas s'enseigner",
+	"indicatif": {
+		"présent": {
+			"j'": "enseigne",
+			"tu": "enseignes",
+			"il/elle": "enseigne",
+			"nous": "enseignons",
+			"vous": "enseignez",
+			"ils/elles": "enseignent"
+		},
+		"imparfait": {
+			"j'": "enseignais",
+			"tu": "enseignais",
+			"il/elle": "enseignait",
+			"nous": "enseignions",
+			"vous": "enseigniez",
+			"ils/elles": "enseignaient"
+		},
+		"futur": {
+			"j'": "enseignerai",
+			"tu": "enseigneras",
+			"il/elle": "enseignera",
+			"nous": "enseignerons",
+			"vous": "enseignerez",
+			"ils/elles": "enseigneront"
+		},
+		"passé simple": {
+			"j'": "enseignai",
+			"tu": "enseignas",
+			"il/elle": "enseigna",
+			"nous": "enseignâmes",
+			"vous": "enseignâtes",
+			"ils/elles": "enseignèrent"
+		},
+		"passé composé": {
+			"j'": "ai enseigné",
+			"tu": "as enseigné",
+			"il/elle": "a enseigné",
+			"nous": "avons enseigné",
+			"vous": "avez enseigné",
+			"ils/elles": "ont enseigné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais enseigné",
+			"tu": "avais enseigné",
+			"il/elle": "avait enseigné",
+			"nous": "avions enseigné",
+			"vous": "aviez enseigné",
+			"ils/elles": "avaient enseigné"
+		},
+		"passé antérieur": {
+			"j'": "eus enseigné",
+			"tu": "eus enseigné",
+			"il/elle": "eut enseigné",
+			"nous": "eûmes enseigné",
+			"vous": "eûtes enseigné",
+			"ils/elles": "eurent enseigné"
+		},
+		"futur antérieur": {
+			"j'": "aurai enseigné",
+			"tu": "auras enseigné",
+			"il/elle": "aura enseigné",
+			"nous": "aurons enseigné",
+			"vous": "aurez enseigné",
+			"ils/elles": "auront enseigné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "enseigne",
+			"que": "vous enseigniez",
+			"qu'il/elle": "enseigne",
+			"qu'ils/elles": "enseignent"
+		},
+		"imparfait": {
+			"j'": "enseignasse",
+			"que": "vous enseignassiez",
+			"qu'il/elle": "enseignât",
+			"qu'ils/elles": "enseignassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse enseigné",
+			"que": "vous eussiez enseigné",
+			"qu'il/elle": "eût enseigné",
+			"qu'ils/elles": "eussent enseigné"
+		},
+		"passé": {
+			"j'": "aie enseigné",
+			"que": "vous ayez enseigné",
+			"qu'il/elle": "ait enseigné",
+			"qu'ils/elles": "aient enseigné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "enseignerais",
+			"tu": "enseignerais",
+			"il/elle": "enseignerait",
+			"nous": "enseignerions",
+			"vous": "enseigneriez",
+			"ils/elles": "enseigneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais enseigné",
+			"tu": "aurais enseigné",
+			"il/elle": "aurait enseigné",
+			"nous": "aurions enseigné",
+			"vous": "auriez enseigné",
+			"ils/elles": "auraient enseigné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse enseigné",
+			"tu": "eusses enseigné",
+			"il/elle": "eût enseigné",
+			"nous": "eussions enseigné",
+			"vous": "eussiez enseigné",
+			"ils/elles": "eussent enseigné"
+		}
+	},
+	"participe": {
+		"présent": { "enseignant": "" },
+		"passé composé": { "ayant": "enseigné" },
+		"passé": {
+			"masc.sg.:": "enseigné",
+			"masc.pl.:": "enseignés",
+			"fém.sg.:": "enseignée",
+			"fém.pl.:": "enseignées"
+		}
+	},
+	"imperatif": {
+		"présent": { "enseigne": "", "enseignons": "", "enseignez": "" },
+		"passé": { "aie": "enseigné", "ayons": "enseigné", "ayez": "enseigné" }
+	},
+	"infinitif": {
+		"présent": { "enseigner": "" },
+		"passé": { "avoir": "enseigné" }
+	}
+}

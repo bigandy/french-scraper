@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "imagine; think; picture; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'imaginer/ne pas imaginer/ne pas s'imaginer",
+	"indicatif": {
+		"présent": {
+			"j'": "imagine",
+			"tu": "imagines",
+			"il/elle": "imagine",
+			"nous": "imaginons",
+			"vous": "imaginez",
+			"ils/elles": "imaginent"
+		},
+		"imparfait": {
+			"j'": "imaginais",
+			"tu": "imaginais",
+			"il/elle": "imaginait",
+			"nous": "imaginions",
+			"vous": "imaginiez",
+			"ils/elles": "imaginaient"
+		},
+		"futur": {
+			"j'": "imaginerai",
+			"tu": "imagineras",
+			"il/elle": "imaginera",
+			"nous": "imaginerons",
+			"vous": "imaginerez",
+			"ils/elles": "imagineront"
+		},
+		"passé simple": {
+			"j'": "imaginai",
+			"tu": "imaginas",
+			"il/elle": "imagina",
+			"nous": "imaginâmes",
+			"vous": "imaginâtes",
+			"ils/elles": "imaginèrent"
+		},
+		"passé composé": {
+			"j'": "ai imaginé",
+			"tu": "as imaginé",
+			"il/elle": "a imaginé",
+			"nous": "avons imaginé",
+			"vous": "avez imaginé",
+			"ils/elles": "ont imaginé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais imaginé",
+			"tu": "avais imaginé",
+			"il/elle": "avait imaginé",
+			"nous": "avions imaginé",
+			"vous": "aviez imaginé",
+			"ils/elles": "avaient imaginé"
+		},
+		"passé antérieur": {
+			"j'": "eus imaginé",
+			"tu": "eus imaginé",
+			"il/elle": "eut imaginé",
+			"nous": "eûmes imaginé",
+			"vous": "eûtes imaginé",
+			"ils/elles": "eurent imaginé"
+		},
+		"futur antérieur": {
+			"j'": "aurai imaginé",
+			"tu": "auras imaginé",
+			"il/elle": "aura imaginé",
+			"nous": "aurons imaginé",
+			"vous": "aurez imaginé",
+			"ils/elles": "auront imaginé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "imagine",
+			"que": "vous imaginiez",
+			"qu'il/elle": "imagine",
+			"qu'ils/elles": "imaginent"
+		},
+		"imparfait": {
+			"j'": "imaginasse",
+			"que": "vous imaginassiez",
+			"qu'il/elle": "imaginât",
+			"qu'ils/elles": "imaginassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse imaginé",
+			"que": "vous eussiez imaginé",
+			"qu'il/elle": "eût imaginé",
+			"qu'ils/elles": "eussent imaginé"
+		},
+		"passé": {
+			"j'": "aie imaginé",
+			"que": "vous ayez imaginé",
+			"qu'il/elle": "ait imaginé",
+			"qu'ils/elles": "aient imaginé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "imaginerais",
+			"tu": "imaginerais",
+			"il/elle": "imaginerait",
+			"nous": "imaginerions",
+			"vous": "imagineriez",
+			"ils/elles": "imagineraient"
+		},
+		"passé première forme": {
+			"j'": "aurais imaginé",
+			"tu": "aurais imaginé",
+			"il/elle": "aurait imaginé",
+			"nous": "aurions imaginé",
+			"vous": "auriez imaginé",
+			"ils/elles": "auraient imaginé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse imaginé",
+			"tu": "eusses imaginé",
+			"il/elle": "eût imaginé",
+			"nous": "eussions imaginé",
+			"vous": "eussiez imaginé",
+			"ils/elles": "eussent imaginé"
+		}
+	},
+	"participe": {
+		"présent": { "imaginant": "" },
+		"passé composé": { "ayant": "imaginé" },
+		"passé": {
+			"masc.sg.:": "imaginé",
+			"masc.pl.:": "imaginés",
+			"fém.sg.:": "imaginée",
+			"fém.pl.:": "imaginées"
+		}
+	},
+	"imperatif": {
+		"présent": { "imagine": "", "imaginons": "", "imaginez": "" },
+		"passé": { "aie": "imaginé", "ayons": "imaginé", "ayez": "imaginé" }
+	},
+	"infinitif": {
+		"présent": { "imaginer": "" },
+		"passé": { "avoir": "imaginé" }
+	}
+}

@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "simulate; fake; mimic; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se simuler/ne pas simuler/ne pas se simuler",
+	"indicatif": {
+		"présent": {
+			"je": "simule",
+			"tu": "simules",
+			"il/elle": "simule",
+			"nous": "simulons",
+			"vous": "simulez",
+			"ils/elles": "simulent"
+		},
+		"imparfait": {
+			"je": "simulais",
+			"tu": "simulais",
+			"il/elle": "simulait",
+			"nous": "simulions",
+			"vous": "simuliez",
+			"ils/elles": "simulaient"
+		},
+		"futur": {
+			"je": "simulerai",
+			"tu": "simuleras",
+			"il/elle": "simulera",
+			"nous": "simulerons",
+			"vous": "simulerez",
+			"ils/elles": "simuleront"
+		},
+		"passé simple": {
+			"je": "simulai",
+			"tu": "simulas",
+			"il/elle": "simula",
+			"nous": "simulâmes",
+			"vous": "simulâtes",
+			"ils/elles": "simulèrent"
+		},
+		"passé composé": {
+			"j'": "ai simulé",
+			"tu": "as simulé",
+			"il/elle": "a simulé",
+			"nous": "avons simulé",
+			"vous": "avez simulé",
+			"ils/elles": "ont simulé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais simulé",
+			"tu": "avais simulé",
+			"il/elle": "avait simulé",
+			"nous": "avions simulé",
+			"vous": "aviez simulé",
+			"ils/elles": "avaient simulé"
+		},
+		"passé antérieur": {
+			"j'": "eus simulé",
+			"tu": "eus simulé",
+			"il/elle": "eut simulé",
+			"nous": "eûmes simulé",
+			"vous": "eûtes simulé",
+			"ils/elles": "eurent simulé"
+		},
+		"futur antérieur": {
+			"j'": "aurai simulé",
+			"tu": "auras simulé",
+			"il/elle": "aura simulé",
+			"nous": "aurons simulé",
+			"vous": "aurez simulé",
+			"ils/elles": "auront simulé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous simuliez",
+			"qu'il/elle": "simule",
+			"qu'ils/elles": "simulent"
+		},
+		"imparfait": {
+			"que": "vous simulassiez",
+			"qu'il/elle": "simulât",
+			"qu'ils/elles": "simulassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse simulé",
+			"que": "vous eussiez simulé",
+			"qu'il/elle": "eût simulé",
+			"qu'ils/elles": "eussent simulé"
+		},
+		"passé": {
+			"j'": "aie simulé",
+			"que": "vous ayez simulé",
+			"qu'il/elle": "ait simulé",
+			"qu'ils/elles": "aient simulé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "simulerais",
+			"tu": "simulerais",
+			"il/elle": "simulerait",
+			"nous": "simulerions",
+			"vous": "simuleriez",
+			"ils/elles": "simuleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais simulé",
+			"tu": "aurais simulé",
+			"il/elle": "aurait simulé",
+			"nous": "aurions simulé",
+			"vous": "auriez simulé",
+			"ils/elles": "auraient simulé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse simulé",
+			"tu": "eusses simulé",
+			"il/elle": "eût simulé",
+			"nous": "eussions simulé",
+			"vous": "eussiez simulé",
+			"ils/elles": "eussent simulé"
+		}
+	},
+	"participe": {
+		"présent": { "simulant": "" },
+		"passé composé": { "ayant": "simulé" },
+		"passé": {
+			"masc.sg.:": "simulé",
+			"masc.pl.:": "simulés",
+			"fém.sg.:": "simulée",
+			"fém.pl.:": "simulées"
+		}
+	},
+	"imperatif": {
+		"présent": { "simule": "", "simulons": "", "simulez": "" },
+		"passé": { "aie": "simulé", "ayons": "simulé", "ayez": "simulé" }
+	},
+	"infinitif": { "présent": { "simuler": "" }, "passé": { "avoir": "simulé" } }
+}

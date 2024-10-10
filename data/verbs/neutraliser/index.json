@@ -1,0 +1,145 @@
+{
+	"name": "marcher",
+	"definition": "neutralize; neutralise; counteract; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se neutraliser/ne pas neutraliser/ne pas se neutraliser",
+	"indicatif": {
+		"présent": {
+			"je": "neutralise",
+			"tu": "neutralises",
+			"il/elle": "neutralise",
+			"nous": "neutralisons",
+			"vous": "neutralisez",
+			"ils/elles": "neutralisent"
+		},
+		"imparfait": {
+			"je": "neutralisais",
+			"tu": "neutralisais",
+			"il/elle": "neutralisait",
+			"nous": "neutralisions",
+			"vous": "neutralisiez",
+			"ils/elles": "neutralisaient"
+		},
+		"futur": {
+			"je": "neutraliserai",
+			"tu": "neutraliseras",
+			"il/elle": "neutralisera",
+			"nous": "neutraliserons",
+			"vous": "neutraliserez",
+			"ils/elles": "neutraliseront"
+		},
+		"passé simple": {
+			"je": "neutralisai",
+			"tu": "neutralisas",
+			"il/elle": "neutralisa",
+			"nous": "neutralisâmes",
+			"vous": "neutralisâtes",
+			"ils/elles": "neutralisèrent"
+		},
+		"passé composé": {
+			"j'": "ai neutralisé",
+			"tu": "as neutralisé",
+			"il/elle": "a neutralisé",
+			"nous": "avons neutralisé",
+			"vous": "avez neutralisé",
+			"ils/elles": "ont neutralisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais neutralisé",
+			"tu": "avais neutralisé",
+			"il/elle": "avait neutralisé",
+			"nous": "avions neutralisé",
+			"vous": "aviez neutralisé",
+			"ils/elles": "avaient neutralisé"
+		},
+		"passé antérieur": {
+			"j'": "eus neutralisé",
+			"tu": "eus neutralisé",
+			"il/elle": "eut neutralisé",
+			"nous": "eûmes neutralisé",
+			"vous": "eûtes neutralisé",
+			"ils/elles": "eurent neutralisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai neutralisé",
+			"tu": "auras neutralisé",
+			"il/elle": "aura neutralisé",
+			"nous": "aurons neutralisé",
+			"vous": "aurez neutralisé",
+			"ils/elles": "auront neutralisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous neutralisiez",
+			"qu'il/elle": "neutralise",
+			"qu'ils/elles": "neutralisent"
+		},
+		"imparfait": {
+			"que": "vous neutralisassiez",
+			"qu'il/elle": "neutralisât",
+			"qu'ils/elles": "neutralisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse neutralisé",
+			"que": "vous eussiez neutralisé",
+			"qu'il/elle": "eût neutralisé",
+			"qu'ils/elles": "eussent neutralisé"
+		},
+		"passé": {
+			"j'": "aie neutralisé",
+			"que": "vous ayez neutralisé",
+			"qu'il/elle": "ait neutralisé",
+			"qu'ils/elles": "aient neutralisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "neutraliserais",
+			"tu": "neutraliserais",
+			"il/elle": "neutraliserait",
+			"nous": "neutraliserions",
+			"vous": "neutraliseriez",
+			"ils/elles": "neutraliseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais neutralisé",
+			"tu": "aurais neutralisé",
+			"il/elle": "aurait neutralisé",
+			"nous": "aurions neutralisé",
+			"vous": "auriez neutralisé",
+			"ils/elles": "auraient neutralisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse neutralisé",
+			"tu": "eusses neutralisé",
+			"il/elle": "eût neutralisé",
+			"nous": "eussions neutralisé",
+			"vous": "eussiez neutralisé",
+			"ils/elles": "eussent neutralisé"
+		}
+	},
+	"participe": {
+		"présent": { "neutralisant": "" },
+		"passé composé": { "ayant": "neutralisé" },
+		"passé": {
+			"masc.sg.:": "neutralisé",
+			"masc.pl.:": "neutralisés",
+			"fém.sg.:": "neutralisée",
+			"fém.pl.:": "neutralisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "neutralise": "", "neutralisons": "", "neutralisez": "" },
+		"passé": {
+			"aie": "neutralisé",
+			"ayons": "neutralisé",
+			"ayez": "neutralisé"
+		}
+	},
+	"infinitif": {
+		"présent": { "neutraliser": "" },
+		"passé": { "avoir": "neutralisé" }
+	}
+}

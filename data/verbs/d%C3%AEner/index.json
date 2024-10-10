@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "dine; have dinner; eat; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas dîner",
+	"indicatif": {
+		"présent": {
+			"je": "dîne",
+			"tu": "dînes",
+			"il/elle": "dîne",
+			"nous": "dînons",
+			"vous": "dînez",
+			"ils/elles": "dînent"
+		},
+		"imparfait": {
+			"je": "dînais",
+			"tu": "dînais",
+			"il/elle": "dînait",
+			"nous": "dînions",
+			"vous": "dîniez",
+			"ils/elles": "dînaient"
+		},
+		"futur": {
+			"je": "dînerai",
+			"tu": "dîneras",
+			"il/elle": "dînera",
+			"nous": "dînerons",
+			"vous": "dînerez",
+			"ils/elles": "dîneront"
+		},
+		"passé simple": {
+			"je": "dînai",
+			"tu": "dînas",
+			"il/elle": "dîna",
+			"nous": "dînâmes",
+			"vous": "dînâtes",
+			"ils/elles": "dînèrent"
+		},
+		"passé composé": {
+			"j'": "ai dîné",
+			"tu": "as dîné",
+			"il/elle": "a dîné",
+			"nous": "avons dîné",
+			"vous": "avez dîné",
+			"ils/elles": "ont dîné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais dîné",
+			"tu": "avais dîné",
+			"il/elle": "avait dîné",
+			"nous": "avions dîné",
+			"vous": "aviez dîné",
+			"ils/elles": "avaient dîné"
+		},
+		"passé antérieur": {
+			"j'": "eus dîné",
+			"tu": "eus dîné",
+			"il/elle": "eut dîné",
+			"nous": "eûmes dîné",
+			"vous": "eûtes dîné",
+			"ils/elles": "eurent dîné"
+		},
+		"futur antérieur": {
+			"j'": "aurai dîné",
+			"tu": "auras dîné",
+			"il/elle": "aura dîné",
+			"nous": "aurons dîné",
+			"vous": "aurez dîné",
+			"ils/elles": "auront dîné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous dîniez",
+			"qu'il/elle": "dîne",
+			"qu'ils/elles": "dînent"
+		},
+		"imparfait": {
+			"que": "vous dînassiez",
+			"qu'il/elle": "dînât",
+			"qu'ils/elles": "dînassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse dîné",
+			"que": "vous eussiez dîné",
+			"qu'il/elle": "eût dîné",
+			"qu'ils/elles": "eussent dîné"
+		},
+		"passé": {
+			"j'": "aie dîné",
+			"que": "vous ayez dîné",
+			"qu'il/elle": "ait dîné",
+			"qu'ils/elles": "aient dîné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "dînerais",
+			"tu": "dînerais",
+			"il/elle": "dînerait",
+			"nous": "dînerions",
+			"vous": "dîneriez",
+			"ils/elles": "dîneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais dîné",
+			"tu": "aurais dîné",
+			"il/elle": "aurait dîné",
+			"nous": "aurions dîné",
+			"vous": "auriez dîné",
+			"ils/elles": "auraient dîné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse dîné",
+			"tu": "eusses dîné",
+			"il/elle": "eût dîné",
+			"nous": "eussions dîné",
+			"vous": "eussiez dîné",
+			"ils/elles": "eussent dîné"
+		}
+	},
+	"participe": {
+		"présent": { "dînant": "" },
+		"passé composé": { "ayant": "dîné" },
+		"passé": {
+			"masc.sg.:": "dîné",
+			"masc.pl.:": "dînés",
+			"fém.sg.:": "dînée",
+			"fém.pl.:": "dînées"
+		}
+	},
+	"imperatif": {
+		"présent": { "dîne": "", "dînons": "", "dînez": "" },
+		"passé": { "aie": "dîné", "ayons": "dîné", "ayez": "dîné" }
+	},
+	"infinitif": { "présent": { "dîner": "" }, "passé": { "avoir": "dîné" } }
+}

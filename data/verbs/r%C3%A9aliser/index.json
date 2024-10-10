@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "achieve; realize; perform; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se réaliser/ne pas réaliser/ne pas se réaliser",
+	"indicatif": {
+		"présent": {
+			"je": "réalise",
+			"tu": "réalises",
+			"il/elle": "réalise",
+			"nous": "réalisons",
+			"vous": "réalisez",
+			"ils/elles": "réalisent"
+		},
+		"imparfait": {
+			"je": "réalisais",
+			"tu": "réalisais",
+			"il/elle": "réalisait",
+			"nous": "réalisions",
+			"vous": "réalisiez",
+			"ils/elles": "réalisaient"
+		},
+		"futur": {
+			"je": "réaliserai",
+			"tu": "réaliseras",
+			"il/elle": "réalisera",
+			"nous": "réaliserons",
+			"vous": "réaliserez",
+			"ils/elles": "réaliseront"
+		},
+		"passé simple": {
+			"je": "réalisai",
+			"tu": "réalisas",
+			"il/elle": "réalisa",
+			"nous": "réalisâmes",
+			"vous": "réalisâtes",
+			"ils/elles": "réalisèrent"
+		},
+		"passé composé": {
+			"j'": "ai réalisé",
+			"tu": "as réalisé",
+			"il/elle": "a réalisé",
+			"nous": "avons réalisé",
+			"vous": "avez réalisé",
+			"ils/elles": "ont réalisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais réalisé",
+			"tu": "avais réalisé",
+			"il/elle": "avait réalisé",
+			"nous": "avions réalisé",
+			"vous": "aviez réalisé",
+			"ils/elles": "avaient réalisé"
+		},
+		"passé antérieur": {
+			"j'": "eus réalisé",
+			"tu": "eus réalisé",
+			"il/elle": "eut réalisé",
+			"nous": "eûmes réalisé",
+			"vous": "eûtes réalisé",
+			"ils/elles": "eurent réalisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai réalisé",
+			"tu": "auras réalisé",
+			"il/elle": "aura réalisé",
+			"nous": "aurons réalisé",
+			"vous": "aurez réalisé",
+			"ils/elles": "auront réalisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous réalisiez",
+			"qu'il/elle": "réalise",
+			"qu'ils/elles": "réalisent"
+		},
+		"imparfait": {
+			"que": "vous réalisassiez",
+			"qu'il/elle": "réalisât",
+			"qu'ils/elles": "réalisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse réalisé",
+			"que": "vous eussiez réalisé",
+			"qu'il/elle": "eût réalisé",
+			"qu'ils/elles": "eussent réalisé"
+		},
+		"passé": {
+			"j'": "aie réalisé",
+			"que": "vous ayez réalisé",
+			"qu'il/elle": "ait réalisé",
+			"qu'ils/elles": "aient réalisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "réaliserais",
+			"tu": "réaliserais",
+			"il/elle": "réaliserait",
+			"nous": "réaliserions",
+			"vous": "réaliseriez",
+			"ils/elles": "réaliseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais réalisé",
+			"tu": "aurais réalisé",
+			"il/elle": "aurait réalisé",
+			"nous": "aurions réalisé",
+			"vous": "auriez réalisé",
+			"ils/elles": "auraient réalisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse réalisé",
+			"tu": "eusses réalisé",
+			"il/elle": "eût réalisé",
+			"nous": "eussions réalisé",
+			"vous": "eussiez réalisé",
+			"ils/elles": "eussent réalisé"
+		}
+	},
+	"participe": {
+		"présent": { "réalisant": "" },
+		"passé composé": { "ayant": "réalisé" },
+		"passé": {
+			"masc.sg.:": "réalisé",
+			"masc.pl.:": "réalisés",
+			"fém.sg.:": "réalisée",
+			"fém.pl.:": "réalisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "réalise": "", "réalisons": "", "réalisez": "" },
+		"passé": { "aie": "réalisé", "ayons": "réalisé", "ayez": "réalisé" }
+	},
+	"infinitif": {
+		"présent": { "réaliser": "" },
+		"passé": { "avoir": "réalisé" }
+	}
+}

@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "count; rely; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se compter/ne pas compter/ne pas se compter",
+	"indicatif": {
+		"présent": {
+			"je": "compte",
+			"tu": "comptes",
+			"il/elle": "compte",
+			"nous": "comptons",
+			"vous": "comptez",
+			"ils/elles": "comptent"
+		},
+		"imparfait": {
+			"je": "comptais",
+			"tu": "comptais",
+			"il/elle": "comptait",
+			"nous": "comptions",
+			"vous": "comptiez",
+			"ils/elles": "comptaient"
+		},
+		"futur": {
+			"je": "compterai",
+			"tu": "compteras",
+			"il/elle": "comptera",
+			"nous": "compterons",
+			"vous": "compterez",
+			"ils/elles": "compteront"
+		},
+		"passé simple": {
+			"je": "comptai",
+			"tu": "comptas",
+			"il/elle": "compta",
+			"nous": "comptâmes",
+			"vous": "comptâtes",
+			"ils/elles": "comptèrent"
+		},
+		"passé composé": {
+			"j'": "ai compté",
+			"tu": "as compté",
+			"il/elle": "a compté",
+			"nous": "avons compté",
+			"vous": "avez compté",
+			"ils/elles": "ont compté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais compté",
+			"tu": "avais compté",
+			"il/elle": "avait compté",
+			"nous": "avions compté",
+			"vous": "aviez compté",
+			"ils/elles": "avaient compté"
+		},
+		"passé antérieur": {
+			"j'": "eus compté",
+			"tu": "eus compté",
+			"il/elle": "eut compté",
+			"nous": "eûmes compté",
+			"vous": "eûtes compté",
+			"ils/elles": "eurent compté"
+		},
+		"futur antérieur": {
+			"j'": "aurai compté",
+			"tu": "auras compté",
+			"il/elle": "aura compté",
+			"nous": "aurons compté",
+			"vous": "aurez compté",
+			"ils/elles": "auront compté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous comptiez",
+			"qu'il/elle": "compte",
+			"qu'ils/elles": "comptent"
+		},
+		"imparfait": {
+			"que": "vous comptassiez",
+			"qu'il/elle": "comptât",
+			"qu'ils/elles": "comptassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse compté",
+			"que": "vous eussiez compté",
+			"qu'il/elle": "eût compté",
+			"qu'ils/elles": "eussent compté"
+		},
+		"passé": {
+			"j'": "aie compté",
+			"que": "vous ayez compté",
+			"qu'il/elle": "ait compté",
+			"qu'ils/elles": "aient compté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "compterais",
+			"tu": "compterais",
+			"il/elle": "compterait",
+			"nous": "compterions",
+			"vous": "compteriez",
+			"ils/elles": "compteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais compté",
+			"tu": "aurais compté",
+			"il/elle": "aurait compté",
+			"nous": "aurions compté",
+			"vous": "auriez compté",
+			"ils/elles": "auraient compté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse compté",
+			"tu": "eusses compté",
+			"il/elle": "eût compté",
+			"nous": "eussions compté",
+			"vous": "eussiez compté",
+			"ils/elles": "eussent compté"
+		}
+	},
+	"participe": {
+		"présent": { "comptant": "" },
+		"passé composé": { "ayant": "compté" },
+		"passé": {
+			"masc.sg.:": "compté",
+			"masc.pl.:": "comptés",
+			"fém.sg.:": "comptée",
+			"fém.pl.:": "comptées"
+		}
+	},
+	"imperatif": {
+		"présent": { "compte": "", "comptons": "", "comptez": "" },
+		"passé": { "aie": "compté", "ayons": "compté", "ayez": "compté" }
+	},
+	"infinitif": { "présent": { "compter": "" }, "passé": { "avoir": "compté" } }
+}

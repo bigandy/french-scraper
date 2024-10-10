@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "cut; cut off; chop; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se couper/ne pas couper/ne pas se couper",
+	"indicatif": {
+		"présent": {
+			"je": "coupe",
+			"tu": "coupes",
+			"il/elle": "coupe",
+			"nous": "coupons",
+			"vous": "coupez",
+			"ils/elles": "coupent"
+		},
+		"imparfait": {
+			"je": "coupais",
+			"tu": "coupais",
+			"il/elle": "coupait",
+			"nous": "coupions",
+			"vous": "coupiez",
+			"ils/elles": "coupaient"
+		},
+		"futur": {
+			"je": "couperai",
+			"tu": "couperas",
+			"il/elle": "coupera",
+			"nous": "couperons",
+			"vous": "couperez",
+			"ils/elles": "couperont"
+		},
+		"passé simple": {
+			"je": "coupai",
+			"tu": "coupas",
+			"il/elle": "coupa",
+			"nous": "coupâmes",
+			"vous": "coupâtes",
+			"ils/elles": "coupèrent"
+		},
+		"passé composé": {
+			"j'": "ai coupé",
+			"tu": "as coupé",
+			"il/elle": "a coupé",
+			"nous": "avons coupé",
+			"vous": "avez coupé",
+			"ils/elles": "ont coupé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais coupé",
+			"tu": "avais coupé",
+			"il/elle": "avait coupé",
+			"nous": "avions coupé",
+			"vous": "aviez coupé",
+			"ils/elles": "avaient coupé"
+		},
+		"passé antérieur": {
+			"j'": "eus coupé",
+			"tu": "eus coupé",
+			"il/elle": "eut coupé",
+			"nous": "eûmes coupé",
+			"vous": "eûtes coupé",
+			"ils/elles": "eurent coupé"
+		},
+		"futur antérieur": {
+			"j'": "aurai coupé",
+			"tu": "auras coupé",
+			"il/elle": "aura coupé",
+			"nous": "aurons coupé",
+			"vous": "aurez coupé",
+			"ils/elles": "auront coupé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous coupiez",
+			"qu'il/elle": "coupe",
+			"qu'ils/elles": "coupent"
+		},
+		"imparfait": {
+			"que": "vous coupassiez",
+			"qu'il/elle": "coupât",
+			"qu'ils/elles": "coupassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse coupé",
+			"que": "vous eussiez coupé",
+			"qu'il/elle": "eût coupé",
+			"qu'ils/elles": "eussent coupé"
+		},
+		"passé": {
+			"j'": "aie coupé",
+			"que": "vous ayez coupé",
+			"qu'il/elle": "ait coupé",
+			"qu'ils/elles": "aient coupé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "couperais",
+			"tu": "couperais",
+			"il/elle": "couperait",
+			"nous": "couperions",
+			"vous": "couperiez",
+			"ils/elles": "couperaient"
+		},
+		"passé première forme": {
+			"j'": "aurais coupé",
+			"tu": "aurais coupé",
+			"il/elle": "aurait coupé",
+			"nous": "aurions coupé",
+			"vous": "auriez coupé",
+			"ils/elles": "auraient coupé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse coupé",
+			"tu": "eusses coupé",
+			"il/elle": "eût coupé",
+			"nous": "eussions coupé",
+			"vous": "eussiez coupé",
+			"ils/elles": "eussent coupé"
+		}
+	},
+	"participe": {
+		"présent": { "coupant": "" },
+		"passé composé": { "ayant": "coupé" },
+		"passé": {
+			"masc.sg.:": "coupé",
+			"masc.pl.:": "coupés",
+			"fém.sg.:": "coupée",
+			"fém.pl.:": "coupées"
+		}
+	},
+	"imperatif": {
+		"présent": { "coupe": "", "coupons": "", "coupez": "" },
+		"passé": { "aie": "coupé", "ayons": "coupé", "ayez": "coupé" }
+	},
+	"infinitif": { "présent": { "couper": "" }, "passé": { "avoir": "coupé" } }
+}

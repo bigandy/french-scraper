@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "assume; suppose; be assumed; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se supposer/ne pas supposer/ne pas se supposer",
+	"indicatif": {
+		"présent": {
+			"je": "suppose",
+			"tu": "supposes",
+			"il/elle": "suppose",
+			"nous": "supposons",
+			"vous": "supposez",
+			"ils/elles": "supposent"
+		},
+		"imparfait": {
+			"je": "supposais",
+			"tu": "supposais",
+			"il/elle": "supposait",
+			"nous": "supposions",
+			"vous": "supposiez",
+			"ils/elles": "supposaient"
+		},
+		"futur": {
+			"je": "supposerai",
+			"tu": "supposeras",
+			"il/elle": "supposera",
+			"nous": "supposerons",
+			"vous": "supposerez",
+			"ils/elles": "supposeront"
+		},
+		"passé simple": {
+			"je": "supposai",
+			"tu": "supposas",
+			"il/elle": "supposa",
+			"nous": "supposâmes",
+			"vous": "supposâtes",
+			"ils/elles": "supposèrent"
+		},
+		"passé composé": {
+			"j'": "ai supposé",
+			"tu": "as supposé",
+			"il/elle": "a supposé",
+			"nous": "avons supposé",
+			"vous": "avez supposé",
+			"ils/elles": "ont supposé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais supposé",
+			"tu": "avais supposé",
+			"il/elle": "avait supposé",
+			"nous": "avions supposé",
+			"vous": "aviez supposé",
+			"ils/elles": "avaient supposé"
+		},
+		"passé antérieur": {
+			"j'": "eus supposé",
+			"tu": "eus supposé",
+			"il/elle": "eut supposé",
+			"nous": "eûmes supposé",
+			"vous": "eûtes supposé",
+			"ils/elles": "eurent supposé"
+		},
+		"futur antérieur": {
+			"j'": "aurai supposé",
+			"tu": "auras supposé",
+			"il/elle": "aura supposé",
+			"nous": "aurons supposé",
+			"vous": "aurez supposé",
+			"ils/elles": "auront supposé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous supposiez",
+			"qu'il/elle": "suppose",
+			"qu'ils/elles": "supposent"
+		},
+		"imparfait": {
+			"que": "vous supposassiez",
+			"qu'il/elle": "supposât",
+			"qu'ils/elles": "supposassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse supposé",
+			"que": "vous eussiez supposé",
+			"qu'il/elle": "eût supposé",
+			"qu'ils/elles": "eussent supposé"
+		},
+		"passé": {
+			"j'": "aie supposé",
+			"que": "vous ayez supposé",
+			"qu'il/elle": "ait supposé",
+			"qu'ils/elles": "aient supposé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "supposerais",
+			"tu": "supposerais",
+			"il/elle": "supposerait",
+			"nous": "supposerions",
+			"vous": "supposeriez",
+			"ils/elles": "supposeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais supposé",
+			"tu": "aurais supposé",
+			"il/elle": "aurait supposé",
+			"nous": "aurions supposé",
+			"vous": "auriez supposé",
+			"ils/elles": "auraient supposé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse supposé",
+			"tu": "eusses supposé",
+			"il/elle": "eût supposé",
+			"nous": "eussions supposé",
+			"vous": "eussiez supposé",
+			"ils/elles": "eussent supposé"
+		}
+	},
+	"participe": {
+		"présent": { "supposant": "" },
+		"passé composé": { "ayant": "supposé" },
+		"passé": {
+			"masc.sg.:": "supposé",
+			"masc.pl.:": "supposés",
+			"fém.sg.:": "supposée",
+			"fém.pl.:": "supposées"
+		}
+	},
+	"imperatif": {
+		"présent": { "suppose": "", "supposons": "", "supposez": "" },
+		"passé": { "aie": "supposé", "ayons": "supposé", "ayez": "supposé" }
+	},
+	"infinitif": {
+		"présent": { "supposer": "" },
+		"passé": { "avoir": "supposé" }
+	}
+}

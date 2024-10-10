@@ -1,0 +1,141 @@
+{
+	"name": "finir",
+	"definition": "slow down; slow; decelerate; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se ralentir/ne pas ralentir/ne pas se ralentir",
+	"indicatif": {
+		"présent": {
+			"je": "ralentis",
+			"tu": "ralentis",
+			"il/elle": "ralentit",
+			"nous": "ralentissons",
+			"vous": "ralentissez",
+			"ils/elles": "ralentissent"
+		},
+		"imparfait": {
+			"je": "ralentissais",
+			"tu": "ralentissais",
+			"il/elle": "ralentissait",
+			"nous": "ralentissions",
+			"vous": "ralentissiez",
+			"ils/elles": "ralentissaient"
+		},
+		"futur": {
+			"je": "ralentirai",
+			"tu": "ralentiras",
+			"il/elle": "ralentira",
+			"nous": "ralentirons",
+			"vous": "ralentirez",
+			"ils/elles": "ralentiront"
+		},
+		"passé simple": {
+			"je": "ralentis",
+			"tu": "ralentis",
+			"il/elle": "ralentit",
+			"nous": "ralentîmes",
+			"vous": "ralentîtes",
+			"ils/elles": "ralentirent"
+		},
+		"passé composé": {
+			"j'": "ai ralenti",
+			"tu": "as ralenti",
+			"il/elle": "a ralenti",
+			"nous": "avons ralenti",
+			"vous": "avez ralenti",
+			"ils/elles": "ont ralenti"
+		},
+		"plus-que-parfait": {
+			"j'": "avais ralenti",
+			"tu": "avais ralenti",
+			"il/elle": "avait ralenti",
+			"nous": "avions ralenti",
+			"vous": "aviez ralenti",
+			"ils/elles": "avaient ralenti"
+		},
+		"passé antérieur": {
+			"j'": "eus ralenti",
+			"tu": "eus ralenti",
+			"il/elle": "eut ralenti",
+			"nous": "eûmes ralenti",
+			"vous": "eûtes ralenti",
+			"ils/elles": "eurent ralenti"
+		},
+		"futur antérieur": {
+			"j'": "aurai ralenti",
+			"tu": "auras ralenti",
+			"il/elle": "aura ralenti",
+			"nous": "aurons ralenti",
+			"vous": "aurez ralenti",
+			"ils/elles": "auront ralenti"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous ralentissiez",
+			"qu'il/elle": "ralentisse",
+			"qu'ils/elles": "ralentissent"
+		},
+		"imparfait": {
+			"que": "vous ralentissiez",
+			"qu'il/elle": "ralentît",
+			"qu'ils/elles": "ralentissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse ralenti",
+			"que": "vous eussiez ralenti",
+			"qu'il/elle": "eût ralenti",
+			"qu'ils/elles": "eussent ralenti"
+		},
+		"passé": {
+			"j'": "aie ralenti",
+			"que": "vous ayez ralenti",
+			"qu'il/elle": "ait ralenti",
+			"qu'ils/elles": "aient ralenti"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "ralentirais",
+			"tu": "ralentirais",
+			"il/elle": "ralentirait",
+			"nous": "ralentirions",
+			"vous": "ralentiriez",
+			"ils/elles": "ralentiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais ralenti",
+			"tu": "aurais ralenti",
+			"il/elle": "aurait ralenti",
+			"nous": "aurions ralenti",
+			"vous": "auriez ralenti",
+			"ils/elles": "auraient ralenti"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse ralenti",
+			"tu": "eusses ralenti",
+			"il/elle": "eût ralenti",
+			"nous": "eussions ralenti",
+			"vous": "eussiez ralenti",
+			"ils/elles": "eussent ralenti"
+		}
+	},
+	"participe": {
+		"présent": { "ralentissant": "" },
+		"passé composé": { "ayant": "ralenti" },
+		"passé": {
+			"masc.sg.:": "ralenti",
+			"masc.pl.:": "ralentis",
+			"fém.sg.:": "ralentie",
+			"fém.pl.:": "ralenties"
+		}
+	},
+	"imperatif": {
+		"présent": { "ralentis": "", "ralentissons": "", "ralentissez": "" },
+		"passé": { "aie": "ralenti", "ayons": "ralenti", "ayez": "ralenti" }
+	},
+	"infinitif": {
+		"présent": { "ralentir": "" },
+		"passé": { "avoir": "ralenti" }
+	}
+}

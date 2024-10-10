@@ -1,0 +1,138 @@
+{
+	"name": "dépecer",
+	"definition": "skin; dismember; butcher; ...",
+	"model": "dépecer",
+	"auxiliary": "avoir",
+	"otherForms": "se dépecer/ne pas dépecer/ne pas se dépecer",
+	"indicatif": {
+		"présent": {
+			"je": "dépèce",
+			"tu": "dépèces",
+			"il/elle": "dépèce",
+			"nous": "dépeçons",
+			"vous": "dépecez",
+			"ils/elles": "dépècent"
+		},
+		"imparfait": {
+			"je": "dépeçais",
+			"tu": "dépeçais",
+			"il/elle": "dépeçait",
+			"nous": "dépecions",
+			"vous": "dépeciez",
+			"ils/elles": "dépeçaient"
+		},
+		"futur": {
+			"je": "dépècerai",
+			"tu": "dépèceras",
+			"il/elle": "dépècera",
+			"nous": "dépècerons",
+			"vous": "dépècerez",
+			"ils/elles": "dépèceront"
+		},
+		"passé simple": {
+			"je": "dépeçai",
+			"tu": "dépeças",
+			"il/elle": "dépeça",
+			"nous": "dépeçâmes",
+			"vous": "dépeçâtes",
+			"ils/elles": "dépecèrent"
+		},
+		"passé composé": {
+			"j'": "ai dépecé",
+			"tu": "as dépecé",
+			"il/elle": "a dépecé",
+			"nous": "avons dépecé",
+			"vous": "avez dépecé",
+			"ils/elles": "ont dépecé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais dépecé",
+			"tu": "avais dépecé",
+			"il/elle": "avait dépecé",
+			"nous": "avions dépecé",
+			"vous": "aviez dépecé",
+			"ils/elles": "avaient dépecé"
+		},
+		"passé antérieur": {
+			"j'": "eus dépecé",
+			"tu": "eus dépecé",
+			"il/elle": "eut dépecé",
+			"nous": "eûmes dépecé",
+			"vous": "eûtes dépecé",
+			"ils/elles": "eurent dépecé"
+		},
+		"futur antérieur": {
+			"j'": "aurai dépecé",
+			"tu": "auras dépecé",
+			"il/elle": "aura dépecé",
+			"nous": "aurons dépecé",
+			"vous": "aurez dépecé",
+			"ils/elles": "auront dépecé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous dépeciez",
+			"qu'il/elle": "dépèce",
+			"qu'ils/elles": "dépècent"
+		},
+		"imparfait": {
+			"que": "vous dépeçassiez",
+			"qu'il/elle": "dépeçât",
+			"qu'ils/elles": "dépeçassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse dépecé",
+			"que": "vous eussiez dépecé",
+			"qu'il/elle": "eût dépecé",
+			"qu'ils/elles": "eussent dépecé"
+		},
+		"passé": {
+			"j'": "aie dépecé",
+			"que": "vous ayez dépecé",
+			"qu'il/elle": "ait dépecé",
+			"qu'ils/elles": "aient dépecé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "dépècerais",
+			"tu": "dépècerais",
+			"il/elle": "dépècerait",
+			"nous": "dépècerions",
+			"vous": "dépèceriez",
+			"ils/elles": "dépèceraient"
+		},
+		"passé première forme": {
+			"j'": "aurais dépecé",
+			"tu": "aurais dépecé",
+			"il/elle": "aurait dépecé",
+			"nous": "aurions dépecé",
+			"vous": "auriez dépecé",
+			"ils/elles": "auraient dépecé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse dépecé",
+			"tu": "eusses dépecé",
+			"il/elle": "eût dépecé",
+			"nous": "eussions dépecé",
+			"vous": "eussiez dépecé",
+			"ils/elles": "eussent dépecé"
+		}
+	},
+	"participe": {
+		"présent": { "dépeçant": "" },
+		"passé composé": { "ayant": "dépecé" },
+		"passé": {
+			"masc.sg.:": "dépecé",
+			"masc.pl.:": "dépecés",
+			"fém.sg.:": "dépecée",
+			"fém.pl.:": "dépecées"
+		}
+	},
+	"imperatif": {
+		"présent": { "dépèce": "", "dépeçons": "", "dépecez": "" },
+		"passé": { "aie": "dépecé", "ayons": "dépecé", "ayez": "dépecé" }
+	},
+	"infinitif": { "présent": { "dépecer": "" }, "passé": { "avoir": "dépecé" } }
+}

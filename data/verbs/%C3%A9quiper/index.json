@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "equip; fit; outfit; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'équiper/ne pas équiper/ne pas s'équiper",
+	"indicatif": {
+		"présent": {
+			"j'": "équipe",
+			"tu": "équipes",
+			"il/elle": "équipe",
+			"nous": "équipons",
+			"vous": "équipez",
+			"ils/elles": "équipent"
+		},
+		"imparfait": {
+			"j'": "équipais",
+			"tu": "équipais",
+			"il/elle": "équipait",
+			"nous": "équipions",
+			"vous": "équipiez",
+			"ils/elles": "équipaient"
+		},
+		"futur": {
+			"j'": "équiperai",
+			"tu": "équiperas",
+			"il/elle": "équipera",
+			"nous": "équiperons",
+			"vous": "équiperez",
+			"ils/elles": "équiperont"
+		},
+		"passé simple": {
+			"j'": "équipai",
+			"tu": "équipas",
+			"il/elle": "équipa",
+			"nous": "équipâmes",
+			"vous": "équipâtes",
+			"ils/elles": "équipèrent"
+		},
+		"passé composé": {
+			"j'": "ai équipé",
+			"tu": "as équipé",
+			"il/elle": "a équipé",
+			"nous": "avons équipé",
+			"vous": "avez équipé",
+			"ils/elles": "ont équipé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais équipé",
+			"tu": "avais équipé",
+			"il/elle": "avait équipé",
+			"nous": "avions équipé",
+			"vous": "aviez équipé",
+			"ils/elles": "avaient équipé"
+		},
+		"passé antérieur": {
+			"j'": "eus équipé",
+			"tu": "eus équipé",
+			"il/elle": "eut équipé",
+			"nous": "eûmes équipé",
+			"vous": "eûtes équipé",
+			"ils/elles": "eurent équipé"
+		},
+		"futur antérieur": {
+			"j'": "aurai équipé",
+			"tu": "auras équipé",
+			"il/elle": "aura équipé",
+			"nous": "aurons équipé",
+			"vous": "aurez équipé",
+			"ils/elles": "auront équipé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "équipe",
+			"que": "vous équipiez",
+			"qu'il/elle": "équipe",
+			"qu'ils/elles": "équipent"
+		},
+		"imparfait": {
+			"j'": "équipasse",
+			"que": "vous équipassiez",
+			"qu'il/elle": "équipât",
+			"qu'ils/elles": "équipassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse équipé",
+			"que": "vous eussiez équipé",
+			"qu'il/elle": "eût équipé",
+			"qu'ils/elles": "eussent équipé"
+		},
+		"passé": {
+			"j'": "aie équipé",
+			"que": "vous ayez équipé",
+			"qu'il/elle": "ait équipé",
+			"qu'ils/elles": "aient équipé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "équiperais",
+			"tu": "équiperais",
+			"il/elle": "équiperait",
+			"nous": "équiperions",
+			"vous": "équiperiez",
+			"ils/elles": "équiperaient"
+		},
+		"passé première forme": {
+			"j'": "aurais équipé",
+			"tu": "aurais équipé",
+			"il/elle": "aurait équipé",
+			"nous": "aurions équipé",
+			"vous": "auriez équipé",
+			"ils/elles": "auraient équipé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse équipé",
+			"tu": "eusses équipé",
+			"il/elle": "eût équipé",
+			"nous": "eussions équipé",
+			"vous": "eussiez équipé",
+			"ils/elles": "eussent équipé"
+		}
+	},
+	"participe": {
+		"présent": { "équipant": "" },
+		"passé composé": { "ayant": "équipé" },
+		"passé": {
+			"masc.sg.:": "équipé",
+			"masc.pl.:": "équipés",
+			"fém.sg.:": "équipée",
+			"fém.pl.:": "équipées"
+		}
+	},
+	"imperatif": {
+		"présent": { "équipe": "", "équipons": "", "équipez": "" },
+		"passé": { "aie": "équipé", "ayons": "équipé", "ayez": "équipé" }
+	},
+	"infinitif": { "présent": { "équiper": "" }, "passé": { "avoir": "équipé" } }
+}

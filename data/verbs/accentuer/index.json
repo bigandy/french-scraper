@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "increase; accentuate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'accentuer/ne pas accentuer/ne pas s'accentuer",
+	"indicatif": {
+		"présent": {
+			"j'": "accentue",
+			"tu": "accentues",
+			"il/elle": "accentue",
+			"nous": "accentuons",
+			"vous": "accentuez",
+			"ils/elles": "accentuent"
+		},
+		"imparfait": {
+			"j'": "accentuais",
+			"tu": "accentuais",
+			"il/elle": "accentuait",
+			"nous": "accentuions",
+			"vous": "accentuiez",
+			"ils/elles": "accentuaient"
+		},
+		"futur": {
+			"j'": "accentuerai",
+			"tu": "accentueras",
+			"il/elle": "accentuera",
+			"nous": "accentuerons",
+			"vous": "accentuerez",
+			"ils/elles": "accentueront"
+		},
+		"passé simple": {
+			"j'": "accentuai",
+			"tu": "accentuas",
+			"il/elle": "accentua",
+			"nous": "accentuâmes",
+			"vous": "accentuâtes",
+			"ils/elles": "accentuèrent"
+		},
+		"passé composé": {
+			"j'": "ai accentué",
+			"tu": "as accentué",
+			"il/elle": "a accentué",
+			"nous": "avons accentué",
+			"vous": "avez accentué",
+			"ils/elles": "ont accentué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais accentué",
+			"tu": "avais accentué",
+			"il/elle": "avait accentué",
+			"nous": "avions accentué",
+			"vous": "aviez accentué",
+			"ils/elles": "avaient accentué"
+		},
+		"passé antérieur": {
+			"j'": "eus accentué",
+			"tu": "eus accentué",
+			"il/elle": "eut accentué",
+			"nous": "eûmes accentué",
+			"vous": "eûtes accentué",
+			"ils/elles": "eurent accentué"
+		},
+		"futur antérieur": {
+			"j'": "aurai accentué",
+			"tu": "auras accentué",
+			"il/elle": "aura accentué",
+			"nous": "aurons accentué",
+			"vous": "aurez accentué",
+			"ils/elles": "auront accentué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "accentue",
+			"que": "vous accentuiez",
+			"qu'il/elle": "accentue",
+			"qu'ils/elles": "accentuent"
+		},
+		"imparfait": {
+			"j'": "accentuasse",
+			"que": "vous accentuassiez",
+			"qu'il/elle": "accentuât",
+			"qu'ils/elles": "accentuassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse accentué",
+			"que": "vous eussiez accentué",
+			"qu'il/elle": "eût accentué",
+			"qu'ils/elles": "eussent accentué"
+		},
+		"passé": {
+			"j'": "aie accentué",
+			"que": "vous ayez accentué",
+			"qu'il/elle": "ait accentué",
+			"qu'ils/elles": "aient accentué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "accentuerais",
+			"tu": "accentuerais",
+			"il/elle": "accentuerait",
+			"nous": "accentuerions",
+			"vous": "accentueriez",
+			"ils/elles": "accentueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais accentué",
+			"tu": "aurais accentué",
+			"il/elle": "aurait accentué",
+			"nous": "aurions accentué",
+			"vous": "auriez accentué",
+			"ils/elles": "auraient accentué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse accentué",
+			"tu": "eusses accentué",
+			"il/elle": "eût accentué",
+			"nous": "eussions accentué",
+			"vous": "eussiez accentué",
+			"ils/elles": "eussent accentué"
+		}
+	},
+	"participe": {
+		"présent": { "accentuant": "" },
+		"passé composé": { "ayant": "accentué" },
+		"passé": {
+			"masc.sg.:": "accentué",
+			"masc.pl.:": "accentués",
+			"fém.sg.:": "accentuée",
+			"fém.pl.:": "accentuées"
+		}
+	},
+	"imperatif": {
+		"présent": { "accentue": "", "accentuons": "", "accentuez": "" },
+		"passé": { "aie": "accentué", "ayons": "accentué", "ayez": "accentué" }
+	},
+	"infinitif": {
+		"présent": { "accentuer": "" },
+		"passé": { "avoir": "accentué" }
+	}
+}

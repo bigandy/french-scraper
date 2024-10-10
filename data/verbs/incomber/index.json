@@ -1,0 +1,98 @@
+{
+	"name": "incomber",
+	"definition": "\n              fall; be the responsibility; rest with; ...\n            ",
+	"model": "incomber",
+	"auxiliary": "avoir",
+	"otherForms": "s'incomber/ne pas incomber/ne pas s'incomber",
+	"indicatif": {
+		"présent": { "il/elle": "incombe", "ils/elles": "incombent" },
+		"imparfait": { "il/elle": "incombait", "ils/elles": "incombaient" },
+		"futur": { "il/elle": "incombera", "ils/elles": "incomberont" },
+		"passé simple": { "il/elle": "incomba", "ils/elles": "incombèrent" },
+		"passé composé": {
+			"j'": "ai incombé",
+			"tu": "as incombé",
+			"il/elle": "a incombé",
+			"nous": "avons incombé",
+			"vous": "avez incombé",
+			"ils/elles": "ont incombé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais incombé",
+			"tu": "avais incombé",
+			"il/elle": "avait incombé",
+			"nous": "avions incombé",
+			"vous": "aviez incombé",
+			"ils/elles": "avaient incombé"
+		},
+		"passé antérieur": {
+			"j'": "eus incombé",
+			"tu": "eus incombé",
+			"il/elle": "eut incombé",
+			"nous": "eûmes incombé",
+			"vous": "eûtes incombé",
+			"ils/elles": "eurent incombé"
+		},
+		"futur antérieur": {
+			"j'": "aurai incombé",
+			"tu": "auras incombé",
+			"il/elle": "aura incombé",
+			"nous": "aurons incombé",
+			"vous": "aurez incombé",
+			"ils/elles": "auront incombé"
+		}
+	},
+	"subjonctif": {
+		"présent": { "qu'il/elle": "incombe", "qu'ils/elles": "incombent" },
+		"imparfait": { "qu'il/elle": "incombât", "qu'ils/elles": "incombassent" },
+		"plus-que-parfait": {
+			"j'": "eusse incombé",
+			"que": "vous eussiez incombé",
+			"qu'il/elle": "eût incombé",
+			"qu'ils/elles": "eussent incombé"
+		},
+		"passé": {
+			"j'": "aie incombé",
+			"que": "vous ayez incombé",
+			"qu'il/elle": "ait incombé",
+			"qu'ils/elles": "aient incombé"
+		}
+	},
+	"conditionnel": {
+		"présent": { "il/elle": "incomberait", "ils/elles": "incomberaient" },
+		"passé première forme": {
+			"j'": "aurais incombé",
+			"tu": "aurais incombé",
+			"il/elle": "aurait incombé",
+			"nous": "aurions incombé",
+			"vous": "auriez incombé",
+			"ils/elles": "auraient incombé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse incombé",
+			"tu": "eusses incombé",
+			"il/elle": "eût incombé",
+			"nous": "eussions incombé",
+			"vous": "eussiez incombé",
+			"ils/elles": "eussent incombé"
+		}
+	},
+	"participe": {
+		"présent": { "incombant": "" },
+		"passé composé": { "ayant": "incombé" },
+		"passé": {
+			"masc.sg.:": "incombé",
+			"masc.pl.:": "incombé",
+			"fém.sg.:": "incombé",
+			"fém.pl.:": "incombé"
+		}
+	},
+	"imperatif": {
+		"présent": {},
+		"passé": { "aie": "incombé", "ayons": "incombé", "ayez": "incombé" }
+	},
+	"infinitif": {
+		"présent": { "incomber": "" },
+		"passé": { "avoir": "incombé" }
+	}
+}

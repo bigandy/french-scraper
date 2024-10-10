@@ -1,0 +1,138 @@
+{
+	"name": "tenir",
+	"definition": "take; hold; keep; ...",
+	"model": "tenir",
+	"auxiliary": "avoir",
+	"otherForms": "se tenir/ne pas tenir/ne pas se tenir",
+	"indicatif": {
+		"présent": {
+			"je": "tiens",
+			"tu": "tiens",
+			"il/elle": "tient",
+			"nous": "tenons",
+			"vous": "tenez",
+			"ils/elles": "tiennent"
+		},
+		"imparfait": {
+			"je": "tenais",
+			"tu": "tenais",
+			"il/elle": "tenait",
+			"nous": "tenions",
+			"vous": "teniez",
+			"ils/elles": "tenaient"
+		},
+		"futur": {
+			"je": "tiendrai",
+			"tu": "tiendras",
+			"il/elle": "tiendra",
+			"nous": "tiendrons",
+			"vous": "tiendrez",
+			"ils/elles": "tiendront"
+		},
+		"passé simple": {
+			"je": "tins",
+			"tu": "tins",
+			"il/elle": "tint",
+			"nous": "tînmes",
+			"vous": "tîntes",
+			"ils/elles": "tinrent"
+		},
+		"passé composé": {
+			"j'": "ai tenu",
+			"tu": "as tenu",
+			"il/elle": "a tenu",
+			"nous": "avons tenu",
+			"vous": "avez tenu",
+			"ils/elles": "ont tenu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais tenu",
+			"tu": "avais tenu",
+			"il/elle": "avait tenu",
+			"nous": "avions tenu",
+			"vous": "aviez tenu",
+			"ils/elles": "avaient tenu"
+		},
+		"passé antérieur": {
+			"j'": "eus tenu",
+			"tu": "eus tenu",
+			"il/elle": "eut tenu",
+			"nous": "eûmes tenu",
+			"vous": "eûtes tenu",
+			"ils/elles": "eurent tenu"
+		},
+		"futur antérieur": {
+			"j'": "aurai tenu",
+			"tu": "auras tenu",
+			"il/elle": "aura tenu",
+			"nous": "aurons tenu",
+			"vous": "aurez tenu",
+			"ils/elles": "auront tenu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous teniez",
+			"qu'il/elle": "tienne",
+			"qu'ils/elles": "tiennent"
+		},
+		"imparfait": {
+			"que": "vous tinssiez",
+			"qu'il/elle": "tînt",
+			"qu'ils/elles": "tinssent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse tenu",
+			"que": "vous eussiez tenu",
+			"qu'il/elle": "eût tenu",
+			"qu'ils/elles": "eussent tenu"
+		},
+		"passé": {
+			"j'": "aie tenu",
+			"que": "vous ayez tenu",
+			"qu'il/elle": "ait tenu",
+			"qu'ils/elles": "aient tenu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "tiendrais",
+			"tu": "tiendrais",
+			"il/elle": "tiendrait",
+			"nous": "tiendrions",
+			"vous": "tiendriez",
+			"ils/elles": "tiendraient"
+		},
+		"passé première forme": {
+			"j'": "aurais tenu",
+			"tu": "aurais tenu",
+			"il/elle": "aurait tenu",
+			"nous": "aurions tenu",
+			"vous": "auriez tenu",
+			"ils/elles": "auraient tenu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse tenu",
+			"tu": "eusses tenu",
+			"il/elle": "eût tenu",
+			"nous": "eussions tenu",
+			"vous": "eussiez tenu",
+			"ils/elles": "eussent tenu"
+		}
+	},
+	"participe": {
+		"présent": { "tenant": "" },
+		"passé composé": { "ayant": "tenu" },
+		"passé": {
+			"masc.sg.:": "tenu",
+			"masc.pl.:": "tenus",
+			"fém.sg.:": "tenue",
+			"fém.pl.:": "tenues"
+		}
+	},
+	"imperatif": {
+		"présent": { "tiens": "", "tenons": "", "tenez": "" },
+		"passé": { "aie": "tenu", "ayons": "tenu", "ayez": "tenu" }
+	},
+	"infinitif": { "présent": { "tenir": "" }, "passé": { "avoir": "tenu" } }
+}

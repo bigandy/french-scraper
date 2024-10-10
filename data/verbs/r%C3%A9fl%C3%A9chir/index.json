@@ -1,0 +1,141 @@
+{
+	"name": "finir",
+	"definition": "think; reflect; consider; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se réfléchir/ne pas réfléchir/ne pas se réfléchir",
+	"indicatif": {
+		"présent": {
+			"je": "réfléchis",
+			"tu": "réfléchis",
+			"il/elle": "réfléchit",
+			"nous": "réfléchissons",
+			"vous": "réfléchissez",
+			"ils/elles": "réfléchissent"
+		},
+		"imparfait": {
+			"je": "réfléchissais",
+			"tu": "réfléchissais",
+			"il/elle": "réfléchissait",
+			"nous": "réfléchissions",
+			"vous": "réfléchissiez",
+			"ils/elles": "réfléchissaient"
+		},
+		"futur": {
+			"je": "réfléchirai",
+			"tu": "réfléchiras",
+			"il/elle": "réfléchira",
+			"nous": "réfléchirons",
+			"vous": "réfléchirez",
+			"ils/elles": "réfléchiront"
+		},
+		"passé simple": {
+			"je": "réfléchis",
+			"tu": "réfléchis",
+			"il/elle": "réfléchit",
+			"nous": "réfléchîmes",
+			"vous": "réfléchîtes",
+			"ils/elles": "réfléchirent"
+		},
+		"passé composé": {
+			"j'": "ai réfléchi",
+			"tu": "as réfléchi",
+			"il/elle": "a réfléchi",
+			"nous": "avons réfléchi",
+			"vous": "avez réfléchi",
+			"ils/elles": "ont réfléchi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais réfléchi",
+			"tu": "avais réfléchi",
+			"il/elle": "avait réfléchi",
+			"nous": "avions réfléchi",
+			"vous": "aviez réfléchi",
+			"ils/elles": "avaient réfléchi"
+		},
+		"passé antérieur": {
+			"j'": "eus réfléchi",
+			"tu": "eus réfléchi",
+			"il/elle": "eut réfléchi",
+			"nous": "eûmes réfléchi",
+			"vous": "eûtes réfléchi",
+			"ils/elles": "eurent réfléchi"
+		},
+		"futur antérieur": {
+			"j'": "aurai réfléchi",
+			"tu": "auras réfléchi",
+			"il/elle": "aura réfléchi",
+			"nous": "aurons réfléchi",
+			"vous": "aurez réfléchi",
+			"ils/elles": "auront réfléchi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous réfléchissiez",
+			"qu'il/elle": "réfléchisse",
+			"qu'ils/elles": "réfléchissent"
+		},
+		"imparfait": {
+			"que": "vous réfléchissiez",
+			"qu'il/elle": "réfléchît",
+			"qu'ils/elles": "réfléchissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse réfléchi",
+			"que": "vous eussiez réfléchi",
+			"qu'il/elle": "eût réfléchi",
+			"qu'ils/elles": "eussent réfléchi"
+		},
+		"passé": {
+			"j'": "aie réfléchi",
+			"que": "vous ayez réfléchi",
+			"qu'il/elle": "ait réfléchi",
+			"qu'ils/elles": "aient réfléchi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "réfléchirais",
+			"tu": "réfléchirais",
+			"il/elle": "réfléchirait",
+			"nous": "réfléchirions",
+			"vous": "réfléchiriez",
+			"ils/elles": "réfléchiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais réfléchi",
+			"tu": "aurais réfléchi",
+			"il/elle": "aurait réfléchi",
+			"nous": "aurions réfléchi",
+			"vous": "auriez réfléchi",
+			"ils/elles": "auraient réfléchi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse réfléchi",
+			"tu": "eusses réfléchi",
+			"il/elle": "eût réfléchi",
+			"nous": "eussions réfléchi",
+			"vous": "eussiez réfléchi",
+			"ils/elles": "eussent réfléchi"
+		}
+	},
+	"participe": {
+		"présent": { "réfléchissant": "" },
+		"passé composé": { "ayant": "réfléchi" },
+		"passé": {
+			"masc.sg.:": "réfléchi",
+			"masc.pl.:": "réfléchis",
+			"fém.sg.:": "réfléchie",
+			"fém.pl.:": "réfléchies"
+		}
+	},
+	"imperatif": {
+		"présent": { "réfléchis": "", "réfléchissons": "", "réfléchissez": "" },
+		"passé": { "aie": "réfléchi", "ayons": "réfléchi", "ayez": "réfléchi" }
+	},
+	"infinitif": {
+		"présent": { "réfléchir": "" },
+		"passé": { "avoir": "réfléchi" }
+	}
+}

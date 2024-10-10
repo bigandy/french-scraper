@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "optimize; optimise; maximize; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'optimiser/ne pas optimiser/ne pas s'optimiser",
+	"indicatif": {
+		"présent": {
+			"j'": "optimise",
+			"tu": "optimises",
+			"il/elle": "optimise",
+			"nous": "optimisons",
+			"vous": "optimisez",
+			"ils/elles": "optimisent"
+		},
+		"imparfait": {
+			"j'": "optimisais",
+			"tu": "optimisais",
+			"il/elle": "optimisait",
+			"nous": "optimisions",
+			"vous": "optimisiez",
+			"ils/elles": "optimisaient"
+		},
+		"futur": {
+			"j'": "optimiserai",
+			"tu": "optimiseras",
+			"il/elle": "optimisera",
+			"nous": "optimiserons",
+			"vous": "optimiserez",
+			"ils/elles": "optimiseront"
+		},
+		"passé simple": {
+			"j'": "optimisai",
+			"tu": "optimisas",
+			"il/elle": "optimisa",
+			"nous": "optimisâmes",
+			"vous": "optimisâtes",
+			"ils/elles": "optimisèrent"
+		},
+		"passé composé": {
+			"j'": "ai optimisé",
+			"tu": "as optimisé",
+			"il/elle": "a optimisé",
+			"nous": "avons optimisé",
+			"vous": "avez optimisé",
+			"ils/elles": "ont optimisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais optimisé",
+			"tu": "avais optimisé",
+			"il/elle": "avait optimisé",
+			"nous": "avions optimisé",
+			"vous": "aviez optimisé",
+			"ils/elles": "avaient optimisé"
+		},
+		"passé antérieur": {
+			"j'": "eus optimisé",
+			"tu": "eus optimisé",
+			"il/elle": "eut optimisé",
+			"nous": "eûmes optimisé",
+			"vous": "eûtes optimisé",
+			"ils/elles": "eurent optimisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai optimisé",
+			"tu": "auras optimisé",
+			"il/elle": "aura optimisé",
+			"nous": "aurons optimisé",
+			"vous": "aurez optimisé",
+			"ils/elles": "auront optimisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "optimise",
+			"que": "vous optimisiez",
+			"qu'il/elle": "optimise",
+			"qu'ils/elles": "optimisent"
+		},
+		"imparfait": {
+			"j'": "optimisasse",
+			"que": "vous optimisassiez",
+			"qu'il/elle": "optimisât",
+			"qu'ils/elles": "optimisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse optimisé",
+			"que": "vous eussiez optimisé",
+			"qu'il/elle": "eût optimisé",
+			"qu'ils/elles": "eussent optimisé"
+		},
+		"passé": {
+			"j'": "aie optimisé",
+			"que": "vous ayez optimisé",
+			"qu'il/elle": "ait optimisé",
+			"qu'ils/elles": "aient optimisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "optimiserais",
+			"tu": "optimiserais",
+			"il/elle": "optimiserait",
+			"nous": "optimiserions",
+			"vous": "optimiseriez",
+			"ils/elles": "optimiseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais optimisé",
+			"tu": "aurais optimisé",
+			"il/elle": "aurait optimisé",
+			"nous": "aurions optimisé",
+			"vous": "auriez optimisé",
+			"ils/elles": "auraient optimisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse optimisé",
+			"tu": "eusses optimisé",
+			"il/elle": "eût optimisé",
+			"nous": "eussions optimisé",
+			"vous": "eussiez optimisé",
+			"ils/elles": "eussent optimisé"
+		}
+	},
+	"participe": {
+		"présent": { "optimisant": "" },
+		"passé composé": { "ayant": "optimisé" },
+		"passé": {
+			"masc.sg.:": "optimisé",
+			"masc.pl.:": "optimisés",
+			"fém.sg.:": "optimisée",
+			"fém.pl.:": "optimisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "optimise": "", "optimisons": "", "optimisez": "" },
+		"passé": { "aie": "optimisé", "ayons": "optimisé", "ayez": "optimisé" }
+	},
+	"infinitif": {
+		"présent": { "optimiser": "" },
+		"passé": { "avoir": "optimisé" }
+	}
+}

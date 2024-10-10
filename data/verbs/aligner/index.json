@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "align; line up; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'aligner/ne pas aligner/ne pas s'aligner",
+	"indicatif": {
+		"présent": {
+			"j'": "aligne",
+			"tu": "alignes",
+			"il/elle": "aligne",
+			"nous": "alignons",
+			"vous": "alignez",
+			"ils/elles": "alignent"
+		},
+		"imparfait": {
+			"j'": "alignais",
+			"tu": "alignais",
+			"il/elle": "alignait",
+			"nous": "alignions",
+			"vous": "aligniez",
+			"ils/elles": "alignaient"
+		},
+		"futur": {
+			"j'": "alignerai",
+			"tu": "aligneras",
+			"il/elle": "alignera",
+			"nous": "alignerons",
+			"vous": "alignerez",
+			"ils/elles": "aligneront"
+		},
+		"passé simple": {
+			"j'": "alignai",
+			"tu": "alignas",
+			"il/elle": "aligna",
+			"nous": "alignâmes",
+			"vous": "alignâtes",
+			"ils/elles": "alignèrent"
+		},
+		"passé composé": {
+			"j'": "ai aligné",
+			"tu": "as aligné",
+			"il/elle": "a aligné",
+			"nous": "avons aligné",
+			"vous": "avez aligné",
+			"ils/elles": "ont aligné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais aligné",
+			"tu": "avais aligné",
+			"il/elle": "avait aligné",
+			"nous": "avions aligné",
+			"vous": "aviez aligné",
+			"ils/elles": "avaient aligné"
+		},
+		"passé antérieur": {
+			"j'": "eus aligné",
+			"tu": "eus aligné",
+			"il/elle": "eut aligné",
+			"nous": "eûmes aligné",
+			"vous": "eûtes aligné",
+			"ils/elles": "eurent aligné"
+		},
+		"futur antérieur": {
+			"j'": "aurai aligné",
+			"tu": "auras aligné",
+			"il/elle": "aura aligné",
+			"nous": "aurons aligné",
+			"vous": "aurez aligné",
+			"ils/elles": "auront aligné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "aligne",
+			"que": "vous aligniez",
+			"qu'il/elle": "aligne",
+			"qu'ils/elles": "alignent"
+		},
+		"imparfait": {
+			"j'": "alignasse",
+			"que": "vous alignassiez",
+			"qu'il/elle": "alignât",
+			"qu'ils/elles": "alignassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse aligné",
+			"que": "vous eussiez aligné",
+			"qu'il/elle": "eût aligné",
+			"qu'ils/elles": "eussent aligné"
+		},
+		"passé": {
+			"j'": "aie aligné",
+			"que": "vous ayez aligné",
+			"qu'il/elle": "ait aligné",
+			"qu'ils/elles": "aient aligné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "alignerais",
+			"tu": "alignerais",
+			"il/elle": "alignerait",
+			"nous": "alignerions",
+			"vous": "aligneriez",
+			"ils/elles": "aligneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais aligné",
+			"tu": "aurais aligné",
+			"il/elle": "aurait aligné",
+			"nous": "aurions aligné",
+			"vous": "auriez aligné",
+			"ils/elles": "auraient aligné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse aligné",
+			"tu": "eusses aligné",
+			"il/elle": "eût aligné",
+			"nous": "eussions aligné",
+			"vous": "eussiez aligné",
+			"ils/elles": "eussent aligné"
+		}
+	},
+	"participe": {
+		"présent": { "alignant": "" },
+		"passé composé": { "ayant": "aligné" },
+		"passé": {
+			"masc.sg.:": "aligné",
+			"masc.pl.:": "alignés",
+			"fém.sg.:": "alignée",
+			"fém.pl.:": "alignées"
+		}
+	},
+	"imperatif": {
+		"présent": { "aligne": "", "alignons": "", "alignez": "" },
+		"passé": { "aie": "aligné", "ayons": "aligné", "ayez": "aligné" }
+	},
+	"infinitif": { "présent": { "aligner": "" }, "passé": { "avoir": "aligné" } }
+}

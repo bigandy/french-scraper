@@ -1,0 +1,140 @@
+{
+	"name": "balayer",
+	"definition": "bark; woof; ...",
+	"model": "balayer",
+	"auxiliary": "avoir",
+	"otherForms": "s'aboyer/ne pas aboyer/ne pas s'aboyer",
+	"indicatif": {
+		"présent": {
+			"j'": "aboie",
+			"tu": "aboies",
+			"il/elle": "aboie",
+			"nous": "aboyons",
+			"vous": "aboyez",
+			"ils/elles": "aboient"
+		},
+		"imparfait": {
+			"j'": "aboyais",
+			"tu": "aboyais",
+			"il/elle": "aboyait",
+			"nous": "aboyions",
+			"vous": "aboyiez",
+			"ils/elles": "aboyaient"
+		},
+		"futur": {
+			"j'": "aboierai",
+			"tu": "aboieras",
+			"il/elle": "aboiera",
+			"nous": "aboierons",
+			"vous": "aboierez",
+			"ils/elles": "aboieront"
+		},
+		"passé simple": {
+			"j'": "aboyai",
+			"tu": "aboyas",
+			"il/elle": "aboya",
+			"nous": "aboyâmes",
+			"vous": "aboyâtes",
+			"ils/elles": "aboyèrent"
+		},
+		"passé composé": {
+			"j'": "ai aboyé",
+			"tu": "as aboyé",
+			"il/elle": "a aboyé",
+			"nous": "avons aboyé",
+			"vous": "avez aboyé",
+			"ils/elles": "ont aboyé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais aboyé",
+			"tu": "avais aboyé",
+			"il/elle": "avait aboyé",
+			"nous": "avions aboyé",
+			"vous": "aviez aboyé",
+			"ils/elles": "avaient aboyé"
+		},
+		"passé antérieur": {
+			"j'": "eus aboyé",
+			"tu": "eus aboyé",
+			"il/elle": "eut aboyé",
+			"nous": "eûmes aboyé",
+			"vous": "eûtes aboyé",
+			"ils/elles": "eurent aboyé"
+		},
+		"futur antérieur": {
+			"j'": "aurai aboyé",
+			"tu": "auras aboyé",
+			"il/elle": "aura aboyé",
+			"nous": "aurons aboyé",
+			"vous": "aurez aboyé",
+			"ils/elles": "auront aboyé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "aboie",
+			"que": "vous aboyiez",
+			"qu'il/elle": "aboie",
+			"qu'ils/elles": "aboient"
+		},
+		"imparfait": {
+			"j'": "aboyasse",
+			"que": "vous aboyassiez",
+			"qu'il/elle": "aboyât",
+			"qu'ils/elles": "aboyassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse aboyé",
+			"que": "vous eussiez aboyé",
+			"qu'il/elle": "eût aboyé",
+			"qu'ils/elles": "eussent aboyé"
+		},
+		"passé": {
+			"j'": "aie aboyé",
+			"que": "vous ayez aboyé",
+			"qu'il/elle": "ait aboyé",
+			"qu'ils/elles": "aient aboyé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "aboierais",
+			"tu": "aboierais",
+			"il/elle": "aboierait",
+			"nous": "aboierions",
+			"vous": "aboieriez",
+			"ils/elles": "aboieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais aboyé",
+			"tu": "aurais aboyé",
+			"il/elle": "aurait aboyé",
+			"nous": "aurions aboyé",
+			"vous": "auriez aboyé",
+			"ils/elles": "auraient aboyé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse aboyé",
+			"tu": "eusses aboyé",
+			"il/elle": "eût aboyé",
+			"nous": "eussions aboyé",
+			"vous": "eussiez aboyé",
+			"ils/elles": "eussent aboyé"
+		}
+	},
+	"participe": {
+		"présent": { "aboyant": "" },
+		"passé composé": { "ayant": "aboyé" },
+		"passé": {
+			"masc.sg.:": "aboyé",
+			"masc.pl.:": "aboyés",
+			"fém.sg.:": "aboyée",
+			"fém.pl.:": "aboyées"
+		}
+	},
+	"imperatif": {
+		"présent": { "aboie": "", "aboyons": "", "aboyez": "" },
+		"passé": { "aie": "aboyé", "ayons": "aboyé", "ayez": "aboyé" }
+	},
+	"infinitif": { "présent": { "aboyer": "" }, "passé": { "avoir": "aboyé" } }
+}

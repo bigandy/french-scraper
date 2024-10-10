@@ -1,0 +1,95 @@
+{
+	"name": "bruire",
+	"definition": "rustle; murmur; hum; ...",
+	"model": "bruire",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas bruire",
+	"indicatif": {
+		"présent": { "il/elle": "bruit", "ils/elles": "bruissent" },
+		"imparfait": { "il/elle": "bruissait", "ils/elles": "bruissaient" },
+		"futur": {},
+		"passé simple": {},
+		"passé composé": {
+			"j'": "ai brui",
+			"tu": "as brui",
+			"il/elle": "a brui",
+			"nous": "avons brui",
+			"vous": "avez brui",
+			"ils/elles": "ont brui"
+		},
+		"plus-que-parfait": {
+			"j'": "avais brui",
+			"tu": "avais brui",
+			"il/elle": "avait brui",
+			"nous": "avions brui",
+			"vous": "aviez brui",
+			"ils/elles": "avaient brui"
+		},
+		"passé antérieur": {
+			"j'": "eus brui",
+			"tu": "eus brui",
+			"il/elle": "eut brui",
+			"nous": "eûmes brui",
+			"vous": "eûtes brui",
+			"ils/elles": "eurent brui"
+		},
+		"futur antérieur": {
+			"j'": "aurai brui",
+			"tu": "auras brui",
+			"il/elle": "aura brui",
+			"nous": "aurons brui",
+			"vous": "aurez brui",
+			"ils/elles": "auront brui"
+		}
+	},
+	"subjonctif": {
+		"présent": { "qu'il/elle": "bruisse", "qu'ils/elles": "bruissent" },
+		"imparfait": {},
+		"plus-que-parfait": {
+			"j'": "eusse brui",
+			"que": "vous eussiez brui",
+			"qu'il/elle": "eût brui",
+			"qu'ils/elles": "eussent brui"
+		},
+		"passé": {
+			"j'": "aie brui",
+			"que": "vous ayez brui",
+			"qu'il/elle": "ait brui",
+			"qu'ils/elles": "aient brui"
+		}
+	},
+	"conditionnel": {
+		"présent": {},
+		"passé première forme": {
+			"j'": "aurais brui",
+			"tu": "aurais brui",
+			"il/elle": "aurait brui",
+			"nous": "aurions brui",
+			"vous": "auriez brui",
+			"ils/elles": "auraient brui"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse brui",
+			"tu": "eusses brui",
+			"il/elle": "eût brui",
+			"nous": "eussions brui",
+			"vous": "eussiez brui",
+			"ils/elles": "eussent brui"
+		}
+	},
+	"participe": {
+		"présent": { "bruissant": "" },
+		"passé composé": { "ayant": "brui" },
+		"passé": {
+			"masc.sg.:": "brui",
+			"masc.pl.:": "brui",
+			"fém.sg.:": "brui",
+			"fém.pl.:": "brui"
+		}
+	},
+	"imperatif": {
+		"présent": {},
+		"passé": { "aie": "brui", "ayons": "brui", "ayez": "brui" }
+	},
+	"infinitif": { "présent": { "bruire": "" }, "passé": { "avoir": "brui" } }
+}

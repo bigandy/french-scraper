@@ -1,0 +1,196 @@
+{
+	"name": "marcher",
+	"definition": "increase; raise; rise; ...",
+	"model": "marcher",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "s'augmenter/ne pas augmenter/ne pas s'augmenter",
+	"indicatif": {
+		"présent": {
+			"j'": "augmente",
+			"tu": "augmentes",
+			"il/elle": "augmente",
+			"nous": "augmentons",
+			"vous": "augmentez",
+			"ils/elles": "augmentent"
+		},
+		"imparfait": {
+			"j'": "augmentais",
+			"tu": "augmentais",
+			"il/elle": "augmentait",
+			"nous": "augmentions",
+			"vous": "augmentiez",
+			"ils/elles": "augmentaient"
+		},
+		"futur": {
+			"j'": "augmenterai",
+			"tu": "augmenteras",
+			"il/elle": "augmentera",
+			"nous": "augmenterons",
+			"vous": "augmenterez",
+			"ils/elles": "augmenteront"
+		},
+		"passé simple": {
+			"j'": "augmentai",
+			"tu": "augmentas",
+			"il/elle": "augmenta",
+			"nous": "augmentâmes",
+			"vous": "augmentâtes",
+			"ils/elles": "augmentèrent"
+		},
+		"passé composé": {
+			"j'": "ai augmenté",
+			"tu": "es augmenté",
+			"il/elle": "a augmenté",
+			"nous": "sommes augmentés",
+			"vous": "êtes augmentés",
+			"ils/elles": "ont augmenté",
+			"": "",
+			"je": "suis augmenté",
+			"il": "est augmenté",
+			"elle": "est augmentée",
+			"ils": "sont augmentés",
+			"elles": "sont augmentées"
+		},
+		"plus-que-parfait": {
+			"j'": "étais augmenté",
+			"tu": "étais augmenté",
+			"il/elle": "avait augmenté",
+			"nous": "étions augmentés",
+			"vous": "étiez augmentés",
+			"ils/elles": "avaient augmenté",
+			"": "",
+			"il": "était augmenté",
+			"elle": "était augmentée",
+			"ils": "étaient augmentés",
+			"elles": "étaient augmentées"
+		},
+		"passé antérieur": {
+			"j'": "eus augmenté",
+			"tu": "fus augmenté",
+			"il/elle": "eut augmenté",
+			"nous": "fûmes augmentés",
+			"vous": "fûtes augmentés",
+			"ils/elles": "eurent augmenté",
+			"": "",
+			"je": "fus augmenté",
+			"il": "fut augmenté",
+			"elle": "fut augmentée",
+			"ils": "furent augmentés",
+			"elles": "furent augmentées"
+		},
+		"futur antérieur": {
+			"j'": "aurai augmenté",
+			"tu": "seras augmenté",
+			"il/elle": "aura augmenté",
+			"nous": "serons augmentés",
+			"vous": "serez augmentés",
+			"ils/elles": "auront augmenté",
+			"": "",
+			"je": "serai augmenté",
+			"il": "sera augmenté",
+			"elle": "sera augmentée",
+			"ils": "seront augmentés",
+			"elles": "seront augmentées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "augmente",
+			"que": "vous augmentiez",
+			"qu'il/elle": "augmente",
+			"qu'ils/elles": "augmentent"
+		},
+		"imparfait": {
+			"j'": "augmentasse",
+			"que": "vous augmentassiez",
+			"qu'il/elle": "augmentât",
+			"qu'ils/elles": "augmentassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse augmenté",
+			"que": "vous fussiez augmentés",
+			"qu'il/elle": "eût augmenté",
+			"qu'ils/elles": "eussent augmenté",
+			"": "",
+			"qu'il": "fût augmenté",
+			"qu'elle": "fût augmentée",
+			"qu'ils": "fussent augmentés",
+			"qu'elles": "fussent augmentées"
+		},
+		"passé": {
+			"j'": "aie augmenté",
+			"que": "vous soyez augmentés",
+			"qu'il/elle": "ait augmenté",
+			"qu'ils/elles": "aient augmenté",
+			"": "",
+			"qu'il": "soit augmenté",
+			"qu'elle": "soit augmentée",
+			"qu'ils": "soient augmentés",
+			"qu'elles": "soient augmentées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "augmenterais",
+			"tu": "augmenterais",
+			"il/elle": "augmenterait",
+			"nous": "augmenterions",
+			"vous": "augmenteriez",
+			"ils/elles": "augmenteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais augmenté",
+			"tu": "serais augmenté",
+			"il/elle": "aurait augmenté",
+			"nous": "serions augmentés",
+			"vous": "seriez augmentés",
+			"ils/elles": "auraient augmenté",
+			"": "",
+			"je": "serais augmenté",
+			"il": "serait augmenté",
+			"elle": "serait augmentée",
+			"ils": "seraient augmentés",
+			"elles": "seraient augmentées"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse augmenté",
+			"tu": "fusses augmenté",
+			"il/elle": "eût augmenté",
+			"nous": "fussions augmentés",
+			"vous": "fussiez augmentés",
+			"ils/elles": "eussent augmenté",
+			"": "",
+			"je": "fusse augmenté",
+			"il": "fût augmenté",
+			"elle": "fût augmentée",
+			"ils": "fussent augmentés",
+			"elles": "fussent augmentées"
+		}
+	},
+	"participe": {
+		"présent": { "augmentant": "" },
+		"passé composé": { "ayant": "augmenté", "": "", "étant": "augmentée" },
+		"passé": {
+			"masc.sg.:": "augmenté",
+			"masc.pl.:": "augmentés",
+			"fém.sg.:": "augmentée",
+			"fém.pl.:": "augmentées"
+		}
+	},
+	"imperatif": {
+		"présent": { "augmente": "", "augmentons": "", "augmentez": "" },
+		"passé": {
+			"aie": "augmenté",
+			"ayons": "augmenté",
+			"ayez": "augmenté",
+			"": "",
+			"sois": "augmenté",
+			"soyons": "augmenté",
+			"soyez": "augmenté"
+		}
+	},
+	"infinitif": {
+		"présent": { "augmenter": "" },
+		"passé": { "avoir": "augmenté", "": "", "être": "augmenté" }
+	}
+}

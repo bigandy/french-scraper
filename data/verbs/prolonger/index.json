@@ -1,0 +1,141 @@
+{
+	"name": "manger",
+	"definition": "extend; prolong; continue; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "se prolonger/ne pas prolonger/ne pas se prolonger",
+	"indicatif": {
+		"présent": {
+			"je": "prolonge",
+			"tu": "prolonges",
+			"il/elle": "prolonge",
+			"nous": "prolongeons",
+			"vous": "prolongez",
+			"ils/elles": "prolongent"
+		},
+		"imparfait": {
+			"je": "prolongeais",
+			"tu": "prolongeais",
+			"il/elle": "prolongeait",
+			"nous": "prolongions",
+			"vous": "prolongiez",
+			"ils/elles": "prolongeaient"
+		},
+		"futur": {
+			"je": "prolongerai",
+			"tu": "prolongeras",
+			"il/elle": "prolongera",
+			"nous": "prolongerons",
+			"vous": "prolongerez",
+			"ils/elles": "prolongeront"
+		},
+		"passé simple": {
+			"je": "prolongeai",
+			"tu": "prolongeas",
+			"il/elle": "prolongea",
+			"nous": "prolongeâmes",
+			"vous": "prolongeâtes",
+			"ils/elles": "prolongèrent"
+		},
+		"passé composé": {
+			"j'": "ai prolongé",
+			"tu": "as prolongé",
+			"il/elle": "a prolongé",
+			"nous": "avons prolongé",
+			"vous": "avez prolongé",
+			"ils/elles": "ont prolongé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais prolongé",
+			"tu": "avais prolongé",
+			"il/elle": "avait prolongé",
+			"nous": "avions prolongé",
+			"vous": "aviez prolongé",
+			"ils/elles": "avaient prolongé"
+		},
+		"passé antérieur": {
+			"j'": "eus prolongé",
+			"tu": "eus prolongé",
+			"il/elle": "eut prolongé",
+			"nous": "eûmes prolongé",
+			"vous": "eûtes prolongé",
+			"ils/elles": "eurent prolongé"
+		},
+		"futur antérieur": {
+			"j'": "aurai prolongé",
+			"tu": "auras prolongé",
+			"il/elle": "aura prolongé",
+			"nous": "aurons prolongé",
+			"vous": "aurez prolongé",
+			"ils/elles": "auront prolongé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous prolongiez",
+			"qu'il/elle": "prolonge",
+			"qu'ils/elles": "prolongent"
+		},
+		"imparfait": {
+			"que": "vous prolongeassiez",
+			"qu'il/elle": "prolongeât",
+			"qu'ils/elles": "prolongeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse prolongé",
+			"que": "vous eussiez prolongé",
+			"qu'il/elle": "eût prolongé",
+			"qu'ils/elles": "eussent prolongé"
+		},
+		"passé": {
+			"j'": "aie prolongé",
+			"que": "vous ayez prolongé",
+			"qu'il/elle": "ait prolongé",
+			"qu'ils/elles": "aient prolongé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "prolongerais",
+			"tu": "prolongerais",
+			"il/elle": "prolongerait",
+			"nous": "prolongerions",
+			"vous": "prolongeriez",
+			"ils/elles": "prolongeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais prolongé",
+			"tu": "aurais prolongé",
+			"il/elle": "aurait prolongé",
+			"nous": "aurions prolongé",
+			"vous": "auriez prolongé",
+			"ils/elles": "auraient prolongé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse prolongé",
+			"tu": "eusses prolongé",
+			"il/elle": "eût prolongé",
+			"nous": "eussions prolongé",
+			"vous": "eussiez prolongé",
+			"ils/elles": "eussent prolongé"
+		}
+	},
+	"participe": {
+		"présent": { "prolongeant": "" },
+		"passé composé": { "ayant": "prolongé" },
+		"passé": {
+			"masc.sg.:": "prolongé",
+			"masc.pl.:": "prolongés",
+			"fém.sg.:": "prolongée",
+			"fém.pl.:": "prolongées"
+		}
+	},
+	"imperatif": {
+		"présent": { "prolonge": "", "prolongeons": "", "prolongez": "" },
+		"passé": { "aie": "prolongé", "ayons": "prolongé", "ayez": "prolongé" }
+	},
+	"infinitif": {
+		"présent": { "prolonger": "" },
+		"passé": { "avoir": "prolongé" }
+	}
+}

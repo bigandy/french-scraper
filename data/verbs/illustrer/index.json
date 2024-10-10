@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "illustrate; show; demonstrate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'illustrer/ne pas illustrer/ne pas s'illustrer",
+	"indicatif": {
+		"présent": {
+			"j'": "illustre",
+			"tu": "illustres",
+			"il/elle": "illustre",
+			"nous": "illustrons",
+			"vous": "illustrez",
+			"ils/elles": "illustrent"
+		},
+		"imparfait": {
+			"j'": "illustrais",
+			"tu": "illustrais",
+			"il/elle": "illustrait",
+			"nous": "illustrions",
+			"vous": "illustriez",
+			"ils/elles": "illustraient"
+		},
+		"futur": {
+			"j'": "illustrerai",
+			"tu": "illustreras",
+			"il/elle": "illustrera",
+			"nous": "illustrerons",
+			"vous": "illustrerez",
+			"ils/elles": "illustreront"
+		},
+		"passé simple": {
+			"j'": "illustrai",
+			"tu": "illustras",
+			"il/elle": "illustra",
+			"nous": "illustrâmes",
+			"vous": "illustrâtes",
+			"ils/elles": "illustrèrent"
+		},
+		"passé composé": {
+			"j'": "ai illustré",
+			"tu": "as illustré",
+			"il/elle": "a illustré",
+			"nous": "avons illustré",
+			"vous": "avez illustré",
+			"ils/elles": "ont illustré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais illustré",
+			"tu": "avais illustré",
+			"il/elle": "avait illustré",
+			"nous": "avions illustré",
+			"vous": "aviez illustré",
+			"ils/elles": "avaient illustré"
+		},
+		"passé antérieur": {
+			"j'": "eus illustré",
+			"tu": "eus illustré",
+			"il/elle": "eut illustré",
+			"nous": "eûmes illustré",
+			"vous": "eûtes illustré",
+			"ils/elles": "eurent illustré"
+		},
+		"futur antérieur": {
+			"j'": "aurai illustré",
+			"tu": "auras illustré",
+			"il/elle": "aura illustré",
+			"nous": "aurons illustré",
+			"vous": "aurez illustré",
+			"ils/elles": "auront illustré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "illustre",
+			"que": "vous illustriez",
+			"qu'il/elle": "illustre",
+			"qu'ils/elles": "illustrent"
+		},
+		"imparfait": {
+			"j'": "illustrasse",
+			"que": "vous illustrassiez",
+			"qu'il/elle": "illustrât",
+			"qu'ils/elles": "illustrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse illustré",
+			"que": "vous eussiez illustré",
+			"qu'il/elle": "eût illustré",
+			"qu'ils/elles": "eussent illustré"
+		},
+		"passé": {
+			"j'": "aie illustré",
+			"que": "vous ayez illustré",
+			"qu'il/elle": "ait illustré",
+			"qu'ils/elles": "aient illustré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "illustrerais",
+			"tu": "illustrerais",
+			"il/elle": "illustrerait",
+			"nous": "illustrerions",
+			"vous": "illustreriez",
+			"ils/elles": "illustreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais illustré",
+			"tu": "aurais illustré",
+			"il/elle": "aurait illustré",
+			"nous": "aurions illustré",
+			"vous": "auriez illustré",
+			"ils/elles": "auraient illustré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse illustré",
+			"tu": "eusses illustré",
+			"il/elle": "eût illustré",
+			"nous": "eussions illustré",
+			"vous": "eussiez illustré",
+			"ils/elles": "eussent illustré"
+		}
+	},
+	"participe": {
+		"présent": { "illustrant": "" },
+		"passé composé": { "ayant": "illustré" },
+		"passé": {
+			"masc.sg.:": "illustré",
+			"masc.pl.:": "illustrés",
+			"fém.sg.:": "illustrée",
+			"fém.pl.:": "illustrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "illustre": "", "illustrons": "", "illustrez": "" },
+		"passé": { "aie": "illustré", "ayons": "illustré", "ayez": "illustré" }
+	},
+	"infinitif": {
+		"présent": { "illustrer": "" },
+		"passé": { "avoir": "illustré" }
+	}
+}

@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "forget; overlook; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'oublier/ne pas oublier/ne pas s'oublier",
+	"indicatif": {
+		"présent": {
+			"j'": "oublie",
+			"tu": "oublies",
+			"il/elle": "oublie",
+			"nous": "oublions",
+			"vous": "oubliez",
+			"ils/elles": "oublient"
+		},
+		"imparfait": {
+			"j'": "oubliais",
+			"tu": "oubliais",
+			"il/elle": "oubliait",
+			"nous": "oubliions",
+			"vous": "oubliiez",
+			"ils/elles": "oubliaient"
+		},
+		"futur": {
+			"j'": "oublierai",
+			"tu": "oublieras",
+			"il/elle": "oubliera",
+			"nous": "oublierons",
+			"vous": "oublierez",
+			"ils/elles": "oublieront"
+		},
+		"passé simple": {
+			"j'": "oubliai",
+			"tu": "oublias",
+			"il/elle": "oublia",
+			"nous": "oubliâmes",
+			"vous": "oubliâtes",
+			"ils/elles": "oublièrent"
+		},
+		"passé composé": {
+			"j'": "ai oublié",
+			"tu": "as oublié",
+			"il/elle": "a oublié",
+			"nous": "avons oublié",
+			"vous": "avez oublié",
+			"ils/elles": "ont oublié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais oublié",
+			"tu": "avais oublié",
+			"il/elle": "avait oublié",
+			"nous": "avions oublié",
+			"vous": "aviez oublié",
+			"ils/elles": "avaient oublié"
+		},
+		"passé antérieur": {
+			"j'": "eus oublié",
+			"tu": "eus oublié",
+			"il/elle": "eut oublié",
+			"nous": "eûmes oublié",
+			"vous": "eûtes oublié",
+			"ils/elles": "eurent oublié"
+		},
+		"futur antérieur": {
+			"j'": "aurai oublié",
+			"tu": "auras oublié",
+			"il/elle": "aura oublié",
+			"nous": "aurons oublié",
+			"vous": "aurez oublié",
+			"ils/elles": "auront oublié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "oublie",
+			"que": "vous oubliiez",
+			"qu'il/elle": "oublie",
+			"qu'ils/elles": "oublient"
+		},
+		"imparfait": {
+			"j'": "oubliasse",
+			"que": "vous oubliassiez",
+			"qu'il/elle": "oubliât",
+			"qu'ils/elles": "oubliassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse oublié",
+			"que": "vous eussiez oublié",
+			"qu'il/elle": "eût oublié",
+			"qu'ils/elles": "eussent oublié"
+		},
+		"passé": {
+			"j'": "aie oublié",
+			"que": "vous ayez oublié",
+			"qu'il/elle": "ait oublié",
+			"qu'ils/elles": "aient oublié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "oublierais",
+			"tu": "oublierais",
+			"il/elle": "oublierait",
+			"nous": "oublierions",
+			"vous": "oublieriez",
+			"ils/elles": "oublieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais oublié",
+			"tu": "aurais oublié",
+			"il/elle": "aurait oublié",
+			"nous": "aurions oublié",
+			"vous": "auriez oublié",
+			"ils/elles": "auraient oublié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse oublié",
+			"tu": "eusses oublié",
+			"il/elle": "eût oublié",
+			"nous": "eussions oublié",
+			"vous": "eussiez oublié",
+			"ils/elles": "eussent oublié"
+		}
+	},
+	"participe": {
+		"présent": { "oubliant": "" },
+		"passé composé": { "ayant": "oublié" },
+		"passé": {
+			"masc.sg.:": "oublié",
+			"masc.pl.:": "oubliés",
+			"fém.sg.:": "oubliée",
+			"fém.pl.:": "oubliées"
+		}
+	},
+	"imperatif": {
+		"présent": { "oublie": "", "oublions": "", "oubliez": "" },
+		"passé": { "aie": "oublié", "ayons": "oublié", "ayez": "oublié" }
+	},
+	"infinitif": { "présent": { "oublier": "" }, "passé": { "avoir": "oublié" } }
+}

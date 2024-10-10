@@ -1,0 +1,138 @@
+{
+	"name": "devoir",
+	"definition": "must; have to; gotta; ...",
+	"model": "devoir",
+	"auxiliary": "avoir",
+	"otherForms": "se devoir/ne pas devoir/ne pas se devoir",
+	"indicatif": {
+		"présent": {
+			"je": "dois",
+			"tu": "dois",
+			"il/elle": "doit",
+			"nous": "devons",
+			"vous": "devez",
+			"ils/elles": "doivent"
+		},
+		"imparfait": {
+			"je": "devais",
+			"tu": "devais",
+			"il/elle": "devait",
+			"nous": "devions",
+			"vous": "deviez",
+			"ils/elles": "devaient"
+		},
+		"futur": {
+			"je": "devrai",
+			"tu": "devras",
+			"il/elle": "devra",
+			"nous": "devrons",
+			"vous": "devrez",
+			"ils/elles": "devront"
+		},
+		"passé simple": {
+			"je": "dus",
+			"tu": "dus",
+			"il/elle": "dut",
+			"nous": "dûmes",
+			"vous": "dûtes",
+			"ils/elles": "durent"
+		},
+		"passé composé": {
+			"j'": "ai dû",
+			"tu": "as dû",
+			"il/elle": "a dû",
+			"nous": "avons dû",
+			"vous": "avez dû",
+			"ils/elles": "ont dû"
+		},
+		"plus-que-parfait": {
+			"j'": "avais dû",
+			"tu": "avais dû",
+			"il/elle": "avait dû",
+			"nous": "avions dû",
+			"vous": "aviez dû",
+			"ils/elles": "avaient dû"
+		},
+		"passé antérieur": {
+			"j'": "eus dû",
+			"tu": "eus dû",
+			"il/elle": "eut dû",
+			"nous": "eûmes dû",
+			"vous": "eûtes dû",
+			"ils/elles": "eurent dû"
+		},
+		"futur antérieur": {
+			"j'": "aurai dû",
+			"tu": "auras dû",
+			"il/elle": "aura dû",
+			"nous": "aurons dû",
+			"vous": "aurez dû",
+			"ils/elles": "auront dû"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous deviez",
+			"qu'il/elle": "doive",
+			"qu'ils/elles": "doivent"
+		},
+		"imparfait": {
+			"que": "vous dussiez",
+			"qu'il/elle": "dût",
+			"qu'ils/elles": "dussent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse dû",
+			"que": "vous eussiez dû",
+			"qu'il/elle": "eût dû",
+			"qu'ils/elles": "eussent dû"
+		},
+		"passé": {
+			"j'": "aie dû",
+			"que": "vous ayez dû",
+			"qu'il/elle": "ait dû",
+			"qu'ils/elles": "aient dû"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "devrais",
+			"tu": "devrais",
+			"il/elle": "devrait",
+			"nous": "devrions",
+			"vous": "devriez",
+			"ils/elles": "devraient"
+		},
+		"passé première forme": {
+			"j'": "aurais dû",
+			"tu": "aurais dû",
+			"il/elle": "aurait dû",
+			"nous": "aurions dû",
+			"vous": "auriez dû",
+			"ils/elles": "auraient dû"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse dû",
+			"tu": "eusses dû",
+			"il/elle": "eût dû",
+			"nous": "eussions dû",
+			"vous": "eussiez dû",
+			"ils/elles": "eussent dû"
+		}
+	},
+	"participe": {
+		"présent": { "devant": "" },
+		"passé composé": { "ayant": "dû" },
+		"passé": {
+			"masc.sg.:": "dû",
+			"masc.pl.:": "dus",
+			"fém.sg.:": "due",
+			"fém.pl.:": "dues"
+		}
+	},
+	"imperatif": {
+		"présent": { "dois": "", "devons": "", "devez": "" },
+		"passé": { "aie": "dû", "ayons": "dû", "ayez": "dû" }
+	},
+	"infinitif": { "présent": { "devoir": "" }, "passé": { "avoir": "dû" } }
+}

@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "enclose; lock; lock up; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'enfermer/ne pas enfermer/ne pas s'enfermer",
+	"indicatif": {
+		"présent": {
+			"j'": "enferme",
+			"tu": "enfermes",
+			"il/elle": "enferme",
+			"nous": "enfermons",
+			"vous": "enfermez",
+			"ils/elles": "enferment"
+		},
+		"imparfait": {
+			"j'": "enfermais",
+			"tu": "enfermais",
+			"il/elle": "enfermait",
+			"nous": "enfermions",
+			"vous": "enfermiez",
+			"ils/elles": "enfermaient"
+		},
+		"futur": {
+			"j'": "enfermerai",
+			"tu": "enfermeras",
+			"il/elle": "enfermera",
+			"nous": "enfermerons",
+			"vous": "enfermerez",
+			"ils/elles": "enfermeront"
+		},
+		"passé simple": {
+			"j'": "enfermai",
+			"tu": "enfermas",
+			"il/elle": "enferma",
+			"nous": "enfermâmes",
+			"vous": "enfermâtes",
+			"ils/elles": "enfermèrent"
+		},
+		"passé composé": {
+			"j'": "ai enfermé",
+			"tu": "as enfermé",
+			"il/elle": "a enfermé",
+			"nous": "avons enfermé",
+			"vous": "avez enfermé",
+			"ils/elles": "ont enfermé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais enfermé",
+			"tu": "avais enfermé",
+			"il/elle": "avait enfermé",
+			"nous": "avions enfermé",
+			"vous": "aviez enfermé",
+			"ils/elles": "avaient enfermé"
+		},
+		"passé antérieur": {
+			"j'": "eus enfermé",
+			"tu": "eus enfermé",
+			"il/elle": "eut enfermé",
+			"nous": "eûmes enfermé",
+			"vous": "eûtes enfermé",
+			"ils/elles": "eurent enfermé"
+		},
+		"futur antérieur": {
+			"j'": "aurai enfermé",
+			"tu": "auras enfermé",
+			"il/elle": "aura enfermé",
+			"nous": "aurons enfermé",
+			"vous": "aurez enfermé",
+			"ils/elles": "auront enfermé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "enferme",
+			"que": "vous enfermiez",
+			"qu'il/elle": "enferme",
+			"qu'ils/elles": "enferment"
+		},
+		"imparfait": {
+			"j'": "enfermasse",
+			"que": "vous enfermassiez",
+			"qu'il/elle": "enfermât",
+			"qu'ils/elles": "enfermassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse enfermé",
+			"que": "vous eussiez enfermé",
+			"qu'il/elle": "eût enfermé",
+			"qu'ils/elles": "eussent enfermé"
+		},
+		"passé": {
+			"j'": "aie enfermé",
+			"que": "vous ayez enfermé",
+			"qu'il/elle": "ait enfermé",
+			"qu'ils/elles": "aient enfermé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "enfermerais",
+			"tu": "enfermerais",
+			"il/elle": "enfermerait",
+			"nous": "enfermerions",
+			"vous": "enfermeriez",
+			"ils/elles": "enfermeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais enfermé",
+			"tu": "aurais enfermé",
+			"il/elle": "aurait enfermé",
+			"nous": "aurions enfermé",
+			"vous": "auriez enfermé",
+			"ils/elles": "auraient enfermé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse enfermé",
+			"tu": "eusses enfermé",
+			"il/elle": "eût enfermé",
+			"nous": "eussions enfermé",
+			"vous": "eussiez enfermé",
+			"ils/elles": "eussent enfermé"
+		}
+	},
+	"participe": {
+		"présent": { "enfermant": "" },
+		"passé composé": { "ayant": "enfermé" },
+		"passé": {
+			"masc.sg.:": "enfermé",
+			"masc.pl.:": "enfermés",
+			"fém.sg.:": "enfermée",
+			"fém.pl.:": "enfermées"
+		}
+	},
+	"imperatif": {
+		"présent": { "enferme": "", "enfermons": "", "enfermez": "" },
+		"passé": { "aie": "enfermé", "ayons": "enfermé", "ayez": "enfermé" }
+	},
+	"infinitif": {
+		"présent": { "enfermer": "" },
+		"passé": { "avoir": "enfermé" }
+	}
+}

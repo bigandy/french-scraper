@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "invent; make up; come up with; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'inventer/ne pas inventer/ne pas s'inventer",
+	"indicatif": {
+		"présent": {
+			"j'": "invente",
+			"tu": "inventes",
+			"il/elle": "invente",
+			"nous": "inventons",
+			"vous": "inventez",
+			"ils/elles": "inventent"
+		},
+		"imparfait": {
+			"j'": "inventais",
+			"tu": "inventais",
+			"il/elle": "inventait",
+			"nous": "inventions",
+			"vous": "inventiez",
+			"ils/elles": "inventaient"
+		},
+		"futur": {
+			"j'": "inventerai",
+			"tu": "inventeras",
+			"il/elle": "inventera",
+			"nous": "inventerons",
+			"vous": "inventerez",
+			"ils/elles": "inventeront"
+		},
+		"passé simple": {
+			"j'": "inventai",
+			"tu": "inventas",
+			"il/elle": "inventa",
+			"nous": "inventâmes",
+			"vous": "inventâtes",
+			"ils/elles": "inventèrent"
+		},
+		"passé composé": {
+			"j'": "ai inventé",
+			"tu": "as inventé",
+			"il/elle": "a inventé",
+			"nous": "avons inventé",
+			"vous": "avez inventé",
+			"ils/elles": "ont inventé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais inventé",
+			"tu": "avais inventé",
+			"il/elle": "avait inventé",
+			"nous": "avions inventé",
+			"vous": "aviez inventé",
+			"ils/elles": "avaient inventé"
+		},
+		"passé antérieur": {
+			"j'": "eus inventé",
+			"tu": "eus inventé",
+			"il/elle": "eut inventé",
+			"nous": "eûmes inventé",
+			"vous": "eûtes inventé",
+			"ils/elles": "eurent inventé"
+		},
+		"futur antérieur": {
+			"j'": "aurai inventé",
+			"tu": "auras inventé",
+			"il/elle": "aura inventé",
+			"nous": "aurons inventé",
+			"vous": "aurez inventé",
+			"ils/elles": "auront inventé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "invente",
+			"que": "vous inventiez",
+			"qu'il/elle": "invente",
+			"qu'ils/elles": "inventent"
+		},
+		"imparfait": {
+			"j'": "inventasse",
+			"que": "vous inventassiez",
+			"qu'il/elle": "inventât",
+			"qu'ils/elles": "inventassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse inventé",
+			"que": "vous eussiez inventé",
+			"qu'il/elle": "eût inventé",
+			"qu'ils/elles": "eussent inventé"
+		},
+		"passé": {
+			"j'": "aie inventé",
+			"que": "vous ayez inventé",
+			"qu'il/elle": "ait inventé",
+			"qu'ils/elles": "aient inventé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "inventerais",
+			"tu": "inventerais",
+			"il/elle": "inventerait",
+			"nous": "inventerions",
+			"vous": "inventeriez",
+			"ils/elles": "inventeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais inventé",
+			"tu": "aurais inventé",
+			"il/elle": "aurait inventé",
+			"nous": "aurions inventé",
+			"vous": "auriez inventé",
+			"ils/elles": "auraient inventé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse inventé",
+			"tu": "eusses inventé",
+			"il/elle": "eût inventé",
+			"nous": "eussions inventé",
+			"vous": "eussiez inventé",
+			"ils/elles": "eussent inventé"
+		}
+	},
+	"participe": {
+		"présent": { "inventant": "" },
+		"passé composé": { "ayant": "inventé" },
+		"passé": {
+			"masc.sg.:": "inventé",
+			"masc.pl.:": "inventés",
+			"fém.sg.:": "inventée",
+			"fém.pl.:": "inventées"
+		}
+	},
+	"imperatif": {
+		"présent": { "invente": "", "inventons": "", "inventez": "" },
+		"passé": { "aie": "inventé", "ayons": "inventé", "ayez": "inventé" }
+	},
+	"infinitif": {
+		"présent": { "inventer": "" },
+		"passé": { "avoir": "inventé" }
+	}
+}

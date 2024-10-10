@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "monitor; watch; oversee; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se surveiller/ne pas surveiller/ne pas se surveiller",
+	"indicatif": {
+		"présent": {
+			"je": "surveille",
+			"tu": "surveilles",
+			"il/elle": "surveille",
+			"nous": "surveillons",
+			"vous": "surveillez",
+			"ils/elles": "surveillent"
+		},
+		"imparfait": {
+			"je": "surveillais",
+			"tu": "surveillais",
+			"il/elle": "surveillait",
+			"nous": "surveillions",
+			"vous": "surveilliez",
+			"ils/elles": "surveillaient"
+		},
+		"futur": {
+			"je": "surveillerai",
+			"tu": "surveilleras",
+			"il/elle": "surveillera",
+			"nous": "surveillerons",
+			"vous": "surveillerez",
+			"ils/elles": "surveilleront"
+		},
+		"passé simple": {
+			"je": "surveillai",
+			"tu": "surveillas",
+			"il/elle": "surveilla",
+			"nous": "surveillâmes",
+			"vous": "surveillâtes",
+			"ils/elles": "surveillèrent"
+		},
+		"passé composé": {
+			"j'": "ai surveillé",
+			"tu": "as surveillé",
+			"il/elle": "a surveillé",
+			"nous": "avons surveillé",
+			"vous": "avez surveillé",
+			"ils/elles": "ont surveillé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais surveillé",
+			"tu": "avais surveillé",
+			"il/elle": "avait surveillé",
+			"nous": "avions surveillé",
+			"vous": "aviez surveillé",
+			"ils/elles": "avaient surveillé"
+		},
+		"passé antérieur": {
+			"j'": "eus surveillé",
+			"tu": "eus surveillé",
+			"il/elle": "eut surveillé",
+			"nous": "eûmes surveillé",
+			"vous": "eûtes surveillé",
+			"ils/elles": "eurent surveillé"
+		},
+		"futur antérieur": {
+			"j'": "aurai surveillé",
+			"tu": "auras surveillé",
+			"il/elle": "aura surveillé",
+			"nous": "aurons surveillé",
+			"vous": "aurez surveillé",
+			"ils/elles": "auront surveillé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous surveilliez",
+			"qu'il/elle": "surveille",
+			"qu'ils/elles": "surveillent"
+		},
+		"imparfait": {
+			"que": "vous surveillassiez",
+			"qu'il/elle": "surveillât",
+			"qu'ils/elles": "surveillassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse surveillé",
+			"que": "vous eussiez surveillé",
+			"qu'il/elle": "eût surveillé",
+			"qu'ils/elles": "eussent surveillé"
+		},
+		"passé": {
+			"j'": "aie surveillé",
+			"que": "vous ayez surveillé",
+			"qu'il/elle": "ait surveillé",
+			"qu'ils/elles": "aient surveillé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "surveillerais",
+			"tu": "surveillerais",
+			"il/elle": "surveillerait",
+			"nous": "surveillerions",
+			"vous": "surveilleriez",
+			"ils/elles": "surveilleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais surveillé",
+			"tu": "aurais surveillé",
+			"il/elle": "aurait surveillé",
+			"nous": "aurions surveillé",
+			"vous": "auriez surveillé",
+			"ils/elles": "auraient surveillé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse surveillé",
+			"tu": "eusses surveillé",
+			"il/elle": "eût surveillé",
+			"nous": "eussions surveillé",
+			"vous": "eussiez surveillé",
+			"ils/elles": "eussent surveillé"
+		}
+	},
+	"participe": {
+		"présent": { "surveillant": "" },
+		"passé composé": { "ayant": "surveillé" },
+		"passé": {
+			"masc.sg.:": "surveillé",
+			"masc.pl.:": "surveillés",
+			"fém.sg.:": "surveillée",
+			"fém.pl.:": "surveillées"
+		}
+	},
+	"imperatif": {
+		"présent": { "surveille": "", "surveillons": "", "surveillez": "" },
+		"passé": { "aie": "surveillé", "ayons": "surveillé", "ayez": "surveillé" }
+	},
+	"infinitif": {
+		"présent": { "surveiller": "" },
+		"passé": { "avoir": "surveillé" }
+	}
+}

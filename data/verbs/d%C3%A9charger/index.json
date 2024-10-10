@@ -1,0 +1,141 @@
+{
+	"name": "manger",
+	"definition": "discharge; unload; offload; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "se décharger/ne pas décharger/ne pas se décharger",
+	"indicatif": {
+		"présent": {
+			"je": "décharge",
+			"tu": "décharges",
+			"il/elle": "décharge",
+			"nous": "déchargeons",
+			"vous": "déchargez",
+			"ils/elles": "déchargent"
+		},
+		"imparfait": {
+			"je": "déchargeais",
+			"tu": "déchargeais",
+			"il/elle": "déchargeait",
+			"nous": "déchargions",
+			"vous": "déchargiez",
+			"ils/elles": "déchargeaient"
+		},
+		"futur": {
+			"je": "déchargerai",
+			"tu": "déchargeras",
+			"il/elle": "déchargera",
+			"nous": "déchargerons",
+			"vous": "déchargerez",
+			"ils/elles": "déchargeront"
+		},
+		"passé simple": {
+			"je": "déchargeai",
+			"tu": "déchargeas",
+			"il/elle": "déchargea",
+			"nous": "déchargeâmes",
+			"vous": "déchargeâtes",
+			"ils/elles": "déchargèrent"
+		},
+		"passé composé": {
+			"j'": "ai déchargé",
+			"tu": "as déchargé",
+			"il/elle": "a déchargé",
+			"nous": "avons déchargé",
+			"vous": "avez déchargé",
+			"ils/elles": "ont déchargé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais déchargé",
+			"tu": "avais déchargé",
+			"il/elle": "avait déchargé",
+			"nous": "avions déchargé",
+			"vous": "aviez déchargé",
+			"ils/elles": "avaient déchargé"
+		},
+		"passé antérieur": {
+			"j'": "eus déchargé",
+			"tu": "eus déchargé",
+			"il/elle": "eut déchargé",
+			"nous": "eûmes déchargé",
+			"vous": "eûtes déchargé",
+			"ils/elles": "eurent déchargé"
+		},
+		"futur antérieur": {
+			"j'": "aurai déchargé",
+			"tu": "auras déchargé",
+			"il/elle": "aura déchargé",
+			"nous": "aurons déchargé",
+			"vous": "aurez déchargé",
+			"ils/elles": "auront déchargé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous déchargiez",
+			"qu'il/elle": "décharge",
+			"qu'ils/elles": "déchargent"
+		},
+		"imparfait": {
+			"que": "vous déchargeassiez",
+			"qu'il/elle": "déchargeât",
+			"qu'ils/elles": "déchargeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse déchargé",
+			"que": "vous eussiez déchargé",
+			"qu'il/elle": "eût déchargé",
+			"qu'ils/elles": "eussent déchargé"
+		},
+		"passé": {
+			"j'": "aie déchargé",
+			"que": "vous ayez déchargé",
+			"qu'il/elle": "ait déchargé",
+			"qu'ils/elles": "aient déchargé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "déchargerais",
+			"tu": "déchargerais",
+			"il/elle": "déchargerait",
+			"nous": "déchargerions",
+			"vous": "déchargeriez",
+			"ils/elles": "déchargeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais déchargé",
+			"tu": "aurais déchargé",
+			"il/elle": "aurait déchargé",
+			"nous": "aurions déchargé",
+			"vous": "auriez déchargé",
+			"ils/elles": "auraient déchargé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse déchargé",
+			"tu": "eusses déchargé",
+			"il/elle": "eût déchargé",
+			"nous": "eussions déchargé",
+			"vous": "eussiez déchargé",
+			"ils/elles": "eussent déchargé"
+		}
+	},
+	"participe": {
+		"présent": { "déchargeant": "" },
+		"passé composé": { "ayant": "déchargé" },
+		"passé": {
+			"masc.sg.:": "déchargé",
+			"masc.pl.:": "déchargés",
+			"fém.sg.:": "déchargée",
+			"fém.pl.:": "déchargées"
+		}
+	},
+	"imperatif": {
+		"présent": { "décharge": "", "déchargeons": "", "déchargez": "" },
+		"passé": { "aie": "déchargé", "ayons": "déchargé", "ayez": "déchargé" }
+	},
+	"infinitif": {
+		"présent": { "décharger": "" },
+		"passé": { "avoir": "déchargé" }
+	}
+}

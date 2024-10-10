@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "locate; localize; find; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se localiser/ne pas localiser/ne pas se localiser",
+	"indicatif": {
+		"présent": {
+			"je": "localise",
+			"tu": "localises",
+			"il/elle": "localise",
+			"nous": "localisons",
+			"vous": "localisez",
+			"ils/elles": "localisent"
+		},
+		"imparfait": {
+			"je": "localisais",
+			"tu": "localisais",
+			"il/elle": "localisait",
+			"nous": "localisions",
+			"vous": "localisiez",
+			"ils/elles": "localisaient"
+		},
+		"futur": {
+			"je": "localiserai",
+			"tu": "localiseras",
+			"il/elle": "localisera",
+			"nous": "localiserons",
+			"vous": "localiserez",
+			"ils/elles": "localiseront"
+		},
+		"passé simple": {
+			"je": "localisai",
+			"tu": "localisas",
+			"il/elle": "localisa",
+			"nous": "localisâmes",
+			"vous": "localisâtes",
+			"ils/elles": "localisèrent"
+		},
+		"passé composé": {
+			"j'": "ai localisé",
+			"tu": "as localisé",
+			"il/elle": "a localisé",
+			"nous": "avons localisé",
+			"vous": "avez localisé",
+			"ils/elles": "ont localisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais localisé",
+			"tu": "avais localisé",
+			"il/elle": "avait localisé",
+			"nous": "avions localisé",
+			"vous": "aviez localisé",
+			"ils/elles": "avaient localisé"
+		},
+		"passé antérieur": {
+			"j'": "eus localisé",
+			"tu": "eus localisé",
+			"il/elle": "eut localisé",
+			"nous": "eûmes localisé",
+			"vous": "eûtes localisé",
+			"ils/elles": "eurent localisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai localisé",
+			"tu": "auras localisé",
+			"il/elle": "aura localisé",
+			"nous": "aurons localisé",
+			"vous": "aurez localisé",
+			"ils/elles": "auront localisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous localisiez",
+			"qu'il/elle": "localise",
+			"qu'ils/elles": "localisent"
+		},
+		"imparfait": {
+			"que": "vous localisassiez",
+			"qu'il/elle": "localisât",
+			"qu'ils/elles": "localisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse localisé",
+			"que": "vous eussiez localisé",
+			"qu'il/elle": "eût localisé",
+			"qu'ils/elles": "eussent localisé"
+		},
+		"passé": {
+			"j'": "aie localisé",
+			"que": "vous ayez localisé",
+			"qu'il/elle": "ait localisé",
+			"qu'ils/elles": "aient localisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "localiserais",
+			"tu": "localiserais",
+			"il/elle": "localiserait",
+			"nous": "localiserions",
+			"vous": "localiseriez",
+			"ils/elles": "localiseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais localisé",
+			"tu": "aurais localisé",
+			"il/elle": "aurait localisé",
+			"nous": "aurions localisé",
+			"vous": "auriez localisé",
+			"ils/elles": "auraient localisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse localisé",
+			"tu": "eusses localisé",
+			"il/elle": "eût localisé",
+			"nous": "eussions localisé",
+			"vous": "eussiez localisé",
+			"ils/elles": "eussent localisé"
+		}
+	},
+	"participe": {
+		"présent": { "localisant": "" },
+		"passé composé": { "ayant": "localisé" },
+		"passé": {
+			"masc.sg.:": "localisé",
+			"masc.pl.:": "localisés",
+			"fém.sg.:": "localisée",
+			"fém.pl.:": "localisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "localise": "", "localisons": "", "localisez": "" },
+		"passé": { "aie": "localisé", "ayons": "localisé", "ayez": "localisé" }
+	},
+	"infinitif": {
+		"présent": { "localiser": "" },
+		"passé": { "avoir": "localisé" }
+	}
+}

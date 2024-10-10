@@ -1,0 +1,138 @@
+{
+	"name": "vêtir",
+	"definition": "coat; put on; line; ...",
+	"model": "vêtir",
+	"auxiliary": "avoir",
+	"otherForms": "se revêtir/ne pas revêtir/ne pas se revêtir",
+	"indicatif": {
+		"présent": {
+			"je": "revêts",
+			"tu": "revêts",
+			"il/elle": "revêt",
+			"nous": "revêtons",
+			"vous": "revêtez",
+			"ils/elles": "revêtent"
+		},
+		"imparfait": {
+			"je": "revêtais",
+			"tu": "revêtais",
+			"il/elle": "revêtait",
+			"nous": "revêtions",
+			"vous": "revêtiez",
+			"ils/elles": "revêtaient"
+		},
+		"futur": {
+			"je": "revêtirai",
+			"tu": "revêtiras",
+			"il/elle": "revêtira",
+			"nous": "revêtirons",
+			"vous": "revêtirez",
+			"ils/elles": "revêtiront"
+		},
+		"passé simple": {
+			"je": "revêtis",
+			"tu": "revêtis",
+			"il/elle": "revêtit",
+			"nous": "revêtîmes",
+			"vous": "revêtîtes",
+			"ils/elles": "revêtirent"
+		},
+		"passé composé": {
+			"j'": "ai revêtu",
+			"tu": "as revêtu",
+			"il/elle": "a revêtu",
+			"nous": "avons revêtu",
+			"vous": "avez revêtu",
+			"ils/elles": "ont revêtu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais revêtu",
+			"tu": "avais revêtu",
+			"il/elle": "avait revêtu",
+			"nous": "avions revêtu",
+			"vous": "aviez revêtu",
+			"ils/elles": "avaient revêtu"
+		},
+		"passé antérieur": {
+			"j'": "eus revêtu",
+			"tu": "eus revêtu",
+			"il/elle": "eut revêtu",
+			"nous": "eûmes revêtu",
+			"vous": "eûtes revêtu",
+			"ils/elles": "eurent revêtu"
+		},
+		"futur antérieur": {
+			"j'": "aurai revêtu",
+			"tu": "auras revêtu",
+			"il/elle": "aura revêtu",
+			"nous": "aurons revêtu",
+			"vous": "aurez revêtu",
+			"ils/elles": "auront revêtu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous revêtiez",
+			"qu'il/elle": "revête",
+			"qu'ils/elles": "revêtent"
+		},
+		"imparfait": {
+			"que": "vous revêtissiez",
+			"qu'il/elle": "revêtît",
+			"qu'ils/elles": "revêtissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse revêtu",
+			"que": "vous eussiez revêtu",
+			"qu'il/elle": "eût revêtu",
+			"qu'ils/elles": "eussent revêtu"
+		},
+		"passé": {
+			"j'": "aie revêtu",
+			"que": "vous ayez revêtu",
+			"qu'il/elle": "ait revêtu",
+			"qu'ils/elles": "aient revêtu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "revêtirais",
+			"tu": "revêtirais",
+			"il/elle": "revêtirait",
+			"nous": "revêtirions",
+			"vous": "revêtiriez",
+			"ils/elles": "revêtiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais revêtu",
+			"tu": "aurais revêtu",
+			"il/elle": "aurait revêtu",
+			"nous": "aurions revêtu",
+			"vous": "auriez revêtu",
+			"ils/elles": "auraient revêtu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse revêtu",
+			"tu": "eusses revêtu",
+			"il/elle": "eût revêtu",
+			"nous": "eussions revêtu",
+			"vous": "eussiez revêtu",
+			"ils/elles": "eussent revêtu"
+		}
+	},
+	"participe": {
+		"présent": { "revêtant": "" },
+		"passé composé": { "ayant": "revêtu" },
+		"passé": {
+			"masc.sg.:": "revêtu",
+			"masc.pl.:": "revêtus",
+			"fém.sg.:": "revêtue",
+			"fém.pl.:": "revêtues"
+		}
+	},
+	"imperatif": {
+		"présent": { "revêts": "", "revêtons": "", "revêtez": "" },
+		"passé": { "aie": "revêtu", "ayons": "revêtu", "ayez": "revêtu" }
+	},
+	"infinitif": { "présent": { "revêtir": "" }, "passé": { "avoir": "revêtu" } }
+}

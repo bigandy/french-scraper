@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "connect; link; join; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se relier/ne pas relier/ne pas se relier",
+	"indicatif": {
+		"présent": {
+			"je": "relie",
+			"tu": "relies",
+			"il/elle": "relie",
+			"nous": "relions",
+			"vous": "reliez",
+			"ils/elles": "relient"
+		},
+		"imparfait": {
+			"je": "reliais",
+			"tu": "reliais",
+			"il/elle": "reliait",
+			"nous": "reliions",
+			"vous": "reliiez",
+			"ils/elles": "reliaient"
+		},
+		"futur": {
+			"je": "relierai",
+			"tu": "relieras",
+			"il/elle": "reliera",
+			"nous": "relierons",
+			"vous": "relierez",
+			"ils/elles": "relieront"
+		},
+		"passé simple": {
+			"je": "reliai",
+			"tu": "relias",
+			"il/elle": "relia",
+			"nous": "reliâmes",
+			"vous": "reliâtes",
+			"ils/elles": "relièrent"
+		},
+		"passé composé": {
+			"j'": "ai relié",
+			"tu": "as relié",
+			"il/elle": "a relié",
+			"nous": "avons relié",
+			"vous": "avez relié",
+			"ils/elles": "ont relié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais relié",
+			"tu": "avais relié",
+			"il/elle": "avait relié",
+			"nous": "avions relié",
+			"vous": "aviez relié",
+			"ils/elles": "avaient relié"
+		},
+		"passé antérieur": {
+			"j'": "eus relié",
+			"tu": "eus relié",
+			"il/elle": "eut relié",
+			"nous": "eûmes relié",
+			"vous": "eûtes relié",
+			"ils/elles": "eurent relié"
+		},
+		"futur antérieur": {
+			"j'": "aurai relié",
+			"tu": "auras relié",
+			"il/elle": "aura relié",
+			"nous": "aurons relié",
+			"vous": "aurez relié",
+			"ils/elles": "auront relié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous reliiez",
+			"qu'il/elle": "relie",
+			"qu'ils/elles": "relient"
+		},
+		"imparfait": {
+			"que": "vous reliassiez",
+			"qu'il/elle": "reliât",
+			"qu'ils/elles": "reliassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse relié",
+			"que": "vous eussiez relié",
+			"qu'il/elle": "eût relié",
+			"qu'ils/elles": "eussent relié"
+		},
+		"passé": {
+			"j'": "aie relié",
+			"que": "vous ayez relié",
+			"qu'il/elle": "ait relié",
+			"qu'ils/elles": "aient relié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "relierais",
+			"tu": "relierais",
+			"il/elle": "relierait",
+			"nous": "relierions",
+			"vous": "relieriez",
+			"ils/elles": "relieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais relié",
+			"tu": "aurais relié",
+			"il/elle": "aurait relié",
+			"nous": "aurions relié",
+			"vous": "auriez relié",
+			"ils/elles": "auraient relié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse relié",
+			"tu": "eusses relié",
+			"il/elle": "eût relié",
+			"nous": "eussions relié",
+			"vous": "eussiez relié",
+			"ils/elles": "eussent relié"
+		}
+	},
+	"participe": {
+		"présent": { "reliant": "" },
+		"passé composé": { "ayant": "relié" },
+		"passé": {
+			"masc.sg.:": "relié",
+			"masc.pl.:": "reliés",
+			"fém.sg.:": "reliée",
+			"fém.pl.:": "reliées"
+		}
+	},
+	"imperatif": {
+		"présent": { "relie": "", "relions": "", "reliez": "" },
+		"passé": { "aie": "relié", "ayons": "relié", "ayez": "relié" }
+	},
+	"infinitif": { "présent": { "relier": "" }, "passé": { "avoir": "relié" } }
+}

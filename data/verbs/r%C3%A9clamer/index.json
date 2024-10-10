@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "claim; demand; call for; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se réclamer/ne pas réclamer/ne pas se réclamer",
+	"indicatif": {
+		"présent": {
+			"je": "réclame",
+			"tu": "réclames",
+			"il/elle": "réclame",
+			"nous": "réclamons",
+			"vous": "réclamez",
+			"ils/elles": "réclament"
+		},
+		"imparfait": {
+			"je": "réclamais",
+			"tu": "réclamais",
+			"il/elle": "réclamait",
+			"nous": "réclamions",
+			"vous": "réclamiez",
+			"ils/elles": "réclamaient"
+		},
+		"futur": {
+			"je": "réclamerai",
+			"tu": "réclameras",
+			"il/elle": "réclamera",
+			"nous": "réclamerons",
+			"vous": "réclamerez",
+			"ils/elles": "réclameront"
+		},
+		"passé simple": {
+			"je": "réclamai",
+			"tu": "réclamas",
+			"il/elle": "réclama",
+			"nous": "réclamâmes",
+			"vous": "réclamâtes",
+			"ils/elles": "réclamèrent"
+		},
+		"passé composé": {
+			"j'": "ai réclamé",
+			"tu": "as réclamé",
+			"il/elle": "a réclamé",
+			"nous": "avons réclamé",
+			"vous": "avez réclamé",
+			"ils/elles": "ont réclamé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais réclamé",
+			"tu": "avais réclamé",
+			"il/elle": "avait réclamé",
+			"nous": "avions réclamé",
+			"vous": "aviez réclamé",
+			"ils/elles": "avaient réclamé"
+		},
+		"passé antérieur": {
+			"j'": "eus réclamé",
+			"tu": "eus réclamé",
+			"il/elle": "eut réclamé",
+			"nous": "eûmes réclamé",
+			"vous": "eûtes réclamé",
+			"ils/elles": "eurent réclamé"
+		},
+		"futur antérieur": {
+			"j'": "aurai réclamé",
+			"tu": "auras réclamé",
+			"il/elle": "aura réclamé",
+			"nous": "aurons réclamé",
+			"vous": "aurez réclamé",
+			"ils/elles": "auront réclamé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous réclamiez",
+			"qu'il/elle": "réclame",
+			"qu'ils/elles": "réclament"
+		},
+		"imparfait": {
+			"que": "vous réclamassiez",
+			"qu'il/elle": "réclamât",
+			"qu'ils/elles": "réclamassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse réclamé",
+			"que": "vous eussiez réclamé",
+			"qu'il/elle": "eût réclamé",
+			"qu'ils/elles": "eussent réclamé"
+		},
+		"passé": {
+			"j'": "aie réclamé",
+			"que": "vous ayez réclamé",
+			"qu'il/elle": "ait réclamé",
+			"qu'ils/elles": "aient réclamé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "réclamerais",
+			"tu": "réclamerais",
+			"il/elle": "réclamerait",
+			"nous": "réclamerions",
+			"vous": "réclameriez",
+			"ils/elles": "réclameraient"
+		},
+		"passé première forme": {
+			"j'": "aurais réclamé",
+			"tu": "aurais réclamé",
+			"il/elle": "aurait réclamé",
+			"nous": "aurions réclamé",
+			"vous": "auriez réclamé",
+			"ils/elles": "auraient réclamé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse réclamé",
+			"tu": "eusses réclamé",
+			"il/elle": "eût réclamé",
+			"nous": "eussions réclamé",
+			"vous": "eussiez réclamé",
+			"ils/elles": "eussent réclamé"
+		}
+	},
+	"participe": {
+		"présent": { "réclamant": "" },
+		"passé composé": { "ayant": "réclamé" },
+		"passé": {
+			"masc.sg.:": "réclamé",
+			"masc.pl.:": "réclamés",
+			"fém.sg.:": "réclamée",
+			"fém.pl.:": "réclamées"
+		}
+	},
+	"imperatif": {
+		"présent": { "réclame": "", "réclamons": "", "réclamez": "" },
+		"passé": { "aie": "réclamé", "ayons": "réclamé", "ayez": "réclamé" }
+	},
+	"infinitif": {
+		"présent": { "réclamer": "" },
+		"passé": { "avoir": "réclamé" }
+	}
+}

@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "breathe; breath; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se respirer/ne pas respirer/ne pas se respirer",
+	"indicatif": {
+		"présent": {
+			"je": "respire",
+			"tu": "respires",
+			"il/elle": "respire",
+			"nous": "respirons",
+			"vous": "respirez",
+			"ils/elles": "respirent"
+		},
+		"imparfait": {
+			"je": "respirais",
+			"tu": "respirais",
+			"il/elle": "respirait",
+			"nous": "respirions",
+			"vous": "respiriez",
+			"ils/elles": "respiraient"
+		},
+		"futur": {
+			"je": "respirerai",
+			"tu": "respireras",
+			"il/elle": "respirera",
+			"nous": "respirerons",
+			"vous": "respirerez",
+			"ils/elles": "respireront"
+		},
+		"passé simple": {
+			"je": "respirai",
+			"tu": "respiras",
+			"il/elle": "respira",
+			"nous": "respirâmes",
+			"vous": "respirâtes",
+			"ils/elles": "respirèrent"
+		},
+		"passé composé": {
+			"j'": "ai respiré",
+			"tu": "as respiré",
+			"il/elle": "a respiré",
+			"nous": "avons respiré",
+			"vous": "avez respiré",
+			"ils/elles": "ont respiré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais respiré",
+			"tu": "avais respiré",
+			"il/elle": "avait respiré",
+			"nous": "avions respiré",
+			"vous": "aviez respiré",
+			"ils/elles": "avaient respiré"
+		},
+		"passé antérieur": {
+			"j'": "eus respiré",
+			"tu": "eus respiré",
+			"il/elle": "eut respiré",
+			"nous": "eûmes respiré",
+			"vous": "eûtes respiré",
+			"ils/elles": "eurent respiré"
+		},
+		"futur antérieur": {
+			"j'": "aurai respiré",
+			"tu": "auras respiré",
+			"il/elle": "aura respiré",
+			"nous": "aurons respiré",
+			"vous": "aurez respiré",
+			"ils/elles": "auront respiré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous respiriez",
+			"qu'il/elle": "respire",
+			"qu'ils/elles": "respirent"
+		},
+		"imparfait": {
+			"que": "vous respirassiez",
+			"qu'il/elle": "respirât",
+			"qu'ils/elles": "respirassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse respiré",
+			"que": "vous eussiez respiré",
+			"qu'il/elle": "eût respiré",
+			"qu'ils/elles": "eussent respiré"
+		},
+		"passé": {
+			"j'": "aie respiré",
+			"que": "vous ayez respiré",
+			"qu'il/elle": "ait respiré",
+			"qu'ils/elles": "aient respiré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "respirerais",
+			"tu": "respirerais",
+			"il/elle": "respirerait",
+			"nous": "respirerions",
+			"vous": "respireriez",
+			"ils/elles": "respireraient"
+		},
+		"passé première forme": {
+			"j'": "aurais respiré",
+			"tu": "aurais respiré",
+			"il/elle": "aurait respiré",
+			"nous": "aurions respiré",
+			"vous": "auriez respiré",
+			"ils/elles": "auraient respiré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse respiré",
+			"tu": "eusses respiré",
+			"il/elle": "eût respiré",
+			"nous": "eussions respiré",
+			"vous": "eussiez respiré",
+			"ils/elles": "eussent respiré"
+		}
+	},
+	"participe": {
+		"présent": { "respirant": "" },
+		"passé composé": { "ayant": "respiré" },
+		"passé": {
+			"masc.sg.:": "respiré",
+			"masc.pl.:": "respirés",
+			"fém.sg.:": "respirée",
+			"fém.pl.:": "respirées"
+		}
+	},
+	"imperatif": {
+		"présent": { "respire": "", "respirons": "", "respirez": "" },
+		"passé": { "aie": "respiré", "ayons": "respiré", "ayez": "respiré" }
+	},
+	"infinitif": {
+		"présent": { "respirer": "" },
+		"passé": { "avoir": "respiré" }
+	}
+}

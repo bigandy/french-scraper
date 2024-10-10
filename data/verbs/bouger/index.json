@@ -1,0 +1,138 @@
+{
+	"name": "manger",
+	"definition": "move; shake; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "se bouger/ne pas bouger/ne pas se bouger",
+	"indicatif": {
+		"présent": {
+			"je": "bouge",
+			"tu": "bouges",
+			"il/elle": "bouge",
+			"nous": "bougeons",
+			"vous": "bougez",
+			"ils/elles": "bougent"
+		},
+		"imparfait": {
+			"je": "bougeais",
+			"tu": "bougeais",
+			"il/elle": "bougeait",
+			"nous": "bougions",
+			"vous": "bougiez",
+			"ils/elles": "bougeaient"
+		},
+		"futur": {
+			"je": "bougerai",
+			"tu": "bougeras",
+			"il/elle": "bougera",
+			"nous": "bougerons",
+			"vous": "bougerez",
+			"ils/elles": "bougeront"
+		},
+		"passé simple": {
+			"je": "bougeai",
+			"tu": "bougeas",
+			"il/elle": "bougea",
+			"nous": "bougeâmes",
+			"vous": "bougeâtes",
+			"ils/elles": "bougèrent"
+		},
+		"passé composé": {
+			"j'": "ai bougé",
+			"tu": "as bougé",
+			"il/elle": "a bougé",
+			"nous": "avons bougé",
+			"vous": "avez bougé",
+			"ils/elles": "ont bougé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais bougé",
+			"tu": "avais bougé",
+			"il/elle": "avait bougé",
+			"nous": "avions bougé",
+			"vous": "aviez bougé",
+			"ils/elles": "avaient bougé"
+		},
+		"passé antérieur": {
+			"j'": "eus bougé",
+			"tu": "eus bougé",
+			"il/elle": "eut bougé",
+			"nous": "eûmes bougé",
+			"vous": "eûtes bougé",
+			"ils/elles": "eurent bougé"
+		},
+		"futur antérieur": {
+			"j'": "aurai bougé",
+			"tu": "auras bougé",
+			"il/elle": "aura bougé",
+			"nous": "aurons bougé",
+			"vous": "aurez bougé",
+			"ils/elles": "auront bougé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous bougiez",
+			"qu'il/elle": "bouge",
+			"qu'ils/elles": "bougent"
+		},
+		"imparfait": {
+			"que": "vous bougeassiez",
+			"qu'il/elle": "bougeât",
+			"qu'ils/elles": "bougeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse bougé",
+			"que": "vous eussiez bougé",
+			"qu'il/elle": "eût bougé",
+			"qu'ils/elles": "eussent bougé"
+		},
+		"passé": {
+			"j'": "aie bougé",
+			"que": "vous ayez bougé",
+			"qu'il/elle": "ait bougé",
+			"qu'ils/elles": "aient bougé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "bougerais",
+			"tu": "bougerais",
+			"il/elle": "bougerait",
+			"nous": "bougerions",
+			"vous": "bougeriez",
+			"ils/elles": "bougeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais bougé",
+			"tu": "aurais bougé",
+			"il/elle": "aurait bougé",
+			"nous": "aurions bougé",
+			"vous": "auriez bougé",
+			"ils/elles": "auraient bougé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse bougé",
+			"tu": "eusses bougé",
+			"il/elle": "eût bougé",
+			"nous": "eussions bougé",
+			"vous": "eussiez bougé",
+			"ils/elles": "eussent bougé"
+		}
+	},
+	"participe": {
+		"présent": { "bougeant": "" },
+		"passé composé": { "ayant": "bougé" },
+		"passé": {
+			"masc.sg.:": "bougé",
+			"masc.pl.:": "bougés",
+			"fém.sg.:": "bougée",
+			"fém.pl.:": "bougées"
+		}
+	},
+	"imperatif": {
+		"présent": { "bouge": "", "bougeons": "", "bougez": "" },
+		"passé": { "aie": "bougé", "ayons": "bougé", "ayez": "bougé" }
+	},
+	"infinitif": { "présent": { "bouger": "" }, "passé": { "avoir": "bougé" } }
+}

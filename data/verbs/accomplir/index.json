@@ -1,0 +1,143 @@
+{
+	"name": "finir",
+	"definition": "accomplish; perform; carry out; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "s'accomplir/ne pas accomplir/ne pas s'accomplir",
+	"indicatif": {
+		"présent": {
+			"j'": "accomplis",
+			"tu": "accomplis",
+			"il/elle": "accomplit",
+			"nous": "accomplissons",
+			"vous": "accomplissez",
+			"ils/elles": "accomplissent"
+		},
+		"imparfait": {
+			"j'": "accomplissais",
+			"tu": "accomplissais",
+			"il/elle": "accomplissait",
+			"nous": "accomplissions",
+			"vous": "accomplissiez",
+			"ils/elles": "accomplissaient"
+		},
+		"futur": {
+			"j'": "accomplirai",
+			"tu": "accompliras",
+			"il/elle": "accomplira",
+			"nous": "accomplirons",
+			"vous": "accomplirez",
+			"ils/elles": "accompliront"
+		},
+		"passé simple": {
+			"j'": "accomplis",
+			"tu": "accomplis",
+			"il/elle": "accomplit",
+			"nous": "accomplîmes",
+			"vous": "accomplîtes",
+			"ils/elles": "accomplirent"
+		},
+		"passé composé": {
+			"j'": "ai accompli",
+			"tu": "as accompli",
+			"il/elle": "a accompli",
+			"nous": "avons accompli",
+			"vous": "avez accompli",
+			"ils/elles": "ont accompli"
+		},
+		"plus-que-parfait": {
+			"j'": "avais accompli",
+			"tu": "avais accompli",
+			"il/elle": "avait accompli",
+			"nous": "avions accompli",
+			"vous": "aviez accompli",
+			"ils/elles": "avaient accompli"
+		},
+		"passé antérieur": {
+			"j'": "eus accompli",
+			"tu": "eus accompli",
+			"il/elle": "eut accompli",
+			"nous": "eûmes accompli",
+			"vous": "eûtes accompli",
+			"ils/elles": "eurent accompli"
+		},
+		"futur antérieur": {
+			"j'": "aurai accompli",
+			"tu": "auras accompli",
+			"il/elle": "aura accompli",
+			"nous": "aurons accompli",
+			"vous": "aurez accompli",
+			"ils/elles": "auront accompli"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "accomplisse",
+			"que": "vous accomplissiez",
+			"qu'il/elle": "accomplisse",
+			"qu'ils/elles": "accomplissent"
+		},
+		"imparfait": {
+			"j'": "accomplisse",
+			"que": "vous accomplissiez",
+			"qu'il/elle": "accomplît",
+			"qu'ils/elles": "accomplissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse accompli",
+			"que": "vous eussiez accompli",
+			"qu'il/elle": "eût accompli",
+			"qu'ils/elles": "eussent accompli"
+		},
+		"passé": {
+			"j'": "aie accompli",
+			"que": "vous ayez accompli",
+			"qu'il/elle": "ait accompli",
+			"qu'ils/elles": "aient accompli"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "accomplirais",
+			"tu": "accomplirais",
+			"il/elle": "accomplirait",
+			"nous": "accomplirions",
+			"vous": "accompliriez",
+			"ils/elles": "accompliraient"
+		},
+		"passé première forme": {
+			"j'": "aurais accompli",
+			"tu": "aurais accompli",
+			"il/elle": "aurait accompli",
+			"nous": "aurions accompli",
+			"vous": "auriez accompli",
+			"ils/elles": "auraient accompli"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse accompli",
+			"tu": "eusses accompli",
+			"il/elle": "eût accompli",
+			"nous": "eussions accompli",
+			"vous": "eussiez accompli",
+			"ils/elles": "eussent accompli"
+		}
+	},
+	"participe": {
+		"présent": { "accomplissant": "" },
+		"passé composé": { "ayant": "accompli" },
+		"passé": {
+			"masc.sg.:": "accompli",
+			"masc.pl.:": "accomplis",
+			"fém.sg.:": "accomplie",
+			"fém.pl.:": "accomplies"
+		}
+	},
+	"imperatif": {
+		"présent": { "accomplis": "", "accomplissons": "", "accomplissez": "" },
+		"passé": { "aie": "accompli", "ayons": "accompli", "ayez": "accompli" }
+	},
+	"infinitif": {
+		"présent": { "accomplir": "" },
+		"passé": { "avoir": "accompli" }
+	}
+}

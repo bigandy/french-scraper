@@ -1,0 +1,138 @@
+{
+	"name": "aérer",
+	"definition": "identify; spot; locate; ...",
+	"model": "aérer",
+	"auxiliary": "avoir",
+	"otherForms": "se repérer/ne pas repérer/ne pas se repérer",
+	"indicatif": {
+		"présent": {
+			"je": "repère",
+			"tu": "repères",
+			"il/elle": "repère",
+			"nous": "repérons",
+			"vous": "repérez",
+			"ils/elles": "repèrent"
+		},
+		"imparfait": {
+			"je": "repérais",
+			"tu": "repérais",
+			"il/elle": "repérait",
+			"nous": "repérions",
+			"vous": "repériez",
+			"ils/elles": "repéraient"
+		},
+		"futur": {
+			"je": "repérerai",
+			"tu": "repéreras",
+			"il/elle": "repérera",
+			"nous": "repérerons",
+			"vous": "repérerez",
+			"ils/elles": "repéreront"
+		},
+		"passé simple": {
+			"je": "repérai",
+			"tu": "repéras",
+			"il/elle": "repéra",
+			"nous": "repérâmes",
+			"vous": "repérâtes",
+			"ils/elles": "repérèrent"
+		},
+		"passé composé": {
+			"j'": "ai repéré",
+			"tu": "as repéré",
+			"il/elle": "a repéré",
+			"nous": "avons repéré",
+			"vous": "avez repéré",
+			"ils/elles": "ont repéré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais repéré",
+			"tu": "avais repéré",
+			"il/elle": "avait repéré",
+			"nous": "avions repéré",
+			"vous": "aviez repéré",
+			"ils/elles": "avaient repéré"
+		},
+		"passé antérieur": {
+			"j'": "eus repéré",
+			"tu": "eus repéré",
+			"il/elle": "eut repéré",
+			"nous": "eûmes repéré",
+			"vous": "eûtes repéré",
+			"ils/elles": "eurent repéré"
+		},
+		"futur antérieur": {
+			"j'": "aurai repéré",
+			"tu": "auras repéré",
+			"il/elle": "aura repéré",
+			"nous": "aurons repéré",
+			"vous": "aurez repéré",
+			"ils/elles": "auront repéré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous repériez",
+			"qu'il/elle": "repère",
+			"qu'ils/elles": "repèrent"
+		},
+		"imparfait": {
+			"que": "vous repérassiez",
+			"qu'il/elle": "repérât",
+			"qu'ils/elles": "repérassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse repéré",
+			"que": "vous eussiez repéré",
+			"qu'il/elle": "eût repéré",
+			"qu'ils/elles": "eussent repéré"
+		},
+		"passé": {
+			"j'": "aie repéré",
+			"que": "vous ayez repéré",
+			"qu'il/elle": "ait repéré",
+			"qu'ils/elles": "aient repéré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "repérerais",
+			"tu": "repérerais",
+			"il/elle": "repérerait",
+			"nous": "repérerions",
+			"vous": "repéreriez",
+			"ils/elles": "repéreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais repéré",
+			"tu": "aurais repéré",
+			"il/elle": "aurait repéré",
+			"nous": "aurions repéré",
+			"vous": "auriez repéré",
+			"ils/elles": "auraient repéré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse repéré",
+			"tu": "eusses repéré",
+			"il/elle": "eût repéré",
+			"nous": "eussions repéré",
+			"vous": "eussiez repéré",
+			"ils/elles": "eussent repéré"
+		}
+	},
+	"participe": {
+		"présent": { "repérant": "" },
+		"passé composé": { "ayant": "repéré" },
+		"passé": {
+			"masc.sg.:": "repéré",
+			"masc.pl.:": "repérés",
+			"fém.sg.:": "repérée",
+			"fém.pl.:": "repérées"
+		}
+	},
+	"imperatif": {
+		"présent": { "repère": "", "repérons": "", "repérez": "" },
+		"passé": { "aie": "repéré", "ayons": "repéré", "ayez": "repéré" }
+	},
+	"infinitif": { "présent": { "repérer": "" }, "passé": { "avoir": "repéré" } }
+}

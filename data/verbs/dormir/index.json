@@ -1,0 +1,138 @@
+{
+	"name": "dormir",
+	"definition": "sleep; get some sleep; stay; ...",
+	"model": "dormir",
+	"auxiliary": "avoir",
+	"otherForms": "se dormir/ne pas dormir/ne pas se dormir",
+	"indicatif": {
+		"présent": {
+			"je": "dors",
+			"tu": "dors",
+			"il/elle": "dort",
+			"nous": "dormons",
+			"vous": "dormez",
+			"ils/elles": "dorment"
+		},
+		"imparfait": {
+			"je": "dormais",
+			"tu": "dormais",
+			"il/elle": "dormait",
+			"nous": "dormions",
+			"vous": "dormiez",
+			"ils/elles": "dormaient"
+		},
+		"futur": {
+			"je": "dormirai",
+			"tu": "dormiras",
+			"il/elle": "dormira",
+			"nous": "dormirons",
+			"vous": "dormirez",
+			"ils/elles": "dormiront"
+		},
+		"passé simple": {
+			"je": "dormis",
+			"tu": "dormis",
+			"il/elle": "dormit",
+			"nous": "dormîmes",
+			"vous": "dormîtes",
+			"ils/elles": "dormirent"
+		},
+		"passé composé": {
+			"j'": "ai dormi",
+			"tu": "as dormi",
+			"il/elle": "a dormi",
+			"nous": "avons dormi",
+			"vous": "avez dormi",
+			"ils/elles": "ont dormi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais dormi",
+			"tu": "avais dormi",
+			"il/elle": "avait dormi",
+			"nous": "avions dormi",
+			"vous": "aviez dormi",
+			"ils/elles": "avaient dormi"
+		},
+		"passé antérieur": {
+			"j'": "eus dormi",
+			"tu": "eus dormi",
+			"il/elle": "eut dormi",
+			"nous": "eûmes dormi",
+			"vous": "eûtes dormi",
+			"ils/elles": "eurent dormi"
+		},
+		"futur antérieur": {
+			"j'": "aurai dormi",
+			"tu": "auras dormi",
+			"il/elle": "aura dormi",
+			"nous": "aurons dormi",
+			"vous": "aurez dormi",
+			"ils/elles": "auront dormi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous dormiez",
+			"qu'il/elle": "dorme",
+			"qu'ils/elles": "dorment"
+		},
+		"imparfait": {
+			"que": "vous dormissiez",
+			"qu'il/elle": "dormît",
+			"qu'ils/elles": "dormissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse dormi",
+			"que": "vous eussiez dormi",
+			"qu'il/elle": "eût dormi",
+			"qu'ils/elles": "eussent dormi"
+		},
+		"passé": {
+			"j'": "aie dormi",
+			"que": "vous ayez dormi",
+			"qu'il/elle": "ait dormi",
+			"qu'ils/elles": "aient dormi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "dormirais",
+			"tu": "dormirais",
+			"il/elle": "dormirait",
+			"nous": "dormirions",
+			"vous": "dormiriez",
+			"ils/elles": "dormiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais dormi",
+			"tu": "aurais dormi",
+			"il/elle": "aurait dormi",
+			"nous": "aurions dormi",
+			"vous": "auriez dormi",
+			"ils/elles": "auraient dormi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse dormi",
+			"tu": "eusses dormi",
+			"il/elle": "eût dormi",
+			"nous": "eussions dormi",
+			"vous": "eussiez dormi",
+			"ils/elles": "eussent dormi"
+		}
+	},
+	"participe": {
+		"présent": { "dormant": "" },
+		"passé composé": { "ayant": "dormi" },
+		"passé": {
+			"masc.sg.:": "dormi",
+			"masc.pl.:": "dormi",
+			"fém.sg.:": "dormi",
+			"fém.pl.:": "dormi"
+		}
+	},
+	"imperatif": {
+		"présent": { "dors": "", "dormons": "", "dormez": "" },
+		"passé": { "aie": "dormi", "ayons": "dormi", "ayez": "dormi" }
+	},
+	"infinitif": { "présent": { "dormir": "" }, "passé": { "avoir": "dormi" } }
+}

@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "mask; hide; conceal; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se masquer/ne pas masquer/ne pas se masquer",
+	"indicatif": {
+		"présent": {
+			"je": "masque",
+			"tu": "masques",
+			"il/elle": "masque",
+			"nous": "masquons",
+			"vous": "masquez",
+			"ils/elles": "masquent"
+		},
+		"imparfait": {
+			"je": "masquais",
+			"tu": "masquais",
+			"il/elle": "masquait",
+			"nous": "masquions",
+			"vous": "masquiez",
+			"ils/elles": "masquaient"
+		},
+		"futur": {
+			"je": "masquerai",
+			"tu": "masqueras",
+			"il/elle": "masquera",
+			"nous": "masquerons",
+			"vous": "masquerez",
+			"ils/elles": "masqueront"
+		},
+		"passé simple": {
+			"je": "masquai",
+			"tu": "masquas",
+			"il/elle": "masqua",
+			"nous": "masquâmes",
+			"vous": "masquâtes",
+			"ils/elles": "masquèrent"
+		},
+		"passé composé": {
+			"j'": "ai masqué",
+			"tu": "as masqué",
+			"il/elle": "a masqué",
+			"nous": "avons masqué",
+			"vous": "avez masqué",
+			"ils/elles": "ont masqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais masqué",
+			"tu": "avais masqué",
+			"il/elle": "avait masqué",
+			"nous": "avions masqué",
+			"vous": "aviez masqué",
+			"ils/elles": "avaient masqué"
+		},
+		"passé antérieur": {
+			"j'": "eus masqué",
+			"tu": "eus masqué",
+			"il/elle": "eut masqué",
+			"nous": "eûmes masqué",
+			"vous": "eûtes masqué",
+			"ils/elles": "eurent masqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai masqué",
+			"tu": "auras masqué",
+			"il/elle": "aura masqué",
+			"nous": "aurons masqué",
+			"vous": "aurez masqué",
+			"ils/elles": "auront masqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous masquiez",
+			"qu'il/elle": "masque",
+			"qu'ils/elles": "masquent"
+		},
+		"imparfait": {
+			"que": "vous masquassiez",
+			"qu'il/elle": "masquât",
+			"qu'ils/elles": "masquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse masqué",
+			"que": "vous eussiez masqué",
+			"qu'il/elle": "eût masqué",
+			"qu'ils/elles": "eussent masqué"
+		},
+		"passé": {
+			"j'": "aie masqué",
+			"que": "vous ayez masqué",
+			"qu'il/elle": "ait masqué",
+			"qu'ils/elles": "aient masqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "masquerais",
+			"tu": "masquerais",
+			"il/elle": "masquerait",
+			"nous": "masquerions",
+			"vous": "masqueriez",
+			"ils/elles": "masqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais masqué",
+			"tu": "aurais masqué",
+			"il/elle": "aurait masqué",
+			"nous": "aurions masqué",
+			"vous": "auriez masqué",
+			"ils/elles": "auraient masqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse masqué",
+			"tu": "eusses masqué",
+			"il/elle": "eût masqué",
+			"nous": "eussions masqué",
+			"vous": "eussiez masqué",
+			"ils/elles": "eussent masqué"
+		}
+	},
+	"participe": {
+		"présent": { "masquant": "" },
+		"passé composé": { "ayant": "masqué" },
+		"passé": {
+			"masc.sg.:": "masqué",
+			"masc.pl.:": "masqués",
+			"fém.sg.:": "masquée",
+			"fém.pl.:": "masquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "masque": "", "masquons": "", "masquez": "" },
+		"passé": { "aie": "masqué", "ayons": "masqué", "ayez": "masqué" }
+	},
+	"infinitif": { "présent": { "masquer": "" }, "passé": { "avoir": "masqué" } }
+}

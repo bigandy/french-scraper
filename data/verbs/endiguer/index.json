@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "stem; contain; curb; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'endiguer/ne pas endiguer/ne pas s'endiguer",
+	"indicatif": {
+		"présent": {
+			"j'": "endigue",
+			"tu": "endigues",
+			"il/elle": "endigue",
+			"nous": "endiguons",
+			"vous": "endiguez",
+			"ils/elles": "endiguent"
+		},
+		"imparfait": {
+			"j'": "endiguais",
+			"tu": "endiguais",
+			"il/elle": "endiguait",
+			"nous": "endiguions",
+			"vous": "endiguiez",
+			"ils/elles": "endiguaient"
+		},
+		"futur": {
+			"j'": "endiguerai",
+			"tu": "endigueras",
+			"il/elle": "endiguera",
+			"nous": "endiguerons",
+			"vous": "endiguerez",
+			"ils/elles": "endigueront"
+		},
+		"passé simple": {
+			"j'": "endiguai",
+			"tu": "endiguas",
+			"il/elle": "endigua",
+			"nous": "endiguâmes",
+			"vous": "endiguâtes",
+			"ils/elles": "endiguèrent"
+		},
+		"passé composé": {
+			"j'": "ai endigué",
+			"tu": "as endigué",
+			"il/elle": "a endigué",
+			"nous": "avons endigué",
+			"vous": "avez endigué",
+			"ils/elles": "ont endigué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais endigué",
+			"tu": "avais endigué",
+			"il/elle": "avait endigué",
+			"nous": "avions endigué",
+			"vous": "aviez endigué",
+			"ils/elles": "avaient endigué"
+		},
+		"passé antérieur": {
+			"j'": "eus endigué",
+			"tu": "eus endigué",
+			"il/elle": "eut endigué",
+			"nous": "eûmes endigué",
+			"vous": "eûtes endigué",
+			"ils/elles": "eurent endigué"
+		},
+		"futur antérieur": {
+			"j'": "aurai endigué",
+			"tu": "auras endigué",
+			"il/elle": "aura endigué",
+			"nous": "aurons endigué",
+			"vous": "aurez endigué",
+			"ils/elles": "auront endigué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "endigue",
+			"que": "vous endiguiez",
+			"qu'il/elle": "endigue",
+			"qu'ils/elles": "endiguent"
+		},
+		"imparfait": {
+			"j'": "endiguasse",
+			"que": "vous endiguassiez",
+			"qu'il/elle": "endiguât",
+			"qu'ils/elles": "endiguassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse endigué",
+			"que": "vous eussiez endigué",
+			"qu'il/elle": "eût endigué",
+			"qu'ils/elles": "eussent endigué"
+		},
+		"passé": {
+			"j'": "aie endigué",
+			"que": "vous ayez endigué",
+			"qu'il/elle": "ait endigué",
+			"qu'ils/elles": "aient endigué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "endiguerais",
+			"tu": "endiguerais",
+			"il/elle": "endiguerait",
+			"nous": "endiguerions",
+			"vous": "endigueriez",
+			"ils/elles": "endigueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais endigué",
+			"tu": "aurais endigué",
+			"il/elle": "aurait endigué",
+			"nous": "aurions endigué",
+			"vous": "auriez endigué",
+			"ils/elles": "auraient endigué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse endigué",
+			"tu": "eusses endigué",
+			"il/elle": "eût endigué",
+			"nous": "eussions endigué",
+			"vous": "eussiez endigué",
+			"ils/elles": "eussent endigué"
+		}
+	},
+	"participe": {
+		"présent": { "endiguant": "" },
+		"passé composé": { "ayant": "endigué" },
+		"passé": {
+			"masc.sg.:": "endigué",
+			"masc.pl.:": "endigués",
+			"fém.sg.:": "endiguée",
+			"fém.pl.:": "endiguées"
+		}
+	},
+	"imperatif": {
+		"présent": { "endigue": "", "endiguons": "", "endiguez": "" },
+		"passé": { "aie": "endigué", "ayons": "endigué", "ayez": "endigué" }
+	},
+	"infinitif": {
+		"présent": { "endiguer": "" },
+		"passé": { "avoir": "endigué" }
+	}
+}

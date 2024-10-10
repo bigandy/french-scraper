@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "refine; fine-tune; sharpen; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'affiner/ne pas affiner/ne pas s'affiner",
+	"indicatif": {
+		"présent": {
+			"j'": "affine",
+			"tu": "affines",
+			"il/elle": "affine",
+			"nous": "affinons",
+			"vous": "affinez",
+			"ils/elles": "affinent"
+		},
+		"imparfait": {
+			"j'": "affinais",
+			"tu": "affinais",
+			"il/elle": "affinait",
+			"nous": "affinions",
+			"vous": "affiniez",
+			"ils/elles": "affinaient"
+		},
+		"futur": {
+			"j'": "affinerai",
+			"tu": "affineras",
+			"il/elle": "affinera",
+			"nous": "affinerons",
+			"vous": "affinerez",
+			"ils/elles": "affineront"
+		},
+		"passé simple": {
+			"j'": "affinai",
+			"tu": "affinas",
+			"il/elle": "affina",
+			"nous": "affinâmes",
+			"vous": "affinâtes",
+			"ils/elles": "affinèrent"
+		},
+		"passé composé": {
+			"j'": "ai affiné",
+			"tu": "as affiné",
+			"il/elle": "a affiné",
+			"nous": "avons affiné",
+			"vous": "avez affiné",
+			"ils/elles": "ont affiné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais affiné",
+			"tu": "avais affiné",
+			"il/elle": "avait affiné",
+			"nous": "avions affiné",
+			"vous": "aviez affiné",
+			"ils/elles": "avaient affiné"
+		},
+		"passé antérieur": {
+			"j'": "eus affiné",
+			"tu": "eus affiné",
+			"il/elle": "eut affiné",
+			"nous": "eûmes affiné",
+			"vous": "eûtes affiné",
+			"ils/elles": "eurent affiné"
+		},
+		"futur antérieur": {
+			"j'": "aurai affiné",
+			"tu": "auras affiné",
+			"il/elle": "aura affiné",
+			"nous": "aurons affiné",
+			"vous": "aurez affiné",
+			"ils/elles": "auront affiné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "affine",
+			"que": "vous affiniez",
+			"qu'il/elle": "affine",
+			"qu'ils/elles": "affinent"
+		},
+		"imparfait": {
+			"j'": "affinasse",
+			"que": "vous affinassiez",
+			"qu'il/elle": "affinât",
+			"qu'ils/elles": "affinassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse affiné",
+			"que": "vous eussiez affiné",
+			"qu'il/elle": "eût affiné",
+			"qu'ils/elles": "eussent affiné"
+		},
+		"passé": {
+			"j'": "aie affiné",
+			"que": "vous ayez affiné",
+			"qu'il/elle": "ait affiné",
+			"qu'ils/elles": "aient affiné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "affinerais",
+			"tu": "affinerais",
+			"il/elle": "affinerait",
+			"nous": "affinerions",
+			"vous": "affineriez",
+			"ils/elles": "affineraient"
+		},
+		"passé première forme": {
+			"j'": "aurais affiné",
+			"tu": "aurais affiné",
+			"il/elle": "aurait affiné",
+			"nous": "aurions affiné",
+			"vous": "auriez affiné",
+			"ils/elles": "auraient affiné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse affiné",
+			"tu": "eusses affiné",
+			"il/elle": "eût affiné",
+			"nous": "eussions affiné",
+			"vous": "eussiez affiné",
+			"ils/elles": "eussent affiné"
+		}
+	},
+	"participe": {
+		"présent": { "affinant": "" },
+		"passé composé": { "ayant": "affiné" },
+		"passé": {
+			"masc.sg.:": "affiné",
+			"masc.pl.:": "affinés",
+			"fém.sg.:": "affinée",
+			"fém.pl.:": "affinées"
+		}
+	},
+	"imperatif": {
+		"présent": { "affine": "", "affinons": "", "affinez": "" },
+		"passé": { "aie": "affiné", "ayons": "affiné", "ayez": "affiné" }
+	},
+	"infinitif": { "présent": { "affiner": "" }, "passé": { "avoir": "affiné" } }
+}

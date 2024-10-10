@@ -1,0 +1,141 @@
+{
+	"name": "attendre",
+	"definition": "meet; respond; answer; ...",
+	"model": "attendre",
+	"auxiliary": "avoir",
+	"otherForms": "se répondre/ne pas répondre/ne pas se répondre",
+	"indicatif": {
+		"présent": {
+			"je": "réponds",
+			"tu": "réponds",
+			"il/elle": "répond",
+			"nous": "répondons",
+			"vous": "répondez",
+			"ils/elles": "répondent"
+		},
+		"imparfait": {
+			"je": "répondais",
+			"tu": "répondais",
+			"il/elle": "répondait",
+			"nous": "répondions",
+			"vous": "répondiez",
+			"ils/elles": "répondaient"
+		},
+		"futur": {
+			"je": "répondrai",
+			"tu": "répondras",
+			"il/elle": "répondra",
+			"nous": "répondrons",
+			"vous": "répondrez",
+			"ils/elles": "répondront"
+		},
+		"passé simple": {
+			"je": "répondis",
+			"tu": "répondis",
+			"il/elle": "répondit",
+			"nous": "répondîmes",
+			"vous": "répondîtes",
+			"ils/elles": "répondirent"
+		},
+		"passé composé": {
+			"j'": "ai répondu",
+			"tu": "as répondu",
+			"il/elle": "a répondu",
+			"nous": "avons répondu",
+			"vous": "avez répondu",
+			"ils/elles": "ont répondu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais répondu",
+			"tu": "avais répondu",
+			"il/elle": "avait répondu",
+			"nous": "avions répondu",
+			"vous": "aviez répondu",
+			"ils/elles": "avaient répondu"
+		},
+		"passé antérieur": {
+			"j'": "eus répondu",
+			"tu": "eus répondu",
+			"il/elle": "eut répondu",
+			"nous": "eûmes répondu",
+			"vous": "eûtes répondu",
+			"ils/elles": "eurent répondu"
+		},
+		"futur antérieur": {
+			"j'": "aurai répondu",
+			"tu": "auras répondu",
+			"il/elle": "aura répondu",
+			"nous": "aurons répondu",
+			"vous": "aurez répondu",
+			"ils/elles": "auront répondu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous répondiez",
+			"qu'il/elle": "réponde",
+			"qu'ils/elles": "répondent"
+		},
+		"imparfait": {
+			"que": "vous répondissiez",
+			"qu'il/elle": "répondît",
+			"qu'ils/elles": "répondissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse répondu",
+			"que": "vous eussiez répondu",
+			"qu'il/elle": "eût répondu",
+			"qu'ils/elles": "eussent répondu"
+		},
+		"passé": {
+			"j'": "aie répondu",
+			"que": "vous ayez répondu",
+			"qu'il/elle": "ait répondu",
+			"qu'ils/elles": "aient répondu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "répondrais",
+			"tu": "répondrais",
+			"il/elle": "répondrait",
+			"nous": "répondrions",
+			"vous": "répondriez",
+			"ils/elles": "répondraient"
+		},
+		"passé première forme": {
+			"j'": "aurais répondu",
+			"tu": "aurais répondu",
+			"il/elle": "aurait répondu",
+			"nous": "aurions répondu",
+			"vous": "auriez répondu",
+			"ils/elles": "auraient répondu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse répondu",
+			"tu": "eusses répondu",
+			"il/elle": "eût répondu",
+			"nous": "eussions répondu",
+			"vous": "eussiez répondu",
+			"ils/elles": "eussent répondu"
+		}
+	},
+	"participe": {
+		"présent": { "répondant": "" },
+		"passé composé": { "ayant": "répondu" },
+		"passé": {
+			"masc.sg.:": "répondu",
+			"masc.pl.:": "répondus",
+			"fém.sg.:": "répondue",
+			"fém.pl.:": "répondues"
+		}
+	},
+	"imperatif": {
+		"présent": { "réponds": "", "répondons": "", "répondez": "" },
+		"passé": { "aie": "répondu", "ayons": "répondu", "ayez": "répondu" }
+	},
+	"infinitif": {
+		"présent": { "répondre": "" },
+		"passé": { "avoir": "répondu" }
+	}
+}

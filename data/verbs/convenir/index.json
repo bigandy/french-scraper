@@ -1,0 +1,152 @@
+{
+	"name": "tenir",
+	"definition": "agree; agree on; suit; ...",
+	"model": "tenir",
+	"auxiliary": "être,\n              être",
+	"otherForms": "se convenir/ne pas convenir/ne pas se convenir",
+	"indicatif": {
+		"présent": {
+			"je": "conviens",
+			"tu": "conviens",
+			"il/elle": "convient",
+			"nous": "convenons",
+			"vous": "convenez",
+			"ils/elles": "conviennent"
+		},
+		"imparfait": {
+			"je": "convenais",
+			"tu": "convenais",
+			"il/elle": "convenait",
+			"nous": "convenions",
+			"vous": "conveniez",
+			"ils/elles": "convenaient"
+		},
+		"futur": {
+			"je": "conviendrai",
+			"tu": "conviendras",
+			"il/elle": "conviendra",
+			"nous": "conviendrons",
+			"vous": "conviendrez",
+			"ils/elles": "conviendront"
+		},
+		"passé simple": {
+			"je": "convins",
+			"tu": "convins",
+			"il/elle": "convint",
+			"nous": "convînmes",
+			"vous": "convîntes",
+			"ils/elles": "convinrent"
+		},
+		"passé composé": {
+			"je": "suis convenu",
+			"tu": "es convenu",
+			"il": "est convenu",
+			"elle": "est convenue",
+			"nous": "sommes convenus",
+			"vous": "êtes convenus",
+			"ils": "sont convenus",
+			"elles": "sont convenues"
+		},
+		"plus-que-parfait": {
+			"j'": "étais convenu",
+			"tu": "étais convenu",
+			"il": "était convenu",
+			"elle": "était convenue",
+			"nous": "étions convenus",
+			"vous": "étiez convenus",
+			"ils": "étaient convenus",
+			"elles": "étaient convenues"
+		},
+		"passé antérieur": {
+			"je": "fus convenu",
+			"tu": "fus convenu",
+			"il": "fut convenu",
+			"elle": "fut convenue",
+			"nous": "fûmes convenus",
+			"vous": "fûtes convenus",
+			"ils": "furent convenus",
+			"elles": "furent convenues"
+		},
+		"futur antérieur": {
+			"je": "serai convenu",
+			"tu": "seras convenu",
+			"il": "sera convenu",
+			"elle": "sera convenue",
+			"nous": "serons convenus",
+			"vous": "serez convenus",
+			"ils": "seront convenus",
+			"elles": "seront convenues"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous conveniez",
+			"qu'il/elle": "convienne",
+			"qu'ils/elles": "conviennent"
+		},
+		"imparfait": {
+			"que": "vous convinssiez",
+			"qu'il/elle": "convînt",
+			"qu'ils/elles": "convinssent"
+		},
+		"plus-que-parfait": {
+			"que": "vous fussiez convenus",
+			"qu'il": "fût convenu",
+			"qu'elle": "fût convenue",
+			"qu'ils": "fussent convenus",
+			"qu'elles": "fussent convenues"
+		},
+		"passé": {
+			"que": "vous soyez convenus",
+			"qu'il": "soit convenu",
+			"qu'elle": "soit convenue",
+			"qu'ils": "soient convenus",
+			"qu'elles": "soient convenues"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "conviendrais",
+			"tu": "conviendrais",
+			"il/elle": "conviendrait",
+			"nous": "conviendrions",
+			"vous": "conviendriez",
+			"ils/elles": "conviendraient"
+		},
+		"passé première forme": {
+			"je": "serais convenu",
+			"tu": "serais convenu",
+			"il": "serait convenu",
+			"elle": "serait convenue",
+			"nous": "serions convenus",
+			"vous": "seriez convenus",
+			"ils": "seraient convenus",
+			"elles": "seraient convenues"
+		},
+		"passé deuxième forme": {
+			"je": "fusse convenu",
+			"tu": "fusses convenu",
+			"il": "fût convenu",
+			"elle": "fût convenue",
+			"nous": "fussions convenus",
+			"vous": "fussiez convenus",
+			"ils": "fussent convenus",
+			"elles": "fussent convenues"
+		}
+	},
+	"participe": {
+		"présent": { "convenant": "" },
+		"passé composé": { "étant": "convenue" },
+		"passé": {
+			"masc.sg.:": "convenu",
+			"masc.pl.:": "convenus",
+			"fém.sg.:": "convenue",
+			"fém.pl.:": "convenues"
+		}
+	},
+	"imperatif": {
+		"présent": { "conviens": "", "convenons": "", "convenez": "" },
+		"passé": { "sois": "convenu", "soyons": "convenu", "soyez": "convenu" }
+	},
+	"infinitif": { "présent": { "convenir": "" }, "passé": { "être": "convenu" } }
+}

@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "manipulate; handle; operate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se manipuler/ne pas manipuler/ne pas se manipuler",
+	"indicatif": {
+		"présent": {
+			"je": "manipule",
+			"tu": "manipules",
+			"il/elle": "manipule",
+			"nous": "manipulons",
+			"vous": "manipulez",
+			"ils/elles": "manipulent"
+		},
+		"imparfait": {
+			"je": "manipulais",
+			"tu": "manipulais",
+			"il/elle": "manipulait",
+			"nous": "manipulions",
+			"vous": "manipuliez",
+			"ils/elles": "manipulaient"
+		},
+		"futur": {
+			"je": "manipulerai",
+			"tu": "manipuleras",
+			"il/elle": "manipulera",
+			"nous": "manipulerons",
+			"vous": "manipulerez",
+			"ils/elles": "manipuleront"
+		},
+		"passé simple": {
+			"je": "manipulai",
+			"tu": "manipulas",
+			"il/elle": "manipula",
+			"nous": "manipulâmes",
+			"vous": "manipulâtes",
+			"ils/elles": "manipulèrent"
+		},
+		"passé composé": {
+			"j'": "ai manipulé",
+			"tu": "as manipulé",
+			"il/elle": "a manipulé",
+			"nous": "avons manipulé",
+			"vous": "avez manipulé",
+			"ils/elles": "ont manipulé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais manipulé",
+			"tu": "avais manipulé",
+			"il/elle": "avait manipulé",
+			"nous": "avions manipulé",
+			"vous": "aviez manipulé",
+			"ils/elles": "avaient manipulé"
+		},
+		"passé antérieur": {
+			"j'": "eus manipulé",
+			"tu": "eus manipulé",
+			"il/elle": "eut manipulé",
+			"nous": "eûmes manipulé",
+			"vous": "eûtes manipulé",
+			"ils/elles": "eurent manipulé"
+		},
+		"futur antérieur": {
+			"j'": "aurai manipulé",
+			"tu": "auras manipulé",
+			"il/elle": "aura manipulé",
+			"nous": "aurons manipulé",
+			"vous": "aurez manipulé",
+			"ils/elles": "auront manipulé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous manipuliez",
+			"qu'il/elle": "manipule",
+			"qu'ils/elles": "manipulent"
+		},
+		"imparfait": {
+			"que": "vous manipulassiez",
+			"qu'il/elle": "manipulât",
+			"qu'ils/elles": "manipulassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse manipulé",
+			"que": "vous eussiez manipulé",
+			"qu'il/elle": "eût manipulé",
+			"qu'ils/elles": "eussent manipulé"
+		},
+		"passé": {
+			"j'": "aie manipulé",
+			"que": "vous ayez manipulé",
+			"qu'il/elle": "ait manipulé",
+			"qu'ils/elles": "aient manipulé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "manipulerais",
+			"tu": "manipulerais",
+			"il/elle": "manipulerait",
+			"nous": "manipulerions",
+			"vous": "manipuleriez",
+			"ils/elles": "manipuleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais manipulé",
+			"tu": "aurais manipulé",
+			"il/elle": "aurait manipulé",
+			"nous": "aurions manipulé",
+			"vous": "auriez manipulé",
+			"ils/elles": "auraient manipulé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse manipulé",
+			"tu": "eusses manipulé",
+			"il/elle": "eût manipulé",
+			"nous": "eussions manipulé",
+			"vous": "eussiez manipulé",
+			"ils/elles": "eussent manipulé"
+		}
+	},
+	"participe": {
+		"présent": { "manipulant": "" },
+		"passé composé": { "ayant": "manipulé" },
+		"passé": {
+			"masc.sg.:": "manipulé",
+			"masc.pl.:": "manipulés",
+			"fém.sg.:": "manipulée",
+			"fém.pl.:": "manipulées"
+		}
+	},
+	"imperatif": {
+		"présent": { "manipule": "", "manipulons": "", "manipulez": "" },
+		"passé": { "aie": "manipulé", "ayons": "manipulé", "ayez": "manipulé" }
+	},
+	"infinitif": {
+		"présent": { "manipuler": "" },
+		"passé": { "avoir": "manipulé" }
+	}
+}

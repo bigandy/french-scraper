@@ -1,0 +1,138 @@
+{
+	"name": "fuir",
+	"definition": "flee; escape; run away; ...",
+	"model": "fuir",
+	"auxiliary": "avoir",
+	"otherForms": "se fuir/ne pas fuir/ne pas se fuir",
+	"indicatif": {
+		"présent": {
+			"je": "fuis",
+			"tu": "fuis",
+			"il/elle": "fuit",
+			"nous": "fuyons",
+			"vous": "fuyez",
+			"ils/elles": "fuient"
+		},
+		"imparfait": {
+			"je": "fuyais",
+			"tu": "fuyais",
+			"il/elle": "fuyait",
+			"nous": "fuyions",
+			"vous": "fuyiez",
+			"ils/elles": "fuyaient"
+		},
+		"futur": {
+			"je": "fuirai",
+			"tu": "fuiras",
+			"il/elle": "fuira",
+			"nous": "fuirons",
+			"vous": "fuirez",
+			"ils/elles": "fuiront"
+		},
+		"passé simple": {
+			"je": "fuis",
+			"tu": "fuis",
+			"il/elle": "fuit",
+			"nous": "fuîmes",
+			"vous": "fuîtes",
+			"ils/elles": "fuirent"
+		},
+		"passé composé": {
+			"j'": "ai fui",
+			"tu": "as fui",
+			"il/elle": "a fui",
+			"nous": "avons fui",
+			"vous": "avez fui",
+			"ils/elles": "ont fui"
+		},
+		"plus-que-parfait": {
+			"j'": "avais fui",
+			"tu": "avais fui",
+			"il/elle": "avait fui",
+			"nous": "avions fui",
+			"vous": "aviez fui",
+			"ils/elles": "avaient fui"
+		},
+		"passé antérieur": {
+			"j'": "eus fui",
+			"tu": "eus fui",
+			"il/elle": "eut fui",
+			"nous": "eûmes fui",
+			"vous": "eûtes fui",
+			"ils/elles": "eurent fui"
+		},
+		"futur antérieur": {
+			"j'": "aurai fui",
+			"tu": "auras fui",
+			"il/elle": "aura fui",
+			"nous": "aurons fui",
+			"vous": "aurez fui",
+			"ils/elles": "auront fui"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous fuyiez",
+			"qu'il/elle": "fuie",
+			"qu'ils/elles": "fuient"
+		},
+		"imparfait": {
+			"que": "vous fuissiez",
+			"qu'il/elle": "fuît",
+			"qu'ils/elles": "fuissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse fui",
+			"que": "vous eussiez fui",
+			"qu'il/elle": "eût fui",
+			"qu'ils/elles": "eussent fui"
+		},
+		"passé": {
+			"j'": "aie fui",
+			"que": "vous ayez fui",
+			"qu'il/elle": "ait fui",
+			"qu'ils/elles": "aient fui"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "fuirais",
+			"tu": "fuirais",
+			"il/elle": "fuirait",
+			"nous": "fuirions",
+			"vous": "fuiriez",
+			"ils/elles": "fuiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais fui",
+			"tu": "aurais fui",
+			"il/elle": "aurait fui",
+			"nous": "aurions fui",
+			"vous": "auriez fui",
+			"ils/elles": "auraient fui"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse fui",
+			"tu": "eusses fui",
+			"il/elle": "eût fui",
+			"nous": "eussions fui",
+			"vous": "eussiez fui",
+			"ils/elles": "eussent fui"
+		}
+	},
+	"participe": {
+		"présent": { "fuyant": "" },
+		"passé composé": { "ayant": "fui" },
+		"passé": {
+			"masc.sg.:": "fui",
+			"masc.pl.:": "fuis",
+			"fém.sg.:": "fuie",
+			"fém.pl.:": "fuies"
+		}
+	},
+	"imperatif": {
+		"présent": { "fuis": "", "fuyons": "", "fuyez": "" },
+		"passé": { "aie": "fui", "ayons": "fui", "ayez": "fui" }
+	},
+	"infinitif": { "présent": { "fuir": "" }, "passé": { "avoir": "fui" } }
+}

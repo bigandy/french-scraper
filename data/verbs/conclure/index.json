@@ -1,0 +1,138 @@
+{
+	"name": "conclure",
+	"definition": "conclude; enter into; find; ...",
+	"model": "conclure",
+	"auxiliary": "avoir",
+	"otherForms": "se conclure/ne pas conclure/ne pas se conclure",
+	"indicatif": {
+		"présent": {
+			"je": "conclus",
+			"tu": "conclus",
+			"il/elle": "conclut",
+			"nous": "concluons",
+			"vous": "concluez",
+			"ils/elles": "concluent"
+		},
+		"imparfait": {
+			"je": "concluais",
+			"tu": "concluais",
+			"il/elle": "concluait",
+			"nous": "concluions",
+			"vous": "concluiez",
+			"ils/elles": "concluaient"
+		},
+		"futur": {
+			"je": "conclurai",
+			"tu": "concluras",
+			"il/elle": "conclura",
+			"nous": "conclurons",
+			"vous": "conclurez",
+			"ils/elles": "concluront"
+		},
+		"passé simple": {
+			"je": "conclus",
+			"tu": "conclus",
+			"il/elle": "conclut",
+			"nous": "conclûmes",
+			"vous": "conclûtes",
+			"ils/elles": "conclurent"
+		},
+		"passé composé": {
+			"j'": "ai conclu",
+			"tu": "as conclu",
+			"il/elle": "a conclu",
+			"nous": "avons conclu",
+			"vous": "avez conclu",
+			"ils/elles": "ont conclu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais conclu",
+			"tu": "avais conclu",
+			"il/elle": "avait conclu",
+			"nous": "avions conclu",
+			"vous": "aviez conclu",
+			"ils/elles": "avaient conclu"
+		},
+		"passé antérieur": {
+			"j'": "eus conclu",
+			"tu": "eus conclu",
+			"il/elle": "eut conclu",
+			"nous": "eûmes conclu",
+			"vous": "eûtes conclu",
+			"ils/elles": "eurent conclu"
+		},
+		"futur antérieur": {
+			"j'": "aurai conclu",
+			"tu": "auras conclu",
+			"il/elle": "aura conclu",
+			"nous": "aurons conclu",
+			"vous": "aurez conclu",
+			"ils/elles": "auront conclu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous concluiez",
+			"qu'il/elle": "conclue",
+			"qu'ils/elles": "concluent"
+		},
+		"imparfait": {
+			"que": "vous conclussiez",
+			"qu'il/elle": "conclût",
+			"qu'ils/elles": "conclussent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse conclu",
+			"que": "vous eussiez conclu",
+			"qu'il/elle": "eût conclu",
+			"qu'ils/elles": "eussent conclu"
+		},
+		"passé": {
+			"j'": "aie conclu",
+			"que": "vous ayez conclu",
+			"qu'il/elle": "ait conclu",
+			"qu'ils/elles": "aient conclu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "conclurais",
+			"tu": "conclurais",
+			"il/elle": "conclurait",
+			"nous": "conclurions",
+			"vous": "concluriez",
+			"ils/elles": "concluraient"
+		},
+		"passé première forme": {
+			"j'": "aurais conclu",
+			"tu": "aurais conclu",
+			"il/elle": "aurait conclu",
+			"nous": "aurions conclu",
+			"vous": "auriez conclu",
+			"ils/elles": "auraient conclu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse conclu",
+			"tu": "eusses conclu",
+			"il/elle": "eût conclu",
+			"nous": "eussions conclu",
+			"vous": "eussiez conclu",
+			"ils/elles": "eussent conclu"
+		}
+	},
+	"participe": {
+		"présent": { "concluant": "" },
+		"passé composé": { "ayant": "conclu" },
+		"passé": {
+			"masc.sg.:": "conclu",
+			"masc.pl.:": "conclus",
+			"fém.sg.:": "conclue",
+			"fém.pl.:": "conclues"
+		}
+	},
+	"imperatif": {
+		"présent": { "conclus": "", "concluons": "", "concluez": "" },
+		"passé": { "aie": "conclu", "ayons": "conclu", "ayez": "conclu" }
+	},
+	"infinitif": { "présent": { "conclure": "" }, "passé": { "avoir": "conclu" } }
+}

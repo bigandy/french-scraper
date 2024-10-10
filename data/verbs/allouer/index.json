@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "allocate; award; assign; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'allouer/ne pas allouer/ne pas s'allouer",
+	"indicatif": {
+		"présent": {
+			"j'": "alloue",
+			"tu": "alloues",
+			"il/elle": "alloue",
+			"nous": "allouons",
+			"vous": "allouez",
+			"ils/elles": "allouent"
+		},
+		"imparfait": {
+			"j'": "allouais",
+			"tu": "allouais",
+			"il/elle": "allouait",
+			"nous": "allouions",
+			"vous": "allouiez",
+			"ils/elles": "allouaient"
+		},
+		"futur": {
+			"j'": "allouerai",
+			"tu": "alloueras",
+			"il/elle": "allouera",
+			"nous": "allouerons",
+			"vous": "allouerez",
+			"ils/elles": "alloueront"
+		},
+		"passé simple": {
+			"j'": "allouai",
+			"tu": "allouas",
+			"il/elle": "alloua",
+			"nous": "allouâmes",
+			"vous": "allouâtes",
+			"ils/elles": "allouèrent"
+		},
+		"passé composé": {
+			"j'": "ai alloué",
+			"tu": "as alloué",
+			"il/elle": "a alloué",
+			"nous": "avons alloué",
+			"vous": "avez alloué",
+			"ils/elles": "ont alloué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais alloué",
+			"tu": "avais alloué",
+			"il/elle": "avait alloué",
+			"nous": "avions alloué",
+			"vous": "aviez alloué",
+			"ils/elles": "avaient alloué"
+		},
+		"passé antérieur": {
+			"j'": "eus alloué",
+			"tu": "eus alloué",
+			"il/elle": "eut alloué",
+			"nous": "eûmes alloué",
+			"vous": "eûtes alloué",
+			"ils/elles": "eurent alloué"
+		},
+		"futur antérieur": {
+			"j'": "aurai alloué",
+			"tu": "auras alloué",
+			"il/elle": "aura alloué",
+			"nous": "aurons alloué",
+			"vous": "aurez alloué",
+			"ils/elles": "auront alloué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "alloue",
+			"que": "vous allouiez",
+			"qu'il/elle": "alloue",
+			"qu'ils/elles": "allouent"
+		},
+		"imparfait": {
+			"j'": "allouasse",
+			"que": "vous allouassiez",
+			"qu'il/elle": "allouât",
+			"qu'ils/elles": "allouassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse alloué",
+			"que": "vous eussiez alloué",
+			"qu'il/elle": "eût alloué",
+			"qu'ils/elles": "eussent alloué"
+		},
+		"passé": {
+			"j'": "aie alloué",
+			"que": "vous ayez alloué",
+			"qu'il/elle": "ait alloué",
+			"qu'ils/elles": "aient alloué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "allouerais",
+			"tu": "allouerais",
+			"il/elle": "allouerait",
+			"nous": "allouerions",
+			"vous": "alloueriez",
+			"ils/elles": "alloueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais alloué",
+			"tu": "aurais alloué",
+			"il/elle": "aurait alloué",
+			"nous": "aurions alloué",
+			"vous": "auriez alloué",
+			"ils/elles": "auraient alloué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse alloué",
+			"tu": "eusses alloué",
+			"il/elle": "eût alloué",
+			"nous": "eussions alloué",
+			"vous": "eussiez alloué",
+			"ils/elles": "eussent alloué"
+		}
+	},
+	"participe": {
+		"présent": { "allouant": "" },
+		"passé composé": { "ayant": "alloué" },
+		"passé": {
+			"masc.sg.:": "alloué",
+			"masc.pl.:": "alloués",
+			"fém.sg.:": "allouée",
+			"fém.pl.:": "allouées"
+		}
+	},
+	"imperatif": {
+		"présent": { "alloue": "", "allouons": "", "allouez": "" },
+		"passé": { "aie": "alloué", "ayons": "alloué", "ayez": "alloué" }
+	},
+	"infinitif": { "présent": { "allouer": "" }, "passé": { "avoir": "alloué" } }
+}

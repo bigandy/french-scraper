@@ -1,0 +1,145 @@
+{
+	"name": "marcher",
+	"definition": "focus on; favour; prefer; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se privilégier/ne pas privilégier/ne pas se privilégier",
+	"indicatif": {
+		"présent": {
+			"je": "privilégie",
+			"tu": "privilégies",
+			"il/elle": "privilégie",
+			"nous": "privilégions",
+			"vous": "privilégiez",
+			"ils/elles": "privilégient"
+		},
+		"imparfait": {
+			"je": "privilégiais",
+			"tu": "privilégiais",
+			"il/elle": "privilégiait",
+			"nous": "privilégiions",
+			"vous": "privilégiiez",
+			"ils/elles": "privilégiaient"
+		},
+		"futur": {
+			"je": "privilégierai",
+			"tu": "privilégieras",
+			"il/elle": "privilégiera",
+			"nous": "privilégierons",
+			"vous": "privilégierez",
+			"ils/elles": "privilégieront"
+		},
+		"passé simple": {
+			"je": "privilégiai",
+			"tu": "privilégias",
+			"il/elle": "privilégia",
+			"nous": "privilégiâmes",
+			"vous": "privilégiâtes",
+			"ils/elles": "privilégièrent"
+		},
+		"passé composé": {
+			"j'": "ai privilégié",
+			"tu": "as privilégié",
+			"il/elle": "a privilégié",
+			"nous": "avons privilégié",
+			"vous": "avez privilégié",
+			"ils/elles": "ont privilégié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais privilégié",
+			"tu": "avais privilégié",
+			"il/elle": "avait privilégié",
+			"nous": "avions privilégié",
+			"vous": "aviez privilégié",
+			"ils/elles": "avaient privilégié"
+		},
+		"passé antérieur": {
+			"j'": "eus privilégié",
+			"tu": "eus privilégié",
+			"il/elle": "eut privilégié",
+			"nous": "eûmes privilégié",
+			"vous": "eûtes privilégié",
+			"ils/elles": "eurent privilégié"
+		},
+		"futur antérieur": {
+			"j'": "aurai privilégié",
+			"tu": "auras privilégié",
+			"il/elle": "aura privilégié",
+			"nous": "aurons privilégié",
+			"vous": "aurez privilégié",
+			"ils/elles": "auront privilégié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous privilégiiez",
+			"qu'il/elle": "privilégie",
+			"qu'ils/elles": "privilégient"
+		},
+		"imparfait": {
+			"que": "vous privilégiassiez",
+			"qu'il/elle": "privilégiât",
+			"qu'ils/elles": "privilégiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse privilégié",
+			"que": "vous eussiez privilégié",
+			"qu'il/elle": "eût privilégié",
+			"qu'ils/elles": "eussent privilégié"
+		},
+		"passé": {
+			"j'": "aie privilégié",
+			"que": "vous ayez privilégié",
+			"qu'il/elle": "ait privilégié",
+			"qu'ils/elles": "aient privilégié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "privilégierais",
+			"tu": "privilégierais",
+			"il/elle": "privilégierait",
+			"nous": "privilégierions",
+			"vous": "privilégieriez",
+			"ils/elles": "privilégieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais privilégié",
+			"tu": "aurais privilégié",
+			"il/elle": "aurait privilégié",
+			"nous": "aurions privilégié",
+			"vous": "auriez privilégié",
+			"ils/elles": "auraient privilégié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse privilégié",
+			"tu": "eusses privilégié",
+			"il/elle": "eût privilégié",
+			"nous": "eussions privilégié",
+			"vous": "eussiez privilégié",
+			"ils/elles": "eussent privilégié"
+		}
+	},
+	"participe": {
+		"présent": { "privilégiant": "" },
+		"passé composé": { "ayant": "privilégié" },
+		"passé": {
+			"masc.sg.:": "privilégié",
+			"masc.pl.:": "privilégiés",
+			"fém.sg.:": "privilégiée",
+			"fém.pl.:": "privilégiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "privilégie": "", "privilégions": "", "privilégiez": "" },
+		"passé": {
+			"aie": "privilégié",
+			"ayons": "privilégié",
+			"ayez": "privilégié"
+		}
+	},
+	"infinitif": {
+		"présent": { "privilégier": "" },
+		"passé": { "avoir": "privilégié" }
+	}
+}

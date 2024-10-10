@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "roll; drive; ride; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se rouler/ne pas rouler/ne pas se rouler",
+	"indicatif": {
+		"présent": {
+			"je": "roule",
+			"tu": "roules",
+			"il/elle": "roule",
+			"nous": "roulons",
+			"vous": "roulez",
+			"ils/elles": "roulent"
+		},
+		"imparfait": {
+			"je": "roulais",
+			"tu": "roulais",
+			"il/elle": "roulait",
+			"nous": "roulions",
+			"vous": "rouliez",
+			"ils/elles": "roulaient"
+		},
+		"futur": {
+			"je": "roulerai",
+			"tu": "rouleras",
+			"il/elle": "roulera",
+			"nous": "roulerons",
+			"vous": "roulerez",
+			"ils/elles": "rouleront"
+		},
+		"passé simple": {
+			"je": "roulai",
+			"tu": "roulas",
+			"il/elle": "roula",
+			"nous": "roulâmes",
+			"vous": "roulâtes",
+			"ils/elles": "roulèrent"
+		},
+		"passé composé": {
+			"j'": "ai roulé",
+			"tu": "as roulé",
+			"il/elle": "a roulé",
+			"nous": "avons roulé",
+			"vous": "avez roulé",
+			"ils/elles": "ont roulé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais roulé",
+			"tu": "avais roulé",
+			"il/elle": "avait roulé",
+			"nous": "avions roulé",
+			"vous": "aviez roulé",
+			"ils/elles": "avaient roulé"
+		},
+		"passé antérieur": {
+			"j'": "eus roulé",
+			"tu": "eus roulé",
+			"il/elle": "eut roulé",
+			"nous": "eûmes roulé",
+			"vous": "eûtes roulé",
+			"ils/elles": "eurent roulé"
+		},
+		"futur antérieur": {
+			"j'": "aurai roulé",
+			"tu": "auras roulé",
+			"il/elle": "aura roulé",
+			"nous": "aurons roulé",
+			"vous": "aurez roulé",
+			"ils/elles": "auront roulé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous rouliez",
+			"qu'il/elle": "roule",
+			"qu'ils/elles": "roulent"
+		},
+		"imparfait": {
+			"que": "vous roulassiez",
+			"qu'il/elle": "roulât",
+			"qu'ils/elles": "roulassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse roulé",
+			"que": "vous eussiez roulé",
+			"qu'il/elle": "eût roulé",
+			"qu'ils/elles": "eussent roulé"
+		},
+		"passé": {
+			"j'": "aie roulé",
+			"que": "vous ayez roulé",
+			"qu'il/elle": "ait roulé",
+			"qu'ils/elles": "aient roulé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "roulerais",
+			"tu": "roulerais",
+			"il/elle": "roulerait",
+			"nous": "roulerions",
+			"vous": "rouleriez",
+			"ils/elles": "rouleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais roulé",
+			"tu": "aurais roulé",
+			"il/elle": "aurait roulé",
+			"nous": "aurions roulé",
+			"vous": "auriez roulé",
+			"ils/elles": "auraient roulé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse roulé",
+			"tu": "eusses roulé",
+			"il/elle": "eût roulé",
+			"nous": "eussions roulé",
+			"vous": "eussiez roulé",
+			"ils/elles": "eussent roulé"
+		}
+	},
+	"participe": {
+		"présent": { "roulant": "" },
+		"passé composé": { "ayant": "roulé" },
+		"passé": {
+			"masc.sg.:": "roulé",
+			"masc.pl.:": "roulés",
+			"fém.sg.:": "roulée",
+			"fém.pl.:": "roulées"
+		}
+	},
+	"imperatif": {
+		"présent": { "roule": "", "roulons": "", "roulez": "" },
+		"passé": { "aie": "roulé", "ayons": "roulé", "ayez": "roulé" }
+	},
+	"infinitif": { "présent": { "rouler": "" }, "passé": { "avoir": "roulé" } }
+}

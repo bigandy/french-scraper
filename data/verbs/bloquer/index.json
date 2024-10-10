@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "block; lock; stop; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se bloquer/ne pas bloquer/ne pas se bloquer",
+	"indicatif": {
+		"présent": {
+			"je": "bloque",
+			"tu": "bloques",
+			"il/elle": "bloque",
+			"nous": "bloquons",
+			"vous": "bloquez",
+			"ils/elles": "bloquent"
+		},
+		"imparfait": {
+			"je": "bloquais",
+			"tu": "bloquais",
+			"il/elle": "bloquait",
+			"nous": "bloquions",
+			"vous": "bloquiez",
+			"ils/elles": "bloquaient"
+		},
+		"futur": {
+			"je": "bloquerai",
+			"tu": "bloqueras",
+			"il/elle": "bloquera",
+			"nous": "bloquerons",
+			"vous": "bloquerez",
+			"ils/elles": "bloqueront"
+		},
+		"passé simple": {
+			"je": "bloquai",
+			"tu": "bloquas",
+			"il/elle": "bloqua",
+			"nous": "bloquâmes",
+			"vous": "bloquâtes",
+			"ils/elles": "bloquèrent"
+		},
+		"passé composé": {
+			"j'": "ai bloqué",
+			"tu": "as bloqué",
+			"il/elle": "a bloqué",
+			"nous": "avons bloqué",
+			"vous": "avez bloqué",
+			"ils/elles": "ont bloqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais bloqué",
+			"tu": "avais bloqué",
+			"il/elle": "avait bloqué",
+			"nous": "avions bloqué",
+			"vous": "aviez bloqué",
+			"ils/elles": "avaient bloqué"
+		},
+		"passé antérieur": {
+			"j'": "eus bloqué",
+			"tu": "eus bloqué",
+			"il/elle": "eut bloqué",
+			"nous": "eûmes bloqué",
+			"vous": "eûtes bloqué",
+			"ils/elles": "eurent bloqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai bloqué",
+			"tu": "auras bloqué",
+			"il/elle": "aura bloqué",
+			"nous": "aurons bloqué",
+			"vous": "aurez bloqué",
+			"ils/elles": "auront bloqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous bloquiez",
+			"qu'il/elle": "bloque",
+			"qu'ils/elles": "bloquent"
+		},
+		"imparfait": {
+			"que": "vous bloquassiez",
+			"qu'il/elle": "bloquât",
+			"qu'ils/elles": "bloquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse bloqué",
+			"que": "vous eussiez bloqué",
+			"qu'il/elle": "eût bloqué",
+			"qu'ils/elles": "eussent bloqué"
+		},
+		"passé": {
+			"j'": "aie bloqué",
+			"que": "vous ayez bloqué",
+			"qu'il/elle": "ait bloqué",
+			"qu'ils/elles": "aient bloqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "bloquerais",
+			"tu": "bloquerais",
+			"il/elle": "bloquerait",
+			"nous": "bloquerions",
+			"vous": "bloqueriez",
+			"ils/elles": "bloqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais bloqué",
+			"tu": "aurais bloqué",
+			"il/elle": "aurait bloqué",
+			"nous": "aurions bloqué",
+			"vous": "auriez bloqué",
+			"ils/elles": "auraient bloqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse bloqué",
+			"tu": "eusses bloqué",
+			"il/elle": "eût bloqué",
+			"nous": "eussions bloqué",
+			"vous": "eussiez bloqué",
+			"ils/elles": "eussent bloqué"
+		}
+	},
+	"participe": {
+		"présent": { "bloquant": "" },
+		"passé composé": { "ayant": "bloqué" },
+		"passé": {
+			"masc.sg.:": "bloqué",
+			"masc.pl.:": "bloqués",
+			"fém.sg.:": "bloquée",
+			"fém.pl.:": "bloquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "bloque": "", "bloquons": "", "bloquez": "" },
+		"passé": { "aie": "bloqué", "ayons": "bloqué", "ayez": "bloqué" }
+	},
+	"infinitif": { "présent": { "bloquer": "" }, "passé": { "avoir": "bloqué" } }
+}

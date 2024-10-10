@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "\n              get used; become accustomed; get accustomed; ...\n            ",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'habituer/ne pas habituer/ne pas s'habituer",
+	"indicatif": {
+		"présent": {
+			"j'": "habitue",
+			"tu": "habitues",
+			"il/elle": "habitue",
+			"nous": "habituons",
+			"vous": "habituez",
+			"ils/elles": "habituent"
+		},
+		"imparfait": {
+			"j'": "habituais",
+			"tu": "habituais",
+			"il/elle": "habituait",
+			"nous": "habituions",
+			"vous": "habituiez",
+			"ils/elles": "habituaient"
+		},
+		"futur": {
+			"j'": "habituerai",
+			"tu": "habitueras",
+			"il/elle": "habituera",
+			"nous": "habituerons",
+			"vous": "habituerez",
+			"ils/elles": "habitueront"
+		},
+		"passé simple": {
+			"j'": "habituai",
+			"tu": "habituas",
+			"il/elle": "habitua",
+			"nous": "habituâmes",
+			"vous": "habituâtes",
+			"ils/elles": "habituèrent"
+		},
+		"passé composé": {
+			"j'": "ai habitué",
+			"tu": "as habitué",
+			"il/elle": "a habitué",
+			"nous": "avons habitué",
+			"vous": "avez habitué",
+			"ils/elles": "ont habitué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais habitué",
+			"tu": "avais habitué",
+			"il/elle": "avait habitué",
+			"nous": "avions habitué",
+			"vous": "aviez habitué",
+			"ils/elles": "avaient habitué"
+		},
+		"passé antérieur": {
+			"j'": "eus habitué",
+			"tu": "eus habitué",
+			"il/elle": "eut habitué",
+			"nous": "eûmes habitué",
+			"vous": "eûtes habitué",
+			"ils/elles": "eurent habitué"
+		},
+		"futur antérieur": {
+			"j'": "aurai habitué",
+			"tu": "auras habitué",
+			"il/elle": "aura habitué",
+			"nous": "aurons habitué",
+			"vous": "aurez habitué",
+			"ils/elles": "auront habitué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "habitue",
+			"que": "vous habituiez",
+			"qu'il/elle": "habitue",
+			"qu'ils/elles": "habituent"
+		},
+		"imparfait": {
+			"j'": "habituasse",
+			"que": "vous habituassiez",
+			"qu'il/elle": "habituât",
+			"qu'ils/elles": "habituassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse habitué",
+			"que": "vous eussiez habitué",
+			"qu'il/elle": "eût habitué",
+			"qu'ils/elles": "eussent habitué"
+		},
+		"passé": {
+			"j'": "aie habitué",
+			"que": "vous ayez habitué",
+			"qu'il/elle": "ait habitué",
+			"qu'ils/elles": "aient habitué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "habituerais",
+			"tu": "habituerais",
+			"il/elle": "habituerait",
+			"nous": "habituerions",
+			"vous": "habitueriez",
+			"ils/elles": "habitueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais habitué",
+			"tu": "aurais habitué",
+			"il/elle": "aurait habitué",
+			"nous": "aurions habitué",
+			"vous": "auriez habitué",
+			"ils/elles": "auraient habitué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse habitué",
+			"tu": "eusses habitué",
+			"il/elle": "eût habitué",
+			"nous": "eussions habitué",
+			"vous": "eussiez habitué",
+			"ils/elles": "eussent habitué"
+		}
+	},
+	"participe": {
+		"présent": { "habituant": "" },
+		"passé composé": { "ayant": "habitué" },
+		"passé": {
+			"masc.sg.:": "habitué",
+			"masc.pl.:": "habitués",
+			"fém.sg.:": "habituée",
+			"fém.pl.:": "habituées"
+		}
+	},
+	"imperatif": {
+		"présent": { "habitue": "", "habituons": "", "habituez": "" },
+		"passé": { "aie": "habitué", "ayons": "habitué", "ayez": "habitué" }
+	},
+	"infinitif": {
+		"présent": { "habituer": "" },
+		"passé": { "avoir": "habitué" }
+	}
+}

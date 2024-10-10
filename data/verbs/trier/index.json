@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "sort; screen; sort out; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se trier/ne pas trier/ne pas se trier",
+	"indicatif": {
+		"présent": {
+			"je": "trie",
+			"tu": "tries",
+			"il/elle": "trie",
+			"nous": "trions",
+			"vous": "triez",
+			"ils/elles": "trient"
+		},
+		"imparfait": {
+			"je": "triais",
+			"tu": "triais",
+			"il/elle": "triait",
+			"nous": "triions",
+			"vous": "triiez",
+			"ils/elles": "triaient"
+		},
+		"futur": {
+			"je": "trierai",
+			"tu": "trieras",
+			"il/elle": "triera",
+			"nous": "trierons",
+			"vous": "trierez",
+			"ils/elles": "trieront"
+		},
+		"passé simple": {
+			"je": "triai",
+			"tu": "trias",
+			"il/elle": "tria",
+			"nous": "triâmes",
+			"vous": "triâtes",
+			"ils/elles": "trièrent"
+		},
+		"passé composé": {
+			"j'": "ai trié",
+			"tu": "as trié",
+			"il/elle": "a trié",
+			"nous": "avons trié",
+			"vous": "avez trié",
+			"ils/elles": "ont trié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais trié",
+			"tu": "avais trié",
+			"il/elle": "avait trié",
+			"nous": "avions trié",
+			"vous": "aviez trié",
+			"ils/elles": "avaient trié"
+		},
+		"passé antérieur": {
+			"j'": "eus trié",
+			"tu": "eus trié",
+			"il/elle": "eut trié",
+			"nous": "eûmes trié",
+			"vous": "eûtes trié",
+			"ils/elles": "eurent trié"
+		},
+		"futur antérieur": {
+			"j'": "aurai trié",
+			"tu": "auras trié",
+			"il/elle": "aura trié",
+			"nous": "aurons trié",
+			"vous": "aurez trié",
+			"ils/elles": "auront trié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous triiez",
+			"qu'il/elle": "trie",
+			"qu'ils/elles": "trient"
+		},
+		"imparfait": {
+			"que": "vous triassiez",
+			"qu'il/elle": "triât",
+			"qu'ils/elles": "triassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse trié",
+			"que": "vous eussiez trié",
+			"qu'il/elle": "eût trié",
+			"qu'ils/elles": "eussent trié"
+		},
+		"passé": {
+			"j'": "aie trié",
+			"que": "vous ayez trié",
+			"qu'il/elle": "ait trié",
+			"qu'ils/elles": "aient trié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "trierais",
+			"tu": "trierais",
+			"il/elle": "trierait",
+			"nous": "trierions",
+			"vous": "trieriez",
+			"ils/elles": "trieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais trié",
+			"tu": "aurais trié",
+			"il/elle": "aurait trié",
+			"nous": "aurions trié",
+			"vous": "auriez trié",
+			"ils/elles": "auraient trié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse trié",
+			"tu": "eusses trié",
+			"il/elle": "eût trié",
+			"nous": "eussions trié",
+			"vous": "eussiez trié",
+			"ils/elles": "eussent trié"
+		}
+	},
+	"participe": {
+		"présent": { "triant": "" },
+		"passé composé": { "ayant": "trié" },
+		"passé": {
+			"masc.sg.:": "trié",
+			"masc.pl.:": "triés",
+			"fém.sg.:": "triée",
+			"fém.pl.:": "triées"
+		}
+	},
+	"imperatif": {
+		"présent": { "trie": "", "trions": "", "triez": "" },
+		"passé": { "aie": "trié", "ayons": "trié", "ayez": "trié" }
+	},
+	"infinitif": { "présent": { "trier": "" }, "passé": { "avoir": "trié" } }
+}

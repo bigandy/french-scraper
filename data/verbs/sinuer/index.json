@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "twist; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas sinuer",
+	"indicatif": {
+		"présent": {
+			"je": "sinue",
+			"tu": "sinues",
+			"il/elle": "sinue",
+			"nous": "sinuons",
+			"vous": "sinuez",
+			"ils/elles": "sinuent"
+		},
+		"imparfait": {
+			"je": "sinuais",
+			"tu": "sinuais",
+			"il/elle": "sinuait",
+			"nous": "sinuions",
+			"vous": "sinuiez",
+			"ils/elles": "sinuaient"
+		},
+		"futur": {
+			"je": "sinuerai",
+			"tu": "sinueras",
+			"il/elle": "sinuera",
+			"nous": "sinuerons",
+			"vous": "sinuerez",
+			"ils/elles": "sinueront"
+		},
+		"passé simple": {
+			"je": "sinuai",
+			"tu": "sinuas",
+			"il/elle": "sinua",
+			"nous": "sinuâmes",
+			"vous": "sinuâtes",
+			"ils/elles": "sinuèrent"
+		},
+		"passé composé": {
+			"j'": "ai sinué",
+			"tu": "as sinué",
+			"il/elle": "a sinué",
+			"nous": "avons sinué",
+			"vous": "avez sinué",
+			"ils/elles": "ont sinué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais sinué",
+			"tu": "avais sinué",
+			"il/elle": "avait sinué",
+			"nous": "avions sinué",
+			"vous": "aviez sinué",
+			"ils/elles": "avaient sinué"
+		},
+		"passé antérieur": {
+			"j'": "eus sinué",
+			"tu": "eus sinué",
+			"il/elle": "eut sinué",
+			"nous": "eûmes sinué",
+			"vous": "eûtes sinué",
+			"ils/elles": "eurent sinué"
+		},
+		"futur antérieur": {
+			"j'": "aurai sinué",
+			"tu": "auras sinué",
+			"il/elle": "aura sinué",
+			"nous": "aurons sinué",
+			"vous": "aurez sinué",
+			"ils/elles": "auront sinué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous sinuiez",
+			"qu'il/elle": "sinue",
+			"qu'ils/elles": "sinuent"
+		},
+		"imparfait": {
+			"que": "vous sinuassiez",
+			"qu'il/elle": "sinuât",
+			"qu'ils/elles": "sinuassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse sinué",
+			"que": "vous eussiez sinué",
+			"qu'il/elle": "eût sinué",
+			"qu'ils/elles": "eussent sinué"
+		},
+		"passé": {
+			"j'": "aie sinué",
+			"que": "vous ayez sinué",
+			"qu'il/elle": "ait sinué",
+			"qu'ils/elles": "aient sinué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "sinuerais",
+			"tu": "sinuerais",
+			"il/elle": "sinuerait",
+			"nous": "sinuerions",
+			"vous": "sinueriez",
+			"ils/elles": "sinueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais sinué",
+			"tu": "aurais sinué",
+			"il/elle": "aurait sinué",
+			"nous": "aurions sinué",
+			"vous": "auriez sinué",
+			"ils/elles": "auraient sinué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse sinué",
+			"tu": "eusses sinué",
+			"il/elle": "eût sinué",
+			"nous": "eussions sinué",
+			"vous": "eussiez sinué",
+			"ils/elles": "eussent sinué"
+		}
+	},
+	"participe": {
+		"présent": { "sinuant": "" },
+		"passé composé": { "ayant": "sinué" },
+		"passé": {
+			"masc.sg.:": "sinué",
+			"masc.pl.:": "sinués",
+			"fém.sg.:": "sinuée",
+			"fém.pl.:": "sinuées"
+		}
+	},
+	"imperatif": {
+		"présent": { "sinue": "", "sinuons": "", "sinuez": "" },
+		"passé": { "aie": "sinué", "ayons": "sinué", "ayez": "sinué" }
+	},
+	"infinitif": { "présent": { "sinuer": "" }, "passé": { "avoir": "sinué" } }
+}

@@ -1,0 +1,152 @@
+{
+	"name": "tenir",
+	"definition": "become; get; go; ...",
+	"model": "tenir",
+	"auxiliary": "être",
+	"otherForms": "ne pas devenir",
+	"indicatif": {
+		"présent": {
+			"je": "deviens",
+			"tu": "deviens",
+			"il/elle": "devient",
+			"nous": "devenons",
+			"vous": "devenez",
+			"ils/elles": "deviennent"
+		},
+		"imparfait": {
+			"je": "devenais",
+			"tu": "devenais",
+			"il/elle": "devenait",
+			"nous": "devenions",
+			"vous": "deveniez",
+			"ils/elles": "devenaient"
+		},
+		"futur": {
+			"je": "deviendrai",
+			"tu": "deviendras",
+			"il/elle": "deviendra",
+			"nous": "deviendrons",
+			"vous": "deviendrez",
+			"ils/elles": "deviendront"
+		},
+		"passé simple": {
+			"je": "devins",
+			"tu": "devins",
+			"il/elle": "devint",
+			"nous": "devînmes",
+			"vous": "devîntes",
+			"ils/elles": "devinrent"
+		},
+		"passé composé": {
+			"je": "suis devenu",
+			"tu": "es devenu",
+			"il": "est devenu",
+			"elle": "est devenue",
+			"nous": "sommes devenus",
+			"vous": "êtes devenus",
+			"ils": "sont devenus",
+			"elles": "sont devenues"
+		},
+		"plus-que-parfait": {
+			"j'": "étais devenu",
+			"tu": "étais devenu",
+			"il": "était devenu",
+			"elle": "était devenue",
+			"nous": "étions devenus",
+			"vous": "étiez devenus",
+			"ils": "étaient devenus",
+			"elles": "étaient devenues"
+		},
+		"passé antérieur": {
+			"je": "fus devenu",
+			"tu": "fus devenu",
+			"il": "fut devenu",
+			"elle": "fut devenue",
+			"nous": "fûmes devenus",
+			"vous": "fûtes devenus",
+			"ils": "furent devenus",
+			"elles": "furent devenues"
+		},
+		"futur antérieur": {
+			"je": "serai devenu",
+			"tu": "seras devenu",
+			"il": "sera devenu",
+			"elle": "sera devenue",
+			"nous": "serons devenus",
+			"vous": "serez devenus",
+			"ils": "seront devenus",
+			"elles": "seront devenues"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous deveniez",
+			"qu'il/elle": "devienne",
+			"qu'ils/elles": "deviennent"
+		},
+		"imparfait": {
+			"que": "vous devinssiez",
+			"qu'il/elle": "devînt",
+			"qu'ils/elles": "devinssent"
+		},
+		"plus-que-parfait": {
+			"que": "vous fussiez devenus",
+			"qu'il": "fût devenu",
+			"qu'elle": "fût devenue",
+			"qu'ils": "fussent devenus",
+			"qu'elles": "fussent devenues"
+		},
+		"passé": {
+			"que": "vous soyez devenus",
+			"qu'il": "soit devenu",
+			"qu'elle": "soit devenue",
+			"qu'ils": "soient devenus",
+			"qu'elles": "soient devenues"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "deviendrais",
+			"tu": "deviendrais",
+			"il/elle": "deviendrait",
+			"nous": "deviendrions",
+			"vous": "deviendriez",
+			"ils/elles": "deviendraient"
+		},
+		"passé première forme": {
+			"je": "serais devenu",
+			"tu": "serais devenu",
+			"il": "serait devenu",
+			"elle": "serait devenue",
+			"nous": "serions devenus",
+			"vous": "seriez devenus",
+			"ils": "seraient devenus",
+			"elles": "seraient devenues"
+		},
+		"passé deuxième forme": {
+			"je": "fusse devenu",
+			"tu": "fusses devenu",
+			"il": "fût devenu",
+			"elle": "fût devenue",
+			"nous": "fussions devenus",
+			"vous": "fussiez devenus",
+			"ils": "fussent devenus",
+			"elles": "fussent devenues"
+		}
+	},
+	"participe": {
+		"présent": { "devenant": "" },
+		"passé composé": { "étant": "devenue" },
+		"passé": {
+			"masc.sg.:": "devenu",
+			"masc.pl.:": "devenus",
+			"fém.sg.:": "devenue",
+			"fém.pl.:": "devenues"
+		}
+	},
+	"imperatif": {
+		"présent": { "deviens": "", "devenons": "", "devenez": "" },
+		"passé": { "sois": "devenu", "soyons": "devenu", "soyez": "devenu" }
+	},
+	"infinitif": { "présent": { "devenir": "" }, "passé": { "être": "devenu" } }
+}

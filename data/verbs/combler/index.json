@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "fill; bridge; address; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se combler/ne pas combler/ne pas se combler",
+	"indicatif": {
+		"présent": {
+			"je": "comble",
+			"tu": "combles",
+			"il/elle": "comble",
+			"nous": "comblons",
+			"vous": "comblez",
+			"ils/elles": "comblent"
+		},
+		"imparfait": {
+			"je": "comblais",
+			"tu": "comblais",
+			"il/elle": "comblait",
+			"nous": "comblions",
+			"vous": "combliez",
+			"ils/elles": "comblaient"
+		},
+		"futur": {
+			"je": "comblerai",
+			"tu": "combleras",
+			"il/elle": "comblera",
+			"nous": "comblerons",
+			"vous": "comblerez",
+			"ils/elles": "combleront"
+		},
+		"passé simple": {
+			"je": "comblai",
+			"tu": "comblas",
+			"il/elle": "combla",
+			"nous": "comblâmes",
+			"vous": "comblâtes",
+			"ils/elles": "comblèrent"
+		},
+		"passé composé": {
+			"j'": "ai comblé",
+			"tu": "as comblé",
+			"il/elle": "a comblé",
+			"nous": "avons comblé",
+			"vous": "avez comblé",
+			"ils/elles": "ont comblé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais comblé",
+			"tu": "avais comblé",
+			"il/elle": "avait comblé",
+			"nous": "avions comblé",
+			"vous": "aviez comblé",
+			"ils/elles": "avaient comblé"
+		},
+		"passé antérieur": {
+			"j'": "eus comblé",
+			"tu": "eus comblé",
+			"il/elle": "eut comblé",
+			"nous": "eûmes comblé",
+			"vous": "eûtes comblé",
+			"ils/elles": "eurent comblé"
+		},
+		"futur antérieur": {
+			"j'": "aurai comblé",
+			"tu": "auras comblé",
+			"il/elle": "aura comblé",
+			"nous": "aurons comblé",
+			"vous": "aurez comblé",
+			"ils/elles": "auront comblé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous combliez",
+			"qu'il/elle": "comble",
+			"qu'ils/elles": "comblent"
+		},
+		"imparfait": {
+			"que": "vous comblassiez",
+			"qu'il/elle": "comblât",
+			"qu'ils/elles": "comblassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse comblé",
+			"que": "vous eussiez comblé",
+			"qu'il/elle": "eût comblé",
+			"qu'ils/elles": "eussent comblé"
+		},
+		"passé": {
+			"j'": "aie comblé",
+			"que": "vous ayez comblé",
+			"qu'il/elle": "ait comblé",
+			"qu'ils/elles": "aient comblé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "comblerais",
+			"tu": "comblerais",
+			"il/elle": "comblerait",
+			"nous": "comblerions",
+			"vous": "combleriez",
+			"ils/elles": "combleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais comblé",
+			"tu": "aurais comblé",
+			"il/elle": "aurait comblé",
+			"nous": "aurions comblé",
+			"vous": "auriez comblé",
+			"ils/elles": "auraient comblé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse comblé",
+			"tu": "eusses comblé",
+			"il/elle": "eût comblé",
+			"nous": "eussions comblé",
+			"vous": "eussiez comblé",
+			"ils/elles": "eussent comblé"
+		}
+	},
+	"participe": {
+		"présent": { "comblant": "" },
+		"passé composé": { "ayant": "comblé" },
+		"passé": {
+			"masc.sg.:": "comblé",
+			"masc.pl.:": "comblés",
+			"fém.sg.:": "comblée",
+			"fém.pl.:": "comblées"
+		}
+	},
+	"imperatif": {
+		"présent": { "comble": "", "comblons": "", "comblez": "" },
+		"passé": { "aie": "comblé", "ayons": "comblé", "ayez": "comblé" }
+	},
+	"infinitif": { "présent": { "combler": "" }, "passé": { "avoir": "comblé" } }
+}

@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "inform; inquire; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se renseigner/ne pas renseigner/ne pas se renseigner",
+	"indicatif": {
+		"présent": {
+			"je": "renseigne",
+			"tu": "renseignes",
+			"il/elle": "renseigne",
+			"nous": "renseignons",
+			"vous": "renseignez",
+			"ils/elles": "renseignent"
+		},
+		"imparfait": {
+			"je": "renseignais",
+			"tu": "renseignais",
+			"il/elle": "renseignait",
+			"nous": "renseignions",
+			"vous": "renseigniez",
+			"ils/elles": "renseignaient"
+		},
+		"futur": {
+			"je": "renseignerai",
+			"tu": "renseigneras",
+			"il/elle": "renseignera",
+			"nous": "renseignerons",
+			"vous": "renseignerez",
+			"ils/elles": "renseigneront"
+		},
+		"passé simple": {
+			"je": "renseignai",
+			"tu": "renseignas",
+			"il/elle": "renseigna",
+			"nous": "renseignâmes",
+			"vous": "renseignâtes",
+			"ils/elles": "renseignèrent"
+		},
+		"passé composé": {
+			"j'": "ai renseigné",
+			"tu": "as renseigné",
+			"il/elle": "a renseigné",
+			"nous": "avons renseigné",
+			"vous": "avez renseigné",
+			"ils/elles": "ont renseigné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais renseigné",
+			"tu": "avais renseigné",
+			"il/elle": "avait renseigné",
+			"nous": "avions renseigné",
+			"vous": "aviez renseigné",
+			"ils/elles": "avaient renseigné"
+		},
+		"passé antérieur": {
+			"j'": "eus renseigné",
+			"tu": "eus renseigné",
+			"il/elle": "eut renseigné",
+			"nous": "eûmes renseigné",
+			"vous": "eûtes renseigné",
+			"ils/elles": "eurent renseigné"
+		},
+		"futur antérieur": {
+			"j'": "aurai renseigné",
+			"tu": "auras renseigné",
+			"il/elle": "aura renseigné",
+			"nous": "aurons renseigné",
+			"vous": "aurez renseigné",
+			"ils/elles": "auront renseigné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous renseigniez",
+			"qu'il/elle": "renseigne",
+			"qu'ils/elles": "renseignent"
+		},
+		"imparfait": {
+			"que": "vous renseignassiez",
+			"qu'il/elle": "renseignât",
+			"qu'ils/elles": "renseignassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse renseigné",
+			"que": "vous eussiez renseigné",
+			"qu'il/elle": "eût renseigné",
+			"qu'ils/elles": "eussent renseigné"
+		},
+		"passé": {
+			"j'": "aie renseigné",
+			"que": "vous ayez renseigné",
+			"qu'il/elle": "ait renseigné",
+			"qu'ils/elles": "aient renseigné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "renseignerais",
+			"tu": "renseignerais",
+			"il/elle": "renseignerait",
+			"nous": "renseignerions",
+			"vous": "renseigneriez",
+			"ils/elles": "renseigneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais renseigné",
+			"tu": "aurais renseigné",
+			"il/elle": "aurait renseigné",
+			"nous": "aurions renseigné",
+			"vous": "auriez renseigné",
+			"ils/elles": "auraient renseigné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse renseigné",
+			"tu": "eusses renseigné",
+			"il/elle": "eût renseigné",
+			"nous": "eussions renseigné",
+			"vous": "eussiez renseigné",
+			"ils/elles": "eussent renseigné"
+		}
+	},
+	"participe": {
+		"présent": { "renseignant": "" },
+		"passé composé": { "ayant": "renseigné" },
+		"passé": {
+			"masc.sg.:": "renseigné",
+			"masc.pl.:": "renseignés",
+			"fém.sg.:": "renseignée",
+			"fém.pl.:": "renseignées"
+		}
+	},
+	"imperatif": {
+		"présent": { "renseigne": "", "renseignons": "", "renseignez": "" },
+		"passé": { "aie": "renseigné", "ayons": "renseigné", "ayez": "renseigné" }
+	},
+	"infinitif": {
+		"présent": { "renseigner": "" },
+		"passé": { "avoir": "renseigné" }
+	}
+}

@@ -1,0 +1,141 @@
+{
+	"name": "céder",
+	"definition": "have; possess; own; ...",
+	"model": "céder",
+	"auxiliary": "avoir",
+	"otherForms": "se posséder/ne pas posséder/ne pas se posséder",
+	"indicatif": {
+		"présent": {
+			"je": "possède",
+			"tu": "possèdes",
+			"il/elle": "possède",
+			"nous": "possédons",
+			"vous": "possédez",
+			"ils/elles": "possèdent"
+		},
+		"imparfait": {
+			"je": "possédais",
+			"tu": "possédais",
+			"il/elle": "possédait",
+			"nous": "possédions",
+			"vous": "possédiez",
+			"ils/elles": "possédaient"
+		},
+		"futur": {
+			"je": "posséderai",
+			"tu": "posséderas",
+			"il/elle": "possédera",
+			"nous": "posséderons",
+			"vous": "posséderez",
+			"ils/elles": "posséderont"
+		},
+		"passé simple": {
+			"je": "possédai",
+			"tu": "possédas",
+			"il/elle": "posséda",
+			"nous": "possédâmes",
+			"vous": "possédâtes",
+			"ils/elles": "possédèrent"
+		},
+		"passé composé": {
+			"j'": "ai possédé",
+			"tu": "as possédé",
+			"il/elle": "a possédé",
+			"nous": "avons possédé",
+			"vous": "avez possédé",
+			"ils/elles": "ont possédé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais possédé",
+			"tu": "avais possédé",
+			"il/elle": "avait possédé",
+			"nous": "avions possédé",
+			"vous": "aviez possédé",
+			"ils/elles": "avaient possédé"
+		},
+		"passé antérieur": {
+			"j'": "eus possédé",
+			"tu": "eus possédé",
+			"il/elle": "eut possédé",
+			"nous": "eûmes possédé",
+			"vous": "eûtes possédé",
+			"ils/elles": "eurent possédé"
+		},
+		"futur antérieur": {
+			"j'": "aurai possédé",
+			"tu": "auras possédé",
+			"il/elle": "aura possédé",
+			"nous": "aurons possédé",
+			"vous": "aurez possédé",
+			"ils/elles": "auront possédé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous possédiez",
+			"qu'il/elle": "possède",
+			"qu'ils/elles": "possèdent"
+		},
+		"imparfait": {
+			"que": "vous possédassiez",
+			"qu'il/elle": "possédât",
+			"qu'ils/elles": "possédassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse possédé",
+			"que": "vous eussiez possédé",
+			"qu'il/elle": "eût possédé",
+			"qu'ils/elles": "eussent possédé"
+		},
+		"passé": {
+			"j'": "aie possédé",
+			"que": "vous ayez possédé",
+			"qu'il/elle": "ait possédé",
+			"qu'ils/elles": "aient possédé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "posséderais",
+			"tu": "posséderais",
+			"il/elle": "posséderait",
+			"nous": "posséderions",
+			"vous": "posséderiez",
+			"ils/elles": "posséderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais possédé",
+			"tu": "aurais possédé",
+			"il/elle": "aurait possédé",
+			"nous": "aurions possédé",
+			"vous": "auriez possédé",
+			"ils/elles": "auraient possédé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse possédé",
+			"tu": "eusses possédé",
+			"il/elle": "eût possédé",
+			"nous": "eussions possédé",
+			"vous": "eussiez possédé",
+			"ils/elles": "eussent possédé"
+		}
+	},
+	"participe": {
+		"présent": { "possédant": "" },
+		"passé composé": { "ayant": "possédé" },
+		"passé": {
+			"masc.sg.:": "possédé",
+			"masc.pl.:": "possédés",
+			"fém.sg.:": "possédée",
+			"fém.pl.:": "possédées"
+		}
+	},
+	"imperatif": {
+		"présent": { "possède": "", "possédons": "", "possédez": "" },
+		"passé": { "aie": "possédé", "ayons": "possédé", "ayez": "possédé" }
+	},
+	"infinitif": {
+		"présent": { "posséder": "" },
+		"passé": { "avoir": "possédé" }
+	}
+}

@@ -1,0 +1,140 @@
+{
+	"name": "craindre",
+	"definition": "turn off; extinguish; put out; ...",
+	"model": "craindre",
+	"auxiliary": "avoir",
+	"otherForms": "s'éteindre/ne pas éteindre/ne pas s'éteindre",
+	"indicatif": {
+		"présent": {
+			"j'": "éteins",
+			"tu": "éteins",
+			"il/elle": "éteint",
+			"nous": "éteignons",
+			"vous": "éteignez",
+			"ils/elles": "éteignent"
+		},
+		"imparfait": {
+			"j'": "éteignais",
+			"tu": "éteignais",
+			"il/elle": "éteignait",
+			"nous": "éteignions",
+			"vous": "éteigniez",
+			"ils/elles": "éteignaient"
+		},
+		"futur": {
+			"j'": "éteindrai",
+			"tu": "éteindras",
+			"il/elle": "éteindra",
+			"nous": "éteindrons",
+			"vous": "éteindrez",
+			"ils/elles": "éteindront"
+		},
+		"passé simple": {
+			"j'": "éteignis",
+			"tu": "éteignis",
+			"il/elle": "éteignit",
+			"nous": "éteignîmes",
+			"vous": "éteignîtes",
+			"ils/elles": "éteignirent"
+		},
+		"passé composé": {
+			"j'": "ai éteint",
+			"tu": "as éteint",
+			"il/elle": "a éteint",
+			"nous": "avons éteint",
+			"vous": "avez éteint",
+			"ils/elles": "ont éteint"
+		},
+		"plus-que-parfait": {
+			"j'": "avais éteint",
+			"tu": "avais éteint",
+			"il/elle": "avait éteint",
+			"nous": "avions éteint",
+			"vous": "aviez éteint",
+			"ils/elles": "avaient éteint"
+		},
+		"passé antérieur": {
+			"j'": "eus éteint",
+			"tu": "eus éteint",
+			"il/elle": "eut éteint",
+			"nous": "eûmes éteint",
+			"vous": "eûtes éteint",
+			"ils/elles": "eurent éteint"
+		},
+		"futur antérieur": {
+			"j'": "aurai éteint",
+			"tu": "auras éteint",
+			"il/elle": "aura éteint",
+			"nous": "aurons éteint",
+			"vous": "aurez éteint",
+			"ils/elles": "auront éteint"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "éteigne",
+			"que": "vous éteigniez",
+			"qu'il/elle": "éteigne",
+			"qu'ils/elles": "éteignent"
+		},
+		"imparfait": {
+			"j'": "éteignisse",
+			"que": "vous éteignissiez",
+			"qu'il/elle": "éteignît",
+			"qu'ils/elles": "éteignissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse éteint",
+			"que": "vous eussiez éteint",
+			"qu'il/elle": "eût éteint",
+			"qu'ils/elles": "eussent éteint"
+		},
+		"passé": {
+			"j'": "aie éteint",
+			"que": "vous ayez éteint",
+			"qu'il/elle": "ait éteint",
+			"qu'ils/elles": "aient éteint"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "éteindrais",
+			"tu": "éteindrais",
+			"il/elle": "éteindrait",
+			"nous": "éteindrions",
+			"vous": "éteindriez",
+			"ils/elles": "éteindraient"
+		},
+		"passé première forme": {
+			"j'": "aurais éteint",
+			"tu": "aurais éteint",
+			"il/elle": "aurait éteint",
+			"nous": "aurions éteint",
+			"vous": "auriez éteint",
+			"ils/elles": "auraient éteint"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse éteint",
+			"tu": "eusses éteint",
+			"il/elle": "eût éteint",
+			"nous": "eussions éteint",
+			"vous": "eussiez éteint",
+			"ils/elles": "eussent éteint"
+		}
+	},
+	"participe": {
+		"présent": { "éteignant": "" },
+		"passé composé": { "ayant": "éteint" },
+		"passé": {
+			"masc.sg.:": "éteint",
+			"masc.pl.:": "éteints",
+			"fém.sg.:": "éteinte",
+			"fém.pl.:": "éteintes"
+		}
+	},
+	"imperatif": {
+		"présent": { "éteins": "", "éteignons": "", "éteignez": "" },
+		"passé": { "aie": "éteint", "ayons": "éteint", "ayez": "éteint" }
+	},
+	"infinitif": { "présent": { "éteindre": "" }, "passé": { "avoir": "éteint" } }
+}

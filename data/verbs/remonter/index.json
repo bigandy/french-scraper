@@ -1,0 +1,194 @@
+{
+	"name": "marcher",
+	"definition": "go back; trace; get back; ...",
+	"model": "marcher",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "se remonter/ne pas remonter/ne pas se remonter",
+	"indicatif": {
+		"présent": {
+			"je": "remonte",
+			"tu": "remontes",
+			"il/elle": "remonte",
+			"nous": "remontons",
+			"vous": "remontez",
+			"ils/elles": "remontent"
+		},
+		"imparfait": {
+			"je": "remontais",
+			"tu": "remontais",
+			"il/elle": "remontait",
+			"nous": "remontions",
+			"vous": "remontiez",
+			"ils/elles": "remontaient"
+		},
+		"futur": {
+			"je": "remonterai",
+			"tu": "remonteras",
+			"il/elle": "remontera",
+			"nous": "remonterons",
+			"vous": "remonterez",
+			"ils/elles": "remonteront"
+		},
+		"passé simple": {
+			"je": "remontai",
+			"tu": "remontas",
+			"il/elle": "remonta",
+			"nous": "remontâmes",
+			"vous": "remontâtes",
+			"ils/elles": "remontèrent"
+		},
+		"passé composé": {
+			"j'": "ai remonté",
+			"tu": "es remonté",
+			"il/elle": "a remonté",
+			"nous": "sommes remontés",
+			"vous": "êtes remontés",
+			"ils/elles": "ont remonté",
+			"": "",
+			"je": "suis remonté",
+			"il": "est remonté",
+			"elle": "est remontée",
+			"ils": "sont remontés",
+			"elles": "sont remontées"
+		},
+		"plus-que-parfait": {
+			"j'": "étais remonté",
+			"tu": "étais remonté",
+			"il/elle": "avait remonté",
+			"nous": "étions remontés",
+			"vous": "étiez remontés",
+			"ils/elles": "avaient remonté",
+			"": "",
+			"il": "était remonté",
+			"elle": "était remontée",
+			"ils": "étaient remontés",
+			"elles": "étaient remontées"
+		},
+		"passé antérieur": {
+			"j'": "eus remonté",
+			"tu": "fus remonté",
+			"il/elle": "eut remonté",
+			"nous": "fûmes remontés",
+			"vous": "fûtes remontés",
+			"ils/elles": "eurent remonté",
+			"": "",
+			"je": "fus remonté",
+			"il": "fut remonté",
+			"elle": "fut remontée",
+			"ils": "furent remontés",
+			"elles": "furent remontées"
+		},
+		"futur antérieur": {
+			"j'": "aurai remonté",
+			"tu": "seras remonté",
+			"il/elle": "aura remonté",
+			"nous": "serons remontés",
+			"vous": "serez remontés",
+			"ils/elles": "auront remonté",
+			"": "",
+			"je": "serai remonté",
+			"il": "sera remonté",
+			"elle": "sera remontée",
+			"ils": "seront remontés",
+			"elles": "seront remontées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous remontiez",
+			"qu'il/elle": "remonte",
+			"qu'ils/elles": "remontent"
+		},
+		"imparfait": {
+			"que": "vous remontassiez",
+			"qu'il/elle": "remontât",
+			"qu'ils/elles": "remontassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse remonté",
+			"que": "vous fussiez remontés",
+			"qu'il/elle": "eût remonté",
+			"qu'ils/elles": "eussent remonté",
+			"": "",
+			"qu'il": "fût remonté",
+			"qu'elle": "fût remontée",
+			"qu'ils": "fussent remontés",
+			"qu'elles": "fussent remontées"
+		},
+		"passé": {
+			"j'": "aie remonté",
+			"que": "vous soyez remontés",
+			"qu'il/elle": "ait remonté",
+			"qu'ils/elles": "aient remonté",
+			"": "",
+			"qu'il": "soit remonté",
+			"qu'elle": "soit remontée",
+			"qu'ils": "soient remontés",
+			"qu'elles": "soient remontées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "remonterais",
+			"tu": "remonterais",
+			"il/elle": "remonterait",
+			"nous": "remonterions",
+			"vous": "remonteriez",
+			"ils/elles": "remonteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais remonté",
+			"tu": "serais remonté",
+			"il/elle": "aurait remonté",
+			"nous": "serions remontés",
+			"vous": "seriez remontés",
+			"ils/elles": "auraient remonté",
+			"": "",
+			"je": "serais remonté",
+			"il": "serait remonté",
+			"elle": "serait remontée",
+			"ils": "seraient remontés",
+			"elles": "seraient remontées"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse remonté",
+			"tu": "fusses remonté",
+			"il/elle": "eût remonté",
+			"nous": "fussions remontés",
+			"vous": "fussiez remontés",
+			"ils/elles": "eussent remonté",
+			"": "",
+			"je": "fusse remonté",
+			"il": "fût remonté",
+			"elle": "fût remontée",
+			"ils": "fussent remontés",
+			"elles": "fussent remontées"
+		}
+	},
+	"participe": {
+		"présent": { "remontant": "" },
+		"passé composé": { "ayant": "remonté", "": "", "étant": "remontée" },
+		"passé": {
+			"masc.sg.:": "remonté",
+			"masc.pl.:": "remontés",
+			"fém.sg.:": "remontée",
+			"fém.pl.:": "remontées"
+		}
+	},
+	"imperatif": {
+		"présent": { "remonte": "", "remontons": "", "remontez": "" },
+		"passé": {
+			"aie": "remonté",
+			"ayons": "remonté",
+			"ayez": "remonté",
+			"": "",
+			"sois": "remonté",
+			"soyons": "remonté",
+			"soyez": "remonté"
+		}
+	},
+	"infinitif": {
+		"présent": { "remonter": "" },
+		"passé": { "avoir": "remonté", "": "", "être": "remonté" }
+	}
+}

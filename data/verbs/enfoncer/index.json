@@ -1,0 +1,143 @@
+{
+	"name": "commencer",
+	"definition": "drive; sink; stick; ...",
+	"model": "commencer",
+	"auxiliary": "avoir",
+	"otherForms": "s'enfoncer/ne pas enfoncer/ne pas s'enfoncer",
+	"indicatif": {
+		"présent": {
+			"j'": "enfonce",
+			"tu": "enfonces",
+			"il/elle": "enfonce",
+			"nous": "enfonçons",
+			"vous": "enfoncez",
+			"ils/elles": "enfoncent"
+		},
+		"imparfait": {
+			"j'": "enfonçais",
+			"tu": "enfonçais",
+			"il/elle": "enfonçait",
+			"nous": "enfoncions",
+			"vous": "enfonciez",
+			"ils/elles": "enfonçaient"
+		},
+		"futur": {
+			"j'": "enfoncerai",
+			"tu": "enfonceras",
+			"il/elle": "enfoncera",
+			"nous": "enfoncerons",
+			"vous": "enfoncerez",
+			"ils/elles": "enfonceront"
+		},
+		"passé simple": {
+			"j'": "enfonçai",
+			"tu": "enfonças",
+			"il/elle": "enfonça",
+			"nous": "enfonçâmes",
+			"vous": "enfonçâtes",
+			"ils/elles": "enfoncèrent"
+		},
+		"passé composé": {
+			"j'": "ai enfoncé",
+			"tu": "as enfoncé",
+			"il/elle": "a enfoncé",
+			"nous": "avons enfoncé",
+			"vous": "avez enfoncé",
+			"ils/elles": "ont enfoncé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais enfoncé",
+			"tu": "avais enfoncé",
+			"il/elle": "avait enfoncé",
+			"nous": "avions enfoncé",
+			"vous": "aviez enfoncé",
+			"ils/elles": "avaient enfoncé"
+		},
+		"passé antérieur": {
+			"j'": "eus enfoncé",
+			"tu": "eus enfoncé",
+			"il/elle": "eut enfoncé",
+			"nous": "eûmes enfoncé",
+			"vous": "eûtes enfoncé",
+			"ils/elles": "eurent enfoncé"
+		},
+		"futur antérieur": {
+			"j'": "aurai enfoncé",
+			"tu": "auras enfoncé",
+			"il/elle": "aura enfoncé",
+			"nous": "aurons enfoncé",
+			"vous": "aurez enfoncé",
+			"ils/elles": "auront enfoncé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "enfonce",
+			"que": "vous enfonciez",
+			"qu'il/elle": "enfonce",
+			"qu'ils/elles": "enfoncent"
+		},
+		"imparfait": {
+			"j'": "enfonçasse",
+			"que": "vous enfonçassiez",
+			"qu'il/elle": "enfonçât",
+			"qu'ils/elles": "enfonçassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse enfoncé",
+			"que": "vous eussiez enfoncé",
+			"qu'il/elle": "eût enfoncé",
+			"qu'ils/elles": "eussent enfoncé"
+		},
+		"passé": {
+			"j'": "aie enfoncé",
+			"que": "vous ayez enfoncé",
+			"qu'il/elle": "ait enfoncé",
+			"qu'ils/elles": "aient enfoncé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "enfoncerais",
+			"tu": "enfoncerais",
+			"il/elle": "enfoncerait",
+			"nous": "enfoncerions",
+			"vous": "enfonceriez",
+			"ils/elles": "enfonceraient"
+		},
+		"passé première forme": {
+			"j'": "aurais enfoncé",
+			"tu": "aurais enfoncé",
+			"il/elle": "aurait enfoncé",
+			"nous": "aurions enfoncé",
+			"vous": "auriez enfoncé",
+			"ils/elles": "auraient enfoncé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse enfoncé",
+			"tu": "eusses enfoncé",
+			"il/elle": "eût enfoncé",
+			"nous": "eussions enfoncé",
+			"vous": "eussiez enfoncé",
+			"ils/elles": "eussent enfoncé"
+		}
+	},
+	"participe": {
+		"présent": { "enfonçant": "" },
+		"passé composé": { "ayant": "enfoncé" },
+		"passé": {
+			"masc.sg.:": "enfoncé",
+			"masc.pl.:": "enfoncés",
+			"fém.sg.:": "enfoncée",
+			"fém.pl.:": "enfoncées"
+		}
+	},
+	"imperatif": {
+		"présent": { "enfonce": "", "enfonçons": "", "enfoncez": "" },
+		"passé": { "aie": "enfoncé", "ayons": "enfoncé", "ayez": "enfoncé" }
+	},
+	"infinitif": {
+		"présent": { "enfoncer": "" },
+		"passé": { "avoir": "enfoncé" }
+	}
+}

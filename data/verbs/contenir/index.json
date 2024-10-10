@@ -1,0 +1,141 @@
+{
+	"name": "tenir",
+	"definition": "contain; hold; include; ...",
+	"model": "tenir",
+	"auxiliary": "avoir",
+	"otherForms": "se contenir/ne pas contenir/ne pas se contenir",
+	"indicatif": {
+		"présent": {
+			"je": "contiens",
+			"tu": "contiens",
+			"il/elle": "contient",
+			"nous": "contenons",
+			"vous": "contenez",
+			"ils/elles": "contiennent"
+		},
+		"imparfait": {
+			"je": "contenais",
+			"tu": "contenais",
+			"il/elle": "contenait",
+			"nous": "contenions",
+			"vous": "conteniez",
+			"ils/elles": "contenaient"
+		},
+		"futur": {
+			"je": "contiendrai",
+			"tu": "contiendras",
+			"il/elle": "contiendra",
+			"nous": "contiendrons",
+			"vous": "contiendrez",
+			"ils/elles": "contiendront"
+		},
+		"passé simple": {
+			"je": "contins",
+			"tu": "contins",
+			"il/elle": "contint",
+			"nous": "contînmes",
+			"vous": "contîntes",
+			"ils/elles": "continrent"
+		},
+		"passé composé": {
+			"j'": "ai contenu",
+			"tu": "as contenu",
+			"il/elle": "a contenu",
+			"nous": "avons contenu",
+			"vous": "avez contenu",
+			"ils/elles": "ont contenu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais contenu",
+			"tu": "avais contenu",
+			"il/elle": "avait contenu",
+			"nous": "avions contenu",
+			"vous": "aviez contenu",
+			"ils/elles": "avaient contenu"
+		},
+		"passé antérieur": {
+			"j'": "eus contenu",
+			"tu": "eus contenu",
+			"il/elle": "eut contenu",
+			"nous": "eûmes contenu",
+			"vous": "eûtes contenu",
+			"ils/elles": "eurent contenu"
+		},
+		"futur antérieur": {
+			"j'": "aurai contenu",
+			"tu": "auras contenu",
+			"il/elle": "aura contenu",
+			"nous": "aurons contenu",
+			"vous": "aurez contenu",
+			"ils/elles": "auront contenu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous conteniez",
+			"qu'il/elle": "contienne",
+			"qu'ils/elles": "contiennent"
+		},
+		"imparfait": {
+			"que": "vous continssiez",
+			"qu'il/elle": "contînt",
+			"qu'ils/elles": "continssent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse contenu",
+			"que": "vous eussiez contenu",
+			"qu'il/elle": "eût contenu",
+			"qu'ils/elles": "eussent contenu"
+		},
+		"passé": {
+			"j'": "aie contenu",
+			"que": "vous ayez contenu",
+			"qu'il/elle": "ait contenu",
+			"qu'ils/elles": "aient contenu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "contiendrais",
+			"tu": "contiendrais",
+			"il/elle": "contiendrait",
+			"nous": "contiendrions",
+			"vous": "contiendriez",
+			"ils/elles": "contiendraient"
+		},
+		"passé première forme": {
+			"j'": "aurais contenu",
+			"tu": "aurais contenu",
+			"il/elle": "aurait contenu",
+			"nous": "aurions contenu",
+			"vous": "auriez contenu",
+			"ils/elles": "auraient contenu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse contenu",
+			"tu": "eusses contenu",
+			"il/elle": "eût contenu",
+			"nous": "eussions contenu",
+			"vous": "eussiez contenu",
+			"ils/elles": "eussent contenu"
+		}
+	},
+	"participe": {
+		"présent": { "contenant": "" },
+		"passé composé": { "ayant": "contenu" },
+		"passé": {
+			"masc.sg.:": "contenu",
+			"masc.pl.:": "contenus",
+			"fém.sg.:": "contenue",
+			"fém.pl.:": "contenues"
+		}
+	},
+	"imperatif": {
+		"présent": { "contiens": "", "contenons": "", "contenez": "" },
+		"passé": { "aie": "contenu", "ayons": "contenu", "ayez": "contenu" }
+	},
+	"infinitif": {
+		"présent": { "contenir": "" },
+		"passé": { "avoir": "contenu" }
+	}
+}

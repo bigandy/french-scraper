@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "suppress; punish; repress; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se réprimer/ne pas réprimer/ne pas se réprimer",
+	"indicatif": {
+		"présent": {
+			"je": "réprime",
+			"tu": "réprimes",
+			"il/elle": "réprime",
+			"nous": "réprimons",
+			"vous": "réprimez",
+			"ils/elles": "répriment"
+		},
+		"imparfait": {
+			"je": "réprimais",
+			"tu": "réprimais",
+			"il/elle": "réprimait",
+			"nous": "réprimions",
+			"vous": "réprimiez",
+			"ils/elles": "réprimaient"
+		},
+		"futur": {
+			"je": "réprimerai",
+			"tu": "réprimeras",
+			"il/elle": "réprimera",
+			"nous": "réprimerons",
+			"vous": "réprimerez",
+			"ils/elles": "réprimeront"
+		},
+		"passé simple": {
+			"je": "réprimai",
+			"tu": "réprimas",
+			"il/elle": "réprima",
+			"nous": "réprimâmes",
+			"vous": "réprimâtes",
+			"ils/elles": "réprimèrent"
+		},
+		"passé composé": {
+			"j'": "ai réprimé",
+			"tu": "as réprimé",
+			"il/elle": "a réprimé",
+			"nous": "avons réprimé",
+			"vous": "avez réprimé",
+			"ils/elles": "ont réprimé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais réprimé",
+			"tu": "avais réprimé",
+			"il/elle": "avait réprimé",
+			"nous": "avions réprimé",
+			"vous": "aviez réprimé",
+			"ils/elles": "avaient réprimé"
+		},
+		"passé antérieur": {
+			"j'": "eus réprimé",
+			"tu": "eus réprimé",
+			"il/elle": "eut réprimé",
+			"nous": "eûmes réprimé",
+			"vous": "eûtes réprimé",
+			"ils/elles": "eurent réprimé"
+		},
+		"futur antérieur": {
+			"j'": "aurai réprimé",
+			"tu": "auras réprimé",
+			"il/elle": "aura réprimé",
+			"nous": "aurons réprimé",
+			"vous": "aurez réprimé",
+			"ils/elles": "auront réprimé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous réprimiez",
+			"qu'il/elle": "réprime",
+			"qu'ils/elles": "répriment"
+		},
+		"imparfait": {
+			"que": "vous réprimassiez",
+			"qu'il/elle": "réprimât",
+			"qu'ils/elles": "réprimassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse réprimé",
+			"que": "vous eussiez réprimé",
+			"qu'il/elle": "eût réprimé",
+			"qu'ils/elles": "eussent réprimé"
+		},
+		"passé": {
+			"j'": "aie réprimé",
+			"que": "vous ayez réprimé",
+			"qu'il/elle": "ait réprimé",
+			"qu'ils/elles": "aient réprimé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "réprimerais",
+			"tu": "réprimerais",
+			"il/elle": "réprimerait",
+			"nous": "réprimerions",
+			"vous": "réprimeriez",
+			"ils/elles": "réprimeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais réprimé",
+			"tu": "aurais réprimé",
+			"il/elle": "aurait réprimé",
+			"nous": "aurions réprimé",
+			"vous": "auriez réprimé",
+			"ils/elles": "auraient réprimé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse réprimé",
+			"tu": "eusses réprimé",
+			"il/elle": "eût réprimé",
+			"nous": "eussions réprimé",
+			"vous": "eussiez réprimé",
+			"ils/elles": "eussent réprimé"
+		}
+	},
+	"participe": {
+		"présent": { "réprimant": "" },
+		"passé composé": { "ayant": "réprimé" },
+		"passé": {
+			"masc.sg.:": "réprimé",
+			"masc.pl.:": "réprimés",
+			"fém.sg.:": "réprimée",
+			"fém.pl.:": "réprimées"
+		}
+	},
+	"imperatif": {
+		"présent": { "réprime": "", "réprimons": "", "réprimez": "" },
+		"passé": { "aie": "réprimé", "ayons": "réprimé", "ayez": "réprimé" }
+	},
+	"infinitif": {
+		"présent": { "réprimer": "" },
+		"passé": { "avoir": "réprimé" }
+	}
+}

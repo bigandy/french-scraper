@@ -1,0 +1,145 @@
+{
+	"name": "marcher",
+	"definition": "recommend; advise; commend; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se recommander/ne pas recommander/ne pas se recommander",
+	"indicatif": {
+		"présent": {
+			"je": "recommande",
+			"tu": "recommandes",
+			"il/elle": "recommande",
+			"nous": "recommandons",
+			"vous": "recommandez",
+			"ils/elles": "recommandent"
+		},
+		"imparfait": {
+			"je": "recommandais",
+			"tu": "recommandais",
+			"il/elle": "recommandait",
+			"nous": "recommandions",
+			"vous": "recommandiez",
+			"ils/elles": "recommandaient"
+		},
+		"futur": {
+			"je": "recommanderai",
+			"tu": "recommanderas",
+			"il/elle": "recommandera",
+			"nous": "recommanderons",
+			"vous": "recommanderez",
+			"ils/elles": "recommanderont"
+		},
+		"passé simple": {
+			"je": "recommandai",
+			"tu": "recommandas",
+			"il/elle": "recommanda",
+			"nous": "recommandâmes",
+			"vous": "recommandâtes",
+			"ils/elles": "recommandèrent"
+		},
+		"passé composé": {
+			"j'": "ai recommandé",
+			"tu": "as recommandé",
+			"il/elle": "a recommandé",
+			"nous": "avons recommandé",
+			"vous": "avez recommandé",
+			"ils/elles": "ont recommandé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais recommandé",
+			"tu": "avais recommandé",
+			"il/elle": "avait recommandé",
+			"nous": "avions recommandé",
+			"vous": "aviez recommandé",
+			"ils/elles": "avaient recommandé"
+		},
+		"passé antérieur": {
+			"j'": "eus recommandé",
+			"tu": "eus recommandé",
+			"il/elle": "eut recommandé",
+			"nous": "eûmes recommandé",
+			"vous": "eûtes recommandé",
+			"ils/elles": "eurent recommandé"
+		},
+		"futur antérieur": {
+			"j'": "aurai recommandé",
+			"tu": "auras recommandé",
+			"il/elle": "aura recommandé",
+			"nous": "aurons recommandé",
+			"vous": "aurez recommandé",
+			"ils/elles": "auront recommandé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous recommandiez",
+			"qu'il/elle": "recommande",
+			"qu'ils/elles": "recommandent"
+		},
+		"imparfait": {
+			"que": "vous recommandassiez",
+			"qu'il/elle": "recommandât",
+			"qu'ils/elles": "recommandassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse recommandé",
+			"que": "vous eussiez recommandé",
+			"qu'il/elle": "eût recommandé",
+			"qu'ils/elles": "eussent recommandé"
+		},
+		"passé": {
+			"j'": "aie recommandé",
+			"que": "vous ayez recommandé",
+			"qu'il/elle": "ait recommandé",
+			"qu'ils/elles": "aient recommandé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "recommanderais",
+			"tu": "recommanderais",
+			"il/elle": "recommanderait",
+			"nous": "recommanderions",
+			"vous": "recommanderiez",
+			"ils/elles": "recommanderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais recommandé",
+			"tu": "aurais recommandé",
+			"il/elle": "aurait recommandé",
+			"nous": "aurions recommandé",
+			"vous": "auriez recommandé",
+			"ils/elles": "auraient recommandé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse recommandé",
+			"tu": "eusses recommandé",
+			"il/elle": "eût recommandé",
+			"nous": "eussions recommandé",
+			"vous": "eussiez recommandé",
+			"ils/elles": "eussent recommandé"
+		}
+	},
+	"participe": {
+		"présent": { "recommandant": "" },
+		"passé composé": { "ayant": "recommandé" },
+		"passé": {
+			"masc.sg.:": "recommandé",
+			"masc.pl.:": "recommandés",
+			"fém.sg.:": "recommandée",
+			"fém.pl.:": "recommandées"
+		}
+	},
+	"imperatif": {
+		"présent": { "recommande": "", "recommandons": "", "recommandez": "" },
+		"passé": {
+			"aie": "recommandé",
+			"ayons": "recommandé",
+			"ayez": "recommandé"
+		}
+	},
+	"infinitif": {
+		"présent": { "recommander": "" },
+		"passé": { "avoir": "recommandé" }
+	}
+}

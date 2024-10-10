@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "contact; call; reach; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se contacter/ne pas contacter/ne pas se contacter",
+	"indicatif": {
+		"présent": {
+			"je": "contacte",
+			"tu": "contactes",
+			"il/elle": "contacte",
+			"nous": "contactons",
+			"vous": "contactez",
+			"ils/elles": "contactent"
+		},
+		"imparfait": {
+			"je": "contactais",
+			"tu": "contactais",
+			"il/elle": "contactait",
+			"nous": "contactions",
+			"vous": "contactiez",
+			"ils/elles": "contactaient"
+		},
+		"futur": {
+			"je": "contacterai",
+			"tu": "contacteras",
+			"il/elle": "contactera",
+			"nous": "contacterons",
+			"vous": "contacterez",
+			"ils/elles": "contacteront"
+		},
+		"passé simple": {
+			"je": "contactai",
+			"tu": "contactas",
+			"il/elle": "contacta",
+			"nous": "contactâmes",
+			"vous": "contactâtes",
+			"ils/elles": "contactèrent"
+		},
+		"passé composé": {
+			"j'": "ai contacté",
+			"tu": "as contacté",
+			"il/elle": "a contacté",
+			"nous": "avons contacté",
+			"vous": "avez contacté",
+			"ils/elles": "ont contacté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais contacté",
+			"tu": "avais contacté",
+			"il/elle": "avait contacté",
+			"nous": "avions contacté",
+			"vous": "aviez contacté",
+			"ils/elles": "avaient contacté"
+		},
+		"passé antérieur": {
+			"j'": "eus contacté",
+			"tu": "eus contacté",
+			"il/elle": "eut contacté",
+			"nous": "eûmes contacté",
+			"vous": "eûtes contacté",
+			"ils/elles": "eurent contacté"
+		},
+		"futur antérieur": {
+			"j'": "aurai contacté",
+			"tu": "auras contacté",
+			"il/elle": "aura contacté",
+			"nous": "aurons contacté",
+			"vous": "aurez contacté",
+			"ils/elles": "auront contacté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous contactiez",
+			"qu'il/elle": "contacte",
+			"qu'ils/elles": "contactent"
+		},
+		"imparfait": {
+			"que": "vous contactassiez",
+			"qu'il/elle": "contactât",
+			"qu'ils/elles": "contactassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse contacté",
+			"que": "vous eussiez contacté",
+			"qu'il/elle": "eût contacté",
+			"qu'ils/elles": "eussent contacté"
+		},
+		"passé": {
+			"j'": "aie contacté",
+			"que": "vous ayez contacté",
+			"qu'il/elle": "ait contacté",
+			"qu'ils/elles": "aient contacté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "contacterais",
+			"tu": "contacterais",
+			"il/elle": "contacterait",
+			"nous": "contacterions",
+			"vous": "contacteriez",
+			"ils/elles": "contacteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais contacté",
+			"tu": "aurais contacté",
+			"il/elle": "aurait contacté",
+			"nous": "aurions contacté",
+			"vous": "auriez contacté",
+			"ils/elles": "auraient contacté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse contacté",
+			"tu": "eusses contacté",
+			"il/elle": "eût contacté",
+			"nous": "eussions contacté",
+			"vous": "eussiez contacté",
+			"ils/elles": "eussent contacté"
+		}
+	},
+	"participe": {
+		"présent": { "contactant": "" },
+		"passé composé": { "ayant": "contacté" },
+		"passé": {
+			"masc.sg.:": "contacté",
+			"masc.pl.:": "contactés",
+			"fém.sg.:": "contactée",
+			"fém.pl.:": "contactées"
+		}
+	},
+	"imperatif": {
+		"présent": { "contacte": "", "contactons": "", "contactez": "" },
+		"passé": { "aie": "contacté", "ayons": "contacté", "ayez": "contacté" }
+	},
+	"infinitif": {
+		"présent": { "contacter": "" },
+		"passé": { "avoir": "contacté" }
+	}
+}

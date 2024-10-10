@@ -1,0 +1,138 @@
+{
+	"name": "finir",
+	"definition": "build; create; construct; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se bâtir/ne pas bâtir/ne pas se bâtir",
+	"indicatif": {
+		"présent": {
+			"je": "bâtis",
+			"tu": "bâtis",
+			"il/elle": "bâtit",
+			"nous": "bâtissons",
+			"vous": "bâtissez",
+			"ils/elles": "bâtissent"
+		},
+		"imparfait": {
+			"je": "bâtissais",
+			"tu": "bâtissais",
+			"il/elle": "bâtissait",
+			"nous": "bâtissions",
+			"vous": "bâtissiez",
+			"ils/elles": "bâtissaient"
+		},
+		"futur": {
+			"je": "bâtirai",
+			"tu": "bâtiras",
+			"il/elle": "bâtira",
+			"nous": "bâtirons",
+			"vous": "bâtirez",
+			"ils/elles": "bâtiront"
+		},
+		"passé simple": {
+			"je": "bâtis",
+			"tu": "bâtis",
+			"il/elle": "bâtit",
+			"nous": "bâtîmes",
+			"vous": "bâtîtes",
+			"ils/elles": "bâtirent"
+		},
+		"passé composé": {
+			"j'": "ai bâti",
+			"tu": "as bâti",
+			"il/elle": "a bâti",
+			"nous": "avons bâti",
+			"vous": "avez bâti",
+			"ils/elles": "ont bâti"
+		},
+		"plus-que-parfait": {
+			"j'": "avais bâti",
+			"tu": "avais bâti",
+			"il/elle": "avait bâti",
+			"nous": "avions bâti",
+			"vous": "aviez bâti",
+			"ils/elles": "avaient bâti"
+		},
+		"passé antérieur": {
+			"j'": "eus bâti",
+			"tu": "eus bâti",
+			"il/elle": "eut bâti",
+			"nous": "eûmes bâti",
+			"vous": "eûtes bâti",
+			"ils/elles": "eurent bâti"
+		},
+		"futur antérieur": {
+			"j'": "aurai bâti",
+			"tu": "auras bâti",
+			"il/elle": "aura bâti",
+			"nous": "aurons bâti",
+			"vous": "aurez bâti",
+			"ils/elles": "auront bâti"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous bâtissiez",
+			"qu'il/elle": "bâtisse",
+			"qu'ils/elles": "bâtissent"
+		},
+		"imparfait": {
+			"que": "vous bâtissiez",
+			"qu'il/elle": "bâtît",
+			"qu'ils/elles": "bâtissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse bâti",
+			"que": "vous eussiez bâti",
+			"qu'il/elle": "eût bâti",
+			"qu'ils/elles": "eussent bâti"
+		},
+		"passé": {
+			"j'": "aie bâti",
+			"que": "vous ayez bâti",
+			"qu'il/elle": "ait bâti",
+			"qu'ils/elles": "aient bâti"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "bâtirais",
+			"tu": "bâtirais",
+			"il/elle": "bâtirait",
+			"nous": "bâtirions",
+			"vous": "bâtiriez",
+			"ils/elles": "bâtiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais bâti",
+			"tu": "aurais bâti",
+			"il/elle": "aurait bâti",
+			"nous": "aurions bâti",
+			"vous": "auriez bâti",
+			"ils/elles": "auraient bâti"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse bâti",
+			"tu": "eusses bâti",
+			"il/elle": "eût bâti",
+			"nous": "eussions bâti",
+			"vous": "eussiez bâti",
+			"ils/elles": "eussent bâti"
+		}
+	},
+	"participe": {
+		"présent": { "bâtissant": "" },
+		"passé composé": { "ayant": "bâti" },
+		"passé": {
+			"masc.sg.:": "bâti",
+			"masc.pl.:": "bâtis",
+			"fém.sg.:": "bâtie",
+			"fém.pl.:": "bâties"
+		}
+	},
+	"imperatif": {
+		"présent": { "bâtis": "", "bâtissons": "", "bâtissez": "" },
+		"passé": { "aie": "bâti", "ayons": "bâti", "ayez": "bâti" }
+	},
+	"infinitif": { "présent": { "bâtir": "" }, "passé": { "avoir": "bâti" } }
+}

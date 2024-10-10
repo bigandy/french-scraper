@@ -1,0 +1,138 @@
+{
+	"name": "manger",
+	"definition": "manage; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "se manager/ne pas manager/ne pas se manager",
+	"indicatif": {
+		"présent": {
+			"je": "manage",
+			"tu": "manages",
+			"il/elle": "manage",
+			"nous": "manageons",
+			"vous": "managez",
+			"ils/elles": "managent"
+		},
+		"imparfait": {
+			"je": "manageais",
+			"tu": "manageais",
+			"il/elle": "manageait",
+			"nous": "managions",
+			"vous": "managiez",
+			"ils/elles": "manageaient"
+		},
+		"futur": {
+			"je": "managerai",
+			"tu": "manageras",
+			"il/elle": "managera",
+			"nous": "managerons",
+			"vous": "managerez",
+			"ils/elles": "manageront"
+		},
+		"passé simple": {
+			"je": "manageai",
+			"tu": "manageas",
+			"il/elle": "managea",
+			"nous": "manageâmes",
+			"vous": "manageâtes",
+			"ils/elles": "managèrent"
+		},
+		"passé composé": {
+			"j'": "ai managé",
+			"tu": "as managé",
+			"il/elle": "a managé",
+			"nous": "avons managé",
+			"vous": "avez managé",
+			"ils/elles": "ont managé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais managé",
+			"tu": "avais managé",
+			"il/elle": "avait managé",
+			"nous": "avions managé",
+			"vous": "aviez managé",
+			"ils/elles": "avaient managé"
+		},
+		"passé antérieur": {
+			"j'": "eus managé",
+			"tu": "eus managé",
+			"il/elle": "eut managé",
+			"nous": "eûmes managé",
+			"vous": "eûtes managé",
+			"ils/elles": "eurent managé"
+		},
+		"futur antérieur": {
+			"j'": "aurai managé",
+			"tu": "auras managé",
+			"il/elle": "aura managé",
+			"nous": "aurons managé",
+			"vous": "aurez managé",
+			"ils/elles": "auront managé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous managiez",
+			"qu'il/elle": "manage",
+			"qu'ils/elles": "managent"
+		},
+		"imparfait": {
+			"que": "vous manageassiez",
+			"qu'il/elle": "manageât",
+			"qu'ils/elles": "manageassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse managé",
+			"que": "vous eussiez managé",
+			"qu'il/elle": "eût managé",
+			"qu'ils/elles": "eussent managé"
+		},
+		"passé": {
+			"j'": "aie managé",
+			"que": "vous ayez managé",
+			"qu'il/elle": "ait managé",
+			"qu'ils/elles": "aient managé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "managerais",
+			"tu": "managerais",
+			"il/elle": "managerait",
+			"nous": "managerions",
+			"vous": "manageriez",
+			"ils/elles": "manageraient"
+		},
+		"passé première forme": {
+			"j'": "aurais managé",
+			"tu": "aurais managé",
+			"il/elle": "aurait managé",
+			"nous": "aurions managé",
+			"vous": "auriez managé",
+			"ils/elles": "auraient managé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse managé",
+			"tu": "eusses managé",
+			"il/elle": "eût managé",
+			"nous": "eussions managé",
+			"vous": "eussiez managé",
+			"ils/elles": "eussent managé"
+		}
+	},
+	"participe": {
+		"présent": { "manageant": "" },
+		"passé composé": { "ayant": "managé" },
+		"passé": {
+			"masc.sg.:": "managé",
+			"masc.pl.:": "managés",
+			"fém.sg.:": "managée",
+			"fém.pl.:": "managées"
+		}
+	},
+	"imperatif": {
+		"présent": { "manage": "", "manageons": "", "managez": "" },
+		"passé": { "aie": "managé", "ayons": "managé", "ayez": "managé" }
+	},
+	"infinitif": { "présent": { "manager": "" }, "passé": { "avoir": "managé" } }
+}

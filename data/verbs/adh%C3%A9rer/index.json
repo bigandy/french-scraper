@@ -1,0 +1,140 @@
+{
+	"name": "aérer",
+	"definition": "join; adhere; accede; ...",
+	"model": "aérer",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas adhérer",
+	"indicatif": {
+		"présent": {
+			"j'": "adhère",
+			"tu": "adhères",
+			"il/elle": "adhère",
+			"nous": "adhérons",
+			"vous": "adhérez",
+			"ils/elles": "adhèrent"
+		},
+		"imparfait": {
+			"j'": "adhérais",
+			"tu": "adhérais",
+			"il/elle": "adhérait",
+			"nous": "adhérions",
+			"vous": "adhériez",
+			"ils/elles": "adhéraient"
+		},
+		"futur": {
+			"j'": "adhérerai",
+			"tu": "adhéreras",
+			"il/elle": "adhérera",
+			"nous": "adhérerons",
+			"vous": "adhérerez",
+			"ils/elles": "adhéreront"
+		},
+		"passé simple": {
+			"j'": "adhérai",
+			"tu": "adhéras",
+			"il/elle": "adhéra",
+			"nous": "adhérâmes",
+			"vous": "adhérâtes",
+			"ils/elles": "adhérèrent"
+		},
+		"passé composé": {
+			"j'": "ai adhéré",
+			"tu": "as adhéré",
+			"il/elle": "a adhéré",
+			"nous": "avons adhéré",
+			"vous": "avez adhéré",
+			"ils/elles": "ont adhéré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais adhéré",
+			"tu": "avais adhéré",
+			"il/elle": "avait adhéré",
+			"nous": "avions adhéré",
+			"vous": "aviez adhéré",
+			"ils/elles": "avaient adhéré"
+		},
+		"passé antérieur": {
+			"j'": "eus adhéré",
+			"tu": "eus adhéré",
+			"il/elle": "eut adhéré",
+			"nous": "eûmes adhéré",
+			"vous": "eûtes adhéré",
+			"ils/elles": "eurent adhéré"
+		},
+		"futur antérieur": {
+			"j'": "aurai adhéré",
+			"tu": "auras adhéré",
+			"il/elle": "aura adhéré",
+			"nous": "aurons adhéré",
+			"vous": "aurez adhéré",
+			"ils/elles": "auront adhéré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "adhère",
+			"que": "vous adhériez",
+			"qu'il/elle": "adhère",
+			"qu'ils/elles": "adhèrent"
+		},
+		"imparfait": {
+			"j'": "adhérasse",
+			"que": "vous adhérassiez",
+			"qu'il/elle": "adhérât",
+			"qu'ils/elles": "adhérassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse adhéré",
+			"que": "vous eussiez adhéré",
+			"qu'il/elle": "eût adhéré",
+			"qu'ils/elles": "eussent adhéré"
+		},
+		"passé": {
+			"j'": "aie adhéré",
+			"que": "vous ayez adhéré",
+			"qu'il/elle": "ait adhéré",
+			"qu'ils/elles": "aient adhéré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "adhérerais",
+			"tu": "adhérerais",
+			"il/elle": "adhérerait",
+			"nous": "adhérerions",
+			"vous": "adhéreriez",
+			"ils/elles": "adhéreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais adhéré",
+			"tu": "aurais adhéré",
+			"il/elle": "aurait adhéré",
+			"nous": "aurions adhéré",
+			"vous": "auriez adhéré",
+			"ils/elles": "auraient adhéré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse adhéré",
+			"tu": "eusses adhéré",
+			"il/elle": "eût adhéré",
+			"nous": "eussions adhéré",
+			"vous": "eussiez adhéré",
+			"ils/elles": "eussent adhéré"
+		}
+	},
+	"participe": {
+		"présent": { "adhérant": "" },
+		"passé composé": { "ayant": "adhéré" },
+		"passé": {
+			"masc.sg.:": "adhéré",
+			"masc.pl.:": "adhérés",
+			"fém.sg.:": "adhérée",
+			"fém.pl.:": "adhérées"
+		}
+	},
+	"imperatif": {
+		"présent": { "adhère": "", "adhérons": "", "adhérez": "" },
+		"passé": { "aie": "adhéré", "ayons": "adhéré", "ayez": "adhéré" }
+	},
+	"infinitif": { "présent": { "adhérer": "" }, "passé": { "avoir": "adhéré" } }
+}

@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "fish; catch; go fishing; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se pêcher/ne pas pêcher/ne pas se pêcher",
+	"indicatif": {
+		"présent": {
+			"je": "pêche",
+			"tu": "pêches",
+			"il/elle": "pêche",
+			"nous": "pêchons",
+			"vous": "pêchez",
+			"ils/elles": "pêchent"
+		},
+		"imparfait": {
+			"je": "pêchais",
+			"tu": "pêchais",
+			"il/elle": "pêchait",
+			"nous": "pêchions",
+			"vous": "pêchiez",
+			"ils/elles": "pêchaient"
+		},
+		"futur": {
+			"je": "pêcherai",
+			"tu": "pêcheras",
+			"il/elle": "pêchera",
+			"nous": "pêcherons",
+			"vous": "pêcherez",
+			"ils/elles": "pêcheront"
+		},
+		"passé simple": {
+			"je": "pêchai",
+			"tu": "pêchas",
+			"il/elle": "pêcha",
+			"nous": "pêchâmes",
+			"vous": "pêchâtes",
+			"ils/elles": "pêchèrent"
+		},
+		"passé composé": {
+			"j'": "ai pêché",
+			"tu": "as pêché",
+			"il/elle": "a pêché",
+			"nous": "avons pêché",
+			"vous": "avez pêché",
+			"ils/elles": "ont pêché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais pêché",
+			"tu": "avais pêché",
+			"il/elle": "avait pêché",
+			"nous": "avions pêché",
+			"vous": "aviez pêché",
+			"ils/elles": "avaient pêché"
+		},
+		"passé antérieur": {
+			"j'": "eus pêché",
+			"tu": "eus pêché",
+			"il/elle": "eut pêché",
+			"nous": "eûmes pêché",
+			"vous": "eûtes pêché",
+			"ils/elles": "eurent pêché"
+		},
+		"futur antérieur": {
+			"j'": "aurai pêché",
+			"tu": "auras pêché",
+			"il/elle": "aura pêché",
+			"nous": "aurons pêché",
+			"vous": "aurez pêché",
+			"ils/elles": "auront pêché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous pêchiez",
+			"qu'il/elle": "pêche",
+			"qu'ils/elles": "pêchent"
+		},
+		"imparfait": {
+			"que": "vous pêchassiez",
+			"qu'il/elle": "pêchât",
+			"qu'ils/elles": "pêchassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse pêché",
+			"que": "vous eussiez pêché",
+			"qu'il/elle": "eût pêché",
+			"qu'ils/elles": "eussent pêché"
+		},
+		"passé": {
+			"j'": "aie pêché",
+			"que": "vous ayez pêché",
+			"qu'il/elle": "ait pêché",
+			"qu'ils/elles": "aient pêché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "pêcherais",
+			"tu": "pêcherais",
+			"il/elle": "pêcherait",
+			"nous": "pêcherions",
+			"vous": "pêcheriez",
+			"ils/elles": "pêcheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais pêché",
+			"tu": "aurais pêché",
+			"il/elle": "aurait pêché",
+			"nous": "aurions pêché",
+			"vous": "auriez pêché",
+			"ils/elles": "auraient pêché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse pêché",
+			"tu": "eusses pêché",
+			"il/elle": "eût pêché",
+			"nous": "eussions pêché",
+			"vous": "eussiez pêché",
+			"ils/elles": "eussent pêché"
+		}
+	},
+	"participe": {
+		"présent": { "pêchant": "" },
+		"passé composé": { "ayant": "pêché" },
+		"passé": {
+			"masc.sg.:": "pêché",
+			"masc.pl.:": "pêchés",
+			"fém.sg.:": "pêchée",
+			"fém.pl.:": "pêchées"
+		}
+	},
+	"imperatif": {
+		"présent": { "pêche": "", "pêchons": "", "pêchez": "" },
+		"passé": { "aie": "pêché", "ayons": "pêché", "ayez": "pêché" }
+	},
+	"infinitif": { "présent": { "pêcher": "" }, "passé": { "avoir": "pêché" } }
+}

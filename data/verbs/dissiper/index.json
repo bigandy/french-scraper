@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "dissipate; dispel; allay; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se dissiper/ne pas dissiper/ne pas se dissiper",
+	"indicatif": {
+		"présent": {
+			"je": "dissipe",
+			"tu": "dissipes",
+			"il/elle": "dissipe",
+			"nous": "dissipons",
+			"vous": "dissipez",
+			"ils/elles": "dissipent"
+		},
+		"imparfait": {
+			"je": "dissipais",
+			"tu": "dissipais",
+			"il/elle": "dissipait",
+			"nous": "dissipions",
+			"vous": "dissipiez",
+			"ils/elles": "dissipaient"
+		},
+		"futur": {
+			"je": "dissiperai",
+			"tu": "dissiperas",
+			"il/elle": "dissipera",
+			"nous": "dissiperons",
+			"vous": "dissiperez",
+			"ils/elles": "dissiperont"
+		},
+		"passé simple": {
+			"je": "dissipai",
+			"tu": "dissipas",
+			"il/elle": "dissipa",
+			"nous": "dissipâmes",
+			"vous": "dissipâtes",
+			"ils/elles": "dissipèrent"
+		},
+		"passé composé": {
+			"j'": "ai dissipé",
+			"tu": "as dissipé",
+			"il/elle": "a dissipé",
+			"nous": "avons dissipé",
+			"vous": "avez dissipé",
+			"ils/elles": "ont dissipé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais dissipé",
+			"tu": "avais dissipé",
+			"il/elle": "avait dissipé",
+			"nous": "avions dissipé",
+			"vous": "aviez dissipé",
+			"ils/elles": "avaient dissipé"
+		},
+		"passé antérieur": {
+			"j'": "eus dissipé",
+			"tu": "eus dissipé",
+			"il/elle": "eut dissipé",
+			"nous": "eûmes dissipé",
+			"vous": "eûtes dissipé",
+			"ils/elles": "eurent dissipé"
+		},
+		"futur antérieur": {
+			"j'": "aurai dissipé",
+			"tu": "auras dissipé",
+			"il/elle": "aura dissipé",
+			"nous": "aurons dissipé",
+			"vous": "aurez dissipé",
+			"ils/elles": "auront dissipé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous dissipiez",
+			"qu'il/elle": "dissipe",
+			"qu'ils/elles": "dissipent"
+		},
+		"imparfait": {
+			"que": "vous dissipassiez",
+			"qu'il/elle": "dissipât",
+			"qu'ils/elles": "dissipassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse dissipé",
+			"que": "vous eussiez dissipé",
+			"qu'il/elle": "eût dissipé",
+			"qu'ils/elles": "eussent dissipé"
+		},
+		"passé": {
+			"j'": "aie dissipé",
+			"que": "vous ayez dissipé",
+			"qu'il/elle": "ait dissipé",
+			"qu'ils/elles": "aient dissipé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "dissiperais",
+			"tu": "dissiperais",
+			"il/elle": "dissiperait",
+			"nous": "dissiperions",
+			"vous": "dissiperiez",
+			"ils/elles": "dissiperaient"
+		},
+		"passé première forme": {
+			"j'": "aurais dissipé",
+			"tu": "aurais dissipé",
+			"il/elle": "aurait dissipé",
+			"nous": "aurions dissipé",
+			"vous": "auriez dissipé",
+			"ils/elles": "auraient dissipé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse dissipé",
+			"tu": "eusses dissipé",
+			"il/elle": "eût dissipé",
+			"nous": "eussions dissipé",
+			"vous": "eussiez dissipé",
+			"ils/elles": "eussent dissipé"
+		}
+	},
+	"participe": {
+		"présent": { "dissipant": "" },
+		"passé composé": { "ayant": "dissipé" },
+		"passé": {
+			"masc.sg.:": "dissipé",
+			"masc.pl.:": "dissipés",
+			"fém.sg.:": "dissipée",
+			"fém.pl.:": "dissipées"
+		}
+	},
+	"imperatif": {
+		"présent": { "dissipe": "", "dissipons": "", "dissipez": "" },
+		"passé": { "aie": "dissipé", "ayons": "dissipé", "ayez": "dissipé" }
+	},
+	"infinitif": {
+		"présent": { "dissiper": "" },
+		"passé": { "avoir": "dissipé" }
+	}
+}

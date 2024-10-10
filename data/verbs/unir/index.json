@@ -1,0 +1,140 @@
+{
+	"name": "finir",
+	"definition": "unite; join; work together; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "s'unir/ne pas unir/ne pas s'unir",
+	"indicatif": {
+		"présent": {
+			"j'": "unis",
+			"tu": "unis",
+			"il/elle": "unit",
+			"nous": "unissons",
+			"vous": "unissez",
+			"ils/elles": "unissent"
+		},
+		"imparfait": {
+			"j'": "unissais",
+			"tu": "unissais",
+			"il/elle": "unissait",
+			"nous": "unissions",
+			"vous": "unissiez",
+			"ils/elles": "unissaient"
+		},
+		"futur": {
+			"j'": "unirai",
+			"tu": "uniras",
+			"il/elle": "unira",
+			"nous": "unirons",
+			"vous": "unirez",
+			"ils/elles": "uniront"
+		},
+		"passé simple": {
+			"j'": "unis",
+			"tu": "unis",
+			"il/elle": "unit",
+			"nous": "unîmes",
+			"vous": "unîtes",
+			"ils/elles": "unirent"
+		},
+		"passé composé": {
+			"j'": "ai uni",
+			"tu": "as uni",
+			"il/elle": "a uni",
+			"nous": "avons uni",
+			"vous": "avez uni",
+			"ils/elles": "ont uni"
+		},
+		"plus-que-parfait": {
+			"j'": "avais uni",
+			"tu": "avais uni",
+			"il/elle": "avait uni",
+			"nous": "avions uni",
+			"vous": "aviez uni",
+			"ils/elles": "avaient uni"
+		},
+		"passé antérieur": {
+			"j'": "eus uni",
+			"tu": "eus uni",
+			"il/elle": "eut uni",
+			"nous": "eûmes uni",
+			"vous": "eûtes uni",
+			"ils/elles": "eurent uni"
+		},
+		"futur antérieur": {
+			"j'": "aurai uni",
+			"tu": "auras uni",
+			"il/elle": "aura uni",
+			"nous": "aurons uni",
+			"vous": "aurez uni",
+			"ils/elles": "auront uni"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "unisse",
+			"que": "vous unissiez",
+			"qu'il/elle": "unisse",
+			"qu'ils/elles": "unissent"
+		},
+		"imparfait": {
+			"j'": "unisse",
+			"que": "vous unissiez",
+			"qu'il/elle": "unît",
+			"qu'ils/elles": "unissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse uni",
+			"que": "vous eussiez uni",
+			"qu'il/elle": "eût uni",
+			"qu'ils/elles": "eussent uni"
+		},
+		"passé": {
+			"j'": "aie uni",
+			"que": "vous ayez uni",
+			"qu'il/elle": "ait uni",
+			"qu'ils/elles": "aient uni"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "unirais",
+			"tu": "unirais",
+			"il/elle": "unirait",
+			"nous": "unirions",
+			"vous": "uniriez",
+			"ils/elles": "uniraient"
+		},
+		"passé première forme": {
+			"j'": "aurais uni",
+			"tu": "aurais uni",
+			"il/elle": "aurait uni",
+			"nous": "aurions uni",
+			"vous": "auriez uni",
+			"ils/elles": "auraient uni"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse uni",
+			"tu": "eusses uni",
+			"il/elle": "eût uni",
+			"nous": "eussions uni",
+			"vous": "eussiez uni",
+			"ils/elles": "eussent uni"
+		}
+	},
+	"participe": {
+		"présent": { "unissant": "" },
+		"passé composé": { "ayant": "uni" },
+		"passé": {
+			"masc.sg.:": "uni",
+			"masc.pl.:": "unis",
+			"fém.sg.:": "unie",
+			"fém.pl.:": "unies"
+		}
+	},
+	"imperatif": {
+		"présent": { "unis": "", "unissons": "", "unissez": "" },
+		"passé": { "aie": "uni", "ayons": "uni", "ayez": "uni" }
+	},
+	"infinitif": { "présent": { "unir": "" }, "passé": { "avoir": "uni" } }
+}

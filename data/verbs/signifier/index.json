@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "mean; serve; signify; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se signifier/ne pas signifier/ne pas se signifier",
+	"indicatif": {
+		"présent": {
+			"je": "signifie",
+			"tu": "signifies",
+			"il/elle": "signifie",
+			"nous": "signifions",
+			"vous": "signifiez",
+			"ils/elles": "signifient"
+		},
+		"imparfait": {
+			"je": "signifiais",
+			"tu": "signifiais",
+			"il/elle": "signifiait",
+			"nous": "signifiions",
+			"vous": "signifiiez",
+			"ils/elles": "signifiaient"
+		},
+		"futur": {
+			"je": "signifierai",
+			"tu": "signifieras",
+			"il/elle": "signifiera",
+			"nous": "signifierons",
+			"vous": "signifierez",
+			"ils/elles": "signifieront"
+		},
+		"passé simple": {
+			"je": "signifiai",
+			"tu": "signifias",
+			"il/elle": "signifia",
+			"nous": "signifiâmes",
+			"vous": "signifiâtes",
+			"ils/elles": "signifièrent"
+		},
+		"passé composé": {
+			"j'": "ai signifié",
+			"tu": "as signifié",
+			"il/elle": "a signifié",
+			"nous": "avons signifié",
+			"vous": "avez signifié",
+			"ils/elles": "ont signifié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais signifié",
+			"tu": "avais signifié",
+			"il/elle": "avait signifié",
+			"nous": "avions signifié",
+			"vous": "aviez signifié",
+			"ils/elles": "avaient signifié"
+		},
+		"passé antérieur": {
+			"j'": "eus signifié",
+			"tu": "eus signifié",
+			"il/elle": "eut signifié",
+			"nous": "eûmes signifié",
+			"vous": "eûtes signifié",
+			"ils/elles": "eurent signifié"
+		},
+		"futur antérieur": {
+			"j'": "aurai signifié",
+			"tu": "auras signifié",
+			"il/elle": "aura signifié",
+			"nous": "aurons signifié",
+			"vous": "aurez signifié",
+			"ils/elles": "auront signifié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous signifiiez",
+			"qu'il/elle": "signifie",
+			"qu'ils/elles": "signifient"
+		},
+		"imparfait": {
+			"que": "vous signifiassiez",
+			"qu'il/elle": "signifiât",
+			"qu'ils/elles": "signifiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse signifié",
+			"que": "vous eussiez signifié",
+			"qu'il/elle": "eût signifié",
+			"qu'ils/elles": "eussent signifié"
+		},
+		"passé": {
+			"j'": "aie signifié",
+			"que": "vous ayez signifié",
+			"qu'il/elle": "ait signifié",
+			"qu'ils/elles": "aient signifié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "signifierais",
+			"tu": "signifierais",
+			"il/elle": "signifierait",
+			"nous": "signifierions",
+			"vous": "signifieriez",
+			"ils/elles": "signifieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais signifié",
+			"tu": "aurais signifié",
+			"il/elle": "aurait signifié",
+			"nous": "aurions signifié",
+			"vous": "auriez signifié",
+			"ils/elles": "auraient signifié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse signifié",
+			"tu": "eusses signifié",
+			"il/elle": "eût signifié",
+			"nous": "eussions signifié",
+			"vous": "eussiez signifié",
+			"ils/elles": "eussent signifié"
+		}
+	},
+	"participe": {
+		"présent": { "signifiant": "" },
+		"passé composé": { "ayant": "signifié" },
+		"passé": {
+			"masc.sg.:": "signifié",
+			"masc.pl.:": "signifiés",
+			"fém.sg.:": "signifiée",
+			"fém.pl.:": "signifiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "signifie": "", "signifions": "", "signifiez": "" },
+		"passé": { "aie": "signifié", "ayons": "signifié", "ayez": "signifié" }
+	},
+	"infinitif": {
+		"présent": { "signifier": "" },
+		"passé": { "avoir": "signifié" }
+	}
+}

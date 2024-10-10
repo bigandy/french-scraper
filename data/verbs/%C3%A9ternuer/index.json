@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "sneeze; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas éternuer",
+	"indicatif": {
+		"présent": {
+			"j'": "éternue",
+			"tu": "éternues",
+			"il/elle": "éternue",
+			"nous": "éternuons",
+			"vous": "éternuez",
+			"ils/elles": "éternuent"
+		},
+		"imparfait": {
+			"j'": "éternuais",
+			"tu": "éternuais",
+			"il/elle": "éternuait",
+			"nous": "éternuions",
+			"vous": "éternuiez",
+			"ils/elles": "éternuaient"
+		},
+		"futur": {
+			"j'": "éternuerai",
+			"tu": "éternueras",
+			"il/elle": "éternuera",
+			"nous": "éternuerons",
+			"vous": "éternuerez",
+			"ils/elles": "éternueront"
+		},
+		"passé simple": {
+			"j'": "éternuai",
+			"tu": "éternuas",
+			"il/elle": "éternua",
+			"nous": "éternuâmes",
+			"vous": "éternuâtes",
+			"ils/elles": "éternuèrent"
+		},
+		"passé composé": {
+			"j'": "ai éternué",
+			"tu": "as éternué",
+			"il/elle": "a éternué",
+			"nous": "avons éternué",
+			"vous": "avez éternué",
+			"ils/elles": "ont éternué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais éternué",
+			"tu": "avais éternué",
+			"il/elle": "avait éternué",
+			"nous": "avions éternué",
+			"vous": "aviez éternué",
+			"ils/elles": "avaient éternué"
+		},
+		"passé antérieur": {
+			"j'": "eus éternué",
+			"tu": "eus éternué",
+			"il/elle": "eut éternué",
+			"nous": "eûmes éternué",
+			"vous": "eûtes éternué",
+			"ils/elles": "eurent éternué"
+		},
+		"futur antérieur": {
+			"j'": "aurai éternué",
+			"tu": "auras éternué",
+			"il/elle": "aura éternué",
+			"nous": "aurons éternué",
+			"vous": "aurez éternué",
+			"ils/elles": "auront éternué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "éternue",
+			"que": "vous éternuiez",
+			"qu'il/elle": "éternue",
+			"qu'ils/elles": "éternuent"
+		},
+		"imparfait": {
+			"j'": "éternuasse",
+			"que": "vous éternuassiez",
+			"qu'il/elle": "éternuât",
+			"qu'ils/elles": "éternuassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse éternué",
+			"que": "vous eussiez éternué",
+			"qu'il/elle": "eût éternué",
+			"qu'ils/elles": "eussent éternué"
+		},
+		"passé": {
+			"j'": "aie éternué",
+			"que": "vous ayez éternué",
+			"qu'il/elle": "ait éternué",
+			"qu'ils/elles": "aient éternué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "éternuerais",
+			"tu": "éternuerais",
+			"il/elle": "éternuerait",
+			"nous": "éternuerions",
+			"vous": "éternueriez",
+			"ils/elles": "éternueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais éternué",
+			"tu": "aurais éternué",
+			"il/elle": "aurait éternué",
+			"nous": "aurions éternué",
+			"vous": "auriez éternué",
+			"ils/elles": "auraient éternué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse éternué",
+			"tu": "eusses éternué",
+			"il/elle": "eût éternué",
+			"nous": "eussions éternué",
+			"vous": "eussiez éternué",
+			"ils/elles": "eussent éternué"
+		}
+	},
+	"participe": {
+		"présent": { "éternuant": "" },
+		"passé composé": { "ayant": "éternué" },
+		"passé": {
+			"masc.sg.:": "éternué",
+			"masc.pl.:": "éternués",
+			"fém.sg.:": "éternuée",
+			"fém.pl.:": "éternuées"
+		}
+	},
+	"imperatif": {
+		"présent": { "éternue": "", "éternuons": "", "éternuez": "" },
+		"passé": { "aie": "éternué", "ayons": "éternué", "ayez": "éternué" }
+	},
+	"infinitif": {
+		"présent": { "éternuer": "" },
+		"passé": { "avoir": "éternué" }
+	}
+}

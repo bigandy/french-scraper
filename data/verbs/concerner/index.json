@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "concern; relate; involve; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se concerner/ne pas concerner/ne pas se concerner",
+	"indicatif": {
+		"présent": {
+			"je": "concerne",
+			"tu": "concernes",
+			"il/elle": "concerne",
+			"nous": "concernons",
+			"vous": "concernez",
+			"ils/elles": "concernent"
+		},
+		"imparfait": {
+			"je": "concernais",
+			"tu": "concernais",
+			"il/elle": "concernait",
+			"nous": "concernions",
+			"vous": "concerniez",
+			"ils/elles": "concernaient"
+		},
+		"futur": {
+			"je": "concernerai",
+			"tu": "concerneras",
+			"il/elle": "concernera",
+			"nous": "concernerons",
+			"vous": "concernerez",
+			"ils/elles": "concerneront"
+		},
+		"passé simple": {
+			"je": "concernai",
+			"tu": "concernas",
+			"il/elle": "concerna",
+			"nous": "concernâmes",
+			"vous": "concernâtes",
+			"ils/elles": "concernèrent"
+		},
+		"passé composé": {
+			"j'": "ai concerné",
+			"tu": "as concerné",
+			"il/elle": "a concerné",
+			"nous": "avons concerné",
+			"vous": "avez concerné",
+			"ils/elles": "ont concerné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais concerné",
+			"tu": "avais concerné",
+			"il/elle": "avait concerné",
+			"nous": "avions concerné",
+			"vous": "aviez concerné",
+			"ils/elles": "avaient concerné"
+		},
+		"passé antérieur": {
+			"j'": "eus concerné",
+			"tu": "eus concerné",
+			"il/elle": "eut concerné",
+			"nous": "eûmes concerné",
+			"vous": "eûtes concerné",
+			"ils/elles": "eurent concerné"
+		},
+		"futur antérieur": {
+			"j'": "aurai concerné",
+			"tu": "auras concerné",
+			"il/elle": "aura concerné",
+			"nous": "aurons concerné",
+			"vous": "aurez concerné",
+			"ils/elles": "auront concerné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous concerniez",
+			"qu'il/elle": "concerne",
+			"qu'ils/elles": "concernent"
+		},
+		"imparfait": {
+			"que": "vous concernassiez",
+			"qu'il/elle": "concernât",
+			"qu'ils/elles": "concernassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse concerné",
+			"que": "vous eussiez concerné",
+			"qu'il/elle": "eût concerné",
+			"qu'ils/elles": "eussent concerné"
+		},
+		"passé": {
+			"j'": "aie concerné",
+			"que": "vous ayez concerné",
+			"qu'il/elle": "ait concerné",
+			"qu'ils/elles": "aient concerné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "concernerais",
+			"tu": "concernerais",
+			"il/elle": "concernerait",
+			"nous": "concernerions",
+			"vous": "concerneriez",
+			"ils/elles": "concerneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais concerné",
+			"tu": "aurais concerné",
+			"il/elle": "aurait concerné",
+			"nous": "aurions concerné",
+			"vous": "auriez concerné",
+			"ils/elles": "auraient concerné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse concerné",
+			"tu": "eusses concerné",
+			"il/elle": "eût concerné",
+			"nous": "eussions concerné",
+			"vous": "eussiez concerné",
+			"ils/elles": "eussent concerné"
+		}
+	},
+	"participe": {
+		"présent": { "concernant": "" },
+		"passé composé": { "ayant": "concerné" },
+		"passé": {
+			"masc.sg.:": "concerné",
+			"masc.pl.:": "concernés",
+			"fém.sg.:": "concernée",
+			"fém.pl.:": "concernées"
+		}
+	},
+	"imperatif": {
+		"présent": { "concerne": "", "concernons": "", "concernez": "" },
+		"passé": { "aie": "concerné", "ayons": "concerné", "ayez": "concerné" }
+	},
+	"infinitif": {
+		"présent": { "concerner": "" },
+		"passé": { "avoir": "concerné" }
+	}
+}

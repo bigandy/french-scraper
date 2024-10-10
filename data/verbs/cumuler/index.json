@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "accumulate; combine; cumulate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se cumuler/ne pas cumuler/ne pas se cumuler",
+	"indicatif": {
+		"présent": {
+			"je": "cumule",
+			"tu": "cumules",
+			"il/elle": "cumule",
+			"nous": "cumulons",
+			"vous": "cumulez",
+			"ils/elles": "cumulent"
+		},
+		"imparfait": {
+			"je": "cumulais",
+			"tu": "cumulais",
+			"il/elle": "cumulait",
+			"nous": "cumulions",
+			"vous": "cumuliez",
+			"ils/elles": "cumulaient"
+		},
+		"futur": {
+			"je": "cumulerai",
+			"tu": "cumuleras",
+			"il/elle": "cumulera",
+			"nous": "cumulerons",
+			"vous": "cumulerez",
+			"ils/elles": "cumuleront"
+		},
+		"passé simple": {
+			"je": "cumulai",
+			"tu": "cumulas",
+			"il/elle": "cumula",
+			"nous": "cumulâmes",
+			"vous": "cumulâtes",
+			"ils/elles": "cumulèrent"
+		},
+		"passé composé": {
+			"j'": "ai cumulé",
+			"tu": "as cumulé",
+			"il/elle": "a cumulé",
+			"nous": "avons cumulé",
+			"vous": "avez cumulé",
+			"ils/elles": "ont cumulé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais cumulé",
+			"tu": "avais cumulé",
+			"il/elle": "avait cumulé",
+			"nous": "avions cumulé",
+			"vous": "aviez cumulé",
+			"ils/elles": "avaient cumulé"
+		},
+		"passé antérieur": {
+			"j'": "eus cumulé",
+			"tu": "eus cumulé",
+			"il/elle": "eut cumulé",
+			"nous": "eûmes cumulé",
+			"vous": "eûtes cumulé",
+			"ils/elles": "eurent cumulé"
+		},
+		"futur antérieur": {
+			"j'": "aurai cumulé",
+			"tu": "auras cumulé",
+			"il/elle": "aura cumulé",
+			"nous": "aurons cumulé",
+			"vous": "aurez cumulé",
+			"ils/elles": "auront cumulé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous cumuliez",
+			"qu'il/elle": "cumule",
+			"qu'ils/elles": "cumulent"
+		},
+		"imparfait": {
+			"que": "vous cumulassiez",
+			"qu'il/elle": "cumulât",
+			"qu'ils/elles": "cumulassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse cumulé",
+			"que": "vous eussiez cumulé",
+			"qu'il/elle": "eût cumulé",
+			"qu'ils/elles": "eussent cumulé"
+		},
+		"passé": {
+			"j'": "aie cumulé",
+			"que": "vous ayez cumulé",
+			"qu'il/elle": "ait cumulé",
+			"qu'ils/elles": "aient cumulé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "cumulerais",
+			"tu": "cumulerais",
+			"il/elle": "cumulerait",
+			"nous": "cumulerions",
+			"vous": "cumuleriez",
+			"ils/elles": "cumuleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais cumulé",
+			"tu": "aurais cumulé",
+			"il/elle": "aurait cumulé",
+			"nous": "aurions cumulé",
+			"vous": "auriez cumulé",
+			"ils/elles": "auraient cumulé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse cumulé",
+			"tu": "eusses cumulé",
+			"il/elle": "eût cumulé",
+			"nous": "eussions cumulé",
+			"vous": "eussiez cumulé",
+			"ils/elles": "eussent cumulé"
+		}
+	},
+	"participe": {
+		"présent": { "cumulant": "" },
+		"passé composé": { "ayant": "cumulé" },
+		"passé": {
+			"masc.sg.:": "cumulé",
+			"masc.pl.:": "cumulés",
+			"fém.sg.:": "cumulée",
+			"fém.pl.:": "cumulées"
+		}
+	},
+	"imperatif": {
+		"présent": { "cumule": "", "cumulons": "", "cumulez": "" },
+		"passé": { "aie": "cumulé", "ayons": "cumulé", "ayez": "cumulé" }
+	},
+	"infinitif": { "présent": { "cumuler": "" }, "passé": { "avoir": "cumulé" } }
+}

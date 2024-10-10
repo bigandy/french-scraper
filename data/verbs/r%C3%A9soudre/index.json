@@ -1,0 +1,150 @@
+{
+	"name": "résoudre",
+	"definition": "solve; resolve; ...",
+	"model": "résoudre",
+	"auxiliary": "avoir",
+	"otherForms": "se résoudre/ne pas résoudre/ne pas se résoudre",
+	"indicatif": {
+		"présent": {
+			"je": "résous",
+			"tu": "résous",
+			"il/elle": "résout",
+			"nous": "résolvons",
+			"vous": "résolvez",
+			"ils/elles": "résolvent"
+		},
+		"imparfait": {
+			"je": "résolvais",
+			"tu": "résolvais",
+			"il/elle": "résolvait",
+			"nous": "résolvions",
+			"vous": "résolviez",
+			"ils/elles": "résolvaient"
+		},
+		"futur": {
+			"je": "résoudrai",
+			"tu": "résoudras",
+			"il/elle": "résoudra",
+			"nous": "résoudrons",
+			"vous": "résoudrez",
+			"ils/elles": "résoudront"
+		},
+		"passé simple": {
+			"je": "résolus",
+			"tu": "résolus",
+			"il/elle": "résolut",
+			"nous": "résolûmes",
+			"vous": "résolûtes",
+			"ils/elles": "résolurent"
+		},
+		"passé composé": {
+			"j'": "ai résous",
+			"tu": "as résous",
+			"il/elle": "a résous",
+			"nous": "avons résous",
+			"vous": "avez résous",
+			"ils/elles": "ont résous",
+			"": ""
+		},
+		"plus-que-parfait": {
+			"j'": "avais résous",
+			"tu": "avais résous",
+			"il/elle": "avait résous",
+			"nous": "avions résous",
+			"vous": "aviez résous",
+			"ils/elles": "avaient résous",
+			"": ""
+		},
+		"passé antérieur": {
+			"j'": "eus résous",
+			"tu": "eus résous",
+			"il/elle": "eut résous",
+			"nous": "eûmes résous",
+			"vous": "eûtes résous",
+			"ils/elles": "eurent résous",
+			"": ""
+		},
+		"futur antérieur": {
+			"j'": "aurai résous",
+			"tu": "auras résous",
+			"il/elle": "aura résous",
+			"nous": "aurons résous",
+			"vous": "aurez résous",
+			"ils/elles": "auront résous",
+			"": ""
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous résolviez",
+			"qu'il/elle": "résolve",
+			"qu'ils/elles": "résolvent"
+		},
+		"imparfait": {
+			"que": "vous résolussiez",
+			"qu'il/elle": "résolût",
+			"qu'ils/elles": "résolussent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse résous",
+			"que": "vous eussiez résous",
+			"qu'il/elle": "eût résous",
+			"qu'ils/elles": "eussent résous",
+			"": ""
+		},
+		"passé": {
+			"j'": "aie résous",
+			"que": "vous ayez résous",
+			"qu'il/elle": "ait résous",
+			"qu'ils/elles": "aient résous",
+			"": ""
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "résoudrais",
+			"tu": "résoudrais",
+			"il/elle": "résoudrait",
+			"nous": "résoudrions",
+			"vous": "résoudriez",
+			"ils/elles": "résoudraient"
+		},
+		"passé première forme": {
+			"j'": "aurais résous",
+			"tu": "aurais résous",
+			"il/elle": "aurait résous",
+			"nous": "aurions résous",
+			"vous": "auriez résous",
+			"ils/elles": "auraient résous",
+			"": ""
+		},
+		"passé deuxième forme": {
+			"j'": "eusse résous",
+			"tu": "eusses résous",
+			"il/elle": "eût résous",
+			"nous": "eussions résous",
+			"vous": "eussiez résous",
+			"ils/elles": "eussent résous",
+			"": ""
+		}
+	},
+	"participe": {
+		"présent": { "résolvant": "" },
+		"passé composé": { "ayant": "résous", "": "" },
+		"passé": {
+			"masc.sg.:": "résous",
+			"masc.pl.:": "résous",
+			"fém.sg.:": "résoute",
+			"fém.pl.:": "résoutes",
+			"": ""
+		}
+	},
+	"imperatif": {
+		"présent": { "résous": "", "résolvons": "", "résolvez": "" },
+		"passé": { "aie": "résous", "ayons": "résous", "ayez": "résous", "": "" }
+	},
+	"infinitif": {
+		"présent": { "résoudre": "" },
+		"passé": { "avoir": "résous", "": "" }
+	}
+}

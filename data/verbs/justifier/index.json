@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "justify; warrant; support; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se justifier/ne pas justifier/ne pas se justifier",
+	"indicatif": {
+		"présent": {
+			"je": "justifie",
+			"tu": "justifies",
+			"il/elle": "justifie",
+			"nous": "justifions",
+			"vous": "justifiez",
+			"ils/elles": "justifient"
+		},
+		"imparfait": {
+			"je": "justifiais",
+			"tu": "justifiais",
+			"il/elle": "justifiait",
+			"nous": "justifiions",
+			"vous": "justifiiez",
+			"ils/elles": "justifiaient"
+		},
+		"futur": {
+			"je": "justifierai",
+			"tu": "justifieras",
+			"il/elle": "justifiera",
+			"nous": "justifierons",
+			"vous": "justifierez",
+			"ils/elles": "justifieront"
+		},
+		"passé simple": {
+			"je": "justifiai",
+			"tu": "justifias",
+			"il/elle": "justifia",
+			"nous": "justifiâmes",
+			"vous": "justifiâtes",
+			"ils/elles": "justifièrent"
+		},
+		"passé composé": {
+			"j'": "ai justifié",
+			"tu": "as justifié",
+			"il/elle": "a justifié",
+			"nous": "avons justifié",
+			"vous": "avez justifié",
+			"ils/elles": "ont justifié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais justifié",
+			"tu": "avais justifié",
+			"il/elle": "avait justifié",
+			"nous": "avions justifié",
+			"vous": "aviez justifié",
+			"ils/elles": "avaient justifié"
+		},
+		"passé antérieur": {
+			"j'": "eus justifié",
+			"tu": "eus justifié",
+			"il/elle": "eut justifié",
+			"nous": "eûmes justifié",
+			"vous": "eûtes justifié",
+			"ils/elles": "eurent justifié"
+		},
+		"futur antérieur": {
+			"j'": "aurai justifié",
+			"tu": "auras justifié",
+			"il/elle": "aura justifié",
+			"nous": "aurons justifié",
+			"vous": "aurez justifié",
+			"ils/elles": "auront justifié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous justifiiez",
+			"qu'il/elle": "justifie",
+			"qu'ils/elles": "justifient"
+		},
+		"imparfait": {
+			"que": "vous justifiassiez",
+			"qu'il/elle": "justifiât",
+			"qu'ils/elles": "justifiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse justifié",
+			"que": "vous eussiez justifié",
+			"qu'il/elle": "eût justifié",
+			"qu'ils/elles": "eussent justifié"
+		},
+		"passé": {
+			"j'": "aie justifié",
+			"que": "vous ayez justifié",
+			"qu'il/elle": "ait justifié",
+			"qu'ils/elles": "aient justifié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "justifierais",
+			"tu": "justifierais",
+			"il/elle": "justifierait",
+			"nous": "justifierions",
+			"vous": "justifieriez",
+			"ils/elles": "justifieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais justifié",
+			"tu": "aurais justifié",
+			"il/elle": "aurait justifié",
+			"nous": "aurions justifié",
+			"vous": "auriez justifié",
+			"ils/elles": "auraient justifié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse justifié",
+			"tu": "eusses justifié",
+			"il/elle": "eût justifié",
+			"nous": "eussions justifié",
+			"vous": "eussiez justifié",
+			"ils/elles": "eussent justifié"
+		}
+	},
+	"participe": {
+		"présent": { "justifiant": "" },
+		"passé composé": { "ayant": "justifié" },
+		"passé": {
+			"masc.sg.:": "justifié",
+			"masc.pl.:": "justifiés",
+			"fém.sg.:": "justifiée",
+			"fém.pl.:": "justifiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "justifie": "", "justifions": "", "justifiez": "" },
+		"passé": { "aie": "justifié", "ayons": "justifié", "ayez": "justifié" }
+	},
+	"infinitif": {
+		"présent": { "justifier": "" },
+		"passé": { "avoir": "justifié" }
+	}
+}

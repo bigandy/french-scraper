@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "stress; emphasize; point out; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se souligner/ne pas souligner/ne pas se souligner",
+	"indicatif": {
+		"présent": {
+			"je": "souligne",
+			"tu": "soulignes",
+			"il/elle": "souligne",
+			"nous": "soulignons",
+			"vous": "soulignez",
+			"ils/elles": "soulignent"
+		},
+		"imparfait": {
+			"je": "soulignais",
+			"tu": "soulignais",
+			"il/elle": "soulignait",
+			"nous": "soulignions",
+			"vous": "souligniez",
+			"ils/elles": "soulignaient"
+		},
+		"futur": {
+			"je": "soulignerai",
+			"tu": "souligneras",
+			"il/elle": "soulignera",
+			"nous": "soulignerons",
+			"vous": "soulignerez",
+			"ils/elles": "souligneront"
+		},
+		"passé simple": {
+			"je": "soulignai",
+			"tu": "soulignas",
+			"il/elle": "souligna",
+			"nous": "soulignâmes",
+			"vous": "soulignâtes",
+			"ils/elles": "soulignèrent"
+		},
+		"passé composé": {
+			"j'": "ai souligné",
+			"tu": "as souligné",
+			"il/elle": "a souligné",
+			"nous": "avons souligné",
+			"vous": "avez souligné",
+			"ils/elles": "ont souligné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais souligné",
+			"tu": "avais souligné",
+			"il/elle": "avait souligné",
+			"nous": "avions souligné",
+			"vous": "aviez souligné",
+			"ils/elles": "avaient souligné"
+		},
+		"passé antérieur": {
+			"j'": "eus souligné",
+			"tu": "eus souligné",
+			"il/elle": "eut souligné",
+			"nous": "eûmes souligné",
+			"vous": "eûtes souligné",
+			"ils/elles": "eurent souligné"
+		},
+		"futur antérieur": {
+			"j'": "aurai souligné",
+			"tu": "auras souligné",
+			"il/elle": "aura souligné",
+			"nous": "aurons souligné",
+			"vous": "aurez souligné",
+			"ils/elles": "auront souligné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous souligniez",
+			"qu'il/elle": "souligne",
+			"qu'ils/elles": "soulignent"
+		},
+		"imparfait": {
+			"que": "vous soulignassiez",
+			"qu'il/elle": "soulignât",
+			"qu'ils/elles": "soulignassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse souligné",
+			"que": "vous eussiez souligné",
+			"qu'il/elle": "eût souligné",
+			"qu'ils/elles": "eussent souligné"
+		},
+		"passé": {
+			"j'": "aie souligné",
+			"que": "vous ayez souligné",
+			"qu'il/elle": "ait souligné",
+			"qu'ils/elles": "aient souligné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "soulignerais",
+			"tu": "soulignerais",
+			"il/elle": "soulignerait",
+			"nous": "soulignerions",
+			"vous": "souligneriez",
+			"ils/elles": "souligneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais souligné",
+			"tu": "aurais souligné",
+			"il/elle": "aurait souligné",
+			"nous": "aurions souligné",
+			"vous": "auriez souligné",
+			"ils/elles": "auraient souligné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse souligné",
+			"tu": "eusses souligné",
+			"il/elle": "eût souligné",
+			"nous": "eussions souligné",
+			"vous": "eussiez souligné",
+			"ils/elles": "eussent souligné"
+		}
+	},
+	"participe": {
+		"présent": { "soulignant": "" },
+		"passé composé": { "ayant": "souligné" },
+		"passé": {
+			"masc.sg.:": "souligné",
+			"masc.pl.:": "soulignés",
+			"fém.sg.:": "soulignée",
+			"fém.pl.:": "soulignées"
+		}
+	},
+	"imperatif": {
+		"présent": { "souligne": "", "soulignons": "", "soulignez": "" },
+		"passé": { "aie": "souligné", "ayons": "souligné", "ayez": "souligné" }
+	},
+	"infinitif": {
+		"présent": { "souligner": "" },
+		"passé": { "avoir": "souligné" }
+	}
+}

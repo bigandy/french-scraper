@@ -1,0 +1,143 @@
+{
+	"name": "manger",
+	"definition": "question; interview; interrogate; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "s'interroger/ne pas interroger/ne pas s'interroger",
+	"indicatif": {
+		"présent": {
+			"j'": "interroge",
+			"tu": "interroges",
+			"il/elle": "interroge",
+			"nous": "interrogeons",
+			"vous": "interrogez",
+			"ils/elles": "interrogent"
+		},
+		"imparfait": {
+			"j'": "interrogeais",
+			"tu": "interrogeais",
+			"il/elle": "interrogeait",
+			"nous": "interrogions",
+			"vous": "interrogiez",
+			"ils/elles": "interrogeaient"
+		},
+		"futur": {
+			"j'": "interrogerai",
+			"tu": "interrogeras",
+			"il/elle": "interrogera",
+			"nous": "interrogerons",
+			"vous": "interrogerez",
+			"ils/elles": "interrogeront"
+		},
+		"passé simple": {
+			"j'": "interrogeai",
+			"tu": "interrogeas",
+			"il/elle": "interrogea",
+			"nous": "interrogeâmes",
+			"vous": "interrogeâtes",
+			"ils/elles": "interrogèrent"
+		},
+		"passé composé": {
+			"j'": "ai interrogé",
+			"tu": "as interrogé",
+			"il/elle": "a interrogé",
+			"nous": "avons interrogé",
+			"vous": "avez interrogé",
+			"ils/elles": "ont interrogé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais interrogé",
+			"tu": "avais interrogé",
+			"il/elle": "avait interrogé",
+			"nous": "avions interrogé",
+			"vous": "aviez interrogé",
+			"ils/elles": "avaient interrogé"
+		},
+		"passé antérieur": {
+			"j'": "eus interrogé",
+			"tu": "eus interrogé",
+			"il/elle": "eut interrogé",
+			"nous": "eûmes interrogé",
+			"vous": "eûtes interrogé",
+			"ils/elles": "eurent interrogé"
+		},
+		"futur antérieur": {
+			"j'": "aurai interrogé",
+			"tu": "auras interrogé",
+			"il/elle": "aura interrogé",
+			"nous": "aurons interrogé",
+			"vous": "aurez interrogé",
+			"ils/elles": "auront interrogé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "interroge",
+			"que": "vous interrogiez",
+			"qu'il/elle": "interroge",
+			"qu'ils/elles": "interrogent"
+		},
+		"imparfait": {
+			"j'": "interrogeasse",
+			"que": "vous interrogeassiez",
+			"qu'il/elle": "interrogeât",
+			"qu'ils/elles": "interrogeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse interrogé",
+			"que": "vous eussiez interrogé",
+			"qu'il/elle": "eût interrogé",
+			"qu'ils/elles": "eussent interrogé"
+		},
+		"passé": {
+			"j'": "aie interrogé",
+			"que": "vous ayez interrogé",
+			"qu'il/elle": "ait interrogé",
+			"qu'ils/elles": "aient interrogé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "interrogerais",
+			"tu": "interrogerais",
+			"il/elle": "interrogerait",
+			"nous": "interrogerions",
+			"vous": "interrogeriez",
+			"ils/elles": "interrogeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais interrogé",
+			"tu": "aurais interrogé",
+			"il/elle": "aurait interrogé",
+			"nous": "aurions interrogé",
+			"vous": "auriez interrogé",
+			"ils/elles": "auraient interrogé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse interrogé",
+			"tu": "eusses interrogé",
+			"il/elle": "eût interrogé",
+			"nous": "eussions interrogé",
+			"vous": "eussiez interrogé",
+			"ils/elles": "eussent interrogé"
+		}
+	},
+	"participe": {
+		"présent": { "interrogeant": "" },
+		"passé composé": { "ayant": "interrogé" },
+		"passé": {
+			"masc.sg.:": "interrogé",
+			"masc.pl.:": "interrogés",
+			"fém.sg.:": "interrogée",
+			"fém.pl.:": "interrogées"
+		}
+	},
+	"imperatif": {
+		"présent": { "interroge": "", "interrogeons": "", "interrogez": "" },
+		"passé": { "aie": "interrogé", "ayons": "interrogé", "ayez": "interrogé" }
+	},
+	"infinitif": {
+		"présent": { "interroger": "" },
+		"passé": { "avoir": "interrogé" }
+	}
+}

@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "push; grow; urge; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se pousser/ne pas pousser/ne pas se pousser",
+	"indicatif": {
+		"présent": {
+			"je": "pousse",
+			"tu": "pousses",
+			"il/elle": "pousse",
+			"nous": "poussons",
+			"vous": "poussez",
+			"ils/elles": "poussent"
+		},
+		"imparfait": {
+			"je": "poussais",
+			"tu": "poussais",
+			"il/elle": "poussait",
+			"nous": "poussions",
+			"vous": "poussiez",
+			"ils/elles": "poussaient"
+		},
+		"futur": {
+			"je": "pousserai",
+			"tu": "pousseras",
+			"il/elle": "poussera",
+			"nous": "pousserons",
+			"vous": "pousserez",
+			"ils/elles": "pousseront"
+		},
+		"passé simple": {
+			"je": "poussai",
+			"tu": "poussas",
+			"il/elle": "poussa",
+			"nous": "poussâmes",
+			"vous": "poussâtes",
+			"ils/elles": "poussèrent"
+		},
+		"passé composé": {
+			"j'": "ai poussé",
+			"tu": "as poussé",
+			"il/elle": "a poussé",
+			"nous": "avons poussé",
+			"vous": "avez poussé",
+			"ils/elles": "ont poussé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais poussé",
+			"tu": "avais poussé",
+			"il/elle": "avait poussé",
+			"nous": "avions poussé",
+			"vous": "aviez poussé",
+			"ils/elles": "avaient poussé"
+		},
+		"passé antérieur": {
+			"j'": "eus poussé",
+			"tu": "eus poussé",
+			"il/elle": "eut poussé",
+			"nous": "eûmes poussé",
+			"vous": "eûtes poussé",
+			"ils/elles": "eurent poussé"
+		},
+		"futur antérieur": {
+			"j'": "aurai poussé",
+			"tu": "auras poussé",
+			"il/elle": "aura poussé",
+			"nous": "aurons poussé",
+			"vous": "aurez poussé",
+			"ils/elles": "auront poussé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous poussiez",
+			"qu'il/elle": "pousse",
+			"qu'ils/elles": "poussent"
+		},
+		"imparfait": {
+			"que": "vous poussassiez",
+			"qu'il/elle": "poussât",
+			"qu'ils/elles": "poussassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse poussé",
+			"que": "vous eussiez poussé",
+			"qu'il/elle": "eût poussé",
+			"qu'ils/elles": "eussent poussé"
+		},
+		"passé": {
+			"j'": "aie poussé",
+			"que": "vous ayez poussé",
+			"qu'il/elle": "ait poussé",
+			"qu'ils/elles": "aient poussé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "pousserais",
+			"tu": "pousserais",
+			"il/elle": "pousserait",
+			"nous": "pousserions",
+			"vous": "pousseriez",
+			"ils/elles": "pousseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais poussé",
+			"tu": "aurais poussé",
+			"il/elle": "aurait poussé",
+			"nous": "aurions poussé",
+			"vous": "auriez poussé",
+			"ils/elles": "auraient poussé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse poussé",
+			"tu": "eusses poussé",
+			"il/elle": "eût poussé",
+			"nous": "eussions poussé",
+			"vous": "eussiez poussé",
+			"ils/elles": "eussent poussé"
+		}
+	},
+	"participe": {
+		"présent": { "poussant": "" },
+		"passé composé": { "ayant": "poussé" },
+		"passé": {
+			"masc.sg.:": "poussé",
+			"masc.pl.:": "poussés",
+			"fém.sg.:": "poussée",
+			"fém.pl.:": "poussées"
+		}
+	},
+	"imperatif": {
+		"présent": { "pousse": "", "poussons": "", "poussez": "" },
+		"passé": { "aie": "poussé", "ayons": "poussé", "ayez": "poussé" }
+	},
+	"infinitif": { "présent": { "pousser": "" }, "passé": { "avoir": "poussé" } }
+}

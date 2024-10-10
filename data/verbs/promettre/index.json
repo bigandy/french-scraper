@@ -1,0 +1,141 @@
+{
+	"name": "mettre",
+	"definition": "promise; pledge; swear; ...",
+	"model": "mettre",
+	"auxiliary": "avoir",
+	"otherForms": "se promettre/ne pas promettre/ne pas se promettre",
+	"indicatif": {
+		"présent": {
+			"je": "promets",
+			"tu": "promets",
+			"il/elle": "promet",
+			"nous": "promettons",
+			"vous": "promettez",
+			"ils/elles": "promettent"
+		},
+		"imparfait": {
+			"je": "promettais",
+			"tu": "promettais",
+			"il/elle": "promettait",
+			"nous": "promettions",
+			"vous": "promettiez",
+			"ils/elles": "promettaient"
+		},
+		"futur": {
+			"je": "promettrai",
+			"tu": "promettras",
+			"il/elle": "promettra",
+			"nous": "promettrons",
+			"vous": "promettrez",
+			"ils/elles": "promettront"
+		},
+		"passé simple": {
+			"je": "promis",
+			"tu": "promis",
+			"il/elle": "promit",
+			"nous": "promîmes",
+			"vous": "promîtes",
+			"ils/elles": "promirent"
+		},
+		"passé composé": {
+			"j'": "ai promis",
+			"tu": "as promis",
+			"il/elle": "a promis",
+			"nous": "avons promis",
+			"vous": "avez promis",
+			"ils/elles": "ont promis"
+		},
+		"plus-que-parfait": {
+			"j'": "avais promis",
+			"tu": "avais promis",
+			"il/elle": "avait promis",
+			"nous": "avions promis",
+			"vous": "aviez promis",
+			"ils/elles": "avaient promis"
+		},
+		"passé antérieur": {
+			"j'": "eus promis",
+			"tu": "eus promis",
+			"il/elle": "eut promis",
+			"nous": "eûmes promis",
+			"vous": "eûtes promis",
+			"ils/elles": "eurent promis"
+		},
+		"futur antérieur": {
+			"j'": "aurai promis",
+			"tu": "auras promis",
+			"il/elle": "aura promis",
+			"nous": "aurons promis",
+			"vous": "aurez promis",
+			"ils/elles": "auront promis"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous promettiez",
+			"qu'il/elle": "promette",
+			"qu'ils/elles": "promettent"
+		},
+		"imparfait": {
+			"que": "vous promissiez",
+			"qu'il/elle": "promît",
+			"qu'ils/elles": "promissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse promis",
+			"que": "vous eussiez promis",
+			"qu'il/elle": "eût promis",
+			"qu'ils/elles": "eussent promis"
+		},
+		"passé": {
+			"j'": "aie promis",
+			"que": "vous ayez promis",
+			"qu'il/elle": "ait promis",
+			"qu'ils/elles": "aient promis"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "promettrais",
+			"tu": "promettrais",
+			"il/elle": "promettrait",
+			"nous": "promettrions",
+			"vous": "promettriez",
+			"ils/elles": "promettraient"
+		},
+		"passé première forme": {
+			"j'": "aurais promis",
+			"tu": "aurais promis",
+			"il/elle": "aurait promis",
+			"nous": "aurions promis",
+			"vous": "auriez promis",
+			"ils/elles": "auraient promis"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse promis",
+			"tu": "eusses promis",
+			"il/elle": "eût promis",
+			"nous": "eussions promis",
+			"vous": "eussiez promis",
+			"ils/elles": "eussent promis"
+		}
+	},
+	"participe": {
+		"présent": { "promettant": "" },
+		"passé composé": { "ayant": "promis" },
+		"passé": {
+			"masc.sg.:": "promis",
+			"masc.pl.:": "promis",
+			"fém.sg.:": "promise",
+			"fém.pl.:": "promises"
+		}
+	},
+	"imperatif": {
+		"présent": { "promets": "", "promettons": "", "promettez": "" },
+		"passé": { "aie": "promis", "ayons": "promis", "ayez": "promis" }
+	},
+	"infinitif": {
+		"présent": { "promettre": "" },
+		"passé": { "avoir": "promis" }
+	}
+}

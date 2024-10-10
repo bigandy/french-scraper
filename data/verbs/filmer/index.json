@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "film; shoot; record; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se filmer/ne pas filmer/ne pas se filmer",
+	"indicatif": {
+		"présent": {
+			"je": "filme",
+			"tu": "filmes",
+			"il/elle": "filme",
+			"nous": "filmons",
+			"vous": "filmez",
+			"ils/elles": "filment"
+		},
+		"imparfait": {
+			"je": "filmais",
+			"tu": "filmais",
+			"il/elle": "filmait",
+			"nous": "filmions",
+			"vous": "filmiez",
+			"ils/elles": "filmaient"
+		},
+		"futur": {
+			"je": "filmerai",
+			"tu": "filmeras",
+			"il/elle": "filmera",
+			"nous": "filmerons",
+			"vous": "filmerez",
+			"ils/elles": "filmeront"
+		},
+		"passé simple": {
+			"je": "filmai",
+			"tu": "filmas",
+			"il/elle": "filma",
+			"nous": "filmâmes",
+			"vous": "filmâtes",
+			"ils/elles": "filmèrent"
+		},
+		"passé composé": {
+			"j'": "ai filmé",
+			"tu": "as filmé",
+			"il/elle": "a filmé",
+			"nous": "avons filmé",
+			"vous": "avez filmé",
+			"ils/elles": "ont filmé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais filmé",
+			"tu": "avais filmé",
+			"il/elle": "avait filmé",
+			"nous": "avions filmé",
+			"vous": "aviez filmé",
+			"ils/elles": "avaient filmé"
+		},
+		"passé antérieur": {
+			"j'": "eus filmé",
+			"tu": "eus filmé",
+			"il/elle": "eut filmé",
+			"nous": "eûmes filmé",
+			"vous": "eûtes filmé",
+			"ils/elles": "eurent filmé"
+		},
+		"futur antérieur": {
+			"j'": "aurai filmé",
+			"tu": "auras filmé",
+			"il/elle": "aura filmé",
+			"nous": "aurons filmé",
+			"vous": "aurez filmé",
+			"ils/elles": "auront filmé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous filmiez",
+			"qu'il/elle": "filme",
+			"qu'ils/elles": "filment"
+		},
+		"imparfait": {
+			"que": "vous filmassiez",
+			"qu'il/elle": "filmât",
+			"qu'ils/elles": "filmassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse filmé",
+			"que": "vous eussiez filmé",
+			"qu'il/elle": "eût filmé",
+			"qu'ils/elles": "eussent filmé"
+		},
+		"passé": {
+			"j'": "aie filmé",
+			"que": "vous ayez filmé",
+			"qu'il/elle": "ait filmé",
+			"qu'ils/elles": "aient filmé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "filmerais",
+			"tu": "filmerais",
+			"il/elle": "filmerait",
+			"nous": "filmerions",
+			"vous": "filmeriez",
+			"ils/elles": "filmeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais filmé",
+			"tu": "aurais filmé",
+			"il/elle": "aurait filmé",
+			"nous": "aurions filmé",
+			"vous": "auriez filmé",
+			"ils/elles": "auraient filmé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse filmé",
+			"tu": "eusses filmé",
+			"il/elle": "eût filmé",
+			"nous": "eussions filmé",
+			"vous": "eussiez filmé",
+			"ils/elles": "eussent filmé"
+		}
+	},
+	"participe": {
+		"présent": { "filmant": "" },
+		"passé composé": { "ayant": "filmé" },
+		"passé": {
+			"masc.sg.:": "filmé",
+			"masc.pl.:": "filmés",
+			"fém.sg.:": "filmée",
+			"fém.pl.:": "filmées"
+		}
+	},
+	"imperatif": {
+		"présent": { "filme": "", "filmons": "", "filmez": "" },
+		"passé": { "aie": "filmé", "ayons": "filmé", "ayez": "filmé" }
+	},
+	"infinitif": { "présent": { "filmer": "" }, "passé": { "avoir": "filmé" } }
+}

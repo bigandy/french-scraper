@@ -1,0 +1,138 @@
+{
+	"name": "manger",
+	"definition": "direct; lead; run; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "se diriger/ne pas diriger/ne pas se diriger",
+	"indicatif": {
+		"présent": {
+			"je": "dirige",
+			"tu": "diriges",
+			"il/elle": "dirige",
+			"nous": "dirigeons",
+			"vous": "dirigez",
+			"ils/elles": "dirigent"
+		},
+		"imparfait": {
+			"je": "dirigeais",
+			"tu": "dirigeais",
+			"il/elle": "dirigeait",
+			"nous": "dirigions",
+			"vous": "dirigiez",
+			"ils/elles": "dirigeaient"
+		},
+		"futur": {
+			"je": "dirigerai",
+			"tu": "dirigeras",
+			"il/elle": "dirigera",
+			"nous": "dirigerons",
+			"vous": "dirigerez",
+			"ils/elles": "dirigeront"
+		},
+		"passé simple": {
+			"je": "dirigeai",
+			"tu": "dirigeas",
+			"il/elle": "dirigea",
+			"nous": "dirigeâmes",
+			"vous": "dirigeâtes",
+			"ils/elles": "dirigèrent"
+		},
+		"passé composé": {
+			"j'": "ai dirigé",
+			"tu": "as dirigé",
+			"il/elle": "a dirigé",
+			"nous": "avons dirigé",
+			"vous": "avez dirigé",
+			"ils/elles": "ont dirigé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais dirigé",
+			"tu": "avais dirigé",
+			"il/elle": "avait dirigé",
+			"nous": "avions dirigé",
+			"vous": "aviez dirigé",
+			"ils/elles": "avaient dirigé"
+		},
+		"passé antérieur": {
+			"j'": "eus dirigé",
+			"tu": "eus dirigé",
+			"il/elle": "eut dirigé",
+			"nous": "eûmes dirigé",
+			"vous": "eûtes dirigé",
+			"ils/elles": "eurent dirigé"
+		},
+		"futur antérieur": {
+			"j'": "aurai dirigé",
+			"tu": "auras dirigé",
+			"il/elle": "aura dirigé",
+			"nous": "aurons dirigé",
+			"vous": "aurez dirigé",
+			"ils/elles": "auront dirigé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous dirigiez",
+			"qu'il/elle": "dirige",
+			"qu'ils/elles": "dirigent"
+		},
+		"imparfait": {
+			"que": "vous dirigeassiez",
+			"qu'il/elle": "dirigeât",
+			"qu'ils/elles": "dirigeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse dirigé",
+			"que": "vous eussiez dirigé",
+			"qu'il/elle": "eût dirigé",
+			"qu'ils/elles": "eussent dirigé"
+		},
+		"passé": {
+			"j'": "aie dirigé",
+			"que": "vous ayez dirigé",
+			"qu'il/elle": "ait dirigé",
+			"qu'ils/elles": "aient dirigé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "dirigerais",
+			"tu": "dirigerais",
+			"il/elle": "dirigerait",
+			"nous": "dirigerions",
+			"vous": "dirigeriez",
+			"ils/elles": "dirigeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais dirigé",
+			"tu": "aurais dirigé",
+			"il/elle": "aurait dirigé",
+			"nous": "aurions dirigé",
+			"vous": "auriez dirigé",
+			"ils/elles": "auraient dirigé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse dirigé",
+			"tu": "eusses dirigé",
+			"il/elle": "eût dirigé",
+			"nous": "eussions dirigé",
+			"vous": "eussiez dirigé",
+			"ils/elles": "eussent dirigé"
+		}
+	},
+	"participe": {
+		"présent": { "dirigeant": "" },
+		"passé composé": { "ayant": "dirigé" },
+		"passé": {
+			"masc.sg.:": "dirigé",
+			"masc.pl.:": "dirigés",
+			"fém.sg.:": "dirigée",
+			"fém.pl.:": "dirigées"
+		}
+	},
+	"imperatif": {
+		"présent": { "dirige": "", "dirigeons": "", "dirigez": "" },
+		"passé": { "aie": "dirigé", "ayons": "dirigé", "ayez": "dirigé" }
+	},
+	"infinitif": { "présent": { "diriger": "" }, "passé": { "avoir": "dirigé" } }
+}

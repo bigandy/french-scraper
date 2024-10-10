@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "control; master; contain; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se maîtriser/ne pas maîtriser/ne pas se maîtriser",
+	"indicatif": {
+		"présent": {
+			"je": "maîtrise",
+			"tu": "maîtrises",
+			"il/elle": "maîtrise",
+			"nous": "maîtrisons",
+			"vous": "maîtrisez",
+			"ils/elles": "maîtrisent"
+		},
+		"imparfait": {
+			"je": "maîtrisais",
+			"tu": "maîtrisais",
+			"il/elle": "maîtrisait",
+			"nous": "maîtrisions",
+			"vous": "maîtrisiez",
+			"ils/elles": "maîtrisaient"
+		},
+		"futur": {
+			"je": "maîtriserai",
+			"tu": "maîtriseras",
+			"il/elle": "maîtrisera",
+			"nous": "maîtriserons",
+			"vous": "maîtriserez",
+			"ils/elles": "maîtriseront"
+		},
+		"passé simple": {
+			"je": "maîtrisai",
+			"tu": "maîtrisas",
+			"il/elle": "maîtrisa",
+			"nous": "maîtrisâmes",
+			"vous": "maîtrisâtes",
+			"ils/elles": "maîtrisèrent"
+		},
+		"passé composé": {
+			"j'": "ai maîtrisé",
+			"tu": "as maîtrisé",
+			"il/elle": "a maîtrisé",
+			"nous": "avons maîtrisé",
+			"vous": "avez maîtrisé",
+			"ils/elles": "ont maîtrisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais maîtrisé",
+			"tu": "avais maîtrisé",
+			"il/elle": "avait maîtrisé",
+			"nous": "avions maîtrisé",
+			"vous": "aviez maîtrisé",
+			"ils/elles": "avaient maîtrisé"
+		},
+		"passé antérieur": {
+			"j'": "eus maîtrisé",
+			"tu": "eus maîtrisé",
+			"il/elle": "eut maîtrisé",
+			"nous": "eûmes maîtrisé",
+			"vous": "eûtes maîtrisé",
+			"ils/elles": "eurent maîtrisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai maîtrisé",
+			"tu": "auras maîtrisé",
+			"il/elle": "aura maîtrisé",
+			"nous": "aurons maîtrisé",
+			"vous": "aurez maîtrisé",
+			"ils/elles": "auront maîtrisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous maîtrisiez",
+			"qu'il/elle": "maîtrise",
+			"qu'ils/elles": "maîtrisent"
+		},
+		"imparfait": {
+			"que": "vous maîtrisassiez",
+			"qu'il/elle": "maîtrisât",
+			"qu'ils/elles": "maîtrisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse maîtrisé",
+			"que": "vous eussiez maîtrisé",
+			"qu'il/elle": "eût maîtrisé",
+			"qu'ils/elles": "eussent maîtrisé"
+		},
+		"passé": {
+			"j'": "aie maîtrisé",
+			"que": "vous ayez maîtrisé",
+			"qu'il/elle": "ait maîtrisé",
+			"qu'ils/elles": "aient maîtrisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "maîtriserais",
+			"tu": "maîtriserais",
+			"il/elle": "maîtriserait",
+			"nous": "maîtriserions",
+			"vous": "maîtriseriez",
+			"ils/elles": "maîtriseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais maîtrisé",
+			"tu": "aurais maîtrisé",
+			"il/elle": "aurait maîtrisé",
+			"nous": "aurions maîtrisé",
+			"vous": "auriez maîtrisé",
+			"ils/elles": "auraient maîtrisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse maîtrisé",
+			"tu": "eusses maîtrisé",
+			"il/elle": "eût maîtrisé",
+			"nous": "eussions maîtrisé",
+			"vous": "eussiez maîtrisé",
+			"ils/elles": "eussent maîtrisé"
+		}
+	},
+	"participe": {
+		"présent": { "maîtrisant": "" },
+		"passé composé": { "ayant": "maîtrisé" },
+		"passé": {
+			"masc.sg.:": "maîtrisé",
+			"masc.pl.:": "maîtrisés",
+			"fém.sg.:": "maîtrisée",
+			"fém.pl.:": "maîtrisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "maîtrise": "", "maîtrisons": "", "maîtrisez": "" },
+		"passé": { "aie": "maîtrisé", "ayons": "maîtrisé", "ayez": "maîtrisé" }
+	},
+	"infinitif": {
+		"présent": { "maîtriser": "" },
+		"passé": { "avoir": "maîtrisé" }
+	}
+}

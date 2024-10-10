@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "inspire; guide; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'inspirer/ne pas inspirer/ne pas s'inspirer",
+	"indicatif": {
+		"présent": {
+			"j'": "inspire",
+			"tu": "inspires",
+			"il/elle": "inspire",
+			"nous": "inspirons",
+			"vous": "inspirez",
+			"ils/elles": "inspirent"
+		},
+		"imparfait": {
+			"j'": "inspirais",
+			"tu": "inspirais",
+			"il/elle": "inspirait",
+			"nous": "inspirions",
+			"vous": "inspiriez",
+			"ils/elles": "inspiraient"
+		},
+		"futur": {
+			"j'": "inspirerai",
+			"tu": "inspireras",
+			"il/elle": "inspirera",
+			"nous": "inspirerons",
+			"vous": "inspirerez",
+			"ils/elles": "inspireront"
+		},
+		"passé simple": {
+			"j'": "inspirai",
+			"tu": "inspiras",
+			"il/elle": "inspira",
+			"nous": "inspirâmes",
+			"vous": "inspirâtes",
+			"ils/elles": "inspirèrent"
+		},
+		"passé composé": {
+			"j'": "ai inspiré",
+			"tu": "as inspiré",
+			"il/elle": "a inspiré",
+			"nous": "avons inspiré",
+			"vous": "avez inspiré",
+			"ils/elles": "ont inspiré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais inspiré",
+			"tu": "avais inspiré",
+			"il/elle": "avait inspiré",
+			"nous": "avions inspiré",
+			"vous": "aviez inspiré",
+			"ils/elles": "avaient inspiré"
+		},
+		"passé antérieur": {
+			"j'": "eus inspiré",
+			"tu": "eus inspiré",
+			"il/elle": "eut inspiré",
+			"nous": "eûmes inspiré",
+			"vous": "eûtes inspiré",
+			"ils/elles": "eurent inspiré"
+		},
+		"futur antérieur": {
+			"j'": "aurai inspiré",
+			"tu": "auras inspiré",
+			"il/elle": "aura inspiré",
+			"nous": "aurons inspiré",
+			"vous": "aurez inspiré",
+			"ils/elles": "auront inspiré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "inspire",
+			"que": "vous inspiriez",
+			"qu'il/elle": "inspire",
+			"qu'ils/elles": "inspirent"
+		},
+		"imparfait": {
+			"j'": "inspirasse",
+			"que": "vous inspirassiez",
+			"qu'il/elle": "inspirât",
+			"qu'ils/elles": "inspirassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse inspiré",
+			"que": "vous eussiez inspiré",
+			"qu'il/elle": "eût inspiré",
+			"qu'ils/elles": "eussent inspiré"
+		},
+		"passé": {
+			"j'": "aie inspiré",
+			"que": "vous ayez inspiré",
+			"qu'il/elle": "ait inspiré",
+			"qu'ils/elles": "aient inspiré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "inspirerais",
+			"tu": "inspirerais",
+			"il/elle": "inspirerait",
+			"nous": "inspirerions",
+			"vous": "inspireriez",
+			"ils/elles": "inspireraient"
+		},
+		"passé première forme": {
+			"j'": "aurais inspiré",
+			"tu": "aurais inspiré",
+			"il/elle": "aurait inspiré",
+			"nous": "aurions inspiré",
+			"vous": "auriez inspiré",
+			"ils/elles": "auraient inspiré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse inspiré",
+			"tu": "eusses inspiré",
+			"il/elle": "eût inspiré",
+			"nous": "eussions inspiré",
+			"vous": "eussiez inspiré",
+			"ils/elles": "eussent inspiré"
+		}
+	},
+	"participe": {
+		"présent": { "inspirant": "" },
+		"passé composé": { "ayant": "inspiré" },
+		"passé": {
+			"masc.sg.:": "inspiré",
+			"masc.pl.:": "inspirés",
+			"fém.sg.:": "inspirée",
+			"fém.pl.:": "inspirées"
+		}
+	},
+	"imperatif": {
+		"présent": { "inspire": "", "inspirons": "", "inspirez": "" },
+		"passé": { "aie": "inspiré", "ayons": "inspiré", "ayez": "inspiré" }
+	},
+	"infinitif": {
+		"présent": { "inspirer": "" },
+		"passé": { "avoir": "inspiré" }
+	}
+}

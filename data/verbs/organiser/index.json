@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "organize; organise; hold; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'organiser/ne pas organiser/ne pas s'organiser",
+	"indicatif": {
+		"présent": {
+			"j'": "organise",
+			"tu": "organises",
+			"il/elle": "organise",
+			"nous": "organisons",
+			"vous": "organisez",
+			"ils/elles": "organisent"
+		},
+		"imparfait": {
+			"j'": "organisais",
+			"tu": "organisais",
+			"il/elle": "organisait",
+			"nous": "organisions",
+			"vous": "organisiez",
+			"ils/elles": "organisaient"
+		},
+		"futur": {
+			"j'": "organiserai",
+			"tu": "organiseras",
+			"il/elle": "organisera",
+			"nous": "organiserons",
+			"vous": "organiserez",
+			"ils/elles": "organiseront"
+		},
+		"passé simple": {
+			"j'": "organisai",
+			"tu": "organisas",
+			"il/elle": "organisa",
+			"nous": "organisâmes",
+			"vous": "organisâtes",
+			"ils/elles": "organisèrent"
+		},
+		"passé composé": {
+			"j'": "ai organisé",
+			"tu": "as organisé",
+			"il/elle": "a organisé",
+			"nous": "avons organisé",
+			"vous": "avez organisé",
+			"ils/elles": "ont organisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais organisé",
+			"tu": "avais organisé",
+			"il/elle": "avait organisé",
+			"nous": "avions organisé",
+			"vous": "aviez organisé",
+			"ils/elles": "avaient organisé"
+		},
+		"passé antérieur": {
+			"j'": "eus organisé",
+			"tu": "eus organisé",
+			"il/elle": "eut organisé",
+			"nous": "eûmes organisé",
+			"vous": "eûtes organisé",
+			"ils/elles": "eurent organisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai organisé",
+			"tu": "auras organisé",
+			"il/elle": "aura organisé",
+			"nous": "aurons organisé",
+			"vous": "aurez organisé",
+			"ils/elles": "auront organisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "organise",
+			"que": "vous organisiez",
+			"qu'il/elle": "organise",
+			"qu'ils/elles": "organisent"
+		},
+		"imparfait": {
+			"j'": "organisasse",
+			"que": "vous organisassiez",
+			"qu'il/elle": "organisât",
+			"qu'ils/elles": "organisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse organisé",
+			"que": "vous eussiez organisé",
+			"qu'il/elle": "eût organisé",
+			"qu'ils/elles": "eussent organisé"
+		},
+		"passé": {
+			"j'": "aie organisé",
+			"que": "vous ayez organisé",
+			"qu'il/elle": "ait organisé",
+			"qu'ils/elles": "aient organisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "organiserais",
+			"tu": "organiserais",
+			"il/elle": "organiserait",
+			"nous": "organiserions",
+			"vous": "organiseriez",
+			"ils/elles": "organiseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais organisé",
+			"tu": "aurais organisé",
+			"il/elle": "aurait organisé",
+			"nous": "aurions organisé",
+			"vous": "auriez organisé",
+			"ils/elles": "auraient organisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse organisé",
+			"tu": "eusses organisé",
+			"il/elle": "eût organisé",
+			"nous": "eussions organisé",
+			"vous": "eussiez organisé",
+			"ils/elles": "eussent organisé"
+		}
+	},
+	"participe": {
+		"présent": { "organisant": "" },
+		"passé composé": { "ayant": "organisé" },
+		"passé": {
+			"masc.sg.:": "organisé",
+			"masc.pl.:": "organisés",
+			"fém.sg.:": "organisée",
+			"fém.pl.:": "organisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "organise": "", "organisons": "", "organisez": "" },
+		"passé": { "aie": "organisé", "ayons": "organisé", "ayez": "organisé" }
+	},
+	"infinitif": {
+		"présent": { "organiser": "" },
+		"passé": { "avoir": "organisé" }
+	}
+}

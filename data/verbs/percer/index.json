@@ -1,0 +1,138 @@
+{
+	"name": "commencer",
+	"definition": "drill; pierce; break through; ...",
+	"model": "commencer",
+	"auxiliary": "avoir",
+	"otherForms": "se percer/ne pas percer/ne pas se percer",
+	"indicatif": {
+		"présent": {
+			"je": "perce",
+			"tu": "perces",
+			"il/elle": "perce",
+			"nous": "perçons",
+			"vous": "percez",
+			"ils/elles": "percent"
+		},
+		"imparfait": {
+			"je": "perçais",
+			"tu": "perçais",
+			"il/elle": "perçait",
+			"nous": "percions",
+			"vous": "perciez",
+			"ils/elles": "perçaient"
+		},
+		"futur": {
+			"je": "percerai",
+			"tu": "perceras",
+			"il/elle": "percera",
+			"nous": "percerons",
+			"vous": "percerez",
+			"ils/elles": "perceront"
+		},
+		"passé simple": {
+			"je": "perçai",
+			"tu": "perças",
+			"il/elle": "perça",
+			"nous": "perçâmes",
+			"vous": "perçâtes",
+			"ils/elles": "percèrent"
+		},
+		"passé composé": {
+			"j'": "ai percé",
+			"tu": "as percé",
+			"il/elle": "a percé",
+			"nous": "avons percé",
+			"vous": "avez percé",
+			"ils/elles": "ont percé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais percé",
+			"tu": "avais percé",
+			"il/elle": "avait percé",
+			"nous": "avions percé",
+			"vous": "aviez percé",
+			"ils/elles": "avaient percé"
+		},
+		"passé antérieur": {
+			"j'": "eus percé",
+			"tu": "eus percé",
+			"il/elle": "eut percé",
+			"nous": "eûmes percé",
+			"vous": "eûtes percé",
+			"ils/elles": "eurent percé"
+		},
+		"futur antérieur": {
+			"j'": "aurai percé",
+			"tu": "auras percé",
+			"il/elle": "aura percé",
+			"nous": "aurons percé",
+			"vous": "aurez percé",
+			"ils/elles": "auront percé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous perciez",
+			"qu'il/elle": "perce",
+			"qu'ils/elles": "percent"
+		},
+		"imparfait": {
+			"que": "vous perçassiez",
+			"qu'il/elle": "perçât",
+			"qu'ils/elles": "perçassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse percé",
+			"que": "vous eussiez percé",
+			"qu'il/elle": "eût percé",
+			"qu'ils/elles": "eussent percé"
+		},
+		"passé": {
+			"j'": "aie percé",
+			"que": "vous ayez percé",
+			"qu'il/elle": "ait percé",
+			"qu'ils/elles": "aient percé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "percerais",
+			"tu": "percerais",
+			"il/elle": "percerait",
+			"nous": "percerions",
+			"vous": "perceriez",
+			"ils/elles": "perceraient"
+		},
+		"passé première forme": {
+			"j'": "aurais percé",
+			"tu": "aurais percé",
+			"il/elle": "aurait percé",
+			"nous": "aurions percé",
+			"vous": "auriez percé",
+			"ils/elles": "auraient percé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse percé",
+			"tu": "eusses percé",
+			"il/elle": "eût percé",
+			"nous": "eussions percé",
+			"vous": "eussiez percé",
+			"ils/elles": "eussent percé"
+		}
+	},
+	"participe": {
+		"présent": { "perçant": "" },
+		"passé composé": { "ayant": "percé" },
+		"passé": {
+			"masc.sg.:": "percé",
+			"masc.pl.:": "percés",
+			"fém.sg.:": "percée",
+			"fém.pl.:": "percées"
+		}
+	},
+	"imperatif": {
+		"présent": { "perce": "", "perçons": "", "percez": "" },
+		"passé": { "aie": "percé", "ayons": "percé", "ayez": "percé" }
+	},
+	"infinitif": { "présent": { "percer": "" }, "passé": { "avoir": "percé" } }
+}

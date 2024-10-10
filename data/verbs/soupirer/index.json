@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "sigh; sigh for; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas soupirer",
+	"indicatif": {
+		"présent": {
+			"je": "soupire",
+			"tu": "soupires",
+			"il/elle": "soupire",
+			"nous": "soupirons",
+			"vous": "soupirez",
+			"ils/elles": "soupirent"
+		},
+		"imparfait": {
+			"je": "soupirais",
+			"tu": "soupirais",
+			"il/elle": "soupirait",
+			"nous": "soupirions",
+			"vous": "soupiriez",
+			"ils/elles": "soupiraient"
+		},
+		"futur": {
+			"je": "soupirerai",
+			"tu": "soupireras",
+			"il/elle": "soupirera",
+			"nous": "soupirerons",
+			"vous": "soupirerez",
+			"ils/elles": "soupireront"
+		},
+		"passé simple": {
+			"je": "soupirai",
+			"tu": "soupiras",
+			"il/elle": "soupira",
+			"nous": "soupirâmes",
+			"vous": "soupirâtes",
+			"ils/elles": "soupirèrent"
+		},
+		"passé composé": {
+			"j'": "ai soupiré",
+			"tu": "as soupiré",
+			"il/elle": "a soupiré",
+			"nous": "avons soupiré",
+			"vous": "avez soupiré",
+			"ils/elles": "ont soupiré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais soupiré",
+			"tu": "avais soupiré",
+			"il/elle": "avait soupiré",
+			"nous": "avions soupiré",
+			"vous": "aviez soupiré",
+			"ils/elles": "avaient soupiré"
+		},
+		"passé antérieur": {
+			"j'": "eus soupiré",
+			"tu": "eus soupiré",
+			"il/elle": "eut soupiré",
+			"nous": "eûmes soupiré",
+			"vous": "eûtes soupiré",
+			"ils/elles": "eurent soupiré"
+		},
+		"futur antérieur": {
+			"j'": "aurai soupiré",
+			"tu": "auras soupiré",
+			"il/elle": "aura soupiré",
+			"nous": "aurons soupiré",
+			"vous": "aurez soupiré",
+			"ils/elles": "auront soupiré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous soupiriez",
+			"qu'il/elle": "soupire",
+			"qu'ils/elles": "soupirent"
+		},
+		"imparfait": {
+			"que": "vous soupirassiez",
+			"qu'il/elle": "soupirât",
+			"qu'ils/elles": "soupirassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse soupiré",
+			"que": "vous eussiez soupiré",
+			"qu'il/elle": "eût soupiré",
+			"qu'ils/elles": "eussent soupiré"
+		},
+		"passé": {
+			"j'": "aie soupiré",
+			"que": "vous ayez soupiré",
+			"qu'il/elle": "ait soupiré",
+			"qu'ils/elles": "aient soupiré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "soupirerais",
+			"tu": "soupirerais",
+			"il/elle": "soupirerait",
+			"nous": "soupirerions",
+			"vous": "soupireriez",
+			"ils/elles": "soupireraient"
+		},
+		"passé première forme": {
+			"j'": "aurais soupiré",
+			"tu": "aurais soupiré",
+			"il/elle": "aurait soupiré",
+			"nous": "aurions soupiré",
+			"vous": "auriez soupiré",
+			"ils/elles": "auraient soupiré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse soupiré",
+			"tu": "eusses soupiré",
+			"il/elle": "eût soupiré",
+			"nous": "eussions soupiré",
+			"vous": "eussiez soupiré",
+			"ils/elles": "eussent soupiré"
+		}
+	},
+	"participe": {
+		"présent": { "soupirant": "" },
+		"passé composé": { "ayant": "soupiré" },
+		"passé": {
+			"masc.sg.:": "soupiré",
+			"masc.pl.:": "soupirés",
+			"fém.sg.:": "soupirée",
+			"fém.pl.:": "soupirées"
+		}
+	},
+	"imperatif": {
+		"présent": { "soupire": "", "soupirons": "", "soupirez": "" },
+		"passé": { "aie": "soupiré", "ayons": "soupiré", "ayez": "soupiré" }
+	},
+	"infinitif": {
+		"présent": { "soupirer": "" },
+		"passé": { "avoir": "soupiré" }
+	}
+}

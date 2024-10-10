@@ -1,0 +1,149 @@
+{
+	"name": "marcher",
+	"definition": "improve; perfect; develop; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se perfectionner/ne pas perfectionner/ne pas se perfectionner",
+	"indicatif": {
+		"présent": {
+			"je": "perfectionne",
+			"tu": "perfectionnes",
+			"il/elle": "perfectionne",
+			"nous": "perfectionnons",
+			"vous": "perfectionnez",
+			"ils/elles": "perfectionnent"
+		},
+		"imparfait": {
+			"je": "perfectionnais",
+			"tu": "perfectionnais",
+			"il/elle": "perfectionnait",
+			"nous": "perfectionnions",
+			"vous": "perfectionniez",
+			"ils/elles": "perfectionnaient"
+		},
+		"futur": {
+			"je": "perfectionnerai",
+			"tu": "perfectionneras",
+			"il/elle": "perfectionnera",
+			"nous": "perfectionnerons",
+			"vous": "perfectionnerez",
+			"ils/elles": "perfectionneront"
+		},
+		"passé simple": {
+			"je": "perfectionnai",
+			"tu": "perfectionnas",
+			"il/elle": "perfectionna",
+			"nous": "perfectionnâmes",
+			"vous": "perfectionnâtes",
+			"ils/elles": "perfectionnèrent"
+		},
+		"passé composé": {
+			"j'": "ai perfectionné",
+			"tu": "as perfectionné",
+			"il/elle": "a perfectionné",
+			"nous": "avons perfectionné",
+			"vous": "avez perfectionné",
+			"ils/elles": "ont perfectionné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais perfectionné",
+			"tu": "avais perfectionné",
+			"il/elle": "avait perfectionné",
+			"nous": "avions perfectionné",
+			"vous": "aviez perfectionné",
+			"ils/elles": "avaient perfectionné"
+		},
+		"passé antérieur": {
+			"j'": "eus perfectionné",
+			"tu": "eus perfectionné",
+			"il/elle": "eut perfectionné",
+			"nous": "eûmes perfectionné",
+			"vous": "eûtes perfectionné",
+			"ils/elles": "eurent perfectionné"
+		},
+		"futur antérieur": {
+			"j'": "aurai perfectionné",
+			"tu": "auras perfectionné",
+			"il/elle": "aura perfectionné",
+			"nous": "aurons perfectionné",
+			"vous": "aurez perfectionné",
+			"ils/elles": "auront perfectionné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous perfectionniez",
+			"qu'il/elle": "perfectionne",
+			"qu'ils/elles": "perfectionnent"
+		},
+		"imparfait": {
+			"que": "vous perfectionnassiez",
+			"qu'il/elle": "perfectionnât",
+			"qu'ils/elles": "perfectionnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse perfectionné",
+			"que": "vous eussiez perfectionné",
+			"qu'il/elle": "eût perfectionné",
+			"qu'ils/elles": "eussent perfectionné"
+		},
+		"passé": {
+			"j'": "aie perfectionné",
+			"que": "vous ayez perfectionné",
+			"qu'il/elle": "ait perfectionné",
+			"qu'ils/elles": "aient perfectionné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "perfectionnerais",
+			"tu": "perfectionnerais",
+			"il/elle": "perfectionnerait",
+			"nous": "perfectionnerions",
+			"vous": "perfectionneriez",
+			"ils/elles": "perfectionneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais perfectionné",
+			"tu": "aurais perfectionné",
+			"il/elle": "aurait perfectionné",
+			"nous": "aurions perfectionné",
+			"vous": "auriez perfectionné",
+			"ils/elles": "auraient perfectionné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse perfectionné",
+			"tu": "eusses perfectionné",
+			"il/elle": "eût perfectionné",
+			"nous": "eussions perfectionné",
+			"vous": "eussiez perfectionné",
+			"ils/elles": "eussent perfectionné"
+		}
+	},
+	"participe": {
+		"présent": { "perfectionnant": "" },
+		"passé composé": { "ayant": "perfectionné" },
+		"passé": {
+			"masc.sg.:": "perfectionné",
+			"masc.pl.:": "perfectionnés",
+			"fém.sg.:": "perfectionnée",
+			"fém.pl.:": "perfectionnées"
+		}
+	},
+	"imperatif": {
+		"présent": {
+			"perfectionne": "",
+			"perfectionnons": "",
+			"perfectionnez": ""
+		},
+		"passé": {
+			"aie": "perfectionné",
+			"ayons": "perfectionné",
+			"ayez": "perfectionné"
+		}
+	},
+	"infinitif": {
+		"présent": { "perfectionner": "" },
+		"passé": { "avoir": "perfectionné" }
+	}
+}

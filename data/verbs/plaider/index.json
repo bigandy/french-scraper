@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "plead; advocate; argue; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se plaider/ne pas plaider/ne pas se plaider",
+	"indicatif": {
+		"présent": {
+			"je": "plaide",
+			"tu": "plaides",
+			"il/elle": "plaide",
+			"nous": "plaidons",
+			"vous": "plaidez",
+			"ils/elles": "plaident"
+		},
+		"imparfait": {
+			"je": "plaidais",
+			"tu": "plaidais",
+			"il/elle": "plaidait",
+			"nous": "plaidions",
+			"vous": "plaidiez",
+			"ils/elles": "plaidaient"
+		},
+		"futur": {
+			"je": "plaiderai",
+			"tu": "plaideras",
+			"il/elle": "plaidera",
+			"nous": "plaiderons",
+			"vous": "plaiderez",
+			"ils/elles": "plaideront"
+		},
+		"passé simple": {
+			"je": "plaidai",
+			"tu": "plaidas",
+			"il/elle": "plaida",
+			"nous": "plaidâmes",
+			"vous": "plaidâtes",
+			"ils/elles": "plaidèrent"
+		},
+		"passé composé": {
+			"j'": "ai plaidé",
+			"tu": "as plaidé",
+			"il/elle": "a plaidé",
+			"nous": "avons plaidé",
+			"vous": "avez plaidé",
+			"ils/elles": "ont plaidé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais plaidé",
+			"tu": "avais plaidé",
+			"il/elle": "avait plaidé",
+			"nous": "avions plaidé",
+			"vous": "aviez plaidé",
+			"ils/elles": "avaient plaidé"
+		},
+		"passé antérieur": {
+			"j'": "eus plaidé",
+			"tu": "eus plaidé",
+			"il/elle": "eut plaidé",
+			"nous": "eûmes plaidé",
+			"vous": "eûtes plaidé",
+			"ils/elles": "eurent plaidé"
+		},
+		"futur antérieur": {
+			"j'": "aurai plaidé",
+			"tu": "auras plaidé",
+			"il/elle": "aura plaidé",
+			"nous": "aurons plaidé",
+			"vous": "aurez plaidé",
+			"ils/elles": "auront plaidé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous plaidiez",
+			"qu'il/elle": "plaide",
+			"qu'ils/elles": "plaident"
+		},
+		"imparfait": {
+			"que": "vous plaidassiez",
+			"qu'il/elle": "plaidât",
+			"qu'ils/elles": "plaidassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse plaidé",
+			"que": "vous eussiez plaidé",
+			"qu'il/elle": "eût plaidé",
+			"qu'ils/elles": "eussent plaidé"
+		},
+		"passé": {
+			"j'": "aie plaidé",
+			"que": "vous ayez plaidé",
+			"qu'il/elle": "ait plaidé",
+			"qu'ils/elles": "aient plaidé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "plaiderais",
+			"tu": "plaiderais",
+			"il/elle": "plaiderait",
+			"nous": "plaiderions",
+			"vous": "plaideriez",
+			"ils/elles": "plaideraient"
+		},
+		"passé première forme": {
+			"j'": "aurais plaidé",
+			"tu": "aurais plaidé",
+			"il/elle": "aurait plaidé",
+			"nous": "aurions plaidé",
+			"vous": "auriez plaidé",
+			"ils/elles": "auraient plaidé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse plaidé",
+			"tu": "eusses plaidé",
+			"il/elle": "eût plaidé",
+			"nous": "eussions plaidé",
+			"vous": "eussiez plaidé",
+			"ils/elles": "eussent plaidé"
+		}
+	},
+	"participe": {
+		"présent": { "plaidant": "" },
+		"passé composé": { "ayant": "plaidé" },
+		"passé": {
+			"masc.sg.:": "plaidé",
+			"masc.pl.:": "plaidés",
+			"fém.sg.:": "plaidée",
+			"fém.pl.:": "plaidées"
+		}
+	},
+	"imperatif": {
+		"présent": { "plaide": "", "plaidons": "", "plaidez": "" },
+		"passé": { "aie": "plaidé", "ayons": "plaidé", "ayez": "plaidé" }
+	},
+	"infinitif": { "présent": { "plaider": "" }, "passé": { "avoir": "plaidé" } }
+}

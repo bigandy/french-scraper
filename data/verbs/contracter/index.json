@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "contract; enter into; acquire; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se contracter/ne pas contracter/ne pas se contracter",
+	"indicatif": {
+		"présent": {
+			"je": "contracte",
+			"tu": "contractes",
+			"il/elle": "contracte",
+			"nous": "contractons",
+			"vous": "contractez",
+			"ils/elles": "contractent"
+		},
+		"imparfait": {
+			"je": "contractais",
+			"tu": "contractais",
+			"il/elle": "contractait",
+			"nous": "contractions",
+			"vous": "contractiez",
+			"ils/elles": "contractaient"
+		},
+		"futur": {
+			"je": "contracterai",
+			"tu": "contracteras",
+			"il/elle": "contractera",
+			"nous": "contracterons",
+			"vous": "contracterez",
+			"ils/elles": "contracteront"
+		},
+		"passé simple": {
+			"je": "contractai",
+			"tu": "contractas",
+			"il/elle": "contracta",
+			"nous": "contractâmes",
+			"vous": "contractâtes",
+			"ils/elles": "contractèrent"
+		},
+		"passé composé": {
+			"j'": "ai contracté",
+			"tu": "as contracté",
+			"il/elle": "a contracté",
+			"nous": "avons contracté",
+			"vous": "avez contracté",
+			"ils/elles": "ont contracté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais contracté",
+			"tu": "avais contracté",
+			"il/elle": "avait contracté",
+			"nous": "avions contracté",
+			"vous": "aviez contracté",
+			"ils/elles": "avaient contracté"
+		},
+		"passé antérieur": {
+			"j'": "eus contracté",
+			"tu": "eus contracté",
+			"il/elle": "eut contracté",
+			"nous": "eûmes contracté",
+			"vous": "eûtes contracté",
+			"ils/elles": "eurent contracté"
+		},
+		"futur antérieur": {
+			"j'": "aurai contracté",
+			"tu": "auras contracté",
+			"il/elle": "aura contracté",
+			"nous": "aurons contracté",
+			"vous": "aurez contracté",
+			"ils/elles": "auront contracté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous contractiez",
+			"qu'il/elle": "contracte",
+			"qu'ils/elles": "contractent"
+		},
+		"imparfait": {
+			"que": "vous contractassiez",
+			"qu'il/elle": "contractât",
+			"qu'ils/elles": "contractassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse contracté",
+			"que": "vous eussiez contracté",
+			"qu'il/elle": "eût contracté",
+			"qu'ils/elles": "eussent contracté"
+		},
+		"passé": {
+			"j'": "aie contracté",
+			"que": "vous ayez contracté",
+			"qu'il/elle": "ait contracté",
+			"qu'ils/elles": "aient contracté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "contracterais",
+			"tu": "contracterais",
+			"il/elle": "contracterait",
+			"nous": "contracterions",
+			"vous": "contracteriez",
+			"ils/elles": "contracteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais contracté",
+			"tu": "aurais contracté",
+			"il/elle": "aurait contracté",
+			"nous": "aurions contracté",
+			"vous": "auriez contracté",
+			"ils/elles": "auraient contracté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse contracté",
+			"tu": "eusses contracté",
+			"il/elle": "eût contracté",
+			"nous": "eussions contracté",
+			"vous": "eussiez contracté",
+			"ils/elles": "eussent contracté"
+		}
+	},
+	"participe": {
+		"présent": { "contractant": "" },
+		"passé composé": { "ayant": "contracté" },
+		"passé": {
+			"masc.sg.:": "contracté",
+			"masc.pl.:": "contractés",
+			"fém.sg.:": "contractée",
+			"fém.pl.:": "contractées"
+		}
+	},
+	"imperatif": {
+		"présent": { "contracte": "", "contractons": "", "contractez": "" },
+		"passé": { "aie": "contracté", "ayons": "contracté", "ayez": "contracté" }
+	},
+	"infinitif": {
+		"présent": { "contracter": "" },
+		"passé": { "avoir": "contracté" }
+	}
+}

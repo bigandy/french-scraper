@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "evolve; change; develop; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas évoluer",
+	"indicatif": {
+		"présent": {
+			"j'": "évolue",
+			"tu": "évolues",
+			"il/elle": "évolue",
+			"nous": "évoluons",
+			"vous": "évoluez",
+			"ils/elles": "évoluent"
+		},
+		"imparfait": {
+			"j'": "évoluais",
+			"tu": "évoluais",
+			"il/elle": "évoluait",
+			"nous": "évoluions",
+			"vous": "évoluiez",
+			"ils/elles": "évoluaient"
+		},
+		"futur": {
+			"j'": "évoluerai",
+			"tu": "évolueras",
+			"il/elle": "évoluera",
+			"nous": "évoluerons",
+			"vous": "évoluerez",
+			"ils/elles": "évolueront"
+		},
+		"passé simple": {
+			"j'": "évoluai",
+			"tu": "évoluas",
+			"il/elle": "évolua",
+			"nous": "évoluâmes",
+			"vous": "évoluâtes",
+			"ils/elles": "évoluèrent"
+		},
+		"passé composé": {
+			"j'": "ai évolué",
+			"tu": "as évolué",
+			"il/elle": "a évolué",
+			"nous": "avons évolué",
+			"vous": "avez évolué",
+			"ils/elles": "ont évolué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais évolué",
+			"tu": "avais évolué",
+			"il/elle": "avait évolué",
+			"nous": "avions évolué",
+			"vous": "aviez évolué",
+			"ils/elles": "avaient évolué"
+		},
+		"passé antérieur": {
+			"j'": "eus évolué",
+			"tu": "eus évolué",
+			"il/elle": "eut évolué",
+			"nous": "eûmes évolué",
+			"vous": "eûtes évolué",
+			"ils/elles": "eurent évolué"
+		},
+		"futur antérieur": {
+			"j'": "aurai évolué",
+			"tu": "auras évolué",
+			"il/elle": "aura évolué",
+			"nous": "aurons évolué",
+			"vous": "aurez évolué",
+			"ils/elles": "auront évolué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "évolue",
+			"que": "vous évoluiez",
+			"qu'il/elle": "évolue",
+			"qu'ils/elles": "évoluent"
+		},
+		"imparfait": {
+			"j'": "évoluasse",
+			"que": "vous évoluassiez",
+			"qu'il/elle": "évoluât",
+			"qu'ils/elles": "évoluassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse évolué",
+			"que": "vous eussiez évolué",
+			"qu'il/elle": "eût évolué",
+			"qu'ils/elles": "eussent évolué"
+		},
+		"passé": {
+			"j'": "aie évolué",
+			"que": "vous ayez évolué",
+			"qu'il/elle": "ait évolué",
+			"qu'ils/elles": "aient évolué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "évoluerais",
+			"tu": "évoluerais",
+			"il/elle": "évoluerait",
+			"nous": "évoluerions",
+			"vous": "évolueriez",
+			"ils/elles": "évolueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais évolué",
+			"tu": "aurais évolué",
+			"il/elle": "aurait évolué",
+			"nous": "aurions évolué",
+			"vous": "auriez évolué",
+			"ils/elles": "auraient évolué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse évolué",
+			"tu": "eusses évolué",
+			"il/elle": "eût évolué",
+			"nous": "eussions évolué",
+			"vous": "eussiez évolué",
+			"ils/elles": "eussent évolué"
+		}
+	},
+	"participe": {
+		"présent": { "évoluant": "" },
+		"passé composé": { "ayant": "évolué" },
+		"passé": {
+			"masc.sg.:": "évolué",
+			"masc.pl.:": "évolués",
+			"fém.sg.:": "évoluée",
+			"fém.pl.:": "évoluées"
+		}
+	},
+	"imperatif": {
+		"présent": { "évolue": "", "évoluons": "", "évoluez": "" },
+		"passé": { "aie": "évolué", "ayons": "évolué", "ayez": "évolué" }
+	},
+	"infinitif": { "présent": { "évoluer": "" }, "passé": { "avoir": "évolué" } }
+}

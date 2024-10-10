@@ -1,0 +1,138 @@
+{
+	"name": "protéger",
+	"definition": "trap; frame; trick; ...",
+	"model": "protéger",
+	"auxiliary": "avoir",
+	"otherForms": "se piéger/ne pas piéger/ne pas se piéger",
+	"indicatif": {
+		"présent": {
+			"je": "piège",
+			"tu": "pièges",
+			"il/elle": "piège",
+			"nous": "piégeons",
+			"vous": "piégez",
+			"ils/elles": "piègent"
+		},
+		"imparfait": {
+			"je": "piégeais",
+			"tu": "piégeais",
+			"il/elle": "piégeait",
+			"nous": "piégions",
+			"vous": "piégiez",
+			"ils/elles": "piégeaient"
+		},
+		"futur": {
+			"je": "piégerai",
+			"tu": "piégeras",
+			"il/elle": "piégera",
+			"nous": "piégerons",
+			"vous": "piégerez",
+			"ils/elles": "piégeront"
+		},
+		"passé simple": {
+			"je": "piégeai",
+			"tu": "piégeas",
+			"il/elle": "piégea",
+			"nous": "piégeâmes",
+			"vous": "piégeâtes",
+			"ils/elles": "piégèrent"
+		},
+		"passé composé": {
+			"j'": "ai piégé",
+			"tu": "as piégé",
+			"il/elle": "a piégé",
+			"nous": "avons piégé",
+			"vous": "avez piégé",
+			"ils/elles": "ont piégé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais piégé",
+			"tu": "avais piégé",
+			"il/elle": "avait piégé",
+			"nous": "avions piégé",
+			"vous": "aviez piégé",
+			"ils/elles": "avaient piégé"
+		},
+		"passé antérieur": {
+			"j'": "eus piégé",
+			"tu": "eus piégé",
+			"il/elle": "eut piégé",
+			"nous": "eûmes piégé",
+			"vous": "eûtes piégé",
+			"ils/elles": "eurent piégé"
+		},
+		"futur antérieur": {
+			"j'": "aurai piégé",
+			"tu": "auras piégé",
+			"il/elle": "aura piégé",
+			"nous": "aurons piégé",
+			"vous": "aurez piégé",
+			"ils/elles": "auront piégé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous piégiez",
+			"qu'il/elle": "piège",
+			"qu'ils/elles": "piègent"
+		},
+		"imparfait": {
+			"que": "vous piégeassiez",
+			"qu'il/elle": "piégeât",
+			"qu'ils/elles": "piégeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse piégé",
+			"que": "vous eussiez piégé",
+			"qu'il/elle": "eût piégé",
+			"qu'ils/elles": "eussent piégé"
+		},
+		"passé": {
+			"j'": "aie piégé",
+			"que": "vous ayez piégé",
+			"qu'il/elle": "ait piégé",
+			"qu'ils/elles": "aient piégé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "piégerais",
+			"tu": "piégerais",
+			"il/elle": "piégerait",
+			"nous": "piégerions",
+			"vous": "piégeriez",
+			"ils/elles": "piégeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais piégé",
+			"tu": "aurais piégé",
+			"il/elle": "aurait piégé",
+			"nous": "aurions piégé",
+			"vous": "auriez piégé",
+			"ils/elles": "auraient piégé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse piégé",
+			"tu": "eusses piégé",
+			"il/elle": "eût piégé",
+			"nous": "eussions piégé",
+			"vous": "eussiez piégé",
+			"ils/elles": "eussent piégé"
+		}
+	},
+	"participe": {
+		"présent": { "piégeant": "" },
+		"passé composé": { "ayant": "piégé" },
+		"passé": {
+			"masc.sg.:": "piégé",
+			"masc.pl.:": "piégés",
+			"fém.sg.:": "piégée",
+			"fém.pl.:": "piégées"
+		}
+	},
+	"imperatif": {
+		"présent": { "piège": "", "piégeons": "", "piégez": "" },
+		"passé": { "aie": "piégé", "ayons": "piégé", "ayez": "piégé" }
+	},
+	"infinitif": { "présent": { "piéger": "" }, "passé": { "avoir": "piégé" } }
+}

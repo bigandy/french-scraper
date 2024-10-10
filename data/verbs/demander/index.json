@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "ask; request; ask for; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se demander/ne pas demander/ne pas se demander",
+	"indicatif": {
+		"présent": {
+			"je": "demande",
+			"tu": "demandes",
+			"il/elle": "demande",
+			"nous": "demandons",
+			"vous": "demandez",
+			"ils/elles": "demandent"
+		},
+		"imparfait": {
+			"je": "demandais",
+			"tu": "demandais",
+			"il/elle": "demandait",
+			"nous": "demandions",
+			"vous": "demandiez",
+			"ils/elles": "demandaient"
+		},
+		"futur": {
+			"je": "demanderai",
+			"tu": "demanderas",
+			"il/elle": "demandera",
+			"nous": "demanderons",
+			"vous": "demanderez",
+			"ils/elles": "demanderont"
+		},
+		"passé simple": {
+			"je": "demandai",
+			"tu": "demandas",
+			"il/elle": "demanda",
+			"nous": "demandâmes",
+			"vous": "demandâtes",
+			"ils/elles": "demandèrent"
+		},
+		"passé composé": {
+			"j'": "ai demandé",
+			"tu": "as demandé",
+			"il/elle": "a demandé",
+			"nous": "avons demandé",
+			"vous": "avez demandé",
+			"ils/elles": "ont demandé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais demandé",
+			"tu": "avais demandé",
+			"il/elle": "avait demandé",
+			"nous": "avions demandé",
+			"vous": "aviez demandé",
+			"ils/elles": "avaient demandé"
+		},
+		"passé antérieur": {
+			"j'": "eus demandé",
+			"tu": "eus demandé",
+			"il/elle": "eut demandé",
+			"nous": "eûmes demandé",
+			"vous": "eûtes demandé",
+			"ils/elles": "eurent demandé"
+		},
+		"futur antérieur": {
+			"j'": "aurai demandé",
+			"tu": "auras demandé",
+			"il/elle": "aura demandé",
+			"nous": "aurons demandé",
+			"vous": "aurez demandé",
+			"ils/elles": "auront demandé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous demandiez",
+			"qu'il/elle": "demande",
+			"qu'ils/elles": "demandent"
+		},
+		"imparfait": {
+			"que": "vous demandassiez",
+			"qu'il/elle": "demandât",
+			"qu'ils/elles": "demandassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse demandé",
+			"que": "vous eussiez demandé",
+			"qu'il/elle": "eût demandé",
+			"qu'ils/elles": "eussent demandé"
+		},
+		"passé": {
+			"j'": "aie demandé",
+			"que": "vous ayez demandé",
+			"qu'il/elle": "ait demandé",
+			"qu'ils/elles": "aient demandé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "demanderais",
+			"tu": "demanderais",
+			"il/elle": "demanderait",
+			"nous": "demanderions",
+			"vous": "demanderiez",
+			"ils/elles": "demanderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais demandé",
+			"tu": "aurais demandé",
+			"il/elle": "aurait demandé",
+			"nous": "aurions demandé",
+			"vous": "auriez demandé",
+			"ils/elles": "auraient demandé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse demandé",
+			"tu": "eusses demandé",
+			"il/elle": "eût demandé",
+			"nous": "eussions demandé",
+			"vous": "eussiez demandé",
+			"ils/elles": "eussent demandé"
+		}
+	},
+	"participe": {
+		"présent": { "demandant": "" },
+		"passé composé": { "ayant": "demandé" },
+		"passé": {
+			"masc.sg.:": "demandé",
+			"masc.pl.:": "demandés",
+			"fém.sg.:": "demandée",
+			"fém.pl.:": "demandées"
+		}
+	},
+	"imperatif": {
+		"présent": { "demande": "", "demandons": "", "demandez": "" },
+		"passé": { "aie": "demandé", "ayons": "demandé", "ayez": "demandé" }
+	},
+	"infinitif": {
+		"présent": { "demander": "" },
+		"passé": { "avoir": "demandé" }
+	}
+}

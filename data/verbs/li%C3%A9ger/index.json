@@ -1,0 +1,138 @@
+{
+	"name": "protéger",
+	"definition": "",
+	"model": "protéger",
+	"auxiliary": "avoir",
+	"otherForms": "se liéger/ne pas liéger/ne pas se liéger",
+	"indicatif": {
+		"présent": {
+			"je": "liège",
+			"tu": "lièges",
+			"il/elle": "liège",
+			"nous": "liégeons",
+			"vous": "liégez",
+			"ils/elles": "liègent"
+		},
+		"imparfait": {
+			"je": "liégeais",
+			"tu": "liégeais",
+			"il/elle": "liégeait",
+			"nous": "liégions",
+			"vous": "liégiez",
+			"ils/elles": "liégeaient"
+		},
+		"futur": {
+			"je": "liégerai",
+			"tu": "liégeras",
+			"il/elle": "liégera",
+			"nous": "liégerons",
+			"vous": "liégerez",
+			"ils/elles": "liégeront"
+		},
+		"passé simple": {
+			"je": "liégeai",
+			"tu": "liégeas",
+			"il/elle": "liégea",
+			"nous": "liégeâmes",
+			"vous": "liégeâtes",
+			"ils/elles": "liégèrent"
+		},
+		"passé composé": {
+			"j'": "ai liégé",
+			"tu": "as liégé",
+			"il/elle": "a liégé",
+			"nous": "avons liégé",
+			"vous": "avez liégé",
+			"ils/elles": "ont liégé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais liégé",
+			"tu": "avais liégé",
+			"il/elle": "avait liégé",
+			"nous": "avions liégé",
+			"vous": "aviez liégé",
+			"ils/elles": "avaient liégé"
+		},
+		"passé antérieur": {
+			"j'": "eus liégé",
+			"tu": "eus liégé",
+			"il/elle": "eut liégé",
+			"nous": "eûmes liégé",
+			"vous": "eûtes liégé",
+			"ils/elles": "eurent liégé"
+		},
+		"futur antérieur": {
+			"j'": "aurai liégé",
+			"tu": "auras liégé",
+			"il/elle": "aura liégé",
+			"nous": "aurons liégé",
+			"vous": "aurez liégé",
+			"ils/elles": "auront liégé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous liégiez",
+			"qu'il/elle": "liège",
+			"qu'ils/elles": "liègent"
+		},
+		"imparfait": {
+			"que": "vous liégeassiez",
+			"qu'il/elle": "liégeât",
+			"qu'ils/elles": "liégeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse liégé",
+			"que": "vous eussiez liégé",
+			"qu'il/elle": "eût liégé",
+			"qu'ils/elles": "eussent liégé"
+		},
+		"passé": {
+			"j'": "aie liégé",
+			"que": "vous ayez liégé",
+			"qu'il/elle": "ait liégé",
+			"qu'ils/elles": "aient liégé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "liégerais",
+			"tu": "liégerais",
+			"il/elle": "liégerait",
+			"nous": "liégerions",
+			"vous": "liégeriez",
+			"ils/elles": "liégeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais liégé",
+			"tu": "aurais liégé",
+			"il/elle": "aurait liégé",
+			"nous": "aurions liégé",
+			"vous": "auriez liégé",
+			"ils/elles": "auraient liégé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse liégé",
+			"tu": "eusses liégé",
+			"il/elle": "eût liégé",
+			"nous": "eussions liégé",
+			"vous": "eussiez liégé",
+			"ils/elles": "eussent liégé"
+		}
+	},
+	"participe": {
+		"présent": { "liégeant": "" },
+		"passé composé": { "ayant": "liégé" },
+		"passé": {
+			"masc.sg.:": "liégé",
+			"masc.pl.:": "liégés",
+			"fém.sg.:": "liégée",
+			"fém.pl.:": "liégées"
+		}
+	},
+	"imperatif": {
+		"présent": { "liège": "", "liégeons": "", "liégez": "" },
+		"passé": { "aie": "liégé", "ayons": "liégé", "ayez": "liégé" }
+	},
+	"infinitif": { "présent": { "liéger": "" }, "passé": { "avoir": "liégé" } }
+}

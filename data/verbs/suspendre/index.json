@@ -1,0 +1,141 @@
+{
+	"name": "attendre",
+	"definition": "suspend; hang; ...",
+	"model": "attendre",
+	"auxiliary": "avoir",
+	"otherForms": "se suspendre/ne pas suspendre/ne pas se suspendre",
+	"indicatif": {
+		"présent": {
+			"je": "suspends",
+			"tu": "suspends",
+			"il/elle": "suspend",
+			"nous": "suspendons",
+			"vous": "suspendez",
+			"ils/elles": "suspendent"
+		},
+		"imparfait": {
+			"je": "suspendais",
+			"tu": "suspendais",
+			"il/elle": "suspendait",
+			"nous": "suspendions",
+			"vous": "suspendiez",
+			"ils/elles": "suspendaient"
+		},
+		"futur": {
+			"je": "suspendrai",
+			"tu": "suspendras",
+			"il/elle": "suspendra",
+			"nous": "suspendrons",
+			"vous": "suspendrez",
+			"ils/elles": "suspendront"
+		},
+		"passé simple": {
+			"je": "suspendis",
+			"tu": "suspendis",
+			"il/elle": "suspendit",
+			"nous": "suspendîmes",
+			"vous": "suspendîtes",
+			"ils/elles": "suspendirent"
+		},
+		"passé composé": {
+			"j'": "ai suspendu",
+			"tu": "as suspendu",
+			"il/elle": "a suspendu",
+			"nous": "avons suspendu",
+			"vous": "avez suspendu",
+			"ils/elles": "ont suspendu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais suspendu",
+			"tu": "avais suspendu",
+			"il/elle": "avait suspendu",
+			"nous": "avions suspendu",
+			"vous": "aviez suspendu",
+			"ils/elles": "avaient suspendu"
+		},
+		"passé antérieur": {
+			"j'": "eus suspendu",
+			"tu": "eus suspendu",
+			"il/elle": "eut suspendu",
+			"nous": "eûmes suspendu",
+			"vous": "eûtes suspendu",
+			"ils/elles": "eurent suspendu"
+		},
+		"futur antérieur": {
+			"j'": "aurai suspendu",
+			"tu": "auras suspendu",
+			"il/elle": "aura suspendu",
+			"nous": "aurons suspendu",
+			"vous": "aurez suspendu",
+			"ils/elles": "auront suspendu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous suspendiez",
+			"qu'il/elle": "suspende",
+			"qu'ils/elles": "suspendent"
+		},
+		"imparfait": {
+			"que": "vous suspendissiez",
+			"qu'il/elle": "suspendît",
+			"qu'ils/elles": "suspendissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse suspendu",
+			"que": "vous eussiez suspendu",
+			"qu'il/elle": "eût suspendu",
+			"qu'ils/elles": "eussent suspendu"
+		},
+		"passé": {
+			"j'": "aie suspendu",
+			"que": "vous ayez suspendu",
+			"qu'il/elle": "ait suspendu",
+			"qu'ils/elles": "aient suspendu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "suspendrais",
+			"tu": "suspendrais",
+			"il/elle": "suspendrait",
+			"nous": "suspendrions",
+			"vous": "suspendriez",
+			"ils/elles": "suspendraient"
+		},
+		"passé première forme": {
+			"j'": "aurais suspendu",
+			"tu": "aurais suspendu",
+			"il/elle": "aurait suspendu",
+			"nous": "aurions suspendu",
+			"vous": "auriez suspendu",
+			"ils/elles": "auraient suspendu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse suspendu",
+			"tu": "eusses suspendu",
+			"il/elle": "eût suspendu",
+			"nous": "eussions suspendu",
+			"vous": "eussiez suspendu",
+			"ils/elles": "eussent suspendu"
+		}
+	},
+	"participe": {
+		"présent": { "suspendant": "" },
+		"passé composé": { "ayant": "suspendu" },
+		"passé": {
+			"masc.sg.:": "suspendu",
+			"masc.pl.:": "suspendus",
+			"fém.sg.:": "suspendue",
+			"fém.pl.:": "suspendues"
+		}
+	},
+	"imperatif": {
+		"présent": { "suspends": "", "suspendons": "", "suspendez": "" },
+		"passé": { "aie": "suspendu", "ayons": "suspendu", "ayez": "suspendu" }
+	},
+	"infinitif": {
+		"présent": { "suspendre": "" },
+		"passé": { "avoir": "suspendu" }
+	}
+}

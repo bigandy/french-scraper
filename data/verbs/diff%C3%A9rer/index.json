@@ -1,0 +1,141 @@
+{
+	"name": "aérer",
+	"definition": "differ; defer; postpone; ...",
+	"model": "aérer",
+	"auxiliary": "avoir",
+	"otherForms": "se différer/ne pas différer/ne pas se différer",
+	"indicatif": {
+		"présent": {
+			"je": "diffère",
+			"tu": "diffères",
+			"il/elle": "diffère",
+			"nous": "différons",
+			"vous": "différez",
+			"ils/elles": "diffèrent"
+		},
+		"imparfait": {
+			"je": "différais",
+			"tu": "différais",
+			"il/elle": "différait",
+			"nous": "différions",
+			"vous": "différiez",
+			"ils/elles": "différaient"
+		},
+		"futur": {
+			"je": "différerai",
+			"tu": "différeras",
+			"il/elle": "différera",
+			"nous": "différerons",
+			"vous": "différerez",
+			"ils/elles": "différeront"
+		},
+		"passé simple": {
+			"je": "différai",
+			"tu": "différas",
+			"il/elle": "différa",
+			"nous": "différâmes",
+			"vous": "différâtes",
+			"ils/elles": "différèrent"
+		},
+		"passé composé": {
+			"j'": "ai différé",
+			"tu": "as différé",
+			"il/elle": "a différé",
+			"nous": "avons différé",
+			"vous": "avez différé",
+			"ils/elles": "ont différé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais différé",
+			"tu": "avais différé",
+			"il/elle": "avait différé",
+			"nous": "avions différé",
+			"vous": "aviez différé",
+			"ils/elles": "avaient différé"
+		},
+		"passé antérieur": {
+			"j'": "eus différé",
+			"tu": "eus différé",
+			"il/elle": "eut différé",
+			"nous": "eûmes différé",
+			"vous": "eûtes différé",
+			"ils/elles": "eurent différé"
+		},
+		"futur antérieur": {
+			"j'": "aurai différé",
+			"tu": "auras différé",
+			"il/elle": "aura différé",
+			"nous": "aurons différé",
+			"vous": "aurez différé",
+			"ils/elles": "auront différé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous différiez",
+			"qu'il/elle": "diffère",
+			"qu'ils/elles": "diffèrent"
+		},
+		"imparfait": {
+			"que": "vous différassiez",
+			"qu'il/elle": "différât",
+			"qu'ils/elles": "différassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse différé",
+			"que": "vous eussiez différé",
+			"qu'il/elle": "eût différé",
+			"qu'ils/elles": "eussent différé"
+		},
+		"passé": {
+			"j'": "aie différé",
+			"que": "vous ayez différé",
+			"qu'il/elle": "ait différé",
+			"qu'ils/elles": "aient différé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "différerais",
+			"tu": "différerais",
+			"il/elle": "différerait",
+			"nous": "différerions",
+			"vous": "différeriez",
+			"ils/elles": "différeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais différé",
+			"tu": "aurais différé",
+			"il/elle": "aurait différé",
+			"nous": "aurions différé",
+			"vous": "auriez différé",
+			"ils/elles": "auraient différé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse différé",
+			"tu": "eusses différé",
+			"il/elle": "eût différé",
+			"nous": "eussions différé",
+			"vous": "eussiez différé",
+			"ils/elles": "eussent différé"
+		}
+	},
+	"participe": {
+		"présent": { "différant": "" },
+		"passé composé": { "ayant": "différé" },
+		"passé": {
+			"masc.sg.:": "différé",
+			"masc.pl.:": "différés",
+			"fém.sg.:": "différée",
+			"fém.pl.:": "différées"
+		}
+	},
+	"imperatif": {
+		"présent": { "diffère": "", "différons": "", "différez": "" },
+		"passé": { "aie": "différé", "ayons": "différé", "ayez": "différé" }
+	},
+	"infinitif": {
+		"présent": { "différer": "" },
+		"passé": { "avoir": "différé" }
+	}
+}

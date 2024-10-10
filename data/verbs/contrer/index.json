@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "counter; counteract; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se contrer/ne pas contrer/ne pas se contrer",
+	"indicatif": {
+		"présent": {
+			"je": "contre",
+			"tu": "contres",
+			"il/elle": "contre",
+			"nous": "controns",
+			"vous": "contrez",
+			"ils/elles": "contrent"
+		},
+		"imparfait": {
+			"je": "contrais",
+			"tu": "contrais",
+			"il/elle": "contrait",
+			"nous": "contrions",
+			"vous": "contriez",
+			"ils/elles": "contraient"
+		},
+		"futur": {
+			"je": "contrerai",
+			"tu": "contreras",
+			"il/elle": "contrera",
+			"nous": "contrerons",
+			"vous": "contrerez",
+			"ils/elles": "contreront"
+		},
+		"passé simple": {
+			"je": "contrai",
+			"tu": "contras",
+			"il/elle": "contra",
+			"nous": "contrâmes",
+			"vous": "contrâtes",
+			"ils/elles": "contrèrent"
+		},
+		"passé composé": {
+			"j'": "ai contré",
+			"tu": "as contré",
+			"il/elle": "a contré",
+			"nous": "avons contré",
+			"vous": "avez contré",
+			"ils/elles": "ont contré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais contré",
+			"tu": "avais contré",
+			"il/elle": "avait contré",
+			"nous": "avions contré",
+			"vous": "aviez contré",
+			"ils/elles": "avaient contré"
+		},
+		"passé antérieur": {
+			"j'": "eus contré",
+			"tu": "eus contré",
+			"il/elle": "eut contré",
+			"nous": "eûmes contré",
+			"vous": "eûtes contré",
+			"ils/elles": "eurent contré"
+		},
+		"futur antérieur": {
+			"j'": "aurai contré",
+			"tu": "auras contré",
+			"il/elle": "aura contré",
+			"nous": "aurons contré",
+			"vous": "aurez contré",
+			"ils/elles": "auront contré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous contriez",
+			"qu'il/elle": "contre",
+			"qu'ils/elles": "contrent"
+		},
+		"imparfait": {
+			"que": "vous contrassiez",
+			"qu'il/elle": "contrât",
+			"qu'ils/elles": "contrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse contré",
+			"que": "vous eussiez contré",
+			"qu'il/elle": "eût contré",
+			"qu'ils/elles": "eussent contré"
+		},
+		"passé": {
+			"j'": "aie contré",
+			"que": "vous ayez contré",
+			"qu'il/elle": "ait contré",
+			"qu'ils/elles": "aient contré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "contrerais",
+			"tu": "contrerais",
+			"il/elle": "contrerait",
+			"nous": "contrerions",
+			"vous": "contreriez",
+			"ils/elles": "contreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais contré",
+			"tu": "aurais contré",
+			"il/elle": "aurait contré",
+			"nous": "aurions contré",
+			"vous": "auriez contré",
+			"ils/elles": "auraient contré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse contré",
+			"tu": "eusses contré",
+			"il/elle": "eût contré",
+			"nous": "eussions contré",
+			"vous": "eussiez contré",
+			"ils/elles": "eussent contré"
+		}
+	},
+	"participe": {
+		"présent": { "contrant": "" },
+		"passé composé": { "ayant": "contré" },
+		"passé": {
+			"masc.sg.:": "contré",
+			"masc.pl.:": "contrés",
+			"fém.sg.:": "contrée",
+			"fém.pl.:": "contrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "contre": "", "controns": "", "contrez": "" },
+		"passé": { "aie": "contré", "ayons": "contré", "ayez": "contré" }
+	},
+	"infinitif": { "présent": { "contrer": "" }, "passé": { "avoir": "contré" } }
+}

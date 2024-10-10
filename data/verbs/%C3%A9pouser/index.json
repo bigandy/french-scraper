@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "marry; conform to; wed; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'épouser/ne pas épouser/ne pas s'épouser",
+	"indicatif": {
+		"présent": {
+			"j'": "épouse",
+			"tu": "épouses",
+			"il/elle": "épouse",
+			"nous": "épousons",
+			"vous": "épousez",
+			"ils/elles": "épousent"
+		},
+		"imparfait": {
+			"j'": "épousais",
+			"tu": "épousais",
+			"il/elle": "épousait",
+			"nous": "épousions",
+			"vous": "épousiez",
+			"ils/elles": "épousaient"
+		},
+		"futur": {
+			"j'": "épouserai",
+			"tu": "épouseras",
+			"il/elle": "épousera",
+			"nous": "épouserons",
+			"vous": "épouserez",
+			"ils/elles": "épouseront"
+		},
+		"passé simple": {
+			"j'": "épousai",
+			"tu": "épousas",
+			"il/elle": "épousa",
+			"nous": "épousâmes",
+			"vous": "épousâtes",
+			"ils/elles": "épousèrent"
+		},
+		"passé composé": {
+			"j'": "ai épousé",
+			"tu": "as épousé",
+			"il/elle": "a épousé",
+			"nous": "avons épousé",
+			"vous": "avez épousé",
+			"ils/elles": "ont épousé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais épousé",
+			"tu": "avais épousé",
+			"il/elle": "avait épousé",
+			"nous": "avions épousé",
+			"vous": "aviez épousé",
+			"ils/elles": "avaient épousé"
+		},
+		"passé antérieur": {
+			"j'": "eus épousé",
+			"tu": "eus épousé",
+			"il/elle": "eut épousé",
+			"nous": "eûmes épousé",
+			"vous": "eûtes épousé",
+			"ils/elles": "eurent épousé"
+		},
+		"futur antérieur": {
+			"j'": "aurai épousé",
+			"tu": "auras épousé",
+			"il/elle": "aura épousé",
+			"nous": "aurons épousé",
+			"vous": "aurez épousé",
+			"ils/elles": "auront épousé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "épouse",
+			"que": "vous épousiez",
+			"qu'il/elle": "épouse",
+			"qu'ils/elles": "épousent"
+		},
+		"imparfait": {
+			"j'": "épousasse",
+			"que": "vous épousassiez",
+			"qu'il/elle": "épousât",
+			"qu'ils/elles": "épousassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse épousé",
+			"que": "vous eussiez épousé",
+			"qu'il/elle": "eût épousé",
+			"qu'ils/elles": "eussent épousé"
+		},
+		"passé": {
+			"j'": "aie épousé",
+			"que": "vous ayez épousé",
+			"qu'il/elle": "ait épousé",
+			"qu'ils/elles": "aient épousé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "épouserais",
+			"tu": "épouserais",
+			"il/elle": "épouserait",
+			"nous": "épouserions",
+			"vous": "épouseriez",
+			"ils/elles": "épouseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais épousé",
+			"tu": "aurais épousé",
+			"il/elle": "aurait épousé",
+			"nous": "aurions épousé",
+			"vous": "auriez épousé",
+			"ils/elles": "auraient épousé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse épousé",
+			"tu": "eusses épousé",
+			"il/elle": "eût épousé",
+			"nous": "eussions épousé",
+			"vous": "eussiez épousé",
+			"ils/elles": "eussent épousé"
+		}
+	},
+	"participe": {
+		"présent": { "épousant": "" },
+		"passé composé": { "ayant": "épousé" },
+		"passé": {
+			"masc.sg.:": "épousé",
+			"masc.pl.:": "épousés",
+			"fém.sg.:": "épousée",
+			"fém.pl.:": "épousées"
+		}
+	},
+	"imperatif": {
+		"présent": { "épouse": "", "épousons": "", "épousez": "" },
+		"passé": { "aie": "épousé", "ayons": "épousé", "ayez": "épousé" }
+	},
+	"infinitif": { "présent": { "épouser": "" }, "passé": { "avoir": "épousé" } }
+}

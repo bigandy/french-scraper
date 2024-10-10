@@ -1,0 +1,35 @@
+{
+	"name": "pleuvoir",
+	"definition": "rain; rain down; pour; ...",
+	"model": "pleuvoir",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas pleuvoir",
+	"indicatif": {
+		"présent": { "il": "pleut" },
+		"imparfait": { "il": "pleuvait" },
+		"futur": { "il": "pleuvra" },
+		"passé simple": { "il": "plut" },
+		"passé composé": { "il": "a plu" },
+		"plus-que-parfait": { "il": "avait plu" },
+		"passé antérieur": { "il": "eut plu" },
+		"futur antérieur": { "il": "aura plu" }
+	},
+	"subjonctif": {
+		"présent": { "qu'il": "pleuve" },
+		"imparfait": { "qu'il": "plût" },
+		"plus-que-parfait": { "qu'il": "eût plu" },
+		"passé": { "qu'il": "ait plu" }
+	},
+	"conditionnel": {
+		"présent": { "il": "pleuvrait" },
+		"passé première forme": { "il": "aurait plu" },
+		"passé deuxième forme": { "il": "eût plu" }
+	},
+	"participe": {
+		"présent": { "pleuvant": "" },
+		"passé composé": {},
+		"passé": { "plu": "" }
+	},
+	"imperatif": { "présent": {}, "passé": {} },
+	"infinitif": { "présent": { "pleuvoir": "" }, "passé": { "avoir": "plu" } }
+}

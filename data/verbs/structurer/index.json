@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "structure; organize; organise; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se structurer/ne pas structurer/ne pas se structurer",
+	"indicatif": {
+		"présent": {
+			"je": "structure",
+			"tu": "structures",
+			"il/elle": "structure",
+			"nous": "structurons",
+			"vous": "structurez",
+			"ils/elles": "structurent"
+		},
+		"imparfait": {
+			"je": "structurais",
+			"tu": "structurais",
+			"il/elle": "structurait",
+			"nous": "structurions",
+			"vous": "structuriez",
+			"ils/elles": "structuraient"
+		},
+		"futur": {
+			"je": "structurerai",
+			"tu": "structureras",
+			"il/elle": "structurera",
+			"nous": "structurerons",
+			"vous": "structurerez",
+			"ils/elles": "structureront"
+		},
+		"passé simple": {
+			"je": "structurai",
+			"tu": "structuras",
+			"il/elle": "structura",
+			"nous": "structurâmes",
+			"vous": "structurâtes",
+			"ils/elles": "structurèrent"
+		},
+		"passé composé": {
+			"j'": "ai structuré",
+			"tu": "as structuré",
+			"il/elle": "a structuré",
+			"nous": "avons structuré",
+			"vous": "avez structuré",
+			"ils/elles": "ont structuré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais structuré",
+			"tu": "avais structuré",
+			"il/elle": "avait structuré",
+			"nous": "avions structuré",
+			"vous": "aviez structuré",
+			"ils/elles": "avaient structuré"
+		},
+		"passé antérieur": {
+			"j'": "eus structuré",
+			"tu": "eus structuré",
+			"il/elle": "eut structuré",
+			"nous": "eûmes structuré",
+			"vous": "eûtes structuré",
+			"ils/elles": "eurent structuré"
+		},
+		"futur antérieur": {
+			"j'": "aurai structuré",
+			"tu": "auras structuré",
+			"il/elle": "aura structuré",
+			"nous": "aurons structuré",
+			"vous": "aurez structuré",
+			"ils/elles": "auront structuré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous structuriez",
+			"qu'il/elle": "structure",
+			"qu'ils/elles": "structurent"
+		},
+		"imparfait": {
+			"que": "vous structurassiez",
+			"qu'il/elle": "structurât",
+			"qu'ils/elles": "structurassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse structuré",
+			"que": "vous eussiez structuré",
+			"qu'il/elle": "eût structuré",
+			"qu'ils/elles": "eussent structuré"
+		},
+		"passé": {
+			"j'": "aie structuré",
+			"que": "vous ayez structuré",
+			"qu'il/elle": "ait structuré",
+			"qu'ils/elles": "aient structuré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "structurerais",
+			"tu": "structurerais",
+			"il/elle": "structurerait",
+			"nous": "structurerions",
+			"vous": "structureriez",
+			"ils/elles": "structureraient"
+		},
+		"passé première forme": {
+			"j'": "aurais structuré",
+			"tu": "aurais structuré",
+			"il/elle": "aurait structuré",
+			"nous": "aurions structuré",
+			"vous": "auriez structuré",
+			"ils/elles": "auraient structuré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse structuré",
+			"tu": "eusses structuré",
+			"il/elle": "eût structuré",
+			"nous": "eussions structuré",
+			"vous": "eussiez structuré",
+			"ils/elles": "eussent structuré"
+		}
+	},
+	"participe": {
+		"présent": { "structurant": "" },
+		"passé composé": { "ayant": "structuré" },
+		"passé": {
+			"masc.sg.:": "structuré",
+			"masc.pl.:": "structurés",
+			"fém.sg.:": "structurée",
+			"fém.pl.:": "structurées"
+		}
+	},
+	"imperatif": {
+		"présent": { "structure": "", "structurons": "", "structurez": "" },
+		"passé": { "aie": "structuré", "ayons": "structuré", "ayez": "structuré" }
+	},
+	"infinitif": {
+		"présent": { "structurer": "" },
+		"passé": { "avoir": "structuré" }
+	}
+}

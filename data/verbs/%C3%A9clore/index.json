@@ -1,0 +1,151 @@
+{
+	"name": "éclore",
+	"definition": "hatch; bloom; blossom; ...",
+	"model": "éclore",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "ne pas éclore",
+	"indicatif": {
+		"présent": { "il/elle": "éclot", "ils/elles": "éclosent" },
+		"imparfait": {},
+		"futur": { "il/elle": "éclora", "ils/elles": "écloront" },
+		"passé simple": {},
+		"passé composé": {
+			"j'": "ai éclos",
+			"tu": "es éclos",
+			"il/elle": "a éclos",
+			"nous": "sommes éclos",
+			"vous": "êtes éclos",
+			"ils/elles": "ont éclos",
+			"": "",
+			"je": "suis éclos",
+			"il": "est éclos",
+			"elle": "est éclose",
+			"ils": "sont éclos",
+			"elles": "sont écloses"
+		},
+		"plus-que-parfait": {
+			"j'": "étais éclos",
+			"tu": "étais éclos",
+			"il/elle": "avait éclos",
+			"nous": "étions éclos",
+			"vous": "étiez éclos",
+			"ils/elles": "avaient éclos",
+			"": "",
+			"il": "était éclos",
+			"elle": "était éclose",
+			"ils": "étaient éclos",
+			"elles": "étaient écloses"
+		},
+		"passé antérieur": {
+			"j'": "eus éclos",
+			"tu": "fus éclos",
+			"il/elle": "eut éclos",
+			"nous": "fûmes éclos",
+			"vous": "fûtes éclos",
+			"ils/elles": "eurent éclos",
+			"": "",
+			"je": "fus éclos",
+			"il": "fut éclos",
+			"elle": "fut éclose",
+			"ils": "furent éclos",
+			"elles": "furent écloses"
+		},
+		"futur antérieur": {
+			"j'": "aurai éclos",
+			"tu": "seras éclos",
+			"il/elle": "aura éclos",
+			"nous": "serons éclos",
+			"vous": "serez éclos",
+			"ils/elles": "auront éclos",
+			"": "",
+			"je": "serai éclos",
+			"il": "sera éclos",
+			"elle": "sera éclose",
+			"ils": "seront éclos",
+			"elles": "seront écloses"
+		}
+	},
+	"subjonctif": {
+		"présent": { "qu'il/elle": "éclose", "qu'ils/elles": "éclosent" },
+		"imparfait": {},
+		"plus-que-parfait": {
+			"j'": "eusse éclos",
+			"que": "vous fussiez éclos",
+			"qu'il/elle": "eût éclos",
+			"qu'ils/elles": "eussent éclos",
+			"": "",
+			"qu'il": "fût éclos",
+			"qu'elle": "fût éclose",
+			"qu'ils": "fussent éclos",
+			"qu'elles": "fussent écloses"
+		},
+		"passé": {
+			"j'": "aie éclos",
+			"que": "vous soyez éclos",
+			"qu'il/elle": "ait éclos",
+			"qu'ils/elles": "aient éclos",
+			"": "",
+			"qu'il": "soit éclos",
+			"qu'elle": "soit éclose",
+			"qu'ils": "soient éclos",
+			"qu'elles": "soient écloses"
+		}
+	},
+	"conditionnel": {
+		"présent": { "il/elle": "éclorait", "ils/elles": "écloraient" },
+		"passé première forme": {
+			"j'": "aurais éclos",
+			"tu": "serais éclos",
+			"il/elle": "aurait éclos",
+			"nous": "serions éclos",
+			"vous": "seriez éclos",
+			"ils/elles": "auraient éclos",
+			"": "",
+			"je": "serais éclos",
+			"il": "serait éclos",
+			"elle": "serait éclose",
+			"ils": "seraient éclos",
+			"elles": "seraient écloses"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse éclos",
+			"tu": "fusses éclos",
+			"il/elle": "eût éclos",
+			"nous": "fussions éclos",
+			"vous": "fussiez éclos",
+			"ils/elles": "eussent éclos",
+			"": "",
+			"je": "fusse éclos",
+			"il": "fût éclos",
+			"elle": "fût éclose",
+			"ils": "fussent éclos",
+			"elles": "fussent écloses"
+		}
+	},
+	"participe": {
+		"présent": { "éclosant": "" },
+		"passé composé": { "ayant": "éclos", "": "", "étant": "éclose" },
+		"passé": {
+			"masc.sg.:": "éclos",
+			"masc.pl.:": "éclos",
+			"fém.sg.:": "éclose",
+			"fém.pl.:": "écloses"
+		}
+	},
+	"imperatif": {
+		"présent": { "éclos": "" },
+		"passé": {
+			"aie": "éclos",
+			"ayons": "éclos",
+			"ayez": "éclos",
+			"": "",
+			"sois": "éclos",
+			"soyons": "éclos",
+			"soyez": "éclos"
+		}
+	},
+	"infinitif": {
+		"présent": { "éclore": "" },
+		"passé": { "avoir": "éclos", "": "", "être": "éclos" }
+	}
+}

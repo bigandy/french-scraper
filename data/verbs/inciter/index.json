@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "encourage; incite; induce; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'inciter/ne pas inciter/ne pas s'inciter",
+	"indicatif": {
+		"présent": {
+			"j'": "incite",
+			"tu": "incites",
+			"il/elle": "incite",
+			"nous": "incitons",
+			"vous": "incitez",
+			"ils/elles": "incitent"
+		},
+		"imparfait": {
+			"j'": "incitais",
+			"tu": "incitais",
+			"il/elle": "incitait",
+			"nous": "incitions",
+			"vous": "incitiez",
+			"ils/elles": "incitaient"
+		},
+		"futur": {
+			"j'": "inciterai",
+			"tu": "inciteras",
+			"il/elle": "incitera",
+			"nous": "inciterons",
+			"vous": "inciterez",
+			"ils/elles": "inciteront"
+		},
+		"passé simple": {
+			"j'": "incitai",
+			"tu": "incitas",
+			"il/elle": "incita",
+			"nous": "incitâmes",
+			"vous": "incitâtes",
+			"ils/elles": "incitèrent"
+		},
+		"passé composé": {
+			"j'": "ai incité",
+			"tu": "as incité",
+			"il/elle": "a incité",
+			"nous": "avons incité",
+			"vous": "avez incité",
+			"ils/elles": "ont incité"
+		},
+		"plus-que-parfait": {
+			"j'": "avais incité",
+			"tu": "avais incité",
+			"il/elle": "avait incité",
+			"nous": "avions incité",
+			"vous": "aviez incité",
+			"ils/elles": "avaient incité"
+		},
+		"passé antérieur": {
+			"j'": "eus incité",
+			"tu": "eus incité",
+			"il/elle": "eut incité",
+			"nous": "eûmes incité",
+			"vous": "eûtes incité",
+			"ils/elles": "eurent incité"
+		},
+		"futur antérieur": {
+			"j'": "aurai incité",
+			"tu": "auras incité",
+			"il/elle": "aura incité",
+			"nous": "aurons incité",
+			"vous": "aurez incité",
+			"ils/elles": "auront incité"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "incite",
+			"que": "vous incitiez",
+			"qu'il/elle": "incite",
+			"qu'ils/elles": "incitent"
+		},
+		"imparfait": {
+			"j'": "incitasse",
+			"que": "vous incitassiez",
+			"qu'il/elle": "incitât",
+			"qu'ils/elles": "incitassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse incité",
+			"que": "vous eussiez incité",
+			"qu'il/elle": "eût incité",
+			"qu'ils/elles": "eussent incité"
+		},
+		"passé": {
+			"j'": "aie incité",
+			"que": "vous ayez incité",
+			"qu'il/elle": "ait incité",
+			"qu'ils/elles": "aient incité"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "inciterais",
+			"tu": "inciterais",
+			"il/elle": "inciterait",
+			"nous": "inciterions",
+			"vous": "inciteriez",
+			"ils/elles": "inciteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais incité",
+			"tu": "aurais incité",
+			"il/elle": "aurait incité",
+			"nous": "aurions incité",
+			"vous": "auriez incité",
+			"ils/elles": "auraient incité"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse incité",
+			"tu": "eusses incité",
+			"il/elle": "eût incité",
+			"nous": "eussions incité",
+			"vous": "eussiez incité",
+			"ils/elles": "eussent incité"
+		}
+	},
+	"participe": {
+		"présent": { "incitant": "" },
+		"passé composé": { "ayant": "incité" },
+		"passé": {
+			"masc.sg.:": "incité",
+			"masc.pl.:": "incités",
+			"fém.sg.:": "incitée",
+			"fém.pl.:": "incitées"
+		}
+	},
+	"imperatif": {
+		"présent": { "incite": "", "incitons": "", "incitez": "" },
+		"passé": { "aie": "incité", "ayons": "incité", "ayez": "incité" }
+	},
+	"infinitif": { "présent": { "inciter": "" }, "passé": { "avoir": "incité" } }
+}

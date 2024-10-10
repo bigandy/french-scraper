@@ -1,0 +1,141 @@
+{
+	"name": "attendre",
+	"definition": "defend; protect; uphold; ...",
+	"model": "attendre",
+	"auxiliary": "avoir",
+	"otherForms": "se défendre/ne pas défendre/ne pas se défendre",
+	"indicatif": {
+		"présent": {
+			"je": "défends",
+			"tu": "défends",
+			"il/elle": "défend",
+			"nous": "défendons",
+			"vous": "défendez",
+			"ils/elles": "défendent"
+		},
+		"imparfait": {
+			"je": "défendais",
+			"tu": "défendais",
+			"il/elle": "défendait",
+			"nous": "défendions",
+			"vous": "défendiez",
+			"ils/elles": "défendaient"
+		},
+		"futur": {
+			"je": "défendrai",
+			"tu": "défendras",
+			"il/elle": "défendra",
+			"nous": "défendrons",
+			"vous": "défendrez",
+			"ils/elles": "défendront"
+		},
+		"passé simple": {
+			"je": "défendis",
+			"tu": "défendis",
+			"il/elle": "défendit",
+			"nous": "défendîmes",
+			"vous": "défendîtes",
+			"ils/elles": "défendirent"
+		},
+		"passé composé": {
+			"j'": "ai défendu",
+			"tu": "as défendu",
+			"il/elle": "a défendu",
+			"nous": "avons défendu",
+			"vous": "avez défendu",
+			"ils/elles": "ont défendu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais défendu",
+			"tu": "avais défendu",
+			"il/elle": "avait défendu",
+			"nous": "avions défendu",
+			"vous": "aviez défendu",
+			"ils/elles": "avaient défendu"
+		},
+		"passé antérieur": {
+			"j'": "eus défendu",
+			"tu": "eus défendu",
+			"il/elle": "eut défendu",
+			"nous": "eûmes défendu",
+			"vous": "eûtes défendu",
+			"ils/elles": "eurent défendu"
+		},
+		"futur antérieur": {
+			"j'": "aurai défendu",
+			"tu": "auras défendu",
+			"il/elle": "aura défendu",
+			"nous": "aurons défendu",
+			"vous": "aurez défendu",
+			"ils/elles": "auront défendu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous défendiez",
+			"qu'il/elle": "défende",
+			"qu'ils/elles": "défendent"
+		},
+		"imparfait": {
+			"que": "vous défendissiez",
+			"qu'il/elle": "défendît",
+			"qu'ils/elles": "défendissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse défendu",
+			"que": "vous eussiez défendu",
+			"qu'il/elle": "eût défendu",
+			"qu'ils/elles": "eussent défendu"
+		},
+		"passé": {
+			"j'": "aie défendu",
+			"que": "vous ayez défendu",
+			"qu'il/elle": "ait défendu",
+			"qu'ils/elles": "aient défendu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "défendrais",
+			"tu": "défendrais",
+			"il/elle": "défendrait",
+			"nous": "défendrions",
+			"vous": "défendriez",
+			"ils/elles": "défendraient"
+		},
+		"passé première forme": {
+			"j'": "aurais défendu",
+			"tu": "aurais défendu",
+			"il/elle": "aurait défendu",
+			"nous": "aurions défendu",
+			"vous": "auriez défendu",
+			"ils/elles": "auraient défendu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse défendu",
+			"tu": "eusses défendu",
+			"il/elle": "eût défendu",
+			"nous": "eussions défendu",
+			"vous": "eussiez défendu",
+			"ils/elles": "eussent défendu"
+		}
+	},
+	"participe": {
+		"présent": { "défendant": "" },
+		"passé composé": { "ayant": "défendu" },
+		"passé": {
+			"masc.sg.:": "défendu",
+			"masc.pl.:": "défendus",
+			"fém.sg.:": "défendue",
+			"fém.pl.:": "défendues"
+		}
+	},
+	"imperatif": {
+		"présent": { "défends": "", "défendons": "", "défendez": "" },
+		"passé": { "aie": "défendu", "ayons": "défendu", "ayez": "défendu" }
+	},
+	"infinitif": {
+		"présent": { "défendre": "" },
+		"passé": { "avoir": "défendu" }
+	}
+}

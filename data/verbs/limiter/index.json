@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "limit; restrict; reduce; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se limiter/ne pas limiter/ne pas se limiter",
+	"indicatif": {
+		"présent": {
+			"je": "limite",
+			"tu": "limites",
+			"il/elle": "limite",
+			"nous": "limitons",
+			"vous": "limitez",
+			"ils/elles": "limitent"
+		},
+		"imparfait": {
+			"je": "limitais",
+			"tu": "limitais",
+			"il/elle": "limitait",
+			"nous": "limitions",
+			"vous": "limitiez",
+			"ils/elles": "limitaient"
+		},
+		"futur": {
+			"je": "limiterai",
+			"tu": "limiteras",
+			"il/elle": "limitera",
+			"nous": "limiterons",
+			"vous": "limiterez",
+			"ils/elles": "limiteront"
+		},
+		"passé simple": {
+			"je": "limitai",
+			"tu": "limitas",
+			"il/elle": "limita",
+			"nous": "limitâmes",
+			"vous": "limitâtes",
+			"ils/elles": "limitèrent"
+		},
+		"passé composé": {
+			"j'": "ai limité",
+			"tu": "as limité",
+			"il/elle": "a limité",
+			"nous": "avons limité",
+			"vous": "avez limité",
+			"ils/elles": "ont limité"
+		},
+		"plus-que-parfait": {
+			"j'": "avais limité",
+			"tu": "avais limité",
+			"il/elle": "avait limité",
+			"nous": "avions limité",
+			"vous": "aviez limité",
+			"ils/elles": "avaient limité"
+		},
+		"passé antérieur": {
+			"j'": "eus limité",
+			"tu": "eus limité",
+			"il/elle": "eut limité",
+			"nous": "eûmes limité",
+			"vous": "eûtes limité",
+			"ils/elles": "eurent limité"
+		},
+		"futur antérieur": {
+			"j'": "aurai limité",
+			"tu": "auras limité",
+			"il/elle": "aura limité",
+			"nous": "aurons limité",
+			"vous": "aurez limité",
+			"ils/elles": "auront limité"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous limitiez",
+			"qu'il/elle": "limite",
+			"qu'ils/elles": "limitent"
+		},
+		"imparfait": {
+			"que": "vous limitassiez",
+			"qu'il/elle": "limitât",
+			"qu'ils/elles": "limitassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse limité",
+			"que": "vous eussiez limité",
+			"qu'il/elle": "eût limité",
+			"qu'ils/elles": "eussent limité"
+		},
+		"passé": {
+			"j'": "aie limité",
+			"que": "vous ayez limité",
+			"qu'il/elle": "ait limité",
+			"qu'ils/elles": "aient limité"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "limiterais",
+			"tu": "limiterais",
+			"il/elle": "limiterait",
+			"nous": "limiterions",
+			"vous": "limiteriez",
+			"ils/elles": "limiteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais limité",
+			"tu": "aurais limité",
+			"il/elle": "aurait limité",
+			"nous": "aurions limité",
+			"vous": "auriez limité",
+			"ils/elles": "auraient limité"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse limité",
+			"tu": "eusses limité",
+			"il/elle": "eût limité",
+			"nous": "eussions limité",
+			"vous": "eussiez limité",
+			"ils/elles": "eussent limité"
+		}
+	},
+	"participe": {
+		"présent": { "limitant": "" },
+		"passé composé": { "ayant": "limité" },
+		"passé": {
+			"masc.sg.:": "limité",
+			"masc.pl.:": "limités",
+			"fém.sg.:": "limitée",
+			"fém.pl.:": "limitées"
+		}
+	},
+	"imperatif": {
+		"présent": { "limite": "", "limitons": "", "limitez": "" },
+		"passé": { "aie": "limité", "ayons": "limité", "ayez": "limité" }
+	},
+	"infinitif": { "présent": { "limiter": "" }, "passé": { "avoir": "limité" } }
+}

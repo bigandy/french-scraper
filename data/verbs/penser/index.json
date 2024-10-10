@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "think; think about; suggest; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas penser",
+	"indicatif": {
+		"présent": {
+			"je": "pense",
+			"tu": "penses",
+			"il/elle": "pense",
+			"nous": "pensons",
+			"vous": "pensez",
+			"ils/elles": "pensent"
+		},
+		"imparfait": {
+			"je": "pensais",
+			"tu": "pensais",
+			"il/elle": "pensait",
+			"nous": "pensions",
+			"vous": "pensiez",
+			"ils/elles": "pensaient"
+		},
+		"futur": {
+			"je": "penserai",
+			"tu": "penseras",
+			"il/elle": "pensera",
+			"nous": "penserons",
+			"vous": "penserez",
+			"ils/elles": "penseront"
+		},
+		"passé simple": {
+			"je": "pensai",
+			"tu": "pensas",
+			"il/elle": "pensa",
+			"nous": "pensâmes",
+			"vous": "pensâtes",
+			"ils/elles": "pensèrent"
+		},
+		"passé composé": {
+			"j'": "ai pensé",
+			"tu": "as pensé",
+			"il/elle": "a pensé",
+			"nous": "avons pensé",
+			"vous": "avez pensé",
+			"ils/elles": "ont pensé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais pensé",
+			"tu": "avais pensé",
+			"il/elle": "avait pensé",
+			"nous": "avions pensé",
+			"vous": "aviez pensé",
+			"ils/elles": "avaient pensé"
+		},
+		"passé antérieur": {
+			"j'": "eus pensé",
+			"tu": "eus pensé",
+			"il/elle": "eut pensé",
+			"nous": "eûmes pensé",
+			"vous": "eûtes pensé",
+			"ils/elles": "eurent pensé"
+		},
+		"futur antérieur": {
+			"j'": "aurai pensé",
+			"tu": "auras pensé",
+			"il/elle": "aura pensé",
+			"nous": "aurons pensé",
+			"vous": "aurez pensé",
+			"ils/elles": "auront pensé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous pensiez",
+			"qu'il/elle": "pense",
+			"qu'ils/elles": "pensent"
+		},
+		"imparfait": {
+			"que": "vous pensassiez",
+			"qu'il/elle": "pensât",
+			"qu'ils/elles": "pensassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse pensé",
+			"que": "vous eussiez pensé",
+			"qu'il/elle": "eût pensé",
+			"qu'ils/elles": "eussent pensé"
+		},
+		"passé": {
+			"j'": "aie pensé",
+			"que": "vous ayez pensé",
+			"qu'il/elle": "ait pensé",
+			"qu'ils/elles": "aient pensé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "penserais",
+			"tu": "penserais",
+			"il/elle": "penserait",
+			"nous": "penserions",
+			"vous": "penseriez",
+			"ils/elles": "penseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais pensé",
+			"tu": "aurais pensé",
+			"il/elle": "aurait pensé",
+			"nous": "aurions pensé",
+			"vous": "auriez pensé",
+			"ils/elles": "auraient pensé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse pensé",
+			"tu": "eusses pensé",
+			"il/elle": "eût pensé",
+			"nous": "eussions pensé",
+			"vous": "eussiez pensé",
+			"ils/elles": "eussent pensé"
+		}
+	},
+	"participe": {
+		"présent": { "pensant": "" },
+		"passé composé": { "ayant": "pensé" },
+		"passé": {
+			"masc.sg.:": "pensé",
+			"masc.pl.:": "pensés",
+			"fém.sg.:": "pensée",
+			"fém.pl.:": "pensées"
+		}
+	},
+	"imperatif": {
+		"présent": { "pense": "", "pensons": "", "pensez": "" },
+		"passé": { "aie": "pensé", "ayons": "pensé", "ayez": "pensé" }
+	},
+	"infinitif": { "présent": { "penser": "" }, "passé": { "avoir": "pensé" } }
+}

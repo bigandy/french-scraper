@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "dine; have supper; sup; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas souper",
+	"indicatif": {
+		"présent": {
+			"je": "soupe",
+			"tu": "soupes",
+			"il/elle": "soupe",
+			"nous": "soupons",
+			"vous": "soupez",
+			"ils/elles": "soupent"
+		},
+		"imparfait": {
+			"je": "soupais",
+			"tu": "soupais",
+			"il/elle": "soupait",
+			"nous": "soupions",
+			"vous": "soupiez",
+			"ils/elles": "soupaient"
+		},
+		"futur": {
+			"je": "souperai",
+			"tu": "souperas",
+			"il/elle": "soupera",
+			"nous": "souperons",
+			"vous": "souperez",
+			"ils/elles": "souperont"
+		},
+		"passé simple": {
+			"je": "soupai",
+			"tu": "soupas",
+			"il/elle": "soupa",
+			"nous": "soupâmes",
+			"vous": "soupâtes",
+			"ils/elles": "soupèrent"
+		},
+		"passé composé": {
+			"j'": "ai soupé",
+			"tu": "as soupé",
+			"il/elle": "a soupé",
+			"nous": "avons soupé",
+			"vous": "avez soupé",
+			"ils/elles": "ont soupé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais soupé",
+			"tu": "avais soupé",
+			"il/elle": "avait soupé",
+			"nous": "avions soupé",
+			"vous": "aviez soupé",
+			"ils/elles": "avaient soupé"
+		},
+		"passé antérieur": {
+			"j'": "eus soupé",
+			"tu": "eus soupé",
+			"il/elle": "eut soupé",
+			"nous": "eûmes soupé",
+			"vous": "eûtes soupé",
+			"ils/elles": "eurent soupé"
+		},
+		"futur antérieur": {
+			"j'": "aurai soupé",
+			"tu": "auras soupé",
+			"il/elle": "aura soupé",
+			"nous": "aurons soupé",
+			"vous": "aurez soupé",
+			"ils/elles": "auront soupé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous soupiez",
+			"qu'il/elle": "soupe",
+			"qu'ils/elles": "soupent"
+		},
+		"imparfait": {
+			"que": "vous soupassiez",
+			"qu'il/elle": "soupât",
+			"qu'ils/elles": "soupassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse soupé",
+			"que": "vous eussiez soupé",
+			"qu'il/elle": "eût soupé",
+			"qu'ils/elles": "eussent soupé"
+		},
+		"passé": {
+			"j'": "aie soupé",
+			"que": "vous ayez soupé",
+			"qu'il/elle": "ait soupé",
+			"qu'ils/elles": "aient soupé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "souperais",
+			"tu": "souperais",
+			"il/elle": "souperait",
+			"nous": "souperions",
+			"vous": "souperiez",
+			"ils/elles": "souperaient"
+		},
+		"passé première forme": {
+			"j'": "aurais soupé",
+			"tu": "aurais soupé",
+			"il/elle": "aurait soupé",
+			"nous": "aurions soupé",
+			"vous": "auriez soupé",
+			"ils/elles": "auraient soupé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse soupé",
+			"tu": "eusses soupé",
+			"il/elle": "eût soupé",
+			"nous": "eussions soupé",
+			"vous": "eussiez soupé",
+			"ils/elles": "eussent soupé"
+		}
+	},
+	"participe": {
+		"présent": { "soupant": "" },
+		"passé composé": { "ayant": "soupé" },
+		"passé": {
+			"masc.sg.:": "soupé",
+			"masc.pl.:": "soupés",
+			"fém.sg.:": "soupée",
+			"fém.pl.:": "soupées"
+		}
+	},
+	"imperatif": {
+		"présent": { "soupe": "", "soupons": "", "soupez": "" },
+		"passé": { "aie": "soupé", "ayons": "soupé", "ayez": "soupé" }
+	},
+	"infinitif": { "présent": { "souper": "" }, "passé": { "avoir": "soupé" } }
+}

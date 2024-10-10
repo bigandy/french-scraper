@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se tortuer/ne pas tortuer/ne pas se tortuer",
+	"indicatif": {
+		"présent": {
+			"je": "tortue",
+			"tu": "tortues",
+			"il/elle": "tortue",
+			"nous": "tortuons",
+			"vous": "tortuez",
+			"ils/elles": "tortuent"
+		},
+		"imparfait": {
+			"je": "tortuais",
+			"tu": "tortuais",
+			"il/elle": "tortuait",
+			"nous": "tortuions",
+			"vous": "tortuiez",
+			"ils/elles": "tortuaient"
+		},
+		"futur": {
+			"je": "tortuerai",
+			"tu": "tortueras",
+			"il/elle": "tortuera",
+			"nous": "tortuerons",
+			"vous": "tortuerez",
+			"ils/elles": "tortueront"
+		},
+		"passé simple": {
+			"je": "tortuai",
+			"tu": "tortuas",
+			"il/elle": "tortua",
+			"nous": "tortuâmes",
+			"vous": "tortuâtes",
+			"ils/elles": "tortuèrent"
+		},
+		"passé composé": {
+			"j'": "ai tortué",
+			"tu": "as tortué",
+			"il/elle": "a tortué",
+			"nous": "avons tortué",
+			"vous": "avez tortué",
+			"ils/elles": "ont tortué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais tortué",
+			"tu": "avais tortué",
+			"il/elle": "avait tortué",
+			"nous": "avions tortué",
+			"vous": "aviez tortué",
+			"ils/elles": "avaient tortué"
+		},
+		"passé antérieur": {
+			"j'": "eus tortué",
+			"tu": "eus tortué",
+			"il/elle": "eut tortué",
+			"nous": "eûmes tortué",
+			"vous": "eûtes tortué",
+			"ils/elles": "eurent tortué"
+		},
+		"futur antérieur": {
+			"j'": "aurai tortué",
+			"tu": "auras tortué",
+			"il/elle": "aura tortué",
+			"nous": "aurons tortué",
+			"vous": "aurez tortué",
+			"ils/elles": "auront tortué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous tortuiez",
+			"qu'il/elle": "tortue",
+			"qu'ils/elles": "tortuent"
+		},
+		"imparfait": {
+			"que": "vous tortuassiez",
+			"qu'il/elle": "tortuât",
+			"qu'ils/elles": "tortuassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse tortué",
+			"que": "vous eussiez tortué",
+			"qu'il/elle": "eût tortué",
+			"qu'ils/elles": "eussent tortué"
+		},
+		"passé": {
+			"j'": "aie tortué",
+			"que": "vous ayez tortué",
+			"qu'il/elle": "ait tortué",
+			"qu'ils/elles": "aient tortué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "tortuerais",
+			"tu": "tortuerais",
+			"il/elle": "tortuerait",
+			"nous": "tortuerions",
+			"vous": "tortueriez",
+			"ils/elles": "tortueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais tortué",
+			"tu": "aurais tortué",
+			"il/elle": "aurait tortué",
+			"nous": "aurions tortué",
+			"vous": "auriez tortué",
+			"ils/elles": "auraient tortué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse tortué",
+			"tu": "eusses tortué",
+			"il/elle": "eût tortué",
+			"nous": "eussions tortué",
+			"vous": "eussiez tortué",
+			"ils/elles": "eussent tortué"
+		}
+	},
+	"participe": {
+		"présent": { "tortuant": "" },
+		"passé composé": { "ayant": "tortué" },
+		"passé": {
+			"masc.sg.:": "tortué",
+			"masc.pl.:": "tortués",
+			"fém.sg.:": "tortuée",
+			"fém.pl.:": "tortuées"
+		}
+	},
+	"imperatif": {
+		"présent": { "tortue": "", "tortuons": "", "tortuez": "" },
+		"passé": { "aie": "tortué", "ayons": "tortué", "ayez": "tortué" }
+	},
+	"infinitif": { "présent": { "tortuer": "" }, "passé": { "avoir": "tortué" } }
+}

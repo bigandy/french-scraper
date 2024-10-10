@@ -1,0 +1,147 @@
+{
+	"name": "marcher",
+	"definition": "intensify; increase; step up; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'intensifier/ne pas intensifier/ne pas s'intensifier",
+	"indicatif": {
+		"présent": {
+			"j'": "intensifie",
+			"tu": "intensifies",
+			"il/elle": "intensifie",
+			"nous": "intensifions",
+			"vous": "intensifiez",
+			"ils/elles": "intensifient"
+		},
+		"imparfait": {
+			"j'": "intensifiais",
+			"tu": "intensifiais",
+			"il/elle": "intensifiait",
+			"nous": "intensifiions",
+			"vous": "intensifiiez",
+			"ils/elles": "intensifiaient"
+		},
+		"futur": {
+			"j'": "intensifierai",
+			"tu": "intensifieras",
+			"il/elle": "intensifiera",
+			"nous": "intensifierons",
+			"vous": "intensifierez",
+			"ils/elles": "intensifieront"
+		},
+		"passé simple": {
+			"j'": "intensifiai",
+			"tu": "intensifias",
+			"il/elle": "intensifia",
+			"nous": "intensifiâmes",
+			"vous": "intensifiâtes",
+			"ils/elles": "intensifièrent"
+		},
+		"passé composé": {
+			"j'": "ai intensifié",
+			"tu": "as intensifié",
+			"il/elle": "a intensifié",
+			"nous": "avons intensifié",
+			"vous": "avez intensifié",
+			"ils/elles": "ont intensifié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais intensifié",
+			"tu": "avais intensifié",
+			"il/elle": "avait intensifié",
+			"nous": "avions intensifié",
+			"vous": "aviez intensifié",
+			"ils/elles": "avaient intensifié"
+		},
+		"passé antérieur": {
+			"j'": "eus intensifié",
+			"tu": "eus intensifié",
+			"il/elle": "eut intensifié",
+			"nous": "eûmes intensifié",
+			"vous": "eûtes intensifié",
+			"ils/elles": "eurent intensifié"
+		},
+		"futur antérieur": {
+			"j'": "aurai intensifié",
+			"tu": "auras intensifié",
+			"il/elle": "aura intensifié",
+			"nous": "aurons intensifié",
+			"vous": "aurez intensifié",
+			"ils/elles": "auront intensifié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "intensifie",
+			"que": "vous intensifiiez",
+			"qu'il/elle": "intensifie",
+			"qu'ils/elles": "intensifient"
+		},
+		"imparfait": {
+			"j'": "intensifiasse",
+			"que": "vous intensifiassiez",
+			"qu'il/elle": "intensifiât",
+			"qu'ils/elles": "intensifiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse intensifié",
+			"que": "vous eussiez intensifié",
+			"qu'il/elle": "eût intensifié",
+			"qu'ils/elles": "eussent intensifié"
+		},
+		"passé": {
+			"j'": "aie intensifié",
+			"que": "vous ayez intensifié",
+			"qu'il/elle": "ait intensifié",
+			"qu'ils/elles": "aient intensifié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "intensifierais",
+			"tu": "intensifierais",
+			"il/elle": "intensifierait",
+			"nous": "intensifierions",
+			"vous": "intensifieriez",
+			"ils/elles": "intensifieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais intensifié",
+			"tu": "aurais intensifié",
+			"il/elle": "aurait intensifié",
+			"nous": "aurions intensifié",
+			"vous": "auriez intensifié",
+			"ils/elles": "auraient intensifié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse intensifié",
+			"tu": "eusses intensifié",
+			"il/elle": "eût intensifié",
+			"nous": "eussions intensifié",
+			"vous": "eussiez intensifié",
+			"ils/elles": "eussent intensifié"
+		}
+	},
+	"participe": {
+		"présent": { "intensifiant": "" },
+		"passé composé": { "ayant": "intensifié" },
+		"passé": {
+			"masc.sg.:": "intensifié",
+			"masc.pl.:": "intensifiés",
+			"fém.sg.:": "intensifiée",
+			"fém.pl.:": "intensifiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "intensifie": "", "intensifions": "", "intensifiez": "" },
+		"passé": {
+			"aie": "intensifié",
+			"ayons": "intensifié",
+			"ayez": "intensifié"
+		}
+	},
+	"infinitif": {
+		"présent": { "intensifier": "" },
+		"passé": { "avoir": "intensifié" }
+	}
+}

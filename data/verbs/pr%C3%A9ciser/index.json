@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "specify; clarify; indicate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se préciser/ne pas préciser/ne pas se préciser",
+	"indicatif": {
+		"présent": {
+			"je": "précise",
+			"tu": "précises",
+			"il/elle": "précise",
+			"nous": "précisons",
+			"vous": "précisez",
+			"ils/elles": "précisent"
+		},
+		"imparfait": {
+			"je": "précisais",
+			"tu": "précisais",
+			"il/elle": "précisait",
+			"nous": "précisions",
+			"vous": "précisiez",
+			"ils/elles": "précisaient"
+		},
+		"futur": {
+			"je": "préciserai",
+			"tu": "préciseras",
+			"il/elle": "précisera",
+			"nous": "préciserons",
+			"vous": "préciserez",
+			"ils/elles": "préciseront"
+		},
+		"passé simple": {
+			"je": "précisai",
+			"tu": "précisas",
+			"il/elle": "précisa",
+			"nous": "précisâmes",
+			"vous": "précisâtes",
+			"ils/elles": "précisèrent"
+		},
+		"passé composé": {
+			"j'": "ai précisé",
+			"tu": "as précisé",
+			"il/elle": "a précisé",
+			"nous": "avons précisé",
+			"vous": "avez précisé",
+			"ils/elles": "ont précisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais précisé",
+			"tu": "avais précisé",
+			"il/elle": "avait précisé",
+			"nous": "avions précisé",
+			"vous": "aviez précisé",
+			"ils/elles": "avaient précisé"
+		},
+		"passé antérieur": {
+			"j'": "eus précisé",
+			"tu": "eus précisé",
+			"il/elle": "eut précisé",
+			"nous": "eûmes précisé",
+			"vous": "eûtes précisé",
+			"ils/elles": "eurent précisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai précisé",
+			"tu": "auras précisé",
+			"il/elle": "aura précisé",
+			"nous": "aurons précisé",
+			"vous": "aurez précisé",
+			"ils/elles": "auront précisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous précisiez",
+			"qu'il/elle": "précise",
+			"qu'ils/elles": "précisent"
+		},
+		"imparfait": {
+			"que": "vous précisassiez",
+			"qu'il/elle": "précisât",
+			"qu'ils/elles": "précisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse précisé",
+			"que": "vous eussiez précisé",
+			"qu'il/elle": "eût précisé",
+			"qu'ils/elles": "eussent précisé"
+		},
+		"passé": {
+			"j'": "aie précisé",
+			"que": "vous ayez précisé",
+			"qu'il/elle": "ait précisé",
+			"qu'ils/elles": "aient précisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "préciserais",
+			"tu": "préciserais",
+			"il/elle": "préciserait",
+			"nous": "préciserions",
+			"vous": "préciseriez",
+			"ils/elles": "préciseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais précisé",
+			"tu": "aurais précisé",
+			"il/elle": "aurait précisé",
+			"nous": "aurions précisé",
+			"vous": "auriez précisé",
+			"ils/elles": "auraient précisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse précisé",
+			"tu": "eusses précisé",
+			"il/elle": "eût précisé",
+			"nous": "eussions précisé",
+			"vous": "eussiez précisé",
+			"ils/elles": "eussent précisé"
+		}
+	},
+	"participe": {
+		"présent": { "précisant": "" },
+		"passé composé": { "ayant": "précisé" },
+		"passé": {
+			"masc.sg.:": "précisé",
+			"masc.pl.:": "précisés",
+			"fém.sg.:": "précisée",
+			"fém.pl.:": "précisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "précise": "", "précisons": "", "précisez": "" },
+		"passé": { "aie": "précisé", "ayons": "précisé", "ayez": "précisé" }
+	},
+	"infinitif": {
+		"présent": { "préciser": "" },
+		"passé": { "avoir": "précisé" }
+	}
+}

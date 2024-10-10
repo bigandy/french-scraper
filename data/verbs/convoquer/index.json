@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "convene; summon; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se convoquer/ne pas convoquer/ne pas se convoquer",
+	"indicatif": {
+		"présent": {
+			"je": "convoque",
+			"tu": "convoques",
+			"il/elle": "convoque",
+			"nous": "convoquons",
+			"vous": "convoquez",
+			"ils/elles": "convoquent"
+		},
+		"imparfait": {
+			"je": "convoquais",
+			"tu": "convoquais",
+			"il/elle": "convoquait",
+			"nous": "convoquions",
+			"vous": "convoquiez",
+			"ils/elles": "convoquaient"
+		},
+		"futur": {
+			"je": "convoquerai",
+			"tu": "convoqueras",
+			"il/elle": "convoquera",
+			"nous": "convoquerons",
+			"vous": "convoquerez",
+			"ils/elles": "convoqueront"
+		},
+		"passé simple": {
+			"je": "convoquai",
+			"tu": "convoquas",
+			"il/elle": "convoqua",
+			"nous": "convoquâmes",
+			"vous": "convoquâtes",
+			"ils/elles": "convoquèrent"
+		},
+		"passé composé": {
+			"j'": "ai convoqué",
+			"tu": "as convoqué",
+			"il/elle": "a convoqué",
+			"nous": "avons convoqué",
+			"vous": "avez convoqué",
+			"ils/elles": "ont convoqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais convoqué",
+			"tu": "avais convoqué",
+			"il/elle": "avait convoqué",
+			"nous": "avions convoqué",
+			"vous": "aviez convoqué",
+			"ils/elles": "avaient convoqué"
+		},
+		"passé antérieur": {
+			"j'": "eus convoqué",
+			"tu": "eus convoqué",
+			"il/elle": "eut convoqué",
+			"nous": "eûmes convoqué",
+			"vous": "eûtes convoqué",
+			"ils/elles": "eurent convoqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai convoqué",
+			"tu": "auras convoqué",
+			"il/elle": "aura convoqué",
+			"nous": "aurons convoqué",
+			"vous": "aurez convoqué",
+			"ils/elles": "auront convoqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous convoquiez",
+			"qu'il/elle": "convoque",
+			"qu'ils/elles": "convoquent"
+		},
+		"imparfait": {
+			"que": "vous convoquassiez",
+			"qu'il/elle": "convoquât",
+			"qu'ils/elles": "convoquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse convoqué",
+			"que": "vous eussiez convoqué",
+			"qu'il/elle": "eût convoqué",
+			"qu'ils/elles": "eussent convoqué"
+		},
+		"passé": {
+			"j'": "aie convoqué",
+			"que": "vous ayez convoqué",
+			"qu'il/elle": "ait convoqué",
+			"qu'ils/elles": "aient convoqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "convoquerais",
+			"tu": "convoquerais",
+			"il/elle": "convoquerait",
+			"nous": "convoquerions",
+			"vous": "convoqueriez",
+			"ils/elles": "convoqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais convoqué",
+			"tu": "aurais convoqué",
+			"il/elle": "aurait convoqué",
+			"nous": "aurions convoqué",
+			"vous": "auriez convoqué",
+			"ils/elles": "auraient convoqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse convoqué",
+			"tu": "eusses convoqué",
+			"il/elle": "eût convoqué",
+			"nous": "eussions convoqué",
+			"vous": "eussiez convoqué",
+			"ils/elles": "eussent convoqué"
+		}
+	},
+	"participe": {
+		"présent": { "convoquant": "" },
+		"passé composé": { "ayant": "convoqué" },
+		"passé": {
+			"masc.sg.:": "convoqué",
+			"masc.pl.:": "convoqués",
+			"fém.sg.:": "convoquée",
+			"fém.pl.:": "convoquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "convoque": "", "convoquons": "", "convoquez": "" },
+		"passé": { "aie": "convoqué", "ayons": "convoqué", "ayez": "convoqué" }
+	},
+	"infinitif": {
+		"présent": { "convoquer": "" },
+		"passé": { "avoir": "convoqué" }
+	}
+}

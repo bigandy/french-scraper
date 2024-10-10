@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "include; comprise; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se comporter/ne pas comporter/ne pas se comporter",
+	"indicatif": {
+		"présent": {
+			"je": "comporte",
+			"tu": "comportes",
+			"il/elle": "comporte",
+			"nous": "comportons",
+			"vous": "comportez",
+			"ils/elles": "comportent"
+		},
+		"imparfait": {
+			"je": "comportais",
+			"tu": "comportais",
+			"il/elle": "comportait",
+			"nous": "comportions",
+			"vous": "comportiez",
+			"ils/elles": "comportaient"
+		},
+		"futur": {
+			"je": "comporterai",
+			"tu": "comporteras",
+			"il/elle": "comportera",
+			"nous": "comporterons",
+			"vous": "comporterez",
+			"ils/elles": "comporteront"
+		},
+		"passé simple": {
+			"je": "comportai",
+			"tu": "comportas",
+			"il/elle": "comporta",
+			"nous": "comportâmes",
+			"vous": "comportâtes",
+			"ils/elles": "comportèrent"
+		},
+		"passé composé": {
+			"j'": "ai comporté",
+			"tu": "as comporté",
+			"il/elle": "a comporté",
+			"nous": "avons comporté",
+			"vous": "avez comporté",
+			"ils/elles": "ont comporté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais comporté",
+			"tu": "avais comporté",
+			"il/elle": "avait comporté",
+			"nous": "avions comporté",
+			"vous": "aviez comporté",
+			"ils/elles": "avaient comporté"
+		},
+		"passé antérieur": {
+			"j'": "eus comporté",
+			"tu": "eus comporté",
+			"il/elle": "eut comporté",
+			"nous": "eûmes comporté",
+			"vous": "eûtes comporté",
+			"ils/elles": "eurent comporté"
+		},
+		"futur antérieur": {
+			"j'": "aurai comporté",
+			"tu": "auras comporté",
+			"il/elle": "aura comporté",
+			"nous": "aurons comporté",
+			"vous": "aurez comporté",
+			"ils/elles": "auront comporté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous comportiez",
+			"qu'il/elle": "comporte",
+			"qu'ils/elles": "comportent"
+		},
+		"imparfait": {
+			"que": "vous comportassiez",
+			"qu'il/elle": "comportât",
+			"qu'ils/elles": "comportassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse comporté",
+			"que": "vous eussiez comporté",
+			"qu'il/elle": "eût comporté",
+			"qu'ils/elles": "eussent comporté"
+		},
+		"passé": {
+			"j'": "aie comporté",
+			"que": "vous ayez comporté",
+			"qu'il/elle": "ait comporté",
+			"qu'ils/elles": "aient comporté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "comporterais",
+			"tu": "comporterais",
+			"il/elle": "comporterait",
+			"nous": "comporterions",
+			"vous": "comporteriez",
+			"ils/elles": "comporteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais comporté",
+			"tu": "aurais comporté",
+			"il/elle": "aurait comporté",
+			"nous": "aurions comporté",
+			"vous": "auriez comporté",
+			"ils/elles": "auraient comporté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse comporté",
+			"tu": "eusses comporté",
+			"il/elle": "eût comporté",
+			"nous": "eussions comporté",
+			"vous": "eussiez comporté",
+			"ils/elles": "eussent comporté"
+		}
+	},
+	"participe": {
+		"présent": { "comportant": "" },
+		"passé composé": { "ayant": "comporté" },
+		"passé": {
+			"masc.sg.:": "comporté",
+			"masc.pl.:": "comportés",
+			"fém.sg.:": "comportée",
+			"fém.pl.:": "comportées"
+		}
+	},
+	"imperatif": {
+		"présent": { "comporte": "", "comportons": "", "comportez": "" },
+		"passé": { "aie": "comporté", "ayons": "comporté", "ayez": "comporté" }
+	},
+	"infinitif": {
+		"présent": { "comporter": "" },
+		"passé": { "avoir": "comporté" }
+	}
+}

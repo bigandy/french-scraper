@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "tell; talk about; share; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se raconter/ne pas raconter/ne pas se raconter",
+	"indicatif": {
+		"présent": {
+			"je": "raconte",
+			"tu": "racontes",
+			"il/elle": "raconte",
+			"nous": "racontons",
+			"vous": "racontez",
+			"ils/elles": "racontent"
+		},
+		"imparfait": {
+			"je": "racontais",
+			"tu": "racontais",
+			"il/elle": "racontait",
+			"nous": "racontions",
+			"vous": "racontiez",
+			"ils/elles": "racontaient"
+		},
+		"futur": {
+			"je": "raconterai",
+			"tu": "raconteras",
+			"il/elle": "racontera",
+			"nous": "raconterons",
+			"vous": "raconterez",
+			"ils/elles": "raconteront"
+		},
+		"passé simple": {
+			"je": "racontai",
+			"tu": "racontas",
+			"il/elle": "raconta",
+			"nous": "racontâmes",
+			"vous": "racontâtes",
+			"ils/elles": "racontèrent"
+		},
+		"passé composé": {
+			"j'": "ai raconté",
+			"tu": "as raconté",
+			"il/elle": "a raconté",
+			"nous": "avons raconté",
+			"vous": "avez raconté",
+			"ils/elles": "ont raconté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais raconté",
+			"tu": "avais raconté",
+			"il/elle": "avait raconté",
+			"nous": "avions raconté",
+			"vous": "aviez raconté",
+			"ils/elles": "avaient raconté"
+		},
+		"passé antérieur": {
+			"j'": "eus raconté",
+			"tu": "eus raconté",
+			"il/elle": "eut raconté",
+			"nous": "eûmes raconté",
+			"vous": "eûtes raconté",
+			"ils/elles": "eurent raconté"
+		},
+		"futur antérieur": {
+			"j'": "aurai raconté",
+			"tu": "auras raconté",
+			"il/elle": "aura raconté",
+			"nous": "aurons raconté",
+			"vous": "aurez raconté",
+			"ils/elles": "auront raconté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous racontiez",
+			"qu'il/elle": "raconte",
+			"qu'ils/elles": "racontent"
+		},
+		"imparfait": {
+			"que": "vous racontassiez",
+			"qu'il/elle": "racontât",
+			"qu'ils/elles": "racontassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse raconté",
+			"que": "vous eussiez raconté",
+			"qu'il/elle": "eût raconté",
+			"qu'ils/elles": "eussent raconté"
+		},
+		"passé": {
+			"j'": "aie raconté",
+			"que": "vous ayez raconté",
+			"qu'il/elle": "ait raconté",
+			"qu'ils/elles": "aient raconté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "raconterais",
+			"tu": "raconterais",
+			"il/elle": "raconterait",
+			"nous": "raconterions",
+			"vous": "raconteriez",
+			"ils/elles": "raconteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais raconté",
+			"tu": "aurais raconté",
+			"il/elle": "aurait raconté",
+			"nous": "aurions raconté",
+			"vous": "auriez raconté",
+			"ils/elles": "auraient raconté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse raconté",
+			"tu": "eusses raconté",
+			"il/elle": "eût raconté",
+			"nous": "eussions raconté",
+			"vous": "eussiez raconté",
+			"ils/elles": "eussent raconté"
+		}
+	},
+	"participe": {
+		"présent": { "racontant": "" },
+		"passé composé": { "ayant": "raconté" },
+		"passé": {
+			"masc.sg.:": "raconté",
+			"masc.pl.:": "racontés",
+			"fém.sg.:": "racontée",
+			"fém.pl.:": "racontées"
+		}
+	},
+	"imperatif": {
+		"présent": { "raconte": "", "racontons": "", "racontez": "" },
+		"passé": { "aie": "raconté", "ayons": "raconté", "ayez": "raconté" }
+	},
+	"infinitif": {
+		"présent": { "raconter": "" },
+		"passé": { "avoir": "raconté" }
+	}
+}

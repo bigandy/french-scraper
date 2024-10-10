@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "allow; authorize; authorise; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'autoriser/ne pas autoriser/ne pas s'autoriser",
+	"indicatif": {
+		"présent": {
+			"j'": "autorise",
+			"tu": "autorises",
+			"il/elle": "autorise",
+			"nous": "autorisons",
+			"vous": "autorisez",
+			"ils/elles": "autorisent"
+		},
+		"imparfait": {
+			"j'": "autorisais",
+			"tu": "autorisais",
+			"il/elle": "autorisait",
+			"nous": "autorisions",
+			"vous": "autorisiez",
+			"ils/elles": "autorisaient"
+		},
+		"futur": {
+			"j'": "autoriserai",
+			"tu": "autoriseras",
+			"il/elle": "autorisera",
+			"nous": "autoriserons",
+			"vous": "autoriserez",
+			"ils/elles": "autoriseront"
+		},
+		"passé simple": {
+			"j'": "autorisai",
+			"tu": "autorisas",
+			"il/elle": "autorisa",
+			"nous": "autorisâmes",
+			"vous": "autorisâtes",
+			"ils/elles": "autorisèrent"
+		},
+		"passé composé": {
+			"j'": "ai autorisé",
+			"tu": "as autorisé",
+			"il/elle": "a autorisé",
+			"nous": "avons autorisé",
+			"vous": "avez autorisé",
+			"ils/elles": "ont autorisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais autorisé",
+			"tu": "avais autorisé",
+			"il/elle": "avait autorisé",
+			"nous": "avions autorisé",
+			"vous": "aviez autorisé",
+			"ils/elles": "avaient autorisé"
+		},
+		"passé antérieur": {
+			"j'": "eus autorisé",
+			"tu": "eus autorisé",
+			"il/elle": "eut autorisé",
+			"nous": "eûmes autorisé",
+			"vous": "eûtes autorisé",
+			"ils/elles": "eurent autorisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai autorisé",
+			"tu": "auras autorisé",
+			"il/elle": "aura autorisé",
+			"nous": "aurons autorisé",
+			"vous": "aurez autorisé",
+			"ils/elles": "auront autorisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "autorise",
+			"que": "vous autorisiez",
+			"qu'il/elle": "autorise",
+			"qu'ils/elles": "autorisent"
+		},
+		"imparfait": {
+			"j'": "autorisasse",
+			"que": "vous autorisassiez",
+			"qu'il/elle": "autorisât",
+			"qu'ils/elles": "autorisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse autorisé",
+			"que": "vous eussiez autorisé",
+			"qu'il/elle": "eût autorisé",
+			"qu'ils/elles": "eussent autorisé"
+		},
+		"passé": {
+			"j'": "aie autorisé",
+			"que": "vous ayez autorisé",
+			"qu'il/elle": "ait autorisé",
+			"qu'ils/elles": "aient autorisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "autoriserais",
+			"tu": "autoriserais",
+			"il/elle": "autoriserait",
+			"nous": "autoriserions",
+			"vous": "autoriseriez",
+			"ils/elles": "autoriseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais autorisé",
+			"tu": "aurais autorisé",
+			"il/elle": "aurait autorisé",
+			"nous": "aurions autorisé",
+			"vous": "auriez autorisé",
+			"ils/elles": "auraient autorisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse autorisé",
+			"tu": "eusses autorisé",
+			"il/elle": "eût autorisé",
+			"nous": "eussions autorisé",
+			"vous": "eussiez autorisé",
+			"ils/elles": "eussent autorisé"
+		}
+	},
+	"participe": {
+		"présent": { "autorisant": "" },
+		"passé composé": { "ayant": "autorisé" },
+		"passé": {
+			"masc.sg.:": "autorisé",
+			"masc.pl.:": "autorisés",
+			"fém.sg.:": "autorisée",
+			"fém.pl.:": "autorisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "autorise": "", "autorisons": "", "autorisez": "" },
+		"passé": { "aie": "autorisé", "ayons": "autorisé", "ayez": "autorisé" }
+	},
+	"infinitif": {
+		"présent": { "autoriser": "" },
+		"passé": { "avoir": "autorisé" }
+	}
+}

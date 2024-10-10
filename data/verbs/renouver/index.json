@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se renouver/ne pas renouver/ne pas se renouver",
+	"indicatif": {
+		"présent": {
+			"je": "renouve",
+			"tu": "renouves",
+			"il/elle": "renouve",
+			"nous": "renouvons",
+			"vous": "renouvez",
+			"ils/elles": "renouvent"
+		},
+		"imparfait": {
+			"je": "renouvais",
+			"tu": "renouvais",
+			"il/elle": "renouvait",
+			"nous": "renouvions",
+			"vous": "renouviez",
+			"ils/elles": "renouvaient"
+		},
+		"futur": {
+			"je": "renouverai",
+			"tu": "renouveras",
+			"il/elle": "renouvera",
+			"nous": "renouverons",
+			"vous": "renouverez",
+			"ils/elles": "renouveront"
+		},
+		"passé simple": {
+			"je": "renouvai",
+			"tu": "renouvas",
+			"il/elle": "renouva",
+			"nous": "renouvâmes",
+			"vous": "renouvâtes",
+			"ils/elles": "renouvèrent"
+		},
+		"passé composé": {
+			"j'": "ai renouvé",
+			"tu": "as renouvé",
+			"il/elle": "a renouvé",
+			"nous": "avons renouvé",
+			"vous": "avez renouvé",
+			"ils/elles": "ont renouvé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais renouvé",
+			"tu": "avais renouvé",
+			"il/elle": "avait renouvé",
+			"nous": "avions renouvé",
+			"vous": "aviez renouvé",
+			"ils/elles": "avaient renouvé"
+		},
+		"passé antérieur": {
+			"j'": "eus renouvé",
+			"tu": "eus renouvé",
+			"il/elle": "eut renouvé",
+			"nous": "eûmes renouvé",
+			"vous": "eûtes renouvé",
+			"ils/elles": "eurent renouvé"
+		},
+		"futur antérieur": {
+			"j'": "aurai renouvé",
+			"tu": "auras renouvé",
+			"il/elle": "aura renouvé",
+			"nous": "aurons renouvé",
+			"vous": "aurez renouvé",
+			"ils/elles": "auront renouvé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous renouviez",
+			"qu'il/elle": "renouve",
+			"qu'ils/elles": "renouvent"
+		},
+		"imparfait": {
+			"que": "vous renouvassiez",
+			"qu'il/elle": "renouvât",
+			"qu'ils/elles": "renouvassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse renouvé",
+			"que": "vous eussiez renouvé",
+			"qu'il/elle": "eût renouvé",
+			"qu'ils/elles": "eussent renouvé"
+		},
+		"passé": {
+			"j'": "aie renouvé",
+			"que": "vous ayez renouvé",
+			"qu'il/elle": "ait renouvé",
+			"qu'ils/elles": "aient renouvé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "renouverais",
+			"tu": "renouverais",
+			"il/elle": "renouverait",
+			"nous": "renouverions",
+			"vous": "renouveriez",
+			"ils/elles": "renouveraient"
+		},
+		"passé première forme": {
+			"j'": "aurais renouvé",
+			"tu": "aurais renouvé",
+			"il/elle": "aurait renouvé",
+			"nous": "aurions renouvé",
+			"vous": "auriez renouvé",
+			"ils/elles": "auraient renouvé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse renouvé",
+			"tu": "eusses renouvé",
+			"il/elle": "eût renouvé",
+			"nous": "eussions renouvé",
+			"vous": "eussiez renouvé",
+			"ils/elles": "eussent renouvé"
+		}
+	},
+	"participe": {
+		"présent": { "renouvant": "" },
+		"passé composé": { "ayant": "renouvé" },
+		"passé": {
+			"masc.sg.:": "renouvé",
+			"masc.pl.:": "renouvés",
+			"fém.sg.:": "renouvée",
+			"fém.pl.:": "renouvées"
+		}
+	},
+	"imperatif": {
+		"présent": { "renouve": "", "renouvons": "", "renouvez": "" },
+		"passé": { "aie": "renouvé", "ayons": "renouvé", "ayez": "renouvé" }
+	},
+	"infinitif": {
+		"présent": { "renouver": "" },
+		"passé": { "avoir": "renouvé" }
+	}
+}

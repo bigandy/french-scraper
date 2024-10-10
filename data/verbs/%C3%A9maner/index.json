@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "emanate from; arise from; arise; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'émaner/ne pas émaner/ne pas s'émaner",
+	"indicatif": {
+		"présent": {
+			"j'": "émane",
+			"tu": "émanes",
+			"il/elle": "émane",
+			"nous": "émanons",
+			"vous": "émanez",
+			"ils/elles": "émanent"
+		},
+		"imparfait": {
+			"j'": "émanais",
+			"tu": "émanais",
+			"il/elle": "émanait",
+			"nous": "émanions",
+			"vous": "émaniez",
+			"ils/elles": "émanaient"
+		},
+		"futur": {
+			"j'": "émanerai",
+			"tu": "émaneras",
+			"il/elle": "émanera",
+			"nous": "émanerons",
+			"vous": "émanerez",
+			"ils/elles": "émaneront"
+		},
+		"passé simple": {
+			"j'": "émanai",
+			"tu": "émanas",
+			"il/elle": "émana",
+			"nous": "émanâmes",
+			"vous": "émanâtes",
+			"ils/elles": "émanèrent"
+		},
+		"passé composé": {
+			"j'": "ai émané",
+			"tu": "as émané",
+			"il/elle": "a émané",
+			"nous": "avons émané",
+			"vous": "avez émané",
+			"ils/elles": "ont émané"
+		},
+		"plus-que-parfait": {
+			"j'": "avais émané",
+			"tu": "avais émané",
+			"il/elle": "avait émané",
+			"nous": "avions émané",
+			"vous": "aviez émané",
+			"ils/elles": "avaient émané"
+		},
+		"passé antérieur": {
+			"j'": "eus émané",
+			"tu": "eus émané",
+			"il/elle": "eut émané",
+			"nous": "eûmes émané",
+			"vous": "eûtes émané",
+			"ils/elles": "eurent émané"
+		},
+		"futur antérieur": {
+			"j'": "aurai émané",
+			"tu": "auras émané",
+			"il/elle": "aura émané",
+			"nous": "aurons émané",
+			"vous": "aurez émané",
+			"ils/elles": "auront émané"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "émane",
+			"que": "vous émaniez",
+			"qu'il/elle": "émane",
+			"qu'ils/elles": "émanent"
+		},
+		"imparfait": {
+			"j'": "émanasse",
+			"que": "vous émanassiez",
+			"qu'il/elle": "émanât",
+			"qu'ils/elles": "émanassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse émané",
+			"que": "vous eussiez émané",
+			"qu'il/elle": "eût émané",
+			"qu'ils/elles": "eussent émané"
+		},
+		"passé": {
+			"j'": "aie émané",
+			"que": "vous ayez émané",
+			"qu'il/elle": "ait émané",
+			"qu'ils/elles": "aient émané"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "émanerais",
+			"tu": "émanerais",
+			"il/elle": "émanerait",
+			"nous": "émanerions",
+			"vous": "émaneriez",
+			"ils/elles": "émaneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais émané",
+			"tu": "aurais émané",
+			"il/elle": "aurait émané",
+			"nous": "aurions émané",
+			"vous": "auriez émané",
+			"ils/elles": "auraient émané"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse émané",
+			"tu": "eusses émané",
+			"il/elle": "eût émané",
+			"nous": "eussions émané",
+			"vous": "eussiez émané",
+			"ils/elles": "eussent émané"
+		}
+	},
+	"participe": {
+		"présent": { "émanant": "" },
+		"passé composé": { "ayant": "émané" },
+		"passé": {
+			"masc.sg.:": "émané",
+			"masc.pl.:": "émanés",
+			"fém.sg.:": "émanée",
+			"fém.pl.:": "émanées"
+		}
+	},
+	"imperatif": {
+		"présent": { "émane": "", "émanons": "", "émanez": "" },
+		"passé": { "aie": "émané", "ayons": "émané", "ayez": "émané" }
+	},
+	"infinitif": { "présent": { "émaner": "" }, "passé": { "avoir": "émané" } }
+}

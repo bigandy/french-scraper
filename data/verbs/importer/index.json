@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "import; matter; upload; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'importer/ne pas importer/ne pas s'importer",
+	"indicatif": {
+		"présent": {
+			"j'": "importe",
+			"tu": "importes",
+			"il/elle": "importe",
+			"nous": "importons",
+			"vous": "importez",
+			"ils/elles": "importent"
+		},
+		"imparfait": {
+			"j'": "importais",
+			"tu": "importais",
+			"il/elle": "importait",
+			"nous": "importions",
+			"vous": "importiez",
+			"ils/elles": "importaient"
+		},
+		"futur": {
+			"j'": "importerai",
+			"tu": "importeras",
+			"il/elle": "importera",
+			"nous": "importerons",
+			"vous": "importerez",
+			"ils/elles": "importeront"
+		},
+		"passé simple": {
+			"j'": "importai",
+			"tu": "importas",
+			"il/elle": "importa",
+			"nous": "importâmes",
+			"vous": "importâtes",
+			"ils/elles": "importèrent"
+		},
+		"passé composé": {
+			"j'": "ai importé",
+			"tu": "as importé",
+			"il/elle": "a importé",
+			"nous": "avons importé",
+			"vous": "avez importé",
+			"ils/elles": "ont importé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais importé",
+			"tu": "avais importé",
+			"il/elle": "avait importé",
+			"nous": "avions importé",
+			"vous": "aviez importé",
+			"ils/elles": "avaient importé"
+		},
+		"passé antérieur": {
+			"j'": "eus importé",
+			"tu": "eus importé",
+			"il/elle": "eut importé",
+			"nous": "eûmes importé",
+			"vous": "eûtes importé",
+			"ils/elles": "eurent importé"
+		},
+		"futur antérieur": {
+			"j'": "aurai importé",
+			"tu": "auras importé",
+			"il/elle": "aura importé",
+			"nous": "aurons importé",
+			"vous": "aurez importé",
+			"ils/elles": "auront importé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "importe",
+			"que": "vous importiez",
+			"qu'il/elle": "importe",
+			"qu'ils/elles": "importent"
+		},
+		"imparfait": {
+			"j'": "importasse",
+			"que": "vous importassiez",
+			"qu'il/elle": "importât",
+			"qu'ils/elles": "importassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse importé",
+			"que": "vous eussiez importé",
+			"qu'il/elle": "eût importé",
+			"qu'ils/elles": "eussent importé"
+		},
+		"passé": {
+			"j'": "aie importé",
+			"que": "vous ayez importé",
+			"qu'il/elle": "ait importé",
+			"qu'ils/elles": "aient importé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "importerais",
+			"tu": "importerais",
+			"il/elle": "importerait",
+			"nous": "importerions",
+			"vous": "importeriez",
+			"ils/elles": "importeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais importé",
+			"tu": "aurais importé",
+			"il/elle": "aurait importé",
+			"nous": "aurions importé",
+			"vous": "auriez importé",
+			"ils/elles": "auraient importé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse importé",
+			"tu": "eusses importé",
+			"il/elle": "eût importé",
+			"nous": "eussions importé",
+			"vous": "eussiez importé",
+			"ils/elles": "eussent importé"
+		}
+	},
+	"participe": {
+		"présent": { "important": "" },
+		"passé composé": { "ayant": "importé" },
+		"passé": {
+			"masc.sg.:": "importé",
+			"masc.pl.:": "importés",
+			"fém.sg.:": "importée",
+			"fém.pl.:": "importées"
+		}
+	},
+	"imperatif": {
+		"présent": { "importe": "", "importons": "", "importez": "" },
+		"passé": { "aie": "importé", "ayons": "importé", "ayez": "importé" }
+	},
+	"infinitif": {
+		"présent": { "importer": "" },
+		"passé": { "avoir": "importé" }
+	}
+}

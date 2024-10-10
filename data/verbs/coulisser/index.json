@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "slide; slide out; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se coulisser/ne pas coulisser/ne pas se coulisser",
+	"indicatif": {
+		"présent": {
+			"je": "coulisse",
+			"tu": "coulisses",
+			"il/elle": "coulisse",
+			"nous": "coulissons",
+			"vous": "coulissez",
+			"ils/elles": "coulissent"
+		},
+		"imparfait": {
+			"je": "coulissais",
+			"tu": "coulissais",
+			"il/elle": "coulissait",
+			"nous": "coulissions",
+			"vous": "coulissiez",
+			"ils/elles": "coulissaient"
+		},
+		"futur": {
+			"je": "coulisserai",
+			"tu": "coulisseras",
+			"il/elle": "coulissera",
+			"nous": "coulisserons",
+			"vous": "coulisserez",
+			"ils/elles": "coulisseront"
+		},
+		"passé simple": {
+			"je": "coulissai",
+			"tu": "coulissas",
+			"il/elle": "coulissa",
+			"nous": "coulissâmes",
+			"vous": "coulissâtes",
+			"ils/elles": "coulissèrent"
+		},
+		"passé composé": {
+			"j'": "ai coulissé",
+			"tu": "as coulissé",
+			"il/elle": "a coulissé",
+			"nous": "avons coulissé",
+			"vous": "avez coulissé",
+			"ils/elles": "ont coulissé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais coulissé",
+			"tu": "avais coulissé",
+			"il/elle": "avait coulissé",
+			"nous": "avions coulissé",
+			"vous": "aviez coulissé",
+			"ils/elles": "avaient coulissé"
+		},
+		"passé antérieur": {
+			"j'": "eus coulissé",
+			"tu": "eus coulissé",
+			"il/elle": "eut coulissé",
+			"nous": "eûmes coulissé",
+			"vous": "eûtes coulissé",
+			"ils/elles": "eurent coulissé"
+		},
+		"futur antérieur": {
+			"j'": "aurai coulissé",
+			"tu": "auras coulissé",
+			"il/elle": "aura coulissé",
+			"nous": "aurons coulissé",
+			"vous": "aurez coulissé",
+			"ils/elles": "auront coulissé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous coulissiez",
+			"qu'il/elle": "coulisse",
+			"qu'ils/elles": "coulissent"
+		},
+		"imparfait": {
+			"que": "vous coulissassiez",
+			"qu'il/elle": "coulissât",
+			"qu'ils/elles": "coulissassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse coulissé",
+			"que": "vous eussiez coulissé",
+			"qu'il/elle": "eût coulissé",
+			"qu'ils/elles": "eussent coulissé"
+		},
+		"passé": {
+			"j'": "aie coulissé",
+			"que": "vous ayez coulissé",
+			"qu'il/elle": "ait coulissé",
+			"qu'ils/elles": "aient coulissé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "coulisserais",
+			"tu": "coulisserais",
+			"il/elle": "coulisserait",
+			"nous": "coulisserions",
+			"vous": "coulisseriez",
+			"ils/elles": "coulisseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais coulissé",
+			"tu": "aurais coulissé",
+			"il/elle": "aurait coulissé",
+			"nous": "aurions coulissé",
+			"vous": "auriez coulissé",
+			"ils/elles": "auraient coulissé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse coulissé",
+			"tu": "eusses coulissé",
+			"il/elle": "eût coulissé",
+			"nous": "eussions coulissé",
+			"vous": "eussiez coulissé",
+			"ils/elles": "eussent coulissé"
+		}
+	},
+	"participe": {
+		"présent": { "coulissant": "" },
+		"passé composé": { "ayant": "coulissé" },
+		"passé": {
+			"masc.sg.:": "coulissé",
+			"masc.pl.:": "coulissés",
+			"fém.sg.:": "coulissée",
+			"fém.pl.:": "coulissées"
+		}
+	},
+	"imperatif": {
+		"présent": { "coulisse": "", "coulissons": "", "coulissez": "" },
+		"passé": { "aie": "coulissé", "ayons": "coulissé", "ayez": "coulissé" }
+	},
+	"infinitif": {
+		"présent": { "coulisser": "" },
+		"passé": { "avoir": "coulissé" }
+	}
+}

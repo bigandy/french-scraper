@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "quote; mention; cite; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se citer/ne pas citer/ne pas se citer",
+	"indicatif": {
+		"présent": {
+			"je": "cite",
+			"tu": "cites",
+			"il/elle": "cite",
+			"nous": "citons",
+			"vous": "citez",
+			"ils/elles": "citent"
+		},
+		"imparfait": {
+			"je": "citais",
+			"tu": "citais",
+			"il/elle": "citait",
+			"nous": "citions",
+			"vous": "citiez",
+			"ils/elles": "citaient"
+		},
+		"futur": {
+			"je": "citerai",
+			"tu": "citeras",
+			"il/elle": "citera",
+			"nous": "citerons",
+			"vous": "citerez",
+			"ils/elles": "citeront"
+		},
+		"passé simple": {
+			"je": "citai",
+			"tu": "citas",
+			"il/elle": "cita",
+			"nous": "citâmes",
+			"vous": "citâtes",
+			"ils/elles": "citèrent"
+		},
+		"passé composé": {
+			"j'": "ai cité",
+			"tu": "as cité",
+			"il/elle": "a cité",
+			"nous": "avons cité",
+			"vous": "avez cité",
+			"ils/elles": "ont cité"
+		},
+		"plus-que-parfait": {
+			"j'": "avais cité",
+			"tu": "avais cité",
+			"il/elle": "avait cité",
+			"nous": "avions cité",
+			"vous": "aviez cité",
+			"ils/elles": "avaient cité"
+		},
+		"passé antérieur": {
+			"j'": "eus cité",
+			"tu": "eus cité",
+			"il/elle": "eut cité",
+			"nous": "eûmes cité",
+			"vous": "eûtes cité",
+			"ils/elles": "eurent cité"
+		},
+		"futur antérieur": {
+			"j'": "aurai cité",
+			"tu": "auras cité",
+			"il/elle": "aura cité",
+			"nous": "aurons cité",
+			"vous": "aurez cité",
+			"ils/elles": "auront cité"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous citiez",
+			"qu'il/elle": "cite",
+			"qu'ils/elles": "citent"
+		},
+		"imparfait": {
+			"que": "vous citassiez",
+			"qu'il/elle": "citât",
+			"qu'ils/elles": "citassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse cité",
+			"que": "vous eussiez cité",
+			"qu'il/elle": "eût cité",
+			"qu'ils/elles": "eussent cité"
+		},
+		"passé": {
+			"j'": "aie cité",
+			"que": "vous ayez cité",
+			"qu'il/elle": "ait cité",
+			"qu'ils/elles": "aient cité"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "citerais",
+			"tu": "citerais",
+			"il/elle": "citerait",
+			"nous": "citerions",
+			"vous": "citeriez",
+			"ils/elles": "citeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais cité",
+			"tu": "aurais cité",
+			"il/elle": "aurait cité",
+			"nous": "aurions cité",
+			"vous": "auriez cité",
+			"ils/elles": "auraient cité"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse cité",
+			"tu": "eusses cité",
+			"il/elle": "eût cité",
+			"nous": "eussions cité",
+			"vous": "eussiez cité",
+			"ils/elles": "eussent cité"
+		}
+	},
+	"participe": {
+		"présent": { "citant": "" },
+		"passé composé": { "ayant": "cité" },
+		"passé": {
+			"masc.sg.:": "cité",
+			"masc.pl.:": "cités",
+			"fém.sg.:": "citée",
+			"fém.pl.:": "citées"
+		}
+	},
+	"imperatif": {
+		"présent": { "cite": "", "citons": "", "citez": "" },
+		"passé": { "aie": "cité", "ayons": "cité", "ayez": "cité" }
+	},
+	"infinitif": { "présent": { "citer": "" }, "passé": { "avoir": "cité" } }
+}

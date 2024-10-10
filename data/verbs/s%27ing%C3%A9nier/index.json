@@ -1,0 +1,155 @@
+{
+	"name": "marcher",
+	"definition": "contrive; strive; try hard; ...",
+	"model": "marcher",
+	"auxiliary": "être",
+	"otherForms": "ne pas s'ingénier",
+	"indicatif": {
+		"présent": {
+			"je": "m'ingénie",
+			"tu": "t'ingénies",
+			"il/elle": "s'ingénie",
+			"nous": "nous ingénions",
+			"vous": "vous ingéniez",
+			"ils/elles": "s'ingénient"
+		},
+		"imparfait": {
+			"je": "m'ingéniais",
+			"tu": "t'ingéniais",
+			"il/elle": "s'ingéniait",
+			"nous": "nous ingéniions",
+			"vous": "vous ingéniiez",
+			"ils/elles": "s'ingéniaient"
+		},
+		"futur": {
+			"je": "m'ingénierai",
+			"tu": "t'ingénieras",
+			"il/elle": "s'ingéniera",
+			"nous": "nous ingénierons",
+			"vous": "vous ingénierez",
+			"ils/elles": "s'ingénieront"
+		},
+		"passé simple": {
+			"je": "m'ingéniai",
+			"tu": "t'ingénias",
+			"il/elle": "s'ingénia",
+			"nous": "nous ingéniâmes",
+			"vous": "vous ingéniâtes",
+			"ils/elles": "s'ingénièrent"
+		},
+		"passé composé": {
+			"je": "me suis ingénié",
+			"tu": "t'es ingénié",
+			"il": "s'est ingénié",
+			"elle": "s'est ingéniée",
+			"nous": "nous sommes ingéniés",
+			"vous": "vous êtes ingéniés",
+			"ils": "se sont ingéniés",
+			"elles": "se sont ingéniées"
+		},
+		"plus-que-parfait": {
+			"je": "m'étais ingénié",
+			"tu": "t'étais ingénié",
+			"il": "s'était ingénié",
+			"elle": "s'était ingéniée",
+			"nous": "nous étions ingéniés",
+			"vous": "vous étiez ingéniés",
+			"ils": "s'étaient ingéniés",
+			"elles": "s'étaient ingéniées"
+		},
+		"passé antérieur": {
+			"je": "me fus ingénié",
+			"tu": "te fus ingénié",
+			"il": "se fut ingénié",
+			"elle": "se fut ingéniée",
+			"nous": "nous fûmes ingéniés",
+			"vous": "vous fûtes ingéniés",
+			"ils": "se furent ingéniés",
+			"elles": "se furent ingéniées"
+		},
+		"futur antérieur": {
+			"je": "me serai ingénié",
+			"tu": "te seras ingénié",
+			"il": "se sera ingénié",
+			"elle": "se sera ingéniée",
+			"nous": "nous serons ingéniés",
+			"vous": "vous serez ingéniés",
+			"ils": "se seront ingéniés",
+			"elles": "se seront ingéniées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous vous ingéniiez",
+			"qu'il/elle": "s'ingénie",
+			"qu'ils/elles": "s'ingénient"
+		},
+		"imparfait": {
+			"que": "vous vous ingéniassiez",
+			"qu'il/elle": "s'ingéniât",
+			"qu'ils/elles": "s'ingéniassent"
+		},
+		"plus-que-parfait": {
+			"que": "vous vous fussiez ingéniés",
+			"qu'il": "se fût ingénié",
+			"qu'elle": "se fût ingéniée",
+			"qu'ils": "se fussent ingéniés",
+			"qu'elles": "se fussent ingéniées"
+		},
+		"passé": {
+			"que": "vous vous soyez ingéniés",
+			"qu'il": "se soit ingénié",
+			"qu'elle": "se soit ingéniée",
+			"qu'ils": "se soient ingéniés",
+			"qu'elles": "se soient ingéniées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "m'ingénierais",
+			"tu": "t'ingénierais",
+			"il/elle": "s'ingénierait",
+			"nous": "nous ingénierions",
+			"vous": "vous ingénieriez",
+			"ils/elles": "s'ingénieraient"
+		},
+		"passé première forme": {
+			"je": "me serais ingénié",
+			"tu": "te serais ingénié",
+			"il": "se serait ingénié",
+			"elle": "se serait ingéniée",
+			"nous": "nous serions ingéniés",
+			"vous": "vous seriez ingéniés",
+			"ils": "se seraient ingéniés",
+			"elles": "se seraient ingéniées"
+		},
+		"passé deuxième forme": {
+			"je": "me fusse ingénié",
+			"tu": "te fusses ingénié",
+			"il": "se fût ingénié",
+			"elle": "se fût ingéniée",
+			"nous": "nous fussions ingéniés",
+			"vous": "vous fussiez ingéniés",
+			"ils": "se fussent ingéniés",
+			"elles": "se fussent ingéniées"
+		}
+	},
+	"participe": {
+		"présent": { "s'ingéniant": "" },
+		"passé composé": { "s'étant": "ingénié" },
+		"passé": {
+			"masc.sg.:": "ingénié",
+			"masc.pl.:": "ingéniés",
+			"fém.sg.:": "ingéniée",
+			"fém.pl.:": "ingéniées"
+		}
+	},
+	"imperatif": {
+		"présent": { "ingénie-toi": "", "ingénions-nous": "", "ingéniez-vous": "" },
+		"passé": {}
+	},
+	"infinitif": {
+		"présent": { "s'ingénier": "" },
+		"passé": { "s'être": "ingénié" }
+	}
+}

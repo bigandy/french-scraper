@@ -1,0 +1,140 @@
+{
+	"name": "finir",
+	"definition": "establish; set; prepare; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "s'établir/ne pas établir/ne pas s'établir",
+	"indicatif": {
+		"présent": {
+			"j'": "établis",
+			"tu": "établis",
+			"il/elle": "établit",
+			"nous": "établissons",
+			"vous": "établissez",
+			"ils/elles": "établissent"
+		},
+		"imparfait": {
+			"j'": "établissais",
+			"tu": "établissais",
+			"il/elle": "établissait",
+			"nous": "établissions",
+			"vous": "établissiez",
+			"ils/elles": "établissaient"
+		},
+		"futur": {
+			"j'": "établirai",
+			"tu": "établiras",
+			"il/elle": "établira",
+			"nous": "établirons",
+			"vous": "établirez",
+			"ils/elles": "établiront"
+		},
+		"passé simple": {
+			"j'": "établis",
+			"tu": "établis",
+			"il/elle": "établit",
+			"nous": "établîmes",
+			"vous": "établîtes",
+			"ils/elles": "établirent"
+		},
+		"passé composé": {
+			"j'": "ai établi",
+			"tu": "as établi",
+			"il/elle": "a établi",
+			"nous": "avons établi",
+			"vous": "avez établi",
+			"ils/elles": "ont établi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais établi",
+			"tu": "avais établi",
+			"il/elle": "avait établi",
+			"nous": "avions établi",
+			"vous": "aviez établi",
+			"ils/elles": "avaient établi"
+		},
+		"passé antérieur": {
+			"j'": "eus établi",
+			"tu": "eus établi",
+			"il/elle": "eut établi",
+			"nous": "eûmes établi",
+			"vous": "eûtes établi",
+			"ils/elles": "eurent établi"
+		},
+		"futur antérieur": {
+			"j'": "aurai établi",
+			"tu": "auras établi",
+			"il/elle": "aura établi",
+			"nous": "aurons établi",
+			"vous": "aurez établi",
+			"ils/elles": "auront établi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "établisse",
+			"que": "vous établissiez",
+			"qu'il/elle": "établisse",
+			"qu'ils/elles": "établissent"
+		},
+		"imparfait": {
+			"j'": "établisse",
+			"que": "vous établissiez",
+			"qu'il/elle": "établît",
+			"qu'ils/elles": "établissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse établi",
+			"que": "vous eussiez établi",
+			"qu'il/elle": "eût établi",
+			"qu'ils/elles": "eussent établi"
+		},
+		"passé": {
+			"j'": "aie établi",
+			"que": "vous ayez établi",
+			"qu'il/elle": "ait établi",
+			"qu'ils/elles": "aient établi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "établirais",
+			"tu": "établirais",
+			"il/elle": "établirait",
+			"nous": "établirions",
+			"vous": "établiriez",
+			"ils/elles": "établiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais établi",
+			"tu": "aurais établi",
+			"il/elle": "aurait établi",
+			"nous": "aurions établi",
+			"vous": "auriez établi",
+			"ils/elles": "auraient établi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse établi",
+			"tu": "eusses établi",
+			"il/elle": "eût établi",
+			"nous": "eussions établi",
+			"vous": "eussiez établi",
+			"ils/elles": "eussent établi"
+		}
+	},
+	"participe": {
+		"présent": { "établissant": "" },
+		"passé composé": { "ayant": "établi" },
+		"passé": {
+			"masc.sg.:": "établi",
+			"masc.pl.:": "établis",
+			"fém.sg.:": "établie",
+			"fém.pl.:": "établies"
+		}
+	},
+	"imperatif": {
+		"présent": { "établis": "", "établissons": "", "établissez": "" },
+		"passé": { "aie": "établi", "ayons": "établi", "ayez": "établi" }
+	},
+	"infinitif": { "présent": { "établir": "" }, "passé": { "avoir": "établi" } }
+}

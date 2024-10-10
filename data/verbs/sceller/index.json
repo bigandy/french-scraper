@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "seal; cement; reseal; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se sceller/ne pas sceller/ne pas se sceller",
+	"indicatif": {
+		"présent": {
+			"je": "scelle",
+			"tu": "scelles",
+			"il/elle": "scelle",
+			"nous": "scellons",
+			"vous": "scellez",
+			"ils/elles": "scellent"
+		},
+		"imparfait": {
+			"je": "scellais",
+			"tu": "scellais",
+			"il/elle": "scellait",
+			"nous": "scellions",
+			"vous": "scelliez",
+			"ils/elles": "scellaient"
+		},
+		"futur": {
+			"je": "scellerai",
+			"tu": "scelleras",
+			"il/elle": "scellera",
+			"nous": "scellerons",
+			"vous": "scellerez",
+			"ils/elles": "scelleront"
+		},
+		"passé simple": {
+			"je": "scellai",
+			"tu": "scellas",
+			"il/elle": "scella",
+			"nous": "scellâmes",
+			"vous": "scellâtes",
+			"ils/elles": "scellèrent"
+		},
+		"passé composé": {
+			"j'": "ai scellé",
+			"tu": "as scellé",
+			"il/elle": "a scellé",
+			"nous": "avons scellé",
+			"vous": "avez scellé",
+			"ils/elles": "ont scellé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais scellé",
+			"tu": "avais scellé",
+			"il/elle": "avait scellé",
+			"nous": "avions scellé",
+			"vous": "aviez scellé",
+			"ils/elles": "avaient scellé"
+		},
+		"passé antérieur": {
+			"j'": "eus scellé",
+			"tu": "eus scellé",
+			"il/elle": "eut scellé",
+			"nous": "eûmes scellé",
+			"vous": "eûtes scellé",
+			"ils/elles": "eurent scellé"
+		},
+		"futur antérieur": {
+			"j'": "aurai scellé",
+			"tu": "auras scellé",
+			"il/elle": "aura scellé",
+			"nous": "aurons scellé",
+			"vous": "aurez scellé",
+			"ils/elles": "auront scellé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous scelliez",
+			"qu'il/elle": "scelle",
+			"qu'ils/elles": "scellent"
+		},
+		"imparfait": {
+			"que": "vous scellassiez",
+			"qu'il/elle": "scellât",
+			"qu'ils/elles": "scellassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse scellé",
+			"que": "vous eussiez scellé",
+			"qu'il/elle": "eût scellé",
+			"qu'ils/elles": "eussent scellé"
+		},
+		"passé": {
+			"j'": "aie scellé",
+			"que": "vous ayez scellé",
+			"qu'il/elle": "ait scellé",
+			"qu'ils/elles": "aient scellé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "scellerais",
+			"tu": "scellerais",
+			"il/elle": "scellerait",
+			"nous": "scellerions",
+			"vous": "scelleriez",
+			"ils/elles": "scelleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais scellé",
+			"tu": "aurais scellé",
+			"il/elle": "aurait scellé",
+			"nous": "aurions scellé",
+			"vous": "auriez scellé",
+			"ils/elles": "auraient scellé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse scellé",
+			"tu": "eusses scellé",
+			"il/elle": "eût scellé",
+			"nous": "eussions scellé",
+			"vous": "eussiez scellé",
+			"ils/elles": "eussent scellé"
+		}
+	},
+	"participe": {
+		"présent": { "scellant": "" },
+		"passé composé": { "ayant": "scellé" },
+		"passé": {
+			"masc.sg.:": "scellé",
+			"masc.pl.:": "scellés",
+			"fém.sg.:": "scellée",
+			"fém.pl.:": "scellées"
+		}
+	},
+	"imperatif": {
+		"présent": { "scelle": "", "scellons": "", "scellez": "" },
+		"passé": { "aie": "scellé", "ayons": "scellé", "ayez": "scellé" }
+	},
+	"infinitif": { "présent": { "sceller": "" }, "passé": { "avoir": "scellé" } }
+}

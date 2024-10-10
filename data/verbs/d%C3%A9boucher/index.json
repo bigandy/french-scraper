@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "lead; result; lead to; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se déboucher/ne pas déboucher/ne pas se déboucher",
+	"indicatif": {
+		"présent": {
+			"je": "débouche",
+			"tu": "débouches",
+			"il/elle": "débouche",
+			"nous": "débouchons",
+			"vous": "débouchez",
+			"ils/elles": "débouchent"
+		},
+		"imparfait": {
+			"je": "débouchais",
+			"tu": "débouchais",
+			"il/elle": "débouchait",
+			"nous": "débouchions",
+			"vous": "débouchiez",
+			"ils/elles": "débouchaient"
+		},
+		"futur": {
+			"je": "déboucherai",
+			"tu": "déboucheras",
+			"il/elle": "débouchera",
+			"nous": "déboucherons",
+			"vous": "déboucherez",
+			"ils/elles": "déboucheront"
+		},
+		"passé simple": {
+			"je": "débouchai",
+			"tu": "débouchas",
+			"il/elle": "déboucha",
+			"nous": "débouchâmes",
+			"vous": "débouchâtes",
+			"ils/elles": "débouchèrent"
+		},
+		"passé composé": {
+			"j'": "ai débouché",
+			"tu": "as débouché",
+			"il/elle": "a débouché",
+			"nous": "avons débouché",
+			"vous": "avez débouché",
+			"ils/elles": "ont débouché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais débouché",
+			"tu": "avais débouché",
+			"il/elle": "avait débouché",
+			"nous": "avions débouché",
+			"vous": "aviez débouché",
+			"ils/elles": "avaient débouché"
+		},
+		"passé antérieur": {
+			"j'": "eus débouché",
+			"tu": "eus débouché",
+			"il/elle": "eut débouché",
+			"nous": "eûmes débouché",
+			"vous": "eûtes débouché",
+			"ils/elles": "eurent débouché"
+		},
+		"futur antérieur": {
+			"j'": "aurai débouché",
+			"tu": "auras débouché",
+			"il/elle": "aura débouché",
+			"nous": "aurons débouché",
+			"vous": "aurez débouché",
+			"ils/elles": "auront débouché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous débouchiez",
+			"qu'il/elle": "débouche",
+			"qu'ils/elles": "débouchent"
+		},
+		"imparfait": {
+			"que": "vous débouchassiez",
+			"qu'il/elle": "débouchât",
+			"qu'ils/elles": "débouchassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse débouché",
+			"que": "vous eussiez débouché",
+			"qu'il/elle": "eût débouché",
+			"qu'ils/elles": "eussent débouché"
+		},
+		"passé": {
+			"j'": "aie débouché",
+			"que": "vous ayez débouché",
+			"qu'il/elle": "ait débouché",
+			"qu'ils/elles": "aient débouché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "déboucherais",
+			"tu": "déboucherais",
+			"il/elle": "déboucherait",
+			"nous": "déboucherions",
+			"vous": "déboucheriez",
+			"ils/elles": "déboucheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais débouché",
+			"tu": "aurais débouché",
+			"il/elle": "aurait débouché",
+			"nous": "aurions débouché",
+			"vous": "auriez débouché",
+			"ils/elles": "auraient débouché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse débouché",
+			"tu": "eusses débouché",
+			"il/elle": "eût débouché",
+			"nous": "eussions débouché",
+			"vous": "eussiez débouché",
+			"ils/elles": "eussent débouché"
+		}
+	},
+	"participe": {
+		"présent": { "débouchant": "" },
+		"passé composé": { "ayant": "débouché" },
+		"passé": {
+			"masc.sg.:": "débouché",
+			"masc.pl.:": "débouchés",
+			"fém.sg.:": "débouchée",
+			"fém.pl.:": "débouchées"
+		}
+	},
+	"imperatif": {
+		"présent": { "débouche": "", "débouchons": "", "débouchez": "" },
+		"passé": { "aie": "débouché", "ayons": "débouché", "ayez": "débouché" }
+	},
+	"infinitif": {
+		"présent": { "déboucher": "" },
+		"passé": { "avoir": "débouché" }
+	}
+}

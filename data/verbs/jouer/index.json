@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "play; act; take; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se jouer/ne pas jouer/ne pas se jouer",
+	"indicatif": {
+		"présent": {
+			"je": "joue",
+			"tu": "joues",
+			"il/elle": "joue",
+			"nous": "jouons",
+			"vous": "jouez",
+			"ils/elles": "jouent"
+		},
+		"imparfait": {
+			"je": "jouais",
+			"tu": "jouais",
+			"il/elle": "jouait",
+			"nous": "jouions",
+			"vous": "jouiez",
+			"ils/elles": "jouaient"
+		},
+		"futur": {
+			"je": "jouerai",
+			"tu": "joueras",
+			"il/elle": "jouera",
+			"nous": "jouerons",
+			"vous": "jouerez",
+			"ils/elles": "joueront"
+		},
+		"passé simple": {
+			"je": "jouai",
+			"tu": "jouas",
+			"il/elle": "joua",
+			"nous": "jouâmes",
+			"vous": "jouâtes",
+			"ils/elles": "jouèrent"
+		},
+		"passé composé": {
+			"j'": "ai joué",
+			"tu": "as joué",
+			"il/elle": "a joué",
+			"nous": "avons joué",
+			"vous": "avez joué",
+			"ils/elles": "ont joué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais joué",
+			"tu": "avais joué",
+			"il/elle": "avait joué",
+			"nous": "avions joué",
+			"vous": "aviez joué",
+			"ils/elles": "avaient joué"
+		},
+		"passé antérieur": {
+			"j'": "eus joué",
+			"tu": "eus joué",
+			"il/elle": "eut joué",
+			"nous": "eûmes joué",
+			"vous": "eûtes joué",
+			"ils/elles": "eurent joué"
+		},
+		"futur antérieur": {
+			"j'": "aurai joué",
+			"tu": "auras joué",
+			"il/elle": "aura joué",
+			"nous": "aurons joué",
+			"vous": "aurez joué",
+			"ils/elles": "auront joué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous jouiez",
+			"qu'il/elle": "joue",
+			"qu'ils/elles": "jouent"
+		},
+		"imparfait": {
+			"que": "vous jouassiez",
+			"qu'il/elle": "jouât",
+			"qu'ils/elles": "jouassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse joué",
+			"que": "vous eussiez joué",
+			"qu'il/elle": "eût joué",
+			"qu'ils/elles": "eussent joué"
+		},
+		"passé": {
+			"j'": "aie joué",
+			"que": "vous ayez joué",
+			"qu'il/elle": "ait joué",
+			"qu'ils/elles": "aient joué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "jouerais",
+			"tu": "jouerais",
+			"il/elle": "jouerait",
+			"nous": "jouerions",
+			"vous": "joueriez",
+			"ils/elles": "joueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais joué",
+			"tu": "aurais joué",
+			"il/elle": "aurait joué",
+			"nous": "aurions joué",
+			"vous": "auriez joué",
+			"ils/elles": "auraient joué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse joué",
+			"tu": "eusses joué",
+			"il/elle": "eût joué",
+			"nous": "eussions joué",
+			"vous": "eussiez joué",
+			"ils/elles": "eussent joué"
+		}
+	},
+	"participe": {
+		"présent": { "jouant": "" },
+		"passé composé": { "ayant": "joué" },
+		"passé": {
+			"masc.sg.:": "joué",
+			"masc.pl.:": "joués",
+			"fém.sg.:": "jouée",
+			"fém.pl.:": "jouées"
+		}
+	},
+	"imperatif": {
+		"présent": { "joue": "", "jouons": "", "jouez": "" },
+		"passé": { "aie": "joué", "ayons": "joué", "ayez": "joué" }
+	},
+	"infinitif": { "présent": { "jouer": "" }, "passé": { "avoir": "joué" } }
+}

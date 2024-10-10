@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "win; earn; gain; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se gagner/ne pas gagner/ne pas se gagner",
+	"indicatif": {
+		"présent": {
+			"je": "gagne",
+			"tu": "gagnes",
+			"il/elle": "gagne",
+			"nous": "gagnons",
+			"vous": "gagnez",
+			"ils/elles": "gagnent"
+		},
+		"imparfait": {
+			"je": "gagnais",
+			"tu": "gagnais",
+			"il/elle": "gagnait",
+			"nous": "gagnions",
+			"vous": "gagniez",
+			"ils/elles": "gagnaient"
+		},
+		"futur": {
+			"je": "gagnerai",
+			"tu": "gagneras",
+			"il/elle": "gagnera",
+			"nous": "gagnerons",
+			"vous": "gagnerez",
+			"ils/elles": "gagneront"
+		},
+		"passé simple": {
+			"je": "gagnai",
+			"tu": "gagnas",
+			"il/elle": "gagna",
+			"nous": "gagnâmes",
+			"vous": "gagnâtes",
+			"ils/elles": "gagnèrent"
+		},
+		"passé composé": {
+			"j'": "ai gagné",
+			"tu": "as gagné",
+			"il/elle": "a gagné",
+			"nous": "avons gagné",
+			"vous": "avez gagné",
+			"ils/elles": "ont gagné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais gagné",
+			"tu": "avais gagné",
+			"il/elle": "avait gagné",
+			"nous": "avions gagné",
+			"vous": "aviez gagné",
+			"ils/elles": "avaient gagné"
+		},
+		"passé antérieur": {
+			"j'": "eus gagné",
+			"tu": "eus gagné",
+			"il/elle": "eut gagné",
+			"nous": "eûmes gagné",
+			"vous": "eûtes gagné",
+			"ils/elles": "eurent gagné"
+		},
+		"futur antérieur": {
+			"j'": "aurai gagné",
+			"tu": "auras gagné",
+			"il/elle": "aura gagné",
+			"nous": "aurons gagné",
+			"vous": "aurez gagné",
+			"ils/elles": "auront gagné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous gagniez",
+			"qu'il/elle": "gagne",
+			"qu'ils/elles": "gagnent"
+		},
+		"imparfait": {
+			"que": "vous gagnassiez",
+			"qu'il/elle": "gagnât",
+			"qu'ils/elles": "gagnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse gagné",
+			"que": "vous eussiez gagné",
+			"qu'il/elle": "eût gagné",
+			"qu'ils/elles": "eussent gagné"
+		},
+		"passé": {
+			"j'": "aie gagné",
+			"que": "vous ayez gagné",
+			"qu'il/elle": "ait gagné",
+			"qu'ils/elles": "aient gagné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "gagnerais",
+			"tu": "gagnerais",
+			"il/elle": "gagnerait",
+			"nous": "gagnerions",
+			"vous": "gagneriez",
+			"ils/elles": "gagneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais gagné",
+			"tu": "aurais gagné",
+			"il/elle": "aurait gagné",
+			"nous": "aurions gagné",
+			"vous": "auriez gagné",
+			"ils/elles": "auraient gagné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse gagné",
+			"tu": "eusses gagné",
+			"il/elle": "eût gagné",
+			"nous": "eussions gagné",
+			"vous": "eussiez gagné",
+			"ils/elles": "eussent gagné"
+		}
+	},
+	"participe": {
+		"présent": { "gagnant": "" },
+		"passé composé": { "ayant": "gagné" },
+		"passé": {
+			"masc.sg.:": "gagné",
+			"masc.pl.:": "gagnés",
+			"fém.sg.:": "gagnée",
+			"fém.pl.:": "gagnées"
+		}
+	},
+	"imperatif": {
+		"présent": { "gagne": "", "gagnons": "", "gagnez": "" },
+		"passé": { "aie": "gagné", "ayons": "gagné", "ayez": "gagné" }
+	},
+	"infinitif": { "présent": { "gagner": "" }, "passé": { "avoir": "gagné" } }
+}

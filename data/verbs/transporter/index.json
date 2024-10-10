@@ -1,0 +1,145 @@
+{
+	"name": "marcher",
+	"definition": "transport; carry; convey; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se transporter/ne pas transporter/ne pas se transporter",
+	"indicatif": {
+		"présent": {
+			"je": "transporte",
+			"tu": "transportes",
+			"il/elle": "transporte",
+			"nous": "transportons",
+			"vous": "transportez",
+			"ils/elles": "transportent"
+		},
+		"imparfait": {
+			"je": "transportais",
+			"tu": "transportais",
+			"il/elle": "transportait",
+			"nous": "transportions",
+			"vous": "transportiez",
+			"ils/elles": "transportaient"
+		},
+		"futur": {
+			"je": "transporterai",
+			"tu": "transporteras",
+			"il/elle": "transportera",
+			"nous": "transporterons",
+			"vous": "transporterez",
+			"ils/elles": "transporteront"
+		},
+		"passé simple": {
+			"je": "transportai",
+			"tu": "transportas",
+			"il/elle": "transporta",
+			"nous": "transportâmes",
+			"vous": "transportâtes",
+			"ils/elles": "transportèrent"
+		},
+		"passé composé": {
+			"j'": "ai transporté",
+			"tu": "as transporté",
+			"il/elle": "a transporté",
+			"nous": "avons transporté",
+			"vous": "avez transporté",
+			"ils/elles": "ont transporté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais transporté",
+			"tu": "avais transporté",
+			"il/elle": "avait transporté",
+			"nous": "avions transporté",
+			"vous": "aviez transporté",
+			"ils/elles": "avaient transporté"
+		},
+		"passé antérieur": {
+			"j'": "eus transporté",
+			"tu": "eus transporté",
+			"il/elle": "eut transporté",
+			"nous": "eûmes transporté",
+			"vous": "eûtes transporté",
+			"ils/elles": "eurent transporté"
+		},
+		"futur antérieur": {
+			"j'": "aurai transporté",
+			"tu": "auras transporté",
+			"il/elle": "aura transporté",
+			"nous": "aurons transporté",
+			"vous": "aurez transporté",
+			"ils/elles": "auront transporté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous transportiez",
+			"qu'il/elle": "transporte",
+			"qu'ils/elles": "transportent"
+		},
+		"imparfait": {
+			"que": "vous transportassiez",
+			"qu'il/elle": "transportât",
+			"qu'ils/elles": "transportassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse transporté",
+			"que": "vous eussiez transporté",
+			"qu'il/elle": "eût transporté",
+			"qu'ils/elles": "eussent transporté"
+		},
+		"passé": {
+			"j'": "aie transporté",
+			"que": "vous ayez transporté",
+			"qu'il/elle": "ait transporté",
+			"qu'ils/elles": "aient transporté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "transporterais",
+			"tu": "transporterais",
+			"il/elle": "transporterait",
+			"nous": "transporterions",
+			"vous": "transporteriez",
+			"ils/elles": "transporteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais transporté",
+			"tu": "aurais transporté",
+			"il/elle": "aurait transporté",
+			"nous": "aurions transporté",
+			"vous": "auriez transporté",
+			"ils/elles": "auraient transporté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse transporté",
+			"tu": "eusses transporté",
+			"il/elle": "eût transporté",
+			"nous": "eussions transporté",
+			"vous": "eussiez transporté",
+			"ils/elles": "eussent transporté"
+		}
+	},
+	"participe": {
+		"présent": { "transportant": "" },
+		"passé composé": { "ayant": "transporté" },
+		"passé": {
+			"masc.sg.:": "transporté",
+			"masc.pl.:": "transportés",
+			"fém.sg.:": "transportée",
+			"fém.pl.:": "transportées"
+		}
+	},
+	"imperatif": {
+		"présent": { "transporte": "", "transportons": "", "transportez": "" },
+		"passé": {
+			"aie": "transporté",
+			"ayons": "transporté",
+			"ayez": "transporté"
+		}
+	},
+	"infinitif": {
+		"présent": { "transporter": "" },
+		"passé": { "avoir": "transporté" }
+	}
+}

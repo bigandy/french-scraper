@@ -1,0 +1,143 @@
+{
+	"name": "aérer",
+	"definition": "accelerate; speed up; expedite; ...",
+	"model": "aérer",
+	"auxiliary": "avoir",
+	"otherForms": "s'accélérer/ne pas accélérer/ne pas s'accélérer",
+	"indicatif": {
+		"présent": {
+			"j'": "accélère",
+			"tu": "accélères",
+			"il/elle": "accélère",
+			"nous": "accélérons",
+			"vous": "accélérez",
+			"ils/elles": "accélèrent"
+		},
+		"imparfait": {
+			"j'": "accélérais",
+			"tu": "accélérais",
+			"il/elle": "accélérait",
+			"nous": "accélérions",
+			"vous": "accélériez",
+			"ils/elles": "accéléraient"
+		},
+		"futur": {
+			"j'": "accélérerai",
+			"tu": "accéléreras",
+			"il/elle": "accélérera",
+			"nous": "accélérerons",
+			"vous": "accélérerez",
+			"ils/elles": "accéléreront"
+		},
+		"passé simple": {
+			"j'": "accélérai",
+			"tu": "accéléras",
+			"il/elle": "accéléra",
+			"nous": "accélérâmes",
+			"vous": "accélérâtes",
+			"ils/elles": "accélérèrent"
+		},
+		"passé composé": {
+			"j'": "ai accéléré",
+			"tu": "as accéléré",
+			"il/elle": "a accéléré",
+			"nous": "avons accéléré",
+			"vous": "avez accéléré",
+			"ils/elles": "ont accéléré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais accéléré",
+			"tu": "avais accéléré",
+			"il/elle": "avait accéléré",
+			"nous": "avions accéléré",
+			"vous": "aviez accéléré",
+			"ils/elles": "avaient accéléré"
+		},
+		"passé antérieur": {
+			"j'": "eus accéléré",
+			"tu": "eus accéléré",
+			"il/elle": "eut accéléré",
+			"nous": "eûmes accéléré",
+			"vous": "eûtes accéléré",
+			"ils/elles": "eurent accéléré"
+		},
+		"futur antérieur": {
+			"j'": "aurai accéléré",
+			"tu": "auras accéléré",
+			"il/elle": "aura accéléré",
+			"nous": "aurons accéléré",
+			"vous": "aurez accéléré",
+			"ils/elles": "auront accéléré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "accélère",
+			"que": "vous accélériez",
+			"qu'il/elle": "accélère",
+			"qu'ils/elles": "accélèrent"
+		},
+		"imparfait": {
+			"j'": "accélérasse",
+			"que": "vous accélérassiez",
+			"qu'il/elle": "accélérât",
+			"qu'ils/elles": "accélérassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse accéléré",
+			"que": "vous eussiez accéléré",
+			"qu'il/elle": "eût accéléré",
+			"qu'ils/elles": "eussent accéléré"
+		},
+		"passé": {
+			"j'": "aie accéléré",
+			"que": "vous ayez accéléré",
+			"qu'il/elle": "ait accéléré",
+			"qu'ils/elles": "aient accéléré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "accélérerais",
+			"tu": "accélérerais",
+			"il/elle": "accélérerait",
+			"nous": "accélérerions",
+			"vous": "accéléreriez",
+			"ils/elles": "accéléreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais accéléré",
+			"tu": "aurais accéléré",
+			"il/elle": "aurait accéléré",
+			"nous": "aurions accéléré",
+			"vous": "auriez accéléré",
+			"ils/elles": "auraient accéléré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse accéléré",
+			"tu": "eusses accéléré",
+			"il/elle": "eût accéléré",
+			"nous": "eussions accéléré",
+			"vous": "eussiez accéléré",
+			"ils/elles": "eussent accéléré"
+		}
+	},
+	"participe": {
+		"présent": { "accélérant": "" },
+		"passé composé": { "ayant": "accéléré" },
+		"passé": {
+			"masc.sg.:": "accéléré",
+			"masc.pl.:": "accélérés",
+			"fém.sg.:": "accélérée",
+			"fém.pl.:": "accélérées"
+		}
+	},
+	"imperatif": {
+		"présent": { "accélère": "", "accélérons": "", "accélérez": "" },
+		"passé": { "aie": "accéléré", "ayons": "accéléré", "ayez": "accéléré" }
+	},
+	"infinitif": {
+		"présent": { "accélérer": "" },
+		"passé": { "avoir": "accéléré" }
+	}
+}

@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "comply with; comply; conform; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se conformer/ne pas conformer/ne pas se conformer",
+	"indicatif": {
+		"présent": {
+			"je": "conforme",
+			"tu": "conformes",
+			"il/elle": "conforme",
+			"nous": "conformons",
+			"vous": "conformez",
+			"ils/elles": "conforment"
+		},
+		"imparfait": {
+			"je": "conformais",
+			"tu": "conformais",
+			"il/elle": "conformait",
+			"nous": "conformions",
+			"vous": "conformiez",
+			"ils/elles": "conformaient"
+		},
+		"futur": {
+			"je": "conformerai",
+			"tu": "conformeras",
+			"il/elle": "conformera",
+			"nous": "conformerons",
+			"vous": "conformerez",
+			"ils/elles": "conformeront"
+		},
+		"passé simple": {
+			"je": "conformai",
+			"tu": "conformas",
+			"il/elle": "conforma",
+			"nous": "conformâmes",
+			"vous": "conformâtes",
+			"ils/elles": "conformèrent"
+		},
+		"passé composé": {
+			"j'": "ai conformé",
+			"tu": "as conformé",
+			"il/elle": "a conformé",
+			"nous": "avons conformé",
+			"vous": "avez conformé",
+			"ils/elles": "ont conformé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais conformé",
+			"tu": "avais conformé",
+			"il/elle": "avait conformé",
+			"nous": "avions conformé",
+			"vous": "aviez conformé",
+			"ils/elles": "avaient conformé"
+		},
+		"passé antérieur": {
+			"j'": "eus conformé",
+			"tu": "eus conformé",
+			"il/elle": "eut conformé",
+			"nous": "eûmes conformé",
+			"vous": "eûtes conformé",
+			"ils/elles": "eurent conformé"
+		},
+		"futur antérieur": {
+			"j'": "aurai conformé",
+			"tu": "auras conformé",
+			"il/elle": "aura conformé",
+			"nous": "aurons conformé",
+			"vous": "aurez conformé",
+			"ils/elles": "auront conformé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous conformiez",
+			"qu'il/elle": "conforme",
+			"qu'ils/elles": "conforment"
+		},
+		"imparfait": {
+			"que": "vous conformassiez",
+			"qu'il/elle": "conformât",
+			"qu'ils/elles": "conformassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse conformé",
+			"que": "vous eussiez conformé",
+			"qu'il/elle": "eût conformé",
+			"qu'ils/elles": "eussent conformé"
+		},
+		"passé": {
+			"j'": "aie conformé",
+			"que": "vous ayez conformé",
+			"qu'il/elle": "ait conformé",
+			"qu'ils/elles": "aient conformé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "conformerais",
+			"tu": "conformerais",
+			"il/elle": "conformerait",
+			"nous": "conformerions",
+			"vous": "conformeriez",
+			"ils/elles": "conformeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais conformé",
+			"tu": "aurais conformé",
+			"il/elle": "aurait conformé",
+			"nous": "aurions conformé",
+			"vous": "auriez conformé",
+			"ils/elles": "auraient conformé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse conformé",
+			"tu": "eusses conformé",
+			"il/elle": "eût conformé",
+			"nous": "eussions conformé",
+			"vous": "eussiez conformé",
+			"ils/elles": "eussent conformé"
+		}
+	},
+	"participe": {
+		"présent": { "conformant": "" },
+		"passé composé": { "ayant": "conformé" },
+		"passé": {
+			"masc.sg.:": "conformé",
+			"masc.pl.:": "conformés",
+			"fém.sg.:": "conformée",
+			"fém.pl.:": "conformées"
+		}
+	},
+	"imperatif": {
+		"présent": { "conforme": "", "conformons": "", "conformez": "" },
+		"passé": { "aie": "conformé", "ayons": "conformé", "ayez": "conformé" }
+	},
+	"infinitif": {
+		"présent": { "conformer": "" },
+		"passé": { "avoir": "conformé" }
+	}
+}

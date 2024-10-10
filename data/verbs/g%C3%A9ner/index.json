@@ -1,0 +1,138 @@
+{
+	"name": "aliéner",
+	"definition": "",
+	"model": "aliéner",
+	"auxiliary": "avoir",
+	"otherForms": "se géner/ne pas géner/ne pas se géner",
+	"indicatif": {
+		"présent": {
+			"je": "gène",
+			"tu": "gènes",
+			"il/elle": "gène",
+			"nous": "génons",
+			"vous": "génez",
+			"ils/elles": "gènent"
+		},
+		"imparfait": {
+			"je": "génais",
+			"tu": "génais",
+			"il/elle": "génait",
+			"nous": "génions",
+			"vous": "géniez",
+			"ils/elles": "génaient"
+		},
+		"futur": {
+			"je": "génerai",
+			"tu": "géneras",
+			"il/elle": "génera",
+			"nous": "génerons",
+			"vous": "génerez",
+			"ils/elles": "géneront"
+		},
+		"passé simple": {
+			"je": "génai",
+			"tu": "génas",
+			"il/elle": "géna",
+			"nous": "génâmes",
+			"vous": "génâtes",
+			"ils/elles": "génèrent"
+		},
+		"passé composé": {
+			"j'": "ai géné",
+			"tu": "as géné",
+			"il/elle": "a géné",
+			"nous": "avons géné",
+			"vous": "avez géné",
+			"ils/elles": "ont géné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais géné",
+			"tu": "avais géné",
+			"il/elle": "avait géné",
+			"nous": "avions géné",
+			"vous": "aviez géné",
+			"ils/elles": "avaient géné"
+		},
+		"passé antérieur": {
+			"j'": "eus géné",
+			"tu": "eus géné",
+			"il/elle": "eut géné",
+			"nous": "eûmes géné",
+			"vous": "eûtes géné",
+			"ils/elles": "eurent géné"
+		},
+		"futur antérieur": {
+			"j'": "aurai géné",
+			"tu": "auras géné",
+			"il/elle": "aura géné",
+			"nous": "aurons géné",
+			"vous": "aurez géné",
+			"ils/elles": "auront géné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous géniez",
+			"qu'il/elle": "gène",
+			"qu'ils/elles": "gènent"
+		},
+		"imparfait": {
+			"que": "vous génassiez",
+			"qu'il/elle": "génât",
+			"qu'ils/elles": "génassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse géné",
+			"que": "vous eussiez géné",
+			"qu'il/elle": "eût géné",
+			"qu'ils/elles": "eussent géné"
+		},
+		"passé": {
+			"j'": "aie géné",
+			"que": "vous ayez géné",
+			"qu'il/elle": "ait géné",
+			"qu'ils/elles": "aient géné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "génerais",
+			"tu": "génerais",
+			"il/elle": "génerait",
+			"nous": "génerions",
+			"vous": "géneriez",
+			"ils/elles": "géneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais géné",
+			"tu": "aurais géné",
+			"il/elle": "aurait géné",
+			"nous": "aurions géné",
+			"vous": "auriez géné",
+			"ils/elles": "auraient géné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse géné",
+			"tu": "eusses géné",
+			"il/elle": "eût géné",
+			"nous": "eussions géné",
+			"vous": "eussiez géné",
+			"ils/elles": "eussent géné"
+		}
+	},
+	"participe": {
+		"présent": { "génant": "" },
+		"passé composé": { "ayant": "géné" },
+		"passé": {
+			"masc.sg.:": "géné",
+			"masc.pl.:": "génés",
+			"fém.sg.:": "génée",
+			"fém.pl.:": "génées"
+		}
+	},
+	"imperatif": {
+		"présent": { "gène": "", "génons": "", "génez": "" },
+		"passé": { "aie": "géné", "ayons": "géné", "ayez": "géné" }
+	},
+	"infinitif": { "présent": { "géner": "" }, "passé": { "avoir": "géné" } }
+}

@@ -1,0 +1,138 @@
+{
+	"name": "rompre",
+	"definition": "break; break up; rupture; ...",
+	"model": "rompre",
+	"auxiliary": "avoir",
+	"otherForms": "se rompre/ne pas rompre/ne pas se rompre",
+	"indicatif": {
+		"présent": {
+			"je": "romps",
+			"tu": "romps",
+			"il/elle": "rompt",
+			"nous": "rompons",
+			"vous": "rompez",
+			"ils/elles": "rompent"
+		},
+		"imparfait": {
+			"je": "rompais",
+			"tu": "rompais",
+			"il/elle": "rompait",
+			"nous": "rompions",
+			"vous": "rompiez",
+			"ils/elles": "rompaient"
+		},
+		"futur": {
+			"je": "romprai",
+			"tu": "rompras",
+			"il/elle": "rompra",
+			"nous": "romprons",
+			"vous": "romprez",
+			"ils/elles": "rompront"
+		},
+		"passé simple": {
+			"je": "rompis",
+			"tu": "rompis",
+			"il/elle": "rompit",
+			"nous": "rompîmes",
+			"vous": "rompîtes",
+			"ils/elles": "rompirent"
+		},
+		"passé composé": {
+			"j'": "ai rompu",
+			"tu": "as rompu",
+			"il/elle": "a rompu",
+			"nous": "avons rompu",
+			"vous": "avez rompu",
+			"ils/elles": "ont rompu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais rompu",
+			"tu": "avais rompu",
+			"il/elle": "avait rompu",
+			"nous": "avions rompu",
+			"vous": "aviez rompu",
+			"ils/elles": "avaient rompu"
+		},
+		"passé antérieur": {
+			"j'": "eus rompu",
+			"tu": "eus rompu",
+			"il/elle": "eut rompu",
+			"nous": "eûmes rompu",
+			"vous": "eûtes rompu",
+			"ils/elles": "eurent rompu"
+		},
+		"futur antérieur": {
+			"j'": "aurai rompu",
+			"tu": "auras rompu",
+			"il/elle": "aura rompu",
+			"nous": "aurons rompu",
+			"vous": "aurez rompu",
+			"ils/elles": "auront rompu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous rompiez",
+			"qu'il/elle": "rompe",
+			"qu'ils/elles": "rompent"
+		},
+		"imparfait": {
+			"que": "vous rompissiez",
+			"qu'il/elle": "rompît",
+			"qu'ils/elles": "rompissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse rompu",
+			"que": "vous eussiez rompu",
+			"qu'il/elle": "eût rompu",
+			"qu'ils/elles": "eussent rompu"
+		},
+		"passé": {
+			"j'": "aie rompu",
+			"que": "vous ayez rompu",
+			"qu'il/elle": "ait rompu",
+			"qu'ils/elles": "aient rompu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "romprais",
+			"tu": "romprais",
+			"il/elle": "romprait",
+			"nous": "romprions",
+			"vous": "rompriez",
+			"ils/elles": "rompraient"
+		},
+		"passé première forme": {
+			"j'": "aurais rompu",
+			"tu": "aurais rompu",
+			"il/elle": "aurait rompu",
+			"nous": "aurions rompu",
+			"vous": "auriez rompu",
+			"ils/elles": "auraient rompu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse rompu",
+			"tu": "eusses rompu",
+			"il/elle": "eût rompu",
+			"nous": "eussions rompu",
+			"vous": "eussiez rompu",
+			"ils/elles": "eussent rompu"
+		}
+	},
+	"participe": {
+		"présent": { "rompant": "" },
+		"passé composé": { "ayant": "rompu" },
+		"passé": {
+			"masc.sg.:": "rompu",
+			"masc.pl.:": "rompus",
+			"fém.sg.:": "rompue",
+			"fém.pl.:": "rompues"
+		}
+	},
+	"imperatif": {
+		"présent": { "romps": "", "rompons": "", "rompez": "" },
+		"passé": { "aie": "rompu", "ayons": "rompu", "ayez": "rompu" }
+	},
+	"infinitif": { "présent": { "rompre": "" }, "passé": { "avoir": "rompu" } }
+}

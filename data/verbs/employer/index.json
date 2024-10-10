@@ -1,0 +1,149 @@
+{
+	"name": "balayer",
+	"definition": "underuse; underemploy; ...",
+	"model": "balayer",
+	"auxiliary": "avoir",
+	"otherForms": "se sous-employer/ne pas sous-employer/ne pas se sous-employer",
+	"indicatif": {
+		"présent": {
+			"je": "sous-emploie",
+			"tu": "sous-emploies",
+			"il/elle": "sous-emploie",
+			"nous": "sous-employons",
+			"vous": "sous-employez",
+			"ils/elles": "sous-emploient"
+		},
+		"imparfait": {
+			"je": "sous-employais",
+			"tu": "sous-employais",
+			"il/elle": "sous-employait",
+			"nous": "sous-employions",
+			"vous": "sous-employiez",
+			"ils/elles": "sous-employaient"
+		},
+		"futur": {
+			"je": "sous-emploierai",
+			"tu": "sous-emploieras",
+			"il/elle": "sous-emploiera",
+			"nous": "sous-emploierons",
+			"vous": "sous-emploierez",
+			"ils/elles": "sous-emploieront"
+		},
+		"passé simple": {
+			"je": "sous-employai",
+			"tu": "sous-employas",
+			"il/elle": "sous-employa",
+			"nous": "sous-employâmes",
+			"vous": "sous-employâtes",
+			"ils/elles": "sous-employèrent"
+		},
+		"passé composé": {
+			"j'": "ai sous-employé",
+			"tu": "as sous-employé",
+			"il/elle": "a sous-employé",
+			"nous": "avons sous-employé",
+			"vous": "avez sous-employé",
+			"ils/elles": "ont sous-employé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais sous-employé",
+			"tu": "avais sous-employé",
+			"il/elle": "avait sous-employé",
+			"nous": "avions sous-employé",
+			"vous": "aviez sous-employé",
+			"ils/elles": "avaient sous-employé"
+		},
+		"passé antérieur": {
+			"j'": "eus sous-employé",
+			"tu": "eus sous-employé",
+			"il/elle": "eut sous-employé",
+			"nous": "eûmes sous-employé",
+			"vous": "eûtes sous-employé",
+			"ils/elles": "eurent sous-employé"
+		},
+		"futur antérieur": {
+			"j'": "aurai sous-employé",
+			"tu": "auras sous-employé",
+			"il/elle": "aura sous-employé",
+			"nous": "aurons sous-employé",
+			"vous": "aurez sous-employé",
+			"ils/elles": "auront sous-employé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous sous-employiez",
+			"qu'il/elle": "sous-emploie",
+			"qu'ils/elles": "sous-emploient"
+		},
+		"imparfait": {
+			"que": "vous sous-employassiez",
+			"qu'il/elle": "sous-employât",
+			"qu'ils/elles": "sous-employassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse sous-employé",
+			"que": "vous eussiez sous-employé",
+			"qu'il/elle": "eût sous-employé",
+			"qu'ils/elles": "eussent sous-employé"
+		},
+		"passé": {
+			"j'": "aie sous-employé",
+			"que": "vous ayez sous-employé",
+			"qu'il/elle": "ait sous-employé",
+			"qu'ils/elles": "aient sous-employé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "sous-emploierais",
+			"tu": "sous-emploierais",
+			"il/elle": "sous-emploierait",
+			"nous": "sous-emploierions",
+			"vous": "sous-emploieriez",
+			"ils/elles": "sous-emploieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais sous-employé",
+			"tu": "aurais sous-employé",
+			"il/elle": "aurait sous-employé",
+			"nous": "aurions sous-employé",
+			"vous": "auriez sous-employé",
+			"ils/elles": "auraient sous-employé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse sous-employé",
+			"tu": "eusses sous-employé",
+			"il/elle": "eût sous-employé",
+			"nous": "eussions sous-employé",
+			"vous": "eussiez sous-employé",
+			"ils/elles": "eussent sous-employé"
+		}
+	},
+	"participe": {
+		"présent": { "sous-employant": "" },
+		"passé composé": { "ayant": "sous-employé" },
+		"passé": {
+			"masc.sg.:": "sous-employé",
+			"masc.pl.:": "sous-employés",
+			"fém.sg.:": "sous-employée",
+			"fém.pl.:": "sous-employées"
+		}
+	},
+	"imperatif": {
+		"présent": {
+			"sous-emploie": "",
+			"sous-employons": "",
+			"sous-employez": ""
+		},
+		"passé": {
+			"aie": "sous-employé",
+			"ayons": "sous-employé",
+			"ayez": "sous-employé"
+		}
+	},
+	"infinitif": {
+		"présent": { "sous-employer": "" },
+		"passé": { "avoir": "sous-employé" }
+	}
+}

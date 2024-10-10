@@ -1,0 +1,138 @@
+{
+	"name": "manger",
+	"definition": "clean up; put away; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "se ranger/ne pas ranger/ne pas se ranger",
+	"indicatif": {
+		"présent": {
+			"je": "range",
+			"tu": "ranges",
+			"il/elle": "range",
+			"nous": "rangeons",
+			"vous": "rangez",
+			"ils/elles": "rangent"
+		},
+		"imparfait": {
+			"je": "rangeais",
+			"tu": "rangeais",
+			"il/elle": "rangeait",
+			"nous": "rangions",
+			"vous": "rangiez",
+			"ils/elles": "rangeaient"
+		},
+		"futur": {
+			"je": "rangerai",
+			"tu": "rangeras",
+			"il/elle": "rangera",
+			"nous": "rangerons",
+			"vous": "rangerez",
+			"ils/elles": "rangeront"
+		},
+		"passé simple": {
+			"je": "rangeai",
+			"tu": "rangeas",
+			"il/elle": "rangea",
+			"nous": "rangeâmes",
+			"vous": "rangeâtes",
+			"ils/elles": "rangèrent"
+		},
+		"passé composé": {
+			"j'": "ai rangé",
+			"tu": "as rangé",
+			"il/elle": "a rangé",
+			"nous": "avons rangé",
+			"vous": "avez rangé",
+			"ils/elles": "ont rangé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais rangé",
+			"tu": "avais rangé",
+			"il/elle": "avait rangé",
+			"nous": "avions rangé",
+			"vous": "aviez rangé",
+			"ils/elles": "avaient rangé"
+		},
+		"passé antérieur": {
+			"j'": "eus rangé",
+			"tu": "eus rangé",
+			"il/elle": "eut rangé",
+			"nous": "eûmes rangé",
+			"vous": "eûtes rangé",
+			"ils/elles": "eurent rangé"
+		},
+		"futur antérieur": {
+			"j'": "aurai rangé",
+			"tu": "auras rangé",
+			"il/elle": "aura rangé",
+			"nous": "aurons rangé",
+			"vous": "aurez rangé",
+			"ils/elles": "auront rangé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous rangiez",
+			"qu'il/elle": "range",
+			"qu'ils/elles": "rangent"
+		},
+		"imparfait": {
+			"que": "vous rangeassiez",
+			"qu'il/elle": "rangeât",
+			"qu'ils/elles": "rangeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse rangé",
+			"que": "vous eussiez rangé",
+			"qu'il/elle": "eût rangé",
+			"qu'ils/elles": "eussent rangé"
+		},
+		"passé": {
+			"j'": "aie rangé",
+			"que": "vous ayez rangé",
+			"qu'il/elle": "ait rangé",
+			"qu'ils/elles": "aient rangé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "rangerais",
+			"tu": "rangerais",
+			"il/elle": "rangerait",
+			"nous": "rangerions",
+			"vous": "rangeriez",
+			"ils/elles": "rangeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais rangé",
+			"tu": "aurais rangé",
+			"il/elle": "aurait rangé",
+			"nous": "aurions rangé",
+			"vous": "auriez rangé",
+			"ils/elles": "auraient rangé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse rangé",
+			"tu": "eusses rangé",
+			"il/elle": "eût rangé",
+			"nous": "eussions rangé",
+			"vous": "eussiez rangé",
+			"ils/elles": "eussent rangé"
+		}
+	},
+	"participe": {
+		"présent": { "rangeant": "" },
+		"passé composé": { "ayant": "rangé" },
+		"passé": {
+			"masc.sg.:": "rangé",
+			"masc.pl.:": "rangés",
+			"fém.sg.:": "rangée",
+			"fém.pl.:": "rangées"
+		}
+	},
+	"imperatif": {
+		"présent": { "range": "", "rangeons": "", "rangez": "" },
+		"passé": { "aie": "rangé", "ayons": "rangé", "ayez": "rangé" }
+	},
+	"infinitif": { "présent": { "ranger": "" }, "passé": { "avoir": "rangé" } }
+}

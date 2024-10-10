@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se débâter/ne pas débâter/ne pas se débâter",
+	"indicatif": {
+		"présent": {
+			"je": "débâte",
+			"tu": "débâtes",
+			"il/elle": "débâte",
+			"nous": "débâtons",
+			"vous": "débâtez",
+			"ils/elles": "débâtent"
+		},
+		"imparfait": {
+			"je": "débâtais",
+			"tu": "débâtais",
+			"il/elle": "débâtait",
+			"nous": "débâtions",
+			"vous": "débâtiez",
+			"ils/elles": "débâtaient"
+		},
+		"futur": {
+			"je": "débâterai",
+			"tu": "débâteras",
+			"il/elle": "débâtera",
+			"nous": "débâterons",
+			"vous": "débâterez",
+			"ils/elles": "débâteront"
+		},
+		"passé simple": {
+			"je": "débâtai",
+			"tu": "débâtas",
+			"il/elle": "débâta",
+			"nous": "débâtâmes",
+			"vous": "débâtâtes",
+			"ils/elles": "débâtèrent"
+		},
+		"passé composé": {
+			"j'": "ai débâté",
+			"tu": "as débâté",
+			"il/elle": "a débâté",
+			"nous": "avons débâté",
+			"vous": "avez débâté",
+			"ils/elles": "ont débâté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais débâté",
+			"tu": "avais débâté",
+			"il/elle": "avait débâté",
+			"nous": "avions débâté",
+			"vous": "aviez débâté",
+			"ils/elles": "avaient débâté"
+		},
+		"passé antérieur": {
+			"j'": "eus débâté",
+			"tu": "eus débâté",
+			"il/elle": "eut débâté",
+			"nous": "eûmes débâté",
+			"vous": "eûtes débâté",
+			"ils/elles": "eurent débâté"
+		},
+		"futur antérieur": {
+			"j'": "aurai débâté",
+			"tu": "auras débâté",
+			"il/elle": "aura débâté",
+			"nous": "aurons débâté",
+			"vous": "aurez débâté",
+			"ils/elles": "auront débâté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous débâtiez",
+			"qu'il/elle": "débâte",
+			"qu'ils/elles": "débâtent"
+		},
+		"imparfait": {
+			"que": "vous débâtassiez",
+			"qu'il/elle": "débâtât",
+			"qu'ils/elles": "débâtassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse débâté",
+			"que": "vous eussiez débâté",
+			"qu'il/elle": "eût débâté",
+			"qu'ils/elles": "eussent débâté"
+		},
+		"passé": {
+			"j'": "aie débâté",
+			"que": "vous ayez débâté",
+			"qu'il/elle": "ait débâté",
+			"qu'ils/elles": "aient débâté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "débâterais",
+			"tu": "débâterais",
+			"il/elle": "débâterait",
+			"nous": "débâterions",
+			"vous": "débâteriez",
+			"ils/elles": "débâteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais débâté",
+			"tu": "aurais débâté",
+			"il/elle": "aurait débâté",
+			"nous": "aurions débâté",
+			"vous": "auriez débâté",
+			"ils/elles": "auraient débâté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse débâté",
+			"tu": "eusses débâté",
+			"il/elle": "eût débâté",
+			"nous": "eussions débâté",
+			"vous": "eussiez débâté",
+			"ils/elles": "eussent débâté"
+		}
+	},
+	"participe": {
+		"présent": { "débâtant": "" },
+		"passé composé": { "ayant": "débâté" },
+		"passé": {
+			"masc.sg.:": "débâté",
+			"masc.pl.:": "débâtés",
+			"fém.sg.:": "débâtée",
+			"fém.pl.:": "débâtées"
+		}
+	},
+	"imperatif": {
+		"présent": { "débâte": "", "débâtons": "", "débâtez": "" },
+		"passé": { "aie": "débâté", "ayons": "débâté", "ayez": "débâté" }
+	},
+	"infinitif": { "présent": { "débâter": "" }, "passé": { "avoir": "débâté" } }
+}

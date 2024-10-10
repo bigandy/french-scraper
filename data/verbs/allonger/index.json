@@ -1,0 +1,143 @@
+{
+	"name": "manger",
+	"definition": "extend; lengthen; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "s'allonger/ne pas allonger/ne pas s'allonger",
+	"indicatif": {
+		"présent": {
+			"j'": "allonge",
+			"tu": "allonges",
+			"il/elle": "allonge",
+			"nous": "allongeons",
+			"vous": "allongez",
+			"ils/elles": "allongent"
+		},
+		"imparfait": {
+			"j'": "allongeais",
+			"tu": "allongeais",
+			"il/elle": "allongeait",
+			"nous": "allongions",
+			"vous": "allongiez",
+			"ils/elles": "allongeaient"
+		},
+		"futur": {
+			"j'": "allongerai",
+			"tu": "allongeras",
+			"il/elle": "allongera",
+			"nous": "allongerons",
+			"vous": "allongerez",
+			"ils/elles": "allongeront"
+		},
+		"passé simple": {
+			"j'": "allongeai",
+			"tu": "allongeas",
+			"il/elle": "allongea",
+			"nous": "allongeâmes",
+			"vous": "allongeâtes",
+			"ils/elles": "allongèrent"
+		},
+		"passé composé": {
+			"j'": "ai allongé",
+			"tu": "as allongé",
+			"il/elle": "a allongé",
+			"nous": "avons allongé",
+			"vous": "avez allongé",
+			"ils/elles": "ont allongé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais allongé",
+			"tu": "avais allongé",
+			"il/elle": "avait allongé",
+			"nous": "avions allongé",
+			"vous": "aviez allongé",
+			"ils/elles": "avaient allongé"
+		},
+		"passé antérieur": {
+			"j'": "eus allongé",
+			"tu": "eus allongé",
+			"il/elle": "eut allongé",
+			"nous": "eûmes allongé",
+			"vous": "eûtes allongé",
+			"ils/elles": "eurent allongé"
+		},
+		"futur antérieur": {
+			"j'": "aurai allongé",
+			"tu": "auras allongé",
+			"il/elle": "aura allongé",
+			"nous": "aurons allongé",
+			"vous": "aurez allongé",
+			"ils/elles": "auront allongé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "allonge",
+			"que": "vous allongiez",
+			"qu'il/elle": "allonge",
+			"qu'ils/elles": "allongent"
+		},
+		"imparfait": {
+			"j'": "allongeasse",
+			"que": "vous allongeassiez",
+			"qu'il/elle": "allongeât",
+			"qu'ils/elles": "allongeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse allongé",
+			"que": "vous eussiez allongé",
+			"qu'il/elle": "eût allongé",
+			"qu'ils/elles": "eussent allongé"
+		},
+		"passé": {
+			"j'": "aie allongé",
+			"que": "vous ayez allongé",
+			"qu'il/elle": "ait allongé",
+			"qu'ils/elles": "aient allongé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "allongerais",
+			"tu": "allongerais",
+			"il/elle": "allongerait",
+			"nous": "allongerions",
+			"vous": "allongeriez",
+			"ils/elles": "allongeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais allongé",
+			"tu": "aurais allongé",
+			"il/elle": "aurait allongé",
+			"nous": "aurions allongé",
+			"vous": "auriez allongé",
+			"ils/elles": "auraient allongé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse allongé",
+			"tu": "eusses allongé",
+			"il/elle": "eût allongé",
+			"nous": "eussions allongé",
+			"vous": "eussiez allongé",
+			"ils/elles": "eussent allongé"
+		}
+	},
+	"participe": {
+		"présent": { "allongeant": "" },
+		"passé composé": { "ayant": "allongé" },
+		"passé": {
+			"masc.sg.:": "allongé",
+			"masc.pl.:": "allongés",
+			"fém.sg.:": "allongée",
+			"fém.pl.:": "allongées"
+		}
+	},
+	"imperatif": {
+		"présent": { "allonge": "", "allongeons": "", "allongez": "" },
+		"passé": { "aie": "allongé", "ayons": "allongé", "ayez": "allongé" }
+	},
+	"infinitif": {
+		"présent": { "allonger": "" },
+		"passé": { "avoir": "allongé" }
+	}
+}

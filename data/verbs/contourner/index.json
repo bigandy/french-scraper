@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "circumvent; bypass; get around; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se contourner/ne pas contourner/ne pas se contourner",
+	"indicatif": {
+		"présent": {
+			"je": "contourne",
+			"tu": "contournes",
+			"il/elle": "contourne",
+			"nous": "contournons",
+			"vous": "contournez",
+			"ils/elles": "contournent"
+		},
+		"imparfait": {
+			"je": "contournais",
+			"tu": "contournais",
+			"il/elle": "contournait",
+			"nous": "contournions",
+			"vous": "contourniez",
+			"ils/elles": "contournaient"
+		},
+		"futur": {
+			"je": "contournerai",
+			"tu": "contourneras",
+			"il/elle": "contournera",
+			"nous": "contournerons",
+			"vous": "contournerez",
+			"ils/elles": "contourneront"
+		},
+		"passé simple": {
+			"je": "contournai",
+			"tu": "contournas",
+			"il/elle": "contourna",
+			"nous": "contournâmes",
+			"vous": "contournâtes",
+			"ils/elles": "contournèrent"
+		},
+		"passé composé": {
+			"j'": "ai contourné",
+			"tu": "as contourné",
+			"il/elle": "a contourné",
+			"nous": "avons contourné",
+			"vous": "avez contourné",
+			"ils/elles": "ont contourné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais contourné",
+			"tu": "avais contourné",
+			"il/elle": "avait contourné",
+			"nous": "avions contourné",
+			"vous": "aviez contourné",
+			"ils/elles": "avaient contourné"
+		},
+		"passé antérieur": {
+			"j'": "eus contourné",
+			"tu": "eus contourné",
+			"il/elle": "eut contourné",
+			"nous": "eûmes contourné",
+			"vous": "eûtes contourné",
+			"ils/elles": "eurent contourné"
+		},
+		"futur antérieur": {
+			"j'": "aurai contourné",
+			"tu": "auras contourné",
+			"il/elle": "aura contourné",
+			"nous": "aurons contourné",
+			"vous": "aurez contourné",
+			"ils/elles": "auront contourné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous contourniez",
+			"qu'il/elle": "contourne",
+			"qu'ils/elles": "contournent"
+		},
+		"imparfait": {
+			"que": "vous contournassiez",
+			"qu'il/elle": "contournât",
+			"qu'ils/elles": "contournassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse contourné",
+			"que": "vous eussiez contourné",
+			"qu'il/elle": "eût contourné",
+			"qu'ils/elles": "eussent contourné"
+		},
+		"passé": {
+			"j'": "aie contourné",
+			"que": "vous ayez contourné",
+			"qu'il/elle": "ait contourné",
+			"qu'ils/elles": "aient contourné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "contournerais",
+			"tu": "contournerais",
+			"il/elle": "contournerait",
+			"nous": "contournerions",
+			"vous": "contourneriez",
+			"ils/elles": "contourneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais contourné",
+			"tu": "aurais contourné",
+			"il/elle": "aurait contourné",
+			"nous": "aurions contourné",
+			"vous": "auriez contourné",
+			"ils/elles": "auraient contourné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse contourné",
+			"tu": "eusses contourné",
+			"il/elle": "eût contourné",
+			"nous": "eussions contourné",
+			"vous": "eussiez contourné",
+			"ils/elles": "eussent contourné"
+		}
+	},
+	"participe": {
+		"présent": { "contournant": "" },
+		"passé composé": { "ayant": "contourné" },
+		"passé": {
+			"masc.sg.:": "contourné",
+			"masc.pl.:": "contournés",
+			"fém.sg.:": "contournée",
+			"fém.pl.:": "contournées"
+		}
+	},
+	"imperatif": {
+		"présent": { "contourne": "", "contournons": "", "contournez": "" },
+		"passé": { "aie": "contourné", "ayons": "contourné", "ayez": "contourné" }
+	},
+	"infinitif": {
+		"présent": { "contourner": "" },
+		"passé": { "avoir": "contourné" }
+	}
+}

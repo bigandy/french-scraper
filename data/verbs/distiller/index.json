@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "distil; distill; exude; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se distiller/ne pas distiller/ne pas se distiller",
+	"indicatif": {
+		"présent": {
+			"je": "distille",
+			"tu": "distilles",
+			"il/elle": "distille",
+			"nous": "distillons",
+			"vous": "distillez",
+			"ils/elles": "distillent"
+		},
+		"imparfait": {
+			"je": "distillais",
+			"tu": "distillais",
+			"il/elle": "distillait",
+			"nous": "distillions",
+			"vous": "distilliez",
+			"ils/elles": "distillaient"
+		},
+		"futur": {
+			"je": "distillerai",
+			"tu": "distilleras",
+			"il/elle": "distillera",
+			"nous": "distillerons",
+			"vous": "distillerez",
+			"ils/elles": "distilleront"
+		},
+		"passé simple": {
+			"je": "distillai",
+			"tu": "distillas",
+			"il/elle": "distilla",
+			"nous": "distillâmes",
+			"vous": "distillâtes",
+			"ils/elles": "distillèrent"
+		},
+		"passé composé": {
+			"j'": "ai distillé",
+			"tu": "as distillé",
+			"il/elle": "a distillé",
+			"nous": "avons distillé",
+			"vous": "avez distillé",
+			"ils/elles": "ont distillé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais distillé",
+			"tu": "avais distillé",
+			"il/elle": "avait distillé",
+			"nous": "avions distillé",
+			"vous": "aviez distillé",
+			"ils/elles": "avaient distillé"
+		},
+		"passé antérieur": {
+			"j'": "eus distillé",
+			"tu": "eus distillé",
+			"il/elle": "eut distillé",
+			"nous": "eûmes distillé",
+			"vous": "eûtes distillé",
+			"ils/elles": "eurent distillé"
+		},
+		"futur antérieur": {
+			"j'": "aurai distillé",
+			"tu": "auras distillé",
+			"il/elle": "aura distillé",
+			"nous": "aurons distillé",
+			"vous": "aurez distillé",
+			"ils/elles": "auront distillé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous distilliez",
+			"qu'il/elle": "distille",
+			"qu'ils/elles": "distillent"
+		},
+		"imparfait": {
+			"que": "vous distillassiez",
+			"qu'il/elle": "distillât",
+			"qu'ils/elles": "distillassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse distillé",
+			"que": "vous eussiez distillé",
+			"qu'il/elle": "eût distillé",
+			"qu'ils/elles": "eussent distillé"
+		},
+		"passé": {
+			"j'": "aie distillé",
+			"que": "vous ayez distillé",
+			"qu'il/elle": "ait distillé",
+			"qu'ils/elles": "aient distillé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "distillerais",
+			"tu": "distillerais",
+			"il/elle": "distillerait",
+			"nous": "distillerions",
+			"vous": "distilleriez",
+			"ils/elles": "distilleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais distillé",
+			"tu": "aurais distillé",
+			"il/elle": "aurait distillé",
+			"nous": "aurions distillé",
+			"vous": "auriez distillé",
+			"ils/elles": "auraient distillé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse distillé",
+			"tu": "eusses distillé",
+			"il/elle": "eût distillé",
+			"nous": "eussions distillé",
+			"vous": "eussiez distillé",
+			"ils/elles": "eussent distillé"
+		}
+	},
+	"participe": {
+		"présent": { "distillant": "" },
+		"passé composé": { "ayant": "distillé" },
+		"passé": {
+			"masc.sg.:": "distillé",
+			"masc.pl.:": "distillés",
+			"fém.sg.:": "distillée",
+			"fém.pl.:": "distillées"
+		}
+	},
+	"imperatif": {
+		"présent": { "distille": "", "distillons": "", "distillez": "" },
+		"passé": { "aie": "distillé", "ayons": "distillé", "ayez": "distillé" }
+	},
+	"infinitif": {
+		"présent": { "distiller": "" },
+		"passé": { "avoir": "distillé" }
+	}
+}

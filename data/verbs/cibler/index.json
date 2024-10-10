@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "target; focus; identify; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se cibler/ne pas cibler/ne pas se cibler",
+	"indicatif": {
+		"présent": {
+			"je": "cible",
+			"tu": "cibles",
+			"il/elle": "cible",
+			"nous": "ciblons",
+			"vous": "ciblez",
+			"ils/elles": "ciblent"
+		},
+		"imparfait": {
+			"je": "ciblais",
+			"tu": "ciblais",
+			"il/elle": "ciblait",
+			"nous": "ciblions",
+			"vous": "cibliez",
+			"ils/elles": "ciblaient"
+		},
+		"futur": {
+			"je": "ciblerai",
+			"tu": "cibleras",
+			"il/elle": "ciblera",
+			"nous": "ciblerons",
+			"vous": "ciblerez",
+			"ils/elles": "cibleront"
+		},
+		"passé simple": {
+			"je": "ciblai",
+			"tu": "ciblas",
+			"il/elle": "cibla",
+			"nous": "ciblâmes",
+			"vous": "ciblâtes",
+			"ils/elles": "ciblèrent"
+		},
+		"passé composé": {
+			"j'": "ai ciblé",
+			"tu": "as ciblé",
+			"il/elle": "a ciblé",
+			"nous": "avons ciblé",
+			"vous": "avez ciblé",
+			"ils/elles": "ont ciblé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais ciblé",
+			"tu": "avais ciblé",
+			"il/elle": "avait ciblé",
+			"nous": "avions ciblé",
+			"vous": "aviez ciblé",
+			"ils/elles": "avaient ciblé"
+		},
+		"passé antérieur": {
+			"j'": "eus ciblé",
+			"tu": "eus ciblé",
+			"il/elle": "eut ciblé",
+			"nous": "eûmes ciblé",
+			"vous": "eûtes ciblé",
+			"ils/elles": "eurent ciblé"
+		},
+		"futur antérieur": {
+			"j'": "aurai ciblé",
+			"tu": "auras ciblé",
+			"il/elle": "aura ciblé",
+			"nous": "aurons ciblé",
+			"vous": "aurez ciblé",
+			"ils/elles": "auront ciblé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous cibliez",
+			"qu'il/elle": "cible",
+			"qu'ils/elles": "ciblent"
+		},
+		"imparfait": {
+			"que": "vous ciblassiez",
+			"qu'il/elle": "ciblât",
+			"qu'ils/elles": "ciblassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse ciblé",
+			"que": "vous eussiez ciblé",
+			"qu'il/elle": "eût ciblé",
+			"qu'ils/elles": "eussent ciblé"
+		},
+		"passé": {
+			"j'": "aie ciblé",
+			"que": "vous ayez ciblé",
+			"qu'il/elle": "ait ciblé",
+			"qu'ils/elles": "aient ciblé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "ciblerais",
+			"tu": "ciblerais",
+			"il/elle": "ciblerait",
+			"nous": "ciblerions",
+			"vous": "cibleriez",
+			"ils/elles": "cibleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais ciblé",
+			"tu": "aurais ciblé",
+			"il/elle": "aurait ciblé",
+			"nous": "aurions ciblé",
+			"vous": "auriez ciblé",
+			"ils/elles": "auraient ciblé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse ciblé",
+			"tu": "eusses ciblé",
+			"il/elle": "eût ciblé",
+			"nous": "eussions ciblé",
+			"vous": "eussiez ciblé",
+			"ils/elles": "eussent ciblé"
+		}
+	},
+	"participe": {
+		"présent": { "ciblant": "" },
+		"passé composé": { "ayant": "ciblé" },
+		"passé": {
+			"masc.sg.:": "ciblé",
+			"masc.pl.:": "ciblés",
+			"fém.sg.:": "ciblée",
+			"fém.pl.:": "ciblées"
+		}
+	},
+	"imperatif": {
+		"présent": { "cible": "", "ciblons": "", "ciblez": "" },
+		"passé": { "aie": "ciblé", "ayons": "ciblé", "ayez": "ciblé" }
+	},
+	"infinitif": { "présent": { "cibler": "" }, "passé": { "avoir": "ciblé" } }
+}

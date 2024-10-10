@@ -1,0 +1,140 @@
+{
+	"name": "battre",
+	"definition": "shoot; slaughter; kill; ...",
+	"model": "battre",
+	"auxiliary": "avoir",
+	"otherForms": "s'abattre/ne pas abattre/ne pas s'abattre",
+	"indicatif": {
+		"présent": {
+			"j'": "abats",
+			"tu": "abats",
+			"il/elle": "abat",
+			"nous": "abattons",
+			"vous": "abattez",
+			"ils/elles": "abattent"
+		},
+		"imparfait": {
+			"j'": "abattais",
+			"tu": "abattais",
+			"il/elle": "abattait",
+			"nous": "abattions",
+			"vous": "abattiez",
+			"ils/elles": "abattaient"
+		},
+		"futur": {
+			"j'": "abattrai",
+			"tu": "abattras",
+			"il/elle": "abattra",
+			"nous": "abattrons",
+			"vous": "abattrez",
+			"ils/elles": "abattront"
+		},
+		"passé simple": {
+			"j'": "abattis",
+			"tu": "abattis",
+			"il/elle": "abattit",
+			"nous": "abattîmes",
+			"vous": "abattîtes",
+			"ils/elles": "abattirent"
+		},
+		"passé composé": {
+			"j'": "ai abattu",
+			"tu": "as abattu",
+			"il/elle": "a abattu",
+			"nous": "avons abattu",
+			"vous": "avez abattu",
+			"ils/elles": "ont abattu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais abattu",
+			"tu": "avais abattu",
+			"il/elle": "avait abattu",
+			"nous": "avions abattu",
+			"vous": "aviez abattu",
+			"ils/elles": "avaient abattu"
+		},
+		"passé antérieur": {
+			"j'": "eus abattu",
+			"tu": "eus abattu",
+			"il/elle": "eut abattu",
+			"nous": "eûmes abattu",
+			"vous": "eûtes abattu",
+			"ils/elles": "eurent abattu"
+		},
+		"futur antérieur": {
+			"j'": "aurai abattu",
+			"tu": "auras abattu",
+			"il/elle": "aura abattu",
+			"nous": "aurons abattu",
+			"vous": "aurez abattu",
+			"ils/elles": "auront abattu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "abatte",
+			"que": "vous abattiez",
+			"qu'il/elle": "abatte",
+			"qu'ils/elles": "abattent"
+		},
+		"imparfait": {
+			"j'": "abattisse",
+			"que": "vous abattissiez",
+			"qu'il/elle": "abattît",
+			"qu'ils/elles": "abattissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse abattu",
+			"que": "vous eussiez abattu",
+			"qu'il/elle": "eût abattu",
+			"qu'ils/elles": "eussent abattu"
+		},
+		"passé": {
+			"j'": "aie abattu",
+			"que": "vous ayez abattu",
+			"qu'il/elle": "ait abattu",
+			"qu'ils/elles": "aient abattu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "abattrais",
+			"tu": "abattrais",
+			"il/elle": "abattrait",
+			"nous": "abattrions",
+			"vous": "abattriez",
+			"ils/elles": "abattraient"
+		},
+		"passé première forme": {
+			"j'": "aurais abattu",
+			"tu": "aurais abattu",
+			"il/elle": "aurait abattu",
+			"nous": "aurions abattu",
+			"vous": "auriez abattu",
+			"ils/elles": "auraient abattu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse abattu",
+			"tu": "eusses abattu",
+			"il/elle": "eût abattu",
+			"nous": "eussions abattu",
+			"vous": "eussiez abattu",
+			"ils/elles": "eussent abattu"
+		}
+	},
+	"participe": {
+		"présent": { "abattant": "" },
+		"passé composé": { "ayant": "abattu" },
+		"passé": {
+			"masc.sg.:": "abattu",
+			"masc.pl.:": "abattus",
+			"fém.sg.:": "abattue",
+			"fém.pl.:": "abattues"
+		}
+	},
+	"imperatif": {
+		"présent": { "abats": "", "abattons": "", "abattez": "" },
+		"passé": { "aie": "abattu", "ayons": "abattu", "ayez": "abattu" }
+	},
+	"infinitif": { "présent": { "abattre": "" }, "passé": { "avoir": "abattu" } }
+}

@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "accept; agree; take; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'accepter/ne pas accepter/ne pas s'accepter",
+	"indicatif": {
+		"présent": {
+			"j'": "accepte",
+			"tu": "acceptes",
+			"il/elle": "accepte",
+			"nous": "acceptons",
+			"vous": "acceptez",
+			"ils/elles": "acceptent"
+		},
+		"imparfait": {
+			"j'": "acceptais",
+			"tu": "acceptais",
+			"il/elle": "acceptait",
+			"nous": "acceptions",
+			"vous": "acceptiez",
+			"ils/elles": "acceptaient"
+		},
+		"futur": {
+			"j'": "accepterai",
+			"tu": "accepteras",
+			"il/elle": "acceptera",
+			"nous": "accepterons",
+			"vous": "accepterez",
+			"ils/elles": "accepteront"
+		},
+		"passé simple": {
+			"j'": "acceptai",
+			"tu": "acceptas",
+			"il/elle": "accepta",
+			"nous": "acceptâmes",
+			"vous": "acceptâtes",
+			"ils/elles": "acceptèrent"
+		},
+		"passé composé": {
+			"j'": "ai accepté",
+			"tu": "as accepté",
+			"il/elle": "a accepté",
+			"nous": "avons accepté",
+			"vous": "avez accepté",
+			"ils/elles": "ont accepté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais accepté",
+			"tu": "avais accepté",
+			"il/elle": "avait accepté",
+			"nous": "avions accepté",
+			"vous": "aviez accepté",
+			"ils/elles": "avaient accepté"
+		},
+		"passé antérieur": {
+			"j'": "eus accepté",
+			"tu": "eus accepté",
+			"il/elle": "eut accepté",
+			"nous": "eûmes accepté",
+			"vous": "eûtes accepté",
+			"ils/elles": "eurent accepté"
+		},
+		"futur antérieur": {
+			"j'": "aurai accepté",
+			"tu": "auras accepté",
+			"il/elle": "aura accepté",
+			"nous": "aurons accepté",
+			"vous": "aurez accepté",
+			"ils/elles": "auront accepté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "accepte",
+			"que": "vous acceptiez",
+			"qu'il/elle": "accepte",
+			"qu'ils/elles": "acceptent"
+		},
+		"imparfait": {
+			"j'": "acceptasse",
+			"que": "vous acceptassiez",
+			"qu'il/elle": "acceptât",
+			"qu'ils/elles": "acceptassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse accepté",
+			"que": "vous eussiez accepté",
+			"qu'il/elle": "eût accepté",
+			"qu'ils/elles": "eussent accepté"
+		},
+		"passé": {
+			"j'": "aie accepté",
+			"que": "vous ayez accepté",
+			"qu'il/elle": "ait accepté",
+			"qu'ils/elles": "aient accepté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "accepterais",
+			"tu": "accepterais",
+			"il/elle": "accepterait",
+			"nous": "accepterions",
+			"vous": "accepteriez",
+			"ils/elles": "accepteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais accepté",
+			"tu": "aurais accepté",
+			"il/elle": "aurait accepté",
+			"nous": "aurions accepté",
+			"vous": "auriez accepté",
+			"ils/elles": "auraient accepté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse accepté",
+			"tu": "eusses accepté",
+			"il/elle": "eût accepté",
+			"nous": "eussions accepté",
+			"vous": "eussiez accepté",
+			"ils/elles": "eussent accepté"
+		}
+	},
+	"participe": {
+		"présent": { "acceptant": "" },
+		"passé composé": { "ayant": "accepté" },
+		"passé": {
+			"masc.sg.:": "accepté",
+			"masc.pl.:": "acceptés",
+			"fém.sg.:": "acceptée",
+			"fém.pl.:": "acceptées"
+		}
+	},
+	"imperatif": {
+		"présent": { "accepte": "", "acceptons": "", "acceptez": "" },
+		"passé": { "aie": "accepté", "ayons": "accepté", "ayez": "accepté" }
+	},
+	"infinitif": {
+		"présent": { "accepter": "" },
+		"passé": { "avoir": "accepté" }
+	}
+}

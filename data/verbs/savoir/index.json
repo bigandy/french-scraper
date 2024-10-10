@@ -1,0 +1,138 @@
+{
+	"name": "savoir",
+	"definition": "know; find out; learn; ...",
+	"model": "savoir",
+	"auxiliary": "avoir",
+	"otherForms": "se savoir/ne pas savoir/ne pas se savoir",
+	"indicatif": {
+		"présent": {
+			"je": "sais",
+			"tu": "sais",
+			"il/elle": "sait",
+			"nous": "savons",
+			"vous": "savez",
+			"ils/elles": "savent"
+		},
+		"imparfait": {
+			"je": "savais",
+			"tu": "savais",
+			"il/elle": "savait",
+			"nous": "savions",
+			"vous": "saviez",
+			"ils/elles": "savaient"
+		},
+		"futur": {
+			"je": "saurai",
+			"tu": "sauras",
+			"il/elle": "saura",
+			"nous": "saurons",
+			"vous": "saurez",
+			"ils/elles": "sauront"
+		},
+		"passé simple": {
+			"je": "sus",
+			"tu": "sus",
+			"il/elle": "sut",
+			"nous": "sûmes",
+			"vous": "sûtes",
+			"ils/elles": "surent"
+		},
+		"passé composé": {
+			"j'": "ai su",
+			"tu": "as su",
+			"il/elle": "a su",
+			"nous": "avons su",
+			"vous": "avez su",
+			"ils/elles": "ont su"
+		},
+		"plus-que-parfait": {
+			"j'": "avais su",
+			"tu": "avais su",
+			"il/elle": "avait su",
+			"nous": "avions su",
+			"vous": "aviez su",
+			"ils/elles": "avaient su"
+		},
+		"passé antérieur": {
+			"j'": "eus su",
+			"tu": "eus su",
+			"il/elle": "eut su",
+			"nous": "eûmes su",
+			"vous": "eûtes su",
+			"ils/elles": "eurent su"
+		},
+		"futur antérieur": {
+			"j'": "aurai su",
+			"tu": "auras su",
+			"il/elle": "aura su",
+			"nous": "aurons su",
+			"vous": "aurez su",
+			"ils/elles": "auront su"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous sachiez",
+			"qu'il/elle": "sache",
+			"qu'ils/elles": "sachent"
+		},
+		"imparfait": {
+			"que": "vous sussiez",
+			"qu'il/elle": "sût",
+			"qu'ils/elles": "sussent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse su",
+			"que": "vous eussiez su",
+			"qu'il/elle": "eût su",
+			"qu'ils/elles": "eussent su"
+		},
+		"passé": {
+			"j'": "aie su",
+			"que": "vous ayez su",
+			"qu'il/elle": "ait su",
+			"qu'ils/elles": "aient su"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "saurais",
+			"tu": "saurais",
+			"il/elle": "saurait",
+			"nous": "saurions",
+			"vous": "sauriez",
+			"ils/elles": "sauraient"
+		},
+		"passé première forme": {
+			"j'": "aurais su",
+			"tu": "aurais su",
+			"il/elle": "aurait su",
+			"nous": "aurions su",
+			"vous": "auriez su",
+			"ils/elles": "auraient su"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse su",
+			"tu": "eusses su",
+			"il/elle": "eût su",
+			"nous": "eussions su",
+			"vous": "eussiez su",
+			"ils/elles": "eussent su"
+		}
+	},
+	"participe": {
+		"présent": { "sachant": "" },
+		"passé composé": { "ayant": "su" },
+		"passé": {
+			"masc.sg.:": "su",
+			"masc.pl.:": "sus",
+			"fém.sg.:": "sue",
+			"fém.pl.:": "sues"
+		}
+	},
+	"imperatif": {
+		"présent": { "sache": "", "sachons": "", "sachez": "" },
+		"passé": { "aie": "su", "ayons": "su", "ayez": "su" }
+	},
+	"infinitif": { "présent": { "savoir": "" }, "passé": { "avoir": "su" } }
+}

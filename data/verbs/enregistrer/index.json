@@ -1,0 +1,147 @@
+{
+	"name": "marcher",
+	"definition": "record; register; store; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'enregistrer/ne pas enregistrer/ne pas s'enregistrer",
+	"indicatif": {
+		"présent": {
+			"j'": "enregistre",
+			"tu": "enregistres",
+			"il/elle": "enregistre",
+			"nous": "enregistrons",
+			"vous": "enregistrez",
+			"ils/elles": "enregistrent"
+		},
+		"imparfait": {
+			"j'": "enregistrais",
+			"tu": "enregistrais",
+			"il/elle": "enregistrait",
+			"nous": "enregistrions",
+			"vous": "enregistriez",
+			"ils/elles": "enregistraient"
+		},
+		"futur": {
+			"j'": "enregistrerai",
+			"tu": "enregistreras",
+			"il/elle": "enregistrera",
+			"nous": "enregistrerons",
+			"vous": "enregistrerez",
+			"ils/elles": "enregistreront"
+		},
+		"passé simple": {
+			"j'": "enregistrai",
+			"tu": "enregistras",
+			"il/elle": "enregistra",
+			"nous": "enregistrâmes",
+			"vous": "enregistrâtes",
+			"ils/elles": "enregistrèrent"
+		},
+		"passé composé": {
+			"j'": "ai enregistré",
+			"tu": "as enregistré",
+			"il/elle": "a enregistré",
+			"nous": "avons enregistré",
+			"vous": "avez enregistré",
+			"ils/elles": "ont enregistré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais enregistré",
+			"tu": "avais enregistré",
+			"il/elle": "avait enregistré",
+			"nous": "avions enregistré",
+			"vous": "aviez enregistré",
+			"ils/elles": "avaient enregistré"
+		},
+		"passé antérieur": {
+			"j'": "eus enregistré",
+			"tu": "eus enregistré",
+			"il/elle": "eut enregistré",
+			"nous": "eûmes enregistré",
+			"vous": "eûtes enregistré",
+			"ils/elles": "eurent enregistré"
+		},
+		"futur antérieur": {
+			"j'": "aurai enregistré",
+			"tu": "auras enregistré",
+			"il/elle": "aura enregistré",
+			"nous": "aurons enregistré",
+			"vous": "aurez enregistré",
+			"ils/elles": "auront enregistré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "enregistre",
+			"que": "vous enregistriez",
+			"qu'il/elle": "enregistre",
+			"qu'ils/elles": "enregistrent"
+		},
+		"imparfait": {
+			"j'": "enregistrasse",
+			"que": "vous enregistrassiez",
+			"qu'il/elle": "enregistrât",
+			"qu'ils/elles": "enregistrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse enregistré",
+			"que": "vous eussiez enregistré",
+			"qu'il/elle": "eût enregistré",
+			"qu'ils/elles": "eussent enregistré"
+		},
+		"passé": {
+			"j'": "aie enregistré",
+			"que": "vous ayez enregistré",
+			"qu'il/elle": "ait enregistré",
+			"qu'ils/elles": "aient enregistré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "enregistrerais",
+			"tu": "enregistrerais",
+			"il/elle": "enregistrerait",
+			"nous": "enregistrerions",
+			"vous": "enregistreriez",
+			"ils/elles": "enregistreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais enregistré",
+			"tu": "aurais enregistré",
+			"il/elle": "aurait enregistré",
+			"nous": "aurions enregistré",
+			"vous": "auriez enregistré",
+			"ils/elles": "auraient enregistré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse enregistré",
+			"tu": "eusses enregistré",
+			"il/elle": "eût enregistré",
+			"nous": "eussions enregistré",
+			"vous": "eussiez enregistré",
+			"ils/elles": "eussent enregistré"
+		}
+	},
+	"participe": {
+		"présent": { "enregistrant": "" },
+		"passé composé": { "ayant": "enregistré" },
+		"passé": {
+			"masc.sg.:": "enregistré",
+			"masc.pl.:": "enregistrés",
+			"fém.sg.:": "enregistrée",
+			"fém.pl.:": "enregistrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "enregistre": "", "enregistrons": "", "enregistrez": "" },
+		"passé": {
+			"aie": "enregistré",
+			"ayons": "enregistré",
+			"ayez": "enregistré"
+		}
+	},
+	"infinitif": {
+		"présent": { "enregistrer": "" },
+		"passé": { "avoir": "enregistré" }
+	}
+}

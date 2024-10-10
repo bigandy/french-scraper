@@ -1,0 +1,138 @@
+{
+	"name": "finir",
+	"definition": "fill; complete; fulfil; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se remplir/ne pas remplir/ne pas se remplir",
+	"indicatif": {
+		"présent": {
+			"je": "remplis",
+			"tu": "remplis",
+			"il/elle": "remplit",
+			"nous": "remplissons",
+			"vous": "remplissez",
+			"ils/elles": "remplissent"
+		},
+		"imparfait": {
+			"je": "remplissais",
+			"tu": "remplissais",
+			"il/elle": "remplissait",
+			"nous": "remplissions",
+			"vous": "remplissiez",
+			"ils/elles": "remplissaient"
+		},
+		"futur": {
+			"je": "remplirai",
+			"tu": "rempliras",
+			"il/elle": "remplira",
+			"nous": "remplirons",
+			"vous": "remplirez",
+			"ils/elles": "rempliront"
+		},
+		"passé simple": {
+			"je": "remplis",
+			"tu": "remplis",
+			"il/elle": "remplit",
+			"nous": "remplîmes",
+			"vous": "remplîtes",
+			"ils/elles": "remplirent"
+		},
+		"passé composé": {
+			"j'": "ai rempli",
+			"tu": "as rempli",
+			"il/elle": "a rempli",
+			"nous": "avons rempli",
+			"vous": "avez rempli",
+			"ils/elles": "ont rempli"
+		},
+		"plus-que-parfait": {
+			"j'": "avais rempli",
+			"tu": "avais rempli",
+			"il/elle": "avait rempli",
+			"nous": "avions rempli",
+			"vous": "aviez rempli",
+			"ils/elles": "avaient rempli"
+		},
+		"passé antérieur": {
+			"j'": "eus rempli",
+			"tu": "eus rempli",
+			"il/elle": "eut rempli",
+			"nous": "eûmes rempli",
+			"vous": "eûtes rempli",
+			"ils/elles": "eurent rempli"
+		},
+		"futur antérieur": {
+			"j'": "aurai rempli",
+			"tu": "auras rempli",
+			"il/elle": "aura rempli",
+			"nous": "aurons rempli",
+			"vous": "aurez rempli",
+			"ils/elles": "auront rempli"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous remplissiez",
+			"qu'il/elle": "remplisse",
+			"qu'ils/elles": "remplissent"
+		},
+		"imparfait": {
+			"que": "vous remplissiez",
+			"qu'il/elle": "remplît",
+			"qu'ils/elles": "remplissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse rempli",
+			"que": "vous eussiez rempli",
+			"qu'il/elle": "eût rempli",
+			"qu'ils/elles": "eussent rempli"
+		},
+		"passé": {
+			"j'": "aie rempli",
+			"que": "vous ayez rempli",
+			"qu'il/elle": "ait rempli",
+			"qu'ils/elles": "aient rempli"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "remplirais",
+			"tu": "remplirais",
+			"il/elle": "remplirait",
+			"nous": "remplirions",
+			"vous": "rempliriez",
+			"ils/elles": "rempliraient"
+		},
+		"passé première forme": {
+			"j'": "aurais rempli",
+			"tu": "aurais rempli",
+			"il/elle": "aurait rempli",
+			"nous": "aurions rempli",
+			"vous": "auriez rempli",
+			"ils/elles": "auraient rempli"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse rempli",
+			"tu": "eusses rempli",
+			"il/elle": "eût rempli",
+			"nous": "eussions rempli",
+			"vous": "eussiez rempli",
+			"ils/elles": "eussent rempli"
+		}
+	},
+	"participe": {
+		"présent": { "remplissant": "" },
+		"passé composé": { "ayant": "rempli" },
+		"passé": {
+			"masc.sg.:": "rempli",
+			"masc.pl.:": "remplis",
+			"fém.sg.:": "remplie",
+			"fém.pl.:": "remplies"
+		}
+	},
+	"imperatif": {
+		"présent": { "remplis": "", "remplissons": "", "remplissez": "" },
+		"passé": { "aie": "rempli", "ayons": "rempli", "ayez": "rempli" }
+	},
+	"infinitif": { "présent": { "remplir": "" }, "passé": { "avoir": "rempli" } }
+}

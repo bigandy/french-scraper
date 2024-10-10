@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "publish; issue; publicize; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se publier/ne pas publier/ne pas se publier",
+	"indicatif": {
+		"présent": {
+			"je": "publie",
+			"tu": "publies",
+			"il/elle": "publie",
+			"nous": "publions",
+			"vous": "publiez",
+			"ils/elles": "publient"
+		},
+		"imparfait": {
+			"je": "publiais",
+			"tu": "publiais",
+			"il/elle": "publiait",
+			"nous": "publiions",
+			"vous": "publiiez",
+			"ils/elles": "publiaient"
+		},
+		"futur": {
+			"je": "publierai",
+			"tu": "publieras",
+			"il/elle": "publiera",
+			"nous": "publierons",
+			"vous": "publierez",
+			"ils/elles": "publieront"
+		},
+		"passé simple": {
+			"je": "publiai",
+			"tu": "publias",
+			"il/elle": "publia",
+			"nous": "publiâmes",
+			"vous": "publiâtes",
+			"ils/elles": "publièrent"
+		},
+		"passé composé": {
+			"j'": "ai publié",
+			"tu": "as publié",
+			"il/elle": "a publié",
+			"nous": "avons publié",
+			"vous": "avez publié",
+			"ils/elles": "ont publié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais publié",
+			"tu": "avais publié",
+			"il/elle": "avait publié",
+			"nous": "avions publié",
+			"vous": "aviez publié",
+			"ils/elles": "avaient publié"
+		},
+		"passé antérieur": {
+			"j'": "eus publié",
+			"tu": "eus publié",
+			"il/elle": "eut publié",
+			"nous": "eûmes publié",
+			"vous": "eûtes publié",
+			"ils/elles": "eurent publié"
+		},
+		"futur antérieur": {
+			"j'": "aurai publié",
+			"tu": "auras publié",
+			"il/elle": "aura publié",
+			"nous": "aurons publié",
+			"vous": "aurez publié",
+			"ils/elles": "auront publié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous publiiez",
+			"qu'il/elle": "publie",
+			"qu'ils/elles": "publient"
+		},
+		"imparfait": {
+			"que": "vous publiassiez",
+			"qu'il/elle": "publiât",
+			"qu'ils/elles": "publiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse publié",
+			"que": "vous eussiez publié",
+			"qu'il/elle": "eût publié",
+			"qu'ils/elles": "eussent publié"
+		},
+		"passé": {
+			"j'": "aie publié",
+			"que": "vous ayez publié",
+			"qu'il/elle": "ait publié",
+			"qu'ils/elles": "aient publié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "publierais",
+			"tu": "publierais",
+			"il/elle": "publierait",
+			"nous": "publierions",
+			"vous": "publieriez",
+			"ils/elles": "publieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais publié",
+			"tu": "aurais publié",
+			"il/elle": "aurait publié",
+			"nous": "aurions publié",
+			"vous": "auriez publié",
+			"ils/elles": "auraient publié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse publié",
+			"tu": "eusses publié",
+			"il/elle": "eût publié",
+			"nous": "eussions publié",
+			"vous": "eussiez publié",
+			"ils/elles": "eussent publié"
+		}
+	},
+	"participe": {
+		"présent": { "publiant": "" },
+		"passé composé": { "ayant": "publié" },
+		"passé": {
+			"masc.sg.:": "publié",
+			"masc.pl.:": "publiés",
+			"fém.sg.:": "publiée",
+			"fém.pl.:": "publiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "publie": "", "publions": "", "publiez": "" },
+		"passé": { "aie": "publié", "ayons": "publié", "ayez": "publié" }
+	},
+	"infinitif": { "présent": { "publier": "" }, "passé": { "avoir": "publié" } }
+}

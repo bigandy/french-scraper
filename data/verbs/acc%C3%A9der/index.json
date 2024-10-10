@@ -1,0 +1,140 @@
+{
+	"name": "céder",
+	"definition": "access; reach; gain access; ...",
+	"model": "céder",
+	"auxiliary": "avoir",
+	"otherForms": "s'accéder/ne pas accéder/ne pas s'accéder",
+	"indicatif": {
+		"présent": {
+			"j'": "accède",
+			"tu": "accèdes",
+			"il/elle": "accède",
+			"nous": "accédons",
+			"vous": "accédez",
+			"ils/elles": "accèdent"
+		},
+		"imparfait": {
+			"j'": "accédais",
+			"tu": "accédais",
+			"il/elle": "accédait",
+			"nous": "accédions",
+			"vous": "accédiez",
+			"ils/elles": "accédaient"
+		},
+		"futur": {
+			"j'": "accéderai",
+			"tu": "accéderas",
+			"il/elle": "accédera",
+			"nous": "accéderons",
+			"vous": "accéderez",
+			"ils/elles": "accéderont"
+		},
+		"passé simple": {
+			"j'": "accédai",
+			"tu": "accédas",
+			"il/elle": "accéda",
+			"nous": "accédâmes",
+			"vous": "accédâtes",
+			"ils/elles": "accédèrent"
+		},
+		"passé composé": {
+			"j'": "ai accédé",
+			"tu": "as accédé",
+			"il/elle": "a accédé",
+			"nous": "avons accédé",
+			"vous": "avez accédé",
+			"ils/elles": "ont accédé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais accédé",
+			"tu": "avais accédé",
+			"il/elle": "avait accédé",
+			"nous": "avions accédé",
+			"vous": "aviez accédé",
+			"ils/elles": "avaient accédé"
+		},
+		"passé antérieur": {
+			"j'": "eus accédé",
+			"tu": "eus accédé",
+			"il/elle": "eut accédé",
+			"nous": "eûmes accédé",
+			"vous": "eûtes accédé",
+			"ils/elles": "eurent accédé"
+		},
+		"futur antérieur": {
+			"j'": "aurai accédé",
+			"tu": "auras accédé",
+			"il/elle": "aura accédé",
+			"nous": "aurons accédé",
+			"vous": "aurez accédé",
+			"ils/elles": "auront accédé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "accède",
+			"que": "vous accédiez",
+			"qu'il/elle": "accède",
+			"qu'ils/elles": "accèdent"
+		},
+		"imparfait": {
+			"j'": "accédasse",
+			"que": "vous accédassiez",
+			"qu'il/elle": "accédât",
+			"qu'ils/elles": "accédassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse accédé",
+			"que": "vous eussiez accédé",
+			"qu'il/elle": "eût accédé",
+			"qu'ils/elles": "eussent accédé"
+		},
+		"passé": {
+			"j'": "aie accédé",
+			"que": "vous ayez accédé",
+			"qu'il/elle": "ait accédé",
+			"qu'ils/elles": "aient accédé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "accéderais",
+			"tu": "accéderais",
+			"il/elle": "accéderait",
+			"nous": "accéderions",
+			"vous": "accéderiez",
+			"ils/elles": "accéderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais accédé",
+			"tu": "aurais accédé",
+			"il/elle": "aurait accédé",
+			"nous": "aurions accédé",
+			"vous": "auriez accédé",
+			"ils/elles": "auraient accédé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse accédé",
+			"tu": "eusses accédé",
+			"il/elle": "eût accédé",
+			"nous": "eussions accédé",
+			"vous": "eussiez accédé",
+			"ils/elles": "eussent accédé"
+		}
+	},
+	"participe": {
+		"présent": { "accédant": "" },
+		"passé composé": { "ayant": "accédé" },
+		"passé": {
+			"masc.sg.:": "accédé",
+			"masc.pl.:": "accédés",
+			"fém.sg.:": "accédée",
+			"fém.pl.:": "accédées"
+		}
+	},
+	"imperatif": {
+		"présent": { "accède": "", "accédons": "", "accédez": "" },
+		"passé": { "aie": "accédé", "ayons": "accédé", "ayez": "accédé" }
+	},
+	"infinitif": { "présent": { "accéder": "" }, "passé": { "avoir": "accédé" } }
+}

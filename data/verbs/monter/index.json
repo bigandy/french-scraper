@@ -1,0 +1,194 @@
+{
+	"name": "marcher",
+	"definition": "mount; ride; climb; ...",
+	"model": "marcher",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "se monter/ne pas monter/ne pas se monter",
+	"indicatif": {
+		"présent": {
+			"je": "monte",
+			"tu": "montes",
+			"il/elle": "monte",
+			"nous": "montons",
+			"vous": "montez",
+			"ils/elles": "montent"
+		},
+		"imparfait": {
+			"je": "montais",
+			"tu": "montais",
+			"il/elle": "montait",
+			"nous": "montions",
+			"vous": "montiez",
+			"ils/elles": "montaient"
+		},
+		"futur": {
+			"je": "monterai",
+			"tu": "monteras",
+			"il/elle": "montera",
+			"nous": "monterons",
+			"vous": "monterez",
+			"ils/elles": "monteront"
+		},
+		"passé simple": {
+			"je": "montai",
+			"tu": "montas",
+			"il/elle": "monta",
+			"nous": "montâmes",
+			"vous": "montâtes",
+			"ils/elles": "montèrent"
+		},
+		"passé composé": {
+			"j'": "ai monté",
+			"tu": "es monté",
+			"il/elle": "a monté",
+			"nous": "sommes montés",
+			"vous": "êtes montés",
+			"ils/elles": "ont monté",
+			"": "",
+			"je": "suis monté",
+			"il": "est monté",
+			"elle": "est montée",
+			"ils": "sont montés",
+			"elles": "sont montées"
+		},
+		"plus-que-parfait": {
+			"j'": "étais monté",
+			"tu": "étais monté",
+			"il/elle": "avait monté",
+			"nous": "étions montés",
+			"vous": "étiez montés",
+			"ils/elles": "avaient monté",
+			"": "",
+			"il": "était monté",
+			"elle": "était montée",
+			"ils": "étaient montés",
+			"elles": "étaient montées"
+		},
+		"passé antérieur": {
+			"j'": "eus monté",
+			"tu": "fus monté",
+			"il/elle": "eut monté",
+			"nous": "fûmes montés",
+			"vous": "fûtes montés",
+			"ils/elles": "eurent monté",
+			"": "",
+			"je": "fus monté",
+			"il": "fut monté",
+			"elle": "fut montée",
+			"ils": "furent montés",
+			"elles": "furent montées"
+		},
+		"futur antérieur": {
+			"j'": "aurai monté",
+			"tu": "seras monté",
+			"il/elle": "aura monté",
+			"nous": "serons montés",
+			"vous": "serez montés",
+			"ils/elles": "auront monté",
+			"": "",
+			"je": "serai monté",
+			"il": "sera monté",
+			"elle": "sera montée",
+			"ils": "seront montés",
+			"elles": "seront montées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous montiez",
+			"qu'il/elle": "monte",
+			"qu'ils/elles": "montent"
+		},
+		"imparfait": {
+			"que": "vous montassiez",
+			"qu'il/elle": "montât",
+			"qu'ils/elles": "montassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse monté",
+			"que": "vous fussiez montés",
+			"qu'il/elle": "eût monté",
+			"qu'ils/elles": "eussent monté",
+			"": "",
+			"qu'il": "fût monté",
+			"qu'elle": "fût montée",
+			"qu'ils": "fussent montés",
+			"qu'elles": "fussent montées"
+		},
+		"passé": {
+			"j'": "aie monté",
+			"que": "vous soyez montés",
+			"qu'il/elle": "ait monté",
+			"qu'ils/elles": "aient monté",
+			"": "",
+			"qu'il": "soit monté",
+			"qu'elle": "soit montée",
+			"qu'ils": "soient montés",
+			"qu'elles": "soient montées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "monterais",
+			"tu": "monterais",
+			"il/elle": "monterait",
+			"nous": "monterions",
+			"vous": "monteriez",
+			"ils/elles": "monteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais monté",
+			"tu": "serais monté",
+			"il/elle": "aurait monté",
+			"nous": "serions montés",
+			"vous": "seriez montés",
+			"ils/elles": "auraient monté",
+			"": "",
+			"je": "serais monté",
+			"il": "serait monté",
+			"elle": "serait montée",
+			"ils": "seraient montés",
+			"elles": "seraient montées"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse monté",
+			"tu": "fusses monté",
+			"il/elle": "eût monté",
+			"nous": "fussions montés",
+			"vous": "fussiez montés",
+			"ils/elles": "eussent monté",
+			"": "",
+			"je": "fusse monté",
+			"il": "fût monté",
+			"elle": "fût montée",
+			"ils": "fussent montés",
+			"elles": "fussent montées"
+		}
+	},
+	"participe": {
+		"présent": { "montant": "" },
+		"passé composé": { "ayant": "monté", "": "", "étant": "montée" },
+		"passé": {
+			"masc.sg.:": "monté",
+			"masc.pl.:": "montés",
+			"fém.sg.:": "montée",
+			"fém.pl.:": "montées"
+		}
+	},
+	"imperatif": {
+		"présent": { "monte": "", "montons": "", "montez": "" },
+		"passé": {
+			"aie": "monté",
+			"ayons": "monté",
+			"ayez": "monté",
+			"": "",
+			"sois": "monté",
+			"soyons": "monté",
+			"soyez": "monté"
+		}
+	},
+	"infinitif": {
+		"présent": { "monter": "" },
+		"passé": { "avoir": "monté", "": "", "être": "monté" }
+	}
+}

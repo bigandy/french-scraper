@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "fly; drive; control; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se piloter/ne pas piloter/ne pas se piloter",
+	"indicatif": {
+		"présent": {
+			"je": "pilote",
+			"tu": "pilotes",
+			"il/elle": "pilote",
+			"nous": "pilotons",
+			"vous": "pilotez",
+			"ils/elles": "pilotent"
+		},
+		"imparfait": {
+			"je": "pilotais",
+			"tu": "pilotais",
+			"il/elle": "pilotait",
+			"nous": "pilotions",
+			"vous": "pilotiez",
+			"ils/elles": "pilotaient"
+		},
+		"futur": {
+			"je": "piloterai",
+			"tu": "piloteras",
+			"il/elle": "pilotera",
+			"nous": "piloterons",
+			"vous": "piloterez",
+			"ils/elles": "piloteront"
+		},
+		"passé simple": {
+			"je": "pilotai",
+			"tu": "pilotas",
+			"il/elle": "pilota",
+			"nous": "pilotâmes",
+			"vous": "pilotâtes",
+			"ils/elles": "pilotèrent"
+		},
+		"passé composé": {
+			"j'": "ai piloté",
+			"tu": "as piloté",
+			"il/elle": "a piloté",
+			"nous": "avons piloté",
+			"vous": "avez piloté",
+			"ils/elles": "ont piloté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais piloté",
+			"tu": "avais piloté",
+			"il/elle": "avait piloté",
+			"nous": "avions piloté",
+			"vous": "aviez piloté",
+			"ils/elles": "avaient piloté"
+		},
+		"passé antérieur": {
+			"j'": "eus piloté",
+			"tu": "eus piloté",
+			"il/elle": "eut piloté",
+			"nous": "eûmes piloté",
+			"vous": "eûtes piloté",
+			"ils/elles": "eurent piloté"
+		},
+		"futur antérieur": {
+			"j'": "aurai piloté",
+			"tu": "auras piloté",
+			"il/elle": "aura piloté",
+			"nous": "aurons piloté",
+			"vous": "aurez piloté",
+			"ils/elles": "auront piloté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous pilotiez",
+			"qu'il/elle": "pilote",
+			"qu'ils/elles": "pilotent"
+		},
+		"imparfait": {
+			"que": "vous pilotassiez",
+			"qu'il/elle": "pilotât",
+			"qu'ils/elles": "pilotassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse piloté",
+			"que": "vous eussiez piloté",
+			"qu'il/elle": "eût piloté",
+			"qu'ils/elles": "eussent piloté"
+		},
+		"passé": {
+			"j'": "aie piloté",
+			"que": "vous ayez piloté",
+			"qu'il/elle": "ait piloté",
+			"qu'ils/elles": "aient piloté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "piloterais",
+			"tu": "piloterais",
+			"il/elle": "piloterait",
+			"nous": "piloterions",
+			"vous": "piloteriez",
+			"ils/elles": "piloteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais piloté",
+			"tu": "aurais piloté",
+			"il/elle": "aurait piloté",
+			"nous": "aurions piloté",
+			"vous": "auriez piloté",
+			"ils/elles": "auraient piloté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse piloté",
+			"tu": "eusses piloté",
+			"il/elle": "eût piloté",
+			"nous": "eussions piloté",
+			"vous": "eussiez piloté",
+			"ils/elles": "eussent piloté"
+		}
+	},
+	"participe": {
+		"présent": { "pilotant": "" },
+		"passé composé": { "ayant": "piloté" },
+		"passé": {
+			"masc.sg.:": "piloté",
+			"masc.pl.:": "pilotés",
+			"fém.sg.:": "pilotée",
+			"fém.pl.:": "pilotées"
+		}
+	},
+	"imperatif": {
+		"présent": { "pilote": "", "pilotons": "", "pilotez": "" },
+		"passé": { "aie": "piloté", "ayons": "piloté", "ayez": "piloté" }
+	},
+	"infinitif": { "présent": { "piloter": "" }, "passé": { "avoir": "piloté" } }
+}

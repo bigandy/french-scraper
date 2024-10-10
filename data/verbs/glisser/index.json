@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "slide; slip; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se glisser/ne pas glisser/ne pas se glisser",
+	"indicatif": {
+		"présent": {
+			"je": "glisse",
+			"tu": "glisses",
+			"il/elle": "glisse",
+			"nous": "glissons",
+			"vous": "glissez",
+			"ils/elles": "glissent"
+		},
+		"imparfait": {
+			"je": "glissais",
+			"tu": "glissais",
+			"il/elle": "glissait",
+			"nous": "glissions",
+			"vous": "glissiez",
+			"ils/elles": "glissaient"
+		},
+		"futur": {
+			"je": "glisserai",
+			"tu": "glisseras",
+			"il/elle": "glissera",
+			"nous": "glisserons",
+			"vous": "glisserez",
+			"ils/elles": "glisseront"
+		},
+		"passé simple": {
+			"je": "glissai",
+			"tu": "glissas",
+			"il/elle": "glissa",
+			"nous": "glissâmes",
+			"vous": "glissâtes",
+			"ils/elles": "glissèrent"
+		},
+		"passé composé": {
+			"j'": "ai glissé",
+			"tu": "as glissé",
+			"il/elle": "a glissé",
+			"nous": "avons glissé",
+			"vous": "avez glissé",
+			"ils/elles": "ont glissé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais glissé",
+			"tu": "avais glissé",
+			"il/elle": "avait glissé",
+			"nous": "avions glissé",
+			"vous": "aviez glissé",
+			"ils/elles": "avaient glissé"
+		},
+		"passé antérieur": {
+			"j'": "eus glissé",
+			"tu": "eus glissé",
+			"il/elle": "eut glissé",
+			"nous": "eûmes glissé",
+			"vous": "eûtes glissé",
+			"ils/elles": "eurent glissé"
+		},
+		"futur antérieur": {
+			"j'": "aurai glissé",
+			"tu": "auras glissé",
+			"il/elle": "aura glissé",
+			"nous": "aurons glissé",
+			"vous": "aurez glissé",
+			"ils/elles": "auront glissé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous glissiez",
+			"qu'il/elle": "glisse",
+			"qu'ils/elles": "glissent"
+		},
+		"imparfait": {
+			"que": "vous glissassiez",
+			"qu'il/elle": "glissât",
+			"qu'ils/elles": "glissassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse glissé",
+			"que": "vous eussiez glissé",
+			"qu'il/elle": "eût glissé",
+			"qu'ils/elles": "eussent glissé"
+		},
+		"passé": {
+			"j'": "aie glissé",
+			"que": "vous ayez glissé",
+			"qu'il/elle": "ait glissé",
+			"qu'ils/elles": "aient glissé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "glisserais",
+			"tu": "glisserais",
+			"il/elle": "glisserait",
+			"nous": "glisserions",
+			"vous": "glisseriez",
+			"ils/elles": "glisseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais glissé",
+			"tu": "aurais glissé",
+			"il/elle": "aurait glissé",
+			"nous": "aurions glissé",
+			"vous": "auriez glissé",
+			"ils/elles": "auraient glissé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse glissé",
+			"tu": "eusses glissé",
+			"il/elle": "eût glissé",
+			"nous": "eussions glissé",
+			"vous": "eussiez glissé",
+			"ils/elles": "eussent glissé"
+		}
+	},
+	"participe": {
+		"présent": { "glissant": "" },
+		"passé composé": { "ayant": "glissé" },
+		"passé": {
+			"masc.sg.:": "glissé",
+			"masc.pl.:": "glissés",
+			"fém.sg.:": "glissée",
+			"fém.pl.:": "glissées"
+		}
+	},
+	"imperatif": {
+		"présent": { "glisse": "", "glissons": "", "glissez": "" },
+		"passé": { "aie": "glissé", "ayons": "glissé", "ayez": "glissé" }
+	},
+	"infinitif": { "présent": { "glisser": "" }, "passé": { "avoir": "glissé" } }
+}

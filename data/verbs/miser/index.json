@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "bet; focus; rely; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se miser/ne pas miser/ne pas se miser",
+	"indicatif": {
+		"présent": {
+			"je": "mise",
+			"tu": "mises",
+			"il/elle": "mise",
+			"nous": "misons",
+			"vous": "misez",
+			"ils/elles": "misent"
+		},
+		"imparfait": {
+			"je": "misais",
+			"tu": "misais",
+			"il/elle": "misait",
+			"nous": "misions",
+			"vous": "misiez",
+			"ils/elles": "misaient"
+		},
+		"futur": {
+			"je": "miserai",
+			"tu": "miseras",
+			"il/elle": "misera",
+			"nous": "miserons",
+			"vous": "miserez",
+			"ils/elles": "miseront"
+		},
+		"passé simple": {
+			"je": "misai",
+			"tu": "misas",
+			"il/elle": "misa",
+			"nous": "misâmes",
+			"vous": "misâtes",
+			"ils/elles": "misèrent"
+		},
+		"passé composé": {
+			"j'": "ai misé",
+			"tu": "as misé",
+			"il/elle": "a misé",
+			"nous": "avons misé",
+			"vous": "avez misé",
+			"ils/elles": "ont misé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais misé",
+			"tu": "avais misé",
+			"il/elle": "avait misé",
+			"nous": "avions misé",
+			"vous": "aviez misé",
+			"ils/elles": "avaient misé"
+		},
+		"passé antérieur": {
+			"j'": "eus misé",
+			"tu": "eus misé",
+			"il/elle": "eut misé",
+			"nous": "eûmes misé",
+			"vous": "eûtes misé",
+			"ils/elles": "eurent misé"
+		},
+		"futur antérieur": {
+			"j'": "aurai misé",
+			"tu": "auras misé",
+			"il/elle": "aura misé",
+			"nous": "aurons misé",
+			"vous": "aurez misé",
+			"ils/elles": "auront misé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous misiez",
+			"qu'il/elle": "mise",
+			"qu'ils/elles": "misent"
+		},
+		"imparfait": {
+			"que": "vous misassiez",
+			"qu'il/elle": "misât",
+			"qu'ils/elles": "misassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse misé",
+			"que": "vous eussiez misé",
+			"qu'il/elle": "eût misé",
+			"qu'ils/elles": "eussent misé"
+		},
+		"passé": {
+			"j'": "aie misé",
+			"que": "vous ayez misé",
+			"qu'il/elle": "ait misé",
+			"qu'ils/elles": "aient misé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "miserais",
+			"tu": "miserais",
+			"il/elle": "miserait",
+			"nous": "miserions",
+			"vous": "miseriez",
+			"ils/elles": "miseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais misé",
+			"tu": "aurais misé",
+			"il/elle": "aurait misé",
+			"nous": "aurions misé",
+			"vous": "auriez misé",
+			"ils/elles": "auraient misé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse misé",
+			"tu": "eusses misé",
+			"il/elle": "eût misé",
+			"nous": "eussions misé",
+			"vous": "eussiez misé",
+			"ils/elles": "eussent misé"
+		}
+	},
+	"participe": {
+		"présent": { "misant": "" },
+		"passé composé": { "ayant": "misé" },
+		"passé": {
+			"masc.sg.:": "misé",
+			"masc.pl.:": "misés",
+			"fém.sg.:": "misée",
+			"fém.pl.:": "misées"
+		}
+	},
+	"imperatif": {
+		"présent": { "mise": "", "misons": "", "misez": "" },
+		"passé": { "aie": "misé", "ayons": "misé", "ayez": "misé" }
+	},
+	"infinitif": { "présent": { "miser": "" }, "passé": { "avoir": "misé" } }
+}

@@ -1,0 +1,140 @@
+{
+	"name": "ouïr",
+	"definition": "hear; ...",
+	"model": "ouïr",
+	"auxiliary": "avoir",
+	"otherForms": "s'ouïr/ne pas ouïr/ne pas s'ouïr",
+	"indicatif": {
+		"présent": {
+			"j'": "ois",
+			"tu": "ois",
+			"il/elle": "oit",
+			"nous": "oyons",
+			"vous": "oyez",
+			"ils/elles": "oient"
+		},
+		"imparfait": {
+			"j'": "oyais",
+			"tu": "oyais",
+			"il/elle": "oyait",
+			"nous": "oyions",
+			"vous": "oyiez",
+			"ils/elles": "oyaient"
+		},
+		"futur": {
+			"j'": "ouïrai",
+			"tu": "ouïras",
+			"il/elle": "ouïra",
+			"nous": "ouïrons",
+			"vous": "ouïrez",
+			"ils/elles": "ouïront"
+		},
+		"passé simple": {
+			"j'": "ouïs",
+			"tu": "ouïs",
+			"il/elle": "ouït",
+			"nous": "ouîmes",
+			"vous": "ouîtes",
+			"ils/elles": "ouïrent"
+		},
+		"passé composé": {
+			"j'": "ai ouï",
+			"tu": "as ouï",
+			"il/elle": "a ouï",
+			"nous": "avons ouï",
+			"vous": "avez ouï",
+			"ils/elles": "ont ouï"
+		},
+		"plus-que-parfait": {
+			"j'": "avais ouï",
+			"tu": "avais ouï",
+			"il/elle": "avait ouï",
+			"nous": "avions ouï",
+			"vous": "aviez ouï",
+			"ils/elles": "avaient ouï"
+		},
+		"passé antérieur": {
+			"j'": "eus ouï",
+			"tu": "eus ouï",
+			"il/elle": "eut ouï",
+			"nous": "eûmes ouï",
+			"vous": "eûtes ouï",
+			"ils/elles": "eurent ouï"
+		},
+		"futur antérieur": {
+			"j'": "aurai ouï",
+			"tu": "auras ouï",
+			"il/elle": "aura ouï",
+			"nous": "aurons ouï",
+			"vous": "aurez ouï",
+			"ils/elles": "auront ouï"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "oie",
+			"que": "vous oyiez",
+			"qu'il/elle": "oie",
+			"qu'ils/elles": "oient"
+		},
+		"imparfait": {
+			"j'": "ouïsse",
+			"que": "vous ouïssiez",
+			"qu'il/elle": "ouït",
+			"qu'ils/elles": "ouïssent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse ouï",
+			"que": "vous eussiez ouï",
+			"qu'il/elle": "eût ouï",
+			"qu'ils/elles": "eussent ouï"
+		},
+		"passé": {
+			"j'": "aie ouï",
+			"que": "vous ayez ouï",
+			"qu'il/elle": "ait ouï",
+			"qu'ils/elles": "aient ouï"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "ouïrais",
+			"tu": "ouïrais",
+			"il/elle": "ouïrait",
+			"nous": "ouïrions",
+			"vous": "ouïriez",
+			"ils/elles": "ouïraient"
+		},
+		"passé première forme": {
+			"j'": "aurais ouï",
+			"tu": "aurais ouï",
+			"il/elle": "aurait ouï",
+			"nous": "aurions ouï",
+			"vous": "auriez ouï",
+			"ils/elles": "auraient ouï"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse ouï",
+			"tu": "eusses ouï",
+			"il/elle": "eût ouï",
+			"nous": "eussions ouï",
+			"vous": "eussiez ouï",
+			"ils/elles": "eussent ouï"
+		}
+	},
+	"participe": {
+		"présent": { "oyant": "" },
+		"passé composé": { "ayant": "ouï" },
+		"passé": {
+			"masc.sg.:": "ouï",
+			"masc.pl.:": "ouïe",
+			"fém.sg.:": "ouïs",
+			"fém.pl.:": "ouïes"
+		}
+	},
+	"imperatif": {
+		"présent": { "ois": "", "oyons": "", "oyez": "" },
+		"passé": { "aie": "ouï", "ayons": "ouï", "ayez": "ouï" }
+	},
+	"infinitif": { "présent": { "ouïr": "" }, "passé": { "avoir": "ouï" } }
+}

@@ -1,0 +1,194 @@
+{
+	"name": "mentir",
+	"definition": "get out; go out; leave; ...",
+	"model": "mentir",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "se sortir/ne pas sortir/ne pas se sortir",
+	"indicatif": {
+		"présent": {
+			"je": "sors",
+			"tu": "sors",
+			"il/elle": "sort",
+			"nous": "sortons",
+			"vous": "sortez",
+			"ils/elles": "sortent"
+		},
+		"imparfait": {
+			"je": "sortais",
+			"tu": "sortais",
+			"il/elle": "sortait",
+			"nous": "sortions",
+			"vous": "sortiez",
+			"ils/elles": "sortaient"
+		},
+		"futur": {
+			"je": "sortirai",
+			"tu": "sortiras",
+			"il/elle": "sortira",
+			"nous": "sortirons",
+			"vous": "sortirez",
+			"ils/elles": "sortiront"
+		},
+		"passé simple": {
+			"je": "sortis",
+			"tu": "sortis",
+			"il/elle": "sortit",
+			"nous": "sortîmes",
+			"vous": "sortîtes",
+			"ils/elles": "sortirent"
+		},
+		"passé composé": {
+			"j'": "ai sorti",
+			"tu": "es sorti",
+			"il/elle": "a sorti",
+			"nous": "sommes sortis",
+			"vous": "êtes sortis",
+			"ils/elles": "ont sorti",
+			"": "",
+			"je": "suis sorti",
+			"il": "est sorti",
+			"elle": "est sortie",
+			"ils": "sont sortis",
+			"elles": "sont sorties"
+		},
+		"plus-que-parfait": {
+			"j'": "étais sorti",
+			"tu": "étais sorti",
+			"il/elle": "avait sorti",
+			"nous": "étions sortis",
+			"vous": "étiez sortis",
+			"ils/elles": "avaient sorti",
+			"": "",
+			"il": "était sorti",
+			"elle": "était sortie",
+			"ils": "étaient sortis",
+			"elles": "étaient sorties"
+		},
+		"passé antérieur": {
+			"j'": "eus sorti",
+			"tu": "fus sorti",
+			"il/elle": "eut sorti",
+			"nous": "fûmes sortis",
+			"vous": "fûtes sortis",
+			"ils/elles": "eurent sorti",
+			"": "",
+			"je": "fus sorti",
+			"il": "fut sorti",
+			"elle": "fut sortie",
+			"ils": "furent sortis",
+			"elles": "furent sorties"
+		},
+		"futur antérieur": {
+			"j'": "aurai sorti",
+			"tu": "seras sorti",
+			"il/elle": "aura sorti",
+			"nous": "serons sortis",
+			"vous": "serez sortis",
+			"ils/elles": "auront sorti",
+			"": "",
+			"je": "serai sorti",
+			"il": "sera sorti",
+			"elle": "sera sortie",
+			"ils": "seront sortis",
+			"elles": "seront sorties"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous sortiez",
+			"qu'il/elle": "sorte",
+			"qu'ils/elles": "sortent"
+		},
+		"imparfait": {
+			"que": "vous sortissiez",
+			"qu'il/elle": "sortît",
+			"qu'ils/elles": "sortissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse sorti",
+			"que": "vous fussiez sortis",
+			"qu'il/elle": "eût sorti",
+			"qu'ils/elles": "eussent sorti",
+			"": "",
+			"qu'il": "fût sorti",
+			"qu'elle": "fût sortie",
+			"qu'ils": "fussent sortis",
+			"qu'elles": "fussent sorties"
+		},
+		"passé": {
+			"j'": "aie sorti",
+			"que": "vous soyez sortis",
+			"qu'il/elle": "ait sorti",
+			"qu'ils/elles": "aient sorti",
+			"": "",
+			"qu'il": "soit sorti",
+			"qu'elle": "soit sortie",
+			"qu'ils": "soient sortis",
+			"qu'elles": "soient sorties"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "sortirais",
+			"tu": "sortirais",
+			"il/elle": "sortirait",
+			"nous": "sortirions",
+			"vous": "sortiriez",
+			"ils/elles": "sortiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais sorti",
+			"tu": "serais sorti",
+			"il/elle": "aurait sorti",
+			"nous": "serions sortis",
+			"vous": "seriez sortis",
+			"ils/elles": "auraient sorti",
+			"": "",
+			"je": "serais sorti",
+			"il": "serait sorti",
+			"elle": "serait sortie",
+			"ils": "seraient sortis",
+			"elles": "seraient sorties"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse sorti",
+			"tu": "fusses sorti",
+			"il/elle": "eût sorti",
+			"nous": "fussions sortis",
+			"vous": "fussiez sortis",
+			"ils/elles": "eussent sorti",
+			"": "",
+			"je": "fusse sorti",
+			"il": "fût sorti",
+			"elle": "fût sortie",
+			"ils": "fussent sortis",
+			"elles": "fussent sorties"
+		}
+	},
+	"participe": {
+		"présent": { "sortant": "" },
+		"passé composé": { "ayant": "sorti", "": "", "étant": "sortie" },
+		"passé": {
+			"masc.sg.:": "sorti",
+			"masc.pl.:": "sortis",
+			"fém.sg.:": "sortie",
+			"fém.pl.:": "sorties"
+		}
+	},
+	"imperatif": {
+		"présent": { "sors": "", "sortons": "", "sortez": "" },
+		"passé": {
+			"aie": "sorti",
+			"ayons": "sorti",
+			"ayez": "sorti",
+			"": "",
+			"sois": "sorti",
+			"soyons": "sorti",
+			"soyez": "sorti"
+		}
+	},
+	"infinitif": {
+		"présent": { "sortir": "" },
+		"passé": { "avoir": "sorti", "": "", "être": "sorti" }
+	}
+}

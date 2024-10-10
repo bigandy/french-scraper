@@ -1,0 +1,138 @@
+{
+	"name": "craindre",
+	"definition": "paint; portray; color; ...",
+	"model": "craindre",
+	"auxiliary": "avoir",
+	"otherForms": "se peindre/ne pas peindre/ne pas se peindre",
+	"indicatif": {
+		"présent": {
+			"je": "peins",
+			"tu": "peins",
+			"il/elle": "peint",
+			"nous": "peignons",
+			"vous": "peignez",
+			"ils/elles": "peignent"
+		},
+		"imparfait": {
+			"je": "peignais",
+			"tu": "peignais",
+			"il/elle": "peignait",
+			"nous": "peignions",
+			"vous": "peigniez",
+			"ils/elles": "peignaient"
+		},
+		"futur": {
+			"je": "peindrai",
+			"tu": "peindras",
+			"il/elle": "peindra",
+			"nous": "peindrons",
+			"vous": "peindrez",
+			"ils/elles": "peindront"
+		},
+		"passé simple": {
+			"je": "peignis",
+			"tu": "peignis",
+			"il/elle": "peignit",
+			"nous": "peignîmes",
+			"vous": "peignîtes",
+			"ils/elles": "peignirent"
+		},
+		"passé composé": {
+			"j'": "ai peint",
+			"tu": "as peint",
+			"il/elle": "a peint",
+			"nous": "avons peint",
+			"vous": "avez peint",
+			"ils/elles": "ont peint"
+		},
+		"plus-que-parfait": {
+			"j'": "avais peint",
+			"tu": "avais peint",
+			"il/elle": "avait peint",
+			"nous": "avions peint",
+			"vous": "aviez peint",
+			"ils/elles": "avaient peint"
+		},
+		"passé antérieur": {
+			"j'": "eus peint",
+			"tu": "eus peint",
+			"il/elle": "eut peint",
+			"nous": "eûmes peint",
+			"vous": "eûtes peint",
+			"ils/elles": "eurent peint"
+		},
+		"futur antérieur": {
+			"j'": "aurai peint",
+			"tu": "auras peint",
+			"il/elle": "aura peint",
+			"nous": "aurons peint",
+			"vous": "aurez peint",
+			"ils/elles": "auront peint"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous peigniez",
+			"qu'il/elle": "peigne",
+			"qu'ils/elles": "peignent"
+		},
+		"imparfait": {
+			"que": "vous peignissiez",
+			"qu'il/elle": "peignît",
+			"qu'ils/elles": "peignissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse peint",
+			"que": "vous eussiez peint",
+			"qu'il/elle": "eût peint",
+			"qu'ils/elles": "eussent peint"
+		},
+		"passé": {
+			"j'": "aie peint",
+			"que": "vous ayez peint",
+			"qu'il/elle": "ait peint",
+			"qu'ils/elles": "aient peint"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "peindrais",
+			"tu": "peindrais",
+			"il/elle": "peindrait",
+			"nous": "peindrions",
+			"vous": "peindriez",
+			"ils/elles": "peindraient"
+		},
+		"passé première forme": {
+			"j'": "aurais peint",
+			"tu": "aurais peint",
+			"il/elle": "aurait peint",
+			"nous": "aurions peint",
+			"vous": "auriez peint",
+			"ils/elles": "auraient peint"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse peint",
+			"tu": "eusses peint",
+			"il/elle": "eût peint",
+			"nous": "eussions peint",
+			"vous": "eussiez peint",
+			"ils/elles": "eussent peint"
+		}
+	},
+	"participe": {
+		"présent": { "peignant": "" },
+		"passé composé": { "ayant": "peint" },
+		"passé": {
+			"masc.sg.:": "peint",
+			"masc.pl.:": "peints",
+			"fém.sg.:": "peinte",
+			"fém.pl.:": "peintes"
+		}
+	},
+	"imperatif": {
+		"présent": { "peins": "", "peignons": "", "peignez": "" },
+		"passé": { "aie": "peint", "ayons": "peint", "ayez": "peint" }
+	},
+	"infinitif": { "présent": { "peindre": "" }, "passé": { "avoir": "peint" } }
+}

@@ -1,0 +1,151 @@
+{
+	"name": "marcher",
+	"definition": "architect; structure; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'architecturer/ne pas architecturer/ne pas s'architecturer",
+	"indicatif": {
+		"présent": {
+			"j'": "architecture",
+			"tu": "architectures",
+			"il/elle": "architecture",
+			"nous": "architecturons",
+			"vous": "architecturez",
+			"ils/elles": "architecturent"
+		},
+		"imparfait": {
+			"j'": "architecturais",
+			"tu": "architecturais",
+			"il/elle": "architecturait",
+			"nous": "architecturions",
+			"vous": "architecturiez",
+			"ils/elles": "architecturaient"
+		},
+		"futur": {
+			"j'": "architecturerai",
+			"tu": "architectureras",
+			"il/elle": "architecturera",
+			"nous": "architecturerons",
+			"vous": "architecturerez",
+			"ils/elles": "architectureront"
+		},
+		"passé simple": {
+			"j'": "architecturai",
+			"tu": "architecturas",
+			"il/elle": "architectura",
+			"nous": "architecturâmes",
+			"vous": "architecturâtes",
+			"ils/elles": "architecturèrent"
+		},
+		"passé composé": {
+			"j'": "ai architecturé",
+			"tu": "as architecturé",
+			"il/elle": "a architecturé",
+			"nous": "avons architecturé",
+			"vous": "avez architecturé",
+			"ils/elles": "ont architecturé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais architecturé",
+			"tu": "avais architecturé",
+			"il/elle": "avait architecturé",
+			"nous": "avions architecturé",
+			"vous": "aviez architecturé",
+			"ils/elles": "avaient architecturé"
+		},
+		"passé antérieur": {
+			"j'": "eus architecturé",
+			"tu": "eus architecturé",
+			"il/elle": "eut architecturé",
+			"nous": "eûmes architecturé",
+			"vous": "eûtes architecturé",
+			"ils/elles": "eurent architecturé"
+		},
+		"futur antérieur": {
+			"j'": "aurai architecturé",
+			"tu": "auras architecturé",
+			"il/elle": "aura architecturé",
+			"nous": "aurons architecturé",
+			"vous": "aurez architecturé",
+			"ils/elles": "auront architecturé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "architecture",
+			"que": "vous architecturiez",
+			"qu'il/elle": "architecture",
+			"qu'ils/elles": "architecturent"
+		},
+		"imparfait": {
+			"j'": "architecturasse",
+			"que": "vous architecturassiez",
+			"qu'il/elle": "architecturât",
+			"qu'ils/elles": "architecturassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse architecturé",
+			"que": "vous eussiez architecturé",
+			"qu'il/elle": "eût architecturé",
+			"qu'ils/elles": "eussent architecturé"
+		},
+		"passé": {
+			"j'": "aie architecturé",
+			"que": "vous ayez architecturé",
+			"qu'il/elle": "ait architecturé",
+			"qu'ils/elles": "aient architecturé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "architecturerais",
+			"tu": "architecturerais",
+			"il/elle": "architecturerait",
+			"nous": "architecturerions",
+			"vous": "architectureriez",
+			"ils/elles": "architectureraient"
+		},
+		"passé première forme": {
+			"j'": "aurais architecturé",
+			"tu": "aurais architecturé",
+			"il/elle": "aurait architecturé",
+			"nous": "aurions architecturé",
+			"vous": "auriez architecturé",
+			"ils/elles": "auraient architecturé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse architecturé",
+			"tu": "eusses architecturé",
+			"il/elle": "eût architecturé",
+			"nous": "eussions architecturé",
+			"vous": "eussiez architecturé",
+			"ils/elles": "eussent architecturé"
+		}
+	},
+	"participe": {
+		"présent": { "architecturant": "" },
+		"passé composé": { "ayant": "architecturé" },
+		"passé": {
+			"masc.sg.:": "architecturé",
+			"masc.pl.:": "architecturés",
+			"fém.sg.:": "architecturée",
+			"fém.pl.:": "architecturées"
+		}
+	},
+	"imperatif": {
+		"présent": {
+			"architecture": "",
+			"architecturons": "",
+			"architecturez": ""
+		},
+		"passé": {
+			"aie": "architecturé",
+			"ayons": "architecturé",
+			"ayez": "architecturé"
+		}
+	},
+	"infinitif": {
+		"présent": { "architecturer": "" },
+		"passé": { "avoir": "architecturé" }
+	}
+}

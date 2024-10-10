@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "overthrow; reverse; overturn; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se renverser/ne pas renverser/ne pas se renverser",
+	"indicatif": {
+		"présent": {
+			"je": "renverse",
+			"tu": "renverses",
+			"il/elle": "renverse",
+			"nous": "renversons",
+			"vous": "renversez",
+			"ils/elles": "renversent"
+		},
+		"imparfait": {
+			"je": "renversais",
+			"tu": "renversais",
+			"il/elle": "renversait",
+			"nous": "renversions",
+			"vous": "renversiez",
+			"ils/elles": "renversaient"
+		},
+		"futur": {
+			"je": "renverserai",
+			"tu": "renverseras",
+			"il/elle": "renversera",
+			"nous": "renverserons",
+			"vous": "renverserez",
+			"ils/elles": "renverseront"
+		},
+		"passé simple": {
+			"je": "renversai",
+			"tu": "renversas",
+			"il/elle": "renversa",
+			"nous": "renversâmes",
+			"vous": "renversâtes",
+			"ils/elles": "renversèrent"
+		},
+		"passé composé": {
+			"j'": "ai renversé",
+			"tu": "as renversé",
+			"il/elle": "a renversé",
+			"nous": "avons renversé",
+			"vous": "avez renversé",
+			"ils/elles": "ont renversé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais renversé",
+			"tu": "avais renversé",
+			"il/elle": "avait renversé",
+			"nous": "avions renversé",
+			"vous": "aviez renversé",
+			"ils/elles": "avaient renversé"
+		},
+		"passé antérieur": {
+			"j'": "eus renversé",
+			"tu": "eus renversé",
+			"il/elle": "eut renversé",
+			"nous": "eûmes renversé",
+			"vous": "eûtes renversé",
+			"ils/elles": "eurent renversé"
+		},
+		"futur antérieur": {
+			"j'": "aurai renversé",
+			"tu": "auras renversé",
+			"il/elle": "aura renversé",
+			"nous": "aurons renversé",
+			"vous": "aurez renversé",
+			"ils/elles": "auront renversé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous renversiez",
+			"qu'il/elle": "renverse",
+			"qu'ils/elles": "renversent"
+		},
+		"imparfait": {
+			"que": "vous renversassiez",
+			"qu'il/elle": "renversât",
+			"qu'ils/elles": "renversassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse renversé",
+			"que": "vous eussiez renversé",
+			"qu'il/elle": "eût renversé",
+			"qu'ils/elles": "eussent renversé"
+		},
+		"passé": {
+			"j'": "aie renversé",
+			"que": "vous ayez renversé",
+			"qu'il/elle": "ait renversé",
+			"qu'ils/elles": "aient renversé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "renverserais",
+			"tu": "renverserais",
+			"il/elle": "renverserait",
+			"nous": "renverserions",
+			"vous": "renverseriez",
+			"ils/elles": "renverseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais renversé",
+			"tu": "aurais renversé",
+			"il/elle": "aurait renversé",
+			"nous": "aurions renversé",
+			"vous": "auriez renversé",
+			"ils/elles": "auraient renversé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse renversé",
+			"tu": "eusses renversé",
+			"il/elle": "eût renversé",
+			"nous": "eussions renversé",
+			"vous": "eussiez renversé",
+			"ils/elles": "eussent renversé"
+		}
+	},
+	"participe": {
+		"présent": { "renversant": "" },
+		"passé composé": { "ayant": "renversé" },
+		"passé": {
+			"masc.sg.:": "renversé",
+			"masc.pl.:": "renversés",
+			"fém.sg.:": "renversée",
+			"fém.pl.:": "renversées"
+		}
+	},
+	"imperatif": {
+		"présent": { "renverse": "", "renversons": "", "renversez": "" },
+		"passé": { "aie": "renversé", "ayons": "renversé", "ayez": "renversé" }
+	},
+	"infinitif": {
+		"présent": { "renverser": "" },
+		"passé": { "avoir": "renversé" }
+	}
+}

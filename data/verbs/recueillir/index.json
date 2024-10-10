@@ -1,0 +1,141 @@
+{
+	"name": "cueillir",
+	"definition": "collect; gather; raise; ...",
+	"model": "cueillir",
+	"auxiliary": "avoir",
+	"otherForms": "se recueillir/ne pas recueillir/ne pas se recueillir",
+	"indicatif": {
+		"présent": {
+			"je": "recueille",
+			"tu": "recueilles",
+			"il/elle": "recueille",
+			"nous": "recueillons",
+			"vous": "recueillez",
+			"ils/elles": "recueillent"
+		},
+		"imparfait": {
+			"je": "recueillais",
+			"tu": "recueillais",
+			"il/elle": "recueillait",
+			"nous": "recueillions",
+			"vous": "recueilliez",
+			"ils/elles": "recueillaient"
+		},
+		"futur": {
+			"je": "recueillerai",
+			"tu": "recueilleras",
+			"il/elle": "recueillera",
+			"nous": "recueillerons",
+			"vous": "recueillerez",
+			"ils/elles": "recueilleront"
+		},
+		"passé simple": {
+			"je": "recueillis",
+			"tu": "recueillis",
+			"il/elle": "recueillit",
+			"nous": "recueillîmes",
+			"vous": "recueillîtes",
+			"ils/elles": "recueillirent"
+		},
+		"passé composé": {
+			"j'": "ai recueilli",
+			"tu": "as recueilli",
+			"il/elle": "a recueilli",
+			"nous": "avons recueilli",
+			"vous": "avez recueilli",
+			"ils/elles": "ont recueilli"
+		},
+		"plus-que-parfait": {
+			"j'": "avais recueilli",
+			"tu": "avais recueilli",
+			"il/elle": "avait recueilli",
+			"nous": "avions recueilli",
+			"vous": "aviez recueilli",
+			"ils/elles": "avaient recueilli"
+		},
+		"passé antérieur": {
+			"j'": "eus recueilli",
+			"tu": "eus recueilli",
+			"il/elle": "eut recueilli",
+			"nous": "eûmes recueilli",
+			"vous": "eûtes recueilli",
+			"ils/elles": "eurent recueilli"
+		},
+		"futur antérieur": {
+			"j'": "aurai recueilli",
+			"tu": "auras recueilli",
+			"il/elle": "aura recueilli",
+			"nous": "aurons recueilli",
+			"vous": "aurez recueilli",
+			"ils/elles": "auront recueilli"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous recueilliez",
+			"qu'il/elle": "recueille",
+			"qu'ils/elles": "recueillent"
+		},
+		"imparfait": {
+			"que": "vous recueillissiez",
+			"qu'il/elle": "recueillît",
+			"qu'ils/elles": "recueillissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse recueilli",
+			"que": "vous eussiez recueilli",
+			"qu'il/elle": "eût recueilli",
+			"qu'ils/elles": "eussent recueilli"
+		},
+		"passé": {
+			"j'": "aie recueilli",
+			"que": "vous ayez recueilli",
+			"qu'il/elle": "ait recueilli",
+			"qu'ils/elles": "aient recueilli"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "recueillerais",
+			"tu": "recueillerais",
+			"il/elle": "recueillerait",
+			"nous": "recueillerions",
+			"vous": "recueilleriez",
+			"ils/elles": "recueilleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais recueilli",
+			"tu": "aurais recueilli",
+			"il/elle": "aurait recueilli",
+			"nous": "aurions recueilli",
+			"vous": "auriez recueilli",
+			"ils/elles": "auraient recueilli"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse recueilli",
+			"tu": "eusses recueilli",
+			"il/elle": "eût recueilli",
+			"nous": "eussions recueilli",
+			"vous": "eussiez recueilli",
+			"ils/elles": "eussent recueilli"
+		}
+	},
+	"participe": {
+		"présent": { "recueillant": "" },
+		"passé composé": { "ayant": "recueilli" },
+		"passé": {
+			"masc.sg.:": "recueilli",
+			"masc.pl.:": "recueillis",
+			"fém.sg.:": "recueillie",
+			"fém.pl.:": "recueillies"
+		}
+	},
+	"imperatif": {
+		"présent": { "recueille": "", "recueillons": "", "recueillez": "" },
+		"passé": { "aie": "recueilli", "ayons": "recueilli", "ayez": "recueilli" }
+	},
+	"infinitif": {
+		"présent": { "recueillir": "" },
+		"passé": { "avoir": "recueilli" }
+	}
+}

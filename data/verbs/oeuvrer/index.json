@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "work; strive; promote; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'oeuvrer/ne pas oeuvrer/ne pas s'oeuvrer",
+	"indicatif": {
+		"présent": {
+			"j'": "oeuvre",
+			"tu": "oeuvres",
+			"il/elle": "oeuvre",
+			"nous": "oeuvrons",
+			"vous": "oeuvrez",
+			"ils/elles": "oeuvrent"
+		},
+		"imparfait": {
+			"j'": "oeuvrais",
+			"tu": "oeuvrais",
+			"il/elle": "oeuvrait",
+			"nous": "oeuvrions",
+			"vous": "oeuvriez",
+			"ils/elles": "oeuvraient"
+		},
+		"futur": {
+			"j'": "oeuvrerai",
+			"tu": "oeuvreras",
+			"il/elle": "oeuvrera",
+			"nous": "oeuvrerons",
+			"vous": "oeuvrerez",
+			"ils/elles": "oeuvreront"
+		},
+		"passé simple": {
+			"j'": "oeuvrai",
+			"tu": "oeuvras",
+			"il/elle": "oeuvra",
+			"nous": "oeuvrâmes",
+			"vous": "oeuvrâtes",
+			"ils/elles": "oeuvrèrent"
+		},
+		"passé composé": {
+			"j'": "ai oeuvré",
+			"tu": "as oeuvré",
+			"il/elle": "a oeuvré",
+			"nous": "avons oeuvré",
+			"vous": "avez oeuvré",
+			"ils/elles": "ont oeuvré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais oeuvré",
+			"tu": "avais oeuvré",
+			"il/elle": "avait oeuvré",
+			"nous": "avions oeuvré",
+			"vous": "aviez oeuvré",
+			"ils/elles": "avaient oeuvré"
+		},
+		"passé antérieur": {
+			"j'": "eus oeuvré",
+			"tu": "eus oeuvré",
+			"il/elle": "eut oeuvré",
+			"nous": "eûmes oeuvré",
+			"vous": "eûtes oeuvré",
+			"ils/elles": "eurent oeuvré"
+		},
+		"futur antérieur": {
+			"j'": "aurai oeuvré",
+			"tu": "auras oeuvré",
+			"il/elle": "aura oeuvré",
+			"nous": "aurons oeuvré",
+			"vous": "aurez oeuvré",
+			"ils/elles": "auront oeuvré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "oeuvre",
+			"que": "vous oeuvriez",
+			"qu'il/elle": "oeuvre",
+			"qu'ils/elles": "oeuvrent"
+		},
+		"imparfait": {
+			"j'": "oeuvrasse",
+			"que": "vous oeuvrassiez",
+			"qu'il/elle": "oeuvrât",
+			"qu'ils/elles": "oeuvrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse oeuvré",
+			"que": "vous eussiez oeuvré",
+			"qu'il/elle": "eût oeuvré",
+			"qu'ils/elles": "eussent oeuvré"
+		},
+		"passé": {
+			"j'": "aie oeuvré",
+			"que": "vous ayez oeuvré",
+			"qu'il/elle": "ait oeuvré",
+			"qu'ils/elles": "aient oeuvré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "oeuvrerais",
+			"tu": "oeuvrerais",
+			"il/elle": "oeuvrerait",
+			"nous": "oeuvrerions",
+			"vous": "oeuvreriez",
+			"ils/elles": "oeuvreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais oeuvré",
+			"tu": "aurais oeuvré",
+			"il/elle": "aurait oeuvré",
+			"nous": "aurions oeuvré",
+			"vous": "auriez oeuvré",
+			"ils/elles": "auraient oeuvré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse oeuvré",
+			"tu": "eusses oeuvré",
+			"il/elle": "eût oeuvré",
+			"nous": "eussions oeuvré",
+			"vous": "eussiez oeuvré",
+			"ils/elles": "eussent oeuvré"
+		}
+	},
+	"participe": {
+		"présent": { "oeuvrant": "" },
+		"passé composé": { "ayant": "oeuvré" },
+		"passé": {
+			"masc.sg.:": "oeuvré",
+			"masc.pl.:": "oeuvrés",
+			"fém.sg.:": "oeuvrée",
+			"fém.pl.:": "oeuvrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "oeuvre": "", "oeuvrons": "", "oeuvrez": "" },
+		"passé": { "aie": "oeuvré", "ayons": "oeuvré", "ayez": "oeuvré" }
+	},
+	"infinitif": { "présent": { "oeuvrer": "" }, "passé": { "avoir": "oeuvré" } }
+}

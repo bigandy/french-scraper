@@ -1,0 +1,140 @@
+{
+	"name": "promener",
+	"definition": "take; bring; drive; ...",
+	"model": "promener",
+	"auxiliary": "avoir",
+	"otherForms": "s'emmener/ne pas emmener/ne pas s'emmener",
+	"indicatif": {
+		"présent": {
+			"j'": "emmène",
+			"tu": "emmènes",
+			"il/elle": "emmène",
+			"nous": "emmenons",
+			"vous": "emmenez",
+			"ils/elles": "emmènent"
+		},
+		"imparfait": {
+			"j'": "emmenais",
+			"tu": "emmenais",
+			"il/elle": "emmenait",
+			"nous": "emmenions",
+			"vous": "emmeniez",
+			"ils/elles": "emmenaient"
+		},
+		"futur": {
+			"j'": "emmènerai",
+			"tu": "emmèneras",
+			"il/elle": "emmènera",
+			"nous": "emmènerons",
+			"vous": "emmènerez",
+			"ils/elles": "emmèneront"
+		},
+		"passé simple": {
+			"j'": "emmenai",
+			"tu": "emmenas",
+			"il/elle": "emmena",
+			"nous": "emmenâmes",
+			"vous": "emmenâtes",
+			"ils/elles": "emmenèrent"
+		},
+		"passé composé": {
+			"j'": "ai emmené",
+			"tu": "as emmené",
+			"il/elle": "a emmené",
+			"nous": "avons emmené",
+			"vous": "avez emmené",
+			"ils/elles": "ont emmené"
+		},
+		"plus-que-parfait": {
+			"j'": "avais emmené",
+			"tu": "avais emmené",
+			"il/elle": "avait emmené",
+			"nous": "avions emmené",
+			"vous": "aviez emmené",
+			"ils/elles": "avaient emmené"
+		},
+		"passé antérieur": {
+			"j'": "eus emmené",
+			"tu": "eus emmené",
+			"il/elle": "eut emmené",
+			"nous": "eûmes emmené",
+			"vous": "eûtes emmené",
+			"ils/elles": "eurent emmené"
+		},
+		"futur antérieur": {
+			"j'": "aurai emmené",
+			"tu": "auras emmené",
+			"il/elle": "aura emmené",
+			"nous": "aurons emmené",
+			"vous": "aurez emmené",
+			"ils/elles": "auront emmené"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "emmène",
+			"que": "vous emmeniez",
+			"qu'il/elle": "emmène",
+			"qu'ils/elles": "emmènent"
+		},
+		"imparfait": {
+			"j'": "emmenasse",
+			"que": "vous emmenassiez",
+			"qu'il/elle": "emmenât",
+			"qu'ils/elles": "emmenassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse emmené",
+			"que": "vous eussiez emmené",
+			"qu'il/elle": "eût emmené",
+			"qu'ils/elles": "eussent emmené"
+		},
+		"passé": {
+			"j'": "aie emmené",
+			"que": "vous ayez emmené",
+			"qu'il/elle": "ait emmené",
+			"qu'ils/elles": "aient emmené"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "emmènerais",
+			"tu": "emmènerais",
+			"il/elle": "emmènerait",
+			"nous": "emmènerions",
+			"vous": "emmèneriez",
+			"ils/elles": "emmèneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais emmené",
+			"tu": "aurais emmené",
+			"il/elle": "aurait emmené",
+			"nous": "aurions emmené",
+			"vous": "auriez emmené",
+			"ils/elles": "auraient emmené"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse emmené",
+			"tu": "eusses emmené",
+			"il/elle": "eût emmené",
+			"nous": "eussions emmené",
+			"vous": "eussiez emmené",
+			"ils/elles": "eussent emmené"
+		}
+	},
+	"participe": {
+		"présent": { "emmenant": "" },
+		"passé composé": { "ayant": "emmené" },
+		"passé": {
+			"masc.sg.:": "emmené",
+			"masc.pl.:": "emmenés",
+			"fém.sg.:": "emmenée",
+			"fém.pl.:": "emmenées"
+		}
+	},
+	"imperatif": {
+		"présent": { "emmène": "", "emmenons": "", "emmenez": "" },
+		"passé": { "aie": "emmené", "ayons": "emmené", "ayez": "emmené" }
+	},
+	"infinitif": { "présent": { "emmener": "" }, "passé": { "avoir": "emmené" } }
+}

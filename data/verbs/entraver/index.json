@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "hinder; impede; hamper; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'entraver/ne pas entraver/ne pas s'entraver",
+	"indicatif": {
+		"présent": {
+			"j'": "entrave",
+			"tu": "entraves",
+			"il/elle": "entrave",
+			"nous": "entravons",
+			"vous": "entravez",
+			"ils/elles": "entravent"
+		},
+		"imparfait": {
+			"j'": "entravais",
+			"tu": "entravais",
+			"il/elle": "entravait",
+			"nous": "entravions",
+			"vous": "entraviez",
+			"ils/elles": "entravaient"
+		},
+		"futur": {
+			"j'": "entraverai",
+			"tu": "entraveras",
+			"il/elle": "entravera",
+			"nous": "entraverons",
+			"vous": "entraverez",
+			"ils/elles": "entraveront"
+		},
+		"passé simple": {
+			"j'": "entravai",
+			"tu": "entravas",
+			"il/elle": "entrava",
+			"nous": "entravâmes",
+			"vous": "entravâtes",
+			"ils/elles": "entravèrent"
+		},
+		"passé composé": {
+			"j'": "ai entravé",
+			"tu": "as entravé",
+			"il/elle": "a entravé",
+			"nous": "avons entravé",
+			"vous": "avez entravé",
+			"ils/elles": "ont entravé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais entravé",
+			"tu": "avais entravé",
+			"il/elle": "avait entravé",
+			"nous": "avions entravé",
+			"vous": "aviez entravé",
+			"ils/elles": "avaient entravé"
+		},
+		"passé antérieur": {
+			"j'": "eus entravé",
+			"tu": "eus entravé",
+			"il/elle": "eut entravé",
+			"nous": "eûmes entravé",
+			"vous": "eûtes entravé",
+			"ils/elles": "eurent entravé"
+		},
+		"futur antérieur": {
+			"j'": "aurai entravé",
+			"tu": "auras entravé",
+			"il/elle": "aura entravé",
+			"nous": "aurons entravé",
+			"vous": "aurez entravé",
+			"ils/elles": "auront entravé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "entrave",
+			"que": "vous entraviez",
+			"qu'il/elle": "entrave",
+			"qu'ils/elles": "entravent"
+		},
+		"imparfait": {
+			"j'": "entravasse",
+			"que": "vous entravassiez",
+			"qu'il/elle": "entravât",
+			"qu'ils/elles": "entravassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse entravé",
+			"que": "vous eussiez entravé",
+			"qu'il/elle": "eût entravé",
+			"qu'ils/elles": "eussent entravé"
+		},
+		"passé": {
+			"j'": "aie entravé",
+			"que": "vous ayez entravé",
+			"qu'il/elle": "ait entravé",
+			"qu'ils/elles": "aient entravé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "entraverais",
+			"tu": "entraverais",
+			"il/elle": "entraverait",
+			"nous": "entraverions",
+			"vous": "entraveriez",
+			"ils/elles": "entraveraient"
+		},
+		"passé première forme": {
+			"j'": "aurais entravé",
+			"tu": "aurais entravé",
+			"il/elle": "aurait entravé",
+			"nous": "aurions entravé",
+			"vous": "auriez entravé",
+			"ils/elles": "auraient entravé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse entravé",
+			"tu": "eusses entravé",
+			"il/elle": "eût entravé",
+			"nous": "eussions entravé",
+			"vous": "eussiez entravé",
+			"ils/elles": "eussent entravé"
+		}
+	},
+	"participe": {
+		"présent": { "entravant": "" },
+		"passé composé": { "ayant": "entravé" },
+		"passé": {
+			"masc.sg.:": "entravé",
+			"masc.pl.:": "entravés",
+			"fém.sg.:": "entravée",
+			"fém.pl.:": "entravées"
+		}
+	},
+	"imperatif": {
+		"présent": { "entrave": "", "entravons": "", "entravez": "" },
+		"passé": { "aie": "entravé", "ayons": "entravé", "ayez": "entravé" }
+	},
+	"infinitif": {
+		"présent": { "entraver": "" },
+		"passé": { "avoir": "entravé" }
+	}
+}

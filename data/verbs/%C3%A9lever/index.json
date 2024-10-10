@@ -1,0 +1,140 @@
+{
+	"name": "lever",
+	"definition": "raise; rise; elevate; ...",
+	"model": "lever",
+	"auxiliary": "avoir",
+	"otherForms": "s'élever/ne pas élever/ne pas s'élever",
+	"indicatif": {
+		"présent": {
+			"j'": "élève",
+			"tu": "élèves",
+			"il/elle": "élève",
+			"nous": "élevons",
+			"vous": "élevez",
+			"ils/elles": "élèvent"
+		},
+		"imparfait": {
+			"j'": "élevais",
+			"tu": "élevais",
+			"il/elle": "élevait",
+			"nous": "élevions",
+			"vous": "éleviez",
+			"ils/elles": "élevaient"
+		},
+		"futur": {
+			"j'": "élèverai",
+			"tu": "élèveras",
+			"il/elle": "élèvera",
+			"nous": "élèverons",
+			"vous": "élèverez",
+			"ils/elles": "élèveront"
+		},
+		"passé simple": {
+			"j'": "élevai",
+			"tu": "élevas",
+			"il/elle": "éleva",
+			"nous": "élevâmes",
+			"vous": "élevâtes",
+			"ils/elles": "élevèrent"
+		},
+		"passé composé": {
+			"j'": "ai élevé",
+			"tu": "as élevé",
+			"il/elle": "a élevé",
+			"nous": "avons élevé",
+			"vous": "avez élevé",
+			"ils/elles": "ont élevé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais élevé",
+			"tu": "avais élevé",
+			"il/elle": "avait élevé",
+			"nous": "avions élevé",
+			"vous": "aviez élevé",
+			"ils/elles": "avaient élevé"
+		},
+		"passé antérieur": {
+			"j'": "eus élevé",
+			"tu": "eus élevé",
+			"il/elle": "eut élevé",
+			"nous": "eûmes élevé",
+			"vous": "eûtes élevé",
+			"ils/elles": "eurent élevé"
+		},
+		"futur antérieur": {
+			"j'": "aurai élevé",
+			"tu": "auras élevé",
+			"il/elle": "aura élevé",
+			"nous": "aurons élevé",
+			"vous": "aurez élevé",
+			"ils/elles": "auront élevé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "élève",
+			"que": "vous éleviez",
+			"qu'il/elle": "élève",
+			"qu'ils/elles": "élèvent"
+		},
+		"imparfait": {
+			"j'": "élevasse",
+			"que": "vous élevassiez",
+			"qu'il/elle": "élevât",
+			"qu'ils/elles": "élevassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse élevé",
+			"que": "vous eussiez élevé",
+			"qu'il/elle": "eût élevé",
+			"qu'ils/elles": "eussent élevé"
+		},
+		"passé": {
+			"j'": "aie élevé",
+			"que": "vous ayez élevé",
+			"qu'il/elle": "ait élevé",
+			"qu'ils/elles": "aient élevé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "élèverais",
+			"tu": "élèverais",
+			"il/elle": "élèverait",
+			"nous": "élèverions",
+			"vous": "élèveriez",
+			"ils/elles": "élèveraient"
+		},
+		"passé première forme": {
+			"j'": "aurais élevé",
+			"tu": "aurais élevé",
+			"il/elle": "aurait élevé",
+			"nous": "aurions élevé",
+			"vous": "auriez élevé",
+			"ils/elles": "auraient élevé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse élevé",
+			"tu": "eusses élevé",
+			"il/elle": "eût élevé",
+			"nous": "eussions élevé",
+			"vous": "eussiez élevé",
+			"ils/elles": "eussent élevé"
+		}
+	},
+	"participe": {
+		"présent": { "élevant": "" },
+		"passé composé": { "ayant": "élevé" },
+		"passé": {
+			"masc.sg.:": "élevé",
+			"masc.pl.:": "élevés",
+			"fém.sg.:": "élevée",
+			"fém.pl.:": "élevées"
+		}
+	},
+	"imperatif": {
+		"présent": { "élève": "", "élevons": "", "élevez": "" },
+		"passé": { "aie": "élevé", "ayons": "élevé", "ayez": "élevé" }
+	},
+	"infinitif": { "présent": { "élever": "" }, "passé": { "avoir": "élevé" } }
+}

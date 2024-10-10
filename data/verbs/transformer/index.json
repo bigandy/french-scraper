@@ -1,0 +1,145 @@
+{
+	"name": "marcher",
+	"definition": "transform; turn into; convert; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se transformer/ne pas transformer/ne pas se transformer",
+	"indicatif": {
+		"présent": {
+			"je": "transforme",
+			"tu": "transformes",
+			"il/elle": "transforme",
+			"nous": "transformons",
+			"vous": "transformez",
+			"ils/elles": "transforment"
+		},
+		"imparfait": {
+			"je": "transformais",
+			"tu": "transformais",
+			"il/elle": "transformait",
+			"nous": "transformions",
+			"vous": "transformiez",
+			"ils/elles": "transformaient"
+		},
+		"futur": {
+			"je": "transformerai",
+			"tu": "transformeras",
+			"il/elle": "transformera",
+			"nous": "transformerons",
+			"vous": "transformerez",
+			"ils/elles": "transformeront"
+		},
+		"passé simple": {
+			"je": "transformai",
+			"tu": "transformas",
+			"il/elle": "transforma",
+			"nous": "transformâmes",
+			"vous": "transformâtes",
+			"ils/elles": "transformèrent"
+		},
+		"passé composé": {
+			"j'": "ai transformé",
+			"tu": "as transformé",
+			"il/elle": "a transformé",
+			"nous": "avons transformé",
+			"vous": "avez transformé",
+			"ils/elles": "ont transformé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais transformé",
+			"tu": "avais transformé",
+			"il/elle": "avait transformé",
+			"nous": "avions transformé",
+			"vous": "aviez transformé",
+			"ils/elles": "avaient transformé"
+		},
+		"passé antérieur": {
+			"j'": "eus transformé",
+			"tu": "eus transformé",
+			"il/elle": "eut transformé",
+			"nous": "eûmes transformé",
+			"vous": "eûtes transformé",
+			"ils/elles": "eurent transformé"
+		},
+		"futur antérieur": {
+			"j'": "aurai transformé",
+			"tu": "auras transformé",
+			"il/elle": "aura transformé",
+			"nous": "aurons transformé",
+			"vous": "aurez transformé",
+			"ils/elles": "auront transformé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous transformiez",
+			"qu'il/elle": "transforme",
+			"qu'ils/elles": "transforment"
+		},
+		"imparfait": {
+			"que": "vous transformassiez",
+			"qu'il/elle": "transformât",
+			"qu'ils/elles": "transformassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse transformé",
+			"que": "vous eussiez transformé",
+			"qu'il/elle": "eût transformé",
+			"qu'ils/elles": "eussent transformé"
+		},
+		"passé": {
+			"j'": "aie transformé",
+			"que": "vous ayez transformé",
+			"qu'il/elle": "ait transformé",
+			"qu'ils/elles": "aient transformé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "transformerais",
+			"tu": "transformerais",
+			"il/elle": "transformerait",
+			"nous": "transformerions",
+			"vous": "transformeriez",
+			"ils/elles": "transformeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais transformé",
+			"tu": "aurais transformé",
+			"il/elle": "aurait transformé",
+			"nous": "aurions transformé",
+			"vous": "auriez transformé",
+			"ils/elles": "auraient transformé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse transformé",
+			"tu": "eusses transformé",
+			"il/elle": "eût transformé",
+			"nous": "eussions transformé",
+			"vous": "eussiez transformé",
+			"ils/elles": "eussent transformé"
+		}
+	},
+	"participe": {
+		"présent": { "transformant": "" },
+		"passé composé": { "ayant": "transformé" },
+		"passé": {
+			"masc.sg.:": "transformé",
+			"masc.pl.:": "transformés",
+			"fém.sg.:": "transformée",
+			"fém.pl.:": "transformées"
+		}
+	},
+	"imperatif": {
+		"présent": { "transforme": "", "transformons": "", "transformez": "" },
+		"passé": {
+			"aie": "transformé",
+			"ayons": "transformé",
+			"ayez": "transformé"
+		}
+	},
+	"infinitif": {
+		"présent": { "transformer": "" },
+		"passé": { "avoir": "transformé" }
+	}
+}

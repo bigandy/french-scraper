@@ -1,0 +1,140 @@
+{
+	"name": "promener",
+	"definition": "bring; cause; ...",
+	"model": "promener",
+	"auxiliary": "avoir",
+	"otherForms": "s'amener/ne pas amener/ne pas s'amener",
+	"indicatif": {
+		"présent": {
+			"j'": "amène",
+			"tu": "amènes",
+			"il/elle": "amène",
+			"nous": "amenons",
+			"vous": "amenez",
+			"ils/elles": "amènent"
+		},
+		"imparfait": {
+			"j'": "amenais",
+			"tu": "amenais",
+			"il/elle": "amenait",
+			"nous": "amenions",
+			"vous": "ameniez",
+			"ils/elles": "amenaient"
+		},
+		"futur": {
+			"j'": "amènerai",
+			"tu": "amèneras",
+			"il/elle": "amènera",
+			"nous": "amènerons",
+			"vous": "amènerez",
+			"ils/elles": "amèneront"
+		},
+		"passé simple": {
+			"j'": "amenai",
+			"tu": "amenas",
+			"il/elle": "amena",
+			"nous": "amenâmes",
+			"vous": "amenâtes",
+			"ils/elles": "amenèrent"
+		},
+		"passé composé": {
+			"j'": "ai amené",
+			"tu": "as amené",
+			"il/elle": "a amené",
+			"nous": "avons amené",
+			"vous": "avez amené",
+			"ils/elles": "ont amené"
+		},
+		"plus-que-parfait": {
+			"j'": "avais amené",
+			"tu": "avais amené",
+			"il/elle": "avait amené",
+			"nous": "avions amené",
+			"vous": "aviez amené",
+			"ils/elles": "avaient amené"
+		},
+		"passé antérieur": {
+			"j'": "eus amené",
+			"tu": "eus amené",
+			"il/elle": "eut amené",
+			"nous": "eûmes amené",
+			"vous": "eûtes amené",
+			"ils/elles": "eurent amené"
+		},
+		"futur antérieur": {
+			"j'": "aurai amené",
+			"tu": "auras amené",
+			"il/elle": "aura amené",
+			"nous": "aurons amené",
+			"vous": "aurez amené",
+			"ils/elles": "auront amené"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "amène",
+			"que": "vous ameniez",
+			"qu'il/elle": "amène",
+			"qu'ils/elles": "amènent"
+		},
+		"imparfait": {
+			"j'": "amenasse",
+			"que": "vous amenassiez",
+			"qu'il/elle": "amenât",
+			"qu'ils/elles": "amenassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse amené",
+			"que": "vous eussiez amené",
+			"qu'il/elle": "eût amené",
+			"qu'ils/elles": "eussent amené"
+		},
+		"passé": {
+			"j'": "aie amené",
+			"que": "vous ayez amené",
+			"qu'il/elle": "ait amené",
+			"qu'ils/elles": "aient amené"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "amènerais",
+			"tu": "amènerais",
+			"il/elle": "amènerait",
+			"nous": "amènerions",
+			"vous": "amèneriez",
+			"ils/elles": "amèneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais amené",
+			"tu": "aurais amené",
+			"il/elle": "aurait amené",
+			"nous": "aurions amené",
+			"vous": "auriez amené",
+			"ils/elles": "auraient amené"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse amené",
+			"tu": "eusses amené",
+			"il/elle": "eût amené",
+			"nous": "eussions amené",
+			"vous": "eussiez amené",
+			"ils/elles": "eussent amené"
+		}
+	},
+	"participe": {
+		"présent": { "amenant": "" },
+		"passé composé": { "ayant": "amené" },
+		"passé": {
+			"masc.sg.:": "amené",
+			"masc.pl.:": "amenés",
+			"fém.sg.:": "amenée",
+			"fém.pl.:": "amenées"
+		}
+	},
+	"imperatif": {
+		"présent": { "amène": "", "amenons": "", "amenez": "" },
+		"passé": { "aie": "amené", "ayons": "amené", "ayez": "amené" }
+	},
+	"infinitif": { "présent": { "amener": "" }, "passé": { "avoir": "amené" } }
+}

@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "value; enhance; promote; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se valoriser/ne pas valoriser/ne pas se valoriser",
+	"indicatif": {
+		"présent": {
+			"je": "valorise",
+			"tu": "valorises",
+			"il/elle": "valorise",
+			"nous": "valorisons",
+			"vous": "valorisez",
+			"ils/elles": "valorisent"
+		},
+		"imparfait": {
+			"je": "valorisais",
+			"tu": "valorisais",
+			"il/elle": "valorisait",
+			"nous": "valorisions",
+			"vous": "valorisiez",
+			"ils/elles": "valorisaient"
+		},
+		"futur": {
+			"je": "valoriserai",
+			"tu": "valoriseras",
+			"il/elle": "valorisera",
+			"nous": "valoriserons",
+			"vous": "valoriserez",
+			"ils/elles": "valoriseront"
+		},
+		"passé simple": {
+			"je": "valorisai",
+			"tu": "valorisas",
+			"il/elle": "valorisa",
+			"nous": "valorisâmes",
+			"vous": "valorisâtes",
+			"ils/elles": "valorisèrent"
+		},
+		"passé composé": {
+			"j'": "ai valorisé",
+			"tu": "as valorisé",
+			"il/elle": "a valorisé",
+			"nous": "avons valorisé",
+			"vous": "avez valorisé",
+			"ils/elles": "ont valorisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais valorisé",
+			"tu": "avais valorisé",
+			"il/elle": "avait valorisé",
+			"nous": "avions valorisé",
+			"vous": "aviez valorisé",
+			"ils/elles": "avaient valorisé"
+		},
+		"passé antérieur": {
+			"j'": "eus valorisé",
+			"tu": "eus valorisé",
+			"il/elle": "eut valorisé",
+			"nous": "eûmes valorisé",
+			"vous": "eûtes valorisé",
+			"ils/elles": "eurent valorisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai valorisé",
+			"tu": "auras valorisé",
+			"il/elle": "aura valorisé",
+			"nous": "aurons valorisé",
+			"vous": "aurez valorisé",
+			"ils/elles": "auront valorisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous valorisiez",
+			"qu'il/elle": "valorise",
+			"qu'ils/elles": "valorisent"
+		},
+		"imparfait": {
+			"que": "vous valorisassiez",
+			"qu'il/elle": "valorisât",
+			"qu'ils/elles": "valorisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse valorisé",
+			"que": "vous eussiez valorisé",
+			"qu'il/elle": "eût valorisé",
+			"qu'ils/elles": "eussent valorisé"
+		},
+		"passé": {
+			"j'": "aie valorisé",
+			"que": "vous ayez valorisé",
+			"qu'il/elle": "ait valorisé",
+			"qu'ils/elles": "aient valorisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "valoriserais",
+			"tu": "valoriserais",
+			"il/elle": "valoriserait",
+			"nous": "valoriserions",
+			"vous": "valoriseriez",
+			"ils/elles": "valoriseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais valorisé",
+			"tu": "aurais valorisé",
+			"il/elle": "aurait valorisé",
+			"nous": "aurions valorisé",
+			"vous": "auriez valorisé",
+			"ils/elles": "auraient valorisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse valorisé",
+			"tu": "eusses valorisé",
+			"il/elle": "eût valorisé",
+			"nous": "eussions valorisé",
+			"vous": "eussiez valorisé",
+			"ils/elles": "eussent valorisé"
+		}
+	},
+	"participe": {
+		"présent": { "valorisant": "" },
+		"passé composé": { "ayant": "valorisé" },
+		"passé": {
+			"masc.sg.:": "valorisé",
+			"masc.pl.:": "valorisés",
+			"fém.sg.:": "valorisée",
+			"fém.pl.:": "valorisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "valorise": "", "valorisons": "", "valorisez": "" },
+		"passé": { "aie": "valorisé", "ayons": "valorisé", "ayez": "valorisé" }
+	},
+	"infinitif": {
+		"présent": { "valoriser": "" },
+		"passé": { "avoir": "valorisé" }
+	}
+}

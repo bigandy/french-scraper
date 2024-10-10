@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "cook; bake; prepare; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se cuisiner/ne pas cuisiner/ne pas se cuisiner",
+	"indicatif": {
+		"présent": {
+			"je": "cuisine",
+			"tu": "cuisines",
+			"il/elle": "cuisine",
+			"nous": "cuisinons",
+			"vous": "cuisinez",
+			"ils/elles": "cuisinent"
+		},
+		"imparfait": {
+			"je": "cuisinais",
+			"tu": "cuisinais",
+			"il/elle": "cuisinait",
+			"nous": "cuisinions",
+			"vous": "cuisiniez",
+			"ils/elles": "cuisinaient"
+		},
+		"futur": {
+			"je": "cuisinerai",
+			"tu": "cuisineras",
+			"il/elle": "cuisinera",
+			"nous": "cuisinerons",
+			"vous": "cuisinerez",
+			"ils/elles": "cuisineront"
+		},
+		"passé simple": {
+			"je": "cuisinai",
+			"tu": "cuisinas",
+			"il/elle": "cuisina",
+			"nous": "cuisinâmes",
+			"vous": "cuisinâtes",
+			"ils/elles": "cuisinèrent"
+		},
+		"passé composé": {
+			"j'": "ai cuisiné",
+			"tu": "as cuisiné",
+			"il/elle": "a cuisiné",
+			"nous": "avons cuisiné",
+			"vous": "avez cuisiné",
+			"ils/elles": "ont cuisiné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais cuisiné",
+			"tu": "avais cuisiné",
+			"il/elle": "avait cuisiné",
+			"nous": "avions cuisiné",
+			"vous": "aviez cuisiné",
+			"ils/elles": "avaient cuisiné"
+		},
+		"passé antérieur": {
+			"j'": "eus cuisiné",
+			"tu": "eus cuisiné",
+			"il/elle": "eut cuisiné",
+			"nous": "eûmes cuisiné",
+			"vous": "eûtes cuisiné",
+			"ils/elles": "eurent cuisiné"
+		},
+		"futur antérieur": {
+			"j'": "aurai cuisiné",
+			"tu": "auras cuisiné",
+			"il/elle": "aura cuisiné",
+			"nous": "aurons cuisiné",
+			"vous": "aurez cuisiné",
+			"ils/elles": "auront cuisiné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous cuisiniez",
+			"qu'il/elle": "cuisine",
+			"qu'ils/elles": "cuisinent"
+		},
+		"imparfait": {
+			"que": "vous cuisinassiez",
+			"qu'il/elle": "cuisinât",
+			"qu'ils/elles": "cuisinassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse cuisiné",
+			"que": "vous eussiez cuisiné",
+			"qu'il/elle": "eût cuisiné",
+			"qu'ils/elles": "eussent cuisiné"
+		},
+		"passé": {
+			"j'": "aie cuisiné",
+			"que": "vous ayez cuisiné",
+			"qu'il/elle": "ait cuisiné",
+			"qu'ils/elles": "aient cuisiné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "cuisinerais",
+			"tu": "cuisinerais",
+			"il/elle": "cuisinerait",
+			"nous": "cuisinerions",
+			"vous": "cuisineriez",
+			"ils/elles": "cuisineraient"
+		},
+		"passé première forme": {
+			"j'": "aurais cuisiné",
+			"tu": "aurais cuisiné",
+			"il/elle": "aurait cuisiné",
+			"nous": "aurions cuisiné",
+			"vous": "auriez cuisiné",
+			"ils/elles": "auraient cuisiné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse cuisiné",
+			"tu": "eusses cuisiné",
+			"il/elle": "eût cuisiné",
+			"nous": "eussions cuisiné",
+			"vous": "eussiez cuisiné",
+			"ils/elles": "eussent cuisiné"
+		}
+	},
+	"participe": {
+		"présent": { "cuisinant": "" },
+		"passé composé": { "ayant": "cuisiné" },
+		"passé": {
+			"masc.sg.:": "cuisiné",
+			"masc.pl.:": "cuisinés",
+			"fém.sg.:": "cuisinée",
+			"fém.pl.:": "cuisinées"
+		}
+	},
+	"imperatif": {
+		"présent": { "cuisine": "", "cuisinons": "", "cuisinez": "" },
+		"passé": { "aie": "cuisiné", "ayons": "cuisiné", "ayez": "cuisiné" }
+	},
+	"infinitif": {
+		"présent": { "cuisiner": "" },
+		"passé": { "avoir": "cuisiné" }
+	}
+}

@@ -1,0 +1,138 @@
+{
+	"name": "promener",
+	"definition": "",
+	"model": "promener",
+	"auxiliary": "avoir",
+	"otherForms": "se remener/ne pas remener/ne pas se remener",
+	"indicatif": {
+		"présent": {
+			"je": "remène",
+			"tu": "remènes",
+			"il/elle": "remène",
+			"nous": "remenons",
+			"vous": "remenez",
+			"ils/elles": "remènent"
+		},
+		"imparfait": {
+			"je": "remenais",
+			"tu": "remenais",
+			"il/elle": "remenait",
+			"nous": "remenions",
+			"vous": "remeniez",
+			"ils/elles": "remenaient"
+		},
+		"futur": {
+			"je": "remènerai",
+			"tu": "remèneras",
+			"il/elle": "remènera",
+			"nous": "remènerons",
+			"vous": "remènerez",
+			"ils/elles": "remèneront"
+		},
+		"passé simple": {
+			"je": "remenai",
+			"tu": "remenas",
+			"il/elle": "remena",
+			"nous": "remenâmes",
+			"vous": "remenâtes",
+			"ils/elles": "remenèrent"
+		},
+		"passé composé": {
+			"j'": "ai remené",
+			"tu": "as remené",
+			"il/elle": "a remené",
+			"nous": "avons remené",
+			"vous": "avez remené",
+			"ils/elles": "ont remené"
+		},
+		"plus-que-parfait": {
+			"j'": "avais remené",
+			"tu": "avais remené",
+			"il/elle": "avait remené",
+			"nous": "avions remené",
+			"vous": "aviez remené",
+			"ils/elles": "avaient remené"
+		},
+		"passé antérieur": {
+			"j'": "eus remené",
+			"tu": "eus remené",
+			"il/elle": "eut remené",
+			"nous": "eûmes remené",
+			"vous": "eûtes remené",
+			"ils/elles": "eurent remené"
+		},
+		"futur antérieur": {
+			"j'": "aurai remené",
+			"tu": "auras remené",
+			"il/elle": "aura remené",
+			"nous": "aurons remené",
+			"vous": "aurez remené",
+			"ils/elles": "auront remené"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous remeniez",
+			"qu'il/elle": "remène",
+			"qu'ils/elles": "remènent"
+		},
+		"imparfait": {
+			"que": "vous remenassiez",
+			"qu'il/elle": "remenât",
+			"qu'ils/elles": "remenassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse remené",
+			"que": "vous eussiez remené",
+			"qu'il/elle": "eût remené",
+			"qu'ils/elles": "eussent remené"
+		},
+		"passé": {
+			"j'": "aie remené",
+			"que": "vous ayez remené",
+			"qu'il/elle": "ait remené",
+			"qu'ils/elles": "aient remené"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "remènerais",
+			"tu": "remènerais",
+			"il/elle": "remènerait",
+			"nous": "remènerions",
+			"vous": "remèneriez",
+			"ils/elles": "remèneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais remené",
+			"tu": "aurais remené",
+			"il/elle": "aurait remené",
+			"nous": "aurions remené",
+			"vous": "auriez remené",
+			"ils/elles": "auraient remené"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse remené",
+			"tu": "eusses remené",
+			"il/elle": "eût remené",
+			"nous": "eussions remené",
+			"vous": "eussiez remené",
+			"ils/elles": "eussent remené"
+		}
+	},
+	"participe": {
+		"présent": { "remenant": "" },
+		"passé composé": { "ayant": "remené" },
+		"passé": {
+			"masc.sg.:": "remené",
+			"masc.pl.:": "remenés",
+			"fém.sg.:": "remenée",
+			"fém.pl.:": "remenées"
+		}
+	},
+	"imperatif": {
+		"présent": { "remène": "", "remenons": "", "remenez": "" },
+		"passé": { "aie": "remené", "ayons": "remené", "ayez": "remené" }
+	},
+	"infinitif": { "présent": { "remener": "" }, "passé": { "avoir": "remené" } }
+}

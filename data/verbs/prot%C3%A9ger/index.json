@@ -1,0 +1,141 @@
+{
+	"name": "protéger",
+	"definition": "protect; safeguard; shield; ...",
+	"model": "protéger",
+	"auxiliary": "avoir",
+	"otherForms": "se protéger/ne pas protéger/ne pas se protéger",
+	"indicatif": {
+		"présent": {
+			"je": "protège",
+			"tu": "protèges",
+			"il/elle": "protège",
+			"nous": "protégeons",
+			"vous": "protégez",
+			"ils/elles": "protègent"
+		},
+		"imparfait": {
+			"je": "protégeais",
+			"tu": "protégeais",
+			"il/elle": "protégeait",
+			"nous": "protégions",
+			"vous": "protégiez",
+			"ils/elles": "protégeaient"
+		},
+		"futur": {
+			"je": "protégerai",
+			"tu": "protégeras",
+			"il/elle": "protégera",
+			"nous": "protégerons",
+			"vous": "protégerez",
+			"ils/elles": "protégeront"
+		},
+		"passé simple": {
+			"je": "protégeai",
+			"tu": "protégeas",
+			"il/elle": "protégea",
+			"nous": "protégeâmes",
+			"vous": "protégeâtes",
+			"ils/elles": "protégèrent"
+		},
+		"passé composé": {
+			"j'": "ai protégé",
+			"tu": "as protégé",
+			"il/elle": "a protégé",
+			"nous": "avons protégé",
+			"vous": "avez protégé",
+			"ils/elles": "ont protégé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais protégé",
+			"tu": "avais protégé",
+			"il/elle": "avait protégé",
+			"nous": "avions protégé",
+			"vous": "aviez protégé",
+			"ils/elles": "avaient protégé"
+		},
+		"passé antérieur": {
+			"j'": "eus protégé",
+			"tu": "eus protégé",
+			"il/elle": "eut protégé",
+			"nous": "eûmes protégé",
+			"vous": "eûtes protégé",
+			"ils/elles": "eurent protégé"
+		},
+		"futur antérieur": {
+			"j'": "aurai protégé",
+			"tu": "auras protégé",
+			"il/elle": "aura protégé",
+			"nous": "aurons protégé",
+			"vous": "aurez protégé",
+			"ils/elles": "auront protégé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous protégiez",
+			"qu'il/elle": "protège",
+			"qu'ils/elles": "protègent"
+		},
+		"imparfait": {
+			"que": "vous protégeassiez",
+			"qu'il/elle": "protégeât",
+			"qu'ils/elles": "protégeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse protégé",
+			"que": "vous eussiez protégé",
+			"qu'il/elle": "eût protégé",
+			"qu'ils/elles": "eussent protégé"
+		},
+		"passé": {
+			"j'": "aie protégé",
+			"que": "vous ayez protégé",
+			"qu'il/elle": "ait protégé",
+			"qu'ils/elles": "aient protégé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "protégerais",
+			"tu": "protégerais",
+			"il/elle": "protégerait",
+			"nous": "protégerions",
+			"vous": "protégeriez",
+			"ils/elles": "protégeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais protégé",
+			"tu": "aurais protégé",
+			"il/elle": "aurait protégé",
+			"nous": "aurions protégé",
+			"vous": "auriez protégé",
+			"ils/elles": "auraient protégé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse protégé",
+			"tu": "eusses protégé",
+			"il/elle": "eût protégé",
+			"nous": "eussions protégé",
+			"vous": "eussiez protégé",
+			"ils/elles": "eussent protégé"
+		}
+	},
+	"participe": {
+		"présent": { "protégeant": "" },
+		"passé composé": { "ayant": "protégé" },
+		"passé": {
+			"masc.sg.:": "protégé",
+			"masc.pl.:": "protégés",
+			"fém.sg.:": "protégée",
+			"fém.pl.:": "protégées"
+		}
+	},
+	"imperatif": {
+		"présent": { "protège": "", "protégeons": "", "protégez": "" },
+		"passé": { "aie": "protégé", "ayons": "protégé", "ayez": "protégé" }
+	},
+	"infinitif": {
+		"présent": { "protéger": "" },
+		"passé": { "avoir": "protégé" }
+	}
+}

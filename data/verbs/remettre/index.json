@@ -1,0 +1,138 @@
+{
+	"name": "mettre",
+	"definition": "put; give; return; ...",
+	"model": "mettre",
+	"auxiliary": "avoir",
+	"otherForms": "se remettre/ne pas remettre/ne pas se remettre",
+	"indicatif": {
+		"présent": {
+			"je": "remets",
+			"tu": "remets",
+			"il/elle": "remet",
+			"nous": "remettons",
+			"vous": "remettez",
+			"ils/elles": "remettent"
+		},
+		"imparfait": {
+			"je": "remettais",
+			"tu": "remettais",
+			"il/elle": "remettait",
+			"nous": "remettions",
+			"vous": "remettiez",
+			"ils/elles": "remettaient"
+		},
+		"futur": {
+			"je": "remettrai",
+			"tu": "remettras",
+			"il/elle": "remettra",
+			"nous": "remettrons",
+			"vous": "remettrez",
+			"ils/elles": "remettront"
+		},
+		"passé simple": {
+			"je": "remis",
+			"tu": "remis",
+			"il/elle": "remit",
+			"nous": "remîmes",
+			"vous": "remîtes",
+			"ils/elles": "remirent"
+		},
+		"passé composé": {
+			"j'": "ai remis",
+			"tu": "as remis",
+			"il/elle": "a remis",
+			"nous": "avons remis",
+			"vous": "avez remis",
+			"ils/elles": "ont remis"
+		},
+		"plus-que-parfait": {
+			"j'": "avais remis",
+			"tu": "avais remis",
+			"il/elle": "avait remis",
+			"nous": "avions remis",
+			"vous": "aviez remis",
+			"ils/elles": "avaient remis"
+		},
+		"passé antérieur": {
+			"j'": "eus remis",
+			"tu": "eus remis",
+			"il/elle": "eut remis",
+			"nous": "eûmes remis",
+			"vous": "eûtes remis",
+			"ils/elles": "eurent remis"
+		},
+		"futur antérieur": {
+			"j'": "aurai remis",
+			"tu": "auras remis",
+			"il/elle": "aura remis",
+			"nous": "aurons remis",
+			"vous": "aurez remis",
+			"ils/elles": "auront remis"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous remettiez",
+			"qu'il/elle": "remette",
+			"qu'ils/elles": "remettent"
+		},
+		"imparfait": {
+			"que": "vous remissiez",
+			"qu'il/elle": "remît",
+			"qu'ils/elles": "remissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse remis",
+			"que": "vous eussiez remis",
+			"qu'il/elle": "eût remis",
+			"qu'ils/elles": "eussent remis"
+		},
+		"passé": {
+			"j'": "aie remis",
+			"que": "vous ayez remis",
+			"qu'il/elle": "ait remis",
+			"qu'ils/elles": "aient remis"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "remettrais",
+			"tu": "remettrais",
+			"il/elle": "remettrait",
+			"nous": "remettrions",
+			"vous": "remettriez",
+			"ils/elles": "remettraient"
+		},
+		"passé première forme": {
+			"j'": "aurais remis",
+			"tu": "aurais remis",
+			"il/elle": "aurait remis",
+			"nous": "aurions remis",
+			"vous": "auriez remis",
+			"ils/elles": "auraient remis"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse remis",
+			"tu": "eusses remis",
+			"il/elle": "eût remis",
+			"nous": "eussions remis",
+			"vous": "eussiez remis",
+			"ils/elles": "eussent remis"
+		}
+	},
+	"participe": {
+		"présent": { "remettant": "" },
+		"passé composé": { "ayant": "remis" },
+		"passé": {
+			"masc.sg.:": "remis",
+			"masc.pl.:": "remis",
+			"fém.sg.:": "remise",
+			"fém.pl.:": "remises"
+		}
+	},
+	"imperatif": {
+		"présent": { "remets": "", "remettons": "", "remettez": "" },
+		"passé": { "aie": "remis", "ayons": "remis", "ayez": "remis" }
+	},
+	"infinitif": { "présent": { "remettre": "" }, "passé": { "avoir": "remis" } }
+}

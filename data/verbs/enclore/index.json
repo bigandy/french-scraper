@@ -1,0 +1,121 @@
+{
+	"name": "enclore",
+	"definition": "enclose; ...",
+	"model": "enclore",
+	"auxiliary": "avoir",
+	"otherForms": "s'enclore/ne pas enclore/ne pas s'enclore",
+	"indicatif": {
+		"présent": {
+			"j'": "enclos",
+			"tu": "enclos",
+			"il/elle": "enclot",
+			"nous": "enclosons",
+			"vous": "enclosez",
+			"ils/elles": "enclosent"
+		},
+		"imparfait": {},
+		"futur": {
+			"j'": "enclorai",
+			"tu": "encloras",
+			"il/elle": "enclora",
+			"nous": "enclorons",
+			"vous": "enclorez",
+			"ils/elles": "encloront"
+		},
+		"passé simple": {},
+		"passé composé": {
+			"j'": "ai enclos",
+			"tu": "as enclos",
+			"il/elle": "a enclos",
+			"nous": "avons enclos",
+			"vous": "avez enclos",
+			"ils/elles": "ont enclos"
+		},
+		"plus-que-parfait": {
+			"j'": "avais enclos",
+			"tu": "avais enclos",
+			"il/elle": "avait enclos",
+			"nous": "avions enclos",
+			"vous": "aviez enclos",
+			"ils/elles": "avaient enclos"
+		},
+		"passé antérieur": {
+			"j'": "eus enclos",
+			"tu": "eus enclos",
+			"il/elle": "eut enclos",
+			"nous": "eûmes enclos",
+			"vous": "eûtes enclos",
+			"ils/elles": "eurent enclos"
+		},
+		"futur antérieur": {
+			"j'": "aurai enclos",
+			"tu": "auras enclos",
+			"il/elle": "aura enclos",
+			"nous": "aurons enclos",
+			"vous": "aurez enclos",
+			"ils/elles": "auront enclos"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "enclose",
+			"que": "vous enclosiez",
+			"qu'il/elle": "enclose",
+			"qu'ils/elles": "enclosent"
+		},
+		"imparfait": {},
+		"plus-que-parfait": {
+			"j'": "eusse enclos",
+			"que": "vous eussiez enclos",
+			"qu'il/elle": "eût enclos",
+			"qu'ils/elles": "eussent enclos"
+		},
+		"passé": {
+			"j'": "aie enclos",
+			"que": "vous ayez enclos",
+			"qu'il/elle": "ait enclos",
+			"qu'ils/elles": "aient enclos"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "enclorais",
+			"tu": "enclorais",
+			"il/elle": "enclorait",
+			"nous": "enclorions",
+			"vous": "encloriez",
+			"ils/elles": "encloraient"
+		},
+		"passé première forme": {
+			"j'": "aurais enclos",
+			"tu": "aurais enclos",
+			"il/elle": "aurait enclos",
+			"nous": "aurions enclos",
+			"vous": "auriez enclos",
+			"ils/elles": "auraient enclos"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse enclos",
+			"tu": "eusses enclos",
+			"il/elle": "eût enclos",
+			"nous": "eussions enclos",
+			"vous": "eussiez enclos",
+			"ils/elles": "eussent enclos"
+		}
+	},
+	"participe": {
+		"présent": { "enclosant": "" },
+		"passé composé": { "ayant": "enclos" },
+		"passé": {
+			"masc.sg.:": "enclos",
+			"masc.pl.:": "enclos",
+			"fém.sg.:": "enclose",
+			"fém.pl.:": "encloses"
+		}
+	},
+	"imperatif": {
+		"présent": { "enclos": "", "enclosons": "", "enclosez": "" },
+		"passé": { "aie": "enclos", "ayons": "enclos", "ayez": "enclos" }
+	},
+	"infinitif": { "présent": { "enclore": "" }, "passé": { "avoir": "enclos" } }
+}

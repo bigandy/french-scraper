@@ -1,0 +1,140 @@
+{
+	"name": "mettre",
+	"definition": "emit; issue; transmit; ...",
+	"model": "mettre",
+	"auxiliary": "avoir",
+	"otherForms": "s'émettre/ne pas émettre/ne pas s'émettre",
+	"indicatif": {
+		"présent": {
+			"j'": "émets",
+			"tu": "émets",
+			"il/elle": "émet",
+			"nous": "émettons",
+			"vous": "émettez",
+			"ils/elles": "émettent"
+		},
+		"imparfait": {
+			"j'": "émettais",
+			"tu": "émettais",
+			"il/elle": "émettait",
+			"nous": "émettions",
+			"vous": "émettiez",
+			"ils/elles": "émettaient"
+		},
+		"futur": {
+			"j'": "émettrai",
+			"tu": "émettras",
+			"il/elle": "émettra",
+			"nous": "émettrons",
+			"vous": "émettrez",
+			"ils/elles": "émettront"
+		},
+		"passé simple": {
+			"j'": "émis",
+			"tu": "émis",
+			"il/elle": "émit",
+			"nous": "émîmes",
+			"vous": "émîtes",
+			"ils/elles": "émirent"
+		},
+		"passé composé": {
+			"j'": "ai émis",
+			"tu": "as émis",
+			"il/elle": "a émis",
+			"nous": "avons émis",
+			"vous": "avez émis",
+			"ils/elles": "ont émis"
+		},
+		"plus-que-parfait": {
+			"j'": "avais émis",
+			"tu": "avais émis",
+			"il/elle": "avait émis",
+			"nous": "avions émis",
+			"vous": "aviez émis",
+			"ils/elles": "avaient émis"
+		},
+		"passé antérieur": {
+			"j'": "eus émis",
+			"tu": "eus émis",
+			"il/elle": "eut émis",
+			"nous": "eûmes émis",
+			"vous": "eûtes émis",
+			"ils/elles": "eurent émis"
+		},
+		"futur antérieur": {
+			"j'": "aurai émis",
+			"tu": "auras émis",
+			"il/elle": "aura émis",
+			"nous": "aurons émis",
+			"vous": "aurez émis",
+			"ils/elles": "auront émis"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "émette",
+			"que": "vous émettiez",
+			"qu'il/elle": "émette",
+			"qu'ils/elles": "émettent"
+		},
+		"imparfait": {
+			"j'": "émisse",
+			"que": "vous émissiez",
+			"qu'il/elle": "émît",
+			"qu'ils/elles": "émissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse émis",
+			"que": "vous eussiez émis",
+			"qu'il/elle": "eût émis",
+			"qu'ils/elles": "eussent émis"
+		},
+		"passé": {
+			"j'": "aie émis",
+			"que": "vous ayez émis",
+			"qu'il/elle": "ait émis",
+			"qu'ils/elles": "aient émis"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "émettrais",
+			"tu": "émettrais",
+			"il/elle": "émettrait",
+			"nous": "émettrions",
+			"vous": "émettriez",
+			"ils/elles": "émettraient"
+		},
+		"passé première forme": {
+			"j'": "aurais émis",
+			"tu": "aurais émis",
+			"il/elle": "aurait émis",
+			"nous": "aurions émis",
+			"vous": "auriez émis",
+			"ils/elles": "auraient émis"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse émis",
+			"tu": "eusses émis",
+			"il/elle": "eût émis",
+			"nous": "eussions émis",
+			"vous": "eussiez émis",
+			"ils/elles": "eussent émis"
+		}
+	},
+	"participe": {
+		"présent": { "émettant": "" },
+		"passé composé": { "ayant": "émis" },
+		"passé": {
+			"masc.sg.:": "émis",
+			"masc.pl.:": "émis",
+			"fém.sg.:": "émise",
+			"fém.pl.:": "émises"
+		}
+	},
+	"imperatif": {
+		"présent": { "émets": "", "émettons": "", "émettez": "" },
+		"passé": { "aie": "émis", "ayons": "émis", "ayez": "émis" }
+	},
+	"infinitif": { "présent": { "émettre": "" }, "passé": { "avoir": "émis" } }
+}

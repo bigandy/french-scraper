@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "affect; allocate; assign; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'affecter/ne pas affecter/ne pas s'affecter",
+	"indicatif": {
+		"présent": {
+			"j'": "affecte",
+			"tu": "affectes",
+			"il/elle": "affecte",
+			"nous": "affectons",
+			"vous": "affectez",
+			"ils/elles": "affectent"
+		},
+		"imparfait": {
+			"j'": "affectais",
+			"tu": "affectais",
+			"il/elle": "affectait",
+			"nous": "affections",
+			"vous": "affectiez",
+			"ils/elles": "affectaient"
+		},
+		"futur": {
+			"j'": "affecterai",
+			"tu": "affecteras",
+			"il/elle": "affectera",
+			"nous": "affecterons",
+			"vous": "affecterez",
+			"ils/elles": "affecteront"
+		},
+		"passé simple": {
+			"j'": "affectai",
+			"tu": "affectas",
+			"il/elle": "affecta",
+			"nous": "affectâmes",
+			"vous": "affectâtes",
+			"ils/elles": "affectèrent"
+		},
+		"passé composé": {
+			"j'": "ai affecté",
+			"tu": "as affecté",
+			"il/elle": "a affecté",
+			"nous": "avons affecté",
+			"vous": "avez affecté",
+			"ils/elles": "ont affecté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais affecté",
+			"tu": "avais affecté",
+			"il/elle": "avait affecté",
+			"nous": "avions affecté",
+			"vous": "aviez affecté",
+			"ils/elles": "avaient affecté"
+		},
+		"passé antérieur": {
+			"j'": "eus affecté",
+			"tu": "eus affecté",
+			"il/elle": "eut affecté",
+			"nous": "eûmes affecté",
+			"vous": "eûtes affecté",
+			"ils/elles": "eurent affecté"
+		},
+		"futur antérieur": {
+			"j'": "aurai affecté",
+			"tu": "auras affecté",
+			"il/elle": "aura affecté",
+			"nous": "aurons affecté",
+			"vous": "aurez affecté",
+			"ils/elles": "auront affecté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "affecte",
+			"que": "vous affectiez",
+			"qu'il/elle": "affecte",
+			"qu'ils/elles": "affectent"
+		},
+		"imparfait": {
+			"j'": "affectasse",
+			"que": "vous affectassiez",
+			"qu'il/elle": "affectât",
+			"qu'ils/elles": "affectassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse affecté",
+			"que": "vous eussiez affecté",
+			"qu'il/elle": "eût affecté",
+			"qu'ils/elles": "eussent affecté"
+		},
+		"passé": {
+			"j'": "aie affecté",
+			"que": "vous ayez affecté",
+			"qu'il/elle": "ait affecté",
+			"qu'ils/elles": "aient affecté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "affecterais",
+			"tu": "affecterais",
+			"il/elle": "affecterait",
+			"nous": "affecterions",
+			"vous": "affecteriez",
+			"ils/elles": "affecteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais affecté",
+			"tu": "aurais affecté",
+			"il/elle": "aurait affecté",
+			"nous": "aurions affecté",
+			"vous": "auriez affecté",
+			"ils/elles": "auraient affecté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse affecté",
+			"tu": "eusses affecté",
+			"il/elle": "eût affecté",
+			"nous": "eussions affecté",
+			"vous": "eussiez affecté",
+			"ils/elles": "eussent affecté"
+		}
+	},
+	"participe": {
+		"présent": { "affectant": "" },
+		"passé composé": { "ayant": "affecté" },
+		"passé": {
+			"masc.sg.:": "affecté",
+			"masc.pl.:": "affectés",
+			"fém.sg.:": "affectée",
+			"fém.pl.:": "affectées"
+		}
+	},
+	"imperatif": {
+		"présent": { "affecte": "", "affectons": "", "affectez": "" },
+		"passé": { "aie": "affecté", "ayons": "affecté", "ayez": "affecté" }
+	},
+	"infinitif": {
+		"présent": { "affecter": "" },
+		"passé": { "avoir": "affecté" }
+	}
+}

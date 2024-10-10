@@ -1,0 +1,140 @@
+{
+	"name": "cuire",
+	"definition": "induce; cause; lead; ...",
+	"model": "cuire",
+	"auxiliary": "avoir",
+	"otherForms": "s'induire/ne pas induire/ne pas s'induire",
+	"indicatif": {
+		"présent": {
+			"j'": "induis",
+			"tu": "induis",
+			"il/elle": "induit",
+			"nous": "induisons",
+			"vous": "induisez",
+			"ils/elles": "induisent"
+		},
+		"imparfait": {
+			"j'": "induisais",
+			"tu": "induisais",
+			"il/elle": "induisait",
+			"nous": "induisions",
+			"vous": "induisiez",
+			"ils/elles": "induisaient"
+		},
+		"futur": {
+			"j'": "induirai",
+			"tu": "induiras",
+			"il/elle": "induira",
+			"nous": "induirons",
+			"vous": "induirez",
+			"ils/elles": "induiront"
+		},
+		"passé simple": {
+			"j'": "induisis",
+			"tu": "induisis",
+			"il/elle": "induisit",
+			"nous": "induisîmes",
+			"vous": "induisîtes",
+			"ils/elles": "induisirent"
+		},
+		"passé composé": {
+			"j'": "ai induit",
+			"tu": "as induit",
+			"il/elle": "a induit",
+			"nous": "avons induit",
+			"vous": "avez induit",
+			"ils/elles": "ont induit"
+		},
+		"plus-que-parfait": {
+			"j'": "avais induit",
+			"tu": "avais induit",
+			"il/elle": "avait induit",
+			"nous": "avions induit",
+			"vous": "aviez induit",
+			"ils/elles": "avaient induit"
+		},
+		"passé antérieur": {
+			"j'": "eus induit",
+			"tu": "eus induit",
+			"il/elle": "eut induit",
+			"nous": "eûmes induit",
+			"vous": "eûtes induit",
+			"ils/elles": "eurent induit"
+		},
+		"futur antérieur": {
+			"j'": "aurai induit",
+			"tu": "auras induit",
+			"il/elle": "aura induit",
+			"nous": "aurons induit",
+			"vous": "aurez induit",
+			"ils/elles": "auront induit"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "induise",
+			"que": "vous induisiez",
+			"qu'il/elle": "induise",
+			"qu'ils/elles": "induisent"
+		},
+		"imparfait": {
+			"j'": "induisisse",
+			"que": "vous induisissiez",
+			"qu'il/elle": "induisît",
+			"qu'ils/elles": "induisissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse induit",
+			"que": "vous eussiez induit",
+			"qu'il/elle": "eût induit",
+			"qu'ils/elles": "eussent induit"
+		},
+		"passé": {
+			"j'": "aie induit",
+			"que": "vous ayez induit",
+			"qu'il/elle": "ait induit",
+			"qu'ils/elles": "aient induit"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "induirais",
+			"tu": "induirais",
+			"il/elle": "induirait",
+			"nous": "induirions",
+			"vous": "induiriez",
+			"ils/elles": "induiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais induit",
+			"tu": "aurais induit",
+			"il/elle": "aurait induit",
+			"nous": "aurions induit",
+			"vous": "auriez induit",
+			"ils/elles": "auraient induit"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse induit",
+			"tu": "eusses induit",
+			"il/elle": "eût induit",
+			"nous": "eussions induit",
+			"vous": "eussiez induit",
+			"ils/elles": "eussent induit"
+		}
+	},
+	"participe": {
+		"présent": { "induisant": "" },
+		"passé composé": { "ayant": "induit" },
+		"passé": {
+			"masc.sg.:": "induit",
+			"masc.pl.:": "induits",
+			"fém.sg.:": "induite",
+			"fém.pl.:": "induites"
+		}
+	},
+	"imperatif": {
+		"présent": { "induis": "", "induisons": "", "induisez": "" },
+		"passé": { "aie": "induit", "ayons": "induit", "ayez": "induit" }
+	},
+	"infinitif": { "présent": { "induire": "" }, "passé": { "avoir": "induit" } }
+}

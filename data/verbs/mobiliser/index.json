@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "mobilize; mobilise; engage; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se mobiliser/ne pas mobiliser/ne pas se mobiliser",
+	"indicatif": {
+		"présent": {
+			"je": "mobilise",
+			"tu": "mobilises",
+			"il/elle": "mobilise",
+			"nous": "mobilisons",
+			"vous": "mobilisez",
+			"ils/elles": "mobilisent"
+		},
+		"imparfait": {
+			"je": "mobilisais",
+			"tu": "mobilisais",
+			"il/elle": "mobilisait",
+			"nous": "mobilisions",
+			"vous": "mobilisiez",
+			"ils/elles": "mobilisaient"
+		},
+		"futur": {
+			"je": "mobiliserai",
+			"tu": "mobiliseras",
+			"il/elle": "mobilisera",
+			"nous": "mobiliserons",
+			"vous": "mobiliserez",
+			"ils/elles": "mobiliseront"
+		},
+		"passé simple": {
+			"je": "mobilisai",
+			"tu": "mobilisas",
+			"il/elle": "mobilisa",
+			"nous": "mobilisâmes",
+			"vous": "mobilisâtes",
+			"ils/elles": "mobilisèrent"
+		},
+		"passé composé": {
+			"j'": "ai mobilisé",
+			"tu": "as mobilisé",
+			"il/elle": "a mobilisé",
+			"nous": "avons mobilisé",
+			"vous": "avez mobilisé",
+			"ils/elles": "ont mobilisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais mobilisé",
+			"tu": "avais mobilisé",
+			"il/elle": "avait mobilisé",
+			"nous": "avions mobilisé",
+			"vous": "aviez mobilisé",
+			"ils/elles": "avaient mobilisé"
+		},
+		"passé antérieur": {
+			"j'": "eus mobilisé",
+			"tu": "eus mobilisé",
+			"il/elle": "eut mobilisé",
+			"nous": "eûmes mobilisé",
+			"vous": "eûtes mobilisé",
+			"ils/elles": "eurent mobilisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai mobilisé",
+			"tu": "auras mobilisé",
+			"il/elle": "aura mobilisé",
+			"nous": "aurons mobilisé",
+			"vous": "aurez mobilisé",
+			"ils/elles": "auront mobilisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous mobilisiez",
+			"qu'il/elle": "mobilise",
+			"qu'ils/elles": "mobilisent"
+		},
+		"imparfait": {
+			"que": "vous mobilisassiez",
+			"qu'il/elle": "mobilisât",
+			"qu'ils/elles": "mobilisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse mobilisé",
+			"que": "vous eussiez mobilisé",
+			"qu'il/elle": "eût mobilisé",
+			"qu'ils/elles": "eussent mobilisé"
+		},
+		"passé": {
+			"j'": "aie mobilisé",
+			"que": "vous ayez mobilisé",
+			"qu'il/elle": "ait mobilisé",
+			"qu'ils/elles": "aient mobilisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "mobiliserais",
+			"tu": "mobiliserais",
+			"il/elle": "mobiliserait",
+			"nous": "mobiliserions",
+			"vous": "mobiliseriez",
+			"ils/elles": "mobiliseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais mobilisé",
+			"tu": "aurais mobilisé",
+			"il/elle": "aurait mobilisé",
+			"nous": "aurions mobilisé",
+			"vous": "auriez mobilisé",
+			"ils/elles": "auraient mobilisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse mobilisé",
+			"tu": "eusses mobilisé",
+			"il/elle": "eût mobilisé",
+			"nous": "eussions mobilisé",
+			"vous": "eussiez mobilisé",
+			"ils/elles": "eussent mobilisé"
+		}
+	},
+	"participe": {
+		"présent": { "mobilisant": "" },
+		"passé composé": { "ayant": "mobilisé" },
+		"passé": {
+			"masc.sg.:": "mobilisé",
+			"masc.pl.:": "mobilisés",
+			"fém.sg.:": "mobilisée",
+			"fém.pl.:": "mobilisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "mobilise": "", "mobilisons": "", "mobilisez": "" },
+		"passé": { "aie": "mobilisé", "ayons": "mobilisé", "ayez": "mobilisé" }
+	},
+	"infinitif": {
+		"présent": { "mobiliser": "" },
+		"passé": { "avoir": "mobilisé" }
+	}
+}

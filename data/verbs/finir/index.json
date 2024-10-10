@@ -1,0 +1,194 @@
+{
+	"name": "finir",
+	"definition": "finish; end; end up; ...",
+	"model": "finir",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "se finir/ne pas finir/ne pas se finir",
+	"indicatif": {
+		"présent": {
+			"je": "finis",
+			"tu": "finis",
+			"il/elle": "finit",
+			"nous": "finissons",
+			"vous": "finissez",
+			"ils/elles": "finissent"
+		},
+		"imparfait": {
+			"je": "finissais",
+			"tu": "finissais",
+			"il/elle": "finissait",
+			"nous": "finissions",
+			"vous": "finissiez",
+			"ils/elles": "finissaient"
+		},
+		"futur": {
+			"je": "finirai",
+			"tu": "finiras",
+			"il/elle": "finira",
+			"nous": "finirons",
+			"vous": "finirez",
+			"ils/elles": "finiront"
+		},
+		"passé simple": {
+			"je": "finis",
+			"tu": "finis",
+			"il/elle": "finit",
+			"nous": "finîmes",
+			"vous": "finîtes",
+			"ils/elles": "finirent"
+		},
+		"passé composé": {
+			"j'": "ai fini",
+			"tu": "es fini",
+			"il/elle": "a fini",
+			"nous": "sommes finis",
+			"vous": "êtes finis",
+			"ils/elles": "ont fini",
+			"": "",
+			"je": "suis fini",
+			"il": "est fini",
+			"elle": "est finie",
+			"ils": "sont finis",
+			"elles": "sont finies"
+		},
+		"plus-que-parfait": {
+			"j'": "étais fini",
+			"tu": "étais fini",
+			"il/elle": "avait fini",
+			"nous": "étions finis",
+			"vous": "étiez finis",
+			"ils/elles": "avaient fini",
+			"": "",
+			"il": "était fini",
+			"elle": "était finie",
+			"ils": "étaient finis",
+			"elles": "étaient finies"
+		},
+		"passé antérieur": {
+			"j'": "eus fini",
+			"tu": "fus fini",
+			"il/elle": "eut fini",
+			"nous": "fûmes finis",
+			"vous": "fûtes finis",
+			"ils/elles": "eurent fini",
+			"": "",
+			"je": "fus fini",
+			"il": "fut fini",
+			"elle": "fut finie",
+			"ils": "furent finis",
+			"elles": "furent finies"
+		},
+		"futur antérieur": {
+			"j'": "aurai fini",
+			"tu": "seras fini",
+			"il/elle": "aura fini",
+			"nous": "serons finis",
+			"vous": "serez finis",
+			"ils/elles": "auront fini",
+			"": "",
+			"je": "serai fini",
+			"il": "sera fini",
+			"elle": "sera finie",
+			"ils": "seront finis",
+			"elles": "seront finies"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous finissiez",
+			"qu'il/elle": "finisse",
+			"qu'ils/elles": "finissent"
+		},
+		"imparfait": {
+			"que": "vous finissiez",
+			"qu'il/elle": "finît",
+			"qu'ils/elles": "finissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse fini",
+			"que": "vous fussiez finis",
+			"qu'il/elle": "eût fini",
+			"qu'ils/elles": "eussent fini",
+			"": "",
+			"qu'il": "fût fini",
+			"qu'elle": "fût finie",
+			"qu'ils": "fussent finis",
+			"qu'elles": "fussent finies"
+		},
+		"passé": {
+			"j'": "aie fini",
+			"que": "vous soyez finis",
+			"qu'il/elle": "ait fini",
+			"qu'ils/elles": "aient fini",
+			"": "",
+			"qu'il": "soit fini",
+			"qu'elle": "soit finie",
+			"qu'ils": "soient finis",
+			"qu'elles": "soient finies"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "finirais",
+			"tu": "finirais",
+			"il/elle": "finirait",
+			"nous": "finirions",
+			"vous": "finiriez",
+			"ils/elles": "finiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais fini",
+			"tu": "serais fini",
+			"il/elle": "aurait fini",
+			"nous": "serions finis",
+			"vous": "seriez finis",
+			"ils/elles": "auraient fini",
+			"": "",
+			"je": "serais fini",
+			"il": "serait fini",
+			"elle": "serait finie",
+			"ils": "seraient finis",
+			"elles": "seraient finies"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse fini",
+			"tu": "fusses fini",
+			"il/elle": "eût fini",
+			"nous": "fussions finis",
+			"vous": "fussiez finis",
+			"ils/elles": "eussent fini",
+			"": "",
+			"je": "fusse fini",
+			"il": "fût fini",
+			"elle": "fût finie",
+			"ils": "fussent finis",
+			"elles": "fussent finies"
+		}
+	},
+	"participe": {
+		"présent": { "finissant": "" },
+		"passé composé": { "ayant": "fini", "": "", "étant": "finie" },
+		"passé": {
+			"masc.sg.:": "fini",
+			"masc.pl.:": "finis",
+			"fém.sg.:": "finie",
+			"fém.pl.:": "finies"
+		}
+	},
+	"imperatif": {
+		"présent": { "finis": "", "finissons": "", "finissez": "" },
+		"passé": {
+			"aie": "fini",
+			"ayons": "fini",
+			"ayez": "fini",
+			"": "",
+			"sois": "fini",
+			"soyons": "fini",
+			"soyez": "fini"
+		}
+	},
+	"infinitif": {
+		"présent": { "finir": "" },
+		"passé": { "avoir": "fini", "": "", "être": "fini" }
+	}
+}

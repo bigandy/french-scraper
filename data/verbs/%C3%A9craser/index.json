@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "crush; crash; overwrite; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'écraser/ne pas écraser/ne pas s'écraser",
+	"indicatif": {
+		"présent": {
+			"j'": "écrase",
+			"tu": "écrases",
+			"il/elle": "écrase",
+			"nous": "écrasons",
+			"vous": "écrasez",
+			"ils/elles": "écrasent"
+		},
+		"imparfait": {
+			"j'": "écrasais",
+			"tu": "écrasais",
+			"il/elle": "écrasait",
+			"nous": "écrasions",
+			"vous": "écrasiez",
+			"ils/elles": "écrasaient"
+		},
+		"futur": {
+			"j'": "écraserai",
+			"tu": "écraseras",
+			"il/elle": "écrasera",
+			"nous": "écraserons",
+			"vous": "écraserez",
+			"ils/elles": "écraseront"
+		},
+		"passé simple": {
+			"j'": "écrasai",
+			"tu": "écrasas",
+			"il/elle": "écrasa",
+			"nous": "écrasâmes",
+			"vous": "écrasâtes",
+			"ils/elles": "écrasèrent"
+		},
+		"passé composé": {
+			"j'": "ai écrasé",
+			"tu": "as écrasé",
+			"il/elle": "a écrasé",
+			"nous": "avons écrasé",
+			"vous": "avez écrasé",
+			"ils/elles": "ont écrasé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais écrasé",
+			"tu": "avais écrasé",
+			"il/elle": "avait écrasé",
+			"nous": "avions écrasé",
+			"vous": "aviez écrasé",
+			"ils/elles": "avaient écrasé"
+		},
+		"passé antérieur": {
+			"j'": "eus écrasé",
+			"tu": "eus écrasé",
+			"il/elle": "eut écrasé",
+			"nous": "eûmes écrasé",
+			"vous": "eûtes écrasé",
+			"ils/elles": "eurent écrasé"
+		},
+		"futur antérieur": {
+			"j'": "aurai écrasé",
+			"tu": "auras écrasé",
+			"il/elle": "aura écrasé",
+			"nous": "aurons écrasé",
+			"vous": "aurez écrasé",
+			"ils/elles": "auront écrasé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "écrase",
+			"que": "vous écrasiez",
+			"qu'il/elle": "écrase",
+			"qu'ils/elles": "écrasent"
+		},
+		"imparfait": {
+			"j'": "écrasasse",
+			"que": "vous écrasassiez",
+			"qu'il/elle": "écrasât",
+			"qu'ils/elles": "écrasassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse écrasé",
+			"que": "vous eussiez écrasé",
+			"qu'il/elle": "eût écrasé",
+			"qu'ils/elles": "eussent écrasé"
+		},
+		"passé": {
+			"j'": "aie écrasé",
+			"que": "vous ayez écrasé",
+			"qu'il/elle": "ait écrasé",
+			"qu'ils/elles": "aient écrasé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "écraserais",
+			"tu": "écraserais",
+			"il/elle": "écraserait",
+			"nous": "écraserions",
+			"vous": "écraseriez",
+			"ils/elles": "écraseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais écrasé",
+			"tu": "aurais écrasé",
+			"il/elle": "aurait écrasé",
+			"nous": "aurions écrasé",
+			"vous": "auriez écrasé",
+			"ils/elles": "auraient écrasé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse écrasé",
+			"tu": "eusses écrasé",
+			"il/elle": "eût écrasé",
+			"nous": "eussions écrasé",
+			"vous": "eussiez écrasé",
+			"ils/elles": "eussent écrasé"
+		}
+	},
+	"participe": {
+		"présent": { "écrasant": "" },
+		"passé composé": { "ayant": "écrasé" },
+		"passé": {
+			"masc.sg.:": "écrasé",
+			"masc.pl.:": "écrasés",
+			"fém.sg.:": "écrasée",
+			"fém.pl.:": "écrasées"
+		}
+	},
+	"imperatif": {
+		"présent": { "écrase": "", "écrasons": "", "écrasez": "" },
+		"passé": { "aie": "écrasé", "ayons": "écrasé", "ayez": "écrasé" }
+	},
+	"infinitif": { "présent": { "écraser": "" }, "passé": { "avoir": "écrasé" } }
+}

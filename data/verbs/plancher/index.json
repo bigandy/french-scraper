@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "work; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se plancher/ne pas plancher/ne pas se plancher",
+	"indicatif": {
+		"présent": {
+			"je": "planche",
+			"tu": "planches",
+			"il/elle": "planche",
+			"nous": "planchons",
+			"vous": "planchez",
+			"ils/elles": "planchent"
+		},
+		"imparfait": {
+			"je": "planchais",
+			"tu": "planchais",
+			"il/elle": "planchait",
+			"nous": "planchions",
+			"vous": "planchiez",
+			"ils/elles": "planchaient"
+		},
+		"futur": {
+			"je": "plancherai",
+			"tu": "plancheras",
+			"il/elle": "planchera",
+			"nous": "plancherons",
+			"vous": "plancherez",
+			"ils/elles": "plancheront"
+		},
+		"passé simple": {
+			"je": "planchai",
+			"tu": "planchas",
+			"il/elle": "plancha",
+			"nous": "planchâmes",
+			"vous": "planchâtes",
+			"ils/elles": "planchèrent"
+		},
+		"passé composé": {
+			"j'": "ai planché",
+			"tu": "as planché",
+			"il/elle": "a planché",
+			"nous": "avons planché",
+			"vous": "avez planché",
+			"ils/elles": "ont planché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais planché",
+			"tu": "avais planché",
+			"il/elle": "avait planché",
+			"nous": "avions planché",
+			"vous": "aviez planché",
+			"ils/elles": "avaient planché"
+		},
+		"passé antérieur": {
+			"j'": "eus planché",
+			"tu": "eus planché",
+			"il/elle": "eut planché",
+			"nous": "eûmes planché",
+			"vous": "eûtes planché",
+			"ils/elles": "eurent planché"
+		},
+		"futur antérieur": {
+			"j'": "aurai planché",
+			"tu": "auras planché",
+			"il/elle": "aura planché",
+			"nous": "aurons planché",
+			"vous": "aurez planché",
+			"ils/elles": "auront planché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous planchiez",
+			"qu'il/elle": "planche",
+			"qu'ils/elles": "planchent"
+		},
+		"imparfait": {
+			"que": "vous planchassiez",
+			"qu'il/elle": "planchât",
+			"qu'ils/elles": "planchassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse planché",
+			"que": "vous eussiez planché",
+			"qu'il/elle": "eût planché",
+			"qu'ils/elles": "eussent planché"
+		},
+		"passé": {
+			"j'": "aie planché",
+			"que": "vous ayez planché",
+			"qu'il/elle": "ait planché",
+			"qu'ils/elles": "aient planché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "plancherais",
+			"tu": "plancherais",
+			"il/elle": "plancherait",
+			"nous": "plancherions",
+			"vous": "plancheriez",
+			"ils/elles": "plancheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais planché",
+			"tu": "aurais planché",
+			"il/elle": "aurait planché",
+			"nous": "aurions planché",
+			"vous": "auriez planché",
+			"ils/elles": "auraient planché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse planché",
+			"tu": "eusses planché",
+			"il/elle": "eût planché",
+			"nous": "eussions planché",
+			"vous": "eussiez planché",
+			"ils/elles": "eussent planché"
+		}
+	},
+	"participe": {
+		"présent": { "planchant": "" },
+		"passé composé": { "ayant": "planché" },
+		"passé": {
+			"masc.sg.:": "planché",
+			"masc.pl.:": "planchés",
+			"fém.sg.:": "planchée",
+			"fém.pl.:": "planchées"
+		}
+	},
+	"imperatif": {
+		"présent": { "planche": "", "planchons": "", "planchez": "" },
+		"passé": { "aie": "planché", "ayons": "planché", "ayez": "planché" }
+	},
+	"infinitif": {
+		"présent": { "plancher": "" },
+		"passé": { "avoir": "planché" }
+	}
+}

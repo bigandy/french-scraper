@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "govern; rule; steer; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se gouverner/ne pas gouverner/ne pas se gouverner",
+	"indicatif": {
+		"présent": {
+			"je": "gouverne",
+			"tu": "gouvernes",
+			"il/elle": "gouverne",
+			"nous": "gouvernons",
+			"vous": "gouvernez",
+			"ils/elles": "gouvernent"
+		},
+		"imparfait": {
+			"je": "gouvernais",
+			"tu": "gouvernais",
+			"il/elle": "gouvernait",
+			"nous": "gouvernions",
+			"vous": "gouverniez",
+			"ils/elles": "gouvernaient"
+		},
+		"futur": {
+			"je": "gouvernerai",
+			"tu": "gouverneras",
+			"il/elle": "gouvernera",
+			"nous": "gouvernerons",
+			"vous": "gouvernerez",
+			"ils/elles": "gouverneront"
+		},
+		"passé simple": {
+			"je": "gouvernai",
+			"tu": "gouvernas",
+			"il/elle": "gouverna",
+			"nous": "gouvernâmes",
+			"vous": "gouvernâtes",
+			"ils/elles": "gouvernèrent"
+		},
+		"passé composé": {
+			"j'": "ai gouverné",
+			"tu": "as gouverné",
+			"il/elle": "a gouverné",
+			"nous": "avons gouverné",
+			"vous": "avez gouverné",
+			"ils/elles": "ont gouverné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais gouverné",
+			"tu": "avais gouverné",
+			"il/elle": "avait gouverné",
+			"nous": "avions gouverné",
+			"vous": "aviez gouverné",
+			"ils/elles": "avaient gouverné"
+		},
+		"passé antérieur": {
+			"j'": "eus gouverné",
+			"tu": "eus gouverné",
+			"il/elle": "eut gouverné",
+			"nous": "eûmes gouverné",
+			"vous": "eûtes gouverné",
+			"ils/elles": "eurent gouverné"
+		},
+		"futur antérieur": {
+			"j'": "aurai gouverné",
+			"tu": "auras gouverné",
+			"il/elle": "aura gouverné",
+			"nous": "aurons gouverné",
+			"vous": "aurez gouverné",
+			"ils/elles": "auront gouverné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous gouverniez",
+			"qu'il/elle": "gouverne",
+			"qu'ils/elles": "gouvernent"
+		},
+		"imparfait": {
+			"que": "vous gouvernassiez",
+			"qu'il/elle": "gouvernât",
+			"qu'ils/elles": "gouvernassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse gouverné",
+			"que": "vous eussiez gouverné",
+			"qu'il/elle": "eût gouverné",
+			"qu'ils/elles": "eussent gouverné"
+		},
+		"passé": {
+			"j'": "aie gouverné",
+			"que": "vous ayez gouverné",
+			"qu'il/elle": "ait gouverné",
+			"qu'ils/elles": "aient gouverné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "gouvernerais",
+			"tu": "gouvernerais",
+			"il/elle": "gouvernerait",
+			"nous": "gouvernerions",
+			"vous": "gouverneriez",
+			"ils/elles": "gouverneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais gouverné",
+			"tu": "aurais gouverné",
+			"il/elle": "aurait gouverné",
+			"nous": "aurions gouverné",
+			"vous": "auriez gouverné",
+			"ils/elles": "auraient gouverné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse gouverné",
+			"tu": "eusses gouverné",
+			"il/elle": "eût gouverné",
+			"nous": "eussions gouverné",
+			"vous": "eussiez gouverné",
+			"ils/elles": "eussent gouverné"
+		}
+	},
+	"participe": {
+		"présent": { "gouvernant": "" },
+		"passé composé": { "ayant": "gouverné" },
+		"passé": {
+			"masc.sg.:": "gouverné",
+			"masc.pl.:": "gouvernés",
+			"fém.sg.:": "gouvernée",
+			"fém.pl.:": "gouvernées"
+		}
+	},
+	"imperatif": {
+		"présent": { "gouverne": "", "gouvernons": "", "gouvernez": "" },
+		"passé": { "aie": "gouverné", "ayons": "gouverné", "ayez": "gouverné" }
+	},
+	"infinitif": {
+		"présent": { "gouverner": "" },
+		"passé": { "avoir": "gouverné" }
+	}
+}

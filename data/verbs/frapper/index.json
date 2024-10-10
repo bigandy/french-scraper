@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "hit; strike; knock; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se frapper/ne pas frapper/ne pas se frapper",
+	"indicatif": {
+		"présent": {
+			"je": "frappe",
+			"tu": "frappes",
+			"il/elle": "frappe",
+			"nous": "frappons",
+			"vous": "frappez",
+			"ils/elles": "frappent"
+		},
+		"imparfait": {
+			"je": "frappais",
+			"tu": "frappais",
+			"il/elle": "frappait",
+			"nous": "frappions",
+			"vous": "frappiez",
+			"ils/elles": "frappaient"
+		},
+		"futur": {
+			"je": "frapperai",
+			"tu": "frapperas",
+			"il/elle": "frappera",
+			"nous": "frapperons",
+			"vous": "frapperez",
+			"ils/elles": "frapperont"
+		},
+		"passé simple": {
+			"je": "frappai",
+			"tu": "frappas",
+			"il/elle": "frappa",
+			"nous": "frappâmes",
+			"vous": "frappâtes",
+			"ils/elles": "frappèrent"
+		},
+		"passé composé": {
+			"j'": "ai frappé",
+			"tu": "as frappé",
+			"il/elle": "a frappé",
+			"nous": "avons frappé",
+			"vous": "avez frappé",
+			"ils/elles": "ont frappé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais frappé",
+			"tu": "avais frappé",
+			"il/elle": "avait frappé",
+			"nous": "avions frappé",
+			"vous": "aviez frappé",
+			"ils/elles": "avaient frappé"
+		},
+		"passé antérieur": {
+			"j'": "eus frappé",
+			"tu": "eus frappé",
+			"il/elle": "eut frappé",
+			"nous": "eûmes frappé",
+			"vous": "eûtes frappé",
+			"ils/elles": "eurent frappé"
+		},
+		"futur antérieur": {
+			"j'": "aurai frappé",
+			"tu": "auras frappé",
+			"il/elle": "aura frappé",
+			"nous": "aurons frappé",
+			"vous": "aurez frappé",
+			"ils/elles": "auront frappé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous frappiez",
+			"qu'il/elle": "frappe",
+			"qu'ils/elles": "frappent"
+		},
+		"imparfait": {
+			"que": "vous frappassiez",
+			"qu'il/elle": "frappât",
+			"qu'ils/elles": "frappassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse frappé",
+			"que": "vous eussiez frappé",
+			"qu'il/elle": "eût frappé",
+			"qu'ils/elles": "eussent frappé"
+		},
+		"passé": {
+			"j'": "aie frappé",
+			"que": "vous ayez frappé",
+			"qu'il/elle": "ait frappé",
+			"qu'ils/elles": "aient frappé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "frapperais",
+			"tu": "frapperais",
+			"il/elle": "frapperait",
+			"nous": "frapperions",
+			"vous": "frapperiez",
+			"ils/elles": "frapperaient"
+		},
+		"passé première forme": {
+			"j'": "aurais frappé",
+			"tu": "aurais frappé",
+			"il/elle": "aurait frappé",
+			"nous": "aurions frappé",
+			"vous": "auriez frappé",
+			"ils/elles": "auraient frappé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse frappé",
+			"tu": "eusses frappé",
+			"il/elle": "eût frappé",
+			"nous": "eussions frappé",
+			"vous": "eussiez frappé",
+			"ils/elles": "eussent frappé"
+		}
+	},
+	"participe": {
+		"présent": { "frappant": "" },
+		"passé composé": { "ayant": "frappé" },
+		"passé": {
+			"masc.sg.:": "frappé",
+			"masc.pl.:": "frappés",
+			"fém.sg.:": "frappée",
+			"fém.pl.:": "frappées"
+		}
+	},
+	"imperatif": {
+		"présent": { "frappe": "", "frappons": "", "frappez": "" },
+		"passé": { "aie": "frappé", "ayons": "frappé", "ayez": "frappé" }
+	},
+	"infinitif": { "présent": { "frapper": "" }, "passé": { "avoir": "frappé" } }
+}

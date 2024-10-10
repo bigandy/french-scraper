@@ -1,0 +1,145 @@
+{
+	"name": "marcher",
+	"definition": "technify; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se techniciser/ne pas techniciser/ne pas se techniciser",
+	"indicatif": {
+		"présent": {
+			"je": "technicise",
+			"tu": "technicises",
+			"il/elle": "technicise",
+			"nous": "technicisons",
+			"vous": "technicisez",
+			"ils/elles": "technicisent"
+		},
+		"imparfait": {
+			"je": "technicisais",
+			"tu": "technicisais",
+			"il/elle": "technicisait",
+			"nous": "technicisions",
+			"vous": "technicisiez",
+			"ils/elles": "technicisaient"
+		},
+		"futur": {
+			"je": "techniciserai",
+			"tu": "techniciseras",
+			"il/elle": "technicisera",
+			"nous": "techniciserons",
+			"vous": "techniciserez",
+			"ils/elles": "techniciseront"
+		},
+		"passé simple": {
+			"je": "technicisai",
+			"tu": "technicisas",
+			"il/elle": "technicisa",
+			"nous": "technicisâmes",
+			"vous": "technicisâtes",
+			"ils/elles": "technicisèrent"
+		},
+		"passé composé": {
+			"j'": "ai technicisé",
+			"tu": "as technicisé",
+			"il/elle": "a technicisé",
+			"nous": "avons technicisé",
+			"vous": "avez technicisé",
+			"ils/elles": "ont technicisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais technicisé",
+			"tu": "avais technicisé",
+			"il/elle": "avait technicisé",
+			"nous": "avions technicisé",
+			"vous": "aviez technicisé",
+			"ils/elles": "avaient technicisé"
+		},
+		"passé antérieur": {
+			"j'": "eus technicisé",
+			"tu": "eus technicisé",
+			"il/elle": "eut technicisé",
+			"nous": "eûmes technicisé",
+			"vous": "eûtes technicisé",
+			"ils/elles": "eurent technicisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai technicisé",
+			"tu": "auras technicisé",
+			"il/elle": "aura technicisé",
+			"nous": "aurons technicisé",
+			"vous": "aurez technicisé",
+			"ils/elles": "auront technicisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous technicisiez",
+			"qu'il/elle": "technicise",
+			"qu'ils/elles": "technicisent"
+		},
+		"imparfait": {
+			"que": "vous technicisassiez",
+			"qu'il/elle": "technicisât",
+			"qu'ils/elles": "technicisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse technicisé",
+			"que": "vous eussiez technicisé",
+			"qu'il/elle": "eût technicisé",
+			"qu'ils/elles": "eussent technicisé"
+		},
+		"passé": {
+			"j'": "aie technicisé",
+			"que": "vous ayez technicisé",
+			"qu'il/elle": "ait technicisé",
+			"qu'ils/elles": "aient technicisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "techniciserais",
+			"tu": "techniciserais",
+			"il/elle": "techniciserait",
+			"nous": "techniciserions",
+			"vous": "techniciseriez",
+			"ils/elles": "techniciseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais technicisé",
+			"tu": "aurais technicisé",
+			"il/elle": "aurait technicisé",
+			"nous": "aurions technicisé",
+			"vous": "auriez technicisé",
+			"ils/elles": "auraient technicisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse technicisé",
+			"tu": "eusses technicisé",
+			"il/elle": "eût technicisé",
+			"nous": "eussions technicisé",
+			"vous": "eussiez technicisé",
+			"ils/elles": "eussent technicisé"
+		}
+	},
+	"participe": {
+		"présent": { "technicisant": "" },
+		"passé composé": { "ayant": "technicisé" },
+		"passé": {
+			"masc.sg.:": "technicisé",
+			"masc.pl.:": "technicisés",
+			"fém.sg.:": "technicisée",
+			"fém.pl.:": "technicisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "technicise": "", "technicisons": "", "technicisez": "" },
+		"passé": {
+			"aie": "technicisé",
+			"ayons": "technicisé",
+			"ayez": "technicisé"
+		}
+	},
+	"infinitif": {
+		"présent": { "techniciser": "" },
+		"passé": { "avoir": "technicisé" }
+	}
+}

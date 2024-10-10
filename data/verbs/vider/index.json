@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "empty; clear; drain; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se vider/ne pas vider/ne pas se vider",
+	"indicatif": {
+		"présent": {
+			"je": "vide",
+			"tu": "vides",
+			"il/elle": "vide",
+			"nous": "vidons",
+			"vous": "videz",
+			"ils/elles": "vident"
+		},
+		"imparfait": {
+			"je": "vidais",
+			"tu": "vidais",
+			"il/elle": "vidait",
+			"nous": "vidions",
+			"vous": "vidiez",
+			"ils/elles": "vidaient"
+		},
+		"futur": {
+			"je": "viderai",
+			"tu": "videras",
+			"il/elle": "videra",
+			"nous": "viderons",
+			"vous": "viderez",
+			"ils/elles": "videront"
+		},
+		"passé simple": {
+			"je": "vidai",
+			"tu": "vidas",
+			"il/elle": "vida",
+			"nous": "vidâmes",
+			"vous": "vidâtes",
+			"ils/elles": "vidèrent"
+		},
+		"passé composé": {
+			"j'": "ai vidé",
+			"tu": "as vidé",
+			"il/elle": "a vidé",
+			"nous": "avons vidé",
+			"vous": "avez vidé",
+			"ils/elles": "ont vidé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais vidé",
+			"tu": "avais vidé",
+			"il/elle": "avait vidé",
+			"nous": "avions vidé",
+			"vous": "aviez vidé",
+			"ils/elles": "avaient vidé"
+		},
+		"passé antérieur": {
+			"j'": "eus vidé",
+			"tu": "eus vidé",
+			"il/elle": "eut vidé",
+			"nous": "eûmes vidé",
+			"vous": "eûtes vidé",
+			"ils/elles": "eurent vidé"
+		},
+		"futur antérieur": {
+			"j'": "aurai vidé",
+			"tu": "auras vidé",
+			"il/elle": "aura vidé",
+			"nous": "aurons vidé",
+			"vous": "aurez vidé",
+			"ils/elles": "auront vidé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous vidiez",
+			"qu'il/elle": "vide",
+			"qu'ils/elles": "vident"
+		},
+		"imparfait": {
+			"que": "vous vidassiez",
+			"qu'il/elle": "vidât",
+			"qu'ils/elles": "vidassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse vidé",
+			"que": "vous eussiez vidé",
+			"qu'il/elle": "eût vidé",
+			"qu'ils/elles": "eussent vidé"
+		},
+		"passé": {
+			"j'": "aie vidé",
+			"que": "vous ayez vidé",
+			"qu'il/elle": "ait vidé",
+			"qu'ils/elles": "aient vidé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "viderais",
+			"tu": "viderais",
+			"il/elle": "viderait",
+			"nous": "viderions",
+			"vous": "videriez",
+			"ils/elles": "videraient"
+		},
+		"passé première forme": {
+			"j'": "aurais vidé",
+			"tu": "aurais vidé",
+			"il/elle": "aurait vidé",
+			"nous": "aurions vidé",
+			"vous": "auriez vidé",
+			"ils/elles": "auraient vidé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse vidé",
+			"tu": "eusses vidé",
+			"il/elle": "eût vidé",
+			"nous": "eussions vidé",
+			"vous": "eussiez vidé",
+			"ils/elles": "eussent vidé"
+		}
+	},
+	"participe": {
+		"présent": { "vidant": "" },
+		"passé composé": { "ayant": "vidé" },
+		"passé": {
+			"masc.sg.:": "vidé",
+			"masc.pl.:": "vidés",
+			"fém.sg.:": "vidée",
+			"fém.pl.:": "vidées"
+		}
+	},
+	"imperatif": {
+		"présent": { "vide": "", "vidons": "", "videz": "" },
+		"passé": { "aie": "vidé", "ayons": "vidé", "ayez": "vidé" }
+	},
+	"infinitif": { "présent": { "vider": "" }, "passé": { "avoir": "vidé" } }
+}

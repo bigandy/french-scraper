@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "search; go through; dig; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se fouiller/ne pas fouiller/ne pas se fouiller",
+	"indicatif": {
+		"présent": {
+			"je": "fouille",
+			"tu": "fouilles",
+			"il/elle": "fouille",
+			"nous": "fouillons",
+			"vous": "fouillez",
+			"ils/elles": "fouillent"
+		},
+		"imparfait": {
+			"je": "fouillais",
+			"tu": "fouillais",
+			"il/elle": "fouillait",
+			"nous": "fouillions",
+			"vous": "fouilliez",
+			"ils/elles": "fouillaient"
+		},
+		"futur": {
+			"je": "fouillerai",
+			"tu": "fouilleras",
+			"il/elle": "fouillera",
+			"nous": "fouillerons",
+			"vous": "fouillerez",
+			"ils/elles": "fouilleront"
+		},
+		"passé simple": {
+			"je": "fouillai",
+			"tu": "fouillas",
+			"il/elle": "fouilla",
+			"nous": "fouillâmes",
+			"vous": "fouillâtes",
+			"ils/elles": "fouillèrent"
+		},
+		"passé composé": {
+			"j'": "ai fouillé",
+			"tu": "as fouillé",
+			"il/elle": "a fouillé",
+			"nous": "avons fouillé",
+			"vous": "avez fouillé",
+			"ils/elles": "ont fouillé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais fouillé",
+			"tu": "avais fouillé",
+			"il/elle": "avait fouillé",
+			"nous": "avions fouillé",
+			"vous": "aviez fouillé",
+			"ils/elles": "avaient fouillé"
+		},
+		"passé antérieur": {
+			"j'": "eus fouillé",
+			"tu": "eus fouillé",
+			"il/elle": "eut fouillé",
+			"nous": "eûmes fouillé",
+			"vous": "eûtes fouillé",
+			"ils/elles": "eurent fouillé"
+		},
+		"futur antérieur": {
+			"j'": "aurai fouillé",
+			"tu": "auras fouillé",
+			"il/elle": "aura fouillé",
+			"nous": "aurons fouillé",
+			"vous": "aurez fouillé",
+			"ils/elles": "auront fouillé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous fouilliez",
+			"qu'il/elle": "fouille",
+			"qu'ils/elles": "fouillent"
+		},
+		"imparfait": {
+			"que": "vous fouillassiez",
+			"qu'il/elle": "fouillât",
+			"qu'ils/elles": "fouillassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse fouillé",
+			"que": "vous eussiez fouillé",
+			"qu'il/elle": "eût fouillé",
+			"qu'ils/elles": "eussent fouillé"
+		},
+		"passé": {
+			"j'": "aie fouillé",
+			"que": "vous ayez fouillé",
+			"qu'il/elle": "ait fouillé",
+			"qu'ils/elles": "aient fouillé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "fouillerais",
+			"tu": "fouillerais",
+			"il/elle": "fouillerait",
+			"nous": "fouillerions",
+			"vous": "fouilleriez",
+			"ils/elles": "fouilleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais fouillé",
+			"tu": "aurais fouillé",
+			"il/elle": "aurait fouillé",
+			"nous": "aurions fouillé",
+			"vous": "auriez fouillé",
+			"ils/elles": "auraient fouillé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse fouillé",
+			"tu": "eusses fouillé",
+			"il/elle": "eût fouillé",
+			"nous": "eussions fouillé",
+			"vous": "eussiez fouillé",
+			"ils/elles": "eussent fouillé"
+		}
+	},
+	"participe": {
+		"présent": { "fouillant": "" },
+		"passé composé": { "ayant": "fouillé" },
+		"passé": {
+			"masc.sg.:": "fouillé",
+			"masc.pl.:": "fouillés",
+			"fém.sg.:": "fouillée",
+			"fém.pl.:": "fouillées"
+		}
+	},
+	"imperatif": {
+		"présent": { "fouille": "", "fouillons": "", "fouillez": "" },
+		"passé": { "aie": "fouillé", "ayons": "fouillé", "ayez": "fouillé" }
+	},
+	"infinitif": {
+		"présent": { "fouiller": "" },
+		"passé": { "avoir": "fouillé" }
+	}
+}

@@ -1,0 +1,141 @@
+{
+	"name": "finir",
+	"definition": "ensure; guarantee; secure; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se garantir/ne pas garantir/ne pas se garantir",
+	"indicatif": {
+		"présent": {
+			"je": "garantis",
+			"tu": "garantis",
+			"il/elle": "garantit",
+			"nous": "garantissons",
+			"vous": "garantissez",
+			"ils/elles": "garantissent"
+		},
+		"imparfait": {
+			"je": "garantissais",
+			"tu": "garantissais",
+			"il/elle": "garantissait",
+			"nous": "garantissions",
+			"vous": "garantissiez",
+			"ils/elles": "garantissaient"
+		},
+		"futur": {
+			"je": "garantirai",
+			"tu": "garantiras",
+			"il/elle": "garantira",
+			"nous": "garantirons",
+			"vous": "garantirez",
+			"ils/elles": "garantiront"
+		},
+		"passé simple": {
+			"je": "garantis",
+			"tu": "garantis",
+			"il/elle": "garantit",
+			"nous": "garantîmes",
+			"vous": "garantîtes",
+			"ils/elles": "garantirent"
+		},
+		"passé composé": {
+			"j'": "ai garanti",
+			"tu": "as garanti",
+			"il/elle": "a garanti",
+			"nous": "avons garanti",
+			"vous": "avez garanti",
+			"ils/elles": "ont garanti"
+		},
+		"plus-que-parfait": {
+			"j'": "avais garanti",
+			"tu": "avais garanti",
+			"il/elle": "avait garanti",
+			"nous": "avions garanti",
+			"vous": "aviez garanti",
+			"ils/elles": "avaient garanti"
+		},
+		"passé antérieur": {
+			"j'": "eus garanti",
+			"tu": "eus garanti",
+			"il/elle": "eut garanti",
+			"nous": "eûmes garanti",
+			"vous": "eûtes garanti",
+			"ils/elles": "eurent garanti"
+		},
+		"futur antérieur": {
+			"j'": "aurai garanti",
+			"tu": "auras garanti",
+			"il/elle": "aura garanti",
+			"nous": "aurons garanti",
+			"vous": "aurez garanti",
+			"ils/elles": "auront garanti"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous garantissiez",
+			"qu'il/elle": "garantisse",
+			"qu'ils/elles": "garantissent"
+		},
+		"imparfait": {
+			"que": "vous garantissiez",
+			"qu'il/elle": "garantît",
+			"qu'ils/elles": "garantissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse garanti",
+			"que": "vous eussiez garanti",
+			"qu'il/elle": "eût garanti",
+			"qu'ils/elles": "eussent garanti"
+		},
+		"passé": {
+			"j'": "aie garanti",
+			"que": "vous ayez garanti",
+			"qu'il/elle": "ait garanti",
+			"qu'ils/elles": "aient garanti"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "garantirais",
+			"tu": "garantirais",
+			"il/elle": "garantirait",
+			"nous": "garantirions",
+			"vous": "garantiriez",
+			"ils/elles": "garantiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais garanti",
+			"tu": "aurais garanti",
+			"il/elle": "aurait garanti",
+			"nous": "aurions garanti",
+			"vous": "auriez garanti",
+			"ils/elles": "auraient garanti"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse garanti",
+			"tu": "eusses garanti",
+			"il/elle": "eût garanti",
+			"nous": "eussions garanti",
+			"vous": "eussiez garanti",
+			"ils/elles": "eussent garanti"
+		}
+	},
+	"participe": {
+		"présent": { "garantissant": "" },
+		"passé composé": { "ayant": "garanti" },
+		"passé": {
+			"masc.sg.:": "garanti",
+			"masc.pl.:": "garantis",
+			"fém.sg.:": "garantie",
+			"fém.pl.:": "garanties"
+		}
+	},
+	"imperatif": {
+		"présent": { "garantis": "", "garantissons": "", "garantissez": "" },
+		"passé": { "aie": "garanti", "ayons": "garanti", "ayez": "garanti" }
+	},
+	"infinitif": {
+		"présent": { "garantir": "" },
+		"passé": { "avoir": "garanti" }
+	}
+}

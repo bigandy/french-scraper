@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "delay; retard; postpone; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se retarder/ne pas retarder/ne pas se retarder",
+	"indicatif": {
+		"présent": {
+			"je": "retarde",
+			"tu": "retardes",
+			"il/elle": "retarde",
+			"nous": "retardons",
+			"vous": "retardez",
+			"ils/elles": "retardent"
+		},
+		"imparfait": {
+			"je": "retardais",
+			"tu": "retardais",
+			"il/elle": "retardait",
+			"nous": "retardions",
+			"vous": "retardiez",
+			"ils/elles": "retardaient"
+		},
+		"futur": {
+			"je": "retarderai",
+			"tu": "retarderas",
+			"il/elle": "retardera",
+			"nous": "retarderons",
+			"vous": "retarderez",
+			"ils/elles": "retarderont"
+		},
+		"passé simple": {
+			"je": "retardai",
+			"tu": "retardas",
+			"il/elle": "retarda",
+			"nous": "retardâmes",
+			"vous": "retardâtes",
+			"ils/elles": "retardèrent"
+		},
+		"passé composé": {
+			"j'": "ai retardé",
+			"tu": "as retardé",
+			"il/elle": "a retardé",
+			"nous": "avons retardé",
+			"vous": "avez retardé",
+			"ils/elles": "ont retardé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais retardé",
+			"tu": "avais retardé",
+			"il/elle": "avait retardé",
+			"nous": "avions retardé",
+			"vous": "aviez retardé",
+			"ils/elles": "avaient retardé"
+		},
+		"passé antérieur": {
+			"j'": "eus retardé",
+			"tu": "eus retardé",
+			"il/elle": "eut retardé",
+			"nous": "eûmes retardé",
+			"vous": "eûtes retardé",
+			"ils/elles": "eurent retardé"
+		},
+		"futur antérieur": {
+			"j'": "aurai retardé",
+			"tu": "auras retardé",
+			"il/elle": "aura retardé",
+			"nous": "aurons retardé",
+			"vous": "aurez retardé",
+			"ils/elles": "auront retardé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous retardiez",
+			"qu'il/elle": "retarde",
+			"qu'ils/elles": "retardent"
+		},
+		"imparfait": {
+			"que": "vous retardassiez",
+			"qu'il/elle": "retardât",
+			"qu'ils/elles": "retardassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse retardé",
+			"que": "vous eussiez retardé",
+			"qu'il/elle": "eût retardé",
+			"qu'ils/elles": "eussent retardé"
+		},
+		"passé": {
+			"j'": "aie retardé",
+			"que": "vous ayez retardé",
+			"qu'il/elle": "ait retardé",
+			"qu'ils/elles": "aient retardé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "retarderais",
+			"tu": "retarderais",
+			"il/elle": "retarderait",
+			"nous": "retarderions",
+			"vous": "retarderiez",
+			"ils/elles": "retarderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais retardé",
+			"tu": "aurais retardé",
+			"il/elle": "aurait retardé",
+			"nous": "aurions retardé",
+			"vous": "auriez retardé",
+			"ils/elles": "auraient retardé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse retardé",
+			"tu": "eusses retardé",
+			"il/elle": "eût retardé",
+			"nous": "eussions retardé",
+			"vous": "eussiez retardé",
+			"ils/elles": "eussent retardé"
+		}
+	},
+	"participe": {
+		"présent": { "retardant": "" },
+		"passé composé": { "ayant": "retardé" },
+		"passé": {
+			"masc.sg.:": "retardé",
+			"masc.pl.:": "retardés",
+			"fém.sg.:": "retardée",
+			"fém.pl.:": "retardées"
+		}
+	},
+	"imperatif": {
+		"présent": { "retarde": "", "retardons": "", "retardez": "" },
+		"passé": { "aie": "retardé", "ayons": "retardé", "ayez": "retardé" }
+	},
+	"infinitif": {
+		"présent": { "retarder": "" },
+		"passé": { "avoir": "retardé" }
+	}
+}

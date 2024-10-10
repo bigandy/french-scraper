@@ -1,0 +1,141 @@
+{
+	"name": "commencer",
+	"definition": "give up; renounce; waive; ...",
+	"model": "commencer",
+	"auxiliary": "avoir",
+	"otherForms": "se renoncer/ne pas renoncer/ne pas se renoncer",
+	"indicatif": {
+		"présent": {
+			"je": "renonce",
+			"tu": "renonces",
+			"il/elle": "renonce",
+			"nous": "renonçons",
+			"vous": "renoncez",
+			"ils/elles": "renoncent"
+		},
+		"imparfait": {
+			"je": "renonçais",
+			"tu": "renonçais",
+			"il/elle": "renonçait",
+			"nous": "renoncions",
+			"vous": "renonciez",
+			"ils/elles": "renonçaient"
+		},
+		"futur": {
+			"je": "renoncerai",
+			"tu": "renonceras",
+			"il/elle": "renoncera",
+			"nous": "renoncerons",
+			"vous": "renoncerez",
+			"ils/elles": "renonceront"
+		},
+		"passé simple": {
+			"je": "renonçai",
+			"tu": "renonças",
+			"il/elle": "renonça",
+			"nous": "renonçâmes",
+			"vous": "renonçâtes",
+			"ils/elles": "renoncèrent"
+		},
+		"passé composé": {
+			"j'": "ai renoncé",
+			"tu": "as renoncé",
+			"il/elle": "a renoncé",
+			"nous": "avons renoncé",
+			"vous": "avez renoncé",
+			"ils/elles": "ont renoncé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais renoncé",
+			"tu": "avais renoncé",
+			"il/elle": "avait renoncé",
+			"nous": "avions renoncé",
+			"vous": "aviez renoncé",
+			"ils/elles": "avaient renoncé"
+		},
+		"passé antérieur": {
+			"j'": "eus renoncé",
+			"tu": "eus renoncé",
+			"il/elle": "eut renoncé",
+			"nous": "eûmes renoncé",
+			"vous": "eûtes renoncé",
+			"ils/elles": "eurent renoncé"
+		},
+		"futur antérieur": {
+			"j'": "aurai renoncé",
+			"tu": "auras renoncé",
+			"il/elle": "aura renoncé",
+			"nous": "aurons renoncé",
+			"vous": "aurez renoncé",
+			"ils/elles": "auront renoncé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous renonciez",
+			"qu'il/elle": "renonce",
+			"qu'ils/elles": "renoncent"
+		},
+		"imparfait": {
+			"que": "vous renonçassiez",
+			"qu'il/elle": "renonçât",
+			"qu'ils/elles": "renonçassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse renoncé",
+			"que": "vous eussiez renoncé",
+			"qu'il/elle": "eût renoncé",
+			"qu'ils/elles": "eussent renoncé"
+		},
+		"passé": {
+			"j'": "aie renoncé",
+			"que": "vous ayez renoncé",
+			"qu'il/elle": "ait renoncé",
+			"qu'ils/elles": "aient renoncé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "renoncerais",
+			"tu": "renoncerais",
+			"il/elle": "renoncerait",
+			"nous": "renoncerions",
+			"vous": "renonceriez",
+			"ils/elles": "renonceraient"
+		},
+		"passé première forme": {
+			"j'": "aurais renoncé",
+			"tu": "aurais renoncé",
+			"il/elle": "aurait renoncé",
+			"nous": "aurions renoncé",
+			"vous": "auriez renoncé",
+			"ils/elles": "auraient renoncé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse renoncé",
+			"tu": "eusses renoncé",
+			"il/elle": "eût renoncé",
+			"nous": "eussions renoncé",
+			"vous": "eussiez renoncé",
+			"ils/elles": "eussent renoncé"
+		}
+	},
+	"participe": {
+		"présent": { "renonçant": "" },
+		"passé composé": { "ayant": "renoncé" },
+		"passé": {
+			"masc.sg.:": "renoncé",
+			"masc.pl.:": "renoncés",
+			"fém.sg.:": "renoncée",
+			"fém.pl.:": "renoncées"
+		}
+	},
+	"imperatif": {
+		"présent": { "renonce": "", "renonçons": "", "renoncez": "" },
+		"passé": { "aie": "renoncé", "ayons": "renoncé", "ayez": "renoncé" }
+	},
+	"infinitif": {
+		"présent": { "renoncer": "" },
+		"passé": { "avoir": "renoncé" }
+	}
+}

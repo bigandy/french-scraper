@@ -1,0 +1,196 @@
+{
+	"name": "finir",
+	"definition": "land; end up; wind up; ...",
+	"model": "finir",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "ne pas atterrir",
+	"indicatif": {
+		"présent": {
+			"j'": "atterris",
+			"tu": "atterris",
+			"il/elle": "atterrit",
+			"nous": "atterrissons",
+			"vous": "atterrissez",
+			"ils/elles": "atterrissent"
+		},
+		"imparfait": {
+			"j'": "atterrissais",
+			"tu": "atterrissais",
+			"il/elle": "atterrissait",
+			"nous": "atterrissions",
+			"vous": "atterrissiez",
+			"ils/elles": "atterrissaient"
+		},
+		"futur": {
+			"j'": "atterrirai",
+			"tu": "atterriras",
+			"il/elle": "atterrira",
+			"nous": "atterrirons",
+			"vous": "atterrirez",
+			"ils/elles": "atterriront"
+		},
+		"passé simple": {
+			"j'": "atterris",
+			"tu": "atterris",
+			"il/elle": "atterrit",
+			"nous": "atterrîmes",
+			"vous": "atterrîtes",
+			"ils/elles": "atterrirent"
+		},
+		"passé composé": {
+			"j'": "ai atterri",
+			"tu": "es atterri",
+			"il/elle": "a atterri",
+			"nous": "sommes atterris",
+			"vous": "êtes atterris",
+			"ils/elles": "ont atterri",
+			"": "",
+			"je": "suis atterri",
+			"il": "est atterri",
+			"elle": "est atterrie",
+			"ils": "sont atterris",
+			"elles": "sont atterries"
+		},
+		"plus-que-parfait": {
+			"j'": "étais atterri",
+			"tu": "étais atterri",
+			"il/elle": "avait atterri",
+			"nous": "étions atterris",
+			"vous": "étiez atterris",
+			"ils/elles": "avaient atterri",
+			"": "",
+			"il": "était atterri",
+			"elle": "était atterrie",
+			"ils": "étaient atterris",
+			"elles": "étaient atterries"
+		},
+		"passé antérieur": {
+			"j'": "eus atterri",
+			"tu": "fus atterri",
+			"il/elle": "eut atterri",
+			"nous": "fûmes atterris",
+			"vous": "fûtes atterris",
+			"ils/elles": "eurent atterri",
+			"": "",
+			"je": "fus atterri",
+			"il": "fut atterri",
+			"elle": "fut atterrie",
+			"ils": "furent atterris",
+			"elles": "furent atterries"
+		},
+		"futur antérieur": {
+			"j'": "aurai atterri",
+			"tu": "seras atterri",
+			"il/elle": "aura atterri",
+			"nous": "serons atterris",
+			"vous": "serez atterris",
+			"ils/elles": "auront atterri",
+			"": "",
+			"je": "serai atterri",
+			"il": "sera atterri",
+			"elle": "sera atterrie",
+			"ils": "seront atterris",
+			"elles": "seront atterries"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "atterrisse",
+			"que": "vous atterrissiez",
+			"qu'il/elle": "atterrisse",
+			"qu'ils/elles": "atterrissent"
+		},
+		"imparfait": {
+			"j'": "atterrisse",
+			"que": "vous atterrissiez",
+			"qu'il/elle": "atterrît",
+			"qu'ils/elles": "atterrissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse atterri",
+			"que": "vous fussiez atterris",
+			"qu'il/elle": "eût atterri",
+			"qu'ils/elles": "eussent atterri",
+			"": "",
+			"qu'il": "fût atterri",
+			"qu'elle": "fût atterrie",
+			"qu'ils": "fussent atterris",
+			"qu'elles": "fussent atterries"
+		},
+		"passé": {
+			"j'": "aie atterri",
+			"que": "vous soyez atterris",
+			"qu'il/elle": "ait atterri",
+			"qu'ils/elles": "aient atterri",
+			"": "",
+			"qu'il": "soit atterri",
+			"qu'elle": "soit atterrie",
+			"qu'ils": "soient atterris",
+			"qu'elles": "soient atterries"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "atterrirais",
+			"tu": "atterrirais",
+			"il/elle": "atterrirait",
+			"nous": "atterririons",
+			"vous": "atterririez",
+			"ils/elles": "atterriraient"
+		},
+		"passé première forme": {
+			"j'": "aurais atterri",
+			"tu": "serais atterri",
+			"il/elle": "aurait atterri",
+			"nous": "serions atterris",
+			"vous": "seriez atterris",
+			"ils/elles": "auraient atterri",
+			"": "",
+			"je": "serais atterri",
+			"il": "serait atterri",
+			"elle": "serait atterrie",
+			"ils": "seraient atterris",
+			"elles": "seraient atterries"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse atterri",
+			"tu": "fusses atterri",
+			"il/elle": "eût atterri",
+			"nous": "fussions atterris",
+			"vous": "fussiez atterris",
+			"ils/elles": "eussent atterri",
+			"": "",
+			"je": "fusse atterri",
+			"il": "fût atterri",
+			"elle": "fût atterrie",
+			"ils": "fussent atterris",
+			"elles": "fussent atterries"
+		}
+	},
+	"participe": {
+		"présent": { "atterrissant": "" },
+		"passé composé": { "ayant": "atterri", "": "", "étant": "atterrie" },
+		"passé": {
+			"masc.sg.:": "atterri",
+			"masc.pl.:": "atterris",
+			"fém.sg.:": "atterrie",
+			"fém.pl.:": "atterries"
+		}
+	},
+	"imperatif": {
+		"présent": { "atterris": "", "atterrissons": "", "atterrissez": "" },
+		"passé": {
+			"aie": "atterri",
+			"ayons": "atterri",
+			"ayez": "atterri",
+			"": "",
+			"sois": "atterri",
+			"soyons": "atterri",
+			"soyez": "atterri"
+		}
+	},
+	"infinitif": {
+		"présent": { "atterrir": "" },
+		"passé": { "avoir": "atterri", "": "", "être": "atterri" }
+	}
+}

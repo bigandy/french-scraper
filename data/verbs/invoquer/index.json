@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "invoke; summon; rely on; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'invoquer/ne pas invoquer/ne pas s'invoquer",
+	"indicatif": {
+		"présent": {
+			"j'": "invoque",
+			"tu": "invoques",
+			"il/elle": "invoque",
+			"nous": "invoquons",
+			"vous": "invoquez",
+			"ils/elles": "invoquent"
+		},
+		"imparfait": {
+			"j'": "invoquais",
+			"tu": "invoquais",
+			"il/elle": "invoquait",
+			"nous": "invoquions",
+			"vous": "invoquiez",
+			"ils/elles": "invoquaient"
+		},
+		"futur": {
+			"j'": "invoquerai",
+			"tu": "invoqueras",
+			"il/elle": "invoquera",
+			"nous": "invoquerons",
+			"vous": "invoquerez",
+			"ils/elles": "invoqueront"
+		},
+		"passé simple": {
+			"j'": "invoquai",
+			"tu": "invoquas",
+			"il/elle": "invoqua",
+			"nous": "invoquâmes",
+			"vous": "invoquâtes",
+			"ils/elles": "invoquèrent"
+		},
+		"passé composé": {
+			"j'": "ai invoqué",
+			"tu": "as invoqué",
+			"il/elle": "a invoqué",
+			"nous": "avons invoqué",
+			"vous": "avez invoqué",
+			"ils/elles": "ont invoqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais invoqué",
+			"tu": "avais invoqué",
+			"il/elle": "avait invoqué",
+			"nous": "avions invoqué",
+			"vous": "aviez invoqué",
+			"ils/elles": "avaient invoqué"
+		},
+		"passé antérieur": {
+			"j'": "eus invoqué",
+			"tu": "eus invoqué",
+			"il/elle": "eut invoqué",
+			"nous": "eûmes invoqué",
+			"vous": "eûtes invoqué",
+			"ils/elles": "eurent invoqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai invoqué",
+			"tu": "auras invoqué",
+			"il/elle": "aura invoqué",
+			"nous": "aurons invoqué",
+			"vous": "aurez invoqué",
+			"ils/elles": "auront invoqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "invoque",
+			"que": "vous invoquiez",
+			"qu'il/elle": "invoque",
+			"qu'ils/elles": "invoquent"
+		},
+		"imparfait": {
+			"j'": "invoquasse",
+			"que": "vous invoquassiez",
+			"qu'il/elle": "invoquât",
+			"qu'ils/elles": "invoquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse invoqué",
+			"que": "vous eussiez invoqué",
+			"qu'il/elle": "eût invoqué",
+			"qu'ils/elles": "eussent invoqué"
+		},
+		"passé": {
+			"j'": "aie invoqué",
+			"que": "vous ayez invoqué",
+			"qu'il/elle": "ait invoqué",
+			"qu'ils/elles": "aient invoqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "invoquerais",
+			"tu": "invoquerais",
+			"il/elle": "invoquerait",
+			"nous": "invoquerions",
+			"vous": "invoqueriez",
+			"ils/elles": "invoqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais invoqué",
+			"tu": "aurais invoqué",
+			"il/elle": "aurait invoqué",
+			"nous": "aurions invoqué",
+			"vous": "auriez invoqué",
+			"ils/elles": "auraient invoqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse invoqué",
+			"tu": "eusses invoqué",
+			"il/elle": "eût invoqué",
+			"nous": "eussions invoqué",
+			"vous": "eussiez invoqué",
+			"ils/elles": "eussent invoqué"
+		}
+	},
+	"participe": {
+		"présent": { "invoquant": "" },
+		"passé composé": { "ayant": "invoqué" },
+		"passé": {
+			"masc.sg.:": "invoqué",
+			"masc.pl.:": "invoqués",
+			"fém.sg.:": "invoquée",
+			"fém.pl.:": "invoquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "invoque": "", "invoquons": "", "invoquez": "" },
+		"passé": { "aie": "invoqué", "ayons": "invoqué", "ayez": "invoqué" }
+	},
+	"infinitif": {
+		"présent": { "invoquer": "" },
+		"passé": { "avoir": "invoqué" }
+	}
+}

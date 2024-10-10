@@ -1,0 +1,145 @@
+{
+	"name": "vouloir",
+	"definition": "want to; want; wish; ...",
+	"model": "vouloir",
+	"auxiliary": "avoir",
+	"otherForms": "se vouloir/ne pas vouloir/ne pas se vouloir",
+	"indicatif": {
+		"présent": {
+			"je": "veux",
+			"tu": "veux",
+			"il/elle": "veut",
+			"nous": "voulons",
+			"vous": "voulez",
+			"ils/elles": "veulent"
+		},
+		"imparfait": {
+			"je": "voulais",
+			"tu": "voulais",
+			"il/elle": "voulait",
+			"nous": "voulions",
+			"vous": "vouliez",
+			"ils/elles": "voulaient"
+		},
+		"futur": {
+			"je": "voudrai",
+			"tu": "voudras",
+			"il/elle": "voudra",
+			"nous": "voudrons",
+			"vous": "voudrez",
+			"ils/elles": "voudront"
+		},
+		"passé simple": {
+			"je": "voulus",
+			"tu": "voulus",
+			"il/elle": "voulut",
+			"nous": "voulûmes",
+			"vous": "voulûtes",
+			"ils/elles": "voulurent"
+		},
+		"passé composé": {
+			"j'": "ai voulu",
+			"tu": "as voulu",
+			"il/elle": "a voulu",
+			"nous": "avons voulu",
+			"vous": "avez voulu",
+			"ils/elles": "ont voulu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais voulu",
+			"tu": "avais voulu",
+			"il/elle": "avait voulu",
+			"nous": "avions voulu",
+			"vous": "aviez voulu",
+			"ils/elles": "avaient voulu"
+		},
+		"passé antérieur": {
+			"j'": "eus voulu",
+			"tu": "eus voulu",
+			"il/elle": "eut voulu",
+			"nous": "eûmes voulu",
+			"vous": "eûtes voulu",
+			"ils/elles": "eurent voulu"
+		},
+		"futur antérieur": {
+			"j'": "aurai voulu",
+			"tu": "auras voulu",
+			"il/elle": "aura voulu",
+			"nous": "aurons voulu",
+			"vous": "aurez voulu",
+			"ils/elles": "auront voulu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous vouliez",
+			"qu'il/elle": "veuille",
+			"qu'ils/elles": "veuillent"
+		},
+		"imparfait": {
+			"que": "vous voulussiez",
+			"qu'il/elle": "voulût",
+			"qu'ils/elles": "voulussent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse voulu",
+			"que": "vous eussiez voulu",
+			"qu'il/elle": "eût voulu",
+			"qu'ils/elles": "eussent voulu"
+		},
+		"passé": {
+			"j'": "aie voulu",
+			"que": "vous ayez voulu",
+			"qu'il/elle": "ait voulu",
+			"qu'ils/elles": "aient voulu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "voudrais",
+			"tu": "voudrais",
+			"il/elle": "voudrait",
+			"nous": "voudrions",
+			"vous": "voudriez",
+			"ils/elles": "voudraient"
+		},
+		"passé première forme": {
+			"j'": "aurais voulu",
+			"tu": "aurais voulu",
+			"il/elle": "aurait voulu",
+			"nous": "aurions voulu",
+			"vous": "auriez voulu",
+			"ils/elles": "auraient voulu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse voulu",
+			"tu": "eusses voulu",
+			"il/elle": "eût voulu",
+			"nous": "eussions voulu",
+			"vous": "eussiez voulu",
+			"ils/elles": "eussent voulu"
+		}
+	},
+	"participe": {
+		"présent": { "voulant": "" },
+		"passé composé": { "ayant": "voulu" },
+		"passé": {
+			"masc.sg.:": "voulu",
+			"masc.pl.:": "voulus",
+			"fém.sg.:": "voulue",
+			"fém.pl.:": "voulues"
+		}
+	},
+	"imperatif": {
+		"présent": {
+			"veux": "",
+			"voulons": "",
+			"voulez": "",
+			"": "",
+			"veuille": "",
+			"veuillez": ""
+		},
+		"passé": { "aie": "voulu", "ayons": "voulu", "ayez": "voulu" }
+	},
+	"infinitif": { "présent": { "vouloir": "" }, "passé": { "avoir": "voulu" } }
+}

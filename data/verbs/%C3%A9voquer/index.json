@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "mention; refer to; evoke; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'évoquer/ne pas évoquer/ne pas s'évoquer",
+	"indicatif": {
+		"présent": {
+			"j'": "évoque",
+			"tu": "évoques",
+			"il/elle": "évoque",
+			"nous": "évoquons",
+			"vous": "évoquez",
+			"ils/elles": "évoquent"
+		},
+		"imparfait": {
+			"j'": "évoquais",
+			"tu": "évoquais",
+			"il/elle": "évoquait",
+			"nous": "évoquions",
+			"vous": "évoquiez",
+			"ils/elles": "évoquaient"
+		},
+		"futur": {
+			"j'": "évoquerai",
+			"tu": "évoqueras",
+			"il/elle": "évoquera",
+			"nous": "évoquerons",
+			"vous": "évoquerez",
+			"ils/elles": "évoqueront"
+		},
+		"passé simple": {
+			"j'": "évoquai",
+			"tu": "évoquas",
+			"il/elle": "évoqua",
+			"nous": "évoquâmes",
+			"vous": "évoquâtes",
+			"ils/elles": "évoquèrent"
+		},
+		"passé composé": {
+			"j'": "ai évoqué",
+			"tu": "as évoqué",
+			"il/elle": "a évoqué",
+			"nous": "avons évoqué",
+			"vous": "avez évoqué",
+			"ils/elles": "ont évoqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais évoqué",
+			"tu": "avais évoqué",
+			"il/elle": "avait évoqué",
+			"nous": "avions évoqué",
+			"vous": "aviez évoqué",
+			"ils/elles": "avaient évoqué"
+		},
+		"passé antérieur": {
+			"j'": "eus évoqué",
+			"tu": "eus évoqué",
+			"il/elle": "eut évoqué",
+			"nous": "eûmes évoqué",
+			"vous": "eûtes évoqué",
+			"ils/elles": "eurent évoqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai évoqué",
+			"tu": "auras évoqué",
+			"il/elle": "aura évoqué",
+			"nous": "aurons évoqué",
+			"vous": "aurez évoqué",
+			"ils/elles": "auront évoqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "évoque",
+			"que": "vous évoquiez",
+			"qu'il/elle": "évoque",
+			"qu'ils/elles": "évoquent"
+		},
+		"imparfait": {
+			"j'": "évoquasse",
+			"que": "vous évoquassiez",
+			"qu'il/elle": "évoquât",
+			"qu'ils/elles": "évoquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse évoqué",
+			"que": "vous eussiez évoqué",
+			"qu'il/elle": "eût évoqué",
+			"qu'ils/elles": "eussent évoqué"
+		},
+		"passé": {
+			"j'": "aie évoqué",
+			"que": "vous ayez évoqué",
+			"qu'il/elle": "ait évoqué",
+			"qu'ils/elles": "aient évoqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "évoquerais",
+			"tu": "évoquerais",
+			"il/elle": "évoquerait",
+			"nous": "évoquerions",
+			"vous": "évoqueriez",
+			"ils/elles": "évoqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais évoqué",
+			"tu": "aurais évoqué",
+			"il/elle": "aurait évoqué",
+			"nous": "aurions évoqué",
+			"vous": "auriez évoqué",
+			"ils/elles": "auraient évoqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse évoqué",
+			"tu": "eusses évoqué",
+			"il/elle": "eût évoqué",
+			"nous": "eussions évoqué",
+			"vous": "eussiez évoqué",
+			"ils/elles": "eussent évoqué"
+		}
+	},
+	"participe": {
+		"présent": { "évoquant": "" },
+		"passé composé": { "ayant": "évoqué" },
+		"passé": {
+			"masc.sg.:": "évoqué",
+			"masc.pl.:": "évoqués",
+			"fém.sg.:": "évoquée",
+			"fém.pl.:": "évoquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "évoque": "", "évoquons": "", "évoquez": "" },
+		"passé": { "aie": "évoqué", "ayons": "évoqué", "ayez": "évoqué" }
+	},
+	"infinitif": { "présent": { "évoquer": "" }, "passé": { "avoir": "évoqué" } }
+}

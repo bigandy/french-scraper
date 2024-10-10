@@ -1,0 +1,155 @@
+{
+	"name": "aller",
+	"definition": "",
+	"model": "aller",
+	"auxiliary": "être",
+	"otherForms": "ne pas sur-aller",
+	"indicatif": {
+		"présent": {
+			"je": "sur-vais",
+			"tu": "sur-vas",
+			"il/elle": "sur-va",
+			"nous": "sur-allons",
+			"vous": "sur-allez",
+			"ils/elles": "sur-vont"
+		},
+		"imparfait": {
+			"je": "sur-allais",
+			"tu": "sur-allais",
+			"il/elle": "sur-allait",
+			"nous": "sur-allions",
+			"vous": "sur-alliez",
+			"ils/elles": "sur-allaient"
+		},
+		"futur": {
+			"je": "sur-irai",
+			"tu": "sur-iras",
+			"il/elle": "sur-ira",
+			"nous": "sur-irons",
+			"vous": "sur-irez",
+			"ils/elles": "sur-iront"
+		},
+		"passé simple": {
+			"je": "sur-allai",
+			"tu": "sur-allas",
+			"il/elle": "sur-alla",
+			"nous": "sur-allâmes",
+			"vous": "sur-allâtes",
+			"ils/elles": "sur-allèrent"
+		},
+		"passé composé": {
+			"je": "suis sur-allé",
+			"tu": "es sur-allé",
+			"il": "est sur-allé",
+			"elle": "est sur-allée",
+			"nous": "sommes sur-allés",
+			"vous": "êtes sur-allés",
+			"ils": "sont sur-allés",
+			"elles": "sont sur-allées"
+		},
+		"plus-que-parfait": {
+			"j'": "étais sur-allé",
+			"tu": "étais sur-allé",
+			"il": "était sur-allé",
+			"elle": "était sur-allée",
+			"nous": "étions sur-allés",
+			"vous": "étiez sur-allés",
+			"ils": "étaient sur-allés",
+			"elles": "étaient sur-allées"
+		},
+		"passé antérieur": {
+			"je": "fus sur-allé",
+			"tu": "fus sur-allé",
+			"il": "fut sur-allé",
+			"elle": "fut sur-allée",
+			"nous": "fûmes sur-allés",
+			"vous": "fûtes sur-allés",
+			"ils": "furent sur-allés",
+			"elles": "furent sur-allées"
+		},
+		"futur antérieur": {
+			"je": "serai sur-allé",
+			"tu": "seras sur-allé",
+			"il": "sera sur-allé",
+			"elle": "sera sur-allée",
+			"nous": "serons sur-allés",
+			"vous": "serez sur-allés",
+			"ils": "seront sur-allés",
+			"elles": "seront sur-allées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous sur-alliez",
+			"qu'il/elle": "sur-aille",
+			"qu'ils/elles": "sur-aillent"
+		},
+		"imparfait": {
+			"que": "vous sur-allassiez",
+			"qu'il/elle": "sur-allât",
+			"qu'ils/elles": "sur-allassent"
+		},
+		"plus-que-parfait": {
+			"que": "vous fussiez sur-allés",
+			"qu'il": "fût sur-allé",
+			"qu'elle": "fût sur-allée",
+			"qu'ils": "fussent sur-allés",
+			"qu'elles": "fussent sur-allées"
+		},
+		"passé": {
+			"que": "vous soyez sur-allés",
+			"qu'il": "soit sur-allé",
+			"qu'elle": "soit sur-allée",
+			"qu'ils": "soient sur-allés",
+			"qu'elles": "soient sur-allées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "sur-irais",
+			"tu": "sur-irais",
+			"il/elle": "sur-irait",
+			"nous": "sur-irions",
+			"vous": "sur-iriez",
+			"ils/elles": "sur-iraient"
+		},
+		"passé première forme": {
+			"je": "serais sur-allé",
+			"tu": "serais sur-allé",
+			"il": "serait sur-allé",
+			"elle": "serait sur-allée",
+			"nous": "serions sur-allés",
+			"vous": "seriez sur-allés",
+			"ils": "seraient sur-allés",
+			"elles": "seraient sur-allées"
+		},
+		"passé deuxième forme": {
+			"je": "fusse sur-allé",
+			"tu": "fusses sur-allé",
+			"il": "fût sur-allé",
+			"elle": "fût sur-allée",
+			"nous": "fussions sur-allés",
+			"vous": "fussiez sur-allés",
+			"ils": "fussent sur-allés",
+			"elles": "fussent sur-allées"
+		}
+	},
+	"participe": {
+		"présent": { "sur-allant": "" },
+		"passé composé": { "étant": "sur-allée" },
+		"passé": {
+			"masc.sg.:": "sur-allé",
+			"masc.pl.:": "sur-allés",
+			"fém.sg.:": "sur-allée",
+			"fém.pl.:": "sur-allées"
+		}
+	},
+	"imperatif": {
+		"présent": { "sur-va": "", "sur-allons": "", "sur-allez": "" },
+		"passé": { "sois": "sur-allé", "soyons": "sur-allé", "soyez": "sur-allé" }
+	},
+	"infinitif": {
+		"présent": { "sur-aller": "" },
+		"passé": { "être": "sur-allé" }
+	}
+}

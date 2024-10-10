@@ -1,0 +1,138 @@
+{
+	"name": "finir",
+	"definition": "define; set; identify; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se définir/ne pas définir/ne pas se définir",
+	"indicatif": {
+		"présent": {
+			"je": "définis",
+			"tu": "définis",
+			"il/elle": "définit",
+			"nous": "définissons",
+			"vous": "définissez",
+			"ils/elles": "définissent"
+		},
+		"imparfait": {
+			"je": "définissais",
+			"tu": "définissais",
+			"il/elle": "définissait",
+			"nous": "définissions",
+			"vous": "définissiez",
+			"ils/elles": "définissaient"
+		},
+		"futur": {
+			"je": "définirai",
+			"tu": "définiras",
+			"il/elle": "définira",
+			"nous": "définirons",
+			"vous": "définirez",
+			"ils/elles": "définiront"
+		},
+		"passé simple": {
+			"je": "définis",
+			"tu": "définis",
+			"il/elle": "définit",
+			"nous": "définîmes",
+			"vous": "définîtes",
+			"ils/elles": "définirent"
+		},
+		"passé composé": {
+			"j'": "ai défini",
+			"tu": "as défini",
+			"il/elle": "a défini",
+			"nous": "avons défini",
+			"vous": "avez défini",
+			"ils/elles": "ont défini"
+		},
+		"plus-que-parfait": {
+			"j'": "avais défini",
+			"tu": "avais défini",
+			"il/elle": "avait défini",
+			"nous": "avions défini",
+			"vous": "aviez défini",
+			"ils/elles": "avaient défini"
+		},
+		"passé antérieur": {
+			"j'": "eus défini",
+			"tu": "eus défini",
+			"il/elle": "eut défini",
+			"nous": "eûmes défini",
+			"vous": "eûtes défini",
+			"ils/elles": "eurent défini"
+		},
+		"futur antérieur": {
+			"j'": "aurai défini",
+			"tu": "auras défini",
+			"il/elle": "aura défini",
+			"nous": "aurons défini",
+			"vous": "aurez défini",
+			"ils/elles": "auront défini"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous définissiez",
+			"qu'il/elle": "définisse",
+			"qu'ils/elles": "définissent"
+		},
+		"imparfait": {
+			"que": "vous définissiez",
+			"qu'il/elle": "définît",
+			"qu'ils/elles": "définissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse défini",
+			"que": "vous eussiez défini",
+			"qu'il/elle": "eût défini",
+			"qu'ils/elles": "eussent défini"
+		},
+		"passé": {
+			"j'": "aie défini",
+			"que": "vous ayez défini",
+			"qu'il/elle": "ait défini",
+			"qu'ils/elles": "aient défini"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "définirais",
+			"tu": "définirais",
+			"il/elle": "définirait",
+			"nous": "définirions",
+			"vous": "définiriez",
+			"ils/elles": "définiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais défini",
+			"tu": "aurais défini",
+			"il/elle": "aurait défini",
+			"nous": "aurions défini",
+			"vous": "auriez défini",
+			"ils/elles": "auraient défini"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse défini",
+			"tu": "eusses défini",
+			"il/elle": "eût défini",
+			"nous": "eussions défini",
+			"vous": "eussiez défini",
+			"ils/elles": "eussent défini"
+		}
+	},
+	"participe": {
+		"présent": { "définissant": "" },
+		"passé composé": { "ayant": "défini" },
+		"passé": {
+			"masc.sg.:": "défini",
+			"masc.pl.:": "définis",
+			"fém.sg.:": "définie",
+			"fém.pl.:": "définies"
+		}
+	},
+	"imperatif": {
+		"présent": { "définis": "", "définissons": "", "définissez": "" },
+		"passé": { "aie": "défini", "ayons": "défini", "ayez": "défini" }
+	},
+	"infinitif": { "présent": { "définir": "" }, "passé": { "avoir": "défini" } }
+}

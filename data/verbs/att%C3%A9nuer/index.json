@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "mitigate; alleviate; reduce; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'atténuer/ne pas atténuer/ne pas s'atténuer",
+	"indicatif": {
+		"présent": {
+			"j'": "atténue",
+			"tu": "atténues",
+			"il/elle": "atténue",
+			"nous": "atténuons",
+			"vous": "atténuez",
+			"ils/elles": "atténuent"
+		},
+		"imparfait": {
+			"j'": "atténuais",
+			"tu": "atténuais",
+			"il/elle": "atténuait",
+			"nous": "atténuions",
+			"vous": "atténuiez",
+			"ils/elles": "atténuaient"
+		},
+		"futur": {
+			"j'": "atténuerai",
+			"tu": "atténueras",
+			"il/elle": "atténuera",
+			"nous": "atténuerons",
+			"vous": "atténuerez",
+			"ils/elles": "atténueront"
+		},
+		"passé simple": {
+			"j'": "atténuai",
+			"tu": "atténuas",
+			"il/elle": "atténua",
+			"nous": "atténuâmes",
+			"vous": "atténuâtes",
+			"ils/elles": "atténuèrent"
+		},
+		"passé composé": {
+			"j'": "ai atténué",
+			"tu": "as atténué",
+			"il/elle": "a atténué",
+			"nous": "avons atténué",
+			"vous": "avez atténué",
+			"ils/elles": "ont atténué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais atténué",
+			"tu": "avais atténué",
+			"il/elle": "avait atténué",
+			"nous": "avions atténué",
+			"vous": "aviez atténué",
+			"ils/elles": "avaient atténué"
+		},
+		"passé antérieur": {
+			"j'": "eus atténué",
+			"tu": "eus atténué",
+			"il/elle": "eut atténué",
+			"nous": "eûmes atténué",
+			"vous": "eûtes atténué",
+			"ils/elles": "eurent atténué"
+		},
+		"futur antérieur": {
+			"j'": "aurai atténué",
+			"tu": "auras atténué",
+			"il/elle": "aura atténué",
+			"nous": "aurons atténué",
+			"vous": "aurez atténué",
+			"ils/elles": "auront atténué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "atténue",
+			"que": "vous atténuiez",
+			"qu'il/elle": "atténue",
+			"qu'ils/elles": "atténuent"
+		},
+		"imparfait": {
+			"j'": "atténuasse",
+			"que": "vous atténuassiez",
+			"qu'il/elle": "atténuât",
+			"qu'ils/elles": "atténuassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse atténué",
+			"que": "vous eussiez atténué",
+			"qu'il/elle": "eût atténué",
+			"qu'ils/elles": "eussent atténué"
+		},
+		"passé": {
+			"j'": "aie atténué",
+			"que": "vous ayez atténué",
+			"qu'il/elle": "ait atténué",
+			"qu'ils/elles": "aient atténué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "atténuerais",
+			"tu": "atténuerais",
+			"il/elle": "atténuerait",
+			"nous": "atténuerions",
+			"vous": "atténueriez",
+			"ils/elles": "atténueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais atténué",
+			"tu": "aurais atténué",
+			"il/elle": "aurait atténué",
+			"nous": "aurions atténué",
+			"vous": "auriez atténué",
+			"ils/elles": "auraient atténué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse atténué",
+			"tu": "eusses atténué",
+			"il/elle": "eût atténué",
+			"nous": "eussions atténué",
+			"vous": "eussiez atténué",
+			"ils/elles": "eussent atténué"
+		}
+	},
+	"participe": {
+		"présent": { "atténuant": "" },
+		"passé composé": { "ayant": "atténué" },
+		"passé": {
+			"masc.sg.:": "atténué",
+			"masc.pl.:": "atténués",
+			"fém.sg.:": "atténuée",
+			"fém.pl.:": "atténuées"
+		}
+	},
+	"imperatif": {
+		"présent": { "atténue": "", "atténuons": "", "atténuez": "" },
+		"passé": { "aie": "atténué", "ayons": "atténué", "ayez": "atténué" }
+	},
+	"infinitif": {
+		"présent": { "atténuer": "" },
+		"passé": { "avoir": "atténué" }
+	}
+}

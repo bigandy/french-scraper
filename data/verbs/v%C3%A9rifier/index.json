@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "check; verify; ensure; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se vérifier/ne pas vérifier/ne pas se vérifier",
+	"indicatif": {
+		"présent": {
+			"je": "vérifie",
+			"tu": "vérifies",
+			"il/elle": "vérifie",
+			"nous": "vérifions",
+			"vous": "vérifiez",
+			"ils/elles": "vérifient"
+		},
+		"imparfait": {
+			"je": "vérifiais",
+			"tu": "vérifiais",
+			"il/elle": "vérifiait",
+			"nous": "vérifiions",
+			"vous": "vérifiiez",
+			"ils/elles": "vérifiaient"
+		},
+		"futur": {
+			"je": "vérifierai",
+			"tu": "vérifieras",
+			"il/elle": "vérifiera",
+			"nous": "vérifierons",
+			"vous": "vérifierez",
+			"ils/elles": "vérifieront"
+		},
+		"passé simple": {
+			"je": "vérifiai",
+			"tu": "vérifias",
+			"il/elle": "vérifia",
+			"nous": "vérifiâmes",
+			"vous": "vérifiâtes",
+			"ils/elles": "vérifièrent"
+		},
+		"passé composé": {
+			"j'": "ai vérifié",
+			"tu": "as vérifié",
+			"il/elle": "a vérifié",
+			"nous": "avons vérifié",
+			"vous": "avez vérifié",
+			"ils/elles": "ont vérifié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais vérifié",
+			"tu": "avais vérifié",
+			"il/elle": "avait vérifié",
+			"nous": "avions vérifié",
+			"vous": "aviez vérifié",
+			"ils/elles": "avaient vérifié"
+		},
+		"passé antérieur": {
+			"j'": "eus vérifié",
+			"tu": "eus vérifié",
+			"il/elle": "eut vérifié",
+			"nous": "eûmes vérifié",
+			"vous": "eûtes vérifié",
+			"ils/elles": "eurent vérifié"
+		},
+		"futur antérieur": {
+			"j'": "aurai vérifié",
+			"tu": "auras vérifié",
+			"il/elle": "aura vérifié",
+			"nous": "aurons vérifié",
+			"vous": "aurez vérifié",
+			"ils/elles": "auront vérifié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous vérifiiez",
+			"qu'il/elle": "vérifie",
+			"qu'ils/elles": "vérifient"
+		},
+		"imparfait": {
+			"que": "vous vérifiassiez",
+			"qu'il/elle": "vérifiât",
+			"qu'ils/elles": "vérifiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse vérifié",
+			"que": "vous eussiez vérifié",
+			"qu'il/elle": "eût vérifié",
+			"qu'ils/elles": "eussent vérifié"
+		},
+		"passé": {
+			"j'": "aie vérifié",
+			"que": "vous ayez vérifié",
+			"qu'il/elle": "ait vérifié",
+			"qu'ils/elles": "aient vérifié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "vérifierais",
+			"tu": "vérifierais",
+			"il/elle": "vérifierait",
+			"nous": "vérifierions",
+			"vous": "vérifieriez",
+			"ils/elles": "vérifieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais vérifié",
+			"tu": "aurais vérifié",
+			"il/elle": "aurait vérifié",
+			"nous": "aurions vérifié",
+			"vous": "auriez vérifié",
+			"ils/elles": "auraient vérifié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse vérifié",
+			"tu": "eusses vérifié",
+			"il/elle": "eût vérifié",
+			"nous": "eussions vérifié",
+			"vous": "eussiez vérifié",
+			"ils/elles": "eussent vérifié"
+		}
+	},
+	"participe": {
+		"présent": { "vérifiant": "" },
+		"passé composé": { "ayant": "vérifié" },
+		"passé": {
+			"masc.sg.:": "vérifié",
+			"masc.pl.:": "vérifiés",
+			"fém.sg.:": "vérifiée",
+			"fém.pl.:": "vérifiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "vérifie": "", "vérifions": "", "vérifiez": "" },
+		"passé": { "aie": "vérifié", "ayons": "vérifié", "ayez": "vérifié" }
+	},
+	"infinitif": {
+		"présent": { "vérifier": "" },
+		"passé": { "avoir": "vérifié" }
+	}
+}

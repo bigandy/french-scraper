@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "start; begin; commence; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se débuter/ne pas débuter/ne pas se débuter",
+	"indicatif": {
+		"présent": {
+			"je": "débute",
+			"tu": "débutes",
+			"il/elle": "débute",
+			"nous": "débutons",
+			"vous": "débutez",
+			"ils/elles": "débutent"
+		},
+		"imparfait": {
+			"je": "débutais",
+			"tu": "débutais",
+			"il/elle": "débutait",
+			"nous": "débutions",
+			"vous": "débutiez",
+			"ils/elles": "débutaient"
+		},
+		"futur": {
+			"je": "débuterai",
+			"tu": "débuteras",
+			"il/elle": "débutera",
+			"nous": "débuterons",
+			"vous": "débuterez",
+			"ils/elles": "débuteront"
+		},
+		"passé simple": {
+			"je": "débutai",
+			"tu": "débutas",
+			"il/elle": "débuta",
+			"nous": "débutâmes",
+			"vous": "débutâtes",
+			"ils/elles": "débutèrent"
+		},
+		"passé composé": {
+			"j'": "ai débuté",
+			"tu": "as débuté",
+			"il/elle": "a débuté",
+			"nous": "avons débuté",
+			"vous": "avez débuté",
+			"ils/elles": "ont débuté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais débuté",
+			"tu": "avais débuté",
+			"il/elle": "avait débuté",
+			"nous": "avions débuté",
+			"vous": "aviez débuté",
+			"ils/elles": "avaient débuté"
+		},
+		"passé antérieur": {
+			"j'": "eus débuté",
+			"tu": "eus débuté",
+			"il/elle": "eut débuté",
+			"nous": "eûmes débuté",
+			"vous": "eûtes débuté",
+			"ils/elles": "eurent débuté"
+		},
+		"futur antérieur": {
+			"j'": "aurai débuté",
+			"tu": "auras débuté",
+			"il/elle": "aura débuté",
+			"nous": "aurons débuté",
+			"vous": "aurez débuté",
+			"ils/elles": "auront débuté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous débutiez",
+			"qu'il/elle": "débute",
+			"qu'ils/elles": "débutent"
+		},
+		"imparfait": {
+			"que": "vous débutassiez",
+			"qu'il/elle": "débutât",
+			"qu'ils/elles": "débutassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse débuté",
+			"que": "vous eussiez débuté",
+			"qu'il/elle": "eût débuté",
+			"qu'ils/elles": "eussent débuté"
+		},
+		"passé": {
+			"j'": "aie débuté",
+			"que": "vous ayez débuté",
+			"qu'il/elle": "ait débuté",
+			"qu'ils/elles": "aient débuté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "débuterais",
+			"tu": "débuterais",
+			"il/elle": "débuterait",
+			"nous": "débuterions",
+			"vous": "débuteriez",
+			"ils/elles": "débuteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais débuté",
+			"tu": "aurais débuté",
+			"il/elle": "aurait débuté",
+			"nous": "aurions débuté",
+			"vous": "auriez débuté",
+			"ils/elles": "auraient débuté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse débuté",
+			"tu": "eusses débuté",
+			"il/elle": "eût débuté",
+			"nous": "eussions débuté",
+			"vous": "eussiez débuté",
+			"ils/elles": "eussent débuté"
+		}
+	},
+	"participe": {
+		"présent": { "débutant": "" },
+		"passé composé": { "ayant": "débuté" },
+		"passé": {
+			"masc.sg.:": "débuté",
+			"masc.pl.:": "débutés",
+			"fém.sg.:": "débutée",
+			"fém.pl.:": "débutées"
+		}
+	},
+	"imperatif": {
+		"présent": { "débute": "", "débutons": "", "débutez": "" },
+		"passé": { "aie": "débuté", "ayons": "débuté", "ayez": "débuté" }
+	},
+	"infinitif": { "présent": { "débuter": "" }, "passé": { "avoir": "débuté" } }
+}

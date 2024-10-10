@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "constitute; form; provide; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se constituer/ne pas constituer/ne pas se constituer",
+	"indicatif": {
+		"présent": {
+			"je": "constitue",
+			"tu": "constitues",
+			"il/elle": "constitue",
+			"nous": "constituons",
+			"vous": "constituez",
+			"ils/elles": "constituent"
+		},
+		"imparfait": {
+			"je": "constituais",
+			"tu": "constituais",
+			"il/elle": "constituait",
+			"nous": "constituions",
+			"vous": "constituiez",
+			"ils/elles": "constituaient"
+		},
+		"futur": {
+			"je": "constituerai",
+			"tu": "constitueras",
+			"il/elle": "constituera",
+			"nous": "constituerons",
+			"vous": "constituerez",
+			"ils/elles": "constitueront"
+		},
+		"passé simple": {
+			"je": "constituai",
+			"tu": "constituas",
+			"il/elle": "constitua",
+			"nous": "constituâmes",
+			"vous": "constituâtes",
+			"ils/elles": "constituèrent"
+		},
+		"passé composé": {
+			"j'": "ai constitué",
+			"tu": "as constitué",
+			"il/elle": "a constitué",
+			"nous": "avons constitué",
+			"vous": "avez constitué",
+			"ils/elles": "ont constitué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais constitué",
+			"tu": "avais constitué",
+			"il/elle": "avait constitué",
+			"nous": "avions constitué",
+			"vous": "aviez constitué",
+			"ils/elles": "avaient constitué"
+		},
+		"passé antérieur": {
+			"j'": "eus constitué",
+			"tu": "eus constitué",
+			"il/elle": "eut constitué",
+			"nous": "eûmes constitué",
+			"vous": "eûtes constitué",
+			"ils/elles": "eurent constitué"
+		},
+		"futur antérieur": {
+			"j'": "aurai constitué",
+			"tu": "auras constitué",
+			"il/elle": "aura constitué",
+			"nous": "aurons constitué",
+			"vous": "aurez constitué",
+			"ils/elles": "auront constitué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous constituiez",
+			"qu'il/elle": "constitue",
+			"qu'ils/elles": "constituent"
+		},
+		"imparfait": {
+			"que": "vous constituassiez",
+			"qu'il/elle": "constituât",
+			"qu'ils/elles": "constituassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse constitué",
+			"que": "vous eussiez constitué",
+			"qu'il/elle": "eût constitué",
+			"qu'ils/elles": "eussent constitué"
+		},
+		"passé": {
+			"j'": "aie constitué",
+			"que": "vous ayez constitué",
+			"qu'il/elle": "ait constitué",
+			"qu'ils/elles": "aient constitué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "constituerais",
+			"tu": "constituerais",
+			"il/elle": "constituerait",
+			"nous": "constituerions",
+			"vous": "constitueriez",
+			"ils/elles": "constitueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais constitué",
+			"tu": "aurais constitué",
+			"il/elle": "aurait constitué",
+			"nous": "aurions constitué",
+			"vous": "auriez constitué",
+			"ils/elles": "auraient constitué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse constitué",
+			"tu": "eusses constitué",
+			"il/elle": "eût constitué",
+			"nous": "eussions constitué",
+			"vous": "eussiez constitué",
+			"ils/elles": "eussent constitué"
+		}
+	},
+	"participe": {
+		"présent": { "constituant": "" },
+		"passé composé": { "ayant": "constitué" },
+		"passé": {
+			"masc.sg.:": "constitué",
+			"masc.pl.:": "constitués",
+			"fém.sg.:": "constituée",
+			"fém.pl.:": "constituées"
+		}
+	},
+	"imperatif": {
+		"présent": { "constitue": "", "constituons": "", "constituez": "" },
+		"passé": { "aie": "constitué", "ayons": "constitué", "ayez": "constitué" }
+	},
+	"infinitif": {
+		"présent": { "constituer": "" },
+		"passé": { "avoir": "constitué" }
+	}
+}

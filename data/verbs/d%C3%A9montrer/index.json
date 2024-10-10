@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "demonstrate; show; prove; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se démontrer/ne pas démontrer/ne pas se démontrer",
+	"indicatif": {
+		"présent": {
+			"je": "démontre",
+			"tu": "démontres",
+			"il/elle": "démontre",
+			"nous": "démontrons",
+			"vous": "démontrez",
+			"ils/elles": "démontrent"
+		},
+		"imparfait": {
+			"je": "démontrais",
+			"tu": "démontrais",
+			"il/elle": "démontrait",
+			"nous": "démontrions",
+			"vous": "démontriez",
+			"ils/elles": "démontraient"
+		},
+		"futur": {
+			"je": "démontrerai",
+			"tu": "démontreras",
+			"il/elle": "démontrera",
+			"nous": "démontrerons",
+			"vous": "démontrerez",
+			"ils/elles": "démontreront"
+		},
+		"passé simple": {
+			"je": "démontrai",
+			"tu": "démontras",
+			"il/elle": "démontra",
+			"nous": "démontrâmes",
+			"vous": "démontrâtes",
+			"ils/elles": "démontrèrent"
+		},
+		"passé composé": {
+			"j'": "ai démontré",
+			"tu": "as démontré",
+			"il/elle": "a démontré",
+			"nous": "avons démontré",
+			"vous": "avez démontré",
+			"ils/elles": "ont démontré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais démontré",
+			"tu": "avais démontré",
+			"il/elle": "avait démontré",
+			"nous": "avions démontré",
+			"vous": "aviez démontré",
+			"ils/elles": "avaient démontré"
+		},
+		"passé antérieur": {
+			"j'": "eus démontré",
+			"tu": "eus démontré",
+			"il/elle": "eut démontré",
+			"nous": "eûmes démontré",
+			"vous": "eûtes démontré",
+			"ils/elles": "eurent démontré"
+		},
+		"futur antérieur": {
+			"j'": "aurai démontré",
+			"tu": "auras démontré",
+			"il/elle": "aura démontré",
+			"nous": "aurons démontré",
+			"vous": "aurez démontré",
+			"ils/elles": "auront démontré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous démontriez",
+			"qu'il/elle": "démontre",
+			"qu'ils/elles": "démontrent"
+		},
+		"imparfait": {
+			"que": "vous démontrassiez",
+			"qu'il/elle": "démontrât",
+			"qu'ils/elles": "démontrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse démontré",
+			"que": "vous eussiez démontré",
+			"qu'il/elle": "eût démontré",
+			"qu'ils/elles": "eussent démontré"
+		},
+		"passé": {
+			"j'": "aie démontré",
+			"que": "vous ayez démontré",
+			"qu'il/elle": "ait démontré",
+			"qu'ils/elles": "aient démontré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "démontrerais",
+			"tu": "démontrerais",
+			"il/elle": "démontrerait",
+			"nous": "démontrerions",
+			"vous": "démontreriez",
+			"ils/elles": "démontreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais démontré",
+			"tu": "aurais démontré",
+			"il/elle": "aurait démontré",
+			"nous": "aurions démontré",
+			"vous": "auriez démontré",
+			"ils/elles": "auraient démontré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse démontré",
+			"tu": "eusses démontré",
+			"il/elle": "eût démontré",
+			"nous": "eussions démontré",
+			"vous": "eussiez démontré",
+			"ils/elles": "eussent démontré"
+		}
+	},
+	"participe": {
+		"présent": { "démontrant": "" },
+		"passé composé": { "ayant": "démontré" },
+		"passé": {
+			"masc.sg.:": "démontré",
+			"masc.pl.:": "démontrés",
+			"fém.sg.:": "démontrée",
+			"fém.pl.:": "démontrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "démontre": "", "démontrons": "", "démontrez": "" },
+		"passé": { "aie": "démontré", "ayons": "démontré", "ayez": "démontré" }
+	},
+	"infinitif": {
+		"présent": { "démontrer": "" },
+		"passé": { "avoir": "démontré" }
+	}
+}

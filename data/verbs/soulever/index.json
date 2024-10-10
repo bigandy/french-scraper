@@ -1,0 +1,141 @@
+{
+	"name": "lever",
+	"definition": "raise; lift; bring up; ...",
+	"model": "lever",
+	"auxiliary": "avoir",
+	"otherForms": "se soulever/ne pas soulever/ne pas se soulever",
+	"indicatif": {
+		"présent": {
+			"je": "soulève",
+			"tu": "soulèves",
+			"il/elle": "soulève",
+			"nous": "soulevons",
+			"vous": "soulevez",
+			"ils/elles": "soulèvent"
+		},
+		"imparfait": {
+			"je": "soulevais",
+			"tu": "soulevais",
+			"il/elle": "soulevait",
+			"nous": "soulevions",
+			"vous": "souleviez",
+			"ils/elles": "soulevaient"
+		},
+		"futur": {
+			"je": "soulèverai",
+			"tu": "soulèveras",
+			"il/elle": "soulèvera",
+			"nous": "soulèverons",
+			"vous": "soulèverez",
+			"ils/elles": "soulèveront"
+		},
+		"passé simple": {
+			"je": "soulevai",
+			"tu": "soulevas",
+			"il/elle": "souleva",
+			"nous": "soulevâmes",
+			"vous": "soulevâtes",
+			"ils/elles": "soulevèrent"
+		},
+		"passé composé": {
+			"j'": "ai soulevé",
+			"tu": "as soulevé",
+			"il/elle": "a soulevé",
+			"nous": "avons soulevé",
+			"vous": "avez soulevé",
+			"ils/elles": "ont soulevé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais soulevé",
+			"tu": "avais soulevé",
+			"il/elle": "avait soulevé",
+			"nous": "avions soulevé",
+			"vous": "aviez soulevé",
+			"ils/elles": "avaient soulevé"
+		},
+		"passé antérieur": {
+			"j'": "eus soulevé",
+			"tu": "eus soulevé",
+			"il/elle": "eut soulevé",
+			"nous": "eûmes soulevé",
+			"vous": "eûtes soulevé",
+			"ils/elles": "eurent soulevé"
+		},
+		"futur antérieur": {
+			"j'": "aurai soulevé",
+			"tu": "auras soulevé",
+			"il/elle": "aura soulevé",
+			"nous": "aurons soulevé",
+			"vous": "aurez soulevé",
+			"ils/elles": "auront soulevé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous souleviez",
+			"qu'il/elle": "soulève",
+			"qu'ils/elles": "soulèvent"
+		},
+		"imparfait": {
+			"que": "vous soulevassiez",
+			"qu'il/elle": "soulevât",
+			"qu'ils/elles": "soulevassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse soulevé",
+			"que": "vous eussiez soulevé",
+			"qu'il/elle": "eût soulevé",
+			"qu'ils/elles": "eussent soulevé"
+		},
+		"passé": {
+			"j'": "aie soulevé",
+			"que": "vous ayez soulevé",
+			"qu'il/elle": "ait soulevé",
+			"qu'ils/elles": "aient soulevé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "soulèverais",
+			"tu": "soulèverais",
+			"il/elle": "soulèverait",
+			"nous": "soulèverions",
+			"vous": "soulèveriez",
+			"ils/elles": "soulèveraient"
+		},
+		"passé première forme": {
+			"j'": "aurais soulevé",
+			"tu": "aurais soulevé",
+			"il/elle": "aurait soulevé",
+			"nous": "aurions soulevé",
+			"vous": "auriez soulevé",
+			"ils/elles": "auraient soulevé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse soulevé",
+			"tu": "eusses soulevé",
+			"il/elle": "eût soulevé",
+			"nous": "eussions soulevé",
+			"vous": "eussiez soulevé",
+			"ils/elles": "eussent soulevé"
+		}
+	},
+	"participe": {
+		"présent": { "soulevant": "" },
+		"passé composé": { "ayant": "soulevé" },
+		"passé": {
+			"masc.sg.:": "soulevé",
+			"masc.pl.:": "soulevés",
+			"fém.sg.:": "soulevée",
+			"fém.pl.:": "soulevées"
+		}
+	},
+	"imperatif": {
+		"présent": { "soulève": "", "soulevons": "", "soulevez": "" },
+		"passé": { "aie": "soulevé", "ayons": "soulevé", "ayez": "soulevé" }
+	},
+	"infinitif": {
+		"présent": { "soulever": "" },
+		"passé": { "avoir": "soulevé" }
+	}
+}

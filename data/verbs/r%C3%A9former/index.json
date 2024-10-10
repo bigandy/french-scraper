@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "reform; overhaul; revamp; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se réformer/ne pas réformer/ne pas se réformer",
+	"indicatif": {
+		"présent": {
+			"je": "réforme",
+			"tu": "réformes",
+			"il/elle": "réforme",
+			"nous": "réformons",
+			"vous": "réformez",
+			"ils/elles": "réforment"
+		},
+		"imparfait": {
+			"je": "réformais",
+			"tu": "réformais",
+			"il/elle": "réformait",
+			"nous": "réformions",
+			"vous": "réformiez",
+			"ils/elles": "réformaient"
+		},
+		"futur": {
+			"je": "réformerai",
+			"tu": "réformeras",
+			"il/elle": "réformera",
+			"nous": "réformerons",
+			"vous": "réformerez",
+			"ils/elles": "réformeront"
+		},
+		"passé simple": {
+			"je": "réformai",
+			"tu": "réformas",
+			"il/elle": "réforma",
+			"nous": "réformâmes",
+			"vous": "réformâtes",
+			"ils/elles": "réformèrent"
+		},
+		"passé composé": {
+			"j'": "ai réformé",
+			"tu": "as réformé",
+			"il/elle": "a réformé",
+			"nous": "avons réformé",
+			"vous": "avez réformé",
+			"ils/elles": "ont réformé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais réformé",
+			"tu": "avais réformé",
+			"il/elle": "avait réformé",
+			"nous": "avions réformé",
+			"vous": "aviez réformé",
+			"ils/elles": "avaient réformé"
+		},
+		"passé antérieur": {
+			"j'": "eus réformé",
+			"tu": "eus réformé",
+			"il/elle": "eut réformé",
+			"nous": "eûmes réformé",
+			"vous": "eûtes réformé",
+			"ils/elles": "eurent réformé"
+		},
+		"futur antérieur": {
+			"j'": "aurai réformé",
+			"tu": "auras réformé",
+			"il/elle": "aura réformé",
+			"nous": "aurons réformé",
+			"vous": "aurez réformé",
+			"ils/elles": "auront réformé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous réformiez",
+			"qu'il/elle": "réforme",
+			"qu'ils/elles": "réforment"
+		},
+		"imparfait": {
+			"que": "vous réformassiez",
+			"qu'il/elle": "réformât",
+			"qu'ils/elles": "réformassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse réformé",
+			"que": "vous eussiez réformé",
+			"qu'il/elle": "eût réformé",
+			"qu'ils/elles": "eussent réformé"
+		},
+		"passé": {
+			"j'": "aie réformé",
+			"que": "vous ayez réformé",
+			"qu'il/elle": "ait réformé",
+			"qu'ils/elles": "aient réformé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "réformerais",
+			"tu": "réformerais",
+			"il/elle": "réformerait",
+			"nous": "réformerions",
+			"vous": "réformeriez",
+			"ils/elles": "réformeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais réformé",
+			"tu": "aurais réformé",
+			"il/elle": "aurait réformé",
+			"nous": "aurions réformé",
+			"vous": "auriez réformé",
+			"ils/elles": "auraient réformé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse réformé",
+			"tu": "eusses réformé",
+			"il/elle": "eût réformé",
+			"nous": "eussions réformé",
+			"vous": "eussiez réformé",
+			"ils/elles": "eussent réformé"
+		}
+	},
+	"participe": {
+		"présent": { "réformant": "" },
+		"passé composé": { "ayant": "réformé" },
+		"passé": {
+			"masc.sg.:": "réformé",
+			"masc.pl.:": "réformés",
+			"fém.sg.:": "réformée",
+			"fém.pl.:": "réformées"
+		}
+	},
+	"imperatif": {
+		"présent": { "réforme": "", "réformons": "", "réformez": "" },
+		"passé": { "aie": "réformé", "ayons": "réformé", "ayez": "réformé" }
+	},
+	"infinitif": {
+		"présent": { "réformer": "" },
+		"passé": { "avoir": "réformé" }
+	}
+}

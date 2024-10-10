@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "deflect; divert; deviate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se dévier/ne pas dévier/ne pas se dévier",
+	"indicatif": {
+		"présent": {
+			"je": "dévie",
+			"tu": "dévies",
+			"il/elle": "dévie",
+			"nous": "dévions",
+			"vous": "déviez",
+			"ils/elles": "dévient"
+		},
+		"imparfait": {
+			"je": "déviais",
+			"tu": "déviais",
+			"il/elle": "déviait",
+			"nous": "déviions",
+			"vous": "déviiez",
+			"ils/elles": "déviaient"
+		},
+		"futur": {
+			"je": "dévierai",
+			"tu": "dévieras",
+			"il/elle": "déviera",
+			"nous": "dévierons",
+			"vous": "dévierez",
+			"ils/elles": "dévieront"
+		},
+		"passé simple": {
+			"je": "déviai",
+			"tu": "dévias",
+			"il/elle": "dévia",
+			"nous": "déviâmes",
+			"vous": "déviâtes",
+			"ils/elles": "dévièrent"
+		},
+		"passé composé": {
+			"j'": "ai dévié",
+			"tu": "as dévié",
+			"il/elle": "a dévié",
+			"nous": "avons dévié",
+			"vous": "avez dévié",
+			"ils/elles": "ont dévié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais dévié",
+			"tu": "avais dévié",
+			"il/elle": "avait dévié",
+			"nous": "avions dévié",
+			"vous": "aviez dévié",
+			"ils/elles": "avaient dévié"
+		},
+		"passé antérieur": {
+			"j'": "eus dévié",
+			"tu": "eus dévié",
+			"il/elle": "eut dévié",
+			"nous": "eûmes dévié",
+			"vous": "eûtes dévié",
+			"ils/elles": "eurent dévié"
+		},
+		"futur antérieur": {
+			"j'": "aurai dévié",
+			"tu": "auras dévié",
+			"il/elle": "aura dévié",
+			"nous": "aurons dévié",
+			"vous": "aurez dévié",
+			"ils/elles": "auront dévié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous déviiez",
+			"qu'il/elle": "dévie",
+			"qu'ils/elles": "dévient"
+		},
+		"imparfait": {
+			"que": "vous déviassiez",
+			"qu'il/elle": "déviât",
+			"qu'ils/elles": "déviassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse dévié",
+			"que": "vous eussiez dévié",
+			"qu'il/elle": "eût dévié",
+			"qu'ils/elles": "eussent dévié"
+		},
+		"passé": {
+			"j'": "aie dévié",
+			"que": "vous ayez dévié",
+			"qu'il/elle": "ait dévié",
+			"qu'ils/elles": "aient dévié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "dévierais",
+			"tu": "dévierais",
+			"il/elle": "dévierait",
+			"nous": "dévierions",
+			"vous": "dévieriez",
+			"ils/elles": "dévieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais dévié",
+			"tu": "aurais dévié",
+			"il/elle": "aurait dévié",
+			"nous": "aurions dévié",
+			"vous": "auriez dévié",
+			"ils/elles": "auraient dévié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse dévié",
+			"tu": "eusses dévié",
+			"il/elle": "eût dévié",
+			"nous": "eussions dévié",
+			"vous": "eussiez dévié",
+			"ils/elles": "eussent dévié"
+		}
+	},
+	"participe": {
+		"présent": { "déviant": "" },
+		"passé composé": { "ayant": "dévié" },
+		"passé": {
+			"masc.sg.:": "dévié",
+			"masc.pl.:": "déviés",
+			"fém.sg.:": "déviée",
+			"fém.pl.:": "déviées"
+		}
+	},
+	"imperatif": {
+		"présent": { "dévie": "", "dévions": "", "déviez": "" },
+		"passé": { "aie": "dévié", "ayons": "dévié", "ayez": "dévié" }
+	},
+	"infinitif": { "présent": { "dévier": "" }, "passé": { "avoir": "dévié" } }
+}

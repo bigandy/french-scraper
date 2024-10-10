@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "attach; tie; fasten; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'attacher/ne pas attacher/ne pas s'attacher",
+	"indicatif": {
+		"présent": {
+			"j'": "attache",
+			"tu": "attaches",
+			"il/elle": "attache",
+			"nous": "attachons",
+			"vous": "attachez",
+			"ils/elles": "attachent"
+		},
+		"imparfait": {
+			"j'": "attachais",
+			"tu": "attachais",
+			"il/elle": "attachait",
+			"nous": "attachions",
+			"vous": "attachiez",
+			"ils/elles": "attachaient"
+		},
+		"futur": {
+			"j'": "attacherai",
+			"tu": "attacheras",
+			"il/elle": "attachera",
+			"nous": "attacherons",
+			"vous": "attacherez",
+			"ils/elles": "attacheront"
+		},
+		"passé simple": {
+			"j'": "attachai",
+			"tu": "attachas",
+			"il/elle": "attacha",
+			"nous": "attachâmes",
+			"vous": "attachâtes",
+			"ils/elles": "attachèrent"
+		},
+		"passé composé": {
+			"j'": "ai attaché",
+			"tu": "as attaché",
+			"il/elle": "a attaché",
+			"nous": "avons attaché",
+			"vous": "avez attaché",
+			"ils/elles": "ont attaché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais attaché",
+			"tu": "avais attaché",
+			"il/elle": "avait attaché",
+			"nous": "avions attaché",
+			"vous": "aviez attaché",
+			"ils/elles": "avaient attaché"
+		},
+		"passé antérieur": {
+			"j'": "eus attaché",
+			"tu": "eus attaché",
+			"il/elle": "eut attaché",
+			"nous": "eûmes attaché",
+			"vous": "eûtes attaché",
+			"ils/elles": "eurent attaché"
+		},
+		"futur antérieur": {
+			"j'": "aurai attaché",
+			"tu": "auras attaché",
+			"il/elle": "aura attaché",
+			"nous": "aurons attaché",
+			"vous": "aurez attaché",
+			"ils/elles": "auront attaché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "attache",
+			"que": "vous attachiez",
+			"qu'il/elle": "attache",
+			"qu'ils/elles": "attachent"
+		},
+		"imparfait": {
+			"j'": "attachasse",
+			"que": "vous attachassiez",
+			"qu'il/elle": "attachât",
+			"qu'ils/elles": "attachassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse attaché",
+			"que": "vous eussiez attaché",
+			"qu'il/elle": "eût attaché",
+			"qu'ils/elles": "eussent attaché"
+		},
+		"passé": {
+			"j'": "aie attaché",
+			"que": "vous ayez attaché",
+			"qu'il/elle": "ait attaché",
+			"qu'ils/elles": "aient attaché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "attacherais",
+			"tu": "attacherais",
+			"il/elle": "attacherait",
+			"nous": "attacherions",
+			"vous": "attacheriez",
+			"ils/elles": "attacheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais attaché",
+			"tu": "aurais attaché",
+			"il/elle": "aurait attaché",
+			"nous": "aurions attaché",
+			"vous": "auriez attaché",
+			"ils/elles": "auraient attaché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse attaché",
+			"tu": "eusses attaché",
+			"il/elle": "eût attaché",
+			"nous": "eussions attaché",
+			"vous": "eussiez attaché",
+			"ils/elles": "eussent attaché"
+		}
+	},
+	"participe": {
+		"présent": { "attachant": "" },
+		"passé composé": { "ayant": "attaché" },
+		"passé": {
+			"masc.sg.:": "attaché",
+			"masc.pl.:": "attachés",
+			"fém.sg.:": "attachée",
+			"fém.pl.:": "attachées"
+		}
+	},
+	"imperatif": {
+		"présent": { "attache": "", "attachons": "", "attachez": "" },
+		"passé": { "aie": "attaché", "ayons": "attaché", "ayez": "attaché" }
+	},
+	"infinitif": {
+		"présent": { "attacher": "" },
+		"passé": { "avoir": "attaché" }
+	}
+}

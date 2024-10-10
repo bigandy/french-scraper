@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "evacuate; discharge; remove; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'évacuer/ne pas évacuer/ne pas s'évacuer",
+	"indicatif": {
+		"présent": {
+			"j'": "évacue",
+			"tu": "évacues",
+			"il/elle": "évacue",
+			"nous": "évacuons",
+			"vous": "évacuez",
+			"ils/elles": "évacuent"
+		},
+		"imparfait": {
+			"j'": "évacuais",
+			"tu": "évacuais",
+			"il/elle": "évacuait",
+			"nous": "évacuions",
+			"vous": "évacuiez",
+			"ils/elles": "évacuaient"
+		},
+		"futur": {
+			"j'": "évacuerai",
+			"tu": "évacueras",
+			"il/elle": "évacuera",
+			"nous": "évacuerons",
+			"vous": "évacuerez",
+			"ils/elles": "évacueront"
+		},
+		"passé simple": {
+			"j'": "évacuai",
+			"tu": "évacuas",
+			"il/elle": "évacua",
+			"nous": "évacuâmes",
+			"vous": "évacuâtes",
+			"ils/elles": "évacuèrent"
+		},
+		"passé composé": {
+			"j'": "ai évacué",
+			"tu": "as évacué",
+			"il/elle": "a évacué",
+			"nous": "avons évacué",
+			"vous": "avez évacué",
+			"ils/elles": "ont évacué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais évacué",
+			"tu": "avais évacué",
+			"il/elle": "avait évacué",
+			"nous": "avions évacué",
+			"vous": "aviez évacué",
+			"ils/elles": "avaient évacué"
+		},
+		"passé antérieur": {
+			"j'": "eus évacué",
+			"tu": "eus évacué",
+			"il/elle": "eut évacué",
+			"nous": "eûmes évacué",
+			"vous": "eûtes évacué",
+			"ils/elles": "eurent évacué"
+		},
+		"futur antérieur": {
+			"j'": "aurai évacué",
+			"tu": "auras évacué",
+			"il/elle": "aura évacué",
+			"nous": "aurons évacué",
+			"vous": "aurez évacué",
+			"ils/elles": "auront évacué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "évacue",
+			"que": "vous évacuiez",
+			"qu'il/elle": "évacue",
+			"qu'ils/elles": "évacuent"
+		},
+		"imparfait": {
+			"j'": "évacuasse",
+			"que": "vous évacuassiez",
+			"qu'il/elle": "évacuât",
+			"qu'ils/elles": "évacuassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse évacué",
+			"que": "vous eussiez évacué",
+			"qu'il/elle": "eût évacué",
+			"qu'ils/elles": "eussent évacué"
+		},
+		"passé": {
+			"j'": "aie évacué",
+			"que": "vous ayez évacué",
+			"qu'il/elle": "ait évacué",
+			"qu'ils/elles": "aient évacué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "évacuerais",
+			"tu": "évacuerais",
+			"il/elle": "évacuerait",
+			"nous": "évacuerions",
+			"vous": "évacueriez",
+			"ils/elles": "évacueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais évacué",
+			"tu": "aurais évacué",
+			"il/elle": "aurait évacué",
+			"nous": "aurions évacué",
+			"vous": "auriez évacué",
+			"ils/elles": "auraient évacué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse évacué",
+			"tu": "eusses évacué",
+			"il/elle": "eût évacué",
+			"nous": "eussions évacué",
+			"vous": "eussiez évacué",
+			"ils/elles": "eussent évacué"
+		}
+	},
+	"participe": {
+		"présent": { "évacuant": "" },
+		"passé composé": { "ayant": "évacué" },
+		"passé": {
+			"masc.sg.:": "évacué",
+			"masc.pl.:": "évacués",
+			"fém.sg.:": "évacuée",
+			"fém.pl.:": "évacuées"
+		}
+	},
+	"imperatif": {
+		"présent": { "évacue": "", "évacuons": "", "évacuez": "" },
+		"passé": { "aie": "évacué", "ayons": "évacué", "ayez": "évacué" }
+	},
+	"infinitif": { "présent": { "évacuer": "" }, "passé": { "avoir": "évacué" } }
+}

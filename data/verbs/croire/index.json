@@ -1,0 +1,138 @@
+{
+	"name": "croire",
+	"definition": "believe; think; trust; ...",
+	"model": "croire",
+	"auxiliary": "avoir",
+	"otherForms": "se croire/ne pas croire/ne pas se croire",
+	"indicatif": {
+		"présent": {
+			"je": "crois",
+			"tu": "crois",
+			"il/elle": "croit",
+			"nous": "croyons",
+			"vous": "croyez",
+			"ils/elles": "croient"
+		},
+		"imparfait": {
+			"je": "croyais",
+			"tu": "croyais",
+			"il/elle": "croyait",
+			"nous": "croyions",
+			"vous": "croyiez",
+			"ils/elles": "croyaient"
+		},
+		"futur": {
+			"je": "croirai",
+			"tu": "croiras",
+			"il/elle": "croira",
+			"nous": "croirons",
+			"vous": "croirez",
+			"ils/elles": "croiront"
+		},
+		"passé simple": {
+			"je": "crus",
+			"tu": "crus",
+			"il/elle": "crut",
+			"nous": "crûmes",
+			"vous": "crûtes",
+			"ils/elles": "crurent"
+		},
+		"passé composé": {
+			"j'": "ai cru",
+			"tu": "as cru",
+			"il/elle": "a cru",
+			"nous": "avons cru",
+			"vous": "avez cru",
+			"ils/elles": "ont cru"
+		},
+		"plus-que-parfait": {
+			"j'": "avais cru",
+			"tu": "avais cru",
+			"il/elle": "avait cru",
+			"nous": "avions cru",
+			"vous": "aviez cru",
+			"ils/elles": "avaient cru"
+		},
+		"passé antérieur": {
+			"j'": "eus cru",
+			"tu": "eus cru",
+			"il/elle": "eut cru",
+			"nous": "eûmes cru",
+			"vous": "eûtes cru",
+			"ils/elles": "eurent cru"
+		},
+		"futur antérieur": {
+			"j'": "aurai cru",
+			"tu": "auras cru",
+			"il/elle": "aura cru",
+			"nous": "aurons cru",
+			"vous": "aurez cru",
+			"ils/elles": "auront cru"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous croyiez",
+			"qu'il/elle": "croie",
+			"qu'ils/elles": "croient"
+		},
+		"imparfait": {
+			"que": "vous crussiez",
+			"qu'il/elle": "crût",
+			"qu'ils/elles": "crussent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse cru",
+			"que": "vous eussiez cru",
+			"qu'il/elle": "eût cru",
+			"qu'ils/elles": "eussent cru"
+		},
+		"passé": {
+			"j'": "aie cru",
+			"que": "vous ayez cru",
+			"qu'il/elle": "ait cru",
+			"qu'ils/elles": "aient cru"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "croirais",
+			"tu": "croirais",
+			"il/elle": "croirait",
+			"nous": "croirions",
+			"vous": "croiriez",
+			"ils/elles": "croiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais cru",
+			"tu": "aurais cru",
+			"il/elle": "aurait cru",
+			"nous": "aurions cru",
+			"vous": "auriez cru",
+			"ils/elles": "auraient cru"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse cru",
+			"tu": "eusses cru",
+			"il/elle": "eût cru",
+			"nous": "eussions cru",
+			"vous": "eussiez cru",
+			"ils/elles": "eussent cru"
+		}
+	},
+	"participe": {
+		"présent": { "croyant": "" },
+		"passé composé": { "ayant": "cru" },
+		"passé": {
+			"masc.sg.:": "cru",
+			"masc.pl.:": "crus",
+			"fém.sg.:": "crue",
+			"fém.pl.:": "crues"
+		}
+	},
+	"imperatif": {
+		"présent": { "crois": "", "croyons": "", "croyez": "" },
+		"passé": { "aie": "cru", "ayons": "cru", "ayez": "cru" }
+	},
+	"infinitif": { "présent": { "croire": "" }, "passé": { "avoir": "cru" } }
+}

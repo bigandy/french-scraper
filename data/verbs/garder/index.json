@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "keep; maintain; bear; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se garder/ne pas garder/ne pas se garder",
+	"indicatif": {
+		"présent": {
+			"je": "garde",
+			"tu": "gardes",
+			"il/elle": "garde",
+			"nous": "gardons",
+			"vous": "gardez",
+			"ils/elles": "gardent"
+		},
+		"imparfait": {
+			"je": "gardais",
+			"tu": "gardais",
+			"il/elle": "gardait",
+			"nous": "gardions",
+			"vous": "gardiez",
+			"ils/elles": "gardaient"
+		},
+		"futur": {
+			"je": "garderai",
+			"tu": "garderas",
+			"il/elle": "gardera",
+			"nous": "garderons",
+			"vous": "garderez",
+			"ils/elles": "garderont"
+		},
+		"passé simple": {
+			"je": "gardai",
+			"tu": "gardas",
+			"il/elle": "garda",
+			"nous": "gardâmes",
+			"vous": "gardâtes",
+			"ils/elles": "gardèrent"
+		},
+		"passé composé": {
+			"j'": "ai gardé",
+			"tu": "as gardé",
+			"il/elle": "a gardé",
+			"nous": "avons gardé",
+			"vous": "avez gardé",
+			"ils/elles": "ont gardé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais gardé",
+			"tu": "avais gardé",
+			"il/elle": "avait gardé",
+			"nous": "avions gardé",
+			"vous": "aviez gardé",
+			"ils/elles": "avaient gardé"
+		},
+		"passé antérieur": {
+			"j'": "eus gardé",
+			"tu": "eus gardé",
+			"il/elle": "eut gardé",
+			"nous": "eûmes gardé",
+			"vous": "eûtes gardé",
+			"ils/elles": "eurent gardé"
+		},
+		"futur antérieur": {
+			"j'": "aurai gardé",
+			"tu": "auras gardé",
+			"il/elle": "aura gardé",
+			"nous": "aurons gardé",
+			"vous": "aurez gardé",
+			"ils/elles": "auront gardé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous gardiez",
+			"qu'il/elle": "garde",
+			"qu'ils/elles": "gardent"
+		},
+		"imparfait": {
+			"que": "vous gardassiez",
+			"qu'il/elle": "gardât",
+			"qu'ils/elles": "gardassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse gardé",
+			"que": "vous eussiez gardé",
+			"qu'il/elle": "eût gardé",
+			"qu'ils/elles": "eussent gardé"
+		},
+		"passé": {
+			"j'": "aie gardé",
+			"que": "vous ayez gardé",
+			"qu'il/elle": "ait gardé",
+			"qu'ils/elles": "aient gardé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "garderais",
+			"tu": "garderais",
+			"il/elle": "garderait",
+			"nous": "garderions",
+			"vous": "garderiez",
+			"ils/elles": "garderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais gardé",
+			"tu": "aurais gardé",
+			"il/elle": "aurait gardé",
+			"nous": "aurions gardé",
+			"vous": "auriez gardé",
+			"ils/elles": "auraient gardé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse gardé",
+			"tu": "eusses gardé",
+			"il/elle": "eût gardé",
+			"nous": "eussions gardé",
+			"vous": "eussiez gardé",
+			"ils/elles": "eussent gardé"
+		}
+	},
+	"participe": {
+		"présent": { "gardant": "" },
+		"passé composé": { "ayant": "gardé" },
+		"passé": {
+			"masc.sg.:": "gardé",
+			"masc.pl.:": "gardés",
+			"fém.sg.:": "gardée",
+			"fém.pl.:": "gardées"
+		}
+	},
+	"imperatif": {
+		"présent": { "garde": "", "gardons": "", "gardez": "" },
+		"passé": { "aie": "gardé", "ayons": "gardé", "ayez": "gardé" }
+	},
+	"infinitif": { "présent": { "garder": "" }, "passé": { "avoir": "gardé" } }
+}

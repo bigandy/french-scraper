@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "exceed; overcome; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se dépasser/ne pas dépasser/ne pas se dépasser",
+	"indicatif": {
+		"présent": {
+			"je": "dépasse",
+			"tu": "dépasses",
+			"il/elle": "dépasse",
+			"nous": "dépassons",
+			"vous": "dépassez",
+			"ils/elles": "dépassent"
+		},
+		"imparfait": {
+			"je": "dépassais",
+			"tu": "dépassais",
+			"il/elle": "dépassait",
+			"nous": "dépassions",
+			"vous": "dépassiez",
+			"ils/elles": "dépassaient"
+		},
+		"futur": {
+			"je": "dépasserai",
+			"tu": "dépasseras",
+			"il/elle": "dépassera",
+			"nous": "dépasserons",
+			"vous": "dépasserez",
+			"ils/elles": "dépasseront"
+		},
+		"passé simple": {
+			"je": "dépassai",
+			"tu": "dépassas",
+			"il/elle": "dépassa",
+			"nous": "dépassâmes",
+			"vous": "dépassâtes",
+			"ils/elles": "dépassèrent"
+		},
+		"passé composé": {
+			"j'": "ai dépassé",
+			"tu": "as dépassé",
+			"il/elle": "a dépassé",
+			"nous": "avons dépassé",
+			"vous": "avez dépassé",
+			"ils/elles": "ont dépassé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais dépassé",
+			"tu": "avais dépassé",
+			"il/elle": "avait dépassé",
+			"nous": "avions dépassé",
+			"vous": "aviez dépassé",
+			"ils/elles": "avaient dépassé"
+		},
+		"passé antérieur": {
+			"j'": "eus dépassé",
+			"tu": "eus dépassé",
+			"il/elle": "eut dépassé",
+			"nous": "eûmes dépassé",
+			"vous": "eûtes dépassé",
+			"ils/elles": "eurent dépassé"
+		},
+		"futur antérieur": {
+			"j'": "aurai dépassé",
+			"tu": "auras dépassé",
+			"il/elle": "aura dépassé",
+			"nous": "aurons dépassé",
+			"vous": "aurez dépassé",
+			"ils/elles": "auront dépassé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous dépassiez",
+			"qu'il/elle": "dépasse",
+			"qu'ils/elles": "dépassent"
+		},
+		"imparfait": {
+			"que": "vous dépassassiez",
+			"qu'il/elle": "dépassât",
+			"qu'ils/elles": "dépassassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse dépassé",
+			"que": "vous eussiez dépassé",
+			"qu'il/elle": "eût dépassé",
+			"qu'ils/elles": "eussent dépassé"
+		},
+		"passé": {
+			"j'": "aie dépassé",
+			"que": "vous ayez dépassé",
+			"qu'il/elle": "ait dépassé",
+			"qu'ils/elles": "aient dépassé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "dépasserais",
+			"tu": "dépasserais",
+			"il/elle": "dépasserait",
+			"nous": "dépasserions",
+			"vous": "dépasseriez",
+			"ils/elles": "dépasseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais dépassé",
+			"tu": "aurais dépassé",
+			"il/elle": "aurait dépassé",
+			"nous": "aurions dépassé",
+			"vous": "auriez dépassé",
+			"ils/elles": "auraient dépassé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse dépassé",
+			"tu": "eusses dépassé",
+			"il/elle": "eût dépassé",
+			"nous": "eussions dépassé",
+			"vous": "eussiez dépassé",
+			"ils/elles": "eussent dépassé"
+		}
+	},
+	"participe": {
+		"présent": { "dépassant": "" },
+		"passé composé": { "ayant": "dépassé" },
+		"passé": {
+			"masc.sg.:": "dépassé",
+			"masc.pl.:": "dépassés",
+			"fém.sg.:": "dépassée",
+			"fém.pl.:": "dépassées"
+		}
+	},
+	"imperatif": {
+		"présent": { "dépasse": "", "dépassons": "", "dépassez": "" },
+		"passé": { "aie": "dépassé", "ayons": "dépassé", "ayez": "dépassé" }
+	},
+	"infinitif": {
+		"présent": { "dépasser": "" },
+		"passé": { "avoir": "dépassé" }
+	}
+}

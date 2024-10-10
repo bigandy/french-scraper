@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "grant; give; provide; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'accorder/ne pas accorder/ne pas s'accorder",
+	"indicatif": {
+		"présent": {
+			"j'": "accorde",
+			"tu": "accordes",
+			"il/elle": "accorde",
+			"nous": "accordons",
+			"vous": "accordez",
+			"ils/elles": "accordent"
+		},
+		"imparfait": {
+			"j'": "accordais",
+			"tu": "accordais",
+			"il/elle": "accordait",
+			"nous": "accordions",
+			"vous": "accordiez",
+			"ils/elles": "accordaient"
+		},
+		"futur": {
+			"j'": "accorderai",
+			"tu": "accorderas",
+			"il/elle": "accordera",
+			"nous": "accorderons",
+			"vous": "accorderez",
+			"ils/elles": "accorderont"
+		},
+		"passé simple": {
+			"j'": "accordai",
+			"tu": "accordas",
+			"il/elle": "accorda",
+			"nous": "accordâmes",
+			"vous": "accordâtes",
+			"ils/elles": "accordèrent"
+		},
+		"passé composé": {
+			"j'": "ai accordé",
+			"tu": "as accordé",
+			"il/elle": "a accordé",
+			"nous": "avons accordé",
+			"vous": "avez accordé",
+			"ils/elles": "ont accordé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais accordé",
+			"tu": "avais accordé",
+			"il/elle": "avait accordé",
+			"nous": "avions accordé",
+			"vous": "aviez accordé",
+			"ils/elles": "avaient accordé"
+		},
+		"passé antérieur": {
+			"j'": "eus accordé",
+			"tu": "eus accordé",
+			"il/elle": "eut accordé",
+			"nous": "eûmes accordé",
+			"vous": "eûtes accordé",
+			"ils/elles": "eurent accordé"
+		},
+		"futur antérieur": {
+			"j'": "aurai accordé",
+			"tu": "auras accordé",
+			"il/elle": "aura accordé",
+			"nous": "aurons accordé",
+			"vous": "aurez accordé",
+			"ils/elles": "auront accordé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "accorde",
+			"que": "vous accordiez",
+			"qu'il/elle": "accorde",
+			"qu'ils/elles": "accordent"
+		},
+		"imparfait": {
+			"j'": "accordasse",
+			"que": "vous accordassiez",
+			"qu'il/elle": "accordât",
+			"qu'ils/elles": "accordassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse accordé",
+			"que": "vous eussiez accordé",
+			"qu'il/elle": "eût accordé",
+			"qu'ils/elles": "eussent accordé"
+		},
+		"passé": {
+			"j'": "aie accordé",
+			"que": "vous ayez accordé",
+			"qu'il/elle": "ait accordé",
+			"qu'ils/elles": "aient accordé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "accorderais",
+			"tu": "accorderais",
+			"il/elle": "accorderait",
+			"nous": "accorderions",
+			"vous": "accorderiez",
+			"ils/elles": "accorderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais accordé",
+			"tu": "aurais accordé",
+			"il/elle": "aurait accordé",
+			"nous": "aurions accordé",
+			"vous": "auriez accordé",
+			"ils/elles": "auraient accordé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse accordé",
+			"tu": "eusses accordé",
+			"il/elle": "eût accordé",
+			"nous": "eussions accordé",
+			"vous": "eussiez accordé",
+			"ils/elles": "eussent accordé"
+		}
+	},
+	"participe": {
+		"présent": { "accordant": "" },
+		"passé composé": { "ayant": "accordé" },
+		"passé": {
+			"masc.sg.:": "accordé",
+			"masc.pl.:": "accordés",
+			"fém.sg.:": "accordée",
+			"fém.pl.:": "accordées"
+		}
+	},
+	"imperatif": {
+		"présent": { "accorde": "", "accordons": "", "accordez": "" },
+		"passé": { "aie": "accordé", "ayons": "accordé", "ayez": "accordé" }
+	},
+	"infinitif": {
+		"présent": { "accorder": "" },
+		"passé": { "avoir": "accordé" }
+	}
+}

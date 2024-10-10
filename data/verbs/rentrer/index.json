@@ -1,0 +1,194 @@
+{
+	"name": "marcher",
+	"definition": "go home; return; go back; ...",
+	"model": "marcher",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "se rentrer/ne pas rentrer/ne pas se rentrer",
+	"indicatif": {
+		"présent": {
+			"je": "rentre",
+			"tu": "rentres",
+			"il/elle": "rentre",
+			"nous": "rentrons",
+			"vous": "rentrez",
+			"ils/elles": "rentrent"
+		},
+		"imparfait": {
+			"je": "rentrais",
+			"tu": "rentrais",
+			"il/elle": "rentrait",
+			"nous": "rentrions",
+			"vous": "rentriez",
+			"ils/elles": "rentraient"
+		},
+		"futur": {
+			"je": "rentrerai",
+			"tu": "rentreras",
+			"il/elle": "rentrera",
+			"nous": "rentrerons",
+			"vous": "rentrerez",
+			"ils/elles": "rentreront"
+		},
+		"passé simple": {
+			"je": "rentrai",
+			"tu": "rentras",
+			"il/elle": "rentra",
+			"nous": "rentrâmes",
+			"vous": "rentrâtes",
+			"ils/elles": "rentrèrent"
+		},
+		"passé composé": {
+			"j'": "ai rentré",
+			"tu": "es rentré",
+			"il/elle": "a rentré",
+			"nous": "sommes rentrés",
+			"vous": "êtes rentrés",
+			"ils/elles": "ont rentré",
+			"": "",
+			"je": "suis rentré",
+			"il": "est rentré",
+			"elle": "est rentrée",
+			"ils": "sont rentrés",
+			"elles": "sont rentrées"
+		},
+		"plus-que-parfait": {
+			"j'": "étais rentré",
+			"tu": "étais rentré",
+			"il/elle": "avait rentré",
+			"nous": "étions rentrés",
+			"vous": "étiez rentrés",
+			"ils/elles": "avaient rentré",
+			"": "",
+			"il": "était rentré",
+			"elle": "était rentrée",
+			"ils": "étaient rentrés",
+			"elles": "étaient rentrées"
+		},
+		"passé antérieur": {
+			"j'": "eus rentré",
+			"tu": "fus rentré",
+			"il/elle": "eut rentré",
+			"nous": "fûmes rentrés",
+			"vous": "fûtes rentrés",
+			"ils/elles": "eurent rentré",
+			"": "",
+			"je": "fus rentré",
+			"il": "fut rentré",
+			"elle": "fut rentrée",
+			"ils": "furent rentrés",
+			"elles": "furent rentrées"
+		},
+		"futur antérieur": {
+			"j'": "aurai rentré",
+			"tu": "seras rentré",
+			"il/elle": "aura rentré",
+			"nous": "serons rentrés",
+			"vous": "serez rentrés",
+			"ils/elles": "auront rentré",
+			"": "",
+			"je": "serai rentré",
+			"il": "sera rentré",
+			"elle": "sera rentrée",
+			"ils": "seront rentrés",
+			"elles": "seront rentrées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous rentriez",
+			"qu'il/elle": "rentre",
+			"qu'ils/elles": "rentrent"
+		},
+		"imparfait": {
+			"que": "vous rentrassiez",
+			"qu'il/elle": "rentrât",
+			"qu'ils/elles": "rentrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse rentré",
+			"que": "vous fussiez rentrés",
+			"qu'il/elle": "eût rentré",
+			"qu'ils/elles": "eussent rentré",
+			"": "",
+			"qu'il": "fût rentré",
+			"qu'elle": "fût rentrée",
+			"qu'ils": "fussent rentrés",
+			"qu'elles": "fussent rentrées"
+		},
+		"passé": {
+			"j'": "aie rentré",
+			"que": "vous soyez rentrés",
+			"qu'il/elle": "ait rentré",
+			"qu'ils/elles": "aient rentré",
+			"": "",
+			"qu'il": "soit rentré",
+			"qu'elle": "soit rentrée",
+			"qu'ils": "soient rentrés",
+			"qu'elles": "soient rentrées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "rentrerais",
+			"tu": "rentrerais",
+			"il/elle": "rentrerait",
+			"nous": "rentrerions",
+			"vous": "rentreriez",
+			"ils/elles": "rentreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais rentré",
+			"tu": "serais rentré",
+			"il/elle": "aurait rentré",
+			"nous": "serions rentrés",
+			"vous": "seriez rentrés",
+			"ils/elles": "auraient rentré",
+			"": "",
+			"je": "serais rentré",
+			"il": "serait rentré",
+			"elle": "serait rentrée",
+			"ils": "seraient rentrés",
+			"elles": "seraient rentrées"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse rentré",
+			"tu": "fusses rentré",
+			"il/elle": "eût rentré",
+			"nous": "fussions rentrés",
+			"vous": "fussiez rentrés",
+			"ils/elles": "eussent rentré",
+			"": "",
+			"je": "fusse rentré",
+			"il": "fût rentré",
+			"elle": "fût rentrée",
+			"ils": "fussent rentrés",
+			"elles": "fussent rentrées"
+		}
+	},
+	"participe": {
+		"présent": { "rentrant": "" },
+		"passé composé": { "ayant": "rentré", "": "", "étant": "rentrée" },
+		"passé": {
+			"masc.sg.:": "rentré",
+			"masc.pl.:": "rentrés",
+			"fém.sg.:": "rentrée",
+			"fém.pl.:": "rentrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "rentre": "", "rentrons": "", "rentrez": "" },
+		"passé": {
+			"aie": "rentré",
+			"ayons": "rentré",
+			"ayez": "rentré",
+			"": "",
+			"sois": "rentré",
+			"soyons": "rentré",
+			"soyez": "rentré"
+		}
+	},
+	"infinitif": {
+		"présent": { "rentrer": "" },
+		"passé": { "avoir": "rentré", "": "", "être": "rentré" }
+	}
+}

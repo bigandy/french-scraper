@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "hook; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se crocher/ne pas crocher/ne pas se crocher",
+	"indicatif": {
+		"présent": {
+			"je": "croche",
+			"tu": "croches",
+			"il/elle": "croche",
+			"nous": "crochons",
+			"vous": "crochez",
+			"ils/elles": "crochent"
+		},
+		"imparfait": {
+			"je": "crochais",
+			"tu": "crochais",
+			"il/elle": "crochait",
+			"nous": "crochions",
+			"vous": "crochiez",
+			"ils/elles": "crochaient"
+		},
+		"futur": {
+			"je": "crocherai",
+			"tu": "crocheras",
+			"il/elle": "crochera",
+			"nous": "crocherons",
+			"vous": "crocherez",
+			"ils/elles": "crocheront"
+		},
+		"passé simple": {
+			"je": "crochai",
+			"tu": "crochas",
+			"il/elle": "crocha",
+			"nous": "crochâmes",
+			"vous": "crochâtes",
+			"ils/elles": "crochèrent"
+		},
+		"passé composé": {
+			"j'": "ai croché",
+			"tu": "as croché",
+			"il/elle": "a croché",
+			"nous": "avons croché",
+			"vous": "avez croché",
+			"ils/elles": "ont croché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais croché",
+			"tu": "avais croché",
+			"il/elle": "avait croché",
+			"nous": "avions croché",
+			"vous": "aviez croché",
+			"ils/elles": "avaient croché"
+		},
+		"passé antérieur": {
+			"j'": "eus croché",
+			"tu": "eus croché",
+			"il/elle": "eut croché",
+			"nous": "eûmes croché",
+			"vous": "eûtes croché",
+			"ils/elles": "eurent croché"
+		},
+		"futur antérieur": {
+			"j'": "aurai croché",
+			"tu": "auras croché",
+			"il/elle": "aura croché",
+			"nous": "aurons croché",
+			"vous": "aurez croché",
+			"ils/elles": "auront croché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous crochiez",
+			"qu'il/elle": "croche",
+			"qu'ils/elles": "crochent"
+		},
+		"imparfait": {
+			"que": "vous crochassiez",
+			"qu'il/elle": "crochât",
+			"qu'ils/elles": "crochassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse croché",
+			"que": "vous eussiez croché",
+			"qu'il/elle": "eût croché",
+			"qu'ils/elles": "eussent croché"
+		},
+		"passé": {
+			"j'": "aie croché",
+			"que": "vous ayez croché",
+			"qu'il/elle": "ait croché",
+			"qu'ils/elles": "aient croché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "crocherais",
+			"tu": "crocherais",
+			"il/elle": "crocherait",
+			"nous": "crocherions",
+			"vous": "crocheriez",
+			"ils/elles": "crocheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais croché",
+			"tu": "aurais croché",
+			"il/elle": "aurait croché",
+			"nous": "aurions croché",
+			"vous": "auriez croché",
+			"ils/elles": "auraient croché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse croché",
+			"tu": "eusses croché",
+			"il/elle": "eût croché",
+			"nous": "eussions croché",
+			"vous": "eussiez croché",
+			"ils/elles": "eussent croché"
+		}
+	},
+	"participe": {
+		"présent": { "crochant": "" },
+		"passé composé": { "ayant": "croché" },
+		"passé": {
+			"masc.sg.:": "croché",
+			"masc.pl.:": "crochés",
+			"fém.sg.:": "crochée",
+			"fém.pl.:": "crochées"
+		}
+	},
+	"imperatif": {
+		"présent": { "croche": "", "crochons": "", "crochez": "" },
+		"passé": { "aie": "croché", "ayons": "croché", "ayez": "croché" }
+	},
+	"infinitif": { "présent": { "crocher": "" }, "passé": { "avoir": "croché" } }
+}

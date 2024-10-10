@@ -1,0 +1,141 @@
+{
+	"name": "finir",
+	"definition": "restore; re-establish; reinstate; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se rétablir/ne pas rétablir/ne pas se rétablir",
+	"indicatif": {
+		"présent": {
+			"je": "rétablis",
+			"tu": "rétablis",
+			"il/elle": "rétablit",
+			"nous": "rétablissons",
+			"vous": "rétablissez",
+			"ils/elles": "rétablissent"
+		},
+		"imparfait": {
+			"je": "rétablissais",
+			"tu": "rétablissais",
+			"il/elle": "rétablissait",
+			"nous": "rétablissions",
+			"vous": "rétablissiez",
+			"ils/elles": "rétablissaient"
+		},
+		"futur": {
+			"je": "rétablirai",
+			"tu": "rétabliras",
+			"il/elle": "rétablira",
+			"nous": "rétablirons",
+			"vous": "rétablirez",
+			"ils/elles": "rétabliront"
+		},
+		"passé simple": {
+			"je": "rétablis",
+			"tu": "rétablis",
+			"il/elle": "rétablit",
+			"nous": "rétablîmes",
+			"vous": "rétablîtes",
+			"ils/elles": "rétablirent"
+		},
+		"passé composé": {
+			"j'": "ai rétabli",
+			"tu": "as rétabli",
+			"il/elle": "a rétabli",
+			"nous": "avons rétabli",
+			"vous": "avez rétabli",
+			"ils/elles": "ont rétabli"
+		},
+		"plus-que-parfait": {
+			"j'": "avais rétabli",
+			"tu": "avais rétabli",
+			"il/elle": "avait rétabli",
+			"nous": "avions rétabli",
+			"vous": "aviez rétabli",
+			"ils/elles": "avaient rétabli"
+		},
+		"passé antérieur": {
+			"j'": "eus rétabli",
+			"tu": "eus rétabli",
+			"il/elle": "eut rétabli",
+			"nous": "eûmes rétabli",
+			"vous": "eûtes rétabli",
+			"ils/elles": "eurent rétabli"
+		},
+		"futur antérieur": {
+			"j'": "aurai rétabli",
+			"tu": "auras rétabli",
+			"il/elle": "aura rétabli",
+			"nous": "aurons rétabli",
+			"vous": "aurez rétabli",
+			"ils/elles": "auront rétabli"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous rétablissiez",
+			"qu'il/elle": "rétablisse",
+			"qu'ils/elles": "rétablissent"
+		},
+		"imparfait": {
+			"que": "vous rétablissiez",
+			"qu'il/elle": "rétablît",
+			"qu'ils/elles": "rétablissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse rétabli",
+			"que": "vous eussiez rétabli",
+			"qu'il/elle": "eût rétabli",
+			"qu'ils/elles": "eussent rétabli"
+		},
+		"passé": {
+			"j'": "aie rétabli",
+			"que": "vous ayez rétabli",
+			"qu'il/elle": "ait rétabli",
+			"qu'ils/elles": "aient rétabli"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "rétablirais",
+			"tu": "rétablirais",
+			"il/elle": "rétablirait",
+			"nous": "rétablirions",
+			"vous": "rétabliriez",
+			"ils/elles": "rétabliraient"
+		},
+		"passé première forme": {
+			"j'": "aurais rétabli",
+			"tu": "aurais rétabli",
+			"il/elle": "aurait rétabli",
+			"nous": "aurions rétabli",
+			"vous": "auriez rétabli",
+			"ils/elles": "auraient rétabli"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse rétabli",
+			"tu": "eusses rétabli",
+			"il/elle": "eût rétabli",
+			"nous": "eussions rétabli",
+			"vous": "eussiez rétabli",
+			"ils/elles": "eussent rétabli"
+		}
+	},
+	"participe": {
+		"présent": { "rétablissant": "" },
+		"passé composé": { "ayant": "rétabli" },
+		"passé": {
+			"masc.sg.:": "rétabli",
+			"masc.pl.:": "rétablis",
+			"fém.sg.:": "rétablie",
+			"fém.pl.:": "rétablies"
+		}
+	},
+	"imperatif": {
+		"présent": { "rétablis": "", "rétablissons": "", "rétablissez": "" },
+		"passé": { "aie": "rétabli", "ayons": "rétabli", "ayez": "rétabli" }
+	},
+	"infinitif": {
+		"présent": { "rétablir": "" },
+		"passé": { "avoir": "rétabli" }
+	}
+}

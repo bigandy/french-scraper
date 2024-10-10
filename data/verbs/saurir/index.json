@@ -1,0 +1,138 @@
+{
+	"name": "finir",
+	"definition": "",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se saurir/ne pas saurir/ne pas se saurir",
+	"indicatif": {
+		"présent": {
+			"je": "sauris",
+			"tu": "sauris",
+			"il/elle": "saurit",
+			"nous": "saurissons",
+			"vous": "saurissez",
+			"ils/elles": "saurissent"
+		},
+		"imparfait": {
+			"je": "saurissais",
+			"tu": "saurissais",
+			"il/elle": "saurissait",
+			"nous": "saurissions",
+			"vous": "saurissiez",
+			"ils/elles": "saurissaient"
+		},
+		"futur": {
+			"je": "saurirai",
+			"tu": "sauriras",
+			"il/elle": "saurira",
+			"nous": "saurirons",
+			"vous": "saurirez",
+			"ils/elles": "sauriront"
+		},
+		"passé simple": {
+			"je": "sauris",
+			"tu": "sauris",
+			"il/elle": "saurit",
+			"nous": "saurîmes",
+			"vous": "saurîtes",
+			"ils/elles": "saurirent"
+		},
+		"passé composé": {
+			"j'": "ai sauri",
+			"tu": "as sauri",
+			"il/elle": "a sauri",
+			"nous": "avons sauri",
+			"vous": "avez sauri",
+			"ils/elles": "ont sauri"
+		},
+		"plus-que-parfait": {
+			"j'": "avais sauri",
+			"tu": "avais sauri",
+			"il/elle": "avait sauri",
+			"nous": "avions sauri",
+			"vous": "aviez sauri",
+			"ils/elles": "avaient sauri"
+		},
+		"passé antérieur": {
+			"j'": "eus sauri",
+			"tu": "eus sauri",
+			"il/elle": "eut sauri",
+			"nous": "eûmes sauri",
+			"vous": "eûtes sauri",
+			"ils/elles": "eurent sauri"
+		},
+		"futur antérieur": {
+			"j'": "aurai sauri",
+			"tu": "auras sauri",
+			"il/elle": "aura sauri",
+			"nous": "aurons sauri",
+			"vous": "aurez sauri",
+			"ils/elles": "auront sauri"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous saurissiez",
+			"qu'il/elle": "saurisse",
+			"qu'ils/elles": "saurissent"
+		},
+		"imparfait": {
+			"que": "vous saurissiez",
+			"qu'il/elle": "saurît",
+			"qu'ils/elles": "saurissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse sauri",
+			"que": "vous eussiez sauri",
+			"qu'il/elle": "eût sauri",
+			"qu'ils/elles": "eussent sauri"
+		},
+		"passé": {
+			"j'": "aie sauri",
+			"que": "vous ayez sauri",
+			"qu'il/elle": "ait sauri",
+			"qu'ils/elles": "aient sauri"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "saurirais",
+			"tu": "saurirais",
+			"il/elle": "saurirait",
+			"nous": "sauririons",
+			"vous": "sauririez",
+			"ils/elles": "sauriraient"
+		},
+		"passé première forme": {
+			"j'": "aurais sauri",
+			"tu": "aurais sauri",
+			"il/elle": "aurait sauri",
+			"nous": "aurions sauri",
+			"vous": "auriez sauri",
+			"ils/elles": "auraient sauri"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse sauri",
+			"tu": "eusses sauri",
+			"il/elle": "eût sauri",
+			"nous": "eussions sauri",
+			"vous": "eussiez sauri",
+			"ils/elles": "eussent sauri"
+		}
+	},
+	"participe": {
+		"présent": { "saurissant": "" },
+		"passé composé": { "ayant": "sauri" },
+		"passé": {
+			"masc.sg.:": "sauri",
+			"masc.pl.:": "sauris",
+			"fém.sg.:": "saurie",
+			"fém.pl.:": "sauries"
+		}
+	},
+	"imperatif": {
+		"présent": { "sauris": "", "saurissons": "", "saurissez": "" },
+		"passé": { "aie": "sauri", "ayons": "sauri", "ayez": "sauri" }
+	},
+	"infinitif": { "présent": { "saurir": "" }, "passé": { "avoir": "sauri" } }
+}

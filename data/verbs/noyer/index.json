@@ -1,0 +1,138 @@
+{
+	"name": "balayer",
+	"definition": "drown; flood; embed; ...",
+	"model": "balayer",
+	"auxiliary": "avoir",
+	"otherForms": "se noyer/ne pas noyer/ne pas se noyer",
+	"indicatif": {
+		"présent": {
+			"je": "noie",
+			"tu": "noies",
+			"il/elle": "noie",
+			"nous": "noyons",
+			"vous": "noyez",
+			"ils/elles": "noient"
+		},
+		"imparfait": {
+			"je": "noyais",
+			"tu": "noyais",
+			"il/elle": "noyait",
+			"nous": "noyions",
+			"vous": "noyiez",
+			"ils/elles": "noyaient"
+		},
+		"futur": {
+			"je": "noierai",
+			"tu": "noieras",
+			"il/elle": "noiera",
+			"nous": "noierons",
+			"vous": "noierez",
+			"ils/elles": "noieront"
+		},
+		"passé simple": {
+			"je": "noyai",
+			"tu": "noyas",
+			"il/elle": "noya",
+			"nous": "noyâmes",
+			"vous": "noyâtes",
+			"ils/elles": "noyèrent"
+		},
+		"passé composé": {
+			"j'": "ai noyé",
+			"tu": "as noyé",
+			"il/elle": "a noyé",
+			"nous": "avons noyé",
+			"vous": "avez noyé",
+			"ils/elles": "ont noyé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais noyé",
+			"tu": "avais noyé",
+			"il/elle": "avait noyé",
+			"nous": "avions noyé",
+			"vous": "aviez noyé",
+			"ils/elles": "avaient noyé"
+		},
+		"passé antérieur": {
+			"j'": "eus noyé",
+			"tu": "eus noyé",
+			"il/elle": "eut noyé",
+			"nous": "eûmes noyé",
+			"vous": "eûtes noyé",
+			"ils/elles": "eurent noyé"
+		},
+		"futur antérieur": {
+			"j'": "aurai noyé",
+			"tu": "auras noyé",
+			"il/elle": "aura noyé",
+			"nous": "aurons noyé",
+			"vous": "aurez noyé",
+			"ils/elles": "auront noyé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous noyiez",
+			"qu'il/elle": "noie",
+			"qu'ils/elles": "noient"
+		},
+		"imparfait": {
+			"que": "vous noyassiez",
+			"qu'il/elle": "noyât",
+			"qu'ils/elles": "noyassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse noyé",
+			"que": "vous eussiez noyé",
+			"qu'il/elle": "eût noyé",
+			"qu'ils/elles": "eussent noyé"
+		},
+		"passé": {
+			"j'": "aie noyé",
+			"que": "vous ayez noyé",
+			"qu'il/elle": "ait noyé",
+			"qu'ils/elles": "aient noyé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "noierais",
+			"tu": "noierais",
+			"il/elle": "noierait",
+			"nous": "noierions",
+			"vous": "noieriez",
+			"ils/elles": "noieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais noyé",
+			"tu": "aurais noyé",
+			"il/elle": "aurait noyé",
+			"nous": "aurions noyé",
+			"vous": "auriez noyé",
+			"ils/elles": "auraient noyé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse noyé",
+			"tu": "eusses noyé",
+			"il/elle": "eût noyé",
+			"nous": "eussions noyé",
+			"vous": "eussiez noyé",
+			"ils/elles": "eussent noyé"
+		}
+	},
+	"participe": {
+		"présent": { "noyant": "" },
+		"passé composé": { "ayant": "noyé" },
+		"passé": {
+			"masc.sg.:": "noyé",
+			"masc.pl.:": "noyés",
+			"fém.sg.:": "noyée",
+			"fém.pl.:": "noyées"
+		}
+	},
+	"imperatif": {
+		"présent": { "noie": "", "noyons": "", "noyez": "" },
+		"passé": { "aie": "noyé", "ayons": "noyé", "ayez": "noyé" }
+	},
+	"infinitif": { "présent": { "noyer": "" }, "passé": { "avoir": "noyé" } }
+}

@@ -1,0 +1,138 @@
+{
+	"name": "finir",
+	"definition": "seize; enter; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se saisir/ne pas saisir/ne pas se saisir",
+	"indicatif": {
+		"présent": {
+			"je": "saisis",
+			"tu": "saisis",
+			"il/elle": "saisit",
+			"nous": "saisissons",
+			"vous": "saisissez",
+			"ils/elles": "saisissent"
+		},
+		"imparfait": {
+			"je": "saisissais",
+			"tu": "saisissais",
+			"il/elle": "saisissait",
+			"nous": "saisissions",
+			"vous": "saisissiez",
+			"ils/elles": "saisissaient"
+		},
+		"futur": {
+			"je": "saisirai",
+			"tu": "saisiras",
+			"il/elle": "saisira",
+			"nous": "saisirons",
+			"vous": "saisirez",
+			"ils/elles": "saisiront"
+		},
+		"passé simple": {
+			"je": "saisis",
+			"tu": "saisis",
+			"il/elle": "saisit",
+			"nous": "saisîmes",
+			"vous": "saisîtes",
+			"ils/elles": "saisirent"
+		},
+		"passé composé": {
+			"j'": "ai saisi",
+			"tu": "as saisi",
+			"il/elle": "a saisi",
+			"nous": "avons saisi",
+			"vous": "avez saisi",
+			"ils/elles": "ont saisi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais saisi",
+			"tu": "avais saisi",
+			"il/elle": "avait saisi",
+			"nous": "avions saisi",
+			"vous": "aviez saisi",
+			"ils/elles": "avaient saisi"
+		},
+		"passé antérieur": {
+			"j'": "eus saisi",
+			"tu": "eus saisi",
+			"il/elle": "eut saisi",
+			"nous": "eûmes saisi",
+			"vous": "eûtes saisi",
+			"ils/elles": "eurent saisi"
+		},
+		"futur antérieur": {
+			"j'": "aurai saisi",
+			"tu": "auras saisi",
+			"il/elle": "aura saisi",
+			"nous": "aurons saisi",
+			"vous": "aurez saisi",
+			"ils/elles": "auront saisi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous saisissiez",
+			"qu'il/elle": "saisisse",
+			"qu'ils/elles": "saisissent"
+		},
+		"imparfait": {
+			"que": "vous saisissiez",
+			"qu'il/elle": "saisît",
+			"qu'ils/elles": "saisissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse saisi",
+			"que": "vous eussiez saisi",
+			"qu'il/elle": "eût saisi",
+			"qu'ils/elles": "eussent saisi"
+		},
+		"passé": {
+			"j'": "aie saisi",
+			"que": "vous ayez saisi",
+			"qu'il/elle": "ait saisi",
+			"qu'ils/elles": "aient saisi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "saisirais",
+			"tu": "saisirais",
+			"il/elle": "saisirait",
+			"nous": "saisirions",
+			"vous": "saisiriez",
+			"ils/elles": "saisiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais saisi",
+			"tu": "aurais saisi",
+			"il/elle": "aurait saisi",
+			"nous": "aurions saisi",
+			"vous": "auriez saisi",
+			"ils/elles": "auraient saisi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse saisi",
+			"tu": "eusses saisi",
+			"il/elle": "eût saisi",
+			"nous": "eussions saisi",
+			"vous": "eussiez saisi",
+			"ils/elles": "eussent saisi"
+		}
+	},
+	"participe": {
+		"présent": { "saisissant": "" },
+		"passé composé": { "ayant": "saisi" },
+		"passé": {
+			"masc.sg.:": "saisi",
+			"masc.pl.:": "saisis",
+			"fém.sg.:": "saisie",
+			"fém.pl.:": "saisies"
+		}
+	},
+	"imperatif": {
+		"présent": { "saisis": "", "saisissons": "", "saisissez": "" },
+		"passé": { "aie": "saisi", "ayons": "saisi", "ayez": "saisi" }
+	},
+	"infinitif": { "présent": { "saisir": "" }, "passé": { "avoir": "saisi" } }
+}

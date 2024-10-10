@@ -1,0 +1,138 @@
+{
+	"name": "régner",
+	"definition": "rule; reign; prevail; ...",
+	"model": "régner",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas régner",
+	"indicatif": {
+		"présent": {
+			"je": "règne",
+			"tu": "règnes",
+			"il/elle": "règne",
+			"nous": "régnons",
+			"vous": "régnez",
+			"ils/elles": "règnent"
+		},
+		"imparfait": {
+			"je": "régnais",
+			"tu": "régnais",
+			"il/elle": "régnait",
+			"nous": "régnions",
+			"vous": "régniez",
+			"ils/elles": "régnaient"
+		},
+		"futur": {
+			"je": "régnerai",
+			"tu": "régneras",
+			"il/elle": "régnera",
+			"nous": "régnerons",
+			"vous": "régnerez",
+			"ils/elles": "régneront"
+		},
+		"passé simple": {
+			"je": "régnai",
+			"tu": "régnas",
+			"il/elle": "régna",
+			"nous": "régnâmes",
+			"vous": "régnâtes",
+			"ils/elles": "régnèrent"
+		},
+		"passé composé": {
+			"j'": "ai régné",
+			"tu": "as régné",
+			"il/elle": "a régné",
+			"nous": "avons régné",
+			"vous": "avez régné",
+			"ils/elles": "ont régné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais régné",
+			"tu": "avais régné",
+			"il/elle": "avait régné",
+			"nous": "avions régné",
+			"vous": "aviez régné",
+			"ils/elles": "avaient régné"
+		},
+		"passé antérieur": {
+			"j'": "eus régné",
+			"tu": "eus régné",
+			"il/elle": "eut régné",
+			"nous": "eûmes régné",
+			"vous": "eûtes régné",
+			"ils/elles": "eurent régné"
+		},
+		"futur antérieur": {
+			"j'": "aurai régné",
+			"tu": "auras régné",
+			"il/elle": "aura régné",
+			"nous": "aurons régné",
+			"vous": "aurez régné",
+			"ils/elles": "auront régné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous régniez",
+			"qu'il/elle": "règne",
+			"qu'ils/elles": "règnent"
+		},
+		"imparfait": {
+			"que": "vous régnassiez",
+			"qu'il/elle": "régnât",
+			"qu'ils/elles": "régnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse régné",
+			"que": "vous eussiez régné",
+			"qu'il/elle": "eût régné",
+			"qu'ils/elles": "eussent régné"
+		},
+		"passé": {
+			"j'": "aie régné",
+			"que": "vous ayez régné",
+			"qu'il/elle": "ait régné",
+			"qu'ils/elles": "aient régné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "régnerais",
+			"tu": "régnerais",
+			"il/elle": "régnerait",
+			"nous": "régnerions",
+			"vous": "régneriez",
+			"ils/elles": "régneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais régné",
+			"tu": "aurais régné",
+			"il/elle": "aurait régné",
+			"nous": "aurions régné",
+			"vous": "auriez régné",
+			"ils/elles": "auraient régné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse régné",
+			"tu": "eusses régné",
+			"il/elle": "eût régné",
+			"nous": "eussions régné",
+			"vous": "eussiez régné",
+			"ils/elles": "eussent régné"
+		}
+	},
+	"participe": {
+		"présent": { "régnant": "" },
+		"passé composé": { "ayant": "régné" },
+		"passé": {
+			"masc.sg.:": "régné",
+			"masc.pl.:": "régnés",
+			"fém.sg.:": "régnée",
+			"fém.pl.:": "régnées"
+		}
+	},
+	"imperatif": {
+		"présent": { "règne": "", "régnons": "", "régnez": "" },
+		"passé": { "aie": "régné", "ayons": "régné", "ayez": "régné" }
+	},
+	"infinitif": { "présent": { "régner": "" }, "passé": { "avoir": "régné" } }
+}

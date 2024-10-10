@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "heat; warm; heat up; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se chauffer/ne pas chauffer/ne pas se chauffer",
+	"indicatif": {
+		"présent": {
+			"je": "chauffe",
+			"tu": "chauffes",
+			"il/elle": "chauffe",
+			"nous": "chauffons",
+			"vous": "chauffez",
+			"ils/elles": "chauffent"
+		},
+		"imparfait": {
+			"je": "chauffais",
+			"tu": "chauffais",
+			"il/elle": "chauffait",
+			"nous": "chauffions",
+			"vous": "chauffiez",
+			"ils/elles": "chauffaient"
+		},
+		"futur": {
+			"je": "chaufferai",
+			"tu": "chaufferas",
+			"il/elle": "chauffera",
+			"nous": "chaufferons",
+			"vous": "chaufferez",
+			"ils/elles": "chaufferont"
+		},
+		"passé simple": {
+			"je": "chauffai",
+			"tu": "chauffas",
+			"il/elle": "chauffa",
+			"nous": "chauffâmes",
+			"vous": "chauffâtes",
+			"ils/elles": "chauffèrent"
+		},
+		"passé composé": {
+			"j'": "ai chauffé",
+			"tu": "as chauffé",
+			"il/elle": "a chauffé",
+			"nous": "avons chauffé",
+			"vous": "avez chauffé",
+			"ils/elles": "ont chauffé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais chauffé",
+			"tu": "avais chauffé",
+			"il/elle": "avait chauffé",
+			"nous": "avions chauffé",
+			"vous": "aviez chauffé",
+			"ils/elles": "avaient chauffé"
+		},
+		"passé antérieur": {
+			"j'": "eus chauffé",
+			"tu": "eus chauffé",
+			"il/elle": "eut chauffé",
+			"nous": "eûmes chauffé",
+			"vous": "eûtes chauffé",
+			"ils/elles": "eurent chauffé"
+		},
+		"futur antérieur": {
+			"j'": "aurai chauffé",
+			"tu": "auras chauffé",
+			"il/elle": "aura chauffé",
+			"nous": "aurons chauffé",
+			"vous": "aurez chauffé",
+			"ils/elles": "auront chauffé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous chauffiez",
+			"qu'il/elle": "chauffe",
+			"qu'ils/elles": "chauffent"
+		},
+		"imparfait": {
+			"que": "vous chauffassiez",
+			"qu'il/elle": "chauffât",
+			"qu'ils/elles": "chauffassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse chauffé",
+			"que": "vous eussiez chauffé",
+			"qu'il/elle": "eût chauffé",
+			"qu'ils/elles": "eussent chauffé"
+		},
+		"passé": {
+			"j'": "aie chauffé",
+			"que": "vous ayez chauffé",
+			"qu'il/elle": "ait chauffé",
+			"qu'ils/elles": "aient chauffé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "chaufferais",
+			"tu": "chaufferais",
+			"il/elle": "chaufferait",
+			"nous": "chaufferions",
+			"vous": "chaufferiez",
+			"ils/elles": "chaufferaient"
+		},
+		"passé première forme": {
+			"j'": "aurais chauffé",
+			"tu": "aurais chauffé",
+			"il/elle": "aurait chauffé",
+			"nous": "aurions chauffé",
+			"vous": "auriez chauffé",
+			"ils/elles": "auraient chauffé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse chauffé",
+			"tu": "eusses chauffé",
+			"il/elle": "eût chauffé",
+			"nous": "eussions chauffé",
+			"vous": "eussiez chauffé",
+			"ils/elles": "eussent chauffé"
+		}
+	},
+	"participe": {
+		"présent": { "chauffant": "" },
+		"passé composé": { "ayant": "chauffé" },
+		"passé": {
+			"masc.sg.:": "chauffé",
+			"masc.pl.:": "chauffés",
+			"fém.sg.:": "chauffée",
+			"fém.pl.:": "chauffées"
+		}
+	},
+	"imperatif": {
+		"présent": { "chauffe": "", "chauffons": "", "chauffez": "" },
+		"passé": { "aie": "chauffé", "ayons": "chauffé", "ayez": "chauffé" }
+	},
+	"infinitif": {
+		"présent": { "chauffer": "" },
+		"passé": { "avoir": "chauffé" }
+	}
+}

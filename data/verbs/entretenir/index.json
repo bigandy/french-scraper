@@ -1,0 +1,143 @@
+{
+	"name": "tenir",
+	"definition": "maintain; ...",
+	"model": "tenir",
+	"auxiliary": "avoir",
+	"otherForms": "s'entretenir/ne pas entretenir/ne pas s'entretenir",
+	"indicatif": {
+		"présent": {
+			"j'": "entretiens",
+			"tu": "entretiens",
+			"il/elle": "entretient",
+			"nous": "entretenons",
+			"vous": "entretenez",
+			"ils/elles": "entretiennent"
+		},
+		"imparfait": {
+			"j'": "entretenais",
+			"tu": "entretenais",
+			"il/elle": "entretenait",
+			"nous": "entretenions",
+			"vous": "entreteniez",
+			"ils/elles": "entretenaient"
+		},
+		"futur": {
+			"j'": "entretiendrai",
+			"tu": "entretiendras",
+			"il/elle": "entretiendra",
+			"nous": "entretiendrons",
+			"vous": "entretiendrez",
+			"ils/elles": "entretiendront"
+		},
+		"passé simple": {
+			"j'": "entretins",
+			"tu": "entretins",
+			"il/elle": "entretint",
+			"nous": "entretînmes",
+			"vous": "entretîntes",
+			"ils/elles": "entretinrent"
+		},
+		"passé composé": {
+			"j'": "ai entretenu",
+			"tu": "as entretenu",
+			"il/elle": "a entretenu",
+			"nous": "avons entretenu",
+			"vous": "avez entretenu",
+			"ils/elles": "ont entretenu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais entretenu",
+			"tu": "avais entretenu",
+			"il/elle": "avait entretenu",
+			"nous": "avions entretenu",
+			"vous": "aviez entretenu",
+			"ils/elles": "avaient entretenu"
+		},
+		"passé antérieur": {
+			"j'": "eus entretenu",
+			"tu": "eus entretenu",
+			"il/elle": "eut entretenu",
+			"nous": "eûmes entretenu",
+			"vous": "eûtes entretenu",
+			"ils/elles": "eurent entretenu"
+		},
+		"futur antérieur": {
+			"j'": "aurai entretenu",
+			"tu": "auras entretenu",
+			"il/elle": "aura entretenu",
+			"nous": "aurons entretenu",
+			"vous": "aurez entretenu",
+			"ils/elles": "auront entretenu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "entretienne",
+			"que": "vous entreteniez",
+			"qu'il/elle": "entretienne",
+			"qu'ils/elles": "entretiennent"
+		},
+		"imparfait": {
+			"j'": "entretinsse",
+			"que": "vous entretinssiez",
+			"qu'il/elle": "entretînt",
+			"qu'ils/elles": "entretinssent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse entretenu",
+			"que": "vous eussiez entretenu",
+			"qu'il/elle": "eût entretenu",
+			"qu'ils/elles": "eussent entretenu"
+		},
+		"passé": {
+			"j'": "aie entretenu",
+			"que": "vous ayez entretenu",
+			"qu'il/elle": "ait entretenu",
+			"qu'ils/elles": "aient entretenu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "entretiendrais",
+			"tu": "entretiendrais",
+			"il/elle": "entretiendrait",
+			"nous": "entretiendrions",
+			"vous": "entretiendriez",
+			"ils/elles": "entretiendraient"
+		},
+		"passé première forme": {
+			"j'": "aurais entretenu",
+			"tu": "aurais entretenu",
+			"il/elle": "aurait entretenu",
+			"nous": "aurions entretenu",
+			"vous": "auriez entretenu",
+			"ils/elles": "auraient entretenu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse entretenu",
+			"tu": "eusses entretenu",
+			"il/elle": "eût entretenu",
+			"nous": "eussions entretenu",
+			"vous": "eussiez entretenu",
+			"ils/elles": "eussent entretenu"
+		}
+	},
+	"participe": {
+		"présent": { "entretenant": "" },
+		"passé composé": { "ayant": "entretenu" },
+		"passé": {
+			"masc.sg.:": "entretenu",
+			"masc.pl.:": "entretenus",
+			"fém.sg.:": "entretenue",
+			"fém.pl.:": "entretenues"
+		}
+	},
+	"imperatif": {
+		"présent": { "entretiens": "", "entretenons": "", "entretenez": "" },
+		"passé": { "aie": "entretenu", "ayons": "entretenu", "ayez": "entretenu" }
+	},
+	"infinitif": {
+		"présent": { "entretenir": "" },
+		"passé": { "avoir": "entretenu" }
+	}
+}

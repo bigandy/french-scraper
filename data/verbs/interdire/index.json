@@ -1,0 +1,143 @@
+{
+	"name": "interdire",
+	"definition": "prohibit; ban; prevent; ...",
+	"model": "interdire",
+	"auxiliary": "avoir",
+	"otherForms": "s'interdire/ne pas interdire/ne pas s'interdire",
+	"indicatif": {
+		"présent": {
+			"j'": "interdis",
+			"tu": "interdis",
+			"il/elle": "interdit",
+			"nous": "interdisons",
+			"vous": "interdisez",
+			"ils/elles": "interdisent"
+		},
+		"imparfait": {
+			"j'": "interdisais",
+			"tu": "interdisais",
+			"il/elle": "interdisait",
+			"nous": "interdisions",
+			"vous": "interdisiez",
+			"ils/elles": "interdisaient"
+		},
+		"futur": {
+			"j'": "interdirai",
+			"tu": "interdiras",
+			"il/elle": "interdira",
+			"nous": "interdirons",
+			"vous": "interdirez",
+			"ils/elles": "interdiront"
+		},
+		"passé simple": {
+			"j'": "interdis",
+			"tu": "interdis",
+			"il/elle": "interdit",
+			"nous": "interdîmes",
+			"vous": "interdîtes",
+			"ils/elles": "interdirent"
+		},
+		"passé composé": {
+			"j'": "ai interdit",
+			"tu": "as interdit",
+			"il/elle": "a interdit",
+			"nous": "avons interdit",
+			"vous": "avez interdit",
+			"ils/elles": "ont interdit"
+		},
+		"plus-que-parfait": {
+			"j'": "avais interdit",
+			"tu": "avais interdit",
+			"il/elle": "avait interdit",
+			"nous": "avions interdit",
+			"vous": "aviez interdit",
+			"ils/elles": "avaient interdit"
+		},
+		"passé antérieur": {
+			"j'": "eus interdit",
+			"tu": "eus interdit",
+			"il/elle": "eut interdit",
+			"nous": "eûmes interdit",
+			"vous": "eûtes interdit",
+			"ils/elles": "eurent interdit"
+		},
+		"futur antérieur": {
+			"j'": "aurai interdit",
+			"tu": "auras interdit",
+			"il/elle": "aura interdit",
+			"nous": "aurons interdit",
+			"vous": "aurez interdit",
+			"ils/elles": "auront interdit"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "interdise",
+			"que": "vous interdisiez",
+			"qu'il/elle": "interdise",
+			"qu'ils/elles": "interdisent"
+		},
+		"imparfait": {
+			"j'": "interdisse",
+			"que": "vous interdissiez",
+			"qu'il/elle": "interdît",
+			"qu'ils/elles": "interdissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse interdit",
+			"que": "vous eussiez interdit",
+			"qu'il/elle": "eût interdit",
+			"qu'ils/elles": "eussent interdit"
+		},
+		"passé": {
+			"j'": "aie interdit",
+			"que": "vous ayez interdit",
+			"qu'il/elle": "ait interdit",
+			"qu'ils/elles": "aient interdit"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "interdirais",
+			"tu": "interdirais",
+			"il/elle": "interdirait",
+			"nous": "interdirions",
+			"vous": "interdiriez",
+			"ils/elles": "interdiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais interdit",
+			"tu": "aurais interdit",
+			"il/elle": "aurait interdit",
+			"nous": "aurions interdit",
+			"vous": "auriez interdit",
+			"ils/elles": "auraient interdit"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse interdit",
+			"tu": "eusses interdit",
+			"il/elle": "eût interdit",
+			"nous": "eussions interdit",
+			"vous": "eussiez interdit",
+			"ils/elles": "eussent interdit"
+		}
+	},
+	"participe": {
+		"présent": { "interdisant": "" },
+		"passé composé": { "ayant": "interdit" },
+		"passé": {
+			"masc.sg.:": "interdit",
+			"masc.pl.:": "interdits",
+			"fém.sg.:": "interdite",
+			"fém.pl.:": "interdites"
+		}
+	},
+	"imperatif": {
+		"présent": { "interdis": "", "interdisons": "", "interdisez": "" },
+		"passé": { "aie": "interdit", "ayons": "interdit", "ayez": "interdit" }
+	},
+	"infinitif": {
+		"présent": { "interdire": "" },
+		"passé": { "avoir": "interdit" }
+	}
+}

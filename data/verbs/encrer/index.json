@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "ink; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'encrer/ne pas encrer/ne pas s'encrer",
+	"indicatif": {
+		"présent": {
+			"j'": "encre",
+			"tu": "encres",
+			"il/elle": "encre",
+			"nous": "encrons",
+			"vous": "encrez",
+			"ils/elles": "encrent"
+		},
+		"imparfait": {
+			"j'": "encrais",
+			"tu": "encrais",
+			"il/elle": "encrait",
+			"nous": "encrions",
+			"vous": "encriez",
+			"ils/elles": "encraient"
+		},
+		"futur": {
+			"j'": "encrerai",
+			"tu": "encreras",
+			"il/elle": "encrera",
+			"nous": "encrerons",
+			"vous": "encrerez",
+			"ils/elles": "encreront"
+		},
+		"passé simple": {
+			"j'": "encrai",
+			"tu": "encras",
+			"il/elle": "encra",
+			"nous": "encrâmes",
+			"vous": "encrâtes",
+			"ils/elles": "encrèrent"
+		},
+		"passé composé": {
+			"j'": "ai encré",
+			"tu": "as encré",
+			"il/elle": "a encré",
+			"nous": "avons encré",
+			"vous": "avez encré",
+			"ils/elles": "ont encré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais encré",
+			"tu": "avais encré",
+			"il/elle": "avait encré",
+			"nous": "avions encré",
+			"vous": "aviez encré",
+			"ils/elles": "avaient encré"
+		},
+		"passé antérieur": {
+			"j'": "eus encré",
+			"tu": "eus encré",
+			"il/elle": "eut encré",
+			"nous": "eûmes encré",
+			"vous": "eûtes encré",
+			"ils/elles": "eurent encré"
+		},
+		"futur antérieur": {
+			"j'": "aurai encré",
+			"tu": "auras encré",
+			"il/elle": "aura encré",
+			"nous": "aurons encré",
+			"vous": "aurez encré",
+			"ils/elles": "auront encré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "encre",
+			"que": "vous encriez",
+			"qu'il/elle": "encre",
+			"qu'ils/elles": "encrent"
+		},
+		"imparfait": {
+			"j'": "encrasse",
+			"que": "vous encrassiez",
+			"qu'il/elle": "encrât",
+			"qu'ils/elles": "encrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse encré",
+			"que": "vous eussiez encré",
+			"qu'il/elle": "eût encré",
+			"qu'ils/elles": "eussent encré"
+		},
+		"passé": {
+			"j'": "aie encré",
+			"que": "vous ayez encré",
+			"qu'il/elle": "ait encré",
+			"qu'ils/elles": "aient encré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "encrerais",
+			"tu": "encrerais",
+			"il/elle": "encrerait",
+			"nous": "encrerions",
+			"vous": "encreriez",
+			"ils/elles": "encreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais encré",
+			"tu": "aurais encré",
+			"il/elle": "aurait encré",
+			"nous": "aurions encré",
+			"vous": "auriez encré",
+			"ils/elles": "auraient encré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse encré",
+			"tu": "eusses encré",
+			"il/elle": "eût encré",
+			"nous": "eussions encré",
+			"vous": "eussiez encré",
+			"ils/elles": "eussent encré"
+		}
+	},
+	"participe": {
+		"présent": { "encrant": "" },
+		"passé composé": { "ayant": "encré" },
+		"passé": {
+			"masc.sg.:": "encré",
+			"masc.pl.:": "encrés",
+			"fém.sg.:": "encrée",
+			"fém.pl.:": "encrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "encre": "", "encrons": "", "encrez": "" },
+		"passé": { "aie": "encré", "ayons": "encré", "ayez": "encré" }
+	},
+	"infinitif": { "présent": { "encrer": "" }, "passé": { "avoir": "encré" } }
+}

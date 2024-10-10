@@ -1,0 +1,141 @@
+{
+	"name": "manger",
+	"definition": "relieve; alleviate; ease; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "se soulager/ne pas soulager/ne pas se soulager",
+	"indicatif": {
+		"présent": {
+			"je": "soulage",
+			"tu": "soulages",
+			"il/elle": "soulage",
+			"nous": "soulageons",
+			"vous": "soulagez",
+			"ils/elles": "soulagent"
+		},
+		"imparfait": {
+			"je": "soulageais",
+			"tu": "soulageais",
+			"il/elle": "soulageait",
+			"nous": "soulagions",
+			"vous": "soulagiez",
+			"ils/elles": "soulageaient"
+		},
+		"futur": {
+			"je": "soulagerai",
+			"tu": "soulageras",
+			"il/elle": "soulagera",
+			"nous": "soulagerons",
+			"vous": "soulagerez",
+			"ils/elles": "soulageront"
+		},
+		"passé simple": {
+			"je": "soulageai",
+			"tu": "soulageas",
+			"il/elle": "soulagea",
+			"nous": "soulageâmes",
+			"vous": "soulageâtes",
+			"ils/elles": "soulagèrent"
+		},
+		"passé composé": {
+			"j'": "ai soulagé",
+			"tu": "as soulagé",
+			"il/elle": "a soulagé",
+			"nous": "avons soulagé",
+			"vous": "avez soulagé",
+			"ils/elles": "ont soulagé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais soulagé",
+			"tu": "avais soulagé",
+			"il/elle": "avait soulagé",
+			"nous": "avions soulagé",
+			"vous": "aviez soulagé",
+			"ils/elles": "avaient soulagé"
+		},
+		"passé antérieur": {
+			"j'": "eus soulagé",
+			"tu": "eus soulagé",
+			"il/elle": "eut soulagé",
+			"nous": "eûmes soulagé",
+			"vous": "eûtes soulagé",
+			"ils/elles": "eurent soulagé"
+		},
+		"futur antérieur": {
+			"j'": "aurai soulagé",
+			"tu": "auras soulagé",
+			"il/elle": "aura soulagé",
+			"nous": "aurons soulagé",
+			"vous": "aurez soulagé",
+			"ils/elles": "auront soulagé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous soulagiez",
+			"qu'il/elle": "soulage",
+			"qu'ils/elles": "soulagent"
+		},
+		"imparfait": {
+			"que": "vous soulageassiez",
+			"qu'il/elle": "soulageât",
+			"qu'ils/elles": "soulageassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse soulagé",
+			"que": "vous eussiez soulagé",
+			"qu'il/elle": "eût soulagé",
+			"qu'ils/elles": "eussent soulagé"
+		},
+		"passé": {
+			"j'": "aie soulagé",
+			"que": "vous ayez soulagé",
+			"qu'il/elle": "ait soulagé",
+			"qu'ils/elles": "aient soulagé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "soulagerais",
+			"tu": "soulagerais",
+			"il/elle": "soulagerait",
+			"nous": "soulagerions",
+			"vous": "soulageriez",
+			"ils/elles": "soulageraient"
+		},
+		"passé première forme": {
+			"j'": "aurais soulagé",
+			"tu": "aurais soulagé",
+			"il/elle": "aurait soulagé",
+			"nous": "aurions soulagé",
+			"vous": "auriez soulagé",
+			"ils/elles": "auraient soulagé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse soulagé",
+			"tu": "eusses soulagé",
+			"il/elle": "eût soulagé",
+			"nous": "eussions soulagé",
+			"vous": "eussiez soulagé",
+			"ils/elles": "eussent soulagé"
+		}
+	},
+	"participe": {
+		"présent": { "soulageant": "" },
+		"passé composé": { "ayant": "soulagé" },
+		"passé": {
+			"masc.sg.:": "soulagé",
+			"masc.pl.:": "soulagés",
+			"fém.sg.:": "soulagée",
+			"fém.pl.:": "soulagées"
+		}
+	},
+	"imperatif": {
+		"présent": { "soulage": "", "soulageons": "", "soulagez": "" },
+		"passé": { "aie": "soulagé", "ayons": "soulagé", "ayez": "soulagé" }
+	},
+	"infinitif": {
+		"présent": { "soulager": "" },
+		"passé": { "avoir": "soulagé" }
+	}
+}

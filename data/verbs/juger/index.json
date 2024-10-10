@@ -1,0 +1,138 @@
+{
+	"name": "manger",
+	"definition": "judge; try; assess; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "se juger/ne pas juger/ne pas se juger",
+	"indicatif": {
+		"présent": {
+			"je": "juge",
+			"tu": "juges",
+			"il/elle": "juge",
+			"nous": "jugeons",
+			"vous": "jugez",
+			"ils/elles": "jugent"
+		},
+		"imparfait": {
+			"je": "jugeais",
+			"tu": "jugeais",
+			"il/elle": "jugeait",
+			"nous": "jugions",
+			"vous": "jugiez",
+			"ils/elles": "jugeaient"
+		},
+		"futur": {
+			"je": "jugerai",
+			"tu": "jugeras",
+			"il/elle": "jugera",
+			"nous": "jugerons",
+			"vous": "jugerez",
+			"ils/elles": "jugeront"
+		},
+		"passé simple": {
+			"je": "jugeai",
+			"tu": "jugeas",
+			"il/elle": "jugea",
+			"nous": "jugeâmes",
+			"vous": "jugeâtes",
+			"ils/elles": "jugèrent"
+		},
+		"passé composé": {
+			"j'": "ai jugé",
+			"tu": "as jugé",
+			"il/elle": "a jugé",
+			"nous": "avons jugé",
+			"vous": "avez jugé",
+			"ils/elles": "ont jugé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais jugé",
+			"tu": "avais jugé",
+			"il/elle": "avait jugé",
+			"nous": "avions jugé",
+			"vous": "aviez jugé",
+			"ils/elles": "avaient jugé"
+		},
+		"passé antérieur": {
+			"j'": "eus jugé",
+			"tu": "eus jugé",
+			"il/elle": "eut jugé",
+			"nous": "eûmes jugé",
+			"vous": "eûtes jugé",
+			"ils/elles": "eurent jugé"
+		},
+		"futur antérieur": {
+			"j'": "aurai jugé",
+			"tu": "auras jugé",
+			"il/elle": "aura jugé",
+			"nous": "aurons jugé",
+			"vous": "aurez jugé",
+			"ils/elles": "auront jugé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous jugiez",
+			"qu'il/elle": "juge",
+			"qu'ils/elles": "jugent"
+		},
+		"imparfait": {
+			"que": "vous jugeassiez",
+			"qu'il/elle": "jugeât",
+			"qu'ils/elles": "jugeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse jugé",
+			"que": "vous eussiez jugé",
+			"qu'il/elle": "eût jugé",
+			"qu'ils/elles": "eussent jugé"
+		},
+		"passé": {
+			"j'": "aie jugé",
+			"que": "vous ayez jugé",
+			"qu'il/elle": "ait jugé",
+			"qu'ils/elles": "aient jugé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "jugerais",
+			"tu": "jugerais",
+			"il/elle": "jugerait",
+			"nous": "jugerions",
+			"vous": "jugeriez",
+			"ils/elles": "jugeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais jugé",
+			"tu": "aurais jugé",
+			"il/elle": "aurait jugé",
+			"nous": "aurions jugé",
+			"vous": "auriez jugé",
+			"ils/elles": "auraient jugé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse jugé",
+			"tu": "eusses jugé",
+			"il/elle": "eût jugé",
+			"nous": "eussions jugé",
+			"vous": "eussiez jugé",
+			"ils/elles": "eussent jugé"
+		}
+	},
+	"participe": {
+		"présent": { "jugeant": "" },
+		"passé composé": { "ayant": "jugé" },
+		"passé": {
+			"masc.sg.:": "jugé",
+			"masc.pl.:": "jugés",
+			"fém.sg.:": "jugée",
+			"fém.pl.:": "jugées"
+		}
+	},
+	"imperatif": {
+		"présent": { "juge": "", "jugeons": "", "jugez": "" },
+		"passé": { "aie": "jugé", "ayons": "jugé", "ayez": "jugé" }
+	},
+	"infinitif": { "présent": { "juger": "" }, "passé": { "avoir": "jugé" } }
+}

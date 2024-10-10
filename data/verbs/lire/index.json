@@ -1,0 +1,138 @@
+{
+	"name": "lire",
+	"definition": "read; see; be read; ...",
+	"model": "lire",
+	"auxiliary": "avoir",
+	"otherForms": "se lire/ne pas lire/ne pas se lire",
+	"indicatif": {
+		"présent": {
+			"je": "lis",
+			"tu": "lis",
+			"il/elle": "lit",
+			"nous": "lisons",
+			"vous": "lisez",
+			"ils/elles": "lisent"
+		},
+		"imparfait": {
+			"je": "lisais",
+			"tu": "lisais",
+			"il/elle": "lisait",
+			"nous": "lisions",
+			"vous": "lisiez",
+			"ils/elles": "lisaient"
+		},
+		"futur": {
+			"je": "lirai",
+			"tu": "liras",
+			"il/elle": "lira",
+			"nous": "lirons",
+			"vous": "lirez",
+			"ils/elles": "liront"
+		},
+		"passé simple": {
+			"je": "lus",
+			"tu": "lus",
+			"il/elle": "lut",
+			"nous": "lûmes",
+			"vous": "lûtes",
+			"ils/elles": "lurent"
+		},
+		"passé composé": {
+			"j'": "ai lu",
+			"tu": "as lu",
+			"il/elle": "a lu",
+			"nous": "avons lu",
+			"vous": "avez lu",
+			"ils/elles": "ont lu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais lu",
+			"tu": "avais lu",
+			"il/elle": "avait lu",
+			"nous": "avions lu",
+			"vous": "aviez lu",
+			"ils/elles": "avaient lu"
+		},
+		"passé antérieur": {
+			"j'": "eus lu",
+			"tu": "eus lu",
+			"il/elle": "eut lu",
+			"nous": "eûmes lu",
+			"vous": "eûtes lu",
+			"ils/elles": "eurent lu"
+		},
+		"futur antérieur": {
+			"j'": "aurai lu",
+			"tu": "auras lu",
+			"il/elle": "aura lu",
+			"nous": "aurons lu",
+			"vous": "aurez lu",
+			"ils/elles": "auront lu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous lisiez",
+			"qu'il/elle": "lise",
+			"qu'ils/elles": "lisent"
+		},
+		"imparfait": {
+			"que": "vous lussiez",
+			"qu'il/elle": "lût",
+			"qu'ils/elles": "lussent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse lu",
+			"que": "vous eussiez lu",
+			"qu'il/elle": "eût lu",
+			"qu'ils/elles": "eussent lu"
+		},
+		"passé": {
+			"j'": "aie lu",
+			"que": "vous ayez lu",
+			"qu'il/elle": "ait lu",
+			"qu'ils/elles": "aient lu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "lirais",
+			"tu": "lirais",
+			"il/elle": "lirait",
+			"nous": "lirions",
+			"vous": "liriez",
+			"ils/elles": "liraient"
+		},
+		"passé première forme": {
+			"j'": "aurais lu",
+			"tu": "aurais lu",
+			"il/elle": "aurait lu",
+			"nous": "aurions lu",
+			"vous": "auriez lu",
+			"ils/elles": "auraient lu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse lu",
+			"tu": "eusses lu",
+			"il/elle": "eût lu",
+			"nous": "eussions lu",
+			"vous": "eussiez lu",
+			"ils/elles": "eussent lu"
+		}
+	},
+	"participe": {
+		"présent": { "lisant": "" },
+		"passé composé": { "ayant": "lu" },
+		"passé": {
+			"masc.sg.:": "lu",
+			"masc.pl.:": "lus",
+			"fém.sg.:": "lue",
+			"fém.pl.:": "lues"
+		}
+	},
+	"imperatif": {
+		"présent": { "lis": "", "lisons": "", "lisez": "" },
+		"passé": { "aie": "lu", "ayons": "lu", "ayez": "lu" }
+	},
+	"infinitif": { "présent": { "lire": "" }, "passé": { "avoir": "lu" } }
+}

@@ -6,10 +6,7 @@ import playwright from 'playwright'
 
 import { browserType, launchOptions } from './config'
 
-const getVerbNamefromUrl = (url: string) =>
-	url
-		.replace('https://conjugator.reverso.net/conjugation-french-verb-', '')
-		.replace('.html', '')
+import { getVerbNamefromUrl } from '../helpers'
 
 const getPageContent = async (url: string, page: Page) => {
 	await page.goto(url)

@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "save; rescue; salvage; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se sauver/ne pas sauver/ne pas se sauver",
+	"indicatif": {
+		"présent": {
+			"je": "sauve",
+			"tu": "sauves",
+			"il/elle": "sauve",
+			"nous": "sauvons",
+			"vous": "sauvez",
+			"ils/elles": "sauvent"
+		},
+		"imparfait": {
+			"je": "sauvais",
+			"tu": "sauvais",
+			"il/elle": "sauvait",
+			"nous": "sauvions",
+			"vous": "sauviez",
+			"ils/elles": "sauvaient"
+		},
+		"futur": {
+			"je": "sauverai",
+			"tu": "sauveras",
+			"il/elle": "sauvera",
+			"nous": "sauverons",
+			"vous": "sauverez",
+			"ils/elles": "sauveront"
+		},
+		"passé simple": {
+			"je": "sauvai",
+			"tu": "sauvas",
+			"il/elle": "sauva",
+			"nous": "sauvâmes",
+			"vous": "sauvâtes",
+			"ils/elles": "sauvèrent"
+		},
+		"passé composé": {
+			"j'": "ai sauvé",
+			"tu": "as sauvé",
+			"il/elle": "a sauvé",
+			"nous": "avons sauvé",
+			"vous": "avez sauvé",
+			"ils/elles": "ont sauvé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais sauvé",
+			"tu": "avais sauvé",
+			"il/elle": "avait sauvé",
+			"nous": "avions sauvé",
+			"vous": "aviez sauvé",
+			"ils/elles": "avaient sauvé"
+		},
+		"passé antérieur": {
+			"j'": "eus sauvé",
+			"tu": "eus sauvé",
+			"il/elle": "eut sauvé",
+			"nous": "eûmes sauvé",
+			"vous": "eûtes sauvé",
+			"ils/elles": "eurent sauvé"
+		},
+		"futur antérieur": {
+			"j'": "aurai sauvé",
+			"tu": "auras sauvé",
+			"il/elle": "aura sauvé",
+			"nous": "aurons sauvé",
+			"vous": "aurez sauvé",
+			"ils/elles": "auront sauvé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous sauviez",
+			"qu'il/elle": "sauve",
+			"qu'ils/elles": "sauvent"
+		},
+		"imparfait": {
+			"que": "vous sauvassiez",
+			"qu'il/elle": "sauvât",
+			"qu'ils/elles": "sauvassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse sauvé",
+			"que": "vous eussiez sauvé",
+			"qu'il/elle": "eût sauvé",
+			"qu'ils/elles": "eussent sauvé"
+		},
+		"passé": {
+			"j'": "aie sauvé",
+			"que": "vous ayez sauvé",
+			"qu'il/elle": "ait sauvé",
+			"qu'ils/elles": "aient sauvé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "sauverais",
+			"tu": "sauverais",
+			"il/elle": "sauverait",
+			"nous": "sauverions",
+			"vous": "sauveriez",
+			"ils/elles": "sauveraient"
+		},
+		"passé première forme": {
+			"j'": "aurais sauvé",
+			"tu": "aurais sauvé",
+			"il/elle": "aurait sauvé",
+			"nous": "aurions sauvé",
+			"vous": "auriez sauvé",
+			"ils/elles": "auraient sauvé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse sauvé",
+			"tu": "eusses sauvé",
+			"il/elle": "eût sauvé",
+			"nous": "eussions sauvé",
+			"vous": "eussiez sauvé",
+			"ils/elles": "eussent sauvé"
+		}
+	},
+	"participe": {
+		"présent": { "sauvant": "" },
+		"passé composé": { "ayant": "sauvé" },
+		"passé": {
+			"masc.sg.:": "sauvé",
+			"masc.pl.:": "sauvés",
+			"fém.sg.:": "sauvée",
+			"fém.pl.:": "sauvées"
+		}
+	},
+	"imperatif": {
+		"présent": { "sauve": "", "sauvons": "", "sauvez": "" },
+		"passé": { "aie": "sauvé", "ayons": "sauvé", "ayez": "sauvé" }
+	},
+	"infinitif": { "présent": { "sauver": "" }, "passé": { "avoir": "sauvé" } }
+}

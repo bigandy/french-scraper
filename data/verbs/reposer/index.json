@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "rest; be based; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se reposer/ne pas reposer/ne pas se reposer",
+	"indicatif": {
+		"présent": {
+			"je": "repose",
+			"tu": "reposes",
+			"il/elle": "repose",
+			"nous": "reposons",
+			"vous": "reposez",
+			"ils/elles": "reposent"
+		},
+		"imparfait": {
+			"je": "reposais",
+			"tu": "reposais",
+			"il/elle": "reposait",
+			"nous": "reposions",
+			"vous": "reposiez",
+			"ils/elles": "reposaient"
+		},
+		"futur": {
+			"je": "reposerai",
+			"tu": "reposeras",
+			"il/elle": "reposera",
+			"nous": "reposerons",
+			"vous": "reposerez",
+			"ils/elles": "reposeront"
+		},
+		"passé simple": {
+			"je": "reposai",
+			"tu": "reposas",
+			"il/elle": "reposa",
+			"nous": "reposâmes",
+			"vous": "reposâtes",
+			"ils/elles": "reposèrent"
+		},
+		"passé composé": {
+			"j'": "ai reposé",
+			"tu": "as reposé",
+			"il/elle": "a reposé",
+			"nous": "avons reposé",
+			"vous": "avez reposé",
+			"ils/elles": "ont reposé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais reposé",
+			"tu": "avais reposé",
+			"il/elle": "avait reposé",
+			"nous": "avions reposé",
+			"vous": "aviez reposé",
+			"ils/elles": "avaient reposé"
+		},
+		"passé antérieur": {
+			"j'": "eus reposé",
+			"tu": "eus reposé",
+			"il/elle": "eut reposé",
+			"nous": "eûmes reposé",
+			"vous": "eûtes reposé",
+			"ils/elles": "eurent reposé"
+		},
+		"futur antérieur": {
+			"j'": "aurai reposé",
+			"tu": "auras reposé",
+			"il/elle": "aura reposé",
+			"nous": "aurons reposé",
+			"vous": "aurez reposé",
+			"ils/elles": "auront reposé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous reposiez",
+			"qu'il/elle": "repose",
+			"qu'ils/elles": "reposent"
+		},
+		"imparfait": {
+			"que": "vous reposassiez",
+			"qu'il/elle": "reposât",
+			"qu'ils/elles": "reposassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse reposé",
+			"que": "vous eussiez reposé",
+			"qu'il/elle": "eût reposé",
+			"qu'ils/elles": "eussent reposé"
+		},
+		"passé": {
+			"j'": "aie reposé",
+			"que": "vous ayez reposé",
+			"qu'il/elle": "ait reposé",
+			"qu'ils/elles": "aient reposé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "reposerais",
+			"tu": "reposerais",
+			"il/elle": "reposerait",
+			"nous": "reposerions",
+			"vous": "reposeriez",
+			"ils/elles": "reposeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais reposé",
+			"tu": "aurais reposé",
+			"il/elle": "aurait reposé",
+			"nous": "aurions reposé",
+			"vous": "auriez reposé",
+			"ils/elles": "auraient reposé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse reposé",
+			"tu": "eusses reposé",
+			"il/elle": "eût reposé",
+			"nous": "eussions reposé",
+			"vous": "eussiez reposé",
+			"ils/elles": "eussent reposé"
+		}
+	},
+	"participe": {
+		"présent": { "reposant": "" },
+		"passé composé": { "ayant": "reposé" },
+		"passé": {
+			"masc.sg.:": "reposé",
+			"masc.pl.:": "reposés",
+			"fém.sg.:": "reposée",
+			"fém.pl.:": "reposées"
+		}
+	},
+	"imperatif": {
+		"présent": { "repose": "", "reposons": "", "reposez": "" },
+		"passé": { "aie": "reposé", "ayons": "reposé", "ayez": "reposé" }
+	},
+	"infinitif": { "présent": { "reposer": "" }, "passé": { "avoir": "reposé" } }
+}

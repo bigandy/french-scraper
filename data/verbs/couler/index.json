@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "sink; flow; cast; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se couler/ne pas couler/ne pas se couler",
+	"indicatif": {
+		"présent": {
+			"je": "coule",
+			"tu": "coules",
+			"il/elle": "coule",
+			"nous": "coulons",
+			"vous": "coulez",
+			"ils/elles": "coulent"
+		},
+		"imparfait": {
+			"je": "coulais",
+			"tu": "coulais",
+			"il/elle": "coulait",
+			"nous": "coulions",
+			"vous": "couliez",
+			"ils/elles": "coulaient"
+		},
+		"futur": {
+			"je": "coulerai",
+			"tu": "couleras",
+			"il/elle": "coulera",
+			"nous": "coulerons",
+			"vous": "coulerez",
+			"ils/elles": "couleront"
+		},
+		"passé simple": {
+			"je": "coulai",
+			"tu": "coulas",
+			"il/elle": "coula",
+			"nous": "coulâmes",
+			"vous": "coulâtes",
+			"ils/elles": "coulèrent"
+		},
+		"passé composé": {
+			"j'": "ai coulé",
+			"tu": "as coulé",
+			"il/elle": "a coulé",
+			"nous": "avons coulé",
+			"vous": "avez coulé",
+			"ils/elles": "ont coulé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais coulé",
+			"tu": "avais coulé",
+			"il/elle": "avait coulé",
+			"nous": "avions coulé",
+			"vous": "aviez coulé",
+			"ils/elles": "avaient coulé"
+		},
+		"passé antérieur": {
+			"j'": "eus coulé",
+			"tu": "eus coulé",
+			"il/elle": "eut coulé",
+			"nous": "eûmes coulé",
+			"vous": "eûtes coulé",
+			"ils/elles": "eurent coulé"
+		},
+		"futur antérieur": {
+			"j'": "aurai coulé",
+			"tu": "auras coulé",
+			"il/elle": "aura coulé",
+			"nous": "aurons coulé",
+			"vous": "aurez coulé",
+			"ils/elles": "auront coulé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous couliez",
+			"qu'il/elle": "coule",
+			"qu'ils/elles": "coulent"
+		},
+		"imparfait": {
+			"que": "vous coulassiez",
+			"qu'il/elle": "coulât",
+			"qu'ils/elles": "coulassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse coulé",
+			"que": "vous eussiez coulé",
+			"qu'il/elle": "eût coulé",
+			"qu'ils/elles": "eussent coulé"
+		},
+		"passé": {
+			"j'": "aie coulé",
+			"que": "vous ayez coulé",
+			"qu'il/elle": "ait coulé",
+			"qu'ils/elles": "aient coulé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "coulerais",
+			"tu": "coulerais",
+			"il/elle": "coulerait",
+			"nous": "coulerions",
+			"vous": "couleriez",
+			"ils/elles": "couleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais coulé",
+			"tu": "aurais coulé",
+			"il/elle": "aurait coulé",
+			"nous": "aurions coulé",
+			"vous": "auriez coulé",
+			"ils/elles": "auraient coulé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse coulé",
+			"tu": "eusses coulé",
+			"il/elle": "eût coulé",
+			"nous": "eussions coulé",
+			"vous": "eussiez coulé",
+			"ils/elles": "eussent coulé"
+		}
+	},
+	"participe": {
+		"présent": { "coulant": "" },
+		"passé composé": { "ayant": "coulé" },
+		"passé": {
+			"masc.sg.:": "coulé",
+			"masc.pl.:": "coulés",
+			"fém.sg.:": "coulée",
+			"fém.pl.:": "coulées"
+		}
+	},
+	"imperatif": {
+		"présent": { "coule": "", "coulons": "", "coulez": "" },
+		"passé": { "aie": "coulé", "ayons": "coulé", "ayez": "coulé" }
+	},
+	"infinitif": { "présent": { "couler": "" }, "passé": { "avoir": "coulé" } }
+}

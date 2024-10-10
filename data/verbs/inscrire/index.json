@@ -1,0 +1,143 @@
+{
+	"name": "écrire",
+	"definition": "register; include; enter; ...",
+	"model": "écrire",
+	"auxiliary": "avoir",
+	"otherForms": "s'inscrire/ne pas inscrire/ne pas s'inscrire",
+	"indicatif": {
+		"présent": {
+			"j'": "inscris",
+			"tu": "inscris",
+			"il/elle": "inscrit",
+			"nous": "inscrivons",
+			"vous": "inscrivez",
+			"ils/elles": "inscrivent"
+		},
+		"imparfait": {
+			"j'": "inscrivais",
+			"tu": "inscrivais",
+			"il/elle": "inscrivait",
+			"nous": "inscrivions",
+			"vous": "inscriviez",
+			"ils/elles": "inscrivaient"
+		},
+		"futur": {
+			"j'": "inscrirai",
+			"tu": "inscriras",
+			"il/elle": "inscrira",
+			"nous": "inscrirons",
+			"vous": "inscrirez",
+			"ils/elles": "inscriront"
+		},
+		"passé simple": {
+			"j'": "inscrivis",
+			"tu": "inscrivis",
+			"il/elle": "inscrivit",
+			"nous": "inscrivîmes",
+			"vous": "inscrivîtes",
+			"ils/elles": "inscrivirent"
+		},
+		"passé composé": {
+			"j'": "ai inscrit",
+			"tu": "as inscrit",
+			"il/elle": "a inscrit",
+			"nous": "avons inscrit",
+			"vous": "avez inscrit",
+			"ils/elles": "ont inscrit"
+		},
+		"plus-que-parfait": {
+			"j'": "avais inscrit",
+			"tu": "avais inscrit",
+			"il/elle": "avait inscrit",
+			"nous": "avions inscrit",
+			"vous": "aviez inscrit",
+			"ils/elles": "avaient inscrit"
+		},
+		"passé antérieur": {
+			"j'": "eus inscrit",
+			"tu": "eus inscrit",
+			"il/elle": "eut inscrit",
+			"nous": "eûmes inscrit",
+			"vous": "eûtes inscrit",
+			"ils/elles": "eurent inscrit"
+		},
+		"futur antérieur": {
+			"j'": "aurai inscrit",
+			"tu": "auras inscrit",
+			"il/elle": "aura inscrit",
+			"nous": "aurons inscrit",
+			"vous": "aurez inscrit",
+			"ils/elles": "auront inscrit"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "inscrive",
+			"que": "vous inscriviez",
+			"qu'il/elle": "inscrive",
+			"qu'ils/elles": "inscrivent"
+		},
+		"imparfait": {
+			"j'": "inscrivisse",
+			"que": "vous inscrivissiez",
+			"qu'il/elle": "inscrivît",
+			"qu'ils/elles": "inscrivissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse inscrit",
+			"que": "vous eussiez inscrit",
+			"qu'il/elle": "eût inscrit",
+			"qu'ils/elles": "eussent inscrit"
+		},
+		"passé": {
+			"j'": "aie inscrit",
+			"que": "vous ayez inscrit",
+			"qu'il/elle": "ait inscrit",
+			"qu'ils/elles": "aient inscrit"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "inscrirais",
+			"tu": "inscrirais",
+			"il/elle": "inscrirait",
+			"nous": "inscririons",
+			"vous": "inscririez",
+			"ils/elles": "inscriraient"
+		},
+		"passé première forme": {
+			"j'": "aurais inscrit",
+			"tu": "aurais inscrit",
+			"il/elle": "aurait inscrit",
+			"nous": "aurions inscrit",
+			"vous": "auriez inscrit",
+			"ils/elles": "auraient inscrit"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse inscrit",
+			"tu": "eusses inscrit",
+			"il/elle": "eût inscrit",
+			"nous": "eussions inscrit",
+			"vous": "eussiez inscrit",
+			"ils/elles": "eussent inscrit"
+		}
+	},
+	"participe": {
+		"présent": { "inscrivant": "" },
+		"passé composé": { "ayant": "inscrit" },
+		"passé": {
+			"masc.sg.:": "inscrit",
+			"masc.pl.:": "inscrits",
+			"fém.sg.:": "inscrite",
+			"fém.pl.:": "inscrites"
+		}
+	},
+	"imperatif": {
+		"présent": { "inscris": "", "inscrivons": "", "inscrivez": "" },
+		"passé": { "aie": "inscrit", "ayons": "inscrit", "ayez": "inscrit" }
+	},
+	"infinitif": {
+		"présent": { "inscrire": "" },
+		"passé": { "avoir": "inscrit" }
+	}
+}

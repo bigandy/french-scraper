@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "initiate; introduce; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'initier/ne pas initier/ne pas s'initier",
+	"indicatif": {
+		"présent": {
+			"j'": "initie",
+			"tu": "inities",
+			"il/elle": "initie",
+			"nous": "initions",
+			"vous": "initiez",
+			"ils/elles": "initient"
+		},
+		"imparfait": {
+			"j'": "initiais",
+			"tu": "initiais",
+			"il/elle": "initiait",
+			"nous": "initiions",
+			"vous": "initiiez",
+			"ils/elles": "initiaient"
+		},
+		"futur": {
+			"j'": "initierai",
+			"tu": "initieras",
+			"il/elle": "initiera",
+			"nous": "initierons",
+			"vous": "initierez",
+			"ils/elles": "initieront"
+		},
+		"passé simple": {
+			"j'": "initiai",
+			"tu": "initias",
+			"il/elle": "initia",
+			"nous": "initiâmes",
+			"vous": "initiâtes",
+			"ils/elles": "initièrent"
+		},
+		"passé composé": {
+			"j'": "ai initié",
+			"tu": "as initié",
+			"il/elle": "a initié",
+			"nous": "avons initié",
+			"vous": "avez initié",
+			"ils/elles": "ont initié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais initié",
+			"tu": "avais initié",
+			"il/elle": "avait initié",
+			"nous": "avions initié",
+			"vous": "aviez initié",
+			"ils/elles": "avaient initié"
+		},
+		"passé antérieur": {
+			"j'": "eus initié",
+			"tu": "eus initié",
+			"il/elle": "eut initié",
+			"nous": "eûmes initié",
+			"vous": "eûtes initié",
+			"ils/elles": "eurent initié"
+		},
+		"futur antérieur": {
+			"j'": "aurai initié",
+			"tu": "auras initié",
+			"il/elle": "aura initié",
+			"nous": "aurons initié",
+			"vous": "aurez initié",
+			"ils/elles": "auront initié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "initie",
+			"que": "vous initiiez",
+			"qu'il/elle": "initie",
+			"qu'ils/elles": "initient"
+		},
+		"imparfait": {
+			"j'": "initiasse",
+			"que": "vous initiassiez",
+			"qu'il/elle": "initiât",
+			"qu'ils/elles": "initiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse initié",
+			"que": "vous eussiez initié",
+			"qu'il/elle": "eût initié",
+			"qu'ils/elles": "eussent initié"
+		},
+		"passé": {
+			"j'": "aie initié",
+			"que": "vous ayez initié",
+			"qu'il/elle": "ait initié",
+			"qu'ils/elles": "aient initié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "initierais",
+			"tu": "initierais",
+			"il/elle": "initierait",
+			"nous": "initierions",
+			"vous": "initieriez",
+			"ils/elles": "initieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais initié",
+			"tu": "aurais initié",
+			"il/elle": "aurait initié",
+			"nous": "aurions initié",
+			"vous": "auriez initié",
+			"ils/elles": "auraient initié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse initié",
+			"tu": "eusses initié",
+			"il/elle": "eût initié",
+			"nous": "eussions initié",
+			"vous": "eussiez initié",
+			"ils/elles": "eussent initié"
+		}
+	},
+	"participe": {
+		"présent": { "initiant": "" },
+		"passé composé": { "ayant": "initié" },
+		"passé": {
+			"masc.sg.:": "initié",
+			"masc.pl.:": "initiés",
+			"fém.sg.:": "initiée",
+			"fém.pl.:": "initiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "initie": "", "initions": "", "initiez": "" },
+		"passé": { "aie": "initié", "ayons": "initié", "ayez": "initié" }
+	},
+	"infinitif": { "présent": { "initier": "" }, "passé": { "avoir": "initié" } }
+}

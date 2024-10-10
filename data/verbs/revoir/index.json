@@ -1,0 +1,138 @@
+{
+	"name": "voir",
+	"definition": "review; revise; ...",
+	"model": "voir",
+	"auxiliary": "avoir",
+	"otherForms": "se revoir/ne pas revoir/ne pas se revoir",
+	"indicatif": {
+		"présent": {
+			"je": "revois",
+			"tu": "revois",
+			"il/elle": "revoit",
+			"nous": "revoyons",
+			"vous": "revoyez",
+			"ils/elles": "revoient"
+		},
+		"imparfait": {
+			"je": "revoyais",
+			"tu": "revoyais",
+			"il/elle": "revoyait",
+			"nous": "revoyions",
+			"vous": "revoyiez",
+			"ils/elles": "revoyaient"
+		},
+		"futur": {
+			"je": "reverrai",
+			"tu": "reverras",
+			"il/elle": "reverra",
+			"nous": "reverrons",
+			"vous": "reverrez",
+			"ils/elles": "reverront"
+		},
+		"passé simple": {
+			"je": "revis",
+			"tu": "revis",
+			"il/elle": "revit",
+			"nous": "revîmes",
+			"vous": "revîtes",
+			"ils/elles": "revirent"
+		},
+		"passé composé": {
+			"j'": "ai revu",
+			"tu": "as revu",
+			"il/elle": "a revu",
+			"nous": "avons revu",
+			"vous": "avez revu",
+			"ils/elles": "ont revu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais revu",
+			"tu": "avais revu",
+			"il/elle": "avait revu",
+			"nous": "avions revu",
+			"vous": "aviez revu",
+			"ils/elles": "avaient revu"
+		},
+		"passé antérieur": {
+			"j'": "eus revu",
+			"tu": "eus revu",
+			"il/elle": "eut revu",
+			"nous": "eûmes revu",
+			"vous": "eûtes revu",
+			"ils/elles": "eurent revu"
+		},
+		"futur antérieur": {
+			"j'": "aurai revu",
+			"tu": "auras revu",
+			"il/elle": "aura revu",
+			"nous": "aurons revu",
+			"vous": "aurez revu",
+			"ils/elles": "auront revu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous revoyiez",
+			"qu'il/elle": "revoie",
+			"qu'ils/elles": "revoient"
+		},
+		"imparfait": {
+			"que": "vous revissiez",
+			"qu'il/elle": "revît",
+			"qu'ils/elles": "revissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse revu",
+			"que": "vous eussiez revu",
+			"qu'il/elle": "eût revu",
+			"qu'ils/elles": "eussent revu"
+		},
+		"passé": {
+			"j'": "aie revu",
+			"que": "vous ayez revu",
+			"qu'il/elle": "ait revu",
+			"qu'ils/elles": "aient revu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "reverrais",
+			"tu": "reverrais",
+			"il/elle": "reverrait",
+			"nous": "reverrions",
+			"vous": "reverriez",
+			"ils/elles": "reverraient"
+		},
+		"passé première forme": {
+			"j'": "aurais revu",
+			"tu": "aurais revu",
+			"il/elle": "aurait revu",
+			"nous": "aurions revu",
+			"vous": "auriez revu",
+			"ils/elles": "auraient revu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse revu",
+			"tu": "eusses revu",
+			"il/elle": "eût revu",
+			"nous": "eussions revu",
+			"vous": "eussiez revu",
+			"ils/elles": "eussent revu"
+		}
+	},
+	"participe": {
+		"présent": { "revoyant": "" },
+		"passé composé": { "ayant": "revu" },
+		"passé": {
+			"masc.sg.:": "revu",
+			"masc.pl.:": "revus",
+			"fém.sg.:": "revue",
+			"fém.pl.:": "revues"
+		}
+	},
+	"imperatif": {
+		"présent": { "revois": "", "revoyons": "", "revoyez": "" },
+		"passé": { "aie": "revu", "ayons": "revu", "ayez": "revu" }
+	},
+	"infinitif": { "présent": { "revoir": "" }, "passé": { "avoir": "revu" } }
+}

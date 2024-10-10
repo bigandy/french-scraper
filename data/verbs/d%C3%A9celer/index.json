@@ -1,0 +1,138 @@
+{
+	"name": "peler",
+	"definition": "detect; identify; discover; ...",
+	"model": "peler",
+	"auxiliary": "avoir",
+	"otherForms": "se déceler/ne pas déceler/ne pas se déceler",
+	"indicatif": {
+		"présent": {
+			"je": "décèle",
+			"tu": "décèles",
+			"il/elle": "décèle",
+			"nous": "décelons",
+			"vous": "décelez",
+			"ils/elles": "décèlent"
+		},
+		"imparfait": {
+			"je": "décelais",
+			"tu": "décelais",
+			"il/elle": "décelait",
+			"nous": "décelions",
+			"vous": "déceliez",
+			"ils/elles": "décelaient"
+		},
+		"futur": {
+			"je": "décèlerai",
+			"tu": "décèleras",
+			"il/elle": "décèlera",
+			"nous": "décèlerons",
+			"vous": "décèlerez",
+			"ils/elles": "décèleront"
+		},
+		"passé simple": {
+			"je": "décelai",
+			"tu": "décelas",
+			"il/elle": "décela",
+			"nous": "décelâmes",
+			"vous": "décelâtes",
+			"ils/elles": "décelèrent"
+		},
+		"passé composé": {
+			"j'": "ai décelé",
+			"tu": "as décelé",
+			"il/elle": "a décelé",
+			"nous": "avons décelé",
+			"vous": "avez décelé",
+			"ils/elles": "ont décelé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais décelé",
+			"tu": "avais décelé",
+			"il/elle": "avait décelé",
+			"nous": "avions décelé",
+			"vous": "aviez décelé",
+			"ils/elles": "avaient décelé"
+		},
+		"passé antérieur": {
+			"j'": "eus décelé",
+			"tu": "eus décelé",
+			"il/elle": "eut décelé",
+			"nous": "eûmes décelé",
+			"vous": "eûtes décelé",
+			"ils/elles": "eurent décelé"
+		},
+		"futur antérieur": {
+			"j'": "aurai décelé",
+			"tu": "auras décelé",
+			"il/elle": "aura décelé",
+			"nous": "aurons décelé",
+			"vous": "aurez décelé",
+			"ils/elles": "auront décelé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous déceliez",
+			"qu'il/elle": "décèle",
+			"qu'ils/elles": "décèlent"
+		},
+		"imparfait": {
+			"que": "vous décelassiez",
+			"qu'il/elle": "décelât",
+			"qu'ils/elles": "décelassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse décelé",
+			"que": "vous eussiez décelé",
+			"qu'il/elle": "eût décelé",
+			"qu'ils/elles": "eussent décelé"
+		},
+		"passé": {
+			"j'": "aie décelé",
+			"que": "vous ayez décelé",
+			"qu'il/elle": "ait décelé",
+			"qu'ils/elles": "aient décelé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "décèlerais",
+			"tu": "décèlerais",
+			"il/elle": "décèlerait",
+			"nous": "décèlerions",
+			"vous": "décèleriez",
+			"ils/elles": "décèleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais décelé",
+			"tu": "aurais décelé",
+			"il/elle": "aurait décelé",
+			"nous": "aurions décelé",
+			"vous": "auriez décelé",
+			"ils/elles": "auraient décelé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse décelé",
+			"tu": "eusses décelé",
+			"il/elle": "eût décelé",
+			"nous": "eussions décelé",
+			"vous": "eussiez décelé",
+			"ils/elles": "eussent décelé"
+		}
+	},
+	"participe": {
+		"présent": { "décelant": "" },
+		"passé composé": { "ayant": "décelé" },
+		"passé": {
+			"masc.sg.:": "décelé",
+			"masc.pl.:": "décelés",
+			"fém.sg.:": "décelée",
+			"fém.pl.:": "décelées"
+		}
+	},
+	"imperatif": {
+		"présent": { "décèle": "", "décelons": "", "décelez": "" },
+		"passé": { "aie": "décelé", "ayons": "décelé", "ayez": "décelé" }
+	},
+	"infinitif": { "présent": { "déceler": "" }, "passé": { "avoir": "décelé" } }
+}

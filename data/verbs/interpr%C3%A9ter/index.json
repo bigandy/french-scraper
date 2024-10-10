@@ -1,0 +1,147 @@
+{
+	"name": "répéter",
+	"definition": "interpret; construe; read; ...",
+	"model": "répéter",
+	"auxiliary": "avoir",
+	"otherForms": "s'interpréter/ne pas interpréter/ne pas s'interpréter",
+	"indicatif": {
+		"présent": {
+			"j'": "interprète",
+			"tu": "interprètes",
+			"il/elle": "interprète",
+			"nous": "interprétons",
+			"vous": "interprétez",
+			"ils/elles": "interprètent"
+		},
+		"imparfait": {
+			"j'": "interprétais",
+			"tu": "interprétais",
+			"il/elle": "interprétait",
+			"nous": "interprétions",
+			"vous": "interprétiez",
+			"ils/elles": "interprétaient"
+		},
+		"futur": {
+			"j'": "interpréterai",
+			"tu": "interpréteras",
+			"il/elle": "interprétera",
+			"nous": "interpréterons",
+			"vous": "interpréterez",
+			"ils/elles": "interpréteront"
+		},
+		"passé simple": {
+			"j'": "interprétai",
+			"tu": "interprétas",
+			"il/elle": "interpréta",
+			"nous": "interprétâmes",
+			"vous": "interprétâtes",
+			"ils/elles": "interprétèrent"
+		},
+		"passé composé": {
+			"j'": "ai interprété",
+			"tu": "as interprété",
+			"il/elle": "a interprété",
+			"nous": "avons interprété",
+			"vous": "avez interprété",
+			"ils/elles": "ont interprété"
+		},
+		"plus-que-parfait": {
+			"j'": "avais interprété",
+			"tu": "avais interprété",
+			"il/elle": "avait interprété",
+			"nous": "avions interprété",
+			"vous": "aviez interprété",
+			"ils/elles": "avaient interprété"
+		},
+		"passé antérieur": {
+			"j'": "eus interprété",
+			"tu": "eus interprété",
+			"il/elle": "eut interprété",
+			"nous": "eûmes interprété",
+			"vous": "eûtes interprété",
+			"ils/elles": "eurent interprété"
+		},
+		"futur antérieur": {
+			"j'": "aurai interprété",
+			"tu": "auras interprété",
+			"il/elle": "aura interprété",
+			"nous": "aurons interprété",
+			"vous": "aurez interprété",
+			"ils/elles": "auront interprété"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "interprète",
+			"que": "vous interprétiez",
+			"qu'il/elle": "interprète",
+			"qu'ils/elles": "interprètent"
+		},
+		"imparfait": {
+			"j'": "interprétasse",
+			"que": "vous interprétassiez",
+			"qu'il/elle": "interprétât",
+			"qu'ils/elles": "interprétassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse interprété",
+			"que": "vous eussiez interprété",
+			"qu'il/elle": "eût interprété",
+			"qu'ils/elles": "eussent interprété"
+		},
+		"passé": {
+			"j'": "aie interprété",
+			"que": "vous ayez interprété",
+			"qu'il/elle": "ait interprété",
+			"qu'ils/elles": "aient interprété"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "interpréterais",
+			"tu": "interpréterais",
+			"il/elle": "interpréterait",
+			"nous": "interpréterions",
+			"vous": "interpréteriez",
+			"ils/elles": "interpréteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais interprété",
+			"tu": "aurais interprété",
+			"il/elle": "aurait interprété",
+			"nous": "aurions interprété",
+			"vous": "auriez interprété",
+			"ils/elles": "auraient interprété"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse interprété",
+			"tu": "eusses interprété",
+			"il/elle": "eût interprété",
+			"nous": "eussions interprété",
+			"vous": "eussiez interprété",
+			"ils/elles": "eussent interprété"
+		}
+	},
+	"participe": {
+		"présent": { "interprétant": "" },
+		"passé composé": { "ayant": "interprété" },
+		"passé": {
+			"masc.sg.:": "interprété",
+			"masc.pl.:": "interprétés",
+			"fém.sg.:": "interprétée",
+			"fém.pl.:": "interprétées"
+		}
+	},
+	"imperatif": {
+		"présent": { "interprète": "", "interprétons": "", "interprétez": "" },
+		"passé": {
+			"aie": "interprété",
+			"ayons": "interprété",
+			"ayez": "interprété"
+		}
+	},
+	"infinitif": {
+		"présent": { "interpréter": "" },
+		"passé": { "avoir": "interprété" }
+	}
+}

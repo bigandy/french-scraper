@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "doubt; question; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se douter/ne pas douter/ne pas se douter",
+	"indicatif": {
+		"présent": {
+			"je": "doute",
+			"tu": "doutes",
+			"il/elle": "doute",
+			"nous": "doutons",
+			"vous": "doutez",
+			"ils/elles": "doutent"
+		},
+		"imparfait": {
+			"je": "doutais",
+			"tu": "doutais",
+			"il/elle": "doutait",
+			"nous": "doutions",
+			"vous": "doutiez",
+			"ils/elles": "doutaient"
+		},
+		"futur": {
+			"je": "douterai",
+			"tu": "douteras",
+			"il/elle": "doutera",
+			"nous": "douterons",
+			"vous": "douterez",
+			"ils/elles": "douteront"
+		},
+		"passé simple": {
+			"je": "doutai",
+			"tu": "doutas",
+			"il/elle": "douta",
+			"nous": "doutâmes",
+			"vous": "doutâtes",
+			"ils/elles": "doutèrent"
+		},
+		"passé composé": {
+			"j'": "ai douté",
+			"tu": "as douté",
+			"il/elle": "a douté",
+			"nous": "avons douté",
+			"vous": "avez douté",
+			"ils/elles": "ont douté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais douté",
+			"tu": "avais douté",
+			"il/elle": "avait douté",
+			"nous": "avions douté",
+			"vous": "aviez douté",
+			"ils/elles": "avaient douté"
+		},
+		"passé antérieur": {
+			"j'": "eus douté",
+			"tu": "eus douté",
+			"il/elle": "eut douté",
+			"nous": "eûmes douté",
+			"vous": "eûtes douté",
+			"ils/elles": "eurent douté"
+		},
+		"futur antérieur": {
+			"j'": "aurai douté",
+			"tu": "auras douté",
+			"il/elle": "aura douté",
+			"nous": "aurons douté",
+			"vous": "aurez douté",
+			"ils/elles": "auront douté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous doutiez",
+			"qu'il/elle": "doute",
+			"qu'ils/elles": "doutent"
+		},
+		"imparfait": {
+			"que": "vous doutassiez",
+			"qu'il/elle": "doutât",
+			"qu'ils/elles": "doutassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse douté",
+			"que": "vous eussiez douté",
+			"qu'il/elle": "eût douté",
+			"qu'ils/elles": "eussent douté"
+		},
+		"passé": {
+			"j'": "aie douté",
+			"que": "vous ayez douté",
+			"qu'il/elle": "ait douté",
+			"qu'ils/elles": "aient douté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "douterais",
+			"tu": "douterais",
+			"il/elle": "douterait",
+			"nous": "douterions",
+			"vous": "douteriez",
+			"ils/elles": "douteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais douté",
+			"tu": "aurais douté",
+			"il/elle": "aurait douté",
+			"nous": "aurions douté",
+			"vous": "auriez douté",
+			"ils/elles": "auraient douté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse douté",
+			"tu": "eusses douté",
+			"il/elle": "eût douté",
+			"nous": "eussions douté",
+			"vous": "eussiez douté",
+			"ils/elles": "eussent douté"
+		}
+	},
+	"participe": {
+		"présent": { "doutant": "" },
+		"passé composé": { "ayant": "douté" },
+		"passé": {
+			"masc.sg.:": "douté",
+			"masc.pl.:": "doutés",
+			"fém.sg.:": "doutée",
+			"fém.pl.:": "doutées"
+		}
+	},
+	"imperatif": {
+		"présent": { "doute": "", "doutons": "", "doutez": "" },
+		"passé": { "aie": "douté", "ayons": "douté", "ayez": "douté" }
+	},
+	"infinitif": { "présent": { "douter": "" }, "passé": { "avoir": "douté" } }
+}

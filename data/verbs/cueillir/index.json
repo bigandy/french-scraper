@@ -1,0 +1,141 @@
+{
+	"name": "cueillir",
+	"definition": "pick; gather; harvest; ...",
+	"model": "cueillir",
+	"auxiliary": "avoir",
+	"otherForms": "se cueillir/ne pas cueillir/ne pas se cueillir",
+	"indicatif": {
+		"présent": {
+			"je": "cueille",
+			"tu": "cueilles",
+			"il/elle": "cueille",
+			"nous": "cueillons",
+			"vous": "cueillez",
+			"ils/elles": "cueillent"
+		},
+		"imparfait": {
+			"je": "cueillais",
+			"tu": "cueillais",
+			"il/elle": "cueillait",
+			"nous": "cueillions",
+			"vous": "cueilliez",
+			"ils/elles": "cueillaient"
+		},
+		"futur": {
+			"je": "cueillerai",
+			"tu": "cueilleras",
+			"il/elle": "cueillera",
+			"nous": "cueillerons",
+			"vous": "cueillerez",
+			"ils/elles": "cueilleront"
+		},
+		"passé simple": {
+			"je": "cueillis",
+			"tu": "cueillis",
+			"il/elle": "cueillit",
+			"nous": "cueillîmes",
+			"vous": "cueillîtes",
+			"ils/elles": "cueillirent"
+		},
+		"passé composé": {
+			"j'": "ai cueilli",
+			"tu": "as cueilli",
+			"il/elle": "a cueilli",
+			"nous": "avons cueilli",
+			"vous": "avez cueilli",
+			"ils/elles": "ont cueilli"
+		},
+		"plus-que-parfait": {
+			"j'": "avais cueilli",
+			"tu": "avais cueilli",
+			"il/elle": "avait cueilli",
+			"nous": "avions cueilli",
+			"vous": "aviez cueilli",
+			"ils/elles": "avaient cueilli"
+		},
+		"passé antérieur": {
+			"j'": "eus cueilli",
+			"tu": "eus cueilli",
+			"il/elle": "eut cueilli",
+			"nous": "eûmes cueilli",
+			"vous": "eûtes cueilli",
+			"ils/elles": "eurent cueilli"
+		},
+		"futur antérieur": {
+			"j'": "aurai cueilli",
+			"tu": "auras cueilli",
+			"il/elle": "aura cueilli",
+			"nous": "aurons cueilli",
+			"vous": "aurez cueilli",
+			"ils/elles": "auront cueilli"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous cueilliez",
+			"qu'il/elle": "cueille",
+			"qu'ils/elles": "cueillent"
+		},
+		"imparfait": {
+			"que": "vous cueillissiez",
+			"qu'il/elle": "cueillît",
+			"qu'ils/elles": "cueillissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse cueilli",
+			"que": "vous eussiez cueilli",
+			"qu'il/elle": "eût cueilli",
+			"qu'ils/elles": "eussent cueilli"
+		},
+		"passé": {
+			"j'": "aie cueilli",
+			"que": "vous ayez cueilli",
+			"qu'il/elle": "ait cueilli",
+			"qu'ils/elles": "aient cueilli"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "cueillerais",
+			"tu": "cueillerais",
+			"il/elle": "cueillerait",
+			"nous": "cueillerions",
+			"vous": "cueilleriez",
+			"ils/elles": "cueilleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais cueilli",
+			"tu": "aurais cueilli",
+			"il/elle": "aurait cueilli",
+			"nous": "aurions cueilli",
+			"vous": "auriez cueilli",
+			"ils/elles": "auraient cueilli"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse cueilli",
+			"tu": "eusses cueilli",
+			"il/elle": "eût cueilli",
+			"nous": "eussions cueilli",
+			"vous": "eussiez cueilli",
+			"ils/elles": "eussent cueilli"
+		}
+	},
+	"participe": {
+		"présent": { "cueillant": "" },
+		"passé composé": { "ayant": "cueilli" },
+		"passé": {
+			"masc.sg.:": "cueilli",
+			"masc.pl.:": "cueillis",
+			"fém.sg.:": "cueillie",
+			"fém.pl.:": "cueillies"
+		}
+	},
+	"imperatif": {
+		"présent": { "cueille": "", "cueillons": "", "cueillez": "" },
+		"passé": { "aie": "cueilli", "ayons": "cueilli", "ayez": "cueilli" }
+	},
+	"infinitif": {
+		"présent": { "cueillir": "" },
+		"passé": { "avoir": "cueilli" }
+	}
+}

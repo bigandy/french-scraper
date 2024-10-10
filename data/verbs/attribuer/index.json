@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "assign; allocate; award; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'attribuer/ne pas attribuer/ne pas s'attribuer",
+	"indicatif": {
+		"présent": {
+			"j'": "attribue",
+			"tu": "attribues",
+			"il/elle": "attribue",
+			"nous": "attribuons",
+			"vous": "attribuez",
+			"ils/elles": "attribuent"
+		},
+		"imparfait": {
+			"j'": "attribuais",
+			"tu": "attribuais",
+			"il/elle": "attribuait",
+			"nous": "attribuions",
+			"vous": "attribuiez",
+			"ils/elles": "attribuaient"
+		},
+		"futur": {
+			"j'": "attribuerai",
+			"tu": "attribueras",
+			"il/elle": "attribuera",
+			"nous": "attribuerons",
+			"vous": "attribuerez",
+			"ils/elles": "attribueront"
+		},
+		"passé simple": {
+			"j'": "attribuai",
+			"tu": "attribuas",
+			"il/elle": "attribua",
+			"nous": "attribuâmes",
+			"vous": "attribuâtes",
+			"ils/elles": "attribuèrent"
+		},
+		"passé composé": {
+			"j'": "ai attribué",
+			"tu": "as attribué",
+			"il/elle": "a attribué",
+			"nous": "avons attribué",
+			"vous": "avez attribué",
+			"ils/elles": "ont attribué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais attribué",
+			"tu": "avais attribué",
+			"il/elle": "avait attribué",
+			"nous": "avions attribué",
+			"vous": "aviez attribué",
+			"ils/elles": "avaient attribué"
+		},
+		"passé antérieur": {
+			"j'": "eus attribué",
+			"tu": "eus attribué",
+			"il/elle": "eut attribué",
+			"nous": "eûmes attribué",
+			"vous": "eûtes attribué",
+			"ils/elles": "eurent attribué"
+		},
+		"futur antérieur": {
+			"j'": "aurai attribué",
+			"tu": "auras attribué",
+			"il/elle": "aura attribué",
+			"nous": "aurons attribué",
+			"vous": "aurez attribué",
+			"ils/elles": "auront attribué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "attribue",
+			"que": "vous attribuiez",
+			"qu'il/elle": "attribue",
+			"qu'ils/elles": "attribuent"
+		},
+		"imparfait": {
+			"j'": "attribuasse",
+			"que": "vous attribuassiez",
+			"qu'il/elle": "attribuât",
+			"qu'ils/elles": "attribuassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse attribué",
+			"que": "vous eussiez attribué",
+			"qu'il/elle": "eût attribué",
+			"qu'ils/elles": "eussent attribué"
+		},
+		"passé": {
+			"j'": "aie attribué",
+			"que": "vous ayez attribué",
+			"qu'il/elle": "ait attribué",
+			"qu'ils/elles": "aient attribué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "attribuerais",
+			"tu": "attribuerais",
+			"il/elle": "attribuerait",
+			"nous": "attribuerions",
+			"vous": "attribueriez",
+			"ils/elles": "attribueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais attribué",
+			"tu": "aurais attribué",
+			"il/elle": "aurait attribué",
+			"nous": "aurions attribué",
+			"vous": "auriez attribué",
+			"ils/elles": "auraient attribué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse attribué",
+			"tu": "eusses attribué",
+			"il/elle": "eût attribué",
+			"nous": "eussions attribué",
+			"vous": "eussiez attribué",
+			"ils/elles": "eussent attribué"
+		}
+	},
+	"participe": {
+		"présent": { "attribuant": "" },
+		"passé composé": { "ayant": "attribué" },
+		"passé": {
+			"masc.sg.:": "attribué",
+			"masc.pl.:": "attribués",
+			"fém.sg.:": "attribuée",
+			"fém.pl.:": "attribuées"
+		}
+	},
+	"imperatif": {
+		"présent": { "attribue": "", "attribuons": "", "attribuez": "" },
+		"passé": { "aie": "attribué", "ayons": "attribué", "ayez": "attribué" }
+	},
+	"infinitif": {
+		"présent": { "attribuer": "" },
+		"passé": { "avoir": "attribué" }
+	}
+}

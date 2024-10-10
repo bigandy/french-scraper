@@ -1,0 +1,141 @@
+{
+	"name": "connaître",
+	"definition": "seem; appear; look; ...",
+	"model": "connaître",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas paraître",
+	"indicatif": {
+		"présent": {
+			"je": "parais",
+			"tu": "parais",
+			"il/elle": "parait",
+			"nous": "paraissons",
+			"vous": "paraissez",
+			"ils/elles": "paraissent",
+			"": ""
+		},
+		"imparfait": {
+			"je": "paraissais",
+			"tu": "paraissais",
+			"il/elle": "paraissait",
+			"nous": "paraissions",
+			"vous": "paraissiez",
+			"ils/elles": "paraissaient"
+		},
+		"futur": {
+			"je": "paraîtrai",
+			"tu": "paraîtras",
+			"il/elle": "paraitra",
+			"nous": "paraitrons",
+			"vous": "paraitrez",
+			"ils/elles": "paraitront",
+			"": ""
+		},
+		"passé simple": {
+			"je": "parus",
+			"tu": "parus",
+			"il/elle": "parut",
+			"nous": "parûmes",
+			"vous": "parûtes",
+			"ils/elles": "parurent"
+		},
+		"passé composé": {
+			"j'": "ai paru",
+			"tu": "as paru",
+			"il/elle": "a paru",
+			"nous": "avons paru",
+			"vous": "avez paru",
+			"ils/elles": "ont paru"
+		},
+		"plus-que-parfait": {
+			"j'": "avais paru",
+			"tu": "avais paru",
+			"il/elle": "avait paru",
+			"nous": "avions paru",
+			"vous": "aviez paru",
+			"ils/elles": "avaient paru"
+		},
+		"passé antérieur": {
+			"j'": "eus paru",
+			"tu": "eus paru",
+			"il/elle": "eut paru",
+			"nous": "eûmes paru",
+			"vous": "eûtes paru",
+			"ils/elles": "eurent paru"
+		},
+		"futur antérieur": {
+			"j'": "aurai paru",
+			"tu": "auras paru",
+			"il/elle": "aura paru",
+			"nous": "aurons paru",
+			"vous": "aurez paru",
+			"ils/elles": "auront paru"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous paraissiez",
+			"qu'il/elle": "paraisse",
+			"qu'ils/elles": "paraissent"
+		},
+		"imparfait": {
+			"que": "vous parussiez",
+			"qu'il/elle": "parût",
+			"qu'ils/elles": "parussent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse paru",
+			"que": "vous eussiez paru",
+			"qu'il/elle": "eût paru",
+			"qu'ils/elles": "eussent paru"
+		},
+		"passé": {
+			"j'": "aie paru",
+			"que": "vous ayez paru",
+			"qu'il/elle": "ait paru",
+			"qu'ils/elles": "aient paru"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "paraitrais",
+			"tu": "paraitrais",
+			"il/elle": "paraitrait",
+			"nous": "paraitrions",
+			"vous": "paraitriez",
+			"ils/elles": "paraitraient",
+			"": ""
+		},
+		"passé première forme": {
+			"j'": "aurais paru",
+			"tu": "aurais paru",
+			"il/elle": "aurait paru",
+			"nous": "aurions paru",
+			"vous": "auriez paru",
+			"ils/elles": "auraient paru"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse paru",
+			"tu": "eusses paru",
+			"il/elle": "eût paru",
+			"nous": "eussions paru",
+			"vous": "eussiez paru",
+			"ils/elles": "eussent paru"
+		}
+	},
+	"participe": {
+		"présent": { "paraissant": "" },
+		"passé composé": { "ayant": "paru" },
+		"passé": {
+			"masc.sg.:": "paru",
+			"masc.pl.:": "parus",
+			"fém.sg.:": "parue",
+			"fém.pl.:": "parues"
+		}
+	},
+	"imperatif": {
+		"présent": { "parais": "", "paraissons": "", "paraissez": "" },
+		"passé": { "aie": "paru", "ayons": "paru", "ayez": "paru" }
+	},
+	"infinitif": { "présent": { "paraître": "" }, "passé": { "avoir": "paru" } }
+}

@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "vote; poll; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se voter/ne pas voter/ne pas se voter",
+	"indicatif": {
+		"présent": {
+			"je": "vote",
+			"tu": "votes",
+			"il/elle": "vote",
+			"nous": "votons",
+			"vous": "votez",
+			"ils/elles": "votent"
+		},
+		"imparfait": {
+			"je": "votais",
+			"tu": "votais",
+			"il/elle": "votait",
+			"nous": "votions",
+			"vous": "votiez",
+			"ils/elles": "votaient"
+		},
+		"futur": {
+			"je": "voterai",
+			"tu": "voteras",
+			"il/elle": "votera",
+			"nous": "voterons",
+			"vous": "voterez",
+			"ils/elles": "voteront"
+		},
+		"passé simple": {
+			"je": "votai",
+			"tu": "votas",
+			"il/elle": "vota",
+			"nous": "votâmes",
+			"vous": "votâtes",
+			"ils/elles": "votèrent"
+		},
+		"passé composé": {
+			"j'": "ai voté",
+			"tu": "as voté",
+			"il/elle": "a voté",
+			"nous": "avons voté",
+			"vous": "avez voté",
+			"ils/elles": "ont voté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais voté",
+			"tu": "avais voté",
+			"il/elle": "avait voté",
+			"nous": "avions voté",
+			"vous": "aviez voté",
+			"ils/elles": "avaient voté"
+		},
+		"passé antérieur": {
+			"j'": "eus voté",
+			"tu": "eus voté",
+			"il/elle": "eut voté",
+			"nous": "eûmes voté",
+			"vous": "eûtes voté",
+			"ils/elles": "eurent voté"
+		},
+		"futur antérieur": {
+			"j'": "aurai voté",
+			"tu": "auras voté",
+			"il/elle": "aura voté",
+			"nous": "aurons voté",
+			"vous": "aurez voté",
+			"ils/elles": "auront voté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous votiez",
+			"qu'il/elle": "vote",
+			"qu'ils/elles": "votent"
+		},
+		"imparfait": {
+			"que": "vous votassiez",
+			"qu'il/elle": "votât",
+			"qu'ils/elles": "votassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse voté",
+			"que": "vous eussiez voté",
+			"qu'il/elle": "eût voté",
+			"qu'ils/elles": "eussent voté"
+		},
+		"passé": {
+			"j'": "aie voté",
+			"que": "vous ayez voté",
+			"qu'il/elle": "ait voté",
+			"qu'ils/elles": "aient voté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "voterais",
+			"tu": "voterais",
+			"il/elle": "voterait",
+			"nous": "voterions",
+			"vous": "voteriez",
+			"ils/elles": "voteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais voté",
+			"tu": "aurais voté",
+			"il/elle": "aurait voté",
+			"nous": "aurions voté",
+			"vous": "auriez voté",
+			"ils/elles": "auraient voté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse voté",
+			"tu": "eusses voté",
+			"il/elle": "eût voté",
+			"nous": "eussions voté",
+			"vous": "eussiez voté",
+			"ils/elles": "eussent voté"
+		}
+	},
+	"participe": {
+		"présent": { "votant": "" },
+		"passé composé": { "ayant": "voté" },
+		"passé": {
+			"masc.sg.:": "voté",
+			"masc.pl.:": "votés",
+			"fém.sg.:": "votée",
+			"fém.pl.:": "votées"
+		}
+	},
+	"imperatif": {
+		"présent": { "vote": "", "votons": "", "votez": "" },
+		"passé": { "aie": "voté", "ayons": "voté", "ayez": "voté" }
+	},
+	"infinitif": { "présent": { "voter": "" }, "passé": { "avoir": "voté" } }
+}

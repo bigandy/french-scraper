@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "explode; blow up; detonate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'exploser/ne pas exploser/ne pas s'exploser",
+	"indicatif": {
+		"présent": {
+			"j'": "explose",
+			"tu": "exploses",
+			"il/elle": "explose",
+			"nous": "explosons",
+			"vous": "explosez",
+			"ils/elles": "explosent"
+		},
+		"imparfait": {
+			"j'": "explosais",
+			"tu": "explosais",
+			"il/elle": "explosait",
+			"nous": "explosions",
+			"vous": "explosiez",
+			"ils/elles": "explosaient"
+		},
+		"futur": {
+			"j'": "exploserai",
+			"tu": "exploseras",
+			"il/elle": "explosera",
+			"nous": "exploserons",
+			"vous": "exploserez",
+			"ils/elles": "exploseront"
+		},
+		"passé simple": {
+			"j'": "explosai",
+			"tu": "explosas",
+			"il/elle": "explosa",
+			"nous": "explosâmes",
+			"vous": "explosâtes",
+			"ils/elles": "explosèrent"
+		},
+		"passé composé": {
+			"j'": "ai explosé",
+			"tu": "as explosé",
+			"il/elle": "a explosé",
+			"nous": "avons explosé",
+			"vous": "avez explosé",
+			"ils/elles": "ont explosé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais explosé",
+			"tu": "avais explosé",
+			"il/elle": "avait explosé",
+			"nous": "avions explosé",
+			"vous": "aviez explosé",
+			"ils/elles": "avaient explosé"
+		},
+		"passé antérieur": {
+			"j'": "eus explosé",
+			"tu": "eus explosé",
+			"il/elle": "eut explosé",
+			"nous": "eûmes explosé",
+			"vous": "eûtes explosé",
+			"ils/elles": "eurent explosé"
+		},
+		"futur antérieur": {
+			"j'": "aurai explosé",
+			"tu": "auras explosé",
+			"il/elle": "aura explosé",
+			"nous": "aurons explosé",
+			"vous": "aurez explosé",
+			"ils/elles": "auront explosé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "explose",
+			"que": "vous explosiez",
+			"qu'il/elle": "explose",
+			"qu'ils/elles": "explosent"
+		},
+		"imparfait": {
+			"j'": "explosasse",
+			"que": "vous explosassiez",
+			"qu'il/elle": "explosât",
+			"qu'ils/elles": "explosassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse explosé",
+			"que": "vous eussiez explosé",
+			"qu'il/elle": "eût explosé",
+			"qu'ils/elles": "eussent explosé"
+		},
+		"passé": {
+			"j'": "aie explosé",
+			"que": "vous ayez explosé",
+			"qu'il/elle": "ait explosé",
+			"qu'ils/elles": "aient explosé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "exploserais",
+			"tu": "exploserais",
+			"il/elle": "exploserait",
+			"nous": "exploserions",
+			"vous": "exploseriez",
+			"ils/elles": "exploseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais explosé",
+			"tu": "aurais explosé",
+			"il/elle": "aurait explosé",
+			"nous": "aurions explosé",
+			"vous": "auriez explosé",
+			"ils/elles": "auraient explosé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse explosé",
+			"tu": "eusses explosé",
+			"il/elle": "eût explosé",
+			"nous": "eussions explosé",
+			"vous": "eussiez explosé",
+			"ils/elles": "eussent explosé"
+		}
+	},
+	"participe": {
+		"présent": { "explosant": "" },
+		"passé composé": { "ayant": "explosé" },
+		"passé": {
+			"masc.sg.:": "explosé",
+			"masc.pl.:": "explosés",
+			"fém.sg.:": "explosée",
+			"fém.pl.:": "explosées"
+		}
+	},
+	"imperatif": {
+		"présent": { "explose": "", "explosons": "", "explosez": "" },
+		"passé": { "aie": "explosé", "ayons": "explosé", "ayez": "explosé" }
+	},
+	"infinitif": {
+		"présent": { "exploser": "" },
+		"passé": { "avoir": "explosé" }
+	}
+}

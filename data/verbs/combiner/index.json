@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "combine; mix; integrate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se combiner/ne pas combiner/ne pas se combiner",
+	"indicatif": {
+		"présent": {
+			"je": "combine",
+			"tu": "combines",
+			"il/elle": "combine",
+			"nous": "combinons",
+			"vous": "combinez",
+			"ils/elles": "combinent"
+		},
+		"imparfait": {
+			"je": "combinais",
+			"tu": "combinais",
+			"il/elle": "combinait",
+			"nous": "combinions",
+			"vous": "combiniez",
+			"ils/elles": "combinaient"
+		},
+		"futur": {
+			"je": "combinerai",
+			"tu": "combineras",
+			"il/elle": "combinera",
+			"nous": "combinerons",
+			"vous": "combinerez",
+			"ils/elles": "combineront"
+		},
+		"passé simple": {
+			"je": "combinai",
+			"tu": "combinas",
+			"il/elle": "combina",
+			"nous": "combinâmes",
+			"vous": "combinâtes",
+			"ils/elles": "combinèrent"
+		},
+		"passé composé": {
+			"j'": "ai combiné",
+			"tu": "as combiné",
+			"il/elle": "a combiné",
+			"nous": "avons combiné",
+			"vous": "avez combiné",
+			"ils/elles": "ont combiné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais combiné",
+			"tu": "avais combiné",
+			"il/elle": "avait combiné",
+			"nous": "avions combiné",
+			"vous": "aviez combiné",
+			"ils/elles": "avaient combiné"
+		},
+		"passé antérieur": {
+			"j'": "eus combiné",
+			"tu": "eus combiné",
+			"il/elle": "eut combiné",
+			"nous": "eûmes combiné",
+			"vous": "eûtes combiné",
+			"ils/elles": "eurent combiné"
+		},
+		"futur antérieur": {
+			"j'": "aurai combiné",
+			"tu": "auras combiné",
+			"il/elle": "aura combiné",
+			"nous": "aurons combiné",
+			"vous": "aurez combiné",
+			"ils/elles": "auront combiné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous combiniez",
+			"qu'il/elle": "combine",
+			"qu'ils/elles": "combinent"
+		},
+		"imparfait": {
+			"que": "vous combinassiez",
+			"qu'il/elle": "combinât",
+			"qu'ils/elles": "combinassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse combiné",
+			"que": "vous eussiez combiné",
+			"qu'il/elle": "eût combiné",
+			"qu'ils/elles": "eussent combiné"
+		},
+		"passé": {
+			"j'": "aie combiné",
+			"que": "vous ayez combiné",
+			"qu'il/elle": "ait combiné",
+			"qu'ils/elles": "aient combiné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "combinerais",
+			"tu": "combinerais",
+			"il/elle": "combinerait",
+			"nous": "combinerions",
+			"vous": "combineriez",
+			"ils/elles": "combineraient"
+		},
+		"passé première forme": {
+			"j'": "aurais combiné",
+			"tu": "aurais combiné",
+			"il/elle": "aurait combiné",
+			"nous": "aurions combiné",
+			"vous": "auriez combiné",
+			"ils/elles": "auraient combiné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse combiné",
+			"tu": "eusses combiné",
+			"il/elle": "eût combiné",
+			"nous": "eussions combiné",
+			"vous": "eussiez combiné",
+			"ils/elles": "eussent combiné"
+		}
+	},
+	"participe": {
+		"présent": { "combinant": "" },
+		"passé composé": { "ayant": "combiné" },
+		"passé": {
+			"masc.sg.:": "combiné",
+			"masc.pl.:": "combinés",
+			"fém.sg.:": "combinée",
+			"fém.pl.:": "combinées"
+		}
+	},
+	"imperatif": {
+		"présent": { "combine": "", "combinons": "", "combinez": "" },
+		"passé": { "aie": "combiné", "ayons": "combiné", "ayez": "combiné" }
+	},
+	"infinitif": {
+		"présent": { "combiner": "" },
+		"passé": { "avoir": "combiné" }
+	}
+}

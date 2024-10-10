@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "notify; advise; inform; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'aviser/ne pas aviser/ne pas s'aviser",
+	"indicatif": {
+		"présent": {
+			"j'": "avise",
+			"tu": "avises",
+			"il/elle": "avise",
+			"nous": "avisons",
+			"vous": "avisez",
+			"ils/elles": "avisent"
+		},
+		"imparfait": {
+			"j'": "avisais",
+			"tu": "avisais",
+			"il/elle": "avisait",
+			"nous": "avisions",
+			"vous": "avisiez",
+			"ils/elles": "avisaient"
+		},
+		"futur": {
+			"j'": "aviserai",
+			"tu": "aviseras",
+			"il/elle": "avisera",
+			"nous": "aviserons",
+			"vous": "aviserez",
+			"ils/elles": "aviseront"
+		},
+		"passé simple": {
+			"j'": "avisai",
+			"tu": "avisas",
+			"il/elle": "avisa",
+			"nous": "avisâmes",
+			"vous": "avisâtes",
+			"ils/elles": "avisèrent"
+		},
+		"passé composé": {
+			"j'": "ai avisé",
+			"tu": "as avisé",
+			"il/elle": "a avisé",
+			"nous": "avons avisé",
+			"vous": "avez avisé",
+			"ils/elles": "ont avisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais avisé",
+			"tu": "avais avisé",
+			"il/elle": "avait avisé",
+			"nous": "avions avisé",
+			"vous": "aviez avisé",
+			"ils/elles": "avaient avisé"
+		},
+		"passé antérieur": {
+			"j'": "eus avisé",
+			"tu": "eus avisé",
+			"il/elle": "eut avisé",
+			"nous": "eûmes avisé",
+			"vous": "eûtes avisé",
+			"ils/elles": "eurent avisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai avisé",
+			"tu": "auras avisé",
+			"il/elle": "aura avisé",
+			"nous": "aurons avisé",
+			"vous": "aurez avisé",
+			"ils/elles": "auront avisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "avise",
+			"que": "vous avisiez",
+			"qu'il/elle": "avise",
+			"qu'ils/elles": "avisent"
+		},
+		"imparfait": {
+			"j'": "avisasse",
+			"que": "vous avisassiez",
+			"qu'il/elle": "avisât",
+			"qu'ils/elles": "avisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse avisé",
+			"que": "vous eussiez avisé",
+			"qu'il/elle": "eût avisé",
+			"qu'ils/elles": "eussent avisé"
+		},
+		"passé": {
+			"j'": "aie avisé",
+			"que": "vous ayez avisé",
+			"qu'il/elle": "ait avisé",
+			"qu'ils/elles": "aient avisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "aviserais",
+			"tu": "aviserais",
+			"il/elle": "aviserait",
+			"nous": "aviserions",
+			"vous": "aviseriez",
+			"ils/elles": "aviseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais avisé",
+			"tu": "aurais avisé",
+			"il/elle": "aurait avisé",
+			"nous": "aurions avisé",
+			"vous": "auriez avisé",
+			"ils/elles": "auraient avisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse avisé",
+			"tu": "eusses avisé",
+			"il/elle": "eût avisé",
+			"nous": "eussions avisé",
+			"vous": "eussiez avisé",
+			"ils/elles": "eussent avisé"
+		}
+	},
+	"participe": {
+		"présent": { "avisant": "" },
+		"passé composé": { "ayant": "avisé" },
+		"passé": {
+			"masc.sg.:": "avisé",
+			"masc.pl.:": "avisés",
+			"fém.sg.:": "avisée",
+			"fém.pl.:": "avisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "avise": "", "avisons": "", "avisez": "" },
+		"passé": { "aie": "avisé", "ayons": "avisé", "ayez": "avisé" }
+	},
+	"infinitif": { "présent": { "aviser": "" }, "passé": { "avoir": "avisé" } }
+}

@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "rethink; reconsider; re-think; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se repenser/ne pas repenser/ne pas se repenser",
+	"indicatif": {
+		"présent": {
+			"je": "repense",
+			"tu": "repenses",
+			"il/elle": "repense",
+			"nous": "repensons",
+			"vous": "repensez",
+			"ils/elles": "repensent"
+		},
+		"imparfait": {
+			"je": "repensais",
+			"tu": "repensais",
+			"il/elle": "repensait",
+			"nous": "repensions",
+			"vous": "repensiez",
+			"ils/elles": "repensaient"
+		},
+		"futur": {
+			"je": "repenserai",
+			"tu": "repenseras",
+			"il/elle": "repensera",
+			"nous": "repenserons",
+			"vous": "repenserez",
+			"ils/elles": "repenseront"
+		},
+		"passé simple": {
+			"je": "repensai",
+			"tu": "repensas",
+			"il/elle": "repensa",
+			"nous": "repensâmes",
+			"vous": "repensâtes",
+			"ils/elles": "repensèrent"
+		},
+		"passé composé": {
+			"j'": "ai repensé",
+			"tu": "as repensé",
+			"il/elle": "a repensé",
+			"nous": "avons repensé",
+			"vous": "avez repensé",
+			"ils/elles": "ont repensé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais repensé",
+			"tu": "avais repensé",
+			"il/elle": "avait repensé",
+			"nous": "avions repensé",
+			"vous": "aviez repensé",
+			"ils/elles": "avaient repensé"
+		},
+		"passé antérieur": {
+			"j'": "eus repensé",
+			"tu": "eus repensé",
+			"il/elle": "eut repensé",
+			"nous": "eûmes repensé",
+			"vous": "eûtes repensé",
+			"ils/elles": "eurent repensé"
+		},
+		"futur antérieur": {
+			"j'": "aurai repensé",
+			"tu": "auras repensé",
+			"il/elle": "aura repensé",
+			"nous": "aurons repensé",
+			"vous": "aurez repensé",
+			"ils/elles": "auront repensé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous repensiez",
+			"qu'il/elle": "repense",
+			"qu'ils/elles": "repensent"
+		},
+		"imparfait": {
+			"que": "vous repensassiez",
+			"qu'il/elle": "repensât",
+			"qu'ils/elles": "repensassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse repensé",
+			"que": "vous eussiez repensé",
+			"qu'il/elle": "eût repensé",
+			"qu'ils/elles": "eussent repensé"
+		},
+		"passé": {
+			"j'": "aie repensé",
+			"que": "vous ayez repensé",
+			"qu'il/elle": "ait repensé",
+			"qu'ils/elles": "aient repensé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "repenserais",
+			"tu": "repenserais",
+			"il/elle": "repenserait",
+			"nous": "repenserions",
+			"vous": "repenseriez",
+			"ils/elles": "repenseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais repensé",
+			"tu": "aurais repensé",
+			"il/elle": "aurait repensé",
+			"nous": "aurions repensé",
+			"vous": "auriez repensé",
+			"ils/elles": "auraient repensé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse repensé",
+			"tu": "eusses repensé",
+			"il/elle": "eût repensé",
+			"nous": "eussions repensé",
+			"vous": "eussiez repensé",
+			"ils/elles": "eussent repensé"
+		}
+	},
+	"participe": {
+		"présent": { "repensant": "" },
+		"passé composé": { "ayant": "repensé" },
+		"passé": {
+			"masc.sg.:": "repensé",
+			"masc.pl.:": "repensés",
+			"fém.sg.:": "repensée",
+			"fém.pl.:": "repensées"
+		}
+	},
+	"imperatif": {
+		"présent": { "repense": "", "repensons": "", "repensez": "" },
+		"passé": { "aie": "repensé", "ayons": "repensé", "ayez": "repensé" }
+	},
+	"infinitif": {
+		"présent": { "repenser": "" },
+		"passé": { "avoir": "repensé" }
+	}
+}

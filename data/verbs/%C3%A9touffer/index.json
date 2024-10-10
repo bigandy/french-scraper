@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "stifle; choke; suffocate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'étouffer/ne pas étouffer/ne pas s'étouffer",
+	"indicatif": {
+		"présent": {
+			"j'": "étouffe",
+			"tu": "étouffes",
+			"il/elle": "étouffe",
+			"nous": "étouffons",
+			"vous": "étouffez",
+			"ils/elles": "étouffent"
+		},
+		"imparfait": {
+			"j'": "étouffais",
+			"tu": "étouffais",
+			"il/elle": "étouffait",
+			"nous": "étouffions",
+			"vous": "étouffiez",
+			"ils/elles": "étouffaient"
+		},
+		"futur": {
+			"j'": "étoufferai",
+			"tu": "étoufferas",
+			"il/elle": "étouffera",
+			"nous": "étoufferons",
+			"vous": "étoufferez",
+			"ils/elles": "étoufferont"
+		},
+		"passé simple": {
+			"j'": "étouffai",
+			"tu": "étouffas",
+			"il/elle": "étouffa",
+			"nous": "étouffâmes",
+			"vous": "étouffâtes",
+			"ils/elles": "étouffèrent"
+		},
+		"passé composé": {
+			"j'": "ai étouffé",
+			"tu": "as étouffé",
+			"il/elle": "a étouffé",
+			"nous": "avons étouffé",
+			"vous": "avez étouffé",
+			"ils/elles": "ont étouffé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais étouffé",
+			"tu": "avais étouffé",
+			"il/elle": "avait étouffé",
+			"nous": "avions étouffé",
+			"vous": "aviez étouffé",
+			"ils/elles": "avaient étouffé"
+		},
+		"passé antérieur": {
+			"j'": "eus étouffé",
+			"tu": "eus étouffé",
+			"il/elle": "eut étouffé",
+			"nous": "eûmes étouffé",
+			"vous": "eûtes étouffé",
+			"ils/elles": "eurent étouffé"
+		},
+		"futur antérieur": {
+			"j'": "aurai étouffé",
+			"tu": "auras étouffé",
+			"il/elle": "aura étouffé",
+			"nous": "aurons étouffé",
+			"vous": "aurez étouffé",
+			"ils/elles": "auront étouffé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "étouffe",
+			"que": "vous étouffiez",
+			"qu'il/elle": "étouffe",
+			"qu'ils/elles": "étouffent"
+		},
+		"imparfait": {
+			"j'": "étouffasse",
+			"que": "vous étouffassiez",
+			"qu'il/elle": "étouffât",
+			"qu'ils/elles": "étouffassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse étouffé",
+			"que": "vous eussiez étouffé",
+			"qu'il/elle": "eût étouffé",
+			"qu'ils/elles": "eussent étouffé"
+		},
+		"passé": {
+			"j'": "aie étouffé",
+			"que": "vous ayez étouffé",
+			"qu'il/elle": "ait étouffé",
+			"qu'ils/elles": "aient étouffé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "étoufferais",
+			"tu": "étoufferais",
+			"il/elle": "étoufferait",
+			"nous": "étoufferions",
+			"vous": "étoufferiez",
+			"ils/elles": "étoufferaient"
+		},
+		"passé première forme": {
+			"j'": "aurais étouffé",
+			"tu": "aurais étouffé",
+			"il/elle": "aurait étouffé",
+			"nous": "aurions étouffé",
+			"vous": "auriez étouffé",
+			"ils/elles": "auraient étouffé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse étouffé",
+			"tu": "eusses étouffé",
+			"il/elle": "eût étouffé",
+			"nous": "eussions étouffé",
+			"vous": "eussiez étouffé",
+			"ils/elles": "eussent étouffé"
+		}
+	},
+	"participe": {
+		"présent": { "étouffant": "" },
+		"passé composé": { "ayant": "étouffé" },
+		"passé": {
+			"masc.sg.:": "étouffé",
+			"masc.pl.:": "étouffés",
+			"fém.sg.:": "étouffée",
+			"fém.pl.:": "étouffées"
+		}
+	},
+	"imperatif": {
+		"présent": { "étouffe": "", "étouffons": "", "étouffez": "" },
+		"passé": { "aie": "étouffé", "ayons": "étouffé", "ayez": "étouffé" }
+	},
+	"infinitif": {
+		"présent": { "étouffer": "" },
+		"passé": { "avoir": "étouffé" }
+	}
+}

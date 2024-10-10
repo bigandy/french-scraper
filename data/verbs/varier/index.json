@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "vary; change; differ; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se varier/ne pas varier/ne pas se varier",
+	"indicatif": {
+		"présent": {
+			"je": "varie",
+			"tu": "varies",
+			"il/elle": "varie",
+			"nous": "varions",
+			"vous": "variez",
+			"ils/elles": "varient"
+		},
+		"imparfait": {
+			"je": "variais",
+			"tu": "variais",
+			"il/elle": "variait",
+			"nous": "variions",
+			"vous": "variiez",
+			"ils/elles": "variaient"
+		},
+		"futur": {
+			"je": "varierai",
+			"tu": "varieras",
+			"il/elle": "variera",
+			"nous": "varierons",
+			"vous": "varierez",
+			"ils/elles": "varieront"
+		},
+		"passé simple": {
+			"je": "variai",
+			"tu": "varias",
+			"il/elle": "varia",
+			"nous": "variâmes",
+			"vous": "variâtes",
+			"ils/elles": "varièrent"
+		},
+		"passé composé": {
+			"j'": "ai varié",
+			"tu": "as varié",
+			"il/elle": "a varié",
+			"nous": "avons varié",
+			"vous": "avez varié",
+			"ils/elles": "ont varié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais varié",
+			"tu": "avais varié",
+			"il/elle": "avait varié",
+			"nous": "avions varié",
+			"vous": "aviez varié",
+			"ils/elles": "avaient varié"
+		},
+		"passé antérieur": {
+			"j'": "eus varié",
+			"tu": "eus varié",
+			"il/elle": "eut varié",
+			"nous": "eûmes varié",
+			"vous": "eûtes varié",
+			"ils/elles": "eurent varié"
+		},
+		"futur antérieur": {
+			"j'": "aurai varié",
+			"tu": "auras varié",
+			"il/elle": "aura varié",
+			"nous": "aurons varié",
+			"vous": "aurez varié",
+			"ils/elles": "auront varié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous variiez",
+			"qu'il/elle": "varie",
+			"qu'ils/elles": "varient"
+		},
+		"imparfait": {
+			"que": "vous variassiez",
+			"qu'il/elle": "variât",
+			"qu'ils/elles": "variassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse varié",
+			"que": "vous eussiez varié",
+			"qu'il/elle": "eût varié",
+			"qu'ils/elles": "eussent varié"
+		},
+		"passé": {
+			"j'": "aie varié",
+			"que": "vous ayez varié",
+			"qu'il/elle": "ait varié",
+			"qu'ils/elles": "aient varié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "varierais",
+			"tu": "varierais",
+			"il/elle": "varierait",
+			"nous": "varierions",
+			"vous": "varieriez",
+			"ils/elles": "varieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais varié",
+			"tu": "aurais varié",
+			"il/elle": "aurait varié",
+			"nous": "aurions varié",
+			"vous": "auriez varié",
+			"ils/elles": "auraient varié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse varié",
+			"tu": "eusses varié",
+			"il/elle": "eût varié",
+			"nous": "eussions varié",
+			"vous": "eussiez varié",
+			"ils/elles": "eussent varié"
+		}
+	},
+	"participe": {
+		"présent": { "variant": "" },
+		"passé composé": { "ayant": "varié" },
+		"passé": {
+			"masc.sg.:": "varié",
+			"masc.pl.:": "variés",
+			"fém.sg.:": "variée",
+			"fém.pl.:": "variées"
+		}
+	},
+	"imperatif": {
+		"présent": { "varie": "", "varions": "", "variez": "" },
+		"passé": { "aie": "varié", "ayons": "varié", "ayez": "varié" }
+	},
+	"infinitif": { "présent": { "varier": "" }, "passé": { "avoir": "varié" } }
+}

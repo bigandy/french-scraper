@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "facilitate; assist; support; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se faciliter/ne pas faciliter/ne pas se faciliter",
+	"indicatif": {
+		"présent": {
+			"je": "facilite",
+			"tu": "facilites",
+			"il/elle": "facilite",
+			"nous": "facilitons",
+			"vous": "facilitez",
+			"ils/elles": "facilitent"
+		},
+		"imparfait": {
+			"je": "facilitais",
+			"tu": "facilitais",
+			"il/elle": "facilitait",
+			"nous": "facilitions",
+			"vous": "facilitiez",
+			"ils/elles": "facilitaient"
+		},
+		"futur": {
+			"je": "faciliterai",
+			"tu": "faciliteras",
+			"il/elle": "facilitera",
+			"nous": "faciliterons",
+			"vous": "faciliterez",
+			"ils/elles": "faciliteront"
+		},
+		"passé simple": {
+			"je": "facilitai",
+			"tu": "facilitas",
+			"il/elle": "facilita",
+			"nous": "facilitâmes",
+			"vous": "facilitâtes",
+			"ils/elles": "facilitèrent"
+		},
+		"passé composé": {
+			"j'": "ai facilité",
+			"tu": "as facilité",
+			"il/elle": "a facilité",
+			"nous": "avons facilité",
+			"vous": "avez facilité",
+			"ils/elles": "ont facilité"
+		},
+		"plus-que-parfait": {
+			"j'": "avais facilité",
+			"tu": "avais facilité",
+			"il/elle": "avait facilité",
+			"nous": "avions facilité",
+			"vous": "aviez facilité",
+			"ils/elles": "avaient facilité"
+		},
+		"passé antérieur": {
+			"j'": "eus facilité",
+			"tu": "eus facilité",
+			"il/elle": "eut facilité",
+			"nous": "eûmes facilité",
+			"vous": "eûtes facilité",
+			"ils/elles": "eurent facilité"
+		},
+		"futur antérieur": {
+			"j'": "aurai facilité",
+			"tu": "auras facilité",
+			"il/elle": "aura facilité",
+			"nous": "aurons facilité",
+			"vous": "aurez facilité",
+			"ils/elles": "auront facilité"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous facilitiez",
+			"qu'il/elle": "facilite",
+			"qu'ils/elles": "facilitent"
+		},
+		"imparfait": {
+			"que": "vous facilitassiez",
+			"qu'il/elle": "facilitât",
+			"qu'ils/elles": "facilitassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse facilité",
+			"que": "vous eussiez facilité",
+			"qu'il/elle": "eût facilité",
+			"qu'ils/elles": "eussent facilité"
+		},
+		"passé": {
+			"j'": "aie facilité",
+			"que": "vous ayez facilité",
+			"qu'il/elle": "ait facilité",
+			"qu'ils/elles": "aient facilité"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "faciliterais",
+			"tu": "faciliterais",
+			"il/elle": "faciliterait",
+			"nous": "faciliterions",
+			"vous": "faciliteriez",
+			"ils/elles": "faciliteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais facilité",
+			"tu": "aurais facilité",
+			"il/elle": "aurait facilité",
+			"nous": "aurions facilité",
+			"vous": "auriez facilité",
+			"ils/elles": "auraient facilité"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse facilité",
+			"tu": "eusses facilité",
+			"il/elle": "eût facilité",
+			"nous": "eussions facilité",
+			"vous": "eussiez facilité",
+			"ils/elles": "eussent facilité"
+		}
+	},
+	"participe": {
+		"présent": { "facilitant": "" },
+		"passé composé": { "ayant": "facilité" },
+		"passé": {
+			"masc.sg.:": "facilité",
+			"masc.pl.:": "facilités",
+			"fém.sg.:": "facilitée",
+			"fém.pl.:": "facilitées"
+		}
+	},
+	"imperatif": {
+		"présent": { "facilite": "", "facilitons": "", "facilitez": "" },
+		"passé": { "aie": "facilité", "ayons": "facilité", "ayez": "facilité" }
+	},
+	"infinitif": {
+		"présent": { "faciliter": "" },
+		"passé": { "avoir": "facilité" }
+	}
+}

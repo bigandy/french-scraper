@@ -1,0 +1,141 @@
+{
+	"name": "tenir",
+	"definition": "support; sustain; assist; ...",
+	"model": "tenir",
+	"auxiliary": "avoir",
+	"otherForms": "se soutenir/ne pas soutenir/ne pas se soutenir",
+	"indicatif": {
+		"présent": {
+			"je": "soutiens",
+			"tu": "soutiens",
+			"il/elle": "soutient",
+			"nous": "soutenons",
+			"vous": "soutenez",
+			"ils/elles": "soutiennent"
+		},
+		"imparfait": {
+			"je": "soutenais",
+			"tu": "soutenais",
+			"il/elle": "soutenait",
+			"nous": "soutenions",
+			"vous": "souteniez",
+			"ils/elles": "soutenaient"
+		},
+		"futur": {
+			"je": "soutiendrai",
+			"tu": "soutiendras",
+			"il/elle": "soutiendra",
+			"nous": "soutiendrons",
+			"vous": "soutiendrez",
+			"ils/elles": "soutiendront"
+		},
+		"passé simple": {
+			"je": "soutins",
+			"tu": "soutins",
+			"il/elle": "soutint",
+			"nous": "soutînmes",
+			"vous": "soutîntes",
+			"ils/elles": "soutinrent"
+		},
+		"passé composé": {
+			"j'": "ai soutenu",
+			"tu": "as soutenu",
+			"il/elle": "a soutenu",
+			"nous": "avons soutenu",
+			"vous": "avez soutenu",
+			"ils/elles": "ont soutenu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais soutenu",
+			"tu": "avais soutenu",
+			"il/elle": "avait soutenu",
+			"nous": "avions soutenu",
+			"vous": "aviez soutenu",
+			"ils/elles": "avaient soutenu"
+		},
+		"passé antérieur": {
+			"j'": "eus soutenu",
+			"tu": "eus soutenu",
+			"il/elle": "eut soutenu",
+			"nous": "eûmes soutenu",
+			"vous": "eûtes soutenu",
+			"ils/elles": "eurent soutenu"
+		},
+		"futur antérieur": {
+			"j'": "aurai soutenu",
+			"tu": "auras soutenu",
+			"il/elle": "aura soutenu",
+			"nous": "aurons soutenu",
+			"vous": "aurez soutenu",
+			"ils/elles": "auront soutenu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous souteniez",
+			"qu'il/elle": "soutienne",
+			"qu'ils/elles": "soutiennent"
+		},
+		"imparfait": {
+			"que": "vous soutinssiez",
+			"qu'il/elle": "soutînt",
+			"qu'ils/elles": "soutinssent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse soutenu",
+			"que": "vous eussiez soutenu",
+			"qu'il/elle": "eût soutenu",
+			"qu'ils/elles": "eussent soutenu"
+		},
+		"passé": {
+			"j'": "aie soutenu",
+			"que": "vous ayez soutenu",
+			"qu'il/elle": "ait soutenu",
+			"qu'ils/elles": "aient soutenu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "soutiendrais",
+			"tu": "soutiendrais",
+			"il/elle": "soutiendrait",
+			"nous": "soutiendrions",
+			"vous": "soutiendriez",
+			"ils/elles": "soutiendraient"
+		},
+		"passé première forme": {
+			"j'": "aurais soutenu",
+			"tu": "aurais soutenu",
+			"il/elle": "aurait soutenu",
+			"nous": "aurions soutenu",
+			"vous": "auriez soutenu",
+			"ils/elles": "auraient soutenu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse soutenu",
+			"tu": "eusses soutenu",
+			"il/elle": "eût soutenu",
+			"nous": "eussions soutenu",
+			"vous": "eussiez soutenu",
+			"ils/elles": "eussent soutenu"
+		}
+	},
+	"participe": {
+		"présent": { "soutenant": "" },
+		"passé composé": { "ayant": "soutenu" },
+		"passé": {
+			"masc.sg.:": "soutenu",
+			"masc.pl.:": "soutenus",
+			"fém.sg.:": "soutenue",
+			"fém.pl.:": "soutenues"
+		}
+	},
+	"imperatif": {
+		"présent": { "soutiens": "", "soutenons": "", "soutenez": "" },
+		"passé": { "aie": "soutenu", "ayons": "soutenu", "ayez": "soutenu" }
+	},
+	"infinitif": {
+		"présent": { "soutenir": "" },
+		"passé": { "avoir": "soutenu" }
+	}
+}

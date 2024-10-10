@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "classify; put into series; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se sérier/ne pas sérier/ne pas se sérier",
+	"indicatif": {
+		"présent": {
+			"je": "série",
+			"tu": "séries",
+			"il/elle": "série",
+			"nous": "sérions",
+			"vous": "sériez",
+			"ils/elles": "sérient"
+		},
+		"imparfait": {
+			"je": "sériais",
+			"tu": "sériais",
+			"il/elle": "sériait",
+			"nous": "sériions",
+			"vous": "sériiez",
+			"ils/elles": "sériaient"
+		},
+		"futur": {
+			"je": "sérierai",
+			"tu": "sérieras",
+			"il/elle": "sériera",
+			"nous": "sérierons",
+			"vous": "sérierez",
+			"ils/elles": "sérieront"
+		},
+		"passé simple": {
+			"je": "sériai",
+			"tu": "sérias",
+			"il/elle": "séria",
+			"nous": "sériâmes",
+			"vous": "sériâtes",
+			"ils/elles": "sérièrent"
+		},
+		"passé composé": {
+			"j'": "ai sérié",
+			"tu": "as sérié",
+			"il/elle": "a sérié",
+			"nous": "avons sérié",
+			"vous": "avez sérié",
+			"ils/elles": "ont sérié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais sérié",
+			"tu": "avais sérié",
+			"il/elle": "avait sérié",
+			"nous": "avions sérié",
+			"vous": "aviez sérié",
+			"ils/elles": "avaient sérié"
+		},
+		"passé antérieur": {
+			"j'": "eus sérié",
+			"tu": "eus sérié",
+			"il/elle": "eut sérié",
+			"nous": "eûmes sérié",
+			"vous": "eûtes sérié",
+			"ils/elles": "eurent sérié"
+		},
+		"futur antérieur": {
+			"j'": "aurai sérié",
+			"tu": "auras sérié",
+			"il/elle": "aura sérié",
+			"nous": "aurons sérié",
+			"vous": "aurez sérié",
+			"ils/elles": "auront sérié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous sériiez",
+			"qu'il/elle": "série",
+			"qu'ils/elles": "sérient"
+		},
+		"imparfait": {
+			"que": "vous sériassiez",
+			"qu'il/elle": "sériât",
+			"qu'ils/elles": "sériassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse sérié",
+			"que": "vous eussiez sérié",
+			"qu'il/elle": "eût sérié",
+			"qu'ils/elles": "eussent sérié"
+		},
+		"passé": {
+			"j'": "aie sérié",
+			"que": "vous ayez sérié",
+			"qu'il/elle": "ait sérié",
+			"qu'ils/elles": "aient sérié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "sérierais",
+			"tu": "sérierais",
+			"il/elle": "sérierait",
+			"nous": "sérierions",
+			"vous": "sérieriez",
+			"ils/elles": "sérieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais sérié",
+			"tu": "aurais sérié",
+			"il/elle": "aurait sérié",
+			"nous": "aurions sérié",
+			"vous": "auriez sérié",
+			"ils/elles": "auraient sérié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse sérié",
+			"tu": "eusses sérié",
+			"il/elle": "eût sérié",
+			"nous": "eussions sérié",
+			"vous": "eussiez sérié",
+			"ils/elles": "eussent sérié"
+		}
+	},
+	"participe": {
+		"présent": { "sériant": "" },
+		"passé composé": { "ayant": "sérié" },
+		"passé": {
+			"masc.sg.:": "sérié",
+			"masc.pl.:": "sériés",
+			"fém.sg.:": "sériée",
+			"fém.pl.:": "sériées"
+		}
+	},
+	"imperatif": {
+		"présent": { "série": "", "sérions": "", "sériez": "" },
+		"passé": { "aie": "sérié", "ayons": "sérié", "ayez": "sérié" }
+	},
+	"infinitif": { "présent": { "sérier": "" }, "passé": { "avoir": "sérié" } }
+}

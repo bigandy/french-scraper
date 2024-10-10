@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "advise; counsel; recommend; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se conseiller/ne pas conseiller/ne pas se conseiller",
+	"indicatif": {
+		"présent": {
+			"je": "conseille",
+			"tu": "conseilles",
+			"il/elle": "conseille",
+			"nous": "conseillons",
+			"vous": "conseillez",
+			"ils/elles": "conseillent"
+		},
+		"imparfait": {
+			"je": "conseillais",
+			"tu": "conseillais",
+			"il/elle": "conseillait",
+			"nous": "conseillions",
+			"vous": "conseilliez",
+			"ils/elles": "conseillaient"
+		},
+		"futur": {
+			"je": "conseillerai",
+			"tu": "conseilleras",
+			"il/elle": "conseillera",
+			"nous": "conseillerons",
+			"vous": "conseillerez",
+			"ils/elles": "conseilleront"
+		},
+		"passé simple": {
+			"je": "conseillai",
+			"tu": "conseillas",
+			"il/elle": "conseilla",
+			"nous": "conseillâmes",
+			"vous": "conseillâtes",
+			"ils/elles": "conseillèrent"
+		},
+		"passé composé": {
+			"j'": "ai conseillé",
+			"tu": "as conseillé",
+			"il/elle": "a conseillé",
+			"nous": "avons conseillé",
+			"vous": "avez conseillé",
+			"ils/elles": "ont conseillé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais conseillé",
+			"tu": "avais conseillé",
+			"il/elle": "avait conseillé",
+			"nous": "avions conseillé",
+			"vous": "aviez conseillé",
+			"ils/elles": "avaient conseillé"
+		},
+		"passé antérieur": {
+			"j'": "eus conseillé",
+			"tu": "eus conseillé",
+			"il/elle": "eut conseillé",
+			"nous": "eûmes conseillé",
+			"vous": "eûtes conseillé",
+			"ils/elles": "eurent conseillé"
+		},
+		"futur antérieur": {
+			"j'": "aurai conseillé",
+			"tu": "auras conseillé",
+			"il/elle": "aura conseillé",
+			"nous": "aurons conseillé",
+			"vous": "aurez conseillé",
+			"ils/elles": "auront conseillé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous conseilliez",
+			"qu'il/elle": "conseille",
+			"qu'ils/elles": "conseillent"
+		},
+		"imparfait": {
+			"que": "vous conseillassiez",
+			"qu'il/elle": "conseillât",
+			"qu'ils/elles": "conseillassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse conseillé",
+			"que": "vous eussiez conseillé",
+			"qu'il/elle": "eût conseillé",
+			"qu'ils/elles": "eussent conseillé"
+		},
+		"passé": {
+			"j'": "aie conseillé",
+			"que": "vous ayez conseillé",
+			"qu'il/elle": "ait conseillé",
+			"qu'ils/elles": "aient conseillé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "conseillerais",
+			"tu": "conseillerais",
+			"il/elle": "conseillerait",
+			"nous": "conseillerions",
+			"vous": "conseilleriez",
+			"ils/elles": "conseilleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais conseillé",
+			"tu": "aurais conseillé",
+			"il/elle": "aurait conseillé",
+			"nous": "aurions conseillé",
+			"vous": "auriez conseillé",
+			"ils/elles": "auraient conseillé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse conseillé",
+			"tu": "eusses conseillé",
+			"il/elle": "eût conseillé",
+			"nous": "eussions conseillé",
+			"vous": "eussiez conseillé",
+			"ils/elles": "eussent conseillé"
+		}
+	},
+	"participe": {
+		"présent": { "conseillant": "" },
+		"passé composé": { "ayant": "conseillé" },
+		"passé": {
+			"masc.sg.:": "conseillé",
+			"masc.pl.:": "conseillés",
+			"fém.sg.:": "conseillée",
+			"fém.pl.:": "conseillées"
+		}
+	},
+	"imperatif": {
+		"présent": { "conseille": "", "conseillons": "", "conseillez": "" },
+		"passé": { "aie": "conseillé", "ayons": "conseillé", "ayez": "conseillé" }
+	},
+	"infinitif": {
+		"présent": { "conseiller": "" },
+		"passé": { "avoir": "conseillé" }
+	}
+}

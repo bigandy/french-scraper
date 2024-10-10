@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "have; dispose; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se disposer/ne pas disposer/ne pas se disposer",
+	"indicatif": {
+		"présent": {
+			"je": "dispose",
+			"tu": "disposes",
+			"il/elle": "dispose",
+			"nous": "disposons",
+			"vous": "disposez",
+			"ils/elles": "disposent"
+		},
+		"imparfait": {
+			"je": "disposais",
+			"tu": "disposais",
+			"il/elle": "disposait",
+			"nous": "disposions",
+			"vous": "disposiez",
+			"ils/elles": "disposaient"
+		},
+		"futur": {
+			"je": "disposerai",
+			"tu": "disposeras",
+			"il/elle": "disposera",
+			"nous": "disposerons",
+			"vous": "disposerez",
+			"ils/elles": "disposeront"
+		},
+		"passé simple": {
+			"je": "disposai",
+			"tu": "disposas",
+			"il/elle": "disposa",
+			"nous": "disposâmes",
+			"vous": "disposâtes",
+			"ils/elles": "disposèrent"
+		},
+		"passé composé": {
+			"j'": "ai disposé",
+			"tu": "as disposé",
+			"il/elle": "a disposé",
+			"nous": "avons disposé",
+			"vous": "avez disposé",
+			"ils/elles": "ont disposé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais disposé",
+			"tu": "avais disposé",
+			"il/elle": "avait disposé",
+			"nous": "avions disposé",
+			"vous": "aviez disposé",
+			"ils/elles": "avaient disposé"
+		},
+		"passé antérieur": {
+			"j'": "eus disposé",
+			"tu": "eus disposé",
+			"il/elle": "eut disposé",
+			"nous": "eûmes disposé",
+			"vous": "eûtes disposé",
+			"ils/elles": "eurent disposé"
+		},
+		"futur antérieur": {
+			"j'": "aurai disposé",
+			"tu": "auras disposé",
+			"il/elle": "aura disposé",
+			"nous": "aurons disposé",
+			"vous": "aurez disposé",
+			"ils/elles": "auront disposé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous disposiez",
+			"qu'il/elle": "dispose",
+			"qu'ils/elles": "disposent"
+		},
+		"imparfait": {
+			"que": "vous disposassiez",
+			"qu'il/elle": "disposât",
+			"qu'ils/elles": "disposassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse disposé",
+			"que": "vous eussiez disposé",
+			"qu'il/elle": "eût disposé",
+			"qu'ils/elles": "eussent disposé"
+		},
+		"passé": {
+			"j'": "aie disposé",
+			"que": "vous ayez disposé",
+			"qu'il/elle": "ait disposé",
+			"qu'ils/elles": "aient disposé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "disposerais",
+			"tu": "disposerais",
+			"il/elle": "disposerait",
+			"nous": "disposerions",
+			"vous": "disposeriez",
+			"ils/elles": "disposeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais disposé",
+			"tu": "aurais disposé",
+			"il/elle": "aurait disposé",
+			"nous": "aurions disposé",
+			"vous": "auriez disposé",
+			"ils/elles": "auraient disposé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse disposé",
+			"tu": "eusses disposé",
+			"il/elle": "eût disposé",
+			"nous": "eussions disposé",
+			"vous": "eussiez disposé",
+			"ils/elles": "eussent disposé"
+		}
+	},
+	"participe": {
+		"présent": { "disposant": "" },
+		"passé composé": { "ayant": "disposé" },
+		"passé": {
+			"masc.sg.:": "disposé",
+			"masc.pl.:": "disposés",
+			"fém.sg.:": "disposée",
+			"fém.pl.:": "disposées"
+		}
+	},
+	"imperatif": {
+		"présent": { "dispose": "", "disposons": "", "disposez": "" },
+		"passé": { "aie": "disposé", "ayons": "disposé", "ayez": "disposé" }
+	},
+	"infinitif": {
+		"présent": { "disposer": "" },
+		"passé": { "avoir": "disposé" }
+	}
+}

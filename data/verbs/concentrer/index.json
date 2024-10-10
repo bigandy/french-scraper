@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "focus; concentrate; focus on; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se concentrer/ne pas concentrer/ne pas se concentrer",
+	"indicatif": {
+		"présent": {
+			"je": "concentre",
+			"tu": "concentres",
+			"il/elle": "concentre",
+			"nous": "concentrons",
+			"vous": "concentrez",
+			"ils/elles": "concentrent"
+		},
+		"imparfait": {
+			"je": "concentrais",
+			"tu": "concentrais",
+			"il/elle": "concentrait",
+			"nous": "concentrions",
+			"vous": "concentriez",
+			"ils/elles": "concentraient"
+		},
+		"futur": {
+			"je": "concentrerai",
+			"tu": "concentreras",
+			"il/elle": "concentrera",
+			"nous": "concentrerons",
+			"vous": "concentrerez",
+			"ils/elles": "concentreront"
+		},
+		"passé simple": {
+			"je": "concentrai",
+			"tu": "concentras",
+			"il/elle": "concentra",
+			"nous": "concentrâmes",
+			"vous": "concentrâtes",
+			"ils/elles": "concentrèrent"
+		},
+		"passé composé": {
+			"j'": "ai concentré",
+			"tu": "as concentré",
+			"il/elle": "a concentré",
+			"nous": "avons concentré",
+			"vous": "avez concentré",
+			"ils/elles": "ont concentré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais concentré",
+			"tu": "avais concentré",
+			"il/elle": "avait concentré",
+			"nous": "avions concentré",
+			"vous": "aviez concentré",
+			"ils/elles": "avaient concentré"
+		},
+		"passé antérieur": {
+			"j'": "eus concentré",
+			"tu": "eus concentré",
+			"il/elle": "eut concentré",
+			"nous": "eûmes concentré",
+			"vous": "eûtes concentré",
+			"ils/elles": "eurent concentré"
+		},
+		"futur antérieur": {
+			"j'": "aurai concentré",
+			"tu": "auras concentré",
+			"il/elle": "aura concentré",
+			"nous": "aurons concentré",
+			"vous": "aurez concentré",
+			"ils/elles": "auront concentré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous concentriez",
+			"qu'il/elle": "concentre",
+			"qu'ils/elles": "concentrent"
+		},
+		"imparfait": {
+			"que": "vous concentrassiez",
+			"qu'il/elle": "concentrât",
+			"qu'ils/elles": "concentrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse concentré",
+			"que": "vous eussiez concentré",
+			"qu'il/elle": "eût concentré",
+			"qu'ils/elles": "eussent concentré"
+		},
+		"passé": {
+			"j'": "aie concentré",
+			"que": "vous ayez concentré",
+			"qu'il/elle": "ait concentré",
+			"qu'ils/elles": "aient concentré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "concentrerais",
+			"tu": "concentrerais",
+			"il/elle": "concentrerait",
+			"nous": "concentrerions",
+			"vous": "concentreriez",
+			"ils/elles": "concentreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais concentré",
+			"tu": "aurais concentré",
+			"il/elle": "aurait concentré",
+			"nous": "aurions concentré",
+			"vous": "auriez concentré",
+			"ils/elles": "auraient concentré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse concentré",
+			"tu": "eusses concentré",
+			"il/elle": "eût concentré",
+			"nous": "eussions concentré",
+			"vous": "eussiez concentré",
+			"ils/elles": "eussent concentré"
+		}
+	},
+	"participe": {
+		"présent": { "concentrant": "" },
+		"passé composé": { "ayant": "concentré" },
+		"passé": {
+			"masc.sg.:": "concentré",
+			"masc.pl.:": "concentrés",
+			"fém.sg.:": "concentrée",
+			"fém.pl.:": "concentrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "concentre": "", "concentrons": "", "concentrez": "" },
+		"passé": { "aie": "concentré", "ayons": "concentré", "ayez": "concentré" }
+	},
+	"infinitif": {
+		"présent": { "concentrer": "" },
+		"passé": { "avoir": "concentré" }
+	}
+}

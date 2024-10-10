@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "harmonize; harmonise; align; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'harmoniser/ne pas harmoniser/ne pas s'harmoniser",
+	"indicatif": {
+		"présent": {
+			"j'": "harmonise",
+			"tu": "harmonises",
+			"il/elle": "harmonise",
+			"nous": "harmonisons",
+			"vous": "harmonisez",
+			"ils/elles": "harmonisent"
+		},
+		"imparfait": {
+			"j'": "harmonisais",
+			"tu": "harmonisais",
+			"il/elle": "harmonisait",
+			"nous": "harmonisions",
+			"vous": "harmonisiez",
+			"ils/elles": "harmonisaient"
+		},
+		"futur": {
+			"j'": "harmoniserai",
+			"tu": "harmoniseras",
+			"il/elle": "harmonisera",
+			"nous": "harmoniserons",
+			"vous": "harmoniserez",
+			"ils/elles": "harmoniseront"
+		},
+		"passé simple": {
+			"j'": "harmonisai",
+			"tu": "harmonisas",
+			"il/elle": "harmonisa",
+			"nous": "harmonisâmes",
+			"vous": "harmonisâtes",
+			"ils/elles": "harmonisèrent"
+		},
+		"passé composé": {
+			"j'": "ai harmonisé",
+			"tu": "as harmonisé",
+			"il/elle": "a harmonisé",
+			"nous": "avons harmonisé",
+			"vous": "avez harmonisé",
+			"ils/elles": "ont harmonisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais harmonisé",
+			"tu": "avais harmonisé",
+			"il/elle": "avait harmonisé",
+			"nous": "avions harmonisé",
+			"vous": "aviez harmonisé",
+			"ils/elles": "avaient harmonisé"
+		},
+		"passé antérieur": {
+			"j'": "eus harmonisé",
+			"tu": "eus harmonisé",
+			"il/elle": "eut harmonisé",
+			"nous": "eûmes harmonisé",
+			"vous": "eûtes harmonisé",
+			"ils/elles": "eurent harmonisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai harmonisé",
+			"tu": "auras harmonisé",
+			"il/elle": "aura harmonisé",
+			"nous": "aurons harmonisé",
+			"vous": "aurez harmonisé",
+			"ils/elles": "auront harmonisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "harmonise",
+			"que": "vous harmonisiez",
+			"qu'il/elle": "harmonise",
+			"qu'ils/elles": "harmonisent"
+		},
+		"imparfait": {
+			"j'": "harmonisasse",
+			"que": "vous harmonisassiez",
+			"qu'il/elle": "harmonisât",
+			"qu'ils/elles": "harmonisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse harmonisé",
+			"que": "vous eussiez harmonisé",
+			"qu'il/elle": "eût harmonisé",
+			"qu'ils/elles": "eussent harmonisé"
+		},
+		"passé": {
+			"j'": "aie harmonisé",
+			"que": "vous ayez harmonisé",
+			"qu'il/elle": "ait harmonisé",
+			"qu'ils/elles": "aient harmonisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "harmoniserais",
+			"tu": "harmoniserais",
+			"il/elle": "harmoniserait",
+			"nous": "harmoniserions",
+			"vous": "harmoniseriez",
+			"ils/elles": "harmoniseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais harmonisé",
+			"tu": "aurais harmonisé",
+			"il/elle": "aurait harmonisé",
+			"nous": "aurions harmonisé",
+			"vous": "auriez harmonisé",
+			"ils/elles": "auraient harmonisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse harmonisé",
+			"tu": "eusses harmonisé",
+			"il/elle": "eût harmonisé",
+			"nous": "eussions harmonisé",
+			"vous": "eussiez harmonisé",
+			"ils/elles": "eussent harmonisé"
+		}
+	},
+	"participe": {
+		"présent": { "harmonisant": "" },
+		"passé composé": { "ayant": "harmonisé" },
+		"passé": {
+			"masc.sg.:": "harmonisé",
+			"masc.pl.:": "harmonisés",
+			"fém.sg.:": "harmonisée",
+			"fém.pl.:": "harmonisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "harmonise": "", "harmonisons": "", "harmonisez": "" },
+		"passé": { "aie": "harmonisé", "ayons": "harmonisé", "ayez": "harmonisé" }
+	},
+	"infinitif": {
+		"présent": { "harmoniser": "" },
+		"passé": { "avoir": "harmonisé" }
+	}
+}

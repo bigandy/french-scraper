@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "record; document; log; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se consigner/ne pas consigner/ne pas se consigner",
+	"indicatif": {
+		"présent": {
+			"je": "consigne",
+			"tu": "consignes",
+			"il/elle": "consigne",
+			"nous": "consignons",
+			"vous": "consignez",
+			"ils/elles": "consignent"
+		},
+		"imparfait": {
+			"je": "consignais",
+			"tu": "consignais",
+			"il/elle": "consignait",
+			"nous": "consignions",
+			"vous": "consigniez",
+			"ils/elles": "consignaient"
+		},
+		"futur": {
+			"je": "consignerai",
+			"tu": "consigneras",
+			"il/elle": "consignera",
+			"nous": "consignerons",
+			"vous": "consignerez",
+			"ils/elles": "consigneront"
+		},
+		"passé simple": {
+			"je": "consignai",
+			"tu": "consignas",
+			"il/elle": "consigna",
+			"nous": "consignâmes",
+			"vous": "consignâtes",
+			"ils/elles": "consignèrent"
+		},
+		"passé composé": {
+			"j'": "ai consigné",
+			"tu": "as consigné",
+			"il/elle": "a consigné",
+			"nous": "avons consigné",
+			"vous": "avez consigné",
+			"ils/elles": "ont consigné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais consigné",
+			"tu": "avais consigné",
+			"il/elle": "avait consigné",
+			"nous": "avions consigné",
+			"vous": "aviez consigné",
+			"ils/elles": "avaient consigné"
+		},
+		"passé antérieur": {
+			"j'": "eus consigné",
+			"tu": "eus consigné",
+			"il/elle": "eut consigné",
+			"nous": "eûmes consigné",
+			"vous": "eûtes consigné",
+			"ils/elles": "eurent consigné"
+		},
+		"futur antérieur": {
+			"j'": "aurai consigné",
+			"tu": "auras consigné",
+			"il/elle": "aura consigné",
+			"nous": "aurons consigné",
+			"vous": "aurez consigné",
+			"ils/elles": "auront consigné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous consigniez",
+			"qu'il/elle": "consigne",
+			"qu'ils/elles": "consignent"
+		},
+		"imparfait": {
+			"que": "vous consignassiez",
+			"qu'il/elle": "consignât",
+			"qu'ils/elles": "consignassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse consigné",
+			"que": "vous eussiez consigné",
+			"qu'il/elle": "eût consigné",
+			"qu'ils/elles": "eussent consigné"
+		},
+		"passé": {
+			"j'": "aie consigné",
+			"que": "vous ayez consigné",
+			"qu'il/elle": "ait consigné",
+			"qu'ils/elles": "aient consigné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "consignerais",
+			"tu": "consignerais",
+			"il/elle": "consignerait",
+			"nous": "consignerions",
+			"vous": "consigneriez",
+			"ils/elles": "consigneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais consigné",
+			"tu": "aurais consigné",
+			"il/elle": "aurait consigné",
+			"nous": "aurions consigné",
+			"vous": "auriez consigné",
+			"ils/elles": "auraient consigné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse consigné",
+			"tu": "eusses consigné",
+			"il/elle": "eût consigné",
+			"nous": "eussions consigné",
+			"vous": "eussiez consigné",
+			"ils/elles": "eussent consigné"
+		}
+	},
+	"participe": {
+		"présent": { "consignant": "" },
+		"passé composé": { "ayant": "consigné" },
+		"passé": {
+			"masc.sg.:": "consigné",
+			"masc.pl.:": "consignés",
+			"fém.sg.:": "consignée",
+			"fém.pl.:": "consignées"
+		}
+	},
+	"imperatif": {
+		"présent": { "consigne": "", "consignons": "", "consignez": "" },
+		"passé": { "aie": "consigné", "ayons": "consigné", "ayez": "consigné" }
+	},
+	"infinitif": {
+		"présent": { "consigner": "" },
+		"passé": { "avoir": "consigné" }
+	}
+}

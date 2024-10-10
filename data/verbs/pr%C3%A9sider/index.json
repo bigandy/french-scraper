@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "chair; preside over; preside at; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se présider/ne pas présider/ne pas se présider",
+	"indicatif": {
+		"présent": {
+			"je": "préside",
+			"tu": "présides",
+			"il/elle": "préside",
+			"nous": "présidons",
+			"vous": "présidez",
+			"ils/elles": "président"
+		},
+		"imparfait": {
+			"je": "présidais",
+			"tu": "présidais",
+			"il/elle": "présidait",
+			"nous": "présidions",
+			"vous": "présidiez",
+			"ils/elles": "présidaient"
+		},
+		"futur": {
+			"je": "présiderai",
+			"tu": "présideras",
+			"il/elle": "présidera",
+			"nous": "présiderons",
+			"vous": "présiderez",
+			"ils/elles": "présideront"
+		},
+		"passé simple": {
+			"je": "présidai",
+			"tu": "présidas",
+			"il/elle": "présida",
+			"nous": "présidâmes",
+			"vous": "présidâtes",
+			"ils/elles": "présidèrent"
+		},
+		"passé composé": {
+			"j'": "ai présidé",
+			"tu": "as présidé",
+			"il/elle": "a présidé",
+			"nous": "avons présidé",
+			"vous": "avez présidé",
+			"ils/elles": "ont présidé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais présidé",
+			"tu": "avais présidé",
+			"il/elle": "avait présidé",
+			"nous": "avions présidé",
+			"vous": "aviez présidé",
+			"ils/elles": "avaient présidé"
+		},
+		"passé antérieur": {
+			"j'": "eus présidé",
+			"tu": "eus présidé",
+			"il/elle": "eut présidé",
+			"nous": "eûmes présidé",
+			"vous": "eûtes présidé",
+			"ils/elles": "eurent présidé"
+		},
+		"futur antérieur": {
+			"j'": "aurai présidé",
+			"tu": "auras présidé",
+			"il/elle": "aura présidé",
+			"nous": "aurons présidé",
+			"vous": "aurez présidé",
+			"ils/elles": "auront présidé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous présidiez",
+			"qu'il/elle": "préside",
+			"qu'ils/elles": "président"
+		},
+		"imparfait": {
+			"que": "vous présidassiez",
+			"qu'il/elle": "présidât",
+			"qu'ils/elles": "présidassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse présidé",
+			"que": "vous eussiez présidé",
+			"qu'il/elle": "eût présidé",
+			"qu'ils/elles": "eussent présidé"
+		},
+		"passé": {
+			"j'": "aie présidé",
+			"que": "vous ayez présidé",
+			"qu'il/elle": "ait présidé",
+			"qu'ils/elles": "aient présidé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "présiderais",
+			"tu": "présiderais",
+			"il/elle": "présiderait",
+			"nous": "présiderions",
+			"vous": "présideriez",
+			"ils/elles": "présideraient"
+		},
+		"passé première forme": {
+			"j'": "aurais présidé",
+			"tu": "aurais présidé",
+			"il/elle": "aurait présidé",
+			"nous": "aurions présidé",
+			"vous": "auriez présidé",
+			"ils/elles": "auraient présidé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse présidé",
+			"tu": "eusses présidé",
+			"il/elle": "eût présidé",
+			"nous": "eussions présidé",
+			"vous": "eussiez présidé",
+			"ils/elles": "eussent présidé"
+		}
+	},
+	"participe": {
+		"présent": { "présidant": "" },
+		"passé composé": { "ayant": "présidé" },
+		"passé": {
+			"masc.sg.:": "présidé",
+			"masc.pl.:": "présidés",
+			"fém.sg.:": "présidée",
+			"fém.pl.:": "présidées"
+		}
+	},
+	"imperatif": {
+		"présent": { "préside": "", "présidons": "", "présidez": "" },
+		"passé": { "aie": "présidé", "ayons": "présidé", "ayez": "présidé" }
+	},
+	"infinitif": {
+		"présent": { "présider": "" },
+		"passé": { "avoir": "présidé" }
+	}
+}

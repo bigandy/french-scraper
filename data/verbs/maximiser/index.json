@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "maximize; maximise; optimize; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se maximiser/ne pas maximiser/ne pas se maximiser",
+	"indicatif": {
+		"présent": {
+			"je": "maximise",
+			"tu": "maximises",
+			"il/elle": "maximise",
+			"nous": "maximisons",
+			"vous": "maximisez",
+			"ils/elles": "maximisent"
+		},
+		"imparfait": {
+			"je": "maximisais",
+			"tu": "maximisais",
+			"il/elle": "maximisait",
+			"nous": "maximisions",
+			"vous": "maximisiez",
+			"ils/elles": "maximisaient"
+		},
+		"futur": {
+			"je": "maximiserai",
+			"tu": "maximiseras",
+			"il/elle": "maximisera",
+			"nous": "maximiserons",
+			"vous": "maximiserez",
+			"ils/elles": "maximiseront"
+		},
+		"passé simple": {
+			"je": "maximisai",
+			"tu": "maximisas",
+			"il/elle": "maximisa",
+			"nous": "maximisâmes",
+			"vous": "maximisâtes",
+			"ils/elles": "maximisèrent"
+		},
+		"passé composé": {
+			"j'": "ai maximisé",
+			"tu": "as maximisé",
+			"il/elle": "a maximisé",
+			"nous": "avons maximisé",
+			"vous": "avez maximisé",
+			"ils/elles": "ont maximisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais maximisé",
+			"tu": "avais maximisé",
+			"il/elle": "avait maximisé",
+			"nous": "avions maximisé",
+			"vous": "aviez maximisé",
+			"ils/elles": "avaient maximisé"
+		},
+		"passé antérieur": {
+			"j'": "eus maximisé",
+			"tu": "eus maximisé",
+			"il/elle": "eut maximisé",
+			"nous": "eûmes maximisé",
+			"vous": "eûtes maximisé",
+			"ils/elles": "eurent maximisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai maximisé",
+			"tu": "auras maximisé",
+			"il/elle": "aura maximisé",
+			"nous": "aurons maximisé",
+			"vous": "aurez maximisé",
+			"ils/elles": "auront maximisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous maximisiez",
+			"qu'il/elle": "maximise",
+			"qu'ils/elles": "maximisent"
+		},
+		"imparfait": {
+			"que": "vous maximisassiez",
+			"qu'il/elle": "maximisât",
+			"qu'ils/elles": "maximisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse maximisé",
+			"que": "vous eussiez maximisé",
+			"qu'il/elle": "eût maximisé",
+			"qu'ils/elles": "eussent maximisé"
+		},
+		"passé": {
+			"j'": "aie maximisé",
+			"que": "vous ayez maximisé",
+			"qu'il/elle": "ait maximisé",
+			"qu'ils/elles": "aient maximisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "maximiserais",
+			"tu": "maximiserais",
+			"il/elle": "maximiserait",
+			"nous": "maximiserions",
+			"vous": "maximiseriez",
+			"ils/elles": "maximiseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais maximisé",
+			"tu": "aurais maximisé",
+			"il/elle": "aurait maximisé",
+			"nous": "aurions maximisé",
+			"vous": "auriez maximisé",
+			"ils/elles": "auraient maximisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse maximisé",
+			"tu": "eusses maximisé",
+			"il/elle": "eût maximisé",
+			"nous": "eussions maximisé",
+			"vous": "eussiez maximisé",
+			"ils/elles": "eussent maximisé"
+		}
+	},
+	"participe": {
+		"présent": { "maximisant": "" },
+		"passé composé": { "ayant": "maximisé" },
+		"passé": {
+			"masc.sg.:": "maximisé",
+			"masc.pl.:": "maximisés",
+			"fém.sg.:": "maximisée",
+			"fém.pl.:": "maximisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "maximise": "", "maximisons": "", "maximisez": "" },
+		"passé": { "aie": "maximisé", "ayons": "maximisé", "ayez": "maximisé" }
+	},
+	"infinitif": {
+		"présent": { "maximiser": "" },
+		"passé": { "avoir": "maximisé" }
+	}
+}

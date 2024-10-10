@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "find; meet; regain; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se retrouver/ne pas retrouver/ne pas se retrouver",
+	"indicatif": {
+		"présent": {
+			"je": "retrouve",
+			"tu": "retrouves",
+			"il/elle": "retrouve",
+			"nous": "retrouvons",
+			"vous": "retrouvez",
+			"ils/elles": "retrouvent"
+		},
+		"imparfait": {
+			"je": "retrouvais",
+			"tu": "retrouvais",
+			"il/elle": "retrouvait",
+			"nous": "retrouvions",
+			"vous": "retrouviez",
+			"ils/elles": "retrouvaient"
+		},
+		"futur": {
+			"je": "retrouverai",
+			"tu": "retrouveras",
+			"il/elle": "retrouvera",
+			"nous": "retrouverons",
+			"vous": "retrouverez",
+			"ils/elles": "retrouveront"
+		},
+		"passé simple": {
+			"je": "retrouvai",
+			"tu": "retrouvas",
+			"il/elle": "retrouva",
+			"nous": "retrouvâmes",
+			"vous": "retrouvâtes",
+			"ils/elles": "retrouvèrent"
+		},
+		"passé composé": {
+			"j'": "ai retrouvé",
+			"tu": "as retrouvé",
+			"il/elle": "a retrouvé",
+			"nous": "avons retrouvé",
+			"vous": "avez retrouvé",
+			"ils/elles": "ont retrouvé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais retrouvé",
+			"tu": "avais retrouvé",
+			"il/elle": "avait retrouvé",
+			"nous": "avions retrouvé",
+			"vous": "aviez retrouvé",
+			"ils/elles": "avaient retrouvé"
+		},
+		"passé antérieur": {
+			"j'": "eus retrouvé",
+			"tu": "eus retrouvé",
+			"il/elle": "eut retrouvé",
+			"nous": "eûmes retrouvé",
+			"vous": "eûtes retrouvé",
+			"ils/elles": "eurent retrouvé"
+		},
+		"futur antérieur": {
+			"j'": "aurai retrouvé",
+			"tu": "auras retrouvé",
+			"il/elle": "aura retrouvé",
+			"nous": "aurons retrouvé",
+			"vous": "aurez retrouvé",
+			"ils/elles": "auront retrouvé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous retrouviez",
+			"qu'il/elle": "retrouve",
+			"qu'ils/elles": "retrouvent"
+		},
+		"imparfait": {
+			"que": "vous retrouvassiez",
+			"qu'il/elle": "retrouvât",
+			"qu'ils/elles": "retrouvassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse retrouvé",
+			"que": "vous eussiez retrouvé",
+			"qu'il/elle": "eût retrouvé",
+			"qu'ils/elles": "eussent retrouvé"
+		},
+		"passé": {
+			"j'": "aie retrouvé",
+			"que": "vous ayez retrouvé",
+			"qu'il/elle": "ait retrouvé",
+			"qu'ils/elles": "aient retrouvé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "retrouverais",
+			"tu": "retrouverais",
+			"il/elle": "retrouverait",
+			"nous": "retrouverions",
+			"vous": "retrouveriez",
+			"ils/elles": "retrouveraient"
+		},
+		"passé première forme": {
+			"j'": "aurais retrouvé",
+			"tu": "aurais retrouvé",
+			"il/elle": "aurait retrouvé",
+			"nous": "aurions retrouvé",
+			"vous": "auriez retrouvé",
+			"ils/elles": "auraient retrouvé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse retrouvé",
+			"tu": "eusses retrouvé",
+			"il/elle": "eût retrouvé",
+			"nous": "eussions retrouvé",
+			"vous": "eussiez retrouvé",
+			"ils/elles": "eussent retrouvé"
+		}
+	},
+	"participe": {
+		"présent": { "retrouvant": "" },
+		"passé composé": { "ayant": "retrouvé" },
+		"passé": {
+			"masc.sg.:": "retrouvé",
+			"masc.pl.:": "retrouvés",
+			"fém.sg.:": "retrouvée",
+			"fém.pl.:": "retrouvées"
+		}
+	},
+	"imperatif": {
+		"présent": { "retrouve": "", "retrouvons": "", "retrouvez": "" },
+		"passé": { "aie": "retrouvé", "ayons": "retrouvé", "ayez": "retrouvé" }
+	},
+	"infinitif": {
+		"présent": { "retrouver": "" },
+		"passé": { "avoir": "retrouvé" }
+	}
+}

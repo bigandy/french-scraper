@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "decide; determine; choose; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se décider/ne pas décider/ne pas se décider",
+	"indicatif": {
+		"présent": {
+			"je": "décide",
+			"tu": "décides",
+			"il/elle": "décide",
+			"nous": "décidons",
+			"vous": "décidez",
+			"ils/elles": "décident"
+		},
+		"imparfait": {
+			"je": "décidais",
+			"tu": "décidais",
+			"il/elle": "décidait",
+			"nous": "décidions",
+			"vous": "décidiez",
+			"ils/elles": "décidaient"
+		},
+		"futur": {
+			"je": "déciderai",
+			"tu": "décideras",
+			"il/elle": "décidera",
+			"nous": "déciderons",
+			"vous": "déciderez",
+			"ils/elles": "décideront"
+		},
+		"passé simple": {
+			"je": "décidai",
+			"tu": "décidas",
+			"il/elle": "décida",
+			"nous": "décidâmes",
+			"vous": "décidâtes",
+			"ils/elles": "décidèrent"
+		},
+		"passé composé": {
+			"j'": "ai décidé",
+			"tu": "as décidé",
+			"il/elle": "a décidé",
+			"nous": "avons décidé",
+			"vous": "avez décidé",
+			"ils/elles": "ont décidé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais décidé",
+			"tu": "avais décidé",
+			"il/elle": "avait décidé",
+			"nous": "avions décidé",
+			"vous": "aviez décidé",
+			"ils/elles": "avaient décidé"
+		},
+		"passé antérieur": {
+			"j'": "eus décidé",
+			"tu": "eus décidé",
+			"il/elle": "eut décidé",
+			"nous": "eûmes décidé",
+			"vous": "eûtes décidé",
+			"ils/elles": "eurent décidé"
+		},
+		"futur antérieur": {
+			"j'": "aurai décidé",
+			"tu": "auras décidé",
+			"il/elle": "aura décidé",
+			"nous": "aurons décidé",
+			"vous": "aurez décidé",
+			"ils/elles": "auront décidé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous décidiez",
+			"qu'il/elle": "décide",
+			"qu'ils/elles": "décident"
+		},
+		"imparfait": {
+			"que": "vous décidassiez",
+			"qu'il/elle": "décidât",
+			"qu'ils/elles": "décidassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse décidé",
+			"que": "vous eussiez décidé",
+			"qu'il/elle": "eût décidé",
+			"qu'ils/elles": "eussent décidé"
+		},
+		"passé": {
+			"j'": "aie décidé",
+			"que": "vous ayez décidé",
+			"qu'il/elle": "ait décidé",
+			"qu'ils/elles": "aient décidé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "déciderais",
+			"tu": "déciderais",
+			"il/elle": "déciderait",
+			"nous": "déciderions",
+			"vous": "décideriez",
+			"ils/elles": "décideraient"
+		},
+		"passé première forme": {
+			"j'": "aurais décidé",
+			"tu": "aurais décidé",
+			"il/elle": "aurait décidé",
+			"nous": "aurions décidé",
+			"vous": "auriez décidé",
+			"ils/elles": "auraient décidé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse décidé",
+			"tu": "eusses décidé",
+			"il/elle": "eût décidé",
+			"nous": "eussions décidé",
+			"vous": "eussiez décidé",
+			"ils/elles": "eussent décidé"
+		}
+	},
+	"participe": {
+		"présent": { "décidant": "" },
+		"passé composé": { "ayant": "décidé" },
+		"passé": {
+			"masc.sg.:": "décidé",
+			"masc.pl.:": "décidés",
+			"fém.sg.:": "décidée",
+			"fém.pl.:": "décidées"
+		}
+	},
+	"imperatif": {
+		"présent": { "décide": "", "décidons": "", "décidez": "" },
+		"passé": { "aie": "décidé", "ayons": "décidé", "ayez": "décidé" }
+	},
+	"infinitif": { "présent": { "décider": "" }, "passé": { "avoir": "décidé" } }
+}

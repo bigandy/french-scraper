@@ -1,0 +1,138 @@
+{
+	"name": "suffire",
+	"definition": "be sufficient; be enough; suffice; ...",
+	"model": "suffire",
+	"auxiliary": "avoir",
+	"otherForms": "se suffire/ne pas suffire/ne pas se suffire",
+	"indicatif": {
+		"présent": {
+			"je": "suffis",
+			"tu": "suffis",
+			"il/elle": "suffit",
+			"nous": "suffisons",
+			"vous": "suffisez",
+			"ils/elles": "suffisent"
+		},
+		"imparfait": {
+			"je": "suffisais",
+			"tu": "suffisais",
+			"il/elle": "suffisait",
+			"nous": "suffisions",
+			"vous": "suffisiez",
+			"ils/elles": "suffisaient"
+		},
+		"futur": {
+			"je": "suffirai",
+			"tu": "suffiras",
+			"il/elle": "suffira",
+			"nous": "suffirons",
+			"vous": "suffirez",
+			"ils/elles": "suffiront"
+		},
+		"passé simple": {
+			"je": "suffis",
+			"tu": "suffis",
+			"il/elle": "suffit",
+			"nous": "suffîmes",
+			"vous": "suffîtes",
+			"ils/elles": "suffirent"
+		},
+		"passé composé": {
+			"j'": "ai suffi",
+			"tu": "as suffi",
+			"il/elle": "a suffi",
+			"nous": "avons suffi",
+			"vous": "avez suffi",
+			"ils/elles": "ont suffi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais suffi",
+			"tu": "avais suffi",
+			"il/elle": "avait suffi",
+			"nous": "avions suffi",
+			"vous": "aviez suffi",
+			"ils/elles": "avaient suffi"
+		},
+		"passé antérieur": {
+			"j'": "eus suffi",
+			"tu": "eus suffi",
+			"il/elle": "eut suffi",
+			"nous": "eûmes suffi",
+			"vous": "eûtes suffi",
+			"ils/elles": "eurent suffi"
+		},
+		"futur antérieur": {
+			"j'": "aurai suffi",
+			"tu": "auras suffi",
+			"il/elle": "aura suffi",
+			"nous": "aurons suffi",
+			"vous": "aurez suffi",
+			"ils/elles": "auront suffi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous suffisiez",
+			"qu'il/elle": "suffise",
+			"qu'ils/elles": "suffisent"
+		},
+		"imparfait": {
+			"que": "vous suffissiez",
+			"qu'il/elle": "suffît",
+			"qu'ils/elles": "suffissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse suffi",
+			"que": "vous eussiez suffi",
+			"qu'il/elle": "eût suffi",
+			"qu'ils/elles": "eussent suffi"
+		},
+		"passé": {
+			"j'": "aie suffi",
+			"que": "vous ayez suffi",
+			"qu'il/elle": "ait suffi",
+			"qu'ils/elles": "aient suffi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "suffirais",
+			"tu": "suffirais",
+			"il/elle": "suffirait",
+			"nous": "suffirions",
+			"vous": "suffiriez",
+			"ils/elles": "suffiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais suffi",
+			"tu": "aurais suffi",
+			"il/elle": "aurait suffi",
+			"nous": "aurions suffi",
+			"vous": "auriez suffi",
+			"ils/elles": "auraient suffi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse suffi",
+			"tu": "eusses suffi",
+			"il/elle": "eût suffi",
+			"nous": "eussions suffi",
+			"vous": "eussiez suffi",
+			"ils/elles": "eussent suffi"
+		}
+	},
+	"participe": {
+		"présent": { "suffisant": "" },
+		"passé composé": { "ayant": "suffi" },
+		"passé": {
+			"masc.sg.:": "suffi",
+			"masc.pl.:": "suffi",
+			"fém.sg.:": "suffi",
+			"fém.pl.:": "suffi"
+		}
+	},
+	"imperatif": {
+		"présent": { "suffis": "", "suffisons": "", "suffisez": "" },
+		"passé": { "aie": "suffi", "ayons": "suffi", "ayez": "suffi" }
+	},
+	"infinitif": { "présent": { "suffire": "" }, "passé": { "avoir": "suffi" } }
+}

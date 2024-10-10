@@ -1,0 +1,138 @@
+{
+	"name": "voir",
+	"definition": "see; view; watch; ...",
+	"model": "voir",
+	"auxiliary": "avoir",
+	"otherForms": "se voir/ne pas voir/ne pas se voir",
+	"indicatif": {
+		"présent": {
+			"je": "vois",
+			"tu": "vois",
+			"il/elle": "voit",
+			"nous": "voyons",
+			"vous": "voyez",
+			"ils/elles": "voient"
+		},
+		"imparfait": {
+			"je": "voyais",
+			"tu": "voyais",
+			"il/elle": "voyait",
+			"nous": "voyions",
+			"vous": "voyiez",
+			"ils/elles": "voyaient"
+		},
+		"futur": {
+			"je": "verrai",
+			"tu": "verras",
+			"il/elle": "verra",
+			"nous": "verrons",
+			"vous": "verrez",
+			"ils/elles": "verront"
+		},
+		"passé simple": {
+			"je": "vis",
+			"tu": "vis",
+			"il/elle": "vit",
+			"nous": "vîmes",
+			"vous": "vîtes",
+			"ils/elles": "virent"
+		},
+		"passé composé": {
+			"j'": "ai vu",
+			"tu": "as vu",
+			"il/elle": "a vu",
+			"nous": "avons vu",
+			"vous": "avez vu",
+			"ils/elles": "ont vu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais vu",
+			"tu": "avais vu",
+			"il/elle": "avait vu",
+			"nous": "avions vu",
+			"vous": "aviez vu",
+			"ils/elles": "avaient vu"
+		},
+		"passé antérieur": {
+			"j'": "eus vu",
+			"tu": "eus vu",
+			"il/elle": "eut vu",
+			"nous": "eûmes vu",
+			"vous": "eûtes vu",
+			"ils/elles": "eurent vu"
+		},
+		"futur antérieur": {
+			"j'": "aurai vu",
+			"tu": "auras vu",
+			"il/elle": "aura vu",
+			"nous": "aurons vu",
+			"vous": "aurez vu",
+			"ils/elles": "auront vu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous voyiez",
+			"qu'il/elle": "voie",
+			"qu'ils/elles": "voient"
+		},
+		"imparfait": {
+			"que": "vous vissiez",
+			"qu'il/elle": "vît",
+			"qu'ils/elles": "vissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse vu",
+			"que": "vous eussiez vu",
+			"qu'il/elle": "eût vu",
+			"qu'ils/elles": "eussent vu"
+		},
+		"passé": {
+			"j'": "aie vu",
+			"que": "vous ayez vu",
+			"qu'il/elle": "ait vu",
+			"qu'ils/elles": "aient vu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "verrais",
+			"tu": "verrais",
+			"il/elle": "verrait",
+			"nous": "verrions",
+			"vous": "verriez",
+			"ils/elles": "verraient"
+		},
+		"passé première forme": {
+			"j'": "aurais vu",
+			"tu": "aurais vu",
+			"il/elle": "aurait vu",
+			"nous": "aurions vu",
+			"vous": "auriez vu",
+			"ils/elles": "auraient vu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse vu",
+			"tu": "eusses vu",
+			"il/elle": "eût vu",
+			"nous": "eussions vu",
+			"vous": "eussiez vu",
+			"ils/elles": "eussent vu"
+		}
+	},
+	"participe": {
+		"présent": { "voyant": "" },
+		"passé composé": { "ayant": "vu" },
+		"passé": {
+			"masc.sg.:": "vu",
+			"masc.pl.:": "vus",
+			"fém.sg.:": "vue",
+			"fém.pl.:": "vues"
+		}
+	},
+	"imperatif": {
+		"présent": { "vois": "", "voyons": "", "voyez": "" },
+		"passé": { "aie": "vu", "ayons": "vu", "ayez": "vu" }
+	},
+	"infinitif": { "présent": { "voir": "" }, "passé": { "avoir": "vu" } }
+}

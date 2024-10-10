@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "return; restore; render; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se restituer/ne pas restituer/ne pas se restituer",
+	"indicatif": {
+		"présent": {
+			"je": "restitue",
+			"tu": "restitues",
+			"il/elle": "restitue",
+			"nous": "restituons",
+			"vous": "restituez",
+			"ils/elles": "restituent"
+		},
+		"imparfait": {
+			"je": "restituais",
+			"tu": "restituais",
+			"il/elle": "restituait",
+			"nous": "restituions",
+			"vous": "restituiez",
+			"ils/elles": "restituaient"
+		},
+		"futur": {
+			"je": "restituerai",
+			"tu": "restitueras",
+			"il/elle": "restituera",
+			"nous": "restituerons",
+			"vous": "restituerez",
+			"ils/elles": "restitueront"
+		},
+		"passé simple": {
+			"je": "restituai",
+			"tu": "restituas",
+			"il/elle": "restitua",
+			"nous": "restituâmes",
+			"vous": "restituâtes",
+			"ils/elles": "restituèrent"
+		},
+		"passé composé": {
+			"j'": "ai restitué",
+			"tu": "as restitué",
+			"il/elle": "a restitué",
+			"nous": "avons restitué",
+			"vous": "avez restitué",
+			"ils/elles": "ont restitué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais restitué",
+			"tu": "avais restitué",
+			"il/elle": "avait restitué",
+			"nous": "avions restitué",
+			"vous": "aviez restitué",
+			"ils/elles": "avaient restitué"
+		},
+		"passé antérieur": {
+			"j'": "eus restitué",
+			"tu": "eus restitué",
+			"il/elle": "eut restitué",
+			"nous": "eûmes restitué",
+			"vous": "eûtes restitué",
+			"ils/elles": "eurent restitué"
+		},
+		"futur antérieur": {
+			"j'": "aurai restitué",
+			"tu": "auras restitué",
+			"il/elle": "aura restitué",
+			"nous": "aurons restitué",
+			"vous": "aurez restitué",
+			"ils/elles": "auront restitué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous restituiez",
+			"qu'il/elle": "restitue",
+			"qu'ils/elles": "restituent"
+		},
+		"imparfait": {
+			"que": "vous restituassiez",
+			"qu'il/elle": "restituât",
+			"qu'ils/elles": "restituassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse restitué",
+			"que": "vous eussiez restitué",
+			"qu'il/elle": "eût restitué",
+			"qu'ils/elles": "eussent restitué"
+		},
+		"passé": {
+			"j'": "aie restitué",
+			"que": "vous ayez restitué",
+			"qu'il/elle": "ait restitué",
+			"qu'ils/elles": "aient restitué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "restituerais",
+			"tu": "restituerais",
+			"il/elle": "restituerait",
+			"nous": "restituerions",
+			"vous": "restitueriez",
+			"ils/elles": "restitueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais restitué",
+			"tu": "aurais restitué",
+			"il/elle": "aurait restitué",
+			"nous": "aurions restitué",
+			"vous": "auriez restitué",
+			"ils/elles": "auraient restitué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse restitué",
+			"tu": "eusses restitué",
+			"il/elle": "eût restitué",
+			"nous": "eussions restitué",
+			"vous": "eussiez restitué",
+			"ils/elles": "eussent restitué"
+		}
+	},
+	"participe": {
+		"présent": { "restituant": "" },
+		"passé composé": { "ayant": "restitué" },
+		"passé": {
+			"masc.sg.:": "restitué",
+			"masc.pl.:": "restitués",
+			"fém.sg.:": "restituée",
+			"fém.pl.:": "restituées"
+		}
+	},
+	"imperatif": {
+		"présent": { "restitue": "", "restituons": "", "restituez": "" },
+		"passé": { "aie": "restitué", "ayons": "restitué", "ayez": "restitué" }
+	},
+	"infinitif": {
+		"présent": { "restituer": "" },
+		"passé": { "avoir": "restitué" }
+	}
+}

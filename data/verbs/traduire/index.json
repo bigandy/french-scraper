@@ -1,0 +1,141 @@
+{
+	"name": "cuire",
+	"definition": "translate; bring; reflect; ...",
+	"model": "cuire",
+	"auxiliary": "avoir",
+	"otherForms": "se traduire/ne pas traduire/ne pas se traduire",
+	"indicatif": {
+		"présent": {
+			"je": "traduis",
+			"tu": "traduis",
+			"il/elle": "traduit",
+			"nous": "traduisons",
+			"vous": "traduisez",
+			"ils/elles": "traduisent"
+		},
+		"imparfait": {
+			"je": "traduisais",
+			"tu": "traduisais",
+			"il/elle": "traduisait",
+			"nous": "traduisions",
+			"vous": "traduisiez",
+			"ils/elles": "traduisaient"
+		},
+		"futur": {
+			"je": "traduirai",
+			"tu": "traduiras",
+			"il/elle": "traduira",
+			"nous": "traduirons",
+			"vous": "traduirez",
+			"ils/elles": "traduiront"
+		},
+		"passé simple": {
+			"je": "traduisis",
+			"tu": "traduisis",
+			"il/elle": "traduisit",
+			"nous": "traduisîmes",
+			"vous": "traduisîtes",
+			"ils/elles": "traduisirent"
+		},
+		"passé composé": {
+			"j'": "ai traduit",
+			"tu": "as traduit",
+			"il/elle": "a traduit",
+			"nous": "avons traduit",
+			"vous": "avez traduit",
+			"ils/elles": "ont traduit"
+		},
+		"plus-que-parfait": {
+			"j'": "avais traduit",
+			"tu": "avais traduit",
+			"il/elle": "avait traduit",
+			"nous": "avions traduit",
+			"vous": "aviez traduit",
+			"ils/elles": "avaient traduit"
+		},
+		"passé antérieur": {
+			"j'": "eus traduit",
+			"tu": "eus traduit",
+			"il/elle": "eut traduit",
+			"nous": "eûmes traduit",
+			"vous": "eûtes traduit",
+			"ils/elles": "eurent traduit"
+		},
+		"futur antérieur": {
+			"j'": "aurai traduit",
+			"tu": "auras traduit",
+			"il/elle": "aura traduit",
+			"nous": "aurons traduit",
+			"vous": "aurez traduit",
+			"ils/elles": "auront traduit"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous traduisiez",
+			"qu'il/elle": "traduise",
+			"qu'ils/elles": "traduisent"
+		},
+		"imparfait": {
+			"que": "vous traduisissiez",
+			"qu'il/elle": "traduisît",
+			"qu'ils/elles": "traduisissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse traduit",
+			"que": "vous eussiez traduit",
+			"qu'il/elle": "eût traduit",
+			"qu'ils/elles": "eussent traduit"
+		},
+		"passé": {
+			"j'": "aie traduit",
+			"que": "vous ayez traduit",
+			"qu'il/elle": "ait traduit",
+			"qu'ils/elles": "aient traduit"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "traduirais",
+			"tu": "traduirais",
+			"il/elle": "traduirait",
+			"nous": "traduirions",
+			"vous": "traduiriez",
+			"ils/elles": "traduiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais traduit",
+			"tu": "aurais traduit",
+			"il/elle": "aurait traduit",
+			"nous": "aurions traduit",
+			"vous": "auriez traduit",
+			"ils/elles": "auraient traduit"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse traduit",
+			"tu": "eusses traduit",
+			"il/elle": "eût traduit",
+			"nous": "eussions traduit",
+			"vous": "eussiez traduit",
+			"ils/elles": "eussent traduit"
+		}
+	},
+	"participe": {
+		"présent": { "traduisant": "" },
+		"passé composé": { "ayant": "traduit" },
+		"passé": {
+			"masc.sg.:": "traduit",
+			"masc.pl.:": "traduits",
+			"fém.sg.:": "traduite",
+			"fém.pl.:": "traduites"
+		}
+	},
+	"imperatif": {
+		"présent": { "traduis": "", "traduisons": "", "traduisez": "" },
+		"passé": { "aie": "traduit", "ayons": "traduit", "ayez": "traduit" }
+	},
+	"infinitif": {
+		"présent": { "traduire": "" },
+		"passé": { "avoir": "traduit" }
+	}
+}

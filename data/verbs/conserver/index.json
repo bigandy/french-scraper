@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "keep; maintain; retain; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se conserver/ne pas conserver/ne pas se conserver",
+	"indicatif": {
+		"présent": {
+			"je": "conserve",
+			"tu": "conserves",
+			"il/elle": "conserve",
+			"nous": "conservons",
+			"vous": "conservez",
+			"ils/elles": "conservent"
+		},
+		"imparfait": {
+			"je": "conservais",
+			"tu": "conservais",
+			"il/elle": "conservait",
+			"nous": "conservions",
+			"vous": "conserviez",
+			"ils/elles": "conservaient"
+		},
+		"futur": {
+			"je": "conserverai",
+			"tu": "conserveras",
+			"il/elle": "conservera",
+			"nous": "conserverons",
+			"vous": "conserverez",
+			"ils/elles": "conserveront"
+		},
+		"passé simple": {
+			"je": "conservai",
+			"tu": "conservas",
+			"il/elle": "conserva",
+			"nous": "conservâmes",
+			"vous": "conservâtes",
+			"ils/elles": "conservèrent"
+		},
+		"passé composé": {
+			"j'": "ai conservé",
+			"tu": "as conservé",
+			"il/elle": "a conservé",
+			"nous": "avons conservé",
+			"vous": "avez conservé",
+			"ils/elles": "ont conservé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais conservé",
+			"tu": "avais conservé",
+			"il/elle": "avait conservé",
+			"nous": "avions conservé",
+			"vous": "aviez conservé",
+			"ils/elles": "avaient conservé"
+		},
+		"passé antérieur": {
+			"j'": "eus conservé",
+			"tu": "eus conservé",
+			"il/elle": "eut conservé",
+			"nous": "eûmes conservé",
+			"vous": "eûtes conservé",
+			"ils/elles": "eurent conservé"
+		},
+		"futur antérieur": {
+			"j'": "aurai conservé",
+			"tu": "auras conservé",
+			"il/elle": "aura conservé",
+			"nous": "aurons conservé",
+			"vous": "aurez conservé",
+			"ils/elles": "auront conservé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous conserviez",
+			"qu'il/elle": "conserve",
+			"qu'ils/elles": "conservent"
+		},
+		"imparfait": {
+			"que": "vous conservassiez",
+			"qu'il/elle": "conservât",
+			"qu'ils/elles": "conservassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse conservé",
+			"que": "vous eussiez conservé",
+			"qu'il/elle": "eût conservé",
+			"qu'ils/elles": "eussent conservé"
+		},
+		"passé": {
+			"j'": "aie conservé",
+			"que": "vous ayez conservé",
+			"qu'il/elle": "ait conservé",
+			"qu'ils/elles": "aient conservé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "conserverais",
+			"tu": "conserverais",
+			"il/elle": "conserverait",
+			"nous": "conserverions",
+			"vous": "conserveriez",
+			"ils/elles": "conserveraient"
+		},
+		"passé première forme": {
+			"j'": "aurais conservé",
+			"tu": "aurais conservé",
+			"il/elle": "aurait conservé",
+			"nous": "aurions conservé",
+			"vous": "auriez conservé",
+			"ils/elles": "auraient conservé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse conservé",
+			"tu": "eusses conservé",
+			"il/elle": "eût conservé",
+			"nous": "eussions conservé",
+			"vous": "eussiez conservé",
+			"ils/elles": "eussent conservé"
+		}
+	},
+	"participe": {
+		"présent": { "conservant": "" },
+		"passé composé": { "ayant": "conservé" },
+		"passé": {
+			"masc.sg.:": "conservé",
+			"masc.pl.:": "conservés",
+			"fém.sg.:": "conservée",
+			"fém.pl.:": "conservées"
+		}
+	},
+	"imperatif": {
+		"présent": { "conserve": "", "conservons": "", "conservez": "" },
+		"passé": { "aie": "conservé", "ayons": "conservé", "ayez": "conservé" }
+	},
+	"infinitif": {
+		"présent": { "conserver": "" },
+		"passé": { "avoir": "conservé" }
+	}
+}

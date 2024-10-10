@@ -1,0 +1,131 @@
+{
+	"name": "traire",
+	"definition": "extract; retrieve; remove; ...",
+	"model": "traire",
+	"auxiliary": "avoir",
+	"otherForms": "s'extraire/ne pas extraire/ne pas s'extraire",
+	"indicatif": {
+		"présent": {
+			"j'": "extrais",
+			"tu": "extrais",
+			"il/elle": "extrait",
+			"nous": "extrayons",
+			"vous": "extrayez",
+			"ils/elles": "extraient"
+		},
+		"imparfait": {
+			"j'": "extrayais",
+			"tu": "extrayais",
+			"il/elle": "extrayait",
+			"nous": "extrayions",
+			"vous": "extrayiez",
+			"ils/elles": "extrayaient"
+		},
+		"futur": {
+			"j'": "extrairai",
+			"tu": "extrairas",
+			"il/elle": "extraira",
+			"nous": "extrairons",
+			"vous": "extrairez",
+			"ils/elles": "extrairont"
+		},
+		"passé simple": {},
+		"passé composé": {
+			"j'": "ai extrait",
+			"tu": "as extrait",
+			"il/elle": "a extrait",
+			"nous": "avons extrait",
+			"vous": "avez extrait",
+			"ils/elles": "ont extrait"
+		},
+		"plus-que-parfait": {
+			"j'": "avais extrait",
+			"tu": "avais extrait",
+			"il/elle": "avait extrait",
+			"nous": "avions extrait",
+			"vous": "aviez extrait",
+			"ils/elles": "avaient extrait"
+		},
+		"passé antérieur": {
+			"j'": "eus extrait",
+			"tu": "eus extrait",
+			"il/elle": "eut extrait",
+			"nous": "eûmes extrait",
+			"vous": "eûtes extrait",
+			"ils/elles": "eurent extrait"
+		},
+		"futur antérieur": {
+			"j'": "aurai extrait",
+			"tu": "auras extrait",
+			"il/elle": "aura extrait",
+			"nous": "aurons extrait",
+			"vous": "aurez extrait",
+			"ils/elles": "auront extrait"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "extraie",
+			"que": "vous extrayiez",
+			"qu'il/elle": "extraie",
+			"qu'ils/elles": "extraient"
+		},
+		"imparfait": {},
+		"plus-que-parfait": {
+			"j'": "eusse extrait",
+			"que": "vous eussiez extrait",
+			"qu'il/elle": "eût extrait",
+			"qu'ils/elles": "eussent extrait"
+		},
+		"passé": {
+			"j'": "aie extrait",
+			"que": "vous ayez extrait",
+			"qu'il/elle": "ait extrait",
+			"qu'ils/elles": "aient extrait"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "extrairais",
+			"tu": "extrairais",
+			"il/elle": "extrairait",
+			"nous": "extrairions",
+			"vous": "extrairiez",
+			"ils/elles": "extrairaient"
+		},
+		"passé première forme": {
+			"j'": "aurais extrait",
+			"tu": "aurais extrait",
+			"il/elle": "aurait extrait",
+			"nous": "aurions extrait",
+			"vous": "auriez extrait",
+			"ils/elles": "auraient extrait"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse extrait",
+			"tu": "eusses extrait",
+			"il/elle": "eût extrait",
+			"nous": "eussions extrait",
+			"vous": "eussiez extrait",
+			"ils/elles": "eussent extrait"
+		}
+	},
+	"participe": {
+		"présent": { "extrayant": "" },
+		"passé composé": { "ayant": "extrait" },
+		"passé": {
+			"masc.sg.:": "extrait",
+			"masc.pl.:": "extraits",
+			"fém.sg.:": "extraite",
+			"fém.pl.:": "extraites"
+		}
+	},
+	"imperatif": {
+		"présent": { "extrais": "", "extrayons": "", "extrayez": "" },
+		"passé": { "aie": "extrait", "ayons": "extrait", "ayez": "extrait" }
+	},
+	"infinitif": {
+		"présent": { "extraire": "" },
+		"passé": { "avoir": "extrait" }
+	}
+}

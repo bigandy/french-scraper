@@ -1,0 +1,140 @@
+{
+	"name": "manger",
+	"definition": "engage; hire; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "s'engager/ne pas engager/ne pas s'engager",
+	"indicatif": {
+		"présent": {
+			"j'": "engage",
+			"tu": "engages",
+			"il/elle": "engage",
+			"nous": "engageons",
+			"vous": "engagez",
+			"ils/elles": "engagent"
+		},
+		"imparfait": {
+			"j'": "engageais",
+			"tu": "engageais",
+			"il/elle": "engageait",
+			"nous": "engagions",
+			"vous": "engagiez",
+			"ils/elles": "engageaient"
+		},
+		"futur": {
+			"j'": "engagerai",
+			"tu": "engageras",
+			"il/elle": "engagera",
+			"nous": "engagerons",
+			"vous": "engagerez",
+			"ils/elles": "engageront"
+		},
+		"passé simple": {
+			"j'": "engageai",
+			"tu": "engageas",
+			"il/elle": "engagea",
+			"nous": "engageâmes",
+			"vous": "engageâtes",
+			"ils/elles": "engagèrent"
+		},
+		"passé composé": {
+			"j'": "ai engagé",
+			"tu": "as engagé",
+			"il/elle": "a engagé",
+			"nous": "avons engagé",
+			"vous": "avez engagé",
+			"ils/elles": "ont engagé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais engagé",
+			"tu": "avais engagé",
+			"il/elle": "avait engagé",
+			"nous": "avions engagé",
+			"vous": "aviez engagé",
+			"ils/elles": "avaient engagé"
+		},
+		"passé antérieur": {
+			"j'": "eus engagé",
+			"tu": "eus engagé",
+			"il/elle": "eut engagé",
+			"nous": "eûmes engagé",
+			"vous": "eûtes engagé",
+			"ils/elles": "eurent engagé"
+		},
+		"futur antérieur": {
+			"j'": "aurai engagé",
+			"tu": "auras engagé",
+			"il/elle": "aura engagé",
+			"nous": "aurons engagé",
+			"vous": "aurez engagé",
+			"ils/elles": "auront engagé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "engage",
+			"que": "vous engagiez",
+			"qu'il/elle": "engage",
+			"qu'ils/elles": "engagent"
+		},
+		"imparfait": {
+			"j'": "engageasse",
+			"que": "vous engageassiez",
+			"qu'il/elle": "engageât",
+			"qu'ils/elles": "engageassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse engagé",
+			"que": "vous eussiez engagé",
+			"qu'il/elle": "eût engagé",
+			"qu'ils/elles": "eussent engagé"
+		},
+		"passé": {
+			"j'": "aie engagé",
+			"que": "vous ayez engagé",
+			"qu'il/elle": "ait engagé",
+			"qu'ils/elles": "aient engagé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "engagerais",
+			"tu": "engagerais",
+			"il/elle": "engagerait",
+			"nous": "engagerions",
+			"vous": "engageriez",
+			"ils/elles": "engageraient"
+		},
+		"passé première forme": {
+			"j'": "aurais engagé",
+			"tu": "aurais engagé",
+			"il/elle": "aurait engagé",
+			"nous": "aurions engagé",
+			"vous": "auriez engagé",
+			"ils/elles": "auraient engagé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse engagé",
+			"tu": "eusses engagé",
+			"il/elle": "eût engagé",
+			"nous": "eussions engagé",
+			"vous": "eussiez engagé",
+			"ils/elles": "eussent engagé"
+		}
+	},
+	"participe": {
+		"présent": { "engageant": "" },
+		"passé composé": { "ayant": "engagé" },
+		"passé": {
+			"masc.sg.:": "engagé",
+			"masc.pl.:": "engagés",
+			"fém.sg.:": "engagée",
+			"fém.pl.:": "engagées"
+		}
+	},
+	"imperatif": {
+		"présent": { "engage": "", "engageons": "", "engagez": "" },
+		"passé": { "aie": "engagé", "ayons": "engagé", "ayez": "engagé" }
+	},
+	"infinitif": { "présent": { "engager": "" }, "passé": { "avoir": "engagé" } }
+}

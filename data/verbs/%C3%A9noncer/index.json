@@ -1,0 +1,140 @@
+{
+	"name": "commencer",
+	"definition": "state; set out; articulate; ...",
+	"model": "commencer",
+	"auxiliary": "avoir",
+	"otherForms": "s'énoncer/ne pas énoncer/ne pas s'énoncer",
+	"indicatif": {
+		"présent": {
+			"j'": "énonce",
+			"tu": "énonces",
+			"il/elle": "énonce",
+			"nous": "énonçons",
+			"vous": "énoncez",
+			"ils/elles": "énoncent"
+		},
+		"imparfait": {
+			"j'": "énonçais",
+			"tu": "énonçais",
+			"il/elle": "énonçait",
+			"nous": "énoncions",
+			"vous": "énonciez",
+			"ils/elles": "énonçaient"
+		},
+		"futur": {
+			"j'": "énoncerai",
+			"tu": "énonceras",
+			"il/elle": "énoncera",
+			"nous": "énoncerons",
+			"vous": "énoncerez",
+			"ils/elles": "énonceront"
+		},
+		"passé simple": {
+			"j'": "énonçai",
+			"tu": "énonças",
+			"il/elle": "énonça",
+			"nous": "énonçâmes",
+			"vous": "énonçâtes",
+			"ils/elles": "énoncèrent"
+		},
+		"passé composé": {
+			"j'": "ai énoncé",
+			"tu": "as énoncé",
+			"il/elle": "a énoncé",
+			"nous": "avons énoncé",
+			"vous": "avez énoncé",
+			"ils/elles": "ont énoncé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais énoncé",
+			"tu": "avais énoncé",
+			"il/elle": "avait énoncé",
+			"nous": "avions énoncé",
+			"vous": "aviez énoncé",
+			"ils/elles": "avaient énoncé"
+		},
+		"passé antérieur": {
+			"j'": "eus énoncé",
+			"tu": "eus énoncé",
+			"il/elle": "eut énoncé",
+			"nous": "eûmes énoncé",
+			"vous": "eûtes énoncé",
+			"ils/elles": "eurent énoncé"
+		},
+		"futur antérieur": {
+			"j'": "aurai énoncé",
+			"tu": "auras énoncé",
+			"il/elle": "aura énoncé",
+			"nous": "aurons énoncé",
+			"vous": "aurez énoncé",
+			"ils/elles": "auront énoncé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "énonce",
+			"que": "vous énonciez",
+			"qu'il/elle": "énonce",
+			"qu'ils/elles": "énoncent"
+		},
+		"imparfait": {
+			"j'": "énonçasse",
+			"que": "vous énonçassiez",
+			"qu'il/elle": "énonçât",
+			"qu'ils/elles": "énonçassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse énoncé",
+			"que": "vous eussiez énoncé",
+			"qu'il/elle": "eût énoncé",
+			"qu'ils/elles": "eussent énoncé"
+		},
+		"passé": {
+			"j'": "aie énoncé",
+			"que": "vous ayez énoncé",
+			"qu'il/elle": "ait énoncé",
+			"qu'ils/elles": "aient énoncé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "énoncerais",
+			"tu": "énoncerais",
+			"il/elle": "énoncerait",
+			"nous": "énoncerions",
+			"vous": "énonceriez",
+			"ils/elles": "énonceraient"
+		},
+		"passé première forme": {
+			"j'": "aurais énoncé",
+			"tu": "aurais énoncé",
+			"il/elle": "aurait énoncé",
+			"nous": "aurions énoncé",
+			"vous": "auriez énoncé",
+			"ils/elles": "auraient énoncé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse énoncé",
+			"tu": "eusses énoncé",
+			"il/elle": "eût énoncé",
+			"nous": "eussions énoncé",
+			"vous": "eussiez énoncé",
+			"ils/elles": "eussent énoncé"
+		}
+	},
+	"participe": {
+		"présent": { "énonçant": "" },
+		"passé composé": { "ayant": "énoncé" },
+		"passé": {
+			"masc.sg.:": "énoncé",
+			"masc.pl.:": "énoncés",
+			"fém.sg.:": "énoncée",
+			"fém.pl.:": "énoncées"
+		}
+	},
+	"imperatif": {
+		"présent": { "énonce": "", "énonçons": "", "énoncez": "" },
+		"passé": { "aie": "énoncé", "ayons": "énoncé", "ayez": "énoncé" }
+	},
+	"infinitif": { "présent": { "énoncer": "" }, "passé": { "avoir": "énoncé" } }
+}

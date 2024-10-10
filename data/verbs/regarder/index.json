@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "watch; look at; look; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se regarder/ne pas regarder/ne pas se regarder",
+	"indicatif": {
+		"présent": {
+			"je": "regarde",
+			"tu": "regardes",
+			"il/elle": "regarde",
+			"nous": "regardons",
+			"vous": "regardez",
+			"ils/elles": "regardent"
+		},
+		"imparfait": {
+			"je": "regardais",
+			"tu": "regardais",
+			"il/elle": "regardait",
+			"nous": "regardions",
+			"vous": "regardiez",
+			"ils/elles": "regardaient"
+		},
+		"futur": {
+			"je": "regarderai",
+			"tu": "regarderas",
+			"il/elle": "regardera",
+			"nous": "regarderons",
+			"vous": "regarderez",
+			"ils/elles": "regarderont"
+		},
+		"passé simple": {
+			"je": "regardai",
+			"tu": "regardas",
+			"il/elle": "regarda",
+			"nous": "regardâmes",
+			"vous": "regardâtes",
+			"ils/elles": "regardèrent"
+		},
+		"passé composé": {
+			"j'": "ai regardé",
+			"tu": "as regardé",
+			"il/elle": "a regardé",
+			"nous": "avons regardé",
+			"vous": "avez regardé",
+			"ils/elles": "ont regardé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais regardé",
+			"tu": "avais regardé",
+			"il/elle": "avait regardé",
+			"nous": "avions regardé",
+			"vous": "aviez regardé",
+			"ils/elles": "avaient regardé"
+		},
+		"passé antérieur": {
+			"j'": "eus regardé",
+			"tu": "eus regardé",
+			"il/elle": "eut regardé",
+			"nous": "eûmes regardé",
+			"vous": "eûtes regardé",
+			"ils/elles": "eurent regardé"
+		},
+		"futur antérieur": {
+			"j'": "aurai regardé",
+			"tu": "auras regardé",
+			"il/elle": "aura regardé",
+			"nous": "aurons regardé",
+			"vous": "aurez regardé",
+			"ils/elles": "auront regardé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous regardiez",
+			"qu'il/elle": "regarde",
+			"qu'ils/elles": "regardent"
+		},
+		"imparfait": {
+			"que": "vous regardassiez",
+			"qu'il/elle": "regardât",
+			"qu'ils/elles": "regardassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse regardé",
+			"que": "vous eussiez regardé",
+			"qu'il/elle": "eût regardé",
+			"qu'ils/elles": "eussent regardé"
+		},
+		"passé": {
+			"j'": "aie regardé",
+			"que": "vous ayez regardé",
+			"qu'il/elle": "ait regardé",
+			"qu'ils/elles": "aient regardé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "regarderais",
+			"tu": "regarderais",
+			"il/elle": "regarderait",
+			"nous": "regarderions",
+			"vous": "regarderiez",
+			"ils/elles": "regarderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais regardé",
+			"tu": "aurais regardé",
+			"il/elle": "aurait regardé",
+			"nous": "aurions regardé",
+			"vous": "auriez regardé",
+			"ils/elles": "auraient regardé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse regardé",
+			"tu": "eusses regardé",
+			"il/elle": "eût regardé",
+			"nous": "eussions regardé",
+			"vous": "eussiez regardé",
+			"ils/elles": "eussent regardé"
+		}
+	},
+	"participe": {
+		"présent": { "regardant": "" },
+		"passé composé": { "ayant": "regardé" },
+		"passé": {
+			"masc.sg.:": "regardé",
+			"masc.pl.:": "regardés",
+			"fém.sg.:": "regardée",
+			"fém.pl.:": "regardées"
+		}
+	},
+	"imperatif": {
+		"présent": { "regarde": "", "regardons": "", "regardez": "" },
+		"passé": { "aie": "regardé", "ayons": "regardé", "ayez": "regardé" }
+	},
+	"infinitif": {
+		"présent": { "regarder": "" },
+		"passé": { "avoir": "regardé" }
+	}
+}

@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "report; relate; return; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se rapporter/ne pas rapporter/ne pas se rapporter",
+	"indicatif": {
+		"présent": {
+			"je": "rapporte",
+			"tu": "rapportes",
+			"il/elle": "rapporte",
+			"nous": "rapportons",
+			"vous": "rapportez",
+			"ils/elles": "rapportent"
+		},
+		"imparfait": {
+			"je": "rapportais",
+			"tu": "rapportais",
+			"il/elle": "rapportait",
+			"nous": "rapportions",
+			"vous": "rapportiez",
+			"ils/elles": "rapportaient"
+		},
+		"futur": {
+			"je": "rapporterai",
+			"tu": "rapporteras",
+			"il/elle": "rapportera",
+			"nous": "rapporterons",
+			"vous": "rapporterez",
+			"ils/elles": "rapporteront"
+		},
+		"passé simple": {
+			"je": "rapportai",
+			"tu": "rapportas",
+			"il/elle": "rapporta",
+			"nous": "rapportâmes",
+			"vous": "rapportâtes",
+			"ils/elles": "rapportèrent"
+		},
+		"passé composé": {
+			"j'": "ai rapporté",
+			"tu": "as rapporté",
+			"il/elle": "a rapporté",
+			"nous": "avons rapporté",
+			"vous": "avez rapporté",
+			"ils/elles": "ont rapporté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais rapporté",
+			"tu": "avais rapporté",
+			"il/elle": "avait rapporté",
+			"nous": "avions rapporté",
+			"vous": "aviez rapporté",
+			"ils/elles": "avaient rapporté"
+		},
+		"passé antérieur": {
+			"j'": "eus rapporté",
+			"tu": "eus rapporté",
+			"il/elle": "eut rapporté",
+			"nous": "eûmes rapporté",
+			"vous": "eûtes rapporté",
+			"ils/elles": "eurent rapporté"
+		},
+		"futur antérieur": {
+			"j'": "aurai rapporté",
+			"tu": "auras rapporté",
+			"il/elle": "aura rapporté",
+			"nous": "aurons rapporté",
+			"vous": "aurez rapporté",
+			"ils/elles": "auront rapporté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous rapportiez",
+			"qu'il/elle": "rapporte",
+			"qu'ils/elles": "rapportent"
+		},
+		"imparfait": {
+			"que": "vous rapportassiez",
+			"qu'il/elle": "rapportât",
+			"qu'ils/elles": "rapportassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse rapporté",
+			"que": "vous eussiez rapporté",
+			"qu'il/elle": "eût rapporté",
+			"qu'ils/elles": "eussent rapporté"
+		},
+		"passé": {
+			"j'": "aie rapporté",
+			"que": "vous ayez rapporté",
+			"qu'il/elle": "ait rapporté",
+			"qu'ils/elles": "aient rapporté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "rapporterais",
+			"tu": "rapporterais",
+			"il/elle": "rapporterait",
+			"nous": "rapporterions",
+			"vous": "rapporteriez",
+			"ils/elles": "rapporteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais rapporté",
+			"tu": "aurais rapporté",
+			"il/elle": "aurait rapporté",
+			"nous": "aurions rapporté",
+			"vous": "auriez rapporté",
+			"ils/elles": "auraient rapporté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse rapporté",
+			"tu": "eusses rapporté",
+			"il/elle": "eût rapporté",
+			"nous": "eussions rapporté",
+			"vous": "eussiez rapporté",
+			"ils/elles": "eussent rapporté"
+		}
+	},
+	"participe": {
+		"présent": { "rapportant": "" },
+		"passé composé": { "ayant": "rapporté" },
+		"passé": {
+			"masc.sg.:": "rapporté",
+			"masc.pl.:": "rapportés",
+			"fém.sg.:": "rapportée",
+			"fém.pl.:": "rapportées"
+		}
+	},
+	"imperatif": {
+		"présent": { "rapporte": "", "rapportons": "", "rapportez": "" },
+		"passé": { "aie": "rapporté", "ayons": "rapporté", "ayez": "rapporté" }
+	},
+	"infinitif": {
+		"présent": { "rapporter": "" },
+		"passé": { "avoir": "rapporté" }
+	}
+}

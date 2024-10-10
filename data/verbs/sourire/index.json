@@ -1,0 +1,138 @@
+{
+	"name": "rire",
+	"definition": "smile; grin; smile at; ...",
+	"model": "rire",
+	"auxiliary": "avoir",
+	"otherForms": "se sourire/ne pas sourire/ne pas se sourire",
+	"indicatif": {
+		"présent": {
+			"je": "souris",
+			"tu": "souris",
+			"il/elle": "sourit",
+			"nous": "sourions",
+			"vous": "souriez",
+			"ils/elles": "sourient"
+		},
+		"imparfait": {
+			"je": "souriais",
+			"tu": "souriais",
+			"il/elle": "souriait",
+			"nous": "souriions",
+			"vous": "souriiez",
+			"ils/elles": "souriaient"
+		},
+		"futur": {
+			"je": "sourirai",
+			"tu": "souriras",
+			"il/elle": "sourira",
+			"nous": "sourirons",
+			"vous": "sourirez",
+			"ils/elles": "souriront"
+		},
+		"passé simple": {
+			"je": "souris",
+			"tu": "souris",
+			"il/elle": "sourit",
+			"nous": "sourîmes",
+			"vous": "sourîtes",
+			"ils/elles": "sourirent"
+		},
+		"passé composé": {
+			"j'": "ai souri",
+			"tu": "as souri",
+			"il/elle": "a souri",
+			"nous": "avons souri",
+			"vous": "avez souri",
+			"ils/elles": "ont souri"
+		},
+		"plus-que-parfait": {
+			"j'": "avais souri",
+			"tu": "avais souri",
+			"il/elle": "avait souri",
+			"nous": "avions souri",
+			"vous": "aviez souri",
+			"ils/elles": "avaient souri"
+		},
+		"passé antérieur": {
+			"j'": "eus souri",
+			"tu": "eus souri",
+			"il/elle": "eut souri",
+			"nous": "eûmes souri",
+			"vous": "eûtes souri",
+			"ils/elles": "eurent souri"
+		},
+		"futur antérieur": {
+			"j'": "aurai souri",
+			"tu": "auras souri",
+			"il/elle": "aura souri",
+			"nous": "aurons souri",
+			"vous": "aurez souri",
+			"ils/elles": "auront souri"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous souriiez",
+			"qu'il/elle": "sourie",
+			"qu'ils/elles": "sourient"
+		},
+		"imparfait": {
+			"que": "vous sourissiez",
+			"qu'il/elle": "sourît",
+			"qu'ils/elles": "sourissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse souri",
+			"que": "vous eussiez souri",
+			"qu'il/elle": "eût souri",
+			"qu'ils/elles": "eussent souri"
+		},
+		"passé": {
+			"j'": "aie souri",
+			"que": "vous ayez souri",
+			"qu'il/elle": "ait souri",
+			"qu'ils/elles": "aient souri"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "sourirais",
+			"tu": "sourirais",
+			"il/elle": "sourirait",
+			"nous": "souririons",
+			"vous": "souririez",
+			"ils/elles": "souriraient"
+		},
+		"passé première forme": {
+			"j'": "aurais souri",
+			"tu": "aurais souri",
+			"il/elle": "aurait souri",
+			"nous": "aurions souri",
+			"vous": "auriez souri",
+			"ils/elles": "auraient souri"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse souri",
+			"tu": "eusses souri",
+			"il/elle": "eût souri",
+			"nous": "eussions souri",
+			"vous": "eussiez souri",
+			"ils/elles": "eussent souri"
+		}
+	},
+	"participe": {
+		"présent": { "souriant": "" },
+		"passé composé": { "ayant": "souri" },
+		"passé": {
+			"masc.sg.:": "souri",
+			"masc.pl.:": "souri",
+			"fém.sg.:": "souri",
+			"fém.pl.:": "souri"
+		}
+	},
+	"imperatif": {
+		"présent": { "souris": "", "sourions": "", "souriez": "" },
+		"passé": { "aie": "souri", "ayons": "souri", "ayez": "souri" }
+	},
+	"infinitif": { "présent": { "sourire": "" }, "passé": { "avoir": "souri" } }
+}

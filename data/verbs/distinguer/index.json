@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "\n              distinguish; differentiate; separate; ...\n            ",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se distinguer/ne pas distinguer/ne pas se distinguer",
+	"indicatif": {
+		"présent": {
+			"je": "distingue",
+			"tu": "distingues",
+			"il/elle": "distingue",
+			"nous": "distinguons",
+			"vous": "distinguez",
+			"ils/elles": "distinguent"
+		},
+		"imparfait": {
+			"je": "distinguais",
+			"tu": "distinguais",
+			"il/elle": "distinguait",
+			"nous": "distinguions",
+			"vous": "distinguiez",
+			"ils/elles": "distinguaient"
+		},
+		"futur": {
+			"je": "distinguerai",
+			"tu": "distingueras",
+			"il/elle": "distinguera",
+			"nous": "distinguerons",
+			"vous": "distinguerez",
+			"ils/elles": "distingueront"
+		},
+		"passé simple": {
+			"je": "distinguai",
+			"tu": "distinguas",
+			"il/elle": "distingua",
+			"nous": "distinguâmes",
+			"vous": "distinguâtes",
+			"ils/elles": "distinguèrent"
+		},
+		"passé composé": {
+			"j'": "ai distingué",
+			"tu": "as distingué",
+			"il/elle": "a distingué",
+			"nous": "avons distingué",
+			"vous": "avez distingué",
+			"ils/elles": "ont distingué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais distingué",
+			"tu": "avais distingué",
+			"il/elle": "avait distingué",
+			"nous": "avions distingué",
+			"vous": "aviez distingué",
+			"ils/elles": "avaient distingué"
+		},
+		"passé antérieur": {
+			"j'": "eus distingué",
+			"tu": "eus distingué",
+			"il/elle": "eut distingué",
+			"nous": "eûmes distingué",
+			"vous": "eûtes distingué",
+			"ils/elles": "eurent distingué"
+		},
+		"futur antérieur": {
+			"j'": "aurai distingué",
+			"tu": "auras distingué",
+			"il/elle": "aura distingué",
+			"nous": "aurons distingué",
+			"vous": "aurez distingué",
+			"ils/elles": "auront distingué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous distinguiez",
+			"qu'il/elle": "distingue",
+			"qu'ils/elles": "distinguent"
+		},
+		"imparfait": {
+			"que": "vous distinguassiez",
+			"qu'il/elle": "distinguât",
+			"qu'ils/elles": "distinguassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse distingué",
+			"que": "vous eussiez distingué",
+			"qu'il/elle": "eût distingué",
+			"qu'ils/elles": "eussent distingué"
+		},
+		"passé": {
+			"j'": "aie distingué",
+			"que": "vous ayez distingué",
+			"qu'il/elle": "ait distingué",
+			"qu'ils/elles": "aient distingué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "distinguerais",
+			"tu": "distinguerais",
+			"il/elle": "distinguerait",
+			"nous": "distinguerions",
+			"vous": "distingueriez",
+			"ils/elles": "distingueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais distingué",
+			"tu": "aurais distingué",
+			"il/elle": "aurait distingué",
+			"nous": "aurions distingué",
+			"vous": "auriez distingué",
+			"ils/elles": "auraient distingué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse distingué",
+			"tu": "eusses distingué",
+			"il/elle": "eût distingué",
+			"nous": "eussions distingué",
+			"vous": "eussiez distingué",
+			"ils/elles": "eussent distingué"
+		}
+	},
+	"participe": {
+		"présent": { "distinguant": "" },
+		"passé composé": { "ayant": "distingué" },
+		"passé": {
+			"masc.sg.:": "distingué",
+			"masc.pl.:": "distingués",
+			"fém.sg.:": "distinguée",
+			"fém.pl.:": "distinguées"
+		}
+	},
+	"imperatif": {
+		"présent": { "distingue": "", "distinguons": "", "distinguez": "" },
+		"passé": { "aie": "distingué", "ayons": "distingué", "ayez": "distingué" }
+	},
+	"infinitif": {
+		"présent": { "distinguer": "" },
+		"passé": { "avoir": "distingué" }
+	}
+}

@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "consolidate; strengthen; build; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se consolider/ne pas consolider/ne pas se consolider",
+	"indicatif": {
+		"présent": {
+			"je": "consolide",
+			"tu": "consolides",
+			"il/elle": "consolide",
+			"nous": "consolidons",
+			"vous": "consolidez",
+			"ils/elles": "consolident"
+		},
+		"imparfait": {
+			"je": "consolidais",
+			"tu": "consolidais",
+			"il/elle": "consolidait",
+			"nous": "consolidions",
+			"vous": "consolidiez",
+			"ils/elles": "consolidaient"
+		},
+		"futur": {
+			"je": "consoliderai",
+			"tu": "consolideras",
+			"il/elle": "consolidera",
+			"nous": "consoliderons",
+			"vous": "consoliderez",
+			"ils/elles": "consolideront"
+		},
+		"passé simple": {
+			"je": "consolidai",
+			"tu": "consolidas",
+			"il/elle": "consolida",
+			"nous": "consolidâmes",
+			"vous": "consolidâtes",
+			"ils/elles": "consolidèrent"
+		},
+		"passé composé": {
+			"j'": "ai consolidé",
+			"tu": "as consolidé",
+			"il/elle": "a consolidé",
+			"nous": "avons consolidé",
+			"vous": "avez consolidé",
+			"ils/elles": "ont consolidé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais consolidé",
+			"tu": "avais consolidé",
+			"il/elle": "avait consolidé",
+			"nous": "avions consolidé",
+			"vous": "aviez consolidé",
+			"ils/elles": "avaient consolidé"
+		},
+		"passé antérieur": {
+			"j'": "eus consolidé",
+			"tu": "eus consolidé",
+			"il/elle": "eut consolidé",
+			"nous": "eûmes consolidé",
+			"vous": "eûtes consolidé",
+			"ils/elles": "eurent consolidé"
+		},
+		"futur antérieur": {
+			"j'": "aurai consolidé",
+			"tu": "auras consolidé",
+			"il/elle": "aura consolidé",
+			"nous": "aurons consolidé",
+			"vous": "aurez consolidé",
+			"ils/elles": "auront consolidé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous consolidiez",
+			"qu'il/elle": "consolide",
+			"qu'ils/elles": "consolident"
+		},
+		"imparfait": {
+			"que": "vous consolidassiez",
+			"qu'il/elle": "consolidât",
+			"qu'ils/elles": "consolidassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse consolidé",
+			"que": "vous eussiez consolidé",
+			"qu'il/elle": "eût consolidé",
+			"qu'ils/elles": "eussent consolidé"
+		},
+		"passé": {
+			"j'": "aie consolidé",
+			"que": "vous ayez consolidé",
+			"qu'il/elle": "ait consolidé",
+			"qu'ils/elles": "aient consolidé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "consoliderais",
+			"tu": "consoliderais",
+			"il/elle": "consoliderait",
+			"nous": "consoliderions",
+			"vous": "consolideriez",
+			"ils/elles": "consolideraient"
+		},
+		"passé première forme": {
+			"j'": "aurais consolidé",
+			"tu": "aurais consolidé",
+			"il/elle": "aurait consolidé",
+			"nous": "aurions consolidé",
+			"vous": "auriez consolidé",
+			"ils/elles": "auraient consolidé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse consolidé",
+			"tu": "eusses consolidé",
+			"il/elle": "eût consolidé",
+			"nous": "eussions consolidé",
+			"vous": "eussiez consolidé",
+			"ils/elles": "eussent consolidé"
+		}
+	},
+	"participe": {
+		"présent": { "consolidant": "" },
+		"passé composé": { "ayant": "consolidé" },
+		"passé": {
+			"masc.sg.:": "consolidé",
+			"masc.pl.:": "consolidés",
+			"fém.sg.:": "consolidée",
+			"fém.pl.:": "consolidées"
+		}
+	},
+	"imperatif": {
+		"présent": { "consolide": "", "consolidons": "", "consolidez": "" },
+		"passé": { "aie": "consolidé", "ayons": "consolidé", "ayez": "consolidé" }
+	},
+	"infinitif": {
+		"présent": { "consolider": "" },
+		"passé": { "avoir": "consolidé" }
+	}
+}

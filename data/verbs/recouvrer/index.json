@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "recover; collect; regain; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se recouvrer/ne pas recouvrer/ne pas se recouvrer",
+	"indicatif": {
+		"présent": {
+			"je": "recouvre",
+			"tu": "recouvres",
+			"il/elle": "recouvre",
+			"nous": "recouvrons",
+			"vous": "recouvrez",
+			"ils/elles": "recouvrent"
+		},
+		"imparfait": {
+			"je": "recouvrais",
+			"tu": "recouvrais",
+			"il/elle": "recouvrait",
+			"nous": "recouvrions",
+			"vous": "recouvriez",
+			"ils/elles": "recouvraient"
+		},
+		"futur": {
+			"je": "recouvrerai",
+			"tu": "recouvreras",
+			"il/elle": "recouvrera",
+			"nous": "recouvrerons",
+			"vous": "recouvrerez",
+			"ils/elles": "recouvreront"
+		},
+		"passé simple": {
+			"je": "recouvrai",
+			"tu": "recouvras",
+			"il/elle": "recouvra",
+			"nous": "recouvrâmes",
+			"vous": "recouvrâtes",
+			"ils/elles": "recouvrèrent"
+		},
+		"passé composé": {
+			"j'": "ai recouvré",
+			"tu": "as recouvré",
+			"il/elle": "a recouvré",
+			"nous": "avons recouvré",
+			"vous": "avez recouvré",
+			"ils/elles": "ont recouvré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais recouvré",
+			"tu": "avais recouvré",
+			"il/elle": "avait recouvré",
+			"nous": "avions recouvré",
+			"vous": "aviez recouvré",
+			"ils/elles": "avaient recouvré"
+		},
+		"passé antérieur": {
+			"j'": "eus recouvré",
+			"tu": "eus recouvré",
+			"il/elle": "eut recouvré",
+			"nous": "eûmes recouvré",
+			"vous": "eûtes recouvré",
+			"ils/elles": "eurent recouvré"
+		},
+		"futur antérieur": {
+			"j'": "aurai recouvré",
+			"tu": "auras recouvré",
+			"il/elle": "aura recouvré",
+			"nous": "aurons recouvré",
+			"vous": "aurez recouvré",
+			"ils/elles": "auront recouvré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous recouvriez",
+			"qu'il/elle": "recouvre",
+			"qu'ils/elles": "recouvrent"
+		},
+		"imparfait": {
+			"que": "vous recouvrassiez",
+			"qu'il/elle": "recouvrât",
+			"qu'ils/elles": "recouvrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse recouvré",
+			"que": "vous eussiez recouvré",
+			"qu'il/elle": "eût recouvré",
+			"qu'ils/elles": "eussent recouvré"
+		},
+		"passé": {
+			"j'": "aie recouvré",
+			"que": "vous ayez recouvré",
+			"qu'il/elle": "ait recouvré",
+			"qu'ils/elles": "aient recouvré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "recouvrerais",
+			"tu": "recouvrerais",
+			"il/elle": "recouvrerait",
+			"nous": "recouvrerions",
+			"vous": "recouvreriez",
+			"ils/elles": "recouvreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais recouvré",
+			"tu": "aurais recouvré",
+			"il/elle": "aurait recouvré",
+			"nous": "aurions recouvré",
+			"vous": "auriez recouvré",
+			"ils/elles": "auraient recouvré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse recouvré",
+			"tu": "eusses recouvré",
+			"il/elle": "eût recouvré",
+			"nous": "eussions recouvré",
+			"vous": "eussiez recouvré",
+			"ils/elles": "eussent recouvré"
+		}
+	},
+	"participe": {
+		"présent": { "recouvrant": "" },
+		"passé composé": { "ayant": "recouvré" },
+		"passé": {
+			"masc.sg.:": "recouvré",
+			"masc.pl.:": "recouvrés",
+			"fém.sg.:": "recouvrée",
+			"fém.pl.:": "recouvrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "recouvre": "", "recouvrons": "", "recouvrez": "" },
+		"passé": { "aie": "recouvré", "ayons": "recouvré", "ayez": "recouvré" }
+	},
+	"infinitif": {
+		"présent": { "recouvrer": "" },
+		"passé": { "avoir": "recouvré" }
+	}
+}

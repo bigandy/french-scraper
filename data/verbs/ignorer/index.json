@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "ignore; disregard; overlook; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'ignorer/ne pas ignorer/ne pas s'ignorer",
+	"indicatif": {
+		"présent": {
+			"j'": "ignore",
+			"tu": "ignores",
+			"il/elle": "ignore",
+			"nous": "ignorons",
+			"vous": "ignorez",
+			"ils/elles": "ignorent"
+		},
+		"imparfait": {
+			"j'": "ignorais",
+			"tu": "ignorais",
+			"il/elle": "ignorait",
+			"nous": "ignorions",
+			"vous": "ignoriez",
+			"ils/elles": "ignoraient"
+		},
+		"futur": {
+			"j'": "ignorerai",
+			"tu": "ignoreras",
+			"il/elle": "ignorera",
+			"nous": "ignorerons",
+			"vous": "ignorerez",
+			"ils/elles": "ignoreront"
+		},
+		"passé simple": {
+			"j'": "ignorai",
+			"tu": "ignoras",
+			"il/elle": "ignora",
+			"nous": "ignorâmes",
+			"vous": "ignorâtes",
+			"ils/elles": "ignorèrent"
+		},
+		"passé composé": {
+			"j'": "ai ignoré",
+			"tu": "as ignoré",
+			"il/elle": "a ignoré",
+			"nous": "avons ignoré",
+			"vous": "avez ignoré",
+			"ils/elles": "ont ignoré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais ignoré",
+			"tu": "avais ignoré",
+			"il/elle": "avait ignoré",
+			"nous": "avions ignoré",
+			"vous": "aviez ignoré",
+			"ils/elles": "avaient ignoré"
+		},
+		"passé antérieur": {
+			"j'": "eus ignoré",
+			"tu": "eus ignoré",
+			"il/elle": "eut ignoré",
+			"nous": "eûmes ignoré",
+			"vous": "eûtes ignoré",
+			"ils/elles": "eurent ignoré"
+		},
+		"futur antérieur": {
+			"j'": "aurai ignoré",
+			"tu": "auras ignoré",
+			"il/elle": "aura ignoré",
+			"nous": "aurons ignoré",
+			"vous": "aurez ignoré",
+			"ils/elles": "auront ignoré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "ignore",
+			"que": "vous ignoriez",
+			"qu'il/elle": "ignore",
+			"qu'ils/elles": "ignorent"
+		},
+		"imparfait": {
+			"j'": "ignorasse",
+			"que": "vous ignorassiez",
+			"qu'il/elle": "ignorât",
+			"qu'ils/elles": "ignorassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse ignoré",
+			"que": "vous eussiez ignoré",
+			"qu'il/elle": "eût ignoré",
+			"qu'ils/elles": "eussent ignoré"
+		},
+		"passé": {
+			"j'": "aie ignoré",
+			"que": "vous ayez ignoré",
+			"qu'il/elle": "ait ignoré",
+			"qu'ils/elles": "aient ignoré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "ignorerais",
+			"tu": "ignorerais",
+			"il/elle": "ignorerait",
+			"nous": "ignorerions",
+			"vous": "ignoreriez",
+			"ils/elles": "ignoreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais ignoré",
+			"tu": "aurais ignoré",
+			"il/elle": "aurait ignoré",
+			"nous": "aurions ignoré",
+			"vous": "auriez ignoré",
+			"ils/elles": "auraient ignoré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse ignoré",
+			"tu": "eusses ignoré",
+			"il/elle": "eût ignoré",
+			"nous": "eussions ignoré",
+			"vous": "eussiez ignoré",
+			"ils/elles": "eussent ignoré"
+		}
+	},
+	"participe": {
+		"présent": { "ignorant": "" },
+		"passé composé": { "ayant": "ignoré" },
+		"passé": {
+			"masc.sg.:": "ignoré",
+			"masc.pl.:": "ignorés",
+			"fém.sg.:": "ignorée",
+			"fém.pl.:": "ignorées"
+		}
+	},
+	"imperatif": {
+		"présent": { "ignore": "", "ignorons": "", "ignorez": "" },
+		"passé": { "aie": "ignoré", "ayons": "ignoré", "ayez": "ignoré" }
+	},
+	"infinitif": { "présent": { "ignorer": "" }, "passé": { "avoir": "ignoré" } }
+}

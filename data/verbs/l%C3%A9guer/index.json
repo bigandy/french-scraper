@@ -1,0 +1,138 @@
+{
+	"name": "léguer",
+	"definition": "bequeath; leave; pass on; ...",
+	"model": "léguer",
+	"auxiliary": "avoir",
+	"otherForms": "se léguer/ne pas léguer/ne pas se léguer",
+	"indicatif": {
+		"présent": {
+			"je": "lègue",
+			"tu": "lègues",
+			"il/elle": "lègue",
+			"nous": "léguons",
+			"vous": "léguez",
+			"ils/elles": "lèguent"
+		},
+		"imparfait": {
+			"je": "léguais",
+			"tu": "léguais",
+			"il/elle": "léguait",
+			"nous": "léguions",
+			"vous": "léguiez",
+			"ils/elles": "léguaient"
+		},
+		"futur": {
+			"je": "léguerai",
+			"tu": "légueras",
+			"il/elle": "léguera",
+			"nous": "léguerons",
+			"vous": "léguerez",
+			"ils/elles": "légueront"
+		},
+		"passé simple": {
+			"je": "léguai",
+			"tu": "léguas",
+			"il/elle": "légua",
+			"nous": "léguâmes",
+			"vous": "léguâtes",
+			"ils/elles": "léguèrent"
+		},
+		"passé composé": {
+			"j'": "ai légué",
+			"tu": "as légué",
+			"il/elle": "a légué",
+			"nous": "avons légué",
+			"vous": "avez légué",
+			"ils/elles": "ont légué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais légué",
+			"tu": "avais légué",
+			"il/elle": "avait légué",
+			"nous": "avions légué",
+			"vous": "aviez légué",
+			"ils/elles": "avaient légué"
+		},
+		"passé antérieur": {
+			"j'": "eus légué",
+			"tu": "eus légué",
+			"il/elle": "eut légué",
+			"nous": "eûmes légué",
+			"vous": "eûtes légué",
+			"ils/elles": "eurent légué"
+		},
+		"futur antérieur": {
+			"j'": "aurai légué",
+			"tu": "auras légué",
+			"il/elle": "aura légué",
+			"nous": "aurons légué",
+			"vous": "aurez légué",
+			"ils/elles": "auront légué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous léguiez",
+			"qu'il/elle": "lègue",
+			"qu'ils/elles": "lèguent"
+		},
+		"imparfait": {
+			"que": "vous léguassiez",
+			"qu'il/elle": "léguât",
+			"qu'ils/elles": "léguassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse légué",
+			"que": "vous eussiez légué",
+			"qu'il/elle": "eût légué",
+			"qu'ils/elles": "eussent légué"
+		},
+		"passé": {
+			"j'": "aie légué",
+			"que": "vous ayez légué",
+			"qu'il/elle": "ait légué",
+			"qu'ils/elles": "aient légué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "léguerais",
+			"tu": "léguerais",
+			"il/elle": "léguerait",
+			"nous": "léguerions",
+			"vous": "légueriez",
+			"ils/elles": "légueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais légué",
+			"tu": "aurais légué",
+			"il/elle": "aurait légué",
+			"nous": "aurions légué",
+			"vous": "auriez légué",
+			"ils/elles": "auraient légué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse légué",
+			"tu": "eusses légué",
+			"il/elle": "eût légué",
+			"nous": "eussions légué",
+			"vous": "eussiez légué",
+			"ils/elles": "eussent légué"
+		}
+	},
+	"participe": {
+		"présent": { "léguant": "" },
+		"passé composé": { "ayant": "légué" },
+		"passé": {
+			"masc.sg.:": "légué",
+			"masc.pl.:": "légués",
+			"fém.sg.:": "léguée",
+			"fém.pl.:": "léguées"
+		}
+	},
+	"imperatif": {
+		"présent": { "lègue": "", "léguons": "", "léguez": "" },
+		"passé": { "aie": "légué", "ayons": "légué", "ayez": "légué" }
+	},
+	"infinitif": { "présent": { "léguer": "" }, "passé": { "avoir": "légué" } }
+}

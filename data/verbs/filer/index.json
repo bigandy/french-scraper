@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "spin; go; give; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se filer/ne pas filer/ne pas se filer",
+	"indicatif": {
+		"présent": {
+			"je": "file",
+			"tu": "files",
+			"il/elle": "file",
+			"nous": "filons",
+			"vous": "filez",
+			"ils/elles": "filent"
+		},
+		"imparfait": {
+			"je": "filais",
+			"tu": "filais",
+			"il/elle": "filait",
+			"nous": "filions",
+			"vous": "filiez",
+			"ils/elles": "filaient"
+		},
+		"futur": {
+			"je": "filerai",
+			"tu": "fileras",
+			"il/elle": "filera",
+			"nous": "filerons",
+			"vous": "filerez",
+			"ils/elles": "fileront"
+		},
+		"passé simple": {
+			"je": "filai",
+			"tu": "filas",
+			"il/elle": "fila",
+			"nous": "filâmes",
+			"vous": "filâtes",
+			"ils/elles": "filèrent"
+		},
+		"passé composé": {
+			"j'": "ai filé",
+			"tu": "as filé",
+			"il/elle": "a filé",
+			"nous": "avons filé",
+			"vous": "avez filé",
+			"ils/elles": "ont filé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais filé",
+			"tu": "avais filé",
+			"il/elle": "avait filé",
+			"nous": "avions filé",
+			"vous": "aviez filé",
+			"ils/elles": "avaient filé"
+		},
+		"passé antérieur": {
+			"j'": "eus filé",
+			"tu": "eus filé",
+			"il/elle": "eut filé",
+			"nous": "eûmes filé",
+			"vous": "eûtes filé",
+			"ils/elles": "eurent filé"
+		},
+		"futur antérieur": {
+			"j'": "aurai filé",
+			"tu": "auras filé",
+			"il/elle": "aura filé",
+			"nous": "aurons filé",
+			"vous": "aurez filé",
+			"ils/elles": "auront filé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous filiez",
+			"qu'il/elle": "file",
+			"qu'ils/elles": "filent"
+		},
+		"imparfait": {
+			"que": "vous filassiez",
+			"qu'il/elle": "filât",
+			"qu'ils/elles": "filassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse filé",
+			"que": "vous eussiez filé",
+			"qu'il/elle": "eût filé",
+			"qu'ils/elles": "eussent filé"
+		},
+		"passé": {
+			"j'": "aie filé",
+			"que": "vous ayez filé",
+			"qu'il/elle": "ait filé",
+			"qu'ils/elles": "aient filé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "filerais",
+			"tu": "filerais",
+			"il/elle": "filerait",
+			"nous": "filerions",
+			"vous": "fileriez",
+			"ils/elles": "fileraient"
+		},
+		"passé première forme": {
+			"j'": "aurais filé",
+			"tu": "aurais filé",
+			"il/elle": "aurait filé",
+			"nous": "aurions filé",
+			"vous": "auriez filé",
+			"ils/elles": "auraient filé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse filé",
+			"tu": "eusses filé",
+			"il/elle": "eût filé",
+			"nous": "eussions filé",
+			"vous": "eussiez filé",
+			"ils/elles": "eussent filé"
+		}
+	},
+	"participe": {
+		"présent": { "filant": "" },
+		"passé composé": { "ayant": "filé" },
+		"passé": {
+			"masc.sg.:": "filé",
+			"masc.pl.:": "filés",
+			"fém.sg.:": "filée",
+			"fém.pl.:": "filées"
+		}
+	},
+	"imperatif": {
+		"présent": { "file": "", "filons": "", "filez": "" },
+		"passé": { "aie": "filé", "ayons": "filé", "ayez": "filé" }
+	},
+	"infinitif": { "présent": { "filer": "" }, "passé": { "avoir": "filé" } }
+}

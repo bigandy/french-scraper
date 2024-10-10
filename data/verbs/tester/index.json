@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "test; try; check; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas tester",
+	"indicatif": {
+		"présent": {
+			"je": "teste",
+			"tu": "testes",
+			"il/elle": "teste",
+			"nous": "testons",
+			"vous": "testez",
+			"ils/elles": "testent"
+		},
+		"imparfait": {
+			"je": "testais",
+			"tu": "testais",
+			"il/elle": "testait",
+			"nous": "testions",
+			"vous": "testiez",
+			"ils/elles": "testaient"
+		},
+		"futur": {
+			"je": "testerai",
+			"tu": "testeras",
+			"il/elle": "testera",
+			"nous": "testerons",
+			"vous": "testerez",
+			"ils/elles": "testeront"
+		},
+		"passé simple": {
+			"je": "testai",
+			"tu": "testas",
+			"il/elle": "testa",
+			"nous": "testâmes",
+			"vous": "testâtes",
+			"ils/elles": "testèrent"
+		},
+		"passé composé": {
+			"j'": "ai testé",
+			"tu": "as testé",
+			"il/elle": "a testé",
+			"nous": "avons testé",
+			"vous": "avez testé",
+			"ils/elles": "ont testé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais testé",
+			"tu": "avais testé",
+			"il/elle": "avait testé",
+			"nous": "avions testé",
+			"vous": "aviez testé",
+			"ils/elles": "avaient testé"
+		},
+		"passé antérieur": {
+			"j'": "eus testé",
+			"tu": "eus testé",
+			"il/elle": "eut testé",
+			"nous": "eûmes testé",
+			"vous": "eûtes testé",
+			"ils/elles": "eurent testé"
+		},
+		"futur antérieur": {
+			"j'": "aurai testé",
+			"tu": "auras testé",
+			"il/elle": "aura testé",
+			"nous": "aurons testé",
+			"vous": "aurez testé",
+			"ils/elles": "auront testé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous testiez",
+			"qu'il/elle": "teste",
+			"qu'ils/elles": "testent"
+		},
+		"imparfait": {
+			"que": "vous testassiez",
+			"qu'il/elle": "testât",
+			"qu'ils/elles": "testassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse testé",
+			"que": "vous eussiez testé",
+			"qu'il/elle": "eût testé",
+			"qu'ils/elles": "eussent testé"
+		},
+		"passé": {
+			"j'": "aie testé",
+			"que": "vous ayez testé",
+			"qu'il/elle": "ait testé",
+			"qu'ils/elles": "aient testé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "testerais",
+			"tu": "testerais",
+			"il/elle": "testerait",
+			"nous": "testerions",
+			"vous": "testeriez",
+			"ils/elles": "testeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais testé",
+			"tu": "aurais testé",
+			"il/elle": "aurait testé",
+			"nous": "aurions testé",
+			"vous": "auriez testé",
+			"ils/elles": "auraient testé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse testé",
+			"tu": "eusses testé",
+			"il/elle": "eût testé",
+			"nous": "eussions testé",
+			"vous": "eussiez testé",
+			"ils/elles": "eussent testé"
+		}
+	},
+	"participe": {
+		"présent": { "testant": "" },
+		"passé composé": { "ayant": "testé" },
+		"passé": {
+			"masc.sg.:": "testé",
+			"masc.pl.:": "testés",
+			"fém.sg.:": "testée",
+			"fém.pl.:": "testées"
+		}
+	},
+	"imperatif": {
+		"présent": { "teste": "", "testons": "", "testez": "" },
+		"passé": { "aie": "testé", "ayons": "testé", "ayez": "testé" }
+	},
+	"infinitif": { "présent": { "tester": "" }, "passé": { "avoir": "testé" } }
+}

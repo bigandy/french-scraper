@@ -1,0 +1,140 @@
+{
+	"name": "commencer",
+	"definition": "advance; move; move forward; ...",
+	"model": "commencer",
+	"auxiliary": "avoir",
+	"otherForms": "s'avancer/ne pas avancer/ne pas s'avancer",
+	"indicatif": {
+		"présent": {
+			"j'": "avance",
+			"tu": "avances",
+			"il/elle": "avance",
+			"nous": "avançons",
+			"vous": "avancez",
+			"ils/elles": "avancent"
+		},
+		"imparfait": {
+			"j'": "avançais",
+			"tu": "avançais",
+			"il/elle": "avançait",
+			"nous": "avancions",
+			"vous": "avanciez",
+			"ils/elles": "avançaient"
+		},
+		"futur": {
+			"j'": "avancerai",
+			"tu": "avanceras",
+			"il/elle": "avancera",
+			"nous": "avancerons",
+			"vous": "avancerez",
+			"ils/elles": "avanceront"
+		},
+		"passé simple": {
+			"j'": "avançai",
+			"tu": "avanças",
+			"il/elle": "avança",
+			"nous": "avançâmes",
+			"vous": "avançâtes",
+			"ils/elles": "avancèrent"
+		},
+		"passé composé": {
+			"j'": "ai avancé",
+			"tu": "as avancé",
+			"il/elle": "a avancé",
+			"nous": "avons avancé",
+			"vous": "avez avancé",
+			"ils/elles": "ont avancé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais avancé",
+			"tu": "avais avancé",
+			"il/elle": "avait avancé",
+			"nous": "avions avancé",
+			"vous": "aviez avancé",
+			"ils/elles": "avaient avancé"
+		},
+		"passé antérieur": {
+			"j'": "eus avancé",
+			"tu": "eus avancé",
+			"il/elle": "eut avancé",
+			"nous": "eûmes avancé",
+			"vous": "eûtes avancé",
+			"ils/elles": "eurent avancé"
+		},
+		"futur antérieur": {
+			"j'": "aurai avancé",
+			"tu": "auras avancé",
+			"il/elle": "aura avancé",
+			"nous": "aurons avancé",
+			"vous": "aurez avancé",
+			"ils/elles": "auront avancé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "avance",
+			"que": "vous avanciez",
+			"qu'il/elle": "avance",
+			"qu'ils/elles": "avancent"
+		},
+		"imparfait": {
+			"j'": "avançasse",
+			"que": "vous avançassiez",
+			"qu'il/elle": "avançât",
+			"qu'ils/elles": "avançassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse avancé",
+			"que": "vous eussiez avancé",
+			"qu'il/elle": "eût avancé",
+			"qu'ils/elles": "eussent avancé"
+		},
+		"passé": {
+			"j'": "aie avancé",
+			"que": "vous ayez avancé",
+			"qu'il/elle": "ait avancé",
+			"qu'ils/elles": "aient avancé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "avancerais",
+			"tu": "avancerais",
+			"il/elle": "avancerait",
+			"nous": "avancerions",
+			"vous": "avanceriez",
+			"ils/elles": "avanceraient"
+		},
+		"passé première forme": {
+			"j'": "aurais avancé",
+			"tu": "aurais avancé",
+			"il/elle": "aurait avancé",
+			"nous": "aurions avancé",
+			"vous": "auriez avancé",
+			"ils/elles": "auraient avancé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse avancé",
+			"tu": "eusses avancé",
+			"il/elle": "eût avancé",
+			"nous": "eussions avancé",
+			"vous": "eussiez avancé",
+			"ils/elles": "eussent avancé"
+		}
+	},
+	"participe": {
+		"présent": { "avançant": "" },
+		"passé composé": { "ayant": "avancé" },
+		"passé": {
+			"masc.sg.:": "avancé",
+			"masc.pl.:": "avancés",
+			"fém.sg.:": "avancée",
+			"fém.pl.:": "avancées"
+		}
+	},
+	"imperatif": {
+		"présent": { "avance": "", "avançons": "", "avancez": "" },
+		"passé": { "aie": "avancé", "ayons": "avancé", "ayez": "avancé" }
+	},
+	"infinitif": { "présent": { "avancer": "" }, "passé": { "avoir": "avancé" } }
+}

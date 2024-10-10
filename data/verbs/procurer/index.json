@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "provide; obtain; get; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se procurer/ne pas procurer/ne pas se procurer",
+	"indicatif": {
+		"présent": {
+			"je": "procure",
+			"tu": "procures",
+			"il/elle": "procure",
+			"nous": "procurons",
+			"vous": "procurez",
+			"ils/elles": "procurent"
+		},
+		"imparfait": {
+			"je": "procurais",
+			"tu": "procurais",
+			"il/elle": "procurait",
+			"nous": "procurions",
+			"vous": "procuriez",
+			"ils/elles": "procuraient"
+		},
+		"futur": {
+			"je": "procurerai",
+			"tu": "procureras",
+			"il/elle": "procurera",
+			"nous": "procurerons",
+			"vous": "procurerez",
+			"ils/elles": "procureront"
+		},
+		"passé simple": {
+			"je": "procurai",
+			"tu": "procuras",
+			"il/elle": "procura",
+			"nous": "procurâmes",
+			"vous": "procurâtes",
+			"ils/elles": "procurèrent"
+		},
+		"passé composé": {
+			"j'": "ai procuré",
+			"tu": "as procuré",
+			"il/elle": "a procuré",
+			"nous": "avons procuré",
+			"vous": "avez procuré",
+			"ils/elles": "ont procuré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais procuré",
+			"tu": "avais procuré",
+			"il/elle": "avait procuré",
+			"nous": "avions procuré",
+			"vous": "aviez procuré",
+			"ils/elles": "avaient procuré"
+		},
+		"passé antérieur": {
+			"j'": "eus procuré",
+			"tu": "eus procuré",
+			"il/elle": "eut procuré",
+			"nous": "eûmes procuré",
+			"vous": "eûtes procuré",
+			"ils/elles": "eurent procuré"
+		},
+		"futur antérieur": {
+			"j'": "aurai procuré",
+			"tu": "auras procuré",
+			"il/elle": "aura procuré",
+			"nous": "aurons procuré",
+			"vous": "aurez procuré",
+			"ils/elles": "auront procuré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous procuriez",
+			"qu'il/elle": "procure",
+			"qu'ils/elles": "procurent"
+		},
+		"imparfait": {
+			"que": "vous procurassiez",
+			"qu'il/elle": "procurât",
+			"qu'ils/elles": "procurassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse procuré",
+			"que": "vous eussiez procuré",
+			"qu'il/elle": "eût procuré",
+			"qu'ils/elles": "eussent procuré"
+		},
+		"passé": {
+			"j'": "aie procuré",
+			"que": "vous ayez procuré",
+			"qu'il/elle": "ait procuré",
+			"qu'ils/elles": "aient procuré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "procurerais",
+			"tu": "procurerais",
+			"il/elle": "procurerait",
+			"nous": "procurerions",
+			"vous": "procureriez",
+			"ils/elles": "procureraient"
+		},
+		"passé première forme": {
+			"j'": "aurais procuré",
+			"tu": "aurais procuré",
+			"il/elle": "aurait procuré",
+			"nous": "aurions procuré",
+			"vous": "auriez procuré",
+			"ils/elles": "auraient procuré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse procuré",
+			"tu": "eusses procuré",
+			"il/elle": "eût procuré",
+			"nous": "eussions procuré",
+			"vous": "eussiez procuré",
+			"ils/elles": "eussent procuré"
+		}
+	},
+	"participe": {
+		"présent": { "procurant": "" },
+		"passé composé": { "ayant": "procuré" },
+		"passé": {
+			"masc.sg.:": "procuré",
+			"masc.pl.:": "procurés",
+			"fém.sg.:": "procurée",
+			"fém.pl.:": "procurées"
+		}
+	},
+	"imperatif": {
+		"présent": { "procure": "", "procurons": "", "procurez": "" },
+		"passé": { "aie": "procuré", "ayons": "procuré", "ayez": "procuré" }
+	},
+	"infinitif": {
+		"présent": { "procurer": "" },
+		"passé": { "avoir": "procuré" }
+	}
+}

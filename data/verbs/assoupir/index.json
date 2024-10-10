@@ -1,0 +1,143 @@
+{
+	"name": "finir",
+	"definition": "doze off; drift off; nod off; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "s'assoupir/ne pas assoupir/ne pas s'assoupir",
+	"indicatif": {
+		"présent": {
+			"j'": "assoupis",
+			"tu": "assoupis",
+			"il/elle": "assoupit",
+			"nous": "assoupissons",
+			"vous": "assoupissez",
+			"ils/elles": "assoupissent"
+		},
+		"imparfait": {
+			"j'": "assoupissais",
+			"tu": "assoupissais",
+			"il/elle": "assoupissait",
+			"nous": "assoupissions",
+			"vous": "assoupissiez",
+			"ils/elles": "assoupissaient"
+		},
+		"futur": {
+			"j'": "assoupirai",
+			"tu": "assoupiras",
+			"il/elle": "assoupira",
+			"nous": "assoupirons",
+			"vous": "assoupirez",
+			"ils/elles": "assoupiront"
+		},
+		"passé simple": {
+			"j'": "assoupis",
+			"tu": "assoupis",
+			"il/elle": "assoupit",
+			"nous": "assoupîmes",
+			"vous": "assoupîtes",
+			"ils/elles": "assoupirent"
+		},
+		"passé composé": {
+			"j'": "ai assoupi",
+			"tu": "as assoupi",
+			"il/elle": "a assoupi",
+			"nous": "avons assoupi",
+			"vous": "avez assoupi",
+			"ils/elles": "ont assoupi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais assoupi",
+			"tu": "avais assoupi",
+			"il/elle": "avait assoupi",
+			"nous": "avions assoupi",
+			"vous": "aviez assoupi",
+			"ils/elles": "avaient assoupi"
+		},
+		"passé antérieur": {
+			"j'": "eus assoupi",
+			"tu": "eus assoupi",
+			"il/elle": "eut assoupi",
+			"nous": "eûmes assoupi",
+			"vous": "eûtes assoupi",
+			"ils/elles": "eurent assoupi"
+		},
+		"futur antérieur": {
+			"j'": "aurai assoupi",
+			"tu": "auras assoupi",
+			"il/elle": "aura assoupi",
+			"nous": "aurons assoupi",
+			"vous": "aurez assoupi",
+			"ils/elles": "auront assoupi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "assoupisse",
+			"que": "vous assoupissiez",
+			"qu'il/elle": "assoupisse",
+			"qu'ils/elles": "assoupissent"
+		},
+		"imparfait": {
+			"j'": "assoupisse",
+			"que": "vous assoupissiez",
+			"qu'il/elle": "assoupît",
+			"qu'ils/elles": "assoupissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse assoupi",
+			"que": "vous eussiez assoupi",
+			"qu'il/elle": "eût assoupi",
+			"qu'ils/elles": "eussent assoupi"
+		},
+		"passé": {
+			"j'": "aie assoupi",
+			"que": "vous ayez assoupi",
+			"qu'il/elle": "ait assoupi",
+			"qu'ils/elles": "aient assoupi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "assoupirais",
+			"tu": "assoupirais",
+			"il/elle": "assoupirait",
+			"nous": "assoupirions",
+			"vous": "assoupiriez",
+			"ils/elles": "assoupiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais assoupi",
+			"tu": "aurais assoupi",
+			"il/elle": "aurait assoupi",
+			"nous": "aurions assoupi",
+			"vous": "auriez assoupi",
+			"ils/elles": "auraient assoupi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse assoupi",
+			"tu": "eusses assoupi",
+			"il/elle": "eût assoupi",
+			"nous": "eussions assoupi",
+			"vous": "eussiez assoupi",
+			"ils/elles": "eussent assoupi"
+		}
+	},
+	"participe": {
+		"présent": { "assoupissant": "" },
+		"passé composé": { "ayant": "assoupi" },
+		"passé": {
+			"masc.sg.:": "assoupi",
+			"masc.pl.:": "assoupis",
+			"fém.sg.:": "assoupie",
+			"fém.pl.:": "assoupies"
+		}
+	},
+	"imperatif": {
+		"présent": { "assoupis": "", "assoupissons": "", "assoupissez": "" },
+		"passé": { "aie": "assoupi", "ayons": "assoupi", "ayez": "assoupi" }
+	},
+	"infinitif": {
+		"présent": { "assoupir": "" },
+		"passé": { "avoir": "assoupi" }
+	}
+}

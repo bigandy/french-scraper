@@ -1,0 +1,138 @@
+{
+	"name": "manger",
+	"definition": "swim; dive; crawl; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "se nager/ne pas nager/ne pas se nager",
+	"indicatif": {
+		"présent": {
+			"je": "nage",
+			"tu": "nages",
+			"il/elle": "nage",
+			"nous": "nageons",
+			"vous": "nagez",
+			"ils/elles": "nagent"
+		},
+		"imparfait": {
+			"je": "nageais",
+			"tu": "nageais",
+			"il/elle": "nageait",
+			"nous": "nagions",
+			"vous": "nagiez",
+			"ils/elles": "nageaient"
+		},
+		"futur": {
+			"je": "nagerai",
+			"tu": "nageras",
+			"il/elle": "nagera",
+			"nous": "nagerons",
+			"vous": "nagerez",
+			"ils/elles": "nageront"
+		},
+		"passé simple": {
+			"je": "nageai",
+			"tu": "nageas",
+			"il/elle": "nagea",
+			"nous": "nageâmes",
+			"vous": "nageâtes",
+			"ils/elles": "nagèrent"
+		},
+		"passé composé": {
+			"j'": "ai nagé",
+			"tu": "as nagé",
+			"il/elle": "a nagé",
+			"nous": "avons nagé",
+			"vous": "avez nagé",
+			"ils/elles": "ont nagé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais nagé",
+			"tu": "avais nagé",
+			"il/elle": "avait nagé",
+			"nous": "avions nagé",
+			"vous": "aviez nagé",
+			"ils/elles": "avaient nagé"
+		},
+		"passé antérieur": {
+			"j'": "eus nagé",
+			"tu": "eus nagé",
+			"il/elle": "eut nagé",
+			"nous": "eûmes nagé",
+			"vous": "eûtes nagé",
+			"ils/elles": "eurent nagé"
+		},
+		"futur antérieur": {
+			"j'": "aurai nagé",
+			"tu": "auras nagé",
+			"il/elle": "aura nagé",
+			"nous": "aurons nagé",
+			"vous": "aurez nagé",
+			"ils/elles": "auront nagé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous nagiez",
+			"qu'il/elle": "nage",
+			"qu'ils/elles": "nagent"
+		},
+		"imparfait": {
+			"que": "vous nageassiez",
+			"qu'il/elle": "nageât",
+			"qu'ils/elles": "nageassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse nagé",
+			"que": "vous eussiez nagé",
+			"qu'il/elle": "eût nagé",
+			"qu'ils/elles": "eussent nagé"
+		},
+		"passé": {
+			"j'": "aie nagé",
+			"que": "vous ayez nagé",
+			"qu'il/elle": "ait nagé",
+			"qu'ils/elles": "aient nagé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "nagerais",
+			"tu": "nagerais",
+			"il/elle": "nagerait",
+			"nous": "nagerions",
+			"vous": "nageriez",
+			"ils/elles": "nageraient"
+		},
+		"passé première forme": {
+			"j'": "aurais nagé",
+			"tu": "aurais nagé",
+			"il/elle": "aurait nagé",
+			"nous": "aurions nagé",
+			"vous": "auriez nagé",
+			"ils/elles": "auraient nagé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse nagé",
+			"tu": "eusses nagé",
+			"il/elle": "eût nagé",
+			"nous": "eussions nagé",
+			"vous": "eussiez nagé",
+			"ils/elles": "eussent nagé"
+		}
+	},
+	"participe": {
+		"présent": { "nageant": "" },
+		"passé composé": { "ayant": "nagé" },
+		"passé": {
+			"masc.sg.:": "nagé",
+			"masc.pl.:": "nagés",
+			"fém.sg.:": "nagée",
+			"fém.pl.:": "nagées"
+		}
+	},
+	"imperatif": {
+		"présent": { "nage": "", "nageons": "", "nagez": "" },
+		"passé": { "aie": "nagé", "ayons": "nagé", "ayez": "nagé" }
+	},
+	"infinitif": { "présent": { "nager": "" }, "passé": { "avoir": "nagé" } }
+}

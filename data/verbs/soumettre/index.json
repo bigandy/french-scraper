@@ -1,0 +1,141 @@
+{
+	"name": "mettre",
+	"definition": "submit; subject; provide; ...",
+	"model": "mettre",
+	"auxiliary": "avoir",
+	"otherForms": "se soumettre/ne pas soumettre/ne pas se soumettre",
+	"indicatif": {
+		"présent": {
+			"je": "soumets",
+			"tu": "soumets",
+			"il/elle": "soumet",
+			"nous": "soumettons",
+			"vous": "soumettez",
+			"ils/elles": "soumettent"
+		},
+		"imparfait": {
+			"je": "soumettais",
+			"tu": "soumettais",
+			"il/elle": "soumettait",
+			"nous": "soumettions",
+			"vous": "soumettiez",
+			"ils/elles": "soumettaient"
+		},
+		"futur": {
+			"je": "soumettrai",
+			"tu": "soumettras",
+			"il/elle": "soumettra",
+			"nous": "soumettrons",
+			"vous": "soumettrez",
+			"ils/elles": "soumettront"
+		},
+		"passé simple": {
+			"je": "soumis",
+			"tu": "soumis",
+			"il/elle": "soumit",
+			"nous": "soumîmes",
+			"vous": "soumîtes",
+			"ils/elles": "soumirent"
+		},
+		"passé composé": {
+			"j'": "ai soumis",
+			"tu": "as soumis",
+			"il/elle": "a soumis",
+			"nous": "avons soumis",
+			"vous": "avez soumis",
+			"ils/elles": "ont soumis"
+		},
+		"plus-que-parfait": {
+			"j'": "avais soumis",
+			"tu": "avais soumis",
+			"il/elle": "avait soumis",
+			"nous": "avions soumis",
+			"vous": "aviez soumis",
+			"ils/elles": "avaient soumis"
+		},
+		"passé antérieur": {
+			"j'": "eus soumis",
+			"tu": "eus soumis",
+			"il/elle": "eut soumis",
+			"nous": "eûmes soumis",
+			"vous": "eûtes soumis",
+			"ils/elles": "eurent soumis"
+		},
+		"futur antérieur": {
+			"j'": "aurai soumis",
+			"tu": "auras soumis",
+			"il/elle": "aura soumis",
+			"nous": "aurons soumis",
+			"vous": "aurez soumis",
+			"ils/elles": "auront soumis"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous soumettiez",
+			"qu'il/elle": "soumette",
+			"qu'ils/elles": "soumettent"
+		},
+		"imparfait": {
+			"que": "vous soumissiez",
+			"qu'il/elle": "soumît",
+			"qu'ils/elles": "soumissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse soumis",
+			"que": "vous eussiez soumis",
+			"qu'il/elle": "eût soumis",
+			"qu'ils/elles": "eussent soumis"
+		},
+		"passé": {
+			"j'": "aie soumis",
+			"que": "vous ayez soumis",
+			"qu'il/elle": "ait soumis",
+			"qu'ils/elles": "aient soumis"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "soumettrais",
+			"tu": "soumettrais",
+			"il/elle": "soumettrait",
+			"nous": "soumettrions",
+			"vous": "soumettriez",
+			"ils/elles": "soumettraient"
+		},
+		"passé première forme": {
+			"j'": "aurais soumis",
+			"tu": "aurais soumis",
+			"il/elle": "aurait soumis",
+			"nous": "aurions soumis",
+			"vous": "auriez soumis",
+			"ils/elles": "auraient soumis"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse soumis",
+			"tu": "eusses soumis",
+			"il/elle": "eût soumis",
+			"nous": "eussions soumis",
+			"vous": "eussiez soumis",
+			"ils/elles": "eussent soumis"
+		}
+	},
+	"participe": {
+		"présent": { "soumettant": "" },
+		"passé composé": { "ayant": "soumis" },
+		"passé": {
+			"masc.sg.:": "soumis",
+			"masc.pl.:": "soumis",
+			"fém.sg.:": "soumise",
+			"fém.pl.:": "soumises"
+		}
+	},
+	"imperatif": {
+		"présent": { "soumets": "", "soumettons": "", "soumettez": "" },
+		"passé": { "aie": "soumis", "ayons": "soumis", "ayez": "soumis" }
+	},
+	"infinitif": {
+		"présent": { "soumettre": "" },
+		"passé": { "avoir": "soumis" }
+	}
+}

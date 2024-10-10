@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "take; carry; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'emporter/ne pas emporter/ne pas s'emporter",
+	"indicatif": {
+		"présent": {
+			"j'": "emporte",
+			"tu": "emportes",
+			"il/elle": "emporte",
+			"nous": "emportons",
+			"vous": "emportez",
+			"ils/elles": "emportent"
+		},
+		"imparfait": {
+			"j'": "emportais",
+			"tu": "emportais",
+			"il/elle": "emportait",
+			"nous": "emportions",
+			"vous": "emportiez",
+			"ils/elles": "emportaient"
+		},
+		"futur": {
+			"j'": "emporterai",
+			"tu": "emporteras",
+			"il/elle": "emportera",
+			"nous": "emporterons",
+			"vous": "emporterez",
+			"ils/elles": "emporteront"
+		},
+		"passé simple": {
+			"j'": "emportai",
+			"tu": "emportas",
+			"il/elle": "emporta",
+			"nous": "emportâmes",
+			"vous": "emportâtes",
+			"ils/elles": "emportèrent"
+		},
+		"passé composé": {
+			"j'": "ai emporté",
+			"tu": "as emporté",
+			"il/elle": "a emporté",
+			"nous": "avons emporté",
+			"vous": "avez emporté",
+			"ils/elles": "ont emporté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais emporté",
+			"tu": "avais emporté",
+			"il/elle": "avait emporté",
+			"nous": "avions emporté",
+			"vous": "aviez emporté",
+			"ils/elles": "avaient emporté"
+		},
+		"passé antérieur": {
+			"j'": "eus emporté",
+			"tu": "eus emporté",
+			"il/elle": "eut emporté",
+			"nous": "eûmes emporté",
+			"vous": "eûtes emporté",
+			"ils/elles": "eurent emporté"
+		},
+		"futur antérieur": {
+			"j'": "aurai emporté",
+			"tu": "auras emporté",
+			"il/elle": "aura emporté",
+			"nous": "aurons emporté",
+			"vous": "aurez emporté",
+			"ils/elles": "auront emporté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "emporte",
+			"que": "vous emportiez",
+			"qu'il/elle": "emporte",
+			"qu'ils/elles": "emportent"
+		},
+		"imparfait": {
+			"j'": "emportasse",
+			"que": "vous emportassiez",
+			"qu'il/elle": "emportât",
+			"qu'ils/elles": "emportassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse emporté",
+			"que": "vous eussiez emporté",
+			"qu'il/elle": "eût emporté",
+			"qu'ils/elles": "eussent emporté"
+		},
+		"passé": {
+			"j'": "aie emporté",
+			"que": "vous ayez emporté",
+			"qu'il/elle": "ait emporté",
+			"qu'ils/elles": "aient emporté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "emporterais",
+			"tu": "emporterais",
+			"il/elle": "emporterait",
+			"nous": "emporterions",
+			"vous": "emporteriez",
+			"ils/elles": "emporteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais emporté",
+			"tu": "aurais emporté",
+			"il/elle": "aurait emporté",
+			"nous": "aurions emporté",
+			"vous": "auriez emporté",
+			"ils/elles": "auraient emporté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse emporté",
+			"tu": "eusses emporté",
+			"il/elle": "eût emporté",
+			"nous": "eussions emporté",
+			"vous": "eussiez emporté",
+			"ils/elles": "eussent emporté"
+		}
+	},
+	"participe": {
+		"présent": { "emportant": "" },
+		"passé composé": { "ayant": "emporté" },
+		"passé": {
+			"masc.sg.:": "emporté",
+			"masc.pl.:": "emportés",
+			"fém.sg.:": "emportée",
+			"fém.pl.:": "emportées"
+		}
+	},
+	"imperatif": {
+		"présent": { "emporte": "", "emportons": "", "emportez": "" },
+		"passé": { "aie": "emporté", "ayons": "emporté", "ayez": "emporté" }
+	},
+	"infinitif": {
+		"présent": { "emporter": "" },
+		"passé": { "avoir": "emporté" }
+	}
+}

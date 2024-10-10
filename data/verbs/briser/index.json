@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "break; break up; shatter; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se briser/ne pas briser/ne pas se briser",
+	"indicatif": {
+		"présent": {
+			"je": "brise",
+			"tu": "brises",
+			"il/elle": "brise",
+			"nous": "brisons",
+			"vous": "brisez",
+			"ils/elles": "brisent"
+		},
+		"imparfait": {
+			"je": "brisais",
+			"tu": "brisais",
+			"il/elle": "brisait",
+			"nous": "brisions",
+			"vous": "brisiez",
+			"ils/elles": "brisaient"
+		},
+		"futur": {
+			"je": "briserai",
+			"tu": "briseras",
+			"il/elle": "brisera",
+			"nous": "briserons",
+			"vous": "briserez",
+			"ils/elles": "briseront"
+		},
+		"passé simple": {
+			"je": "brisai",
+			"tu": "brisas",
+			"il/elle": "brisa",
+			"nous": "brisâmes",
+			"vous": "brisâtes",
+			"ils/elles": "brisèrent"
+		},
+		"passé composé": {
+			"j'": "ai brisé",
+			"tu": "as brisé",
+			"il/elle": "a brisé",
+			"nous": "avons brisé",
+			"vous": "avez brisé",
+			"ils/elles": "ont brisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais brisé",
+			"tu": "avais brisé",
+			"il/elle": "avait brisé",
+			"nous": "avions brisé",
+			"vous": "aviez brisé",
+			"ils/elles": "avaient brisé"
+		},
+		"passé antérieur": {
+			"j'": "eus brisé",
+			"tu": "eus brisé",
+			"il/elle": "eut brisé",
+			"nous": "eûmes brisé",
+			"vous": "eûtes brisé",
+			"ils/elles": "eurent brisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai brisé",
+			"tu": "auras brisé",
+			"il/elle": "aura brisé",
+			"nous": "aurons brisé",
+			"vous": "aurez brisé",
+			"ils/elles": "auront brisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous brisiez",
+			"qu'il/elle": "brise",
+			"qu'ils/elles": "brisent"
+		},
+		"imparfait": {
+			"que": "vous brisassiez",
+			"qu'il/elle": "brisât",
+			"qu'ils/elles": "brisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse brisé",
+			"que": "vous eussiez brisé",
+			"qu'il/elle": "eût brisé",
+			"qu'ils/elles": "eussent brisé"
+		},
+		"passé": {
+			"j'": "aie brisé",
+			"que": "vous ayez brisé",
+			"qu'il/elle": "ait brisé",
+			"qu'ils/elles": "aient brisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "briserais",
+			"tu": "briserais",
+			"il/elle": "briserait",
+			"nous": "briserions",
+			"vous": "briseriez",
+			"ils/elles": "briseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais brisé",
+			"tu": "aurais brisé",
+			"il/elle": "aurait brisé",
+			"nous": "aurions brisé",
+			"vous": "auriez brisé",
+			"ils/elles": "auraient brisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse brisé",
+			"tu": "eusses brisé",
+			"il/elle": "eût brisé",
+			"nous": "eussions brisé",
+			"vous": "eussiez brisé",
+			"ils/elles": "eussent brisé"
+		}
+	},
+	"participe": {
+		"présent": { "brisant": "" },
+		"passé composé": { "ayant": "brisé" },
+		"passé": {
+			"masc.sg.:": "brisé",
+			"masc.pl.:": "brisés",
+			"fém.sg.:": "brisée",
+			"fém.pl.:": "brisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "brise": "", "brisons": "", "brisez": "" },
+		"passé": { "aie": "brisé", "ayons": "brisé", "ayez": "brisé" }
+	},
+	"infinitif": { "présent": { "briser": "" }, "passé": { "avoir": "brisé" } }
+}

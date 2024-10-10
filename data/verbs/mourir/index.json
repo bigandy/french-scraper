@@ -1,0 +1,152 @@
+{
+	"name": "mourir",
+	"definition": "die; be dead; ...",
+	"model": "mourir",
+	"auxiliary": "être",
+	"otherForms": "se mourir/ne pas mourir/ne pas se mourir",
+	"indicatif": {
+		"présent": {
+			"je": "meurs",
+			"tu": "meurs",
+			"il/elle": "meurt",
+			"nous": "mourons",
+			"vous": "mourez",
+			"ils/elles": "meurent"
+		},
+		"imparfait": {
+			"je": "mourais",
+			"tu": "mourais",
+			"il/elle": "mourait",
+			"nous": "mourions",
+			"vous": "mouriez",
+			"ils/elles": "mouraient"
+		},
+		"futur": {
+			"je": "mourrai",
+			"tu": "mourras",
+			"il/elle": "mourra",
+			"nous": "mourrons",
+			"vous": "mourrez",
+			"ils/elles": "mourront"
+		},
+		"passé simple": {
+			"je": "mourus",
+			"tu": "mourus",
+			"il/elle": "mourut",
+			"nous": "mourûmes",
+			"vous": "mourûtes",
+			"ils/elles": "moururent"
+		},
+		"passé composé": {
+			"je": "suis mort",
+			"tu": "es mort",
+			"il": "est mort",
+			"elle": "est morte",
+			"nous": "sommes morts",
+			"vous": "êtes morts",
+			"ils": "sont morts",
+			"elles": "sont mortes"
+		},
+		"plus-que-parfait": {
+			"j'": "étais mort",
+			"tu": "étais mort",
+			"il": "était mort",
+			"elle": "était morte",
+			"nous": "étions morts",
+			"vous": "étiez morts",
+			"ils": "étaient morts",
+			"elles": "étaient mortes"
+		},
+		"passé antérieur": {
+			"je": "fus mort",
+			"tu": "fus mort",
+			"il": "fut mort",
+			"elle": "fut morte",
+			"nous": "fûmes morts",
+			"vous": "fûtes morts",
+			"ils": "furent morts",
+			"elles": "furent mortes"
+		},
+		"futur antérieur": {
+			"je": "serai mort",
+			"tu": "seras mort",
+			"il": "sera mort",
+			"elle": "sera morte",
+			"nous": "serons morts",
+			"vous": "serez morts",
+			"ils": "seront morts",
+			"elles": "seront mortes"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous mouriez",
+			"qu'il/elle": "meure",
+			"qu'ils/elles": "meurent"
+		},
+		"imparfait": {
+			"que": "vous mourussiez",
+			"qu'il/elle": "mourût",
+			"qu'ils/elles": "mourussent"
+		},
+		"plus-que-parfait": {
+			"que": "vous fussiez morts",
+			"qu'il": "fût mort",
+			"qu'elle": "fût morte",
+			"qu'ils": "fussent morts",
+			"qu'elles": "fussent mortes"
+		},
+		"passé": {
+			"que": "vous soyez morts",
+			"qu'il": "soit mort",
+			"qu'elle": "soit morte",
+			"qu'ils": "soient morts",
+			"qu'elles": "soient mortes"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "mourrais",
+			"tu": "mourrais",
+			"il/elle": "mourrait",
+			"nous": "mourrions",
+			"vous": "mourriez",
+			"ils/elles": "mourraient"
+		},
+		"passé première forme": {
+			"je": "serais mort",
+			"tu": "serais mort",
+			"il": "serait mort",
+			"elle": "serait morte",
+			"nous": "serions morts",
+			"vous": "seriez morts",
+			"ils": "seraient morts",
+			"elles": "seraient mortes"
+		},
+		"passé deuxième forme": {
+			"je": "fusse mort",
+			"tu": "fusses mort",
+			"il": "fût mort",
+			"elle": "fût morte",
+			"nous": "fussions morts",
+			"vous": "fussiez morts",
+			"ils": "fussent morts",
+			"elles": "fussent mortes"
+		}
+	},
+	"participe": {
+		"présent": { "mourant": "" },
+		"passé composé": { "étant": "morte" },
+		"passé": {
+			"masc.sg.:": "mort",
+			"masc.pl.:": "morts",
+			"fém.sg.:": "morte",
+			"fém.pl.:": "mortes"
+		}
+	},
+	"imperatif": {
+		"présent": { "meurs": "", "mourons": "", "mourez": "" },
+		"passé": { "sois": "mort", "soyons": "mort", "soyez": "mort" }
+	},
+	"infinitif": { "présent": { "mourir": "" }, "passé": { "être": "mort" } }
+}

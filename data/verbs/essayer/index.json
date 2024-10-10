@@ -1,0 +1,150 @@
+{
+	"name": "marcher\n              /\n              balayer",
+	"definition": "try; attempt; test; ...",
+	"model": "marcher\n              /\n              balayer",
+	"auxiliary": "avoir",
+	"otherForms": "s'essayer/ne pas essayer/ne pas s'essayer",
+	"indicatif": {
+		"présent": {
+			"j'": "essaie",
+			"tu": "essaies",
+			"il/elle": "essaie",
+			"nous": "essayons",
+			"vous": "essayez",
+			"ils/elles": "essaient",
+			"": ""
+		},
+		"imparfait": {
+			"j'": "essayais",
+			"tu": "essayais",
+			"il/elle": "essayait",
+			"nous": "essayions",
+			"vous": "essayiez",
+			"ils/elles": "essayaient"
+		},
+		"futur": {
+			"j'": "essaierai",
+			"tu": "essaieras",
+			"il/elle": "essaiera",
+			"nous": "essaierons",
+			"vous": "essaierez",
+			"ils/elles": "essaieront",
+			"": ""
+		},
+		"passé simple": {
+			"j'": "essayai",
+			"tu": "essayas",
+			"il/elle": "essaya",
+			"nous": "essayâmes",
+			"vous": "essayâtes",
+			"ils/elles": "essayèrent"
+		},
+		"passé composé": {
+			"j'": "ai essayé",
+			"tu": "as essayé",
+			"il/elle": "a essayé",
+			"nous": "avons essayé",
+			"vous": "avez essayé",
+			"ils/elles": "ont essayé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais essayé",
+			"tu": "avais essayé",
+			"il/elle": "avait essayé",
+			"nous": "avions essayé",
+			"vous": "aviez essayé",
+			"ils/elles": "avaient essayé"
+		},
+		"passé antérieur": {
+			"j'": "eus essayé",
+			"tu": "eus essayé",
+			"il/elle": "eut essayé",
+			"nous": "eûmes essayé",
+			"vous": "eûtes essayé",
+			"ils/elles": "eurent essayé"
+		},
+		"futur antérieur": {
+			"j'": "aurai essayé",
+			"tu": "auras essayé",
+			"il/elle": "aura essayé",
+			"nous": "aurons essayé",
+			"vous": "aurez essayé",
+			"ils/elles": "auront essayé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "essaie",
+			"que": "vous essayiez",
+			"qu'il/elle": "essaie",
+			"qu'ils/elles": "essaient",
+			"": ""
+		},
+		"imparfait": {
+			"j'": "essayasse",
+			"que": "vous essayassiez",
+			"qu'il/elle": "essayât",
+			"qu'ils/elles": "essayassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse essayé",
+			"que": "vous eussiez essayé",
+			"qu'il/elle": "eût essayé",
+			"qu'ils/elles": "eussent essayé"
+		},
+		"passé": {
+			"j'": "aie essayé",
+			"que": "vous ayez essayé",
+			"qu'il/elle": "ait essayé",
+			"qu'ils/elles": "aient essayé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "essaierais",
+			"tu": "essaierais",
+			"il/elle": "essaierait",
+			"nous": "essaierions",
+			"vous": "essaieriez",
+			"ils/elles": "essaieraient",
+			"": ""
+		},
+		"passé première forme": {
+			"j'": "aurais essayé",
+			"tu": "aurais essayé",
+			"il/elle": "aurait essayé",
+			"nous": "aurions essayé",
+			"vous": "auriez essayé",
+			"ils/elles": "auraient essayé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse essayé",
+			"tu": "eusses essayé",
+			"il/elle": "eût essayé",
+			"nous": "eussions essayé",
+			"vous": "eussiez essayé",
+			"ils/elles": "eussent essayé"
+		}
+	},
+	"participe": {
+		"présent": { "essayant": "" },
+		"passé composé": { "ayant": "essayé" },
+		"passé": {
+			"masc.sg.:": "essayé",
+			"masc.pl.:": "essayés",
+			"fém.sg.:": "essayée",
+			"fém.pl.:": "essayées"
+		}
+	},
+	"imperatif": {
+		"présent": {
+			"essaye": "",
+			"essayons": "",
+			"essayez": "",
+			"": "",
+			"essaie": ""
+		},
+		"passé": { "aie": "essayé", "ayons": "essayé", "ayez": "essayé" }
+	},
+	"infinitif": { "présent": { "essayer": "" }, "passé": { "avoir": "essayé" } }
+}

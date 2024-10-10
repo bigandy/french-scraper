@@ -1,0 +1,138 @@
+{
+	"name": "cuire",
+	"definition": "deduct; deduce; infer; ...",
+	"model": "cuire",
+	"auxiliary": "avoir",
+	"otherForms": "se déduire/ne pas déduire/ne pas se déduire",
+	"indicatif": {
+		"présent": {
+			"je": "déduis",
+			"tu": "déduis",
+			"il/elle": "déduit",
+			"nous": "déduisons",
+			"vous": "déduisez",
+			"ils/elles": "déduisent"
+		},
+		"imparfait": {
+			"je": "déduisais",
+			"tu": "déduisais",
+			"il/elle": "déduisait",
+			"nous": "déduisions",
+			"vous": "déduisiez",
+			"ils/elles": "déduisaient"
+		},
+		"futur": {
+			"je": "déduirai",
+			"tu": "déduiras",
+			"il/elle": "déduira",
+			"nous": "déduirons",
+			"vous": "déduirez",
+			"ils/elles": "déduiront"
+		},
+		"passé simple": {
+			"je": "déduisis",
+			"tu": "déduisis",
+			"il/elle": "déduisit",
+			"nous": "déduisîmes",
+			"vous": "déduisîtes",
+			"ils/elles": "déduisirent"
+		},
+		"passé composé": {
+			"j'": "ai déduit",
+			"tu": "as déduit",
+			"il/elle": "a déduit",
+			"nous": "avons déduit",
+			"vous": "avez déduit",
+			"ils/elles": "ont déduit"
+		},
+		"plus-que-parfait": {
+			"j'": "avais déduit",
+			"tu": "avais déduit",
+			"il/elle": "avait déduit",
+			"nous": "avions déduit",
+			"vous": "aviez déduit",
+			"ils/elles": "avaient déduit"
+		},
+		"passé antérieur": {
+			"j'": "eus déduit",
+			"tu": "eus déduit",
+			"il/elle": "eut déduit",
+			"nous": "eûmes déduit",
+			"vous": "eûtes déduit",
+			"ils/elles": "eurent déduit"
+		},
+		"futur antérieur": {
+			"j'": "aurai déduit",
+			"tu": "auras déduit",
+			"il/elle": "aura déduit",
+			"nous": "aurons déduit",
+			"vous": "aurez déduit",
+			"ils/elles": "auront déduit"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous déduisiez",
+			"qu'il/elle": "déduise",
+			"qu'ils/elles": "déduisent"
+		},
+		"imparfait": {
+			"que": "vous déduisissiez",
+			"qu'il/elle": "déduisît",
+			"qu'ils/elles": "déduisissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse déduit",
+			"que": "vous eussiez déduit",
+			"qu'il/elle": "eût déduit",
+			"qu'ils/elles": "eussent déduit"
+		},
+		"passé": {
+			"j'": "aie déduit",
+			"que": "vous ayez déduit",
+			"qu'il/elle": "ait déduit",
+			"qu'ils/elles": "aient déduit"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "déduirais",
+			"tu": "déduirais",
+			"il/elle": "déduirait",
+			"nous": "déduirions",
+			"vous": "déduiriez",
+			"ils/elles": "déduiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais déduit",
+			"tu": "aurais déduit",
+			"il/elle": "aurait déduit",
+			"nous": "aurions déduit",
+			"vous": "auriez déduit",
+			"ils/elles": "auraient déduit"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse déduit",
+			"tu": "eusses déduit",
+			"il/elle": "eût déduit",
+			"nous": "eussions déduit",
+			"vous": "eussiez déduit",
+			"ils/elles": "eussent déduit"
+		}
+	},
+	"participe": {
+		"présent": { "déduisant": "" },
+		"passé composé": { "ayant": "déduit" },
+		"passé": {
+			"masc.sg.:": "déduit",
+			"masc.pl.:": "déduits",
+			"fém.sg.:": "déduite",
+			"fém.pl.:": "déduites"
+		}
+	},
+	"imperatif": {
+		"présent": { "déduis": "", "déduisons": "", "déduisez": "" },
+		"passé": { "aie": "déduit", "ayons": "déduit", "ayez": "déduit" }
+	},
+	"infinitif": { "présent": { "déduire": "" }, "passé": { "avoir": "déduit" } }
+}

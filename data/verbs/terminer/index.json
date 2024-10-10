@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "finish; complete; end; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se terminer/ne pas terminer/ne pas se terminer",
+	"indicatif": {
+		"présent": {
+			"je": "termine",
+			"tu": "termines",
+			"il/elle": "termine",
+			"nous": "terminons",
+			"vous": "terminez",
+			"ils/elles": "terminent"
+		},
+		"imparfait": {
+			"je": "terminais",
+			"tu": "terminais",
+			"il/elle": "terminait",
+			"nous": "terminions",
+			"vous": "terminiez",
+			"ils/elles": "terminaient"
+		},
+		"futur": {
+			"je": "terminerai",
+			"tu": "termineras",
+			"il/elle": "terminera",
+			"nous": "terminerons",
+			"vous": "terminerez",
+			"ils/elles": "termineront"
+		},
+		"passé simple": {
+			"je": "terminai",
+			"tu": "terminas",
+			"il/elle": "termina",
+			"nous": "terminâmes",
+			"vous": "terminâtes",
+			"ils/elles": "terminèrent"
+		},
+		"passé composé": {
+			"j'": "ai terminé",
+			"tu": "as terminé",
+			"il/elle": "a terminé",
+			"nous": "avons terminé",
+			"vous": "avez terminé",
+			"ils/elles": "ont terminé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais terminé",
+			"tu": "avais terminé",
+			"il/elle": "avait terminé",
+			"nous": "avions terminé",
+			"vous": "aviez terminé",
+			"ils/elles": "avaient terminé"
+		},
+		"passé antérieur": {
+			"j'": "eus terminé",
+			"tu": "eus terminé",
+			"il/elle": "eut terminé",
+			"nous": "eûmes terminé",
+			"vous": "eûtes terminé",
+			"ils/elles": "eurent terminé"
+		},
+		"futur antérieur": {
+			"j'": "aurai terminé",
+			"tu": "auras terminé",
+			"il/elle": "aura terminé",
+			"nous": "aurons terminé",
+			"vous": "aurez terminé",
+			"ils/elles": "auront terminé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous terminiez",
+			"qu'il/elle": "termine",
+			"qu'ils/elles": "terminent"
+		},
+		"imparfait": {
+			"que": "vous terminassiez",
+			"qu'il/elle": "terminât",
+			"qu'ils/elles": "terminassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse terminé",
+			"que": "vous eussiez terminé",
+			"qu'il/elle": "eût terminé",
+			"qu'ils/elles": "eussent terminé"
+		},
+		"passé": {
+			"j'": "aie terminé",
+			"que": "vous ayez terminé",
+			"qu'il/elle": "ait terminé",
+			"qu'ils/elles": "aient terminé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "terminerais",
+			"tu": "terminerais",
+			"il/elle": "terminerait",
+			"nous": "terminerions",
+			"vous": "termineriez",
+			"ils/elles": "termineraient"
+		},
+		"passé première forme": {
+			"j'": "aurais terminé",
+			"tu": "aurais terminé",
+			"il/elle": "aurait terminé",
+			"nous": "aurions terminé",
+			"vous": "auriez terminé",
+			"ils/elles": "auraient terminé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse terminé",
+			"tu": "eusses terminé",
+			"il/elle": "eût terminé",
+			"nous": "eussions terminé",
+			"vous": "eussiez terminé",
+			"ils/elles": "eussent terminé"
+		}
+	},
+	"participe": {
+		"présent": { "terminant": "" },
+		"passé composé": { "ayant": "terminé" },
+		"passé": {
+			"masc.sg.:": "terminé",
+			"masc.pl.:": "terminés",
+			"fém.sg.:": "terminée",
+			"fém.pl.:": "terminées"
+		}
+	},
+	"imperatif": {
+		"présent": { "termine": "", "terminons": "", "terminez": "" },
+		"passé": { "aie": "terminé", "ayons": "terminé", "ayez": "terminé" }
+	},
+	"infinitif": {
+		"présent": { "terminer": "" },
+		"passé": { "avoir": "terminé" }
+	}
+}

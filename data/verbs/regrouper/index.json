@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "consolidate; group; regroup; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se regrouper/ne pas regrouper/ne pas se regrouper",
+	"indicatif": {
+		"présent": {
+			"je": "regroupe",
+			"tu": "regroupes",
+			"il/elle": "regroupe",
+			"nous": "regroupons",
+			"vous": "regroupez",
+			"ils/elles": "regroupent"
+		},
+		"imparfait": {
+			"je": "regroupais",
+			"tu": "regroupais",
+			"il/elle": "regroupait",
+			"nous": "regroupions",
+			"vous": "regroupiez",
+			"ils/elles": "regroupaient"
+		},
+		"futur": {
+			"je": "regrouperai",
+			"tu": "regrouperas",
+			"il/elle": "regroupera",
+			"nous": "regrouperons",
+			"vous": "regrouperez",
+			"ils/elles": "regrouperont"
+		},
+		"passé simple": {
+			"je": "regroupai",
+			"tu": "regroupas",
+			"il/elle": "regroupa",
+			"nous": "regroupâmes",
+			"vous": "regroupâtes",
+			"ils/elles": "regroupèrent"
+		},
+		"passé composé": {
+			"j'": "ai regroupé",
+			"tu": "as regroupé",
+			"il/elle": "a regroupé",
+			"nous": "avons regroupé",
+			"vous": "avez regroupé",
+			"ils/elles": "ont regroupé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais regroupé",
+			"tu": "avais regroupé",
+			"il/elle": "avait regroupé",
+			"nous": "avions regroupé",
+			"vous": "aviez regroupé",
+			"ils/elles": "avaient regroupé"
+		},
+		"passé antérieur": {
+			"j'": "eus regroupé",
+			"tu": "eus regroupé",
+			"il/elle": "eut regroupé",
+			"nous": "eûmes regroupé",
+			"vous": "eûtes regroupé",
+			"ils/elles": "eurent regroupé"
+		},
+		"futur antérieur": {
+			"j'": "aurai regroupé",
+			"tu": "auras regroupé",
+			"il/elle": "aura regroupé",
+			"nous": "aurons regroupé",
+			"vous": "aurez regroupé",
+			"ils/elles": "auront regroupé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous regroupiez",
+			"qu'il/elle": "regroupe",
+			"qu'ils/elles": "regroupent"
+		},
+		"imparfait": {
+			"que": "vous regroupassiez",
+			"qu'il/elle": "regroupât",
+			"qu'ils/elles": "regroupassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse regroupé",
+			"que": "vous eussiez regroupé",
+			"qu'il/elle": "eût regroupé",
+			"qu'ils/elles": "eussent regroupé"
+		},
+		"passé": {
+			"j'": "aie regroupé",
+			"que": "vous ayez regroupé",
+			"qu'il/elle": "ait regroupé",
+			"qu'ils/elles": "aient regroupé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "regrouperais",
+			"tu": "regrouperais",
+			"il/elle": "regrouperait",
+			"nous": "regrouperions",
+			"vous": "regrouperiez",
+			"ils/elles": "regrouperaient"
+		},
+		"passé première forme": {
+			"j'": "aurais regroupé",
+			"tu": "aurais regroupé",
+			"il/elle": "aurait regroupé",
+			"nous": "aurions regroupé",
+			"vous": "auriez regroupé",
+			"ils/elles": "auraient regroupé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse regroupé",
+			"tu": "eusses regroupé",
+			"il/elle": "eût regroupé",
+			"nous": "eussions regroupé",
+			"vous": "eussiez regroupé",
+			"ils/elles": "eussent regroupé"
+		}
+	},
+	"participe": {
+		"présent": { "regroupant": "" },
+		"passé composé": { "ayant": "regroupé" },
+		"passé": {
+			"masc.sg.:": "regroupé",
+			"masc.pl.:": "regroupés",
+			"fém.sg.:": "regroupée",
+			"fém.pl.:": "regroupées"
+		}
+	},
+	"imperatif": {
+		"présent": { "regroupe": "", "regroupons": "", "regroupez": "" },
+		"passé": { "aie": "regroupé", "ayons": "regroupé", "ayez": "regroupé" }
+	},
+	"infinitif": {
+		"présent": { "regrouper": "" },
+		"passé": { "avoir": "regroupé" }
+	}
+}

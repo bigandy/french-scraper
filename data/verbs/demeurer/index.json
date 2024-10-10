@@ -1,0 +1,194 @@
+{
+	"name": "marcher",
+	"definition": "remain; stay; continue; ...",
+	"model": "marcher",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "ne pas demeurer",
+	"indicatif": {
+		"présent": {
+			"je": "demeure",
+			"tu": "demeures",
+			"il/elle": "demeure",
+			"nous": "demeurons",
+			"vous": "demeurez",
+			"ils/elles": "demeurent"
+		},
+		"imparfait": {
+			"je": "demeurais",
+			"tu": "demeurais",
+			"il/elle": "demeurait",
+			"nous": "demeurions",
+			"vous": "demeuriez",
+			"ils/elles": "demeuraient"
+		},
+		"futur": {
+			"je": "demeurerai",
+			"tu": "demeureras",
+			"il/elle": "demeurera",
+			"nous": "demeurerons",
+			"vous": "demeurerez",
+			"ils/elles": "demeureront"
+		},
+		"passé simple": {
+			"je": "demeurai",
+			"tu": "demeuras",
+			"il/elle": "demeura",
+			"nous": "demeurâmes",
+			"vous": "demeurâtes",
+			"ils/elles": "demeurèrent"
+		},
+		"passé composé": {
+			"j'": "ai demeuré",
+			"tu": "es demeuré",
+			"il/elle": "a demeuré",
+			"nous": "sommes demeurés",
+			"vous": "êtes demeurés",
+			"ils/elles": "ont demeuré",
+			"": "",
+			"je": "suis demeuré",
+			"il": "est demeuré",
+			"elle": "est demeurée",
+			"ils": "sont demeurés",
+			"elles": "sont demeurées"
+		},
+		"plus-que-parfait": {
+			"j'": "étais demeuré",
+			"tu": "étais demeuré",
+			"il/elle": "avait demeuré",
+			"nous": "étions demeurés",
+			"vous": "étiez demeurés",
+			"ils/elles": "avaient demeuré",
+			"": "",
+			"il": "était demeuré",
+			"elle": "était demeurée",
+			"ils": "étaient demeurés",
+			"elles": "étaient demeurées"
+		},
+		"passé antérieur": {
+			"j'": "eus demeuré",
+			"tu": "fus demeuré",
+			"il/elle": "eut demeuré",
+			"nous": "fûmes demeurés",
+			"vous": "fûtes demeurés",
+			"ils/elles": "eurent demeuré",
+			"": "",
+			"je": "fus demeuré",
+			"il": "fut demeuré",
+			"elle": "fut demeurée",
+			"ils": "furent demeurés",
+			"elles": "furent demeurées"
+		},
+		"futur antérieur": {
+			"j'": "aurai demeuré",
+			"tu": "seras demeuré",
+			"il/elle": "aura demeuré",
+			"nous": "serons demeurés",
+			"vous": "serez demeurés",
+			"ils/elles": "auront demeuré",
+			"": "",
+			"je": "serai demeuré",
+			"il": "sera demeuré",
+			"elle": "sera demeurée",
+			"ils": "seront demeurés",
+			"elles": "seront demeurées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous demeuriez",
+			"qu'il/elle": "demeure",
+			"qu'ils/elles": "demeurent"
+		},
+		"imparfait": {
+			"que": "vous demeurassiez",
+			"qu'il/elle": "demeurât",
+			"qu'ils/elles": "demeurassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse demeuré",
+			"que": "vous fussiez demeurés",
+			"qu'il/elle": "eût demeuré",
+			"qu'ils/elles": "eussent demeuré",
+			"": "",
+			"qu'il": "fût demeuré",
+			"qu'elle": "fût demeurée",
+			"qu'ils": "fussent demeurés",
+			"qu'elles": "fussent demeurées"
+		},
+		"passé": {
+			"j'": "aie demeuré",
+			"que": "vous soyez demeurés",
+			"qu'il/elle": "ait demeuré",
+			"qu'ils/elles": "aient demeuré",
+			"": "",
+			"qu'il": "soit demeuré",
+			"qu'elle": "soit demeurée",
+			"qu'ils": "soient demeurés",
+			"qu'elles": "soient demeurées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "demeurerais",
+			"tu": "demeurerais",
+			"il/elle": "demeurerait",
+			"nous": "demeurerions",
+			"vous": "demeureriez",
+			"ils/elles": "demeureraient"
+		},
+		"passé première forme": {
+			"j'": "aurais demeuré",
+			"tu": "serais demeuré",
+			"il/elle": "aurait demeuré",
+			"nous": "serions demeurés",
+			"vous": "seriez demeurés",
+			"ils/elles": "auraient demeuré",
+			"": "",
+			"je": "serais demeuré",
+			"il": "serait demeuré",
+			"elle": "serait demeurée",
+			"ils": "seraient demeurés",
+			"elles": "seraient demeurées"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse demeuré",
+			"tu": "fusses demeuré",
+			"il/elle": "eût demeuré",
+			"nous": "fussions demeurés",
+			"vous": "fussiez demeurés",
+			"ils/elles": "eussent demeuré",
+			"": "",
+			"je": "fusse demeuré",
+			"il": "fût demeuré",
+			"elle": "fût demeurée",
+			"ils": "fussent demeurés",
+			"elles": "fussent demeurées"
+		}
+	},
+	"participe": {
+		"présent": { "demeurant": "" },
+		"passé composé": { "ayant": "demeuré", "": "", "étant": "demeurée" },
+		"passé": {
+			"masc.sg.:": "demeuré",
+			"masc.pl.:": "demeurés",
+			"fém.sg.:": "demeurée",
+			"fém.pl.:": "demeurées"
+		}
+	},
+	"imperatif": {
+		"présent": { "demeure": "", "demeurons": "", "demeurez": "" },
+		"passé": {
+			"aie": "demeuré",
+			"ayons": "demeuré",
+			"ayez": "demeuré",
+			"": "",
+			"sois": "demeuré",
+			"soyons": "demeuré",
+			"soyez": "demeuré"
+		}
+	},
+	"infinitif": {
+		"présent": { "demeurer": "" },
+		"passé": { "avoir": "demeuré", "": "", "être": "demeuré" }
+	}
+}

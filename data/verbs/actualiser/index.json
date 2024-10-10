@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "update; refresh; upgrade; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'actualiser/ne pas actualiser/ne pas s'actualiser",
+	"indicatif": {
+		"présent": {
+			"j'": "actualise",
+			"tu": "actualises",
+			"il/elle": "actualise",
+			"nous": "actualisons",
+			"vous": "actualisez",
+			"ils/elles": "actualisent"
+		},
+		"imparfait": {
+			"j'": "actualisais",
+			"tu": "actualisais",
+			"il/elle": "actualisait",
+			"nous": "actualisions",
+			"vous": "actualisiez",
+			"ils/elles": "actualisaient"
+		},
+		"futur": {
+			"j'": "actualiserai",
+			"tu": "actualiseras",
+			"il/elle": "actualisera",
+			"nous": "actualiserons",
+			"vous": "actualiserez",
+			"ils/elles": "actualiseront"
+		},
+		"passé simple": {
+			"j'": "actualisai",
+			"tu": "actualisas",
+			"il/elle": "actualisa",
+			"nous": "actualisâmes",
+			"vous": "actualisâtes",
+			"ils/elles": "actualisèrent"
+		},
+		"passé composé": {
+			"j'": "ai actualisé",
+			"tu": "as actualisé",
+			"il/elle": "a actualisé",
+			"nous": "avons actualisé",
+			"vous": "avez actualisé",
+			"ils/elles": "ont actualisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais actualisé",
+			"tu": "avais actualisé",
+			"il/elle": "avait actualisé",
+			"nous": "avions actualisé",
+			"vous": "aviez actualisé",
+			"ils/elles": "avaient actualisé"
+		},
+		"passé antérieur": {
+			"j'": "eus actualisé",
+			"tu": "eus actualisé",
+			"il/elle": "eut actualisé",
+			"nous": "eûmes actualisé",
+			"vous": "eûtes actualisé",
+			"ils/elles": "eurent actualisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai actualisé",
+			"tu": "auras actualisé",
+			"il/elle": "aura actualisé",
+			"nous": "aurons actualisé",
+			"vous": "aurez actualisé",
+			"ils/elles": "auront actualisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "actualise",
+			"que": "vous actualisiez",
+			"qu'il/elle": "actualise",
+			"qu'ils/elles": "actualisent"
+		},
+		"imparfait": {
+			"j'": "actualisasse",
+			"que": "vous actualisassiez",
+			"qu'il/elle": "actualisât",
+			"qu'ils/elles": "actualisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse actualisé",
+			"que": "vous eussiez actualisé",
+			"qu'il/elle": "eût actualisé",
+			"qu'ils/elles": "eussent actualisé"
+		},
+		"passé": {
+			"j'": "aie actualisé",
+			"que": "vous ayez actualisé",
+			"qu'il/elle": "ait actualisé",
+			"qu'ils/elles": "aient actualisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "actualiserais",
+			"tu": "actualiserais",
+			"il/elle": "actualiserait",
+			"nous": "actualiserions",
+			"vous": "actualiseriez",
+			"ils/elles": "actualiseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais actualisé",
+			"tu": "aurais actualisé",
+			"il/elle": "aurait actualisé",
+			"nous": "aurions actualisé",
+			"vous": "auriez actualisé",
+			"ils/elles": "auraient actualisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse actualisé",
+			"tu": "eusses actualisé",
+			"il/elle": "eût actualisé",
+			"nous": "eussions actualisé",
+			"vous": "eussiez actualisé",
+			"ils/elles": "eussent actualisé"
+		}
+	},
+	"participe": {
+		"présent": { "actualisant": "" },
+		"passé composé": { "ayant": "actualisé" },
+		"passé": {
+			"masc.sg.:": "actualisé",
+			"masc.pl.:": "actualisés",
+			"fém.sg.:": "actualisée",
+			"fém.pl.:": "actualisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "actualise": "", "actualisons": "", "actualisez": "" },
+		"passé": { "aie": "actualisé", "ayons": "actualisé", "ayez": "actualisé" }
+	},
+	"infinitif": {
+		"présent": { "actualiser": "" },
+		"passé": { "avoir": "actualisé" }
+	}
+}

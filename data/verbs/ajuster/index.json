@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "adjust; fit; adapt; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'ajuster/ne pas ajuster/ne pas s'ajuster",
+	"indicatif": {
+		"présent": {
+			"j'": "ajuste",
+			"tu": "ajustes",
+			"il/elle": "ajuste",
+			"nous": "ajustons",
+			"vous": "ajustez",
+			"ils/elles": "ajustent"
+		},
+		"imparfait": {
+			"j'": "ajustais",
+			"tu": "ajustais",
+			"il/elle": "ajustait",
+			"nous": "ajustions",
+			"vous": "ajustiez",
+			"ils/elles": "ajustaient"
+		},
+		"futur": {
+			"j'": "ajusterai",
+			"tu": "ajusteras",
+			"il/elle": "ajustera",
+			"nous": "ajusterons",
+			"vous": "ajusterez",
+			"ils/elles": "ajusteront"
+		},
+		"passé simple": {
+			"j'": "ajustai",
+			"tu": "ajustas",
+			"il/elle": "ajusta",
+			"nous": "ajustâmes",
+			"vous": "ajustâtes",
+			"ils/elles": "ajustèrent"
+		},
+		"passé composé": {
+			"j'": "ai ajusté",
+			"tu": "as ajusté",
+			"il/elle": "a ajusté",
+			"nous": "avons ajusté",
+			"vous": "avez ajusté",
+			"ils/elles": "ont ajusté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais ajusté",
+			"tu": "avais ajusté",
+			"il/elle": "avait ajusté",
+			"nous": "avions ajusté",
+			"vous": "aviez ajusté",
+			"ils/elles": "avaient ajusté"
+		},
+		"passé antérieur": {
+			"j'": "eus ajusté",
+			"tu": "eus ajusté",
+			"il/elle": "eut ajusté",
+			"nous": "eûmes ajusté",
+			"vous": "eûtes ajusté",
+			"ils/elles": "eurent ajusté"
+		},
+		"futur antérieur": {
+			"j'": "aurai ajusté",
+			"tu": "auras ajusté",
+			"il/elle": "aura ajusté",
+			"nous": "aurons ajusté",
+			"vous": "aurez ajusté",
+			"ils/elles": "auront ajusté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "ajuste",
+			"que": "vous ajustiez",
+			"qu'il/elle": "ajuste",
+			"qu'ils/elles": "ajustent"
+		},
+		"imparfait": {
+			"j'": "ajustasse",
+			"que": "vous ajustassiez",
+			"qu'il/elle": "ajustât",
+			"qu'ils/elles": "ajustassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse ajusté",
+			"que": "vous eussiez ajusté",
+			"qu'il/elle": "eût ajusté",
+			"qu'ils/elles": "eussent ajusté"
+		},
+		"passé": {
+			"j'": "aie ajusté",
+			"que": "vous ayez ajusté",
+			"qu'il/elle": "ait ajusté",
+			"qu'ils/elles": "aient ajusté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "ajusterais",
+			"tu": "ajusterais",
+			"il/elle": "ajusterait",
+			"nous": "ajusterions",
+			"vous": "ajusteriez",
+			"ils/elles": "ajusteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais ajusté",
+			"tu": "aurais ajusté",
+			"il/elle": "aurait ajusté",
+			"nous": "aurions ajusté",
+			"vous": "auriez ajusté",
+			"ils/elles": "auraient ajusté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse ajusté",
+			"tu": "eusses ajusté",
+			"il/elle": "eût ajusté",
+			"nous": "eussions ajusté",
+			"vous": "eussiez ajusté",
+			"ils/elles": "eussent ajusté"
+		}
+	},
+	"participe": {
+		"présent": { "ajustant": "" },
+		"passé composé": { "ayant": "ajusté" },
+		"passé": {
+			"masc.sg.:": "ajusté",
+			"masc.pl.:": "ajustés",
+			"fém.sg.:": "ajustée",
+			"fém.pl.:": "ajustées"
+		}
+	},
+	"imperatif": {
+		"présent": { "ajuste": "", "ajustons": "", "ajustez": "" },
+		"passé": { "aie": "ajusté", "ayons": "ajusté", "ayez": "ajusté" }
+	},
+	"infinitif": { "présent": { "ajuster": "" }, "passé": { "avoir": "ajusté" } }
+}

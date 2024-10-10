@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "lower; reduce; decrease; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'abaisser/ne pas abaisser/ne pas s'abaisser",
+	"indicatif": {
+		"présent": {
+			"j'": "abaisse",
+			"tu": "abaisses",
+			"il/elle": "abaisse",
+			"nous": "abaissons",
+			"vous": "abaissez",
+			"ils/elles": "abaissent"
+		},
+		"imparfait": {
+			"j'": "abaissais",
+			"tu": "abaissais",
+			"il/elle": "abaissait",
+			"nous": "abaissions",
+			"vous": "abaissiez",
+			"ils/elles": "abaissaient"
+		},
+		"futur": {
+			"j'": "abaisserai",
+			"tu": "abaisseras",
+			"il/elle": "abaissera",
+			"nous": "abaisserons",
+			"vous": "abaisserez",
+			"ils/elles": "abaisseront"
+		},
+		"passé simple": {
+			"j'": "abaissai",
+			"tu": "abaissas",
+			"il/elle": "abaissa",
+			"nous": "abaissâmes",
+			"vous": "abaissâtes",
+			"ils/elles": "abaissèrent"
+		},
+		"passé composé": {
+			"j'": "ai abaissé",
+			"tu": "as abaissé",
+			"il/elle": "a abaissé",
+			"nous": "avons abaissé",
+			"vous": "avez abaissé",
+			"ils/elles": "ont abaissé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais abaissé",
+			"tu": "avais abaissé",
+			"il/elle": "avait abaissé",
+			"nous": "avions abaissé",
+			"vous": "aviez abaissé",
+			"ils/elles": "avaient abaissé"
+		},
+		"passé antérieur": {
+			"j'": "eus abaissé",
+			"tu": "eus abaissé",
+			"il/elle": "eut abaissé",
+			"nous": "eûmes abaissé",
+			"vous": "eûtes abaissé",
+			"ils/elles": "eurent abaissé"
+		},
+		"futur antérieur": {
+			"j'": "aurai abaissé",
+			"tu": "auras abaissé",
+			"il/elle": "aura abaissé",
+			"nous": "aurons abaissé",
+			"vous": "aurez abaissé",
+			"ils/elles": "auront abaissé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "abaisse",
+			"que": "vous abaissiez",
+			"qu'il/elle": "abaisse",
+			"qu'ils/elles": "abaissent"
+		},
+		"imparfait": {
+			"j'": "abaissasse",
+			"que": "vous abaissassiez",
+			"qu'il/elle": "abaissât",
+			"qu'ils/elles": "abaissassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse abaissé",
+			"que": "vous eussiez abaissé",
+			"qu'il/elle": "eût abaissé",
+			"qu'ils/elles": "eussent abaissé"
+		},
+		"passé": {
+			"j'": "aie abaissé",
+			"que": "vous ayez abaissé",
+			"qu'il/elle": "ait abaissé",
+			"qu'ils/elles": "aient abaissé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "abaisserais",
+			"tu": "abaisserais",
+			"il/elle": "abaisserait",
+			"nous": "abaisserions",
+			"vous": "abaisseriez",
+			"ils/elles": "abaisseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais abaissé",
+			"tu": "aurais abaissé",
+			"il/elle": "aurait abaissé",
+			"nous": "aurions abaissé",
+			"vous": "auriez abaissé",
+			"ils/elles": "auraient abaissé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse abaissé",
+			"tu": "eusses abaissé",
+			"il/elle": "eût abaissé",
+			"nous": "eussions abaissé",
+			"vous": "eussiez abaissé",
+			"ils/elles": "eussent abaissé"
+		}
+	},
+	"participe": {
+		"présent": { "abaissant": "" },
+		"passé composé": { "ayant": "abaissé" },
+		"passé": {
+			"masc.sg.:": "abaissé",
+			"masc.pl.:": "abaissés",
+			"fém.sg.:": "abaissée",
+			"fém.pl.:": "abaissées"
+		}
+	},
+	"imperatif": {
+		"présent": { "abaisse": "", "abaissons": "", "abaissez": "" },
+		"passé": { "aie": "abaissé", "ayons": "abaissé", "ayez": "abaissé" }
+	},
+	"infinitif": {
+		"présent": { "abaisser": "" },
+		"passé": { "avoir": "abaissé" }
+	}
+}

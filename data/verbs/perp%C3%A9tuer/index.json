@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "perpetuate; continue; carry on; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se perpétuer/ne pas perpétuer/ne pas se perpétuer",
+	"indicatif": {
+		"présent": {
+			"je": "perpétue",
+			"tu": "perpétues",
+			"il/elle": "perpétue",
+			"nous": "perpétuons",
+			"vous": "perpétuez",
+			"ils/elles": "perpétuent"
+		},
+		"imparfait": {
+			"je": "perpétuais",
+			"tu": "perpétuais",
+			"il/elle": "perpétuait",
+			"nous": "perpétuions",
+			"vous": "perpétuiez",
+			"ils/elles": "perpétuaient"
+		},
+		"futur": {
+			"je": "perpétuerai",
+			"tu": "perpétueras",
+			"il/elle": "perpétuera",
+			"nous": "perpétuerons",
+			"vous": "perpétuerez",
+			"ils/elles": "perpétueront"
+		},
+		"passé simple": {
+			"je": "perpétuai",
+			"tu": "perpétuas",
+			"il/elle": "perpétua",
+			"nous": "perpétuâmes",
+			"vous": "perpétuâtes",
+			"ils/elles": "perpétuèrent"
+		},
+		"passé composé": {
+			"j'": "ai perpétué",
+			"tu": "as perpétué",
+			"il/elle": "a perpétué",
+			"nous": "avons perpétué",
+			"vous": "avez perpétué",
+			"ils/elles": "ont perpétué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais perpétué",
+			"tu": "avais perpétué",
+			"il/elle": "avait perpétué",
+			"nous": "avions perpétué",
+			"vous": "aviez perpétué",
+			"ils/elles": "avaient perpétué"
+		},
+		"passé antérieur": {
+			"j'": "eus perpétué",
+			"tu": "eus perpétué",
+			"il/elle": "eut perpétué",
+			"nous": "eûmes perpétué",
+			"vous": "eûtes perpétué",
+			"ils/elles": "eurent perpétué"
+		},
+		"futur antérieur": {
+			"j'": "aurai perpétué",
+			"tu": "auras perpétué",
+			"il/elle": "aura perpétué",
+			"nous": "aurons perpétué",
+			"vous": "aurez perpétué",
+			"ils/elles": "auront perpétué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous perpétuiez",
+			"qu'il/elle": "perpétue",
+			"qu'ils/elles": "perpétuent"
+		},
+		"imparfait": {
+			"que": "vous perpétuassiez",
+			"qu'il/elle": "perpétuât",
+			"qu'ils/elles": "perpétuassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse perpétué",
+			"que": "vous eussiez perpétué",
+			"qu'il/elle": "eût perpétué",
+			"qu'ils/elles": "eussent perpétué"
+		},
+		"passé": {
+			"j'": "aie perpétué",
+			"que": "vous ayez perpétué",
+			"qu'il/elle": "ait perpétué",
+			"qu'ils/elles": "aient perpétué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "perpétuerais",
+			"tu": "perpétuerais",
+			"il/elle": "perpétuerait",
+			"nous": "perpétuerions",
+			"vous": "perpétueriez",
+			"ils/elles": "perpétueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais perpétué",
+			"tu": "aurais perpétué",
+			"il/elle": "aurait perpétué",
+			"nous": "aurions perpétué",
+			"vous": "auriez perpétué",
+			"ils/elles": "auraient perpétué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse perpétué",
+			"tu": "eusses perpétué",
+			"il/elle": "eût perpétué",
+			"nous": "eussions perpétué",
+			"vous": "eussiez perpétué",
+			"ils/elles": "eussent perpétué"
+		}
+	},
+	"participe": {
+		"présent": { "perpétuant": "" },
+		"passé composé": { "ayant": "perpétué" },
+		"passé": {
+			"masc.sg.:": "perpétué",
+			"masc.pl.:": "perpétués",
+			"fém.sg.:": "perpétuée",
+			"fém.pl.:": "perpétuées"
+		}
+	},
+	"imperatif": {
+		"présent": { "perpétue": "", "perpétuons": "", "perpétuez": "" },
+		"passé": { "aie": "perpétué", "ayons": "perpétué", "ayez": "perpétué" }
+	},
+	"infinitif": {
+		"présent": { "perpétuer": "" },
+		"passé": { "avoir": "perpétué" }
+	}
+}

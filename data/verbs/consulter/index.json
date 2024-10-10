@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "consult; see; refer; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se consulter/ne pas consulter/ne pas se consulter",
+	"indicatif": {
+		"présent": {
+			"je": "consulte",
+			"tu": "consultes",
+			"il/elle": "consulte",
+			"nous": "consultons",
+			"vous": "consultez",
+			"ils/elles": "consultent"
+		},
+		"imparfait": {
+			"je": "consultais",
+			"tu": "consultais",
+			"il/elle": "consultait",
+			"nous": "consultions",
+			"vous": "consultiez",
+			"ils/elles": "consultaient"
+		},
+		"futur": {
+			"je": "consulterai",
+			"tu": "consulteras",
+			"il/elle": "consultera",
+			"nous": "consulterons",
+			"vous": "consulterez",
+			"ils/elles": "consulteront"
+		},
+		"passé simple": {
+			"je": "consultai",
+			"tu": "consultas",
+			"il/elle": "consulta",
+			"nous": "consultâmes",
+			"vous": "consultâtes",
+			"ils/elles": "consultèrent"
+		},
+		"passé composé": {
+			"j'": "ai consulté",
+			"tu": "as consulté",
+			"il/elle": "a consulté",
+			"nous": "avons consulté",
+			"vous": "avez consulté",
+			"ils/elles": "ont consulté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais consulté",
+			"tu": "avais consulté",
+			"il/elle": "avait consulté",
+			"nous": "avions consulté",
+			"vous": "aviez consulté",
+			"ils/elles": "avaient consulté"
+		},
+		"passé antérieur": {
+			"j'": "eus consulté",
+			"tu": "eus consulté",
+			"il/elle": "eut consulté",
+			"nous": "eûmes consulté",
+			"vous": "eûtes consulté",
+			"ils/elles": "eurent consulté"
+		},
+		"futur antérieur": {
+			"j'": "aurai consulté",
+			"tu": "auras consulté",
+			"il/elle": "aura consulté",
+			"nous": "aurons consulté",
+			"vous": "aurez consulté",
+			"ils/elles": "auront consulté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous consultiez",
+			"qu'il/elle": "consulte",
+			"qu'ils/elles": "consultent"
+		},
+		"imparfait": {
+			"que": "vous consultassiez",
+			"qu'il/elle": "consultât",
+			"qu'ils/elles": "consultassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse consulté",
+			"que": "vous eussiez consulté",
+			"qu'il/elle": "eût consulté",
+			"qu'ils/elles": "eussent consulté"
+		},
+		"passé": {
+			"j'": "aie consulté",
+			"que": "vous ayez consulté",
+			"qu'il/elle": "ait consulté",
+			"qu'ils/elles": "aient consulté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "consulterais",
+			"tu": "consulterais",
+			"il/elle": "consulterait",
+			"nous": "consulterions",
+			"vous": "consulteriez",
+			"ils/elles": "consulteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais consulté",
+			"tu": "aurais consulté",
+			"il/elle": "aurait consulté",
+			"nous": "aurions consulté",
+			"vous": "auriez consulté",
+			"ils/elles": "auraient consulté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse consulté",
+			"tu": "eusses consulté",
+			"il/elle": "eût consulté",
+			"nous": "eussions consulté",
+			"vous": "eussiez consulté",
+			"ils/elles": "eussent consulté"
+		}
+	},
+	"participe": {
+		"présent": { "consultant": "" },
+		"passé composé": { "ayant": "consulté" },
+		"passé": {
+			"masc.sg.:": "consulté",
+			"masc.pl.:": "consultés",
+			"fém.sg.:": "consultée",
+			"fém.pl.:": "consultées"
+		}
+	},
+	"imperatif": {
+		"présent": { "consulte": "", "consultons": "", "consultez": "" },
+		"passé": { "aie": "consulté", "ayons": "consulté", "ayez": "consulté" }
+	},
+	"infinitif": {
+		"présent": { "consulter": "" },
+		"passé": { "avoir": "consulté" }
+	}
+}

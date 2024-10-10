@@ -1,0 +1,194 @@
+{
+	"name": "marcher",
+	"definition": "go back; return; get back; ...",
+	"model": "marcher",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "se retourner/ne pas retourner/ne pas se retourner",
+	"indicatif": {
+		"présent": {
+			"je": "retourne",
+			"tu": "retournes",
+			"il/elle": "retourne",
+			"nous": "retournons",
+			"vous": "retournez",
+			"ils/elles": "retournent"
+		},
+		"imparfait": {
+			"je": "retournais",
+			"tu": "retournais",
+			"il/elle": "retournait",
+			"nous": "retournions",
+			"vous": "retourniez",
+			"ils/elles": "retournaient"
+		},
+		"futur": {
+			"je": "retournerai",
+			"tu": "retourneras",
+			"il/elle": "retournera",
+			"nous": "retournerons",
+			"vous": "retournerez",
+			"ils/elles": "retourneront"
+		},
+		"passé simple": {
+			"je": "retournai",
+			"tu": "retournas",
+			"il/elle": "retourna",
+			"nous": "retournâmes",
+			"vous": "retournâtes",
+			"ils/elles": "retournèrent"
+		},
+		"passé composé": {
+			"j'": "ai retourné",
+			"tu": "es retourné",
+			"il/elle": "a retourné",
+			"nous": "sommes retournés",
+			"vous": "êtes retournés",
+			"ils/elles": "ont retourné",
+			"": "",
+			"je": "suis retourné",
+			"il": "est retourné",
+			"elle": "est retournée",
+			"ils": "sont retournés",
+			"elles": "sont retournées"
+		},
+		"plus-que-parfait": {
+			"j'": "étais retourné",
+			"tu": "étais retourné",
+			"il/elle": "avait retourné",
+			"nous": "étions retournés",
+			"vous": "étiez retournés",
+			"ils/elles": "avaient retourné",
+			"": "",
+			"il": "était retourné",
+			"elle": "était retournée",
+			"ils": "étaient retournés",
+			"elles": "étaient retournées"
+		},
+		"passé antérieur": {
+			"j'": "eus retourné",
+			"tu": "fus retourné",
+			"il/elle": "eut retourné",
+			"nous": "fûmes retournés",
+			"vous": "fûtes retournés",
+			"ils/elles": "eurent retourné",
+			"": "",
+			"je": "fus retourné",
+			"il": "fut retourné",
+			"elle": "fut retournée",
+			"ils": "furent retournés",
+			"elles": "furent retournées"
+		},
+		"futur antérieur": {
+			"j'": "aurai retourné",
+			"tu": "seras retourné",
+			"il/elle": "aura retourné",
+			"nous": "serons retournés",
+			"vous": "serez retournés",
+			"ils/elles": "auront retourné",
+			"": "",
+			"je": "serai retourné",
+			"il": "sera retourné",
+			"elle": "sera retournée",
+			"ils": "seront retournés",
+			"elles": "seront retournées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous retourniez",
+			"qu'il/elle": "retourne",
+			"qu'ils/elles": "retournent"
+		},
+		"imparfait": {
+			"que": "vous retournassiez",
+			"qu'il/elle": "retournât",
+			"qu'ils/elles": "retournassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse retourné",
+			"que": "vous fussiez retournés",
+			"qu'il/elle": "eût retourné",
+			"qu'ils/elles": "eussent retourné",
+			"": "",
+			"qu'il": "fût retourné",
+			"qu'elle": "fût retournée",
+			"qu'ils": "fussent retournés",
+			"qu'elles": "fussent retournées"
+		},
+		"passé": {
+			"j'": "aie retourné",
+			"que": "vous soyez retournés",
+			"qu'il/elle": "ait retourné",
+			"qu'ils/elles": "aient retourné",
+			"": "",
+			"qu'il": "soit retourné",
+			"qu'elle": "soit retournée",
+			"qu'ils": "soient retournés",
+			"qu'elles": "soient retournées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "retournerais",
+			"tu": "retournerais",
+			"il/elle": "retournerait",
+			"nous": "retournerions",
+			"vous": "retourneriez",
+			"ils/elles": "retourneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais retourné",
+			"tu": "serais retourné",
+			"il/elle": "aurait retourné",
+			"nous": "serions retournés",
+			"vous": "seriez retournés",
+			"ils/elles": "auraient retourné",
+			"": "",
+			"je": "serais retourné",
+			"il": "serait retourné",
+			"elle": "serait retournée",
+			"ils": "seraient retournés",
+			"elles": "seraient retournées"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse retourné",
+			"tu": "fusses retourné",
+			"il/elle": "eût retourné",
+			"nous": "fussions retournés",
+			"vous": "fussiez retournés",
+			"ils/elles": "eussent retourné",
+			"": "",
+			"je": "fusse retourné",
+			"il": "fût retourné",
+			"elle": "fût retournée",
+			"ils": "fussent retournés",
+			"elles": "fussent retournées"
+		}
+	},
+	"participe": {
+		"présent": { "retournant": "" },
+		"passé composé": { "ayant": "retourné", "": "", "étant": "retournée" },
+		"passé": {
+			"masc.sg.:": "retourné",
+			"masc.pl.:": "retournés",
+			"fém.sg.:": "retournée",
+			"fém.pl.:": "retournées"
+		}
+	},
+	"imperatif": {
+		"présent": { "retourne": "", "retournons": "", "retournez": "" },
+		"passé": {
+			"aie": "retourné",
+			"ayons": "retourné",
+			"ayez": "retourné",
+			"": "",
+			"sois": "retourné",
+			"soyons": "retourné",
+			"soyez": "retourné"
+		}
+	},
+	"infinitif": {
+		"présent": { "retourner": "" },
+		"passé": { "avoir": "retourné", "": "", "être": "retourné" }
+	}
+}

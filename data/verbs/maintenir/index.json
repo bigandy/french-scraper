@@ -1,0 +1,141 @@
+{
+	"name": "tenir",
+	"definition": "maintain; keep; hold; ...",
+	"model": "tenir",
+	"auxiliary": "avoir",
+	"otherForms": "se maintenir/ne pas maintenir/ne pas se maintenir",
+	"indicatif": {
+		"présent": {
+			"je": "maintiens",
+			"tu": "maintiens",
+			"il/elle": "maintient",
+			"nous": "maintenons",
+			"vous": "maintenez",
+			"ils/elles": "maintiennent"
+		},
+		"imparfait": {
+			"je": "maintenais",
+			"tu": "maintenais",
+			"il/elle": "maintenait",
+			"nous": "maintenions",
+			"vous": "mainteniez",
+			"ils/elles": "maintenaient"
+		},
+		"futur": {
+			"je": "maintiendrai",
+			"tu": "maintiendras",
+			"il/elle": "maintiendra",
+			"nous": "maintiendrons",
+			"vous": "maintiendrez",
+			"ils/elles": "maintiendront"
+		},
+		"passé simple": {
+			"je": "maintins",
+			"tu": "maintins",
+			"il/elle": "maintint",
+			"nous": "maintînmes",
+			"vous": "maintîntes",
+			"ils/elles": "maintinrent"
+		},
+		"passé composé": {
+			"j'": "ai maintenu",
+			"tu": "as maintenu",
+			"il/elle": "a maintenu",
+			"nous": "avons maintenu",
+			"vous": "avez maintenu",
+			"ils/elles": "ont maintenu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais maintenu",
+			"tu": "avais maintenu",
+			"il/elle": "avait maintenu",
+			"nous": "avions maintenu",
+			"vous": "aviez maintenu",
+			"ils/elles": "avaient maintenu"
+		},
+		"passé antérieur": {
+			"j'": "eus maintenu",
+			"tu": "eus maintenu",
+			"il/elle": "eut maintenu",
+			"nous": "eûmes maintenu",
+			"vous": "eûtes maintenu",
+			"ils/elles": "eurent maintenu"
+		},
+		"futur antérieur": {
+			"j'": "aurai maintenu",
+			"tu": "auras maintenu",
+			"il/elle": "aura maintenu",
+			"nous": "aurons maintenu",
+			"vous": "aurez maintenu",
+			"ils/elles": "auront maintenu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous mainteniez",
+			"qu'il/elle": "maintienne",
+			"qu'ils/elles": "maintiennent"
+		},
+		"imparfait": {
+			"que": "vous maintinssiez",
+			"qu'il/elle": "maintînt",
+			"qu'ils/elles": "maintinssent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse maintenu",
+			"que": "vous eussiez maintenu",
+			"qu'il/elle": "eût maintenu",
+			"qu'ils/elles": "eussent maintenu"
+		},
+		"passé": {
+			"j'": "aie maintenu",
+			"que": "vous ayez maintenu",
+			"qu'il/elle": "ait maintenu",
+			"qu'ils/elles": "aient maintenu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "maintiendrais",
+			"tu": "maintiendrais",
+			"il/elle": "maintiendrait",
+			"nous": "maintiendrions",
+			"vous": "maintiendriez",
+			"ils/elles": "maintiendraient"
+		},
+		"passé première forme": {
+			"j'": "aurais maintenu",
+			"tu": "aurais maintenu",
+			"il/elle": "aurait maintenu",
+			"nous": "aurions maintenu",
+			"vous": "auriez maintenu",
+			"ils/elles": "auraient maintenu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse maintenu",
+			"tu": "eusses maintenu",
+			"il/elle": "eût maintenu",
+			"nous": "eussions maintenu",
+			"vous": "eussiez maintenu",
+			"ils/elles": "eussent maintenu"
+		}
+	},
+	"participe": {
+		"présent": { "maintenant": "" },
+		"passé composé": { "ayant": "maintenu" },
+		"passé": {
+			"masc.sg.:": "maintenu",
+			"masc.pl.:": "maintenus",
+			"fém.sg.:": "maintenue",
+			"fém.pl.:": "maintenues"
+		}
+	},
+	"imperatif": {
+		"présent": { "maintiens": "", "maintenons": "", "maintenez": "" },
+		"passé": { "aie": "maintenu", "ayons": "maintenu", "ayez": "maintenu" }
+	},
+	"infinitif": {
+		"présent": { "maintenir": "" },
+		"passé": { "avoir": "maintenu" }
+	}
+}

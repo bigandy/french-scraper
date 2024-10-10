@@ -1,0 +1,138 @@
+{
+	"name": "commencer",
+	"definition": "catch; nail; stick; ...",
+	"model": "commencer",
+	"auxiliary": "avoir",
+	"otherForms": "se coincer/ne pas coincer/ne pas se coincer",
+	"indicatif": {
+		"présent": {
+			"je": "coince",
+			"tu": "coinces",
+			"il/elle": "coince",
+			"nous": "coinçons",
+			"vous": "coincez",
+			"ils/elles": "coincent"
+		},
+		"imparfait": {
+			"je": "coinçais",
+			"tu": "coinçais",
+			"il/elle": "coinçait",
+			"nous": "coincions",
+			"vous": "coinciez",
+			"ils/elles": "coinçaient"
+		},
+		"futur": {
+			"je": "coincerai",
+			"tu": "coinceras",
+			"il/elle": "coincera",
+			"nous": "coincerons",
+			"vous": "coincerez",
+			"ils/elles": "coinceront"
+		},
+		"passé simple": {
+			"je": "coinçai",
+			"tu": "coinças",
+			"il/elle": "coinça",
+			"nous": "coinçâmes",
+			"vous": "coinçâtes",
+			"ils/elles": "coincèrent"
+		},
+		"passé composé": {
+			"j'": "ai coincé",
+			"tu": "as coincé",
+			"il/elle": "a coincé",
+			"nous": "avons coincé",
+			"vous": "avez coincé",
+			"ils/elles": "ont coincé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais coincé",
+			"tu": "avais coincé",
+			"il/elle": "avait coincé",
+			"nous": "avions coincé",
+			"vous": "aviez coincé",
+			"ils/elles": "avaient coincé"
+		},
+		"passé antérieur": {
+			"j'": "eus coincé",
+			"tu": "eus coincé",
+			"il/elle": "eut coincé",
+			"nous": "eûmes coincé",
+			"vous": "eûtes coincé",
+			"ils/elles": "eurent coincé"
+		},
+		"futur antérieur": {
+			"j'": "aurai coincé",
+			"tu": "auras coincé",
+			"il/elle": "aura coincé",
+			"nous": "aurons coincé",
+			"vous": "aurez coincé",
+			"ils/elles": "auront coincé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous coinciez",
+			"qu'il/elle": "coince",
+			"qu'ils/elles": "coincent"
+		},
+		"imparfait": {
+			"que": "vous coinçassiez",
+			"qu'il/elle": "coinçât",
+			"qu'ils/elles": "coinçassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse coincé",
+			"que": "vous eussiez coincé",
+			"qu'il/elle": "eût coincé",
+			"qu'ils/elles": "eussent coincé"
+		},
+		"passé": {
+			"j'": "aie coincé",
+			"que": "vous ayez coincé",
+			"qu'il/elle": "ait coincé",
+			"qu'ils/elles": "aient coincé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "coincerais",
+			"tu": "coincerais",
+			"il/elle": "coincerait",
+			"nous": "coincerions",
+			"vous": "coinceriez",
+			"ils/elles": "coinceraient"
+		},
+		"passé première forme": {
+			"j'": "aurais coincé",
+			"tu": "aurais coincé",
+			"il/elle": "aurait coincé",
+			"nous": "aurions coincé",
+			"vous": "auriez coincé",
+			"ils/elles": "auraient coincé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse coincé",
+			"tu": "eusses coincé",
+			"il/elle": "eût coincé",
+			"nous": "eussions coincé",
+			"vous": "eussiez coincé",
+			"ils/elles": "eussent coincé"
+		}
+	},
+	"participe": {
+		"présent": { "coinçant": "" },
+		"passé composé": { "ayant": "coincé" },
+		"passé": {
+			"masc.sg.:": "coincé",
+			"masc.pl.:": "coincés",
+			"fém.sg.:": "coincée",
+			"fém.pl.:": "coincées"
+		}
+	},
+	"imperatif": {
+		"présent": { "coince": "", "coinçons": "", "coincez": "" },
+		"passé": { "aie": "coincé", "ayons": "coincé", "ayez": "coincé" }
+	},
+	"infinitif": { "présent": { "coincer": "" }, "passé": { "avoir": "coincé" } }
+}

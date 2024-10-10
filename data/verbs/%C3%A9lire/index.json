@@ -1,0 +1,140 @@
+{
+	"name": "lire",
+	"definition": "elect; vote; choose; ...",
+	"model": "lire",
+	"auxiliary": "avoir",
+	"otherForms": "s'élire/ne pas élire/ne pas s'élire",
+	"indicatif": {
+		"présent": {
+			"j'": "élis",
+			"tu": "élis",
+			"il/elle": "élit",
+			"nous": "élisons",
+			"vous": "élisez",
+			"ils/elles": "élisent"
+		},
+		"imparfait": {
+			"j'": "élisais",
+			"tu": "élisais",
+			"il/elle": "élisait",
+			"nous": "élisions",
+			"vous": "élisiez",
+			"ils/elles": "élisaient"
+		},
+		"futur": {
+			"j'": "élirai",
+			"tu": "éliras",
+			"il/elle": "élira",
+			"nous": "élirons",
+			"vous": "élirez",
+			"ils/elles": "éliront"
+		},
+		"passé simple": {
+			"j'": "élus",
+			"tu": "élus",
+			"il/elle": "élut",
+			"nous": "élûmes",
+			"vous": "élûtes",
+			"ils/elles": "élurent"
+		},
+		"passé composé": {
+			"j'": "ai élu",
+			"tu": "as élu",
+			"il/elle": "a élu",
+			"nous": "avons élu",
+			"vous": "avez élu",
+			"ils/elles": "ont élu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais élu",
+			"tu": "avais élu",
+			"il/elle": "avait élu",
+			"nous": "avions élu",
+			"vous": "aviez élu",
+			"ils/elles": "avaient élu"
+		},
+		"passé antérieur": {
+			"j'": "eus élu",
+			"tu": "eus élu",
+			"il/elle": "eut élu",
+			"nous": "eûmes élu",
+			"vous": "eûtes élu",
+			"ils/elles": "eurent élu"
+		},
+		"futur antérieur": {
+			"j'": "aurai élu",
+			"tu": "auras élu",
+			"il/elle": "aura élu",
+			"nous": "aurons élu",
+			"vous": "aurez élu",
+			"ils/elles": "auront élu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "élise",
+			"que": "vous élisiez",
+			"qu'il/elle": "élise",
+			"qu'ils/elles": "élisent"
+		},
+		"imparfait": {
+			"j'": "élusse",
+			"que": "vous élussiez",
+			"qu'il/elle": "élût",
+			"qu'ils/elles": "élussent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse élu",
+			"que": "vous eussiez élu",
+			"qu'il/elle": "eût élu",
+			"qu'ils/elles": "eussent élu"
+		},
+		"passé": {
+			"j'": "aie élu",
+			"que": "vous ayez élu",
+			"qu'il/elle": "ait élu",
+			"qu'ils/elles": "aient élu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "élirais",
+			"tu": "élirais",
+			"il/elle": "élirait",
+			"nous": "élirions",
+			"vous": "éliriez",
+			"ils/elles": "éliraient"
+		},
+		"passé première forme": {
+			"j'": "aurais élu",
+			"tu": "aurais élu",
+			"il/elle": "aurait élu",
+			"nous": "aurions élu",
+			"vous": "auriez élu",
+			"ils/elles": "auraient élu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse élu",
+			"tu": "eusses élu",
+			"il/elle": "eût élu",
+			"nous": "eussions élu",
+			"vous": "eussiez élu",
+			"ils/elles": "eussent élu"
+		}
+	},
+	"participe": {
+		"présent": { "élisant": "" },
+		"passé composé": { "ayant": "élu" },
+		"passé": {
+			"masc.sg.:": "élu",
+			"masc.pl.:": "élus",
+			"fém.sg.:": "élue",
+			"fém.pl.:": "élues"
+		}
+	},
+	"imperatif": {
+		"présent": { "élis": "", "élisons": "", "élisez": "" },
+		"passé": { "aie": "élu", "ayons": "élu", "ayez": "élu" }
+	},
+	"infinitif": { "présent": { "élire": "" }, "passé": { "avoir": "élu" } }
+}

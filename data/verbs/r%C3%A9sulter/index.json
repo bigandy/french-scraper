@@ -1,0 +1,151 @@
+{
+	"name": "incomber",
+	"definition": "result; result from; arise from; ...",
+	"model": "incomber",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "se résulter/ne pas résulter/ne pas se résulter",
+	"indicatif": {
+		"présent": { "il/elle": "résulte", "ils/elles": "résultent" },
+		"imparfait": { "il/elle": "résultait", "ils/elles": "résultaient" },
+		"futur": { "il/elle": "résultera", "ils/elles": "résulteront" },
+		"passé simple": { "il/elle": "résulta", "ils/elles": "résultèrent" },
+		"passé composé": {
+			"j'": "ai résulté",
+			"tu": "es résulté",
+			"il/elle": "a résulté",
+			"nous": "sommes résulté",
+			"vous": "êtes résulté",
+			"ils/elles": "ont résulté",
+			"": "",
+			"je": "suis résulté",
+			"il": "est résulté",
+			"elle": "est résulté",
+			"ils": "sont résulté",
+			"elles": "sont résulté"
+		},
+		"plus-que-parfait": {
+			"j'": "étais résulté",
+			"tu": "étais résulté",
+			"il/elle": "avait résulté",
+			"nous": "étions résulté",
+			"vous": "étiez résulté",
+			"ils/elles": "avaient résulté",
+			"": "",
+			"il": "était résulté",
+			"elle": "était résulté",
+			"ils": "étaient résulté",
+			"elles": "étaient résulté"
+		},
+		"passé antérieur": {
+			"j'": "eus résulté",
+			"tu": "fus résulté",
+			"il/elle": "eut résulté",
+			"nous": "fûmes résulté",
+			"vous": "fûtes résulté",
+			"ils/elles": "eurent résulté",
+			"": "",
+			"je": "fus résulté",
+			"il": "fut résulté",
+			"elle": "fut résulté",
+			"ils": "furent résulté",
+			"elles": "furent résulté"
+		},
+		"futur antérieur": {
+			"j'": "aurai résulté",
+			"tu": "seras résulté",
+			"il/elle": "aura résulté",
+			"nous": "serons résulté",
+			"vous": "serez résulté",
+			"ils/elles": "auront résulté",
+			"": "",
+			"je": "serai résulté",
+			"il": "sera résulté",
+			"elle": "sera résulté",
+			"ils": "seront résulté",
+			"elles": "seront résulté"
+		}
+	},
+	"subjonctif": {
+		"présent": { "qu'il/elle": "résulte", "qu'ils/elles": "résultent" },
+		"imparfait": { "qu'il/elle": "résultât", "qu'ils/elles": "résultassent" },
+		"plus-que-parfait": {
+			"j'": "eusse résulté",
+			"que": "vous fussiez résulté",
+			"qu'il/elle": "eût résulté",
+			"qu'ils/elles": "eussent résulté",
+			"": "",
+			"qu'il": "fût résulté",
+			"qu'elle": "fût résulté",
+			"qu'ils": "fussent résulté",
+			"qu'elles": "fussent résulté"
+		},
+		"passé": {
+			"j'": "aie résulté",
+			"que": "vous soyez résulté",
+			"qu'il/elle": "ait résulté",
+			"qu'ils/elles": "aient résulté",
+			"": "",
+			"qu'il": "soit résulté",
+			"qu'elle": "soit résulté",
+			"qu'ils": "soient résulté",
+			"qu'elles": "soient résulté"
+		}
+	},
+	"conditionnel": {
+		"présent": { "il/elle": "résulterait", "ils/elles": "résulteraient" },
+		"passé première forme": {
+			"j'": "aurais résulté",
+			"tu": "serais résulté",
+			"il/elle": "aurait résulté",
+			"nous": "serions résulté",
+			"vous": "seriez résulté",
+			"ils/elles": "auraient résulté",
+			"": "",
+			"je": "serais résulté",
+			"il": "serait résulté",
+			"elle": "serait résulté",
+			"ils": "seraient résulté",
+			"elles": "seraient résulté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse résulté",
+			"tu": "fusses résulté",
+			"il/elle": "eût résulté",
+			"nous": "fussions résulté",
+			"vous": "fussiez résulté",
+			"ils/elles": "eussent résulté",
+			"": "",
+			"je": "fusse résulté",
+			"il": "fût résulté",
+			"elle": "fût résulté",
+			"ils": "fussent résulté",
+			"elles": "fussent résulté"
+		}
+	},
+	"participe": {
+		"présent": { "résultant": "" },
+		"passé composé": { "ayant": "résulté", "": "", "étant": "résulté" },
+		"passé": {
+			"masc.sg.:": "résulté",
+			"masc.pl.:": "résulté",
+			"fém.sg.:": "résulté",
+			"fém.pl.:": "résulté"
+		}
+	},
+	"imperatif": {
+		"présent": {},
+		"passé": {
+			"aie": "résulté",
+			"ayons": "résulté",
+			"ayez": "résulté",
+			"": "",
+			"sois": "résulté",
+			"soyons": "résulté",
+			"soyez": "résulté"
+		}
+	},
+	"infinitif": {
+		"présent": { "résulter": "" },
+		"passé": { "avoir": "résulté", "": "", "être": "résulté" }
+	}
+}

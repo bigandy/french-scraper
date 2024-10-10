@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "decide; slice; cut; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se trancher/ne pas trancher/ne pas se trancher",
+	"indicatif": {
+		"présent": {
+			"je": "tranche",
+			"tu": "tranches",
+			"il/elle": "tranche",
+			"nous": "tranchons",
+			"vous": "tranchez",
+			"ils/elles": "tranchent"
+		},
+		"imparfait": {
+			"je": "tranchais",
+			"tu": "tranchais",
+			"il/elle": "tranchait",
+			"nous": "tranchions",
+			"vous": "tranchiez",
+			"ils/elles": "tranchaient"
+		},
+		"futur": {
+			"je": "trancherai",
+			"tu": "trancheras",
+			"il/elle": "tranchera",
+			"nous": "trancherons",
+			"vous": "trancherez",
+			"ils/elles": "trancheront"
+		},
+		"passé simple": {
+			"je": "tranchai",
+			"tu": "tranchas",
+			"il/elle": "trancha",
+			"nous": "tranchâmes",
+			"vous": "tranchâtes",
+			"ils/elles": "tranchèrent"
+		},
+		"passé composé": {
+			"j'": "ai tranché",
+			"tu": "as tranché",
+			"il/elle": "a tranché",
+			"nous": "avons tranché",
+			"vous": "avez tranché",
+			"ils/elles": "ont tranché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais tranché",
+			"tu": "avais tranché",
+			"il/elle": "avait tranché",
+			"nous": "avions tranché",
+			"vous": "aviez tranché",
+			"ils/elles": "avaient tranché"
+		},
+		"passé antérieur": {
+			"j'": "eus tranché",
+			"tu": "eus tranché",
+			"il/elle": "eut tranché",
+			"nous": "eûmes tranché",
+			"vous": "eûtes tranché",
+			"ils/elles": "eurent tranché"
+		},
+		"futur antérieur": {
+			"j'": "aurai tranché",
+			"tu": "auras tranché",
+			"il/elle": "aura tranché",
+			"nous": "aurons tranché",
+			"vous": "aurez tranché",
+			"ils/elles": "auront tranché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous tranchiez",
+			"qu'il/elle": "tranche",
+			"qu'ils/elles": "tranchent"
+		},
+		"imparfait": {
+			"que": "vous tranchassiez",
+			"qu'il/elle": "tranchât",
+			"qu'ils/elles": "tranchassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse tranché",
+			"que": "vous eussiez tranché",
+			"qu'il/elle": "eût tranché",
+			"qu'ils/elles": "eussent tranché"
+		},
+		"passé": {
+			"j'": "aie tranché",
+			"que": "vous ayez tranché",
+			"qu'il/elle": "ait tranché",
+			"qu'ils/elles": "aient tranché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "trancherais",
+			"tu": "trancherais",
+			"il/elle": "trancherait",
+			"nous": "trancherions",
+			"vous": "trancheriez",
+			"ils/elles": "trancheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais tranché",
+			"tu": "aurais tranché",
+			"il/elle": "aurait tranché",
+			"nous": "aurions tranché",
+			"vous": "auriez tranché",
+			"ils/elles": "auraient tranché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse tranché",
+			"tu": "eusses tranché",
+			"il/elle": "eût tranché",
+			"nous": "eussions tranché",
+			"vous": "eussiez tranché",
+			"ils/elles": "eussent tranché"
+		}
+	},
+	"participe": {
+		"présent": { "tranchant": "" },
+		"passé composé": { "ayant": "tranché" },
+		"passé": {
+			"masc.sg.:": "tranché",
+			"masc.pl.:": "tranchés",
+			"fém.sg.:": "tranchée",
+			"fém.pl.:": "tranchées"
+		}
+	},
+	"imperatif": {
+		"présent": { "tranche": "", "tranchons": "", "tranchez": "" },
+		"passé": { "aie": "tranché", "ayons": "tranché", "ayez": "tranché" }
+	},
+	"infinitif": {
+		"présent": { "trancher": "" },
+		"passé": { "avoir": "tranché" }
+	}
+}

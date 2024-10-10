@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "specify; indicate; state; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se spécifier/ne pas spécifier/ne pas se spécifier",
+	"indicatif": {
+		"présent": {
+			"je": "spécifie",
+			"tu": "spécifies",
+			"il/elle": "spécifie",
+			"nous": "spécifions",
+			"vous": "spécifiez",
+			"ils/elles": "spécifient"
+		},
+		"imparfait": {
+			"je": "spécifiais",
+			"tu": "spécifiais",
+			"il/elle": "spécifiait",
+			"nous": "spécifiions",
+			"vous": "spécifiiez",
+			"ils/elles": "spécifiaient"
+		},
+		"futur": {
+			"je": "spécifierai",
+			"tu": "spécifieras",
+			"il/elle": "spécifiera",
+			"nous": "spécifierons",
+			"vous": "spécifierez",
+			"ils/elles": "spécifieront"
+		},
+		"passé simple": {
+			"je": "spécifiai",
+			"tu": "spécifias",
+			"il/elle": "spécifia",
+			"nous": "spécifiâmes",
+			"vous": "spécifiâtes",
+			"ils/elles": "spécifièrent"
+		},
+		"passé composé": {
+			"j'": "ai spécifié",
+			"tu": "as spécifié",
+			"il/elle": "a spécifié",
+			"nous": "avons spécifié",
+			"vous": "avez spécifié",
+			"ils/elles": "ont spécifié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais spécifié",
+			"tu": "avais spécifié",
+			"il/elle": "avait spécifié",
+			"nous": "avions spécifié",
+			"vous": "aviez spécifié",
+			"ils/elles": "avaient spécifié"
+		},
+		"passé antérieur": {
+			"j'": "eus spécifié",
+			"tu": "eus spécifié",
+			"il/elle": "eut spécifié",
+			"nous": "eûmes spécifié",
+			"vous": "eûtes spécifié",
+			"ils/elles": "eurent spécifié"
+		},
+		"futur antérieur": {
+			"j'": "aurai spécifié",
+			"tu": "auras spécifié",
+			"il/elle": "aura spécifié",
+			"nous": "aurons spécifié",
+			"vous": "aurez spécifié",
+			"ils/elles": "auront spécifié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous spécifiiez",
+			"qu'il/elle": "spécifie",
+			"qu'ils/elles": "spécifient"
+		},
+		"imparfait": {
+			"que": "vous spécifiassiez",
+			"qu'il/elle": "spécifiât",
+			"qu'ils/elles": "spécifiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse spécifié",
+			"que": "vous eussiez spécifié",
+			"qu'il/elle": "eût spécifié",
+			"qu'ils/elles": "eussent spécifié"
+		},
+		"passé": {
+			"j'": "aie spécifié",
+			"que": "vous ayez spécifié",
+			"qu'il/elle": "ait spécifié",
+			"qu'ils/elles": "aient spécifié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "spécifierais",
+			"tu": "spécifierais",
+			"il/elle": "spécifierait",
+			"nous": "spécifierions",
+			"vous": "spécifieriez",
+			"ils/elles": "spécifieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais spécifié",
+			"tu": "aurais spécifié",
+			"il/elle": "aurait spécifié",
+			"nous": "aurions spécifié",
+			"vous": "auriez spécifié",
+			"ils/elles": "auraient spécifié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse spécifié",
+			"tu": "eusses spécifié",
+			"il/elle": "eût spécifié",
+			"nous": "eussions spécifié",
+			"vous": "eussiez spécifié",
+			"ils/elles": "eussent spécifié"
+		}
+	},
+	"participe": {
+		"présent": { "spécifiant": "" },
+		"passé composé": { "ayant": "spécifié" },
+		"passé": {
+			"masc.sg.:": "spécifié",
+			"masc.pl.:": "spécifiés",
+			"fém.sg.:": "spécifiée",
+			"fém.pl.:": "spécifiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "spécifie": "", "spécifions": "", "spécifiez": "" },
+		"passé": { "aie": "spécifié", "ayons": "spécifié", "ayez": "spécifié" }
+	},
+	"infinitif": {
+		"présent": { "spécifier": "" },
+		"passé": { "avoir": "spécifié" }
+	}
+}

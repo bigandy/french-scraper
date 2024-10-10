@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "\n              collaborate; cooperate; work together; ...\n            ",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas collaborer",
+	"indicatif": {
+		"présent": {
+			"je": "collabore",
+			"tu": "collabores",
+			"il/elle": "collabore",
+			"nous": "collaborons",
+			"vous": "collaborez",
+			"ils/elles": "collaborent"
+		},
+		"imparfait": {
+			"je": "collaborais",
+			"tu": "collaborais",
+			"il/elle": "collaborait",
+			"nous": "collaborions",
+			"vous": "collaboriez",
+			"ils/elles": "collaboraient"
+		},
+		"futur": {
+			"je": "collaborerai",
+			"tu": "collaboreras",
+			"il/elle": "collaborera",
+			"nous": "collaborerons",
+			"vous": "collaborerez",
+			"ils/elles": "collaboreront"
+		},
+		"passé simple": {
+			"je": "collaborai",
+			"tu": "collaboras",
+			"il/elle": "collabora",
+			"nous": "collaborâmes",
+			"vous": "collaborâtes",
+			"ils/elles": "collaborèrent"
+		},
+		"passé composé": {
+			"j'": "ai collaboré",
+			"tu": "as collaboré",
+			"il/elle": "a collaboré",
+			"nous": "avons collaboré",
+			"vous": "avez collaboré",
+			"ils/elles": "ont collaboré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais collaboré",
+			"tu": "avais collaboré",
+			"il/elle": "avait collaboré",
+			"nous": "avions collaboré",
+			"vous": "aviez collaboré",
+			"ils/elles": "avaient collaboré"
+		},
+		"passé antérieur": {
+			"j'": "eus collaboré",
+			"tu": "eus collaboré",
+			"il/elle": "eut collaboré",
+			"nous": "eûmes collaboré",
+			"vous": "eûtes collaboré",
+			"ils/elles": "eurent collaboré"
+		},
+		"futur antérieur": {
+			"j'": "aurai collaboré",
+			"tu": "auras collaboré",
+			"il/elle": "aura collaboré",
+			"nous": "aurons collaboré",
+			"vous": "aurez collaboré",
+			"ils/elles": "auront collaboré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous collaboriez",
+			"qu'il/elle": "collabore",
+			"qu'ils/elles": "collaborent"
+		},
+		"imparfait": {
+			"que": "vous collaborassiez",
+			"qu'il/elle": "collaborât",
+			"qu'ils/elles": "collaborassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse collaboré",
+			"que": "vous eussiez collaboré",
+			"qu'il/elle": "eût collaboré",
+			"qu'ils/elles": "eussent collaboré"
+		},
+		"passé": {
+			"j'": "aie collaboré",
+			"que": "vous ayez collaboré",
+			"qu'il/elle": "ait collaboré",
+			"qu'ils/elles": "aient collaboré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "collaborerais",
+			"tu": "collaborerais",
+			"il/elle": "collaborerait",
+			"nous": "collaborerions",
+			"vous": "collaboreriez",
+			"ils/elles": "collaboreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais collaboré",
+			"tu": "aurais collaboré",
+			"il/elle": "aurait collaboré",
+			"nous": "aurions collaboré",
+			"vous": "auriez collaboré",
+			"ils/elles": "auraient collaboré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse collaboré",
+			"tu": "eusses collaboré",
+			"il/elle": "eût collaboré",
+			"nous": "eussions collaboré",
+			"vous": "eussiez collaboré",
+			"ils/elles": "eussent collaboré"
+		}
+	},
+	"participe": {
+		"présent": { "collaborant": "" },
+		"passé composé": { "ayant": "collaboré" },
+		"passé": {
+			"masc.sg.:": "collaboré",
+			"masc.pl.:": "collaborés",
+			"fém.sg.:": "collaborée",
+			"fém.pl.:": "collaborées"
+		}
+	},
+	"imperatif": {
+		"présent": { "collabore": "", "collaborons": "", "collaborez": "" },
+		"passé": { "aie": "collaboré", "ayons": "collaboré", "ayez": "collaboré" }
+	},
+	"infinitif": {
+		"présent": { "collaborer": "" },
+		"passé": { "avoir": "collaboré" }
+	}
+}

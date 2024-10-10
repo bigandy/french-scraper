@@ -1,0 +1,140 @@
+{
+	"name": "acquérir",
+	"definition": "acquire; gain; develop; ...",
+	"model": "acquérir",
+	"auxiliary": "avoir",
+	"otherForms": "s'acquérir/ne pas acquérir/ne pas s'acquérir",
+	"indicatif": {
+		"présent": {
+			"j'": "acquiers",
+			"tu": "acquiers",
+			"il/elle": "acquiert",
+			"nous": "acquérons",
+			"vous": "acquérez",
+			"ils/elles": "acquièrent"
+		},
+		"imparfait": {
+			"j'": "acquérais",
+			"tu": "acquérais",
+			"il/elle": "acquérait",
+			"nous": "acquérions",
+			"vous": "acquériez",
+			"ils/elles": "acquéraient"
+		},
+		"futur": {
+			"j'": "acquerrai",
+			"tu": "acquerras",
+			"il/elle": "acquerra",
+			"nous": "acquerrons",
+			"vous": "acquerrez",
+			"ils/elles": "acquerront"
+		},
+		"passé simple": {
+			"j'": "acquis",
+			"tu": "acquis",
+			"il/elle": "acquit",
+			"nous": "acquîmes",
+			"vous": "acquîtes",
+			"ils/elles": "acquirent"
+		},
+		"passé composé": {
+			"j'": "ai acquis",
+			"tu": "as acquis",
+			"il/elle": "a acquis",
+			"nous": "avons acquis",
+			"vous": "avez acquis",
+			"ils/elles": "ont acquis"
+		},
+		"plus-que-parfait": {
+			"j'": "avais acquis",
+			"tu": "avais acquis",
+			"il/elle": "avait acquis",
+			"nous": "avions acquis",
+			"vous": "aviez acquis",
+			"ils/elles": "avaient acquis"
+		},
+		"passé antérieur": {
+			"j'": "eus acquis",
+			"tu": "eus acquis",
+			"il/elle": "eut acquis",
+			"nous": "eûmes acquis",
+			"vous": "eûtes acquis",
+			"ils/elles": "eurent acquis"
+		},
+		"futur antérieur": {
+			"j'": "aurai acquis",
+			"tu": "auras acquis",
+			"il/elle": "aura acquis",
+			"nous": "aurons acquis",
+			"vous": "aurez acquis",
+			"ils/elles": "auront acquis"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "acquière",
+			"que": "vous acquériez",
+			"qu'il/elle": "acquière",
+			"qu'ils/elles": "acquièrent"
+		},
+		"imparfait": {
+			"j'": "acquisse",
+			"que": "vous acquissiez",
+			"qu'il/elle": "acquît",
+			"qu'ils/elles": "acquissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse acquis",
+			"que": "vous eussiez acquis",
+			"qu'il/elle": "eût acquis",
+			"qu'ils/elles": "eussent acquis"
+		},
+		"passé": {
+			"j'": "aie acquis",
+			"que": "vous ayez acquis",
+			"qu'il/elle": "ait acquis",
+			"qu'ils/elles": "aient acquis"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "acquerrais",
+			"tu": "acquerrais",
+			"il/elle": "acquerrait",
+			"nous": "acquerrions",
+			"vous": "acquerriez",
+			"ils/elles": "acquerraient"
+		},
+		"passé première forme": {
+			"j'": "aurais acquis",
+			"tu": "aurais acquis",
+			"il/elle": "aurait acquis",
+			"nous": "aurions acquis",
+			"vous": "auriez acquis",
+			"ils/elles": "auraient acquis"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse acquis",
+			"tu": "eusses acquis",
+			"il/elle": "eût acquis",
+			"nous": "eussions acquis",
+			"vous": "eussiez acquis",
+			"ils/elles": "eussent acquis"
+		}
+	},
+	"participe": {
+		"présent": { "acquérant": "" },
+		"passé composé": { "ayant": "acquis" },
+		"passé": {
+			"masc.sg.:": "acquis",
+			"masc.pl.:": "acquis",
+			"fém.sg.:": "acquise",
+			"fém.pl.:": "acquises"
+		}
+	},
+	"imperatif": {
+		"présent": { "acquiers": "", "acquérons": "", "acquérez": "" },
+		"passé": { "aie": "acquis", "ayons": "acquis", "ayez": "acquis" }
+	},
+	"infinitif": { "présent": { "acquérir": "" }, "passé": { "avoir": "acquis" } }
+}

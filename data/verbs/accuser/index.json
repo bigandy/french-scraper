@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "accuse; blame; charge; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'accuser/ne pas accuser/ne pas s'accuser",
+	"indicatif": {
+		"présent": {
+			"j'": "accuse",
+			"tu": "accuses",
+			"il/elle": "accuse",
+			"nous": "accusons",
+			"vous": "accusez",
+			"ils/elles": "accusent"
+		},
+		"imparfait": {
+			"j'": "accusais",
+			"tu": "accusais",
+			"il/elle": "accusait",
+			"nous": "accusions",
+			"vous": "accusiez",
+			"ils/elles": "accusaient"
+		},
+		"futur": {
+			"j'": "accuserai",
+			"tu": "accuseras",
+			"il/elle": "accusera",
+			"nous": "accuserons",
+			"vous": "accuserez",
+			"ils/elles": "accuseront"
+		},
+		"passé simple": {
+			"j'": "accusai",
+			"tu": "accusas",
+			"il/elle": "accusa",
+			"nous": "accusâmes",
+			"vous": "accusâtes",
+			"ils/elles": "accusèrent"
+		},
+		"passé composé": {
+			"j'": "ai accusé",
+			"tu": "as accusé",
+			"il/elle": "a accusé",
+			"nous": "avons accusé",
+			"vous": "avez accusé",
+			"ils/elles": "ont accusé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais accusé",
+			"tu": "avais accusé",
+			"il/elle": "avait accusé",
+			"nous": "avions accusé",
+			"vous": "aviez accusé",
+			"ils/elles": "avaient accusé"
+		},
+		"passé antérieur": {
+			"j'": "eus accusé",
+			"tu": "eus accusé",
+			"il/elle": "eut accusé",
+			"nous": "eûmes accusé",
+			"vous": "eûtes accusé",
+			"ils/elles": "eurent accusé"
+		},
+		"futur antérieur": {
+			"j'": "aurai accusé",
+			"tu": "auras accusé",
+			"il/elle": "aura accusé",
+			"nous": "aurons accusé",
+			"vous": "aurez accusé",
+			"ils/elles": "auront accusé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "accuse",
+			"que": "vous accusiez",
+			"qu'il/elle": "accuse",
+			"qu'ils/elles": "accusent"
+		},
+		"imparfait": {
+			"j'": "accusasse",
+			"que": "vous accusassiez",
+			"qu'il/elle": "accusât",
+			"qu'ils/elles": "accusassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse accusé",
+			"que": "vous eussiez accusé",
+			"qu'il/elle": "eût accusé",
+			"qu'ils/elles": "eussent accusé"
+		},
+		"passé": {
+			"j'": "aie accusé",
+			"que": "vous ayez accusé",
+			"qu'il/elle": "ait accusé",
+			"qu'ils/elles": "aient accusé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "accuserais",
+			"tu": "accuserais",
+			"il/elle": "accuserait",
+			"nous": "accuserions",
+			"vous": "accuseriez",
+			"ils/elles": "accuseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais accusé",
+			"tu": "aurais accusé",
+			"il/elle": "aurait accusé",
+			"nous": "aurions accusé",
+			"vous": "auriez accusé",
+			"ils/elles": "auraient accusé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse accusé",
+			"tu": "eusses accusé",
+			"il/elle": "eût accusé",
+			"nous": "eussions accusé",
+			"vous": "eussiez accusé",
+			"ils/elles": "eussent accusé"
+		}
+	},
+	"participe": {
+		"présent": { "accusant": "" },
+		"passé composé": { "ayant": "accusé" },
+		"passé": {
+			"masc.sg.:": "accusé",
+			"masc.pl.:": "accusés",
+			"fém.sg.:": "accusée",
+			"fém.pl.:": "accusées"
+		}
+	},
+	"imperatif": {
+		"présent": { "accuse": "", "accusons": "", "accusez": "" },
+		"passé": { "aie": "accusé", "ayons": "accusé", "ayez": "accusé" }
+	},
+	"infinitif": { "présent": { "accuser": "" }, "passé": { "avoir": "accusé" } }
+}

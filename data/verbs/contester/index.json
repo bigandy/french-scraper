@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "challenge; contest; dispute; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se contester/ne pas contester/ne pas se contester",
+	"indicatif": {
+		"présent": {
+			"je": "conteste",
+			"tu": "contestes",
+			"il/elle": "conteste",
+			"nous": "contestons",
+			"vous": "contestez",
+			"ils/elles": "contestent"
+		},
+		"imparfait": {
+			"je": "contestais",
+			"tu": "contestais",
+			"il/elle": "contestait",
+			"nous": "contestions",
+			"vous": "contestiez",
+			"ils/elles": "contestaient"
+		},
+		"futur": {
+			"je": "contesterai",
+			"tu": "contesteras",
+			"il/elle": "contestera",
+			"nous": "contesterons",
+			"vous": "contesterez",
+			"ils/elles": "contesteront"
+		},
+		"passé simple": {
+			"je": "contestai",
+			"tu": "contestas",
+			"il/elle": "contesta",
+			"nous": "contestâmes",
+			"vous": "contestâtes",
+			"ils/elles": "contestèrent"
+		},
+		"passé composé": {
+			"j'": "ai contesté",
+			"tu": "as contesté",
+			"il/elle": "a contesté",
+			"nous": "avons contesté",
+			"vous": "avez contesté",
+			"ils/elles": "ont contesté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais contesté",
+			"tu": "avais contesté",
+			"il/elle": "avait contesté",
+			"nous": "avions contesté",
+			"vous": "aviez contesté",
+			"ils/elles": "avaient contesté"
+		},
+		"passé antérieur": {
+			"j'": "eus contesté",
+			"tu": "eus contesté",
+			"il/elle": "eut contesté",
+			"nous": "eûmes contesté",
+			"vous": "eûtes contesté",
+			"ils/elles": "eurent contesté"
+		},
+		"futur antérieur": {
+			"j'": "aurai contesté",
+			"tu": "auras contesté",
+			"il/elle": "aura contesté",
+			"nous": "aurons contesté",
+			"vous": "aurez contesté",
+			"ils/elles": "auront contesté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous contestiez",
+			"qu'il/elle": "conteste",
+			"qu'ils/elles": "contestent"
+		},
+		"imparfait": {
+			"que": "vous contestassiez",
+			"qu'il/elle": "contestât",
+			"qu'ils/elles": "contestassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse contesté",
+			"que": "vous eussiez contesté",
+			"qu'il/elle": "eût contesté",
+			"qu'ils/elles": "eussent contesté"
+		},
+		"passé": {
+			"j'": "aie contesté",
+			"que": "vous ayez contesté",
+			"qu'il/elle": "ait contesté",
+			"qu'ils/elles": "aient contesté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "contesterais",
+			"tu": "contesterais",
+			"il/elle": "contesterait",
+			"nous": "contesterions",
+			"vous": "contesteriez",
+			"ils/elles": "contesteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais contesté",
+			"tu": "aurais contesté",
+			"il/elle": "aurait contesté",
+			"nous": "aurions contesté",
+			"vous": "auriez contesté",
+			"ils/elles": "auraient contesté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse contesté",
+			"tu": "eusses contesté",
+			"il/elle": "eût contesté",
+			"nous": "eussions contesté",
+			"vous": "eussiez contesté",
+			"ils/elles": "eussent contesté"
+		}
+	},
+	"participe": {
+		"présent": { "contestant": "" },
+		"passé composé": { "ayant": "contesté" },
+		"passé": {
+			"masc.sg.:": "contesté",
+			"masc.pl.:": "contestés",
+			"fém.sg.:": "contestée",
+			"fém.pl.:": "contestées"
+		}
+	},
+	"imperatif": {
+		"présent": { "conteste": "", "contestons": "", "contestez": "" },
+		"passé": { "aie": "contesté", "ayons": "contesté", "ayez": "contesté" }
+	},
+	"infinitif": {
+		"présent": { "contester": "" },
+		"passé": { "avoir": "contesté" }
+	}
+}

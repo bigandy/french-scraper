@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "prevent; stop; keep from; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'empêcher/ne pas empêcher/ne pas s'empêcher",
+	"indicatif": {
+		"présent": {
+			"j'": "empêche",
+			"tu": "empêches",
+			"il/elle": "empêche",
+			"nous": "empêchons",
+			"vous": "empêchez",
+			"ils/elles": "empêchent"
+		},
+		"imparfait": {
+			"j'": "empêchais",
+			"tu": "empêchais",
+			"il/elle": "empêchait",
+			"nous": "empêchions",
+			"vous": "empêchiez",
+			"ils/elles": "empêchaient"
+		},
+		"futur": {
+			"j'": "empêcherai",
+			"tu": "empêcheras",
+			"il/elle": "empêchera",
+			"nous": "empêcherons",
+			"vous": "empêcherez",
+			"ils/elles": "empêcheront"
+		},
+		"passé simple": {
+			"j'": "empêchai",
+			"tu": "empêchas",
+			"il/elle": "empêcha",
+			"nous": "empêchâmes",
+			"vous": "empêchâtes",
+			"ils/elles": "empêchèrent"
+		},
+		"passé composé": {
+			"j'": "ai empêché",
+			"tu": "as empêché",
+			"il/elle": "a empêché",
+			"nous": "avons empêché",
+			"vous": "avez empêché",
+			"ils/elles": "ont empêché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais empêché",
+			"tu": "avais empêché",
+			"il/elle": "avait empêché",
+			"nous": "avions empêché",
+			"vous": "aviez empêché",
+			"ils/elles": "avaient empêché"
+		},
+		"passé antérieur": {
+			"j'": "eus empêché",
+			"tu": "eus empêché",
+			"il/elle": "eut empêché",
+			"nous": "eûmes empêché",
+			"vous": "eûtes empêché",
+			"ils/elles": "eurent empêché"
+		},
+		"futur antérieur": {
+			"j'": "aurai empêché",
+			"tu": "auras empêché",
+			"il/elle": "aura empêché",
+			"nous": "aurons empêché",
+			"vous": "aurez empêché",
+			"ils/elles": "auront empêché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "empêche",
+			"que": "vous empêchiez",
+			"qu'il/elle": "empêche",
+			"qu'ils/elles": "empêchent"
+		},
+		"imparfait": {
+			"j'": "empêchasse",
+			"que": "vous empêchassiez",
+			"qu'il/elle": "empêchât",
+			"qu'ils/elles": "empêchassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse empêché",
+			"que": "vous eussiez empêché",
+			"qu'il/elle": "eût empêché",
+			"qu'ils/elles": "eussent empêché"
+		},
+		"passé": {
+			"j'": "aie empêché",
+			"que": "vous ayez empêché",
+			"qu'il/elle": "ait empêché",
+			"qu'ils/elles": "aient empêché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "empêcherais",
+			"tu": "empêcherais",
+			"il/elle": "empêcherait",
+			"nous": "empêcherions",
+			"vous": "empêcheriez",
+			"ils/elles": "empêcheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais empêché",
+			"tu": "aurais empêché",
+			"il/elle": "aurait empêché",
+			"nous": "aurions empêché",
+			"vous": "auriez empêché",
+			"ils/elles": "auraient empêché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse empêché",
+			"tu": "eusses empêché",
+			"il/elle": "eût empêché",
+			"nous": "eussions empêché",
+			"vous": "eussiez empêché",
+			"ils/elles": "eussent empêché"
+		}
+	},
+	"participe": {
+		"présent": { "empêchant": "" },
+		"passé composé": { "ayant": "empêché" },
+		"passé": {
+			"masc.sg.:": "empêché",
+			"masc.pl.:": "empêchés",
+			"fém.sg.:": "empêchée",
+			"fém.pl.:": "empêchées"
+		}
+	},
+	"imperatif": {
+		"présent": { "empêche": "", "empêchons": "", "empêchez": "" },
+		"passé": { "aie": "empêché", "ayons": "empêché", "ayez": "empêché" }
+	},
+	"infinitif": {
+		"présent": { "empêcher": "" },
+		"passé": { "avoir": "empêché" }
+	}
+}

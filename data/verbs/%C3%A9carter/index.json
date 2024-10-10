@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "rule out; exclude; remove; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'écarter/ne pas écarter/ne pas s'écarter",
+	"indicatif": {
+		"présent": {
+			"j'": "écarte",
+			"tu": "écartes",
+			"il/elle": "écarte",
+			"nous": "écartons",
+			"vous": "écartez",
+			"ils/elles": "écartent"
+		},
+		"imparfait": {
+			"j'": "écartais",
+			"tu": "écartais",
+			"il/elle": "écartait",
+			"nous": "écartions",
+			"vous": "écartiez",
+			"ils/elles": "écartaient"
+		},
+		"futur": {
+			"j'": "écarterai",
+			"tu": "écarteras",
+			"il/elle": "écartera",
+			"nous": "écarterons",
+			"vous": "écarterez",
+			"ils/elles": "écarteront"
+		},
+		"passé simple": {
+			"j'": "écartai",
+			"tu": "écartas",
+			"il/elle": "écarta",
+			"nous": "écartâmes",
+			"vous": "écartâtes",
+			"ils/elles": "écartèrent"
+		},
+		"passé composé": {
+			"j'": "ai écarté",
+			"tu": "as écarté",
+			"il/elle": "a écarté",
+			"nous": "avons écarté",
+			"vous": "avez écarté",
+			"ils/elles": "ont écarté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais écarté",
+			"tu": "avais écarté",
+			"il/elle": "avait écarté",
+			"nous": "avions écarté",
+			"vous": "aviez écarté",
+			"ils/elles": "avaient écarté"
+		},
+		"passé antérieur": {
+			"j'": "eus écarté",
+			"tu": "eus écarté",
+			"il/elle": "eut écarté",
+			"nous": "eûmes écarté",
+			"vous": "eûtes écarté",
+			"ils/elles": "eurent écarté"
+		},
+		"futur antérieur": {
+			"j'": "aurai écarté",
+			"tu": "auras écarté",
+			"il/elle": "aura écarté",
+			"nous": "aurons écarté",
+			"vous": "aurez écarté",
+			"ils/elles": "auront écarté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "écarte",
+			"que": "vous écartiez",
+			"qu'il/elle": "écarte",
+			"qu'ils/elles": "écartent"
+		},
+		"imparfait": {
+			"j'": "écartasse",
+			"que": "vous écartassiez",
+			"qu'il/elle": "écartât",
+			"qu'ils/elles": "écartassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse écarté",
+			"que": "vous eussiez écarté",
+			"qu'il/elle": "eût écarté",
+			"qu'ils/elles": "eussent écarté"
+		},
+		"passé": {
+			"j'": "aie écarté",
+			"que": "vous ayez écarté",
+			"qu'il/elle": "ait écarté",
+			"qu'ils/elles": "aient écarté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "écarterais",
+			"tu": "écarterais",
+			"il/elle": "écarterait",
+			"nous": "écarterions",
+			"vous": "écarteriez",
+			"ils/elles": "écarteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais écarté",
+			"tu": "aurais écarté",
+			"il/elle": "aurait écarté",
+			"nous": "aurions écarté",
+			"vous": "auriez écarté",
+			"ils/elles": "auraient écarté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse écarté",
+			"tu": "eusses écarté",
+			"il/elle": "eût écarté",
+			"nous": "eussions écarté",
+			"vous": "eussiez écarté",
+			"ils/elles": "eussent écarté"
+		}
+	},
+	"participe": {
+		"présent": { "écartant": "" },
+		"passé composé": { "ayant": "écarté" },
+		"passé": {
+			"masc.sg.:": "écarté",
+			"masc.pl.:": "écartés",
+			"fém.sg.:": "écartée",
+			"fém.pl.:": "écartées"
+		}
+	},
+	"imperatif": {
+		"présent": { "écarte": "", "écartons": "", "écartez": "" },
+		"passé": { "aie": "écarté", "ayons": "écarté", "ayez": "écarté" }
+	},
+	"infinitif": { "présent": { "écarter": "" }, "passé": { "avoir": "écarté" } }
+}

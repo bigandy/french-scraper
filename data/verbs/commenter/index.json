@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "comment on; discuss; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se commenter/ne pas commenter/ne pas se commenter",
+	"indicatif": {
+		"présent": {
+			"je": "commente",
+			"tu": "commentes",
+			"il/elle": "commente",
+			"nous": "commentons",
+			"vous": "commentez",
+			"ils/elles": "commentent"
+		},
+		"imparfait": {
+			"je": "commentais",
+			"tu": "commentais",
+			"il/elle": "commentait",
+			"nous": "commentions",
+			"vous": "commentiez",
+			"ils/elles": "commentaient"
+		},
+		"futur": {
+			"je": "commenterai",
+			"tu": "commenteras",
+			"il/elle": "commentera",
+			"nous": "commenterons",
+			"vous": "commenterez",
+			"ils/elles": "commenteront"
+		},
+		"passé simple": {
+			"je": "commentai",
+			"tu": "commentas",
+			"il/elle": "commenta",
+			"nous": "commentâmes",
+			"vous": "commentâtes",
+			"ils/elles": "commentèrent"
+		},
+		"passé composé": {
+			"j'": "ai commenté",
+			"tu": "as commenté",
+			"il/elle": "a commenté",
+			"nous": "avons commenté",
+			"vous": "avez commenté",
+			"ils/elles": "ont commenté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais commenté",
+			"tu": "avais commenté",
+			"il/elle": "avait commenté",
+			"nous": "avions commenté",
+			"vous": "aviez commenté",
+			"ils/elles": "avaient commenté"
+		},
+		"passé antérieur": {
+			"j'": "eus commenté",
+			"tu": "eus commenté",
+			"il/elle": "eut commenté",
+			"nous": "eûmes commenté",
+			"vous": "eûtes commenté",
+			"ils/elles": "eurent commenté"
+		},
+		"futur antérieur": {
+			"j'": "aurai commenté",
+			"tu": "auras commenté",
+			"il/elle": "aura commenté",
+			"nous": "aurons commenté",
+			"vous": "aurez commenté",
+			"ils/elles": "auront commenté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous commentiez",
+			"qu'il/elle": "commente",
+			"qu'ils/elles": "commentent"
+		},
+		"imparfait": {
+			"que": "vous commentassiez",
+			"qu'il/elle": "commentât",
+			"qu'ils/elles": "commentassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse commenté",
+			"que": "vous eussiez commenté",
+			"qu'il/elle": "eût commenté",
+			"qu'ils/elles": "eussent commenté"
+		},
+		"passé": {
+			"j'": "aie commenté",
+			"que": "vous ayez commenté",
+			"qu'il/elle": "ait commenté",
+			"qu'ils/elles": "aient commenté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "commenterais",
+			"tu": "commenterais",
+			"il/elle": "commenterait",
+			"nous": "commenterions",
+			"vous": "commenteriez",
+			"ils/elles": "commenteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais commenté",
+			"tu": "aurais commenté",
+			"il/elle": "aurait commenté",
+			"nous": "aurions commenté",
+			"vous": "auriez commenté",
+			"ils/elles": "auraient commenté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse commenté",
+			"tu": "eusses commenté",
+			"il/elle": "eût commenté",
+			"nous": "eussions commenté",
+			"vous": "eussiez commenté",
+			"ils/elles": "eussent commenté"
+		}
+	},
+	"participe": {
+		"présent": { "commentant": "" },
+		"passé composé": { "ayant": "commenté" },
+		"passé": {
+			"masc.sg.:": "commenté",
+			"masc.pl.:": "commentés",
+			"fém.sg.:": "commentée",
+			"fém.pl.:": "commentées"
+		}
+	},
+	"imperatif": {
+		"présent": { "commente": "", "commentons": "", "commentez": "" },
+		"passé": { "aie": "commenté", "ayons": "commenté", "ayez": "commenté" }
+	},
+	"infinitif": {
+		"présent": { "commenter": "" },
+		"passé": { "avoir": "commenté" }
+	}
+}

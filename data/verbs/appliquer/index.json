@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "apply; implement; enforce; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'appliquer/ne pas appliquer/ne pas s'appliquer",
+	"indicatif": {
+		"présent": {
+			"j'": "applique",
+			"tu": "appliques",
+			"il/elle": "applique",
+			"nous": "appliquons",
+			"vous": "appliquez",
+			"ils/elles": "appliquent"
+		},
+		"imparfait": {
+			"j'": "appliquais",
+			"tu": "appliquais",
+			"il/elle": "appliquait",
+			"nous": "appliquions",
+			"vous": "appliquiez",
+			"ils/elles": "appliquaient"
+		},
+		"futur": {
+			"j'": "appliquerai",
+			"tu": "appliqueras",
+			"il/elle": "appliquera",
+			"nous": "appliquerons",
+			"vous": "appliquerez",
+			"ils/elles": "appliqueront"
+		},
+		"passé simple": {
+			"j'": "appliquai",
+			"tu": "appliquas",
+			"il/elle": "appliqua",
+			"nous": "appliquâmes",
+			"vous": "appliquâtes",
+			"ils/elles": "appliquèrent"
+		},
+		"passé composé": {
+			"j'": "ai appliqué",
+			"tu": "as appliqué",
+			"il/elle": "a appliqué",
+			"nous": "avons appliqué",
+			"vous": "avez appliqué",
+			"ils/elles": "ont appliqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais appliqué",
+			"tu": "avais appliqué",
+			"il/elle": "avait appliqué",
+			"nous": "avions appliqué",
+			"vous": "aviez appliqué",
+			"ils/elles": "avaient appliqué"
+		},
+		"passé antérieur": {
+			"j'": "eus appliqué",
+			"tu": "eus appliqué",
+			"il/elle": "eut appliqué",
+			"nous": "eûmes appliqué",
+			"vous": "eûtes appliqué",
+			"ils/elles": "eurent appliqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai appliqué",
+			"tu": "auras appliqué",
+			"il/elle": "aura appliqué",
+			"nous": "aurons appliqué",
+			"vous": "aurez appliqué",
+			"ils/elles": "auront appliqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "applique",
+			"que": "vous appliquiez",
+			"qu'il/elle": "applique",
+			"qu'ils/elles": "appliquent"
+		},
+		"imparfait": {
+			"j'": "appliquasse",
+			"que": "vous appliquassiez",
+			"qu'il/elle": "appliquât",
+			"qu'ils/elles": "appliquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse appliqué",
+			"que": "vous eussiez appliqué",
+			"qu'il/elle": "eût appliqué",
+			"qu'ils/elles": "eussent appliqué"
+		},
+		"passé": {
+			"j'": "aie appliqué",
+			"que": "vous ayez appliqué",
+			"qu'il/elle": "ait appliqué",
+			"qu'ils/elles": "aient appliqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "appliquerais",
+			"tu": "appliquerais",
+			"il/elle": "appliquerait",
+			"nous": "appliquerions",
+			"vous": "appliqueriez",
+			"ils/elles": "appliqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais appliqué",
+			"tu": "aurais appliqué",
+			"il/elle": "aurait appliqué",
+			"nous": "aurions appliqué",
+			"vous": "auriez appliqué",
+			"ils/elles": "auraient appliqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse appliqué",
+			"tu": "eusses appliqué",
+			"il/elle": "eût appliqué",
+			"nous": "eussions appliqué",
+			"vous": "eussiez appliqué",
+			"ils/elles": "eussent appliqué"
+		}
+	},
+	"participe": {
+		"présent": { "appliquant": "" },
+		"passé composé": { "ayant": "appliqué" },
+		"passé": {
+			"masc.sg.:": "appliqué",
+			"masc.pl.:": "appliqués",
+			"fém.sg.:": "appliquée",
+			"fém.pl.:": "appliquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "applique": "", "appliquons": "", "appliquez": "" },
+		"passé": { "aie": "appliqué", "ayons": "appliqué", "ayez": "appliqué" }
+	},
+	"infinitif": {
+		"présent": { "appliquer": "" },
+		"passé": { "avoir": "appliqué" }
+	}
+}

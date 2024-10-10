@@ -1,0 +1,140 @@
+{
+	"name": "conclure",
+	"definition": "exclude; rule out; be excluded; ...",
+	"model": "conclure",
+	"auxiliary": "avoir",
+	"otherForms": "s'exclure/ne pas exclure/ne pas s'exclure",
+	"indicatif": {
+		"présent": {
+			"j'": "exclus",
+			"tu": "exclus",
+			"il/elle": "exclut",
+			"nous": "excluons",
+			"vous": "excluez",
+			"ils/elles": "excluent"
+		},
+		"imparfait": {
+			"j'": "excluais",
+			"tu": "excluais",
+			"il/elle": "excluait",
+			"nous": "excluions",
+			"vous": "excluiez",
+			"ils/elles": "excluaient"
+		},
+		"futur": {
+			"j'": "exclurai",
+			"tu": "excluras",
+			"il/elle": "exclura",
+			"nous": "exclurons",
+			"vous": "exclurez",
+			"ils/elles": "excluront"
+		},
+		"passé simple": {
+			"j'": "exclus",
+			"tu": "exclus",
+			"il/elle": "exclut",
+			"nous": "exclûmes",
+			"vous": "exclûtes",
+			"ils/elles": "exclurent"
+		},
+		"passé composé": {
+			"j'": "ai exclu",
+			"tu": "as exclu",
+			"il/elle": "a exclu",
+			"nous": "avons exclu",
+			"vous": "avez exclu",
+			"ils/elles": "ont exclu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais exclu",
+			"tu": "avais exclu",
+			"il/elle": "avait exclu",
+			"nous": "avions exclu",
+			"vous": "aviez exclu",
+			"ils/elles": "avaient exclu"
+		},
+		"passé antérieur": {
+			"j'": "eus exclu",
+			"tu": "eus exclu",
+			"il/elle": "eut exclu",
+			"nous": "eûmes exclu",
+			"vous": "eûtes exclu",
+			"ils/elles": "eurent exclu"
+		},
+		"futur antérieur": {
+			"j'": "aurai exclu",
+			"tu": "auras exclu",
+			"il/elle": "aura exclu",
+			"nous": "aurons exclu",
+			"vous": "aurez exclu",
+			"ils/elles": "auront exclu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "exclue",
+			"que": "vous excluiez",
+			"qu'il/elle": "exclue",
+			"qu'ils/elles": "excluent"
+		},
+		"imparfait": {
+			"j'": "exclusse",
+			"que": "vous exclussiez",
+			"qu'il/elle": "exclût",
+			"qu'ils/elles": "exclussent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse exclu",
+			"que": "vous eussiez exclu",
+			"qu'il/elle": "eût exclu",
+			"qu'ils/elles": "eussent exclu"
+		},
+		"passé": {
+			"j'": "aie exclu",
+			"que": "vous ayez exclu",
+			"qu'il/elle": "ait exclu",
+			"qu'ils/elles": "aient exclu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "exclurais",
+			"tu": "exclurais",
+			"il/elle": "exclurait",
+			"nous": "exclurions",
+			"vous": "excluriez",
+			"ils/elles": "excluraient"
+		},
+		"passé première forme": {
+			"j'": "aurais exclu",
+			"tu": "aurais exclu",
+			"il/elle": "aurait exclu",
+			"nous": "aurions exclu",
+			"vous": "auriez exclu",
+			"ils/elles": "auraient exclu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse exclu",
+			"tu": "eusses exclu",
+			"il/elle": "eût exclu",
+			"nous": "eussions exclu",
+			"vous": "eussiez exclu",
+			"ils/elles": "eussent exclu"
+		}
+	},
+	"participe": {
+		"présent": { "excluant": "" },
+		"passé composé": { "ayant": "exclu" },
+		"passé": {
+			"masc.sg.:": "exclu",
+			"masc.pl.:": "exclus",
+			"fém.sg.:": "exclue",
+			"fém.pl.:": "exclues"
+		}
+	},
+	"imperatif": {
+		"présent": { "exclus": "", "excluons": "", "excluez": "" },
+		"passé": { "aie": "exclu", "ayons": "exclu", "ayez": "exclu" }
+	},
+	"infinitif": { "présent": { "exclure": "" }, "passé": { "avoir": "exclu" } }
+}

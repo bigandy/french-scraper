@@ -1,0 +1,141 @@
+{
+	"name": "bouillir",
+	"definition": "boil; simmer; seethe; ...",
+	"model": "bouillir",
+	"auxiliary": "avoir",
+	"otherForms": "se bouillir/ne pas bouillir/ne pas se bouillir",
+	"indicatif": {
+		"présent": {
+			"je": "bous",
+			"tu": "bous",
+			"il/elle": "bout",
+			"nous": "bouillons",
+			"vous": "bouillez",
+			"ils/elles": "bouillent"
+		},
+		"imparfait": {
+			"je": "bouillais",
+			"tu": "bouillais",
+			"il/elle": "bouillait",
+			"nous": "bouillions",
+			"vous": "bouilliez",
+			"ils/elles": "bouillaient"
+		},
+		"futur": {
+			"je": "bouillirai",
+			"tu": "bouilliras",
+			"il/elle": "bouillira",
+			"nous": "bouillirons",
+			"vous": "bouillirez",
+			"ils/elles": "bouilliront"
+		},
+		"passé simple": {
+			"je": "bouillis",
+			"tu": "bouillis",
+			"il/elle": "bouillit",
+			"nous": "bouillîmes",
+			"vous": "bouillîtes",
+			"ils/elles": "bouillirent"
+		},
+		"passé composé": {
+			"j'": "ai bouilli",
+			"tu": "as bouilli",
+			"il/elle": "a bouilli",
+			"nous": "avons bouilli",
+			"vous": "avez bouilli",
+			"ils/elles": "ont bouilli"
+		},
+		"plus-que-parfait": {
+			"j'": "avais bouilli",
+			"tu": "avais bouilli",
+			"il/elle": "avait bouilli",
+			"nous": "avions bouilli",
+			"vous": "aviez bouilli",
+			"ils/elles": "avaient bouilli"
+		},
+		"passé antérieur": {
+			"j'": "eus bouilli",
+			"tu": "eus bouilli",
+			"il/elle": "eut bouilli",
+			"nous": "eûmes bouilli",
+			"vous": "eûtes bouilli",
+			"ils/elles": "eurent bouilli"
+		},
+		"futur antérieur": {
+			"j'": "aurai bouilli",
+			"tu": "auras bouilli",
+			"il/elle": "aura bouilli",
+			"nous": "aurons bouilli",
+			"vous": "aurez bouilli",
+			"ils/elles": "auront bouilli"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous bouilliez",
+			"qu'il/elle": "bouille",
+			"qu'ils/elles": "bouillent"
+		},
+		"imparfait": {
+			"que": "vous bouillissiez",
+			"qu'il/elle": "bouillît",
+			"qu'ils/elles": "bouillissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse bouilli",
+			"que": "vous eussiez bouilli",
+			"qu'il/elle": "eût bouilli",
+			"qu'ils/elles": "eussent bouilli"
+		},
+		"passé": {
+			"j'": "aie bouilli",
+			"que": "vous ayez bouilli",
+			"qu'il/elle": "ait bouilli",
+			"qu'ils/elles": "aient bouilli"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "bouillirais",
+			"tu": "bouillirais",
+			"il/elle": "bouillirait",
+			"nous": "bouillirions",
+			"vous": "bouilliriez",
+			"ils/elles": "bouilliraient"
+		},
+		"passé première forme": {
+			"j'": "aurais bouilli",
+			"tu": "aurais bouilli",
+			"il/elle": "aurait bouilli",
+			"nous": "aurions bouilli",
+			"vous": "auriez bouilli",
+			"ils/elles": "auraient bouilli"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse bouilli",
+			"tu": "eusses bouilli",
+			"il/elle": "eût bouilli",
+			"nous": "eussions bouilli",
+			"vous": "eussiez bouilli",
+			"ils/elles": "eussent bouilli"
+		}
+	},
+	"participe": {
+		"présent": { "bouillant": "" },
+		"passé composé": { "ayant": "bouilli" },
+		"passé": {
+			"masc.sg.:": "bouilli",
+			"masc.pl.:": "bouillis",
+			"fém.sg.:": "bouillie",
+			"fém.pl.:": "bouillies"
+		}
+	},
+	"imperatif": {
+		"présent": { "bous": "", "bouillons": "", "bouillez": "" },
+		"passé": { "aie": "bouilli", "ayons": "bouilli", "ayez": "bouilli" }
+	},
+	"infinitif": {
+		"présent": { "bouillir": "" },
+		"passé": { "avoir": "bouilli" }
+	}
+}

@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "scream; yell; shout; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se crier/ne pas crier/ne pas se crier",
+	"indicatif": {
+		"présent": {
+			"je": "crie",
+			"tu": "cries",
+			"il/elle": "crie",
+			"nous": "crions",
+			"vous": "criez",
+			"ils/elles": "crient"
+		},
+		"imparfait": {
+			"je": "criais",
+			"tu": "criais",
+			"il/elle": "criait",
+			"nous": "criions",
+			"vous": "criiez",
+			"ils/elles": "criaient"
+		},
+		"futur": {
+			"je": "crierai",
+			"tu": "crieras",
+			"il/elle": "criera",
+			"nous": "crierons",
+			"vous": "crierez",
+			"ils/elles": "crieront"
+		},
+		"passé simple": {
+			"je": "criai",
+			"tu": "crias",
+			"il/elle": "cria",
+			"nous": "criâmes",
+			"vous": "criâtes",
+			"ils/elles": "crièrent"
+		},
+		"passé composé": {
+			"j'": "ai crié",
+			"tu": "as crié",
+			"il/elle": "a crié",
+			"nous": "avons crié",
+			"vous": "avez crié",
+			"ils/elles": "ont crié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais crié",
+			"tu": "avais crié",
+			"il/elle": "avait crié",
+			"nous": "avions crié",
+			"vous": "aviez crié",
+			"ils/elles": "avaient crié"
+		},
+		"passé antérieur": {
+			"j'": "eus crié",
+			"tu": "eus crié",
+			"il/elle": "eut crié",
+			"nous": "eûmes crié",
+			"vous": "eûtes crié",
+			"ils/elles": "eurent crié"
+		},
+		"futur antérieur": {
+			"j'": "aurai crié",
+			"tu": "auras crié",
+			"il/elle": "aura crié",
+			"nous": "aurons crié",
+			"vous": "aurez crié",
+			"ils/elles": "auront crié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous criiez",
+			"qu'il/elle": "crie",
+			"qu'ils/elles": "crient"
+		},
+		"imparfait": {
+			"que": "vous criassiez",
+			"qu'il/elle": "criât",
+			"qu'ils/elles": "criassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse crié",
+			"que": "vous eussiez crié",
+			"qu'il/elle": "eût crié",
+			"qu'ils/elles": "eussent crié"
+		},
+		"passé": {
+			"j'": "aie crié",
+			"que": "vous ayez crié",
+			"qu'il/elle": "ait crié",
+			"qu'ils/elles": "aient crié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "crierais",
+			"tu": "crierais",
+			"il/elle": "crierait",
+			"nous": "crierions",
+			"vous": "crieriez",
+			"ils/elles": "crieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais crié",
+			"tu": "aurais crié",
+			"il/elle": "aurait crié",
+			"nous": "aurions crié",
+			"vous": "auriez crié",
+			"ils/elles": "auraient crié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse crié",
+			"tu": "eusses crié",
+			"il/elle": "eût crié",
+			"nous": "eussions crié",
+			"vous": "eussiez crié",
+			"ils/elles": "eussent crié"
+		}
+	},
+	"participe": {
+		"présent": { "criant": "" },
+		"passé composé": { "ayant": "crié" },
+		"passé": {
+			"masc.sg.:": "crié",
+			"masc.pl.:": "criés",
+			"fém.sg.:": "criée",
+			"fém.pl.:": "criées"
+		}
+	},
+	"imperatif": {
+		"présent": { "crie": "", "crions": "", "criez": "" },
+		"passé": { "aie": "crié", "ayons": "crié", "ayez": "crié" }
+	},
+	"infinitif": { "présent": { "crier": "" }, "passé": { "avoir": "crié" } }
+}

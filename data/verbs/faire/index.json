@@ -1,0 +1,138 @@
+{
+	"name": "faire",
+	"definition": "make; get; take; ...",
+	"model": "faire",
+	"auxiliary": "avoir",
+	"otherForms": "se faire/ne pas faire/ne pas se faire",
+	"indicatif": {
+		"présent": {
+			"je": "fais",
+			"tu": "fais",
+			"il/elle": "fait",
+			"nous": "faisons",
+			"vous": "faites",
+			"ils/elles": "font"
+		},
+		"imparfait": {
+			"je": "faisais",
+			"tu": "faisais",
+			"il/elle": "faisait",
+			"nous": "faisions",
+			"vous": "faisiez",
+			"ils/elles": "faisaient"
+		},
+		"futur": {
+			"je": "ferai",
+			"tu": "feras",
+			"il/elle": "fera",
+			"nous": "ferons",
+			"vous": "ferez",
+			"ils/elles": "feront"
+		},
+		"passé simple": {
+			"je": "fis",
+			"tu": "fis",
+			"il/elle": "fit",
+			"nous": "fîmes",
+			"vous": "fîtes",
+			"ils/elles": "firent"
+		},
+		"passé composé": {
+			"j'": "ai fait",
+			"tu": "as fait",
+			"il/elle": "a fait",
+			"nous": "avons fait",
+			"vous": "avez fait",
+			"ils/elles": "ont fait"
+		},
+		"plus-que-parfait": {
+			"j'": "avais fait",
+			"tu": "avais fait",
+			"il/elle": "avait fait",
+			"nous": "avions fait",
+			"vous": "aviez fait",
+			"ils/elles": "avaient fait"
+		},
+		"passé antérieur": {
+			"j'": "eus fait",
+			"tu": "eus fait",
+			"il/elle": "eut fait",
+			"nous": "eûmes fait",
+			"vous": "eûtes fait",
+			"ils/elles": "eurent fait"
+		},
+		"futur antérieur": {
+			"j'": "aurai fait",
+			"tu": "auras fait",
+			"il/elle": "aura fait",
+			"nous": "aurons fait",
+			"vous": "aurez fait",
+			"ils/elles": "auront fait"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous fassiez",
+			"qu'il/elle": "fasse",
+			"qu'ils/elles": "fassent"
+		},
+		"imparfait": {
+			"que": "vous fissiez",
+			"qu'il/elle": "fît",
+			"qu'ils/elles": "fissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse fait",
+			"que": "vous eussiez fait",
+			"qu'il/elle": "eût fait",
+			"qu'ils/elles": "eussent fait"
+		},
+		"passé": {
+			"j'": "aie fait",
+			"que": "vous ayez fait",
+			"qu'il/elle": "ait fait",
+			"qu'ils/elles": "aient fait"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "ferais",
+			"tu": "ferais",
+			"il/elle": "ferait",
+			"nous": "ferions",
+			"vous": "feriez",
+			"ils/elles": "feraient"
+		},
+		"passé première forme": {
+			"j'": "aurais fait",
+			"tu": "aurais fait",
+			"il/elle": "aurait fait",
+			"nous": "aurions fait",
+			"vous": "auriez fait",
+			"ils/elles": "auraient fait"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse fait",
+			"tu": "eusses fait",
+			"il/elle": "eût fait",
+			"nous": "eussions fait",
+			"vous": "eussiez fait",
+			"ils/elles": "eussent fait"
+		}
+	},
+	"participe": {
+		"présent": { "faisant": "" },
+		"passé composé": { "ayant": "fait" },
+		"passé": {
+			"masc.sg.:": "fait",
+			"masc.pl.:": "faits",
+			"fém.sg.:": "faite",
+			"fém.pl.:": "faites"
+		}
+	},
+	"imperatif": {
+		"présent": { "fais": "", "faisons": "", "faites": "" },
+		"passé": { "aie": "fait", "ayons": "fait", "ayez": "fait" }
+	},
+	"infinitif": { "présent": { "faire": "" }, "passé": { "avoir": "fait" } }
+}

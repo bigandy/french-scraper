@@ -1,0 +1,141 @@
+{
+	"name": "lever",
+	"definition": "take; collect; remove; ...",
+	"model": "lever",
+	"auxiliary": "avoir",
+	"otherForms": "se prélever/ne pas prélever/ne pas se prélever",
+	"indicatif": {
+		"présent": {
+			"je": "prélève",
+			"tu": "prélèves",
+			"il/elle": "prélève",
+			"nous": "prélevons",
+			"vous": "prélevez",
+			"ils/elles": "prélèvent"
+		},
+		"imparfait": {
+			"je": "prélevais",
+			"tu": "prélevais",
+			"il/elle": "prélevait",
+			"nous": "prélevions",
+			"vous": "préleviez",
+			"ils/elles": "prélevaient"
+		},
+		"futur": {
+			"je": "prélèverai",
+			"tu": "prélèveras",
+			"il/elle": "prélèvera",
+			"nous": "prélèverons",
+			"vous": "prélèverez",
+			"ils/elles": "prélèveront"
+		},
+		"passé simple": {
+			"je": "prélevai",
+			"tu": "prélevas",
+			"il/elle": "préleva",
+			"nous": "prélevâmes",
+			"vous": "prélevâtes",
+			"ils/elles": "prélevèrent"
+		},
+		"passé composé": {
+			"j'": "ai prélevé",
+			"tu": "as prélevé",
+			"il/elle": "a prélevé",
+			"nous": "avons prélevé",
+			"vous": "avez prélevé",
+			"ils/elles": "ont prélevé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais prélevé",
+			"tu": "avais prélevé",
+			"il/elle": "avait prélevé",
+			"nous": "avions prélevé",
+			"vous": "aviez prélevé",
+			"ils/elles": "avaient prélevé"
+		},
+		"passé antérieur": {
+			"j'": "eus prélevé",
+			"tu": "eus prélevé",
+			"il/elle": "eut prélevé",
+			"nous": "eûmes prélevé",
+			"vous": "eûtes prélevé",
+			"ils/elles": "eurent prélevé"
+		},
+		"futur antérieur": {
+			"j'": "aurai prélevé",
+			"tu": "auras prélevé",
+			"il/elle": "aura prélevé",
+			"nous": "aurons prélevé",
+			"vous": "aurez prélevé",
+			"ils/elles": "auront prélevé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous préleviez",
+			"qu'il/elle": "prélève",
+			"qu'ils/elles": "prélèvent"
+		},
+		"imparfait": {
+			"que": "vous prélevassiez",
+			"qu'il/elle": "prélevât",
+			"qu'ils/elles": "prélevassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse prélevé",
+			"que": "vous eussiez prélevé",
+			"qu'il/elle": "eût prélevé",
+			"qu'ils/elles": "eussent prélevé"
+		},
+		"passé": {
+			"j'": "aie prélevé",
+			"que": "vous ayez prélevé",
+			"qu'il/elle": "ait prélevé",
+			"qu'ils/elles": "aient prélevé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "prélèverais",
+			"tu": "prélèverais",
+			"il/elle": "prélèverait",
+			"nous": "prélèverions",
+			"vous": "prélèveriez",
+			"ils/elles": "prélèveraient"
+		},
+		"passé première forme": {
+			"j'": "aurais prélevé",
+			"tu": "aurais prélevé",
+			"il/elle": "aurait prélevé",
+			"nous": "aurions prélevé",
+			"vous": "auriez prélevé",
+			"ils/elles": "auraient prélevé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse prélevé",
+			"tu": "eusses prélevé",
+			"il/elle": "eût prélevé",
+			"nous": "eussions prélevé",
+			"vous": "eussiez prélevé",
+			"ils/elles": "eussent prélevé"
+		}
+	},
+	"participe": {
+		"présent": { "prélevant": "" },
+		"passé composé": { "ayant": "prélevé" },
+		"passé": {
+			"masc.sg.:": "prélevé",
+			"masc.pl.:": "prélevés",
+			"fém.sg.:": "prélevée",
+			"fém.pl.:": "prélevées"
+		}
+	},
+	"imperatif": {
+		"présent": { "prélève": "", "prélevons": "", "prélevez": "" },
+		"passé": { "aie": "prélevé", "ayons": "prélevé", "ayez": "prélevé" }
+	},
+	"infinitif": {
+		"présent": { "prélever": "" },
+		"passé": { "avoir": "prélevé" }
+	}
+}

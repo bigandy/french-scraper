@@ -1,0 +1,138 @@
+{
+	"name": "craindre",
+	"definition": "fear; worry about; ...",
+	"model": "craindre",
+	"auxiliary": "avoir",
+	"otherForms": "se craindre/ne pas craindre/ne pas se craindre",
+	"indicatif": {
+		"présent": {
+			"je": "crains",
+			"tu": "crains",
+			"il/elle": "craint",
+			"nous": "craignons",
+			"vous": "craignez",
+			"ils/elles": "craignent"
+		},
+		"imparfait": {
+			"je": "craignais",
+			"tu": "craignais",
+			"il/elle": "craignait",
+			"nous": "craignions",
+			"vous": "craigniez",
+			"ils/elles": "craignaient"
+		},
+		"futur": {
+			"je": "craindrai",
+			"tu": "craindras",
+			"il/elle": "craindra",
+			"nous": "craindrons",
+			"vous": "craindrez",
+			"ils/elles": "craindront"
+		},
+		"passé simple": {
+			"je": "craignis",
+			"tu": "craignis",
+			"il/elle": "craignit",
+			"nous": "craignîmes",
+			"vous": "craignîtes",
+			"ils/elles": "craignirent"
+		},
+		"passé composé": {
+			"j'": "ai craint",
+			"tu": "as craint",
+			"il/elle": "a craint",
+			"nous": "avons craint",
+			"vous": "avez craint",
+			"ils/elles": "ont craint"
+		},
+		"plus-que-parfait": {
+			"j'": "avais craint",
+			"tu": "avais craint",
+			"il/elle": "avait craint",
+			"nous": "avions craint",
+			"vous": "aviez craint",
+			"ils/elles": "avaient craint"
+		},
+		"passé antérieur": {
+			"j'": "eus craint",
+			"tu": "eus craint",
+			"il/elle": "eut craint",
+			"nous": "eûmes craint",
+			"vous": "eûtes craint",
+			"ils/elles": "eurent craint"
+		},
+		"futur antérieur": {
+			"j'": "aurai craint",
+			"tu": "auras craint",
+			"il/elle": "aura craint",
+			"nous": "aurons craint",
+			"vous": "aurez craint",
+			"ils/elles": "auront craint"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous craigniez",
+			"qu'il/elle": "craigne",
+			"qu'ils/elles": "craignent"
+		},
+		"imparfait": {
+			"que": "vous craignissiez",
+			"qu'il/elle": "craignît",
+			"qu'ils/elles": "craignissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse craint",
+			"que": "vous eussiez craint",
+			"qu'il/elle": "eût craint",
+			"qu'ils/elles": "eussent craint"
+		},
+		"passé": {
+			"j'": "aie craint",
+			"que": "vous ayez craint",
+			"qu'il/elle": "ait craint",
+			"qu'ils/elles": "aient craint"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "craindrais",
+			"tu": "craindrais",
+			"il/elle": "craindrait",
+			"nous": "craindrions",
+			"vous": "craindriez",
+			"ils/elles": "craindraient"
+		},
+		"passé première forme": {
+			"j'": "aurais craint",
+			"tu": "aurais craint",
+			"il/elle": "aurait craint",
+			"nous": "aurions craint",
+			"vous": "auriez craint",
+			"ils/elles": "auraient craint"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse craint",
+			"tu": "eusses craint",
+			"il/elle": "eût craint",
+			"nous": "eussions craint",
+			"vous": "eussiez craint",
+			"ils/elles": "eussent craint"
+		}
+	},
+	"participe": {
+		"présent": { "craignant": "" },
+		"passé composé": { "ayant": "craint" },
+		"passé": {
+			"masc.sg.:": "craint",
+			"masc.pl.:": "craints",
+			"fém.sg.:": "crainte",
+			"fém.pl.:": "craintes"
+		}
+	},
+	"imperatif": {
+		"présent": { "crains": "", "craignons": "", "craignez": "" },
+		"passé": { "aie": "craint", "ayons": "craint", "ayez": "craint" }
+	},
+	"infinitif": { "présent": { "craindre": "" }, "passé": { "avoir": "craint" } }
+}

@@ -1,0 +1,196 @@
+{
+	"name": "marcher",
+	"definition": "address; approach; tackle; ...",
+	"model": "marcher",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "s'aborder/ne pas aborder/ne pas s'aborder",
+	"indicatif": {
+		"présent": {
+			"j'": "aborde",
+			"tu": "abordes",
+			"il/elle": "aborde",
+			"nous": "abordons",
+			"vous": "abordez",
+			"ils/elles": "abordent"
+		},
+		"imparfait": {
+			"j'": "abordais",
+			"tu": "abordais",
+			"il/elle": "abordait",
+			"nous": "abordions",
+			"vous": "abordiez",
+			"ils/elles": "abordaient"
+		},
+		"futur": {
+			"j'": "aborderai",
+			"tu": "aborderas",
+			"il/elle": "abordera",
+			"nous": "aborderons",
+			"vous": "aborderez",
+			"ils/elles": "aborderont"
+		},
+		"passé simple": {
+			"j'": "abordai",
+			"tu": "abordas",
+			"il/elle": "aborda",
+			"nous": "abordâmes",
+			"vous": "abordâtes",
+			"ils/elles": "abordèrent"
+		},
+		"passé composé": {
+			"j'": "ai abordé",
+			"tu": "es abordé",
+			"il/elle": "a abordé",
+			"nous": "sommes abordés",
+			"vous": "êtes abordés",
+			"ils/elles": "ont abordé",
+			"": "",
+			"je": "suis abordé",
+			"il": "est abordé",
+			"elle": "est abordée",
+			"ils": "sont abordés",
+			"elles": "sont abordées"
+		},
+		"plus-que-parfait": {
+			"j'": "étais abordé",
+			"tu": "étais abordé",
+			"il/elle": "avait abordé",
+			"nous": "étions abordés",
+			"vous": "étiez abordés",
+			"ils/elles": "avaient abordé",
+			"": "",
+			"il": "était abordé",
+			"elle": "était abordée",
+			"ils": "étaient abordés",
+			"elles": "étaient abordées"
+		},
+		"passé antérieur": {
+			"j'": "eus abordé",
+			"tu": "fus abordé",
+			"il/elle": "eut abordé",
+			"nous": "fûmes abordés",
+			"vous": "fûtes abordés",
+			"ils/elles": "eurent abordé",
+			"": "",
+			"je": "fus abordé",
+			"il": "fut abordé",
+			"elle": "fut abordée",
+			"ils": "furent abordés",
+			"elles": "furent abordées"
+		},
+		"futur antérieur": {
+			"j'": "aurai abordé",
+			"tu": "seras abordé",
+			"il/elle": "aura abordé",
+			"nous": "serons abordés",
+			"vous": "serez abordés",
+			"ils/elles": "auront abordé",
+			"": "",
+			"je": "serai abordé",
+			"il": "sera abordé",
+			"elle": "sera abordée",
+			"ils": "seront abordés",
+			"elles": "seront abordées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "aborde",
+			"que": "vous abordiez",
+			"qu'il/elle": "aborde",
+			"qu'ils/elles": "abordent"
+		},
+		"imparfait": {
+			"j'": "abordasse",
+			"que": "vous abordassiez",
+			"qu'il/elle": "abordât",
+			"qu'ils/elles": "abordassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse abordé",
+			"que": "vous fussiez abordés",
+			"qu'il/elle": "eût abordé",
+			"qu'ils/elles": "eussent abordé",
+			"": "",
+			"qu'il": "fût abordé",
+			"qu'elle": "fût abordée",
+			"qu'ils": "fussent abordés",
+			"qu'elles": "fussent abordées"
+		},
+		"passé": {
+			"j'": "aie abordé",
+			"que": "vous soyez abordés",
+			"qu'il/elle": "ait abordé",
+			"qu'ils/elles": "aient abordé",
+			"": "",
+			"qu'il": "soit abordé",
+			"qu'elle": "soit abordée",
+			"qu'ils": "soient abordés",
+			"qu'elles": "soient abordées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "aborderais",
+			"tu": "aborderais",
+			"il/elle": "aborderait",
+			"nous": "aborderions",
+			"vous": "aborderiez",
+			"ils/elles": "aborderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais abordé",
+			"tu": "serais abordé",
+			"il/elle": "aurait abordé",
+			"nous": "serions abordés",
+			"vous": "seriez abordés",
+			"ils/elles": "auraient abordé",
+			"": "",
+			"je": "serais abordé",
+			"il": "serait abordé",
+			"elle": "serait abordée",
+			"ils": "seraient abordés",
+			"elles": "seraient abordées"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse abordé",
+			"tu": "fusses abordé",
+			"il/elle": "eût abordé",
+			"nous": "fussions abordés",
+			"vous": "fussiez abordés",
+			"ils/elles": "eussent abordé",
+			"": "",
+			"je": "fusse abordé",
+			"il": "fût abordé",
+			"elle": "fût abordée",
+			"ils": "fussent abordés",
+			"elles": "fussent abordées"
+		}
+	},
+	"participe": {
+		"présent": { "abordant": "" },
+		"passé composé": { "ayant": "abordé", "": "", "étant": "abordée" },
+		"passé": {
+			"masc.sg.:": "abordé",
+			"masc.pl.:": "abordés",
+			"fém.sg.:": "abordée",
+			"fém.pl.:": "abordées"
+		}
+	},
+	"imperatif": {
+		"présent": { "aborde": "", "abordons": "", "abordez": "" },
+		"passé": {
+			"aie": "abordé",
+			"ayons": "abordé",
+			"ayez": "abordé",
+			"": "",
+			"sois": "abordé",
+			"soyons": "abordé",
+			"soyez": "abordé"
+		}
+	},
+	"infinitif": {
+		"présent": { "aborder": "" },
+		"passé": { "avoir": "abordé", "": "", "être": "abordé" }
+	}
+}

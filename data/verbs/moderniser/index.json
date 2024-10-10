@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "modernize; modernise; upgrade; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se moderniser/ne pas moderniser/ne pas se moderniser",
+	"indicatif": {
+		"présent": {
+			"je": "modernise",
+			"tu": "modernises",
+			"il/elle": "modernise",
+			"nous": "modernisons",
+			"vous": "modernisez",
+			"ils/elles": "modernisent"
+		},
+		"imparfait": {
+			"je": "modernisais",
+			"tu": "modernisais",
+			"il/elle": "modernisait",
+			"nous": "modernisions",
+			"vous": "modernisiez",
+			"ils/elles": "modernisaient"
+		},
+		"futur": {
+			"je": "moderniserai",
+			"tu": "moderniseras",
+			"il/elle": "modernisera",
+			"nous": "moderniserons",
+			"vous": "moderniserez",
+			"ils/elles": "moderniseront"
+		},
+		"passé simple": {
+			"je": "modernisai",
+			"tu": "modernisas",
+			"il/elle": "modernisa",
+			"nous": "modernisâmes",
+			"vous": "modernisâtes",
+			"ils/elles": "modernisèrent"
+		},
+		"passé composé": {
+			"j'": "ai modernisé",
+			"tu": "as modernisé",
+			"il/elle": "a modernisé",
+			"nous": "avons modernisé",
+			"vous": "avez modernisé",
+			"ils/elles": "ont modernisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais modernisé",
+			"tu": "avais modernisé",
+			"il/elle": "avait modernisé",
+			"nous": "avions modernisé",
+			"vous": "aviez modernisé",
+			"ils/elles": "avaient modernisé"
+		},
+		"passé antérieur": {
+			"j'": "eus modernisé",
+			"tu": "eus modernisé",
+			"il/elle": "eut modernisé",
+			"nous": "eûmes modernisé",
+			"vous": "eûtes modernisé",
+			"ils/elles": "eurent modernisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai modernisé",
+			"tu": "auras modernisé",
+			"il/elle": "aura modernisé",
+			"nous": "aurons modernisé",
+			"vous": "aurez modernisé",
+			"ils/elles": "auront modernisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous modernisiez",
+			"qu'il/elle": "modernise",
+			"qu'ils/elles": "modernisent"
+		},
+		"imparfait": {
+			"que": "vous modernisassiez",
+			"qu'il/elle": "modernisât",
+			"qu'ils/elles": "modernisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse modernisé",
+			"que": "vous eussiez modernisé",
+			"qu'il/elle": "eût modernisé",
+			"qu'ils/elles": "eussent modernisé"
+		},
+		"passé": {
+			"j'": "aie modernisé",
+			"que": "vous ayez modernisé",
+			"qu'il/elle": "ait modernisé",
+			"qu'ils/elles": "aient modernisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "moderniserais",
+			"tu": "moderniserais",
+			"il/elle": "moderniserait",
+			"nous": "moderniserions",
+			"vous": "moderniseriez",
+			"ils/elles": "moderniseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais modernisé",
+			"tu": "aurais modernisé",
+			"il/elle": "aurait modernisé",
+			"nous": "aurions modernisé",
+			"vous": "auriez modernisé",
+			"ils/elles": "auraient modernisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse modernisé",
+			"tu": "eusses modernisé",
+			"il/elle": "eût modernisé",
+			"nous": "eussions modernisé",
+			"vous": "eussiez modernisé",
+			"ils/elles": "eussent modernisé"
+		}
+	},
+	"participe": {
+		"présent": { "modernisant": "" },
+		"passé composé": { "ayant": "modernisé" },
+		"passé": {
+			"masc.sg.:": "modernisé",
+			"masc.pl.:": "modernisés",
+			"fém.sg.:": "modernisée",
+			"fém.pl.:": "modernisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "modernise": "", "modernisons": "", "modernisez": "" },
+		"passé": { "aie": "modernisé", "ayons": "modernisé", "ayez": "modernisé" }
+	},
+	"infinitif": {
+		"présent": { "moderniser": "" },
+		"passé": { "avoir": "modernisé" }
+	}
+}

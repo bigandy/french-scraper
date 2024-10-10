@@ -1,0 +1,145 @@
+{
+	"name": "manger",
+	"definition": "",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "se sous-charger/ne pas sous-charger/ne pas se sous-charger",
+	"indicatif": {
+		"présent": {
+			"je": "sous-charge",
+			"tu": "sous-charges",
+			"il/elle": "sous-charge",
+			"nous": "sous-chargeons",
+			"vous": "sous-chargez",
+			"ils/elles": "sous-chargent"
+		},
+		"imparfait": {
+			"je": "sous-chargeais",
+			"tu": "sous-chargeais",
+			"il/elle": "sous-chargeait",
+			"nous": "sous-chargions",
+			"vous": "sous-chargiez",
+			"ils/elles": "sous-chargeaient"
+		},
+		"futur": {
+			"je": "sous-chargerai",
+			"tu": "sous-chargeras",
+			"il/elle": "sous-chargera",
+			"nous": "sous-chargerons",
+			"vous": "sous-chargerez",
+			"ils/elles": "sous-chargeront"
+		},
+		"passé simple": {
+			"je": "sous-chargeai",
+			"tu": "sous-chargeas",
+			"il/elle": "sous-chargea",
+			"nous": "sous-chargeâmes",
+			"vous": "sous-chargeâtes",
+			"ils/elles": "sous-chargèrent"
+		},
+		"passé composé": {
+			"j'": "ai sous-chargé",
+			"tu": "as sous-chargé",
+			"il/elle": "a sous-chargé",
+			"nous": "avons sous-chargé",
+			"vous": "avez sous-chargé",
+			"ils/elles": "ont sous-chargé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais sous-chargé",
+			"tu": "avais sous-chargé",
+			"il/elle": "avait sous-chargé",
+			"nous": "avions sous-chargé",
+			"vous": "aviez sous-chargé",
+			"ils/elles": "avaient sous-chargé"
+		},
+		"passé antérieur": {
+			"j'": "eus sous-chargé",
+			"tu": "eus sous-chargé",
+			"il/elle": "eut sous-chargé",
+			"nous": "eûmes sous-chargé",
+			"vous": "eûtes sous-chargé",
+			"ils/elles": "eurent sous-chargé"
+		},
+		"futur antérieur": {
+			"j'": "aurai sous-chargé",
+			"tu": "auras sous-chargé",
+			"il/elle": "aura sous-chargé",
+			"nous": "aurons sous-chargé",
+			"vous": "aurez sous-chargé",
+			"ils/elles": "auront sous-chargé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous sous-chargiez",
+			"qu'il/elle": "sous-charge",
+			"qu'ils/elles": "sous-chargent"
+		},
+		"imparfait": {
+			"que": "vous sous-chargeassiez",
+			"qu'il/elle": "sous-chargeât",
+			"qu'ils/elles": "sous-chargeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse sous-chargé",
+			"que": "vous eussiez sous-chargé",
+			"qu'il/elle": "eût sous-chargé",
+			"qu'ils/elles": "eussent sous-chargé"
+		},
+		"passé": {
+			"j'": "aie sous-chargé",
+			"que": "vous ayez sous-chargé",
+			"qu'il/elle": "ait sous-chargé",
+			"qu'ils/elles": "aient sous-chargé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "sous-chargerais",
+			"tu": "sous-chargerais",
+			"il/elle": "sous-chargerait",
+			"nous": "sous-chargerions",
+			"vous": "sous-chargeriez",
+			"ils/elles": "sous-chargeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais sous-chargé",
+			"tu": "aurais sous-chargé",
+			"il/elle": "aurait sous-chargé",
+			"nous": "aurions sous-chargé",
+			"vous": "auriez sous-chargé",
+			"ils/elles": "auraient sous-chargé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse sous-chargé",
+			"tu": "eusses sous-chargé",
+			"il/elle": "eût sous-chargé",
+			"nous": "eussions sous-chargé",
+			"vous": "eussiez sous-chargé",
+			"ils/elles": "eussent sous-chargé"
+		}
+	},
+	"participe": {
+		"présent": { "sous-chargeant": "" },
+		"passé composé": { "ayant": "sous-chargé" },
+		"passé": {
+			"masc.sg.:": "sous-chargé",
+			"masc.pl.:": "sous-chargés",
+			"fém.sg.:": "sous-chargée",
+			"fém.pl.:": "sous-chargées"
+		}
+	},
+	"imperatif": {
+		"présent": { "sous-charge": "", "sous-chargeons": "", "sous-chargez": "" },
+		"passé": {
+			"aie": "sous-chargé",
+			"ayons": "sous-chargé",
+			"ayez": "sous-chargé"
+		}
+	},
+	"infinitif": {
+		"présent": { "sous-charger": "" },
+		"passé": { "avoir": "sous-chargé" }
+	}
+}

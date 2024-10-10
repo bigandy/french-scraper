@@ -1,0 +1,145 @@
+{
+	"name": "marcher",
+	"definition": "position; locate; situate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se positionner/ne pas positionner/ne pas se positionner",
+	"indicatif": {
+		"présent": {
+			"je": "positionne",
+			"tu": "positionnes",
+			"il/elle": "positionne",
+			"nous": "positionnons",
+			"vous": "positionnez",
+			"ils/elles": "positionnent"
+		},
+		"imparfait": {
+			"je": "positionnais",
+			"tu": "positionnais",
+			"il/elle": "positionnait",
+			"nous": "positionnions",
+			"vous": "positionniez",
+			"ils/elles": "positionnaient"
+		},
+		"futur": {
+			"je": "positionnerai",
+			"tu": "positionneras",
+			"il/elle": "positionnera",
+			"nous": "positionnerons",
+			"vous": "positionnerez",
+			"ils/elles": "positionneront"
+		},
+		"passé simple": {
+			"je": "positionnai",
+			"tu": "positionnas",
+			"il/elle": "positionna",
+			"nous": "positionnâmes",
+			"vous": "positionnâtes",
+			"ils/elles": "positionnèrent"
+		},
+		"passé composé": {
+			"j'": "ai positionné",
+			"tu": "as positionné",
+			"il/elle": "a positionné",
+			"nous": "avons positionné",
+			"vous": "avez positionné",
+			"ils/elles": "ont positionné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais positionné",
+			"tu": "avais positionné",
+			"il/elle": "avait positionné",
+			"nous": "avions positionné",
+			"vous": "aviez positionné",
+			"ils/elles": "avaient positionné"
+		},
+		"passé antérieur": {
+			"j'": "eus positionné",
+			"tu": "eus positionné",
+			"il/elle": "eut positionné",
+			"nous": "eûmes positionné",
+			"vous": "eûtes positionné",
+			"ils/elles": "eurent positionné"
+		},
+		"futur antérieur": {
+			"j'": "aurai positionné",
+			"tu": "auras positionné",
+			"il/elle": "aura positionné",
+			"nous": "aurons positionné",
+			"vous": "aurez positionné",
+			"ils/elles": "auront positionné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous positionniez",
+			"qu'il/elle": "positionne",
+			"qu'ils/elles": "positionnent"
+		},
+		"imparfait": {
+			"que": "vous positionnassiez",
+			"qu'il/elle": "positionnât",
+			"qu'ils/elles": "positionnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse positionné",
+			"que": "vous eussiez positionné",
+			"qu'il/elle": "eût positionné",
+			"qu'ils/elles": "eussent positionné"
+		},
+		"passé": {
+			"j'": "aie positionné",
+			"que": "vous ayez positionné",
+			"qu'il/elle": "ait positionné",
+			"qu'ils/elles": "aient positionné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "positionnerais",
+			"tu": "positionnerais",
+			"il/elle": "positionnerait",
+			"nous": "positionnerions",
+			"vous": "positionneriez",
+			"ils/elles": "positionneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais positionné",
+			"tu": "aurais positionné",
+			"il/elle": "aurait positionné",
+			"nous": "aurions positionné",
+			"vous": "auriez positionné",
+			"ils/elles": "auraient positionné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse positionné",
+			"tu": "eusses positionné",
+			"il/elle": "eût positionné",
+			"nous": "eussions positionné",
+			"vous": "eussiez positionné",
+			"ils/elles": "eussent positionné"
+		}
+	},
+	"participe": {
+		"présent": { "positionnant": "" },
+		"passé composé": { "ayant": "positionné" },
+		"passé": {
+			"masc.sg.:": "positionné",
+			"masc.pl.:": "positionnés",
+			"fém.sg.:": "positionnée",
+			"fém.pl.:": "positionnées"
+		}
+	},
+	"imperatif": {
+		"présent": { "positionne": "", "positionnons": "", "positionnez": "" },
+		"passé": {
+			"aie": "positionné",
+			"ayons": "positionné",
+			"ayez": "positionné"
+		}
+	},
+	"infinitif": {
+		"présent": { "positionner": "" },
+		"passé": { "avoir": "positionné" }
+	}
+}

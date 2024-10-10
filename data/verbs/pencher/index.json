@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "consider; look at; address; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se pencher/ne pas pencher/ne pas se pencher",
+	"indicatif": {
+		"présent": {
+			"je": "penche",
+			"tu": "penches",
+			"il/elle": "penche",
+			"nous": "penchons",
+			"vous": "penchez",
+			"ils/elles": "penchent"
+		},
+		"imparfait": {
+			"je": "penchais",
+			"tu": "penchais",
+			"il/elle": "penchait",
+			"nous": "penchions",
+			"vous": "penchiez",
+			"ils/elles": "penchaient"
+		},
+		"futur": {
+			"je": "pencherai",
+			"tu": "pencheras",
+			"il/elle": "penchera",
+			"nous": "pencherons",
+			"vous": "pencherez",
+			"ils/elles": "pencheront"
+		},
+		"passé simple": {
+			"je": "penchai",
+			"tu": "penchas",
+			"il/elle": "pencha",
+			"nous": "penchâmes",
+			"vous": "penchâtes",
+			"ils/elles": "penchèrent"
+		},
+		"passé composé": {
+			"j'": "ai penché",
+			"tu": "as penché",
+			"il/elle": "a penché",
+			"nous": "avons penché",
+			"vous": "avez penché",
+			"ils/elles": "ont penché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais penché",
+			"tu": "avais penché",
+			"il/elle": "avait penché",
+			"nous": "avions penché",
+			"vous": "aviez penché",
+			"ils/elles": "avaient penché"
+		},
+		"passé antérieur": {
+			"j'": "eus penché",
+			"tu": "eus penché",
+			"il/elle": "eut penché",
+			"nous": "eûmes penché",
+			"vous": "eûtes penché",
+			"ils/elles": "eurent penché"
+		},
+		"futur antérieur": {
+			"j'": "aurai penché",
+			"tu": "auras penché",
+			"il/elle": "aura penché",
+			"nous": "aurons penché",
+			"vous": "aurez penché",
+			"ils/elles": "auront penché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous penchiez",
+			"qu'il/elle": "penche",
+			"qu'ils/elles": "penchent"
+		},
+		"imparfait": {
+			"que": "vous penchassiez",
+			"qu'il/elle": "penchât",
+			"qu'ils/elles": "penchassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse penché",
+			"que": "vous eussiez penché",
+			"qu'il/elle": "eût penché",
+			"qu'ils/elles": "eussent penché"
+		},
+		"passé": {
+			"j'": "aie penché",
+			"que": "vous ayez penché",
+			"qu'il/elle": "ait penché",
+			"qu'ils/elles": "aient penché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "pencherais",
+			"tu": "pencherais",
+			"il/elle": "pencherait",
+			"nous": "pencherions",
+			"vous": "pencheriez",
+			"ils/elles": "pencheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais penché",
+			"tu": "aurais penché",
+			"il/elle": "aurait penché",
+			"nous": "aurions penché",
+			"vous": "auriez penché",
+			"ils/elles": "auraient penché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse penché",
+			"tu": "eusses penché",
+			"il/elle": "eût penché",
+			"nous": "eussions penché",
+			"vous": "eussiez penché",
+			"ils/elles": "eussent penché"
+		}
+	},
+	"participe": {
+		"présent": { "penchant": "" },
+		"passé composé": { "ayant": "penché" },
+		"passé": {
+			"masc.sg.:": "penché",
+			"masc.pl.:": "penchés",
+			"fém.sg.:": "penchée",
+			"fém.pl.:": "penchées"
+		}
+	},
+	"imperatif": {
+		"présent": { "penche": "", "penchons": "", "penchez": "" },
+		"passé": { "aie": "penché", "ayons": "penché", "ayez": "penché" }
+	},
+	"infinitif": { "présent": { "pencher": "" }, "passé": { "avoir": "penché" } }
+}

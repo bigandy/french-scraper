@@ -1,0 +1,143 @@
+{
+	"name": "finir",
+	"definition": "weaken; undermine; erode; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "s'affaiblir/ne pas affaiblir/ne pas s'affaiblir",
+	"indicatif": {
+		"présent": {
+			"j'": "affaiblis",
+			"tu": "affaiblis",
+			"il/elle": "affaiblit",
+			"nous": "affaiblissons",
+			"vous": "affaiblissez",
+			"ils/elles": "affaiblissent"
+		},
+		"imparfait": {
+			"j'": "affaiblissais",
+			"tu": "affaiblissais",
+			"il/elle": "affaiblissait",
+			"nous": "affaiblissions",
+			"vous": "affaiblissiez",
+			"ils/elles": "affaiblissaient"
+		},
+		"futur": {
+			"j'": "affaiblirai",
+			"tu": "affaibliras",
+			"il/elle": "affaiblira",
+			"nous": "affaiblirons",
+			"vous": "affaiblirez",
+			"ils/elles": "affaibliront"
+		},
+		"passé simple": {
+			"j'": "affaiblis",
+			"tu": "affaiblis",
+			"il/elle": "affaiblit",
+			"nous": "affaiblîmes",
+			"vous": "affaiblîtes",
+			"ils/elles": "affaiblirent"
+		},
+		"passé composé": {
+			"j'": "ai affaibli",
+			"tu": "as affaibli",
+			"il/elle": "a affaibli",
+			"nous": "avons affaibli",
+			"vous": "avez affaibli",
+			"ils/elles": "ont affaibli"
+		},
+		"plus-que-parfait": {
+			"j'": "avais affaibli",
+			"tu": "avais affaibli",
+			"il/elle": "avait affaibli",
+			"nous": "avions affaibli",
+			"vous": "aviez affaibli",
+			"ils/elles": "avaient affaibli"
+		},
+		"passé antérieur": {
+			"j'": "eus affaibli",
+			"tu": "eus affaibli",
+			"il/elle": "eut affaibli",
+			"nous": "eûmes affaibli",
+			"vous": "eûtes affaibli",
+			"ils/elles": "eurent affaibli"
+		},
+		"futur antérieur": {
+			"j'": "aurai affaibli",
+			"tu": "auras affaibli",
+			"il/elle": "aura affaibli",
+			"nous": "aurons affaibli",
+			"vous": "aurez affaibli",
+			"ils/elles": "auront affaibli"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "affaiblisse",
+			"que": "vous affaiblissiez",
+			"qu'il/elle": "affaiblisse",
+			"qu'ils/elles": "affaiblissent"
+		},
+		"imparfait": {
+			"j'": "affaiblisse",
+			"que": "vous affaiblissiez",
+			"qu'il/elle": "affaiblît",
+			"qu'ils/elles": "affaiblissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse affaibli",
+			"que": "vous eussiez affaibli",
+			"qu'il/elle": "eût affaibli",
+			"qu'ils/elles": "eussent affaibli"
+		},
+		"passé": {
+			"j'": "aie affaibli",
+			"que": "vous ayez affaibli",
+			"qu'il/elle": "ait affaibli",
+			"qu'ils/elles": "aient affaibli"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "affaiblirais",
+			"tu": "affaiblirais",
+			"il/elle": "affaiblirait",
+			"nous": "affaiblirions",
+			"vous": "affaibliriez",
+			"ils/elles": "affaibliraient"
+		},
+		"passé première forme": {
+			"j'": "aurais affaibli",
+			"tu": "aurais affaibli",
+			"il/elle": "aurait affaibli",
+			"nous": "aurions affaibli",
+			"vous": "auriez affaibli",
+			"ils/elles": "auraient affaibli"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse affaibli",
+			"tu": "eusses affaibli",
+			"il/elle": "eût affaibli",
+			"nous": "eussions affaibli",
+			"vous": "eussiez affaibli",
+			"ils/elles": "eussent affaibli"
+		}
+	},
+	"participe": {
+		"présent": { "affaiblissant": "" },
+		"passé composé": { "ayant": "affaibli" },
+		"passé": {
+			"masc.sg.:": "affaibli",
+			"masc.pl.:": "affaiblis",
+			"fém.sg.:": "affaiblie",
+			"fém.pl.:": "affaiblies"
+		}
+	},
+	"imperatif": {
+		"présent": { "affaiblis": "", "affaiblissons": "", "affaiblissez": "" },
+		"passé": { "aie": "affaibli", "ayons": "affaibli", "ayez": "affaibli" }
+	},
+	"infinitif": {
+		"présent": { "affaiblir": "" },
+		"passé": { "avoir": "affaibli" }
+	}
+}

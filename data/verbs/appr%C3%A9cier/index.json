@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "appreciate; enjoy; assess; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'apprécier/ne pas apprécier/ne pas s'apprécier",
+	"indicatif": {
+		"présent": {
+			"j'": "apprécie",
+			"tu": "apprécies",
+			"il/elle": "apprécie",
+			"nous": "apprécions",
+			"vous": "appréciez",
+			"ils/elles": "apprécient"
+		},
+		"imparfait": {
+			"j'": "appréciais",
+			"tu": "appréciais",
+			"il/elle": "appréciait",
+			"nous": "appréciions",
+			"vous": "appréciiez",
+			"ils/elles": "appréciaient"
+		},
+		"futur": {
+			"j'": "apprécierai",
+			"tu": "apprécieras",
+			"il/elle": "appréciera",
+			"nous": "apprécierons",
+			"vous": "apprécierez",
+			"ils/elles": "apprécieront"
+		},
+		"passé simple": {
+			"j'": "appréciai",
+			"tu": "apprécias",
+			"il/elle": "apprécia",
+			"nous": "appréciâmes",
+			"vous": "appréciâtes",
+			"ils/elles": "apprécièrent"
+		},
+		"passé composé": {
+			"j'": "ai apprécié",
+			"tu": "as apprécié",
+			"il/elle": "a apprécié",
+			"nous": "avons apprécié",
+			"vous": "avez apprécié",
+			"ils/elles": "ont apprécié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais apprécié",
+			"tu": "avais apprécié",
+			"il/elle": "avait apprécié",
+			"nous": "avions apprécié",
+			"vous": "aviez apprécié",
+			"ils/elles": "avaient apprécié"
+		},
+		"passé antérieur": {
+			"j'": "eus apprécié",
+			"tu": "eus apprécié",
+			"il/elle": "eut apprécié",
+			"nous": "eûmes apprécié",
+			"vous": "eûtes apprécié",
+			"ils/elles": "eurent apprécié"
+		},
+		"futur antérieur": {
+			"j'": "aurai apprécié",
+			"tu": "auras apprécié",
+			"il/elle": "aura apprécié",
+			"nous": "aurons apprécié",
+			"vous": "aurez apprécié",
+			"ils/elles": "auront apprécié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "apprécie",
+			"que": "vous appréciiez",
+			"qu'il/elle": "apprécie",
+			"qu'ils/elles": "apprécient"
+		},
+		"imparfait": {
+			"j'": "appréciasse",
+			"que": "vous appréciassiez",
+			"qu'il/elle": "appréciât",
+			"qu'ils/elles": "appréciassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse apprécié",
+			"que": "vous eussiez apprécié",
+			"qu'il/elle": "eût apprécié",
+			"qu'ils/elles": "eussent apprécié"
+		},
+		"passé": {
+			"j'": "aie apprécié",
+			"que": "vous ayez apprécié",
+			"qu'il/elle": "ait apprécié",
+			"qu'ils/elles": "aient apprécié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "apprécierais",
+			"tu": "apprécierais",
+			"il/elle": "apprécierait",
+			"nous": "apprécierions",
+			"vous": "apprécieriez",
+			"ils/elles": "apprécieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais apprécié",
+			"tu": "aurais apprécié",
+			"il/elle": "aurait apprécié",
+			"nous": "aurions apprécié",
+			"vous": "auriez apprécié",
+			"ils/elles": "auraient apprécié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse apprécié",
+			"tu": "eusses apprécié",
+			"il/elle": "eût apprécié",
+			"nous": "eussions apprécié",
+			"vous": "eussiez apprécié",
+			"ils/elles": "eussent apprécié"
+		}
+	},
+	"participe": {
+		"présent": { "appréciant": "" },
+		"passé composé": { "ayant": "apprécié" },
+		"passé": {
+			"masc.sg.:": "apprécié",
+			"masc.pl.:": "appréciés",
+			"fém.sg.:": "appréciée",
+			"fém.pl.:": "appréciées"
+		}
+	},
+	"imperatif": {
+		"présent": { "apprécie": "", "apprécions": "", "appréciez": "" },
+		"passé": { "aie": "apprécié", "ayons": "apprécié", "ayez": "apprécié" }
+	},
+	"infinitif": {
+		"présent": { "apprécier": "" },
+		"passé": { "avoir": "apprécié" }
+	}
+}

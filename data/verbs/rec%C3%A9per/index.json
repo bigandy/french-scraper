@@ -1,0 +1,138 @@
+{
+	"name": "recéper",
+	"definition": "cut off; ...",
+	"model": "recéper",
+	"auxiliary": "avoir",
+	"otherForms": "se recéper/ne pas recéper/ne pas se recéper",
+	"indicatif": {
+		"présent": {
+			"je": "recèpe",
+			"tu": "recèpes",
+			"il/elle": "recèpe",
+			"nous": "recépons",
+			"vous": "recépez",
+			"ils/elles": "recèpent"
+		},
+		"imparfait": {
+			"je": "recépais",
+			"tu": "recépais",
+			"il/elle": "recépait",
+			"nous": "recépions",
+			"vous": "recépiez",
+			"ils/elles": "recépaient"
+		},
+		"futur": {
+			"je": "recèperai",
+			"tu": "recèperas",
+			"il/elle": "recèpera",
+			"nous": "recèperons",
+			"vous": "recèperez",
+			"ils/elles": "recèperont"
+		},
+		"passé simple": {
+			"je": "recépai",
+			"tu": "recépas",
+			"il/elle": "recépa",
+			"nous": "recépâmes",
+			"vous": "recépâtes",
+			"ils/elles": "recépèrent"
+		},
+		"passé composé": {
+			"j'": "ai recépé",
+			"tu": "as recépé",
+			"il/elle": "a recépé",
+			"nous": "avons recépé",
+			"vous": "avez recépé",
+			"ils/elles": "ont recépé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais recépé",
+			"tu": "avais recépé",
+			"il/elle": "avait recépé",
+			"nous": "avions recépé",
+			"vous": "aviez recépé",
+			"ils/elles": "avaient recépé"
+		},
+		"passé antérieur": {
+			"j'": "eus recépé",
+			"tu": "eus recépé",
+			"il/elle": "eut recépé",
+			"nous": "eûmes recépé",
+			"vous": "eûtes recépé",
+			"ils/elles": "eurent recépé"
+		},
+		"futur antérieur": {
+			"j'": "aurai recépé",
+			"tu": "auras recépé",
+			"il/elle": "aura recépé",
+			"nous": "aurons recépé",
+			"vous": "aurez recépé",
+			"ils/elles": "auront recépé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous recépiez",
+			"qu'il/elle": "recèpe",
+			"qu'ils/elles": "recèrent"
+		},
+		"imparfait": {
+			"que": "vous recépassiez",
+			"qu'il/elle": "recépat",
+			"qu'ils/elles": "recépassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse recépé",
+			"que": "vous eussiez recépé",
+			"qu'il/elle": "eût recépé",
+			"qu'ils/elles": "eussent recépé"
+		},
+		"passé": {
+			"j'": "aie recépé",
+			"que": "vous ayez recépé",
+			"qu'il/elle": "ait recépé",
+			"qu'ils/elles": "aient recépé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "recèperais",
+			"tu": "recèperais",
+			"il/elle": "recèperait",
+			"nous": "recèperions",
+			"vous": "recèperiez",
+			"ils/elles": "recèperaient"
+		},
+		"passé première forme": {
+			"j'": "aurais recépé",
+			"tu": "aurais recépé",
+			"il/elle": "aurait recépé",
+			"nous": "aurions recépé",
+			"vous": "auriez recépé",
+			"ils/elles": "auraient recépé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse recépé",
+			"tu": "eusses recépé",
+			"il/elle": "eût recépé",
+			"nous": "eussions recépé",
+			"vous": "eussiez recépé",
+			"ils/elles": "eussent recépé"
+		}
+	},
+	"participe": {
+		"présent": { "recépant": "" },
+		"passé composé": { "ayant": "recépé" },
+		"passé": {
+			"masc.sg.:": "recépé",
+			"masc.pl.:": "recépés",
+			"fém.sg.:": "recépée",
+			"fém.pl.:": "recépées"
+		}
+	},
+	"imperatif": {
+		"présent": { "recèpe": "", "recépons": "", "recépez": "" },
+		"passé": { "aie": "recépé", "ayons": "recépé", "ayez": "recépé" }
+	},
+	"infinitif": { "présent": { "recéper": "" }, "passé": { "avoir": "recépé" } }
+}

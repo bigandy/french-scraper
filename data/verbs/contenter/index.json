@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "satisfy; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se contenter/ne pas contenter/ne pas se contenter",
+	"indicatif": {
+		"présent": {
+			"je": "contente",
+			"tu": "contentes",
+			"il/elle": "contente",
+			"nous": "contentons",
+			"vous": "contentez",
+			"ils/elles": "contentent"
+		},
+		"imparfait": {
+			"je": "contentais",
+			"tu": "contentais",
+			"il/elle": "contentait",
+			"nous": "contentions",
+			"vous": "contentiez",
+			"ils/elles": "contentaient"
+		},
+		"futur": {
+			"je": "contenterai",
+			"tu": "contenteras",
+			"il/elle": "contentera",
+			"nous": "contenterons",
+			"vous": "contenterez",
+			"ils/elles": "contenteront"
+		},
+		"passé simple": {
+			"je": "contentai",
+			"tu": "contentas",
+			"il/elle": "contenta",
+			"nous": "contentâmes",
+			"vous": "contentâtes",
+			"ils/elles": "contentèrent"
+		},
+		"passé composé": {
+			"j'": "ai contenté",
+			"tu": "as contenté",
+			"il/elle": "a contenté",
+			"nous": "avons contenté",
+			"vous": "avez contenté",
+			"ils/elles": "ont contenté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais contenté",
+			"tu": "avais contenté",
+			"il/elle": "avait contenté",
+			"nous": "avions contenté",
+			"vous": "aviez contenté",
+			"ils/elles": "avaient contenté"
+		},
+		"passé antérieur": {
+			"j'": "eus contenté",
+			"tu": "eus contenté",
+			"il/elle": "eut contenté",
+			"nous": "eûmes contenté",
+			"vous": "eûtes contenté",
+			"ils/elles": "eurent contenté"
+		},
+		"futur antérieur": {
+			"j'": "aurai contenté",
+			"tu": "auras contenté",
+			"il/elle": "aura contenté",
+			"nous": "aurons contenté",
+			"vous": "aurez contenté",
+			"ils/elles": "auront contenté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous contentiez",
+			"qu'il/elle": "contente",
+			"qu'ils/elles": "contentent"
+		},
+		"imparfait": {
+			"que": "vous contentassiez",
+			"qu'il/elle": "contentât",
+			"qu'ils/elles": "contentassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse contenté",
+			"que": "vous eussiez contenté",
+			"qu'il/elle": "eût contenté",
+			"qu'ils/elles": "eussent contenté"
+		},
+		"passé": {
+			"j'": "aie contenté",
+			"que": "vous ayez contenté",
+			"qu'il/elle": "ait contenté",
+			"qu'ils/elles": "aient contenté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "contenterais",
+			"tu": "contenterais",
+			"il/elle": "contenterait",
+			"nous": "contenterions",
+			"vous": "contenteriez",
+			"ils/elles": "contenteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais contenté",
+			"tu": "aurais contenté",
+			"il/elle": "aurait contenté",
+			"nous": "aurions contenté",
+			"vous": "auriez contenté",
+			"ils/elles": "auraient contenté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse contenté",
+			"tu": "eusses contenté",
+			"il/elle": "eût contenté",
+			"nous": "eussions contenté",
+			"vous": "eussiez contenté",
+			"ils/elles": "eussent contenté"
+		}
+	},
+	"participe": {
+		"présent": { "contentant": "" },
+		"passé composé": { "ayant": "contenté" },
+		"passé": {
+			"masc.sg.:": "contenté",
+			"masc.pl.:": "contentés",
+			"fém.sg.:": "contentée",
+			"fém.pl.:": "contentées"
+		}
+	},
+	"imperatif": {
+		"présent": { "contente": "", "contentons": "", "contentez": "" },
+		"passé": { "aie": "contenté", "ayons": "contenté", "ayez": "contenté" }
+	},
+	"infinitif": {
+		"présent": { "contenter": "" },
+		"passé": { "avoir": "contenté" }
+	}
+}

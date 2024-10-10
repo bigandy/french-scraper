@@ -1,0 +1,141 @@
+{
+	"name": "finir",
+	"definition": "sympathize; commiserate; empathize; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas compatir",
+	"indicatif": {
+		"présent": {
+			"je": "compatis",
+			"tu": "compatis",
+			"il/elle": "compatit",
+			"nous": "compatissons",
+			"vous": "compatissez",
+			"ils/elles": "compatissent"
+		},
+		"imparfait": {
+			"je": "compatissais",
+			"tu": "compatissais",
+			"il/elle": "compatissait",
+			"nous": "compatissions",
+			"vous": "compatissiez",
+			"ils/elles": "compatissaient"
+		},
+		"futur": {
+			"je": "compatirai",
+			"tu": "compatiras",
+			"il/elle": "compatira",
+			"nous": "compatirons",
+			"vous": "compatirez",
+			"ils/elles": "compatiront"
+		},
+		"passé simple": {
+			"je": "compatis",
+			"tu": "compatis",
+			"il/elle": "compatit",
+			"nous": "compatîmes",
+			"vous": "compatîtes",
+			"ils/elles": "compatirent"
+		},
+		"passé composé": {
+			"j'": "ai compati",
+			"tu": "as compati",
+			"il/elle": "a compati",
+			"nous": "avons compati",
+			"vous": "avez compati",
+			"ils/elles": "ont compati"
+		},
+		"plus-que-parfait": {
+			"j'": "avais compati",
+			"tu": "avais compati",
+			"il/elle": "avait compati",
+			"nous": "avions compati",
+			"vous": "aviez compati",
+			"ils/elles": "avaient compati"
+		},
+		"passé antérieur": {
+			"j'": "eus compati",
+			"tu": "eus compati",
+			"il/elle": "eut compati",
+			"nous": "eûmes compati",
+			"vous": "eûtes compati",
+			"ils/elles": "eurent compati"
+		},
+		"futur antérieur": {
+			"j'": "aurai compati",
+			"tu": "auras compati",
+			"il/elle": "aura compati",
+			"nous": "aurons compati",
+			"vous": "aurez compati",
+			"ils/elles": "auront compati"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous compatissiez",
+			"qu'il/elle": "compatisse",
+			"qu'ils/elles": "compatissent"
+		},
+		"imparfait": {
+			"que": "vous compatissiez",
+			"qu'il/elle": "compatît",
+			"qu'ils/elles": "compatissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse compati",
+			"que": "vous eussiez compati",
+			"qu'il/elle": "eût compati",
+			"qu'ils/elles": "eussent compati"
+		},
+		"passé": {
+			"j'": "aie compati",
+			"que": "vous ayez compati",
+			"qu'il/elle": "ait compati",
+			"qu'ils/elles": "aient compati"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "compatirais",
+			"tu": "compatirais",
+			"il/elle": "compatirait",
+			"nous": "compatirions",
+			"vous": "compatiriez",
+			"ils/elles": "compatiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais compati",
+			"tu": "aurais compati",
+			"il/elle": "aurait compati",
+			"nous": "aurions compati",
+			"vous": "auriez compati",
+			"ils/elles": "auraient compati"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse compati",
+			"tu": "eusses compati",
+			"il/elle": "eût compati",
+			"nous": "eussions compati",
+			"vous": "eussiez compati",
+			"ils/elles": "eussent compati"
+		}
+	},
+	"participe": {
+		"présent": { "compatissant": "" },
+		"passé composé": { "ayant": "compati" },
+		"passé": {
+			"masc.sg.:": "compati",
+			"masc.pl.:": "compatis",
+			"fém.sg.:": "compatie",
+			"fém.pl.:": "compaties"
+		}
+	},
+	"imperatif": {
+		"présent": { "compatis": "", "compatissons": "", "compatissez": "" },
+		"passé": { "aie": "compati", "ayons": "compati", "ayez": "compati" }
+	},
+	"infinitif": {
+		"présent": { "compatir": "" },
+		"passé": { "avoir": "compati" }
+	}
+}

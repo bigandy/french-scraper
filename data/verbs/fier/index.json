@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "rely; trust; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se fier/ne pas fier/ne pas se fier",
+	"indicatif": {
+		"présent": {
+			"je": "fie",
+			"tu": "fies",
+			"il/elle": "fie",
+			"nous": "fions",
+			"vous": "fiez",
+			"ils/elles": "fient"
+		},
+		"imparfait": {
+			"je": "fiais",
+			"tu": "fiais",
+			"il/elle": "fiait",
+			"nous": "fiions",
+			"vous": "fiiez",
+			"ils/elles": "fiaient"
+		},
+		"futur": {
+			"je": "fierai",
+			"tu": "fieras",
+			"il/elle": "fiera",
+			"nous": "fierons",
+			"vous": "fierez",
+			"ils/elles": "fieront"
+		},
+		"passé simple": {
+			"je": "fiai",
+			"tu": "fias",
+			"il/elle": "fia",
+			"nous": "fiâmes",
+			"vous": "fiâtes",
+			"ils/elles": "fièrent"
+		},
+		"passé composé": {
+			"j'": "ai fié",
+			"tu": "as fié",
+			"il/elle": "a fié",
+			"nous": "avons fié",
+			"vous": "avez fié",
+			"ils/elles": "ont fié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais fié",
+			"tu": "avais fié",
+			"il/elle": "avait fié",
+			"nous": "avions fié",
+			"vous": "aviez fié",
+			"ils/elles": "avaient fié"
+		},
+		"passé antérieur": {
+			"j'": "eus fié",
+			"tu": "eus fié",
+			"il/elle": "eut fié",
+			"nous": "eûmes fié",
+			"vous": "eûtes fié",
+			"ils/elles": "eurent fié"
+		},
+		"futur antérieur": {
+			"j'": "aurai fié",
+			"tu": "auras fié",
+			"il/elle": "aura fié",
+			"nous": "aurons fié",
+			"vous": "aurez fié",
+			"ils/elles": "auront fié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous fiiez",
+			"qu'il/elle": "fie",
+			"qu'ils/elles": "fient"
+		},
+		"imparfait": {
+			"que": "vous fiassiez",
+			"qu'il/elle": "fiât",
+			"qu'ils/elles": "fiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse fié",
+			"que": "vous eussiez fié",
+			"qu'il/elle": "eût fié",
+			"qu'ils/elles": "eussent fié"
+		},
+		"passé": {
+			"j'": "aie fié",
+			"que": "vous ayez fié",
+			"qu'il/elle": "ait fié",
+			"qu'ils/elles": "aient fié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "fierais",
+			"tu": "fierais",
+			"il/elle": "fierait",
+			"nous": "fierions",
+			"vous": "fieriez",
+			"ils/elles": "fieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais fié",
+			"tu": "aurais fié",
+			"il/elle": "aurait fié",
+			"nous": "aurions fié",
+			"vous": "auriez fié",
+			"ils/elles": "auraient fié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse fié",
+			"tu": "eusses fié",
+			"il/elle": "eût fié",
+			"nous": "eussions fié",
+			"vous": "eussiez fié",
+			"ils/elles": "eussent fié"
+		}
+	},
+	"participe": {
+		"présent": { "fiant": "" },
+		"passé composé": { "ayant": "fié" },
+		"passé": {
+			"masc.sg.:": "fié",
+			"masc.pl.:": "fiés",
+			"fém.sg.:": "fiée",
+			"fém.pl.:": "fiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "fie": "", "fions": "", "fiez": "" },
+		"passé": { "aie": "fié", "ayons": "fié", "ayez": "fié" }
+	},
+	"infinitif": { "présent": { "fier": "" }, "passé": { "avoir": "fié" } }
+}

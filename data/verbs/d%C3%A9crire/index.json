@@ -1,0 +1,138 @@
+{
+	"name": "écrire",
+	"definition": "describe; outline; depict; ...",
+	"model": "écrire",
+	"auxiliary": "avoir",
+	"otherForms": "se décrire/ne pas décrire/ne pas se décrire",
+	"indicatif": {
+		"présent": {
+			"je": "décris",
+			"tu": "décris",
+			"il/elle": "décrit",
+			"nous": "décrivons",
+			"vous": "décrivez",
+			"ils/elles": "décrivent"
+		},
+		"imparfait": {
+			"je": "décrivais",
+			"tu": "décrivais",
+			"il/elle": "décrivait",
+			"nous": "décrivions",
+			"vous": "décriviez",
+			"ils/elles": "décrivaient"
+		},
+		"futur": {
+			"je": "décrirai",
+			"tu": "décriras",
+			"il/elle": "décrira",
+			"nous": "décrirons",
+			"vous": "décrirez",
+			"ils/elles": "décriront"
+		},
+		"passé simple": {
+			"je": "décrivis",
+			"tu": "décrivis",
+			"il/elle": "décrivit",
+			"nous": "décrivîmes",
+			"vous": "décrivîtes",
+			"ils/elles": "décrivirent"
+		},
+		"passé composé": {
+			"j'": "ai décrit",
+			"tu": "as décrit",
+			"il/elle": "a décrit",
+			"nous": "avons décrit",
+			"vous": "avez décrit",
+			"ils/elles": "ont décrit"
+		},
+		"plus-que-parfait": {
+			"j'": "avais décrit",
+			"tu": "avais décrit",
+			"il/elle": "avait décrit",
+			"nous": "avions décrit",
+			"vous": "aviez décrit",
+			"ils/elles": "avaient décrit"
+		},
+		"passé antérieur": {
+			"j'": "eus décrit",
+			"tu": "eus décrit",
+			"il/elle": "eut décrit",
+			"nous": "eûmes décrit",
+			"vous": "eûtes décrit",
+			"ils/elles": "eurent décrit"
+		},
+		"futur antérieur": {
+			"j'": "aurai décrit",
+			"tu": "auras décrit",
+			"il/elle": "aura décrit",
+			"nous": "aurons décrit",
+			"vous": "aurez décrit",
+			"ils/elles": "auront décrit"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous décriviez",
+			"qu'il/elle": "décrive",
+			"qu'ils/elles": "décrivent"
+		},
+		"imparfait": {
+			"que": "vous décrivissiez",
+			"qu'il/elle": "décrivît",
+			"qu'ils/elles": "décrivissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse décrit",
+			"que": "vous eussiez décrit",
+			"qu'il/elle": "eût décrit",
+			"qu'ils/elles": "eussent décrit"
+		},
+		"passé": {
+			"j'": "aie décrit",
+			"que": "vous ayez décrit",
+			"qu'il/elle": "ait décrit",
+			"qu'ils/elles": "aient décrit"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "décrirais",
+			"tu": "décrirais",
+			"il/elle": "décrirait",
+			"nous": "décririons",
+			"vous": "décririez",
+			"ils/elles": "décriraient"
+		},
+		"passé première forme": {
+			"j'": "aurais décrit",
+			"tu": "aurais décrit",
+			"il/elle": "aurait décrit",
+			"nous": "aurions décrit",
+			"vous": "auriez décrit",
+			"ils/elles": "auraient décrit"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse décrit",
+			"tu": "eusses décrit",
+			"il/elle": "eût décrit",
+			"nous": "eussions décrit",
+			"vous": "eussiez décrit",
+			"ils/elles": "eussent décrit"
+		}
+	},
+	"participe": {
+		"présent": { "décrivant": "" },
+		"passé composé": { "ayant": "décrit" },
+		"passé": {
+			"masc.sg.:": "décrit",
+			"masc.pl.:": "décrits",
+			"fém.sg.:": "décrite",
+			"fém.pl.:": "décrites"
+		}
+	},
+	"imperatif": {
+		"présent": { "décris": "", "décrivons": "", "décrivez": "" },
+		"passé": { "aie": "décrit", "ayons": "décrit", "ayez": "décrit" }
+	},
+	"infinitif": { "présent": { "décrire": "" }, "passé": { "avoir": "décrit" } }
+}

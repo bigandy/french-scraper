@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "gather; collect; bring together; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se rassembler/ne pas rassembler/ne pas se rassembler",
+	"indicatif": {
+		"présent": {
+			"je": "rassemble",
+			"tu": "rassembles",
+			"il/elle": "rassemble",
+			"nous": "rassemblons",
+			"vous": "rassemblez",
+			"ils/elles": "rassemblent"
+		},
+		"imparfait": {
+			"je": "rassemblais",
+			"tu": "rassemblais",
+			"il/elle": "rassemblait",
+			"nous": "rassemblions",
+			"vous": "rassembliez",
+			"ils/elles": "rassemblaient"
+		},
+		"futur": {
+			"je": "rassemblerai",
+			"tu": "rassembleras",
+			"il/elle": "rassemblera",
+			"nous": "rassemblerons",
+			"vous": "rassemblerez",
+			"ils/elles": "rassembleront"
+		},
+		"passé simple": {
+			"je": "rassemblai",
+			"tu": "rassemblas",
+			"il/elle": "rassembla",
+			"nous": "rassemblâmes",
+			"vous": "rassemblâtes",
+			"ils/elles": "rassemblèrent"
+		},
+		"passé composé": {
+			"j'": "ai rassemblé",
+			"tu": "as rassemblé",
+			"il/elle": "a rassemblé",
+			"nous": "avons rassemblé",
+			"vous": "avez rassemblé",
+			"ils/elles": "ont rassemblé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais rassemblé",
+			"tu": "avais rassemblé",
+			"il/elle": "avait rassemblé",
+			"nous": "avions rassemblé",
+			"vous": "aviez rassemblé",
+			"ils/elles": "avaient rassemblé"
+		},
+		"passé antérieur": {
+			"j'": "eus rassemblé",
+			"tu": "eus rassemblé",
+			"il/elle": "eut rassemblé",
+			"nous": "eûmes rassemblé",
+			"vous": "eûtes rassemblé",
+			"ils/elles": "eurent rassemblé"
+		},
+		"futur antérieur": {
+			"j'": "aurai rassemblé",
+			"tu": "auras rassemblé",
+			"il/elle": "aura rassemblé",
+			"nous": "aurons rassemblé",
+			"vous": "aurez rassemblé",
+			"ils/elles": "auront rassemblé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous rassembliez",
+			"qu'il/elle": "rassemble",
+			"qu'ils/elles": "rassemblent"
+		},
+		"imparfait": {
+			"que": "vous rassemblassiez",
+			"qu'il/elle": "rassemblât",
+			"qu'ils/elles": "rassemblassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse rassemblé",
+			"que": "vous eussiez rassemblé",
+			"qu'il/elle": "eût rassemblé",
+			"qu'ils/elles": "eussent rassemblé"
+		},
+		"passé": {
+			"j'": "aie rassemblé",
+			"que": "vous ayez rassemblé",
+			"qu'il/elle": "ait rassemblé",
+			"qu'ils/elles": "aient rassemblé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "rassemblerais",
+			"tu": "rassemblerais",
+			"il/elle": "rassemblerait",
+			"nous": "rassemblerions",
+			"vous": "rassembleriez",
+			"ils/elles": "rassembleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais rassemblé",
+			"tu": "aurais rassemblé",
+			"il/elle": "aurait rassemblé",
+			"nous": "aurions rassemblé",
+			"vous": "auriez rassemblé",
+			"ils/elles": "auraient rassemblé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse rassemblé",
+			"tu": "eusses rassemblé",
+			"il/elle": "eût rassemblé",
+			"nous": "eussions rassemblé",
+			"vous": "eussiez rassemblé",
+			"ils/elles": "eussent rassemblé"
+		}
+	},
+	"participe": {
+		"présent": { "rassemblant": "" },
+		"passé composé": { "ayant": "rassemblé" },
+		"passé": {
+			"masc.sg.:": "rassemblé",
+			"masc.pl.:": "rassemblés",
+			"fém.sg.:": "rassemblée",
+			"fém.pl.:": "rassemblées"
+		}
+	},
+	"imperatif": {
+		"présent": { "rassemble": "", "rassemblons": "", "rassemblez": "" },
+		"passé": { "aie": "rassemblé", "ayons": "rassemblé", "ayez": "rassemblé" }
+	},
+	"infinitif": {
+		"présent": { "rassembler": "" },
+		"passé": { "avoir": "rassemblé" }
+	}
+}

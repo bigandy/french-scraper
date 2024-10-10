@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "get married; marry; wed; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se marier/ne pas marier/ne pas se marier",
+	"indicatif": {
+		"présent": {
+			"je": "marie",
+			"tu": "maries",
+			"il/elle": "marie",
+			"nous": "marions",
+			"vous": "mariez",
+			"ils/elles": "marient"
+		},
+		"imparfait": {
+			"je": "mariais",
+			"tu": "mariais",
+			"il/elle": "mariait",
+			"nous": "mariions",
+			"vous": "mariiez",
+			"ils/elles": "mariaient"
+		},
+		"futur": {
+			"je": "marierai",
+			"tu": "marieras",
+			"il/elle": "mariera",
+			"nous": "marierons",
+			"vous": "marierez",
+			"ils/elles": "marieront"
+		},
+		"passé simple": {
+			"je": "mariai",
+			"tu": "marias",
+			"il/elle": "maria",
+			"nous": "mariâmes",
+			"vous": "mariâtes",
+			"ils/elles": "marièrent"
+		},
+		"passé composé": {
+			"j'": "ai marié",
+			"tu": "as marié",
+			"il/elle": "a marié",
+			"nous": "avons marié",
+			"vous": "avez marié",
+			"ils/elles": "ont marié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais marié",
+			"tu": "avais marié",
+			"il/elle": "avait marié",
+			"nous": "avions marié",
+			"vous": "aviez marié",
+			"ils/elles": "avaient marié"
+		},
+		"passé antérieur": {
+			"j'": "eus marié",
+			"tu": "eus marié",
+			"il/elle": "eut marié",
+			"nous": "eûmes marié",
+			"vous": "eûtes marié",
+			"ils/elles": "eurent marié"
+		},
+		"futur antérieur": {
+			"j'": "aurai marié",
+			"tu": "auras marié",
+			"il/elle": "aura marié",
+			"nous": "aurons marié",
+			"vous": "aurez marié",
+			"ils/elles": "auront marié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous mariiez",
+			"qu'il/elle": "marie",
+			"qu'ils/elles": "marient"
+		},
+		"imparfait": {
+			"que": "vous mariassiez",
+			"qu'il/elle": "mariât",
+			"qu'ils/elles": "mariassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse marié",
+			"que": "vous eussiez marié",
+			"qu'il/elle": "eût marié",
+			"qu'ils/elles": "eussent marié"
+		},
+		"passé": {
+			"j'": "aie marié",
+			"que": "vous ayez marié",
+			"qu'il/elle": "ait marié",
+			"qu'ils/elles": "aient marié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "marierais",
+			"tu": "marierais",
+			"il/elle": "marierait",
+			"nous": "marierions",
+			"vous": "marieriez",
+			"ils/elles": "marieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais marié",
+			"tu": "aurais marié",
+			"il/elle": "aurait marié",
+			"nous": "aurions marié",
+			"vous": "auriez marié",
+			"ils/elles": "auraient marié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse marié",
+			"tu": "eusses marié",
+			"il/elle": "eût marié",
+			"nous": "eussions marié",
+			"vous": "eussiez marié",
+			"ils/elles": "eussent marié"
+		}
+	},
+	"participe": {
+		"présent": { "mariant": "" },
+		"passé composé": { "ayant": "marié" },
+		"passé": {
+			"masc.sg.:": "marié",
+			"masc.pl.:": "mariés",
+			"fém.sg.:": "mariée",
+			"fém.pl.:": "mariées"
+		}
+	},
+	"imperatif": {
+		"présent": { "marie": "", "marions": "", "mariez": "" },
+		"passé": { "aie": "marié", "ayons": "marié", "ayez": "marié" }
+	},
+	"infinitif": { "présent": { "marier": "" }, "passé": { "avoir": "marié" } }
+}

@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "show; demonstrate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se montrer/ne pas montrer/ne pas se montrer",
+	"indicatif": {
+		"présent": {
+			"je": "montre",
+			"tu": "montres",
+			"il/elle": "montre",
+			"nous": "montrons",
+			"vous": "montrez",
+			"ils/elles": "montrent"
+		},
+		"imparfait": {
+			"je": "montrais",
+			"tu": "montrais",
+			"il/elle": "montrait",
+			"nous": "montrions",
+			"vous": "montriez",
+			"ils/elles": "montraient"
+		},
+		"futur": {
+			"je": "montrerai",
+			"tu": "montreras",
+			"il/elle": "montrera",
+			"nous": "montrerons",
+			"vous": "montrerez",
+			"ils/elles": "montreront"
+		},
+		"passé simple": {
+			"je": "montrai",
+			"tu": "montras",
+			"il/elle": "montra",
+			"nous": "montrâmes",
+			"vous": "montrâtes",
+			"ils/elles": "montrèrent"
+		},
+		"passé composé": {
+			"j'": "ai montré",
+			"tu": "as montré",
+			"il/elle": "a montré",
+			"nous": "avons montré",
+			"vous": "avez montré",
+			"ils/elles": "ont montré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais montré",
+			"tu": "avais montré",
+			"il/elle": "avait montré",
+			"nous": "avions montré",
+			"vous": "aviez montré",
+			"ils/elles": "avaient montré"
+		},
+		"passé antérieur": {
+			"j'": "eus montré",
+			"tu": "eus montré",
+			"il/elle": "eut montré",
+			"nous": "eûmes montré",
+			"vous": "eûtes montré",
+			"ils/elles": "eurent montré"
+		},
+		"futur antérieur": {
+			"j'": "aurai montré",
+			"tu": "auras montré",
+			"il/elle": "aura montré",
+			"nous": "aurons montré",
+			"vous": "aurez montré",
+			"ils/elles": "auront montré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous montriez",
+			"qu'il/elle": "montre",
+			"qu'ils/elles": "montrent"
+		},
+		"imparfait": {
+			"que": "vous montrassiez",
+			"qu'il/elle": "montrât",
+			"qu'ils/elles": "montrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse montré",
+			"que": "vous eussiez montré",
+			"qu'il/elle": "eût montré",
+			"qu'ils/elles": "eussent montré"
+		},
+		"passé": {
+			"j'": "aie montré",
+			"que": "vous ayez montré",
+			"qu'il/elle": "ait montré",
+			"qu'ils/elles": "aient montré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "montrerais",
+			"tu": "montrerais",
+			"il/elle": "montrerait",
+			"nous": "montrerions",
+			"vous": "montreriez",
+			"ils/elles": "montreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais montré",
+			"tu": "aurais montré",
+			"il/elle": "aurait montré",
+			"nous": "aurions montré",
+			"vous": "auriez montré",
+			"ils/elles": "auraient montré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse montré",
+			"tu": "eusses montré",
+			"il/elle": "eût montré",
+			"nous": "eussions montré",
+			"vous": "eussiez montré",
+			"ils/elles": "eussent montré"
+		}
+	},
+	"participe": {
+		"présent": { "montrant": "" },
+		"passé composé": { "ayant": "montré" },
+		"passé": {
+			"masc.sg.:": "montré",
+			"masc.pl.:": "montrés",
+			"fém.sg.:": "montrée",
+			"fém.pl.:": "montrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "montre": "", "montrons": "", "montrez": "" },
+		"passé": { "aie": "montré", "ayons": "montré", "ayez": "montré" }
+	},
+	"infinitif": { "présent": { "montrer": "" }, "passé": { "avoir": "montré" } }
+}

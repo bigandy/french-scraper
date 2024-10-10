@@ -1,0 +1,145 @@
+{
+	"name": "marcher",
+	"definition": "reconcile; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se reconcilier/ne pas reconcilier/ne pas se reconcilier",
+	"indicatif": {
+		"présent": {
+			"je": "reconcilie",
+			"tu": "reconcilies",
+			"il/elle": "reconcilie",
+			"nous": "reconcilions",
+			"vous": "reconciliez",
+			"ils/elles": "reconcilient"
+		},
+		"imparfait": {
+			"je": "reconciliais",
+			"tu": "reconciliais",
+			"il/elle": "reconciliait",
+			"nous": "reconciliions",
+			"vous": "reconciliiez",
+			"ils/elles": "reconciliaient"
+		},
+		"futur": {
+			"je": "reconcilierai",
+			"tu": "reconcilieras",
+			"il/elle": "reconciliera",
+			"nous": "reconcilierons",
+			"vous": "reconcilierez",
+			"ils/elles": "reconcilieront"
+		},
+		"passé simple": {
+			"je": "reconciliai",
+			"tu": "reconcilias",
+			"il/elle": "reconcilia",
+			"nous": "reconciliâmes",
+			"vous": "reconciliâtes",
+			"ils/elles": "reconcilièrent"
+		},
+		"passé composé": {
+			"j'": "ai reconcilié",
+			"tu": "as reconcilié",
+			"il/elle": "a reconcilié",
+			"nous": "avons reconcilié",
+			"vous": "avez reconcilié",
+			"ils/elles": "ont reconcilié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais reconcilié",
+			"tu": "avais reconcilié",
+			"il/elle": "avait reconcilié",
+			"nous": "avions reconcilié",
+			"vous": "aviez reconcilié",
+			"ils/elles": "avaient reconcilié"
+		},
+		"passé antérieur": {
+			"j'": "eus reconcilié",
+			"tu": "eus reconcilié",
+			"il/elle": "eut reconcilié",
+			"nous": "eûmes reconcilié",
+			"vous": "eûtes reconcilié",
+			"ils/elles": "eurent reconcilié"
+		},
+		"futur antérieur": {
+			"j'": "aurai reconcilié",
+			"tu": "auras reconcilié",
+			"il/elle": "aura reconcilié",
+			"nous": "aurons reconcilié",
+			"vous": "aurez reconcilié",
+			"ils/elles": "auront reconcilié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous reconciliiez",
+			"qu'il/elle": "reconcilie",
+			"qu'ils/elles": "reconcilient"
+		},
+		"imparfait": {
+			"que": "vous reconciliassiez",
+			"qu'il/elle": "reconciliât",
+			"qu'ils/elles": "reconciliassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse reconcilié",
+			"que": "vous eussiez reconcilié",
+			"qu'il/elle": "eût reconcilié",
+			"qu'ils/elles": "eussent reconcilié"
+		},
+		"passé": {
+			"j'": "aie reconcilié",
+			"que": "vous ayez reconcilié",
+			"qu'il/elle": "ait reconcilié",
+			"qu'ils/elles": "aient reconcilié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "reconcilierais",
+			"tu": "reconcilierais",
+			"il/elle": "reconcilierait",
+			"nous": "reconcilierions",
+			"vous": "reconcilieriez",
+			"ils/elles": "reconcilieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais reconcilié",
+			"tu": "aurais reconcilié",
+			"il/elle": "aurait reconcilié",
+			"nous": "aurions reconcilié",
+			"vous": "auriez reconcilié",
+			"ils/elles": "auraient reconcilié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse reconcilié",
+			"tu": "eusses reconcilié",
+			"il/elle": "eût reconcilié",
+			"nous": "eussions reconcilié",
+			"vous": "eussiez reconcilié",
+			"ils/elles": "eussent reconcilié"
+		}
+	},
+	"participe": {
+		"présent": { "reconciliant": "" },
+		"passé composé": { "ayant": "reconcilié" },
+		"passé": {
+			"masc.sg.:": "reconcilié",
+			"masc.pl.:": "reconciliés",
+			"fém.sg.:": "reconciliée",
+			"fém.pl.:": "reconciliées"
+		}
+	},
+	"imperatif": {
+		"présent": { "reconcilie": "", "reconcilions": "", "reconciliez": "" },
+		"passé": {
+			"aie": "reconcilié",
+			"ayons": "reconcilié",
+			"ayez": "reconcilié"
+		}
+	},
+	"infinitif": {
+		"présent": { "reconcilier": "" },
+		"passé": { "avoir": "reconcilié" }
+	}
+}

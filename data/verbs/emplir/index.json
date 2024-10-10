@@ -1,0 +1,140 @@
+{
+	"name": "finir",
+	"definition": "fill; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "s'emplir/ne pas emplir/ne pas s'emplir",
+	"indicatif": {
+		"présent": {
+			"j'": "emplis",
+			"tu": "emplis",
+			"il/elle": "emplit",
+			"nous": "emplissons",
+			"vous": "emplissez",
+			"ils/elles": "emplissent"
+		},
+		"imparfait": {
+			"j'": "emplissais",
+			"tu": "emplissais",
+			"il/elle": "emplissait",
+			"nous": "emplissions",
+			"vous": "emplissiez",
+			"ils/elles": "emplissaient"
+		},
+		"futur": {
+			"j'": "emplirai",
+			"tu": "empliras",
+			"il/elle": "emplira",
+			"nous": "emplirons",
+			"vous": "emplirez",
+			"ils/elles": "empliront"
+		},
+		"passé simple": {
+			"j'": "emplis",
+			"tu": "emplis",
+			"il/elle": "emplit",
+			"nous": "emplîmes",
+			"vous": "emplîtes",
+			"ils/elles": "emplirent"
+		},
+		"passé composé": {
+			"j'": "ai empli",
+			"tu": "as empli",
+			"il/elle": "a empli",
+			"nous": "avons empli",
+			"vous": "avez empli",
+			"ils/elles": "ont empli"
+		},
+		"plus-que-parfait": {
+			"j'": "avais empli",
+			"tu": "avais empli",
+			"il/elle": "avait empli",
+			"nous": "avions empli",
+			"vous": "aviez empli",
+			"ils/elles": "avaient empli"
+		},
+		"passé antérieur": {
+			"j'": "eus empli",
+			"tu": "eus empli",
+			"il/elle": "eut empli",
+			"nous": "eûmes empli",
+			"vous": "eûtes empli",
+			"ils/elles": "eurent empli"
+		},
+		"futur antérieur": {
+			"j'": "aurai empli",
+			"tu": "auras empli",
+			"il/elle": "aura empli",
+			"nous": "aurons empli",
+			"vous": "aurez empli",
+			"ils/elles": "auront empli"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "emplisse",
+			"que": "vous emplissiez",
+			"qu'il/elle": "emplisse",
+			"qu'ils/elles": "emplissent"
+		},
+		"imparfait": {
+			"j'": "emplisse",
+			"que": "vous emplissiez",
+			"qu'il/elle": "emplît",
+			"qu'ils/elles": "emplissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse empli",
+			"que": "vous eussiez empli",
+			"qu'il/elle": "eût empli",
+			"qu'ils/elles": "eussent empli"
+		},
+		"passé": {
+			"j'": "aie empli",
+			"que": "vous ayez empli",
+			"qu'il/elle": "ait empli",
+			"qu'ils/elles": "aient empli"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "emplirais",
+			"tu": "emplirais",
+			"il/elle": "emplirait",
+			"nous": "emplirions",
+			"vous": "empliriez",
+			"ils/elles": "empliraient"
+		},
+		"passé première forme": {
+			"j'": "aurais empli",
+			"tu": "aurais empli",
+			"il/elle": "aurait empli",
+			"nous": "aurions empli",
+			"vous": "auriez empli",
+			"ils/elles": "auraient empli"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse empli",
+			"tu": "eusses empli",
+			"il/elle": "eût empli",
+			"nous": "eussions empli",
+			"vous": "eussiez empli",
+			"ils/elles": "eussent empli"
+		}
+	},
+	"participe": {
+		"présent": { "emplissant": "" },
+		"passé composé": { "ayant": "empli" },
+		"passé": {
+			"masc.sg.:": "empli",
+			"masc.pl.:": "emplis",
+			"fém.sg.:": "emplie",
+			"fém.pl.:": "emplies"
+		}
+	},
+	"imperatif": {
+		"présent": { "emplis": "", "emplissons": "", "emplissez": "" },
+		"passé": { "aie": "empli", "ayons": "empli", "ayez": "empli" }
+	},
+	"infinitif": { "présent": { "emplir": "" }, "passé": { "avoir": "empli" } }
+}

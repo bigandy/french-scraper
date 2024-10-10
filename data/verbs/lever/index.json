@@ -1,0 +1,138 @@
+{
+	"name": "lever",
+	"definition": "raise; get up; remove; ...",
+	"model": "lever",
+	"auxiliary": "avoir",
+	"otherForms": "se lever/ne pas lever/ne pas se lever",
+	"indicatif": {
+		"présent": {
+			"je": "lève",
+			"tu": "lèves",
+			"il/elle": "lève",
+			"nous": "levons",
+			"vous": "levez",
+			"ils/elles": "lèvent"
+		},
+		"imparfait": {
+			"je": "levais",
+			"tu": "levais",
+			"il/elle": "levait",
+			"nous": "levions",
+			"vous": "leviez",
+			"ils/elles": "levaient"
+		},
+		"futur": {
+			"je": "lèverai",
+			"tu": "lèveras",
+			"il/elle": "lèvera",
+			"nous": "lèverons",
+			"vous": "lèverez",
+			"ils/elles": "lèveront"
+		},
+		"passé simple": {
+			"je": "levai",
+			"tu": "levas",
+			"il/elle": "leva",
+			"nous": "levâmes",
+			"vous": "levâtes",
+			"ils/elles": "levèrent"
+		},
+		"passé composé": {
+			"j'": "ai levé",
+			"tu": "as levé",
+			"il/elle": "a levé",
+			"nous": "avons levé",
+			"vous": "avez levé",
+			"ils/elles": "ont levé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais levé",
+			"tu": "avais levé",
+			"il/elle": "avait levé",
+			"nous": "avions levé",
+			"vous": "aviez levé",
+			"ils/elles": "avaient levé"
+		},
+		"passé antérieur": {
+			"j'": "eus levé",
+			"tu": "eus levé",
+			"il/elle": "eut levé",
+			"nous": "eûmes levé",
+			"vous": "eûtes levé",
+			"ils/elles": "eurent levé"
+		},
+		"futur antérieur": {
+			"j'": "aurai levé",
+			"tu": "auras levé",
+			"il/elle": "aura levé",
+			"nous": "aurons levé",
+			"vous": "aurez levé",
+			"ils/elles": "auront levé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous leviez",
+			"qu'il/elle": "lève",
+			"qu'ils/elles": "lèvent"
+		},
+		"imparfait": {
+			"que": "vous levassiez",
+			"qu'il/elle": "levât",
+			"qu'ils/elles": "levassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse levé",
+			"que": "vous eussiez levé",
+			"qu'il/elle": "eût levé",
+			"qu'ils/elles": "eussent levé"
+		},
+		"passé": {
+			"j'": "aie levé",
+			"que": "vous ayez levé",
+			"qu'il/elle": "ait levé",
+			"qu'ils/elles": "aient levé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "lèverais",
+			"tu": "lèverais",
+			"il/elle": "lèverait",
+			"nous": "lèverions",
+			"vous": "lèveriez",
+			"ils/elles": "lèveraient"
+		},
+		"passé première forme": {
+			"j'": "aurais levé",
+			"tu": "aurais levé",
+			"il/elle": "aurait levé",
+			"nous": "aurions levé",
+			"vous": "auriez levé",
+			"ils/elles": "auraient levé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse levé",
+			"tu": "eusses levé",
+			"il/elle": "eût levé",
+			"nous": "eussions levé",
+			"vous": "eussiez levé",
+			"ils/elles": "eussent levé"
+		}
+	},
+	"participe": {
+		"présent": { "levant": "" },
+		"passé composé": { "ayant": "levé" },
+		"passé": {
+			"masc.sg.:": "levé",
+			"masc.pl.:": "levés",
+			"fém.sg.:": "levée",
+			"fém.pl.:": "levées"
+		}
+	},
+	"imperatif": {
+		"présent": { "lève": "", "levons": "", "levez": "" },
+		"passé": { "aie": "levé", "ayons": "levé", "ayez": "levé" }
+	},
+	"infinitif": { "présent": { "lever": "" }, "passé": { "avoir": "levé" } }
+}

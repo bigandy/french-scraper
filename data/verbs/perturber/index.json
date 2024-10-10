@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "disrupt; disturb; upset; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se perturber/ne pas perturber/ne pas se perturber",
+	"indicatif": {
+		"présent": {
+			"je": "perturbe",
+			"tu": "perturbes",
+			"il/elle": "perturbe",
+			"nous": "perturbons",
+			"vous": "perturbez",
+			"ils/elles": "perturbent"
+		},
+		"imparfait": {
+			"je": "perturbais",
+			"tu": "perturbais",
+			"il/elle": "perturbait",
+			"nous": "perturbions",
+			"vous": "perturbiez",
+			"ils/elles": "perturbaient"
+		},
+		"futur": {
+			"je": "perturberai",
+			"tu": "perturberas",
+			"il/elle": "perturbera",
+			"nous": "perturberons",
+			"vous": "perturberez",
+			"ils/elles": "perturberont"
+		},
+		"passé simple": {
+			"je": "perturbai",
+			"tu": "perturbas",
+			"il/elle": "perturba",
+			"nous": "perturbâmes",
+			"vous": "perturbâtes",
+			"ils/elles": "perturbèrent"
+		},
+		"passé composé": {
+			"j'": "ai perturbé",
+			"tu": "as perturbé",
+			"il/elle": "a perturbé",
+			"nous": "avons perturbé",
+			"vous": "avez perturbé",
+			"ils/elles": "ont perturbé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais perturbé",
+			"tu": "avais perturbé",
+			"il/elle": "avait perturbé",
+			"nous": "avions perturbé",
+			"vous": "aviez perturbé",
+			"ils/elles": "avaient perturbé"
+		},
+		"passé antérieur": {
+			"j'": "eus perturbé",
+			"tu": "eus perturbé",
+			"il/elle": "eut perturbé",
+			"nous": "eûmes perturbé",
+			"vous": "eûtes perturbé",
+			"ils/elles": "eurent perturbé"
+		},
+		"futur antérieur": {
+			"j'": "aurai perturbé",
+			"tu": "auras perturbé",
+			"il/elle": "aura perturbé",
+			"nous": "aurons perturbé",
+			"vous": "aurez perturbé",
+			"ils/elles": "auront perturbé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous perturbiez",
+			"qu'il/elle": "perturbe",
+			"qu'ils/elles": "perturbent"
+		},
+		"imparfait": {
+			"que": "vous perturbassiez",
+			"qu'il/elle": "perturbât",
+			"qu'ils/elles": "perturbassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse perturbé",
+			"que": "vous eussiez perturbé",
+			"qu'il/elle": "eût perturbé",
+			"qu'ils/elles": "eussent perturbé"
+		},
+		"passé": {
+			"j'": "aie perturbé",
+			"que": "vous ayez perturbé",
+			"qu'il/elle": "ait perturbé",
+			"qu'ils/elles": "aient perturbé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "perturberais",
+			"tu": "perturberais",
+			"il/elle": "perturberait",
+			"nous": "perturberions",
+			"vous": "perturberiez",
+			"ils/elles": "perturberaient"
+		},
+		"passé première forme": {
+			"j'": "aurais perturbé",
+			"tu": "aurais perturbé",
+			"il/elle": "aurait perturbé",
+			"nous": "aurions perturbé",
+			"vous": "auriez perturbé",
+			"ils/elles": "auraient perturbé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse perturbé",
+			"tu": "eusses perturbé",
+			"il/elle": "eût perturbé",
+			"nous": "eussions perturbé",
+			"vous": "eussiez perturbé",
+			"ils/elles": "eussent perturbé"
+		}
+	},
+	"participe": {
+		"présent": { "perturbant": "" },
+		"passé composé": { "ayant": "perturbé" },
+		"passé": {
+			"masc.sg.:": "perturbé",
+			"masc.pl.:": "perturbés",
+			"fém.sg.:": "perturbée",
+			"fém.pl.:": "perturbées"
+		}
+	},
+	"imperatif": {
+		"présent": { "perturbe": "", "perturbons": "", "perturbez": "" },
+		"passé": { "aie": "perturbé", "ayons": "perturbé", "ayez": "perturbé" }
+	},
+	"infinitif": {
+		"présent": { "perturber": "" },
+		"passé": { "avoir": "perturbé" }
+	}
+}

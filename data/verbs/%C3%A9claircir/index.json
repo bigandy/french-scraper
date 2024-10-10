@@ -1,0 +1,143 @@
+{
+	"name": "finir",
+	"definition": "clarify; clear up; lighten; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "s'éclaircir/ne pas éclaircir/ne pas s'éclaircir",
+	"indicatif": {
+		"présent": {
+			"j'": "éclaircis",
+			"tu": "éclaircis",
+			"il/elle": "éclaircit",
+			"nous": "éclaircissons",
+			"vous": "éclaircissez",
+			"ils/elles": "éclaircissent"
+		},
+		"imparfait": {
+			"j'": "éclaircissais",
+			"tu": "éclaircissais",
+			"il/elle": "éclaircissait",
+			"nous": "éclaircissions",
+			"vous": "éclaircissiez",
+			"ils/elles": "éclaircissaient"
+		},
+		"futur": {
+			"j'": "éclaircirai",
+			"tu": "éclairciras",
+			"il/elle": "éclaircira",
+			"nous": "éclaircirons",
+			"vous": "éclaircirez",
+			"ils/elles": "éclairciront"
+		},
+		"passé simple": {
+			"j'": "éclaircis",
+			"tu": "éclaircis",
+			"il/elle": "éclaircit",
+			"nous": "éclaircîmes",
+			"vous": "éclaircîtes",
+			"ils/elles": "éclaircirent"
+		},
+		"passé composé": {
+			"j'": "ai éclairci",
+			"tu": "as éclairci",
+			"il/elle": "a éclairci",
+			"nous": "avons éclairci",
+			"vous": "avez éclairci",
+			"ils/elles": "ont éclairci"
+		},
+		"plus-que-parfait": {
+			"j'": "avais éclairci",
+			"tu": "avais éclairci",
+			"il/elle": "avait éclairci",
+			"nous": "avions éclairci",
+			"vous": "aviez éclairci",
+			"ils/elles": "avaient éclairci"
+		},
+		"passé antérieur": {
+			"j'": "eus éclairci",
+			"tu": "eus éclairci",
+			"il/elle": "eut éclairci",
+			"nous": "eûmes éclairci",
+			"vous": "eûtes éclairci",
+			"ils/elles": "eurent éclairci"
+		},
+		"futur antérieur": {
+			"j'": "aurai éclairci",
+			"tu": "auras éclairci",
+			"il/elle": "aura éclairci",
+			"nous": "aurons éclairci",
+			"vous": "aurez éclairci",
+			"ils/elles": "auront éclairci"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "éclaircisse",
+			"que": "vous éclaircissiez",
+			"qu'il/elle": "éclaircisse",
+			"qu'ils/elles": "éclaircissent"
+		},
+		"imparfait": {
+			"j'": "éclaircisse",
+			"que": "vous éclaircissiez",
+			"qu'il/elle": "éclaircît",
+			"qu'ils/elles": "éclaircissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse éclairci",
+			"que": "vous eussiez éclairci",
+			"qu'il/elle": "eût éclairci",
+			"qu'ils/elles": "eussent éclairci"
+		},
+		"passé": {
+			"j'": "aie éclairci",
+			"que": "vous ayez éclairci",
+			"qu'il/elle": "ait éclairci",
+			"qu'ils/elles": "aient éclairci"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "éclaircirais",
+			"tu": "éclaircirais",
+			"il/elle": "éclaircirait",
+			"nous": "éclaircirions",
+			"vous": "éclairciriez",
+			"ils/elles": "éclairciraient"
+		},
+		"passé première forme": {
+			"j'": "aurais éclairci",
+			"tu": "aurais éclairci",
+			"il/elle": "aurait éclairci",
+			"nous": "aurions éclairci",
+			"vous": "auriez éclairci",
+			"ils/elles": "auraient éclairci"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse éclairci",
+			"tu": "eusses éclairci",
+			"il/elle": "eût éclairci",
+			"nous": "eussions éclairci",
+			"vous": "eussiez éclairci",
+			"ils/elles": "eussent éclairci"
+		}
+	},
+	"participe": {
+		"présent": { "éclaircissant": "" },
+		"passé composé": { "ayant": "éclairci" },
+		"passé": {
+			"masc.sg.:": "éclairci",
+			"masc.pl.:": "éclaircis",
+			"fém.sg.:": "éclaircie",
+			"fém.pl.:": "éclaircies"
+		}
+	},
+	"imperatif": {
+		"présent": { "éclaircis": "", "éclaircissons": "", "éclaircissez": "" },
+		"passé": { "aie": "éclairci", "ayons": "éclairci", "ayez": "éclairci" }
+	},
+	"infinitif": {
+		"présent": { "éclaircir": "" },
+		"passé": { "avoir": "éclairci" }
+	}
+}

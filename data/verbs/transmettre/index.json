@@ -1,0 +1,141 @@
+{
+	"name": "mettre",
+	"definition": "transmit; pass; convey; ...",
+	"model": "mettre",
+	"auxiliary": "avoir",
+	"otherForms": "se transmettre/ne pas transmettre/ne pas se transmettre",
+	"indicatif": {
+		"présent": {
+			"je": "transmets",
+			"tu": "transmets",
+			"il/elle": "transmet",
+			"nous": "transmettons",
+			"vous": "transmettez",
+			"ils/elles": "transmettent"
+		},
+		"imparfait": {
+			"je": "transmettais",
+			"tu": "transmettais",
+			"il/elle": "transmettait",
+			"nous": "transmettions",
+			"vous": "transmettiez",
+			"ils/elles": "transmettaient"
+		},
+		"futur": {
+			"je": "transmettrai",
+			"tu": "transmettras",
+			"il/elle": "transmettra",
+			"nous": "transmettrons",
+			"vous": "transmettrez",
+			"ils/elles": "transmettront"
+		},
+		"passé simple": {
+			"je": "transmis",
+			"tu": "transmis",
+			"il/elle": "transmit",
+			"nous": "transmîmes",
+			"vous": "transmîtes",
+			"ils/elles": "transmirent"
+		},
+		"passé composé": {
+			"j'": "ai transmis",
+			"tu": "as transmis",
+			"il/elle": "a transmis",
+			"nous": "avons transmis",
+			"vous": "avez transmis",
+			"ils/elles": "ont transmis"
+		},
+		"plus-que-parfait": {
+			"j'": "avais transmis",
+			"tu": "avais transmis",
+			"il/elle": "avait transmis",
+			"nous": "avions transmis",
+			"vous": "aviez transmis",
+			"ils/elles": "avaient transmis"
+		},
+		"passé antérieur": {
+			"j'": "eus transmis",
+			"tu": "eus transmis",
+			"il/elle": "eut transmis",
+			"nous": "eûmes transmis",
+			"vous": "eûtes transmis",
+			"ils/elles": "eurent transmis"
+		},
+		"futur antérieur": {
+			"j'": "aurai transmis",
+			"tu": "auras transmis",
+			"il/elle": "aura transmis",
+			"nous": "aurons transmis",
+			"vous": "aurez transmis",
+			"ils/elles": "auront transmis"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous transmettiez",
+			"qu'il/elle": "transmette",
+			"qu'ils/elles": "transmettent"
+		},
+		"imparfait": {
+			"que": "vous transmissiez",
+			"qu'il/elle": "transmît",
+			"qu'ils/elles": "transmissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse transmis",
+			"que": "vous eussiez transmis",
+			"qu'il/elle": "eût transmis",
+			"qu'ils/elles": "eussent transmis"
+		},
+		"passé": {
+			"j'": "aie transmis",
+			"que": "vous ayez transmis",
+			"qu'il/elle": "ait transmis",
+			"qu'ils/elles": "aient transmis"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "transmettrais",
+			"tu": "transmettrais",
+			"il/elle": "transmettrait",
+			"nous": "transmettrions",
+			"vous": "transmettriez",
+			"ils/elles": "transmettraient"
+		},
+		"passé première forme": {
+			"j'": "aurais transmis",
+			"tu": "aurais transmis",
+			"il/elle": "aurait transmis",
+			"nous": "aurions transmis",
+			"vous": "auriez transmis",
+			"ils/elles": "auraient transmis"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse transmis",
+			"tu": "eusses transmis",
+			"il/elle": "eût transmis",
+			"nous": "eussions transmis",
+			"vous": "eussiez transmis",
+			"ils/elles": "eussent transmis"
+		}
+	},
+	"participe": {
+		"présent": { "transmettant": "" },
+		"passé composé": { "ayant": "transmis" },
+		"passé": {
+			"masc.sg.:": "transmis",
+			"masc.pl.:": "transmis",
+			"fém.sg.:": "transmise",
+			"fém.pl.:": "transmises"
+		}
+	},
+	"imperatif": {
+		"présent": { "transmets": "", "transmettons": "", "transmettez": "" },
+		"passé": { "aie": "transmis", "ayons": "transmis", "ayez": "transmis" }
+	},
+	"infinitif": {
+		"présent": { "transmettre": "" },
+		"passé": { "avoir": "transmis" }
+	}
+}

@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "simplify; streamline; facilitate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se simplifier/ne pas simplifier/ne pas se simplifier",
+	"indicatif": {
+		"présent": {
+			"je": "simplifie",
+			"tu": "simplifies",
+			"il/elle": "simplifie",
+			"nous": "simplifions",
+			"vous": "simplifiez",
+			"ils/elles": "simplifient"
+		},
+		"imparfait": {
+			"je": "simplifiais",
+			"tu": "simplifiais",
+			"il/elle": "simplifiait",
+			"nous": "simplifiions",
+			"vous": "simplifiiez",
+			"ils/elles": "simplifiaient"
+		},
+		"futur": {
+			"je": "simplifierai",
+			"tu": "simplifieras",
+			"il/elle": "simplifiera",
+			"nous": "simplifierons",
+			"vous": "simplifierez",
+			"ils/elles": "simplifieront"
+		},
+		"passé simple": {
+			"je": "simplifiai",
+			"tu": "simplifias",
+			"il/elle": "simplifia",
+			"nous": "simplifiâmes",
+			"vous": "simplifiâtes",
+			"ils/elles": "simplifièrent"
+		},
+		"passé composé": {
+			"j'": "ai simplifié",
+			"tu": "as simplifié",
+			"il/elle": "a simplifié",
+			"nous": "avons simplifié",
+			"vous": "avez simplifié",
+			"ils/elles": "ont simplifié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais simplifié",
+			"tu": "avais simplifié",
+			"il/elle": "avait simplifié",
+			"nous": "avions simplifié",
+			"vous": "aviez simplifié",
+			"ils/elles": "avaient simplifié"
+		},
+		"passé antérieur": {
+			"j'": "eus simplifié",
+			"tu": "eus simplifié",
+			"il/elle": "eut simplifié",
+			"nous": "eûmes simplifié",
+			"vous": "eûtes simplifié",
+			"ils/elles": "eurent simplifié"
+		},
+		"futur antérieur": {
+			"j'": "aurai simplifié",
+			"tu": "auras simplifié",
+			"il/elle": "aura simplifié",
+			"nous": "aurons simplifié",
+			"vous": "aurez simplifié",
+			"ils/elles": "auront simplifié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous simplifiiez",
+			"qu'il/elle": "simplifie",
+			"qu'ils/elles": "simplifient"
+		},
+		"imparfait": {
+			"que": "vous simplifiassiez",
+			"qu'il/elle": "simplifiât",
+			"qu'ils/elles": "simplifiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse simplifié",
+			"que": "vous eussiez simplifié",
+			"qu'il/elle": "eût simplifié",
+			"qu'ils/elles": "eussent simplifié"
+		},
+		"passé": {
+			"j'": "aie simplifié",
+			"que": "vous ayez simplifié",
+			"qu'il/elle": "ait simplifié",
+			"qu'ils/elles": "aient simplifié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "simplifierais",
+			"tu": "simplifierais",
+			"il/elle": "simplifierait",
+			"nous": "simplifierions",
+			"vous": "simplifieriez",
+			"ils/elles": "simplifieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais simplifié",
+			"tu": "aurais simplifié",
+			"il/elle": "aurait simplifié",
+			"nous": "aurions simplifié",
+			"vous": "auriez simplifié",
+			"ils/elles": "auraient simplifié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse simplifié",
+			"tu": "eusses simplifié",
+			"il/elle": "eût simplifié",
+			"nous": "eussions simplifié",
+			"vous": "eussiez simplifié",
+			"ils/elles": "eussent simplifié"
+		}
+	},
+	"participe": {
+		"présent": { "simplifiant": "" },
+		"passé composé": { "ayant": "simplifié" },
+		"passé": {
+			"masc.sg.:": "simplifié",
+			"masc.pl.:": "simplifiés",
+			"fém.sg.:": "simplifiée",
+			"fém.pl.:": "simplifiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "simplifie": "", "simplifions": "", "simplifiez": "" },
+		"passé": { "aie": "simplifié", "ayons": "simplifié", "ayez": "simplifié" }
+	},
+	"infinitif": {
+		"présent": { "simplifier": "" },
+		"passé": { "avoir": "simplifié" }
+	}
+}

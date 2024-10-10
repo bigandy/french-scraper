@@ -1,0 +1,141 @@
+{
+	"name": "écrire",
+	"definition": "subscribe; support; agree; ...",
+	"model": "écrire",
+	"auxiliary": "avoir",
+	"otherForms": "se souscrire/ne pas souscrire/ne pas se souscrire",
+	"indicatif": {
+		"présent": {
+			"je": "souscris",
+			"tu": "souscris",
+			"il/elle": "souscrit",
+			"nous": "souscrivons",
+			"vous": "souscrivez",
+			"ils/elles": "souscrivent"
+		},
+		"imparfait": {
+			"je": "souscrivais",
+			"tu": "souscrivais",
+			"il/elle": "souscrivait",
+			"nous": "souscrivions",
+			"vous": "souscriviez",
+			"ils/elles": "souscrivaient"
+		},
+		"futur": {
+			"je": "souscrirai",
+			"tu": "souscriras",
+			"il/elle": "souscrira",
+			"nous": "souscrirons",
+			"vous": "souscrirez",
+			"ils/elles": "souscriront"
+		},
+		"passé simple": {
+			"je": "souscrivis",
+			"tu": "souscrivis",
+			"il/elle": "souscrivit",
+			"nous": "souscrivîmes",
+			"vous": "souscrivîtes",
+			"ils/elles": "souscrivirent"
+		},
+		"passé composé": {
+			"j'": "ai souscrit",
+			"tu": "as souscrit",
+			"il/elle": "a souscrit",
+			"nous": "avons souscrit",
+			"vous": "avez souscrit",
+			"ils/elles": "ont souscrit"
+		},
+		"plus-que-parfait": {
+			"j'": "avais souscrit",
+			"tu": "avais souscrit",
+			"il/elle": "avait souscrit",
+			"nous": "avions souscrit",
+			"vous": "aviez souscrit",
+			"ils/elles": "avaient souscrit"
+		},
+		"passé antérieur": {
+			"j'": "eus souscrit",
+			"tu": "eus souscrit",
+			"il/elle": "eut souscrit",
+			"nous": "eûmes souscrit",
+			"vous": "eûtes souscrit",
+			"ils/elles": "eurent souscrit"
+		},
+		"futur antérieur": {
+			"j'": "aurai souscrit",
+			"tu": "auras souscrit",
+			"il/elle": "aura souscrit",
+			"nous": "aurons souscrit",
+			"vous": "aurez souscrit",
+			"ils/elles": "auront souscrit"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous souscriviez",
+			"qu'il/elle": "souscrive",
+			"qu'ils/elles": "souscrivent"
+		},
+		"imparfait": {
+			"que": "vous souscrivissiez",
+			"qu'il/elle": "souscrivît",
+			"qu'ils/elles": "souscrivissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse souscrit",
+			"que": "vous eussiez souscrit",
+			"qu'il/elle": "eût souscrit",
+			"qu'ils/elles": "eussent souscrit"
+		},
+		"passé": {
+			"j'": "aie souscrit",
+			"que": "vous ayez souscrit",
+			"qu'il/elle": "ait souscrit",
+			"qu'ils/elles": "aient souscrit"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "souscrirais",
+			"tu": "souscrirais",
+			"il/elle": "souscrirait",
+			"nous": "souscririons",
+			"vous": "souscririez",
+			"ils/elles": "souscriraient"
+		},
+		"passé première forme": {
+			"j'": "aurais souscrit",
+			"tu": "aurais souscrit",
+			"il/elle": "aurait souscrit",
+			"nous": "aurions souscrit",
+			"vous": "auriez souscrit",
+			"ils/elles": "auraient souscrit"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse souscrit",
+			"tu": "eusses souscrit",
+			"il/elle": "eût souscrit",
+			"nous": "eussions souscrit",
+			"vous": "eussiez souscrit",
+			"ils/elles": "eussent souscrit"
+		}
+	},
+	"participe": {
+		"présent": { "souscrivant": "" },
+		"passé composé": { "ayant": "souscrit" },
+		"passé": {
+			"masc.sg.:": "souscrit",
+			"masc.pl.:": "souscrits",
+			"fém.sg.:": "souscrite",
+			"fém.pl.:": "souscrites"
+		}
+	},
+	"imperatif": {
+		"présent": { "souscris": "", "souscrivons": "", "souscrivez": "" },
+		"passé": { "aie": "souscrit", "ayons": "souscrit", "ayez": "souscrit" }
+	},
+	"infinitif": {
+		"présent": { "souscrire": "" },
+		"passé": { "avoir": "souscrit" }
+	}
+}

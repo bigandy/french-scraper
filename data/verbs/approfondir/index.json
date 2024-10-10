@@ -1,0 +1,151 @@
+{
+	"name": "finir",
+	"definition": "deepen; further; develop; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "s'approfondir/ne pas approfondir/ne pas s'approfondir",
+	"indicatif": {
+		"présent": {
+			"j'": "approfondis",
+			"tu": "approfondis",
+			"il/elle": "approfondit",
+			"nous": "approfondissons",
+			"vous": "approfondissez",
+			"ils/elles": "approfondissent"
+		},
+		"imparfait": {
+			"j'": "approfondissais",
+			"tu": "approfondissais",
+			"il/elle": "approfondissait",
+			"nous": "approfondissions",
+			"vous": "approfondissiez",
+			"ils/elles": "approfondissaient"
+		},
+		"futur": {
+			"j'": "approfondirai",
+			"tu": "approfondiras",
+			"il/elle": "approfondira",
+			"nous": "approfondirons",
+			"vous": "approfondirez",
+			"ils/elles": "approfondiront"
+		},
+		"passé simple": {
+			"j'": "approfondis",
+			"tu": "approfondis",
+			"il/elle": "approfondit",
+			"nous": "approfondîmes",
+			"vous": "approfondîtes",
+			"ils/elles": "approfondirent"
+		},
+		"passé composé": {
+			"j'": "ai approfondi",
+			"tu": "as approfondi",
+			"il/elle": "a approfondi",
+			"nous": "avons approfondi",
+			"vous": "avez approfondi",
+			"ils/elles": "ont approfondi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais approfondi",
+			"tu": "avais approfondi",
+			"il/elle": "avait approfondi",
+			"nous": "avions approfondi",
+			"vous": "aviez approfondi",
+			"ils/elles": "avaient approfondi"
+		},
+		"passé antérieur": {
+			"j'": "eus approfondi",
+			"tu": "eus approfondi",
+			"il/elle": "eut approfondi",
+			"nous": "eûmes approfondi",
+			"vous": "eûtes approfondi",
+			"ils/elles": "eurent approfondi"
+		},
+		"futur antérieur": {
+			"j'": "aurai approfondi",
+			"tu": "auras approfondi",
+			"il/elle": "aura approfondi",
+			"nous": "aurons approfondi",
+			"vous": "aurez approfondi",
+			"ils/elles": "auront approfondi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "approfondisse",
+			"que": "vous approfondissiez",
+			"qu'il/elle": "approfondisse",
+			"qu'ils/elles": "approfondissent"
+		},
+		"imparfait": {
+			"j'": "approfondisse",
+			"que": "vous approfondissiez",
+			"qu'il/elle": "approfondît",
+			"qu'ils/elles": "approfondissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse approfondi",
+			"que": "vous eussiez approfondi",
+			"qu'il/elle": "eût approfondi",
+			"qu'ils/elles": "eussent approfondi"
+		},
+		"passé": {
+			"j'": "aie approfondi",
+			"que": "vous ayez approfondi",
+			"qu'il/elle": "ait approfondi",
+			"qu'ils/elles": "aient approfondi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "approfondirais",
+			"tu": "approfondirais",
+			"il/elle": "approfondirait",
+			"nous": "approfondirions",
+			"vous": "approfondiriez",
+			"ils/elles": "approfondiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais approfondi",
+			"tu": "aurais approfondi",
+			"il/elle": "aurait approfondi",
+			"nous": "aurions approfondi",
+			"vous": "auriez approfondi",
+			"ils/elles": "auraient approfondi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse approfondi",
+			"tu": "eusses approfondi",
+			"il/elle": "eût approfondi",
+			"nous": "eussions approfondi",
+			"vous": "eussiez approfondi",
+			"ils/elles": "eussent approfondi"
+		}
+	},
+	"participe": {
+		"présent": { "approfondissant": "" },
+		"passé composé": { "ayant": "approfondi" },
+		"passé": {
+			"masc.sg.:": "approfondi",
+			"masc.pl.:": "approfondis",
+			"fém.sg.:": "approfondie",
+			"fém.pl.:": "approfondies"
+		}
+	},
+	"imperatif": {
+		"présent": {
+			"approfondis": "",
+			"approfondissons": "",
+			"approfondissez": ""
+		},
+		"passé": {
+			"aie": "approfondi",
+			"ayons": "approfondi",
+			"ayez": "approfondi"
+		}
+	},
+	"infinitif": {
+		"présent": { "approfondir": "" },
+		"passé": { "avoir": "approfondi" }
+	}
+}

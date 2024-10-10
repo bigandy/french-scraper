@@ -1,0 +1,130 @@
+{
+	"name": "traire",
+	"definition": "subtract; avoid; remove; ...",
+	"model": "traire",
+	"auxiliary": "avoir",
+	"otherForms": "se soustraire/ne pas soustraire/ne pas se soustraire",
+	"indicatif": {
+		"présent": {
+			"je": "soustrais",
+			"tu": "soustrais",
+			"il/elle": "soustrait",
+			"nous": "soustrayons",
+			"vous": "soustrayez",
+			"ils/elles": "soustraient"
+		},
+		"imparfait": {
+			"je": "soustrayais",
+			"tu": "soustrayais",
+			"il/elle": "soustrayait",
+			"nous": "soustrayions",
+			"vous": "soustrayiez",
+			"ils/elles": "soustrayaient"
+		},
+		"futur": {
+			"je": "soustrairai",
+			"tu": "soustrairas",
+			"il/elle": "soustraira",
+			"nous": "soustrairons",
+			"vous": "soustrairez",
+			"ils/elles": "soustrairont"
+		},
+		"passé simple": {},
+		"passé composé": {
+			"j'": "ai soustrait",
+			"tu": "as soustrait",
+			"il/elle": "a soustrait",
+			"nous": "avons soustrait",
+			"vous": "avez soustrait",
+			"ils/elles": "ont soustrait"
+		},
+		"plus-que-parfait": {
+			"j'": "avais soustrait",
+			"tu": "avais soustrait",
+			"il/elle": "avait soustrait",
+			"nous": "avions soustrait",
+			"vous": "aviez soustrait",
+			"ils/elles": "avaient soustrait"
+		},
+		"passé antérieur": {
+			"j'": "eus soustrait",
+			"tu": "eus soustrait",
+			"il/elle": "eut soustrait",
+			"nous": "eûmes soustrait",
+			"vous": "eûtes soustrait",
+			"ils/elles": "eurent soustrait"
+		},
+		"futur antérieur": {
+			"j'": "aurai soustrait",
+			"tu": "auras soustrait",
+			"il/elle": "aura soustrait",
+			"nous": "aurons soustrait",
+			"vous": "aurez soustrait",
+			"ils/elles": "auront soustrait"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous soustrayiez",
+			"qu'il/elle": "soustraie",
+			"qu'ils/elles": "soustraient"
+		},
+		"imparfait": {},
+		"plus-que-parfait": {
+			"j'": "eusse soustrait",
+			"que": "vous eussiez soustrait",
+			"qu'il/elle": "eût soustrait",
+			"qu'ils/elles": "eussent soustrait"
+		},
+		"passé": {
+			"j'": "aie soustrait",
+			"que": "vous ayez soustrait",
+			"qu'il/elle": "ait soustrait",
+			"qu'ils/elles": "aient soustrait"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "soustrairais",
+			"tu": "soustrairais",
+			"il/elle": "soustrairait",
+			"nous": "soustrairions",
+			"vous": "soustrairiez",
+			"ils/elles": "soustrairaient"
+		},
+		"passé première forme": {
+			"j'": "aurais soustrait",
+			"tu": "aurais soustrait",
+			"il/elle": "aurait soustrait",
+			"nous": "aurions soustrait",
+			"vous": "auriez soustrait",
+			"ils/elles": "auraient soustrait"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse soustrait",
+			"tu": "eusses soustrait",
+			"il/elle": "eût soustrait",
+			"nous": "eussions soustrait",
+			"vous": "eussiez soustrait",
+			"ils/elles": "eussent soustrait"
+		}
+	},
+	"participe": {
+		"présent": { "soustrayant": "" },
+		"passé composé": { "ayant": "soustrait" },
+		"passé": {
+			"masc.sg.:": "soustrait",
+			"masc.pl.:": "soustraits",
+			"fém.sg.:": "soustraite",
+			"fém.pl.:": "soustraites"
+		}
+	},
+	"imperatif": {
+		"présent": { "soustrais": "", "soustrayons": "", "soustrayez": "" },
+		"passé": { "aie": "soustrait", "ayons": "soustrait", "ayez": "soustrait" }
+	},
+	"infinitif": {
+		"présent": { "soustraire": "" },
+		"passé": { "avoir": "soustrait" }
+	}
+}

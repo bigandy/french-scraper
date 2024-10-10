@@ -1,0 +1,138 @@
+{
+	"name": "protéger",
+	"definition": "sit; serve on; ...",
+	"model": "protéger",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas siéger",
+	"indicatif": {
+		"présent": {
+			"je": "siège",
+			"tu": "sièges",
+			"il/elle": "siège",
+			"nous": "siégeons",
+			"vous": "siégez",
+			"ils/elles": "siègent"
+		},
+		"imparfait": {
+			"je": "siégeais",
+			"tu": "siégeais",
+			"il/elle": "siégeait",
+			"nous": "siégions",
+			"vous": "siégiez",
+			"ils/elles": "siégeaient"
+		},
+		"futur": {
+			"je": "siégerai",
+			"tu": "siégeras",
+			"il/elle": "siégera",
+			"nous": "siégerons",
+			"vous": "siégerez",
+			"ils/elles": "siégeront"
+		},
+		"passé simple": {
+			"je": "siégeai",
+			"tu": "siégeas",
+			"il/elle": "siégea",
+			"nous": "siégeâmes",
+			"vous": "siégeâtes",
+			"ils/elles": "siégèrent"
+		},
+		"passé composé": {
+			"j'": "ai siégé",
+			"tu": "as siégé",
+			"il/elle": "a siégé",
+			"nous": "avons siégé",
+			"vous": "avez siégé",
+			"ils/elles": "ont siégé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais siégé",
+			"tu": "avais siégé",
+			"il/elle": "avait siégé",
+			"nous": "avions siégé",
+			"vous": "aviez siégé",
+			"ils/elles": "avaient siégé"
+		},
+		"passé antérieur": {
+			"j'": "eus siégé",
+			"tu": "eus siégé",
+			"il/elle": "eut siégé",
+			"nous": "eûmes siégé",
+			"vous": "eûtes siégé",
+			"ils/elles": "eurent siégé"
+		},
+		"futur antérieur": {
+			"j'": "aurai siégé",
+			"tu": "auras siégé",
+			"il/elle": "aura siégé",
+			"nous": "aurons siégé",
+			"vous": "aurez siégé",
+			"ils/elles": "auront siégé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous siégiez",
+			"qu'il/elle": "siège",
+			"qu'ils/elles": "siègent"
+		},
+		"imparfait": {
+			"que": "vous siégeassiez",
+			"qu'il/elle": "siégeât",
+			"qu'ils/elles": "siégeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse siégé",
+			"que": "vous eussiez siégé",
+			"qu'il/elle": "eût siégé",
+			"qu'ils/elles": "eussent siégé"
+		},
+		"passé": {
+			"j'": "aie siégé",
+			"que": "vous ayez siégé",
+			"qu'il/elle": "ait siégé",
+			"qu'ils/elles": "aient siégé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "siégerais",
+			"tu": "siégerais",
+			"il/elle": "siégerait",
+			"nous": "siégerions",
+			"vous": "siégeriez",
+			"ils/elles": "siégeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais siégé",
+			"tu": "aurais siégé",
+			"il/elle": "aurait siégé",
+			"nous": "aurions siégé",
+			"vous": "auriez siégé",
+			"ils/elles": "auraient siégé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse siégé",
+			"tu": "eusses siégé",
+			"il/elle": "eût siégé",
+			"nous": "eussions siégé",
+			"vous": "eussiez siégé",
+			"ils/elles": "eussent siégé"
+		}
+	},
+	"participe": {
+		"présent": { "siégeant": "" },
+		"passé composé": { "ayant": "siégé" },
+		"passé": {
+			"masc.sg.:": "siégé",
+			"masc.pl.:": "siégés",
+			"fém.sg.:": "siégée",
+			"fém.pl.:": "siégées"
+		}
+	},
+	"imperatif": {
+		"présent": { "siège": "", "siégeons": "", "siégez": "" },
+		"passé": { "aie": "siégé", "ayons": "siégé", "ayez": "siégé" }
+	},
+	"infinitif": { "présent": { "siéger": "" }, "passé": { "avoir": "siégé" } }
+}

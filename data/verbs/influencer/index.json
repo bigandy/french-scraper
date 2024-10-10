@@ -1,0 +1,143 @@
+{
+	"name": "commencer",
+	"definition": "influence; affect; impact; ...",
+	"model": "commencer",
+	"auxiliary": "avoir",
+	"otherForms": "s'influencer/ne pas influencer/ne pas s'influencer",
+	"indicatif": {
+		"présent": {
+			"j'": "influence",
+			"tu": "influences",
+			"il/elle": "influence",
+			"nous": "influençons",
+			"vous": "influencez",
+			"ils/elles": "influencent"
+		},
+		"imparfait": {
+			"j'": "influençais",
+			"tu": "influençais",
+			"il/elle": "influençait",
+			"nous": "influencions",
+			"vous": "influenciez",
+			"ils/elles": "influençaient"
+		},
+		"futur": {
+			"j'": "influencerai",
+			"tu": "influenceras",
+			"il/elle": "influencera",
+			"nous": "influencerons",
+			"vous": "influencerez",
+			"ils/elles": "influenceront"
+		},
+		"passé simple": {
+			"j'": "influençai",
+			"tu": "influenças",
+			"il/elle": "influença",
+			"nous": "influençâmes",
+			"vous": "influençâtes",
+			"ils/elles": "influencèrent"
+		},
+		"passé composé": {
+			"j'": "ai influencé",
+			"tu": "as influencé",
+			"il/elle": "a influencé",
+			"nous": "avons influencé",
+			"vous": "avez influencé",
+			"ils/elles": "ont influencé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais influencé",
+			"tu": "avais influencé",
+			"il/elle": "avait influencé",
+			"nous": "avions influencé",
+			"vous": "aviez influencé",
+			"ils/elles": "avaient influencé"
+		},
+		"passé antérieur": {
+			"j'": "eus influencé",
+			"tu": "eus influencé",
+			"il/elle": "eut influencé",
+			"nous": "eûmes influencé",
+			"vous": "eûtes influencé",
+			"ils/elles": "eurent influencé"
+		},
+		"futur antérieur": {
+			"j'": "aurai influencé",
+			"tu": "auras influencé",
+			"il/elle": "aura influencé",
+			"nous": "aurons influencé",
+			"vous": "aurez influencé",
+			"ils/elles": "auront influencé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "influence",
+			"que": "vous influenciez",
+			"qu'il/elle": "influence",
+			"qu'ils/elles": "influencent"
+		},
+		"imparfait": {
+			"j'": "influençasse",
+			"que": "vous influençassiez",
+			"qu'il/elle": "influençât",
+			"qu'ils/elles": "influençassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse influencé",
+			"que": "vous eussiez influencé",
+			"qu'il/elle": "eût influencé",
+			"qu'ils/elles": "eussent influencé"
+		},
+		"passé": {
+			"j'": "aie influencé",
+			"que": "vous ayez influencé",
+			"qu'il/elle": "ait influencé",
+			"qu'ils/elles": "aient influencé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "influencerais",
+			"tu": "influencerais",
+			"il/elle": "influencerait",
+			"nous": "influencerions",
+			"vous": "influenceriez",
+			"ils/elles": "influenceraient"
+		},
+		"passé première forme": {
+			"j'": "aurais influencé",
+			"tu": "aurais influencé",
+			"il/elle": "aurait influencé",
+			"nous": "aurions influencé",
+			"vous": "auriez influencé",
+			"ils/elles": "auraient influencé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse influencé",
+			"tu": "eusses influencé",
+			"il/elle": "eût influencé",
+			"nous": "eussions influencé",
+			"vous": "eussiez influencé",
+			"ils/elles": "eussent influencé"
+		}
+	},
+	"participe": {
+		"présent": { "influençant": "" },
+		"passé composé": { "ayant": "influencé" },
+		"passé": {
+			"masc.sg.:": "influencé",
+			"masc.pl.:": "influencés",
+			"fém.sg.:": "influencée",
+			"fém.pl.:": "influencées"
+		}
+	},
+	"imperatif": {
+		"présent": { "influence": "", "influençons": "", "influencez": "" },
+		"passé": { "aie": "influencé", "ayons": "influencé", "ayez": "influencé" }
+	},
+	"infinitif": {
+		"présent": { "influencer": "" },
+		"passé": { "avoir": "influencé" }
+	}
+}

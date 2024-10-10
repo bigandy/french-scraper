@@ -1,0 +1,138 @@
+{
+	"name": "cuire",
+	"definition": "cook; bake; boil; ...",
+	"model": "cuire",
+	"auxiliary": "avoir",
+	"otherForms": "se cuire/ne pas cuire/ne pas se cuire",
+	"indicatif": {
+		"présent": {
+			"je": "cuis",
+			"tu": "cuis",
+			"il/elle": "cuit",
+			"nous": "cuisons",
+			"vous": "cuisez",
+			"ils/elles": "cuisent"
+		},
+		"imparfait": {
+			"je": "cuisais",
+			"tu": "cuisais",
+			"il/elle": "cuisait",
+			"nous": "cuisions",
+			"vous": "cuisiez",
+			"ils/elles": "cuisaient"
+		},
+		"futur": {
+			"je": "cuirai",
+			"tu": "cuiras",
+			"il/elle": "cuira",
+			"nous": "cuirons",
+			"vous": "cuirez",
+			"ils/elles": "cuiront"
+		},
+		"passé simple": {
+			"je": "cuisis",
+			"tu": "cuisis",
+			"il/elle": "cuisit",
+			"nous": "cuisîmes",
+			"vous": "cuisîtes",
+			"ils/elles": "cuisirent"
+		},
+		"passé composé": {
+			"j'": "ai cuit",
+			"tu": "as cuit",
+			"il/elle": "a cuit",
+			"nous": "avons cuit",
+			"vous": "avez cuit",
+			"ils/elles": "ont cuit"
+		},
+		"plus-que-parfait": {
+			"j'": "avais cuit",
+			"tu": "avais cuit",
+			"il/elle": "avait cuit",
+			"nous": "avions cuit",
+			"vous": "aviez cuit",
+			"ils/elles": "avaient cuit"
+		},
+		"passé antérieur": {
+			"j'": "eus cuit",
+			"tu": "eus cuit",
+			"il/elle": "eut cuit",
+			"nous": "eûmes cuit",
+			"vous": "eûtes cuit",
+			"ils/elles": "eurent cuit"
+		},
+		"futur antérieur": {
+			"j'": "aurai cuit",
+			"tu": "auras cuit",
+			"il/elle": "aura cuit",
+			"nous": "aurons cuit",
+			"vous": "aurez cuit",
+			"ils/elles": "auront cuit"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous cuisiez",
+			"qu'il/elle": "cuise",
+			"qu'ils/elles": "cuisent"
+		},
+		"imparfait": {
+			"que": "vous cuisissiez",
+			"qu'il/elle": "cuisît",
+			"qu'ils/elles": "cuisissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse cuit",
+			"que": "vous eussiez cuit",
+			"qu'il/elle": "eût cuit",
+			"qu'ils/elles": "eussent cuit"
+		},
+		"passé": {
+			"j'": "aie cuit",
+			"que": "vous ayez cuit",
+			"qu'il/elle": "ait cuit",
+			"qu'ils/elles": "aient cuit"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "cuirais",
+			"tu": "cuirais",
+			"il/elle": "cuirait",
+			"nous": "cuirions",
+			"vous": "cuiriez",
+			"ils/elles": "cuiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais cuit",
+			"tu": "aurais cuit",
+			"il/elle": "aurait cuit",
+			"nous": "aurions cuit",
+			"vous": "auriez cuit",
+			"ils/elles": "auraient cuit"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse cuit",
+			"tu": "eusses cuit",
+			"il/elle": "eût cuit",
+			"nous": "eussions cuit",
+			"vous": "eussiez cuit",
+			"ils/elles": "eussent cuit"
+		}
+	},
+	"participe": {
+		"présent": { "cuisant": "" },
+		"passé composé": { "ayant": "cuit" },
+		"passé": {
+			"masc.sg.:": "cuit",
+			"masc.pl.:": "cuits",
+			"fém.sg.:": "cuite",
+			"fém.pl.:": "cuites"
+		}
+	},
+	"imperatif": {
+		"présent": { "cuis": "", "cuisons": "", "cuisez": "" },
+		"passé": { "aie": "cuit", "ayons": "cuit", "ayez": "cuit" }
+	},
+	"infinitif": { "présent": { "cuire": "" }, "passé": { "avoir": "cuit" } }
+}

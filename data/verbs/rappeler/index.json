@@ -1,0 +1,141 @@
+{
+	"name": "appeler",
+	"definition": "remind; remember; recall; ...",
+	"model": "appeler",
+	"auxiliary": "avoir",
+	"otherForms": "se rappeler/ne pas rappeler/ne pas se rappeler",
+	"indicatif": {
+		"présent": {
+			"je": "rappelle",
+			"tu": "rappelles",
+			"il/elle": "rappelle",
+			"nous": "rappelons",
+			"vous": "rappelez",
+			"ils/elles": "rappellent"
+		},
+		"imparfait": {
+			"je": "rappelais",
+			"tu": "rappelais",
+			"il/elle": "rappelait",
+			"nous": "rappelions",
+			"vous": "rappeliez",
+			"ils/elles": "rappelaient"
+		},
+		"futur": {
+			"je": "rappellerai",
+			"tu": "rappelleras",
+			"il/elle": "rappellera",
+			"nous": "rappellerons",
+			"vous": "rappellerez",
+			"ils/elles": "rappelleront"
+		},
+		"passé simple": {
+			"je": "rappelai",
+			"tu": "rappelas",
+			"il/elle": "rappela",
+			"nous": "rappelâmes",
+			"vous": "rappelâtes",
+			"ils/elles": "rappelèrent"
+		},
+		"passé composé": {
+			"j'": "ai rappelé",
+			"tu": "as rappelé",
+			"il/elle": "a rappelé",
+			"nous": "avons rappelé",
+			"vous": "avez rappelé",
+			"ils/elles": "ont rappelé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais rappelé",
+			"tu": "avais rappelé",
+			"il/elle": "avait rappelé",
+			"nous": "avions rappelé",
+			"vous": "aviez rappelé",
+			"ils/elles": "avaient rappelé"
+		},
+		"passé antérieur": {
+			"j'": "eus rappelé",
+			"tu": "eus rappelé",
+			"il/elle": "eut rappelé",
+			"nous": "eûmes rappelé",
+			"vous": "eûtes rappelé",
+			"ils/elles": "eurent rappelé"
+		},
+		"futur antérieur": {
+			"j'": "aurai rappelé",
+			"tu": "auras rappelé",
+			"il/elle": "aura rappelé",
+			"nous": "aurons rappelé",
+			"vous": "aurez rappelé",
+			"ils/elles": "auront rappelé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous rappeliez",
+			"qu'il/elle": "rappelle",
+			"qu'ils/elles": "rappellent"
+		},
+		"imparfait": {
+			"que": "vous rappelassiez",
+			"qu'il/elle": "rappelât",
+			"qu'ils/elles": "rappelassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse rappelé",
+			"que": "vous eussiez rappelé",
+			"qu'il/elle": "eût rappelé",
+			"qu'ils/elles": "eussent rappelé"
+		},
+		"passé": {
+			"j'": "aie rappelé",
+			"que": "vous ayez rappelé",
+			"qu'il/elle": "ait rappelé",
+			"qu'ils/elles": "aient rappelé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "rappellerais",
+			"tu": "rappellerais",
+			"il/elle": "rappellerait",
+			"nous": "rappellerions",
+			"vous": "rappelleriez",
+			"ils/elles": "rappelleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais rappelé",
+			"tu": "aurais rappelé",
+			"il/elle": "aurait rappelé",
+			"nous": "aurions rappelé",
+			"vous": "auriez rappelé",
+			"ils/elles": "auraient rappelé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse rappelé",
+			"tu": "eusses rappelé",
+			"il/elle": "eût rappelé",
+			"nous": "eussions rappelé",
+			"vous": "eussiez rappelé",
+			"ils/elles": "eussent rappelé"
+		}
+	},
+	"participe": {
+		"présent": { "rappelant": "" },
+		"passé composé": { "ayant": "rappelé" },
+		"passé": {
+			"masc.sg.:": "rappelé",
+			"masc.pl.:": "rappelés",
+			"fém.sg.:": "rappelée",
+			"fém.pl.:": "rappelées"
+		}
+	},
+	"imperatif": {
+		"présent": { "rappelle": "", "rappelons": "", "rappelez": "" },
+		"passé": { "aie": "rappelé", "ayons": "rappelé", "ayez": "rappelé" }
+	},
+	"infinitif": {
+		"présent": { "rappeler": "" },
+		"passé": { "avoir": "rappelé" }
+	}
+}

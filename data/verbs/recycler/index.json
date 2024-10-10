@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "recycle; retrain; recirculate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se recycler/ne pas recycler/ne pas se recycler",
+	"indicatif": {
+		"présent": {
+			"je": "recycle",
+			"tu": "recycles",
+			"il/elle": "recycle",
+			"nous": "recyclons",
+			"vous": "recyclez",
+			"ils/elles": "recyclent"
+		},
+		"imparfait": {
+			"je": "recyclais",
+			"tu": "recyclais",
+			"il/elle": "recyclait",
+			"nous": "recyclions",
+			"vous": "recycliez",
+			"ils/elles": "recyclaient"
+		},
+		"futur": {
+			"je": "recyclerai",
+			"tu": "recycleras",
+			"il/elle": "recyclera",
+			"nous": "recyclerons",
+			"vous": "recyclerez",
+			"ils/elles": "recycleront"
+		},
+		"passé simple": {
+			"je": "recyclai",
+			"tu": "recyclas",
+			"il/elle": "recycla",
+			"nous": "recyclâmes",
+			"vous": "recyclâtes",
+			"ils/elles": "recyclèrent"
+		},
+		"passé composé": {
+			"j'": "ai recyclé",
+			"tu": "as recyclé",
+			"il/elle": "a recyclé",
+			"nous": "avons recyclé",
+			"vous": "avez recyclé",
+			"ils/elles": "ont recyclé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais recyclé",
+			"tu": "avais recyclé",
+			"il/elle": "avait recyclé",
+			"nous": "avions recyclé",
+			"vous": "aviez recyclé",
+			"ils/elles": "avaient recyclé"
+		},
+		"passé antérieur": {
+			"j'": "eus recyclé",
+			"tu": "eus recyclé",
+			"il/elle": "eut recyclé",
+			"nous": "eûmes recyclé",
+			"vous": "eûtes recyclé",
+			"ils/elles": "eurent recyclé"
+		},
+		"futur antérieur": {
+			"j'": "aurai recyclé",
+			"tu": "auras recyclé",
+			"il/elle": "aura recyclé",
+			"nous": "aurons recyclé",
+			"vous": "aurez recyclé",
+			"ils/elles": "auront recyclé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous recycliez",
+			"qu'il/elle": "recycle",
+			"qu'ils/elles": "recyclent"
+		},
+		"imparfait": {
+			"que": "vous recyclassiez",
+			"qu'il/elle": "recyclât",
+			"qu'ils/elles": "recyclassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse recyclé",
+			"que": "vous eussiez recyclé",
+			"qu'il/elle": "eût recyclé",
+			"qu'ils/elles": "eussent recyclé"
+		},
+		"passé": {
+			"j'": "aie recyclé",
+			"que": "vous ayez recyclé",
+			"qu'il/elle": "ait recyclé",
+			"qu'ils/elles": "aient recyclé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "recyclerais",
+			"tu": "recyclerais",
+			"il/elle": "recyclerait",
+			"nous": "recyclerions",
+			"vous": "recycleriez",
+			"ils/elles": "recycleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais recyclé",
+			"tu": "aurais recyclé",
+			"il/elle": "aurait recyclé",
+			"nous": "aurions recyclé",
+			"vous": "auriez recyclé",
+			"ils/elles": "auraient recyclé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse recyclé",
+			"tu": "eusses recyclé",
+			"il/elle": "eût recyclé",
+			"nous": "eussions recyclé",
+			"vous": "eussiez recyclé",
+			"ils/elles": "eussent recyclé"
+		}
+	},
+	"participe": {
+		"présent": { "recyclant": "" },
+		"passé composé": { "ayant": "recyclé" },
+		"passé": {
+			"masc.sg.:": "recyclé",
+			"masc.pl.:": "recyclés",
+			"fém.sg.:": "recyclée",
+			"fém.pl.:": "recyclées"
+		}
+	},
+	"imperatif": {
+		"présent": { "recycle": "", "recyclons": "", "recyclez": "" },
+		"passé": { "aie": "recyclé", "ayons": "recyclé", "ayez": "recyclé" }
+	},
+	"infinitif": {
+		"présent": { "recycler": "" },
+		"passé": { "avoir": "recyclé" }
+	}
+}

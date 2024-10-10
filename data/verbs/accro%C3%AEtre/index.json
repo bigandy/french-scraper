@@ -1,0 +1,196 @@
+{
+	"name": "accroître",
+	"definition": "increase; enhance; improve; ...",
+	"model": "accroître",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "s'accroître/ne pas accroître/ne pas s'accroître",
+	"indicatif": {
+		"présent": {
+			"j'": "accrois",
+			"tu": "accrois",
+			"il/elle": "accroît",
+			"nous": "accroissons",
+			"vous": "accroissez",
+			"ils/elles": "accroissent"
+		},
+		"imparfait": {
+			"j'": "accroissais",
+			"tu": "accroissais",
+			"il/elle": "accroissait",
+			"nous": "accroissions",
+			"vous": "accroissiez",
+			"ils/elles": "accroissaient"
+		},
+		"futur": {
+			"j'": "accroîtrai",
+			"tu": "accroîtras",
+			"il/elle": "accroîtra",
+			"nous": "accroîtrons",
+			"vous": "accroîtrez",
+			"ils/elles": "accroîtront"
+		},
+		"passé simple": {
+			"j'": "accrus",
+			"tu": "accrus",
+			"il/elle": "accrut",
+			"nous": "accrûmes",
+			"vous": "accrûtes",
+			"ils/elles": "accrurent"
+		},
+		"passé composé": {
+			"j'": "ai accru",
+			"tu": "es accru",
+			"il/elle": "a accru",
+			"nous": "sommes accrus",
+			"vous": "êtes accrus",
+			"ils/elles": "ont accru",
+			"": "",
+			"je": "suis accru",
+			"il": "est accru",
+			"elle": "est accrue",
+			"ils": "sont accrus",
+			"elles": "sont accrues"
+		},
+		"plus-que-parfait": {
+			"j'": "étais accru",
+			"tu": "étais accru",
+			"il/elle": "avait accru",
+			"nous": "étions accrus",
+			"vous": "étiez accrus",
+			"ils/elles": "avaient accru",
+			"": "",
+			"il": "était accru",
+			"elle": "était accrue",
+			"ils": "étaient accrus",
+			"elles": "étaient accrues"
+		},
+		"passé antérieur": {
+			"j'": "eus accru",
+			"tu": "fus accru",
+			"il/elle": "eut accru",
+			"nous": "fûmes accrus",
+			"vous": "fûtes accrus",
+			"ils/elles": "eurent accru",
+			"": "",
+			"je": "fus accru",
+			"il": "fut accru",
+			"elle": "fut accrue",
+			"ils": "furent accrus",
+			"elles": "furent accrues"
+		},
+		"futur antérieur": {
+			"j'": "aurai accru",
+			"tu": "seras accru",
+			"il/elle": "aura accru",
+			"nous": "serons accrus",
+			"vous": "serez accrus",
+			"ils/elles": "auront accru",
+			"": "",
+			"je": "serai accru",
+			"il": "sera accru",
+			"elle": "sera accrue",
+			"ils": "seront accrus",
+			"elles": "seront accrues"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "accroisse",
+			"que": "vous accroissiez",
+			"qu'il/elle": "accroisse",
+			"qu'ils/elles": "accroissent"
+		},
+		"imparfait": {
+			"j'": "accrusse",
+			"que": "vous accrussiez",
+			"qu'il/elle": "accrût",
+			"qu'ils/elles": "accrussent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse accru",
+			"que": "vous fussiez accrus",
+			"qu'il/elle": "eût accru",
+			"qu'ils/elles": "eussent accru",
+			"": "",
+			"qu'il": "fût accru",
+			"qu'elle": "fût accrue",
+			"qu'ils": "fussent accrus",
+			"qu'elles": "fussent accrues"
+		},
+		"passé": {
+			"j'": "aie accru",
+			"que": "vous soyez accrus",
+			"qu'il/elle": "ait accru",
+			"qu'ils/elles": "aient accru",
+			"": "",
+			"qu'il": "soit accru",
+			"qu'elle": "soit accrue",
+			"qu'ils": "soient accrus",
+			"qu'elles": "soient accrues"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "accroîtrais",
+			"tu": "accroîtrais",
+			"il/elle": "accroîtrait",
+			"nous": "accroîtrions",
+			"vous": "accroîtriez",
+			"ils/elles": "accroîtraient"
+		},
+		"passé première forme": {
+			"j'": "aurais accru",
+			"tu": "serais accru",
+			"il/elle": "aurait accru",
+			"nous": "serions accrus",
+			"vous": "seriez accrus",
+			"ils/elles": "auraient accru",
+			"": "",
+			"je": "serais accru",
+			"il": "serait accru",
+			"elle": "serait accrue",
+			"ils": "seraient accrus",
+			"elles": "seraient accrues"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse accru",
+			"tu": "fusses accru",
+			"il/elle": "eût accru",
+			"nous": "fussions accrus",
+			"vous": "fussiez accrus",
+			"ils/elles": "eussent accru",
+			"": "",
+			"je": "fusse accru",
+			"il": "fût accru",
+			"elle": "fût accrue",
+			"ils": "fussent accrus",
+			"elles": "fussent accrues"
+		}
+	},
+	"participe": {
+		"présent": { "accroissant": "" },
+		"passé composé": { "ayant": "accru", "": "", "étant": "accrue" },
+		"passé": {
+			"masc.sg.:": "accru",
+			"masc.pl.:": "accrus",
+			"fém.sg.:": "accrue",
+			"fém.pl.:": "accrues"
+		}
+	},
+	"imperatif": {
+		"présent": { "accrois": "", "accroissons": "", "accroissez": "" },
+		"passé": {
+			"aie": "accru",
+			"ayons": "accru",
+			"ayez": "accru",
+			"": "",
+			"sois": "accru",
+			"soyons": "accru",
+			"soyez": "accru"
+		}
+	},
+	"infinitif": {
+		"présent": { "accroître": "" },
+		"passé": { "avoir": "accru", "": "", "être": "accru" }
+	}
+}

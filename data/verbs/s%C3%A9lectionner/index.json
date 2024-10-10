@@ -1,0 +1,145 @@
+{
+	"name": "marcher",
+	"definition": "select; choose; pick; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se sélectionner/ne pas sélectionner/ne pas se sélectionner",
+	"indicatif": {
+		"présent": {
+			"je": "sélectionne",
+			"tu": "sélectionnes",
+			"il/elle": "sélectionne",
+			"nous": "sélectionnons",
+			"vous": "sélectionnez",
+			"ils/elles": "sélectionnent"
+		},
+		"imparfait": {
+			"je": "sélectionnais",
+			"tu": "sélectionnais",
+			"il/elle": "sélectionnait",
+			"nous": "sélectionnions",
+			"vous": "sélectionniez",
+			"ils/elles": "sélectionnaient"
+		},
+		"futur": {
+			"je": "sélectionnerai",
+			"tu": "sélectionneras",
+			"il/elle": "sélectionnera",
+			"nous": "sélectionnerons",
+			"vous": "sélectionnerez",
+			"ils/elles": "sélectionneront"
+		},
+		"passé simple": {
+			"je": "sélectionnai",
+			"tu": "sélectionnas",
+			"il/elle": "sélectionna",
+			"nous": "sélectionnâmes",
+			"vous": "sélectionnâtes",
+			"ils/elles": "sélectionnèrent"
+		},
+		"passé composé": {
+			"j'": "ai sélectionné",
+			"tu": "as sélectionné",
+			"il/elle": "a sélectionné",
+			"nous": "avons sélectionné",
+			"vous": "avez sélectionné",
+			"ils/elles": "ont sélectionné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais sélectionné",
+			"tu": "avais sélectionné",
+			"il/elle": "avait sélectionné",
+			"nous": "avions sélectionné",
+			"vous": "aviez sélectionné",
+			"ils/elles": "avaient sélectionné"
+		},
+		"passé antérieur": {
+			"j'": "eus sélectionné",
+			"tu": "eus sélectionné",
+			"il/elle": "eut sélectionné",
+			"nous": "eûmes sélectionné",
+			"vous": "eûtes sélectionné",
+			"ils/elles": "eurent sélectionné"
+		},
+		"futur antérieur": {
+			"j'": "aurai sélectionné",
+			"tu": "auras sélectionné",
+			"il/elle": "aura sélectionné",
+			"nous": "aurons sélectionné",
+			"vous": "aurez sélectionné",
+			"ils/elles": "auront sélectionné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous sélectionniez",
+			"qu'il/elle": "sélectionne",
+			"qu'ils/elles": "sélectionnent"
+		},
+		"imparfait": {
+			"que": "vous sélectionnassiez",
+			"qu'il/elle": "sélectionnât",
+			"qu'ils/elles": "sélectionnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse sélectionné",
+			"que": "vous eussiez sélectionné",
+			"qu'il/elle": "eût sélectionné",
+			"qu'ils/elles": "eussent sélectionné"
+		},
+		"passé": {
+			"j'": "aie sélectionné",
+			"que": "vous ayez sélectionné",
+			"qu'il/elle": "ait sélectionné",
+			"qu'ils/elles": "aient sélectionné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "sélectionnerais",
+			"tu": "sélectionnerais",
+			"il/elle": "sélectionnerait",
+			"nous": "sélectionnerions",
+			"vous": "sélectionneriez",
+			"ils/elles": "sélectionneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais sélectionné",
+			"tu": "aurais sélectionné",
+			"il/elle": "aurait sélectionné",
+			"nous": "aurions sélectionné",
+			"vous": "auriez sélectionné",
+			"ils/elles": "auraient sélectionné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse sélectionné",
+			"tu": "eusses sélectionné",
+			"il/elle": "eût sélectionné",
+			"nous": "eussions sélectionné",
+			"vous": "eussiez sélectionné",
+			"ils/elles": "eussent sélectionné"
+		}
+	},
+	"participe": {
+		"présent": { "sélectionnant": "" },
+		"passé composé": { "ayant": "sélectionné" },
+		"passé": {
+			"masc.sg.:": "sélectionné",
+			"masc.pl.:": "sélectionnés",
+			"fém.sg.:": "sélectionnée",
+			"fém.pl.:": "sélectionnées"
+		}
+	},
+	"imperatif": {
+		"présent": { "sélectionne": "", "sélectionnons": "", "sélectionnez": "" },
+		"passé": {
+			"aie": "sélectionné",
+			"ayons": "sélectionné",
+			"ayez": "sélectionné"
+		}
+	},
+	"infinitif": {
+		"présent": { "sélectionner": "" },
+		"passé": { "avoir": "sélectionné" }
+	}
+}

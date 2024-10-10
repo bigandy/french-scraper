@@ -1,0 +1,140 @@
+{
+	"name": "manger",
+	"definition": "stagger; stage; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "s'étager/ne pas étager/ne pas s'étager",
+	"indicatif": {
+		"présent": {
+			"j'": "étage",
+			"tu": "étages",
+			"il/elle": "étage",
+			"nous": "étageons",
+			"vous": "étagez",
+			"ils/elles": "étagent"
+		},
+		"imparfait": {
+			"j'": "étageais",
+			"tu": "étageais",
+			"il/elle": "étageait",
+			"nous": "étagions",
+			"vous": "étagiez",
+			"ils/elles": "étageaient"
+		},
+		"futur": {
+			"j'": "étagerai",
+			"tu": "étageras",
+			"il/elle": "étagera",
+			"nous": "étagerons",
+			"vous": "étagerez",
+			"ils/elles": "étageront"
+		},
+		"passé simple": {
+			"j'": "étageai",
+			"tu": "étageas",
+			"il/elle": "étagea",
+			"nous": "étageâmes",
+			"vous": "étageâtes",
+			"ils/elles": "étagèrent"
+		},
+		"passé composé": {
+			"j'": "ai étagé",
+			"tu": "as étagé",
+			"il/elle": "a étagé",
+			"nous": "avons étagé",
+			"vous": "avez étagé",
+			"ils/elles": "ont étagé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais étagé",
+			"tu": "avais étagé",
+			"il/elle": "avait étagé",
+			"nous": "avions étagé",
+			"vous": "aviez étagé",
+			"ils/elles": "avaient étagé"
+		},
+		"passé antérieur": {
+			"j'": "eus étagé",
+			"tu": "eus étagé",
+			"il/elle": "eut étagé",
+			"nous": "eûmes étagé",
+			"vous": "eûtes étagé",
+			"ils/elles": "eurent étagé"
+		},
+		"futur antérieur": {
+			"j'": "aurai étagé",
+			"tu": "auras étagé",
+			"il/elle": "aura étagé",
+			"nous": "aurons étagé",
+			"vous": "aurez étagé",
+			"ils/elles": "auront étagé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "étage",
+			"que": "vous étagiez",
+			"qu'il/elle": "étage",
+			"qu'ils/elles": "étagent"
+		},
+		"imparfait": {
+			"j'": "étageasse",
+			"que": "vous étageassiez",
+			"qu'il/elle": "étageât",
+			"qu'ils/elles": "étageassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse étagé",
+			"que": "vous eussiez étagé",
+			"qu'il/elle": "eût étagé",
+			"qu'ils/elles": "eussent étagé"
+		},
+		"passé": {
+			"j'": "aie étagé",
+			"que": "vous ayez étagé",
+			"qu'il/elle": "ait étagé",
+			"qu'ils/elles": "aient étagé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "étagerais",
+			"tu": "étagerais",
+			"il/elle": "étagerait",
+			"nous": "étagerions",
+			"vous": "étageriez",
+			"ils/elles": "étageraient"
+		},
+		"passé première forme": {
+			"j'": "aurais étagé",
+			"tu": "aurais étagé",
+			"il/elle": "aurait étagé",
+			"nous": "aurions étagé",
+			"vous": "auriez étagé",
+			"ils/elles": "auraient étagé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse étagé",
+			"tu": "eusses étagé",
+			"il/elle": "eût étagé",
+			"nous": "eussions étagé",
+			"vous": "eussiez étagé",
+			"ils/elles": "eussent étagé"
+		}
+	},
+	"participe": {
+		"présent": { "étageant": "" },
+		"passé composé": { "ayant": "étagé" },
+		"passé": {
+			"masc.sg.:": "étagé",
+			"masc.pl.:": "étagés",
+			"fém.sg.:": "étagée",
+			"fém.pl.:": "étagées"
+		}
+	},
+	"imperatif": {
+		"présent": { "étage": "", "étageons": "", "étagez": "" },
+		"passé": { "aie": "étagé", "ayons": "étagé", "ayez": "étagé" }
+	},
+	"infinitif": { "présent": { "étager": "" }, "passé": { "avoir": "étagé" } }
+}

@@ -1,0 +1,138 @@
+{
+	"name": "lever",
+	"definition": "",
+	"model": "lever",
+	"auxiliary": "avoir",
+	"otherForms": "se chever/ne pas chever/ne pas se chever",
+	"indicatif": {
+		"présent": {
+			"je": "chève",
+			"tu": "chèves",
+			"il/elle": "chève",
+			"nous": "chevons",
+			"vous": "chevez",
+			"ils/elles": "chèvent"
+		},
+		"imparfait": {
+			"je": "chevais",
+			"tu": "chevais",
+			"il/elle": "chevait",
+			"nous": "chevions",
+			"vous": "cheviez",
+			"ils/elles": "chevaient"
+		},
+		"futur": {
+			"je": "chèverai",
+			"tu": "chèveras",
+			"il/elle": "chèvera",
+			"nous": "chèverons",
+			"vous": "chèverez",
+			"ils/elles": "chèveront"
+		},
+		"passé simple": {
+			"je": "chevai",
+			"tu": "chevas",
+			"il/elle": "cheva",
+			"nous": "chevâmes",
+			"vous": "chevâtes",
+			"ils/elles": "chevèrent"
+		},
+		"passé composé": {
+			"j'": "ai chevé",
+			"tu": "as chevé",
+			"il/elle": "a chevé",
+			"nous": "avons chevé",
+			"vous": "avez chevé",
+			"ils/elles": "ont chevé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais chevé",
+			"tu": "avais chevé",
+			"il/elle": "avait chevé",
+			"nous": "avions chevé",
+			"vous": "aviez chevé",
+			"ils/elles": "avaient chevé"
+		},
+		"passé antérieur": {
+			"j'": "eus chevé",
+			"tu": "eus chevé",
+			"il/elle": "eut chevé",
+			"nous": "eûmes chevé",
+			"vous": "eûtes chevé",
+			"ils/elles": "eurent chevé"
+		},
+		"futur antérieur": {
+			"j'": "aurai chevé",
+			"tu": "auras chevé",
+			"il/elle": "aura chevé",
+			"nous": "aurons chevé",
+			"vous": "aurez chevé",
+			"ils/elles": "auront chevé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous cheviez",
+			"qu'il/elle": "chève",
+			"qu'ils/elles": "chèvent"
+		},
+		"imparfait": {
+			"que": "vous chevassiez",
+			"qu'il/elle": "chevât",
+			"qu'ils/elles": "chevassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse chevé",
+			"que": "vous eussiez chevé",
+			"qu'il/elle": "eût chevé",
+			"qu'ils/elles": "eussent chevé"
+		},
+		"passé": {
+			"j'": "aie chevé",
+			"que": "vous ayez chevé",
+			"qu'il/elle": "ait chevé",
+			"qu'ils/elles": "aient chevé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "chèverais",
+			"tu": "chèverais",
+			"il/elle": "chèverait",
+			"nous": "chèverions",
+			"vous": "chèveriez",
+			"ils/elles": "chèveraient"
+		},
+		"passé première forme": {
+			"j'": "aurais chevé",
+			"tu": "aurais chevé",
+			"il/elle": "aurait chevé",
+			"nous": "aurions chevé",
+			"vous": "auriez chevé",
+			"ils/elles": "auraient chevé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse chevé",
+			"tu": "eusses chevé",
+			"il/elle": "eût chevé",
+			"nous": "eussions chevé",
+			"vous": "eussiez chevé",
+			"ils/elles": "eussent chevé"
+		}
+	},
+	"participe": {
+		"présent": { "chevant": "" },
+		"passé composé": { "ayant": "chevé" },
+		"passé": {
+			"masc.sg.:": "chevé",
+			"masc.pl.:": "chevés",
+			"fém.sg.:": "chevée",
+			"fém.pl.:": "chevées"
+		}
+	},
+	"imperatif": {
+		"présent": { "chève": "", "chevons": "", "chevez": "" },
+		"passé": { "aie": "chevé", "ayons": "chevé", "ayez": "chevé" }
+	},
+	"infinitif": { "présent": { "chever": "" }, "passé": { "avoir": "chevé" } }
+}

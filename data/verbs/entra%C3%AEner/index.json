@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "lead; result; drive; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'entraîner/ne pas entraîner/ne pas s'entraîner",
+	"indicatif": {
+		"présent": {
+			"j'": "entraîne",
+			"tu": "entraînes",
+			"il/elle": "entraîne",
+			"nous": "entraînons",
+			"vous": "entraînez",
+			"ils/elles": "entraînent"
+		},
+		"imparfait": {
+			"j'": "entraînais",
+			"tu": "entraînais",
+			"il/elle": "entraînait",
+			"nous": "entraînions",
+			"vous": "entraîniez",
+			"ils/elles": "entraînaient"
+		},
+		"futur": {
+			"j'": "entraînerai",
+			"tu": "entraîneras",
+			"il/elle": "entraînera",
+			"nous": "entraînerons",
+			"vous": "entraînerez",
+			"ils/elles": "entraîneront"
+		},
+		"passé simple": {
+			"j'": "entraînai",
+			"tu": "entraînas",
+			"il/elle": "entraîna",
+			"nous": "entraînâmes",
+			"vous": "entraînâtes",
+			"ils/elles": "entraînèrent"
+		},
+		"passé composé": {
+			"j'": "ai entraîné",
+			"tu": "as entraîné",
+			"il/elle": "a entraîné",
+			"nous": "avons entraîné",
+			"vous": "avez entraîné",
+			"ils/elles": "ont entraîné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais entraîné",
+			"tu": "avais entraîné",
+			"il/elle": "avait entraîné",
+			"nous": "avions entraîné",
+			"vous": "aviez entraîné",
+			"ils/elles": "avaient entraîné"
+		},
+		"passé antérieur": {
+			"j'": "eus entraîné",
+			"tu": "eus entraîné",
+			"il/elle": "eut entraîné",
+			"nous": "eûmes entraîné",
+			"vous": "eûtes entraîné",
+			"ils/elles": "eurent entraîné"
+		},
+		"futur antérieur": {
+			"j'": "aurai entraîné",
+			"tu": "auras entraîné",
+			"il/elle": "aura entraîné",
+			"nous": "aurons entraîné",
+			"vous": "aurez entraîné",
+			"ils/elles": "auront entraîné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "entraîne",
+			"que": "vous entraîniez",
+			"qu'il/elle": "entraîne",
+			"qu'ils/elles": "entraînent"
+		},
+		"imparfait": {
+			"j'": "entraînasse",
+			"que": "vous entraînassiez",
+			"qu'il/elle": "entraînât",
+			"qu'ils/elles": "entraînassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse entraîné",
+			"que": "vous eussiez entraîné",
+			"qu'il/elle": "eût entraîné",
+			"qu'ils/elles": "eussent entraîné"
+		},
+		"passé": {
+			"j'": "aie entraîné",
+			"que": "vous ayez entraîné",
+			"qu'il/elle": "ait entraîné",
+			"qu'ils/elles": "aient entraîné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "entraînerais",
+			"tu": "entraînerais",
+			"il/elle": "entraînerait",
+			"nous": "entraînerions",
+			"vous": "entraîneriez",
+			"ils/elles": "entraîneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais entraîné",
+			"tu": "aurais entraîné",
+			"il/elle": "aurait entraîné",
+			"nous": "aurions entraîné",
+			"vous": "auriez entraîné",
+			"ils/elles": "auraient entraîné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse entraîné",
+			"tu": "eusses entraîné",
+			"il/elle": "eût entraîné",
+			"nous": "eussions entraîné",
+			"vous": "eussiez entraîné",
+			"ils/elles": "eussent entraîné"
+		}
+	},
+	"participe": {
+		"présent": { "entraînant": "" },
+		"passé composé": { "ayant": "entraîné" },
+		"passé": {
+			"masc.sg.:": "entraîné",
+			"masc.pl.:": "entraînés",
+			"fém.sg.:": "entraînée",
+			"fém.pl.:": "entraînées"
+		}
+	},
+	"imperatif": {
+		"présent": { "entraîne": "", "entraînons": "", "entraînez": "" },
+		"passé": { "aie": "entraîné", "ayons": "entraîné", "ayez": "entraîné" }
+	},
+	"infinitif": {
+		"présent": { "entraîner": "" },
+		"passé": { "avoir": "entraîné" }
+	}
+}

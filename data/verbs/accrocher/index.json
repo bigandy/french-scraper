@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "hang; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'accrocher/ne pas accrocher/ne pas s'accrocher",
+	"indicatif": {
+		"présent": {
+			"j'": "accroche",
+			"tu": "accroches",
+			"il/elle": "accroche",
+			"nous": "accrochons",
+			"vous": "accrochez",
+			"ils/elles": "accrochent"
+		},
+		"imparfait": {
+			"j'": "accrochais",
+			"tu": "accrochais",
+			"il/elle": "accrochait",
+			"nous": "accrochions",
+			"vous": "accrochiez",
+			"ils/elles": "accrochaient"
+		},
+		"futur": {
+			"j'": "accrocherai",
+			"tu": "accrocheras",
+			"il/elle": "accrochera",
+			"nous": "accrocherons",
+			"vous": "accrocherez",
+			"ils/elles": "accrocheront"
+		},
+		"passé simple": {
+			"j'": "accrochai",
+			"tu": "accrochas",
+			"il/elle": "accrocha",
+			"nous": "accrochâmes",
+			"vous": "accrochâtes",
+			"ils/elles": "accrochèrent"
+		},
+		"passé composé": {
+			"j'": "ai accroché",
+			"tu": "as accroché",
+			"il/elle": "a accroché",
+			"nous": "avons accroché",
+			"vous": "avez accroché",
+			"ils/elles": "ont accroché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais accroché",
+			"tu": "avais accroché",
+			"il/elle": "avait accroché",
+			"nous": "avions accroché",
+			"vous": "aviez accroché",
+			"ils/elles": "avaient accroché"
+		},
+		"passé antérieur": {
+			"j'": "eus accroché",
+			"tu": "eus accroché",
+			"il/elle": "eut accroché",
+			"nous": "eûmes accroché",
+			"vous": "eûtes accroché",
+			"ils/elles": "eurent accroché"
+		},
+		"futur antérieur": {
+			"j'": "aurai accroché",
+			"tu": "auras accroché",
+			"il/elle": "aura accroché",
+			"nous": "aurons accroché",
+			"vous": "aurez accroché",
+			"ils/elles": "auront accroché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "accroche",
+			"que": "vous accrochiez",
+			"qu'il/elle": "accroche",
+			"qu'ils/elles": "accrochent"
+		},
+		"imparfait": {
+			"j'": "accrochasse",
+			"que": "vous accrochassiez",
+			"qu'il/elle": "accrochât",
+			"qu'ils/elles": "accrochassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse accroché",
+			"que": "vous eussiez accroché",
+			"qu'il/elle": "eût accroché",
+			"qu'ils/elles": "eussent accroché"
+		},
+		"passé": {
+			"j'": "aie accroché",
+			"que": "vous ayez accroché",
+			"qu'il/elle": "ait accroché",
+			"qu'ils/elles": "aient accroché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "accrocherais",
+			"tu": "accrocherais",
+			"il/elle": "accrocherait",
+			"nous": "accrocherions",
+			"vous": "accrocheriez",
+			"ils/elles": "accrocheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais accroché",
+			"tu": "aurais accroché",
+			"il/elle": "aurait accroché",
+			"nous": "aurions accroché",
+			"vous": "auriez accroché",
+			"ils/elles": "auraient accroché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse accroché",
+			"tu": "eusses accroché",
+			"il/elle": "eût accroché",
+			"nous": "eussions accroché",
+			"vous": "eussiez accroché",
+			"ils/elles": "eussent accroché"
+		}
+	},
+	"participe": {
+		"présent": { "accrochant": "" },
+		"passé composé": { "ayant": "accroché" },
+		"passé": {
+			"masc.sg.:": "accroché",
+			"masc.pl.:": "accrochés",
+			"fém.sg.:": "accrochée",
+			"fém.pl.:": "accrochées"
+		}
+	},
+	"imperatif": {
+		"présent": { "accroche": "", "accrochons": "", "accrochez": "" },
+		"passé": { "aie": "accroché", "ayons": "accroché", "ayez": "accroché" }
+	},
+	"infinitif": {
+		"présent": { "accrocher": "" },
+		"passé": { "avoir": "accroché" }
+	}
+}

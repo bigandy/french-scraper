@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "approve; endorse; agree; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'approuver/ne pas approuver/ne pas s'approuver",
+	"indicatif": {
+		"présent": {
+			"j'": "approuve",
+			"tu": "approuves",
+			"il/elle": "approuve",
+			"nous": "approuvons",
+			"vous": "approuvez",
+			"ils/elles": "approuvent"
+		},
+		"imparfait": {
+			"j'": "approuvais",
+			"tu": "approuvais",
+			"il/elle": "approuvait",
+			"nous": "approuvions",
+			"vous": "approuviez",
+			"ils/elles": "approuvaient"
+		},
+		"futur": {
+			"j'": "approuverai",
+			"tu": "approuveras",
+			"il/elle": "approuvera",
+			"nous": "approuverons",
+			"vous": "approuverez",
+			"ils/elles": "approuveront"
+		},
+		"passé simple": {
+			"j'": "approuvai",
+			"tu": "approuvas",
+			"il/elle": "approuva",
+			"nous": "approuvâmes",
+			"vous": "approuvâtes",
+			"ils/elles": "approuvèrent"
+		},
+		"passé composé": {
+			"j'": "ai approuvé",
+			"tu": "as approuvé",
+			"il/elle": "a approuvé",
+			"nous": "avons approuvé",
+			"vous": "avez approuvé",
+			"ils/elles": "ont approuvé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais approuvé",
+			"tu": "avais approuvé",
+			"il/elle": "avait approuvé",
+			"nous": "avions approuvé",
+			"vous": "aviez approuvé",
+			"ils/elles": "avaient approuvé"
+		},
+		"passé antérieur": {
+			"j'": "eus approuvé",
+			"tu": "eus approuvé",
+			"il/elle": "eut approuvé",
+			"nous": "eûmes approuvé",
+			"vous": "eûtes approuvé",
+			"ils/elles": "eurent approuvé"
+		},
+		"futur antérieur": {
+			"j'": "aurai approuvé",
+			"tu": "auras approuvé",
+			"il/elle": "aura approuvé",
+			"nous": "aurons approuvé",
+			"vous": "aurez approuvé",
+			"ils/elles": "auront approuvé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "approuve",
+			"que": "vous approuviez",
+			"qu'il/elle": "approuve",
+			"qu'ils/elles": "approuvent"
+		},
+		"imparfait": {
+			"j'": "approuvasse",
+			"que": "vous approuvassiez",
+			"qu'il/elle": "approuvât",
+			"qu'ils/elles": "approuvassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse approuvé",
+			"que": "vous eussiez approuvé",
+			"qu'il/elle": "eût approuvé",
+			"qu'ils/elles": "eussent approuvé"
+		},
+		"passé": {
+			"j'": "aie approuvé",
+			"que": "vous ayez approuvé",
+			"qu'il/elle": "ait approuvé",
+			"qu'ils/elles": "aient approuvé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "approuverais",
+			"tu": "approuverais",
+			"il/elle": "approuverait",
+			"nous": "approuverions",
+			"vous": "approuveriez",
+			"ils/elles": "approuveraient"
+		},
+		"passé première forme": {
+			"j'": "aurais approuvé",
+			"tu": "aurais approuvé",
+			"il/elle": "aurait approuvé",
+			"nous": "aurions approuvé",
+			"vous": "auriez approuvé",
+			"ils/elles": "auraient approuvé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse approuvé",
+			"tu": "eusses approuvé",
+			"il/elle": "eût approuvé",
+			"nous": "eussions approuvé",
+			"vous": "eussiez approuvé",
+			"ils/elles": "eussent approuvé"
+		}
+	},
+	"participe": {
+		"présent": { "approuvant": "" },
+		"passé composé": { "ayant": "approuvé" },
+		"passé": {
+			"masc.sg.:": "approuvé",
+			"masc.pl.:": "approuvés",
+			"fém.sg.:": "approuvée",
+			"fém.pl.:": "approuvées"
+		}
+	},
+	"imperatif": {
+		"présent": { "approuve": "", "approuvons": "", "approuvez": "" },
+		"passé": { "aie": "approuvé", "ayons": "approuvé", "ayez": "approuvé" }
+	},
+	"infinitif": {
+		"présent": { "approuver": "" },
+		"passé": { "avoir": "approuvé" }
+	}
+}

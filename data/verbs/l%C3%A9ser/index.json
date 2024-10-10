@@ -1,0 +1,138 @@
+{
+	"name": "léser",
+	"definition": "damage; harm; injure; ...",
+	"model": "léser",
+	"auxiliary": "avoir",
+	"otherForms": "se léser/ne pas léser/ne pas se léser",
+	"indicatif": {
+		"présent": {
+			"je": "lèse",
+			"tu": "lèses",
+			"il/elle": "lèse",
+			"nous": "lésons",
+			"vous": "lésez",
+			"ils/elles": "lèsent"
+		},
+		"imparfait": {
+			"je": "lésais",
+			"tu": "lésais",
+			"il/elle": "lésait",
+			"nous": "lésions",
+			"vous": "lésiez",
+			"ils/elles": "lésaient"
+		},
+		"futur": {
+			"je": "léserai",
+			"tu": "léseras",
+			"il/elle": "lésera",
+			"nous": "léserons",
+			"vous": "léserez",
+			"ils/elles": "léseront"
+		},
+		"passé simple": {
+			"je": "lésai",
+			"tu": "lésas",
+			"il/elle": "lésa",
+			"nous": "lésâmes",
+			"vous": "lésâtes",
+			"ils/elles": "lésèrent"
+		},
+		"passé composé": {
+			"j'": "ai lésé",
+			"tu": "as lésé",
+			"il/elle": "a lésé",
+			"nous": "avons lésé",
+			"vous": "avez lésé",
+			"ils/elles": "ont lésé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais lésé",
+			"tu": "avais lésé",
+			"il/elle": "avait lésé",
+			"nous": "avions lésé",
+			"vous": "aviez lésé",
+			"ils/elles": "avaient lésé"
+		},
+		"passé antérieur": {
+			"j'": "eus lésé",
+			"tu": "eus lésé",
+			"il/elle": "eut lésé",
+			"nous": "eûmes lésé",
+			"vous": "eûtes lésé",
+			"ils/elles": "eurent lésé"
+		},
+		"futur antérieur": {
+			"j'": "aurai lésé",
+			"tu": "auras lésé",
+			"il/elle": "aura lésé",
+			"nous": "aurons lésé",
+			"vous": "aurez lésé",
+			"ils/elles": "auront lésé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous lésiez",
+			"qu'il/elle": "lèse",
+			"qu'ils/elles": "lèsent"
+		},
+		"imparfait": {
+			"que": "vous lésassiez",
+			"qu'il/elle": "lésât",
+			"qu'ils/elles": "lésassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse lésé",
+			"que": "vous eussiez lésé",
+			"qu'il/elle": "eût lésé",
+			"qu'ils/elles": "eussent lésé"
+		},
+		"passé": {
+			"j'": "aie lésé",
+			"que": "vous ayez lésé",
+			"qu'il/elle": "ait lésé",
+			"qu'ils/elles": "aient lésé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "léserais",
+			"tu": "léserais",
+			"il/elle": "léserait",
+			"nous": "léserions",
+			"vous": "léseriez",
+			"ils/elles": "léseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais lésé",
+			"tu": "aurais lésé",
+			"il/elle": "aurait lésé",
+			"nous": "aurions lésé",
+			"vous": "auriez lésé",
+			"ils/elles": "auraient lésé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse lésé",
+			"tu": "eusses lésé",
+			"il/elle": "eût lésé",
+			"nous": "eussions lésé",
+			"vous": "eussiez lésé",
+			"ils/elles": "eussent lésé"
+		}
+	},
+	"participe": {
+		"présent": { "lésant": "" },
+		"passé composé": { "ayant": "lésé" },
+		"passé": {
+			"masc.sg.:": "lésé",
+			"masc.pl.:": "lésés",
+			"fém.sg.:": "lésée",
+			"fém.pl.:": "lésées"
+		}
+	},
+	"imperatif": {
+		"présent": { "lèse": "", "lésons": "", "lésez": "" },
+		"passé": { "aie": "lésé", "ayons": "lésé", "ayez": "lésé" }
+	},
+	"infinitif": { "présent": { "léser": "" }, "passé": { "avoir": "lésé" } }
+}

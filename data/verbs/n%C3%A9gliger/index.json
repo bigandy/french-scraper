@@ -1,0 +1,141 @@
+{
+	"name": "manger",
+	"definition": "neglect; overlook; ignore; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "se négliger/ne pas négliger/ne pas se négliger",
+	"indicatif": {
+		"présent": {
+			"je": "néglige",
+			"tu": "négliges",
+			"il/elle": "néglige",
+			"nous": "négligeons",
+			"vous": "négligez",
+			"ils/elles": "négligent"
+		},
+		"imparfait": {
+			"je": "négligeais",
+			"tu": "négligeais",
+			"il/elle": "négligeait",
+			"nous": "négligions",
+			"vous": "négligiez",
+			"ils/elles": "négligeaient"
+		},
+		"futur": {
+			"je": "négligerai",
+			"tu": "négligeras",
+			"il/elle": "négligera",
+			"nous": "négligerons",
+			"vous": "négligerez",
+			"ils/elles": "négligeront"
+		},
+		"passé simple": {
+			"je": "négligeai",
+			"tu": "négligeas",
+			"il/elle": "négligea",
+			"nous": "négligeâmes",
+			"vous": "négligeâtes",
+			"ils/elles": "négligèrent"
+		},
+		"passé composé": {
+			"j'": "ai négligé",
+			"tu": "as négligé",
+			"il/elle": "a négligé",
+			"nous": "avons négligé",
+			"vous": "avez négligé",
+			"ils/elles": "ont négligé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais négligé",
+			"tu": "avais négligé",
+			"il/elle": "avait négligé",
+			"nous": "avions négligé",
+			"vous": "aviez négligé",
+			"ils/elles": "avaient négligé"
+		},
+		"passé antérieur": {
+			"j'": "eus négligé",
+			"tu": "eus négligé",
+			"il/elle": "eut négligé",
+			"nous": "eûmes négligé",
+			"vous": "eûtes négligé",
+			"ils/elles": "eurent négligé"
+		},
+		"futur antérieur": {
+			"j'": "aurai négligé",
+			"tu": "auras négligé",
+			"il/elle": "aura négligé",
+			"nous": "aurons négligé",
+			"vous": "aurez négligé",
+			"ils/elles": "auront négligé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous négligiez",
+			"qu'il/elle": "néglige",
+			"qu'ils/elles": "négligent"
+		},
+		"imparfait": {
+			"que": "vous négligeassiez",
+			"qu'il/elle": "négligeât",
+			"qu'ils/elles": "négligeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse négligé",
+			"que": "vous eussiez négligé",
+			"qu'il/elle": "eût négligé",
+			"qu'ils/elles": "eussent négligé"
+		},
+		"passé": {
+			"j'": "aie négligé",
+			"que": "vous ayez négligé",
+			"qu'il/elle": "ait négligé",
+			"qu'ils/elles": "aient négligé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "négligerais",
+			"tu": "négligerais",
+			"il/elle": "négligerait",
+			"nous": "négligerions",
+			"vous": "négligeriez",
+			"ils/elles": "négligeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais négligé",
+			"tu": "aurais négligé",
+			"il/elle": "aurait négligé",
+			"nous": "aurions négligé",
+			"vous": "auriez négligé",
+			"ils/elles": "auraient négligé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse négligé",
+			"tu": "eusses négligé",
+			"il/elle": "eût négligé",
+			"nous": "eussions négligé",
+			"vous": "eussiez négligé",
+			"ils/elles": "eussent négligé"
+		}
+	},
+	"participe": {
+		"présent": { "négligeant": "" },
+		"passé composé": { "ayant": "négligé" },
+		"passé": {
+			"masc.sg.:": "négligé",
+			"masc.pl.:": "négligés",
+			"fém.sg.:": "négligée",
+			"fém.pl.:": "négligées"
+		}
+	},
+	"imperatif": {
+		"présent": { "néglige": "", "négligeons": "", "négligez": "" },
+		"passé": { "aie": "négligé", "ayons": "négligé", "ayez": "négligé" }
+	},
+	"infinitif": {
+		"présent": { "négliger": "" },
+		"passé": { "avoir": "négligé" }
+	}
+}

@@ -1,0 +1,140 @@
+{
+	"name": "inclure",
+	"definition": "include; incorporate; involve; ...",
+	"model": "inclure",
+	"auxiliary": "avoir",
+	"otherForms": "s'inclure/ne pas inclure/ne pas s'inclure",
+	"indicatif": {
+		"présent": {
+			"j'": "inclus",
+			"tu": "inclus",
+			"il/elle": "inclut",
+			"nous": "incluons",
+			"vous": "incluez",
+			"ils/elles": "incluent"
+		},
+		"imparfait": {
+			"j'": "incluais",
+			"tu": "incluais",
+			"il/elle": "incluait",
+			"nous": "incluions",
+			"vous": "incluiez",
+			"ils/elles": "incluaient"
+		},
+		"futur": {
+			"j'": "inclurai",
+			"tu": "incluras",
+			"il/elle": "inclura",
+			"nous": "inclurons",
+			"vous": "inclurez",
+			"ils/elles": "incluront"
+		},
+		"passé simple": {
+			"j'": "inclus",
+			"tu": "inclus",
+			"il/elle": "inclut",
+			"nous": "inclûmes",
+			"vous": "inclûtes",
+			"ils/elles": "inclurent"
+		},
+		"passé composé": {
+			"j'": "ai inclus",
+			"tu": "as inclus",
+			"il/elle": "a inclus",
+			"nous": "avons inclus",
+			"vous": "avez inclus",
+			"ils/elles": "ont inclus"
+		},
+		"plus-que-parfait": {
+			"j'": "avais inclus",
+			"tu": "avais inclus",
+			"il/elle": "avait inclus",
+			"nous": "avions inclus",
+			"vous": "aviez inclus",
+			"ils/elles": "avaient inclus"
+		},
+		"passé antérieur": {
+			"j'": "eus inclus",
+			"tu": "eus inclus",
+			"il/elle": "eut inclus",
+			"nous": "eûmes inclus",
+			"vous": "eûtes inclus",
+			"ils/elles": "eurent inclus"
+		},
+		"futur antérieur": {
+			"j'": "aurai inclus",
+			"tu": "auras inclus",
+			"il/elle": "aura inclus",
+			"nous": "aurons inclus",
+			"vous": "aurez inclus",
+			"ils/elles": "auront inclus"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "inclue",
+			"que": "vous incluiez",
+			"qu'il/elle": "inclue",
+			"qu'ils/elles": "incluent"
+		},
+		"imparfait": {
+			"j'": "inclusse",
+			"que": "vous inclussiez",
+			"qu'il/elle": "inclût",
+			"qu'ils/elles": "inclussent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse inclus",
+			"que": "vous eussiez inclus",
+			"qu'il/elle": "eût inclus",
+			"qu'ils/elles": "eussent inclus"
+		},
+		"passé": {
+			"j'": "aie inclus",
+			"que": "vous ayez inclus",
+			"qu'il/elle": "ait inclus",
+			"qu'ils/elles": "aient inclus"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "inclurais",
+			"tu": "inclurais",
+			"il/elle": "inclurait",
+			"nous": "inclurions",
+			"vous": "incluriez",
+			"ils/elles": "incluraient"
+		},
+		"passé première forme": {
+			"j'": "aurais inclus",
+			"tu": "aurais inclus",
+			"il/elle": "aurait inclus",
+			"nous": "aurions inclus",
+			"vous": "auriez inclus",
+			"ils/elles": "auraient inclus"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse inclus",
+			"tu": "eusses inclus",
+			"il/elle": "eût inclus",
+			"nous": "eussions inclus",
+			"vous": "eussiez inclus",
+			"ils/elles": "eussent inclus"
+		}
+	},
+	"participe": {
+		"présent": { "incluant": "" },
+		"passé composé": { "ayant": "inclus" },
+		"passé": {
+			"masc.sg.:": "inclus",
+			"masc.pl.:": "inclus",
+			"fém.sg.:": "incluse",
+			"fém.pl.:": "incluses"
+		}
+	},
+	"imperatif": {
+		"présent": { "inclus": "", "incluons": "", "incluez": "" },
+		"passé": { "aie": "inclus", "ayons": "inclus", "ayez": "inclus" }
+	},
+	"infinitif": { "présent": { "inclure": "" }, "passé": { "avoir": "inclus" } }
+}

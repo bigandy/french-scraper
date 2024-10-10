@@ -1,0 +1,140 @@
+{
+	"name": "aérer",
+	"definition": "insert; include; add; ...",
+	"model": "aérer",
+	"auxiliary": "avoir",
+	"otherForms": "s'insérer/ne pas insérer/ne pas s'insérer",
+	"indicatif": {
+		"présent": {
+			"j'": "insère",
+			"tu": "insères",
+			"il/elle": "insère",
+			"nous": "insérons",
+			"vous": "insérez",
+			"ils/elles": "insèrent"
+		},
+		"imparfait": {
+			"j'": "insérais",
+			"tu": "insérais",
+			"il/elle": "insérait",
+			"nous": "insérions",
+			"vous": "insériez",
+			"ils/elles": "inséraient"
+		},
+		"futur": {
+			"j'": "insérerai",
+			"tu": "inséreras",
+			"il/elle": "insérera",
+			"nous": "insérerons",
+			"vous": "insérerez",
+			"ils/elles": "inséreront"
+		},
+		"passé simple": {
+			"j'": "insérai",
+			"tu": "inséras",
+			"il/elle": "inséra",
+			"nous": "insérâmes",
+			"vous": "insérâtes",
+			"ils/elles": "insérèrent"
+		},
+		"passé composé": {
+			"j'": "ai inséré",
+			"tu": "as inséré",
+			"il/elle": "a inséré",
+			"nous": "avons inséré",
+			"vous": "avez inséré",
+			"ils/elles": "ont inséré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais inséré",
+			"tu": "avais inséré",
+			"il/elle": "avait inséré",
+			"nous": "avions inséré",
+			"vous": "aviez inséré",
+			"ils/elles": "avaient inséré"
+		},
+		"passé antérieur": {
+			"j'": "eus inséré",
+			"tu": "eus inséré",
+			"il/elle": "eut inséré",
+			"nous": "eûmes inséré",
+			"vous": "eûtes inséré",
+			"ils/elles": "eurent inséré"
+		},
+		"futur antérieur": {
+			"j'": "aurai inséré",
+			"tu": "auras inséré",
+			"il/elle": "aura inséré",
+			"nous": "aurons inséré",
+			"vous": "aurez inséré",
+			"ils/elles": "auront inséré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "insère",
+			"que": "vous insériez",
+			"qu'il/elle": "insère",
+			"qu'ils/elles": "insèrent"
+		},
+		"imparfait": {
+			"j'": "insérasse",
+			"que": "vous insérassiez",
+			"qu'il/elle": "insérât",
+			"qu'ils/elles": "insérassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse inséré",
+			"que": "vous eussiez inséré",
+			"qu'il/elle": "eût inséré",
+			"qu'ils/elles": "eussent inséré"
+		},
+		"passé": {
+			"j'": "aie inséré",
+			"que": "vous ayez inséré",
+			"qu'il/elle": "ait inséré",
+			"qu'ils/elles": "aient inséré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "insérerais",
+			"tu": "insérerais",
+			"il/elle": "insérerait",
+			"nous": "insérerions",
+			"vous": "inséreriez",
+			"ils/elles": "inséreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais inséré",
+			"tu": "aurais inséré",
+			"il/elle": "aurait inséré",
+			"nous": "aurions inséré",
+			"vous": "auriez inséré",
+			"ils/elles": "auraient inséré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse inséré",
+			"tu": "eusses inséré",
+			"il/elle": "eût inséré",
+			"nous": "eussions inséré",
+			"vous": "eussiez inséré",
+			"ils/elles": "eussent inséré"
+		}
+	},
+	"participe": {
+		"présent": { "insérant": "" },
+		"passé composé": { "ayant": "inséré" },
+		"passé": {
+			"masc.sg.:": "inséré",
+			"masc.pl.:": "insérés",
+			"fém.sg.:": "insérée",
+			"fém.pl.:": "insérées"
+		}
+	},
+	"imperatif": {
+		"présent": { "insère": "", "insérons": "", "insérez": "" },
+		"passé": { "aie": "inséré", "ayons": "inséré", "ayez": "inséré" }
+	},
+	"infinitif": { "présent": { "insérer": "" }, "passé": { "avoir": "inséré" } }
+}

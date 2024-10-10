@@ -1,0 +1,145 @@
+{
+	"name": "marcher",
+	"definition": "represent; pose; account for; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se représenter/ne pas représenter/ne pas se représenter",
+	"indicatif": {
+		"présent": {
+			"je": "représente",
+			"tu": "représentes",
+			"il/elle": "représente",
+			"nous": "représentons",
+			"vous": "représentez",
+			"ils/elles": "représentent"
+		},
+		"imparfait": {
+			"je": "représentais",
+			"tu": "représentais",
+			"il/elle": "représentait",
+			"nous": "représentions",
+			"vous": "représentiez",
+			"ils/elles": "représentaient"
+		},
+		"futur": {
+			"je": "représenterai",
+			"tu": "représenteras",
+			"il/elle": "représentera",
+			"nous": "représenterons",
+			"vous": "représenterez",
+			"ils/elles": "représenteront"
+		},
+		"passé simple": {
+			"je": "représentai",
+			"tu": "représentas",
+			"il/elle": "représenta",
+			"nous": "représentâmes",
+			"vous": "représentâtes",
+			"ils/elles": "représentèrent"
+		},
+		"passé composé": {
+			"j'": "ai représenté",
+			"tu": "as représenté",
+			"il/elle": "a représenté",
+			"nous": "avons représenté",
+			"vous": "avez représenté",
+			"ils/elles": "ont représenté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais représenté",
+			"tu": "avais représenté",
+			"il/elle": "avait représenté",
+			"nous": "avions représenté",
+			"vous": "aviez représenté",
+			"ils/elles": "avaient représenté"
+		},
+		"passé antérieur": {
+			"j'": "eus représenté",
+			"tu": "eus représenté",
+			"il/elle": "eut représenté",
+			"nous": "eûmes représenté",
+			"vous": "eûtes représenté",
+			"ils/elles": "eurent représenté"
+		},
+		"futur antérieur": {
+			"j'": "aurai représenté",
+			"tu": "auras représenté",
+			"il/elle": "aura représenté",
+			"nous": "aurons représenté",
+			"vous": "aurez représenté",
+			"ils/elles": "auront représenté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous représentiez",
+			"qu'il/elle": "représente",
+			"qu'ils/elles": "représentent"
+		},
+		"imparfait": {
+			"que": "vous représentassiez",
+			"qu'il/elle": "représentât",
+			"qu'ils/elles": "représentassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse représenté",
+			"que": "vous eussiez représenté",
+			"qu'il/elle": "eût représenté",
+			"qu'ils/elles": "eussent représenté"
+		},
+		"passé": {
+			"j'": "aie représenté",
+			"que": "vous ayez représenté",
+			"qu'il/elle": "ait représenté",
+			"qu'ils/elles": "aient représenté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "représenterais",
+			"tu": "représenterais",
+			"il/elle": "représenterait",
+			"nous": "représenterions",
+			"vous": "représenteriez",
+			"ils/elles": "représenteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais représenté",
+			"tu": "aurais représenté",
+			"il/elle": "aurait représenté",
+			"nous": "aurions représenté",
+			"vous": "auriez représenté",
+			"ils/elles": "auraient représenté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse représenté",
+			"tu": "eusses représenté",
+			"il/elle": "eût représenté",
+			"nous": "eussions représenté",
+			"vous": "eussiez représenté",
+			"ils/elles": "eussent représenté"
+		}
+	},
+	"participe": {
+		"présent": { "représentant": "" },
+		"passé composé": { "ayant": "représenté" },
+		"passé": {
+			"masc.sg.:": "représenté",
+			"masc.pl.:": "représentés",
+			"fém.sg.:": "représentée",
+			"fém.pl.:": "représentées"
+		}
+	},
+	"imperatif": {
+		"présent": { "représente": "", "représentons": "", "représentez": "" },
+		"passé": {
+			"aie": "représenté",
+			"ayons": "représenté",
+			"ayez": "représenté"
+		}
+	},
+	"infinitif": {
+		"présent": { "représenter": "" },
+		"passé": { "avoir": "représenté" }
+	}
+}

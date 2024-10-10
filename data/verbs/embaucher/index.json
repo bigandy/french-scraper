@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "hire; employ; recruit; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'embaucher/ne pas embaucher/ne pas s'embaucher",
+	"indicatif": {
+		"présent": {
+			"j'": "embauche",
+			"tu": "embauches",
+			"il/elle": "embauche",
+			"nous": "embauchons",
+			"vous": "embauchez",
+			"ils/elles": "embauchent"
+		},
+		"imparfait": {
+			"j'": "embauchais",
+			"tu": "embauchais",
+			"il/elle": "embauchait",
+			"nous": "embauchions",
+			"vous": "embauchiez",
+			"ils/elles": "embauchaient"
+		},
+		"futur": {
+			"j'": "embaucherai",
+			"tu": "embaucheras",
+			"il/elle": "embauchera",
+			"nous": "embaucherons",
+			"vous": "embaucherez",
+			"ils/elles": "embaucheront"
+		},
+		"passé simple": {
+			"j'": "embauchai",
+			"tu": "embauchas",
+			"il/elle": "embaucha",
+			"nous": "embauchâmes",
+			"vous": "embauchâtes",
+			"ils/elles": "embauchèrent"
+		},
+		"passé composé": {
+			"j'": "ai embauché",
+			"tu": "as embauché",
+			"il/elle": "a embauché",
+			"nous": "avons embauché",
+			"vous": "avez embauché",
+			"ils/elles": "ont embauché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais embauché",
+			"tu": "avais embauché",
+			"il/elle": "avait embauché",
+			"nous": "avions embauché",
+			"vous": "aviez embauché",
+			"ils/elles": "avaient embauché"
+		},
+		"passé antérieur": {
+			"j'": "eus embauché",
+			"tu": "eus embauché",
+			"il/elle": "eut embauché",
+			"nous": "eûmes embauché",
+			"vous": "eûtes embauché",
+			"ils/elles": "eurent embauché"
+		},
+		"futur antérieur": {
+			"j'": "aurai embauché",
+			"tu": "auras embauché",
+			"il/elle": "aura embauché",
+			"nous": "aurons embauché",
+			"vous": "aurez embauché",
+			"ils/elles": "auront embauché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "embauche",
+			"que": "vous embauchiez",
+			"qu'il/elle": "embauche",
+			"qu'ils/elles": "embauchent"
+		},
+		"imparfait": {
+			"j'": "embauchasse",
+			"que": "vous embauchassiez",
+			"qu'il/elle": "embauchât",
+			"qu'ils/elles": "embauchassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse embauché",
+			"que": "vous eussiez embauché",
+			"qu'il/elle": "eût embauché",
+			"qu'ils/elles": "eussent embauché"
+		},
+		"passé": {
+			"j'": "aie embauché",
+			"que": "vous ayez embauché",
+			"qu'il/elle": "ait embauché",
+			"qu'ils/elles": "aient embauché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "embaucherais",
+			"tu": "embaucherais",
+			"il/elle": "embaucherait",
+			"nous": "embaucherions",
+			"vous": "embaucheriez",
+			"ils/elles": "embaucheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais embauché",
+			"tu": "aurais embauché",
+			"il/elle": "aurait embauché",
+			"nous": "aurions embauché",
+			"vous": "auriez embauché",
+			"ils/elles": "auraient embauché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse embauché",
+			"tu": "eusses embauché",
+			"il/elle": "eût embauché",
+			"nous": "eussions embauché",
+			"vous": "eussiez embauché",
+			"ils/elles": "eussent embauché"
+		}
+	},
+	"participe": {
+		"présent": { "embauchant": "" },
+		"passé composé": { "ayant": "embauché" },
+		"passé": {
+			"masc.sg.:": "embauché",
+			"masc.pl.:": "embauchés",
+			"fém.sg.:": "embauchée",
+			"fém.pl.:": "embauchées"
+		}
+	},
+	"imperatif": {
+		"présent": { "embauche": "", "embauchons": "", "embauchez": "" },
+		"passé": { "aie": "embauché", "ayons": "embauché", "ayez": "embauché" }
+	},
+	"infinitif": {
+		"présent": { "embaucher": "" },
+		"passé": { "avoir": "embauché" }
+	}
+}

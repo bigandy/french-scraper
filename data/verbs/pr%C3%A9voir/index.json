@@ -1,0 +1,138 @@
+{
+	"name": "prévoir",
+	"definition": "provide; predict; provide for; ...",
+	"model": "prévoir",
+	"auxiliary": "avoir",
+	"otherForms": "se prévoir/ne pas prévoir/ne pas se prévoir",
+	"indicatif": {
+		"présent": {
+			"je": "prévois",
+			"tu": "prévois",
+			"il/elle": "prévoit",
+			"nous": "prévoyons",
+			"vous": "prévoyez",
+			"ils/elles": "prévoient"
+		},
+		"imparfait": {
+			"je": "prévoyais",
+			"tu": "prévoyais",
+			"il/elle": "prévoyait",
+			"nous": "prévoyions",
+			"vous": "prévoyiez",
+			"ils/elles": "prévoyaient"
+		},
+		"futur": {
+			"je": "prévoirai",
+			"tu": "prévoiras",
+			"il/elle": "prévoira",
+			"nous": "prévoirons",
+			"vous": "prévoirez",
+			"ils/elles": "prévoiront"
+		},
+		"passé simple": {
+			"je": "prévis",
+			"tu": "prévis",
+			"il/elle": "prévit",
+			"nous": "prévîmes",
+			"vous": "prévîtes",
+			"ils/elles": "prévirent"
+		},
+		"passé composé": {
+			"j'": "ai prévu",
+			"tu": "as prévu",
+			"il/elle": "a prévu",
+			"nous": "avons prévu",
+			"vous": "avez prévu",
+			"ils/elles": "ont prévu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais prévu",
+			"tu": "avais prévu",
+			"il/elle": "avait prévu",
+			"nous": "avions prévu",
+			"vous": "aviez prévu",
+			"ils/elles": "avaient prévu"
+		},
+		"passé antérieur": {
+			"j'": "eus prévu",
+			"tu": "eus prévu",
+			"il/elle": "eut prévu",
+			"nous": "eûmes prévu",
+			"vous": "eûtes prévu",
+			"ils/elles": "eurent prévu"
+		},
+		"futur antérieur": {
+			"j'": "aurai prévu",
+			"tu": "auras prévu",
+			"il/elle": "aura prévu",
+			"nous": "aurons prévu",
+			"vous": "aurez prévu",
+			"ils/elles": "auront prévu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous prévoyiez",
+			"qu'il/elle": "prévoie",
+			"qu'ils/elles": "prévoient"
+		},
+		"imparfait": {
+			"que": "vous prévissiez",
+			"qu'il/elle": "prévît",
+			"qu'ils/elles": "prévissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse prévu",
+			"que": "vous eussiez prévu",
+			"qu'il/elle": "eût prévu",
+			"qu'ils/elles": "eussent prévu"
+		},
+		"passé": {
+			"j'": "aie prévu",
+			"que": "vous ayez prévu",
+			"qu'il/elle": "ait prévu",
+			"qu'ils/elles": "aient prévu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "prévoirais",
+			"tu": "prévoirais",
+			"il/elle": "prévoirait",
+			"nous": "prévoirions",
+			"vous": "prévoiriez",
+			"ils/elles": "prévoiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais prévu",
+			"tu": "aurais prévu",
+			"il/elle": "aurait prévu",
+			"nous": "aurions prévu",
+			"vous": "auriez prévu",
+			"ils/elles": "auraient prévu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse prévu",
+			"tu": "eusses prévu",
+			"il/elle": "eût prévu",
+			"nous": "eussions prévu",
+			"vous": "eussiez prévu",
+			"ils/elles": "eussent prévu"
+		}
+	},
+	"participe": {
+		"présent": { "prévoyant": "" },
+		"passé composé": { "ayant": "prévu" },
+		"passé": {
+			"masc.sg.:": "prévu",
+			"masc.pl.:": "prévus",
+			"fém.sg.:": "prévue",
+			"fém.pl.:": "prévues"
+		}
+	},
+	"imperatif": {
+		"présent": { "prévois": "", "prévoyons": "", "prévoyez": "" },
+		"passé": { "aie": "prévu", "ayons": "prévu", "ayez": "prévu" }
+	},
+	"infinitif": { "présent": { "prévoir": "" }, "passé": { "avoir": "prévu" } }
+}

@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "Renter; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se renter/ne pas renter/ne pas se renter",
+	"indicatif": {
+		"présent": {
+			"je": "rente",
+			"tu": "rentes",
+			"il/elle": "rente",
+			"nous": "rentons",
+			"vous": "rentez",
+			"ils/elles": "rentent"
+		},
+		"imparfait": {
+			"je": "rentais",
+			"tu": "rentais",
+			"il/elle": "rentait",
+			"nous": "rentions",
+			"vous": "rentiez",
+			"ils/elles": "rentaient"
+		},
+		"futur": {
+			"je": "renterai",
+			"tu": "renteras",
+			"il/elle": "rentera",
+			"nous": "renterons",
+			"vous": "renterez",
+			"ils/elles": "renteront"
+		},
+		"passé simple": {
+			"je": "rentai",
+			"tu": "rentas",
+			"il/elle": "renta",
+			"nous": "rentâmes",
+			"vous": "rentâtes",
+			"ils/elles": "rentèrent"
+		},
+		"passé composé": {
+			"j'": "ai renté",
+			"tu": "as renté",
+			"il/elle": "a renté",
+			"nous": "avons renté",
+			"vous": "avez renté",
+			"ils/elles": "ont renté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais renté",
+			"tu": "avais renté",
+			"il/elle": "avait renté",
+			"nous": "avions renté",
+			"vous": "aviez renté",
+			"ils/elles": "avaient renté"
+		},
+		"passé antérieur": {
+			"j'": "eus renté",
+			"tu": "eus renté",
+			"il/elle": "eut renté",
+			"nous": "eûmes renté",
+			"vous": "eûtes renté",
+			"ils/elles": "eurent renté"
+		},
+		"futur antérieur": {
+			"j'": "aurai renté",
+			"tu": "auras renté",
+			"il/elle": "aura renté",
+			"nous": "aurons renté",
+			"vous": "aurez renté",
+			"ils/elles": "auront renté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous rentiez",
+			"qu'il/elle": "rente",
+			"qu'ils/elles": "rentent"
+		},
+		"imparfait": {
+			"que": "vous rentassiez",
+			"qu'il/elle": "rentât",
+			"qu'ils/elles": "rentassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse renté",
+			"que": "vous eussiez renté",
+			"qu'il/elle": "eût renté",
+			"qu'ils/elles": "eussent renté"
+		},
+		"passé": {
+			"j'": "aie renté",
+			"que": "vous ayez renté",
+			"qu'il/elle": "ait renté",
+			"qu'ils/elles": "aient renté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "renterais",
+			"tu": "renterais",
+			"il/elle": "renterait",
+			"nous": "renterions",
+			"vous": "renteriez",
+			"ils/elles": "renteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais renté",
+			"tu": "aurais renté",
+			"il/elle": "aurait renté",
+			"nous": "aurions renté",
+			"vous": "auriez renté",
+			"ils/elles": "auraient renté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse renté",
+			"tu": "eusses renté",
+			"il/elle": "eût renté",
+			"nous": "eussions renté",
+			"vous": "eussiez renté",
+			"ils/elles": "eussent renté"
+		}
+	},
+	"participe": {
+		"présent": { "rentant": "" },
+		"passé composé": { "ayant": "renté" },
+		"passé": {
+			"masc.sg.:": "renté",
+			"masc.pl.:": "rentés",
+			"fém.sg.:": "rentée",
+			"fém.pl.:": "rentées"
+		}
+	},
+	"imperatif": {
+		"présent": { "rente": "", "rentons": "", "rentez": "" },
+		"passé": { "aie": "renté", "ayons": "renté", "ayez": "renté" }
+	},
+	"infinitif": { "présent": { "renter": "" }, "passé": { "avoir": "renté" } }
+}

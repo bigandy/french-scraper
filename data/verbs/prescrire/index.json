@@ -1,0 +1,141 @@
+{
+	"name": "écrire",
+	"definition": "prescribe; require; specify; ...",
+	"model": "écrire",
+	"auxiliary": "avoir",
+	"otherForms": "se prescrire/ne pas prescrire/ne pas se prescrire",
+	"indicatif": {
+		"présent": {
+			"je": "prescris",
+			"tu": "prescris",
+			"il/elle": "prescrit",
+			"nous": "prescrivons",
+			"vous": "prescrivez",
+			"ils/elles": "prescrivent"
+		},
+		"imparfait": {
+			"je": "prescrivais",
+			"tu": "prescrivais",
+			"il/elle": "prescrivait",
+			"nous": "prescrivions",
+			"vous": "prescriviez",
+			"ils/elles": "prescrivaient"
+		},
+		"futur": {
+			"je": "prescrirai",
+			"tu": "prescriras",
+			"il/elle": "prescrira",
+			"nous": "prescrirons",
+			"vous": "prescrirez",
+			"ils/elles": "prescriront"
+		},
+		"passé simple": {
+			"je": "prescrivis",
+			"tu": "prescrivis",
+			"il/elle": "prescrivit",
+			"nous": "prescrivîmes",
+			"vous": "prescrivîtes",
+			"ils/elles": "prescrivirent"
+		},
+		"passé composé": {
+			"j'": "ai prescrit",
+			"tu": "as prescrit",
+			"il/elle": "a prescrit",
+			"nous": "avons prescrit",
+			"vous": "avez prescrit",
+			"ils/elles": "ont prescrit"
+		},
+		"plus-que-parfait": {
+			"j'": "avais prescrit",
+			"tu": "avais prescrit",
+			"il/elle": "avait prescrit",
+			"nous": "avions prescrit",
+			"vous": "aviez prescrit",
+			"ils/elles": "avaient prescrit"
+		},
+		"passé antérieur": {
+			"j'": "eus prescrit",
+			"tu": "eus prescrit",
+			"il/elle": "eut prescrit",
+			"nous": "eûmes prescrit",
+			"vous": "eûtes prescrit",
+			"ils/elles": "eurent prescrit"
+		},
+		"futur antérieur": {
+			"j'": "aurai prescrit",
+			"tu": "auras prescrit",
+			"il/elle": "aura prescrit",
+			"nous": "aurons prescrit",
+			"vous": "aurez prescrit",
+			"ils/elles": "auront prescrit"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous prescriviez",
+			"qu'il/elle": "prescrive",
+			"qu'ils/elles": "prescrivent"
+		},
+		"imparfait": {
+			"que": "vous prescrivissiez",
+			"qu'il/elle": "prescrivît",
+			"qu'ils/elles": "prescrivissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse prescrit",
+			"que": "vous eussiez prescrit",
+			"qu'il/elle": "eût prescrit",
+			"qu'ils/elles": "eussent prescrit"
+		},
+		"passé": {
+			"j'": "aie prescrit",
+			"que": "vous ayez prescrit",
+			"qu'il/elle": "ait prescrit",
+			"qu'ils/elles": "aient prescrit"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "prescrirais",
+			"tu": "prescrirais",
+			"il/elle": "prescrirait",
+			"nous": "prescririons",
+			"vous": "prescririez",
+			"ils/elles": "prescriraient"
+		},
+		"passé première forme": {
+			"j'": "aurais prescrit",
+			"tu": "aurais prescrit",
+			"il/elle": "aurait prescrit",
+			"nous": "aurions prescrit",
+			"vous": "auriez prescrit",
+			"ils/elles": "auraient prescrit"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse prescrit",
+			"tu": "eusses prescrit",
+			"il/elle": "eût prescrit",
+			"nous": "eussions prescrit",
+			"vous": "eussiez prescrit",
+			"ils/elles": "eussent prescrit"
+		}
+	},
+	"participe": {
+		"présent": { "prescrivant": "" },
+		"passé composé": { "ayant": "prescrit" },
+		"passé": {
+			"masc.sg.:": "prescrit",
+			"masc.pl.:": "prescrits",
+			"fém.sg.:": "prescrite",
+			"fém.pl.:": "prescrites"
+		}
+	},
+	"imperatif": {
+		"présent": { "prescris": "", "prescrivons": "", "prescrivez": "" },
+		"passé": { "aie": "prescrit", "ayons": "prescrit", "ayez": "prescrit" }
+	},
+	"infinitif": {
+		"présent": { "prescrire": "" },
+		"passé": { "avoir": "prescrit" }
+	}
+}

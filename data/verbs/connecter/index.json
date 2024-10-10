@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "connect; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se connecter/ne pas connecter/ne pas se connecter",
+	"indicatif": {
+		"présent": {
+			"je": "connecte",
+			"tu": "connectes",
+			"il/elle": "connecte",
+			"nous": "connectons",
+			"vous": "connectez",
+			"ils/elles": "connectent"
+		},
+		"imparfait": {
+			"je": "connectais",
+			"tu": "connectais",
+			"il/elle": "connectait",
+			"nous": "connections",
+			"vous": "connectiez",
+			"ils/elles": "connectaient"
+		},
+		"futur": {
+			"je": "connecterai",
+			"tu": "connecteras",
+			"il/elle": "connectera",
+			"nous": "connecterons",
+			"vous": "connecterez",
+			"ils/elles": "connecteront"
+		},
+		"passé simple": {
+			"je": "connectai",
+			"tu": "connectas",
+			"il/elle": "connecta",
+			"nous": "connectâmes",
+			"vous": "connectâtes",
+			"ils/elles": "connectèrent"
+		},
+		"passé composé": {
+			"j'": "ai connecté",
+			"tu": "as connecté",
+			"il/elle": "a connecté",
+			"nous": "avons connecté",
+			"vous": "avez connecté",
+			"ils/elles": "ont connecté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais connecté",
+			"tu": "avais connecté",
+			"il/elle": "avait connecté",
+			"nous": "avions connecté",
+			"vous": "aviez connecté",
+			"ils/elles": "avaient connecté"
+		},
+		"passé antérieur": {
+			"j'": "eus connecté",
+			"tu": "eus connecté",
+			"il/elle": "eut connecté",
+			"nous": "eûmes connecté",
+			"vous": "eûtes connecté",
+			"ils/elles": "eurent connecté"
+		},
+		"futur antérieur": {
+			"j'": "aurai connecté",
+			"tu": "auras connecté",
+			"il/elle": "aura connecté",
+			"nous": "aurons connecté",
+			"vous": "aurez connecté",
+			"ils/elles": "auront connecté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous connectiez",
+			"qu'il/elle": "connecte",
+			"qu'ils/elles": "connectent"
+		},
+		"imparfait": {
+			"que": "vous connectassiez",
+			"qu'il/elle": "connectât",
+			"qu'ils/elles": "connectassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse connecté",
+			"que": "vous eussiez connecté",
+			"qu'il/elle": "eût connecté",
+			"qu'ils/elles": "eussent connecté"
+		},
+		"passé": {
+			"j'": "aie connecté",
+			"que": "vous ayez connecté",
+			"qu'il/elle": "ait connecté",
+			"qu'ils/elles": "aient connecté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "connecterais",
+			"tu": "connecterais",
+			"il/elle": "connecterait",
+			"nous": "connecterions",
+			"vous": "connecteriez",
+			"ils/elles": "connecteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais connecté",
+			"tu": "aurais connecté",
+			"il/elle": "aurait connecté",
+			"nous": "aurions connecté",
+			"vous": "auriez connecté",
+			"ils/elles": "auraient connecté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse connecté",
+			"tu": "eusses connecté",
+			"il/elle": "eût connecté",
+			"nous": "eussions connecté",
+			"vous": "eussiez connecté",
+			"ils/elles": "eussent connecté"
+		}
+	},
+	"participe": {
+		"présent": { "connectant": "" },
+		"passé composé": { "ayant": "connecté" },
+		"passé": {
+			"masc.sg.:": "connecté",
+			"masc.pl.:": "connectés",
+			"fém.sg.:": "connectée",
+			"fém.pl.:": "connectées"
+		}
+	},
+	"imperatif": {
+		"présent": { "connecte": "", "connectons": "", "connectez": "" },
+		"passé": { "aie": "connecté", "ayons": "connecté", "ayez": "connecté" }
+	},
+	"infinitif": {
+		"présent": { "connecter": "" },
+		"passé": { "avoir": "connecté" }
+	}
+}

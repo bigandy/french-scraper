@@ -1,0 +1,141 @@
+{
+	"name": "mentir",
+	"definition": "feel; experience; sense; ...",
+	"model": "mentir",
+	"auxiliary": "avoir",
+	"otherForms": "se ressentir/ne pas ressentir/ne pas se ressentir",
+	"indicatif": {
+		"présent": {
+			"je": "ressens",
+			"tu": "ressens",
+			"il/elle": "ressent",
+			"nous": "ressentons",
+			"vous": "ressentez",
+			"ils/elles": "ressentent"
+		},
+		"imparfait": {
+			"je": "ressentais",
+			"tu": "ressentais",
+			"il/elle": "ressentait",
+			"nous": "ressentions",
+			"vous": "ressentiez",
+			"ils/elles": "ressentaient"
+		},
+		"futur": {
+			"je": "ressentirai",
+			"tu": "ressentiras",
+			"il/elle": "ressentira",
+			"nous": "ressentirons",
+			"vous": "ressentirez",
+			"ils/elles": "ressentiront"
+		},
+		"passé simple": {
+			"je": "ressentis",
+			"tu": "ressentis",
+			"il/elle": "ressentit",
+			"nous": "ressentîmes",
+			"vous": "ressentîtes",
+			"ils/elles": "ressentirent"
+		},
+		"passé composé": {
+			"j'": "ai ressenti",
+			"tu": "as ressenti",
+			"il/elle": "a ressenti",
+			"nous": "avons ressenti",
+			"vous": "avez ressenti",
+			"ils/elles": "ont ressenti"
+		},
+		"plus-que-parfait": {
+			"j'": "avais ressenti",
+			"tu": "avais ressenti",
+			"il/elle": "avait ressenti",
+			"nous": "avions ressenti",
+			"vous": "aviez ressenti",
+			"ils/elles": "avaient ressenti"
+		},
+		"passé antérieur": {
+			"j'": "eus ressenti",
+			"tu": "eus ressenti",
+			"il/elle": "eut ressenti",
+			"nous": "eûmes ressenti",
+			"vous": "eûtes ressenti",
+			"ils/elles": "eurent ressenti"
+		},
+		"futur antérieur": {
+			"j'": "aurai ressenti",
+			"tu": "auras ressenti",
+			"il/elle": "aura ressenti",
+			"nous": "aurons ressenti",
+			"vous": "aurez ressenti",
+			"ils/elles": "auront ressenti"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous ressentiez",
+			"qu'il/elle": "ressente",
+			"qu'ils/elles": "ressentent"
+		},
+		"imparfait": {
+			"que": "vous ressentissiez",
+			"qu'il/elle": "ressentît",
+			"qu'ils/elles": "ressentissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse ressenti",
+			"que": "vous eussiez ressenti",
+			"qu'il/elle": "eût ressenti",
+			"qu'ils/elles": "eussent ressenti"
+		},
+		"passé": {
+			"j'": "aie ressenti",
+			"que": "vous ayez ressenti",
+			"qu'il/elle": "ait ressenti",
+			"qu'ils/elles": "aient ressenti"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "ressentirais",
+			"tu": "ressentirais",
+			"il/elle": "ressentirait",
+			"nous": "ressentirions",
+			"vous": "ressentiriez",
+			"ils/elles": "ressentiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais ressenti",
+			"tu": "aurais ressenti",
+			"il/elle": "aurait ressenti",
+			"nous": "aurions ressenti",
+			"vous": "auriez ressenti",
+			"ils/elles": "auraient ressenti"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse ressenti",
+			"tu": "eusses ressenti",
+			"il/elle": "eût ressenti",
+			"nous": "eussions ressenti",
+			"vous": "eussiez ressenti",
+			"ils/elles": "eussent ressenti"
+		}
+	},
+	"participe": {
+		"présent": { "ressentant": "" },
+		"passé composé": { "ayant": "ressenti" },
+		"passé": {
+			"masc.sg.:": "ressenti",
+			"masc.pl.:": "ressentis",
+			"fém.sg.:": "ressentie",
+			"fém.pl.:": "ressenties"
+		}
+	},
+	"imperatif": {
+		"présent": { "ressens": "", "ressentons": "", "ressentez": "" },
+		"passé": { "aie": "ressenti", "ayons": "ressenti", "ayez": "ressenti" }
+	},
+	"infinitif": {
+		"présent": { "ressentir": "" },
+		"passé": { "avoir": "ressenti" }
+	}
+}

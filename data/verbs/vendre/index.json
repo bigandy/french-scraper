@@ -1,0 +1,138 @@
+{
+	"name": "attendre",
+	"definition": "sell; market; ...",
+	"model": "attendre",
+	"auxiliary": "avoir",
+	"otherForms": "se vendre/ne pas vendre/ne pas se vendre",
+	"indicatif": {
+		"présent": {
+			"je": "vends",
+			"tu": "vends",
+			"il/elle": "vend",
+			"nous": "vendons",
+			"vous": "vendez",
+			"ils/elles": "vendent"
+		},
+		"imparfait": {
+			"je": "vendais",
+			"tu": "vendais",
+			"il/elle": "vendait",
+			"nous": "vendions",
+			"vous": "vendiez",
+			"ils/elles": "vendaient"
+		},
+		"futur": {
+			"je": "vendrai",
+			"tu": "vendras",
+			"il/elle": "vendra",
+			"nous": "vendrons",
+			"vous": "vendrez",
+			"ils/elles": "vendront"
+		},
+		"passé simple": {
+			"je": "vendis",
+			"tu": "vendis",
+			"il/elle": "vendit",
+			"nous": "vendîmes",
+			"vous": "vendîtes",
+			"ils/elles": "vendirent"
+		},
+		"passé composé": {
+			"j'": "ai vendu",
+			"tu": "as vendu",
+			"il/elle": "a vendu",
+			"nous": "avons vendu",
+			"vous": "avez vendu",
+			"ils/elles": "ont vendu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais vendu",
+			"tu": "avais vendu",
+			"il/elle": "avait vendu",
+			"nous": "avions vendu",
+			"vous": "aviez vendu",
+			"ils/elles": "avaient vendu"
+		},
+		"passé antérieur": {
+			"j'": "eus vendu",
+			"tu": "eus vendu",
+			"il/elle": "eut vendu",
+			"nous": "eûmes vendu",
+			"vous": "eûtes vendu",
+			"ils/elles": "eurent vendu"
+		},
+		"futur antérieur": {
+			"j'": "aurai vendu",
+			"tu": "auras vendu",
+			"il/elle": "aura vendu",
+			"nous": "aurons vendu",
+			"vous": "aurez vendu",
+			"ils/elles": "auront vendu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous vendiez",
+			"qu'il/elle": "vende",
+			"qu'ils/elles": "vendent"
+		},
+		"imparfait": {
+			"que": "vous vendissiez",
+			"qu'il/elle": "vendît",
+			"qu'ils/elles": "vendissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse vendu",
+			"que": "vous eussiez vendu",
+			"qu'il/elle": "eût vendu",
+			"qu'ils/elles": "eussent vendu"
+		},
+		"passé": {
+			"j'": "aie vendu",
+			"que": "vous ayez vendu",
+			"qu'il/elle": "ait vendu",
+			"qu'ils/elles": "aient vendu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "vendrais",
+			"tu": "vendrais",
+			"il/elle": "vendrait",
+			"nous": "vendrions",
+			"vous": "vendriez",
+			"ils/elles": "vendraient"
+		},
+		"passé première forme": {
+			"j'": "aurais vendu",
+			"tu": "aurais vendu",
+			"il/elle": "aurait vendu",
+			"nous": "aurions vendu",
+			"vous": "auriez vendu",
+			"ils/elles": "auraient vendu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse vendu",
+			"tu": "eusses vendu",
+			"il/elle": "eût vendu",
+			"nous": "eussions vendu",
+			"vous": "eussiez vendu",
+			"ils/elles": "eussent vendu"
+		}
+	},
+	"participe": {
+		"présent": { "vendant": "" },
+		"passé composé": { "ayant": "vendu" },
+		"passé": {
+			"masc.sg.:": "vendu",
+			"masc.pl.:": "vendus",
+			"fém.sg.:": "vendue",
+			"fém.pl.:": "vendues"
+		}
+	},
+	"imperatif": {
+		"présent": { "vends": "", "vendons": "", "vendez": "" },
+		"passé": { "aie": "vendu", "ayons": "vendu", "ayez": "vendu" }
+	},
+	"infinitif": { "présent": { "vendre": "" }, "passé": { "avoir": "vendu" } }
+}

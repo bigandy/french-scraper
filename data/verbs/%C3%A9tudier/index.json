@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "study; consider; explore; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'étudier/ne pas étudier/ne pas s'étudier",
+	"indicatif": {
+		"présent": {
+			"j'": "étudie",
+			"tu": "étudies",
+			"il/elle": "étudie",
+			"nous": "étudions",
+			"vous": "étudiez",
+			"ils/elles": "étudient"
+		},
+		"imparfait": {
+			"j'": "étudiais",
+			"tu": "étudiais",
+			"il/elle": "étudiait",
+			"nous": "étudiions",
+			"vous": "étudiiez",
+			"ils/elles": "étudiaient"
+		},
+		"futur": {
+			"j'": "étudierai",
+			"tu": "étudieras",
+			"il/elle": "étudiera",
+			"nous": "étudierons",
+			"vous": "étudierez",
+			"ils/elles": "étudieront"
+		},
+		"passé simple": {
+			"j'": "étudiai",
+			"tu": "étudias",
+			"il/elle": "étudia",
+			"nous": "étudiâmes",
+			"vous": "étudiâtes",
+			"ils/elles": "étudièrent"
+		},
+		"passé composé": {
+			"j'": "ai étudié",
+			"tu": "as étudié",
+			"il/elle": "a étudié",
+			"nous": "avons étudié",
+			"vous": "avez étudié",
+			"ils/elles": "ont étudié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais étudié",
+			"tu": "avais étudié",
+			"il/elle": "avait étudié",
+			"nous": "avions étudié",
+			"vous": "aviez étudié",
+			"ils/elles": "avaient étudié"
+		},
+		"passé antérieur": {
+			"j'": "eus étudié",
+			"tu": "eus étudié",
+			"il/elle": "eut étudié",
+			"nous": "eûmes étudié",
+			"vous": "eûtes étudié",
+			"ils/elles": "eurent étudié"
+		},
+		"futur antérieur": {
+			"j'": "aurai étudié",
+			"tu": "auras étudié",
+			"il/elle": "aura étudié",
+			"nous": "aurons étudié",
+			"vous": "aurez étudié",
+			"ils/elles": "auront étudié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "étudie",
+			"que": "vous étudiiez",
+			"qu'il/elle": "étudie",
+			"qu'ils/elles": "étudient"
+		},
+		"imparfait": {
+			"j'": "étudiasse",
+			"que": "vous étudiassiez",
+			"qu'il/elle": "étudiât",
+			"qu'ils/elles": "étudiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse étudié",
+			"que": "vous eussiez étudié",
+			"qu'il/elle": "eût étudié",
+			"qu'ils/elles": "eussent étudié"
+		},
+		"passé": {
+			"j'": "aie étudié",
+			"que": "vous ayez étudié",
+			"qu'il/elle": "ait étudié",
+			"qu'ils/elles": "aient étudié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "étudierais",
+			"tu": "étudierais",
+			"il/elle": "étudierait",
+			"nous": "étudierions",
+			"vous": "étudieriez",
+			"ils/elles": "étudieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais étudié",
+			"tu": "aurais étudié",
+			"il/elle": "aurait étudié",
+			"nous": "aurions étudié",
+			"vous": "auriez étudié",
+			"ils/elles": "auraient étudié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse étudié",
+			"tu": "eusses étudié",
+			"il/elle": "eût étudié",
+			"nous": "eussions étudié",
+			"vous": "eussiez étudié",
+			"ils/elles": "eussent étudié"
+		}
+	},
+	"participe": {
+		"présent": { "étudiant": "" },
+		"passé composé": { "ayant": "étudié" },
+		"passé": {
+			"masc.sg.:": "étudié",
+			"masc.pl.:": "étudiés",
+			"fém.sg.:": "étudiée",
+			"fém.pl.:": "étudiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "étudie": "", "étudions": "", "étudiez": "" },
+		"passé": { "aie": "étudié", "ayons": "étudié", "ayez": "étudié" }
+	},
+	"infinitif": { "présent": { "étudier": "" }, "passé": { "avoir": "étudié" } }
+}

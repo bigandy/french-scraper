@@ -1,0 +1,31 @@
+{
+	"name": "falloir",
+	"definition": "have to; need; take; ...",
+	"model": "falloir",
+	"auxiliary": "avoir",
+	"otherForms": "se falloir/ne pas falloir/ne pas se falloir",
+	"indicatif": {
+		"présent": { "il": "faut" },
+		"imparfait": { "il": "fallait" },
+		"futur": { "il": "faudra" },
+		"passé simple": { "il": "fallut" },
+		"passé composé": { "il": "a fallu" },
+		"plus-que-parfait": { "il": "avait fallu" },
+		"passé antérieur": { "il": "eut fallu" },
+		"futur antérieur": { "il": "aura fallu" }
+	},
+	"subjonctif": {
+		"présent": { "qu'il": "faille" },
+		"imparfait": { "qu'il": "fallût" },
+		"plus-que-parfait": { "qu'il": "eût fallu" },
+		"passé": { "qu'il": "ait fallu" }
+	},
+	"conditionnel": {
+		"présent": { "il": "faudrait" },
+		"passé première forme": { "il": "aurait fallu" },
+		"passé deuxième forme": { "il": "eût fallu" }
+	},
+	"participe": { "présent": {}, "passé composé": {}, "passé": { "fallu": "" } },
+	"imperatif": { "présent": {}, "passé": {} },
+	"infinitif": { "présent": { "falloir": "" }, "passé": { "avoir": "fallu" } }
+}

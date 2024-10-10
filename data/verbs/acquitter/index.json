@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "discharge; pay; implement; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'acquitter/ne pas acquitter/ne pas s'acquitter",
+	"indicatif": {
+		"présent": {
+			"j'": "acquitte",
+			"tu": "acquittes",
+			"il/elle": "acquitte",
+			"nous": "acquittons",
+			"vous": "acquittez",
+			"ils/elles": "acquittent"
+		},
+		"imparfait": {
+			"j'": "acquittais",
+			"tu": "acquittais",
+			"il/elle": "acquittait",
+			"nous": "acquittions",
+			"vous": "acquittiez",
+			"ils/elles": "acquittaient"
+		},
+		"futur": {
+			"j'": "acquitterai",
+			"tu": "acquitteras",
+			"il/elle": "acquittera",
+			"nous": "acquitterons",
+			"vous": "acquitterez",
+			"ils/elles": "acquitteront"
+		},
+		"passé simple": {
+			"j'": "acquittai",
+			"tu": "acquittas",
+			"il/elle": "acquitta",
+			"nous": "acquittâmes",
+			"vous": "acquittâtes",
+			"ils/elles": "acquittèrent"
+		},
+		"passé composé": {
+			"j'": "ai acquitté",
+			"tu": "as acquitté",
+			"il/elle": "a acquitté",
+			"nous": "avons acquitté",
+			"vous": "avez acquitté",
+			"ils/elles": "ont acquitté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais acquitté",
+			"tu": "avais acquitté",
+			"il/elle": "avait acquitté",
+			"nous": "avions acquitté",
+			"vous": "aviez acquitté",
+			"ils/elles": "avaient acquitté"
+		},
+		"passé antérieur": {
+			"j'": "eus acquitté",
+			"tu": "eus acquitté",
+			"il/elle": "eut acquitté",
+			"nous": "eûmes acquitté",
+			"vous": "eûtes acquitté",
+			"ils/elles": "eurent acquitté"
+		},
+		"futur antérieur": {
+			"j'": "aurai acquitté",
+			"tu": "auras acquitté",
+			"il/elle": "aura acquitté",
+			"nous": "aurons acquitté",
+			"vous": "aurez acquitté",
+			"ils/elles": "auront acquitté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "acquitte",
+			"que": "vous acquittiez",
+			"qu'il/elle": "acquitte",
+			"qu'ils/elles": "acquittent"
+		},
+		"imparfait": {
+			"j'": "acquittasse",
+			"que": "vous acquittassiez",
+			"qu'il/elle": "acquittât",
+			"qu'ils/elles": "acquittassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse acquitté",
+			"que": "vous eussiez acquitté",
+			"qu'il/elle": "eût acquitté",
+			"qu'ils/elles": "eussent acquitté"
+		},
+		"passé": {
+			"j'": "aie acquitté",
+			"que": "vous ayez acquitté",
+			"qu'il/elle": "ait acquitté",
+			"qu'ils/elles": "aient acquitté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "acquitterais",
+			"tu": "acquitterais",
+			"il/elle": "acquitterait",
+			"nous": "acquitterions",
+			"vous": "acquitteriez",
+			"ils/elles": "acquitteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais acquitté",
+			"tu": "aurais acquitté",
+			"il/elle": "aurait acquitté",
+			"nous": "aurions acquitté",
+			"vous": "auriez acquitté",
+			"ils/elles": "auraient acquitté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse acquitté",
+			"tu": "eusses acquitté",
+			"il/elle": "eût acquitté",
+			"nous": "eussions acquitté",
+			"vous": "eussiez acquitté",
+			"ils/elles": "eussent acquitté"
+		}
+	},
+	"participe": {
+		"présent": { "acquittant": "" },
+		"passé composé": { "ayant": "acquitté" },
+		"passé": {
+			"masc.sg.:": "acquitté",
+			"masc.pl.:": "acquittés",
+			"fém.sg.:": "acquittée",
+			"fém.pl.:": "acquittées"
+		}
+	},
+	"imperatif": {
+		"présent": { "acquitte": "", "acquittons": "", "acquittez": "" },
+		"passé": { "aie": "acquitté", "ayons": "acquitté", "ayez": "acquitté" }
+	},
+	"infinitif": {
+		"présent": { "acquitter": "" },
+		"passé": { "avoir": "acquitté" }
+	}
+}

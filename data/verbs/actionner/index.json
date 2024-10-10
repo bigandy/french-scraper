@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "actuate; operate; activate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'actionner/ne pas actionner/ne pas s'actionner",
+	"indicatif": {
+		"présent": {
+			"j'": "actionne",
+			"tu": "actionnes",
+			"il/elle": "actionne",
+			"nous": "actionnons",
+			"vous": "actionnez",
+			"ils/elles": "actionnent"
+		},
+		"imparfait": {
+			"j'": "actionnais",
+			"tu": "actionnais",
+			"il/elle": "actionnait",
+			"nous": "actionnions",
+			"vous": "actionniez",
+			"ils/elles": "actionnaient"
+		},
+		"futur": {
+			"j'": "actionnerai",
+			"tu": "actionneras",
+			"il/elle": "actionnera",
+			"nous": "actionnerons",
+			"vous": "actionnerez",
+			"ils/elles": "actionneront"
+		},
+		"passé simple": {
+			"j'": "actionnai",
+			"tu": "actionnas",
+			"il/elle": "actionna",
+			"nous": "actionnâmes",
+			"vous": "actionnâtes",
+			"ils/elles": "actionnèrent"
+		},
+		"passé composé": {
+			"j'": "ai actionné",
+			"tu": "as actionné",
+			"il/elle": "a actionné",
+			"nous": "avons actionné",
+			"vous": "avez actionné",
+			"ils/elles": "ont actionné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais actionné",
+			"tu": "avais actionné",
+			"il/elle": "avait actionné",
+			"nous": "avions actionné",
+			"vous": "aviez actionné",
+			"ils/elles": "avaient actionné"
+		},
+		"passé antérieur": {
+			"j'": "eus actionné",
+			"tu": "eus actionné",
+			"il/elle": "eut actionné",
+			"nous": "eûmes actionné",
+			"vous": "eûtes actionné",
+			"ils/elles": "eurent actionné"
+		},
+		"futur antérieur": {
+			"j'": "aurai actionné",
+			"tu": "auras actionné",
+			"il/elle": "aura actionné",
+			"nous": "aurons actionné",
+			"vous": "aurez actionné",
+			"ils/elles": "auront actionné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "actionne",
+			"que": "vous actionniez",
+			"qu'il/elle": "actionne",
+			"qu'ils/elles": "actionnent"
+		},
+		"imparfait": {
+			"j'": "actionnasse",
+			"que": "vous actionnassiez",
+			"qu'il/elle": "actionnât",
+			"qu'ils/elles": "actionnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse actionné",
+			"que": "vous eussiez actionné",
+			"qu'il/elle": "eût actionné",
+			"qu'ils/elles": "eussent actionné"
+		},
+		"passé": {
+			"j'": "aie actionné",
+			"que": "vous ayez actionné",
+			"qu'il/elle": "ait actionné",
+			"qu'ils/elles": "aient actionné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "actionnerais",
+			"tu": "actionnerais",
+			"il/elle": "actionnerait",
+			"nous": "actionnerions",
+			"vous": "actionneriez",
+			"ils/elles": "actionneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais actionné",
+			"tu": "aurais actionné",
+			"il/elle": "aurait actionné",
+			"nous": "aurions actionné",
+			"vous": "auriez actionné",
+			"ils/elles": "auraient actionné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse actionné",
+			"tu": "eusses actionné",
+			"il/elle": "eût actionné",
+			"nous": "eussions actionné",
+			"vous": "eussiez actionné",
+			"ils/elles": "eussent actionné"
+		}
+	},
+	"participe": {
+		"présent": { "actionnant": "" },
+		"passé composé": { "ayant": "actionné" },
+		"passé": {
+			"masc.sg.:": "actionné",
+			"masc.pl.:": "actionnés",
+			"fém.sg.:": "actionnée",
+			"fém.pl.:": "actionnées"
+		}
+	},
+	"imperatif": {
+		"présent": { "actionne": "", "actionnons": "", "actionnez": "" },
+		"passé": { "aie": "actionné", "ayons": "actionné", "ayez": "actionné" }
+	},
+	"infinitif": {
+		"présent": { "actionner": "" },
+		"passé": { "avoir": "actionné" }
+	}
+}

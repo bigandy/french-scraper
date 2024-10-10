@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "bind; link; bond; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se lier/ne pas lier/ne pas se lier",
+	"indicatif": {
+		"présent": {
+			"je": "lie",
+			"tu": "lies",
+			"il/elle": "lie",
+			"nous": "lions",
+			"vous": "liez",
+			"ils/elles": "lient"
+		},
+		"imparfait": {
+			"je": "liais",
+			"tu": "liais",
+			"il/elle": "liait",
+			"nous": "liions",
+			"vous": "liiez",
+			"ils/elles": "liaient"
+		},
+		"futur": {
+			"je": "lierai",
+			"tu": "lieras",
+			"il/elle": "liera",
+			"nous": "lierons",
+			"vous": "lierez",
+			"ils/elles": "lieront"
+		},
+		"passé simple": {
+			"je": "liai",
+			"tu": "lias",
+			"il/elle": "lia",
+			"nous": "liâmes",
+			"vous": "liâtes",
+			"ils/elles": "lièrent"
+		},
+		"passé composé": {
+			"j'": "ai lié",
+			"tu": "as lié",
+			"il/elle": "a lié",
+			"nous": "avons lié",
+			"vous": "avez lié",
+			"ils/elles": "ont lié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais lié",
+			"tu": "avais lié",
+			"il/elle": "avait lié",
+			"nous": "avions lié",
+			"vous": "aviez lié",
+			"ils/elles": "avaient lié"
+		},
+		"passé antérieur": {
+			"j'": "eus lié",
+			"tu": "eus lié",
+			"il/elle": "eut lié",
+			"nous": "eûmes lié",
+			"vous": "eûtes lié",
+			"ils/elles": "eurent lié"
+		},
+		"futur antérieur": {
+			"j'": "aurai lié",
+			"tu": "auras lié",
+			"il/elle": "aura lié",
+			"nous": "aurons lié",
+			"vous": "aurez lié",
+			"ils/elles": "auront lié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous liiez",
+			"qu'il/elle": "lie",
+			"qu'ils/elles": "lient"
+		},
+		"imparfait": {
+			"que": "vous liassiez",
+			"qu'il/elle": "liât",
+			"qu'ils/elles": "liassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse lié",
+			"que": "vous eussiez lié",
+			"qu'il/elle": "eût lié",
+			"qu'ils/elles": "eussent lié"
+		},
+		"passé": {
+			"j'": "aie lié",
+			"que": "vous ayez lié",
+			"qu'il/elle": "ait lié",
+			"qu'ils/elles": "aient lié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "lierais",
+			"tu": "lierais",
+			"il/elle": "lierait",
+			"nous": "lierions",
+			"vous": "lieriez",
+			"ils/elles": "lieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais lié",
+			"tu": "aurais lié",
+			"il/elle": "aurait lié",
+			"nous": "aurions lié",
+			"vous": "auriez lié",
+			"ils/elles": "auraient lié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse lié",
+			"tu": "eusses lié",
+			"il/elle": "eût lié",
+			"nous": "eussions lié",
+			"vous": "eussiez lié",
+			"ils/elles": "eussent lié"
+		}
+	},
+	"participe": {
+		"présent": { "liant": "" },
+		"passé composé": { "ayant": "lié" },
+		"passé": {
+			"masc.sg.:": "lié",
+			"masc.pl.:": "liés",
+			"fém.sg.:": "liée",
+			"fém.pl.:": "liées"
+		}
+	},
+	"imperatif": {
+		"présent": { "lie": "", "lions": "", "liez": "" },
+		"passé": { "aie": "lié", "ayons": "lié", "ayez": "lié" }
+	},
+	"infinitif": { "présent": { "lier": "" }, "passé": { "avoir": "lié" } }
+}

@@ -1,0 +1,138 @@
+{
+	"name": "boire",
+	"definition": "drink; ...",
+	"model": "boire",
+	"auxiliary": "avoir",
+	"otherForms": "se boire/ne pas boire/ne pas se boire",
+	"indicatif": {
+		"présent": {
+			"je": "bois",
+			"tu": "bois",
+			"il/elle": "boit",
+			"nous": "buvons",
+			"vous": "buvez",
+			"ils/elles": "boivent"
+		},
+		"imparfait": {
+			"je": "buvais",
+			"tu": "buvais",
+			"il/elle": "buvait",
+			"nous": "buvions",
+			"vous": "buviez",
+			"ils/elles": "buvaient"
+		},
+		"futur": {
+			"je": "boirai",
+			"tu": "boiras",
+			"il/elle": "boira",
+			"nous": "boirons",
+			"vous": "boirez",
+			"ils/elles": "boiront"
+		},
+		"passé simple": {
+			"je": "bus",
+			"tu": "bus",
+			"il/elle": "but",
+			"nous": "bûmes",
+			"vous": "bûtes",
+			"ils/elles": "burent"
+		},
+		"passé composé": {
+			"j'": "ai bu",
+			"tu": "as bu",
+			"il/elle": "a bu",
+			"nous": "avons bu",
+			"vous": "avez bu",
+			"ils/elles": "ont bu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais bu",
+			"tu": "avais bu",
+			"il/elle": "avait bu",
+			"nous": "avions bu",
+			"vous": "aviez bu",
+			"ils/elles": "avaient bu"
+		},
+		"passé antérieur": {
+			"j'": "eus bu",
+			"tu": "eus bu",
+			"il/elle": "eut bu",
+			"nous": "eûmes bu",
+			"vous": "eûtes bu",
+			"ils/elles": "eurent bu"
+		},
+		"futur antérieur": {
+			"j'": "aurai bu",
+			"tu": "auras bu",
+			"il/elle": "aura bu",
+			"nous": "aurons bu",
+			"vous": "aurez bu",
+			"ils/elles": "auront bu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous buviez",
+			"qu'il/elle": "boive",
+			"qu'ils/elles": "boivent"
+		},
+		"imparfait": {
+			"que": "vous bussiez",
+			"qu'il/elle": "bût",
+			"qu'ils/elles": "bussent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse bu",
+			"que": "vous eussiez bu",
+			"qu'il/elle": "eût bu",
+			"qu'ils/elles": "eussent bu"
+		},
+		"passé": {
+			"j'": "aie bu",
+			"que": "vous ayez bu",
+			"qu'il/elle": "ait bu",
+			"qu'ils/elles": "aient bu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "boirais",
+			"tu": "boirais",
+			"il/elle": "boirait",
+			"nous": "boirions",
+			"vous": "boiriez",
+			"ils/elles": "boiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais bu",
+			"tu": "aurais bu",
+			"il/elle": "aurait bu",
+			"nous": "aurions bu",
+			"vous": "auriez bu",
+			"ils/elles": "auraient bu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse bu",
+			"tu": "eusses bu",
+			"il/elle": "eût bu",
+			"nous": "eussions bu",
+			"vous": "eussiez bu",
+			"ils/elles": "eussent bu"
+		}
+	},
+	"participe": {
+		"présent": { "buvant": "" },
+		"passé composé": { "ayant": "bu" },
+		"passé": {
+			"masc.sg.:": "bu",
+			"masc.pl.:": "bus",
+			"fém.sg.:": "bue",
+			"fém.pl.:": "bues"
+		}
+	},
+	"imperatif": {
+		"présent": { "bois": "", "buvons": "", "buvez": "" },
+		"passé": { "aie": "bu", "ayons": "bu", "ayez": "bu" }
+	},
+	"infinitif": { "présent": { "boire": "" }, "passé": { "avoir": "bu" } }
+}

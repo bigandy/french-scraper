@@ -1,0 +1,143 @@
+{
+	"name": "balayer",
+	"definition": "grant; award; allocate; ...",
+	"model": "balayer",
+	"auxiliary": "avoir",
+	"otherForms": "s'octroyer/ne pas octroyer/ne pas s'octroyer",
+	"indicatif": {
+		"présent": {
+			"j'": "octroie",
+			"tu": "octroies",
+			"il/elle": "octroie",
+			"nous": "octroyons",
+			"vous": "octroyez",
+			"ils/elles": "octroient"
+		},
+		"imparfait": {
+			"j'": "octroyais",
+			"tu": "octroyais",
+			"il/elle": "octroyait",
+			"nous": "octroyions",
+			"vous": "octroyiez",
+			"ils/elles": "octroyaient"
+		},
+		"futur": {
+			"j'": "octroierai",
+			"tu": "octroieras",
+			"il/elle": "octroiera",
+			"nous": "octroierons",
+			"vous": "octroierez",
+			"ils/elles": "octroieront"
+		},
+		"passé simple": {
+			"j'": "octroyai",
+			"tu": "octroyas",
+			"il/elle": "octroya",
+			"nous": "octroyâmes",
+			"vous": "octroyâtes",
+			"ils/elles": "octroyèrent"
+		},
+		"passé composé": {
+			"j'": "ai octroyé",
+			"tu": "as octroyé",
+			"il/elle": "a octroyé",
+			"nous": "avons octroyé",
+			"vous": "avez octroyé",
+			"ils/elles": "ont octroyé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais octroyé",
+			"tu": "avais octroyé",
+			"il/elle": "avait octroyé",
+			"nous": "avions octroyé",
+			"vous": "aviez octroyé",
+			"ils/elles": "avaient octroyé"
+		},
+		"passé antérieur": {
+			"j'": "eus octroyé",
+			"tu": "eus octroyé",
+			"il/elle": "eut octroyé",
+			"nous": "eûmes octroyé",
+			"vous": "eûtes octroyé",
+			"ils/elles": "eurent octroyé"
+		},
+		"futur antérieur": {
+			"j'": "aurai octroyé",
+			"tu": "auras octroyé",
+			"il/elle": "aura octroyé",
+			"nous": "aurons octroyé",
+			"vous": "aurez octroyé",
+			"ils/elles": "auront octroyé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "octroie",
+			"que": "vous octroyiez",
+			"qu'il/elle": "octroie",
+			"qu'ils/elles": "octroient"
+		},
+		"imparfait": {
+			"j'": "octroyasse",
+			"que": "vous octroyassiez",
+			"qu'il/elle": "octroyât",
+			"qu'ils/elles": "octroyassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse octroyé",
+			"que": "vous eussiez octroyé",
+			"qu'il/elle": "eût octroyé",
+			"qu'ils/elles": "eussent octroyé"
+		},
+		"passé": {
+			"j'": "aie octroyé",
+			"que": "vous ayez octroyé",
+			"qu'il/elle": "ait octroyé",
+			"qu'ils/elles": "aient octroyé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "octroierais",
+			"tu": "octroierais",
+			"il/elle": "octroierait",
+			"nous": "octroierions",
+			"vous": "octroieriez",
+			"ils/elles": "octroieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais octroyé",
+			"tu": "aurais octroyé",
+			"il/elle": "aurait octroyé",
+			"nous": "aurions octroyé",
+			"vous": "auriez octroyé",
+			"ils/elles": "auraient octroyé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse octroyé",
+			"tu": "eusses octroyé",
+			"il/elle": "eût octroyé",
+			"nous": "eussions octroyé",
+			"vous": "eussiez octroyé",
+			"ils/elles": "eussent octroyé"
+		}
+	},
+	"participe": {
+		"présent": { "octroyant": "" },
+		"passé composé": { "ayant": "octroyé" },
+		"passé": {
+			"masc.sg.:": "octroyé",
+			"masc.pl.:": "octroyés",
+			"fém.sg.:": "octroyée",
+			"fém.pl.:": "octroyées"
+		}
+	},
+	"imperatif": {
+		"présent": { "octroie": "", "octroyons": "", "octroyez": "" },
+		"passé": { "aie": "octroyé", "ayons": "octroyé", "ayez": "octroyé" }
+	},
+	"infinitif": {
+		"présent": { "octroyer": "" },
+		"passé": { "avoir": "octroyé" }
+	}
+}

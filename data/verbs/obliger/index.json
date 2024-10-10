@@ -1,0 +1,140 @@
+{
+	"name": "manger",
+	"definition": "force; require; oblige; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "s'obliger/ne pas obliger/ne pas s'obliger",
+	"indicatif": {
+		"présent": {
+			"j'": "oblige",
+			"tu": "obliges",
+			"il/elle": "oblige",
+			"nous": "obligeons",
+			"vous": "obligez",
+			"ils/elles": "obligent"
+		},
+		"imparfait": {
+			"j'": "obligeais",
+			"tu": "obligeais",
+			"il/elle": "obligeait",
+			"nous": "obligions",
+			"vous": "obligiez",
+			"ils/elles": "obligeaient"
+		},
+		"futur": {
+			"j'": "obligerai",
+			"tu": "obligeras",
+			"il/elle": "obligera",
+			"nous": "obligerons",
+			"vous": "obligerez",
+			"ils/elles": "obligeront"
+		},
+		"passé simple": {
+			"j'": "obligeai",
+			"tu": "obligeas",
+			"il/elle": "obligea",
+			"nous": "obligeâmes",
+			"vous": "obligeâtes",
+			"ils/elles": "obligèrent"
+		},
+		"passé composé": {
+			"j'": "ai obligé",
+			"tu": "as obligé",
+			"il/elle": "a obligé",
+			"nous": "avons obligé",
+			"vous": "avez obligé",
+			"ils/elles": "ont obligé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais obligé",
+			"tu": "avais obligé",
+			"il/elle": "avait obligé",
+			"nous": "avions obligé",
+			"vous": "aviez obligé",
+			"ils/elles": "avaient obligé"
+		},
+		"passé antérieur": {
+			"j'": "eus obligé",
+			"tu": "eus obligé",
+			"il/elle": "eut obligé",
+			"nous": "eûmes obligé",
+			"vous": "eûtes obligé",
+			"ils/elles": "eurent obligé"
+		},
+		"futur antérieur": {
+			"j'": "aurai obligé",
+			"tu": "auras obligé",
+			"il/elle": "aura obligé",
+			"nous": "aurons obligé",
+			"vous": "aurez obligé",
+			"ils/elles": "auront obligé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "oblige",
+			"que": "vous obligiez",
+			"qu'il/elle": "oblige",
+			"qu'ils/elles": "obligent"
+		},
+		"imparfait": {
+			"j'": "obligeasse",
+			"que": "vous obligeassiez",
+			"qu'il/elle": "obligeât",
+			"qu'ils/elles": "obligeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse obligé",
+			"que": "vous eussiez obligé",
+			"qu'il/elle": "eût obligé",
+			"qu'ils/elles": "eussent obligé"
+		},
+		"passé": {
+			"j'": "aie obligé",
+			"que": "vous ayez obligé",
+			"qu'il/elle": "ait obligé",
+			"qu'ils/elles": "aient obligé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "obligerais",
+			"tu": "obligerais",
+			"il/elle": "obligerait",
+			"nous": "obligerions",
+			"vous": "obligeriez",
+			"ils/elles": "obligeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais obligé",
+			"tu": "aurais obligé",
+			"il/elle": "aurait obligé",
+			"nous": "aurions obligé",
+			"vous": "auriez obligé",
+			"ils/elles": "auraient obligé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse obligé",
+			"tu": "eusses obligé",
+			"il/elle": "eût obligé",
+			"nous": "eussions obligé",
+			"vous": "eussiez obligé",
+			"ils/elles": "eussent obligé"
+		}
+	},
+	"participe": {
+		"présent": { "obligeant": "" },
+		"passé composé": { "ayant": "obligé" },
+		"passé": {
+			"masc.sg.:": "obligé",
+			"masc.pl.:": "obligés",
+			"fém.sg.:": "obligée",
+			"fém.pl.:": "obligées"
+		}
+	},
+	"imperatif": {
+		"présent": { "oblige": "", "obligeons": "", "obligez": "" },
+		"passé": { "aie": "obligé", "ayons": "obligé", "ayez": "obligé" }
+	},
+	"infinitif": { "présent": { "obliger": "" }, "passé": { "avoir": "obligé" } }
+}

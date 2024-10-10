@@ -1,0 +1,140 @@
+{
+	"name": "finir",
+	"definition": "abolish; eliminate; remove; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "s'abolir/ne pas abolir/ne pas s'abolir",
+	"indicatif": {
+		"présent": {
+			"j'": "abolis",
+			"tu": "abolis",
+			"il/elle": "abolit",
+			"nous": "abolissons",
+			"vous": "abolissez",
+			"ils/elles": "abolissent"
+		},
+		"imparfait": {
+			"j'": "abolissais",
+			"tu": "abolissais",
+			"il/elle": "abolissait",
+			"nous": "abolissions",
+			"vous": "abolissiez",
+			"ils/elles": "abolissaient"
+		},
+		"futur": {
+			"j'": "abolirai",
+			"tu": "aboliras",
+			"il/elle": "abolira",
+			"nous": "abolirons",
+			"vous": "abolirez",
+			"ils/elles": "aboliront"
+		},
+		"passé simple": {
+			"j'": "abolis",
+			"tu": "abolis",
+			"il/elle": "abolit",
+			"nous": "abolîmes",
+			"vous": "abolîtes",
+			"ils/elles": "abolirent"
+		},
+		"passé composé": {
+			"j'": "ai aboli",
+			"tu": "as aboli",
+			"il/elle": "a aboli",
+			"nous": "avons aboli",
+			"vous": "avez aboli",
+			"ils/elles": "ont aboli"
+		},
+		"plus-que-parfait": {
+			"j'": "avais aboli",
+			"tu": "avais aboli",
+			"il/elle": "avait aboli",
+			"nous": "avions aboli",
+			"vous": "aviez aboli",
+			"ils/elles": "avaient aboli"
+		},
+		"passé antérieur": {
+			"j'": "eus aboli",
+			"tu": "eus aboli",
+			"il/elle": "eut aboli",
+			"nous": "eûmes aboli",
+			"vous": "eûtes aboli",
+			"ils/elles": "eurent aboli"
+		},
+		"futur antérieur": {
+			"j'": "aurai aboli",
+			"tu": "auras aboli",
+			"il/elle": "aura aboli",
+			"nous": "aurons aboli",
+			"vous": "aurez aboli",
+			"ils/elles": "auront aboli"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "abolisse",
+			"que": "vous abolissiez",
+			"qu'il/elle": "abolisse",
+			"qu'ils/elles": "abolissent"
+		},
+		"imparfait": {
+			"j'": "abolisse",
+			"que": "vous abolissiez",
+			"qu'il/elle": "abolît",
+			"qu'ils/elles": "abolissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse aboli",
+			"que": "vous eussiez aboli",
+			"qu'il/elle": "eût aboli",
+			"qu'ils/elles": "eussent aboli"
+		},
+		"passé": {
+			"j'": "aie aboli",
+			"que": "vous ayez aboli",
+			"qu'il/elle": "ait aboli",
+			"qu'ils/elles": "aient aboli"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "abolirais",
+			"tu": "abolirais",
+			"il/elle": "abolirait",
+			"nous": "abolirions",
+			"vous": "aboliriez",
+			"ils/elles": "aboliraient"
+		},
+		"passé première forme": {
+			"j'": "aurais aboli",
+			"tu": "aurais aboli",
+			"il/elle": "aurait aboli",
+			"nous": "aurions aboli",
+			"vous": "auriez aboli",
+			"ils/elles": "auraient aboli"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse aboli",
+			"tu": "eusses aboli",
+			"il/elle": "eût aboli",
+			"nous": "eussions aboli",
+			"vous": "eussiez aboli",
+			"ils/elles": "eussent aboli"
+		}
+	},
+	"participe": {
+		"présent": { "abolissant": "" },
+		"passé composé": { "ayant": "aboli" },
+		"passé": {
+			"masc.sg.:": "aboli",
+			"masc.pl.:": "abolis",
+			"fém.sg.:": "abolie",
+			"fém.pl.:": "abolies"
+		}
+	},
+	"imperatif": {
+		"présent": { "abolis": "", "abolissons": "", "abolissez": "" },
+		"passé": { "aie": "aboli", "ayons": "aboli", "ayez": "aboli" }
+	},
+	"infinitif": { "présent": { "abolir": "" }, "passé": { "avoir": "aboli" } }
+}

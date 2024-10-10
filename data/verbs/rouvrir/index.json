@@ -1,0 +1,138 @@
+{
+	"name": "ouvrir",
+	"definition": "reopen; re-open; open again; ...",
+	"model": "ouvrir",
+	"auxiliary": "avoir",
+	"otherForms": "se rouvrir/ne pas rouvrir/ne pas se rouvrir",
+	"indicatif": {
+		"présent": {
+			"je": "rouvre",
+			"tu": "rouvres",
+			"il/elle": "rouvre",
+			"nous": "rouvrons",
+			"vous": "rouvrez",
+			"ils/elles": "rouvrent"
+		},
+		"imparfait": {
+			"je": "rouvrais",
+			"tu": "rouvrais",
+			"il/elle": "rouvrait",
+			"nous": "rouvrions",
+			"vous": "rouvriez",
+			"ils/elles": "rouvraient"
+		},
+		"futur": {
+			"je": "rouvrirai",
+			"tu": "rouvriras",
+			"il/elle": "rouvrira",
+			"nous": "rouvrirons",
+			"vous": "rouvrirez",
+			"ils/elles": "rouvriront"
+		},
+		"passé simple": {
+			"je": "rouvris",
+			"tu": "rouvris",
+			"il/elle": "rouvrit",
+			"nous": "rouvrîmes",
+			"vous": "rouvrîtes",
+			"ils/elles": "rouvrirent"
+		},
+		"passé composé": {
+			"j'": "ai rouvert",
+			"tu": "as rouvert",
+			"il/elle": "a rouvert",
+			"nous": "avons rouvert",
+			"vous": "avez rouvert",
+			"ils/elles": "ont rouvert"
+		},
+		"plus-que-parfait": {
+			"j'": "avais rouvert",
+			"tu": "avais rouvert",
+			"il/elle": "avait rouvert",
+			"nous": "avions rouvert",
+			"vous": "aviez rouvert",
+			"ils/elles": "avaient rouvert"
+		},
+		"passé antérieur": {
+			"j'": "eus rouvert",
+			"tu": "eus rouvert",
+			"il/elle": "eut rouvert",
+			"nous": "eûmes rouvert",
+			"vous": "eûtes rouvert",
+			"ils/elles": "eurent rouvert"
+		},
+		"futur antérieur": {
+			"j'": "aurai rouvert",
+			"tu": "auras rouvert",
+			"il/elle": "aura rouvert",
+			"nous": "aurons rouvert",
+			"vous": "aurez rouvert",
+			"ils/elles": "auront rouvert"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous rouvriez",
+			"qu'il/elle": "rouvre",
+			"qu'ils/elles": "rouvrent"
+		},
+		"imparfait": {
+			"que": "vous rouvrissiez",
+			"qu'il/elle": "rouvrît",
+			"qu'ils/elles": "rouvrissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse rouvert",
+			"que": "vous eussiez rouvert",
+			"qu'il/elle": "eût rouvert",
+			"qu'ils/elles": "eussent rouvert"
+		},
+		"passé": {
+			"j'": "aie rouvert",
+			"que": "vous ayez rouvert",
+			"qu'il/elle": "ait rouvert",
+			"qu'ils/elles": "aient rouvert"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "rouvrirais",
+			"tu": "rouvrirais",
+			"il/elle": "rouvrirait",
+			"nous": "rouvririons",
+			"vous": "rouvririez",
+			"ils/elles": "rouvriraient"
+		},
+		"passé première forme": {
+			"j'": "aurais rouvert",
+			"tu": "aurais rouvert",
+			"il/elle": "aurait rouvert",
+			"nous": "aurions rouvert",
+			"vous": "auriez rouvert",
+			"ils/elles": "auraient rouvert"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse rouvert",
+			"tu": "eusses rouvert",
+			"il/elle": "eût rouvert",
+			"nous": "eussions rouvert",
+			"vous": "eussiez rouvert",
+			"ils/elles": "eussent rouvert"
+		}
+	},
+	"participe": {
+		"présent": { "rouvrant": "" },
+		"passé composé": { "ayant": "rouvert" },
+		"passé": {
+			"masc.sg.:": "rouvert",
+			"masc.pl.:": "rouverts",
+			"fém.sg.:": "rouverte",
+			"fém.pl.:": "rouvertes"
+		}
+	},
+	"imperatif": {
+		"présent": { "rouvre": "", "rouvrons": "", "rouvrez": "" },
+		"passé": { "aie": "rouvert", "ayons": "rouvert", "ayez": "rouvert" }
+	},
+	"infinitif": { "présent": { "rouvrir": "" }, "passé": { "avoir": "rouvert" } }
+}

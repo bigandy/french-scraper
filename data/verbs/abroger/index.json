@@ -1,0 +1,140 @@
+{
+	"name": "manger",
+	"definition": "repeal; abrogate; revoke; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "s'abroger/ne pas abroger/ne pas s'abroger",
+	"indicatif": {
+		"présent": {
+			"j'": "abroge",
+			"tu": "abroges",
+			"il/elle": "abroge",
+			"nous": "abrogeons",
+			"vous": "abrogez",
+			"ils/elles": "abrogent"
+		},
+		"imparfait": {
+			"j'": "abrogeais",
+			"tu": "abrogeais",
+			"il/elle": "abrogeait",
+			"nous": "abrogions",
+			"vous": "abrogiez",
+			"ils/elles": "abrogeaient"
+		},
+		"futur": {
+			"j'": "abrogerai",
+			"tu": "abrogeras",
+			"il/elle": "abrogera",
+			"nous": "abrogerons",
+			"vous": "abrogerez",
+			"ils/elles": "abrogeront"
+		},
+		"passé simple": {
+			"j'": "abrogeai",
+			"tu": "abrogeas",
+			"il/elle": "abrogea",
+			"nous": "abrogeâmes",
+			"vous": "abrogeâtes",
+			"ils/elles": "abrogèrent"
+		},
+		"passé composé": {
+			"j'": "ai abrogé",
+			"tu": "as abrogé",
+			"il/elle": "a abrogé",
+			"nous": "avons abrogé",
+			"vous": "avez abrogé",
+			"ils/elles": "ont abrogé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais abrogé",
+			"tu": "avais abrogé",
+			"il/elle": "avait abrogé",
+			"nous": "avions abrogé",
+			"vous": "aviez abrogé",
+			"ils/elles": "avaient abrogé"
+		},
+		"passé antérieur": {
+			"j'": "eus abrogé",
+			"tu": "eus abrogé",
+			"il/elle": "eut abrogé",
+			"nous": "eûmes abrogé",
+			"vous": "eûtes abrogé",
+			"ils/elles": "eurent abrogé"
+		},
+		"futur antérieur": {
+			"j'": "aurai abrogé",
+			"tu": "auras abrogé",
+			"il/elle": "aura abrogé",
+			"nous": "aurons abrogé",
+			"vous": "aurez abrogé",
+			"ils/elles": "auront abrogé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "abroge",
+			"que": "vous abrogiez",
+			"qu'il/elle": "abroge",
+			"qu'ils/elles": "abrogent"
+		},
+		"imparfait": {
+			"j'": "abrogeasse",
+			"que": "vous abrogeassiez",
+			"qu'il/elle": "abrogeât",
+			"qu'ils/elles": "abrogeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse abrogé",
+			"que": "vous eussiez abrogé",
+			"qu'il/elle": "eût abrogé",
+			"qu'ils/elles": "eussent abrogé"
+		},
+		"passé": {
+			"j'": "aie abrogé",
+			"que": "vous ayez abrogé",
+			"qu'il/elle": "ait abrogé",
+			"qu'ils/elles": "aient abrogé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "abrogerais",
+			"tu": "abrogerais",
+			"il/elle": "abrogerait",
+			"nous": "abrogerions",
+			"vous": "abrogeriez",
+			"ils/elles": "abrogeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais abrogé",
+			"tu": "aurais abrogé",
+			"il/elle": "aurait abrogé",
+			"nous": "aurions abrogé",
+			"vous": "auriez abrogé",
+			"ils/elles": "auraient abrogé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse abrogé",
+			"tu": "eusses abrogé",
+			"il/elle": "eût abrogé",
+			"nous": "eussions abrogé",
+			"vous": "eussiez abrogé",
+			"ils/elles": "eussent abrogé"
+		}
+	},
+	"participe": {
+		"présent": { "abrogeant": "" },
+		"passé composé": { "ayant": "abrogé" },
+		"passé": {
+			"masc.sg.:": "abrogé",
+			"masc.pl.:": "abrogés",
+			"fém.sg.:": "abrogée",
+			"fém.pl.:": "abrogées"
+		}
+	},
+	"imperatif": {
+		"présent": { "abroge": "", "abrogeons": "", "abrogez": "" },
+		"passé": { "aie": "abrogé", "ayons": "abrogé", "ayez": "abrogé" }
+	},
+	"infinitif": { "présent": { "abroger": "" }, "passé": { "avoir": "abrogé" } }
+}

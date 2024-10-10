@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "capture; catch; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se capturer/ne pas capturer/ne pas se capturer",
+	"indicatif": {
+		"présent": {
+			"je": "capture",
+			"tu": "captures",
+			"il/elle": "capture",
+			"nous": "capturons",
+			"vous": "capturez",
+			"ils/elles": "capturent"
+		},
+		"imparfait": {
+			"je": "capturais",
+			"tu": "capturais",
+			"il/elle": "capturait",
+			"nous": "capturions",
+			"vous": "capturiez",
+			"ils/elles": "capturaient"
+		},
+		"futur": {
+			"je": "capturerai",
+			"tu": "captureras",
+			"il/elle": "capturera",
+			"nous": "capturerons",
+			"vous": "capturerez",
+			"ils/elles": "captureront"
+		},
+		"passé simple": {
+			"je": "capturai",
+			"tu": "capturas",
+			"il/elle": "captura",
+			"nous": "capturâmes",
+			"vous": "capturâtes",
+			"ils/elles": "capturèrent"
+		},
+		"passé composé": {
+			"j'": "ai capturé",
+			"tu": "as capturé",
+			"il/elle": "a capturé",
+			"nous": "avons capturé",
+			"vous": "avez capturé",
+			"ils/elles": "ont capturé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais capturé",
+			"tu": "avais capturé",
+			"il/elle": "avait capturé",
+			"nous": "avions capturé",
+			"vous": "aviez capturé",
+			"ils/elles": "avaient capturé"
+		},
+		"passé antérieur": {
+			"j'": "eus capturé",
+			"tu": "eus capturé",
+			"il/elle": "eut capturé",
+			"nous": "eûmes capturé",
+			"vous": "eûtes capturé",
+			"ils/elles": "eurent capturé"
+		},
+		"futur antérieur": {
+			"j'": "aurai capturé",
+			"tu": "auras capturé",
+			"il/elle": "aura capturé",
+			"nous": "aurons capturé",
+			"vous": "aurez capturé",
+			"ils/elles": "auront capturé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous capturiez",
+			"qu'il/elle": "capture",
+			"qu'ils/elles": "capturent"
+		},
+		"imparfait": {
+			"que": "vous capturassiez",
+			"qu'il/elle": "capturât",
+			"qu'ils/elles": "capturassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse capturé",
+			"que": "vous eussiez capturé",
+			"qu'il/elle": "eût capturé",
+			"qu'ils/elles": "eussent capturé"
+		},
+		"passé": {
+			"j'": "aie capturé",
+			"que": "vous ayez capturé",
+			"qu'il/elle": "ait capturé",
+			"qu'ils/elles": "aient capturé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "capturerais",
+			"tu": "capturerais",
+			"il/elle": "capturerait",
+			"nous": "capturerions",
+			"vous": "captureriez",
+			"ils/elles": "captureraient"
+		},
+		"passé première forme": {
+			"j'": "aurais capturé",
+			"tu": "aurais capturé",
+			"il/elle": "aurait capturé",
+			"nous": "aurions capturé",
+			"vous": "auriez capturé",
+			"ils/elles": "auraient capturé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse capturé",
+			"tu": "eusses capturé",
+			"il/elle": "eût capturé",
+			"nous": "eussions capturé",
+			"vous": "eussiez capturé",
+			"ils/elles": "eussent capturé"
+		}
+	},
+	"participe": {
+		"présent": { "capturant": "" },
+		"passé composé": { "ayant": "capturé" },
+		"passé": {
+			"masc.sg.:": "capturé",
+			"masc.pl.:": "capturés",
+			"fém.sg.:": "capturée",
+			"fém.pl.:": "capturées"
+		}
+	},
+	"imperatif": {
+		"présent": { "capture": "", "capturons": "", "capturez": "" },
+		"passé": { "aie": "capturé", "ayons": "capturé", "ayez": "capturé" }
+	},
+	"infinitif": {
+		"présent": { "capturer": "" },
+		"passé": { "avoir": "capturé" }
+	}
+}

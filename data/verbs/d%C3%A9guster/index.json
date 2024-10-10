@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "enjoy; taste; sample; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se déguster/ne pas déguster/ne pas se déguster",
+	"indicatif": {
+		"présent": {
+			"je": "déguste",
+			"tu": "dégustes",
+			"il/elle": "déguste",
+			"nous": "dégustons",
+			"vous": "dégustez",
+			"ils/elles": "dégustent"
+		},
+		"imparfait": {
+			"je": "dégustais",
+			"tu": "dégustais",
+			"il/elle": "dégustait",
+			"nous": "dégustions",
+			"vous": "dégustiez",
+			"ils/elles": "dégustaient"
+		},
+		"futur": {
+			"je": "dégusterai",
+			"tu": "dégusteras",
+			"il/elle": "dégustera",
+			"nous": "dégusterons",
+			"vous": "dégusterez",
+			"ils/elles": "dégusteront"
+		},
+		"passé simple": {
+			"je": "dégustai",
+			"tu": "dégustas",
+			"il/elle": "dégusta",
+			"nous": "dégustâmes",
+			"vous": "dégustâtes",
+			"ils/elles": "dégustèrent"
+		},
+		"passé composé": {
+			"j'": "ai dégusté",
+			"tu": "as dégusté",
+			"il/elle": "a dégusté",
+			"nous": "avons dégusté",
+			"vous": "avez dégusté",
+			"ils/elles": "ont dégusté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais dégusté",
+			"tu": "avais dégusté",
+			"il/elle": "avait dégusté",
+			"nous": "avions dégusté",
+			"vous": "aviez dégusté",
+			"ils/elles": "avaient dégusté"
+		},
+		"passé antérieur": {
+			"j'": "eus dégusté",
+			"tu": "eus dégusté",
+			"il/elle": "eut dégusté",
+			"nous": "eûmes dégusté",
+			"vous": "eûtes dégusté",
+			"ils/elles": "eurent dégusté"
+		},
+		"futur antérieur": {
+			"j'": "aurai dégusté",
+			"tu": "auras dégusté",
+			"il/elle": "aura dégusté",
+			"nous": "aurons dégusté",
+			"vous": "aurez dégusté",
+			"ils/elles": "auront dégusté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous dégustiez",
+			"qu'il/elle": "déguste",
+			"qu'ils/elles": "dégustent"
+		},
+		"imparfait": {
+			"que": "vous dégustassiez",
+			"qu'il/elle": "dégustât",
+			"qu'ils/elles": "dégustassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse dégusté",
+			"que": "vous eussiez dégusté",
+			"qu'il/elle": "eût dégusté",
+			"qu'ils/elles": "eussent dégusté"
+		},
+		"passé": {
+			"j'": "aie dégusté",
+			"que": "vous ayez dégusté",
+			"qu'il/elle": "ait dégusté",
+			"qu'ils/elles": "aient dégusté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "dégusterais",
+			"tu": "dégusterais",
+			"il/elle": "dégusterait",
+			"nous": "dégusterions",
+			"vous": "dégusteriez",
+			"ils/elles": "dégusteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais dégusté",
+			"tu": "aurais dégusté",
+			"il/elle": "aurait dégusté",
+			"nous": "aurions dégusté",
+			"vous": "auriez dégusté",
+			"ils/elles": "auraient dégusté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse dégusté",
+			"tu": "eusses dégusté",
+			"il/elle": "eût dégusté",
+			"nous": "eussions dégusté",
+			"vous": "eussiez dégusté",
+			"ils/elles": "eussent dégusté"
+		}
+	},
+	"participe": {
+		"présent": { "dégustant": "" },
+		"passé composé": { "ayant": "dégusté" },
+		"passé": {
+			"masc.sg.:": "dégusté",
+			"masc.pl.:": "dégustés",
+			"fém.sg.:": "dégustée",
+			"fém.pl.:": "dégustées"
+		}
+	},
+	"imperatif": {
+		"présent": { "déguste": "", "dégustons": "", "dégustez": "" },
+		"passé": { "aie": "dégusté", "ayons": "dégusté", "ayez": "dégusté" }
+	},
+	"infinitif": {
+		"présent": { "déguster": "" },
+		"passé": { "avoir": "dégusté" }
+	}
+}

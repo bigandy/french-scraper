@@ -1,0 +1,194 @@
+{
+	"name": "finir",
+	"definition": "grow up; grow; increase; ...",
+	"model": "finir",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "se grandir/ne pas grandir/ne pas se grandir",
+	"indicatif": {
+		"présent": {
+			"je": "grandis",
+			"tu": "grandis",
+			"il/elle": "grandit",
+			"nous": "grandissons",
+			"vous": "grandissez",
+			"ils/elles": "grandissent"
+		},
+		"imparfait": {
+			"je": "grandissais",
+			"tu": "grandissais",
+			"il/elle": "grandissait",
+			"nous": "grandissions",
+			"vous": "grandissiez",
+			"ils/elles": "grandissaient"
+		},
+		"futur": {
+			"je": "grandirai",
+			"tu": "grandiras",
+			"il/elle": "grandira",
+			"nous": "grandirons",
+			"vous": "grandirez",
+			"ils/elles": "grandiront"
+		},
+		"passé simple": {
+			"je": "grandis",
+			"tu": "grandis",
+			"il/elle": "grandit",
+			"nous": "grandîmes",
+			"vous": "grandîtes",
+			"ils/elles": "grandirent"
+		},
+		"passé composé": {
+			"j'": "ai grandi",
+			"tu": "es grandi",
+			"il/elle": "a grandi",
+			"nous": "sommes grandis",
+			"vous": "êtes grandis",
+			"ils/elles": "ont grandi",
+			"": "",
+			"je": "suis grandi",
+			"il": "est grandi",
+			"elle": "est grandie",
+			"ils": "sont grandis",
+			"elles": "sont grandies"
+		},
+		"plus-que-parfait": {
+			"j'": "étais grandi",
+			"tu": "étais grandi",
+			"il/elle": "avait grandi",
+			"nous": "étions grandis",
+			"vous": "étiez grandis",
+			"ils/elles": "avaient grandi",
+			"": "",
+			"il": "était grandi",
+			"elle": "était grandie",
+			"ils": "étaient grandis",
+			"elles": "étaient grandies"
+		},
+		"passé antérieur": {
+			"j'": "eus grandi",
+			"tu": "fus grandi",
+			"il/elle": "eut grandi",
+			"nous": "fûmes grandis",
+			"vous": "fûtes grandis",
+			"ils/elles": "eurent grandi",
+			"": "",
+			"je": "fus grandi",
+			"il": "fut grandi",
+			"elle": "fut grandie",
+			"ils": "furent grandis",
+			"elles": "furent grandies"
+		},
+		"futur antérieur": {
+			"j'": "aurai grandi",
+			"tu": "seras grandi",
+			"il/elle": "aura grandi",
+			"nous": "serons grandis",
+			"vous": "serez grandis",
+			"ils/elles": "auront grandi",
+			"": "",
+			"je": "serai grandi",
+			"il": "sera grandi",
+			"elle": "sera grandie",
+			"ils": "seront grandis",
+			"elles": "seront grandies"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous grandissiez",
+			"qu'il/elle": "grandisse",
+			"qu'ils/elles": "grandissent"
+		},
+		"imparfait": {
+			"que": "vous grandissiez",
+			"qu'il/elle": "grandît",
+			"qu'ils/elles": "grandissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse grandi",
+			"que": "vous fussiez grandis",
+			"qu'il/elle": "eût grandi",
+			"qu'ils/elles": "eussent grandi",
+			"": "",
+			"qu'il": "fût grandi",
+			"qu'elle": "fût grandie",
+			"qu'ils": "fussent grandis",
+			"qu'elles": "fussent grandies"
+		},
+		"passé": {
+			"j'": "aie grandi",
+			"que": "vous soyez grandis",
+			"qu'il/elle": "ait grandi",
+			"qu'ils/elles": "aient grandi",
+			"": "",
+			"qu'il": "soit grandi",
+			"qu'elle": "soit grandie",
+			"qu'ils": "soient grandis",
+			"qu'elles": "soient grandies"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "grandirais",
+			"tu": "grandirais",
+			"il/elle": "grandirait",
+			"nous": "grandirions",
+			"vous": "grandiriez",
+			"ils/elles": "grandiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais grandi",
+			"tu": "serais grandi",
+			"il/elle": "aurait grandi",
+			"nous": "serions grandis",
+			"vous": "seriez grandis",
+			"ils/elles": "auraient grandi",
+			"": "",
+			"je": "serais grandi",
+			"il": "serait grandi",
+			"elle": "serait grandie",
+			"ils": "seraient grandis",
+			"elles": "seraient grandies"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse grandi",
+			"tu": "fusses grandi",
+			"il/elle": "eût grandi",
+			"nous": "fussions grandis",
+			"vous": "fussiez grandis",
+			"ils/elles": "eussent grandi",
+			"": "",
+			"je": "fusse grandi",
+			"il": "fût grandi",
+			"elle": "fût grandie",
+			"ils": "fussent grandis",
+			"elles": "fussent grandies"
+		}
+	},
+	"participe": {
+		"présent": { "grandissant": "" },
+		"passé composé": { "ayant": "grandi", "": "", "étant": "grandie" },
+		"passé": {
+			"masc.sg.:": "grandi",
+			"masc.pl.:": "grandis",
+			"fém.sg.:": "grandie",
+			"fém.pl.:": "grandies"
+		}
+	},
+	"imperatif": {
+		"présent": { "grandis": "", "grandissons": "", "grandissez": "" },
+		"passé": {
+			"aie": "grandi",
+			"ayons": "grandi",
+			"ayez": "grandi",
+			"": "",
+			"sois": "grandi",
+			"soyons": "grandi",
+			"soyez": "grandi"
+		}
+	},
+	"infinitif": {
+		"présent": { "grandir": "" },
+		"passé": { "avoir": "grandi", "": "", "être": "grandi" }
+	}
+}

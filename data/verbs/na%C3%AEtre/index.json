@@ -1,0 +1,152 @@
+{
+	"name": "naître",
+	"definition": "be born; arise; ...",
+	"model": "naître",
+	"auxiliary": "être",
+	"otherForms": "ne pas naître",
+	"indicatif": {
+		"présent": {
+			"je": "nais",
+			"tu": "nais",
+			"il/elle": "naît",
+			"nous": "naissons",
+			"vous": "naissez",
+			"ils/elles": "naissent"
+		},
+		"imparfait": {
+			"je": "naissais",
+			"tu": "naissais",
+			"il/elle": "naissait",
+			"nous": "naissions",
+			"vous": "naissiez",
+			"ils/elles": "naissaient"
+		},
+		"futur": {
+			"je": "naîtrai",
+			"tu": "naîtras",
+			"il/elle": "naîtra",
+			"nous": "naîtrons",
+			"vous": "naîtrez",
+			"ils/elles": "naîtront"
+		},
+		"passé simple": {
+			"je": "naquis",
+			"tu": "naquis",
+			"il/elle": "naquit",
+			"nous": "naquîmes",
+			"vous": "naquîtes",
+			"ils/elles": "naquirent"
+		},
+		"passé composé": {
+			"je": "suis né",
+			"tu": "es né",
+			"il": "est né",
+			"elle": "est née",
+			"nous": "sommes nés",
+			"vous": "êtes nés",
+			"ils": "sont nés",
+			"elles": "sont nées"
+		},
+		"plus-que-parfait": {
+			"j'": "étais né",
+			"tu": "étais né",
+			"il": "était né",
+			"elle": "était née",
+			"nous": "étions nés",
+			"vous": "étiez nés",
+			"ils": "étaient nés",
+			"elles": "étaient nées"
+		},
+		"passé antérieur": {
+			"je": "fus né",
+			"tu": "fus né",
+			"il": "fut né",
+			"elle": "fut née",
+			"nous": "fûmes nés",
+			"vous": "fûtes nés",
+			"ils": "furent nés",
+			"elles": "furent nées"
+		},
+		"futur antérieur": {
+			"je": "serai né",
+			"tu": "seras né",
+			"il": "sera né",
+			"elle": "sera née",
+			"nous": "serons nés",
+			"vous": "serez nés",
+			"ils": "seront nés",
+			"elles": "seront nées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous naissiez",
+			"qu'il/elle": "naisse",
+			"qu'ils/elles": "naissent"
+		},
+		"imparfait": {
+			"que": "vous naquissiez",
+			"qu'il/elle": "naquît",
+			"qu'ils/elles": "naquissent"
+		},
+		"plus-que-parfait": {
+			"que": "vous fussiez nés",
+			"qu'il": "fût né",
+			"qu'elle": "fût née",
+			"qu'ils": "fussent nés",
+			"qu'elles": "fussent nées"
+		},
+		"passé": {
+			"que": "vous soyez nés",
+			"qu'il": "soit né",
+			"qu'elle": "soit née",
+			"qu'ils": "soient nés",
+			"qu'elles": "soient nées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "naîtrais",
+			"tu": "naîtrais",
+			"il/elle": "naîtrait",
+			"nous": "naîtrions",
+			"vous": "naîtriez",
+			"ils/elles": "naîtraient"
+		},
+		"passé première forme": {
+			"je": "serais né",
+			"tu": "serais né",
+			"il": "serait né",
+			"elle": "serait née",
+			"nous": "serions nés",
+			"vous": "seriez nés",
+			"ils": "seraient nés",
+			"elles": "seraient nées"
+		},
+		"passé deuxième forme": {
+			"je": "fusse né",
+			"tu": "fusses né",
+			"il": "fût né",
+			"elle": "fût née",
+			"nous": "fussions nés",
+			"vous": "fussiez nés",
+			"ils": "fussent nés",
+			"elles": "fussent nées"
+		}
+	},
+	"participe": {
+		"présent": { "naissant": "" },
+		"passé composé": { "étant": "née" },
+		"passé": {
+			"masc.sg.:": "né",
+			"masc.pl.:": "nés",
+			"fém.sg.:": "née",
+			"fém.pl.:": "nées"
+		}
+	},
+	"imperatif": {
+		"présent": { "nais": "", "naissons": "", "naissez": "" },
+		"passé": { "sois": "né", "soyons": "né", "soyez": "né" }
+	},
+	"infinitif": { "présent": { "naître": "" }, "passé": { "être": "né" } }
+}

@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "merge; fuse; combine; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas fusionner",
+	"indicatif": {
+		"présent": {
+			"je": "fusionne",
+			"tu": "fusionnes",
+			"il/elle": "fusionne",
+			"nous": "fusionnons",
+			"vous": "fusionnez",
+			"ils/elles": "fusionnent"
+		},
+		"imparfait": {
+			"je": "fusionnais",
+			"tu": "fusionnais",
+			"il/elle": "fusionnait",
+			"nous": "fusionnions",
+			"vous": "fusionniez",
+			"ils/elles": "fusionnaient"
+		},
+		"futur": {
+			"je": "fusionnerai",
+			"tu": "fusionneras",
+			"il/elle": "fusionnera",
+			"nous": "fusionnerons",
+			"vous": "fusionnerez",
+			"ils/elles": "fusionneront"
+		},
+		"passé simple": {
+			"je": "fusionnai",
+			"tu": "fusionnas",
+			"il/elle": "fusionna",
+			"nous": "fusionnâmes",
+			"vous": "fusionnâtes",
+			"ils/elles": "fusionnèrent"
+		},
+		"passé composé": {
+			"j'": "ai fusionné",
+			"tu": "as fusionné",
+			"il/elle": "a fusionné",
+			"nous": "avons fusionné",
+			"vous": "avez fusionné",
+			"ils/elles": "ont fusionné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais fusionné",
+			"tu": "avais fusionné",
+			"il/elle": "avait fusionné",
+			"nous": "avions fusionné",
+			"vous": "aviez fusionné",
+			"ils/elles": "avaient fusionné"
+		},
+		"passé antérieur": {
+			"j'": "eus fusionné",
+			"tu": "eus fusionné",
+			"il/elle": "eut fusionné",
+			"nous": "eûmes fusionné",
+			"vous": "eûtes fusionné",
+			"ils/elles": "eurent fusionné"
+		},
+		"futur antérieur": {
+			"j'": "aurai fusionné",
+			"tu": "auras fusionné",
+			"il/elle": "aura fusionné",
+			"nous": "aurons fusionné",
+			"vous": "aurez fusionné",
+			"ils/elles": "auront fusionné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous fusionniez",
+			"qu'il/elle": "fusionne",
+			"qu'ils/elles": "fusionnent"
+		},
+		"imparfait": {
+			"que": "vous fusionnassiez",
+			"qu'il/elle": "fusionnât",
+			"qu'ils/elles": "fusionnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse fusionné",
+			"que": "vous eussiez fusionné",
+			"qu'il/elle": "eût fusionné",
+			"qu'ils/elles": "eussent fusionné"
+		},
+		"passé": {
+			"j'": "aie fusionné",
+			"que": "vous ayez fusionné",
+			"qu'il/elle": "ait fusionné",
+			"qu'ils/elles": "aient fusionné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "fusionnerais",
+			"tu": "fusionnerais",
+			"il/elle": "fusionnerait",
+			"nous": "fusionnerions",
+			"vous": "fusionneriez",
+			"ils/elles": "fusionneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais fusionné",
+			"tu": "aurais fusionné",
+			"il/elle": "aurait fusionné",
+			"nous": "aurions fusionné",
+			"vous": "auriez fusionné",
+			"ils/elles": "auraient fusionné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse fusionné",
+			"tu": "eusses fusionné",
+			"il/elle": "eût fusionné",
+			"nous": "eussions fusionné",
+			"vous": "eussiez fusionné",
+			"ils/elles": "eussent fusionné"
+		}
+	},
+	"participe": {
+		"présent": { "fusionnant": "" },
+		"passé composé": { "ayant": "fusionné" },
+		"passé": {
+			"masc.sg.:": "fusionné",
+			"masc.pl.:": "fusionnés",
+			"fém.sg.:": "fusionnée",
+			"fém.pl.:": "fusionnées"
+		}
+	},
+	"imperatif": {
+		"présent": { "fusionne": "", "fusionnons": "", "fusionnez": "" },
+		"passé": { "aie": "fusionné", "ayons": "fusionné", "ayez": "fusionné" }
+	},
+	"infinitif": {
+		"présent": { "fusionner": "" },
+		"passé": { "avoir": "fusionné" }
+	}
+}

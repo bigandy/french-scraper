@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "analyse; analyze; examine; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'analyser/ne pas analyser/ne pas s'analyser",
+	"indicatif": {
+		"présent": {
+			"j'": "analyse",
+			"tu": "analyses",
+			"il/elle": "analyse",
+			"nous": "analysons",
+			"vous": "analysez",
+			"ils/elles": "analysent"
+		},
+		"imparfait": {
+			"j'": "analysais",
+			"tu": "analysais",
+			"il/elle": "analysait",
+			"nous": "analysions",
+			"vous": "analysiez",
+			"ils/elles": "analysaient"
+		},
+		"futur": {
+			"j'": "analyserai",
+			"tu": "analyseras",
+			"il/elle": "analysera",
+			"nous": "analyserons",
+			"vous": "analyserez",
+			"ils/elles": "analyseront"
+		},
+		"passé simple": {
+			"j'": "analysai",
+			"tu": "analysas",
+			"il/elle": "analysa",
+			"nous": "analysâmes",
+			"vous": "analysâtes",
+			"ils/elles": "analysèrent"
+		},
+		"passé composé": {
+			"j'": "ai analysé",
+			"tu": "as analysé",
+			"il/elle": "a analysé",
+			"nous": "avons analysé",
+			"vous": "avez analysé",
+			"ils/elles": "ont analysé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais analysé",
+			"tu": "avais analysé",
+			"il/elle": "avait analysé",
+			"nous": "avions analysé",
+			"vous": "aviez analysé",
+			"ils/elles": "avaient analysé"
+		},
+		"passé antérieur": {
+			"j'": "eus analysé",
+			"tu": "eus analysé",
+			"il/elle": "eut analysé",
+			"nous": "eûmes analysé",
+			"vous": "eûtes analysé",
+			"ils/elles": "eurent analysé"
+		},
+		"futur antérieur": {
+			"j'": "aurai analysé",
+			"tu": "auras analysé",
+			"il/elle": "aura analysé",
+			"nous": "aurons analysé",
+			"vous": "aurez analysé",
+			"ils/elles": "auront analysé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "analyse",
+			"que": "vous analysiez",
+			"qu'il/elle": "analyse",
+			"qu'ils/elles": "analysent"
+		},
+		"imparfait": {
+			"j'": "analysasse",
+			"que": "vous analysassiez",
+			"qu'il/elle": "analysât",
+			"qu'ils/elles": "analysassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse analysé",
+			"que": "vous eussiez analysé",
+			"qu'il/elle": "eût analysé",
+			"qu'ils/elles": "eussent analysé"
+		},
+		"passé": {
+			"j'": "aie analysé",
+			"que": "vous ayez analysé",
+			"qu'il/elle": "ait analysé",
+			"qu'ils/elles": "aient analysé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "analyserais",
+			"tu": "analyserais",
+			"il/elle": "analyserait",
+			"nous": "analyserions",
+			"vous": "analyseriez",
+			"ils/elles": "analyseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais analysé",
+			"tu": "aurais analysé",
+			"il/elle": "aurait analysé",
+			"nous": "aurions analysé",
+			"vous": "auriez analysé",
+			"ils/elles": "auraient analysé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse analysé",
+			"tu": "eusses analysé",
+			"il/elle": "eût analysé",
+			"nous": "eussions analysé",
+			"vous": "eussiez analysé",
+			"ils/elles": "eussent analysé"
+		}
+	},
+	"participe": {
+		"présent": { "analysant": "" },
+		"passé composé": { "ayant": "analysé" },
+		"passé": {
+			"masc.sg.:": "analysé",
+			"masc.pl.:": "analysés",
+			"fém.sg.:": "analysée",
+			"fém.pl.:": "analysées"
+		}
+	},
+	"imperatif": {
+		"présent": { "analyse": "", "analysons": "", "analysez": "" },
+		"passé": { "aie": "analysé", "ayons": "analysé", "ayez": "analysé" }
+	},
+	"infinitif": {
+		"présent": { "analyser": "" },
+		"passé": { "avoir": "analysé" }
+	}
+}

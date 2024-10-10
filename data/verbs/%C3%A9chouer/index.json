@@ -1,0 +1,196 @@
+{
+	"name": "marcher",
+	"definition": "fail; strand; wreck; ...",
+	"model": "marcher",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "s'échouer/ne pas échouer/ne pas s'échouer",
+	"indicatif": {
+		"présent": {
+			"j'": "échoue",
+			"tu": "échoues",
+			"il/elle": "échoue",
+			"nous": "échouons",
+			"vous": "échouez",
+			"ils/elles": "échouent"
+		},
+		"imparfait": {
+			"j'": "échouais",
+			"tu": "échouais",
+			"il/elle": "échouait",
+			"nous": "échouions",
+			"vous": "échouiez",
+			"ils/elles": "échouaient"
+		},
+		"futur": {
+			"j'": "échouerai",
+			"tu": "échoueras",
+			"il/elle": "échouera",
+			"nous": "échouerons",
+			"vous": "échouerez",
+			"ils/elles": "échoueront"
+		},
+		"passé simple": {
+			"j'": "échouai",
+			"tu": "échouas",
+			"il/elle": "échoua",
+			"nous": "échouâmes",
+			"vous": "échouâtes",
+			"ils/elles": "échouèrent"
+		},
+		"passé composé": {
+			"j'": "ai échoué",
+			"tu": "es échoué",
+			"il/elle": "a échoué",
+			"nous": "sommes échoués",
+			"vous": "êtes échoués",
+			"ils/elles": "ont échoué",
+			"": "",
+			"je": "suis échoué",
+			"il": "est échoué",
+			"elle": "est échouée",
+			"ils": "sont échoués",
+			"elles": "sont échouées"
+		},
+		"plus-que-parfait": {
+			"j'": "étais échoué",
+			"tu": "étais échoué",
+			"il/elle": "avait échoué",
+			"nous": "étions échoués",
+			"vous": "étiez échoués",
+			"ils/elles": "avaient échoué",
+			"": "",
+			"il": "était échoué",
+			"elle": "était échouée",
+			"ils": "étaient échoués",
+			"elles": "étaient échouées"
+		},
+		"passé antérieur": {
+			"j'": "eus échoué",
+			"tu": "fus échoué",
+			"il/elle": "eut échoué",
+			"nous": "fûmes échoués",
+			"vous": "fûtes échoués",
+			"ils/elles": "eurent échoué",
+			"": "",
+			"je": "fus échoué",
+			"il": "fut échoué",
+			"elle": "fut échouée",
+			"ils": "furent échoués",
+			"elles": "furent échouées"
+		},
+		"futur antérieur": {
+			"j'": "aurai échoué",
+			"tu": "seras échoué",
+			"il/elle": "aura échoué",
+			"nous": "serons échoués",
+			"vous": "serez échoués",
+			"ils/elles": "auront échoué",
+			"": "",
+			"je": "serai échoué",
+			"il": "sera échoué",
+			"elle": "sera échouée",
+			"ils": "seront échoués",
+			"elles": "seront échouées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "échoue",
+			"que": "vous échouiez",
+			"qu'il/elle": "échoue",
+			"qu'ils/elles": "échouent"
+		},
+		"imparfait": {
+			"j'": "échouasse",
+			"que": "vous échouassiez",
+			"qu'il/elle": "échouât",
+			"qu'ils/elles": "échouassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse échoué",
+			"que": "vous fussiez échoués",
+			"qu'il/elle": "eût échoué",
+			"qu'ils/elles": "eussent échoué",
+			"": "",
+			"qu'il": "fût échoué",
+			"qu'elle": "fût échouée",
+			"qu'ils": "fussent échoués",
+			"qu'elles": "fussent échouées"
+		},
+		"passé": {
+			"j'": "aie échoué",
+			"que": "vous soyez échoués",
+			"qu'il/elle": "ait échoué",
+			"qu'ils/elles": "aient échoué",
+			"": "",
+			"qu'il": "soit échoué",
+			"qu'elle": "soit échouée",
+			"qu'ils": "soient échoués",
+			"qu'elles": "soient échouées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "échouerais",
+			"tu": "échouerais",
+			"il/elle": "échouerait",
+			"nous": "échouerions",
+			"vous": "échoueriez",
+			"ils/elles": "échoueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais échoué",
+			"tu": "serais échoué",
+			"il/elle": "aurait échoué",
+			"nous": "serions échoués",
+			"vous": "seriez échoués",
+			"ils/elles": "auraient échoué",
+			"": "",
+			"je": "serais échoué",
+			"il": "serait échoué",
+			"elle": "serait échouée",
+			"ils": "seraient échoués",
+			"elles": "seraient échouées"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse échoué",
+			"tu": "fusses échoué",
+			"il/elle": "eût échoué",
+			"nous": "fussions échoués",
+			"vous": "fussiez échoués",
+			"ils/elles": "eussent échoué",
+			"": "",
+			"je": "fusse échoué",
+			"il": "fût échoué",
+			"elle": "fût échouée",
+			"ils": "fussent échoués",
+			"elles": "fussent échouées"
+		}
+	},
+	"participe": {
+		"présent": { "échouant": "" },
+		"passé composé": { "ayant": "échoué", "": "", "étant": "échouée" },
+		"passé": {
+			"masc.sg.:": "échoué",
+			"masc.pl.:": "échoués",
+			"fém.sg.:": "échouée",
+			"fém.pl.:": "échouées"
+		}
+	},
+	"imperatif": {
+		"présent": { "échoue": "", "échouons": "", "échouez": "" },
+		"passé": {
+			"aie": "échoué",
+			"ayons": "échoué",
+			"ayez": "échoué",
+			"": "",
+			"sois": "échoué",
+			"soyons": "échoué",
+			"soyez": "échoué"
+		}
+	},
+	"infinitif": {
+		"présent": { "échouer": "" },
+		"passé": { "avoir": "échoué", "": "", "être": "échoué" }
+	}
+}

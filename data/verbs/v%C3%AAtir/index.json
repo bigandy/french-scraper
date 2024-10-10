@@ -1,0 +1,138 @@
+{
+	"name": "vêtir",
+	"definition": "clothe; dress; attire; ...",
+	"model": "vêtir",
+	"auxiliary": "avoir",
+	"otherForms": "se vêtir/ne pas vêtir/ne pas se vêtir",
+	"indicatif": {
+		"présent": {
+			"je": "vêts",
+			"tu": "vêts",
+			"il/elle": "vêt",
+			"nous": "vêtons",
+			"vous": "vêtez",
+			"ils/elles": "vêtent"
+		},
+		"imparfait": {
+			"je": "vêtais",
+			"tu": "vêtais",
+			"il/elle": "vêtait",
+			"nous": "vêtions",
+			"vous": "vêtiez",
+			"ils/elles": "vêtaient"
+		},
+		"futur": {
+			"je": "vêtirai",
+			"tu": "vêtiras",
+			"il/elle": "vêtira",
+			"nous": "vêtirons",
+			"vous": "vêtirez",
+			"ils/elles": "vêtiront"
+		},
+		"passé simple": {
+			"je": "vêtis",
+			"tu": "vêtis",
+			"il/elle": "vêtit",
+			"nous": "vêtîmes",
+			"vous": "vêtîtes",
+			"ils/elles": "vêtirent"
+		},
+		"passé composé": {
+			"j'": "ai vêtu",
+			"tu": "as vêtu",
+			"il/elle": "a vêtu",
+			"nous": "avons vêtu",
+			"vous": "avez vêtu",
+			"ils/elles": "ont vêtu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais vêtu",
+			"tu": "avais vêtu",
+			"il/elle": "avait vêtu",
+			"nous": "avions vêtu",
+			"vous": "aviez vêtu",
+			"ils/elles": "avaient vêtu"
+		},
+		"passé antérieur": {
+			"j'": "eus vêtu",
+			"tu": "eus vêtu",
+			"il/elle": "eut vêtu",
+			"nous": "eûmes vêtu",
+			"vous": "eûtes vêtu",
+			"ils/elles": "eurent vêtu"
+		},
+		"futur antérieur": {
+			"j'": "aurai vêtu",
+			"tu": "auras vêtu",
+			"il/elle": "aura vêtu",
+			"nous": "aurons vêtu",
+			"vous": "aurez vêtu",
+			"ils/elles": "auront vêtu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous vêtiez",
+			"qu'il/elle": "vête",
+			"qu'ils/elles": "vêtent"
+		},
+		"imparfait": {
+			"que": "vous vêtissiez",
+			"qu'il/elle": "vêtît",
+			"qu'ils/elles": "vêtissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse vêtu",
+			"que": "vous eussiez vêtu",
+			"qu'il/elle": "eût vêtu",
+			"qu'ils/elles": "eussent vêtu"
+		},
+		"passé": {
+			"j'": "aie vêtu",
+			"que": "vous ayez vêtu",
+			"qu'il/elle": "ait vêtu",
+			"qu'ils/elles": "aient vêtu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "vêtirais",
+			"tu": "vêtirais",
+			"il/elle": "vêtirait",
+			"nous": "vêtirions",
+			"vous": "vêtiriez",
+			"ils/elles": "vêtiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais vêtu",
+			"tu": "aurais vêtu",
+			"il/elle": "aurait vêtu",
+			"nous": "aurions vêtu",
+			"vous": "auriez vêtu",
+			"ils/elles": "auraient vêtu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse vêtu",
+			"tu": "eusses vêtu",
+			"il/elle": "eût vêtu",
+			"nous": "eussions vêtu",
+			"vous": "eussiez vêtu",
+			"ils/elles": "eussent vêtu"
+		}
+	},
+	"participe": {
+		"présent": { "vêtant": "" },
+		"passé composé": { "ayant": "vêtu" },
+		"passé": {
+			"masc.sg.:": "vêtu",
+			"masc.pl.:": "vêtus",
+			"fém.sg.:": "vêtue",
+			"fém.pl.:": "vêtues"
+		}
+	},
+	"imperatif": {
+		"présent": { "vêts": "", "vêtons": "", "vêtez": "" },
+		"passé": { "aie": "vêtu", "ayons": "vêtu", "ayez": "vêtu" }
+	},
+	"infinitif": { "présent": { "vêtir": "" }, "passé": { "avoir": "vêtu" } }
+}

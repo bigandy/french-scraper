@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'ariser/ne pas ariser/ne pas s'ariser",
+	"indicatif": {
+		"présent": {
+			"j'": "arise",
+			"tu": "arises",
+			"il/elle": "arise",
+			"nous": "arisons",
+			"vous": "arisez",
+			"ils/elles": "arisent"
+		},
+		"imparfait": {
+			"j'": "arisais",
+			"tu": "arisais",
+			"il/elle": "arisait",
+			"nous": "arisions",
+			"vous": "arisiez",
+			"ils/elles": "arisaient"
+		},
+		"futur": {
+			"j'": "ariserai",
+			"tu": "ariseras",
+			"il/elle": "arisera",
+			"nous": "ariserons",
+			"vous": "ariserez",
+			"ils/elles": "ariseront"
+		},
+		"passé simple": {
+			"j'": "arisai",
+			"tu": "arisas",
+			"il/elle": "arisa",
+			"nous": "arisâmes",
+			"vous": "arisâtes",
+			"ils/elles": "arisèrent"
+		},
+		"passé composé": {
+			"j'": "ai arisé",
+			"tu": "as arisé",
+			"il/elle": "a arisé",
+			"nous": "avons arisé",
+			"vous": "avez arisé",
+			"ils/elles": "ont arisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais arisé",
+			"tu": "avais arisé",
+			"il/elle": "avait arisé",
+			"nous": "avions arisé",
+			"vous": "aviez arisé",
+			"ils/elles": "avaient arisé"
+		},
+		"passé antérieur": {
+			"j'": "eus arisé",
+			"tu": "eus arisé",
+			"il/elle": "eut arisé",
+			"nous": "eûmes arisé",
+			"vous": "eûtes arisé",
+			"ils/elles": "eurent arisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai arisé",
+			"tu": "auras arisé",
+			"il/elle": "aura arisé",
+			"nous": "aurons arisé",
+			"vous": "aurez arisé",
+			"ils/elles": "auront arisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "arise",
+			"que": "vous arisiez",
+			"qu'il/elle": "arise",
+			"qu'ils/elles": "arisent"
+		},
+		"imparfait": {
+			"j'": "arisasse",
+			"que": "vous arisassiez",
+			"qu'il/elle": "arisât",
+			"qu'ils/elles": "arisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse arisé",
+			"que": "vous eussiez arisé",
+			"qu'il/elle": "eût arisé",
+			"qu'ils/elles": "eussent arisé"
+		},
+		"passé": {
+			"j'": "aie arisé",
+			"que": "vous ayez arisé",
+			"qu'il/elle": "ait arisé",
+			"qu'ils/elles": "aient arisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "ariserais",
+			"tu": "ariserais",
+			"il/elle": "ariserait",
+			"nous": "ariserions",
+			"vous": "ariseriez",
+			"ils/elles": "ariseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais arisé",
+			"tu": "aurais arisé",
+			"il/elle": "aurait arisé",
+			"nous": "aurions arisé",
+			"vous": "auriez arisé",
+			"ils/elles": "auraient arisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse arisé",
+			"tu": "eusses arisé",
+			"il/elle": "eût arisé",
+			"nous": "eussions arisé",
+			"vous": "eussiez arisé",
+			"ils/elles": "eussent arisé"
+		}
+	},
+	"participe": {
+		"présent": { "arisant": "" },
+		"passé composé": { "ayant": "arisé" },
+		"passé": {
+			"masc.sg.:": "arisé",
+			"masc.pl.:": "arisés",
+			"fém.sg.:": "arisée",
+			"fém.pl.:": "arisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "arise": "", "arisons": "", "arisez": "" },
+		"passé": { "aie": "arisé", "ayons": "arisé", "ayez": "arisé" }
+	},
+	"infinitif": { "présent": { "ariser": "" }, "passé": { "avoir": "arisé" } }
+}

@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "bury; inter; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'enterrer/ne pas enterrer/ne pas s'enterrer",
+	"indicatif": {
+		"présent": {
+			"j'": "enterre",
+			"tu": "enterres",
+			"il/elle": "enterre",
+			"nous": "enterrons",
+			"vous": "enterrez",
+			"ils/elles": "enterrent"
+		},
+		"imparfait": {
+			"j'": "enterrais",
+			"tu": "enterrais",
+			"il/elle": "enterrait",
+			"nous": "enterrions",
+			"vous": "enterriez",
+			"ils/elles": "enterraient"
+		},
+		"futur": {
+			"j'": "enterrerai",
+			"tu": "enterreras",
+			"il/elle": "enterrera",
+			"nous": "enterrerons",
+			"vous": "enterrerez",
+			"ils/elles": "enterreront"
+		},
+		"passé simple": {
+			"j'": "enterrai",
+			"tu": "enterras",
+			"il/elle": "enterra",
+			"nous": "enterrâmes",
+			"vous": "enterrâtes",
+			"ils/elles": "enterrèrent"
+		},
+		"passé composé": {
+			"j'": "ai enterré",
+			"tu": "as enterré",
+			"il/elle": "a enterré",
+			"nous": "avons enterré",
+			"vous": "avez enterré",
+			"ils/elles": "ont enterré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais enterré",
+			"tu": "avais enterré",
+			"il/elle": "avait enterré",
+			"nous": "avions enterré",
+			"vous": "aviez enterré",
+			"ils/elles": "avaient enterré"
+		},
+		"passé antérieur": {
+			"j'": "eus enterré",
+			"tu": "eus enterré",
+			"il/elle": "eut enterré",
+			"nous": "eûmes enterré",
+			"vous": "eûtes enterré",
+			"ils/elles": "eurent enterré"
+		},
+		"futur antérieur": {
+			"j'": "aurai enterré",
+			"tu": "auras enterré",
+			"il/elle": "aura enterré",
+			"nous": "aurons enterré",
+			"vous": "aurez enterré",
+			"ils/elles": "auront enterré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "enterre",
+			"que": "vous enterriez",
+			"qu'il/elle": "enterre",
+			"qu'ils/elles": "enterrent"
+		},
+		"imparfait": {
+			"j'": "enterrasse",
+			"que": "vous enterrassiez",
+			"qu'il/elle": "enterrât",
+			"qu'ils/elles": "enterrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse enterré",
+			"que": "vous eussiez enterré",
+			"qu'il/elle": "eût enterré",
+			"qu'ils/elles": "eussent enterré"
+		},
+		"passé": {
+			"j'": "aie enterré",
+			"que": "vous ayez enterré",
+			"qu'il/elle": "ait enterré",
+			"qu'ils/elles": "aient enterré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "enterrerais",
+			"tu": "enterrerais",
+			"il/elle": "enterrerait",
+			"nous": "enterrerions",
+			"vous": "enterreriez",
+			"ils/elles": "enterreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais enterré",
+			"tu": "aurais enterré",
+			"il/elle": "aurait enterré",
+			"nous": "aurions enterré",
+			"vous": "auriez enterré",
+			"ils/elles": "auraient enterré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse enterré",
+			"tu": "eusses enterré",
+			"il/elle": "eût enterré",
+			"nous": "eussions enterré",
+			"vous": "eussiez enterré",
+			"ils/elles": "eussent enterré"
+		}
+	},
+	"participe": {
+		"présent": { "enterrant": "" },
+		"passé composé": { "ayant": "enterré" },
+		"passé": {
+			"masc.sg.:": "enterré",
+			"masc.pl.:": "enterrés",
+			"fém.sg.:": "enterrée",
+			"fém.pl.:": "enterrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "enterre": "", "enterrons": "", "enterrez": "" },
+		"passé": { "aie": "enterré", "ayons": "enterré", "ayez": "enterré" }
+	},
+	"infinitif": {
+		"présent": { "enterrer": "" },
+		"passé": { "avoir": "enterré" }
+	}
+}

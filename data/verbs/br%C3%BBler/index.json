@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "burn; burn down; combust; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se brûler/ne pas brûler/ne pas se brûler",
+	"indicatif": {
+		"présent": {
+			"je": "brûle",
+			"tu": "brûles",
+			"il/elle": "brûle",
+			"nous": "brûlons",
+			"vous": "brûlez",
+			"ils/elles": "brûlent"
+		},
+		"imparfait": {
+			"je": "brûlais",
+			"tu": "brûlais",
+			"il/elle": "brûlait",
+			"nous": "brûlions",
+			"vous": "brûliez",
+			"ils/elles": "brûlaient"
+		},
+		"futur": {
+			"je": "brûlerai",
+			"tu": "brûleras",
+			"il/elle": "brûlera",
+			"nous": "brûlerons",
+			"vous": "brûlerez",
+			"ils/elles": "brûleront"
+		},
+		"passé simple": {
+			"je": "brûlai",
+			"tu": "brûlas",
+			"il/elle": "brûla",
+			"nous": "brûlâmes",
+			"vous": "brûlâtes",
+			"ils/elles": "brûlèrent"
+		},
+		"passé composé": {
+			"j'": "ai brûlé",
+			"tu": "as brûlé",
+			"il/elle": "a brûlé",
+			"nous": "avons brûlé",
+			"vous": "avez brûlé",
+			"ils/elles": "ont brûlé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais brûlé",
+			"tu": "avais brûlé",
+			"il/elle": "avait brûlé",
+			"nous": "avions brûlé",
+			"vous": "aviez brûlé",
+			"ils/elles": "avaient brûlé"
+		},
+		"passé antérieur": {
+			"j'": "eus brûlé",
+			"tu": "eus brûlé",
+			"il/elle": "eut brûlé",
+			"nous": "eûmes brûlé",
+			"vous": "eûtes brûlé",
+			"ils/elles": "eurent brûlé"
+		},
+		"futur antérieur": {
+			"j'": "aurai brûlé",
+			"tu": "auras brûlé",
+			"il/elle": "aura brûlé",
+			"nous": "aurons brûlé",
+			"vous": "aurez brûlé",
+			"ils/elles": "auront brûlé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous brûliez",
+			"qu'il/elle": "brûle",
+			"qu'ils/elles": "brûlent"
+		},
+		"imparfait": {
+			"que": "vous brûlassiez",
+			"qu'il/elle": "brûlât",
+			"qu'ils/elles": "brûlassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse brûlé",
+			"que": "vous eussiez brûlé",
+			"qu'il/elle": "eût brûlé",
+			"qu'ils/elles": "eussent brûlé"
+		},
+		"passé": {
+			"j'": "aie brûlé",
+			"que": "vous ayez brûlé",
+			"qu'il/elle": "ait brûlé",
+			"qu'ils/elles": "aient brûlé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "brûlerais",
+			"tu": "brûlerais",
+			"il/elle": "brûlerait",
+			"nous": "brûlerions",
+			"vous": "brûleriez",
+			"ils/elles": "brûleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais brûlé",
+			"tu": "aurais brûlé",
+			"il/elle": "aurait brûlé",
+			"nous": "aurions brûlé",
+			"vous": "auriez brûlé",
+			"ils/elles": "auraient brûlé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse brûlé",
+			"tu": "eusses brûlé",
+			"il/elle": "eût brûlé",
+			"nous": "eussions brûlé",
+			"vous": "eussiez brûlé",
+			"ils/elles": "eussent brûlé"
+		}
+	},
+	"participe": {
+		"présent": { "brûlant": "" },
+		"passé composé": { "ayant": "brûlé" },
+		"passé": {
+			"masc.sg.:": "brûlé",
+			"masc.pl.:": "brûlés",
+			"fém.sg.:": "brûlée",
+			"fém.pl.:": "brûlées"
+		}
+	},
+	"imperatif": {
+		"présent": { "brûle": "", "brûlons": "", "brûlez": "" },
+		"passé": { "aie": "brûlé", "ayons": "brûlé", "ayez": "brûlé" }
+	},
+	"infinitif": { "présent": { "brûler": "" }, "passé": { "avoir": "brûlé" } }
+}

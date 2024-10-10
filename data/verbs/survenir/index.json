@@ -1,0 +1,152 @@
+{
+	"name": "tenir",
+	"definition": "occur; arise; happen; ...",
+	"model": "tenir",
+	"auxiliary": "être",
+	"otherForms": "ne pas survenir",
+	"indicatif": {
+		"présent": {
+			"je": "surviens",
+			"tu": "surviens",
+			"il/elle": "survient",
+			"nous": "survenons",
+			"vous": "survenez",
+			"ils/elles": "surviennent"
+		},
+		"imparfait": {
+			"je": "survenais",
+			"tu": "survenais",
+			"il/elle": "survenait",
+			"nous": "survenions",
+			"vous": "surveniez",
+			"ils/elles": "survenaient"
+		},
+		"futur": {
+			"je": "surviendrai",
+			"tu": "surviendras",
+			"il/elle": "surviendra",
+			"nous": "surviendrons",
+			"vous": "surviendrez",
+			"ils/elles": "surviendront"
+		},
+		"passé simple": {
+			"je": "survins",
+			"tu": "survins",
+			"il/elle": "survint",
+			"nous": "survînmes",
+			"vous": "survîntes",
+			"ils/elles": "survinrent"
+		},
+		"passé composé": {
+			"je": "suis survenu",
+			"tu": "es survenu",
+			"il": "est survenu",
+			"elle": "est survenue",
+			"nous": "sommes survenus",
+			"vous": "êtes survenus",
+			"ils": "sont survenus",
+			"elles": "sont survenues"
+		},
+		"plus-que-parfait": {
+			"j'": "étais survenu",
+			"tu": "étais survenu",
+			"il": "était survenu",
+			"elle": "était survenue",
+			"nous": "étions survenus",
+			"vous": "étiez survenus",
+			"ils": "étaient survenus",
+			"elles": "étaient survenues"
+		},
+		"passé antérieur": {
+			"je": "fus survenu",
+			"tu": "fus survenu",
+			"il": "fut survenu",
+			"elle": "fut survenue",
+			"nous": "fûmes survenus",
+			"vous": "fûtes survenus",
+			"ils": "furent survenus",
+			"elles": "furent survenues"
+		},
+		"futur antérieur": {
+			"je": "serai survenu",
+			"tu": "seras survenu",
+			"il": "sera survenu",
+			"elle": "sera survenue",
+			"nous": "serons survenus",
+			"vous": "serez survenus",
+			"ils": "seront survenus",
+			"elles": "seront survenues"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous surveniez",
+			"qu'il/elle": "survienne",
+			"qu'ils/elles": "surviennent"
+		},
+		"imparfait": {
+			"que": "vous survinssiez",
+			"qu'il/elle": "survînt",
+			"qu'ils/elles": "survinssent"
+		},
+		"plus-que-parfait": {
+			"que": "vous fussiez survenus",
+			"qu'il": "fût survenu",
+			"qu'elle": "fût survenue",
+			"qu'ils": "fussent survenus",
+			"qu'elles": "fussent survenues"
+		},
+		"passé": {
+			"que": "vous soyez survenus",
+			"qu'il": "soit survenu",
+			"qu'elle": "soit survenue",
+			"qu'ils": "soient survenus",
+			"qu'elles": "soient survenues"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "surviendrais",
+			"tu": "surviendrais",
+			"il/elle": "surviendrait",
+			"nous": "surviendrions",
+			"vous": "surviendriez",
+			"ils/elles": "surviendraient"
+		},
+		"passé première forme": {
+			"je": "serais survenu",
+			"tu": "serais survenu",
+			"il": "serait survenu",
+			"elle": "serait survenue",
+			"nous": "serions survenus",
+			"vous": "seriez survenus",
+			"ils": "seraient survenus",
+			"elles": "seraient survenues"
+		},
+		"passé deuxième forme": {
+			"je": "fusse survenu",
+			"tu": "fusses survenu",
+			"il": "fût survenu",
+			"elle": "fût survenue",
+			"nous": "fussions survenus",
+			"vous": "fussiez survenus",
+			"ils": "fussent survenus",
+			"elles": "fussent survenues"
+		}
+	},
+	"participe": {
+		"présent": { "survenant": "" },
+		"passé composé": { "étant": "survenue" },
+		"passé": {
+			"masc.sg.:": "survenu",
+			"masc.pl.:": "survenus",
+			"fém.sg.:": "survenue",
+			"fém.pl.:": "survenues"
+		}
+	},
+	"imperatif": {
+		"présent": { "surviens": "", "survenons": "", "survenez": "" },
+		"passé": { "sois": "survenu", "soyons": "survenu", "soyez": "survenu" }
+	},
+	"infinitif": { "présent": { "survenir": "" }, "passé": { "être": "survenu" } }
+}

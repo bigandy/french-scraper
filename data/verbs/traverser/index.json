@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "cross; pass through; go through; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se traverser/ne pas traverser/ne pas se traverser",
+	"indicatif": {
+		"présent": {
+			"je": "traverse",
+			"tu": "traverses",
+			"il/elle": "traverse",
+			"nous": "traversons",
+			"vous": "traversez",
+			"ils/elles": "traversent"
+		},
+		"imparfait": {
+			"je": "traversais",
+			"tu": "traversais",
+			"il/elle": "traversait",
+			"nous": "traversions",
+			"vous": "traversiez",
+			"ils/elles": "traversaient"
+		},
+		"futur": {
+			"je": "traverserai",
+			"tu": "traverseras",
+			"il/elle": "traversera",
+			"nous": "traverserons",
+			"vous": "traverserez",
+			"ils/elles": "traverseront"
+		},
+		"passé simple": {
+			"je": "traversai",
+			"tu": "traversas",
+			"il/elle": "traversa",
+			"nous": "traversâmes",
+			"vous": "traversâtes",
+			"ils/elles": "traversèrent"
+		},
+		"passé composé": {
+			"j'": "ai traversé",
+			"tu": "as traversé",
+			"il/elle": "a traversé",
+			"nous": "avons traversé",
+			"vous": "avez traversé",
+			"ils/elles": "ont traversé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais traversé",
+			"tu": "avais traversé",
+			"il/elle": "avait traversé",
+			"nous": "avions traversé",
+			"vous": "aviez traversé",
+			"ils/elles": "avaient traversé"
+		},
+		"passé antérieur": {
+			"j'": "eus traversé",
+			"tu": "eus traversé",
+			"il/elle": "eut traversé",
+			"nous": "eûmes traversé",
+			"vous": "eûtes traversé",
+			"ils/elles": "eurent traversé"
+		},
+		"futur antérieur": {
+			"j'": "aurai traversé",
+			"tu": "auras traversé",
+			"il/elle": "aura traversé",
+			"nous": "aurons traversé",
+			"vous": "aurez traversé",
+			"ils/elles": "auront traversé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous traversiez",
+			"qu'il/elle": "traverse",
+			"qu'ils/elles": "traversent"
+		},
+		"imparfait": {
+			"que": "vous traversassiez",
+			"qu'il/elle": "traversât",
+			"qu'ils/elles": "traversassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse traversé",
+			"que": "vous eussiez traversé",
+			"qu'il/elle": "eût traversé",
+			"qu'ils/elles": "eussent traversé"
+		},
+		"passé": {
+			"j'": "aie traversé",
+			"que": "vous ayez traversé",
+			"qu'il/elle": "ait traversé",
+			"qu'ils/elles": "aient traversé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "traverserais",
+			"tu": "traverserais",
+			"il/elle": "traverserait",
+			"nous": "traverserions",
+			"vous": "traverseriez",
+			"ils/elles": "traverseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais traversé",
+			"tu": "aurais traversé",
+			"il/elle": "aurait traversé",
+			"nous": "aurions traversé",
+			"vous": "auriez traversé",
+			"ils/elles": "auraient traversé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse traversé",
+			"tu": "eusses traversé",
+			"il/elle": "eût traversé",
+			"nous": "eussions traversé",
+			"vous": "eussiez traversé",
+			"ils/elles": "eussent traversé"
+		}
+	},
+	"participe": {
+		"présent": { "traversant": "" },
+		"passé composé": { "ayant": "traversé" },
+		"passé": {
+			"masc.sg.:": "traversé",
+			"masc.pl.:": "traversés",
+			"fém.sg.:": "traversée",
+			"fém.pl.:": "traversées"
+		}
+	},
+	"imperatif": {
+		"présent": { "traverse": "", "traversons": "", "traversez": "" },
+		"passé": { "aie": "traversé", "ayons": "traversé", "ayez": "traversé" }
+	},
+	"infinitif": {
+		"présent": { "traverser": "" },
+		"passé": { "avoir": "traversé" }
+	}
+}

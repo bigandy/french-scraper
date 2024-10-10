@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "educate; teach; raise; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'éduquer/ne pas éduquer/ne pas s'éduquer",
+	"indicatif": {
+		"présent": {
+			"j'": "éduque",
+			"tu": "éduques",
+			"il/elle": "éduque",
+			"nous": "éduquons",
+			"vous": "éduquez",
+			"ils/elles": "éduquent"
+		},
+		"imparfait": {
+			"j'": "éduquais",
+			"tu": "éduquais",
+			"il/elle": "éduquait",
+			"nous": "éduquions",
+			"vous": "éduquiez",
+			"ils/elles": "éduquaient"
+		},
+		"futur": {
+			"j'": "éduquerai",
+			"tu": "éduqueras",
+			"il/elle": "éduquera",
+			"nous": "éduquerons",
+			"vous": "éduquerez",
+			"ils/elles": "éduqueront"
+		},
+		"passé simple": {
+			"j'": "éduquai",
+			"tu": "éduquas",
+			"il/elle": "éduqua",
+			"nous": "éduquâmes",
+			"vous": "éduquâtes",
+			"ils/elles": "éduquèrent"
+		},
+		"passé composé": {
+			"j'": "ai éduqué",
+			"tu": "as éduqué",
+			"il/elle": "a éduqué",
+			"nous": "avons éduqué",
+			"vous": "avez éduqué",
+			"ils/elles": "ont éduqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais éduqué",
+			"tu": "avais éduqué",
+			"il/elle": "avait éduqué",
+			"nous": "avions éduqué",
+			"vous": "aviez éduqué",
+			"ils/elles": "avaient éduqué"
+		},
+		"passé antérieur": {
+			"j'": "eus éduqué",
+			"tu": "eus éduqué",
+			"il/elle": "eut éduqué",
+			"nous": "eûmes éduqué",
+			"vous": "eûtes éduqué",
+			"ils/elles": "eurent éduqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai éduqué",
+			"tu": "auras éduqué",
+			"il/elle": "aura éduqué",
+			"nous": "aurons éduqué",
+			"vous": "aurez éduqué",
+			"ils/elles": "auront éduqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "éduque",
+			"que": "vous éduquiez",
+			"qu'il/elle": "éduque",
+			"qu'ils/elles": "éduquent"
+		},
+		"imparfait": {
+			"j'": "éduquasse",
+			"que": "vous éduquassiez",
+			"qu'il/elle": "éduquât",
+			"qu'ils/elles": "éduquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse éduqué",
+			"que": "vous eussiez éduqué",
+			"qu'il/elle": "eût éduqué",
+			"qu'ils/elles": "eussent éduqué"
+		},
+		"passé": {
+			"j'": "aie éduqué",
+			"que": "vous ayez éduqué",
+			"qu'il/elle": "ait éduqué",
+			"qu'ils/elles": "aient éduqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "éduquerais",
+			"tu": "éduquerais",
+			"il/elle": "éduquerait",
+			"nous": "éduquerions",
+			"vous": "éduqueriez",
+			"ils/elles": "éduqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais éduqué",
+			"tu": "aurais éduqué",
+			"il/elle": "aurait éduqué",
+			"nous": "aurions éduqué",
+			"vous": "auriez éduqué",
+			"ils/elles": "auraient éduqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse éduqué",
+			"tu": "eusses éduqué",
+			"il/elle": "eût éduqué",
+			"nous": "eussions éduqué",
+			"vous": "eussiez éduqué",
+			"ils/elles": "eussent éduqué"
+		}
+	},
+	"participe": {
+		"présent": { "éduquant": "" },
+		"passé composé": { "ayant": "éduqué" },
+		"passé": {
+			"masc.sg.:": "éduqué",
+			"masc.pl.:": "éduqués",
+			"fém.sg.:": "éduquée",
+			"fém.pl.:": "éduquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "éduque": "", "éduquons": "", "éduquez": "" },
+		"passé": { "aie": "éduqué", "ayons": "éduqué", "ayez": "éduqué" }
+	},
+	"infinitif": { "présent": { "éduquer": "" }, "passé": { "avoir": "éduqué" } }
+}

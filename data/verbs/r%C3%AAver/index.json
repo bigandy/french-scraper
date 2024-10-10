@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "dream; dream about; dream of; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se rêver/ne pas rêver/ne pas se rêver",
+	"indicatif": {
+		"présent": {
+			"je": "rêve",
+			"tu": "rêves",
+			"il/elle": "rêve",
+			"nous": "rêvons",
+			"vous": "rêvez",
+			"ils/elles": "rêvent"
+		},
+		"imparfait": {
+			"je": "rêvais",
+			"tu": "rêvais",
+			"il/elle": "rêvait",
+			"nous": "rêvions",
+			"vous": "rêviez",
+			"ils/elles": "rêvaient"
+		},
+		"futur": {
+			"je": "rêverai",
+			"tu": "rêveras",
+			"il/elle": "rêvera",
+			"nous": "rêverons",
+			"vous": "rêverez",
+			"ils/elles": "rêveront"
+		},
+		"passé simple": {
+			"je": "rêvai",
+			"tu": "rêvas",
+			"il/elle": "rêva",
+			"nous": "rêvâmes",
+			"vous": "rêvâtes",
+			"ils/elles": "rêvèrent"
+		},
+		"passé composé": {
+			"j'": "ai rêvé",
+			"tu": "as rêvé",
+			"il/elle": "a rêvé",
+			"nous": "avons rêvé",
+			"vous": "avez rêvé",
+			"ils/elles": "ont rêvé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais rêvé",
+			"tu": "avais rêvé",
+			"il/elle": "avait rêvé",
+			"nous": "avions rêvé",
+			"vous": "aviez rêvé",
+			"ils/elles": "avaient rêvé"
+		},
+		"passé antérieur": {
+			"j'": "eus rêvé",
+			"tu": "eus rêvé",
+			"il/elle": "eut rêvé",
+			"nous": "eûmes rêvé",
+			"vous": "eûtes rêvé",
+			"ils/elles": "eurent rêvé"
+		},
+		"futur antérieur": {
+			"j'": "aurai rêvé",
+			"tu": "auras rêvé",
+			"il/elle": "aura rêvé",
+			"nous": "aurons rêvé",
+			"vous": "aurez rêvé",
+			"ils/elles": "auront rêvé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous rêviez",
+			"qu'il/elle": "rêve",
+			"qu'ils/elles": "rêvent"
+		},
+		"imparfait": {
+			"que": "vous rêvassiez",
+			"qu'il/elle": "rêvât",
+			"qu'ils/elles": "rêvassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse rêvé",
+			"que": "vous eussiez rêvé",
+			"qu'il/elle": "eût rêvé",
+			"qu'ils/elles": "eussent rêvé"
+		},
+		"passé": {
+			"j'": "aie rêvé",
+			"que": "vous ayez rêvé",
+			"qu'il/elle": "ait rêvé",
+			"qu'ils/elles": "aient rêvé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "rêverais",
+			"tu": "rêverais",
+			"il/elle": "rêverait",
+			"nous": "rêverions",
+			"vous": "rêveriez",
+			"ils/elles": "rêveraient"
+		},
+		"passé première forme": {
+			"j'": "aurais rêvé",
+			"tu": "aurais rêvé",
+			"il/elle": "aurait rêvé",
+			"nous": "aurions rêvé",
+			"vous": "auriez rêvé",
+			"ils/elles": "auraient rêvé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse rêvé",
+			"tu": "eusses rêvé",
+			"il/elle": "eût rêvé",
+			"nous": "eussions rêvé",
+			"vous": "eussiez rêvé",
+			"ils/elles": "eussent rêvé"
+		}
+	},
+	"participe": {
+		"présent": { "rêvant": "" },
+		"passé composé": { "ayant": "rêvé" },
+		"passé": {
+			"masc.sg.:": "rêvé",
+			"masc.pl.:": "rêvés",
+			"fém.sg.:": "rêvée",
+			"fém.pl.:": "rêvées"
+		}
+	},
+	"imperatif": {
+		"présent": { "rêve": "", "rêvons": "", "rêvez": "" },
+		"passé": { "aie": "rêvé", "ayons": "rêvé", "ayez": "rêvé" }
+	},
+	"infinitif": { "présent": { "rêver": "" }, "passé": { "avoir": "rêvé" } }
+}

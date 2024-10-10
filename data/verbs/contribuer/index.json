@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "contribute; help; assist; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se contribuer/ne pas contribuer/ne pas se contribuer",
+	"indicatif": {
+		"présent": {
+			"je": "contribue",
+			"tu": "contribues",
+			"il/elle": "contribue",
+			"nous": "contribuons",
+			"vous": "contribuez",
+			"ils/elles": "contribuent"
+		},
+		"imparfait": {
+			"je": "contribuais",
+			"tu": "contribuais",
+			"il/elle": "contribuait",
+			"nous": "contribuions",
+			"vous": "contribuiez",
+			"ils/elles": "contribuaient"
+		},
+		"futur": {
+			"je": "contribuerai",
+			"tu": "contribueras",
+			"il/elle": "contribuera",
+			"nous": "contribuerons",
+			"vous": "contribuerez",
+			"ils/elles": "contribueront"
+		},
+		"passé simple": {
+			"je": "contribuai",
+			"tu": "contribuas",
+			"il/elle": "contribua",
+			"nous": "contribuâmes",
+			"vous": "contribuâtes",
+			"ils/elles": "contribuèrent"
+		},
+		"passé composé": {
+			"j'": "ai contribué",
+			"tu": "as contribué",
+			"il/elle": "a contribué",
+			"nous": "avons contribué",
+			"vous": "avez contribué",
+			"ils/elles": "ont contribué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais contribué",
+			"tu": "avais contribué",
+			"il/elle": "avait contribué",
+			"nous": "avions contribué",
+			"vous": "aviez contribué",
+			"ils/elles": "avaient contribué"
+		},
+		"passé antérieur": {
+			"j'": "eus contribué",
+			"tu": "eus contribué",
+			"il/elle": "eut contribué",
+			"nous": "eûmes contribué",
+			"vous": "eûtes contribué",
+			"ils/elles": "eurent contribué"
+		},
+		"futur antérieur": {
+			"j'": "aurai contribué",
+			"tu": "auras contribué",
+			"il/elle": "aura contribué",
+			"nous": "aurons contribué",
+			"vous": "aurez contribué",
+			"ils/elles": "auront contribué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous contribuiez",
+			"qu'il/elle": "contribue",
+			"qu'ils/elles": "contribuent"
+		},
+		"imparfait": {
+			"que": "vous contribuassiez",
+			"qu'il/elle": "contribuât",
+			"qu'ils/elles": "contribuassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse contribué",
+			"que": "vous eussiez contribué",
+			"qu'il/elle": "eût contribué",
+			"qu'ils/elles": "eussent contribué"
+		},
+		"passé": {
+			"j'": "aie contribué",
+			"que": "vous ayez contribué",
+			"qu'il/elle": "ait contribué",
+			"qu'ils/elles": "aient contribué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "contribuerais",
+			"tu": "contribuerais",
+			"il/elle": "contribuerait",
+			"nous": "contribuerions",
+			"vous": "contribueriez",
+			"ils/elles": "contribueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais contribué",
+			"tu": "aurais contribué",
+			"il/elle": "aurait contribué",
+			"nous": "aurions contribué",
+			"vous": "auriez contribué",
+			"ils/elles": "auraient contribué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse contribué",
+			"tu": "eusses contribué",
+			"il/elle": "eût contribué",
+			"nous": "eussions contribué",
+			"vous": "eussiez contribué",
+			"ils/elles": "eussent contribué"
+		}
+	},
+	"participe": {
+		"présent": { "contribuant": "" },
+		"passé composé": { "ayant": "contribué" },
+		"passé": {
+			"masc.sg.:": "contribué",
+			"masc.pl.:": "contribués",
+			"fém.sg.:": "contribuée",
+			"fém.pl.:": "contribuées"
+		}
+	},
+	"imperatif": {
+		"présent": { "contribue": "", "contribuons": "", "contribuez": "" },
+		"passé": { "aie": "contribué", "ayons": "contribué", "ayez": "contribué" }
+	},
+	"infinitif": {
+		"présent": { "contribuer": "" },
+		"passé": { "avoir": "contribué" }
+	}
+}

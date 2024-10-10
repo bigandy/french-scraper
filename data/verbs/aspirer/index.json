@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "suck; draw; aspire; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'aspirer/ne pas aspirer/ne pas s'aspirer",
+	"indicatif": {
+		"présent": {
+			"j'": "aspire",
+			"tu": "aspires",
+			"il/elle": "aspire",
+			"nous": "aspirons",
+			"vous": "aspirez",
+			"ils/elles": "aspirent"
+		},
+		"imparfait": {
+			"j'": "aspirais",
+			"tu": "aspirais",
+			"il/elle": "aspirait",
+			"nous": "aspirions",
+			"vous": "aspiriez",
+			"ils/elles": "aspiraient"
+		},
+		"futur": {
+			"j'": "aspirerai",
+			"tu": "aspireras",
+			"il/elle": "aspirera",
+			"nous": "aspirerons",
+			"vous": "aspirerez",
+			"ils/elles": "aspireront"
+		},
+		"passé simple": {
+			"j'": "aspirai",
+			"tu": "aspiras",
+			"il/elle": "aspira",
+			"nous": "aspirâmes",
+			"vous": "aspirâtes",
+			"ils/elles": "aspirèrent"
+		},
+		"passé composé": {
+			"j'": "ai aspiré",
+			"tu": "as aspiré",
+			"il/elle": "a aspiré",
+			"nous": "avons aspiré",
+			"vous": "avez aspiré",
+			"ils/elles": "ont aspiré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais aspiré",
+			"tu": "avais aspiré",
+			"il/elle": "avait aspiré",
+			"nous": "avions aspiré",
+			"vous": "aviez aspiré",
+			"ils/elles": "avaient aspiré"
+		},
+		"passé antérieur": {
+			"j'": "eus aspiré",
+			"tu": "eus aspiré",
+			"il/elle": "eut aspiré",
+			"nous": "eûmes aspiré",
+			"vous": "eûtes aspiré",
+			"ils/elles": "eurent aspiré"
+		},
+		"futur antérieur": {
+			"j'": "aurai aspiré",
+			"tu": "auras aspiré",
+			"il/elle": "aura aspiré",
+			"nous": "aurons aspiré",
+			"vous": "aurez aspiré",
+			"ils/elles": "auront aspiré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "aspire",
+			"que": "vous aspiriez",
+			"qu'il/elle": "aspire",
+			"qu'ils/elles": "aspirent"
+		},
+		"imparfait": {
+			"j'": "aspirasse",
+			"que": "vous aspirassiez",
+			"qu'il/elle": "aspirât",
+			"qu'ils/elles": "aspirassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse aspiré",
+			"que": "vous eussiez aspiré",
+			"qu'il/elle": "eût aspiré",
+			"qu'ils/elles": "eussent aspiré"
+		},
+		"passé": {
+			"j'": "aie aspiré",
+			"que": "vous ayez aspiré",
+			"qu'il/elle": "ait aspiré",
+			"qu'ils/elles": "aient aspiré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "aspirerais",
+			"tu": "aspirerais",
+			"il/elle": "aspirerait",
+			"nous": "aspirerions",
+			"vous": "aspireriez",
+			"ils/elles": "aspireraient"
+		},
+		"passé première forme": {
+			"j'": "aurais aspiré",
+			"tu": "aurais aspiré",
+			"il/elle": "aurait aspiré",
+			"nous": "aurions aspiré",
+			"vous": "auriez aspiré",
+			"ils/elles": "auraient aspiré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse aspiré",
+			"tu": "eusses aspiré",
+			"il/elle": "eût aspiré",
+			"nous": "eussions aspiré",
+			"vous": "eussiez aspiré",
+			"ils/elles": "eussent aspiré"
+		}
+	},
+	"participe": {
+		"présent": { "aspirant": "" },
+		"passé composé": { "ayant": "aspiré" },
+		"passé": {
+			"masc.sg.:": "aspiré",
+			"masc.pl.:": "aspirés",
+			"fém.sg.:": "aspirée",
+			"fém.pl.:": "aspirées"
+		}
+	},
+	"imperatif": {
+		"présent": { "aspire": "", "aspirons": "", "aspirez": "" },
+		"passé": { "aie": "aspiré", "ayons": "aspiré", "ayez": "aspiré" }
+	},
+	"infinitif": { "présent": { "aspirer": "" }, "passé": { "avoir": "aspiré" } }
+}

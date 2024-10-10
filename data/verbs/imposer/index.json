@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "impose; require; enforce; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'imposer/ne pas imposer/ne pas s'imposer",
+	"indicatif": {
+		"présent": {
+			"j'": "impose",
+			"tu": "imposes",
+			"il/elle": "impose",
+			"nous": "imposons",
+			"vous": "imposez",
+			"ils/elles": "imposent"
+		},
+		"imparfait": {
+			"j'": "imposais",
+			"tu": "imposais",
+			"il/elle": "imposait",
+			"nous": "imposions",
+			"vous": "imposiez",
+			"ils/elles": "imposaient"
+		},
+		"futur": {
+			"j'": "imposerai",
+			"tu": "imposeras",
+			"il/elle": "imposera",
+			"nous": "imposerons",
+			"vous": "imposerez",
+			"ils/elles": "imposeront"
+		},
+		"passé simple": {
+			"j'": "imposai",
+			"tu": "imposas",
+			"il/elle": "imposa",
+			"nous": "imposâmes",
+			"vous": "imposâtes",
+			"ils/elles": "imposèrent"
+		},
+		"passé composé": {
+			"j'": "ai imposé",
+			"tu": "as imposé",
+			"il/elle": "a imposé",
+			"nous": "avons imposé",
+			"vous": "avez imposé",
+			"ils/elles": "ont imposé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais imposé",
+			"tu": "avais imposé",
+			"il/elle": "avait imposé",
+			"nous": "avions imposé",
+			"vous": "aviez imposé",
+			"ils/elles": "avaient imposé"
+		},
+		"passé antérieur": {
+			"j'": "eus imposé",
+			"tu": "eus imposé",
+			"il/elle": "eut imposé",
+			"nous": "eûmes imposé",
+			"vous": "eûtes imposé",
+			"ils/elles": "eurent imposé"
+		},
+		"futur antérieur": {
+			"j'": "aurai imposé",
+			"tu": "auras imposé",
+			"il/elle": "aura imposé",
+			"nous": "aurons imposé",
+			"vous": "aurez imposé",
+			"ils/elles": "auront imposé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "impose",
+			"que": "vous imposiez",
+			"qu'il/elle": "impose",
+			"qu'ils/elles": "imposent"
+		},
+		"imparfait": {
+			"j'": "imposasse",
+			"que": "vous imposassiez",
+			"qu'il/elle": "imposât",
+			"qu'ils/elles": "imposassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse imposé",
+			"que": "vous eussiez imposé",
+			"qu'il/elle": "eût imposé",
+			"qu'ils/elles": "eussent imposé"
+		},
+		"passé": {
+			"j'": "aie imposé",
+			"que": "vous ayez imposé",
+			"qu'il/elle": "ait imposé",
+			"qu'ils/elles": "aient imposé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "imposerais",
+			"tu": "imposerais",
+			"il/elle": "imposerait",
+			"nous": "imposerions",
+			"vous": "imposeriez",
+			"ils/elles": "imposeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais imposé",
+			"tu": "aurais imposé",
+			"il/elle": "aurait imposé",
+			"nous": "aurions imposé",
+			"vous": "auriez imposé",
+			"ils/elles": "auraient imposé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse imposé",
+			"tu": "eusses imposé",
+			"il/elle": "eût imposé",
+			"nous": "eussions imposé",
+			"vous": "eussiez imposé",
+			"ils/elles": "eussent imposé"
+		}
+	},
+	"participe": {
+		"présent": { "imposant": "" },
+		"passé composé": { "ayant": "imposé" },
+		"passé": {
+			"masc.sg.:": "imposé",
+			"masc.pl.:": "imposés",
+			"fém.sg.:": "imposée",
+			"fém.pl.:": "imposées"
+		}
+	},
+	"imperatif": {
+		"présent": { "impose": "", "imposons": "", "imposez": "" },
+		"passé": { "aie": "imposé", "ayons": "imposé", "ayez": "imposé" }
+	},
+	"infinitif": { "présent": { "imposer": "" }, "passé": { "avoir": "imposé" } }
+}

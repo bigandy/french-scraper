@@ -1,0 +1,139 @@
+{
+	"name": "fleurir",
+	"definition": "bloom; flower; flourish; ...",
+	"model": "fleurir",
+	"auxiliary": "avoir",
+	"otherForms": "se fleurir/ne pas fleurir/ne pas se fleurir",
+	"indicatif": {
+		"présent": {
+			"je": "fleuris",
+			"tu": "fleuris",
+			"il/elle": "fleurit",
+			"nous": "fleurissons",
+			"vous": "fleurissez",
+			"ils/elles": "fleurissent"
+		},
+		"imparfait": {
+			"je": "florissais",
+			"tu": "florissais",
+			"il/elle": "florissait",
+			"nous": "florissions",
+			"vous": "florissiez",
+			"ils/elles": "florissaient",
+			"": ""
+		},
+		"futur": {
+			"je": "fleurirai",
+			"tu": "fleuriras",
+			"il/elle": "fleurira",
+			"nous": "fleurirons",
+			"vous": "fleurirez",
+			"ils/elles": "fleuriront"
+		},
+		"passé simple": {
+			"je": "fleuris",
+			"tu": "fleuris",
+			"il/elle": "fleurit",
+			"nous": "fleurîmes",
+			"vous": "fleurîtes",
+			"ils/elles": "fleurirent"
+		},
+		"passé composé": {
+			"j'": "ai fleuri",
+			"tu": "as fleuri",
+			"il/elle": "a fleuri",
+			"nous": "avons fleuri",
+			"vous": "avez fleuri",
+			"ils/elles": "ont fleuri"
+		},
+		"plus-que-parfait": {
+			"j'": "avais fleuri",
+			"tu": "avais fleuri",
+			"il/elle": "avait fleuri",
+			"nous": "avions fleuri",
+			"vous": "aviez fleuri",
+			"ils/elles": "avaient fleuri"
+		},
+		"passé antérieur": {
+			"j'": "eus fleuri",
+			"tu": "eus fleuri",
+			"il/elle": "eut fleuri",
+			"nous": "eûmes fleuri",
+			"vous": "eûtes fleuri",
+			"ils/elles": "eurent fleuri"
+		},
+		"futur antérieur": {
+			"j'": "aurai fleuri",
+			"tu": "auras fleuri",
+			"il/elle": "aura fleuri",
+			"nous": "aurons fleuri",
+			"vous": "aurez fleuri",
+			"ils/elles": "auront fleuri"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous fleurissiez",
+			"qu'il/elle": "fleurisse",
+			"qu'ils/elles": "fleurissent"
+		},
+		"imparfait": {
+			"que": "vous fleurissiez",
+			"qu'il/elle": "fleurît",
+			"qu'ils/elles": "fleurissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse fleuri",
+			"que": "vous eussiez fleuri",
+			"qu'il/elle": "eût fleuri",
+			"qu'ils/elles": "eussent fleuri"
+		},
+		"passé": {
+			"j'": "aie fleuri",
+			"que": "vous ayez fleuri",
+			"qu'il/elle": "ait fleuri",
+			"qu'ils/elles": "aient fleuri"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "fleurirais",
+			"tu": "fleurirais",
+			"il/elle": "fleurirait",
+			"nous": "fleuririons",
+			"vous": "fleuririez",
+			"ils/elles": "fleuriraient"
+		},
+		"passé première forme": {
+			"j'": "aurais fleuri",
+			"tu": "aurais fleuri",
+			"il/elle": "aurait fleuri",
+			"nous": "aurions fleuri",
+			"vous": "auriez fleuri",
+			"ils/elles": "auraient fleuri"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse fleuri",
+			"tu": "eusses fleuri",
+			"il/elle": "eût fleuri",
+			"nous": "eussions fleuri",
+			"vous": "eussiez fleuri",
+			"ils/elles": "eussent fleuri"
+		}
+	},
+	"participe": {
+		"présent": { "fleurissant": "", "": "", "florissant": "" },
+		"passé composé": { "ayant": "fleuri" },
+		"passé": {
+			"masc.sg.:": "fleuri",
+			"masc.pl.:": "fleuris",
+			"fém.sg.:": "fleurie",
+			"fém.pl.:": "fleuries"
+		}
+	},
+	"imperatif": {
+		"présent": { "fleuris": "", "fleurissons": "", "fleurissez": "" },
+		"passé": { "aie": "fleuri", "ayons": "fleuri", "ayez": "fleuri" }
+	},
+	"infinitif": { "présent": { "fleurir": "" }, "passé": { "avoir": "fleuri" } }
+}

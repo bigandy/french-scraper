@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "disperse; scatter; spread; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se disperser/ne pas disperser/ne pas se disperser",
+	"indicatif": {
+		"présent": {
+			"je": "disperse",
+			"tu": "disperses",
+			"il/elle": "disperse",
+			"nous": "dispersons",
+			"vous": "dispersez",
+			"ils/elles": "dispersent"
+		},
+		"imparfait": {
+			"je": "dispersais",
+			"tu": "dispersais",
+			"il/elle": "dispersait",
+			"nous": "dispersions",
+			"vous": "dispersiez",
+			"ils/elles": "dispersaient"
+		},
+		"futur": {
+			"je": "disperserai",
+			"tu": "disperseras",
+			"il/elle": "dispersera",
+			"nous": "disperserons",
+			"vous": "disperserez",
+			"ils/elles": "disperseront"
+		},
+		"passé simple": {
+			"je": "dispersai",
+			"tu": "dispersas",
+			"il/elle": "dispersa",
+			"nous": "dispersâmes",
+			"vous": "dispersâtes",
+			"ils/elles": "dispersèrent"
+		},
+		"passé composé": {
+			"j'": "ai dispersé",
+			"tu": "as dispersé",
+			"il/elle": "a dispersé",
+			"nous": "avons dispersé",
+			"vous": "avez dispersé",
+			"ils/elles": "ont dispersé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais dispersé",
+			"tu": "avais dispersé",
+			"il/elle": "avait dispersé",
+			"nous": "avions dispersé",
+			"vous": "aviez dispersé",
+			"ils/elles": "avaient dispersé"
+		},
+		"passé antérieur": {
+			"j'": "eus dispersé",
+			"tu": "eus dispersé",
+			"il/elle": "eut dispersé",
+			"nous": "eûmes dispersé",
+			"vous": "eûtes dispersé",
+			"ils/elles": "eurent dispersé"
+		},
+		"futur antérieur": {
+			"j'": "aurai dispersé",
+			"tu": "auras dispersé",
+			"il/elle": "aura dispersé",
+			"nous": "aurons dispersé",
+			"vous": "aurez dispersé",
+			"ils/elles": "auront dispersé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous dispersiez",
+			"qu'il/elle": "disperse",
+			"qu'ils/elles": "dispersent"
+		},
+		"imparfait": {
+			"que": "vous dispersassiez",
+			"qu'il/elle": "dispersât",
+			"qu'ils/elles": "dispersassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse dispersé",
+			"que": "vous eussiez dispersé",
+			"qu'il/elle": "eût dispersé",
+			"qu'ils/elles": "eussent dispersé"
+		},
+		"passé": {
+			"j'": "aie dispersé",
+			"que": "vous ayez dispersé",
+			"qu'il/elle": "ait dispersé",
+			"qu'ils/elles": "aient dispersé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "disperserais",
+			"tu": "disperserais",
+			"il/elle": "disperserait",
+			"nous": "disperserions",
+			"vous": "disperseriez",
+			"ils/elles": "disperseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais dispersé",
+			"tu": "aurais dispersé",
+			"il/elle": "aurait dispersé",
+			"nous": "aurions dispersé",
+			"vous": "auriez dispersé",
+			"ils/elles": "auraient dispersé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse dispersé",
+			"tu": "eusses dispersé",
+			"il/elle": "eût dispersé",
+			"nous": "eussions dispersé",
+			"vous": "eussiez dispersé",
+			"ils/elles": "eussent dispersé"
+		}
+	},
+	"participe": {
+		"présent": { "dispersant": "" },
+		"passé composé": { "ayant": "dispersé" },
+		"passé": {
+			"masc.sg.:": "dispersé",
+			"masc.pl.:": "dispersés",
+			"fém.sg.:": "dispersée",
+			"fém.pl.:": "dispersées"
+		}
+	},
+	"imperatif": {
+		"présent": { "disperse": "", "dispersons": "", "dispersez": "" },
+		"passé": { "aie": "dispersé", "ayons": "dispersé", "ayez": "dispersé" }
+	},
+	"infinitif": {
+		"présent": { "disperser": "" },
+		"passé": { "avoir": "dispersé" }
+	}
+}

@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "double; double-cross; overtake; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se doubler/ne pas doubler/ne pas se doubler",
+	"indicatif": {
+		"présent": {
+			"je": "double",
+			"tu": "doubles",
+			"il/elle": "double",
+			"nous": "doublons",
+			"vous": "doublez",
+			"ils/elles": "doublent"
+		},
+		"imparfait": {
+			"je": "doublais",
+			"tu": "doublais",
+			"il/elle": "doublait",
+			"nous": "doublions",
+			"vous": "doubliez",
+			"ils/elles": "doublaient"
+		},
+		"futur": {
+			"je": "doublerai",
+			"tu": "doubleras",
+			"il/elle": "doublera",
+			"nous": "doublerons",
+			"vous": "doublerez",
+			"ils/elles": "doubleront"
+		},
+		"passé simple": {
+			"je": "doublai",
+			"tu": "doublas",
+			"il/elle": "doubla",
+			"nous": "doublâmes",
+			"vous": "doublâtes",
+			"ils/elles": "doublèrent"
+		},
+		"passé composé": {
+			"j'": "ai doublé",
+			"tu": "as doublé",
+			"il/elle": "a doublé",
+			"nous": "avons doublé",
+			"vous": "avez doublé",
+			"ils/elles": "ont doublé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais doublé",
+			"tu": "avais doublé",
+			"il/elle": "avait doublé",
+			"nous": "avions doublé",
+			"vous": "aviez doublé",
+			"ils/elles": "avaient doublé"
+		},
+		"passé antérieur": {
+			"j'": "eus doublé",
+			"tu": "eus doublé",
+			"il/elle": "eut doublé",
+			"nous": "eûmes doublé",
+			"vous": "eûtes doublé",
+			"ils/elles": "eurent doublé"
+		},
+		"futur antérieur": {
+			"j'": "aurai doublé",
+			"tu": "auras doublé",
+			"il/elle": "aura doublé",
+			"nous": "aurons doublé",
+			"vous": "aurez doublé",
+			"ils/elles": "auront doublé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous doubliez",
+			"qu'il/elle": "double",
+			"qu'ils/elles": "doublent"
+		},
+		"imparfait": {
+			"que": "vous doublassiez",
+			"qu'il/elle": "doublât",
+			"qu'ils/elles": "doublassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse doublé",
+			"que": "vous eussiez doublé",
+			"qu'il/elle": "eût doublé",
+			"qu'ils/elles": "eussent doublé"
+		},
+		"passé": {
+			"j'": "aie doublé",
+			"que": "vous ayez doublé",
+			"qu'il/elle": "ait doublé",
+			"qu'ils/elles": "aient doublé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "doublerais",
+			"tu": "doublerais",
+			"il/elle": "doublerait",
+			"nous": "doublerions",
+			"vous": "doubleriez",
+			"ils/elles": "doubleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais doublé",
+			"tu": "aurais doublé",
+			"il/elle": "aurait doublé",
+			"nous": "aurions doublé",
+			"vous": "auriez doublé",
+			"ils/elles": "auraient doublé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse doublé",
+			"tu": "eusses doublé",
+			"il/elle": "eût doublé",
+			"nous": "eussions doublé",
+			"vous": "eussiez doublé",
+			"ils/elles": "eussent doublé"
+		}
+	},
+	"participe": {
+		"présent": { "doublant": "" },
+		"passé composé": { "ayant": "doublé" },
+		"passé": {
+			"masc.sg.:": "doublé",
+			"masc.pl.:": "doublés",
+			"fém.sg.:": "doublée",
+			"fém.pl.:": "doublées"
+		}
+	},
+	"imperatif": {
+		"présent": { "double": "", "doublons": "", "doublez": "" },
+		"passé": { "aie": "doublé", "ayons": "doublé", "ayez": "doublé" }
+	},
+	"infinitif": { "présent": { "doubler": "" }, "passé": { "avoir": "doublé" } }
+}

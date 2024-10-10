@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "press; squeeze; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se presser/ne pas presser/ne pas se presser",
+	"indicatif": {
+		"présent": {
+			"je": "presse",
+			"tu": "presses",
+			"il/elle": "presse",
+			"nous": "pressons",
+			"vous": "pressez",
+			"ils/elles": "pressent"
+		},
+		"imparfait": {
+			"je": "pressais",
+			"tu": "pressais",
+			"il/elle": "pressait",
+			"nous": "pressions",
+			"vous": "pressiez",
+			"ils/elles": "pressaient"
+		},
+		"futur": {
+			"je": "presserai",
+			"tu": "presseras",
+			"il/elle": "pressera",
+			"nous": "presserons",
+			"vous": "presserez",
+			"ils/elles": "presseront"
+		},
+		"passé simple": {
+			"je": "pressai",
+			"tu": "pressas",
+			"il/elle": "pressa",
+			"nous": "pressâmes",
+			"vous": "pressâtes",
+			"ils/elles": "pressèrent"
+		},
+		"passé composé": {
+			"j'": "ai pressé",
+			"tu": "as pressé",
+			"il/elle": "a pressé",
+			"nous": "avons pressé",
+			"vous": "avez pressé",
+			"ils/elles": "ont pressé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais pressé",
+			"tu": "avais pressé",
+			"il/elle": "avait pressé",
+			"nous": "avions pressé",
+			"vous": "aviez pressé",
+			"ils/elles": "avaient pressé"
+		},
+		"passé antérieur": {
+			"j'": "eus pressé",
+			"tu": "eus pressé",
+			"il/elle": "eut pressé",
+			"nous": "eûmes pressé",
+			"vous": "eûtes pressé",
+			"ils/elles": "eurent pressé"
+		},
+		"futur antérieur": {
+			"j'": "aurai pressé",
+			"tu": "auras pressé",
+			"il/elle": "aura pressé",
+			"nous": "aurons pressé",
+			"vous": "aurez pressé",
+			"ils/elles": "auront pressé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous pressiez",
+			"qu'il/elle": "presse",
+			"qu'ils/elles": "pressent"
+		},
+		"imparfait": {
+			"que": "vous pressassiez",
+			"qu'il/elle": "pressât",
+			"qu'ils/elles": "pressassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse pressé",
+			"que": "vous eussiez pressé",
+			"qu'il/elle": "eût pressé",
+			"qu'ils/elles": "eussent pressé"
+		},
+		"passé": {
+			"j'": "aie pressé",
+			"que": "vous ayez pressé",
+			"qu'il/elle": "ait pressé",
+			"qu'ils/elles": "aient pressé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "presserais",
+			"tu": "presserais",
+			"il/elle": "presserait",
+			"nous": "presserions",
+			"vous": "presseriez",
+			"ils/elles": "presseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais pressé",
+			"tu": "aurais pressé",
+			"il/elle": "aurait pressé",
+			"nous": "aurions pressé",
+			"vous": "auriez pressé",
+			"ils/elles": "auraient pressé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse pressé",
+			"tu": "eusses pressé",
+			"il/elle": "eût pressé",
+			"nous": "eussions pressé",
+			"vous": "eussiez pressé",
+			"ils/elles": "eussent pressé"
+		}
+	},
+	"participe": {
+		"présent": { "pressant": "" },
+		"passé composé": { "ayant": "pressé" },
+		"passé": {
+			"masc.sg.:": "pressé",
+			"masc.pl.:": "pressés",
+			"fém.sg.:": "pressée",
+			"fém.pl.:": "pressées"
+		}
+	},
+	"imperatif": {
+		"présent": { "presse": "", "pressons": "", "pressez": "" },
+		"passé": { "aie": "pressé", "ayons": "pressé", "ayez": "pressé" }
+	},
+	"infinitif": { "présent": { "presser": "" }, "passé": { "avoir": "pressé" } }
+}

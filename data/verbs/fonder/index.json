@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "base; found; start; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se fonder/ne pas fonder/ne pas se fonder",
+	"indicatif": {
+		"présent": {
+			"je": "fonde",
+			"tu": "fondes",
+			"il/elle": "fonde",
+			"nous": "fondons",
+			"vous": "fondez",
+			"ils/elles": "fondent"
+		},
+		"imparfait": {
+			"je": "fondais",
+			"tu": "fondais",
+			"il/elle": "fondait",
+			"nous": "fondions",
+			"vous": "fondiez",
+			"ils/elles": "fondaient"
+		},
+		"futur": {
+			"je": "fonderai",
+			"tu": "fonderas",
+			"il/elle": "fondera",
+			"nous": "fonderons",
+			"vous": "fonderez",
+			"ils/elles": "fonderont"
+		},
+		"passé simple": {
+			"je": "fondai",
+			"tu": "fondas",
+			"il/elle": "fonda",
+			"nous": "fondâmes",
+			"vous": "fondâtes",
+			"ils/elles": "fondèrent"
+		},
+		"passé composé": {
+			"j'": "ai fondé",
+			"tu": "as fondé",
+			"il/elle": "a fondé",
+			"nous": "avons fondé",
+			"vous": "avez fondé",
+			"ils/elles": "ont fondé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais fondé",
+			"tu": "avais fondé",
+			"il/elle": "avait fondé",
+			"nous": "avions fondé",
+			"vous": "aviez fondé",
+			"ils/elles": "avaient fondé"
+		},
+		"passé antérieur": {
+			"j'": "eus fondé",
+			"tu": "eus fondé",
+			"il/elle": "eut fondé",
+			"nous": "eûmes fondé",
+			"vous": "eûtes fondé",
+			"ils/elles": "eurent fondé"
+		},
+		"futur antérieur": {
+			"j'": "aurai fondé",
+			"tu": "auras fondé",
+			"il/elle": "aura fondé",
+			"nous": "aurons fondé",
+			"vous": "aurez fondé",
+			"ils/elles": "auront fondé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous fondiez",
+			"qu'il/elle": "fonde",
+			"qu'ils/elles": "fondent"
+		},
+		"imparfait": {
+			"que": "vous fondassiez",
+			"qu'il/elle": "fondât",
+			"qu'ils/elles": "fondassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse fondé",
+			"que": "vous eussiez fondé",
+			"qu'il/elle": "eût fondé",
+			"qu'ils/elles": "eussent fondé"
+		},
+		"passé": {
+			"j'": "aie fondé",
+			"que": "vous ayez fondé",
+			"qu'il/elle": "ait fondé",
+			"qu'ils/elles": "aient fondé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "fonderais",
+			"tu": "fonderais",
+			"il/elle": "fonderait",
+			"nous": "fonderions",
+			"vous": "fonderiez",
+			"ils/elles": "fonderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais fondé",
+			"tu": "aurais fondé",
+			"il/elle": "aurait fondé",
+			"nous": "aurions fondé",
+			"vous": "auriez fondé",
+			"ils/elles": "auraient fondé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse fondé",
+			"tu": "eusses fondé",
+			"il/elle": "eût fondé",
+			"nous": "eussions fondé",
+			"vous": "eussiez fondé",
+			"ils/elles": "eussent fondé"
+		}
+	},
+	"participe": {
+		"présent": { "fondant": "" },
+		"passé composé": { "ayant": "fondé" },
+		"passé": {
+			"masc.sg.:": "fondé",
+			"masc.pl.:": "fondés",
+			"fém.sg.:": "fondée",
+			"fém.pl.:": "fondées"
+		}
+	},
+	"imperatif": {
+		"présent": { "fonde": "", "fondons": "", "fondez": "" },
+		"passé": { "aie": "fondé", "ayons": "fondé", "ayez": "fondé" }
+	},
+	"infinitif": { "présent": { "fonder": "" }, "passé": { "avoir": "fondé" } }
+}

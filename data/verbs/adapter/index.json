@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "adapt; adjust; fit; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'adapter/ne pas adapter/ne pas s'adapter",
+	"indicatif": {
+		"présent": {
+			"j'": "adapte",
+			"tu": "adaptes",
+			"il/elle": "adapte",
+			"nous": "adaptons",
+			"vous": "adaptez",
+			"ils/elles": "adaptent"
+		},
+		"imparfait": {
+			"j'": "adaptais",
+			"tu": "adaptais",
+			"il/elle": "adaptait",
+			"nous": "adaptions",
+			"vous": "adaptiez",
+			"ils/elles": "adaptaient"
+		},
+		"futur": {
+			"j'": "adapterai",
+			"tu": "adapteras",
+			"il/elle": "adaptera",
+			"nous": "adapterons",
+			"vous": "adapterez",
+			"ils/elles": "adapteront"
+		},
+		"passé simple": {
+			"j'": "adaptai",
+			"tu": "adaptas",
+			"il/elle": "adapta",
+			"nous": "adaptâmes",
+			"vous": "adaptâtes",
+			"ils/elles": "adaptèrent"
+		},
+		"passé composé": {
+			"j'": "ai adapté",
+			"tu": "as adapté",
+			"il/elle": "a adapté",
+			"nous": "avons adapté",
+			"vous": "avez adapté",
+			"ils/elles": "ont adapté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais adapté",
+			"tu": "avais adapté",
+			"il/elle": "avait adapté",
+			"nous": "avions adapté",
+			"vous": "aviez adapté",
+			"ils/elles": "avaient adapté"
+		},
+		"passé antérieur": {
+			"j'": "eus adapté",
+			"tu": "eus adapté",
+			"il/elle": "eut adapté",
+			"nous": "eûmes adapté",
+			"vous": "eûtes adapté",
+			"ils/elles": "eurent adapté"
+		},
+		"futur antérieur": {
+			"j'": "aurai adapté",
+			"tu": "auras adapté",
+			"il/elle": "aura adapté",
+			"nous": "aurons adapté",
+			"vous": "aurez adapté",
+			"ils/elles": "auront adapté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "adapte",
+			"que": "vous adaptiez",
+			"qu'il/elle": "adapte",
+			"qu'ils/elles": "adaptent"
+		},
+		"imparfait": {
+			"j'": "adaptasse",
+			"que": "vous adaptassiez",
+			"qu'il/elle": "adaptât",
+			"qu'ils/elles": "adaptassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse adapté",
+			"que": "vous eussiez adapté",
+			"qu'il/elle": "eût adapté",
+			"qu'ils/elles": "eussent adapté"
+		},
+		"passé": {
+			"j'": "aie adapté",
+			"que": "vous ayez adapté",
+			"qu'il/elle": "ait adapté",
+			"qu'ils/elles": "aient adapté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "adapterais",
+			"tu": "adapterais",
+			"il/elle": "adapterait",
+			"nous": "adapterions",
+			"vous": "adapteriez",
+			"ils/elles": "adapteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais adapté",
+			"tu": "aurais adapté",
+			"il/elle": "aurait adapté",
+			"nous": "aurions adapté",
+			"vous": "auriez adapté",
+			"ils/elles": "auraient adapté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse adapté",
+			"tu": "eusses adapté",
+			"il/elle": "eût adapté",
+			"nous": "eussions adapté",
+			"vous": "eussiez adapté",
+			"ils/elles": "eussent adapté"
+		}
+	},
+	"participe": {
+		"présent": { "adaptant": "" },
+		"passé composé": { "ayant": "adapté" },
+		"passé": {
+			"masc.sg.:": "adapté",
+			"masc.pl.:": "adaptés",
+			"fém.sg.:": "adaptée",
+			"fém.pl.:": "adaptées"
+		}
+	},
+	"imperatif": {
+		"présent": { "adapte": "", "adaptons": "", "adaptez": "" },
+		"passé": { "aie": "adapté", "ayons": "adapté", "ayez": "adapté" }
+	},
+	"infinitif": { "présent": { "adapter": "" }, "passé": { "avoir": "adapté" } }
+}

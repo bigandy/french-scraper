@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "navigate; sail; browse; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas naviguer",
+	"indicatif": {
+		"présent": {
+			"je": "navigue",
+			"tu": "navigues",
+			"il/elle": "navigue",
+			"nous": "naviguons",
+			"vous": "naviguez",
+			"ils/elles": "naviguent"
+		},
+		"imparfait": {
+			"je": "naviguais",
+			"tu": "naviguais",
+			"il/elle": "naviguait",
+			"nous": "naviguions",
+			"vous": "naviguiez",
+			"ils/elles": "naviguaient"
+		},
+		"futur": {
+			"je": "naviguerai",
+			"tu": "navigueras",
+			"il/elle": "naviguera",
+			"nous": "naviguerons",
+			"vous": "naviguerez",
+			"ils/elles": "navigueront"
+		},
+		"passé simple": {
+			"je": "naviguai",
+			"tu": "naviguas",
+			"il/elle": "navigua",
+			"nous": "naviguâmes",
+			"vous": "naviguâtes",
+			"ils/elles": "naviguèrent"
+		},
+		"passé composé": {
+			"j'": "ai navigué",
+			"tu": "as navigué",
+			"il/elle": "a navigué",
+			"nous": "avons navigué",
+			"vous": "avez navigué",
+			"ils/elles": "ont navigué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais navigué",
+			"tu": "avais navigué",
+			"il/elle": "avait navigué",
+			"nous": "avions navigué",
+			"vous": "aviez navigué",
+			"ils/elles": "avaient navigué"
+		},
+		"passé antérieur": {
+			"j'": "eus navigué",
+			"tu": "eus navigué",
+			"il/elle": "eut navigué",
+			"nous": "eûmes navigué",
+			"vous": "eûtes navigué",
+			"ils/elles": "eurent navigué"
+		},
+		"futur antérieur": {
+			"j'": "aurai navigué",
+			"tu": "auras navigué",
+			"il/elle": "aura navigué",
+			"nous": "aurons navigué",
+			"vous": "aurez navigué",
+			"ils/elles": "auront navigué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous naviguiez",
+			"qu'il/elle": "navigue",
+			"qu'ils/elles": "naviguent"
+		},
+		"imparfait": {
+			"que": "vous naviguassiez",
+			"qu'il/elle": "naviguât",
+			"qu'ils/elles": "naviguassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse navigué",
+			"que": "vous eussiez navigué",
+			"qu'il/elle": "eût navigué",
+			"qu'ils/elles": "eussent navigué"
+		},
+		"passé": {
+			"j'": "aie navigué",
+			"que": "vous ayez navigué",
+			"qu'il/elle": "ait navigué",
+			"qu'ils/elles": "aient navigué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "naviguerais",
+			"tu": "naviguerais",
+			"il/elle": "naviguerait",
+			"nous": "naviguerions",
+			"vous": "navigueriez",
+			"ils/elles": "navigueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais navigué",
+			"tu": "aurais navigué",
+			"il/elle": "aurait navigué",
+			"nous": "aurions navigué",
+			"vous": "auriez navigué",
+			"ils/elles": "auraient navigué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse navigué",
+			"tu": "eusses navigué",
+			"il/elle": "eût navigué",
+			"nous": "eussions navigué",
+			"vous": "eussiez navigué",
+			"ils/elles": "eussent navigué"
+		}
+	},
+	"participe": {
+		"présent": { "naviguant": "" },
+		"passé composé": { "ayant": "navigué" },
+		"passé": {
+			"masc.sg.:": "navigué",
+			"masc.pl.:": "navigués",
+			"fém.sg.:": "naviguée",
+			"fém.pl.:": "naviguées"
+		}
+	},
+	"imperatif": {
+		"présent": { "navigue": "", "naviguons": "", "naviguez": "" },
+		"passé": { "aie": "navigué", "ayons": "navigué", "ayez": "navigué" }
+	},
+	"infinitif": {
+		"présent": { "naviguer": "" },
+		"passé": { "avoir": "navigué" }
+	}
+}

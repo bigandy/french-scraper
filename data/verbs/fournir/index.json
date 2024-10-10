@@ -1,0 +1,138 @@
+{
+	"name": "finir",
+	"definition": "provide; supply; deliver; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se fournir/ne pas fournir/ne pas se fournir",
+	"indicatif": {
+		"présent": {
+			"je": "fournis",
+			"tu": "fournis",
+			"il/elle": "fournit",
+			"nous": "fournissons",
+			"vous": "fournissez",
+			"ils/elles": "fournissent"
+		},
+		"imparfait": {
+			"je": "fournissais",
+			"tu": "fournissais",
+			"il/elle": "fournissait",
+			"nous": "fournissions",
+			"vous": "fournissiez",
+			"ils/elles": "fournissaient"
+		},
+		"futur": {
+			"je": "fournirai",
+			"tu": "fourniras",
+			"il/elle": "fournira",
+			"nous": "fournirons",
+			"vous": "fournirez",
+			"ils/elles": "fourniront"
+		},
+		"passé simple": {
+			"je": "fournis",
+			"tu": "fournis",
+			"il/elle": "fournit",
+			"nous": "fournîmes",
+			"vous": "fournîtes",
+			"ils/elles": "fournirent"
+		},
+		"passé composé": {
+			"j'": "ai fourni",
+			"tu": "as fourni",
+			"il/elle": "a fourni",
+			"nous": "avons fourni",
+			"vous": "avez fourni",
+			"ils/elles": "ont fourni"
+		},
+		"plus-que-parfait": {
+			"j'": "avais fourni",
+			"tu": "avais fourni",
+			"il/elle": "avait fourni",
+			"nous": "avions fourni",
+			"vous": "aviez fourni",
+			"ils/elles": "avaient fourni"
+		},
+		"passé antérieur": {
+			"j'": "eus fourni",
+			"tu": "eus fourni",
+			"il/elle": "eut fourni",
+			"nous": "eûmes fourni",
+			"vous": "eûtes fourni",
+			"ils/elles": "eurent fourni"
+		},
+		"futur antérieur": {
+			"j'": "aurai fourni",
+			"tu": "auras fourni",
+			"il/elle": "aura fourni",
+			"nous": "aurons fourni",
+			"vous": "aurez fourni",
+			"ils/elles": "auront fourni"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous fournissiez",
+			"qu'il/elle": "fournisse",
+			"qu'ils/elles": "fournissent"
+		},
+		"imparfait": {
+			"que": "vous fournissiez",
+			"qu'il/elle": "fournît",
+			"qu'ils/elles": "fournissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse fourni",
+			"que": "vous eussiez fourni",
+			"qu'il/elle": "eût fourni",
+			"qu'ils/elles": "eussent fourni"
+		},
+		"passé": {
+			"j'": "aie fourni",
+			"que": "vous ayez fourni",
+			"qu'il/elle": "ait fourni",
+			"qu'ils/elles": "aient fourni"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "fournirais",
+			"tu": "fournirais",
+			"il/elle": "fournirait",
+			"nous": "fournirions",
+			"vous": "fourniriez",
+			"ils/elles": "fourniraient"
+		},
+		"passé première forme": {
+			"j'": "aurais fourni",
+			"tu": "aurais fourni",
+			"il/elle": "aurait fourni",
+			"nous": "aurions fourni",
+			"vous": "auriez fourni",
+			"ils/elles": "auraient fourni"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse fourni",
+			"tu": "eusses fourni",
+			"il/elle": "eût fourni",
+			"nous": "eussions fourni",
+			"vous": "eussiez fourni",
+			"ils/elles": "eussent fourni"
+		}
+	},
+	"participe": {
+		"présent": { "fournissant": "" },
+		"passé composé": { "ayant": "fourni" },
+		"passé": {
+			"masc.sg.:": "fourni",
+			"masc.pl.:": "fournis",
+			"fém.sg.:": "fournie",
+			"fém.pl.:": "fournies"
+		}
+	},
+	"imperatif": {
+		"présent": { "fournis": "", "fournissons": "", "fournissez": "" },
+		"passé": { "aie": "fourni", "ayons": "fourni", "ayez": "fourni" }
+	},
+	"infinitif": { "présent": { "fournir": "" }, "passé": { "avoir": "fourni" } }
+}

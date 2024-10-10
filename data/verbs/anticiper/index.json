@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "anticipate; pre-empt; predict; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'anticiper/ne pas anticiper/ne pas s'anticiper",
+	"indicatif": {
+		"présent": {
+			"j'": "anticipe",
+			"tu": "anticipes",
+			"il/elle": "anticipe",
+			"nous": "anticipons",
+			"vous": "anticipez",
+			"ils/elles": "anticipent"
+		},
+		"imparfait": {
+			"j'": "anticipais",
+			"tu": "anticipais",
+			"il/elle": "anticipait",
+			"nous": "anticipions",
+			"vous": "anticipiez",
+			"ils/elles": "anticipaient"
+		},
+		"futur": {
+			"j'": "anticiperai",
+			"tu": "anticiperas",
+			"il/elle": "anticipera",
+			"nous": "anticiperons",
+			"vous": "anticiperez",
+			"ils/elles": "anticiperont"
+		},
+		"passé simple": {
+			"j'": "anticipai",
+			"tu": "anticipas",
+			"il/elle": "anticipa",
+			"nous": "anticipâmes",
+			"vous": "anticipâtes",
+			"ils/elles": "anticipèrent"
+		},
+		"passé composé": {
+			"j'": "ai anticipé",
+			"tu": "as anticipé",
+			"il/elle": "a anticipé",
+			"nous": "avons anticipé",
+			"vous": "avez anticipé",
+			"ils/elles": "ont anticipé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais anticipé",
+			"tu": "avais anticipé",
+			"il/elle": "avait anticipé",
+			"nous": "avions anticipé",
+			"vous": "aviez anticipé",
+			"ils/elles": "avaient anticipé"
+		},
+		"passé antérieur": {
+			"j'": "eus anticipé",
+			"tu": "eus anticipé",
+			"il/elle": "eut anticipé",
+			"nous": "eûmes anticipé",
+			"vous": "eûtes anticipé",
+			"ils/elles": "eurent anticipé"
+		},
+		"futur antérieur": {
+			"j'": "aurai anticipé",
+			"tu": "auras anticipé",
+			"il/elle": "aura anticipé",
+			"nous": "aurons anticipé",
+			"vous": "aurez anticipé",
+			"ils/elles": "auront anticipé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "anticipe",
+			"que": "vous anticipiez",
+			"qu'il/elle": "anticipe",
+			"qu'ils/elles": "anticipent"
+		},
+		"imparfait": {
+			"j'": "anticipasse",
+			"que": "vous anticipassiez",
+			"qu'il/elle": "anticipât",
+			"qu'ils/elles": "anticipassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse anticipé",
+			"que": "vous eussiez anticipé",
+			"qu'il/elle": "eût anticipé",
+			"qu'ils/elles": "eussent anticipé"
+		},
+		"passé": {
+			"j'": "aie anticipé",
+			"que": "vous ayez anticipé",
+			"qu'il/elle": "ait anticipé",
+			"qu'ils/elles": "aient anticipé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "anticiperais",
+			"tu": "anticiperais",
+			"il/elle": "anticiperait",
+			"nous": "anticiperions",
+			"vous": "anticiperiez",
+			"ils/elles": "anticiperaient"
+		},
+		"passé première forme": {
+			"j'": "aurais anticipé",
+			"tu": "aurais anticipé",
+			"il/elle": "aurait anticipé",
+			"nous": "aurions anticipé",
+			"vous": "auriez anticipé",
+			"ils/elles": "auraient anticipé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse anticipé",
+			"tu": "eusses anticipé",
+			"il/elle": "eût anticipé",
+			"nous": "eussions anticipé",
+			"vous": "eussiez anticipé",
+			"ils/elles": "eussent anticipé"
+		}
+	},
+	"participe": {
+		"présent": { "anticipant": "" },
+		"passé composé": { "ayant": "anticipé" },
+		"passé": {
+			"masc.sg.:": "anticipé",
+			"masc.pl.:": "anticipés",
+			"fém.sg.:": "anticipée",
+			"fém.pl.:": "anticipées"
+		}
+	},
+	"imperatif": {
+		"présent": { "anticipe": "", "anticipons": "", "anticipez": "" },
+		"passé": { "aie": "anticipé", "ayons": "anticipé", "ayez": "anticipé" }
+	},
+	"infinitif": {
+		"présent": { "anticiper": "" },
+		"passé": { "avoir": "anticipé" }
+	}
+}

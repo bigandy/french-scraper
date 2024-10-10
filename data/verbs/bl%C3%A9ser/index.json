@@ -1,0 +1,138 @@
+{
+	"name": "léser",
+	"definition": "lisp; ...",
+	"model": "léser",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas bléser",
+	"indicatif": {
+		"présent": {
+			"je": "blèse",
+			"tu": "blèses",
+			"il/elle": "blèse",
+			"nous": "blésons",
+			"vous": "blésez",
+			"ils/elles": "blèsent"
+		},
+		"imparfait": {
+			"je": "blésais",
+			"tu": "blésais",
+			"il/elle": "blésait",
+			"nous": "blésions",
+			"vous": "blésiez",
+			"ils/elles": "blésaient"
+		},
+		"futur": {
+			"je": "bléserai",
+			"tu": "bléseras",
+			"il/elle": "blésera",
+			"nous": "bléserons",
+			"vous": "bléserez",
+			"ils/elles": "bléseront"
+		},
+		"passé simple": {
+			"je": "blésai",
+			"tu": "blésas",
+			"il/elle": "blésa",
+			"nous": "blésâmes",
+			"vous": "blésâtes",
+			"ils/elles": "blésèrent"
+		},
+		"passé composé": {
+			"j'": "ai blésé",
+			"tu": "as blésé",
+			"il/elle": "a blésé",
+			"nous": "avons blésé",
+			"vous": "avez blésé",
+			"ils/elles": "ont blésé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais blésé",
+			"tu": "avais blésé",
+			"il/elle": "avait blésé",
+			"nous": "avions blésé",
+			"vous": "aviez blésé",
+			"ils/elles": "avaient blésé"
+		},
+		"passé antérieur": {
+			"j'": "eus blésé",
+			"tu": "eus blésé",
+			"il/elle": "eut blésé",
+			"nous": "eûmes blésé",
+			"vous": "eûtes blésé",
+			"ils/elles": "eurent blésé"
+		},
+		"futur antérieur": {
+			"j'": "aurai blésé",
+			"tu": "auras blésé",
+			"il/elle": "aura blésé",
+			"nous": "aurons blésé",
+			"vous": "aurez blésé",
+			"ils/elles": "auront blésé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous blésiez",
+			"qu'il/elle": "blèse",
+			"qu'ils/elles": "blèsent"
+		},
+		"imparfait": {
+			"que": "vous blésassiez",
+			"qu'il/elle": "blésât",
+			"qu'ils/elles": "blésassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse blésé",
+			"que": "vous eussiez blésé",
+			"qu'il/elle": "eût blésé",
+			"qu'ils/elles": "eussent blésé"
+		},
+		"passé": {
+			"j'": "aie blésé",
+			"que": "vous ayez blésé",
+			"qu'il/elle": "ait blésé",
+			"qu'ils/elles": "aient blésé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "bléserais",
+			"tu": "bléserais",
+			"il/elle": "bléserait",
+			"nous": "bléserions",
+			"vous": "bléseriez",
+			"ils/elles": "bléseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais blésé",
+			"tu": "aurais blésé",
+			"il/elle": "aurait blésé",
+			"nous": "aurions blésé",
+			"vous": "auriez blésé",
+			"ils/elles": "auraient blésé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse blésé",
+			"tu": "eusses blésé",
+			"il/elle": "eût blésé",
+			"nous": "eussions blésé",
+			"vous": "eussiez blésé",
+			"ils/elles": "eussent blésé"
+		}
+	},
+	"participe": {
+		"présent": { "blésant": "" },
+		"passé composé": { "ayant": "blésé" },
+		"passé": {
+			"masc.sg.:": "blésé",
+			"masc.pl.:": "blésés",
+			"fém.sg.:": "blésée",
+			"fém.pl.:": "blésées"
+		}
+	},
+	"imperatif": {
+		"présent": { "blèse": "", "blésons": "", "blésez": "" },
+		"passé": { "aie": "blésé", "ayons": "blésé", "ayez": "blésé" }
+	},
+	"infinitif": { "présent": { "bléser": "" }, "passé": { "avoir": "blésé" } }
+}

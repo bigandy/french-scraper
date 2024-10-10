@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "manufacture; make; produce; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se fabriquer/ne pas fabriquer/ne pas se fabriquer",
+	"indicatif": {
+		"présent": {
+			"je": "fabrique",
+			"tu": "fabriques",
+			"il/elle": "fabrique",
+			"nous": "fabriquons",
+			"vous": "fabriquez",
+			"ils/elles": "fabriquent"
+		},
+		"imparfait": {
+			"je": "fabriquais",
+			"tu": "fabriquais",
+			"il/elle": "fabriquait",
+			"nous": "fabriquions",
+			"vous": "fabriquiez",
+			"ils/elles": "fabriquaient"
+		},
+		"futur": {
+			"je": "fabriquerai",
+			"tu": "fabriqueras",
+			"il/elle": "fabriquera",
+			"nous": "fabriquerons",
+			"vous": "fabriquerez",
+			"ils/elles": "fabriqueront"
+		},
+		"passé simple": {
+			"je": "fabriquai",
+			"tu": "fabriquas",
+			"il/elle": "fabriqua",
+			"nous": "fabriquâmes",
+			"vous": "fabriquâtes",
+			"ils/elles": "fabriquèrent"
+		},
+		"passé composé": {
+			"j'": "ai fabriqué",
+			"tu": "as fabriqué",
+			"il/elle": "a fabriqué",
+			"nous": "avons fabriqué",
+			"vous": "avez fabriqué",
+			"ils/elles": "ont fabriqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais fabriqué",
+			"tu": "avais fabriqué",
+			"il/elle": "avait fabriqué",
+			"nous": "avions fabriqué",
+			"vous": "aviez fabriqué",
+			"ils/elles": "avaient fabriqué"
+		},
+		"passé antérieur": {
+			"j'": "eus fabriqué",
+			"tu": "eus fabriqué",
+			"il/elle": "eut fabriqué",
+			"nous": "eûmes fabriqué",
+			"vous": "eûtes fabriqué",
+			"ils/elles": "eurent fabriqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai fabriqué",
+			"tu": "auras fabriqué",
+			"il/elle": "aura fabriqué",
+			"nous": "aurons fabriqué",
+			"vous": "aurez fabriqué",
+			"ils/elles": "auront fabriqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous fabriquiez",
+			"qu'il/elle": "fabrique",
+			"qu'ils/elles": "fabriquent"
+		},
+		"imparfait": {
+			"que": "vous fabriquassiez",
+			"qu'il/elle": "fabriquât",
+			"qu'ils/elles": "fabriquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse fabriqué",
+			"que": "vous eussiez fabriqué",
+			"qu'il/elle": "eût fabriqué",
+			"qu'ils/elles": "eussent fabriqué"
+		},
+		"passé": {
+			"j'": "aie fabriqué",
+			"que": "vous ayez fabriqué",
+			"qu'il/elle": "ait fabriqué",
+			"qu'ils/elles": "aient fabriqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "fabriquerais",
+			"tu": "fabriquerais",
+			"il/elle": "fabriquerait",
+			"nous": "fabriquerions",
+			"vous": "fabriqueriez",
+			"ils/elles": "fabriqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais fabriqué",
+			"tu": "aurais fabriqué",
+			"il/elle": "aurait fabriqué",
+			"nous": "aurions fabriqué",
+			"vous": "auriez fabriqué",
+			"ils/elles": "auraient fabriqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse fabriqué",
+			"tu": "eusses fabriqué",
+			"il/elle": "eût fabriqué",
+			"nous": "eussions fabriqué",
+			"vous": "eussiez fabriqué",
+			"ils/elles": "eussent fabriqué"
+		}
+	},
+	"participe": {
+		"présent": { "fabriquant": "" },
+		"passé composé": { "ayant": "fabriqué" },
+		"passé": {
+			"masc.sg.:": "fabriqué",
+			"masc.pl.:": "fabriqués",
+			"fém.sg.:": "fabriquée",
+			"fém.pl.:": "fabriquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "fabrique": "", "fabriquons": "", "fabriquez": "" },
+		"passé": { "aie": "fabriqué", "ayons": "fabriqué", "ayez": "fabriqué" }
+	},
+	"infinitif": {
+		"présent": { "fabriquer": "" },
+		"passé": { "avoir": "fabriqué" }
+	}
+}

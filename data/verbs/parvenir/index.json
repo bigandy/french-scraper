@@ -1,0 +1,152 @@
+{
+	"name": "tenir",
+	"definition": "achieve; reach; arrive; ...",
+	"model": "tenir",
+	"auxiliary": "être",
+	"otherForms": "se parvenir/ne pas parvenir/ne pas se parvenir",
+	"indicatif": {
+		"présent": {
+			"je": "parviens",
+			"tu": "parviens",
+			"il/elle": "parvient",
+			"nous": "parvenons",
+			"vous": "parvenez",
+			"ils/elles": "parviennent"
+		},
+		"imparfait": {
+			"je": "parvenais",
+			"tu": "parvenais",
+			"il/elle": "parvenait",
+			"nous": "parvenions",
+			"vous": "parveniez",
+			"ils/elles": "parvenaient"
+		},
+		"futur": {
+			"je": "parviendrai",
+			"tu": "parviendras",
+			"il/elle": "parviendra",
+			"nous": "parviendrons",
+			"vous": "parviendrez",
+			"ils/elles": "parviendront"
+		},
+		"passé simple": {
+			"je": "parvins",
+			"tu": "parvins",
+			"il/elle": "parvint",
+			"nous": "parvînmes",
+			"vous": "parvîntes",
+			"ils/elles": "parvinrent"
+		},
+		"passé composé": {
+			"je": "suis parvenu",
+			"tu": "es parvenu",
+			"il": "est parvenu",
+			"elle": "est parvenue",
+			"nous": "sommes parvenus",
+			"vous": "êtes parvenus",
+			"ils": "sont parvenus",
+			"elles": "sont parvenues"
+		},
+		"plus-que-parfait": {
+			"j'": "étais parvenu",
+			"tu": "étais parvenu",
+			"il": "était parvenu",
+			"elle": "était parvenue",
+			"nous": "étions parvenus",
+			"vous": "étiez parvenus",
+			"ils": "étaient parvenus",
+			"elles": "étaient parvenues"
+		},
+		"passé antérieur": {
+			"je": "fus parvenu",
+			"tu": "fus parvenu",
+			"il": "fut parvenu",
+			"elle": "fut parvenue",
+			"nous": "fûmes parvenus",
+			"vous": "fûtes parvenus",
+			"ils": "furent parvenus",
+			"elles": "furent parvenues"
+		},
+		"futur antérieur": {
+			"je": "serai parvenu",
+			"tu": "seras parvenu",
+			"il": "sera parvenu",
+			"elle": "sera parvenue",
+			"nous": "serons parvenus",
+			"vous": "serez parvenus",
+			"ils": "seront parvenus",
+			"elles": "seront parvenues"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous parveniez",
+			"qu'il/elle": "parvienne",
+			"qu'ils/elles": "parviennent"
+		},
+		"imparfait": {
+			"que": "vous parvinssiez",
+			"qu'il/elle": "parvînt",
+			"qu'ils/elles": "parvinssent"
+		},
+		"plus-que-parfait": {
+			"que": "vous fussiez parvenus",
+			"qu'il": "fût parvenu",
+			"qu'elle": "fût parvenue",
+			"qu'ils": "fussent parvenus",
+			"qu'elles": "fussent parvenues"
+		},
+		"passé": {
+			"que": "vous soyez parvenus",
+			"qu'il": "soit parvenu",
+			"qu'elle": "soit parvenue",
+			"qu'ils": "soient parvenus",
+			"qu'elles": "soient parvenues"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "parviendrais",
+			"tu": "parviendrais",
+			"il/elle": "parviendrait",
+			"nous": "parviendrions",
+			"vous": "parviendriez",
+			"ils/elles": "parviendraient"
+		},
+		"passé première forme": {
+			"je": "serais parvenu",
+			"tu": "serais parvenu",
+			"il": "serait parvenu",
+			"elle": "serait parvenue",
+			"nous": "serions parvenus",
+			"vous": "seriez parvenus",
+			"ils": "seraient parvenus",
+			"elles": "seraient parvenues"
+		},
+		"passé deuxième forme": {
+			"je": "fusse parvenu",
+			"tu": "fusses parvenu",
+			"il": "fût parvenu",
+			"elle": "fût parvenue",
+			"nous": "fussions parvenus",
+			"vous": "fussiez parvenus",
+			"ils": "fussent parvenus",
+			"elles": "fussent parvenues"
+		}
+	},
+	"participe": {
+		"présent": { "parvenant": "" },
+		"passé composé": { "étant": "parvenue" },
+		"passé": {
+			"masc.sg.:": "parvenu",
+			"masc.pl.:": "parvenus",
+			"fém.sg.:": "parvenue",
+			"fém.pl.:": "parvenues"
+		}
+	},
+	"imperatif": {
+		"présent": { "parviens": "", "parvenons": "", "parvenez": "" },
+		"passé": { "sois": "parvenu", "soyons": "parvenu", "soyez": "parvenu" }
+	},
+	"infinitif": { "présent": { "parvenir": "" }, "passé": { "être": "parvenu" } }
+}

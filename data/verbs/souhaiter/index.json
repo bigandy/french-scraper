@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "wish; hope; want; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se souhaiter/ne pas souhaiter/ne pas se souhaiter",
+	"indicatif": {
+		"présent": {
+			"je": "souhaite",
+			"tu": "souhaites",
+			"il/elle": "souhaite",
+			"nous": "souhaitons",
+			"vous": "souhaitez",
+			"ils/elles": "souhaitent"
+		},
+		"imparfait": {
+			"je": "souhaitais",
+			"tu": "souhaitais",
+			"il/elle": "souhaitait",
+			"nous": "souhaitions",
+			"vous": "souhaitiez",
+			"ils/elles": "souhaitaient"
+		},
+		"futur": {
+			"je": "souhaiterai",
+			"tu": "souhaiteras",
+			"il/elle": "souhaitera",
+			"nous": "souhaiterons",
+			"vous": "souhaiterez",
+			"ils/elles": "souhaiteront"
+		},
+		"passé simple": {
+			"je": "souhaitai",
+			"tu": "souhaitas",
+			"il/elle": "souhaita",
+			"nous": "souhaitâmes",
+			"vous": "souhaitâtes",
+			"ils/elles": "souhaitèrent"
+		},
+		"passé composé": {
+			"j'": "ai souhaité",
+			"tu": "as souhaité",
+			"il/elle": "a souhaité",
+			"nous": "avons souhaité",
+			"vous": "avez souhaité",
+			"ils/elles": "ont souhaité"
+		},
+		"plus-que-parfait": {
+			"j'": "avais souhaité",
+			"tu": "avais souhaité",
+			"il/elle": "avait souhaité",
+			"nous": "avions souhaité",
+			"vous": "aviez souhaité",
+			"ils/elles": "avaient souhaité"
+		},
+		"passé antérieur": {
+			"j'": "eus souhaité",
+			"tu": "eus souhaité",
+			"il/elle": "eut souhaité",
+			"nous": "eûmes souhaité",
+			"vous": "eûtes souhaité",
+			"ils/elles": "eurent souhaité"
+		},
+		"futur antérieur": {
+			"j'": "aurai souhaité",
+			"tu": "auras souhaité",
+			"il/elle": "aura souhaité",
+			"nous": "aurons souhaité",
+			"vous": "aurez souhaité",
+			"ils/elles": "auront souhaité"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous souhaitiez",
+			"qu'il/elle": "souhaite",
+			"qu'ils/elles": "souhaitent"
+		},
+		"imparfait": {
+			"que": "vous souhaitassiez",
+			"qu'il/elle": "souhaitât",
+			"qu'ils/elles": "souhaitassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse souhaité",
+			"que": "vous eussiez souhaité",
+			"qu'il/elle": "eût souhaité",
+			"qu'ils/elles": "eussent souhaité"
+		},
+		"passé": {
+			"j'": "aie souhaité",
+			"que": "vous ayez souhaité",
+			"qu'il/elle": "ait souhaité",
+			"qu'ils/elles": "aient souhaité"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "souhaiterais",
+			"tu": "souhaiterais",
+			"il/elle": "souhaiterait",
+			"nous": "souhaiterions",
+			"vous": "souhaiteriez",
+			"ils/elles": "souhaiteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais souhaité",
+			"tu": "aurais souhaité",
+			"il/elle": "aurait souhaité",
+			"nous": "aurions souhaité",
+			"vous": "auriez souhaité",
+			"ils/elles": "auraient souhaité"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse souhaité",
+			"tu": "eusses souhaité",
+			"il/elle": "eût souhaité",
+			"nous": "eussions souhaité",
+			"vous": "eussiez souhaité",
+			"ils/elles": "eussent souhaité"
+		}
+	},
+	"participe": {
+		"présent": { "souhaitant": "" },
+		"passé composé": { "ayant": "souhaité" },
+		"passé": {
+			"masc.sg.:": "souhaité",
+			"masc.pl.:": "souhaités",
+			"fém.sg.:": "souhaitée",
+			"fém.pl.:": "souhaitées"
+		}
+	},
+	"imperatif": {
+		"présent": { "souhaite": "", "souhaitons": "", "souhaitez": "" },
+		"passé": { "aie": "souhaité", "ayons": "souhaité", "ayez": "souhaité" }
+	},
+	"infinitif": {
+		"présent": { "souhaiter": "" },
+		"passé": { "avoir": "souhaité" }
+	}
+}

@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "experience; feel; test; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'éprouver/ne pas éprouver/ne pas s'éprouver",
+	"indicatif": {
+		"présent": {
+			"j'": "éprouve",
+			"tu": "éprouves",
+			"il/elle": "éprouve",
+			"nous": "éprouvons",
+			"vous": "éprouvez",
+			"ils/elles": "éprouvent"
+		},
+		"imparfait": {
+			"j'": "éprouvais",
+			"tu": "éprouvais",
+			"il/elle": "éprouvait",
+			"nous": "éprouvions",
+			"vous": "éprouviez",
+			"ils/elles": "éprouvaient"
+		},
+		"futur": {
+			"j'": "éprouverai",
+			"tu": "éprouveras",
+			"il/elle": "éprouvera",
+			"nous": "éprouverons",
+			"vous": "éprouverez",
+			"ils/elles": "éprouveront"
+		},
+		"passé simple": {
+			"j'": "éprouvai",
+			"tu": "éprouvas",
+			"il/elle": "éprouva",
+			"nous": "éprouvâmes",
+			"vous": "éprouvâtes",
+			"ils/elles": "éprouvèrent"
+		},
+		"passé composé": {
+			"j'": "ai éprouvé",
+			"tu": "as éprouvé",
+			"il/elle": "a éprouvé",
+			"nous": "avons éprouvé",
+			"vous": "avez éprouvé",
+			"ils/elles": "ont éprouvé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais éprouvé",
+			"tu": "avais éprouvé",
+			"il/elle": "avait éprouvé",
+			"nous": "avions éprouvé",
+			"vous": "aviez éprouvé",
+			"ils/elles": "avaient éprouvé"
+		},
+		"passé antérieur": {
+			"j'": "eus éprouvé",
+			"tu": "eus éprouvé",
+			"il/elle": "eut éprouvé",
+			"nous": "eûmes éprouvé",
+			"vous": "eûtes éprouvé",
+			"ils/elles": "eurent éprouvé"
+		},
+		"futur antérieur": {
+			"j'": "aurai éprouvé",
+			"tu": "auras éprouvé",
+			"il/elle": "aura éprouvé",
+			"nous": "aurons éprouvé",
+			"vous": "aurez éprouvé",
+			"ils/elles": "auront éprouvé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "éprouve",
+			"que": "vous éprouviez",
+			"qu'il/elle": "éprouve",
+			"qu'ils/elles": "éprouvent"
+		},
+		"imparfait": {
+			"j'": "éprouvasse",
+			"que": "vous éprouvassiez",
+			"qu'il/elle": "éprouvât",
+			"qu'ils/elles": "éprouvassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse éprouvé",
+			"que": "vous eussiez éprouvé",
+			"qu'il/elle": "eût éprouvé",
+			"qu'ils/elles": "eussent éprouvé"
+		},
+		"passé": {
+			"j'": "aie éprouvé",
+			"que": "vous ayez éprouvé",
+			"qu'il/elle": "ait éprouvé",
+			"qu'ils/elles": "aient éprouvé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "éprouverais",
+			"tu": "éprouverais",
+			"il/elle": "éprouverait",
+			"nous": "éprouverions",
+			"vous": "éprouveriez",
+			"ils/elles": "éprouveraient"
+		},
+		"passé première forme": {
+			"j'": "aurais éprouvé",
+			"tu": "aurais éprouvé",
+			"il/elle": "aurait éprouvé",
+			"nous": "aurions éprouvé",
+			"vous": "auriez éprouvé",
+			"ils/elles": "auraient éprouvé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse éprouvé",
+			"tu": "eusses éprouvé",
+			"il/elle": "eût éprouvé",
+			"nous": "eussions éprouvé",
+			"vous": "eussiez éprouvé",
+			"ils/elles": "eussent éprouvé"
+		}
+	},
+	"participe": {
+		"présent": { "éprouvant": "" },
+		"passé composé": { "ayant": "éprouvé" },
+		"passé": {
+			"masc.sg.:": "éprouvé",
+			"masc.pl.:": "éprouvés",
+			"fém.sg.:": "éprouvée",
+			"fém.pl.:": "éprouvées"
+		}
+	},
+	"imperatif": {
+		"présent": { "éprouve": "", "éprouvons": "", "éprouvez": "" },
+		"passé": { "aie": "éprouvé", "ayons": "éprouvé", "ayez": "éprouvé" }
+	},
+	"infinitif": {
+		"présent": { "éprouver": "" },
+		"passé": { "avoir": "éprouvé" }
+	}
+}

@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "guess; figure out; imagine; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se deviner/ne pas deviner/ne pas se deviner",
+	"indicatif": {
+		"présent": {
+			"je": "devine",
+			"tu": "devines",
+			"il/elle": "devine",
+			"nous": "devinons",
+			"vous": "devinez",
+			"ils/elles": "devinent"
+		},
+		"imparfait": {
+			"je": "devinais",
+			"tu": "devinais",
+			"il/elle": "devinait",
+			"nous": "devinions",
+			"vous": "deviniez",
+			"ils/elles": "devinaient"
+		},
+		"futur": {
+			"je": "devinerai",
+			"tu": "devineras",
+			"il/elle": "devinera",
+			"nous": "devinerons",
+			"vous": "devinerez",
+			"ils/elles": "devineront"
+		},
+		"passé simple": {
+			"je": "devinai",
+			"tu": "devinas",
+			"il/elle": "devina",
+			"nous": "devinâmes",
+			"vous": "devinâtes",
+			"ils/elles": "devinèrent"
+		},
+		"passé composé": {
+			"j'": "ai deviné",
+			"tu": "as deviné",
+			"il/elle": "a deviné",
+			"nous": "avons deviné",
+			"vous": "avez deviné",
+			"ils/elles": "ont deviné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais deviné",
+			"tu": "avais deviné",
+			"il/elle": "avait deviné",
+			"nous": "avions deviné",
+			"vous": "aviez deviné",
+			"ils/elles": "avaient deviné"
+		},
+		"passé antérieur": {
+			"j'": "eus deviné",
+			"tu": "eus deviné",
+			"il/elle": "eut deviné",
+			"nous": "eûmes deviné",
+			"vous": "eûtes deviné",
+			"ils/elles": "eurent deviné"
+		},
+		"futur antérieur": {
+			"j'": "aurai deviné",
+			"tu": "auras deviné",
+			"il/elle": "aura deviné",
+			"nous": "aurons deviné",
+			"vous": "aurez deviné",
+			"ils/elles": "auront deviné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous deviniez",
+			"qu'il/elle": "devine",
+			"qu'ils/elles": "devinent"
+		},
+		"imparfait": {
+			"que": "vous devinassiez",
+			"qu'il/elle": "devinât",
+			"qu'ils/elles": "devinassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse deviné",
+			"que": "vous eussiez deviné",
+			"qu'il/elle": "eût deviné",
+			"qu'ils/elles": "eussent deviné"
+		},
+		"passé": {
+			"j'": "aie deviné",
+			"que": "vous ayez deviné",
+			"qu'il/elle": "ait deviné",
+			"qu'ils/elles": "aient deviné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "devinerais",
+			"tu": "devinerais",
+			"il/elle": "devinerait",
+			"nous": "devinerions",
+			"vous": "devineriez",
+			"ils/elles": "devineraient"
+		},
+		"passé première forme": {
+			"j'": "aurais deviné",
+			"tu": "aurais deviné",
+			"il/elle": "aurait deviné",
+			"nous": "aurions deviné",
+			"vous": "auriez deviné",
+			"ils/elles": "auraient deviné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse deviné",
+			"tu": "eusses deviné",
+			"il/elle": "eût deviné",
+			"nous": "eussions deviné",
+			"vous": "eussiez deviné",
+			"ils/elles": "eussent deviné"
+		}
+	},
+	"participe": {
+		"présent": { "devinant": "" },
+		"passé composé": { "ayant": "deviné" },
+		"passé": {
+			"masc.sg.:": "deviné",
+			"masc.pl.:": "devinés",
+			"fém.sg.:": "devinée",
+			"fém.pl.:": "devinées"
+		}
+	},
+	"imperatif": {
+		"présent": { "devine": "", "devinons": "", "devinez": "" },
+		"passé": { "aie": "deviné", "ayons": "deviné", "ayez": "deviné" }
+	},
+	"infinitif": { "présent": { "deviner": "" }, "passé": { "avoir": "deviné" } }
+}

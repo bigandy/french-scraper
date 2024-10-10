@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "preserve; maintain; safeguard; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se préserver/ne pas préserver/ne pas se préserver",
+	"indicatif": {
+		"présent": {
+			"je": "préserve",
+			"tu": "préserves",
+			"il/elle": "préserve",
+			"nous": "préservons",
+			"vous": "préservez",
+			"ils/elles": "préservent"
+		},
+		"imparfait": {
+			"je": "préservais",
+			"tu": "préservais",
+			"il/elle": "préservait",
+			"nous": "préservions",
+			"vous": "préserviez",
+			"ils/elles": "préservaient"
+		},
+		"futur": {
+			"je": "préserverai",
+			"tu": "préserveras",
+			"il/elle": "préservera",
+			"nous": "préserverons",
+			"vous": "préserverez",
+			"ils/elles": "préserveront"
+		},
+		"passé simple": {
+			"je": "préservai",
+			"tu": "préservas",
+			"il/elle": "préserva",
+			"nous": "préservâmes",
+			"vous": "préservâtes",
+			"ils/elles": "préservèrent"
+		},
+		"passé composé": {
+			"j'": "ai préservé",
+			"tu": "as préservé",
+			"il/elle": "a préservé",
+			"nous": "avons préservé",
+			"vous": "avez préservé",
+			"ils/elles": "ont préservé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais préservé",
+			"tu": "avais préservé",
+			"il/elle": "avait préservé",
+			"nous": "avions préservé",
+			"vous": "aviez préservé",
+			"ils/elles": "avaient préservé"
+		},
+		"passé antérieur": {
+			"j'": "eus préservé",
+			"tu": "eus préservé",
+			"il/elle": "eut préservé",
+			"nous": "eûmes préservé",
+			"vous": "eûtes préservé",
+			"ils/elles": "eurent préservé"
+		},
+		"futur antérieur": {
+			"j'": "aurai préservé",
+			"tu": "auras préservé",
+			"il/elle": "aura préservé",
+			"nous": "aurons préservé",
+			"vous": "aurez préservé",
+			"ils/elles": "auront préservé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous préserviez",
+			"qu'il/elle": "préserve",
+			"qu'ils/elles": "préservent"
+		},
+		"imparfait": {
+			"que": "vous préservassiez",
+			"qu'il/elle": "préservât",
+			"qu'ils/elles": "préservassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse préservé",
+			"que": "vous eussiez préservé",
+			"qu'il/elle": "eût préservé",
+			"qu'ils/elles": "eussent préservé"
+		},
+		"passé": {
+			"j'": "aie préservé",
+			"que": "vous ayez préservé",
+			"qu'il/elle": "ait préservé",
+			"qu'ils/elles": "aient préservé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "préserverais",
+			"tu": "préserverais",
+			"il/elle": "préserverait",
+			"nous": "préserverions",
+			"vous": "préserveriez",
+			"ils/elles": "préserveraient"
+		},
+		"passé première forme": {
+			"j'": "aurais préservé",
+			"tu": "aurais préservé",
+			"il/elle": "aurait préservé",
+			"nous": "aurions préservé",
+			"vous": "auriez préservé",
+			"ils/elles": "auraient préservé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse préservé",
+			"tu": "eusses préservé",
+			"il/elle": "eût préservé",
+			"nous": "eussions préservé",
+			"vous": "eussiez préservé",
+			"ils/elles": "eussent préservé"
+		}
+	},
+	"participe": {
+		"présent": { "préservant": "" },
+		"passé composé": { "ayant": "préservé" },
+		"passé": {
+			"masc.sg.:": "préservé",
+			"masc.pl.:": "préservés",
+			"fém.sg.:": "préservée",
+			"fém.pl.:": "préservées"
+		}
+	},
+	"imperatif": {
+		"présent": { "préserve": "", "préservons": "", "préservez": "" },
+		"passé": { "aie": "préservé", "ayons": "préservé", "ayez": "préservé" }
+	},
+	"infinitif": {
+		"présent": { "préserver": "" },
+		"passé": { "avoir": "préservé" }
+	}
+}

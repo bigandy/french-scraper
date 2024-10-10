@@ -1,0 +1,140 @@
+{
+	"name": "émouvoir",
+	"definition": "move; stir; ...",
+	"model": "émouvoir",
+	"auxiliary": "avoir",
+	"otherForms": "s'émouvoir/ne pas émouvoir/ne pas s'émouvoir",
+	"indicatif": {
+		"présent": {
+			"j'": "émeus",
+			"tu": "émeus",
+			"il/elle": "émeut",
+			"nous": "émouvons",
+			"vous": "émouvez",
+			"ils/elles": "émeuvent"
+		},
+		"imparfait": {
+			"j'": "émouvais",
+			"tu": "émouvais",
+			"il/elle": "émouvait",
+			"nous": "émouvions",
+			"vous": "émouviez",
+			"ils/elles": "émouvaient"
+		},
+		"futur": {
+			"j'": "émouvrai",
+			"tu": "émouvras",
+			"il/elle": "émouvra",
+			"nous": "émouvrons",
+			"vous": "émouvrez",
+			"ils/elles": "émouvront"
+		},
+		"passé simple": {
+			"j'": "émus",
+			"tu": "émus",
+			"il/elle": "émut",
+			"nous": "émûmes",
+			"vous": "émûtes",
+			"ils/elles": "émurent"
+		},
+		"passé composé": {
+			"j'": "ai ému",
+			"tu": "as ému",
+			"il/elle": "a ému",
+			"nous": "avons ému",
+			"vous": "avez ému",
+			"ils/elles": "ont ému"
+		},
+		"plus-que-parfait": {
+			"j'": "avais ému",
+			"tu": "avais ému",
+			"il/elle": "avait ému",
+			"nous": "avions ému",
+			"vous": "aviez ému",
+			"ils/elles": "avaient ému"
+		},
+		"passé antérieur": {
+			"j'": "eus ému",
+			"tu": "eus ému",
+			"il/elle": "eut ému",
+			"nous": "eûmes ému",
+			"vous": "eûtes ému",
+			"ils/elles": "eurent ému"
+		},
+		"futur antérieur": {
+			"j'": "aurai ému",
+			"tu": "auras ému",
+			"il/elle": "aura ému",
+			"nous": "aurons ému",
+			"vous": "aurez ému",
+			"ils/elles": "auront ému"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "émeuve",
+			"que": "vous émouviez",
+			"qu'il/elle": "émeuve",
+			"qu'ils/elles": "émeuvent"
+		},
+		"imparfait": {
+			"j'": "émusse",
+			"que": "vous émussiez",
+			"qu'il/elle": "émût",
+			"qu'ils/elles": "émussent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse ému",
+			"que": "vous eussiez ému",
+			"qu'il/elle": "eût ému",
+			"qu'ils/elles": "eussent ému"
+		},
+		"passé": {
+			"j'": "aie ému",
+			"que": "vous ayez ému",
+			"qu'il/elle": "ait ému",
+			"qu'ils/elles": "aient ému"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "émouvrais",
+			"tu": "émouvrais",
+			"il/elle": "émouvrait",
+			"nous": "émouvrions",
+			"vous": "émouvriez",
+			"ils/elles": "émouvraient"
+		},
+		"passé première forme": {
+			"j'": "aurais ému",
+			"tu": "aurais ému",
+			"il/elle": "aurait ému",
+			"nous": "aurions ému",
+			"vous": "auriez ému",
+			"ils/elles": "auraient ému"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse ému",
+			"tu": "eusses ému",
+			"il/elle": "eût ému",
+			"nous": "eussions ému",
+			"vous": "eussiez ému",
+			"ils/elles": "eussent ému"
+		}
+	},
+	"participe": {
+		"présent": { "émouvant": "" },
+		"passé composé": { "ayant": "ému" },
+		"passé": {
+			"masc.sg.:": "ému",
+			"masc.pl.:": "émus",
+			"fém.sg.:": "émue",
+			"fém.pl.:": "émues"
+		}
+	},
+	"imperatif": {
+		"présent": { "émeus": "", "émouvons": "", "émouvez": "" },
+		"passé": { "aie": "ému", "ayons": "ému", "ayez": "ému" }
+	},
+	"infinitif": { "présent": { "émouvoir": "" }, "passé": { "avoir": "ému" } }
+}

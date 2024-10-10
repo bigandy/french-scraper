@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "consider; examine; review; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'examiner/ne pas examiner/ne pas s'examiner",
+	"indicatif": {
+		"présent": {
+			"j'": "examine",
+			"tu": "examines",
+			"il/elle": "examine",
+			"nous": "examinons",
+			"vous": "examinez",
+			"ils/elles": "examinent"
+		},
+		"imparfait": {
+			"j'": "examinais",
+			"tu": "examinais",
+			"il/elle": "examinait",
+			"nous": "examinions",
+			"vous": "examiniez",
+			"ils/elles": "examinaient"
+		},
+		"futur": {
+			"j'": "examinerai",
+			"tu": "examineras",
+			"il/elle": "examinera",
+			"nous": "examinerons",
+			"vous": "examinerez",
+			"ils/elles": "examineront"
+		},
+		"passé simple": {
+			"j'": "examinai",
+			"tu": "examinas",
+			"il/elle": "examina",
+			"nous": "examinâmes",
+			"vous": "examinâtes",
+			"ils/elles": "examinèrent"
+		},
+		"passé composé": {
+			"j'": "ai examiné",
+			"tu": "as examiné",
+			"il/elle": "a examiné",
+			"nous": "avons examiné",
+			"vous": "avez examiné",
+			"ils/elles": "ont examiné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais examiné",
+			"tu": "avais examiné",
+			"il/elle": "avait examiné",
+			"nous": "avions examiné",
+			"vous": "aviez examiné",
+			"ils/elles": "avaient examiné"
+		},
+		"passé antérieur": {
+			"j'": "eus examiné",
+			"tu": "eus examiné",
+			"il/elle": "eut examiné",
+			"nous": "eûmes examiné",
+			"vous": "eûtes examiné",
+			"ils/elles": "eurent examiné"
+		},
+		"futur antérieur": {
+			"j'": "aurai examiné",
+			"tu": "auras examiné",
+			"il/elle": "aura examiné",
+			"nous": "aurons examiné",
+			"vous": "aurez examiné",
+			"ils/elles": "auront examiné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "examine",
+			"que": "vous examiniez",
+			"qu'il/elle": "examine",
+			"qu'ils/elles": "examinent"
+		},
+		"imparfait": {
+			"j'": "examinasse",
+			"que": "vous examinassiez",
+			"qu'il/elle": "examinât",
+			"qu'ils/elles": "examinassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse examiné",
+			"que": "vous eussiez examiné",
+			"qu'il/elle": "eût examiné",
+			"qu'ils/elles": "eussent examiné"
+		},
+		"passé": {
+			"j'": "aie examiné",
+			"que": "vous ayez examiné",
+			"qu'il/elle": "ait examiné",
+			"qu'ils/elles": "aient examiné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "examinerais",
+			"tu": "examinerais",
+			"il/elle": "examinerait",
+			"nous": "examinerions",
+			"vous": "examineriez",
+			"ils/elles": "examineraient"
+		},
+		"passé première forme": {
+			"j'": "aurais examiné",
+			"tu": "aurais examiné",
+			"il/elle": "aurait examiné",
+			"nous": "aurions examiné",
+			"vous": "auriez examiné",
+			"ils/elles": "auraient examiné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse examiné",
+			"tu": "eusses examiné",
+			"il/elle": "eût examiné",
+			"nous": "eussions examiné",
+			"vous": "eussiez examiné",
+			"ils/elles": "eussent examiné"
+		}
+	},
+	"participe": {
+		"présent": { "examinant": "" },
+		"passé composé": { "ayant": "examiné" },
+		"passé": {
+			"masc.sg.:": "examiné",
+			"masc.pl.:": "examinés",
+			"fém.sg.:": "examinée",
+			"fém.pl.:": "examinées"
+		}
+	},
+	"imperatif": {
+		"présent": { "examine": "", "examinons": "", "examinez": "" },
+		"passé": { "aie": "examiné", "ayons": "examiné", "ayez": "examiné" }
+	},
+	"infinitif": {
+		"présent": { "examiner": "" },
+		"passé": { "avoir": "examiné" }
+	}
+}

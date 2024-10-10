@@ -1,0 +1,141 @@
+{
+	"name": "aérer",
+	"definition": "transfer; move; forward; ...",
+	"model": "aérer",
+	"auxiliary": "avoir",
+	"otherForms": "se transférer/ne pas transférer/ne pas se transférer",
+	"indicatif": {
+		"présent": {
+			"je": "transfère",
+			"tu": "transfères",
+			"il/elle": "transfère",
+			"nous": "transférons",
+			"vous": "transférez",
+			"ils/elles": "transfèrent"
+		},
+		"imparfait": {
+			"je": "transférais",
+			"tu": "transférais",
+			"il/elle": "transférait",
+			"nous": "transférions",
+			"vous": "transfériez",
+			"ils/elles": "transféraient"
+		},
+		"futur": {
+			"je": "transférerai",
+			"tu": "transféreras",
+			"il/elle": "transférera",
+			"nous": "transférerons",
+			"vous": "transférerez",
+			"ils/elles": "transféreront"
+		},
+		"passé simple": {
+			"je": "transférai",
+			"tu": "transféras",
+			"il/elle": "transféra",
+			"nous": "transférâmes",
+			"vous": "transférâtes",
+			"ils/elles": "transférèrent"
+		},
+		"passé composé": {
+			"j'": "ai transféré",
+			"tu": "as transféré",
+			"il/elle": "a transféré",
+			"nous": "avons transféré",
+			"vous": "avez transféré",
+			"ils/elles": "ont transféré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais transféré",
+			"tu": "avais transféré",
+			"il/elle": "avait transféré",
+			"nous": "avions transféré",
+			"vous": "aviez transféré",
+			"ils/elles": "avaient transféré"
+		},
+		"passé antérieur": {
+			"j'": "eus transféré",
+			"tu": "eus transféré",
+			"il/elle": "eut transféré",
+			"nous": "eûmes transféré",
+			"vous": "eûtes transféré",
+			"ils/elles": "eurent transféré"
+		},
+		"futur antérieur": {
+			"j'": "aurai transféré",
+			"tu": "auras transféré",
+			"il/elle": "aura transféré",
+			"nous": "aurons transféré",
+			"vous": "aurez transféré",
+			"ils/elles": "auront transféré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous transfériez",
+			"qu'il/elle": "transfère",
+			"qu'ils/elles": "transfèrent"
+		},
+		"imparfait": {
+			"que": "vous transférassiez",
+			"qu'il/elle": "transférât",
+			"qu'ils/elles": "transférassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse transféré",
+			"que": "vous eussiez transféré",
+			"qu'il/elle": "eût transféré",
+			"qu'ils/elles": "eussent transféré"
+		},
+		"passé": {
+			"j'": "aie transféré",
+			"que": "vous ayez transféré",
+			"qu'il/elle": "ait transféré",
+			"qu'ils/elles": "aient transféré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "transférerais",
+			"tu": "transférerais",
+			"il/elle": "transférerait",
+			"nous": "transférerions",
+			"vous": "transféreriez",
+			"ils/elles": "transféreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais transféré",
+			"tu": "aurais transféré",
+			"il/elle": "aurait transféré",
+			"nous": "aurions transféré",
+			"vous": "auriez transféré",
+			"ils/elles": "auraient transféré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse transféré",
+			"tu": "eusses transféré",
+			"il/elle": "eût transféré",
+			"nous": "eussions transféré",
+			"vous": "eussiez transféré",
+			"ils/elles": "eussent transféré"
+		}
+	},
+	"participe": {
+		"présent": { "transférant": "" },
+		"passé composé": { "ayant": "transféré" },
+		"passé": {
+			"masc.sg.:": "transféré",
+			"masc.pl.:": "transférés",
+			"fém.sg.:": "transférée",
+			"fém.pl.:": "transférées"
+		}
+	},
+	"imperatif": {
+		"présent": { "transfère": "", "transférons": "", "transférez": "" },
+		"passé": { "aie": "transféré", "ayons": "transféré", "ayez": "transféré" }
+	},
+	"infinitif": {
+		"présent": { "transférer": "" },
+		"passé": { "avoir": "transféré" }
+	}
+}

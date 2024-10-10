@@ -1,0 +1,138 @@
+{
+	"name": "manger",
+	"definition": "serve; purge; sentence; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "se purger/ne pas purger/ne pas se purger",
+	"indicatif": {
+		"présent": {
+			"je": "purge",
+			"tu": "purges",
+			"il/elle": "purge",
+			"nous": "purgeons",
+			"vous": "purgez",
+			"ils/elles": "purgent"
+		},
+		"imparfait": {
+			"je": "purgeais",
+			"tu": "purgeais",
+			"il/elle": "purgeait",
+			"nous": "purgions",
+			"vous": "purgiez",
+			"ils/elles": "purgeaient"
+		},
+		"futur": {
+			"je": "purgerai",
+			"tu": "purgeras",
+			"il/elle": "purgera",
+			"nous": "purgerons",
+			"vous": "purgerez",
+			"ils/elles": "purgeront"
+		},
+		"passé simple": {
+			"je": "purgeai",
+			"tu": "purgeas",
+			"il/elle": "purgea",
+			"nous": "purgeâmes",
+			"vous": "purgeâtes",
+			"ils/elles": "purgèrent"
+		},
+		"passé composé": {
+			"j'": "ai purgé",
+			"tu": "as purgé",
+			"il/elle": "a purgé",
+			"nous": "avons purgé",
+			"vous": "avez purgé",
+			"ils/elles": "ont purgé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais purgé",
+			"tu": "avais purgé",
+			"il/elle": "avait purgé",
+			"nous": "avions purgé",
+			"vous": "aviez purgé",
+			"ils/elles": "avaient purgé"
+		},
+		"passé antérieur": {
+			"j'": "eus purgé",
+			"tu": "eus purgé",
+			"il/elle": "eut purgé",
+			"nous": "eûmes purgé",
+			"vous": "eûtes purgé",
+			"ils/elles": "eurent purgé"
+		},
+		"futur antérieur": {
+			"j'": "aurai purgé",
+			"tu": "auras purgé",
+			"il/elle": "aura purgé",
+			"nous": "aurons purgé",
+			"vous": "aurez purgé",
+			"ils/elles": "auront purgé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous purgiez",
+			"qu'il/elle": "purge",
+			"qu'ils/elles": "purgent"
+		},
+		"imparfait": {
+			"que": "vous purgeassiez",
+			"qu'il/elle": "purgeât",
+			"qu'ils/elles": "purgeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse purgé",
+			"que": "vous eussiez purgé",
+			"qu'il/elle": "eût purgé",
+			"qu'ils/elles": "eussent purgé"
+		},
+		"passé": {
+			"j'": "aie purgé",
+			"que": "vous ayez purgé",
+			"qu'il/elle": "ait purgé",
+			"qu'ils/elles": "aient purgé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "purgerais",
+			"tu": "purgerais",
+			"il/elle": "purgerait",
+			"nous": "purgerions",
+			"vous": "purgeriez",
+			"ils/elles": "purgeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais purgé",
+			"tu": "aurais purgé",
+			"il/elle": "aurait purgé",
+			"nous": "aurions purgé",
+			"vous": "auriez purgé",
+			"ils/elles": "auraient purgé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse purgé",
+			"tu": "eusses purgé",
+			"il/elle": "eût purgé",
+			"nous": "eussions purgé",
+			"vous": "eussiez purgé",
+			"ils/elles": "eussent purgé"
+		}
+	},
+	"participe": {
+		"présent": { "purgeant": "" },
+		"passé composé": { "ayant": "purgé" },
+		"passé": {
+			"masc.sg.:": "purgé",
+			"masc.pl.:": "purgés",
+			"fém.sg.:": "purgée",
+			"fém.pl.:": "purgées"
+		}
+	},
+	"imperatif": {
+		"présent": { "purge": "", "purgeons": "", "purgez": "" },
+		"passé": { "aie": "purgé", "ayons": "purgé", "ayez": "purgé" }
+	},
+	"infinitif": { "présent": { "purger": "" }, "passé": { "avoir": "purgé" } }
+}

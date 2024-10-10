@@ -1,0 +1,138 @@
+{
+	"name": "recevoir",
+	"definition": "receive; get; accommodate; ...",
+	"model": "recevoir",
+	"auxiliary": "avoir",
+	"otherForms": "se recevoir/ne pas recevoir/ne pas se recevoir",
+	"indicatif": {
+		"présent": {
+			"je": "reçois",
+			"tu": "reçois",
+			"il/elle": "reçoit",
+			"nous": "recevons",
+			"vous": "recevez",
+			"ils/elles": "reçoivent"
+		},
+		"imparfait": {
+			"je": "recevais",
+			"tu": "recevais",
+			"il/elle": "recevait",
+			"nous": "recevions",
+			"vous": "receviez",
+			"ils/elles": "recevaient"
+		},
+		"futur": {
+			"je": "recevrai",
+			"tu": "recevras",
+			"il/elle": "recevra",
+			"nous": "recevrons",
+			"vous": "recevrez",
+			"ils/elles": "recevront"
+		},
+		"passé simple": {
+			"je": "reçus",
+			"tu": "reçus",
+			"il/elle": "reçut",
+			"nous": "reçûmes",
+			"vous": "reçûtes",
+			"ils/elles": "reçurent"
+		},
+		"passé composé": {
+			"j'": "ai reçu",
+			"tu": "as reçu",
+			"il/elle": "a reçu",
+			"nous": "avons reçu",
+			"vous": "avez reçu",
+			"ils/elles": "ont reçu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais reçu",
+			"tu": "avais reçu",
+			"il/elle": "avait reçu",
+			"nous": "avions reçu",
+			"vous": "aviez reçu",
+			"ils/elles": "avaient reçu"
+		},
+		"passé antérieur": {
+			"j'": "eus reçu",
+			"tu": "eus reçu",
+			"il/elle": "eut reçu",
+			"nous": "eûmes reçu",
+			"vous": "eûtes reçu",
+			"ils/elles": "eurent reçu"
+		},
+		"futur antérieur": {
+			"j'": "aurai reçu",
+			"tu": "auras reçu",
+			"il/elle": "aura reçu",
+			"nous": "aurons reçu",
+			"vous": "aurez reçu",
+			"ils/elles": "auront reçu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous receviez",
+			"qu'il/elle": "reçoive",
+			"qu'ils/elles": "reçoivent"
+		},
+		"imparfait": {
+			"que": "vous reçussiez",
+			"qu'il/elle": "reçût",
+			"qu'ils/elles": "reçussent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse reçu",
+			"que": "vous eussiez reçu",
+			"qu'il/elle": "eût reçu",
+			"qu'ils/elles": "eussent reçu"
+		},
+		"passé": {
+			"j'": "aie reçu",
+			"que": "vous ayez reçu",
+			"qu'il/elle": "ait reçu",
+			"qu'ils/elles": "aient reçu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "recevrais",
+			"tu": "recevrais",
+			"il/elle": "recevrait",
+			"nous": "recevrions",
+			"vous": "recevriez",
+			"ils/elles": "recevraient"
+		},
+		"passé première forme": {
+			"j'": "aurais reçu",
+			"tu": "aurais reçu",
+			"il/elle": "aurait reçu",
+			"nous": "aurions reçu",
+			"vous": "auriez reçu",
+			"ils/elles": "auraient reçu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse reçu",
+			"tu": "eusses reçu",
+			"il/elle": "eût reçu",
+			"nous": "eussions reçu",
+			"vous": "eussiez reçu",
+			"ils/elles": "eussent reçu"
+		}
+	},
+	"participe": {
+		"présent": { "recevant": "" },
+		"passé composé": { "ayant": "reçu" },
+		"passé": {
+			"masc.sg.:": "reçu",
+			"masc.pl.:": "reçus",
+			"fém.sg.:": "reçue",
+			"fém.pl.:": "reçues"
+		}
+	},
+	"imperatif": {
+		"présent": { "reçois": "", "recevons": "", "recevez": "" },
+		"passé": { "aie": "reçu", "ayons": "reçu", "ayez": "reçu" }
+	},
+	"infinitif": { "présent": { "recevoir": "" }, "passé": { "avoir": "reçu" } }
+}

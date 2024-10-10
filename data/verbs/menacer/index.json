@@ -1,0 +1,138 @@
+{
+	"name": "commencer",
+	"definition": "threaten; threat; endanger; ...",
+	"model": "commencer",
+	"auxiliary": "avoir",
+	"otherForms": "se menacer/ne pas menacer/ne pas se menacer",
+	"indicatif": {
+		"présent": {
+			"je": "menace",
+			"tu": "menaces",
+			"il/elle": "menace",
+			"nous": "menaçons",
+			"vous": "menacez",
+			"ils/elles": "menacent"
+		},
+		"imparfait": {
+			"je": "menaçais",
+			"tu": "menaçais",
+			"il/elle": "menaçait",
+			"nous": "menacions",
+			"vous": "menaciez",
+			"ils/elles": "menaçaient"
+		},
+		"futur": {
+			"je": "menacerai",
+			"tu": "menaceras",
+			"il/elle": "menacera",
+			"nous": "menacerons",
+			"vous": "menacerez",
+			"ils/elles": "menaceront"
+		},
+		"passé simple": {
+			"je": "menaçai",
+			"tu": "menaças",
+			"il/elle": "menaça",
+			"nous": "menaçâmes",
+			"vous": "menaçâtes",
+			"ils/elles": "menacèrent"
+		},
+		"passé composé": {
+			"j'": "ai menacé",
+			"tu": "as menacé",
+			"il/elle": "a menacé",
+			"nous": "avons menacé",
+			"vous": "avez menacé",
+			"ils/elles": "ont menacé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais menacé",
+			"tu": "avais menacé",
+			"il/elle": "avait menacé",
+			"nous": "avions menacé",
+			"vous": "aviez menacé",
+			"ils/elles": "avaient menacé"
+		},
+		"passé antérieur": {
+			"j'": "eus menacé",
+			"tu": "eus menacé",
+			"il/elle": "eut menacé",
+			"nous": "eûmes menacé",
+			"vous": "eûtes menacé",
+			"ils/elles": "eurent menacé"
+		},
+		"futur antérieur": {
+			"j'": "aurai menacé",
+			"tu": "auras menacé",
+			"il/elle": "aura menacé",
+			"nous": "aurons menacé",
+			"vous": "aurez menacé",
+			"ils/elles": "auront menacé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous menaciez",
+			"qu'il/elle": "menace",
+			"qu'ils/elles": "menacent"
+		},
+		"imparfait": {
+			"que": "vous menaçassiez",
+			"qu'il/elle": "menaçât",
+			"qu'ils/elles": "menaçassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse menacé",
+			"que": "vous eussiez menacé",
+			"qu'il/elle": "eût menacé",
+			"qu'ils/elles": "eussent menacé"
+		},
+		"passé": {
+			"j'": "aie menacé",
+			"que": "vous ayez menacé",
+			"qu'il/elle": "ait menacé",
+			"qu'ils/elles": "aient menacé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "menacerais",
+			"tu": "menacerais",
+			"il/elle": "menacerait",
+			"nous": "menacerions",
+			"vous": "menaceriez",
+			"ils/elles": "menaceraient"
+		},
+		"passé première forme": {
+			"j'": "aurais menacé",
+			"tu": "aurais menacé",
+			"il/elle": "aurait menacé",
+			"nous": "aurions menacé",
+			"vous": "auriez menacé",
+			"ils/elles": "auraient menacé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse menacé",
+			"tu": "eusses menacé",
+			"il/elle": "eût menacé",
+			"nous": "eussions menacé",
+			"vous": "eussiez menacé",
+			"ils/elles": "eussent menacé"
+		}
+	},
+	"participe": {
+		"présent": { "menaçant": "" },
+		"passé composé": { "ayant": "menacé" },
+		"passé": {
+			"masc.sg.:": "menacé",
+			"masc.pl.:": "menacés",
+			"fém.sg.:": "menacée",
+			"fém.pl.:": "menacées"
+		}
+	},
+	"imperatif": {
+		"présent": { "menace": "", "menaçons": "", "menacez": "" },
+		"passé": { "aie": "menacé", "ayons": "menacé", "ayez": "menacé" }
+	},
+	"infinitif": { "présent": { "menacer": "" }, "passé": { "avoir": "menacé" } }
+}

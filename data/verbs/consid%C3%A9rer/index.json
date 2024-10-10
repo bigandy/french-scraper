@@ -1,0 +1,141 @@
+{
+	"name": "aérer",
+	"definition": "consider; be considered; regard; ...",
+	"model": "aérer",
+	"auxiliary": "avoir",
+	"otherForms": "se considérer/ne pas considérer/ne pas se considérer",
+	"indicatif": {
+		"présent": {
+			"je": "considère",
+			"tu": "considères",
+			"il/elle": "considère",
+			"nous": "considérons",
+			"vous": "considérez",
+			"ils/elles": "considèrent"
+		},
+		"imparfait": {
+			"je": "considérais",
+			"tu": "considérais",
+			"il/elle": "considérait",
+			"nous": "considérions",
+			"vous": "considériez",
+			"ils/elles": "considéraient"
+		},
+		"futur": {
+			"je": "considérerai",
+			"tu": "considéreras",
+			"il/elle": "considérera",
+			"nous": "considérerons",
+			"vous": "considérerez",
+			"ils/elles": "considéreront"
+		},
+		"passé simple": {
+			"je": "considérai",
+			"tu": "considéras",
+			"il/elle": "considéra",
+			"nous": "considérâmes",
+			"vous": "considérâtes",
+			"ils/elles": "considérèrent"
+		},
+		"passé composé": {
+			"j'": "ai considéré",
+			"tu": "as considéré",
+			"il/elle": "a considéré",
+			"nous": "avons considéré",
+			"vous": "avez considéré",
+			"ils/elles": "ont considéré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais considéré",
+			"tu": "avais considéré",
+			"il/elle": "avait considéré",
+			"nous": "avions considéré",
+			"vous": "aviez considéré",
+			"ils/elles": "avaient considéré"
+		},
+		"passé antérieur": {
+			"j'": "eus considéré",
+			"tu": "eus considéré",
+			"il/elle": "eut considéré",
+			"nous": "eûmes considéré",
+			"vous": "eûtes considéré",
+			"ils/elles": "eurent considéré"
+		},
+		"futur antérieur": {
+			"j'": "aurai considéré",
+			"tu": "auras considéré",
+			"il/elle": "aura considéré",
+			"nous": "aurons considéré",
+			"vous": "aurez considéré",
+			"ils/elles": "auront considéré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous considériez",
+			"qu'il/elle": "considère",
+			"qu'ils/elles": "considèrent"
+		},
+		"imparfait": {
+			"que": "vous considérassiez",
+			"qu'il/elle": "considérât",
+			"qu'ils/elles": "considérassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse considéré",
+			"que": "vous eussiez considéré",
+			"qu'il/elle": "eût considéré",
+			"qu'ils/elles": "eussent considéré"
+		},
+		"passé": {
+			"j'": "aie considéré",
+			"que": "vous ayez considéré",
+			"qu'il/elle": "ait considéré",
+			"qu'ils/elles": "aient considéré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "considérerais",
+			"tu": "considérerais",
+			"il/elle": "considérerait",
+			"nous": "considérerions",
+			"vous": "considéreriez",
+			"ils/elles": "considéreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais considéré",
+			"tu": "aurais considéré",
+			"il/elle": "aurait considéré",
+			"nous": "aurions considéré",
+			"vous": "auriez considéré",
+			"ils/elles": "auraient considéré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse considéré",
+			"tu": "eusses considéré",
+			"il/elle": "eût considéré",
+			"nous": "eussions considéré",
+			"vous": "eussiez considéré",
+			"ils/elles": "eussent considéré"
+		}
+	},
+	"participe": {
+		"présent": { "considérant": "" },
+		"passé composé": { "ayant": "considéré" },
+		"passé": {
+			"masc.sg.:": "considéré",
+			"masc.pl.:": "considérés",
+			"fém.sg.:": "considérée",
+			"fém.pl.:": "considérées"
+		}
+	},
+	"imperatif": {
+		"présent": { "considère": "", "considérons": "", "considérez": "" },
+		"passé": { "aie": "considéré", "ayons": "considéré", "ayez": "considéré" }
+	},
+	"infinitif": {
+		"présent": { "considérer": "" },
+		"passé": { "avoir": "considéré" }
+	}
+}

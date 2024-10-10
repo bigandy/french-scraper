@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "mark; score; label; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se marquer/ne pas marquer/ne pas se marquer",
+	"indicatif": {
+		"présent": {
+			"je": "marque",
+			"tu": "marques",
+			"il/elle": "marque",
+			"nous": "marquons",
+			"vous": "marquez",
+			"ils/elles": "marquent"
+		},
+		"imparfait": {
+			"je": "marquais",
+			"tu": "marquais",
+			"il/elle": "marquait",
+			"nous": "marquions",
+			"vous": "marquiez",
+			"ils/elles": "marquaient"
+		},
+		"futur": {
+			"je": "marquerai",
+			"tu": "marqueras",
+			"il/elle": "marquera",
+			"nous": "marquerons",
+			"vous": "marquerez",
+			"ils/elles": "marqueront"
+		},
+		"passé simple": {
+			"je": "marquai",
+			"tu": "marquas",
+			"il/elle": "marqua",
+			"nous": "marquâmes",
+			"vous": "marquâtes",
+			"ils/elles": "marquèrent"
+		},
+		"passé composé": {
+			"j'": "ai marqué",
+			"tu": "as marqué",
+			"il/elle": "a marqué",
+			"nous": "avons marqué",
+			"vous": "avez marqué",
+			"ils/elles": "ont marqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais marqué",
+			"tu": "avais marqué",
+			"il/elle": "avait marqué",
+			"nous": "avions marqué",
+			"vous": "aviez marqué",
+			"ils/elles": "avaient marqué"
+		},
+		"passé antérieur": {
+			"j'": "eus marqué",
+			"tu": "eus marqué",
+			"il/elle": "eut marqué",
+			"nous": "eûmes marqué",
+			"vous": "eûtes marqué",
+			"ils/elles": "eurent marqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai marqué",
+			"tu": "auras marqué",
+			"il/elle": "aura marqué",
+			"nous": "aurons marqué",
+			"vous": "aurez marqué",
+			"ils/elles": "auront marqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous marquiez",
+			"qu'il/elle": "marque",
+			"qu'ils/elles": "marquent"
+		},
+		"imparfait": {
+			"que": "vous marquassiez",
+			"qu'il/elle": "marquât",
+			"qu'ils/elles": "marquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse marqué",
+			"que": "vous eussiez marqué",
+			"qu'il/elle": "eût marqué",
+			"qu'ils/elles": "eussent marqué"
+		},
+		"passé": {
+			"j'": "aie marqué",
+			"que": "vous ayez marqué",
+			"qu'il/elle": "ait marqué",
+			"qu'ils/elles": "aient marqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "marquerais",
+			"tu": "marquerais",
+			"il/elle": "marquerait",
+			"nous": "marquerions",
+			"vous": "marqueriez",
+			"ils/elles": "marqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais marqué",
+			"tu": "aurais marqué",
+			"il/elle": "aurait marqué",
+			"nous": "aurions marqué",
+			"vous": "auriez marqué",
+			"ils/elles": "auraient marqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse marqué",
+			"tu": "eusses marqué",
+			"il/elle": "eût marqué",
+			"nous": "eussions marqué",
+			"vous": "eussiez marqué",
+			"ils/elles": "eussent marqué"
+		}
+	},
+	"participe": {
+		"présent": { "marquant": "" },
+		"passé composé": { "ayant": "marqué" },
+		"passé": {
+			"masc.sg.:": "marqué",
+			"masc.pl.:": "marqués",
+			"fém.sg.:": "marquée",
+			"fém.pl.:": "marquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "marque": "", "marquons": "", "marquez": "" },
+		"passé": { "aie": "marqué", "ayons": "marqué", "ayez": "marqué" }
+	},
+	"infinitif": { "présent": { "marquer": "" }, "passé": { "avoir": "marqué" } }
+}

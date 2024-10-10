@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "reassure; assure; comfort; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se rassurer/ne pas rassurer/ne pas se rassurer",
+	"indicatif": {
+		"présent": {
+			"je": "rassure",
+			"tu": "rassures",
+			"il/elle": "rassure",
+			"nous": "rassurons",
+			"vous": "rassurez",
+			"ils/elles": "rassurent"
+		},
+		"imparfait": {
+			"je": "rassurais",
+			"tu": "rassurais",
+			"il/elle": "rassurait",
+			"nous": "rassurions",
+			"vous": "rassuriez",
+			"ils/elles": "rassuraient"
+		},
+		"futur": {
+			"je": "rassurerai",
+			"tu": "rassureras",
+			"il/elle": "rassurera",
+			"nous": "rassurerons",
+			"vous": "rassurerez",
+			"ils/elles": "rassureront"
+		},
+		"passé simple": {
+			"je": "rassurai",
+			"tu": "rassuras",
+			"il/elle": "rassura",
+			"nous": "rassurâmes",
+			"vous": "rassurâtes",
+			"ils/elles": "rassurèrent"
+		},
+		"passé composé": {
+			"j'": "ai rassuré",
+			"tu": "as rassuré",
+			"il/elle": "a rassuré",
+			"nous": "avons rassuré",
+			"vous": "avez rassuré",
+			"ils/elles": "ont rassuré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais rassuré",
+			"tu": "avais rassuré",
+			"il/elle": "avait rassuré",
+			"nous": "avions rassuré",
+			"vous": "aviez rassuré",
+			"ils/elles": "avaient rassuré"
+		},
+		"passé antérieur": {
+			"j'": "eus rassuré",
+			"tu": "eus rassuré",
+			"il/elle": "eut rassuré",
+			"nous": "eûmes rassuré",
+			"vous": "eûtes rassuré",
+			"ils/elles": "eurent rassuré"
+		},
+		"futur antérieur": {
+			"j'": "aurai rassuré",
+			"tu": "auras rassuré",
+			"il/elle": "aura rassuré",
+			"nous": "aurons rassuré",
+			"vous": "aurez rassuré",
+			"ils/elles": "auront rassuré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous rassuriez",
+			"qu'il/elle": "rassure",
+			"qu'ils/elles": "rassurent"
+		},
+		"imparfait": {
+			"que": "vous rassurassiez",
+			"qu'il/elle": "rassurât",
+			"qu'ils/elles": "rassurassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse rassuré",
+			"que": "vous eussiez rassuré",
+			"qu'il/elle": "eût rassuré",
+			"qu'ils/elles": "eussent rassuré"
+		},
+		"passé": {
+			"j'": "aie rassuré",
+			"que": "vous ayez rassuré",
+			"qu'il/elle": "ait rassuré",
+			"qu'ils/elles": "aient rassuré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "rassurerais",
+			"tu": "rassurerais",
+			"il/elle": "rassurerait",
+			"nous": "rassurerions",
+			"vous": "rassureriez",
+			"ils/elles": "rassureraient"
+		},
+		"passé première forme": {
+			"j'": "aurais rassuré",
+			"tu": "aurais rassuré",
+			"il/elle": "aurait rassuré",
+			"nous": "aurions rassuré",
+			"vous": "auriez rassuré",
+			"ils/elles": "auraient rassuré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse rassuré",
+			"tu": "eusses rassuré",
+			"il/elle": "eût rassuré",
+			"nous": "eussions rassuré",
+			"vous": "eussiez rassuré",
+			"ils/elles": "eussent rassuré"
+		}
+	},
+	"participe": {
+		"présent": { "rassurant": "" },
+		"passé composé": { "ayant": "rassuré" },
+		"passé": {
+			"masc.sg.:": "rassuré",
+			"masc.pl.:": "rassurés",
+			"fém.sg.:": "rassurée",
+			"fém.pl.:": "rassurées"
+		}
+	},
+	"imperatif": {
+		"présent": { "rassure": "", "rassurons": "", "rassurez": "" },
+		"passé": { "aie": "rassuré", "ayons": "rassuré", "ayez": "rassuré" }
+	},
+	"infinitif": {
+		"présent": { "rassurer": "" },
+		"passé": { "avoir": "rassuré" }
+	}
+}

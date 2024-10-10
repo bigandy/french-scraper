@@ -1,0 +1,147 @@
+{
+	"name": "marcher",
+	"definition": "",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'outre-passer/ne pas outre-passer/ne pas s'outre-passer",
+	"indicatif": {
+		"présent": {
+			"j'": "outre-passe",
+			"tu": "outre-passes",
+			"il/elle": "outre-passe",
+			"nous": "outre-passons",
+			"vous": "outre-passez",
+			"ils/elles": "outre-passent"
+		},
+		"imparfait": {
+			"j'": "outre-passais",
+			"tu": "outre-passais",
+			"il/elle": "outre-passait",
+			"nous": "outre-passions",
+			"vous": "outre-passiez",
+			"ils/elles": "outre-passaient"
+		},
+		"futur": {
+			"j'": "outre-passerai",
+			"tu": "outre-passeras",
+			"il/elle": "outre-passera",
+			"nous": "outre-passerons",
+			"vous": "outre-passerez",
+			"ils/elles": "outre-passeront"
+		},
+		"passé simple": {
+			"j'": "outre-passai",
+			"tu": "outre-passas",
+			"il/elle": "outre-passa",
+			"nous": "outre-passâmes",
+			"vous": "outre-passâtes",
+			"ils/elles": "outre-passèrent"
+		},
+		"passé composé": {
+			"j'": "ai outre-passé",
+			"tu": "as outre-passé",
+			"il/elle": "a outre-passé",
+			"nous": "avons outre-passé",
+			"vous": "avez outre-passé",
+			"ils/elles": "ont outre-passé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais outre-passé",
+			"tu": "avais outre-passé",
+			"il/elle": "avait outre-passé",
+			"nous": "avions outre-passé",
+			"vous": "aviez outre-passé",
+			"ils/elles": "avaient outre-passé"
+		},
+		"passé antérieur": {
+			"j'": "eus outre-passé",
+			"tu": "eus outre-passé",
+			"il/elle": "eut outre-passé",
+			"nous": "eûmes outre-passé",
+			"vous": "eûtes outre-passé",
+			"ils/elles": "eurent outre-passé"
+		},
+		"futur antérieur": {
+			"j'": "aurai outre-passé",
+			"tu": "auras outre-passé",
+			"il/elle": "aura outre-passé",
+			"nous": "aurons outre-passé",
+			"vous": "aurez outre-passé",
+			"ils/elles": "auront outre-passé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "outre-passe",
+			"que": "vous outre-passiez",
+			"qu'il/elle": "outre-passe",
+			"qu'ils/elles": "outre-passent"
+		},
+		"imparfait": {
+			"j'": "outre-passasse",
+			"que": "vous outre-passassiez",
+			"qu'il/elle": "outre-passât",
+			"qu'ils/elles": "outre-passassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse outre-passé",
+			"que": "vous eussiez outre-passé",
+			"qu'il/elle": "eût outre-passé",
+			"qu'ils/elles": "eussent outre-passé"
+		},
+		"passé": {
+			"j'": "aie outre-passé",
+			"que": "vous ayez outre-passé",
+			"qu'il/elle": "ait outre-passé",
+			"qu'ils/elles": "aient outre-passé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "outre-passerais",
+			"tu": "outre-passerais",
+			"il/elle": "outre-passerait",
+			"nous": "outre-passerions",
+			"vous": "outre-passeriez",
+			"ils/elles": "outre-passeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais outre-passé",
+			"tu": "aurais outre-passé",
+			"il/elle": "aurait outre-passé",
+			"nous": "aurions outre-passé",
+			"vous": "auriez outre-passé",
+			"ils/elles": "auraient outre-passé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse outre-passé",
+			"tu": "eusses outre-passé",
+			"il/elle": "eût outre-passé",
+			"nous": "eussions outre-passé",
+			"vous": "eussiez outre-passé",
+			"ils/elles": "eussent outre-passé"
+		}
+	},
+	"participe": {
+		"présent": { "outre-passant": "" },
+		"passé composé": { "ayant": "outre-passé" },
+		"passé": {
+			"masc.sg.:": "outre-passé",
+			"masc.pl.:": "outre-passés",
+			"fém.sg.:": "outre-passée",
+			"fém.pl.:": "outre-passées"
+		}
+	},
+	"imperatif": {
+		"présent": { "outre-passe": "", "outre-passons": "", "outre-passez": "" },
+		"passé": {
+			"aie": "outre-passé",
+			"ayons": "outre-passé",
+			"ayez": "outre-passé"
+		}
+	},
+	"infinitif": {
+		"présent": { "outre-passer": "" },
+		"passé": { "avoir": "outre-passé" }
+	}
+}

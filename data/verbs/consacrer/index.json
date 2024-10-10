@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "devote; spend; dedicate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se consacrer/ne pas consacrer/ne pas se consacrer",
+	"indicatif": {
+		"présent": {
+			"je": "consacre",
+			"tu": "consacres",
+			"il/elle": "consacre",
+			"nous": "consacrons",
+			"vous": "consacrez",
+			"ils/elles": "consacrent"
+		},
+		"imparfait": {
+			"je": "consacrais",
+			"tu": "consacrais",
+			"il/elle": "consacrait",
+			"nous": "consacrions",
+			"vous": "consacriez",
+			"ils/elles": "consacraient"
+		},
+		"futur": {
+			"je": "consacrerai",
+			"tu": "consacreras",
+			"il/elle": "consacrera",
+			"nous": "consacrerons",
+			"vous": "consacrerez",
+			"ils/elles": "consacreront"
+		},
+		"passé simple": {
+			"je": "consacrai",
+			"tu": "consacras",
+			"il/elle": "consacra",
+			"nous": "consacrâmes",
+			"vous": "consacrâtes",
+			"ils/elles": "consacrèrent"
+		},
+		"passé composé": {
+			"j'": "ai consacré",
+			"tu": "as consacré",
+			"il/elle": "a consacré",
+			"nous": "avons consacré",
+			"vous": "avez consacré",
+			"ils/elles": "ont consacré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais consacré",
+			"tu": "avais consacré",
+			"il/elle": "avait consacré",
+			"nous": "avions consacré",
+			"vous": "aviez consacré",
+			"ils/elles": "avaient consacré"
+		},
+		"passé antérieur": {
+			"j'": "eus consacré",
+			"tu": "eus consacré",
+			"il/elle": "eut consacré",
+			"nous": "eûmes consacré",
+			"vous": "eûtes consacré",
+			"ils/elles": "eurent consacré"
+		},
+		"futur antérieur": {
+			"j'": "aurai consacré",
+			"tu": "auras consacré",
+			"il/elle": "aura consacré",
+			"nous": "aurons consacré",
+			"vous": "aurez consacré",
+			"ils/elles": "auront consacré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous consacriez",
+			"qu'il/elle": "consacre",
+			"qu'ils/elles": "consacrent"
+		},
+		"imparfait": {
+			"que": "vous consacrassiez",
+			"qu'il/elle": "consacrât",
+			"qu'ils/elles": "consacrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse consacré",
+			"que": "vous eussiez consacré",
+			"qu'il/elle": "eût consacré",
+			"qu'ils/elles": "eussent consacré"
+		},
+		"passé": {
+			"j'": "aie consacré",
+			"que": "vous ayez consacré",
+			"qu'il/elle": "ait consacré",
+			"qu'ils/elles": "aient consacré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "consacrerais",
+			"tu": "consacrerais",
+			"il/elle": "consacrerait",
+			"nous": "consacrerions",
+			"vous": "consacreriez",
+			"ils/elles": "consacreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais consacré",
+			"tu": "aurais consacré",
+			"il/elle": "aurait consacré",
+			"nous": "aurions consacré",
+			"vous": "auriez consacré",
+			"ils/elles": "auraient consacré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse consacré",
+			"tu": "eusses consacré",
+			"il/elle": "eût consacré",
+			"nous": "eussions consacré",
+			"vous": "eussiez consacré",
+			"ils/elles": "eussent consacré"
+		}
+	},
+	"participe": {
+		"présent": { "consacrant": "" },
+		"passé composé": { "ayant": "consacré" },
+		"passé": {
+			"masc.sg.:": "consacré",
+			"masc.pl.:": "consacrés",
+			"fém.sg.:": "consacrée",
+			"fém.pl.:": "consacrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "consacre": "", "consacrons": "", "consacrez": "" },
+		"passé": { "aie": "consacré", "ayons": "consacré", "ayez": "consacré" }
+	},
+	"infinitif": {
+		"présent": { "consacrer": "" },
+		"passé": { "avoir": "consacré" }
+	}
+}

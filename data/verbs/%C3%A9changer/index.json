@@ -1,0 +1,143 @@
+{
+	"name": "manger",
+	"definition": "exchange; share; trade; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "s'échanger/ne pas échanger/ne pas s'échanger",
+	"indicatif": {
+		"présent": {
+			"j'": "échange",
+			"tu": "échanges",
+			"il/elle": "échange",
+			"nous": "échangeons",
+			"vous": "échangez",
+			"ils/elles": "échangent"
+		},
+		"imparfait": {
+			"j'": "échangeais",
+			"tu": "échangeais",
+			"il/elle": "échangeait",
+			"nous": "échangions",
+			"vous": "échangiez",
+			"ils/elles": "échangeaient"
+		},
+		"futur": {
+			"j'": "échangerai",
+			"tu": "échangeras",
+			"il/elle": "échangera",
+			"nous": "échangerons",
+			"vous": "échangerez",
+			"ils/elles": "échangeront"
+		},
+		"passé simple": {
+			"j'": "échangeai",
+			"tu": "échangeas",
+			"il/elle": "échangea",
+			"nous": "échangeâmes",
+			"vous": "échangeâtes",
+			"ils/elles": "échangèrent"
+		},
+		"passé composé": {
+			"j'": "ai échangé",
+			"tu": "as échangé",
+			"il/elle": "a échangé",
+			"nous": "avons échangé",
+			"vous": "avez échangé",
+			"ils/elles": "ont échangé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais échangé",
+			"tu": "avais échangé",
+			"il/elle": "avait échangé",
+			"nous": "avions échangé",
+			"vous": "aviez échangé",
+			"ils/elles": "avaient échangé"
+		},
+		"passé antérieur": {
+			"j'": "eus échangé",
+			"tu": "eus échangé",
+			"il/elle": "eut échangé",
+			"nous": "eûmes échangé",
+			"vous": "eûtes échangé",
+			"ils/elles": "eurent échangé"
+		},
+		"futur antérieur": {
+			"j'": "aurai échangé",
+			"tu": "auras échangé",
+			"il/elle": "aura échangé",
+			"nous": "aurons échangé",
+			"vous": "aurez échangé",
+			"ils/elles": "auront échangé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "échange",
+			"que": "vous échangiez",
+			"qu'il/elle": "échange",
+			"qu'ils/elles": "échangent"
+		},
+		"imparfait": {
+			"j'": "échangeasse",
+			"que": "vous échangeassiez",
+			"qu'il/elle": "échangeât",
+			"qu'ils/elles": "échangeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse échangé",
+			"que": "vous eussiez échangé",
+			"qu'il/elle": "eût échangé",
+			"qu'ils/elles": "eussent échangé"
+		},
+		"passé": {
+			"j'": "aie échangé",
+			"que": "vous ayez échangé",
+			"qu'il/elle": "ait échangé",
+			"qu'ils/elles": "aient échangé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "échangerais",
+			"tu": "échangerais",
+			"il/elle": "échangerait",
+			"nous": "échangerions",
+			"vous": "échangeriez",
+			"ils/elles": "échangeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais échangé",
+			"tu": "aurais échangé",
+			"il/elle": "aurait échangé",
+			"nous": "aurions échangé",
+			"vous": "auriez échangé",
+			"ils/elles": "auraient échangé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse échangé",
+			"tu": "eusses échangé",
+			"il/elle": "eût échangé",
+			"nous": "eussions échangé",
+			"vous": "eussiez échangé",
+			"ils/elles": "eussent échangé"
+		}
+	},
+	"participe": {
+		"présent": { "échangeant": "" },
+		"passé composé": { "ayant": "échangé" },
+		"passé": {
+			"masc.sg.:": "échangé",
+			"masc.pl.:": "échangés",
+			"fém.sg.:": "échangée",
+			"fém.pl.:": "échangées"
+		}
+	},
+	"imperatif": {
+		"présent": { "échange": "", "échangeons": "", "échangez": "" },
+		"passé": { "aie": "échangé", "ayons": "échangé", "ayez": "échangé" }
+	},
+	"infinitif": {
+		"présent": { "échanger": "" },
+		"passé": { "avoir": "échangé" }
+	}
+}

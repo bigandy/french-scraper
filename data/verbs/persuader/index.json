@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "persuade; convince; be persuaded; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se persuader/ne pas persuader/ne pas se persuader",
+	"indicatif": {
+		"présent": {
+			"je": "persuade",
+			"tu": "persuades",
+			"il/elle": "persuade",
+			"nous": "persuadons",
+			"vous": "persuadez",
+			"ils/elles": "persuadent"
+		},
+		"imparfait": {
+			"je": "persuadais",
+			"tu": "persuadais",
+			"il/elle": "persuadait",
+			"nous": "persuadions",
+			"vous": "persuadiez",
+			"ils/elles": "persuadaient"
+		},
+		"futur": {
+			"je": "persuaderai",
+			"tu": "persuaderas",
+			"il/elle": "persuadera",
+			"nous": "persuaderons",
+			"vous": "persuaderez",
+			"ils/elles": "persuaderont"
+		},
+		"passé simple": {
+			"je": "persuadai",
+			"tu": "persuadas",
+			"il/elle": "persuada",
+			"nous": "persuadâmes",
+			"vous": "persuadâtes",
+			"ils/elles": "persuadèrent"
+		},
+		"passé composé": {
+			"j'": "ai persuadé",
+			"tu": "as persuadé",
+			"il/elle": "a persuadé",
+			"nous": "avons persuadé",
+			"vous": "avez persuadé",
+			"ils/elles": "ont persuadé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais persuadé",
+			"tu": "avais persuadé",
+			"il/elle": "avait persuadé",
+			"nous": "avions persuadé",
+			"vous": "aviez persuadé",
+			"ils/elles": "avaient persuadé"
+		},
+		"passé antérieur": {
+			"j'": "eus persuadé",
+			"tu": "eus persuadé",
+			"il/elle": "eut persuadé",
+			"nous": "eûmes persuadé",
+			"vous": "eûtes persuadé",
+			"ils/elles": "eurent persuadé"
+		},
+		"futur antérieur": {
+			"j'": "aurai persuadé",
+			"tu": "auras persuadé",
+			"il/elle": "aura persuadé",
+			"nous": "aurons persuadé",
+			"vous": "aurez persuadé",
+			"ils/elles": "auront persuadé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous persuadiez",
+			"qu'il/elle": "persuade",
+			"qu'ils/elles": "persuadent"
+		},
+		"imparfait": {
+			"que": "vous persuadassiez",
+			"qu'il/elle": "persuadât",
+			"qu'ils/elles": "persuadassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse persuadé",
+			"que": "vous eussiez persuadé",
+			"qu'il/elle": "eût persuadé",
+			"qu'ils/elles": "eussent persuadé"
+		},
+		"passé": {
+			"j'": "aie persuadé",
+			"que": "vous ayez persuadé",
+			"qu'il/elle": "ait persuadé",
+			"qu'ils/elles": "aient persuadé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "persuaderais",
+			"tu": "persuaderais",
+			"il/elle": "persuaderait",
+			"nous": "persuaderions",
+			"vous": "persuaderiez",
+			"ils/elles": "persuaderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais persuadé",
+			"tu": "aurais persuadé",
+			"il/elle": "aurait persuadé",
+			"nous": "aurions persuadé",
+			"vous": "auriez persuadé",
+			"ils/elles": "auraient persuadé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse persuadé",
+			"tu": "eusses persuadé",
+			"il/elle": "eût persuadé",
+			"nous": "eussions persuadé",
+			"vous": "eussiez persuadé",
+			"ils/elles": "eussent persuadé"
+		}
+	},
+	"participe": {
+		"présent": { "persuadant": "" },
+		"passé composé": { "ayant": "persuadé" },
+		"passé": {
+			"masc.sg.:": "persuadé",
+			"masc.pl.:": "persuadés",
+			"fém.sg.:": "persuadée",
+			"fém.pl.:": "persuadées"
+		}
+	},
+	"imperatif": {
+		"présent": { "persuade": "", "persuadons": "", "persuadez": "" },
+		"passé": { "aie": "persuadé", "ayons": "persuadé", "ayez": "persuadé" }
+	},
+	"infinitif": {
+		"présent": { "persuader": "" },
+		"passé": { "avoir": "persuadé" }
+	}
+}

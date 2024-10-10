@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "benefit; receive; enjoy; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas bénéficier",
+	"indicatif": {
+		"présent": {
+			"je": "bénéficie",
+			"tu": "bénéficies",
+			"il/elle": "bénéficie",
+			"nous": "bénéficions",
+			"vous": "bénéficiez",
+			"ils/elles": "bénéficient"
+		},
+		"imparfait": {
+			"je": "bénéficiais",
+			"tu": "bénéficiais",
+			"il/elle": "bénéficiait",
+			"nous": "bénéficiions",
+			"vous": "bénéficiiez",
+			"ils/elles": "bénéficiaient"
+		},
+		"futur": {
+			"je": "bénéficierai",
+			"tu": "bénéficieras",
+			"il/elle": "bénéficiera",
+			"nous": "bénéficierons",
+			"vous": "bénéficierez",
+			"ils/elles": "bénéficieront"
+		},
+		"passé simple": {
+			"je": "bénéficiai",
+			"tu": "bénéficias",
+			"il/elle": "bénéficia",
+			"nous": "bénéficiâmes",
+			"vous": "bénéficiâtes",
+			"ils/elles": "bénéficièrent"
+		},
+		"passé composé": {
+			"j'": "ai bénéficié",
+			"tu": "as bénéficié",
+			"il/elle": "a bénéficié",
+			"nous": "avons bénéficié",
+			"vous": "avez bénéficié",
+			"ils/elles": "ont bénéficié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais bénéficié",
+			"tu": "avais bénéficié",
+			"il/elle": "avait bénéficié",
+			"nous": "avions bénéficié",
+			"vous": "aviez bénéficié",
+			"ils/elles": "avaient bénéficié"
+		},
+		"passé antérieur": {
+			"j'": "eus bénéficié",
+			"tu": "eus bénéficié",
+			"il/elle": "eut bénéficié",
+			"nous": "eûmes bénéficié",
+			"vous": "eûtes bénéficié",
+			"ils/elles": "eurent bénéficié"
+		},
+		"futur antérieur": {
+			"j'": "aurai bénéficié",
+			"tu": "auras bénéficié",
+			"il/elle": "aura bénéficié",
+			"nous": "aurons bénéficié",
+			"vous": "aurez bénéficié",
+			"ils/elles": "auront bénéficié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous bénéficiiez",
+			"qu'il/elle": "bénéficie",
+			"qu'ils/elles": "bénéficient"
+		},
+		"imparfait": {
+			"que": "vous bénéficiassiez",
+			"qu'il/elle": "bénéficiât",
+			"qu'ils/elles": "bénéficiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse bénéficié",
+			"que": "vous eussiez bénéficié",
+			"qu'il/elle": "eût bénéficié",
+			"qu'ils/elles": "eussent bénéficié"
+		},
+		"passé": {
+			"j'": "aie bénéficié",
+			"que": "vous ayez bénéficié",
+			"qu'il/elle": "ait bénéficié",
+			"qu'ils/elles": "aient bénéficié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "bénéficierais",
+			"tu": "bénéficierais",
+			"il/elle": "bénéficierait",
+			"nous": "bénéficierions",
+			"vous": "bénéficieriez",
+			"ils/elles": "bénéficieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais bénéficié",
+			"tu": "aurais bénéficié",
+			"il/elle": "aurait bénéficié",
+			"nous": "aurions bénéficié",
+			"vous": "auriez bénéficié",
+			"ils/elles": "auraient bénéficié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse bénéficié",
+			"tu": "eusses bénéficié",
+			"il/elle": "eût bénéficié",
+			"nous": "eussions bénéficié",
+			"vous": "eussiez bénéficié",
+			"ils/elles": "eussent bénéficié"
+		}
+	},
+	"participe": {
+		"présent": { "bénéficiant": "" },
+		"passé composé": { "ayant": "bénéficié" },
+		"passé": {
+			"masc.sg.:": "bénéficié",
+			"masc.pl.:": "bénéficiés",
+			"fém.sg.:": "bénéficiée",
+			"fém.pl.:": "bénéficiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "bénéficie": "", "bénéficions": "", "bénéficiez": "" },
+		"passé": { "aie": "bénéficié", "ayons": "bénéficié", "ayez": "bénéficié" }
+	},
+	"infinitif": {
+		"présent": { "bénéficier": "" },
+		"passé": { "avoir": "bénéficié" }
+	}
+}

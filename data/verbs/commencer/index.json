@@ -1,0 +1,194 @@
+{
+	"name": "commencer",
+	"definition": "start; begin; commence; ...",
+	"model": "commencer",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "se commencer/ne pas commencer/ne pas se commencer",
+	"indicatif": {
+		"présent": {
+			"je": "commence",
+			"tu": "commences",
+			"il/elle": "commence",
+			"nous": "commençons",
+			"vous": "commencez",
+			"ils/elles": "commencent"
+		},
+		"imparfait": {
+			"je": "commençais",
+			"tu": "commençais",
+			"il/elle": "commençait",
+			"nous": "commencions",
+			"vous": "commenciez",
+			"ils/elles": "commençaient"
+		},
+		"futur": {
+			"je": "commencerai",
+			"tu": "commenceras",
+			"il/elle": "commencera",
+			"nous": "commencerons",
+			"vous": "commencerez",
+			"ils/elles": "commenceront"
+		},
+		"passé simple": {
+			"je": "commençai",
+			"tu": "commenças",
+			"il/elle": "commença",
+			"nous": "commençâmes",
+			"vous": "commençâtes",
+			"ils/elles": "commencèrent"
+		},
+		"passé composé": {
+			"j'": "ai commencé",
+			"tu": "es commencé",
+			"il/elle": "a commencé",
+			"nous": "sommes commencés",
+			"vous": "êtes commencés",
+			"ils/elles": "ont commencé",
+			"": "",
+			"je": "suis commencé",
+			"il": "est commencé",
+			"elle": "est commencée",
+			"ils": "sont commencés",
+			"elles": "sont commencées"
+		},
+		"plus-que-parfait": {
+			"j'": "étais commencé",
+			"tu": "étais commencé",
+			"il/elle": "avait commencé",
+			"nous": "étions commencés",
+			"vous": "étiez commencés",
+			"ils/elles": "avaient commencé",
+			"": "",
+			"il": "était commencé",
+			"elle": "était commencée",
+			"ils": "étaient commencés",
+			"elles": "étaient commencées"
+		},
+		"passé antérieur": {
+			"j'": "eus commencé",
+			"tu": "fus commencé",
+			"il/elle": "eut commencé",
+			"nous": "fûmes commencés",
+			"vous": "fûtes commencés",
+			"ils/elles": "eurent commencé",
+			"": "",
+			"je": "fus commencé",
+			"il": "fut commencé",
+			"elle": "fut commencée",
+			"ils": "furent commencés",
+			"elles": "furent commencées"
+		},
+		"futur antérieur": {
+			"j'": "aurai commencé",
+			"tu": "seras commencé",
+			"il/elle": "aura commencé",
+			"nous": "serons commencés",
+			"vous": "serez commencés",
+			"ils/elles": "auront commencé",
+			"": "",
+			"je": "serai commencé",
+			"il": "sera commencé",
+			"elle": "sera commencée",
+			"ils": "seront commencés",
+			"elles": "seront commencées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous commenciez",
+			"qu'il/elle": "commence",
+			"qu'ils/elles": "commencent"
+		},
+		"imparfait": {
+			"que": "vous commençassiez",
+			"qu'il/elle": "commençât",
+			"qu'ils/elles": "commençassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse commencé",
+			"que": "vous fussiez commencés",
+			"qu'il/elle": "eût commencé",
+			"qu'ils/elles": "eussent commencé",
+			"": "",
+			"qu'il": "fût commencé",
+			"qu'elle": "fût commencée",
+			"qu'ils": "fussent commencés",
+			"qu'elles": "fussent commencées"
+		},
+		"passé": {
+			"j'": "aie commencé",
+			"que": "vous soyez commencés",
+			"qu'il/elle": "ait commencé",
+			"qu'ils/elles": "aient commencé",
+			"": "",
+			"qu'il": "soit commencé",
+			"qu'elle": "soit commencée",
+			"qu'ils": "soient commencés",
+			"qu'elles": "soient commencées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "commencerais",
+			"tu": "commencerais",
+			"il/elle": "commencerait",
+			"nous": "commencerions",
+			"vous": "commenceriez",
+			"ils/elles": "commenceraient"
+		},
+		"passé première forme": {
+			"j'": "aurais commencé",
+			"tu": "serais commencé",
+			"il/elle": "aurait commencé",
+			"nous": "serions commencés",
+			"vous": "seriez commencés",
+			"ils/elles": "auraient commencé",
+			"": "",
+			"je": "serais commencé",
+			"il": "serait commencé",
+			"elle": "serait commencée",
+			"ils": "seraient commencés",
+			"elles": "seraient commencées"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse commencé",
+			"tu": "fusses commencé",
+			"il/elle": "eût commencé",
+			"nous": "fussions commencés",
+			"vous": "fussiez commencés",
+			"ils/elles": "eussent commencé",
+			"": "",
+			"je": "fusse commencé",
+			"il": "fût commencé",
+			"elle": "fût commencée",
+			"ils": "fussent commencés",
+			"elles": "fussent commencées"
+		}
+	},
+	"participe": {
+		"présent": { "commençant": "" },
+		"passé composé": { "ayant": "commencé", "": "", "étant": "commencée" },
+		"passé": {
+			"masc.sg.:": "commencé",
+			"masc.pl.:": "commencés",
+			"fém.sg.:": "commencée",
+			"fém.pl.:": "commencées"
+		}
+	},
+	"imperatif": {
+		"présent": { "commence": "", "commençons": "", "commencez": "" },
+		"passé": {
+			"aie": "commencé",
+			"ayons": "commencé",
+			"ayez": "commencé",
+			"": "",
+			"sois": "commencé",
+			"soyons": "commencé",
+			"soyez": "commencé"
+		}
+	},
+	"infinitif": {
+		"présent": { "commencer": "" },
+		"passé": { "avoir": "commencé", "": "", "être": "commencé" }
+	}
+}

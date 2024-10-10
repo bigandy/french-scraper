@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "deny; negate; ignore; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se nier/ne pas nier/ne pas se nier",
+	"indicatif": {
+		"présent": {
+			"je": "nie",
+			"tu": "nies",
+			"il/elle": "nie",
+			"nous": "nions",
+			"vous": "niez",
+			"ils/elles": "nient"
+		},
+		"imparfait": {
+			"je": "niais",
+			"tu": "niais",
+			"il/elle": "niait",
+			"nous": "niions",
+			"vous": "niiez",
+			"ils/elles": "niaient"
+		},
+		"futur": {
+			"je": "nierai",
+			"tu": "nieras",
+			"il/elle": "niera",
+			"nous": "nierons",
+			"vous": "nierez",
+			"ils/elles": "nieront"
+		},
+		"passé simple": {
+			"je": "niai",
+			"tu": "nias",
+			"il/elle": "nia",
+			"nous": "niâmes",
+			"vous": "niâtes",
+			"ils/elles": "nièrent"
+		},
+		"passé composé": {
+			"j'": "ai nié",
+			"tu": "as nié",
+			"il/elle": "a nié",
+			"nous": "avons nié",
+			"vous": "avez nié",
+			"ils/elles": "ont nié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais nié",
+			"tu": "avais nié",
+			"il/elle": "avait nié",
+			"nous": "avions nié",
+			"vous": "aviez nié",
+			"ils/elles": "avaient nié"
+		},
+		"passé antérieur": {
+			"j'": "eus nié",
+			"tu": "eus nié",
+			"il/elle": "eut nié",
+			"nous": "eûmes nié",
+			"vous": "eûtes nié",
+			"ils/elles": "eurent nié"
+		},
+		"futur antérieur": {
+			"j'": "aurai nié",
+			"tu": "auras nié",
+			"il/elle": "aura nié",
+			"nous": "aurons nié",
+			"vous": "aurez nié",
+			"ils/elles": "auront nié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous niiez",
+			"qu'il/elle": "nie",
+			"qu'ils/elles": "nient"
+		},
+		"imparfait": {
+			"que": "vous niassiez",
+			"qu'il/elle": "niât",
+			"qu'ils/elles": "niassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse nié",
+			"que": "vous eussiez nié",
+			"qu'il/elle": "eût nié",
+			"qu'ils/elles": "eussent nié"
+		},
+		"passé": {
+			"j'": "aie nié",
+			"que": "vous ayez nié",
+			"qu'il/elle": "ait nié",
+			"qu'ils/elles": "aient nié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "nierais",
+			"tu": "nierais",
+			"il/elle": "nierait",
+			"nous": "nierions",
+			"vous": "nieriez",
+			"ils/elles": "nieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais nié",
+			"tu": "aurais nié",
+			"il/elle": "aurait nié",
+			"nous": "aurions nié",
+			"vous": "auriez nié",
+			"ils/elles": "auraient nié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse nié",
+			"tu": "eusses nié",
+			"il/elle": "eût nié",
+			"nous": "eussions nié",
+			"vous": "eussiez nié",
+			"ils/elles": "eussent nié"
+		}
+	},
+	"participe": {
+		"présent": { "niant": "" },
+		"passé composé": { "ayant": "nié" },
+		"passé": {
+			"masc.sg.:": "nié",
+			"masc.pl.:": "niés",
+			"fém.sg.:": "niée",
+			"fém.pl.:": "niées"
+		}
+	},
+	"imperatif": {
+		"présent": { "nie": "", "nions": "", "niez": "" },
+		"passé": { "aie": "nié", "ayons": "nié", "ayez": "nié" }
+	},
+	"infinitif": { "présent": { "nier": "" }, "passé": { "avoir": "nié" } }
+}

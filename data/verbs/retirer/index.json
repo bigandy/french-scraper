@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "remove; withdraw; take; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se retirer/ne pas retirer/ne pas se retirer",
+	"indicatif": {
+		"présent": {
+			"je": "retire",
+			"tu": "retires",
+			"il/elle": "retire",
+			"nous": "retirons",
+			"vous": "retirez",
+			"ils/elles": "retirent"
+		},
+		"imparfait": {
+			"je": "retirais",
+			"tu": "retirais",
+			"il/elle": "retirait",
+			"nous": "retirions",
+			"vous": "retiriez",
+			"ils/elles": "retiraient"
+		},
+		"futur": {
+			"je": "retirerai",
+			"tu": "retireras",
+			"il/elle": "retirera",
+			"nous": "retirerons",
+			"vous": "retirerez",
+			"ils/elles": "retireront"
+		},
+		"passé simple": {
+			"je": "retirai",
+			"tu": "retiras",
+			"il/elle": "retira",
+			"nous": "retirâmes",
+			"vous": "retirâtes",
+			"ils/elles": "retirèrent"
+		},
+		"passé composé": {
+			"j'": "ai retiré",
+			"tu": "as retiré",
+			"il/elle": "a retiré",
+			"nous": "avons retiré",
+			"vous": "avez retiré",
+			"ils/elles": "ont retiré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais retiré",
+			"tu": "avais retiré",
+			"il/elle": "avait retiré",
+			"nous": "avions retiré",
+			"vous": "aviez retiré",
+			"ils/elles": "avaient retiré"
+		},
+		"passé antérieur": {
+			"j'": "eus retiré",
+			"tu": "eus retiré",
+			"il/elle": "eut retiré",
+			"nous": "eûmes retiré",
+			"vous": "eûtes retiré",
+			"ils/elles": "eurent retiré"
+		},
+		"futur antérieur": {
+			"j'": "aurai retiré",
+			"tu": "auras retiré",
+			"il/elle": "aura retiré",
+			"nous": "aurons retiré",
+			"vous": "aurez retiré",
+			"ils/elles": "auront retiré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous retiriez",
+			"qu'il/elle": "retire",
+			"qu'ils/elles": "retirent"
+		},
+		"imparfait": {
+			"que": "vous retirassiez",
+			"qu'il/elle": "retirât",
+			"qu'ils/elles": "retirassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse retiré",
+			"que": "vous eussiez retiré",
+			"qu'il/elle": "eût retiré",
+			"qu'ils/elles": "eussent retiré"
+		},
+		"passé": {
+			"j'": "aie retiré",
+			"que": "vous ayez retiré",
+			"qu'il/elle": "ait retiré",
+			"qu'ils/elles": "aient retiré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "retirerais",
+			"tu": "retirerais",
+			"il/elle": "retirerait",
+			"nous": "retirerions",
+			"vous": "retireriez",
+			"ils/elles": "retireraient"
+		},
+		"passé première forme": {
+			"j'": "aurais retiré",
+			"tu": "aurais retiré",
+			"il/elle": "aurait retiré",
+			"nous": "aurions retiré",
+			"vous": "auriez retiré",
+			"ils/elles": "auraient retiré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse retiré",
+			"tu": "eusses retiré",
+			"il/elle": "eût retiré",
+			"nous": "eussions retiré",
+			"vous": "eussiez retiré",
+			"ils/elles": "eussent retiré"
+		}
+	},
+	"participe": {
+		"présent": { "retirant": "" },
+		"passé composé": { "ayant": "retiré" },
+		"passé": {
+			"masc.sg.:": "retiré",
+			"masc.pl.:": "retirés",
+			"fém.sg.:": "retirée",
+			"fém.pl.:": "retirées"
+		}
+	},
+	"imperatif": {
+		"présent": { "retire": "", "retirons": "", "retirez": "" },
+		"passé": { "aie": "retiré", "ayons": "retiré", "ayez": "retiré" }
+	},
+	"infinitif": { "présent": { "retirer": "" }, "passé": { "avoir": "retiré" } }
+}

@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "involve; get involved; engage; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'impliquer/ne pas impliquer/ne pas s'impliquer",
+	"indicatif": {
+		"présent": {
+			"j'": "implique",
+			"tu": "impliques",
+			"il/elle": "implique",
+			"nous": "impliquons",
+			"vous": "impliquez",
+			"ils/elles": "impliquent"
+		},
+		"imparfait": {
+			"j'": "impliquais",
+			"tu": "impliquais",
+			"il/elle": "impliquait",
+			"nous": "impliquions",
+			"vous": "impliquiez",
+			"ils/elles": "impliquaient"
+		},
+		"futur": {
+			"j'": "impliquerai",
+			"tu": "impliqueras",
+			"il/elle": "impliquera",
+			"nous": "impliquerons",
+			"vous": "impliquerez",
+			"ils/elles": "impliqueront"
+		},
+		"passé simple": {
+			"j'": "impliquai",
+			"tu": "impliquas",
+			"il/elle": "impliqua",
+			"nous": "impliquâmes",
+			"vous": "impliquâtes",
+			"ils/elles": "impliquèrent"
+		},
+		"passé composé": {
+			"j'": "ai impliqué",
+			"tu": "as impliqué",
+			"il/elle": "a impliqué",
+			"nous": "avons impliqué",
+			"vous": "avez impliqué",
+			"ils/elles": "ont impliqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais impliqué",
+			"tu": "avais impliqué",
+			"il/elle": "avait impliqué",
+			"nous": "avions impliqué",
+			"vous": "aviez impliqué",
+			"ils/elles": "avaient impliqué"
+		},
+		"passé antérieur": {
+			"j'": "eus impliqué",
+			"tu": "eus impliqué",
+			"il/elle": "eut impliqué",
+			"nous": "eûmes impliqué",
+			"vous": "eûtes impliqué",
+			"ils/elles": "eurent impliqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai impliqué",
+			"tu": "auras impliqué",
+			"il/elle": "aura impliqué",
+			"nous": "aurons impliqué",
+			"vous": "aurez impliqué",
+			"ils/elles": "auront impliqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "implique",
+			"que": "vous impliquiez",
+			"qu'il/elle": "implique",
+			"qu'ils/elles": "impliquent"
+		},
+		"imparfait": {
+			"j'": "impliquasse",
+			"que": "vous impliquassiez",
+			"qu'il/elle": "impliquât",
+			"qu'ils/elles": "impliquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse impliqué",
+			"que": "vous eussiez impliqué",
+			"qu'il/elle": "eût impliqué",
+			"qu'ils/elles": "eussent impliqué"
+		},
+		"passé": {
+			"j'": "aie impliqué",
+			"que": "vous ayez impliqué",
+			"qu'il/elle": "ait impliqué",
+			"qu'ils/elles": "aient impliqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "impliquerais",
+			"tu": "impliquerais",
+			"il/elle": "impliquerait",
+			"nous": "impliquerions",
+			"vous": "impliqueriez",
+			"ils/elles": "impliqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais impliqué",
+			"tu": "aurais impliqué",
+			"il/elle": "aurait impliqué",
+			"nous": "aurions impliqué",
+			"vous": "auriez impliqué",
+			"ils/elles": "auraient impliqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse impliqué",
+			"tu": "eusses impliqué",
+			"il/elle": "eût impliqué",
+			"nous": "eussions impliqué",
+			"vous": "eussiez impliqué",
+			"ils/elles": "eussent impliqué"
+		}
+	},
+	"participe": {
+		"présent": { "impliquant": "" },
+		"passé composé": { "ayant": "impliqué" },
+		"passé": {
+			"masc.sg.:": "impliqué",
+			"masc.pl.:": "impliqués",
+			"fém.sg.:": "impliquée",
+			"fém.pl.:": "impliquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "implique": "", "impliquons": "", "impliquez": "" },
+		"passé": { "aie": "impliqué", "ayons": "impliqué", "ayez": "impliqué" }
+	},
+	"infinitif": {
+		"présent": { "impliquer": "" },
+		"passé": { "avoir": "impliqué" }
+	}
+}

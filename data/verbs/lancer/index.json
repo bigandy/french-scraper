@@ -1,0 +1,138 @@
+{
+	"name": "commencer",
+	"definition": "launch; start; initiate; ...",
+	"model": "commencer",
+	"auxiliary": "avoir",
+	"otherForms": "se lancer/ne pas lancer/ne pas se lancer",
+	"indicatif": {
+		"présent": {
+			"je": "lance",
+			"tu": "lances",
+			"il/elle": "lance",
+			"nous": "lançons",
+			"vous": "lancez",
+			"ils/elles": "lancent"
+		},
+		"imparfait": {
+			"je": "lançais",
+			"tu": "lançais",
+			"il/elle": "lançait",
+			"nous": "lancions",
+			"vous": "lanciez",
+			"ils/elles": "lançaient"
+		},
+		"futur": {
+			"je": "lancerai",
+			"tu": "lanceras",
+			"il/elle": "lancera",
+			"nous": "lancerons",
+			"vous": "lancerez",
+			"ils/elles": "lanceront"
+		},
+		"passé simple": {
+			"je": "lançai",
+			"tu": "lanças",
+			"il/elle": "lança",
+			"nous": "lançâmes",
+			"vous": "lançâtes",
+			"ils/elles": "lancèrent"
+		},
+		"passé composé": {
+			"j'": "ai lancé",
+			"tu": "as lancé",
+			"il/elle": "a lancé",
+			"nous": "avons lancé",
+			"vous": "avez lancé",
+			"ils/elles": "ont lancé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais lancé",
+			"tu": "avais lancé",
+			"il/elle": "avait lancé",
+			"nous": "avions lancé",
+			"vous": "aviez lancé",
+			"ils/elles": "avaient lancé"
+		},
+		"passé antérieur": {
+			"j'": "eus lancé",
+			"tu": "eus lancé",
+			"il/elle": "eut lancé",
+			"nous": "eûmes lancé",
+			"vous": "eûtes lancé",
+			"ils/elles": "eurent lancé"
+		},
+		"futur antérieur": {
+			"j'": "aurai lancé",
+			"tu": "auras lancé",
+			"il/elle": "aura lancé",
+			"nous": "aurons lancé",
+			"vous": "aurez lancé",
+			"ils/elles": "auront lancé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous lanciez",
+			"qu'il/elle": "lance",
+			"qu'ils/elles": "lancent"
+		},
+		"imparfait": {
+			"que": "vous lançassiez",
+			"qu'il/elle": "lançât",
+			"qu'ils/elles": "lançassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse lancé",
+			"que": "vous eussiez lancé",
+			"qu'il/elle": "eût lancé",
+			"qu'ils/elles": "eussent lancé"
+		},
+		"passé": {
+			"j'": "aie lancé",
+			"que": "vous ayez lancé",
+			"qu'il/elle": "ait lancé",
+			"qu'ils/elles": "aient lancé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "lancerais",
+			"tu": "lancerais",
+			"il/elle": "lancerait",
+			"nous": "lancerions",
+			"vous": "lanceriez",
+			"ils/elles": "lanceraient"
+		},
+		"passé première forme": {
+			"j'": "aurais lancé",
+			"tu": "aurais lancé",
+			"il/elle": "aurait lancé",
+			"nous": "aurions lancé",
+			"vous": "auriez lancé",
+			"ils/elles": "auraient lancé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse lancé",
+			"tu": "eusses lancé",
+			"il/elle": "eût lancé",
+			"nous": "eussions lancé",
+			"vous": "eussiez lancé",
+			"ils/elles": "eussent lancé"
+		}
+	},
+	"participe": {
+		"présent": { "lançant": "" },
+		"passé composé": { "ayant": "lancé" },
+		"passé": {
+			"masc.sg.:": "lancé",
+			"masc.pl.:": "lancés",
+			"fém.sg.:": "lancée",
+			"fém.pl.:": "lancées"
+		}
+	},
+	"imperatif": {
+		"présent": { "lance": "", "lançons": "", "lancez": "" },
+		"passé": { "aie": "lancé", "ayons": "lancé", "ayez": "lancé" }
+	},
+	"infinitif": { "présent": { "lancer": "" }, "passé": { "avoir": "lancé" } }
+}

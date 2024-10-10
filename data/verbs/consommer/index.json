@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "consume; eat; use; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se consommer/ne pas consommer/ne pas se consommer",
+	"indicatif": {
+		"présent": {
+			"je": "consomme",
+			"tu": "consommes",
+			"il/elle": "consomme",
+			"nous": "consommons",
+			"vous": "consommez",
+			"ils/elles": "consomment"
+		},
+		"imparfait": {
+			"je": "consommais",
+			"tu": "consommais",
+			"il/elle": "consommait",
+			"nous": "consommions",
+			"vous": "consommiez",
+			"ils/elles": "consommaient"
+		},
+		"futur": {
+			"je": "consommerai",
+			"tu": "consommeras",
+			"il/elle": "consommera",
+			"nous": "consommerons",
+			"vous": "consommerez",
+			"ils/elles": "consommeront"
+		},
+		"passé simple": {
+			"je": "consommai",
+			"tu": "consommas",
+			"il/elle": "consomma",
+			"nous": "consommâmes",
+			"vous": "consommâtes",
+			"ils/elles": "consommèrent"
+		},
+		"passé composé": {
+			"j'": "ai consommé",
+			"tu": "as consommé",
+			"il/elle": "a consommé",
+			"nous": "avons consommé",
+			"vous": "avez consommé",
+			"ils/elles": "ont consommé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais consommé",
+			"tu": "avais consommé",
+			"il/elle": "avait consommé",
+			"nous": "avions consommé",
+			"vous": "aviez consommé",
+			"ils/elles": "avaient consommé"
+		},
+		"passé antérieur": {
+			"j'": "eus consommé",
+			"tu": "eus consommé",
+			"il/elle": "eut consommé",
+			"nous": "eûmes consommé",
+			"vous": "eûtes consommé",
+			"ils/elles": "eurent consommé"
+		},
+		"futur antérieur": {
+			"j'": "aurai consommé",
+			"tu": "auras consommé",
+			"il/elle": "aura consommé",
+			"nous": "aurons consommé",
+			"vous": "aurez consommé",
+			"ils/elles": "auront consommé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous consommiez",
+			"qu'il/elle": "consomme",
+			"qu'ils/elles": "consomment"
+		},
+		"imparfait": {
+			"que": "vous consommassiez",
+			"qu'il/elle": "consommât",
+			"qu'ils/elles": "consommassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse consommé",
+			"que": "vous eussiez consommé",
+			"qu'il/elle": "eût consommé",
+			"qu'ils/elles": "eussent consommé"
+		},
+		"passé": {
+			"j'": "aie consommé",
+			"que": "vous ayez consommé",
+			"qu'il/elle": "ait consommé",
+			"qu'ils/elles": "aient consommé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "consommerais",
+			"tu": "consommerais",
+			"il/elle": "consommerait",
+			"nous": "consommerions",
+			"vous": "consommeriez",
+			"ils/elles": "consommeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais consommé",
+			"tu": "aurais consommé",
+			"il/elle": "aurait consommé",
+			"nous": "aurions consommé",
+			"vous": "auriez consommé",
+			"ils/elles": "auraient consommé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse consommé",
+			"tu": "eusses consommé",
+			"il/elle": "eût consommé",
+			"nous": "eussions consommé",
+			"vous": "eussiez consommé",
+			"ils/elles": "eussent consommé"
+		}
+	},
+	"participe": {
+		"présent": { "consommant": "" },
+		"passé composé": { "ayant": "consommé" },
+		"passé": {
+			"masc.sg.:": "consommé",
+			"masc.pl.:": "consommés",
+			"fém.sg.:": "consommée",
+			"fém.pl.:": "consommées"
+		}
+	},
+	"imperatif": {
+		"présent": { "consomme": "", "consommons": "", "consommez": "" },
+		"passé": { "aie": "consommé", "ayons": "consommé", "ayez": "consommé" }
+	},
+	"infinitif": {
+		"présent": { "consommer": "" },
+		"passé": { "avoir": "consommé" }
+	}
+}

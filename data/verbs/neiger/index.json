@@ -1,0 +1,35 @@
+{
+	"name": "neiger",
+	"definition": "snow; ...",
+	"model": "neiger",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas neiger",
+	"indicatif": {
+		"présent": { "il": "neige" },
+		"imparfait": { "il": "neigeait" },
+		"futur": { "il": "neigera" },
+		"passé simple": { "il": "neigea" },
+		"passé composé": { "il": "a neigé" },
+		"plus-que-parfait": { "il": "avait neigé" },
+		"passé antérieur": { "il": "eut neigé" },
+		"futur antérieur": { "il": "aura neigé" }
+	},
+	"subjonctif": {
+		"présent": { "qu'il": "neige" },
+		"imparfait": { "qu'il": "neigeât" },
+		"plus-que-parfait": { "qu'il": "eût neigé" },
+		"passé": { "qu'il": "ait neigé" }
+	},
+	"conditionnel": {
+		"présent": { "il": "neigerait" },
+		"passé première forme": { "il": "aurait neigé" },
+		"passé deuxième forme": { "il": "eût neigé" }
+	},
+	"participe": {
+		"présent": { "neigeant": "" },
+		"passé composé": {},
+		"passé": { "neigé": "" }
+	},
+	"imperatif": { "présent": {}, "passé": {} },
+	"infinitif": { "présent": { "neiger": "" }, "passé": { "avoir": "neigé" } }
+}

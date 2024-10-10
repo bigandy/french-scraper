@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "bring closer; reconcile; get closer; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se rapprocher/ne pas rapprocher/ne pas se rapprocher",
+	"indicatif": {
+		"présent": {
+			"je": "rapproche",
+			"tu": "rapproches",
+			"il/elle": "rapproche",
+			"nous": "rapprochons",
+			"vous": "rapprochez",
+			"ils/elles": "rapprochent"
+		},
+		"imparfait": {
+			"je": "rapprochais",
+			"tu": "rapprochais",
+			"il/elle": "rapprochait",
+			"nous": "rapprochions",
+			"vous": "rapprochiez",
+			"ils/elles": "rapprochaient"
+		},
+		"futur": {
+			"je": "rapprocherai",
+			"tu": "rapprocheras",
+			"il/elle": "rapprochera",
+			"nous": "rapprocherons",
+			"vous": "rapprocherez",
+			"ils/elles": "rapprocheront"
+		},
+		"passé simple": {
+			"je": "rapprochai",
+			"tu": "rapprochas",
+			"il/elle": "rapprocha",
+			"nous": "rapprochâmes",
+			"vous": "rapprochâtes",
+			"ils/elles": "rapprochèrent"
+		},
+		"passé composé": {
+			"j'": "ai rapproché",
+			"tu": "as rapproché",
+			"il/elle": "a rapproché",
+			"nous": "avons rapproché",
+			"vous": "avez rapproché",
+			"ils/elles": "ont rapproché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais rapproché",
+			"tu": "avais rapproché",
+			"il/elle": "avait rapproché",
+			"nous": "avions rapproché",
+			"vous": "aviez rapproché",
+			"ils/elles": "avaient rapproché"
+		},
+		"passé antérieur": {
+			"j'": "eus rapproché",
+			"tu": "eus rapproché",
+			"il/elle": "eut rapproché",
+			"nous": "eûmes rapproché",
+			"vous": "eûtes rapproché",
+			"ils/elles": "eurent rapproché"
+		},
+		"futur antérieur": {
+			"j'": "aurai rapproché",
+			"tu": "auras rapproché",
+			"il/elle": "aura rapproché",
+			"nous": "aurons rapproché",
+			"vous": "aurez rapproché",
+			"ils/elles": "auront rapproché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous rapprochiez",
+			"qu'il/elle": "rapproche",
+			"qu'ils/elles": "rapprochent"
+		},
+		"imparfait": {
+			"que": "vous rapprochassiez",
+			"qu'il/elle": "rapprochât",
+			"qu'ils/elles": "rapprochassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse rapproché",
+			"que": "vous eussiez rapproché",
+			"qu'il/elle": "eût rapproché",
+			"qu'ils/elles": "eussent rapproché"
+		},
+		"passé": {
+			"j'": "aie rapproché",
+			"que": "vous ayez rapproché",
+			"qu'il/elle": "ait rapproché",
+			"qu'ils/elles": "aient rapproché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "rapprocherais",
+			"tu": "rapprocherais",
+			"il/elle": "rapprocherait",
+			"nous": "rapprocherions",
+			"vous": "rapprocheriez",
+			"ils/elles": "rapprocheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais rapproché",
+			"tu": "aurais rapproché",
+			"il/elle": "aurait rapproché",
+			"nous": "aurions rapproché",
+			"vous": "auriez rapproché",
+			"ils/elles": "auraient rapproché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse rapproché",
+			"tu": "eusses rapproché",
+			"il/elle": "eût rapproché",
+			"nous": "eussions rapproché",
+			"vous": "eussiez rapproché",
+			"ils/elles": "eussent rapproché"
+		}
+	},
+	"participe": {
+		"présent": { "rapprochant": "" },
+		"passé composé": { "ayant": "rapproché" },
+		"passé": {
+			"masc.sg.:": "rapproché",
+			"masc.pl.:": "rapprochés",
+			"fém.sg.:": "rapprochée",
+			"fém.pl.:": "rapprochées"
+		}
+	},
+	"imperatif": {
+		"présent": { "rapproche": "", "rapprochons": "", "rapprochez": "" },
+		"passé": { "aie": "rapproché", "ayons": "rapproché", "ayez": "rapproché" }
+	},
+	"infinitif": {
+		"présent": { "rapprocher": "" },
+		"passé": { "avoir": "rapproché" }
+	}
+}

@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "save; spare; avoid; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'épargner/ne pas épargner/ne pas s'épargner",
+	"indicatif": {
+		"présent": {
+			"j'": "épargne",
+			"tu": "épargnes",
+			"il/elle": "épargne",
+			"nous": "épargnons",
+			"vous": "épargnez",
+			"ils/elles": "épargnent"
+		},
+		"imparfait": {
+			"j'": "épargnais",
+			"tu": "épargnais",
+			"il/elle": "épargnait",
+			"nous": "épargnions",
+			"vous": "épargniez",
+			"ils/elles": "épargnaient"
+		},
+		"futur": {
+			"j'": "épargnerai",
+			"tu": "épargneras",
+			"il/elle": "épargnera",
+			"nous": "épargnerons",
+			"vous": "épargnerez",
+			"ils/elles": "épargneront"
+		},
+		"passé simple": {
+			"j'": "épargnai",
+			"tu": "épargnas",
+			"il/elle": "épargna",
+			"nous": "épargnâmes",
+			"vous": "épargnâtes",
+			"ils/elles": "épargnèrent"
+		},
+		"passé composé": {
+			"j'": "ai épargné",
+			"tu": "as épargné",
+			"il/elle": "a épargné",
+			"nous": "avons épargné",
+			"vous": "avez épargné",
+			"ils/elles": "ont épargné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais épargné",
+			"tu": "avais épargné",
+			"il/elle": "avait épargné",
+			"nous": "avions épargné",
+			"vous": "aviez épargné",
+			"ils/elles": "avaient épargné"
+		},
+		"passé antérieur": {
+			"j'": "eus épargné",
+			"tu": "eus épargné",
+			"il/elle": "eut épargné",
+			"nous": "eûmes épargné",
+			"vous": "eûtes épargné",
+			"ils/elles": "eurent épargné"
+		},
+		"futur antérieur": {
+			"j'": "aurai épargné",
+			"tu": "auras épargné",
+			"il/elle": "aura épargné",
+			"nous": "aurons épargné",
+			"vous": "aurez épargné",
+			"ils/elles": "auront épargné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "épargne",
+			"que": "vous épargniez",
+			"qu'il/elle": "épargne",
+			"qu'ils/elles": "épargnent"
+		},
+		"imparfait": {
+			"j'": "épargnasse",
+			"que": "vous épargnassiez",
+			"qu'il/elle": "épargnât",
+			"qu'ils/elles": "épargnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse épargné",
+			"que": "vous eussiez épargné",
+			"qu'il/elle": "eût épargné",
+			"qu'ils/elles": "eussent épargné"
+		},
+		"passé": {
+			"j'": "aie épargné",
+			"que": "vous ayez épargné",
+			"qu'il/elle": "ait épargné",
+			"qu'ils/elles": "aient épargné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "épargnerais",
+			"tu": "épargnerais",
+			"il/elle": "épargnerait",
+			"nous": "épargnerions",
+			"vous": "épargneriez",
+			"ils/elles": "épargneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais épargné",
+			"tu": "aurais épargné",
+			"il/elle": "aurait épargné",
+			"nous": "aurions épargné",
+			"vous": "auriez épargné",
+			"ils/elles": "auraient épargné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse épargné",
+			"tu": "eusses épargné",
+			"il/elle": "eût épargné",
+			"nous": "eussions épargné",
+			"vous": "eussiez épargné",
+			"ils/elles": "eussent épargné"
+		}
+	},
+	"participe": {
+		"présent": { "épargnant": "" },
+		"passé composé": { "ayant": "épargné" },
+		"passé": {
+			"masc.sg.:": "épargné",
+			"masc.pl.:": "épargnés",
+			"fém.sg.:": "épargnée",
+			"fém.pl.:": "épargnées"
+		}
+	},
+	"imperatif": {
+		"présent": { "épargne": "", "épargnons": "", "épargnez": "" },
+		"passé": { "aie": "épargné", "ayons": "épargné", "ayez": "épargné" }
+	},
+	"infinitif": {
+		"présent": { "épargner": "" },
+		"passé": { "avoir": "épargné" }
+	}
+}

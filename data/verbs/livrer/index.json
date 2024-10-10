@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "deliver; give; supply; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se livrer/ne pas livrer/ne pas se livrer",
+	"indicatif": {
+		"présent": {
+			"je": "livre",
+			"tu": "livres",
+			"il/elle": "livre",
+			"nous": "livrons",
+			"vous": "livrez",
+			"ils/elles": "livrent"
+		},
+		"imparfait": {
+			"je": "livrais",
+			"tu": "livrais",
+			"il/elle": "livrait",
+			"nous": "livrions",
+			"vous": "livriez",
+			"ils/elles": "livraient"
+		},
+		"futur": {
+			"je": "livrerai",
+			"tu": "livreras",
+			"il/elle": "livrera",
+			"nous": "livrerons",
+			"vous": "livrerez",
+			"ils/elles": "livreront"
+		},
+		"passé simple": {
+			"je": "livrai",
+			"tu": "livras",
+			"il/elle": "livra",
+			"nous": "livrâmes",
+			"vous": "livrâtes",
+			"ils/elles": "livrèrent"
+		},
+		"passé composé": {
+			"j'": "ai livré",
+			"tu": "as livré",
+			"il/elle": "a livré",
+			"nous": "avons livré",
+			"vous": "avez livré",
+			"ils/elles": "ont livré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais livré",
+			"tu": "avais livré",
+			"il/elle": "avait livré",
+			"nous": "avions livré",
+			"vous": "aviez livré",
+			"ils/elles": "avaient livré"
+		},
+		"passé antérieur": {
+			"j'": "eus livré",
+			"tu": "eus livré",
+			"il/elle": "eut livré",
+			"nous": "eûmes livré",
+			"vous": "eûtes livré",
+			"ils/elles": "eurent livré"
+		},
+		"futur antérieur": {
+			"j'": "aurai livré",
+			"tu": "auras livré",
+			"il/elle": "aura livré",
+			"nous": "aurons livré",
+			"vous": "aurez livré",
+			"ils/elles": "auront livré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous livriez",
+			"qu'il/elle": "livre",
+			"qu'ils/elles": "livrent"
+		},
+		"imparfait": {
+			"que": "vous livrassiez",
+			"qu'il/elle": "livrât",
+			"qu'ils/elles": "livrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse livré",
+			"que": "vous eussiez livré",
+			"qu'il/elle": "eût livré",
+			"qu'ils/elles": "eussent livré"
+		},
+		"passé": {
+			"j'": "aie livré",
+			"que": "vous ayez livré",
+			"qu'il/elle": "ait livré",
+			"qu'ils/elles": "aient livré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "livrerais",
+			"tu": "livrerais",
+			"il/elle": "livrerait",
+			"nous": "livrerions",
+			"vous": "livreriez",
+			"ils/elles": "livreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais livré",
+			"tu": "aurais livré",
+			"il/elle": "aurait livré",
+			"nous": "aurions livré",
+			"vous": "auriez livré",
+			"ils/elles": "auraient livré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse livré",
+			"tu": "eusses livré",
+			"il/elle": "eût livré",
+			"nous": "eussions livré",
+			"vous": "eussiez livré",
+			"ils/elles": "eussent livré"
+		}
+	},
+	"participe": {
+		"présent": { "livrant": "" },
+		"passé composé": { "ayant": "livré" },
+		"passé": {
+			"masc.sg.:": "livré",
+			"masc.pl.:": "livrés",
+			"fém.sg.:": "livrée",
+			"fém.pl.:": "livrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "livre": "", "livrons": "", "livrez": "" },
+		"passé": { "aie": "livré", "ayons": "livré", "ayez": "livré" }
+	},
+	"infinitif": { "présent": { "livrer": "" }, "passé": { "avoir": "livré" } }
+}

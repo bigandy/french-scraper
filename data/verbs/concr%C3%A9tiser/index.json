@@ -1,0 +1,145 @@
+{
+	"name": "marcher",
+	"definition": "achieve; realize; implement; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se concrétiser/ne pas concrétiser/ne pas se concrétiser",
+	"indicatif": {
+		"présent": {
+			"je": "concrétise",
+			"tu": "concrétises",
+			"il/elle": "concrétise",
+			"nous": "concrétisons",
+			"vous": "concrétisez",
+			"ils/elles": "concrétisent"
+		},
+		"imparfait": {
+			"je": "concrétisais",
+			"tu": "concrétisais",
+			"il/elle": "concrétisait",
+			"nous": "concrétisions",
+			"vous": "concrétisiez",
+			"ils/elles": "concrétisaient"
+		},
+		"futur": {
+			"je": "concrétiserai",
+			"tu": "concrétiseras",
+			"il/elle": "concrétisera",
+			"nous": "concrétiserons",
+			"vous": "concrétiserez",
+			"ils/elles": "concrétiseront"
+		},
+		"passé simple": {
+			"je": "concrétisai",
+			"tu": "concrétisas",
+			"il/elle": "concrétisa",
+			"nous": "concrétisâmes",
+			"vous": "concrétisâtes",
+			"ils/elles": "concrétisèrent"
+		},
+		"passé composé": {
+			"j'": "ai concrétisé",
+			"tu": "as concrétisé",
+			"il/elle": "a concrétisé",
+			"nous": "avons concrétisé",
+			"vous": "avez concrétisé",
+			"ils/elles": "ont concrétisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais concrétisé",
+			"tu": "avais concrétisé",
+			"il/elle": "avait concrétisé",
+			"nous": "avions concrétisé",
+			"vous": "aviez concrétisé",
+			"ils/elles": "avaient concrétisé"
+		},
+		"passé antérieur": {
+			"j'": "eus concrétisé",
+			"tu": "eus concrétisé",
+			"il/elle": "eut concrétisé",
+			"nous": "eûmes concrétisé",
+			"vous": "eûtes concrétisé",
+			"ils/elles": "eurent concrétisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai concrétisé",
+			"tu": "auras concrétisé",
+			"il/elle": "aura concrétisé",
+			"nous": "aurons concrétisé",
+			"vous": "aurez concrétisé",
+			"ils/elles": "auront concrétisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous concrétisiez",
+			"qu'il/elle": "concrétise",
+			"qu'ils/elles": "concrétisent"
+		},
+		"imparfait": {
+			"que": "vous concrétisassiez",
+			"qu'il/elle": "concrétisât",
+			"qu'ils/elles": "concrétisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse concrétisé",
+			"que": "vous eussiez concrétisé",
+			"qu'il/elle": "eût concrétisé",
+			"qu'ils/elles": "eussent concrétisé"
+		},
+		"passé": {
+			"j'": "aie concrétisé",
+			"que": "vous ayez concrétisé",
+			"qu'il/elle": "ait concrétisé",
+			"qu'ils/elles": "aient concrétisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "concrétiserais",
+			"tu": "concrétiserais",
+			"il/elle": "concrétiserait",
+			"nous": "concrétiserions",
+			"vous": "concrétiseriez",
+			"ils/elles": "concrétiseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais concrétisé",
+			"tu": "aurais concrétisé",
+			"il/elle": "aurait concrétisé",
+			"nous": "aurions concrétisé",
+			"vous": "auriez concrétisé",
+			"ils/elles": "auraient concrétisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse concrétisé",
+			"tu": "eusses concrétisé",
+			"il/elle": "eût concrétisé",
+			"nous": "eussions concrétisé",
+			"vous": "eussiez concrétisé",
+			"ils/elles": "eussent concrétisé"
+		}
+	},
+	"participe": {
+		"présent": { "concrétisant": "" },
+		"passé composé": { "ayant": "concrétisé" },
+		"passé": {
+			"masc.sg.:": "concrétisé",
+			"masc.pl.:": "concrétisés",
+			"fém.sg.:": "concrétisée",
+			"fém.pl.:": "concrétisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "concrétise": "", "concrétisons": "", "concrétisez": "" },
+		"passé": {
+			"aie": "concrétisé",
+			"ayons": "concrétisé",
+			"ayez": "concrétisé"
+		}
+	},
+	"infinitif": {
+		"présent": { "concrétiser": "" },
+		"passé": { "avoir": "concrétisé" }
+	}
+}

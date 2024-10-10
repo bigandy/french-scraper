@@ -1,0 +1,145 @@
+{
+	"name": "marcher",
+	"definition": "reciprocate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se réciproquer/ne pas réciproquer/ne pas se réciproquer",
+	"indicatif": {
+		"présent": {
+			"je": "réciproque",
+			"tu": "réciproques",
+			"il/elle": "réciproque",
+			"nous": "réciproquons",
+			"vous": "réciproquez",
+			"ils/elles": "réciproquent"
+		},
+		"imparfait": {
+			"je": "réciproquais",
+			"tu": "réciproquais",
+			"il/elle": "réciproquait",
+			"nous": "réciproquions",
+			"vous": "réciproquiez",
+			"ils/elles": "réciproquaient"
+		},
+		"futur": {
+			"je": "réciproquerai",
+			"tu": "réciproqueras",
+			"il/elle": "réciproquera",
+			"nous": "réciproquerons",
+			"vous": "réciproquerez",
+			"ils/elles": "réciproqueront"
+		},
+		"passé simple": {
+			"je": "réciproquai",
+			"tu": "réciproquas",
+			"il/elle": "réciproqua",
+			"nous": "réciproquâmes",
+			"vous": "réciproquâtes",
+			"ils/elles": "réciproquèrent"
+		},
+		"passé composé": {
+			"j'": "ai réciproqué",
+			"tu": "as réciproqué",
+			"il/elle": "a réciproqué",
+			"nous": "avons réciproqué",
+			"vous": "avez réciproqué",
+			"ils/elles": "ont réciproqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais réciproqué",
+			"tu": "avais réciproqué",
+			"il/elle": "avait réciproqué",
+			"nous": "avions réciproqué",
+			"vous": "aviez réciproqué",
+			"ils/elles": "avaient réciproqué"
+		},
+		"passé antérieur": {
+			"j'": "eus réciproqué",
+			"tu": "eus réciproqué",
+			"il/elle": "eut réciproqué",
+			"nous": "eûmes réciproqué",
+			"vous": "eûtes réciproqué",
+			"ils/elles": "eurent réciproqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai réciproqué",
+			"tu": "auras réciproqué",
+			"il/elle": "aura réciproqué",
+			"nous": "aurons réciproqué",
+			"vous": "aurez réciproqué",
+			"ils/elles": "auront réciproqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous réciproquiez",
+			"qu'il/elle": "réciproque",
+			"qu'ils/elles": "réciproquent"
+		},
+		"imparfait": {
+			"que": "vous réciproquassiez",
+			"qu'il/elle": "réciproquât",
+			"qu'ils/elles": "réciproquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse réciproqué",
+			"que": "vous eussiez réciproqué",
+			"qu'il/elle": "eût réciproqué",
+			"qu'ils/elles": "eussent réciproqué"
+		},
+		"passé": {
+			"j'": "aie réciproqué",
+			"que": "vous ayez réciproqué",
+			"qu'il/elle": "ait réciproqué",
+			"qu'ils/elles": "aient réciproqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "réciproquerais",
+			"tu": "réciproquerais",
+			"il/elle": "réciproquerait",
+			"nous": "réciproquerions",
+			"vous": "réciproqueriez",
+			"ils/elles": "réciproqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais réciproqué",
+			"tu": "aurais réciproqué",
+			"il/elle": "aurait réciproqué",
+			"nous": "aurions réciproqué",
+			"vous": "auriez réciproqué",
+			"ils/elles": "auraient réciproqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse réciproqué",
+			"tu": "eusses réciproqué",
+			"il/elle": "eût réciproqué",
+			"nous": "eussions réciproqué",
+			"vous": "eussiez réciproqué",
+			"ils/elles": "eussent réciproqué"
+		}
+	},
+	"participe": {
+		"présent": { "réciproquant": "" },
+		"passé composé": { "ayant": "réciproqué" },
+		"passé": {
+			"masc.sg.:": "réciproqué",
+			"masc.pl.:": "réciproqués",
+			"fém.sg.:": "réciproquée",
+			"fém.pl.:": "réciproquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "réciproque": "", "réciproquons": "", "réciproquez": "" },
+		"passé": {
+			"aie": "réciproqué",
+			"ayons": "réciproqué",
+			"ayez": "réciproqué"
+		}
+	},
+	"infinitif": {
+		"présent": { "réciproquer": "" },
+		"passé": { "avoir": "réciproqué" }
+	}
+}

@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "compensate; indemnify; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'indemniser/ne pas indemniser/ne pas s'indemniser",
+	"indicatif": {
+		"présent": {
+			"j'": "indemnise",
+			"tu": "indemnises",
+			"il/elle": "indemnise",
+			"nous": "indemnisons",
+			"vous": "indemnisez",
+			"ils/elles": "indemnisent"
+		},
+		"imparfait": {
+			"j'": "indemnisais",
+			"tu": "indemnisais",
+			"il/elle": "indemnisait",
+			"nous": "indemnisions",
+			"vous": "indemnisiez",
+			"ils/elles": "indemnisaient"
+		},
+		"futur": {
+			"j'": "indemniserai",
+			"tu": "indemniseras",
+			"il/elle": "indemnisera",
+			"nous": "indemniserons",
+			"vous": "indemniserez",
+			"ils/elles": "indemniseront"
+		},
+		"passé simple": {
+			"j'": "indemnisai",
+			"tu": "indemnisas",
+			"il/elle": "indemnisa",
+			"nous": "indemnisâmes",
+			"vous": "indemnisâtes",
+			"ils/elles": "indemnisèrent"
+		},
+		"passé composé": {
+			"j'": "ai indemnisé",
+			"tu": "as indemnisé",
+			"il/elle": "a indemnisé",
+			"nous": "avons indemnisé",
+			"vous": "avez indemnisé",
+			"ils/elles": "ont indemnisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais indemnisé",
+			"tu": "avais indemnisé",
+			"il/elle": "avait indemnisé",
+			"nous": "avions indemnisé",
+			"vous": "aviez indemnisé",
+			"ils/elles": "avaient indemnisé"
+		},
+		"passé antérieur": {
+			"j'": "eus indemnisé",
+			"tu": "eus indemnisé",
+			"il/elle": "eut indemnisé",
+			"nous": "eûmes indemnisé",
+			"vous": "eûtes indemnisé",
+			"ils/elles": "eurent indemnisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai indemnisé",
+			"tu": "auras indemnisé",
+			"il/elle": "aura indemnisé",
+			"nous": "aurons indemnisé",
+			"vous": "aurez indemnisé",
+			"ils/elles": "auront indemnisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "indemnise",
+			"que": "vous indemnisiez",
+			"qu'il/elle": "indemnise",
+			"qu'ils/elles": "indemnisent"
+		},
+		"imparfait": {
+			"j'": "indemnisasse",
+			"que": "vous indemnisassiez",
+			"qu'il/elle": "indemnisât",
+			"qu'ils/elles": "indemnisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse indemnisé",
+			"que": "vous eussiez indemnisé",
+			"qu'il/elle": "eût indemnisé",
+			"qu'ils/elles": "eussent indemnisé"
+		},
+		"passé": {
+			"j'": "aie indemnisé",
+			"que": "vous ayez indemnisé",
+			"qu'il/elle": "ait indemnisé",
+			"qu'ils/elles": "aient indemnisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "indemniserais",
+			"tu": "indemniserais",
+			"il/elle": "indemniserait",
+			"nous": "indemniserions",
+			"vous": "indemniseriez",
+			"ils/elles": "indemniseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais indemnisé",
+			"tu": "aurais indemnisé",
+			"il/elle": "aurait indemnisé",
+			"nous": "aurions indemnisé",
+			"vous": "auriez indemnisé",
+			"ils/elles": "auraient indemnisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse indemnisé",
+			"tu": "eusses indemnisé",
+			"il/elle": "eût indemnisé",
+			"nous": "eussions indemnisé",
+			"vous": "eussiez indemnisé",
+			"ils/elles": "eussent indemnisé"
+		}
+	},
+	"participe": {
+		"présent": { "indemnisant": "" },
+		"passé composé": { "ayant": "indemnisé" },
+		"passé": {
+			"masc.sg.:": "indemnisé",
+			"masc.pl.:": "indemnisés",
+			"fém.sg.:": "indemnisée",
+			"fém.pl.:": "indemnisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "indemnise": "", "indemnisons": "", "indemnisez": "" },
+		"passé": { "aie": "indemnisé", "ayons": "indemnisé", "ayez": "indemnisé" }
+	},
+	"infinitif": {
+		"présent": { "indemniser": "" },
+		"passé": { "avoir": "indemnisé" }
+	}
+}

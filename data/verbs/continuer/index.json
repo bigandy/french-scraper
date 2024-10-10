@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "continue; keep; further; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se continuer/ne pas continuer/ne pas se continuer",
+	"indicatif": {
+		"présent": {
+			"je": "continue",
+			"tu": "continues",
+			"il/elle": "continue",
+			"nous": "continuons",
+			"vous": "continuez",
+			"ils/elles": "continuent"
+		},
+		"imparfait": {
+			"je": "continuais",
+			"tu": "continuais",
+			"il/elle": "continuait",
+			"nous": "continuions",
+			"vous": "continuiez",
+			"ils/elles": "continuaient"
+		},
+		"futur": {
+			"je": "continuerai",
+			"tu": "continueras",
+			"il/elle": "continuera",
+			"nous": "continuerons",
+			"vous": "continuerez",
+			"ils/elles": "continueront"
+		},
+		"passé simple": {
+			"je": "continuai",
+			"tu": "continuas",
+			"il/elle": "continua",
+			"nous": "continuâmes",
+			"vous": "continuâtes",
+			"ils/elles": "continuèrent"
+		},
+		"passé composé": {
+			"j'": "ai continué",
+			"tu": "as continué",
+			"il/elle": "a continué",
+			"nous": "avons continué",
+			"vous": "avez continué",
+			"ils/elles": "ont continué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais continué",
+			"tu": "avais continué",
+			"il/elle": "avait continué",
+			"nous": "avions continué",
+			"vous": "aviez continué",
+			"ils/elles": "avaient continué"
+		},
+		"passé antérieur": {
+			"j'": "eus continué",
+			"tu": "eus continué",
+			"il/elle": "eut continué",
+			"nous": "eûmes continué",
+			"vous": "eûtes continué",
+			"ils/elles": "eurent continué"
+		},
+		"futur antérieur": {
+			"j'": "aurai continué",
+			"tu": "auras continué",
+			"il/elle": "aura continué",
+			"nous": "aurons continué",
+			"vous": "aurez continué",
+			"ils/elles": "auront continué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous continuiez",
+			"qu'il/elle": "continue",
+			"qu'ils/elles": "continuent"
+		},
+		"imparfait": {
+			"que": "vous continuassiez",
+			"qu'il/elle": "continuât",
+			"qu'ils/elles": "continuassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse continué",
+			"que": "vous eussiez continué",
+			"qu'il/elle": "eût continué",
+			"qu'ils/elles": "eussent continué"
+		},
+		"passé": {
+			"j'": "aie continué",
+			"que": "vous ayez continué",
+			"qu'il/elle": "ait continué",
+			"qu'ils/elles": "aient continué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "continuerais",
+			"tu": "continuerais",
+			"il/elle": "continuerait",
+			"nous": "continuerions",
+			"vous": "continueriez",
+			"ils/elles": "continueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais continué",
+			"tu": "aurais continué",
+			"il/elle": "aurait continué",
+			"nous": "aurions continué",
+			"vous": "auriez continué",
+			"ils/elles": "auraient continué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse continué",
+			"tu": "eusses continué",
+			"il/elle": "eût continué",
+			"nous": "eussions continué",
+			"vous": "eussiez continué",
+			"ils/elles": "eussent continué"
+		}
+	},
+	"participe": {
+		"présent": { "continuant": "" },
+		"passé composé": { "ayant": "continué" },
+		"passé": {
+			"masc.sg.:": "continué",
+			"masc.pl.:": "continués",
+			"fém.sg.:": "continuée",
+			"fém.pl.:": "continuées"
+		}
+	},
+	"imperatif": {
+		"présent": { "continue": "", "continuons": "", "continuez": "" },
+		"passé": { "aie": "continué", "ayons": "continué", "ayez": "continué" }
+	},
+	"infinitif": {
+		"présent": { "continuer": "" },
+		"passé": { "avoir": "continué" }
+	}
+}

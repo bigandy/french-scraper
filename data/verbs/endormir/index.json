@@ -1,0 +1,143 @@
+{
+	"name": "endormir",
+	"definition": "lull; numb; ...",
+	"model": "endormir",
+	"auxiliary": "avoir",
+	"otherForms": "s'endormir/ne pas endormir/ne pas s'endormir",
+	"indicatif": {
+		"présent": {
+			"j'": "endors",
+			"tu": "endors",
+			"il/elle": "endort",
+			"nous": "endormons",
+			"vous": "endormez",
+			"ils/elles": "endorment"
+		},
+		"imparfait": {
+			"j'": "endormais",
+			"tu": "endormais",
+			"il/elle": "endormait",
+			"nous": "endormions",
+			"vous": "endormiez",
+			"ils/elles": "endormaient"
+		},
+		"futur": {
+			"j'": "endormirai",
+			"tu": "endormiras",
+			"il/elle": "endormira",
+			"nous": "endormirons",
+			"vous": "endormirez",
+			"ils/elles": "endormiront"
+		},
+		"passé simple": {
+			"j'": "endormis",
+			"tu": "endormis",
+			"il/elle": "endormit",
+			"nous": "endormîmes",
+			"vous": "endormîtes",
+			"ils/elles": "endormirent"
+		},
+		"passé composé": {
+			"j'": "ai endormi",
+			"tu": "as endormi",
+			"il/elle": "a endormi",
+			"nous": "avons endormi",
+			"vous": "avez endormi",
+			"ils/elles": "ont endormi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais endormi",
+			"tu": "avais endormi",
+			"il/elle": "avait endormi",
+			"nous": "avions endormi",
+			"vous": "aviez endormi",
+			"ils/elles": "avaient endormi"
+		},
+		"passé antérieur": {
+			"j'": "eus endormi",
+			"tu": "eus endormi",
+			"il/elle": "eut endormi",
+			"nous": "eûmes endormi",
+			"vous": "eûtes endormi",
+			"ils/elles": "eurent endormi"
+		},
+		"futur antérieur": {
+			"j'": "aurai endormi",
+			"tu": "auras endormi",
+			"il/elle": "aura endormi",
+			"nous": "aurons endormi",
+			"vous": "aurez endormi",
+			"ils/elles": "auront endormi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "endorme",
+			"que": "vous endormiez",
+			"qu'il/elle": "endorme",
+			"qu'ils/elles": "endorment"
+		},
+		"imparfait": {
+			"j'": "endormisse",
+			"que": "vous endormissiez",
+			"qu'il/elle": "endormît",
+			"qu'ils/elles": "endormissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse endormi",
+			"que": "vous eussiez endormi",
+			"qu'il/elle": "eût endormi",
+			"qu'ils/elles": "eussent endormi"
+		},
+		"passé": {
+			"j'": "aie endormi",
+			"que": "vous ayez endormi",
+			"qu'il/elle": "ait endormi",
+			"qu'ils/elles": "aient endormi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "endormirais",
+			"tu": "endormirais",
+			"il/elle": "endormirait",
+			"nous": "endormirions",
+			"vous": "endormiriez",
+			"ils/elles": "endormiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais endormi",
+			"tu": "aurais endormi",
+			"il/elle": "aurait endormi",
+			"nous": "aurions endormi",
+			"vous": "auriez endormi",
+			"ils/elles": "auraient endormi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse endormi",
+			"tu": "eusses endormi",
+			"il/elle": "eût endormi",
+			"nous": "eussions endormi",
+			"vous": "eussiez endormi",
+			"ils/elles": "eussent endormi"
+		}
+	},
+	"participe": {
+		"présent": { "endormant": "" },
+		"passé composé": { "ayant": "endormi" },
+		"passé": {
+			"masc.sg.:": "endormi",
+			"masc.pl.:": "endormis",
+			"fém.sg.:": "endormie",
+			"fém.pl.:": "endormies"
+		}
+	},
+	"imperatif": {
+		"présent": { "endors": "", "endormons": "", "endormez": "" },
+		"passé": { "aie": "endormi", "ayons": "endormi", "ayez": "endormi" }
+	},
+	"infinitif": {
+		"présent": { "endormir": "" },
+		"passé": { "avoir": "endormi" }
+	}
+}

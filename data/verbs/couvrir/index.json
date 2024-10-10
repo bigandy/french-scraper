@@ -1,0 +1,138 @@
+{
+	"name": "ouvrir",
+	"definition": "cover; meet; include; ...",
+	"model": "ouvrir",
+	"auxiliary": "avoir",
+	"otherForms": "se couvrir/ne pas couvrir/ne pas se couvrir",
+	"indicatif": {
+		"présent": {
+			"je": "couvre",
+			"tu": "couvres",
+			"il/elle": "couvre",
+			"nous": "couvrons",
+			"vous": "couvrez",
+			"ils/elles": "couvrent"
+		},
+		"imparfait": {
+			"je": "couvrais",
+			"tu": "couvrais",
+			"il/elle": "couvrait",
+			"nous": "couvrions",
+			"vous": "couvriez",
+			"ils/elles": "couvraient"
+		},
+		"futur": {
+			"je": "couvrirai",
+			"tu": "couvriras",
+			"il/elle": "couvrira",
+			"nous": "couvrirons",
+			"vous": "couvrirez",
+			"ils/elles": "couvriront"
+		},
+		"passé simple": {
+			"je": "couvris",
+			"tu": "couvris",
+			"il/elle": "couvrit",
+			"nous": "couvrîmes",
+			"vous": "couvrîtes",
+			"ils/elles": "couvrirent"
+		},
+		"passé composé": {
+			"j'": "ai couvert",
+			"tu": "as couvert",
+			"il/elle": "a couvert",
+			"nous": "avons couvert",
+			"vous": "avez couvert",
+			"ils/elles": "ont couvert"
+		},
+		"plus-que-parfait": {
+			"j'": "avais couvert",
+			"tu": "avais couvert",
+			"il/elle": "avait couvert",
+			"nous": "avions couvert",
+			"vous": "aviez couvert",
+			"ils/elles": "avaient couvert"
+		},
+		"passé antérieur": {
+			"j'": "eus couvert",
+			"tu": "eus couvert",
+			"il/elle": "eut couvert",
+			"nous": "eûmes couvert",
+			"vous": "eûtes couvert",
+			"ils/elles": "eurent couvert"
+		},
+		"futur antérieur": {
+			"j'": "aurai couvert",
+			"tu": "auras couvert",
+			"il/elle": "aura couvert",
+			"nous": "aurons couvert",
+			"vous": "aurez couvert",
+			"ils/elles": "auront couvert"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous couvriez",
+			"qu'il/elle": "couvre",
+			"qu'ils/elles": "couvrent"
+		},
+		"imparfait": {
+			"que": "vous couvrissiez",
+			"qu'il/elle": "couvrît",
+			"qu'ils/elles": "couvrissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse couvert",
+			"que": "vous eussiez couvert",
+			"qu'il/elle": "eût couvert",
+			"qu'ils/elles": "eussent couvert"
+		},
+		"passé": {
+			"j'": "aie couvert",
+			"que": "vous ayez couvert",
+			"qu'il/elle": "ait couvert",
+			"qu'ils/elles": "aient couvert"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "couvrirais",
+			"tu": "couvrirais",
+			"il/elle": "couvrirait",
+			"nous": "couvririons",
+			"vous": "couvririez",
+			"ils/elles": "couvriraient"
+		},
+		"passé première forme": {
+			"j'": "aurais couvert",
+			"tu": "aurais couvert",
+			"il/elle": "aurait couvert",
+			"nous": "aurions couvert",
+			"vous": "auriez couvert",
+			"ils/elles": "auraient couvert"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse couvert",
+			"tu": "eusses couvert",
+			"il/elle": "eût couvert",
+			"nous": "eussions couvert",
+			"vous": "eussiez couvert",
+			"ils/elles": "eussent couvert"
+		}
+	},
+	"participe": {
+		"présent": { "couvrant": "" },
+		"passé composé": { "ayant": "couvert" },
+		"passé": {
+			"masc.sg.:": "couvert",
+			"masc.pl.:": "couverts",
+			"fém.sg.:": "couverte",
+			"fém.pl.:": "couvertes"
+		}
+	},
+	"imperatif": {
+		"présent": { "couvre": "", "couvrons": "", "couvrez": "" },
+		"passé": { "aie": "couvert", "ayons": "couvert", "ayez": "couvert" }
+	},
+	"infinitif": { "présent": { "couvrir": "" }, "passé": { "avoir": "couvert" } }
+}

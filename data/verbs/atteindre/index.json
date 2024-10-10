@@ -1,0 +1,143 @@
+{
+	"name": "craindre",
+	"definition": "achieve; reach; meet; ...",
+	"model": "craindre",
+	"auxiliary": "avoir",
+	"otherForms": "s'atteindre/ne pas atteindre/ne pas s'atteindre",
+	"indicatif": {
+		"présent": {
+			"j'": "atteins",
+			"tu": "atteins",
+			"il/elle": "atteint",
+			"nous": "atteignons",
+			"vous": "atteignez",
+			"ils/elles": "atteignent"
+		},
+		"imparfait": {
+			"j'": "atteignais",
+			"tu": "atteignais",
+			"il/elle": "atteignait",
+			"nous": "atteignions",
+			"vous": "atteigniez",
+			"ils/elles": "atteignaient"
+		},
+		"futur": {
+			"j'": "atteindrai",
+			"tu": "atteindras",
+			"il/elle": "atteindra",
+			"nous": "atteindrons",
+			"vous": "atteindrez",
+			"ils/elles": "atteindront"
+		},
+		"passé simple": {
+			"j'": "atteignis",
+			"tu": "atteignis",
+			"il/elle": "atteignit",
+			"nous": "atteignîmes",
+			"vous": "atteignîtes",
+			"ils/elles": "atteignirent"
+		},
+		"passé composé": {
+			"j'": "ai atteint",
+			"tu": "as atteint",
+			"il/elle": "a atteint",
+			"nous": "avons atteint",
+			"vous": "avez atteint",
+			"ils/elles": "ont atteint"
+		},
+		"plus-que-parfait": {
+			"j'": "avais atteint",
+			"tu": "avais atteint",
+			"il/elle": "avait atteint",
+			"nous": "avions atteint",
+			"vous": "aviez atteint",
+			"ils/elles": "avaient atteint"
+		},
+		"passé antérieur": {
+			"j'": "eus atteint",
+			"tu": "eus atteint",
+			"il/elle": "eut atteint",
+			"nous": "eûmes atteint",
+			"vous": "eûtes atteint",
+			"ils/elles": "eurent atteint"
+		},
+		"futur antérieur": {
+			"j'": "aurai atteint",
+			"tu": "auras atteint",
+			"il/elle": "aura atteint",
+			"nous": "aurons atteint",
+			"vous": "aurez atteint",
+			"ils/elles": "auront atteint"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "atteigne",
+			"que": "vous atteigniez",
+			"qu'il/elle": "atteigne",
+			"qu'ils/elles": "atteignent"
+		},
+		"imparfait": {
+			"j'": "atteignisse",
+			"que": "vous atteignissiez",
+			"qu'il/elle": "atteignît",
+			"qu'ils/elles": "atteignissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse atteint",
+			"que": "vous eussiez atteint",
+			"qu'il/elle": "eût atteint",
+			"qu'ils/elles": "eussent atteint"
+		},
+		"passé": {
+			"j'": "aie atteint",
+			"que": "vous ayez atteint",
+			"qu'il/elle": "ait atteint",
+			"qu'ils/elles": "aient atteint"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "atteindrais",
+			"tu": "atteindrais",
+			"il/elle": "atteindrait",
+			"nous": "atteindrions",
+			"vous": "atteindriez",
+			"ils/elles": "atteindraient"
+		},
+		"passé première forme": {
+			"j'": "aurais atteint",
+			"tu": "aurais atteint",
+			"il/elle": "aurait atteint",
+			"nous": "aurions atteint",
+			"vous": "auriez atteint",
+			"ils/elles": "auraient atteint"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse atteint",
+			"tu": "eusses atteint",
+			"il/elle": "eût atteint",
+			"nous": "eussions atteint",
+			"vous": "eussiez atteint",
+			"ils/elles": "eussent atteint"
+		}
+	},
+	"participe": {
+		"présent": { "atteignant": "" },
+		"passé composé": { "ayant": "atteint" },
+		"passé": {
+			"masc.sg.:": "atteint",
+			"masc.pl.:": "atteints",
+			"fém.sg.:": "atteinte",
+			"fém.pl.:": "atteintes"
+		}
+	},
+	"imperatif": {
+		"présent": { "atteins": "", "atteignons": "", "atteignez": "" },
+		"passé": { "aie": "atteint", "ayons": "atteint", "ayez": "atteint" }
+	},
+	"infinitif": {
+		"présent": { "atteindre": "" },
+		"passé": { "avoir": "atteint" }
+	}
+}

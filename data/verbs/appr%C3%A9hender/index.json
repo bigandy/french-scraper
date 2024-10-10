@@ -1,0 +1,147 @@
+{
+	"name": "marcher",
+	"definition": "understand; apprehend; grasp; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'appréhender/ne pas appréhender/ne pas s'appréhender",
+	"indicatif": {
+		"présent": {
+			"j'": "appréhende",
+			"tu": "appréhendes",
+			"il/elle": "appréhende",
+			"nous": "appréhendons",
+			"vous": "appréhendez",
+			"ils/elles": "appréhendent"
+		},
+		"imparfait": {
+			"j'": "appréhendais",
+			"tu": "appréhendais",
+			"il/elle": "appréhendait",
+			"nous": "appréhendions",
+			"vous": "appréhendiez",
+			"ils/elles": "appréhendaient"
+		},
+		"futur": {
+			"j'": "appréhenderai",
+			"tu": "appréhenderas",
+			"il/elle": "appréhendera",
+			"nous": "appréhenderons",
+			"vous": "appréhenderez",
+			"ils/elles": "appréhenderont"
+		},
+		"passé simple": {
+			"j'": "appréhendai",
+			"tu": "appréhendas",
+			"il/elle": "appréhenda",
+			"nous": "appréhendâmes",
+			"vous": "appréhendâtes",
+			"ils/elles": "appréhendèrent"
+		},
+		"passé composé": {
+			"j'": "ai appréhendé",
+			"tu": "as appréhendé",
+			"il/elle": "a appréhendé",
+			"nous": "avons appréhendé",
+			"vous": "avez appréhendé",
+			"ils/elles": "ont appréhendé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais appréhendé",
+			"tu": "avais appréhendé",
+			"il/elle": "avait appréhendé",
+			"nous": "avions appréhendé",
+			"vous": "aviez appréhendé",
+			"ils/elles": "avaient appréhendé"
+		},
+		"passé antérieur": {
+			"j'": "eus appréhendé",
+			"tu": "eus appréhendé",
+			"il/elle": "eut appréhendé",
+			"nous": "eûmes appréhendé",
+			"vous": "eûtes appréhendé",
+			"ils/elles": "eurent appréhendé"
+		},
+		"futur antérieur": {
+			"j'": "aurai appréhendé",
+			"tu": "auras appréhendé",
+			"il/elle": "aura appréhendé",
+			"nous": "aurons appréhendé",
+			"vous": "aurez appréhendé",
+			"ils/elles": "auront appréhendé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "appréhende",
+			"que": "vous appréhendiez",
+			"qu'il/elle": "appréhende",
+			"qu'ils/elles": "appréhendent"
+		},
+		"imparfait": {
+			"j'": "appréhendasse",
+			"que": "vous appréhendassiez",
+			"qu'il/elle": "appréhendât",
+			"qu'ils/elles": "appréhendassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse appréhendé",
+			"que": "vous eussiez appréhendé",
+			"qu'il/elle": "eût appréhendé",
+			"qu'ils/elles": "eussent appréhendé"
+		},
+		"passé": {
+			"j'": "aie appréhendé",
+			"que": "vous ayez appréhendé",
+			"qu'il/elle": "ait appréhendé",
+			"qu'ils/elles": "aient appréhendé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "appréhenderais",
+			"tu": "appréhenderais",
+			"il/elle": "appréhenderait",
+			"nous": "appréhenderions",
+			"vous": "appréhenderiez",
+			"ils/elles": "appréhenderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais appréhendé",
+			"tu": "aurais appréhendé",
+			"il/elle": "aurait appréhendé",
+			"nous": "aurions appréhendé",
+			"vous": "auriez appréhendé",
+			"ils/elles": "auraient appréhendé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse appréhendé",
+			"tu": "eusses appréhendé",
+			"il/elle": "eût appréhendé",
+			"nous": "eussions appréhendé",
+			"vous": "eussiez appréhendé",
+			"ils/elles": "eussent appréhendé"
+		}
+	},
+	"participe": {
+		"présent": { "appréhendant": "" },
+		"passé composé": { "ayant": "appréhendé" },
+		"passé": {
+			"masc.sg.:": "appréhendé",
+			"masc.pl.:": "appréhendés",
+			"fém.sg.:": "appréhendée",
+			"fém.pl.:": "appréhendées"
+		}
+	},
+	"imperatif": {
+		"présent": { "appréhende": "", "appréhendons": "", "appréhendez": "" },
+		"passé": {
+			"aie": "appréhendé",
+			"ayons": "appréhendé",
+			"ayez": "appréhendé"
+		}
+	},
+	"infinitif": {
+		"présent": { "appréhender": "" },
+		"passé": { "avoir": "appréhendé" }
+	}
+}

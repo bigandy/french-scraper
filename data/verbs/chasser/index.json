@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "hunt; chase; drive out; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se chasser/ne pas chasser/ne pas se chasser",
+	"indicatif": {
+		"présent": {
+			"je": "chasse",
+			"tu": "chasses",
+			"il/elle": "chasse",
+			"nous": "chassons",
+			"vous": "chassez",
+			"ils/elles": "chassent"
+		},
+		"imparfait": {
+			"je": "chassais",
+			"tu": "chassais",
+			"il/elle": "chassait",
+			"nous": "chassions",
+			"vous": "chassiez",
+			"ils/elles": "chassaient"
+		},
+		"futur": {
+			"je": "chasserai",
+			"tu": "chasseras",
+			"il/elle": "chassera",
+			"nous": "chasserons",
+			"vous": "chasserez",
+			"ils/elles": "chasseront"
+		},
+		"passé simple": {
+			"je": "chassai",
+			"tu": "chassas",
+			"il/elle": "chassa",
+			"nous": "chassâmes",
+			"vous": "chassâtes",
+			"ils/elles": "chassèrent"
+		},
+		"passé composé": {
+			"j'": "ai chassé",
+			"tu": "as chassé",
+			"il/elle": "a chassé",
+			"nous": "avons chassé",
+			"vous": "avez chassé",
+			"ils/elles": "ont chassé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais chassé",
+			"tu": "avais chassé",
+			"il/elle": "avait chassé",
+			"nous": "avions chassé",
+			"vous": "aviez chassé",
+			"ils/elles": "avaient chassé"
+		},
+		"passé antérieur": {
+			"j'": "eus chassé",
+			"tu": "eus chassé",
+			"il/elle": "eut chassé",
+			"nous": "eûmes chassé",
+			"vous": "eûtes chassé",
+			"ils/elles": "eurent chassé"
+		},
+		"futur antérieur": {
+			"j'": "aurai chassé",
+			"tu": "auras chassé",
+			"il/elle": "aura chassé",
+			"nous": "aurons chassé",
+			"vous": "aurez chassé",
+			"ils/elles": "auront chassé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous chassiez",
+			"qu'il/elle": "chasse",
+			"qu'ils/elles": "chassent"
+		},
+		"imparfait": {
+			"que": "vous chassassiez",
+			"qu'il/elle": "chassât",
+			"qu'ils/elles": "chassassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse chassé",
+			"que": "vous eussiez chassé",
+			"qu'il/elle": "eût chassé",
+			"qu'ils/elles": "eussent chassé"
+		},
+		"passé": {
+			"j'": "aie chassé",
+			"que": "vous ayez chassé",
+			"qu'il/elle": "ait chassé",
+			"qu'ils/elles": "aient chassé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "chasserais",
+			"tu": "chasserais",
+			"il/elle": "chasserait",
+			"nous": "chasserions",
+			"vous": "chasseriez",
+			"ils/elles": "chasseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais chassé",
+			"tu": "aurais chassé",
+			"il/elle": "aurait chassé",
+			"nous": "aurions chassé",
+			"vous": "auriez chassé",
+			"ils/elles": "auraient chassé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse chassé",
+			"tu": "eusses chassé",
+			"il/elle": "eût chassé",
+			"nous": "eussions chassé",
+			"vous": "eussiez chassé",
+			"ils/elles": "eussent chassé"
+		}
+	},
+	"participe": {
+		"présent": { "chassant": "" },
+		"passé composé": { "ayant": "chassé" },
+		"passé": {
+			"masc.sg.:": "chassé",
+			"masc.pl.:": "chassés",
+			"fém.sg.:": "chassée",
+			"fém.pl.:": "chassées"
+		}
+	},
+	"imperatif": {
+		"présent": { "chasse": "", "chassons": "", "chassez": "" },
+		"passé": { "aie": "chassé", "ayons": "chassé", "ayez": "chassé" }
+	},
+	"infinitif": { "présent": { "chasser": "" }, "passé": { "avoir": "chassé" } }
+}

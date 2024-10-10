@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "surround; enclose; encircle; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'entourer/ne pas entourer/ne pas s'entourer",
+	"indicatif": {
+		"présent": {
+			"j'": "entoure",
+			"tu": "entoures",
+			"il/elle": "entoure",
+			"nous": "entourons",
+			"vous": "entourez",
+			"ils/elles": "entourent"
+		},
+		"imparfait": {
+			"j'": "entourais",
+			"tu": "entourais",
+			"il/elle": "entourait",
+			"nous": "entourions",
+			"vous": "entouriez",
+			"ils/elles": "entouraient"
+		},
+		"futur": {
+			"j'": "entourerai",
+			"tu": "entoureras",
+			"il/elle": "entourera",
+			"nous": "entourerons",
+			"vous": "entourerez",
+			"ils/elles": "entoureront"
+		},
+		"passé simple": {
+			"j'": "entourai",
+			"tu": "entouras",
+			"il/elle": "entoura",
+			"nous": "entourâmes",
+			"vous": "entourâtes",
+			"ils/elles": "entourèrent"
+		},
+		"passé composé": {
+			"j'": "ai entouré",
+			"tu": "as entouré",
+			"il/elle": "a entouré",
+			"nous": "avons entouré",
+			"vous": "avez entouré",
+			"ils/elles": "ont entouré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais entouré",
+			"tu": "avais entouré",
+			"il/elle": "avait entouré",
+			"nous": "avions entouré",
+			"vous": "aviez entouré",
+			"ils/elles": "avaient entouré"
+		},
+		"passé antérieur": {
+			"j'": "eus entouré",
+			"tu": "eus entouré",
+			"il/elle": "eut entouré",
+			"nous": "eûmes entouré",
+			"vous": "eûtes entouré",
+			"ils/elles": "eurent entouré"
+		},
+		"futur antérieur": {
+			"j'": "aurai entouré",
+			"tu": "auras entouré",
+			"il/elle": "aura entouré",
+			"nous": "aurons entouré",
+			"vous": "aurez entouré",
+			"ils/elles": "auront entouré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "entoure",
+			"que": "vous entouriez",
+			"qu'il/elle": "entoure",
+			"qu'ils/elles": "entourent"
+		},
+		"imparfait": {
+			"j'": "entourasse",
+			"que": "vous entourassiez",
+			"qu'il/elle": "entourât",
+			"qu'ils/elles": "entourassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse entouré",
+			"que": "vous eussiez entouré",
+			"qu'il/elle": "eût entouré",
+			"qu'ils/elles": "eussent entouré"
+		},
+		"passé": {
+			"j'": "aie entouré",
+			"que": "vous ayez entouré",
+			"qu'il/elle": "ait entouré",
+			"qu'ils/elles": "aient entouré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "entourerais",
+			"tu": "entourerais",
+			"il/elle": "entourerait",
+			"nous": "entourerions",
+			"vous": "entoureriez",
+			"ils/elles": "entoureraient"
+		},
+		"passé première forme": {
+			"j'": "aurais entouré",
+			"tu": "aurais entouré",
+			"il/elle": "aurait entouré",
+			"nous": "aurions entouré",
+			"vous": "auriez entouré",
+			"ils/elles": "auraient entouré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse entouré",
+			"tu": "eusses entouré",
+			"il/elle": "eût entouré",
+			"nous": "eussions entouré",
+			"vous": "eussiez entouré",
+			"ils/elles": "eussent entouré"
+		}
+	},
+	"participe": {
+		"présent": { "entourant": "" },
+		"passé composé": { "ayant": "entouré" },
+		"passé": {
+			"masc.sg.:": "entouré",
+			"masc.pl.:": "entourés",
+			"fém.sg.:": "entourée",
+			"fém.pl.:": "entourées"
+		}
+	},
+	"imperatif": {
+		"présent": { "entoure": "", "entourons": "", "entourez": "" },
+		"passé": { "aie": "entouré", "ayons": "entouré", "ayez": "entouré" }
+	},
+	"infinitif": {
+		"présent": { "entourer": "" },
+		"passé": { "avoir": "entouré" }
+	}
+}

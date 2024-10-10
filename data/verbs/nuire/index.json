@@ -1,0 +1,138 @@
+{
+	"name": "nuire",
+	"definition": "harm; undermine; ...",
+	"model": "nuire",
+	"auxiliary": "avoir",
+	"otherForms": "se nuire/ne pas nuire/ne pas se nuire",
+	"indicatif": {
+		"présent": {
+			"je": "nuis",
+			"tu": "nuis",
+			"il/elle": "nuit",
+			"nous": "nuisons",
+			"vous": "nuisez",
+			"ils/elles": "nuisent"
+		},
+		"imparfait": {
+			"je": "nuisais",
+			"tu": "nuisais",
+			"il/elle": "nuisait",
+			"nous": "nuisions",
+			"vous": "nuisiez",
+			"ils/elles": "nuisaient"
+		},
+		"futur": {
+			"je": "nuirai",
+			"tu": "nuiras",
+			"il/elle": "nuira",
+			"nous": "nuirons",
+			"vous": "nuirez",
+			"ils/elles": "nuiront"
+		},
+		"passé simple": {
+			"je": "nuisis",
+			"tu": "nuisis",
+			"il/elle": "nuisit",
+			"nous": "nuisîmes",
+			"vous": "nuisîtes",
+			"ils/elles": "nuisirent"
+		},
+		"passé composé": {
+			"j'": "ai nui",
+			"tu": "as nui",
+			"il/elle": "a nui",
+			"nous": "avons nui",
+			"vous": "avez nui",
+			"ils/elles": "ont nui"
+		},
+		"plus-que-parfait": {
+			"j'": "avais nui",
+			"tu": "avais nui",
+			"il/elle": "avait nui",
+			"nous": "avions nui",
+			"vous": "aviez nui",
+			"ils/elles": "avaient nui"
+		},
+		"passé antérieur": {
+			"j'": "eus nui",
+			"tu": "eus nui",
+			"il/elle": "eut nui",
+			"nous": "eûmes nui",
+			"vous": "eûtes nui",
+			"ils/elles": "eurent nui"
+		},
+		"futur antérieur": {
+			"j'": "aurai nui",
+			"tu": "auras nui",
+			"il/elle": "aura nui",
+			"nous": "aurons nui",
+			"vous": "aurez nui",
+			"ils/elles": "auront nui"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous nuisiez",
+			"qu'il/elle": "nuise",
+			"qu'ils/elles": "nuisent"
+		},
+		"imparfait": {
+			"que": "vous nuisissiez",
+			"qu'il/elle": "nuisît",
+			"qu'ils/elles": "nuisissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse nui",
+			"que": "vous eussiez nui",
+			"qu'il/elle": "eût nui",
+			"qu'ils/elles": "eussent nui"
+		},
+		"passé": {
+			"j'": "aie nui",
+			"que": "vous ayez nui",
+			"qu'il/elle": "ait nui",
+			"qu'ils/elles": "aient nui"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "nuirais",
+			"tu": "nuirais",
+			"il/elle": "nuirait",
+			"nous": "nuirions",
+			"vous": "nuiriez",
+			"ils/elles": "nuiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais nui",
+			"tu": "aurais nui",
+			"il/elle": "aurait nui",
+			"nous": "aurions nui",
+			"vous": "auriez nui",
+			"ils/elles": "auraient nui"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse nui",
+			"tu": "eusses nui",
+			"il/elle": "eût nui",
+			"nous": "eussions nui",
+			"vous": "eussiez nui",
+			"ils/elles": "eussent nui"
+		}
+	},
+	"participe": {
+		"présent": { "nuisant": "" },
+		"passé composé": { "ayant": "nui" },
+		"passé": {
+			"masc.sg.:": "nui",
+			"masc.pl.:": "nui",
+			"fém.sg.:": "nui",
+			"fém.pl.:": "nui"
+		}
+	},
+	"imperatif": {
+		"présent": { "nuis": "", "nuisons": "", "nuisez": "" },
+		"passé": { "aie": "nui", "ayons": "nui", "ayez": "nui" }
+	},
+	"infinitif": { "présent": { "nuire": "" }, "passé": { "avoir": "nui" } }
+}

@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "taste; try; enjoy; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se goûter/ne pas goûter/ne pas se goûter",
+	"indicatif": {
+		"présent": {
+			"je": "goûte",
+			"tu": "goûtes",
+			"il/elle": "goûte",
+			"nous": "goûtons",
+			"vous": "goûtez",
+			"ils/elles": "goûtent"
+		},
+		"imparfait": {
+			"je": "goûtais",
+			"tu": "goûtais",
+			"il/elle": "goûtait",
+			"nous": "goûtions",
+			"vous": "goûtiez",
+			"ils/elles": "goûtaient"
+		},
+		"futur": {
+			"je": "goûterai",
+			"tu": "goûteras",
+			"il/elle": "goûtera",
+			"nous": "goûterons",
+			"vous": "goûterez",
+			"ils/elles": "goûteront"
+		},
+		"passé simple": {
+			"je": "goûtai",
+			"tu": "goûtas",
+			"il/elle": "goûta",
+			"nous": "goûtâmes",
+			"vous": "goûtâtes",
+			"ils/elles": "goûtèrent"
+		},
+		"passé composé": {
+			"j'": "ai goûté",
+			"tu": "as goûté",
+			"il/elle": "a goûté",
+			"nous": "avons goûté",
+			"vous": "avez goûté",
+			"ils/elles": "ont goûté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais goûté",
+			"tu": "avais goûté",
+			"il/elle": "avait goûté",
+			"nous": "avions goûté",
+			"vous": "aviez goûté",
+			"ils/elles": "avaient goûté"
+		},
+		"passé antérieur": {
+			"j'": "eus goûté",
+			"tu": "eus goûté",
+			"il/elle": "eut goûté",
+			"nous": "eûmes goûté",
+			"vous": "eûtes goûté",
+			"ils/elles": "eurent goûté"
+		},
+		"futur antérieur": {
+			"j'": "aurai goûté",
+			"tu": "auras goûté",
+			"il/elle": "aura goûté",
+			"nous": "aurons goûté",
+			"vous": "aurez goûté",
+			"ils/elles": "auront goûté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous goûtiez",
+			"qu'il/elle": "goûte",
+			"qu'ils/elles": "goûtent"
+		},
+		"imparfait": {
+			"que": "vous goûtassiez",
+			"qu'il/elle": "goûtât",
+			"qu'ils/elles": "goûtassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse goûté",
+			"que": "vous eussiez goûté",
+			"qu'il/elle": "eût goûté",
+			"qu'ils/elles": "eussent goûté"
+		},
+		"passé": {
+			"j'": "aie goûté",
+			"que": "vous ayez goûté",
+			"qu'il/elle": "ait goûté",
+			"qu'ils/elles": "aient goûté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "goûterais",
+			"tu": "goûterais",
+			"il/elle": "goûterait",
+			"nous": "goûterions",
+			"vous": "goûteriez",
+			"ils/elles": "goûteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais goûté",
+			"tu": "aurais goûté",
+			"il/elle": "aurait goûté",
+			"nous": "aurions goûté",
+			"vous": "auriez goûté",
+			"ils/elles": "auraient goûté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse goûté",
+			"tu": "eusses goûté",
+			"il/elle": "eût goûté",
+			"nous": "eussions goûté",
+			"vous": "eussiez goûté",
+			"ils/elles": "eussent goûté"
+		}
+	},
+	"participe": {
+		"présent": { "goûtant": "" },
+		"passé composé": { "ayant": "goûté" },
+		"passé": {
+			"masc.sg.:": "goûté",
+			"masc.pl.:": "goûtés",
+			"fém.sg.:": "goûtée",
+			"fém.pl.:": "goûtées"
+		}
+	},
+	"imperatif": {
+		"présent": { "goûte": "", "goûtons": "", "goûtez": "" },
+		"passé": { "aie": "goûté", "ayons": "goûté", "ayez": "goûté" }
+	},
+	"infinitif": { "présent": { "goûter": "" }, "passé": { "avoir": "goûté" } }
+}

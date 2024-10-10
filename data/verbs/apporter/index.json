@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "provide; bring; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'apporter/ne pas apporter/ne pas s'apporter",
+	"indicatif": {
+		"présent": {
+			"j'": "apporte",
+			"tu": "apportes",
+			"il/elle": "apporte",
+			"nous": "apportons",
+			"vous": "apportez",
+			"ils/elles": "apportent"
+		},
+		"imparfait": {
+			"j'": "apportais",
+			"tu": "apportais",
+			"il/elle": "apportait",
+			"nous": "apportions",
+			"vous": "apportiez",
+			"ils/elles": "apportaient"
+		},
+		"futur": {
+			"j'": "apporterai",
+			"tu": "apporteras",
+			"il/elle": "apportera",
+			"nous": "apporterons",
+			"vous": "apporterez",
+			"ils/elles": "apporteront"
+		},
+		"passé simple": {
+			"j'": "apportai",
+			"tu": "apportas",
+			"il/elle": "apporta",
+			"nous": "apportâmes",
+			"vous": "apportâtes",
+			"ils/elles": "apportèrent"
+		},
+		"passé composé": {
+			"j'": "ai apporté",
+			"tu": "as apporté",
+			"il/elle": "a apporté",
+			"nous": "avons apporté",
+			"vous": "avez apporté",
+			"ils/elles": "ont apporté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais apporté",
+			"tu": "avais apporté",
+			"il/elle": "avait apporté",
+			"nous": "avions apporté",
+			"vous": "aviez apporté",
+			"ils/elles": "avaient apporté"
+		},
+		"passé antérieur": {
+			"j'": "eus apporté",
+			"tu": "eus apporté",
+			"il/elle": "eut apporté",
+			"nous": "eûmes apporté",
+			"vous": "eûtes apporté",
+			"ils/elles": "eurent apporté"
+		},
+		"futur antérieur": {
+			"j'": "aurai apporté",
+			"tu": "auras apporté",
+			"il/elle": "aura apporté",
+			"nous": "aurons apporté",
+			"vous": "aurez apporté",
+			"ils/elles": "auront apporté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "apporte",
+			"que": "vous apportiez",
+			"qu'il/elle": "apporte",
+			"qu'ils/elles": "apportent"
+		},
+		"imparfait": {
+			"j'": "apportasse",
+			"que": "vous apportassiez",
+			"qu'il/elle": "apportât",
+			"qu'ils/elles": "apportassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse apporté",
+			"que": "vous eussiez apporté",
+			"qu'il/elle": "eût apporté",
+			"qu'ils/elles": "eussent apporté"
+		},
+		"passé": {
+			"j'": "aie apporté",
+			"que": "vous ayez apporté",
+			"qu'il/elle": "ait apporté",
+			"qu'ils/elles": "aient apporté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "apporterais",
+			"tu": "apporterais",
+			"il/elle": "apporterait",
+			"nous": "apporterions",
+			"vous": "apporteriez",
+			"ils/elles": "apporteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais apporté",
+			"tu": "aurais apporté",
+			"il/elle": "aurait apporté",
+			"nous": "aurions apporté",
+			"vous": "auriez apporté",
+			"ils/elles": "auraient apporté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse apporté",
+			"tu": "eusses apporté",
+			"il/elle": "eût apporté",
+			"nous": "eussions apporté",
+			"vous": "eussiez apporté",
+			"ils/elles": "eussent apporté"
+		}
+	},
+	"participe": {
+		"présent": { "apportant": "" },
+		"passé composé": { "ayant": "apporté" },
+		"passé": {
+			"masc.sg.:": "apporté",
+			"masc.pl.:": "apportés",
+			"fém.sg.:": "apportée",
+			"fém.pl.:": "apportées"
+		}
+	},
+	"imperatif": {
+		"présent": { "apporte": "", "apportons": "", "apportez": "" },
+		"passé": { "aie": "apporté", "ayons": "apporté", "ayez": "apporté" }
+	},
+	"infinitif": {
+		"présent": { "apporter": "" },
+		"passé": { "avoir": "apporté" }
+	}
+}

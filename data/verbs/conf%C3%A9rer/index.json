@@ -1,0 +1,141 @@
+{
+	"name": "aérer",
+	"definition": "provide; impart; confer; ...",
+	"model": "aérer",
+	"auxiliary": "avoir",
+	"otherForms": "se conférer/ne pas conférer/ne pas se conférer",
+	"indicatif": {
+		"présent": {
+			"je": "confère",
+			"tu": "confères",
+			"il/elle": "confère",
+			"nous": "conférons",
+			"vous": "conférez",
+			"ils/elles": "confèrent"
+		},
+		"imparfait": {
+			"je": "conférais",
+			"tu": "conférais",
+			"il/elle": "conférait",
+			"nous": "conférions",
+			"vous": "confériez",
+			"ils/elles": "conféraient"
+		},
+		"futur": {
+			"je": "conférerai",
+			"tu": "conféreras",
+			"il/elle": "conférera",
+			"nous": "conférerons",
+			"vous": "conférerez",
+			"ils/elles": "conféreront"
+		},
+		"passé simple": {
+			"je": "conférai",
+			"tu": "conféras",
+			"il/elle": "conféra",
+			"nous": "conférâmes",
+			"vous": "conférâtes",
+			"ils/elles": "conférèrent"
+		},
+		"passé composé": {
+			"j'": "ai conféré",
+			"tu": "as conféré",
+			"il/elle": "a conféré",
+			"nous": "avons conféré",
+			"vous": "avez conféré",
+			"ils/elles": "ont conféré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais conféré",
+			"tu": "avais conféré",
+			"il/elle": "avait conféré",
+			"nous": "avions conféré",
+			"vous": "aviez conféré",
+			"ils/elles": "avaient conféré"
+		},
+		"passé antérieur": {
+			"j'": "eus conféré",
+			"tu": "eus conféré",
+			"il/elle": "eut conféré",
+			"nous": "eûmes conféré",
+			"vous": "eûtes conféré",
+			"ils/elles": "eurent conféré"
+		},
+		"futur antérieur": {
+			"j'": "aurai conféré",
+			"tu": "auras conféré",
+			"il/elle": "aura conféré",
+			"nous": "aurons conféré",
+			"vous": "aurez conféré",
+			"ils/elles": "auront conféré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous confériez",
+			"qu'il/elle": "confère",
+			"qu'ils/elles": "confèrent"
+		},
+		"imparfait": {
+			"que": "vous conférassiez",
+			"qu'il/elle": "conférât",
+			"qu'ils/elles": "conférassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse conféré",
+			"que": "vous eussiez conféré",
+			"qu'il/elle": "eût conféré",
+			"qu'ils/elles": "eussent conféré"
+		},
+		"passé": {
+			"j'": "aie conféré",
+			"que": "vous ayez conféré",
+			"qu'il/elle": "ait conféré",
+			"qu'ils/elles": "aient conféré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "conférerais",
+			"tu": "conférerais",
+			"il/elle": "conférerait",
+			"nous": "conférerions",
+			"vous": "conféreriez",
+			"ils/elles": "conféreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais conféré",
+			"tu": "aurais conféré",
+			"il/elle": "aurait conféré",
+			"nous": "aurions conféré",
+			"vous": "auriez conféré",
+			"ils/elles": "auraient conféré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse conféré",
+			"tu": "eusses conféré",
+			"il/elle": "eût conféré",
+			"nous": "eussions conféré",
+			"vous": "eussiez conféré",
+			"ils/elles": "eussent conféré"
+		}
+	},
+	"participe": {
+		"présent": { "conférant": "" },
+		"passé composé": { "ayant": "conféré" },
+		"passé": {
+			"masc.sg.:": "conféré",
+			"masc.pl.:": "conférés",
+			"fém.sg.:": "conférée",
+			"fém.pl.:": "conférées"
+		}
+	},
+	"imperatif": {
+		"présent": { "confère": "", "conférons": "", "conférez": "" },
+		"passé": { "aie": "conféré", "ayons": "conféré", "ayez": "conféré" }
+	},
+	"infinitif": {
+		"présent": { "conférer": "" },
+		"passé": { "avoir": "conféré" }
+	}
+}

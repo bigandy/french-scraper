@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "attract; draw; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'attirer/ne pas attirer/ne pas s'attirer",
+	"indicatif": {
+		"présent": {
+			"j'": "attire",
+			"tu": "attires",
+			"il/elle": "attire",
+			"nous": "attirons",
+			"vous": "attirez",
+			"ils/elles": "attirent"
+		},
+		"imparfait": {
+			"j'": "attirais",
+			"tu": "attirais",
+			"il/elle": "attirait",
+			"nous": "attirions",
+			"vous": "attiriez",
+			"ils/elles": "attiraient"
+		},
+		"futur": {
+			"j'": "attirerai",
+			"tu": "attireras",
+			"il/elle": "attirera",
+			"nous": "attirerons",
+			"vous": "attirerez",
+			"ils/elles": "attireront"
+		},
+		"passé simple": {
+			"j'": "attirai",
+			"tu": "attiras",
+			"il/elle": "attira",
+			"nous": "attirâmes",
+			"vous": "attirâtes",
+			"ils/elles": "attirèrent"
+		},
+		"passé composé": {
+			"j'": "ai attiré",
+			"tu": "as attiré",
+			"il/elle": "a attiré",
+			"nous": "avons attiré",
+			"vous": "avez attiré",
+			"ils/elles": "ont attiré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais attiré",
+			"tu": "avais attiré",
+			"il/elle": "avait attiré",
+			"nous": "avions attiré",
+			"vous": "aviez attiré",
+			"ils/elles": "avaient attiré"
+		},
+		"passé antérieur": {
+			"j'": "eus attiré",
+			"tu": "eus attiré",
+			"il/elle": "eut attiré",
+			"nous": "eûmes attiré",
+			"vous": "eûtes attiré",
+			"ils/elles": "eurent attiré"
+		},
+		"futur antérieur": {
+			"j'": "aurai attiré",
+			"tu": "auras attiré",
+			"il/elle": "aura attiré",
+			"nous": "aurons attiré",
+			"vous": "aurez attiré",
+			"ils/elles": "auront attiré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "attire",
+			"que": "vous attiriez",
+			"qu'il/elle": "attire",
+			"qu'ils/elles": "attirent"
+		},
+		"imparfait": {
+			"j'": "attirasse",
+			"que": "vous attirassiez",
+			"qu'il/elle": "attirât",
+			"qu'ils/elles": "attirassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse attiré",
+			"que": "vous eussiez attiré",
+			"qu'il/elle": "eût attiré",
+			"qu'ils/elles": "eussent attiré"
+		},
+		"passé": {
+			"j'": "aie attiré",
+			"que": "vous ayez attiré",
+			"qu'il/elle": "ait attiré",
+			"qu'ils/elles": "aient attiré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "attirerais",
+			"tu": "attirerais",
+			"il/elle": "attirerait",
+			"nous": "attirerions",
+			"vous": "attireriez",
+			"ils/elles": "attireraient"
+		},
+		"passé première forme": {
+			"j'": "aurais attiré",
+			"tu": "aurais attiré",
+			"il/elle": "aurait attiré",
+			"nous": "aurions attiré",
+			"vous": "auriez attiré",
+			"ils/elles": "auraient attiré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse attiré",
+			"tu": "eusses attiré",
+			"il/elle": "eût attiré",
+			"nous": "eussions attiré",
+			"vous": "eussiez attiré",
+			"ils/elles": "eussent attiré"
+		}
+	},
+	"participe": {
+		"présent": { "attirant": "" },
+		"passé composé": { "ayant": "attiré" },
+		"passé": {
+			"masc.sg.:": "attiré",
+			"masc.pl.:": "attirés",
+			"fém.sg.:": "attirée",
+			"fém.pl.:": "attirées"
+		}
+	},
+	"imperatif": {
+		"présent": { "attire": "", "attirons": "", "attirez": "" },
+		"passé": { "aie": "attiré", "ayons": "attiré", "ayez": "attiré" }
+	},
+	"infinitif": { "présent": { "attirer": "" }, "passé": { "avoir": "attiré" } }
+}

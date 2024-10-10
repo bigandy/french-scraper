@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "control; order; drive; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se commander/ne pas commander/ne pas se commander",
+	"indicatif": {
+		"présent": {
+			"je": "commande",
+			"tu": "commandes",
+			"il/elle": "commande",
+			"nous": "commandons",
+			"vous": "commandez",
+			"ils/elles": "commandent"
+		},
+		"imparfait": {
+			"je": "commandais",
+			"tu": "commandais",
+			"il/elle": "commandait",
+			"nous": "commandions",
+			"vous": "commandiez",
+			"ils/elles": "commandaient"
+		},
+		"futur": {
+			"je": "commanderai",
+			"tu": "commanderas",
+			"il/elle": "commandera",
+			"nous": "commanderons",
+			"vous": "commanderez",
+			"ils/elles": "commanderont"
+		},
+		"passé simple": {
+			"je": "commandai",
+			"tu": "commandas",
+			"il/elle": "commanda",
+			"nous": "commandâmes",
+			"vous": "commandâtes",
+			"ils/elles": "commandèrent"
+		},
+		"passé composé": {
+			"j'": "ai commandé",
+			"tu": "as commandé",
+			"il/elle": "a commandé",
+			"nous": "avons commandé",
+			"vous": "avez commandé",
+			"ils/elles": "ont commandé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais commandé",
+			"tu": "avais commandé",
+			"il/elle": "avait commandé",
+			"nous": "avions commandé",
+			"vous": "aviez commandé",
+			"ils/elles": "avaient commandé"
+		},
+		"passé antérieur": {
+			"j'": "eus commandé",
+			"tu": "eus commandé",
+			"il/elle": "eut commandé",
+			"nous": "eûmes commandé",
+			"vous": "eûtes commandé",
+			"ils/elles": "eurent commandé"
+		},
+		"futur antérieur": {
+			"j'": "aurai commandé",
+			"tu": "auras commandé",
+			"il/elle": "aura commandé",
+			"nous": "aurons commandé",
+			"vous": "aurez commandé",
+			"ils/elles": "auront commandé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous commandiez",
+			"qu'il/elle": "commande",
+			"qu'ils/elles": "commandent"
+		},
+		"imparfait": {
+			"que": "vous commandassiez",
+			"qu'il/elle": "commandât",
+			"qu'ils/elles": "commandassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse commandé",
+			"que": "vous eussiez commandé",
+			"qu'il/elle": "eût commandé",
+			"qu'ils/elles": "eussent commandé"
+		},
+		"passé": {
+			"j'": "aie commandé",
+			"que": "vous ayez commandé",
+			"qu'il/elle": "ait commandé",
+			"qu'ils/elles": "aient commandé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "commanderais",
+			"tu": "commanderais",
+			"il/elle": "commanderait",
+			"nous": "commanderions",
+			"vous": "commanderiez",
+			"ils/elles": "commanderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais commandé",
+			"tu": "aurais commandé",
+			"il/elle": "aurait commandé",
+			"nous": "aurions commandé",
+			"vous": "auriez commandé",
+			"ils/elles": "auraient commandé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse commandé",
+			"tu": "eusses commandé",
+			"il/elle": "eût commandé",
+			"nous": "eussions commandé",
+			"vous": "eussiez commandé",
+			"ils/elles": "eussent commandé"
+		}
+	},
+	"participe": {
+		"présent": { "commandant": "" },
+		"passé composé": { "ayant": "commandé" },
+		"passé": {
+			"masc.sg.:": "commandé",
+			"masc.pl.:": "commandés",
+			"fém.sg.:": "commandée",
+			"fém.pl.:": "commandées"
+		}
+	},
+	"imperatif": {
+		"présent": { "commande": "", "commandons": "", "commandez": "" },
+		"passé": { "aie": "commandé", "ayons": "commandé", "ayez": "commandé" }
+	},
+	"infinitif": {
+		"présent": { "commander": "" },
+		"passé": { "avoir": "commandé" }
+	}
+}

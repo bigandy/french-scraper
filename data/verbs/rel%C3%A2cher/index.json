@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "release; relax; relieve; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se relâcher/ne pas relâcher/ne pas se relâcher",
+	"indicatif": {
+		"présent": {
+			"je": "relâche",
+			"tu": "relâches",
+			"il/elle": "relâche",
+			"nous": "relâchons",
+			"vous": "relâchez",
+			"ils/elles": "relâchent"
+		},
+		"imparfait": {
+			"je": "relâchais",
+			"tu": "relâchais",
+			"il/elle": "relâchait",
+			"nous": "relâchions",
+			"vous": "relâchiez",
+			"ils/elles": "relâchaient"
+		},
+		"futur": {
+			"je": "relâcherai",
+			"tu": "relâcheras",
+			"il/elle": "relâchera",
+			"nous": "relâcherons",
+			"vous": "relâcherez",
+			"ils/elles": "relâcheront"
+		},
+		"passé simple": {
+			"je": "relâchai",
+			"tu": "relâchas",
+			"il/elle": "relâcha",
+			"nous": "relâchâmes",
+			"vous": "relâchâtes",
+			"ils/elles": "relâchèrent"
+		},
+		"passé composé": {
+			"j'": "ai relâché",
+			"tu": "as relâché",
+			"il/elle": "a relâché",
+			"nous": "avons relâché",
+			"vous": "avez relâché",
+			"ils/elles": "ont relâché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais relâché",
+			"tu": "avais relâché",
+			"il/elle": "avait relâché",
+			"nous": "avions relâché",
+			"vous": "aviez relâché",
+			"ils/elles": "avaient relâché"
+		},
+		"passé antérieur": {
+			"j'": "eus relâché",
+			"tu": "eus relâché",
+			"il/elle": "eut relâché",
+			"nous": "eûmes relâché",
+			"vous": "eûtes relâché",
+			"ils/elles": "eurent relâché"
+		},
+		"futur antérieur": {
+			"j'": "aurai relâché",
+			"tu": "auras relâché",
+			"il/elle": "aura relâché",
+			"nous": "aurons relâché",
+			"vous": "aurez relâché",
+			"ils/elles": "auront relâché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous relâchiez",
+			"qu'il/elle": "relâche",
+			"qu'ils/elles": "relâchent"
+		},
+		"imparfait": {
+			"que": "vous relâchassiez",
+			"qu'il/elle": "relâchât",
+			"qu'ils/elles": "relâchassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse relâché",
+			"que": "vous eussiez relâché",
+			"qu'il/elle": "eût relâché",
+			"qu'ils/elles": "eussent relâché"
+		},
+		"passé": {
+			"j'": "aie relâché",
+			"que": "vous ayez relâché",
+			"qu'il/elle": "ait relâché",
+			"qu'ils/elles": "aient relâché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "relâcherais",
+			"tu": "relâcherais",
+			"il/elle": "relâcherait",
+			"nous": "relâcherions",
+			"vous": "relâcheriez",
+			"ils/elles": "relâcheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais relâché",
+			"tu": "aurais relâché",
+			"il/elle": "aurait relâché",
+			"nous": "aurions relâché",
+			"vous": "auriez relâché",
+			"ils/elles": "auraient relâché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse relâché",
+			"tu": "eusses relâché",
+			"il/elle": "eût relâché",
+			"nous": "eussions relâché",
+			"vous": "eussiez relâché",
+			"ils/elles": "eussent relâché"
+		}
+	},
+	"participe": {
+		"présent": { "relâchant": "" },
+		"passé composé": { "ayant": "relâché" },
+		"passé": {
+			"masc.sg.:": "relâché",
+			"masc.pl.:": "relâchés",
+			"fém.sg.:": "relâchée",
+			"fém.pl.:": "relâchées"
+		}
+	},
+	"imperatif": {
+		"présent": { "relâche": "", "relâchons": "", "relâchez": "" },
+		"passé": { "aie": "relâché", "ayons": "relâché", "ayez": "relâché" }
+	},
+	"infinitif": {
+		"présent": { "relâcher": "" },
+		"passé": { "avoir": "relâché" }
+	}
+}

@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "work; operate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se travailler/ne pas travailler/ne pas se travailler",
+	"indicatif": {
+		"présent": {
+			"je": "travaille",
+			"tu": "travailles",
+			"il/elle": "travaille",
+			"nous": "travaillons",
+			"vous": "travaillez",
+			"ils/elles": "travaillent"
+		},
+		"imparfait": {
+			"je": "travaillais",
+			"tu": "travaillais",
+			"il/elle": "travaillait",
+			"nous": "travaillions",
+			"vous": "travailliez",
+			"ils/elles": "travaillaient"
+		},
+		"futur": {
+			"je": "travaillerai",
+			"tu": "travailleras",
+			"il/elle": "travaillera",
+			"nous": "travaillerons",
+			"vous": "travaillerez",
+			"ils/elles": "travailleront"
+		},
+		"passé simple": {
+			"je": "travaillai",
+			"tu": "travaillas",
+			"il/elle": "travailla",
+			"nous": "travaillâmes",
+			"vous": "travaillâtes",
+			"ils/elles": "travaillèrent"
+		},
+		"passé composé": {
+			"j'": "ai travaillé",
+			"tu": "as travaillé",
+			"il/elle": "a travaillé",
+			"nous": "avons travaillé",
+			"vous": "avez travaillé",
+			"ils/elles": "ont travaillé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais travaillé",
+			"tu": "avais travaillé",
+			"il/elle": "avait travaillé",
+			"nous": "avions travaillé",
+			"vous": "aviez travaillé",
+			"ils/elles": "avaient travaillé"
+		},
+		"passé antérieur": {
+			"j'": "eus travaillé",
+			"tu": "eus travaillé",
+			"il/elle": "eut travaillé",
+			"nous": "eûmes travaillé",
+			"vous": "eûtes travaillé",
+			"ils/elles": "eurent travaillé"
+		},
+		"futur antérieur": {
+			"j'": "aurai travaillé",
+			"tu": "auras travaillé",
+			"il/elle": "aura travaillé",
+			"nous": "aurons travaillé",
+			"vous": "aurez travaillé",
+			"ils/elles": "auront travaillé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous travailliez",
+			"qu'il/elle": "travaille",
+			"qu'ils/elles": "travaillent"
+		},
+		"imparfait": {
+			"que": "vous travaillassiez",
+			"qu'il/elle": "travaillât",
+			"qu'ils/elles": "travaillassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse travaillé",
+			"que": "vous eussiez travaillé",
+			"qu'il/elle": "eût travaillé",
+			"qu'ils/elles": "eussent travaillé"
+		},
+		"passé": {
+			"j'": "aie travaillé",
+			"que": "vous ayez travaillé",
+			"qu'il/elle": "ait travaillé",
+			"qu'ils/elles": "aient travaillé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "travaillerais",
+			"tu": "travaillerais",
+			"il/elle": "travaillerait",
+			"nous": "travaillerions",
+			"vous": "travailleriez",
+			"ils/elles": "travailleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais travaillé",
+			"tu": "aurais travaillé",
+			"il/elle": "aurait travaillé",
+			"nous": "aurions travaillé",
+			"vous": "auriez travaillé",
+			"ils/elles": "auraient travaillé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse travaillé",
+			"tu": "eusses travaillé",
+			"il/elle": "eût travaillé",
+			"nous": "eussions travaillé",
+			"vous": "eussiez travaillé",
+			"ils/elles": "eussent travaillé"
+		}
+	},
+	"participe": {
+		"présent": { "travaillant": "" },
+		"passé composé": { "ayant": "travaillé" },
+		"passé": {
+			"masc.sg.:": "travaillé",
+			"masc.pl.:": "travaillés",
+			"fém.sg.:": "travaillée",
+			"fém.pl.:": "travaillées"
+		}
+	},
+	"imperatif": {
+		"présent": { "travaille": "", "travaillons": "", "travaillez": "" },
+		"passé": { "aie": "travaillé", "ayons": "travaillé", "ayez": "travaillé" }
+	},
+	"infinitif": {
+		"présent": { "travailler": "" },
+		"passé": { "avoir": "travaillé" }
+	}
+}

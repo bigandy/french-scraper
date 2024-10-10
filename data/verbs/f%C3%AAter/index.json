@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "celebrate; party; mark; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se fêter/ne pas fêter/ne pas se fêter",
+	"indicatif": {
+		"présent": {
+			"je": "fête",
+			"tu": "fêtes",
+			"il/elle": "fête",
+			"nous": "fêtons",
+			"vous": "fêtez",
+			"ils/elles": "fêtent"
+		},
+		"imparfait": {
+			"je": "fêtais",
+			"tu": "fêtais",
+			"il/elle": "fêtait",
+			"nous": "fêtions",
+			"vous": "fêtiez",
+			"ils/elles": "fêtaient"
+		},
+		"futur": {
+			"je": "fêterai",
+			"tu": "fêteras",
+			"il/elle": "fêtera",
+			"nous": "fêterons",
+			"vous": "fêterez",
+			"ils/elles": "fêteront"
+		},
+		"passé simple": {
+			"je": "fêtai",
+			"tu": "fêtas",
+			"il/elle": "fêta",
+			"nous": "fêtâmes",
+			"vous": "fêtâtes",
+			"ils/elles": "fêtèrent"
+		},
+		"passé composé": {
+			"j'": "ai fêté",
+			"tu": "as fêté",
+			"il/elle": "a fêté",
+			"nous": "avons fêté",
+			"vous": "avez fêté",
+			"ils/elles": "ont fêté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais fêté",
+			"tu": "avais fêté",
+			"il/elle": "avait fêté",
+			"nous": "avions fêté",
+			"vous": "aviez fêté",
+			"ils/elles": "avaient fêté"
+		},
+		"passé antérieur": {
+			"j'": "eus fêté",
+			"tu": "eus fêté",
+			"il/elle": "eut fêté",
+			"nous": "eûmes fêté",
+			"vous": "eûtes fêté",
+			"ils/elles": "eurent fêté"
+		},
+		"futur antérieur": {
+			"j'": "aurai fêté",
+			"tu": "auras fêté",
+			"il/elle": "aura fêté",
+			"nous": "aurons fêté",
+			"vous": "aurez fêté",
+			"ils/elles": "auront fêté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous fêtiez",
+			"qu'il/elle": "fête",
+			"qu'ils/elles": "fêtent"
+		},
+		"imparfait": {
+			"que": "vous fêtassiez",
+			"qu'il/elle": "fêtât",
+			"qu'ils/elles": "fêtassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse fêté",
+			"que": "vous eussiez fêté",
+			"qu'il/elle": "eût fêté",
+			"qu'ils/elles": "eussent fêté"
+		},
+		"passé": {
+			"j'": "aie fêté",
+			"que": "vous ayez fêté",
+			"qu'il/elle": "ait fêté",
+			"qu'ils/elles": "aient fêté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "fêterais",
+			"tu": "fêterais",
+			"il/elle": "fêterait",
+			"nous": "fêterions",
+			"vous": "fêteriez",
+			"ils/elles": "fêteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais fêté",
+			"tu": "aurais fêté",
+			"il/elle": "aurait fêté",
+			"nous": "aurions fêté",
+			"vous": "auriez fêté",
+			"ils/elles": "auraient fêté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse fêté",
+			"tu": "eusses fêté",
+			"il/elle": "eût fêté",
+			"nous": "eussions fêté",
+			"vous": "eussiez fêté",
+			"ils/elles": "eussent fêté"
+		}
+	},
+	"participe": {
+		"présent": { "fêtant": "" },
+		"passé composé": { "ayant": "fêté" },
+		"passé": {
+			"masc.sg.:": "fêté",
+			"masc.pl.:": "fêtés",
+			"fém.sg.:": "fêtée",
+			"fém.pl.:": "fêtées"
+		}
+	},
+	"imperatif": {
+		"présent": { "fête": "", "fêtons": "", "fêtez": "" },
+		"passé": { "aie": "fêté", "ayons": "fêté", "ayez": "fêté" }
+	},
+	"infinitif": { "présent": { "fêter": "" }, "passé": { "avoir": "fêté" } }
+}

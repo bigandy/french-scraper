@@ -1,0 +1,141 @@
+{
+	"name": "aérer",
+	"definition": "prefer; choose; favour; ...",
+	"model": "aérer",
+	"auxiliary": "avoir",
+	"otherForms": "se préférer/ne pas préférer/ne pas se préférer",
+	"indicatif": {
+		"présent": {
+			"je": "préfère",
+			"tu": "préfères",
+			"il/elle": "préfère",
+			"nous": "préférons",
+			"vous": "préférez",
+			"ils/elles": "préfèrent"
+		},
+		"imparfait": {
+			"je": "préférais",
+			"tu": "préférais",
+			"il/elle": "préférait",
+			"nous": "préférions",
+			"vous": "préfériez",
+			"ils/elles": "préféraient"
+		},
+		"futur": {
+			"je": "préférerai",
+			"tu": "préféreras",
+			"il/elle": "préférera",
+			"nous": "préférerons",
+			"vous": "préférerez",
+			"ils/elles": "préféreront"
+		},
+		"passé simple": {
+			"je": "préférai",
+			"tu": "préféras",
+			"il/elle": "préféra",
+			"nous": "préférâmes",
+			"vous": "préférâtes",
+			"ils/elles": "préférèrent"
+		},
+		"passé composé": {
+			"j'": "ai préféré",
+			"tu": "as préféré",
+			"il/elle": "a préféré",
+			"nous": "avons préféré",
+			"vous": "avez préféré",
+			"ils/elles": "ont préféré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais préféré",
+			"tu": "avais préféré",
+			"il/elle": "avait préféré",
+			"nous": "avions préféré",
+			"vous": "aviez préféré",
+			"ils/elles": "avaient préféré"
+		},
+		"passé antérieur": {
+			"j'": "eus préféré",
+			"tu": "eus préféré",
+			"il/elle": "eut préféré",
+			"nous": "eûmes préféré",
+			"vous": "eûtes préféré",
+			"ils/elles": "eurent préféré"
+		},
+		"futur antérieur": {
+			"j'": "aurai préféré",
+			"tu": "auras préféré",
+			"il/elle": "aura préféré",
+			"nous": "aurons préféré",
+			"vous": "aurez préféré",
+			"ils/elles": "auront préféré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous préfériez",
+			"qu'il/elle": "préfère",
+			"qu'ils/elles": "préfèrent"
+		},
+		"imparfait": {
+			"que": "vous préférassiez",
+			"qu'il/elle": "préférât",
+			"qu'ils/elles": "préférassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse préféré",
+			"que": "vous eussiez préféré",
+			"qu'il/elle": "eût préféré",
+			"qu'ils/elles": "eussent préféré"
+		},
+		"passé": {
+			"j'": "aie préféré",
+			"que": "vous ayez préféré",
+			"qu'il/elle": "ait préféré",
+			"qu'ils/elles": "aient préféré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "préférerais",
+			"tu": "préférerais",
+			"il/elle": "préférerait",
+			"nous": "préférerions",
+			"vous": "préféreriez",
+			"ils/elles": "préféreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais préféré",
+			"tu": "aurais préféré",
+			"il/elle": "aurait préféré",
+			"nous": "aurions préféré",
+			"vous": "auriez préféré",
+			"ils/elles": "auraient préféré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse préféré",
+			"tu": "eusses préféré",
+			"il/elle": "eût préféré",
+			"nous": "eussions préféré",
+			"vous": "eussiez préféré",
+			"ils/elles": "eussent préféré"
+		}
+	},
+	"participe": {
+		"présent": { "préférant": "" },
+		"passé composé": { "ayant": "préféré" },
+		"passé": {
+			"masc.sg.:": "préféré",
+			"masc.pl.:": "préférés",
+			"fém.sg.:": "préférée",
+			"fém.pl.:": "préférées"
+		}
+	},
+	"imperatif": {
+		"présent": { "préfère": "", "préférons": "", "préférez": "" },
+		"passé": { "aie": "préféré", "ayons": "préféré", "ayez": "préféré" }
+	},
+	"infinitif": {
+		"présent": { "préférer": "" },
+		"passé": { "avoir": "préféré" }
+	}
+}

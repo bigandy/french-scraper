@@ -1,0 +1,141 @@
+{
+	"name": "battre",
+	"definition": "discuss; debate; argue; ...",
+	"model": "battre",
+	"auxiliary": "avoir",
+	"otherForms": "se débattre/ne pas débattre/ne pas se débattre",
+	"indicatif": {
+		"présent": {
+			"je": "débats",
+			"tu": "débats",
+			"il/elle": "débat",
+			"nous": "débattons",
+			"vous": "débattez",
+			"ils/elles": "débattent"
+		},
+		"imparfait": {
+			"je": "débattais",
+			"tu": "débattais",
+			"il/elle": "débattait",
+			"nous": "débattions",
+			"vous": "débattiez",
+			"ils/elles": "débattaient"
+		},
+		"futur": {
+			"je": "débattrai",
+			"tu": "débattras",
+			"il/elle": "débattra",
+			"nous": "débattrons",
+			"vous": "débattrez",
+			"ils/elles": "débattront"
+		},
+		"passé simple": {
+			"je": "débattis",
+			"tu": "débattis",
+			"il/elle": "débattit",
+			"nous": "débattîmes",
+			"vous": "débattîtes",
+			"ils/elles": "débattirent"
+		},
+		"passé composé": {
+			"j'": "ai débattu",
+			"tu": "as débattu",
+			"il/elle": "a débattu",
+			"nous": "avons débattu",
+			"vous": "avez débattu",
+			"ils/elles": "ont débattu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais débattu",
+			"tu": "avais débattu",
+			"il/elle": "avait débattu",
+			"nous": "avions débattu",
+			"vous": "aviez débattu",
+			"ils/elles": "avaient débattu"
+		},
+		"passé antérieur": {
+			"j'": "eus débattu",
+			"tu": "eus débattu",
+			"il/elle": "eut débattu",
+			"nous": "eûmes débattu",
+			"vous": "eûtes débattu",
+			"ils/elles": "eurent débattu"
+		},
+		"futur antérieur": {
+			"j'": "aurai débattu",
+			"tu": "auras débattu",
+			"il/elle": "aura débattu",
+			"nous": "aurons débattu",
+			"vous": "aurez débattu",
+			"ils/elles": "auront débattu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous débattiez",
+			"qu'il/elle": "débatte",
+			"qu'ils/elles": "débattent"
+		},
+		"imparfait": {
+			"que": "vous débattissiez",
+			"qu'il/elle": "débattît",
+			"qu'ils/elles": "débattissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse débattu",
+			"que": "vous eussiez débattu",
+			"qu'il/elle": "eût débattu",
+			"qu'ils/elles": "eussent débattu"
+		},
+		"passé": {
+			"j'": "aie débattu",
+			"que": "vous ayez débattu",
+			"qu'il/elle": "ait débattu",
+			"qu'ils/elles": "aient débattu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "débattrais",
+			"tu": "débattrais",
+			"il/elle": "débattrait",
+			"nous": "débattrions",
+			"vous": "débattriez",
+			"ils/elles": "débattraient"
+		},
+		"passé première forme": {
+			"j'": "aurais débattu",
+			"tu": "aurais débattu",
+			"il/elle": "aurait débattu",
+			"nous": "aurions débattu",
+			"vous": "auriez débattu",
+			"ils/elles": "auraient débattu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse débattu",
+			"tu": "eusses débattu",
+			"il/elle": "eût débattu",
+			"nous": "eussions débattu",
+			"vous": "eussiez débattu",
+			"ils/elles": "eussent débattu"
+		}
+	},
+	"participe": {
+		"présent": { "débattant": "" },
+		"passé composé": { "ayant": "débattu" },
+		"passé": {
+			"masc.sg.:": "débattu",
+			"masc.pl.:": "débattus",
+			"fém.sg.:": "débattue",
+			"fém.pl.:": "débattues"
+		}
+	},
+	"imperatif": {
+		"présent": { "débats": "", "débattons": "", "débattez": "" },
+		"passé": { "aie": "débattu", "ayons": "débattu", "ayez": "débattu" }
+	},
+	"infinitif": {
+		"présent": { "débattre": "" },
+		"passé": { "avoir": "débattu" }
+	}
+}

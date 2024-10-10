@@ -1,0 +1,138 @@
+{
+	"name": "céder",
+	"definition": "give; yield; transfer; ...",
+	"model": "céder",
+	"auxiliary": "avoir",
+	"otherForms": "se céder/ne pas céder/ne pas se céder",
+	"indicatif": {
+		"présent": {
+			"je": "cède",
+			"tu": "cèdes",
+			"il/elle": "cède",
+			"nous": "cédons",
+			"vous": "cédez",
+			"ils/elles": "cèdent"
+		},
+		"imparfait": {
+			"je": "cédais",
+			"tu": "cédais",
+			"il/elle": "cédait",
+			"nous": "cédions",
+			"vous": "cédiez",
+			"ils/elles": "cédaient"
+		},
+		"futur": {
+			"je": "céderai",
+			"tu": "céderas",
+			"il/elle": "cédera",
+			"nous": "céderons",
+			"vous": "céderez",
+			"ils/elles": "céderont"
+		},
+		"passé simple": {
+			"je": "cédai",
+			"tu": "cédas",
+			"il/elle": "céda",
+			"nous": "cédâmes",
+			"vous": "cédâtes",
+			"ils/elles": "cédèrent"
+		},
+		"passé composé": {
+			"j'": "ai cédé",
+			"tu": "as cédé",
+			"il/elle": "a cédé",
+			"nous": "avons cédé",
+			"vous": "avez cédé",
+			"ils/elles": "ont cédé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais cédé",
+			"tu": "avais cédé",
+			"il/elle": "avait cédé",
+			"nous": "avions cédé",
+			"vous": "aviez cédé",
+			"ils/elles": "avaient cédé"
+		},
+		"passé antérieur": {
+			"j'": "eus cédé",
+			"tu": "eus cédé",
+			"il/elle": "eut cédé",
+			"nous": "eûmes cédé",
+			"vous": "eûtes cédé",
+			"ils/elles": "eurent cédé"
+		},
+		"futur antérieur": {
+			"j'": "aurai cédé",
+			"tu": "auras cédé",
+			"il/elle": "aura cédé",
+			"nous": "aurons cédé",
+			"vous": "aurez cédé",
+			"ils/elles": "auront cédé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous cédiez",
+			"qu'il/elle": "cède",
+			"qu'ils/elles": "cèdent"
+		},
+		"imparfait": {
+			"que": "vous cédassiez",
+			"qu'il/elle": "cédât",
+			"qu'ils/elles": "cédassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse cédé",
+			"que": "vous eussiez cédé",
+			"qu'il/elle": "eût cédé",
+			"qu'ils/elles": "eussent cédé"
+		},
+		"passé": {
+			"j'": "aie cédé",
+			"que": "vous ayez cédé",
+			"qu'il/elle": "ait cédé",
+			"qu'ils/elles": "aient cédé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "céderais",
+			"tu": "céderais",
+			"il/elle": "céderait",
+			"nous": "céderions",
+			"vous": "céderiez",
+			"ils/elles": "céderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais cédé",
+			"tu": "aurais cédé",
+			"il/elle": "aurait cédé",
+			"nous": "aurions cédé",
+			"vous": "auriez cédé",
+			"ils/elles": "auraient cédé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse cédé",
+			"tu": "eusses cédé",
+			"il/elle": "eût cédé",
+			"nous": "eussions cédé",
+			"vous": "eussiez cédé",
+			"ils/elles": "eussent cédé"
+		}
+	},
+	"participe": {
+		"présent": { "cédant": "" },
+		"passé composé": { "ayant": "cédé" },
+		"passé": {
+			"masc.sg.:": "cédé",
+			"masc.pl.:": "cédés",
+			"fém.sg.:": "cédée",
+			"fém.pl.:": "cédées"
+		}
+	},
+	"imperatif": {
+		"présent": { "cède": "", "cédons": "", "cédez": "" },
+		"passé": { "aie": "cédé", "ayons": "cédé", "ayez": "cédé" }
+	},
+	"infinitif": { "présent": { "céder": "" }, "passé": { "avoir": "cédé" } }
+}

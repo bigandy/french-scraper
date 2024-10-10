@@ -1,0 +1,141 @@
+{
+	"name": "manger",
+	"definition": "disturb; bother; interrupt; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "se déranger/ne pas déranger/ne pas se déranger",
+	"indicatif": {
+		"présent": {
+			"je": "dérange",
+			"tu": "déranges",
+			"il/elle": "dérange",
+			"nous": "dérangeons",
+			"vous": "dérangez",
+			"ils/elles": "dérangent"
+		},
+		"imparfait": {
+			"je": "dérangeais",
+			"tu": "dérangeais",
+			"il/elle": "dérangeait",
+			"nous": "dérangions",
+			"vous": "dérangiez",
+			"ils/elles": "dérangeaient"
+		},
+		"futur": {
+			"je": "dérangerai",
+			"tu": "dérangeras",
+			"il/elle": "dérangera",
+			"nous": "dérangerons",
+			"vous": "dérangerez",
+			"ils/elles": "dérangeront"
+		},
+		"passé simple": {
+			"je": "dérangeai",
+			"tu": "dérangeas",
+			"il/elle": "dérangea",
+			"nous": "dérangeâmes",
+			"vous": "dérangeâtes",
+			"ils/elles": "dérangèrent"
+		},
+		"passé composé": {
+			"j'": "ai dérangé",
+			"tu": "as dérangé",
+			"il/elle": "a dérangé",
+			"nous": "avons dérangé",
+			"vous": "avez dérangé",
+			"ils/elles": "ont dérangé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais dérangé",
+			"tu": "avais dérangé",
+			"il/elle": "avait dérangé",
+			"nous": "avions dérangé",
+			"vous": "aviez dérangé",
+			"ils/elles": "avaient dérangé"
+		},
+		"passé antérieur": {
+			"j'": "eus dérangé",
+			"tu": "eus dérangé",
+			"il/elle": "eut dérangé",
+			"nous": "eûmes dérangé",
+			"vous": "eûtes dérangé",
+			"ils/elles": "eurent dérangé"
+		},
+		"futur antérieur": {
+			"j'": "aurai dérangé",
+			"tu": "auras dérangé",
+			"il/elle": "aura dérangé",
+			"nous": "aurons dérangé",
+			"vous": "aurez dérangé",
+			"ils/elles": "auront dérangé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous dérangiez",
+			"qu'il/elle": "dérange",
+			"qu'ils/elles": "dérangent"
+		},
+		"imparfait": {
+			"que": "vous dérangeassiez",
+			"qu'il/elle": "dérangeât",
+			"qu'ils/elles": "dérangeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse dérangé",
+			"que": "vous eussiez dérangé",
+			"qu'il/elle": "eût dérangé",
+			"qu'ils/elles": "eussent dérangé"
+		},
+		"passé": {
+			"j'": "aie dérangé",
+			"que": "vous ayez dérangé",
+			"qu'il/elle": "ait dérangé",
+			"qu'ils/elles": "aient dérangé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "dérangerais",
+			"tu": "dérangerais",
+			"il/elle": "dérangerait",
+			"nous": "dérangerions",
+			"vous": "dérangeriez",
+			"ils/elles": "dérangeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais dérangé",
+			"tu": "aurais dérangé",
+			"il/elle": "aurait dérangé",
+			"nous": "aurions dérangé",
+			"vous": "auriez dérangé",
+			"ils/elles": "auraient dérangé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse dérangé",
+			"tu": "eusses dérangé",
+			"il/elle": "eût dérangé",
+			"nous": "eussions dérangé",
+			"vous": "eussiez dérangé",
+			"ils/elles": "eussent dérangé"
+		}
+	},
+	"participe": {
+		"présent": { "dérangeant": "" },
+		"passé composé": { "ayant": "dérangé" },
+		"passé": {
+			"masc.sg.:": "dérangé",
+			"masc.pl.:": "dérangés",
+			"fém.sg.:": "dérangée",
+			"fém.pl.:": "dérangées"
+		}
+	},
+	"imperatif": {
+		"présent": { "dérange": "", "dérangeons": "", "dérangez": "" },
+		"passé": { "aie": "dérangé", "ayons": "dérangé", "ayez": "dérangé" }
+	},
+	"infinitif": {
+		"présent": { "déranger": "" },
+		"passé": { "avoir": "dérangé" }
+	}
+}

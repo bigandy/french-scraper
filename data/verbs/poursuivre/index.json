@@ -1,0 +1,141 @@
+{
+	"name": "suivre",
+	"definition": "continue; pursue; further; ...",
+	"model": "suivre",
+	"auxiliary": "avoir",
+	"otherForms": "se poursuivre/ne pas poursuivre/ne pas se poursuivre",
+	"indicatif": {
+		"présent": {
+			"je": "poursuis",
+			"tu": "poursuis",
+			"il/elle": "poursuit",
+			"nous": "poursuivons",
+			"vous": "poursuivez",
+			"ils/elles": "poursuivent"
+		},
+		"imparfait": {
+			"je": "poursuivais",
+			"tu": "poursuivais",
+			"il/elle": "poursuivait",
+			"nous": "poursuivions",
+			"vous": "poursuiviez",
+			"ils/elles": "poursuivaient"
+		},
+		"futur": {
+			"je": "poursuivrai",
+			"tu": "poursuivras",
+			"il/elle": "poursuivra",
+			"nous": "poursuivrons",
+			"vous": "poursuivrez",
+			"ils/elles": "poursuivront"
+		},
+		"passé simple": {
+			"je": "poursuivis",
+			"tu": "poursuivis",
+			"il/elle": "poursuivit",
+			"nous": "poursuivîmes",
+			"vous": "poursuivîtes",
+			"ils/elles": "poursuivirent"
+		},
+		"passé composé": {
+			"j'": "ai poursuivi",
+			"tu": "as poursuivi",
+			"il/elle": "a poursuivi",
+			"nous": "avons poursuivi",
+			"vous": "avez poursuivi",
+			"ils/elles": "ont poursuivi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais poursuivi",
+			"tu": "avais poursuivi",
+			"il/elle": "avait poursuivi",
+			"nous": "avions poursuivi",
+			"vous": "aviez poursuivi",
+			"ils/elles": "avaient poursuivi"
+		},
+		"passé antérieur": {
+			"j'": "eus poursuivi",
+			"tu": "eus poursuivi",
+			"il/elle": "eut poursuivi",
+			"nous": "eûmes poursuivi",
+			"vous": "eûtes poursuivi",
+			"ils/elles": "eurent poursuivi"
+		},
+		"futur antérieur": {
+			"j'": "aurai poursuivi",
+			"tu": "auras poursuivi",
+			"il/elle": "aura poursuivi",
+			"nous": "aurons poursuivi",
+			"vous": "aurez poursuivi",
+			"ils/elles": "auront poursuivi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous poursuiviez",
+			"qu'il/elle": "poursuive",
+			"qu'ils/elles": "poursuivent"
+		},
+		"imparfait": {
+			"que": "vous poursuivissiez",
+			"qu'il/elle": "poursuivît",
+			"qu'ils/elles": "poursuivissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse poursuivi",
+			"que": "vous eussiez poursuivi",
+			"qu'il/elle": "eût poursuivi",
+			"qu'ils/elles": "eussent poursuivi"
+		},
+		"passé": {
+			"j'": "aie poursuivi",
+			"que": "vous ayez poursuivi",
+			"qu'il/elle": "ait poursuivi",
+			"qu'ils/elles": "aient poursuivi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "poursuivrais",
+			"tu": "poursuivrais",
+			"il/elle": "poursuivrait",
+			"nous": "poursuivrions",
+			"vous": "poursuivriez",
+			"ils/elles": "poursuivraient"
+		},
+		"passé première forme": {
+			"j'": "aurais poursuivi",
+			"tu": "aurais poursuivi",
+			"il/elle": "aurait poursuivi",
+			"nous": "aurions poursuivi",
+			"vous": "auriez poursuivi",
+			"ils/elles": "auraient poursuivi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse poursuivi",
+			"tu": "eusses poursuivi",
+			"il/elle": "eût poursuivi",
+			"nous": "eussions poursuivi",
+			"vous": "eussiez poursuivi",
+			"ils/elles": "eussent poursuivi"
+		}
+	},
+	"participe": {
+		"présent": { "poursuivant": "" },
+		"passé composé": { "ayant": "poursuivi" },
+		"passé": {
+			"masc.sg.:": "poursuivi",
+			"masc.pl.:": "poursuivis",
+			"fém.sg.:": "poursuivie",
+			"fém.pl.:": "poursuivies"
+		}
+	},
+	"imperatif": {
+		"présent": { "poursuis": "", "poursuivons": "", "poursuivez": "" },
+		"passé": { "aie": "poursuivi", "ayons": "poursuivi", "ayez": "poursuivi" }
+	},
+	"infinitif": {
+		"présent": { "poursuivre": "" },
+		"passé": { "avoir": "poursuivi" }
+	}
+}

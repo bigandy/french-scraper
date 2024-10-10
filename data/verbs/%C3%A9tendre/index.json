@@ -1,0 +1,140 @@
+{
+	"name": "attendre",
+	"definition": "extend; expand; spread; ...",
+	"model": "attendre",
+	"auxiliary": "avoir",
+	"otherForms": "s'étendre/ne pas étendre/ne pas s'étendre",
+	"indicatif": {
+		"présent": {
+			"j'": "étends",
+			"tu": "étends",
+			"il/elle": "étend",
+			"nous": "étendons",
+			"vous": "étendez",
+			"ils/elles": "étendent"
+		},
+		"imparfait": {
+			"j'": "étendais",
+			"tu": "étendais",
+			"il/elle": "étendait",
+			"nous": "étendions",
+			"vous": "étendiez",
+			"ils/elles": "étendaient"
+		},
+		"futur": {
+			"j'": "étendrai",
+			"tu": "étendras",
+			"il/elle": "étendra",
+			"nous": "étendrons",
+			"vous": "étendrez",
+			"ils/elles": "étendront"
+		},
+		"passé simple": {
+			"j'": "étendis",
+			"tu": "étendis",
+			"il/elle": "étendit",
+			"nous": "étendîmes",
+			"vous": "étendîtes",
+			"ils/elles": "étendirent"
+		},
+		"passé composé": {
+			"j'": "ai étendu",
+			"tu": "as étendu",
+			"il/elle": "a étendu",
+			"nous": "avons étendu",
+			"vous": "avez étendu",
+			"ils/elles": "ont étendu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais étendu",
+			"tu": "avais étendu",
+			"il/elle": "avait étendu",
+			"nous": "avions étendu",
+			"vous": "aviez étendu",
+			"ils/elles": "avaient étendu"
+		},
+		"passé antérieur": {
+			"j'": "eus étendu",
+			"tu": "eus étendu",
+			"il/elle": "eut étendu",
+			"nous": "eûmes étendu",
+			"vous": "eûtes étendu",
+			"ils/elles": "eurent étendu"
+		},
+		"futur antérieur": {
+			"j'": "aurai étendu",
+			"tu": "auras étendu",
+			"il/elle": "aura étendu",
+			"nous": "aurons étendu",
+			"vous": "aurez étendu",
+			"ils/elles": "auront étendu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "étende",
+			"que": "vous étendiez",
+			"qu'il/elle": "étende",
+			"qu'ils/elles": "étendent"
+		},
+		"imparfait": {
+			"j'": "étendisse",
+			"que": "vous étendissiez",
+			"qu'il/elle": "étendît",
+			"qu'ils/elles": "étendissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse étendu",
+			"que": "vous eussiez étendu",
+			"qu'il/elle": "eût étendu",
+			"qu'ils/elles": "eussent étendu"
+		},
+		"passé": {
+			"j'": "aie étendu",
+			"que": "vous ayez étendu",
+			"qu'il/elle": "ait étendu",
+			"qu'ils/elles": "aient étendu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "étendrais",
+			"tu": "étendrais",
+			"il/elle": "étendrait",
+			"nous": "étendrions",
+			"vous": "étendriez",
+			"ils/elles": "étendraient"
+		},
+		"passé première forme": {
+			"j'": "aurais étendu",
+			"tu": "aurais étendu",
+			"il/elle": "aurait étendu",
+			"nous": "aurions étendu",
+			"vous": "auriez étendu",
+			"ils/elles": "auraient étendu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse étendu",
+			"tu": "eusses étendu",
+			"il/elle": "eût étendu",
+			"nous": "eussions étendu",
+			"vous": "eussiez étendu",
+			"ils/elles": "eussent étendu"
+		}
+	},
+	"participe": {
+		"présent": { "étendant": "" },
+		"passé composé": { "ayant": "étendu" },
+		"passé": {
+			"masc.sg.:": "étendu",
+			"masc.pl.:": "étendus",
+			"fém.sg.:": "étendue",
+			"fém.pl.:": "étendues"
+		}
+	},
+	"imperatif": {
+		"présent": { "étends": "", "étendons": "", "étendez": "" },
+		"passé": { "aie": "étendu", "ayons": "étendu", "ayez": "étendu" }
+	},
+	"infinitif": { "présent": { "étendre": "" }, "passé": { "avoir": "étendu" } }
+}

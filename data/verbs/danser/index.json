@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "dance; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se danser/ne pas danser/ne pas se danser",
+	"indicatif": {
+		"présent": {
+			"je": "danse",
+			"tu": "danses",
+			"il/elle": "danse",
+			"nous": "dansons",
+			"vous": "dansez",
+			"ils/elles": "dansent"
+		},
+		"imparfait": {
+			"je": "dansais",
+			"tu": "dansais",
+			"il/elle": "dansait",
+			"nous": "dansions",
+			"vous": "dansiez",
+			"ils/elles": "dansaient"
+		},
+		"futur": {
+			"je": "danserai",
+			"tu": "danseras",
+			"il/elle": "dansera",
+			"nous": "danserons",
+			"vous": "danserez",
+			"ils/elles": "danseront"
+		},
+		"passé simple": {
+			"je": "dansai",
+			"tu": "dansas",
+			"il/elle": "dansa",
+			"nous": "dansâmes",
+			"vous": "dansâtes",
+			"ils/elles": "dansèrent"
+		},
+		"passé composé": {
+			"j'": "ai dansé",
+			"tu": "as dansé",
+			"il/elle": "a dansé",
+			"nous": "avons dansé",
+			"vous": "avez dansé",
+			"ils/elles": "ont dansé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais dansé",
+			"tu": "avais dansé",
+			"il/elle": "avait dansé",
+			"nous": "avions dansé",
+			"vous": "aviez dansé",
+			"ils/elles": "avaient dansé"
+		},
+		"passé antérieur": {
+			"j'": "eus dansé",
+			"tu": "eus dansé",
+			"il/elle": "eut dansé",
+			"nous": "eûmes dansé",
+			"vous": "eûtes dansé",
+			"ils/elles": "eurent dansé"
+		},
+		"futur antérieur": {
+			"j'": "aurai dansé",
+			"tu": "auras dansé",
+			"il/elle": "aura dansé",
+			"nous": "aurons dansé",
+			"vous": "aurez dansé",
+			"ils/elles": "auront dansé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous dansiez",
+			"qu'il/elle": "danse",
+			"qu'ils/elles": "dansent"
+		},
+		"imparfait": {
+			"que": "vous dansassiez",
+			"qu'il/elle": "dansât",
+			"qu'ils/elles": "dansassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse dansé",
+			"que": "vous eussiez dansé",
+			"qu'il/elle": "eût dansé",
+			"qu'ils/elles": "eussent dansé"
+		},
+		"passé": {
+			"j'": "aie dansé",
+			"que": "vous ayez dansé",
+			"qu'il/elle": "ait dansé",
+			"qu'ils/elles": "aient dansé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "danserais",
+			"tu": "danserais",
+			"il/elle": "danserait",
+			"nous": "danserions",
+			"vous": "danseriez",
+			"ils/elles": "danseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais dansé",
+			"tu": "aurais dansé",
+			"il/elle": "aurait dansé",
+			"nous": "aurions dansé",
+			"vous": "auriez dansé",
+			"ils/elles": "auraient dansé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse dansé",
+			"tu": "eusses dansé",
+			"il/elle": "eût dansé",
+			"nous": "eussions dansé",
+			"vous": "eussiez dansé",
+			"ils/elles": "eussent dansé"
+		}
+	},
+	"participe": {
+		"présent": { "dansant": "" },
+		"passé composé": { "ayant": "dansé" },
+		"passé": {
+			"masc.sg.:": "dansé",
+			"masc.pl.:": "dansés",
+			"fém.sg.:": "dansée",
+			"fém.pl.:": "dansées"
+		}
+	},
+	"imperatif": {
+		"présent": { "danse": "", "dansons": "", "dansez": "" },
+		"passé": { "aie": "dansé", "ayons": "dansé", "ayez": "dansé" }
+	},
+	"infinitif": { "présent": { "danser": "" }, "passé": { "avoir": "dansé" } }
+}

@@ -1,0 +1,149 @@
+{
+	"name": "marcher",
+	"definition": "have breakfast; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas petit-déjeuner",
+	"indicatif": {
+		"présent": {
+			"je": "petit-déjeune",
+			"tu": "petit-déjeunes",
+			"il/elle": "petit-déjeune",
+			"nous": "petit-déjeunons",
+			"vous": "petit-déjeunez",
+			"ils/elles": "petit-déjeunent"
+		},
+		"imparfait": {
+			"je": "petit-déjeunais",
+			"tu": "petit-déjeunais",
+			"il/elle": "petit-déjeunait",
+			"nous": "petit-déjeunions",
+			"vous": "petit-déjeuniez",
+			"ils/elles": "petit-déjeunaient"
+		},
+		"futur": {
+			"je": "petit-déjeunerai",
+			"tu": "petit-déjeuneras",
+			"il/elle": "petit-déjeunera",
+			"nous": "petit-déjeunerons",
+			"vous": "petit-déjeunerez",
+			"ils/elles": "petit-déjeuneront"
+		},
+		"passé simple": {
+			"je": "petit-déjeunai",
+			"tu": "petit-déjeunas",
+			"il/elle": "petit-déjeuna",
+			"nous": "petit-déjeunâmes",
+			"vous": "petit-déjeunâtes",
+			"ils/elles": "petit-déjeunèrent"
+		},
+		"passé composé": {
+			"j'": "ai petit-déjeuné",
+			"tu": "as petit-déjeuné",
+			"il/elle": "a petit-déjeuné",
+			"nous": "avons petit-déjeuné",
+			"vous": "avez petit-déjeuné",
+			"ils/elles": "ont petit-déjeuné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais petit-déjeuné",
+			"tu": "avais petit-déjeuné",
+			"il/elle": "avait petit-déjeuné",
+			"nous": "avions petit-déjeuné",
+			"vous": "aviez petit-déjeuné",
+			"ils/elles": "avaient petit-déjeuné"
+		},
+		"passé antérieur": {
+			"j'": "eus petit-déjeuné",
+			"tu": "eus petit-déjeuné",
+			"il/elle": "eut petit-déjeuné",
+			"nous": "eûmes petit-déjeuné",
+			"vous": "eûtes petit-déjeuné",
+			"ils/elles": "eurent petit-déjeuné"
+		},
+		"futur antérieur": {
+			"j'": "aurai petit-déjeuné",
+			"tu": "auras petit-déjeuné",
+			"il/elle": "aura petit-déjeuné",
+			"nous": "aurons petit-déjeuné",
+			"vous": "aurez petit-déjeuné",
+			"ils/elles": "auront petit-déjeuné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous petit-déjeuniez",
+			"qu'il/elle": "petit-déjeune",
+			"qu'ils/elles": "petit-déjeunent"
+		},
+		"imparfait": {
+			"que": "vous petit-déjeunassiez",
+			"qu'il/elle": "petit-déjeunât",
+			"qu'ils/elles": "petit-déjeunassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse petit-déjeuné",
+			"que": "vous eussiez petit-déjeuné",
+			"qu'il/elle": "eût petit-déjeuné",
+			"qu'ils/elles": "eussent petit-déjeuné"
+		},
+		"passé": {
+			"j'": "aie petit-déjeuné",
+			"que": "vous ayez petit-déjeuné",
+			"qu'il/elle": "ait petit-déjeuné",
+			"qu'ils/elles": "aient petit-déjeuné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "petit-déjeunerais",
+			"tu": "petit-déjeunerais",
+			"il/elle": "petit-déjeunerait",
+			"nous": "petit-déjeunerions",
+			"vous": "petit-déjeuneriez",
+			"ils/elles": "petit-déjeuneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais petit-déjeuné",
+			"tu": "aurais petit-déjeuné",
+			"il/elle": "aurait petit-déjeuné",
+			"nous": "aurions petit-déjeuné",
+			"vous": "auriez petit-déjeuné",
+			"ils/elles": "auraient petit-déjeuné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse petit-déjeuné",
+			"tu": "eusses petit-déjeuné",
+			"il/elle": "eût petit-déjeuné",
+			"nous": "eussions petit-déjeuné",
+			"vous": "eussiez petit-déjeuné",
+			"ils/elles": "eussent petit-déjeuné"
+		}
+	},
+	"participe": {
+		"présent": { "petit-déjeunant": "" },
+		"passé composé": { "ayant": "petit-déjeuné" },
+		"passé": {
+			"masc.sg.:": "petit-déjeuné",
+			"masc.pl.:": "petit-déjeunés",
+			"fém.sg.:": "petit-déjeunée",
+			"fém.pl.:": "petit-déjeunées"
+		}
+	},
+	"imperatif": {
+		"présent": {
+			"petit-déjeune": "",
+			"petit-déjeunons": "",
+			"petit-déjeunez": ""
+		},
+		"passé": {
+			"aie": "petit-déjeuné",
+			"ayons": "petit-déjeuné",
+			"ayez": "petit-déjeuné"
+		}
+	},
+	"infinitif": {
+		"présent": { "petit-déjeuner": "" },
+		"passé": { "avoir": "petit-déjeuné" }
+	}
+}

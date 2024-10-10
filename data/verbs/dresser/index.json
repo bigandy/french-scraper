@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "draw up; develop; establish; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se dresser/ne pas dresser/ne pas se dresser",
+	"indicatif": {
+		"présent": {
+			"je": "dresse",
+			"tu": "dresses",
+			"il/elle": "dresse",
+			"nous": "dressons",
+			"vous": "dressez",
+			"ils/elles": "dressent"
+		},
+		"imparfait": {
+			"je": "dressais",
+			"tu": "dressais",
+			"il/elle": "dressait",
+			"nous": "dressions",
+			"vous": "dressiez",
+			"ils/elles": "dressaient"
+		},
+		"futur": {
+			"je": "dresserai",
+			"tu": "dresseras",
+			"il/elle": "dressera",
+			"nous": "dresserons",
+			"vous": "dresserez",
+			"ils/elles": "dresseront"
+		},
+		"passé simple": {
+			"je": "dressai",
+			"tu": "dressas",
+			"il/elle": "dressa",
+			"nous": "dressâmes",
+			"vous": "dressâtes",
+			"ils/elles": "dressèrent"
+		},
+		"passé composé": {
+			"j'": "ai dressé",
+			"tu": "as dressé",
+			"il/elle": "a dressé",
+			"nous": "avons dressé",
+			"vous": "avez dressé",
+			"ils/elles": "ont dressé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais dressé",
+			"tu": "avais dressé",
+			"il/elle": "avait dressé",
+			"nous": "avions dressé",
+			"vous": "aviez dressé",
+			"ils/elles": "avaient dressé"
+		},
+		"passé antérieur": {
+			"j'": "eus dressé",
+			"tu": "eus dressé",
+			"il/elle": "eut dressé",
+			"nous": "eûmes dressé",
+			"vous": "eûtes dressé",
+			"ils/elles": "eurent dressé"
+		},
+		"futur antérieur": {
+			"j'": "aurai dressé",
+			"tu": "auras dressé",
+			"il/elle": "aura dressé",
+			"nous": "aurons dressé",
+			"vous": "aurez dressé",
+			"ils/elles": "auront dressé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous dressiez",
+			"qu'il/elle": "dresse",
+			"qu'ils/elles": "dressent"
+		},
+		"imparfait": {
+			"que": "vous dressassiez",
+			"qu'il/elle": "dressât",
+			"qu'ils/elles": "dressassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse dressé",
+			"que": "vous eussiez dressé",
+			"qu'il/elle": "eût dressé",
+			"qu'ils/elles": "eussent dressé"
+		},
+		"passé": {
+			"j'": "aie dressé",
+			"que": "vous ayez dressé",
+			"qu'il/elle": "ait dressé",
+			"qu'ils/elles": "aient dressé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "dresserais",
+			"tu": "dresserais",
+			"il/elle": "dresserait",
+			"nous": "dresserions",
+			"vous": "dresseriez",
+			"ils/elles": "dresseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais dressé",
+			"tu": "aurais dressé",
+			"il/elle": "aurait dressé",
+			"nous": "aurions dressé",
+			"vous": "auriez dressé",
+			"ils/elles": "auraient dressé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse dressé",
+			"tu": "eusses dressé",
+			"il/elle": "eût dressé",
+			"nous": "eussions dressé",
+			"vous": "eussiez dressé",
+			"ils/elles": "eussent dressé"
+		}
+	},
+	"participe": {
+		"présent": { "dressant": "" },
+		"passé composé": { "ayant": "dressé" },
+		"passé": {
+			"masc.sg.:": "dressé",
+			"masc.pl.:": "dressés",
+			"fém.sg.:": "dressée",
+			"fém.pl.:": "dressées"
+		}
+	},
+	"imperatif": {
+		"présent": { "dresse": "", "dressons": "", "dressez": "" },
+		"passé": { "aie": "dressé", "ayons": "dressé", "ayez": "dressé" }
+	},
+	"infinitif": { "présent": { "dresser": "" }, "passé": { "avoir": "dressé" } }
+}

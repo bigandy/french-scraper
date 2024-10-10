@@ -1,0 +1,138 @@
+{
+	"name": "cuire",
+	"definition": "reduce; minimize; cut; ...",
+	"model": "cuire",
+	"auxiliary": "avoir",
+	"otherForms": "se réduire/ne pas réduire/ne pas se réduire",
+	"indicatif": {
+		"présent": {
+			"je": "réduis",
+			"tu": "réduis",
+			"il/elle": "réduit",
+			"nous": "réduisons",
+			"vous": "réduisez",
+			"ils/elles": "réduisent"
+		},
+		"imparfait": {
+			"je": "réduisais",
+			"tu": "réduisais",
+			"il/elle": "réduisait",
+			"nous": "réduisions",
+			"vous": "réduisiez",
+			"ils/elles": "réduisaient"
+		},
+		"futur": {
+			"je": "réduirai",
+			"tu": "réduiras",
+			"il/elle": "réduira",
+			"nous": "réduirons",
+			"vous": "réduirez",
+			"ils/elles": "réduiront"
+		},
+		"passé simple": {
+			"je": "réduisis",
+			"tu": "réduisis",
+			"il/elle": "réduisit",
+			"nous": "réduisîmes",
+			"vous": "réduisîtes",
+			"ils/elles": "réduisirent"
+		},
+		"passé composé": {
+			"j'": "ai réduit",
+			"tu": "as réduit",
+			"il/elle": "a réduit",
+			"nous": "avons réduit",
+			"vous": "avez réduit",
+			"ils/elles": "ont réduit"
+		},
+		"plus-que-parfait": {
+			"j'": "avais réduit",
+			"tu": "avais réduit",
+			"il/elle": "avait réduit",
+			"nous": "avions réduit",
+			"vous": "aviez réduit",
+			"ils/elles": "avaient réduit"
+		},
+		"passé antérieur": {
+			"j'": "eus réduit",
+			"tu": "eus réduit",
+			"il/elle": "eut réduit",
+			"nous": "eûmes réduit",
+			"vous": "eûtes réduit",
+			"ils/elles": "eurent réduit"
+		},
+		"futur antérieur": {
+			"j'": "aurai réduit",
+			"tu": "auras réduit",
+			"il/elle": "aura réduit",
+			"nous": "aurons réduit",
+			"vous": "aurez réduit",
+			"ils/elles": "auront réduit"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous réduisiez",
+			"qu'il/elle": "réduise",
+			"qu'ils/elles": "réduisent"
+		},
+		"imparfait": {
+			"que": "vous réduisissiez",
+			"qu'il/elle": "réduisît",
+			"qu'ils/elles": "réduisissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse réduit",
+			"que": "vous eussiez réduit",
+			"qu'il/elle": "eût réduit",
+			"qu'ils/elles": "eussent réduit"
+		},
+		"passé": {
+			"j'": "aie réduit",
+			"que": "vous ayez réduit",
+			"qu'il/elle": "ait réduit",
+			"qu'ils/elles": "aient réduit"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "réduirais",
+			"tu": "réduirais",
+			"il/elle": "réduirait",
+			"nous": "réduirions",
+			"vous": "réduiriez",
+			"ils/elles": "réduiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais réduit",
+			"tu": "aurais réduit",
+			"il/elle": "aurait réduit",
+			"nous": "aurions réduit",
+			"vous": "auriez réduit",
+			"ils/elles": "auraient réduit"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse réduit",
+			"tu": "eusses réduit",
+			"il/elle": "eût réduit",
+			"nous": "eussions réduit",
+			"vous": "eussiez réduit",
+			"ils/elles": "eussent réduit"
+		}
+	},
+	"participe": {
+		"présent": { "réduisant": "" },
+		"passé composé": { "ayant": "réduit" },
+		"passé": {
+			"masc.sg.:": "réduit",
+			"masc.pl.:": "réduits",
+			"fém.sg.:": "réduite",
+			"fém.pl.:": "réduites"
+		}
+	},
+	"imperatif": {
+		"présent": { "réduis": "", "réduisons": "", "réduisez": "" },
+		"passé": { "aie": "réduit", "ayons": "réduit", "ayez": "réduit" }
+	},
+	"infinitif": { "présent": { "réduire": "" }, "passé": { "avoir": "réduit" } }
+}

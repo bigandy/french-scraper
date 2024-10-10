@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "see; note; find; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se constater/ne pas constater/ne pas se constater",
+	"indicatif": {
+		"présent": {
+			"je": "constate",
+			"tu": "constates",
+			"il/elle": "constate",
+			"nous": "constatons",
+			"vous": "constatez",
+			"ils/elles": "constatent"
+		},
+		"imparfait": {
+			"je": "constatais",
+			"tu": "constatais",
+			"il/elle": "constatait",
+			"nous": "constations",
+			"vous": "constatiez",
+			"ils/elles": "constataient"
+		},
+		"futur": {
+			"je": "constaterai",
+			"tu": "constateras",
+			"il/elle": "constatera",
+			"nous": "constaterons",
+			"vous": "constaterez",
+			"ils/elles": "constateront"
+		},
+		"passé simple": {
+			"je": "constatai",
+			"tu": "constatas",
+			"il/elle": "constata",
+			"nous": "constatâmes",
+			"vous": "constatâtes",
+			"ils/elles": "constatèrent"
+		},
+		"passé composé": {
+			"j'": "ai constaté",
+			"tu": "as constaté",
+			"il/elle": "a constaté",
+			"nous": "avons constaté",
+			"vous": "avez constaté",
+			"ils/elles": "ont constaté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais constaté",
+			"tu": "avais constaté",
+			"il/elle": "avait constaté",
+			"nous": "avions constaté",
+			"vous": "aviez constaté",
+			"ils/elles": "avaient constaté"
+		},
+		"passé antérieur": {
+			"j'": "eus constaté",
+			"tu": "eus constaté",
+			"il/elle": "eut constaté",
+			"nous": "eûmes constaté",
+			"vous": "eûtes constaté",
+			"ils/elles": "eurent constaté"
+		},
+		"futur antérieur": {
+			"j'": "aurai constaté",
+			"tu": "auras constaté",
+			"il/elle": "aura constaté",
+			"nous": "aurons constaté",
+			"vous": "aurez constaté",
+			"ils/elles": "auront constaté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous constatiez",
+			"qu'il/elle": "constate",
+			"qu'ils/elles": "constatent"
+		},
+		"imparfait": {
+			"que": "vous constatassiez",
+			"qu'il/elle": "constatât",
+			"qu'ils/elles": "constatassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse constaté",
+			"que": "vous eussiez constaté",
+			"qu'il/elle": "eût constaté",
+			"qu'ils/elles": "eussent constaté"
+		},
+		"passé": {
+			"j'": "aie constaté",
+			"que": "vous ayez constaté",
+			"qu'il/elle": "ait constaté",
+			"qu'ils/elles": "aient constaté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "constaterais",
+			"tu": "constaterais",
+			"il/elle": "constaterait",
+			"nous": "constaterions",
+			"vous": "constateriez",
+			"ils/elles": "constateraient"
+		},
+		"passé première forme": {
+			"j'": "aurais constaté",
+			"tu": "aurais constaté",
+			"il/elle": "aurait constaté",
+			"nous": "aurions constaté",
+			"vous": "auriez constaté",
+			"ils/elles": "auraient constaté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse constaté",
+			"tu": "eusses constaté",
+			"il/elle": "eût constaté",
+			"nous": "eussions constaté",
+			"vous": "eussiez constaté",
+			"ils/elles": "eussent constaté"
+		}
+	},
+	"participe": {
+		"présent": { "constatant": "" },
+		"passé composé": { "ayant": "constaté" },
+		"passé": {
+			"masc.sg.:": "constaté",
+			"masc.pl.:": "constatés",
+			"fém.sg.:": "constatée",
+			"fém.pl.:": "constatées"
+		}
+	},
+	"imperatif": {
+		"présent": { "constate": "", "constatons": "", "constatez": "" },
+		"passé": { "aie": "constaté", "ayons": "constaté", "ayez": "constaté" }
+	},
+	"infinitif": {
+		"présent": { "constater": "" },
+		"passé": { "avoir": "constaté" }
+	}
+}

@@ -1,0 +1,138 @@
+{
+	"name": "commencer",
+	"definition": "trace; draw; track; ...",
+	"model": "commencer",
+	"auxiliary": "avoir",
+	"otherForms": "se tracer/ne pas tracer/ne pas se tracer",
+	"indicatif": {
+		"présent": {
+			"je": "trace",
+			"tu": "traces",
+			"il/elle": "trace",
+			"nous": "traçons",
+			"vous": "tracez",
+			"ils/elles": "tracent"
+		},
+		"imparfait": {
+			"je": "traçais",
+			"tu": "traçais",
+			"il/elle": "traçait",
+			"nous": "tracions",
+			"vous": "traciez",
+			"ils/elles": "traçaient"
+		},
+		"futur": {
+			"je": "tracerai",
+			"tu": "traceras",
+			"il/elle": "tracera",
+			"nous": "tracerons",
+			"vous": "tracerez",
+			"ils/elles": "traceront"
+		},
+		"passé simple": {
+			"je": "traçai",
+			"tu": "traças",
+			"il/elle": "traça",
+			"nous": "traçâmes",
+			"vous": "traçâtes",
+			"ils/elles": "tracèrent"
+		},
+		"passé composé": {
+			"j'": "ai tracé",
+			"tu": "as tracé",
+			"il/elle": "a tracé",
+			"nous": "avons tracé",
+			"vous": "avez tracé",
+			"ils/elles": "ont tracé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais tracé",
+			"tu": "avais tracé",
+			"il/elle": "avait tracé",
+			"nous": "avions tracé",
+			"vous": "aviez tracé",
+			"ils/elles": "avaient tracé"
+		},
+		"passé antérieur": {
+			"j'": "eus tracé",
+			"tu": "eus tracé",
+			"il/elle": "eut tracé",
+			"nous": "eûmes tracé",
+			"vous": "eûtes tracé",
+			"ils/elles": "eurent tracé"
+		},
+		"futur antérieur": {
+			"j'": "aurai tracé",
+			"tu": "auras tracé",
+			"il/elle": "aura tracé",
+			"nous": "aurons tracé",
+			"vous": "aurez tracé",
+			"ils/elles": "auront tracé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous traciez",
+			"qu'il/elle": "trace",
+			"qu'ils/elles": "tracent"
+		},
+		"imparfait": {
+			"que": "vous traçassiez",
+			"qu'il/elle": "traçât",
+			"qu'ils/elles": "traçassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse tracé",
+			"que": "vous eussiez tracé",
+			"qu'il/elle": "eût tracé",
+			"qu'ils/elles": "eussent tracé"
+		},
+		"passé": {
+			"j'": "aie tracé",
+			"que": "vous ayez tracé",
+			"qu'il/elle": "ait tracé",
+			"qu'ils/elles": "aient tracé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "tracerais",
+			"tu": "tracerais",
+			"il/elle": "tracerait",
+			"nous": "tracerions",
+			"vous": "traceriez",
+			"ils/elles": "traceraient"
+		},
+		"passé première forme": {
+			"j'": "aurais tracé",
+			"tu": "aurais tracé",
+			"il/elle": "aurait tracé",
+			"nous": "aurions tracé",
+			"vous": "auriez tracé",
+			"ils/elles": "auraient tracé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse tracé",
+			"tu": "eusses tracé",
+			"il/elle": "eût tracé",
+			"nous": "eussions tracé",
+			"vous": "eussiez tracé",
+			"ils/elles": "eussent tracé"
+		}
+	},
+	"participe": {
+		"présent": { "traçant": "" },
+		"passé composé": { "ayant": "tracé" },
+		"passé": {
+			"masc.sg.:": "tracé",
+			"masc.pl.:": "tracés",
+			"fém.sg.:": "tracée",
+			"fém.pl.:": "tracées"
+		}
+	},
+	"imperatif": {
+		"présent": { "trace": "", "traçons": "", "tracez": "" },
+		"passé": { "aie": "tracé", "ayons": "tracé", "ayez": "tracé" }
+	},
+	"infinitif": { "présent": { "tracer": "" }, "passé": { "avoir": "tracé" } }
+}

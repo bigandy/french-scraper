@@ -1,0 +1,141 @@
+{
+	"name": "balayer",
+	"definition": "deploy; extend; expand; ...",
+	"model": "balayer",
+	"auxiliary": "avoir",
+	"otherForms": "se déployer/ne pas déployer/ne pas se déployer",
+	"indicatif": {
+		"présent": {
+			"je": "déploie",
+			"tu": "déploies",
+			"il/elle": "déploie",
+			"nous": "déployons",
+			"vous": "déployez",
+			"ils/elles": "déploient"
+		},
+		"imparfait": {
+			"je": "déployais",
+			"tu": "déployais",
+			"il/elle": "déployait",
+			"nous": "déployions",
+			"vous": "déployiez",
+			"ils/elles": "déployaient"
+		},
+		"futur": {
+			"je": "déploierai",
+			"tu": "déploieras",
+			"il/elle": "déploiera",
+			"nous": "déploierons",
+			"vous": "déploierez",
+			"ils/elles": "déploieront"
+		},
+		"passé simple": {
+			"je": "déployai",
+			"tu": "déployas",
+			"il/elle": "déploya",
+			"nous": "déployâmes",
+			"vous": "déployâtes",
+			"ils/elles": "déployèrent"
+		},
+		"passé composé": {
+			"j'": "ai déployé",
+			"tu": "as déployé",
+			"il/elle": "a déployé",
+			"nous": "avons déployé",
+			"vous": "avez déployé",
+			"ils/elles": "ont déployé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais déployé",
+			"tu": "avais déployé",
+			"il/elle": "avait déployé",
+			"nous": "avions déployé",
+			"vous": "aviez déployé",
+			"ils/elles": "avaient déployé"
+		},
+		"passé antérieur": {
+			"j'": "eus déployé",
+			"tu": "eus déployé",
+			"il/elle": "eut déployé",
+			"nous": "eûmes déployé",
+			"vous": "eûtes déployé",
+			"ils/elles": "eurent déployé"
+		},
+		"futur antérieur": {
+			"j'": "aurai déployé",
+			"tu": "auras déployé",
+			"il/elle": "aura déployé",
+			"nous": "aurons déployé",
+			"vous": "aurez déployé",
+			"ils/elles": "auront déployé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous déployiez",
+			"qu'il/elle": "déploie",
+			"qu'ils/elles": "déploient"
+		},
+		"imparfait": {
+			"que": "vous déployassiez",
+			"qu'il/elle": "déployât",
+			"qu'ils/elles": "déployassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse déployé",
+			"que": "vous eussiez déployé",
+			"qu'il/elle": "eût déployé",
+			"qu'ils/elles": "eussent déployé"
+		},
+		"passé": {
+			"j'": "aie déployé",
+			"que": "vous ayez déployé",
+			"qu'il/elle": "ait déployé",
+			"qu'ils/elles": "aient déployé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "déploierais",
+			"tu": "déploierais",
+			"il/elle": "déploierait",
+			"nous": "déploierions",
+			"vous": "déploieriez",
+			"ils/elles": "déploieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais déployé",
+			"tu": "aurais déployé",
+			"il/elle": "aurait déployé",
+			"nous": "aurions déployé",
+			"vous": "auriez déployé",
+			"ils/elles": "auraient déployé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse déployé",
+			"tu": "eusses déployé",
+			"il/elle": "eût déployé",
+			"nous": "eussions déployé",
+			"vous": "eussiez déployé",
+			"ils/elles": "eussent déployé"
+		}
+	},
+	"participe": {
+		"présent": { "déployant": "" },
+		"passé composé": { "ayant": "déployé" },
+		"passé": {
+			"masc.sg.:": "déployé",
+			"masc.pl.:": "déployés",
+			"fém.sg.:": "déployée",
+			"fém.pl.:": "déployées"
+		}
+	},
+	"imperatif": {
+		"présent": { "déploie": "", "déployons": "", "déployez": "" },
+		"passé": { "aie": "déployé", "ayons": "déployé", "ayez": "déployé" }
+	},
+	"infinitif": {
+		"présent": { "déployer": "" },
+		"passé": { "avoir": "déployé" }
+	}
+}

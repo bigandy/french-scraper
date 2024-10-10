@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "prepare; make; get ready; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se préparer/ne pas préparer/ne pas se préparer",
+	"indicatif": {
+		"présent": {
+			"je": "prépare",
+			"tu": "prépares",
+			"il/elle": "prépare",
+			"nous": "préparons",
+			"vous": "préparez",
+			"ils/elles": "préparent"
+		},
+		"imparfait": {
+			"je": "préparais",
+			"tu": "préparais",
+			"il/elle": "préparait",
+			"nous": "préparions",
+			"vous": "prépariez",
+			"ils/elles": "préparaient"
+		},
+		"futur": {
+			"je": "préparerai",
+			"tu": "prépareras",
+			"il/elle": "préparera",
+			"nous": "préparerons",
+			"vous": "préparerez",
+			"ils/elles": "prépareront"
+		},
+		"passé simple": {
+			"je": "préparai",
+			"tu": "préparas",
+			"il/elle": "prépara",
+			"nous": "préparâmes",
+			"vous": "préparâtes",
+			"ils/elles": "préparèrent"
+		},
+		"passé composé": {
+			"j'": "ai préparé",
+			"tu": "as préparé",
+			"il/elle": "a préparé",
+			"nous": "avons préparé",
+			"vous": "avez préparé",
+			"ils/elles": "ont préparé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais préparé",
+			"tu": "avais préparé",
+			"il/elle": "avait préparé",
+			"nous": "avions préparé",
+			"vous": "aviez préparé",
+			"ils/elles": "avaient préparé"
+		},
+		"passé antérieur": {
+			"j'": "eus préparé",
+			"tu": "eus préparé",
+			"il/elle": "eut préparé",
+			"nous": "eûmes préparé",
+			"vous": "eûtes préparé",
+			"ils/elles": "eurent préparé"
+		},
+		"futur antérieur": {
+			"j'": "aurai préparé",
+			"tu": "auras préparé",
+			"il/elle": "aura préparé",
+			"nous": "aurons préparé",
+			"vous": "aurez préparé",
+			"ils/elles": "auront préparé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous prépariez",
+			"qu'il/elle": "prépare",
+			"qu'ils/elles": "préparent"
+		},
+		"imparfait": {
+			"que": "vous préparassiez",
+			"qu'il/elle": "préparât",
+			"qu'ils/elles": "préparassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse préparé",
+			"que": "vous eussiez préparé",
+			"qu'il/elle": "eût préparé",
+			"qu'ils/elles": "eussent préparé"
+		},
+		"passé": {
+			"j'": "aie préparé",
+			"que": "vous ayez préparé",
+			"qu'il/elle": "ait préparé",
+			"qu'ils/elles": "aient préparé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "préparerais",
+			"tu": "préparerais",
+			"il/elle": "préparerait",
+			"nous": "préparerions",
+			"vous": "prépareriez",
+			"ils/elles": "prépareraient"
+		},
+		"passé première forme": {
+			"j'": "aurais préparé",
+			"tu": "aurais préparé",
+			"il/elle": "aurait préparé",
+			"nous": "aurions préparé",
+			"vous": "auriez préparé",
+			"ils/elles": "auraient préparé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse préparé",
+			"tu": "eusses préparé",
+			"il/elle": "eût préparé",
+			"nous": "eussions préparé",
+			"vous": "eussiez préparé",
+			"ils/elles": "eussent préparé"
+		}
+	},
+	"participe": {
+		"présent": { "préparant": "" },
+		"passé composé": { "ayant": "préparé" },
+		"passé": {
+			"masc.sg.:": "préparé",
+			"masc.pl.:": "préparés",
+			"fém.sg.:": "préparée",
+			"fém.pl.:": "préparées"
+		}
+	},
+	"imperatif": {
+		"présent": { "prépare": "", "préparons": "", "préparez": "" },
+		"passé": { "aie": "préparé", "ayons": "préparé", "ayez": "préparé" }
+	},
+	"infinitif": {
+		"présent": { "préparer": "" },
+		"passé": { "avoir": "préparé" }
+	}
+}

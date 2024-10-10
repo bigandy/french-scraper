@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "overcome; surmount; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se surmonter/ne pas surmonter/ne pas se surmonter",
+	"indicatif": {
+		"présent": {
+			"je": "surmonte",
+			"tu": "surmontes",
+			"il/elle": "surmonte",
+			"nous": "surmontons",
+			"vous": "surmontez",
+			"ils/elles": "surmontent"
+		},
+		"imparfait": {
+			"je": "surmontais",
+			"tu": "surmontais",
+			"il/elle": "surmontait",
+			"nous": "surmontions",
+			"vous": "surmontiez",
+			"ils/elles": "surmontaient"
+		},
+		"futur": {
+			"je": "surmonterai",
+			"tu": "surmonteras",
+			"il/elle": "surmontera",
+			"nous": "surmonterons",
+			"vous": "surmonterez",
+			"ils/elles": "surmonteront"
+		},
+		"passé simple": {
+			"je": "surmontai",
+			"tu": "surmontas",
+			"il/elle": "surmonta",
+			"nous": "surmontâmes",
+			"vous": "surmontâtes",
+			"ils/elles": "surmontèrent"
+		},
+		"passé composé": {
+			"j'": "ai surmonté",
+			"tu": "as surmonté",
+			"il/elle": "a surmonté",
+			"nous": "avons surmonté",
+			"vous": "avez surmonté",
+			"ils/elles": "ont surmonté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais surmonté",
+			"tu": "avais surmonté",
+			"il/elle": "avait surmonté",
+			"nous": "avions surmonté",
+			"vous": "aviez surmonté",
+			"ils/elles": "avaient surmonté"
+		},
+		"passé antérieur": {
+			"j'": "eus surmonté",
+			"tu": "eus surmonté",
+			"il/elle": "eut surmonté",
+			"nous": "eûmes surmonté",
+			"vous": "eûtes surmonté",
+			"ils/elles": "eurent surmonté"
+		},
+		"futur antérieur": {
+			"j'": "aurai surmonté",
+			"tu": "auras surmonté",
+			"il/elle": "aura surmonté",
+			"nous": "aurons surmonté",
+			"vous": "aurez surmonté",
+			"ils/elles": "auront surmonté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous surmontiez",
+			"qu'il/elle": "surmonte",
+			"qu'ils/elles": "surmontent"
+		},
+		"imparfait": {
+			"que": "vous surmontassiez",
+			"qu'il/elle": "surmontât",
+			"qu'ils/elles": "surmontassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse surmonté",
+			"que": "vous eussiez surmonté",
+			"qu'il/elle": "eût surmonté",
+			"qu'ils/elles": "eussent surmonté"
+		},
+		"passé": {
+			"j'": "aie surmonté",
+			"que": "vous ayez surmonté",
+			"qu'il/elle": "ait surmonté",
+			"qu'ils/elles": "aient surmonté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "surmonterais",
+			"tu": "surmonterais",
+			"il/elle": "surmonterait",
+			"nous": "surmonterions",
+			"vous": "surmonteriez",
+			"ils/elles": "surmonteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais surmonté",
+			"tu": "aurais surmonté",
+			"il/elle": "aurait surmonté",
+			"nous": "aurions surmonté",
+			"vous": "auriez surmonté",
+			"ils/elles": "auraient surmonté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse surmonté",
+			"tu": "eusses surmonté",
+			"il/elle": "eût surmonté",
+			"nous": "eussions surmonté",
+			"vous": "eussiez surmonté",
+			"ils/elles": "eussent surmonté"
+		}
+	},
+	"participe": {
+		"présent": { "surmontant": "" },
+		"passé composé": { "ayant": "surmonté" },
+		"passé": {
+			"masc.sg.:": "surmonté",
+			"masc.pl.:": "surmontés",
+			"fém.sg.:": "surmontée",
+			"fém.pl.:": "surmontées"
+		}
+	},
+	"imperatif": {
+		"présent": { "surmonte": "", "surmontons": "", "surmontez": "" },
+		"passé": { "aie": "surmonté", "ayons": "surmonté", "ayez": "surmonté" }
+	},
+	"infinitif": {
+		"présent": { "surmonter": "" },
+		"passé": { "avoir": "surmonté" }
+	}
+}

@@ -45,12 +45,16 @@ async function scrapeVerbUrls(urls: string[]) {
 		const page = await context.newPage()
 
 		// a Queue system so not ramming the website!
-		const allUrls = urls.map(async (url: string) => {
-			await queue.add(async () => await scrapePageForHTMLContent(url, page))
-			return
-		})
 
-		await Promise.all([...allUrls])
+		for (const url of urls) {
+			await queue.add(async () => await scrapePageForHTMLContent(url, page))
+		}
+		// const allUrls = urls.map(async (url: string) => {
+		// 	await queue.add(async () => await scrapePageForHTMLContent(url, page))
+		// 	return
+		// })
+
+		// await Promise.all([...allUrls])
 
 		await browser.close()
 	} catch (error) {

@@ -1,0 +1,138 @@
+{
+	"name": "finir",
+	"definition": "undergo; suffer; experience; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se subir/ne pas subir/ne pas se subir",
+	"indicatif": {
+		"présent": {
+			"je": "subis",
+			"tu": "subis",
+			"il/elle": "subit",
+			"nous": "subissons",
+			"vous": "subissez",
+			"ils/elles": "subissent"
+		},
+		"imparfait": {
+			"je": "subissais",
+			"tu": "subissais",
+			"il/elle": "subissait",
+			"nous": "subissions",
+			"vous": "subissiez",
+			"ils/elles": "subissaient"
+		},
+		"futur": {
+			"je": "subirai",
+			"tu": "subiras",
+			"il/elle": "subira",
+			"nous": "subirons",
+			"vous": "subirez",
+			"ils/elles": "subiront"
+		},
+		"passé simple": {
+			"je": "subis",
+			"tu": "subis",
+			"il/elle": "subit",
+			"nous": "subîmes",
+			"vous": "subîtes",
+			"ils/elles": "subirent"
+		},
+		"passé composé": {
+			"j'": "ai subi",
+			"tu": "as subi",
+			"il/elle": "a subi",
+			"nous": "avons subi",
+			"vous": "avez subi",
+			"ils/elles": "ont subi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais subi",
+			"tu": "avais subi",
+			"il/elle": "avait subi",
+			"nous": "avions subi",
+			"vous": "aviez subi",
+			"ils/elles": "avaient subi"
+		},
+		"passé antérieur": {
+			"j'": "eus subi",
+			"tu": "eus subi",
+			"il/elle": "eut subi",
+			"nous": "eûmes subi",
+			"vous": "eûtes subi",
+			"ils/elles": "eurent subi"
+		},
+		"futur antérieur": {
+			"j'": "aurai subi",
+			"tu": "auras subi",
+			"il/elle": "aura subi",
+			"nous": "aurons subi",
+			"vous": "aurez subi",
+			"ils/elles": "auront subi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous subissiez",
+			"qu'il/elle": "subisse",
+			"qu'ils/elles": "subissent"
+		},
+		"imparfait": {
+			"que": "vous subissiez",
+			"qu'il/elle": "subît",
+			"qu'ils/elles": "subissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse subi",
+			"que": "vous eussiez subi",
+			"qu'il/elle": "eût subi",
+			"qu'ils/elles": "eussent subi"
+		},
+		"passé": {
+			"j'": "aie subi",
+			"que": "vous ayez subi",
+			"qu'il/elle": "ait subi",
+			"qu'ils/elles": "aient subi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "subirais",
+			"tu": "subirais",
+			"il/elle": "subirait",
+			"nous": "subirions",
+			"vous": "subiriez",
+			"ils/elles": "subiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais subi",
+			"tu": "aurais subi",
+			"il/elle": "aurait subi",
+			"nous": "aurions subi",
+			"vous": "auriez subi",
+			"ils/elles": "auraient subi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse subi",
+			"tu": "eusses subi",
+			"il/elle": "eût subi",
+			"nous": "eussions subi",
+			"vous": "eussiez subi",
+			"ils/elles": "eussent subi"
+		}
+	},
+	"participe": {
+		"présent": { "subissant": "" },
+		"passé composé": { "ayant": "subi" },
+		"passé": {
+			"masc.sg.:": "subi",
+			"masc.pl.:": "subis",
+			"fém.sg.:": "subie",
+			"fém.pl.:": "subies"
+		}
+	},
+	"imperatif": {
+		"présent": { "subis": "", "subissons": "", "subissez": "" },
+		"passé": { "aie": "subi", "ayons": "subi", "ayez": "subi" }
+	},
+	"infinitif": { "présent": { "subir": "" }, "passé": { "avoir": "subi" } }
+}

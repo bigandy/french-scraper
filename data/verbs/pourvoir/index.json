@@ -1,0 +1,138 @@
+{
+	"name": "pourvoir",
+	"definition": "fill; provide; be filled; ...",
+	"model": "pourvoir",
+	"auxiliary": "avoir",
+	"otherForms": "se pourvoir/ne pas pourvoir/ne pas se pourvoir",
+	"indicatif": {
+		"présent": {
+			"je": "pourvois",
+			"tu": "pourvois",
+			"il/elle": "pourvoit",
+			"nous": "pourvoyons",
+			"vous": "pourvoyez",
+			"ils/elles": "pourvoient"
+		},
+		"imparfait": {
+			"je": "pourvoyais",
+			"tu": "pourvoyais",
+			"il/elle": "pourvoyait",
+			"nous": "pourvoyions",
+			"vous": "pourvoyiez",
+			"ils/elles": "pourvoyaient"
+		},
+		"futur": {
+			"je": "pourvoirai",
+			"tu": "pourvoiras",
+			"il/elle": "pourvoira",
+			"nous": "pourvoirons",
+			"vous": "pourvoirez",
+			"ils/elles": "pourvoiront"
+		},
+		"passé simple": {
+			"je": "pourvus",
+			"tu": "pourvus",
+			"il/elle": "pourvut",
+			"nous": "pourvûmes",
+			"vous": "pourvûtes",
+			"ils/elles": "pourvurent"
+		},
+		"passé composé": {
+			"j'": "ai pourvu",
+			"tu": "as pourvu",
+			"il/elle": "a pourvu",
+			"nous": "avons pourvu",
+			"vous": "avez pourvu",
+			"ils/elles": "ont pourvu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais pourvu",
+			"tu": "avais pourvu",
+			"il/elle": "avait pourvu",
+			"nous": "avions pourvu",
+			"vous": "aviez pourvu",
+			"ils/elles": "avaient pourvu"
+		},
+		"passé antérieur": {
+			"j'": "eus pourvu",
+			"tu": "eus pourvu",
+			"il/elle": "eut pourvu",
+			"nous": "eûmes pourvu",
+			"vous": "eûtes pourvu",
+			"ils/elles": "eurent pourvu"
+		},
+		"futur antérieur": {
+			"j'": "aurai pourvu",
+			"tu": "auras pourvu",
+			"il/elle": "aura pourvu",
+			"nous": "aurons pourvu",
+			"vous": "aurez pourvu",
+			"ils/elles": "auront pourvu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous pourvoyiez",
+			"qu'il/elle": "pourvoie",
+			"qu'ils/elles": "pourvoient"
+		},
+		"imparfait": {
+			"que": "vous pourvussiez",
+			"qu'il/elle": "pourvût",
+			"qu'ils/elles": "pourvussent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse pourvu",
+			"que": "vous eussiez pourvu",
+			"qu'il/elle": "eût pourvu",
+			"qu'ils/elles": "eussent pourvu"
+		},
+		"passé": {
+			"j'": "aie pourvu",
+			"que": "vous ayez pourvu",
+			"qu'il/elle": "ait pourvu",
+			"qu'ils/elles": "aient pourvu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "pourvoirais",
+			"tu": "pourvoirais",
+			"il/elle": "pourvoirait",
+			"nous": "pourvoirions",
+			"vous": "pourvoiriez",
+			"ils/elles": "pourvoiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais pourvu",
+			"tu": "aurais pourvu",
+			"il/elle": "aurait pourvu",
+			"nous": "aurions pourvu",
+			"vous": "auriez pourvu",
+			"ils/elles": "auraient pourvu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse pourvu",
+			"tu": "eusses pourvu",
+			"il/elle": "eût pourvu",
+			"nous": "eussions pourvu",
+			"vous": "eussiez pourvu",
+			"ils/elles": "eussent pourvu"
+		}
+	},
+	"participe": {
+		"présent": { "pourvoyant": "" },
+		"passé composé": { "ayant": "pourvu" },
+		"passé": {
+			"masc.sg.:": "pourvu",
+			"masc.pl.:": "pourvus",
+			"fém.sg.:": "pourvue",
+			"fém.pl.:": "pourvues"
+		}
+	},
+	"imperatif": {
+		"présent": { "pourvois": "", "pourvoyons": "", "pourvoyez": "" },
+		"passé": { "aie": "pourvu", "ayons": "pourvu", "ayez": "pourvu" }
+	},
+	"infinitif": { "présent": { "pourvoir": "" }, "passé": { "avoir": "pourvu" } }
+}

@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "expel; deport; evict; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'expulser/ne pas expulser/ne pas s'expulser",
+	"indicatif": {
+		"présent": {
+			"j'": "expulse",
+			"tu": "expulses",
+			"il/elle": "expulse",
+			"nous": "expulsons",
+			"vous": "expulsez",
+			"ils/elles": "expulsent"
+		},
+		"imparfait": {
+			"j'": "expulsais",
+			"tu": "expulsais",
+			"il/elle": "expulsait",
+			"nous": "expulsions",
+			"vous": "expulsiez",
+			"ils/elles": "expulsaient"
+		},
+		"futur": {
+			"j'": "expulserai",
+			"tu": "expulseras",
+			"il/elle": "expulsera",
+			"nous": "expulserons",
+			"vous": "expulserez",
+			"ils/elles": "expulseront"
+		},
+		"passé simple": {
+			"j'": "expulsai",
+			"tu": "expulsas",
+			"il/elle": "expulsa",
+			"nous": "expulsâmes",
+			"vous": "expulsâtes",
+			"ils/elles": "expulsèrent"
+		},
+		"passé composé": {
+			"j'": "ai expulsé",
+			"tu": "as expulsé",
+			"il/elle": "a expulsé",
+			"nous": "avons expulsé",
+			"vous": "avez expulsé",
+			"ils/elles": "ont expulsé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais expulsé",
+			"tu": "avais expulsé",
+			"il/elle": "avait expulsé",
+			"nous": "avions expulsé",
+			"vous": "aviez expulsé",
+			"ils/elles": "avaient expulsé"
+		},
+		"passé antérieur": {
+			"j'": "eus expulsé",
+			"tu": "eus expulsé",
+			"il/elle": "eut expulsé",
+			"nous": "eûmes expulsé",
+			"vous": "eûtes expulsé",
+			"ils/elles": "eurent expulsé"
+		},
+		"futur antérieur": {
+			"j'": "aurai expulsé",
+			"tu": "auras expulsé",
+			"il/elle": "aura expulsé",
+			"nous": "aurons expulsé",
+			"vous": "aurez expulsé",
+			"ils/elles": "auront expulsé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "expulse",
+			"que": "vous expulsiez",
+			"qu'il/elle": "expulse",
+			"qu'ils/elles": "expulsent"
+		},
+		"imparfait": {
+			"j'": "expulsasse",
+			"que": "vous expulsassiez",
+			"qu'il/elle": "expulsât",
+			"qu'ils/elles": "expulsassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse expulsé",
+			"que": "vous eussiez expulsé",
+			"qu'il/elle": "eût expulsé",
+			"qu'ils/elles": "eussent expulsé"
+		},
+		"passé": {
+			"j'": "aie expulsé",
+			"que": "vous ayez expulsé",
+			"qu'il/elle": "ait expulsé",
+			"qu'ils/elles": "aient expulsé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "expulserais",
+			"tu": "expulserais",
+			"il/elle": "expulserait",
+			"nous": "expulserions",
+			"vous": "expulseriez",
+			"ils/elles": "expulseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais expulsé",
+			"tu": "aurais expulsé",
+			"il/elle": "aurait expulsé",
+			"nous": "aurions expulsé",
+			"vous": "auriez expulsé",
+			"ils/elles": "auraient expulsé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse expulsé",
+			"tu": "eusses expulsé",
+			"il/elle": "eût expulsé",
+			"nous": "eussions expulsé",
+			"vous": "eussiez expulsé",
+			"ils/elles": "eussent expulsé"
+		}
+	},
+	"participe": {
+		"présent": { "expulsant": "" },
+		"passé composé": { "ayant": "expulsé" },
+		"passé": {
+			"masc.sg.:": "expulsé",
+			"masc.pl.:": "expulsés",
+			"fém.sg.:": "expulsée",
+			"fém.pl.:": "expulsées"
+		}
+	},
+	"imperatif": {
+		"présent": { "expulse": "", "expulsons": "", "expulsez": "" },
+		"passé": { "aie": "expulsé", "ayons": "expulsé", "ayez": "expulsé" }
+	},
+	"infinitif": {
+		"présent": { "expulser": "" },
+		"passé": { "avoir": "expulsé" }
+	}
+}

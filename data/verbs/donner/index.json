@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "give; provide; make; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se donner/ne pas donner/ne pas se donner",
+	"indicatif": {
+		"présent": {
+			"je": "donne",
+			"tu": "donnes",
+			"il/elle": "donne",
+			"nous": "donnons",
+			"vous": "donnez",
+			"ils/elles": "donnent"
+		},
+		"imparfait": {
+			"je": "donnais",
+			"tu": "donnais",
+			"il/elle": "donnait",
+			"nous": "donnions",
+			"vous": "donniez",
+			"ils/elles": "donnaient"
+		},
+		"futur": {
+			"je": "donnerai",
+			"tu": "donneras",
+			"il/elle": "donnera",
+			"nous": "donnerons",
+			"vous": "donnerez",
+			"ils/elles": "donneront"
+		},
+		"passé simple": {
+			"je": "donnai",
+			"tu": "donnas",
+			"il/elle": "donna",
+			"nous": "donnâmes",
+			"vous": "donnâtes",
+			"ils/elles": "donnèrent"
+		},
+		"passé composé": {
+			"j'": "ai donné",
+			"tu": "as donné",
+			"il/elle": "a donné",
+			"nous": "avons donné",
+			"vous": "avez donné",
+			"ils/elles": "ont donné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais donné",
+			"tu": "avais donné",
+			"il/elle": "avait donné",
+			"nous": "avions donné",
+			"vous": "aviez donné",
+			"ils/elles": "avaient donné"
+		},
+		"passé antérieur": {
+			"j'": "eus donné",
+			"tu": "eus donné",
+			"il/elle": "eut donné",
+			"nous": "eûmes donné",
+			"vous": "eûtes donné",
+			"ils/elles": "eurent donné"
+		},
+		"futur antérieur": {
+			"j'": "aurai donné",
+			"tu": "auras donné",
+			"il/elle": "aura donné",
+			"nous": "aurons donné",
+			"vous": "aurez donné",
+			"ils/elles": "auront donné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous donniez",
+			"qu'il/elle": "donne",
+			"qu'ils/elles": "donnent"
+		},
+		"imparfait": {
+			"que": "vous donnassiez",
+			"qu'il/elle": "donnât",
+			"qu'ils/elles": "donnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse donné",
+			"que": "vous eussiez donné",
+			"qu'il/elle": "eût donné",
+			"qu'ils/elles": "eussent donné"
+		},
+		"passé": {
+			"j'": "aie donné",
+			"que": "vous ayez donné",
+			"qu'il/elle": "ait donné",
+			"qu'ils/elles": "aient donné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "donnerais",
+			"tu": "donnerais",
+			"il/elle": "donnerait",
+			"nous": "donnerions",
+			"vous": "donneriez",
+			"ils/elles": "donneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais donné",
+			"tu": "aurais donné",
+			"il/elle": "aurait donné",
+			"nous": "aurions donné",
+			"vous": "auriez donné",
+			"ils/elles": "auraient donné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse donné",
+			"tu": "eusses donné",
+			"il/elle": "eût donné",
+			"nous": "eussions donné",
+			"vous": "eussiez donné",
+			"ils/elles": "eussent donné"
+		}
+	},
+	"participe": {
+		"présent": { "donnant": "" },
+		"passé composé": { "ayant": "donné" },
+		"passé": {
+			"masc.sg.:": "donné",
+			"masc.pl.:": "donnés",
+			"fém.sg.:": "donnée",
+			"fém.pl.:": "données"
+		}
+	},
+	"imperatif": {
+		"présent": { "donne": "", "donnons": "", "donnez": "" },
+		"passé": { "aie": "donné", "ayons": "donné", "ayez": "donné" }
+	},
+	"infinitif": { "présent": { "donner": "" }, "passé": { "avoir": "donné" } }
+}

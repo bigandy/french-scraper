@@ -1,0 +1,143 @@
+{
+	"name": "prendre",
+	"definition": "undertake; take; initiate; ...",
+	"model": "prendre",
+	"auxiliary": "avoir",
+	"otherForms": "s'entreprendre/ne pas entreprendre/ne pas s'entreprendre",
+	"indicatif": {
+		"présent": {
+			"j'": "entreprends",
+			"tu": "entreprends",
+			"il/elle": "entreprend",
+			"nous": "entreprenons",
+			"vous": "entreprenez",
+			"ils/elles": "entreprennent"
+		},
+		"imparfait": {
+			"j'": "entreprenais",
+			"tu": "entreprenais",
+			"il/elle": "entreprenait",
+			"nous": "entreprenions",
+			"vous": "entrepreniez",
+			"ils/elles": "entreprenaient"
+		},
+		"futur": {
+			"j'": "entreprendrai",
+			"tu": "entreprendras",
+			"il/elle": "entreprendra",
+			"nous": "entreprendrons",
+			"vous": "entreprendrez",
+			"ils/elles": "entreprendront"
+		},
+		"passé simple": {
+			"j'": "entrepris",
+			"tu": "entrepris",
+			"il/elle": "entreprit",
+			"nous": "entreprîmes",
+			"vous": "entreprîtes",
+			"ils/elles": "entreprirent"
+		},
+		"passé composé": {
+			"j'": "ai entrepris",
+			"tu": "as entrepris",
+			"il/elle": "a entrepris",
+			"nous": "avons entrepris",
+			"vous": "avez entrepris",
+			"ils/elles": "ont entrepris"
+		},
+		"plus-que-parfait": {
+			"j'": "avais entrepris",
+			"tu": "avais entrepris",
+			"il/elle": "avait entrepris",
+			"nous": "avions entrepris",
+			"vous": "aviez entrepris",
+			"ils/elles": "avaient entrepris"
+		},
+		"passé antérieur": {
+			"j'": "eus entrepris",
+			"tu": "eus entrepris",
+			"il/elle": "eut entrepris",
+			"nous": "eûmes entrepris",
+			"vous": "eûtes entrepris",
+			"ils/elles": "eurent entrepris"
+		},
+		"futur antérieur": {
+			"j'": "aurai entrepris",
+			"tu": "auras entrepris",
+			"il/elle": "aura entrepris",
+			"nous": "aurons entrepris",
+			"vous": "aurez entrepris",
+			"ils/elles": "auront entrepris"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "entreprenne",
+			"que": "vous entrepreniez",
+			"qu'il/elle": "entreprenne",
+			"qu'ils/elles": "entreprennent"
+		},
+		"imparfait": {
+			"j'": "entreprisse",
+			"que": "vous entreprissiez",
+			"qu'il/elle": "entreprît",
+			"qu'ils/elles": "entreprissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse entrepris",
+			"que": "vous eussiez entrepris",
+			"qu'il/elle": "eût entrepris",
+			"qu'ils/elles": "eussent entrepris"
+		},
+		"passé": {
+			"j'": "aie entrepris",
+			"que": "vous ayez entrepris",
+			"qu'il/elle": "ait entrepris",
+			"qu'ils/elles": "aient entrepris"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "entreprendrais",
+			"tu": "entreprendrais",
+			"il/elle": "entreprendrait",
+			"nous": "entreprendrions",
+			"vous": "entreprendriez",
+			"ils/elles": "entreprendraient"
+		},
+		"passé première forme": {
+			"j'": "aurais entrepris",
+			"tu": "aurais entrepris",
+			"il/elle": "aurait entrepris",
+			"nous": "aurions entrepris",
+			"vous": "auriez entrepris",
+			"ils/elles": "auraient entrepris"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse entrepris",
+			"tu": "eusses entrepris",
+			"il/elle": "eût entrepris",
+			"nous": "eussions entrepris",
+			"vous": "eussiez entrepris",
+			"ils/elles": "eussent entrepris"
+		}
+	},
+	"participe": {
+		"présent": { "entreprenant": "" },
+		"passé composé": { "ayant": "entrepris" },
+		"passé": {
+			"masc.sg.:": "entrepris",
+			"masc.pl.:": "entrepris",
+			"fém.sg.:": "entreprise",
+			"fém.pl.:": "entreprises"
+		}
+	},
+	"imperatif": {
+		"présent": { "entreprends": "", "entreprenons": "", "entreprenez": "" },
+		"passé": { "aie": "entrepris", "ayons": "entrepris", "ayez": "entrepris" }
+	},
+	"infinitif": {
+		"présent": { "entreprendre": "" },
+		"passé": { "avoir": "entrepris" }
+	}
+}

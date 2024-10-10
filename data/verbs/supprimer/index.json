@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "delete; remove; suppress; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se supprimer/ne pas supprimer/ne pas se supprimer",
+	"indicatif": {
+		"présent": {
+			"je": "supprime",
+			"tu": "supprimes",
+			"il/elle": "supprime",
+			"nous": "supprimons",
+			"vous": "supprimez",
+			"ils/elles": "suppriment"
+		},
+		"imparfait": {
+			"je": "supprimais",
+			"tu": "supprimais",
+			"il/elle": "supprimait",
+			"nous": "supprimions",
+			"vous": "supprimiez",
+			"ils/elles": "supprimaient"
+		},
+		"futur": {
+			"je": "supprimerai",
+			"tu": "supprimeras",
+			"il/elle": "supprimera",
+			"nous": "supprimerons",
+			"vous": "supprimerez",
+			"ils/elles": "supprimeront"
+		},
+		"passé simple": {
+			"je": "supprimai",
+			"tu": "supprimas",
+			"il/elle": "supprima",
+			"nous": "supprimâmes",
+			"vous": "supprimâtes",
+			"ils/elles": "supprimèrent"
+		},
+		"passé composé": {
+			"j'": "ai supprimé",
+			"tu": "as supprimé",
+			"il/elle": "a supprimé",
+			"nous": "avons supprimé",
+			"vous": "avez supprimé",
+			"ils/elles": "ont supprimé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais supprimé",
+			"tu": "avais supprimé",
+			"il/elle": "avait supprimé",
+			"nous": "avions supprimé",
+			"vous": "aviez supprimé",
+			"ils/elles": "avaient supprimé"
+		},
+		"passé antérieur": {
+			"j'": "eus supprimé",
+			"tu": "eus supprimé",
+			"il/elle": "eut supprimé",
+			"nous": "eûmes supprimé",
+			"vous": "eûtes supprimé",
+			"ils/elles": "eurent supprimé"
+		},
+		"futur antérieur": {
+			"j'": "aurai supprimé",
+			"tu": "auras supprimé",
+			"il/elle": "aura supprimé",
+			"nous": "aurons supprimé",
+			"vous": "aurez supprimé",
+			"ils/elles": "auront supprimé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous supprimiez",
+			"qu'il/elle": "supprime",
+			"qu'ils/elles": "suppriment"
+		},
+		"imparfait": {
+			"que": "vous supprimassiez",
+			"qu'il/elle": "supprimât",
+			"qu'ils/elles": "supprimassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse supprimé",
+			"que": "vous eussiez supprimé",
+			"qu'il/elle": "eût supprimé",
+			"qu'ils/elles": "eussent supprimé"
+		},
+		"passé": {
+			"j'": "aie supprimé",
+			"que": "vous ayez supprimé",
+			"qu'il/elle": "ait supprimé",
+			"qu'ils/elles": "aient supprimé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "supprimerais",
+			"tu": "supprimerais",
+			"il/elle": "supprimerait",
+			"nous": "supprimerions",
+			"vous": "supprimeriez",
+			"ils/elles": "supprimeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais supprimé",
+			"tu": "aurais supprimé",
+			"il/elle": "aurait supprimé",
+			"nous": "aurions supprimé",
+			"vous": "auriez supprimé",
+			"ils/elles": "auraient supprimé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse supprimé",
+			"tu": "eusses supprimé",
+			"il/elle": "eût supprimé",
+			"nous": "eussions supprimé",
+			"vous": "eussiez supprimé",
+			"ils/elles": "eussent supprimé"
+		}
+	},
+	"participe": {
+		"présent": { "supprimant": "" },
+		"passé composé": { "ayant": "supprimé" },
+		"passé": {
+			"masc.sg.:": "supprimé",
+			"masc.pl.:": "supprimés",
+			"fém.sg.:": "supprimée",
+			"fém.pl.:": "supprimées"
+		}
+	},
+	"imperatif": {
+		"présent": { "supprime": "", "supprimons": "", "supprimez": "" },
+		"passé": { "aie": "supprimé", "ayons": "supprimé", "ayez": "supprimé" }
+	},
+	"infinitif": {
+		"présent": { "supprimer": "" },
+		"passé": { "avoir": "supprimé" }
+	}
+}

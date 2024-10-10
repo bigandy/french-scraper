@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "install; set up; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'installer/ne pas installer/ne pas s'installer",
+	"indicatif": {
+		"présent": {
+			"j'": "installe",
+			"tu": "installes",
+			"il/elle": "installe",
+			"nous": "installons",
+			"vous": "installez",
+			"ils/elles": "installent"
+		},
+		"imparfait": {
+			"j'": "installais",
+			"tu": "installais",
+			"il/elle": "installait",
+			"nous": "installions",
+			"vous": "installiez",
+			"ils/elles": "installaient"
+		},
+		"futur": {
+			"j'": "installerai",
+			"tu": "installeras",
+			"il/elle": "installera",
+			"nous": "installerons",
+			"vous": "installerez",
+			"ils/elles": "installeront"
+		},
+		"passé simple": {
+			"j'": "installai",
+			"tu": "installas",
+			"il/elle": "installa",
+			"nous": "installâmes",
+			"vous": "installâtes",
+			"ils/elles": "installèrent"
+		},
+		"passé composé": {
+			"j'": "ai installé",
+			"tu": "as installé",
+			"il/elle": "a installé",
+			"nous": "avons installé",
+			"vous": "avez installé",
+			"ils/elles": "ont installé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais installé",
+			"tu": "avais installé",
+			"il/elle": "avait installé",
+			"nous": "avions installé",
+			"vous": "aviez installé",
+			"ils/elles": "avaient installé"
+		},
+		"passé antérieur": {
+			"j'": "eus installé",
+			"tu": "eus installé",
+			"il/elle": "eut installé",
+			"nous": "eûmes installé",
+			"vous": "eûtes installé",
+			"ils/elles": "eurent installé"
+		},
+		"futur antérieur": {
+			"j'": "aurai installé",
+			"tu": "auras installé",
+			"il/elle": "aura installé",
+			"nous": "aurons installé",
+			"vous": "aurez installé",
+			"ils/elles": "auront installé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "installe",
+			"que": "vous installiez",
+			"qu'il/elle": "installe",
+			"qu'ils/elles": "installent"
+		},
+		"imparfait": {
+			"j'": "installasse",
+			"que": "vous installassiez",
+			"qu'il/elle": "installât",
+			"qu'ils/elles": "installassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse installé",
+			"que": "vous eussiez installé",
+			"qu'il/elle": "eût installé",
+			"qu'ils/elles": "eussent installé"
+		},
+		"passé": {
+			"j'": "aie installé",
+			"que": "vous ayez installé",
+			"qu'il/elle": "ait installé",
+			"qu'ils/elles": "aient installé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "installerais",
+			"tu": "installerais",
+			"il/elle": "installerait",
+			"nous": "installerions",
+			"vous": "installeriez",
+			"ils/elles": "installeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais installé",
+			"tu": "aurais installé",
+			"il/elle": "aurait installé",
+			"nous": "aurions installé",
+			"vous": "auriez installé",
+			"ils/elles": "auraient installé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse installé",
+			"tu": "eusses installé",
+			"il/elle": "eût installé",
+			"nous": "eussions installé",
+			"vous": "eussiez installé",
+			"ils/elles": "eussent installé"
+		}
+	},
+	"participe": {
+		"présent": { "installant": "" },
+		"passé composé": { "ayant": "installé" },
+		"passé": {
+			"masc.sg.:": "installé",
+			"masc.pl.:": "installés",
+			"fém.sg.:": "installée",
+			"fém.pl.:": "installées"
+		}
+	},
+	"imperatif": {
+		"présent": { "installe": "", "installons": "", "installez": "" },
+		"passé": { "aie": "installé", "ayons": "installé", "ayez": "installé" }
+	},
+	"infinitif": {
+		"présent": { "installer": "" },
+		"passé": { "avoir": "installé" }
+	}
+}

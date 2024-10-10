@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "review; reconsider; re-examine; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se réexaminer/ne pas réexaminer/ne pas se réexaminer",
+	"indicatif": {
+		"présent": {
+			"je": "réexamine",
+			"tu": "réexamines",
+			"il/elle": "réexamine",
+			"nous": "réexaminons",
+			"vous": "réexaminez",
+			"ils/elles": "réexaminent"
+		},
+		"imparfait": {
+			"je": "réexaminais",
+			"tu": "réexaminais",
+			"il/elle": "réexaminait",
+			"nous": "réexaminions",
+			"vous": "réexaminiez",
+			"ils/elles": "réexaminaient"
+		},
+		"futur": {
+			"je": "réexaminerai",
+			"tu": "réexamineras",
+			"il/elle": "réexaminera",
+			"nous": "réexaminerons",
+			"vous": "réexaminerez",
+			"ils/elles": "réexamineront"
+		},
+		"passé simple": {
+			"je": "réexaminai",
+			"tu": "réexaminas",
+			"il/elle": "réexamina",
+			"nous": "réexaminâmes",
+			"vous": "réexaminâtes",
+			"ils/elles": "réexaminèrent"
+		},
+		"passé composé": {
+			"j'": "ai réexaminé",
+			"tu": "as réexaminé",
+			"il/elle": "a réexaminé",
+			"nous": "avons réexaminé",
+			"vous": "avez réexaminé",
+			"ils/elles": "ont réexaminé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais réexaminé",
+			"tu": "avais réexaminé",
+			"il/elle": "avait réexaminé",
+			"nous": "avions réexaminé",
+			"vous": "aviez réexaminé",
+			"ils/elles": "avaient réexaminé"
+		},
+		"passé antérieur": {
+			"j'": "eus réexaminé",
+			"tu": "eus réexaminé",
+			"il/elle": "eut réexaminé",
+			"nous": "eûmes réexaminé",
+			"vous": "eûtes réexaminé",
+			"ils/elles": "eurent réexaminé"
+		},
+		"futur antérieur": {
+			"j'": "aurai réexaminé",
+			"tu": "auras réexaminé",
+			"il/elle": "aura réexaminé",
+			"nous": "aurons réexaminé",
+			"vous": "aurez réexaminé",
+			"ils/elles": "auront réexaminé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous réexaminiez",
+			"qu'il/elle": "réexamine",
+			"qu'ils/elles": "réexaminent"
+		},
+		"imparfait": {
+			"que": "vous réexaminassiez",
+			"qu'il/elle": "réexaminât",
+			"qu'ils/elles": "réexaminassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse réexaminé",
+			"que": "vous eussiez réexaminé",
+			"qu'il/elle": "eût réexaminé",
+			"qu'ils/elles": "eussent réexaminé"
+		},
+		"passé": {
+			"j'": "aie réexaminé",
+			"que": "vous ayez réexaminé",
+			"qu'il/elle": "ait réexaminé",
+			"qu'ils/elles": "aient réexaminé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "réexaminerais",
+			"tu": "réexaminerais",
+			"il/elle": "réexaminerait",
+			"nous": "réexaminerions",
+			"vous": "réexamineriez",
+			"ils/elles": "réexamineraient"
+		},
+		"passé première forme": {
+			"j'": "aurais réexaminé",
+			"tu": "aurais réexaminé",
+			"il/elle": "aurait réexaminé",
+			"nous": "aurions réexaminé",
+			"vous": "auriez réexaminé",
+			"ils/elles": "auraient réexaminé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse réexaminé",
+			"tu": "eusses réexaminé",
+			"il/elle": "eût réexaminé",
+			"nous": "eussions réexaminé",
+			"vous": "eussiez réexaminé",
+			"ils/elles": "eussent réexaminé"
+		}
+	},
+	"participe": {
+		"présent": { "réexaminant": "" },
+		"passé composé": { "ayant": "réexaminé" },
+		"passé": {
+			"masc.sg.:": "réexaminé",
+			"masc.pl.:": "réexaminés",
+			"fém.sg.:": "réexaminée",
+			"fém.pl.:": "réexaminées"
+		}
+	},
+	"imperatif": {
+		"présent": { "réexamine": "", "réexaminons": "", "réexaminez": "" },
+		"passé": { "aie": "réexaminé", "ayons": "réexaminé", "ayez": "réexaminé" }
+	},
+	"infinitif": {
+		"présent": { "réexaminer": "" },
+		"passé": { "avoir": "réexaminé" }
+	}
+}

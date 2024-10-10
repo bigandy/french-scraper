@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "define; delimit; delineate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se délimiter/ne pas délimiter/ne pas se délimiter",
+	"indicatif": {
+		"présent": {
+			"je": "délimite",
+			"tu": "délimites",
+			"il/elle": "délimite",
+			"nous": "délimitons",
+			"vous": "délimitez",
+			"ils/elles": "délimitent"
+		},
+		"imparfait": {
+			"je": "délimitais",
+			"tu": "délimitais",
+			"il/elle": "délimitait",
+			"nous": "délimitions",
+			"vous": "délimitiez",
+			"ils/elles": "délimitaient"
+		},
+		"futur": {
+			"je": "délimiterai",
+			"tu": "délimiteras",
+			"il/elle": "délimitera",
+			"nous": "délimiterons",
+			"vous": "délimiterez",
+			"ils/elles": "délimiteront"
+		},
+		"passé simple": {
+			"je": "délimitai",
+			"tu": "délimitas",
+			"il/elle": "délimita",
+			"nous": "délimitâmes",
+			"vous": "délimitâtes",
+			"ils/elles": "délimitèrent"
+		},
+		"passé composé": {
+			"j'": "ai délimité",
+			"tu": "as délimité",
+			"il/elle": "a délimité",
+			"nous": "avons délimité",
+			"vous": "avez délimité",
+			"ils/elles": "ont délimité"
+		},
+		"plus-que-parfait": {
+			"j'": "avais délimité",
+			"tu": "avais délimité",
+			"il/elle": "avait délimité",
+			"nous": "avions délimité",
+			"vous": "aviez délimité",
+			"ils/elles": "avaient délimité"
+		},
+		"passé antérieur": {
+			"j'": "eus délimité",
+			"tu": "eus délimité",
+			"il/elle": "eut délimité",
+			"nous": "eûmes délimité",
+			"vous": "eûtes délimité",
+			"ils/elles": "eurent délimité"
+		},
+		"futur antérieur": {
+			"j'": "aurai délimité",
+			"tu": "auras délimité",
+			"il/elle": "aura délimité",
+			"nous": "aurons délimité",
+			"vous": "aurez délimité",
+			"ils/elles": "auront délimité"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous délimitiez",
+			"qu'il/elle": "délimite",
+			"qu'ils/elles": "délimitent"
+		},
+		"imparfait": {
+			"que": "vous délimitassiez",
+			"qu'il/elle": "délimitât",
+			"qu'ils/elles": "délimitassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse délimité",
+			"que": "vous eussiez délimité",
+			"qu'il/elle": "eût délimité",
+			"qu'ils/elles": "eussent délimité"
+		},
+		"passé": {
+			"j'": "aie délimité",
+			"que": "vous ayez délimité",
+			"qu'il/elle": "ait délimité",
+			"qu'ils/elles": "aient délimité"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "délimiterais",
+			"tu": "délimiterais",
+			"il/elle": "délimiterait",
+			"nous": "délimiterions",
+			"vous": "délimiteriez",
+			"ils/elles": "délimiteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais délimité",
+			"tu": "aurais délimité",
+			"il/elle": "aurait délimité",
+			"nous": "aurions délimité",
+			"vous": "auriez délimité",
+			"ils/elles": "auraient délimité"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse délimité",
+			"tu": "eusses délimité",
+			"il/elle": "eût délimité",
+			"nous": "eussions délimité",
+			"vous": "eussiez délimité",
+			"ils/elles": "eussent délimité"
+		}
+	},
+	"participe": {
+		"présent": { "délimitant": "" },
+		"passé composé": { "ayant": "délimité" },
+		"passé": {
+			"masc.sg.:": "délimité",
+			"masc.pl.:": "délimités",
+			"fém.sg.:": "délimitée",
+			"fém.pl.:": "délimitées"
+		}
+	},
+	"imperatif": {
+		"présent": { "délimite": "", "délimitons": "", "délimitez": "" },
+		"passé": { "aie": "délimité", "ayons": "délimité", "ayez": "délimité" }
+	},
+	"infinitif": {
+		"présent": { "délimiter": "" },
+		"passé": { "avoir": "délimité" }
+	}
+}

@@ -1,0 +1,138 @@
+{
+	"name": "aérer",
+	"definition": "release; free; liberate; ...",
+	"model": "aérer",
+	"auxiliary": "avoir",
+	"otherForms": "se libérer/ne pas libérer/ne pas se libérer",
+	"indicatif": {
+		"présent": {
+			"je": "libère",
+			"tu": "libères",
+			"il/elle": "libère",
+			"nous": "libérons",
+			"vous": "libérez",
+			"ils/elles": "libèrent"
+		},
+		"imparfait": {
+			"je": "libérais",
+			"tu": "libérais",
+			"il/elle": "libérait",
+			"nous": "libérions",
+			"vous": "libériez",
+			"ils/elles": "libéraient"
+		},
+		"futur": {
+			"je": "libérerai",
+			"tu": "libéreras",
+			"il/elle": "libérera",
+			"nous": "libérerons",
+			"vous": "libérerez",
+			"ils/elles": "libéreront"
+		},
+		"passé simple": {
+			"je": "libérai",
+			"tu": "libéras",
+			"il/elle": "libéra",
+			"nous": "libérâmes",
+			"vous": "libérâtes",
+			"ils/elles": "libérèrent"
+		},
+		"passé composé": {
+			"j'": "ai libéré",
+			"tu": "as libéré",
+			"il/elle": "a libéré",
+			"nous": "avons libéré",
+			"vous": "avez libéré",
+			"ils/elles": "ont libéré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais libéré",
+			"tu": "avais libéré",
+			"il/elle": "avait libéré",
+			"nous": "avions libéré",
+			"vous": "aviez libéré",
+			"ils/elles": "avaient libéré"
+		},
+		"passé antérieur": {
+			"j'": "eus libéré",
+			"tu": "eus libéré",
+			"il/elle": "eut libéré",
+			"nous": "eûmes libéré",
+			"vous": "eûtes libéré",
+			"ils/elles": "eurent libéré"
+		},
+		"futur antérieur": {
+			"j'": "aurai libéré",
+			"tu": "auras libéré",
+			"il/elle": "aura libéré",
+			"nous": "aurons libéré",
+			"vous": "aurez libéré",
+			"ils/elles": "auront libéré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous libériez",
+			"qu'il/elle": "libère",
+			"qu'ils/elles": "libèrent"
+		},
+		"imparfait": {
+			"que": "vous libérassiez",
+			"qu'il/elle": "libérât",
+			"qu'ils/elles": "libérassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse libéré",
+			"que": "vous eussiez libéré",
+			"qu'il/elle": "eût libéré",
+			"qu'ils/elles": "eussent libéré"
+		},
+		"passé": {
+			"j'": "aie libéré",
+			"que": "vous ayez libéré",
+			"qu'il/elle": "ait libéré",
+			"qu'ils/elles": "aient libéré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "libérerais",
+			"tu": "libérerais",
+			"il/elle": "libérerait",
+			"nous": "libérerions",
+			"vous": "libéreriez",
+			"ils/elles": "libéreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais libéré",
+			"tu": "aurais libéré",
+			"il/elle": "aurait libéré",
+			"nous": "aurions libéré",
+			"vous": "auriez libéré",
+			"ils/elles": "auraient libéré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse libéré",
+			"tu": "eusses libéré",
+			"il/elle": "eût libéré",
+			"nous": "eussions libéré",
+			"vous": "eussiez libéré",
+			"ils/elles": "eussent libéré"
+		}
+	},
+	"participe": {
+		"présent": { "libérant": "" },
+		"passé composé": { "ayant": "libéré" },
+		"passé": {
+			"masc.sg.:": "libéré",
+			"masc.pl.:": "libérés",
+			"fém.sg.:": "libérée",
+			"fém.pl.:": "libérées"
+		}
+	},
+	"imperatif": {
+		"présent": { "libère": "", "libérons": "", "libérez": "" },
+		"passé": { "aie": "libéré", "ayons": "libéré", "ayez": "libéré" }
+	},
+	"infinitif": { "présent": { "libérer": "" }, "passé": { "avoir": "libéré" } }
+}

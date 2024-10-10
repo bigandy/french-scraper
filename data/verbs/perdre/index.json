@@ -1,0 +1,138 @@
+{
+	"name": "attendre",
+	"definition": "lose; waste; ...",
+	"model": "attendre",
+	"auxiliary": "avoir",
+	"otherForms": "se perdre/ne pas perdre/ne pas se perdre",
+	"indicatif": {
+		"présent": {
+			"je": "perds",
+			"tu": "perds",
+			"il/elle": "perd",
+			"nous": "perdons",
+			"vous": "perdez",
+			"ils/elles": "perdent"
+		},
+		"imparfait": {
+			"je": "perdais",
+			"tu": "perdais",
+			"il/elle": "perdait",
+			"nous": "perdions",
+			"vous": "perdiez",
+			"ils/elles": "perdaient"
+		},
+		"futur": {
+			"je": "perdrai",
+			"tu": "perdras",
+			"il/elle": "perdra",
+			"nous": "perdrons",
+			"vous": "perdrez",
+			"ils/elles": "perdront"
+		},
+		"passé simple": {
+			"je": "perdis",
+			"tu": "perdis",
+			"il/elle": "perdit",
+			"nous": "perdîmes",
+			"vous": "perdîtes",
+			"ils/elles": "perdirent"
+		},
+		"passé composé": {
+			"j'": "ai perdu",
+			"tu": "as perdu",
+			"il/elle": "a perdu",
+			"nous": "avons perdu",
+			"vous": "avez perdu",
+			"ils/elles": "ont perdu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais perdu",
+			"tu": "avais perdu",
+			"il/elle": "avait perdu",
+			"nous": "avions perdu",
+			"vous": "aviez perdu",
+			"ils/elles": "avaient perdu"
+		},
+		"passé antérieur": {
+			"j'": "eus perdu",
+			"tu": "eus perdu",
+			"il/elle": "eut perdu",
+			"nous": "eûmes perdu",
+			"vous": "eûtes perdu",
+			"ils/elles": "eurent perdu"
+		},
+		"futur antérieur": {
+			"j'": "aurai perdu",
+			"tu": "auras perdu",
+			"il/elle": "aura perdu",
+			"nous": "aurons perdu",
+			"vous": "aurez perdu",
+			"ils/elles": "auront perdu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous perdiez",
+			"qu'il/elle": "perde",
+			"qu'ils/elles": "perdent"
+		},
+		"imparfait": {
+			"que": "vous perdissiez",
+			"qu'il/elle": "perdît",
+			"qu'ils/elles": "perdissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse perdu",
+			"que": "vous eussiez perdu",
+			"qu'il/elle": "eût perdu",
+			"qu'ils/elles": "eussent perdu"
+		},
+		"passé": {
+			"j'": "aie perdu",
+			"que": "vous ayez perdu",
+			"qu'il/elle": "ait perdu",
+			"qu'ils/elles": "aient perdu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "perdrais",
+			"tu": "perdrais",
+			"il/elle": "perdrait",
+			"nous": "perdrions",
+			"vous": "perdriez",
+			"ils/elles": "perdraient"
+		},
+		"passé première forme": {
+			"j'": "aurais perdu",
+			"tu": "aurais perdu",
+			"il/elle": "aurait perdu",
+			"nous": "aurions perdu",
+			"vous": "auriez perdu",
+			"ils/elles": "auraient perdu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse perdu",
+			"tu": "eusses perdu",
+			"il/elle": "eût perdu",
+			"nous": "eussions perdu",
+			"vous": "eussiez perdu",
+			"ils/elles": "eussent perdu"
+		}
+	},
+	"participe": {
+		"présent": { "perdant": "" },
+		"passé composé": { "ayant": "perdu" },
+		"passé": {
+			"masc.sg.:": "perdu",
+			"masc.pl.:": "perdus",
+			"fém.sg.:": "perdue",
+			"fém.pl.:": "perdues"
+		}
+	},
+	"imperatif": {
+		"présent": { "perds": "", "perdons": "", "perdez": "" },
+		"passé": { "aie": "perdu", "ayons": "perdu", "ayez": "perdu" }
+	},
+	"infinitif": { "présent": { "perdre": "" }, "passé": { "avoir": "perdu" } }
+}

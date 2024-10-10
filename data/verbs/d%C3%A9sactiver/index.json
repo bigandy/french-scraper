@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "deactivate; turn off; de-activate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se désactiver/ne pas désactiver/ne pas se désactiver",
+	"indicatif": {
+		"présent": {
+			"je": "désactive",
+			"tu": "désactives",
+			"il/elle": "désactive",
+			"nous": "désactivons",
+			"vous": "désactivez",
+			"ils/elles": "désactivent"
+		},
+		"imparfait": {
+			"je": "désactivais",
+			"tu": "désactivais",
+			"il/elle": "désactivait",
+			"nous": "désactivions",
+			"vous": "désactiviez",
+			"ils/elles": "désactivaient"
+		},
+		"futur": {
+			"je": "désactiverai",
+			"tu": "désactiveras",
+			"il/elle": "désactivera",
+			"nous": "désactiverons",
+			"vous": "désactiverez",
+			"ils/elles": "désactiveront"
+		},
+		"passé simple": {
+			"je": "désactivai",
+			"tu": "désactivas",
+			"il/elle": "désactiva",
+			"nous": "désactivâmes",
+			"vous": "désactivâtes",
+			"ils/elles": "désactivèrent"
+		},
+		"passé composé": {
+			"j'": "ai désactivé",
+			"tu": "as désactivé",
+			"il/elle": "a désactivé",
+			"nous": "avons désactivé",
+			"vous": "avez désactivé",
+			"ils/elles": "ont désactivé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais désactivé",
+			"tu": "avais désactivé",
+			"il/elle": "avait désactivé",
+			"nous": "avions désactivé",
+			"vous": "aviez désactivé",
+			"ils/elles": "avaient désactivé"
+		},
+		"passé antérieur": {
+			"j'": "eus désactivé",
+			"tu": "eus désactivé",
+			"il/elle": "eut désactivé",
+			"nous": "eûmes désactivé",
+			"vous": "eûtes désactivé",
+			"ils/elles": "eurent désactivé"
+		},
+		"futur antérieur": {
+			"j'": "aurai désactivé",
+			"tu": "auras désactivé",
+			"il/elle": "aura désactivé",
+			"nous": "aurons désactivé",
+			"vous": "aurez désactivé",
+			"ils/elles": "auront désactivé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous désactiviez",
+			"qu'il/elle": "désactive",
+			"qu'ils/elles": "désactivent"
+		},
+		"imparfait": {
+			"que": "vous désactivassiez",
+			"qu'il/elle": "désactivât",
+			"qu'ils/elles": "désactivassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse désactivé",
+			"que": "vous eussiez désactivé",
+			"qu'il/elle": "eût désactivé",
+			"qu'ils/elles": "eussent désactivé"
+		},
+		"passé": {
+			"j'": "aie désactivé",
+			"que": "vous ayez désactivé",
+			"qu'il/elle": "ait désactivé",
+			"qu'ils/elles": "aient désactivé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "désactiverais",
+			"tu": "désactiverais",
+			"il/elle": "désactiverait",
+			"nous": "désactiverions",
+			"vous": "désactiveriez",
+			"ils/elles": "désactiveraient"
+		},
+		"passé première forme": {
+			"j'": "aurais désactivé",
+			"tu": "aurais désactivé",
+			"il/elle": "aurait désactivé",
+			"nous": "aurions désactivé",
+			"vous": "auriez désactivé",
+			"ils/elles": "auraient désactivé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse désactivé",
+			"tu": "eusses désactivé",
+			"il/elle": "eût désactivé",
+			"nous": "eussions désactivé",
+			"vous": "eussiez désactivé",
+			"ils/elles": "eussent désactivé"
+		}
+	},
+	"participe": {
+		"présent": { "désactivant": "" },
+		"passé composé": { "ayant": "désactivé" },
+		"passé": {
+			"masc.sg.:": "désactivé",
+			"masc.pl.:": "désactivés",
+			"fém.sg.:": "désactivée",
+			"fém.pl.:": "désactivées"
+		}
+	},
+	"imperatif": {
+		"présent": { "désactive": "", "désactivons": "", "désactivez": "" },
+		"passé": { "aie": "désactivé", "ayons": "désactivé", "ayez": "désactivé" }
+	},
+	"infinitif": {
+		"présent": { "désactiver": "" },
+		"passé": { "avoir": "désactivé" }
+	}
+}

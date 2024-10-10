@@ -1,0 +1,196 @@
+{
+	"name": "marcher",
+	"definition": "escape; avoid; evade; ...",
+	"model": "marcher",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "s'échapper/ne pas échapper/ne pas s'échapper",
+	"indicatif": {
+		"présent": {
+			"j'": "échappe",
+			"tu": "échappes",
+			"il/elle": "échappe",
+			"nous": "échappons",
+			"vous": "échappez",
+			"ils/elles": "échappent"
+		},
+		"imparfait": {
+			"j'": "échappais",
+			"tu": "échappais",
+			"il/elle": "échappait",
+			"nous": "échappions",
+			"vous": "échappiez",
+			"ils/elles": "échappaient"
+		},
+		"futur": {
+			"j'": "échapperai",
+			"tu": "échapperas",
+			"il/elle": "échappera",
+			"nous": "échapperons",
+			"vous": "échapperez",
+			"ils/elles": "échapperont"
+		},
+		"passé simple": {
+			"j'": "échappai",
+			"tu": "échappas",
+			"il/elle": "échappa",
+			"nous": "échappâmes",
+			"vous": "échappâtes",
+			"ils/elles": "échappèrent"
+		},
+		"passé composé": {
+			"j'": "ai échappé",
+			"tu": "es échappé",
+			"il/elle": "a échappé",
+			"nous": "sommes échappés",
+			"vous": "êtes échappés",
+			"ils/elles": "ont échappé",
+			"": "",
+			"je": "suis échappé",
+			"il": "est échappé",
+			"elle": "est échappée",
+			"ils": "sont échappés",
+			"elles": "sont échappées"
+		},
+		"plus-que-parfait": {
+			"j'": "étais échappé",
+			"tu": "étais échappé",
+			"il/elle": "avait échappé",
+			"nous": "étions échappés",
+			"vous": "étiez échappés",
+			"ils/elles": "avaient échappé",
+			"": "",
+			"il": "était échappé",
+			"elle": "était échappée",
+			"ils": "étaient échappés",
+			"elles": "étaient échappées"
+		},
+		"passé antérieur": {
+			"j'": "eus échappé",
+			"tu": "fus échappé",
+			"il/elle": "eut échappé",
+			"nous": "fûmes échappés",
+			"vous": "fûtes échappés",
+			"ils/elles": "eurent échappé",
+			"": "",
+			"je": "fus échappé",
+			"il": "fut échappé",
+			"elle": "fut échappée",
+			"ils": "furent échappés",
+			"elles": "furent échappées"
+		},
+		"futur antérieur": {
+			"j'": "aurai échappé",
+			"tu": "seras échappé",
+			"il/elle": "aura échappé",
+			"nous": "serons échappés",
+			"vous": "serez échappés",
+			"ils/elles": "auront échappé",
+			"": "",
+			"je": "serai échappé",
+			"il": "sera échappé",
+			"elle": "sera échappée",
+			"ils": "seront échappés",
+			"elles": "seront échappées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "échappe",
+			"que": "vous échappiez",
+			"qu'il/elle": "échappe",
+			"qu'ils/elles": "échappent"
+		},
+		"imparfait": {
+			"j'": "échappasse",
+			"que": "vous échappassiez",
+			"qu'il/elle": "échappât",
+			"qu'ils/elles": "échappassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse échappé",
+			"que": "vous fussiez échappés",
+			"qu'il/elle": "eût échappé",
+			"qu'ils/elles": "eussent échappé",
+			"": "",
+			"qu'il": "fût échappé",
+			"qu'elle": "fût échappée",
+			"qu'ils": "fussent échappés",
+			"qu'elles": "fussent échappées"
+		},
+		"passé": {
+			"j'": "aie échappé",
+			"que": "vous soyez échappés",
+			"qu'il/elle": "ait échappé",
+			"qu'ils/elles": "aient échappé",
+			"": "",
+			"qu'il": "soit échappé",
+			"qu'elle": "soit échappée",
+			"qu'ils": "soient échappés",
+			"qu'elles": "soient échappées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "échapperais",
+			"tu": "échapperais",
+			"il/elle": "échapperait",
+			"nous": "échapperions",
+			"vous": "échapperiez",
+			"ils/elles": "échapperaient"
+		},
+		"passé première forme": {
+			"j'": "aurais échappé",
+			"tu": "serais échappé",
+			"il/elle": "aurait échappé",
+			"nous": "serions échappés",
+			"vous": "seriez échappés",
+			"ils/elles": "auraient échappé",
+			"": "",
+			"je": "serais échappé",
+			"il": "serait échappé",
+			"elle": "serait échappée",
+			"ils": "seraient échappés",
+			"elles": "seraient échappées"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse échappé",
+			"tu": "fusses échappé",
+			"il/elle": "eût échappé",
+			"nous": "fussions échappés",
+			"vous": "fussiez échappés",
+			"ils/elles": "eussent échappé",
+			"": "",
+			"je": "fusse échappé",
+			"il": "fût échappé",
+			"elle": "fût échappée",
+			"ils": "fussent échappés",
+			"elles": "fussent échappées"
+		}
+	},
+	"participe": {
+		"présent": { "échappant": "" },
+		"passé composé": { "ayant": "échappé", "": "", "étant": "échappée" },
+		"passé": {
+			"masc.sg.:": "échappé",
+			"masc.pl.:": "échappés",
+			"fém.sg.:": "échappée",
+			"fém.pl.:": "échappées"
+		}
+	},
+	"imperatif": {
+		"présent": { "échappe": "", "échappons": "", "échappez": "" },
+		"passé": {
+			"aie": "échappé",
+			"ayons": "échappé",
+			"ayez": "échappé",
+			"": "",
+			"sois": "échappé",
+			"soyons": "échappé",
+			"soyez": "échappé"
+		}
+	},
+	"infinitif": {
+		"présent": { "échapper": "" },
+		"passé": { "avoir": "échappé", "": "", "être": "échappé" }
+	}
+}

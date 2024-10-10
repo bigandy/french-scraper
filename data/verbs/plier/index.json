@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "fold; bend; comply; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se plier/ne pas plier/ne pas se plier",
+	"indicatif": {
+		"présent": {
+			"je": "plie",
+			"tu": "plies",
+			"il/elle": "plie",
+			"nous": "plions",
+			"vous": "pliez",
+			"ils/elles": "plient"
+		},
+		"imparfait": {
+			"je": "pliais",
+			"tu": "pliais",
+			"il/elle": "pliait",
+			"nous": "pliions",
+			"vous": "pliiez",
+			"ils/elles": "pliaient"
+		},
+		"futur": {
+			"je": "plierai",
+			"tu": "plieras",
+			"il/elle": "pliera",
+			"nous": "plierons",
+			"vous": "plierez",
+			"ils/elles": "plieront"
+		},
+		"passé simple": {
+			"je": "pliai",
+			"tu": "plias",
+			"il/elle": "plia",
+			"nous": "pliâmes",
+			"vous": "pliâtes",
+			"ils/elles": "plièrent"
+		},
+		"passé composé": {
+			"j'": "ai plié",
+			"tu": "as plié",
+			"il/elle": "a plié",
+			"nous": "avons plié",
+			"vous": "avez plié",
+			"ils/elles": "ont plié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais plié",
+			"tu": "avais plié",
+			"il/elle": "avait plié",
+			"nous": "avions plié",
+			"vous": "aviez plié",
+			"ils/elles": "avaient plié"
+		},
+		"passé antérieur": {
+			"j'": "eus plié",
+			"tu": "eus plié",
+			"il/elle": "eut plié",
+			"nous": "eûmes plié",
+			"vous": "eûtes plié",
+			"ils/elles": "eurent plié"
+		},
+		"futur antérieur": {
+			"j'": "aurai plié",
+			"tu": "auras plié",
+			"il/elle": "aura plié",
+			"nous": "aurons plié",
+			"vous": "aurez plié",
+			"ils/elles": "auront plié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous pliiez",
+			"qu'il/elle": "plie",
+			"qu'ils/elles": "plient"
+		},
+		"imparfait": {
+			"que": "vous pliassiez",
+			"qu'il/elle": "pliât",
+			"qu'ils/elles": "pliassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse plié",
+			"que": "vous eussiez plié",
+			"qu'il/elle": "eût plié",
+			"qu'ils/elles": "eussent plié"
+		},
+		"passé": {
+			"j'": "aie plié",
+			"que": "vous ayez plié",
+			"qu'il/elle": "ait plié",
+			"qu'ils/elles": "aient plié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "plierais",
+			"tu": "plierais",
+			"il/elle": "plierait",
+			"nous": "plierions",
+			"vous": "plieriez",
+			"ils/elles": "plieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais plié",
+			"tu": "aurais plié",
+			"il/elle": "aurait plié",
+			"nous": "aurions plié",
+			"vous": "auriez plié",
+			"ils/elles": "auraient plié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse plié",
+			"tu": "eusses plié",
+			"il/elle": "eût plié",
+			"nous": "eussions plié",
+			"vous": "eussiez plié",
+			"ils/elles": "eussent plié"
+		}
+	},
+	"participe": {
+		"présent": { "pliant": "" },
+		"passé composé": { "ayant": "plié" },
+		"passé": {
+			"masc.sg.:": "plié",
+			"masc.pl.:": "pliés",
+			"fém.sg.:": "pliée",
+			"fém.pl.:": "pliées"
+		}
+	},
+	"imperatif": {
+		"présent": { "plie": "", "plions": "", "pliez": "" },
+		"passé": { "aie": "plié", "ayons": "plié", "ayez": "plié" }
+	},
+	"infinitif": { "présent": { "plier": "" }, "passé": { "avoir": "plié" } }
+}

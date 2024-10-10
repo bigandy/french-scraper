@@ -1,0 +1,147 @@
+{
+	"name": "marcher",
+	"definition": "incapacitate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'incapaciter/ne pas incapaciter/ne pas s'incapaciter",
+	"indicatif": {
+		"présent": {
+			"j'": "incapacite",
+			"tu": "incapacites",
+			"il/elle": "incapacite",
+			"nous": "incapacitons",
+			"vous": "incapacitez",
+			"ils/elles": "incapacitent"
+		},
+		"imparfait": {
+			"j'": "incapacitais",
+			"tu": "incapacitais",
+			"il/elle": "incapacitait",
+			"nous": "incapacitions",
+			"vous": "incapacitiez",
+			"ils/elles": "incapacitaient"
+		},
+		"futur": {
+			"j'": "incapaciterai",
+			"tu": "incapaciteras",
+			"il/elle": "incapacitera",
+			"nous": "incapaciterons",
+			"vous": "incapaciterez",
+			"ils/elles": "incapaciteront"
+		},
+		"passé simple": {
+			"j'": "incapacitai",
+			"tu": "incapacitas",
+			"il/elle": "incapacita",
+			"nous": "incapacitâmes",
+			"vous": "incapacitâtes",
+			"ils/elles": "incapacitèrent"
+		},
+		"passé composé": {
+			"j'": "ai incapacité",
+			"tu": "as incapacité",
+			"il/elle": "a incapacité",
+			"nous": "avons incapacité",
+			"vous": "avez incapacité",
+			"ils/elles": "ont incapacité"
+		},
+		"plus-que-parfait": {
+			"j'": "avais incapacité",
+			"tu": "avais incapacité",
+			"il/elle": "avait incapacité",
+			"nous": "avions incapacité",
+			"vous": "aviez incapacité",
+			"ils/elles": "avaient incapacité"
+		},
+		"passé antérieur": {
+			"j'": "eus incapacité",
+			"tu": "eus incapacité",
+			"il/elle": "eut incapacité",
+			"nous": "eûmes incapacité",
+			"vous": "eûtes incapacité",
+			"ils/elles": "eurent incapacité"
+		},
+		"futur antérieur": {
+			"j'": "aurai incapacité",
+			"tu": "auras incapacité",
+			"il/elle": "aura incapacité",
+			"nous": "aurons incapacité",
+			"vous": "aurez incapacité",
+			"ils/elles": "auront incapacité"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "incapacite",
+			"que": "vous incapacitiez",
+			"qu'il/elle": "incapacite",
+			"qu'ils/elles": "incapacitent"
+		},
+		"imparfait": {
+			"j'": "incapacitasse",
+			"que": "vous incapacitassiez",
+			"qu'il/elle": "incapacitât",
+			"qu'ils/elles": "incapacitassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse incapacité",
+			"que": "vous eussiez incapacité",
+			"qu'il/elle": "eût incapacité",
+			"qu'ils/elles": "eussent incapacité"
+		},
+		"passé": {
+			"j'": "aie incapacité",
+			"que": "vous ayez incapacité",
+			"qu'il/elle": "ait incapacité",
+			"qu'ils/elles": "aient incapacité"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "incapaciterais",
+			"tu": "incapaciterais",
+			"il/elle": "incapaciterait",
+			"nous": "incapaciterions",
+			"vous": "incapaciteriez",
+			"ils/elles": "incapaciteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais incapacité",
+			"tu": "aurais incapacité",
+			"il/elle": "aurait incapacité",
+			"nous": "aurions incapacité",
+			"vous": "auriez incapacité",
+			"ils/elles": "auraient incapacité"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse incapacité",
+			"tu": "eusses incapacité",
+			"il/elle": "eût incapacité",
+			"nous": "eussions incapacité",
+			"vous": "eussiez incapacité",
+			"ils/elles": "eussent incapacité"
+		}
+	},
+	"participe": {
+		"présent": { "incapacitant": "" },
+		"passé composé": { "ayant": "incapacité" },
+		"passé": {
+			"masc.sg.:": "incapacité",
+			"masc.pl.:": "incapacités",
+			"fém.sg.:": "incapacitée",
+			"fém.pl.:": "incapacitées"
+		}
+	},
+	"imperatif": {
+		"présent": { "incapacite": "", "incapacitons": "", "incapacitez": "" },
+		"passé": {
+			"aie": "incapacité",
+			"ayons": "incapacité",
+			"ayez": "incapacité"
+		}
+	},
+	"infinitif": {
+		"présent": { "incapaciter": "" },
+		"passé": { "avoir": "incapacité" }
+	}
+}

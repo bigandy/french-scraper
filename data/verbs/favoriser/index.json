@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "promote; foster; encourage; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se favoriser/ne pas favoriser/ne pas se favoriser",
+	"indicatif": {
+		"présent": {
+			"je": "favorise",
+			"tu": "favorises",
+			"il/elle": "favorise",
+			"nous": "favorisons",
+			"vous": "favorisez",
+			"ils/elles": "favorisent"
+		},
+		"imparfait": {
+			"je": "favorisais",
+			"tu": "favorisais",
+			"il/elle": "favorisait",
+			"nous": "favorisions",
+			"vous": "favorisiez",
+			"ils/elles": "favorisaient"
+		},
+		"futur": {
+			"je": "favoriserai",
+			"tu": "favoriseras",
+			"il/elle": "favorisera",
+			"nous": "favoriserons",
+			"vous": "favoriserez",
+			"ils/elles": "favoriseront"
+		},
+		"passé simple": {
+			"je": "favorisai",
+			"tu": "favorisas",
+			"il/elle": "favorisa",
+			"nous": "favorisâmes",
+			"vous": "favorisâtes",
+			"ils/elles": "favorisèrent"
+		},
+		"passé composé": {
+			"j'": "ai favorisé",
+			"tu": "as favorisé",
+			"il/elle": "a favorisé",
+			"nous": "avons favorisé",
+			"vous": "avez favorisé",
+			"ils/elles": "ont favorisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais favorisé",
+			"tu": "avais favorisé",
+			"il/elle": "avait favorisé",
+			"nous": "avions favorisé",
+			"vous": "aviez favorisé",
+			"ils/elles": "avaient favorisé"
+		},
+		"passé antérieur": {
+			"j'": "eus favorisé",
+			"tu": "eus favorisé",
+			"il/elle": "eut favorisé",
+			"nous": "eûmes favorisé",
+			"vous": "eûtes favorisé",
+			"ils/elles": "eurent favorisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai favorisé",
+			"tu": "auras favorisé",
+			"il/elle": "aura favorisé",
+			"nous": "aurons favorisé",
+			"vous": "aurez favorisé",
+			"ils/elles": "auront favorisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous favorisiez",
+			"qu'il/elle": "favorise",
+			"qu'ils/elles": "favorisent"
+		},
+		"imparfait": {
+			"que": "vous favorisassiez",
+			"qu'il/elle": "favorisât",
+			"qu'ils/elles": "favorisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse favorisé",
+			"que": "vous eussiez favorisé",
+			"qu'il/elle": "eût favorisé",
+			"qu'ils/elles": "eussent favorisé"
+		},
+		"passé": {
+			"j'": "aie favorisé",
+			"que": "vous ayez favorisé",
+			"qu'il/elle": "ait favorisé",
+			"qu'ils/elles": "aient favorisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "favoriserais",
+			"tu": "favoriserais",
+			"il/elle": "favoriserait",
+			"nous": "favoriserions",
+			"vous": "favoriseriez",
+			"ils/elles": "favoriseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais favorisé",
+			"tu": "aurais favorisé",
+			"il/elle": "aurait favorisé",
+			"nous": "aurions favorisé",
+			"vous": "auriez favorisé",
+			"ils/elles": "auraient favorisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse favorisé",
+			"tu": "eusses favorisé",
+			"il/elle": "eût favorisé",
+			"nous": "eussions favorisé",
+			"vous": "eussiez favorisé",
+			"ils/elles": "eussent favorisé"
+		}
+	},
+	"participe": {
+		"présent": { "favorisant": "" },
+		"passé composé": { "ayant": "favorisé" },
+		"passé": {
+			"masc.sg.:": "favorisé",
+			"masc.pl.:": "favorisés",
+			"fém.sg.:": "favorisée",
+			"fém.pl.:": "favorisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "favorise": "", "favorisons": "", "favorisez": "" },
+		"passé": { "aie": "favorisé", "ayons": "favorisé", "ayez": "favorisé" }
+	},
+	"infinitif": {
+		"présent": { "favoriser": "" },
+		"passé": { "avoir": "favorisé" }
+	}
+}

@@ -1,0 +1,152 @@
+{
+	"name": "tenir",
+	"definition": "come back; return; go back; ...",
+	"model": "tenir",
+	"auxiliary": "être",
+	"otherForms": "ne pas revenir",
+	"indicatif": {
+		"présent": {
+			"je": "reviens",
+			"tu": "reviens",
+			"il/elle": "revient",
+			"nous": "revenons",
+			"vous": "revenez",
+			"ils/elles": "reviennent"
+		},
+		"imparfait": {
+			"je": "revenais",
+			"tu": "revenais",
+			"il/elle": "revenait",
+			"nous": "revenions",
+			"vous": "reveniez",
+			"ils/elles": "revenaient"
+		},
+		"futur": {
+			"je": "reviendrai",
+			"tu": "reviendras",
+			"il/elle": "reviendra",
+			"nous": "reviendrons",
+			"vous": "reviendrez",
+			"ils/elles": "reviendront"
+		},
+		"passé simple": {
+			"je": "revins",
+			"tu": "revins",
+			"il/elle": "revint",
+			"nous": "revînmes",
+			"vous": "revîntes",
+			"ils/elles": "revinrent"
+		},
+		"passé composé": {
+			"je": "suis revenu",
+			"tu": "es revenu",
+			"il": "est revenu",
+			"elle": "est revenue",
+			"nous": "sommes revenus",
+			"vous": "êtes revenus",
+			"ils": "sont revenus",
+			"elles": "sont revenues"
+		},
+		"plus-que-parfait": {
+			"j'": "étais revenu",
+			"tu": "étais revenu",
+			"il": "était revenu",
+			"elle": "était revenue",
+			"nous": "étions revenus",
+			"vous": "étiez revenus",
+			"ils": "étaient revenus",
+			"elles": "étaient revenues"
+		},
+		"passé antérieur": {
+			"je": "fus revenu",
+			"tu": "fus revenu",
+			"il": "fut revenu",
+			"elle": "fut revenue",
+			"nous": "fûmes revenus",
+			"vous": "fûtes revenus",
+			"ils": "furent revenus",
+			"elles": "furent revenues"
+		},
+		"futur antérieur": {
+			"je": "serai revenu",
+			"tu": "seras revenu",
+			"il": "sera revenu",
+			"elle": "sera revenue",
+			"nous": "serons revenus",
+			"vous": "serez revenus",
+			"ils": "seront revenus",
+			"elles": "seront revenues"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous reveniez",
+			"qu'il/elle": "revienne",
+			"qu'ils/elles": "reviennent"
+		},
+		"imparfait": {
+			"que": "vous revinssiez",
+			"qu'il/elle": "revînt",
+			"qu'ils/elles": "revinssent"
+		},
+		"plus-que-parfait": {
+			"que": "vous fussiez revenus",
+			"qu'il": "fût revenu",
+			"qu'elle": "fût revenue",
+			"qu'ils": "fussent revenus",
+			"qu'elles": "fussent revenues"
+		},
+		"passé": {
+			"que": "vous soyez revenus",
+			"qu'il": "soit revenu",
+			"qu'elle": "soit revenue",
+			"qu'ils": "soient revenus",
+			"qu'elles": "soient revenues"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "reviendrais",
+			"tu": "reviendrais",
+			"il/elle": "reviendrait",
+			"nous": "reviendrions",
+			"vous": "reviendriez",
+			"ils/elles": "reviendraient"
+		},
+		"passé première forme": {
+			"je": "serais revenu",
+			"tu": "serais revenu",
+			"il": "serait revenu",
+			"elle": "serait revenue",
+			"nous": "serions revenus",
+			"vous": "seriez revenus",
+			"ils": "seraient revenus",
+			"elles": "seraient revenues"
+		},
+		"passé deuxième forme": {
+			"je": "fusse revenu",
+			"tu": "fusses revenu",
+			"il": "fût revenu",
+			"elle": "fût revenue",
+			"nous": "fussions revenus",
+			"vous": "fussiez revenus",
+			"ils": "fussent revenus",
+			"elles": "fussent revenues"
+		}
+	},
+	"participe": {
+		"présent": { "revenant": "" },
+		"passé composé": { "étant": "revenue" },
+		"passé": {
+			"masc.sg.:": "revenu",
+			"masc.pl.:": "revenus",
+			"fém.sg.:": "revenue",
+			"fém.pl.:": "revenues"
+		}
+	},
+	"imperatif": {
+		"présent": { "reviens": "", "revenons": "", "revenez": "" },
+		"passé": { "sois": "revenu", "soyons": "revenu", "soyez": "revenu" }
+	},
+	"infinitif": { "présent": { "revenir": "" }, "passé": { "être": "revenu" } }
+}

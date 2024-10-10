@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "amplify; enhance; increase; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'amplifier/ne pas amplifier/ne pas s'amplifier",
+	"indicatif": {
+		"présent": {
+			"j'": "amplifie",
+			"tu": "amplifies",
+			"il/elle": "amplifie",
+			"nous": "amplifions",
+			"vous": "amplifiez",
+			"ils/elles": "amplifient"
+		},
+		"imparfait": {
+			"j'": "amplifiais",
+			"tu": "amplifiais",
+			"il/elle": "amplifiait",
+			"nous": "amplifiions",
+			"vous": "amplifiiez",
+			"ils/elles": "amplifiaient"
+		},
+		"futur": {
+			"j'": "amplifierai",
+			"tu": "amplifieras",
+			"il/elle": "amplifiera",
+			"nous": "amplifierons",
+			"vous": "amplifierez",
+			"ils/elles": "amplifieront"
+		},
+		"passé simple": {
+			"j'": "amplifiai",
+			"tu": "amplifias",
+			"il/elle": "amplifia",
+			"nous": "amplifiâmes",
+			"vous": "amplifiâtes",
+			"ils/elles": "amplifièrent"
+		},
+		"passé composé": {
+			"j'": "ai amplifié",
+			"tu": "as amplifié",
+			"il/elle": "a amplifié",
+			"nous": "avons amplifié",
+			"vous": "avez amplifié",
+			"ils/elles": "ont amplifié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais amplifié",
+			"tu": "avais amplifié",
+			"il/elle": "avait amplifié",
+			"nous": "avions amplifié",
+			"vous": "aviez amplifié",
+			"ils/elles": "avaient amplifié"
+		},
+		"passé antérieur": {
+			"j'": "eus amplifié",
+			"tu": "eus amplifié",
+			"il/elle": "eut amplifié",
+			"nous": "eûmes amplifié",
+			"vous": "eûtes amplifié",
+			"ils/elles": "eurent amplifié"
+		},
+		"futur antérieur": {
+			"j'": "aurai amplifié",
+			"tu": "auras amplifié",
+			"il/elle": "aura amplifié",
+			"nous": "aurons amplifié",
+			"vous": "aurez amplifié",
+			"ils/elles": "auront amplifié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "amplifie",
+			"que": "vous amplifiiez",
+			"qu'il/elle": "amplifie",
+			"qu'ils/elles": "amplifient"
+		},
+		"imparfait": {
+			"j'": "amplifiasse",
+			"que": "vous amplifiassiez",
+			"qu'il/elle": "amplifiât",
+			"qu'ils/elles": "amplifiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse amplifié",
+			"que": "vous eussiez amplifié",
+			"qu'il/elle": "eût amplifié",
+			"qu'ils/elles": "eussent amplifié"
+		},
+		"passé": {
+			"j'": "aie amplifié",
+			"que": "vous ayez amplifié",
+			"qu'il/elle": "ait amplifié",
+			"qu'ils/elles": "aient amplifié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "amplifierais",
+			"tu": "amplifierais",
+			"il/elle": "amplifierait",
+			"nous": "amplifierions",
+			"vous": "amplifieriez",
+			"ils/elles": "amplifieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais amplifié",
+			"tu": "aurais amplifié",
+			"il/elle": "aurait amplifié",
+			"nous": "aurions amplifié",
+			"vous": "auriez amplifié",
+			"ils/elles": "auraient amplifié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse amplifié",
+			"tu": "eusses amplifié",
+			"il/elle": "eût amplifié",
+			"nous": "eussions amplifié",
+			"vous": "eussiez amplifié",
+			"ils/elles": "eussent amplifié"
+		}
+	},
+	"participe": {
+		"présent": { "amplifiant": "" },
+		"passé composé": { "ayant": "amplifié" },
+		"passé": {
+			"masc.sg.:": "amplifié",
+			"masc.pl.:": "amplifiés",
+			"fém.sg.:": "amplifiée",
+			"fém.pl.:": "amplifiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "amplifie": "", "amplifions": "", "amplifiez": "" },
+		"passé": { "aie": "amplifié", "ayons": "amplifié", "ayez": "amplifié" }
+	},
+	"infinitif": {
+		"présent": { "amplifier": "" },
+		"passé": { "avoir": "amplifié" }
+	}
+}

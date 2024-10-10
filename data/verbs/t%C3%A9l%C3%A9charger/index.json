@@ -1,0 +1,145 @@
+{
+	"name": "manger",
+	"definition": "download; upload; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "se télécharger/ne pas télécharger/ne pas se télécharger",
+	"indicatif": {
+		"présent": {
+			"je": "télécharge",
+			"tu": "télécharges",
+			"il/elle": "télécharge",
+			"nous": "téléchargeons",
+			"vous": "téléchargez",
+			"ils/elles": "téléchargent"
+		},
+		"imparfait": {
+			"je": "téléchargeais",
+			"tu": "téléchargeais",
+			"il/elle": "téléchargeait",
+			"nous": "téléchargions",
+			"vous": "téléchargiez",
+			"ils/elles": "téléchargeaient"
+		},
+		"futur": {
+			"je": "téléchargerai",
+			"tu": "téléchargeras",
+			"il/elle": "téléchargera",
+			"nous": "téléchargerons",
+			"vous": "téléchargerez",
+			"ils/elles": "téléchargeront"
+		},
+		"passé simple": {
+			"je": "téléchargeai",
+			"tu": "téléchargeas",
+			"il/elle": "téléchargea",
+			"nous": "téléchargeâmes",
+			"vous": "téléchargeâtes",
+			"ils/elles": "téléchargèrent"
+		},
+		"passé composé": {
+			"j'": "ai téléchargé",
+			"tu": "as téléchargé",
+			"il/elle": "a téléchargé",
+			"nous": "avons téléchargé",
+			"vous": "avez téléchargé",
+			"ils/elles": "ont téléchargé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais téléchargé",
+			"tu": "avais téléchargé",
+			"il/elle": "avait téléchargé",
+			"nous": "avions téléchargé",
+			"vous": "aviez téléchargé",
+			"ils/elles": "avaient téléchargé"
+		},
+		"passé antérieur": {
+			"j'": "eus téléchargé",
+			"tu": "eus téléchargé",
+			"il/elle": "eut téléchargé",
+			"nous": "eûmes téléchargé",
+			"vous": "eûtes téléchargé",
+			"ils/elles": "eurent téléchargé"
+		},
+		"futur antérieur": {
+			"j'": "aurai téléchargé",
+			"tu": "auras téléchargé",
+			"il/elle": "aura téléchargé",
+			"nous": "aurons téléchargé",
+			"vous": "aurez téléchargé",
+			"ils/elles": "auront téléchargé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous téléchargiez",
+			"qu'il/elle": "télécharge",
+			"qu'ils/elles": "téléchargent"
+		},
+		"imparfait": {
+			"que": "vous téléchargeassiez",
+			"qu'il/elle": "téléchargeât",
+			"qu'ils/elles": "téléchargeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse téléchargé",
+			"que": "vous eussiez téléchargé",
+			"qu'il/elle": "eût téléchargé",
+			"qu'ils/elles": "eussent téléchargé"
+		},
+		"passé": {
+			"j'": "aie téléchargé",
+			"que": "vous ayez téléchargé",
+			"qu'il/elle": "ait téléchargé",
+			"qu'ils/elles": "aient téléchargé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "téléchargerais",
+			"tu": "téléchargerais",
+			"il/elle": "téléchargerait",
+			"nous": "téléchargerions",
+			"vous": "téléchargeriez",
+			"ils/elles": "téléchargeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais téléchargé",
+			"tu": "aurais téléchargé",
+			"il/elle": "aurait téléchargé",
+			"nous": "aurions téléchargé",
+			"vous": "auriez téléchargé",
+			"ils/elles": "auraient téléchargé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse téléchargé",
+			"tu": "eusses téléchargé",
+			"il/elle": "eût téléchargé",
+			"nous": "eussions téléchargé",
+			"vous": "eussiez téléchargé",
+			"ils/elles": "eussent téléchargé"
+		}
+	},
+	"participe": {
+		"présent": { "téléchargeant": "" },
+		"passé composé": { "ayant": "téléchargé" },
+		"passé": {
+			"masc.sg.:": "téléchargé",
+			"masc.pl.:": "téléchargés",
+			"fém.sg.:": "téléchargée",
+			"fém.pl.:": "téléchargées"
+		}
+	},
+	"imperatif": {
+		"présent": { "télécharge": "", "téléchargeons": "", "téléchargez": "" },
+		"passé": {
+			"aie": "téléchargé",
+			"ayons": "téléchargé",
+			"ayez": "téléchargé"
+		}
+	},
+	"infinitif": {
+		"présent": { "télécharger": "" },
+		"passé": { "avoir": "téléchargé" }
+	}
+}

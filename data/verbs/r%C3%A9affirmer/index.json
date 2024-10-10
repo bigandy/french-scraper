@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "reaffirm; reiterate; reassert; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se réaffirmer/ne pas réaffirmer/ne pas se réaffirmer",
+	"indicatif": {
+		"présent": {
+			"je": "réaffirme",
+			"tu": "réaffirmes",
+			"il/elle": "réaffirme",
+			"nous": "réaffirmons",
+			"vous": "réaffirmez",
+			"ils/elles": "réaffirment"
+		},
+		"imparfait": {
+			"je": "réaffirmais",
+			"tu": "réaffirmais",
+			"il/elle": "réaffirmait",
+			"nous": "réaffirmions",
+			"vous": "réaffirmiez",
+			"ils/elles": "réaffirmaient"
+		},
+		"futur": {
+			"je": "réaffirmerai",
+			"tu": "réaffirmeras",
+			"il/elle": "réaffirmera",
+			"nous": "réaffirmerons",
+			"vous": "réaffirmerez",
+			"ils/elles": "réaffirmeront"
+		},
+		"passé simple": {
+			"je": "réaffirmai",
+			"tu": "réaffirmas",
+			"il/elle": "réaffirma",
+			"nous": "réaffirmâmes",
+			"vous": "réaffirmâtes",
+			"ils/elles": "réaffirmèrent"
+		},
+		"passé composé": {
+			"j'": "ai réaffirmé",
+			"tu": "as réaffirmé",
+			"il/elle": "a réaffirmé",
+			"nous": "avons réaffirmé",
+			"vous": "avez réaffirmé",
+			"ils/elles": "ont réaffirmé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais réaffirmé",
+			"tu": "avais réaffirmé",
+			"il/elle": "avait réaffirmé",
+			"nous": "avions réaffirmé",
+			"vous": "aviez réaffirmé",
+			"ils/elles": "avaient réaffirmé"
+		},
+		"passé antérieur": {
+			"j'": "eus réaffirmé",
+			"tu": "eus réaffirmé",
+			"il/elle": "eut réaffirmé",
+			"nous": "eûmes réaffirmé",
+			"vous": "eûtes réaffirmé",
+			"ils/elles": "eurent réaffirmé"
+		},
+		"futur antérieur": {
+			"j'": "aurai réaffirmé",
+			"tu": "auras réaffirmé",
+			"il/elle": "aura réaffirmé",
+			"nous": "aurons réaffirmé",
+			"vous": "aurez réaffirmé",
+			"ils/elles": "auront réaffirmé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous réaffirmiez",
+			"qu'il/elle": "réaffirme",
+			"qu'ils/elles": "réaffirment"
+		},
+		"imparfait": {
+			"que": "vous réaffirmassiez",
+			"qu'il/elle": "réaffirmât",
+			"qu'ils/elles": "réaffirmassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse réaffirmé",
+			"que": "vous eussiez réaffirmé",
+			"qu'il/elle": "eût réaffirmé",
+			"qu'ils/elles": "eussent réaffirmé"
+		},
+		"passé": {
+			"j'": "aie réaffirmé",
+			"que": "vous ayez réaffirmé",
+			"qu'il/elle": "ait réaffirmé",
+			"qu'ils/elles": "aient réaffirmé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "réaffirmerais",
+			"tu": "réaffirmerais",
+			"il/elle": "réaffirmerait",
+			"nous": "réaffirmerions",
+			"vous": "réaffirmeriez",
+			"ils/elles": "réaffirmeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais réaffirmé",
+			"tu": "aurais réaffirmé",
+			"il/elle": "aurait réaffirmé",
+			"nous": "aurions réaffirmé",
+			"vous": "auriez réaffirmé",
+			"ils/elles": "auraient réaffirmé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse réaffirmé",
+			"tu": "eusses réaffirmé",
+			"il/elle": "eût réaffirmé",
+			"nous": "eussions réaffirmé",
+			"vous": "eussiez réaffirmé",
+			"ils/elles": "eussent réaffirmé"
+		}
+	},
+	"participe": {
+		"présent": { "réaffirmant": "" },
+		"passé composé": { "ayant": "réaffirmé" },
+		"passé": {
+			"masc.sg.:": "réaffirmé",
+			"masc.pl.:": "réaffirmés",
+			"fém.sg.:": "réaffirmée",
+			"fém.pl.:": "réaffirmées"
+		}
+	},
+	"imperatif": {
+		"présent": { "réaffirme": "", "réaffirmons": "", "réaffirmez": "" },
+		"passé": { "aie": "réaffirmé", "ayons": "réaffirmé", "ayez": "réaffirmé" }
+	},
+	"infinitif": {
+		"présent": { "réaffirmer": "" },
+		"passé": { "avoir": "réaffirmé" }
+	}
+}

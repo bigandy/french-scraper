@@ -1,0 +1,138 @@
+{
+	"name": "battre",
+	"definition": "fight; beat; defeat; ...",
+	"model": "battre",
+	"auxiliary": "avoir",
+	"otherForms": "se battre/ne pas battre/ne pas se battre",
+	"indicatif": {
+		"présent": {
+			"je": "bats",
+			"tu": "bats",
+			"il/elle": "bat",
+			"nous": "battons",
+			"vous": "battez",
+			"ils/elles": "battent"
+		},
+		"imparfait": {
+			"je": "battais",
+			"tu": "battais",
+			"il/elle": "battait",
+			"nous": "battions",
+			"vous": "battiez",
+			"ils/elles": "battaient"
+		},
+		"futur": {
+			"je": "battrai",
+			"tu": "battras",
+			"il/elle": "battra",
+			"nous": "battrons",
+			"vous": "battrez",
+			"ils/elles": "battront"
+		},
+		"passé simple": {
+			"je": "battis",
+			"tu": "battis",
+			"il/elle": "battit",
+			"nous": "battîmes",
+			"vous": "battîtes",
+			"ils/elles": "battirent"
+		},
+		"passé composé": {
+			"j'": "ai battu",
+			"tu": "as battu",
+			"il/elle": "a battu",
+			"nous": "avons battu",
+			"vous": "avez battu",
+			"ils/elles": "ont battu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais battu",
+			"tu": "avais battu",
+			"il/elle": "avait battu",
+			"nous": "avions battu",
+			"vous": "aviez battu",
+			"ils/elles": "avaient battu"
+		},
+		"passé antérieur": {
+			"j'": "eus battu",
+			"tu": "eus battu",
+			"il/elle": "eut battu",
+			"nous": "eûmes battu",
+			"vous": "eûtes battu",
+			"ils/elles": "eurent battu"
+		},
+		"futur antérieur": {
+			"j'": "aurai battu",
+			"tu": "auras battu",
+			"il/elle": "aura battu",
+			"nous": "aurons battu",
+			"vous": "aurez battu",
+			"ils/elles": "auront battu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous battiez",
+			"qu'il/elle": "batte",
+			"qu'ils/elles": "battent"
+		},
+		"imparfait": {
+			"que": "vous battissiez",
+			"qu'il/elle": "battît",
+			"qu'ils/elles": "battissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse battu",
+			"que": "vous eussiez battu",
+			"qu'il/elle": "eût battu",
+			"qu'ils/elles": "eussent battu"
+		},
+		"passé": {
+			"j'": "aie battu",
+			"que": "vous ayez battu",
+			"qu'il/elle": "ait battu",
+			"qu'ils/elles": "aient battu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "battrais",
+			"tu": "battrais",
+			"il/elle": "battrait",
+			"nous": "battrions",
+			"vous": "battriez",
+			"ils/elles": "battraient"
+		},
+		"passé première forme": {
+			"j'": "aurais battu",
+			"tu": "aurais battu",
+			"il/elle": "aurait battu",
+			"nous": "aurions battu",
+			"vous": "auriez battu",
+			"ils/elles": "auraient battu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse battu",
+			"tu": "eusses battu",
+			"il/elle": "eût battu",
+			"nous": "eussions battu",
+			"vous": "eussiez battu",
+			"ils/elles": "eussent battu"
+		}
+	},
+	"participe": {
+		"présent": { "battant": "" },
+		"passé composé": { "ayant": "battu" },
+		"passé": {
+			"masc.sg.:": "battu",
+			"masc.pl.:": "battus",
+			"fém.sg.:": "battue",
+			"fém.pl.:": "battues"
+		}
+	},
+	"imperatif": {
+		"présent": { "bats": "", "battons": "", "battez": "" },
+		"passé": { "aie": "battu", "ayons": "battu", "ayez": "battu" }
+	},
+	"infinitif": { "présent": { "battre": "" }, "passé": { "avoir": "battu" } }
+}

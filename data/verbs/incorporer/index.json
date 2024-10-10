@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "incorporate; include; stir in; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'incorporer/ne pas incorporer/ne pas s'incorporer",
+	"indicatif": {
+		"présent": {
+			"j'": "incorpore",
+			"tu": "incorpores",
+			"il/elle": "incorpore",
+			"nous": "incorporons",
+			"vous": "incorporez",
+			"ils/elles": "incorporent"
+		},
+		"imparfait": {
+			"j'": "incorporais",
+			"tu": "incorporais",
+			"il/elle": "incorporait",
+			"nous": "incorporions",
+			"vous": "incorporiez",
+			"ils/elles": "incorporaient"
+		},
+		"futur": {
+			"j'": "incorporerai",
+			"tu": "incorporeras",
+			"il/elle": "incorporera",
+			"nous": "incorporerons",
+			"vous": "incorporerez",
+			"ils/elles": "incorporeront"
+		},
+		"passé simple": {
+			"j'": "incorporai",
+			"tu": "incorporas",
+			"il/elle": "incorpora",
+			"nous": "incorporâmes",
+			"vous": "incorporâtes",
+			"ils/elles": "incorporèrent"
+		},
+		"passé composé": {
+			"j'": "ai incorporé",
+			"tu": "as incorporé",
+			"il/elle": "a incorporé",
+			"nous": "avons incorporé",
+			"vous": "avez incorporé",
+			"ils/elles": "ont incorporé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais incorporé",
+			"tu": "avais incorporé",
+			"il/elle": "avait incorporé",
+			"nous": "avions incorporé",
+			"vous": "aviez incorporé",
+			"ils/elles": "avaient incorporé"
+		},
+		"passé antérieur": {
+			"j'": "eus incorporé",
+			"tu": "eus incorporé",
+			"il/elle": "eut incorporé",
+			"nous": "eûmes incorporé",
+			"vous": "eûtes incorporé",
+			"ils/elles": "eurent incorporé"
+		},
+		"futur antérieur": {
+			"j'": "aurai incorporé",
+			"tu": "auras incorporé",
+			"il/elle": "aura incorporé",
+			"nous": "aurons incorporé",
+			"vous": "aurez incorporé",
+			"ils/elles": "auront incorporé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "incorpore",
+			"que": "vous incorporiez",
+			"qu'il/elle": "incorpore",
+			"qu'ils/elles": "incorporent"
+		},
+		"imparfait": {
+			"j'": "incorporasse",
+			"que": "vous incorporassiez",
+			"qu'il/elle": "incorporât",
+			"qu'ils/elles": "incorporassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse incorporé",
+			"que": "vous eussiez incorporé",
+			"qu'il/elle": "eût incorporé",
+			"qu'ils/elles": "eussent incorporé"
+		},
+		"passé": {
+			"j'": "aie incorporé",
+			"que": "vous ayez incorporé",
+			"qu'il/elle": "ait incorporé",
+			"qu'ils/elles": "aient incorporé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "incorporerais",
+			"tu": "incorporerais",
+			"il/elle": "incorporerait",
+			"nous": "incorporerions",
+			"vous": "incorporeriez",
+			"ils/elles": "incorporeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais incorporé",
+			"tu": "aurais incorporé",
+			"il/elle": "aurait incorporé",
+			"nous": "aurions incorporé",
+			"vous": "auriez incorporé",
+			"ils/elles": "auraient incorporé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse incorporé",
+			"tu": "eusses incorporé",
+			"il/elle": "eût incorporé",
+			"nous": "eussions incorporé",
+			"vous": "eussiez incorporé",
+			"ils/elles": "eussent incorporé"
+		}
+	},
+	"participe": {
+		"présent": { "incorporant": "" },
+		"passé composé": { "ayant": "incorporé" },
+		"passé": {
+			"masc.sg.:": "incorporé",
+			"masc.pl.:": "incorporés",
+			"fém.sg.:": "incorporée",
+			"fém.pl.:": "incorporées"
+		}
+	},
+	"imperatif": {
+		"présent": { "incorpore": "", "incorporons": "", "incorporez": "" },
+		"passé": { "aie": "incorporé", "ayons": "incorporé", "ayez": "incorporé" }
+	},
+	"infinitif": {
+		"présent": { "incorporer": "" },
+		"passé": { "avoir": "incorporé" }
+	}
+}

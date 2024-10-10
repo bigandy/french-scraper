@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "reveal; unveil; disclose; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se dévoiler/ne pas dévoiler/ne pas se dévoiler",
+	"indicatif": {
+		"présent": {
+			"je": "dévoile",
+			"tu": "dévoiles",
+			"il/elle": "dévoile",
+			"nous": "dévoilons",
+			"vous": "dévoilez",
+			"ils/elles": "dévoilent"
+		},
+		"imparfait": {
+			"je": "dévoilais",
+			"tu": "dévoilais",
+			"il/elle": "dévoilait",
+			"nous": "dévoilions",
+			"vous": "dévoiliez",
+			"ils/elles": "dévoilaient"
+		},
+		"futur": {
+			"je": "dévoilerai",
+			"tu": "dévoileras",
+			"il/elle": "dévoilera",
+			"nous": "dévoilerons",
+			"vous": "dévoilerez",
+			"ils/elles": "dévoileront"
+		},
+		"passé simple": {
+			"je": "dévoilai",
+			"tu": "dévoilas",
+			"il/elle": "dévoila",
+			"nous": "dévoilâmes",
+			"vous": "dévoilâtes",
+			"ils/elles": "dévoilèrent"
+		},
+		"passé composé": {
+			"j'": "ai dévoilé",
+			"tu": "as dévoilé",
+			"il/elle": "a dévoilé",
+			"nous": "avons dévoilé",
+			"vous": "avez dévoilé",
+			"ils/elles": "ont dévoilé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais dévoilé",
+			"tu": "avais dévoilé",
+			"il/elle": "avait dévoilé",
+			"nous": "avions dévoilé",
+			"vous": "aviez dévoilé",
+			"ils/elles": "avaient dévoilé"
+		},
+		"passé antérieur": {
+			"j'": "eus dévoilé",
+			"tu": "eus dévoilé",
+			"il/elle": "eut dévoilé",
+			"nous": "eûmes dévoilé",
+			"vous": "eûtes dévoilé",
+			"ils/elles": "eurent dévoilé"
+		},
+		"futur antérieur": {
+			"j'": "aurai dévoilé",
+			"tu": "auras dévoilé",
+			"il/elle": "aura dévoilé",
+			"nous": "aurons dévoilé",
+			"vous": "aurez dévoilé",
+			"ils/elles": "auront dévoilé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous dévoiliez",
+			"qu'il/elle": "dévoile",
+			"qu'ils/elles": "dévoilent"
+		},
+		"imparfait": {
+			"que": "vous dévoilassiez",
+			"qu'il/elle": "dévoilât",
+			"qu'ils/elles": "dévoilassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse dévoilé",
+			"que": "vous eussiez dévoilé",
+			"qu'il/elle": "eût dévoilé",
+			"qu'ils/elles": "eussent dévoilé"
+		},
+		"passé": {
+			"j'": "aie dévoilé",
+			"que": "vous ayez dévoilé",
+			"qu'il/elle": "ait dévoilé",
+			"qu'ils/elles": "aient dévoilé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "dévoilerais",
+			"tu": "dévoilerais",
+			"il/elle": "dévoilerait",
+			"nous": "dévoilerions",
+			"vous": "dévoileriez",
+			"ils/elles": "dévoileraient"
+		},
+		"passé première forme": {
+			"j'": "aurais dévoilé",
+			"tu": "aurais dévoilé",
+			"il/elle": "aurait dévoilé",
+			"nous": "aurions dévoilé",
+			"vous": "auriez dévoilé",
+			"ils/elles": "auraient dévoilé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse dévoilé",
+			"tu": "eusses dévoilé",
+			"il/elle": "eût dévoilé",
+			"nous": "eussions dévoilé",
+			"vous": "eussiez dévoilé",
+			"ils/elles": "eussent dévoilé"
+		}
+	},
+	"participe": {
+		"présent": { "dévoilant": "" },
+		"passé composé": { "ayant": "dévoilé" },
+		"passé": {
+			"masc.sg.:": "dévoilé",
+			"masc.pl.:": "dévoilés",
+			"fém.sg.:": "dévoilée",
+			"fém.pl.:": "dévoilées"
+		}
+	},
+	"imperatif": {
+		"présent": { "dévoile": "", "dévoilons": "", "dévoilez": "" },
+		"passé": { "aie": "dévoilé", "ayons": "dévoilé", "ayez": "dévoilé" }
+	},
+	"infinitif": {
+		"présent": { "dévoiler": "" },
+		"passé": { "avoir": "dévoilé" }
+	}
+}

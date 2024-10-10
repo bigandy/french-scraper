@@ -1,0 +1,145 @@
+{
+	"name": "marcher",
+	"definition": "\n              underestimate; understate; underrate; ...\n            ",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se sous-estimer/ne pas sous-estimer/ne pas se sous-estimer",
+	"indicatif": {
+		"présent": {
+			"je": "sous-estime",
+			"tu": "sous-estimes",
+			"il/elle": "sous-estime",
+			"nous": "sous-estimons",
+			"vous": "sous-estimez",
+			"ils/elles": "sous-estiment"
+		},
+		"imparfait": {
+			"je": "sous-estimais",
+			"tu": "sous-estimais",
+			"il/elle": "sous-estimait",
+			"nous": "sous-estimions",
+			"vous": "sous-estimiez",
+			"ils/elles": "sous-estimaient"
+		},
+		"futur": {
+			"je": "sous-estimerai",
+			"tu": "sous-estimeras",
+			"il/elle": "sous-estimera",
+			"nous": "sous-estimerons",
+			"vous": "sous-estimerez",
+			"ils/elles": "sous-estimeront"
+		},
+		"passé simple": {
+			"je": "sous-estimai",
+			"tu": "sous-estimas",
+			"il/elle": "sous-estima",
+			"nous": "sous-estimâmes",
+			"vous": "sous-estimâtes",
+			"ils/elles": "sous-estimèrent"
+		},
+		"passé composé": {
+			"j'": "ai sous-estimé",
+			"tu": "as sous-estimé",
+			"il/elle": "a sous-estimé",
+			"nous": "avons sous-estimé",
+			"vous": "avez sous-estimé",
+			"ils/elles": "ont sous-estimé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais sous-estimé",
+			"tu": "avais sous-estimé",
+			"il/elle": "avait sous-estimé",
+			"nous": "avions sous-estimé",
+			"vous": "aviez sous-estimé",
+			"ils/elles": "avaient sous-estimé"
+		},
+		"passé antérieur": {
+			"j'": "eus sous-estimé",
+			"tu": "eus sous-estimé",
+			"il/elle": "eut sous-estimé",
+			"nous": "eûmes sous-estimé",
+			"vous": "eûtes sous-estimé",
+			"ils/elles": "eurent sous-estimé"
+		},
+		"futur antérieur": {
+			"j'": "aurai sous-estimé",
+			"tu": "auras sous-estimé",
+			"il/elle": "aura sous-estimé",
+			"nous": "aurons sous-estimé",
+			"vous": "aurez sous-estimé",
+			"ils/elles": "auront sous-estimé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous sous-estimiez",
+			"qu'il/elle": "sous-estime",
+			"qu'ils/elles": "sous-estiment"
+		},
+		"imparfait": {
+			"que": "vous sous-estimassiez",
+			"qu'il/elle": "sous-estimât",
+			"qu'ils/elles": "sous-estimassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse sous-estimé",
+			"que": "vous eussiez sous-estimé",
+			"qu'il/elle": "eût sous-estimé",
+			"qu'ils/elles": "eussent sous-estimé"
+		},
+		"passé": {
+			"j'": "aie sous-estimé",
+			"que": "vous ayez sous-estimé",
+			"qu'il/elle": "ait sous-estimé",
+			"qu'ils/elles": "aient sous-estimé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "sous-estimerais",
+			"tu": "sous-estimerais",
+			"il/elle": "sous-estimerait",
+			"nous": "sous-estimerions",
+			"vous": "sous-estimeriez",
+			"ils/elles": "sous-estimeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais sous-estimé",
+			"tu": "aurais sous-estimé",
+			"il/elle": "aurait sous-estimé",
+			"nous": "aurions sous-estimé",
+			"vous": "auriez sous-estimé",
+			"ils/elles": "auraient sous-estimé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse sous-estimé",
+			"tu": "eusses sous-estimé",
+			"il/elle": "eût sous-estimé",
+			"nous": "eussions sous-estimé",
+			"vous": "eussiez sous-estimé",
+			"ils/elles": "eussent sous-estimé"
+		}
+	},
+	"participe": {
+		"présent": { "sous-estimant": "" },
+		"passé composé": { "ayant": "sous-estimé" },
+		"passé": {
+			"masc.sg.:": "sous-estimé",
+			"masc.pl.:": "sous-estimés",
+			"fém.sg.:": "sous-estimée",
+			"fém.pl.:": "sous-estimées"
+		}
+	},
+	"imperatif": {
+		"présent": { "sous-estime": "", "sous-estimons": "", "sous-estimez": "" },
+		"passé": {
+			"aie": "sous-estimé",
+			"ayons": "sous-estimé",
+			"ayez": "sous-estimé"
+		}
+	},
+	"infinitif": {
+		"présent": { "sous-estimer": "" },
+		"passé": { "avoir": "sous-estimé" }
+	}
+}

@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "thank; acknowledge; congratulate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se remercier/ne pas remercier/ne pas se remercier",
+	"indicatif": {
+		"présent": {
+			"je": "remercie",
+			"tu": "remercies",
+			"il/elle": "remercie",
+			"nous": "remercions",
+			"vous": "remerciez",
+			"ils/elles": "remercient"
+		},
+		"imparfait": {
+			"je": "remerciais",
+			"tu": "remerciais",
+			"il/elle": "remerciait",
+			"nous": "remerciions",
+			"vous": "remerciiez",
+			"ils/elles": "remerciaient"
+		},
+		"futur": {
+			"je": "remercierai",
+			"tu": "remercieras",
+			"il/elle": "remerciera",
+			"nous": "remercierons",
+			"vous": "remercierez",
+			"ils/elles": "remercieront"
+		},
+		"passé simple": {
+			"je": "remerciai",
+			"tu": "remercias",
+			"il/elle": "remercia",
+			"nous": "remerciâmes",
+			"vous": "remerciâtes",
+			"ils/elles": "remercièrent"
+		},
+		"passé composé": {
+			"j'": "ai remercié",
+			"tu": "as remercié",
+			"il/elle": "a remercié",
+			"nous": "avons remercié",
+			"vous": "avez remercié",
+			"ils/elles": "ont remercié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais remercié",
+			"tu": "avais remercié",
+			"il/elle": "avait remercié",
+			"nous": "avions remercié",
+			"vous": "aviez remercié",
+			"ils/elles": "avaient remercié"
+		},
+		"passé antérieur": {
+			"j'": "eus remercié",
+			"tu": "eus remercié",
+			"il/elle": "eut remercié",
+			"nous": "eûmes remercié",
+			"vous": "eûtes remercié",
+			"ils/elles": "eurent remercié"
+		},
+		"futur antérieur": {
+			"j'": "aurai remercié",
+			"tu": "auras remercié",
+			"il/elle": "aura remercié",
+			"nous": "aurons remercié",
+			"vous": "aurez remercié",
+			"ils/elles": "auront remercié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous remerciiez",
+			"qu'il/elle": "remercie",
+			"qu'ils/elles": "remercient"
+		},
+		"imparfait": {
+			"que": "vous remerciassiez",
+			"qu'il/elle": "remerciât",
+			"qu'ils/elles": "remerciassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse remercié",
+			"que": "vous eussiez remercié",
+			"qu'il/elle": "eût remercié",
+			"qu'ils/elles": "eussent remercié"
+		},
+		"passé": {
+			"j'": "aie remercié",
+			"que": "vous ayez remercié",
+			"qu'il/elle": "ait remercié",
+			"qu'ils/elles": "aient remercié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "remercierais",
+			"tu": "remercierais",
+			"il/elle": "remercierait",
+			"nous": "remercierions",
+			"vous": "remercieriez",
+			"ils/elles": "remercieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais remercié",
+			"tu": "aurais remercié",
+			"il/elle": "aurait remercié",
+			"nous": "aurions remercié",
+			"vous": "auriez remercié",
+			"ils/elles": "auraient remercié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse remercié",
+			"tu": "eusses remercié",
+			"il/elle": "eût remercié",
+			"nous": "eussions remercié",
+			"vous": "eussiez remercié",
+			"ils/elles": "eussent remercié"
+		}
+	},
+	"participe": {
+		"présent": { "remerciant": "" },
+		"passé composé": { "ayant": "remercié" },
+		"passé": {
+			"masc.sg.:": "remercié",
+			"masc.pl.:": "remerciés",
+			"fém.sg.:": "remerciée",
+			"fém.pl.:": "remerciées"
+		}
+	},
+	"imperatif": {
+		"présent": { "remercie": "", "remercions": "", "remerciez": "" },
+		"passé": { "aie": "remercié", "ayons": "remercié", "ayez": "remercié" }
+	},
+	"infinitif": {
+		"présent": { "remercier": "" },
+		"passé": { "avoir": "remercié" }
+	}
+}

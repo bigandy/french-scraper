@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "win; earn; claim; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se remporter/ne pas remporter/ne pas se remporter",
+	"indicatif": {
+		"présent": {
+			"je": "remporte",
+			"tu": "remportes",
+			"il/elle": "remporte",
+			"nous": "remportons",
+			"vous": "remportez",
+			"ils/elles": "remportent"
+		},
+		"imparfait": {
+			"je": "remportais",
+			"tu": "remportais",
+			"il/elle": "remportait",
+			"nous": "remportions",
+			"vous": "remportiez",
+			"ils/elles": "remportaient"
+		},
+		"futur": {
+			"je": "remporterai",
+			"tu": "remporteras",
+			"il/elle": "remportera",
+			"nous": "remporterons",
+			"vous": "remporterez",
+			"ils/elles": "remporteront"
+		},
+		"passé simple": {
+			"je": "remportai",
+			"tu": "remportas",
+			"il/elle": "remporta",
+			"nous": "remportâmes",
+			"vous": "remportâtes",
+			"ils/elles": "remportèrent"
+		},
+		"passé composé": {
+			"j'": "ai remporté",
+			"tu": "as remporté",
+			"il/elle": "a remporté",
+			"nous": "avons remporté",
+			"vous": "avez remporté",
+			"ils/elles": "ont remporté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais remporté",
+			"tu": "avais remporté",
+			"il/elle": "avait remporté",
+			"nous": "avions remporté",
+			"vous": "aviez remporté",
+			"ils/elles": "avaient remporté"
+		},
+		"passé antérieur": {
+			"j'": "eus remporté",
+			"tu": "eus remporté",
+			"il/elle": "eut remporté",
+			"nous": "eûmes remporté",
+			"vous": "eûtes remporté",
+			"ils/elles": "eurent remporté"
+		},
+		"futur antérieur": {
+			"j'": "aurai remporté",
+			"tu": "auras remporté",
+			"il/elle": "aura remporté",
+			"nous": "aurons remporté",
+			"vous": "aurez remporté",
+			"ils/elles": "auront remporté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous remportiez",
+			"qu'il/elle": "remporte",
+			"qu'ils/elles": "remportent"
+		},
+		"imparfait": {
+			"que": "vous remportassiez",
+			"qu'il/elle": "remportât",
+			"qu'ils/elles": "remportassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse remporté",
+			"que": "vous eussiez remporté",
+			"qu'il/elle": "eût remporté",
+			"qu'ils/elles": "eussent remporté"
+		},
+		"passé": {
+			"j'": "aie remporté",
+			"que": "vous ayez remporté",
+			"qu'il/elle": "ait remporté",
+			"qu'ils/elles": "aient remporté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "remporterais",
+			"tu": "remporterais",
+			"il/elle": "remporterait",
+			"nous": "remporterions",
+			"vous": "remporteriez",
+			"ils/elles": "remporteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais remporté",
+			"tu": "aurais remporté",
+			"il/elle": "aurait remporté",
+			"nous": "aurions remporté",
+			"vous": "auriez remporté",
+			"ils/elles": "auraient remporté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse remporté",
+			"tu": "eusses remporté",
+			"il/elle": "eût remporté",
+			"nous": "eussions remporté",
+			"vous": "eussiez remporté",
+			"ils/elles": "eussent remporté"
+		}
+	},
+	"participe": {
+		"présent": { "remportant": "" },
+		"passé composé": { "ayant": "remporté" },
+		"passé": {
+			"masc.sg.:": "remporté",
+			"masc.pl.:": "remportés",
+			"fém.sg.:": "remportée",
+			"fém.pl.:": "remportées"
+		}
+	},
+	"imperatif": {
+		"présent": { "remporte": "", "remportons": "", "remportez": "" },
+		"passé": { "aie": "remporté", "ayons": "remporté", "ayez": "remporté" }
+	},
+	"infinitif": {
+		"présent": { "remporter": "" },
+		"passé": { "avoir": "remporté" }
+	}
+}

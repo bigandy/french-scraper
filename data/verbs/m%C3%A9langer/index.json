@@ -1,0 +1,141 @@
+{
+	"name": "manger",
+	"definition": "mix; combine; blend; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "se mélanger/ne pas mélanger/ne pas se mélanger",
+	"indicatif": {
+		"présent": {
+			"je": "mélange",
+			"tu": "mélanges",
+			"il/elle": "mélange",
+			"nous": "mélangeons",
+			"vous": "mélangez",
+			"ils/elles": "mélangent"
+		},
+		"imparfait": {
+			"je": "mélangeais",
+			"tu": "mélangeais",
+			"il/elle": "mélangeait",
+			"nous": "mélangions",
+			"vous": "mélangiez",
+			"ils/elles": "mélangeaient"
+		},
+		"futur": {
+			"je": "mélangerai",
+			"tu": "mélangeras",
+			"il/elle": "mélangera",
+			"nous": "mélangerons",
+			"vous": "mélangerez",
+			"ils/elles": "mélangeront"
+		},
+		"passé simple": {
+			"je": "mélangeai",
+			"tu": "mélangeas",
+			"il/elle": "mélangea",
+			"nous": "mélangeâmes",
+			"vous": "mélangeâtes",
+			"ils/elles": "mélangèrent"
+		},
+		"passé composé": {
+			"j'": "ai mélangé",
+			"tu": "as mélangé",
+			"il/elle": "a mélangé",
+			"nous": "avons mélangé",
+			"vous": "avez mélangé",
+			"ils/elles": "ont mélangé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais mélangé",
+			"tu": "avais mélangé",
+			"il/elle": "avait mélangé",
+			"nous": "avions mélangé",
+			"vous": "aviez mélangé",
+			"ils/elles": "avaient mélangé"
+		},
+		"passé antérieur": {
+			"j'": "eus mélangé",
+			"tu": "eus mélangé",
+			"il/elle": "eut mélangé",
+			"nous": "eûmes mélangé",
+			"vous": "eûtes mélangé",
+			"ils/elles": "eurent mélangé"
+		},
+		"futur antérieur": {
+			"j'": "aurai mélangé",
+			"tu": "auras mélangé",
+			"il/elle": "aura mélangé",
+			"nous": "aurons mélangé",
+			"vous": "aurez mélangé",
+			"ils/elles": "auront mélangé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous mélangiez",
+			"qu'il/elle": "mélange",
+			"qu'ils/elles": "mélangent"
+		},
+		"imparfait": {
+			"que": "vous mélangeassiez",
+			"qu'il/elle": "mélangeât",
+			"qu'ils/elles": "mélangeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse mélangé",
+			"que": "vous eussiez mélangé",
+			"qu'il/elle": "eût mélangé",
+			"qu'ils/elles": "eussent mélangé"
+		},
+		"passé": {
+			"j'": "aie mélangé",
+			"que": "vous ayez mélangé",
+			"qu'il/elle": "ait mélangé",
+			"qu'ils/elles": "aient mélangé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "mélangerais",
+			"tu": "mélangerais",
+			"il/elle": "mélangerait",
+			"nous": "mélangerions",
+			"vous": "mélangeriez",
+			"ils/elles": "mélangeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais mélangé",
+			"tu": "aurais mélangé",
+			"il/elle": "aurait mélangé",
+			"nous": "aurions mélangé",
+			"vous": "auriez mélangé",
+			"ils/elles": "auraient mélangé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse mélangé",
+			"tu": "eusses mélangé",
+			"il/elle": "eût mélangé",
+			"nous": "eussions mélangé",
+			"vous": "eussiez mélangé",
+			"ils/elles": "eussent mélangé"
+		}
+	},
+	"participe": {
+		"présent": { "mélangeant": "" },
+		"passé composé": { "ayant": "mélangé" },
+		"passé": {
+			"masc.sg.:": "mélangé",
+			"masc.pl.:": "mélangés",
+			"fém.sg.:": "mélangée",
+			"fém.pl.:": "mélangées"
+		}
+	},
+	"imperatif": {
+		"présent": { "mélange": "", "mélangeons": "", "mélangez": "" },
+		"passé": { "aie": "mélangé", "ayons": "mélangé", "ayez": "mélangé" }
+	},
+	"infinitif": {
+		"présent": { "mélanger": "" },
+		"passé": { "avoir": "mélangé" }
+	}
+}

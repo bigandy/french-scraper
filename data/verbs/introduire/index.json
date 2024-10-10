@@ -1,0 +1,143 @@
+{
+	"name": "cuire",
+	"definition": "introduce; insert; bring; ...",
+	"model": "cuire",
+	"auxiliary": "avoir",
+	"otherForms": "s'introduire/ne pas introduire/ne pas s'introduire",
+	"indicatif": {
+		"présent": {
+			"j'": "introduis",
+			"tu": "introduis",
+			"il/elle": "introduit",
+			"nous": "introduisons",
+			"vous": "introduisez",
+			"ils/elles": "introduisent"
+		},
+		"imparfait": {
+			"j'": "introduisais",
+			"tu": "introduisais",
+			"il/elle": "introduisait",
+			"nous": "introduisions",
+			"vous": "introduisiez",
+			"ils/elles": "introduisaient"
+		},
+		"futur": {
+			"j'": "introduirai",
+			"tu": "introduiras",
+			"il/elle": "introduira",
+			"nous": "introduirons",
+			"vous": "introduirez",
+			"ils/elles": "introduiront"
+		},
+		"passé simple": {
+			"j'": "introduisis",
+			"tu": "introduisis",
+			"il/elle": "introduisit",
+			"nous": "introduisîmes",
+			"vous": "introduisîtes",
+			"ils/elles": "introduisirent"
+		},
+		"passé composé": {
+			"j'": "ai introduit",
+			"tu": "as introduit",
+			"il/elle": "a introduit",
+			"nous": "avons introduit",
+			"vous": "avez introduit",
+			"ils/elles": "ont introduit"
+		},
+		"plus-que-parfait": {
+			"j'": "avais introduit",
+			"tu": "avais introduit",
+			"il/elle": "avait introduit",
+			"nous": "avions introduit",
+			"vous": "aviez introduit",
+			"ils/elles": "avaient introduit"
+		},
+		"passé antérieur": {
+			"j'": "eus introduit",
+			"tu": "eus introduit",
+			"il/elle": "eut introduit",
+			"nous": "eûmes introduit",
+			"vous": "eûtes introduit",
+			"ils/elles": "eurent introduit"
+		},
+		"futur antérieur": {
+			"j'": "aurai introduit",
+			"tu": "auras introduit",
+			"il/elle": "aura introduit",
+			"nous": "aurons introduit",
+			"vous": "aurez introduit",
+			"ils/elles": "auront introduit"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "introduise",
+			"que": "vous introduisiez",
+			"qu'il/elle": "introduise",
+			"qu'ils/elles": "introduisent"
+		},
+		"imparfait": {
+			"j'": "introduisisse",
+			"que": "vous introduisissiez",
+			"qu'il/elle": "introduisît",
+			"qu'ils/elles": "introduisissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse introduit",
+			"que": "vous eussiez introduit",
+			"qu'il/elle": "eût introduit",
+			"qu'ils/elles": "eussent introduit"
+		},
+		"passé": {
+			"j'": "aie introduit",
+			"que": "vous ayez introduit",
+			"qu'il/elle": "ait introduit",
+			"qu'ils/elles": "aient introduit"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "introduirais",
+			"tu": "introduirais",
+			"il/elle": "introduirait",
+			"nous": "introduirions",
+			"vous": "introduiriez",
+			"ils/elles": "introduiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais introduit",
+			"tu": "aurais introduit",
+			"il/elle": "aurait introduit",
+			"nous": "aurions introduit",
+			"vous": "auriez introduit",
+			"ils/elles": "auraient introduit"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse introduit",
+			"tu": "eusses introduit",
+			"il/elle": "eût introduit",
+			"nous": "eussions introduit",
+			"vous": "eussiez introduit",
+			"ils/elles": "eussent introduit"
+		}
+	},
+	"participe": {
+		"présent": { "introduisant": "" },
+		"passé composé": { "ayant": "introduit" },
+		"passé": {
+			"masc.sg.:": "introduit",
+			"masc.pl.:": "introduits",
+			"fém.sg.:": "introduite",
+			"fém.pl.:": "introduites"
+		}
+	},
+	"imperatif": {
+		"présent": { "introduis": "", "introduisons": "", "introduisez": "" },
+		"passé": { "aie": "introduit", "ayons": "introduit", "ayez": "introduit" }
+	},
+	"infinitif": {
+		"présent": { "introduire": "" },
+		"passé": { "avoir": "introduit" }
+	}
+}

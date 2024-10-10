@@ -1,0 +1,138 @@
+{
+	"name": "manger",
+	"definition": "draft; write; prepare; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "se rédiger/ne pas rédiger/ne pas se rédiger",
+	"indicatif": {
+		"présent": {
+			"je": "rédige",
+			"tu": "rédiges",
+			"il/elle": "rédige",
+			"nous": "rédigeons",
+			"vous": "rédigez",
+			"ils/elles": "rédigent"
+		},
+		"imparfait": {
+			"je": "rédigeais",
+			"tu": "rédigeais",
+			"il/elle": "rédigeait",
+			"nous": "rédigions",
+			"vous": "rédigiez",
+			"ils/elles": "rédigeaient"
+		},
+		"futur": {
+			"je": "rédigerai",
+			"tu": "rédigeras",
+			"il/elle": "rédigera",
+			"nous": "rédigerons",
+			"vous": "rédigerez",
+			"ils/elles": "rédigeront"
+		},
+		"passé simple": {
+			"je": "rédigeai",
+			"tu": "rédigeas",
+			"il/elle": "rédigea",
+			"nous": "rédigeâmes",
+			"vous": "rédigeâtes",
+			"ils/elles": "rédigèrent"
+		},
+		"passé composé": {
+			"j'": "ai rédigé",
+			"tu": "as rédigé",
+			"il/elle": "a rédigé",
+			"nous": "avons rédigé",
+			"vous": "avez rédigé",
+			"ils/elles": "ont rédigé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais rédigé",
+			"tu": "avais rédigé",
+			"il/elle": "avait rédigé",
+			"nous": "avions rédigé",
+			"vous": "aviez rédigé",
+			"ils/elles": "avaient rédigé"
+		},
+		"passé antérieur": {
+			"j'": "eus rédigé",
+			"tu": "eus rédigé",
+			"il/elle": "eut rédigé",
+			"nous": "eûmes rédigé",
+			"vous": "eûtes rédigé",
+			"ils/elles": "eurent rédigé"
+		},
+		"futur antérieur": {
+			"j'": "aurai rédigé",
+			"tu": "auras rédigé",
+			"il/elle": "aura rédigé",
+			"nous": "aurons rédigé",
+			"vous": "aurez rédigé",
+			"ils/elles": "auront rédigé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous rédigiez",
+			"qu'il/elle": "rédige",
+			"qu'ils/elles": "rédigent"
+		},
+		"imparfait": {
+			"que": "vous rédigeassiez",
+			"qu'il/elle": "rédigeât",
+			"qu'ils/elles": "rédigeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse rédigé",
+			"que": "vous eussiez rédigé",
+			"qu'il/elle": "eût rédigé",
+			"qu'ils/elles": "eussent rédigé"
+		},
+		"passé": {
+			"j'": "aie rédigé",
+			"que": "vous ayez rédigé",
+			"qu'il/elle": "ait rédigé",
+			"qu'ils/elles": "aient rédigé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "rédigerais",
+			"tu": "rédigerais",
+			"il/elle": "rédigerait",
+			"nous": "rédigerions",
+			"vous": "rédigeriez",
+			"ils/elles": "rédigeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais rédigé",
+			"tu": "aurais rédigé",
+			"il/elle": "aurait rédigé",
+			"nous": "aurions rédigé",
+			"vous": "auriez rédigé",
+			"ils/elles": "auraient rédigé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse rédigé",
+			"tu": "eusses rédigé",
+			"il/elle": "eût rédigé",
+			"nous": "eussions rédigé",
+			"vous": "eussiez rédigé",
+			"ils/elles": "eussent rédigé"
+		}
+	},
+	"participe": {
+		"présent": { "rédigeant": "" },
+		"passé composé": { "ayant": "rédigé" },
+		"passé": {
+			"masc.sg.:": "rédigé",
+			"masc.pl.:": "rédigés",
+			"fém.sg.:": "rédigée",
+			"fém.pl.:": "rédigées"
+		}
+	},
+	"imperatif": {
+		"présent": { "rédige": "", "rédigeons": "", "rédigez": "" },
+		"passé": { "aie": "rédigé", "ayons": "rédigé", "ayez": "rédigé" }
+	},
+	"infinitif": { "présent": { "rédiger": "" }, "passé": { "avoir": "rédigé" } }
+}

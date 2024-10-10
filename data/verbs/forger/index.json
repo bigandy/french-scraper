@@ -1,0 +1,138 @@
+{
+	"name": "manger",
+	"definition": "forge; build; shape; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "se forger/ne pas forger/ne pas se forger",
+	"indicatif": {
+		"présent": {
+			"je": "forge",
+			"tu": "forges",
+			"il/elle": "forge",
+			"nous": "forgeons",
+			"vous": "forgez",
+			"ils/elles": "forgent"
+		},
+		"imparfait": {
+			"je": "forgeais",
+			"tu": "forgeais",
+			"il/elle": "forgeait",
+			"nous": "forgions",
+			"vous": "forgiez",
+			"ils/elles": "forgeaient"
+		},
+		"futur": {
+			"je": "forgerai",
+			"tu": "forgeras",
+			"il/elle": "forgera",
+			"nous": "forgerons",
+			"vous": "forgerez",
+			"ils/elles": "forgeront"
+		},
+		"passé simple": {
+			"je": "forgeai",
+			"tu": "forgeas",
+			"il/elle": "forgea",
+			"nous": "forgeâmes",
+			"vous": "forgeâtes",
+			"ils/elles": "forgèrent"
+		},
+		"passé composé": {
+			"j'": "ai forgé",
+			"tu": "as forgé",
+			"il/elle": "a forgé",
+			"nous": "avons forgé",
+			"vous": "avez forgé",
+			"ils/elles": "ont forgé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais forgé",
+			"tu": "avais forgé",
+			"il/elle": "avait forgé",
+			"nous": "avions forgé",
+			"vous": "aviez forgé",
+			"ils/elles": "avaient forgé"
+		},
+		"passé antérieur": {
+			"j'": "eus forgé",
+			"tu": "eus forgé",
+			"il/elle": "eut forgé",
+			"nous": "eûmes forgé",
+			"vous": "eûtes forgé",
+			"ils/elles": "eurent forgé"
+		},
+		"futur antérieur": {
+			"j'": "aurai forgé",
+			"tu": "auras forgé",
+			"il/elle": "aura forgé",
+			"nous": "aurons forgé",
+			"vous": "aurez forgé",
+			"ils/elles": "auront forgé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous forgiez",
+			"qu'il/elle": "forge",
+			"qu'ils/elles": "forgent"
+		},
+		"imparfait": {
+			"que": "vous forgeassiez",
+			"qu'il/elle": "forgeât",
+			"qu'ils/elles": "forgeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse forgé",
+			"que": "vous eussiez forgé",
+			"qu'il/elle": "eût forgé",
+			"qu'ils/elles": "eussent forgé"
+		},
+		"passé": {
+			"j'": "aie forgé",
+			"que": "vous ayez forgé",
+			"qu'il/elle": "ait forgé",
+			"qu'ils/elles": "aient forgé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "forgerais",
+			"tu": "forgerais",
+			"il/elle": "forgerait",
+			"nous": "forgerions",
+			"vous": "forgeriez",
+			"ils/elles": "forgeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais forgé",
+			"tu": "aurais forgé",
+			"il/elle": "aurait forgé",
+			"nous": "aurions forgé",
+			"vous": "auriez forgé",
+			"ils/elles": "auraient forgé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse forgé",
+			"tu": "eusses forgé",
+			"il/elle": "eût forgé",
+			"nous": "eussions forgé",
+			"vous": "eussiez forgé",
+			"ils/elles": "eussent forgé"
+		}
+	},
+	"participe": {
+		"présent": { "forgeant": "" },
+		"passé composé": { "ayant": "forgé" },
+		"passé": {
+			"masc.sg.:": "forgé",
+			"masc.pl.:": "forgés",
+			"fém.sg.:": "forgée",
+			"fém.pl.:": "forgées"
+		}
+	},
+	"imperatif": {
+		"présent": { "forge": "", "forgeons": "", "forgez": "" },
+		"passé": { "aie": "forgé", "ayons": "forgé", "ayez": "forgé" }
+	},
+	"infinitif": { "présent": { "forger": "" }, "passé": { "avoir": "forgé" } }
+}

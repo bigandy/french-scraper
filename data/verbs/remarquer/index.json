@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "note; notice; point out; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se remarquer/ne pas remarquer/ne pas se remarquer",
+	"indicatif": {
+		"présent": {
+			"je": "remarque",
+			"tu": "remarques",
+			"il/elle": "remarque",
+			"nous": "remarquons",
+			"vous": "remarquez",
+			"ils/elles": "remarquent"
+		},
+		"imparfait": {
+			"je": "remarquais",
+			"tu": "remarquais",
+			"il/elle": "remarquait",
+			"nous": "remarquions",
+			"vous": "remarquiez",
+			"ils/elles": "remarquaient"
+		},
+		"futur": {
+			"je": "remarquerai",
+			"tu": "remarqueras",
+			"il/elle": "remarquera",
+			"nous": "remarquerons",
+			"vous": "remarquerez",
+			"ils/elles": "remarqueront"
+		},
+		"passé simple": {
+			"je": "remarquai",
+			"tu": "remarquas",
+			"il/elle": "remarqua",
+			"nous": "remarquâmes",
+			"vous": "remarquâtes",
+			"ils/elles": "remarquèrent"
+		},
+		"passé composé": {
+			"j'": "ai remarqué",
+			"tu": "as remarqué",
+			"il/elle": "a remarqué",
+			"nous": "avons remarqué",
+			"vous": "avez remarqué",
+			"ils/elles": "ont remarqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais remarqué",
+			"tu": "avais remarqué",
+			"il/elle": "avait remarqué",
+			"nous": "avions remarqué",
+			"vous": "aviez remarqué",
+			"ils/elles": "avaient remarqué"
+		},
+		"passé antérieur": {
+			"j'": "eus remarqué",
+			"tu": "eus remarqué",
+			"il/elle": "eut remarqué",
+			"nous": "eûmes remarqué",
+			"vous": "eûtes remarqué",
+			"ils/elles": "eurent remarqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai remarqué",
+			"tu": "auras remarqué",
+			"il/elle": "aura remarqué",
+			"nous": "aurons remarqué",
+			"vous": "aurez remarqué",
+			"ils/elles": "auront remarqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous remarquiez",
+			"qu'il/elle": "remarque",
+			"qu'ils/elles": "remarquent"
+		},
+		"imparfait": {
+			"que": "vous remarquassiez",
+			"qu'il/elle": "remarquât",
+			"qu'ils/elles": "remarquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse remarqué",
+			"que": "vous eussiez remarqué",
+			"qu'il/elle": "eût remarqué",
+			"qu'ils/elles": "eussent remarqué"
+		},
+		"passé": {
+			"j'": "aie remarqué",
+			"que": "vous ayez remarqué",
+			"qu'il/elle": "ait remarqué",
+			"qu'ils/elles": "aient remarqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "remarquerais",
+			"tu": "remarquerais",
+			"il/elle": "remarquerait",
+			"nous": "remarquerions",
+			"vous": "remarqueriez",
+			"ils/elles": "remarqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais remarqué",
+			"tu": "aurais remarqué",
+			"il/elle": "aurait remarqué",
+			"nous": "aurions remarqué",
+			"vous": "auriez remarqué",
+			"ils/elles": "auraient remarqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse remarqué",
+			"tu": "eusses remarqué",
+			"il/elle": "eût remarqué",
+			"nous": "eussions remarqué",
+			"vous": "eussiez remarqué",
+			"ils/elles": "eussent remarqué"
+		}
+	},
+	"participe": {
+		"présent": { "remarquant": "" },
+		"passé composé": { "ayant": "remarqué" },
+		"passé": {
+			"masc.sg.:": "remarqué",
+			"masc.pl.:": "remarqués",
+			"fém.sg.:": "remarquée",
+			"fém.pl.:": "remarquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "remarque": "", "remarquons": "", "remarquez": "" },
+		"passé": { "aie": "remarqué", "ayons": "remarqué", "ayez": "remarqué" }
+	},
+	"infinitif": {
+		"présent": { "remarquer": "" },
+		"passé": { "avoir": "remarqué" }
+	}
+}

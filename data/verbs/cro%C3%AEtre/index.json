@@ -1,0 +1,194 @@
+{
+	"name": "croître",
+	"definition": "grow; increase; rise; ...",
+	"model": "croître",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "ne pas croître",
+	"indicatif": {
+		"présent": {
+			"je": "croîs",
+			"tu": "croîs",
+			"il/elle": "croît",
+			"nous": "croissons",
+			"vous": "croissez",
+			"ils/elles": "croissent"
+		},
+		"imparfait": {
+			"je": "croissais",
+			"tu": "croissais",
+			"il/elle": "croissait",
+			"nous": "croissions",
+			"vous": "croissiez",
+			"ils/elles": "croissaient"
+		},
+		"futur": {
+			"je": "croîtrai",
+			"tu": "croîtras",
+			"il/elle": "croîtra",
+			"nous": "croîtrons",
+			"vous": "croîtrez",
+			"ils/elles": "croîtront"
+		},
+		"passé simple": {
+			"je": "crûs",
+			"tu": "crûs",
+			"il/elle": "crût",
+			"nous": "crûmes",
+			"vous": "crûtes",
+			"ils/elles": "crûrent"
+		},
+		"passé composé": {
+			"j'": "ai crû",
+			"tu": "es crû",
+			"il/elle": "a crû",
+			"nous": "sommes crus",
+			"vous": "êtes crus",
+			"ils/elles": "ont crû",
+			"": "",
+			"je": "suis crû",
+			"il": "est crû",
+			"elle": "est crue",
+			"ils": "sont crus",
+			"elles": "sont crues"
+		},
+		"plus-que-parfait": {
+			"j'": "étais crû",
+			"tu": "étais crû",
+			"il/elle": "avait crû",
+			"nous": "étions crus",
+			"vous": "étiez crus",
+			"ils/elles": "avaient crû",
+			"": "",
+			"il": "était crû",
+			"elle": "était crue",
+			"ils": "étaient crus",
+			"elles": "étaient crues"
+		},
+		"passé antérieur": {
+			"j'": "eus crû",
+			"tu": "fus crû",
+			"il/elle": "eut crû",
+			"nous": "fûmes crus",
+			"vous": "fûtes crus",
+			"ils/elles": "eurent crû",
+			"": "",
+			"je": "fus crû",
+			"il": "fut crû",
+			"elle": "fut crue",
+			"ils": "furent crus",
+			"elles": "furent crues"
+		},
+		"futur antérieur": {
+			"j'": "aurai crû",
+			"tu": "seras crû",
+			"il/elle": "aura crû",
+			"nous": "serons crus",
+			"vous": "serez crus",
+			"ils/elles": "auront crû",
+			"": "",
+			"je": "serai crû",
+			"il": "sera crû",
+			"elle": "sera crue",
+			"ils": "seront crus",
+			"elles": "seront crues"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous croissiez",
+			"qu'il/elle": "croisse",
+			"qu'ils/elles": "croissent"
+		},
+		"imparfait": {
+			"que": "vous crûssiez",
+			"qu'il/elle": "crût",
+			"qu'ils/elles": "crûssent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse crû",
+			"que": "vous fussiez crus",
+			"qu'il/elle": "eût crû",
+			"qu'ils/elles": "eussent crû",
+			"": "",
+			"qu'il": "fût crû",
+			"qu'elle": "fût crue",
+			"qu'ils": "fussent crus",
+			"qu'elles": "fussent crues"
+		},
+		"passé": {
+			"j'": "aie crû",
+			"que": "vous soyez crus",
+			"qu'il/elle": "ait crû",
+			"qu'ils/elles": "aient crû",
+			"": "",
+			"qu'il": "soit crû",
+			"qu'elle": "soit crue",
+			"qu'ils": "soient crus",
+			"qu'elles": "soient crues"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "croîtrais",
+			"tu": "croîtrais",
+			"il/elle": "croîtrait",
+			"nous": "croîtrions",
+			"vous": "croîtriez",
+			"ils/elles": "croîtraient"
+		},
+		"passé première forme": {
+			"j'": "aurais crû",
+			"tu": "serais crû",
+			"il/elle": "aurait crû",
+			"nous": "serions crus",
+			"vous": "seriez crus",
+			"ils/elles": "auraient crû",
+			"": "",
+			"je": "serais crû",
+			"il": "serait crû",
+			"elle": "serait crue",
+			"ils": "seraient crus",
+			"elles": "seraient crues"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse crû",
+			"tu": "fusses crû",
+			"il/elle": "eût crû",
+			"nous": "fussions crus",
+			"vous": "fussiez crus",
+			"ils/elles": "eussent crû",
+			"": "",
+			"je": "fusse crû",
+			"il": "fût crû",
+			"elle": "fût crue",
+			"ils": "fussent crus",
+			"elles": "fussent crues"
+		}
+	},
+	"participe": {
+		"présent": { "croissant": "" },
+		"passé composé": { "ayant": "crû", "": "", "étant": "crue" },
+		"passé": {
+			"masc.sg.:": "crû",
+			"masc.pl.:": "crus",
+			"fém.sg.:": "crue",
+			"fém.pl.:": "crues"
+		}
+	},
+	"imperatif": {
+		"présent": { "croîs": "", "croissons": "", "croissez": "" },
+		"passé": {
+			"aie": "crû",
+			"ayons": "crû",
+			"ayez": "crû",
+			"": "",
+			"sois": "crû",
+			"soyons": "crû",
+			"soyez": "crû"
+		}
+	},
+	"infinitif": {
+		"présent": { "croître": "" },
+		"passé": { "avoir": "crû", "": "", "être": "crû" }
+	}
+}

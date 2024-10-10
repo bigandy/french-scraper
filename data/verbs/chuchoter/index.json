@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "whisper; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se chuchoter/ne pas chuchoter/ne pas se chuchoter",
+	"indicatif": {
+		"présent": {
+			"je": "chuchote",
+			"tu": "chuchotes",
+			"il/elle": "chuchote",
+			"nous": "chuchotons",
+			"vous": "chuchotez",
+			"ils/elles": "chuchotent"
+		},
+		"imparfait": {
+			"je": "chuchotais",
+			"tu": "chuchotais",
+			"il/elle": "chuchotait",
+			"nous": "chuchotions",
+			"vous": "chuchotiez",
+			"ils/elles": "chuchotaient"
+		},
+		"futur": {
+			"je": "chuchoterai",
+			"tu": "chuchoteras",
+			"il/elle": "chuchotera",
+			"nous": "chuchoterons",
+			"vous": "chuchoterez",
+			"ils/elles": "chuchoteront"
+		},
+		"passé simple": {
+			"je": "chuchotai",
+			"tu": "chuchotas",
+			"il/elle": "chuchota",
+			"nous": "chuchotâmes",
+			"vous": "chuchotâtes",
+			"ils/elles": "chuchotèrent"
+		},
+		"passé composé": {
+			"j'": "ai chuchoté",
+			"tu": "as chuchoté",
+			"il/elle": "a chuchoté",
+			"nous": "avons chuchoté",
+			"vous": "avez chuchoté",
+			"ils/elles": "ont chuchoté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais chuchoté",
+			"tu": "avais chuchoté",
+			"il/elle": "avait chuchoté",
+			"nous": "avions chuchoté",
+			"vous": "aviez chuchoté",
+			"ils/elles": "avaient chuchoté"
+		},
+		"passé antérieur": {
+			"j'": "eus chuchoté",
+			"tu": "eus chuchoté",
+			"il/elle": "eut chuchoté",
+			"nous": "eûmes chuchoté",
+			"vous": "eûtes chuchoté",
+			"ils/elles": "eurent chuchoté"
+		},
+		"futur antérieur": {
+			"j'": "aurai chuchoté",
+			"tu": "auras chuchoté",
+			"il/elle": "aura chuchoté",
+			"nous": "aurons chuchoté",
+			"vous": "aurez chuchoté",
+			"ils/elles": "auront chuchoté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous chuchotiez",
+			"qu'il/elle": "chuchote",
+			"qu'ils/elles": "chuchotent"
+		},
+		"imparfait": {
+			"que": "vous chuchotassiez",
+			"qu'il/elle": "chuchotât",
+			"qu'ils/elles": "chuchotassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse chuchoté",
+			"que": "vous eussiez chuchoté",
+			"qu'il/elle": "eût chuchoté",
+			"qu'ils/elles": "eussent chuchoté"
+		},
+		"passé": {
+			"j'": "aie chuchoté",
+			"que": "vous ayez chuchoté",
+			"qu'il/elle": "ait chuchoté",
+			"qu'ils/elles": "aient chuchoté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "chuchoterais",
+			"tu": "chuchoterais",
+			"il/elle": "chuchoterait",
+			"nous": "chuchoterions",
+			"vous": "chuchoteriez",
+			"ils/elles": "chuchoteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais chuchoté",
+			"tu": "aurais chuchoté",
+			"il/elle": "aurait chuchoté",
+			"nous": "aurions chuchoté",
+			"vous": "auriez chuchoté",
+			"ils/elles": "auraient chuchoté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse chuchoté",
+			"tu": "eusses chuchoté",
+			"il/elle": "eût chuchoté",
+			"nous": "eussions chuchoté",
+			"vous": "eussiez chuchoté",
+			"ils/elles": "eussent chuchoté"
+		}
+	},
+	"participe": {
+		"présent": { "chuchotant": "" },
+		"passé composé": { "ayant": "chuchoté" },
+		"passé": {
+			"masc.sg.:": "chuchoté",
+			"masc.pl.:": "chuchotés",
+			"fém.sg.:": "chuchotée",
+			"fém.pl.:": "chuchotées"
+		}
+	},
+	"imperatif": {
+		"présent": { "chuchote": "", "chuchotons": "", "chuchotez": "" },
+		"passé": { "aie": "chuchoté", "ayons": "chuchoté", "ayez": "chuchoté" }
+	},
+	"infinitif": {
+		"présent": { "chuchoter": "" },
+		"passé": { "avoir": "chuchoté" }
+	}
+}

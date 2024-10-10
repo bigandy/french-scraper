@@ -1,0 +1,109 @@
+{
+	"name": "advenir",
+	"definition": "happen; come about; ...",
+	"model": "advenir",
+	"auxiliary": "être",
+	"otherForms": "ne pas advenir",
+	"indicatif": {
+		"présent": { "il/elle": "advient", "ils/elles": "adviennent" },
+		"imparfait": { "il/elle": "advenait", "ils/elles": "advenaient" },
+		"futur": { "il/elle": "adviendra", "ils/elles": "adviendront" },
+		"passé simple": { "il/elle": "advint", "ils/elles": "advinrent" },
+		"passé composé": {
+			"je": "suis advenu",
+			"tu": "es advenu",
+			"il": "est advenu",
+			"elle": "est advenue",
+			"nous": "sommes advenus",
+			"vous": "êtes advenus",
+			"ils": "sont advenus",
+			"elles": "sont advenues"
+		},
+		"plus-que-parfait": {
+			"j'": "étais advenu",
+			"tu": "étais advenu",
+			"il": "était advenu",
+			"elle": "était advenue",
+			"nous": "étions advenus",
+			"vous": "étiez advenus",
+			"ils": "étaient advenus",
+			"elles": "étaient advenues"
+		},
+		"passé antérieur": {
+			"je": "fus advenu",
+			"tu": "fus advenu",
+			"il": "fut advenu",
+			"elle": "fut advenue",
+			"nous": "fûmes advenus",
+			"vous": "fûtes advenus",
+			"ils": "furent advenus",
+			"elles": "furent advenues"
+		},
+		"futur antérieur": {
+			"je": "serai advenu",
+			"tu": "seras advenu",
+			"il": "sera advenu",
+			"elle": "sera advenue",
+			"nous": "serons advenus",
+			"vous": "serez advenus",
+			"ils": "seront advenus",
+			"elles": "seront advenues"
+		}
+	},
+	"subjonctif": {
+		"présent": { "qu'il/elle": "advienne", "qu'ils/elles": "adviennent" },
+		"imparfait": { "qu'il/elle": "advînt", "qu'ils/elles": "advinssent" },
+		"plus-que-parfait": {
+			"que": "vous fussiez advenus",
+			"qu'il": "fût advenu",
+			"qu'elle": "fût advenue",
+			"qu'ils": "fussent advenus",
+			"qu'elles": "fussent advenues"
+		},
+		"passé": {
+			"que": "vous soyez advenus",
+			"qu'il": "soit advenu",
+			"qu'elle": "soit advenue",
+			"qu'ils": "soient advenus",
+			"qu'elles": "soient advenues"
+		}
+	},
+	"conditionnel": {
+		"présent": { "il/elle": "adviendrait", "ils/elles": "adviendraient" },
+		"passé première forme": {
+			"je": "serais advenu",
+			"tu": "serais advenu",
+			"il": "serait advenu",
+			"elle": "serait advenue",
+			"nous": "serions advenus",
+			"vous": "seriez advenus",
+			"ils": "seraient advenus",
+			"elles": "seraient advenues"
+		},
+		"passé deuxième forme": {
+			"je": "fusse advenu",
+			"tu": "fusses advenu",
+			"il": "fût advenu",
+			"elle": "fût advenue",
+			"nous": "fussions advenus",
+			"vous": "fussiez advenus",
+			"ils": "fussent advenus",
+			"elles": "fussent advenues"
+		}
+	},
+	"participe": {
+		"présent": { "advenant": "" },
+		"passé composé": { "étant": "advenue" },
+		"passé": {
+			"masc.sg.:": "advenu",
+			"masc.pl.:": "advenus",
+			"fém.sg.:": "advenue",
+			"fém.pl.:": "advenues"
+		}
+	},
+	"imperatif": {
+		"présent": {},
+		"passé": { "sois": "advenu", "soyons": "advenu", "soyez": "advenu" }
+	},
+	"infinitif": { "présent": { "advenir": "" }, "passé": { "être": "advenu" } }
+}

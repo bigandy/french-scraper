@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "recruit; employ; enlist; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se recruter/ne pas recruter/ne pas se recruter",
+	"indicatif": {
+		"présent": {
+			"je": "recrute",
+			"tu": "recrutes",
+			"il/elle": "recrute",
+			"nous": "recrutons",
+			"vous": "recrutez",
+			"ils/elles": "recrutent"
+		},
+		"imparfait": {
+			"je": "recrutais",
+			"tu": "recrutais",
+			"il/elle": "recrutait",
+			"nous": "recrutions",
+			"vous": "recrutiez",
+			"ils/elles": "recrutaient"
+		},
+		"futur": {
+			"je": "recruterai",
+			"tu": "recruteras",
+			"il/elle": "recrutera",
+			"nous": "recruterons",
+			"vous": "recruterez",
+			"ils/elles": "recruteront"
+		},
+		"passé simple": {
+			"je": "recrutai",
+			"tu": "recrutas",
+			"il/elle": "recruta",
+			"nous": "recrutâmes",
+			"vous": "recrutâtes",
+			"ils/elles": "recrutèrent"
+		},
+		"passé composé": {
+			"j'": "ai recruté",
+			"tu": "as recruté",
+			"il/elle": "a recruté",
+			"nous": "avons recruté",
+			"vous": "avez recruté",
+			"ils/elles": "ont recruté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais recruté",
+			"tu": "avais recruté",
+			"il/elle": "avait recruté",
+			"nous": "avions recruté",
+			"vous": "aviez recruté",
+			"ils/elles": "avaient recruté"
+		},
+		"passé antérieur": {
+			"j'": "eus recruté",
+			"tu": "eus recruté",
+			"il/elle": "eut recruté",
+			"nous": "eûmes recruté",
+			"vous": "eûtes recruté",
+			"ils/elles": "eurent recruté"
+		},
+		"futur antérieur": {
+			"j'": "aurai recruté",
+			"tu": "auras recruté",
+			"il/elle": "aura recruté",
+			"nous": "aurons recruté",
+			"vous": "aurez recruté",
+			"ils/elles": "auront recruté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous recrutiez",
+			"qu'il/elle": "recrute",
+			"qu'ils/elles": "recrutent"
+		},
+		"imparfait": {
+			"que": "vous recrutassiez",
+			"qu'il/elle": "recrutât",
+			"qu'ils/elles": "recrutassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse recruté",
+			"que": "vous eussiez recruté",
+			"qu'il/elle": "eût recruté",
+			"qu'ils/elles": "eussent recruté"
+		},
+		"passé": {
+			"j'": "aie recruté",
+			"que": "vous ayez recruté",
+			"qu'il/elle": "ait recruté",
+			"qu'ils/elles": "aient recruté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "recruterais",
+			"tu": "recruterais",
+			"il/elle": "recruterait",
+			"nous": "recruterions",
+			"vous": "recruteriez",
+			"ils/elles": "recruteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais recruté",
+			"tu": "aurais recruté",
+			"il/elle": "aurait recruté",
+			"nous": "aurions recruté",
+			"vous": "auriez recruté",
+			"ils/elles": "auraient recruté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse recruté",
+			"tu": "eusses recruté",
+			"il/elle": "eût recruté",
+			"nous": "eussions recruté",
+			"vous": "eussiez recruté",
+			"ils/elles": "eussent recruté"
+		}
+	},
+	"participe": {
+		"présent": { "recrutant": "" },
+		"passé composé": { "ayant": "recruté" },
+		"passé": {
+			"masc.sg.:": "recruté",
+			"masc.pl.:": "recrutés",
+			"fém.sg.:": "recrutée",
+			"fém.pl.:": "recrutées"
+		}
+	},
+	"imperatif": {
+		"présent": { "recrute": "", "recrutons": "", "recrutez": "" },
+		"passé": { "aie": "recruté", "ayons": "recruté", "ayez": "recruté" }
+	},
+	"infinitif": {
+		"présent": { "recruter": "" },
+		"passé": { "avoir": "recruté" }
+	}
+}

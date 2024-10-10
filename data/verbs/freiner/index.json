@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "brake; curb; stop; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se freiner/ne pas freiner/ne pas se freiner",
+	"indicatif": {
+		"présent": {
+			"je": "freine",
+			"tu": "freines",
+			"il/elle": "freine",
+			"nous": "freinons",
+			"vous": "freinez",
+			"ils/elles": "freinent"
+		},
+		"imparfait": {
+			"je": "freinais",
+			"tu": "freinais",
+			"il/elle": "freinait",
+			"nous": "freinions",
+			"vous": "freiniez",
+			"ils/elles": "freinaient"
+		},
+		"futur": {
+			"je": "freinerai",
+			"tu": "freineras",
+			"il/elle": "freinera",
+			"nous": "freinerons",
+			"vous": "freinerez",
+			"ils/elles": "freineront"
+		},
+		"passé simple": {
+			"je": "freinai",
+			"tu": "freinas",
+			"il/elle": "freina",
+			"nous": "freinâmes",
+			"vous": "freinâtes",
+			"ils/elles": "freinèrent"
+		},
+		"passé composé": {
+			"j'": "ai freiné",
+			"tu": "as freiné",
+			"il/elle": "a freiné",
+			"nous": "avons freiné",
+			"vous": "avez freiné",
+			"ils/elles": "ont freiné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais freiné",
+			"tu": "avais freiné",
+			"il/elle": "avait freiné",
+			"nous": "avions freiné",
+			"vous": "aviez freiné",
+			"ils/elles": "avaient freiné"
+		},
+		"passé antérieur": {
+			"j'": "eus freiné",
+			"tu": "eus freiné",
+			"il/elle": "eut freiné",
+			"nous": "eûmes freiné",
+			"vous": "eûtes freiné",
+			"ils/elles": "eurent freiné"
+		},
+		"futur antérieur": {
+			"j'": "aurai freiné",
+			"tu": "auras freiné",
+			"il/elle": "aura freiné",
+			"nous": "aurons freiné",
+			"vous": "aurez freiné",
+			"ils/elles": "auront freiné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous freiniez",
+			"qu'il/elle": "freine",
+			"qu'ils/elles": "freinent"
+		},
+		"imparfait": {
+			"que": "vous freinassiez",
+			"qu'il/elle": "freinât",
+			"qu'ils/elles": "freinassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse freiné",
+			"que": "vous eussiez freiné",
+			"qu'il/elle": "eût freiné",
+			"qu'ils/elles": "eussent freiné"
+		},
+		"passé": {
+			"j'": "aie freiné",
+			"que": "vous ayez freiné",
+			"qu'il/elle": "ait freiné",
+			"qu'ils/elles": "aient freiné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "freinerais",
+			"tu": "freinerais",
+			"il/elle": "freinerait",
+			"nous": "freinerions",
+			"vous": "freineriez",
+			"ils/elles": "freineraient"
+		},
+		"passé première forme": {
+			"j'": "aurais freiné",
+			"tu": "aurais freiné",
+			"il/elle": "aurait freiné",
+			"nous": "aurions freiné",
+			"vous": "auriez freiné",
+			"ils/elles": "auraient freiné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse freiné",
+			"tu": "eusses freiné",
+			"il/elle": "eût freiné",
+			"nous": "eussions freiné",
+			"vous": "eussiez freiné",
+			"ils/elles": "eussent freiné"
+		}
+	},
+	"participe": {
+		"présent": { "freinant": "" },
+		"passé composé": { "ayant": "freiné" },
+		"passé": {
+			"masc.sg.:": "freiné",
+			"masc.pl.:": "freinés",
+			"fém.sg.:": "freinée",
+			"fém.pl.:": "freinées"
+		}
+	},
+	"imperatif": {
+		"présent": { "freine": "", "freinons": "", "freinez": "" },
+		"passé": { "aie": "freiné", "ayons": "freiné", "ayez": "freiné" }
+	},
+	"infinitif": { "présent": { "freiner": "" }, "passé": { "avoir": "freiné" } }
+}

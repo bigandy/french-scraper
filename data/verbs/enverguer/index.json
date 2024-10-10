@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'enverguer/ne pas enverguer/ne pas s'enverguer",
+	"indicatif": {
+		"présent": {
+			"j'": "envergue",
+			"tu": "envergues",
+			"il/elle": "envergue",
+			"nous": "enverguons",
+			"vous": "enverguez",
+			"ils/elles": "enverguent"
+		},
+		"imparfait": {
+			"j'": "enverguais",
+			"tu": "enverguais",
+			"il/elle": "enverguait",
+			"nous": "enverguions",
+			"vous": "enverguiez",
+			"ils/elles": "enverguaient"
+		},
+		"futur": {
+			"j'": "enverguerai",
+			"tu": "envergueras",
+			"il/elle": "enverguera",
+			"nous": "enverguerons",
+			"vous": "enverguerez",
+			"ils/elles": "envergueront"
+		},
+		"passé simple": {
+			"j'": "enverguai",
+			"tu": "enverguas",
+			"il/elle": "envergua",
+			"nous": "enverguâmes",
+			"vous": "enverguâtes",
+			"ils/elles": "enverguèrent"
+		},
+		"passé composé": {
+			"j'": "ai envergué",
+			"tu": "as envergué",
+			"il/elle": "a envergué",
+			"nous": "avons envergué",
+			"vous": "avez envergué",
+			"ils/elles": "ont envergué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais envergué",
+			"tu": "avais envergué",
+			"il/elle": "avait envergué",
+			"nous": "avions envergué",
+			"vous": "aviez envergué",
+			"ils/elles": "avaient envergué"
+		},
+		"passé antérieur": {
+			"j'": "eus envergué",
+			"tu": "eus envergué",
+			"il/elle": "eut envergué",
+			"nous": "eûmes envergué",
+			"vous": "eûtes envergué",
+			"ils/elles": "eurent envergué"
+		},
+		"futur antérieur": {
+			"j'": "aurai envergué",
+			"tu": "auras envergué",
+			"il/elle": "aura envergué",
+			"nous": "aurons envergué",
+			"vous": "aurez envergué",
+			"ils/elles": "auront envergué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "envergue",
+			"que": "vous enverguiez",
+			"qu'il/elle": "envergue",
+			"qu'ils/elles": "enverguent"
+		},
+		"imparfait": {
+			"j'": "enverguasse",
+			"que": "vous enverguassiez",
+			"qu'il/elle": "enverguât",
+			"qu'ils/elles": "enverguassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse envergué",
+			"que": "vous eussiez envergué",
+			"qu'il/elle": "eût envergué",
+			"qu'ils/elles": "eussent envergué"
+		},
+		"passé": {
+			"j'": "aie envergué",
+			"que": "vous ayez envergué",
+			"qu'il/elle": "ait envergué",
+			"qu'ils/elles": "aient envergué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "enverguerais",
+			"tu": "enverguerais",
+			"il/elle": "enverguerait",
+			"nous": "enverguerions",
+			"vous": "envergueriez",
+			"ils/elles": "envergueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais envergué",
+			"tu": "aurais envergué",
+			"il/elle": "aurait envergué",
+			"nous": "aurions envergué",
+			"vous": "auriez envergué",
+			"ils/elles": "auraient envergué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse envergué",
+			"tu": "eusses envergué",
+			"il/elle": "eût envergué",
+			"nous": "eussions envergué",
+			"vous": "eussiez envergué",
+			"ils/elles": "eussent envergué"
+		}
+	},
+	"participe": {
+		"présent": { "enverguant": "" },
+		"passé composé": { "ayant": "envergué" },
+		"passé": {
+			"masc.sg.:": "envergué",
+			"masc.pl.:": "envergués",
+			"fém.sg.:": "enverguée",
+			"fém.pl.:": "enverguées"
+		}
+	},
+	"imperatif": {
+		"présent": { "envergue": "", "enverguons": "", "enverguez": "" },
+		"passé": { "aie": "envergué", "ayons": "envergué", "ayez": "envergué" }
+	},
+	"infinitif": {
+		"présent": { "enverguer": "" },
+		"passé": { "avoir": "envergué" }
+	}
+}

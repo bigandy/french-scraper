@@ -1,0 +1,194 @@
+{
+	"name": "marcher",
+	"definition": "reduce; decrease; decline; ...",
+	"model": "marcher",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "se diminuer/ne pas diminuer/ne pas se diminuer",
+	"indicatif": {
+		"présent": {
+			"je": "diminue",
+			"tu": "diminues",
+			"il/elle": "diminue",
+			"nous": "diminuons",
+			"vous": "diminuez",
+			"ils/elles": "diminuent"
+		},
+		"imparfait": {
+			"je": "diminuais",
+			"tu": "diminuais",
+			"il/elle": "diminuait",
+			"nous": "diminuions",
+			"vous": "diminuiez",
+			"ils/elles": "diminuaient"
+		},
+		"futur": {
+			"je": "diminuerai",
+			"tu": "diminueras",
+			"il/elle": "diminuera",
+			"nous": "diminuerons",
+			"vous": "diminuerez",
+			"ils/elles": "diminueront"
+		},
+		"passé simple": {
+			"je": "diminuai",
+			"tu": "diminuas",
+			"il/elle": "diminua",
+			"nous": "diminuâmes",
+			"vous": "diminuâtes",
+			"ils/elles": "diminuèrent"
+		},
+		"passé composé": {
+			"j'": "ai diminué",
+			"tu": "es diminué",
+			"il/elle": "a diminué",
+			"nous": "sommes diminués",
+			"vous": "êtes diminués",
+			"ils/elles": "ont diminué",
+			"": "",
+			"je": "suis diminué",
+			"il": "est diminué",
+			"elle": "est diminuée",
+			"ils": "sont diminués",
+			"elles": "sont diminuées"
+		},
+		"plus-que-parfait": {
+			"j'": "étais diminué",
+			"tu": "étais diminué",
+			"il/elle": "avait diminué",
+			"nous": "étions diminués",
+			"vous": "étiez diminués",
+			"ils/elles": "avaient diminué",
+			"": "",
+			"il": "était diminué",
+			"elle": "était diminuée",
+			"ils": "étaient diminués",
+			"elles": "étaient diminuées"
+		},
+		"passé antérieur": {
+			"j'": "eus diminué",
+			"tu": "fus diminué",
+			"il/elle": "eut diminué",
+			"nous": "fûmes diminués",
+			"vous": "fûtes diminués",
+			"ils/elles": "eurent diminué",
+			"": "",
+			"je": "fus diminué",
+			"il": "fut diminué",
+			"elle": "fut diminuée",
+			"ils": "furent diminués",
+			"elles": "furent diminuées"
+		},
+		"futur antérieur": {
+			"j'": "aurai diminué",
+			"tu": "seras diminué",
+			"il/elle": "aura diminué",
+			"nous": "serons diminués",
+			"vous": "serez diminués",
+			"ils/elles": "auront diminué",
+			"": "",
+			"je": "serai diminué",
+			"il": "sera diminué",
+			"elle": "sera diminuée",
+			"ils": "seront diminués",
+			"elles": "seront diminuées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous diminuiez",
+			"qu'il/elle": "diminue",
+			"qu'ils/elles": "diminuent"
+		},
+		"imparfait": {
+			"que": "vous diminuassiez",
+			"qu'il/elle": "diminuât",
+			"qu'ils/elles": "diminuassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse diminué",
+			"que": "vous fussiez diminués",
+			"qu'il/elle": "eût diminué",
+			"qu'ils/elles": "eussent diminué",
+			"": "",
+			"qu'il": "fût diminué",
+			"qu'elle": "fût diminuée",
+			"qu'ils": "fussent diminués",
+			"qu'elles": "fussent diminuées"
+		},
+		"passé": {
+			"j'": "aie diminué",
+			"que": "vous soyez diminués",
+			"qu'il/elle": "ait diminué",
+			"qu'ils/elles": "aient diminué",
+			"": "",
+			"qu'il": "soit diminué",
+			"qu'elle": "soit diminuée",
+			"qu'ils": "soient diminués",
+			"qu'elles": "soient diminuées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "diminuerais",
+			"tu": "diminuerais",
+			"il/elle": "diminuerait",
+			"nous": "diminuerions",
+			"vous": "diminueriez",
+			"ils/elles": "diminueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais diminué",
+			"tu": "serais diminué",
+			"il/elle": "aurait diminué",
+			"nous": "serions diminués",
+			"vous": "seriez diminués",
+			"ils/elles": "auraient diminué",
+			"": "",
+			"je": "serais diminué",
+			"il": "serait diminué",
+			"elle": "serait diminuée",
+			"ils": "seraient diminués",
+			"elles": "seraient diminuées"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse diminué",
+			"tu": "fusses diminué",
+			"il/elle": "eût diminué",
+			"nous": "fussions diminués",
+			"vous": "fussiez diminués",
+			"ils/elles": "eussent diminué",
+			"": "",
+			"je": "fusse diminué",
+			"il": "fût diminué",
+			"elle": "fût diminuée",
+			"ils": "fussent diminués",
+			"elles": "fussent diminuées"
+		}
+	},
+	"participe": {
+		"présent": { "diminuant": "" },
+		"passé composé": { "ayant": "diminué", "": "", "étant": "diminuée" },
+		"passé": {
+			"masc.sg.:": "diminué",
+			"masc.pl.:": "diminués",
+			"fém.sg.:": "diminuée",
+			"fém.pl.:": "diminuées"
+		}
+	},
+	"imperatif": {
+		"présent": { "diminue": "", "diminuons": "", "diminuez": "" },
+		"passé": {
+			"aie": "diminué",
+			"ayons": "diminué",
+			"ayez": "diminué",
+			"": "",
+			"sois": "diminué",
+			"soyons": "diminué",
+			"soyez": "diminué"
+		}
+	},
+	"infinitif": {
+		"présent": { "diminuer": "" },
+		"passé": { "avoir": "diminué", "": "", "être": "diminué" }
+	}
+}

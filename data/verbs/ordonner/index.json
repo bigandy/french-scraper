@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "order; direct; instruct; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'ordonner/ne pas ordonner/ne pas s'ordonner",
+	"indicatif": {
+		"présent": {
+			"j'": "ordonne",
+			"tu": "ordonnes",
+			"il/elle": "ordonne",
+			"nous": "ordonnons",
+			"vous": "ordonnez",
+			"ils/elles": "ordonnent"
+		},
+		"imparfait": {
+			"j'": "ordonnais",
+			"tu": "ordonnais",
+			"il/elle": "ordonnait",
+			"nous": "ordonnions",
+			"vous": "ordonniez",
+			"ils/elles": "ordonnaient"
+		},
+		"futur": {
+			"j'": "ordonnerai",
+			"tu": "ordonneras",
+			"il/elle": "ordonnera",
+			"nous": "ordonnerons",
+			"vous": "ordonnerez",
+			"ils/elles": "ordonneront"
+		},
+		"passé simple": {
+			"j'": "ordonnai",
+			"tu": "ordonnas",
+			"il/elle": "ordonna",
+			"nous": "ordonnâmes",
+			"vous": "ordonnâtes",
+			"ils/elles": "ordonnèrent"
+		},
+		"passé composé": {
+			"j'": "ai ordonné",
+			"tu": "as ordonné",
+			"il/elle": "a ordonné",
+			"nous": "avons ordonné",
+			"vous": "avez ordonné",
+			"ils/elles": "ont ordonné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais ordonné",
+			"tu": "avais ordonné",
+			"il/elle": "avait ordonné",
+			"nous": "avions ordonné",
+			"vous": "aviez ordonné",
+			"ils/elles": "avaient ordonné"
+		},
+		"passé antérieur": {
+			"j'": "eus ordonné",
+			"tu": "eus ordonné",
+			"il/elle": "eut ordonné",
+			"nous": "eûmes ordonné",
+			"vous": "eûtes ordonné",
+			"ils/elles": "eurent ordonné"
+		},
+		"futur antérieur": {
+			"j'": "aurai ordonné",
+			"tu": "auras ordonné",
+			"il/elle": "aura ordonné",
+			"nous": "aurons ordonné",
+			"vous": "aurez ordonné",
+			"ils/elles": "auront ordonné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "ordonne",
+			"que": "vous ordonniez",
+			"qu'il/elle": "ordonne",
+			"qu'ils/elles": "ordonnent"
+		},
+		"imparfait": {
+			"j'": "ordonnasse",
+			"que": "vous ordonnassiez",
+			"qu'il/elle": "ordonnât",
+			"qu'ils/elles": "ordonnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse ordonné",
+			"que": "vous eussiez ordonné",
+			"qu'il/elle": "eût ordonné",
+			"qu'ils/elles": "eussent ordonné"
+		},
+		"passé": {
+			"j'": "aie ordonné",
+			"que": "vous ayez ordonné",
+			"qu'il/elle": "ait ordonné",
+			"qu'ils/elles": "aient ordonné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "ordonnerais",
+			"tu": "ordonnerais",
+			"il/elle": "ordonnerait",
+			"nous": "ordonnerions",
+			"vous": "ordonneriez",
+			"ils/elles": "ordonneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais ordonné",
+			"tu": "aurais ordonné",
+			"il/elle": "aurait ordonné",
+			"nous": "aurions ordonné",
+			"vous": "auriez ordonné",
+			"ils/elles": "auraient ordonné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse ordonné",
+			"tu": "eusses ordonné",
+			"il/elle": "eût ordonné",
+			"nous": "eussions ordonné",
+			"vous": "eussiez ordonné",
+			"ils/elles": "eussent ordonné"
+		}
+	},
+	"participe": {
+		"présent": { "ordonnant": "" },
+		"passé composé": { "ayant": "ordonné" },
+		"passé": {
+			"masc.sg.:": "ordonné",
+			"masc.pl.:": "ordonnés",
+			"fém.sg.:": "ordonnée",
+			"fém.pl.:": "ordonnées"
+		}
+	},
+	"imperatif": {
+		"présent": { "ordonne": "", "ordonnons": "", "ordonnez": "" },
+		"passé": { "aie": "ordonné", "ayons": "ordonné", "ayez": "ordonné" }
+	},
+	"infinitif": {
+		"présent": { "ordonner": "" },
+		"passé": { "avoir": "ordonné" }
+	}
+}

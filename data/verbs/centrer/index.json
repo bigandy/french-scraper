@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "focus; center; centre; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se centrer/ne pas centrer/ne pas se centrer",
+	"indicatif": {
+		"présent": {
+			"je": "centre",
+			"tu": "centres",
+			"il/elle": "centre",
+			"nous": "centrons",
+			"vous": "centrez",
+			"ils/elles": "centrent"
+		},
+		"imparfait": {
+			"je": "centrais",
+			"tu": "centrais",
+			"il/elle": "centrait",
+			"nous": "centrions",
+			"vous": "centriez",
+			"ils/elles": "centraient"
+		},
+		"futur": {
+			"je": "centrerai",
+			"tu": "centreras",
+			"il/elle": "centrera",
+			"nous": "centrerons",
+			"vous": "centrerez",
+			"ils/elles": "centreront"
+		},
+		"passé simple": {
+			"je": "centrai",
+			"tu": "centras",
+			"il/elle": "centra",
+			"nous": "centrâmes",
+			"vous": "centrâtes",
+			"ils/elles": "centrèrent"
+		},
+		"passé composé": {
+			"j'": "ai centré",
+			"tu": "as centré",
+			"il/elle": "a centré",
+			"nous": "avons centré",
+			"vous": "avez centré",
+			"ils/elles": "ont centré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais centré",
+			"tu": "avais centré",
+			"il/elle": "avait centré",
+			"nous": "avions centré",
+			"vous": "aviez centré",
+			"ils/elles": "avaient centré"
+		},
+		"passé antérieur": {
+			"j'": "eus centré",
+			"tu": "eus centré",
+			"il/elle": "eut centré",
+			"nous": "eûmes centré",
+			"vous": "eûtes centré",
+			"ils/elles": "eurent centré"
+		},
+		"futur antérieur": {
+			"j'": "aurai centré",
+			"tu": "auras centré",
+			"il/elle": "aura centré",
+			"nous": "aurons centré",
+			"vous": "aurez centré",
+			"ils/elles": "auront centré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous centriez",
+			"qu'il/elle": "centre",
+			"qu'ils/elles": "centrent"
+		},
+		"imparfait": {
+			"que": "vous centrassiez",
+			"qu'il/elle": "centrât",
+			"qu'ils/elles": "centrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse centré",
+			"que": "vous eussiez centré",
+			"qu'il/elle": "eût centré",
+			"qu'ils/elles": "eussent centré"
+		},
+		"passé": {
+			"j'": "aie centré",
+			"que": "vous ayez centré",
+			"qu'il/elle": "ait centré",
+			"qu'ils/elles": "aient centré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "centrerais",
+			"tu": "centrerais",
+			"il/elle": "centrerait",
+			"nous": "centrerions",
+			"vous": "centreriez",
+			"ils/elles": "centreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais centré",
+			"tu": "aurais centré",
+			"il/elle": "aurait centré",
+			"nous": "aurions centré",
+			"vous": "auriez centré",
+			"ils/elles": "auraient centré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse centré",
+			"tu": "eusses centré",
+			"il/elle": "eût centré",
+			"nous": "eussions centré",
+			"vous": "eussiez centré",
+			"ils/elles": "eussent centré"
+		}
+	},
+	"participe": {
+		"présent": { "centrant": "" },
+		"passé composé": { "ayant": "centré" },
+		"passé": {
+			"masc.sg.:": "centré",
+			"masc.pl.:": "centrés",
+			"fém.sg.:": "centrée",
+			"fém.pl.:": "centrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "centre": "", "centrons": "", "centrez": "" },
+		"passé": { "aie": "centré", "ayons": "centré", "ayez": "centré" }
+	},
+	"infinitif": { "présent": { "centrer": "" }, "passé": { "avoir": "centré" } }
+}

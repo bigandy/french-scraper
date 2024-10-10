@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "repay; reimburse; refund; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se rembourser/ne pas rembourser/ne pas se rembourser",
+	"indicatif": {
+		"présent": {
+			"je": "rembourse",
+			"tu": "rembourses",
+			"il/elle": "rembourse",
+			"nous": "remboursons",
+			"vous": "remboursez",
+			"ils/elles": "remboursent"
+		},
+		"imparfait": {
+			"je": "remboursais",
+			"tu": "remboursais",
+			"il/elle": "remboursait",
+			"nous": "remboursions",
+			"vous": "remboursiez",
+			"ils/elles": "remboursaient"
+		},
+		"futur": {
+			"je": "rembourserai",
+			"tu": "rembourseras",
+			"il/elle": "remboursera",
+			"nous": "rembourserons",
+			"vous": "rembourserez",
+			"ils/elles": "rembourseront"
+		},
+		"passé simple": {
+			"je": "remboursai",
+			"tu": "remboursas",
+			"il/elle": "remboursa",
+			"nous": "remboursâmes",
+			"vous": "remboursâtes",
+			"ils/elles": "remboursèrent"
+		},
+		"passé composé": {
+			"j'": "ai remboursé",
+			"tu": "as remboursé",
+			"il/elle": "a remboursé",
+			"nous": "avons remboursé",
+			"vous": "avez remboursé",
+			"ils/elles": "ont remboursé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais remboursé",
+			"tu": "avais remboursé",
+			"il/elle": "avait remboursé",
+			"nous": "avions remboursé",
+			"vous": "aviez remboursé",
+			"ils/elles": "avaient remboursé"
+		},
+		"passé antérieur": {
+			"j'": "eus remboursé",
+			"tu": "eus remboursé",
+			"il/elle": "eut remboursé",
+			"nous": "eûmes remboursé",
+			"vous": "eûtes remboursé",
+			"ils/elles": "eurent remboursé"
+		},
+		"futur antérieur": {
+			"j'": "aurai remboursé",
+			"tu": "auras remboursé",
+			"il/elle": "aura remboursé",
+			"nous": "aurons remboursé",
+			"vous": "aurez remboursé",
+			"ils/elles": "auront remboursé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous remboursiez",
+			"qu'il/elle": "rembourse",
+			"qu'ils/elles": "remboursent"
+		},
+		"imparfait": {
+			"que": "vous remboursassiez",
+			"qu'il/elle": "remboursât",
+			"qu'ils/elles": "remboursassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse remboursé",
+			"que": "vous eussiez remboursé",
+			"qu'il/elle": "eût remboursé",
+			"qu'ils/elles": "eussent remboursé"
+		},
+		"passé": {
+			"j'": "aie remboursé",
+			"que": "vous ayez remboursé",
+			"qu'il/elle": "ait remboursé",
+			"qu'ils/elles": "aient remboursé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "rembourserais",
+			"tu": "rembourserais",
+			"il/elle": "rembourserait",
+			"nous": "rembourserions",
+			"vous": "rembourseriez",
+			"ils/elles": "rembourseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais remboursé",
+			"tu": "aurais remboursé",
+			"il/elle": "aurait remboursé",
+			"nous": "aurions remboursé",
+			"vous": "auriez remboursé",
+			"ils/elles": "auraient remboursé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse remboursé",
+			"tu": "eusses remboursé",
+			"il/elle": "eût remboursé",
+			"nous": "eussions remboursé",
+			"vous": "eussiez remboursé",
+			"ils/elles": "eussent remboursé"
+		}
+	},
+	"participe": {
+		"présent": { "remboursant": "" },
+		"passé composé": { "ayant": "remboursé" },
+		"passé": {
+			"masc.sg.:": "remboursé",
+			"masc.pl.:": "remboursés",
+			"fém.sg.:": "remboursée",
+			"fém.pl.:": "remboursées"
+		}
+	},
+	"imperatif": {
+		"présent": { "rembourse": "", "remboursons": "", "remboursez": "" },
+		"passé": { "aie": "remboursé", "ayons": "remboursé", "ayez": "remboursé" }
+	},
+	"infinitif": {
+		"présent": { "rembourser": "" },
+		"passé": { "avoir": "remboursé" }
+	}
+}

@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "confirm; verify; support; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se confirmer/ne pas confirmer/ne pas se confirmer",
+	"indicatif": {
+		"présent": {
+			"je": "confirme",
+			"tu": "confirmes",
+			"il/elle": "confirme",
+			"nous": "confirmons",
+			"vous": "confirmez",
+			"ils/elles": "confirment"
+		},
+		"imparfait": {
+			"je": "confirmais",
+			"tu": "confirmais",
+			"il/elle": "confirmait",
+			"nous": "confirmions",
+			"vous": "confirmiez",
+			"ils/elles": "confirmaient"
+		},
+		"futur": {
+			"je": "confirmerai",
+			"tu": "confirmeras",
+			"il/elle": "confirmera",
+			"nous": "confirmerons",
+			"vous": "confirmerez",
+			"ils/elles": "confirmeront"
+		},
+		"passé simple": {
+			"je": "confirmai",
+			"tu": "confirmas",
+			"il/elle": "confirma",
+			"nous": "confirmâmes",
+			"vous": "confirmâtes",
+			"ils/elles": "confirmèrent"
+		},
+		"passé composé": {
+			"j'": "ai confirmé",
+			"tu": "as confirmé",
+			"il/elle": "a confirmé",
+			"nous": "avons confirmé",
+			"vous": "avez confirmé",
+			"ils/elles": "ont confirmé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais confirmé",
+			"tu": "avais confirmé",
+			"il/elle": "avait confirmé",
+			"nous": "avions confirmé",
+			"vous": "aviez confirmé",
+			"ils/elles": "avaient confirmé"
+		},
+		"passé antérieur": {
+			"j'": "eus confirmé",
+			"tu": "eus confirmé",
+			"il/elle": "eut confirmé",
+			"nous": "eûmes confirmé",
+			"vous": "eûtes confirmé",
+			"ils/elles": "eurent confirmé"
+		},
+		"futur antérieur": {
+			"j'": "aurai confirmé",
+			"tu": "auras confirmé",
+			"il/elle": "aura confirmé",
+			"nous": "aurons confirmé",
+			"vous": "aurez confirmé",
+			"ils/elles": "auront confirmé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous confirmiez",
+			"qu'il/elle": "confirme",
+			"qu'ils/elles": "confirment"
+		},
+		"imparfait": {
+			"que": "vous confirmassiez",
+			"qu'il/elle": "confirmât",
+			"qu'ils/elles": "confirmassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse confirmé",
+			"que": "vous eussiez confirmé",
+			"qu'il/elle": "eût confirmé",
+			"qu'ils/elles": "eussent confirmé"
+		},
+		"passé": {
+			"j'": "aie confirmé",
+			"que": "vous ayez confirmé",
+			"qu'il/elle": "ait confirmé",
+			"qu'ils/elles": "aient confirmé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "confirmerais",
+			"tu": "confirmerais",
+			"il/elle": "confirmerait",
+			"nous": "confirmerions",
+			"vous": "confirmeriez",
+			"ils/elles": "confirmeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais confirmé",
+			"tu": "aurais confirmé",
+			"il/elle": "aurait confirmé",
+			"nous": "aurions confirmé",
+			"vous": "auriez confirmé",
+			"ils/elles": "auraient confirmé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse confirmé",
+			"tu": "eusses confirmé",
+			"il/elle": "eût confirmé",
+			"nous": "eussions confirmé",
+			"vous": "eussiez confirmé",
+			"ils/elles": "eussent confirmé"
+		}
+	},
+	"participe": {
+		"présent": { "confirmant": "" },
+		"passé composé": { "ayant": "confirmé" },
+		"passé": {
+			"masc.sg.:": "confirmé",
+			"masc.pl.:": "confirmés",
+			"fém.sg.:": "confirmée",
+			"fém.pl.:": "confirmées"
+		}
+	},
+	"imperatif": {
+		"présent": { "confirme": "", "confirmons": "", "confirmez": "" },
+		"passé": { "aie": "confirmé", "ayons": "confirmé", "ayez": "confirmé" }
+	},
+	"infinitif": {
+		"présent": { "confirmer": "" },
+		"passé": { "avoir": "confirmé" }
+	}
+}

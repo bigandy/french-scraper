@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "reconcile; balance; combine; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se concilier/ne pas concilier/ne pas se concilier",
+	"indicatif": {
+		"présent": {
+			"je": "concilie",
+			"tu": "concilies",
+			"il/elle": "concilie",
+			"nous": "concilions",
+			"vous": "conciliez",
+			"ils/elles": "concilient"
+		},
+		"imparfait": {
+			"je": "conciliais",
+			"tu": "conciliais",
+			"il/elle": "conciliait",
+			"nous": "conciliions",
+			"vous": "conciliiez",
+			"ils/elles": "conciliaient"
+		},
+		"futur": {
+			"je": "concilierai",
+			"tu": "concilieras",
+			"il/elle": "conciliera",
+			"nous": "concilierons",
+			"vous": "concilierez",
+			"ils/elles": "concilieront"
+		},
+		"passé simple": {
+			"je": "conciliai",
+			"tu": "concilias",
+			"il/elle": "concilia",
+			"nous": "conciliâmes",
+			"vous": "conciliâtes",
+			"ils/elles": "concilièrent"
+		},
+		"passé composé": {
+			"j'": "ai concilié",
+			"tu": "as concilié",
+			"il/elle": "a concilié",
+			"nous": "avons concilié",
+			"vous": "avez concilié",
+			"ils/elles": "ont concilié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais concilié",
+			"tu": "avais concilié",
+			"il/elle": "avait concilié",
+			"nous": "avions concilié",
+			"vous": "aviez concilié",
+			"ils/elles": "avaient concilié"
+		},
+		"passé antérieur": {
+			"j'": "eus concilié",
+			"tu": "eus concilié",
+			"il/elle": "eut concilié",
+			"nous": "eûmes concilié",
+			"vous": "eûtes concilié",
+			"ils/elles": "eurent concilié"
+		},
+		"futur antérieur": {
+			"j'": "aurai concilié",
+			"tu": "auras concilié",
+			"il/elle": "aura concilié",
+			"nous": "aurons concilié",
+			"vous": "aurez concilié",
+			"ils/elles": "auront concilié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous conciliiez",
+			"qu'il/elle": "concilie",
+			"qu'ils/elles": "concilient"
+		},
+		"imparfait": {
+			"que": "vous conciliassiez",
+			"qu'il/elle": "conciliât",
+			"qu'ils/elles": "conciliassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse concilié",
+			"que": "vous eussiez concilié",
+			"qu'il/elle": "eût concilié",
+			"qu'ils/elles": "eussent concilié"
+		},
+		"passé": {
+			"j'": "aie concilié",
+			"que": "vous ayez concilié",
+			"qu'il/elle": "ait concilié",
+			"qu'ils/elles": "aient concilié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "concilierais",
+			"tu": "concilierais",
+			"il/elle": "concilierait",
+			"nous": "concilierions",
+			"vous": "concilieriez",
+			"ils/elles": "concilieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais concilié",
+			"tu": "aurais concilié",
+			"il/elle": "aurait concilié",
+			"nous": "aurions concilié",
+			"vous": "auriez concilié",
+			"ils/elles": "auraient concilié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse concilié",
+			"tu": "eusses concilié",
+			"il/elle": "eût concilié",
+			"nous": "eussions concilié",
+			"vous": "eussiez concilié",
+			"ils/elles": "eussent concilié"
+		}
+	},
+	"participe": {
+		"présent": { "conciliant": "" },
+		"passé composé": { "ayant": "concilié" },
+		"passé": {
+			"masc.sg.:": "concilié",
+			"masc.pl.:": "conciliés",
+			"fém.sg.:": "conciliée",
+			"fém.pl.:": "conciliées"
+		}
+	},
+	"imperatif": {
+		"présent": { "concilie": "", "concilions": "", "conciliez": "" },
+		"passé": { "aie": "concilié", "ayons": "concilié", "ayez": "concilié" }
+	},
+	"infinitif": {
+		"présent": { "concilier": "" },
+		"passé": { "avoir": "concilié" }
+	}
+}

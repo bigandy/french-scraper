@@ -1,0 +1,141 @@
+{
+	"name": "finir",
+	"definition": "cross; overcome; go through; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se franchir/ne pas franchir/ne pas se franchir",
+	"indicatif": {
+		"présent": {
+			"je": "franchis",
+			"tu": "franchis",
+			"il/elle": "franchit",
+			"nous": "franchissons",
+			"vous": "franchissez",
+			"ils/elles": "franchissent"
+		},
+		"imparfait": {
+			"je": "franchissais",
+			"tu": "franchissais",
+			"il/elle": "franchissait",
+			"nous": "franchissions",
+			"vous": "franchissiez",
+			"ils/elles": "franchissaient"
+		},
+		"futur": {
+			"je": "franchirai",
+			"tu": "franchiras",
+			"il/elle": "franchira",
+			"nous": "franchirons",
+			"vous": "franchirez",
+			"ils/elles": "franchiront"
+		},
+		"passé simple": {
+			"je": "franchis",
+			"tu": "franchis",
+			"il/elle": "franchit",
+			"nous": "franchîmes",
+			"vous": "franchîtes",
+			"ils/elles": "franchirent"
+		},
+		"passé composé": {
+			"j'": "ai franchi",
+			"tu": "as franchi",
+			"il/elle": "a franchi",
+			"nous": "avons franchi",
+			"vous": "avez franchi",
+			"ils/elles": "ont franchi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais franchi",
+			"tu": "avais franchi",
+			"il/elle": "avait franchi",
+			"nous": "avions franchi",
+			"vous": "aviez franchi",
+			"ils/elles": "avaient franchi"
+		},
+		"passé antérieur": {
+			"j'": "eus franchi",
+			"tu": "eus franchi",
+			"il/elle": "eut franchi",
+			"nous": "eûmes franchi",
+			"vous": "eûtes franchi",
+			"ils/elles": "eurent franchi"
+		},
+		"futur antérieur": {
+			"j'": "aurai franchi",
+			"tu": "auras franchi",
+			"il/elle": "aura franchi",
+			"nous": "aurons franchi",
+			"vous": "aurez franchi",
+			"ils/elles": "auront franchi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous franchissiez",
+			"qu'il/elle": "franchisse",
+			"qu'ils/elles": "franchissent"
+		},
+		"imparfait": {
+			"que": "vous franchissiez",
+			"qu'il/elle": "franchît",
+			"qu'ils/elles": "franchissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse franchi",
+			"que": "vous eussiez franchi",
+			"qu'il/elle": "eût franchi",
+			"qu'ils/elles": "eussent franchi"
+		},
+		"passé": {
+			"j'": "aie franchi",
+			"que": "vous ayez franchi",
+			"qu'il/elle": "ait franchi",
+			"qu'ils/elles": "aient franchi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "franchirais",
+			"tu": "franchirais",
+			"il/elle": "franchirait",
+			"nous": "franchirions",
+			"vous": "franchiriez",
+			"ils/elles": "franchiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais franchi",
+			"tu": "aurais franchi",
+			"il/elle": "aurait franchi",
+			"nous": "aurions franchi",
+			"vous": "auriez franchi",
+			"ils/elles": "auraient franchi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse franchi",
+			"tu": "eusses franchi",
+			"il/elle": "eût franchi",
+			"nous": "eussions franchi",
+			"vous": "eussiez franchi",
+			"ils/elles": "eussent franchi"
+		}
+	},
+	"participe": {
+		"présent": { "franchissant": "" },
+		"passé composé": { "ayant": "franchi" },
+		"passé": {
+			"masc.sg.:": "franchi",
+			"masc.pl.:": "franchis",
+			"fém.sg.:": "franchie",
+			"fém.pl.:": "franchies"
+		}
+	},
+	"imperatif": {
+		"présent": { "franchis": "", "franchissons": "", "franchissez": "" },
+		"passé": { "aie": "franchi", "ayons": "franchi", "ayez": "franchi" }
+	},
+	"infinitif": {
+		"présent": { "franchir": "" },
+		"passé": { "avoir": "franchi" }
+	}
+}

@@ -1,0 +1,138 @@
+{
+	"name": "mouvoir",
+	"definition": "move; drive; ...",
+	"model": "mouvoir",
+	"auxiliary": "avoir",
+	"otherForms": "se mouvoir/ne pas mouvoir/ne pas se mouvoir",
+	"indicatif": {
+		"présent": {
+			"je": "meus",
+			"tu": "meus",
+			"il/elle": "meut",
+			"nous": "mouvons",
+			"vous": "mouvez",
+			"ils/elles": "meuvent"
+		},
+		"imparfait": {
+			"je": "mouvais",
+			"tu": "mouvais",
+			"il/elle": "mouvait",
+			"nous": "mouvions",
+			"vous": "mouviez",
+			"ils/elles": "mouvaient"
+		},
+		"futur": {
+			"je": "mouvrai",
+			"tu": "mouvras",
+			"il/elle": "mouvra",
+			"nous": "mouvrons",
+			"vous": "mouvrez",
+			"ils/elles": "mouvront"
+		},
+		"passé simple": {
+			"je": "mus",
+			"tu": "mus",
+			"il/elle": "mut",
+			"nous": "mûmes",
+			"vous": "mûtes",
+			"ils/elles": "murent"
+		},
+		"passé composé": {
+			"j'": "ai mû",
+			"tu": "as mû",
+			"il/elle": "a mû",
+			"nous": "avons mû",
+			"vous": "avez mû",
+			"ils/elles": "ont mû"
+		},
+		"plus-que-parfait": {
+			"j'": "avais mû",
+			"tu": "avais mû",
+			"il/elle": "avait mû",
+			"nous": "avions mû",
+			"vous": "aviez mû",
+			"ils/elles": "avaient mû"
+		},
+		"passé antérieur": {
+			"j'": "eus mû",
+			"tu": "eus mû",
+			"il/elle": "eut mû",
+			"nous": "eûmes mû",
+			"vous": "eûtes mû",
+			"ils/elles": "eurent mû"
+		},
+		"futur antérieur": {
+			"j'": "aurai mû",
+			"tu": "auras mû",
+			"il/elle": "aura mû",
+			"nous": "aurons mû",
+			"vous": "aurez mû",
+			"ils/elles": "auront mû"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous mouviez",
+			"qu'il/elle": "meuve",
+			"qu'ils/elles": "meuvent"
+		},
+		"imparfait": {
+			"que": "vous mussiez",
+			"qu'il/elle": "mût",
+			"qu'ils/elles": "mussent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse mû",
+			"que": "vous eussiez mû",
+			"qu'il/elle": "eût mû",
+			"qu'ils/elles": "eussent mû"
+		},
+		"passé": {
+			"j'": "aie mû",
+			"que": "vous ayez mû",
+			"qu'il/elle": "ait mû",
+			"qu'ils/elles": "aient mû"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "mouvrais",
+			"tu": "mouvrais",
+			"il/elle": "mouvrait",
+			"nous": "mouvrions",
+			"vous": "mouvriez",
+			"ils/elles": "mouvraient"
+		},
+		"passé première forme": {
+			"j'": "aurais mû",
+			"tu": "aurais mû",
+			"il/elle": "aurait mû",
+			"nous": "aurions mû",
+			"vous": "auriez mû",
+			"ils/elles": "auraient mû"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse mû",
+			"tu": "eusses mû",
+			"il/elle": "eût mû",
+			"nous": "eussions mû",
+			"vous": "eussiez mû",
+			"ils/elles": "eussent mû"
+		}
+	},
+	"participe": {
+		"présent": { "mouvant": "" },
+		"passé composé": { "ayant": "mû" },
+		"passé": {
+			"masc.sg.:": "mû",
+			"masc.pl.:": "mus",
+			"fém.sg.:": "mue",
+			"fém.pl.:": "mues"
+		}
+	},
+	"imperatif": {
+		"présent": { "meus": "", "mouvons": "", "mouvez": "" },
+		"passé": { "aie": "mû", "ayons": "mû", "ayez": "mû" }
+	},
+	"infinitif": { "présent": { "mouvoir": "" }, "passé": { "avoir": "mû" } }
+}

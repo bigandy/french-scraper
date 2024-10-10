@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "wake up; wake; awaken; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se réveiller/ne pas réveiller/ne pas se réveiller",
+	"indicatif": {
+		"présent": {
+			"je": "réveille",
+			"tu": "réveilles",
+			"il/elle": "réveille",
+			"nous": "réveillons",
+			"vous": "réveillez",
+			"ils/elles": "réveillent"
+		},
+		"imparfait": {
+			"je": "réveillais",
+			"tu": "réveillais",
+			"il/elle": "réveillait",
+			"nous": "réveillions",
+			"vous": "réveilliez",
+			"ils/elles": "réveillaient"
+		},
+		"futur": {
+			"je": "réveillerai",
+			"tu": "réveilleras",
+			"il/elle": "réveillera",
+			"nous": "réveillerons",
+			"vous": "réveillerez",
+			"ils/elles": "réveilleront"
+		},
+		"passé simple": {
+			"je": "réveillai",
+			"tu": "réveillas",
+			"il/elle": "réveilla",
+			"nous": "réveillâmes",
+			"vous": "réveillâtes",
+			"ils/elles": "réveillèrent"
+		},
+		"passé composé": {
+			"j'": "ai réveillé",
+			"tu": "as réveillé",
+			"il/elle": "a réveillé",
+			"nous": "avons réveillé",
+			"vous": "avez réveillé",
+			"ils/elles": "ont réveillé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais réveillé",
+			"tu": "avais réveillé",
+			"il/elle": "avait réveillé",
+			"nous": "avions réveillé",
+			"vous": "aviez réveillé",
+			"ils/elles": "avaient réveillé"
+		},
+		"passé antérieur": {
+			"j'": "eus réveillé",
+			"tu": "eus réveillé",
+			"il/elle": "eut réveillé",
+			"nous": "eûmes réveillé",
+			"vous": "eûtes réveillé",
+			"ils/elles": "eurent réveillé"
+		},
+		"futur antérieur": {
+			"j'": "aurai réveillé",
+			"tu": "auras réveillé",
+			"il/elle": "aura réveillé",
+			"nous": "aurons réveillé",
+			"vous": "aurez réveillé",
+			"ils/elles": "auront réveillé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous réveilliez",
+			"qu'il/elle": "réveille",
+			"qu'ils/elles": "réveillent"
+		},
+		"imparfait": {
+			"que": "vous réveillassiez",
+			"qu'il/elle": "réveillât",
+			"qu'ils/elles": "réveillassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse réveillé",
+			"que": "vous eussiez réveillé",
+			"qu'il/elle": "eût réveillé",
+			"qu'ils/elles": "eussent réveillé"
+		},
+		"passé": {
+			"j'": "aie réveillé",
+			"que": "vous ayez réveillé",
+			"qu'il/elle": "ait réveillé",
+			"qu'ils/elles": "aient réveillé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "réveillerais",
+			"tu": "réveillerais",
+			"il/elle": "réveillerait",
+			"nous": "réveillerions",
+			"vous": "réveilleriez",
+			"ils/elles": "réveilleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais réveillé",
+			"tu": "aurais réveillé",
+			"il/elle": "aurait réveillé",
+			"nous": "aurions réveillé",
+			"vous": "auriez réveillé",
+			"ils/elles": "auraient réveillé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse réveillé",
+			"tu": "eusses réveillé",
+			"il/elle": "eût réveillé",
+			"nous": "eussions réveillé",
+			"vous": "eussiez réveillé",
+			"ils/elles": "eussent réveillé"
+		}
+	},
+	"participe": {
+		"présent": { "réveillant": "" },
+		"passé composé": { "ayant": "réveillé" },
+		"passé": {
+			"masc.sg.:": "réveillé",
+			"masc.pl.:": "réveillés",
+			"fém.sg.:": "réveillée",
+			"fém.pl.:": "réveillées"
+		}
+	},
+	"imperatif": {
+		"présent": { "réveille": "", "réveillons": "", "réveillez": "" },
+		"passé": { "aie": "réveillé", "ayons": "réveillé", "ayez": "réveillé" }
+	},
+	"infinitif": {
+		"présent": { "réveiller": "" },
+		"passé": { "avoir": "réveillé" }
+	}
+}

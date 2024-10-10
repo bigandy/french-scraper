@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "concern; worry; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se préoccuper/ne pas préoccuper/ne pas se préoccuper",
+	"indicatif": {
+		"présent": {
+			"je": "préoccupe",
+			"tu": "préoccupes",
+			"il/elle": "préoccupe",
+			"nous": "préoccupons",
+			"vous": "préoccupez",
+			"ils/elles": "préoccupent"
+		},
+		"imparfait": {
+			"je": "préoccupais",
+			"tu": "préoccupais",
+			"il/elle": "préoccupait",
+			"nous": "préoccupions",
+			"vous": "préoccupiez",
+			"ils/elles": "préoccupaient"
+		},
+		"futur": {
+			"je": "préoccuperai",
+			"tu": "préoccuperas",
+			"il/elle": "préoccupera",
+			"nous": "préoccuperons",
+			"vous": "préoccuperez",
+			"ils/elles": "préoccuperont"
+		},
+		"passé simple": {
+			"je": "préoccupai",
+			"tu": "préoccupas",
+			"il/elle": "préoccupa",
+			"nous": "préoccupâmes",
+			"vous": "préoccupâtes",
+			"ils/elles": "préoccupèrent"
+		},
+		"passé composé": {
+			"j'": "ai préoccupé",
+			"tu": "as préoccupé",
+			"il/elle": "a préoccupé",
+			"nous": "avons préoccupé",
+			"vous": "avez préoccupé",
+			"ils/elles": "ont préoccupé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais préoccupé",
+			"tu": "avais préoccupé",
+			"il/elle": "avait préoccupé",
+			"nous": "avions préoccupé",
+			"vous": "aviez préoccupé",
+			"ils/elles": "avaient préoccupé"
+		},
+		"passé antérieur": {
+			"j'": "eus préoccupé",
+			"tu": "eus préoccupé",
+			"il/elle": "eut préoccupé",
+			"nous": "eûmes préoccupé",
+			"vous": "eûtes préoccupé",
+			"ils/elles": "eurent préoccupé"
+		},
+		"futur antérieur": {
+			"j'": "aurai préoccupé",
+			"tu": "auras préoccupé",
+			"il/elle": "aura préoccupé",
+			"nous": "aurons préoccupé",
+			"vous": "aurez préoccupé",
+			"ils/elles": "auront préoccupé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous préoccupiez",
+			"qu'il/elle": "préoccupe",
+			"qu'ils/elles": "préoccupent"
+		},
+		"imparfait": {
+			"que": "vous préoccupassiez",
+			"qu'il/elle": "préoccupât",
+			"qu'ils/elles": "préoccupassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse préoccupé",
+			"que": "vous eussiez préoccupé",
+			"qu'il/elle": "eût préoccupé",
+			"qu'ils/elles": "eussent préoccupé"
+		},
+		"passé": {
+			"j'": "aie préoccupé",
+			"que": "vous ayez préoccupé",
+			"qu'il/elle": "ait préoccupé",
+			"qu'ils/elles": "aient préoccupé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "préoccuperais",
+			"tu": "préoccuperais",
+			"il/elle": "préoccuperait",
+			"nous": "préoccuperions",
+			"vous": "préoccuperiez",
+			"ils/elles": "préoccuperaient"
+		},
+		"passé première forme": {
+			"j'": "aurais préoccupé",
+			"tu": "aurais préoccupé",
+			"il/elle": "aurait préoccupé",
+			"nous": "aurions préoccupé",
+			"vous": "auriez préoccupé",
+			"ils/elles": "auraient préoccupé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse préoccupé",
+			"tu": "eusses préoccupé",
+			"il/elle": "eût préoccupé",
+			"nous": "eussions préoccupé",
+			"vous": "eussiez préoccupé",
+			"ils/elles": "eussent préoccupé"
+		}
+	},
+	"participe": {
+		"présent": { "préoccupant": "" },
+		"passé composé": { "ayant": "préoccupé" },
+		"passé": {
+			"masc.sg.:": "préoccupé",
+			"masc.pl.:": "préoccupés",
+			"fém.sg.:": "préoccupée",
+			"fém.pl.:": "préoccupées"
+		}
+	},
+	"imperatif": {
+		"présent": { "préoccupe": "", "préoccupons": "", "préoccupez": "" },
+		"passé": { "aie": "préoccupé", "ayons": "préoccupé", "ayez": "préoccupé" }
+	},
+	"infinitif": {
+		"présent": { "préoccuper": "" },
+		"passé": { "avoir": "préoccupé" }
+	}
+}

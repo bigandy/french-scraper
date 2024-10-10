@@ -1,0 +1,138 @@
+{
+	"name": "aérer",
+	"definition": "refer; reference; consult; ...",
+	"model": "aérer",
+	"auxiliary": "avoir",
+	"otherForms": "se référer/ne pas référer/ne pas se référer",
+	"indicatif": {
+		"présent": {
+			"je": "réfère",
+			"tu": "réfères",
+			"il/elle": "réfère",
+			"nous": "référons",
+			"vous": "référez",
+			"ils/elles": "réfèrent"
+		},
+		"imparfait": {
+			"je": "référais",
+			"tu": "référais",
+			"il/elle": "référait",
+			"nous": "référions",
+			"vous": "référiez",
+			"ils/elles": "référaient"
+		},
+		"futur": {
+			"je": "référerai",
+			"tu": "référeras",
+			"il/elle": "référera",
+			"nous": "référerons",
+			"vous": "référerez",
+			"ils/elles": "référeront"
+		},
+		"passé simple": {
+			"je": "référai",
+			"tu": "référas",
+			"il/elle": "référa",
+			"nous": "référâmes",
+			"vous": "référâtes",
+			"ils/elles": "référèrent"
+		},
+		"passé composé": {
+			"j'": "ai référé",
+			"tu": "as référé",
+			"il/elle": "a référé",
+			"nous": "avons référé",
+			"vous": "avez référé",
+			"ils/elles": "ont référé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais référé",
+			"tu": "avais référé",
+			"il/elle": "avait référé",
+			"nous": "avions référé",
+			"vous": "aviez référé",
+			"ils/elles": "avaient référé"
+		},
+		"passé antérieur": {
+			"j'": "eus référé",
+			"tu": "eus référé",
+			"il/elle": "eut référé",
+			"nous": "eûmes référé",
+			"vous": "eûtes référé",
+			"ils/elles": "eurent référé"
+		},
+		"futur antérieur": {
+			"j'": "aurai référé",
+			"tu": "auras référé",
+			"il/elle": "aura référé",
+			"nous": "aurons référé",
+			"vous": "aurez référé",
+			"ils/elles": "auront référé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous référiez",
+			"qu'il/elle": "réfère",
+			"qu'ils/elles": "réfèrent"
+		},
+		"imparfait": {
+			"que": "vous référassiez",
+			"qu'il/elle": "référât",
+			"qu'ils/elles": "référassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse référé",
+			"que": "vous eussiez référé",
+			"qu'il/elle": "eût référé",
+			"qu'ils/elles": "eussent référé"
+		},
+		"passé": {
+			"j'": "aie référé",
+			"que": "vous ayez référé",
+			"qu'il/elle": "ait référé",
+			"qu'ils/elles": "aient référé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "référerais",
+			"tu": "référerais",
+			"il/elle": "référerait",
+			"nous": "référerions",
+			"vous": "référeriez",
+			"ils/elles": "référeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais référé",
+			"tu": "aurais référé",
+			"il/elle": "aurait référé",
+			"nous": "aurions référé",
+			"vous": "auriez référé",
+			"ils/elles": "auraient référé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse référé",
+			"tu": "eusses référé",
+			"il/elle": "eût référé",
+			"nous": "eussions référé",
+			"vous": "eussiez référé",
+			"ils/elles": "eussent référé"
+		}
+	},
+	"participe": {
+		"présent": { "référant": "" },
+		"passé composé": { "ayant": "référé" },
+		"passé": {
+			"masc.sg.:": "référé",
+			"masc.pl.:": "référés",
+			"fém.sg.:": "référée",
+			"fém.pl.:": "référées"
+		}
+	},
+	"imperatif": {
+		"présent": { "réfère": "", "référons": "", "référez": "" },
+		"passé": { "aie": "référé", "ayons": "référé", "ayez": "référé" }
+	},
+	"infinitif": { "présent": { "référer": "" }, "passé": { "avoir": "référé" } }
+}

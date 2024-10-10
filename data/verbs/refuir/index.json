@@ -1,0 +1,138 @@
+{
+	"name": "fuir",
+	"definition": "",
+	"model": "fuir",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas refuir",
+	"indicatif": {
+		"présent": {
+			"je": "refuis",
+			"tu": "refuis",
+			"il/elle": "refuit",
+			"nous": "refuyons",
+			"vous": "refuyez",
+			"ils/elles": "refuient"
+		},
+		"imparfait": {
+			"je": "refuyais",
+			"tu": "refuyais",
+			"il/elle": "refuyait",
+			"nous": "refuyions",
+			"vous": "refuyiez",
+			"ils/elles": "refuyaient"
+		},
+		"futur": {
+			"je": "refuirai",
+			"tu": "refuiras",
+			"il/elle": "refuira",
+			"nous": "refuirons",
+			"vous": "refuirez",
+			"ils/elles": "refuiront"
+		},
+		"passé simple": {
+			"je": "refuis",
+			"tu": "refuis",
+			"il/elle": "refuit",
+			"nous": "refuîmes",
+			"vous": "refuîtes",
+			"ils/elles": "refuirent"
+		},
+		"passé composé": {
+			"j'": "ai refui",
+			"tu": "as refui",
+			"il/elle": "a refui",
+			"nous": "avons refui",
+			"vous": "avez refui",
+			"ils/elles": "ont refui"
+		},
+		"plus-que-parfait": {
+			"j'": "avais refui",
+			"tu": "avais refui",
+			"il/elle": "avait refui",
+			"nous": "avions refui",
+			"vous": "aviez refui",
+			"ils/elles": "avaient refui"
+		},
+		"passé antérieur": {
+			"j'": "eus refui",
+			"tu": "eus refui",
+			"il/elle": "eut refui",
+			"nous": "eûmes refui",
+			"vous": "eûtes refui",
+			"ils/elles": "eurent refui"
+		},
+		"futur antérieur": {
+			"j'": "aurai refui",
+			"tu": "auras refui",
+			"il/elle": "aura refui",
+			"nous": "aurons refui",
+			"vous": "aurez refui",
+			"ils/elles": "auront refui"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous refuyiez",
+			"qu'il/elle": "refuie",
+			"qu'ils/elles": "refuient"
+		},
+		"imparfait": {
+			"que": "vous refuissiez",
+			"qu'il/elle": "refuît",
+			"qu'ils/elles": "refuissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse refui",
+			"que": "vous eussiez refui",
+			"qu'il/elle": "eût refui",
+			"qu'ils/elles": "eussent refui"
+		},
+		"passé": {
+			"j'": "aie refui",
+			"que": "vous ayez refui",
+			"qu'il/elle": "ait refui",
+			"qu'ils/elles": "aient refui"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "refuirais",
+			"tu": "refuirais",
+			"il/elle": "refuirait",
+			"nous": "refuirions",
+			"vous": "refuiriez",
+			"ils/elles": "refuiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais refui",
+			"tu": "aurais refui",
+			"il/elle": "aurait refui",
+			"nous": "aurions refui",
+			"vous": "auriez refui",
+			"ils/elles": "auraient refui"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse refui",
+			"tu": "eusses refui",
+			"il/elle": "eût refui",
+			"nous": "eussions refui",
+			"vous": "eussiez refui",
+			"ils/elles": "eussent refui"
+		}
+	},
+	"participe": {
+		"présent": { "refuyant": "" },
+		"passé composé": { "ayant": "refui" },
+		"passé": {
+			"masc.sg.:": "refui",
+			"masc.pl.:": "refuis",
+			"fém.sg.:": "refuie",
+			"fém.pl.:": "refuies"
+		}
+	},
+	"imperatif": {
+		"présent": { "refuis": "", "refuyons": "", "refuyez": "" },
+		"passé": { "aie": "refui", "ayons": "refui", "ayez": "refui" }
+	},
+	"infinitif": { "présent": { "refuir": "" }, "passé": { "avoir": "refui" } }
+}

@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "plant; crash; stick; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se planter/ne pas planter/ne pas se planter",
+	"indicatif": {
+		"présent": {
+			"je": "plante",
+			"tu": "plantes",
+			"il/elle": "plante",
+			"nous": "plantons",
+			"vous": "plantez",
+			"ils/elles": "plantent"
+		},
+		"imparfait": {
+			"je": "plantais",
+			"tu": "plantais",
+			"il/elle": "plantait",
+			"nous": "plantions",
+			"vous": "plantiez",
+			"ils/elles": "plantaient"
+		},
+		"futur": {
+			"je": "planterai",
+			"tu": "planteras",
+			"il/elle": "plantera",
+			"nous": "planterons",
+			"vous": "planterez",
+			"ils/elles": "planteront"
+		},
+		"passé simple": {
+			"je": "plantai",
+			"tu": "plantas",
+			"il/elle": "planta",
+			"nous": "plantâmes",
+			"vous": "plantâtes",
+			"ils/elles": "plantèrent"
+		},
+		"passé composé": {
+			"j'": "ai planté",
+			"tu": "as planté",
+			"il/elle": "a planté",
+			"nous": "avons planté",
+			"vous": "avez planté",
+			"ils/elles": "ont planté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais planté",
+			"tu": "avais planté",
+			"il/elle": "avait planté",
+			"nous": "avions planté",
+			"vous": "aviez planté",
+			"ils/elles": "avaient planté"
+		},
+		"passé antérieur": {
+			"j'": "eus planté",
+			"tu": "eus planté",
+			"il/elle": "eut planté",
+			"nous": "eûmes planté",
+			"vous": "eûtes planté",
+			"ils/elles": "eurent planté"
+		},
+		"futur antérieur": {
+			"j'": "aurai planté",
+			"tu": "auras planté",
+			"il/elle": "aura planté",
+			"nous": "aurons planté",
+			"vous": "aurez planté",
+			"ils/elles": "auront planté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous plantiez",
+			"qu'il/elle": "plante",
+			"qu'ils/elles": "plantent"
+		},
+		"imparfait": {
+			"que": "vous plantassiez",
+			"qu'il/elle": "plantât",
+			"qu'ils/elles": "plantassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse planté",
+			"que": "vous eussiez planté",
+			"qu'il/elle": "eût planté",
+			"qu'ils/elles": "eussent planté"
+		},
+		"passé": {
+			"j'": "aie planté",
+			"que": "vous ayez planté",
+			"qu'il/elle": "ait planté",
+			"qu'ils/elles": "aient planté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "planterais",
+			"tu": "planterais",
+			"il/elle": "planterait",
+			"nous": "planterions",
+			"vous": "planteriez",
+			"ils/elles": "planteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais planté",
+			"tu": "aurais planté",
+			"il/elle": "aurait planté",
+			"nous": "aurions planté",
+			"vous": "auriez planté",
+			"ils/elles": "auraient planté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse planté",
+			"tu": "eusses planté",
+			"il/elle": "eût planté",
+			"nous": "eussions planté",
+			"vous": "eussiez planté",
+			"ils/elles": "eussent planté"
+		}
+	},
+	"participe": {
+		"présent": { "plantant": "" },
+		"passé composé": { "ayant": "planté" },
+		"passé": {
+			"masc.sg.:": "planté",
+			"masc.pl.:": "plantés",
+			"fém.sg.:": "plantée",
+			"fém.pl.:": "plantées"
+		}
+	},
+	"imperatif": {
+		"présent": { "plante": "", "plantons": "", "plantez": "" },
+		"passé": { "aie": "planté", "ayons": "planté", "ayez": "planté" }
+	},
+	"infinitif": { "présent": { "planter": "" }, "passé": { "avoir": "planté" } }
+}

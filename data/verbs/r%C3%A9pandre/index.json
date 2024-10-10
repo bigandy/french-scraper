@@ -1,0 +1,141 @@
+{
+	"name": "attendre",
+	"definition": "spread; spill; impart; ...",
+	"model": "attendre",
+	"auxiliary": "avoir",
+	"otherForms": "se répandre/ne pas répandre/ne pas se répandre",
+	"indicatif": {
+		"présent": {
+			"je": "répands",
+			"tu": "répands",
+			"il/elle": "répand",
+			"nous": "répandons",
+			"vous": "répandez",
+			"ils/elles": "répandent"
+		},
+		"imparfait": {
+			"je": "répandais",
+			"tu": "répandais",
+			"il/elle": "répandait",
+			"nous": "répandions",
+			"vous": "répandiez",
+			"ils/elles": "répandaient"
+		},
+		"futur": {
+			"je": "répandrai",
+			"tu": "répandras",
+			"il/elle": "répandra",
+			"nous": "répandrons",
+			"vous": "répandrez",
+			"ils/elles": "répandront"
+		},
+		"passé simple": {
+			"je": "répandis",
+			"tu": "répandis",
+			"il/elle": "répandit",
+			"nous": "répandîmes",
+			"vous": "répandîtes",
+			"ils/elles": "répandirent"
+		},
+		"passé composé": {
+			"j'": "ai répandu",
+			"tu": "as répandu",
+			"il/elle": "a répandu",
+			"nous": "avons répandu",
+			"vous": "avez répandu",
+			"ils/elles": "ont répandu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais répandu",
+			"tu": "avais répandu",
+			"il/elle": "avait répandu",
+			"nous": "avions répandu",
+			"vous": "aviez répandu",
+			"ils/elles": "avaient répandu"
+		},
+		"passé antérieur": {
+			"j'": "eus répandu",
+			"tu": "eus répandu",
+			"il/elle": "eut répandu",
+			"nous": "eûmes répandu",
+			"vous": "eûtes répandu",
+			"ils/elles": "eurent répandu"
+		},
+		"futur antérieur": {
+			"j'": "aurai répandu",
+			"tu": "auras répandu",
+			"il/elle": "aura répandu",
+			"nous": "aurons répandu",
+			"vous": "aurez répandu",
+			"ils/elles": "auront répandu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous répandiez",
+			"qu'il/elle": "répande",
+			"qu'ils/elles": "répandent"
+		},
+		"imparfait": {
+			"que": "vous répandissiez",
+			"qu'il/elle": "répandît",
+			"qu'ils/elles": "répandissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse répandu",
+			"que": "vous eussiez répandu",
+			"qu'il/elle": "eût répandu",
+			"qu'ils/elles": "eussent répandu"
+		},
+		"passé": {
+			"j'": "aie répandu",
+			"que": "vous ayez répandu",
+			"qu'il/elle": "ait répandu",
+			"qu'ils/elles": "aient répandu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "répandrais",
+			"tu": "répandrais",
+			"il/elle": "répandrait",
+			"nous": "répandrions",
+			"vous": "répandriez",
+			"ils/elles": "répandraient"
+		},
+		"passé première forme": {
+			"j'": "aurais répandu",
+			"tu": "aurais répandu",
+			"il/elle": "aurait répandu",
+			"nous": "aurions répandu",
+			"vous": "auriez répandu",
+			"ils/elles": "auraient répandu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse répandu",
+			"tu": "eusses répandu",
+			"il/elle": "eût répandu",
+			"nous": "eussions répandu",
+			"vous": "eussiez répandu",
+			"ils/elles": "eussent répandu"
+		}
+	},
+	"participe": {
+		"présent": { "répandant": "" },
+		"passé composé": { "ayant": "répandu" },
+		"passé": {
+			"masc.sg.:": "répandu",
+			"masc.pl.:": "répandus",
+			"fém.sg.:": "répandue",
+			"fém.pl.:": "répandues"
+		}
+	},
+	"imperatif": {
+		"présent": { "répands": "", "répandons": "", "répandez": "" },
+		"passé": { "aie": "répandu", "ayons": "répandu", "ayez": "répandu" }
+	},
+	"infinitif": {
+		"présent": { "répandre": "" },
+		"passé": { "avoir": "répandu" }
+	}
+}

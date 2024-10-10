@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "improve; enhance; increase; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'améliorer/ne pas améliorer/ne pas s'améliorer",
+	"indicatif": {
+		"présent": {
+			"j'": "améliore",
+			"tu": "améliores",
+			"il/elle": "améliore",
+			"nous": "améliorons",
+			"vous": "améliorez",
+			"ils/elles": "améliorent"
+		},
+		"imparfait": {
+			"j'": "améliorais",
+			"tu": "améliorais",
+			"il/elle": "améliorait",
+			"nous": "améliorions",
+			"vous": "amélioriez",
+			"ils/elles": "amélioraient"
+		},
+		"futur": {
+			"j'": "améliorerai",
+			"tu": "amélioreras",
+			"il/elle": "améliorera",
+			"nous": "améliorerons",
+			"vous": "améliorerez",
+			"ils/elles": "amélioreront"
+		},
+		"passé simple": {
+			"j'": "améliorai",
+			"tu": "amélioras",
+			"il/elle": "améliora",
+			"nous": "améliorâmes",
+			"vous": "améliorâtes",
+			"ils/elles": "améliorèrent"
+		},
+		"passé composé": {
+			"j'": "ai amélioré",
+			"tu": "as amélioré",
+			"il/elle": "a amélioré",
+			"nous": "avons amélioré",
+			"vous": "avez amélioré",
+			"ils/elles": "ont amélioré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais amélioré",
+			"tu": "avais amélioré",
+			"il/elle": "avait amélioré",
+			"nous": "avions amélioré",
+			"vous": "aviez amélioré",
+			"ils/elles": "avaient amélioré"
+		},
+		"passé antérieur": {
+			"j'": "eus amélioré",
+			"tu": "eus amélioré",
+			"il/elle": "eut amélioré",
+			"nous": "eûmes amélioré",
+			"vous": "eûtes amélioré",
+			"ils/elles": "eurent amélioré"
+		},
+		"futur antérieur": {
+			"j'": "aurai amélioré",
+			"tu": "auras amélioré",
+			"il/elle": "aura amélioré",
+			"nous": "aurons amélioré",
+			"vous": "aurez amélioré",
+			"ils/elles": "auront amélioré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "améliore",
+			"que": "vous amélioriez",
+			"qu'il/elle": "améliore",
+			"qu'ils/elles": "améliorent"
+		},
+		"imparfait": {
+			"j'": "améliorasse",
+			"que": "vous améliorassiez",
+			"qu'il/elle": "améliorât",
+			"qu'ils/elles": "améliorassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse amélioré",
+			"que": "vous eussiez amélioré",
+			"qu'il/elle": "eût amélioré",
+			"qu'ils/elles": "eussent amélioré"
+		},
+		"passé": {
+			"j'": "aie amélioré",
+			"que": "vous ayez amélioré",
+			"qu'il/elle": "ait amélioré",
+			"qu'ils/elles": "aient amélioré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "améliorerais",
+			"tu": "améliorerais",
+			"il/elle": "améliorerait",
+			"nous": "améliorerions",
+			"vous": "amélioreriez",
+			"ils/elles": "amélioreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais amélioré",
+			"tu": "aurais amélioré",
+			"il/elle": "aurait amélioré",
+			"nous": "aurions amélioré",
+			"vous": "auriez amélioré",
+			"ils/elles": "auraient amélioré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse amélioré",
+			"tu": "eusses amélioré",
+			"il/elle": "eût amélioré",
+			"nous": "eussions amélioré",
+			"vous": "eussiez amélioré",
+			"ils/elles": "eussent amélioré"
+		}
+	},
+	"participe": {
+		"présent": { "améliorant": "" },
+		"passé composé": { "ayant": "amélioré" },
+		"passé": {
+			"masc.sg.:": "amélioré",
+			"masc.pl.:": "améliorés",
+			"fém.sg.:": "améliorée",
+			"fém.pl.:": "améliorées"
+		}
+	},
+	"imperatif": {
+		"présent": { "améliore": "", "améliorons": "", "améliorez": "" },
+		"passé": { "aie": "amélioré", "ayons": "amélioré", "ayez": "amélioré" }
+	},
+	"infinitif": {
+		"présent": { "améliorer": "" },
+		"passé": { "avoir": "amélioré" }
+	}
+}

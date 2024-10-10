@@ -1,0 +1,145 @@
+{
+	"name": "marcher",
+	"definition": "fix a quota; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se contingenter/ne pas contingenter/ne pas se contingenter",
+	"indicatif": {
+		"présent": {
+			"je": "contingente",
+			"tu": "contingentes",
+			"il/elle": "contingente",
+			"nous": "contingentons",
+			"vous": "contingentez",
+			"ils/elles": "contingentent"
+		},
+		"imparfait": {
+			"je": "contingentais",
+			"tu": "contingentais",
+			"il/elle": "contingentait",
+			"nous": "contingentions",
+			"vous": "contingentiez",
+			"ils/elles": "contingentaient"
+		},
+		"futur": {
+			"je": "contingenterai",
+			"tu": "contingenteras",
+			"il/elle": "contingentera",
+			"nous": "contingenterons",
+			"vous": "contingenterez",
+			"ils/elles": "contingenteront"
+		},
+		"passé simple": {
+			"je": "contingentai",
+			"tu": "contingentas",
+			"il/elle": "contingenta",
+			"nous": "contingentâmes",
+			"vous": "contingentâtes",
+			"ils/elles": "contingentèrent"
+		},
+		"passé composé": {
+			"j'": "ai contingenté",
+			"tu": "as contingenté",
+			"il/elle": "a contingenté",
+			"nous": "avons contingenté",
+			"vous": "avez contingenté",
+			"ils/elles": "ont contingenté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais contingenté",
+			"tu": "avais contingenté",
+			"il/elle": "avait contingenté",
+			"nous": "avions contingenté",
+			"vous": "aviez contingenté",
+			"ils/elles": "avaient contingenté"
+		},
+		"passé antérieur": {
+			"j'": "eus contingenté",
+			"tu": "eus contingenté",
+			"il/elle": "eut contingenté",
+			"nous": "eûmes contingenté",
+			"vous": "eûtes contingenté",
+			"ils/elles": "eurent contingenté"
+		},
+		"futur antérieur": {
+			"j'": "aurai contingenté",
+			"tu": "auras contingenté",
+			"il/elle": "aura contingenté",
+			"nous": "aurons contingenté",
+			"vous": "aurez contingenté",
+			"ils/elles": "auront contingenté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous contingentiez",
+			"qu'il/elle": "contingente",
+			"qu'ils/elles": "contingentent"
+		},
+		"imparfait": {
+			"que": "vous contingentassiez",
+			"qu'il/elle": "contingentât",
+			"qu'ils/elles": "contingentassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse contingenté",
+			"que": "vous eussiez contingenté",
+			"qu'il/elle": "eût contingenté",
+			"qu'ils/elles": "eussent contingenté"
+		},
+		"passé": {
+			"j'": "aie contingenté",
+			"que": "vous ayez contingenté",
+			"qu'il/elle": "ait contingenté",
+			"qu'ils/elles": "aient contingenté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "contingenterais",
+			"tu": "contingenterais",
+			"il/elle": "contingenterait",
+			"nous": "contingenterions",
+			"vous": "contingenteriez",
+			"ils/elles": "contingenteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais contingenté",
+			"tu": "aurais contingenté",
+			"il/elle": "aurait contingenté",
+			"nous": "aurions contingenté",
+			"vous": "auriez contingenté",
+			"ils/elles": "auraient contingenté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse contingenté",
+			"tu": "eusses contingenté",
+			"il/elle": "eût contingenté",
+			"nous": "eussions contingenté",
+			"vous": "eussiez contingenté",
+			"ils/elles": "eussent contingenté"
+		}
+	},
+	"participe": {
+		"présent": { "contingentant": "" },
+		"passé composé": { "ayant": "contingenté" },
+		"passé": {
+			"masc.sg.:": "contingenté",
+			"masc.pl.:": "contingentés",
+			"fém.sg.:": "contingentée",
+			"fém.pl.:": "contingentées"
+		}
+	},
+	"imperatif": {
+		"présent": { "contingente": "", "contingentons": "", "contingentez": "" },
+		"passé": {
+			"aie": "contingenté",
+			"ayons": "contingenté",
+			"ayez": "contingenté"
+		}
+	},
+	"infinitif": {
+		"présent": { "contingenter": "" },
+		"passé": { "avoir": "contingenté" }
+	}
+}

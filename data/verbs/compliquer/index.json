@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "complicate; compound; confuse; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se compliquer/ne pas compliquer/ne pas se compliquer",
+	"indicatif": {
+		"présent": {
+			"je": "complique",
+			"tu": "compliques",
+			"il/elle": "complique",
+			"nous": "compliquons",
+			"vous": "compliquez",
+			"ils/elles": "compliquent"
+		},
+		"imparfait": {
+			"je": "compliquais",
+			"tu": "compliquais",
+			"il/elle": "compliquait",
+			"nous": "compliquions",
+			"vous": "compliquiez",
+			"ils/elles": "compliquaient"
+		},
+		"futur": {
+			"je": "compliquerai",
+			"tu": "compliqueras",
+			"il/elle": "compliquera",
+			"nous": "compliquerons",
+			"vous": "compliquerez",
+			"ils/elles": "compliqueront"
+		},
+		"passé simple": {
+			"je": "compliquai",
+			"tu": "compliquas",
+			"il/elle": "compliqua",
+			"nous": "compliquâmes",
+			"vous": "compliquâtes",
+			"ils/elles": "compliquèrent"
+		},
+		"passé composé": {
+			"j'": "ai compliqué",
+			"tu": "as compliqué",
+			"il/elle": "a compliqué",
+			"nous": "avons compliqué",
+			"vous": "avez compliqué",
+			"ils/elles": "ont compliqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais compliqué",
+			"tu": "avais compliqué",
+			"il/elle": "avait compliqué",
+			"nous": "avions compliqué",
+			"vous": "aviez compliqué",
+			"ils/elles": "avaient compliqué"
+		},
+		"passé antérieur": {
+			"j'": "eus compliqué",
+			"tu": "eus compliqué",
+			"il/elle": "eut compliqué",
+			"nous": "eûmes compliqué",
+			"vous": "eûtes compliqué",
+			"ils/elles": "eurent compliqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai compliqué",
+			"tu": "auras compliqué",
+			"il/elle": "aura compliqué",
+			"nous": "aurons compliqué",
+			"vous": "aurez compliqué",
+			"ils/elles": "auront compliqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous compliquiez",
+			"qu'il/elle": "complique",
+			"qu'ils/elles": "compliquent"
+		},
+		"imparfait": {
+			"que": "vous compliquassiez",
+			"qu'il/elle": "compliquât",
+			"qu'ils/elles": "compliquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse compliqué",
+			"que": "vous eussiez compliqué",
+			"qu'il/elle": "eût compliqué",
+			"qu'ils/elles": "eussent compliqué"
+		},
+		"passé": {
+			"j'": "aie compliqué",
+			"que": "vous ayez compliqué",
+			"qu'il/elle": "ait compliqué",
+			"qu'ils/elles": "aient compliqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "compliquerais",
+			"tu": "compliquerais",
+			"il/elle": "compliquerait",
+			"nous": "compliquerions",
+			"vous": "compliqueriez",
+			"ils/elles": "compliqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais compliqué",
+			"tu": "aurais compliqué",
+			"il/elle": "aurait compliqué",
+			"nous": "aurions compliqué",
+			"vous": "auriez compliqué",
+			"ils/elles": "auraient compliqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse compliqué",
+			"tu": "eusses compliqué",
+			"il/elle": "eût compliqué",
+			"nous": "eussions compliqué",
+			"vous": "eussiez compliqué",
+			"ils/elles": "eussent compliqué"
+		}
+	},
+	"participe": {
+		"présent": { "compliquant": "" },
+		"passé composé": { "ayant": "compliqué" },
+		"passé": {
+			"masc.sg.:": "compliqué",
+			"masc.pl.:": "compliqués",
+			"fém.sg.:": "compliquée",
+			"fém.pl.:": "compliquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "complique": "", "compliquons": "", "compliquez": "" },
+		"passé": { "aie": "compliqué", "ayons": "compliqué", "ayez": "compliqué" }
+	},
+	"infinitif": {
+		"présent": { "compliquer": "" },
+		"passé": { "avoir": "compliqué" }
+	}
+}

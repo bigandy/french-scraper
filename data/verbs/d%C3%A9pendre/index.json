@@ -1,0 +1,141 @@
+{
+	"name": "attendre",
+	"definition": "depend; depend upon; rely; ...",
+	"model": "attendre",
+	"auxiliary": "avoir",
+	"otherForms": "se dépendre/ne pas dépendre/ne pas se dépendre",
+	"indicatif": {
+		"présent": {
+			"je": "dépends",
+			"tu": "dépends",
+			"il/elle": "dépend",
+			"nous": "dépendons",
+			"vous": "dépendez",
+			"ils/elles": "dépendent"
+		},
+		"imparfait": {
+			"je": "dépendais",
+			"tu": "dépendais",
+			"il/elle": "dépendait",
+			"nous": "dépendions",
+			"vous": "dépendiez",
+			"ils/elles": "dépendaient"
+		},
+		"futur": {
+			"je": "dépendrai",
+			"tu": "dépendras",
+			"il/elle": "dépendra",
+			"nous": "dépendrons",
+			"vous": "dépendrez",
+			"ils/elles": "dépendront"
+		},
+		"passé simple": {
+			"je": "dépendis",
+			"tu": "dépendis",
+			"il/elle": "dépendit",
+			"nous": "dépendîmes",
+			"vous": "dépendîtes",
+			"ils/elles": "dépendirent"
+		},
+		"passé composé": {
+			"j'": "ai dépendu",
+			"tu": "as dépendu",
+			"il/elle": "a dépendu",
+			"nous": "avons dépendu",
+			"vous": "avez dépendu",
+			"ils/elles": "ont dépendu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais dépendu",
+			"tu": "avais dépendu",
+			"il/elle": "avait dépendu",
+			"nous": "avions dépendu",
+			"vous": "aviez dépendu",
+			"ils/elles": "avaient dépendu"
+		},
+		"passé antérieur": {
+			"j'": "eus dépendu",
+			"tu": "eus dépendu",
+			"il/elle": "eut dépendu",
+			"nous": "eûmes dépendu",
+			"vous": "eûtes dépendu",
+			"ils/elles": "eurent dépendu"
+		},
+		"futur antérieur": {
+			"j'": "aurai dépendu",
+			"tu": "auras dépendu",
+			"il/elle": "aura dépendu",
+			"nous": "aurons dépendu",
+			"vous": "aurez dépendu",
+			"ils/elles": "auront dépendu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous dépendiez",
+			"qu'il/elle": "dépende",
+			"qu'ils/elles": "dépendent"
+		},
+		"imparfait": {
+			"que": "vous dépendissiez",
+			"qu'il/elle": "dépendît",
+			"qu'ils/elles": "dépendissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse dépendu",
+			"que": "vous eussiez dépendu",
+			"qu'il/elle": "eût dépendu",
+			"qu'ils/elles": "eussent dépendu"
+		},
+		"passé": {
+			"j'": "aie dépendu",
+			"que": "vous ayez dépendu",
+			"qu'il/elle": "ait dépendu",
+			"qu'ils/elles": "aient dépendu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "dépendrais",
+			"tu": "dépendrais",
+			"il/elle": "dépendrait",
+			"nous": "dépendrions",
+			"vous": "dépendriez",
+			"ils/elles": "dépendraient"
+		},
+		"passé première forme": {
+			"j'": "aurais dépendu",
+			"tu": "aurais dépendu",
+			"il/elle": "aurait dépendu",
+			"nous": "aurions dépendu",
+			"vous": "auriez dépendu",
+			"ils/elles": "auraient dépendu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse dépendu",
+			"tu": "eusses dépendu",
+			"il/elle": "eût dépendu",
+			"nous": "eussions dépendu",
+			"vous": "eussiez dépendu",
+			"ils/elles": "eussent dépendu"
+		}
+	},
+	"participe": {
+		"présent": { "dépendant": "" },
+		"passé composé": { "ayant": "dépendu" },
+		"passé": {
+			"masc.sg.:": "dépendu",
+			"masc.pl.:": "dépendus",
+			"fém.sg.:": "dépendue",
+			"fém.pl.:": "dépendues"
+		}
+	},
+	"imperatif": {
+		"présent": { "dépends": "", "dépendons": "", "dépendez": "" },
+		"passé": { "aie": "dépendu", "ayons": "dépendu", "ayez": "dépendu" }
+	},
+	"infinitif": {
+		"présent": { "dépendre": "" },
+		"passé": { "avoir": "dépendu" }
+	}
+}

@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "issue; deliver; provide; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se délivrer/ne pas délivrer/ne pas se délivrer",
+	"indicatif": {
+		"présent": {
+			"je": "délivre",
+			"tu": "délivres",
+			"il/elle": "délivre",
+			"nous": "délivrons",
+			"vous": "délivrez",
+			"ils/elles": "délivrent"
+		},
+		"imparfait": {
+			"je": "délivrais",
+			"tu": "délivrais",
+			"il/elle": "délivrait",
+			"nous": "délivrions",
+			"vous": "délivriez",
+			"ils/elles": "délivraient"
+		},
+		"futur": {
+			"je": "délivrerai",
+			"tu": "délivreras",
+			"il/elle": "délivrera",
+			"nous": "délivrerons",
+			"vous": "délivrerez",
+			"ils/elles": "délivreront"
+		},
+		"passé simple": {
+			"je": "délivrai",
+			"tu": "délivras",
+			"il/elle": "délivra",
+			"nous": "délivrâmes",
+			"vous": "délivrâtes",
+			"ils/elles": "délivrèrent"
+		},
+		"passé composé": {
+			"j'": "ai délivré",
+			"tu": "as délivré",
+			"il/elle": "a délivré",
+			"nous": "avons délivré",
+			"vous": "avez délivré",
+			"ils/elles": "ont délivré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais délivré",
+			"tu": "avais délivré",
+			"il/elle": "avait délivré",
+			"nous": "avions délivré",
+			"vous": "aviez délivré",
+			"ils/elles": "avaient délivré"
+		},
+		"passé antérieur": {
+			"j'": "eus délivré",
+			"tu": "eus délivré",
+			"il/elle": "eut délivré",
+			"nous": "eûmes délivré",
+			"vous": "eûtes délivré",
+			"ils/elles": "eurent délivré"
+		},
+		"futur antérieur": {
+			"j'": "aurai délivré",
+			"tu": "auras délivré",
+			"il/elle": "aura délivré",
+			"nous": "aurons délivré",
+			"vous": "aurez délivré",
+			"ils/elles": "auront délivré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous délivriez",
+			"qu'il/elle": "délivre",
+			"qu'ils/elles": "délivrent"
+		},
+		"imparfait": {
+			"que": "vous délivrassiez",
+			"qu'il/elle": "délivrât",
+			"qu'ils/elles": "délivrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse délivré",
+			"que": "vous eussiez délivré",
+			"qu'il/elle": "eût délivré",
+			"qu'ils/elles": "eussent délivré"
+		},
+		"passé": {
+			"j'": "aie délivré",
+			"que": "vous ayez délivré",
+			"qu'il/elle": "ait délivré",
+			"qu'ils/elles": "aient délivré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "délivrerais",
+			"tu": "délivrerais",
+			"il/elle": "délivrerait",
+			"nous": "délivrerions",
+			"vous": "délivreriez",
+			"ils/elles": "délivreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais délivré",
+			"tu": "aurais délivré",
+			"il/elle": "aurait délivré",
+			"nous": "aurions délivré",
+			"vous": "auriez délivré",
+			"ils/elles": "auraient délivré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse délivré",
+			"tu": "eusses délivré",
+			"il/elle": "eût délivré",
+			"nous": "eussions délivré",
+			"vous": "eussiez délivré",
+			"ils/elles": "eussent délivré"
+		}
+	},
+	"participe": {
+		"présent": { "délivrant": "" },
+		"passé composé": { "ayant": "délivré" },
+		"passé": {
+			"masc.sg.:": "délivré",
+			"masc.pl.:": "délivrés",
+			"fém.sg.:": "délivrée",
+			"fém.pl.:": "délivrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "délivre": "", "délivrons": "", "délivrez": "" },
+		"passé": { "aie": "délivré", "ayons": "délivré", "ayez": "délivré" }
+	},
+	"infinitif": {
+		"présent": { "délivrer": "" },
+		"passé": { "avoir": "délivré" }
+	}
+}

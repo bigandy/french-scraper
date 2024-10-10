@@ -1,0 +1,141 @@
+{
+	"name": "courir",
+	"definition": "browse; go; travel; ...",
+	"model": "courir",
+	"auxiliary": "avoir",
+	"otherForms": "se parcourir/ne pas parcourir/ne pas se parcourir",
+	"indicatif": {
+		"présent": {
+			"je": "parcours",
+			"tu": "parcours",
+			"il/elle": "parcourt",
+			"nous": "parcourons",
+			"vous": "parcourez",
+			"ils/elles": "parcourent"
+		},
+		"imparfait": {
+			"je": "parcourais",
+			"tu": "parcourais",
+			"il/elle": "parcourait",
+			"nous": "parcourions",
+			"vous": "parcouriez",
+			"ils/elles": "parcouraient"
+		},
+		"futur": {
+			"je": "parcourrai",
+			"tu": "parcourras",
+			"il/elle": "parcourra",
+			"nous": "parcourrons",
+			"vous": "parcourrez",
+			"ils/elles": "parcourront"
+		},
+		"passé simple": {
+			"je": "parcourus",
+			"tu": "parcourus",
+			"il/elle": "parcourut",
+			"nous": "parcourûmes",
+			"vous": "parcourûtes",
+			"ils/elles": "parcoururent"
+		},
+		"passé composé": {
+			"j'": "ai parcouru",
+			"tu": "as parcouru",
+			"il/elle": "a parcouru",
+			"nous": "avons parcouru",
+			"vous": "avez parcouru",
+			"ils/elles": "ont parcouru"
+		},
+		"plus-que-parfait": {
+			"j'": "avais parcouru",
+			"tu": "avais parcouru",
+			"il/elle": "avait parcouru",
+			"nous": "avions parcouru",
+			"vous": "aviez parcouru",
+			"ils/elles": "avaient parcouru"
+		},
+		"passé antérieur": {
+			"j'": "eus parcouru",
+			"tu": "eus parcouru",
+			"il/elle": "eut parcouru",
+			"nous": "eûmes parcouru",
+			"vous": "eûtes parcouru",
+			"ils/elles": "eurent parcouru"
+		},
+		"futur antérieur": {
+			"j'": "aurai parcouru",
+			"tu": "auras parcouru",
+			"il/elle": "aura parcouru",
+			"nous": "aurons parcouru",
+			"vous": "aurez parcouru",
+			"ils/elles": "auront parcouru"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous parcouriez",
+			"qu'il/elle": "parcoure",
+			"qu'ils/elles": "parcourent"
+		},
+		"imparfait": {
+			"que": "vous parcourussiez",
+			"qu'il/elle": "parcourût",
+			"qu'ils/elles": "parcourussent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse parcouru",
+			"que": "vous eussiez parcouru",
+			"qu'il/elle": "eût parcouru",
+			"qu'ils/elles": "eussent parcouru"
+		},
+		"passé": {
+			"j'": "aie parcouru",
+			"que": "vous ayez parcouru",
+			"qu'il/elle": "ait parcouru",
+			"qu'ils/elles": "aient parcouru"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "parcourrais",
+			"tu": "parcourrais",
+			"il/elle": "parcourrait",
+			"nous": "parcourrions",
+			"vous": "parcourriez",
+			"ils/elles": "parcourraient"
+		},
+		"passé première forme": {
+			"j'": "aurais parcouru",
+			"tu": "aurais parcouru",
+			"il/elle": "aurait parcouru",
+			"nous": "aurions parcouru",
+			"vous": "auriez parcouru",
+			"ils/elles": "auraient parcouru"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse parcouru",
+			"tu": "eusses parcouru",
+			"il/elle": "eût parcouru",
+			"nous": "eussions parcouru",
+			"vous": "eussiez parcouru",
+			"ils/elles": "eussent parcouru"
+		}
+	},
+	"participe": {
+		"présent": { "parcourant": "" },
+		"passé composé": { "ayant": "parcouru" },
+		"passé": {
+			"masc.sg.:": "parcouru",
+			"masc.pl.:": "parcourus",
+			"fém.sg.:": "parcourue",
+			"fém.pl.:": "parcourues"
+		}
+	},
+	"imperatif": {
+		"présent": { "parcours": "", "parcourons": "", "parcourez": "" },
+		"passé": { "aie": "parcouru", "ayons": "parcouru", "ayez": "parcouru" }
+	},
+	"infinitif": {
+		"présent": { "parcourir": "" },
+		"passé": { "avoir": "parcouru" }
+	}
+}

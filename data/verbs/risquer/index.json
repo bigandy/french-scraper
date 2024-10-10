@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "risk; jeopardize; venture; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se risquer/ne pas risquer/ne pas se risquer",
+	"indicatif": {
+		"présent": {
+			"je": "risque",
+			"tu": "risques",
+			"il/elle": "risque",
+			"nous": "risquons",
+			"vous": "risquez",
+			"ils/elles": "risquent"
+		},
+		"imparfait": {
+			"je": "risquais",
+			"tu": "risquais",
+			"il/elle": "risquait",
+			"nous": "risquions",
+			"vous": "risquiez",
+			"ils/elles": "risquaient"
+		},
+		"futur": {
+			"je": "risquerai",
+			"tu": "risqueras",
+			"il/elle": "risquera",
+			"nous": "risquerons",
+			"vous": "risquerez",
+			"ils/elles": "risqueront"
+		},
+		"passé simple": {
+			"je": "risquai",
+			"tu": "risquas",
+			"il/elle": "risqua",
+			"nous": "risquâmes",
+			"vous": "risquâtes",
+			"ils/elles": "risquèrent"
+		},
+		"passé composé": {
+			"j'": "ai risqué",
+			"tu": "as risqué",
+			"il/elle": "a risqué",
+			"nous": "avons risqué",
+			"vous": "avez risqué",
+			"ils/elles": "ont risqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais risqué",
+			"tu": "avais risqué",
+			"il/elle": "avait risqué",
+			"nous": "avions risqué",
+			"vous": "aviez risqué",
+			"ils/elles": "avaient risqué"
+		},
+		"passé antérieur": {
+			"j'": "eus risqué",
+			"tu": "eus risqué",
+			"il/elle": "eut risqué",
+			"nous": "eûmes risqué",
+			"vous": "eûtes risqué",
+			"ils/elles": "eurent risqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai risqué",
+			"tu": "auras risqué",
+			"il/elle": "aura risqué",
+			"nous": "aurons risqué",
+			"vous": "aurez risqué",
+			"ils/elles": "auront risqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous risquiez",
+			"qu'il/elle": "risque",
+			"qu'ils/elles": "risquent"
+		},
+		"imparfait": {
+			"que": "vous risquassiez",
+			"qu'il/elle": "risquât",
+			"qu'ils/elles": "risquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse risqué",
+			"que": "vous eussiez risqué",
+			"qu'il/elle": "eût risqué",
+			"qu'ils/elles": "eussent risqué"
+		},
+		"passé": {
+			"j'": "aie risqué",
+			"que": "vous ayez risqué",
+			"qu'il/elle": "ait risqué",
+			"qu'ils/elles": "aient risqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "risquerais",
+			"tu": "risquerais",
+			"il/elle": "risquerait",
+			"nous": "risquerions",
+			"vous": "risqueriez",
+			"ils/elles": "risqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais risqué",
+			"tu": "aurais risqué",
+			"il/elle": "aurait risqué",
+			"nous": "aurions risqué",
+			"vous": "auriez risqué",
+			"ils/elles": "auraient risqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse risqué",
+			"tu": "eusses risqué",
+			"il/elle": "eût risqué",
+			"nous": "eussions risqué",
+			"vous": "eussiez risqué",
+			"ils/elles": "eussent risqué"
+		}
+	},
+	"participe": {
+		"présent": { "risquant": "" },
+		"passé composé": { "ayant": "risqué" },
+		"passé": {
+			"masc.sg.:": "risqué",
+			"masc.pl.:": "risqués",
+			"fém.sg.:": "risquée",
+			"fém.pl.:": "risquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "risque": "", "risquons": "", "risquez": "" },
+		"passé": { "aie": "risqué", "ayons": "risqué", "ayez": "risqué" }
+	},
+	"infinitif": { "présent": { "risquer": "" }, "passé": { "avoir": "risqué" } }
+}

@@ -1,0 +1,159 @@
+{
+	"name": "tenir",
+	"definition": "remember; recall; remembrance; ...",
+	"model": "tenir",
+	"auxiliary": "être",
+	"otherForms": "souvenir/ne pas souvenir/ne pas se souvenir",
+	"indicatif": {
+		"présent": {
+			"je": "me souviens",
+			"tu": "te souviens",
+			"il/elle": "se souvient",
+			"nous": "nous souvenons",
+			"vous": "vous souvenez",
+			"ils/elles": "se souviennent"
+		},
+		"imparfait": {
+			"je": "me souvenais",
+			"tu": "te souvenais",
+			"il/elle": "se souvenait",
+			"nous": "nous souvenions",
+			"vous": "vous souveniez",
+			"ils/elles": "se souvenaient"
+		},
+		"futur": {
+			"je": "me souviendrai",
+			"tu": "te souviendras",
+			"il/elle": "se souviendra",
+			"nous": "nous souviendrons",
+			"vous": "vous souviendrez",
+			"ils/elles": "se souviendront"
+		},
+		"passé simple": {
+			"je": "me souvins",
+			"tu": "te souvins",
+			"il/elle": "se souvint",
+			"nous": "nous souvînmes",
+			"vous": "vous souvîntes",
+			"ils/elles": "se souvinrent"
+		},
+		"passé composé": {
+			"je": "me suis souvenu",
+			"tu": "t'es souvenu",
+			"il": "s'est souvenu",
+			"elle": "s'est souvenue",
+			"nous": "nous sommes souvenus",
+			"vous": "vous êtes souvenus",
+			"ils": "se sont souvenus",
+			"elles": "se sont souvenues"
+		},
+		"plus-que-parfait": {
+			"je": "m'étais souvenu",
+			"tu": "t'étais souvenu",
+			"il": "s'était souvenu",
+			"elle": "s'était souvenue",
+			"nous": "nous étions souvenus",
+			"vous": "vous étiez souvenus",
+			"ils": "s'étaient souvenus",
+			"elles": "s'étaient souvenues"
+		},
+		"passé antérieur": {
+			"je": "me fus souvenu",
+			"tu": "te fus souvenu",
+			"il": "se fut souvenu",
+			"elle": "se fut souvenue",
+			"nous": "nous fûmes souvenus",
+			"vous": "vous fûtes souvenus",
+			"ils": "se furent souvenus",
+			"elles": "se furent souvenues"
+		},
+		"futur antérieur": {
+			"je": "me serai souvenu",
+			"tu": "te seras souvenu",
+			"il": "se sera souvenu",
+			"elle": "se sera souvenue",
+			"nous": "nous serons souvenus",
+			"vous": "vous serez souvenus",
+			"ils": "se seront souvenus",
+			"elles": "se seront souvenues"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous vous souveniez",
+			"qu'il/elle": "se souvienne",
+			"qu'ils/elles": "se souviennent"
+		},
+		"imparfait": {
+			"que": "vous vous souvinssiez",
+			"qu'il/elle": "se souvînt",
+			"qu'ils/elles": "se souvinssent"
+		},
+		"plus-que-parfait": {
+			"que": "vous vous fussiez souvenus",
+			"qu'il": "se fût souvenu",
+			"qu'elle": "se fût souvenue",
+			"qu'ils": "se fussent souvenus",
+			"qu'elles": "se fussent souvenues"
+		},
+		"passé": {
+			"que": "vous vous soyez souvenus",
+			"qu'il": "se soit souvenu",
+			"qu'elle": "se soit souvenue",
+			"qu'ils": "se soient souvenus",
+			"qu'elles": "se soient souvenues"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "me souviendrais",
+			"tu": "te souviendrais",
+			"il/elle": "se souviendrait",
+			"nous": "nous souviendrions",
+			"vous": "vous souviendriez",
+			"ils/elles": "se souviendraient"
+		},
+		"passé première forme": {
+			"je": "me serais souvenu",
+			"tu": "te serais souvenu",
+			"il": "se serait souvenu",
+			"elle": "se serait souvenue",
+			"nous": "nous serions souvenus",
+			"vous": "vous seriez souvenus",
+			"ils": "se seraient souvenus",
+			"elles": "se seraient souvenues"
+		},
+		"passé deuxième forme": {
+			"je": "me fusse souvenu",
+			"tu": "te fusses souvenu",
+			"il": "se fût souvenu",
+			"elle": "se fût souvenue",
+			"nous": "nous fussions souvenus",
+			"vous": "vous fussiez souvenus",
+			"ils": "se fussent souvenus",
+			"elles": "se fussent souvenues"
+		}
+	},
+	"participe": {
+		"présent": { "se": "souvenant" },
+		"passé composé": { "s'étant": "souvenue" },
+		"passé": {
+			"masc.sg.:": "souvenu",
+			"masc.pl.:": "souvenus",
+			"fém.sg.:": "souvenue",
+			"fém.pl.:": "souvenues"
+		}
+	},
+	"imperatif": {
+		"présent": {
+			"souviens-toi": "",
+			"souvenons-nous": "",
+			"souvenez-vous": ""
+		},
+		"passé": {}
+	},
+	"infinitif": {
+		"présent": { "se": "souvenir" },
+		"passé": { "s'être": "souvenu" }
+	}
+}

@@ -1,0 +1,141 @@
+{
+	"name": "cuire",
+	"definition": "build; construct; create; ...",
+	"model": "cuire",
+	"auxiliary": "avoir",
+	"otherForms": "se construire/ne pas construire/ne pas se construire",
+	"indicatif": {
+		"présent": {
+			"je": "construis",
+			"tu": "construis",
+			"il/elle": "construit",
+			"nous": "construisons",
+			"vous": "construisez",
+			"ils/elles": "construisent"
+		},
+		"imparfait": {
+			"je": "construisais",
+			"tu": "construisais",
+			"il/elle": "construisait",
+			"nous": "construisions",
+			"vous": "construisiez",
+			"ils/elles": "construisaient"
+		},
+		"futur": {
+			"je": "construirai",
+			"tu": "construiras",
+			"il/elle": "construira",
+			"nous": "construirons",
+			"vous": "construirez",
+			"ils/elles": "construiront"
+		},
+		"passé simple": {
+			"je": "construisis",
+			"tu": "construisis",
+			"il/elle": "construisit",
+			"nous": "construisîmes",
+			"vous": "construisîtes",
+			"ils/elles": "construisirent"
+		},
+		"passé composé": {
+			"j'": "ai construit",
+			"tu": "as construit",
+			"il/elle": "a construit",
+			"nous": "avons construit",
+			"vous": "avez construit",
+			"ils/elles": "ont construit"
+		},
+		"plus-que-parfait": {
+			"j'": "avais construit",
+			"tu": "avais construit",
+			"il/elle": "avait construit",
+			"nous": "avions construit",
+			"vous": "aviez construit",
+			"ils/elles": "avaient construit"
+		},
+		"passé antérieur": {
+			"j'": "eus construit",
+			"tu": "eus construit",
+			"il/elle": "eut construit",
+			"nous": "eûmes construit",
+			"vous": "eûtes construit",
+			"ils/elles": "eurent construit"
+		},
+		"futur antérieur": {
+			"j'": "aurai construit",
+			"tu": "auras construit",
+			"il/elle": "aura construit",
+			"nous": "aurons construit",
+			"vous": "aurez construit",
+			"ils/elles": "auront construit"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous construisiez",
+			"qu'il/elle": "construise",
+			"qu'ils/elles": "construisent"
+		},
+		"imparfait": {
+			"que": "vous construisissiez",
+			"qu'il/elle": "construisît",
+			"qu'ils/elles": "construisissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse construit",
+			"que": "vous eussiez construit",
+			"qu'il/elle": "eût construit",
+			"qu'ils/elles": "eussent construit"
+		},
+		"passé": {
+			"j'": "aie construit",
+			"que": "vous ayez construit",
+			"qu'il/elle": "ait construit",
+			"qu'ils/elles": "aient construit"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "construirais",
+			"tu": "construirais",
+			"il/elle": "construirait",
+			"nous": "construirions",
+			"vous": "construiriez",
+			"ils/elles": "construiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais construit",
+			"tu": "aurais construit",
+			"il/elle": "aurait construit",
+			"nous": "aurions construit",
+			"vous": "auriez construit",
+			"ils/elles": "auraient construit"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse construit",
+			"tu": "eusses construit",
+			"il/elle": "eût construit",
+			"nous": "eussions construit",
+			"vous": "eussiez construit",
+			"ils/elles": "eussent construit"
+		}
+	},
+	"participe": {
+		"présent": { "construisant": "" },
+		"passé composé": { "ayant": "construit" },
+		"passé": {
+			"masc.sg.:": "construit",
+			"masc.pl.:": "construits",
+			"fém.sg.:": "construite",
+			"fém.pl.:": "construites"
+		}
+	},
+	"imperatif": {
+		"présent": { "construis": "", "construisons": "", "construisez": "" },
+		"passé": { "aie": "construit", "ayons": "construit", "ayez": "construit" }
+	},
+	"infinitif": {
+		"présent": { "construire": "" },
+		"passé": { "avoir": "construit" }
+	}
+}

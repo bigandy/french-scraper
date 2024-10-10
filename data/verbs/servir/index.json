@@ -1,0 +1,138 @@
+{
+	"name": "servir",
+	"definition": "serve; be used; ...",
+	"model": "servir",
+	"auxiliary": "avoir",
+	"otherForms": "se servir/ne pas servir/ne pas se servir",
+	"indicatif": {
+		"présent": {
+			"je": "sers",
+			"tu": "sers",
+			"il/elle": "sert",
+			"nous": "servons",
+			"vous": "servez",
+			"ils/elles": "servent"
+		},
+		"imparfait": {
+			"je": "servais",
+			"tu": "servais",
+			"il/elle": "servait",
+			"nous": "servions",
+			"vous": "serviez",
+			"ils/elles": "servaient"
+		},
+		"futur": {
+			"je": "servirai",
+			"tu": "serviras",
+			"il/elle": "servira",
+			"nous": "servirons",
+			"vous": "servirez",
+			"ils/elles": "serviront"
+		},
+		"passé simple": {
+			"je": "servis",
+			"tu": "servis",
+			"il/elle": "servit",
+			"nous": "servîmes",
+			"vous": "servîtes",
+			"ils/elles": "servirent"
+		},
+		"passé composé": {
+			"j'": "ai servi",
+			"tu": "as servi",
+			"il/elle": "a servi",
+			"nous": "avons servi",
+			"vous": "avez servi",
+			"ils/elles": "ont servi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais servi",
+			"tu": "avais servi",
+			"il/elle": "avait servi",
+			"nous": "avions servi",
+			"vous": "aviez servi",
+			"ils/elles": "avaient servi"
+		},
+		"passé antérieur": {
+			"j'": "eus servi",
+			"tu": "eus servi",
+			"il/elle": "eut servi",
+			"nous": "eûmes servi",
+			"vous": "eûtes servi",
+			"ils/elles": "eurent servi"
+		},
+		"futur antérieur": {
+			"j'": "aurai servi",
+			"tu": "auras servi",
+			"il/elle": "aura servi",
+			"nous": "aurons servi",
+			"vous": "aurez servi",
+			"ils/elles": "auront servi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous serviez",
+			"qu'il/elle": "serve",
+			"qu'ils/elles": "servent"
+		},
+		"imparfait": {
+			"que": "vous servissiez",
+			"qu'il/elle": "servît",
+			"qu'ils/elles": "servissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse servi",
+			"que": "vous eussiez servi",
+			"qu'il/elle": "eût servi",
+			"qu'ils/elles": "eussent servi"
+		},
+		"passé": {
+			"j'": "aie servi",
+			"que": "vous ayez servi",
+			"qu'il/elle": "ait servi",
+			"qu'ils/elles": "aient servi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "servirais",
+			"tu": "servirais",
+			"il/elle": "servirait",
+			"nous": "servirions",
+			"vous": "serviriez",
+			"ils/elles": "serviraient"
+		},
+		"passé première forme": {
+			"j'": "aurais servi",
+			"tu": "aurais servi",
+			"il/elle": "aurait servi",
+			"nous": "aurions servi",
+			"vous": "auriez servi",
+			"ils/elles": "auraient servi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse servi",
+			"tu": "eusses servi",
+			"il/elle": "eût servi",
+			"nous": "eussions servi",
+			"vous": "eussiez servi",
+			"ils/elles": "eussent servi"
+		}
+	},
+	"participe": {
+		"présent": { "servant": "" },
+		"passé composé": { "ayant": "servi" },
+		"passé": {
+			"masc.sg.:": "servi",
+			"masc.pl.:": "servis",
+			"fém.sg.:": "servie",
+			"fém.pl.:": "servies"
+		}
+	},
+	"imperatif": {
+		"présent": { "sers": "", "servons": "", "servez": "" },
+		"passé": { "aie": "servi", "ayons": "servi", "ayez": "servi" }
+	},
+	"infinitif": { "présent": { "servir": "" }, "passé": { "avoir": "servi" } }
+}

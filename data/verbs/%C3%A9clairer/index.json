@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "illuminate; inform; light; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'éclairer/ne pas éclairer/ne pas s'éclairer",
+	"indicatif": {
+		"présent": {
+			"j'": "éclaire",
+			"tu": "éclaires",
+			"il/elle": "éclaire",
+			"nous": "éclairons",
+			"vous": "éclairez",
+			"ils/elles": "éclairent"
+		},
+		"imparfait": {
+			"j'": "éclairais",
+			"tu": "éclairais",
+			"il/elle": "éclairait",
+			"nous": "éclairions",
+			"vous": "éclairiez",
+			"ils/elles": "éclairaient"
+		},
+		"futur": {
+			"j'": "éclairerai",
+			"tu": "éclaireras",
+			"il/elle": "éclairera",
+			"nous": "éclairerons",
+			"vous": "éclairerez",
+			"ils/elles": "éclaireront"
+		},
+		"passé simple": {
+			"j'": "éclairai",
+			"tu": "éclairas",
+			"il/elle": "éclaira",
+			"nous": "éclairâmes",
+			"vous": "éclairâtes",
+			"ils/elles": "éclairèrent"
+		},
+		"passé composé": {
+			"j'": "ai éclairé",
+			"tu": "as éclairé",
+			"il/elle": "a éclairé",
+			"nous": "avons éclairé",
+			"vous": "avez éclairé",
+			"ils/elles": "ont éclairé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais éclairé",
+			"tu": "avais éclairé",
+			"il/elle": "avait éclairé",
+			"nous": "avions éclairé",
+			"vous": "aviez éclairé",
+			"ils/elles": "avaient éclairé"
+		},
+		"passé antérieur": {
+			"j'": "eus éclairé",
+			"tu": "eus éclairé",
+			"il/elle": "eut éclairé",
+			"nous": "eûmes éclairé",
+			"vous": "eûtes éclairé",
+			"ils/elles": "eurent éclairé"
+		},
+		"futur antérieur": {
+			"j'": "aurai éclairé",
+			"tu": "auras éclairé",
+			"il/elle": "aura éclairé",
+			"nous": "aurons éclairé",
+			"vous": "aurez éclairé",
+			"ils/elles": "auront éclairé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "éclaire",
+			"que": "vous éclairiez",
+			"qu'il/elle": "éclaire",
+			"qu'ils/elles": "éclairent"
+		},
+		"imparfait": {
+			"j'": "éclairasse",
+			"que": "vous éclairassiez",
+			"qu'il/elle": "éclairât",
+			"qu'ils/elles": "éclairassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse éclairé",
+			"que": "vous eussiez éclairé",
+			"qu'il/elle": "eût éclairé",
+			"qu'ils/elles": "eussent éclairé"
+		},
+		"passé": {
+			"j'": "aie éclairé",
+			"que": "vous ayez éclairé",
+			"qu'il/elle": "ait éclairé",
+			"qu'ils/elles": "aient éclairé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "éclairerais",
+			"tu": "éclairerais",
+			"il/elle": "éclairerait",
+			"nous": "éclairerions",
+			"vous": "éclaireriez",
+			"ils/elles": "éclaireraient"
+		},
+		"passé première forme": {
+			"j'": "aurais éclairé",
+			"tu": "aurais éclairé",
+			"il/elle": "aurait éclairé",
+			"nous": "aurions éclairé",
+			"vous": "auriez éclairé",
+			"ils/elles": "auraient éclairé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse éclairé",
+			"tu": "eusses éclairé",
+			"il/elle": "eût éclairé",
+			"nous": "eussions éclairé",
+			"vous": "eussiez éclairé",
+			"ils/elles": "eussent éclairé"
+		}
+	},
+	"participe": {
+		"présent": { "éclairant": "" },
+		"passé composé": { "ayant": "éclairé" },
+		"passé": {
+			"masc.sg.:": "éclairé",
+			"masc.pl.:": "éclairés",
+			"fém.sg.:": "éclairée",
+			"fém.pl.:": "éclairées"
+		}
+	},
+	"imperatif": {
+		"présent": { "éclaire": "", "éclairons": "", "éclairez": "" },
+		"passé": { "aie": "éclairé", "ayons": "éclairé", "ayez": "éclairé" }
+	},
+	"infinitif": {
+		"présent": { "éclairer": "" },
+		"passé": { "avoir": "éclairé" }
+	}
+}

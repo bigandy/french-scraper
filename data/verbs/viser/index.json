@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "aim; target; focus; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se viser/ne pas viser/ne pas se viser",
+	"indicatif": {
+		"présent": {
+			"je": "vise",
+			"tu": "vises",
+			"il/elle": "vise",
+			"nous": "visons",
+			"vous": "visez",
+			"ils/elles": "visent"
+		},
+		"imparfait": {
+			"je": "visais",
+			"tu": "visais",
+			"il/elle": "visait",
+			"nous": "visions",
+			"vous": "visiez",
+			"ils/elles": "visaient"
+		},
+		"futur": {
+			"je": "viserai",
+			"tu": "viseras",
+			"il/elle": "visera",
+			"nous": "viserons",
+			"vous": "viserez",
+			"ils/elles": "viseront"
+		},
+		"passé simple": {
+			"je": "visai",
+			"tu": "visas",
+			"il/elle": "visa",
+			"nous": "visâmes",
+			"vous": "visâtes",
+			"ils/elles": "visèrent"
+		},
+		"passé composé": {
+			"j'": "ai visé",
+			"tu": "as visé",
+			"il/elle": "a visé",
+			"nous": "avons visé",
+			"vous": "avez visé",
+			"ils/elles": "ont visé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais visé",
+			"tu": "avais visé",
+			"il/elle": "avait visé",
+			"nous": "avions visé",
+			"vous": "aviez visé",
+			"ils/elles": "avaient visé"
+		},
+		"passé antérieur": {
+			"j'": "eus visé",
+			"tu": "eus visé",
+			"il/elle": "eut visé",
+			"nous": "eûmes visé",
+			"vous": "eûtes visé",
+			"ils/elles": "eurent visé"
+		},
+		"futur antérieur": {
+			"j'": "aurai visé",
+			"tu": "auras visé",
+			"il/elle": "aura visé",
+			"nous": "aurons visé",
+			"vous": "aurez visé",
+			"ils/elles": "auront visé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous visiez",
+			"qu'il/elle": "vise",
+			"qu'ils/elles": "visent"
+		},
+		"imparfait": {
+			"que": "vous visassiez",
+			"qu'il/elle": "visât",
+			"qu'ils/elles": "visassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse visé",
+			"que": "vous eussiez visé",
+			"qu'il/elle": "eût visé",
+			"qu'ils/elles": "eussent visé"
+		},
+		"passé": {
+			"j'": "aie visé",
+			"que": "vous ayez visé",
+			"qu'il/elle": "ait visé",
+			"qu'ils/elles": "aient visé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "viserais",
+			"tu": "viserais",
+			"il/elle": "viserait",
+			"nous": "viserions",
+			"vous": "viseriez",
+			"ils/elles": "viseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais visé",
+			"tu": "aurais visé",
+			"il/elle": "aurait visé",
+			"nous": "aurions visé",
+			"vous": "auriez visé",
+			"ils/elles": "auraient visé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse visé",
+			"tu": "eusses visé",
+			"il/elle": "eût visé",
+			"nous": "eussions visé",
+			"vous": "eussiez visé",
+			"ils/elles": "eussent visé"
+		}
+	},
+	"participe": {
+		"présent": { "visant": "" },
+		"passé composé": { "ayant": "visé" },
+		"passé": {
+			"masc.sg.:": "visé",
+			"masc.pl.:": "visés",
+			"fém.sg.:": "visée",
+			"fém.pl.:": "visées"
+		}
+	},
+	"imperatif": {
+		"présent": { "vise": "", "visons": "", "visez": "" },
+		"passé": { "aie": "visé", "ayons": "visé", "ayez": "visé" }
+	},
+	"infinitif": { "présent": { "viser": "" }, "passé": { "avoir": "visé" } }
+}

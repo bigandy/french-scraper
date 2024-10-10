@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "investigate; inquire; enquire; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas enquêter",
+	"indicatif": {
+		"présent": {
+			"j'": "enquête",
+			"tu": "enquêtes",
+			"il/elle": "enquête",
+			"nous": "enquêtons",
+			"vous": "enquêtez",
+			"ils/elles": "enquêtent"
+		},
+		"imparfait": {
+			"j'": "enquêtais",
+			"tu": "enquêtais",
+			"il/elle": "enquêtait",
+			"nous": "enquêtions",
+			"vous": "enquêtiez",
+			"ils/elles": "enquêtaient"
+		},
+		"futur": {
+			"j'": "enquêterai",
+			"tu": "enquêteras",
+			"il/elle": "enquêtera",
+			"nous": "enquêterons",
+			"vous": "enquêterez",
+			"ils/elles": "enquêteront"
+		},
+		"passé simple": {
+			"j'": "enquêtai",
+			"tu": "enquêtas",
+			"il/elle": "enquêta",
+			"nous": "enquêtâmes",
+			"vous": "enquêtâtes",
+			"ils/elles": "enquêtèrent"
+		},
+		"passé composé": {
+			"j'": "ai enquêté",
+			"tu": "as enquêté",
+			"il/elle": "a enquêté",
+			"nous": "avons enquêté",
+			"vous": "avez enquêté",
+			"ils/elles": "ont enquêté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais enquêté",
+			"tu": "avais enquêté",
+			"il/elle": "avait enquêté",
+			"nous": "avions enquêté",
+			"vous": "aviez enquêté",
+			"ils/elles": "avaient enquêté"
+		},
+		"passé antérieur": {
+			"j'": "eus enquêté",
+			"tu": "eus enquêté",
+			"il/elle": "eut enquêté",
+			"nous": "eûmes enquêté",
+			"vous": "eûtes enquêté",
+			"ils/elles": "eurent enquêté"
+		},
+		"futur antérieur": {
+			"j'": "aurai enquêté",
+			"tu": "auras enquêté",
+			"il/elle": "aura enquêté",
+			"nous": "aurons enquêté",
+			"vous": "aurez enquêté",
+			"ils/elles": "auront enquêté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "enquête",
+			"que": "vous enquêtiez",
+			"qu'il/elle": "enquête",
+			"qu'ils/elles": "enquêtent"
+		},
+		"imparfait": {
+			"j'": "enquêtasse",
+			"que": "vous enquêtassiez",
+			"qu'il/elle": "enquêtât",
+			"qu'ils/elles": "enquêtassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse enquêté",
+			"que": "vous eussiez enquêté",
+			"qu'il/elle": "eût enquêté",
+			"qu'ils/elles": "eussent enquêté"
+		},
+		"passé": {
+			"j'": "aie enquêté",
+			"que": "vous ayez enquêté",
+			"qu'il/elle": "ait enquêté",
+			"qu'ils/elles": "aient enquêté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "enquêterais",
+			"tu": "enquêterais",
+			"il/elle": "enquêterait",
+			"nous": "enquêterions",
+			"vous": "enquêteriez",
+			"ils/elles": "enquêteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais enquêté",
+			"tu": "aurais enquêté",
+			"il/elle": "aurait enquêté",
+			"nous": "aurions enquêté",
+			"vous": "auriez enquêté",
+			"ils/elles": "auraient enquêté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse enquêté",
+			"tu": "eusses enquêté",
+			"il/elle": "eût enquêté",
+			"nous": "eussions enquêté",
+			"vous": "eussiez enquêté",
+			"ils/elles": "eussent enquêté"
+		}
+	},
+	"participe": {
+		"présent": { "enquêtant": "" },
+		"passé composé": { "ayant": "enquêté" },
+		"passé": {
+			"masc.sg.:": "enquêté",
+			"masc.pl.:": "enquêtés",
+			"fém.sg.:": "enquêtée",
+			"fém.pl.:": "enquêtées"
+		}
+	},
+	"imperatif": {
+		"présent": { "enquête": "", "enquêtons": "", "enquêtez": "" },
+		"passé": { "aie": "enquêté", "ayons": "enquêté", "ayez": "enquêté" }
+	},
+	"infinitif": {
+		"présent": { "enquêter": "" },
+		"passé": { "avoir": "enquêté" }
+	}
+}

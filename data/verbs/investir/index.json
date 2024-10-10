@@ -1,0 +1,143 @@
+{
+	"name": "finir",
+	"definition": "invest; put; spend; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "s'investir/ne pas investir/ne pas s'investir",
+	"indicatif": {
+		"présent": {
+			"j'": "investis",
+			"tu": "investis",
+			"il/elle": "investit",
+			"nous": "investissons",
+			"vous": "investissez",
+			"ils/elles": "investissent"
+		},
+		"imparfait": {
+			"j'": "investissais",
+			"tu": "investissais",
+			"il/elle": "investissait",
+			"nous": "investissions",
+			"vous": "investissiez",
+			"ils/elles": "investissaient"
+		},
+		"futur": {
+			"j'": "investirai",
+			"tu": "investiras",
+			"il/elle": "investira",
+			"nous": "investirons",
+			"vous": "investirez",
+			"ils/elles": "investiront"
+		},
+		"passé simple": {
+			"j'": "investis",
+			"tu": "investis",
+			"il/elle": "investit",
+			"nous": "investîmes",
+			"vous": "investîtes",
+			"ils/elles": "investirent"
+		},
+		"passé composé": {
+			"j'": "ai investi",
+			"tu": "as investi",
+			"il/elle": "a investi",
+			"nous": "avons investi",
+			"vous": "avez investi",
+			"ils/elles": "ont investi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais investi",
+			"tu": "avais investi",
+			"il/elle": "avait investi",
+			"nous": "avions investi",
+			"vous": "aviez investi",
+			"ils/elles": "avaient investi"
+		},
+		"passé antérieur": {
+			"j'": "eus investi",
+			"tu": "eus investi",
+			"il/elle": "eut investi",
+			"nous": "eûmes investi",
+			"vous": "eûtes investi",
+			"ils/elles": "eurent investi"
+		},
+		"futur antérieur": {
+			"j'": "aurai investi",
+			"tu": "auras investi",
+			"il/elle": "aura investi",
+			"nous": "aurons investi",
+			"vous": "aurez investi",
+			"ils/elles": "auront investi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "investisse",
+			"que": "vous investissiez",
+			"qu'il/elle": "investisse",
+			"qu'ils/elles": "investissent"
+		},
+		"imparfait": {
+			"j'": "investisse",
+			"que": "vous investissiez",
+			"qu'il/elle": "investît",
+			"qu'ils/elles": "investissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse investi",
+			"que": "vous eussiez investi",
+			"qu'il/elle": "eût investi",
+			"qu'ils/elles": "eussent investi"
+		},
+		"passé": {
+			"j'": "aie investi",
+			"que": "vous ayez investi",
+			"qu'il/elle": "ait investi",
+			"qu'ils/elles": "aient investi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "investirais",
+			"tu": "investirais",
+			"il/elle": "investirait",
+			"nous": "investirions",
+			"vous": "investiriez",
+			"ils/elles": "investiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais investi",
+			"tu": "aurais investi",
+			"il/elle": "aurait investi",
+			"nous": "aurions investi",
+			"vous": "auriez investi",
+			"ils/elles": "auraient investi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse investi",
+			"tu": "eusses investi",
+			"il/elle": "eût investi",
+			"nous": "eussions investi",
+			"vous": "eussiez investi",
+			"ils/elles": "eussent investi"
+		}
+	},
+	"participe": {
+		"présent": { "investissant": "" },
+		"passé composé": { "ayant": "investi" },
+		"passé": {
+			"masc.sg.:": "investi",
+			"masc.pl.:": "investis",
+			"fém.sg.:": "investie",
+			"fém.pl.:": "investies"
+		}
+	},
+	"imperatif": {
+		"présent": { "investis": "", "investissons": "", "investissez": "" },
+		"passé": { "aie": "investi", "ayons": "investi", "ayez": "investi" }
+	},
+	"infinitif": {
+		"présent": { "investir": "" },
+		"passé": { "avoir": "investi" }
+	}
+}

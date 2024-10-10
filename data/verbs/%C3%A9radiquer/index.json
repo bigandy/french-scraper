@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "eradicate; eliminate; end; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'éradiquer/ne pas éradiquer/ne pas s'éradiquer",
+	"indicatif": {
+		"présent": {
+			"j'": "éradique",
+			"tu": "éradiques",
+			"il/elle": "éradique",
+			"nous": "éradiquons",
+			"vous": "éradiquez",
+			"ils/elles": "éradiquent"
+		},
+		"imparfait": {
+			"j'": "éradiquais",
+			"tu": "éradiquais",
+			"il/elle": "éradiquait",
+			"nous": "éradiquions",
+			"vous": "éradiquiez",
+			"ils/elles": "éradiquaient"
+		},
+		"futur": {
+			"j'": "éradiquerai",
+			"tu": "éradiqueras",
+			"il/elle": "éradiquera",
+			"nous": "éradiquerons",
+			"vous": "éradiquerez",
+			"ils/elles": "éradiqueront"
+		},
+		"passé simple": {
+			"j'": "éradiquai",
+			"tu": "éradiquas",
+			"il/elle": "éradiqua",
+			"nous": "éradiquâmes",
+			"vous": "éradiquâtes",
+			"ils/elles": "éradiquèrent"
+		},
+		"passé composé": {
+			"j'": "ai éradiqué",
+			"tu": "as éradiqué",
+			"il/elle": "a éradiqué",
+			"nous": "avons éradiqué",
+			"vous": "avez éradiqué",
+			"ils/elles": "ont éradiqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais éradiqué",
+			"tu": "avais éradiqué",
+			"il/elle": "avait éradiqué",
+			"nous": "avions éradiqué",
+			"vous": "aviez éradiqué",
+			"ils/elles": "avaient éradiqué"
+		},
+		"passé antérieur": {
+			"j'": "eus éradiqué",
+			"tu": "eus éradiqué",
+			"il/elle": "eut éradiqué",
+			"nous": "eûmes éradiqué",
+			"vous": "eûtes éradiqué",
+			"ils/elles": "eurent éradiqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai éradiqué",
+			"tu": "auras éradiqué",
+			"il/elle": "aura éradiqué",
+			"nous": "aurons éradiqué",
+			"vous": "aurez éradiqué",
+			"ils/elles": "auront éradiqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "éradique",
+			"que": "vous éradiquiez",
+			"qu'il/elle": "éradique",
+			"qu'ils/elles": "éradiquent"
+		},
+		"imparfait": {
+			"j'": "éradiquasse",
+			"que": "vous éradiquassiez",
+			"qu'il/elle": "éradiquât",
+			"qu'ils/elles": "éradiquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse éradiqué",
+			"que": "vous eussiez éradiqué",
+			"qu'il/elle": "eût éradiqué",
+			"qu'ils/elles": "eussent éradiqué"
+		},
+		"passé": {
+			"j'": "aie éradiqué",
+			"que": "vous ayez éradiqué",
+			"qu'il/elle": "ait éradiqué",
+			"qu'ils/elles": "aient éradiqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "éradiquerais",
+			"tu": "éradiquerais",
+			"il/elle": "éradiquerait",
+			"nous": "éradiquerions",
+			"vous": "éradiqueriez",
+			"ils/elles": "éradiqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais éradiqué",
+			"tu": "aurais éradiqué",
+			"il/elle": "aurait éradiqué",
+			"nous": "aurions éradiqué",
+			"vous": "auriez éradiqué",
+			"ils/elles": "auraient éradiqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse éradiqué",
+			"tu": "eusses éradiqué",
+			"il/elle": "eût éradiqué",
+			"nous": "eussions éradiqué",
+			"vous": "eussiez éradiqué",
+			"ils/elles": "eussent éradiqué"
+		}
+	},
+	"participe": {
+		"présent": { "éradiquant": "" },
+		"passé composé": { "ayant": "éradiqué" },
+		"passé": {
+			"masc.sg.:": "éradiqué",
+			"masc.pl.:": "éradiqués",
+			"fém.sg.:": "éradiquée",
+			"fém.pl.:": "éradiquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "éradique": "", "éradiquons": "", "éradiquez": "" },
+		"passé": { "aie": "éradiqué", "ayons": "éradiqué", "ayez": "éradiqué" }
+	},
+	"infinitif": {
+		"présent": { "éradiquer": "" },
+		"passé": { "avoir": "éradiqué" }
+	}
+}

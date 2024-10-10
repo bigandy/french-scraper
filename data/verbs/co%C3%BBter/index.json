@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "cost; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se coûter/ne pas coûter/ne pas se coûter",
+	"indicatif": {
+		"présent": {
+			"je": "coûte",
+			"tu": "coûtes",
+			"il/elle": "coûte",
+			"nous": "coûtons",
+			"vous": "coûtez",
+			"ils/elles": "coûtent"
+		},
+		"imparfait": {
+			"je": "coûtais",
+			"tu": "coûtais",
+			"il/elle": "coûtait",
+			"nous": "coûtions",
+			"vous": "coûtiez",
+			"ils/elles": "coûtaient"
+		},
+		"futur": {
+			"je": "coûterai",
+			"tu": "coûteras",
+			"il/elle": "coûtera",
+			"nous": "coûterons",
+			"vous": "coûterez",
+			"ils/elles": "coûteront"
+		},
+		"passé simple": {
+			"je": "coûtai",
+			"tu": "coûtas",
+			"il/elle": "coûta",
+			"nous": "coûtâmes",
+			"vous": "coûtâtes",
+			"ils/elles": "coûtèrent"
+		},
+		"passé composé": {
+			"j'": "ai coûté",
+			"tu": "as coûté",
+			"il/elle": "a coûté",
+			"nous": "avons coûté",
+			"vous": "avez coûté",
+			"ils/elles": "ont coûté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais coûté",
+			"tu": "avais coûté",
+			"il/elle": "avait coûté",
+			"nous": "avions coûté",
+			"vous": "aviez coûté",
+			"ils/elles": "avaient coûté"
+		},
+		"passé antérieur": {
+			"j'": "eus coûté",
+			"tu": "eus coûté",
+			"il/elle": "eut coûté",
+			"nous": "eûmes coûté",
+			"vous": "eûtes coûté",
+			"ils/elles": "eurent coûté"
+		},
+		"futur antérieur": {
+			"j'": "aurai coûté",
+			"tu": "auras coûté",
+			"il/elle": "aura coûté",
+			"nous": "aurons coûté",
+			"vous": "aurez coûté",
+			"ils/elles": "auront coûté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous coûtiez",
+			"qu'il/elle": "coûte",
+			"qu'ils/elles": "coûtent"
+		},
+		"imparfait": {
+			"que": "vous coûtassiez",
+			"qu'il/elle": "coûtât",
+			"qu'ils/elles": "coûtassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse coûté",
+			"que": "vous eussiez coûté",
+			"qu'il/elle": "eût coûté",
+			"qu'ils/elles": "eussent coûté"
+		},
+		"passé": {
+			"j'": "aie coûté",
+			"que": "vous ayez coûté",
+			"qu'il/elle": "ait coûté",
+			"qu'ils/elles": "aient coûté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "coûterais",
+			"tu": "coûterais",
+			"il/elle": "coûterait",
+			"nous": "coûterions",
+			"vous": "coûteriez",
+			"ils/elles": "coûteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais coûté",
+			"tu": "aurais coûté",
+			"il/elle": "aurait coûté",
+			"nous": "aurions coûté",
+			"vous": "auriez coûté",
+			"ils/elles": "auraient coûté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse coûté",
+			"tu": "eusses coûté",
+			"il/elle": "eût coûté",
+			"nous": "eussions coûté",
+			"vous": "eussiez coûté",
+			"ils/elles": "eussent coûté"
+		}
+	},
+	"participe": {
+		"présent": { "coûtant": "" },
+		"passé composé": { "ayant": "coûté" },
+		"passé": {
+			"masc.sg.:": "coûté",
+			"masc.pl.:": "coûtés",
+			"fém.sg.:": "coûtée",
+			"fém.pl.:": "coûtées"
+		}
+	},
+	"imperatif": {
+		"présent": { "coûte": "", "coûtons": "", "coûtez": "" },
+		"passé": { "aie": "coûté", "ayons": "coûté", "ayez": "coûté" }
+	},
+	"infinitif": { "présent": { "coûter": "" }, "passé": { "avoir": "coûté" } }
+}

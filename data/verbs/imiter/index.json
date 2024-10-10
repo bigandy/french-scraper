@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "imitate; mimic; emulate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'imiter/ne pas imiter/ne pas s'imiter",
+	"indicatif": {
+		"présent": {
+			"j'": "imite",
+			"tu": "imites",
+			"il/elle": "imite",
+			"nous": "imitons",
+			"vous": "imitez",
+			"ils/elles": "imitent"
+		},
+		"imparfait": {
+			"j'": "imitais",
+			"tu": "imitais",
+			"il/elle": "imitait",
+			"nous": "imitions",
+			"vous": "imitiez",
+			"ils/elles": "imitaient"
+		},
+		"futur": {
+			"j'": "imiterai",
+			"tu": "imiteras",
+			"il/elle": "imitera",
+			"nous": "imiterons",
+			"vous": "imiterez",
+			"ils/elles": "imiteront"
+		},
+		"passé simple": {
+			"j'": "imitai",
+			"tu": "imitas",
+			"il/elle": "imita",
+			"nous": "imitâmes",
+			"vous": "imitâtes",
+			"ils/elles": "imitèrent"
+		},
+		"passé composé": {
+			"j'": "ai imité",
+			"tu": "as imité",
+			"il/elle": "a imité",
+			"nous": "avons imité",
+			"vous": "avez imité",
+			"ils/elles": "ont imité"
+		},
+		"plus-que-parfait": {
+			"j'": "avais imité",
+			"tu": "avais imité",
+			"il/elle": "avait imité",
+			"nous": "avions imité",
+			"vous": "aviez imité",
+			"ils/elles": "avaient imité"
+		},
+		"passé antérieur": {
+			"j'": "eus imité",
+			"tu": "eus imité",
+			"il/elle": "eut imité",
+			"nous": "eûmes imité",
+			"vous": "eûtes imité",
+			"ils/elles": "eurent imité"
+		},
+		"futur antérieur": {
+			"j'": "aurai imité",
+			"tu": "auras imité",
+			"il/elle": "aura imité",
+			"nous": "aurons imité",
+			"vous": "aurez imité",
+			"ils/elles": "auront imité"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "imite",
+			"que": "vous imitiez",
+			"qu'il/elle": "imite",
+			"qu'ils/elles": "imitent"
+		},
+		"imparfait": {
+			"j'": "imitasse",
+			"que": "vous imitassiez",
+			"qu'il/elle": "imitât",
+			"qu'ils/elles": "imitassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse imité",
+			"que": "vous eussiez imité",
+			"qu'il/elle": "eût imité",
+			"qu'ils/elles": "eussent imité"
+		},
+		"passé": {
+			"j'": "aie imité",
+			"que": "vous ayez imité",
+			"qu'il/elle": "ait imité",
+			"qu'ils/elles": "aient imité"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "imiterais",
+			"tu": "imiterais",
+			"il/elle": "imiterait",
+			"nous": "imiterions",
+			"vous": "imiteriez",
+			"ils/elles": "imiteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais imité",
+			"tu": "aurais imité",
+			"il/elle": "aurait imité",
+			"nous": "aurions imité",
+			"vous": "auriez imité",
+			"ils/elles": "auraient imité"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse imité",
+			"tu": "eusses imité",
+			"il/elle": "eût imité",
+			"nous": "eussions imité",
+			"vous": "eussiez imité",
+			"ils/elles": "eussent imité"
+		}
+	},
+	"participe": {
+		"présent": { "imitant": "" },
+		"passé composé": { "ayant": "imité" },
+		"passé": {
+			"masc.sg.:": "imité",
+			"masc.pl.:": "imités",
+			"fém.sg.:": "imitée",
+			"fém.pl.:": "imitées"
+		}
+	},
+	"imperatif": {
+		"présent": { "imite": "", "imitons": "", "imitez": "" },
+		"passé": { "aie": "imité", "ayons": "imité", "ayez": "imité" }
+	},
+	"infinitif": { "présent": { "imiter": "" }, "passé": { "avoir": "imité" } }
+}

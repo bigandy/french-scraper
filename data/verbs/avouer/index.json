@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "admit; confess; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'avouer/ne pas avouer/ne pas s'avouer",
+	"indicatif": {
+		"présent": {
+			"j'": "avoue",
+			"tu": "avoues",
+			"il/elle": "avoue",
+			"nous": "avouons",
+			"vous": "avouez",
+			"ils/elles": "avouent"
+		},
+		"imparfait": {
+			"j'": "avouais",
+			"tu": "avouais",
+			"il/elle": "avouait",
+			"nous": "avouions",
+			"vous": "avouiez",
+			"ils/elles": "avouaient"
+		},
+		"futur": {
+			"j'": "avouerai",
+			"tu": "avoueras",
+			"il/elle": "avouera",
+			"nous": "avouerons",
+			"vous": "avouerez",
+			"ils/elles": "avoueront"
+		},
+		"passé simple": {
+			"j'": "avouai",
+			"tu": "avouas",
+			"il/elle": "avoua",
+			"nous": "avouâmes",
+			"vous": "avouâtes",
+			"ils/elles": "avouèrent"
+		},
+		"passé composé": {
+			"j'": "ai avoué",
+			"tu": "as avoué",
+			"il/elle": "a avoué",
+			"nous": "avons avoué",
+			"vous": "avez avoué",
+			"ils/elles": "ont avoué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais avoué",
+			"tu": "avais avoué",
+			"il/elle": "avait avoué",
+			"nous": "avions avoué",
+			"vous": "aviez avoué",
+			"ils/elles": "avaient avoué"
+		},
+		"passé antérieur": {
+			"j'": "eus avoué",
+			"tu": "eus avoué",
+			"il/elle": "eut avoué",
+			"nous": "eûmes avoué",
+			"vous": "eûtes avoué",
+			"ils/elles": "eurent avoué"
+		},
+		"futur antérieur": {
+			"j'": "aurai avoué",
+			"tu": "auras avoué",
+			"il/elle": "aura avoué",
+			"nous": "aurons avoué",
+			"vous": "aurez avoué",
+			"ils/elles": "auront avoué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "avoue",
+			"que": "vous avouiez",
+			"qu'il/elle": "avoue",
+			"qu'ils/elles": "avouent"
+		},
+		"imparfait": {
+			"j'": "avouasse",
+			"que": "vous avouassiez",
+			"qu'il/elle": "avouât",
+			"qu'ils/elles": "avouassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse avoué",
+			"que": "vous eussiez avoué",
+			"qu'il/elle": "eût avoué",
+			"qu'ils/elles": "eussent avoué"
+		},
+		"passé": {
+			"j'": "aie avoué",
+			"que": "vous ayez avoué",
+			"qu'il/elle": "ait avoué",
+			"qu'ils/elles": "aient avoué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "avouerais",
+			"tu": "avouerais",
+			"il/elle": "avouerait",
+			"nous": "avouerions",
+			"vous": "avoueriez",
+			"ils/elles": "avoueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais avoué",
+			"tu": "aurais avoué",
+			"il/elle": "aurait avoué",
+			"nous": "aurions avoué",
+			"vous": "auriez avoué",
+			"ils/elles": "auraient avoué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse avoué",
+			"tu": "eusses avoué",
+			"il/elle": "eût avoué",
+			"nous": "eussions avoué",
+			"vous": "eussiez avoué",
+			"ils/elles": "eussent avoué"
+		}
+	},
+	"participe": {
+		"présent": { "avouant": "" },
+		"passé composé": { "ayant": "avoué" },
+		"passé": {
+			"masc.sg.:": "avoué",
+			"masc.pl.:": "avoués",
+			"fém.sg.:": "avouée",
+			"fém.pl.:": "avouées"
+		}
+	},
+	"imperatif": {
+		"présent": { "avoue": "", "avouons": "", "avouez": "" },
+		"passé": { "aie": "avoué", "ayons": "avoué", "ayez": "avoué" }
+	},
+	"infinitif": { "présent": { "avouer": "" }, "passé": { "avoir": "avoué" } }
+}

@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "hide; conceal; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se cacher/ne pas cacher/ne pas se cacher",
+	"indicatif": {
+		"présent": {
+			"je": "cache",
+			"tu": "caches",
+			"il/elle": "cache",
+			"nous": "cachons",
+			"vous": "cachez",
+			"ils/elles": "cachent"
+		},
+		"imparfait": {
+			"je": "cachais",
+			"tu": "cachais",
+			"il/elle": "cachait",
+			"nous": "cachions",
+			"vous": "cachiez",
+			"ils/elles": "cachaient"
+		},
+		"futur": {
+			"je": "cacherai",
+			"tu": "cacheras",
+			"il/elle": "cachera",
+			"nous": "cacherons",
+			"vous": "cacherez",
+			"ils/elles": "cacheront"
+		},
+		"passé simple": {
+			"je": "cachai",
+			"tu": "cachas",
+			"il/elle": "cacha",
+			"nous": "cachâmes",
+			"vous": "cachâtes",
+			"ils/elles": "cachèrent"
+		},
+		"passé composé": {
+			"j'": "ai caché",
+			"tu": "as caché",
+			"il/elle": "a caché",
+			"nous": "avons caché",
+			"vous": "avez caché",
+			"ils/elles": "ont caché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais caché",
+			"tu": "avais caché",
+			"il/elle": "avait caché",
+			"nous": "avions caché",
+			"vous": "aviez caché",
+			"ils/elles": "avaient caché"
+		},
+		"passé antérieur": {
+			"j'": "eus caché",
+			"tu": "eus caché",
+			"il/elle": "eut caché",
+			"nous": "eûmes caché",
+			"vous": "eûtes caché",
+			"ils/elles": "eurent caché"
+		},
+		"futur antérieur": {
+			"j'": "aurai caché",
+			"tu": "auras caché",
+			"il/elle": "aura caché",
+			"nous": "aurons caché",
+			"vous": "aurez caché",
+			"ils/elles": "auront caché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous cachiez",
+			"qu'il/elle": "cache",
+			"qu'ils/elles": "cachent"
+		},
+		"imparfait": {
+			"que": "vous cachassiez",
+			"qu'il/elle": "cachât",
+			"qu'ils/elles": "cachassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse caché",
+			"que": "vous eussiez caché",
+			"qu'il/elle": "eût caché",
+			"qu'ils/elles": "eussent caché"
+		},
+		"passé": {
+			"j'": "aie caché",
+			"que": "vous ayez caché",
+			"qu'il/elle": "ait caché",
+			"qu'ils/elles": "aient caché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "cacherais",
+			"tu": "cacherais",
+			"il/elle": "cacherait",
+			"nous": "cacherions",
+			"vous": "cacheriez",
+			"ils/elles": "cacheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais caché",
+			"tu": "aurais caché",
+			"il/elle": "aurait caché",
+			"nous": "aurions caché",
+			"vous": "auriez caché",
+			"ils/elles": "auraient caché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse caché",
+			"tu": "eusses caché",
+			"il/elle": "eût caché",
+			"nous": "eussions caché",
+			"vous": "eussiez caché",
+			"ils/elles": "eussent caché"
+		}
+	},
+	"participe": {
+		"présent": { "cachant": "" },
+		"passé composé": { "ayant": "caché" },
+		"passé": {
+			"masc.sg.:": "caché",
+			"masc.pl.:": "cachés",
+			"fém.sg.:": "cachée",
+			"fém.pl.:": "cachées"
+		}
+	},
+	"imperatif": {
+		"présent": { "cache": "", "cachons": "", "cachez": "" },
+		"passé": { "aie": "caché", "ayons": "caché", "ayez": "caché" }
+	},
+	"infinitif": { "présent": { "cacher": "" }, "passé": { "avoir": "caché" } }
+}

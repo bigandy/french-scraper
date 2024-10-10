@@ -1,0 +1,105 @@
+{
+	"name": "impartir",
+	"definition": "impart; outsource; contract out; ...",
+	"model": "impartir",
+	"auxiliary": "avoir",
+	"otherForms": "s'impartir/ne pas impartir/ne pas s'impartir",
+	"indicatif": {
+		"présent": {
+			"j'": "impartis",
+			"tu": "impartis",
+			"il/elle": "impartit",
+			"nous": "impartissons",
+			"vous": "impartissez",
+			"ils/elles": "impartissent"
+		},
+		"imparfait": {},
+		"futur": {},
+		"passé simple": {},
+		"passé composé": {
+			"j'": "ai imparti",
+			"tu": "as imparti",
+			"il/elle": "a imparti",
+			"nous": "avons imparti",
+			"vous": "avez imparti",
+			"ils/elles": "ont imparti"
+		},
+		"plus-que-parfait": {
+			"j'": "avais imparti",
+			"tu": "avais imparti",
+			"il/elle": "avait imparti",
+			"nous": "avions imparti",
+			"vous": "aviez imparti",
+			"ils/elles": "avaient imparti"
+		},
+		"passé antérieur": {
+			"j'": "eus imparti",
+			"tu": "eus imparti",
+			"il/elle": "eut imparti",
+			"nous": "eûmes imparti",
+			"vous": "eûtes imparti",
+			"ils/elles": "eurent imparti"
+		},
+		"futur antérieur": {
+			"j'": "aurai imparti",
+			"tu": "auras imparti",
+			"il/elle": "aura imparti",
+			"nous": "aurons imparti",
+			"vous": "aurez imparti",
+			"ils/elles": "auront imparti"
+		}
+	},
+	"subjonctif": {
+		"présent": {},
+		"imparfait": {},
+		"plus-que-parfait": {
+			"j'": "eusse imparti",
+			"que": "vous eussiez imparti",
+			"qu'il/elle": "eût imparti",
+			"qu'ils/elles": "eussent imparti"
+		},
+		"passé": {
+			"j'": "aie imparti",
+			"que": "vous ayez imparti",
+			"qu'il/elle": "ait imparti",
+			"qu'ils/elles": "aient imparti"
+		}
+	},
+	"conditionnel": {
+		"présent": {},
+		"passé première forme": {
+			"j'": "aurais imparti",
+			"tu": "aurais imparti",
+			"il/elle": "aurait imparti",
+			"nous": "aurions imparti",
+			"vous": "auriez imparti",
+			"ils/elles": "auraient imparti"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse imparti",
+			"tu": "eusses imparti",
+			"il/elle": "eût imparti",
+			"nous": "eussions imparti",
+			"vous": "eussiez imparti",
+			"ils/elles": "eussent imparti"
+		}
+	},
+	"participe": {
+		"présent": { "impartissant": "" },
+		"passé composé": { "ayant": "imparti" },
+		"passé": {
+			"masc.sg.:": "imparti",
+			"masc.pl.:": "impartis",
+			"fém.sg.:": "impartie",
+			"fém.pl.:": "imparties"
+		}
+	},
+	"imperatif": {
+		"présent": {},
+		"passé": { "aie": "imparti", "ayons": "imparti", "ayez": "imparti" }
+	},
+	"infinitif": {
+		"présent": { "impartir": "" },
+		"passé": { "avoir": "imparti" }
+	}
+}

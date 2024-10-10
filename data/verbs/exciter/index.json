@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "excite; drive; energize; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'exciter/ne pas exciter/ne pas s'exciter",
+	"indicatif": {
+		"présent": {
+			"j'": "excite",
+			"tu": "excites",
+			"il/elle": "excite",
+			"nous": "excitons",
+			"vous": "excitez",
+			"ils/elles": "excitent"
+		},
+		"imparfait": {
+			"j'": "excitais",
+			"tu": "excitais",
+			"il/elle": "excitait",
+			"nous": "excitions",
+			"vous": "excitiez",
+			"ils/elles": "excitaient"
+		},
+		"futur": {
+			"j'": "exciterai",
+			"tu": "exciteras",
+			"il/elle": "excitera",
+			"nous": "exciterons",
+			"vous": "exciterez",
+			"ils/elles": "exciteront"
+		},
+		"passé simple": {
+			"j'": "excitai",
+			"tu": "excitas",
+			"il/elle": "excita",
+			"nous": "excitâmes",
+			"vous": "excitâtes",
+			"ils/elles": "excitèrent"
+		},
+		"passé composé": {
+			"j'": "ai excité",
+			"tu": "as excité",
+			"il/elle": "a excité",
+			"nous": "avons excité",
+			"vous": "avez excité",
+			"ils/elles": "ont excité"
+		},
+		"plus-que-parfait": {
+			"j'": "avais excité",
+			"tu": "avais excité",
+			"il/elle": "avait excité",
+			"nous": "avions excité",
+			"vous": "aviez excité",
+			"ils/elles": "avaient excité"
+		},
+		"passé antérieur": {
+			"j'": "eus excité",
+			"tu": "eus excité",
+			"il/elle": "eut excité",
+			"nous": "eûmes excité",
+			"vous": "eûtes excité",
+			"ils/elles": "eurent excité"
+		},
+		"futur antérieur": {
+			"j'": "aurai excité",
+			"tu": "auras excité",
+			"il/elle": "aura excité",
+			"nous": "aurons excité",
+			"vous": "aurez excité",
+			"ils/elles": "auront excité"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "excite",
+			"que": "vous excitiez",
+			"qu'il/elle": "excite",
+			"qu'ils/elles": "excitent"
+		},
+		"imparfait": {
+			"j'": "excitasse",
+			"que": "vous excitassiez",
+			"qu'il/elle": "excitât",
+			"qu'ils/elles": "excitassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse excité",
+			"que": "vous eussiez excité",
+			"qu'il/elle": "eût excité",
+			"qu'ils/elles": "eussent excité"
+		},
+		"passé": {
+			"j'": "aie excité",
+			"que": "vous ayez excité",
+			"qu'il/elle": "ait excité",
+			"qu'ils/elles": "aient excité"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "exciterais",
+			"tu": "exciterais",
+			"il/elle": "exciterait",
+			"nous": "exciterions",
+			"vous": "exciteriez",
+			"ils/elles": "exciteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais excité",
+			"tu": "aurais excité",
+			"il/elle": "aurait excité",
+			"nous": "aurions excité",
+			"vous": "auriez excité",
+			"ils/elles": "auraient excité"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse excité",
+			"tu": "eusses excité",
+			"il/elle": "eût excité",
+			"nous": "eussions excité",
+			"vous": "eussiez excité",
+			"ils/elles": "eussent excité"
+		}
+	},
+	"participe": {
+		"présent": { "excitant": "" },
+		"passé composé": { "ayant": "excité" },
+		"passé": {
+			"masc.sg.:": "excité",
+			"masc.pl.:": "excités",
+			"fém.sg.:": "excitée",
+			"fém.pl.:": "excitées"
+		}
+	},
+	"imperatif": {
+		"présent": { "excite": "", "excitons": "", "excitez": "" },
+		"passé": { "aie": "excité", "ayons": "excité", "ayez": "excité" }
+	},
+	"infinitif": { "présent": { "exciter": "" }, "passé": { "avoir": "excité" } }
+}

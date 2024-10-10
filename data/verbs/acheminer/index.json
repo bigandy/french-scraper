@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "route; convey; deliver; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'acheminer/ne pas acheminer/ne pas s'acheminer",
+	"indicatif": {
+		"présent": {
+			"j'": "achemine",
+			"tu": "achemines",
+			"il/elle": "achemine",
+			"nous": "acheminons",
+			"vous": "acheminez",
+			"ils/elles": "acheminent"
+		},
+		"imparfait": {
+			"j'": "acheminais",
+			"tu": "acheminais",
+			"il/elle": "acheminait",
+			"nous": "acheminions",
+			"vous": "acheminiez",
+			"ils/elles": "acheminaient"
+		},
+		"futur": {
+			"j'": "acheminerai",
+			"tu": "achemineras",
+			"il/elle": "acheminera",
+			"nous": "acheminerons",
+			"vous": "acheminerez",
+			"ils/elles": "achemineront"
+		},
+		"passé simple": {
+			"j'": "acheminai",
+			"tu": "acheminas",
+			"il/elle": "achemina",
+			"nous": "acheminâmes",
+			"vous": "acheminâtes",
+			"ils/elles": "acheminèrent"
+		},
+		"passé composé": {
+			"j'": "ai acheminé",
+			"tu": "as acheminé",
+			"il/elle": "a acheminé",
+			"nous": "avons acheminé",
+			"vous": "avez acheminé",
+			"ils/elles": "ont acheminé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais acheminé",
+			"tu": "avais acheminé",
+			"il/elle": "avait acheminé",
+			"nous": "avions acheminé",
+			"vous": "aviez acheminé",
+			"ils/elles": "avaient acheminé"
+		},
+		"passé antérieur": {
+			"j'": "eus acheminé",
+			"tu": "eus acheminé",
+			"il/elle": "eut acheminé",
+			"nous": "eûmes acheminé",
+			"vous": "eûtes acheminé",
+			"ils/elles": "eurent acheminé"
+		},
+		"futur antérieur": {
+			"j'": "aurai acheminé",
+			"tu": "auras acheminé",
+			"il/elle": "aura acheminé",
+			"nous": "aurons acheminé",
+			"vous": "aurez acheminé",
+			"ils/elles": "auront acheminé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "achemine",
+			"que": "vous acheminiez",
+			"qu'il/elle": "achemine",
+			"qu'ils/elles": "acheminent"
+		},
+		"imparfait": {
+			"j'": "acheminasse",
+			"que": "vous acheminassiez",
+			"qu'il/elle": "acheminât",
+			"qu'ils/elles": "acheminassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse acheminé",
+			"que": "vous eussiez acheminé",
+			"qu'il/elle": "eût acheminé",
+			"qu'ils/elles": "eussent acheminé"
+		},
+		"passé": {
+			"j'": "aie acheminé",
+			"que": "vous ayez acheminé",
+			"qu'il/elle": "ait acheminé",
+			"qu'ils/elles": "aient acheminé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "acheminerais",
+			"tu": "acheminerais",
+			"il/elle": "acheminerait",
+			"nous": "acheminerions",
+			"vous": "achemineriez",
+			"ils/elles": "achemineraient"
+		},
+		"passé première forme": {
+			"j'": "aurais acheminé",
+			"tu": "aurais acheminé",
+			"il/elle": "aurait acheminé",
+			"nous": "aurions acheminé",
+			"vous": "auriez acheminé",
+			"ils/elles": "auraient acheminé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse acheminé",
+			"tu": "eusses acheminé",
+			"il/elle": "eût acheminé",
+			"nous": "eussions acheminé",
+			"vous": "eussiez acheminé",
+			"ils/elles": "eussent acheminé"
+		}
+	},
+	"participe": {
+		"présent": { "acheminant": "" },
+		"passé composé": { "ayant": "acheminé" },
+		"passé": {
+			"masc.sg.:": "acheminé",
+			"masc.pl.:": "acheminés",
+			"fém.sg.:": "acheminée",
+			"fém.pl.:": "acheminées"
+		}
+	},
+	"imperatif": {
+		"présent": { "achemine": "", "acheminons": "", "acheminez": "" },
+		"passé": { "aie": "acheminé", "ayons": "acheminé", "ayez": "acheminé" }
+	},
+	"infinitif": {
+		"présent": { "acheminer": "" },
+		"passé": { "avoir": "acheminé" }
+	}
+}

@@ -1,0 +1,147 @@
+{
+	"name": "marcher",
+	"definition": "immobilize; secure; immobilise; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'immobiliser/ne pas immobiliser/ne pas s'immobiliser",
+	"indicatif": {
+		"présent": {
+			"j'": "immobilise",
+			"tu": "immobilises",
+			"il/elle": "immobilise",
+			"nous": "immobilisons",
+			"vous": "immobilisez",
+			"ils/elles": "immobilisent"
+		},
+		"imparfait": {
+			"j'": "immobilisais",
+			"tu": "immobilisais",
+			"il/elle": "immobilisait",
+			"nous": "immobilisions",
+			"vous": "immobilisiez",
+			"ils/elles": "immobilisaient"
+		},
+		"futur": {
+			"j'": "immobiliserai",
+			"tu": "immobiliseras",
+			"il/elle": "immobilisera",
+			"nous": "immobiliserons",
+			"vous": "immobiliserez",
+			"ils/elles": "immobiliseront"
+		},
+		"passé simple": {
+			"j'": "immobilisai",
+			"tu": "immobilisas",
+			"il/elle": "immobilisa",
+			"nous": "immobilisâmes",
+			"vous": "immobilisâtes",
+			"ils/elles": "immobilisèrent"
+		},
+		"passé composé": {
+			"j'": "ai immobilisé",
+			"tu": "as immobilisé",
+			"il/elle": "a immobilisé",
+			"nous": "avons immobilisé",
+			"vous": "avez immobilisé",
+			"ils/elles": "ont immobilisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais immobilisé",
+			"tu": "avais immobilisé",
+			"il/elle": "avait immobilisé",
+			"nous": "avions immobilisé",
+			"vous": "aviez immobilisé",
+			"ils/elles": "avaient immobilisé"
+		},
+		"passé antérieur": {
+			"j'": "eus immobilisé",
+			"tu": "eus immobilisé",
+			"il/elle": "eut immobilisé",
+			"nous": "eûmes immobilisé",
+			"vous": "eûtes immobilisé",
+			"ils/elles": "eurent immobilisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai immobilisé",
+			"tu": "auras immobilisé",
+			"il/elle": "aura immobilisé",
+			"nous": "aurons immobilisé",
+			"vous": "aurez immobilisé",
+			"ils/elles": "auront immobilisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "immobilise",
+			"que": "vous immobilisiez",
+			"qu'il/elle": "immobilise",
+			"qu'ils/elles": "immobilisent"
+		},
+		"imparfait": {
+			"j'": "immobilisasse",
+			"que": "vous immobilisassiez",
+			"qu'il/elle": "immobilisât",
+			"qu'ils/elles": "immobilisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse immobilisé",
+			"que": "vous eussiez immobilisé",
+			"qu'il/elle": "eût immobilisé",
+			"qu'ils/elles": "eussent immobilisé"
+		},
+		"passé": {
+			"j'": "aie immobilisé",
+			"que": "vous ayez immobilisé",
+			"qu'il/elle": "ait immobilisé",
+			"qu'ils/elles": "aient immobilisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "immobiliserais",
+			"tu": "immobiliserais",
+			"il/elle": "immobiliserait",
+			"nous": "immobiliserions",
+			"vous": "immobiliseriez",
+			"ils/elles": "immobiliseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais immobilisé",
+			"tu": "aurais immobilisé",
+			"il/elle": "aurait immobilisé",
+			"nous": "aurions immobilisé",
+			"vous": "auriez immobilisé",
+			"ils/elles": "auraient immobilisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse immobilisé",
+			"tu": "eusses immobilisé",
+			"il/elle": "eût immobilisé",
+			"nous": "eussions immobilisé",
+			"vous": "eussiez immobilisé",
+			"ils/elles": "eussent immobilisé"
+		}
+	},
+	"participe": {
+		"présent": { "immobilisant": "" },
+		"passé composé": { "ayant": "immobilisé" },
+		"passé": {
+			"masc.sg.:": "immobilisé",
+			"masc.pl.:": "immobilisés",
+			"fém.sg.:": "immobilisée",
+			"fém.pl.:": "immobilisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "immobilise": "", "immobilisons": "", "immobilisez": "" },
+		"passé": {
+			"aie": "immobilisé",
+			"ayons": "immobilisé",
+			"ayez": "immobilisé"
+		}
+	},
+	"infinitif": {
+		"présent": { "immobiliser": "" },
+		"passé": { "avoir": "immobilisé" }
+	}
+}

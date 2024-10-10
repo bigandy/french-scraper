@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "repair; fix; redress; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se réparer/ne pas réparer/ne pas se réparer",
+	"indicatif": {
+		"présent": {
+			"je": "répare",
+			"tu": "répares",
+			"il/elle": "répare",
+			"nous": "réparons",
+			"vous": "réparez",
+			"ils/elles": "réparent"
+		},
+		"imparfait": {
+			"je": "réparais",
+			"tu": "réparais",
+			"il/elle": "réparait",
+			"nous": "réparions",
+			"vous": "répariez",
+			"ils/elles": "réparaient"
+		},
+		"futur": {
+			"je": "réparerai",
+			"tu": "répareras",
+			"il/elle": "réparera",
+			"nous": "réparerons",
+			"vous": "réparerez",
+			"ils/elles": "répareront"
+		},
+		"passé simple": {
+			"je": "réparai",
+			"tu": "réparas",
+			"il/elle": "répara",
+			"nous": "réparâmes",
+			"vous": "réparâtes",
+			"ils/elles": "réparèrent"
+		},
+		"passé composé": {
+			"j'": "ai réparé",
+			"tu": "as réparé",
+			"il/elle": "a réparé",
+			"nous": "avons réparé",
+			"vous": "avez réparé",
+			"ils/elles": "ont réparé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais réparé",
+			"tu": "avais réparé",
+			"il/elle": "avait réparé",
+			"nous": "avions réparé",
+			"vous": "aviez réparé",
+			"ils/elles": "avaient réparé"
+		},
+		"passé antérieur": {
+			"j'": "eus réparé",
+			"tu": "eus réparé",
+			"il/elle": "eut réparé",
+			"nous": "eûmes réparé",
+			"vous": "eûtes réparé",
+			"ils/elles": "eurent réparé"
+		},
+		"futur antérieur": {
+			"j'": "aurai réparé",
+			"tu": "auras réparé",
+			"il/elle": "aura réparé",
+			"nous": "aurons réparé",
+			"vous": "aurez réparé",
+			"ils/elles": "auront réparé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous répariez",
+			"qu'il/elle": "répare",
+			"qu'ils/elles": "réparent"
+		},
+		"imparfait": {
+			"que": "vous réparassiez",
+			"qu'il/elle": "réparât",
+			"qu'ils/elles": "réparassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse réparé",
+			"que": "vous eussiez réparé",
+			"qu'il/elle": "eût réparé",
+			"qu'ils/elles": "eussent réparé"
+		},
+		"passé": {
+			"j'": "aie réparé",
+			"que": "vous ayez réparé",
+			"qu'il/elle": "ait réparé",
+			"qu'ils/elles": "aient réparé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "réparerais",
+			"tu": "réparerais",
+			"il/elle": "réparerait",
+			"nous": "réparerions",
+			"vous": "répareriez",
+			"ils/elles": "répareraient"
+		},
+		"passé première forme": {
+			"j'": "aurais réparé",
+			"tu": "aurais réparé",
+			"il/elle": "aurait réparé",
+			"nous": "aurions réparé",
+			"vous": "auriez réparé",
+			"ils/elles": "auraient réparé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse réparé",
+			"tu": "eusses réparé",
+			"il/elle": "eût réparé",
+			"nous": "eussions réparé",
+			"vous": "eussiez réparé",
+			"ils/elles": "eussent réparé"
+		}
+	},
+	"participe": {
+		"présent": { "réparant": "" },
+		"passé composé": { "ayant": "réparé" },
+		"passé": {
+			"masc.sg.:": "réparé",
+			"masc.pl.:": "réparés",
+			"fém.sg.:": "réparée",
+			"fém.pl.:": "réparées"
+		}
+	},
+	"imperatif": {
+		"présent": { "répare": "", "réparons": "", "réparez": "" },
+		"passé": { "aie": "réparé", "ayons": "réparé", "ayez": "réparé" }
+	},
+	"infinitif": { "présent": { "réparer": "" }, "passé": { "avoir": "réparé" } }
+}

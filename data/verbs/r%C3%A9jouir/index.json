@@ -1,0 +1,138 @@
+{
+	"name": "finir",
+	"definition": "rejoice; welcome; celebrate; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se réjouir/ne pas réjouir/ne pas se réjouir",
+	"indicatif": {
+		"présent": {
+			"je": "réjouis",
+			"tu": "réjouis",
+			"il/elle": "réjouit",
+			"nous": "réjouissons",
+			"vous": "réjouissez",
+			"ils/elles": "réjouissent"
+		},
+		"imparfait": {
+			"je": "réjouissais",
+			"tu": "réjouissais",
+			"il/elle": "réjouissait",
+			"nous": "réjouissions",
+			"vous": "réjouissiez",
+			"ils/elles": "réjouissaient"
+		},
+		"futur": {
+			"je": "réjouirai",
+			"tu": "réjouiras",
+			"il/elle": "réjouira",
+			"nous": "réjouirons",
+			"vous": "réjouirez",
+			"ils/elles": "réjouiront"
+		},
+		"passé simple": {
+			"je": "réjouis",
+			"tu": "réjouis",
+			"il/elle": "réjouit",
+			"nous": "réjouîmes",
+			"vous": "réjouîtes",
+			"ils/elles": "réjouirent"
+		},
+		"passé composé": {
+			"j'": "ai réjoui",
+			"tu": "as réjoui",
+			"il/elle": "a réjoui",
+			"nous": "avons réjoui",
+			"vous": "avez réjoui",
+			"ils/elles": "ont réjoui"
+		},
+		"plus-que-parfait": {
+			"j'": "avais réjoui",
+			"tu": "avais réjoui",
+			"il/elle": "avait réjoui",
+			"nous": "avions réjoui",
+			"vous": "aviez réjoui",
+			"ils/elles": "avaient réjoui"
+		},
+		"passé antérieur": {
+			"j'": "eus réjoui",
+			"tu": "eus réjoui",
+			"il/elle": "eut réjoui",
+			"nous": "eûmes réjoui",
+			"vous": "eûtes réjoui",
+			"ils/elles": "eurent réjoui"
+		},
+		"futur antérieur": {
+			"j'": "aurai réjoui",
+			"tu": "auras réjoui",
+			"il/elle": "aura réjoui",
+			"nous": "aurons réjoui",
+			"vous": "aurez réjoui",
+			"ils/elles": "auront réjoui"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous réjouissiez",
+			"qu'il/elle": "réjouisse",
+			"qu'ils/elles": "réjouissent"
+		},
+		"imparfait": {
+			"que": "vous réjouissiez",
+			"qu'il/elle": "réjouît",
+			"qu'ils/elles": "réjouissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse réjoui",
+			"que": "vous eussiez réjoui",
+			"qu'il/elle": "eût réjoui",
+			"qu'ils/elles": "eussent réjoui"
+		},
+		"passé": {
+			"j'": "aie réjoui",
+			"que": "vous ayez réjoui",
+			"qu'il/elle": "ait réjoui",
+			"qu'ils/elles": "aient réjoui"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "réjouirais",
+			"tu": "réjouirais",
+			"il/elle": "réjouirait",
+			"nous": "réjouirions",
+			"vous": "réjouiriez",
+			"ils/elles": "réjouiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais réjoui",
+			"tu": "aurais réjoui",
+			"il/elle": "aurait réjoui",
+			"nous": "aurions réjoui",
+			"vous": "auriez réjoui",
+			"ils/elles": "auraient réjoui"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse réjoui",
+			"tu": "eusses réjoui",
+			"il/elle": "eût réjoui",
+			"nous": "eussions réjoui",
+			"vous": "eussiez réjoui",
+			"ils/elles": "eussent réjoui"
+		}
+	},
+	"participe": {
+		"présent": { "réjouissant": "" },
+		"passé composé": { "ayant": "réjoui" },
+		"passé": {
+			"masc.sg.:": "réjoui",
+			"masc.pl.:": "réjouis",
+			"fém.sg.:": "réjouie",
+			"fém.pl.:": "réjouies"
+		}
+	},
+	"imperatif": {
+		"présent": { "réjouis": "", "réjouissons": "", "réjouissez": "" },
+		"passé": { "aie": "réjoui", "ayons": "réjoui", "ayez": "réjoui" }
+	},
+	"infinitif": { "présent": { "réjouir": "" }, "passé": { "avoir": "réjoui" } }
+}

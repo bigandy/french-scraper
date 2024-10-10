@@ -1,0 +1,139 @@
+{
+	"name": "plaire",
+	"definition": "please; like; appeal; ...",
+	"model": "plaire",
+	"auxiliary": "avoir",
+	"otherForms": "se plaire/ne pas plaire/ne pas se plaire",
+	"indicatif": {
+		"présent": {
+			"je": "plais",
+			"tu": "plais",
+			"il/elle": "plait",
+			"nous": "plaisons",
+			"vous": "plaisez",
+			"ils/elles": "plaisent",
+			"": ""
+		},
+		"imparfait": {
+			"je": "plaisais",
+			"tu": "plaisais",
+			"il/elle": "plaisait",
+			"nous": "plaisions",
+			"vous": "plaisiez",
+			"ils/elles": "plaisaient"
+		},
+		"futur": {
+			"je": "plairai",
+			"tu": "plairas",
+			"il/elle": "plaira",
+			"nous": "plairons",
+			"vous": "plairez",
+			"ils/elles": "plairont"
+		},
+		"passé simple": {
+			"je": "plus",
+			"tu": "plus",
+			"il/elle": "plut",
+			"nous": "plûmes",
+			"vous": "plûtes",
+			"ils/elles": "plurent"
+		},
+		"passé composé": {
+			"j'": "ai plu",
+			"tu": "as plu",
+			"il/elle": "a plu",
+			"nous": "avons plu",
+			"vous": "avez plu",
+			"ils/elles": "ont plu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais plu",
+			"tu": "avais plu",
+			"il/elle": "avait plu",
+			"nous": "avions plu",
+			"vous": "aviez plu",
+			"ils/elles": "avaient plu"
+		},
+		"passé antérieur": {
+			"j'": "eus plu",
+			"tu": "eus plu",
+			"il/elle": "eut plu",
+			"nous": "eûmes plu",
+			"vous": "eûtes plu",
+			"ils/elles": "eurent plu"
+		},
+		"futur antérieur": {
+			"j'": "aurai plu",
+			"tu": "auras plu",
+			"il/elle": "aura plu",
+			"nous": "aurons plu",
+			"vous": "aurez plu",
+			"ils/elles": "auront plu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous plaisiez",
+			"qu'il/elle": "plaise",
+			"qu'ils/elles": "plaisent"
+		},
+		"imparfait": {
+			"que": "vous plussiez",
+			"qu'il/elle": "plût",
+			"qu'ils/elles": "plussent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse plu",
+			"que": "vous eussiez plu",
+			"qu'il/elle": "eût plu",
+			"qu'ils/elles": "eussent plu"
+		},
+		"passé": {
+			"j'": "aie plu",
+			"que": "vous ayez plu",
+			"qu'il/elle": "ait plu",
+			"qu'ils/elles": "aient plu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "plairais",
+			"tu": "plairais",
+			"il/elle": "plairait",
+			"nous": "plairions",
+			"vous": "plairiez",
+			"ils/elles": "plairaient"
+		},
+		"passé première forme": {
+			"j'": "aurais plu",
+			"tu": "aurais plu",
+			"il/elle": "aurait plu",
+			"nous": "aurions plu",
+			"vous": "auriez plu",
+			"ils/elles": "auraient plu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse plu",
+			"tu": "eusses plu",
+			"il/elle": "eût plu",
+			"nous": "eussions plu",
+			"vous": "eussiez plu",
+			"ils/elles": "eussent plu"
+		}
+	},
+	"participe": {
+		"présent": { "plaisant": "" },
+		"passé composé": { "ayant": "plu" },
+		"passé": {
+			"masc.sg.:": "plu",
+			"masc.pl.:": "plu",
+			"fém.sg.:": "plu",
+			"fém.pl.:": "plu"
+		}
+	},
+	"imperatif": {
+		"présent": { "plais": "", "plaisons": "", "plaisez": "" },
+		"passé": { "aie": "plu", "ayons": "plu", "ayez": "plu" }
+	},
+	"infinitif": { "présent": { "plaire": "" }, "passé": { "avoir": "plu" } }
+}

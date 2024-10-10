@@ -1,0 +1,140 @@
+{
+	"name": "aérer",
+	"definition": "hope; expect; look forward; ...",
+	"model": "aérer",
+	"auxiliary": "avoir",
+	"otherForms": "s'espérer/ne pas espérer/ne pas s'espérer",
+	"indicatif": {
+		"présent": {
+			"j'": "espère",
+			"tu": "espères",
+			"il/elle": "espère",
+			"nous": "espérons",
+			"vous": "espérez",
+			"ils/elles": "espèrent"
+		},
+		"imparfait": {
+			"j'": "espérais",
+			"tu": "espérais",
+			"il/elle": "espérait",
+			"nous": "espérions",
+			"vous": "espériez",
+			"ils/elles": "espéraient"
+		},
+		"futur": {
+			"j'": "espérerai",
+			"tu": "espéreras",
+			"il/elle": "espérera",
+			"nous": "espérerons",
+			"vous": "espérerez",
+			"ils/elles": "espéreront"
+		},
+		"passé simple": {
+			"j'": "espérai",
+			"tu": "espéras",
+			"il/elle": "espéra",
+			"nous": "espérâmes",
+			"vous": "espérâtes",
+			"ils/elles": "espérèrent"
+		},
+		"passé composé": {
+			"j'": "ai espéré",
+			"tu": "as espéré",
+			"il/elle": "a espéré",
+			"nous": "avons espéré",
+			"vous": "avez espéré",
+			"ils/elles": "ont espéré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais espéré",
+			"tu": "avais espéré",
+			"il/elle": "avait espéré",
+			"nous": "avions espéré",
+			"vous": "aviez espéré",
+			"ils/elles": "avaient espéré"
+		},
+		"passé antérieur": {
+			"j'": "eus espéré",
+			"tu": "eus espéré",
+			"il/elle": "eut espéré",
+			"nous": "eûmes espéré",
+			"vous": "eûtes espéré",
+			"ils/elles": "eurent espéré"
+		},
+		"futur antérieur": {
+			"j'": "aurai espéré",
+			"tu": "auras espéré",
+			"il/elle": "aura espéré",
+			"nous": "aurons espéré",
+			"vous": "aurez espéré",
+			"ils/elles": "auront espéré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "espère",
+			"que": "vous espériez",
+			"qu'il/elle": "espère",
+			"qu'ils/elles": "espèrent"
+		},
+		"imparfait": {
+			"j'": "espérasse",
+			"que": "vous espérassiez",
+			"qu'il/elle": "espérât",
+			"qu'ils/elles": "espérassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse espéré",
+			"que": "vous eussiez espéré",
+			"qu'il/elle": "eût espéré",
+			"qu'ils/elles": "eussent espéré"
+		},
+		"passé": {
+			"j'": "aie espéré",
+			"que": "vous ayez espéré",
+			"qu'il/elle": "ait espéré",
+			"qu'ils/elles": "aient espéré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "espérerais",
+			"tu": "espérerais",
+			"il/elle": "espérerait",
+			"nous": "espérerions",
+			"vous": "espéreriez",
+			"ils/elles": "espéreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais espéré",
+			"tu": "aurais espéré",
+			"il/elle": "aurait espéré",
+			"nous": "aurions espéré",
+			"vous": "auriez espéré",
+			"ils/elles": "auraient espéré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse espéré",
+			"tu": "eusses espéré",
+			"il/elle": "eût espéré",
+			"nous": "eussions espéré",
+			"vous": "eussiez espéré",
+			"ils/elles": "eussent espéré"
+		}
+	},
+	"participe": {
+		"présent": { "espérant": "" },
+		"passé composé": { "ayant": "espéré" },
+		"passé": {
+			"masc.sg.:": "espéré",
+			"masc.pl.:": "espérés",
+			"fém.sg.:": "espérée",
+			"fém.pl.:": "espérées"
+		}
+	},
+	"imperatif": {
+		"présent": { "espère": "", "espérons": "", "espérez": "" },
+		"passé": { "aie": "espéré", "ayons": "espéré", "ayez": "espéré" }
+	},
+	"infinitif": { "présent": { "espérer": "" }, "passé": { "avoir": "espéré" } }
+}

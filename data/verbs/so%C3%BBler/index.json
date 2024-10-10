@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "\n              get drunk; get plastered; get pissed; ...\n            ",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se soûler/ne pas soûler/ne pas se soûler",
+	"indicatif": {
+		"présent": {
+			"je": "soûle",
+			"tu": "soûles",
+			"il/elle": "soûle",
+			"nous": "soûlons",
+			"vous": "soûlez",
+			"ils/elles": "soûlent"
+		},
+		"imparfait": {
+			"je": "soûlais",
+			"tu": "soûlais",
+			"il/elle": "soûlait",
+			"nous": "soûlions",
+			"vous": "soûliez",
+			"ils/elles": "soûlaient"
+		},
+		"futur": {
+			"je": "soûlerai",
+			"tu": "soûleras",
+			"il/elle": "soûlera",
+			"nous": "soûlerons",
+			"vous": "soûlerez",
+			"ils/elles": "soûleront"
+		},
+		"passé simple": {
+			"je": "soûlai",
+			"tu": "soûlas",
+			"il/elle": "soûla",
+			"nous": "soûlâmes",
+			"vous": "soûlâtes",
+			"ils/elles": "soûlèrent"
+		},
+		"passé composé": {
+			"j'": "ai soûlé",
+			"tu": "as soûlé",
+			"il/elle": "a soûlé",
+			"nous": "avons soûlé",
+			"vous": "avez soûlé",
+			"ils/elles": "ont soûlé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais soûlé",
+			"tu": "avais soûlé",
+			"il/elle": "avait soûlé",
+			"nous": "avions soûlé",
+			"vous": "aviez soûlé",
+			"ils/elles": "avaient soûlé"
+		},
+		"passé antérieur": {
+			"j'": "eus soûlé",
+			"tu": "eus soûlé",
+			"il/elle": "eut soûlé",
+			"nous": "eûmes soûlé",
+			"vous": "eûtes soûlé",
+			"ils/elles": "eurent soûlé"
+		},
+		"futur antérieur": {
+			"j'": "aurai soûlé",
+			"tu": "auras soûlé",
+			"il/elle": "aura soûlé",
+			"nous": "aurons soûlé",
+			"vous": "aurez soûlé",
+			"ils/elles": "auront soûlé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous soûliez",
+			"qu'il/elle": "soûle",
+			"qu'ils/elles": "soûlent"
+		},
+		"imparfait": {
+			"que": "vous soûlassiez",
+			"qu'il/elle": "soûlât",
+			"qu'ils/elles": "soûlassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse soûlé",
+			"que": "vous eussiez soûlé",
+			"qu'il/elle": "eût soûlé",
+			"qu'ils/elles": "eussent soûlé"
+		},
+		"passé": {
+			"j'": "aie soûlé",
+			"que": "vous ayez soûlé",
+			"qu'il/elle": "ait soûlé",
+			"qu'ils/elles": "aient soûlé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "soûlerais",
+			"tu": "soûlerais",
+			"il/elle": "soûlerait",
+			"nous": "soûlerions",
+			"vous": "soûleriez",
+			"ils/elles": "soûleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais soûlé",
+			"tu": "aurais soûlé",
+			"il/elle": "aurait soûlé",
+			"nous": "aurions soûlé",
+			"vous": "auriez soûlé",
+			"ils/elles": "auraient soûlé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse soûlé",
+			"tu": "eusses soûlé",
+			"il/elle": "eût soûlé",
+			"nous": "eussions soûlé",
+			"vous": "eussiez soûlé",
+			"ils/elles": "eussent soûlé"
+		}
+	},
+	"participe": {
+		"présent": { "soûlant": "" },
+		"passé composé": { "ayant": "soûlé" },
+		"passé": {
+			"masc.sg.:": "soûlé",
+			"masc.pl.:": "soûlés",
+			"fém.sg.:": "soûlée",
+			"fém.pl.:": "soûlées"
+		}
+	},
+	"imperatif": {
+		"présent": { "soûle": "", "soûlons": "", "soûlez": "" },
+		"passé": { "aie": "soûlé", "ayons": "soûlé", "ayez": "soûlé" }
+	},
+	"infinitif": { "présent": { "soûler": "" }, "passé": { "avoir": "soûlé" } }
+}

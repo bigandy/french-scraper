@@ -1,0 +1,147 @@
+{
+	"name": "marcher",
+	"definition": "administer; deliver; manage; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'administrer/ne pas administrer/ne pas s'administrer",
+	"indicatif": {
+		"présent": {
+			"j'": "administre",
+			"tu": "administres",
+			"il/elle": "administre",
+			"nous": "administrons",
+			"vous": "administrez",
+			"ils/elles": "administrent"
+		},
+		"imparfait": {
+			"j'": "administrais",
+			"tu": "administrais",
+			"il/elle": "administrait",
+			"nous": "administrions",
+			"vous": "administriez",
+			"ils/elles": "administraient"
+		},
+		"futur": {
+			"j'": "administrerai",
+			"tu": "administreras",
+			"il/elle": "administrera",
+			"nous": "administrerons",
+			"vous": "administrerez",
+			"ils/elles": "administreront"
+		},
+		"passé simple": {
+			"j'": "administrai",
+			"tu": "administras",
+			"il/elle": "administra",
+			"nous": "administrâmes",
+			"vous": "administrâtes",
+			"ils/elles": "administrèrent"
+		},
+		"passé composé": {
+			"j'": "ai administré",
+			"tu": "as administré",
+			"il/elle": "a administré",
+			"nous": "avons administré",
+			"vous": "avez administré",
+			"ils/elles": "ont administré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais administré",
+			"tu": "avais administré",
+			"il/elle": "avait administré",
+			"nous": "avions administré",
+			"vous": "aviez administré",
+			"ils/elles": "avaient administré"
+		},
+		"passé antérieur": {
+			"j'": "eus administré",
+			"tu": "eus administré",
+			"il/elle": "eut administré",
+			"nous": "eûmes administré",
+			"vous": "eûtes administré",
+			"ils/elles": "eurent administré"
+		},
+		"futur antérieur": {
+			"j'": "aurai administré",
+			"tu": "auras administré",
+			"il/elle": "aura administré",
+			"nous": "aurons administré",
+			"vous": "aurez administré",
+			"ils/elles": "auront administré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "administre",
+			"que": "vous administriez",
+			"qu'il/elle": "administre",
+			"qu'ils/elles": "administrent"
+		},
+		"imparfait": {
+			"j'": "administrasse",
+			"que": "vous administrassiez",
+			"qu'il/elle": "administrât",
+			"qu'ils/elles": "administrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse administré",
+			"que": "vous eussiez administré",
+			"qu'il/elle": "eût administré",
+			"qu'ils/elles": "eussent administré"
+		},
+		"passé": {
+			"j'": "aie administré",
+			"que": "vous ayez administré",
+			"qu'il/elle": "ait administré",
+			"qu'ils/elles": "aient administré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "administrerais",
+			"tu": "administrerais",
+			"il/elle": "administrerait",
+			"nous": "administrerions",
+			"vous": "administreriez",
+			"ils/elles": "administreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais administré",
+			"tu": "aurais administré",
+			"il/elle": "aurait administré",
+			"nous": "aurions administré",
+			"vous": "auriez administré",
+			"ils/elles": "auraient administré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse administré",
+			"tu": "eusses administré",
+			"il/elle": "eût administré",
+			"nous": "eussions administré",
+			"vous": "eussiez administré",
+			"ils/elles": "eussent administré"
+		}
+	},
+	"participe": {
+		"présent": { "administrant": "" },
+		"passé composé": { "ayant": "administré" },
+		"passé": {
+			"masc.sg.:": "administré",
+			"masc.pl.:": "administrés",
+			"fém.sg.:": "administrée",
+			"fém.pl.:": "administrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "administre": "", "administrons": "", "administrez": "" },
+		"passé": {
+			"aie": "administré",
+			"ayons": "administré",
+			"ayez": "administré"
+		}
+	},
+	"infinitif": {
+		"présent": { "administrer": "" },
+		"passé": { "avoir": "administré" }
+	}
+}

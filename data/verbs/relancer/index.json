@@ -1,0 +1,141 @@
+{
+	"name": "commencer",
+	"definition": "revive; relaunch; restart; ...",
+	"model": "commencer",
+	"auxiliary": "avoir",
+	"otherForms": "se relancer/ne pas relancer/ne pas se relancer",
+	"indicatif": {
+		"présent": {
+			"je": "relance",
+			"tu": "relances",
+			"il/elle": "relance",
+			"nous": "relançons",
+			"vous": "relancez",
+			"ils/elles": "relancent"
+		},
+		"imparfait": {
+			"je": "relançais",
+			"tu": "relançais",
+			"il/elle": "relançait",
+			"nous": "relancions",
+			"vous": "relanciez",
+			"ils/elles": "relançaient"
+		},
+		"futur": {
+			"je": "relancerai",
+			"tu": "relanceras",
+			"il/elle": "relancera",
+			"nous": "relancerons",
+			"vous": "relancerez",
+			"ils/elles": "relanceront"
+		},
+		"passé simple": {
+			"je": "relançai",
+			"tu": "relanças",
+			"il/elle": "relança",
+			"nous": "relançâmes",
+			"vous": "relançâtes",
+			"ils/elles": "relancèrent"
+		},
+		"passé composé": {
+			"j'": "ai relancé",
+			"tu": "as relancé",
+			"il/elle": "a relancé",
+			"nous": "avons relancé",
+			"vous": "avez relancé",
+			"ils/elles": "ont relancé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais relancé",
+			"tu": "avais relancé",
+			"il/elle": "avait relancé",
+			"nous": "avions relancé",
+			"vous": "aviez relancé",
+			"ils/elles": "avaient relancé"
+		},
+		"passé antérieur": {
+			"j'": "eus relancé",
+			"tu": "eus relancé",
+			"il/elle": "eut relancé",
+			"nous": "eûmes relancé",
+			"vous": "eûtes relancé",
+			"ils/elles": "eurent relancé"
+		},
+		"futur antérieur": {
+			"j'": "aurai relancé",
+			"tu": "auras relancé",
+			"il/elle": "aura relancé",
+			"nous": "aurons relancé",
+			"vous": "aurez relancé",
+			"ils/elles": "auront relancé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous relanciez",
+			"qu'il/elle": "relance",
+			"qu'ils/elles": "relancent"
+		},
+		"imparfait": {
+			"que": "vous relançassiez",
+			"qu'il/elle": "relançât",
+			"qu'ils/elles": "relançassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse relancé",
+			"que": "vous eussiez relancé",
+			"qu'il/elle": "eût relancé",
+			"qu'ils/elles": "eussent relancé"
+		},
+		"passé": {
+			"j'": "aie relancé",
+			"que": "vous ayez relancé",
+			"qu'il/elle": "ait relancé",
+			"qu'ils/elles": "aient relancé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "relancerais",
+			"tu": "relancerais",
+			"il/elle": "relancerait",
+			"nous": "relancerions",
+			"vous": "relanceriez",
+			"ils/elles": "relanceraient"
+		},
+		"passé première forme": {
+			"j'": "aurais relancé",
+			"tu": "aurais relancé",
+			"il/elle": "aurait relancé",
+			"nous": "aurions relancé",
+			"vous": "auriez relancé",
+			"ils/elles": "auraient relancé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse relancé",
+			"tu": "eusses relancé",
+			"il/elle": "eût relancé",
+			"nous": "eussions relancé",
+			"vous": "eussiez relancé",
+			"ils/elles": "eussent relancé"
+		}
+	},
+	"participe": {
+		"présent": { "relançant": "" },
+		"passé composé": { "ayant": "relancé" },
+		"passé": {
+			"masc.sg.:": "relancé",
+			"masc.pl.:": "relancés",
+			"fém.sg.:": "relancée",
+			"fém.pl.:": "relancées"
+		}
+	},
+	"imperatif": {
+		"présent": { "relance": "", "relançons": "", "relancez": "" },
+		"passé": { "aie": "relancé", "ayons": "relancé", "ayez": "relancé" }
+	},
+	"infinitif": {
+		"présent": { "relancer": "" },
+		"passé": { "avoir": "relancé" }
+	}
+}

@@ -1,0 +1,138 @@
+{
+	"name": "suivre",
+	"definition": "follow; monitor; track; ...",
+	"model": "suivre",
+	"auxiliary": "avoir",
+	"otherForms": "se suivre/ne pas suivre/ne pas se suivre",
+	"indicatif": {
+		"présent": {
+			"je": "suis",
+			"tu": "suis",
+			"il/elle": "suit",
+			"nous": "suivons",
+			"vous": "suivez",
+			"ils/elles": "suivent"
+		},
+		"imparfait": {
+			"je": "suivais",
+			"tu": "suivais",
+			"il/elle": "suivait",
+			"nous": "suivions",
+			"vous": "suiviez",
+			"ils/elles": "suivaient"
+		},
+		"futur": {
+			"je": "suivrai",
+			"tu": "suivras",
+			"il/elle": "suivra",
+			"nous": "suivrons",
+			"vous": "suivrez",
+			"ils/elles": "suivront"
+		},
+		"passé simple": {
+			"je": "suivis",
+			"tu": "suivis",
+			"il/elle": "suivit",
+			"nous": "suivîmes",
+			"vous": "suivîtes",
+			"ils/elles": "suivirent"
+		},
+		"passé composé": {
+			"j'": "ai suivi",
+			"tu": "as suivi",
+			"il/elle": "a suivi",
+			"nous": "avons suivi",
+			"vous": "avez suivi",
+			"ils/elles": "ont suivi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais suivi",
+			"tu": "avais suivi",
+			"il/elle": "avait suivi",
+			"nous": "avions suivi",
+			"vous": "aviez suivi",
+			"ils/elles": "avaient suivi"
+		},
+		"passé antérieur": {
+			"j'": "eus suivi",
+			"tu": "eus suivi",
+			"il/elle": "eut suivi",
+			"nous": "eûmes suivi",
+			"vous": "eûtes suivi",
+			"ils/elles": "eurent suivi"
+		},
+		"futur antérieur": {
+			"j'": "aurai suivi",
+			"tu": "auras suivi",
+			"il/elle": "aura suivi",
+			"nous": "aurons suivi",
+			"vous": "aurez suivi",
+			"ils/elles": "auront suivi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous suiviez",
+			"qu'il/elle": "suive",
+			"qu'ils/elles": "suivent"
+		},
+		"imparfait": {
+			"que": "vous suivissiez",
+			"qu'il/elle": "suivît",
+			"qu'ils/elles": "suivissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse suivi",
+			"que": "vous eussiez suivi",
+			"qu'il/elle": "eût suivi",
+			"qu'ils/elles": "eussent suivi"
+		},
+		"passé": {
+			"j'": "aie suivi",
+			"que": "vous ayez suivi",
+			"qu'il/elle": "ait suivi",
+			"qu'ils/elles": "aient suivi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "suivrais",
+			"tu": "suivrais",
+			"il/elle": "suivrait",
+			"nous": "suivrions",
+			"vous": "suivriez",
+			"ils/elles": "suivraient"
+		},
+		"passé première forme": {
+			"j'": "aurais suivi",
+			"tu": "aurais suivi",
+			"il/elle": "aurait suivi",
+			"nous": "aurions suivi",
+			"vous": "auriez suivi",
+			"ils/elles": "auraient suivi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse suivi",
+			"tu": "eusses suivi",
+			"il/elle": "eût suivi",
+			"nous": "eussions suivi",
+			"vous": "eussiez suivi",
+			"ils/elles": "eussent suivi"
+		}
+	},
+	"participe": {
+		"présent": { "suivant": "" },
+		"passé composé": { "ayant": "suivi" },
+		"passé": {
+			"masc.sg.:": "suivi",
+			"masc.pl.:": "suivis",
+			"fém.sg.:": "suivie",
+			"fém.pl.:": "suivies"
+		}
+	},
+	"imperatif": {
+		"présent": { "suis": "", "suivons": "", "suivez": "" },
+		"passé": { "aie": "suivi", "ayons": "suivi", "ayez": "suivi" }
+	},
+	"infinitif": { "présent": { "suivre": "" }, "passé": { "avoir": "suivi" } }
+}

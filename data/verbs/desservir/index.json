@@ -1,0 +1,141 @@
+{
+	"name": "servir",
+	"definition": "serve; service; connect; ...",
+	"model": "servir",
+	"auxiliary": "avoir",
+	"otherForms": "se desservir/ne pas desservir/ne pas se desservir",
+	"indicatif": {
+		"présent": {
+			"je": "dessers",
+			"tu": "dessers",
+			"il/elle": "dessert",
+			"nous": "desservons",
+			"vous": "desservez",
+			"ils/elles": "desservent"
+		},
+		"imparfait": {
+			"je": "desservais",
+			"tu": "desservais",
+			"il/elle": "desservait",
+			"nous": "desservions",
+			"vous": "desserviez",
+			"ils/elles": "desservaient"
+		},
+		"futur": {
+			"je": "desservirai",
+			"tu": "desserviras",
+			"il/elle": "desservira",
+			"nous": "desservirons",
+			"vous": "desservirez",
+			"ils/elles": "desserviront"
+		},
+		"passé simple": {
+			"je": "desservis",
+			"tu": "desservis",
+			"il/elle": "desservit",
+			"nous": "desservîmes",
+			"vous": "desservîtes",
+			"ils/elles": "desservirent"
+		},
+		"passé composé": {
+			"j'": "ai desservi",
+			"tu": "as desservi",
+			"il/elle": "a desservi",
+			"nous": "avons desservi",
+			"vous": "avez desservi",
+			"ils/elles": "ont desservi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais desservi",
+			"tu": "avais desservi",
+			"il/elle": "avait desservi",
+			"nous": "avions desservi",
+			"vous": "aviez desservi",
+			"ils/elles": "avaient desservi"
+		},
+		"passé antérieur": {
+			"j'": "eus desservi",
+			"tu": "eus desservi",
+			"il/elle": "eut desservi",
+			"nous": "eûmes desservi",
+			"vous": "eûtes desservi",
+			"ils/elles": "eurent desservi"
+		},
+		"futur antérieur": {
+			"j'": "aurai desservi",
+			"tu": "auras desservi",
+			"il/elle": "aura desservi",
+			"nous": "aurons desservi",
+			"vous": "aurez desservi",
+			"ils/elles": "auront desservi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous desserviez",
+			"qu'il/elle": "desserve",
+			"qu'ils/elles": "desservent"
+		},
+		"imparfait": {
+			"que": "vous desservissiez",
+			"qu'il/elle": "desservît",
+			"qu'ils/elles": "desservissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse desservi",
+			"que": "vous eussiez desservi",
+			"qu'il/elle": "eût desservi",
+			"qu'ils/elles": "eussent desservi"
+		},
+		"passé": {
+			"j'": "aie desservi",
+			"que": "vous ayez desservi",
+			"qu'il/elle": "ait desservi",
+			"qu'ils/elles": "aient desservi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "desservirais",
+			"tu": "desservirais",
+			"il/elle": "desservirait",
+			"nous": "desservirions",
+			"vous": "desserviriez",
+			"ils/elles": "desserviraient"
+		},
+		"passé première forme": {
+			"j'": "aurais desservi",
+			"tu": "aurais desservi",
+			"il/elle": "aurait desservi",
+			"nous": "aurions desservi",
+			"vous": "auriez desservi",
+			"ils/elles": "auraient desservi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse desservi",
+			"tu": "eusses desservi",
+			"il/elle": "eût desservi",
+			"nous": "eussions desservi",
+			"vous": "eussiez desservi",
+			"ils/elles": "eussent desservi"
+		}
+	},
+	"participe": {
+		"présent": { "desservant": "" },
+		"passé composé": { "ayant": "desservi" },
+		"passé": {
+			"masc.sg.:": "desservi",
+			"masc.pl.:": "desservis",
+			"fém.sg.:": "desservie",
+			"fém.pl.:": "desservies"
+		}
+	},
+	"imperatif": {
+		"présent": { "dessers": "", "desservons": "", "desservez": "" },
+		"passé": { "aie": "desservi", "ayons": "desservi", "ayez": "desservi" }
+	},
+	"infinitif": {
+		"présent": { "desservir": "" },
+		"passé": { "avoir": "desservi" }
+	}
+}

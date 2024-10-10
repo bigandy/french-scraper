@@ -1,0 +1,143 @@
+{
+	"name": "manger",
+	"definition": "fix; arrange; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "s'arranger/ne pas arranger/ne pas s'arranger",
+	"indicatif": {
+		"présent": {
+			"j'": "arrange",
+			"tu": "arranges",
+			"il/elle": "arrange",
+			"nous": "arrangeons",
+			"vous": "arrangez",
+			"ils/elles": "arrangent"
+		},
+		"imparfait": {
+			"j'": "arrangeais",
+			"tu": "arrangeais",
+			"il/elle": "arrangeait",
+			"nous": "arrangions",
+			"vous": "arrangiez",
+			"ils/elles": "arrangeaient"
+		},
+		"futur": {
+			"j'": "arrangerai",
+			"tu": "arrangeras",
+			"il/elle": "arrangera",
+			"nous": "arrangerons",
+			"vous": "arrangerez",
+			"ils/elles": "arrangeront"
+		},
+		"passé simple": {
+			"j'": "arrangeai",
+			"tu": "arrangeas",
+			"il/elle": "arrangea",
+			"nous": "arrangeâmes",
+			"vous": "arrangeâtes",
+			"ils/elles": "arrangèrent"
+		},
+		"passé composé": {
+			"j'": "ai arrangé",
+			"tu": "as arrangé",
+			"il/elle": "a arrangé",
+			"nous": "avons arrangé",
+			"vous": "avez arrangé",
+			"ils/elles": "ont arrangé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais arrangé",
+			"tu": "avais arrangé",
+			"il/elle": "avait arrangé",
+			"nous": "avions arrangé",
+			"vous": "aviez arrangé",
+			"ils/elles": "avaient arrangé"
+		},
+		"passé antérieur": {
+			"j'": "eus arrangé",
+			"tu": "eus arrangé",
+			"il/elle": "eut arrangé",
+			"nous": "eûmes arrangé",
+			"vous": "eûtes arrangé",
+			"ils/elles": "eurent arrangé"
+		},
+		"futur antérieur": {
+			"j'": "aurai arrangé",
+			"tu": "auras arrangé",
+			"il/elle": "aura arrangé",
+			"nous": "aurons arrangé",
+			"vous": "aurez arrangé",
+			"ils/elles": "auront arrangé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "arrange",
+			"que": "vous arrangiez",
+			"qu'il/elle": "arrange",
+			"qu'ils/elles": "arrangent"
+		},
+		"imparfait": {
+			"j'": "arrangeasse",
+			"que": "vous arrangeassiez",
+			"qu'il/elle": "arrangeât",
+			"qu'ils/elles": "arrangeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse arrangé",
+			"que": "vous eussiez arrangé",
+			"qu'il/elle": "eût arrangé",
+			"qu'ils/elles": "eussent arrangé"
+		},
+		"passé": {
+			"j'": "aie arrangé",
+			"que": "vous ayez arrangé",
+			"qu'il/elle": "ait arrangé",
+			"qu'ils/elles": "aient arrangé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "arrangerais",
+			"tu": "arrangerais",
+			"il/elle": "arrangerait",
+			"nous": "arrangerions",
+			"vous": "arrangeriez",
+			"ils/elles": "arrangeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais arrangé",
+			"tu": "aurais arrangé",
+			"il/elle": "aurait arrangé",
+			"nous": "aurions arrangé",
+			"vous": "auriez arrangé",
+			"ils/elles": "auraient arrangé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse arrangé",
+			"tu": "eusses arrangé",
+			"il/elle": "eût arrangé",
+			"nous": "eussions arrangé",
+			"vous": "eussiez arrangé",
+			"ils/elles": "eussent arrangé"
+		}
+	},
+	"participe": {
+		"présent": { "arrangeant": "" },
+		"passé composé": { "ayant": "arrangé" },
+		"passé": {
+			"masc.sg.:": "arrangé",
+			"masc.pl.:": "arrangés",
+			"fém.sg.:": "arrangée",
+			"fém.pl.:": "arrangées"
+		}
+	},
+	"imperatif": {
+		"présent": { "arrange": "", "arrangeons": "", "arrangez": "" },
+		"passé": { "aie": "arrangé", "ayons": "arrangé", "ayez": "arrangé" }
+	},
+	"infinitif": {
+		"présent": { "arranger": "" },
+		"passé": { "avoir": "arrangé" }
+	}
+}

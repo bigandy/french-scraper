@@ -1,0 +1,141 @@
+{
+	"name": "attendre",
+	"definition": "unwind; expand; ...",
+	"model": "attendre",
+	"auxiliary": "avoir",
+	"otherForms": "se détendre/ne pas détendre/ne pas se détendre",
+	"indicatif": {
+		"présent": {
+			"je": "détends",
+			"tu": "détends",
+			"il/elle": "détend",
+			"nous": "détendons",
+			"vous": "détendez",
+			"ils/elles": "détendent"
+		},
+		"imparfait": {
+			"je": "détendais",
+			"tu": "détendais",
+			"il/elle": "détendait",
+			"nous": "détendions",
+			"vous": "détendiez",
+			"ils/elles": "détendaient"
+		},
+		"futur": {
+			"je": "détendrai",
+			"tu": "détendras",
+			"il/elle": "détendra",
+			"nous": "détendrons",
+			"vous": "détendrez",
+			"ils/elles": "détendront"
+		},
+		"passé simple": {
+			"je": "détendis",
+			"tu": "détendis",
+			"il/elle": "détendit",
+			"nous": "détendîmes",
+			"vous": "détendîtes",
+			"ils/elles": "détendirent"
+		},
+		"passé composé": {
+			"j'": "ai détendu",
+			"tu": "as détendu",
+			"il/elle": "a détendu",
+			"nous": "avons détendu",
+			"vous": "avez détendu",
+			"ils/elles": "ont détendu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais détendu",
+			"tu": "avais détendu",
+			"il/elle": "avait détendu",
+			"nous": "avions détendu",
+			"vous": "aviez détendu",
+			"ils/elles": "avaient détendu"
+		},
+		"passé antérieur": {
+			"j'": "eus détendu",
+			"tu": "eus détendu",
+			"il/elle": "eut détendu",
+			"nous": "eûmes détendu",
+			"vous": "eûtes détendu",
+			"ils/elles": "eurent détendu"
+		},
+		"futur antérieur": {
+			"j'": "aurai détendu",
+			"tu": "auras détendu",
+			"il/elle": "aura détendu",
+			"nous": "aurons détendu",
+			"vous": "aurez détendu",
+			"ils/elles": "auront détendu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous détendiez",
+			"qu'il/elle": "détende",
+			"qu'ils/elles": "détendent"
+		},
+		"imparfait": {
+			"que": "vous détendissiez",
+			"qu'il/elle": "détendît",
+			"qu'ils/elles": "détendissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse détendu",
+			"que": "vous eussiez détendu",
+			"qu'il/elle": "eût détendu",
+			"qu'ils/elles": "eussent détendu"
+		},
+		"passé": {
+			"j'": "aie détendu",
+			"que": "vous ayez détendu",
+			"qu'il/elle": "ait détendu",
+			"qu'ils/elles": "aient détendu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "détendrais",
+			"tu": "détendrais",
+			"il/elle": "détendrait",
+			"nous": "détendrions",
+			"vous": "détendriez",
+			"ils/elles": "détendraient"
+		},
+		"passé première forme": {
+			"j'": "aurais détendu",
+			"tu": "aurais détendu",
+			"il/elle": "aurait détendu",
+			"nous": "aurions détendu",
+			"vous": "auriez détendu",
+			"ils/elles": "auraient détendu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse détendu",
+			"tu": "eusses détendu",
+			"il/elle": "eût détendu",
+			"nous": "eussions détendu",
+			"vous": "eussiez détendu",
+			"ils/elles": "eussent détendu"
+		}
+	},
+	"participe": {
+		"présent": { "détendant": "" },
+		"passé composé": { "ayant": "détendu" },
+		"passé": {
+			"masc.sg.:": "détendu",
+			"masc.pl.:": "détendus",
+			"fém.sg.:": "détendue",
+			"fém.pl.:": "détendues"
+		}
+	},
+	"imperatif": {
+		"présent": { "détends": "", "détendons": "", "détendez": "" },
+		"passé": { "aie": "détendu", "ayons": "détendu", "ayez": "détendu" }
+	},
+	"infinitif": {
+		"présent": { "détendre": "" },
+		"passé": { "avoir": "détendu" }
+	}
+}

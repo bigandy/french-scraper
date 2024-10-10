@@ -1,0 +1,140 @@
+{
+	"name": "marcher",
+	"definition": "help; assist; support; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'aider/ne pas aider/ne pas s'aider",
+	"indicatif": {
+		"présent": {
+			"j'": "aide",
+			"tu": "aides",
+			"il/elle": "aide",
+			"nous": "aidons",
+			"vous": "aidez",
+			"ils/elles": "aident"
+		},
+		"imparfait": {
+			"j'": "aidais",
+			"tu": "aidais",
+			"il/elle": "aidait",
+			"nous": "aidions",
+			"vous": "aidiez",
+			"ils/elles": "aidaient"
+		},
+		"futur": {
+			"j'": "aiderai",
+			"tu": "aideras",
+			"il/elle": "aidera",
+			"nous": "aiderons",
+			"vous": "aiderez",
+			"ils/elles": "aideront"
+		},
+		"passé simple": {
+			"j'": "aidai",
+			"tu": "aidas",
+			"il/elle": "aida",
+			"nous": "aidâmes",
+			"vous": "aidâtes",
+			"ils/elles": "aidèrent"
+		},
+		"passé composé": {
+			"j'": "ai aidé",
+			"tu": "as aidé",
+			"il/elle": "a aidé",
+			"nous": "avons aidé",
+			"vous": "avez aidé",
+			"ils/elles": "ont aidé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais aidé",
+			"tu": "avais aidé",
+			"il/elle": "avait aidé",
+			"nous": "avions aidé",
+			"vous": "aviez aidé",
+			"ils/elles": "avaient aidé"
+		},
+		"passé antérieur": {
+			"j'": "eus aidé",
+			"tu": "eus aidé",
+			"il/elle": "eut aidé",
+			"nous": "eûmes aidé",
+			"vous": "eûtes aidé",
+			"ils/elles": "eurent aidé"
+		},
+		"futur antérieur": {
+			"j'": "aurai aidé",
+			"tu": "auras aidé",
+			"il/elle": "aura aidé",
+			"nous": "aurons aidé",
+			"vous": "aurez aidé",
+			"ils/elles": "auront aidé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "aide",
+			"que": "vous aidiez",
+			"qu'il/elle": "aide",
+			"qu'ils/elles": "aident"
+		},
+		"imparfait": {
+			"j'": "aidasse",
+			"que": "vous aidassiez",
+			"qu'il/elle": "aidât",
+			"qu'ils/elles": "aidassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse aidé",
+			"que": "vous eussiez aidé",
+			"qu'il/elle": "eût aidé",
+			"qu'ils/elles": "eussent aidé"
+		},
+		"passé": {
+			"j'": "aie aidé",
+			"que": "vous ayez aidé",
+			"qu'il/elle": "ait aidé",
+			"qu'ils/elles": "aient aidé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "aiderais",
+			"tu": "aiderais",
+			"il/elle": "aiderait",
+			"nous": "aiderions",
+			"vous": "aideriez",
+			"ils/elles": "aideraient"
+		},
+		"passé première forme": {
+			"j'": "aurais aidé",
+			"tu": "aurais aidé",
+			"il/elle": "aurait aidé",
+			"nous": "aurions aidé",
+			"vous": "auriez aidé",
+			"ils/elles": "auraient aidé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse aidé",
+			"tu": "eusses aidé",
+			"il/elle": "eût aidé",
+			"nous": "eussions aidé",
+			"vous": "eussiez aidé",
+			"ils/elles": "eussent aidé"
+		}
+	},
+	"participe": {
+		"présent": { "aidant": "" },
+		"passé composé": { "ayant": "aidé" },
+		"passé": {
+			"masc.sg.:": "aidé",
+			"masc.pl.:": "aidés",
+			"fém.sg.:": "aidée",
+			"fém.pl.:": "aidées"
+		}
+	},
+	"imperatif": {
+		"présent": { "aide": "", "aidons": "", "aidez": "" },
+		"passé": { "aie": "aidé", "ayons": "aidé", "ayez": "aidé" }
+	},
+	"infinitif": { "présent": { "aider": "" }, "passé": { "avoir": "aidé" } }
+}

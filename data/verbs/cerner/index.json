@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "identify; understand; determine; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se cerner/ne pas cerner/ne pas se cerner",
+	"indicatif": {
+		"présent": {
+			"je": "cerne",
+			"tu": "cernes",
+			"il/elle": "cerne",
+			"nous": "cernons",
+			"vous": "cernez",
+			"ils/elles": "cernent"
+		},
+		"imparfait": {
+			"je": "cernais",
+			"tu": "cernais",
+			"il/elle": "cernait",
+			"nous": "cernions",
+			"vous": "cerniez",
+			"ils/elles": "cernaient"
+		},
+		"futur": {
+			"je": "cernerai",
+			"tu": "cerneras",
+			"il/elle": "cernera",
+			"nous": "cernerons",
+			"vous": "cernerez",
+			"ils/elles": "cerneront"
+		},
+		"passé simple": {
+			"je": "cernai",
+			"tu": "cernas",
+			"il/elle": "cerna",
+			"nous": "cernâmes",
+			"vous": "cernâtes",
+			"ils/elles": "cernèrent"
+		},
+		"passé composé": {
+			"j'": "ai cerné",
+			"tu": "as cerné",
+			"il/elle": "a cerné",
+			"nous": "avons cerné",
+			"vous": "avez cerné",
+			"ils/elles": "ont cerné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais cerné",
+			"tu": "avais cerné",
+			"il/elle": "avait cerné",
+			"nous": "avions cerné",
+			"vous": "aviez cerné",
+			"ils/elles": "avaient cerné"
+		},
+		"passé antérieur": {
+			"j'": "eus cerné",
+			"tu": "eus cerné",
+			"il/elle": "eut cerné",
+			"nous": "eûmes cerné",
+			"vous": "eûtes cerné",
+			"ils/elles": "eurent cerné"
+		},
+		"futur antérieur": {
+			"j'": "aurai cerné",
+			"tu": "auras cerné",
+			"il/elle": "aura cerné",
+			"nous": "aurons cerné",
+			"vous": "aurez cerné",
+			"ils/elles": "auront cerné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous cerniez",
+			"qu'il/elle": "cerne",
+			"qu'ils/elles": "cernent"
+		},
+		"imparfait": {
+			"que": "vous cernassiez",
+			"qu'il/elle": "cernât",
+			"qu'ils/elles": "cernassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse cerné",
+			"que": "vous eussiez cerné",
+			"qu'il/elle": "eût cerné",
+			"qu'ils/elles": "eussent cerné"
+		},
+		"passé": {
+			"j'": "aie cerné",
+			"que": "vous ayez cerné",
+			"qu'il/elle": "ait cerné",
+			"qu'ils/elles": "aient cerné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "cernerais",
+			"tu": "cernerais",
+			"il/elle": "cernerait",
+			"nous": "cernerions",
+			"vous": "cerneriez",
+			"ils/elles": "cerneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais cerné",
+			"tu": "aurais cerné",
+			"il/elle": "aurait cerné",
+			"nous": "aurions cerné",
+			"vous": "auriez cerné",
+			"ils/elles": "auraient cerné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse cerné",
+			"tu": "eusses cerné",
+			"il/elle": "eût cerné",
+			"nous": "eussions cerné",
+			"vous": "eussiez cerné",
+			"ils/elles": "eussent cerné"
+		}
+	},
+	"participe": {
+		"présent": { "cernant": "" },
+		"passé composé": { "ayant": "cerné" },
+		"passé": {
+			"masc.sg.:": "cerné",
+			"masc.pl.:": "cernés",
+			"fém.sg.:": "cernée",
+			"fém.pl.:": "cernées"
+		}
+	},
+	"imperatif": {
+		"présent": { "cerne": "", "cernons": "", "cernez": "" },
+		"passé": { "aie": "cerné", "ayons": "cerné", "ayez": "cerné" }
+	},
+	"infinitif": { "présent": { "cerner": "" }, "passé": { "avoir": "cerné" } }
+}

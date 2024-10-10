@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "plug; clog; block; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se boucher/ne pas boucher/ne pas se boucher",
+	"indicatif": {
+		"présent": {
+			"je": "bouche",
+			"tu": "bouches",
+			"il/elle": "bouche",
+			"nous": "bouchons",
+			"vous": "bouchez",
+			"ils/elles": "bouchent"
+		},
+		"imparfait": {
+			"je": "bouchais",
+			"tu": "bouchais",
+			"il/elle": "bouchait",
+			"nous": "bouchions",
+			"vous": "bouchiez",
+			"ils/elles": "bouchaient"
+		},
+		"futur": {
+			"je": "boucherai",
+			"tu": "boucheras",
+			"il/elle": "bouchera",
+			"nous": "boucherons",
+			"vous": "boucherez",
+			"ils/elles": "boucheront"
+		},
+		"passé simple": {
+			"je": "bouchai",
+			"tu": "bouchas",
+			"il/elle": "boucha",
+			"nous": "bouchâmes",
+			"vous": "bouchâtes",
+			"ils/elles": "bouchèrent"
+		},
+		"passé composé": {
+			"j'": "ai bouché",
+			"tu": "as bouché",
+			"il/elle": "a bouché",
+			"nous": "avons bouché",
+			"vous": "avez bouché",
+			"ils/elles": "ont bouché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais bouché",
+			"tu": "avais bouché",
+			"il/elle": "avait bouché",
+			"nous": "avions bouché",
+			"vous": "aviez bouché",
+			"ils/elles": "avaient bouché"
+		},
+		"passé antérieur": {
+			"j'": "eus bouché",
+			"tu": "eus bouché",
+			"il/elle": "eut bouché",
+			"nous": "eûmes bouché",
+			"vous": "eûtes bouché",
+			"ils/elles": "eurent bouché"
+		},
+		"futur antérieur": {
+			"j'": "aurai bouché",
+			"tu": "auras bouché",
+			"il/elle": "aura bouché",
+			"nous": "aurons bouché",
+			"vous": "aurez bouché",
+			"ils/elles": "auront bouché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous bouchiez",
+			"qu'il/elle": "bouche",
+			"qu'ils/elles": "bouchent"
+		},
+		"imparfait": {
+			"que": "vous bouchassiez",
+			"qu'il/elle": "bouchât",
+			"qu'ils/elles": "bouchassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse bouché",
+			"que": "vous eussiez bouché",
+			"qu'il/elle": "eût bouché",
+			"qu'ils/elles": "eussent bouché"
+		},
+		"passé": {
+			"j'": "aie bouché",
+			"que": "vous ayez bouché",
+			"qu'il/elle": "ait bouché",
+			"qu'ils/elles": "aient bouché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "boucherais",
+			"tu": "boucherais",
+			"il/elle": "boucherait",
+			"nous": "boucherions",
+			"vous": "boucheriez",
+			"ils/elles": "boucheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais bouché",
+			"tu": "aurais bouché",
+			"il/elle": "aurait bouché",
+			"nous": "aurions bouché",
+			"vous": "auriez bouché",
+			"ils/elles": "auraient bouché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse bouché",
+			"tu": "eusses bouché",
+			"il/elle": "eût bouché",
+			"nous": "eussions bouché",
+			"vous": "eussiez bouché",
+			"ils/elles": "eussent bouché"
+		}
+	},
+	"participe": {
+		"présent": { "bouchant": "" },
+		"passé composé": { "ayant": "bouché" },
+		"passé": {
+			"masc.sg.:": "bouché",
+			"masc.pl.:": "bouchés",
+			"fém.sg.:": "bouchée",
+			"fém.pl.:": "bouchées"
+		}
+	},
+	"imperatif": {
+		"présent": { "bouche": "", "bouchons": "", "bouchez": "" },
+		"passé": { "aie": "bouché", "ayons": "bouché", "ayez": "bouché" }
+	},
+	"infinitif": { "présent": { "boucher": "" }, "passé": { "avoir": "bouché" } }
+}

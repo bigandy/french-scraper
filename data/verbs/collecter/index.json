@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "collect; gather; raise; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se collecter/ne pas collecter/ne pas se collecter",
+	"indicatif": {
+		"présent": {
+			"je": "collecte",
+			"tu": "collectes",
+			"il/elle": "collecte",
+			"nous": "collectons",
+			"vous": "collectez",
+			"ils/elles": "collectent"
+		},
+		"imparfait": {
+			"je": "collectais",
+			"tu": "collectais",
+			"il/elle": "collectait",
+			"nous": "collections",
+			"vous": "collectiez",
+			"ils/elles": "collectaient"
+		},
+		"futur": {
+			"je": "collecterai",
+			"tu": "collecteras",
+			"il/elle": "collectera",
+			"nous": "collecterons",
+			"vous": "collecterez",
+			"ils/elles": "collecteront"
+		},
+		"passé simple": {
+			"je": "collectai",
+			"tu": "collectas",
+			"il/elle": "collecta",
+			"nous": "collectâmes",
+			"vous": "collectâtes",
+			"ils/elles": "collectèrent"
+		},
+		"passé composé": {
+			"j'": "ai collecté",
+			"tu": "as collecté",
+			"il/elle": "a collecté",
+			"nous": "avons collecté",
+			"vous": "avez collecté",
+			"ils/elles": "ont collecté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais collecté",
+			"tu": "avais collecté",
+			"il/elle": "avait collecté",
+			"nous": "avions collecté",
+			"vous": "aviez collecté",
+			"ils/elles": "avaient collecté"
+		},
+		"passé antérieur": {
+			"j'": "eus collecté",
+			"tu": "eus collecté",
+			"il/elle": "eut collecté",
+			"nous": "eûmes collecté",
+			"vous": "eûtes collecté",
+			"ils/elles": "eurent collecté"
+		},
+		"futur antérieur": {
+			"j'": "aurai collecté",
+			"tu": "auras collecté",
+			"il/elle": "aura collecté",
+			"nous": "aurons collecté",
+			"vous": "aurez collecté",
+			"ils/elles": "auront collecté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous collectiez",
+			"qu'il/elle": "collecte",
+			"qu'ils/elles": "collectent"
+		},
+		"imparfait": {
+			"que": "vous collectassiez",
+			"qu'il/elle": "collectât",
+			"qu'ils/elles": "collectassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse collecté",
+			"que": "vous eussiez collecté",
+			"qu'il/elle": "eût collecté",
+			"qu'ils/elles": "eussent collecté"
+		},
+		"passé": {
+			"j'": "aie collecté",
+			"que": "vous ayez collecté",
+			"qu'il/elle": "ait collecté",
+			"qu'ils/elles": "aient collecté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "collecterais",
+			"tu": "collecterais",
+			"il/elle": "collecterait",
+			"nous": "collecterions",
+			"vous": "collecteriez",
+			"ils/elles": "collecteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais collecté",
+			"tu": "aurais collecté",
+			"il/elle": "aurait collecté",
+			"nous": "aurions collecté",
+			"vous": "auriez collecté",
+			"ils/elles": "auraient collecté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse collecté",
+			"tu": "eusses collecté",
+			"il/elle": "eût collecté",
+			"nous": "eussions collecté",
+			"vous": "eussiez collecté",
+			"ils/elles": "eussent collecté"
+		}
+	},
+	"participe": {
+		"présent": { "collectant": "" },
+		"passé composé": { "ayant": "collecté" },
+		"passé": {
+			"masc.sg.:": "collecté",
+			"masc.pl.:": "collectés",
+			"fém.sg.:": "collectée",
+			"fém.pl.:": "collectées"
+		}
+	},
+	"imperatif": {
+		"présent": { "collecte": "", "collectons": "", "collectez": "" },
+		"passé": { "aie": "collecté", "ayons": "collecté", "ayez": "collecté" }
+	},
+	"infinitif": {
+		"présent": { "collecter": "" },
+		"passé": { "avoir": "collecté" }
+	}
+}

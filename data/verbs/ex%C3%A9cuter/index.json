@@ -1,0 +1,143 @@
+{
+	"name": "marcher",
+	"definition": "execute; perform; run; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'exécuter/ne pas exécuter/ne pas s'exécuter",
+	"indicatif": {
+		"présent": {
+			"j'": "exécute",
+			"tu": "exécutes",
+			"il/elle": "exécute",
+			"nous": "exécutons",
+			"vous": "exécutez",
+			"ils/elles": "exécutent"
+		},
+		"imparfait": {
+			"j'": "exécutais",
+			"tu": "exécutais",
+			"il/elle": "exécutait",
+			"nous": "exécutions",
+			"vous": "exécutiez",
+			"ils/elles": "exécutaient"
+		},
+		"futur": {
+			"j'": "exécuterai",
+			"tu": "exécuteras",
+			"il/elle": "exécutera",
+			"nous": "exécuterons",
+			"vous": "exécuterez",
+			"ils/elles": "exécuteront"
+		},
+		"passé simple": {
+			"j'": "exécutai",
+			"tu": "exécutas",
+			"il/elle": "exécuta",
+			"nous": "exécutâmes",
+			"vous": "exécutâtes",
+			"ils/elles": "exécutèrent"
+		},
+		"passé composé": {
+			"j'": "ai exécuté",
+			"tu": "as exécuté",
+			"il/elle": "a exécuté",
+			"nous": "avons exécuté",
+			"vous": "avez exécuté",
+			"ils/elles": "ont exécuté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais exécuté",
+			"tu": "avais exécuté",
+			"il/elle": "avait exécuté",
+			"nous": "avions exécuté",
+			"vous": "aviez exécuté",
+			"ils/elles": "avaient exécuté"
+		},
+		"passé antérieur": {
+			"j'": "eus exécuté",
+			"tu": "eus exécuté",
+			"il/elle": "eut exécuté",
+			"nous": "eûmes exécuté",
+			"vous": "eûtes exécuté",
+			"ils/elles": "eurent exécuté"
+		},
+		"futur antérieur": {
+			"j'": "aurai exécuté",
+			"tu": "auras exécuté",
+			"il/elle": "aura exécuté",
+			"nous": "aurons exécuté",
+			"vous": "aurez exécuté",
+			"ils/elles": "auront exécuté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "exécute",
+			"que": "vous exécutiez",
+			"qu'il/elle": "exécute",
+			"qu'ils/elles": "exécutent"
+		},
+		"imparfait": {
+			"j'": "exécutasse",
+			"que": "vous exécutassiez",
+			"qu'il/elle": "exécutât",
+			"qu'ils/elles": "exécutassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse exécuté",
+			"que": "vous eussiez exécuté",
+			"qu'il/elle": "eût exécuté",
+			"qu'ils/elles": "eussent exécuté"
+		},
+		"passé": {
+			"j'": "aie exécuté",
+			"que": "vous ayez exécuté",
+			"qu'il/elle": "ait exécuté",
+			"qu'ils/elles": "aient exécuté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "exécuterais",
+			"tu": "exécuterais",
+			"il/elle": "exécuterait",
+			"nous": "exécuterions",
+			"vous": "exécuteriez",
+			"ils/elles": "exécuteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais exécuté",
+			"tu": "aurais exécuté",
+			"il/elle": "aurait exécuté",
+			"nous": "aurions exécuté",
+			"vous": "auriez exécuté",
+			"ils/elles": "auraient exécuté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse exécuté",
+			"tu": "eusses exécuté",
+			"il/elle": "eût exécuté",
+			"nous": "eussions exécuté",
+			"vous": "eussiez exécuté",
+			"ils/elles": "eussent exécuté"
+		}
+	},
+	"participe": {
+		"présent": { "exécutant": "" },
+		"passé composé": { "ayant": "exécuté" },
+		"passé": {
+			"masc.sg.:": "exécuté",
+			"masc.pl.:": "exécutés",
+			"fém.sg.:": "exécutée",
+			"fém.pl.:": "exécutées"
+		}
+	},
+	"imperatif": {
+		"présent": { "exécute": "", "exécutons": "", "exécutez": "" },
+		"passé": { "aie": "exécuté", "ayons": "exécuté", "ayez": "exécuté" }
+	},
+	"infinitif": {
+		"présent": { "exécuter": "" },
+		"passé": { "avoir": "exécuté" }
+	}
+}

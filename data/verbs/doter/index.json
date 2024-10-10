@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "provide; develop; equip; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se doter/ne pas doter/ne pas se doter",
+	"indicatif": {
+		"présent": {
+			"je": "dote",
+			"tu": "dotes",
+			"il/elle": "dote",
+			"nous": "dotons",
+			"vous": "dotez",
+			"ils/elles": "dotent"
+		},
+		"imparfait": {
+			"je": "dotais",
+			"tu": "dotais",
+			"il/elle": "dotait",
+			"nous": "dotions",
+			"vous": "dotiez",
+			"ils/elles": "dotaient"
+		},
+		"futur": {
+			"je": "doterai",
+			"tu": "doteras",
+			"il/elle": "dotera",
+			"nous": "doterons",
+			"vous": "doterez",
+			"ils/elles": "doteront"
+		},
+		"passé simple": {
+			"je": "dotai",
+			"tu": "dotas",
+			"il/elle": "dota",
+			"nous": "dotâmes",
+			"vous": "dotâtes",
+			"ils/elles": "dotèrent"
+		},
+		"passé composé": {
+			"j'": "ai doté",
+			"tu": "as doté",
+			"il/elle": "a doté",
+			"nous": "avons doté",
+			"vous": "avez doté",
+			"ils/elles": "ont doté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais doté",
+			"tu": "avais doté",
+			"il/elle": "avait doté",
+			"nous": "avions doté",
+			"vous": "aviez doté",
+			"ils/elles": "avaient doté"
+		},
+		"passé antérieur": {
+			"j'": "eus doté",
+			"tu": "eus doté",
+			"il/elle": "eut doté",
+			"nous": "eûmes doté",
+			"vous": "eûtes doté",
+			"ils/elles": "eurent doté"
+		},
+		"futur antérieur": {
+			"j'": "aurai doté",
+			"tu": "auras doté",
+			"il/elle": "aura doté",
+			"nous": "aurons doté",
+			"vous": "aurez doté",
+			"ils/elles": "auront doté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous dotiez",
+			"qu'il/elle": "dote",
+			"qu'ils/elles": "dotent"
+		},
+		"imparfait": {
+			"que": "vous dotassiez",
+			"qu'il/elle": "dotât",
+			"qu'ils/elles": "dotassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse doté",
+			"que": "vous eussiez doté",
+			"qu'il/elle": "eût doté",
+			"qu'ils/elles": "eussent doté"
+		},
+		"passé": {
+			"j'": "aie doté",
+			"que": "vous ayez doté",
+			"qu'il/elle": "ait doté",
+			"qu'ils/elles": "aient doté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "doterais",
+			"tu": "doterais",
+			"il/elle": "doterait",
+			"nous": "doterions",
+			"vous": "doteriez",
+			"ils/elles": "doteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais doté",
+			"tu": "aurais doté",
+			"il/elle": "aurait doté",
+			"nous": "aurions doté",
+			"vous": "auriez doté",
+			"ils/elles": "auraient doté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse doté",
+			"tu": "eusses doté",
+			"il/elle": "eût doté",
+			"nous": "eussions doté",
+			"vous": "eussiez doté",
+			"ils/elles": "eussent doté"
+		}
+	},
+	"participe": {
+		"présent": { "dotant": "" },
+		"passé composé": { "ayant": "doté" },
+		"passé": {
+			"masc.sg.:": "doté",
+			"masc.pl.:": "dotés",
+			"fém.sg.:": "dotée",
+			"fém.pl.:": "dotées"
+		}
+	},
+	"imperatif": {
+		"présent": { "dote": "", "dotons": "", "dotez": "" },
+		"passé": { "aie": "doté", "ayons": "doté", "ayez": "doté" }
+	},
+	"infinitif": { "présent": { "doter": "" }, "passé": { "avoir": "doté" } }
+}

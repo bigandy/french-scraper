@@ -1,0 +1,138 @@
+{
+	"name": "dire",
+	"definition": "say; tell; mean; ...",
+	"model": "dire",
+	"auxiliary": "avoir",
+	"otherForms": "se dire/ne pas dire/ne pas se dire",
+	"indicatif": {
+		"présent": {
+			"je": "dis",
+			"tu": "dis",
+			"il/elle": "dit",
+			"nous": "disons",
+			"vous": "dites",
+			"ils/elles": "disent"
+		},
+		"imparfait": {
+			"je": "disais",
+			"tu": "disais",
+			"il/elle": "disait",
+			"nous": "disions",
+			"vous": "disiez",
+			"ils/elles": "disaient"
+		},
+		"futur": {
+			"je": "dirai",
+			"tu": "diras",
+			"il/elle": "dira",
+			"nous": "dirons",
+			"vous": "direz",
+			"ils/elles": "diront"
+		},
+		"passé simple": {
+			"je": "dis",
+			"tu": "dis",
+			"il/elle": "dit",
+			"nous": "dîmes",
+			"vous": "dîtes",
+			"ils/elles": "dirent"
+		},
+		"passé composé": {
+			"j'": "ai dit",
+			"tu": "as dit",
+			"il/elle": "a dit",
+			"nous": "avons dit",
+			"vous": "avez dit",
+			"ils/elles": "ont dit"
+		},
+		"plus-que-parfait": {
+			"j'": "avais dit",
+			"tu": "avais dit",
+			"il/elle": "avait dit",
+			"nous": "avions dit",
+			"vous": "aviez dit",
+			"ils/elles": "avaient dit"
+		},
+		"passé antérieur": {
+			"j'": "eus dit",
+			"tu": "eus dit",
+			"il/elle": "eut dit",
+			"nous": "eûmes dit",
+			"vous": "eûtes dit",
+			"ils/elles": "eurent dit"
+		},
+		"futur antérieur": {
+			"j'": "aurai dit",
+			"tu": "auras dit",
+			"il/elle": "aura dit",
+			"nous": "aurons dit",
+			"vous": "aurez dit",
+			"ils/elles": "auront dit"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous disiez",
+			"qu'il/elle": "dise",
+			"qu'ils/elles": "disent"
+		},
+		"imparfait": {
+			"que": "vous dissiez",
+			"qu'il/elle": "dît",
+			"qu'ils/elles": "dissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse dit",
+			"que": "vous eussiez dit",
+			"qu'il/elle": "eût dit",
+			"qu'ils/elles": "eussent dit"
+		},
+		"passé": {
+			"j'": "aie dit",
+			"que": "vous ayez dit",
+			"qu'il/elle": "ait dit",
+			"qu'ils/elles": "aient dit"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "dirais",
+			"tu": "dirais",
+			"il/elle": "dirait",
+			"nous": "dirions",
+			"vous": "diriez",
+			"ils/elles": "diraient"
+		},
+		"passé première forme": {
+			"j'": "aurais dit",
+			"tu": "aurais dit",
+			"il/elle": "aurait dit",
+			"nous": "aurions dit",
+			"vous": "auriez dit",
+			"ils/elles": "auraient dit"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse dit",
+			"tu": "eusses dit",
+			"il/elle": "eût dit",
+			"nous": "eussions dit",
+			"vous": "eussiez dit",
+			"ils/elles": "eussent dit"
+		}
+	},
+	"participe": {
+		"présent": { "disant": "" },
+		"passé composé": { "ayant": "dit" },
+		"passé": {
+			"masc.sg.:": "dit",
+			"masc.pl.:": "dits",
+			"fém.sg.:": "dite",
+			"fém.pl.:": "dites"
+		}
+	},
+	"imperatif": {
+		"présent": { "dis": "", "disons": "", "dites": "" },
+		"passé": { "aie": "dit", "ayons": "dit", "ayez": "dit" }
+	},
+	"infinitif": { "présent": { "dire": "" }, "passé": { "avoir": "dit" } }
+}

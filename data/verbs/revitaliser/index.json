@@ -1,0 +1,145 @@
+{
+	"name": "marcher",
+	"definition": "\n              revitalize; revitalise; reinvigorate; ...\n            ",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se revitaliser/ne pas revitaliser/ne pas se revitaliser",
+	"indicatif": {
+		"présent": {
+			"je": "revitalise",
+			"tu": "revitalises",
+			"il/elle": "revitalise",
+			"nous": "revitalisons",
+			"vous": "revitalisez",
+			"ils/elles": "revitalisent"
+		},
+		"imparfait": {
+			"je": "revitalisais",
+			"tu": "revitalisais",
+			"il/elle": "revitalisait",
+			"nous": "revitalisions",
+			"vous": "revitalisiez",
+			"ils/elles": "revitalisaient"
+		},
+		"futur": {
+			"je": "revitaliserai",
+			"tu": "revitaliseras",
+			"il/elle": "revitalisera",
+			"nous": "revitaliserons",
+			"vous": "revitaliserez",
+			"ils/elles": "revitaliseront"
+		},
+		"passé simple": {
+			"je": "revitalisai",
+			"tu": "revitalisas",
+			"il/elle": "revitalisa",
+			"nous": "revitalisâmes",
+			"vous": "revitalisâtes",
+			"ils/elles": "revitalisèrent"
+		},
+		"passé composé": {
+			"j'": "ai revitalisé",
+			"tu": "as revitalisé",
+			"il/elle": "a revitalisé",
+			"nous": "avons revitalisé",
+			"vous": "avez revitalisé",
+			"ils/elles": "ont revitalisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais revitalisé",
+			"tu": "avais revitalisé",
+			"il/elle": "avait revitalisé",
+			"nous": "avions revitalisé",
+			"vous": "aviez revitalisé",
+			"ils/elles": "avaient revitalisé"
+		},
+		"passé antérieur": {
+			"j'": "eus revitalisé",
+			"tu": "eus revitalisé",
+			"il/elle": "eut revitalisé",
+			"nous": "eûmes revitalisé",
+			"vous": "eûtes revitalisé",
+			"ils/elles": "eurent revitalisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai revitalisé",
+			"tu": "auras revitalisé",
+			"il/elle": "aura revitalisé",
+			"nous": "aurons revitalisé",
+			"vous": "aurez revitalisé",
+			"ils/elles": "auront revitalisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous revitalisiez",
+			"qu'il/elle": "revitalise",
+			"qu'ils/elles": "revitalisent"
+		},
+		"imparfait": {
+			"que": "vous revitalisassiez",
+			"qu'il/elle": "revitalisât",
+			"qu'ils/elles": "revitalisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse revitalisé",
+			"que": "vous eussiez revitalisé",
+			"qu'il/elle": "eût revitalisé",
+			"qu'ils/elles": "eussent revitalisé"
+		},
+		"passé": {
+			"j'": "aie revitalisé",
+			"que": "vous ayez revitalisé",
+			"qu'il/elle": "ait revitalisé",
+			"qu'ils/elles": "aient revitalisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "revitaliserais",
+			"tu": "revitaliserais",
+			"il/elle": "revitaliserait",
+			"nous": "revitaliserions",
+			"vous": "revitaliseriez",
+			"ils/elles": "revitaliseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais revitalisé",
+			"tu": "aurais revitalisé",
+			"il/elle": "aurait revitalisé",
+			"nous": "aurions revitalisé",
+			"vous": "auriez revitalisé",
+			"ils/elles": "auraient revitalisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse revitalisé",
+			"tu": "eusses revitalisé",
+			"il/elle": "eût revitalisé",
+			"nous": "eussions revitalisé",
+			"vous": "eussiez revitalisé",
+			"ils/elles": "eussent revitalisé"
+		}
+	},
+	"participe": {
+		"présent": { "revitalisant": "" },
+		"passé composé": { "ayant": "revitalisé" },
+		"passé": {
+			"masc.sg.:": "revitalisé",
+			"masc.pl.:": "revitalisés",
+			"fém.sg.:": "revitalisée",
+			"fém.pl.:": "revitalisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "revitalise": "", "revitalisons": "", "revitalisez": "" },
+		"passé": {
+			"aie": "revitalisé",
+			"ayons": "revitalisé",
+			"ayez": "revitalisé"
+		}
+	},
+	"infinitif": {
+		"présent": { "revitaliser": "" },
+		"passé": { "avoir": "revitalisé" }
+	}
+}

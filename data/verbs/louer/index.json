@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "rent; hire; lease; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se louer/ne pas louer/ne pas se louer",
+	"indicatif": {
+		"présent": {
+			"je": "loue",
+			"tu": "loues",
+			"il/elle": "loue",
+			"nous": "louons",
+			"vous": "louez",
+			"ils/elles": "louent"
+		},
+		"imparfait": {
+			"je": "louais",
+			"tu": "louais",
+			"il/elle": "louait",
+			"nous": "louions",
+			"vous": "louiez",
+			"ils/elles": "louaient"
+		},
+		"futur": {
+			"je": "louerai",
+			"tu": "loueras",
+			"il/elle": "louera",
+			"nous": "louerons",
+			"vous": "louerez",
+			"ils/elles": "loueront"
+		},
+		"passé simple": {
+			"je": "louai",
+			"tu": "louas",
+			"il/elle": "loua",
+			"nous": "louâmes",
+			"vous": "louâtes",
+			"ils/elles": "louèrent"
+		},
+		"passé composé": {
+			"j'": "ai loué",
+			"tu": "as loué",
+			"il/elle": "a loué",
+			"nous": "avons loué",
+			"vous": "avez loué",
+			"ils/elles": "ont loué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais loué",
+			"tu": "avais loué",
+			"il/elle": "avait loué",
+			"nous": "avions loué",
+			"vous": "aviez loué",
+			"ils/elles": "avaient loué"
+		},
+		"passé antérieur": {
+			"j'": "eus loué",
+			"tu": "eus loué",
+			"il/elle": "eut loué",
+			"nous": "eûmes loué",
+			"vous": "eûtes loué",
+			"ils/elles": "eurent loué"
+		},
+		"futur antérieur": {
+			"j'": "aurai loué",
+			"tu": "auras loué",
+			"il/elle": "aura loué",
+			"nous": "aurons loué",
+			"vous": "aurez loué",
+			"ils/elles": "auront loué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous louiez",
+			"qu'il/elle": "loue",
+			"qu'ils/elles": "louent"
+		},
+		"imparfait": {
+			"que": "vous louassiez",
+			"qu'il/elle": "louât",
+			"qu'ils/elles": "louassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse loué",
+			"que": "vous eussiez loué",
+			"qu'il/elle": "eût loué",
+			"qu'ils/elles": "eussent loué"
+		},
+		"passé": {
+			"j'": "aie loué",
+			"que": "vous ayez loué",
+			"qu'il/elle": "ait loué",
+			"qu'ils/elles": "aient loué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "louerais",
+			"tu": "louerais",
+			"il/elle": "louerait",
+			"nous": "louerions",
+			"vous": "loueriez",
+			"ils/elles": "loueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais loué",
+			"tu": "aurais loué",
+			"il/elle": "aurait loué",
+			"nous": "aurions loué",
+			"vous": "auriez loué",
+			"ils/elles": "auraient loué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse loué",
+			"tu": "eusses loué",
+			"il/elle": "eût loué",
+			"nous": "eussions loué",
+			"vous": "eussiez loué",
+			"ils/elles": "eussent loué"
+		}
+	},
+	"participe": {
+		"présent": { "louant": "" },
+		"passé composé": { "ayant": "loué" },
+		"passé": {
+			"masc.sg.:": "loué",
+			"masc.pl.:": "loués",
+			"fém.sg.:": "louée",
+			"fém.pl.:": "louées"
+		}
+	},
+	"imperatif": {
+		"présent": { "loue": "", "louons": "", "louez": "" },
+		"passé": { "aie": "loué", "ayons": "loué", "ayez": "loué" }
+	},
+	"infinitif": { "présent": { "louer": "" }, "passé": { "avoir": "loué" } }
+}

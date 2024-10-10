@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "treat; process; address; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se traiter/ne pas traiter/ne pas se traiter",
+	"indicatif": {
+		"présent": {
+			"je": "traite",
+			"tu": "traites",
+			"il/elle": "traite",
+			"nous": "traitons",
+			"vous": "traitez",
+			"ils/elles": "traitent"
+		},
+		"imparfait": {
+			"je": "traitais",
+			"tu": "traitais",
+			"il/elle": "traitait",
+			"nous": "traitions",
+			"vous": "traitiez",
+			"ils/elles": "traitaient"
+		},
+		"futur": {
+			"je": "traiterai",
+			"tu": "traiteras",
+			"il/elle": "traitera",
+			"nous": "traiterons",
+			"vous": "traiterez",
+			"ils/elles": "traiteront"
+		},
+		"passé simple": {
+			"je": "traitai",
+			"tu": "traitas",
+			"il/elle": "traita",
+			"nous": "traitâmes",
+			"vous": "traitâtes",
+			"ils/elles": "traitèrent"
+		},
+		"passé composé": {
+			"j'": "ai traité",
+			"tu": "as traité",
+			"il/elle": "a traité",
+			"nous": "avons traité",
+			"vous": "avez traité",
+			"ils/elles": "ont traité"
+		},
+		"plus-que-parfait": {
+			"j'": "avais traité",
+			"tu": "avais traité",
+			"il/elle": "avait traité",
+			"nous": "avions traité",
+			"vous": "aviez traité",
+			"ils/elles": "avaient traité"
+		},
+		"passé antérieur": {
+			"j'": "eus traité",
+			"tu": "eus traité",
+			"il/elle": "eut traité",
+			"nous": "eûmes traité",
+			"vous": "eûtes traité",
+			"ils/elles": "eurent traité"
+		},
+		"futur antérieur": {
+			"j'": "aurai traité",
+			"tu": "auras traité",
+			"il/elle": "aura traité",
+			"nous": "aurons traité",
+			"vous": "aurez traité",
+			"ils/elles": "auront traité"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous traitiez",
+			"qu'il/elle": "traite",
+			"qu'ils/elles": "traitent"
+		},
+		"imparfait": {
+			"que": "vous traitassiez",
+			"qu'il/elle": "traitât",
+			"qu'ils/elles": "traitassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse traité",
+			"que": "vous eussiez traité",
+			"qu'il/elle": "eût traité",
+			"qu'ils/elles": "eussent traité"
+		},
+		"passé": {
+			"j'": "aie traité",
+			"que": "vous ayez traité",
+			"qu'il/elle": "ait traité",
+			"qu'ils/elles": "aient traité"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "traiterais",
+			"tu": "traiterais",
+			"il/elle": "traiterait",
+			"nous": "traiterions",
+			"vous": "traiteriez",
+			"ils/elles": "traiteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais traité",
+			"tu": "aurais traité",
+			"il/elle": "aurait traité",
+			"nous": "aurions traité",
+			"vous": "auriez traité",
+			"ils/elles": "auraient traité"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse traité",
+			"tu": "eusses traité",
+			"il/elle": "eût traité",
+			"nous": "eussions traité",
+			"vous": "eussiez traité",
+			"ils/elles": "eussent traité"
+		}
+	},
+	"participe": {
+		"présent": { "traitant": "" },
+		"passé composé": { "ayant": "traité" },
+		"passé": {
+			"masc.sg.:": "traité",
+			"masc.pl.:": "traités",
+			"fém.sg.:": "traitée",
+			"fém.pl.:": "traitées"
+		}
+	},
+	"imperatif": {
+		"présent": { "traite": "", "traitons": "", "traitez": "" },
+		"passé": { "aie": "traité", "ayons": "traité", "ayez": "traité" }
+	},
+	"infinitif": { "présent": { "traiter": "" }, "passé": { "avoir": "traité" } }
+}

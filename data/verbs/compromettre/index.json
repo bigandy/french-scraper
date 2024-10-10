@@ -1,0 +1,141 @@
+{
+	"name": "mettre",
+	"definition": "compromise; jeopardize; undermine; ...",
+	"model": "mettre",
+	"auxiliary": "avoir",
+	"otherForms": "se compromettre/ne pas compromettre/ne pas se compromettre",
+	"indicatif": {
+		"présent": {
+			"je": "compromets",
+			"tu": "compromets",
+			"il/elle": "compromet",
+			"nous": "compromettons",
+			"vous": "compromettez",
+			"ils/elles": "compromettent"
+		},
+		"imparfait": {
+			"je": "compromettais",
+			"tu": "compromettais",
+			"il/elle": "compromettait",
+			"nous": "compromettions",
+			"vous": "compromettiez",
+			"ils/elles": "compromettaient"
+		},
+		"futur": {
+			"je": "compromettrai",
+			"tu": "compromettras",
+			"il/elle": "compromettra",
+			"nous": "compromettrons",
+			"vous": "compromettrez",
+			"ils/elles": "compromettront"
+		},
+		"passé simple": {
+			"je": "compromis",
+			"tu": "compromis",
+			"il/elle": "compromit",
+			"nous": "compromîmes",
+			"vous": "compromîtes",
+			"ils/elles": "compromirent"
+		},
+		"passé composé": {
+			"j'": "ai compromis",
+			"tu": "as compromis",
+			"il/elle": "a compromis",
+			"nous": "avons compromis",
+			"vous": "avez compromis",
+			"ils/elles": "ont compromis"
+		},
+		"plus-que-parfait": {
+			"j'": "avais compromis",
+			"tu": "avais compromis",
+			"il/elle": "avait compromis",
+			"nous": "avions compromis",
+			"vous": "aviez compromis",
+			"ils/elles": "avaient compromis"
+		},
+		"passé antérieur": {
+			"j'": "eus compromis",
+			"tu": "eus compromis",
+			"il/elle": "eut compromis",
+			"nous": "eûmes compromis",
+			"vous": "eûtes compromis",
+			"ils/elles": "eurent compromis"
+		},
+		"futur antérieur": {
+			"j'": "aurai compromis",
+			"tu": "auras compromis",
+			"il/elle": "aura compromis",
+			"nous": "aurons compromis",
+			"vous": "aurez compromis",
+			"ils/elles": "auront compromis"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous compromettiez",
+			"qu'il/elle": "compromette",
+			"qu'ils/elles": "compromettent"
+		},
+		"imparfait": {
+			"que": "vous compromissiez",
+			"qu'il/elle": "compromît",
+			"qu'ils/elles": "compromissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse compromis",
+			"que": "vous eussiez compromis",
+			"qu'il/elle": "eût compromis",
+			"qu'ils/elles": "eussent compromis"
+		},
+		"passé": {
+			"j'": "aie compromis",
+			"que": "vous ayez compromis",
+			"qu'il/elle": "ait compromis",
+			"qu'ils/elles": "aient compromis"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "compromettrais",
+			"tu": "compromettrais",
+			"il/elle": "compromettrait",
+			"nous": "compromettrions",
+			"vous": "compromettriez",
+			"ils/elles": "compromettraient"
+		},
+		"passé première forme": {
+			"j'": "aurais compromis",
+			"tu": "aurais compromis",
+			"il/elle": "aurait compromis",
+			"nous": "aurions compromis",
+			"vous": "auriez compromis",
+			"ils/elles": "auraient compromis"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse compromis",
+			"tu": "eusses compromis",
+			"il/elle": "eût compromis",
+			"nous": "eussions compromis",
+			"vous": "eussiez compromis",
+			"ils/elles": "eussent compromis"
+		}
+	},
+	"participe": {
+		"présent": { "compromettant": "" },
+		"passé composé": { "ayant": "compromis" },
+		"passé": {
+			"masc.sg.:": "compromis",
+			"masc.pl.:": "compromis",
+			"fém.sg.:": "compromise",
+			"fém.pl.:": "compromises"
+		}
+	},
+	"imperatif": {
+		"présent": { "compromets": "", "compromettons": "", "compromettez": "" },
+		"passé": { "aie": "compromis", "ayons": "compromis", "ayez": "compromis" }
+	},
+	"infinitif": {
+		"présent": { "compromettre": "" },
+		"passé": { "avoir": "compromis" }
+	}
+}

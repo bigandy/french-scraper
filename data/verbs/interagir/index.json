@@ -1,0 +1,143 @@
+{
+	"name": "finir",
+	"definition": "interact; interoperate; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas interagir",
+	"indicatif": {
+		"présent": {
+			"j'": "interagis",
+			"tu": "interagis",
+			"il/elle": "interagit",
+			"nous": "interagissons",
+			"vous": "interagissez",
+			"ils/elles": "interagissent"
+		},
+		"imparfait": {
+			"j'": "interagissais",
+			"tu": "interagissais",
+			"il/elle": "interagissait",
+			"nous": "interagissions",
+			"vous": "interagissiez",
+			"ils/elles": "interagissaient"
+		},
+		"futur": {
+			"j'": "interagirai",
+			"tu": "interagiras",
+			"il/elle": "interagira",
+			"nous": "interagirons",
+			"vous": "interagirez",
+			"ils/elles": "interagiront"
+		},
+		"passé simple": {
+			"j'": "interagis",
+			"tu": "interagis",
+			"il/elle": "interagit",
+			"nous": "interagîmes",
+			"vous": "interagîtes",
+			"ils/elles": "interagirent"
+		},
+		"passé composé": {
+			"j'": "ai interagi",
+			"tu": "as interagi",
+			"il/elle": "a interagi",
+			"nous": "avons interagi",
+			"vous": "avez interagi",
+			"ils/elles": "ont interagi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais interagi",
+			"tu": "avais interagi",
+			"il/elle": "avait interagi",
+			"nous": "avions interagi",
+			"vous": "aviez interagi",
+			"ils/elles": "avaient interagi"
+		},
+		"passé antérieur": {
+			"j'": "eus interagi",
+			"tu": "eus interagi",
+			"il/elle": "eut interagi",
+			"nous": "eûmes interagi",
+			"vous": "eûtes interagi",
+			"ils/elles": "eurent interagi"
+		},
+		"futur antérieur": {
+			"j'": "aurai interagi",
+			"tu": "auras interagi",
+			"il/elle": "aura interagi",
+			"nous": "aurons interagi",
+			"vous": "aurez interagi",
+			"ils/elles": "auront interagi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "interagisse",
+			"que": "vous interagissiez",
+			"qu'il/elle": "interagisse",
+			"qu'ils/elles": "interagissent"
+		},
+		"imparfait": {
+			"j'": "interagisse",
+			"que": "vous interagissiez",
+			"qu'il/elle": "interagît",
+			"qu'ils/elles": "interagissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse interagi",
+			"que": "vous eussiez interagi",
+			"qu'il/elle": "eût interagi",
+			"qu'ils/elles": "eussent interagi"
+		},
+		"passé": {
+			"j'": "aie interagi",
+			"que": "vous ayez interagi",
+			"qu'il/elle": "ait interagi",
+			"qu'ils/elles": "aient interagi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "interagirais",
+			"tu": "interagirais",
+			"il/elle": "interagirait",
+			"nous": "interagirions",
+			"vous": "interagiriez",
+			"ils/elles": "interagiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais interagi",
+			"tu": "aurais interagi",
+			"il/elle": "aurait interagi",
+			"nous": "aurions interagi",
+			"vous": "auriez interagi",
+			"ils/elles": "auraient interagi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse interagi",
+			"tu": "eusses interagi",
+			"il/elle": "eût interagi",
+			"nous": "eussions interagi",
+			"vous": "eussiez interagi",
+			"ils/elles": "eussent interagi"
+		}
+	},
+	"participe": {
+		"présent": { "interagissant": "" },
+		"passé composé": { "ayant": "interagi" },
+		"passé": {
+			"masc.sg.:": "interagi",
+			"masc.pl.:": "interagis",
+			"fém.sg.:": "interagie",
+			"fém.pl.:": "interagies"
+		}
+	},
+	"imperatif": {
+		"présent": { "interagis": "", "interagissons": "", "interagissez": "" },
+		"passé": { "aie": "interagi", "ayons": "interagi", "ayez": "interagi" }
+	},
+	"infinitif": {
+		"présent": { "interagir": "" },
+		"passé": { "avoir": "interagi" }
+	}
+}

@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "stop; halt; arrest; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se stopper/ne pas stopper/ne pas se stopper",
+	"indicatif": {
+		"présent": {
+			"je": "stoppe",
+			"tu": "stoppes",
+			"il/elle": "stoppe",
+			"nous": "stoppons",
+			"vous": "stoppez",
+			"ils/elles": "stoppent"
+		},
+		"imparfait": {
+			"je": "stoppais",
+			"tu": "stoppais",
+			"il/elle": "stoppait",
+			"nous": "stoppions",
+			"vous": "stoppiez",
+			"ils/elles": "stoppaient"
+		},
+		"futur": {
+			"je": "stopperai",
+			"tu": "stopperas",
+			"il/elle": "stoppera",
+			"nous": "stopperons",
+			"vous": "stopperez",
+			"ils/elles": "stopperont"
+		},
+		"passé simple": {
+			"je": "stoppai",
+			"tu": "stoppas",
+			"il/elle": "stoppa",
+			"nous": "stoppâmes",
+			"vous": "stoppâtes",
+			"ils/elles": "stoppèrent"
+		},
+		"passé composé": {
+			"j'": "ai stoppé",
+			"tu": "as stoppé",
+			"il/elle": "a stoppé",
+			"nous": "avons stoppé",
+			"vous": "avez stoppé",
+			"ils/elles": "ont stoppé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais stoppé",
+			"tu": "avais stoppé",
+			"il/elle": "avait stoppé",
+			"nous": "avions stoppé",
+			"vous": "aviez stoppé",
+			"ils/elles": "avaient stoppé"
+		},
+		"passé antérieur": {
+			"j'": "eus stoppé",
+			"tu": "eus stoppé",
+			"il/elle": "eut stoppé",
+			"nous": "eûmes stoppé",
+			"vous": "eûtes stoppé",
+			"ils/elles": "eurent stoppé"
+		},
+		"futur antérieur": {
+			"j'": "aurai stoppé",
+			"tu": "auras stoppé",
+			"il/elle": "aura stoppé",
+			"nous": "aurons stoppé",
+			"vous": "aurez stoppé",
+			"ils/elles": "auront stoppé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous stoppiez",
+			"qu'il/elle": "stoppe",
+			"qu'ils/elles": "stoppent"
+		},
+		"imparfait": {
+			"que": "vous stoppassiez",
+			"qu'il/elle": "stoppât",
+			"qu'ils/elles": "stoppassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse stoppé",
+			"que": "vous eussiez stoppé",
+			"qu'il/elle": "eût stoppé",
+			"qu'ils/elles": "eussent stoppé"
+		},
+		"passé": {
+			"j'": "aie stoppé",
+			"que": "vous ayez stoppé",
+			"qu'il/elle": "ait stoppé",
+			"qu'ils/elles": "aient stoppé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "stopperais",
+			"tu": "stopperais",
+			"il/elle": "stopperait",
+			"nous": "stopperions",
+			"vous": "stopperiez",
+			"ils/elles": "stopperaient"
+		},
+		"passé première forme": {
+			"j'": "aurais stoppé",
+			"tu": "aurais stoppé",
+			"il/elle": "aurait stoppé",
+			"nous": "aurions stoppé",
+			"vous": "auriez stoppé",
+			"ils/elles": "auraient stoppé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse stoppé",
+			"tu": "eusses stoppé",
+			"il/elle": "eût stoppé",
+			"nous": "eussions stoppé",
+			"vous": "eussiez stoppé",
+			"ils/elles": "eussent stoppé"
+		}
+	},
+	"participe": {
+		"présent": { "stoppant": "" },
+		"passé composé": { "ayant": "stoppé" },
+		"passé": {
+			"masc.sg.:": "stoppé",
+			"masc.pl.:": "stoppés",
+			"fém.sg.:": "stoppée",
+			"fém.pl.:": "stoppées"
+		}
+	},
+	"imperatif": {
+		"présent": { "stoppe": "", "stoppons": "", "stoppez": "" },
+		"passé": { "aie": "stoppé", "ayons": "stoppé", "ayez": "stoppé" }
+	},
+	"infinitif": { "présent": { "stopper": "" }, "passé": { "avoir": "stoppé" } }
+}

@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "reside; live; lie; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se résider/ne pas résider/ne pas se résider",
+	"indicatif": {
+		"présent": {
+			"je": "réside",
+			"tu": "résides",
+			"il/elle": "réside",
+			"nous": "résidons",
+			"vous": "résidez",
+			"ils/elles": "résident"
+		},
+		"imparfait": {
+			"je": "résidais",
+			"tu": "résidais",
+			"il/elle": "résidait",
+			"nous": "résidions",
+			"vous": "résidiez",
+			"ils/elles": "résidaient"
+		},
+		"futur": {
+			"je": "résiderai",
+			"tu": "résideras",
+			"il/elle": "résidera",
+			"nous": "résiderons",
+			"vous": "résiderez",
+			"ils/elles": "résideront"
+		},
+		"passé simple": {
+			"je": "résidai",
+			"tu": "résidas",
+			"il/elle": "résida",
+			"nous": "résidâmes",
+			"vous": "résidâtes",
+			"ils/elles": "résidèrent"
+		},
+		"passé composé": {
+			"j'": "ai résidé",
+			"tu": "as résidé",
+			"il/elle": "a résidé",
+			"nous": "avons résidé",
+			"vous": "avez résidé",
+			"ils/elles": "ont résidé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais résidé",
+			"tu": "avais résidé",
+			"il/elle": "avait résidé",
+			"nous": "avions résidé",
+			"vous": "aviez résidé",
+			"ils/elles": "avaient résidé"
+		},
+		"passé antérieur": {
+			"j'": "eus résidé",
+			"tu": "eus résidé",
+			"il/elle": "eut résidé",
+			"nous": "eûmes résidé",
+			"vous": "eûtes résidé",
+			"ils/elles": "eurent résidé"
+		},
+		"futur antérieur": {
+			"j'": "aurai résidé",
+			"tu": "auras résidé",
+			"il/elle": "aura résidé",
+			"nous": "aurons résidé",
+			"vous": "aurez résidé",
+			"ils/elles": "auront résidé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous résidiez",
+			"qu'il/elle": "réside",
+			"qu'ils/elles": "résident"
+		},
+		"imparfait": {
+			"que": "vous résidassiez",
+			"qu'il/elle": "résidât",
+			"qu'ils/elles": "résidassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse résidé",
+			"que": "vous eussiez résidé",
+			"qu'il/elle": "eût résidé",
+			"qu'ils/elles": "eussent résidé"
+		},
+		"passé": {
+			"j'": "aie résidé",
+			"que": "vous ayez résidé",
+			"qu'il/elle": "ait résidé",
+			"qu'ils/elles": "aient résidé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "résiderais",
+			"tu": "résiderais",
+			"il/elle": "résiderait",
+			"nous": "résiderions",
+			"vous": "résideriez",
+			"ils/elles": "résideraient"
+		},
+		"passé première forme": {
+			"j'": "aurais résidé",
+			"tu": "aurais résidé",
+			"il/elle": "aurait résidé",
+			"nous": "aurions résidé",
+			"vous": "auriez résidé",
+			"ils/elles": "auraient résidé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse résidé",
+			"tu": "eusses résidé",
+			"il/elle": "eût résidé",
+			"nous": "eussions résidé",
+			"vous": "eussiez résidé",
+			"ils/elles": "eussent résidé"
+		}
+	},
+	"participe": {
+		"présent": { "résidant": "" },
+		"passé composé": { "ayant": "résidé" },
+		"passé": {
+			"masc.sg.:": "résidé",
+			"masc.pl.:": "résidés",
+			"fém.sg.:": "résidée",
+			"fém.pl.:": "résidées"
+		}
+	},
+	"imperatif": {
+		"présent": { "réside": "", "résidons": "", "résidez": "" },
+		"passé": { "aie": "résidé", "ayons": "résidé", "ayez": "résidé" }
+	},
+	"infinitif": { "présent": { "résider": "" }, "passé": { "avoir": "résidé" } }
+}

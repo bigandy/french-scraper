@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "plan; schedule; plan ahead; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se planifier/ne pas planifier/ne pas se planifier",
+	"indicatif": {
+		"présent": {
+			"je": "planifie",
+			"tu": "planifies",
+			"il/elle": "planifie",
+			"nous": "planifions",
+			"vous": "planifiez",
+			"ils/elles": "planifient"
+		},
+		"imparfait": {
+			"je": "planifiais",
+			"tu": "planifiais",
+			"il/elle": "planifiait",
+			"nous": "planifiions",
+			"vous": "planifiiez",
+			"ils/elles": "planifiaient"
+		},
+		"futur": {
+			"je": "planifierai",
+			"tu": "planifieras",
+			"il/elle": "planifiera",
+			"nous": "planifierons",
+			"vous": "planifierez",
+			"ils/elles": "planifieront"
+		},
+		"passé simple": {
+			"je": "planifiai",
+			"tu": "planifias",
+			"il/elle": "planifia",
+			"nous": "planifiâmes",
+			"vous": "planifiâtes",
+			"ils/elles": "planifièrent"
+		},
+		"passé composé": {
+			"j'": "ai planifié",
+			"tu": "as planifié",
+			"il/elle": "a planifié",
+			"nous": "avons planifié",
+			"vous": "avez planifié",
+			"ils/elles": "ont planifié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais planifié",
+			"tu": "avais planifié",
+			"il/elle": "avait planifié",
+			"nous": "avions planifié",
+			"vous": "aviez planifié",
+			"ils/elles": "avaient planifié"
+		},
+		"passé antérieur": {
+			"j'": "eus planifié",
+			"tu": "eus planifié",
+			"il/elle": "eut planifié",
+			"nous": "eûmes planifié",
+			"vous": "eûtes planifié",
+			"ils/elles": "eurent planifié"
+		},
+		"futur antérieur": {
+			"j'": "aurai planifié",
+			"tu": "auras planifié",
+			"il/elle": "aura planifié",
+			"nous": "aurons planifié",
+			"vous": "aurez planifié",
+			"ils/elles": "auront planifié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous planifiiez",
+			"qu'il/elle": "planifie",
+			"qu'ils/elles": "planifient"
+		},
+		"imparfait": {
+			"que": "vous planifiassiez",
+			"qu'il/elle": "planifiât",
+			"qu'ils/elles": "planifiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse planifié",
+			"que": "vous eussiez planifié",
+			"qu'il/elle": "eût planifié",
+			"qu'ils/elles": "eussent planifié"
+		},
+		"passé": {
+			"j'": "aie planifié",
+			"que": "vous ayez planifié",
+			"qu'il/elle": "ait planifié",
+			"qu'ils/elles": "aient planifié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "planifierais",
+			"tu": "planifierais",
+			"il/elle": "planifierait",
+			"nous": "planifierions",
+			"vous": "planifieriez",
+			"ils/elles": "planifieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais planifié",
+			"tu": "aurais planifié",
+			"il/elle": "aurait planifié",
+			"nous": "aurions planifié",
+			"vous": "auriez planifié",
+			"ils/elles": "auraient planifié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse planifié",
+			"tu": "eusses planifié",
+			"il/elle": "eût planifié",
+			"nous": "eussions planifié",
+			"vous": "eussiez planifié",
+			"ils/elles": "eussent planifié"
+		}
+	},
+	"participe": {
+		"présent": { "planifiant": "" },
+		"passé composé": { "ayant": "planifié" },
+		"passé": {
+			"masc.sg.:": "planifié",
+			"masc.pl.:": "planifiés",
+			"fém.sg.:": "planifiée",
+			"fém.pl.:": "planifiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "planifie": "", "planifions": "", "planifiez": "" },
+		"passé": { "aie": "planifié", "ayons": "planifié", "ayez": "planifié" }
+	},
+	"infinitif": {
+		"présent": { "planifier": "" },
+		"passé": { "avoir": "planifié" }
+	}
+}

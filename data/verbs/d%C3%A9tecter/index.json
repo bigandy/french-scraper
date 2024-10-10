@@ -1,0 +1,141 @@
+{
+	"name": "marcher",
+	"definition": "detect; sense; identify; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se détecter/ne pas détecter/ne pas se détecter",
+	"indicatif": {
+		"présent": {
+			"je": "détecte",
+			"tu": "détectes",
+			"il/elle": "détecte",
+			"nous": "détectons",
+			"vous": "détectez",
+			"ils/elles": "détectent"
+		},
+		"imparfait": {
+			"je": "détectais",
+			"tu": "détectais",
+			"il/elle": "détectait",
+			"nous": "détections",
+			"vous": "détectiez",
+			"ils/elles": "détectaient"
+		},
+		"futur": {
+			"je": "détecterai",
+			"tu": "détecteras",
+			"il/elle": "détectera",
+			"nous": "détecterons",
+			"vous": "détecterez",
+			"ils/elles": "détecteront"
+		},
+		"passé simple": {
+			"je": "détectai",
+			"tu": "détectas",
+			"il/elle": "détecta",
+			"nous": "détectâmes",
+			"vous": "détectâtes",
+			"ils/elles": "détectèrent"
+		},
+		"passé composé": {
+			"j'": "ai détecté",
+			"tu": "as détecté",
+			"il/elle": "a détecté",
+			"nous": "avons détecté",
+			"vous": "avez détecté",
+			"ils/elles": "ont détecté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais détecté",
+			"tu": "avais détecté",
+			"il/elle": "avait détecté",
+			"nous": "avions détecté",
+			"vous": "aviez détecté",
+			"ils/elles": "avaient détecté"
+		},
+		"passé antérieur": {
+			"j'": "eus détecté",
+			"tu": "eus détecté",
+			"il/elle": "eut détecté",
+			"nous": "eûmes détecté",
+			"vous": "eûtes détecté",
+			"ils/elles": "eurent détecté"
+		},
+		"futur antérieur": {
+			"j'": "aurai détecté",
+			"tu": "auras détecté",
+			"il/elle": "aura détecté",
+			"nous": "aurons détecté",
+			"vous": "aurez détecté",
+			"ils/elles": "auront détecté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous détectiez",
+			"qu'il/elle": "détecte",
+			"qu'ils/elles": "détectent"
+		},
+		"imparfait": {
+			"que": "vous détectassiez",
+			"qu'il/elle": "détectât",
+			"qu'ils/elles": "détectassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse détecté",
+			"que": "vous eussiez détecté",
+			"qu'il/elle": "eût détecté",
+			"qu'ils/elles": "eussent détecté"
+		},
+		"passé": {
+			"j'": "aie détecté",
+			"que": "vous ayez détecté",
+			"qu'il/elle": "ait détecté",
+			"qu'ils/elles": "aient détecté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "détecterais",
+			"tu": "détecterais",
+			"il/elle": "détecterait",
+			"nous": "détecterions",
+			"vous": "détecteriez",
+			"ils/elles": "détecteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais détecté",
+			"tu": "aurais détecté",
+			"il/elle": "aurait détecté",
+			"nous": "aurions détecté",
+			"vous": "auriez détecté",
+			"ils/elles": "auraient détecté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse détecté",
+			"tu": "eusses détecté",
+			"il/elle": "eût détecté",
+			"nous": "eussions détecté",
+			"vous": "eussiez détecté",
+			"ils/elles": "eussent détecté"
+		}
+	},
+	"participe": {
+		"présent": { "détectant": "" },
+		"passé composé": { "ayant": "détecté" },
+		"passé": {
+			"masc.sg.:": "détecté",
+			"masc.pl.:": "détectés",
+			"fém.sg.:": "détectée",
+			"fém.pl.:": "détectées"
+		}
+	},
+	"imperatif": {
+		"présent": { "détecte": "", "détectons": "", "détectez": "" },
+		"passé": { "aie": "détecté", "ayons": "détecté", "ayez": "détecté" }
+	},
+	"infinitif": {
+		"présent": { "détecter": "" },
+		"passé": { "avoir": "détecté" }
+	}
+}

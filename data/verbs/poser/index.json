@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "put; pose; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se poser/ne pas poser/ne pas se poser",
+	"indicatif": {
+		"présent": {
+			"je": "pose",
+			"tu": "poses",
+			"il/elle": "pose",
+			"nous": "posons",
+			"vous": "posez",
+			"ils/elles": "posent"
+		},
+		"imparfait": {
+			"je": "posais",
+			"tu": "posais",
+			"il/elle": "posait",
+			"nous": "posions",
+			"vous": "posiez",
+			"ils/elles": "posaient"
+		},
+		"futur": {
+			"je": "poserai",
+			"tu": "poseras",
+			"il/elle": "posera",
+			"nous": "poserons",
+			"vous": "poserez",
+			"ils/elles": "poseront"
+		},
+		"passé simple": {
+			"je": "posai",
+			"tu": "posas",
+			"il/elle": "posa",
+			"nous": "posâmes",
+			"vous": "posâtes",
+			"ils/elles": "posèrent"
+		},
+		"passé composé": {
+			"j'": "ai posé",
+			"tu": "as posé",
+			"il/elle": "a posé",
+			"nous": "avons posé",
+			"vous": "avez posé",
+			"ils/elles": "ont posé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais posé",
+			"tu": "avais posé",
+			"il/elle": "avait posé",
+			"nous": "avions posé",
+			"vous": "aviez posé",
+			"ils/elles": "avaient posé"
+		},
+		"passé antérieur": {
+			"j'": "eus posé",
+			"tu": "eus posé",
+			"il/elle": "eut posé",
+			"nous": "eûmes posé",
+			"vous": "eûtes posé",
+			"ils/elles": "eurent posé"
+		},
+		"futur antérieur": {
+			"j'": "aurai posé",
+			"tu": "auras posé",
+			"il/elle": "aura posé",
+			"nous": "aurons posé",
+			"vous": "aurez posé",
+			"ils/elles": "auront posé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous posiez",
+			"qu'il/elle": "pose",
+			"qu'ils/elles": "posent"
+		},
+		"imparfait": {
+			"que": "vous posassiez",
+			"qu'il/elle": "posât",
+			"qu'ils/elles": "posassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse posé",
+			"que": "vous eussiez posé",
+			"qu'il/elle": "eût posé",
+			"qu'ils/elles": "eussent posé"
+		},
+		"passé": {
+			"j'": "aie posé",
+			"que": "vous ayez posé",
+			"qu'il/elle": "ait posé",
+			"qu'ils/elles": "aient posé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "poserais",
+			"tu": "poserais",
+			"il/elle": "poserait",
+			"nous": "poserions",
+			"vous": "poseriez",
+			"ils/elles": "poseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais posé",
+			"tu": "aurais posé",
+			"il/elle": "aurait posé",
+			"nous": "aurions posé",
+			"vous": "auriez posé",
+			"ils/elles": "auraient posé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse posé",
+			"tu": "eusses posé",
+			"il/elle": "eût posé",
+			"nous": "eussions posé",
+			"vous": "eussiez posé",
+			"ils/elles": "eussent posé"
+		}
+	},
+	"participe": {
+		"présent": { "posant": "" },
+		"passé composé": { "ayant": "posé" },
+		"passé": {
+			"masc.sg.:": "posé",
+			"masc.pl.:": "posés",
+			"fém.sg.:": "posée",
+			"fém.pl.:": "posées"
+		}
+	},
+	"imperatif": {
+		"présent": { "pose": "", "posons": "", "posez": "" },
+		"passé": { "aie": "posé", "ayons": "posé", "ayez": "posé" }
+	},
+	"infinitif": { "présent": { "poser": "" }, "passé": { "avoir": "posé" } }
+}

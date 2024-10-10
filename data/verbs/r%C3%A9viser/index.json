@@ -1,0 +1,138 @@
+{
+	"name": "marcher",
+	"definition": "revise; review; study; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se réviser/ne pas réviser/ne pas se réviser",
+	"indicatif": {
+		"présent": {
+			"je": "révise",
+			"tu": "révises",
+			"il/elle": "révise",
+			"nous": "révisons",
+			"vous": "révisez",
+			"ils/elles": "révisent"
+		},
+		"imparfait": {
+			"je": "révisais",
+			"tu": "révisais",
+			"il/elle": "révisait",
+			"nous": "révisions",
+			"vous": "révisiez",
+			"ils/elles": "révisaient"
+		},
+		"futur": {
+			"je": "réviserai",
+			"tu": "réviseras",
+			"il/elle": "révisera",
+			"nous": "réviserons",
+			"vous": "réviserez",
+			"ils/elles": "réviseront"
+		},
+		"passé simple": {
+			"je": "révisai",
+			"tu": "révisas",
+			"il/elle": "révisa",
+			"nous": "révisâmes",
+			"vous": "révisâtes",
+			"ils/elles": "révisèrent"
+		},
+		"passé composé": {
+			"j'": "ai révisé",
+			"tu": "as révisé",
+			"il/elle": "a révisé",
+			"nous": "avons révisé",
+			"vous": "avez révisé",
+			"ils/elles": "ont révisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais révisé",
+			"tu": "avais révisé",
+			"il/elle": "avait révisé",
+			"nous": "avions révisé",
+			"vous": "aviez révisé",
+			"ils/elles": "avaient révisé"
+		},
+		"passé antérieur": {
+			"j'": "eus révisé",
+			"tu": "eus révisé",
+			"il/elle": "eut révisé",
+			"nous": "eûmes révisé",
+			"vous": "eûtes révisé",
+			"ils/elles": "eurent révisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai révisé",
+			"tu": "auras révisé",
+			"il/elle": "aura révisé",
+			"nous": "aurons révisé",
+			"vous": "aurez révisé",
+			"ils/elles": "auront révisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous révisiez",
+			"qu'il/elle": "révise",
+			"qu'ils/elles": "révisent"
+		},
+		"imparfait": {
+			"que": "vous révisassiez",
+			"qu'il/elle": "révisât",
+			"qu'ils/elles": "révisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse révisé",
+			"que": "vous eussiez révisé",
+			"qu'il/elle": "eût révisé",
+			"qu'ils/elles": "eussent révisé"
+		},
+		"passé": {
+			"j'": "aie révisé",
+			"que": "vous ayez révisé",
+			"qu'il/elle": "ait révisé",
+			"qu'ils/elles": "aient révisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "réviserais",
+			"tu": "réviserais",
+			"il/elle": "réviserait",
+			"nous": "réviserions",
+			"vous": "réviseriez",
+			"ils/elles": "réviseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais révisé",
+			"tu": "aurais révisé",
+			"il/elle": "aurait révisé",
+			"nous": "aurions révisé",
+			"vous": "auriez révisé",
+			"ils/elles": "auraient révisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse révisé",
+			"tu": "eusses révisé",
+			"il/elle": "eût révisé",
+			"nous": "eussions révisé",
+			"vous": "eussiez révisé",
+			"ils/elles": "eussent révisé"
+		}
+	},
+	"participe": {
+		"présent": { "révisant": "" },
+		"passé composé": { "ayant": "révisé" },
+		"passé": {
+			"masc.sg.:": "révisé",
+			"masc.pl.:": "révisés",
+			"fém.sg.:": "révisée",
+			"fém.pl.:": "révisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "révise": "", "révisons": "", "révisez": "" },
+		"passé": { "aie": "révisé", "ayons": "révisé", "ayez": "révisé" }
+	},
+	"infinitif": { "présent": { "réviser": "" }, "passé": { "avoir": "révisé" } }
+}
