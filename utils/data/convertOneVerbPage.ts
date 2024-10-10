@@ -224,7 +224,7 @@ const getInfinitif = ($: CheerioAPI) => {
 }
 
 const getName = ($: CheerioAPI) => {
-	return $('#ch_lblModel').text()
+	return $('#ch_lblVerb').text()
 }
 
 const getDefinition = ($: CheerioAPI) => {
