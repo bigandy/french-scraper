@@ -1,0 +1,138 @@
+{
+	"name": "broder",
+	"definition": "embroider; stitch; sew; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se broder/ne pas broder/ne pas se broder",
+	"indicatif": {
+		"présent": {
+			"je": "brode",
+			"tu": "brodes",
+			"il/elle": "brode",
+			"nous": "brodons",
+			"vous": "brodez",
+			"ils/elles": "brodent"
+		},
+		"imparfait": {
+			"je": "brodais",
+			"tu": "brodais",
+			"il/elle": "brodait",
+			"nous": "brodions",
+			"vous": "brodiez",
+			"ils/elles": "brodaient"
+		},
+		"futur": {
+			"je": "broderai",
+			"tu": "broderas",
+			"il/elle": "brodera",
+			"nous": "broderons",
+			"vous": "broderez",
+			"ils/elles": "broderont"
+		},
+		"passé simple": {
+			"je": "brodai",
+			"tu": "brodas",
+			"il/elle": "broda",
+			"nous": "brodâmes",
+			"vous": "brodâtes",
+			"ils/elles": "brodèrent"
+		},
+		"passé composé": {
+			"j'": "ai brodé",
+			"tu": "as brodé",
+			"il/elle": "a brodé",
+			"nous": "avons brodé",
+			"vous": "avez brodé",
+			"ils/elles": "ont brodé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais brodé",
+			"tu": "avais brodé",
+			"il/elle": "avait brodé",
+			"nous": "avions brodé",
+			"vous": "aviez brodé",
+			"ils/elles": "avaient brodé"
+		},
+		"passé antérieur": {
+			"j'": "eus brodé",
+			"tu": "eus brodé",
+			"il/elle": "eut brodé",
+			"nous": "eûmes brodé",
+			"vous": "eûtes brodé",
+			"ils/elles": "eurent brodé"
+		},
+		"futur antérieur": {
+			"j'": "aurai brodé",
+			"tu": "auras brodé",
+			"il/elle": "aura brodé",
+			"nous": "aurons brodé",
+			"vous": "aurez brodé",
+			"ils/elles": "auront brodé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous brodiez",
+			"qu'il/elle": "brode",
+			"qu'ils/elles": "brodent"
+		},
+		"imparfait": {
+			"que": "vous brodassiez",
+			"qu'il/elle": "brodât",
+			"qu'ils/elles": "brodassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse brodé",
+			"que": "vous eussiez brodé",
+			"qu'il/elle": "eût brodé",
+			"qu'ils/elles": "eussent brodé"
+		},
+		"passé": {
+			"j'": "aie brodé",
+			"que": "vous ayez brodé",
+			"qu'il/elle": "ait brodé",
+			"qu'ils/elles": "aient brodé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "broderais",
+			"tu": "broderais",
+			"il/elle": "broderait",
+			"nous": "broderions",
+			"vous": "broderiez",
+			"ils/elles": "broderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais brodé",
+			"tu": "aurais brodé",
+			"il/elle": "aurait brodé",
+			"nous": "aurions brodé",
+			"vous": "auriez brodé",
+			"ils/elles": "auraient brodé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse brodé",
+			"tu": "eusses brodé",
+			"il/elle": "eût brodé",
+			"nous": "eussions brodé",
+			"vous": "eussiez brodé",
+			"ils/elles": "eussent brodé"
+		}
+	},
+	"participe": {
+		"présent": { "brodant": "" },
+		"passé composé": { "ayant": "brodé" },
+		"passé": {
+			"masc.sg.:": "brodé",
+			"masc.pl.:": "brodés",
+			"fém.sg.:": "brodée",
+			"fém.pl.:": "brodées"
+		}
+	},
+	"imperatif": {
+		"présent": { "brode": "", "brodons": "", "brodez": "" },
+		"passé": { "aie": "brodé", "ayons": "brodé", "ayez": "brodé" }
+	},
+	"infinitif": { "présent": { "broder": "" }, "passé": { "avoir": "brodé" } }
+}

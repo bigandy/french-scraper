@@ -1,0 +1,141 @@
+{
+	"name": "débarquer",
+	"definition": "land; disembark; barge in; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se débarquer/ne pas débarquer/ne pas se débarquer",
+	"indicatif": {
+		"présent": {
+			"je": "débarque",
+			"tu": "débarques",
+			"il/elle": "débarque",
+			"nous": "débarquons",
+			"vous": "débarquez",
+			"ils/elles": "débarquent"
+		},
+		"imparfait": {
+			"je": "débarquais",
+			"tu": "débarquais",
+			"il/elle": "débarquait",
+			"nous": "débarquions",
+			"vous": "débarquiez",
+			"ils/elles": "débarquaient"
+		},
+		"futur": {
+			"je": "débarquerai",
+			"tu": "débarqueras",
+			"il/elle": "débarquera",
+			"nous": "débarquerons",
+			"vous": "débarquerez",
+			"ils/elles": "débarqueront"
+		},
+		"passé simple": {
+			"je": "débarquai",
+			"tu": "débarquas",
+			"il/elle": "débarqua",
+			"nous": "débarquâmes",
+			"vous": "débarquâtes",
+			"ils/elles": "débarquèrent"
+		},
+		"passé composé": {
+			"j'": "ai débarqué",
+			"tu": "as débarqué",
+			"il/elle": "a débarqué",
+			"nous": "avons débarqué",
+			"vous": "avez débarqué",
+			"ils/elles": "ont débarqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais débarqué",
+			"tu": "avais débarqué",
+			"il/elle": "avait débarqué",
+			"nous": "avions débarqué",
+			"vous": "aviez débarqué",
+			"ils/elles": "avaient débarqué"
+		},
+		"passé antérieur": {
+			"j'": "eus débarqué",
+			"tu": "eus débarqué",
+			"il/elle": "eut débarqué",
+			"nous": "eûmes débarqué",
+			"vous": "eûtes débarqué",
+			"ils/elles": "eurent débarqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai débarqué",
+			"tu": "auras débarqué",
+			"il/elle": "aura débarqué",
+			"nous": "aurons débarqué",
+			"vous": "aurez débarqué",
+			"ils/elles": "auront débarqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous débarquiez",
+			"qu'il/elle": "débarque",
+			"qu'ils/elles": "débarquent"
+		},
+		"imparfait": {
+			"que": "vous débarquassiez",
+			"qu'il/elle": "débarquât",
+			"qu'ils/elles": "débarquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse débarqué",
+			"que": "vous eussiez débarqué",
+			"qu'il/elle": "eût débarqué",
+			"qu'ils/elles": "eussent débarqué"
+		},
+		"passé": {
+			"j'": "aie débarqué",
+			"que": "vous ayez débarqué",
+			"qu'il/elle": "ait débarqué",
+			"qu'ils/elles": "aient débarqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "débarquerais",
+			"tu": "débarquerais",
+			"il/elle": "débarquerait",
+			"nous": "débarquerions",
+			"vous": "débarqueriez",
+			"ils/elles": "débarqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais débarqué",
+			"tu": "aurais débarqué",
+			"il/elle": "aurait débarqué",
+			"nous": "aurions débarqué",
+			"vous": "auriez débarqué",
+			"ils/elles": "auraient débarqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse débarqué",
+			"tu": "eusses débarqué",
+			"il/elle": "eût débarqué",
+			"nous": "eussions débarqué",
+			"vous": "eussiez débarqué",
+			"ils/elles": "eussent débarqué"
+		}
+	},
+	"participe": {
+		"présent": { "débarquant": "" },
+		"passé composé": { "ayant": "débarqué" },
+		"passé": {
+			"masc.sg.:": "débarqué",
+			"masc.pl.:": "débarqués",
+			"fém.sg.:": "débarquée",
+			"fém.pl.:": "débarquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "débarque": "", "débarquons": "", "débarquez": "" },
+		"passé": { "aie": "débarqué", "ayons": "débarqué", "ayez": "débarqué" }
+	},
+	"infinitif": {
+		"présent": { "débarquer": "" },
+		"passé": { "avoir": "débarqué" }
+	}
+}

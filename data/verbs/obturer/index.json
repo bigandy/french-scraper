@@ -1,0 +1,140 @@
+{
+	"name": "obturer",
+	"definition": "seal; close; occlude; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'obturer/ne pas obturer/ne pas s'obturer",
+	"indicatif": {
+		"présent": {
+			"j'": "obture",
+			"tu": "obtures",
+			"il/elle": "obture",
+			"nous": "obturons",
+			"vous": "obturez",
+			"ils/elles": "obturent"
+		},
+		"imparfait": {
+			"j'": "obturais",
+			"tu": "obturais",
+			"il/elle": "obturait",
+			"nous": "obturions",
+			"vous": "obturiez",
+			"ils/elles": "obturaient"
+		},
+		"futur": {
+			"j'": "obturerai",
+			"tu": "obtureras",
+			"il/elle": "obturera",
+			"nous": "obturerons",
+			"vous": "obturerez",
+			"ils/elles": "obtureront"
+		},
+		"passé simple": {
+			"j'": "obturai",
+			"tu": "obturas",
+			"il/elle": "obtura",
+			"nous": "obturâmes",
+			"vous": "obturâtes",
+			"ils/elles": "obturèrent"
+		},
+		"passé composé": {
+			"j'": "ai obturé",
+			"tu": "as obturé",
+			"il/elle": "a obturé",
+			"nous": "avons obturé",
+			"vous": "avez obturé",
+			"ils/elles": "ont obturé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais obturé",
+			"tu": "avais obturé",
+			"il/elle": "avait obturé",
+			"nous": "avions obturé",
+			"vous": "aviez obturé",
+			"ils/elles": "avaient obturé"
+		},
+		"passé antérieur": {
+			"j'": "eus obturé",
+			"tu": "eus obturé",
+			"il/elle": "eut obturé",
+			"nous": "eûmes obturé",
+			"vous": "eûtes obturé",
+			"ils/elles": "eurent obturé"
+		},
+		"futur antérieur": {
+			"j'": "aurai obturé",
+			"tu": "auras obturé",
+			"il/elle": "aura obturé",
+			"nous": "aurons obturé",
+			"vous": "aurez obturé",
+			"ils/elles": "auront obturé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "obture",
+			"que": "vous obturiez",
+			"qu'il/elle": "obture",
+			"qu'ils/elles": "obturent"
+		},
+		"imparfait": {
+			"j'": "obturasse",
+			"que": "vous obturassiez",
+			"qu'il/elle": "obturât",
+			"qu'ils/elles": "obturassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse obturé",
+			"que": "vous eussiez obturé",
+			"qu'il/elle": "eût obturé",
+			"qu'ils/elles": "eussent obturé"
+		},
+		"passé": {
+			"j'": "aie obturé",
+			"que": "vous ayez obturé",
+			"qu'il/elle": "ait obturé",
+			"qu'ils/elles": "aient obturé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "obturerais",
+			"tu": "obturerais",
+			"il/elle": "obturerait",
+			"nous": "obturerions",
+			"vous": "obtureriez",
+			"ils/elles": "obtureraient"
+		},
+		"passé première forme": {
+			"j'": "aurais obturé",
+			"tu": "aurais obturé",
+			"il/elle": "aurait obturé",
+			"nous": "aurions obturé",
+			"vous": "auriez obturé",
+			"ils/elles": "auraient obturé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse obturé",
+			"tu": "eusses obturé",
+			"il/elle": "eût obturé",
+			"nous": "eussions obturé",
+			"vous": "eussiez obturé",
+			"ils/elles": "eussent obturé"
+		}
+	},
+	"participe": {
+		"présent": { "obturant": "" },
+		"passé composé": { "ayant": "obturé" },
+		"passé": {
+			"masc.sg.:": "obturé",
+			"masc.pl.:": "obturés",
+			"fém.sg.:": "obturée",
+			"fém.pl.:": "obturées"
+		}
+	},
+	"imperatif": {
+		"présent": { "obture": "", "obturons": "", "obturez": "" },
+		"passé": { "aie": "obturé", "ayons": "obturé", "ayez": "obturé" }
+	},
+	"infinitif": { "présent": { "obturer": "" }, "passé": { "avoir": "obturé" } }
+}

@@ -1,0 +1,141 @@
+{
+	"name": "propager",
+	"definition": "spread; propagate; disseminate; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "se propager/ne pas propager/ne pas se propager",
+	"indicatif": {
+		"présent": {
+			"je": "propage",
+			"tu": "propages",
+			"il/elle": "propage",
+			"nous": "propageons",
+			"vous": "propagez",
+			"ils/elles": "propagent"
+		},
+		"imparfait": {
+			"je": "propageais",
+			"tu": "propageais",
+			"il/elle": "propageait",
+			"nous": "propagions",
+			"vous": "propagiez",
+			"ils/elles": "propageaient"
+		},
+		"futur": {
+			"je": "propagerai",
+			"tu": "propageras",
+			"il/elle": "propagera",
+			"nous": "propagerons",
+			"vous": "propagerez",
+			"ils/elles": "propageront"
+		},
+		"passé simple": {
+			"je": "propageai",
+			"tu": "propageas",
+			"il/elle": "propagea",
+			"nous": "propageâmes",
+			"vous": "propageâtes",
+			"ils/elles": "propagèrent"
+		},
+		"passé composé": {
+			"j'": "ai propagé",
+			"tu": "as propagé",
+			"il/elle": "a propagé",
+			"nous": "avons propagé",
+			"vous": "avez propagé",
+			"ils/elles": "ont propagé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais propagé",
+			"tu": "avais propagé",
+			"il/elle": "avait propagé",
+			"nous": "avions propagé",
+			"vous": "aviez propagé",
+			"ils/elles": "avaient propagé"
+		},
+		"passé antérieur": {
+			"j'": "eus propagé",
+			"tu": "eus propagé",
+			"il/elle": "eut propagé",
+			"nous": "eûmes propagé",
+			"vous": "eûtes propagé",
+			"ils/elles": "eurent propagé"
+		},
+		"futur antérieur": {
+			"j'": "aurai propagé",
+			"tu": "auras propagé",
+			"il/elle": "aura propagé",
+			"nous": "aurons propagé",
+			"vous": "aurez propagé",
+			"ils/elles": "auront propagé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous propagiez",
+			"qu'il/elle": "propage",
+			"qu'ils/elles": "propagent"
+		},
+		"imparfait": {
+			"que": "vous propageassiez",
+			"qu'il/elle": "propageât",
+			"qu'ils/elles": "propageassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse propagé",
+			"que": "vous eussiez propagé",
+			"qu'il/elle": "eût propagé",
+			"qu'ils/elles": "eussent propagé"
+		},
+		"passé": {
+			"j'": "aie propagé",
+			"que": "vous ayez propagé",
+			"qu'il/elle": "ait propagé",
+			"qu'ils/elles": "aient propagé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "propagerais",
+			"tu": "propagerais",
+			"il/elle": "propagerait",
+			"nous": "propagerions",
+			"vous": "propageriez",
+			"ils/elles": "propageraient"
+		},
+		"passé première forme": {
+			"j'": "aurais propagé",
+			"tu": "aurais propagé",
+			"il/elle": "aurait propagé",
+			"nous": "aurions propagé",
+			"vous": "auriez propagé",
+			"ils/elles": "auraient propagé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse propagé",
+			"tu": "eusses propagé",
+			"il/elle": "eût propagé",
+			"nous": "eussions propagé",
+			"vous": "eussiez propagé",
+			"ils/elles": "eussent propagé"
+		}
+	},
+	"participe": {
+		"présent": { "propageant": "" },
+		"passé composé": { "ayant": "propagé" },
+		"passé": {
+			"masc.sg.:": "propagé",
+			"masc.pl.:": "propagés",
+			"fém.sg.:": "propagée",
+			"fém.pl.:": "propagées"
+		}
+	},
+	"imperatif": {
+		"présent": { "propage": "", "propageons": "", "propagez": "" },
+		"passé": { "aie": "propagé", "ayons": "propagé", "ayez": "propagé" }
+	},
+	"infinitif": {
+		"présent": { "propager": "" },
+		"passé": { "avoir": "propagé" }
+	}
+}

@@ -1,0 +1,143 @@
+{
+	"name": "infirmer",
+	"definition": "set aside; deny; reverse; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'infirmer/ne pas infirmer/ne pas s'infirmer",
+	"indicatif": {
+		"présent": {
+			"j'": "infirme",
+			"tu": "infirmes",
+			"il/elle": "infirme",
+			"nous": "infirmons",
+			"vous": "infirmez",
+			"ils/elles": "infirment"
+		},
+		"imparfait": {
+			"j'": "infirmais",
+			"tu": "infirmais",
+			"il/elle": "infirmait",
+			"nous": "infirmions",
+			"vous": "infirmiez",
+			"ils/elles": "infirmaient"
+		},
+		"futur": {
+			"j'": "infirmerai",
+			"tu": "infirmeras",
+			"il/elle": "infirmera",
+			"nous": "infirmerons",
+			"vous": "infirmerez",
+			"ils/elles": "infirmeront"
+		},
+		"passé simple": {
+			"j'": "infirmai",
+			"tu": "infirmas",
+			"il/elle": "infirma",
+			"nous": "infirmâmes",
+			"vous": "infirmâtes",
+			"ils/elles": "infirmèrent"
+		},
+		"passé composé": {
+			"j'": "ai infirmé",
+			"tu": "as infirmé",
+			"il/elle": "a infirmé",
+			"nous": "avons infirmé",
+			"vous": "avez infirmé",
+			"ils/elles": "ont infirmé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais infirmé",
+			"tu": "avais infirmé",
+			"il/elle": "avait infirmé",
+			"nous": "avions infirmé",
+			"vous": "aviez infirmé",
+			"ils/elles": "avaient infirmé"
+		},
+		"passé antérieur": {
+			"j'": "eus infirmé",
+			"tu": "eus infirmé",
+			"il/elle": "eut infirmé",
+			"nous": "eûmes infirmé",
+			"vous": "eûtes infirmé",
+			"ils/elles": "eurent infirmé"
+		},
+		"futur antérieur": {
+			"j'": "aurai infirmé",
+			"tu": "auras infirmé",
+			"il/elle": "aura infirmé",
+			"nous": "aurons infirmé",
+			"vous": "aurez infirmé",
+			"ils/elles": "auront infirmé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "infirme",
+			"que": "vous infirmiez",
+			"qu'il/elle": "infirme",
+			"qu'ils/elles": "infirment"
+		},
+		"imparfait": {
+			"j'": "infirmasse",
+			"que": "vous infirmassiez",
+			"qu'il/elle": "infirmât",
+			"qu'ils/elles": "infirmassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse infirmé",
+			"que": "vous eussiez infirmé",
+			"qu'il/elle": "eût infirmé",
+			"qu'ils/elles": "eussent infirmé"
+		},
+		"passé": {
+			"j'": "aie infirmé",
+			"que": "vous ayez infirmé",
+			"qu'il/elle": "ait infirmé",
+			"qu'ils/elles": "aient infirmé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "infirmerais",
+			"tu": "infirmerais",
+			"il/elle": "infirmerait",
+			"nous": "infirmerions",
+			"vous": "infirmeriez",
+			"ils/elles": "infirmeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais infirmé",
+			"tu": "aurais infirmé",
+			"il/elle": "aurait infirmé",
+			"nous": "aurions infirmé",
+			"vous": "auriez infirmé",
+			"ils/elles": "auraient infirmé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse infirmé",
+			"tu": "eusses infirmé",
+			"il/elle": "eût infirmé",
+			"nous": "eussions infirmé",
+			"vous": "eussiez infirmé",
+			"ils/elles": "eussent infirmé"
+		}
+	},
+	"participe": {
+		"présent": { "infirmant": "" },
+		"passé composé": { "ayant": "infirmé" },
+		"passé": {
+			"masc.sg.:": "infirmé",
+			"masc.pl.:": "infirmés",
+			"fém.sg.:": "infirmée",
+			"fém.pl.:": "infirmées"
+		}
+	},
+	"imperatif": {
+		"présent": { "infirme": "", "infirmons": "", "infirmez": "" },
+		"passé": { "aie": "infirmé", "ayons": "infirmé", "ayez": "infirmé" }
+	},
+	"infinitif": {
+		"présent": { "infirmer": "" },
+		"passé": { "avoir": "infirmé" }
+	}
+}

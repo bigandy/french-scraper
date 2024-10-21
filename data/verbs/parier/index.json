@@ -1,0 +1,138 @@
+{
+	"name": "parier",
+	"definition": "bet; gamble; wager; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se parier/ne pas parier/ne pas se parier",
+	"indicatif": {
+		"présent": {
+			"je": "parie",
+			"tu": "paries",
+			"il/elle": "parie",
+			"nous": "parions",
+			"vous": "pariez",
+			"ils/elles": "parient"
+		},
+		"imparfait": {
+			"je": "pariais",
+			"tu": "pariais",
+			"il/elle": "pariait",
+			"nous": "pariions",
+			"vous": "pariiez",
+			"ils/elles": "pariaient"
+		},
+		"futur": {
+			"je": "parierai",
+			"tu": "parieras",
+			"il/elle": "pariera",
+			"nous": "parierons",
+			"vous": "parierez",
+			"ils/elles": "parieront"
+		},
+		"passé simple": {
+			"je": "pariai",
+			"tu": "parias",
+			"il/elle": "paria",
+			"nous": "pariâmes",
+			"vous": "pariâtes",
+			"ils/elles": "parièrent"
+		},
+		"passé composé": {
+			"j'": "ai parié",
+			"tu": "as parié",
+			"il/elle": "a parié",
+			"nous": "avons parié",
+			"vous": "avez parié",
+			"ils/elles": "ont parié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais parié",
+			"tu": "avais parié",
+			"il/elle": "avait parié",
+			"nous": "avions parié",
+			"vous": "aviez parié",
+			"ils/elles": "avaient parié"
+		},
+		"passé antérieur": {
+			"j'": "eus parié",
+			"tu": "eus parié",
+			"il/elle": "eut parié",
+			"nous": "eûmes parié",
+			"vous": "eûtes parié",
+			"ils/elles": "eurent parié"
+		},
+		"futur antérieur": {
+			"j'": "aurai parié",
+			"tu": "auras parié",
+			"il/elle": "aura parié",
+			"nous": "aurons parié",
+			"vous": "aurez parié",
+			"ils/elles": "auront parié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous pariiez",
+			"qu'il/elle": "parie",
+			"qu'ils/elles": "parient"
+		},
+		"imparfait": {
+			"que": "vous pariassiez",
+			"qu'il/elle": "pariât",
+			"qu'ils/elles": "pariassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse parié",
+			"que": "vous eussiez parié",
+			"qu'il/elle": "eût parié",
+			"qu'ils/elles": "eussent parié"
+		},
+		"passé": {
+			"j'": "aie parié",
+			"que": "vous ayez parié",
+			"qu'il/elle": "ait parié",
+			"qu'ils/elles": "aient parié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "parierais",
+			"tu": "parierais",
+			"il/elle": "parierait",
+			"nous": "parierions",
+			"vous": "parieriez",
+			"ils/elles": "parieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais parié",
+			"tu": "aurais parié",
+			"il/elle": "aurait parié",
+			"nous": "aurions parié",
+			"vous": "auriez parié",
+			"ils/elles": "auraient parié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse parié",
+			"tu": "eusses parié",
+			"il/elle": "eût parié",
+			"nous": "eussions parié",
+			"vous": "eussiez parié",
+			"ils/elles": "eussent parié"
+		}
+	},
+	"participe": {
+		"présent": { "pariant": "" },
+		"passé composé": { "ayant": "parié" },
+		"passé": {
+			"masc.sg.:": "parié",
+			"masc.pl.:": "pariés",
+			"fém.sg.:": "pariée",
+			"fém.pl.:": "pariées"
+		}
+	},
+	"imperatif": {
+		"présent": { "parie": "", "parions": "", "pariez": "" },
+		"passé": { "aie": "parié", "ayons": "parié", "ayez": "parié" }
+	},
+	"infinitif": { "présent": { "parier": "" }, "passé": { "avoir": "parié" } }
+}

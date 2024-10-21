@@ -1,0 +1,138 @@
+{
+	"name": "plonger",
+	"definition": "dive; plunge; immerse; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "se plonger/ne pas plonger/ne pas se plonger",
+	"indicatif": {
+		"présent": {
+			"je": "plonge",
+			"tu": "plonges",
+			"il/elle": "plonge",
+			"nous": "plongeons",
+			"vous": "plongez",
+			"ils/elles": "plongent"
+		},
+		"imparfait": {
+			"je": "plongeais",
+			"tu": "plongeais",
+			"il/elle": "plongeait",
+			"nous": "plongions",
+			"vous": "plongiez",
+			"ils/elles": "plongeaient"
+		},
+		"futur": {
+			"je": "plongerai",
+			"tu": "plongeras",
+			"il/elle": "plongera",
+			"nous": "plongerons",
+			"vous": "plongerez",
+			"ils/elles": "plongeront"
+		},
+		"passé simple": {
+			"je": "plongeai",
+			"tu": "plongeas",
+			"il/elle": "plongea",
+			"nous": "plongeâmes",
+			"vous": "plongeâtes",
+			"ils/elles": "plongèrent"
+		},
+		"passé composé": {
+			"j'": "ai plongé",
+			"tu": "as plongé",
+			"il/elle": "a plongé",
+			"nous": "avons plongé",
+			"vous": "avez plongé",
+			"ils/elles": "ont plongé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais plongé",
+			"tu": "avais plongé",
+			"il/elle": "avait plongé",
+			"nous": "avions plongé",
+			"vous": "aviez plongé",
+			"ils/elles": "avaient plongé"
+		},
+		"passé antérieur": {
+			"j'": "eus plongé",
+			"tu": "eus plongé",
+			"il/elle": "eut plongé",
+			"nous": "eûmes plongé",
+			"vous": "eûtes plongé",
+			"ils/elles": "eurent plongé"
+		},
+		"futur antérieur": {
+			"j'": "aurai plongé",
+			"tu": "auras plongé",
+			"il/elle": "aura plongé",
+			"nous": "aurons plongé",
+			"vous": "aurez plongé",
+			"ils/elles": "auront plongé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous plongiez",
+			"qu'il/elle": "plonge",
+			"qu'ils/elles": "plongent"
+		},
+		"imparfait": {
+			"que": "vous plongeassiez",
+			"qu'il/elle": "plongeât",
+			"qu'ils/elles": "plongeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse plongé",
+			"que": "vous eussiez plongé",
+			"qu'il/elle": "eût plongé",
+			"qu'ils/elles": "eussent plongé"
+		},
+		"passé": {
+			"j'": "aie plongé",
+			"que": "vous ayez plongé",
+			"qu'il/elle": "ait plongé",
+			"qu'ils/elles": "aient plongé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "plongerais",
+			"tu": "plongerais",
+			"il/elle": "plongerait",
+			"nous": "plongerions",
+			"vous": "plongeriez",
+			"ils/elles": "plongeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais plongé",
+			"tu": "aurais plongé",
+			"il/elle": "aurait plongé",
+			"nous": "aurions plongé",
+			"vous": "auriez plongé",
+			"ils/elles": "auraient plongé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse plongé",
+			"tu": "eusses plongé",
+			"il/elle": "eût plongé",
+			"nous": "eussions plongé",
+			"vous": "eussiez plongé",
+			"ils/elles": "eussent plongé"
+		}
+	},
+	"participe": {
+		"présent": { "plongeant": "" },
+		"passé composé": { "ayant": "plongé" },
+		"passé": {
+			"masc.sg.:": "plongé",
+			"masc.pl.:": "plongés",
+			"fém.sg.:": "plongée",
+			"fém.pl.:": "plongées"
+		}
+	},
+	"imperatif": {
+		"présent": { "plonge": "", "plongeons": "", "plongez": "" },
+		"passé": { "aie": "plongé", "ayons": "plongé", "ayez": "plongé" }
+	},
+	"infinitif": { "présent": { "plonger": "" }, "passé": { "avoir": "plongé" } }
+}

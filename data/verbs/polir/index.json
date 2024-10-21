@@ -1,0 +1,138 @@
+{
+	"name": "polir",
+	"definition": "polish; buff; polish up; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se polir/ne pas polir/ne pas se polir",
+	"indicatif": {
+		"présent": {
+			"je": "polis",
+			"tu": "polis",
+			"il/elle": "polit",
+			"nous": "polissons",
+			"vous": "polissez",
+			"ils/elles": "polissent"
+		},
+		"imparfait": {
+			"je": "polissais",
+			"tu": "polissais",
+			"il/elle": "polissait",
+			"nous": "polissions",
+			"vous": "polissiez",
+			"ils/elles": "polissaient"
+		},
+		"futur": {
+			"je": "polirai",
+			"tu": "poliras",
+			"il/elle": "polira",
+			"nous": "polirons",
+			"vous": "polirez",
+			"ils/elles": "poliront"
+		},
+		"passé simple": {
+			"je": "polis",
+			"tu": "polis",
+			"il/elle": "polit",
+			"nous": "polîmes",
+			"vous": "polîtes",
+			"ils/elles": "polirent"
+		},
+		"passé composé": {
+			"j'": "ai poli",
+			"tu": "as poli",
+			"il/elle": "a poli",
+			"nous": "avons poli",
+			"vous": "avez poli",
+			"ils/elles": "ont poli"
+		},
+		"plus-que-parfait": {
+			"j'": "avais poli",
+			"tu": "avais poli",
+			"il/elle": "avait poli",
+			"nous": "avions poli",
+			"vous": "aviez poli",
+			"ils/elles": "avaient poli"
+		},
+		"passé antérieur": {
+			"j'": "eus poli",
+			"tu": "eus poli",
+			"il/elle": "eut poli",
+			"nous": "eûmes poli",
+			"vous": "eûtes poli",
+			"ils/elles": "eurent poli"
+		},
+		"futur antérieur": {
+			"j'": "aurai poli",
+			"tu": "auras poli",
+			"il/elle": "aura poli",
+			"nous": "aurons poli",
+			"vous": "aurez poli",
+			"ils/elles": "auront poli"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous polissiez",
+			"qu'il/elle": "polisse",
+			"qu'ils/elles": "polissent"
+		},
+		"imparfait": {
+			"que": "vous polissiez",
+			"qu'il/elle": "polît",
+			"qu'ils/elles": "polissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse poli",
+			"que": "vous eussiez poli",
+			"qu'il/elle": "eût poli",
+			"qu'ils/elles": "eussent poli"
+		},
+		"passé": {
+			"j'": "aie poli",
+			"que": "vous ayez poli",
+			"qu'il/elle": "ait poli",
+			"qu'ils/elles": "aient poli"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "polirais",
+			"tu": "polirais",
+			"il/elle": "polirait",
+			"nous": "polirions",
+			"vous": "poliriez",
+			"ils/elles": "poliraient"
+		},
+		"passé première forme": {
+			"j'": "aurais poli",
+			"tu": "aurais poli",
+			"il/elle": "aurait poli",
+			"nous": "aurions poli",
+			"vous": "auriez poli",
+			"ils/elles": "auraient poli"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse poli",
+			"tu": "eusses poli",
+			"il/elle": "eût poli",
+			"nous": "eussions poli",
+			"vous": "eussiez poli",
+			"ils/elles": "eussent poli"
+		}
+	},
+	"participe": {
+		"présent": { "polissant": "" },
+		"passé composé": { "ayant": "poli" },
+		"passé": {
+			"masc.sg.:": "poli",
+			"masc.pl.:": "polis",
+			"fém.sg.:": "polie",
+			"fém.pl.:": "polies"
+		}
+	},
+	"imperatif": {
+		"présent": { "polis": "", "polissons": "", "polissez": "" },
+		"passé": { "aie": "poli", "ayons": "poli", "ayez": "poli" }
+	},
+	"infinitif": { "présent": { "polir": "" }, "passé": { "avoir": "poli" } }
+}

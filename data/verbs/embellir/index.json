@@ -1,0 +1,196 @@
+{
+	"name": "embellir",
+	"definition": "embellish; beautify; adorn; ...",
+	"model": "finir",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "s'embellir/ne pas embellir/ne pas s'embellir",
+	"indicatif": {
+		"présent": {
+			"j'": "embellis",
+			"tu": "embellis",
+			"il/elle": "embellit",
+			"nous": "embellissons",
+			"vous": "embellissez",
+			"ils/elles": "embellissent"
+		},
+		"imparfait": {
+			"j'": "embellissais",
+			"tu": "embellissais",
+			"il/elle": "embellissait",
+			"nous": "embellissions",
+			"vous": "embellissiez",
+			"ils/elles": "embellissaient"
+		},
+		"futur": {
+			"j'": "embellirai",
+			"tu": "embelliras",
+			"il/elle": "embellira",
+			"nous": "embellirons",
+			"vous": "embellirez",
+			"ils/elles": "embelliront"
+		},
+		"passé simple": {
+			"j'": "embellis",
+			"tu": "embellis",
+			"il/elle": "embellit",
+			"nous": "embellîmes",
+			"vous": "embellîtes",
+			"ils/elles": "embellirent"
+		},
+		"passé composé": {
+			"j'": "ai embelli",
+			"tu": "es embelli",
+			"il/elle": "a embelli",
+			"nous": "sommes embellis",
+			"vous": "êtes embellis",
+			"ils/elles": "ont embelli",
+			"": "",
+			"je": "suis embelli",
+			"il": "est embelli",
+			"elle": "est embellie",
+			"ils": "sont embellis",
+			"elles": "sont embellies"
+		},
+		"plus-que-parfait": {
+			"j'": "étais embelli",
+			"tu": "étais embelli",
+			"il/elle": "avait embelli",
+			"nous": "étions embellis",
+			"vous": "étiez embellis",
+			"ils/elles": "avaient embelli",
+			"": "",
+			"il": "était embelli",
+			"elle": "était embellie",
+			"ils": "étaient embellis",
+			"elles": "étaient embellies"
+		},
+		"passé antérieur": {
+			"j'": "eus embelli",
+			"tu": "fus embelli",
+			"il/elle": "eut embelli",
+			"nous": "fûmes embellis",
+			"vous": "fûtes embellis",
+			"ils/elles": "eurent embelli",
+			"": "",
+			"je": "fus embelli",
+			"il": "fut embelli",
+			"elle": "fut embellie",
+			"ils": "furent embellis",
+			"elles": "furent embellies"
+		},
+		"futur antérieur": {
+			"j'": "aurai embelli",
+			"tu": "seras embelli",
+			"il/elle": "aura embelli",
+			"nous": "serons embellis",
+			"vous": "serez embellis",
+			"ils/elles": "auront embelli",
+			"": "",
+			"je": "serai embelli",
+			"il": "sera embelli",
+			"elle": "sera embellie",
+			"ils": "seront embellis",
+			"elles": "seront embellies"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "embellisse",
+			"que": "vous embellissiez",
+			"qu'il/elle": "embellisse",
+			"qu'ils/elles": "embellissent"
+		},
+		"imparfait": {
+			"j'": "embellisse",
+			"que": "vous embellissiez",
+			"qu'il/elle": "embellît",
+			"qu'ils/elles": "embellissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse embelli",
+			"que": "vous fussiez embellis",
+			"qu'il/elle": "eût embelli",
+			"qu'ils/elles": "eussent embelli",
+			"": "",
+			"qu'il": "fût embelli",
+			"qu'elle": "fût embellie",
+			"qu'ils": "fussent embellis",
+			"qu'elles": "fussent embellies"
+		},
+		"passé": {
+			"j'": "aie embelli",
+			"que": "vous soyez embellis",
+			"qu'il/elle": "ait embelli",
+			"qu'ils/elles": "aient embelli",
+			"": "",
+			"qu'il": "soit embelli",
+			"qu'elle": "soit embellie",
+			"qu'ils": "soient embellis",
+			"qu'elles": "soient embellies"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "embellirais",
+			"tu": "embellirais",
+			"il/elle": "embellirait",
+			"nous": "embellirions",
+			"vous": "embelliriez",
+			"ils/elles": "embelliraient"
+		},
+		"passé première forme": {
+			"j'": "aurais embelli",
+			"tu": "serais embelli",
+			"il/elle": "aurait embelli",
+			"nous": "serions embellis",
+			"vous": "seriez embellis",
+			"ils/elles": "auraient embelli",
+			"": "",
+			"je": "serais embelli",
+			"il": "serait embelli",
+			"elle": "serait embellie",
+			"ils": "seraient embellis",
+			"elles": "seraient embellies"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse embelli",
+			"tu": "fusses embelli",
+			"il/elle": "eût embelli",
+			"nous": "fussions embellis",
+			"vous": "fussiez embellis",
+			"ils/elles": "eussent embelli",
+			"": "",
+			"je": "fusse embelli",
+			"il": "fût embelli",
+			"elle": "fût embellie",
+			"ils": "fussent embellis",
+			"elles": "fussent embellies"
+		}
+	},
+	"participe": {
+		"présent": { "embellissant": "" },
+		"passé composé": { "ayant": "embelli", "": "", "étant": "embellie" },
+		"passé": {
+			"masc.sg.:": "embelli",
+			"masc.pl.:": "embellis",
+			"fém.sg.:": "embellie",
+			"fém.pl.:": "embellies"
+		}
+	},
+	"imperatif": {
+		"présent": { "embellis": "", "embellissons": "", "embellissez": "" },
+		"passé": {
+			"aie": "embelli",
+			"ayons": "embelli",
+			"ayez": "embelli",
+			"": "",
+			"sois": "embelli",
+			"soyons": "embelli",
+			"soyez": "embelli"
+		}
+	},
+	"infinitif": {
+		"présent": { "embellir": "" },
+		"passé": { "avoir": "embelli", "": "", "être": "embelli" }
+	}
+}

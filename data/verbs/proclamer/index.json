@@ -1,0 +1,141 @@
+{
+	"name": "proclamer",
+	"definition": "proclaim; declare; claim; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se proclamer/ne pas proclamer/ne pas se proclamer",
+	"indicatif": {
+		"présent": {
+			"je": "proclame",
+			"tu": "proclames",
+			"il/elle": "proclame",
+			"nous": "proclamons",
+			"vous": "proclamez",
+			"ils/elles": "proclament"
+		},
+		"imparfait": {
+			"je": "proclamais",
+			"tu": "proclamais",
+			"il/elle": "proclamait",
+			"nous": "proclamions",
+			"vous": "proclamiez",
+			"ils/elles": "proclamaient"
+		},
+		"futur": {
+			"je": "proclamerai",
+			"tu": "proclameras",
+			"il/elle": "proclamera",
+			"nous": "proclamerons",
+			"vous": "proclamerez",
+			"ils/elles": "proclameront"
+		},
+		"passé simple": {
+			"je": "proclamai",
+			"tu": "proclamas",
+			"il/elle": "proclama",
+			"nous": "proclamâmes",
+			"vous": "proclamâtes",
+			"ils/elles": "proclamèrent"
+		},
+		"passé composé": {
+			"j'": "ai proclamé",
+			"tu": "as proclamé",
+			"il/elle": "a proclamé",
+			"nous": "avons proclamé",
+			"vous": "avez proclamé",
+			"ils/elles": "ont proclamé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais proclamé",
+			"tu": "avais proclamé",
+			"il/elle": "avait proclamé",
+			"nous": "avions proclamé",
+			"vous": "aviez proclamé",
+			"ils/elles": "avaient proclamé"
+		},
+		"passé antérieur": {
+			"j'": "eus proclamé",
+			"tu": "eus proclamé",
+			"il/elle": "eut proclamé",
+			"nous": "eûmes proclamé",
+			"vous": "eûtes proclamé",
+			"ils/elles": "eurent proclamé"
+		},
+		"futur antérieur": {
+			"j'": "aurai proclamé",
+			"tu": "auras proclamé",
+			"il/elle": "aura proclamé",
+			"nous": "aurons proclamé",
+			"vous": "aurez proclamé",
+			"ils/elles": "auront proclamé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous proclamiez",
+			"qu'il/elle": "proclame",
+			"qu'ils/elles": "proclament"
+		},
+		"imparfait": {
+			"que": "vous proclamassiez",
+			"qu'il/elle": "proclamât",
+			"qu'ils/elles": "proclamassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse proclamé",
+			"que": "vous eussiez proclamé",
+			"qu'il/elle": "eût proclamé",
+			"qu'ils/elles": "eussent proclamé"
+		},
+		"passé": {
+			"j'": "aie proclamé",
+			"que": "vous ayez proclamé",
+			"qu'il/elle": "ait proclamé",
+			"qu'ils/elles": "aient proclamé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "proclamerais",
+			"tu": "proclamerais",
+			"il/elle": "proclamerait",
+			"nous": "proclamerions",
+			"vous": "proclameriez",
+			"ils/elles": "proclameraient"
+		},
+		"passé première forme": {
+			"j'": "aurais proclamé",
+			"tu": "aurais proclamé",
+			"il/elle": "aurait proclamé",
+			"nous": "aurions proclamé",
+			"vous": "auriez proclamé",
+			"ils/elles": "auraient proclamé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse proclamé",
+			"tu": "eusses proclamé",
+			"il/elle": "eût proclamé",
+			"nous": "eussions proclamé",
+			"vous": "eussiez proclamé",
+			"ils/elles": "eussent proclamé"
+		}
+	},
+	"participe": {
+		"présent": { "proclamant": "" },
+		"passé composé": { "ayant": "proclamé" },
+		"passé": {
+			"masc.sg.:": "proclamé",
+			"masc.pl.:": "proclamés",
+			"fém.sg.:": "proclamée",
+			"fém.pl.:": "proclamées"
+		}
+	},
+	"imperatif": {
+		"présent": { "proclame": "", "proclamons": "", "proclamez": "" },
+		"passé": { "aie": "proclamé", "ayons": "proclamé", "ayez": "proclamé" }
+	},
+	"infinitif": {
+		"présent": { "proclamer": "" },
+		"passé": { "avoir": "proclamé" }
+	}
+}

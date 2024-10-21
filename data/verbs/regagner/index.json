@@ -1,0 +1,141 @@
+{
+	"name": "regagner",
+	"definition": "return to; regain; return; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se regagner/ne pas regagner/ne pas se regagner",
+	"indicatif": {
+		"présent": {
+			"je": "regagne",
+			"tu": "regagnes",
+			"il/elle": "regagne",
+			"nous": "regagnons",
+			"vous": "regagnez",
+			"ils/elles": "regagnent"
+		},
+		"imparfait": {
+			"je": "regagnais",
+			"tu": "regagnais",
+			"il/elle": "regagnait",
+			"nous": "regagnions",
+			"vous": "regagniez",
+			"ils/elles": "regagnaient"
+		},
+		"futur": {
+			"je": "regagnerai",
+			"tu": "regagneras",
+			"il/elle": "regagnera",
+			"nous": "regagnerons",
+			"vous": "regagnerez",
+			"ils/elles": "regagneront"
+		},
+		"passé simple": {
+			"je": "regagnai",
+			"tu": "regagnas",
+			"il/elle": "regagna",
+			"nous": "regagnâmes",
+			"vous": "regagnâtes",
+			"ils/elles": "regagnèrent"
+		},
+		"passé composé": {
+			"j'": "ai regagné",
+			"tu": "as regagné",
+			"il/elle": "a regagné",
+			"nous": "avons regagné",
+			"vous": "avez regagné",
+			"ils/elles": "ont regagné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais regagné",
+			"tu": "avais regagné",
+			"il/elle": "avait regagné",
+			"nous": "avions regagné",
+			"vous": "aviez regagné",
+			"ils/elles": "avaient regagné"
+		},
+		"passé antérieur": {
+			"j'": "eus regagné",
+			"tu": "eus regagné",
+			"il/elle": "eut regagné",
+			"nous": "eûmes regagné",
+			"vous": "eûtes regagné",
+			"ils/elles": "eurent regagné"
+		},
+		"futur antérieur": {
+			"j'": "aurai regagné",
+			"tu": "auras regagné",
+			"il/elle": "aura regagné",
+			"nous": "aurons regagné",
+			"vous": "aurez regagné",
+			"ils/elles": "auront regagné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous regagniez",
+			"qu'il/elle": "regagne",
+			"qu'ils/elles": "regagnent"
+		},
+		"imparfait": {
+			"que": "vous regagnassiez",
+			"qu'il/elle": "regagnât",
+			"qu'ils/elles": "regagnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse regagné",
+			"que": "vous eussiez regagné",
+			"qu'il/elle": "eût regagné",
+			"qu'ils/elles": "eussent regagné"
+		},
+		"passé": {
+			"j'": "aie regagné",
+			"que": "vous ayez regagné",
+			"qu'il/elle": "ait regagné",
+			"qu'ils/elles": "aient regagné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "regagnerais",
+			"tu": "regagnerais",
+			"il/elle": "regagnerait",
+			"nous": "regagnerions",
+			"vous": "regagneriez",
+			"ils/elles": "regagneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais regagné",
+			"tu": "aurais regagné",
+			"il/elle": "aurait regagné",
+			"nous": "aurions regagné",
+			"vous": "auriez regagné",
+			"ils/elles": "auraient regagné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse regagné",
+			"tu": "eusses regagné",
+			"il/elle": "eût regagné",
+			"nous": "eussions regagné",
+			"vous": "eussiez regagné",
+			"ils/elles": "eussent regagné"
+		}
+	},
+	"participe": {
+		"présent": { "regagnant": "" },
+		"passé composé": { "ayant": "regagné" },
+		"passé": {
+			"masc.sg.:": "regagné",
+			"masc.pl.:": "regagnés",
+			"fém.sg.:": "regagnée",
+			"fém.pl.:": "regagnées"
+		}
+	},
+	"imperatif": {
+		"présent": { "regagne": "", "regagnons": "", "regagnez": "" },
+		"passé": { "aie": "regagné", "ayons": "regagné", "ayez": "regagné" }
+	},
+	"infinitif": {
+		"présent": { "regagner": "" },
+		"passé": { "avoir": "regagné" }
+	}
+}

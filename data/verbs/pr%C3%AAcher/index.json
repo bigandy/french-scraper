@@ -1,0 +1,138 @@
+{
+	"name": "prêcher",
+	"definition": "preach; proclaim; advocate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se prêcher/ne pas prêcher/ne pas se prêcher",
+	"indicatif": {
+		"présent": {
+			"je": "prêche",
+			"tu": "prêches",
+			"il/elle": "prêche",
+			"nous": "prêchons",
+			"vous": "prêchez",
+			"ils/elles": "prêchent"
+		},
+		"imparfait": {
+			"je": "prêchais",
+			"tu": "prêchais",
+			"il/elle": "prêchait",
+			"nous": "prêchions",
+			"vous": "prêchiez",
+			"ils/elles": "prêchaient"
+		},
+		"futur": {
+			"je": "prêcherai",
+			"tu": "prêcheras",
+			"il/elle": "prêchera",
+			"nous": "prêcherons",
+			"vous": "prêcherez",
+			"ils/elles": "prêcheront"
+		},
+		"passé simple": {
+			"je": "prêchai",
+			"tu": "prêchas",
+			"il/elle": "prêcha",
+			"nous": "prêchâmes",
+			"vous": "prêchâtes",
+			"ils/elles": "prêchèrent"
+		},
+		"passé composé": {
+			"j'": "ai prêché",
+			"tu": "as prêché",
+			"il/elle": "a prêché",
+			"nous": "avons prêché",
+			"vous": "avez prêché",
+			"ils/elles": "ont prêché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais prêché",
+			"tu": "avais prêché",
+			"il/elle": "avait prêché",
+			"nous": "avions prêché",
+			"vous": "aviez prêché",
+			"ils/elles": "avaient prêché"
+		},
+		"passé antérieur": {
+			"j'": "eus prêché",
+			"tu": "eus prêché",
+			"il/elle": "eut prêché",
+			"nous": "eûmes prêché",
+			"vous": "eûtes prêché",
+			"ils/elles": "eurent prêché"
+		},
+		"futur antérieur": {
+			"j'": "aurai prêché",
+			"tu": "auras prêché",
+			"il/elle": "aura prêché",
+			"nous": "aurons prêché",
+			"vous": "aurez prêché",
+			"ils/elles": "auront prêché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous prêchiez",
+			"qu'il/elle": "prêche",
+			"qu'ils/elles": "prêchent"
+		},
+		"imparfait": {
+			"que": "vous prêchassiez",
+			"qu'il/elle": "prêchât",
+			"qu'ils/elles": "prêchassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse prêché",
+			"que": "vous eussiez prêché",
+			"qu'il/elle": "eût prêché",
+			"qu'ils/elles": "eussent prêché"
+		},
+		"passé": {
+			"j'": "aie prêché",
+			"que": "vous ayez prêché",
+			"qu'il/elle": "ait prêché",
+			"qu'ils/elles": "aient prêché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "prêcherais",
+			"tu": "prêcherais",
+			"il/elle": "prêcherait",
+			"nous": "prêcherions",
+			"vous": "prêcheriez",
+			"ils/elles": "prêcheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais prêché",
+			"tu": "aurais prêché",
+			"il/elle": "aurait prêché",
+			"nous": "aurions prêché",
+			"vous": "auriez prêché",
+			"ils/elles": "auraient prêché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse prêché",
+			"tu": "eusses prêché",
+			"il/elle": "eût prêché",
+			"nous": "eussions prêché",
+			"vous": "eussiez prêché",
+			"ils/elles": "eussent prêché"
+		}
+	},
+	"participe": {
+		"présent": { "prêchant": "" },
+		"passé composé": { "ayant": "prêché" },
+		"passé": {
+			"masc.sg.:": "prêché",
+			"masc.pl.:": "prêchés",
+			"fém.sg.:": "prêchée",
+			"fém.pl.:": "prêchées"
+		}
+	},
+	"imperatif": {
+		"présent": { "prêche": "", "prêchons": "", "prêchez": "" },
+		"passé": { "aie": "prêché", "ayons": "prêché", "ayez": "prêché" }
+	},
+	"infinitif": { "présent": { "prêcher": "" }, "passé": { "avoir": "prêché" } }
+}

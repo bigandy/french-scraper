@@ -1,0 +1,138 @@
+{
+	"name": "cafeter",
+	"definition": "",
+	"model": "jeter",
+	"auxiliary": "avoir",
+	"otherForms": "se cafeter/ne pas cafeter/ne pas se cafeter",
+	"indicatif": {
+		"présent": {
+			"je": "cafette",
+			"tu": "cafettes",
+			"il/elle": "cafette",
+			"nous": "cafetons",
+			"vous": "cafetez",
+			"ils/elles": "cafettent"
+		},
+		"imparfait": {
+			"je": "cafetais",
+			"tu": "cafetais",
+			"il/elle": "cafetait",
+			"nous": "cafetions",
+			"vous": "cafetiez",
+			"ils/elles": "cafetaient"
+		},
+		"futur": {
+			"je": "cafetterai",
+			"tu": "cafetteras",
+			"il/elle": "cafettera",
+			"nous": "cafetterons",
+			"vous": "cafetterez",
+			"ils/elles": "cafetteront"
+		},
+		"passé simple": {
+			"je": "cafetai",
+			"tu": "cafetas",
+			"il/elle": "cafeta",
+			"nous": "cafetâmes",
+			"vous": "cafetâtes",
+			"ils/elles": "cafetèrent"
+		},
+		"passé composé": {
+			"j'": "ai cafeté",
+			"tu": "as cafeté",
+			"il/elle": "a cafeté",
+			"nous": "avons cafeté",
+			"vous": "avez cafeté",
+			"ils/elles": "ont cafeté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais cafeté",
+			"tu": "avais cafeté",
+			"il/elle": "avait cafeté",
+			"nous": "avions cafeté",
+			"vous": "aviez cafeté",
+			"ils/elles": "avaient cafeté"
+		},
+		"passé antérieur": {
+			"j'": "eus cafeté",
+			"tu": "eus cafeté",
+			"il/elle": "eut cafeté",
+			"nous": "eûmes cafeté",
+			"vous": "eûtes cafeté",
+			"ils/elles": "eurent cafeté"
+		},
+		"futur antérieur": {
+			"j'": "aurai cafeté",
+			"tu": "auras cafeté",
+			"il/elle": "aura cafeté",
+			"nous": "aurons cafeté",
+			"vous": "aurez cafeté",
+			"ils/elles": "auront cafeté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous cafetiez",
+			"qu'il/elle": "cafette",
+			"qu'ils/elles": "cafettent"
+		},
+		"imparfait": {
+			"que": "vous cafetassiez",
+			"qu'il/elle": "cafetât",
+			"qu'ils/elles": "cafetassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse cafeté",
+			"que": "vous eussiez cafeté",
+			"qu'il/elle": "eût cafeté",
+			"qu'ils/elles": "eussent cafeté"
+		},
+		"passé": {
+			"j'": "aie cafeté",
+			"que": "vous ayez cafeté",
+			"qu'il/elle": "ait cafeté",
+			"qu'ils/elles": "aient cafeté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "cafetterais",
+			"tu": "cafetterais",
+			"il/elle": "cafetterait",
+			"nous": "cafetterions",
+			"vous": "cafetteriez",
+			"ils/elles": "cafetteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais cafeté",
+			"tu": "aurais cafeté",
+			"il/elle": "aurait cafeté",
+			"nous": "aurions cafeté",
+			"vous": "auriez cafeté",
+			"ils/elles": "auraient cafeté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse cafeté",
+			"tu": "eusses cafeté",
+			"il/elle": "eût cafeté",
+			"nous": "eussions cafeté",
+			"vous": "eussiez cafeté",
+			"ils/elles": "eussent cafeté"
+		}
+	},
+	"participe": {
+		"présent": { "cafetant": "" },
+		"passé composé": { "ayant": "cafeté" },
+		"passé": {
+			"masc.sg.:": "cafeté",
+			"masc.pl.:": "cafetés",
+			"fém.sg.:": "cafetée",
+			"fém.pl.:": "cafetées"
+		}
+	},
+	"imperatif": {
+		"présent": { "cafette": "", "cafetons": "", "cafetez": "" },
+		"passé": { "aie": "cafeté", "ayons": "cafeté", "ayez": "cafeté" }
+	},
+	"infinitif": { "présent": { "cafeter": "" }, "passé": { "avoir": "cafeté" } }
+}

@@ -1,0 +1,143 @@
+{
+	"name": "englober",
+	"definition": "include; encompass; cover; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'englober/ne pas englober/ne pas s'englober",
+	"indicatif": {
+		"présent": {
+			"j'": "englobe",
+			"tu": "englobes",
+			"il/elle": "englobe",
+			"nous": "englobons",
+			"vous": "englobez",
+			"ils/elles": "englobent"
+		},
+		"imparfait": {
+			"j'": "englobais",
+			"tu": "englobais",
+			"il/elle": "englobait",
+			"nous": "englobions",
+			"vous": "englobiez",
+			"ils/elles": "englobaient"
+		},
+		"futur": {
+			"j'": "engloberai",
+			"tu": "engloberas",
+			"il/elle": "englobera",
+			"nous": "engloberons",
+			"vous": "engloberez",
+			"ils/elles": "engloberont"
+		},
+		"passé simple": {
+			"j'": "englobai",
+			"tu": "englobas",
+			"il/elle": "engloba",
+			"nous": "englobâmes",
+			"vous": "englobâtes",
+			"ils/elles": "englobèrent"
+		},
+		"passé composé": {
+			"j'": "ai englobé",
+			"tu": "as englobé",
+			"il/elle": "a englobé",
+			"nous": "avons englobé",
+			"vous": "avez englobé",
+			"ils/elles": "ont englobé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais englobé",
+			"tu": "avais englobé",
+			"il/elle": "avait englobé",
+			"nous": "avions englobé",
+			"vous": "aviez englobé",
+			"ils/elles": "avaient englobé"
+		},
+		"passé antérieur": {
+			"j'": "eus englobé",
+			"tu": "eus englobé",
+			"il/elle": "eut englobé",
+			"nous": "eûmes englobé",
+			"vous": "eûtes englobé",
+			"ils/elles": "eurent englobé"
+		},
+		"futur antérieur": {
+			"j'": "aurai englobé",
+			"tu": "auras englobé",
+			"il/elle": "aura englobé",
+			"nous": "aurons englobé",
+			"vous": "aurez englobé",
+			"ils/elles": "auront englobé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "englobe",
+			"que": "vous englobiez",
+			"qu'il/elle": "englobe",
+			"qu'ils/elles": "englobent"
+		},
+		"imparfait": {
+			"j'": "englobasse",
+			"que": "vous englobassiez",
+			"qu'il/elle": "englobât",
+			"qu'ils/elles": "englobassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse englobé",
+			"que": "vous eussiez englobé",
+			"qu'il/elle": "eût englobé",
+			"qu'ils/elles": "eussent englobé"
+		},
+		"passé": {
+			"j'": "aie englobé",
+			"que": "vous ayez englobé",
+			"qu'il/elle": "ait englobé",
+			"qu'ils/elles": "aient englobé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "engloberais",
+			"tu": "engloberais",
+			"il/elle": "engloberait",
+			"nous": "engloberions",
+			"vous": "engloberiez",
+			"ils/elles": "engloberaient"
+		},
+		"passé première forme": {
+			"j'": "aurais englobé",
+			"tu": "aurais englobé",
+			"il/elle": "aurait englobé",
+			"nous": "aurions englobé",
+			"vous": "auriez englobé",
+			"ils/elles": "auraient englobé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse englobé",
+			"tu": "eusses englobé",
+			"il/elle": "eût englobé",
+			"nous": "eussions englobé",
+			"vous": "eussiez englobé",
+			"ils/elles": "eussent englobé"
+		}
+	},
+	"participe": {
+		"présent": { "englobant": "" },
+		"passé composé": { "ayant": "englobé" },
+		"passé": {
+			"masc.sg.:": "englobé",
+			"masc.pl.:": "englobés",
+			"fém.sg.:": "englobée",
+			"fém.pl.:": "englobées"
+		}
+	},
+	"imperatif": {
+		"présent": { "englobe": "", "englobons": "", "englobez": "" },
+		"passé": { "aie": "englobé", "ayons": "englobé", "ayez": "englobé" }
+	},
+	"infinitif": {
+		"présent": { "englober": "" },
+		"passé": { "avoir": "englobé" }
+	}
+}

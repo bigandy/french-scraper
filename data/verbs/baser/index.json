@@ -1,0 +1,138 @@
+{
+	"name": "baser",
+	"definition": "base; rely; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se baser/ne pas baser/ne pas se baser",
+	"indicatif": {
+		"présent": {
+			"je": "base",
+			"tu": "bases",
+			"il/elle": "base",
+			"nous": "basons",
+			"vous": "basez",
+			"ils/elles": "basent"
+		},
+		"imparfait": {
+			"je": "basais",
+			"tu": "basais",
+			"il/elle": "basait",
+			"nous": "basions",
+			"vous": "basiez",
+			"ils/elles": "basaient"
+		},
+		"futur": {
+			"je": "baserai",
+			"tu": "baseras",
+			"il/elle": "basera",
+			"nous": "baserons",
+			"vous": "baserez",
+			"ils/elles": "baseront"
+		},
+		"passé simple": {
+			"je": "basai",
+			"tu": "basas",
+			"il/elle": "basa",
+			"nous": "basâmes",
+			"vous": "basâtes",
+			"ils/elles": "basèrent"
+		},
+		"passé composé": {
+			"j'": "ai basé",
+			"tu": "as basé",
+			"il/elle": "a basé",
+			"nous": "avons basé",
+			"vous": "avez basé",
+			"ils/elles": "ont basé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais basé",
+			"tu": "avais basé",
+			"il/elle": "avait basé",
+			"nous": "avions basé",
+			"vous": "aviez basé",
+			"ils/elles": "avaient basé"
+		},
+		"passé antérieur": {
+			"j'": "eus basé",
+			"tu": "eus basé",
+			"il/elle": "eut basé",
+			"nous": "eûmes basé",
+			"vous": "eûtes basé",
+			"ils/elles": "eurent basé"
+		},
+		"futur antérieur": {
+			"j'": "aurai basé",
+			"tu": "auras basé",
+			"il/elle": "aura basé",
+			"nous": "aurons basé",
+			"vous": "aurez basé",
+			"ils/elles": "auront basé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous basiez",
+			"qu'il/elle": "base",
+			"qu'ils/elles": "basent"
+		},
+		"imparfait": {
+			"que": "vous basassiez",
+			"qu'il/elle": "basât",
+			"qu'ils/elles": "basassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse basé",
+			"que": "vous eussiez basé",
+			"qu'il/elle": "eût basé",
+			"qu'ils/elles": "eussent basé"
+		},
+		"passé": {
+			"j'": "aie basé",
+			"que": "vous ayez basé",
+			"qu'il/elle": "ait basé",
+			"qu'ils/elles": "aient basé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "baserais",
+			"tu": "baserais",
+			"il/elle": "baserait",
+			"nous": "baserions",
+			"vous": "baseriez",
+			"ils/elles": "baseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais basé",
+			"tu": "aurais basé",
+			"il/elle": "aurait basé",
+			"nous": "aurions basé",
+			"vous": "auriez basé",
+			"ils/elles": "auraient basé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse basé",
+			"tu": "eusses basé",
+			"il/elle": "eût basé",
+			"nous": "eussions basé",
+			"vous": "eussiez basé",
+			"ils/elles": "eussent basé"
+		}
+	},
+	"participe": {
+		"présent": { "basant": "" },
+		"passé composé": { "ayant": "basé" },
+		"passé": {
+			"masc.sg.:": "basé",
+			"masc.pl.:": "basés",
+			"fém.sg.:": "basée",
+			"fém.pl.:": "basées"
+		}
+	},
+	"imperatif": {
+		"présent": { "base": "", "basons": "", "basez": "" },
+		"passé": { "aie": "basé", "ayons": "basé", "ayez": "basé" }
+	},
+	"infinitif": { "présent": { "baser": "" }, "passé": { "avoir": "basé" } }
+}

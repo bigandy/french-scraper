@@ -1,0 +1,138 @@
+{
+	"name": "flécher",
+	"definition": "arrow; signpost; ...",
+	"model": "sécher",
+	"auxiliary": "avoir",
+	"otherForms": "se flécher/ne pas flécher/ne pas se flécher",
+	"indicatif": {
+		"présent": {
+			"je": "flèche",
+			"tu": "flèches",
+			"il/elle": "flèche",
+			"nous": "fléchons",
+			"vous": "fléchez",
+			"ils/elles": "flèchent"
+		},
+		"imparfait": {
+			"je": "fléchais",
+			"tu": "fléchais",
+			"il/elle": "fléchait",
+			"nous": "fléchions",
+			"vous": "fléchiez",
+			"ils/elles": "fléchaient"
+		},
+		"futur": {
+			"je": "flécherai",
+			"tu": "flécheras",
+			"il/elle": "fléchera",
+			"nous": "flécherons",
+			"vous": "flécherez",
+			"ils/elles": "flécheront"
+		},
+		"passé simple": {
+			"je": "fléchai",
+			"tu": "fléchas",
+			"il/elle": "flécha",
+			"nous": "fléchâmes",
+			"vous": "fléchâtes",
+			"ils/elles": "fléchèrent"
+		},
+		"passé composé": {
+			"j'": "ai fléché",
+			"tu": "as fléché",
+			"il/elle": "a fléché",
+			"nous": "avons fléché",
+			"vous": "avez fléché",
+			"ils/elles": "ont fléché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais fléché",
+			"tu": "avais fléché",
+			"il/elle": "avait fléché",
+			"nous": "avions fléché",
+			"vous": "aviez fléché",
+			"ils/elles": "avaient fléché"
+		},
+		"passé antérieur": {
+			"j'": "eus fléché",
+			"tu": "eus fléché",
+			"il/elle": "eut fléché",
+			"nous": "eûmes fléché",
+			"vous": "eûtes fléché",
+			"ils/elles": "eurent fléché"
+		},
+		"futur antérieur": {
+			"j'": "aurai fléché",
+			"tu": "auras fléché",
+			"il/elle": "aura fléché",
+			"nous": "aurons fléché",
+			"vous": "aurez fléché",
+			"ils/elles": "auront fléché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous fléchiez",
+			"qu'il/elle": "flèche",
+			"qu'ils/elles": "flèchent"
+		},
+		"imparfait": {
+			"que": "vous fléchassiez",
+			"qu'il/elle": "fléchât",
+			"qu'ils/elles": "fléchassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse fléché",
+			"que": "vous eussiez fléché",
+			"qu'il/elle": "eût fléché",
+			"qu'ils/elles": "eussent fléché"
+		},
+		"passé": {
+			"j'": "aie fléché",
+			"que": "vous ayez fléché",
+			"qu'il/elle": "ait fléché",
+			"qu'ils/elles": "aient fléché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "flécherais",
+			"tu": "flécherais",
+			"il/elle": "flécherait",
+			"nous": "flécherions",
+			"vous": "flécheriez",
+			"ils/elles": "flécheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais fléché",
+			"tu": "aurais fléché",
+			"il/elle": "aurait fléché",
+			"nous": "aurions fléché",
+			"vous": "auriez fléché",
+			"ils/elles": "auraient fléché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse fléché",
+			"tu": "eusses fléché",
+			"il/elle": "eût fléché",
+			"nous": "eussions fléché",
+			"vous": "eussiez fléché",
+			"ils/elles": "eussent fléché"
+		}
+	},
+	"participe": {
+		"présent": { "fléchant": "" },
+		"passé composé": { "ayant": "fléché" },
+		"passé": {
+			"masc.sg.:": "fléché",
+			"masc.pl.:": "fléchés",
+			"fém.sg.:": "fléchée",
+			"fém.pl.:": "fléchées"
+		}
+	},
+	"imperatif": {
+		"présent": { "flèche": "", "fléchons": "", "fléchez": "" },
+		"passé": { "aie": "fléché", "ayons": "fléché", "ayez": "fléché" }
+	},
+	"infinitif": { "présent": { "flécher": "" }, "passé": { "avoir": "fléché" } }
+}

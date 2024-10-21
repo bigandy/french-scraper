@@ -1,0 +1,159 @@
+{
+	"name": "s'enquérir",
+	"definition": "inquire; enquire; ask; ...",
+	"model": "acquérir",
+	"auxiliary": "être",
+	"otherForms": "enquérir/ne pas enquérir/ne pas s'enquérir",
+	"indicatif": {
+		"présent": {
+			"je": "m'enquiers",
+			"tu": "t'enquiers",
+			"il/elle": "s'enquiert",
+			"nous": "nous enquérons",
+			"vous": "vous enquérez",
+			"ils/elles": "s'enquièrent"
+		},
+		"imparfait": {
+			"je": "m'enquérais",
+			"tu": "t'enquérais",
+			"il/elle": "s'enquérait",
+			"nous": "nous enquérions",
+			"vous": "vous enquériez",
+			"ils/elles": "s'enquéraient"
+		},
+		"futur": {
+			"je": "m'enquerrai",
+			"tu": "t'enquerras",
+			"il/elle": "s'enquerra",
+			"nous": "nous enquerrons",
+			"vous": "vous enquerrez",
+			"ils/elles": "s'enquerront"
+		},
+		"passé simple": {
+			"je": "m'enquis",
+			"tu": "t'enquis",
+			"il/elle": "s'enquit",
+			"nous": "nous enquîmes",
+			"vous": "vous enquîtes",
+			"ils/elles": "s'enquirent"
+		},
+		"passé composé": {
+			"je": "me suis enquis",
+			"tu": "t'es enquis",
+			"il": "s'est enquis",
+			"elle": "s'est enquise",
+			"nous": "nous sommes enquis",
+			"vous": "vous êtes enquis",
+			"ils": "se sont enquis",
+			"elles": "se sont enquises"
+		},
+		"plus-que-parfait": {
+			"je": "m'étais enquis",
+			"tu": "t'étais enquis",
+			"il": "s'était enquis",
+			"elle": "s'était enquise",
+			"nous": "nous étions enquis",
+			"vous": "vous étiez enquis",
+			"ils": "s'étaient enquis",
+			"elles": "s'étaient enquises"
+		},
+		"passé antérieur": {
+			"je": "me fus enquis",
+			"tu": "te fus enquis",
+			"il": "se fut enquis",
+			"elle": "se fut enquise",
+			"nous": "nous fûmes enquis",
+			"vous": "vous fûtes enquis",
+			"ils": "se furent enquis",
+			"elles": "se furent enquises"
+		},
+		"futur antérieur": {
+			"je": "me serai enquis",
+			"tu": "te seras enquis",
+			"il": "se sera enquis",
+			"elle": "se sera enquise",
+			"nous": "nous serons enquis",
+			"vous": "vous serez enquis",
+			"ils": "se seront enquis",
+			"elles": "se seront enquises"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous vous enquériez",
+			"qu'il/elle": "s'enquière",
+			"qu'ils/elles": "s'enquièrent"
+		},
+		"imparfait": {
+			"que": "vous vous enquissiez",
+			"qu'il/elle": "s'enquît",
+			"qu'ils/elles": "s'enquissent"
+		},
+		"plus-que-parfait": {
+			"que": "vous vous fussiez enquis",
+			"qu'il": "se fût enquis",
+			"qu'elle": "se fût enquise",
+			"qu'ils": "se fussent enquis",
+			"qu'elles": "se fussent enquises"
+		},
+		"passé": {
+			"que": "vous vous soyez enquis",
+			"qu'il": "se soit enquis",
+			"qu'elle": "se soit enquise",
+			"qu'ils": "se soient enquis",
+			"qu'elles": "se soient enquises"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "m'enquerrais",
+			"tu": "t'enquerrais",
+			"il/elle": "s'enquerrait",
+			"nous": "nous enquerrions",
+			"vous": "vous enquerriez",
+			"ils/elles": "s'enquerraient"
+		},
+		"passé première forme": {
+			"je": "me serais enquis",
+			"tu": "te serais enquis",
+			"il": "se serait enquis",
+			"elle": "se serait enquise",
+			"nous": "nous serions enquis",
+			"vous": "vous seriez enquis",
+			"ils": "se seraient enquis",
+			"elles": "se seraient enquises"
+		},
+		"passé deuxième forme": {
+			"je": "me fusse enquis",
+			"tu": "te fusses enquis",
+			"il": "se fût enquis",
+			"elle": "se fût enquise",
+			"nous": "nous fussions enquis",
+			"vous": "vous fussiez enquis",
+			"ils": "se fussent enquis",
+			"elles": "se fussent enquises"
+		}
+	},
+	"participe": {
+		"présent": { "s'enquérant": "" },
+		"passé composé": { "s'étant": "enquis" },
+		"passé": {
+			"masc.sg.:": "enquis",
+			"masc.pl.:": "enquis",
+			"fém.sg.:": "enquise",
+			"fém.pl.:": "enquises"
+		}
+	},
+	"imperatif": {
+		"présent": {
+			"enquiers-toi": "",
+			"enquérons-nous": "",
+			"enquérez-vous": ""
+		},
+		"passé": {}
+	},
+	"infinitif": {
+		"présent": { "s'enquérir": "" },
+		"passé": { "s'être": "enquis" }
+	}
+}

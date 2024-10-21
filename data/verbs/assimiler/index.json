@@ -1,0 +1,143 @@
+{
+	"name": "assimiler",
+	"definition": "assimilate; equate; absorb; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'assimiler/ne pas assimiler/ne pas s'assimiler",
+	"indicatif": {
+		"présent": {
+			"j'": "assimile",
+			"tu": "assimiles",
+			"il/elle": "assimile",
+			"nous": "assimilons",
+			"vous": "assimilez",
+			"ils/elles": "assimilent"
+		},
+		"imparfait": {
+			"j'": "assimilais",
+			"tu": "assimilais",
+			"il/elle": "assimilait",
+			"nous": "assimilions",
+			"vous": "assimiliez",
+			"ils/elles": "assimilaient"
+		},
+		"futur": {
+			"j'": "assimilerai",
+			"tu": "assimileras",
+			"il/elle": "assimilera",
+			"nous": "assimilerons",
+			"vous": "assimilerez",
+			"ils/elles": "assimileront"
+		},
+		"passé simple": {
+			"j'": "assimilai",
+			"tu": "assimilas",
+			"il/elle": "assimila",
+			"nous": "assimilâmes",
+			"vous": "assimilâtes",
+			"ils/elles": "assimilèrent"
+		},
+		"passé composé": {
+			"j'": "ai assimilé",
+			"tu": "as assimilé",
+			"il/elle": "a assimilé",
+			"nous": "avons assimilé",
+			"vous": "avez assimilé",
+			"ils/elles": "ont assimilé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais assimilé",
+			"tu": "avais assimilé",
+			"il/elle": "avait assimilé",
+			"nous": "avions assimilé",
+			"vous": "aviez assimilé",
+			"ils/elles": "avaient assimilé"
+		},
+		"passé antérieur": {
+			"j'": "eus assimilé",
+			"tu": "eus assimilé",
+			"il/elle": "eut assimilé",
+			"nous": "eûmes assimilé",
+			"vous": "eûtes assimilé",
+			"ils/elles": "eurent assimilé"
+		},
+		"futur antérieur": {
+			"j'": "aurai assimilé",
+			"tu": "auras assimilé",
+			"il/elle": "aura assimilé",
+			"nous": "aurons assimilé",
+			"vous": "aurez assimilé",
+			"ils/elles": "auront assimilé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "assimile",
+			"que": "vous assimiliez",
+			"qu'il/elle": "assimile",
+			"qu'ils/elles": "assimilent"
+		},
+		"imparfait": {
+			"j'": "assimilasse",
+			"que": "vous assimilassiez",
+			"qu'il/elle": "assimilât",
+			"qu'ils/elles": "assimilassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse assimilé",
+			"que": "vous eussiez assimilé",
+			"qu'il/elle": "eût assimilé",
+			"qu'ils/elles": "eussent assimilé"
+		},
+		"passé": {
+			"j'": "aie assimilé",
+			"que": "vous ayez assimilé",
+			"qu'il/elle": "ait assimilé",
+			"qu'ils/elles": "aient assimilé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "assimilerais",
+			"tu": "assimilerais",
+			"il/elle": "assimilerait",
+			"nous": "assimilerions",
+			"vous": "assimileriez",
+			"ils/elles": "assimileraient"
+		},
+		"passé première forme": {
+			"j'": "aurais assimilé",
+			"tu": "aurais assimilé",
+			"il/elle": "aurait assimilé",
+			"nous": "aurions assimilé",
+			"vous": "auriez assimilé",
+			"ils/elles": "auraient assimilé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse assimilé",
+			"tu": "eusses assimilé",
+			"il/elle": "eût assimilé",
+			"nous": "eussions assimilé",
+			"vous": "eussiez assimilé",
+			"ils/elles": "eussent assimilé"
+		}
+	},
+	"participe": {
+		"présent": { "assimilant": "" },
+		"passé composé": { "ayant": "assimilé" },
+		"passé": {
+			"masc.sg.:": "assimilé",
+			"masc.pl.:": "assimilés",
+			"fém.sg.:": "assimilée",
+			"fém.pl.:": "assimilées"
+		}
+	},
+	"imperatif": {
+		"présent": { "assimile": "", "assimilons": "", "assimilez": "" },
+		"passé": { "aie": "assimilé", "ayons": "assimilé", "ayez": "assimilé" }
+	},
+	"infinitif": {
+		"présent": { "assimiler": "" },
+		"passé": { "avoir": "assimilé" }
+	}
+}

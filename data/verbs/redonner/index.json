@@ -1,0 +1,141 @@
+{
+	"name": "redonner",
+	"definition": "restore; give back; return; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se redonner/ne pas redonner/ne pas se redonner",
+	"indicatif": {
+		"présent": {
+			"je": "redonne",
+			"tu": "redonnes",
+			"il/elle": "redonne",
+			"nous": "redonnons",
+			"vous": "redonnez",
+			"ils/elles": "redonnent"
+		},
+		"imparfait": {
+			"je": "redonnais",
+			"tu": "redonnais",
+			"il/elle": "redonnait",
+			"nous": "redonnions",
+			"vous": "redonniez",
+			"ils/elles": "redonnaient"
+		},
+		"futur": {
+			"je": "redonnerai",
+			"tu": "redonneras",
+			"il/elle": "redonnera",
+			"nous": "redonnerons",
+			"vous": "redonnerez",
+			"ils/elles": "redonneront"
+		},
+		"passé simple": {
+			"je": "redonnai",
+			"tu": "redonnas",
+			"il/elle": "redonna",
+			"nous": "redonnâmes",
+			"vous": "redonnâtes",
+			"ils/elles": "redonnèrent"
+		},
+		"passé composé": {
+			"j'": "ai redonné",
+			"tu": "as redonné",
+			"il/elle": "a redonné",
+			"nous": "avons redonné",
+			"vous": "avez redonné",
+			"ils/elles": "ont redonné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais redonné",
+			"tu": "avais redonné",
+			"il/elle": "avait redonné",
+			"nous": "avions redonné",
+			"vous": "aviez redonné",
+			"ils/elles": "avaient redonné"
+		},
+		"passé antérieur": {
+			"j'": "eus redonné",
+			"tu": "eus redonné",
+			"il/elle": "eut redonné",
+			"nous": "eûmes redonné",
+			"vous": "eûtes redonné",
+			"ils/elles": "eurent redonné"
+		},
+		"futur antérieur": {
+			"j'": "aurai redonné",
+			"tu": "auras redonné",
+			"il/elle": "aura redonné",
+			"nous": "aurons redonné",
+			"vous": "aurez redonné",
+			"ils/elles": "auront redonné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous redonniez",
+			"qu'il/elle": "redonne",
+			"qu'ils/elles": "redonnent"
+		},
+		"imparfait": {
+			"que": "vous redonnassiez",
+			"qu'il/elle": "redonnât",
+			"qu'ils/elles": "redonnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse redonné",
+			"que": "vous eussiez redonné",
+			"qu'il/elle": "eût redonné",
+			"qu'ils/elles": "eussent redonné"
+		},
+		"passé": {
+			"j'": "aie redonné",
+			"que": "vous ayez redonné",
+			"qu'il/elle": "ait redonné",
+			"qu'ils/elles": "aient redonné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "redonnerais",
+			"tu": "redonnerais",
+			"il/elle": "redonnerait",
+			"nous": "redonnerions",
+			"vous": "redonneriez",
+			"ils/elles": "redonneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais redonné",
+			"tu": "aurais redonné",
+			"il/elle": "aurait redonné",
+			"nous": "aurions redonné",
+			"vous": "auriez redonné",
+			"ils/elles": "auraient redonné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse redonné",
+			"tu": "eusses redonné",
+			"il/elle": "eût redonné",
+			"nous": "eussions redonné",
+			"vous": "eussiez redonné",
+			"ils/elles": "eussent redonné"
+		}
+	},
+	"participe": {
+		"présent": { "redonnant": "" },
+		"passé composé": { "ayant": "redonné" },
+		"passé": {
+			"masc.sg.:": "redonné",
+			"masc.pl.:": "redonnés",
+			"fém.sg.:": "redonnée",
+			"fém.pl.:": "redonnées"
+		}
+	},
+	"imperatif": {
+		"présent": { "redonne": "", "redonnons": "", "redonnez": "" },
+		"passé": { "aie": "redonné", "ayons": "redonné", "ayez": "redonné" }
+	},
+	"infinitif": {
+		"présent": { "redonner": "" },
+		"passé": { "avoir": "redonné" }
+	}
+}

@@ -1,0 +1,143 @@
+{
+	"name": "invalider",
+	"definition": "invalidate; strike down; overturn; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'invalider/ne pas invalider/ne pas s'invalider",
+	"indicatif": {
+		"présent": {
+			"j'": "invalide",
+			"tu": "invalides",
+			"il/elle": "invalide",
+			"nous": "invalidons",
+			"vous": "invalidez",
+			"ils/elles": "invalident"
+		},
+		"imparfait": {
+			"j'": "invalidais",
+			"tu": "invalidais",
+			"il/elle": "invalidait",
+			"nous": "invalidions",
+			"vous": "invalidiez",
+			"ils/elles": "invalidaient"
+		},
+		"futur": {
+			"j'": "invaliderai",
+			"tu": "invalideras",
+			"il/elle": "invalidera",
+			"nous": "invaliderons",
+			"vous": "invaliderez",
+			"ils/elles": "invalideront"
+		},
+		"passé simple": {
+			"j'": "invalidai",
+			"tu": "invalidas",
+			"il/elle": "invalida",
+			"nous": "invalidâmes",
+			"vous": "invalidâtes",
+			"ils/elles": "invalidèrent"
+		},
+		"passé composé": {
+			"j'": "ai invalidé",
+			"tu": "as invalidé",
+			"il/elle": "a invalidé",
+			"nous": "avons invalidé",
+			"vous": "avez invalidé",
+			"ils/elles": "ont invalidé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais invalidé",
+			"tu": "avais invalidé",
+			"il/elle": "avait invalidé",
+			"nous": "avions invalidé",
+			"vous": "aviez invalidé",
+			"ils/elles": "avaient invalidé"
+		},
+		"passé antérieur": {
+			"j'": "eus invalidé",
+			"tu": "eus invalidé",
+			"il/elle": "eut invalidé",
+			"nous": "eûmes invalidé",
+			"vous": "eûtes invalidé",
+			"ils/elles": "eurent invalidé"
+		},
+		"futur antérieur": {
+			"j'": "aurai invalidé",
+			"tu": "auras invalidé",
+			"il/elle": "aura invalidé",
+			"nous": "aurons invalidé",
+			"vous": "aurez invalidé",
+			"ils/elles": "auront invalidé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "invalide",
+			"que": "vous invalidiez",
+			"qu'il/elle": "invalide",
+			"qu'ils/elles": "invalident"
+		},
+		"imparfait": {
+			"j'": "invalidasse",
+			"que": "vous invalidassiez",
+			"qu'il/elle": "invalidât",
+			"qu'ils/elles": "invalidassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse invalidé",
+			"que": "vous eussiez invalidé",
+			"qu'il/elle": "eût invalidé",
+			"qu'ils/elles": "eussent invalidé"
+		},
+		"passé": {
+			"j'": "aie invalidé",
+			"que": "vous ayez invalidé",
+			"qu'il/elle": "ait invalidé",
+			"qu'ils/elles": "aient invalidé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "invaliderais",
+			"tu": "invaliderais",
+			"il/elle": "invaliderait",
+			"nous": "invaliderions",
+			"vous": "invalideriez",
+			"ils/elles": "invalideraient"
+		},
+		"passé première forme": {
+			"j'": "aurais invalidé",
+			"tu": "aurais invalidé",
+			"il/elle": "aurait invalidé",
+			"nous": "aurions invalidé",
+			"vous": "auriez invalidé",
+			"ils/elles": "auraient invalidé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse invalidé",
+			"tu": "eusses invalidé",
+			"il/elle": "eût invalidé",
+			"nous": "eussions invalidé",
+			"vous": "eussiez invalidé",
+			"ils/elles": "eussent invalidé"
+		}
+	},
+	"participe": {
+		"présent": { "invalidant": "" },
+		"passé composé": { "ayant": "invalidé" },
+		"passé": {
+			"masc.sg.:": "invalidé",
+			"masc.pl.:": "invalidés",
+			"fém.sg.:": "invalidée",
+			"fém.pl.:": "invalidées"
+		}
+	},
+	"imperatif": {
+		"présent": { "invalide": "", "invalidons": "", "invalidez": "" },
+		"passé": { "aie": "invalidé", "ayons": "invalidé", "ayez": "invalidé" }
+	},
+	"infinitif": {
+		"présent": { "invalider": "" },
+		"passé": { "avoir": "invalidé" }
+	}
+}

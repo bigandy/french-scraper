@@ -1,0 +1,141 @@
+{
+	"name": "bavarder",
+	"definition": "chat; talk; gossip; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas bavarder",
+	"indicatif": {
+		"présent": {
+			"je": "bavarde",
+			"tu": "bavardes",
+			"il/elle": "bavarde",
+			"nous": "bavardons",
+			"vous": "bavardez",
+			"ils/elles": "bavardent"
+		},
+		"imparfait": {
+			"je": "bavardais",
+			"tu": "bavardais",
+			"il/elle": "bavardait",
+			"nous": "bavardions",
+			"vous": "bavardiez",
+			"ils/elles": "bavardaient"
+		},
+		"futur": {
+			"je": "bavarderai",
+			"tu": "bavarderas",
+			"il/elle": "bavardera",
+			"nous": "bavarderons",
+			"vous": "bavarderez",
+			"ils/elles": "bavarderont"
+		},
+		"passé simple": {
+			"je": "bavardai",
+			"tu": "bavardas",
+			"il/elle": "bavarda",
+			"nous": "bavardâmes",
+			"vous": "bavardâtes",
+			"ils/elles": "bavardèrent"
+		},
+		"passé composé": {
+			"j'": "ai bavardé",
+			"tu": "as bavardé",
+			"il/elle": "a bavardé",
+			"nous": "avons bavardé",
+			"vous": "avez bavardé",
+			"ils/elles": "ont bavardé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais bavardé",
+			"tu": "avais bavardé",
+			"il/elle": "avait bavardé",
+			"nous": "avions bavardé",
+			"vous": "aviez bavardé",
+			"ils/elles": "avaient bavardé"
+		},
+		"passé antérieur": {
+			"j'": "eus bavardé",
+			"tu": "eus bavardé",
+			"il/elle": "eut bavardé",
+			"nous": "eûmes bavardé",
+			"vous": "eûtes bavardé",
+			"ils/elles": "eurent bavardé"
+		},
+		"futur antérieur": {
+			"j'": "aurai bavardé",
+			"tu": "auras bavardé",
+			"il/elle": "aura bavardé",
+			"nous": "aurons bavardé",
+			"vous": "aurez bavardé",
+			"ils/elles": "auront bavardé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous bavardiez",
+			"qu'il/elle": "bavarde",
+			"qu'ils/elles": "bavardent"
+		},
+		"imparfait": {
+			"que": "vous bavardassiez",
+			"qu'il/elle": "bavardât",
+			"qu'ils/elles": "bavardassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse bavardé",
+			"que": "vous eussiez bavardé",
+			"qu'il/elle": "eût bavardé",
+			"qu'ils/elles": "eussent bavardé"
+		},
+		"passé": {
+			"j'": "aie bavardé",
+			"que": "vous ayez bavardé",
+			"qu'il/elle": "ait bavardé",
+			"qu'ils/elles": "aient bavardé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "bavarderais",
+			"tu": "bavarderais",
+			"il/elle": "bavarderait",
+			"nous": "bavarderions",
+			"vous": "bavarderiez",
+			"ils/elles": "bavarderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais bavardé",
+			"tu": "aurais bavardé",
+			"il/elle": "aurait bavardé",
+			"nous": "aurions bavardé",
+			"vous": "auriez bavardé",
+			"ils/elles": "auraient bavardé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse bavardé",
+			"tu": "eusses bavardé",
+			"il/elle": "eût bavardé",
+			"nous": "eussions bavardé",
+			"vous": "eussiez bavardé",
+			"ils/elles": "eussent bavardé"
+		}
+	},
+	"participe": {
+		"présent": { "bavardant": "" },
+		"passé composé": { "ayant": "bavardé" },
+		"passé": {
+			"masc.sg.:": "bavardé",
+			"masc.pl.:": "bavardés",
+			"fém.sg.:": "bavardée",
+			"fém.pl.:": "bavardées"
+		}
+	},
+	"imperatif": {
+		"présent": { "bavarde": "", "bavardons": "", "bavardez": "" },
+		"passé": { "aie": "bavardé", "ayons": "bavardé", "ayez": "bavardé" }
+	},
+	"infinitif": {
+		"présent": { "bavarder": "" },
+		"passé": { "avoir": "bavardé" }
+	}
+}

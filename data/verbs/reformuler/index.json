@@ -1,0 +1,141 @@
+{
+	"name": "reformuler",
+	"definition": "reformulate; rephrase; redraft; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se reformuler/ne pas reformuler/ne pas se reformuler",
+	"indicatif": {
+		"présent": {
+			"je": "reformule",
+			"tu": "reformules",
+			"il/elle": "reformule",
+			"nous": "reformulons",
+			"vous": "reformulez",
+			"ils/elles": "reformulent"
+		},
+		"imparfait": {
+			"je": "reformulais",
+			"tu": "reformulais",
+			"il/elle": "reformulait",
+			"nous": "reformulions",
+			"vous": "reformuliez",
+			"ils/elles": "reformulaient"
+		},
+		"futur": {
+			"je": "reformulerai",
+			"tu": "reformuleras",
+			"il/elle": "reformulera",
+			"nous": "reformulerons",
+			"vous": "reformulerez",
+			"ils/elles": "reformuleront"
+		},
+		"passé simple": {
+			"je": "reformulai",
+			"tu": "reformulas",
+			"il/elle": "reformula",
+			"nous": "reformulâmes",
+			"vous": "reformulâtes",
+			"ils/elles": "reformulèrent"
+		},
+		"passé composé": {
+			"j'": "ai reformulé",
+			"tu": "as reformulé",
+			"il/elle": "a reformulé",
+			"nous": "avons reformulé",
+			"vous": "avez reformulé",
+			"ils/elles": "ont reformulé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais reformulé",
+			"tu": "avais reformulé",
+			"il/elle": "avait reformulé",
+			"nous": "avions reformulé",
+			"vous": "aviez reformulé",
+			"ils/elles": "avaient reformulé"
+		},
+		"passé antérieur": {
+			"j'": "eus reformulé",
+			"tu": "eus reformulé",
+			"il/elle": "eut reformulé",
+			"nous": "eûmes reformulé",
+			"vous": "eûtes reformulé",
+			"ils/elles": "eurent reformulé"
+		},
+		"futur antérieur": {
+			"j'": "aurai reformulé",
+			"tu": "auras reformulé",
+			"il/elle": "aura reformulé",
+			"nous": "aurons reformulé",
+			"vous": "aurez reformulé",
+			"ils/elles": "auront reformulé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous reformuliez",
+			"qu'il/elle": "reformule",
+			"qu'ils/elles": "reformulent"
+		},
+		"imparfait": {
+			"que": "vous reformulassiez",
+			"qu'il/elle": "reformulât",
+			"qu'ils/elles": "reformulassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse reformulé",
+			"que": "vous eussiez reformulé",
+			"qu'il/elle": "eût reformulé",
+			"qu'ils/elles": "eussent reformulé"
+		},
+		"passé": {
+			"j'": "aie reformulé",
+			"que": "vous ayez reformulé",
+			"qu'il/elle": "ait reformulé",
+			"qu'ils/elles": "aient reformulé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "reformulerais",
+			"tu": "reformulerais",
+			"il/elle": "reformulerait",
+			"nous": "reformulerions",
+			"vous": "reformuleriez",
+			"ils/elles": "reformuleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais reformulé",
+			"tu": "aurais reformulé",
+			"il/elle": "aurait reformulé",
+			"nous": "aurions reformulé",
+			"vous": "auriez reformulé",
+			"ils/elles": "auraient reformulé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse reformulé",
+			"tu": "eusses reformulé",
+			"il/elle": "eût reformulé",
+			"nous": "eussions reformulé",
+			"vous": "eussiez reformulé",
+			"ils/elles": "eussent reformulé"
+		}
+	},
+	"participe": {
+		"présent": { "reformulant": "" },
+		"passé composé": { "ayant": "reformulé" },
+		"passé": {
+			"masc.sg.:": "reformulé",
+			"masc.pl.:": "reformulés",
+			"fém.sg.:": "reformulée",
+			"fém.pl.:": "reformulées"
+		}
+	},
+	"imperatif": {
+		"présent": { "reformule": "", "reformulons": "", "reformulez": "" },
+		"passé": { "aie": "reformulé", "ayons": "reformulé", "ayez": "reformulé" }
+	},
+	"infinitif": {
+		"présent": { "reformuler": "" },
+		"passé": { "avoir": "reformulé" }
+	}
+}

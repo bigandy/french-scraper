@@ -1,0 +1,140 @@
+{
+	"name": "amasser",
+	"definition": "raise; amass; collect; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'amasser/ne pas amasser/ne pas s'amasser",
+	"indicatif": {
+		"présent": {
+			"j'": "amasse",
+			"tu": "amasses",
+			"il/elle": "amasse",
+			"nous": "amassons",
+			"vous": "amassez",
+			"ils/elles": "amassent"
+		},
+		"imparfait": {
+			"j'": "amassais",
+			"tu": "amassais",
+			"il/elle": "amassait",
+			"nous": "amassions",
+			"vous": "amassiez",
+			"ils/elles": "amassaient"
+		},
+		"futur": {
+			"j'": "amasserai",
+			"tu": "amasseras",
+			"il/elle": "amassera",
+			"nous": "amasserons",
+			"vous": "amasserez",
+			"ils/elles": "amasseront"
+		},
+		"passé simple": {
+			"j'": "amassai",
+			"tu": "amassas",
+			"il/elle": "amassa",
+			"nous": "amassâmes",
+			"vous": "amassâtes",
+			"ils/elles": "amassèrent"
+		},
+		"passé composé": {
+			"j'": "ai amassé",
+			"tu": "as amassé",
+			"il/elle": "a amassé",
+			"nous": "avons amassé",
+			"vous": "avez amassé",
+			"ils/elles": "ont amassé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais amassé",
+			"tu": "avais amassé",
+			"il/elle": "avait amassé",
+			"nous": "avions amassé",
+			"vous": "aviez amassé",
+			"ils/elles": "avaient amassé"
+		},
+		"passé antérieur": {
+			"j'": "eus amassé",
+			"tu": "eus amassé",
+			"il/elle": "eut amassé",
+			"nous": "eûmes amassé",
+			"vous": "eûtes amassé",
+			"ils/elles": "eurent amassé"
+		},
+		"futur antérieur": {
+			"j'": "aurai amassé",
+			"tu": "auras amassé",
+			"il/elle": "aura amassé",
+			"nous": "aurons amassé",
+			"vous": "aurez amassé",
+			"ils/elles": "auront amassé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "amasse",
+			"que": "vous amassiez",
+			"qu'il/elle": "amasse",
+			"qu'ils/elles": "amassent"
+		},
+		"imparfait": {
+			"j'": "amassasse",
+			"que": "vous amassassiez",
+			"qu'il/elle": "amassât",
+			"qu'ils/elles": "amassassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse amassé",
+			"que": "vous eussiez amassé",
+			"qu'il/elle": "eût amassé",
+			"qu'ils/elles": "eussent amassé"
+		},
+		"passé": {
+			"j'": "aie amassé",
+			"que": "vous ayez amassé",
+			"qu'il/elle": "ait amassé",
+			"qu'ils/elles": "aient amassé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "amasserais",
+			"tu": "amasserais",
+			"il/elle": "amasserait",
+			"nous": "amasserions",
+			"vous": "amasseriez",
+			"ils/elles": "amasseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais amassé",
+			"tu": "aurais amassé",
+			"il/elle": "aurait amassé",
+			"nous": "aurions amassé",
+			"vous": "auriez amassé",
+			"ils/elles": "auraient amassé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse amassé",
+			"tu": "eusses amassé",
+			"il/elle": "eût amassé",
+			"nous": "eussions amassé",
+			"vous": "eussiez amassé",
+			"ils/elles": "eussent amassé"
+		}
+	},
+	"participe": {
+		"présent": { "amassant": "" },
+		"passé composé": { "ayant": "amassé" },
+		"passé": {
+			"masc.sg.:": "amassé",
+			"masc.pl.:": "amassés",
+			"fém.sg.:": "amassée",
+			"fém.pl.:": "amassées"
+		}
+	},
+	"imperatif": {
+		"présent": { "amasse": "", "amassons": "", "amassez": "" },
+		"passé": { "aie": "amassé", "ayons": "amassé", "ayez": "amassé" }
+	},
+	"infinitif": { "présent": { "amasser": "" }, "passé": { "avoir": "amassé" } }
+}

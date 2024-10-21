@@ -1,0 +1,140 @@
+{
+	"name": "opter",
+	"definition": "opt; choose; option; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas opter",
+	"indicatif": {
+		"présent": {
+			"j'": "opte",
+			"tu": "optes",
+			"il/elle": "opte",
+			"nous": "optons",
+			"vous": "optez",
+			"ils/elles": "optent"
+		},
+		"imparfait": {
+			"j'": "optais",
+			"tu": "optais",
+			"il/elle": "optait",
+			"nous": "options",
+			"vous": "optiez",
+			"ils/elles": "optaient"
+		},
+		"futur": {
+			"j'": "opterai",
+			"tu": "opteras",
+			"il/elle": "optera",
+			"nous": "opterons",
+			"vous": "opterez",
+			"ils/elles": "opteront"
+		},
+		"passé simple": {
+			"j'": "optai",
+			"tu": "optas",
+			"il/elle": "opta",
+			"nous": "optâmes",
+			"vous": "optâtes",
+			"ils/elles": "optèrent"
+		},
+		"passé composé": {
+			"j'": "ai opté",
+			"tu": "as opté",
+			"il/elle": "a opté",
+			"nous": "avons opté",
+			"vous": "avez opté",
+			"ils/elles": "ont opté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais opté",
+			"tu": "avais opté",
+			"il/elle": "avait opté",
+			"nous": "avions opté",
+			"vous": "aviez opté",
+			"ils/elles": "avaient opté"
+		},
+		"passé antérieur": {
+			"j'": "eus opté",
+			"tu": "eus opté",
+			"il/elle": "eut opté",
+			"nous": "eûmes opté",
+			"vous": "eûtes opté",
+			"ils/elles": "eurent opté"
+		},
+		"futur antérieur": {
+			"j'": "aurai opté",
+			"tu": "auras opté",
+			"il/elle": "aura opté",
+			"nous": "aurons opté",
+			"vous": "aurez opté",
+			"ils/elles": "auront opté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "opte",
+			"que": "vous optiez",
+			"qu'il/elle": "opte",
+			"qu'ils/elles": "optent"
+		},
+		"imparfait": {
+			"j'": "optasse",
+			"que": "vous optassiez",
+			"qu'il/elle": "optât",
+			"qu'ils/elles": "optassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse opté",
+			"que": "vous eussiez opté",
+			"qu'il/elle": "eût opté",
+			"qu'ils/elles": "eussent opté"
+		},
+		"passé": {
+			"j'": "aie opté",
+			"que": "vous ayez opté",
+			"qu'il/elle": "ait opté",
+			"qu'ils/elles": "aient opté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "opterais",
+			"tu": "opterais",
+			"il/elle": "opterait",
+			"nous": "opterions",
+			"vous": "opteriez",
+			"ils/elles": "opteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais opté",
+			"tu": "aurais opté",
+			"il/elle": "aurait opté",
+			"nous": "aurions opté",
+			"vous": "auriez opté",
+			"ils/elles": "auraient opté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse opté",
+			"tu": "eusses opté",
+			"il/elle": "eût opté",
+			"nous": "eussions opté",
+			"vous": "eussiez opté",
+			"ils/elles": "eussent opté"
+		}
+	},
+	"participe": {
+		"présent": { "optant": "" },
+		"passé composé": { "ayant": "opté" },
+		"passé": {
+			"masc.sg.:": "opté",
+			"masc.pl.:": "optés",
+			"fém.sg.:": "optée",
+			"fém.pl.:": "optées"
+		}
+	},
+	"imperatif": {
+		"présent": { "opte": "", "optons": "", "optez": "" },
+		"passé": { "aie": "opté", "ayons": "opté", "ayez": "opté" }
+	},
+	"infinitif": { "présent": { "opter": "" }, "passé": { "avoir": "opté" } }
+}

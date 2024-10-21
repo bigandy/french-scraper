@@ -1,0 +1,138 @@
+{
+	"name": "ligner",
+	"definition": "line; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se ligner/ne pas ligner/ne pas se ligner",
+	"indicatif": {
+		"présent": {
+			"je": "ligne",
+			"tu": "lignes",
+			"il/elle": "ligne",
+			"nous": "lignons",
+			"vous": "lignez",
+			"ils/elles": "lignent"
+		},
+		"imparfait": {
+			"je": "lignais",
+			"tu": "lignais",
+			"il/elle": "lignait",
+			"nous": "lignions",
+			"vous": "ligniez",
+			"ils/elles": "lignaient"
+		},
+		"futur": {
+			"je": "lignerai",
+			"tu": "ligneras",
+			"il/elle": "lignera",
+			"nous": "lignerons",
+			"vous": "lignerez",
+			"ils/elles": "ligneront"
+		},
+		"passé simple": {
+			"je": "lignai",
+			"tu": "lignas",
+			"il/elle": "ligna",
+			"nous": "lignâmes",
+			"vous": "lignâtes",
+			"ils/elles": "lignèrent"
+		},
+		"passé composé": {
+			"j'": "ai ligné",
+			"tu": "as ligné",
+			"il/elle": "a ligné",
+			"nous": "avons ligné",
+			"vous": "avez ligné",
+			"ils/elles": "ont ligné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais ligné",
+			"tu": "avais ligné",
+			"il/elle": "avait ligné",
+			"nous": "avions ligné",
+			"vous": "aviez ligné",
+			"ils/elles": "avaient ligné"
+		},
+		"passé antérieur": {
+			"j'": "eus ligné",
+			"tu": "eus ligné",
+			"il/elle": "eut ligné",
+			"nous": "eûmes ligné",
+			"vous": "eûtes ligné",
+			"ils/elles": "eurent ligné"
+		},
+		"futur antérieur": {
+			"j'": "aurai ligné",
+			"tu": "auras ligné",
+			"il/elle": "aura ligné",
+			"nous": "aurons ligné",
+			"vous": "aurez ligné",
+			"ils/elles": "auront ligné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous ligniez",
+			"qu'il/elle": "ligne",
+			"qu'ils/elles": "lignent"
+		},
+		"imparfait": {
+			"que": "vous lignassiez",
+			"qu'il/elle": "lignât",
+			"qu'ils/elles": "lignassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse ligné",
+			"que": "vous eussiez ligné",
+			"qu'il/elle": "eût ligné",
+			"qu'ils/elles": "eussent ligné"
+		},
+		"passé": {
+			"j'": "aie ligné",
+			"que": "vous ayez ligné",
+			"qu'il/elle": "ait ligné",
+			"qu'ils/elles": "aient ligné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "lignerais",
+			"tu": "lignerais",
+			"il/elle": "lignerait",
+			"nous": "lignerions",
+			"vous": "ligneriez",
+			"ils/elles": "ligneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais ligné",
+			"tu": "aurais ligné",
+			"il/elle": "aurait ligné",
+			"nous": "aurions ligné",
+			"vous": "auriez ligné",
+			"ils/elles": "auraient ligné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse ligné",
+			"tu": "eusses ligné",
+			"il/elle": "eût ligné",
+			"nous": "eussions ligné",
+			"vous": "eussiez ligné",
+			"ils/elles": "eussent ligné"
+		}
+	},
+	"participe": {
+		"présent": { "lignant": "" },
+		"passé composé": { "ayant": "ligné" },
+		"passé": {
+			"masc.sg.:": "ligné",
+			"masc.pl.:": "lignés",
+			"fém.sg.:": "lignée",
+			"fém.pl.:": "lignées"
+		}
+	},
+	"imperatif": {
+		"présent": { "ligne": "", "lignons": "", "lignez": "" },
+		"passé": { "aie": "ligné", "ayons": "ligné", "ayez": "ligné" }
+	},
+	"infinitif": { "présent": { "ligner": "" }, "passé": { "avoir": "ligné" } }
+}

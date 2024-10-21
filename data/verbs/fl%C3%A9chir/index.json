@@ -1,0 +1,138 @@
+{
+	"name": "fléchir",
+	"definition": "flex; bend; deflect; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se fléchir/ne pas fléchir/ne pas se fléchir",
+	"indicatif": {
+		"présent": {
+			"je": "fléchis",
+			"tu": "fléchis",
+			"il/elle": "fléchit",
+			"nous": "fléchissons",
+			"vous": "fléchissez",
+			"ils/elles": "fléchissent"
+		},
+		"imparfait": {
+			"je": "fléchissais",
+			"tu": "fléchissais",
+			"il/elle": "fléchissait",
+			"nous": "fléchissions",
+			"vous": "fléchissiez",
+			"ils/elles": "fléchissaient"
+		},
+		"futur": {
+			"je": "fléchirai",
+			"tu": "fléchiras",
+			"il/elle": "fléchira",
+			"nous": "fléchirons",
+			"vous": "fléchirez",
+			"ils/elles": "fléchiront"
+		},
+		"passé simple": {
+			"je": "fléchis",
+			"tu": "fléchis",
+			"il/elle": "fléchit",
+			"nous": "fléchîmes",
+			"vous": "fléchîtes",
+			"ils/elles": "fléchirent"
+		},
+		"passé composé": {
+			"j'": "ai fléchi",
+			"tu": "as fléchi",
+			"il/elle": "a fléchi",
+			"nous": "avons fléchi",
+			"vous": "avez fléchi",
+			"ils/elles": "ont fléchi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais fléchi",
+			"tu": "avais fléchi",
+			"il/elle": "avait fléchi",
+			"nous": "avions fléchi",
+			"vous": "aviez fléchi",
+			"ils/elles": "avaient fléchi"
+		},
+		"passé antérieur": {
+			"j'": "eus fléchi",
+			"tu": "eus fléchi",
+			"il/elle": "eut fléchi",
+			"nous": "eûmes fléchi",
+			"vous": "eûtes fléchi",
+			"ils/elles": "eurent fléchi"
+		},
+		"futur antérieur": {
+			"j'": "aurai fléchi",
+			"tu": "auras fléchi",
+			"il/elle": "aura fléchi",
+			"nous": "aurons fléchi",
+			"vous": "aurez fléchi",
+			"ils/elles": "auront fléchi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous fléchissiez",
+			"qu'il/elle": "fléchisse",
+			"qu'ils/elles": "fléchissent"
+		},
+		"imparfait": {
+			"que": "vous fléchissiez",
+			"qu'il/elle": "fléchît",
+			"qu'ils/elles": "fléchissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse fléchi",
+			"que": "vous eussiez fléchi",
+			"qu'il/elle": "eût fléchi",
+			"qu'ils/elles": "eussent fléchi"
+		},
+		"passé": {
+			"j'": "aie fléchi",
+			"que": "vous ayez fléchi",
+			"qu'il/elle": "ait fléchi",
+			"qu'ils/elles": "aient fléchi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "fléchirais",
+			"tu": "fléchirais",
+			"il/elle": "fléchirait",
+			"nous": "fléchirions",
+			"vous": "fléchiriez",
+			"ils/elles": "fléchiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais fléchi",
+			"tu": "aurais fléchi",
+			"il/elle": "aurait fléchi",
+			"nous": "aurions fléchi",
+			"vous": "auriez fléchi",
+			"ils/elles": "auraient fléchi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse fléchi",
+			"tu": "eusses fléchi",
+			"il/elle": "eût fléchi",
+			"nous": "eussions fléchi",
+			"vous": "eussiez fléchi",
+			"ils/elles": "eussent fléchi"
+		}
+	},
+	"participe": {
+		"présent": { "fléchissant": "" },
+		"passé composé": { "ayant": "fléchi" },
+		"passé": {
+			"masc.sg.:": "fléchi",
+			"masc.pl.:": "fléchis",
+			"fém.sg.:": "fléchie",
+			"fém.pl.:": "fléchies"
+		}
+	},
+	"imperatif": {
+		"présent": { "fléchis": "", "fléchissons": "", "fléchissez": "" },
+		"passé": { "aie": "fléchi", "ayons": "fléchi", "ayez": "fléchi" }
+	},
+	"infinitif": { "présent": { "fléchir": "" }, "passé": { "avoir": "fléchi" } }
+}

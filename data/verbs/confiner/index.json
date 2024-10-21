@@ -1,0 +1,141 @@
+{
+	"name": "confiner",
+	"definition": "confine; contain; enclose; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se confiner/ne pas confiner/ne pas se confiner",
+	"indicatif": {
+		"présent": {
+			"je": "confine",
+			"tu": "confines",
+			"il/elle": "confine",
+			"nous": "confinons",
+			"vous": "confinez",
+			"ils/elles": "confinent"
+		},
+		"imparfait": {
+			"je": "confinais",
+			"tu": "confinais",
+			"il/elle": "confinait",
+			"nous": "confinions",
+			"vous": "confiniez",
+			"ils/elles": "confinaient"
+		},
+		"futur": {
+			"je": "confinerai",
+			"tu": "confineras",
+			"il/elle": "confinera",
+			"nous": "confinerons",
+			"vous": "confinerez",
+			"ils/elles": "confineront"
+		},
+		"passé simple": {
+			"je": "confinai",
+			"tu": "confinas",
+			"il/elle": "confina",
+			"nous": "confinâmes",
+			"vous": "confinâtes",
+			"ils/elles": "confinèrent"
+		},
+		"passé composé": {
+			"j'": "ai confiné",
+			"tu": "as confiné",
+			"il/elle": "a confiné",
+			"nous": "avons confiné",
+			"vous": "avez confiné",
+			"ils/elles": "ont confiné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais confiné",
+			"tu": "avais confiné",
+			"il/elle": "avait confiné",
+			"nous": "avions confiné",
+			"vous": "aviez confiné",
+			"ils/elles": "avaient confiné"
+		},
+		"passé antérieur": {
+			"j'": "eus confiné",
+			"tu": "eus confiné",
+			"il/elle": "eut confiné",
+			"nous": "eûmes confiné",
+			"vous": "eûtes confiné",
+			"ils/elles": "eurent confiné"
+		},
+		"futur antérieur": {
+			"j'": "aurai confiné",
+			"tu": "auras confiné",
+			"il/elle": "aura confiné",
+			"nous": "aurons confiné",
+			"vous": "aurez confiné",
+			"ils/elles": "auront confiné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous confiniez",
+			"qu'il/elle": "confine",
+			"qu'ils/elles": "confinent"
+		},
+		"imparfait": {
+			"que": "vous confinassiez",
+			"qu'il/elle": "confinât",
+			"qu'ils/elles": "confinassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse confiné",
+			"que": "vous eussiez confiné",
+			"qu'il/elle": "eût confiné",
+			"qu'ils/elles": "eussent confiné"
+		},
+		"passé": {
+			"j'": "aie confiné",
+			"que": "vous ayez confiné",
+			"qu'il/elle": "ait confiné",
+			"qu'ils/elles": "aient confiné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "confinerais",
+			"tu": "confinerais",
+			"il/elle": "confinerait",
+			"nous": "confinerions",
+			"vous": "confineriez",
+			"ils/elles": "confineraient"
+		},
+		"passé première forme": {
+			"j'": "aurais confiné",
+			"tu": "aurais confiné",
+			"il/elle": "aurait confiné",
+			"nous": "aurions confiné",
+			"vous": "auriez confiné",
+			"ils/elles": "auraient confiné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse confiné",
+			"tu": "eusses confiné",
+			"il/elle": "eût confiné",
+			"nous": "eussions confiné",
+			"vous": "eussiez confiné",
+			"ils/elles": "eussent confiné"
+		}
+	},
+	"participe": {
+		"présent": { "confinant": "" },
+		"passé composé": { "ayant": "confiné" },
+		"passé": {
+			"masc.sg.:": "confiné",
+			"masc.pl.:": "confinés",
+			"fém.sg.:": "confinée",
+			"fém.pl.:": "confinées"
+		}
+	},
+	"imperatif": {
+		"présent": { "confine": "", "confinons": "", "confinez": "" },
+		"passé": { "aie": "confiné", "ayons": "confiné", "ayez": "confiné" }
+	},
+	"infinitif": {
+		"présent": { "confiner": "" },
+		"passé": { "avoir": "confiné" }
+	}
+}

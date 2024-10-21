@@ -1,0 +1,138 @@
+{
+	"name": "hacher",
+	"definition": "chop; mince; hash; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se hacher/ne pas hacher/ne pas se hacher",
+	"indicatif": {
+		"présent": {
+			"je": "hache",
+			"tu": "haches",
+			"il/elle": "hache",
+			"nous": "hachons",
+			"vous": "hachez",
+			"ils/elles": "hachent"
+		},
+		"imparfait": {
+			"je": "hachais",
+			"tu": "hachais",
+			"il/elle": "hachait",
+			"nous": "hachions",
+			"vous": "hachiez",
+			"ils/elles": "hachaient"
+		},
+		"futur": {
+			"je": "hacherai",
+			"tu": "hacheras",
+			"il/elle": "hachera",
+			"nous": "hacherons",
+			"vous": "hacherez",
+			"ils/elles": "hacheront"
+		},
+		"passé simple": {
+			"je": "hachai",
+			"tu": "hachas",
+			"il/elle": "hacha",
+			"nous": "hachâmes",
+			"vous": "hachâtes",
+			"ils/elles": "hachèrent"
+		},
+		"passé composé": {
+			"j'": "ai haché",
+			"tu": "as haché",
+			"il/elle": "a haché",
+			"nous": "avons haché",
+			"vous": "avez haché",
+			"ils/elles": "ont haché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais haché",
+			"tu": "avais haché",
+			"il/elle": "avait haché",
+			"nous": "avions haché",
+			"vous": "aviez haché",
+			"ils/elles": "avaient haché"
+		},
+		"passé antérieur": {
+			"j'": "eus haché",
+			"tu": "eus haché",
+			"il/elle": "eut haché",
+			"nous": "eûmes haché",
+			"vous": "eûtes haché",
+			"ils/elles": "eurent haché"
+		},
+		"futur antérieur": {
+			"j'": "aurai haché",
+			"tu": "auras haché",
+			"il/elle": "aura haché",
+			"nous": "aurons haché",
+			"vous": "aurez haché",
+			"ils/elles": "auront haché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous hachiez",
+			"qu'il/elle": "hache",
+			"qu'ils/elles": "hachent"
+		},
+		"imparfait": {
+			"que": "vous hachassiez",
+			"qu'il/elle": "hachât",
+			"qu'ils/elles": "hachassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse haché",
+			"que": "vous eussiez haché",
+			"qu'il/elle": "eût haché",
+			"qu'ils/elles": "eussent haché"
+		},
+		"passé": {
+			"j'": "aie haché",
+			"que": "vous ayez haché",
+			"qu'il/elle": "ait haché",
+			"qu'ils/elles": "aient haché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "hacherais",
+			"tu": "hacherais",
+			"il/elle": "hacherait",
+			"nous": "hacherions",
+			"vous": "hacheriez",
+			"ils/elles": "hacheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais haché",
+			"tu": "aurais haché",
+			"il/elle": "aurait haché",
+			"nous": "aurions haché",
+			"vous": "auriez haché",
+			"ils/elles": "auraient haché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse haché",
+			"tu": "eusses haché",
+			"il/elle": "eût haché",
+			"nous": "eussions haché",
+			"vous": "eussiez haché",
+			"ils/elles": "eussent haché"
+		}
+	},
+	"participe": {
+		"présent": { "hachant": "" },
+		"passé composé": { "ayant": "haché" },
+		"passé": {
+			"masc.sg.:": "haché",
+			"masc.pl.:": "hachés",
+			"fém.sg.:": "hachée",
+			"fém.pl.:": "hachées"
+		}
+	},
+	"imperatif": {
+		"présent": { "hache": "", "hachons": "", "hachez": "" },
+		"passé": { "aie": "haché", "ayons": "haché", "ayez": "haché" }
+	},
+	"infinitif": { "présent": { "hacher": "" }, "passé": { "avoir": "haché" } }
+}

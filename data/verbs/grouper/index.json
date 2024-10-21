@@ -1,0 +1,138 @@
+{
+	"name": "grouper",
+	"definition": "group; bundle; cluster; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se grouper/ne pas grouper/ne pas se grouper",
+	"indicatif": {
+		"présent": {
+			"je": "groupe",
+			"tu": "groupes",
+			"il/elle": "groupe",
+			"nous": "groupons",
+			"vous": "groupez",
+			"ils/elles": "groupent"
+		},
+		"imparfait": {
+			"je": "groupais",
+			"tu": "groupais",
+			"il/elle": "groupait",
+			"nous": "groupions",
+			"vous": "groupiez",
+			"ils/elles": "groupaient"
+		},
+		"futur": {
+			"je": "grouperai",
+			"tu": "grouperas",
+			"il/elle": "groupera",
+			"nous": "grouperons",
+			"vous": "grouperez",
+			"ils/elles": "grouperont"
+		},
+		"passé simple": {
+			"je": "groupai",
+			"tu": "groupas",
+			"il/elle": "groupa",
+			"nous": "groupâmes",
+			"vous": "groupâtes",
+			"ils/elles": "groupèrent"
+		},
+		"passé composé": {
+			"j'": "ai groupé",
+			"tu": "as groupé",
+			"il/elle": "a groupé",
+			"nous": "avons groupé",
+			"vous": "avez groupé",
+			"ils/elles": "ont groupé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais groupé",
+			"tu": "avais groupé",
+			"il/elle": "avait groupé",
+			"nous": "avions groupé",
+			"vous": "aviez groupé",
+			"ils/elles": "avaient groupé"
+		},
+		"passé antérieur": {
+			"j'": "eus groupé",
+			"tu": "eus groupé",
+			"il/elle": "eut groupé",
+			"nous": "eûmes groupé",
+			"vous": "eûtes groupé",
+			"ils/elles": "eurent groupé"
+		},
+		"futur antérieur": {
+			"j'": "aurai groupé",
+			"tu": "auras groupé",
+			"il/elle": "aura groupé",
+			"nous": "aurons groupé",
+			"vous": "aurez groupé",
+			"ils/elles": "auront groupé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous groupiez",
+			"qu'il/elle": "groupe",
+			"qu'ils/elles": "groupent"
+		},
+		"imparfait": {
+			"que": "vous groupassiez",
+			"qu'il/elle": "groupât",
+			"qu'ils/elles": "groupassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse groupé",
+			"que": "vous eussiez groupé",
+			"qu'il/elle": "eût groupé",
+			"qu'ils/elles": "eussent groupé"
+		},
+		"passé": {
+			"j'": "aie groupé",
+			"que": "vous ayez groupé",
+			"qu'il/elle": "ait groupé",
+			"qu'ils/elles": "aient groupé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "grouperais",
+			"tu": "grouperais",
+			"il/elle": "grouperait",
+			"nous": "grouperions",
+			"vous": "grouperiez",
+			"ils/elles": "grouperaient"
+		},
+		"passé première forme": {
+			"j'": "aurais groupé",
+			"tu": "aurais groupé",
+			"il/elle": "aurait groupé",
+			"nous": "aurions groupé",
+			"vous": "auriez groupé",
+			"ils/elles": "auraient groupé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse groupé",
+			"tu": "eusses groupé",
+			"il/elle": "eût groupé",
+			"nous": "eussions groupé",
+			"vous": "eussiez groupé",
+			"ils/elles": "eussent groupé"
+		}
+	},
+	"participe": {
+		"présent": { "groupant": "" },
+		"passé composé": { "ayant": "groupé" },
+		"passé": {
+			"masc.sg.:": "groupé",
+			"masc.pl.:": "groupés",
+			"fém.sg.:": "groupée",
+			"fém.pl.:": "groupées"
+		}
+	},
+	"imperatif": {
+		"présent": { "groupe": "", "groupons": "", "groupez": "" },
+		"passé": { "aie": "groupé", "ayons": "groupé", "ayez": "groupé" }
+	},
+	"infinitif": { "présent": { "grouper": "" }, "passé": { "avoir": "groupé" } }
+}

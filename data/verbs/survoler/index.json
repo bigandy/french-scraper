@@ -1,0 +1,141 @@
+{
+	"name": "survoler",
+	"definition": "fly over; overfly; fly; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se survoler/ne pas survoler/ne pas se survoler",
+	"indicatif": {
+		"présent": {
+			"je": "survole",
+			"tu": "survoles",
+			"il/elle": "survole",
+			"nous": "survolons",
+			"vous": "survolez",
+			"ils/elles": "survolent"
+		},
+		"imparfait": {
+			"je": "survolais",
+			"tu": "survolais",
+			"il/elle": "survolait",
+			"nous": "survolions",
+			"vous": "survoliez",
+			"ils/elles": "survolaient"
+		},
+		"futur": {
+			"je": "survolerai",
+			"tu": "survoleras",
+			"il/elle": "survolera",
+			"nous": "survolerons",
+			"vous": "survolerez",
+			"ils/elles": "survoleront"
+		},
+		"passé simple": {
+			"je": "survolai",
+			"tu": "survolas",
+			"il/elle": "survola",
+			"nous": "survolâmes",
+			"vous": "survolâtes",
+			"ils/elles": "survolèrent"
+		},
+		"passé composé": {
+			"j'": "ai survolé",
+			"tu": "as survolé",
+			"il/elle": "a survolé",
+			"nous": "avons survolé",
+			"vous": "avez survolé",
+			"ils/elles": "ont survolé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais survolé",
+			"tu": "avais survolé",
+			"il/elle": "avait survolé",
+			"nous": "avions survolé",
+			"vous": "aviez survolé",
+			"ils/elles": "avaient survolé"
+		},
+		"passé antérieur": {
+			"j'": "eus survolé",
+			"tu": "eus survolé",
+			"il/elle": "eut survolé",
+			"nous": "eûmes survolé",
+			"vous": "eûtes survolé",
+			"ils/elles": "eurent survolé"
+		},
+		"futur antérieur": {
+			"j'": "aurai survolé",
+			"tu": "auras survolé",
+			"il/elle": "aura survolé",
+			"nous": "aurons survolé",
+			"vous": "aurez survolé",
+			"ils/elles": "auront survolé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous survoliez",
+			"qu'il/elle": "survole",
+			"qu'ils/elles": "survolent"
+		},
+		"imparfait": {
+			"que": "vous survolassiez",
+			"qu'il/elle": "survolât",
+			"qu'ils/elles": "survolassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse survolé",
+			"que": "vous eussiez survolé",
+			"qu'il/elle": "eût survolé",
+			"qu'ils/elles": "eussent survolé"
+		},
+		"passé": {
+			"j'": "aie survolé",
+			"que": "vous ayez survolé",
+			"qu'il/elle": "ait survolé",
+			"qu'ils/elles": "aient survolé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "survolerais",
+			"tu": "survolerais",
+			"il/elle": "survolerait",
+			"nous": "survolerions",
+			"vous": "survoleriez",
+			"ils/elles": "survoleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais survolé",
+			"tu": "aurais survolé",
+			"il/elle": "aurait survolé",
+			"nous": "aurions survolé",
+			"vous": "auriez survolé",
+			"ils/elles": "auraient survolé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse survolé",
+			"tu": "eusses survolé",
+			"il/elle": "eût survolé",
+			"nous": "eussions survolé",
+			"vous": "eussiez survolé",
+			"ils/elles": "eussent survolé"
+		}
+	},
+	"participe": {
+		"présent": { "survolant": "" },
+		"passé composé": { "ayant": "survolé" },
+		"passé": {
+			"masc.sg.:": "survolé",
+			"masc.pl.:": "survolés",
+			"fém.sg.:": "survolée",
+			"fém.pl.:": "survolées"
+		}
+	},
+	"imperatif": {
+		"présent": { "survole": "", "survolons": "", "survolez": "" },
+		"passé": { "aie": "survolé", "ayons": "survolé", "ayez": "survolé" }
+	},
+	"infinitif": {
+		"présent": { "survoler": "" },
+		"passé": { "avoir": "survolé" }
+	}
+}

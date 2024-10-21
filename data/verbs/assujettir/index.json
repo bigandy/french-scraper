@@ -1,0 +1,143 @@
+{
+	"name": "assujettir",
+	"definition": "secure; subject; subjugate; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "s'assujettir/ne pas assujettir/ne pas s'assujettir",
+	"indicatif": {
+		"présent": {
+			"j'": "assujettis",
+			"tu": "assujettis",
+			"il/elle": "assujettit",
+			"nous": "assujettissons",
+			"vous": "assujettissez",
+			"ils/elles": "assujettissent"
+		},
+		"imparfait": {
+			"j'": "assujettissais",
+			"tu": "assujettissais",
+			"il/elle": "assujettissait",
+			"nous": "assujettissions",
+			"vous": "assujettissiez",
+			"ils/elles": "assujettissaient"
+		},
+		"futur": {
+			"j'": "assujettirai",
+			"tu": "assujettiras",
+			"il/elle": "assujettira",
+			"nous": "assujettirons",
+			"vous": "assujettirez",
+			"ils/elles": "assujettiront"
+		},
+		"passé simple": {
+			"j'": "assujettis",
+			"tu": "assujettis",
+			"il/elle": "assujettit",
+			"nous": "assujettîmes",
+			"vous": "assujettîtes",
+			"ils/elles": "assujettirent"
+		},
+		"passé composé": {
+			"j'": "ai assujetti",
+			"tu": "as assujetti",
+			"il/elle": "a assujetti",
+			"nous": "avons assujetti",
+			"vous": "avez assujetti",
+			"ils/elles": "ont assujetti"
+		},
+		"plus-que-parfait": {
+			"j'": "avais assujetti",
+			"tu": "avais assujetti",
+			"il/elle": "avait assujetti",
+			"nous": "avions assujetti",
+			"vous": "aviez assujetti",
+			"ils/elles": "avaient assujetti"
+		},
+		"passé antérieur": {
+			"j'": "eus assujetti",
+			"tu": "eus assujetti",
+			"il/elle": "eut assujetti",
+			"nous": "eûmes assujetti",
+			"vous": "eûtes assujetti",
+			"ils/elles": "eurent assujetti"
+		},
+		"futur antérieur": {
+			"j'": "aurai assujetti",
+			"tu": "auras assujetti",
+			"il/elle": "aura assujetti",
+			"nous": "aurons assujetti",
+			"vous": "aurez assujetti",
+			"ils/elles": "auront assujetti"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "assujettisse",
+			"que": "vous assujettissiez",
+			"qu'il/elle": "assujettisse",
+			"qu'ils/elles": "assujettissent"
+		},
+		"imparfait": {
+			"j'": "assujettisse",
+			"que": "vous assujettissiez",
+			"qu'il/elle": "assujettît",
+			"qu'ils/elles": "assujettissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse assujetti",
+			"que": "vous eussiez assujetti",
+			"qu'il/elle": "eût assujetti",
+			"qu'ils/elles": "eussent assujetti"
+		},
+		"passé": {
+			"j'": "aie assujetti",
+			"que": "vous ayez assujetti",
+			"qu'il/elle": "ait assujetti",
+			"qu'ils/elles": "aient assujetti"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "assujettirais",
+			"tu": "assujettirais",
+			"il/elle": "assujettirait",
+			"nous": "assujettirions",
+			"vous": "assujettiriez",
+			"ils/elles": "assujettiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais assujetti",
+			"tu": "aurais assujetti",
+			"il/elle": "aurait assujetti",
+			"nous": "aurions assujetti",
+			"vous": "auriez assujetti",
+			"ils/elles": "auraient assujetti"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse assujetti",
+			"tu": "eusses assujetti",
+			"il/elle": "eût assujetti",
+			"nous": "eussions assujetti",
+			"vous": "eussiez assujetti",
+			"ils/elles": "eussent assujetti"
+		}
+	},
+	"participe": {
+		"présent": { "assujettissant": "" },
+		"passé composé": { "ayant": "assujetti" },
+		"passé": {
+			"masc.sg.:": "assujetti",
+			"masc.pl.:": "assujettis",
+			"fém.sg.:": "assujettie",
+			"fém.pl.:": "assujetties"
+		}
+	},
+	"imperatif": {
+		"présent": { "assujettis": "", "assujettissons": "", "assujettissez": "" },
+		"passé": { "aie": "assujetti", "ayons": "assujetti", "ayez": "assujetti" }
+	},
+	"infinitif": {
+		"présent": { "assujettir": "" },
+		"passé": { "avoir": "assujetti" }
+	}
+}

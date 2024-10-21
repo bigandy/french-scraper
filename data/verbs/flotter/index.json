@@ -1,0 +1,138 @@
+{
+	"name": "flotter",
+	"definition": "float; fly; hover; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas flotter",
+	"indicatif": {
+		"présent": {
+			"je": "flotte",
+			"tu": "flottes",
+			"il/elle": "flotte",
+			"nous": "flottons",
+			"vous": "flottez",
+			"ils/elles": "flottent"
+		},
+		"imparfait": {
+			"je": "flottais",
+			"tu": "flottais",
+			"il/elle": "flottait",
+			"nous": "flottions",
+			"vous": "flottiez",
+			"ils/elles": "flottaient"
+		},
+		"futur": {
+			"je": "flotterai",
+			"tu": "flotteras",
+			"il/elle": "flottera",
+			"nous": "flotterons",
+			"vous": "flotterez",
+			"ils/elles": "flotteront"
+		},
+		"passé simple": {
+			"je": "flottai",
+			"tu": "flottas",
+			"il/elle": "flotta",
+			"nous": "flottâmes",
+			"vous": "flottâtes",
+			"ils/elles": "flottèrent"
+		},
+		"passé composé": {
+			"j'": "ai flotté",
+			"tu": "as flotté",
+			"il/elle": "a flotté",
+			"nous": "avons flotté",
+			"vous": "avez flotté",
+			"ils/elles": "ont flotté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais flotté",
+			"tu": "avais flotté",
+			"il/elle": "avait flotté",
+			"nous": "avions flotté",
+			"vous": "aviez flotté",
+			"ils/elles": "avaient flotté"
+		},
+		"passé antérieur": {
+			"j'": "eus flotté",
+			"tu": "eus flotté",
+			"il/elle": "eut flotté",
+			"nous": "eûmes flotté",
+			"vous": "eûtes flotté",
+			"ils/elles": "eurent flotté"
+		},
+		"futur antérieur": {
+			"j'": "aurai flotté",
+			"tu": "auras flotté",
+			"il/elle": "aura flotté",
+			"nous": "aurons flotté",
+			"vous": "aurez flotté",
+			"ils/elles": "auront flotté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous flottiez",
+			"qu'il/elle": "flotte",
+			"qu'ils/elles": "flottent"
+		},
+		"imparfait": {
+			"que": "vous flottassiez",
+			"qu'il/elle": "flottât",
+			"qu'ils/elles": "flottassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse flotté",
+			"que": "vous eussiez flotté",
+			"qu'il/elle": "eût flotté",
+			"qu'ils/elles": "eussent flotté"
+		},
+		"passé": {
+			"j'": "aie flotté",
+			"que": "vous ayez flotté",
+			"qu'il/elle": "ait flotté",
+			"qu'ils/elles": "aient flotté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "flotterais",
+			"tu": "flotterais",
+			"il/elle": "flotterait",
+			"nous": "flotterions",
+			"vous": "flotteriez",
+			"ils/elles": "flotteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais flotté",
+			"tu": "aurais flotté",
+			"il/elle": "aurait flotté",
+			"nous": "aurions flotté",
+			"vous": "auriez flotté",
+			"ils/elles": "auraient flotté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse flotté",
+			"tu": "eusses flotté",
+			"il/elle": "eût flotté",
+			"nous": "eussions flotté",
+			"vous": "eussiez flotté",
+			"ils/elles": "eussent flotté"
+		}
+	},
+	"participe": {
+		"présent": { "flottant": "" },
+		"passé composé": { "ayant": "flotté" },
+		"passé": {
+			"masc.sg.:": "flotté",
+			"masc.pl.:": "flottés",
+			"fém.sg.:": "flottée",
+			"fém.pl.:": "flottées"
+		}
+	},
+	"imperatif": {
+		"présent": { "flotte": "", "flottons": "", "flottez": "" },
+		"passé": { "aie": "flotté", "ayons": "flotté", "ayez": "flotté" }
+	},
+	"infinitif": { "présent": { "flotter": "" }, "passé": { "avoir": "flotté" } }
+}

@@ -1,0 +1,141 @@
+{
+	"name": "certifier",
+	"definition": "certify; assure; attest; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se certifier/ne pas certifier/ne pas se certifier",
+	"indicatif": {
+		"présent": {
+			"je": "certifie",
+			"tu": "certifies",
+			"il/elle": "certifie",
+			"nous": "certifions",
+			"vous": "certifiez",
+			"ils/elles": "certifient"
+		},
+		"imparfait": {
+			"je": "certifiais",
+			"tu": "certifiais",
+			"il/elle": "certifiait",
+			"nous": "certifiions",
+			"vous": "certifiiez",
+			"ils/elles": "certifiaient"
+		},
+		"futur": {
+			"je": "certifierai",
+			"tu": "certifieras",
+			"il/elle": "certifiera",
+			"nous": "certifierons",
+			"vous": "certifierez",
+			"ils/elles": "certifieront"
+		},
+		"passé simple": {
+			"je": "certifiai",
+			"tu": "certifias",
+			"il/elle": "certifia",
+			"nous": "certifiâmes",
+			"vous": "certifiâtes",
+			"ils/elles": "certifièrent"
+		},
+		"passé composé": {
+			"j'": "ai certifié",
+			"tu": "as certifié",
+			"il/elle": "a certifié",
+			"nous": "avons certifié",
+			"vous": "avez certifié",
+			"ils/elles": "ont certifié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais certifié",
+			"tu": "avais certifié",
+			"il/elle": "avait certifié",
+			"nous": "avions certifié",
+			"vous": "aviez certifié",
+			"ils/elles": "avaient certifié"
+		},
+		"passé antérieur": {
+			"j'": "eus certifié",
+			"tu": "eus certifié",
+			"il/elle": "eut certifié",
+			"nous": "eûmes certifié",
+			"vous": "eûtes certifié",
+			"ils/elles": "eurent certifié"
+		},
+		"futur antérieur": {
+			"j'": "aurai certifié",
+			"tu": "auras certifié",
+			"il/elle": "aura certifié",
+			"nous": "aurons certifié",
+			"vous": "aurez certifié",
+			"ils/elles": "auront certifié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous certifiiez",
+			"qu'il/elle": "certifie",
+			"qu'ils/elles": "certifient"
+		},
+		"imparfait": {
+			"que": "vous certifiassiez",
+			"qu'il/elle": "certifiât",
+			"qu'ils/elles": "certifiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse certifié",
+			"que": "vous eussiez certifié",
+			"qu'il/elle": "eût certifié",
+			"qu'ils/elles": "eussent certifié"
+		},
+		"passé": {
+			"j'": "aie certifié",
+			"que": "vous ayez certifié",
+			"qu'il/elle": "ait certifié",
+			"qu'ils/elles": "aient certifié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "certifierais",
+			"tu": "certifierais",
+			"il/elle": "certifierait",
+			"nous": "certifierions",
+			"vous": "certifieriez",
+			"ils/elles": "certifieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais certifié",
+			"tu": "aurais certifié",
+			"il/elle": "aurait certifié",
+			"nous": "aurions certifié",
+			"vous": "auriez certifié",
+			"ils/elles": "auraient certifié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse certifié",
+			"tu": "eusses certifié",
+			"il/elle": "eût certifié",
+			"nous": "eussions certifié",
+			"vous": "eussiez certifié",
+			"ils/elles": "eussent certifié"
+		}
+	},
+	"participe": {
+		"présent": { "certifiant": "" },
+		"passé composé": { "ayant": "certifié" },
+		"passé": {
+			"masc.sg.:": "certifié",
+			"masc.pl.:": "certifiés",
+			"fém.sg.:": "certifiée",
+			"fém.pl.:": "certifiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "certifie": "", "certifions": "", "certifiez": "" },
+		"passé": { "aie": "certifié", "ayons": "certifié", "ayez": "certifié" }
+	},
+	"infinitif": {
+		"présent": { "certifier": "" },
+		"passé": { "avoir": "certifié" }
+	}
+}

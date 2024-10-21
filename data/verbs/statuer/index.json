@@ -1,0 +1,138 @@
+{
+	"name": "statuer",
+	"definition": "decide; rule; adjudicate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se statuer/ne pas statuer/ne pas se statuer",
+	"indicatif": {
+		"présent": {
+			"je": "statue",
+			"tu": "statues",
+			"il/elle": "statue",
+			"nous": "statuons",
+			"vous": "statuez",
+			"ils/elles": "statuent"
+		},
+		"imparfait": {
+			"je": "statuais",
+			"tu": "statuais",
+			"il/elle": "statuait",
+			"nous": "statuions",
+			"vous": "statuiez",
+			"ils/elles": "statuaient"
+		},
+		"futur": {
+			"je": "statuerai",
+			"tu": "statueras",
+			"il/elle": "statuera",
+			"nous": "statuerons",
+			"vous": "statuerez",
+			"ils/elles": "statueront"
+		},
+		"passé simple": {
+			"je": "statuai",
+			"tu": "statuas",
+			"il/elle": "statua",
+			"nous": "statuâmes",
+			"vous": "statuâtes",
+			"ils/elles": "statuèrent"
+		},
+		"passé composé": {
+			"j'": "ai statué",
+			"tu": "as statué",
+			"il/elle": "a statué",
+			"nous": "avons statué",
+			"vous": "avez statué",
+			"ils/elles": "ont statué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais statué",
+			"tu": "avais statué",
+			"il/elle": "avait statué",
+			"nous": "avions statué",
+			"vous": "aviez statué",
+			"ils/elles": "avaient statué"
+		},
+		"passé antérieur": {
+			"j'": "eus statué",
+			"tu": "eus statué",
+			"il/elle": "eut statué",
+			"nous": "eûmes statué",
+			"vous": "eûtes statué",
+			"ils/elles": "eurent statué"
+		},
+		"futur antérieur": {
+			"j'": "aurai statué",
+			"tu": "auras statué",
+			"il/elle": "aura statué",
+			"nous": "aurons statué",
+			"vous": "aurez statué",
+			"ils/elles": "auront statué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous statuiez",
+			"qu'il/elle": "statue",
+			"qu'ils/elles": "statuent"
+		},
+		"imparfait": {
+			"que": "vous statuassiez",
+			"qu'il/elle": "statuât",
+			"qu'ils/elles": "statuassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse statué",
+			"que": "vous eussiez statué",
+			"qu'il/elle": "eût statué",
+			"qu'ils/elles": "eussent statué"
+		},
+		"passé": {
+			"j'": "aie statué",
+			"que": "vous ayez statué",
+			"qu'il/elle": "ait statué",
+			"qu'ils/elles": "aient statué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "statuerais",
+			"tu": "statuerais",
+			"il/elle": "statuerait",
+			"nous": "statuerions",
+			"vous": "statueriez",
+			"ils/elles": "statueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais statué",
+			"tu": "aurais statué",
+			"il/elle": "aurait statué",
+			"nous": "aurions statué",
+			"vous": "auriez statué",
+			"ils/elles": "auraient statué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse statué",
+			"tu": "eusses statué",
+			"il/elle": "eût statué",
+			"nous": "eussions statué",
+			"vous": "eussiez statué",
+			"ils/elles": "eussent statué"
+		}
+	},
+	"participe": {
+		"présent": { "statuant": "" },
+		"passé composé": { "ayant": "statué" },
+		"passé": {
+			"masc.sg.:": "statué",
+			"masc.pl.:": "statués",
+			"fém.sg.:": "statuée",
+			"fém.pl.:": "statuées"
+		}
+	},
+	"imperatif": {
+		"présent": { "statue": "", "statuons": "", "statuez": "" },
+		"passé": { "aie": "statué", "ayons": "statué", "ayez": "statué" }
+	},
+	"infinitif": { "présent": { "statuer": "" }, "passé": { "avoir": "statué" } }
+}

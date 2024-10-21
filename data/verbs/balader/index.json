@@ -1,0 +1,138 @@
+{
+	"name": "balader",
+	"definition": "walk around; stroll; wander; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se balader/ne pas balader/ne pas se balader",
+	"indicatif": {
+		"présent": {
+			"je": "balade",
+			"tu": "balades",
+			"il/elle": "balade",
+			"nous": "baladons",
+			"vous": "baladez",
+			"ils/elles": "baladent"
+		},
+		"imparfait": {
+			"je": "baladais",
+			"tu": "baladais",
+			"il/elle": "baladait",
+			"nous": "baladions",
+			"vous": "baladiez",
+			"ils/elles": "baladaient"
+		},
+		"futur": {
+			"je": "baladerai",
+			"tu": "baladeras",
+			"il/elle": "baladera",
+			"nous": "baladerons",
+			"vous": "baladerez",
+			"ils/elles": "baladeront"
+		},
+		"passé simple": {
+			"je": "baladai",
+			"tu": "baladas",
+			"il/elle": "balada",
+			"nous": "baladâmes",
+			"vous": "baladâtes",
+			"ils/elles": "baladèrent"
+		},
+		"passé composé": {
+			"j'": "ai baladé",
+			"tu": "as baladé",
+			"il/elle": "a baladé",
+			"nous": "avons baladé",
+			"vous": "avez baladé",
+			"ils/elles": "ont baladé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais baladé",
+			"tu": "avais baladé",
+			"il/elle": "avait baladé",
+			"nous": "avions baladé",
+			"vous": "aviez baladé",
+			"ils/elles": "avaient baladé"
+		},
+		"passé antérieur": {
+			"j'": "eus baladé",
+			"tu": "eus baladé",
+			"il/elle": "eut baladé",
+			"nous": "eûmes baladé",
+			"vous": "eûtes baladé",
+			"ils/elles": "eurent baladé"
+		},
+		"futur antérieur": {
+			"j'": "aurai baladé",
+			"tu": "auras baladé",
+			"il/elle": "aura baladé",
+			"nous": "aurons baladé",
+			"vous": "aurez baladé",
+			"ils/elles": "auront baladé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous baladiez",
+			"qu'il/elle": "balade",
+			"qu'ils/elles": "baladent"
+		},
+		"imparfait": {
+			"que": "vous baladassiez",
+			"qu'il/elle": "baladât",
+			"qu'ils/elles": "baladassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse baladé",
+			"que": "vous eussiez baladé",
+			"qu'il/elle": "eût baladé",
+			"qu'ils/elles": "eussent baladé"
+		},
+		"passé": {
+			"j'": "aie baladé",
+			"que": "vous ayez baladé",
+			"qu'il/elle": "ait baladé",
+			"qu'ils/elles": "aient baladé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "baladerais",
+			"tu": "baladerais",
+			"il/elle": "baladerait",
+			"nous": "baladerions",
+			"vous": "baladeriez",
+			"ils/elles": "baladeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais baladé",
+			"tu": "aurais baladé",
+			"il/elle": "aurait baladé",
+			"nous": "aurions baladé",
+			"vous": "auriez baladé",
+			"ils/elles": "auraient baladé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse baladé",
+			"tu": "eusses baladé",
+			"il/elle": "eût baladé",
+			"nous": "eussions baladé",
+			"vous": "eussiez baladé",
+			"ils/elles": "eussent baladé"
+		}
+	},
+	"participe": {
+		"présent": { "baladant": "" },
+		"passé composé": { "ayant": "baladé" },
+		"passé": {
+			"masc.sg.:": "baladé",
+			"masc.pl.:": "baladés",
+			"fém.sg.:": "baladée",
+			"fém.pl.:": "baladées"
+		}
+	},
+	"imperatif": {
+		"présent": { "balade": "", "baladons": "", "baladez": "" },
+		"passé": { "aie": "baladé", "ayons": "baladé", "ayez": "baladé" }
+	},
+	"infinitif": { "présent": { "balader": "" }, "passé": { "avoir": "baladé" } }
+}

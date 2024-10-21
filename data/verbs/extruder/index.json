@@ -1,0 +1,143 @@
+{
+	"name": "extruder",
+	"definition": "extrude; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'extruder/ne pas extruder/ne pas s'extruder",
+	"indicatif": {
+		"présent": {
+			"j'": "extrude",
+			"tu": "extrudes",
+			"il/elle": "extrude",
+			"nous": "extrudons",
+			"vous": "extrudez",
+			"ils/elles": "extrudent"
+		},
+		"imparfait": {
+			"j'": "extrudais",
+			"tu": "extrudais",
+			"il/elle": "extrudait",
+			"nous": "extrudions",
+			"vous": "extrudiez",
+			"ils/elles": "extrudaient"
+		},
+		"futur": {
+			"j'": "extruderai",
+			"tu": "extruderas",
+			"il/elle": "extrudera",
+			"nous": "extruderons",
+			"vous": "extruderez",
+			"ils/elles": "extruderont"
+		},
+		"passé simple": {
+			"j'": "extrudai",
+			"tu": "extrudas",
+			"il/elle": "extruda",
+			"nous": "extrudâmes",
+			"vous": "extrudâtes",
+			"ils/elles": "extrudèrent"
+		},
+		"passé composé": {
+			"j'": "ai extrudé",
+			"tu": "as extrudé",
+			"il/elle": "a extrudé",
+			"nous": "avons extrudé",
+			"vous": "avez extrudé",
+			"ils/elles": "ont extrudé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais extrudé",
+			"tu": "avais extrudé",
+			"il/elle": "avait extrudé",
+			"nous": "avions extrudé",
+			"vous": "aviez extrudé",
+			"ils/elles": "avaient extrudé"
+		},
+		"passé antérieur": {
+			"j'": "eus extrudé",
+			"tu": "eus extrudé",
+			"il/elle": "eut extrudé",
+			"nous": "eûmes extrudé",
+			"vous": "eûtes extrudé",
+			"ils/elles": "eurent extrudé"
+		},
+		"futur antérieur": {
+			"j'": "aurai extrudé",
+			"tu": "auras extrudé",
+			"il/elle": "aura extrudé",
+			"nous": "aurons extrudé",
+			"vous": "aurez extrudé",
+			"ils/elles": "auront extrudé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "extrude",
+			"que": "vous extrudiez",
+			"qu'il/elle": "extrude",
+			"qu'ils/elles": "extrudent"
+		},
+		"imparfait": {
+			"j'": "extrudasse",
+			"que": "vous extrudassiez",
+			"qu'il/elle": "extrudât",
+			"qu'ils/elles": "extrudassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse extrudé",
+			"que": "vous eussiez extrudé",
+			"qu'il/elle": "eût extrudé",
+			"qu'ils/elles": "eussent extrudé"
+		},
+		"passé": {
+			"j'": "aie extrudé",
+			"que": "vous ayez extrudé",
+			"qu'il/elle": "ait extrudé",
+			"qu'ils/elles": "aient extrudé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "extruderais",
+			"tu": "extruderais",
+			"il/elle": "extruderait",
+			"nous": "extruderions",
+			"vous": "extruderiez",
+			"ils/elles": "extruderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais extrudé",
+			"tu": "aurais extrudé",
+			"il/elle": "aurait extrudé",
+			"nous": "aurions extrudé",
+			"vous": "auriez extrudé",
+			"ils/elles": "auraient extrudé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse extrudé",
+			"tu": "eusses extrudé",
+			"il/elle": "eût extrudé",
+			"nous": "eussions extrudé",
+			"vous": "eussiez extrudé",
+			"ils/elles": "eussent extrudé"
+		}
+	},
+	"participe": {
+		"présent": { "extrudant": "" },
+		"passé composé": { "ayant": "extrudé" },
+		"passé": {
+			"masc.sg.:": "extrudé",
+			"masc.pl.:": "extrudés",
+			"fém.sg.:": "extrudée",
+			"fém.pl.:": "extrudées"
+		}
+	},
+	"imperatif": {
+		"présent": { "extrude": "", "extrudons": "", "extrudez": "" },
+		"passé": { "aie": "extrudé", "ayons": "extrudé", "ayez": "extrudé" }
+	},
+	"infinitif": {
+		"présent": { "extruder": "" },
+		"passé": { "avoir": "extrudé" }
+	}
+}

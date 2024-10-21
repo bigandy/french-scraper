@@ -1,0 +1,151 @@
+{
+	"name": "réessayer",
+	"definition": "try again; retry; ...",
+	"model": "marcher\n              /\n              balayer",
+	"auxiliary": "avoir",
+	"otherForms": "se réessayer/ne pas réessayer/ne pas se réessayer",
+	"indicatif": {
+		"présent": {
+			"je": "réessaie",
+			"tu": "réessaies",
+			"il/elle": "réessaie",
+			"nous": "réessayons",
+			"vous": "réessayez",
+			"ils/elles": "réessaient",
+			"": ""
+		},
+		"imparfait": {
+			"je": "réessayais",
+			"tu": "réessayais",
+			"il/elle": "réessayait",
+			"nous": "réessayions",
+			"vous": "réessayiez",
+			"ils/elles": "réessayaient"
+		},
+		"futur": {
+			"je": "réessaierai",
+			"tu": "réessaieras",
+			"il/elle": "réessaiera",
+			"nous": "réessaierons",
+			"vous": "réessaierez",
+			"ils/elles": "réessaieront",
+			"": ""
+		},
+		"passé simple": {
+			"je": "réessayai",
+			"tu": "réessayas",
+			"il/elle": "réessaya",
+			"nous": "réessayâmes",
+			"vous": "réessayâtes",
+			"ils/elles": "réessayèrent"
+		},
+		"passé composé": {
+			"j'": "ai réessayé",
+			"tu": "as réessayé",
+			"il/elle": "a réessayé",
+			"nous": "avons réessayé",
+			"vous": "avez réessayé",
+			"ils/elles": "ont réessayé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais réessayé",
+			"tu": "avais réessayé",
+			"il/elle": "avait réessayé",
+			"nous": "avions réessayé",
+			"vous": "aviez réessayé",
+			"ils/elles": "avaient réessayé"
+		},
+		"passé antérieur": {
+			"j'": "eus réessayé",
+			"tu": "eus réessayé",
+			"il/elle": "eut réessayé",
+			"nous": "eûmes réessayé",
+			"vous": "eûtes réessayé",
+			"ils/elles": "eurent réessayé"
+		},
+		"futur antérieur": {
+			"j'": "aurai réessayé",
+			"tu": "auras réessayé",
+			"il/elle": "aura réessayé",
+			"nous": "aurons réessayé",
+			"vous": "aurez réessayé",
+			"ils/elles": "auront réessayé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous réessayiez",
+			"qu'il/elle": "réessaie",
+			"qu'ils/elles": "réessaient",
+			"": ""
+		},
+		"imparfait": {
+			"que": "vous réessayassiez",
+			"qu'il/elle": "réessayât",
+			"qu'ils/elles": "réessayassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse réessayé",
+			"que": "vous eussiez réessayé",
+			"qu'il/elle": "eût réessayé",
+			"qu'ils/elles": "eussent réessayé"
+		},
+		"passé": {
+			"j'": "aie réessayé",
+			"que": "vous ayez réessayé",
+			"qu'il/elle": "ait réessayé",
+			"qu'ils/elles": "aient réessayé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "réessaierais",
+			"tu": "réessaierais",
+			"il/elle": "réessaierait",
+			"nous": "réessaierions",
+			"vous": "réessaieriez",
+			"ils/elles": "réessaieraient",
+			"": ""
+		},
+		"passé première forme": {
+			"j'": "aurais réessayé",
+			"tu": "aurais réessayé",
+			"il/elle": "aurait réessayé",
+			"nous": "aurions réessayé",
+			"vous": "auriez réessayé",
+			"ils/elles": "auraient réessayé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse réessayé",
+			"tu": "eusses réessayé",
+			"il/elle": "eût réessayé",
+			"nous": "eussions réessayé",
+			"vous": "eussiez réessayé",
+			"ils/elles": "eussent réessayé"
+		}
+	},
+	"participe": {
+		"présent": { "réessayant": "" },
+		"passé composé": { "ayant": "réessayé" },
+		"passé": {
+			"masc.sg.:": "réessayé",
+			"masc.pl.:": "réessayés",
+			"fém.sg.:": "réessayée",
+			"fém.pl.:": "réessayées"
+		}
+	},
+	"imperatif": {
+		"présent": {
+			"réessaye": "",
+			"réessayons": "",
+			"réessayez": "",
+			"": "",
+			"réessaie": ""
+		},
+		"passé": { "aie": "réessayé", "ayons": "réessayé", "ayez": "réessayé" }
+	},
+	"infinitif": {
+		"présent": { "réessayer": "" },
+		"passé": { "avoir": "réessayé" }
+	}
+}

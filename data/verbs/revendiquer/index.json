@@ -1,0 +1,145 @@
+{
+	"name": "revendiquer",
+	"definition": "claim; demand; assert; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se revendiquer/ne pas revendiquer/ne pas se revendiquer",
+	"indicatif": {
+		"présent": {
+			"je": "revendique",
+			"tu": "revendiques",
+			"il/elle": "revendique",
+			"nous": "revendiquons",
+			"vous": "revendiquez",
+			"ils/elles": "revendiquent"
+		},
+		"imparfait": {
+			"je": "revendiquais",
+			"tu": "revendiquais",
+			"il/elle": "revendiquait",
+			"nous": "revendiquions",
+			"vous": "revendiquiez",
+			"ils/elles": "revendiquaient"
+		},
+		"futur": {
+			"je": "revendiquerai",
+			"tu": "revendiqueras",
+			"il/elle": "revendiquera",
+			"nous": "revendiquerons",
+			"vous": "revendiquerez",
+			"ils/elles": "revendiqueront"
+		},
+		"passé simple": {
+			"je": "revendiquai",
+			"tu": "revendiquas",
+			"il/elle": "revendiqua",
+			"nous": "revendiquâmes",
+			"vous": "revendiquâtes",
+			"ils/elles": "revendiquèrent"
+		},
+		"passé composé": {
+			"j'": "ai revendiqué",
+			"tu": "as revendiqué",
+			"il/elle": "a revendiqué",
+			"nous": "avons revendiqué",
+			"vous": "avez revendiqué",
+			"ils/elles": "ont revendiqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais revendiqué",
+			"tu": "avais revendiqué",
+			"il/elle": "avait revendiqué",
+			"nous": "avions revendiqué",
+			"vous": "aviez revendiqué",
+			"ils/elles": "avaient revendiqué"
+		},
+		"passé antérieur": {
+			"j'": "eus revendiqué",
+			"tu": "eus revendiqué",
+			"il/elle": "eut revendiqué",
+			"nous": "eûmes revendiqué",
+			"vous": "eûtes revendiqué",
+			"ils/elles": "eurent revendiqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai revendiqué",
+			"tu": "auras revendiqué",
+			"il/elle": "aura revendiqué",
+			"nous": "aurons revendiqué",
+			"vous": "aurez revendiqué",
+			"ils/elles": "auront revendiqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous revendiquiez",
+			"qu'il/elle": "revendique",
+			"qu'ils/elles": "revendiquent"
+		},
+		"imparfait": {
+			"que": "vous revendiquassiez",
+			"qu'il/elle": "revendiquât",
+			"qu'ils/elles": "revendiquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse revendiqué",
+			"que": "vous eussiez revendiqué",
+			"qu'il/elle": "eût revendiqué",
+			"qu'ils/elles": "eussent revendiqué"
+		},
+		"passé": {
+			"j'": "aie revendiqué",
+			"que": "vous ayez revendiqué",
+			"qu'il/elle": "ait revendiqué",
+			"qu'ils/elles": "aient revendiqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "revendiquerais",
+			"tu": "revendiquerais",
+			"il/elle": "revendiquerait",
+			"nous": "revendiquerions",
+			"vous": "revendiqueriez",
+			"ils/elles": "revendiqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais revendiqué",
+			"tu": "aurais revendiqué",
+			"il/elle": "aurait revendiqué",
+			"nous": "aurions revendiqué",
+			"vous": "auriez revendiqué",
+			"ils/elles": "auraient revendiqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse revendiqué",
+			"tu": "eusses revendiqué",
+			"il/elle": "eût revendiqué",
+			"nous": "eussions revendiqué",
+			"vous": "eussiez revendiqué",
+			"ils/elles": "eussent revendiqué"
+		}
+	},
+	"participe": {
+		"présent": { "revendiquant": "" },
+		"passé composé": { "ayant": "revendiqué" },
+		"passé": {
+			"masc.sg.:": "revendiqué",
+			"masc.pl.:": "revendiqués",
+			"fém.sg.:": "revendiquée",
+			"fém.pl.:": "revendiquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "revendique": "", "revendiquons": "", "revendiquez": "" },
+		"passé": {
+			"aie": "revendiqué",
+			"ayons": "revendiqué",
+			"ayez": "revendiqué"
+		}
+	},
+	"infinitif": {
+		"présent": { "revendiquer": "" },
+		"passé": { "avoir": "revendiqué" }
+	}
+}

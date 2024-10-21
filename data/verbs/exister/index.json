@@ -1,0 +1,140 @@
+{
+	"name": "exister",
+	"definition": "exist; occur; remain in existence; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas exister",
+	"indicatif": {
+		"présent": {
+			"j'": "existe",
+			"tu": "existes",
+			"il/elle": "existe",
+			"nous": "existons",
+			"vous": "existez",
+			"ils/elles": "existent"
+		},
+		"imparfait": {
+			"j'": "existais",
+			"tu": "existais",
+			"il/elle": "existait",
+			"nous": "existions",
+			"vous": "existiez",
+			"ils/elles": "existaient"
+		},
+		"futur": {
+			"j'": "existerai",
+			"tu": "existeras",
+			"il/elle": "existera",
+			"nous": "existerons",
+			"vous": "existerez",
+			"ils/elles": "existeront"
+		},
+		"passé simple": {
+			"j'": "existai",
+			"tu": "existas",
+			"il/elle": "exista",
+			"nous": "existâmes",
+			"vous": "existâtes",
+			"ils/elles": "existèrent"
+		},
+		"passé composé": {
+			"j'": "ai existé",
+			"tu": "as existé",
+			"il/elle": "a existé",
+			"nous": "avons existé",
+			"vous": "avez existé",
+			"ils/elles": "ont existé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais existé",
+			"tu": "avais existé",
+			"il/elle": "avait existé",
+			"nous": "avions existé",
+			"vous": "aviez existé",
+			"ils/elles": "avaient existé"
+		},
+		"passé antérieur": {
+			"j'": "eus existé",
+			"tu": "eus existé",
+			"il/elle": "eut existé",
+			"nous": "eûmes existé",
+			"vous": "eûtes existé",
+			"ils/elles": "eurent existé"
+		},
+		"futur antérieur": {
+			"j'": "aurai existé",
+			"tu": "auras existé",
+			"il/elle": "aura existé",
+			"nous": "aurons existé",
+			"vous": "aurez existé",
+			"ils/elles": "auront existé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "existe",
+			"que": "vous existiez",
+			"qu'il/elle": "existe",
+			"qu'ils/elles": "existent"
+		},
+		"imparfait": {
+			"j'": "existasse",
+			"que": "vous existassiez",
+			"qu'il/elle": "existât",
+			"qu'ils/elles": "existassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse existé",
+			"que": "vous eussiez existé",
+			"qu'il/elle": "eût existé",
+			"qu'ils/elles": "eussent existé"
+		},
+		"passé": {
+			"j'": "aie existé",
+			"que": "vous ayez existé",
+			"qu'il/elle": "ait existé",
+			"qu'ils/elles": "aient existé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "existerais",
+			"tu": "existerais",
+			"il/elle": "existerait",
+			"nous": "existerions",
+			"vous": "existeriez",
+			"ils/elles": "existeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais existé",
+			"tu": "aurais existé",
+			"il/elle": "aurait existé",
+			"nous": "aurions existé",
+			"vous": "auriez existé",
+			"ils/elles": "auraient existé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse existé",
+			"tu": "eusses existé",
+			"il/elle": "eût existé",
+			"nous": "eussions existé",
+			"vous": "eussiez existé",
+			"ils/elles": "eussent existé"
+		}
+	},
+	"participe": {
+		"présent": { "existant": "" },
+		"passé composé": { "ayant": "existé" },
+		"passé": {
+			"masc.sg.:": "existé",
+			"masc.pl.:": "existés",
+			"fém.sg.:": "existée",
+			"fém.pl.:": "existées"
+		}
+	},
+	"imperatif": {
+		"présent": { "existe": "", "existons": "", "existez": "" },
+		"passé": { "aie": "existé", "ayons": "existé", "ayez": "existé" }
+	},
+	"infinitif": { "présent": { "exister": "" }, "passé": { "avoir": "existé" } }
+}

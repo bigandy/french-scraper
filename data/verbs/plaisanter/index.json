@@ -1,0 +1,141 @@
+{
+	"name": "plaisanter",
+	"definition": "joke; make jokes; jest; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se plaisanter/ne pas plaisanter/ne pas se plaisanter",
+	"indicatif": {
+		"présent": {
+			"je": "plaisante",
+			"tu": "plaisantes",
+			"il/elle": "plaisante",
+			"nous": "plaisantons",
+			"vous": "plaisantez",
+			"ils/elles": "plaisantent"
+		},
+		"imparfait": {
+			"je": "plaisantais",
+			"tu": "plaisantais",
+			"il/elle": "plaisantait",
+			"nous": "plaisantions",
+			"vous": "plaisantiez",
+			"ils/elles": "plaisantaient"
+		},
+		"futur": {
+			"je": "plaisanterai",
+			"tu": "plaisanteras",
+			"il/elle": "plaisantera",
+			"nous": "plaisanterons",
+			"vous": "plaisanterez",
+			"ils/elles": "plaisanteront"
+		},
+		"passé simple": {
+			"je": "plaisantai",
+			"tu": "plaisantas",
+			"il/elle": "plaisanta",
+			"nous": "plaisantâmes",
+			"vous": "plaisantâtes",
+			"ils/elles": "plaisantèrent"
+		},
+		"passé composé": {
+			"j'": "ai plaisanté",
+			"tu": "as plaisanté",
+			"il/elle": "a plaisanté",
+			"nous": "avons plaisanté",
+			"vous": "avez plaisanté",
+			"ils/elles": "ont plaisanté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais plaisanté",
+			"tu": "avais plaisanté",
+			"il/elle": "avait plaisanté",
+			"nous": "avions plaisanté",
+			"vous": "aviez plaisanté",
+			"ils/elles": "avaient plaisanté"
+		},
+		"passé antérieur": {
+			"j'": "eus plaisanté",
+			"tu": "eus plaisanté",
+			"il/elle": "eut plaisanté",
+			"nous": "eûmes plaisanté",
+			"vous": "eûtes plaisanté",
+			"ils/elles": "eurent plaisanté"
+		},
+		"futur antérieur": {
+			"j'": "aurai plaisanté",
+			"tu": "auras plaisanté",
+			"il/elle": "aura plaisanté",
+			"nous": "aurons plaisanté",
+			"vous": "aurez plaisanté",
+			"ils/elles": "auront plaisanté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous plaisantiez",
+			"qu'il/elle": "plaisante",
+			"qu'ils/elles": "plaisantent"
+		},
+		"imparfait": {
+			"que": "vous plaisantassiez",
+			"qu'il/elle": "plaisantât",
+			"qu'ils/elles": "plaisantassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse plaisanté",
+			"que": "vous eussiez plaisanté",
+			"qu'il/elle": "eût plaisanté",
+			"qu'ils/elles": "eussent plaisanté"
+		},
+		"passé": {
+			"j'": "aie plaisanté",
+			"que": "vous ayez plaisanté",
+			"qu'il/elle": "ait plaisanté",
+			"qu'ils/elles": "aient plaisanté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "plaisanterais",
+			"tu": "plaisanterais",
+			"il/elle": "plaisanterait",
+			"nous": "plaisanterions",
+			"vous": "plaisanteriez",
+			"ils/elles": "plaisanteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais plaisanté",
+			"tu": "aurais plaisanté",
+			"il/elle": "aurait plaisanté",
+			"nous": "aurions plaisanté",
+			"vous": "auriez plaisanté",
+			"ils/elles": "auraient plaisanté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse plaisanté",
+			"tu": "eusses plaisanté",
+			"il/elle": "eût plaisanté",
+			"nous": "eussions plaisanté",
+			"vous": "eussiez plaisanté",
+			"ils/elles": "eussent plaisanté"
+		}
+	},
+	"participe": {
+		"présent": { "plaisantant": "" },
+		"passé composé": { "ayant": "plaisanté" },
+		"passé": {
+			"masc.sg.:": "plaisanté",
+			"masc.pl.:": "plaisantés",
+			"fém.sg.:": "plaisantée",
+			"fém.pl.:": "plaisantées"
+		}
+	},
+	"imperatif": {
+		"présent": { "plaisante": "", "plaisantons": "", "plaisantez": "" },
+		"passé": { "aie": "plaisanté", "ayons": "plaisanté", "ayez": "plaisanté" }
+	},
+	"infinitif": {
+		"présent": { "plaisanter": "" },
+		"passé": { "avoir": "plaisanté" }
+	}
+}

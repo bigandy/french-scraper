@@ -1,0 +1,143 @@
+{
+	"name": "espionner",
+	"definition": "spy on; eavesdrop on; stalk; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'espionner/ne pas espionner/ne pas s'espionner",
+	"indicatif": {
+		"présent": {
+			"j'": "espionne",
+			"tu": "espionnes",
+			"il/elle": "espionne",
+			"nous": "espionnons",
+			"vous": "espionnez",
+			"ils/elles": "espionnent"
+		},
+		"imparfait": {
+			"j'": "espionnais",
+			"tu": "espionnais",
+			"il/elle": "espionnait",
+			"nous": "espionnions",
+			"vous": "espionniez",
+			"ils/elles": "espionnaient"
+		},
+		"futur": {
+			"j'": "espionnerai",
+			"tu": "espionneras",
+			"il/elle": "espionnera",
+			"nous": "espionnerons",
+			"vous": "espionnerez",
+			"ils/elles": "espionneront"
+		},
+		"passé simple": {
+			"j'": "espionnai",
+			"tu": "espionnas",
+			"il/elle": "espionna",
+			"nous": "espionnâmes",
+			"vous": "espionnâtes",
+			"ils/elles": "espionnèrent"
+		},
+		"passé composé": {
+			"j'": "ai espionné",
+			"tu": "as espionné",
+			"il/elle": "a espionné",
+			"nous": "avons espionné",
+			"vous": "avez espionné",
+			"ils/elles": "ont espionné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais espionné",
+			"tu": "avais espionné",
+			"il/elle": "avait espionné",
+			"nous": "avions espionné",
+			"vous": "aviez espionné",
+			"ils/elles": "avaient espionné"
+		},
+		"passé antérieur": {
+			"j'": "eus espionné",
+			"tu": "eus espionné",
+			"il/elle": "eut espionné",
+			"nous": "eûmes espionné",
+			"vous": "eûtes espionné",
+			"ils/elles": "eurent espionné"
+		},
+		"futur antérieur": {
+			"j'": "aurai espionné",
+			"tu": "auras espionné",
+			"il/elle": "aura espionné",
+			"nous": "aurons espionné",
+			"vous": "aurez espionné",
+			"ils/elles": "auront espionné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "espionne",
+			"que": "vous espionniez",
+			"qu'il/elle": "espionne",
+			"qu'ils/elles": "espionnent"
+		},
+		"imparfait": {
+			"j'": "espionnasse",
+			"que": "vous espionnassiez",
+			"qu'il/elle": "espionnât",
+			"qu'ils/elles": "espionnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse espionné",
+			"que": "vous eussiez espionné",
+			"qu'il/elle": "eût espionné",
+			"qu'ils/elles": "eussent espionné"
+		},
+		"passé": {
+			"j'": "aie espionné",
+			"que": "vous ayez espionné",
+			"qu'il/elle": "ait espionné",
+			"qu'ils/elles": "aient espionné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "espionnerais",
+			"tu": "espionnerais",
+			"il/elle": "espionnerait",
+			"nous": "espionnerions",
+			"vous": "espionneriez",
+			"ils/elles": "espionneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais espionné",
+			"tu": "aurais espionné",
+			"il/elle": "aurait espionné",
+			"nous": "aurions espionné",
+			"vous": "auriez espionné",
+			"ils/elles": "auraient espionné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse espionné",
+			"tu": "eusses espionné",
+			"il/elle": "eût espionné",
+			"nous": "eussions espionné",
+			"vous": "eussiez espionné",
+			"ils/elles": "eussent espionné"
+		}
+	},
+	"participe": {
+		"présent": { "espionnant": "" },
+		"passé composé": { "ayant": "espionné" },
+		"passé": {
+			"masc.sg.:": "espionné",
+			"masc.pl.:": "espionnés",
+			"fém.sg.:": "espionnée",
+			"fém.pl.:": "espionnées"
+		}
+	},
+	"imperatif": {
+		"présent": { "espionne": "", "espionnons": "", "espionnez": "" },
+		"passé": { "aie": "espionné", "ayons": "espionné", "ayez": "espionné" }
+	},
+	"infinitif": {
+		"présent": { "espionner": "" },
+		"passé": { "avoir": "espionné" }
+	}
+}

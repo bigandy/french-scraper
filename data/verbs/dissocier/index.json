@@ -1,0 +1,141 @@
+{
+	"name": "dissocier",
+	"definition": "dissociate; separate; decouple; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se dissocier/ne pas dissocier/ne pas se dissocier",
+	"indicatif": {
+		"présent": {
+			"je": "dissocie",
+			"tu": "dissocies",
+			"il/elle": "dissocie",
+			"nous": "dissocions",
+			"vous": "dissociez",
+			"ils/elles": "dissocient"
+		},
+		"imparfait": {
+			"je": "dissociais",
+			"tu": "dissociais",
+			"il/elle": "dissociait",
+			"nous": "dissociions",
+			"vous": "dissociiez",
+			"ils/elles": "dissociaient"
+		},
+		"futur": {
+			"je": "dissocierai",
+			"tu": "dissocieras",
+			"il/elle": "dissociera",
+			"nous": "dissocierons",
+			"vous": "dissocierez",
+			"ils/elles": "dissocieront"
+		},
+		"passé simple": {
+			"je": "dissociai",
+			"tu": "dissocias",
+			"il/elle": "dissocia",
+			"nous": "dissociâmes",
+			"vous": "dissociâtes",
+			"ils/elles": "dissocièrent"
+		},
+		"passé composé": {
+			"j'": "ai dissocié",
+			"tu": "as dissocié",
+			"il/elle": "a dissocié",
+			"nous": "avons dissocié",
+			"vous": "avez dissocié",
+			"ils/elles": "ont dissocié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais dissocié",
+			"tu": "avais dissocié",
+			"il/elle": "avait dissocié",
+			"nous": "avions dissocié",
+			"vous": "aviez dissocié",
+			"ils/elles": "avaient dissocié"
+		},
+		"passé antérieur": {
+			"j'": "eus dissocié",
+			"tu": "eus dissocié",
+			"il/elle": "eut dissocié",
+			"nous": "eûmes dissocié",
+			"vous": "eûtes dissocié",
+			"ils/elles": "eurent dissocié"
+		},
+		"futur antérieur": {
+			"j'": "aurai dissocié",
+			"tu": "auras dissocié",
+			"il/elle": "aura dissocié",
+			"nous": "aurons dissocié",
+			"vous": "aurez dissocié",
+			"ils/elles": "auront dissocié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous dissociiez",
+			"qu'il/elle": "dissocie",
+			"qu'ils/elles": "dissocient"
+		},
+		"imparfait": {
+			"que": "vous dissociassiez",
+			"qu'il/elle": "dissociât",
+			"qu'ils/elles": "dissociassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse dissocié",
+			"que": "vous eussiez dissocié",
+			"qu'il/elle": "eût dissocié",
+			"qu'ils/elles": "eussent dissocié"
+		},
+		"passé": {
+			"j'": "aie dissocié",
+			"que": "vous ayez dissocié",
+			"qu'il/elle": "ait dissocié",
+			"qu'ils/elles": "aient dissocié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "dissocierais",
+			"tu": "dissocierais",
+			"il/elle": "dissocierait",
+			"nous": "dissocierions",
+			"vous": "dissocieriez",
+			"ils/elles": "dissocieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais dissocié",
+			"tu": "aurais dissocié",
+			"il/elle": "aurait dissocié",
+			"nous": "aurions dissocié",
+			"vous": "auriez dissocié",
+			"ils/elles": "auraient dissocié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse dissocié",
+			"tu": "eusses dissocié",
+			"il/elle": "eût dissocié",
+			"nous": "eussions dissocié",
+			"vous": "eussiez dissocié",
+			"ils/elles": "eussent dissocié"
+		}
+	},
+	"participe": {
+		"présent": { "dissociant": "" },
+		"passé composé": { "ayant": "dissocié" },
+		"passé": {
+			"masc.sg.:": "dissocié",
+			"masc.pl.:": "dissociés",
+			"fém.sg.:": "dissociée",
+			"fém.pl.:": "dissociées"
+		}
+	},
+	"imperatif": {
+		"présent": { "dissocie": "", "dissocions": "", "dissociez": "" },
+		"passé": { "aie": "dissocié", "ayons": "dissocié", "ayez": "dissocié" }
+	},
+	"infinitif": {
+		"présent": { "dissocier": "" },
+		"passé": { "avoir": "dissocié" }
+	}
+}

@@ -1,0 +1,141 @@
+{
+	"name": "formater",
+	"definition": "format; brainwash; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se formater/ne pas formater/ne pas se formater",
+	"indicatif": {
+		"présent": {
+			"je": "formate",
+			"tu": "formates",
+			"il/elle": "formate",
+			"nous": "formatons",
+			"vous": "formatez",
+			"ils/elles": "formatent"
+		},
+		"imparfait": {
+			"je": "formatais",
+			"tu": "formatais",
+			"il/elle": "formatait",
+			"nous": "formations",
+			"vous": "formatiez",
+			"ils/elles": "formataient"
+		},
+		"futur": {
+			"je": "formaterai",
+			"tu": "formateras",
+			"il/elle": "formatera",
+			"nous": "formaterons",
+			"vous": "formaterez",
+			"ils/elles": "formateront"
+		},
+		"passé simple": {
+			"je": "formatai",
+			"tu": "formatas",
+			"il/elle": "formata",
+			"nous": "formatâmes",
+			"vous": "formatâtes",
+			"ils/elles": "formatèrent"
+		},
+		"passé composé": {
+			"j'": "ai formaté",
+			"tu": "as formaté",
+			"il/elle": "a formaté",
+			"nous": "avons formaté",
+			"vous": "avez formaté",
+			"ils/elles": "ont formaté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais formaté",
+			"tu": "avais formaté",
+			"il/elle": "avait formaté",
+			"nous": "avions formaté",
+			"vous": "aviez formaté",
+			"ils/elles": "avaient formaté"
+		},
+		"passé antérieur": {
+			"j'": "eus formaté",
+			"tu": "eus formaté",
+			"il/elle": "eut formaté",
+			"nous": "eûmes formaté",
+			"vous": "eûtes formaté",
+			"ils/elles": "eurent formaté"
+		},
+		"futur antérieur": {
+			"j'": "aurai formaté",
+			"tu": "auras formaté",
+			"il/elle": "aura formaté",
+			"nous": "aurons formaté",
+			"vous": "aurez formaté",
+			"ils/elles": "auront formaté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous formatiez",
+			"qu'il/elle": "formate",
+			"qu'ils/elles": "formatent"
+		},
+		"imparfait": {
+			"que": "vous formatassiez",
+			"qu'il/elle": "formatât",
+			"qu'ils/elles": "formatassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse formaté",
+			"que": "vous eussiez formaté",
+			"qu'il/elle": "eût formaté",
+			"qu'ils/elles": "eussent formaté"
+		},
+		"passé": {
+			"j'": "aie formaté",
+			"que": "vous ayez formaté",
+			"qu'il/elle": "ait formaté",
+			"qu'ils/elles": "aient formaté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "formaterais",
+			"tu": "formaterais",
+			"il/elle": "formaterait",
+			"nous": "formaterions",
+			"vous": "formateriez",
+			"ils/elles": "formateraient"
+		},
+		"passé première forme": {
+			"j'": "aurais formaté",
+			"tu": "aurais formaté",
+			"il/elle": "aurait formaté",
+			"nous": "aurions formaté",
+			"vous": "auriez formaté",
+			"ils/elles": "auraient formaté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse formaté",
+			"tu": "eusses formaté",
+			"il/elle": "eût formaté",
+			"nous": "eussions formaté",
+			"vous": "eussiez formaté",
+			"ils/elles": "eussent formaté"
+		}
+	},
+	"participe": {
+		"présent": { "formatant": "" },
+		"passé composé": { "ayant": "formaté" },
+		"passé": {
+			"masc.sg.:": "formaté",
+			"masc.pl.:": "formatés",
+			"fém.sg.:": "formatée",
+			"fém.pl.:": "formatées"
+		}
+	},
+	"imperatif": {
+		"présent": { "formate": "", "formatons": "", "formatez": "" },
+		"passé": { "aie": "formaté", "ayons": "formaté", "ayez": "formaté" }
+	},
+	"infinitif": {
+		"présent": { "formater": "" },
+		"passé": { "avoir": "formaté" }
+	}
+}

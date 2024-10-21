@@ -1,0 +1,141 @@
+{
+	"name": "rétrécir",
+	"definition": "shrink; narrow; taper; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se rétrécir/ne pas rétrécir/ne pas se rétrécir",
+	"indicatif": {
+		"présent": {
+			"je": "rétrécis",
+			"tu": "rétrécis",
+			"il/elle": "rétrécit",
+			"nous": "rétrécissons",
+			"vous": "rétrécissez",
+			"ils/elles": "rétrécissent"
+		},
+		"imparfait": {
+			"je": "rétrécissais",
+			"tu": "rétrécissais",
+			"il/elle": "rétrécissait",
+			"nous": "rétrécissions",
+			"vous": "rétrécissiez",
+			"ils/elles": "rétrécissaient"
+		},
+		"futur": {
+			"je": "rétrécirai",
+			"tu": "rétréciras",
+			"il/elle": "rétrécira",
+			"nous": "rétrécirons",
+			"vous": "rétrécirez",
+			"ils/elles": "rétréciront"
+		},
+		"passé simple": {
+			"je": "rétrécis",
+			"tu": "rétrécis",
+			"il/elle": "rétrécit",
+			"nous": "rétrécîmes",
+			"vous": "rétrécîtes",
+			"ils/elles": "rétrécirent"
+		},
+		"passé composé": {
+			"j'": "ai rétréci",
+			"tu": "as rétréci",
+			"il/elle": "a rétréci",
+			"nous": "avons rétréci",
+			"vous": "avez rétréci",
+			"ils/elles": "ont rétréci"
+		},
+		"plus-que-parfait": {
+			"j'": "avais rétréci",
+			"tu": "avais rétréci",
+			"il/elle": "avait rétréci",
+			"nous": "avions rétréci",
+			"vous": "aviez rétréci",
+			"ils/elles": "avaient rétréci"
+		},
+		"passé antérieur": {
+			"j'": "eus rétréci",
+			"tu": "eus rétréci",
+			"il/elle": "eut rétréci",
+			"nous": "eûmes rétréci",
+			"vous": "eûtes rétréci",
+			"ils/elles": "eurent rétréci"
+		},
+		"futur antérieur": {
+			"j'": "aurai rétréci",
+			"tu": "auras rétréci",
+			"il/elle": "aura rétréci",
+			"nous": "aurons rétréci",
+			"vous": "aurez rétréci",
+			"ils/elles": "auront rétréci"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous rétrécissiez",
+			"qu'il/elle": "rétrécisse",
+			"qu'ils/elles": "rétrécissent"
+		},
+		"imparfait": {
+			"que": "vous rétrécissiez",
+			"qu'il/elle": "rétrécît",
+			"qu'ils/elles": "rétrécissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse rétréci",
+			"que": "vous eussiez rétréci",
+			"qu'il/elle": "eût rétréci",
+			"qu'ils/elles": "eussent rétréci"
+		},
+		"passé": {
+			"j'": "aie rétréci",
+			"que": "vous ayez rétréci",
+			"qu'il/elle": "ait rétréci",
+			"qu'ils/elles": "aient rétréci"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "rétrécirais",
+			"tu": "rétrécirais",
+			"il/elle": "rétrécirait",
+			"nous": "rétrécirions",
+			"vous": "rétréciriez",
+			"ils/elles": "rétréciraient"
+		},
+		"passé première forme": {
+			"j'": "aurais rétréci",
+			"tu": "aurais rétréci",
+			"il/elle": "aurait rétréci",
+			"nous": "aurions rétréci",
+			"vous": "auriez rétréci",
+			"ils/elles": "auraient rétréci"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse rétréci",
+			"tu": "eusses rétréci",
+			"il/elle": "eût rétréci",
+			"nous": "eussions rétréci",
+			"vous": "eussiez rétréci",
+			"ils/elles": "eussent rétréci"
+		}
+	},
+	"participe": {
+		"présent": { "rétrécissant": "" },
+		"passé composé": { "ayant": "rétréci" },
+		"passé": {
+			"masc.sg.:": "rétréci",
+			"masc.pl.:": "rétrécis",
+			"fém.sg.:": "rétrécie",
+			"fém.pl.:": "rétrécies"
+		}
+	},
+	"imperatif": {
+		"présent": { "rétrécis": "", "rétrécissons": "", "rétrécissez": "" },
+		"passé": { "aie": "rétréci", "ayons": "rétréci", "ayez": "rétréci" }
+	},
+	"infinitif": {
+		"présent": { "rétrécir": "" },
+		"passé": { "avoir": "rétréci" }
+	}
+}

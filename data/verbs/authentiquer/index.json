@@ -1,0 +1,147 @@
+{
+	"name": "authentiquer",
+	"definition": "bear out; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'authentiquer/ne pas authentiquer/ne pas s'authentiquer",
+	"indicatif": {
+		"présent": {
+			"j'": "authentique",
+			"tu": "authentiques",
+			"il/elle": "authentique",
+			"nous": "authentiquons",
+			"vous": "authentiquez",
+			"ils/elles": "authentiquent"
+		},
+		"imparfait": {
+			"j'": "authentiquais",
+			"tu": "authentiquais",
+			"il/elle": "authentiquait",
+			"nous": "authentiquions",
+			"vous": "authentiquiez",
+			"ils/elles": "authentiquaient"
+		},
+		"futur": {
+			"j'": "authentiquerai",
+			"tu": "authentiqueras",
+			"il/elle": "authentiquera",
+			"nous": "authentiquerons",
+			"vous": "authentiquerez",
+			"ils/elles": "authentiqueront"
+		},
+		"passé simple": {
+			"j'": "authentiquai",
+			"tu": "authentiquas",
+			"il/elle": "authentiqua",
+			"nous": "authentiquâmes",
+			"vous": "authentiquâtes",
+			"ils/elles": "authentiquèrent"
+		},
+		"passé composé": {
+			"j'": "ai authentiqué",
+			"tu": "as authentiqué",
+			"il/elle": "a authentiqué",
+			"nous": "avons authentiqué",
+			"vous": "avez authentiqué",
+			"ils/elles": "ont authentiqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais authentiqué",
+			"tu": "avais authentiqué",
+			"il/elle": "avait authentiqué",
+			"nous": "avions authentiqué",
+			"vous": "aviez authentiqué",
+			"ils/elles": "avaient authentiqué"
+		},
+		"passé antérieur": {
+			"j'": "eus authentiqué",
+			"tu": "eus authentiqué",
+			"il/elle": "eut authentiqué",
+			"nous": "eûmes authentiqué",
+			"vous": "eûtes authentiqué",
+			"ils/elles": "eurent authentiqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai authentiqué",
+			"tu": "auras authentiqué",
+			"il/elle": "aura authentiqué",
+			"nous": "aurons authentiqué",
+			"vous": "aurez authentiqué",
+			"ils/elles": "auront authentiqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "authentique",
+			"que": "vous authentiquiez",
+			"qu'il/elle": "authentique",
+			"qu'ils/elles": "authentiquent"
+		},
+		"imparfait": {
+			"j'": "authentiquasse",
+			"que": "vous authentiquassiez",
+			"qu'il/elle": "authentiquât",
+			"qu'ils/elles": "authentiquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse authentiqué",
+			"que": "vous eussiez authentiqué",
+			"qu'il/elle": "eût authentiqué",
+			"qu'ils/elles": "eussent authentiqué"
+		},
+		"passé": {
+			"j'": "aie authentiqué",
+			"que": "vous ayez authentiqué",
+			"qu'il/elle": "ait authentiqué",
+			"qu'ils/elles": "aient authentiqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "authentiquerais",
+			"tu": "authentiquerais",
+			"il/elle": "authentiquerait",
+			"nous": "authentiquerions",
+			"vous": "authentiqueriez",
+			"ils/elles": "authentiqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais authentiqué",
+			"tu": "aurais authentiqué",
+			"il/elle": "aurait authentiqué",
+			"nous": "aurions authentiqué",
+			"vous": "auriez authentiqué",
+			"ils/elles": "auraient authentiqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse authentiqué",
+			"tu": "eusses authentiqué",
+			"il/elle": "eût authentiqué",
+			"nous": "eussions authentiqué",
+			"vous": "eussiez authentiqué",
+			"ils/elles": "eussent authentiqué"
+		}
+	},
+	"participe": {
+		"présent": { "authentiquant": "" },
+		"passé composé": { "ayant": "authentiqué" },
+		"passé": {
+			"masc.sg.:": "authentiqué",
+			"masc.pl.:": "authentiqués",
+			"fém.sg.:": "authentiquée",
+			"fém.pl.:": "authentiquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "authentique": "", "authentiquons": "", "authentiquez": "" },
+		"passé": {
+			"aie": "authentiqué",
+			"ayons": "authentiqué",
+			"ayez": "authentiqué"
+		}
+	},
+	"infinitif": {
+		"présent": { "authentiquer": "" },
+		"passé": { "avoir": "authentiqué" }
+	}
+}

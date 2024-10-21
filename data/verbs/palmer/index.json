@@ -1,0 +1,138 @@
+{
+	"name": "palmer",
+	"definition": "",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se palmer/ne pas palmer/ne pas se palmer",
+	"indicatif": {
+		"présent": {
+			"je": "palme",
+			"tu": "palmes",
+			"il/elle": "palme",
+			"nous": "palmons",
+			"vous": "palmez",
+			"ils/elles": "palment"
+		},
+		"imparfait": {
+			"je": "palmais",
+			"tu": "palmais",
+			"il/elle": "palmait",
+			"nous": "palmions",
+			"vous": "palmiez",
+			"ils/elles": "palmaient"
+		},
+		"futur": {
+			"je": "palmerai",
+			"tu": "palmeras",
+			"il/elle": "palmera",
+			"nous": "palmerons",
+			"vous": "palmerez",
+			"ils/elles": "palmeront"
+		},
+		"passé simple": {
+			"je": "palmai",
+			"tu": "palmas",
+			"il/elle": "palma",
+			"nous": "palmâmes",
+			"vous": "palmâtes",
+			"ils/elles": "palmèrent"
+		},
+		"passé composé": {
+			"j'": "ai palmé",
+			"tu": "as palmé",
+			"il/elle": "a palmé",
+			"nous": "avons palmé",
+			"vous": "avez palmé",
+			"ils/elles": "ont palmé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais palmé",
+			"tu": "avais palmé",
+			"il/elle": "avait palmé",
+			"nous": "avions palmé",
+			"vous": "aviez palmé",
+			"ils/elles": "avaient palmé"
+		},
+		"passé antérieur": {
+			"j'": "eus palmé",
+			"tu": "eus palmé",
+			"il/elle": "eut palmé",
+			"nous": "eûmes palmé",
+			"vous": "eûtes palmé",
+			"ils/elles": "eurent palmé"
+		},
+		"futur antérieur": {
+			"j'": "aurai palmé",
+			"tu": "auras palmé",
+			"il/elle": "aura palmé",
+			"nous": "aurons palmé",
+			"vous": "aurez palmé",
+			"ils/elles": "auront palmé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous palmiez",
+			"qu'il/elle": "palme",
+			"qu'ils/elles": "palment"
+		},
+		"imparfait": {
+			"que": "vous palmassiez",
+			"qu'il/elle": "palmât",
+			"qu'ils/elles": "palmassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse palmé",
+			"que": "vous eussiez palmé",
+			"qu'il/elle": "eût palmé",
+			"qu'ils/elles": "eussent palmé"
+		},
+		"passé": {
+			"j'": "aie palmé",
+			"que": "vous ayez palmé",
+			"qu'il/elle": "ait palmé",
+			"qu'ils/elles": "aient palmé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "palmerais",
+			"tu": "palmerais",
+			"il/elle": "palmerait",
+			"nous": "palmerions",
+			"vous": "palmeriez",
+			"ils/elles": "palmeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais palmé",
+			"tu": "aurais palmé",
+			"il/elle": "aurait palmé",
+			"nous": "aurions palmé",
+			"vous": "auriez palmé",
+			"ils/elles": "auraient palmé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse palmé",
+			"tu": "eusses palmé",
+			"il/elle": "eût palmé",
+			"nous": "eussions palmé",
+			"vous": "eussiez palmé",
+			"ils/elles": "eussent palmé"
+		}
+	},
+	"participe": {
+		"présent": { "palmant": "" },
+		"passé composé": { "ayant": "palmé" },
+		"passé": {
+			"masc.sg.:": "palmé",
+			"masc.pl.:": "palmés",
+			"fém.sg.:": "palmée",
+			"fém.pl.:": "palmées"
+		}
+	},
+	"imperatif": {
+		"présent": { "palme": "", "palmons": "", "palmez": "" },
+		"passé": { "aie": "palmé", "ayons": "palmé", "ayez": "palmé" }
+	},
+	"infinitif": { "présent": { "palmer": "" }, "passé": { "avoir": "palmé" } }
+}

@@ -1,0 +1,141 @@
+{
+	"name": "superposer",
+	"definition": "superimpose; superpose; overlap; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se superposer/ne pas superposer/ne pas se superposer",
+	"indicatif": {
+		"présent": {
+			"je": "superpose",
+			"tu": "superposes",
+			"il/elle": "superpose",
+			"nous": "superposons",
+			"vous": "superposez",
+			"ils/elles": "superposent"
+		},
+		"imparfait": {
+			"je": "superposais",
+			"tu": "superposais",
+			"il/elle": "superposait",
+			"nous": "superposions",
+			"vous": "superposiez",
+			"ils/elles": "superposaient"
+		},
+		"futur": {
+			"je": "superposerai",
+			"tu": "superposeras",
+			"il/elle": "superposera",
+			"nous": "superposerons",
+			"vous": "superposerez",
+			"ils/elles": "superposeront"
+		},
+		"passé simple": {
+			"je": "superposai",
+			"tu": "superposas",
+			"il/elle": "superposa",
+			"nous": "superposâmes",
+			"vous": "superposâtes",
+			"ils/elles": "superposèrent"
+		},
+		"passé composé": {
+			"j'": "ai superposé",
+			"tu": "as superposé",
+			"il/elle": "a superposé",
+			"nous": "avons superposé",
+			"vous": "avez superposé",
+			"ils/elles": "ont superposé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais superposé",
+			"tu": "avais superposé",
+			"il/elle": "avait superposé",
+			"nous": "avions superposé",
+			"vous": "aviez superposé",
+			"ils/elles": "avaient superposé"
+		},
+		"passé antérieur": {
+			"j'": "eus superposé",
+			"tu": "eus superposé",
+			"il/elle": "eut superposé",
+			"nous": "eûmes superposé",
+			"vous": "eûtes superposé",
+			"ils/elles": "eurent superposé"
+		},
+		"futur antérieur": {
+			"j'": "aurai superposé",
+			"tu": "auras superposé",
+			"il/elle": "aura superposé",
+			"nous": "aurons superposé",
+			"vous": "aurez superposé",
+			"ils/elles": "auront superposé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous superposiez",
+			"qu'il/elle": "superpose",
+			"qu'ils/elles": "superposent"
+		},
+		"imparfait": {
+			"que": "vous superposassiez",
+			"qu'il/elle": "superposât",
+			"qu'ils/elles": "superposassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse superposé",
+			"que": "vous eussiez superposé",
+			"qu'il/elle": "eût superposé",
+			"qu'ils/elles": "eussent superposé"
+		},
+		"passé": {
+			"j'": "aie superposé",
+			"que": "vous ayez superposé",
+			"qu'il/elle": "ait superposé",
+			"qu'ils/elles": "aient superposé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "superposerais",
+			"tu": "superposerais",
+			"il/elle": "superposerait",
+			"nous": "superposerions",
+			"vous": "superposeriez",
+			"ils/elles": "superposeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais superposé",
+			"tu": "aurais superposé",
+			"il/elle": "aurait superposé",
+			"nous": "aurions superposé",
+			"vous": "auriez superposé",
+			"ils/elles": "auraient superposé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse superposé",
+			"tu": "eusses superposé",
+			"il/elle": "eût superposé",
+			"nous": "eussions superposé",
+			"vous": "eussiez superposé",
+			"ils/elles": "eussent superposé"
+		}
+	},
+	"participe": {
+		"présent": { "superposant": "" },
+		"passé composé": { "ayant": "superposé" },
+		"passé": {
+			"masc.sg.:": "superposé",
+			"masc.pl.:": "superposés",
+			"fém.sg.:": "superposée",
+			"fém.pl.:": "superposées"
+		}
+	},
+	"imperatif": {
+		"présent": { "superpose": "", "superposons": "", "superposez": "" },
+		"passé": { "aie": "superposé", "ayons": "superposé", "ayez": "superposé" }
+	},
+	"infinitif": {
+		"présent": { "superposer": "" },
+		"passé": { "avoir": "superposé" }
+	}
+}

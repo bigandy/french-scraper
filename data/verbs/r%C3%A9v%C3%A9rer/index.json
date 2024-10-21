@@ -1,0 +1,138 @@
+{
+	"name": "révérer",
+	"definition": "revere; reverence; ...",
+	"model": "aérer",
+	"auxiliary": "avoir",
+	"otherForms": "se révérer/ne pas révérer/ne pas se révérer",
+	"indicatif": {
+		"présent": {
+			"je": "révère",
+			"tu": "révères",
+			"il/elle": "révère",
+			"nous": "révérons",
+			"vous": "révérez",
+			"ils/elles": "révèrent"
+		},
+		"imparfait": {
+			"je": "révérais",
+			"tu": "révérais",
+			"il/elle": "révérait",
+			"nous": "révérions",
+			"vous": "révériez",
+			"ils/elles": "révéraient"
+		},
+		"futur": {
+			"je": "révérerai",
+			"tu": "révéreras",
+			"il/elle": "révérera",
+			"nous": "révérerons",
+			"vous": "révérerez",
+			"ils/elles": "révéreront"
+		},
+		"passé simple": {
+			"je": "révérai",
+			"tu": "révéras",
+			"il/elle": "révéra",
+			"nous": "révérâmes",
+			"vous": "révérâtes",
+			"ils/elles": "révérèrent"
+		},
+		"passé composé": {
+			"j'": "ai révéré",
+			"tu": "as révéré",
+			"il/elle": "a révéré",
+			"nous": "avons révéré",
+			"vous": "avez révéré",
+			"ils/elles": "ont révéré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais révéré",
+			"tu": "avais révéré",
+			"il/elle": "avait révéré",
+			"nous": "avions révéré",
+			"vous": "aviez révéré",
+			"ils/elles": "avaient révéré"
+		},
+		"passé antérieur": {
+			"j'": "eus révéré",
+			"tu": "eus révéré",
+			"il/elle": "eut révéré",
+			"nous": "eûmes révéré",
+			"vous": "eûtes révéré",
+			"ils/elles": "eurent révéré"
+		},
+		"futur antérieur": {
+			"j'": "aurai révéré",
+			"tu": "auras révéré",
+			"il/elle": "aura révéré",
+			"nous": "aurons révéré",
+			"vous": "aurez révéré",
+			"ils/elles": "auront révéré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous révériez",
+			"qu'il/elle": "révère",
+			"qu'ils/elles": "révèrent"
+		},
+		"imparfait": {
+			"que": "vous révérassiez",
+			"qu'il/elle": "révérât",
+			"qu'ils/elles": "révérassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse révéré",
+			"que": "vous eussiez révéré",
+			"qu'il/elle": "eût révéré",
+			"qu'ils/elles": "eussent révéré"
+		},
+		"passé": {
+			"j'": "aie révéré",
+			"que": "vous ayez révéré",
+			"qu'il/elle": "ait révéré",
+			"qu'ils/elles": "aient révéré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "révérerais",
+			"tu": "révérerais",
+			"il/elle": "révérerait",
+			"nous": "révérerions",
+			"vous": "révéreriez",
+			"ils/elles": "révéreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais révéré",
+			"tu": "aurais révéré",
+			"il/elle": "aurait révéré",
+			"nous": "aurions révéré",
+			"vous": "auriez révéré",
+			"ils/elles": "auraient révéré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse révéré",
+			"tu": "eusses révéré",
+			"il/elle": "eût révéré",
+			"nous": "eussions révéré",
+			"vous": "eussiez révéré",
+			"ils/elles": "eussent révéré"
+		}
+	},
+	"participe": {
+		"présent": { "révérant": "" },
+		"passé composé": { "ayant": "révéré" },
+		"passé": {
+			"masc.sg.:": "révéré",
+			"masc.pl.:": "révérés",
+			"fém.sg.:": "révérée",
+			"fém.pl.:": "révérées"
+		}
+	},
+	"imperatif": {
+		"présent": { "révère": "", "révérons": "", "révérez": "" },
+		"passé": { "aie": "révéré", "ayons": "révéré", "ayez": "révéré" }
+	},
+	"infinitif": { "présent": { "révérer": "" }, "passé": { "avoir": "révéré" } }
+}

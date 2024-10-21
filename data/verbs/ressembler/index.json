@@ -1,0 +1,141 @@
+{
+	"name": "ressembler",
+	"definition": "look like; resemble; be like; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se ressembler/ne pas ressembler/ne pas se ressembler",
+	"indicatif": {
+		"présent": {
+			"je": "ressemble",
+			"tu": "ressembles",
+			"il/elle": "ressemble",
+			"nous": "ressemblons",
+			"vous": "ressemblez",
+			"ils/elles": "ressemblent"
+		},
+		"imparfait": {
+			"je": "ressemblais",
+			"tu": "ressemblais",
+			"il/elle": "ressemblait",
+			"nous": "ressemblions",
+			"vous": "ressembliez",
+			"ils/elles": "ressemblaient"
+		},
+		"futur": {
+			"je": "ressemblerai",
+			"tu": "ressembleras",
+			"il/elle": "ressemblera",
+			"nous": "ressemblerons",
+			"vous": "ressemblerez",
+			"ils/elles": "ressembleront"
+		},
+		"passé simple": {
+			"je": "ressemblai",
+			"tu": "ressemblas",
+			"il/elle": "ressembla",
+			"nous": "ressemblâmes",
+			"vous": "ressemblâtes",
+			"ils/elles": "ressemblèrent"
+		},
+		"passé composé": {
+			"j'": "ai ressemblé",
+			"tu": "as ressemblé",
+			"il/elle": "a ressemblé",
+			"nous": "avons ressemblé",
+			"vous": "avez ressemblé",
+			"ils/elles": "ont ressemblé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais ressemblé",
+			"tu": "avais ressemblé",
+			"il/elle": "avait ressemblé",
+			"nous": "avions ressemblé",
+			"vous": "aviez ressemblé",
+			"ils/elles": "avaient ressemblé"
+		},
+		"passé antérieur": {
+			"j'": "eus ressemblé",
+			"tu": "eus ressemblé",
+			"il/elle": "eut ressemblé",
+			"nous": "eûmes ressemblé",
+			"vous": "eûtes ressemblé",
+			"ils/elles": "eurent ressemblé"
+		},
+		"futur antérieur": {
+			"j'": "aurai ressemblé",
+			"tu": "auras ressemblé",
+			"il/elle": "aura ressemblé",
+			"nous": "aurons ressemblé",
+			"vous": "aurez ressemblé",
+			"ils/elles": "auront ressemblé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous ressembliez",
+			"qu'il/elle": "ressemble",
+			"qu'ils/elles": "ressemblent"
+		},
+		"imparfait": {
+			"que": "vous ressemblassiez",
+			"qu'il/elle": "ressemblât",
+			"qu'ils/elles": "ressemblassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse ressemblé",
+			"que": "vous eussiez ressemblé",
+			"qu'il/elle": "eût ressemblé",
+			"qu'ils/elles": "eussent ressemblé"
+		},
+		"passé": {
+			"j'": "aie ressemblé",
+			"que": "vous ayez ressemblé",
+			"qu'il/elle": "ait ressemblé",
+			"qu'ils/elles": "aient ressemblé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "ressemblerais",
+			"tu": "ressemblerais",
+			"il/elle": "ressemblerait",
+			"nous": "ressemblerions",
+			"vous": "ressembleriez",
+			"ils/elles": "ressembleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais ressemblé",
+			"tu": "aurais ressemblé",
+			"il/elle": "aurait ressemblé",
+			"nous": "aurions ressemblé",
+			"vous": "auriez ressemblé",
+			"ils/elles": "auraient ressemblé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse ressemblé",
+			"tu": "eusses ressemblé",
+			"il/elle": "eût ressemblé",
+			"nous": "eussions ressemblé",
+			"vous": "eussiez ressemblé",
+			"ils/elles": "eussent ressemblé"
+		}
+	},
+	"participe": {
+		"présent": { "ressemblant": "" },
+		"passé composé": { "ayant": "ressemblé" },
+		"passé": {
+			"masc.sg.:": "ressemblé",
+			"masc.pl.:": "ressemblés",
+			"fém.sg.:": "ressemblée",
+			"fém.pl.:": "ressemblées"
+		}
+	},
+	"imperatif": {
+		"présent": { "ressemble": "", "ressemblons": "", "ressemblez": "" },
+		"passé": { "aie": "ressemblé", "ayons": "ressemblé", "ayez": "ressemblé" }
+	},
+	"infinitif": {
+		"présent": { "ressembler": "" },
+		"passé": { "avoir": "ressemblé" }
+	}
+}

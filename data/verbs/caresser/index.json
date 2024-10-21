@@ -1,0 +1,141 @@
+{
+	"name": "caresser",
+	"definition": "caress; pet; stroke; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se caresser/ne pas caresser/ne pas se caresser",
+	"indicatif": {
+		"présent": {
+			"je": "caresse",
+			"tu": "caresses",
+			"il/elle": "caresse",
+			"nous": "caressons",
+			"vous": "caressez",
+			"ils/elles": "caressent"
+		},
+		"imparfait": {
+			"je": "caressais",
+			"tu": "caressais",
+			"il/elle": "caressait",
+			"nous": "caressions",
+			"vous": "caressiez",
+			"ils/elles": "caressaient"
+		},
+		"futur": {
+			"je": "caresserai",
+			"tu": "caresseras",
+			"il/elle": "caressera",
+			"nous": "caresserons",
+			"vous": "caresserez",
+			"ils/elles": "caresseront"
+		},
+		"passé simple": {
+			"je": "caressai",
+			"tu": "caressas",
+			"il/elle": "caressa",
+			"nous": "caressâmes",
+			"vous": "caressâtes",
+			"ils/elles": "caressèrent"
+		},
+		"passé composé": {
+			"j'": "ai caressé",
+			"tu": "as caressé",
+			"il/elle": "a caressé",
+			"nous": "avons caressé",
+			"vous": "avez caressé",
+			"ils/elles": "ont caressé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais caressé",
+			"tu": "avais caressé",
+			"il/elle": "avait caressé",
+			"nous": "avions caressé",
+			"vous": "aviez caressé",
+			"ils/elles": "avaient caressé"
+		},
+		"passé antérieur": {
+			"j'": "eus caressé",
+			"tu": "eus caressé",
+			"il/elle": "eut caressé",
+			"nous": "eûmes caressé",
+			"vous": "eûtes caressé",
+			"ils/elles": "eurent caressé"
+		},
+		"futur antérieur": {
+			"j'": "aurai caressé",
+			"tu": "auras caressé",
+			"il/elle": "aura caressé",
+			"nous": "aurons caressé",
+			"vous": "aurez caressé",
+			"ils/elles": "auront caressé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous caressiez",
+			"qu'il/elle": "caresse",
+			"qu'ils/elles": "caressent"
+		},
+		"imparfait": {
+			"que": "vous caressassiez",
+			"qu'il/elle": "caressât",
+			"qu'ils/elles": "caressassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse caressé",
+			"que": "vous eussiez caressé",
+			"qu'il/elle": "eût caressé",
+			"qu'ils/elles": "eussent caressé"
+		},
+		"passé": {
+			"j'": "aie caressé",
+			"que": "vous ayez caressé",
+			"qu'il/elle": "ait caressé",
+			"qu'ils/elles": "aient caressé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "caresserais",
+			"tu": "caresserais",
+			"il/elle": "caresserait",
+			"nous": "caresserions",
+			"vous": "caresseriez",
+			"ils/elles": "caresseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais caressé",
+			"tu": "aurais caressé",
+			"il/elle": "aurait caressé",
+			"nous": "aurions caressé",
+			"vous": "auriez caressé",
+			"ils/elles": "auraient caressé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse caressé",
+			"tu": "eusses caressé",
+			"il/elle": "eût caressé",
+			"nous": "eussions caressé",
+			"vous": "eussiez caressé",
+			"ils/elles": "eussent caressé"
+		}
+	},
+	"participe": {
+		"présent": { "caressant": "" },
+		"passé composé": { "ayant": "caressé" },
+		"passé": {
+			"masc.sg.:": "caressé",
+			"masc.pl.:": "caressés",
+			"fém.sg.:": "caressée",
+			"fém.pl.:": "caressées"
+		}
+	},
+	"imperatif": {
+		"présent": { "caresse": "", "caressons": "", "caressez": "" },
+		"passé": { "aie": "caressé", "ayons": "caressé", "ayez": "caressé" }
+	},
+	"infinitif": {
+		"présent": { "caresser": "" },
+		"passé": { "avoir": "caressé" }
+	}
+}

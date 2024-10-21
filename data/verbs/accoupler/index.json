@@ -1,0 +1,143 @@
+{
+	"name": "accoupler",
+	"definition": "couple; mate; engage; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'accoupler/ne pas accoupler/ne pas s'accoupler",
+	"indicatif": {
+		"présent": {
+			"j'": "accouple",
+			"tu": "accouples",
+			"il/elle": "accouple",
+			"nous": "accouplons",
+			"vous": "accouplez",
+			"ils/elles": "accouplent"
+		},
+		"imparfait": {
+			"j'": "accouplais",
+			"tu": "accouplais",
+			"il/elle": "accouplait",
+			"nous": "accouplions",
+			"vous": "accoupliez",
+			"ils/elles": "accouplaient"
+		},
+		"futur": {
+			"j'": "accouplerai",
+			"tu": "accoupleras",
+			"il/elle": "accouplera",
+			"nous": "accouplerons",
+			"vous": "accouplerez",
+			"ils/elles": "accoupleront"
+		},
+		"passé simple": {
+			"j'": "accouplai",
+			"tu": "accouplas",
+			"il/elle": "accoupla",
+			"nous": "accouplâmes",
+			"vous": "accouplâtes",
+			"ils/elles": "accouplèrent"
+		},
+		"passé composé": {
+			"j'": "ai accouplé",
+			"tu": "as accouplé",
+			"il/elle": "a accouplé",
+			"nous": "avons accouplé",
+			"vous": "avez accouplé",
+			"ils/elles": "ont accouplé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais accouplé",
+			"tu": "avais accouplé",
+			"il/elle": "avait accouplé",
+			"nous": "avions accouplé",
+			"vous": "aviez accouplé",
+			"ils/elles": "avaient accouplé"
+		},
+		"passé antérieur": {
+			"j'": "eus accouplé",
+			"tu": "eus accouplé",
+			"il/elle": "eut accouplé",
+			"nous": "eûmes accouplé",
+			"vous": "eûtes accouplé",
+			"ils/elles": "eurent accouplé"
+		},
+		"futur antérieur": {
+			"j'": "aurai accouplé",
+			"tu": "auras accouplé",
+			"il/elle": "aura accouplé",
+			"nous": "aurons accouplé",
+			"vous": "aurez accouplé",
+			"ils/elles": "auront accouplé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "accouple",
+			"que": "vous accoupliez",
+			"qu'il/elle": "accouple",
+			"qu'ils/elles": "accouplent"
+		},
+		"imparfait": {
+			"j'": "accouplasse",
+			"que": "vous accouplassiez",
+			"qu'il/elle": "accouplât",
+			"qu'ils/elles": "accouplassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse accouplé",
+			"que": "vous eussiez accouplé",
+			"qu'il/elle": "eût accouplé",
+			"qu'ils/elles": "eussent accouplé"
+		},
+		"passé": {
+			"j'": "aie accouplé",
+			"que": "vous ayez accouplé",
+			"qu'il/elle": "ait accouplé",
+			"qu'ils/elles": "aient accouplé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "accouplerais",
+			"tu": "accouplerais",
+			"il/elle": "accouplerait",
+			"nous": "accouplerions",
+			"vous": "accoupleriez",
+			"ils/elles": "accoupleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais accouplé",
+			"tu": "aurais accouplé",
+			"il/elle": "aurait accouplé",
+			"nous": "aurions accouplé",
+			"vous": "auriez accouplé",
+			"ils/elles": "auraient accouplé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse accouplé",
+			"tu": "eusses accouplé",
+			"il/elle": "eût accouplé",
+			"nous": "eussions accouplé",
+			"vous": "eussiez accouplé",
+			"ils/elles": "eussent accouplé"
+		}
+	},
+	"participe": {
+		"présent": { "accouplant": "" },
+		"passé composé": { "ayant": "accouplé" },
+		"passé": {
+			"masc.sg.:": "accouplé",
+			"masc.pl.:": "accouplés",
+			"fém.sg.:": "accouplée",
+			"fém.pl.:": "accouplées"
+		}
+	},
+	"imperatif": {
+		"présent": { "accouple": "", "accouplons": "", "accouplez": "" },
+		"passé": { "aie": "accouplé", "ayons": "accouplé", "ayez": "accouplé" }
+	},
+	"infinitif": {
+		"présent": { "accoupler": "" },
+		"passé": { "avoir": "accouplé" }
+	}
+}

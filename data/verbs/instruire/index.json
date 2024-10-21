@@ -1,0 +1,143 @@
+{
+	"name": "instruire",
+	"definition": "educate; instruct; investigate; ...",
+	"model": "cuire",
+	"auxiliary": "avoir",
+	"otherForms": "s'instruire/ne pas instruire/ne pas s'instruire",
+	"indicatif": {
+		"présent": {
+			"j'": "instruis",
+			"tu": "instruis",
+			"il/elle": "instruit",
+			"nous": "instruisons",
+			"vous": "instruisez",
+			"ils/elles": "instruisent"
+		},
+		"imparfait": {
+			"j'": "instruisais",
+			"tu": "instruisais",
+			"il/elle": "instruisait",
+			"nous": "instruisions",
+			"vous": "instruisiez",
+			"ils/elles": "instruisaient"
+		},
+		"futur": {
+			"j'": "instruirai",
+			"tu": "instruiras",
+			"il/elle": "instruira",
+			"nous": "instruirons",
+			"vous": "instruirez",
+			"ils/elles": "instruiront"
+		},
+		"passé simple": {
+			"j'": "instruisis",
+			"tu": "instruisis",
+			"il/elle": "instruisit",
+			"nous": "instruisîmes",
+			"vous": "instruisîtes",
+			"ils/elles": "instruisirent"
+		},
+		"passé composé": {
+			"j'": "ai instruit",
+			"tu": "as instruit",
+			"il/elle": "a instruit",
+			"nous": "avons instruit",
+			"vous": "avez instruit",
+			"ils/elles": "ont instruit"
+		},
+		"plus-que-parfait": {
+			"j'": "avais instruit",
+			"tu": "avais instruit",
+			"il/elle": "avait instruit",
+			"nous": "avions instruit",
+			"vous": "aviez instruit",
+			"ils/elles": "avaient instruit"
+		},
+		"passé antérieur": {
+			"j'": "eus instruit",
+			"tu": "eus instruit",
+			"il/elle": "eut instruit",
+			"nous": "eûmes instruit",
+			"vous": "eûtes instruit",
+			"ils/elles": "eurent instruit"
+		},
+		"futur antérieur": {
+			"j'": "aurai instruit",
+			"tu": "auras instruit",
+			"il/elle": "aura instruit",
+			"nous": "aurons instruit",
+			"vous": "aurez instruit",
+			"ils/elles": "auront instruit"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "instruise",
+			"que": "vous instruisiez",
+			"qu'il/elle": "instruise",
+			"qu'ils/elles": "instruisent"
+		},
+		"imparfait": {
+			"j'": "instruisisse",
+			"que": "vous instruisissiez",
+			"qu'il/elle": "instruisît",
+			"qu'ils/elles": "instruisissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse instruit",
+			"que": "vous eussiez instruit",
+			"qu'il/elle": "eût instruit",
+			"qu'ils/elles": "eussent instruit"
+		},
+		"passé": {
+			"j'": "aie instruit",
+			"que": "vous ayez instruit",
+			"qu'il/elle": "ait instruit",
+			"qu'ils/elles": "aient instruit"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "instruirais",
+			"tu": "instruirais",
+			"il/elle": "instruirait",
+			"nous": "instruirions",
+			"vous": "instruiriez",
+			"ils/elles": "instruiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais instruit",
+			"tu": "aurais instruit",
+			"il/elle": "aurait instruit",
+			"nous": "aurions instruit",
+			"vous": "auriez instruit",
+			"ils/elles": "auraient instruit"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse instruit",
+			"tu": "eusses instruit",
+			"il/elle": "eût instruit",
+			"nous": "eussions instruit",
+			"vous": "eussiez instruit",
+			"ils/elles": "eussent instruit"
+		}
+	},
+	"participe": {
+		"présent": { "instruisant": "" },
+		"passé composé": { "ayant": "instruit" },
+		"passé": {
+			"masc.sg.:": "instruit",
+			"masc.pl.:": "instruits",
+			"fém.sg.:": "instruite",
+			"fém.pl.:": "instruites"
+		}
+	},
+	"imperatif": {
+		"présent": { "instruis": "", "instruisons": "", "instruisez": "" },
+		"passé": { "aie": "instruit", "ayons": "instruit", "ayez": "instruit" }
+	},
+	"infinitif": {
+		"présent": { "instruire": "" },
+		"passé": { "avoir": "instruit" }
+	}
+}

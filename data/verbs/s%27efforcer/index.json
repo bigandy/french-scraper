@@ -1,0 +1,155 @@
+{
+	"name": "s'efforcer",
+	"definition": "strive; endeavour; seek; ...",
+	"model": "commencer",
+	"auxiliary": "être",
+	"otherForms": "ne pas s'efforcer",
+	"indicatif": {
+		"présent": {
+			"je": "m'efforce",
+			"tu": "t'efforces",
+			"il/elle": "s'efforce",
+			"nous": "nous efforçons",
+			"vous": "vous efforcez",
+			"ils/elles": "s'efforcent"
+		},
+		"imparfait": {
+			"je": "m'efforçais",
+			"tu": "t'efforçais",
+			"il/elle": "s'efforçait",
+			"nous": "nous efforcions",
+			"vous": "vous efforciez",
+			"ils/elles": "s'efforçaient"
+		},
+		"futur": {
+			"je": "m'efforcerai",
+			"tu": "t'efforceras",
+			"il/elle": "s'efforcera",
+			"nous": "nous efforcerons",
+			"vous": "vous efforcerez",
+			"ils/elles": "s'efforceront"
+		},
+		"passé simple": {
+			"je": "m'efforçai",
+			"tu": "t'efforças",
+			"il/elle": "s'efforça",
+			"nous": "nous efforçâmes",
+			"vous": "vous efforçâtes",
+			"ils/elles": "s'efforcèrent"
+		},
+		"passé composé": {
+			"je": "me suis efforcé",
+			"tu": "t'es efforcé",
+			"il": "s'est efforcé",
+			"elle": "s'est efforcée",
+			"nous": "nous sommes efforcés",
+			"vous": "vous êtes efforcés",
+			"ils": "se sont efforcés",
+			"elles": "se sont efforcées"
+		},
+		"plus-que-parfait": {
+			"je": "m'étais efforcé",
+			"tu": "t'étais efforcé",
+			"il": "s'était efforcé",
+			"elle": "s'était efforcée",
+			"nous": "nous étions efforcés",
+			"vous": "vous étiez efforcés",
+			"ils": "s'étaient efforcés",
+			"elles": "s'étaient efforcées"
+		},
+		"passé antérieur": {
+			"je": "me fus efforcé",
+			"tu": "te fus efforcé",
+			"il": "se fut efforcé",
+			"elle": "se fut efforcée",
+			"nous": "nous fûmes efforcés",
+			"vous": "vous fûtes efforcés",
+			"ils": "se furent efforcés",
+			"elles": "se furent efforcées"
+		},
+		"futur antérieur": {
+			"je": "me serai efforcé",
+			"tu": "te seras efforcé",
+			"il": "se sera efforcé",
+			"elle": "se sera efforcée",
+			"nous": "nous serons efforcés",
+			"vous": "vous serez efforcés",
+			"ils": "se seront efforcés",
+			"elles": "se seront efforcées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous vous efforciez",
+			"qu'il/elle": "s'efforce",
+			"qu'ils/elles": "s'efforcent"
+		},
+		"imparfait": {
+			"que": "vous vous efforçassiez",
+			"qu'il/elle": "s'efforçât",
+			"qu'ils/elles": "s'efforçassent"
+		},
+		"plus-que-parfait": {
+			"que": "vous vous fussiez efforcés",
+			"qu'il": "se fût efforcé",
+			"qu'elle": "se fût efforcée",
+			"qu'ils": "se fussent efforcés",
+			"qu'elles": "se fussent efforcées"
+		},
+		"passé": {
+			"que": "vous vous soyez efforcés",
+			"qu'il": "se soit efforcé",
+			"qu'elle": "se soit efforcée",
+			"qu'ils": "se soient efforcés",
+			"qu'elles": "se soient efforcées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "m'efforcerais",
+			"tu": "t'efforcerais",
+			"il/elle": "s'efforcerait",
+			"nous": "nous efforcerions",
+			"vous": "vous efforceriez",
+			"ils/elles": "s'efforceraient"
+		},
+		"passé première forme": {
+			"je": "me serais efforcé",
+			"tu": "te serais efforcé",
+			"il": "se serait efforcé",
+			"elle": "se serait efforcée",
+			"nous": "nous serions efforcés",
+			"vous": "vous seriez efforcés",
+			"ils": "se seraient efforcés",
+			"elles": "se seraient efforcées"
+		},
+		"passé deuxième forme": {
+			"je": "me fusse efforcé",
+			"tu": "te fusses efforcé",
+			"il": "se fût efforcé",
+			"elle": "se fût efforcée",
+			"nous": "nous fussions efforcés",
+			"vous": "vous fussiez efforcés",
+			"ils": "se fussent efforcés",
+			"elles": "se fussent efforcées"
+		}
+	},
+	"participe": {
+		"présent": { "s'efforçant": "" },
+		"passé composé": { "s'étant": "efforcé" },
+		"passé": {
+			"masc.sg.:": "efforcé",
+			"masc.pl.:": "efforcés",
+			"fém.sg.:": "efforcée",
+			"fém.pl.:": "efforcées"
+		}
+	},
+	"imperatif": {
+		"présent": { "efforce-toi": "", "efforçons-nous": "", "efforcez-vous": "" },
+		"passé": {}
+	},
+	"infinitif": {
+		"présent": { "s'efforcer": "" },
+		"passé": { "s'être": "efforcé" }
+	}
+}

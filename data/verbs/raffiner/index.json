@@ -1,0 +1,141 @@
+{
+	"name": "raffiner",
+	"definition": "refine; fine-tune; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se raffiner/ne pas raffiner/ne pas se raffiner",
+	"indicatif": {
+		"présent": {
+			"je": "raffine",
+			"tu": "raffines",
+			"il/elle": "raffine",
+			"nous": "raffinons",
+			"vous": "raffinez",
+			"ils/elles": "raffinent"
+		},
+		"imparfait": {
+			"je": "raffinais",
+			"tu": "raffinais",
+			"il/elle": "raffinait",
+			"nous": "raffinions",
+			"vous": "raffiniez",
+			"ils/elles": "raffinaient"
+		},
+		"futur": {
+			"je": "raffinerai",
+			"tu": "raffineras",
+			"il/elle": "raffinera",
+			"nous": "raffinerons",
+			"vous": "raffinerez",
+			"ils/elles": "raffineront"
+		},
+		"passé simple": {
+			"je": "raffinai",
+			"tu": "raffinas",
+			"il/elle": "raffina",
+			"nous": "raffinâmes",
+			"vous": "raffinâtes",
+			"ils/elles": "raffinèrent"
+		},
+		"passé composé": {
+			"j'": "ai raffiné",
+			"tu": "as raffiné",
+			"il/elle": "a raffiné",
+			"nous": "avons raffiné",
+			"vous": "avez raffiné",
+			"ils/elles": "ont raffiné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais raffiné",
+			"tu": "avais raffiné",
+			"il/elle": "avait raffiné",
+			"nous": "avions raffiné",
+			"vous": "aviez raffiné",
+			"ils/elles": "avaient raffiné"
+		},
+		"passé antérieur": {
+			"j'": "eus raffiné",
+			"tu": "eus raffiné",
+			"il/elle": "eut raffiné",
+			"nous": "eûmes raffiné",
+			"vous": "eûtes raffiné",
+			"ils/elles": "eurent raffiné"
+		},
+		"futur antérieur": {
+			"j'": "aurai raffiné",
+			"tu": "auras raffiné",
+			"il/elle": "aura raffiné",
+			"nous": "aurons raffiné",
+			"vous": "aurez raffiné",
+			"ils/elles": "auront raffiné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous raffiniez",
+			"qu'il/elle": "raffine",
+			"qu'ils/elles": "raffinent"
+		},
+		"imparfait": {
+			"que": "vous raffinassiez",
+			"qu'il/elle": "raffinât",
+			"qu'ils/elles": "raffinassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse raffiné",
+			"que": "vous eussiez raffiné",
+			"qu'il/elle": "eût raffiné",
+			"qu'ils/elles": "eussent raffiné"
+		},
+		"passé": {
+			"j'": "aie raffiné",
+			"que": "vous ayez raffiné",
+			"qu'il/elle": "ait raffiné",
+			"qu'ils/elles": "aient raffiné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "raffinerais",
+			"tu": "raffinerais",
+			"il/elle": "raffinerait",
+			"nous": "raffinerions",
+			"vous": "raffineriez",
+			"ils/elles": "raffineraient"
+		},
+		"passé première forme": {
+			"j'": "aurais raffiné",
+			"tu": "aurais raffiné",
+			"il/elle": "aurait raffiné",
+			"nous": "aurions raffiné",
+			"vous": "auriez raffiné",
+			"ils/elles": "auraient raffiné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse raffiné",
+			"tu": "eusses raffiné",
+			"il/elle": "eût raffiné",
+			"nous": "eussions raffiné",
+			"vous": "eussiez raffiné",
+			"ils/elles": "eussent raffiné"
+		}
+	},
+	"participe": {
+		"présent": { "raffinant": "" },
+		"passé composé": { "ayant": "raffiné" },
+		"passé": {
+			"masc.sg.:": "raffiné",
+			"masc.pl.:": "raffinés",
+			"fém.sg.:": "raffinée",
+			"fém.pl.:": "raffinées"
+		}
+	},
+	"imperatif": {
+		"présent": { "raffine": "", "raffinons": "", "raffinez": "" },
+		"passé": { "aie": "raffiné", "ayons": "raffiné", "ayez": "raffiné" }
+	},
+	"infinitif": {
+		"présent": { "raffiner": "" },
+		"passé": { "avoir": "raffiné" }
+	}
+}

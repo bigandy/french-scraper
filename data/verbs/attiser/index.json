@@ -1,0 +1,140 @@
+{
+	"name": "attiser",
+	"definition": "fuel; stir up; fan; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'attiser/ne pas attiser/ne pas s'attiser",
+	"indicatif": {
+		"présent": {
+			"j'": "attise",
+			"tu": "attises",
+			"il/elle": "attise",
+			"nous": "attisons",
+			"vous": "attisez",
+			"ils/elles": "attisent"
+		},
+		"imparfait": {
+			"j'": "attisais",
+			"tu": "attisais",
+			"il/elle": "attisait",
+			"nous": "attisions",
+			"vous": "attisiez",
+			"ils/elles": "attisaient"
+		},
+		"futur": {
+			"j'": "attiserai",
+			"tu": "attiseras",
+			"il/elle": "attisera",
+			"nous": "attiserons",
+			"vous": "attiserez",
+			"ils/elles": "attiseront"
+		},
+		"passé simple": {
+			"j'": "attisai",
+			"tu": "attisas",
+			"il/elle": "attisa",
+			"nous": "attisâmes",
+			"vous": "attisâtes",
+			"ils/elles": "attisèrent"
+		},
+		"passé composé": {
+			"j'": "ai attisé",
+			"tu": "as attisé",
+			"il/elle": "a attisé",
+			"nous": "avons attisé",
+			"vous": "avez attisé",
+			"ils/elles": "ont attisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais attisé",
+			"tu": "avais attisé",
+			"il/elle": "avait attisé",
+			"nous": "avions attisé",
+			"vous": "aviez attisé",
+			"ils/elles": "avaient attisé"
+		},
+		"passé antérieur": {
+			"j'": "eus attisé",
+			"tu": "eus attisé",
+			"il/elle": "eut attisé",
+			"nous": "eûmes attisé",
+			"vous": "eûtes attisé",
+			"ils/elles": "eurent attisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai attisé",
+			"tu": "auras attisé",
+			"il/elle": "aura attisé",
+			"nous": "aurons attisé",
+			"vous": "aurez attisé",
+			"ils/elles": "auront attisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "attise",
+			"que": "vous attisiez",
+			"qu'il/elle": "attise",
+			"qu'ils/elles": "attisent"
+		},
+		"imparfait": {
+			"j'": "attisasse",
+			"que": "vous attisassiez",
+			"qu'il/elle": "attisât",
+			"qu'ils/elles": "attisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse attisé",
+			"que": "vous eussiez attisé",
+			"qu'il/elle": "eût attisé",
+			"qu'ils/elles": "eussent attisé"
+		},
+		"passé": {
+			"j'": "aie attisé",
+			"que": "vous ayez attisé",
+			"qu'il/elle": "ait attisé",
+			"qu'ils/elles": "aient attisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "attiserais",
+			"tu": "attiserais",
+			"il/elle": "attiserait",
+			"nous": "attiserions",
+			"vous": "attiseriez",
+			"ils/elles": "attiseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais attisé",
+			"tu": "aurais attisé",
+			"il/elle": "aurait attisé",
+			"nous": "aurions attisé",
+			"vous": "auriez attisé",
+			"ils/elles": "auraient attisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse attisé",
+			"tu": "eusses attisé",
+			"il/elle": "eût attisé",
+			"nous": "eussions attisé",
+			"vous": "eussiez attisé",
+			"ils/elles": "eussent attisé"
+		}
+	},
+	"participe": {
+		"présent": { "attisant": "" },
+		"passé composé": { "ayant": "attisé" },
+		"passé": {
+			"masc.sg.:": "attisé",
+			"masc.pl.:": "attisés",
+			"fém.sg.:": "attisée",
+			"fém.pl.:": "attisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "attise": "", "attisons": "", "attisez": "" },
+		"passé": { "aie": "attisé", "ayons": "attisé", "ayez": "attisé" }
+	},
+	"infinitif": { "présent": { "attiser": "" }, "passé": { "avoir": "attisé" } }
+}

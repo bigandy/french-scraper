@@ -1,0 +1,141 @@
+{
+	"name": "détériorer",
+	"definition": "deteriorate; damage; worsen; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se détériorer/ne pas détériorer/ne pas se détériorer",
+	"indicatif": {
+		"présent": {
+			"je": "détériore",
+			"tu": "détériores",
+			"il/elle": "détériore",
+			"nous": "détériorons",
+			"vous": "détériorez",
+			"ils/elles": "détériorent"
+		},
+		"imparfait": {
+			"je": "détériorais",
+			"tu": "détériorais",
+			"il/elle": "détériorait",
+			"nous": "détériorions",
+			"vous": "détérioriez",
+			"ils/elles": "détérioraient"
+		},
+		"futur": {
+			"je": "détériorerai",
+			"tu": "détérioreras",
+			"il/elle": "détériorera",
+			"nous": "détériorerons",
+			"vous": "détériorerez",
+			"ils/elles": "détérioreront"
+		},
+		"passé simple": {
+			"je": "détériorai",
+			"tu": "détérioras",
+			"il/elle": "détériora",
+			"nous": "détériorâmes",
+			"vous": "détériorâtes",
+			"ils/elles": "détériorèrent"
+		},
+		"passé composé": {
+			"j'": "ai détérioré",
+			"tu": "as détérioré",
+			"il/elle": "a détérioré",
+			"nous": "avons détérioré",
+			"vous": "avez détérioré",
+			"ils/elles": "ont détérioré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais détérioré",
+			"tu": "avais détérioré",
+			"il/elle": "avait détérioré",
+			"nous": "avions détérioré",
+			"vous": "aviez détérioré",
+			"ils/elles": "avaient détérioré"
+		},
+		"passé antérieur": {
+			"j'": "eus détérioré",
+			"tu": "eus détérioré",
+			"il/elle": "eut détérioré",
+			"nous": "eûmes détérioré",
+			"vous": "eûtes détérioré",
+			"ils/elles": "eurent détérioré"
+		},
+		"futur antérieur": {
+			"j'": "aurai détérioré",
+			"tu": "auras détérioré",
+			"il/elle": "aura détérioré",
+			"nous": "aurons détérioré",
+			"vous": "aurez détérioré",
+			"ils/elles": "auront détérioré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous détérioriez",
+			"qu'il/elle": "détériore",
+			"qu'ils/elles": "détériorent"
+		},
+		"imparfait": {
+			"que": "vous détériorassiez",
+			"qu'il/elle": "détériorât",
+			"qu'ils/elles": "détériorassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse détérioré",
+			"que": "vous eussiez détérioré",
+			"qu'il/elle": "eût détérioré",
+			"qu'ils/elles": "eussent détérioré"
+		},
+		"passé": {
+			"j'": "aie détérioré",
+			"que": "vous ayez détérioré",
+			"qu'il/elle": "ait détérioré",
+			"qu'ils/elles": "aient détérioré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "détériorerais",
+			"tu": "détériorerais",
+			"il/elle": "détériorerait",
+			"nous": "détériorerions",
+			"vous": "détérioreriez",
+			"ils/elles": "détérioreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais détérioré",
+			"tu": "aurais détérioré",
+			"il/elle": "aurait détérioré",
+			"nous": "aurions détérioré",
+			"vous": "auriez détérioré",
+			"ils/elles": "auraient détérioré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse détérioré",
+			"tu": "eusses détérioré",
+			"il/elle": "eût détérioré",
+			"nous": "eussions détérioré",
+			"vous": "eussiez détérioré",
+			"ils/elles": "eussent détérioré"
+		}
+	},
+	"participe": {
+		"présent": { "détériorant": "" },
+		"passé composé": { "ayant": "détérioré" },
+		"passé": {
+			"masc.sg.:": "détérioré",
+			"masc.pl.:": "détériorés",
+			"fém.sg.:": "détériorée",
+			"fém.pl.:": "détériorées"
+		}
+	},
+	"imperatif": {
+		"présent": { "détériore": "", "détériorons": "", "détériorez": "" },
+		"passé": { "aie": "détérioré", "ayons": "détérioré", "ayez": "détérioré" }
+	},
+	"infinitif": {
+		"présent": { "détériorer": "" },
+		"passé": { "avoir": "détérioré" }
+	}
+}

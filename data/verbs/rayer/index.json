@@ -1,0 +1,142 @@
+{
+	"name": "rayer",
+	"definition": "scratch; cross; remove; ...",
+	"model": "marcher\n              /\n              balayer",
+	"auxiliary": "avoir",
+	"otherForms": "se rayer/ne pas rayer/ne pas se rayer",
+	"indicatif": {
+		"présent": {
+			"je": "raie",
+			"tu": "raies",
+			"il/elle": "raie",
+			"nous": "rayons",
+			"vous": "rayez",
+			"ils/elles": "raient",
+			"": ""
+		},
+		"imparfait": {
+			"je": "rayais",
+			"tu": "rayais",
+			"il/elle": "rayait",
+			"nous": "rayions",
+			"vous": "rayiez",
+			"ils/elles": "rayaient"
+		},
+		"futur": {
+			"je": "raierai",
+			"tu": "raieras",
+			"il/elle": "raiera",
+			"nous": "raierons",
+			"vous": "raierez",
+			"ils/elles": "raieront",
+			"": ""
+		},
+		"passé simple": {
+			"je": "rayai",
+			"tu": "rayas",
+			"il/elle": "raya",
+			"nous": "rayâmes",
+			"vous": "rayâtes",
+			"ils/elles": "rayèrent"
+		},
+		"passé composé": {
+			"j'": "ai rayé",
+			"tu": "as rayé",
+			"il/elle": "a rayé",
+			"nous": "avons rayé",
+			"vous": "avez rayé",
+			"ils/elles": "ont rayé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais rayé",
+			"tu": "avais rayé",
+			"il/elle": "avait rayé",
+			"nous": "avions rayé",
+			"vous": "aviez rayé",
+			"ils/elles": "avaient rayé"
+		},
+		"passé antérieur": {
+			"j'": "eus rayé",
+			"tu": "eus rayé",
+			"il/elle": "eut rayé",
+			"nous": "eûmes rayé",
+			"vous": "eûtes rayé",
+			"ils/elles": "eurent rayé"
+		},
+		"futur antérieur": {
+			"j'": "aurai rayé",
+			"tu": "auras rayé",
+			"il/elle": "aura rayé",
+			"nous": "aurons rayé",
+			"vous": "aurez rayé",
+			"ils/elles": "auront rayé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous rayiez",
+			"qu'il/elle": "raie",
+			"qu'ils/elles": "raient",
+			"": ""
+		},
+		"imparfait": {
+			"que": "vous rayassiez",
+			"qu'il/elle": "rayât",
+			"qu'ils/elles": "rayassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse rayé",
+			"que": "vous eussiez rayé",
+			"qu'il/elle": "eût rayé",
+			"qu'ils/elles": "eussent rayé"
+		},
+		"passé": {
+			"j'": "aie rayé",
+			"que": "vous ayez rayé",
+			"qu'il/elle": "ait rayé",
+			"qu'ils/elles": "aient rayé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "raierais",
+			"tu": "raierais",
+			"il/elle": "raierait",
+			"nous": "raierions",
+			"vous": "raieriez",
+			"ils/elles": "raieraient",
+			"": ""
+		},
+		"passé première forme": {
+			"j'": "aurais rayé",
+			"tu": "aurais rayé",
+			"il/elle": "aurait rayé",
+			"nous": "aurions rayé",
+			"vous": "auriez rayé",
+			"ils/elles": "auraient rayé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse rayé",
+			"tu": "eusses rayé",
+			"il/elle": "eût rayé",
+			"nous": "eussions rayé",
+			"vous": "eussiez rayé",
+			"ils/elles": "eussent rayé"
+		}
+	},
+	"participe": {
+		"présent": { "rayant": "" },
+		"passé composé": { "ayant": "rayé" },
+		"passé": {
+			"masc.sg.:": "rayé",
+			"masc.pl.:": "rayés",
+			"fém.sg.:": "rayée",
+			"fém.pl.:": "rayées"
+		}
+	},
+	"imperatif": {
+		"présent": { "raye": "", "rayons": "", "rayez": "", "": "", "raie": "" },
+		"passé": { "aie": "rayé", "ayons": "rayé", "ayez": "rayé" }
+	},
+	"infinitif": { "présent": { "rayer": "" }, "passé": { "avoir": "rayé" } }
+}

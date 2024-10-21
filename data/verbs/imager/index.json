@@ -1,0 +1,140 @@
+{
+	"name": "imager",
+	"definition": "image; embellish with images; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "s'imager/ne pas imager/ne pas s'imager",
+	"indicatif": {
+		"présent": {
+			"j'": "image",
+			"tu": "images",
+			"il/elle": "image",
+			"nous": "imageons",
+			"vous": "imagez",
+			"ils/elles": "imagent"
+		},
+		"imparfait": {
+			"j'": "imageais",
+			"tu": "imageais",
+			"il/elle": "imageait",
+			"nous": "imagions",
+			"vous": "imagiez",
+			"ils/elles": "imageaient"
+		},
+		"futur": {
+			"j'": "imagerai",
+			"tu": "imageras",
+			"il/elle": "imagera",
+			"nous": "imagerons",
+			"vous": "imagerez",
+			"ils/elles": "imageront"
+		},
+		"passé simple": {
+			"j'": "imageai",
+			"tu": "imageas",
+			"il/elle": "imagea",
+			"nous": "imageâmes",
+			"vous": "imageâtes",
+			"ils/elles": "imagèrent"
+		},
+		"passé composé": {
+			"j'": "ai imagé",
+			"tu": "as imagé",
+			"il/elle": "a imagé",
+			"nous": "avons imagé",
+			"vous": "avez imagé",
+			"ils/elles": "ont imagé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais imagé",
+			"tu": "avais imagé",
+			"il/elle": "avait imagé",
+			"nous": "avions imagé",
+			"vous": "aviez imagé",
+			"ils/elles": "avaient imagé"
+		},
+		"passé antérieur": {
+			"j'": "eus imagé",
+			"tu": "eus imagé",
+			"il/elle": "eut imagé",
+			"nous": "eûmes imagé",
+			"vous": "eûtes imagé",
+			"ils/elles": "eurent imagé"
+		},
+		"futur antérieur": {
+			"j'": "aurai imagé",
+			"tu": "auras imagé",
+			"il/elle": "aura imagé",
+			"nous": "aurons imagé",
+			"vous": "aurez imagé",
+			"ils/elles": "auront imagé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "image",
+			"que": "vous imagiez",
+			"qu'il/elle": "image",
+			"qu'ils/elles": "imagent"
+		},
+		"imparfait": {
+			"j'": "imageasse",
+			"que": "vous imageassiez",
+			"qu'il/elle": "imageât",
+			"qu'ils/elles": "imageassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse imagé",
+			"que": "vous eussiez imagé",
+			"qu'il/elle": "eût imagé",
+			"qu'ils/elles": "eussent imagé"
+		},
+		"passé": {
+			"j'": "aie imagé",
+			"que": "vous ayez imagé",
+			"qu'il/elle": "ait imagé",
+			"qu'ils/elles": "aient imagé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "imagerais",
+			"tu": "imagerais",
+			"il/elle": "imagerait",
+			"nous": "imagerions",
+			"vous": "imageriez",
+			"ils/elles": "imageraient"
+		},
+		"passé première forme": {
+			"j'": "aurais imagé",
+			"tu": "aurais imagé",
+			"il/elle": "aurait imagé",
+			"nous": "aurions imagé",
+			"vous": "auriez imagé",
+			"ils/elles": "auraient imagé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse imagé",
+			"tu": "eusses imagé",
+			"il/elle": "eût imagé",
+			"nous": "eussions imagé",
+			"vous": "eussiez imagé",
+			"ils/elles": "eussent imagé"
+		}
+	},
+	"participe": {
+		"présent": { "imageant": "" },
+		"passé composé": { "ayant": "imagé" },
+		"passé": {
+			"masc.sg.:": "imagé",
+			"masc.pl.:": "imagés",
+			"fém.sg.:": "imagée",
+			"fém.pl.:": "imagées"
+		}
+	},
+	"imperatif": {
+		"présent": { "image": "", "imageons": "", "imagez": "" },
+		"passé": { "aie": "imagé", "ayons": "imagé", "ayez": "imagé" }
+	},
+	"infinitif": { "présent": { "imager": "" }, "passé": { "avoir": "imagé" } }
+}

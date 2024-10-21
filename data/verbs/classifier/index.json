@@ -1,0 +1,141 @@
+{
+	"name": "classifier",
+	"definition": "classify; categorize; sort; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se classifier/ne pas classifier/ne pas se classifier",
+	"indicatif": {
+		"présent": {
+			"je": "classifie",
+			"tu": "classifies",
+			"il/elle": "classifie",
+			"nous": "classifions",
+			"vous": "classifiez",
+			"ils/elles": "classifient"
+		},
+		"imparfait": {
+			"je": "classifiais",
+			"tu": "classifiais",
+			"il/elle": "classifiait",
+			"nous": "classifiions",
+			"vous": "classifiiez",
+			"ils/elles": "classifiaient"
+		},
+		"futur": {
+			"je": "classifierai",
+			"tu": "classifieras",
+			"il/elle": "classifiera",
+			"nous": "classifierons",
+			"vous": "classifierez",
+			"ils/elles": "classifieront"
+		},
+		"passé simple": {
+			"je": "classifiai",
+			"tu": "classifias",
+			"il/elle": "classifia",
+			"nous": "classifiâmes",
+			"vous": "classifiâtes",
+			"ils/elles": "classifièrent"
+		},
+		"passé composé": {
+			"j'": "ai classifié",
+			"tu": "as classifié",
+			"il/elle": "a classifié",
+			"nous": "avons classifié",
+			"vous": "avez classifié",
+			"ils/elles": "ont classifié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais classifié",
+			"tu": "avais classifié",
+			"il/elle": "avait classifié",
+			"nous": "avions classifié",
+			"vous": "aviez classifié",
+			"ils/elles": "avaient classifié"
+		},
+		"passé antérieur": {
+			"j'": "eus classifié",
+			"tu": "eus classifié",
+			"il/elle": "eut classifié",
+			"nous": "eûmes classifié",
+			"vous": "eûtes classifié",
+			"ils/elles": "eurent classifié"
+		},
+		"futur antérieur": {
+			"j'": "aurai classifié",
+			"tu": "auras classifié",
+			"il/elle": "aura classifié",
+			"nous": "aurons classifié",
+			"vous": "aurez classifié",
+			"ils/elles": "auront classifié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous classifiiez",
+			"qu'il/elle": "classifie",
+			"qu'ils/elles": "classifient"
+		},
+		"imparfait": {
+			"que": "vous classifiassiez",
+			"qu'il/elle": "classifiât",
+			"qu'ils/elles": "classifiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse classifié",
+			"que": "vous eussiez classifié",
+			"qu'il/elle": "eût classifié",
+			"qu'ils/elles": "eussent classifié"
+		},
+		"passé": {
+			"j'": "aie classifié",
+			"que": "vous ayez classifié",
+			"qu'il/elle": "ait classifié",
+			"qu'ils/elles": "aient classifié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "classifierais",
+			"tu": "classifierais",
+			"il/elle": "classifierait",
+			"nous": "classifierions",
+			"vous": "classifieriez",
+			"ils/elles": "classifieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais classifié",
+			"tu": "aurais classifié",
+			"il/elle": "aurait classifié",
+			"nous": "aurions classifié",
+			"vous": "auriez classifié",
+			"ils/elles": "auraient classifié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse classifié",
+			"tu": "eusses classifié",
+			"il/elle": "eût classifié",
+			"nous": "eussions classifié",
+			"vous": "eussiez classifié",
+			"ils/elles": "eussent classifié"
+		}
+	},
+	"participe": {
+		"présent": { "classifiant": "" },
+		"passé composé": { "ayant": "classifié" },
+		"passé": {
+			"masc.sg.:": "classifié",
+			"masc.pl.:": "classifiés",
+			"fém.sg.:": "classifiée",
+			"fém.pl.:": "classifiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "classifie": "", "classifions": "", "classifiez": "" },
+		"passé": { "aie": "classifié", "ayons": "classifié", "ayez": "classifié" }
+	},
+	"infinitif": {
+		"présent": { "classifier": "" },
+		"passé": { "avoir": "classifié" }
+	}
+}

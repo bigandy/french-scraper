@@ -1,0 +1,140 @@
+{
+	"name": "omettre",
+	"definition": "omit; fail; leave out; ...",
+	"model": "mettre",
+	"auxiliary": "avoir",
+	"otherForms": "s'omettre/ne pas omettre/ne pas s'omettre",
+	"indicatif": {
+		"présent": {
+			"j'": "omets",
+			"tu": "omets",
+			"il/elle": "omet",
+			"nous": "omettons",
+			"vous": "omettez",
+			"ils/elles": "omettent"
+		},
+		"imparfait": {
+			"j'": "omettais",
+			"tu": "omettais",
+			"il/elle": "omettait",
+			"nous": "omettions",
+			"vous": "omettiez",
+			"ils/elles": "omettaient"
+		},
+		"futur": {
+			"j'": "omettrai",
+			"tu": "omettras",
+			"il/elle": "omettra",
+			"nous": "omettrons",
+			"vous": "omettrez",
+			"ils/elles": "omettront"
+		},
+		"passé simple": {
+			"j'": "omis",
+			"tu": "omis",
+			"il/elle": "omit",
+			"nous": "omîmes",
+			"vous": "omîtes",
+			"ils/elles": "omirent"
+		},
+		"passé composé": {
+			"j'": "ai omis",
+			"tu": "as omis",
+			"il/elle": "a omis",
+			"nous": "avons omis",
+			"vous": "avez omis",
+			"ils/elles": "ont omis"
+		},
+		"plus-que-parfait": {
+			"j'": "avais omis",
+			"tu": "avais omis",
+			"il/elle": "avait omis",
+			"nous": "avions omis",
+			"vous": "aviez omis",
+			"ils/elles": "avaient omis"
+		},
+		"passé antérieur": {
+			"j'": "eus omis",
+			"tu": "eus omis",
+			"il/elle": "eut omis",
+			"nous": "eûmes omis",
+			"vous": "eûtes omis",
+			"ils/elles": "eurent omis"
+		},
+		"futur antérieur": {
+			"j'": "aurai omis",
+			"tu": "auras omis",
+			"il/elle": "aura omis",
+			"nous": "aurons omis",
+			"vous": "aurez omis",
+			"ils/elles": "auront omis"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "omette",
+			"que": "vous omettiez",
+			"qu'il/elle": "omette",
+			"qu'ils/elles": "omettent"
+		},
+		"imparfait": {
+			"j'": "omisse",
+			"que": "vous omissiez",
+			"qu'il/elle": "omît",
+			"qu'ils/elles": "omissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse omis",
+			"que": "vous eussiez omis",
+			"qu'il/elle": "eût omis",
+			"qu'ils/elles": "eussent omis"
+		},
+		"passé": {
+			"j'": "aie omis",
+			"que": "vous ayez omis",
+			"qu'il/elle": "ait omis",
+			"qu'ils/elles": "aient omis"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "omettrais",
+			"tu": "omettrais",
+			"il/elle": "omettrait",
+			"nous": "omettrions",
+			"vous": "omettriez",
+			"ils/elles": "omettraient"
+		},
+		"passé première forme": {
+			"j'": "aurais omis",
+			"tu": "aurais omis",
+			"il/elle": "aurait omis",
+			"nous": "aurions omis",
+			"vous": "auriez omis",
+			"ils/elles": "auraient omis"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse omis",
+			"tu": "eusses omis",
+			"il/elle": "eût omis",
+			"nous": "eussions omis",
+			"vous": "eussiez omis",
+			"ils/elles": "eussent omis"
+		}
+	},
+	"participe": {
+		"présent": { "omettant": "" },
+		"passé composé": { "ayant": "omis" },
+		"passé": {
+			"masc.sg.:": "omis",
+			"masc.pl.:": "omis",
+			"fém.sg.:": "omise",
+			"fém.pl.:": "omises"
+		}
+	},
+	"imperatif": {
+		"présent": { "omets": "", "omettons": "", "omettez": "" },
+		"passé": { "aie": "omis", "ayons": "omis", "ayez": "omis" }
+	},
+	"infinitif": { "présent": { "omettre": "" }, "passé": { "avoir": "omis" } }
+}

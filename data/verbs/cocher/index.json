@@ -1,0 +1,138 @@
+{
+	"name": "cocher",
+	"definition": "check; tick; mark; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se cocher/ne pas cocher/ne pas se cocher",
+	"indicatif": {
+		"présent": {
+			"je": "coche",
+			"tu": "coches",
+			"il/elle": "coche",
+			"nous": "cochons",
+			"vous": "cochez",
+			"ils/elles": "cochent"
+		},
+		"imparfait": {
+			"je": "cochais",
+			"tu": "cochais",
+			"il/elle": "cochait",
+			"nous": "cochions",
+			"vous": "cochiez",
+			"ils/elles": "cochaient"
+		},
+		"futur": {
+			"je": "cocherai",
+			"tu": "cocheras",
+			"il/elle": "cochera",
+			"nous": "cocherons",
+			"vous": "cocherez",
+			"ils/elles": "cocheront"
+		},
+		"passé simple": {
+			"je": "cochai",
+			"tu": "cochas",
+			"il/elle": "cocha",
+			"nous": "cochâmes",
+			"vous": "cochâtes",
+			"ils/elles": "cochèrent"
+		},
+		"passé composé": {
+			"j'": "ai coché",
+			"tu": "as coché",
+			"il/elle": "a coché",
+			"nous": "avons coché",
+			"vous": "avez coché",
+			"ils/elles": "ont coché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais coché",
+			"tu": "avais coché",
+			"il/elle": "avait coché",
+			"nous": "avions coché",
+			"vous": "aviez coché",
+			"ils/elles": "avaient coché"
+		},
+		"passé antérieur": {
+			"j'": "eus coché",
+			"tu": "eus coché",
+			"il/elle": "eut coché",
+			"nous": "eûmes coché",
+			"vous": "eûtes coché",
+			"ils/elles": "eurent coché"
+		},
+		"futur antérieur": {
+			"j'": "aurai coché",
+			"tu": "auras coché",
+			"il/elle": "aura coché",
+			"nous": "aurons coché",
+			"vous": "aurez coché",
+			"ils/elles": "auront coché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous cochiez",
+			"qu'il/elle": "coche",
+			"qu'ils/elles": "cochent"
+		},
+		"imparfait": {
+			"que": "vous cochassiez",
+			"qu'il/elle": "cochât",
+			"qu'ils/elles": "cochassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse coché",
+			"que": "vous eussiez coché",
+			"qu'il/elle": "eût coché",
+			"qu'ils/elles": "eussent coché"
+		},
+		"passé": {
+			"j'": "aie coché",
+			"que": "vous ayez coché",
+			"qu'il/elle": "ait coché",
+			"qu'ils/elles": "aient coché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "cocherais",
+			"tu": "cocherais",
+			"il/elle": "cocherait",
+			"nous": "cocherions",
+			"vous": "cocheriez",
+			"ils/elles": "cocheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais coché",
+			"tu": "aurais coché",
+			"il/elle": "aurait coché",
+			"nous": "aurions coché",
+			"vous": "auriez coché",
+			"ils/elles": "auraient coché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse coché",
+			"tu": "eusses coché",
+			"il/elle": "eût coché",
+			"nous": "eussions coché",
+			"vous": "eussiez coché",
+			"ils/elles": "eussent coché"
+		}
+	},
+	"participe": {
+		"présent": { "cochant": "" },
+		"passé composé": { "ayant": "coché" },
+		"passé": {
+			"masc.sg.:": "coché",
+			"masc.pl.:": "cochés",
+			"fém.sg.:": "cochée",
+			"fém.pl.:": "cochées"
+		}
+	},
+	"imperatif": {
+		"présent": { "coche": "", "cochons": "", "cochez": "" },
+		"passé": { "aie": "coché", "ayons": "coché", "ayez": "coché" }
+	},
+	"infinitif": { "présent": { "cocher": "" }, "passé": { "avoir": "coché" } }
+}

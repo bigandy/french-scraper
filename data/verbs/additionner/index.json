@@ -1,0 +1,147 @@
+{
+	"name": "additionner",
+	"definition": "add; sum; add up; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'additionner/ne pas additionner/ne pas s'additionner",
+	"indicatif": {
+		"présent": {
+			"j'": "additionne",
+			"tu": "additionnes",
+			"il/elle": "additionne",
+			"nous": "additionnons",
+			"vous": "additionnez",
+			"ils/elles": "additionnent"
+		},
+		"imparfait": {
+			"j'": "additionnais",
+			"tu": "additionnais",
+			"il/elle": "additionnait",
+			"nous": "additionnions",
+			"vous": "additionniez",
+			"ils/elles": "additionnaient"
+		},
+		"futur": {
+			"j'": "additionnerai",
+			"tu": "additionneras",
+			"il/elle": "additionnera",
+			"nous": "additionnerons",
+			"vous": "additionnerez",
+			"ils/elles": "additionneront"
+		},
+		"passé simple": {
+			"j'": "additionnai",
+			"tu": "additionnas",
+			"il/elle": "additionna",
+			"nous": "additionnâmes",
+			"vous": "additionnâtes",
+			"ils/elles": "additionnèrent"
+		},
+		"passé composé": {
+			"j'": "ai additionné",
+			"tu": "as additionné",
+			"il/elle": "a additionné",
+			"nous": "avons additionné",
+			"vous": "avez additionné",
+			"ils/elles": "ont additionné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais additionné",
+			"tu": "avais additionné",
+			"il/elle": "avait additionné",
+			"nous": "avions additionné",
+			"vous": "aviez additionné",
+			"ils/elles": "avaient additionné"
+		},
+		"passé antérieur": {
+			"j'": "eus additionné",
+			"tu": "eus additionné",
+			"il/elle": "eut additionné",
+			"nous": "eûmes additionné",
+			"vous": "eûtes additionné",
+			"ils/elles": "eurent additionné"
+		},
+		"futur antérieur": {
+			"j'": "aurai additionné",
+			"tu": "auras additionné",
+			"il/elle": "aura additionné",
+			"nous": "aurons additionné",
+			"vous": "aurez additionné",
+			"ils/elles": "auront additionné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "additionne",
+			"que": "vous additionniez",
+			"qu'il/elle": "additionne",
+			"qu'ils/elles": "additionnent"
+		},
+		"imparfait": {
+			"j'": "additionnasse",
+			"que": "vous additionnassiez",
+			"qu'il/elle": "additionnât",
+			"qu'ils/elles": "additionnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse additionné",
+			"que": "vous eussiez additionné",
+			"qu'il/elle": "eût additionné",
+			"qu'ils/elles": "eussent additionné"
+		},
+		"passé": {
+			"j'": "aie additionné",
+			"que": "vous ayez additionné",
+			"qu'il/elle": "ait additionné",
+			"qu'ils/elles": "aient additionné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "additionnerais",
+			"tu": "additionnerais",
+			"il/elle": "additionnerait",
+			"nous": "additionnerions",
+			"vous": "additionneriez",
+			"ils/elles": "additionneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais additionné",
+			"tu": "aurais additionné",
+			"il/elle": "aurait additionné",
+			"nous": "aurions additionné",
+			"vous": "auriez additionné",
+			"ils/elles": "auraient additionné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse additionné",
+			"tu": "eusses additionné",
+			"il/elle": "eût additionné",
+			"nous": "eussions additionné",
+			"vous": "eussiez additionné",
+			"ils/elles": "eussent additionné"
+		}
+	},
+	"participe": {
+		"présent": { "additionnant": "" },
+		"passé composé": { "ayant": "additionné" },
+		"passé": {
+			"masc.sg.:": "additionné",
+			"masc.pl.:": "additionnés",
+			"fém.sg.:": "additionnée",
+			"fém.pl.:": "additionnées"
+		}
+	},
+	"imperatif": {
+		"présent": { "additionne": "", "additionnons": "", "additionnez": "" },
+		"passé": {
+			"aie": "additionné",
+			"ayons": "additionné",
+			"ayez": "additionné"
+		}
+	},
+	"infinitif": {
+		"présent": { "additionner": "" },
+		"passé": { "avoir": "additionné" }
+	}
+}

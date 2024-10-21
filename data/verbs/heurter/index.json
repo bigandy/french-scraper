@@ -1,0 +1,138 @@
+{
+	"name": "heurter",
+	"definition": "hit; strike; hurt; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se heurter/ne pas heurter/ne pas se heurter",
+	"indicatif": {
+		"présent": {
+			"je": "heurte",
+			"tu": "heurtes",
+			"il/elle": "heurte",
+			"nous": "heurtons",
+			"vous": "heurtez",
+			"ils/elles": "heurtent"
+		},
+		"imparfait": {
+			"je": "heurtais",
+			"tu": "heurtais",
+			"il/elle": "heurtait",
+			"nous": "heurtions",
+			"vous": "heurtiez",
+			"ils/elles": "heurtaient"
+		},
+		"futur": {
+			"je": "heurterai",
+			"tu": "heurteras",
+			"il/elle": "heurtera",
+			"nous": "heurterons",
+			"vous": "heurterez",
+			"ils/elles": "heurteront"
+		},
+		"passé simple": {
+			"je": "heurtai",
+			"tu": "heurtas",
+			"il/elle": "heurta",
+			"nous": "heurtâmes",
+			"vous": "heurtâtes",
+			"ils/elles": "heurtèrent"
+		},
+		"passé composé": {
+			"j'": "ai heurté",
+			"tu": "as heurté",
+			"il/elle": "a heurté",
+			"nous": "avons heurté",
+			"vous": "avez heurté",
+			"ils/elles": "ont heurté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais heurté",
+			"tu": "avais heurté",
+			"il/elle": "avait heurté",
+			"nous": "avions heurté",
+			"vous": "aviez heurté",
+			"ils/elles": "avaient heurté"
+		},
+		"passé antérieur": {
+			"j'": "eus heurté",
+			"tu": "eus heurté",
+			"il/elle": "eut heurté",
+			"nous": "eûmes heurté",
+			"vous": "eûtes heurté",
+			"ils/elles": "eurent heurté"
+		},
+		"futur antérieur": {
+			"j'": "aurai heurté",
+			"tu": "auras heurté",
+			"il/elle": "aura heurté",
+			"nous": "aurons heurté",
+			"vous": "aurez heurté",
+			"ils/elles": "auront heurté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous heurtiez",
+			"qu'il/elle": "heurte",
+			"qu'ils/elles": "heurtent"
+		},
+		"imparfait": {
+			"que": "vous heurtassiez",
+			"qu'il/elle": "heurtât",
+			"qu'ils/elles": "heurtassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse heurté",
+			"que": "vous eussiez heurté",
+			"qu'il/elle": "eût heurté",
+			"qu'ils/elles": "eussent heurté"
+		},
+		"passé": {
+			"j'": "aie heurté",
+			"que": "vous ayez heurté",
+			"qu'il/elle": "ait heurté",
+			"qu'ils/elles": "aient heurté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "heurterais",
+			"tu": "heurterais",
+			"il/elle": "heurterait",
+			"nous": "heurterions",
+			"vous": "heurteriez",
+			"ils/elles": "heurteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais heurté",
+			"tu": "aurais heurté",
+			"il/elle": "aurait heurté",
+			"nous": "aurions heurté",
+			"vous": "auriez heurté",
+			"ils/elles": "auraient heurté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse heurté",
+			"tu": "eusses heurté",
+			"il/elle": "eût heurté",
+			"nous": "eussions heurté",
+			"vous": "eussiez heurté",
+			"ils/elles": "eussent heurté"
+		}
+	},
+	"participe": {
+		"présent": { "heurtant": "" },
+		"passé composé": { "ayant": "heurté" },
+		"passé": {
+			"masc.sg.:": "heurté",
+			"masc.pl.:": "heurtés",
+			"fém.sg.:": "heurtée",
+			"fém.pl.:": "heurtées"
+		}
+	},
+	"imperatif": {
+		"présent": { "heurte": "", "heurtons": "", "heurtez": "" },
+		"passé": { "aie": "heurté", "ayons": "heurté", "ayez": "heurté" }
+	},
+	"infinitif": { "présent": { "heurter": "" }, "passé": { "avoir": "heurté" } }
+}

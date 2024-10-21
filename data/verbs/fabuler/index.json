@@ -1,0 +1,138 @@
+{
+	"name": "fabuler",
+	"definition": "\n              make things up; confabulate; fantasize; ...\n            ",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se fabuler/ne pas fabuler/ne pas se fabuler",
+	"indicatif": {
+		"présent": {
+			"je": "fabule",
+			"tu": "fabules",
+			"il/elle": "fabule",
+			"nous": "fabulons",
+			"vous": "fabulez",
+			"ils/elles": "fabulent"
+		},
+		"imparfait": {
+			"je": "fabulais",
+			"tu": "fabulais",
+			"il/elle": "fabulait",
+			"nous": "fabulions",
+			"vous": "fabuliez",
+			"ils/elles": "fabulaient"
+		},
+		"futur": {
+			"je": "fabulerai",
+			"tu": "fabuleras",
+			"il/elle": "fabulera",
+			"nous": "fabulerons",
+			"vous": "fabulerez",
+			"ils/elles": "fabuleront"
+		},
+		"passé simple": {
+			"je": "fabulai",
+			"tu": "fabulas",
+			"il/elle": "fabula",
+			"nous": "fabulâmes",
+			"vous": "fabulâtes",
+			"ils/elles": "fabulèrent"
+		},
+		"passé composé": {
+			"j'": "ai fabulé",
+			"tu": "as fabulé",
+			"il/elle": "a fabulé",
+			"nous": "avons fabulé",
+			"vous": "avez fabulé",
+			"ils/elles": "ont fabulé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais fabulé",
+			"tu": "avais fabulé",
+			"il/elle": "avait fabulé",
+			"nous": "avions fabulé",
+			"vous": "aviez fabulé",
+			"ils/elles": "avaient fabulé"
+		},
+		"passé antérieur": {
+			"j'": "eus fabulé",
+			"tu": "eus fabulé",
+			"il/elle": "eut fabulé",
+			"nous": "eûmes fabulé",
+			"vous": "eûtes fabulé",
+			"ils/elles": "eurent fabulé"
+		},
+		"futur antérieur": {
+			"j'": "aurai fabulé",
+			"tu": "auras fabulé",
+			"il/elle": "aura fabulé",
+			"nous": "aurons fabulé",
+			"vous": "aurez fabulé",
+			"ils/elles": "auront fabulé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous fabuliez",
+			"qu'il/elle": "fabule",
+			"qu'ils/elles": "fabulent"
+		},
+		"imparfait": {
+			"que": "vous fabulassiez",
+			"qu'il/elle": "fabulât",
+			"qu'ils/elles": "fabulassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse fabulé",
+			"que": "vous eussiez fabulé",
+			"qu'il/elle": "eût fabulé",
+			"qu'ils/elles": "eussent fabulé"
+		},
+		"passé": {
+			"j'": "aie fabulé",
+			"que": "vous ayez fabulé",
+			"qu'il/elle": "ait fabulé",
+			"qu'ils/elles": "aient fabulé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "fabulerais",
+			"tu": "fabulerais",
+			"il/elle": "fabulerait",
+			"nous": "fabulerions",
+			"vous": "fabuleriez",
+			"ils/elles": "fabuleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais fabulé",
+			"tu": "aurais fabulé",
+			"il/elle": "aurait fabulé",
+			"nous": "aurions fabulé",
+			"vous": "auriez fabulé",
+			"ils/elles": "auraient fabulé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse fabulé",
+			"tu": "eusses fabulé",
+			"il/elle": "eût fabulé",
+			"nous": "eussions fabulé",
+			"vous": "eussiez fabulé",
+			"ils/elles": "eussent fabulé"
+		}
+	},
+	"participe": {
+		"présent": { "fabulant": "" },
+		"passé composé": { "ayant": "fabulé" },
+		"passé": {
+			"masc.sg.:": "fabulé",
+			"masc.pl.:": "fabulés",
+			"fém.sg.:": "fabulée",
+			"fém.pl.:": "fabulées"
+		}
+	},
+	"imperatif": {
+		"présent": { "fabule": "", "fabulons": "", "fabulez": "" },
+		"passé": { "aie": "fabulé", "ayons": "fabulé", "ayez": "fabulé" }
+	},
+	"infinitif": { "présent": { "fabuler": "" }, "passé": { "avoir": "fabulé" } }
+}

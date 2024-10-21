@@ -1,0 +1,138 @@
+{
+	"name": "béer",
+	"definition": "gape; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas béer",
+	"indicatif": {
+		"présent": {
+			"je": "bée",
+			"tu": "bées",
+			"il/elle": "bée",
+			"nous": "béons",
+			"vous": "béez",
+			"ils/elles": "béent"
+		},
+		"imparfait": {
+			"je": "béais",
+			"tu": "béais",
+			"il/elle": "béait",
+			"nous": "béions",
+			"vous": "béiez",
+			"ils/elles": "béaient"
+		},
+		"futur": {
+			"je": "béerai",
+			"tu": "béeras",
+			"il/elle": "béera",
+			"nous": "béerons",
+			"vous": "béerez",
+			"ils/elles": "béeront"
+		},
+		"passé simple": {
+			"je": "béai",
+			"tu": "béas",
+			"il/elle": "béa",
+			"nous": "béâmes",
+			"vous": "béâtes",
+			"ils/elles": "béèrent"
+		},
+		"passé composé": {
+			"j'": "ai béé",
+			"tu": "as béé",
+			"il/elle": "a béé",
+			"nous": "avons béé",
+			"vous": "avez béé",
+			"ils/elles": "ont béé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais béé",
+			"tu": "avais béé",
+			"il/elle": "avait béé",
+			"nous": "avions béé",
+			"vous": "aviez béé",
+			"ils/elles": "avaient béé"
+		},
+		"passé antérieur": {
+			"j'": "eus béé",
+			"tu": "eus béé",
+			"il/elle": "eut béé",
+			"nous": "eûmes béé",
+			"vous": "eûtes béé",
+			"ils/elles": "eurent béé"
+		},
+		"futur antérieur": {
+			"j'": "aurai béé",
+			"tu": "auras béé",
+			"il/elle": "aura béé",
+			"nous": "aurons béé",
+			"vous": "aurez béé",
+			"ils/elles": "auront béé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous béiez",
+			"qu'il/elle": "bée",
+			"qu'ils/elles": "béent"
+		},
+		"imparfait": {
+			"que": "vous béassiez",
+			"qu'il/elle": "béât",
+			"qu'ils/elles": "béassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse béé",
+			"que": "vous eussiez béé",
+			"qu'il/elle": "eût béé",
+			"qu'ils/elles": "eussent béé"
+		},
+		"passé": {
+			"j'": "aie béé",
+			"que": "vous ayez béé",
+			"qu'il/elle": "ait béé",
+			"qu'ils/elles": "aient béé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "béerais",
+			"tu": "béerais",
+			"il/elle": "béerait",
+			"nous": "béerions",
+			"vous": "béeriez",
+			"ils/elles": "béeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais béé",
+			"tu": "aurais béé",
+			"il/elle": "aurait béé",
+			"nous": "aurions béé",
+			"vous": "auriez béé",
+			"ils/elles": "auraient béé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse béé",
+			"tu": "eusses béé",
+			"il/elle": "eût béé",
+			"nous": "eussions béé",
+			"vous": "eussiez béé",
+			"ils/elles": "eussent béé"
+		}
+	},
+	"participe": {
+		"présent": { "béant": "" },
+		"passé composé": { "ayant": "béé" },
+		"passé": {
+			"masc.sg.:": "béé",
+			"masc.pl.:": "béés",
+			"fém.sg.:": "béée",
+			"fém.pl.:": "béées"
+		}
+	},
+	"imperatif": {
+		"présent": { "bée": "", "béons": "", "béez": "" },
+		"passé": { "aie": "béé", "ayons": "béé", "ayez": "béé" }
+	},
+	"infinitif": { "présent": { "béer": "" }, "passé": { "avoir": "béé" } }
+}

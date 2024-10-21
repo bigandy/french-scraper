@@ -1,0 +1,138 @@
+{
+	"name": "diner",
+	"definition": "",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas diner",
+	"indicatif": {
+		"présent": {
+			"je": "dine",
+			"tu": "dines",
+			"il/elle": "dine",
+			"nous": "dinons",
+			"vous": "dinez",
+			"ils/elles": "dinent"
+		},
+		"imparfait": {
+			"je": "dinais",
+			"tu": "dinais",
+			"il/elle": "dinait",
+			"nous": "dinions",
+			"vous": "diniez",
+			"ils/elles": "dinaient"
+		},
+		"futur": {
+			"je": "dinerai",
+			"tu": "dineras",
+			"il/elle": "dinera",
+			"nous": "dinerons",
+			"vous": "dinerez",
+			"ils/elles": "dineront"
+		},
+		"passé simple": {
+			"je": "dinai",
+			"tu": "dinas",
+			"il/elle": "dina",
+			"nous": "dinâmes",
+			"vous": "dinâtes",
+			"ils/elles": "dinèrent"
+		},
+		"passé composé": {
+			"j'": "ai diné",
+			"tu": "as diné",
+			"il/elle": "a diné",
+			"nous": "avons diné",
+			"vous": "avez diné",
+			"ils/elles": "ont diné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais diné",
+			"tu": "avais diné",
+			"il/elle": "avait diné",
+			"nous": "avions diné",
+			"vous": "aviez diné",
+			"ils/elles": "avaient diné"
+		},
+		"passé antérieur": {
+			"j'": "eus diné",
+			"tu": "eus diné",
+			"il/elle": "eut diné",
+			"nous": "eûmes diné",
+			"vous": "eûtes diné",
+			"ils/elles": "eurent diné"
+		},
+		"futur antérieur": {
+			"j'": "aurai diné",
+			"tu": "auras diné",
+			"il/elle": "aura diné",
+			"nous": "aurons diné",
+			"vous": "aurez diné",
+			"ils/elles": "auront diné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous diniez",
+			"qu'il/elle": "dine",
+			"qu'ils/elles": "dinent"
+		},
+		"imparfait": {
+			"que": "vous dinassiez",
+			"qu'il/elle": "dinât",
+			"qu'ils/elles": "dinassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse diné",
+			"que": "vous eussiez diné",
+			"qu'il/elle": "eût diné",
+			"qu'ils/elles": "eussent diné"
+		},
+		"passé": {
+			"j'": "aie diné",
+			"que": "vous ayez diné",
+			"qu'il/elle": "ait diné",
+			"qu'ils/elles": "aient diné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "dinerais",
+			"tu": "dinerais",
+			"il/elle": "dinerait",
+			"nous": "dinerions",
+			"vous": "dineriez",
+			"ils/elles": "dineraient"
+		},
+		"passé première forme": {
+			"j'": "aurais diné",
+			"tu": "aurais diné",
+			"il/elle": "aurait diné",
+			"nous": "aurions diné",
+			"vous": "auriez diné",
+			"ils/elles": "auraient diné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse diné",
+			"tu": "eusses diné",
+			"il/elle": "eût diné",
+			"nous": "eussions diné",
+			"vous": "eussiez diné",
+			"ils/elles": "eussent diné"
+		}
+	},
+	"participe": {
+		"présent": { "dinant": "" },
+		"passé composé": { "ayant": "diné" },
+		"passé": {
+			"masc.sg.:": "diné",
+			"masc.pl.:": "dinés",
+			"fém.sg.:": "dinée",
+			"fém.pl.:": "dinées"
+		}
+	},
+	"imperatif": {
+		"présent": { "dine": "", "dinons": "", "dinez": "" },
+		"passé": { "aie": "diné", "ayons": "diné", "ayez": "diné" }
+	},
+	"infinitif": { "présent": { "diner": "" }, "passé": { "avoir": "diné" } }
+}

@@ -1,0 +1,141 @@
+{
+	"name": "stipuler",
+	"definition": "stipulate; provide; specify; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se stipuler/ne pas stipuler/ne pas se stipuler",
+	"indicatif": {
+		"présent": {
+			"je": "stipule",
+			"tu": "stipules",
+			"il/elle": "stipule",
+			"nous": "stipulons",
+			"vous": "stipulez",
+			"ils/elles": "stipulent"
+		},
+		"imparfait": {
+			"je": "stipulais",
+			"tu": "stipulais",
+			"il/elle": "stipulait",
+			"nous": "stipulions",
+			"vous": "stipuliez",
+			"ils/elles": "stipulaient"
+		},
+		"futur": {
+			"je": "stipulerai",
+			"tu": "stipuleras",
+			"il/elle": "stipulera",
+			"nous": "stipulerons",
+			"vous": "stipulerez",
+			"ils/elles": "stipuleront"
+		},
+		"passé simple": {
+			"je": "stipulai",
+			"tu": "stipulas",
+			"il/elle": "stipula",
+			"nous": "stipulâmes",
+			"vous": "stipulâtes",
+			"ils/elles": "stipulèrent"
+		},
+		"passé composé": {
+			"j'": "ai stipulé",
+			"tu": "as stipulé",
+			"il/elle": "a stipulé",
+			"nous": "avons stipulé",
+			"vous": "avez stipulé",
+			"ils/elles": "ont stipulé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais stipulé",
+			"tu": "avais stipulé",
+			"il/elle": "avait stipulé",
+			"nous": "avions stipulé",
+			"vous": "aviez stipulé",
+			"ils/elles": "avaient stipulé"
+		},
+		"passé antérieur": {
+			"j'": "eus stipulé",
+			"tu": "eus stipulé",
+			"il/elle": "eut stipulé",
+			"nous": "eûmes stipulé",
+			"vous": "eûtes stipulé",
+			"ils/elles": "eurent stipulé"
+		},
+		"futur antérieur": {
+			"j'": "aurai stipulé",
+			"tu": "auras stipulé",
+			"il/elle": "aura stipulé",
+			"nous": "aurons stipulé",
+			"vous": "aurez stipulé",
+			"ils/elles": "auront stipulé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous stipuliez",
+			"qu'il/elle": "stipule",
+			"qu'ils/elles": "stipulent"
+		},
+		"imparfait": {
+			"que": "vous stipulassiez",
+			"qu'il/elle": "stipulât",
+			"qu'ils/elles": "stipulassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse stipulé",
+			"que": "vous eussiez stipulé",
+			"qu'il/elle": "eût stipulé",
+			"qu'ils/elles": "eussent stipulé"
+		},
+		"passé": {
+			"j'": "aie stipulé",
+			"que": "vous ayez stipulé",
+			"qu'il/elle": "ait stipulé",
+			"qu'ils/elles": "aient stipulé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "stipulerais",
+			"tu": "stipulerais",
+			"il/elle": "stipulerait",
+			"nous": "stipulerions",
+			"vous": "stipuleriez",
+			"ils/elles": "stipuleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais stipulé",
+			"tu": "aurais stipulé",
+			"il/elle": "aurait stipulé",
+			"nous": "aurions stipulé",
+			"vous": "auriez stipulé",
+			"ils/elles": "auraient stipulé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse stipulé",
+			"tu": "eusses stipulé",
+			"il/elle": "eût stipulé",
+			"nous": "eussions stipulé",
+			"vous": "eussiez stipulé",
+			"ils/elles": "eussent stipulé"
+		}
+	},
+	"participe": {
+		"présent": { "stipulant": "" },
+		"passé composé": { "ayant": "stipulé" },
+		"passé": {
+			"masc.sg.:": "stipulé",
+			"masc.pl.:": "stipulés",
+			"fém.sg.:": "stipulée",
+			"fém.pl.:": "stipulées"
+		}
+	},
+	"imperatif": {
+		"présent": { "stipule": "", "stipulons": "", "stipulez": "" },
+		"passé": { "aie": "stipulé", "ayons": "stipulé", "ayez": "stipulé" }
+	},
+	"infinitif": {
+		"présent": { "stipuler": "" },
+		"passé": { "avoir": "stipulé" }
+	}
+}

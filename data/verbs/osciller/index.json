@@ -1,0 +1,143 @@
+{
+	"name": "osciller",
+	"definition": "oscillate; swing; rock; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas osciller",
+	"indicatif": {
+		"présent": {
+			"j'": "oscille",
+			"tu": "oscilles",
+			"il/elle": "oscille",
+			"nous": "oscillons",
+			"vous": "oscillez",
+			"ils/elles": "oscillent"
+		},
+		"imparfait": {
+			"j'": "oscillais",
+			"tu": "oscillais",
+			"il/elle": "oscillait",
+			"nous": "oscillions",
+			"vous": "oscilliez",
+			"ils/elles": "oscillaient"
+		},
+		"futur": {
+			"j'": "oscillerai",
+			"tu": "oscilleras",
+			"il/elle": "oscillera",
+			"nous": "oscillerons",
+			"vous": "oscillerez",
+			"ils/elles": "oscilleront"
+		},
+		"passé simple": {
+			"j'": "oscillai",
+			"tu": "oscillas",
+			"il/elle": "oscilla",
+			"nous": "oscillâmes",
+			"vous": "oscillâtes",
+			"ils/elles": "oscillèrent"
+		},
+		"passé composé": {
+			"j'": "ai oscillé",
+			"tu": "as oscillé",
+			"il/elle": "a oscillé",
+			"nous": "avons oscillé",
+			"vous": "avez oscillé",
+			"ils/elles": "ont oscillé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais oscillé",
+			"tu": "avais oscillé",
+			"il/elle": "avait oscillé",
+			"nous": "avions oscillé",
+			"vous": "aviez oscillé",
+			"ils/elles": "avaient oscillé"
+		},
+		"passé antérieur": {
+			"j'": "eus oscillé",
+			"tu": "eus oscillé",
+			"il/elle": "eut oscillé",
+			"nous": "eûmes oscillé",
+			"vous": "eûtes oscillé",
+			"ils/elles": "eurent oscillé"
+		},
+		"futur antérieur": {
+			"j'": "aurai oscillé",
+			"tu": "auras oscillé",
+			"il/elle": "aura oscillé",
+			"nous": "aurons oscillé",
+			"vous": "aurez oscillé",
+			"ils/elles": "auront oscillé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "oscille",
+			"que": "vous oscilliez",
+			"qu'il/elle": "oscille",
+			"qu'ils/elles": "oscillent"
+		},
+		"imparfait": {
+			"j'": "oscillasse",
+			"que": "vous oscillassiez",
+			"qu'il/elle": "oscillât",
+			"qu'ils/elles": "oscillassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse oscillé",
+			"que": "vous eussiez oscillé",
+			"qu'il/elle": "eût oscillé",
+			"qu'ils/elles": "eussent oscillé"
+		},
+		"passé": {
+			"j'": "aie oscillé",
+			"que": "vous ayez oscillé",
+			"qu'il/elle": "ait oscillé",
+			"qu'ils/elles": "aient oscillé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "oscillerais",
+			"tu": "oscillerais",
+			"il/elle": "oscillerait",
+			"nous": "oscillerions",
+			"vous": "oscilleriez",
+			"ils/elles": "oscilleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais oscillé",
+			"tu": "aurais oscillé",
+			"il/elle": "aurait oscillé",
+			"nous": "aurions oscillé",
+			"vous": "auriez oscillé",
+			"ils/elles": "auraient oscillé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse oscillé",
+			"tu": "eusses oscillé",
+			"il/elle": "eût oscillé",
+			"nous": "eussions oscillé",
+			"vous": "eussiez oscillé",
+			"ils/elles": "eussent oscillé"
+		}
+	},
+	"participe": {
+		"présent": { "oscillant": "" },
+		"passé composé": { "ayant": "oscillé" },
+		"passé": {
+			"masc.sg.:": "oscillé",
+			"masc.pl.:": "oscillés",
+			"fém.sg.:": "oscillée",
+			"fém.pl.:": "oscillées"
+		}
+	},
+	"imperatif": {
+		"présent": { "oscille": "", "oscillons": "", "oscillez": "" },
+		"passé": { "aie": "oscillé", "ayons": "oscillé", "ayez": "oscillé" }
+	},
+	"infinitif": {
+		"présent": { "osciller": "" },
+		"passé": { "avoir": "oscillé" }
+	}
+}

@@ -1,0 +1,138 @@
+{
+	"name": "border",
+	"definition": "border; tuck; edge; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se border/ne pas border/ne pas se border",
+	"indicatif": {
+		"présent": {
+			"je": "borde",
+			"tu": "bordes",
+			"il/elle": "borde",
+			"nous": "bordons",
+			"vous": "bordez",
+			"ils/elles": "bordent"
+		},
+		"imparfait": {
+			"je": "bordais",
+			"tu": "bordais",
+			"il/elle": "bordait",
+			"nous": "bordions",
+			"vous": "bordiez",
+			"ils/elles": "bordaient"
+		},
+		"futur": {
+			"je": "borderai",
+			"tu": "borderas",
+			"il/elle": "bordera",
+			"nous": "borderons",
+			"vous": "borderez",
+			"ils/elles": "borderont"
+		},
+		"passé simple": {
+			"je": "bordai",
+			"tu": "bordas",
+			"il/elle": "borda",
+			"nous": "bordâmes",
+			"vous": "bordâtes",
+			"ils/elles": "bordèrent"
+		},
+		"passé composé": {
+			"j'": "ai bordé",
+			"tu": "as bordé",
+			"il/elle": "a bordé",
+			"nous": "avons bordé",
+			"vous": "avez bordé",
+			"ils/elles": "ont bordé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais bordé",
+			"tu": "avais bordé",
+			"il/elle": "avait bordé",
+			"nous": "avions bordé",
+			"vous": "aviez bordé",
+			"ils/elles": "avaient bordé"
+		},
+		"passé antérieur": {
+			"j'": "eus bordé",
+			"tu": "eus bordé",
+			"il/elle": "eut bordé",
+			"nous": "eûmes bordé",
+			"vous": "eûtes bordé",
+			"ils/elles": "eurent bordé"
+		},
+		"futur antérieur": {
+			"j'": "aurai bordé",
+			"tu": "auras bordé",
+			"il/elle": "aura bordé",
+			"nous": "aurons bordé",
+			"vous": "aurez bordé",
+			"ils/elles": "auront bordé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous bordiez",
+			"qu'il/elle": "borde",
+			"qu'ils/elles": "bordent"
+		},
+		"imparfait": {
+			"que": "vous bordassiez",
+			"qu'il/elle": "bordât",
+			"qu'ils/elles": "bordassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse bordé",
+			"que": "vous eussiez bordé",
+			"qu'il/elle": "eût bordé",
+			"qu'ils/elles": "eussent bordé"
+		},
+		"passé": {
+			"j'": "aie bordé",
+			"que": "vous ayez bordé",
+			"qu'il/elle": "ait bordé",
+			"qu'ils/elles": "aient bordé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "borderais",
+			"tu": "borderais",
+			"il/elle": "borderait",
+			"nous": "borderions",
+			"vous": "borderiez",
+			"ils/elles": "borderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais bordé",
+			"tu": "aurais bordé",
+			"il/elle": "aurait bordé",
+			"nous": "aurions bordé",
+			"vous": "auriez bordé",
+			"ils/elles": "auraient bordé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse bordé",
+			"tu": "eusses bordé",
+			"il/elle": "eût bordé",
+			"nous": "eussions bordé",
+			"vous": "eussiez bordé",
+			"ils/elles": "eussent bordé"
+		}
+	},
+	"participe": {
+		"présent": { "bordant": "" },
+		"passé composé": { "ayant": "bordé" },
+		"passé": {
+			"masc.sg.:": "bordé",
+			"masc.pl.:": "bordés",
+			"fém.sg.:": "bordée",
+			"fém.pl.:": "bordées"
+		}
+	},
+	"imperatif": {
+		"présent": { "borde": "", "bordons": "", "bordez": "" },
+		"passé": { "aie": "bordé", "ayons": "bordé", "ayez": "bordé" }
+	},
+	"infinitif": { "présent": { "border": "" }, "passé": { "avoir": "bordé" } }
+}

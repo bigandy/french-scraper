@@ -1,0 +1,141 @@
+{
+	"name": "vaporiser",
+	"definition": "vaporize; spray; vaporise; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se vaporiser/ne pas vaporiser/ne pas se vaporiser",
+	"indicatif": {
+		"présent": {
+			"je": "vaporise",
+			"tu": "vaporises",
+			"il/elle": "vaporise",
+			"nous": "vaporisons",
+			"vous": "vaporisez",
+			"ils/elles": "vaporisent"
+		},
+		"imparfait": {
+			"je": "vaporisais",
+			"tu": "vaporisais",
+			"il/elle": "vaporisait",
+			"nous": "vaporisions",
+			"vous": "vaporisiez",
+			"ils/elles": "vaporisaient"
+		},
+		"futur": {
+			"je": "vaporiserai",
+			"tu": "vaporiseras",
+			"il/elle": "vaporisera",
+			"nous": "vaporiserons",
+			"vous": "vaporiserez",
+			"ils/elles": "vaporiseront"
+		},
+		"passé simple": {
+			"je": "vaporisai",
+			"tu": "vaporisas",
+			"il/elle": "vaporisa",
+			"nous": "vaporisâmes",
+			"vous": "vaporisâtes",
+			"ils/elles": "vaporisèrent"
+		},
+		"passé composé": {
+			"j'": "ai vaporisé",
+			"tu": "as vaporisé",
+			"il/elle": "a vaporisé",
+			"nous": "avons vaporisé",
+			"vous": "avez vaporisé",
+			"ils/elles": "ont vaporisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais vaporisé",
+			"tu": "avais vaporisé",
+			"il/elle": "avait vaporisé",
+			"nous": "avions vaporisé",
+			"vous": "aviez vaporisé",
+			"ils/elles": "avaient vaporisé"
+		},
+		"passé antérieur": {
+			"j'": "eus vaporisé",
+			"tu": "eus vaporisé",
+			"il/elle": "eut vaporisé",
+			"nous": "eûmes vaporisé",
+			"vous": "eûtes vaporisé",
+			"ils/elles": "eurent vaporisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai vaporisé",
+			"tu": "auras vaporisé",
+			"il/elle": "aura vaporisé",
+			"nous": "aurons vaporisé",
+			"vous": "aurez vaporisé",
+			"ils/elles": "auront vaporisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous vaporisiez",
+			"qu'il/elle": "vaporise",
+			"qu'ils/elles": "vaporisent"
+		},
+		"imparfait": {
+			"que": "vous vaporisassiez",
+			"qu'il/elle": "vaporisât",
+			"qu'ils/elles": "vaporisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse vaporisé",
+			"que": "vous eussiez vaporisé",
+			"qu'il/elle": "eût vaporisé",
+			"qu'ils/elles": "eussent vaporisé"
+		},
+		"passé": {
+			"j'": "aie vaporisé",
+			"que": "vous ayez vaporisé",
+			"qu'il/elle": "ait vaporisé",
+			"qu'ils/elles": "aient vaporisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "vaporiserais",
+			"tu": "vaporiserais",
+			"il/elle": "vaporiserait",
+			"nous": "vaporiserions",
+			"vous": "vaporiseriez",
+			"ils/elles": "vaporiseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais vaporisé",
+			"tu": "aurais vaporisé",
+			"il/elle": "aurait vaporisé",
+			"nous": "aurions vaporisé",
+			"vous": "auriez vaporisé",
+			"ils/elles": "auraient vaporisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse vaporisé",
+			"tu": "eusses vaporisé",
+			"il/elle": "eût vaporisé",
+			"nous": "eussions vaporisé",
+			"vous": "eussiez vaporisé",
+			"ils/elles": "eussent vaporisé"
+		}
+	},
+	"participe": {
+		"présent": { "vaporisant": "" },
+		"passé composé": { "ayant": "vaporisé" },
+		"passé": {
+			"masc.sg.:": "vaporisé",
+			"masc.pl.:": "vaporisés",
+			"fém.sg.:": "vaporisée",
+			"fém.pl.:": "vaporisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "vaporise": "", "vaporisons": "", "vaporisez": "" },
+		"passé": { "aie": "vaporisé", "ayons": "vaporisé", "ayez": "vaporisé" }
+	},
+	"infinitif": {
+		"présent": { "vaporiser": "" },
+		"passé": { "avoir": "vaporisé" }
+	}
+}

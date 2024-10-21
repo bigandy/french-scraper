@@ -1,0 +1,140 @@
+{
+	"name": "indexer",
+	"definition": "index; peg; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'indexer/ne pas indexer/ne pas s'indexer",
+	"indicatif": {
+		"présent": {
+			"j'": "indexe",
+			"tu": "indexes",
+			"il/elle": "indexe",
+			"nous": "indexons",
+			"vous": "indexez",
+			"ils/elles": "indexent"
+		},
+		"imparfait": {
+			"j'": "indexais",
+			"tu": "indexais",
+			"il/elle": "indexait",
+			"nous": "indexions",
+			"vous": "indexiez",
+			"ils/elles": "indexaient"
+		},
+		"futur": {
+			"j'": "indexerai",
+			"tu": "indexeras",
+			"il/elle": "indexera",
+			"nous": "indexerons",
+			"vous": "indexerez",
+			"ils/elles": "indexeront"
+		},
+		"passé simple": {
+			"j'": "indexai",
+			"tu": "indexas",
+			"il/elle": "indexa",
+			"nous": "indexâmes",
+			"vous": "indexâtes",
+			"ils/elles": "indexèrent"
+		},
+		"passé composé": {
+			"j'": "ai indexé",
+			"tu": "as indexé",
+			"il/elle": "a indexé",
+			"nous": "avons indexé",
+			"vous": "avez indexé",
+			"ils/elles": "ont indexé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais indexé",
+			"tu": "avais indexé",
+			"il/elle": "avait indexé",
+			"nous": "avions indexé",
+			"vous": "aviez indexé",
+			"ils/elles": "avaient indexé"
+		},
+		"passé antérieur": {
+			"j'": "eus indexé",
+			"tu": "eus indexé",
+			"il/elle": "eut indexé",
+			"nous": "eûmes indexé",
+			"vous": "eûtes indexé",
+			"ils/elles": "eurent indexé"
+		},
+		"futur antérieur": {
+			"j'": "aurai indexé",
+			"tu": "auras indexé",
+			"il/elle": "aura indexé",
+			"nous": "aurons indexé",
+			"vous": "aurez indexé",
+			"ils/elles": "auront indexé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "indexe",
+			"que": "vous indexiez",
+			"qu'il/elle": "indexe",
+			"qu'ils/elles": "indexent"
+		},
+		"imparfait": {
+			"j'": "indexasse",
+			"que": "vous indexassiez",
+			"qu'il/elle": "indexât",
+			"qu'ils/elles": "indexassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse indexé",
+			"que": "vous eussiez indexé",
+			"qu'il/elle": "eût indexé",
+			"qu'ils/elles": "eussent indexé"
+		},
+		"passé": {
+			"j'": "aie indexé",
+			"que": "vous ayez indexé",
+			"qu'il/elle": "ait indexé",
+			"qu'ils/elles": "aient indexé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "indexerais",
+			"tu": "indexerais",
+			"il/elle": "indexerait",
+			"nous": "indexerions",
+			"vous": "indexeriez",
+			"ils/elles": "indexeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais indexé",
+			"tu": "aurais indexé",
+			"il/elle": "aurait indexé",
+			"nous": "aurions indexé",
+			"vous": "auriez indexé",
+			"ils/elles": "auraient indexé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse indexé",
+			"tu": "eusses indexé",
+			"il/elle": "eût indexé",
+			"nous": "eussions indexé",
+			"vous": "eussiez indexé",
+			"ils/elles": "eussent indexé"
+		}
+	},
+	"participe": {
+		"présent": { "indexant": "" },
+		"passé composé": { "ayant": "indexé" },
+		"passé": {
+			"masc.sg.:": "indexé",
+			"masc.pl.:": "indexés",
+			"fém.sg.:": "indexée",
+			"fém.pl.:": "indexées"
+		}
+	},
+	"imperatif": {
+		"présent": { "indexe": "", "indexons": "", "indexez": "" },
+		"passé": { "aie": "indexé", "ayons": "indexé", "ayez": "indexé" }
+	},
+	"infinitif": { "présent": { "indexer": "" }, "passé": { "avoir": "indexé" } }
+}

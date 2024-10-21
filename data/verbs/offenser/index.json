@@ -1,0 +1,143 @@
+{
+	"name": "offenser",
+	"definition": "offend; insult; cause offence; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'offenser/ne pas offenser/ne pas s'offenser",
+	"indicatif": {
+		"présent": {
+			"j'": "offense",
+			"tu": "offenses",
+			"il/elle": "offense",
+			"nous": "offensons",
+			"vous": "offensez",
+			"ils/elles": "offensent"
+		},
+		"imparfait": {
+			"j'": "offensais",
+			"tu": "offensais",
+			"il/elle": "offensait",
+			"nous": "offensions",
+			"vous": "offensiez",
+			"ils/elles": "offensaient"
+		},
+		"futur": {
+			"j'": "offenserai",
+			"tu": "offenseras",
+			"il/elle": "offensera",
+			"nous": "offenserons",
+			"vous": "offenserez",
+			"ils/elles": "offenseront"
+		},
+		"passé simple": {
+			"j'": "offensai",
+			"tu": "offensas",
+			"il/elle": "offensa",
+			"nous": "offensâmes",
+			"vous": "offensâtes",
+			"ils/elles": "offensèrent"
+		},
+		"passé composé": {
+			"j'": "ai offensé",
+			"tu": "as offensé",
+			"il/elle": "a offensé",
+			"nous": "avons offensé",
+			"vous": "avez offensé",
+			"ils/elles": "ont offensé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais offensé",
+			"tu": "avais offensé",
+			"il/elle": "avait offensé",
+			"nous": "avions offensé",
+			"vous": "aviez offensé",
+			"ils/elles": "avaient offensé"
+		},
+		"passé antérieur": {
+			"j'": "eus offensé",
+			"tu": "eus offensé",
+			"il/elle": "eut offensé",
+			"nous": "eûmes offensé",
+			"vous": "eûtes offensé",
+			"ils/elles": "eurent offensé"
+		},
+		"futur antérieur": {
+			"j'": "aurai offensé",
+			"tu": "auras offensé",
+			"il/elle": "aura offensé",
+			"nous": "aurons offensé",
+			"vous": "aurez offensé",
+			"ils/elles": "auront offensé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "offense",
+			"que": "vous offensiez",
+			"qu'il/elle": "offense",
+			"qu'ils/elles": "offensent"
+		},
+		"imparfait": {
+			"j'": "offensasse",
+			"que": "vous offensassiez",
+			"qu'il/elle": "offensât",
+			"qu'ils/elles": "offensassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse offensé",
+			"que": "vous eussiez offensé",
+			"qu'il/elle": "eût offensé",
+			"qu'ils/elles": "eussent offensé"
+		},
+		"passé": {
+			"j'": "aie offensé",
+			"que": "vous ayez offensé",
+			"qu'il/elle": "ait offensé",
+			"qu'ils/elles": "aient offensé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "offenserais",
+			"tu": "offenserais",
+			"il/elle": "offenserait",
+			"nous": "offenserions",
+			"vous": "offenseriez",
+			"ils/elles": "offenseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais offensé",
+			"tu": "aurais offensé",
+			"il/elle": "aurait offensé",
+			"nous": "aurions offensé",
+			"vous": "auriez offensé",
+			"ils/elles": "auraient offensé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse offensé",
+			"tu": "eusses offensé",
+			"il/elle": "eût offensé",
+			"nous": "eussions offensé",
+			"vous": "eussiez offensé",
+			"ils/elles": "eussent offensé"
+		}
+	},
+	"participe": {
+		"présent": { "offensant": "" },
+		"passé composé": { "ayant": "offensé" },
+		"passé": {
+			"masc.sg.:": "offensé",
+			"masc.pl.:": "offensés",
+			"fém.sg.:": "offensée",
+			"fém.pl.:": "offensées"
+		}
+	},
+	"imperatif": {
+		"présent": { "offense": "", "offensons": "", "offensez": "" },
+		"passé": { "aie": "offensé", "ayons": "offensé", "ayez": "offensé" }
+	},
+	"infinitif": {
+		"présent": { "offenser": "" },
+		"passé": { "avoir": "offensé" }
+	}
+}

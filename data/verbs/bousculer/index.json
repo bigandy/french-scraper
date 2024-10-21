@@ -1,0 +1,141 @@
+{
+	"name": "bousculer",
+	"definition": "push; rush; shove; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se bousculer/ne pas bousculer/ne pas se bousculer",
+	"indicatif": {
+		"présent": {
+			"je": "bouscule",
+			"tu": "bouscules",
+			"il/elle": "bouscule",
+			"nous": "bousculons",
+			"vous": "bousculez",
+			"ils/elles": "bousculent"
+		},
+		"imparfait": {
+			"je": "bousculais",
+			"tu": "bousculais",
+			"il/elle": "bousculait",
+			"nous": "bousculions",
+			"vous": "bousculiez",
+			"ils/elles": "bousculaient"
+		},
+		"futur": {
+			"je": "bousculerai",
+			"tu": "bousculeras",
+			"il/elle": "bousculera",
+			"nous": "bousculerons",
+			"vous": "bousculerez",
+			"ils/elles": "bousculeront"
+		},
+		"passé simple": {
+			"je": "bousculai",
+			"tu": "bousculas",
+			"il/elle": "bouscula",
+			"nous": "bousculâmes",
+			"vous": "bousculâtes",
+			"ils/elles": "bousculèrent"
+		},
+		"passé composé": {
+			"j'": "ai bousculé",
+			"tu": "as bousculé",
+			"il/elle": "a bousculé",
+			"nous": "avons bousculé",
+			"vous": "avez bousculé",
+			"ils/elles": "ont bousculé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais bousculé",
+			"tu": "avais bousculé",
+			"il/elle": "avait bousculé",
+			"nous": "avions bousculé",
+			"vous": "aviez bousculé",
+			"ils/elles": "avaient bousculé"
+		},
+		"passé antérieur": {
+			"j'": "eus bousculé",
+			"tu": "eus bousculé",
+			"il/elle": "eut bousculé",
+			"nous": "eûmes bousculé",
+			"vous": "eûtes bousculé",
+			"ils/elles": "eurent bousculé"
+		},
+		"futur antérieur": {
+			"j'": "aurai bousculé",
+			"tu": "auras bousculé",
+			"il/elle": "aura bousculé",
+			"nous": "aurons bousculé",
+			"vous": "aurez bousculé",
+			"ils/elles": "auront bousculé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous bousculiez",
+			"qu'il/elle": "bouscule",
+			"qu'ils/elles": "bousculent"
+		},
+		"imparfait": {
+			"que": "vous bousculassiez",
+			"qu'il/elle": "bousculât",
+			"qu'ils/elles": "bousculassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse bousculé",
+			"que": "vous eussiez bousculé",
+			"qu'il/elle": "eût bousculé",
+			"qu'ils/elles": "eussent bousculé"
+		},
+		"passé": {
+			"j'": "aie bousculé",
+			"que": "vous ayez bousculé",
+			"qu'il/elle": "ait bousculé",
+			"qu'ils/elles": "aient bousculé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "bousculerais",
+			"tu": "bousculerais",
+			"il/elle": "bousculerait",
+			"nous": "bousculerions",
+			"vous": "bousculeriez",
+			"ils/elles": "bousculeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais bousculé",
+			"tu": "aurais bousculé",
+			"il/elle": "aurait bousculé",
+			"nous": "aurions bousculé",
+			"vous": "auriez bousculé",
+			"ils/elles": "auraient bousculé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse bousculé",
+			"tu": "eusses bousculé",
+			"il/elle": "eût bousculé",
+			"nous": "eussions bousculé",
+			"vous": "eussiez bousculé",
+			"ils/elles": "eussent bousculé"
+		}
+	},
+	"participe": {
+		"présent": { "bousculant": "" },
+		"passé composé": { "ayant": "bousculé" },
+		"passé": {
+			"masc.sg.:": "bousculé",
+			"masc.pl.:": "bousculés",
+			"fém.sg.:": "bousculée",
+			"fém.pl.:": "bousculées"
+		}
+	},
+	"imperatif": {
+		"présent": { "bouscule": "", "bousculons": "", "bousculez": "" },
+		"passé": { "aie": "bousculé", "ayons": "bousculé", "ayez": "bousculé" }
+	},
+	"infinitif": {
+		"présent": { "bousculer": "" },
+		"passé": { "avoir": "bousculé" }
+	}
+}

@@ -1,0 +1,141 @@
+{
+	"name": "brouiller",
+	"definition": "scramble; blur; jam; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se brouiller/ne pas brouiller/ne pas se brouiller",
+	"indicatif": {
+		"présent": {
+			"je": "brouille",
+			"tu": "brouilles",
+			"il/elle": "brouille",
+			"nous": "brouillons",
+			"vous": "brouillez",
+			"ils/elles": "brouillent"
+		},
+		"imparfait": {
+			"je": "brouillais",
+			"tu": "brouillais",
+			"il/elle": "brouillait",
+			"nous": "brouillions",
+			"vous": "brouilliez",
+			"ils/elles": "brouillaient"
+		},
+		"futur": {
+			"je": "brouillerai",
+			"tu": "brouilleras",
+			"il/elle": "brouillera",
+			"nous": "brouillerons",
+			"vous": "brouillerez",
+			"ils/elles": "brouilleront"
+		},
+		"passé simple": {
+			"je": "brouillai",
+			"tu": "brouillas",
+			"il/elle": "brouilla",
+			"nous": "brouillâmes",
+			"vous": "brouillâtes",
+			"ils/elles": "brouillèrent"
+		},
+		"passé composé": {
+			"j'": "ai brouillé",
+			"tu": "as brouillé",
+			"il/elle": "a brouillé",
+			"nous": "avons brouillé",
+			"vous": "avez brouillé",
+			"ils/elles": "ont brouillé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais brouillé",
+			"tu": "avais brouillé",
+			"il/elle": "avait brouillé",
+			"nous": "avions brouillé",
+			"vous": "aviez brouillé",
+			"ils/elles": "avaient brouillé"
+		},
+		"passé antérieur": {
+			"j'": "eus brouillé",
+			"tu": "eus brouillé",
+			"il/elle": "eut brouillé",
+			"nous": "eûmes brouillé",
+			"vous": "eûtes brouillé",
+			"ils/elles": "eurent brouillé"
+		},
+		"futur antérieur": {
+			"j'": "aurai brouillé",
+			"tu": "auras brouillé",
+			"il/elle": "aura brouillé",
+			"nous": "aurons brouillé",
+			"vous": "aurez brouillé",
+			"ils/elles": "auront brouillé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous brouilliez",
+			"qu'il/elle": "brouille",
+			"qu'ils/elles": "brouillent"
+		},
+		"imparfait": {
+			"que": "vous brouillassiez",
+			"qu'il/elle": "brouillât",
+			"qu'ils/elles": "brouillassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse brouillé",
+			"que": "vous eussiez brouillé",
+			"qu'il/elle": "eût brouillé",
+			"qu'ils/elles": "eussent brouillé"
+		},
+		"passé": {
+			"j'": "aie brouillé",
+			"que": "vous ayez brouillé",
+			"qu'il/elle": "ait brouillé",
+			"qu'ils/elles": "aient brouillé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "brouillerais",
+			"tu": "brouillerais",
+			"il/elle": "brouillerait",
+			"nous": "brouillerions",
+			"vous": "brouilleriez",
+			"ils/elles": "brouilleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais brouillé",
+			"tu": "aurais brouillé",
+			"il/elle": "aurait brouillé",
+			"nous": "aurions brouillé",
+			"vous": "auriez brouillé",
+			"ils/elles": "auraient brouillé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse brouillé",
+			"tu": "eusses brouillé",
+			"il/elle": "eût brouillé",
+			"nous": "eussions brouillé",
+			"vous": "eussiez brouillé",
+			"ils/elles": "eussent brouillé"
+		}
+	},
+	"participe": {
+		"présent": { "brouillant": "" },
+		"passé composé": { "ayant": "brouillé" },
+		"passé": {
+			"masc.sg.:": "brouillé",
+			"masc.pl.:": "brouillés",
+			"fém.sg.:": "brouillée",
+			"fém.pl.:": "brouillées"
+		}
+	},
+	"imperatif": {
+		"présent": { "brouille": "", "brouillons": "", "brouillez": "" },
+		"passé": { "aie": "brouillé", "ayons": "brouillé", "ayez": "brouillé" }
+	},
+	"infinitif": {
+		"présent": { "brouiller": "" },
+		"passé": { "avoir": "brouillé" }
+	}
+}

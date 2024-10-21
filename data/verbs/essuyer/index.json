@@ -1,0 +1,140 @@
+{
+	"name": "essuyer",
+	"definition": "wipe; dry; wipe off; ...",
+	"model": "balayer",
+	"auxiliary": "avoir",
+	"otherForms": "s'essuyer/ne pas essuyer/ne pas s'essuyer",
+	"indicatif": {
+		"présent": {
+			"j'": "essuie",
+			"tu": "essuies",
+			"il/elle": "essuie",
+			"nous": "essuyons",
+			"vous": "essuyez",
+			"ils/elles": "essuient"
+		},
+		"imparfait": {
+			"j'": "essuyais",
+			"tu": "essuyais",
+			"il/elle": "essuyait",
+			"nous": "essuyions",
+			"vous": "essuyiez",
+			"ils/elles": "essuyaient"
+		},
+		"futur": {
+			"j'": "essuierai",
+			"tu": "essuieras",
+			"il/elle": "essuiera",
+			"nous": "essuierons",
+			"vous": "essuierez",
+			"ils/elles": "essuieront"
+		},
+		"passé simple": {
+			"j'": "essuyai",
+			"tu": "essuyas",
+			"il/elle": "essuya",
+			"nous": "essuyâmes",
+			"vous": "essuyâtes",
+			"ils/elles": "essuyèrent"
+		},
+		"passé composé": {
+			"j'": "ai essuyé",
+			"tu": "as essuyé",
+			"il/elle": "a essuyé",
+			"nous": "avons essuyé",
+			"vous": "avez essuyé",
+			"ils/elles": "ont essuyé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais essuyé",
+			"tu": "avais essuyé",
+			"il/elle": "avait essuyé",
+			"nous": "avions essuyé",
+			"vous": "aviez essuyé",
+			"ils/elles": "avaient essuyé"
+		},
+		"passé antérieur": {
+			"j'": "eus essuyé",
+			"tu": "eus essuyé",
+			"il/elle": "eut essuyé",
+			"nous": "eûmes essuyé",
+			"vous": "eûtes essuyé",
+			"ils/elles": "eurent essuyé"
+		},
+		"futur antérieur": {
+			"j'": "aurai essuyé",
+			"tu": "auras essuyé",
+			"il/elle": "aura essuyé",
+			"nous": "aurons essuyé",
+			"vous": "aurez essuyé",
+			"ils/elles": "auront essuyé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "essuie",
+			"que": "vous essuyiez",
+			"qu'il/elle": "essuie",
+			"qu'ils/elles": "essuient"
+		},
+		"imparfait": {
+			"j'": "essuyasse",
+			"que": "vous essuyassiez",
+			"qu'il/elle": "essuyât",
+			"qu'ils/elles": "essuyassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse essuyé",
+			"que": "vous eussiez essuyé",
+			"qu'il/elle": "eût essuyé",
+			"qu'ils/elles": "eussent essuyé"
+		},
+		"passé": {
+			"j'": "aie essuyé",
+			"que": "vous ayez essuyé",
+			"qu'il/elle": "ait essuyé",
+			"qu'ils/elles": "aient essuyé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "essuierais",
+			"tu": "essuierais",
+			"il/elle": "essuierait",
+			"nous": "essuierions",
+			"vous": "essuieriez",
+			"ils/elles": "essuieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais essuyé",
+			"tu": "aurais essuyé",
+			"il/elle": "aurait essuyé",
+			"nous": "aurions essuyé",
+			"vous": "auriez essuyé",
+			"ils/elles": "auraient essuyé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse essuyé",
+			"tu": "eusses essuyé",
+			"il/elle": "eût essuyé",
+			"nous": "eussions essuyé",
+			"vous": "eussiez essuyé",
+			"ils/elles": "eussent essuyé"
+		}
+	},
+	"participe": {
+		"présent": { "essuyant": "" },
+		"passé composé": { "ayant": "essuyé" },
+		"passé": {
+			"masc.sg.:": "essuyé",
+			"masc.pl.:": "essuyés",
+			"fém.sg.:": "essuyée",
+			"fém.pl.:": "essuyées"
+		}
+	},
+	"imperatif": {
+		"présent": { "essuie": "", "essuyons": "", "essuyez": "" },
+		"passé": { "aie": "essuyé", "ayons": "essuyé", "ayez": "essuyé" }
+	},
+	"infinitif": { "présent": { "essuyer": "" }, "passé": { "avoir": "essuyé" } }
+}

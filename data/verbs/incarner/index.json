@@ -1,0 +1,143 @@
+{
+	"name": "incarner",
+	"definition": "embody; incarnate; represent; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'incarner/ne pas incarner/ne pas s'incarner",
+	"indicatif": {
+		"présent": {
+			"j'": "incarne",
+			"tu": "incarnes",
+			"il/elle": "incarne",
+			"nous": "incarnons",
+			"vous": "incarnez",
+			"ils/elles": "incarnent"
+		},
+		"imparfait": {
+			"j'": "incarnais",
+			"tu": "incarnais",
+			"il/elle": "incarnait",
+			"nous": "incarnions",
+			"vous": "incarniez",
+			"ils/elles": "incarnaient"
+		},
+		"futur": {
+			"j'": "incarnerai",
+			"tu": "incarneras",
+			"il/elle": "incarnera",
+			"nous": "incarnerons",
+			"vous": "incarnerez",
+			"ils/elles": "incarneront"
+		},
+		"passé simple": {
+			"j'": "incarnai",
+			"tu": "incarnas",
+			"il/elle": "incarna",
+			"nous": "incarnâmes",
+			"vous": "incarnâtes",
+			"ils/elles": "incarnèrent"
+		},
+		"passé composé": {
+			"j'": "ai incarné",
+			"tu": "as incarné",
+			"il/elle": "a incarné",
+			"nous": "avons incarné",
+			"vous": "avez incarné",
+			"ils/elles": "ont incarné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais incarné",
+			"tu": "avais incarné",
+			"il/elle": "avait incarné",
+			"nous": "avions incarné",
+			"vous": "aviez incarné",
+			"ils/elles": "avaient incarné"
+		},
+		"passé antérieur": {
+			"j'": "eus incarné",
+			"tu": "eus incarné",
+			"il/elle": "eut incarné",
+			"nous": "eûmes incarné",
+			"vous": "eûtes incarné",
+			"ils/elles": "eurent incarné"
+		},
+		"futur antérieur": {
+			"j'": "aurai incarné",
+			"tu": "auras incarné",
+			"il/elle": "aura incarné",
+			"nous": "aurons incarné",
+			"vous": "aurez incarné",
+			"ils/elles": "auront incarné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "incarne",
+			"que": "vous incarniez",
+			"qu'il/elle": "incarne",
+			"qu'ils/elles": "incarnent"
+		},
+		"imparfait": {
+			"j'": "incarnasse",
+			"que": "vous incarnassiez",
+			"qu'il/elle": "incarnât",
+			"qu'ils/elles": "incarnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse incarné",
+			"que": "vous eussiez incarné",
+			"qu'il/elle": "eût incarné",
+			"qu'ils/elles": "eussent incarné"
+		},
+		"passé": {
+			"j'": "aie incarné",
+			"que": "vous ayez incarné",
+			"qu'il/elle": "ait incarné",
+			"qu'ils/elles": "aient incarné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "incarnerais",
+			"tu": "incarnerais",
+			"il/elle": "incarnerait",
+			"nous": "incarnerions",
+			"vous": "incarneriez",
+			"ils/elles": "incarneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais incarné",
+			"tu": "aurais incarné",
+			"il/elle": "aurait incarné",
+			"nous": "aurions incarné",
+			"vous": "auriez incarné",
+			"ils/elles": "auraient incarné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse incarné",
+			"tu": "eusses incarné",
+			"il/elle": "eût incarné",
+			"nous": "eussions incarné",
+			"vous": "eussiez incarné",
+			"ils/elles": "eussent incarné"
+		}
+	},
+	"participe": {
+		"présent": { "incarnant": "" },
+		"passé composé": { "ayant": "incarné" },
+		"passé": {
+			"masc.sg.:": "incarné",
+			"masc.pl.:": "incarnés",
+			"fém.sg.:": "incarnée",
+			"fém.pl.:": "incarnées"
+		}
+	},
+	"imperatif": {
+		"présent": { "incarne": "", "incarnons": "", "incarnez": "" },
+		"passé": { "aie": "incarné", "ayons": "incarné", "ayez": "incarné" }
+	},
+	"infinitif": {
+		"présent": { "incarner": "" },
+		"passé": { "avoir": "incarné" }
+	}
+}

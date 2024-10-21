@@ -1,0 +1,143 @@
+{
+	"name": "amoindrir",
+	"definition": "diminish; lessen; undermine; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "s'amoindrir/ne pas amoindrir/ne pas s'amoindrir",
+	"indicatif": {
+		"présent": {
+			"j'": "amoindris",
+			"tu": "amoindris",
+			"il/elle": "amoindrit",
+			"nous": "amoindrissons",
+			"vous": "amoindrissez",
+			"ils/elles": "amoindrissent"
+		},
+		"imparfait": {
+			"j'": "amoindrissais",
+			"tu": "amoindrissais",
+			"il/elle": "amoindrissait",
+			"nous": "amoindrissions",
+			"vous": "amoindrissiez",
+			"ils/elles": "amoindrissaient"
+		},
+		"futur": {
+			"j'": "amoindrirai",
+			"tu": "amoindriras",
+			"il/elle": "amoindrira",
+			"nous": "amoindrirons",
+			"vous": "amoindrirez",
+			"ils/elles": "amoindriront"
+		},
+		"passé simple": {
+			"j'": "amoindris",
+			"tu": "amoindris",
+			"il/elle": "amoindrit",
+			"nous": "amoindrîmes",
+			"vous": "amoindrîtes",
+			"ils/elles": "amoindrirent"
+		},
+		"passé composé": {
+			"j'": "ai amoindri",
+			"tu": "as amoindri",
+			"il/elle": "a amoindri",
+			"nous": "avons amoindri",
+			"vous": "avez amoindri",
+			"ils/elles": "ont amoindri"
+		},
+		"plus-que-parfait": {
+			"j'": "avais amoindri",
+			"tu": "avais amoindri",
+			"il/elle": "avait amoindri",
+			"nous": "avions amoindri",
+			"vous": "aviez amoindri",
+			"ils/elles": "avaient amoindri"
+		},
+		"passé antérieur": {
+			"j'": "eus amoindri",
+			"tu": "eus amoindri",
+			"il/elle": "eut amoindri",
+			"nous": "eûmes amoindri",
+			"vous": "eûtes amoindri",
+			"ils/elles": "eurent amoindri"
+		},
+		"futur antérieur": {
+			"j'": "aurai amoindri",
+			"tu": "auras amoindri",
+			"il/elle": "aura amoindri",
+			"nous": "aurons amoindri",
+			"vous": "aurez amoindri",
+			"ils/elles": "auront amoindri"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "amoindrisse",
+			"que": "vous amoindrissiez",
+			"qu'il/elle": "amoindrisse",
+			"qu'ils/elles": "amoindrissent"
+		},
+		"imparfait": {
+			"j'": "amoindrisse",
+			"que": "vous amoindrissiez",
+			"qu'il/elle": "amoindrît",
+			"qu'ils/elles": "amoindrissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse amoindri",
+			"que": "vous eussiez amoindri",
+			"qu'il/elle": "eût amoindri",
+			"qu'ils/elles": "eussent amoindri"
+		},
+		"passé": {
+			"j'": "aie amoindri",
+			"que": "vous ayez amoindri",
+			"qu'il/elle": "ait amoindri",
+			"qu'ils/elles": "aient amoindri"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "amoindrirais",
+			"tu": "amoindrirais",
+			"il/elle": "amoindrirait",
+			"nous": "amoindririons",
+			"vous": "amoindririez",
+			"ils/elles": "amoindriraient"
+		},
+		"passé première forme": {
+			"j'": "aurais amoindri",
+			"tu": "aurais amoindri",
+			"il/elle": "aurait amoindri",
+			"nous": "aurions amoindri",
+			"vous": "auriez amoindri",
+			"ils/elles": "auraient amoindri"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse amoindri",
+			"tu": "eusses amoindri",
+			"il/elle": "eût amoindri",
+			"nous": "eussions amoindri",
+			"vous": "eussiez amoindri",
+			"ils/elles": "eussent amoindri"
+		}
+	},
+	"participe": {
+		"présent": { "amoindrissant": "" },
+		"passé composé": { "ayant": "amoindri" },
+		"passé": {
+			"masc.sg.:": "amoindri",
+			"masc.pl.:": "amoindris",
+			"fém.sg.:": "amoindrie",
+			"fém.pl.:": "amoindries"
+		}
+	},
+	"imperatif": {
+		"présent": { "amoindris": "", "amoindrissons": "", "amoindrissez": "" },
+		"passé": { "aie": "amoindri", "ayons": "amoindri", "ayez": "amoindri" }
+	},
+	"infinitif": {
+		"présent": { "amoindrir": "" },
+		"passé": { "avoir": "amoindri" }
+	}
+}

@@ -1,0 +1,143 @@
+{
+	"name": "encapsuler",
+	"definition": "encapsulate; encase; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'encapsuler/ne pas encapsuler/ne pas s'encapsuler",
+	"indicatif": {
+		"présent": {
+			"j'": "encapsule",
+			"tu": "encapsules",
+			"il/elle": "encapsule",
+			"nous": "encapsulons",
+			"vous": "encapsulez",
+			"ils/elles": "encapsulent"
+		},
+		"imparfait": {
+			"j'": "encapsulais",
+			"tu": "encapsulais",
+			"il/elle": "encapsulait",
+			"nous": "encapsulions",
+			"vous": "encapsuliez",
+			"ils/elles": "encapsulaient"
+		},
+		"futur": {
+			"j'": "encapsulerai",
+			"tu": "encapsuleras",
+			"il/elle": "encapsulera",
+			"nous": "encapsulerons",
+			"vous": "encapsulerez",
+			"ils/elles": "encapsuleront"
+		},
+		"passé simple": {
+			"j'": "encapsulai",
+			"tu": "encapsulas",
+			"il/elle": "encapsula",
+			"nous": "encapsulâmes",
+			"vous": "encapsulâtes",
+			"ils/elles": "encapsulèrent"
+		},
+		"passé composé": {
+			"j'": "ai encapsulé",
+			"tu": "as encapsulé",
+			"il/elle": "a encapsulé",
+			"nous": "avons encapsulé",
+			"vous": "avez encapsulé",
+			"ils/elles": "ont encapsulé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais encapsulé",
+			"tu": "avais encapsulé",
+			"il/elle": "avait encapsulé",
+			"nous": "avions encapsulé",
+			"vous": "aviez encapsulé",
+			"ils/elles": "avaient encapsulé"
+		},
+		"passé antérieur": {
+			"j'": "eus encapsulé",
+			"tu": "eus encapsulé",
+			"il/elle": "eut encapsulé",
+			"nous": "eûmes encapsulé",
+			"vous": "eûtes encapsulé",
+			"ils/elles": "eurent encapsulé"
+		},
+		"futur antérieur": {
+			"j'": "aurai encapsulé",
+			"tu": "auras encapsulé",
+			"il/elle": "aura encapsulé",
+			"nous": "aurons encapsulé",
+			"vous": "aurez encapsulé",
+			"ils/elles": "auront encapsulé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "encapsule",
+			"que": "vous encapsuliez",
+			"qu'il/elle": "encapsule",
+			"qu'ils/elles": "encapsulent"
+		},
+		"imparfait": {
+			"j'": "encapsulasse",
+			"que": "vous encapsulassiez",
+			"qu'il/elle": "encapsulât",
+			"qu'ils/elles": "encapsulassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse encapsulé",
+			"que": "vous eussiez encapsulé",
+			"qu'il/elle": "eût encapsulé",
+			"qu'ils/elles": "eussent encapsulé"
+		},
+		"passé": {
+			"j'": "aie encapsulé",
+			"que": "vous ayez encapsulé",
+			"qu'il/elle": "ait encapsulé",
+			"qu'ils/elles": "aient encapsulé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "encapsulerais",
+			"tu": "encapsulerais",
+			"il/elle": "encapsulerait",
+			"nous": "encapsulerions",
+			"vous": "encapsuleriez",
+			"ils/elles": "encapsuleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais encapsulé",
+			"tu": "aurais encapsulé",
+			"il/elle": "aurait encapsulé",
+			"nous": "aurions encapsulé",
+			"vous": "auriez encapsulé",
+			"ils/elles": "auraient encapsulé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse encapsulé",
+			"tu": "eusses encapsulé",
+			"il/elle": "eût encapsulé",
+			"nous": "eussions encapsulé",
+			"vous": "eussiez encapsulé",
+			"ils/elles": "eussent encapsulé"
+		}
+	},
+	"participe": {
+		"présent": { "encapsulant": "" },
+		"passé composé": { "ayant": "encapsulé" },
+		"passé": {
+			"masc.sg.:": "encapsulé",
+			"masc.pl.:": "encapsulés",
+			"fém.sg.:": "encapsulée",
+			"fém.pl.:": "encapsulées"
+		}
+	},
+	"imperatif": {
+		"présent": { "encapsule": "", "encapsulons": "", "encapsulez": "" },
+		"passé": { "aie": "encapsulé", "ayons": "encapsulé", "ayez": "encapsulé" }
+	},
+	"infinitif": {
+		"présent": { "encapsuler": "" },
+		"passé": { "avoir": "encapsulé" }
+	}
+}

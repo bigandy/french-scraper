@@ -1,0 +1,145 @@
+{
+	"name": "questionner",
+	"definition": "question; ask; wonder; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se questionner/ne pas questionner/ne pas se questionner",
+	"indicatif": {
+		"présent": {
+			"je": "questionne",
+			"tu": "questionnes",
+			"il/elle": "questionne",
+			"nous": "questionnons",
+			"vous": "questionnez",
+			"ils/elles": "questionnent"
+		},
+		"imparfait": {
+			"je": "questionnais",
+			"tu": "questionnais",
+			"il/elle": "questionnait",
+			"nous": "questionnions",
+			"vous": "questionniez",
+			"ils/elles": "questionnaient"
+		},
+		"futur": {
+			"je": "questionnerai",
+			"tu": "questionneras",
+			"il/elle": "questionnera",
+			"nous": "questionnerons",
+			"vous": "questionnerez",
+			"ils/elles": "questionneront"
+		},
+		"passé simple": {
+			"je": "questionnai",
+			"tu": "questionnas",
+			"il/elle": "questionna",
+			"nous": "questionnâmes",
+			"vous": "questionnâtes",
+			"ils/elles": "questionnèrent"
+		},
+		"passé composé": {
+			"j'": "ai questionné",
+			"tu": "as questionné",
+			"il/elle": "a questionné",
+			"nous": "avons questionné",
+			"vous": "avez questionné",
+			"ils/elles": "ont questionné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais questionné",
+			"tu": "avais questionné",
+			"il/elle": "avait questionné",
+			"nous": "avions questionné",
+			"vous": "aviez questionné",
+			"ils/elles": "avaient questionné"
+		},
+		"passé antérieur": {
+			"j'": "eus questionné",
+			"tu": "eus questionné",
+			"il/elle": "eut questionné",
+			"nous": "eûmes questionné",
+			"vous": "eûtes questionné",
+			"ils/elles": "eurent questionné"
+		},
+		"futur antérieur": {
+			"j'": "aurai questionné",
+			"tu": "auras questionné",
+			"il/elle": "aura questionné",
+			"nous": "aurons questionné",
+			"vous": "aurez questionné",
+			"ils/elles": "auront questionné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous questionniez",
+			"qu'il/elle": "questionne",
+			"qu'ils/elles": "questionnent"
+		},
+		"imparfait": {
+			"que": "vous questionnassiez",
+			"qu'il/elle": "questionnât",
+			"qu'ils/elles": "questionnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse questionné",
+			"que": "vous eussiez questionné",
+			"qu'il/elle": "eût questionné",
+			"qu'ils/elles": "eussent questionné"
+		},
+		"passé": {
+			"j'": "aie questionné",
+			"que": "vous ayez questionné",
+			"qu'il/elle": "ait questionné",
+			"qu'ils/elles": "aient questionné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "questionnerais",
+			"tu": "questionnerais",
+			"il/elle": "questionnerait",
+			"nous": "questionnerions",
+			"vous": "questionneriez",
+			"ils/elles": "questionneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais questionné",
+			"tu": "aurais questionné",
+			"il/elle": "aurait questionné",
+			"nous": "aurions questionné",
+			"vous": "auriez questionné",
+			"ils/elles": "auraient questionné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse questionné",
+			"tu": "eusses questionné",
+			"il/elle": "eût questionné",
+			"nous": "eussions questionné",
+			"vous": "eussiez questionné",
+			"ils/elles": "eussent questionné"
+		}
+	},
+	"participe": {
+		"présent": { "questionnant": "" },
+		"passé composé": { "ayant": "questionné" },
+		"passé": {
+			"masc.sg.:": "questionné",
+			"masc.pl.:": "questionnés",
+			"fém.sg.:": "questionnée",
+			"fém.pl.:": "questionnées"
+		}
+	},
+	"imperatif": {
+		"présent": { "questionne": "", "questionnons": "", "questionnez": "" },
+		"passé": {
+			"aie": "questionné",
+			"ayons": "questionné",
+			"ayez": "questionné"
+		}
+	},
+	"infinitif": {
+		"présent": { "questionner": "" },
+		"passé": { "avoir": "questionné" }
+	}
+}

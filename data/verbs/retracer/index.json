@@ -1,0 +1,141 @@
+{
+	"name": "retracer",
+	"definition": "trace; track; retrace; ...",
+	"model": "commencer",
+	"auxiliary": "avoir",
+	"otherForms": "se retracer/ne pas retracer/ne pas se retracer",
+	"indicatif": {
+		"présent": {
+			"je": "retrace",
+			"tu": "retraces",
+			"il/elle": "retrace",
+			"nous": "retraçons",
+			"vous": "retracez",
+			"ils/elles": "retracent"
+		},
+		"imparfait": {
+			"je": "retraçais",
+			"tu": "retraçais",
+			"il/elle": "retraçait",
+			"nous": "retracions",
+			"vous": "retraciez",
+			"ils/elles": "retraçaient"
+		},
+		"futur": {
+			"je": "retracerai",
+			"tu": "retraceras",
+			"il/elle": "retracera",
+			"nous": "retracerons",
+			"vous": "retracerez",
+			"ils/elles": "retraceront"
+		},
+		"passé simple": {
+			"je": "retraçai",
+			"tu": "retraças",
+			"il/elle": "retraça",
+			"nous": "retraçâmes",
+			"vous": "retraçâtes",
+			"ils/elles": "retracèrent"
+		},
+		"passé composé": {
+			"j'": "ai retracé",
+			"tu": "as retracé",
+			"il/elle": "a retracé",
+			"nous": "avons retracé",
+			"vous": "avez retracé",
+			"ils/elles": "ont retracé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais retracé",
+			"tu": "avais retracé",
+			"il/elle": "avait retracé",
+			"nous": "avions retracé",
+			"vous": "aviez retracé",
+			"ils/elles": "avaient retracé"
+		},
+		"passé antérieur": {
+			"j'": "eus retracé",
+			"tu": "eus retracé",
+			"il/elle": "eut retracé",
+			"nous": "eûmes retracé",
+			"vous": "eûtes retracé",
+			"ils/elles": "eurent retracé"
+		},
+		"futur antérieur": {
+			"j'": "aurai retracé",
+			"tu": "auras retracé",
+			"il/elle": "aura retracé",
+			"nous": "aurons retracé",
+			"vous": "aurez retracé",
+			"ils/elles": "auront retracé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous retraciez",
+			"qu'il/elle": "retrace",
+			"qu'ils/elles": "retracent"
+		},
+		"imparfait": {
+			"que": "vous retraçassiez",
+			"qu'il/elle": "retraçât",
+			"qu'ils/elles": "retraçassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse retracé",
+			"que": "vous eussiez retracé",
+			"qu'il/elle": "eût retracé",
+			"qu'ils/elles": "eussent retracé"
+		},
+		"passé": {
+			"j'": "aie retracé",
+			"que": "vous ayez retracé",
+			"qu'il/elle": "ait retracé",
+			"qu'ils/elles": "aient retracé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "retracerais",
+			"tu": "retracerais",
+			"il/elle": "retracerait",
+			"nous": "retracerions",
+			"vous": "retraceriez",
+			"ils/elles": "retraceraient"
+		},
+		"passé première forme": {
+			"j'": "aurais retracé",
+			"tu": "aurais retracé",
+			"il/elle": "aurait retracé",
+			"nous": "aurions retracé",
+			"vous": "auriez retracé",
+			"ils/elles": "auraient retracé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse retracé",
+			"tu": "eusses retracé",
+			"il/elle": "eût retracé",
+			"nous": "eussions retracé",
+			"vous": "eussiez retracé",
+			"ils/elles": "eussent retracé"
+		}
+	},
+	"participe": {
+		"présent": { "retraçant": "" },
+		"passé composé": { "ayant": "retracé" },
+		"passé": {
+			"masc.sg.:": "retracé",
+			"masc.pl.:": "retracés",
+			"fém.sg.:": "retracée",
+			"fém.pl.:": "retracées"
+		}
+	},
+	"imperatif": {
+		"présent": { "retrace": "", "retraçons": "", "retracez": "" },
+		"passé": { "aie": "retracé", "ayons": "retracé", "ayez": "retracé" }
+	},
+	"infinitif": {
+		"présent": { "retracer": "" },
+		"passé": { "avoir": "retracé" }
+	}
+}

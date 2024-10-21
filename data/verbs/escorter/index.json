@@ -1,0 +1,143 @@
+{
+	"name": "escorter",
+	"definition": "escort; accompany; ride shotgun; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'escorter/ne pas escorter/ne pas s'escorter",
+	"indicatif": {
+		"présent": {
+			"j'": "escorte",
+			"tu": "escortes",
+			"il/elle": "escorte",
+			"nous": "escortons",
+			"vous": "escortez",
+			"ils/elles": "escortent"
+		},
+		"imparfait": {
+			"j'": "escortais",
+			"tu": "escortais",
+			"il/elle": "escortait",
+			"nous": "escortions",
+			"vous": "escortiez",
+			"ils/elles": "escortaient"
+		},
+		"futur": {
+			"j'": "escorterai",
+			"tu": "escorteras",
+			"il/elle": "escortera",
+			"nous": "escorterons",
+			"vous": "escorterez",
+			"ils/elles": "escorteront"
+		},
+		"passé simple": {
+			"j'": "escortai",
+			"tu": "escortas",
+			"il/elle": "escorta",
+			"nous": "escortâmes",
+			"vous": "escortâtes",
+			"ils/elles": "escortèrent"
+		},
+		"passé composé": {
+			"j'": "ai escorté",
+			"tu": "as escorté",
+			"il/elle": "a escorté",
+			"nous": "avons escorté",
+			"vous": "avez escorté",
+			"ils/elles": "ont escorté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais escorté",
+			"tu": "avais escorté",
+			"il/elle": "avait escorté",
+			"nous": "avions escorté",
+			"vous": "aviez escorté",
+			"ils/elles": "avaient escorté"
+		},
+		"passé antérieur": {
+			"j'": "eus escorté",
+			"tu": "eus escorté",
+			"il/elle": "eut escorté",
+			"nous": "eûmes escorté",
+			"vous": "eûtes escorté",
+			"ils/elles": "eurent escorté"
+		},
+		"futur antérieur": {
+			"j'": "aurai escorté",
+			"tu": "auras escorté",
+			"il/elle": "aura escorté",
+			"nous": "aurons escorté",
+			"vous": "aurez escorté",
+			"ils/elles": "auront escorté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "escorte",
+			"que": "vous escortiez",
+			"qu'il/elle": "escorte",
+			"qu'ils/elles": "escortent"
+		},
+		"imparfait": {
+			"j'": "escortasse",
+			"que": "vous escortassiez",
+			"qu'il/elle": "escortât",
+			"qu'ils/elles": "escortassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse escorté",
+			"que": "vous eussiez escorté",
+			"qu'il/elle": "eût escorté",
+			"qu'ils/elles": "eussent escorté"
+		},
+		"passé": {
+			"j'": "aie escorté",
+			"que": "vous ayez escorté",
+			"qu'il/elle": "ait escorté",
+			"qu'ils/elles": "aient escorté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "escorterais",
+			"tu": "escorterais",
+			"il/elle": "escorterait",
+			"nous": "escorterions",
+			"vous": "escorteriez",
+			"ils/elles": "escorteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais escorté",
+			"tu": "aurais escorté",
+			"il/elle": "aurait escorté",
+			"nous": "aurions escorté",
+			"vous": "auriez escorté",
+			"ils/elles": "auraient escorté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse escorté",
+			"tu": "eusses escorté",
+			"il/elle": "eût escorté",
+			"nous": "eussions escorté",
+			"vous": "eussiez escorté",
+			"ils/elles": "eussent escorté"
+		}
+	},
+	"participe": {
+		"présent": { "escortant": "" },
+		"passé composé": { "ayant": "escorté" },
+		"passé": {
+			"masc.sg.:": "escorté",
+			"masc.pl.:": "escortés",
+			"fém.sg.:": "escortée",
+			"fém.pl.:": "escortées"
+		}
+	},
+	"imperatif": {
+		"présent": { "escorte": "", "escortons": "", "escortez": "" },
+		"passé": { "aie": "escorté", "ayons": "escorté", "ayez": "escorté" }
+	},
+	"infinitif": {
+		"présent": { "escorter": "" },
+		"passé": { "avoir": "escorté" }
+	}
+}

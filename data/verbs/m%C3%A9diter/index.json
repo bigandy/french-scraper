@@ -1,0 +1,138 @@
+{
+	"name": "méditer",
+	"definition": "meditate; ponder; contemplate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se méditer/ne pas méditer/ne pas se méditer",
+	"indicatif": {
+		"présent": {
+			"je": "médite",
+			"tu": "médites",
+			"il/elle": "médite",
+			"nous": "méditons",
+			"vous": "méditez",
+			"ils/elles": "méditent"
+		},
+		"imparfait": {
+			"je": "méditais",
+			"tu": "méditais",
+			"il/elle": "méditait",
+			"nous": "méditions",
+			"vous": "méditiez",
+			"ils/elles": "méditaient"
+		},
+		"futur": {
+			"je": "méditerai",
+			"tu": "méditeras",
+			"il/elle": "méditera",
+			"nous": "méditerons",
+			"vous": "méditerez",
+			"ils/elles": "méditeront"
+		},
+		"passé simple": {
+			"je": "méditai",
+			"tu": "méditas",
+			"il/elle": "médita",
+			"nous": "méditâmes",
+			"vous": "méditâtes",
+			"ils/elles": "méditèrent"
+		},
+		"passé composé": {
+			"j'": "ai médité",
+			"tu": "as médité",
+			"il/elle": "a médité",
+			"nous": "avons médité",
+			"vous": "avez médité",
+			"ils/elles": "ont médité"
+		},
+		"plus-que-parfait": {
+			"j'": "avais médité",
+			"tu": "avais médité",
+			"il/elle": "avait médité",
+			"nous": "avions médité",
+			"vous": "aviez médité",
+			"ils/elles": "avaient médité"
+		},
+		"passé antérieur": {
+			"j'": "eus médité",
+			"tu": "eus médité",
+			"il/elle": "eut médité",
+			"nous": "eûmes médité",
+			"vous": "eûtes médité",
+			"ils/elles": "eurent médité"
+		},
+		"futur antérieur": {
+			"j'": "aurai médité",
+			"tu": "auras médité",
+			"il/elle": "aura médité",
+			"nous": "aurons médité",
+			"vous": "aurez médité",
+			"ils/elles": "auront médité"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous méditiez",
+			"qu'il/elle": "médite",
+			"qu'ils/elles": "méditent"
+		},
+		"imparfait": {
+			"que": "vous méditassiez",
+			"qu'il/elle": "méditât",
+			"qu'ils/elles": "méditassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse médité",
+			"que": "vous eussiez médité",
+			"qu'il/elle": "eût médité",
+			"qu'ils/elles": "eussent médité"
+		},
+		"passé": {
+			"j'": "aie médité",
+			"que": "vous ayez médité",
+			"qu'il/elle": "ait médité",
+			"qu'ils/elles": "aient médité"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "méditerais",
+			"tu": "méditerais",
+			"il/elle": "méditerait",
+			"nous": "méditerions",
+			"vous": "méditeriez",
+			"ils/elles": "méditeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais médité",
+			"tu": "aurais médité",
+			"il/elle": "aurait médité",
+			"nous": "aurions médité",
+			"vous": "auriez médité",
+			"ils/elles": "auraient médité"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse médité",
+			"tu": "eusses médité",
+			"il/elle": "eût médité",
+			"nous": "eussions médité",
+			"vous": "eussiez médité",
+			"ils/elles": "eussent médité"
+		}
+	},
+	"participe": {
+		"présent": { "méditant": "" },
+		"passé composé": { "ayant": "médité" },
+		"passé": {
+			"masc.sg.:": "médité",
+			"masc.pl.:": "médités",
+			"fém.sg.:": "méditée",
+			"fém.pl.:": "méditées"
+		}
+	},
+	"imperatif": {
+		"présent": { "médite": "", "méditons": "", "méditez": "" },
+		"passé": { "aie": "médité", "ayons": "médité", "ayez": "médité" }
+	},
+	"infinitif": { "présent": { "méditer": "" }, "passé": { "avoir": "médité" } }
+}

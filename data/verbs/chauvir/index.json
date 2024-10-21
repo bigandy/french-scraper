@@ -1,0 +1,138 @@
+{
+	"name": "chauvir",
+	"definition": "",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas chauvir",
+	"indicatif": {
+		"présent": {
+			"je": "chauvis",
+			"tu": "chauvis",
+			"il/elle": "chauvit",
+			"nous": "chauvissons",
+			"vous": "chauvissez",
+			"ils/elles": "chauvissent"
+		},
+		"imparfait": {
+			"je": "chauvissais",
+			"tu": "chauvissais",
+			"il/elle": "chauvissait",
+			"nous": "chauvissions",
+			"vous": "chauvissiez",
+			"ils/elles": "chauvissaient"
+		},
+		"futur": {
+			"je": "chauvirai",
+			"tu": "chauviras",
+			"il/elle": "chauvira",
+			"nous": "chauvirons",
+			"vous": "chauvirez",
+			"ils/elles": "chauviront"
+		},
+		"passé simple": {
+			"je": "chauvis",
+			"tu": "chauvis",
+			"il/elle": "chauvit",
+			"nous": "chauvîmes",
+			"vous": "chauvîtes",
+			"ils/elles": "chauvirent"
+		},
+		"passé composé": {
+			"j'": "ai chauvi",
+			"tu": "as chauvi",
+			"il/elle": "a chauvi",
+			"nous": "avons chauvi",
+			"vous": "avez chauvi",
+			"ils/elles": "ont chauvi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais chauvi",
+			"tu": "avais chauvi",
+			"il/elle": "avait chauvi",
+			"nous": "avions chauvi",
+			"vous": "aviez chauvi",
+			"ils/elles": "avaient chauvi"
+		},
+		"passé antérieur": {
+			"j'": "eus chauvi",
+			"tu": "eus chauvi",
+			"il/elle": "eut chauvi",
+			"nous": "eûmes chauvi",
+			"vous": "eûtes chauvi",
+			"ils/elles": "eurent chauvi"
+		},
+		"futur antérieur": {
+			"j'": "aurai chauvi",
+			"tu": "auras chauvi",
+			"il/elle": "aura chauvi",
+			"nous": "aurons chauvi",
+			"vous": "aurez chauvi",
+			"ils/elles": "auront chauvi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous chauvissiez",
+			"qu'il/elle": "chauvisse",
+			"qu'ils/elles": "chauvissent"
+		},
+		"imparfait": {
+			"que": "vous chauvissiez",
+			"qu'il/elle": "chauvît",
+			"qu'ils/elles": "chauvissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse chauvi",
+			"que": "vous eussiez chauvi",
+			"qu'il/elle": "eût chauvi",
+			"qu'ils/elles": "eussent chauvi"
+		},
+		"passé": {
+			"j'": "aie chauvi",
+			"que": "vous ayez chauvi",
+			"qu'il/elle": "ait chauvi",
+			"qu'ils/elles": "aient chauvi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "chauvirais",
+			"tu": "chauvirais",
+			"il/elle": "chauvirait",
+			"nous": "chauvirions",
+			"vous": "chauviriez",
+			"ils/elles": "chauviraient"
+		},
+		"passé première forme": {
+			"j'": "aurais chauvi",
+			"tu": "aurais chauvi",
+			"il/elle": "aurait chauvi",
+			"nous": "aurions chauvi",
+			"vous": "auriez chauvi",
+			"ils/elles": "auraient chauvi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse chauvi",
+			"tu": "eusses chauvi",
+			"il/elle": "eût chauvi",
+			"nous": "eussions chauvi",
+			"vous": "eussiez chauvi",
+			"ils/elles": "eussent chauvi"
+		}
+	},
+	"participe": {
+		"présent": { "chauvissant": "" },
+		"passé composé": { "ayant": "chauvi" },
+		"passé": {
+			"masc.sg.:": "chauvi",
+			"masc.pl.:": "chauvis",
+			"fém.sg.:": "chauvie",
+			"fém.pl.:": "chauvies"
+		}
+	},
+	"imperatif": {
+		"présent": { "chauvis": "", "chauvissons": "", "chauvissez": "" },
+		"passé": { "aie": "chauvi", "ayons": "chauvi", "ayez": "chauvi" }
+	},
+	"infinitif": { "présent": { "chauvir": "" }, "passé": { "avoir": "chauvi" } }
+}

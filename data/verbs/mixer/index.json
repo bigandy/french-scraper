@@ -1,0 +1,138 @@
+{
+	"name": "mixer",
+	"definition": "mix; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se mixer/ne pas mixer/ne pas se mixer",
+	"indicatif": {
+		"présent": {
+			"je": "mixe",
+			"tu": "mixes",
+			"il/elle": "mixe",
+			"nous": "mixons",
+			"vous": "mixez",
+			"ils/elles": "mixent"
+		},
+		"imparfait": {
+			"je": "mixais",
+			"tu": "mixais",
+			"il/elle": "mixait",
+			"nous": "mixions",
+			"vous": "mixiez",
+			"ils/elles": "mixaient"
+		},
+		"futur": {
+			"je": "mixerai",
+			"tu": "mixeras",
+			"il/elle": "mixera",
+			"nous": "mixerons",
+			"vous": "mixerez",
+			"ils/elles": "mixeront"
+		},
+		"passé simple": {
+			"je": "mixai",
+			"tu": "mixas",
+			"il/elle": "mixa",
+			"nous": "mixâmes",
+			"vous": "mixâtes",
+			"ils/elles": "mixèrent"
+		},
+		"passé composé": {
+			"j'": "ai mixé",
+			"tu": "as mixé",
+			"il/elle": "a mixé",
+			"nous": "avons mixé",
+			"vous": "avez mixé",
+			"ils/elles": "ont mixé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais mixé",
+			"tu": "avais mixé",
+			"il/elle": "avait mixé",
+			"nous": "avions mixé",
+			"vous": "aviez mixé",
+			"ils/elles": "avaient mixé"
+		},
+		"passé antérieur": {
+			"j'": "eus mixé",
+			"tu": "eus mixé",
+			"il/elle": "eut mixé",
+			"nous": "eûmes mixé",
+			"vous": "eûtes mixé",
+			"ils/elles": "eurent mixé"
+		},
+		"futur antérieur": {
+			"j'": "aurai mixé",
+			"tu": "auras mixé",
+			"il/elle": "aura mixé",
+			"nous": "aurons mixé",
+			"vous": "aurez mixé",
+			"ils/elles": "auront mixé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous mixiez",
+			"qu'il/elle": "mixe",
+			"qu'ils/elles": "mixent"
+		},
+		"imparfait": {
+			"que": "vous mixassiez",
+			"qu'il/elle": "mixât",
+			"qu'ils/elles": "mixassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse mixé",
+			"que": "vous eussiez mixé",
+			"qu'il/elle": "eût mixé",
+			"qu'ils/elles": "eussent mixé"
+		},
+		"passé": {
+			"j'": "aie mixé",
+			"que": "vous ayez mixé",
+			"qu'il/elle": "ait mixé",
+			"qu'ils/elles": "aient mixé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "mixerais",
+			"tu": "mixerais",
+			"il/elle": "mixerait",
+			"nous": "mixerions",
+			"vous": "mixeriez",
+			"ils/elles": "mixeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais mixé",
+			"tu": "aurais mixé",
+			"il/elle": "aurait mixé",
+			"nous": "aurions mixé",
+			"vous": "auriez mixé",
+			"ils/elles": "auraient mixé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse mixé",
+			"tu": "eusses mixé",
+			"il/elle": "eût mixé",
+			"nous": "eussions mixé",
+			"vous": "eussiez mixé",
+			"ils/elles": "eussent mixé"
+		}
+	},
+	"participe": {
+		"présent": { "mixant": "" },
+		"passé composé": { "ayant": "mixé" },
+		"passé": {
+			"masc.sg.:": "mixé",
+			"masc.pl.:": "mixés",
+			"fém.sg.:": "mixée",
+			"fém.pl.:": "mixées"
+		}
+	},
+	"imperatif": {
+		"présent": { "mixe": "", "mixons": "", "mixez": "" },
+		"passé": { "aie": "mixé", "ayons": "mixé", "ayez": "mixé" }
+	},
+	"infinitif": { "présent": { "mixer": "" }, "passé": { "avoir": "mixé" } }
+}

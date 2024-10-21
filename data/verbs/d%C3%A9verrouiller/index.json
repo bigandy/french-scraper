@@ -1,0 +1,149 @@
+{
+	"name": "déverrouiller",
+	"definition": "unlock; unlatch; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se déverrouiller/ne pas déverrouiller/ne pas se déverrouiller",
+	"indicatif": {
+		"présent": {
+			"je": "déverrouille",
+			"tu": "déverrouilles",
+			"il/elle": "déverrouille",
+			"nous": "déverrouillons",
+			"vous": "déverrouillez",
+			"ils/elles": "déverrouillent"
+		},
+		"imparfait": {
+			"je": "déverrouillais",
+			"tu": "déverrouillais",
+			"il/elle": "déverrouillait",
+			"nous": "déverrouillions",
+			"vous": "déverrouilliez",
+			"ils/elles": "déverrouillaient"
+		},
+		"futur": {
+			"je": "déverrouillerai",
+			"tu": "déverrouilleras",
+			"il/elle": "déverrouillera",
+			"nous": "déverrouillerons",
+			"vous": "déverrouillerez",
+			"ils/elles": "déverrouilleront"
+		},
+		"passé simple": {
+			"je": "déverrouillai",
+			"tu": "déverrouillas",
+			"il/elle": "déverrouilla",
+			"nous": "déverrouillâmes",
+			"vous": "déverrouillâtes",
+			"ils/elles": "déverrouillèrent"
+		},
+		"passé composé": {
+			"j'": "ai déverrouillé",
+			"tu": "as déverrouillé",
+			"il/elle": "a déverrouillé",
+			"nous": "avons déverrouillé",
+			"vous": "avez déverrouillé",
+			"ils/elles": "ont déverrouillé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais déverrouillé",
+			"tu": "avais déverrouillé",
+			"il/elle": "avait déverrouillé",
+			"nous": "avions déverrouillé",
+			"vous": "aviez déverrouillé",
+			"ils/elles": "avaient déverrouillé"
+		},
+		"passé antérieur": {
+			"j'": "eus déverrouillé",
+			"tu": "eus déverrouillé",
+			"il/elle": "eut déverrouillé",
+			"nous": "eûmes déverrouillé",
+			"vous": "eûtes déverrouillé",
+			"ils/elles": "eurent déverrouillé"
+		},
+		"futur antérieur": {
+			"j'": "aurai déverrouillé",
+			"tu": "auras déverrouillé",
+			"il/elle": "aura déverrouillé",
+			"nous": "aurons déverrouillé",
+			"vous": "aurez déverrouillé",
+			"ils/elles": "auront déverrouillé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous déverrouilliez",
+			"qu'il/elle": "déverrouille",
+			"qu'ils/elles": "déverrouillent"
+		},
+		"imparfait": {
+			"que": "vous déverrouillassiez",
+			"qu'il/elle": "déverrouillât",
+			"qu'ils/elles": "déverrouillassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse déverrouillé",
+			"que": "vous eussiez déverrouillé",
+			"qu'il/elle": "eût déverrouillé",
+			"qu'ils/elles": "eussent déverrouillé"
+		},
+		"passé": {
+			"j'": "aie déverrouillé",
+			"que": "vous ayez déverrouillé",
+			"qu'il/elle": "ait déverrouillé",
+			"qu'ils/elles": "aient déverrouillé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "déverrouillerais",
+			"tu": "déverrouillerais",
+			"il/elle": "déverrouillerait",
+			"nous": "déverrouillerions",
+			"vous": "déverrouilleriez",
+			"ils/elles": "déverrouilleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais déverrouillé",
+			"tu": "aurais déverrouillé",
+			"il/elle": "aurait déverrouillé",
+			"nous": "aurions déverrouillé",
+			"vous": "auriez déverrouillé",
+			"ils/elles": "auraient déverrouillé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse déverrouillé",
+			"tu": "eusses déverrouillé",
+			"il/elle": "eût déverrouillé",
+			"nous": "eussions déverrouillé",
+			"vous": "eussiez déverrouillé",
+			"ils/elles": "eussent déverrouillé"
+		}
+	},
+	"participe": {
+		"présent": { "déverrouillant": "" },
+		"passé composé": { "ayant": "déverrouillé" },
+		"passé": {
+			"masc.sg.:": "déverrouillé",
+			"masc.pl.:": "déverrouillés",
+			"fém.sg.:": "déverrouillée",
+			"fém.pl.:": "déverrouillées"
+		}
+	},
+	"imperatif": {
+		"présent": {
+			"déverrouille": "",
+			"déverrouillons": "",
+			"déverrouillez": ""
+		},
+		"passé": {
+			"aie": "déverrouillé",
+			"ayons": "déverrouillé",
+			"ayez": "déverrouillé"
+		}
+	},
+	"infinitif": {
+		"présent": { "déverrouiller": "" },
+		"passé": { "avoir": "déverrouillé" }
+	}
+}

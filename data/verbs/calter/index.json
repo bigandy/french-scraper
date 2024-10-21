@@ -1,0 +1,138 @@
+{
+	"name": "calter",
+	"definition": "run away; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se calter/ne pas calter/ne pas se calter",
+	"indicatif": {
+		"présent": {
+			"je": "calte",
+			"tu": "caltes",
+			"il/elle": "calte",
+			"nous": "caltons",
+			"vous": "caltez",
+			"ils/elles": "caltent"
+		},
+		"imparfait": {
+			"je": "caltais",
+			"tu": "caltais",
+			"il/elle": "caltait",
+			"nous": "caltions",
+			"vous": "caltiez",
+			"ils/elles": "caltaient"
+		},
+		"futur": {
+			"je": "calterai",
+			"tu": "calteras",
+			"il/elle": "caltera",
+			"nous": "calterons",
+			"vous": "calterez",
+			"ils/elles": "calteront"
+		},
+		"passé simple": {
+			"je": "caltai",
+			"tu": "caltas",
+			"il/elle": "calta",
+			"nous": "caltâmes",
+			"vous": "caltâtes",
+			"ils/elles": "caltèrent"
+		},
+		"passé composé": {
+			"j'": "ai calté",
+			"tu": "as calté",
+			"il/elle": "a calté",
+			"nous": "avons calté",
+			"vous": "avez calté",
+			"ils/elles": "ont calté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais calté",
+			"tu": "avais calté",
+			"il/elle": "avait calté",
+			"nous": "avions calté",
+			"vous": "aviez calté",
+			"ils/elles": "avaient calté"
+		},
+		"passé antérieur": {
+			"j'": "eus calté",
+			"tu": "eus calté",
+			"il/elle": "eut calté",
+			"nous": "eûmes calté",
+			"vous": "eûtes calté",
+			"ils/elles": "eurent calté"
+		},
+		"futur antérieur": {
+			"j'": "aurai calté",
+			"tu": "auras calté",
+			"il/elle": "aura calté",
+			"nous": "aurons calté",
+			"vous": "aurez calté",
+			"ils/elles": "auront calté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous caltiez",
+			"qu'il/elle": "calte",
+			"qu'ils/elles": "caltent"
+		},
+		"imparfait": {
+			"que": "vous caltassiez",
+			"qu'il/elle": "caltât",
+			"qu'ils/elles": "caltassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse calté",
+			"que": "vous eussiez calté",
+			"qu'il/elle": "eût calté",
+			"qu'ils/elles": "eussent calté"
+		},
+		"passé": {
+			"j'": "aie calté",
+			"que": "vous ayez calté",
+			"qu'il/elle": "ait calté",
+			"qu'ils/elles": "aient calté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "calterais",
+			"tu": "calterais",
+			"il/elle": "calterait",
+			"nous": "calterions",
+			"vous": "calteriez",
+			"ils/elles": "calteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais calté",
+			"tu": "aurais calté",
+			"il/elle": "aurait calté",
+			"nous": "aurions calté",
+			"vous": "auriez calté",
+			"ils/elles": "auraient calté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse calté",
+			"tu": "eusses calté",
+			"il/elle": "eût calté",
+			"nous": "eussions calté",
+			"vous": "eussiez calté",
+			"ils/elles": "eussent calté"
+		}
+	},
+	"participe": {
+		"présent": { "caltant": "" },
+		"passé composé": { "ayant": "calté" },
+		"passé": {
+			"masc.sg.:": "calté",
+			"masc.pl.:": "caltés",
+			"fém.sg.:": "caltée",
+			"fém.pl.:": "caltées"
+		}
+	},
+	"imperatif": {
+		"présent": { "calte": "", "caltons": "", "caltez": "" },
+		"passé": { "aie": "calté", "ayons": "calté", "ayez": "calté" }
+	},
+	"infinitif": { "présent": { "calter": "" }, "passé": { "avoir": "calté" } }
+}

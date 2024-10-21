@@ -1,0 +1,196 @@
+{
+	"name": "empirer",
+	"definition": "get worse; worsen; deteriorate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "s'empirer/ne pas empirer/ne pas s'empirer",
+	"indicatif": {
+		"présent": {
+			"j'": "empire",
+			"tu": "empires",
+			"il/elle": "empire",
+			"nous": "empirons",
+			"vous": "empirez",
+			"ils/elles": "empirent"
+		},
+		"imparfait": {
+			"j'": "empirais",
+			"tu": "empirais",
+			"il/elle": "empirait",
+			"nous": "empirions",
+			"vous": "empiriez",
+			"ils/elles": "empiraient"
+		},
+		"futur": {
+			"j'": "empirerai",
+			"tu": "empireras",
+			"il/elle": "empirera",
+			"nous": "empirerons",
+			"vous": "empirerez",
+			"ils/elles": "empireront"
+		},
+		"passé simple": {
+			"j'": "empirai",
+			"tu": "empiras",
+			"il/elle": "empira",
+			"nous": "empirâmes",
+			"vous": "empirâtes",
+			"ils/elles": "empirèrent"
+		},
+		"passé composé": {
+			"j'": "ai empiré",
+			"tu": "es empiré",
+			"il/elle": "a empiré",
+			"nous": "sommes empirés",
+			"vous": "êtes empirés",
+			"ils/elles": "ont empiré",
+			"": "",
+			"je": "suis empiré",
+			"il": "est empiré",
+			"elle": "est empirée",
+			"ils": "sont empirés",
+			"elles": "sont empirées"
+		},
+		"plus-que-parfait": {
+			"j'": "étais empiré",
+			"tu": "étais empiré",
+			"il/elle": "avait empiré",
+			"nous": "étions empirés",
+			"vous": "étiez empirés",
+			"ils/elles": "avaient empiré",
+			"": "",
+			"il": "était empiré",
+			"elle": "était empirée",
+			"ils": "étaient empirés",
+			"elles": "étaient empirées"
+		},
+		"passé antérieur": {
+			"j'": "eus empiré",
+			"tu": "fus empiré",
+			"il/elle": "eut empiré",
+			"nous": "fûmes empirés",
+			"vous": "fûtes empirés",
+			"ils/elles": "eurent empiré",
+			"": "",
+			"je": "fus empiré",
+			"il": "fut empiré",
+			"elle": "fut empirée",
+			"ils": "furent empirés",
+			"elles": "furent empirées"
+		},
+		"futur antérieur": {
+			"j'": "aurai empiré",
+			"tu": "seras empiré",
+			"il/elle": "aura empiré",
+			"nous": "serons empirés",
+			"vous": "serez empirés",
+			"ils/elles": "auront empiré",
+			"": "",
+			"je": "serai empiré",
+			"il": "sera empiré",
+			"elle": "sera empirée",
+			"ils": "seront empirés",
+			"elles": "seront empirées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "empire",
+			"que": "vous empiriez",
+			"qu'il/elle": "empire",
+			"qu'ils/elles": "empirent"
+		},
+		"imparfait": {
+			"j'": "empirasse",
+			"que": "vous empirassiez",
+			"qu'il/elle": "empirât",
+			"qu'ils/elles": "empirassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse empiré",
+			"que": "vous fussiez empirés",
+			"qu'il/elle": "eût empiré",
+			"qu'ils/elles": "eussent empiré",
+			"": "",
+			"qu'il": "fût empiré",
+			"qu'elle": "fût empirée",
+			"qu'ils": "fussent empirés",
+			"qu'elles": "fussent empirées"
+		},
+		"passé": {
+			"j'": "aie empiré",
+			"que": "vous soyez empirés",
+			"qu'il/elle": "ait empiré",
+			"qu'ils/elles": "aient empiré",
+			"": "",
+			"qu'il": "soit empiré",
+			"qu'elle": "soit empirée",
+			"qu'ils": "soient empirés",
+			"qu'elles": "soient empirées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "empirerais",
+			"tu": "empirerais",
+			"il/elle": "empirerait",
+			"nous": "empirerions",
+			"vous": "empireriez",
+			"ils/elles": "empireraient"
+		},
+		"passé première forme": {
+			"j'": "aurais empiré",
+			"tu": "serais empiré",
+			"il/elle": "aurait empiré",
+			"nous": "serions empirés",
+			"vous": "seriez empirés",
+			"ils/elles": "auraient empiré",
+			"": "",
+			"je": "serais empiré",
+			"il": "serait empiré",
+			"elle": "serait empirée",
+			"ils": "seraient empirés",
+			"elles": "seraient empirées"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse empiré",
+			"tu": "fusses empiré",
+			"il/elle": "eût empiré",
+			"nous": "fussions empirés",
+			"vous": "fussiez empirés",
+			"ils/elles": "eussent empiré",
+			"": "",
+			"je": "fusse empiré",
+			"il": "fût empiré",
+			"elle": "fût empirée",
+			"ils": "fussent empirés",
+			"elles": "fussent empirées"
+		}
+	},
+	"participe": {
+		"présent": { "empirant": "" },
+		"passé composé": { "ayant": "empiré", "": "", "étant": "empirée" },
+		"passé": {
+			"masc.sg.:": "empiré",
+			"masc.pl.:": "empirés",
+			"fém.sg.:": "empirée",
+			"fém.pl.:": "empirées"
+		}
+	},
+	"imperatif": {
+		"présent": { "empire": "", "empirons": "", "empirez": "" },
+		"passé": {
+			"aie": "empiré",
+			"ayons": "empiré",
+			"ayez": "empiré",
+			"": "",
+			"sois": "empiré",
+			"soyons": "empiré",
+			"soyez": "empiré"
+		}
+	},
+	"infinitif": {
+		"présent": { "empirer": "" },
+		"passé": { "avoir": "empiré", "": "", "être": "empiré" }
+	}
+}

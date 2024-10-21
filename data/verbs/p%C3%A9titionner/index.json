@@ -1,0 +1,145 @@
+{
+	"name": "pétitionner",
+	"definition": "petition; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas pétitionner",
+	"indicatif": {
+		"présent": {
+			"je": "pétitionne",
+			"tu": "pétitionnes",
+			"il/elle": "pétitionne",
+			"nous": "pétitionnons",
+			"vous": "pétitionnez",
+			"ils/elles": "pétitionnent"
+		},
+		"imparfait": {
+			"je": "pétitionnais",
+			"tu": "pétitionnais",
+			"il/elle": "pétitionnait",
+			"nous": "pétitionnions",
+			"vous": "pétitionniez",
+			"ils/elles": "pétitionnaient"
+		},
+		"futur": {
+			"je": "pétitionnerai",
+			"tu": "pétitionneras",
+			"il/elle": "pétitionnera",
+			"nous": "pétitionnerons",
+			"vous": "pétitionnerez",
+			"ils/elles": "pétitionneront"
+		},
+		"passé simple": {
+			"je": "pétitionnai",
+			"tu": "pétitionnas",
+			"il/elle": "pétitionna",
+			"nous": "pétitionnâmes",
+			"vous": "pétitionnâtes",
+			"ils/elles": "pétitionnèrent"
+		},
+		"passé composé": {
+			"j'": "ai pétitionné",
+			"tu": "as pétitionné",
+			"il/elle": "a pétitionné",
+			"nous": "avons pétitionné",
+			"vous": "avez pétitionné",
+			"ils/elles": "ont pétitionné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais pétitionné",
+			"tu": "avais pétitionné",
+			"il/elle": "avait pétitionné",
+			"nous": "avions pétitionné",
+			"vous": "aviez pétitionné",
+			"ils/elles": "avaient pétitionné"
+		},
+		"passé antérieur": {
+			"j'": "eus pétitionné",
+			"tu": "eus pétitionné",
+			"il/elle": "eut pétitionné",
+			"nous": "eûmes pétitionné",
+			"vous": "eûtes pétitionné",
+			"ils/elles": "eurent pétitionné"
+		},
+		"futur antérieur": {
+			"j'": "aurai pétitionné",
+			"tu": "auras pétitionné",
+			"il/elle": "aura pétitionné",
+			"nous": "aurons pétitionné",
+			"vous": "aurez pétitionné",
+			"ils/elles": "auront pétitionné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous pétitionniez",
+			"qu'il/elle": "pétitionne",
+			"qu'ils/elles": "pétitionnent"
+		},
+		"imparfait": {
+			"que": "vous pétitionnassiez",
+			"qu'il/elle": "pétitionnât",
+			"qu'ils/elles": "pétitionnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse pétitionné",
+			"que": "vous eussiez pétitionné",
+			"qu'il/elle": "eût pétitionné",
+			"qu'ils/elles": "eussent pétitionné"
+		},
+		"passé": {
+			"j'": "aie pétitionné",
+			"que": "vous ayez pétitionné",
+			"qu'il/elle": "ait pétitionné",
+			"qu'ils/elles": "aient pétitionné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "pétitionnerais",
+			"tu": "pétitionnerais",
+			"il/elle": "pétitionnerait",
+			"nous": "pétitionnerions",
+			"vous": "pétitionneriez",
+			"ils/elles": "pétitionneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais pétitionné",
+			"tu": "aurais pétitionné",
+			"il/elle": "aurait pétitionné",
+			"nous": "aurions pétitionné",
+			"vous": "auriez pétitionné",
+			"ils/elles": "auraient pétitionné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse pétitionné",
+			"tu": "eusses pétitionné",
+			"il/elle": "eût pétitionné",
+			"nous": "eussions pétitionné",
+			"vous": "eussiez pétitionné",
+			"ils/elles": "eussent pétitionné"
+		}
+	},
+	"participe": {
+		"présent": { "pétitionnant": "" },
+		"passé composé": { "ayant": "pétitionné" },
+		"passé": {
+			"masc.sg.:": "pétitionné",
+			"masc.pl.:": "pétitionnés",
+			"fém.sg.:": "pétitionnée",
+			"fém.pl.:": "pétitionnées"
+		}
+	},
+	"imperatif": {
+		"présent": { "pétitionne": "", "pétitionnons": "", "pétitionnez": "" },
+		"passé": {
+			"aie": "pétitionné",
+			"ayons": "pétitionné",
+			"ayez": "pétitionné"
+		}
+	},
+	"infinitif": {
+		"présent": { "pétitionner": "" },
+		"passé": { "avoir": "pétitionné" }
+	}
+}

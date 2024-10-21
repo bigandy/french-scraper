@@ -1,0 +1,138 @@
+{
+	"name": "claper",
+	"definition": "",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se claper/ne pas claper/ne pas se claper",
+	"indicatif": {
+		"présent": {
+			"je": "clape",
+			"tu": "clapes",
+			"il/elle": "clape",
+			"nous": "clapons",
+			"vous": "clapez",
+			"ils/elles": "clapent"
+		},
+		"imparfait": {
+			"je": "clapais",
+			"tu": "clapais",
+			"il/elle": "clapait",
+			"nous": "clapions",
+			"vous": "clapiez",
+			"ils/elles": "clapaient"
+		},
+		"futur": {
+			"je": "claperai",
+			"tu": "claperas",
+			"il/elle": "clapera",
+			"nous": "claperons",
+			"vous": "claperez",
+			"ils/elles": "claperont"
+		},
+		"passé simple": {
+			"je": "clapai",
+			"tu": "clapas",
+			"il/elle": "clapa",
+			"nous": "clapâmes",
+			"vous": "clapâtes",
+			"ils/elles": "clapèrent"
+		},
+		"passé composé": {
+			"j'": "ai clapé",
+			"tu": "as clapé",
+			"il/elle": "a clapé",
+			"nous": "avons clapé",
+			"vous": "avez clapé",
+			"ils/elles": "ont clapé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais clapé",
+			"tu": "avais clapé",
+			"il/elle": "avait clapé",
+			"nous": "avions clapé",
+			"vous": "aviez clapé",
+			"ils/elles": "avaient clapé"
+		},
+		"passé antérieur": {
+			"j'": "eus clapé",
+			"tu": "eus clapé",
+			"il/elle": "eut clapé",
+			"nous": "eûmes clapé",
+			"vous": "eûtes clapé",
+			"ils/elles": "eurent clapé"
+		},
+		"futur antérieur": {
+			"j'": "aurai clapé",
+			"tu": "auras clapé",
+			"il/elle": "aura clapé",
+			"nous": "aurons clapé",
+			"vous": "aurez clapé",
+			"ils/elles": "auront clapé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous clapiez",
+			"qu'il/elle": "clape",
+			"qu'ils/elles": "clapent"
+		},
+		"imparfait": {
+			"que": "vous clapassiez",
+			"qu'il/elle": "clapât",
+			"qu'ils/elles": "clapassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse clapé",
+			"que": "vous eussiez clapé",
+			"qu'il/elle": "eût clapé",
+			"qu'ils/elles": "eussent clapé"
+		},
+		"passé": {
+			"j'": "aie clapé",
+			"que": "vous ayez clapé",
+			"qu'il/elle": "ait clapé",
+			"qu'ils/elles": "aient clapé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "claperais",
+			"tu": "claperais",
+			"il/elle": "claperait",
+			"nous": "claperions",
+			"vous": "claperiez",
+			"ils/elles": "claperaient"
+		},
+		"passé première forme": {
+			"j'": "aurais clapé",
+			"tu": "aurais clapé",
+			"il/elle": "aurait clapé",
+			"nous": "aurions clapé",
+			"vous": "auriez clapé",
+			"ils/elles": "auraient clapé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse clapé",
+			"tu": "eusses clapé",
+			"il/elle": "eût clapé",
+			"nous": "eussions clapé",
+			"vous": "eussiez clapé",
+			"ils/elles": "eussent clapé"
+		}
+	},
+	"participe": {
+		"présent": { "clapant": "" },
+		"passé composé": { "ayant": "clapé" },
+		"passé": {
+			"masc.sg.:": "clapé",
+			"masc.pl.:": "clapés",
+			"fém.sg.:": "clapée",
+			"fém.pl.:": "clapées"
+		}
+	},
+	"imperatif": {
+		"présent": { "clape": "", "clapons": "", "clapez": "" },
+		"passé": { "aie": "clapé", "ayons": "clapé", "ayez": "clapé" }
+	},
+	"infinitif": { "présent": { "claper": "" }, "passé": { "avoir": "clapé" } }
+}

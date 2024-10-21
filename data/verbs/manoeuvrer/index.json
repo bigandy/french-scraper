@@ -1,0 +1,141 @@
+{
+	"name": "manoeuvrer",
+	"definition": "manoeuvre; maneuver; operate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se manoeuvrer/ne pas manoeuvrer/ne pas se manoeuvrer",
+	"indicatif": {
+		"présent": {
+			"je": "manoeuvre",
+			"tu": "manoeuvres",
+			"il/elle": "manoeuvre",
+			"nous": "manoeuvrons",
+			"vous": "manoeuvrez",
+			"ils/elles": "manoeuvrent"
+		},
+		"imparfait": {
+			"je": "manoeuvrais",
+			"tu": "manoeuvrais",
+			"il/elle": "manoeuvrait",
+			"nous": "manoeuvrions",
+			"vous": "manoeuvriez",
+			"ils/elles": "manoeuvraient"
+		},
+		"futur": {
+			"je": "manoeuvrerai",
+			"tu": "manoeuvreras",
+			"il/elle": "manoeuvrera",
+			"nous": "manoeuvrerons",
+			"vous": "manoeuvrerez",
+			"ils/elles": "manoeuvreront"
+		},
+		"passé simple": {
+			"je": "manoeuvrai",
+			"tu": "manoeuvras",
+			"il/elle": "manoeuvra",
+			"nous": "manoeuvrâmes",
+			"vous": "manoeuvrâtes",
+			"ils/elles": "manoeuvrèrent"
+		},
+		"passé composé": {
+			"j'": "ai manoeuvré",
+			"tu": "as manoeuvré",
+			"il/elle": "a manoeuvré",
+			"nous": "avons manoeuvré",
+			"vous": "avez manoeuvré",
+			"ils/elles": "ont manoeuvré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais manoeuvré",
+			"tu": "avais manoeuvré",
+			"il/elle": "avait manoeuvré",
+			"nous": "avions manoeuvré",
+			"vous": "aviez manoeuvré",
+			"ils/elles": "avaient manoeuvré"
+		},
+		"passé antérieur": {
+			"j'": "eus manoeuvré",
+			"tu": "eus manoeuvré",
+			"il/elle": "eut manoeuvré",
+			"nous": "eûmes manoeuvré",
+			"vous": "eûtes manoeuvré",
+			"ils/elles": "eurent manoeuvré"
+		},
+		"futur antérieur": {
+			"j'": "aurai manoeuvré",
+			"tu": "auras manoeuvré",
+			"il/elle": "aura manoeuvré",
+			"nous": "aurons manoeuvré",
+			"vous": "aurez manoeuvré",
+			"ils/elles": "auront manoeuvré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous manoeuvriez",
+			"qu'il/elle": "manoeuvre",
+			"qu'ils/elles": "manoeuvrent"
+		},
+		"imparfait": {
+			"que": "vous manoeuvrassiez",
+			"qu'il/elle": "manoeuvrât",
+			"qu'ils/elles": "manoeuvrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse manoeuvré",
+			"que": "vous eussiez manoeuvré",
+			"qu'il/elle": "eût manoeuvré",
+			"qu'ils/elles": "eussent manoeuvré"
+		},
+		"passé": {
+			"j'": "aie manoeuvré",
+			"que": "vous ayez manoeuvré",
+			"qu'il/elle": "ait manoeuvré",
+			"qu'ils/elles": "aient manoeuvré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "manoeuvrerais",
+			"tu": "manoeuvrerais",
+			"il/elle": "manoeuvrerait",
+			"nous": "manoeuvrerions",
+			"vous": "manoeuvreriez",
+			"ils/elles": "manoeuvreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais manoeuvré",
+			"tu": "aurais manoeuvré",
+			"il/elle": "aurait manoeuvré",
+			"nous": "aurions manoeuvré",
+			"vous": "auriez manoeuvré",
+			"ils/elles": "auraient manoeuvré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse manoeuvré",
+			"tu": "eusses manoeuvré",
+			"il/elle": "eût manoeuvré",
+			"nous": "eussions manoeuvré",
+			"vous": "eussiez manoeuvré",
+			"ils/elles": "eussent manoeuvré"
+		}
+	},
+	"participe": {
+		"présent": { "manoeuvrant": "" },
+		"passé composé": { "ayant": "manoeuvré" },
+		"passé": {
+			"masc.sg.:": "manoeuvré",
+			"masc.pl.:": "manoeuvrés",
+			"fém.sg.:": "manoeuvrée",
+			"fém.pl.:": "manoeuvrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "manoeuvre": "", "manoeuvrons": "", "manoeuvrez": "" },
+		"passé": { "aie": "manoeuvré", "ayons": "manoeuvré", "ayez": "manoeuvré" }
+	},
+	"infinitif": {
+		"présent": { "manoeuvrer": "" },
+		"passé": { "avoir": "manoeuvré" }
+	}
+}

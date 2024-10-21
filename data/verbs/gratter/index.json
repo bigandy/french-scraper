@@ -1,0 +1,138 @@
+{
+	"name": "gratter",
+	"definition": "scratch; scrape; itch; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se gratter/ne pas gratter/ne pas se gratter",
+	"indicatif": {
+		"présent": {
+			"je": "gratte",
+			"tu": "grattes",
+			"il/elle": "gratte",
+			"nous": "grattons",
+			"vous": "grattez",
+			"ils/elles": "grattent"
+		},
+		"imparfait": {
+			"je": "grattais",
+			"tu": "grattais",
+			"il/elle": "grattait",
+			"nous": "grattions",
+			"vous": "grattiez",
+			"ils/elles": "grattaient"
+		},
+		"futur": {
+			"je": "gratterai",
+			"tu": "gratteras",
+			"il/elle": "grattera",
+			"nous": "gratterons",
+			"vous": "gratterez",
+			"ils/elles": "gratteront"
+		},
+		"passé simple": {
+			"je": "grattai",
+			"tu": "grattas",
+			"il/elle": "gratta",
+			"nous": "grattâmes",
+			"vous": "grattâtes",
+			"ils/elles": "grattèrent"
+		},
+		"passé composé": {
+			"j'": "ai gratté",
+			"tu": "as gratté",
+			"il/elle": "a gratté",
+			"nous": "avons gratté",
+			"vous": "avez gratté",
+			"ils/elles": "ont gratté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais gratté",
+			"tu": "avais gratté",
+			"il/elle": "avait gratté",
+			"nous": "avions gratté",
+			"vous": "aviez gratté",
+			"ils/elles": "avaient gratté"
+		},
+		"passé antérieur": {
+			"j'": "eus gratté",
+			"tu": "eus gratté",
+			"il/elle": "eut gratté",
+			"nous": "eûmes gratté",
+			"vous": "eûtes gratté",
+			"ils/elles": "eurent gratté"
+		},
+		"futur antérieur": {
+			"j'": "aurai gratté",
+			"tu": "auras gratté",
+			"il/elle": "aura gratté",
+			"nous": "aurons gratté",
+			"vous": "aurez gratté",
+			"ils/elles": "auront gratté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous grattiez",
+			"qu'il/elle": "gratte",
+			"qu'ils/elles": "grattent"
+		},
+		"imparfait": {
+			"que": "vous grattassiez",
+			"qu'il/elle": "grattât",
+			"qu'ils/elles": "grattassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse gratté",
+			"que": "vous eussiez gratté",
+			"qu'il/elle": "eût gratté",
+			"qu'ils/elles": "eussent gratté"
+		},
+		"passé": {
+			"j'": "aie gratté",
+			"que": "vous ayez gratté",
+			"qu'il/elle": "ait gratté",
+			"qu'ils/elles": "aient gratté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "gratterais",
+			"tu": "gratterais",
+			"il/elle": "gratterait",
+			"nous": "gratterions",
+			"vous": "gratteriez",
+			"ils/elles": "gratteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais gratté",
+			"tu": "aurais gratté",
+			"il/elle": "aurait gratté",
+			"nous": "aurions gratté",
+			"vous": "auriez gratté",
+			"ils/elles": "auraient gratté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse gratté",
+			"tu": "eusses gratté",
+			"il/elle": "eût gratté",
+			"nous": "eussions gratté",
+			"vous": "eussiez gratté",
+			"ils/elles": "eussent gratté"
+		}
+	},
+	"participe": {
+		"présent": { "grattant": "" },
+		"passé composé": { "ayant": "gratté" },
+		"passé": {
+			"masc.sg.:": "gratté",
+			"masc.pl.:": "grattés",
+			"fém.sg.:": "grattée",
+			"fém.pl.:": "grattées"
+		}
+	},
+	"imperatif": {
+		"présent": { "gratte": "", "grattons": "", "grattez": "" },
+		"passé": { "aie": "gratté", "ayons": "gratté", "ayez": "gratté" }
+	},
+	"infinitif": { "présent": { "gratter": "" }, "passé": { "avoir": "gratté" } }
+}

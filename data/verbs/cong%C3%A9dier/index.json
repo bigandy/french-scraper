@@ -1,0 +1,141 @@
+{
+	"name": "congédier",
+	"definition": "fire; dismiss; discharge; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se congédier/ne pas congédier/ne pas se congédier",
+	"indicatif": {
+		"présent": {
+			"je": "congédie",
+			"tu": "congédies",
+			"il/elle": "congédie",
+			"nous": "congédions",
+			"vous": "congédiez",
+			"ils/elles": "congédient"
+		},
+		"imparfait": {
+			"je": "congédiais",
+			"tu": "congédiais",
+			"il/elle": "congédiait",
+			"nous": "congédiions",
+			"vous": "congédiiez",
+			"ils/elles": "congédiaient"
+		},
+		"futur": {
+			"je": "congédierai",
+			"tu": "congédieras",
+			"il/elle": "congédiera",
+			"nous": "congédierons",
+			"vous": "congédierez",
+			"ils/elles": "congédieront"
+		},
+		"passé simple": {
+			"je": "congédiai",
+			"tu": "congédias",
+			"il/elle": "congédia",
+			"nous": "congédiâmes",
+			"vous": "congédiâtes",
+			"ils/elles": "congédièrent"
+		},
+		"passé composé": {
+			"j'": "ai congédié",
+			"tu": "as congédié",
+			"il/elle": "a congédié",
+			"nous": "avons congédié",
+			"vous": "avez congédié",
+			"ils/elles": "ont congédié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais congédié",
+			"tu": "avais congédié",
+			"il/elle": "avait congédié",
+			"nous": "avions congédié",
+			"vous": "aviez congédié",
+			"ils/elles": "avaient congédié"
+		},
+		"passé antérieur": {
+			"j'": "eus congédié",
+			"tu": "eus congédié",
+			"il/elle": "eut congédié",
+			"nous": "eûmes congédié",
+			"vous": "eûtes congédié",
+			"ils/elles": "eurent congédié"
+		},
+		"futur antérieur": {
+			"j'": "aurai congédié",
+			"tu": "auras congédié",
+			"il/elle": "aura congédié",
+			"nous": "aurons congédié",
+			"vous": "aurez congédié",
+			"ils/elles": "auront congédié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous congédiiez",
+			"qu'il/elle": "congédie",
+			"qu'ils/elles": "congédient"
+		},
+		"imparfait": {
+			"que": "vous congédiassiez",
+			"qu'il/elle": "congédiât",
+			"qu'ils/elles": "congédiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse congédié",
+			"que": "vous eussiez congédié",
+			"qu'il/elle": "eût congédié",
+			"qu'ils/elles": "eussent congédié"
+		},
+		"passé": {
+			"j'": "aie congédié",
+			"que": "vous ayez congédié",
+			"qu'il/elle": "ait congédié",
+			"qu'ils/elles": "aient congédié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "congédierais",
+			"tu": "congédierais",
+			"il/elle": "congédierait",
+			"nous": "congédierions",
+			"vous": "congédieriez",
+			"ils/elles": "congédieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais congédié",
+			"tu": "aurais congédié",
+			"il/elle": "aurait congédié",
+			"nous": "aurions congédié",
+			"vous": "auriez congédié",
+			"ils/elles": "auraient congédié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse congédié",
+			"tu": "eusses congédié",
+			"il/elle": "eût congédié",
+			"nous": "eussions congédié",
+			"vous": "eussiez congédié",
+			"ils/elles": "eussent congédié"
+		}
+	},
+	"participe": {
+		"présent": { "congédiant": "" },
+		"passé composé": { "ayant": "congédié" },
+		"passé": {
+			"masc.sg.:": "congédié",
+			"masc.pl.:": "congédiés",
+			"fém.sg.:": "congédiée",
+			"fém.pl.:": "congédiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "congédie": "", "congédions": "", "congédiez": "" },
+		"passé": { "aie": "congédié", "ayons": "congédié", "ayez": "congédié" }
+	},
+	"infinitif": {
+		"présent": { "congédier": "" },
+		"passé": { "avoir": "congédié" }
+	}
+}

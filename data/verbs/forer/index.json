@@ -1,0 +1,138 @@
+{
+	"name": "forer",
+	"definition": "drill; bore; sink; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se forer/ne pas forer/ne pas se forer",
+	"indicatif": {
+		"présent": {
+			"je": "fore",
+			"tu": "fores",
+			"il/elle": "fore",
+			"nous": "forons",
+			"vous": "forez",
+			"ils/elles": "forent"
+		},
+		"imparfait": {
+			"je": "forais",
+			"tu": "forais",
+			"il/elle": "forait",
+			"nous": "forions",
+			"vous": "foriez",
+			"ils/elles": "foraient"
+		},
+		"futur": {
+			"je": "forerai",
+			"tu": "foreras",
+			"il/elle": "forera",
+			"nous": "forerons",
+			"vous": "forerez",
+			"ils/elles": "foreront"
+		},
+		"passé simple": {
+			"je": "forai",
+			"tu": "foras",
+			"il/elle": "fora",
+			"nous": "forâmes",
+			"vous": "forâtes",
+			"ils/elles": "forèrent"
+		},
+		"passé composé": {
+			"j'": "ai foré",
+			"tu": "as foré",
+			"il/elle": "a foré",
+			"nous": "avons foré",
+			"vous": "avez foré",
+			"ils/elles": "ont foré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais foré",
+			"tu": "avais foré",
+			"il/elle": "avait foré",
+			"nous": "avions foré",
+			"vous": "aviez foré",
+			"ils/elles": "avaient foré"
+		},
+		"passé antérieur": {
+			"j'": "eus foré",
+			"tu": "eus foré",
+			"il/elle": "eut foré",
+			"nous": "eûmes foré",
+			"vous": "eûtes foré",
+			"ils/elles": "eurent foré"
+		},
+		"futur antérieur": {
+			"j'": "aurai foré",
+			"tu": "auras foré",
+			"il/elle": "aura foré",
+			"nous": "aurons foré",
+			"vous": "aurez foré",
+			"ils/elles": "auront foré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous foriez",
+			"qu'il/elle": "fore",
+			"qu'ils/elles": "forent"
+		},
+		"imparfait": {
+			"que": "vous forassiez",
+			"qu'il/elle": "forât",
+			"qu'ils/elles": "forassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse foré",
+			"que": "vous eussiez foré",
+			"qu'il/elle": "eût foré",
+			"qu'ils/elles": "eussent foré"
+		},
+		"passé": {
+			"j'": "aie foré",
+			"que": "vous ayez foré",
+			"qu'il/elle": "ait foré",
+			"qu'ils/elles": "aient foré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "forerais",
+			"tu": "forerais",
+			"il/elle": "forerait",
+			"nous": "forerions",
+			"vous": "foreriez",
+			"ils/elles": "foreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais foré",
+			"tu": "aurais foré",
+			"il/elle": "aurait foré",
+			"nous": "aurions foré",
+			"vous": "auriez foré",
+			"ils/elles": "auraient foré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse foré",
+			"tu": "eusses foré",
+			"il/elle": "eût foré",
+			"nous": "eussions foré",
+			"vous": "eussiez foré",
+			"ils/elles": "eussent foré"
+		}
+	},
+	"participe": {
+		"présent": { "forant": "" },
+		"passé composé": { "ayant": "foré" },
+		"passé": {
+			"masc.sg.:": "foré",
+			"masc.pl.:": "forés",
+			"fém.sg.:": "forée",
+			"fém.pl.:": "forées"
+		}
+	},
+	"imperatif": {
+		"présent": { "fore": "", "forons": "", "forez": "" },
+		"passé": { "aie": "foré", "ayons": "foré", "ayez": "foré" }
+	},
+	"infinitif": { "présent": { "forer": "" }, "passé": { "avoir": "foré" } }
+}

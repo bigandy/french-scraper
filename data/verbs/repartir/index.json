@@ -1,0 +1,152 @@
+{
+	"name": "repartir",
+	"definition": "leave; go back; return; ...",
+	"model": "mentir",
+	"auxiliary": "être",
+	"otherForms": "se repartir/ne pas repartir/ne pas se repartir",
+	"indicatif": {
+		"présent": {
+			"je": "repars",
+			"tu": "repars",
+			"il/elle": "repart",
+			"nous": "repartons",
+			"vous": "repartez",
+			"ils/elles": "repartent"
+		},
+		"imparfait": {
+			"je": "repartais",
+			"tu": "repartais",
+			"il/elle": "repartait",
+			"nous": "repartions",
+			"vous": "repartiez",
+			"ils/elles": "repartaient"
+		},
+		"futur": {
+			"je": "repartirai",
+			"tu": "repartiras",
+			"il/elle": "repartira",
+			"nous": "repartirons",
+			"vous": "repartirez",
+			"ils/elles": "repartiront"
+		},
+		"passé simple": {
+			"je": "repartis",
+			"tu": "repartis",
+			"il/elle": "repartit",
+			"nous": "repartîmes",
+			"vous": "repartîtes",
+			"ils/elles": "repartirent"
+		},
+		"passé composé": {
+			"je": "suis reparti",
+			"tu": "es reparti",
+			"il": "est reparti",
+			"elle": "est repartie",
+			"nous": "sommes repartis",
+			"vous": "êtes repartis",
+			"ils": "sont repartis",
+			"elles": "sont reparties"
+		},
+		"plus-que-parfait": {
+			"j'": "étais reparti",
+			"tu": "étais reparti",
+			"il": "était reparti",
+			"elle": "était repartie",
+			"nous": "étions repartis",
+			"vous": "étiez repartis",
+			"ils": "étaient repartis",
+			"elles": "étaient reparties"
+		},
+		"passé antérieur": {
+			"je": "fus reparti",
+			"tu": "fus reparti",
+			"il": "fut reparti",
+			"elle": "fut repartie",
+			"nous": "fûmes repartis",
+			"vous": "fûtes repartis",
+			"ils": "furent repartis",
+			"elles": "furent reparties"
+		},
+		"futur antérieur": {
+			"je": "serai reparti",
+			"tu": "seras reparti",
+			"il": "sera reparti",
+			"elle": "sera repartie",
+			"nous": "serons repartis",
+			"vous": "serez repartis",
+			"ils": "seront repartis",
+			"elles": "seront reparties"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous repartiez",
+			"qu'il/elle": "reparte",
+			"qu'ils/elles": "repartent"
+		},
+		"imparfait": {
+			"que": "vous repartissiez",
+			"qu'il/elle": "repartît",
+			"qu'ils/elles": "repartissent"
+		},
+		"plus-que-parfait": {
+			"que": "vous fussiez repartis",
+			"qu'il": "fût reparti",
+			"qu'elle": "fût repartie",
+			"qu'ils": "fussent repartis",
+			"qu'elles": "fussent reparties"
+		},
+		"passé": {
+			"que": "vous soyez repartis",
+			"qu'il": "soit reparti",
+			"qu'elle": "soit repartie",
+			"qu'ils": "soient repartis",
+			"qu'elles": "soient reparties"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "repartirais",
+			"tu": "repartirais",
+			"il/elle": "repartirait",
+			"nous": "repartirions",
+			"vous": "repartiriez",
+			"ils/elles": "repartiraient"
+		},
+		"passé première forme": {
+			"je": "serais reparti",
+			"tu": "serais reparti",
+			"il": "serait reparti",
+			"elle": "serait repartie",
+			"nous": "serions repartis",
+			"vous": "seriez repartis",
+			"ils": "seraient repartis",
+			"elles": "seraient reparties"
+		},
+		"passé deuxième forme": {
+			"je": "fusse reparti",
+			"tu": "fusses reparti",
+			"il": "fût reparti",
+			"elle": "fût repartie",
+			"nous": "fussions repartis",
+			"vous": "fussiez repartis",
+			"ils": "fussent repartis",
+			"elles": "fussent reparties"
+		}
+	},
+	"participe": {
+		"présent": { "repartant": "" },
+		"passé composé": { "étant": "repartie" },
+		"passé": {
+			"masc.sg.:": "reparti",
+			"masc.pl.:": "repartis",
+			"fém.sg.:": "repartie",
+			"fém.pl.:": "reparties"
+		}
+	},
+	"imperatif": {
+		"présent": { "repars": "", "repartons": "", "repartez": "" },
+		"passé": { "sois": "reparti", "soyons": "reparti", "soyez": "reparti" }
+	},
+	"infinitif": { "présent": { "repartir": "" }, "passé": { "être": "reparti" } }
+}

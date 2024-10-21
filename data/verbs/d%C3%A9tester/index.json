@@ -1,0 +1,141 @@
+{
+	"name": "détester",
+	"definition": "hate; dislike; loathe; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se détester/ne pas détester/ne pas se détester",
+	"indicatif": {
+		"présent": {
+			"je": "déteste",
+			"tu": "détestes",
+			"il/elle": "déteste",
+			"nous": "détestons",
+			"vous": "détestez",
+			"ils/elles": "détestent"
+		},
+		"imparfait": {
+			"je": "détestais",
+			"tu": "détestais",
+			"il/elle": "détestait",
+			"nous": "détestions",
+			"vous": "détestiez",
+			"ils/elles": "détestaient"
+		},
+		"futur": {
+			"je": "détesterai",
+			"tu": "détesteras",
+			"il/elle": "détestera",
+			"nous": "détesterons",
+			"vous": "détesterez",
+			"ils/elles": "détesteront"
+		},
+		"passé simple": {
+			"je": "détestai",
+			"tu": "détestas",
+			"il/elle": "détesta",
+			"nous": "détestâmes",
+			"vous": "détestâtes",
+			"ils/elles": "détestèrent"
+		},
+		"passé composé": {
+			"j'": "ai détesté",
+			"tu": "as détesté",
+			"il/elle": "a détesté",
+			"nous": "avons détesté",
+			"vous": "avez détesté",
+			"ils/elles": "ont détesté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais détesté",
+			"tu": "avais détesté",
+			"il/elle": "avait détesté",
+			"nous": "avions détesté",
+			"vous": "aviez détesté",
+			"ils/elles": "avaient détesté"
+		},
+		"passé antérieur": {
+			"j'": "eus détesté",
+			"tu": "eus détesté",
+			"il/elle": "eut détesté",
+			"nous": "eûmes détesté",
+			"vous": "eûtes détesté",
+			"ils/elles": "eurent détesté"
+		},
+		"futur antérieur": {
+			"j'": "aurai détesté",
+			"tu": "auras détesté",
+			"il/elle": "aura détesté",
+			"nous": "aurons détesté",
+			"vous": "aurez détesté",
+			"ils/elles": "auront détesté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous détestiez",
+			"qu'il/elle": "déteste",
+			"qu'ils/elles": "détestent"
+		},
+		"imparfait": {
+			"que": "vous détestassiez",
+			"qu'il/elle": "détestât",
+			"qu'ils/elles": "détestassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse détesté",
+			"que": "vous eussiez détesté",
+			"qu'il/elle": "eût détesté",
+			"qu'ils/elles": "eussent détesté"
+		},
+		"passé": {
+			"j'": "aie détesté",
+			"que": "vous ayez détesté",
+			"qu'il/elle": "ait détesté",
+			"qu'ils/elles": "aient détesté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "détesterais",
+			"tu": "détesterais",
+			"il/elle": "détesterait",
+			"nous": "détesterions",
+			"vous": "détesteriez",
+			"ils/elles": "détesteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais détesté",
+			"tu": "aurais détesté",
+			"il/elle": "aurait détesté",
+			"nous": "aurions détesté",
+			"vous": "auriez détesté",
+			"ils/elles": "auraient détesté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse détesté",
+			"tu": "eusses détesté",
+			"il/elle": "eût détesté",
+			"nous": "eussions détesté",
+			"vous": "eussiez détesté",
+			"ils/elles": "eussent détesté"
+		}
+	},
+	"participe": {
+		"présent": { "détestant": "" },
+		"passé composé": { "ayant": "détesté" },
+		"passé": {
+			"masc.sg.:": "détesté",
+			"masc.pl.:": "détestés",
+			"fém.sg.:": "détestée",
+			"fém.pl.:": "détestées"
+		}
+	},
+	"imperatif": {
+		"présent": { "déteste": "", "détestons": "", "détestez": "" },
+		"passé": { "aie": "détesté", "ayons": "détesté", "ayez": "détesté" }
+	},
+	"infinitif": {
+		"présent": { "détester": "" },
+		"passé": { "avoir": "détesté" }
+	}
+}

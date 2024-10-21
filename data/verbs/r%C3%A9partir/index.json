@@ -1,0 +1,141 @@
+{
+	"name": "répartir",
+	"definition": "distribute; allocate; divide; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se répartir/ne pas répartir/ne pas se répartir",
+	"indicatif": {
+		"présent": {
+			"je": "répartis",
+			"tu": "répartis",
+			"il/elle": "répartit",
+			"nous": "répartissons",
+			"vous": "répartissez",
+			"ils/elles": "répartissent"
+		},
+		"imparfait": {
+			"je": "répartissais",
+			"tu": "répartissais",
+			"il/elle": "répartissait",
+			"nous": "répartissions",
+			"vous": "répartissiez",
+			"ils/elles": "répartissaient"
+		},
+		"futur": {
+			"je": "répartirai",
+			"tu": "répartiras",
+			"il/elle": "répartira",
+			"nous": "répartirons",
+			"vous": "répartirez",
+			"ils/elles": "répartiront"
+		},
+		"passé simple": {
+			"je": "répartis",
+			"tu": "répartis",
+			"il/elle": "répartit",
+			"nous": "répartîmes",
+			"vous": "répartîtes",
+			"ils/elles": "répartirent"
+		},
+		"passé composé": {
+			"j'": "ai réparti",
+			"tu": "as réparti",
+			"il/elle": "a réparti",
+			"nous": "avons réparti",
+			"vous": "avez réparti",
+			"ils/elles": "ont réparti"
+		},
+		"plus-que-parfait": {
+			"j'": "avais réparti",
+			"tu": "avais réparti",
+			"il/elle": "avait réparti",
+			"nous": "avions réparti",
+			"vous": "aviez réparti",
+			"ils/elles": "avaient réparti"
+		},
+		"passé antérieur": {
+			"j'": "eus réparti",
+			"tu": "eus réparti",
+			"il/elle": "eut réparti",
+			"nous": "eûmes réparti",
+			"vous": "eûtes réparti",
+			"ils/elles": "eurent réparti"
+		},
+		"futur antérieur": {
+			"j'": "aurai réparti",
+			"tu": "auras réparti",
+			"il/elle": "aura réparti",
+			"nous": "aurons réparti",
+			"vous": "aurez réparti",
+			"ils/elles": "auront réparti"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous répartissiez",
+			"qu'il/elle": "répartisse",
+			"qu'ils/elles": "répartissent"
+		},
+		"imparfait": {
+			"que": "vous répartissiez",
+			"qu'il/elle": "répartît",
+			"qu'ils/elles": "répartissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse réparti",
+			"que": "vous eussiez réparti",
+			"qu'il/elle": "eût réparti",
+			"qu'ils/elles": "eussent réparti"
+		},
+		"passé": {
+			"j'": "aie réparti",
+			"que": "vous ayez réparti",
+			"qu'il/elle": "ait réparti",
+			"qu'ils/elles": "aient réparti"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "répartirais",
+			"tu": "répartirais",
+			"il/elle": "répartirait",
+			"nous": "répartirions",
+			"vous": "répartiriez",
+			"ils/elles": "répartiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais réparti",
+			"tu": "aurais réparti",
+			"il/elle": "aurait réparti",
+			"nous": "aurions réparti",
+			"vous": "auriez réparti",
+			"ils/elles": "auraient réparti"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse réparti",
+			"tu": "eusses réparti",
+			"il/elle": "eût réparti",
+			"nous": "eussions réparti",
+			"vous": "eussiez réparti",
+			"ils/elles": "eussent réparti"
+		}
+	},
+	"participe": {
+		"présent": { "répartissant": "" },
+		"passé composé": { "ayant": "réparti" },
+		"passé": {
+			"masc.sg.:": "réparti",
+			"masc.pl.:": "répartis",
+			"fém.sg.:": "répartie",
+			"fém.pl.:": "réparties"
+		}
+	},
+	"imperatif": {
+		"présent": { "répartis": "", "répartissons": "", "répartissez": "" },
+		"passé": { "aie": "réparti", "ayons": "réparti", "ayez": "réparti" }
+	},
+	"infinitif": {
+		"présent": { "répartir": "" },
+		"passé": { "avoir": "réparti" }
+	}
+}

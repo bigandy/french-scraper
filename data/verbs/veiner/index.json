@@ -1,0 +1,138 @@
+{
+	"name": "veiner",
+	"definition": "vein; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se veiner/ne pas veiner/ne pas se veiner",
+	"indicatif": {
+		"présent": {
+			"je": "veine",
+			"tu": "veines",
+			"il/elle": "veine",
+			"nous": "veinons",
+			"vous": "veinez",
+			"ils/elles": "veinent"
+		},
+		"imparfait": {
+			"je": "veinais",
+			"tu": "veinais",
+			"il/elle": "veinait",
+			"nous": "veinions",
+			"vous": "veiniez",
+			"ils/elles": "veinaient"
+		},
+		"futur": {
+			"je": "veinerai",
+			"tu": "veineras",
+			"il/elle": "veinera",
+			"nous": "veinerons",
+			"vous": "veinerez",
+			"ils/elles": "veineront"
+		},
+		"passé simple": {
+			"je": "veinai",
+			"tu": "veinas",
+			"il/elle": "veina",
+			"nous": "veinâmes",
+			"vous": "veinâtes",
+			"ils/elles": "veinèrent"
+		},
+		"passé composé": {
+			"j'": "ai veiné",
+			"tu": "as veiné",
+			"il/elle": "a veiné",
+			"nous": "avons veiné",
+			"vous": "avez veiné",
+			"ils/elles": "ont veiné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais veiné",
+			"tu": "avais veiné",
+			"il/elle": "avait veiné",
+			"nous": "avions veiné",
+			"vous": "aviez veiné",
+			"ils/elles": "avaient veiné"
+		},
+		"passé antérieur": {
+			"j'": "eus veiné",
+			"tu": "eus veiné",
+			"il/elle": "eut veiné",
+			"nous": "eûmes veiné",
+			"vous": "eûtes veiné",
+			"ils/elles": "eurent veiné"
+		},
+		"futur antérieur": {
+			"j'": "aurai veiné",
+			"tu": "auras veiné",
+			"il/elle": "aura veiné",
+			"nous": "aurons veiné",
+			"vous": "aurez veiné",
+			"ils/elles": "auront veiné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous veiniez",
+			"qu'il/elle": "veine",
+			"qu'ils/elles": "veinent"
+		},
+		"imparfait": {
+			"que": "vous veinassiez",
+			"qu'il/elle": "veinât",
+			"qu'ils/elles": "veinassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse veiné",
+			"que": "vous eussiez veiné",
+			"qu'il/elle": "eût veiné",
+			"qu'ils/elles": "eussent veiné"
+		},
+		"passé": {
+			"j'": "aie veiné",
+			"que": "vous ayez veiné",
+			"qu'il/elle": "ait veiné",
+			"qu'ils/elles": "aient veiné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "veinerais",
+			"tu": "veinerais",
+			"il/elle": "veinerait",
+			"nous": "veinerions",
+			"vous": "veineriez",
+			"ils/elles": "veineraient"
+		},
+		"passé première forme": {
+			"j'": "aurais veiné",
+			"tu": "aurais veiné",
+			"il/elle": "aurait veiné",
+			"nous": "aurions veiné",
+			"vous": "auriez veiné",
+			"ils/elles": "auraient veiné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse veiné",
+			"tu": "eusses veiné",
+			"il/elle": "eût veiné",
+			"nous": "eussions veiné",
+			"vous": "eussiez veiné",
+			"ils/elles": "eussent veiné"
+		}
+	},
+	"participe": {
+		"présent": { "veinant": "" },
+		"passé composé": { "ayant": "veiné" },
+		"passé": {
+			"masc.sg.:": "veiné",
+			"masc.pl.:": "veinés",
+			"fém.sg.:": "veinée",
+			"fém.pl.:": "veinées"
+		}
+	},
+	"imperatif": {
+		"présent": { "veine": "", "veinons": "", "veinez": "" },
+		"passé": { "aie": "veiné", "ayons": "veiné", "ayez": "veiné" }
+	},
+	"infinitif": { "présent": { "veiner": "" }, "passé": { "avoir": "veiné" } }
+}

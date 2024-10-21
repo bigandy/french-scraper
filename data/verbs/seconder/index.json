@@ -1,0 +1,141 @@
+{
+	"name": "seconder",
+	"definition": "assist; complement; back up; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se seconder/ne pas seconder/ne pas se seconder",
+	"indicatif": {
+		"présent": {
+			"je": "seconde",
+			"tu": "secondes",
+			"il/elle": "seconde",
+			"nous": "secondons",
+			"vous": "secondez",
+			"ils/elles": "secondent"
+		},
+		"imparfait": {
+			"je": "secondais",
+			"tu": "secondais",
+			"il/elle": "secondait",
+			"nous": "secondions",
+			"vous": "secondiez",
+			"ils/elles": "secondaient"
+		},
+		"futur": {
+			"je": "seconderai",
+			"tu": "seconderas",
+			"il/elle": "secondera",
+			"nous": "seconderons",
+			"vous": "seconderez",
+			"ils/elles": "seconderont"
+		},
+		"passé simple": {
+			"je": "secondai",
+			"tu": "secondas",
+			"il/elle": "seconda",
+			"nous": "secondâmes",
+			"vous": "secondâtes",
+			"ils/elles": "secondèrent"
+		},
+		"passé composé": {
+			"j'": "ai secondé",
+			"tu": "as secondé",
+			"il/elle": "a secondé",
+			"nous": "avons secondé",
+			"vous": "avez secondé",
+			"ils/elles": "ont secondé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais secondé",
+			"tu": "avais secondé",
+			"il/elle": "avait secondé",
+			"nous": "avions secondé",
+			"vous": "aviez secondé",
+			"ils/elles": "avaient secondé"
+		},
+		"passé antérieur": {
+			"j'": "eus secondé",
+			"tu": "eus secondé",
+			"il/elle": "eut secondé",
+			"nous": "eûmes secondé",
+			"vous": "eûtes secondé",
+			"ils/elles": "eurent secondé"
+		},
+		"futur antérieur": {
+			"j'": "aurai secondé",
+			"tu": "auras secondé",
+			"il/elle": "aura secondé",
+			"nous": "aurons secondé",
+			"vous": "aurez secondé",
+			"ils/elles": "auront secondé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous secondiez",
+			"qu'il/elle": "seconde",
+			"qu'ils/elles": "secondent"
+		},
+		"imparfait": {
+			"que": "vous secondassiez",
+			"qu'il/elle": "secondât",
+			"qu'ils/elles": "secondassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse secondé",
+			"que": "vous eussiez secondé",
+			"qu'il/elle": "eût secondé",
+			"qu'ils/elles": "eussent secondé"
+		},
+		"passé": {
+			"j'": "aie secondé",
+			"que": "vous ayez secondé",
+			"qu'il/elle": "ait secondé",
+			"qu'ils/elles": "aient secondé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "seconderais",
+			"tu": "seconderais",
+			"il/elle": "seconderait",
+			"nous": "seconderions",
+			"vous": "seconderiez",
+			"ils/elles": "seconderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais secondé",
+			"tu": "aurais secondé",
+			"il/elle": "aurait secondé",
+			"nous": "aurions secondé",
+			"vous": "auriez secondé",
+			"ils/elles": "auraient secondé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse secondé",
+			"tu": "eusses secondé",
+			"il/elle": "eût secondé",
+			"nous": "eussions secondé",
+			"vous": "eussiez secondé",
+			"ils/elles": "eussent secondé"
+		}
+	},
+	"participe": {
+		"présent": { "secondant": "" },
+		"passé composé": { "ayant": "secondé" },
+		"passé": {
+			"masc.sg.:": "secondé",
+			"masc.pl.:": "secondés",
+			"fém.sg.:": "secondée",
+			"fém.pl.:": "secondées"
+		}
+	},
+	"imperatif": {
+		"présent": { "seconde": "", "secondons": "", "secondez": "" },
+		"passé": { "aie": "secondé", "ayons": "secondé", "ayez": "secondé" }
+	},
+	"infinitif": {
+		"présent": { "seconder": "" },
+		"passé": { "avoir": "secondé" }
+	}
+}

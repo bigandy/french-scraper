@@ -1,0 +1,145 @@
+{
+	"name": "préchauffer",
+	"definition": "preheat; pre-heat; heat; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se préchauffer/ne pas préchauffer/ne pas se préchauffer",
+	"indicatif": {
+		"présent": {
+			"je": "préchauffe",
+			"tu": "préchauffes",
+			"il/elle": "préchauffe",
+			"nous": "préchauffons",
+			"vous": "préchauffez",
+			"ils/elles": "préchauffent"
+		},
+		"imparfait": {
+			"je": "préchauffais",
+			"tu": "préchauffais",
+			"il/elle": "préchauffait",
+			"nous": "préchauffions",
+			"vous": "préchauffiez",
+			"ils/elles": "préchauffaient"
+		},
+		"futur": {
+			"je": "préchaufferai",
+			"tu": "préchaufferas",
+			"il/elle": "préchauffera",
+			"nous": "préchaufferons",
+			"vous": "préchaufferez",
+			"ils/elles": "préchaufferont"
+		},
+		"passé simple": {
+			"je": "préchauffai",
+			"tu": "préchauffas",
+			"il/elle": "préchauffa",
+			"nous": "préchauffâmes",
+			"vous": "préchauffâtes",
+			"ils/elles": "préchauffèrent"
+		},
+		"passé composé": {
+			"j'": "ai préchauffé",
+			"tu": "as préchauffé",
+			"il/elle": "a préchauffé",
+			"nous": "avons préchauffé",
+			"vous": "avez préchauffé",
+			"ils/elles": "ont préchauffé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais préchauffé",
+			"tu": "avais préchauffé",
+			"il/elle": "avait préchauffé",
+			"nous": "avions préchauffé",
+			"vous": "aviez préchauffé",
+			"ils/elles": "avaient préchauffé"
+		},
+		"passé antérieur": {
+			"j'": "eus préchauffé",
+			"tu": "eus préchauffé",
+			"il/elle": "eut préchauffé",
+			"nous": "eûmes préchauffé",
+			"vous": "eûtes préchauffé",
+			"ils/elles": "eurent préchauffé"
+		},
+		"futur antérieur": {
+			"j'": "aurai préchauffé",
+			"tu": "auras préchauffé",
+			"il/elle": "aura préchauffé",
+			"nous": "aurons préchauffé",
+			"vous": "aurez préchauffé",
+			"ils/elles": "auront préchauffé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous préchauffiez",
+			"qu'il/elle": "préchauffe",
+			"qu'ils/elles": "préchauffent"
+		},
+		"imparfait": {
+			"que": "vous préchauffassiez",
+			"qu'il/elle": "préchauffât",
+			"qu'ils/elles": "préchauffassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse préchauffé",
+			"que": "vous eussiez préchauffé",
+			"qu'il/elle": "eût préchauffé",
+			"qu'ils/elles": "eussent préchauffé"
+		},
+		"passé": {
+			"j'": "aie préchauffé",
+			"que": "vous ayez préchauffé",
+			"qu'il/elle": "ait préchauffé",
+			"qu'ils/elles": "aient préchauffé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "préchaufferais",
+			"tu": "préchaufferais",
+			"il/elle": "préchaufferait",
+			"nous": "préchaufferions",
+			"vous": "préchaufferiez",
+			"ils/elles": "préchaufferaient"
+		},
+		"passé première forme": {
+			"j'": "aurais préchauffé",
+			"tu": "aurais préchauffé",
+			"il/elle": "aurait préchauffé",
+			"nous": "aurions préchauffé",
+			"vous": "auriez préchauffé",
+			"ils/elles": "auraient préchauffé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse préchauffé",
+			"tu": "eusses préchauffé",
+			"il/elle": "eût préchauffé",
+			"nous": "eussions préchauffé",
+			"vous": "eussiez préchauffé",
+			"ils/elles": "eussent préchauffé"
+		}
+	},
+	"participe": {
+		"présent": { "préchauffant": "" },
+		"passé composé": { "ayant": "préchauffé" },
+		"passé": {
+			"masc.sg.:": "préchauffé",
+			"masc.pl.:": "préchauffés",
+			"fém.sg.:": "préchauffée",
+			"fém.pl.:": "préchauffées"
+		}
+	},
+	"imperatif": {
+		"présent": { "préchauffe": "", "préchauffons": "", "préchauffez": "" },
+		"passé": {
+			"aie": "préchauffé",
+			"ayons": "préchauffé",
+			"ayez": "préchauffé"
+		}
+	},
+	"infinitif": {
+		"présent": { "préchauffer": "" },
+		"passé": { "avoir": "préchauffé" }
+	}
+}

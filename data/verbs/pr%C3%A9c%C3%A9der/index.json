@@ -1,0 +1,141 @@
+{
+	"name": "précéder",
+	"definition": "precede; preface; predate; ...",
+	"model": "céder",
+	"auxiliary": "avoir",
+	"otherForms": "se précéder/ne pas précéder/ne pas se précéder",
+	"indicatif": {
+		"présent": {
+			"je": "précède",
+			"tu": "précèdes",
+			"il/elle": "précède",
+			"nous": "précédons",
+			"vous": "précédez",
+			"ils/elles": "précèdent"
+		},
+		"imparfait": {
+			"je": "précédais",
+			"tu": "précédais",
+			"il/elle": "précédait",
+			"nous": "précédions",
+			"vous": "précédiez",
+			"ils/elles": "précédaient"
+		},
+		"futur": {
+			"je": "précéderai",
+			"tu": "précéderas",
+			"il/elle": "précédera",
+			"nous": "précéderons",
+			"vous": "précéderez",
+			"ils/elles": "précéderont"
+		},
+		"passé simple": {
+			"je": "précédai",
+			"tu": "précédas",
+			"il/elle": "précéda",
+			"nous": "précédâmes",
+			"vous": "précédâtes",
+			"ils/elles": "précédèrent"
+		},
+		"passé composé": {
+			"j'": "ai précédé",
+			"tu": "as précédé",
+			"il/elle": "a précédé",
+			"nous": "avons précédé",
+			"vous": "avez précédé",
+			"ils/elles": "ont précédé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais précédé",
+			"tu": "avais précédé",
+			"il/elle": "avait précédé",
+			"nous": "avions précédé",
+			"vous": "aviez précédé",
+			"ils/elles": "avaient précédé"
+		},
+		"passé antérieur": {
+			"j'": "eus précédé",
+			"tu": "eus précédé",
+			"il/elle": "eut précédé",
+			"nous": "eûmes précédé",
+			"vous": "eûtes précédé",
+			"ils/elles": "eurent précédé"
+		},
+		"futur antérieur": {
+			"j'": "aurai précédé",
+			"tu": "auras précédé",
+			"il/elle": "aura précédé",
+			"nous": "aurons précédé",
+			"vous": "aurez précédé",
+			"ils/elles": "auront précédé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous précédiez",
+			"qu'il/elle": "précède",
+			"qu'ils/elles": "précèdent"
+		},
+		"imparfait": {
+			"que": "vous précédassiez",
+			"qu'il/elle": "précédât",
+			"qu'ils/elles": "précédassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse précédé",
+			"que": "vous eussiez précédé",
+			"qu'il/elle": "eût précédé",
+			"qu'ils/elles": "eussent précédé"
+		},
+		"passé": {
+			"j'": "aie précédé",
+			"que": "vous ayez précédé",
+			"qu'il/elle": "ait précédé",
+			"qu'ils/elles": "aient précédé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "précéderais",
+			"tu": "précéderais",
+			"il/elle": "précéderait",
+			"nous": "précéderions",
+			"vous": "précéderiez",
+			"ils/elles": "précéderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais précédé",
+			"tu": "aurais précédé",
+			"il/elle": "aurait précédé",
+			"nous": "aurions précédé",
+			"vous": "auriez précédé",
+			"ils/elles": "auraient précédé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse précédé",
+			"tu": "eusses précédé",
+			"il/elle": "eût précédé",
+			"nous": "eussions précédé",
+			"vous": "eussiez précédé",
+			"ils/elles": "eussent précédé"
+		}
+	},
+	"participe": {
+		"présent": { "précédant": "" },
+		"passé composé": { "ayant": "précédé" },
+		"passé": {
+			"masc.sg.:": "précédé",
+			"masc.pl.:": "précédés",
+			"fém.sg.:": "précédée",
+			"fém.pl.:": "précédées"
+		}
+	},
+	"imperatif": {
+		"présent": { "précède": "", "précédons": "", "précédez": "" },
+		"passé": { "aie": "précédé", "ayons": "précédé", "ayez": "précédé" }
+	},
+	"infinitif": {
+		"présent": { "précéder": "" },
+		"passé": { "avoir": "précédé" }
+	}
+}

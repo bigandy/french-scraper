@@ -1,0 +1,138 @@
+{
+	"name": "bouffer",
+	"definition": "eat; lunch; bite; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se bouffer/ne pas bouffer/ne pas se bouffer",
+	"indicatif": {
+		"présent": {
+			"je": "bouffe",
+			"tu": "bouffes",
+			"il/elle": "bouffe",
+			"nous": "bouffons",
+			"vous": "bouffez",
+			"ils/elles": "bouffent"
+		},
+		"imparfait": {
+			"je": "bouffais",
+			"tu": "bouffais",
+			"il/elle": "bouffait",
+			"nous": "bouffions",
+			"vous": "bouffiez",
+			"ils/elles": "bouffaient"
+		},
+		"futur": {
+			"je": "boufferai",
+			"tu": "boufferas",
+			"il/elle": "bouffera",
+			"nous": "boufferons",
+			"vous": "boufferez",
+			"ils/elles": "boufferont"
+		},
+		"passé simple": {
+			"je": "bouffai",
+			"tu": "bouffas",
+			"il/elle": "bouffa",
+			"nous": "bouffâmes",
+			"vous": "bouffâtes",
+			"ils/elles": "bouffèrent"
+		},
+		"passé composé": {
+			"j'": "ai bouffé",
+			"tu": "as bouffé",
+			"il/elle": "a bouffé",
+			"nous": "avons bouffé",
+			"vous": "avez bouffé",
+			"ils/elles": "ont bouffé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais bouffé",
+			"tu": "avais bouffé",
+			"il/elle": "avait bouffé",
+			"nous": "avions bouffé",
+			"vous": "aviez bouffé",
+			"ils/elles": "avaient bouffé"
+		},
+		"passé antérieur": {
+			"j'": "eus bouffé",
+			"tu": "eus bouffé",
+			"il/elle": "eut bouffé",
+			"nous": "eûmes bouffé",
+			"vous": "eûtes bouffé",
+			"ils/elles": "eurent bouffé"
+		},
+		"futur antérieur": {
+			"j'": "aurai bouffé",
+			"tu": "auras bouffé",
+			"il/elle": "aura bouffé",
+			"nous": "aurons bouffé",
+			"vous": "aurez bouffé",
+			"ils/elles": "auront bouffé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous bouffiez",
+			"qu'il/elle": "bouffe",
+			"qu'ils/elles": "bouffent"
+		},
+		"imparfait": {
+			"que": "vous bouffassiez",
+			"qu'il/elle": "bouffât",
+			"qu'ils/elles": "bouffassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse bouffé",
+			"que": "vous eussiez bouffé",
+			"qu'il/elle": "eût bouffé",
+			"qu'ils/elles": "eussent bouffé"
+		},
+		"passé": {
+			"j'": "aie bouffé",
+			"que": "vous ayez bouffé",
+			"qu'il/elle": "ait bouffé",
+			"qu'ils/elles": "aient bouffé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "boufferais",
+			"tu": "boufferais",
+			"il/elle": "boufferait",
+			"nous": "boufferions",
+			"vous": "boufferiez",
+			"ils/elles": "boufferaient"
+		},
+		"passé première forme": {
+			"j'": "aurais bouffé",
+			"tu": "aurais bouffé",
+			"il/elle": "aurait bouffé",
+			"nous": "aurions bouffé",
+			"vous": "auriez bouffé",
+			"ils/elles": "auraient bouffé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse bouffé",
+			"tu": "eusses bouffé",
+			"il/elle": "eût bouffé",
+			"nous": "eussions bouffé",
+			"vous": "eussiez bouffé",
+			"ils/elles": "eussent bouffé"
+		}
+	},
+	"participe": {
+		"présent": { "bouffant": "" },
+		"passé composé": { "ayant": "bouffé" },
+		"passé": {
+			"masc.sg.:": "bouffé",
+			"masc.pl.:": "bouffés",
+			"fém.sg.:": "bouffée",
+			"fém.pl.:": "bouffées"
+		}
+	},
+	"imperatif": {
+		"présent": { "bouffe": "", "bouffons": "", "bouffez": "" },
+		"passé": { "aie": "bouffé", "ayons": "bouffé", "ayez": "bouffé" }
+	},
+	"infinitif": { "présent": { "bouffer": "" }, "passé": { "avoir": "bouffé" } }
+}

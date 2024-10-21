@@ -1,0 +1,138 @@
+{
+	"name": "taniser",
+	"definition": "",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se taniser/ne pas taniser/ne pas se taniser",
+	"indicatif": {
+		"présent": {
+			"je": "tanise",
+			"tu": "tanises",
+			"il/elle": "tanise",
+			"nous": "tanisons",
+			"vous": "tanisez",
+			"ils/elles": "tanisent"
+		},
+		"imparfait": {
+			"je": "tanisais",
+			"tu": "tanisais",
+			"il/elle": "tanisait",
+			"nous": "tanisions",
+			"vous": "tanisiez",
+			"ils/elles": "tanisaient"
+		},
+		"futur": {
+			"je": "taniserai",
+			"tu": "taniseras",
+			"il/elle": "tanisera",
+			"nous": "taniserons",
+			"vous": "taniserez",
+			"ils/elles": "taniseront"
+		},
+		"passé simple": {
+			"je": "tanisai",
+			"tu": "tanisas",
+			"il/elle": "tanisa",
+			"nous": "tanisâmes",
+			"vous": "tanisâtes",
+			"ils/elles": "tanisèrent"
+		},
+		"passé composé": {
+			"j'": "ai tanisé",
+			"tu": "as tanisé",
+			"il/elle": "a tanisé",
+			"nous": "avons tanisé",
+			"vous": "avez tanisé",
+			"ils/elles": "ont tanisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais tanisé",
+			"tu": "avais tanisé",
+			"il/elle": "avait tanisé",
+			"nous": "avions tanisé",
+			"vous": "aviez tanisé",
+			"ils/elles": "avaient tanisé"
+		},
+		"passé antérieur": {
+			"j'": "eus tanisé",
+			"tu": "eus tanisé",
+			"il/elle": "eut tanisé",
+			"nous": "eûmes tanisé",
+			"vous": "eûtes tanisé",
+			"ils/elles": "eurent tanisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai tanisé",
+			"tu": "auras tanisé",
+			"il/elle": "aura tanisé",
+			"nous": "aurons tanisé",
+			"vous": "aurez tanisé",
+			"ils/elles": "auront tanisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous tanisiez",
+			"qu'il/elle": "tanise",
+			"qu'ils/elles": "tanisent"
+		},
+		"imparfait": {
+			"que": "vous tanisassiez",
+			"qu'il/elle": "tanisât",
+			"qu'ils/elles": "tanisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse tanisé",
+			"que": "vous eussiez tanisé",
+			"qu'il/elle": "eût tanisé",
+			"qu'ils/elles": "eussent tanisé"
+		},
+		"passé": {
+			"j'": "aie tanisé",
+			"que": "vous ayez tanisé",
+			"qu'il/elle": "ait tanisé",
+			"qu'ils/elles": "aient tanisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "taniserais",
+			"tu": "taniserais",
+			"il/elle": "taniserait",
+			"nous": "taniserions",
+			"vous": "taniseriez",
+			"ils/elles": "taniseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais tanisé",
+			"tu": "aurais tanisé",
+			"il/elle": "aurait tanisé",
+			"nous": "aurions tanisé",
+			"vous": "auriez tanisé",
+			"ils/elles": "auraient tanisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse tanisé",
+			"tu": "eusses tanisé",
+			"il/elle": "eût tanisé",
+			"nous": "eussions tanisé",
+			"vous": "eussiez tanisé",
+			"ils/elles": "eussent tanisé"
+		}
+	},
+	"participe": {
+		"présent": { "tanisant": "" },
+		"passé composé": { "ayant": "tanisé" },
+		"passé": {
+			"masc.sg.:": "tanisé",
+			"masc.pl.:": "tanisés",
+			"fém.sg.:": "tanisée",
+			"fém.pl.:": "tanisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "tanise": "", "tanisons": "", "tanisez": "" },
+		"passé": { "aie": "tanisé", "ayons": "tanisé", "ayez": "tanisé" }
+	},
+	"infinitif": { "présent": { "taniser": "" }, "passé": { "avoir": "tanisé" } }
+}

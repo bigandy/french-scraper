@@ -1,0 +1,141 @@
+{
+	"name": "licencier",
+	"definition": "dismiss; fire; lay off; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se licencier/ne pas licencier/ne pas se licencier",
+	"indicatif": {
+		"présent": {
+			"je": "licencie",
+			"tu": "licencies",
+			"il/elle": "licencie",
+			"nous": "licencions",
+			"vous": "licenciez",
+			"ils/elles": "licencient"
+		},
+		"imparfait": {
+			"je": "licenciais",
+			"tu": "licenciais",
+			"il/elle": "licenciait",
+			"nous": "licenciions",
+			"vous": "licenciiez",
+			"ils/elles": "licenciaient"
+		},
+		"futur": {
+			"je": "licencierai",
+			"tu": "licencieras",
+			"il/elle": "licenciera",
+			"nous": "licencierons",
+			"vous": "licencierez",
+			"ils/elles": "licencieront"
+		},
+		"passé simple": {
+			"je": "licenciai",
+			"tu": "licencias",
+			"il/elle": "licencia",
+			"nous": "licenciâmes",
+			"vous": "licenciâtes",
+			"ils/elles": "licencièrent"
+		},
+		"passé composé": {
+			"j'": "ai licencié",
+			"tu": "as licencié",
+			"il/elle": "a licencié",
+			"nous": "avons licencié",
+			"vous": "avez licencié",
+			"ils/elles": "ont licencié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais licencié",
+			"tu": "avais licencié",
+			"il/elle": "avait licencié",
+			"nous": "avions licencié",
+			"vous": "aviez licencié",
+			"ils/elles": "avaient licencié"
+		},
+		"passé antérieur": {
+			"j'": "eus licencié",
+			"tu": "eus licencié",
+			"il/elle": "eut licencié",
+			"nous": "eûmes licencié",
+			"vous": "eûtes licencié",
+			"ils/elles": "eurent licencié"
+		},
+		"futur antérieur": {
+			"j'": "aurai licencié",
+			"tu": "auras licencié",
+			"il/elle": "aura licencié",
+			"nous": "aurons licencié",
+			"vous": "aurez licencié",
+			"ils/elles": "auront licencié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous licenciiez",
+			"qu'il/elle": "licencie",
+			"qu'ils/elles": "licencient"
+		},
+		"imparfait": {
+			"que": "vous licenciassiez",
+			"qu'il/elle": "licenciât",
+			"qu'ils/elles": "licenciassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse licencié",
+			"que": "vous eussiez licencié",
+			"qu'il/elle": "eût licencié",
+			"qu'ils/elles": "eussent licencié"
+		},
+		"passé": {
+			"j'": "aie licencié",
+			"que": "vous ayez licencié",
+			"qu'il/elle": "ait licencié",
+			"qu'ils/elles": "aient licencié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "licencierais",
+			"tu": "licencierais",
+			"il/elle": "licencierait",
+			"nous": "licencierions",
+			"vous": "licencieriez",
+			"ils/elles": "licencieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais licencié",
+			"tu": "aurais licencié",
+			"il/elle": "aurait licencié",
+			"nous": "aurions licencié",
+			"vous": "auriez licencié",
+			"ils/elles": "auraient licencié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse licencié",
+			"tu": "eusses licencié",
+			"il/elle": "eût licencié",
+			"nous": "eussions licencié",
+			"vous": "eussiez licencié",
+			"ils/elles": "eussent licencié"
+		}
+	},
+	"participe": {
+		"présent": { "licenciant": "" },
+		"passé composé": { "ayant": "licencié" },
+		"passé": {
+			"masc.sg.:": "licencié",
+			"masc.pl.:": "licenciés",
+			"fém.sg.:": "licenciée",
+			"fém.pl.:": "licenciées"
+		}
+	},
+	"imperatif": {
+		"présent": { "licencie": "", "licencions": "", "licenciez": "" },
+		"passé": { "aie": "licencié", "ayons": "licencié", "ayez": "licencié" }
+	},
+	"infinitif": {
+		"présent": { "licencier": "" },
+		"passé": { "avoir": "licencié" }
+	}
+}

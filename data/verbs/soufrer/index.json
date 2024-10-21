@@ -1,0 +1,138 @@
+{
+	"name": "soufrer",
+	"definition": "sulphurate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se soufrer/ne pas soufrer/ne pas se soufrer",
+	"indicatif": {
+		"présent": {
+			"je": "soufre",
+			"tu": "soufres",
+			"il/elle": "soufre",
+			"nous": "soufrons",
+			"vous": "soufrez",
+			"ils/elles": "soufrent"
+		},
+		"imparfait": {
+			"je": "soufrais",
+			"tu": "soufrais",
+			"il/elle": "soufrait",
+			"nous": "soufrions",
+			"vous": "soufriez",
+			"ils/elles": "soufraient"
+		},
+		"futur": {
+			"je": "soufrerai",
+			"tu": "soufreras",
+			"il/elle": "soufrera",
+			"nous": "soufrerons",
+			"vous": "soufrerez",
+			"ils/elles": "soufreront"
+		},
+		"passé simple": {
+			"je": "soufrai",
+			"tu": "soufras",
+			"il/elle": "soufra",
+			"nous": "soufrâmes",
+			"vous": "soufrâtes",
+			"ils/elles": "soufrèrent"
+		},
+		"passé composé": {
+			"j'": "ai soufré",
+			"tu": "as soufré",
+			"il/elle": "a soufré",
+			"nous": "avons soufré",
+			"vous": "avez soufré",
+			"ils/elles": "ont soufré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais soufré",
+			"tu": "avais soufré",
+			"il/elle": "avait soufré",
+			"nous": "avions soufré",
+			"vous": "aviez soufré",
+			"ils/elles": "avaient soufré"
+		},
+		"passé antérieur": {
+			"j'": "eus soufré",
+			"tu": "eus soufré",
+			"il/elle": "eut soufré",
+			"nous": "eûmes soufré",
+			"vous": "eûtes soufré",
+			"ils/elles": "eurent soufré"
+		},
+		"futur antérieur": {
+			"j'": "aurai soufré",
+			"tu": "auras soufré",
+			"il/elle": "aura soufré",
+			"nous": "aurons soufré",
+			"vous": "aurez soufré",
+			"ils/elles": "auront soufré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous soufriez",
+			"qu'il/elle": "soufre",
+			"qu'ils/elles": "soufrent"
+		},
+		"imparfait": {
+			"que": "vous soufrassiez",
+			"qu'il/elle": "soufrât",
+			"qu'ils/elles": "soufrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse soufré",
+			"que": "vous eussiez soufré",
+			"qu'il/elle": "eût soufré",
+			"qu'ils/elles": "eussent soufré"
+		},
+		"passé": {
+			"j'": "aie soufré",
+			"que": "vous ayez soufré",
+			"qu'il/elle": "ait soufré",
+			"qu'ils/elles": "aient soufré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "soufrerais",
+			"tu": "soufrerais",
+			"il/elle": "soufrerait",
+			"nous": "soufrerions",
+			"vous": "soufreriez",
+			"ils/elles": "soufreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais soufré",
+			"tu": "aurais soufré",
+			"il/elle": "aurait soufré",
+			"nous": "aurions soufré",
+			"vous": "auriez soufré",
+			"ils/elles": "auraient soufré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse soufré",
+			"tu": "eusses soufré",
+			"il/elle": "eût soufré",
+			"nous": "eussions soufré",
+			"vous": "eussiez soufré",
+			"ils/elles": "eussent soufré"
+		}
+	},
+	"participe": {
+		"présent": { "soufrant": "" },
+		"passé composé": { "ayant": "soufré" },
+		"passé": {
+			"masc.sg.:": "soufré",
+			"masc.pl.:": "soufrés",
+			"fém.sg.:": "soufrée",
+			"fém.pl.:": "soufrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "soufre": "", "soufrons": "", "soufrez": "" },
+		"passé": { "aie": "soufré", "ayons": "soufré", "ayez": "soufré" }
+	},
+	"infinitif": { "présent": { "soufrer": "" }, "passé": { "avoir": "soufré" } }
+}

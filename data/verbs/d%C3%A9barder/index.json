@@ -1,0 +1,141 @@
+{
+	"name": "débarder",
+	"definition": "unload; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se débarder/ne pas débarder/ne pas se débarder",
+	"indicatif": {
+		"présent": {
+			"je": "débarde",
+			"tu": "débardes",
+			"il/elle": "débarde",
+			"nous": "débardons",
+			"vous": "débardez",
+			"ils/elles": "débardent"
+		},
+		"imparfait": {
+			"je": "débardais",
+			"tu": "débardais",
+			"il/elle": "débardait",
+			"nous": "débardions",
+			"vous": "débardiez",
+			"ils/elles": "débardaient"
+		},
+		"futur": {
+			"je": "débarderai",
+			"tu": "débarderas",
+			"il/elle": "débardera",
+			"nous": "débarderons",
+			"vous": "débarderez",
+			"ils/elles": "débarderont"
+		},
+		"passé simple": {
+			"je": "débardai",
+			"tu": "débardas",
+			"il/elle": "débarda",
+			"nous": "débardâmes",
+			"vous": "débardâtes",
+			"ils/elles": "débardèrent"
+		},
+		"passé composé": {
+			"j'": "ai débardé",
+			"tu": "as débardé",
+			"il/elle": "a débardé",
+			"nous": "avons débardé",
+			"vous": "avez débardé",
+			"ils/elles": "ont débardé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais débardé",
+			"tu": "avais débardé",
+			"il/elle": "avait débardé",
+			"nous": "avions débardé",
+			"vous": "aviez débardé",
+			"ils/elles": "avaient débardé"
+		},
+		"passé antérieur": {
+			"j'": "eus débardé",
+			"tu": "eus débardé",
+			"il/elle": "eut débardé",
+			"nous": "eûmes débardé",
+			"vous": "eûtes débardé",
+			"ils/elles": "eurent débardé"
+		},
+		"futur antérieur": {
+			"j'": "aurai débardé",
+			"tu": "auras débardé",
+			"il/elle": "aura débardé",
+			"nous": "aurons débardé",
+			"vous": "aurez débardé",
+			"ils/elles": "auront débardé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous débardiez",
+			"qu'il/elle": "débarde",
+			"qu'ils/elles": "débardent"
+		},
+		"imparfait": {
+			"que": "vous débardassiez",
+			"qu'il/elle": "débardât",
+			"qu'ils/elles": "débardassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse débardé",
+			"que": "vous eussiez débardé",
+			"qu'il/elle": "eût débardé",
+			"qu'ils/elles": "eussent débardé"
+		},
+		"passé": {
+			"j'": "aie débardé",
+			"que": "vous ayez débardé",
+			"qu'il/elle": "ait débardé",
+			"qu'ils/elles": "aient débardé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "débarderais",
+			"tu": "débarderais",
+			"il/elle": "débarderait",
+			"nous": "débarderions",
+			"vous": "débarderiez",
+			"ils/elles": "débarderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais débardé",
+			"tu": "aurais débardé",
+			"il/elle": "aurait débardé",
+			"nous": "aurions débardé",
+			"vous": "auriez débardé",
+			"ils/elles": "auraient débardé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse débardé",
+			"tu": "eusses débardé",
+			"il/elle": "eût débardé",
+			"nous": "eussions débardé",
+			"vous": "eussiez débardé",
+			"ils/elles": "eussent débardé"
+		}
+	},
+	"participe": {
+		"présent": { "débardant": "" },
+		"passé composé": { "ayant": "débardé" },
+		"passé": {
+			"masc.sg.:": "débardé",
+			"masc.pl.:": "débardés",
+			"fém.sg.:": "débardée",
+			"fém.pl.:": "débardées"
+		}
+	},
+	"imperatif": {
+		"présent": { "débarde": "", "débardons": "", "débardez": "" },
+		"passé": { "aie": "débardé", "ayons": "débardé", "ayez": "débardé" }
+	},
+	"infinitif": {
+		"présent": { "débarder": "" },
+		"passé": { "avoir": "débardé" }
+	}
+}

@@ -1,0 +1,138 @@
+{
+	"name": "périr",
+	"definition": "perish; destroy; die; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas périr",
+	"indicatif": {
+		"présent": {
+			"je": "péris",
+			"tu": "péris",
+			"il/elle": "périt",
+			"nous": "périssons",
+			"vous": "périssez",
+			"ils/elles": "périssent"
+		},
+		"imparfait": {
+			"je": "périssais",
+			"tu": "périssais",
+			"il/elle": "périssait",
+			"nous": "périssions",
+			"vous": "périssiez",
+			"ils/elles": "périssaient"
+		},
+		"futur": {
+			"je": "périrai",
+			"tu": "périras",
+			"il/elle": "périra",
+			"nous": "périrons",
+			"vous": "périrez",
+			"ils/elles": "périront"
+		},
+		"passé simple": {
+			"je": "péris",
+			"tu": "péris",
+			"il/elle": "périt",
+			"nous": "pérîmes",
+			"vous": "pérîtes",
+			"ils/elles": "périrent"
+		},
+		"passé composé": {
+			"j'": "ai péri",
+			"tu": "as péri",
+			"il/elle": "a péri",
+			"nous": "avons péri",
+			"vous": "avez péri",
+			"ils/elles": "ont péri"
+		},
+		"plus-que-parfait": {
+			"j'": "avais péri",
+			"tu": "avais péri",
+			"il/elle": "avait péri",
+			"nous": "avions péri",
+			"vous": "aviez péri",
+			"ils/elles": "avaient péri"
+		},
+		"passé antérieur": {
+			"j'": "eus péri",
+			"tu": "eus péri",
+			"il/elle": "eut péri",
+			"nous": "eûmes péri",
+			"vous": "eûtes péri",
+			"ils/elles": "eurent péri"
+		},
+		"futur antérieur": {
+			"j'": "aurai péri",
+			"tu": "auras péri",
+			"il/elle": "aura péri",
+			"nous": "aurons péri",
+			"vous": "aurez péri",
+			"ils/elles": "auront péri"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous périssiez",
+			"qu'il/elle": "périsse",
+			"qu'ils/elles": "périssent"
+		},
+		"imparfait": {
+			"que": "vous périssiez",
+			"qu'il/elle": "pérît",
+			"qu'ils/elles": "périssent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse péri",
+			"que": "vous eussiez péri",
+			"qu'il/elle": "eût péri",
+			"qu'ils/elles": "eussent péri"
+		},
+		"passé": {
+			"j'": "aie péri",
+			"que": "vous ayez péri",
+			"qu'il/elle": "ait péri",
+			"qu'ils/elles": "aient péri"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "périrais",
+			"tu": "périrais",
+			"il/elle": "périrait",
+			"nous": "péririons",
+			"vous": "péririez",
+			"ils/elles": "périraient"
+		},
+		"passé première forme": {
+			"j'": "aurais péri",
+			"tu": "aurais péri",
+			"il/elle": "aurait péri",
+			"nous": "aurions péri",
+			"vous": "auriez péri",
+			"ils/elles": "auraient péri"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse péri",
+			"tu": "eusses péri",
+			"il/elle": "eût péri",
+			"nous": "eussions péri",
+			"vous": "eussiez péri",
+			"ils/elles": "eussent péri"
+		}
+	},
+	"participe": {
+		"présent": { "périssant": "" },
+		"passé composé": { "ayant": "péri" },
+		"passé": {
+			"masc.sg.:": "péri",
+			"masc.pl.:": "péris",
+			"fém.sg.:": "périe",
+			"fém.pl.:": "péries"
+		}
+	},
+	"imperatif": {
+		"présent": { "péris": "", "périssons": "", "périssez": "" },
+		"passé": { "aie": "péri", "ayons": "péri", "ayez": "péri" }
+	},
+	"infinitif": { "présent": { "périr": "" }, "passé": { "avoir": "péri" } }
+}

@@ -1,0 +1,196 @@
+{
+	"name": "avorter",
+	"definition": "abort; miscarry; fail; ...",
+	"model": "marcher",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "ne pas avorter",
+	"indicatif": {
+		"présent": {
+			"j'": "avorte",
+			"tu": "avortes",
+			"il/elle": "avorte",
+			"nous": "avortons",
+			"vous": "avortez",
+			"ils/elles": "avortent"
+		},
+		"imparfait": {
+			"j'": "avortais",
+			"tu": "avortais",
+			"il/elle": "avortait",
+			"nous": "avortions",
+			"vous": "avortiez",
+			"ils/elles": "avortaient"
+		},
+		"futur": {
+			"j'": "avorterai",
+			"tu": "avorteras",
+			"il/elle": "avortera",
+			"nous": "avorterons",
+			"vous": "avorterez",
+			"ils/elles": "avorteront"
+		},
+		"passé simple": {
+			"j'": "avortai",
+			"tu": "avortas",
+			"il/elle": "avorta",
+			"nous": "avortâmes",
+			"vous": "avortâtes",
+			"ils/elles": "avortèrent"
+		},
+		"passé composé": {
+			"j'": "ai avorté",
+			"tu": "es avorté",
+			"il/elle": "a avorté",
+			"nous": "sommes avortés",
+			"vous": "êtes avortés",
+			"ils/elles": "ont avorté",
+			"": "",
+			"je": "suis avorté",
+			"il": "est avorté",
+			"elle": "est avortée",
+			"ils": "sont avortés",
+			"elles": "sont avortées"
+		},
+		"plus-que-parfait": {
+			"j'": "étais avorté",
+			"tu": "étais avorté",
+			"il/elle": "avait avorté",
+			"nous": "étions avortés",
+			"vous": "étiez avortés",
+			"ils/elles": "avaient avorté",
+			"": "",
+			"il": "était avorté",
+			"elle": "était avortée",
+			"ils": "étaient avortés",
+			"elles": "étaient avortées"
+		},
+		"passé antérieur": {
+			"j'": "eus avorté",
+			"tu": "fus avorté",
+			"il/elle": "eut avorté",
+			"nous": "fûmes avortés",
+			"vous": "fûtes avortés",
+			"ils/elles": "eurent avorté",
+			"": "",
+			"je": "fus avorté",
+			"il": "fut avorté",
+			"elle": "fut avortée",
+			"ils": "furent avortés",
+			"elles": "furent avortées"
+		},
+		"futur antérieur": {
+			"j'": "aurai avorté",
+			"tu": "seras avorté",
+			"il/elle": "aura avorté",
+			"nous": "serons avortés",
+			"vous": "serez avortés",
+			"ils/elles": "auront avorté",
+			"": "",
+			"je": "serai avorté",
+			"il": "sera avorté",
+			"elle": "sera avortée",
+			"ils": "seront avortés",
+			"elles": "seront avortées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "avorte",
+			"que": "vous avortiez",
+			"qu'il/elle": "avorte",
+			"qu'ils/elles": "avortent"
+		},
+		"imparfait": {
+			"j'": "avortasse",
+			"que": "vous avortassiez",
+			"qu'il/elle": "avortât",
+			"qu'ils/elles": "avortassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse avorté",
+			"que": "vous fussiez avortés",
+			"qu'il/elle": "eût avorté",
+			"qu'ils/elles": "eussent avorté",
+			"": "",
+			"qu'il": "fût avorté",
+			"qu'elle": "fût avortée",
+			"qu'ils": "fussent avortés",
+			"qu'elles": "fussent avortées"
+		},
+		"passé": {
+			"j'": "aie avorté",
+			"que": "vous soyez avortés",
+			"qu'il/elle": "ait avorté",
+			"qu'ils/elles": "aient avorté",
+			"": "",
+			"qu'il": "soit avorté",
+			"qu'elle": "soit avortée",
+			"qu'ils": "soient avortés",
+			"qu'elles": "soient avortées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "avorterais",
+			"tu": "avorterais",
+			"il/elle": "avorterait",
+			"nous": "avorterions",
+			"vous": "avorteriez",
+			"ils/elles": "avorteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais avorté",
+			"tu": "serais avorté",
+			"il/elle": "aurait avorté",
+			"nous": "serions avortés",
+			"vous": "seriez avortés",
+			"ils/elles": "auraient avorté",
+			"": "",
+			"je": "serais avorté",
+			"il": "serait avorté",
+			"elle": "serait avortée",
+			"ils": "seraient avortés",
+			"elles": "seraient avortées"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse avorté",
+			"tu": "fusses avorté",
+			"il/elle": "eût avorté",
+			"nous": "fussions avortés",
+			"vous": "fussiez avortés",
+			"ils/elles": "eussent avorté",
+			"": "",
+			"je": "fusse avorté",
+			"il": "fût avorté",
+			"elle": "fût avortée",
+			"ils": "fussent avortés",
+			"elles": "fussent avortées"
+		}
+	},
+	"participe": {
+		"présent": { "avortant": "" },
+		"passé composé": { "ayant": "avorté", "": "", "étant": "avortée" },
+		"passé": {
+			"masc.sg.:": "avorté",
+			"masc.pl.:": "avortés",
+			"fém.sg.:": "avortée",
+			"fém.pl.:": "avortées"
+		}
+	},
+	"imperatif": {
+		"présent": { "avorte": "", "avortons": "", "avortez": "" },
+		"passé": {
+			"aie": "avorté",
+			"ayons": "avorté",
+			"ayez": "avorté",
+			"": "",
+			"sois": "avorté",
+			"soyons": "avorté",
+			"soyez": "avorté"
+		}
+	},
+	"infinitif": {
+		"présent": { "avorter": "" },
+		"passé": { "avoir": "avorté", "": "", "être": "avorté" }
+	}
+}

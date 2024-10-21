@@ -1,0 +1,145 @@
+{
+	"name": "condoléancer",
+	"definition": "",
+	"model": "commencer",
+	"auxiliary": "avoir",
+	"otherForms": "se condoléancer/ne pas condoléancer/ne pas se condoléancer",
+	"indicatif": {
+		"présent": {
+			"je": "condoléance",
+			"tu": "condoléances",
+			"il/elle": "condoléance",
+			"nous": "condoléançons",
+			"vous": "condoléancez",
+			"ils/elles": "condoléancent"
+		},
+		"imparfait": {
+			"je": "condoléançais",
+			"tu": "condoléançais",
+			"il/elle": "condoléançait",
+			"nous": "condoléancions",
+			"vous": "condoléanciez",
+			"ils/elles": "condoléançaient"
+		},
+		"futur": {
+			"je": "condoléancerai",
+			"tu": "condoléanceras",
+			"il/elle": "condoléancera",
+			"nous": "condoléancerons",
+			"vous": "condoléancerez",
+			"ils/elles": "condoléanceront"
+		},
+		"passé simple": {
+			"je": "condoléançai",
+			"tu": "condoléanças",
+			"il/elle": "condoléança",
+			"nous": "condoléançâmes",
+			"vous": "condoléançâtes",
+			"ils/elles": "condoléancèrent"
+		},
+		"passé composé": {
+			"j'": "ai condoléancé",
+			"tu": "as condoléancé",
+			"il/elle": "a condoléancé",
+			"nous": "avons condoléancé",
+			"vous": "avez condoléancé",
+			"ils/elles": "ont condoléancé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais condoléancé",
+			"tu": "avais condoléancé",
+			"il/elle": "avait condoléancé",
+			"nous": "avions condoléancé",
+			"vous": "aviez condoléancé",
+			"ils/elles": "avaient condoléancé"
+		},
+		"passé antérieur": {
+			"j'": "eus condoléancé",
+			"tu": "eus condoléancé",
+			"il/elle": "eut condoléancé",
+			"nous": "eûmes condoléancé",
+			"vous": "eûtes condoléancé",
+			"ils/elles": "eurent condoléancé"
+		},
+		"futur antérieur": {
+			"j'": "aurai condoléancé",
+			"tu": "auras condoléancé",
+			"il/elle": "aura condoléancé",
+			"nous": "aurons condoléancé",
+			"vous": "aurez condoléancé",
+			"ils/elles": "auront condoléancé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous condoléanciez",
+			"qu'il/elle": "condoléance",
+			"qu'ils/elles": "condoléancent"
+		},
+		"imparfait": {
+			"que": "vous condoléançassiez",
+			"qu'il/elle": "condoléançât",
+			"qu'ils/elles": "condoléançassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse condoléancé",
+			"que": "vous eussiez condoléancé",
+			"qu'il/elle": "eût condoléancé",
+			"qu'ils/elles": "eussent condoléancé"
+		},
+		"passé": {
+			"j'": "aie condoléancé",
+			"que": "vous ayez condoléancé",
+			"qu'il/elle": "ait condoléancé",
+			"qu'ils/elles": "aient condoléancé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "condoléancerais",
+			"tu": "condoléancerais",
+			"il/elle": "condoléancerait",
+			"nous": "condoléancerions",
+			"vous": "condoléanceriez",
+			"ils/elles": "condoléanceraient"
+		},
+		"passé première forme": {
+			"j'": "aurais condoléancé",
+			"tu": "aurais condoléancé",
+			"il/elle": "aurait condoléancé",
+			"nous": "aurions condoléancé",
+			"vous": "auriez condoléancé",
+			"ils/elles": "auraient condoléancé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse condoléancé",
+			"tu": "eusses condoléancé",
+			"il/elle": "eût condoléancé",
+			"nous": "eussions condoléancé",
+			"vous": "eussiez condoléancé",
+			"ils/elles": "eussent condoléancé"
+		}
+	},
+	"participe": {
+		"présent": { "condoléançant": "" },
+		"passé composé": { "ayant": "condoléancé" },
+		"passé": {
+			"masc.sg.:": "condoléancé",
+			"masc.pl.:": "condoléancés",
+			"fém.sg.:": "condoléancée",
+			"fém.pl.:": "condoléancées"
+		}
+	},
+	"imperatif": {
+		"présent": { "condoléance": "", "condoléançons": "", "condoléancez": "" },
+		"passé": {
+			"aie": "condoléancé",
+			"ayons": "condoléancé",
+			"ayez": "condoléancé"
+		}
+	},
+	"infinitif": {
+		"présent": { "condoléancer": "" },
+		"passé": { "avoir": "condoléancé" }
+	}
+}

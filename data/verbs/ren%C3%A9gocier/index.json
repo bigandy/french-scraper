@@ -1,0 +1,141 @@
+{
+	"name": "renégocier",
+	"definition": "renegotiate; negotiate; remarket; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se renégocier/ne pas renégocier/ne pas se renégocier",
+	"indicatif": {
+		"présent": {
+			"je": "renégocie",
+			"tu": "renégocies",
+			"il/elle": "renégocie",
+			"nous": "renégocions",
+			"vous": "renégociez",
+			"ils/elles": "renégocient"
+		},
+		"imparfait": {
+			"je": "renégociais",
+			"tu": "renégociais",
+			"il/elle": "renégociait",
+			"nous": "renégociions",
+			"vous": "renégociiez",
+			"ils/elles": "renégociaient"
+		},
+		"futur": {
+			"je": "renégocierai",
+			"tu": "renégocieras",
+			"il/elle": "renégociera",
+			"nous": "renégocierons",
+			"vous": "renégocierez",
+			"ils/elles": "renégocieront"
+		},
+		"passé simple": {
+			"je": "renégociai",
+			"tu": "renégocias",
+			"il/elle": "renégocia",
+			"nous": "renégociâmes",
+			"vous": "renégociâtes",
+			"ils/elles": "renégocièrent"
+		},
+		"passé composé": {
+			"j'": "ai renégocié",
+			"tu": "as renégocié",
+			"il/elle": "a renégocié",
+			"nous": "avons renégocié",
+			"vous": "avez renégocié",
+			"ils/elles": "ont renégocié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais renégocié",
+			"tu": "avais renégocié",
+			"il/elle": "avait renégocié",
+			"nous": "avions renégocié",
+			"vous": "aviez renégocié",
+			"ils/elles": "avaient renégocié"
+		},
+		"passé antérieur": {
+			"j'": "eus renégocié",
+			"tu": "eus renégocié",
+			"il/elle": "eut renégocié",
+			"nous": "eûmes renégocié",
+			"vous": "eûtes renégocié",
+			"ils/elles": "eurent renégocié"
+		},
+		"futur antérieur": {
+			"j'": "aurai renégocié",
+			"tu": "auras renégocié",
+			"il/elle": "aura renégocié",
+			"nous": "aurons renégocié",
+			"vous": "aurez renégocié",
+			"ils/elles": "auront renégocié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous renégociiez",
+			"qu'il/elle": "renégocie",
+			"qu'ils/elles": "renégocient"
+		},
+		"imparfait": {
+			"que": "vous renégociassiez",
+			"qu'il/elle": "renégociât",
+			"qu'ils/elles": "renégociassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse renégocié",
+			"que": "vous eussiez renégocié",
+			"qu'il/elle": "eût renégocié",
+			"qu'ils/elles": "eussent renégocié"
+		},
+		"passé": {
+			"j'": "aie renégocié",
+			"que": "vous ayez renégocié",
+			"qu'il/elle": "ait renégocié",
+			"qu'ils/elles": "aient renégocié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "renégocierais",
+			"tu": "renégocierais",
+			"il/elle": "renégocierait",
+			"nous": "renégocierions",
+			"vous": "renégocieriez",
+			"ils/elles": "renégocieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais renégocié",
+			"tu": "aurais renégocié",
+			"il/elle": "aurait renégocié",
+			"nous": "aurions renégocié",
+			"vous": "auriez renégocié",
+			"ils/elles": "auraient renégocié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse renégocié",
+			"tu": "eusses renégocié",
+			"il/elle": "eût renégocié",
+			"nous": "eussions renégocié",
+			"vous": "eussiez renégocié",
+			"ils/elles": "eussent renégocié"
+		}
+	},
+	"participe": {
+		"présent": { "renégociant": "" },
+		"passé composé": { "ayant": "renégocié" },
+		"passé": {
+			"masc.sg.:": "renégocié",
+			"masc.pl.:": "renégociés",
+			"fém.sg.:": "renégociée",
+			"fém.pl.:": "renégociées"
+		}
+	},
+	"imperatif": {
+		"présent": { "renégocie": "", "renégocions": "", "renégociez": "" },
+		"passé": { "aie": "renégocié", "ayons": "renégocié", "ayez": "renégocié" }
+	},
+	"infinitif": {
+		"présent": { "renégocier": "" },
+		"passé": { "avoir": "renégocié" }
+	}
+}

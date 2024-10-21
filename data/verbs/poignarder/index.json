@@ -1,0 +1,141 @@
+{
+	"name": "poignarder",
+	"definition": "stab; knife; dagger; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se poignarder/ne pas poignarder/ne pas se poignarder",
+	"indicatif": {
+		"présent": {
+			"je": "poignarde",
+			"tu": "poignardes",
+			"il/elle": "poignarde",
+			"nous": "poignardons",
+			"vous": "poignardez",
+			"ils/elles": "poignardent"
+		},
+		"imparfait": {
+			"je": "poignardais",
+			"tu": "poignardais",
+			"il/elle": "poignardait",
+			"nous": "poignardions",
+			"vous": "poignardiez",
+			"ils/elles": "poignardaient"
+		},
+		"futur": {
+			"je": "poignarderai",
+			"tu": "poignarderas",
+			"il/elle": "poignardera",
+			"nous": "poignarderons",
+			"vous": "poignarderez",
+			"ils/elles": "poignarderont"
+		},
+		"passé simple": {
+			"je": "poignardai",
+			"tu": "poignardas",
+			"il/elle": "poignarda",
+			"nous": "poignardâmes",
+			"vous": "poignardâtes",
+			"ils/elles": "poignardèrent"
+		},
+		"passé composé": {
+			"j'": "ai poignardé",
+			"tu": "as poignardé",
+			"il/elle": "a poignardé",
+			"nous": "avons poignardé",
+			"vous": "avez poignardé",
+			"ils/elles": "ont poignardé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais poignardé",
+			"tu": "avais poignardé",
+			"il/elle": "avait poignardé",
+			"nous": "avions poignardé",
+			"vous": "aviez poignardé",
+			"ils/elles": "avaient poignardé"
+		},
+		"passé antérieur": {
+			"j'": "eus poignardé",
+			"tu": "eus poignardé",
+			"il/elle": "eut poignardé",
+			"nous": "eûmes poignardé",
+			"vous": "eûtes poignardé",
+			"ils/elles": "eurent poignardé"
+		},
+		"futur antérieur": {
+			"j'": "aurai poignardé",
+			"tu": "auras poignardé",
+			"il/elle": "aura poignardé",
+			"nous": "aurons poignardé",
+			"vous": "aurez poignardé",
+			"ils/elles": "auront poignardé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous poignardiez",
+			"qu'il/elle": "poignarde",
+			"qu'ils/elles": "poignardent"
+		},
+		"imparfait": {
+			"que": "vous poignardassiez",
+			"qu'il/elle": "poignardât",
+			"qu'ils/elles": "poignardassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse poignardé",
+			"que": "vous eussiez poignardé",
+			"qu'il/elle": "eût poignardé",
+			"qu'ils/elles": "eussent poignardé"
+		},
+		"passé": {
+			"j'": "aie poignardé",
+			"que": "vous ayez poignardé",
+			"qu'il/elle": "ait poignardé",
+			"qu'ils/elles": "aient poignardé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "poignarderais",
+			"tu": "poignarderais",
+			"il/elle": "poignarderait",
+			"nous": "poignarderions",
+			"vous": "poignarderiez",
+			"ils/elles": "poignarderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais poignardé",
+			"tu": "aurais poignardé",
+			"il/elle": "aurait poignardé",
+			"nous": "aurions poignardé",
+			"vous": "auriez poignardé",
+			"ils/elles": "auraient poignardé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse poignardé",
+			"tu": "eusses poignardé",
+			"il/elle": "eût poignardé",
+			"nous": "eussions poignardé",
+			"vous": "eussiez poignardé",
+			"ils/elles": "eussent poignardé"
+		}
+	},
+	"participe": {
+		"présent": { "poignardant": "" },
+		"passé composé": { "ayant": "poignardé" },
+		"passé": {
+			"masc.sg.:": "poignardé",
+			"masc.pl.:": "poignardés",
+			"fém.sg.:": "poignardée",
+			"fém.pl.:": "poignardées"
+		}
+	},
+	"imperatif": {
+		"présent": { "poignarde": "", "poignardons": "", "poignardez": "" },
+		"passé": { "aie": "poignardé", "ayons": "poignardé", "ayez": "poignardé" }
+	},
+	"infinitif": {
+		"présent": { "poignarder": "" },
+		"passé": { "avoir": "poignardé" }
+	}
+}

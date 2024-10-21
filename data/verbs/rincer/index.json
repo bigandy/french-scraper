@@ -1,0 +1,138 @@
+{
+	"name": "rincer",
+	"definition": "rinse; flush; wash; ...",
+	"model": "commencer",
+	"auxiliary": "avoir",
+	"otherForms": "se rincer/ne pas rincer/ne pas se rincer",
+	"indicatif": {
+		"présent": {
+			"je": "rince",
+			"tu": "rinces",
+			"il/elle": "rince",
+			"nous": "rinçons",
+			"vous": "rincez",
+			"ils/elles": "rincent"
+		},
+		"imparfait": {
+			"je": "rinçais",
+			"tu": "rinçais",
+			"il/elle": "rinçait",
+			"nous": "rincions",
+			"vous": "rinciez",
+			"ils/elles": "rinçaient"
+		},
+		"futur": {
+			"je": "rincerai",
+			"tu": "rinceras",
+			"il/elle": "rincera",
+			"nous": "rincerons",
+			"vous": "rincerez",
+			"ils/elles": "rinceront"
+		},
+		"passé simple": {
+			"je": "rinçai",
+			"tu": "rinças",
+			"il/elle": "rinça",
+			"nous": "rinçâmes",
+			"vous": "rinçâtes",
+			"ils/elles": "rincèrent"
+		},
+		"passé composé": {
+			"j'": "ai rincé",
+			"tu": "as rincé",
+			"il/elle": "a rincé",
+			"nous": "avons rincé",
+			"vous": "avez rincé",
+			"ils/elles": "ont rincé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais rincé",
+			"tu": "avais rincé",
+			"il/elle": "avait rincé",
+			"nous": "avions rincé",
+			"vous": "aviez rincé",
+			"ils/elles": "avaient rincé"
+		},
+		"passé antérieur": {
+			"j'": "eus rincé",
+			"tu": "eus rincé",
+			"il/elle": "eut rincé",
+			"nous": "eûmes rincé",
+			"vous": "eûtes rincé",
+			"ils/elles": "eurent rincé"
+		},
+		"futur antérieur": {
+			"j'": "aurai rincé",
+			"tu": "auras rincé",
+			"il/elle": "aura rincé",
+			"nous": "aurons rincé",
+			"vous": "aurez rincé",
+			"ils/elles": "auront rincé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous rinciez",
+			"qu'il/elle": "rince",
+			"qu'ils/elles": "rincent"
+		},
+		"imparfait": {
+			"que": "vous rinçassiez",
+			"qu'il/elle": "rinçât",
+			"qu'ils/elles": "rinçassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse rincé",
+			"que": "vous eussiez rincé",
+			"qu'il/elle": "eût rincé",
+			"qu'ils/elles": "eussent rincé"
+		},
+		"passé": {
+			"j'": "aie rincé",
+			"que": "vous ayez rincé",
+			"qu'il/elle": "ait rincé",
+			"qu'ils/elles": "aient rincé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "rincerais",
+			"tu": "rincerais",
+			"il/elle": "rincerait",
+			"nous": "rincerions",
+			"vous": "rinceriez",
+			"ils/elles": "rinceraient"
+		},
+		"passé première forme": {
+			"j'": "aurais rincé",
+			"tu": "aurais rincé",
+			"il/elle": "aurait rincé",
+			"nous": "aurions rincé",
+			"vous": "auriez rincé",
+			"ils/elles": "auraient rincé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse rincé",
+			"tu": "eusses rincé",
+			"il/elle": "eût rincé",
+			"nous": "eussions rincé",
+			"vous": "eussiez rincé",
+			"ils/elles": "eussent rincé"
+		}
+	},
+	"participe": {
+		"présent": { "rinçant": "" },
+		"passé composé": { "ayant": "rincé" },
+		"passé": {
+			"masc.sg.:": "rincé",
+			"masc.pl.:": "rincés",
+			"fém.sg.:": "rincée",
+			"fém.pl.:": "rincées"
+		}
+	},
+	"imperatif": {
+		"présent": { "rince": "", "rinçons": "", "rincez": "" },
+		"passé": { "aie": "rincé", "ayons": "rincé", "ayez": "rincé" }
+	},
+	"infinitif": { "présent": { "rincer": "" }, "passé": { "avoir": "rincé" } }
+}

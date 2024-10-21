@@ -1,0 +1,138 @@
+{
+	"name": "coiffer",
+	"definition": "style; comb; beat; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se coiffer/ne pas coiffer/ne pas se coiffer",
+	"indicatif": {
+		"présent": {
+			"je": "coiffe",
+			"tu": "coiffes",
+			"il/elle": "coiffe",
+			"nous": "coiffons",
+			"vous": "coiffez",
+			"ils/elles": "coiffent"
+		},
+		"imparfait": {
+			"je": "coiffais",
+			"tu": "coiffais",
+			"il/elle": "coiffait",
+			"nous": "coiffions",
+			"vous": "coiffiez",
+			"ils/elles": "coiffaient"
+		},
+		"futur": {
+			"je": "coifferai",
+			"tu": "coifferas",
+			"il/elle": "coiffera",
+			"nous": "coifferons",
+			"vous": "coifferez",
+			"ils/elles": "coifferont"
+		},
+		"passé simple": {
+			"je": "coiffai",
+			"tu": "coiffas",
+			"il/elle": "coiffa",
+			"nous": "coiffâmes",
+			"vous": "coiffâtes",
+			"ils/elles": "coiffèrent"
+		},
+		"passé composé": {
+			"j'": "ai coiffé",
+			"tu": "as coiffé",
+			"il/elle": "a coiffé",
+			"nous": "avons coiffé",
+			"vous": "avez coiffé",
+			"ils/elles": "ont coiffé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais coiffé",
+			"tu": "avais coiffé",
+			"il/elle": "avait coiffé",
+			"nous": "avions coiffé",
+			"vous": "aviez coiffé",
+			"ils/elles": "avaient coiffé"
+		},
+		"passé antérieur": {
+			"j'": "eus coiffé",
+			"tu": "eus coiffé",
+			"il/elle": "eut coiffé",
+			"nous": "eûmes coiffé",
+			"vous": "eûtes coiffé",
+			"ils/elles": "eurent coiffé"
+		},
+		"futur antérieur": {
+			"j'": "aurai coiffé",
+			"tu": "auras coiffé",
+			"il/elle": "aura coiffé",
+			"nous": "aurons coiffé",
+			"vous": "aurez coiffé",
+			"ils/elles": "auront coiffé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous coiffiez",
+			"qu'il/elle": "coiffe",
+			"qu'ils/elles": "coiffent"
+		},
+		"imparfait": {
+			"que": "vous coiffassiez",
+			"qu'il/elle": "coiffât",
+			"qu'ils/elles": "coiffassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse coiffé",
+			"que": "vous eussiez coiffé",
+			"qu'il/elle": "eût coiffé",
+			"qu'ils/elles": "eussent coiffé"
+		},
+		"passé": {
+			"j'": "aie coiffé",
+			"que": "vous ayez coiffé",
+			"qu'il/elle": "ait coiffé",
+			"qu'ils/elles": "aient coiffé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "coifferais",
+			"tu": "coifferais",
+			"il/elle": "coifferait",
+			"nous": "coifferions",
+			"vous": "coifferiez",
+			"ils/elles": "coifferaient"
+		},
+		"passé première forme": {
+			"j'": "aurais coiffé",
+			"tu": "aurais coiffé",
+			"il/elle": "aurait coiffé",
+			"nous": "aurions coiffé",
+			"vous": "auriez coiffé",
+			"ils/elles": "auraient coiffé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse coiffé",
+			"tu": "eusses coiffé",
+			"il/elle": "eût coiffé",
+			"nous": "eussions coiffé",
+			"vous": "eussiez coiffé",
+			"ils/elles": "eussent coiffé"
+		}
+	},
+	"participe": {
+		"présent": { "coiffant": "" },
+		"passé composé": { "ayant": "coiffé" },
+		"passé": {
+			"masc.sg.:": "coiffé",
+			"masc.pl.:": "coiffés",
+			"fém.sg.:": "coiffée",
+			"fém.pl.:": "coiffées"
+		}
+	},
+	"imperatif": {
+		"présent": { "coiffe": "", "coiffons": "", "coiffez": "" },
+		"passé": { "aie": "coiffé", "ayons": "coiffé", "ayez": "coiffé" }
+	},
+	"infinitif": { "présent": { "coiffer": "" }, "passé": { "avoir": "coiffé" } }
+}

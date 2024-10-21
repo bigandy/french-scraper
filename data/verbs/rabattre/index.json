@@ -1,0 +1,141 @@
+{
+	"name": "rabattre",
+	"definition": "cast off; bind off; fold; ...",
+	"model": "battre",
+	"auxiliary": "avoir",
+	"otherForms": "se rabattre/ne pas rabattre/ne pas se rabattre",
+	"indicatif": {
+		"présent": {
+			"je": "rabats",
+			"tu": "rabats",
+			"il/elle": "rabat",
+			"nous": "rabattons",
+			"vous": "rabattez",
+			"ils/elles": "rabattent"
+		},
+		"imparfait": {
+			"je": "rabattais",
+			"tu": "rabattais",
+			"il/elle": "rabattait",
+			"nous": "rabattions",
+			"vous": "rabattiez",
+			"ils/elles": "rabattaient"
+		},
+		"futur": {
+			"je": "rabattrai",
+			"tu": "rabattras",
+			"il/elle": "rabattra",
+			"nous": "rabattrons",
+			"vous": "rabattrez",
+			"ils/elles": "rabattront"
+		},
+		"passé simple": {
+			"je": "rabattis",
+			"tu": "rabattis",
+			"il/elle": "rabattit",
+			"nous": "rabattîmes",
+			"vous": "rabattîtes",
+			"ils/elles": "rabattirent"
+		},
+		"passé composé": {
+			"j'": "ai rabattu",
+			"tu": "as rabattu",
+			"il/elle": "a rabattu",
+			"nous": "avons rabattu",
+			"vous": "avez rabattu",
+			"ils/elles": "ont rabattu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais rabattu",
+			"tu": "avais rabattu",
+			"il/elle": "avait rabattu",
+			"nous": "avions rabattu",
+			"vous": "aviez rabattu",
+			"ils/elles": "avaient rabattu"
+		},
+		"passé antérieur": {
+			"j'": "eus rabattu",
+			"tu": "eus rabattu",
+			"il/elle": "eut rabattu",
+			"nous": "eûmes rabattu",
+			"vous": "eûtes rabattu",
+			"ils/elles": "eurent rabattu"
+		},
+		"futur antérieur": {
+			"j'": "aurai rabattu",
+			"tu": "auras rabattu",
+			"il/elle": "aura rabattu",
+			"nous": "aurons rabattu",
+			"vous": "aurez rabattu",
+			"ils/elles": "auront rabattu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous rabattiez",
+			"qu'il/elle": "rabatte",
+			"qu'ils/elles": "rabattent"
+		},
+		"imparfait": {
+			"que": "vous rabattissiez",
+			"qu'il/elle": "rabattît",
+			"qu'ils/elles": "rabattissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse rabattu",
+			"que": "vous eussiez rabattu",
+			"qu'il/elle": "eût rabattu",
+			"qu'ils/elles": "eussent rabattu"
+		},
+		"passé": {
+			"j'": "aie rabattu",
+			"que": "vous ayez rabattu",
+			"qu'il/elle": "ait rabattu",
+			"qu'ils/elles": "aient rabattu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "rabattrais",
+			"tu": "rabattrais",
+			"il/elle": "rabattrait",
+			"nous": "rabattrions",
+			"vous": "rabattriez",
+			"ils/elles": "rabattraient"
+		},
+		"passé première forme": {
+			"j'": "aurais rabattu",
+			"tu": "aurais rabattu",
+			"il/elle": "aurait rabattu",
+			"nous": "aurions rabattu",
+			"vous": "auriez rabattu",
+			"ils/elles": "auraient rabattu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse rabattu",
+			"tu": "eusses rabattu",
+			"il/elle": "eût rabattu",
+			"nous": "eussions rabattu",
+			"vous": "eussiez rabattu",
+			"ils/elles": "eussent rabattu"
+		}
+	},
+	"participe": {
+		"présent": { "rabattant": "" },
+		"passé composé": { "ayant": "rabattu" },
+		"passé": {
+			"masc.sg.:": "rabattu",
+			"masc.pl.:": "rabattus",
+			"fém.sg.:": "rabattue",
+			"fém.pl.:": "rabattues"
+		}
+	},
+	"imperatif": {
+		"présent": { "rabats": "", "rabattons": "", "rabattez": "" },
+		"passé": { "aie": "rabattu", "ayons": "rabattu", "ayez": "rabattu" }
+	},
+	"infinitif": {
+		"présent": { "rabattre": "" },
+		"passé": { "avoir": "rabattu" }
+	}
+}

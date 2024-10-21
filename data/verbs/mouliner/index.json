@@ -1,0 +1,141 @@
+{
+	"name": "mouliner",
+	"definition": "mash; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se mouliner/ne pas mouliner/ne pas se mouliner",
+	"indicatif": {
+		"présent": {
+			"je": "mouline",
+			"tu": "moulines",
+			"il/elle": "mouline",
+			"nous": "moulinons",
+			"vous": "moulinez",
+			"ils/elles": "moulinent"
+		},
+		"imparfait": {
+			"je": "moulinais",
+			"tu": "moulinais",
+			"il/elle": "moulinait",
+			"nous": "moulinions",
+			"vous": "mouliniez",
+			"ils/elles": "moulinaient"
+		},
+		"futur": {
+			"je": "moulinerai",
+			"tu": "moulineras",
+			"il/elle": "moulinera",
+			"nous": "moulinerons",
+			"vous": "moulinerez",
+			"ils/elles": "moulineront"
+		},
+		"passé simple": {
+			"je": "moulinai",
+			"tu": "moulinas",
+			"il/elle": "moulina",
+			"nous": "moulinâmes",
+			"vous": "moulinâtes",
+			"ils/elles": "moulinèrent"
+		},
+		"passé composé": {
+			"j'": "ai mouliné",
+			"tu": "as mouliné",
+			"il/elle": "a mouliné",
+			"nous": "avons mouliné",
+			"vous": "avez mouliné",
+			"ils/elles": "ont mouliné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais mouliné",
+			"tu": "avais mouliné",
+			"il/elle": "avait mouliné",
+			"nous": "avions mouliné",
+			"vous": "aviez mouliné",
+			"ils/elles": "avaient mouliné"
+		},
+		"passé antérieur": {
+			"j'": "eus mouliné",
+			"tu": "eus mouliné",
+			"il/elle": "eut mouliné",
+			"nous": "eûmes mouliné",
+			"vous": "eûtes mouliné",
+			"ils/elles": "eurent mouliné"
+		},
+		"futur antérieur": {
+			"j'": "aurai mouliné",
+			"tu": "auras mouliné",
+			"il/elle": "aura mouliné",
+			"nous": "aurons mouliné",
+			"vous": "aurez mouliné",
+			"ils/elles": "auront mouliné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous mouliniez",
+			"qu'il/elle": "mouline",
+			"qu'ils/elles": "moulinent"
+		},
+		"imparfait": {
+			"que": "vous moulinassiez",
+			"qu'il/elle": "moulinât",
+			"qu'ils/elles": "moulinassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse mouliné",
+			"que": "vous eussiez mouliné",
+			"qu'il/elle": "eût mouliné",
+			"qu'ils/elles": "eussent mouliné"
+		},
+		"passé": {
+			"j'": "aie mouliné",
+			"que": "vous ayez mouliné",
+			"qu'il/elle": "ait mouliné",
+			"qu'ils/elles": "aient mouliné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "moulinerais",
+			"tu": "moulinerais",
+			"il/elle": "moulinerait",
+			"nous": "moulinerions",
+			"vous": "moulineriez",
+			"ils/elles": "moulineraient"
+		},
+		"passé première forme": {
+			"j'": "aurais mouliné",
+			"tu": "aurais mouliné",
+			"il/elle": "aurait mouliné",
+			"nous": "aurions mouliné",
+			"vous": "auriez mouliné",
+			"ils/elles": "auraient mouliné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse mouliné",
+			"tu": "eusses mouliné",
+			"il/elle": "eût mouliné",
+			"nous": "eussions mouliné",
+			"vous": "eussiez mouliné",
+			"ils/elles": "eussent mouliné"
+		}
+	},
+	"participe": {
+		"présent": { "moulinant": "" },
+		"passé composé": { "ayant": "mouliné" },
+		"passé": {
+			"masc.sg.:": "mouliné",
+			"masc.pl.:": "moulinés",
+			"fém.sg.:": "moulinée",
+			"fém.pl.:": "moulinées"
+		}
+	},
+	"imperatif": {
+		"présent": { "mouline": "", "moulinons": "", "moulinez": "" },
+		"passé": { "aie": "mouliné", "ayons": "mouliné", "ayez": "mouliné" }
+	},
+	"infinitif": {
+		"présent": { "mouliner": "" },
+		"passé": { "avoir": "mouliné" }
+	}
+}

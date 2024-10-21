@@ -1,0 +1,143 @@
+{
+	"name": "éclipser",
+	"definition": "overshadow; eclipse; slip away; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'éclipser/ne pas éclipser/ne pas s'éclipser",
+	"indicatif": {
+		"présent": {
+			"j'": "éclipse",
+			"tu": "éclipses",
+			"il/elle": "éclipse",
+			"nous": "éclipsons",
+			"vous": "éclipsez",
+			"ils/elles": "éclipsent"
+		},
+		"imparfait": {
+			"j'": "éclipsais",
+			"tu": "éclipsais",
+			"il/elle": "éclipsait",
+			"nous": "éclipsions",
+			"vous": "éclipsiez",
+			"ils/elles": "éclipsaient"
+		},
+		"futur": {
+			"j'": "éclipserai",
+			"tu": "éclipseras",
+			"il/elle": "éclipsera",
+			"nous": "éclipserons",
+			"vous": "éclipserez",
+			"ils/elles": "éclipseront"
+		},
+		"passé simple": {
+			"j'": "éclipsai",
+			"tu": "éclipsas",
+			"il/elle": "éclipsa",
+			"nous": "éclipsâmes",
+			"vous": "éclipsâtes",
+			"ils/elles": "éclipsèrent"
+		},
+		"passé composé": {
+			"j'": "ai éclipsé",
+			"tu": "as éclipsé",
+			"il/elle": "a éclipsé",
+			"nous": "avons éclipsé",
+			"vous": "avez éclipsé",
+			"ils/elles": "ont éclipsé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais éclipsé",
+			"tu": "avais éclipsé",
+			"il/elle": "avait éclipsé",
+			"nous": "avions éclipsé",
+			"vous": "aviez éclipsé",
+			"ils/elles": "avaient éclipsé"
+		},
+		"passé antérieur": {
+			"j'": "eus éclipsé",
+			"tu": "eus éclipsé",
+			"il/elle": "eut éclipsé",
+			"nous": "eûmes éclipsé",
+			"vous": "eûtes éclipsé",
+			"ils/elles": "eurent éclipsé"
+		},
+		"futur antérieur": {
+			"j'": "aurai éclipsé",
+			"tu": "auras éclipsé",
+			"il/elle": "aura éclipsé",
+			"nous": "aurons éclipsé",
+			"vous": "aurez éclipsé",
+			"ils/elles": "auront éclipsé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "éclipse",
+			"que": "vous éclipsiez",
+			"qu'il/elle": "éclipse",
+			"qu'ils/elles": "éclipsent"
+		},
+		"imparfait": {
+			"j'": "éclipsasse",
+			"que": "vous éclipsassiez",
+			"qu'il/elle": "éclipsât",
+			"qu'ils/elles": "éclipsassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse éclipsé",
+			"que": "vous eussiez éclipsé",
+			"qu'il/elle": "eût éclipsé",
+			"qu'ils/elles": "eussent éclipsé"
+		},
+		"passé": {
+			"j'": "aie éclipsé",
+			"que": "vous ayez éclipsé",
+			"qu'il/elle": "ait éclipsé",
+			"qu'ils/elles": "aient éclipsé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "éclipserais",
+			"tu": "éclipserais",
+			"il/elle": "éclipserait",
+			"nous": "éclipserions",
+			"vous": "éclipseriez",
+			"ils/elles": "éclipseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais éclipsé",
+			"tu": "aurais éclipsé",
+			"il/elle": "aurait éclipsé",
+			"nous": "aurions éclipsé",
+			"vous": "auriez éclipsé",
+			"ils/elles": "auraient éclipsé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse éclipsé",
+			"tu": "eusses éclipsé",
+			"il/elle": "eût éclipsé",
+			"nous": "eussions éclipsé",
+			"vous": "eussiez éclipsé",
+			"ils/elles": "eussent éclipsé"
+		}
+	},
+	"participe": {
+		"présent": { "éclipsant": "" },
+		"passé composé": { "ayant": "éclipsé" },
+		"passé": {
+			"masc.sg.:": "éclipsé",
+			"masc.pl.:": "éclipsés",
+			"fém.sg.:": "éclipsée",
+			"fém.pl.:": "éclipsées"
+		}
+	},
+	"imperatif": {
+		"présent": { "éclipse": "", "éclipsons": "", "éclipsez": "" },
+		"passé": { "aie": "éclipsé", "ayons": "éclipsé", "ayez": "éclipsé" }
+	},
+	"infinitif": {
+		"présent": { "éclipser": "" },
+		"passé": { "avoir": "éclipsé" }
+	}
+}

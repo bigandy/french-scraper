@@ -1,0 +1,143 @@
+{
+	"name": "alterner",
+	"definition": "alternate; rotate; toggle; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'alterner/ne pas alterner/ne pas s'alterner",
+	"indicatif": {
+		"présent": {
+			"j'": "alterne",
+			"tu": "alternes",
+			"il/elle": "alterne",
+			"nous": "alternons",
+			"vous": "alternez",
+			"ils/elles": "alternent"
+		},
+		"imparfait": {
+			"j'": "alternais",
+			"tu": "alternais",
+			"il/elle": "alternait",
+			"nous": "alternions",
+			"vous": "alterniez",
+			"ils/elles": "alternaient"
+		},
+		"futur": {
+			"j'": "alternerai",
+			"tu": "alterneras",
+			"il/elle": "alternera",
+			"nous": "alternerons",
+			"vous": "alternerez",
+			"ils/elles": "alterneront"
+		},
+		"passé simple": {
+			"j'": "alternai",
+			"tu": "alternas",
+			"il/elle": "alterna",
+			"nous": "alternâmes",
+			"vous": "alternâtes",
+			"ils/elles": "alternèrent"
+		},
+		"passé composé": {
+			"j'": "ai alterné",
+			"tu": "as alterné",
+			"il/elle": "a alterné",
+			"nous": "avons alterné",
+			"vous": "avez alterné",
+			"ils/elles": "ont alterné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais alterné",
+			"tu": "avais alterné",
+			"il/elle": "avait alterné",
+			"nous": "avions alterné",
+			"vous": "aviez alterné",
+			"ils/elles": "avaient alterné"
+		},
+		"passé antérieur": {
+			"j'": "eus alterné",
+			"tu": "eus alterné",
+			"il/elle": "eut alterné",
+			"nous": "eûmes alterné",
+			"vous": "eûtes alterné",
+			"ils/elles": "eurent alterné"
+		},
+		"futur antérieur": {
+			"j'": "aurai alterné",
+			"tu": "auras alterné",
+			"il/elle": "aura alterné",
+			"nous": "aurons alterné",
+			"vous": "aurez alterné",
+			"ils/elles": "auront alterné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "alterne",
+			"que": "vous alterniez",
+			"qu'il/elle": "alterne",
+			"qu'ils/elles": "alternent"
+		},
+		"imparfait": {
+			"j'": "alternasse",
+			"que": "vous alternassiez",
+			"qu'il/elle": "alternât",
+			"qu'ils/elles": "alternassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse alterné",
+			"que": "vous eussiez alterné",
+			"qu'il/elle": "eût alterné",
+			"qu'ils/elles": "eussent alterné"
+		},
+		"passé": {
+			"j'": "aie alterné",
+			"que": "vous ayez alterné",
+			"qu'il/elle": "ait alterné",
+			"qu'ils/elles": "aient alterné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "alternerais",
+			"tu": "alternerais",
+			"il/elle": "alternerait",
+			"nous": "alternerions",
+			"vous": "alterneriez",
+			"ils/elles": "alterneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais alterné",
+			"tu": "aurais alterné",
+			"il/elle": "aurait alterné",
+			"nous": "aurions alterné",
+			"vous": "auriez alterné",
+			"ils/elles": "auraient alterné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse alterné",
+			"tu": "eusses alterné",
+			"il/elle": "eût alterné",
+			"nous": "eussions alterné",
+			"vous": "eussiez alterné",
+			"ils/elles": "eussent alterné"
+		}
+	},
+	"participe": {
+		"présent": { "alternant": "" },
+		"passé composé": { "ayant": "alterné" },
+		"passé": {
+			"masc.sg.:": "alterné",
+			"masc.pl.:": "alternés",
+			"fém.sg.:": "alternée",
+			"fém.pl.:": "alternées"
+		}
+	},
+	"imperatif": {
+		"présent": { "alterne": "", "alternons": "", "alternez": "" },
+		"passé": { "aie": "alterné", "ayons": "alterné", "ayez": "alterné" }
+	},
+	"infinitif": {
+		"présent": { "alterner": "" },
+		"passé": { "avoir": "alterné" }
+	}
+}

@@ -1,0 +1,155 @@
+{
+	"name": "s'écrouler",
+	"definition": "collapse; crumble; fall apart; ...",
+	"model": "marcher",
+	"auxiliary": "être",
+	"otherForms": "ne pas s'écrouler",
+	"indicatif": {
+		"présent": {
+			"je": "m'écroule",
+			"tu": "t'écroules",
+			"il/elle": "s'écroule",
+			"nous": "nous écroulons",
+			"vous": "vous écroulez",
+			"ils/elles": "s'écroulent"
+		},
+		"imparfait": {
+			"je": "m'écroulais",
+			"tu": "t'écroulais",
+			"il/elle": "s'écroulait",
+			"nous": "nous écroulions",
+			"vous": "vous écrouliez",
+			"ils/elles": "s'écroulaient"
+		},
+		"futur": {
+			"je": "m'écroulerai",
+			"tu": "t'écrouleras",
+			"il/elle": "s'écroulera",
+			"nous": "nous écroulerons",
+			"vous": "vous écroulerez",
+			"ils/elles": "s'écrouleront"
+		},
+		"passé simple": {
+			"je": "m'écroulai",
+			"tu": "t'écroulas",
+			"il/elle": "s'écroula",
+			"nous": "nous écroulâmes",
+			"vous": "vous écroulâtes",
+			"ils/elles": "s'écroulèrent"
+		},
+		"passé composé": {
+			"je": "me suis écroulé",
+			"tu": "t'es écroulé",
+			"il": "s'est écroulé",
+			"elle": "s'est écroulée",
+			"nous": "nous sommes écroulés",
+			"vous": "vous êtes écroulés",
+			"ils": "se sont écroulés",
+			"elles": "se sont écroulées"
+		},
+		"plus-que-parfait": {
+			"je": "m'étais écroulé",
+			"tu": "t'étais écroulé",
+			"il": "s'était écroulé",
+			"elle": "s'était écroulée",
+			"nous": "nous étions écroulés",
+			"vous": "vous étiez écroulés",
+			"ils": "s'étaient écroulés",
+			"elles": "s'étaient écroulées"
+		},
+		"passé antérieur": {
+			"je": "me fus écroulé",
+			"tu": "te fus écroulé",
+			"il": "se fut écroulé",
+			"elle": "se fut écroulée",
+			"nous": "nous fûmes écroulés",
+			"vous": "vous fûtes écroulés",
+			"ils": "se furent écroulés",
+			"elles": "se furent écroulées"
+		},
+		"futur antérieur": {
+			"je": "me serai écroulé",
+			"tu": "te seras écroulé",
+			"il": "se sera écroulé",
+			"elle": "se sera écroulée",
+			"nous": "nous serons écroulés",
+			"vous": "vous serez écroulés",
+			"ils": "se seront écroulés",
+			"elles": "se seront écroulées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous vous écrouliez",
+			"qu'il/elle": "s'écroule",
+			"qu'ils/elles": "s'écroulent"
+		},
+		"imparfait": {
+			"que": "vous vous écroulassiez",
+			"qu'il/elle": "s'écroulât",
+			"qu'ils/elles": "s'écroulassent"
+		},
+		"plus-que-parfait": {
+			"que": "vous vous fussiez écroulés",
+			"qu'il": "se fût écroulé",
+			"qu'elle": "se fût écroulée",
+			"qu'ils": "se fussent écroulés",
+			"qu'elles": "se fussent écroulées"
+		},
+		"passé": {
+			"que": "vous vous soyez écroulés",
+			"qu'il": "se soit écroulé",
+			"qu'elle": "se soit écroulée",
+			"qu'ils": "se soient écroulés",
+			"qu'elles": "se soient écroulées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "m'écroulerais",
+			"tu": "t'écroulerais",
+			"il/elle": "s'écroulerait",
+			"nous": "nous écroulerions",
+			"vous": "vous écrouleriez",
+			"ils/elles": "s'écrouleraient"
+		},
+		"passé première forme": {
+			"je": "me serais écroulé",
+			"tu": "te serais écroulé",
+			"il": "se serait écroulé",
+			"elle": "se serait écroulée",
+			"nous": "nous serions écroulés",
+			"vous": "vous seriez écroulés",
+			"ils": "se seraient écroulés",
+			"elles": "se seraient écroulées"
+		},
+		"passé deuxième forme": {
+			"je": "me fusse écroulé",
+			"tu": "te fusses écroulé",
+			"il": "se fût écroulé",
+			"elle": "se fût écroulée",
+			"nous": "nous fussions écroulés",
+			"vous": "vous fussiez écroulés",
+			"ils": "se fussent écroulés",
+			"elles": "se fussent écroulées"
+		}
+	},
+	"participe": {
+		"présent": { "s'écroulant": "" },
+		"passé composé": { "s'étant": "écroulé" },
+		"passé": {
+			"masc.sg.:": "écroulé",
+			"masc.pl.:": "écroulés",
+			"fém.sg.:": "écroulée",
+			"fém.pl.:": "écroulées"
+		}
+	},
+	"imperatif": {
+		"présent": { "écroule-toi": "", "écroulons-nous": "", "écroulez-vous": "" },
+		"passé": {}
+	},
+	"infinitif": {
+		"présent": { "s'écrouler": "" },
+		"passé": { "s'être": "écroulé" }
+	}
+}

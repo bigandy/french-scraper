@@ -1,0 +1,143 @@
+{
+	"name": "exterminer",
+	"definition": "exterminate; destroy; wipe out; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'exterminer/ne pas exterminer/ne pas s'exterminer",
+	"indicatif": {
+		"présent": {
+			"j'": "extermine",
+			"tu": "extermines",
+			"il/elle": "extermine",
+			"nous": "exterminons",
+			"vous": "exterminez",
+			"ils/elles": "exterminent"
+		},
+		"imparfait": {
+			"j'": "exterminais",
+			"tu": "exterminais",
+			"il/elle": "exterminait",
+			"nous": "exterminions",
+			"vous": "exterminiez",
+			"ils/elles": "exterminaient"
+		},
+		"futur": {
+			"j'": "exterminerai",
+			"tu": "extermineras",
+			"il/elle": "exterminera",
+			"nous": "exterminerons",
+			"vous": "exterminerez",
+			"ils/elles": "extermineront"
+		},
+		"passé simple": {
+			"j'": "exterminai",
+			"tu": "exterminas",
+			"il/elle": "extermina",
+			"nous": "exterminâmes",
+			"vous": "exterminâtes",
+			"ils/elles": "exterminèrent"
+		},
+		"passé composé": {
+			"j'": "ai exterminé",
+			"tu": "as exterminé",
+			"il/elle": "a exterminé",
+			"nous": "avons exterminé",
+			"vous": "avez exterminé",
+			"ils/elles": "ont exterminé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais exterminé",
+			"tu": "avais exterminé",
+			"il/elle": "avait exterminé",
+			"nous": "avions exterminé",
+			"vous": "aviez exterminé",
+			"ils/elles": "avaient exterminé"
+		},
+		"passé antérieur": {
+			"j'": "eus exterminé",
+			"tu": "eus exterminé",
+			"il/elle": "eut exterminé",
+			"nous": "eûmes exterminé",
+			"vous": "eûtes exterminé",
+			"ils/elles": "eurent exterminé"
+		},
+		"futur antérieur": {
+			"j'": "aurai exterminé",
+			"tu": "auras exterminé",
+			"il/elle": "aura exterminé",
+			"nous": "aurons exterminé",
+			"vous": "aurez exterminé",
+			"ils/elles": "auront exterminé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "extermine",
+			"que": "vous exterminiez",
+			"qu'il/elle": "extermine",
+			"qu'ils/elles": "exterminent"
+		},
+		"imparfait": {
+			"j'": "exterminasse",
+			"que": "vous exterminassiez",
+			"qu'il/elle": "exterminât",
+			"qu'ils/elles": "exterminassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse exterminé",
+			"que": "vous eussiez exterminé",
+			"qu'il/elle": "eût exterminé",
+			"qu'ils/elles": "eussent exterminé"
+		},
+		"passé": {
+			"j'": "aie exterminé",
+			"que": "vous ayez exterminé",
+			"qu'il/elle": "ait exterminé",
+			"qu'ils/elles": "aient exterminé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "exterminerais",
+			"tu": "exterminerais",
+			"il/elle": "exterminerait",
+			"nous": "exterminerions",
+			"vous": "extermineriez",
+			"ils/elles": "extermineraient"
+		},
+		"passé première forme": {
+			"j'": "aurais exterminé",
+			"tu": "aurais exterminé",
+			"il/elle": "aurait exterminé",
+			"nous": "aurions exterminé",
+			"vous": "auriez exterminé",
+			"ils/elles": "auraient exterminé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse exterminé",
+			"tu": "eusses exterminé",
+			"il/elle": "eût exterminé",
+			"nous": "eussions exterminé",
+			"vous": "eussiez exterminé",
+			"ils/elles": "eussent exterminé"
+		}
+	},
+	"participe": {
+		"présent": { "exterminant": "" },
+		"passé composé": { "ayant": "exterminé" },
+		"passé": {
+			"masc.sg.:": "exterminé",
+			"masc.pl.:": "exterminés",
+			"fém.sg.:": "exterminée",
+			"fém.pl.:": "exterminées"
+		}
+	},
+	"imperatif": {
+		"présent": { "extermine": "", "exterminons": "", "exterminez": "" },
+		"passé": { "aie": "exterminé", "ayons": "exterminé", "ayez": "exterminé" }
+	},
+	"infinitif": {
+		"présent": { "exterminer": "" },
+		"passé": { "avoir": "exterminé" }
+	}
+}

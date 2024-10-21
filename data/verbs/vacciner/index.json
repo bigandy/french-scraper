@@ -1,0 +1,141 @@
+{
+	"name": "vacciner",
+	"definition": "vaccinate; immunize; inoculate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se vacciner/ne pas vacciner/ne pas se vacciner",
+	"indicatif": {
+		"présent": {
+			"je": "vaccine",
+			"tu": "vaccines",
+			"il/elle": "vaccine",
+			"nous": "vaccinons",
+			"vous": "vaccinez",
+			"ils/elles": "vaccinent"
+		},
+		"imparfait": {
+			"je": "vaccinais",
+			"tu": "vaccinais",
+			"il/elle": "vaccinait",
+			"nous": "vaccinions",
+			"vous": "vacciniez",
+			"ils/elles": "vaccinaient"
+		},
+		"futur": {
+			"je": "vaccinerai",
+			"tu": "vaccineras",
+			"il/elle": "vaccinera",
+			"nous": "vaccinerons",
+			"vous": "vaccinerez",
+			"ils/elles": "vaccineront"
+		},
+		"passé simple": {
+			"je": "vaccinai",
+			"tu": "vaccinas",
+			"il/elle": "vaccina",
+			"nous": "vaccinâmes",
+			"vous": "vaccinâtes",
+			"ils/elles": "vaccinèrent"
+		},
+		"passé composé": {
+			"j'": "ai vacciné",
+			"tu": "as vacciné",
+			"il/elle": "a vacciné",
+			"nous": "avons vacciné",
+			"vous": "avez vacciné",
+			"ils/elles": "ont vacciné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais vacciné",
+			"tu": "avais vacciné",
+			"il/elle": "avait vacciné",
+			"nous": "avions vacciné",
+			"vous": "aviez vacciné",
+			"ils/elles": "avaient vacciné"
+		},
+		"passé antérieur": {
+			"j'": "eus vacciné",
+			"tu": "eus vacciné",
+			"il/elle": "eut vacciné",
+			"nous": "eûmes vacciné",
+			"vous": "eûtes vacciné",
+			"ils/elles": "eurent vacciné"
+		},
+		"futur antérieur": {
+			"j'": "aurai vacciné",
+			"tu": "auras vacciné",
+			"il/elle": "aura vacciné",
+			"nous": "aurons vacciné",
+			"vous": "aurez vacciné",
+			"ils/elles": "auront vacciné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous vacciniez",
+			"qu'il/elle": "vaccine",
+			"qu'ils/elles": "vaccinent"
+		},
+		"imparfait": {
+			"que": "vous vaccinassiez",
+			"qu'il/elle": "vaccinât",
+			"qu'ils/elles": "vaccinassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse vacciné",
+			"que": "vous eussiez vacciné",
+			"qu'il/elle": "eût vacciné",
+			"qu'ils/elles": "eussent vacciné"
+		},
+		"passé": {
+			"j'": "aie vacciné",
+			"que": "vous ayez vacciné",
+			"qu'il/elle": "ait vacciné",
+			"qu'ils/elles": "aient vacciné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "vaccinerais",
+			"tu": "vaccinerais",
+			"il/elle": "vaccinerait",
+			"nous": "vaccinerions",
+			"vous": "vaccineriez",
+			"ils/elles": "vaccineraient"
+		},
+		"passé première forme": {
+			"j'": "aurais vacciné",
+			"tu": "aurais vacciné",
+			"il/elle": "aurait vacciné",
+			"nous": "aurions vacciné",
+			"vous": "auriez vacciné",
+			"ils/elles": "auraient vacciné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse vacciné",
+			"tu": "eusses vacciné",
+			"il/elle": "eût vacciné",
+			"nous": "eussions vacciné",
+			"vous": "eussiez vacciné",
+			"ils/elles": "eussent vacciné"
+		}
+	},
+	"participe": {
+		"présent": { "vaccinant": "" },
+		"passé composé": { "ayant": "vacciné" },
+		"passé": {
+			"masc.sg.:": "vacciné",
+			"masc.pl.:": "vaccinés",
+			"fém.sg.:": "vaccinée",
+			"fém.pl.:": "vaccinées"
+		}
+	},
+	"imperatif": {
+		"présent": { "vaccine": "", "vaccinons": "", "vaccinez": "" },
+		"passé": { "aie": "vacciné", "ayons": "vacciné", "ayez": "vacciné" }
+	},
+	"infinitif": {
+		"présent": { "vacciner": "" },
+		"passé": { "avoir": "vacciné" }
+	}
+}

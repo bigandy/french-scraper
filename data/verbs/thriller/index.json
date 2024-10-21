@@ -1,0 +1,141 @@
+{
+	"name": "thriller",
+	"definition": "",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se thriller/ne pas thriller/ne pas se thriller",
+	"indicatif": {
+		"présent": {
+			"je": "thrille",
+			"tu": "thrilles",
+			"il/elle": "thrille",
+			"nous": "thrillons",
+			"vous": "thrillez",
+			"ils/elles": "thrillent"
+		},
+		"imparfait": {
+			"je": "thrillais",
+			"tu": "thrillais",
+			"il/elle": "thrillait",
+			"nous": "thrillions",
+			"vous": "thrilliez",
+			"ils/elles": "thrillaient"
+		},
+		"futur": {
+			"je": "thrillerai",
+			"tu": "thrilleras",
+			"il/elle": "thrillera",
+			"nous": "thrillerons",
+			"vous": "thrillerez",
+			"ils/elles": "thrilleront"
+		},
+		"passé simple": {
+			"je": "thrillai",
+			"tu": "thrillas",
+			"il/elle": "thrilla",
+			"nous": "thrillâmes",
+			"vous": "thrillâtes",
+			"ils/elles": "thrillèrent"
+		},
+		"passé composé": {
+			"j'": "ai thrillé",
+			"tu": "as thrillé",
+			"il/elle": "a thrillé",
+			"nous": "avons thrillé",
+			"vous": "avez thrillé",
+			"ils/elles": "ont thrillé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais thrillé",
+			"tu": "avais thrillé",
+			"il/elle": "avait thrillé",
+			"nous": "avions thrillé",
+			"vous": "aviez thrillé",
+			"ils/elles": "avaient thrillé"
+		},
+		"passé antérieur": {
+			"j'": "eus thrillé",
+			"tu": "eus thrillé",
+			"il/elle": "eut thrillé",
+			"nous": "eûmes thrillé",
+			"vous": "eûtes thrillé",
+			"ils/elles": "eurent thrillé"
+		},
+		"futur antérieur": {
+			"j'": "aurai thrillé",
+			"tu": "auras thrillé",
+			"il/elle": "aura thrillé",
+			"nous": "aurons thrillé",
+			"vous": "aurez thrillé",
+			"ils/elles": "auront thrillé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous thrilliez",
+			"qu'il/elle": "thrille",
+			"qu'ils/elles": "thrillent"
+		},
+		"imparfait": {
+			"que": "vous thrillassiez",
+			"qu'il/elle": "thrillât",
+			"qu'ils/elles": "thrillassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse thrillé",
+			"que": "vous eussiez thrillé",
+			"qu'il/elle": "eût thrillé",
+			"qu'ils/elles": "eussent thrillé"
+		},
+		"passé": {
+			"j'": "aie thrillé",
+			"que": "vous ayez thrillé",
+			"qu'il/elle": "ait thrillé",
+			"qu'ils/elles": "aient thrillé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "thrillerais",
+			"tu": "thrillerais",
+			"il/elle": "thrillerait",
+			"nous": "thrillerions",
+			"vous": "thrilleriez",
+			"ils/elles": "thrilleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais thrillé",
+			"tu": "aurais thrillé",
+			"il/elle": "aurait thrillé",
+			"nous": "aurions thrillé",
+			"vous": "auriez thrillé",
+			"ils/elles": "auraient thrillé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse thrillé",
+			"tu": "eusses thrillé",
+			"il/elle": "eût thrillé",
+			"nous": "eussions thrillé",
+			"vous": "eussiez thrillé",
+			"ils/elles": "eussent thrillé"
+		}
+	},
+	"participe": {
+		"présent": { "thrillant": "" },
+		"passé composé": { "ayant": "thrillé" },
+		"passé": {
+			"masc.sg.:": "thrillé",
+			"masc.pl.:": "thrillés",
+			"fém.sg.:": "thrillée",
+			"fém.pl.:": "thrillées"
+		}
+	},
+	"imperatif": {
+		"présent": { "thrille": "", "thrillons": "", "thrillez": "" },
+		"passé": { "aie": "thrillé", "ayons": "thrillé", "ayez": "thrillé" }
+	},
+	"infinitif": {
+		"présent": { "thriller": "" },
+		"passé": { "avoir": "thrillé" }
+	}
+}

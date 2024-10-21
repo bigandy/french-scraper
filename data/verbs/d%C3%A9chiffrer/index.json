@@ -1,0 +1,141 @@
+{
+	"name": "déchiffrer",
+	"definition": "decipher; decrypt; read; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se déchiffrer/ne pas déchiffrer/ne pas se déchiffrer",
+	"indicatif": {
+		"présent": {
+			"je": "déchiffre",
+			"tu": "déchiffres",
+			"il/elle": "déchiffre",
+			"nous": "déchiffrons",
+			"vous": "déchiffrez",
+			"ils/elles": "déchiffrent"
+		},
+		"imparfait": {
+			"je": "déchiffrais",
+			"tu": "déchiffrais",
+			"il/elle": "déchiffrait",
+			"nous": "déchiffrions",
+			"vous": "déchiffriez",
+			"ils/elles": "déchiffraient"
+		},
+		"futur": {
+			"je": "déchiffrerai",
+			"tu": "déchiffreras",
+			"il/elle": "déchiffrera",
+			"nous": "déchiffrerons",
+			"vous": "déchiffrerez",
+			"ils/elles": "déchiffreront"
+		},
+		"passé simple": {
+			"je": "déchiffrai",
+			"tu": "déchiffras",
+			"il/elle": "déchiffra",
+			"nous": "déchiffrâmes",
+			"vous": "déchiffrâtes",
+			"ils/elles": "déchiffrèrent"
+		},
+		"passé composé": {
+			"j'": "ai déchiffré",
+			"tu": "as déchiffré",
+			"il/elle": "a déchiffré",
+			"nous": "avons déchiffré",
+			"vous": "avez déchiffré",
+			"ils/elles": "ont déchiffré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais déchiffré",
+			"tu": "avais déchiffré",
+			"il/elle": "avait déchiffré",
+			"nous": "avions déchiffré",
+			"vous": "aviez déchiffré",
+			"ils/elles": "avaient déchiffré"
+		},
+		"passé antérieur": {
+			"j'": "eus déchiffré",
+			"tu": "eus déchiffré",
+			"il/elle": "eut déchiffré",
+			"nous": "eûmes déchiffré",
+			"vous": "eûtes déchiffré",
+			"ils/elles": "eurent déchiffré"
+		},
+		"futur antérieur": {
+			"j'": "aurai déchiffré",
+			"tu": "auras déchiffré",
+			"il/elle": "aura déchiffré",
+			"nous": "aurons déchiffré",
+			"vous": "aurez déchiffré",
+			"ils/elles": "auront déchiffré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous déchiffriez",
+			"qu'il/elle": "déchiffre",
+			"qu'ils/elles": "déchiffrent"
+		},
+		"imparfait": {
+			"que": "vous déchiffrassiez",
+			"qu'il/elle": "déchiffrât",
+			"qu'ils/elles": "déchiffrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse déchiffré",
+			"que": "vous eussiez déchiffré",
+			"qu'il/elle": "eût déchiffré",
+			"qu'ils/elles": "eussent déchiffré"
+		},
+		"passé": {
+			"j'": "aie déchiffré",
+			"que": "vous ayez déchiffré",
+			"qu'il/elle": "ait déchiffré",
+			"qu'ils/elles": "aient déchiffré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "déchiffrerais",
+			"tu": "déchiffrerais",
+			"il/elle": "déchiffrerait",
+			"nous": "déchiffrerions",
+			"vous": "déchiffreriez",
+			"ils/elles": "déchiffreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais déchiffré",
+			"tu": "aurais déchiffré",
+			"il/elle": "aurait déchiffré",
+			"nous": "aurions déchiffré",
+			"vous": "auriez déchiffré",
+			"ils/elles": "auraient déchiffré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse déchiffré",
+			"tu": "eusses déchiffré",
+			"il/elle": "eût déchiffré",
+			"nous": "eussions déchiffré",
+			"vous": "eussiez déchiffré",
+			"ils/elles": "eussent déchiffré"
+		}
+	},
+	"participe": {
+		"présent": { "déchiffrant": "" },
+		"passé composé": { "ayant": "déchiffré" },
+		"passé": {
+			"masc.sg.:": "déchiffré",
+			"masc.pl.:": "déchiffrés",
+			"fém.sg.:": "déchiffrée",
+			"fém.pl.:": "déchiffrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "déchiffre": "", "déchiffrons": "", "déchiffrez": "" },
+		"passé": { "aie": "déchiffré", "ayons": "déchiffré", "ayez": "déchiffré" }
+	},
+	"infinitif": {
+		"présent": { "déchiffrer": "" },
+		"passé": { "avoir": "déchiffré" }
+	}
+}

@@ -1,0 +1,138 @@
+{
+	"name": "démêler",
+	"definition": "untangle; unravel; disentangle; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se démêler/ne pas démêler/ne pas se démêler",
+	"indicatif": {
+		"présent": {
+			"je": "démêle",
+			"tu": "démêles",
+			"il/elle": "démêle",
+			"nous": "démêlons",
+			"vous": "démêlez",
+			"ils/elles": "démêlent"
+		},
+		"imparfait": {
+			"je": "démêlais",
+			"tu": "démêlais",
+			"il/elle": "démêlait",
+			"nous": "démêlions",
+			"vous": "démêliez",
+			"ils/elles": "démêlaient"
+		},
+		"futur": {
+			"je": "démêlerai",
+			"tu": "démêleras",
+			"il/elle": "démêlera",
+			"nous": "démêlerons",
+			"vous": "démêlerez",
+			"ils/elles": "démêleront"
+		},
+		"passé simple": {
+			"je": "démêlai",
+			"tu": "démêlas",
+			"il/elle": "démêla",
+			"nous": "démêlâmes",
+			"vous": "démêlâtes",
+			"ils/elles": "démêlèrent"
+		},
+		"passé composé": {
+			"j'": "ai démêlé",
+			"tu": "as démêlé",
+			"il/elle": "a démêlé",
+			"nous": "avons démêlé",
+			"vous": "avez démêlé",
+			"ils/elles": "ont démêlé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais démêlé",
+			"tu": "avais démêlé",
+			"il/elle": "avait démêlé",
+			"nous": "avions démêlé",
+			"vous": "aviez démêlé",
+			"ils/elles": "avaient démêlé"
+		},
+		"passé antérieur": {
+			"j'": "eus démêlé",
+			"tu": "eus démêlé",
+			"il/elle": "eut démêlé",
+			"nous": "eûmes démêlé",
+			"vous": "eûtes démêlé",
+			"ils/elles": "eurent démêlé"
+		},
+		"futur antérieur": {
+			"j'": "aurai démêlé",
+			"tu": "auras démêlé",
+			"il/elle": "aura démêlé",
+			"nous": "aurons démêlé",
+			"vous": "aurez démêlé",
+			"ils/elles": "auront démêlé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous démêliez",
+			"qu'il/elle": "démêle",
+			"qu'ils/elles": "démêlent"
+		},
+		"imparfait": {
+			"que": "vous démêlassiez",
+			"qu'il/elle": "démêlât",
+			"qu'ils/elles": "démêlassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse démêlé",
+			"que": "vous eussiez démêlé",
+			"qu'il/elle": "eût démêlé",
+			"qu'ils/elles": "eussent démêlé"
+		},
+		"passé": {
+			"j'": "aie démêlé",
+			"que": "vous ayez démêlé",
+			"qu'il/elle": "ait démêlé",
+			"qu'ils/elles": "aient démêlé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "démêlerais",
+			"tu": "démêlerais",
+			"il/elle": "démêlerait",
+			"nous": "démêlerions",
+			"vous": "démêleriez",
+			"ils/elles": "démêleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais démêlé",
+			"tu": "aurais démêlé",
+			"il/elle": "aurait démêlé",
+			"nous": "aurions démêlé",
+			"vous": "auriez démêlé",
+			"ils/elles": "auraient démêlé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse démêlé",
+			"tu": "eusses démêlé",
+			"il/elle": "eût démêlé",
+			"nous": "eussions démêlé",
+			"vous": "eussiez démêlé",
+			"ils/elles": "eussent démêlé"
+		}
+	},
+	"participe": {
+		"présent": { "démêlant": "" },
+		"passé composé": { "ayant": "démêlé" },
+		"passé": {
+			"masc.sg.:": "démêlé",
+			"masc.pl.:": "démêlés",
+			"fém.sg.:": "démêlée",
+			"fém.pl.:": "démêlées"
+		}
+	},
+	"imperatif": {
+		"présent": { "démêle": "", "démêlons": "", "démêlez": "" },
+		"passé": { "aie": "démêlé", "ayons": "démêlé", "ayez": "démêlé" }
+	},
+	"infinitif": { "présent": { "démêler": "" }, "passé": { "avoir": "démêlé" } }
+}

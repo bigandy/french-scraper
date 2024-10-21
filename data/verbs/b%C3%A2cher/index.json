@@ -1,0 +1,138 @@
+{
+	"name": "bâcher",
+	"definition": "cover; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se bâcher/ne pas bâcher/ne pas se bâcher",
+	"indicatif": {
+		"présent": {
+			"je": "bâche",
+			"tu": "bâches",
+			"il/elle": "bâche",
+			"nous": "bâchons",
+			"vous": "bâchez",
+			"ils/elles": "bâchent"
+		},
+		"imparfait": {
+			"je": "bâchais",
+			"tu": "bâchais",
+			"il/elle": "bâchait",
+			"nous": "bâchions",
+			"vous": "bâchiez",
+			"ils/elles": "bâchaient"
+		},
+		"futur": {
+			"je": "bâcherai",
+			"tu": "bâcheras",
+			"il/elle": "bâchera",
+			"nous": "bâcherons",
+			"vous": "bâcherez",
+			"ils/elles": "bâcheront"
+		},
+		"passé simple": {
+			"je": "bâchai",
+			"tu": "bâchas",
+			"il/elle": "bâcha",
+			"nous": "bâchâmes",
+			"vous": "bâchâtes",
+			"ils/elles": "bâchèrent"
+		},
+		"passé composé": {
+			"j'": "ai bâché",
+			"tu": "as bâché",
+			"il/elle": "a bâché",
+			"nous": "avons bâché",
+			"vous": "avez bâché",
+			"ils/elles": "ont bâché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais bâché",
+			"tu": "avais bâché",
+			"il/elle": "avait bâché",
+			"nous": "avions bâché",
+			"vous": "aviez bâché",
+			"ils/elles": "avaient bâché"
+		},
+		"passé antérieur": {
+			"j'": "eus bâché",
+			"tu": "eus bâché",
+			"il/elle": "eut bâché",
+			"nous": "eûmes bâché",
+			"vous": "eûtes bâché",
+			"ils/elles": "eurent bâché"
+		},
+		"futur antérieur": {
+			"j'": "aurai bâché",
+			"tu": "auras bâché",
+			"il/elle": "aura bâché",
+			"nous": "aurons bâché",
+			"vous": "aurez bâché",
+			"ils/elles": "auront bâché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous bâchiez",
+			"qu'il/elle": "bâche",
+			"qu'ils/elles": "bâchent"
+		},
+		"imparfait": {
+			"que": "vous bâchassiez",
+			"qu'il/elle": "bâchât",
+			"qu'ils/elles": "bâchassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse bâché",
+			"que": "vous eussiez bâché",
+			"qu'il/elle": "eût bâché",
+			"qu'ils/elles": "eussent bâché"
+		},
+		"passé": {
+			"j'": "aie bâché",
+			"que": "vous ayez bâché",
+			"qu'il/elle": "ait bâché",
+			"qu'ils/elles": "aient bâché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "bâcherais",
+			"tu": "bâcherais",
+			"il/elle": "bâcherait",
+			"nous": "bâcherions",
+			"vous": "bâcheriez",
+			"ils/elles": "bâcheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais bâché",
+			"tu": "aurais bâché",
+			"il/elle": "aurait bâché",
+			"nous": "aurions bâché",
+			"vous": "auriez bâché",
+			"ils/elles": "auraient bâché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse bâché",
+			"tu": "eusses bâché",
+			"il/elle": "eût bâché",
+			"nous": "eussions bâché",
+			"vous": "eussiez bâché",
+			"ils/elles": "eussent bâché"
+		}
+	},
+	"participe": {
+		"présent": { "bâchant": "" },
+		"passé composé": { "ayant": "bâché" },
+		"passé": {
+			"masc.sg.:": "bâché",
+			"masc.pl.:": "bâchés",
+			"fém.sg.:": "bâchée",
+			"fém.pl.:": "bâchées"
+		}
+	},
+	"imperatif": {
+		"présent": { "bâche": "", "bâchons": "", "bâchez": "" },
+		"passé": { "aie": "bâché", "ayons": "bâché", "ayez": "bâché" }
+	},
+	"infinitif": { "présent": { "bâcher": "" }, "passé": { "avoir": "bâché" } }
+}

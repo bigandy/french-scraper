@@ -1,0 +1,138 @@
+{
+	"name": "rigoler",
+	"definition": "laugh; joke; have fun; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se rigoler/ne pas rigoler/ne pas se rigoler",
+	"indicatif": {
+		"présent": {
+			"je": "rigole",
+			"tu": "rigoles",
+			"il/elle": "rigole",
+			"nous": "rigolons",
+			"vous": "rigolez",
+			"ils/elles": "rigolent"
+		},
+		"imparfait": {
+			"je": "rigolais",
+			"tu": "rigolais",
+			"il/elle": "rigolait",
+			"nous": "rigolions",
+			"vous": "rigoliez",
+			"ils/elles": "rigolaient"
+		},
+		"futur": {
+			"je": "rigolerai",
+			"tu": "rigoleras",
+			"il/elle": "rigolera",
+			"nous": "rigolerons",
+			"vous": "rigolerez",
+			"ils/elles": "rigoleront"
+		},
+		"passé simple": {
+			"je": "rigolai",
+			"tu": "rigolas",
+			"il/elle": "rigola",
+			"nous": "rigolâmes",
+			"vous": "rigolâtes",
+			"ils/elles": "rigolèrent"
+		},
+		"passé composé": {
+			"j'": "ai rigolé",
+			"tu": "as rigolé",
+			"il/elle": "a rigolé",
+			"nous": "avons rigolé",
+			"vous": "avez rigolé",
+			"ils/elles": "ont rigolé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais rigolé",
+			"tu": "avais rigolé",
+			"il/elle": "avait rigolé",
+			"nous": "avions rigolé",
+			"vous": "aviez rigolé",
+			"ils/elles": "avaient rigolé"
+		},
+		"passé antérieur": {
+			"j'": "eus rigolé",
+			"tu": "eus rigolé",
+			"il/elle": "eut rigolé",
+			"nous": "eûmes rigolé",
+			"vous": "eûtes rigolé",
+			"ils/elles": "eurent rigolé"
+		},
+		"futur antérieur": {
+			"j'": "aurai rigolé",
+			"tu": "auras rigolé",
+			"il/elle": "aura rigolé",
+			"nous": "aurons rigolé",
+			"vous": "aurez rigolé",
+			"ils/elles": "auront rigolé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous rigoliez",
+			"qu'il/elle": "rigole",
+			"qu'ils/elles": "rigolent"
+		},
+		"imparfait": {
+			"que": "vous rigolassiez",
+			"qu'il/elle": "rigolât",
+			"qu'ils/elles": "rigolassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse rigolé",
+			"que": "vous eussiez rigolé",
+			"qu'il/elle": "eût rigolé",
+			"qu'ils/elles": "eussent rigolé"
+		},
+		"passé": {
+			"j'": "aie rigolé",
+			"que": "vous ayez rigolé",
+			"qu'il/elle": "ait rigolé",
+			"qu'ils/elles": "aient rigolé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "rigolerais",
+			"tu": "rigolerais",
+			"il/elle": "rigolerait",
+			"nous": "rigolerions",
+			"vous": "rigoleriez",
+			"ils/elles": "rigoleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais rigolé",
+			"tu": "aurais rigolé",
+			"il/elle": "aurait rigolé",
+			"nous": "aurions rigolé",
+			"vous": "auriez rigolé",
+			"ils/elles": "auraient rigolé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse rigolé",
+			"tu": "eusses rigolé",
+			"il/elle": "eût rigolé",
+			"nous": "eussions rigolé",
+			"vous": "eussiez rigolé",
+			"ils/elles": "eussent rigolé"
+		}
+	},
+	"participe": {
+		"présent": { "rigolant": "" },
+		"passé composé": { "ayant": "rigolé" },
+		"passé": {
+			"masc.sg.:": "rigolé",
+			"masc.pl.:": "rigolés",
+			"fém.sg.:": "rigolée",
+			"fém.pl.:": "rigolées"
+		}
+	},
+	"imperatif": {
+		"présent": { "rigole": "", "rigolons": "", "rigolez": "" },
+		"passé": { "aie": "rigolé", "ayons": "rigolé", "ayez": "rigolé" }
+	},
+	"infinitif": { "présent": { "rigoler": "" }, "passé": { "avoir": "rigolé" } }
+}

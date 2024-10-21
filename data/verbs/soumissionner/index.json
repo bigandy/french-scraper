@@ -1,0 +1,149 @@
+{
+	"name": "soumissionner",
+	"definition": "bid; tender; compete; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se soumissionner/ne pas soumissionner/ne pas se soumissionner",
+	"indicatif": {
+		"présent": {
+			"je": "soumissionne",
+			"tu": "soumissionnes",
+			"il/elle": "soumissionne",
+			"nous": "soumissionnons",
+			"vous": "soumissionnez",
+			"ils/elles": "soumissionnent"
+		},
+		"imparfait": {
+			"je": "soumissionnais",
+			"tu": "soumissionnais",
+			"il/elle": "soumissionnait",
+			"nous": "soumissionnions",
+			"vous": "soumissionniez",
+			"ils/elles": "soumissionnaient"
+		},
+		"futur": {
+			"je": "soumissionnerai",
+			"tu": "soumissionneras",
+			"il/elle": "soumissionnera",
+			"nous": "soumissionnerons",
+			"vous": "soumissionnerez",
+			"ils/elles": "soumissionneront"
+		},
+		"passé simple": {
+			"je": "soumissionnai",
+			"tu": "soumissionnas",
+			"il/elle": "soumissionna",
+			"nous": "soumissionnâmes",
+			"vous": "soumissionnâtes",
+			"ils/elles": "soumissionnèrent"
+		},
+		"passé composé": {
+			"j'": "ai soumissionné",
+			"tu": "as soumissionné",
+			"il/elle": "a soumissionné",
+			"nous": "avons soumissionné",
+			"vous": "avez soumissionné",
+			"ils/elles": "ont soumissionné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais soumissionné",
+			"tu": "avais soumissionné",
+			"il/elle": "avait soumissionné",
+			"nous": "avions soumissionné",
+			"vous": "aviez soumissionné",
+			"ils/elles": "avaient soumissionné"
+		},
+		"passé antérieur": {
+			"j'": "eus soumissionné",
+			"tu": "eus soumissionné",
+			"il/elle": "eut soumissionné",
+			"nous": "eûmes soumissionné",
+			"vous": "eûtes soumissionné",
+			"ils/elles": "eurent soumissionné"
+		},
+		"futur antérieur": {
+			"j'": "aurai soumissionné",
+			"tu": "auras soumissionné",
+			"il/elle": "aura soumissionné",
+			"nous": "aurons soumissionné",
+			"vous": "aurez soumissionné",
+			"ils/elles": "auront soumissionné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous soumissionniez",
+			"qu'il/elle": "soumissionne",
+			"qu'ils/elles": "soumissionnent"
+		},
+		"imparfait": {
+			"que": "vous soumissionnassiez",
+			"qu'il/elle": "soumissionnât",
+			"qu'ils/elles": "soumissionnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse soumissionné",
+			"que": "vous eussiez soumissionné",
+			"qu'il/elle": "eût soumissionné",
+			"qu'ils/elles": "eussent soumissionné"
+		},
+		"passé": {
+			"j'": "aie soumissionné",
+			"que": "vous ayez soumissionné",
+			"qu'il/elle": "ait soumissionné",
+			"qu'ils/elles": "aient soumissionné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "soumissionnerais",
+			"tu": "soumissionnerais",
+			"il/elle": "soumissionnerait",
+			"nous": "soumissionnerions",
+			"vous": "soumissionneriez",
+			"ils/elles": "soumissionneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais soumissionné",
+			"tu": "aurais soumissionné",
+			"il/elle": "aurait soumissionné",
+			"nous": "aurions soumissionné",
+			"vous": "auriez soumissionné",
+			"ils/elles": "auraient soumissionné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse soumissionné",
+			"tu": "eusses soumissionné",
+			"il/elle": "eût soumissionné",
+			"nous": "eussions soumissionné",
+			"vous": "eussiez soumissionné",
+			"ils/elles": "eussent soumissionné"
+		}
+	},
+	"participe": {
+		"présent": { "soumissionnant": "" },
+		"passé composé": { "ayant": "soumissionné" },
+		"passé": {
+			"masc.sg.:": "soumissionné",
+			"masc.pl.:": "soumissionnés",
+			"fém.sg.:": "soumissionnée",
+			"fém.pl.:": "soumissionnées"
+		}
+	},
+	"imperatif": {
+		"présent": {
+			"soumissionne": "",
+			"soumissionnons": "",
+			"soumissionnez": ""
+		},
+		"passé": {
+			"aie": "soumissionné",
+			"ayons": "soumissionné",
+			"ayez": "soumissionné"
+		}
+	},
+	"infinitif": {
+		"présent": { "soumissionner": "" },
+		"passé": { "avoir": "soumissionné" }
+	}
+}

@@ -1,0 +1,138 @@
+{
+	"name": "sembler",
+	"definition": "seem; sound; appear; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas sembler",
+	"indicatif": {
+		"présent": {
+			"je": "semble",
+			"tu": "sembles",
+			"il/elle": "semble",
+			"nous": "semblons",
+			"vous": "semblez",
+			"ils/elles": "semblent"
+		},
+		"imparfait": {
+			"je": "semblais",
+			"tu": "semblais",
+			"il/elle": "semblait",
+			"nous": "semblions",
+			"vous": "sembliez",
+			"ils/elles": "semblaient"
+		},
+		"futur": {
+			"je": "semblerai",
+			"tu": "sembleras",
+			"il/elle": "semblera",
+			"nous": "semblerons",
+			"vous": "semblerez",
+			"ils/elles": "sembleront"
+		},
+		"passé simple": {
+			"je": "semblai",
+			"tu": "semblas",
+			"il/elle": "sembla",
+			"nous": "semblâmes",
+			"vous": "semblâtes",
+			"ils/elles": "semblèrent"
+		},
+		"passé composé": {
+			"j'": "ai semblé",
+			"tu": "as semblé",
+			"il/elle": "a semblé",
+			"nous": "avons semblé",
+			"vous": "avez semblé",
+			"ils/elles": "ont semblé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais semblé",
+			"tu": "avais semblé",
+			"il/elle": "avait semblé",
+			"nous": "avions semblé",
+			"vous": "aviez semblé",
+			"ils/elles": "avaient semblé"
+		},
+		"passé antérieur": {
+			"j'": "eus semblé",
+			"tu": "eus semblé",
+			"il/elle": "eut semblé",
+			"nous": "eûmes semblé",
+			"vous": "eûtes semblé",
+			"ils/elles": "eurent semblé"
+		},
+		"futur antérieur": {
+			"j'": "aurai semblé",
+			"tu": "auras semblé",
+			"il/elle": "aura semblé",
+			"nous": "aurons semblé",
+			"vous": "aurez semblé",
+			"ils/elles": "auront semblé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous sembliez",
+			"qu'il/elle": "semble",
+			"qu'ils/elles": "semblent"
+		},
+		"imparfait": {
+			"que": "vous semblassiez",
+			"qu'il/elle": "semblât",
+			"qu'ils/elles": "semblassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse semblé",
+			"que": "vous eussiez semblé",
+			"qu'il/elle": "eût semblé",
+			"qu'ils/elles": "eussent semblé"
+		},
+		"passé": {
+			"j'": "aie semblé",
+			"que": "vous ayez semblé",
+			"qu'il/elle": "ait semblé",
+			"qu'ils/elles": "aient semblé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "semblerais",
+			"tu": "semblerais",
+			"il/elle": "semblerait",
+			"nous": "semblerions",
+			"vous": "sembleriez",
+			"ils/elles": "sembleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais semblé",
+			"tu": "aurais semblé",
+			"il/elle": "aurait semblé",
+			"nous": "aurions semblé",
+			"vous": "auriez semblé",
+			"ils/elles": "auraient semblé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse semblé",
+			"tu": "eusses semblé",
+			"il/elle": "eût semblé",
+			"nous": "eussions semblé",
+			"vous": "eussiez semblé",
+			"ils/elles": "eussent semblé"
+		}
+	},
+	"participe": {
+		"présent": { "semblant": "" },
+		"passé composé": { "ayant": "semblé" },
+		"passé": {
+			"masc.sg.:": "semblé",
+			"masc.pl.:": "semblés",
+			"fém.sg.:": "semblée",
+			"fém.pl.:": "semblées"
+		}
+	},
+	"imperatif": {
+		"présent": { "semble": "", "semblons": "", "semblez": "" },
+		"passé": { "aie": "semblé", "ayons": "semblé", "ayez": "semblé" }
+	},
+	"infinitif": { "présent": { "sembler": "" }, "passé": { "avoir": "semblé" } }
+}

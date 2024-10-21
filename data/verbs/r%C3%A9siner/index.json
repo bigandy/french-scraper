@@ -1,0 +1,138 @@
+{
+	"name": "résiner",
+	"definition": "",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se résiner/ne pas résiner/ne pas se résiner",
+	"indicatif": {
+		"présent": {
+			"je": "résine",
+			"tu": "résines",
+			"il/elle": "résine",
+			"nous": "résinons",
+			"vous": "résinez",
+			"ils/elles": "résinent"
+		},
+		"imparfait": {
+			"je": "résinais",
+			"tu": "résinais",
+			"il/elle": "résinait",
+			"nous": "résinions",
+			"vous": "résiniez",
+			"ils/elles": "résinaient"
+		},
+		"futur": {
+			"je": "résinerai",
+			"tu": "résineras",
+			"il/elle": "résinera",
+			"nous": "résinerons",
+			"vous": "résinerez",
+			"ils/elles": "résineront"
+		},
+		"passé simple": {
+			"je": "résinai",
+			"tu": "résinas",
+			"il/elle": "résina",
+			"nous": "résinâmes",
+			"vous": "résinâtes",
+			"ils/elles": "résinèrent"
+		},
+		"passé composé": {
+			"j'": "ai résiné",
+			"tu": "as résiné",
+			"il/elle": "a résiné",
+			"nous": "avons résiné",
+			"vous": "avez résiné",
+			"ils/elles": "ont résiné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais résiné",
+			"tu": "avais résiné",
+			"il/elle": "avait résiné",
+			"nous": "avions résiné",
+			"vous": "aviez résiné",
+			"ils/elles": "avaient résiné"
+		},
+		"passé antérieur": {
+			"j'": "eus résiné",
+			"tu": "eus résiné",
+			"il/elle": "eut résiné",
+			"nous": "eûmes résiné",
+			"vous": "eûtes résiné",
+			"ils/elles": "eurent résiné"
+		},
+		"futur antérieur": {
+			"j'": "aurai résiné",
+			"tu": "auras résiné",
+			"il/elle": "aura résiné",
+			"nous": "aurons résiné",
+			"vous": "aurez résiné",
+			"ils/elles": "auront résiné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous résiniez",
+			"qu'il/elle": "résine",
+			"qu'ils/elles": "résinent"
+		},
+		"imparfait": {
+			"que": "vous résinassiez",
+			"qu'il/elle": "résinât",
+			"qu'ils/elles": "résinassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse résiné",
+			"que": "vous eussiez résiné",
+			"qu'il/elle": "eût résiné",
+			"qu'ils/elles": "eussent résiné"
+		},
+		"passé": {
+			"j'": "aie résiné",
+			"que": "vous ayez résiné",
+			"qu'il/elle": "ait résiné",
+			"qu'ils/elles": "aient résiné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "résinerais",
+			"tu": "résinerais",
+			"il/elle": "résinerait",
+			"nous": "résinerions",
+			"vous": "résineriez",
+			"ils/elles": "résineraient"
+		},
+		"passé première forme": {
+			"j'": "aurais résiné",
+			"tu": "aurais résiné",
+			"il/elle": "aurait résiné",
+			"nous": "aurions résiné",
+			"vous": "auriez résiné",
+			"ils/elles": "auraient résiné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse résiné",
+			"tu": "eusses résiné",
+			"il/elle": "eût résiné",
+			"nous": "eussions résiné",
+			"vous": "eussiez résiné",
+			"ils/elles": "eussent résiné"
+		}
+	},
+	"participe": {
+		"présent": { "résinant": "" },
+		"passé composé": { "ayant": "résiné" },
+		"passé": {
+			"masc.sg.:": "résiné",
+			"masc.pl.:": "résinés",
+			"fém.sg.:": "résinée",
+			"fém.pl.:": "résinées"
+		}
+	},
+	"imperatif": {
+		"présent": { "résine": "", "résinons": "", "résinez": "" },
+		"passé": { "aie": "résiné", "ayons": "résiné", "ayez": "résiné" }
+	},
+	"infinitif": { "présent": { "résiner": "" }, "passé": { "avoir": "résiné" } }
+}

@@ -1,0 +1,140 @@
+{
+	"name": "éluder",
+	"definition": "evade; avoid; elude; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'éluder/ne pas éluder/ne pas s'éluder",
+	"indicatif": {
+		"présent": {
+			"j'": "élude",
+			"tu": "éludes",
+			"il/elle": "élude",
+			"nous": "éludons",
+			"vous": "éludez",
+			"ils/elles": "éludent"
+		},
+		"imparfait": {
+			"j'": "éludais",
+			"tu": "éludais",
+			"il/elle": "éludait",
+			"nous": "éludions",
+			"vous": "éludiez",
+			"ils/elles": "éludaient"
+		},
+		"futur": {
+			"j'": "éluderai",
+			"tu": "éluderas",
+			"il/elle": "éludera",
+			"nous": "éluderons",
+			"vous": "éluderez",
+			"ils/elles": "éluderont"
+		},
+		"passé simple": {
+			"j'": "éludai",
+			"tu": "éludas",
+			"il/elle": "éluda",
+			"nous": "éludâmes",
+			"vous": "éludâtes",
+			"ils/elles": "éludèrent"
+		},
+		"passé composé": {
+			"j'": "ai éludé",
+			"tu": "as éludé",
+			"il/elle": "a éludé",
+			"nous": "avons éludé",
+			"vous": "avez éludé",
+			"ils/elles": "ont éludé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais éludé",
+			"tu": "avais éludé",
+			"il/elle": "avait éludé",
+			"nous": "avions éludé",
+			"vous": "aviez éludé",
+			"ils/elles": "avaient éludé"
+		},
+		"passé antérieur": {
+			"j'": "eus éludé",
+			"tu": "eus éludé",
+			"il/elle": "eut éludé",
+			"nous": "eûmes éludé",
+			"vous": "eûtes éludé",
+			"ils/elles": "eurent éludé"
+		},
+		"futur antérieur": {
+			"j'": "aurai éludé",
+			"tu": "auras éludé",
+			"il/elle": "aura éludé",
+			"nous": "aurons éludé",
+			"vous": "aurez éludé",
+			"ils/elles": "auront éludé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "élude",
+			"que": "vous éludiez",
+			"qu'il/elle": "élude",
+			"qu'ils/elles": "éludent"
+		},
+		"imparfait": {
+			"j'": "éludasse",
+			"que": "vous éludassiez",
+			"qu'il/elle": "éludât",
+			"qu'ils/elles": "éludassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse éludé",
+			"que": "vous eussiez éludé",
+			"qu'il/elle": "eût éludé",
+			"qu'ils/elles": "eussent éludé"
+		},
+		"passé": {
+			"j'": "aie éludé",
+			"que": "vous ayez éludé",
+			"qu'il/elle": "ait éludé",
+			"qu'ils/elles": "aient éludé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "éluderais",
+			"tu": "éluderais",
+			"il/elle": "éluderait",
+			"nous": "éluderions",
+			"vous": "éluderiez",
+			"ils/elles": "éluderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais éludé",
+			"tu": "aurais éludé",
+			"il/elle": "aurait éludé",
+			"nous": "aurions éludé",
+			"vous": "auriez éludé",
+			"ils/elles": "auraient éludé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse éludé",
+			"tu": "eusses éludé",
+			"il/elle": "eût éludé",
+			"nous": "eussions éludé",
+			"vous": "eussiez éludé",
+			"ils/elles": "eussent éludé"
+		}
+	},
+	"participe": {
+		"présent": { "éludant": "" },
+		"passé composé": { "ayant": "éludé" },
+		"passé": {
+			"masc.sg.:": "éludé",
+			"masc.pl.:": "éludés",
+			"fém.sg.:": "éludée",
+			"fém.pl.:": "éludées"
+		}
+	},
+	"imperatif": {
+		"présent": { "élude": "", "éludons": "", "éludez": "" },
+		"passé": { "aie": "éludé", "ayons": "éludé", "ayez": "éludé" }
+	},
+	"infinitif": { "présent": { "éluder": "" }, "passé": { "avoir": "éludé" } }
+}

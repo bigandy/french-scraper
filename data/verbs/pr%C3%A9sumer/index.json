@@ -1,0 +1,141 @@
+{
+	"name": "présumer",
+	"definition": "assume; presume; be assumed; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se présumer/ne pas présumer/ne pas se présumer",
+	"indicatif": {
+		"présent": {
+			"je": "présume",
+			"tu": "présumes",
+			"il/elle": "présume",
+			"nous": "présumons",
+			"vous": "présumez",
+			"ils/elles": "présument"
+		},
+		"imparfait": {
+			"je": "présumais",
+			"tu": "présumais",
+			"il/elle": "présumait",
+			"nous": "présumions",
+			"vous": "présumiez",
+			"ils/elles": "présumaient"
+		},
+		"futur": {
+			"je": "présumerai",
+			"tu": "présumeras",
+			"il/elle": "présumera",
+			"nous": "présumerons",
+			"vous": "présumerez",
+			"ils/elles": "présumeront"
+		},
+		"passé simple": {
+			"je": "présumai",
+			"tu": "présumas",
+			"il/elle": "présuma",
+			"nous": "présumâmes",
+			"vous": "présumâtes",
+			"ils/elles": "présumèrent"
+		},
+		"passé composé": {
+			"j'": "ai présumé",
+			"tu": "as présumé",
+			"il/elle": "a présumé",
+			"nous": "avons présumé",
+			"vous": "avez présumé",
+			"ils/elles": "ont présumé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais présumé",
+			"tu": "avais présumé",
+			"il/elle": "avait présumé",
+			"nous": "avions présumé",
+			"vous": "aviez présumé",
+			"ils/elles": "avaient présumé"
+		},
+		"passé antérieur": {
+			"j'": "eus présumé",
+			"tu": "eus présumé",
+			"il/elle": "eut présumé",
+			"nous": "eûmes présumé",
+			"vous": "eûtes présumé",
+			"ils/elles": "eurent présumé"
+		},
+		"futur antérieur": {
+			"j'": "aurai présumé",
+			"tu": "auras présumé",
+			"il/elle": "aura présumé",
+			"nous": "aurons présumé",
+			"vous": "aurez présumé",
+			"ils/elles": "auront présumé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous présumiez",
+			"qu'il/elle": "présume",
+			"qu'ils/elles": "présument"
+		},
+		"imparfait": {
+			"que": "vous présumassiez",
+			"qu'il/elle": "présumât",
+			"qu'ils/elles": "présumassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse présumé",
+			"que": "vous eussiez présumé",
+			"qu'il/elle": "eût présumé",
+			"qu'ils/elles": "eussent présumé"
+		},
+		"passé": {
+			"j'": "aie présumé",
+			"que": "vous ayez présumé",
+			"qu'il/elle": "ait présumé",
+			"qu'ils/elles": "aient présumé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "présumerais",
+			"tu": "présumerais",
+			"il/elle": "présumerait",
+			"nous": "présumerions",
+			"vous": "présumeriez",
+			"ils/elles": "présumeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais présumé",
+			"tu": "aurais présumé",
+			"il/elle": "aurait présumé",
+			"nous": "aurions présumé",
+			"vous": "auriez présumé",
+			"ils/elles": "auraient présumé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse présumé",
+			"tu": "eusses présumé",
+			"il/elle": "eût présumé",
+			"nous": "eussions présumé",
+			"vous": "eussiez présumé",
+			"ils/elles": "eussent présumé"
+		}
+	},
+	"participe": {
+		"présent": { "présumant": "" },
+		"passé composé": { "ayant": "présumé" },
+		"passé": {
+			"masc.sg.:": "présumé",
+			"masc.pl.:": "présumés",
+			"fém.sg.:": "présumée",
+			"fém.pl.:": "présumées"
+		}
+	},
+	"imperatif": {
+		"présent": { "présume": "", "présumons": "", "présumez": "" },
+		"passé": { "aie": "présumé", "ayons": "présumé", "ayez": "présumé" }
+	},
+	"infinitif": {
+		"présent": { "présumer": "" },
+		"passé": { "avoir": "présumé" }
+	}
+}

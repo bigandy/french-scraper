@@ -1,0 +1,155 @@
+{
+	"name": "s'amariner",
+	"definition": "get used to life at sea; ...",
+	"model": "marcher",
+	"auxiliary": "être",
+	"otherForms": "amariner/ne pas amariner/ne pas s'amariner",
+	"indicatif": {
+		"présent": {
+			"je": "m'amarine",
+			"tu": "t'amarines",
+			"il/elle": "s'amarine",
+			"nous": "nous amarinons",
+			"vous": "vous amarinez",
+			"ils/elles": "s'amarinent"
+		},
+		"imparfait": {
+			"je": "m'amarinais",
+			"tu": "t'amarinais",
+			"il/elle": "s'amarinait",
+			"nous": "nous amarinions",
+			"vous": "vous amariniez",
+			"ils/elles": "s'amarinaient"
+		},
+		"futur": {
+			"je": "m'amarinerai",
+			"tu": "t'amarineras",
+			"il/elle": "s'amarinera",
+			"nous": "nous amarinerons",
+			"vous": "vous amarinerez",
+			"ils/elles": "s'amarineront"
+		},
+		"passé simple": {
+			"je": "m'amarinai",
+			"tu": "t'amarinas",
+			"il/elle": "s'amarina",
+			"nous": "nous amarinâmes",
+			"vous": "vous amarinâtes",
+			"ils/elles": "s'amarinèrent"
+		},
+		"passé composé": {
+			"je": "me suis amariné",
+			"tu": "t'es amariné",
+			"il": "s'est amariné",
+			"elle": "s'est amarinée",
+			"nous": "nous sommes amarinés",
+			"vous": "vous êtes amarinés",
+			"ils": "se sont amarinés",
+			"elles": "se sont amarinées"
+		},
+		"plus-que-parfait": {
+			"je": "m'étais amariné",
+			"tu": "t'étais amariné",
+			"il": "s'était amariné",
+			"elle": "s'était amarinée",
+			"nous": "nous étions amarinés",
+			"vous": "vous étiez amarinés",
+			"ils": "s'étaient amarinés",
+			"elles": "s'étaient amarinées"
+		},
+		"passé antérieur": {
+			"je": "me fus amariné",
+			"tu": "te fus amariné",
+			"il": "se fut amariné",
+			"elle": "se fut amarinée",
+			"nous": "nous fûmes amarinés",
+			"vous": "vous fûtes amarinés",
+			"ils": "se furent amarinés",
+			"elles": "se furent amarinées"
+		},
+		"futur antérieur": {
+			"je": "me serai amariné",
+			"tu": "te seras amariné",
+			"il": "se sera amariné",
+			"elle": "se sera amarinée",
+			"nous": "nous serons amarinés",
+			"vous": "vous serez amarinés",
+			"ils": "se seront amarinés",
+			"elles": "se seront amarinées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous vous amariniez",
+			"qu'il/elle": "s'amarine",
+			"qu'ils/elles": "s'amarinent"
+		},
+		"imparfait": {
+			"que": "vous vous amarinassiez",
+			"qu'il/elle": "s'amarinât",
+			"qu'ils/elles": "s'amarinassent"
+		},
+		"plus-que-parfait": {
+			"que": "vous vous fussiez amarinés",
+			"qu'il": "se fût amariné",
+			"qu'elle": "se fût amarinée",
+			"qu'ils": "se fussent amarinés",
+			"qu'elles": "se fussent amarinées"
+		},
+		"passé": {
+			"que": "vous vous soyez amarinés",
+			"qu'il": "se soit amariné",
+			"qu'elle": "se soit amarinée",
+			"qu'ils": "se soient amarinés",
+			"qu'elles": "se soient amarinées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "m'amarinerais",
+			"tu": "t'amarinerais",
+			"il/elle": "s'amarinerait",
+			"nous": "nous amarinerions",
+			"vous": "vous amarineriez",
+			"ils/elles": "s'amarineraient"
+		},
+		"passé première forme": {
+			"je": "me serais amariné",
+			"tu": "te serais amariné",
+			"il": "se serait amariné",
+			"elle": "se serait amarinée",
+			"nous": "nous serions amarinés",
+			"vous": "vous seriez amarinés",
+			"ils": "se seraient amarinés",
+			"elles": "se seraient amarinées"
+		},
+		"passé deuxième forme": {
+			"je": "me fusse amariné",
+			"tu": "te fusses amariné",
+			"il": "se fût amariné",
+			"elle": "se fût amarinée",
+			"nous": "nous fussions amarinés",
+			"vous": "vous fussiez amarinés",
+			"ils": "se fussent amarinés",
+			"elles": "se fussent amarinées"
+		}
+	},
+	"participe": {
+		"présent": { "s'amarinant": "" },
+		"passé composé": { "s'étant": "amariné" },
+		"passé": {
+			"masc.sg.:": "amariné",
+			"masc.pl.:": "amarinés",
+			"fém.sg.:": "amarinée",
+			"fém.pl.:": "amarinées"
+		}
+	},
+	"imperatif": {
+		"présent": { "amarine-toi": "", "amarinons-nous": "", "amarinez-vous": "" },
+		"passé": {}
+	},
+	"infinitif": {
+		"présent": { "s'amariner": "" },
+		"passé": { "s'être": "amariné" }
+	}
+}

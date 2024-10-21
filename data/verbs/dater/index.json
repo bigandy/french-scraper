@@ -1,0 +1,138 @@
+{
+	"name": "dater",
+	"definition": "date; be dated; date back; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se dater/ne pas dater/ne pas se dater",
+	"indicatif": {
+		"présent": {
+			"je": "date",
+			"tu": "dates",
+			"il/elle": "date",
+			"nous": "datons",
+			"vous": "datez",
+			"ils/elles": "datent"
+		},
+		"imparfait": {
+			"je": "datais",
+			"tu": "datais",
+			"il/elle": "datait",
+			"nous": "dations",
+			"vous": "datiez",
+			"ils/elles": "dataient"
+		},
+		"futur": {
+			"je": "daterai",
+			"tu": "dateras",
+			"il/elle": "datera",
+			"nous": "daterons",
+			"vous": "daterez",
+			"ils/elles": "dateront"
+		},
+		"passé simple": {
+			"je": "datai",
+			"tu": "datas",
+			"il/elle": "data",
+			"nous": "datâmes",
+			"vous": "datâtes",
+			"ils/elles": "datèrent"
+		},
+		"passé composé": {
+			"j'": "ai daté",
+			"tu": "as daté",
+			"il/elle": "a daté",
+			"nous": "avons daté",
+			"vous": "avez daté",
+			"ils/elles": "ont daté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais daté",
+			"tu": "avais daté",
+			"il/elle": "avait daté",
+			"nous": "avions daté",
+			"vous": "aviez daté",
+			"ils/elles": "avaient daté"
+		},
+		"passé antérieur": {
+			"j'": "eus daté",
+			"tu": "eus daté",
+			"il/elle": "eut daté",
+			"nous": "eûmes daté",
+			"vous": "eûtes daté",
+			"ils/elles": "eurent daté"
+		},
+		"futur antérieur": {
+			"j'": "aurai daté",
+			"tu": "auras daté",
+			"il/elle": "aura daté",
+			"nous": "aurons daté",
+			"vous": "aurez daté",
+			"ils/elles": "auront daté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous datiez",
+			"qu'il/elle": "date",
+			"qu'ils/elles": "datent"
+		},
+		"imparfait": {
+			"que": "vous datassiez",
+			"qu'il/elle": "datât",
+			"qu'ils/elles": "datassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse daté",
+			"que": "vous eussiez daté",
+			"qu'il/elle": "eût daté",
+			"qu'ils/elles": "eussent daté"
+		},
+		"passé": {
+			"j'": "aie daté",
+			"que": "vous ayez daté",
+			"qu'il/elle": "ait daté",
+			"qu'ils/elles": "aient daté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "daterais",
+			"tu": "daterais",
+			"il/elle": "daterait",
+			"nous": "daterions",
+			"vous": "dateriez",
+			"ils/elles": "dateraient"
+		},
+		"passé première forme": {
+			"j'": "aurais daté",
+			"tu": "aurais daté",
+			"il/elle": "aurait daté",
+			"nous": "aurions daté",
+			"vous": "auriez daté",
+			"ils/elles": "auraient daté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse daté",
+			"tu": "eusses daté",
+			"il/elle": "eût daté",
+			"nous": "eussions daté",
+			"vous": "eussiez daté",
+			"ils/elles": "eussent daté"
+		}
+	},
+	"participe": {
+		"présent": { "datant": "" },
+		"passé composé": { "ayant": "daté" },
+		"passé": {
+			"masc.sg.:": "daté",
+			"masc.pl.:": "datés",
+			"fém.sg.:": "datée",
+			"fém.pl.:": "datées"
+		}
+	},
+	"imperatif": {
+		"présent": { "date": "", "datons": "", "datez": "" },
+		"passé": { "aie": "daté", "ayons": "daté", "ayez": "daté" }
+	},
+	"infinitif": { "présent": { "dater": "" }, "passé": { "avoir": "daté" } }
+}

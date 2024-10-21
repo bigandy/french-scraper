@@ -1,0 +1,138 @@
+{
+	"name": "replier",
+	"definition": "fold; collapse; retreat; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se replier/ne pas replier/ne pas se replier",
+	"indicatif": {
+		"présent": {
+			"je": "replie",
+			"tu": "replies",
+			"il/elle": "replie",
+			"nous": "replions",
+			"vous": "repliez",
+			"ils/elles": "replient"
+		},
+		"imparfait": {
+			"je": "repliais",
+			"tu": "repliais",
+			"il/elle": "repliait",
+			"nous": "repliions",
+			"vous": "repliiez",
+			"ils/elles": "repliaient"
+		},
+		"futur": {
+			"je": "replierai",
+			"tu": "replieras",
+			"il/elle": "repliera",
+			"nous": "replierons",
+			"vous": "replierez",
+			"ils/elles": "replieront"
+		},
+		"passé simple": {
+			"je": "repliai",
+			"tu": "replias",
+			"il/elle": "replia",
+			"nous": "repliâmes",
+			"vous": "repliâtes",
+			"ils/elles": "replièrent"
+		},
+		"passé composé": {
+			"j'": "ai replié",
+			"tu": "as replié",
+			"il/elle": "a replié",
+			"nous": "avons replié",
+			"vous": "avez replié",
+			"ils/elles": "ont replié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais replié",
+			"tu": "avais replié",
+			"il/elle": "avait replié",
+			"nous": "avions replié",
+			"vous": "aviez replié",
+			"ils/elles": "avaient replié"
+		},
+		"passé antérieur": {
+			"j'": "eus replié",
+			"tu": "eus replié",
+			"il/elle": "eut replié",
+			"nous": "eûmes replié",
+			"vous": "eûtes replié",
+			"ils/elles": "eurent replié"
+		},
+		"futur antérieur": {
+			"j'": "aurai replié",
+			"tu": "auras replié",
+			"il/elle": "aura replié",
+			"nous": "aurons replié",
+			"vous": "aurez replié",
+			"ils/elles": "auront replié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous repliiez",
+			"qu'il/elle": "replie",
+			"qu'ils/elles": "replient"
+		},
+		"imparfait": {
+			"que": "vous repliassiez",
+			"qu'il/elle": "repliât",
+			"qu'ils/elles": "repliassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse replié",
+			"que": "vous eussiez replié",
+			"qu'il/elle": "eût replié",
+			"qu'ils/elles": "eussent replié"
+		},
+		"passé": {
+			"j'": "aie replié",
+			"que": "vous ayez replié",
+			"qu'il/elle": "ait replié",
+			"qu'ils/elles": "aient replié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "replierais",
+			"tu": "replierais",
+			"il/elle": "replierait",
+			"nous": "replierions",
+			"vous": "replieriez",
+			"ils/elles": "replieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais replié",
+			"tu": "aurais replié",
+			"il/elle": "aurait replié",
+			"nous": "aurions replié",
+			"vous": "auriez replié",
+			"ils/elles": "auraient replié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse replié",
+			"tu": "eusses replié",
+			"il/elle": "eût replié",
+			"nous": "eussions replié",
+			"vous": "eussiez replié",
+			"ils/elles": "eussent replié"
+		}
+	},
+	"participe": {
+		"présent": { "repliant": "" },
+		"passé composé": { "ayant": "replié" },
+		"passé": {
+			"masc.sg.:": "replié",
+			"masc.pl.:": "repliés",
+			"fém.sg.:": "repliée",
+			"fém.pl.:": "repliées"
+		}
+	},
+	"imperatif": {
+		"présent": { "replie": "", "replions": "", "repliez": "" },
+		"passé": { "aie": "replié", "ayons": "replié", "ayez": "replié" }
+	},
+	"infinitif": { "présent": { "replier": "" }, "passé": { "avoir": "replié" } }
+}

@@ -1,0 +1,138 @@
+{
+	"name": "crypter",
+	"definition": "encrypt; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se crypter/ne pas crypter/ne pas se crypter",
+	"indicatif": {
+		"présent": {
+			"je": "crypte",
+			"tu": "cryptes",
+			"il/elle": "crypte",
+			"nous": "cryptons",
+			"vous": "cryptez",
+			"ils/elles": "cryptent"
+		},
+		"imparfait": {
+			"je": "cryptais",
+			"tu": "cryptais",
+			"il/elle": "cryptait",
+			"nous": "cryptions",
+			"vous": "cryptiez",
+			"ils/elles": "cryptaient"
+		},
+		"futur": {
+			"je": "crypterai",
+			"tu": "crypteras",
+			"il/elle": "cryptera",
+			"nous": "crypterons",
+			"vous": "crypterez",
+			"ils/elles": "crypteront"
+		},
+		"passé simple": {
+			"je": "cryptai",
+			"tu": "cryptas",
+			"il/elle": "crypta",
+			"nous": "cryptâmes",
+			"vous": "cryptâtes",
+			"ils/elles": "cryptèrent"
+		},
+		"passé composé": {
+			"j'": "ai crypté",
+			"tu": "as crypté",
+			"il/elle": "a crypté",
+			"nous": "avons crypté",
+			"vous": "avez crypté",
+			"ils/elles": "ont crypté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais crypté",
+			"tu": "avais crypté",
+			"il/elle": "avait crypté",
+			"nous": "avions crypté",
+			"vous": "aviez crypté",
+			"ils/elles": "avaient crypté"
+		},
+		"passé antérieur": {
+			"j'": "eus crypté",
+			"tu": "eus crypté",
+			"il/elle": "eut crypté",
+			"nous": "eûmes crypté",
+			"vous": "eûtes crypté",
+			"ils/elles": "eurent crypté"
+		},
+		"futur antérieur": {
+			"j'": "aurai crypté",
+			"tu": "auras crypté",
+			"il/elle": "aura crypté",
+			"nous": "aurons crypté",
+			"vous": "aurez crypté",
+			"ils/elles": "auront crypté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous cryptiez",
+			"qu'il/elle": "crypte",
+			"qu'ils/elles": "cryptent"
+		},
+		"imparfait": {
+			"que": "vous cryptassiez",
+			"qu'il/elle": "cryptât",
+			"qu'ils/elles": "cryptassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse crypté",
+			"que": "vous eussiez crypté",
+			"qu'il/elle": "eût crypté",
+			"qu'ils/elles": "eussent crypté"
+		},
+		"passé": {
+			"j'": "aie crypté",
+			"que": "vous ayez crypté",
+			"qu'il/elle": "ait crypté",
+			"qu'ils/elles": "aient crypté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "crypterais",
+			"tu": "crypterais",
+			"il/elle": "crypterait",
+			"nous": "crypterions",
+			"vous": "crypteriez",
+			"ils/elles": "crypteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais crypté",
+			"tu": "aurais crypté",
+			"il/elle": "aurait crypté",
+			"nous": "aurions crypté",
+			"vous": "auriez crypté",
+			"ils/elles": "auraient crypté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse crypté",
+			"tu": "eusses crypté",
+			"il/elle": "eût crypté",
+			"nous": "eussions crypté",
+			"vous": "eussiez crypté",
+			"ils/elles": "eussent crypté"
+		}
+	},
+	"participe": {
+		"présent": { "cryptant": "" },
+		"passé composé": { "ayant": "crypté" },
+		"passé": {
+			"masc.sg.:": "crypté",
+			"masc.pl.:": "cryptés",
+			"fém.sg.:": "cryptée",
+			"fém.pl.:": "cryptées"
+		}
+	},
+	"imperatif": {
+		"présent": { "crypte": "", "cryptons": "", "cryptez": "" },
+		"passé": { "aie": "crypté", "ayons": "crypté", "ayez": "crypté" }
+	},
+	"infinitif": { "présent": { "crypter": "" }, "passé": { "avoir": "crypté" } }
+}

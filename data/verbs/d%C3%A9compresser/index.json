@@ -1,0 +1,145 @@
+{
+	"name": "décompresser",
+	"definition": "decompress; unzip; unpack; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se décompresser/ne pas décompresser/ne pas se décompresser",
+	"indicatif": {
+		"présent": {
+			"je": "décompresse",
+			"tu": "décompresses",
+			"il/elle": "décompresse",
+			"nous": "décompressons",
+			"vous": "décompressez",
+			"ils/elles": "décompressent"
+		},
+		"imparfait": {
+			"je": "décompressais",
+			"tu": "décompressais",
+			"il/elle": "décompressait",
+			"nous": "décompressions",
+			"vous": "décompressiez",
+			"ils/elles": "décompressaient"
+		},
+		"futur": {
+			"je": "décompresserai",
+			"tu": "décompresseras",
+			"il/elle": "décompressera",
+			"nous": "décompresserons",
+			"vous": "décompresserez",
+			"ils/elles": "décompresseront"
+		},
+		"passé simple": {
+			"je": "décompressai",
+			"tu": "décompressas",
+			"il/elle": "décompressa",
+			"nous": "décompressâmes",
+			"vous": "décompressâtes",
+			"ils/elles": "décompressèrent"
+		},
+		"passé composé": {
+			"j'": "ai décompressé",
+			"tu": "as décompressé",
+			"il/elle": "a décompressé",
+			"nous": "avons décompressé",
+			"vous": "avez décompressé",
+			"ils/elles": "ont décompressé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais décompressé",
+			"tu": "avais décompressé",
+			"il/elle": "avait décompressé",
+			"nous": "avions décompressé",
+			"vous": "aviez décompressé",
+			"ils/elles": "avaient décompressé"
+		},
+		"passé antérieur": {
+			"j'": "eus décompressé",
+			"tu": "eus décompressé",
+			"il/elle": "eut décompressé",
+			"nous": "eûmes décompressé",
+			"vous": "eûtes décompressé",
+			"ils/elles": "eurent décompressé"
+		},
+		"futur antérieur": {
+			"j'": "aurai décompressé",
+			"tu": "auras décompressé",
+			"il/elle": "aura décompressé",
+			"nous": "aurons décompressé",
+			"vous": "aurez décompressé",
+			"ils/elles": "auront décompressé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous décompressiez",
+			"qu'il/elle": "décompresse",
+			"qu'ils/elles": "décompressent"
+		},
+		"imparfait": {
+			"que": "vous décompressassiez",
+			"qu'il/elle": "décompressât",
+			"qu'ils/elles": "décompressassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse décompressé",
+			"que": "vous eussiez décompressé",
+			"qu'il/elle": "eût décompressé",
+			"qu'ils/elles": "eussent décompressé"
+		},
+		"passé": {
+			"j'": "aie décompressé",
+			"que": "vous ayez décompressé",
+			"qu'il/elle": "ait décompressé",
+			"qu'ils/elles": "aient décompressé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "décompresserais",
+			"tu": "décompresserais",
+			"il/elle": "décompresserait",
+			"nous": "décompresserions",
+			"vous": "décompresseriez",
+			"ils/elles": "décompresseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais décompressé",
+			"tu": "aurais décompressé",
+			"il/elle": "aurait décompressé",
+			"nous": "aurions décompressé",
+			"vous": "auriez décompressé",
+			"ils/elles": "auraient décompressé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse décompressé",
+			"tu": "eusses décompressé",
+			"il/elle": "eût décompressé",
+			"nous": "eussions décompressé",
+			"vous": "eussiez décompressé",
+			"ils/elles": "eussent décompressé"
+		}
+	},
+	"participe": {
+		"présent": { "décompressant": "" },
+		"passé composé": { "ayant": "décompressé" },
+		"passé": {
+			"masc.sg.:": "décompressé",
+			"masc.pl.:": "décompressés",
+			"fém.sg.:": "décompressée",
+			"fém.pl.:": "décompressées"
+		}
+	},
+	"imperatif": {
+		"présent": { "décompresse": "", "décompressons": "", "décompressez": "" },
+		"passé": {
+			"aie": "décompressé",
+			"ayons": "décompressé",
+			"ayez": "décompressé"
+		}
+	},
+	"infinitif": {
+		"présent": { "décompresser": "" },
+		"passé": { "avoir": "décompressé" }
+	}
+}

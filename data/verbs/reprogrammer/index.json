@@ -1,0 +1,145 @@
+{
+	"name": "reprogrammer",
+	"definition": "reprogram; reschedule; reprogramme; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se reprogrammer/ne pas reprogrammer/ne pas se reprogrammer",
+	"indicatif": {
+		"présent": {
+			"je": "reprogramme",
+			"tu": "reprogrammes",
+			"il/elle": "reprogramme",
+			"nous": "reprogrammons",
+			"vous": "reprogrammez",
+			"ils/elles": "reprogramment"
+		},
+		"imparfait": {
+			"je": "reprogrammais",
+			"tu": "reprogrammais",
+			"il/elle": "reprogrammait",
+			"nous": "reprogrammions",
+			"vous": "reprogrammiez",
+			"ils/elles": "reprogrammaient"
+		},
+		"futur": {
+			"je": "reprogrammerai",
+			"tu": "reprogrammeras",
+			"il/elle": "reprogrammera",
+			"nous": "reprogrammerons",
+			"vous": "reprogrammerez",
+			"ils/elles": "reprogrammeront"
+		},
+		"passé simple": {
+			"je": "reprogrammai",
+			"tu": "reprogrammas",
+			"il/elle": "reprogramma",
+			"nous": "reprogrammâmes",
+			"vous": "reprogrammâtes",
+			"ils/elles": "reprogrammèrent"
+		},
+		"passé composé": {
+			"j'": "ai reprogrammé",
+			"tu": "as reprogrammé",
+			"il/elle": "a reprogrammé",
+			"nous": "avons reprogrammé",
+			"vous": "avez reprogrammé",
+			"ils/elles": "ont reprogrammé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais reprogrammé",
+			"tu": "avais reprogrammé",
+			"il/elle": "avait reprogrammé",
+			"nous": "avions reprogrammé",
+			"vous": "aviez reprogrammé",
+			"ils/elles": "avaient reprogrammé"
+		},
+		"passé antérieur": {
+			"j'": "eus reprogrammé",
+			"tu": "eus reprogrammé",
+			"il/elle": "eut reprogrammé",
+			"nous": "eûmes reprogrammé",
+			"vous": "eûtes reprogrammé",
+			"ils/elles": "eurent reprogrammé"
+		},
+		"futur antérieur": {
+			"j'": "aurai reprogrammé",
+			"tu": "auras reprogrammé",
+			"il/elle": "aura reprogrammé",
+			"nous": "aurons reprogrammé",
+			"vous": "aurez reprogrammé",
+			"ils/elles": "auront reprogrammé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous reprogrammiez",
+			"qu'il/elle": "reprogramme",
+			"qu'ils/elles": "reprogramment"
+		},
+		"imparfait": {
+			"que": "vous reprogrammassiez",
+			"qu'il/elle": "reprogrammât",
+			"qu'ils/elles": "reprogrammassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse reprogrammé",
+			"que": "vous eussiez reprogrammé",
+			"qu'il/elle": "eût reprogrammé",
+			"qu'ils/elles": "eussent reprogrammé"
+		},
+		"passé": {
+			"j'": "aie reprogrammé",
+			"que": "vous ayez reprogrammé",
+			"qu'il/elle": "ait reprogrammé",
+			"qu'ils/elles": "aient reprogrammé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "reprogrammerais",
+			"tu": "reprogrammerais",
+			"il/elle": "reprogrammerait",
+			"nous": "reprogrammerions",
+			"vous": "reprogrammeriez",
+			"ils/elles": "reprogrammeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais reprogrammé",
+			"tu": "aurais reprogrammé",
+			"il/elle": "aurait reprogrammé",
+			"nous": "aurions reprogrammé",
+			"vous": "auriez reprogrammé",
+			"ils/elles": "auraient reprogrammé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse reprogrammé",
+			"tu": "eusses reprogrammé",
+			"il/elle": "eût reprogrammé",
+			"nous": "eussions reprogrammé",
+			"vous": "eussiez reprogrammé",
+			"ils/elles": "eussent reprogrammé"
+		}
+	},
+	"participe": {
+		"présent": { "reprogrammant": "" },
+		"passé composé": { "ayant": "reprogrammé" },
+		"passé": {
+			"masc.sg.:": "reprogrammé",
+			"masc.pl.:": "reprogrammés",
+			"fém.sg.:": "reprogrammée",
+			"fém.pl.:": "reprogrammées"
+		}
+	},
+	"imperatif": {
+		"présent": { "reprogramme": "", "reprogrammons": "", "reprogrammez": "" },
+		"passé": {
+			"aie": "reprogrammé",
+			"ayons": "reprogrammé",
+			"ayez": "reprogrammé"
+		}
+	},
+	"infinitif": {
+		"présent": { "reprogrammer": "" },
+		"passé": { "avoir": "reprogrammé" }
+	}
+}

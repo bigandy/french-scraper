@@ -1,0 +1,145 @@
+{
+	"name": "subordonner",
+	"definition": "subordinate; subject; condition; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se subordonner/ne pas subordonner/ne pas se subordonner",
+	"indicatif": {
+		"présent": {
+			"je": "subordonne",
+			"tu": "subordonnes",
+			"il/elle": "subordonne",
+			"nous": "subordonnons",
+			"vous": "subordonnez",
+			"ils/elles": "subordonnent"
+		},
+		"imparfait": {
+			"je": "subordonnais",
+			"tu": "subordonnais",
+			"il/elle": "subordonnait",
+			"nous": "subordonnions",
+			"vous": "subordonniez",
+			"ils/elles": "subordonnaient"
+		},
+		"futur": {
+			"je": "subordonnerai",
+			"tu": "subordonneras",
+			"il/elle": "subordonnera",
+			"nous": "subordonnerons",
+			"vous": "subordonnerez",
+			"ils/elles": "subordonneront"
+		},
+		"passé simple": {
+			"je": "subordonnai",
+			"tu": "subordonnas",
+			"il/elle": "subordonna",
+			"nous": "subordonnâmes",
+			"vous": "subordonnâtes",
+			"ils/elles": "subordonnèrent"
+		},
+		"passé composé": {
+			"j'": "ai subordonné",
+			"tu": "as subordonné",
+			"il/elle": "a subordonné",
+			"nous": "avons subordonné",
+			"vous": "avez subordonné",
+			"ils/elles": "ont subordonné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais subordonné",
+			"tu": "avais subordonné",
+			"il/elle": "avait subordonné",
+			"nous": "avions subordonné",
+			"vous": "aviez subordonné",
+			"ils/elles": "avaient subordonné"
+		},
+		"passé antérieur": {
+			"j'": "eus subordonné",
+			"tu": "eus subordonné",
+			"il/elle": "eut subordonné",
+			"nous": "eûmes subordonné",
+			"vous": "eûtes subordonné",
+			"ils/elles": "eurent subordonné"
+		},
+		"futur antérieur": {
+			"j'": "aurai subordonné",
+			"tu": "auras subordonné",
+			"il/elle": "aura subordonné",
+			"nous": "aurons subordonné",
+			"vous": "aurez subordonné",
+			"ils/elles": "auront subordonné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous subordonniez",
+			"qu'il/elle": "subordonne",
+			"qu'ils/elles": "subordonnent"
+		},
+		"imparfait": {
+			"que": "vous subordonnassiez",
+			"qu'il/elle": "subordonnât",
+			"qu'ils/elles": "subordonnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse subordonné",
+			"que": "vous eussiez subordonné",
+			"qu'il/elle": "eût subordonné",
+			"qu'ils/elles": "eussent subordonné"
+		},
+		"passé": {
+			"j'": "aie subordonné",
+			"que": "vous ayez subordonné",
+			"qu'il/elle": "ait subordonné",
+			"qu'ils/elles": "aient subordonné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "subordonnerais",
+			"tu": "subordonnerais",
+			"il/elle": "subordonnerait",
+			"nous": "subordonnerions",
+			"vous": "subordonneriez",
+			"ils/elles": "subordonneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais subordonné",
+			"tu": "aurais subordonné",
+			"il/elle": "aurait subordonné",
+			"nous": "aurions subordonné",
+			"vous": "auriez subordonné",
+			"ils/elles": "auraient subordonné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse subordonné",
+			"tu": "eusses subordonné",
+			"il/elle": "eût subordonné",
+			"nous": "eussions subordonné",
+			"vous": "eussiez subordonné",
+			"ils/elles": "eussent subordonné"
+		}
+	},
+	"participe": {
+		"présent": { "subordonnant": "" },
+		"passé composé": { "ayant": "subordonné" },
+		"passé": {
+			"masc.sg.:": "subordonné",
+			"masc.pl.:": "subordonnés",
+			"fém.sg.:": "subordonnée",
+			"fém.pl.:": "subordonnées"
+		}
+	},
+	"imperatif": {
+		"présent": { "subordonne": "", "subordonnons": "", "subordonnez": "" },
+		"passé": {
+			"aie": "subordonné",
+			"ayons": "subordonné",
+			"ayez": "subordonné"
+		}
+	},
+	"infinitif": {
+		"présent": { "subordonner": "" },
+		"passé": { "avoir": "subordonné" }
+	}
+}

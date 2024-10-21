@@ -1,0 +1,141 @@
+{
+	"name": "catalyser",
+	"definition": "catalyze; catalyse; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se catalyser/ne pas catalyser/ne pas se catalyser",
+	"indicatif": {
+		"présent": {
+			"je": "catalyse",
+			"tu": "catalyses",
+			"il/elle": "catalyse",
+			"nous": "catalysons",
+			"vous": "catalysez",
+			"ils/elles": "catalysent"
+		},
+		"imparfait": {
+			"je": "catalysais",
+			"tu": "catalysais",
+			"il/elle": "catalysait",
+			"nous": "catalysions",
+			"vous": "catalysiez",
+			"ils/elles": "catalysaient"
+		},
+		"futur": {
+			"je": "catalyserai",
+			"tu": "catalyseras",
+			"il/elle": "catalysera",
+			"nous": "catalyserons",
+			"vous": "catalyserez",
+			"ils/elles": "catalyseront"
+		},
+		"passé simple": {
+			"je": "catalysai",
+			"tu": "catalysas",
+			"il/elle": "catalysa",
+			"nous": "catalysâmes",
+			"vous": "catalysâtes",
+			"ils/elles": "catalysèrent"
+		},
+		"passé composé": {
+			"j'": "ai catalysé",
+			"tu": "as catalysé",
+			"il/elle": "a catalysé",
+			"nous": "avons catalysé",
+			"vous": "avez catalysé",
+			"ils/elles": "ont catalysé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais catalysé",
+			"tu": "avais catalysé",
+			"il/elle": "avait catalysé",
+			"nous": "avions catalysé",
+			"vous": "aviez catalysé",
+			"ils/elles": "avaient catalysé"
+		},
+		"passé antérieur": {
+			"j'": "eus catalysé",
+			"tu": "eus catalysé",
+			"il/elle": "eut catalysé",
+			"nous": "eûmes catalysé",
+			"vous": "eûtes catalysé",
+			"ils/elles": "eurent catalysé"
+		},
+		"futur antérieur": {
+			"j'": "aurai catalysé",
+			"tu": "auras catalysé",
+			"il/elle": "aura catalysé",
+			"nous": "aurons catalysé",
+			"vous": "aurez catalysé",
+			"ils/elles": "auront catalysé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous catalysiez",
+			"qu'il/elle": "catalyse",
+			"qu'ils/elles": "catalysent"
+		},
+		"imparfait": {
+			"que": "vous catalysassiez",
+			"qu'il/elle": "catalysât",
+			"qu'ils/elles": "catalysassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse catalysé",
+			"que": "vous eussiez catalysé",
+			"qu'il/elle": "eût catalysé",
+			"qu'ils/elles": "eussent catalysé"
+		},
+		"passé": {
+			"j'": "aie catalysé",
+			"que": "vous ayez catalysé",
+			"qu'il/elle": "ait catalysé",
+			"qu'ils/elles": "aient catalysé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "catalyserais",
+			"tu": "catalyserais",
+			"il/elle": "catalyserait",
+			"nous": "catalyserions",
+			"vous": "catalyseriez",
+			"ils/elles": "catalyseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais catalysé",
+			"tu": "aurais catalysé",
+			"il/elle": "aurait catalysé",
+			"nous": "aurions catalysé",
+			"vous": "auriez catalysé",
+			"ils/elles": "auraient catalysé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse catalysé",
+			"tu": "eusses catalysé",
+			"il/elle": "eût catalysé",
+			"nous": "eussions catalysé",
+			"vous": "eussiez catalysé",
+			"ils/elles": "eussent catalysé"
+		}
+	},
+	"participe": {
+		"présent": { "catalysant": "" },
+		"passé composé": { "ayant": "catalysé" },
+		"passé": {
+			"masc.sg.:": "catalysé",
+			"masc.pl.:": "catalysés",
+			"fém.sg.:": "catalysée",
+			"fém.pl.:": "catalysées"
+		}
+	},
+	"imperatif": {
+		"présent": { "catalyse": "", "catalysons": "", "catalysez": "" },
+		"passé": { "aie": "catalysé", "ayons": "catalysé", "ayez": "catalysé" }
+	},
+	"infinitif": {
+		"présent": { "catalyser": "" },
+		"passé": { "avoir": "catalysé" }
+	}
+}

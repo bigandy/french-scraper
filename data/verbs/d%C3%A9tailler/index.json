@@ -1,0 +1,141 @@
+{
+	"name": "détailler",
+	"definition": "detail; itemize; describe; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se détailler/ne pas détailler/ne pas se détailler",
+	"indicatif": {
+		"présent": {
+			"je": "détaille",
+			"tu": "détailles",
+			"il/elle": "détaille",
+			"nous": "détaillons",
+			"vous": "détaillez",
+			"ils/elles": "détaillent"
+		},
+		"imparfait": {
+			"je": "détaillais",
+			"tu": "détaillais",
+			"il/elle": "détaillait",
+			"nous": "détaillions",
+			"vous": "détailliez",
+			"ils/elles": "détaillaient"
+		},
+		"futur": {
+			"je": "détaillerai",
+			"tu": "détailleras",
+			"il/elle": "détaillera",
+			"nous": "détaillerons",
+			"vous": "détaillerez",
+			"ils/elles": "détailleront"
+		},
+		"passé simple": {
+			"je": "détaillai",
+			"tu": "détaillas",
+			"il/elle": "détailla",
+			"nous": "détaillâmes",
+			"vous": "détaillâtes",
+			"ils/elles": "détaillèrent"
+		},
+		"passé composé": {
+			"j'": "ai détaillé",
+			"tu": "as détaillé",
+			"il/elle": "a détaillé",
+			"nous": "avons détaillé",
+			"vous": "avez détaillé",
+			"ils/elles": "ont détaillé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais détaillé",
+			"tu": "avais détaillé",
+			"il/elle": "avait détaillé",
+			"nous": "avions détaillé",
+			"vous": "aviez détaillé",
+			"ils/elles": "avaient détaillé"
+		},
+		"passé antérieur": {
+			"j'": "eus détaillé",
+			"tu": "eus détaillé",
+			"il/elle": "eut détaillé",
+			"nous": "eûmes détaillé",
+			"vous": "eûtes détaillé",
+			"ils/elles": "eurent détaillé"
+		},
+		"futur antérieur": {
+			"j'": "aurai détaillé",
+			"tu": "auras détaillé",
+			"il/elle": "aura détaillé",
+			"nous": "aurons détaillé",
+			"vous": "aurez détaillé",
+			"ils/elles": "auront détaillé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous détailliez",
+			"qu'il/elle": "détaille",
+			"qu'ils/elles": "détaillent"
+		},
+		"imparfait": {
+			"que": "vous détaillassiez",
+			"qu'il/elle": "détaillât",
+			"qu'ils/elles": "détaillassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse détaillé",
+			"que": "vous eussiez détaillé",
+			"qu'il/elle": "eût détaillé",
+			"qu'ils/elles": "eussent détaillé"
+		},
+		"passé": {
+			"j'": "aie détaillé",
+			"que": "vous ayez détaillé",
+			"qu'il/elle": "ait détaillé",
+			"qu'ils/elles": "aient détaillé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "détaillerais",
+			"tu": "détaillerais",
+			"il/elle": "détaillerait",
+			"nous": "détaillerions",
+			"vous": "détailleriez",
+			"ils/elles": "détailleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais détaillé",
+			"tu": "aurais détaillé",
+			"il/elle": "aurait détaillé",
+			"nous": "aurions détaillé",
+			"vous": "auriez détaillé",
+			"ils/elles": "auraient détaillé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse détaillé",
+			"tu": "eusses détaillé",
+			"il/elle": "eût détaillé",
+			"nous": "eussions détaillé",
+			"vous": "eussiez détaillé",
+			"ils/elles": "eussent détaillé"
+		}
+	},
+	"participe": {
+		"présent": { "détaillant": "" },
+		"passé composé": { "ayant": "détaillé" },
+		"passé": {
+			"masc.sg.:": "détaillé",
+			"masc.pl.:": "détaillés",
+			"fém.sg.:": "détaillée",
+			"fém.pl.:": "détaillées"
+		}
+	},
+	"imperatif": {
+		"présent": { "détaille": "", "détaillons": "", "détaillez": "" },
+		"passé": { "aie": "détaillé", "ayons": "détaillé", "ayez": "détaillé" }
+	},
+	"infinitif": {
+		"présent": { "détailler": "" },
+		"passé": { "avoir": "détaillé" }
+	}
+}

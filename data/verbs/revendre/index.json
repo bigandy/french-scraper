@@ -1,0 +1,141 @@
+{
+	"name": "revendre",
+	"definition": "resell; sell; re-sell; ...",
+	"model": "attendre",
+	"auxiliary": "avoir",
+	"otherForms": "se revendre/ne pas revendre/ne pas se revendre",
+	"indicatif": {
+		"présent": {
+			"je": "revends",
+			"tu": "revends",
+			"il/elle": "revend",
+			"nous": "revendons",
+			"vous": "revendez",
+			"ils/elles": "revendent"
+		},
+		"imparfait": {
+			"je": "revendais",
+			"tu": "revendais",
+			"il/elle": "revendait",
+			"nous": "revendions",
+			"vous": "revendiez",
+			"ils/elles": "revendaient"
+		},
+		"futur": {
+			"je": "revendrai",
+			"tu": "revendras",
+			"il/elle": "revendra",
+			"nous": "revendrons",
+			"vous": "revendrez",
+			"ils/elles": "revendront"
+		},
+		"passé simple": {
+			"je": "revendis",
+			"tu": "revendis",
+			"il/elle": "revendit",
+			"nous": "revendîmes",
+			"vous": "revendîtes",
+			"ils/elles": "revendirent"
+		},
+		"passé composé": {
+			"j'": "ai revendu",
+			"tu": "as revendu",
+			"il/elle": "a revendu",
+			"nous": "avons revendu",
+			"vous": "avez revendu",
+			"ils/elles": "ont revendu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais revendu",
+			"tu": "avais revendu",
+			"il/elle": "avait revendu",
+			"nous": "avions revendu",
+			"vous": "aviez revendu",
+			"ils/elles": "avaient revendu"
+		},
+		"passé antérieur": {
+			"j'": "eus revendu",
+			"tu": "eus revendu",
+			"il/elle": "eut revendu",
+			"nous": "eûmes revendu",
+			"vous": "eûtes revendu",
+			"ils/elles": "eurent revendu"
+		},
+		"futur antérieur": {
+			"j'": "aurai revendu",
+			"tu": "auras revendu",
+			"il/elle": "aura revendu",
+			"nous": "aurons revendu",
+			"vous": "aurez revendu",
+			"ils/elles": "auront revendu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous revendiez",
+			"qu'il/elle": "revende",
+			"qu'ils/elles": "revendent"
+		},
+		"imparfait": {
+			"que": "vous revendissiez",
+			"qu'il/elle": "revendît",
+			"qu'ils/elles": "revendissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse revendu",
+			"que": "vous eussiez revendu",
+			"qu'il/elle": "eût revendu",
+			"qu'ils/elles": "eussent revendu"
+		},
+		"passé": {
+			"j'": "aie revendu",
+			"que": "vous ayez revendu",
+			"qu'il/elle": "ait revendu",
+			"qu'ils/elles": "aient revendu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "revendrais",
+			"tu": "revendrais",
+			"il/elle": "revendrait",
+			"nous": "revendrions",
+			"vous": "revendriez",
+			"ils/elles": "revendraient"
+		},
+		"passé première forme": {
+			"j'": "aurais revendu",
+			"tu": "aurais revendu",
+			"il/elle": "aurait revendu",
+			"nous": "aurions revendu",
+			"vous": "auriez revendu",
+			"ils/elles": "auraient revendu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse revendu",
+			"tu": "eusses revendu",
+			"il/elle": "eût revendu",
+			"nous": "eussions revendu",
+			"vous": "eussiez revendu",
+			"ils/elles": "eussent revendu"
+		}
+	},
+	"participe": {
+		"présent": { "revendant": "" },
+		"passé composé": { "ayant": "revendu" },
+		"passé": {
+			"masc.sg.:": "revendu",
+			"masc.pl.:": "revendus",
+			"fém.sg.:": "revendue",
+			"fém.pl.:": "revendues"
+		}
+	},
+	"imperatif": {
+		"présent": { "revends": "", "revendons": "", "revendez": "" },
+		"passé": { "aie": "revendu", "ayons": "revendu", "ayez": "revendu" }
+	},
+	"infinitif": {
+		"présent": { "revendre": "" },
+		"passé": { "avoir": "revendu" }
+	}
+}

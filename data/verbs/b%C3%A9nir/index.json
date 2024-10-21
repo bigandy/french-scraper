@@ -1,0 +1,138 @@
+{
+	"name": "bénir",
+	"definition": "bless; consecrate; thank god for; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se bénir/ne pas bénir/ne pas se bénir",
+	"indicatif": {
+		"présent": {
+			"je": "bénis",
+			"tu": "bénis",
+			"il/elle": "bénit",
+			"nous": "bénissons",
+			"vous": "bénissez",
+			"ils/elles": "bénissent"
+		},
+		"imparfait": {
+			"je": "bénissais",
+			"tu": "bénissais",
+			"il/elle": "bénissait",
+			"nous": "bénissions",
+			"vous": "bénissiez",
+			"ils/elles": "bénissaient"
+		},
+		"futur": {
+			"je": "bénirai",
+			"tu": "béniras",
+			"il/elle": "bénira",
+			"nous": "bénirons",
+			"vous": "bénirez",
+			"ils/elles": "béniront"
+		},
+		"passé simple": {
+			"je": "bénis",
+			"tu": "bénis",
+			"il/elle": "bénit",
+			"nous": "bénîmes",
+			"vous": "bénîtes",
+			"ils/elles": "bénirent"
+		},
+		"passé composé": {
+			"j'": "ai béni",
+			"tu": "as béni",
+			"il/elle": "a béni",
+			"nous": "avons béni",
+			"vous": "avez béni",
+			"ils/elles": "ont béni"
+		},
+		"plus-que-parfait": {
+			"j'": "avais béni",
+			"tu": "avais béni",
+			"il/elle": "avait béni",
+			"nous": "avions béni",
+			"vous": "aviez béni",
+			"ils/elles": "avaient béni"
+		},
+		"passé antérieur": {
+			"j'": "eus béni",
+			"tu": "eus béni",
+			"il/elle": "eut béni",
+			"nous": "eûmes béni",
+			"vous": "eûtes béni",
+			"ils/elles": "eurent béni"
+		},
+		"futur antérieur": {
+			"j'": "aurai béni",
+			"tu": "auras béni",
+			"il/elle": "aura béni",
+			"nous": "aurons béni",
+			"vous": "aurez béni",
+			"ils/elles": "auront béni"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous bénissiez",
+			"qu'il/elle": "bénisse",
+			"qu'ils/elles": "bénissent"
+		},
+		"imparfait": {
+			"que": "vous bénissiez",
+			"qu'il/elle": "bénît",
+			"qu'ils/elles": "bénissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse béni",
+			"que": "vous eussiez béni",
+			"qu'il/elle": "eût béni",
+			"qu'ils/elles": "eussent béni"
+		},
+		"passé": {
+			"j'": "aie béni",
+			"que": "vous ayez béni",
+			"qu'il/elle": "ait béni",
+			"qu'ils/elles": "aient béni"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "bénirais",
+			"tu": "bénirais",
+			"il/elle": "bénirait",
+			"nous": "bénirions",
+			"vous": "béniriez",
+			"ils/elles": "béniraient"
+		},
+		"passé première forme": {
+			"j'": "aurais béni",
+			"tu": "aurais béni",
+			"il/elle": "aurait béni",
+			"nous": "aurions béni",
+			"vous": "auriez béni",
+			"ils/elles": "auraient béni"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse béni",
+			"tu": "eusses béni",
+			"il/elle": "eût béni",
+			"nous": "eussions béni",
+			"vous": "eussiez béni",
+			"ils/elles": "eussent béni"
+		}
+	},
+	"participe": {
+		"présent": { "bénissant": "" },
+		"passé composé": { "ayant": "béni" },
+		"passé": {
+			"masc.sg.:": "béni",
+			"masc.pl.:": "bénis",
+			"fém.sg.:": "bénie",
+			"fém.pl.:": "bénies"
+		}
+	},
+	"imperatif": {
+		"présent": { "bénis": "", "bénissons": "", "bénissez": "" },
+		"passé": { "aie": "béni", "ayons": "béni", "ayez": "béni" }
+	},
+	"infinitif": { "présent": { "bénir": "" }, "passé": { "avoir": "béni" } }
+}

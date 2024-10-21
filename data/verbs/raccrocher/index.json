@@ -1,0 +1,141 @@
+{
+	"name": "raccrocher",
+	"definition": "hang up; hold on; get off the phone; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se raccrocher/ne pas raccrocher/ne pas se raccrocher",
+	"indicatif": {
+		"présent": {
+			"je": "raccroche",
+			"tu": "raccroches",
+			"il/elle": "raccroche",
+			"nous": "raccrochons",
+			"vous": "raccrochez",
+			"ils/elles": "raccrochent"
+		},
+		"imparfait": {
+			"je": "raccrochais",
+			"tu": "raccrochais",
+			"il/elle": "raccrochait",
+			"nous": "raccrochions",
+			"vous": "raccrochiez",
+			"ils/elles": "raccrochaient"
+		},
+		"futur": {
+			"je": "raccrocherai",
+			"tu": "raccrocheras",
+			"il/elle": "raccrochera",
+			"nous": "raccrocherons",
+			"vous": "raccrocherez",
+			"ils/elles": "raccrocheront"
+		},
+		"passé simple": {
+			"je": "raccrochai",
+			"tu": "raccrochas",
+			"il/elle": "raccrocha",
+			"nous": "raccrochâmes",
+			"vous": "raccrochâtes",
+			"ils/elles": "raccrochèrent"
+		},
+		"passé composé": {
+			"j'": "ai raccroché",
+			"tu": "as raccroché",
+			"il/elle": "a raccroché",
+			"nous": "avons raccroché",
+			"vous": "avez raccroché",
+			"ils/elles": "ont raccroché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais raccroché",
+			"tu": "avais raccroché",
+			"il/elle": "avait raccroché",
+			"nous": "avions raccroché",
+			"vous": "aviez raccroché",
+			"ils/elles": "avaient raccroché"
+		},
+		"passé antérieur": {
+			"j'": "eus raccroché",
+			"tu": "eus raccroché",
+			"il/elle": "eut raccroché",
+			"nous": "eûmes raccroché",
+			"vous": "eûtes raccroché",
+			"ils/elles": "eurent raccroché"
+		},
+		"futur antérieur": {
+			"j'": "aurai raccroché",
+			"tu": "auras raccroché",
+			"il/elle": "aura raccroché",
+			"nous": "aurons raccroché",
+			"vous": "aurez raccroché",
+			"ils/elles": "auront raccroché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous raccrochiez",
+			"qu'il/elle": "raccroche",
+			"qu'ils/elles": "raccrochent"
+		},
+		"imparfait": {
+			"que": "vous raccrochassiez",
+			"qu'il/elle": "raccrochât",
+			"qu'ils/elles": "raccrochassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse raccroché",
+			"que": "vous eussiez raccroché",
+			"qu'il/elle": "eût raccroché",
+			"qu'ils/elles": "eussent raccroché"
+		},
+		"passé": {
+			"j'": "aie raccroché",
+			"que": "vous ayez raccroché",
+			"qu'il/elle": "ait raccroché",
+			"qu'ils/elles": "aient raccroché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "raccrocherais",
+			"tu": "raccrocherais",
+			"il/elle": "raccrocherait",
+			"nous": "raccrocherions",
+			"vous": "raccrocheriez",
+			"ils/elles": "raccrocheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais raccroché",
+			"tu": "aurais raccroché",
+			"il/elle": "aurait raccroché",
+			"nous": "aurions raccroché",
+			"vous": "auriez raccroché",
+			"ils/elles": "auraient raccroché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse raccroché",
+			"tu": "eusses raccroché",
+			"il/elle": "eût raccroché",
+			"nous": "eussions raccroché",
+			"vous": "eussiez raccroché",
+			"ils/elles": "eussent raccroché"
+		}
+	},
+	"participe": {
+		"présent": { "raccrochant": "" },
+		"passé composé": { "ayant": "raccroché" },
+		"passé": {
+			"masc.sg.:": "raccroché",
+			"masc.pl.:": "raccrochés",
+			"fém.sg.:": "raccrochée",
+			"fém.pl.:": "raccrochées"
+		}
+	},
+	"imperatif": {
+		"présent": { "raccroche": "", "raccrochons": "", "raccrochez": "" },
+		"passé": { "aie": "raccroché", "ayons": "raccroché", "ayez": "raccroché" }
+	},
+	"infinitif": {
+		"présent": { "raccrocher": "" },
+		"passé": { "avoir": "raccroché" }
+	}
+}

@@ -1,0 +1,141 @@
+{
+	"name": "replacer",
+	"definition": "put; place; replace; ...",
+	"model": "commencer",
+	"auxiliary": "avoir",
+	"otherForms": "se replacer/ne pas replacer/ne pas se replacer",
+	"indicatif": {
+		"présent": {
+			"je": "replace",
+			"tu": "replaces",
+			"il/elle": "replace",
+			"nous": "replaçons",
+			"vous": "replacez",
+			"ils/elles": "replacent"
+		},
+		"imparfait": {
+			"je": "replaçais",
+			"tu": "replaçais",
+			"il/elle": "replaçait",
+			"nous": "replacions",
+			"vous": "replaciez",
+			"ils/elles": "replaçaient"
+		},
+		"futur": {
+			"je": "replacerai",
+			"tu": "replaceras",
+			"il/elle": "replacera",
+			"nous": "replacerons",
+			"vous": "replacerez",
+			"ils/elles": "replaceront"
+		},
+		"passé simple": {
+			"je": "replaçai",
+			"tu": "replaças",
+			"il/elle": "replaça",
+			"nous": "replaçâmes",
+			"vous": "replaçâtes",
+			"ils/elles": "replacèrent"
+		},
+		"passé composé": {
+			"j'": "ai replacé",
+			"tu": "as replacé",
+			"il/elle": "a replacé",
+			"nous": "avons replacé",
+			"vous": "avez replacé",
+			"ils/elles": "ont replacé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais replacé",
+			"tu": "avais replacé",
+			"il/elle": "avait replacé",
+			"nous": "avions replacé",
+			"vous": "aviez replacé",
+			"ils/elles": "avaient replacé"
+		},
+		"passé antérieur": {
+			"j'": "eus replacé",
+			"tu": "eus replacé",
+			"il/elle": "eut replacé",
+			"nous": "eûmes replacé",
+			"vous": "eûtes replacé",
+			"ils/elles": "eurent replacé"
+		},
+		"futur antérieur": {
+			"j'": "aurai replacé",
+			"tu": "auras replacé",
+			"il/elle": "aura replacé",
+			"nous": "aurons replacé",
+			"vous": "aurez replacé",
+			"ils/elles": "auront replacé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous replaciez",
+			"qu'il/elle": "replace",
+			"qu'ils/elles": "replacent"
+		},
+		"imparfait": {
+			"que": "vous replaçassiez",
+			"qu'il/elle": "replaçât",
+			"qu'ils/elles": "replaçassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse replacé",
+			"que": "vous eussiez replacé",
+			"qu'il/elle": "eût replacé",
+			"qu'ils/elles": "eussent replacé"
+		},
+		"passé": {
+			"j'": "aie replacé",
+			"que": "vous ayez replacé",
+			"qu'il/elle": "ait replacé",
+			"qu'ils/elles": "aient replacé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "replacerais",
+			"tu": "replacerais",
+			"il/elle": "replacerait",
+			"nous": "replacerions",
+			"vous": "replaceriez",
+			"ils/elles": "replaceraient"
+		},
+		"passé première forme": {
+			"j'": "aurais replacé",
+			"tu": "aurais replacé",
+			"il/elle": "aurait replacé",
+			"nous": "aurions replacé",
+			"vous": "auriez replacé",
+			"ils/elles": "auraient replacé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse replacé",
+			"tu": "eusses replacé",
+			"il/elle": "eût replacé",
+			"nous": "eussions replacé",
+			"vous": "eussiez replacé",
+			"ils/elles": "eussent replacé"
+		}
+	},
+	"participe": {
+		"présent": { "replaçant": "" },
+		"passé composé": { "ayant": "replacé" },
+		"passé": {
+			"masc.sg.:": "replacé",
+			"masc.pl.:": "replacés",
+			"fém.sg.:": "replacée",
+			"fém.pl.:": "replacées"
+		}
+	},
+	"imperatif": {
+		"présent": { "replace": "", "replaçons": "", "replacez": "" },
+		"passé": { "aie": "replacé", "ayons": "replacé", "ayez": "replacé" }
+	},
+	"infinitif": {
+		"présent": { "replacer": "" },
+		"passé": { "avoir": "replacé" }
+	}
+}

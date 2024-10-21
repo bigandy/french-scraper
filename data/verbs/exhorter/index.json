@@ -1,0 +1,143 @@
+{
+	"name": "exhorter",
+	"definition": "urge; exhort; call upon; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'exhorter/ne pas exhorter/ne pas s'exhorter",
+	"indicatif": {
+		"présent": {
+			"j'": "exhorte",
+			"tu": "exhortes",
+			"il/elle": "exhorte",
+			"nous": "exhortons",
+			"vous": "exhortez",
+			"ils/elles": "exhortent"
+		},
+		"imparfait": {
+			"j'": "exhortais",
+			"tu": "exhortais",
+			"il/elle": "exhortait",
+			"nous": "exhortions",
+			"vous": "exhortiez",
+			"ils/elles": "exhortaient"
+		},
+		"futur": {
+			"j'": "exhorterai",
+			"tu": "exhorteras",
+			"il/elle": "exhortera",
+			"nous": "exhorterons",
+			"vous": "exhorterez",
+			"ils/elles": "exhorteront"
+		},
+		"passé simple": {
+			"j'": "exhortai",
+			"tu": "exhortas",
+			"il/elle": "exhorta",
+			"nous": "exhortâmes",
+			"vous": "exhortâtes",
+			"ils/elles": "exhortèrent"
+		},
+		"passé composé": {
+			"j'": "ai exhorté",
+			"tu": "as exhorté",
+			"il/elle": "a exhorté",
+			"nous": "avons exhorté",
+			"vous": "avez exhorté",
+			"ils/elles": "ont exhorté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais exhorté",
+			"tu": "avais exhorté",
+			"il/elle": "avait exhorté",
+			"nous": "avions exhorté",
+			"vous": "aviez exhorté",
+			"ils/elles": "avaient exhorté"
+		},
+		"passé antérieur": {
+			"j'": "eus exhorté",
+			"tu": "eus exhorté",
+			"il/elle": "eut exhorté",
+			"nous": "eûmes exhorté",
+			"vous": "eûtes exhorté",
+			"ils/elles": "eurent exhorté"
+		},
+		"futur antérieur": {
+			"j'": "aurai exhorté",
+			"tu": "auras exhorté",
+			"il/elle": "aura exhorté",
+			"nous": "aurons exhorté",
+			"vous": "aurez exhorté",
+			"ils/elles": "auront exhorté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "exhorte",
+			"que": "vous exhortiez",
+			"qu'il/elle": "exhorte",
+			"qu'ils/elles": "exhortent"
+		},
+		"imparfait": {
+			"j'": "exhortasse",
+			"que": "vous exhortassiez",
+			"qu'il/elle": "exhortât",
+			"qu'ils/elles": "exhortassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse exhorté",
+			"que": "vous eussiez exhorté",
+			"qu'il/elle": "eût exhorté",
+			"qu'ils/elles": "eussent exhorté"
+		},
+		"passé": {
+			"j'": "aie exhorté",
+			"que": "vous ayez exhorté",
+			"qu'il/elle": "ait exhorté",
+			"qu'ils/elles": "aient exhorté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "exhorterais",
+			"tu": "exhorterais",
+			"il/elle": "exhorterait",
+			"nous": "exhorterions",
+			"vous": "exhorteriez",
+			"ils/elles": "exhorteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais exhorté",
+			"tu": "aurais exhorté",
+			"il/elle": "aurait exhorté",
+			"nous": "aurions exhorté",
+			"vous": "auriez exhorté",
+			"ils/elles": "auraient exhorté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse exhorté",
+			"tu": "eusses exhorté",
+			"il/elle": "eût exhorté",
+			"nous": "eussions exhorté",
+			"vous": "eussiez exhorté",
+			"ils/elles": "eussent exhorté"
+		}
+	},
+	"participe": {
+		"présent": { "exhortant": "" },
+		"passé composé": { "ayant": "exhorté" },
+		"passé": {
+			"masc.sg.:": "exhorté",
+			"masc.pl.:": "exhortés",
+			"fém.sg.:": "exhortée",
+			"fém.pl.:": "exhortées"
+		}
+	},
+	"imperatif": {
+		"présent": { "exhorte": "", "exhortons": "", "exhortez": "" },
+		"passé": { "aie": "exhorté", "ayons": "exhorté", "ayez": "exhorté" }
+	},
+	"infinitif": {
+		"présent": { "exhorter": "" },
+		"passé": { "avoir": "exhorté" }
+	}
+}

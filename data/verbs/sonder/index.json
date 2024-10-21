@@ -1,0 +1,138 @@
+{
+	"name": "sonder",
+	"definition": "probe; survey; search; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se sonder/ne pas sonder/ne pas se sonder",
+	"indicatif": {
+		"présent": {
+			"je": "sonde",
+			"tu": "sondes",
+			"il/elle": "sonde",
+			"nous": "sondons",
+			"vous": "sondez",
+			"ils/elles": "sondent"
+		},
+		"imparfait": {
+			"je": "sondais",
+			"tu": "sondais",
+			"il/elle": "sondait",
+			"nous": "sondions",
+			"vous": "sondiez",
+			"ils/elles": "sondaient"
+		},
+		"futur": {
+			"je": "sonderai",
+			"tu": "sonderas",
+			"il/elle": "sondera",
+			"nous": "sonderons",
+			"vous": "sonderez",
+			"ils/elles": "sonderont"
+		},
+		"passé simple": {
+			"je": "sondai",
+			"tu": "sondas",
+			"il/elle": "sonda",
+			"nous": "sondâmes",
+			"vous": "sondâtes",
+			"ils/elles": "sondèrent"
+		},
+		"passé composé": {
+			"j'": "ai sondé",
+			"tu": "as sondé",
+			"il/elle": "a sondé",
+			"nous": "avons sondé",
+			"vous": "avez sondé",
+			"ils/elles": "ont sondé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais sondé",
+			"tu": "avais sondé",
+			"il/elle": "avait sondé",
+			"nous": "avions sondé",
+			"vous": "aviez sondé",
+			"ils/elles": "avaient sondé"
+		},
+		"passé antérieur": {
+			"j'": "eus sondé",
+			"tu": "eus sondé",
+			"il/elle": "eut sondé",
+			"nous": "eûmes sondé",
+			"vous": "eûtes sondé",
+			"ils/elles": "eurent sondé"
+		},
+		"futur antérieur": {
+			"j'": "aurai sondé",
+			"tu": "auras sondé",
+			"il/elle": "aura sondé",
+			"nous": "aurons sondé",
+			"vous": "aurez sondé",
+			"ils/elles": "auront sondé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous sondiez",
+			"qu'il/elle": "sonde",
+			"qu'ils/elles": "sondent"
+		},
+		"imparfait": {
+			"que": "vous sondassiez",
+			"qu'il/elle": "sondât",
+			"qu'ils/elles": "sondassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse sondé",
+			"que": "vous eussiez sondé",
+			"qu'il/elle": "eût sondé",
+			"qu'ils/elles": "eussent sondé"
+		},
+		"passé": {
+			"j'": "aie sondé",
+			"que": "vous ayez sondé",
+			"qu'il/elle": "ait sondé",
+			"qu'ils/elles": "aient sondé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "sonderais",
+			"tu": "sonderais",
+			"il/elle": "sonderait",
+			"nous": "sonderions",
+			"vous": "sonderiez",
+			"ils/elles": "sonderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais sondé",
+			"tu": "aurais sondé",
+			"il/elle": "aurait sondé",
+			"nous": "aurions sondé",
+			"vous": "auriez sondé",
+			"ils/elles": "auraient sondé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse sondé",
+			"tu": "eusses sondé",
+			"il/elle": "eût sondé",
+			"nous": "eussions sondé",
+			"vous": "eussiez sondé",
+			"ils/elles": "eussent sondé"
+		}
+	},
+	"participe": {
+		"présent": { "sondant": "" },
+		"passé composé": { "ayant": "sondé" },
+		"passé": {
+			"masc.sg.:": "sondé",
+			"masc.pl.:": "sondés",
+			"fém.sg.:": "sondée",
+			"fém.pl.:": "sondées"
+		}
+	},
+	"imperatif": {
+		"présent": { "sonde": "", "sondons": "", "sondez": "" },
+		"passé": { "aie": "sondé", "ayons": "sondé", "ayez": "sondé" }
+	},
+	"infinitif": { "présent": { "sonder": "" }, "passé": { "avoir": "sondé" } }
+}

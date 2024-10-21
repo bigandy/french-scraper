@@ -1,0 +1,145 @@
+{
+	"name": "sponsoriser",
+	"definition": "sponsor; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se sponsoriser/ne pas sponsoriser/ne pas se sponsoriser",
+	"indicatif": {
+		"présent": {
+			"je": "sponsorise",
+			"tu": "sponsorises",
+			"il/elle": "sponsorise",
+			"nous": "sponsorisons",
+			"vous": "sponsorisez",
+			"ils/elles": "sponsorisent"
+		},
+		"imparfait": {
+			"je": "sponsorisais",
+			"tu": "sponsorisais",
+			"il/elle": "sponsorisait",
+			"nous": "sponsorisions",
+			"vous": "sponsorisiez",
+			"ils/elles": "sponsorisaient"
+		},
+		"futur": {
+			"je": "sponsoriserai",
+			"tu": "sponsoriseras",
+			"il/elle": "sponsorisera",
+			"nous": "sponsoriserons",
+			"vous": "sponsoriserez",
+			"ils/elles": "sponsoriseront"
+		},
+		"passé simple": {
+			"je": "sponsorisai",
+			"tu": "sponsorisas",
+			"il/elle": "sponsorisa",
+			"nous": "sponsorisâmes",
+			"vous": "sponsorisâtes",
+			"ils/elles": "sponsorisèrent"
+		},
+		"passé composé": {
+			"j'": "ai sponsorisé",
+			"tu": "as sponsorisé",
+			"il/elle": "a sponsorisé",
+			"nous": "avons sponsorisé",
+			"vous": "avez sponsorisé",
+			"ils/elles": "ont sponsorisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais sponsorisé",
+			"tu": "avais sponsorisé",
+			"il/elle": "avait sponsorisé",
+			"nous": "avions sponsorisé",
+			"vous": "aviez sponsorisé",
+			"ils/elles": "avaient sponsorisé"
+		},
+		"passé antérieur": {
+			"j'": "eus sponsorisé",
+			"tu": "eus sponsorisé",
+			"il/elle": "eut sponsorisé",
+			"nous": "eûmes sponsorisé",
+			"vous": "eûtes sponsorisé",
+			"ils/elles": "eurent sponsorisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai sponsorisé",
+			"tu": "auras sponsorisé",
+			"il/elle": "aura sponsorisé",
+			"nous": "aurons sponsorisé",
+			"vous": "aurez sponsorisé",
+			"ils/elles": "auront sponsorisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous sponsorisiez",
+			"qu'il/elle": "sponsorise",
+			"qu'ils/elles": "sponsorisent"
+		},
+		"imparfait": {
+			"que": "vous sponsorisassiez",
+			"qu'il/elle": "sponsorisât",
+			"qu'ils/elles": "sponsorisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse sponsorisé",
+			"que": "vous eussiez sponsorisé",
+			"qu'il/elle": "eût sponsorisé",
+			"qu'ils/elles": "eussent sponsorisé"
+		},
+		"passé": {
+			"j'": "aie sponsorisé",
+			"que": "vous ayez sponsorisé",
+			"qu'il/elle": "ait sponsorisé",
+			"qu'ils/elles": "aient sponsorisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "sponsoriserais",
+			"tu": "sponsoriserais",
+			"il/elle": "sponsoriserait",
+			"nous": "sponsoriserions",
+			"vous": "sponsoriseriez",
+			"ils/elles": "sponsoriseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais sponsorisé",
+			"tu": "aurais sponsorisé",
+			"il/elle": "aurait sponsorisé",
+			"nous": "aurions sponsorisé",
+			"vous": "auriez sponsorisé",
+			"ils/elles": "auraient sponsorisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse sponsorisé",
+			"tu": "eusses sponsorisé",
+			"il/elle": "eût sponsorisé",
+			"nous": "eussions sponsorisé",
+			"vous": "eussiez sponsorisé",
+			"ils/elles": "eussent sponsorisé"
+		}
+	},
+	"participe": {
+		"présent": { "sponsorisant": "" },
+		"passé composé": { "ayant": "sponsorisé" },
+		"passé": {
+			"masc.sg.:": "sponsorisé",
+			"masc.pl.:": "sponsorisés",
+			"fém.sg.:": "sponsorisée",
+			"fém.pl.:": "sponsorisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "sponsorise": "", "sponsorisons": "", "sponsorisez": "" },
+		"passé": {
+			"aie": "sponsorisé",
+			"ayons": "sponsorisé",
+			"ayez": "sponsorisé"
+		}
+	},
+	"infinitif": {
+		"présent": { "sponsoriser": "" },
+		"passé": { "avoir": "sponsorisé" }
+	}
+}

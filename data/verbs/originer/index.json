@@ -1,0 +1,143 @@
+{
+	"name": "originer",
+	"definition": "originate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'originer/ne pas originer/ne pas s'originer",
+	"indicatif": {
+		"présent": {
+			"j'": "origine",
+			"tu": "origines",
+			"il/elle": "origine",
+			"nous": "originons",
+			"vous": "originez",
+			"ils/elles": "originent"
+		},
+		"imparfait": {
+			"j'": "originais",
+			"tu": "originais",
+			"il/elle": "originait",
+			"nous": "originions",
+			"vous": "originiez",
+			"ils/elles": "originaient"
+		},
+		"futur": {
+			"j'": "originerai",
+			"tu": "origineras",
+			"il/elle": "originera",
+			"nous": "originerons",
+			"vous": "originerez",
+			"ils/elles": "origineront"
+		},
+		"passé simple": {
+			"j'": "originai",
+			"tu": "originas",
+			"il/elle": "origina",
+			"nous": "originâmes",
+			"vous": "originâtes",
+			"ils/elles": "originèrent"
+		},
+		"passé composé": {
+			"j'": "ai originé",
+			"tu": "as originé",
+			"il/elle": "a originé",
+			"nous": "avons originé",
+			"vous": "avez originé",
+			"ils/elles": "ont originé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais originé",
+			"tu": "avais originé",
+			"il/elle": "avait originé",
+			"nous": "avions originé",
+			"vous": "aviez originé",
+			"ils/elles": "avaient originé"
+		},
+		"passé antérieur": {
+			"j'": "eus originé",
+			"tu": "eus originé",
+			"il/elle": "eut originé",
+			"nous": "eûmes originé",
+			"vous": "eûtes originé",
+			"ils/elles": "eurent originé"
+		},
+		"futur antérieur": {
+			"j'": "aurai originé",
+			"tu": "auras originé",
+			"il/elle": "aura originé",
+			"nous": "aurons originé",
+			"vous": "aurez originé",
+			"ils/elles": "auront originé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "origine",
+			"que": "vous originiez",
+			"qu'il/elle": "origine",
+			"qu'ils/elles": "originent"
+		},
+		"imparfait": {
+			"j'": "originasse",
+			"que": "vous originassiez",
+			"qu'il/elle": "originât",
+			"qu'ils/elles": "originassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse originé",
+			"que": "vous eussiez originé",
+			"qu'il/elle": "eût originé",
+			"qu'ils/elles": "eussent originé"
+		},
+		"passé": {
+			"j'": "aie originé",
+			"que": "vous ayez originé",
+			"qu'il/elle": "ait originé",
+			"qu'ils/elles": "aient originé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "originerais",
+			"tu": "originerais",
+			"il/elle": "originerait",
+			"nous": "originerions",
+			"vous": "origineriez",
+			"ils/elles": "origineraient"
+		},
+		"passé première forme": {
+			"j'": "aurais originé",
+			"tu": "aurais originé",
+			"il/elle": "aurait originé",
+			"nous": "aurions originé",
+			"vous": "auriez originé",
+			"ils/elles": "auraient originé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse originé",
+			"tu": "eusses originé",
+			"il/elle": "eût originé",
+			"nous": "eussions originé",
+			"vous": "eussiez originé",
+			"ils/elles": "eussent originé"
+		}
+	},
+	"participe": {
+		"présent": { "originant": "" },
+		"passé composé": { "ayant": "originé" },
+		"passé": {
+			"masc.sg.:": "originé",
+			"masc.pl.:": "originés",
+			"fém.sg.:": "originée",
+			"fém.pl.:": "originées"
+		}
+	},
+	"imperatif": {
+		"présent": { "origine": "", "originons": "", "originez": "" },
+		"passé": { "aie": "originé", "ayons": "originé", "ayez": "originé" }
+	},
+	"infinitif": {
+		"présent": { "originer": "" },
+		"passé": { "avoir": "originé" }
+	}
+}

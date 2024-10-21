@@ -1,0 +1,141 @@
+{
+	"name": "décrypter",
+	"definition": "decrypt; decipher; decode; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se décrypter/ne pas décrypter/ne pas se décrypter",
+	"indicatif": {
+		"présent": {
+			"je": "décrypte",
+			"tu": "décryptes",
+			"il/elle": "décrypte",
+			"nous": "décryptons",
+			"vous": "décryptez",
+			"ils/elles": "décryptent"
+		},
+		"imparfait": {
+			"je": "décryptais",
+			"tu": "décryptais",
+			"il/elle": "décryptait",
+			"nous": "décryptions",
+			"vous": "décryptiez",
+			"ils/elles": "décryptaient"
+		},
+		"futur": {
+			"je": "décrypterai",
+			"tu": "décrypteras",
+			"il/elle": "décryptera",
+			"nous": "décrypterons",
+			"vous": "décrypterez",
+			"ils/elles": "décrypteront"
+		},
+		"passé simple": {
+			"je": "décryptai",
+			"tu": "décryptas",
+			"il/elle": "décrypta",
+			"nous": "décryptâmes",
+			"vous": "décryptâtes",
+			"ils/elles": "décryptèrent"
+		},
+		"passé composé": {
+			"j'": "ai décrypté",
+			"tu": "as décrypté",
+			"il/elle": "a décrypté",
+			"nous": "avons décrypté",
+			"vous": "avez décrypté",
+			"ils/elles": "ont décrypté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais décrypté",
+			"tu": "avais décrypté",
+			"il/elle": "avait décrypté",
+			"nous": "avions décrypté",
+			"vous": "aviez décrypté",
+			"ils/elles": "avaient décrypté"
+		},
+		"passé antérieur": {
+			"j'": "eus décrypté",
+			"tu": "eus décrypté",
+			"il/elle": "eut décrypté",
+			"nous": "eûmes décrypté",
+			"vous": "eûtes décrypté",
+			"ils/elles": "eurent décrypté"
+		},
+		"futur antérieur": {
+			"j'": "aurai décrypté",
+			"tu": "auras décrypté",
+			"il/elle": "aura décrypté",
+			"nous": "aurons décrypté",
+			"vous": "aurez décrypté",
+			"ils/elles": "auront décrypté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous décryptiez",
+			"qu'il/elle": "décrypte",
+			"qu'ils/elles": "décryptent"
+		},
+		"imparfait": {
+			"que": "vous décryptassiez",
+			"qu'il/elle": "décryptât",
+			"qu'ils/elles": "décryptassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse décrypté",
+			"que": "vous eussiez décrypté",
+			"qu'il/elle": "eût décrypté",
+			"qu'ils/elles": "eussent décrypté"
+		},
+		"passé": {
+			"j'": "aie décrypté",
+			"que": "vous ayez décrypté",
+			"qu'il/elle": "ait décrypté",
+			"qu'ils/elles": "aient décrypté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "décrypterais",
+			"tu": "décrypterais",
+			"il/elle": "décrypterait",
+			"nous": "décrypterions",
+			"vous": "décrypteriez",
+			"ils/elles": "décrypteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais décrypté",
+			"tu": "aurais décrypté",
+			"il/elle": "aurait décrypté",
+			"nous": "aurions décrypté",
+			"vous": "auriez décrypté",
+			"ils/elles": "auraient décrypté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse décrypté",
+			"tu": "eusses décrypté",
+			"il/elle": "eût décrypté",
+			"nous": "eussions décrypté",
+			"vous": "eussiez décrypté",
+			"ils/elles": "eussent décrypté"
+		}
+	},
+	"participe": {
+		"présent": { "décryptant": "" },
+		"passé composé": { "ayant": "décrypté" },
+		"passé": {
+			"masc.sg.:": "décrypté",
+			"masc.pl.:": "décryptés",
+			"fém.sg.:": "décryptée",
+			"fém.pl.:": "décryptées"
+		}
+	},
+	"imperatif": {
+		"présent": { "décrypte": "", "décryptons": "", "décryptez": "" },
+		"passé": { "aie": "décrypté", "ayons": "décrypté", "ayez": "décrypté" }
+	},
+	"infinitif": {
+		"présent": { "décrypter": "" },
+		"passé": { "avoir": "décrypté" }
+	}
+}

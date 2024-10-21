@@ -1,0 +1,147 @@
+{
+	"name": "authentifier",
+	"definition": "\n              authenticate; certify; authentificate; ...\n            ",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'authentifier/ne pas authentifier/ne pas s'authentifier",
+	"indicatif": {
+		"présent": {
+			"j'": "authentifie",
+			"tu": "authentifies",
+			"il/elle": "authentifie",
+			"nous": "authentifions",
+			"vous": "authentifiez",
+			"ils/elles": "authentifient"
+		},
+		"imparfait": {
+			"j'": "authentifiais",
+			"tu": "authentifiais",
+			"il/elle": "authentifiait",
+			"nous": "authentifiions",
+			"vous": "authentifiiez",
+			"ils/elles": "authentifiaient"
+		},
+		"futur": {
+			"j'": "authentifierai",
+			"tu": "authentifieras",
+			"il/elle": "authentifiera",
+			"nous": "authentifierons",
+			"vous": "authentifierez",
+			"ils/elles": "authentifieront"
+		},
+		"passé simple": {
+			"j'": "authentifiai",
+			"tu": "authentifias",
+			"il/elle": "authentifia",
+			"nous": "authentifiâmes",
+			"vous": "authentifiâtes",
+			"ils/elles": "authentifièrent"
+		},
+		"passé composé": {
+			"j'": "ai authentifié",
+			"tu": "as authentifié",
+			"il/elle": "a authentifié",
+			"nous": "avons authentifié",
+			"vous": "avez authentifié",
+			"ils/elles": "ont authentifié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais authentifié",
+			"tu": "avais authentifié",
+			"il/elle": "avait authentifié",
+			"nous": "avions authentifié",
+			"vous": "aviez authentifié",
+			"ils/elles": "avaient authentifié"
+		},
+		"passé antérieur": {
+			"j'": "eus authentifié",
+			"tu": "eus authentifié",
+			"il/elle": "eut authentifié",
+			"nous": "eûmes authentifié",
+			"vous": "eûtes authentifié",
+			"ils/elles": "eurent authentifié"
+		},
+		"futur antérieur": {
+			"j'": "aurai authentifié",
+			"tu": "auras authentifié",
+			"il/elle": "aura authentifié",
+			"nous": "aurons authentifié",
+			"vous": "aurez authentifié",
+			"ils/elles": "auront authentifié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "authentifie",
+			"que": "vous authentifiiez",
+			"qu'il/elle": "authentifie",
+			"qu'ils/elles": "authentifient"
+		},
+		"imparfait": {
+			"j'": "authentifiasse",
+			"que": "vous authentifiassiez",
+			"qu'il/elle": "authentifiât",
+			"qu'ils/elles": "authentifiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse authentifié",
+			"que": "vous eussiez authentifié",
+			"qu'il/elle": "eût authentifié",
+			"qu'ils/elles": "eussent authentifié"
+		},
+		"passé": {
+			"j'": "aie authentifié",
+			"que": "vous ayez authentifié",
+			"qu'il/elle": "ait authentifié",
+			"qu'ils/elles": "aient authentifié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "authentifierais",
+			"tu": "authentifierais",
+			"il/elle": "authentifierait",
+			"nous": "authentifierions",
+			"vous": "authentifieriez",
+			"ils/elles": "authentifieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais authentifié",
+			"tu": "aurais authentifié",
+			"il/elle": "aurait authentifié",
+			"nous": "aurions authentifié",
+			"vous": "auriez authentifié",
+			"ils/elles": "auraient authentifié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse authentifié",
+			"tu": "eusses authentifié",
+			"il/elle": "eût authentifié",
+			"nous": "eussions authentifié",
+			"vous": "eussiez authentifié",
+			"ils/elles": "eussent authentifié"
+		}
+	},
+	"participe": {
+		"présent": { "authentifiant": "" },
+		"passé composé": { "ayant": "authentifié" },
+		"passé": {
+			"masc.sg.:": "authentifié",
+			"masc.pl.:": "authentifiés",
+			"fém.sg.:": "authentifiée",
+			"fém.pl.:": "authentifiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "authentifie": "", "authentifions": "", "authentifiez": "" },
+		"passé": {
+			"aie": "authentifié",
+			"ayons": "authentifié",
+			"ayez": "authentifié"
+		}
+	},
+	"infinitif": {
+		"présent": { "authentifier": "" },
+		"passé": { "avoir": "authentifié" }
+	}
+}

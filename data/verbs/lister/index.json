@@ -1,0 +1,138 @@
+{
+	"name": "lister",
+	"definition": "list; tick off; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se lister/ne pas lister/ne pas se lister",
+	"indicatif": {
+		"présent": {
+			"je": "liste",
+			"tu": "listes",
+			"il/elle": "liste",
+			"nous": "listons",
+			"vous": "listez",
+			"ils/elles": "listent"
+		},
+		"imparfait": {
+			"je": "listais",
+			"tu": "listais",
+			"il/elle": "listait",
+			"nous": "listions",
+			"vous": "listiez",
+			"ils/elles": "listaient"
+		},
+		"futur": {
+			"je": "listerai",
+			"tu": "listeras",
+			"il/elle": "listera",
+			"nous": "listerons",
+			"vous": "listerez",
+			"ils/elles": "listeront"
+		},
+		"passé simple": {
+			"je": "listai",
+			"tu": "listas",
+			"il/elle": "lista",
+			"nous": "listâmes",
+			"vous": "listâtes",
+			"ils/elles": "listèrent"
+		},
+		"passé composé": {
+			"j'": "ai listé",
+			"tu": "as listé",
+			"il/elle": "a listé",
+			"nous": "avons listé",
+			"vous": "avez listé",
+			"ils/elles": "ont listé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais listé",
+			"tu": "avais listé",
+			"il/elle": "avait listé",
+			"nous": "avions listé",
+			"vous": "aviez listé",
+			"ils/elles": "avaient listé"
+		},
+		"passé antérieur": {
+			"j'": "eus listé",
+			"tu": "eus listé",
+			"il/elle": "eut listé",
+			"nous": "eûmes listé",
+			"vous": "eûtes listé",
+			"ils/elles": "eurent listé"
+		},
+		"futur antérieur": {
+			"j'": "aurai listé",
+			"tu": "auras listé",
+			"il/elle": "aura listé",
+			"nous": "aurons listé",
+			"vous": "aurez listé",
+			"ils/elles": "auront listé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous listiez",
+			"qu'il/elle": "liste",
+			"qu'ils/elles": "listent"
+		},
+		"imparfait": {
+			"que": "vous listassiez",
+			"qu'il/elle": "listât",
+			"qu'ils/elles": "listassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse listé",
+			"que": "vous eussiez listé",
+			"qu'il/elle": "eût listé",
+			"qu'ils/elles": "eussent listé"
+		},
+		"passé": {
+			"j'": "aie listé",
+			"que": "vous ayez listé",
+			"qu'il/elle": "ait listé",
+			"qu'ils/elles": "aient listé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "listerais",
+			"tu": "listerais",
+			"il/elle": "listerait",
+			"nous": "listerions",
+			"vous": "listeriez",
+			"ils/elles": "listeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais listé",
+			"tu": "aurais listé",
+			"il/elle": "aurait listé",
+			"nous": "aurions listé",
+			"vous": "auriez listé",
+			"ils/elles": "auraient listé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse listé",
+			"tu": "eusses listé",
+			"il/elle": "eût listé",
+			"nous": "eussions listé",
+			"vous": "eussiez listé",
+			"ils/elles": "eussent listé"
+		}
+	},
+	"participe": {
+		"présent": { "listant": "" },
+		"passé composé": { "ayant": "listé" },
+		"passé": {
+			"masc.sg.:": "listé",
+			"masc.pl.:": "listés",
+			"fém.sg.:": "listée",
+			"fém.pl.:": "listées"
+		}
+	},
+	"imperatif": {
+		"présent": { "liste": "", "listons": "", "listez": "" },
+		"passé": { "aie": "listé", "ayons": "listé", "ayez": "listé" }
+	},
+	"infinitif": { "présent": { "lister": "" }, "passé": { "avoir": "listé" } }
+}

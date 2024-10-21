@@ -1,0 +1,143 @@
+{
+	"name": "historier",
+	"definition": "",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'historier/ne pas historier/ne pas s'historier",
+	"indicatif": {
+		"présent": {
+			"j'": "historie",
+			"tu": "histories",
+			"il/elle": "historie",
+			"nous": "historions",
+			"vous": "historiez",
+			"ils/elles": "historient"
+		},
+		"imparfait": {
+			"j'": "historiais",
+			"tu": "historiais",
+			"il/elle": "historiait",
+			"nous": "historiions",
+			"vous": "historiiez",
+			"ils/elles": "historiaient"
+		},
+		"futur": {
+			"j'": "historierai",
+			"tu": "historieras",
+			"il/elle": "historiera",
+			"nous": "historierons",
+			"vous": "historierez",
+			"ils/elles": "historieront"
+		},
+		"passé simple": {
+			"j'": "historiai",
+			"tu": "historias",
+			"il/elle": "historia",
+			"nous": "historiâmes",
+			"vous": "historiâtes",
+			"ils/elles": "historièrent"
+		},
+		"passé composé": {
+			"j'": "ai historié",
+			"tu": "as historié",
+			"il/elle": "a historié",
+			"nous": "avons historié",
+			"vous": "avez historié",
+			"ils/elles": "ont historié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais historié",
+			"tu": "avais historié",
+			"il/elle": "avait historié",
+			"nous": "avions historié",
+			"vous": "aviez historié",
+			"ils/elles": "avaient historié"
+		},
+		"passé antérieur": {
+			"j'": "eus historié",
+			"tu": "eus historié",
+			"il/elle": "eut historié",
+			"nous": "eûmes historié",
+			"vous": "eûtes historié",
+			"ils/elles": "eurent historié"
+		},
+		"futur antérieur": {
+			"j'": "aurai historié",
+			"tu": "auras historié",
+			"il/elle": "aura historié",
+			"nous": "aurons historié",
+			"vous": "aurez historié",
+			"ils/elles": "auront historié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "historie",
+			"que": "vous historiiez",
+			"qu'il/elle": "historie",
+			"qu'ils/elles": "historient"
+		},
+		"imparfait": {
+			"j'": "historiasse",
+			"que": "vous historiassiez",
+			"qu'il/elle": "historiât",
+			"qu'ils/elles": "historiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse historié",
+			"que": "vous eussiez historié",
+			"qu'il/elle": "eût historié",
+			"qu'ils/elles": "eussent historié"
+		},
+		"passé": {
+			"j'": "aie historié",
+			"que": "vous ayez historié",
+			"qu'il/elle": "ait historié",
+			"qu'ils/elles": "aient historié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "historierais",
+			"tu": "historierais",
+			"il/elle": "historierait",
+			"nous": "historierions",
+			"vous": "historieriez",
+			"ils/elles": "historieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais historié",
+			"tu": "aurais historié",
+			"il/elle": "aurait historié",
+			"nous": "aurions historié",
+			"vous": "auriez historié",
+			"ils/elles": "auraient historié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse historié",
+			"tu": "eusses historié",
+			"il/elle": "eût historié",
+			"nous": "eussions historié",
+			"vous": "eussiez historié",
+			"ils/elles": "eussent historié"
+		}
+	},
+	"participe": {
+		"présent": { "historiant": "" },
+		"passé composé": { "ayant": "historié" },
+		"passé": {
+			"masc.sg.:": "historié",
+			"masc.pl.:": "historiés",
+			"fém.sg.:": "historiée",
+			"fém.pl.:": "historiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "historie": "", "historions": "", "historiez": "" },
+		"passé": { "aie": "historié", "ayons": "historié", "ayez": "historié" }
+	},
+	"infinitif": {
+		"présent": { "historier": "" },
+		"passé": { "avoir": "historié" }
+	}
+}

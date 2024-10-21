@@ -1,0 +1,141 @@
+{
+	"name": "mouiller",
+	"definition": "wet; get wet; moisten; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se mouiller/ne pas mouiller/ne pas se mouiller",
+	"indicatif": {
+		"présent": {
+			"je": "mouille",
+			"tu": "mouilles",
+			"il/elle": "mouille",
+			"nous": "mouillons",
+			"vous": "mouillez",
+			"ils/elles": "mouillent"
+		},
+		"imparfait": {
+			"je": "mouillais",
+			"tu": "mouillais",
+			"il/elle": "mouillait",
+			"nous": "mouillions",
+			"vous": "mouilliez",
+			"ils/elles": "mouillaient"
+		},
+		"futur": {
+			"je": "mouillerai",
+			"tu": "mouilleras",
+			"il/elle": "mouillera",
+			"nous": "mouillerons",
+			"vous": "mouillerez",
+			"ils/elles": "mouilleront"
+		},
+		"passé simple": {
+			"je": "mouillai",
+			"tu": "mouillas",
+			"il/elle": "mouilla",
+			"nous": "mouillâmes",
+			"vous": "mouillâtes",
+			"ils/elles": "mouillèrent"
+		},
+		"passé composé": {
+			"j'": "ai mouillé",
+			"tu": "as mouillé",
+			"il/elle": "a mouillé",
+			"nous": "avons mouillé",
+			"vous": "avez mouillé",
+			"ils/elles": "ont mouillé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais mouillé",
+			"tu": "avais mouillé",
+			"il/elle": "avait mouillé",
+			"nous": "avions mouillé",
+			"vous": "aviez mouillé",
+			"ils/elles": "avaient mouillé"
+		},
+		"passé antérieur": {
+			"j'": "eus mouillé",
+			"tu": "eus mouillé",
+			"il/elle": "eut mouillé",
+			"nous": "eûmes mouillé",
+			"vous": "eûtes mouillé",
+			"ils/elles": "eurent mouillé"
+		},
+		"futur antérieur": {
+			"j'": "aurai mouillé",
+			"tu": "auras mouillé",
+			"il/elle": "aura mouillé",
+			"nous": "aurons mouillé",
+			"vous": "aurez mouillé",
+			"ils/elles": "auront mouillé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous mouilliez",
+			"qu'il/elle": "mouille",
+			"qu'ils/elles": "mouillent"
+		},
+		"imparfait": {
+			"que": "vous mouillassiez",
+			"qu'il/elle": "mouillât",
+			"qu'ils/elles": "mouillassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse mouillé",
+			"que": "vous eussiez mouillé",
+			"qu'il/elle": "eût mouillé",
+			"qu'ils/elles": "eussent mouillé"
+		},
+		"passé": {
+			"j'": "aie mouillé",
+			"que": "vous ayez mouillé",
+			"qu'il/elle": "ait mouillé",
+			"qu'ils/elles": "aient mouillé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "mouillerais",
+			"tu": "mouillerais",
+			"il/elle": "mouillerait",
+			"nous": "mouillerions",
+			"vous": "mouilleriez",
+			"ils/elles": "mouilleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais mouillé",
+			"tu": "aurais mouillé",
+			"il/elle": "aurait mouillé",
+			"nous": "aurions mouillé",
+			"vous": "auriez mouillé",
+			"ils/elles": "auraient mouillé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse mouillé",
+			"tu": "eusses mouillé",
+			"il/elle": "eût mouillé",
+			"nous": "eussions mouillé",
+			"vous": "eussiez mouillé",
+			"ils/elles": "eussent mouillé"
+		}
+	},
+	"participe": {
+		"présent": { "mouillant": "" },
+		"passé composé": { "ayant": "mouillé" },
+		"passé": {
+			"masc.sg.:": "mouillé",
+			"masc.pl.:": "mouillés",
+			"fém.sg.:": "mouillée",
+			"fém.pl.:": "mouillées"
+		}
+	},
+	"imperatif": {
+		"présent": { "mouille": "", "mouillons": "", "mouillez": "" },
+		"passé": { "aie": "mouillé", "ayons": "mouillé", "ayez": "mouillé" }
+	},
+	"infinitif": {
+		"présent": { "mouiller": "" },
+		"passé": { "avoir": "mouillé" }
+	}
+}

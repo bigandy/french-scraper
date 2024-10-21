@@ -1,0 +1,143 @@
+{
+	"name": "ajourner",
+	"definition": "adjourn; postpone; defer; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'ajourner/ne pas ajourner/ne pas s'ajourner",
+	"indicatif": {
+		"présent": {
+			"j'": "ajourne",
+			"tu": "ajournes",
+			"il/elle": "ajourne",
+			"nous": "ajournons",
+			"vous": "ajournez",
+			"ils/elles": "ajournent"
+		},
+		"imparfait": {
+			"j'": "ajournais",
+			"tu": "ajournais",
+			"il/elle": "ajournait",
+			"nous": "ajournions",
+			"vous": "ajourniez",
+			"ils/elles": "ajournaient"
+		},
+		"futur": {
+			"j'": "ajournerai",
+			"tu": "ajourneras",
+			"il/elle": "ajournera",
+			"nous": "ajournerons",
+			"vous": "ajournerez",
+			"ils/elles": "ajourneront"
+		},
+		"passé simple": {
+			"j'": "ajournai",
+			"tu": "ajournas",
+			"il/elle": "ajourna",
+			"nous": "ajournâmes",
+			"vous": "ajournâtes",
+			"ils/elles": "ajournèrent"
+		},
+		"passé composé": {
+			"j'": "ai ajourné",
+			"tu": "as ajourné",
+			"il/elle": "a ajourné",
+			"nous": "avons ajourné",
+			"vous": "avez ajourné",
+			"ils/elles": "ont ajourné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais ajourné",
+			"tu": "avais ajourné",
+			"il/elle": "avait ajourné",
+			"nous": "avions ajourné",
+			"vous": "aviez ajourné",
+			"ils/elles": "avaient ajourné"
+		},
+		"passé antérieur": {
+			"j'": "eus ajourné",
+			"tu": "eus ajourné",
+			"il/elle": "eut ajourné",
+			"nous": "eûmes ajourné",
+			"vous": "eûtes ajourné",
+			"ils/elles": "eurent ajourné"
+		},
+		"futur antérieur": {
+			"j'": "aurai ajourné",
+			"tu": "auras ajourné",
+			"il/elle": "aura ajourné",
+			"nous": "aurons ajourné",
+			"vous": "aurez ajourné",
+			"ils/elles": "auront ajourné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "ajourne",
+			"que": "vous ajourniez",
+			"qu'il/elle": "ajourne",
+			"qu'ils/elles": "ajournent"
+		},
+		"imparfait": {
+			"j'": "ajournasse",
+			"que": "vous ajournassiez",
+			"qu'il/elle": "ajournât",
+			"qu'ils/elles": "ajournassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse ajourné",
+			"que": "vous eussiez ajourné",
+			"qu'il/elle": "eût ajourné",
+			"qu'ils/elles": "eussent ajourné"
+		},
+		"passé": {
+			"j'": "aie ajourné",
+			"que": "vous ayez ajourné",
+			"qu'il/elle": "ait ajourné",
+			"qu'ils/elles": "aient ajourné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "ajournerais",
+			"tu": "ajournerais",
+			"il/elle": "ajournerait",
+			"nous": "ajournerions",
+			"vous": "ajourneriez",
+			"ils/elles": "ajourneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais ajourné",
+			"tu": "aurais ajourné",
+			"il/elle": "aurait ajourné",
+			"nous": "aurions ajourné",
+			"vous": "auriez ajourné",
+			"ils/elles": "auraient ajourné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse ajourné",
+			"tu": "eusses ajourné",
+			"il/elle": "eût ajourné",
+			"nous": "eussions ajourné",
+			"vous": "eussiez ajourné",
+			"ils/elles": "eussent ajourné"
+		}
+	},
+	"participe": {
+		"présent": { "ajournant": "" },
+		"passé composé": { "ayant": "ajourné" },
+		"passé": {
+			"masc.sg.:": "ajourné",
+			"masc.pl.:": "ajournés",
+			"fém.sg.:": "ajournée",
+			"fém.pl.:": "ajournées"
+		}
+	},
+	"imperatif": {
+		"présent": { "ajourne": "", "ajournons": "", "ajournez": "" },
+		"passé": { "aie": "ajourné", "ayons": "ajourné", "ayez": "ajourné" }
+	},
+	"infinitif": {
+		"présent": { "ajourner": "" },
+		"passé": { "avoir": "ajourné" }
+	}
+}

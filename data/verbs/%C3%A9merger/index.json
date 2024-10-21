@@ -1,0 +1,140 @@
+{
+	"name": "émerger",
+	"definition": "emerge; arise; appear; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas émerger",
+	"indicatif": {
+		"présent": {
+			"j'": "émerge",
+			"tu": "émerges",
+			"il/elle": "émerge",
+			"nous": "émergeons",
+			"vous": "émergez",
+			"ils/elles": "émergent"
+		},
+		"imparfait": {
+			"j'": "émergeais",
+			"tu": "émergeais",
+			"il/elle": "émergeait",
+			"nous": "émergions",
+			"vous": "émergiez",
+			"ils/elles": "émergeaient"
+		},
+		"futur": {
+			"j'": "émergerai",
+			"tu": "émergeras",
+			"il/elle": "émergera",
+			"nous": "émergerons",
+			"vous": "émergerez",
+			"ils/elles": "émergeront"
+		},
+		"passé simple": {
+			"j'": "émergeai",
+			"tu": "émergeas",
+			"il/elle": "émergea",
+			"nous": "émergeâmes",
+			"vous": "émergeâtes",
+			"ils/elles": "émergèrent"
+		},
+		"passé composé": {
+			"j'": "ai émergé",
+			"tu": "as émergé",
+			"il/elle": "a émergé",
+			"nous": "avons émergé",
+			"vous": "avez émergé",
+			"ils/elles": "ont émergé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais émergé",
+			"tu": "avais émergé",
+			"il/elle": "avait émergé",
+			"nous": "avions émergé",
+			"vous": "aviez émergé",
+			"ils/elles": "avaient émergé"
+		},
+		"passé antérieur": {
+			"j'": "eus émergé",
+			"tu": "eus émergé",
+			"il/elle": "eut émergé",
+			"nous": "eûmes émergé",
+			"vous": "eûtes émergé",
+			"ils/elles": "eurent émergé"
+		},
+		"futur antérieur": {
+			"j'": "aurai émergé",
+			"tu": "auras émergé",
+			"il/elle": "aura émergé",
+			"nous": "aurons émergé",
+			"vous": "aurez émergé",
+			"ils/elles": "auront émergé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "émerge",
+			"que": "vous émergiez",
+			"qu'il/elle": "émerge",
+			"qu'ils/elles": "émergent"
+		},
+		"imparfait": {
+			"j'": "émergeasse",
+			"que": "vous émergeassiez",
+			"qu'il/elle": "émergeât",
+			"qu'ils/elles": "émergeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse émergé",
+			"que": "vous eussiez émergé",
+			"qu'il/elle": "eût émergé",
+			"qu'ils/elles": "eussent émergé"
+		},
+		"passé": {
+			"j'": "aie émergé",
+			"que": "vous ayez émergé",
+			"qu'il/elle": "ait émergé",
+			"qu'ils/elles": "aient émergé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "émergerais",
+			"tu": "émergerais",
+			"il/elle": "émergerait",
+			"nous": "émergerions",
+			"vous": "émergeriez",
+			"ils/elles": "émergeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais émergé",
+			"tu": "aurais émergé",
+			"il/elle": "aurait émergé",
+			"nous": "aurions émergé",
+			"vous": "auriez émergé",
+			"ils/elles": "auraient émergé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse émergé",
+			"tu": "eusses émergé",
+			"il/elle": "eût émergé",
+			"nous": "eussions émergé",
+			"vous": "eussiez émergé",
+			"ils/elles": "eussent émergé"
+		}
+	},
+	"participe": {
+		"présent": { "émergeant": "" },
+		"passé composé": { "ayant": "émergé" },
+		"passé": {
+			"masc.sg.:": "émergé",
+			"masc.pl.:": "émergés",
+			"fém.sg.:": "émergée",
+			"fém.pl.:": "émergées"
+		}
+	},
+	"imperatif": {
+		"présent": { "émerge": "", "émergeons": "", "émergez": "" },
+		"passé": { "aie": "émergé", "ayons": "émergé", "ayez": "émergé" }
+	},
+	"infinitif": { "présent": { "émerger": "" }, "passé": { "avoir": "émergé" } }
+}

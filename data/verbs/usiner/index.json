@@ -1,0 +1,140 @@
+{
+	"name": "usiner",
+	"definition": "machine; manufacture; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'usiner/ne pas usiner/ne pas s'usiner",
+	"indicatif": {
+		"présent": {
+			"j'": "usine",
+			"tu": "usines",
+			"il/elle": "usine",
+			"nous": "usinons",
+			"vous": "usinez",
+			"ils/elles": "usinent"
+		},
+		"imparfait": {
+			"j'": "usinais",
+			"tu": "usinais",
+			"il/elle": "usinait",
+			"nous": "usinions",
+			"vous": "usiniez",
+			"ils/elles": "usinaient"
+		},
+		"futur": {
+			"j'": "usinerai",
+			"tu": "usineras",
+			"il/elle": "usinera",
+			"nous": "usinerons",
+			"vous": "usinerez",
+			"ils/elles": "usineront"
+		},
+		"passé simple": {
+			"j'": "usinai",
+			"tu": "usinas",
+			"il/elle": "usina",
+			"nous": "usinâmes",
+			"vous": "usinâtes",
+			"ils/elles": "usinèrent"
+		},
+		"passé composé": {
+			"j'": "ai usiné",
+			"tu": "as usiné",
+			"il/elle": "a usiné",
+			"nous": "avons usiné",
+			"vous": "avez usiné",
+			"ils/elles": "ont usiné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais usiné",
+			"tu": "avais usiné",
+			"il/elle": "avait usiné",
+			"nous": "avions usiné",
+			"vous": "aviez usiné",
+			"ils/elles": "avaient usiné"
+		},
+		"passé antérieur": {
+			"j'": "eus usiné",
+			"tu": "eus usiné",
+			"il/elle": "eut usiné",
+			"nous": "eûmes usiné",
+			"vous": "eûtes usiné",
+			"ils/elles": "eurent usiné"
+		},
+		"futur antérieur": {
+			"j'": "aurai usiné",
+			"tu": "auras usiné",
+			"il/elle": "aura usiné",
+			"nous": "aurons usiné",
+			"vous": "aurez usiné",
+			"ils/elles": "auront usiné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "usine",
+			"que": "vous usiniez",
+			"qu'il/elle": "usine",
+			"qu'ils/elles": "usinent"
+		},
+		"imparfait": {
+			"j'": "usinasse",
+			"que": "vous usinassiez",
+			"qu'il/elle": "usinât",
+			"qu'ils/elles": "usinassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse usiné",
+			"que": "vous eussiez usiné",
+			"qu'il/elle": "eût usiné",
+			"qu'ils/elles": "eussent usiné"
+		},
+		"passé": {
+			"j'": "aie usiné",
+			"que": "vous ayez usiné",
+			"qu'il/elle": "ait usiné",
+			"qu'ils/elles": "aient usiné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "usinerais",
+			"tu": "usinerais",
+			"il/elle": "usinerait",
+			"nous": "usinerions",
+			"vous": "usineriez",
+			"ils/elles": "usineraient"
+		},
+		"passé première forme": {
+			"j'": "aurais usiné",
+			"tu": "aurais usiné",
+			"il/elle": "aurait usiné",
+			"nous": "aurions usiné",
+			"vous": "auriez usiné",
+			"ils/elles": "auraient usiné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse usiné",
+			"tu": "eusses usiné",
+			"il/elle": "eût usiné",
+			"nous": "eussions usiné",
+			"vous": "eussiez usiné",
+			"ils/elles": "eussent usiné"
+		}
+	},
+	"participe": {
+		"présent": { "usinant": "" },
+		"passé composé": { "ayant": "usiné" },
+		"passé": {
+			"masc.sg.:": "usiné",
+			"masc.pl.:": "usinés",
+			"fém.sg.:": "usinée",
+			"fém.pl.:": "usinées"
+		}
+	},
+	"imperatif": {
+		"présent": { "usine": "", "usinons": "", "usinez": "" },
+		"passé": { "aie": "usiné", "ayons": "usiné", "ayez": "usiné" }
+	},
+	"infinitif": { "présent": { "usiner": "" }, "passé": { "avoir": "usiné" } }
+}

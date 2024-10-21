@@ -1,0 +1,145 @@
+{
+	"name": "polymériser",
+	"definition": "polymerize; cure; polymerise; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se polymériser/ne pas polymériser/ne pas se polymériser",
+	"indicatif": {
+		"présent": {
+			"je": "polymérise",
+			"tu": "polymérises",
+			"il/elle": "polymérise",
+			"nous": "polymérisons",
+			"vous": "polymérisez",
+			"ils/elles": "polymérisent"
+		},
+		"imparfait": {
+			"je": "polymérisais",
+			"tu": "polymérisais",
+			"il/elle": "polymérisait",
+			"nous": "polymérisions",
+			"vous": "polymérisiez",
+			"ils/elles": "polymérisaient"
+		},
+		"futur": {
+			"je": "polymériserai",
+			"tu": "polymériseras",
+			"il/elle": "polymérisera",
+			"nous": "polymériserons",
+			"vous": "polymériserez",
+			"ils/elles": "polymériseront"
+		},
+		"passé simple": {
+			"je": "polymérisai",
+			"tu": "polymérisas",
+			"il/elle": "polymérisa",
+			"nous": "polymérisâmes",
+			"vous": "polymérisâtes",
+			"ils/elles": "polymérisèrent"
+		},
+		"passé composé": {
+			"j'": "ai polymérisé",
+			"tu": "as polymérisé",
+			"il/elle": "a polymérisé",
+			"nous": "avons polymérisé",
+			"vous": "avez polymérisé",
+			"ils/elles": "ont polymérisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais polymérisé",
+			"tu": "avais polymérisé",
+			"il/elle": "avait polymérisé",
+			"nous": "avions polymérisé",
+			"vous": "aviez polymérisé",
+			"ils/elles": "avaient polymérisé"
+		},
+		"passé antérieur": {
+			"j'": "eus polymérisé",
+			"tu": "eus polymérisé",
+			"il/elle": "eut polymérisé",
+			"nous": "eûmes polymérisé",
+			"vous": "eûtes polymérisé",
+			"ils/elles": "eurent polymérisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai polymérisé",
+			"tu": "auras polymérisé",
+			"il/elle": "aura polymérisé",
+			"nous": "aurons polymérisé",
+			"vous": "aurez polymérisé",
+			"ils/elles": "auront polymérisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous polymérisiez",
+			"qu'il/elle": "polymérise",
+			"qu'ils/elles": "polymérisent"
+		},
+		"imparfait": {
+			"que": "vous polymérisassiez",
+			"qu'il/elle": "polymérisât",
+			"qu'ils/elles": "polymérisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse polymérisé",
+			"que": "vous eussiez polymérisé",
+			"qu'il/elle": "eût polymérisé",
+			"qu'ils/elles": "eussent polymérisé"
+		},
+		"passé": {
+			"j'": "aie polymérisé",
+			"que": "vous ayez polymérisé",
+			"qu'il/elle": "ait polymérisé",
+			"qu'ils/elles": "aient polymérisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "polymériserais",
+			"tu": "polymériserais",
+			"il/elle": "polymériserait",
+			"nous": "polymériserions",
+			"vous": "polymériseriez",
+			"ils/elles": "polymériseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais polymérisé",
+			"tu": "aurais polymérisé",
+			"il/elle": "aurait polymérisé",
+			"nous": "aurions polymérisé",
+			"vous": "auriez polymérisé",
+			"ils/elles": "auraient polymérisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse polymérisé",
+			"tu": "eusses polymérisé",
+			"il/elle": "eût polymérisé",
+			"nous": "eussions polymérisé",
+			"vous": "eussiez polymérisé",
+			"ils/elles": "eussent polymérisé"
+		}
+	},
+	"participe": {
+		"présent": { "polymérisant": "" },
+		"passé composé": { "ayant": "polymérisé" },
+		"passé": {
+			"masc.sg.:": "polymérisé",
+			"masc.pl.:": "polymérisés",
+			"fém.sg.:": "polymérisée",
+			"fém.pl.:": "polymérisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "polymérise": "", "polymérisons": "", "polymérisez": "" },
+		"passé": {
+			"aie": "polymérisé",
+			"ayons": "polymérisé",
+			"ayez": "polymérisé"
+		}
+	},
+	"infinitif": {
+		"présent": { "polymériser": "" },
+		"passé": { "avoir": "polymérisé" }
+	}
+}

@@ -1,0 +1,194 @@
+{
+	"name": "divorcer",
+	"definition": "\n              divorce; get divorced; get a divorce; ...\n            ",
+	"model": "commencer",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "ne pas divorcer",
+	"indicatif": {
+		"présent": {
+			"je": "divorce",
+			"tu": "divorces",
+			"il/elle": "divorce",
+			"nous": "divorçons",
+			"vous": "divorcez",
+			"ils/elles": "divorcent"
+		},
+		"imparfait": {
+			"je": "divorçais",
+			"tu": "divorçais",
+			"il/elle": "divorçait",
+			"nous": "divorcions",
+			"vous": "divorciez",
+			"ils/elles": "divorçaient"
+		},
+		"futur": {
+			"je": "divorcerai",
+			"tu": "divorceras",
+			"il/elle": "divorcera",
+			"nous": "divorcerons",
+			"vous": "divorcerez",
+			"ils/elles": "divorceront"
+		},
+		"passé simple": {
+			"je": "divorçai",
+			"tu": "divorças",
+			"il/elle": "divorça",
+			"nous": "divorçâmes",
+			"vous": "divorçâtes",
+			"ils/elles": "divorcèrent"
+		},
+		"passé composé": {
+			"j'": "ai divorcé",
+			"tu": "es divorcé",
+			"il/elle": "a divorcé",
+			"nous": "sommes divorcés",
+			"vous": "êtes divorcés",
+			"ils/elles": "ont divorcé",
+			"": "",
+			"je": "suis divorcé",
+			"il": "est divorcé",
+			"elle": "est divorcée",
+			"ils": "sont divorcés",
+			"elles": "sont divorcées"
+		},
+		"plus-que-parfait": {
+			"j'": "étais divorcé",
+			"tu": "étais divorcé",
+			"il/elle": "avait divorcé",
+			"nous": "étions divorcés",
+			"vous": "étiez divorcés",
+			"ils/elles": "avaient divorcé",
+			"": "",
+			"il": "était divorcé",
+			"elle": "était divorcée",
+			"ils": "étaient divorcés",
+			"elles": "étaient divorcées"
+		},
+		"passé antérieur": {
+			"j'": "eus divorcé",
+			"tu": "fus divorcé",
+			"il/elle": "eut divorcé",
+			"nous": "fûmes divorcés",
+			"vous": "fûtes divorcés",
+			"ils/elles": "eurent divorcé",
+			"": "",
+			"je": "fus divorcé",
+			"il": "fut divorcé",
+			"elle": "fut divorcée",
+			"ils": "furent divorcés",
+			"elles": "furent divorcées"
+		},
+		"futur antérieur": {
+			"j'": "aurai divorcé",
+			"tu": "seras divorcé",
+			"il/elle": "aura divorcé",
+			"nous": "serons divorcés",
+			"vous": "serez divorcés",
+			"ils/elles": "auront divorcé",
+			"": "",
+			"je": "serai divorcé",
+			"il": "sera divorcé",
+			"elle": "sera divorcée",
+			"ils": "seront divorcés",
+			"elles": "seront divorcées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous divorciez",
+			"qu'il/elle": "divorce",
+			"qu'ils/elles": "divorcent"
+		},
+		"imparfait": {
+			"que": "vous divorçassiez",
+			"qu'il/elle": "divorçât",
+			"qu'ils/elles": "divorçassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse divorcé",
+			"que": "vous fussiez divorcés",
+			"qu'il/elle": "eût divorcé",
+			"qu'ils/elles": "eussent divorcé",
+			"": "",
+			"qu'il": "fût divorcé",
+			"qu'elle": "fût divorcée",
+			"qu'ils": "fussent divorcés",
+			"qu'elles": "fussent divorcées"
+		},
+		"passé": {
+			"j'": "aie divorcé",
+			"que": "vous soyez divorcés",
+			"qu'il/elle": "ait divorcé",
+			"qu'ils/elles": "aient divorcé",
+			"": "",
+			"qu'il": "soit divorcé",
+			"qu'elle": "soit divorcée",
+			"qu'ils": "soient divorcés",
+			"qu'elles": "soient divorcées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "divorcerais",
+			"tu": "divorcerais",
+			"il/elle": "divorcerait",
+			"nous": "divorcerions",
+			"vous": "divorceriez",
+			"ils/elles": "divorceraient"
+		},
+		"passé première forme": {
+			"j'": "aurais divorcé",
+			"tu": "serais divorcé",
+			"il/elle": "aurait divorcé",
+			"nous": "serions divorcés",
+			"vous": "seriez divorcés",
+			"ils/elles": "auraient divorcé",
+			"": "",
+			"je": "serais divorcé",
+			"il": "serait divorcé",
+			"elle": "serait divorcée",
+			"ils": "seraient divorcés",
+			"elles": "seraient divorcées"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse divorcé",
+			"tu": "fusses divorcé",
+			"il/elle": "eût divorcé",
+			"nous": "fussions divorcés",
+			"vous": "fussiez divorcés",
+			"ils/elles": "eussent divorcé",
+			"": "",
+			"je": "fusse divorcé",
+			"il": "fût divorcé",
+			"elle": "fût divorcée",
+			"ils": "fussent divorcés",
+			"elles": "fussent divorcées"
+		}
+	},
+	"participe": {
+		"présent": { "divorçant": "" },
+		"passé composé": { "ayant": "divorcé", "": "", "étant": "divorcée" },
+		"passé": {
+			"masc.sg.:": "divorcé",
+			"masc.pl.:": "divorcés",
+			"fém.sg.:": "divorcée",
+			"fém.pl.:": "divorcées"
+		}
+	},
+	"imperatif": {
+		"présent": { "divorce": "", "divorçons": "", "divorcez": "" },
+		"passé": {
+			"aie": "divorcé",
+			"ayons": "divorcé",
+			"ayez": "divorcé",
+			"": "",
+			"sois": "divorcé",
+			"soyons": "divorcé",
+			"soyez": "divorcé"
+		}
+	},
+	"infinitif": {
+		"présent": { "divorcer": "" },
+		"passé": { "avoir": "divorcé", "": "", "être": "divorcé" }
+	}
+}

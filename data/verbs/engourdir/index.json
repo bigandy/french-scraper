@@ -1,0 +1,143 @@
+{
+	"name": "engourdir",
+	"definition": "numb; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "s'engourdir/ne pas engourdir/ne pas s'engourdir",
+	"indicatif": {
+		"présent": {
+			"j'": "engourdis",
+			"tu": "engourdis",
+			"il/elle": "engourdit",
+			"nous": "engourdissons",
+			"vous": "engourdissez",
+			"ils/elles": "engourdissent"
+		},
+		"imparfait": {
+			"j'": "engourdissais",
+			"tu": "engourdissais",
+			"il/elle": "engourdissait",
+			"nous": "engourdissions",
+			"vous": "engourdissiez",
+			"ils/elles": "engourdissaient"
+		},
+		"futur": {
+			"j'": "engourdirai",
+			"tu": "engourdiras",
+			"il/elle": "engourdira",
+			"nous": "engourdirons",
+			"vous": "engourdirez",
+			"ils/elles": "engourdiront"
+		},
+		"passé simple": {
+			"j'": "engourdis",
+			"tu": "engourdis",
+			"il/elle": "engourdit",
+			"nous": "engourdîmes",
+			"vous": "engourdîtes",
+			"ils/elles": "engourdirent"
+		},
+		"passé composé": {
+			"j'": "ai engourdi",
+			"tu": "as engourdi",
+			"il/elle": "a engourdi",
+			"nous": "avons engourdi",
+			"vous": "avez engourdi",
+			"ils/elles": "ont engourdi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais engourdi",
+			"tu": "avais engourdi",
+			"il/elle": "avait engourdi",
+			"nous": "avions engourdi",
+			"vous": "aviez engourdi",
+			"ils/elles": "avaient engourdi"
+		},
+		"passé antérieur": {
+			"j'": "eus engourdi",
+			"tu": "eus engourdi",
+			"il/elle": "eut engourdi",
+			"nous": "eûmes engourdi",
+			"vous": "eûtes engourdi",
+			"ils/elles": "eurent engourdi"
+		},
+		"futur antérieur": {
+			"j'": "aurai engourdi",
+			"tu": "auras engourdi",
+			"il/elle": "aura engourdi",
+			"nous": "aurons engourdi",
+			"vous": "aurez engourdi",
+			"ils/elles": "auront engourdi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "engourdisse",
+			"que": "vous engourdissiez",
+			"qu'il/elle": "engourdisse",
+			"qu'ils/elles": "engourdissent"
+		},
+		"imparfait": {
+			"j'": "engourdisse",
+			"que": "vous engourdissiez",
+			"qu'il/elle": "engourdît",
+			"qu'ils/elles": "engourdissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse engourdi",
+			"que": "vous eussiez engourdi",
+			"qu'il/elle": "eût engourdi",
+			"qu'ils/elles": "eussent engourdi"
+		},
+		"passé": {
+			"j'": "aie engourdi",
+			"que": "vous ayez engourdi",
+			"qu'il/elle": "ait engourdi",
+			"qu'ils/elles": "aient engourdi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "engourdirais",
+			"tu": "engourdirais",
+			"il/elle": "engourdirait",
+			"nous": "engourdirions",
+			"vous": "engourdiriez",
+			"ils/elles": "engourdiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais engourdi",
+			"tu": "aurais engourdi",
+			"il/elle": "aurait engourdi",
+			"nous": "aurions engourdi",
+			"vous": "auriez engourdi",
+			"ils/elles": "auraient engourdi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse engourdi",
+			"tu": "eusses engourdi",
+			"il/elle": "eût engourdi",
+			"nous": "eussions engourdi",
+			"vous": "eussiez engourdi",
+			"ils/elles": "eussent engourdi"
+		}
+	},
+	"participe": {
+		"présent": { "engourdissant": "" },
+		"passé composé": { "ayant": "engourdi" },
+		"passé": {
+			"masc.sg.:": "engourdi",
+			"masc.pl.:": "engourdis",
+			"fém.sg.:": "engourdie",
+			"fém.pl.:": "engourdies"
+		}
+	},
+	"imperatif": {
+		"présent": { "engourdis": "", "engourdissons": "", "engourdissez": "" },
+		"passé": { "aie": "engourdi", "ayons": "engourdi", "ayez": "engourdi" }
+	},
+	"infinitif": {
+		"présent": { "engourdir": "" },
+		"passé": { "avoir": "engourdi" }
+	}
+}

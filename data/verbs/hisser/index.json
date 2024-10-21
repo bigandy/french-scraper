@@ -1,0 +1,138 @@
+{
+	"name": "hisser",
+	"definition": "hoist; raise; climb; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se hisser/ne pas hisser/ne pas se hisser",
+	"indicatif": {
+		"présent": {
+			"je": "hisse",
+			"tu": "hisses",
+			"il/elle": "hisse",
+			"nous": "hissons",
+			"vous": "hissez",
+			"ils/elles": "hissent"
+		},
+		"imparfait": {
+			"je": "hissais",
+			"tu": "hissais",
+			"il/elle": "hissait",
+			"nous": "hissions",
+			"vous": "hissiez",
+			"ils/elles": "hissaient"
+		},
+		"futur": {
+			"je": "hisserai",
+			"tu": "hisseras",
+			"il/elle": "hissera",
+			"nous": "hisserons",
+			"vous": "hisserez",
+			"ils/elles": "hisseront"
+		},
+		"passé simple": {
+			"je": "hissai",
+			"tu": "hissas",
+			"il/elle": "hissa",
+			"nous": "hissâmes",
+			"vous": "hissâtes",
+			"ils/elles": "hissèrent"
+		},
+		"passé composé": {
+			"j'": "ai hissé",
+			"tu": "as hissé",
+			"il/elle": "a hissé",
+			"nous": "avons hissé",
+			"vous": "avez hissé",
+			"ils/elles": "ont hissé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais hissé",
+			"tu": "avais hissé",
+			"il/elle": "avait hissé",
+			"nous": "avions hissé",
+			"vous": "aviez hissé",
+			"ils/elles": "avaient hissé"
+		},
+		"passé antérieur": {
+			"j'": "eus hissé",
+			"tu": "eus hissé",
+			"il/elle": "eut hissé",
+			"nous": "eûmes hissé",
+			"vous": "eûtes hissé",
+			"ils/elles": "eurent hissé"
+		},
+		"futur antérieur": {
+			"j'": "aurai hissé",
+			"tu": "auras hissé",
+			"il/elle": "aura hissé",
+			"nous": "aurons hissé",
+			"vous": "aurez hissé",
+			"ils/elles": "auront hissé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous hissiez",
+			"qu'il/elle": "hisse",
+			"qu'ils/elles": "hissent"
+		},
+		"imparfait": {
+			"que": "vous hissassiez",
+			"qu'il/elle": "hissât",
+			"qu'ils/elles": "hissassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse hissé",
+			"que": "vous eussiez hissé",
+			"qu'il/elle": "eût hissé",
+			"qu'ils/elles": "eussent hissé"
+		},
+		"passé": {
+			"j'": "aie hissé",
+			"que": "vous ayez hissé",
+			"qu'il/elle": "ait hissé",
+			"qu'ils/elles": "aient hissé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "hisserais",
+			"tu": "hisserais",
+			"il/elle": "hisserait",
+			"nous": "hisserions",
+			"vous": "hisseriez",
+			"ils/elles": "hisseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais hissé",
+			"tu": "aurais hissé",
+			"il/elle": "aurait hissé",
+			"nous": "aurions hissé",
+			"vous": "auriez hissé",
+			"ils/elles": "auraient hissé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse hissé",
+			"tu": "eusses hissé",
+			"il/elle": "eût hissé",
+			"nous": "eussions hissé",
+			"vous": "eussiez hissé",
+			"ils/elles": "eussent hissé"
+		}
+	},
+	"participe": {
+		"présent": { "hissant": "" },
+		"passé composé": { "ayant": "hissé" },
+		"passé": {
+			"masc.sg.:": "hissé",
+			"masc.pl.:": "hissés",
+			"fém.sg.:": "hissée",
+			"fém.pl.:": "hissées"
+		}
+	},
+	"imperatif": {
+		"présent": { "hisse": "", "hissons": "", "hissez": "" },
+		"passé": { "aie": "hissé", "ayons": "hissé", "ayez": "hissé" }
+	},
+	"infinitif": { "présent": { "hisser": "" }, "passé": { "avoir": "hissé" } }
+}

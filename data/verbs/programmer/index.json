@@ -1,0 +1,141 @@
+{
+	"name": "programmer",
+	"definition": "program; programme; schedule; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se programmer/ne pas programmer/ne pas se programmer",
+	"indicatif": {
+		"présent": {
+			"je": "programme",
+			"tu": "programmes",
+			"il/elle": "programme",
+			"nous": "programmons",
+			"vous": "programmez",
+			"ils/elles": "programment"
+		},
+		"imparfait": {
+			"je": "programmais",
+			"tu": "programmais",
+			"il/elle": "programmait",
+			"nous": "programmions",
+			"vous": "programmiez",
+			"ils/elles": "programmaient"
+		},
+		"futur": {
+			"je": "programmerai",
+			"tu": "programmeras",
+			"il/elle": "programmera",
+			"nous": "programmerons",
+			"vous": "programmerez",
+			"ils/elles": "programmeront"
+		},
+		"passé simple": {
+			"je": "programmai",
+			"tu": "programmas",
+			"il/elle": "programma",
+			"nous": "programmâmes",
+			"vous": "programmâtes",
+			"ils/elles": "programmèrent"
+		},
+		"passé composé": {
+			"j'": "ai programmé",
+			"tu": "as programmé",
+			"il/elle": "a programmé",
+			"nous": "avons programmé",
+			"vous": "avez programmé",
+			"ils/elles": "ont programmé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais programmé",
+			"tu": "avais programmé",
+			"il/elle": "avait programmé",
+			"nous": "avions programmé",
+			"vous": "aviez programmé",
+			"ils/elles": "avaient programmé"
+		},
+		"passé antérieur": {
+			"j'": "eus programmé",
+			"tu": "eus programmé",
+			"il/elle": "eut programmé",
+			"nous": "eûmes programmé",
+			"vous": "eûtes programmé",
+			"ils/elles": "eurent programmé"
+		},
+		"futur antérieur": {
+			"j'": "aurai programmé",
+			"tu": "auras programmé",
+			"il/elle": "aura programmé",
+			"nous": "aurons programmé",
+			"vous": "aurez programmé",
+			"ils/elles": "auront programmé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous programmiez",
+			"qu'il/elle": "programme",
+			"qu'ils/elles": "programment"
+		},
+		"imparfait": {
+			"que": "vous programmassiez",
+			"qu'il/elle": "programmât",
+			"qu'ils/elles": "programmassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse programmé",
+			"que": "vous eussiez programmé",
+			"qu'il/elle": "eût programmé",
+			"qu'ils/elles": "eussent programmé"
+		},
+		"passé": {
+			"j'": "aie programmé",
+			"que": "vous ayez programmé",
+			"qu'il/elle": "ait programmé",
+			"qu'ils/elles": "aient programmé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "programmerais",
+			"tu": "programmerais",
+			"il/elle": "programmerait",
+			"nous": "programmerions",
+			"vous": "programmeriez",
+			"ils/elles": "programmeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais programmé",
+			"tu": "aurais programmé",
+			"il/elle": "aurait programmé",
+			"nous": "aurions programmé",
+			"vous": "auriez programmé",
+			"ils/elles": "auraient programmé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse programmé",
+			"tu": "eusses programmé",
+			"il/elle": "eût programmé",
+			"nous": "eussions programmé",
+			"vous": "eussiez programmé",
+			"ils/elles": "eussent programmé"
+		}
+	},
+	"participe": {
+		"présent": { "programmant": "" },
+		"passé composé": { "ayant": "programmé" },
+		"passé": {
+			"masc.sg.:": "programmé",
+			"masc.pl.:": "programmés",
+			"fém.sg.:": "programmée",
+			"fém.pl.:": "programmées"
+		}
+	},
+	"imperatif": {
+		"présent": { "programme": "", "programmons": "", "programmez": "" },
+		"passé": { "aie": "programmé", "ayons": "programmé", "ayez": "programmé" }
+	},
+	"infinitif": {
+		"présent": { "programmer": "" },
+		"passé": { "avoir": "programmé" }
+	}
+}

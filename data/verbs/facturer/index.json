@@ -1,0 +1,141 @@
+{
+	"name": "facturer",
+	"definition": "charge; bill; invoice; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se facturer/ne pas facturer/ne pas se facturer",
+	"indicatif": {
+		"présent": {
+			"je": "facture",
+			"tu": "factures",
+			"il/elle": "facture",
+			"nous": "facturons",
+			"vous": "facturez",
+			"ils/elles": "facturent"
+		},
+		"imparfait": {
+			"je": "facturais",
+			"tu": "facturais",
+			"il/elle": "facturait",
+			"nous": "facturions",
+			"vous": "facturiez",
+			"ils/elles": "facturaient"
+		},
+		"futur": {
+			"je": "facturerai",
+			"tu": "factureras",
+			"il/elle": "facturera",
+			"nous": "facturerons",
+			"vous": "facturerez",
+			"ils/elles": "factureront"
+		},
+		"passé simple": {
+			"je": "facturai",
+			"tu": "facturas",
+			"il/elle": "factura",
+			"nous": "facturâmes",
+			"vous": "facturâtes",
+			"ils/elles": "facturèrent"
+		},
+		"passé composé": {
+			"j'": "ai facturé",
+			"tu": "as facturé",
+			"il/elle": "a facturé",
+			"nous": "avons facturé",
+			"vous": "avez facturé",
+			"ils/elles": "ont facturé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais facturé",
+			"tu": "avais facturé",
+			"il/elle": "avait facturé",
+			"nous": "avions facturé",
+			"vous": "aviez facturé",
+			"ils/elles": "avaient facturé"
+		},
+		"passé antérieur": {
+			"j'": "eus facturé",
+			"tu": "eus facturé",
+			"il/elle": "eut facturé",
+			"nous": "eûmes facturé",
+			"vous": "eûtes facturé",
+			"ils/elles": "eurent facturé"
+		},
+		"futur antérieur": {
+			"j'": "aurai facturé",
+			"tu": "auras facturé",
+			"il/elle": "aura facturé",
+			"nous": "aurons facturé",
+			"vous": "aurez facturé",
+			"ils/elles": "auront facturé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous facturiez",
+			"qu'il/elle": "facture",
+			"qu'ils/elles": "facturent"
+		},
+		"imparfait": {
+			"que": "vous facturassiez",
+			"qu'il/elle": "facturât",
+			"qu'ils/elles": "facturassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse facturé",
+			"que": "vous eussiez facturé",
+			"qu'il/elle": "eût facturé",
+			"qu'ils/elles": "eussent facturé"
+		},
+		"passé": {
+			"j'": "aie facturé",
+			"que": "vous ayez facturé",
+			"qu'il/elle": "ait facturé",
+			"qu'ils/elles": "aient facturé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "facturerais",
+			"tu": "facturerais",
+			"il/elle": "facturerait",
+			"nous": "facturerions",
+			"vous": "factureriez",
+			"ils/elles": "factureraient"
+		},
+		"passé première forme": {
+			"j'": "aurais facturé",
+			"tu": "aurais facturé",
+			"il/elle": "aurait facturé",
+			"nous": "aurions facturé",
+			"vous": "auriez facturé",
+			"ils/elles": "auraient facturé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse facturé",
+			"tu": "eusses facturé",
+			"il/elle": "eût facturé",
+			"nous": "eussions facturé",
+			"vous": "eussiez facturé",
+			"ils/elles": "eussent facturé"
+		}
+	},
+	"participe": {
+		"présent": { "facturant": "" },
+		"passé composé": { "ayant": "facturé" },
+		"passé": {
+			"masc.sg.:": "facturé",
+			"masc.pl.:": "facturés",
+			"fém.sg.:": "facturée",
+			"fém.pl.:": "facturées"
+		}
+	},
+	"imperatif": {
+		"présent": { "facture": "", "facturons": "", "facturez": "" },
+		"passé": { "aie": "facturé", "ayons": "facturé", "ayez": "facturé" }
+	},
+	"infinitif": {
+		"présent": { "facturer": "" },
+		"passé": { "avoir": "facturé" }
+	}
+}

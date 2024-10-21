@@ -1,0 +1,145 @@
+{
+	"name": "parcheminer",
+	"definition": "give a parchment finish; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se parcheminer/ne pas parcheminer/ne pas se parcheminer",
+	"indicatif": {
+		"présent": {
+			"je": "parchemine",
+			"tu": "parchemines",
+			"il/elle": "parchemine",
+			"nous": "parcheminons",
+			"vous": "parcheminez",
+			"ils/elles": "parcheminent"
+		},
+		"imparfait": {
+			"je": "parcheminais",
+			"tu": "parcheminais",
+			"il/elle": "parcheminait",
+			"nous": "parcheminions",
+			"vous": "parcheminiez",
+			"ils/elles": "parcheminaient"
+		},
+		"futur": {
+			"je": "parcheminerai",
+			"tu": "parchemineras",
+			"il/elle": "parcheminera",
+			"nous": "parcheminerons",
+			"vous": "parcheminerez",
+			"ils/elles": "parchemineront"
+		},
+		"passé simple": {
+			"je": "parcheminai",
+			"tu": "parcheminas",
+			"il/elle": "parchemina",
+			"nous": "parcheminâmes",
+			"vous": "parcheminâtes",
+			"ils/elles": "parcheminèrent"
+		},
+		"passé composé": {
+			"j'": "ai parcheminé",
+			"tu": "as parcheminé",
+			"il/elle": "a parcheminé",
+			"nous": "avons parcheminé",
+			"vous": "avez parcheminé",
+			"ils/elles": "ont parcheminé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais parcheminé",
+			"tu": "avais parcheminé",
+			"il/elle": "avait parcheminé",
+			"nous": "avions parcheminé",
+			"vous": "aviez parcheminé",
+			"ils/elles": "avaient parcheminé"
+		},
+		"passé antérieur": {
+			"j'": "eus parcheminé",
+			"tu": "eus parcheminé",
+			"il/elle": "eut parcheminé",
+			"nous": "eûmes parcheminé",
+			"vous": "eûtes parcheminé",
+			"ils/elles": "eurent parcheminé"
+		},
+		"futur antérieur": {
+			"j'": "aurai parcheminé",
+			"tu": "auras parcheminé",
+			"il/elle": "aura parcheminé",
+			"nous": "aurons parcheminé",
+			"vous": "aurez parcheminé",
+			"ils/elles": "auront parcheminé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous parcheminiez",
+			"qu'il/elle": "parchemine",
+			"qu'ils/elles": "parcheminent"
+		},
+		"imparfait": {
+			"que": "vous parcheminassiez",
+			"qu'il/elle": "parcheminât",
+			"qu'ils/elles": "parcheminassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse parcheminé",
+			"que": "vous eussiez parcheminé",
+			"qu'il/elle": "eût parcheminé",
+			"qu'ils/elles": "eussent parcheminé"
+		},
+		"passé": {
+			"j'": "aie parcheminé",
+			"que": "vous ayez parcheminé",
+			"qu'il/elle": "ait parcheminé",
+			"qu'ils/elles": "aient parcheminé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "parcheminerais",
+			"tu": "parcheminerais",
+			"il/elle": "parcheminerait",
+			"nous": "parcheminerions",
+			"vous": "parchemineriez",
+			"ils/elles": "parchemineraient"
+		},
+		"passé première forme": {
+			"j'": "aurais parcheminé",
+			"tu": "aurais parcheminé",
+			"il/elle": "aurait parcheminé",
+			"nous": "aurions parcheminé",
+			"vous": "auriez parcheminé",
+			"ils/elles": "auraient parcheminé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse parcheminé",
+			"tu": "eusses parcheminé",
+			"il/elle": "eût parcheminé",
+			"nous": "eussions parcheminé",
+			"vous": "eussiez parcheminé",
+			"ils/elles": "eussent parcheminé"
+		}
+	},
+	"participe": {
+		"présent": { "parcheminant": "" },
+		"passé composé": { "ayant": "parcheminé" },
+		"passé": {
+			"masc.sg.:": "parcheminé",
+			"masc.pl.:": "parcheminés",
+			"fém.sg.:": "parcheminée",
+			"fém.pl.:": "parcheminées"
+		}
+	},
+	"imperatif": {
+		"présent": { "parchemine": "", "parcheminons": "", "parcheminez": "" },
+		"passé": {
+			"aie": "parcheminé",
+			"ayons": "parcheminé",
+			"ayez": "parcheminé"
+		}
+	},
+	"infinitif": {
+		"présent": { "parcheminer": "" },
+		"passé": { "avoir": "parcheminé" }
+	}
+}

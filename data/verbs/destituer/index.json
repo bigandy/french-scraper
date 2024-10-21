@@ -1,0 +1,141 @@
+{
+	"name": "destituer",
+	"definition": "remove; dismiss; depose; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se destituer/ne pas destituer/ne pas se destituer",
+	"indicatif": {
+		"présent": {
+			"je": "destitue",
+			"tu": "destitues",
+			"il/elle": "destitue",
+			"nous": "destituons",
+			"vous": "destituez",
+			"ils/elles": "destituent"
+		},
+		"imparfait": {
+			"je": "destituais",
+			"tu": "destituais",
+			"il/elle": "destituait",
+			"nous": "destituions",
+			"vous": "destituiez",
+			"ils/elles": "destituaient"
+		},
+		"futur": {
+			"je": "destituerai",
+			"tu": "destitueras",
+			"il/elle": "destituera",
+			"nous": "destituerons",
+			"vous": "destituerez",
+			"ils/elles": "destitueront"
+		},
+		"passé simple": {
+			"je": "destituai",
+			"tu": "destituas",
+			"il/elle": "destitua",
+			"nous": "destituâmes",
+			"vous": "destituâtes",
+			"ils/elles": "destituèrent"
+		},
+		"passé composé": {
+			"j'": "ai destitué",
+			"tu": "as destitué",
+			"il/elle": "a destitué",
+			"nous": "avons destitué",
+			"vous": "avez destitué",
+			"ils/elles": "ont destitué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais destitué",
+			"tu": "avais destitué",
+			"il/elle": "avait destitué",
+			"nous": "avions destitué",
+			"vous": "aviez destitué",
+			"ils/elles": "avaient destitué"
+		},
+		"passé antérieur": {
+			"j'": "eus destitué",
+			"tu": "eus destitué",
+			"il/elle": "eut destitué",
+			"nous": "eûmes destitué",
+			"vous": "eûtes destitué",
+			"ils/elles": "eurent destitué"
+		},
+		"futur antérieur": {
+			"j'": "aurai destitué",
+			"tu": "auras destitué",
+			"il/elle": "aura destitué",
+			"nous": "aurons destitué",
+			"vous": "aurez destitué",
+			"ils/elles": "auront destitué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous destituiez",
+			"qu'il/elle": "destitue",
+			"qu'ils/elles": "destituent"
+		},
+		"imparfait": {
+			"que": "vous destituassiez",
+			"qu'il/elle": "destituât",
+			"qu'ils/elles": "destituassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse destitué",
+			"que": "vous eussiez destitué",
+			"qu'il/elle": "eût destitué",
+			"qu'ils/elles": "eussent destitué"
+		},
+		"passé": {
+			"j'": "aie destitué",
+			"que": "vous ayez destitué",
+			"qu'il/elle": "ait destitué",
+			"qu'ils/elles": "aient destitué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "destituerais",
+			"tu": "destituerais",
+			"il/elle": "destituerait",
+			"nous": "destituerions",
+			"vous": "destitueriez",
+			"ils/elles": "destitueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais destitué",
+			"tu": "aurais destitué",
+			"il/elle": "aurait destitué",
+			"nous": "aurions destitué",
+			"vous": "auriez destitué",
+			"ils/elles": "auraient destitué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse destitué",
+			"tu": "eusses destitué",
+			"il/elle": "eût destitué",
+			"nous": "eussions destitué",
+			"vous": "eussiez destitué",
+			"ils/elles": "eussent destitué"
+		}
+	},
+	"participe": {
+		"présent": { "destituant": "" },
+		"passé composé": { "ayant": "destitué" },
+		"passé": {
+			"masc.sg.:": "destitué",
+			"masc.pl.:": "destitués",
+			"fém.sg.:": "destituée",
+			"fém.pl.:": "destituées"
+		}
+	},
+	"imperatif": {
+		"présent": { "destitue": "", "destituons": "", "destituez": "" },
+		"passé": { "aie": "destitué", "ayons": "destitué", "ayez": "destitué" }
+	},
+	"infinitif": {
+		"présent": { "destituer": "" },
+		"passé": { "avoir": "destitué" }
+	}
+}

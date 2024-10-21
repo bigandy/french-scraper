@@ -1,0 +1,138 @@
+{
+	"name": "démolir",
+	"definition": "demolish; destroy; tear down; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se démolir/ne pas démolir/ne pas se démolir",
+	"indicatif": {
+		"présent": {
+			"je": "démolis",
+			"tu": "démolis",
+			"il/elle": "démolit",
+			"nous": "démolissons",
+			"vous": "démolissez",
+			"ils/elles": "démolissent"
+		},
+		"imparfait": {
+			"je": "démolissais",
+			"tu": "démolissais",
+			"il/elle": "démolissait",
+			"nous": "démolissions",
+			"vous": "démolissiez",
+			"ils/elles": "démolissaient"
+		},
+		"futur": {
+			"je": "démolirai",
+			"tu": "démoliras",
+			"il/elle": "démolira",
+			"nous": "démolirons",
+			"vous": "démolirez",
+			"ils/elles": "démoliront"
+		},
+		"passé simple": {
+			"je": "démolis",
+			"tu": "démolis",
+			"il/elle": "démolit",
+			"nous": "démolîmes",
+			"vous": "démolîtes",
+			"ils/elles": "démolirent"
+		},
+		"passé composé": {
+			"j'": "ai démoli",
+			"tu": "as démoli",
+			"il/elle": "a démoli",
+			"nous": "avons démoli",
+			"vous": "avez démoli",
+			"ils/elles": "ont démoli"
+		},
+		"plus-que-parfait": {
+			"j'": "avais démoli",
+			"tu": "avais démoli",
+			"il/elle": "avait démoli",
+			"nous": "avions démoli",
+			"vous": "aviez démoli",
+			"ils/elles": "avaient démoli"
+		},
+		"passé antérieur": {
+			"j'": "eus démoli",
+			"tu": "eus démoli",
+			"il/elle": "eut démoli",
+			"nous": "eûmes démoli",
+			"vous": "eûtes démoli",
+			"ils/elles": "eurent démoli"
+		},
+		"futur antérieur": {
+			"j'": "aurai démoli",
+			"tu": "auras démoli",
+			"il/elle": "aura démoli",
+			"nous": "aurons démoli",
+			"vous": "aurez démoli",
+			"ils/elles": "auront démoli"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous démolissiez",
+			"qu'il/elle": "démolisse",
+			"qu'ils/elles": "démolissent"
+		},
+		"imparfait": {
+			"que": "vous démolissiez",
+			"qu'il/elle": "démolît",
+			"qu'ils/elles": "démolissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse démoli",
+			"que": "vous eussiez démoli",
+			"qu'il/elle": "eût démoli",
+			"qu'ils/elles": "eussent démoli"
+		},
+		"passé": {
+			"j'": "aie démoli",
+			"que": "vous ayez démoli",
+			"qu'il/elle": "ait démoli",
+			"qu'ils/elles": "aient démoli"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "démolirais",
+			"tu": "démolirais",
+			"il/elle": "démolirait",
+			"nous": "démolirions",
+			"vous": "démoliriez",
+			"ils/elles": "démoliraient"
+		},
+		"passé première forme": {
+			"j'": "aurais démoli",
+			"tu": "aurais démoli",
+			"il/elle": "aurait démoli",
+			"nous": "aurions démoli",
+			"vous": "auriez démoli",
+			"ils/elles": "auraient démoli"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse démoli",
+			"tu": "eusses démoli",
+			"il/elle": "eût démoli",
+			"nous": "eussions démoli",
+			"vous": "eussiez démoli",
+			"ils/elles": "eussent démoli"
+		}
+	},
+	"participe": {
+		"présent": { "démolissant": "" },
+		"passé composé": { "ayant": "démoli" },
+		"passé": {
+			"masc.sg.:": "démoli",
+			"masc.pl.:": "démolis",
+			"fém.sg.:": "démolie",
+			"fém.pl.:": "démolies"
+		}
+	},
+	"imperatif": {
+		"présent": { "démolis": "", "démolissons": "", "démolissez": "" },
+		"passé": { "aie": "démoli", "ayons": "démoli", "ayez": "démoli" }
+	},
+	"infinitif": { "présent": { "démolir": "" }, "passé": { "avoir": "démoli" } }
+}

@@ -1,0 +1,155 @@
+{
+	"name": "redevenir",
+	"definition": "return to; regain; become again; ...",
+	"model": "tenir",
+	"auxiliary": "être",
+	"otherForms": "ne pas redevenir",
+	"indicatif": {
+		"présent": {
+			"je": "redeviens",
+			"tu": "redeviens",
+			"il/elle": "redevient",
+			"nous": "redevenons",
+			"vous": "redevenez",
+			"ils/elles": "redeviennent"
+		},
+		"imparfait": {
+			"je": "redevenais",
+			"tu": "redevenais",
+			"il/elle": "redevenait",
+			"nous": "redevenions",
+			"vous": "redeveniez",
+			"ils/elles": "redevenaient"
+		},
+		"futur": {
+			"je": "redeviendrai",
+			"tu": "redeviendras",
+			"il/elle": "redeviendra",
+			"nous": "redeviendrons",
+			"vous": "redeviendrez",
+			"ils/elles": "redeviendront"
+		},
+		"passé simple": {
+			"je": "redevins",
+			"tu": "redevins",
+			"il/elle": "redevint",
+			"nous": "redevînmes",
+			"vous": "redevîntes",
+			"ils/elles": "redevinrent"
+		},
+		"passé composé": {
+			"je": "suis redevenu",
+			"tu": "es redevenu",
+			"il": "est redevenu",
+			"elle": "est redevenue",
+			"nous": "sommes redevenus",
+			"vous": "êtes redevenus",
+			"ils": "sont redevenus",
+			"elles": "sont redevenues"
+		},
+		"plus-que-parfait": {
+			"j'": "étais redevenu",
+			"tu": "étais redevenu",
+			"il": "était redevenu",
+			"elle": "était redevenue",
+			"nous": "étions redevenus",
+			"vous": "étiez redevenus",
+			"ils": "étaient redevenus",
+			"elles": "étaient redevenues"
+		},
+		"passé antérieur": {
+			"je": "fus redevenu",
+			"tu": "fus redevenu",
+			"il": "fut redevenu",
+			"elle": "fut redevenue",
+			"nous": "fûmes redevenus",
+			"vous": "fûtes redevenus",
+			"ils": "furent redevenus",
+			"elles": "furent redevenues"
+		},
+		"futur antérieur": {
+			"je": "serai redevenu",
+			"tu": "seras redevenu",
+			"il": "sera redevenu",
+			"elle": "sera redevenue",
+			"nous": "serons redevenus",
+			"vous": "serez redevenus",
+			"ils": "seront redevenus",
+			"elles": "seront redevenues"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous redeveniez",
+			"qu'il/elle": "redevienne",
+			"qu'ils/elles": "redeviennent"
+		},
+		"imparfait": {
+			"que": "vous redevinssiez",
+			"qu'il/elle": "redevînt",
+			"qu'ils/elles": "redevinssent"
+		},
+		"plus-que-parfait": {
+			"que": "vous fussiez redevenus",
+			"qu'il": "fût redevenu",
+			"qu'elle": "fût redevenue",
+			"qu'ils": "fussent redevenus",
+			"qu'elles": "fussent redevenues"
+		},
+		"passé": {
+			"que": "vous soyez redevenus",
+			"qu'il": "soit redevenu",
+			"qu'elle": "soit redevenue",
+			"qu'ils": "soient redevenus",
+			"qu'elles": "soient redevenues"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "redeviendrais",
+			"tu": "redeviendrais",
+			"il/elle": "redeviendrait",
+			"nous": "redeviendrions",
+			"vous": "redeviendriez",
+			"ils/elles": "redeviendraient"
+		},
+		"passé première forme": {
+			"je": "serais redevenu",
+			"tu": "serais redevenu",
+			"il": "serait redevenu",
+			"elle": "serait redevenue",
+			"nous": "serions redevenus",
+			"vous": "seriez redevenus",
+			"ils": "seraient redevenus",
+			"elles": "seraient redevenues"
+		},
+		"passé deuxième forme": {
+			"je": "fusse redevenu",
+			"tu": "fusses redevenu",
+			"il": "fût redevenu",
+			"elle": "fût redevenue",
+			"nous": "fussions redevenus",
+			"vous": "fussiez redevenus",
+			"ils": "fussent redevenus",
+			"elles": "fussent redevenues"
+		}
+	},
+	"participe": {
+		"présent": { "redevenant": "" },
+		"passé composé": { "étant": "redevenue" },
+		"passé": {
+			"masc.sg.:": "redevenu",
+			"masc.pl.:": "redevenus",
+			"fém.sg.:": "redevenue",
+			"fém.pl.:": "redevenues"
+		}
+	},
+	"imperatif": {
+		"présent": { "redeviens": "", "redevenons": "", "redevenez": "" },
+		"passé": { "sois": "redevenu", "soyons": "redevenu", "soyez": "redevenu" }
+	},
+	"infinitif": {
+		"présent": { "redevenir": "" },
+		"passé": { "être": "redevenu" }
+	}
+}

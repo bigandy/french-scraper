@@ -1,0 +1,138 @@
+{
+	"name": "saigner",
+	"definition": "bleed; blood; bloody; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se saigner/ne pas saigner/ne pas se saigner",
+	"indicatif": {
+		"présent": {
+			"je": "saigne",
+			"tu": "saignes",
+			"il/elle": "saigne",
+			"nous": "saignons",
+			"vous": "saignez",
+			"ils/elles": "saignent"
+		},
+		"imparfait": {
+			"je": "saignais",
+			"tu": "saignais",
+			"il/elle": "saignait",
+			"nous": "saignions",
+			"vous": "saigniez",
+			"ils/elles": "saignaient"
+		},
+		"futur": {
+			"je": "saignerai",
+			"tu": "saigneras",
+			"il/elle": "saignera",
+			"nous": "saignerons",
+			"vous": "saignerez",
+			"ils/elles": "saigneront"
+		},
+		"passé simple": {
+			"je": "saignai",
+			"tu": "saignas",
+			"il/elle": "saigna",
+			"nous": "saignâmes",
+			"vous": "saignâtes",
+			"ils/elles": "saignèrent"
+		},
+		"passé composé": {
+			"j'": "ai saigné",
+			"tu": "as saigné",
+			"il/elle": "a saigné",
+			"nous": "avons saigné",
+			"vous": "avez saigné",
+			"ils/elles": "ont saigné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais saigné",
+			"tu": "avais saigné",
+			"il/elle": "avait saigné",
+			"nous": "avions saigné",
+			"vous": "aviez saigné",
+			"ils/elles": "avaient saigné"
+		},
+		"passé antérieur": {
+			"j'": "eus saigné",
+			"tu": "eus saigné",
+			"il/elle": "eut saigné",
+			"nous": "eûmes saigné",
+			"vous": "eûtes saigné",
+			"ils/elles": "eurent saigné"
+		},
+		"futur antérieur": {
+			"j'": "aurai saigné",
+			"tu": "auras saigné",
+			"il/elle": "aura saigné",
+			"nous": "aurons saigné",
+			"vous": "aurez saigné",
+			"ils/elles": "auront saigné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous saigniez",
+			"qu'il/elle": "saigne",
+			"qu'ils/elles": "saignent"
+		},
+		"imparfait": {
+			"que": "vous saignassiez",
+			"qu'il/elle": "saignât",
+			"qu'ils/elles": "saignassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse saigné",
+			"que": "vous eussiez saigné",
+			"qu'il/elle": "eût saigné",
+			"qu'ils/elles": "eussent saigné"
+		},
+		"passé": {
+			"j'": "aie saigné",
+			"que": "vous ayez saigné",
+			"qu'il/elle": "ait saigné",
+			"qu'ils/elles": "aient saigné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "saignerais",
+			"tu": "saignerais",
+			"il/elle": "saignerait",
+			"nous": "saignerions",
+			"vous": "saigneriez",
+			"ils/elles": "saigneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais saigné",
+			"tu": "aurais saigné",
+			"il/elle": "aurait saigné",
+			"nous": "aurions saigné",
+			"vous": "auriez saigné",
+			"ils/elles": "auraient saigné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse saigné",
+			"tu": "eusses saigné",
+			"il/elle": "eût saigné",
+			"nous": "eussions saigné",
+			"vous": "eussiez saigné",
+			"ils/elles": "eussent saigné"
+		}
+	},
+	"participe": {
+		"présent": { "saignant": "" },
+		"passé composé": { "ayant": "saigné" },
+		"passé": {
+			"masc.sg.:": "saigné",
+			"masc.pl.:": "saignés",
+			"fém.sg.:": "saignée",
+			"fém.pl.:": "saignées"
+		}
+	},
+	"imperatif": {
+		"présent": { "saigne": "", "saignons": "", "saignez": "" },
+		"passé": { "aie": "saigné", "ayons": "saigné", "ayez": "saigné" }
+	},
+	"infinitif": { "présent": { "saigner": "" }, "passé": { "avoir": "saigné" } }
+}

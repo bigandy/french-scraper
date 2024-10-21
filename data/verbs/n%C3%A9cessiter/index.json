@@ -1,0 +1,141 @@
+{
+	"name": "nécessiter",
+	"definition": "require; need; necessitate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se nécessiter/ne pas nécessiter/ne pas se nécessiter",
+	"indicatif": {
+		"présent": {
+			"je": "nécessite",
+			"tu": "nécessites",
+			"il/elle": "nécessite",
+			"nous": "nécessitons",
+			"vous": "nécessitez",
+			"ils/elles": "nécessitent"
+		},
+		"imparfait": {
+			"je": "nécessitais",
+			"tu": "nécessitais",
+			"il/elle": "nécessitait",
+			"nous": "nécessitions",
+			"vous": "nécessitiez",
+			"ils/elles": "nécessitaient"
+		},
+		"futur": {
+			"je": "nécessiterai",
+			"tu": "nécessiteras",
+			"il/elle": "nécessitera",
+			"nous": "nécessiterons",
+			"vous": "nécessiterez",
+			"ils/elles": "nécessiteront"
+		},
+		"passé simple": {
+			"je": "nécessitai",
+			"tu": "nécessitas",
+			"il/elle": "nécessita",
+			"nous": "nécessitâmes",
+			"vous": "nécessitâtes",
+			"ils/elles": "nécessitèrent"
+		},
+		"passé composé": {
+			"j'": "ai nécessité",
+			"tu": "as nécessité",
+			"il/elle": "a nécessité",
+			"nous": "avons nécessité",
+			"vous": "avez nécessité",
+			"ils/elles": "ont nécessité"
+		},
+		"plus-que-parfait": {
+			"j'": "avais nécessité",
+			"tu": "avais nécessité",
+			"il/elle": "avait nécessité",
+			"nous": "avions nécessité",
+			"vous": "aviez nécessité",
+			"ils/elles": "avaient nécessité"
+		},
+		"passé antérieur": {
+			"j'": "eus nécessité",
+			"tu": "eus nécessité",
+			"il/elle": "eut nécessité",
+			"nous": "eûmes nécessité",
+			"vous": "eûtes nécessité",
+			"ils/elles": "eurent nécessité"
+		},
+		"futur antérieur": {
+			"j'": "aurai nécessité",
+			"tu": "auras nécessité",
+			"il/elle": "aura nécessité",
+			"nous": "aurons nécessité",
+			"vous": "aurez nécessité",
+			"ils/elles": "auront nécessité"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous nécessitiez",
+			"qu'il/elle": "nécessite",
+			"qu'ils/elles": "nécessitent"
+		},
+		"imparfait": {
+			"que": "vous nécessitassiez",
+			"qu'il/elle": "nécessitât",
+			"qu'ils/elles": "nécessitassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse nécessité",
+			"que": "vous eussiez nécessité",
+			"qu'il/elle": "eût nécessité",
+			"qu'ils/elles": "eussent nécessité"
+		},
+		"passé": {
+			"j'": "aie nécessité",
+			"que": "vous ayez nécessité",
+			"qu'il/elle": "ait nécessité",
+			"qu'ils/elles": "aient nécessité"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "nécessiterais",
+			"tu": "nécessiterais",
+			"il/elle": "nécessiterait",
+			"nous": "nécessiterions",
+			"vous": "nécessiteriez",
+			"ils/elles": "nécessiteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais nécessité",
+			"tu": "aurais nécessité",
+			"il/elle": "aurait nécessité",
+			"nous": "aurions nécessité",
+			"vous": "auriez nécessité",
+			"ils/elles": "auraient nécessité"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse nécessité",
+			"tu": "eusses nécessité",
+			"il/elle": "eût nécessité",
+			"nous": "eussions nécessité",
+			"vous": "eussiez nécessité",
+			"ils/elles": "eussent nécessité"
+		}
+	},
+	"participe": {
+		"présent": { "nécessitant": "" },
+		"passé composé": { "ayant": "nécessité" },
+		"passé": {
+			"masc.sg.:": "nécessité",
+			"masc.pl.:": "nécessités",
+			"fém.sg.:": "nécessitée",
+			"fém.pl.:": "nécessitées"
+		}
+	},
+	"imperatif": {
+		"présent": { "nécessite": "", "nécessitons": "", "nécessitez": "" },
+		"passé": { "aie": "nécessité", "ayons": "nécessité", "ayez": "nécessité" }
+	},
+	"infinitif": {
+		"présent": { "nécessiter": "" },
+		"passé": { "avoir": "nécessité" }
+	}
+}

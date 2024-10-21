@@ -1,0 +1,138 @@
+{
+	"name": "ravir",
+	"definition": "delight; steal; rob; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se ravir/ne pas ravir/ne pas se ravir",
+	"indicatif": {
+		"présent": {
+			"je": "ravis",
+			"tu": "ravis",
+			"il/elle": "ravit",
+			"nous": "ravissons",
+			"vous": "ravissez",
+			"ils/elles": "ravissent"
+		},
+		"imparfait": {
+			"je": "ravissais",
+			"tu": "ravissais",
+			"il/elle": "ravissait",
+			"nous": "ravissions",
+			"vous": "ravissiez",
+			"ils/elles": "ravissaient"
+		},
+		"futur": {
+			"je": "ravirai",
+			"tu": "raviras",
+			"il/elle": "ravira",
+			"nous": "ravirons",
+			"vous": "ravirez",
+			"ils/elles": "raviront"
+		},
+		"passé simple": {
+			"je": "ravis",
+			"tu": "ravis",
+			"il/elle": "ravit",
+			"nous": "ravîmes",
+			"vous": "ravîtes",
+			"ils/elles": "ravirent"
+		},
+		"passé composé": {
+			"j'": "ai ravi",
+			"tu": "as ravi",
+			"il/elle": "a ravi",
+			"nous": "avons ravi",
+			"vous": "avez ravi",
+			"ils/elles": "ont ravi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais ravi",
+			"tu": "avais ravi",
+			"il/elle": "avait ravi",
+			"nous": "avions ravi",
+			"vous": "aviez ravi",
+			"ils/elles": "avaient ravi"
+		},
+		"passé antérieur": {
+			"j'": "eus ravi",
+			"tu": "eus ravi",
+			"il/elle": "eut ravi",
+			"nous": "eûmes ravi",
+			"vous": "eûtes ravi",
+			"ils/elles": "eurent ravi"
+		},
+		"futur antérieur": {
+			"j'": "aurai ravi",
+			"tu": "auras ravi",
+			"il/elle": "aura ravi",
+			"nous": "aurons ravi",
+			"vous": "aurez ravi",
+			"ils/elles": "auront ravi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous ravissiez",
+			"qu'il/elle": "ravisse",
+			"qu'ils/elles": "ravissent"
+		},
+		"imparfait": {
+			"que": "vous ravissiez",
+			"qu'il/elle": "ravît",
+			"qu'ils/elles": "ravissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse ravi",
+			"que": "vous eussiez ravi",
+			"qu'il/elle": "eût ravi",
+			"qu'ils/elles": "eussent ravi"
+		},
+		"passé": {
+			"j'": "aie ravi",
+			"que": "vous ayez ravi",
+			"qu'il/elle": "ait ravi",
+			"qu'ils/elles": "aient ravi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "ravirais",
+			"tu": "ravirais",
+			"il/elle": "ravirait",
+			"nous": "ravirions",
+			"vous": "raviriez",
+			"ils/elles": "raviraient"
+		},
+		"passé première forme": {
+			"j'": "aurais ravi",
+			"tu": "aurais ravi",
+			"il/elle": "aurait ravi",
+			"nous": "aurions ravi",
+			"vous": "auriez ravi",
+			"ils/elles": "auraient ravi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse ravi",
+			"tu": "eusses ravi",
+			"il/elle": "eût ravi",
+			"nous": "eussions ravi",
+			"vous": "eussiez ravi",
+			"ils/elles": "eussent ravi"
+		}
+	},
+	"participe": {
+		"présent": { "ravissant": "" },
+		"passé composé": { "ayant": "ravi" },
+		"passé": {
+			"masc.sg.:": "ravi",
+			"masc.pl.:": "ravis",
+			"fém.sg.:": "ravie",
+			"fém.pl.:": "ravies"
+		}
+	},
+	"imperatif": {
+		"présent": { "ravis": "", "ravissons": "", "ravissez": "" },
+		"passé": { "aie": "ravi", "ayons": "ravi", "ayez": "ravi" }
+	},
+	"infinitif": { "présent": { "ravir": "" }, "passé": { "avoir": "ravi" } }
+}

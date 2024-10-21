@@ -1,0 +1,143 @@
+{
+	"name": "alourdir",
+	"definition": "increase; burden; weigh down; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "s'alourdir/ne pas alourdir/ne pas s'alourdir",
+	"indicatif": {
+		"présent": {
+			"j'": "alourdis",
+			"tu": "alourdis",
+			"il/elle": "alourdit",
+			"nous": "alourdissons",
+			"vous": "alourdissez",
+			"ils/elles": "alourdissent"
+		},
+		"imparfait": {
+			"j'": "alourdissais",
+			"tu": "alourdissais",
+			"il/elle": "alourdissait",
+			"nous": "alourdissions",
+			"vous": "alourdissiez",
+			"ils/elles": "alourdissaient"
+		},
+		"futur": {
+			"j'": "alourdirai",
+			"tu": "alourdiras",
+			"il/elle": "alourdira",
+			"nous": "alourdirons",
+			"vous": "alourdirez",
+			"ils/elles": "alourdiront"
+		},
+		"passé simple": {
+			"j'": "alourdis",
+			"tu": "alourdis",
+			"il/elle": "alourdit",
+			"nous": "alourdîmes",
+			"vous": "alourdîtes",
+			"ils/elles": "alourdirent"
+		},
+		"passé composé": {
+			"j'": "ai alourdi",
+			"tu": "as alourdi",
+			"il/elle": "a alourdi",
+			"nous": "avons alourdi",
+			"vous": "avez alourdi",
+			"ils/elles": "ont alourdi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais alourdi",
+			"tu": "avais alourdi",
+			"il/elle": "avait alourdi",
+			"nous": "avions alourdi",
+			"vous": "aviez alourdi",
+			"ils/elles": "avaient alourdi"
+		},
+		"passé antérieur": {
+			"j'": "eus alourdi",
+			"tu": "eus alourdi",
+			"il/elle": "eut alourdi",
+			"nous": "eûmes alourdi",
+			"vous": "eûtes alourdi",
+			"ils/elles": "eurent alourdi"
+		},
+		"futur antérieur": {
+			"j'": "aurai alourdi",
+			"tu": "auras alourdi",
+			"il/elle": "aura alourdi",
+			"nous": "aurons alourdi",
+			"vous": "aurez alourdi",
+			"ils/elles": "auront alourdi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "alourdisse",
+			"que": "vous alourdissiez",
+			"qu'il/elle": "alourdisse",
+			"qu'ils/elles": "alourdissent"
+		},
+		"imparfait": {
+			"j'": "alourdisse",
+			"que": "vous alourdissiez",
+			"qu'il/elle": "alourdît",
+			"qu'ils/elles": "alourdissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse alourdi",
+			"que": "vous eussiez alourdi",
+			"qu'il/elle": "eût alourdi",
+			"qu'ils/elles": "eussent alourdi"
+		},
+		"passé": {
+			"j'": "aie alourdi",
+			"que": "vous ayez alourdi",
+			"qu'il/elle": "ait alourdi",
+			"qu'ils/elles": "aient alourdi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "alourdirais",
+			"tu": "alourdirais",
+			"il/elle": "alourdirait",
+			"nous": "alourdirions",
+			"vous": "alourdiriez",
+			"ils/elles": "alourdiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais alourdi",
+			"tu": "aurais alourdi",
+			"il/elle": "aurait alourdi",
+			"nous": "aurions alourdi",
+			"vous": "auriez alourdi",
+			"ils/elles": "auraient alourdi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse alourdi",
+			"tu": "eusses alourdi",
+			"il/elle": "eût alourdi",
+			"nous": "eussions alourdi",
+			"vous": "eussiez alourdi",
+			"ils/elles": "eussent alourdi"
+		}
+	},
+	"participe": {
+		"présent": { "alourdissant": "" },
+		"passé composé": { "ayant": "alourdi" },
+		"passé": {
+			"masc.sg.:": "alourdi",
+			"masc.pl.:": "alourdis",
+			"fém.sg.:": "alourdie",
+			"fém.pl.:": "alourdies"
+		}
+	},
+	"imperatif": {
+		"présent": { "alourdis": "", "alourdissons": "", "alourdissez": "" },
+		"passé": { "aie": "alourdi", "ayons": "alourdi", "ayez": "alourdi" }
+	},
+	"infinitif": {
+		"présent": { "alourdir": "" },
+		"passé": { "avoir": "alourdi" }
+	}
+}

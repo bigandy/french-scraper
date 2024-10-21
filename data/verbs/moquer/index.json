@@ -1,0 +1,138 @@
+{
+	"name": "moquer",
+	"definition": "make fun; mock; laugh; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se moquer/ne pas moquer/ne pas se moquer",
+	"indicatif": {
+		"présent": {
+			"je": "moque",
+			"tu": "moques",
+			"il/elle": "moque",
+			"nous": "moquons",
+			"vous": "moquez",
+			"ils/elles": "moquent"
+		},
+		"imparfait": {
+			"je": "moquais",
+			"tu": "moquais",
+			"il/elle": "moquait",
+			"nous": "moquions",
+			"vous": "moquiez",
+			"ils/elles": "moquaient"
+		},
+		"futur": {
+			"je": "moquerai",
+			"tu": "moqueras",
+			"il/elle": "moquera",
+			"nous": "moquerons",
+			"vous": "moquerez",
+			"ils/elles": "moqueront"
+		},
+		"passé simple": {
+			"je": "moquai",
+			"tu": "moquas",
+			"il/elle": "moqua",
+			"nous": "moquâmes",
+			"vous": "moquâtes",
+			"ils/elles": "moquèrent"
+		},
+		"passé composé": {
+			"j'": "ai moqué",
+			"tu": "as moqué",
+			"il/elle": "a moqué",
+			"nous": "avons moqué",
+			"vous": "avez moqué",
+			"ils/elles": "ont moqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais moqué",
+			"tu": "avais moqué",
+			"il/elle": "avait moqué",
+			"nous": "avions moqué",
+			"vous": "aviez moqué",
+			"ils/elles": "avaient moqué"
+		},
+		"passé antérieur": {
+			"j'": "eus moqué",
+			"tu": "eus moqué",
+			"il/elle": "eut moqué",
+			"nous": "eûmes moqué",
+			"vous": "eûtes moqué",
+			"ils/elles": "eurent moqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai moqué",
+			"tu": "auras moqué",
+			"il/elle": "aura moqué",
+			"nous": "aurons moqué",
+			"vous": "aurez moqué",
+			"ils/elles": "auront moqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous moquiez",
+			"qu'il/elle": "moque",
+			"qu'ils/elles": "moquent"
+		},
+		"imparfait": {
+			"que": "vous moquassiez",
+			"qu'il/elle": "moquât",
+			"qu'ils/elles": "moquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse moqué",
+			"que": "vous eussiez moqué",
+			"qu'il/elle": "eût moqué",
+			"qu'ils/elles": "eussent moqué"
+		},
+		"passé": {
+			"j'": "aie moqué",
+			"que": "vous ayez moqué",
+			"qu'il/elle": "ait moqué",
+			"qu'ils/elles": "aient moqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "moquerais",
+			"tu": "moquerais",
+			"il/elle": "moquerait",
+			"nous": "moquerions",
+			"vous": "moqueriez",
+			"ils/elles": "moqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais moqué",
+			"tu": "aurais moqué",
+			"il/elle": "aurait moqué",
+			"nous": "aurions moqué",
+			"vous": "auriez moqué",
+			"ils/elles": "auraient moqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse moqué",
+			"tu": "eusses moqué",
+			"il/elle": "eût moqué",
+			"nous": "eussions moqué",
+			"vous": "eussiez moqué",
+			"ils/elles": "eussent moqué"
+		}
+	},
+	"participe": {
+		"présent": { "moquant": "" },
+		"passé composé": { "ayant": "moqué" },
+		"passé": {
+			"masc.sg.:": "moqué",
+			"masc.pl.:": "moqués",
+			"fém.sg.:": "moquée",
+			"fém.pl.:": "moquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "moque": "", "moquons": "", "moquez": "" },
+		"passé": { "aie": "moqué", "ayons": "moqué", "ayez": "moqué" }
+	},
+	"infinitif": { "présent": { "moquer": "" }, "passé": { "avoir": "moqué" } }
+}

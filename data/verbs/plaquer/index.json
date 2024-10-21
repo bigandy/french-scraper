@@ -1,0 +1,138 @@
+{
+	"name": "plaquer",
+	"definition": "dump; plate; tackle; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se plaquer/ne pas plaquer/ne pas se plaquer",
+	"indicatif": {
+		"présent": {
+			"je": "plaque",
+			"tu": "plaques",
+			"il/elle": "plaque",
+			"nous": "plaquons",
+			"vous": "plaquez",
+			"ils/elles": "plaquent"
+		},
+		"imparfait": {
+			"je": "plaquais",
+			"tu": "plaquais",
+			"il/elle": "plaquait",
+			"nous": "plaquions",
+			"vous": "plaquiez",
+			"ils/elles": "plaquaient"
+		},
+		"futur": {
+			"je": "plaquerai",
+			"tu": "plaqueras",
+			"il/elle": "plaquera",
+			"nous": "plaquerons",
+			"vous": "plaquerez",
+			"ils/elles": "plaqueront"
+		},
+		"passé simple": {
+			"je": "plaquai",
+			"tu": "plaquas",
+			"il/elle": "plaqua",
+			"nous": "plaquâmes",
+			"vous": "plaquâtes",
+			"ils/elles": "plaquèrent"
+		},
+		"passé composé": {
+			"j'": "ai plaqué",
+			"tu": "as plaqué",
+			"il/elle": "a plaqué",
+			"nous": "avons plaqué",
+			"vous": "avez plaqué",
+			"ils/elles": "ont plaqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais plaqué",
+			"tu": "avais plaqué",
+			"il/elle": "avait plaqué",
+			"nous": "avions plaqué",
+			"vous": "aviez plaqué",
+			"ils/elles": "avaient plaqué"
+		},
+		"passé antérieur": {
+			"j'": "eus plaqué",
+			"tu": "eus plaqué",
+			"il/elle": "eut plaqué",
+			"nous": "eûmes plaqué",
+			"vous": "eûtes plaqué",
+			"ils/elles": "eurent plaqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai plaqué",
+			"tu": "auras plaqué",
+			"il/elle": "aura plaqué",
+			"nous": "aurons plaqué",
+			"vous": "aurez plaqué",
+			"ils/elles": "auront plaqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous plaquiez",
+			"qu'il/elle": "plaque",
+			"qu'ils/elles": "plaquent"
+		},
+		"imparfait": {
+			"que": "vous plaquassiez",
+			"qu'il/elle": "plaquât",
+			"qu'ils/elles": "plaquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse plaqué",
+			"que": "vous eussiez plaqué",
+			"qu'il/elle": "eût plaqué",
+			"qu'ils/elles": "eussent plaqué"
+		},
+		"passé": {
+			"j'": "aie plaqué",
+			"que": "vous ayez plaqué",
+			"qu'il/elle": "ait plaqué",
+			"qu'ils/elles": "aient plaqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "plaquerais",
+			"tu": "plaquerais",
+			"il/elle": "plaquerait",
+			"nous": "plaquerions",
+			"vous": "plaqueriez",
+			"ils/elles": "plaqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais plaqué",
+			"tu": "aurais plaqué",
+			"il/elle": "aurait plaqué",
+			"nous": "aurions plaqué",
+			"vous": "auriez plaqué",
+			"ils/elles": "auraient plaqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse plaqué",
+			"tu": "eusses plaqué",
+			"il/elle": "eût plaqué",
+			"nous": "eussions plaqué",
+			"vous": "eussiez plaqué",
+			"ils/elles": "eussent plaqué"
+		}
+	},
+	"participe": {
+		"présent": { "plaquant": "" },
+		"passé composé": { "ayant": "plaqué" },
+		"passé": {
+			"masc.sg.:": "plaqué",
+			"masc.pl.:": "plaqués",
+			"fém.sg.:": "plaquée",
+			"fém.pl.:": "plaquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "plaque": "", "plaquons": "", "plaquez": "" },
+		"passé": { "aie": "plaqué", "ayons": "plaqué", "ayez": "plaqué" }
+	},
+	"infinitif": { "présent": { "plaquer": "" }, "passé": { "avoir": "plaqué" } }
+}

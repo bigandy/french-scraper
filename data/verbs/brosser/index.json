@@ -1,0 +1,138 @@
+{
+	"name": "brosser",
+	"definition": "brush; paint; scrub; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se brosser/ne pas brosser/ne pas se brosser",
+	"indicatif": {
+		"présent": {
+			"je": "brosse",
+			"tu": "brosses",
+			"il/elle": "brosse",
+			"nous": "brossons",
+			"vous": "brossez",
+			"ils/elles": "brossent"
+		},
+		"imparfait": {
+			"je": "brossais",
+			"tu": "brossais",
+			"il/elle": "brossait",
+			"nous": "brossions",
+			"vous": "brossiez",
+			"ils/elles": "brossaient"
+		},
+		"futur": {
+			"je": "brosserai",
+			"tu": "brosseras",
+			"il/elle": "brossera",
+			"nous": "brosserons",
+			"vous": "brosserez",
+			"ils/elles": "brosseront"
+		},
+		"passé simple": {
+			"je": "brossai",
+			"tu": "brossas",
+			"il/elle": "brossa",
+			"nous": "brossâmes",
+			"vous": "brossâtes",
+			"ils/elles": "brossèrent"
+		},
+		"passé composé": {
+			"j'": "ai brossé",
+			"tu": "as brossé",
+			"il/elle": "a brossé",
+			"nous": "avons brossé",
+			"vous": "avez brossé",
+			"ils/elles": "ont brossé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais brossé",
+			"tu": "avais brossé",
+			"il/elle": "avait brossé",
+			"nous": "avions brossé",
+			"vous": "aviez brossé",
+			"ils/elles": "avaient brossé"
+		},
+		"passé antérieur": {
+			"j'": "eus brossé",
+			"tu": "eus brossé",
+			"il/elle": "eut brossé",
+			"nous": "eûmes brossé",
+			"vous": "eûtes brossé",
+			"ils/elles": "eurent brossé"
+		},
+		"futur antérieur": {
+			"j'": "aurai brossé",
+			"tu": "auras brossé",
+			"il/elle": "aura brossé",
+			"nous": "aurons brossé",
+			"vous": "aurez brossé",
+			"ils/elles": "auront brossé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous brossiez",
+			"qu'il/elle": "brosse",
+			"qu'ils/elles": "brossent"
+		},
+		"imparfait": {
+			"que": "vous brossassiez",
+			"qu'il/elle": "brossât",
+			"qu'ils/elles": "brossassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse brossé",
+			"que": "vous eussiez brossé",
+			"qu'il/elle": "eût brossé",
+			"qu'ils/elles": "eussent brossé"
+		},
+		"passé": {
+			"j'": "aie brossé",
+			"que": "vous ayez brossé",
+			"qu'il/elle": "ait brossé",
+			"qu'ils/elles": "aient brossé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "brosserais",
+			"tu": "brosserais",
+			"il/elle": "brosserait",
+			"nous": "brosserions",
+			"vous": "brosseriez",
+			"ils/elles": "brosseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais brossé",
+			"tu": "aurais brossé",
+			"il/elle": "aurait brossé",
+			"nous": "aurions brossé",
+			"vous": "auriez brossé",
+			"ils/elles": "auraient brossé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse brossé",
+			"tu": "eusses brossé",
+			"il/elle": "eût brossé",
+			"nous": "eussions brossé",
+			"vous": "eussiez brossé",
+			"ils/elles": "eussent brossé"
+		}
+	},
+	"participe": {
+		"présent": { "brossant": "" },
+		"passé composé": { "ayant": "brossé" },
+		"passé": {
+			"masc.sg.:": "brossé",
+			"masc.pl.:": "brossés",
+			"fém.sg.:": "brossée",
+			"fém.pl.:": "brossées"
+		}
+	},
+	"imperatif": {
+		"présent": { "brosse": "", "brossons": "", "brossez": "" },
+		"passé": { "aie": "brossé", "ayons": "brossé", "ayez": "brossé" }
+	},
+	"infinitif": { "présent": { "brosser": "" }, "passé": { "avoir": "brossé" } }
+}

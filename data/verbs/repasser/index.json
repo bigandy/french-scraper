@@ -1,0 +1,194 @@
+{
+	"name": "repasser",
+	"definition": "iron; come back; retake; ...",
+	"model": "marcher",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "se repasser/ne pas repasser/ne pas se repasser",
+	"indicatif": {
+		"présent": {
+			"je": "repasse",
+			"tu": "repasses",
+			"il/elle": "repasse",
+			"nous": "repassons",
+			"vous": "repassez",
+			"ils/elles": "repassent"
+		},
+		"imparfait": {
+			"je": "repassais",
+			"tu": "repassais",
+			"il/elle": "repassait",
+			"nous": "repassions",
+			"vous": "repassiez",
+			"ils/elles": "repassaient"
+		},
+		"futur": {
+			"je": "repasserai",
+			"tu": "repasseras",
+			"il/elle": "repassera",
+			"nous": "repasserons",
+			"vous": "repasserez",
+			"ils/elles": "repasseront"
+		},
+		"passé simple": {
+			"je": "repassai",
+			"tu": "repassas",
+			"il/elle": "repassa",
+			"nous": "repassâmes",
+			"vous": "repassâtes",
+			"ils/elles": "repassèrent"
+		},
+		"passé composé": {
+			"j'": "ai repassé",
+			"tu": "es repassé",
+			"il/elle": "a repassé",
+			"nous": "sommes repassés",
+			"vous": "êtes repassés",
+			"ils/elles": "ont repassé",
+			"": "",
+			"je": "suis repassé",
+			"il": "est repassé",
+			"elle": "est repassée",
+			"ils": "sont repassés",
+			"elles": "sont repassées"
+		},
+		"plus-que-parfait": {
+			"j'": "étais repassé",
+			"tu": "étais repassé",
+			"il/elle": "avait repassé",
+			"nous": "étions repassés",
+			"vous": "étiez repassés",
+			"ils/elles": "avaient repassé",
+			"": "",
+			"il": "était repassé",
+			"elle": "était repassée",
+			"ils": "étaient repassés",
+			"elles": "étaient repassées"
+		},
+		"passé antérieur": {
+			"j'": "eus repassé",
+			"tu": "fus repassé",
+			"il/elle": "eut repassé",
+			"nous": "fûmes repassés",
+			"vous": "fûtes repassés",
+			"ils/elles": "eurent repassé",
+			"": "",
+			"je": "fus repassé",
+			"il": "fut repassé",
+			"elle": "fut repassée",
+			"ils": "furent repassés",
+			"elles": "furent repassées"
+		},
+		"futur antérieur": {
+			"j'": "aurai repassé",
+			"tu": "seras repassé",
+			"il/elle": "aura repassé",
+			"nous": "serons repassés",
+			"vous": "serez repassés",
+			"ils/elles": "auront repassé",
+			"": "",
+			"je": "serai repassé",
+			"il": "sera repassé",
+			"elle": "sera repassée",
+			"ils": "seront repassés",
+			"elles": "seront repassées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous repassiez",
+			"qu'il/elle": "repasse",
+			"qu'ils/elles": "repassent"
+		},
+		"imparfait": {
+			"que": "vous repassassiez",
+			"qu'il/elle": "repassât",
+			"qu'ils/elles": "repassassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse repassé",
+			"que": "vous fussiez repassés",
+			"qu'il/elle": "eût repassé",
+			"qu'ils/elles": "eussent repassé",
+			"": "",
+			"qu'il": "fût repassé",
+			"qu'elle": "fût repassée",
+			"qu'ils": "fussent repassés",
+			"qu'elles": "fussent repassées"
+		},
+		"passé": {
+			"j'": "aie repassé",
+			"que": "vous soyez repassés",
+			"qu'il/elle": "ait repassé",
+			"qu'ils/elles": "aient repassé",
+			"": "",
+			"qu'il": "soit repassé",
+			"qu'elle": "soit repassée",
+			"qu'ils": "soient repassés",
+			"qu'elles": "soient repassées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "repasserais",
+			"tu": "repasserais",
+			"il/elle": "repasserait",
+			"nous": "repasserions",
+			"vous": "repasseriez",
+			"ils/elles": "repasseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais repassé",
+			"tu": "serais repassé",
+			"il/elle": "aurait repassé",
+			"nous": "serions repassés",
+			"vous": "seriez repassés",
+			"ils/elles": "auraient repassé",
+			"": "",
+			"je": "serais repassé",
+			"il": "serait repassé",
+			"elle": "serait repassée",
+			"ils": "seraient repassés",
+			"elles": "seraient repassées"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse repassé",
+			"tu": "fusses repassé",
+			"il/elle": "eût repassé",
+			"nous": "fussions repassés",
+			"vous": "fussiez repassés",
+			"ils/elles": "eussent repassé",
+			"": "",
+			"je": "fusse repassé",
+			"il": "fût repassé",
+			"elle": "fût repassée",
+			"ils": "fussent repassés",
+			"elles": "fussent repassées"
+		}
+	},
+	"participe": {
+		"présent": { "repassant": "" },
+		"passé composé": { "ayant": "repassé", "": "", "étant": "repassée" },
+		"passé": {
+			"masc.sg.:": "repassé",
+			"masc.pl.:": "repassés",
+			"fém.sg.:": "repassée",
+			"fém.pl.:": "repassées"
+		}
+	},
+	"imperatif": {
+		"présent": { "repasse": "", "repassons": "", "repassez": "" },
+		"passé": {
+			"aie": "repassé",
+			"ayons": "repassé",
+			"ayez": "repassé",
+			"": "",
+			"sois": "repassé",
+			"soyons": "repassé",
+			"soyez": "repassé"
+		}
+	},
+	"infinitif": {
+		"présent": { "repasser": "" },
+		"passé": { "avoir": "repassé", "": "", "être": "repassé" }
+	}
+}

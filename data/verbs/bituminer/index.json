@@ -1,0 +1,141 @@
+{
+	"name": "bituminer",
+	"definition": "asphalt; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se bituminer/ne pas bituminer/ne pas se bituminer",
+	"indicatif": {
+		"présent": {
+			"je": "bitumine",
+			"tu": "bitumines",
+			"il/elle": "bitumine",
+			"nous": "bituminons",
+			"vous": "bituminez",
+			"ils/elles": "bituminent"
+		},
+		"imparfait": {
+			"je": "bituminais",
+			"tu": "bituminais",
+			"il/elle": "bituminait",
+			"nous": "bituminions",
+			"vous": "bituminiez",
+			"ils/elles": "bituminaient"
+		},
+		"futur": {
+			"je": "bituminerai",
+			"tu": "bitumineras",
+			"il/elle": "bituminera",
+			"nous": "bituminerons",
+			"vous": "bituminerez",
+			"ils/elles": "bitumineront"
+		},
+		"passé simple": {
+			"je": "bituminai",
+			"tu": "bituminas",
+			"il/elle": "bitumina",
+			"nous": "bituminâmes",
+			"vous": "bituminâtes",
+			"ils/elles": "bituminèrent"
+		},
+		"passé composé": {
+			"j'": "ai bituminé",
+			"tu": "as bituminé",
+			"il/elle": "a bituminé",
+			"nous": "avons bituminé",
+			"vous": "avez bituminé",
+			"ils/elles": "ont bituminé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais bituminé",
+			"tu": "avais bituminé",
+			"il/elle": "avait bituminé",
+			"nous": "avions bituminé",
+			"vous": "aviez bituminé",
+			"ils/elles": "avaient bituminé"
+		},
+		"passé antérieur": {
+			"j'": "eus bituminé",
+			"tu": "eus bituminé",
+			"il/elle": "eut bituminé",
+			"nous": "eûmes bituminé",
+			"vous": "eûtes bituminé",
+			"ils/elles": "eurent bituminé"
+		},
+		"futur antérieur": {
+			"j'": "aurai bituminé",
+			"tu": "auras bituminé",
+			"il/elle": "aura bituminé",
+			"nous": "aurons bituminé",
+			"vous": "aurez bituminé",
+			"ils/elles": "auront bituminé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous bituminiez",
+			"qu'il/elle": "bitumine",
+			"qu'ils/elles": "bituminent"
+		},
+		"imparfait": {
+			"que": "vous bituminassiez",
+			"qu'il/elle": "bituminât",
+			"qu'ils/elles": "bituminassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse bituminé",
+			"que": "vous eussiez bituminé",
+			"qu'il/elle": "eût bituminé",
+			"qu'ils/elles": "eussent bituminé"
+		},
+		"passé": {
+			"j'": "aie bituminé",
+			"que": "vous ayez bituminé",
+			"qu'il/elle": "ait bituminé",
+			"qu'ils/elles": "aient bituminé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "bituminerais",
+			"tu": "bituminerais",
+			"il/elle": "bituminerait",
+			"nous": "bituminerions",
+			"vous": "bitumineriez",
+			"ils/elles": "bitumineraient"
+		},
+		"passé première forme": {
+			"j'": "aurais bituminé",
+			"tu": "aurais bituminé",
+			"il/elle": "aurait bituminé",
+			"nous": "aurions bituminé",
+			"vous": "auriez bituminé",
+			"ils/elles": "auraient bituminé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse bituminé",
+			"tu": "eusses bituminé",
+			"il/elle": "eût bituminé",
+			"nous": "eussions bituminé",
+			"vous": "eussiez bituminé",
+			"ils/elles": "eussent bituminé"
+		}
+	},
+	"participe": {
+		"présent": { "bituminant": "" },
+		"passé composé": { "ayant": "bituminé" },
+		"passé": {
+			"masc.sg.:": "bituminé",
+			"masc.pl.:": "bituminés",
+			"fém.sg.:": "bituminée",
+			"fém.pl.:": "bituminées"
+		}
+	},
+	"imperatif": {
+		"présent": { "bitumine": "", "bituminons": "", "bituminez": "" },
+		"passé": { "aie": "bituminé", "ayons": "bituminé", "ayez": "bituminé" }
+	},
+	"infinitif": {
+		"présent": { "bituminer": "" },
+		"passé": { "avoir": "bituminé" }
+	}
+}

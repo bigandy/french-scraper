@@ -1,0 +1,141 @@
+{
+	"name": "souffler",
+	"definition": "blow; breathe; blow out; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se souffler/ne pas souffler/ne pas se souffler",
+	"indicatif": {
+		"présent": {
+			"je": "souffle",
+			"tu": "souffles",
+			"il/elle": "souffle",
+			"nous": "soufflons",
+			"vous": "soufflez",
+			"ils/elles": "soufflent"
+		},
+		"imparfait": {
+			"je": "soufflais",
+			"tu": "soufflais",
+			"il/elle": "soufflait",
+			"nous": "soufflions",
+			"vous": "souffliez",
+			"ils/elles": "soufflaient"
+		},
+		"futur": {
+			"je": "soufflerai",
+			"tu": "souffleras",
+			"il/elle": "soufflera",
+			"nous": "soufflerons",
+			"vous": "soufflerez",
+			"ils/elles": "souffleront"
+		},
+		"passé simple": {
+			"je": "soufflai",
+			"tu": "soufflas",
+			"il/elle": "souffla",
+			"nous": "soufflâmes",
+			"vous": "soufflâtes",
+			"ils/elles": "soufflèrent"
+		},
+		"passé composé": {
+			"j'": "ai soufflé",
+			"tu": "as soufflé",
+			"il/elle": "a soufflé",
+			"nous": "avons soufflé",
+			"vous": "avez soufflé",
+			"ils/elles": "ont soufflé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais soufflé",
+			"tu": "avais soufflé",
+			"il/elle": "avait soufflé",
+			"nous": "avions soufflé",
+			"vous": "aviez soufflé",
+			"ils/elles": "avaient soufflé"
+		},
+		"passé antérieur": {
+			"j'": "eus soufflé",
+			"tu": "eus soufflé",
+			"il/elle": "eut soufflé",
+			"nous": "eûmes soufflé",
+			"vous": "eûtes soufflé",
+			"ils/elles": "eurent soufflé"
+		},
+		"futur antérieur": {
+			"j'": "aurai soufflé",
+			"tu": "auras soufflé",
+			"il/elle": "aura soufflé",
+			"nous": "aurons soufflé",
+			"vous": "aurez soufflé",
+			"ils/elles": "auront soufflé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous souffliez",
+			"qu'il/elle": "souffle",
+			"qu'ils/elles": "soufflent"
+		},
+		"imparfait": {
+			"que": "vous soufflassiez",
+			"qu'il/elle": "soufflât",
+			"qu'ils/elles": "soufflassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse soufflé",
+			"que": "vous eussiez soufflé",
+			"qu'il/elle": "eût soufflé",
+			"qu'ils/elles": "eussent soufflé"
+		},
+		"passé": {
+			"j'": "aie soufflé",
+			"que": "vous ayez soufflé",
+			"qu'il/elle": "ait soufflé",
+			"qu'ils/elles": "aient soufflé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "soufflerais",
+			"tu": "soufflerais",
+			"il/elle": "soufflerait",
+			"nous": "soufflerions",
+			"vous": "souffleriez",
+			"ils/elles": "souffleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais soufflé",
+			"tu": "aurais soufflé",
+			"il/elle": "aurait soufflé",
+			"nous": "aurions soufflé",
+			"vous": "auriez soufflé",
+			"ils/elles": "auraient soufflé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse soufflé",
+			"tu": "eusses soufflé",
+			"il/elle": "eût soufflé",
+			"nous": "eussions soufflé",
+			"vous": "eussiez soufflé",
+			"ils/elles": "eussent soufflé"
+		}
+	},
+	"participe": {
+		"présent": { "soufflant": "" },
+		"passé composé": { "ayant": "soufflé" },
+		"passé": {
+			"masc.sg.:": "soufflé",
+			"masc.pl.:": "soufflés",
+			"fém.sg.:": "soufflée",
+			"fém.pl.:": "soufflées"
+		}
+	},
+	"imperatif": {
+		"présent": { "souffle": "", "soufflons": "", "soufflez": "" },
+		"passé": { "aie": "soufflé", "ayons": "soufflé", "ayez": "soufflé" }
+	},
+	"infinitif": {
+		"présent": { "souffler": "" },
+		"passé": { "avoir": "soufflé" }
+	}
+}

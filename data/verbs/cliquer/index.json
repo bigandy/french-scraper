@@ -1,0 +1,138 @@
+{
+	"name": "cliquer",
+	"definition": "click; click on; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se cliquer/ne pas cliquer/ne pas se cliquer",
+	"indicatif": {
+		"présent": {
+			"je": "clique",
+			"tu": "cliques",
+			"il/elle": "clique",
+			"nous": "cliquons",
+			"vous": "cliquez",
+			"ils/elles": "cliquent"
+		},
+		"imparfait": {
+			"je": "cliquais",
+			"tu": "cliquais",
+			"il/elle": "cliquait",
+			"nous": "cliquions",
+			"vous": "cliquiez",
+			"ils/elles": "cliquaient"
+		},
+		"futur": {
+			"je": "cliquerai",
+			"tu": "cliqueras",
+			"il/elle": "cliquera",
+			"nous": "cliquerons",
+			"vous": "cliquerez",
+			"ils/elles": "cliqueront"
+		},
+		"passé simple": {
+			"je": "cliquai",
+			"tu": "cliquas",
+			"il/elle": "cliqua",
+			"nous": "cliquâmes",
+			"vous": "cliquâtes",
+			"ils/elles": "cliquèrent"
+		},
+		"passé composé": {
+			"j'": "ai cliqué",
+			"tu": "as cliqué",
+			"il/elle": "a cliqué",
+			"nous": "avons cliqué",
+			"vous": "avez cliqué",
+			"ils/elles": "ont cliqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais cliqué",
+			"tu": "avais cliqué",
+			"il/elle": "avait cliqué",
+			"nous": "avions cliqué",
+			"vous": "aviez cliqué",
+			"ils/elles": "avaient cliqué"
+		},
+		"passé antérieur": {
+			"j'": "eus cliqué",
+			"tu": "eus cliqué",
+			"il/elle": "eut cliqué",
+			"nous": "eûmes cliqué",
+			"vous": "eûtes cliqué",
+			"ils/elles": "eurent cliqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai cliqué",
+			"tu": "auras cliqué",
+			"il/elle": "aura cliqué",
+			"nous": "aurons cliqué",
+			"vous": "aurez cliqué",
+			"ils/elles": "auront cliqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous cliquiez",
+			"qu'il/elle": "clique",
+			"qu'ils/elles": "cliquent"
+		},
+		"imparfait": {
+			"que": "vous cliquassiez",
+			"qu'il/elle": "cliquât",
+			"qu'ils/elles": "cliquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse cliqué",
+			"que": "vous eussiez cliqué",
+			"qu'il/elle": "eût cliqué",
+			"qu'ils/elles": "eussent cliqué"
+		},
+		"passé": {
+			"j'": "aie cliqué",
+			"que": "vous ayez cliqué",
+			"qu'il/elle": "ait cliqué",
+			"qu'ils/elles": "aient cliqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "cliquerais",
+			"tu": "cliquerais",
+			"il/elle": "cliquerait",
+			"nous": "cliquerions",
+			"vous": "cliqueriez",
+			"ils/elles": "cliqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais cliqué",
+			"tu": "aurais cliqué",
+			"il/elle": "aurait cliqué",
+			"nous": "aurions cliqué",
+			"vous": "auriez cliqué",
+			"ils/elles": "auraient cliqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse cliqué",
+			"tu": "eusses cliqué",
+			"il/elle": "eût cliqué",
+			"nous": "eussions cliqué",
+			"vous": "eussiez cliqué",
+			"ils/elles": "eussent cliqué"
+		}
+	},
+	"participe": {
+		"présent": { "cliquant": "" },
+		"passé composé": { "ayant": "cliqué" },
+		"passé": {
+			"masc.sg.:": "cliqué",
+			"masc.pl.:": "cliqués",
+			"fém.sg.:": "cliquée",
+			"fém.pl.:": "cliquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "clique": "", "cliquons": "", "cliquez": "" },
+		"passé": { "aie": "cliqué", "ayons": "cliqué", "ayez": "cliqué" }
+	},
+	"infinitif": { "présent": { "cliquer": "" }, "passé": { "avoir": "cliqué" } }
+}

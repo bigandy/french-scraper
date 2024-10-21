@@ -1,0 +1,145 @@
+{
+	"name": "familiariser",
+	"definition": "\n              familiarize; become familiar; familiarise; ...\n            ",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se familiariser/ne pas familiariser/ne pas se familiariser",
+	"indicatif": {
+		"présent": {
+			"je": "familiarise",
+			"tu": "familiarises",
+			"il/elle": "familiarise",
+			"nous": "familiarisons",
+			"vous": "familiarisez",
+			"ils/elles": "familiarisent"
+		},
+		"imparfait": {
+			"je": "familiarisais",
+			"tu": "familiarisais",
+			"il/elle": "familiarisait",
+			"nous": "familiarisions",
+			"vous": "familiarisiez",
+			"ils/elles": "familiarisaient"
+		},
+		"futur": {
+			"je": "familiariserai",
+			"tu": "familiariseras",
+			"il/elle": "familiarisera",
+			"nous": "familiariserons",
+			"vous": "familiariserez",
+			"ils/elles": "familiariseront"
+		},
+		"passé simple": {
+			"je": "familiarisai",
+			"tu": "familiarisas",
+			"il/elle": "familiarisa",
+			"nous": "familiarisâmes",
+			"vous": "familiarisâtes",
+			"ils/elles": "familiarisèrent"
+		},
+		"passé composé": {
+			"j'": "ai familiarisé",
+			"tu": "as familiarisé",
+			"il/elle": "a familiarisé",
+			"nous": "avons familiarisé",
+			"vous": "avez familiarisé",
+			"ils/elles": "ont familiarisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais familiarisé",
+			"tu": "avais familiarisé",
+			"il/elle": "avait familiarisé",
+			"nous": "avions familiarisé",
+			"vous": "aviez familiarisé",
+			"ils/elles": "avaient familiarisé"
+		},
+		"passé antérieur": {
+			"j'": "eus familiarisé",
+			"tu": "eus familiarisé",
+			"il/elle": "eut familiarisé",
+			"nous": "eûmes familiarisé",
+			"vous": "eûtes familiarisé",
+			"ils/elles": "eurent familiarisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai familiarisé",
+			"tu": "auras familiarisé",
+			"il/elle": "aura familiarisé",
+			"nous": "aurons familiarisé",
+			"vous": "aurez familiarisé",
+			"ils/elles": "auront familiarisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous familiarisiez",
+			"qu'il/elle": "familiarise",
+			"qu'ils/elles": "familiarisent"
+		},
+		"imparfait": {
+			"que": "vous familiarisassiez",
+			"qu'il/elle": "familiarisât",
+			"qu'ils/elles": "familiarisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse familiarisé",
+			"que": "vous eussiez familiarisé",
+			"qu'il/elle": "eût familiarisé",
+			"qu'ils/elles": "eussent familiarisé"
+		},
+		"passé": {
+			"j'": "aie familiarisé",
+			"que": "vous ayez familiarisé",
+			"qu'il/elle": "ait familiarisé",
+			"qu'ils/elles": "aient familiarisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "familiariserais",
+			"tu": "familiariserais",
+			"il/elle": "familiariserait",
+			"nous": "familiariserions",
+			"vous": "familiariseriez",
+			"ils/elles": "familiariseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais familiarisé",
+			"tu": "aurais familiarisé",
+			"il/elle": "aurait familiarisé",
+			"nous": "aurions familiarisé",
+			"vous": "auriez familiarisé",
+			"ils/elles": "auraient familiarisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse familiarisé",
+			"tu": "eusses familiarisé",
+			"il/elle": "eût familiarisé",
+			"nous": "eussions familiarisé",
+			"vous": "eussiez familiarisé",
+			"ils/elles": "eussent familiarisé"
+		}
+	},
+	"participe": {
+		"présent": { "familiarisant": "" },
+		"passé composé": { "ayant": "familiarisé" },
+		"passé": {
+			"masc.sg.:": "familiarisé",
+			"masc.pl.:": "familiarisés",
+			"fém.sg.:": "familiarisée",
+			"fém.pl.:": "familiarisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "familiarise": "", "familiarisons": "", "familiarisez": "" },
+		"passé": {
+			"aie": "familiarisé",
+			"ayons": "familiarisé",
+			"ayez": "familiarisé"
+		}
+	},
+	"infinitif": {
+		"présent": { "familiariser": "" },
+		"passé": { "avoir": "familiarisé" }
+	}
+}

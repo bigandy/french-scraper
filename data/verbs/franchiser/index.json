@@ -1,0 +1,141 @@
+{
+	"name": "franchiser",
+	"definition": "franchise; franchize; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se franchiser/ne pas franchiser/ne pas se franchiser",
+	"indicatif": {
+		"présent": {
+			"je": "franchise",
+			"tu": "franchises",
+			"il/elle": "franchise",
+			"nous": "franchisons",
+			"vous": "franchisez",
+			"ils/elles": "franchisent"
+		},
+		"imparfait": {
+			"je": "franchisais",
+			"tu": "franchisais",
+			"il/elle": "franchisait",
+			"nous": "franchisions",
+			"vous": "franchisiez",
+			"ils/elles": "franchisaient"
+		},
+		"futur": {
+			"je": "franchiserai",
+			"tu": "franchiseras",
+			"il/elle": "franchisera",
+			"nous": "franchiserons",
+			"vous": "franchiserez",
+			"ils/elles": "franchiseront"
+		},
+		"passé simple": {
+			"je": "franchisai",
+			"tu": "franchisas",
+			"il/elle": "franchisa",
+			"nous": "franchisâmes",
+			"vous": "franchisâtes",
+			"ils/elles": "franchisèrent"
+		},
+		"passé composé": {
+			"j'": "ai franchisé",
+			"tu": "as franchisé",
+			"il/elle": "a franchisé",
+			"nous": "avons franchisé",
+			"vous": "avez franchisé",
+			"ils/elles": "ont franchisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais franchisé",
+			"tu": "avais franchisé",
+			"il/elle": "avait franchisé",
+			"nous": "avions franchisé",
+			"vous": "aviez franchisé",
+			"ils/elles": "avaient franchisé"
+		},
+		"passé antérieur": {
+			"j'": "eus franchisé",
+			"tu": "eus franchisé",
+			"il/elle": "eut franchisé",
+			"nous": "eûmes franchisé",
+			"vous": "eûtes franchisé",
+			"ils/elles": "eurent franchisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai franchisé",
+			"tu": "auras franchisé",
+			"il/elle": "aura franchisé",
+			"nous": "aurons franchisé",
+			"vous": "aurez franchisé",
+			"ils/elles": "auront franchisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous franchisiez",
+			"qu'il/elle": "franchise",
+			"qu'ils/elles": "franchisent"
+		},
+		"imparfait": {
+			"que": "vous franchisassiez",
+			"qu'il/elle": "franchisât",
+			"qu'ils/elles": "franchisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse franchisé",
+			"que": "vous eussiez franchisé",
+			"qu'il/elle": "eût franchisé",
+			"qu'ils/elles": "eussent franchisé"
+		},
+		"passé": {
+			"j'": "aie franchisé",
+			"que": "vous ayez franchisé",
+			"qu'il/elle": "ait franchisé",
+			"qu'ils/elles": "aient franchisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "franchiserais",
+			"tu": "franchiserais",
+			"il/elle": "franchiserait",
+			"nous": "franchiserions",
+			"vous": "franchiseriez",
+			"ils/elles": "franchiseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais franchisé",
+			"tu": "aurais franchisé",
+			"il/elle": "aurait franchisé",
+			"nous": "aurions franchisé",
+			"vous": "auriez franchisé",
+			"ils/elles": "auraient franchisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse franchisé",
+			"tu": "eusses franchisé",
+			"il/elle": "eût franchisé",
+			"nous": "eussions franchisé",
+			"vous": "eussiez franchisé",
+			"ils/elles": "eussent franchisé"
+		}
+	},
+	"participe": {
+		"présent": { "franchisant": "" },
+		"passé composé": { "ayant": "franchisé" },
+		"passé": {
+			"masc.sg.:": "franchisé",
+			"masc.pl.:": "franchisés",
+			"fém.sg.:": "franchisée",
+			"fém.pl.:": "franchisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "franchise": "", "franchisons": "", "franchisez": "" },
+		"passé": { "aie": "franchisé", "ayons": "franchisé", "ayez": "franchisé" }
+	},
+	"infinitif": {
+		"présent": { "franchiser": "" },
+		"passé": { "avoir": "franchisé" }
+	}
+}

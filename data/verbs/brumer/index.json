@@ -1,0 +1,35 @@
+{
+	"name": "brumer",
+	"definition": "be foggy; ...",
+	"model": "venter",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas brumer",
+	"indicatif": {
+		"présent": { "il": "brume" },
+		"imparfait": { "il": "brumait" },
+		"futur": { "il": "brumera" },
+		"passé simple": { "il": "bruma" },
+		"passé composé": { "il": "a brumé" },
+		"plus-que-parfait": { "il": "avait brumé" },
+		"passé antérieur": { "il": "eut brumé" },
+		"futur antérieur": { "il": "aura brumé" }
+	},
+	"subjonctif": {
+		"présent": { "qu'il": "brume" },
+		"imparfait": { "qu'il": "brumât" },
+		"plus-que-parfait": { "qu'il": "eût brumé" },
+		"passé": { "qu'il": "ait brumé" }
+	},
+	"conditionnel": {
+		"présent": { "il": "brumerait" },
+		"passé première forme": { "il": "aurait brumé" },
+		"passé deuxième forme": { "il": "eût brumé" }
+	},
+	"participe": {
+		"présent": { "brumant": "" },
+		"passé composé": {},
+		"passé": { "brumé": "" }
+	},
+	"imperatif": { "présent": {}, "passé": {} },
+	"infinitif": { "présent": { "brumer": "" }, "passé": { "avoir": "brumé" } }
+}

@@ -1,0 +1,138 @@
+{
+	"name": "pallier",
+	"definition": "address; overcome; compensate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se pallier/ne pas pallier/ne pas se pallier",
+	"indicatif": {
+		"présent": {
+			"je": "pallie",
+			"tu": "pallies",
+			"il/elle": "pallie",
+			"nous": "pallions",
+			"vous": "palliez",
+			"ils/elles": "pallient"
+		},
+		"imparfait": {
+			"je": "palliais",
+			"tu": "palliais",
+			"il/elle": "palliait",
+			"nous": "palliions",
+			"vous": "palliiez",
+			"ils/elles": "palliaient"
+		},
+		"futur": {
+			"je": "pallierai",
+			"tu": "pallieras",
+			"il/elle": "palliera",
+			"nous": "pallierons",
+			"vous": "pallierez",
+			"ils/elles": "pallieront"
+		},
+		"passé simple": {
+			"je": "palliai",
+			"tu": "pallias",
+			"il/elle": "pallia",
+			"nous": "palliâmes",
+			"vous": "palliâtes",
+			"ils/elles": "pallièrent"
+		},
+		"passé composé": {
+			"j'": "ai pallié",
+			"tu": "as pallié",
+			"il/elle": "a pallié",
+			"nous": "avons pallié",
+			"vous": "avez pallié",
+			"ils/elles": "ont pallié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais pallié",
+			"tu": "avais pallié",
+			"il/elle": "avait pallié",
+			"nous": "avions pallié",
+			"vous": "aviez pallié",
+			"ils/elles": "avaient pallié"
+		},
+		"passé antérieur": {
+			"j'": "eus pallié",
+			"tu": "eus pallié",
+			"il/elle": "eut pallié",
+			"nous": "eûmes pallié",
+			"vous": "eûtes pallié",
+			"ils/elles": "eurent pallié"
+		},
+		"futur antérieur": {
+			"j'": "aurai pallié",
+			"tu": "auras pallié",
+			"il/elle": "aura pallié",
+			"nous": "aurons pallié",
+			"vous": "aurez pallié",
+			"ils/elles": "auront pallié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous palliiez",
+			"qu'il/elle": "pallie",
+			"qu'ils/elles": "pallient"
+		},
+		"imparfait": {
+			"que": "vous palliassiez",
+			"qu'il/elle": "palliât",
+			"qu'ils/elles": "palliassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse pallié",
+			"que": "vous eussiez pallié",
+			"qu'il/elle": "eût pallié",
+			"qu'ils/elles": "eussent pallié"
+		},
+		"passé": {
+			"j'": "aie pallié",
+			"que": "vous ayez pallié",
+			"qu'il/elle": "ait pallié",
+			"qu'ils/elles": "aient pallié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "pallierais",
+			"tu": "pallierais",
+			"il/elle": "pallierait",
+			"nous": "pallierions",
+			"vous": "pallieriez",
+			"ils/elles": "pallieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais pallié",
+			"tu": "aurais pallié",
+			"il/elle": "aurait pallié",
+			"nous": "aurions pallié",
+			"vous": "auriez pallié",
+			"ils/elles": "auraient pallié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse pallié",
+			"tu": "eusses pallié",
+			"il/elle": "eût pallié",
+			"nous": "eussions pallié",
+			"vous": "eussiez pallié",
+			"ils/elles": "eussent pallié"
+		}
+	},
+	"participe": {
+		"présent": { "palliant": "" },
+		"passé composé": { "ayant": "pallié" },
+		"passé": {
+			"masc.sg.:": "pallié",
+			"masc.pl.:": "palliés",
+			"fém.sg.:": "palliée",
+			"fém.pl.:": "palliées"
+		}
+	},
+	"imperatif": {
+		"présent": { "pallie": "", "pallions": "", "palliez": "" },
+		"passé": { "aie": "pallié", "ayons": "pallié", "ayez": "pallié" }
+	},
+	"infinitif": { "présent": { "pallier": "" }, "passé": { "avoir": "pallié" } }
+}

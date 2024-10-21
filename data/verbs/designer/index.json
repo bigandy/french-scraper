@@ -1,0 +1,141 @@
+{
+	"name": "designer",
+	"definition": "assign; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se designer/ne pas designer/ne pas se designer",
+	"indicatif": {
+		"présent": {
+			"je": "designe",
+			"tu": "designes",
+			"il/elle": "designe",
+			"nous": "designons",
+			"vous": "designez",
+			"ils/elles": "designent"
+		},
+		"imparfait": {
+			"je": "designais",
+			"tu": "designais",
+			"il/elle": "designait",
+			"nous": "designions",
+			"vous": "designiez",
+			"ils/elles": "designaient"
+		},
+		"futur": {
+			"je": "designerai",
+			"tu": "designeras",
+			"il/elle": "designera",
+			"nous": "designerons",
+			"vous": "designerez",
+			"ils/elles": "designeront"
+		},
+		"passé simple": {
+			"je": "designai",
+			"tu": "designas",
+			"il/elle": "designa",
+			"nous": "designâmes",
+			"vous": "designâtes",
+			"ils/elles": "designèrent"
+		},
+		"passé composé": {
+			"j'": "ai designé",
+			"tu": "as designé",
+			"il/elle": "a designé",
+			"nous": "avons designé",
+			"vous": "avez designé",
+			"ils/elles": "ont designé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais designé",
+			"tu": "avais designé",
+			"il/elle": "avait designé",
+			"nous": "avions designé",
+			"vous": "aviez designé",
+			"ils/elles": "avaient designé"
+		},
+		"passé antérieur": {
+			"j'": "eus designé",
+			"tu": "eus designé",
+			"il/elle": "eut designé",
+			"nous": "eûmes designé",
+			"vous": "eûtes designé",
+			"ils/elles": "eurent designé"
+		},
+		"futur antérieur": {
+			"j'": "aurai designé",
+			"tu": "auras designé",
+			"il/elle": "aura designé",
+			"nous": "aurons designé",
+			"vous": "aurez designé",
+			"ils/elles": "auront designé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous designiez",
+			"qu'il/elle": "designe",
+			"qu'ils/elles": "designent"
+		},
+		"imparfait": {
+			"que": "vous designassiez",
+			"qu'il/elle": "designât",
+			"qu'ils/elles": "designassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse designé",
+			"que": "vous eussiez designé",
+			"qu'il/elle": "eût designé",
+			"qu'ils/elles": "eussent designé"
+		},
+		"passé": {
+			"j'": "aie designé",
+			"que": "vous ayez designé",
+			"qu'il/elle": "ait designé",
+			"qu'ils/elles": "aient designé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "designerais",
+			"tu": "designerais",
+			"il/elle": "designerait",
+			"nous": "designerions",
+			"vous": "designeriez",
+			"ils/elles": "designeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais designé",
+			"tu": "aurais designé",
+			"il/elle": "aurait designé",
+			"nous": "aurions designé",
+			"vous": "auriez designé",
+			"ils/elles": "auraient designé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse designé",
+			"tu": "eusses designé",
+			"il/elle": "eût designé",
+			"nous": "eussions designé",
+			"vous": "eussiez designé",
+			"ils/elles": "eussent designé"
+		}
+	},
+	"participe": {
+		"présent": { "designant": "" },
+		"passé composé": { "ayant": "designé" },
+		"passé": {
+			"masc.sg.:": "designé",
+			"masc.pl.:": "designés",
+			"fém.sg.:": "designée",
+			"fém.pl.:": "designées"
+		}
+	},
+	"imperatif": {
+		"présent": { "designe": "", "designons": "", "designez": "" },
+		"passé": { "aie": "designé", "ayons": "designé", "ayez": "designé" }
+	},
+	"infinitif": {
+		"présent": { "designer": "" },
+		"passé": { "avoir": "designé" }
+	}
+}

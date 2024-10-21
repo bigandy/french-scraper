@@ -1,0 +1,141 @@
+{
+	"name": "clôturer",
+	"definition": "close; end; conclude; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se clôturer/ne pas clôturer/ne pas se clôturer",
+	"indicatif": {
+		"présent": {
+			"je": "clôture",
+			"tu": "clôtures",
+			"il/elle": "clôture",
+			"nous": "clôturons",
+			"vous": "clôturez",
+			"ils/elles": "clôturent"
+		},
+		"imparfait": {
+			"je": "clôturais",
+			"tu": "clôturais",
+			"il/elle": "clôturait",
+			"nous": "clôturions",
+			"vous": "clôturiez",
+			"ils/elles": "clôturaient"
+		},
+		"futur": {
+			"je": "clôturerai",
+			"tu": "clôtureras",
+			"il/elle": "clôturera",
+			"nous": "clôturerons",
+			"vous": "clôturerez",
+			"ils/elles": "clôtureront"
+		},
+		"passé simple": {
+			"je": "clôturai",
+			"tu": "clôturas",
+			"il/elle": "clôtura",
+			"nous": "clôturâmes",
+			"vous": "clôturâtes",
+			"ils/elles": "clôturèrent"
+		},
+		"passé composé": {
+			"j'": "ai clôturé",
+			"tu": "as clôturé",
+			"il/elle": "a clôturé",
+			"nous": "avons clôturé",
+			"vous": "avez clôturé",
+			"ils/elles": "ont clôturé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais clôturé",
+			"tu": "avais clôturé",
+			"il/elle": "avait clôturé",
+			"nous": "avions clôturé",
+			"vous": "aviez clôturé",
+			"ils/elles": "avaient clôturé"
+		},
+		"passé antérieur": {
+			"j'": "eus clôturé",
+			"tu": "eus clôturé",
+			"il/elle": "eut clôturé",
+			"nous": "eûmes clôturé",
+			"vous": "eûtes clôturé",
+			"ils/elles": "eurent clôturé"
+		},
+		"futur antérieur": {
+			"j'": "aurai clôturé",
+			"tu": "auras clôturé",
+			"il/elle": "aura clôturé",
+			"nous": "aurons clôturé",
+			"vous": "aurez clôturé",
+			"ils/elles": "auront clôturé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous clôturiez",
+			"qu'il/elle": "clôture",
+			"qu'ils/elles": "clôturent"
+		},
+		"imparfait": {
+			"que": "vous clôturassiez",
+			"qu'il/elle": "clôturât",
+			"qu'ils/elles": "clôturassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse clôturé",
+			"que": "vous eussiez clôturé",
+			"qu'il/elle": "eût clôturé",
+			"qu'ils/elles": "eussent clôturé"
+		},
+		"passé": {
+			"j'": "aie clôturé",
+			"que": "vous ayez clôturé",
+			"qu'il/elle": "ait clôturé",
+			"qu'ils/elles": "aient clôturé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "clôturerais",
+			"tu": "clôturerais",
+			"il/elle": "clôturerait",
+			"nous": "clôturerions",
+			"vous": "clôtureriez",
+			"ils/elles": "clôtureraient"
+		},
+		"passé première forme": {
+			"j'": "aurais clôturé",
+			"tu": "aurais clôturé",
+			"il/elle": "aurait clôturé",
+			"nous": "aurions clôturé",
+			"vous": "auriez clôturé",
+			"ils/elles": "auraient clôturé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse clôturé",
+			"tu": "eusses clôturé",
+			"il/elle": "eût clôturé",
+			"nous": "eussions clôturé",
+			"vous": "eussiez clôturé",
+			"ils/elles": "eussent clôturé"
+		}
+	},
+	"participe": {
+		"présent": { "clôturant": "" },
+		"passé composé": { "ayant": "clôturé" },
+		"passé": {
+			"masc.sg.:": "clôturé",
+			"masc.pl.:": "clôturés",
+			"fém.sg.:": "clôturée",
+			"fém.pl.:": "clôturées"
+		}
+	},
+	"imperatif": {
+		"présent": { "clôture": "", "clôturons": "", "clôturez": "" },
+		"passé": { "aie": "clôturé", "ayons": "clôturé", "ayez": "clôturé" }
+	},
+	"infinitif": {
+		"présent": { "clôturer": "" },
+		"passé": { "avoir": "clôturé" }
+	}
+}

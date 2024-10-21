@@ -1,0 +1,141 @@
+{
+	"name": "succomber",
+	"definition": "succumb; yield; succomb; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas succomber",
+	"indicatif": {
+		"présent": {
+			"je": "succombe",
+			"tu": "succombes",
+			"il/elle": "succombe",
+			"nous": "succombons",
+			"vous": "succombez",
+			"ils/elles": "succombent"
+		},
+		"imparfait": {
+			"je": "succombais",
+			"tu": "succombais",
+			"il/elle": "succombait",
+			"nous": "succombions",
+			"vous": "succombiez",
+			"ils/elles": "succombaient"
+		},
+		"futur": {
+			"je": "succomberai",
+			"tu": "succomberas",
+			"il/elle": "succombera",
+			"nous": "succomberons",
+			"vous": "succomberez",
+			"ils/elles": "succomberont"
+		},
+		"passé simple": {
+			"je": "succombai",
+			"tu": "succombas",
+			"il/elle": "succomba",
+			"nous": "succombâmes",
+			"vous": "succombâtes",
+			"ils/elles": "succombèrent"
+		},
+		"passé composé": {
+			"j'": "ai succombé",
+			"tu": "as succombé",
+			"il/elle": "a succombé",
+			"nous": "avons succombé",
+			"vous": "avez succombé",
+			"ils/elles": "ont succombé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais succombé",
+			"tu": "avais succombé",
+			"il/elle": "avait succombé",
+			"nous": "avions succombé",
+			"vous": "aviez succombé",
+			"ils/elles": "avaient succombé"
+		},
+		"passé antérieur": {
+			"j'": "eus succombé",
+			"tu": "eus succombé",
+			"il/elle": "eut succombé",
+			"nous": "eûmes succombé",
+			"vous": "eûtes succombé",
+			"ils/elles": "eurent succombé"
+		},
+		"futur antérieur": {
+			"j'": "aurai succombé",
+			"tu": "auras succombé",
+			"il/elle": "aura succombé",
+			"nous": "aurons succombé",
+			"vous": "aurez succombé",
+			"ils/elles": "auront succombé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous succombiez",
+			"qu'il/elle": "succombe",
+			"qu'ils/elles": "succombent"
+		},
+		"imparfait": {
+			"que": "vous succombassiez",
+			"qu'il/elle": "succombât",
+			"qu'ils/elles": "succombassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse succombé",
+			"que": "vous eussiez succombé",
+			"qu'il/elle": "eût succombé",
+			"qu'ils/elles": "eussent succombé"
+		},
+		"passé": {
+			"j'": "aie succombé",
+			"que": "vous ayez succombé",
+			"qu'il/elle": "ait succombé",
+			"qu'ils/elles": "aient succombé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "succomberais",
+			"tu": "succomberais",
+			"il/elle": "succomberait",
+			"nous": "succomberions",
+			"vous": "succomberiez",
+			"ils/elles": "succomberaient"
+		},
+		"passé première forme": {
+			"j'": "aurais succombé",
+			"tu": "aurais succombé",
+			"il/elle": "aurait succombé",
+			"nous": "aurions succombé",
+			"vous": "auriez succombé",
+			"ils/elles": "auraient succombé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse succombé",
+			"tu": "eusses succombé",
+			"il/elle": "eût succombé",
+			"nous": "eussions succombé",
+			"vous": "eussiez succombé",
+			"ils/elles": "eussent succombé"
+		}
+	},
+	"participe": {
+		"présent": { "succombant": "" },
+		"passé composé": { "ayant": "succombé" },
+		"passé": {
+			"masc.sg.:": "succombé",
+			"masc.pl.:": "succombés",
+			"fém.sg.:": "succombée",
+			"fém.pl.:": "succombées"
+		}
+	},
+	"imperatif": {
+		"présent": { "succombe": "", "succombons": "", "succombez": "" },
+		"passé": { "aie": "succombé", "ayons": "succombé", "ayez": "succombé" }
+	},
+	"infinitif": {
+		"présent": { "succomber": "" },
+		"passé": { "avoir": "succombé" }
+	}
+}

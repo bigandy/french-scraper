@@ -1,0 +1,138 @@
+{
+	"name": "hanter",
+	"definition": "haunt; obsess; frequent; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se hanter/ne pas hanter/ne pas se hanter",
+	"indicatif": {
+		"présent": {
+			"je": "hante",
+			"tu": "hantes",
+			"il/elle": "hante",
+			"nous": "hantons",
+			"vous": "hantez",
+			"ils/elles": "hantent"
+		},
+		"imparfait": {
+			"je": "hantais",
+			"tu": "hantais",
+			"il/elle": "hantait",
+			"nous": "hantions",
+			"vous": "hantiez",
+			"ils/elles": "hantaient"
+		},
+		"futur": {
+			"je": "hanterai",
+			"tu": "hanteras",
+			"il/elle": "hantera",
+			"nous": "hanterons",
+			"vous": "hanterez",
+			"ils/elles": "hanteront"
+		},
+		"passé simple": {
+			"je": "hantai",
+			"tu": "hantas",
+			"il/elle": "hanta",
+			"nous": "hantâmes",
+			"vous": "hantâtes",
+			"ils/elles": "hantèrent"
+		},
+		"passé composé": {
+			"j'": "ai hanté",
+			"tu": "as hanté",
+			"il/elle": "a hanté",
+			"nous": "avons hanté",
+			"vous": "avez hanté",
+			"ils/elles": "ont hanté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais hanté",
+			"tu": "avais hanté",
+			"il/elle": "avait hanté",
+			"nous": "avions hanté",
+			"vous": "aviez hanté",
+			"ils/elles": "avaient hanté"
+		},
+		"passé antérieur": {
+			"j'": "eus hanté",
+			"tu": "eus hanté",
+			"il/elle": "eut hanté",
+			"nous": "eûmes hanté",
+			"vous": "eûtes hanté",
+			"ils/elles": "eurent hanté"
+		},
+		"futur antérieur": {
+			"j'": "aurai hanté",
+			"tu": "auras hanté",
+			"il/elle": "aura hanté",
+			"nous": "aurons hanté",
+			"vous": "aurez hanté",
+			"ils/elles": "auront hanté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous hantiez",
+			"qu'il/elle": "hante",
+			"qu'ils/elles": "hantent"
+		},
+		"imparfait": {
+			"que": "vous hantassiez",
+			"qu'il/elle": "hantât",
+			"qu'ils/elles": "hantassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse hanté",
+			"que": "vous eussiez hanté",
+			"qu'il/elle": "eût hanté",
+			"qu'ils/elles": "eussent hanté"
+		},
+		"passé": {
+			"j'": "aie hanté",
+			"que": "vous ayez hanté",
+			"qu'il/elle": "ait hanté",
+			"qu'ils/elles": "aient hanté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "hanterais",
+			"tu": "hanterais",
+			"il/elle": "hanterait",
+			"nous": "hanterions",
+			"vous": "hanteriez",
+			"ils/elles": "hanteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais hanté",
+			"tu": "aurais hanté",
+			"il/elle": "aurait hanté",
+			"nous": "aurions hanté",
+			"vous": "auriez hanté",
+			"ils/elles": "auraient hanté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse hanté",
+			"tu": "eusses hanté",
+			"il/elle": "eût hanté",
+			"nous": "eussions hanté",
+			"vous": "eussiez hanté",
+			"ils/elles": "eussent hanté"
+		}
+	},
+	"participe": {
+		"présent": { "hantant": "" },
+		"passé composé": { "ayant": "hanté" },
+		"passé": {
+			"masc.sg.:": "hanté",
+			"masc.pl.:": "hantés",
+			"fém.sg.:": "hantée",
+			"fém.pl.:": "hantées"
+		}
+	},
+	"imperatif": {
+		"présent": { "hante": "", "hantons": "", "hantez": "" },
+		"passé": { "aie": "hanté", "ayons": "hanté", "ayez": "hanté" }
+	},
+	"infinitif": { "présent": { "hanter": "" }, "passé": { "avoir": "hanté" } }
+}

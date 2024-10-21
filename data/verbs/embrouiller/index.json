@@ -1,0 +1,147 @@
+{
+	"name": "embrouiller",
+	"definition": "confuse; scramble; cloud; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'embrouiller/ne pas embrouiller/ne pas s'embrouiller",
+	"indicatif": {
+		"présent": {
+			"j'": "embrouille",
+			"tu": "embrouilles",
+			"il/elle": "embrouille",
+			"nous": "embrouillons",
+			"vous": "embrouillez",
+			"ils/elles": "embrouillent"
+		},
+		"imparfait": {
+			"j'": "embrouillais",
+			"tu": "embrouillais",
+			"il/elle": "embrouillait",
+			"nous": "embrouillions",
+			"vous": "embrouilliez",
+			"ils/elles": "embrouillaient"
+		},
+		"futur": {
+			"j'": "embrouillerai",
+			"tu": "embrouilleras",
+			"il/elle": "embrouillera",
+			"nous": "embrouillerons",
+			"vous": "embrouillerez",
+			"ils/elles": "embrouilleront"
+		},
+		"passé simple": {
+			"j'": "embrouillai",
+			"tu": "embrouillas",
+			"il/elle": "embrouilla",
+			"nous": "embrouillâmes",
+			"vous": "embrouillâtes",
+			"ils/elles": "embrouillèrent"
+		},
+		"passé composé": {
+			"j'": "ai embrouillé",
+			"tu": "as embrouillé",
+			"il/elle": "a embrouillé",
+			"nous": "avons embrouillé",
+			"vous": "avez embrouillé",
+			"ils/elles": "ont embrouillé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais embrouillé",
+			"tu": "avais embrouillé",
+			"il/elle": "avait embrouillé",
+			"nous": "avions embrouillé",
+			"vous": "aviez embrouillé",
+			"ils/elles": "avaient embrouillé"
+		},
+		"passé antérieur": {
+			"j'": "eus embrouillé",
+			"tu": "eus embrouillé",
+			"il/elle": "eut embrouillé",
+			"nous": "eûmes embrouillé",
+			"vous": "eûtes embrouillé",
+			"ils/elles": "eurent embrouillé"
+		},
+		"futur antérieur": {
+			"j'": "aurai embrouillé",
+			"tu": "auras embrouillé",
+			"il/elle": "aura embrouillé",
+			"nous": "aurons embrouillé",
+			"vous": "aurez embrouillé",
+			"ils/elles": "auront embrouillé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "embrouille",
+			"que": "vous embrouilliez",
+			"qu'il/elle": "embrouille",
+			"qu'ils/elles": "embrouillent"
+		},
+		"imparfait": {
+			"j'": "embrouillasse",
+			"que": "vous embrouillassiez",
+			"qu'il/elle": "embrouillât",
+			"qu'ils/elles": "embrouillassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse embrouillé",
+			"que": "vous eussiez embrouillé",
+			"qu'il/elle": "eût embrouillé",
+			"qu'ils/elles": "eussent embrouillé"
+		},
+		"passé": {
+			"j'": "aie embrouillé",
+			"que": "vous ayez embrouillé",
+			"qu'il/elle": "ait embrouillé",
+			"qu'ils/elles": "aient embrouillé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "embrouillerais",
+			"tu": "embrouillerais",
+			"il/elle": "embrouillerait",
+			"nous": "embrouillerions",
+			"vous": "embrouilleriez",
+			"ils/elles": "embrouilleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais embrouillé",
+			"tu": "aurais embrouillé",
+			"il/elle": "aurait embrouillé",
+			"nous": "aurions embrouillé",
+			"vous": "auriez embrouillé",
+			"ils/elles": "auraient embrouillé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse embrouillé",
+			"tu": "eusses embrouillé",
+			"il/elle": "eût embrouillé",
+			"nous": "eussions embrouillé",
+			"vous": "eussiez embrouillé",
+			"ils/elles": "eussent embrouillé"
+		}
+	},
+	"participe": {
+		"présent": { "embrouillant": "" },
+		"passé composé": { "ayant": "embrouillé" },
+		"passé": {
+			"masc.sg.:": "embrouillé",
+			"masc.pl.:": "embrouillés",
+			"fém.sg.:": "embrouillée",
+			"fém.pl.:": "embrouillées"
+		}
+	},
+	"imperatif": {
+		"présent": { "embrouille": "", "embrouillons": "", "embrouillez": "" },
+		"passé": {
+			"aie": "embrouillé",
+			"ayons": "embrouillé",
+			"ayez": "embrouillé"
+		}
+	},
+	"infinitif": {
+		"présent": { "embrouiller": "" },
+		"passé": { "avoir": "embrouillé" }
+	}
+}

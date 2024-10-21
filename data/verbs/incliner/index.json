@@ -1,0 +1,143 @@
+{
+	"name": "incliner",
+	"definition": "tilt; bow; incline; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'incliner/ne pas incliner/ne pas s'incliner",
+	"indicatif": {
+		"présent": {
+			"j'": "incline",
+			"tu": "inclines",
+			"il/elle": "incline",
+			"nous": "inclinons",
+			"vous": "inclinez",
+			"ils/elles": "inclinent"
+		},
+		"imparfait": {
+			"j'": "inclinais",
+			"tu": "inclinais",
+			"il/elle": "inclinait",
+			"nous": "inclinions",
+			"vous": "incliniez",
+			"ils/elles": "inclinaient"
+		},
+		"futur": {
+			"j'": "inclinerai",
+			"tu": "inclineras",
+			"il/elle": "inclinera",
+			"nous": "inclinerons",
+			"vous": "inclinerez",
+			"ils/elles": "inclineront"
+		},
+		"passé simple": {
+			"j'": "inclinai",
+			"tu": "inclinas",
+			"il/elle": "inclina",
+			"nous": "inclinâmes",
+			"vous": "inclinâtes",
+			"ils/elles": "inclinèrent"
+		},
+		"passé composé": {
+			"j'": "ai incliné",
+			"tu": "as incliné",
+			"il/elle": "a incliné",
+			"nous": "avons incliné",
+			"vous": "avez incliné",
+			"ils/elles": "ont incliné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais incliné",
+			"tu": "avais incliné",
+			"il/elle": "avait incliné",
+			"nous": "avions incliné",
+			"vous": "aviez incliné",
+			"ils/elles": "avaient incliné"
+		},
+		"passé antérieur": {
+			"j'": "eus incliné",
+			"tu": "eus incliné",
+			"il/elle": "eut incliné",
+			"nous": "eûmes incliné",
+			"vous": "eûtes incliné",
+			"ils/elles": "eurent incliné"
+		},
+		"futur antérieur": {
+			"j'": "aurai incliné",
+			"tu": "auras incliné",
+			"il/elle": "aura incliné",
+			"nous": "aurons incliné",
+			"vous": "aurez incliné",
+			"ils/elles": "auront incliné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "incline",
+			"que": "vous incliniez",
+			"qu'il/elle": "incline",
+			"qu'ils/elles": "inclinent"
+		},
+		"imparfait": {
+			"j'": "inclinasse",
+			"que": "vous inclinassiez",
+			"qu'il/elle": "inclinât",
+			"qu'ils/elles": "inclinassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse incliné",
+			"que": "vous eussiez incliné",
+			"qu'il/elle": "eût incliné",
+			"qu'ils/elles": "eussent incliné"
+		},
+		"passé": {
+			"j'": "aie incliné",
+			"que": "vous ayez incliné",
+			"qu'il/elle": "ait incliné",
+			"qu'ils/elles": "aient incliné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "inclinerais",
+			"tu": "inclinerais",
+			"il/elle": "inclinerait",
+			"nous": "inclinerions",
+			"vous": "inclineriez",
+			"ils/elles": "inclineraient"
+		},
+		"passé première forme": {
+			"j'": "aurais incliné",
+			"tu": "aurais incliné",
+			"il/elle": "aurait incliné",
+			"nous": "aurions incliné",
+			"vous": "auriez incliné",
+			"ils/elles": "auraient incliné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse incliné",
+			"tu": "eusses incliné",
+			"il/elle": "eût incliné",
+			"nous": "eussions incliné",
+			"vous": "eussiez incliné",
+			"ils/elles": "eussent incliné"
+		}
+	},
+	"participe": {
+		"présent": { "inclinant": "" },
+		"passé composé": { "ayant": "incliné" },
+		"passé": {
+			"masc.sg.:": "incliné",
+			"masc.pl.:": "inclinés",
+			"fém.sg.:": "inclinée",
+			"fém.pl.:": "inclinées"
+		}
+	},
+	"imperatif": {
+		"présent": { "incline": "", "inclinons": "", "inclinez": "" },
+		"passé": { "aie": "incliné", "ayons": "incliné", "ayez": "incliné" }
+	},
+	"infinitif": {
+		"présent": { "incliner": "" },
+		"passé": { "avoir": "incliné" }
+	}
+}

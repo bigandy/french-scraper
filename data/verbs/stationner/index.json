@@ -1,0 +1,194 @@
+{
+	"name": "stationner",
+	"definition": "park; station; ...",
+	"model": "marcher",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "se stationner/ne pas stationner/ne pas se stationner",
+	"indicatif": {
+		"présent": {
+			"je": "stationne",
+			"tu": "stationnes",
+			"il/elle": "stationne",
+			"nous": "stationnons",
+			"vous": "stationnez",
+			"ils/elles": "stationnent"
+		},
+		"imparfait": {
+			"je": "stationnais",
+			"tu": "stationnais",
+			"il/elle": "stationnait",
+			"nous": "stationnions",
+			"vous": "stationniez",
+			"ils/elles": "stationnaient"
+		},
+		"futur": {
+			"je": "stationnerai",
+			"tu": "stationneras",
+			"il/elle": "stationnera",
+			"nous": "stationnerons",
+			"vous": "stationnerez",
+			"ils/elles": "stationneront"
+		},
+		"passé simple": {
+			"je": "stationnai",
+			"tu": "stationnas",
+			"il/elle": "stationna",
+			"nous": "stationnâmes",
+			"vous": "stationnâtes",
+			"ils/elles": "stationnèrent"
+		},
+		"passé composé": {
+			"j'": "ai stationné",
+			"tu": "es stationné",
+			"il/elle": "a stationné",
+			"nous": "sommes stationnés",
+			"vous": "êtes stationnés",
+			"ils/elles": "ont stationné",
+			"": "",
+			"je": "suis stationné",
+			"il": "est stationné",
+			"elle": "est stationnée",
+			"ils": "sont stationnés",
+			"elles": "sont stationnées"
+		},
+		"plus-que-parfait": {
+			"j'": "étais stationné",
+			"tu": "étais stationné",
+			"il/elle": "avait stationné",
+			"nous": "étions stationnés",
+			"vous": "étiez stationnés",
+			"ils/elles": "avaient stationné",
+			"": "",
+			"il": "était stationné",
+			"elle": "était stationnée",
+			"ils": "étaient stationnés",
+			"elles": "étaient stationnées"
+		},
+		"passé antérieur": {
+			"j'": "eus stationné",
+			"tu": "fus stationné",
+			"il/elle": "eut stationné",
+			"nous": "fûmes stationnés",
+			"vous": "fûtes stationnés",
+			"ils/elles": "eurent stationné",
+			"": "",
+			"je": "fus stationné",
+			"il": "fut stationné",
+			"elle": "fut stationnée",
+			"ils": "furent stationnés",
+			"elles": "furent stationnées"
+		},
+		"futur antérieur": {
+			"j'": "aurai stationné",
+			"tu": "seras stationné",
+			"il/elle": "aura stationné",
+			"nous": "serons stationnés",
+			"vous": "serez stationnés",
+			"ils/elles": "auront stationné",
+			"": "",
+			"je": "serai stationné",
+			"il": "sera stationné",
+			"elle": "sera stationnée",
+			"ils": "seront stationnés",
+			"elles": "seront stationnées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous stationniez",
+			"qu'il/elle": "stationne",
+			"qu'ils/elles": "stationnent"
+		},
+		"imparfait": {
+			"que": "vous stationnassiez",
+			"qu'il/elle": "stationnât",
+			"qu'ils/elles": "stationnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse stationné",
+			"que": "vous fussiez stationnés",
+			"qu'il/elle": "eût stationné",
+			"qu'ils/elles": "eussent stationné",
+			"": "",
+			"qu'il": "fût stationné",
+			"qu'elle": "fût stationnée",
+			"qu'ils": "fussent stationnés",
+			"qu'elles": "fussent stationnées"
+		},
+		"passé": {
+			"j'": "aie stationné",
+			"que": "vous soyez stationnés",
+			"qu'il/elle": "ait stationné",
+			"qu'ils/elles": "aient stationné",
+			"": "",
+			"qu'il": "soit stationné",
+			"qu'elle": "soit stationnée",
+			"qu'ils": "soient stationnés",
+			"qu'elles": "soient stationnées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "stationnerais",
+			"tu": "stationnerais",
+			"il/elle": "stationnerait",
+			"nous": "stationnerions",
+			"vous": "stationneriez",
+			"ils/elles": "stationneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais stationné",
+			"tu": "serais stationné",
+			"il/elle": "aurait stationné",
+			"nous": "serions stationnés",
+			"vous": "seriez stationnés",
+			"ils/elles": "auraient stationné",
+			"": "",
+			"je": "serais stationné",
+			"il": "serait stationné",
+			"elle": "serait stationnée",
+			"ils": "seraient stationnés",
+			"elles": "seraient stationnées"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse stationné",
+			"tu": "fusses stationné",
+			"il/elle": "eût stationné",
+			"nous": "fussions stationnés",
+			"vous": "fussiez stationnés",
+			"ils/elles": "eussent stationné",
+			"": "",
+			"je": "fusse stationné",
+			"il": "fût stationné",
+			"elle": "fût stationnée",
+			"ils": "fussent stationnés",
+			"elles": "fussent stationnées"
+		}
+	},
+	"participe": {
+		"présent": { "stationnant": "" },
+		"passé composé": { "ayant": "stationné", "": "", "étant": "stationnée" },
+		"passé": {
+			"masc.sg.:": "stationné",
+			"masc.pl.:": "stationnés",
+			"fém.sg.:": "stationnée",
+			"fém.pl.:": "stationnées"
+		}
+	},
+	"imperatif": {
+		"présent": { "stationne": "", "stationnons": "", "stationnez": "" },
+		"passé": {
+			"aie": "stationné",
+			"ayons": "stationné",
+			"ayez": "stationné",
+			"": "",
+			"sois": "stationné",
+			"soyons": "stationné",
+			"soyez": "stationné"
+		}
+	},
+	"infinitif": {
+		"présent": { "stationner": "" },
+		"passé": { "avoir": "stationné", "": "", "être": "stationné" }
+	}
+}

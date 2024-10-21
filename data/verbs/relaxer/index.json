@@ -1,0 +1,138 @@
+{
+	"name": "relaxer",
+	"definition": "relax; unwind; chill out; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se relaxer/ne pas relaxer/ne pas se relaxer",
+	"indicatif": {
+		"présent": {
+			"je": "relaxe",
+			"tu": "relaxes",
+			"il/elle": "relaxe",
+			"nous": "relaxons",
+			"vous": "relaxez",
+			"ils/elles": "relaxent"
+		},
+		"imparfait": {
+			"je": "relaxais",
+			"tu": "relaxais",
+			"il/elle": "relaxait",
+			"nous": "relaxions",
+			"vous": "relaxiez",
+			"ils/elles": "relaxaient"
+		},
+		"futur": {
+			"je": "relaxerai",
+			"tu": "relaxeras",
+			"il/elle": "relaxera",
+			"nous": "relaxerons",
+			"vous": "relaxerez",
+			"ils/elles": "relaxeront"
+		},
+		"passé simple": {
+			"je": "relaxai",
+			"tu": "relaxas",
+			"il/elle": "relaxa",
+			"nous": "relaxâmes",
+			"vous": "relaxâtes",
+			"ils/elles": "relaxèrent"
+		},
+		"passé composé": {
+			"j'": "ai relaxé",
+			"tu": "as relaxé",
+			"il/elle": "a relaxé",
+			"nous": "avons relaxé",
+			"vous": "avez relaxé",
+			"ils/elles": "ont relaxé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais relaxé",
+			"tu": "avais relaxé",
+			"il/elle": "avait relaxé",
+			"nous": "avions relaxé",
+			"vous": "aviez relaxé",
+			"ils/elles": "avaient relaxé"
+		},
+		"passé antérieur": {
+			"j'": "eus relaxé",
+			"tu": "eus relaxé",
+			"il/elle": "eut relaxé",
+			"nous": "eûmes relaxé",
+			"vous": "eûtes relaxé",
+			"ils/elles": "eurent relaxé"
+		},
+		"futur antérieur": {
+			"j'": "aurai relaxé",
+			"tu": "auras relaxé",
+			"il/elle": "aura relaxé",
+			"nous": "aurons relaxé",
+			"vous": "aurez relaxé",
+			"ils/elles": "auront relaxé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous relaxiez",
+			"qu'il/elle": "relaxe",
+			"qu'ils/elles": "relaxent"
+		},
+		"imparfait": {
+			"que": "vous relaxassiez",
+			"qu'il/elle": "relaxât",
+			"qu'ils/elles": "relaxassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse relaxé",
+			"que": "vous eussiez relaxé",
+			"qu'il/elle": "eût relaxé",
+			"qu'ils/elles": "eussent relaxé"
+		},
+		"passé": {
+			"j'": "aie relaxé",
+			"que": "vous ayez relaxé",
+			"qu'il/elle": "ait relaxé",
+			"qu'ils/elles": "aient relaxé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "relaxerais",
+			"tu": "relaxerais",
+			"il/elle": "relaxerait",
+			"nous": "relaxerions",
+			"vous": "relaxeriez",
+			"ils/elles": "relaxeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais relaxé",
+			"tu": "aurais relaxé",
+			"il/elle": "aurait relaxé",
+			"nous": "aurions relaxé",
+			"vous": "auriez relaxé",
+			"ils/elles": "auraient relaxé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse relaxé",
+			"tu": "eusses relaxé",
+			"il/elle": "eût relaxé",
+			"nous": "eussions relaxé",
+			"vous": "eussiez relaxé",
+			"ils/elles": "eussent relaxé"
+		}
+	},
+	"participe": {
+		"présent": { "relaxant": "" },
+		"passé composé": { "ayant": "relaxé" },
+		"passé": {
+			"masc.sg.:": "relaxé",
+			"masc.pl.:": "relaxés",
+			"fém.sg.:": "relaxée",
+			"fém.pl.:": "relaxées"
+		}
+	},
+	"imperatif": {
+		"présent": { "relaxe": "", "relaxons": "", "relaxez": "" },
+		"passé": { "aie": "relaxé", "ayons": "relaxé", "ayez": "relaxé" }
+	},
+	"infinitif": { "présent": { "relaxer": "" }, "passé": { "avoir": "relaxé" } }
+}

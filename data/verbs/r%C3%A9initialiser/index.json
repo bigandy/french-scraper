@@ -1,0 +1,149 @@
+{
+	"name": "réinitialiser",
+	"definition": "reset; reinitialize; reboot; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se réinitialiser/ne pas réinitialiser/ne pas se réinitialiser",
+	"indicatif": {
+		"présent": {
+			"je": "réinitialise",
+			"tu": "réinitialises",
+			"il/elle": "réinitialise",
+			"nous": "réinitialisons",
+			"vous": "réinitialisez",
+			"ils/elles": "réinitialisent"
+		},
+		"imparfait": {
+			"je": "réinitialisais",
+			"tu": "réinitialisais",
+			"il/elle": "réinitialisait",
+			"nous": "réinitialisions",
+			"vous": "réinitialisiez",
+			"ils/elles": "réinitialisaient"
+		},
+		"futur": {
+			"je": "réinitialiserai",
+			"tu": "réinitialiseras",
+			"il/elle": "réinitialisera",
+			"nous": "réinitialiserons",
+			"vous": "réinitialiserez",
+			"ils/elles": "réinitialiseront"
+		},
+		"passé simple": {
+			"je": "réinitialisai",
+			"tu": "réinitialisas",
+			"il/elle": "réinitialisa",
+			"nous": "réinitialisâmes",
+			"vous": "réinitialisâtes",
+			"ils/elles": "réinitialisèrent"
+		},
+		"passé composé": {
+			"j'": "ai réinitialisé",
+			"tu": "as réinitialisé",
+			"il/elle": "a réinitialisé",
+			"nous": "avons réinitialisé",
+			"vous": "avez réinitialisé",
+			"ils/elles": "ont réinitialisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais réinitialisé",
+			"tu": "avais réinitialisé",
+			"il/elle": "avait réinitialisé",
+			"nous": "avions réinitialisé",
+			"vous": "aviez réinitialisé",
+			"ils/elles": "avaient réinitialisé"
+		},
+		"passé antérieur": {
+			"j'": "eus réinitialisé",
+			"tu": "eus réinitialisé",
+			"il/elle": "eut réinitialisé",
+			"nous": "eûmes réinitialisé",
+			"vous": "eûtes réinitialisé",
+			"ils/elles": "eurent réinitialisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai réinitialisé",
+			"tu": "auras réinitialisé",
+			"il/elle": "aura réinitialisé",
+			"nous": "aurons réinitialisé",
+			"vous": "aurez réinitialisé",
+			"ils/elles": "auront réinitialisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous réinitialisiez",
+			"qu'il/elle": "réinitialise",
+			"qu'ils/elles": "réinitialisent"
+		},
+		"imparfait": {
+			"que": "vous réinitialisassiez",
+			"qu'il/elle": "réinitialisât",
+			"qu'ils/elles": "réinitialisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse réinitialisé",
+			"que": "vous eussiez réinitialisé",
+			"qu'il/elle": "eût réinitialisé",
+			"qu'ils/elles": "eussent réinitialisé"
+		},
+		"passé": {
+			"j'": "aie réinitialisé",
+			"que": "vous ayez réinitialisé",
+			"qu'il/elle": "ait réinitialisé",
+			"qu'ils/elles": "aient réinitialisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "réinitialiserais",
+			"tu": "réinitialiserais",
+			"il/elle": "réinitialiserait",
+			"nous": "réinitialiserions",
+			"vous": "réinitialiseriez",
+			"ils/elles": "réinitialiseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais réinitialisé",
+			"tu": "aurais réinitialisé",
+			"il/elle": "aurait réinitialisé",
+			"nous": "aurions réinitialisé",
+			"vous": "auriez réinitialisé",
+			"ils/elles": "auraient réinitialisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse réinitialisé",
+			"tu": "eusses réinitialisé",
+			"il/elle": "eût réinitialisé",
+			"nous": "eussions réinitialisé",
+			"vous": "eussiez réinitialisé",
+			"ils/elles": "eussent réinitialisé"
+		}
+	},
+	"participe": {
+		"présent": { "réinitialisant": "" },
+		"passé composé": { "ayant": "réinitialisé" },
+		"passé": {
+			"masc.sg.:": "réinitialisé",
+			"masc.pl.:": "réinitialisés",
+			"fém.sg.:": "réinitialisée",
+			"fém.pl.:": "réinitialisées"
+		}
+	},
+	"imperatif": {
+		"présent": {
+			"réinitialise": "",
+			"réinitialisons": "",
+			"réinitialisez": ""
+		},
+		"passé": {
+			"aie": "réinitialisé",
+			"ayons": "réinitialisé",
+			"ayez": "réinitialisé"
+		}
+	},
+	"infinitif": {
+		"présent": { "réinitialiser": "" },
+		"passé": { "avoir": "réinitialisé" }
+	}
+}

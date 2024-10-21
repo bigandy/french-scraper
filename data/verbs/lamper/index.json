@@ -1,0 +1,138 @@
+{
+	"name": "lamper",
+	"definition": "quaff; swig; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se lamper/ne pas lamper/ne pas se lamper",
+	"indicatif": {
+		"présent": {
+			"je": "lampe",
+			"tu": "lampes",
+			"il/elle": "lampe",
+			"nous": "lampons",
+			"vous": "lampez",
+			"ils/elles": "lampent"
+		},
+		"imparfait": {
+			"je": "lampais",
+			"tu": "lampais",
+			"il/elle": "lampait",
+			"nous": "lampions",
+			"vous": "lampiez",
+			"ils/elles": "lampaient"
+		},
+		"futur": {
+			"je": "lamperai",
+			"tu": "lamperas",
+			"il/elle": "lampera",
+			"nous": "lamperons",
+			"vous": "lamperez",
+			"ils/elles": "lamperont"
+		},
+		"passé simple": {
+			"je": "lampai",
+			"tu": "lampas",
+			"il/elle": "lampa",
+			"nous": "lampâmes",
+			"vous": "lampâtes",
+			"ils/elles": "lampèrent"
+		},
+		"passé composé": {
+			"j'": "ai lampé",
+			"tu": "as lampé",
+			"il/elle": "a lampé",
+			"nous": "avons lampé",
+			"vous": "avez lampé",
+			"ils/elles": "ont lampé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais lampé",
+			"tu": "avais lampé",
+			"il/elle": "avait lampé",
+			"nous": "avions lampé",
+			"vous": "aviez lampé",
+			"ils/elles": "avaient lampé"
+		},
+		"passé antérieur": {
+			"j'": "eus lampé",
+			"tu": "eus lampé",
+			"il/elle": "eut lampé",
+			"nous": "eûmes lampé",
+			"vous": "eûtes lampé",
+			"ils/elles": "eurent lampé"
+		},
+		"futur antérieur": {
+			"j'": "aurai lampé",
+			"tu": "auras lampé",
+			"il/elle": "aura lampé",
+			"nous": "aurons lampé",
+			"vous": "aurez lampé",
+			"ils/elles": "auront lampé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous lampiez",
+			"qu'il/elle": "lampe",
+			"qu'ils/elles": "lampent"
+		},
+		"imparfait": {
+			"que": "vous lampassiez",
+			"qu'il/elle": "lampât",
+			"qu'ils/elles": "lampassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse lampé",
+			"que": "vous eussiez lampé",
+			"qu'il/elle": "eût lampé",
+			"qu'ils/elles": "eussent lampé"
+		},
+		"passé": {
+			"j'": "aie lampé",
+			"que": "vous ayez lampé",
+			"qu'il/elle": "ait lampé",
+			"qu'ils/elles": "aient lampé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "lamperais",
+			"tu": "lamperais",
+			"il/elle": "lamperait",
+			"nous": "lamperions",
+			"vous": "lamperiez",
+			"ils/elles": "lamperaient"
+		},
+		"passé première forme": {
+			"j'": "aurais lampé",
+			"tu": "aurais lampé",
+			"il/elle": "aurait lampé",
+			"nous": "aurions lampé",
+			"vous": "auriez lampé",
+			"ils/elles": "auraient lampé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse lampé",
+			"tu": "eusses lampé",
+			"il/elle": "eût lampé",
+			"nous": "eussions lampé",
+			"vous": "eussiez lampé",
+			"ils/elles": "eussent lampé"
+		}
+	},
+	"participe": {
+		"présent": { "lampant": "" },
+		"passé composé": { "ayant": "lampé" },
+		"passé": {
+			"masc.sg.:": "lampé",
+			"masc.pl.:": "lampés",
+			"fém.sg.:": "lampée",
+			"fém.pl.:": "lampées"
+		}
+	},
+	"imperatif": {
+		"présent": { "lampe": "", "lampons": "", "lampez": "" },
+		"passé": { "aie": "lampé", "ayons": "lampé", "ayez": "lampé" }
+	},
+	"infinitif": { "présent": { "lamper": "" }, "passé": { "avoir": "lampé" } }
+}

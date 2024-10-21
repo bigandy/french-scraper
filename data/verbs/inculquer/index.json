@@ -1,0 +1,143 @@
+{
+	"name": "inculquer",
+	"definition": "instil; inculcate; instill; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'inculquer/ne pas inculquer/ne pas s'inculquer",
+	"indicatif": {
+		"présent": {
+			"j'": "inculque",
+			"tu": "inculques",
+			"il/elle": "inculque",
+			"nous": "inculquons",
+			"vous": "inculquez",
+			"ils/elles": "inculquent"
+		},
+		"imparfait": {
+			"j'": "inculquais",
+			"tu": "inculquais",
+			"il/elle": "inculquait",
+			"nous": "inculquions",
+			"vous": "inculquiez",
+			"ils/elles": "inculquaient"
+		},
+		"futur": {
+			"j'": "inculquerai",
+			"tu": "inculqueras",
+			"il/elle": "inculquera",
+			"nous": "inculquerons",
+			"vous": "inculquerez",
+			"ils/elles": "inculqueront"
+		},
+		"passé simple": {
+			"j'": "inculquai",
+			"tu": "inculquas",
+			"il/elle": "inculqua",
+			"nous": "inculquâmes",
+			"vous": "inculquâtes",
+			"ils/elles": "inculquèrent"
+		},
+		"passé composé": {
+			"j'": "ai inculqué",
+			"tu": "as inculqué",
+			"il/elle": "a inculqué",
+			"nous": "avons inculqué",
+			"vous": "avez inculqué",
+			"ils/elles": "ont inculqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais inculqué",
+			"tu": "avais inculqué",
+			"il/elle": "avait inculqué",
+			"nous": "avions inculqué",
+			"vous": "aviez inculqué",
+			"ils/elles": "avaient inculqué"
+		},
+		"passé antérieur": {
+			"j'": "eus inculqué",
+			"tu": "eus inculqué",
+			"il/elle": "eut inculqué",
+			"nous": "eûmes inculqué",
+			"vous": "eûtes inculqué",
+			"ils/elles": "eurent inculqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai inculqué",
+			"tu": "auras inculqué",
+			"il/elle": "aura inculqué",
+			"nous": "aurons inculqué",
+			"vous": "aurez inculqué",
+			"ils/elles": "auront inculqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "inculque",
+			"que": "vous inculquiez",
+			"qu'il/elle": "inculque",
+			"qu'ils/elles": "inculquent"
+		},
+		"imparfait": {
+			"j'": "inculquasse",
+			"que": "vous inculquassiez",
+			"qu'il/elle": "inculquât",
+			"qu'ils/elles": "inculquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse inculqué",
+			"que": "vous eussiez inculqué",
+			"qu'il/elle": "eût inculqué",
+			"qu'ils/elles": "eussent inculqué"
+		},
+		"passé": {
+			"j'": "aie inculqué",
+			"que": "vous ayez inculqué",
+			"qu'il/elle": "ait inculqué",
+			"qu'ils/elles": "aient inculqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "inculquerais",
+			"tu": "inculquerais",
+			"il/elle": "inculquerait",
+			"nous": "inculquerions",
+			"vous": "inculqueriez",
+			"ils/elles": "inculqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais inculqué",
+			"tu": "aurais inculqué",
+			"il/elle": "aurait inculqué",
+			"nous": "aurions inculqué",
+			"vous": "auriez inculqué",
+			"ils/elles": "auraient inculqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse inculqué",
+			"tu": "eusses inculqué",
+			"il/elle": "eût inculqué",
+			"nous": "eussions inculqué",
+			"vous": "eussiez inculqué",
+			"ils/elles": "eussent inculqué"
+		}
+	},
+	"participe": {
+		"présent": { "inculquant": "" },
+		"passé composé": { "ayant": "inculqué" },
+		"passé": {
+			"masc.sg.:": "inculqué",
+			"masc.pl.:": "inculqués",
+			"fém.sg.:": "inculquée",
+			"fém.pl.:": "inculquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "inculque": "", "inculquons": "", "inculquez": "" },
+		"passé": { "aie": "inculqué", "ayons": "inculqué", "ayez": "inculqué" }
+	},
+	"infinitif": {
+		"présent": { "inculquer": "" },
+		"passé": { "avoir": "inculqué" }
+	}
+}

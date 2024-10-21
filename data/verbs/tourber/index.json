@@ -1,0 +1,138 @@
+{
+	"name": "tourber",
+	"definition": "",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se tourber/ne pas tourber/ne pas se tourber",
+	"indicatif": {
+		"présent": {
+			"je": "tourbe",
+			"tu": "tourbes",
+			"il/elle": "tourbe",
+			"nous": "tourbons",
+			"vous": "tourbez",
+			"ils/elles": "tourbent"
+		},
+		"imparfait": {
+			"je": "tourbais",
+			"tu": "tourbais",
+			"il/elle": "tourbait",
+			"nous": "tourbions",
+			"vous": "tourbiez",
+			"ils/elles": "tourbaient"
+		},
+		"futur": {
+			"je": "tourberai",
+			"tu": "tourberas",
+			"il/elle": "tourbera",
+			"nous": "tourberons",
+			"vous": "tourberez",
+			"ils/elles": "tourberont"
+		},
+		"passé simple": {
+			"je": "tourbai",
+			"tu": "tourbas",
+			"il/elle": "tourba",
+			"nous": "tourbâmes",
+			"vous": "tourbâtes",
+			"ils/elles": "tourbèrent"
+		},
+		"passé composé": {
+			"j'": "ai tourbé",
+			"tu": "as tourbé",
+			"il/elle": "a tourbé",
+			"nous": "avons tourbé",
+			"vous": "avez tourbé",
+			"ils/elles": "ont tourbé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais tourbé",
+			"tu": "avais tourbé",
+			"il/elle": "avait tourbé",
+			"nous": "avions tourbé",
+			"vous": "aviez tourbé",
+			"ils/elles": "avaient tourbé"
+		},
+		"passé antérieur": {
+			"j'": "eus tourbé",
+			"tu": "eus tourbé",
+			"il/elle": "eut tourbé",
+			"nous": "eûmes tourbé",
+			"vous": "eûtes tourbé",
+			"ils/elles": "eurent tourbé"
+		},
+		"futur antérieur": {
+			"j'": "aurai tourbé",
+			"tu": "auras tourbé",
+			"il/elle": "aura tourbé",
+			"nous": "aurons tourbé",
+			"vous": "aurez tourbé",
+			"ils/elles": "auront tourbé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous tourbiez",
+			"qu'il/elle": "tourbe",
+			"qu'ils/elles": "tourbent"
+		},
+		"imparfait": {
+			"que": "vous tourbassiez",
+			"qu'il/elle": "tourbât",
+			"qu'ils/elles": "tourbassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse tourbé",
+			"que": "vous eussiez tourbé",
+			"qu'il/elle": "eût tourbé",
+			"qu'ils/elles": "eussent tourbé"
+		},
+		"passé": {
+			"j'": "aie tourbé",
+			"que": "vous ayez tourbé",
+			"qu'il/elle": "ait tourbé",
+			"qu'ils/elles": "aient tourbé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "tourberais",
+			"tu": "tourberais",
+			"il/elle": "tourberait",
+			"nous": "tourberions",
+			"vous": "tourberiez",
+			"ils/elles": "tourberaient"
+		},
+		"passé première forme": {
+			"j'": "aurais tourbé",
+			"tu": "aurais tourbé",
+			"il/elle": "aurait tourbé",
+			"nous": "aurions tourbé",
+			"vous": "auriez tourbé",
+			"ils/elles": "auraient tourbé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse tourbé",
+			"tu": "eusses tourbé",
+			"il/elle": "eût tourbé",
+			"nous": "eussions tourbé",
+			"vous": "eussiez tourbé",
+			"ils/elles": "eussent tourbé"
+		}
+	},
+	"participe": {
+		"présent": { "tourbant": "" },
+		"passé composé": { "ayant": "tourbé" },
+		"passé": {
+			"masc.sg.:": "tourbé",
+			"masc.pl.:": "tourbés",
+			"fém.sg.:": "tourbée",
+			"fém.pl.:": "tourbées"
+		}
+	},
+	"imperatif": {
+		"présent": { "tourbe": "", "tourbons": "", "tourbez": "" },
+		"passé": { "aie": "tourbé", "ayons": "tourbé", "ayez": "tourbé" }
+	},
+	"infinitif": { "présent": { "tourber": "" }, "passé": { "avoir": "tourbé" } }
+}

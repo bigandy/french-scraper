@@ -1,0 +1,138 @@
+{
+	"name": "tancer",
+	"definition": "scold; admonish; ...",
+	"model": "commencer",
+	"auxiliary": "avoir",
+	"otherForms": "se tancer/ne pas tancer/ne pas se tancer",
+	"indicatif": {
+		"présent": {
+			"je": "tance",
+			"tu": "tances",
+			"il/elle": "tance",
+			"nous": "tançons",
+			"vous": "tancez",
+			"ils/elles": "tancent"
+		},
+		"imparfait": {
+			"je": "tançais",
+			"tu": "tançais",
+			"il/elle": "tançait",
+			"nous": "tancions",
+			"vous": "tanciez",
+			"ils/elles": "tançaient"
+		},
+		"futur": {
+			"je": "tancerai",
+			"tu": "tanceras",
+			"il/elle": "tancera",
+			"nous": "tancerons",
+			"vous": "tancerez",
+			"ils/elles": "tanceront"
+		},
+		"passé simple": {
+			"je": "tançai",
+			"tu": "tanças",
+			"il/elle": "tança",
+			"nous": "tançâmes",
+			"vous": "tançâtes",
+			"ils/elles": "tancèrent"
+		},
+		"passé composé": {
+			"j'": "ai tancé",
+			"tu": "as tancé",
+			"il/elle": "a tancé",
+			"nous": "avons tancé",
+			"vous": "avez tancé",
+			"ils/elles": "ont tancé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais tancé",
+			"tu": "avais tancé",
+			"il/elle": "avait tancé",
+			"nous": "avions tancé",
+			"vous": "aviez tancé",
+			"ils/elles": "avaient tancé"
+		},
+		"passé antérieur": {
+			"j'": "eus tancé",
+			"tu": "eus tancé",
+			"il/elle": "eut tancé",
+			"nous": "eûmes tancé",
+			"vous": "eûtes tancé",
+			"ils/elles": "eurent tancé"
+		},
+		"futur antérieur": {
+			"j'": "aurai tancé",
+			"tu": "auras tancé",
+			"il/elle": "aura tancé",
+			"nous": "aurons tancé",
+			"vous": "aurez tancé",
+			"ils/elles": "auront tancé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous tanciez",
+			"qu'il/elle": "tance",
+			"qu'ils/elles": "tancent"
+		},
+		"imparfait": {
+			"que": "vous tançassiez",
+			"qu'il/elle": "tançât",
+			"qu'ils/elles": "tançassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse tancé",
+			"que": "vous eussiez tancé",
+			"qu'il/elle": "eût tancé",
+			"qu'ils/elles": "eussent tancé"
+		},
+		"passé": {
+			"j'": "aie tancé",
+			"que": "vous ayez tancé",
+			"qu'il/elle": "ait tancé",
+			"qu'ils/elles": "aient tancé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "tancerais",
+			"tu": "tancerais",
+			"il/elle": "tancerait",
+			"nous": "tancerions",
+			"vous": "tanceriez",
+			"ils/elles": "tanceraient"
+		},
+		"passé première forme": {
+			"j'": "aurais tancé",
+			"tu": "aurais tancé",
+			"il/elle": "aurait tancé",
+			"nous": "aurions tancé",
+			"vous": "auriez tancé",
+			"ils/elles": "auraient tancé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse tancé",
+			"tu": "eusses tancé",
+			"il/elle": "eût tancé",
+			"nous": "eussions tancé",
+			"vous": "eussiez tancé",
+			"ils/elles": "eussent tancé"
+		}
+	},
+	"participe": {
+		"présent": { "tançant": "" },
+		"passé composé": { "ayant": "tancé" },
+		"passé": {
+			"masc.sg.:": "tancé",
+			"masc.pl.:": "tancés",
+			"fém.sg.:": "tancée",
+			"fém.pl.:": "tancées"
+		}
+	},
+	"imperatif": {
+		"présent": { "tance": "", "tançons": "", "tancez": "" },
+		"passé": { "aie": "tancé", "ayons": "tancé", "ayez": "tancé" }
+	},
+	"infinitif": { "présent": { "tancer": "" }, "passé": { "avoir": "tancé" } }
+}

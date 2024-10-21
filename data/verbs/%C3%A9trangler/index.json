@@ -1,0 +1,143 @@
+{
+	"name": "étrangler",
+	"definition": "strangle; choke; throttle; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'étrangler/ne pas étrangler/ne pas s'étrangler",
+	"indicatif": {
+		"présent": {
+			"j'": "étrangle",
+			"tu": "étrangles",
+			"il/elle": "étrangle",
+			"nous": "étranglons",
+			"vous": "étranglez",
+			"ils/elles": "étranglent"
+		},
+		"imparfait": {
+			"j'": "étranglais",
+			"tu": "étranglais",
+			"il/elle": "étranglait",
+			"nous": "étranglions",
+			"vous": "étrangliez",
+			"ils/elles": "étranglaient"
+		},
+		"futur": {
+			"j'": "étranglerai",
+			"tu": "étrangleras",
+			"il/elle": "étranglera",
+			"nous": "étranglerons",
+			"vous": "étranglerez",
+			"ils/elles": "étrangleront"
+		},
+		"passé simple": {
+			"j'": "étranglai",
+			"tu": "étranglas",
+			"il/elle": "étrangla",
+			"nous": "étranglâmes",
+			"vous": "étranglâtes",
+			"ils/elles": "étranglèrent"
+		},
+		"passé composé": {
+			"j'": "ai étranglé",
+			"tu": "as étranglé",
+			"il/elle": "a étranglé",
+			"nous": "avons étranglé",
+			"vous": "avez étranglé",
+			"ils/elles": "ont étranglé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais étranglé",
+			"tu": "avais étranglé",
+			"il/elle": "avait étranglé",
+			"nous": "avions étranglé",
+			"vous": "aviez étranglé",
+			"ils/elles": "avaient étranglé"
+		},
+		"passé antérieur": {
+			"j'": "eus étranglé",
+			"tu": "eus étranglé",
+			"il/elle": "eut étranglé",
+			"nous": "eûmes étranglé",
+			"vous": "eûtes étranglé",
+			"ils/elles": "eurent étranglé"
+		},
+		"futur antérieur": {
+			"j'": "aurai étranglé",
+			"tu": "auras étranglé",
+			"il/elle": "aura étranglé",
+			"nous": "aurons étranglé",
+			"vous": "aurez étranglé",
+			"ils/elles": "auront étranglé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "étrangle",
+			"que": "vous étrangliez",
+			"qu'il/elle": "étrangle",
+			"qu'ils/elles": "étranglent"
+		},
+		"imparfait": {
+			"j'": "étranglasse",
+			"que": "vous étranglassiez",
+			"qu'il/elle": "étranglât",
+			"qu'ils/elles": "étranglassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse étranglé",
+			"que": "vous eussiez étranglé",
+			"qu'il/elle": "eût étranglé",
+			"qu'ils/elles": "eussent étranglé"
+		},
+		"passé": {
+			"j'": "aie étranglé",
+			"que": "vous ayez étranglé",
+			"qu'il/elle": "ait étranglé",
+			"qu'ils/elles": "aient étranglé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "étranglerais",
+			"tu": "étranglerais",
+			"il/elle": "étranglerait",
+			"nous": "étranglerions",
+			"vous": "étrangleriez",
+			"ils/elles": "étrangleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais étranglé",
+			"tu": "aurais étranglé",
+			"il/elle": "aurait étranglé",
+			"nous": "aurions étranglé",
+			"vous": "auriez étranglé",
+			"ils/elles": "auraient étranglé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse étranglé",
+			"tu": "eusses étranglé",
+			"il/elle": "eût étranglé",
+			"nous": "eussions étranglé",
+			"vous": "eussiez étranglé",
+			"ils/elles": "eussent étranglé"
+		}
+	},
+	"participe": {
+		"présent": { "étranglant": "" },
+		"passé composé": { "ayant": "étranglé" },
+		"passé": {
+			"masc.sg.:": "étranglé",
+			"masc.pl.:": "étranglés",
+			"fém.sg.:": "étranglée",
+			"fém.pl.:": "étranglées"
+		}
+	},
+	"imperatif": {
+		"présent": { "étrangle": "", "étranglons": "", "étranglez": "" },
+		"passé": { "aie": "étranglé", "ayons": "étranglé", "ayez": "étranglé" }
+	},
+	"infinitif": {
+		"présent": { "étrangler": "" },
+		"passé": { "avoir": "étranglé" }
+	}
+}

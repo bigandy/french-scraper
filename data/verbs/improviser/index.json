@@ -1,0 +1,143 @@
+{
+	"name": "improviser",
+	"definition": "improvise; wing it; ad-lib; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'improviser/ne pas improviser/ne pas s'improviser",
+	"indicatif": {
+		"présent": {
+			"j'": "improvise",
+			"tu": "improvises",
+			"il/elle": "improvise",
+			"nous": "improvisons",
+			"vous": "improvisez",
+			"ils/elles": "improvisent"
+		},
+		"imparfait": {
+			"j'": "improvisais",
+			"tu": "improvisais",
+			"il/elle": "improvisait",
+			"nous": "improvisions",
+			"vous": "improvisiez",
+			"ils/elles": "improvisaient"
+		},
+		"futur": {
+			"j'": "improviserai",
+			"tu": "improviseras",
+			"il/elle": "improvisera",
+			"nous": "improviserons",
+			"vous": "improviserez",
+			"ils/elles": "improviseront"
+		},
+		"passé simple": {
+			"j'": "improvisai",
+			"tu": "improvisas",
+			"il/elle": "improvisa",
+			"nous": "improvisâmes",
+			"vous": "improvisâtes",
+			"ils/elles": "improvisèrent"
+		},
+		"passé composé": {
+			"j'": "ai improvisé",
+			"tu": "as improvisé",
+			"il/elle": "a improvisé",
+			"nous": "avons improvisé",
+			"vous": "avez improvisé",
+			"ils/elles": "ont improvisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais improvisé",
+			"tu": "avais improvisé",
+			"il/elle": "avait improvisé",
+			"nous": "avions improvisé",
+			"vous": "aviez improvisé",
+			"ils/elles": "avaient improvisé"
+		},
+		"passé antérieur": {
+			"j'": "eus improvisé",
+			"tu": "eus improvisé",
+			"il/elle": "eut improvisé",
+			"nous": "eûmes improvisé",
+			"vous": "eûtes improvisé",
+			"ils/elles": "eurent improvisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai improvisé",
+			"tu": "auras improvisé",
+			"il/elle": "aura improvisé",
+			"nous": "aurons improvisé",
+			"vous": "aurez improvisé",
+			"ils/elles": "auront improvisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "improvise",
+			"que": "vous improvisiez",
+			"qu'il/elle": "improvise",
+			"qu'ils/elles": "improvisent"
+		},
+		"imparfait": {
+			"j'": "improvisasse",
+			"que": "vous improvisassiez",
+			"qu'il/elle": "improvisât",
+			"qu'ils/elles": "improvisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse improvisé",
+			"que": "vous eussiez improvisé",
+			"qu'il/elle": "eût improvisé",
+			"qu'ils/elles": "eussent improvisé"
+		},
+		"passé": {
+			"j'": "aie improvisé",
+			"que": "vous ayez improvisé",
+			"qu'il/elle": "ait improvisé",
+			"qu'ils/elles": "aient improvisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "improviserais",
+			"tu": "improviserais",
+			"il/elle": "improviserait",
+			"nous": "improviserions",
+			"vous": "improviseriez",
+			"ils/elles": "improviseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais improvisé",
+			"tu": "aurais improvisé",
+			"il/elle": "aurait improvisé",
+			"nous": "aurions improvisé",
+			"vous": "auriez improvisé",
+			"ils/elles": "auraient improvisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse improvisé",
+			"tu": "eusses improvisé",
+			"il/elle": "eût improvisé",
+			"nous": "eussions improvisé",
+			"vous": "eussiez improvisé",
+			"ils/elles": "eussent improvisé"
+		}
+	},
+	"participe": {
+		"présent": { "improvisant": "" },
+		"passé composé": { "ayant": "improvisé" },
+		"passé": {
+			"masc.sg.:": "improvisé",
+			"masc.pl.:": "improvisés",
+			"fém.sg.:": "improvisée",
+			"fém.pl.:": "improvisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "improvise": "", "improvisons": "", "improvisez": "" },
+		"passé": { "aie": "improvisé", "ayons": "improvisé", "ayez": "improvisé" }
+	},
+	"infinitif": {
+		"présent": { "improviser": "" },
+		"passé": { "avoir": "improvisé" }
+	}
+}

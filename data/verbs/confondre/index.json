@@ -1,0 +1,141 @@
+{
+	"name": "confondre",
+	"definition": "confuse; be confused; mistake; ...",
+	"model": "attendre",
+	"auxiliary": "avoir",
+	"otherForms": "se confondre/ne pas confondre/ne pas se confondre",
+	"indicatif": {
+		"présent": {
+			"je": "confonds",
+			"tu": "confonds",
+			"il/elle": "confond",
+			"nous": "confondons",
+			"vous": "confondez",
+			"ils/elles": "confondent"
+		},
+		"imparfait": {
+			"je": "confondais",
+			"tu": "confondais",
+			"il/elle": "confondait",
+			"nous": "confondions",
+			"vous": "confondiez",
+			"ils/elles": "confondaient"
+		},
+		"futur": {
+			"je": "confondrai",
+			"tu": "confondras",
+			"il/elle": "confondra",
+			"nous": "confondrons",
+			"vous": "confondrez",
+			"ils/elles": "confondront"
+		},
+		"passé simple": {
+			"je": "confondis",
+			"tu": "confondis",
+			"il/elle": "confondit",
+			"nous": "confondîmes",
+			"vous": "confondîtes",
+			"ils/elles": "confondirent"
+		},
+		"passé composé": {
+			"j'": "ai confondu",
+			"tu": "as confondu",
+			"il/elle": "a confondu",
+			"nous": "avons confondu",
+			"vous": "avez confondu",
+			"ils/elles": "ont confondu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais confondu",
+			"tu": "avais confondu",
+			"il/elle": "avait confondu",
+			"nous": "avions confondu",
+			"vous": "aviez confondu",
+			"ils/elles": "avaient confondu"
+		},
+		"passé antérieur": {
+			"j'": "eus confondu",
+			"tu": "eus confondu",
+			"il/elle": "eut confondu",
+			"nous": "eûmes confondu",
+			"vous": "eûtes confondu",
+			"ils/elles": "eurent confondu"
+		},
+		"futur antérieur": {
+			"j'": "aurai confondu",
+			"tu": "auras confondu",
+			"il/elle": "aura confondu",
+			"nous": "aurons confondu",
+			"vous": "aurez confondu",
+			"ils/elles": "auront confondu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous confondiez",
+			"qu'il/elle": "confonde",
+			"qu'ils/elles": "confondent"
+		},
+		"imparfait": {
+			"que": "vous confondissiez",
+			"qu'il/elle": "confondît",
+			"qu'ils/elles": "confondissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse confondu",
+			"que": "vous eussiez confondu",
+			"qu'il/elle": "eût confondu",
+			"qu'ils/elles": "eussent confondu"
+		},
+		"passé": {
+			"j'": "aie confondu",
+			"que": "vous ayez confondu",
+			"qu'il/elle": "ait confondu",
+			"qu'ils/elles": "aient confondu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "confondrais",
+			"tu": "confondrais",
+			"il/elle": "confondrait",
+			"nous": "confondrions",
+			"vous": "confondriez",
+			"ils/elles": "confondraient"
+		},
+		"passé première forme": {
+			"j'": "aurais confondu",
+			"tu": "aurais confondu",
+			"il/elle": "aurait confondu",
+			"nous": "aurions confondu",
+			"vous": "auriez confondu",
+			"ils/elles": "auraient confondu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse confondu",
+			"tu": "eusses confondu",
+			"il/elle": "eût confondu",
+			"nous": "eussions confondu",
+			"vous": "eussiez confondu",
+			"ils/elles": "eussent confondu"
+		}
+	},
+	"participe": {
+		"présent": { "confondant": "" },
+		"passé composé": { "ayant": "confondu" },
+		"passé": {
+			"masc.sg.:": "confondu",
+			"masc.pl.:": "confondus",
+			"fém.sg.:": "confondue",
+			"fém.pl.:": "confondues"
+		}
+	},
+	"imperatif": {
+		"présent": { "confonds": "", "confondons": "", "confondez": "" },
+		"passé": { "aie": "confondu", "ayons": "confondu", "ayez": "confondu" }
+	},
+	"infinitif": {
+		"présent": { "confondre": "" },
+		"passé": { "avoir": "confondu" }
+	}
+}

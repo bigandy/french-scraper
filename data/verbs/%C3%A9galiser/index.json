@@ -1,0 +1,143 @@
+{
+	"name": "égaliser",
+	"definition": "equalize; equalise; even; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'égaliser/ne pas égaliser/ne pas s'égaliser",
+	"indicatif": {
+		"présent": {
+			"j'": "égalise",
+			"tu": "égalises",
+			"il/elle": "égalise",
+			"nous": "égalisons",
+			"vous": "égalisez",
+			"ils/elles": "égalisent"
+		},
+		"imparfait": {
+			"j'": "égalisais",
+			"tu": "égalisais",
+			"il/elle": "égalisait",
+			"nous": "égalisions",
+			"vous": "égalisiez",
+			"ils/elles": "égalisaient"
+		},
+		"futur": {
+			"j'": "égaliserai",
+			"tu": "égaliseras",
+			"il/elle": "égalisera",
+			"nous": "égaliserons",
+			"vous": "égaliserez",
+			"ils/elles": "égaliseront"
+		},
+		"passé simple": {
+			"j'": "égalisai",
+			"tu": "égalisas",
+			"il/elle": "égalisa",
+			"nous": "égalisâmes",
+			"vous": "égalisâtes",
+			"ils/elles": "égalisèrent"
+		},
+		"passé composé": {
+			"j'": "ai égalisé",
+			"tu": "as égalisé",
+			"il/elle": "a égalisé",
+			"nous": "avons égalisé",
+			"vous": "avez égalisé",
+			"ils/elles": "ont égalisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais égalisé",
+			"tu": "avais égalisé",
+			"il/elle": "avait égalisé",
+			"nous": "avions égalisé",
+			"vous": "aviez égalisé",
+			"ils/elles": "avaient égalisé"
+		},
+		"passé antérieur": {
+			"j'": "eus égalisé",
+			"tu": "eus égalisé",
+			"il/elle": "eut égalisé",
+			"nous": "eûmes égalisé",
+			"vous": "eûtes égalisé",
+			"ils/elles": "eurent égalisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai égalisé",
+			"tu": "auras égalisé",
+			"il/elle": "aura égalisé",
+			"nous": "aurons égalisé",
+			"vous": "aurez égalisé",
+			"ils/elles": "auront égalisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "égalise",
+			"que": "vous égalisiez",
+			"qu'il/elle": "égalise",
+			"qu'ils/elles": "égalisent"
+		},
+		"imparfait": {
+			"j'": "égalisasse",
+			"que": "vous égalisassiez",
+			"qu'il/elle": "égalisât",
+			"qu'ils/elles": "égalisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse égalisé",
+			"que": "vous eussiez égalisé",
+			"qu'il/elle": "eût égalisé",
+			"qu'ils/elles": "eussent égalisé"
+		},
+		"passé": {
+			"j'": "aie égalisé",
+			"que": "vous ayez égalisé",
+			"qu'il/elle": "ait égalisé",
+			"qu'ils/elles": "aient égalisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "égaliserais",
+			"tu": "égaliserais",
+			"il/elle": "égaliserait",
+			"nous": "égaliserions",
+			"vous": "égaliseriez",
+			"ils/elles": "égaliseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais égalisé",
+			"tu": "aurais égalisé",
+			"il/elle": "aurait égalisé",
+			"nous": "aurions égalisé",
+			"vous": "auriez égalisé",
+			"ils/elles": "auraient égalisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse égalisé",
+			"tu": "eusses égalisé",
+			"il/elle": "eût égalisé",
+			"nous": "eussions égalisé",
+			"vous": "eussiez égalisé",
+			"ils/elles": "eussent égalisé"
+		}
+	},
+	"participe": {
+		"présent": { "égalisant": "" },
+		"passé composé": { "ayant": "égalisé" },
+		"passé": {
+			"masc.sg.:": "égalisé",
+			"masc.pl.:": "égalisés",
+			"fém.sg.:": "égalisée",
+			"fém.pl.:": "égalisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "égalise": "", "égalisons": "", "égalisez": "" },
+		"passé": { "aie": "égalisé", "ayons": "égalisé", "ayez": "égalisé" }
+	},
+	"infinitif": {
+		"présent": { "égaliser": "" },
+		"passé": { "avoir": "égalisé" }
+	}
+}

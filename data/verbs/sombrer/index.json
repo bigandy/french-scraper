@@ -1,0 +1,138 @@
+{
+	"name": "sombrer",
+	"definition": "sink; fall; go down; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas sombrer",
+	"indicatif": {
+		"présent": {
+			"je": "sombre",
+			"tu": "sombres",
+			"il/elle": "sombre",
+			"nous": "sombrons",
+			"vous": "sombrez",
+			"ils/elles": "sombrent"
+		},
+		"imparfait": {
+			"je": "sombrais",
+			"tu": "sombrais",
+			"il/elle": "sombrait",
+			"nous": "sombrions",
+			"vous": "sombriez",
+			"ils/elles": "sombraient"
+		},
+		"futur": {
+			"je": "sombrerai",
+			"tu": "sombreras",
+			"il/elle": "sombrera",
+			"nous": "sombrerons",
+			"vous": "sombrerez",
+			"ils/elles": "sombreront"
+		},
+		"passé simple": {
+			"je": "sombrai",
+			"tu": "sombras",
+			"il/elle": "sombra",
+			"nous": "sombrâmes",
+			"vous": "sombrâtes",
+			"ils/elles": "sombrèrent"
+		},
+		"passé composé": {
+			"j'": "ai sombré",
+			"tu": "as sombré",
+			"il/elle": "a sombré",
+			"nous": "avons sombré",
+			"vous": "avez sombré",
+			"ils/elles": "ont sombré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais sombré",
+			"tu": "avais sombré",
+			"il/elle": "avait sombré",
+			"nous": "avions sombré",
+			"vous": "aviez sombré",
+			"ils/elles": "avaient sombré"
+		},
+		"passé antérieur": {
+			"j'": "eus sombré",
+			"tu": "eus sombré",
+			"il/elle": "eut sombré",
+			"nous": "eûmes sombré",
+			"vous": "eûtes sombré",
+			"ils/elles": "eurent sombré"
+		},
+		"futur antérieur": {
+			"j'": "aurai sombré",
+			"tu": "auras sombré",
+			"il/elle": "aura sombré",
+			"nous": "aurons sombré",
+			"vous": "aurez sombré",
+			"ils/elles": "auront sombré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous sombriez",
+			"qu'il/elle": "sombre",
+			"qu'ils/elles": "sombrent"
+		},
+		"imparfait": {
+			"que": "vous sombrassiez",
+			"qu'il/elle": "sombrât",
+			"qu'ils/elles": "sombrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse sombré",
+			"que": "vous eussiez sombré",
+			"qu'il/elle": "eût sombré",
+			"qu'ils/elles": "eussent sombré"
+		},
+		"passé": {
+			"j'": "aie sombré",
+			"que": "vous ayez sombré",
+			"qu'il/elle": "ait sombré",
+			"qu'ils/elles": "aient sombré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "sombrerais",
+			"tu": "sombrerais",
+			"il/elle": "sombrerait",
+			"nous": "sombrerions",
+			"vous": "sombreriez",
+			"ils/elles": "sombreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais sombré",
+			"tu": "aurais sombré",
+			"il/elle": "aurait sombré",
+			"nous": "aurions sombré",
+			"vous": "auriez sombré",
+			"ils/elles": "auraient sombré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse sombré",
+			"tu": "eusses sombré",
+			"il/elle": "eût sombré",
+			"nous": "eussions sombré",
+			"vous": "eussiez sombré",
+			"ils/elles": "eussent sombré"
+		}
+	},
+	"participe": {
+		"présent": { "sombrant": "" },
+		"passé composé": { "ayant": "sombré" },
+		"passé": {
+			"masc.sg.:": "sombré",
+			"masc.pl.:": "sombrés",
+			"fém.sg.:": "sombrée",
+			"fém.pl.:": "sombrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "sombre": "", "sombrons": "", "sombrez": "" },
+		"passé": { "aie": "sombré", "ayons": "sombré", "ayez": "sombré" }
+	},
+	"infinitif": { "présent": { "sombrer": "" }, "passé": { "avoir": "sombré" } }
+}

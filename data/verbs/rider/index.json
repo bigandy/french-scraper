@@ -1,0 +1,138 @@
+{
+	"name": "rider",
+	"definition": "ride; shred; wrinkle; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se rider/ne pas rider/ne pas se rider",
+	"indicatif": {
+		"présent": {
+			"je": "ride",
+			"tu": "rides",
+			"il/elle": "ride",
+			"nous": "ridons",
+			"vous": "ridez",
+			"ils/elles": "rident"
+		},
+		"imparfait": {
+			"je": "ridais",
+			"tu": "ridais",
+			"il/elle": "ridait",
+			"nous": "ridions",
+			"vous": "ridiez",
+			"ils/elles": "ridaient"
+		},
+		"futur": {
+			"je": "riderai",
+			"tu": "rideras",
+			"il/elle": "ridera",
+			"nous": "riderons",
+			"vous": "riderez",
+			"ils/elles": "rideront"
+		},
+		"passé simple": {
+			"je": "ridai",
+			"tu": "ridas",
+			"il/elle": "rida",
+			"nous": "ridâmes",
+			"vous": "ridâtes",
+			"ils/elles": "ridèrent"
+		},
+		"passé composé": {
+			"j'": "ai ridé",
+			"tu": "as ridé",
+			"il/elle": "a ridé",
+			"nous": "avons ridé",
+			"vous": "avez ridé",
+			"ils/elles": "ont ridé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais ridé",
+			"tu": "avais ridé",
+			"il/elle": "avait ridé",
+			"nous": "avions ridé",
+			"vous": "aviez ridé",
+			"ils/elles": "avaient ridé"
+		},
+		"passé antérieur": {
+			"j'": "eus ridé",
+			"tu": "eus ridé",
+			"il/elle": "eut ridé",
+			"nous": "eûmes ridé",
+			"vous": "eûtes ridé",
+			"ils/elles": "eurent ridé"
+		},
+		"futur antérieur": {
+			"j'": "aurai ridé",
+			"tu": "auras ridé",
+			"il/elle": "aura ridé",
+			"nous": "aurons ridé",
+			"vous": "aurez ridé",
+			"ils/elles": "auront ridé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous ridiez",
+			"qu'il/elle": "ride",
+			"qu'ils/elles": "rident"
+		},
+		"imparfait": {
+			"que": "vous ridassiez",
+			"qu'il/elle": "ridât",
+			"qu'ils/elles": "ridassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse ridé",
+			"que": "vous eussiez ridé",
+			"qu'il/elle": "eût ridé",
+			"qu'ils/elles": "eussent ridé"
+		},
+		"passé": {
+			"j'": "aie ridé",
+			"que": "vous ayez ridé",
+			"qu'il/elle": "ait ridé",
+			"qu'ils/elles": "aient ridé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "riderais",
+			"tu": "riderais",
+			"il/elle": "riderait",
+			"nous": "riderions",
+			"vous": "rideriez",
+			"ils/elles": "rideraient"
+		},
+		"passé première forme": {
+			"j'": "aurais ridé",
+			"tu": "aurais ridé",
+			"il/elle": "aurait ridé",
+			"nous": "aurions ridé",
+			"vous": "auriez ridé",
+			"ils/elles": "auraient ridé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse ridé",
+			"tu": "eusses ridé",
+			"il/elle": "eût ridé",
+			"nous": "eussions ridé",
+			"vous": "eussiez ridé",
+			"ils/elles": "eussent ridé"
+		}
+	},
+	"participe": {
+		"présent": { "ridant": "" },
+		"passé composé": { "ayant": "ridé" },
+		"passé": {
+			"masc.sg.:": "ridé",
+			"masc.pl.:": "ridés",
+			"fém.sg.:": "ridée",
+			"fém.pl.:": "ridées"
+		}
+	},
+	"imperatif": {
+		"présent": { "ride": "", "ridons": "", "ridez": "" },
+		"passé": { "aie": "ridé", "ayons": "ridé", "ayez": "ridé" }
+	},
+	"infinitif": { "présent": { "rider": "" }, "passé": { "avoir": "ridé" } }
+}

@@ -1,0 +1,138 @@
+{
+	"name": "colorer",
+	"definition": "color; colour; dye; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se colorer/ne pas colorer/ne pas se colorer",
+	"indicatif": {
+		"présent": {
+			"je": "colore",
+			"tu": "colores",
+			"il/elle": "colore",
+			"nous": "colorons",
+			"vous": "colorez",
+			"ils/elles": "colorent"
+		},
+		"imparfait": {
+			"je": "colorais",
+			"tu": "colorais",
+			"il/elle": "colorait",
+			"nous": "colorions",
+			"vous": "coloriez",
+			"ils/elles": "coloraient"
+		},
+		"futur": {
+			"je": "colorerai",
+			"tu": "coloreras",
+			"il/elle": "colorera",
+			"nous": "colorerons",
+			"vous": "colorerez",
+			"ils/elles": "coloreront"
+		},
+		"passé simple": {
+			"je": "colorai",
+			"tu": "coloras",
+			"il/elle": "colora",
+			"nous": "colorâmes",
+			"vous": "colorâtes",
+			"ils/elles": "colorèrent"
+		},
+		"passé composé": {
+			"j'": "ai coloré",
+			"tu": "as coloré",
+			"il/elle": "a coloré",
+			"nous": "avons coloré",
+			"vous": "avez coloré",
+			"ils/elles": "ont coloré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais coloré",
+			"tu": "avais coloré",
+			"il/elle": "avait coloré",
+			"nous": "avions coloré",
+			"vous": "aviez coloré",
+			"ils/elles": "avaient coloré"
+		},
+		"passé antérieur": {
+			"j'": "eus coloré",
+			"tu": "eus coloré",
+			"il/elle": "eut coloré",
+			"nous": "eûmes coloré",
+			"vous": "eûtes coloré",
+			"ils/elles": "eurent coloré"
+		},
+		"futur antérieur": {
+			"j'": "aurai coloré",
+			"tu": "auras coloré",
+			"il/elle": "aura coloré",
+			"nous": "aurons coloré",
+			"vous": "aurez coloré",
+			"ils/elles": "auront coloré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous coloriez",
+			"qu'il/elle": "colore",
+			"qu'ils/elles": "colorent"
+		},
+		"imparfait": {
+			"que": "vous colorassiez",
+			"qu'il/elle": "colorât",
+			"qu'ils/elles": "colorassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse coloré",
+			"que": "vous eussiez coloré",
+			"qu'il/elle": "eût coloré",
+			"qu'ils/elles": "eussent coloré"
+		},
+		"passé": {
+			"j'": "aie coloré",
+			"que": "vous ayez coloré",
+			"qu'il/elle": "ait coloré",
+			"qu'ils/elles": "aient coloré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "colorerais",
+			"tu": "colorerais",
+			"il/elle": "colorerait",
+			"nous": "colorerions",
+			"vous": "coloreriez",
+			"ils/elles": "coloreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais coloré",
+			"tu": "aurais coloré",
+			"il/elle": "aurait coloré",
+			"nous": "aurions coloré",
+			"vous": "auriez coloré",
+			"ils/elles": "auraient coloré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse coloré",
+			"tu": "eusses coloré",
+			"il/elle": "eût coloré",
+			"nous": "eussions coloré",
+			"vous": "eussiez coloré",
+			"ils/elles": "eussent coloré"
+		}
+	},
+	"participe": {
+		"présent": { "colorant": "" },
+		"passé composé": { "ayant": "coloré" },
+		"passé": {
+			"masc.sg.:": "coloré",
+			"masc.pl.:": "colorés",
+			"fém.sg.:": "colorée",
+			"fém.pl.:": "colorées"
+		}
+	},
+	"imperatif": {
+		"présent": { "colore": "", "colorons": "", "colorez": "" },
+		"passé": { "aie": "coloré", "ayons": "coloré", "ayez": "coloré" }
+	},
+	"infinitif": { "présent": { "colorer": "" }, "passé": { "avoir": "coloré" } }
+}

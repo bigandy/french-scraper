@@ -1,0 +1,147 @@
+{
+	"name": "interpeller",
+	"definition": "question; challenge; interpellate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'interpeller/ne pas interpeller/ne pas s'interpeller",
+	"indicatif": {
+		"présent": {
+			"j'": "interpelle",
+			"tu": "interpelles",
+			"il/elle": "interpelle",
+			"nous": "interpellons",
+			"vous": "interpellez",
+			"ils/elles": "interpellent"
+		},
+		"imparfait": {
+			"j'": "interpellais",
+			"tu": "interpellais",
+			"il/elle": "interpellait",
+			"nous": "interpellions",
+			"vous": "interpelliez",
+			"ils/elles": "interpellaient"
+		},
+		"futur": {
+			"j'": "interpellerai",
+			"tu": "interpelleras",
+			"il/elle": "interpellera",
+			"nous": "interpellerons",
+			"vous": "interpellerez",
+			"ils/elles": "interpelleront"
+		},
+		"passé simple": {
+			"j'": "interpellai",
+			"tu": "interpellas",
+			"il/elle": "interpella",
+			"nous": "interpellâmes",
+			"vous": "interpellâtes",
+			"ils/elles": "interpellèrent"
+		},
+		"passé composé": {
+			"j'": "ai interpellé",
+			"tu": "as interpellé",
+			"il/elle": "a interpellé",
+			"nous": "avons interpellé",
+			"vous": "avez interpellé",
+			"ils/elles": "ont interpellé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais interpellé",
+			"tu": "avais interpellé",
+			"il/elle": "avait interpellé",
+			"nous": "avions interpellé",
+			"vous": "aviez interpellé",
+			"ils/elles": "avaient interpellé"
+		},
+		"passé antérieur": {
+			"j'": "eus interpellé",
+			"tu": "eus interpellé",
+			"il/elle": "eut interpellé",
+			"nous": "eûmes interpellé",
+			"vous": "eûtes interpellé",
+			"ils/elles": "eurent interpellé"
+		},
+		"futur antérieur": {
+			"j'": "aurai interpellé",
+			"tu": "auras interpellé",
+			"il/elle": "aura interpellé",
+			"nous": "aurons interpellé",
+			"vous": "aurez interpellé",
+			"ils/elles": "auront interpellé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "interpelle",
+			"que": "vous interpelliez",
+			"qu'il/elle": "interpelle",
+			"qu'ils/elles": "interpellent"
+		},
+		"imparfait": {
+			"j'": "interpellasse",
+			"que": "vous interpellassiez",
+			"qu'il/elle": "interpellât",
+			"qu'ils/elles": "interpellassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse interpellé",
+			"que": "vous eussiez interpellé",
+			"qu'il/elle": "eût interpellé",
+			"qu'ils/elles": "eussent interpellé"
+		},
+		"passé": {
+			"j'": "aie interpellé",
+			"que": "vous ayez interpellé",
+			"qu'il/elle": "ait interpellé",
+			"qu'ils/elles": "aient interpellé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "interpellerais",
+			"tu": "interpellerais",
+			"il/elle": "interpellerait",
+			"nous": "interpellerions",
+			"vous": "interpelleriez",
+			"ils/elles": "interpelleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais interpellé",
+			"tu": "aurais interpellé",
+			"il/elle": "aurait interpellé",
+			"nous": "aurions interpellé",
+			"vous": "auriez interpellé",
+			"ils/elles": "auraient interpellé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse interpellé",
+			"tu": "eusses interpellé",
+			"il/elle": "eût interpellé",
+			"nous": "eussions interpellé",
+			"vous": "eussiez interpellé",
+			"ils/elles": "eussent interpellé"
+		}
+	},
+	"participe": {
+		"présent": { "interpellant": "" },
+		"passé composé": { "ayant": "interpellé" },
+		"passé": {
+			"masc.sg.:": "interpellé",
+			"masc.pl.:": "interpellés",
+			"fém.sg.:": "interpellée",
+			"fém.pl.:": "interpellées"
+		}
+	},
+	"imperatif": {
+		"présent": { "interpelle": "", "interpellons": "", "interpellez": "" },
+		"passé": {
+			"aie": "interpellé",
+			"ayons": "interpellé",
+			"ayez": "interpellé"
+		}
+	},
+	"infinitif": {
+		"présent": { "interpeller": "" },
+		"passé": { "avoir": "interpellé" }
+	}
+}

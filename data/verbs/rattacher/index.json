@@ -1,0 +1,141 @@
+{
+	"name": "rattacher",
+	"definition": "link; attach; relate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se rattacher/ne pas rattacher/ne pas se rattacher",
+	"indicatif": {
+		"présent": {
+			"je": "rattache",
+			"tu": "rattaches",
+			"il/elle": "rattache",
+			"nous": "rattachons",
+			"vous": "rattachez",
+			"ils/elles": "rattachent"
+		},
+		"imparfait": {
+			"je": "rattachais",
+			"tu": "rattachais",
+			"il/elle": "rattachait",
+			"nous": "rattachions",
+			"vous": "rattachiez",
+			"ils/elles": "rattachaient"
+		},
+		"futur": {
+			"je": "rattacherai",
+			"tu": "rattacheras",
+			"il/elle": "rattachera",
+			"nous": "rattacherons",
+			"vous": "rattacherez",
+			"ils/elles": "rattacheront"
+		},
+		"passé simple": {
+			"je": "rattachai",
+			"tu": "rattachas",
+			"il/elle": "rattacha",
+			"nous": "rattachâmes",
+			"vous": "rattachâtes",
+			"ils/elles": "rattachèrent"
+		},
+		"passé composé": {
+			"j'": "ai rattaché",
+			"tu": "as rattaché",
+			"il/elle": "a rattaché",
+			"nous": "avons rattaché",
+			"vous": "avez rattaché",
+			"ils/elles": "ont rattaché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais rattaché",
+			"tu": "avais rattaché",
+			"il/elle": "avait rattaché",
+			"nous": "avions rattaché",
+			"vous": "aviez rattaché",
+			"ils/elles": "avaient rattaché"
+		},
+		"passé antérieur": {
+			"j'": "eus rattaché",
+			"tu": "eus rattaché",
+			"il/elle": "eut rattaché",
+			"nous": "eûmes rattaché",
+			"vous": "eûtes rattaché",
+			"ils/elles": "eurent rattaché"
+		},
+		"futur antérieur": {
+			"j'": "aurai rattaché",
+			"tu": "auras rattaché",
+			"il/elle": "aura rattaché",
+			"nous": "aurons rattaché",
+			"vous": "aurez rattaché",
+			"ils/elles": "auront rattaché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous rattachiez",
+			"qu'il/elle": "rattache",
+			"qu'ils/elles": "rattachent"
+		},
+		"imparfait": {
+			"que": "vous rattachassiez",
+			"qu'il/elle": "rattachât",
+			"qu'ils/elles": "rattachassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse rattaché",
+			"que": "vous eussiez rattaché",
+			"qu'il/elle": "eût rattaché",
+			"qu'ils/elles": "eussent rattaché"
+		},
+		"passé": {
+			"j'": "aie rattaché",
+			"que": "vous ayez rattaché",
+			"qu'il/elle": "ait rattaché",
+			"qu'ils/elles": "aient rattaché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "rattacherais",
+			"tu": "rattacherais",
+			"il/elle": "rattacherait",
+			"nous": "rattacherions",
+			"vous": "rattacheriez",
+			"ils/elles": "rattacheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais rattaché",
+			"tu": "aurais rattaché",
+			"il/elle": "aurait rattaché",
+			"nous": "aurions rattaché",
+			"vous": "auriez rattaché",
+			"ils/elles": "auraient rattaché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse rattaché",
+			"tu": "eusses rattaché",
+			"il/elle": "eût rattaché",
+			"nous": "eussions rattaché",
+			"vous": "eussiez rattaché",
+			"ils/elles": "eussent rattaché"
+		}
+	},
+	"participe": {
+		"présent": { "rattachant": "" },
+		"passé composé": { "ayant": "rattaché" },
+		"passé": {
+			"masc.sg.:": "rattaché",
+			"masc.pl.:": "rattachés",
+			"fém.sg.:": "rattachée",
+			"fém.pl.:": "rattachées"
+		}
+	},
+	"imperatif": {
+		"présent": { "rattache": "", "rattachons": "", "rattachez": "" },
+		"passé": { "aie": "rattaché", "ayons": "rattaché", "ayez": "rattaché" }
+	},
+	"infinitif": {
+		"présent": { "rattacher": "" },
+		"passé": { "avoir": "rattaché" }
+	}
+}

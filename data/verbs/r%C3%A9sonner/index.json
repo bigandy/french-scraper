@@ -1,0 +1,141 @@
+{
+	"name": "résonner",
+	"definition": "resonate; echo; resound; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas résonner",
+	"indicatif": {
+		"présent": {
+			"je": "résonne",
+			"tu": "résonnes",
+			"il/elle": "résonne",
+			"nous": "résonnons",
+			"vous": "résonnez",
+			"ils/elles": "résonnent"
+		},
+		"imparfait": {
+			"je": "résonnais",
+			"tu": "résonnais",
+			"il/elle": "résonnait",
+			"nous": "résonnions",
+			"vous": "résonniez",
+			"ils/elles": "résonnaient"
+		},
+		"futur": {
+			"je": "résonnerai",
+			"tu": "résonneras",
+			"il/elle": "résonnera",
+			"nous": "résonnerons",
+			"vous": "résonnerez",
+			"ils/elles": "résonneront"
+		},
+		"passé simple": {
+			"je": "résonnai",
+			"tu": "résonnas",
+			"il/elle": "résonna",
+			"nous": "résonnâmes",
+			"vous": "résonnâtes",
+			"ils/elles": "résonnèrent"
+		},
+		"passé composé": {
+			"j'": "ai résonné",
+			"tu": "as résonné",
+			"il/elle": "a résonné",
+			"nous": "avons résonné",
+			"vous": "avez résonné",
+			"ils/elles": "ont résonné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais résonné",
+			"tu": "avais résonné",
+			"il/elle": "avait résonné",
+			"nous": "avions résonné",
+			"vous": "aviez résonné",
+			"ils/elles": "avaient résonné"
+		},
+		"passé antérieur": {
+			"j'": "eus résonné",
+			"tu": "eus résonné",
+			"il/elle": "eut résonné",
+			"nous": "eûmes résonné",
+			"vous": "eûtes résonné",
+			"ils/elles": "eurent résonné"
+		},
+		"futur antérieur": {
+			"j'": "aurai résonné",
+			"tu": "auras résonné",
+			"il/elle": "aura résonné",
+			"nous": "aurons résonné",
+			"vous": "aurez résonné",
+			"ils/elles": "auront résonné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous résonniez",
+			"qu'il/elle": "résonne",
+			"qu'ils/elles": "résonnent"
+		},
+		"imparfait": {
+			"que": "vous résonnassiez",
+			"qu'il/elle": "résonnât",
+			"qu'ils/elles": "résonnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse résonné",
+			"que": "vous eussiez résonné",
+			"qu'il/elle": "eût résonné",
+			"qu'ils/elles": "eussent résonné"
+		},
+		"passé": {
+			"j'": "aie résonné",
+			"que": "vous ayez résonné",
+			"qu'il/elle": "ait résonné",
+			"qu'ils/elles": "aient résonné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "résonnerais",
+			"tu": "résonnerais",
+			"il/elle": "résonnerait",
+			"nous": "résonnerions",
+			"vous": "résonneriez",
+			"ils/elles": "résonneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais résonné",
+			"tu": "aurais résonné",
+			"il/elle": "aurait résonné",
+			"nous": "aurions résonné",
+			"vous": "auriez résonné",
+			"ils/elles": "auraient résonné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse résonné",
+			"tu": "eusses résonné",
+			"il/elle": "eût résonné",
+			"nous": "eussions résonné",
+			"vous": "eussiez résonné",
+			"ils/elles": "eussent résonné"
+		}
+	},
+	"participe": {
+		"présent": { "résonnant": "" },
+		"passé composé": { "ayant": "résonné" },
+		"passé": {
+			"masc.sg.:": "résonné",
+			"masc.pl.:": "résonnés",
+			"fém.sg.:": "résonnée",
+			"fém.pl.:": "résonnées"
+		}
+	},
+	"imperatif": {
+		"présent": { "résonne": "", "résonnons": "", "résonnez": "" },
+		"passé": { "aie": "résonné", "ayons": "résonné", "ayez": "résonné" }
+	},
+	"infinitif": {
+		"présent": { "résonner": "" },
+		"passé": { "avoir": "résonné" }
+	}
+}

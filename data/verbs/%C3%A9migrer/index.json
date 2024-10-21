@@ -1,0 +1,140 @@
+{
+	"name": "émigrer",
+	"definition": "emigrate; migrate; immigrate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas émigrer",
+	"indicatif": {
+		"présent": {
+			"j'": "émigre",
+			"tu": "émigres",
+			"il/elle": "émigre",
+			"nous": "émigrons",
+			"vous": "émigrez",
+			"ils/elles": "émigrent"
+		},
+		"imparfait": {
+			"j'": "émigrais",
+			"tu": "émigrais",
+			"il/elle": "émigrait",
+			"nous": "émigrions",
+			"vous": "émigriez",
+			"ils/elles": "émigraient"
+		},
+		"futur": {
+			"j'": "émigrerai",
+			"tu": "émigreras",
+			"il/elle": "émigrera",
+			"nous": "émigrerons",
+			"vous": "émigrerez",
+			"ils/elles": "émigreront"
+		},
+		"passé simple": {
+			"j'": "émigrai",
+			"tu": "émigras",
+			"il/elle": "émigra",
+			"nous": "émigrâmes",
+			"vous": "émigrâtes",
+			"ils/elles": "émigrèrent"
+		},
+		"passé composé": {
+			"j'": "ai émigré",
+			"tu": "as émigré",
+			"il/elle": "a émigré",
+			"nous": "avons émigré",
+			"vous": "avez émigré",
+			"ils/elles": "ont émigré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais émigré",
+			"tu": "avais émigré",
+			"il/elle": "avait émigré",
+			"nous": "avions émigré",
+			"vous": "aviez émigré",
+			"ils/elles": "avaient émigré"
+		},
+		"passé antérieur": {
+			"j'": "eus émigré",
+			"tu": "eus émigré",
+			"il/elle": "eut émigré",
+			"nous": "eûmes émigré",
+			"vous": "eûtes émigré",
+			"ils/elles": "eurent émigré"
+		},
+		"futur antérieur": {
+			"j'": "aurai émigré",
+			"tu": "auras émigré",
+			"il/elle": "aura émigré",
+			"nous": "aurons émigré",
+			"vous": "aurez émigré",
+			"ils/elles": "auront émigré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "émigre",
+			"que": "vous émigriez",
+			"qu'il/elle": "émigre",
+			"qu'ils/elles": "émigrent"
+		},
+		"imparfait": {
+			"j'": "émigrasse",
+			"que": "vous émigrassiez",
+			"qu'il/elle": "émigrât",
+			"qu'ils/elles": "émigrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse émigré",
+			"que": "vous eussiez émigré",
+			"qu'il/elle": "eût émigré",
+			"qu'ils/elles": "eussent émigré"
+		},
+		"passé": {
+			"j'": "aie émigré",
+			"que": "vous ayez émigré",
+			"qu'il/elle": "ait émigré",
+			"qu'ils/elles": "aient émigré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "émigrerais",
+			"tu": "émigrerais",
+			"il/elle": "émigrerait",
+			"nous": "émigrerions",
+			"vous": "émigreriez",
+			"ils/elles": "émigreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais émigré",
+			"tu": "aurais émigré",
+			"il/elle": "aurait émigré",
+			"nous": "aurions émigré",
+			"vous": "auriez émigré",
+			"ils/elles": "auraient émigré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse émigré",
+			"tu": "eusses émigré",
+			"il/elle": "eût émigré",
+			"nous": "eussions émigré",
+			"vous": "eussiez émigré",
+			"ils/elles": "eussent émigré"
+		}
+	},
+	"participe": {
+		"présent": { "émigrant": "" },
+		"passé composé": { "ayant": "émigré" },
+		"passé": {
+			"masc.sg.:": "émigré",
+			"masc.pl.:": "émigrés",
+			"fém.sg.:": "émigrée",
+			"fém.pl.:": "émigrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "émigre": "", "émigrons": "", "émigrez": "" },
+		"passé": { "aie": "émigré", "ayons": "émigré", "ayez": "émigré" }
+	},
+	"infinitif": { "présent": { "émigrer": "" }, "passé": { "avoir": "émigré" } }
+}

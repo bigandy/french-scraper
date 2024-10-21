@@ -1,0 +1,138 @@
+{
+	"name": "plaindre",
+	"definition": "complain; pity; moan; ...",
+	"model": "craindre",
+	"auxiliary": "avoir",
+	"otherForms": "se plaindre/ne pas plaindre/ne pas se plaindre",
+	"indicatif": {
+		"présent": {
+			"je": "plains",
+			"tu": "plains",
+			"il/elle": "plaint",
+			"nous": "plaignons",
+			"vous": "plaignez",
+			"ils/elles": "plaignent"
+		},
+		"imparfait": {
+			"je": "plaignais",
+			"tu": "plaignais",
+			"il/elle": "plaignait",
+			"nous": "plaignions",
+			"vous": "plaigniez",
+			"ils/elles": "plaignaient"
+		},
+		"futur": {
+			"je": "plaindrai",
+			"tu": "plaindras",
+			"il/elle": "plaindra",
+			"nous": "plaindrons",
+			"vous": "plaindrez",
+			"ils/elles": "plaindront"
+		},
+		"passé simple": {
+			"je": "plaignis",
+			"tu": "plaignis",
+			"il/elle": "plaignit",
+			"nous": "plaignîmes",
+			"vous": "plaignîtes",
+			"ils/elles": "plaignirent"
+		},
+		"passé composé": {
+			"j'": "ai plaint",
+			"tu": "as plaint",
+			"il/elle": "a plaint",
+			"nous": "avons plaint",
+			"vous": "avez plaint",
+			"ils/elles": "ont plaint"
+		},
+		"plus-que-parfait": {
+			"j'": "avais plaint",
+			"tu": "avais plaint",
+			"il/elle": "avait plaint",
+			"nous": "avions plaint",
+			"vous": "aviez plaint",
+			"ils/elles": "avaient plaint"
+		},
+		"passé antérieur": {
+			"j'": "eus plaint",
+			"tu": "eus plaint",
+			"il/elle": "eut plaint",
+			"nous": "eûmes plaint",
+			"vous": "eûtes plaint",
+			"ils/elles": "eurent plaint"
+		},
+		"futur antérieur": {
+			"j'": "aurai plaint",
+			"tu": "auras plaint",
+			"il/elle": "aura plaint",
+			"nous": "aurons plaint",
+			"vous": "aurez plaint",
+			"ils/elles": "auront plaint"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous plaigniez",
+			"qu'il/elle": "plaigne",
+			"qu'ils/elles": "plaignent"
+		},
+		"imparfait": {
+			"que": "vous plaignissiez",
+			"qu'il/elle": "plaignît",
+			"qu'ils/elles": "plaignissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse plaint",
+			"que": "vous eussiez plaint",
+			"qu'il/elle": "eût plaint",
+			"qu'ils/elles": "eussent plaint"
+		},
+		"passé": {
+			"j'": "aie plaint",
+			"que": "vous ayez plaint",
+			"qu'il/elle": "ait plaint",
+			"qu'ils/elles": "aient plaint"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "plaindrais",
+			"tu": "plaindrais",
+			"il/elle": "plaindrait",
+			"nous": "plaindrions",
+			"vous": "plaindriez",
+			"ils/elles": "plaindraient"
+		},
+		"passé première forme": {
+			"j'": "aurais plaint",
+			"tu": "aurais plaint",
+			"il/elle": "aurait plaint",
+			"nous": "aurions plaint",
+			"vous": "auriez plaint",
+			"ils/elles": "auraient plaint"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse plaint",
+			"tu": "eusses plaint",
+			"il/elle": "eût plaint",
+			"nous": "eussions plaint",
+			"vous": "eussiez plaint",
+			"ils/elles": "eussent plaint"
+		}
+	},
+	"participe": {
+		"présent": { "plaignant": "" },
+		"passé composé": { "ayant": "plaint" },
+		"passé": {
+			"masc.sg.:": "plaint",
+			"masc.pl.:": "plaints",
+			"fém.sg.:": "plainte",
+			"fém.pl.:": "plaintes"
+		}
+	},
+	"imperatif": {
+		"présent": { "plains": "", "plaignons": "", "plaignez": "" },
+		"passé": { "aie": "plaint", "ayons": "plaint", "ayez": "plaint" }
+	},
+	"infinitif": { "présent": { "plaindre": "" }, "passé": { "avoir": "plaint" } }
+}

@@ -1,0 +1,138 @@
+{
+	"name": "dîmer",
+	"definition": "decimate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se dîmer/ne pas dîmer/ne pas se dîmer",
+	"indicatif": {
+		"présent": {
+			"je": "dîme",
+			"tu": "dîmes",
+			"il/elle": "dîme",
+			"nous": "dîmons",
+			"vous": "dîmez",
+			"ils/elles": "dîment"
+		},
+		"imparfait": {
+			"je": "dîmais",
+			"tu": "dîmais",
+			"il/elle": "dîmait",
+			"nous": "dîmions",
+			"vous": "dîmiez",
+			"ils/elles": "dîmaient"
+		},
+		"futur": {
+			"je": "dîmerai",
+			"tu": "dîmeras",
+			"il/elle": "dîmera",
+			"nous": "dîmerons",
+			"vous": "dîmerez",
+			"ils/elles": "dîmeront"
+		},
+		"passé simple": {
+			"je": "dîmai",
+			"tu": "dîmas",
+			"il/elle": "dîma",
+			"nous": "dîmâmes",
+			"vous": "dîmâtes",
+			"ils/elles": "dîmèrent"
+		},
+		"passé composé": {
+			"j'": "ai dîmé",
+			"tu": "as dîmé",
+			"il/elle": "a dîmé",
+			"nous": "avons dîmé",
+			"vous": "avez dîmé",
+			"ils/elles": "ont dîmé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais dîmé",
+			"tu": "avais dîmé",
+			"il/elle": "avait dîmé",
+			"nous": "avions dîmé",
+			"vous": "aviez dîmé",
+			"ils/elles": "avaient dîmé"
+		},
+		"passé antérieur": {
+			"j'": "eus dîmé",
+			"tu": "eus dîmé",
+			"il/elle": "eut dîmé",
+			"nous": "eûmes dîmé",
+			"vous": "eûtes dîmé",
+			"ils/elles": "eurent dîmé"
+		},
+		"futur antérieur": {
+			"j'": "aurai dîmé",
+			"tu": "auras dîmé",
+			"il/elle": "aura dîmé",
+			"nous": "aurons dîmé",
+			"vous": "aurez dîmé",
+			"ils/elles": "auront dîmé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous dîmiez",
+			"qu'il/elle": "dîme",
+			"qu'ils/elles": "dîment"
+		},
+		"imparfait": {
+			"que": "vous dîmassiez",
+			"qu'il/elle": "dîmât",
+			"qu'ils/elles": "dîmassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse dîmé",
+			"que": "vous eussiez dîmé",
+			"qu'il/elle": "eût dîmé",
+			"qu'ils/elles": "eussent dîmé"
+		},
+		"passé": {
+			"j'": "aie dîmé",
+			"que": "vous ayez dîmé",
+			"qu'il/elle": "ait dîmé",
+			"qu'ils/elles": "aient dîmé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "dîmerais",
+			"tu": "dîmerais",
+			"il/elle": "dîmerait",
+			"nous": "dîmerions",
+			"vous": "dîmeriez",
+			"ils/elles": "dîmeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais dîmé",
+			"tu": "aurais dîmé",
+			"il/elle": "aurait dîmé",
+			"nous": "aurions dîmé",
+			"vous": "auriez dîmé",
+			"ils/elles": "auraient dîmé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse dîmé",
+			"tu": "eusses dîmé",
+			"il/elle": "eût dîmé",
+			"nous": "eussions dîmé",
+			"vous": "eussiez dîmé",
+			"ils/elles": "eussent dîmé"
+		}
+	},
+	"participe": {
+		"présent": { "dîmant": "" },
+		"passé composé": { "ayant": "dîmé" },
+		"passé": {
+			"masc.sg.:": "dîmé",
+			"masc.pl.:": "dîmés",
+			"fém.sg.:": "dîmée",
+			"fém.pl.:": "dîmées"
+		}
+	},
+	"imperatif": {
+		"présent": { "dîme": "", "dîmons": "", "dîmez": "" },
+		"passé": { "aie": "dîmé", "ayons": "dîmé", "ayez": "dîmé" }
+	},
+	"infinitif": { "présent": { "dîmer": "" }, "passé": { "avoir": "dîmé" } }
+}

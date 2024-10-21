@@ -1,0 +1,138 @@
+{
+	"name": "débiter",
+	"definition": "debit; charge; spout; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se débiter/ne pas débiter/ne pas se débiter",
+	"indicatif": {
+		"présent": {
+			"je": "débite",
+			"tu": "débites",
+			"il/elle": "débite",
+			"nous": "débitons",
+			"vous": "débitez",
+			"ils/elles": "débitent"
+		},
+		"imparfait": {
+			"je": "débitais",
+			"tu": "débitais",
+			"il/elle": "débitait",
+			"nous": "débitions",
+			"vous": "débitiez",
+			"ils/elles": "débitaient"
+		},
+		"futur": {
+			"je": "débiterai",
+			"tu": "débiteras",
+			"il/elle": "débitera",
+			"nous": "débiterons",
+			"vous": "débiterez",
+			"ils/elles": "débiteront"
+		},
+		"passé simple": {
+			"je": "débitai",
+			"tu": "débitas",
+			"il/elle": "débita",
+			"nous": "débitâmes",
+			"vous": "débitâtes",
+			"ils/elles": "débitèrent"
+		},
+		"passé composé": {
+			"j'": "ai débité",
+			"tu": "as débité",
+			"il/elle": "a débité",
+			"nous": "avons débité",
+			"vous": "avez débité",
+			"ils/elles": "ont débité"
+		},
+		"plus-que-parfait": {
+			"j'": "avais débité",
+			"tu": "avais débité",
+			"il/elle": "avait débité",
+			"nous": "avions débité",
+			"vous": "aviez débité",
+			"ils/elles": "avaient débité"
+		},
+		"passé antérieur": {
+			"j'": "eus débité",
+			"tu": "eus débité",
+			"il/elle": "eut débité",
+			"nous": "eûmes débité",
+			"vous": "eûtes débité",
+			"ils/elles": "eurent débité"
+		},
+		"futur antérieur": {
+			"j'": "aurai débité",
+			"tu": "auras débité",
+			"il/elle": "aura débité",
+			"nous": "aurons débité",
+			"vous": "aurez débité",
+			"ils/elles": "auront débité"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous débitiez",
+			"qu'il/elle": "débite",
+			"qu'ils/elles": "débitent"
+		},
+		"imparfait": {
+			"que": "vous débitassiez",
+			"qu'il/elle": "débitât",
+			"qu'ils/elles": "débitassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse débité",
+			"que": "vous eussiez débité",
+			"qu'il/elle": "eût débité",
+			"qu'ils/elles": "eussent débité"
+		},
+		"passé": {
+			"j'": "aie débité",
+			"que": "vous ayez débité",
+			"qu'il/elle": "ait débité",
+			"qu'ils/elles": "aient débité"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "débiterais",
+			"tu": "débiterais",
+			"il/elle": "débiterait",
+			"nous": "débiterions",
+			"vous": "débiteriez",
+			"ils/elles": "débiteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais débité",
+			"tu": "aurais débité",
+			"il/elle": "aurait débité",
+			"nous": "aurions débité",
+			"vous": "auriez débité",
+			"ils/elles": "auraient débité"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse débité",
+			"tu": "eusses débité",
+			"il/elle": "eût débité",
+			"nous": "eussions débité",
+			"vous": "eussiez débité",
+			"ils/elles": "eussent débité"
+		}
+	},
+	"participe": {
+		"présent": { "débitant": "" },
+		"passé composé": { "ayant": "débité" },
+		"passé": {
+			"masc.sg.:": "débité",
+			"masc.pl.:": "débités",
+			"fém.sg.:": "débitée",
+			"fém.pl.:": "débitées"
+		}
+	},
+	"imperatif": {
+		"présent": { "débite": "", "débitons": "", "débitez": "" },
+		"passé": { "aie": "débité", "ayons": "débité", "ayez": "débité" }
+	},
+	"infinitif": { "présent": { "débiter": "" }, "passé": { "avoir": "débité" } }
+}

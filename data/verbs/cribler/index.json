@@ -1,0 +1,138 @@
+{
+	"name": "cribler",
+	"definition": "screen; sift; riddle; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se cribler/ne pas cribler/ne pas se cribler",
+	"indicatif": {
+		"présent": {
+			"je": "crible",
+			"tu": "cribles",
+			"il/elle": "crible",
+			"nous": "criblons",
+			"vous": "criblez",
+			"ils/elles": "criblent"
+		},
+		"imparfait": {
+			"je": "criblais",
+			"tu": "criblais",
+			"il/elle": "criblait",
+			"nous": "criblions",
+			"vous": "cribliez",
+			"ils/elles": "criblaient"
+		},
+		"futur": {
+			"je": "criblerai",
+			"tu": "cribleras",
+			"il/elle": "criblera",
+			"nous": "criblerons",
+			"vous": "criblerez",
+			"ils/elles": "cribleront"
+		},
+		"passé simple": {
+			"je": "criblai",
+			"tu": "criblas",
+			"il/elle": "cribla",
+			"nous": "criblâmes",
+			"vous": "criblâtes",
+			"ils/elles": "criblèrent"
+		},
+		"passé composé": {
+			"j'": "ai criblé",
+			"tu": "as criblé",
+			"il/elle": "a criblé",
+			"nous": "avons criblé",
+			"vous": "avez criblé",
+			"ils/elles": "ont criblé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais criblé",
+			"tu": "avais criblé",
+			"il/elle": "avait criblé",
+			"nous": "avions criblé",
+			"vous": "aviez criblé",
+			"ils/elles": "avaient criblé"
+		},
+		"passé antérieur": {
+			"j'": "eus criblé",
+			"tu": "eus criblé",
+			"il/elle": "eut criblé",
+			"nous": "eûmes criblé",
+			"vous": "eûtes criblé",
+			"ils/elles": "eurent criblé"
+		},
+		"futur antérieur": {
+			"j'": "aurai criblé",
+			"tu": "auras criblé",
+			"il/elle": "aura criblé",
+			"nous": "aurons criblé",
+			"vous": "aurez criblé",
+			"ils/elles": "auront criblé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous cribliez",
+			"qu'il/elle": "crible",
+			"qu'ils/elles": "criblent"
+		},
+		"imparfait": {
+			"que": "vous criblassiez",
+			"qu'il/elle": "criblât",
+			"qu'ils/elles": "criblassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse criblé",
+			"que": "vous eussiez criblé",
+			"qu'il/elle": "eût criblé",
+			"qu'ils/elles": "eussent criblé"
+		},
+		"passé": {
+			"j'": "aie criblé",
+			"que": "vous ayez criblé",
+			"qu'il/elle": "ait criblé",
+			"qu'ils/elles": "aient criblé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "criblerais",
+			"tu": "criblerais",
+			"il/elle": "criblerait",
+			"nous": "criblerions",
+			"vous": "cribleriez",
+			"ils/elles": "cribleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais criblé",
+			"tu": "aurais criblé",
+			"il/elle": "aurait criblé",
+			"nous": "aurions criblé",
+			"vous": "auriez criblé",
+			"ils/elles": "auraient criblé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse criblé",
+			"tu": "eusses criblé",
+			"il/elle": "eût criblé",
+			"nous": "eussions criblé",
+			"vous": "eussiez criblé",
+			"ils/elles": "eussent criblé"
+		}
+	},
+	"participe": {
+		"présent": { "criblant": "" },
+		"passé composé": { "ayant": "criblé" },
+		"passé": {
+			"masc.sg.:": "criblé",
+			"masc.pl.:": "criblés",
+			"fém.sg.:": "criblée",
+			"fém.pl.:": "criblées"
+		}
+	},
+	"imperatif": {
+		"présent": { "crible": "", "criblons": "", "criblez": "" },
+		"passé": { "aie": "criblé", "ayons": "criblé", "ayez": "criblé" }
+	},
+	"infinitif": { "présent": { "cribler": "" }, "passé": { "avoir": "criblé" } }
+}

@@ -1,0 +1,143 @@
+{
+	"name": "évaporer",
+	"definition": "evaporate; vaporize; volatilize; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'évaporer/ne pas évaporer/ne pas s'évaporer",
+	"indicatif": {
+		"présent": {
+			"j'": "évapore",
+			"tu": "évapores",
+			"il/elle": "évapore",
+			"nous": "évaporons",
+			"vous": "évaporez",
+			"ils/elles": "évaporent"
+		},
+		"imparfait": {
+			"j'": "évaporais",
+			"tu": "évaporais",
+			"il/elle": "évaporait",
+			"nous": "évaporions",
+			"vous": "évaporiez",
+			"ils/elles": "évaporaient"
+		},
+		"futur": {
+			"j'": "évaporerai",
+			"tu": "évaporeras",
+			"il/elle": "évaporera",
+			"nous": "évaporerons",
+			"vous": "évaporerez",
+			"ils/elles": "évaporeront"
+		},
+		"passé simple": {
+			"j'": "évaporai",
+			"tu": "évaporas",
+			"il/elle": "évapora",
+			"nous": "évaporâmes",
+			"vous": "évaporâtes",
+			"ils/elles": "évaporèrent"
+		},
+		"passé composé": {
+			"j'": "ai évaporé",
+			"tu": "as évaporé",
+			"il/elle": "a évaporé",
+			"nous": "avons évaporé",
+			"vous": "avez évaporé",
+			"ils/elles": "ont évaporé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais évaporé",
+			"tu": "avais évaporé",
+			"il/elle": "avait évaporé",
+			"nous": "avions évaporé",
+			"vous": "aviez évaporé",
+			"ils/elles": "avaient évaporé"
+		},
+		"passé antérieur": {
+			"j'": "eus évaporé",
+			"tu": "eus évaporé",
+			"il/elle": "eut évaporé",
+			"nous": "eûmes évaporé",
+			"vous": "eûtes évaporé",
+			"ils/elles": "eurent évaporé"
+		},
+		"futur antérieur": {
+			"j'": "aurai évaporé",
+			"tu": "auras évaporé",
+			"il/elle": "aura évaporé",
+			"nous": "aurons évaporé",
+			"vous": "aurez évaporé",
+			"ils/elles": "auront évaporé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "évapore",
+			"que": "vous évaporiez",
+			"qu'il/elle": "évapore",
+			"qu'ils/elles": "évaporent"
+		},
+		"imparfait": {
+			"j'": "évaporasse",
+			"que": "vous évaporassiez",
+			"qu'il/elle": "évaporât",
+			"qu'ils/elles": "évaporassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse évaporé",
+			"que": "vous eussiez évaporé",
+			"qu'il/elle": "eût évaporé",
+			"qu'ils/elles": "eussent évaporé"
+		},
+		"passé": {
+			"j'": "aie évaporé",
+			"que": "vous ayez évaporé",
+			"qu'il/elle": "ait évaporé",
+			"qu'ils/elles": "aient évaporé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "évaporerais",
+			"tu": "évaporerais",
+			"il/elle": "évaporerait",
+			"nous": "évaporerions",
+			"vous": "évaporeriez",
+			"ils/elles": "évaporeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais évaporé",
+			"tu": "aurais évaporé",
+			"il/elle": "aurait évaporé",
+			"nous": "aurions évaporé",
+			"vous": "auriez évaporé",
+			"ils/elles": "auraient évaporé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse évaporé",
+			"tu": "eusses évaporé",
+			"il/elle": "eût évaporé",
+			"nous": "eussions évaporé",
+			"vous": "eussiez évaporé",
+			"ils/elles": "eussent évaporé"
+		}
+	},
+	"participe": {
+		"présent": { "évaporant": "" },
+		"passé composé": { "ayant": "évaporé" },
+		"passé": {
+			"masc.sg.:": "évaporé",
+			"masc.pl.:": "évaporés",
+			"fém.sg.:": "évaporée",
+			"fém.pl.:": "évaporées"
+		}
+	},
+	"imperatif": {
+		"présent": { "évapore": "", "évaporons": "", "évaporez": "" },
+		"passé": { "aie": "évaporé", "ayons": "évaporé", "ayez": "évaporé" }
+	},
+	"infinitif": {
+		"présent": { "évaporer": "" },
+		"passé": { "avoir": "évaporé" }
+	}
+}

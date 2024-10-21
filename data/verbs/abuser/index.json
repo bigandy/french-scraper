@@ -1,0 +1,140 @@
+{
+	"name": "abuser",
+	"definition": "abuse; take advantage; misuse; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'abuser/ne pas abuser/ne pas s'abuser",
+	"indicatif": {
+		"présent": {
+			"j'": "abuse",
+			"tu": "abuses",
+			"il/elle": "abuse",
+			"nous": "abusons",
+			"vous": "abusez",
+			"ils/elles": "abusent"
+		},
+		"imparfait": {
+			"j'": "abusais",
+			"tu": "abusais",
+			"il/elle": "abusait",
+			"nous": "abusions",
+			"vous": "abusiez",
+			"ils/elles": "abusaient"
+		},
+		"futur": {
+			"j'": "abuserai",
+			"tu": "abuseras",
+			"il/elle": "abusera",
+			"nous": "abuserons",
+			"vous": "abuserez",
+			"ils/elles": "abuseront"
+		},
+		"passé simple": {
+			"j'": "abusai",
+			"tu": "abusas",
+			"il/elle": "abusa",
+			"nous": "abusâmes",
+			"vous": "abusâtes",
+			"ils/elles": "abusèrent"
+		},
+		"passé composé": {
+			"j'": "ai abusé",
+			"tu": "as abusé",
+			"il/elle": "a abusé",
+			"nous": "avons abusé",
+			"vous": "avez abusé",
+			"ils/elles": "ont abusé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais abusé",
+			"tu": "avais abusé",
+			"il/elle": "avait abusé",
+			"nous": "avions abusé",
+			"vous": "aviez abusé",
+			"ils/elles": "avaient abusé"
+		},
+		"passé antérieur": {
+			"j'": "eus abusé",
+			"tu": "eus abusé",
+			"il/elle": "eut abusé",
+			"nous": "eûmes abusé",
+			"vous": "eûtes abusé",
+			"ils/elles": "eurent abusé"
+		},
+		"futur antérieur": {
+			"j'": "aurai abusé",
+			"tu": "auras abusé",
+			"il/elle": "aura abusé",
+			"nous": "aurons abusé",
+			"vous": "aurez abusé",
+			"ils/elles": "auront abusé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "abuse",
+			"que": "vous abusiez",
+			"qu'il/elle": "abuse",
+			"qu'ils/elles": "abusent"
+		},
+		"imparfait": {
+			"j'": "abusasse",
+			"que": "vous abusassiez",
+			"qu'il/elle": "abusât",
+			"qu'ils/elles": "abusassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse abusé",
+			"que": "vous eussiez abusé",
+			"qu'il/elle": "eût abusé",
+			"qu'ils/elles": "eussent abusé"
+		},
+		"passé": {
+			"j'": "aie abusé",
+			"que": "vous ayez abusé",
+			"qu'il/elle": "ait abusé",
+			"qu'ils/elles": "aient abusé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "abuserais",
+			"tu": "abuserais",
+			"il/elle": "abuserait",
+			"nous": "abuserions",
+			"vous": "abuseriez",
+			"ils/elles": "abuseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais abusé",
+			"tu": "aurais abusé",
+			"il/elle": "aurait abusé",
+			"nous": "aurions abusé",
+			"vous": "auriez abusé",
+			"ils/elles": "auraient abusé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse abusé",
+			"tu": "eusses abusé",
+			"il/elle": "eût abusé",
+			"nous": "eussions abusé",
+			"vous": "eussiez abusé",
+			"ils/elles": "eussent abusé"
+		}
+	},
+	"participe": {
+		"présent": { "abusant": "" },
+		"passé composé": { "ayant": "abusé" },
+		"passé": {
+			"masc.sg.:": "abusé",
+			"masc.pl.:": "abusés",
+			"fém.sg.:": "abusée",
+			"fém.pl.:": "abusées"
+		}
+	},
+	"imperatif": {
+		"présent": { "abuse": "", "abusons": "", "abusez": "" },
+		"passé": { "aie": "abusé", "ayons": "abusé", "ayez": "abusé" }
+	},
+	"infinitif": { "présent": { "abuser": "" }, "passé": { "avoir": "abusé" } }
+}

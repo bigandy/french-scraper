@@ -1,0 +1,141 @@
+{
+	"name": "perdurer",
+	"definition": "continue; persist; last; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas perdurer",
+	"indicatif": {
+		"présent": {
+			"je": "perdure",
+			"tu": "perdures",
+			"il/elle": "perdure",
+			"nous": "perdurons",
+			"vous": "perdurez",
+			"ils/elles": "perdurent"
+		},
+		"imparfait": {
+			"je": "perdurais",
+			"tu": "perdurais",
+			"il/elle": "perdurait",
+			"nous": "perdurions",
+			"vous": "perduriez",
+			"ils/elles": "perduraient"
+		},
+		"futur": {
+			"je": "perdurerai",
+			"tu": "perdureras",
+			"il/elle": "perdurera",
+			"nous": "perdurerons",
+			"vous": "perdurerez",
+			"ils/elles": "perdureront"
+		},
+		"passé simple": {
+			"je": "perdurai",
+			"tu": "perduras",
+			"il/elle": "perdura",
+			"nous": "perdurâmes",
+			"vous": "perdurâtes",
+			"ils/elles": "perdurèrent"
+		},
+		"passé composé": {
+			"j'": "ai perduré",
+			"tu": "as perduré",
+			"il/elle": "a perduré",
+			"nous": "avons perduré",
+			"vous": "avez perduré",
+			"ils/elles": "ont perduré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais perduré",
+			"tu": "avais perduré",
+			"il/elle": "avait perduré",
+			"nous": "avions perduré",
+			"vous": "aviez perduré",
+			"ils/elles": "avaient perduré"
+		},
+		"passé antérieur": {
+			"j'": "eus perduré",
+			"tu": "eus perduré",
+			"il/elle": "eut perduré",
+			"nous": "eûmes perduré",
+			"vous": "eûtes perduré",
+			"ils/elles": "eurent perduré"
+		},
+		"futur antérieur": {
+			"j'": "aurai perduré",
+			"tu": "auras perduré",
+			"il/elle": "aura perduré",
+			"nous": "aurons perduré",
+			"vous": "aurez perduré",
+			"ils/elles": "auront perduré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous perduriez",
+			"qu'il/elle": "perdure",
+			"qu'ils/elles": "perdurent"
+		},
+		"imparfait": {
+			"que": "vous perdurassiez",
+			"qu'il/elle": "perdurât",
+			"qu'ils/elles": "perdurassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse perduré",
+			"que": "vous eussiez perduré",
+			"qu'il/elle": "eût perduré",
+			"qu'ils/elles": "eussent perduré"
+		},
+		"passé": {
+			"j'": "aie perduré",
+			"que": "vous ayez perduré",
+			"qu'il/elle": "ait perduré",
+			"qu'ils/elles": "aient perduré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "perdurerais",
+			"tu": "perdurerais",
+			"il/elle": "perdurerait",
+			"nous": "perdurerions",
+			"vous": "perdureriez",
+			"ils/elles": "perdureraient"
+		},
+		"passé première forme": {
+			"j'": "aurais perduré",
+			"tu": "aurais perduré",
+			"il/elle": "aurait perduré",
+			"nous": "aurions perduré",
+			"vous": "auriez perduré",
+			"ils/elles": "auraient perduré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse perduré",
+			"tu": "eusses perduré",
+			"il/elle": "eût perduré",
+			"nous": "eussions perduré",
+			"vous": "eussiez perduré",
+			"ils/elles": "eussent perduré"
+		}
+	},
+	"participe": {
+		"présent": { "perdurant": "" },
+		"passé composé": { "ayant": "perduré" },
+		"passé": {
+			"masc.sg.:": "perduré",
+			"masc.pl.:": "perdurés",
+			"fém.sg.:": "perdurée",
+			"fém.pl.:": "perdurées"
+		}
+	},
+	"imperatif": {
+		"présent": { "perdure": "", "perdurons": "", "perdurez": "" },
+		"passé": { "aie": "perduré", "ayons": "perduré", "ayez": "perduré" }
+	},
+	"infinitif": {
+		"présent": { "perdurer": "" },
+		"passé": { "avoir": "perduré" }
+	}
+}

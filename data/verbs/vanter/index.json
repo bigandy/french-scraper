@@ -1,0 +1,138 @@
+{
+	"name": "vanter",
+	"definition": "boast; brag; praise; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se vanter/ne pas vanter/ne pas se vanter",
+	"indicatif": {
+		"présent": {
+			"je": "vante",
+			"tu": "vantes",
+			"il/elle": "vante",
+			"nous": "vantons",
+			"vous": "vantez",
+			"ils/elles": "vantent"
+		},
+		"imparfait": {
+			"je": "vantais",
+			"tu": "vantais",
+			"il/elle": "vantait",
+			"nous": "vantions",
+			"vous": "vantiez",
+			"ils/elles": "vantaient"
+		},
+		"futur": {
+			"je": "vanterai",
+			"tu": "vanteras",
+			"il/elle": "vantera",
+			"nous": "vanterons",
+			"vous": "vanterez",
+			"ils/elles": "vanteront"
+		},
+		"passé simple": {
+			"je": "vantai",
+			"tu": "vantas",
+			"il/elle": "vanta",
+			"nous": "vantâmes",
+			"vous": "vantâtes",
+			"ils/elles": "vantèrent"
+		},
+		"passé composé": {
+			"j'": "ai vanté",
+			"tu": "as vanté",
+			"il/elle": "a vanté",
+			"nous": "avons vanté",
+			"vous": "avez vanté",
+			"ils/elles": "ont vanté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais vanté",
+			"tu": "avais vanté",
+			"il/elle": "avait vanté",
+			"nous": "avions vanté",
+			"vous": "aviez vanté",
+			"ils/elles": "avaient vanté"
+		},
+		"passé antérieur": {
+			"j'": "eus vanté",
+			"tu": "eus vanté",
+			"il/elle": "eut vanté",
+			"nous": "eûmes vanté",
+			"vous": "eûtes vanté",
+			"ils/elles": "eurent vanté"
+		},
+		"futur antérieur": {
+			"j'": "aurai vanté",
+			"tu": "auras vanté",
+			"il/elle": "aura vanté",
+			"nous": "aurons vanté",
+			"vous": "aurez vanté",
+			"ils/elles": "auront vanté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous vantiez",
+			"qu'il/elle": "vante",
+			"qu'ils/elles": "vantent"
+		},
+		"imparfait": {
+			"que": "vous vantassiez",
+			"qu'il/elle": "vantât",
+			"qu'ils/elles": "vantassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse vanté",
+			"que": "vous eussiez vanté",
+			"qu'il/elle": "eût vanté",
+			"qu'ils/elles": "eussent vanté"
+		},
+		"passé": {
+			"j'": "aie vanté",
+			"que": "vous ayez vanté",
+			"qu'il/elle": "ait vanté",
+			"qu'ils/elles": "aient vanté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "vanterais",
+			"tu": "vanterais",
+			"il/elle": "vanterait",
+			"nous": "vanterions",
+			"vous": "vanteriez",
+			"ils/elles": "vanteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais vanté",
+			"tu": "aurais vanté",
+			"il/elle": "aurait vanté",
+			"nous": "aurions vanté",
+			"vous": "auriez vanté",
+			"ils/elles": "auraient vanté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse vanté",
+			"tu": "eusses vanté",
+			"il/elle": "eût vanté",
+			"nous": "eussions vanté",
+			"vous": "eussiez vanté",
+			"ils/elles": "eussent vanté"
+		}
+	},
+	"participe": {
+		"présent": { "vantant": "" },
+		"passé composé": { "ayant": "vanté" },
+		"passé": {
+			"masc.sg.:": "vanté",
+			"masc.pl.:": "vantés",
+			"fém.sg.:": "vantée",
+			"fém.pl.:": "vantées"
+		}
+	},
+	"imperatif": {
+		"présent": { "vante": "", "vantons": "", "vantez": "" },
+		"passé": { "aie": "vanté", "ayons": "vanté", "ayez": "vanté" }
+	},
+	"infinitif": { "présent": { "vanter": "" }, "passé": { "avoir": "vanté" } }
+}

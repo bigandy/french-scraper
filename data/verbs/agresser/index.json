@@ -1,0 +1,143 @@
+{
+	"name": "agresser",
+	"definition": "attack; assault; mug; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'agresser/ne pas agresser/ne pas s'agresser",
+	"indicatif": {
+		"présent": {
+			"j'": "agresse",
+			"tu": "agresses",
+			"il/elle": "agresse",
+			"nous": "agressons",
+			"vous": "agressez",
+			"ils/elles": "agressent"
+		},
+		"imparfait": {
+			"j'": "agressais",
+			"tu": "agressais",
+			"il/elle": "agressait",
+			"nous": "agressions",
+			"vous": "agressiez",
+			"ils/elles": "agressaient"
+		},
+		"futur": {
+			"j'": "agresserai",
+			"tu": "agresseras",
+			"il/elle": "agressera",
+			"nous": "agresserons",
+			"vous": "agresserez",
+			"ils/elles": "agresseront"
+		},
+		"passé simple": {
+			"j'": "agressai",
+			"tu": "agressas",
+			"il/elle": "agressa",
+			"nous": "agressâmes",
+			"vous": "agressâtes",
+			"ils/elles": "agressèrent"
+		},
+		"passé composé": {
+			"j'": "ai agressé",
+			"tu": "as agressé",
+			"il/elle": "a agressé",
+			"nous": "avons agressé",
+			"vous": "avez agressé",
+			"ils/elles": "ont agressé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais agressé",
+			"tu": "avais agressé",
+			"il/elle": "avait agressé",
+			"nous": "avions agressé",
+			"vous": "aviez agressé",
+			"ils/elles": "avaient agressé"
+		},
+		"passé antérieur": {
+			"j'": "eus agressé",
+			"tu": "eus agressé",
+			"il/elle": "eut agressé",
+			"nous": "eûmes agressé",
+			"vous": "eûtes agressé",
+			"ils/elles": "eurent agressé"
+		},
+		"futur antérieur": {
+			"j'": "aurai agressé",
+			"tu": "auras agressé",
+			"il/elle": "aura agressé",
+			"nous": "aurons agressé",
+			"vous": "aurez agressé",
+			"ils/elles": "auront agressé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "agresse",
+			"que": "vous agressiez",
+			"qu'il/elle": "agresse",
+			"qu'ils/elles": "agressent"
+		},
+		"imparfait": {
+			"j'": "agressasse",
+			"que": "vous agressassiez",
+			"qu'il/elle": "agressât",
+			"qu'ils/elles": "agressassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse agressé",
+			"que": "vous eussiez agressé",
+			"qu'il/elle": "eût agressé",
+			"qu'ils/elles": "eussent agressé"
+		},
+		"passé": {
+			"j'": "aie agressé",
+			"que": "vous ayez agressé",
+			"qu'il/elle": "ait agressé",
+			"qu'ils/elles": "aient agressé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "agresserais",
+			"tu": "agresserais",
+			"il/elle": "agresserait",
+			"nous": "agresserions",
+			"vous": "agresseriez",
+			"ils/elles": "agresseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais agressé",
+			"tu": "aurais agressé",
+			"il/elle": "aurait agressé",
+			"nous": "aurions agressé",
+			"vous": "auriez agressé",
+			"ils/elles": "auraient agressé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse agressé",
+			"tu": "eusses agressé",
+			"il/elle": "eût agressé",
+			"nous": "eussions agressé",
+			"vous": "eussiez agressé",
+			"ils/elles": "eussent agressé"
+		}
+	},
+	"participe": {
+		"présent": { "agressant": "" },
+		"passé composé": { "ayant": "agressé" },
+		"passé": {
+			"masc.sg.:": "agressé",
+			"masc.pl.:": "agressés",
+			"fém.sg.:": "agressée",
+			"fém.pl.:": "agressées"
+		}
+	},
+	"imperatif": {
+		"présent": { "agresse": "", "agressons": "", "agressez": "" },
+		"passé": { "aie": "agressé", "ayons": "agressé", "ayez": "agressé" }
+	},
+	"infinitif": {
+		"présent": { "agresser": "" },
+		"passé": { "avoir": "agressé" }
+	}
+}

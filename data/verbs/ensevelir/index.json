@@ -1,0 +1,143 @@
+{
+	"name": "ensevelir",
+	"definition": "bury; entomb; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "s'ensevelir/ne pas ensevelir/ne pas s'ensevelir",
+	"indicatif": {
+		"présent": {
+			"j'": "ensevelis",
+			"tu": "ensevelis",
+			"il/elle": "ensevelit",
+			"nous": "ensevelissons",
+			"vous": "ensevelissez",
+			"ils/elles": "ensevelissent"
+		},
+		"imparfait": {
+			"j'": "ensevelissais",
+			"tu": "ensevelissais",
+			"il/elle": "ensevelissait",
+			"nous": "ensevelissions",
+			"vous": "ensevelissiez",
+			"ils/elles": "ensevelissaient"
+		},
+		"futur": {
+			"j'": "ensevelirai",
+			"tu": "enseveliras",
+			"il/elle": "ensevelira",
+			"nous": "ensevelirons",
+			"vous": "ensevelirez",
+			"ils/elles": "enseveliront"
+		},
+		"passé simple": {
+			"j'": "ensevelis",
+			"tu": "ensevelis",
+			"il/elle": "ensevelit",
+			"nous": "ensevelîmes",
+			"vous": "ensevelîtes",
+			"ils/elles": "ensevelirent"
+		},
+		"passé composé": {
+			"j'": "ai enseveli",
+			"tu": "as enseveli",
+			"il/elle": "a enseveli",
+			"nous": "avons enseveli",
+			"vous": "avez enseveli",
+			"ils/elles": "ont enseveli"
+		},
+		"plus-que-parfait": {
+			"j'": "avais enseveli",
+			"tu": "avais enseveli",
+			"il/elle": "avait enseveli",
+			"nous": "avions enseveli",
+			"vous": "aviez enseveli",
+			"ils/elles": "avaient enseveli"
+		},
+		"passé antérieur": {
+			"j'": "eus enseveli",
+			"tu": "eus enseveli",
+			"il/elle": "eut enseveli",
+			"nous": "eûmes enseveli",
+			"vous": "eûtes enseveli",
+			"ils/elles": "eurent enseveli"
+		},
+		"futur antérieur": {
+			"j'": "aurai enseveli",
+			"tu": "auras enseveli",
+			"il/elle": "aura enseveli",
+			"nous": "aurons enseveli",
+			"vous": "aurez enseveli",
+			"ils/elles": "auront enseveli"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "ensevelisse",
+			"que": "vous ensevelissiez",
+			"qu'il/elle": "ensevelisse",
+			"qu'ils/elles": "ensevelissent"
+		},
+		"imparfait": {
+			"j'": "ensevelisse",
+			"que": "vous ensevelissiez",
+			"qu'il/elle": "ensevelît",
+			"qu'ils/elles": "ensevelissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse enseveli",
+			"que": "vous eussiez enseveli",
+			"qu'il/elle": "eût enseveli",
+			"qu'ils/elles": "eussent enseveli"
+		},
+		"passé": {
+			"j'": "aie enseveli",
+			"que": "vous ayez enseveli",
+			"qu'il/elle": "ait enseveli",
+			"qu'ils/elles": "aient enseveli"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "ensevelirais",
+			"tu": "ensevelirais",
+			"il/elle": "ensevelirait",
+			"nous": "ensevelirions",
+			"vous": "enseveliriez",
+			"ils/elles": "enseveliraient"
+		},
+		"passé première forme": {
+			"j'": "aurais enseveli",
+			"tu": "aurais enseveli",
+			"il/elle": "aurait enseveli",
+			"nous": "aurions enseveli",
+			"vous": "auriez enseveli",
+			"ils/elles": "auraient enseveli"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse enseveli",
+			"tu": "eusses enseveli",
+			"il/elle": "eût enseveli",
+			"nous": "eussions enseveli",
+			"vous": "eussiez enseveli",
+			"ils/elles": "eussent enseveli"
+		}
+	},
+	"participe": {
+		"présent": { "ensevelissant": "" },
+		"passé composé": { "ayant": "enseveli" },
+		"passé": {
+			"masc.sg.:": "enseveli",
+			"masc.pl.:": "ensevelis",
+			"fém.sg.:": "ensevelie",
+			"fém.pl.:": "ensevelies"
+		}
+	},
+	"imperatif": {
+		"présent": { "ensevelis": "", "ensevelissons": "", "ensevelissez": "" },
+		"passé": { "aie": "enseveli", "ayons": "enseveli", "ayez": "enseveli" }
+	},
+	"infinitif": {
+		"présent": { "ensevelir": "" },
+		"passé": { "avoir": "enseveli" }
+	}
+}

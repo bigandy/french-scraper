@@ -1,0 +1,143 @@
+{
+	"name": "articuler",
+	"definition": "articulate; link; hinge; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'articuler/ne pas articuler/ne pas s'articuler",
+	"indicatif": {
+		"présent": {
+			"j'": "articule",
+			"tu": "articules",
+			"il/elle": "articule",
+			"nous": "articulons",
+			"vous": "articulez",
+			"ils/elles": "articulent"
+		},
+		"imparfait": {
+			"j'": "articulais",
+			"tu": "articulais",
+			"il/elle": "articulait",
+			"nous": "articulions",
+			"vous": "articuliez",
+			"ils/elles": "articulaient"
+		},
+		"futur": {
+			"j'": "articulerai",
+			"tu": "articuleras",
+			"il/elle": "articulera",
+			"nous": "articulerons",
+			"vous": "articulerez",
+			"ils/elles": "articuleront"
+		},
+		"passé simple": {
+			"j'": "articulai",
+			"tu": "articulas",
+			"il/elle": "articula",
+			"nous": "articulâmes",
+			"vous": "articulâtes",
+			"ils/elles": "articulèrent"
+		},
+		"passé composé": {
+			"j'": "ai articulé",
+			"tu": "as articulé",
+			"il/elle": "a articulé",
+			"nous": "avons articulé",
+			"vous": "avez articulé",
+			"ils/elles": "ont articulé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais articulé",
+			"tu": "avais articulé",
+			"il/elle": "avait articulé",
+			"nous": "avions articulé",
+			"vous": "aviez articulé",
+			"ils/elles": "avaient articulé"
+		},
+		"passé antérieur": {
+			"j'": "eus articulé",
+			"tu": "eus articulé",
+			"il/elle": "eut articulé",
+			"nous": "eûmes articulé",
+			"vous": "eûtes articulé",
+			"ils/elles": "eurent articulé"
+		},
+		"futur antérieur": {
+			"j'": "aurai articulé",
+			"tu": "auras articulé",
+			"il/elle": "aura articulé",
+			"nous": "aurons articulé",
+			"vous": "aurez articulé",
+			"ils/elles": "auront articulé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "articule",
+			"que": "vous articuliez",
+			"qu'il/elle": "articule",
+			"qu'ils/elles": "articulent"
+		},
+		"imparfait": {
+			"j'": "articulasse",
+			"que": "vous articulassiez",
+			"qu'il/elle": "articulât",
+			"qu'ils/elles": "articulassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse articulé",
+			"que": "vous eussiez articulé",
+			"qu'il/elle": "eût articulé",
+			"qu'ils/elles": "eussent articulé"
+		},
+		"passé": {
+			"j'": "aie articulé",
+			"que": "vous ayez articulé",
+			"qu'il/elle": "ait articulé",
+			"qu'ils/elles": "aient articulé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "articulerais",
+			"tu": "articulerais",
+			"il/elle": "articulerait",
+			"nous": "articulerions",
+			"vous": "articuleriez",
+			"ils/elles": "articuleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais articulé",
+			"tu": "aurais articulé",
+			"il/elle": "aurait articulé",
+			"nous": "aurions articulé",
+			"vous": "auriez articulé",
+			"ils/elles": "auraient articulé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse articulé",
+			"tu": "eusses articulé",
+			"il/elle": "eût articulé",
+			"nous": "eussions articulé",
+			"vous": "eussiez articulé",
+			"ils/elles": "eussent articulé"
+		}
+	},
+	"participe": {
+		"présent": { "articulant": "" },
+		"passé composé": { "ayant": "articulé" },
+		"passé": {
+			"masc.sg.:": "articulé",
+			"masc.pl.:": "articulés",
+			"fém.sg.:": "articulée",
+			"fém.pl.:": "articulées"
+		}
+	},
+	"imperatif": {
+		"présent": { "articule": "", "articulons": "", "articulez": "" },
+		"passé": { "aie": "articulé", "ayons": "articulé", "ayez": "articulé" }
+	},
+	"infinitif": {
+		"présent": { "articuler": "" },
+		"passé": { "avoir": "articulé" }
+	}
+}

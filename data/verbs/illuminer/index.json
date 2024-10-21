@@ -1,0 +1,143 @@
+{
+	"name": "illuminer",
+	"definition": "illuminate; light up; enlighten; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'illuminer/ne pas illuminer/ne pas s'illuminer",
+	"indicatif": {
+		"présent": {
+			"j'": "illumine",
+			"tu": "illumines",
+			"il/elle": "illumine",
+			"nous": "illuminons",
+			"vous": "illuminez",
+			"ils/elles": "illuminent"
+		},
+		"imparfait": {
+			"j'": "illuminais",
+			"tu": "illuminais",
+			"il/elle": "illuminait",
+			"nous": "illuminions",
+			"vous": "illuminiez",
+			"ils/elles": "illuminaient"
+		},
+		"futur": {
+			"j'": "illuminerai",
+			"tu": "illumineras",
+			"il/elle": "illuminera",
+			"nous": "illuminerons",
+			"vous": "illuminerez",
+			"ils/elles": "illumineront"
+		},
+		"passé simple": {
+			"j'": "illuminai",
+			"tu": "illuminas",
+			"il/elle": "illumina",
+			"nous": "illuminâmes",
+			"vous": "illuminâtes",
+			"ils/elles": "illuminèrent"
+		},
+		"passé composé": {
+			"j'": "ai illuminé",
+			"tu": "as illuminé",
+			"il/elle": "a illuminé",
+			"nous": "avons illuminé",
+			"vous": "avez illuminé",
+			"ils/elles": "ont illuminé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais illuminé",
+			"tu": "avais illuminé",
+			"il/elle": "avait illuminé",
+			"nous": "avions illuminé",
+			"vous": "aviez illuminé",
+			"ils/elles": "avaient illuminé"
+		},
+		"passé antérieur": {
+			"j'": "eus illuminé",
+			"tu": "eus illuminé",
+			"il/elle": "eut illuminé",
+			"nous": "eûmes illuminé",
+			"vous": "eûtes illuminé",
+			"ils/elles": "eurent illuminé"
+		},
+		"futur antérieur": {
+			"j'": "aurai illuminé",
+			"tu": "auras illuminé",
+			"il/elle": "aura illuminé",
+			"nous": "aurons illuminé",
+			"vous": "aurez illuminé",
+			"ils/elles": "auront illuminé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "illumine",
+			"que": "vous illuminiez",
+			"qu'il/elle": "illumine",
+			"qu'ils/elles": "illuminent"
+		},
+		"imparfait": {
+			"j'": "illuminasse",
+			"que": "vous illuminassiez",
+			"qu'il/elle": "illuminât",
+			"qu'ils/elles": "illuminassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse illuminé",
+			"que": "vous eussiez illuminé",
+			"qu'il/elle": "eût illuminé",
+			"qu'ils/elles": "eussent illuminé"
+		},
+		"passé": {
+			"j'": "aie illuminé",
+			"que": "vous ayez illuminé",
+			"qu'il/elle": "ait illuminé",
+			"qu'ils/elles": "aient illuminé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "illuminerais",
+			"tu": "illuminerais",
+			"il/elle": "illuminerait",
+			"nous": "illuminerions",
+			"vous": "illumineriez",
+			"ils/elles": "illumineraient"
+		},
+		"passé première forme": {
+			"j'": "aurais illuminé",
+			"tu": "aurais illuminé",
+			"il/elle": "aurait illuminé",
+			"nous": "aurions illuminé",
+			"vous": "auriez illuminé",
+			"ils/elles": "auraient illuminé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse illuminé",
+			"tu": "eusses illuminé",
+			"il/elle": "eût illuminé",
+			"nous": "eussions illuminé",
+			"vous": "eussiez illuminé",
+			"ils/elles": "eussent illuminé"
+		}
+	},
+	"participe": {
+		"présent": { "illuminant": "" },
+		"passé composé": { "ayant": "illuminé" },
+		"passé": {
+			"masc.sg.:": "illuminé",
+			"masc.pl.:": "illuminés",
+			"fém.sg.:": "illuminée",
+			"fém.pl.:": "illuminées"
+		}
+	},
+	"imperatif": {
+		"présent": { "illumine": "", "illuminons": "", "illuminez": "" },
+		"passé": { "aie": "illuminé", "ayons": "illuminé", "ayez": "illuminé" }
+	},
+	"infinitif": {
+		"présent": { "illuminer": "" },
+		"passé": { "avoir": "illuminé" }
+	}
+}

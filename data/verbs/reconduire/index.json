@@ -1,0 +1,141 @@
+{
+	"name": "reconduire",
+	"definition": "renew; extend; drive; ...",
+	"model": "cuire",
+	"auxiliary": "avoir",
+	"otherForms": "se reconduire/ne pas reconduire/ne pas se reconduire",
+	"indicatif": {
+		"présent": {
+			"je": "reconduis",
+			"tu": "reconduis",
+			"il/elle": "reconduit",
+			"nous": "reconduisons",
+			"vous": "reconduisez",
+			"ils/elles": "reconduisent"
+		},
+		"imparfait": {
+			"je": "reconduisais",
+			"tu": "reconduisais",
+			"il/elle": "reconduisait",
+			"nous": "reconduisions",
+			"vous": "reconduisiez",
+			"ils/elles": "reconduisaient"
+		},
+		"futur": {
+			"je": "reconduirai",
+			"tu": "reconduiras",
+			"il/elle": "reconduira",
+			"nous": "reconduirons",
+			"vous": "reconduirez",
+			"ils/elles": "reconduiront"
+		},
+		"passé simple": {
+			"je": "reconduisis",
+			"tu": "reconduisis",
+			"il/elle": "reconduisit",
+			"nous": "reconduisîmes",
+			"vous": "reconduisîtes",
+			"ils/elles": "reconduisirent"
+		},
+		"passé composé": {
+			"j'": "ai reconduit",
+			"tu": "as reconduit",
+			"il/elle": "a reconduit",
+			"nous": "avons reconduit",
+			"vous": "avez reconduit",
+			"ils/elles": "ont reconduit"
+		},
+		"plus-que-parfait": {
+			"j'": "avais reconduit",
+			"tu": "avais reconduit",
+			"il/elle": "avait reconduit",
+			"nous": "avions reconduit",
+			"vous": "aviez reconduit",
+			"ils/elles": "avaient reconduit"
+		},
+		"passé antérieur": {
+			"j'": "eus reconduit",
+			"tu": "eus reconduit",
+			"il/elle": "eut reconduit",
+			"nous": "eûmes reconduit",
+			"vous": "eûtes reconduit",
+			"ils/elles": "eurent reconduit"
+		},
+		"futur antérieur": {
+			"j'": "aurai reconduit",
+			"tu": "auras reconduit",
+			"il/elle": "aura reconduit",
+			"nous": "aurons reconduit",
+			"vous": "aurez reconduit",
+			"ils/elles": "auront reconduit"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous reconduisiez",
+			"qu'il/elle": "reconduise",
+			"qu'ils/elles": "reconduisent"
+		},
+		"imparfait": {
+			"que": "vous reconduisissiez",
+			"qu'il/elle": "reconduisît",
+			"qu'ils/elles": "reconduisissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse reconduit",
+			"que": "vous eussiez reconduit",
+			"qu'il/elle": "eût reconduit",
+			"qu'ils/elles": "eussent reconduit"
+		},
+		"passé": {
+			"j'": "aie reconduit",
+			"que": "vous ayez reconduit",
+			"qu'il/elle": "ait reconduit",
+			"qu'ils/elles": "aient reconduit"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "reconduirais",
+			"tu": "reconduirais",
+			"il/elle": "reconduirait",
+			"nous": "reconduirions",
+			"vous": "reconduiriez",
+			"ils/elles": "reconduiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais reconduit",
+			"tu": "aurais reconduit",
+			"il/elle": "aurait reconduit",
+			"nous": "aurions reconduit",
+			"vous": "auriez reconduit",
+			"ils/elles": "auraient reconduit"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse reconduit",
+			"tu": "eusses reconduit",
+			"il/elle": "eût reconduit",
+			"nous": "eussions reconduit",
+			"vous": "eussiez reconduit",
+			"ils/elles": "eussent reconduit"
+		}
+	},
+	"participe": {
+		"présent": { "reconduisant": "" },
+		"passé composé": { "ayant": "reconduit" },
+		"passé": {
+			"masc.sg.:": "reconduit",
+			"masc.pl.:": "reconduits",
+			"fém.sg.:": "reconduite",
+			"fém.pl.:": "reconduites"
+		}
+	},
+	"imperatif": {
+		"présent": { "reconduis": "", "reconduisons": "", "reconduisez": "" },
+		"passé": { "aie": "reconduit", "ayons": "reconduit", "ayez": "reconduit" }
+	},
+	"infinitif": {
+		"présent": { "reconduire": "" },
+		"passé": { "avoir": "reconduit" }
+	}
+}

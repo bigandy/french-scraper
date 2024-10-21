@@ -1,0 +1,138 @@
+{
+	"name": "tarder",
+	"definition": "delay; be long; take long; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas tarder",
+	"indicatif": {
+		"présent": {
+			"je": "tarde",
+			"tu": "tardes",
+			"il/elle": "tarde",
+			"nous": "tardons",
+			"vous": "tardez",
+			"ils/elles": "tardent"
+		},
+		"imparfait": {
+			"je": "tardais",
+			"tu": "tardais",
+			"il/elle": "tardait",
+			"nous": "tardions",
+			"vous": "tardiez",
+			"ils/elles": "tardaient"
+		},
+		"futur": {
+			"je": "tarderai",
+			"tu": "tarderas",
+			"il/elle": "tardera",
+			"nous": "tarderons",
+			"vous": "tarderez",
+			"ils/elles": "tarderont"
+		},
+		"passé simple": {
+			"je": "tardai",
+			"tu": "tardas",
+			"il/elle": "tarda",
+			"nous": "tardâmes",
+			"vous": "tardâtes",
+			"ils/elles": "tardèrent"
+		},
+		"passé composé": {
+			"j'": "ai tardé",
+			"tu": "as tardé",
+			"il/elle": "a tardé",
+			"nous": "avons tardé",
+			"vous": "avez tardé",
+			"ils/elles": "ont tardé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais tardé",
+			"tu": "avais tardé",
+			"il/elle": "avait tardé",
+			"nous": "avions tardé",
+			"vous": "aviez tardé",
+			"ils/elles": "avaient tardé"
+		},
+		"passé antérieur": {
+			"j'": "eus tardé",
+			"tu": "eus tardé",
+			"il/elle": "eut tardé",
+			"nous": "eûmes tardé",
+			"vous": "eûtes tardé",
+			"ils/elles": "eurent tardé"
+		},
+		"futur antérieur": {
+			"j'": "aurai tardé",
+			"tu": "auras tardé",
+			"il/elle": "aura tardé",
+			"nous": "aurons tardé",
+			"vous": "aurez tardé",
+			"ils/elles": "auront tardé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous tardiez",
+			"qu'il/elle": "tarde",
+			"qu'ils/elles": "tardent"
+		},
+		"imparfait": {
+			"que": "vous tardassiez",
+			"qu'il/elle": "tardât",
+			"qu'ils/elles": "tardassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse tardé",
+			"que": "vous eussiez tardé",
+			"qu'il/elle": "eût tardé",
+			"qu'ils/elles": "eussent tardé"
+		},
+		"passé": {
+			"j'": "aie tardé",
+			"que": "vous ayez tardé",
+			"qu'il/elle": "ait tardé",
+			"qu'ils/elles": "aient tardé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "tarderais",
+			"tu": "tarderais",
+			"il/elle": "tarderait",
+			"nous": "tarderions",
+			"vous": "tarderiez",
+			"ils/elles": "tarderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais tardé",
+			"tu": "aurais tardé",
+			"il/elle": "aurait tardé",
+			"nous": "aurions tardé",
+			"vous": "auriez tardé",
+			"ils/elles": "auraient tardé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse tardé",
+			"tu": "eusses tardé",
+			"il/elle": "eût tardé",
+			"nous": "eussions tardé",
+			"vous": "eussiez tardé",
+			"ils/elles": "eussent tardé"
+		}
+	},
+	"participe": {
+		"présent": { "tardant": "" },
+		"passé composé": { "ayant": "tardé" },
+		"passé": {
+			"masc.sg.:": "tardé",
+			"masc.pl.:": "tardés",
+			"fém.sg.:": "tardée",
+			"fém.pl.:": "tardées"
+		}
+	},
+	"imperatif": {
+		"présent": { "tarde": "", "tardons": "", "tardez": "" },
+		"passé": { "aie": "tardé", "ayons": "tardé", "ayez": "tardé" }
+	},
+	"infinitif": { "présent": { "tarder": "" }, "passé": { "avoir": "tardé" } }
+}

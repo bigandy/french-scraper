@@ -1,0 +1,143 @@
+{
+	"name": "argumenter",
+	"definition": "argue; argument; debate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas argumenter",
+	"indicatif": {
+		"présent": {
+			"j'": "argumente",
+			"tu": "argumentes",
+			"il/elle": "argumente",
+			"nous": "argumentons",
+			"vous": "argumentez",
+			"ils/elles": "argumentent"
+		},
+		"imparfait": {
+			"j'": "argumentais",
+			"tu": "argumentais",
+			"il/elle": "argumentait",
+			"nous": "argumentions",
+			"vous": "argumentiez",
+			"ils/elles": "argumentaient"
+		},
+		"futur": {
+			"j'": "argumenterai",
+			"tu": "argumenteras",
+			"il/elle": "argumentera",
+			"nous": "argumenterons",
+			"vous": "argumenterez",
+			"ils/elles": "argumenteront"
+		},
+		"passé simple": {
+			"j'": "argumentai",
+			"tu": "argumentas",
+			"il/elle": "argumenta",
+			"nous": "argumentâmes",
+			"vous": "argumentâtes",
+			"ils/elles": "argumentèrent"
+		},
+		"passé composé": {
+			"j'": "ai argumenté",
+			"tu": "as argumenté",
+			"il/elle": "a argumenté",
+			"nous": "avons argumenté",
+			"vous": "avez argumenté",
+			"ils/elles": "ont argumenté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais argumenté",
+			"tu": "avais argumenté",
+			"il/elle": "avait argumenté",
+			"nous": "avions argumenté",
+			"vous": "aviez argumenté",
+			"ils/elles": "avaient argumenté"
+		},
+		"passé antérieur": {
+			"j'": "eus argumenté",
+			"tu": "eus argumenté",
+			"il/elle": "eut argumenté",
+			"nous": "eûmes argumenté",
+			"vous": "eûtes argumenté",
+			"ils/elles": "eurent argumenté"
+		},
+		"futur antérieur": {
+			"j'": "aurai argumenté",
+			"tu": "auras argumenté",
+			"il/elle": "aura argumenté",
+			"nous": "aurons argumenté",
+			"vous": "aurez argumenté",
+			"ils/elles": "auront argumenté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "argumente",
+			"que": "vous argumentiez",
+			"qu'il/elle": "argumente",
+			"qu'ils/elles": "argumentent"
+		},
+		"imparfait": {
+			"j'": "argumentasse",
+			"que": "vous argumentassiez",
+			"qu'il/elle": "argumentât",
+			"qu'ils/elles": "argumentassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse argumenté",
+			"que": "vous eussiez argumenté",
+			"qu'il/elle": "eût argumenté",
+			"qu'ils/elles": "eussent argumenté"
+		},
+		"passé": {
+			"j'": "aie argumenté",
+			"que": "vous ayez argumenté",
+			"qu'il/elle": "ait argumenté",
+			"qu'ils/elles": "aient argumenté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "argumenterais",
+			"tu": "argumenterais",
+			"il/elle": "argumenterait",
+			"nous": "argumenterions",
+			"vous": "argumenteriez",
+			"ils/elles": "argumenteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais argumenté",
+			"tu": "aurais argumenté",
+			"il/elle": "aurait argumenté",
+			"nous": "aurions argumenté",
+			"vous": "auriez argumenté",
+			"ils/elles": "auraient argumenté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse argumenté",
+			"tu": "eusses argumenté",
+			"il/elle": "eût argumenté",
+			"nous": "eussions argumenté",
+			"vous": "eussiez argumenté",
+			"ils/elles": "eussent argumenté"
+		}
+	},
+	"participe": {
+		"présent": { "argumentant": "" },
+		"passé composé": { "ayant": "argumenté" },
+		"passé": {
+			"masc.sg.:": "argumenté",
+			"masc.pl.:": "argumentés",
+			"fém.sg.:": "argumentée",
+			"fém.pl.:": "argumentées"
+		}
+	},
+	"imperatif": {
+		"présent": { "argumente": "", "argumentons": "", "argumentez": "" },
+		"passé": { "aie": "argumenté", "ayons": "argumenté", "ayez": "argumenté" }
+	},
+	"infinitif": {
+		"présent": { "argumenter": "" },
+		"passé": { "avoir": "argumenté" }
+	}
+}

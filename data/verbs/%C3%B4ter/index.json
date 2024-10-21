@@ -1,0 +1,140 @@
+{
+	"name": "ôter",
+	"definition": "remove; take off; take away; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'ôter/ne pas ôter/ne pas s'ôter",
+	"indicatif": {
+		"présent": {
+			"j'": "ôte",
+			"tu": "ôtes",
+			"il/elle": "ôte",
+			"nous": "ôtons",
+			"vous": "ôtez",
+			"ils/elles": "ôtent"
+		},
+		"imparfait": {
+			"j'": "ôtais",
+			"tu": "ôtais",
+			"il/elle": "ôtait",
+			"nous": "ôtions",
+			"vous": "ôtiez",
+			"ils/elles": "ôtaient"
+		},
+		"futur": {
+			"j'": "ôterai",
+			"tu": "ôteras",
+			"il/elle": "ôtera",
+			"nous": "ôterons",
+			"vous": "ôterez",
+			"ils/elles": "ôteront"
+		},
+		"passé simple": {
+			"j'": "ôtai",
+			"tu": "ôtas",
+			"il/elle": "ôta",
+			"nous": "ôtâmes",
+			"vous": "ôtâtes",
+			"ils/elles": "ôtèrent"
+		},
+		"passé composé": {
+			"j'": "ai ôté",
+			"tu": "as ôté",
+			"il/elle": "a ôté",
+			"nous": "avons ôté",
+			"vous": "avez ôté",
+			"ils/elles": "ont ôté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais ôté",
+			"tu": "avais ôté",
+			"il/elle": "avait ôté",
+			"nous": "avions ôté",
+			"vous": "aviez ôté",
+			"ils/elles": "avaient ôté"
+		},
+		"passé antérieur": {
+			"j'": "eus ôté",
+			"tu": "eus ôté",
+			"il/elle": "eut ôté",
+			"nous": "eûmes ôté",
+			"vous": "eûtes ôté",
+			"ils/elles": "eurent ôté"
+		},
+		"futur antérieur": {
+			"j'": "aurai ôté",
+			"tu": "auras ôté",
+			"il/elle": "aura ôté",
+			"nous": "aurons ôté",
+			"vous": "aurez ôté",
+			"ils/elles": "auront ôté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "ôte",
+			"que": "vous ôtiez",
+			"qu'il/elle": "ôte",
+			"qu'ils/elles": "ôtent"
+		},
+		"imparfait": {
+			"j'": "ôtasse",
+			"que": "vous ôtassiez",
+			"qu'il/elle": "ôtât",
+			"qu'ils/elles": "ôtassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse ôté",
+			"que": "vous eussiez ôté",
+			"qu'il/elle": "eût ôté",
+			"qu'ils/elles": "eussent ôté"
+		},
+		"passé": {
+			"j'": "aie ôté",
+			"que": "vous ayez ôté",
+			"qu'il/elle": "ait ôté",
+			"qu'ils/elles": "aient ôté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "ôterais",
+			"tu": "ôterais",
+			"il/elle": "ôterait",
+			"nous": "ôterions",
+			"vous": "ôteriez",
+			"ils/elles": "ôteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais ôté",
+			"tu": "aurais ôté",
+			"il/elle": "aurait ôté",
+			"nous": "aurions ôté",
+			"vous": "auriez ôté",
+			"ils/elles": "auraient ôté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse ôté",
+			"tu": "eusses ôté",
+			"il/elle": "eût ôté",
+			"nous": "eussions ôté",
+			"vous": "eussiez ôté",
+			"ils/elles": "eussent ôté"
+		}
+	},
+	"participe": {
+		"présent": { "ôtant": "" },
+		"passé composé": { "ayant": "ôté" },
+		"passé": {
+			"masc.sg.:": "ôté",
+			"masc.pl.:": "ôtés",
+			"fém.sg.:": "ôtée",
+			"fém.pl.:": "ôtées"
+		}
+	},
+	"imperatif": {
+		"présent": { "ôte": "", "ôtons": "", "ôtez": "" },
+		"passé": { "aie": "ôté", "ayons": "ôté", "ayez": "ôté" }
+	},
+	"infinitif": { "présent": { "ôter": "" }, "passé": { "avoir": "ôté" } }
+}

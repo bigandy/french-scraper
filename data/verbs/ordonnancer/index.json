@@ -1,0 +1,147 @@
+{
+	"name": "ordonnancer",
+	"definition": "schedule; ...",
+	"model": "commencer",
+	"auxiliary": "avoir",
+	"otherForms": "s'ordonnancer/ne pas ordonnancer/ne pas s'ordonnancer",
+	"indicatif": {
+		"présent": {
+			"j'": "ordonnance",
+			"tu": "ordonnances",
+			"il/elle": "ordonnance",
+			"nous": "ordonnançons",
+			"vous": "ordonnancez",
+			"ils/elles": "ordonnancent"
+		},
+		"imparfait": {
+			"j'": "ordonnançais",
+			"tu": "ordonnançais",
+			"il/elle": "ordonnançait",
+			"nous": "ordonnancions",
+			"vous": "ordonnanciez",
+			"ils/elles": "ordonnançaient"
+		},
+		"futur": {
+			"j'": "ordonnancerai",
+			"tu": "ordonnanceras",
+			"il/elle": "ordonnancera",
+			"nous": "ordonnancerons",
+			"vous": "ordonnancerez",
+			"ils/elles": "ordonnanceront"
+		},
+		"passé simple": {
+			"j'": "ordonnançai",
+			"tu": "ordonnanças",
+			"il/elle": "ordonnança",
+			"nous": "ordonnançâmes",
+			"vous": "ordonnançâtes",
+			"ils/elles": "ordonnancèrent"
+		},
+		"passé composé": {
+			"j'": "ai ordonnancé",
+			"tu": "as ordonnancé",
+			"il/elle": "a ordonnancé",
+			"nous": "avons ordonnancé",
+			"vous": "avez ordonnancé",
+			"ils/elles": "ont ordonnancé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais ordonnancé",
+			"tu": "avais ordonnancé",
+			"il/elle": "avait ordonnancé",
+			"nous": "avions ordonnancé",
+			"vous": "aviez ordonnancé",
+			"ils/elles": "avaient ordonnancé"
+		},
+		"passé antérieur": {
+			"j'": "eus ordonnancé",
+			"tu": "eus ordonnancé",
+			"il/elle": "eut ordonnancé",
+			"nous": "eûmes ordonnancé",
+			"vous": "eûtes ordonnancé",
+			"ils/elles": "eurent ordonnancé"
+		},
+		"futur antérieur": {
+			"j'": "aurai ordonnancé",
+			"tu": "auras ordonnancé",
+			"il/elle": "aura ordonnancé",
+			"nous": "aurons ordonnancé",
+			"vous": "aurez ordonnancé",
+			"ils/elles": "auront ordonnancé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "ordonnance",
+			"que": "vous ordonnanciez",
+			"qu'il/elle": "ordonnance",
+			"qu'ils/elles": "ordonnancent"
+		},
+		"imparfait": {
+			"j'": "ordonnançasse",
+			"que": "vous ordonnançassiez",
+			"qu'il/elle": "ordonnançât",
+			"qu'ils/elles": "ordonnançassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse ordonnancé",
+			"que": "vous eussiez ordonnancé",
+			"qu'il/elle": "eût ordonnancé",
+			"qu'ils/elles": "eussent ordonnancé"
+		},
+		"passé": {
+			"j'": "aie ordonnancé",
+			"que": "vous ayez ordonnancé",
+			"qu'il/elle": "ait ordonnancé",
+			"qu'ils/elles": "aient ordonnancé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "ordonnancerais",
+			"tu": "ordonnancerais",
+			"il/elle": "ordonnancerait",
+			"nous": "ordonnancerions",
+			"vous": "ordonnanceriez",
+			"ils/elles": "ordonnanceraient"
+		},
+		"passé première forme": {
+			"j'": "aurais ordonnancé",
+			"tu": "aurais ordonnancé",
+			"il/elle": "aurait ordonnancé",
+			"nous": "aurions ordonnancé",
+			"vous": "auriez ordonnancé",
+			"ils/elles": "auraient ordonnancé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse ordonnancé",
+			"tu": "eusses ordonnancé",
+			"il/elle": "eût ordonnancé",
+			"nous": "eussions ordonnancé",
+			"vous": "eussiez ordonnancé",
+			"ils/elles": "eussent ordonnancé"
+		}
+	},
+	"participe": {
+		"présent": { "ordonnançant": "" },
+		"passé composé": { "ayant": "ordonnancé" },
+		"passé": {
+			"masc.sg.:": "ordonnancé",
+			"masc.pl.:": "ordonnancés",
+			"fém.sg.:": "ordonnancée",
+			"fém.pl.:": "ordonnancées"
+		}
+	},
+	"imperatif": {
+		"présent": { "ordonnance": "", "ordonnançons": "", "ordonnancez": "" },
+		"passé": {
+			"aie": "ordonnancé",
+			"ayons": "ordonnancé",
+			"ayez": "ordonnancé"
+		}
+	},
+	"infinitif": {
+		"présent": { "ordonnancer": "" },
+		"passé": { "avoir": "ordonnancé" }
+	}
+}

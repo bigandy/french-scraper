@@ -1,0 +1,141 @@
+{
+	"name": "recentrer",
+	"definition": "refocus; focus; re-focus; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se recentrer/ne pas recentrer/ne pas se recentrer",
+	"indicatif": {
+		"présent": {
+			"je": "recentre",
+			"tu": "recentres",
+			"il/elle": "recentre",
+			"nous": "recentrons",
+			"vous": "recentrez",
+			"ils/elles": "recentrent"
+		},
+		"imparfait": {
+			"je": "recentrais",
+			"tu": "recentrais",
+			"il/elle": "recentrait",
+			"nous": "recentrions",
+			"vous": "recentriez",
+			"ils/elles": "recentraient"
+		},
+		"futur": {
+			"je": "recentrerai",
+			"tu": "recentreras",
+			"il/elle": "recentrera",
+			"nous": "recentrerons",
+			"vous": "recentrerez",
+			"ils/elles": "recentreront"
+		},
+		"passé simple": {
+			"je": "recentrai",
+			"tu": "recentras",
+			"il/elle": "recentra",
+			"nous": "recentrâmes",
+			"vous": "recentrâtes",
+			"ils/elles": "recentrèrent"
+		},
+		"passé composé": {
+			"j'": "ai recentré",
+			"tu": "as recentré",
+			"il/elle": "a recentré",
+			"nous": "avons recentré",
+			"vous": "avez recentré",
+			"ils/elles": "ont recentré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais recentré",
+			"tu": "avais recentré",
+			"il/elle": "avait recentré",
+			"nous": "avions recentré",
+			"vous": "aviez recentré",
+			"ils/elles": "avaient recentré"
+		},
+		"passé antérieur": {
+			"j'": "eus recentré",
+			"tu": "eus recentré",
+			"il/elle": "eut recentré",
+			"nous": "eûmes recentré",
+			"vous": "eûtes recentré",
+			"ils/elles": "eurent recentré"
+		},
+		"futur antérieur": {
+			"j'": "aurai recentré",
+			"tu": "auras recentré",
+			"il/elle": "aura recentré",
+			"nous": "aurons recentré",
+			"vous": "aurez recentré",
+			"ils/elles": "auront recentré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous recentriez",
+			"qu'il/elle": "recentre",
+			"qu'ils/elles": "recentrent"
+		},
+		"imparfait": {
+			"que": "vous recentrassiez",
+			"qu'il/elle": "recentrât",
+			"qu'ils/elles": "recentrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse recentré",
+			"que": "vous eussiez recentré",
+			"qu'il/elle": "eût recentré",
+			"qu'ils/elles": "eussent recentré"
+		},
+		"passé": {
+			"j'": "aie recentré",
+			"que": "vous ayez recentré",
+			"qu'il/elle": "ait recentré",
+			"qu'ils/elles": "aient recentré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "recentrerais",
+			"tu": "recentrerais",
+			"il/elle": "recentrerait",
+			"nous": "recentrerions",
+			"vous": "recentreriez",
+			"ils/elles": "recentreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais recentré",
+			"tu": "aurais recentré",
+			"il/elle": "aurait recentré",
+			"nous": "aurions recentré",
+			"vous": "auriez recentré",
+			"ils/elles": "auraient recentré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse recentré",
+			"tu": "eusses recentré",
+			"il/elle": "eût recentré",
+			"nous": "eussions recentré",
+			"vous": "eussiez recentré",
+			"ils/elles": "eussent recentré"
+		}
+	},
+	"participe": {
+		"présent": { "recentrant": "" },
+		"passé composé": { "ayant": "recentré" },
+		"passé": {
+			"masc.sg.:": "recentré",
+			"masc.pl.:": "recentrés",
+			"fém.sg.:": "recentrée",
+			"fém.pl.:": "recentrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "recentre": "", "recentrons": "", "recentrez": "" },
+		"passé": { "aie": "recentré", "ayons": "recentré", "ayez": "recentré" }
+	},
+	"infinitif": {
+		"présent": { "recentrer": "" },
+		"passé": { "avoir": "recentré" }
+	}
+}

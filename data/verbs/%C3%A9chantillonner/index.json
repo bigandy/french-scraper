@@ -1,0 +1,151 @@
+{
+	"name": "échantillonner",
+	"definition": "sample; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'échantillonner/ne pas échantillonner/ne pas s'échantillonner",
+	"indicatif": {
+		"présent": {
+			"j'": "échantillonne",
+			"tu": "échantillonnes",
+			"il/elle": "échantillonne",
+			"nous": "échantillonnons",
+			"vous": "échantillonnez",
+			"ils/elles": "échantillonnent"
+		},
+		"imparfait": {
+			"j'": "échantillonnais",
+			"tu": "échantillonnais",
+			"il/elle": "échantillonnait",
+			"nous": "échantillonnions",
+			"vous": "échantillonniez",
+			"ils/elles": "échantillonnaient"
+		},
+		"futur": {
+			"j'": "échantillonnerai",
+			"tu": "échantillonneras",
+			"il/elle": "échantillonnera",
+			"nous": "échantillonnerons",
+			"vous": "échantillonnerez",
+			"ils/elles": "échantillonneront"
+		},
+		"passé simple": {
+			"j'": "échantillonnai",
+			"tu": "échantillonnas",
+			"il/elle": "échantillonna",
+			"nous": "échantillonnâmes",
+			"vous": "échantillonnâtes",
+			"ils/elles": "échantillonnèrent"
+		},
+		"passé composé": {
+			"j'": "ai échantillonné",
+			"tu": "as échantillonné",
+			"il/elle": "a échantillonné",
+			"nous": "avons échantillonné",
+			"vous": "avez échantillonné",
+			"ils/elles": "ont échantillonné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais échantillonné",
+			"tu": "avais échantillonné",
+			"il/elle": "avait échantillonné",
+			"nous": "avions échantillonné",
+			"vous": "aviez échantillonné",
+			"ils/elles": "avaient échantillonné"
+		},
+		"passé antérieur": {
+			"j'": "eus échantillonné",
+			"tu": "eus échantillonné",
+			"il/elle": "eut échantillonné",
+			"nous": "eûmes échantillonné",
+			"vous": "eûtes échantillonné",
+			"ils/elles": "eurent échantillonné"
+		},
+		"futur antérieur": {
+			"j'": "aurai échantillonné",
+			"tu": "auras échantillonné",
+			"il/elle": "aura échantillonné",
+			"nous": "aurons échantillonné",
+			"vous": "aurez échantillonné",
+			"ils/elles": "auront échantillonné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "échantillonne",
+			"que": "vous échantillonniez",
+			"qu'il/elle": "échantillonne",
+			"qu'ils/elles": "échantillonnent"
+		},
+		"imparfait": {
+			"j'": "échantillonnasse",
+			"que": "vous échantillonnassiez",
+			"qu'il/elle": "échantillonnât",
+			"qu'ils/elles": "échantillonnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse échantillonné",
+			"que": "vous eussiez échantillonné",
+			"qu'il/elle": "eût échantillonné",
+			"qu'ils/elles": "eussent échantillonné"
+		},
+		"passé": {
+			"j'": "aie échantillonné",
+			"que": "vous ayez échantillonné",
+			"qu'il/elle": "ait échantillonné",
+			"qu'ils/elles": "aient échantillonné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "échantillonnerais",
+			"tu": "échantillonnerais",
+			"il/elle": "échantillonnerait",
+			"nous": "échantillonnerions",
+			"vous": "échantillonneriez",
+			"ils/elles": "échantillonneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais échantillonné",
+			"tu": "aurais échantillonné",
+			"il/elle": "aurait échantillonné",
+			"nous": "aurions échantillonné",
+			"vous": "auriez échantillonné",
+			"ils/elles": "auraient échantillonné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse échantillonné",
+			"tu": "eusses échantillonné",
+			"il/elle": "eût échantillonné",
+			"nous": "eussions échantillonné",
+			"vous": "eussiez échantillonné",
+			"ils/elles": "eussent échantillonné"
+		}
+	},
+	"participe": {
+		"présent": { "échantillonnant": "" },
+		"passé composé": { "ayant": "échantillonné" },
+		"passé": {
+			"masc.sg.:": "échantillonné",
+			"masc.pl.:": "échantillonnés",
+			"fém.sg.:": "échantillonnée",
+			"fém.pl.:": "échantillonnées"
+		}
+	},
+	"imperatif": {
+		"présent": {
+			"échantillonne": "",
+			"échantillonnons": "",
+			"échantillonnez": ""
+		},
+		"passé": {
+			"aie": "échantillonné",
+			"ayons": "échantillonné",
+			"ayez": "échantillonné"
+		}
+	},
+	"infinitif": {
+		"présent": { "échantillonner": "" },
+		"passé": { "avoir": "échantillonné" }
+	}
+}

@@ -1,0 +1,145 @@
+{
+	"name": "centraliser",
+	"definition": "centralize; centralise; pool; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se centraliser/ne pas centraliser/ne pas se centraliser",
+	"indicatif": {
+		"présent": {
+			"je": "centralise",
+			"tu": "centralises",
+			"il/elle": "centralise",
+			"nous": "centralisons",
+			"vous": "centralisez",
+			"ils/elles": "centralisent"
+		},
+		"imparfait": {
+			"je": "centralisais",
+			"tu": "centralisais",
+			"il/elle": "centralisait",
+			"nous": "centralisions",
+			"vous": "centralisiez",
+			"ils/elles": "centralisaient"
+		},
+		"futur": {
+			"je": "centraliserai",
+			"tu": "centraliseras",
+			"il/elle": "centralisera",
+			"nous": "centraliserons",
+			"vous": "centraliserez",
+			"ils/elles": "centraliseront"
+		},
+		"passé simple": {
+			"je": "centralisai",
+			"tu": "centralisas",
+			"il/elle": "centralisa",
+			"nous": "centralisâmes",
+			"vous": "centralisâtes",
+			"ils/elles": "centralisèrent"
+		},
+		"passé composé": {
+			"j'": "ai centralisé",
+			"tu": "as centralisé",
+			"il/elle": "a centralisé",
+			"nous": "avons centralisé",
+			"vous": "avez centralisé",
+			"ils/elles": "ont centralisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais centralisé",
+			"tu": "avais centralisé",
+			"il/elle": "avait centralisé",
+			"nous": "avions centralisé",
+			"vous": "aviez centralisé",
+			"ils/elles": "avaient centralisé"
+		},
+		"passé antérieur": {
+			"j'": "eus centralisé",
+			"tu": "eus centralisé",
+			"il/elle": "eut centralisé",
+			"nous": "eûmes centralisé",
+			"vous": "eûtes centralisé",
+			"ils/elles": "eurent centralisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai centralisé",
+			"tu": "auras centralisé",
+			"il/elle": "aura centralisé",
+			"nous": "aurons centralisé",
+			"vous": "aurez centralisé",
+			"ils/elles": "auront centralisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous centralisiez",
+			"qu'il/elle": "centralise",
+			"qu'ils/elles": "centralisent"
+		},
+		"imparfait": {
+			"que": "vous centralisassiez",
+			"qu'il/elle": "centralisât",
+			"qu'ils/elles": "centralisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse centralisé",
+			"que": "vous eussiez centralisé",
+			"qu'il/elle": "eût centralisé",
+			"qu'ils/elles": "eussent centralisé"
+		},
+		"passé": {
+			"j'": "aie centralisé",
+			"que": "vous ayez centralisé",
+			"qu'il/elle": "ait centralisé",
+			"qu'ils/elles": "aient centralisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "centraliserais",
+			"tu": "centraliserais",
+			"il/elle": "centraliserait",
+			"nous": "centraliserions",
+			"vous": "centraliseriez",
+			"ils/elles": "centraliseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais centralisé",
+			"tu": "aurais centralisé",
+			"il/elle": "aurait centralisé",
+			"nous": "aurions centralisé",
+			"vous": "auriez centralisé",
+			"ils/elles": "auraient centralisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse centralisé",
+			"tu": "eusses centralisé",
+			"il/elle": "eût centralisé",
+			"nous": "eussions centralisé",
+			"vous": "eussiez centralisé",
+			"ils/elles": "eussent centralisé"
+		}
+	},
+	"participe": {
+		"présent": { "centralisant": "" },
+		"passé composé": { "ayant": "centralisé" },
+		"passé": {
+			"masc.sg.:": "centralisé",
+			"masc.pl.:": "centralisés",
+			"fém.sg.:": "centralisée",
+			"fém.pl.:": "centralisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "centralise": "", "centralisons": "", "centralisez": "" },
+		"passé": {
+			"aie": "centralisé",
+			"ayons": "centralisé",
+			"ayez": "centralisé"
+		}
+	},
+	"infinitif": {
+		"présent": { "centraliser": "" },
+		"passé": { "avoir": "centralisé" }
+	}
+}

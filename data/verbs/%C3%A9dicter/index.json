@@ -1,0 +1,140 @@
+{
+	"name": "édicter",
+	"definition": "enact; issue; promulgate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'édicter/ne pas édicter/ne pas s'édicter",
+	"indicatif": {
+		"présent": {
+			"j'": "édicte",
+			"tu": "édictes",
+			"il/elle": "édicte",
+			"nous": "édictons",
+			"vous": "édictez",
+			"ils/elles": "édictent"
+		},
+		"imparfait": {
+			"j'": "édictais",
+			"tu": "édictais",
+			"il/elle": "édictait",
+			"nous": "édictions",
+			"vous": "édictiez",
+			"ils/elles": "édictaient"
+		},
+		"futur": {
+			"j'": "édicterai",
+			"tu": "édicteras",
+			"il/elle": "édictera",
+			"nous": "édicterons",
+			"vous": "édicterez",
+			"ils/elles": "édicteront"
+		},
+		"passé simple": {
+			"j'": "édictai",
+			"tu": "édictas",
+			"il/elle": "édicta",
+			"nous": "édictâmes",
+			"vous": "édictâtes",
+			"ils/elles": "édictèrent"
+		},
+		"passé composé": {
+			"j'": "ai édicté",
+			"tu": "as édicté",
+			"il/elle": "a édicté",
+			"nous": "avons édicté",
+			"vous": "avez édicté",
+			"ils/elles": "ont édicté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais édicté",
+			"tu": "avais édicté",
+			"il/elle": "avait édicté",
+			"nous": "avions édicté",
+			"vous": "aviez édicté",
+			"ils/elles": "avaient édicté"
+		},
+		"passé antérieur": {
+			"j'": "eus édicté",
+			"tu": "eus édicté",
+			"il/elle": "eut édicté",
+			"nous": "eûmes édicté",
+			"vous": "eûtes édicté",
+			"ils/elles": "eurent édicté"
+		},
+		"futur antérieur": {
+			"j'": "aurai édicté",
+			"tu": "auras édicté",
+			"il/elle": "aura édicté",
+			"nous": "aurons édicté",
+			"vous": "aurez édicté",
+			"ils/elles": "auront édicté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "édicte",
+			"que": "vous édictiez",
+			"qu'il/elle": "édicte",
+			"qu'ils/elles": "édictent"
+		},
+		"imparfait": {
+			"j'": "édictasse",
+			"que": "vous édictassiez",
+			"qu'il/elle": "édictât",
+			"qu'ils/elles": "édictassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse édicté",
+			"que": "vous eussiez édicté",
+			"qu'il/elle": "eût édicté",
+			"qu'ils/elles": "eussent édicté"
+		},
+		"passé": {
+			"j'": "aie édicté",
+			"que": "vous ayez édicté",
+			"qu'il/elle": "ait édicté",
+			"qu'ils/elles": "aient édicté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "édicterais",
+			"tu": "édicterais",
+			"il/elle": "édicterait",
+			"nous": "édicterions",
+			"vous": "édicteriez",
+			"ils/elles": "édicteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais édicté",
+			"tu": "aurais édicté",
+			"il/elle": "aurait édicté",
+			"nous": "aurions édicté",
+			"vous": "auriez édicté",
+			"ils/elles": "auraient édicté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse édicté",
+			"tu": "eusses édicté",
+			"il/elle": "eût édicté",
+			"nous": "eussions édicté",
+			"vous": "eussiez édicté",
+			"ils/elles": "eussent édicté"
+		}
+	},
+	"participe": {
+		"présent": { "édictant": "" },
+		"passé composé": { "ayant": "édicté" },
+		"passé": {
+			"masc.sg.:": "édicté",
+			"masc.pl.:": "édictés",
+			"fém.sg.:": "édictée",
+			"fém.pl.:": "édictées"
+		}
+	},
+	"imperatif": {
+		"présent": { "édicte": "", "édictons": "", "édictez": "" },
+		"passé": { "aie": "édicté", "ayons": "édicté", "ayez": "édicté" }
+	},
+	"infinitif": { "présent": { "édicter": "" }, "passé": { "avoir": "édicté" } }
+}

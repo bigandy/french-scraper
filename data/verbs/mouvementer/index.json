@@ -1,0 +1,145 @@
+{
+	"name": "mouvementer",
+	"definition": "enliven; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se mouvementer/ne pas mouvementer/ne pas se mouvementer",
+	"indicatif": {
+		"présent": {
+			"je": "mouvemente",
+			"tu": "mouvementes",
+			"il/elle": "mouvemente",
+			"nous": "mouvementons",
+			"vous": "mouvementez",
+			"ils/elles": "mouvementent"
+		},
+		"imparfait": {
+			"je": "mouvementais",
+			"tu": "mouvementais",
+			"il/elle": "mouvementait",
+			"nous": "mouvementions",
+			"vous": "mouvementiez",
+			"ils/elles": "mouvementaient"
+		},
+		"futur": {
+			"je": "mouvementerai",
+			"tu": "mouvementeras",
+			"il/elle": "mouvementera",
+			"nous": "mouvementerons",
+			"vous": "mouvementerez",
+			"ils/elles": "mouvementeront"
+		},
+		"passé simple": {
+			"je": "mouvementai",
+			"tu": "mouvementas",
+			"il/elle": "mouvementa",
+			"nous": "mouvementâmes",
+			"vous": "mouvementâtes",
+			"ils/elles": "mouvementèrent"
+		},
+		"passé composé": {
+			"j'": "ai mouvementé",
+			"tu": "as mouvementé",
+			"il/elle": "a mouvementé",
+			"nous": "avons mouvementé",
+			"vous": "avez mouvementé",
+			"ils/elles": "ont mouvementé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais mouvementé",
+			"tu": "avais mouvementé",
+			"il/elle": "avait mouvementé",
+			"nous": "avions mouvementé",
+			"vous": "aviez mouvementé",
+			"ils/elles": "avaient mouvementé"
+		},
+		"passé antérieur": {
+			"j'": "eus mouvementé",
+			"tu": "eus mouvementé",
+			"il/elle": "eut mouvementé",
+			"nous": "eûmes mouvementé",
+			"vous": "eûtes mouvementé",
+			"ils/elles": "eurent mouvementé"
+		},
+		"futur antérieur": {
+			"j'": "aurai mouvementé",
+			"tu": "auras mouvementé",
+			"il/elle": "aura mouvementé",
+			"nous": "aurons mouvementé",
+			"vous": "aurez mouvementé",
+			"ils/elles": "auront mouvementé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous mouvementiez",
+			"qu'il/elle": "mouvemente",
+			"qu'ils/elles": "mouvementent"
+		},
+		"imparfait": {
+			"que": "vous mouvementassiez",
+			"qu'il/elle": "mouvementât",
+			"qu'ils/elles": "mouvementassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse mouvementé",
+			"que": "vous eussiez mouvementé",
+			"qu'il/elle": "eût mouvementé",
+			"qu'ils/elles": "eussent mouvementé"
+		},
+		"passé": {
+			"j'": "aie mouvementé",
+			"que": "vous ayez mouvementé",
+			"qu'il/elle": "ait mouvementé",
+			"qu'ils/elles": "aient mouvementé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "mouvementerais",
+			"tu": "mouvementerais",
+			"il/elle": "mouvementerait",
+			"nous": "mouvementerions",
+			"vous": "mouvementeriez",
+			"ils/elles": "mouvementeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais mouvementé",
+			"tu": "aurais mouvementé",
+			"il/elle": "aurait mouvementé",
+			"nous": "aurions mouvementé",
+			"vous": "auriez mouvementé",
+			"ils/elles": "auraient mouvementé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse mouvementé",
+			"tu": "eusses mouvementé",
+			"il/elle": "eût mouvementé",
+			"nous": "eussions mouvementé",
+			"vous": "eussiez mouvementé",
+			"ils/elles": "eussent mouvementé"
+		}
+	},
+	"participe": {
+		"présent": { "mouvementant": "" },
+		"passé composé": { "ayant": "mouvementé" },
+		"passé": {
+			"masc.sg.:": "mouvementé",
+			"masc.pl.:": "mouvementés",
+			"fém.sg.:": "mouvementée",
+			"fém.pl.:": "mouvementées"
+		}
+	},
+	"imperatif": {
+		"présent": { "mouvemente": "", "mouvementons": "", "mouvementez": "" },
+		"passé": {
+			"aie": "mouvementé",
+			"ayons": "mouvementé",
+			"ayez": "mouvementé"
+		}
+	},
+	"infinitif": {
+		"présent": { "mouvementer": "" },
+		"passé": { "avoir": "mouvementé" }
+	}
+}

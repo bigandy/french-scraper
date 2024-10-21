@@ -1,0 +1,143 @@
+{
+	"name": "attester",
+	"definition": "attest; certify; testify; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'attester/ne pas attester/ne pas s'attester",
+	"indicatif": {
+		"présent": {
+			"j'": "atteste",
+			"tu": "attestes",
+			"il/elle": "atteste",
+			"nous": "attestons",
+			"vous": "attestez",
+			"ils/elles": "attestent"
+		},
+		"imparfait": {
+			"j'": "attestais",
+			"tu": "attestais",
+			"il/elle": "attestait",
+			"nous": "attestions",
+			"vous": "attestiez",
+			"ils/elles": "attestaient"
+		},
+		"futur": {
+			"j'": "attesterai",
+			"tu": "attesteras",
+			"il/elle": "attestera",
+			"nous": "attesterons",
+			"vous": "attesterez",
+			"ils/elles": "attesteront"
+		},
+		"passé simple": {
+			"j'": "attestai",
+			"tu": "attestas",
+			"il/elle": "attesta",
+			"nous": "attestâmes",
+			"vous": "attestâtes",
+			"ils/elles": "attestèrent"
+		},
+		"passé composé": {
+			"j'": "ai attesté",
+			"tu": "as attesté",
+			"il/elle": "a attesté",
+			"nous": "avons attesté",
+			"vous": "avez attesté",
+			"ils/elles": "ont attesté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais attesté",
+			"tu": "avais attesté",
+			"il/elle": "avait attesté",
+			"nous": "avions attesté",
+			"vous": "aviez attesté",
+			"ils/elles": "avaient attesté"
+		},
+		"passé antérieur": {
+			"j'": "eus attesté",
+			"tu": "eus attesté",
+			"il/elle": "eut attesté",
+			"nous": "eûmes attesté",
+			"vous": "eûtes attesté",
+			"ils/elles": "eurent attesté"
+		},
+		"futur antérieur": {
+			"j'": "aurai attesté",
+			"tu": "auras attesté",
+			"il/elle": "aura attesté",
+			"nous": "aurons attesté",
+			"vous": "aurez attesté",
+			"ils/elles": "auront attesté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "atteste",
+			"que": "vous attestiez",
+			"qu'il/elle": "atteste",
+			"qu'ils/elles": "attestent"
+		},
+		"imparfait": {
+			"j'": "attestasse",
+			"que": "vous attestassiez",
+			"qu'il/elle": "attestât",
+			"qu'ils/elles": "attestassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse attesté",
+			"que": "vous eussiez attesté",
+			"qu'il/elle": "eût attesté",
+			"qu'ils/elles": "eussent attesté"
+		},
+		"passé": {
+			"j'": "aie attesté",
+			"que": "vous ayez attesté",
+			"qu'il/elle": "ait attesté",
+			"qu'ils/elles": "aient attesté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "attesterais",
+			"tu": "attesterais",
+			"il/elle": "attesterait",
+			"nous": "attesterions",
+			"vous": "attesteriez",
+			"ils/elles": "attesteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais attesté",
+			"tu": "aurais attesté",
+			"il/elle": "aurait attesté",
+			"nous": "aurions attesté",
+			"vous": "auriez attesté",
+			"ils/elles": "auraient attesté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse attesté",
+			"tu": "eusses attesté",
+			"il/elle": "eût attesté",
+			"nous": "eussions attesté",
+			"vous": "eussiez attesté",
+			"ils/elles": "eussent attesté"
+		}
+	},
+	"participe": {
+		"présent": { "attestant": "" },
+		"passé composé": { "ayant": "attesté" },
+		"passé": {
+			"masc.sg.:": "attesté",
+			"masc.pl.:": "attestés",
+			"fém.sg.:": "attestée",
+			"fém.pl.:": "attestées"
+		}
+	},
+	"imperatif": {
+		"présent": { "atteste": "", "attestons": "", "attestez": "" },
+		"passé": { "aie": "attesté", "ayons": "attesté", "ayez": "attesté" }
+	},
+	"infinitif": {
+		"présent": { "attester": "" },
+		"passé": { "avoir": "attesté" }
+	}
+}

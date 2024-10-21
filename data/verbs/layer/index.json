@@ -1,0 +1,156 @@
+{
+	"name": "layer",
+	"definition": "layer; ...",
+	"model": "marcher\n              /\n              balayer",
+	"auxiliary": "avoir",
+	"otherForms": "se layer/ne pas layer/ne pas se layer",
+	"indicatif": {
+		"présent": {
+			"je": "l'ie",
+			"tu": "l'ies",
+			"il/elle": "l'ie",
+			"nous": "l'yons",
+			"vous": "l'yez",
+			"ils/elles": "l'ient",
+			"": ""
+		},
+		"imparfait": {
+			"je": "l'yais",
+			"tu": "l'yais",
+			"il/elle": "l'yait",
+			"nous": "l'yions",
+			"vous": "l'yiez",
+			"ils/elles": "l'yaient",
+			"": ""
+		},
+		"futur": {
+			"je": "l'ierai",
+			"tu": "l'ieras",
+			"il/elle": "l'iera",
+			"nous": "l'ierons",
+			"vous": "l'ierez",
+			"ils/elles": "l'ieront",
+			"": ""
+		},
+		"passé simple": {
+			"je": "l'yai",
+			"tu": "l'yas",
+			"il/elle": "l'ya",
+			"nous": "l'yâmes",
+			"vous": "l'yâtes",
+			"ils/elles": "l'yèrent",
+			"": ""
+		},
+		"passé composé": {
+			"j'": "ai l'yé",
+			"tu": "as l'yé",
+			"il/elle": "a l'yé",
+			"nous": "avons l'yé",
+			"vous": "avez l'yé",
+			"ils/elles": "ont l'yé",
+			"": ""
+		},
+		"plus-que-parfait": {
+			"j'": "avais l'yé",
+			"tu": "avais l'yé",
+			"il/elle": "avait l'yé",
+			"nous": "avions l'yé",
+			"vous": "aviez l'yé",
+			"ils/elles": "avaient l'yé",
+			"": ""
+		},
+		"passé antérieur": {
+			"j'": "eus l'yé",
+			"tu": "eus l'yé",
+			"il/elle": "eut l'yé",
+			"nous": "eûmes l'yé",
+			"vous": "eûtes l'yé",
+			"ils/elles": "eurent l'yé",
+			"": ""
+		},
+		"futur antérieur": {
+			"j'": "aurai l'yé",
+			"tu": "auras l'yé",
+			"il/elle": "aura l'yé",
+			"nous": "aurons l'yé",
+			"vous": "aurez l'yé",
+			"ils/elles": "auront l'yé",
+			"": ""
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous l'yiez",
+			"qu'il/elle": "l'ie",
+			"qu'ils/elles": "l'ient",
+			"": ""
+		},
+		"imparfait": {
+			"que": "vous l'yassiez",
+			"qu'il/elle": "l'yât",
+			"qu'ils/elles": "l'yassent",
+			"": ""
+		},
+		"plus-que-parfait": {
+			"j'": "eusse l'yé",
+			"que": "vous eussiez l'yé",
+			"qu'il/elle": "eût l'yé",
+			"qu'ils/elles": "eussent l'yé",
+			"": ""
+		},
+		"passé": {
+			"j'": "aie l'yé",
+			"que": "vous ayez l'yé",
+			"qu'il/elle": "ait l'yé",
+			"qu'ils/elles": "aient l'yé",
+			"": ""
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "l'ierais",
+			"tu": "l'ierais",
+			"il/elle": "l'ierait",
+			"nous": "l'ierions",
+			"vous": "l'ieriez",
+			"ils/elles": "l'ieraient",
+			"": ""
+		},
+		"passé première forme": {
+			"j'": "aurais l'yé",
+			"tu": "aurais l'yé",
+			"il/elle": "aurait l'yé",
+			"nous": "aurions l'yé",
+			"vous": "auriez l'yé",
+			"ils/elles": "auraient l'yé",
+			"": ""
+		},
+		"passé deuxième forme": {
+			"j'": "eusse l'yé",
+			"tu": "eusses l'yé",
+			"il/elle": "eût l'yé",
+			"nous": "eussions l'yé",
+			"vous": "eussiez l'yé",
+			"ils/elles": "eussent l'yé",
+			"": ""
+		}
+	},
+	"participe": {
+		"présent": { "layant": "", "": "", "l'yant": "" },
+		"passé composé": { "ayant": "l'yé", "": "" },
+		"passé": {
+			"masc.sg.:": "layé",
+			"masc.pl.:": "layés",
+			"fém.sg.:": "layée",
+			"fém.pl.:": "layées"
+		}
+	},
+	"imperatif": {
+		"présent": { "laye": "", "layons": "", "layez": "", "": "", "laie": "" },
+		"passé": { "aie": "l'yé", "ayons": "l'yé", "ayez": "l'yé", "": "" }
+	},
+	"infinitif": {
+		"présent": { "layer": "", "": "", "l'yer": "" },
+		"passé": { "avoir": "l'yé", "": "" }
+	}
+}

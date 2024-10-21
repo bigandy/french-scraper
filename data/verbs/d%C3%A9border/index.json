@@ -1,0 +1,194 @@
+{
+	"name": "déborder",
+	"definition": "overflow; spill over; outflank; ...",
+	"model": "marcher",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "se déborder/ne pas déborder/ne pas se déborder",
+	"indicatif": {
+		"présent": {
+			"je": "déborde",
+			"tu": "débordes",
+			"il/elle": "déborde",
+			"nous": "débordons",
+			"vous": "débordez",
+			"ils/elles": "débordent"
+		},
+		"imparfait": {
+			"je": "débordais",
+			"tu": "débordais",
+			"il/elle": "débordait",
+			"nous": "débordions",
+			"vous": "débordiez",
+			"ils/elles": "débordaient"
+		},
+		"futur": {
+			"je": "déborderai",
+			"tu": "déborderas",
+			"il/elle": "débordera",
+			"nous": "déborderons",
+			"vous": "déborderez",
+			"ils/elles": "déborderont"
+		},
+		"passé simple": {
+			"je": "débordai",
+			"tu": "débordas",
+			"il/elle": "déborda",
+			"nous": "débordâmes",
+			"vous": "débordâtes",
+			"ils/elles": "débordèrent"
+		},
+		"passé composé": {
+			"j'": "ai débordé",
+			"tu": "es débordé",
+			"il/elle": "a débordé",
+			"nous": "sommes débordés",
+			"vous": "êtes débordés",
+			"ils/elles": "ont débordé",
+			"": "",
+			"je": "suis débordé",
+			"il": "est débordé",
+			"elle": "est débordée",
+			"ils": "sont débordés",
+			"elles": "sont débordées"
+		},
+		"plus-que-parfait": {
+			"j'": "étais débordé",
+			"tu": "étais débordé",
+			"il/elle": "avait débordé",
+			"nous": "étions débordés",
+			"vous": "étiez débordés",
+			"ils/elles": "avaient débordé",
+			"": "",
+			"il": "était débordé",
+			"elle": "était débordée",
+			"ils": "étaient débordés",
+			"elles": "étaient débordées"
+		},
+		"passé antérieur": {
+			"j'": "eus débordé",
+			"tu": "fus débordé",
+			"il/elle": "eut débordé",
+			"nous": "fûmes débordés",
+			"vous": "fûtes débordés",
+			"ils/elles": "eurent débordé",
+			"": "",
+			"je": "fus débordé",
+			"il": "fut débordé",
+			"elle": "fut débordée",
+			"ils": "furent débordés",
+			"elles": "furent débordées"
+		},
+		"futur antérieur": {
+			"j'": "aurai débordé",
+			"tu": "seras débordé",
+			"il/elle": "aura débordé",
+			"nous": "serons débordés",
+			"vous": "serez débordés",
+			"ils/elles": "auront débordé",
+			"": "",
+			"je": "serai débordé",
+			"il": "sera débordé",
+			"elle": "sera débordée",
+			"ils": "seront débordés",
+			"elles": "seront débordées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous débordiez",
+			"qu'il/elle": "déborde",
+			"qu'ils/elles": "débordent"
+		},
+		"imparfait": {
+			"que": "vous débordassiez",
+			"qu'il/elle": "débordât",
+			"qu'ils/elles": "débordassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse débordé",
+			"que": "vous fussiez débordés",
+			"qu'il/elle": "eût débordé",
+			"qu'ils/elles": "eussent débordé",
+			"": "",
+			"qu'il": "fût débordé",
+			"qu'elle": "fût débordée",
+			"qu'ils": "fussent débordés",
+			"qu'elles": "fussent débordées"
+		},
+		"passé": {
+			"j'": "aie débordé",
+			"que": "vous soyez débordés",
+			"qu'il/elle": "ait débordé",
+			"qu'ils/elles": "aient débordé",
+			"": "",
+			"qu'il": "soit débordé",
+			"qu'elle": "soit débordée",
+			"qu'ils": "soient débordés",
+			"qu'elles": "soient débordées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "déborderais",
+			"tu": "déborderais",
+			"il/elle": "déborderait",
+			"nous": "déborderions",
+			"vous": "déborderiez",
+			"ils/elles": "déborderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais débordé",
+			"tu": "serais débordé",
+			"il/elle": "aurait débordé",
+			"nous": "serions débordés",
+			"vous": "seriez débordés",
+			"ils/elles": "auraient débordé",
+			"": "",
+			"je": "serais débordé",
+			"il": "serait débordé",
+			"elle": "serait débordée",
+			"ils": "seraient débordés",
+			"elles": "seraient débordées"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse débordé",
+			"tu": "fusses débordé",
+			"il/elle": "eût débordé",
+			"nous": "fussions débordés",
+			"vous": "fussiez débordés",
+			"ils/elles": "eussent débordé",
+			"": "",
+			"je": "fusse débordé",
+			"il": "fût débordé",
+			"elle": "fût débordée",
+			"ils": "fussent débordés",
+			"elles": "fussent débordées"
+		}
+	},
+	"participe": {
+		"présent": { "débordant": "" },
+		"passé composé": { "ayant": "débordé", "": "", "étant": "débordée" },
+		"passé": {
+			"masc.sg.:": "débordé",
+			"masc.pl.:": "débordés",
+			"fém.sg.:": "débordée",
+			"fém.pl.:": "débordées"
+		}
+	},
+	"imperatif": {
+		"présent": { "déborde": "", "débordons": "", "débordez": "" },
+		"passé": {
+			"aie": "débordé",
+			"ayons": "débordé",
+			"ayez": "débordé",
+			"": "",
+			"sois": "débordé",
+			"soyons": "débordé",
+			"soyez": "débordé"
+		}
+	},
+	"infinitif": {
+		"présent": { "déborder": "" },
+		"passé": { "avoir": "débordé", "": "", "être": "débordé" }
+	}
+}

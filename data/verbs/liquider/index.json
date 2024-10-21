@@ -1,0 +1,141 @@
+{
+	"name": "liquider",
+	"definition": "liquidate; wind up; eliminate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se liquider/ne pas liquider/ne pas se liquider",
+	"indicatif": {
+		"présent": {
+			"je": "liquide",
+			"tu": "liquides",
+			"il/elle": "liquide",
+			"nous": "liquidons",
+			"vous": "liquidez",
+			"ils/elles": "liquident"
+		},
+		"imparfait": {
+			"je": "liquidais",
+			"tu": "liquidais",
+			"il/elle": "liquidait",
+			"nous": "liquidions",
+			"vous": "liquidiez",
+			"ils/elles": "liquidaient"
+		},
+		"futur": {
+			"je": "liquiderai",
+			"tu": "liquideras",
+			"il/elle": "liquidera",
+			"nous": "liquiderons",
+			"vous": "liquiderez",
+			"ils/elles": "liquideront"
+		},
+		"passé simple": {
+			"je": "liquidai",
+			"tu": "liquidas",
+			"il/elle": "liquida",
+			"nous": "liquidâmes",
+			"vous": "liquidâtes",
+			"ils/elles": "liquidèrent"
+		},
+		"passé composé": {
+			"j'": "ai liquidé",
+			"tu": "as liquidé",
+			"il/elle": "a liquidé",
+			"nous": "avons liquidé",
+			"vous": "avez liquidé",
+			"ils/elles": "ont liquidé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais liquidé",
+			"tu": "avais liquidé",
+			"il/elle": "avait liquidé",
+			"nous": "avions liquidé",
+			"vous": "aviez liquidé",
+			"ils/elles": "avaient liquidé"
+		},
+		"passé antérieur": {
+			"j'": "eus liquidé",
+			"tu": "eus liquidé",
+			"il/elle": "eut liquidé",
+			"nous": "eûmes liquidé",
+			"vous": "eûtes liquidé",
+			"ils/elles": "eurent liquidé"
+		},
+		"futur antérieur": {
+			"j'": "aurai liquidé",
+			"tu": "auras liquidé",
+			"il/elle": "aura liquidé",
+			"nous": "aurons liquidé",
+			"vous": "aurez liquidé",
+			"ils/elles": "auront liquidé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous liquidiez",
+			"qu'il/elle": "liquide",
+			"qu'ils/elles": "liquident"
+		},
+		"imparfait": {
+			"que": "vous liquidassiez",
+			"qu'il/elle": "liquidât",
+			"qu'ils/elles": "liquidassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse liquidé",
+			"que": "vous eussiez liquidé",
+			"qu'il/elle": "eût liquidé",
+			"qu'ils/elles": "eussent liquidé"
+		},
+		"passé": {
+			"j'": "aie liquidé",
+			"que": "vous ayez liquidé",
+			"qu'il/elle": "ait liquidé",
+			"qu'ils/elles": "aient liquidé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "liquiderais",
+			"tu": "liquiderais",
+			"il/elle": "liquiderait",
+			"nous": "liquiderions",
+			"vous": "liquideriez",
+			"ils/elles": "liquideraient"
+		},
+		"passé première forme": {
+			"j'": "aurais liquidé",
+			"tu": "aurais liquidé",
+			"il/elle": "aurait liquidé",
+			"nous": "aurions liquidé",
+			"vous": "auriez liquidé",
+			"ils/elles": "auraient liquidé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse liquidé",
+			"tu": "eusses liquidé",
+			"il/elle": "eût liquidé",
+			"nous": "eussions liquidé",
+			"vous": "eussiez liquidé",
+			"ils/elles": "eussent liquidé"
+		}
+	},
+	"participe": {
+		"présent": { "liquidant": "" },
+		"passé composé": { "ayant": "liquidé" },
+		"passé": {
+			"masc.sg.:": "liquidé",
+			"masc.pl.:": "liquidés",
+			"fém.sg.:": "liquidée",
+			"fém.pl.:": "liquidées"
+		}
+	},
+	"imperatif": {
+		"présent": { "liquide": "", "liquidons": "", "liquidez": "" },
+		"passé": { "aie": "liquidé", "ayons": "liquidé", "ayez": "liquidé" }
+	},
+	"infinitif": {
+		"présent": { "liquider": "" },
+		"passé": { "avoir": "liquidé" }
+	}
+}

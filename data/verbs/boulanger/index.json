@@ -1,0 +1,141 @@
+{
+	"name": "boulanger",
+	"definition": "",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "se boulanger/ne pas boulanger/ne pas se boulanger",
+	"indicatif": {
+		"présent": {
+			"je": "boulange",
+			"tu": "boulanges",
+			"il/elle": "boulange",
+			"nous": "boulangeons",
+			"vous": "boulangez",
+			"ils/elles": "boulangent"
+		},
+		"imparfait": {
+			"je": "boulangeais",
+			"tu": "boulangeais",
+			"il/elle": "boulangeait",
+			"nous": "boulangions",
+			"vous": "boulangiez",
+			"ils/elles": "boulangeaient"
+		},
+		"futur": {
+			"je": "boulangerai",
+			"tu": "boulangeras",
+			"il/elle": "boulangera",
+			"nous": "boulangerons",
+			"vous": "boulangerez",
+			"ils/elles": "boulangeront"
+		},
+		"passé simple": {
+			"je": "boulangeai",
+			"tu": "boulangeas",
+			"il/elle": "boulangea",
+			"nous": "boulangeâmes",
+			"vous": "boulangeâtes",
+			"ils/elles": "boulangèrent"
+		},
+		"passé composé": {
+			"j'": "ai boulangé",
+			"tu": "as boulangé",
+			"il/elle": "a boulangé",
+			"nous": "avons boulangé",
+			"vous": "avez boulangé",
+			"ils/elles": "ont boulangé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais boulangé",
+			"tu": "avais boulangé",
+			"il/elle": "avait boulangé",
+			"nous": "avions boulangé",
+			"vous": "aviez boulangé",
+			"ils/elles": "avaient boulangé"
+		},
+		"passé antérieur": {
+			"j'": "eus boulangé",
+			"tu": "eus boulangé",
+			"il/elle": "eut boulangé",
+			"nous": "eûmes boulangé",
+			"vous": "eûtes boulangé",
+			"ils/elles": "eurent boulangé"
+		},
+		"futur antérieur": {
+			"j'": "aurai boulangé",
+			"tu": "auras boulangé",
+			"il/elle": "aura boulangé",
+			"nous": "aurons boulangé",
+			"vous": "aurez boulangé",
+			"ils/elles": "auront boulangé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous boulangiez",
+			"qu'il/elle": "boulange",
+			"qu'ils/elles": "boulangent"
+		},
+		"imparfait": {
+			"que": "vous boulangeassiez",
+			"qu'il/elle": "boulangeât",
+			"qu'ils/elles": "boulangeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse boulangé",
+			"que": "vous eussiez boulangé",
+			"qu'il/elle": "eût boulangé",
+			"qu'ils/elles": "eussent boulangé"
+		},
+		"passé": {
+			"j'": "aie boulangé",
+			"que": "vous ayez boulangé",
+			"qu'il/elle": "ait boulangé",
+			"qu'ils/elles": "aient boulangé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "boulangerais",
+			"tu": "boulangerais",
+			"il/elle": "boulangerait",
+			"nous": "boulangerions",
+			"vous": "boulangeriez",
+			"ils/elles": "boulangeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais boulangé",
+			"tu": "aurais boulangé",
+			"il/elle": "aurait boulangé",
+			"nous": "aurions boulangé",
+			"vous": "auriez boulangé",
+			"ils/elles": "auraient boulangé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse boulangé",
+			"tu": "eusses boulangé",
+			"il/elle": "eût boulangé",
+			"nous": "eussions boulangé",
+			"vous": "eussiez boulangé",
+			"ils/elles": "eussent boulangé"
+		}
+	},
+	"participe": {
+		"présent": { "boulangeant": "" },
+		"passé composé": { "ayant": "boulangé" },
+		"passé": {
+			"masc.sg.:": "boulangé",
+			"masc.pl.:": "boulangés",
+			"fém.sg.:": "boulangée",
+			"fém.pl.:": "boulangées"
+		}
+	},
+	"imperatif": {
+		"présent": { "boulange": "", "boulangeons": "", "boulangez": "" },
+		"passé": { "aie": "boulangé", "ayons": "boulangé", "ayez": "boulangé" }
+	},
+	"infinitif": {
+		"présent": { "boulanger": "" },
+		"passé": { "avoir": "boulangé" }
+	}
+}

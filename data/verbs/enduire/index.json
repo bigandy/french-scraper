@@ -1,0 +1,140 @@
+{
+	"name": "enduire",
+	"definition": "coat; smear; cover; ...",
+	"model": "cuire",
+	"auxiliary": "avoir",
+	"otherForms": "s'enduire/ne pas enduire/ne pas s'enduire",
+	"indicatif": {
+		"présent": {
+			"j'": "enduis",
+			"tu": "enduis",
+			"il/elle": "enduit",
+			"nous": "enduisons",
+			"vous": "enduisez",
+			"ils/elles": "enduisent"
+		},
+		"imparfait": {
+			"j'": "enduisais",
+			"tu": "enduisais",
+			"il/elle": "enduisait",
+			"nous": "enduisions",
+			"vous": "enduisiez",
+			"ils/elles": "enduisaient"
+		},
+		"futur": {
+			"j'": "enduirai",
+			"tu": "enduiras",
+			"il/elle": "enduira",
+			"nous": "enduirons",
+			"vous": "enduirez",
+			"ils/elles": "enduiront"
+		},
+		"passé simple": {
+			"j'": "enduisis",
+			"tu": "enduisis",
+			"il/elle": "enduisit",
+			"nous": "enduisîmes",
+			"vous": "enduisîtes",
+			"ils/elles": "enduisirent"
+		},
+		"passé composé": {
+			"j'": "ai enduit",
+			"tu": "as enduit",
+			"il/elle": "a enduit",
+			"nous": "avons enduit",
+			"vous": "avez enduit",
+			"ils/elles": "ont enduit"
+		},
+		"plus-que-parfait": {
+			"j'": "avais enduit",
+			"tu": "avais enduit",
+			"il/elle": "avait enduit",
+			"nous": "avions enduit",
+			"vous": "aviez enduit",
+			"ils/elles": "avaient enduit"
+		},
+		"passé antérieur": {
+			"j'": "eus enduit",
+			"tu": "eus enduit",
+			"il/elle": "eut enduit",
+			"nous": "eûmes enduit",
+			"vous": "eûtes enduit",
+			"ils/elles": "eurent enduit"
+		},
+		"futur antérieur": {
+			"j'": "aurai enduit",
+			"tu": "auras enduit",
+			"il/elle": "aura enduit",
+			"nous": "aurons enduit",
+			"vous": "aurez enduit",
+			"ils/elles": "auront enduit"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "enduise",
+			"que": "vous enduisiez",
+			"qu'il/elle": "enduise",
+			"qu'ils/elles": "enduisent"
+		},
+		"imparfait": {
+			"j'": "enduisisse",
+			"que": "vous enduisissiez",
+			"qu'il/elle": "enduisît",
+			"qu'ils/elles": "enduisissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse enduit",
+			"que": "vous eussiez enduit",
+			"qu'il/elle": "eût enduit",
+			"qu'ils/elles": "eussent enduit"
+		},
+		"passé": {
+			"j'": "aie enduit",
+			"que": "vous ayez enduit",
+			"qu'il/elle": "ait enduit",
+			"qu'ils/elles": "aient enduit"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "enduirais",
+			"tu": "enduirais",
+			"il/elle": "enduirait",
+			"nous": "enduirions",
+			"vous": "enduiriez",
+			"ils/elles": "enduiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais enduit",
+			"tu": "aurais enduit",
+			"il/elle": "aurait enduit",
+			"nous": "aurions enduit",
+			"vous": "auriez enduit",
+			"ils/elles": "auraient enduit"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse enduit",
+			"tu": "eusses enduit",
+			"il/elle": "eût enduit",
+			"nous": "eussions enduit",
+			"vous": "eussiez enduit",
+			"ils/elles": "eussent enduit"
+		}
+	},
+	"participe": {
+		"présent": { "enduisant": "" },
+		"passé composé": { "ayant": "enduit" },
+		"passé": {
+			"masc.sg.:": "enduit",
+			"masc.pl.:": "enduits",
+			"fém.sg.:": "enduite",
+			"fém.pl.:": "enduites"
+		}
+	},
+	"imperatif": {
+		"présent": { "enduis": "", "enduisons": "", "enduisez": "" },
+		"passé": { "aie": "enduit", "ayons": "enduit", "ayez": "enduit" }
+	},
+	"infinitif": { "présent": { "enduire": "" }, "passé": { "avoir": "enduit" } }
+}

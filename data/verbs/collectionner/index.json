@@ -1,0 +1,149 @@
+{
+	"name": "collectionner",
+	"definition": "collect; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se collectionner/ne pas collectionner/ne pas se collectionner",
+	"indicatif": {
+		"présent": {
+			"je": "collectionne",
+			"tu": "collectionnes",
+			"il/elle": "collectionne",
+			"nous": "collectionnons",
+			"vous": "collectionnez",
+			"ils/elles": "collectionnent"
+		},
+		"imparfait": {
+			"je": "collectionnais",
+			"tu": "collectionnais",
+			"il/elle": "collectionnait",
+			"nous": "collectionnions",
+			"vous": "collectionniez",
+			"ils/elles": "collectionnaient"
+		},
+		"futur": {
+			"je": "collectionnerai",
+			"tu": "collectionneras",
+			"il/elle": "collectionnera",
+			"nous": "collectionnerons",
+			"vous": "collectionnerez",
+			"ils/elles": "collectionneront"
+		},
+		"passé simple": {
+			"je": "collectionnai",
+			"tu": "collectionnas",
+			"il/elle": "collectionna",
+			"nous": "collectionnâmes",
+			"vous": "collectionnâtes",
+			"ils/elles": "collectionnèrent"
+		},
+		"passé composé": {
+			"j'": "ai collectionné",
+			"tu": "as collectionné",
+			"il/elle": "a collectionné",
+			"nous": "avons collectionné",
+			"vous": "avez collectionné",
+			"ils/elles": "ont collectionné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais collectionné",
+			"tu": "avais collectionné",
+			"il/elle": "avait collectionné",
+			"nous": "avions collectionné",
+			"vous": "aviez collectionné",
+			"ils/elles": "avaient collectionné"
+		},
+		"passé antérieur": {
+			"j'": "eus collectionné",
+			"tu": "eus collectionné",
+			"il/elle": "eut collectionné",
+			"nous": "eûmes collectionné",
+			"vous": "eûtes collectionné",
+			"ils/elles": "eurent collectionné"
+		},
+		"futur antérieur": {
+			"j'": "aurai collectionné",
+			"tu": "auras collectionné",
+			"il/elle": "aura collectionné",
+			"nous": "aurons collectionné",
+			"vous": "aurez collectionné",
+			"ils/elles": "auront collectionné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous collectionniez",
+			"qu'il/elle": "collectionne",
+			"qu'ils/elles": "collectionnent"
+		},
+		"imparfait": {
+			"que": "vous collectionnassiez",
+			"qu'il/elle": "collectionnât",
+			"qu'ils/elles": "collectionnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse collectionné",
+			"que": "vous eussiez collectionné",
+			"qu'il/elle": "eût collectionné",
+			"qu'ils/elles": "eussent collectionné"
+		},
+		"passé": {
+			"j'": "aie collectionné",
+			"que": "vous ayez collectionné",
+			"qu'il/elle": "ait collectionné",
+			"qu'ils/elles": "aient collectionné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "collectionnerais",
+			"tu": "collectionnerais",
+			"il/elle": "collectionnerait",
+			"nous": "collectionnerions",
+			"vous": "collectionneriez",
+			"ils/elles": "collectionneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais collectionné",
+			"tu": "aurais collectionné",
+			"il/elle": "aurait collectionné",
+			"nous": "aurions collectionné",
+			"vous": "auriez collectionné",
+			"ils/elles": "auraient collectionné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse collectionné",
+			"tu": "eusses collectionné",
+			"il/elle": "eût collectionné",
+			"nous": "eussions collectionné",
+			"vous": "eussiez collectionné",
+			"ils/elles": "eussent collectionné"
+		}
+	},
+	"participe": {
+		"présent": { "collectionnant": "" },
+		"passé composé": { "ayant": "collectionné" },
+		"passé": {
+			"masc.sg.:": "collectionné",
+			"masc.pl.:": "collectionnés",
+			"fém.sg.:": "collectionnée",
+			"fém.pl.:": "collectionnées"
+		}
+	},
+	"imperatif": {
+		"présent": {
+			"collectionne": "",
+			"collectionnons": "",
+			"collectionnez": ""
+		},
+		"passé": {
+			"aie": "collectionné",
+			"ayons": "collectionné",
+			"ayez": "collectionné"
+		}
+	},
+	"infinitif": {
+		"présent": { "collectionner": "" },
+		"passé": { "avoir": "collectionné" }
+	}
+}

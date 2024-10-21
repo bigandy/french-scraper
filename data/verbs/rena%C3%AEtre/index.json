@@ -1,0 +1,152 @@
+{
+	"name": "renaître",
+	"definition": "be reborn; revive; be born again; ...",
+	"model": "naître",
+	"auxiliary": "être",
+	"otherForms": "ne pas renaître",
+	"indicatif": {
+		"présent": {
+			"je": "renais",
+			"tu": "renais",
+			"il/elle": "renaît",
+			"nous": "renaissons",
+			"vous": "renaissez",
+			"ils/elles": "renaissent"
+		},
+		"imparfait": {
+			"je": "renaissais",
+			"tu": "renaissais",
+			"il/elle": "renaissait",
+			"nous": "renaissions",
+			"vous": "renaissiez",
+			"ils/elles": "renaissaient"
+		},
+		"futur": {
+			"je": "renaîtrai",
+			"tu": "renaîtras",
+			"il/elle": "renaîtra",
+			"nous": "renaîtrons",
+			"vous": "renaîtrez",
+			"ils/elles": "renaîtront"
+		},
+		"passé simple": {
+			"je": "renaquis",
+			"tu": "renaquis",
+			"il/elle": "renaquit",
+			"nous": "renaquîmes",
+			"vous": "renaquîtes",
+			"ils/elles": "renaquirent"
+		},
+		"passé composé": {
+			"je": "suis rené",
+			"tu": "es rené",
+			"il": "est rené",
+			"elle": "est renée",
+			"nous": "sommes renés",
+			"vous": "êtes renés",
+			"ils": "sont renés",
+			"elles": "sont renées"
+		},
+		"plus-que-parfait": {
+			"j'": "étais rené",
+			"tu": "étais rené",
+			"il": "était rené",
+			"elle": "était renée",
+			"nous": "étions renés",
+			"vous": "étiez renés",
+			"ils": "étaient renés",
+			"elles": "étaient renées"
+		},
+		"passé antérieur": {
+			"je": "fus rené",
+			"tu": "fus rené",
+			"il": "fut rené",
+			"elle": "fut renée",
+			"nous": "fûmes renés",
+			"vous": "fûtes renés",
+			"ils": "furent renés",
+			"elles": "furent renées"
+		},
+		"futur antérieur": {
+			"je": "serai rené",
+			"tu": "seras rené",
+			"il": "sera rené",
+			"elle": "sera renée",
+			"nous": "serons renés",
+			"vous": "serez renés",
+			"ils": "seront renés",
+			"elles": "seront renées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous renaissiez",
+			"qu'il/elle": "renaisse",
+			"qu'ils/elles": "renaissent"
+		},
+		"imparfait": {
+			"que": "vous renaquissiez",
+			"qu'il/elle": "renaquît",
+			"qu'ils/elles": "renaquissent"
+		},
+		"plus-que-parfait": {
+			"que": "vous fussiez renés",
+			"qu'il": "fût rené",
+			"qu'elle": "fût renée",
+			"qu'ils": "fussent renés",
+			"qu'elles": "fussent renées"
+		},
+		"passé": {
+			"que": "vous soyez renés",
+			"qu'il": "soit rené",
+			"qu'elle": "soit renée",
+			"qu'ils": "soient renés",
+			"qu'elles": "soient renées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "renaîtrais",
+			"tu": "renaîtrais",
+			"il/elle": "renaîtrait",
+			"nous": "renaîtrions",
+			"vous": "renaîtriez",
+			"ils/elles": "renaîtraient"
+		},
+		"passé première forme": {
+			"je": "serais rené",
+			"tu": "serais rené",
+			"il": "serait rené",
+			"elle": "serait renée",
+			"nous": "serions renés",
+			"vous": "seriez renés",
+			"ils": "seraient renés",
+			"elles": "seraient renées"
+		},
+		"passé deuxième forme": {
+			"je": "fusse rené",
+			"tu": "fusses rené",
+			"il": "fût rené",
+			"elle": "fût renée",
+			"nous": "fussions renés",
+			"vous": "fussiez renés",
+			"ils": "fussent renés",
+			"elles": "fussent renées"
+		}
+	},
+	"participe": {
+		"présent": { "renaissant": "" },
+		"passé composé": { "étant": "renée" },
+		"passé": {
+			"masc.sg.:": "rené",
+			"masc.pl.:": "renés",
+			"fém.sg.:": "renée",
+			"fém.pl.:": "renées"
+		}
+	},
+	"imperatif": {
+		"présent": { "renais": "", "renaissons": "", "renaissez": "" },
+		"passé": { "sois": "rené", "soyons": "rené", "soyez": "rené" }
+	},
+	"infinitif": { "présent": { "renaître": "" }, "passé": { "être": "rené" } }
+}

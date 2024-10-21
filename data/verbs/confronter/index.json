@@ -1,0 +1,141 @@
+{
+	"name": "confronter",
+	"definition": "confront; compare; face; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se confronter/ne pas confronter/ne pas se confronter",
+	"indicatif": {
+		"présent": {
+			"je": "confronte",
+			"tu": "confrontes",
+			"il/elle": "confronte",
+			"nous": "confrontons",
+			"vous": "confrontez",
+			"ils/elles": "confrontent"
+		},
+		"imparfait": {
+			"je": "confrontais",
+			"tu": "confrontais",
+			"il/elle": "confrontait",
+			"nous": "confrontions",
+			"vous": "confrontiez",
+			"ils/elles": "confrontaient"
+		},
+		"futur": {
+			"je": "confronterai",
+			"tu": "confronteras",
+			"il/elle": "confrontera",
+			"nous": "confronterons",
+			"vous": "confronterez",
+			"ils/elles": "confronteront"
+		},
+		"passé simple": {
+			"je": "confrontai",
+			"tu": "confrontas",
+			"il/elle": "confronta",
+			"nous": "confrontâmes",
+			"vous": "confrontâtes",
+			"ils/elles": "confrontèrent"
+		},
+		"passé composé": {
+			"j'": "ai confronté",
+			"tu": "as confronté",
+			"il/elle": "a confronté",
+			"nous": "avons confronté",
+			"vous": "avez confronté",
+			"ils/elles": "ont confronté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais confronté",
+			"tu": "avais confronté",
+			"il/elle": "avait confronté",
+			"nous": "avions confronté",
+			"vous": "aviez confronté",
+			"ils/elles": "avaient confronté"
+		},
+		"passé antérieur": {
+			"j'": "eus confronté",
+			"tu": "eus confronté",
+			"il/elle": "eut confronté",
+			"nous": "eûmes confronté",
+			"vous": "eûtes confronté",
+			"ils/elles": "eurent confronté"
+		},
+		"futur antérieur": {
+			"j'": "aurai confronté",
+			"tu": "auras confronté",
+			"il/elle": "aura confronté",
+			"nous": "aurons confronté",
+			"vous": "aurez confronté",
+			"ils/elles": "auront confronté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous confrontiez",
+			"qu'il/elle": "confronte",
+			"qu'ils/elles": "confrontent"
+		},
+		"imparfait": {
+			"que": "vous confrontassiez",
+			"qu'il/elle": "confrontât",
+			"qu'ils/elles": "confrontassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse confronté",
+			"que": "vous eussiez confronté",
+			"qu'il/elle": "eût confronté",
+			"qu'ils/elles": "eussent confronté"
+		},
+		"passé": {
+			"j'": "aie confronté",
+			"que": "vous ayez confronté",
+			"qu'il/elle": "ait confronté",
+			"qu'ils/elles": "aient confronté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "confronterais",
+			"tu": "confronterais",
+			"il/elle": "confronterait",
+			"nous": "confronterions",
+			"vous": "confronteriez",
+			"ils/elles": "confronteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais confronté",
+			"tu": "aurais confronté",
+			"il/elle": "aurait confronté",
+			"nous": "aurions confronté",
+			"vous": "auriez confronté",
+			"ils/elles": "auraient confronté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse confronté",
+			"tu": "eusses confronté",
+			"il/elle": "eût confronté",
+			"nous": "eussions confronté",
+			"vous": "eussiez confronté",
+			"ils/elles": "eussent confronté"
+		}
+	},
+	"participe": {
+		"présent": { "confrontant": "" },
+		"passé composé": { "ayant": "confronté" },
+		"passé": {
+			"masc.sg.:": "confronté",
+			"masc.pl.:": "confrontés",
+			"fém.sg.:": "confrontée",
+			"fém.pl.:": "confrontées"
+		}
+	},
+	"imperatif": {
+		"présent": { "confronte": "", "confrontons": "", "confrontez": "" },
+		"passé": { "aie": "confronté", "ayons": "confronté", "ayez": "confronté" }
+	},
+	"infinitif": {
+		"présent": { "confronter": "" },
+		"passé": { "avoir": "confronté" }
+	}
+}

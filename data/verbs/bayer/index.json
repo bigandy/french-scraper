@@ -1,0 +1,142 @@
+{
+	"name": "bayer",
+	"definition": "gape; ...",
+	"model": "marcher\n              /\n              balayer",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas bayer",
+	"indicatif": {
+		"présent": {
+			"je": "baie",
+			"tu": "baies",
+			"il/elle": "baie",
+			"nous": "bayons",
+			"vous": "bayez",
+			"ils/elles": "baient",
+			"": ""
+		},
+		"imparfait": {
+			"je": "bayais",
+			"tu": "bayais",
+			"il/elle": "bayait",
+			"nous": "bayions",
+			"vous": "bayiez",
+			"ils/elles": "bayaient"
+		},
+		"futur": {
+			"je": "baierai",
+			"tu": "baieras",
+			"il/elle": "baiera",
+			"nous": "baierons",
+			"vous": "baierez",
+			"ils/elles": "baieront",
+			"": ""
+		},
+		"passé simple": {
+			"je": "bayai",
+			"tu": "bayas",
+			"il/elle": "baya",
+			"nous": "bayâmes",
+			"vous": "bayâtes",
+			"ils/elles": "bayèrent"
+		},
+		"passé composé": {
+			"j'": "ai bayé",
+			"tu": "as bayé",
+			"il/elle": "a bayé",
+			"nous": "avons bayé",
+			"vous": "avez bayé",
+			"ils/elles": "ont bayé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais bayé",
+			"tu": "avais bayé",
+			"il/elle": "avait bayé",
+			"nous": "avions bayé",
+			"vous": "aviez bayé",
+			"ils/elles": "avaient bayé"
+		},
+		"passé antérieur": {
+			"j'": "eus bayé",
+			"tu": "eus bayé",
+			"il/elle": "eut bayé",
+			"nous": "eûmes bayé",
+			"vous": "eûtes bayé",
+			"ils/elles": "eurent bayé"
+		},
+		"futur antérieur": {
+			"j'": "aurai bayé",
+			"tu": "auras bayé",
+			"il/elle": "aura bayé",
+			"nous": "aurons bayé",
+			"vous": "aurez bayé",
+			"ils/elles": "auront bayé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous bayiez",
+			"qu'il/elle": "baie",
+			"qu'ils/elles": "baient",
+			"": ""
+		},
+		"imparfait": {
+			"que": "vous bayassiez",
+			"qu'il/elle": "bayât",
+			"qu'ils/elles": "bayassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse bayé",
+			"que": "vous eussiez bayé",
+			"qu'il/elle": "eût bayé",
+			"qu'ils/elles": "eussent bayé"
+		},
+		"passé": {
+			"j'": "aie bayé",
+			"que": "vous ayez bayé",
+			"qu'il/elle": "ait bayé",
+			"qu'ils/elles": "aient bayé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "baierais",
+			"tu": "baierais",
+			"il/elle": "baierait",
+			"nous": "baierions",
+			"vous": "baieriez",
+			"ils/elles": "baieraient",
+			"": ""
+		},
+		"passé première forme": {
+			"j'": "aurais bayé",
+			"tu": "aurais bayé",
+			"il/elle": "aurait bayé",
+			"nous": "aurions bayé",
+			"vous": "auriez bayé",
+			"ils/elles": "auraient bayé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse bayé",
+			"tu": "eusses bayé",
+			"il/elle": "eût bayé",
+			"nous": "eussions bayé",
+			"vous": "eussiez bayé",
+			"ils/elles": "eussent bayé"
+		}
+	},
+	"participe": {
+		"présent": { "bayant": "" },
+		"passé composé": { "ayant": "bayé" },
+		"passé": {
+			"masc.sg.:": "bayé",
+			"masc.pl.:": "bayés",
+			"fém.sg.:": "bayée",
+			"fém.pl.:": "bayées"
+		}
+	},
+	"imperatif": {
+		"présent": { "baye": "", "bayons": "", "bayez": "", "": "", "baie": "" },
+		"passé": { "aie": "bayé", "ayons": "bayé", "ayez": "bayé" }
+	},
+	"infinitif": { "présent": { "bayer": "" }, "passé": { "avoir": "bayé" } }
+}

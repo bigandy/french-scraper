@@ -1,0 +1,143 @@
+{
+	"name": "encaisser",
+	"definition": "cash; take; collect; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'encaisser/ne pas encaisser/ne pas s'encaisser",
+	"indicatif": {
+		"présent": {
+			"j'": "encaisse",
+			"tu": "encaisses",
+			"il/elle": "encaisse",
+			"nous": "encaissons",
+			"vous": "encaissez",
+			"ils/elles": "encaissent"
+		},
+		"imparfait": {
+			"j'": "encaissais",
+			"tu": "encaissais",
+			"il/elle": "encaissait",
+			"nous": "encaissions",
+			"vous": "encaissiez",
+			"ils/elles": "encaissaient"
+		},
+		"futur": {
+			"j'": "encaisserai",
+			"tu": "encaisseras",
+			"il/elle": "encaissera",
+			"nous": "encaisserons",
+			"vous": "encaisserez",
+			"ils/elles": "encaisseront"
+		},
+		"passé simple": {
+			"j'": "encaissai",
+			"tu": "encaissas",
+			"il/elle": "encaissa",
+			"nous": "encaissâmes",
+			"vous": "encaissâtes",
+			"ils/elles": "encaissèrent"
+		},
+		"passé composé": {
+			"j'": "ai encaissé",
+			"tu": "as encaissé",
+			"il/elle": "a encaissé",
+			"nous": "avons encaissé",
+			"vous": "avez encaissé",
+			"ils/elles": "ont encaissé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais encaissé",
+			"tu": "avais encaissé",
+			"il/elle": "avait encaissé",
+			"nous": "avions encaissé",
+			"vous": "aviez encaissé",
+			"ils/elles": "avaient encaissé"
+		},
+		"passé antérieur": {
+			"j'": "eus encaissé",
+			"tu": "eus encaissé",
+			"il/elle": "eut encaissé",
+			"nous": "eûmes encaissé",
+			"vous": "eûtes encaissé",
+			"ils/elles": "eurent encaissé"
+		},
+		"futur antérieur": {
+			"j'": "aurai encaissé",
+			"tu": "auras encaissé",
+			"il/elle": "aura encaissé",
+			"nous": "aurons encaissé",
+			"vous": "aurez encaissé",
+			"ils/elles": "auront encaissé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "encaisse",
+			"que": "vous encaissiez",
+			"qu'il/elle": "encaisse",
+			"qu'ils/elles": "encaissent"
+		},
+		"imparfait": {
+			"j'": "encaissasse",
+			"que": "vous encaissassiez",
+			"qu'il/elle": "encaissât",
+			"qu'ils/elles": "encaissassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse encaissé",
+			"que": "vous eussiez encaissé",
+			"qu'il/elle": "eût encaissé",
+			"qu'ils/elles": "eussent encaissé"
+		},
+		"passé": {
+			"j'": "aie encaissé",
+			"que": "vous ayez encaissé",
+			"qu'il/elle": "ait encaissé",
+			"qu'ils/elles": "aient encaissé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "encaisserais",
+			"tu": "encaisserais",
+			"il/elle": "encaisserait",
+			"nous": "encaisserions",
+			"vous": "encaisseriez",
+			"ils/elles": "encaisseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais encaissé",
+			"tu": "aurais encaissé",
+			"il/elle": "aurait encaissé",
+			"nous": "aurions encaissé",
+			"vous": "auriez encaissé",
+			"ils/elles": "auraient encaissé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse encaissé",
+			"tu": "eusses encaissé",
+			"il/elle": "eût encaissé",
+			"nous": "eussions encaissé",
+			"vous": "eussiez encaissé",
+			"ils/elles": "eussent encaissé"
+		}
+	},
+	"participe": {
+		"présent": { "encaissant": "" },
+		"passé composé": { "ayant": "encaissé" },
+		"passé": {
+			"masc.sg.:": "encaissé",
+			"masc.pl.:": "encaissés",
+			"fém.sg.:": "encaissée",
+			"fém.pl.:": "encaissées"
+		}
+	},
+	"imperatif": {
+		"présent": { "encaisse": "", "encaissons": "", "encaissez": "" },
+		"passé": { "aie": "encaissé", "ayons": "encaissé", "ayez": "encaissé" }
+	},
+	"infinitif": {
+		"présent": { "encaisser": "" },
+		"passé": { "avoir": "encaissé" }
+	}
+}

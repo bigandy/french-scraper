@@ -1,0 +1,143 @@
+{
+	"name": "affermir",
+	"definition": "strengthen; consolidate; reinforce; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "s'affermir/ne pas affermir/ne pas s'affermir",
+	"indicatif": {
+		"présent": {
+			"j'": "affermis",
+			"tu": "affermis",
+			"il/elle": "affermit",
+			"nous": "affermissons",
+			"vous": "affermissez",
+			"ils/elles": "affermissent"
+		},
+		"imparfait": {
+			"j'": "affermissais",
+			"tu": "affermissais",
+			"il/elle": "affermissait",
+			"nous": "affermissions",
+			"vous": "affermissiez",
+			"ils/elles": "affermissaient"
+		},
+		"futur": {
+			"j'": "affermirai",
+			"tu": "affermiras",
+			"il/elle": "affermira",
+			"nous": "affermirons",
+			"vous": "affermirez",
+			"ils/elles": "affermiront"
+		},
+		"passé simple": {
+			"j'": "affermis",
+			"tu": "affermis",
+			"il/elle": "affermit",
+			"nous": "affermîmes",
+			"vous": "affermîtes",
+			"ils/elles": "affermirent"
+		},
+		"passé composé": {
+			"j'": "ai affermi",
+			"tu": "as affermi",
+			"il/elle": "a affermi",
+			"nous": "avons affermi",
+			"vous": "avez affermi",
+			"ils/elles": "ont affermi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais affermi",
+			"tu": "avais affermi",
+			"il/elle": "avait affermi",
+			"nous": "avions affermi",
+			"vous": "aviez affermi",
+			"ils/elles": "avaient affermi"
+		},
+		"passé antérieur": {
+			"j'": "eus affermi",
+			"tu": "eus affermi",
+			"il/elle": "eut affermi",
+			"nous": "eûmes affermi",
+			"vous": "eûtes affermi",
+			"ils/elles": "eurent affermi"
+		},
+		"futur antérieur": {
+			"j'": "aurai affermi",
+			"tu": "auras affermi",
+			"il/elle": "aura affermi",
+			"nous": "aurons affermi",
+			"vous": "aurez affermi",
+			"ils/elles": "auront affermi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "affermisse",
+			"que": "vous affermissiez",
+			"qu'il/elle": "affermisse",
+			"qu'ils/elles": "affermissent"
+		},
+		"imparfait": {
+			"j'": "affermisse",
+			"que": "vous affermissiez",
+			"qu'il/elle": "affermît",
+			"qu'ils/elles": "affermissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse affermi",
+			"que": "vous eussiez affermi",
+			"qu'il/elle": "eût affermi",
+			"qu'ils/elles": "eussent affermi"
+		},
+		"passé": {
+			"j'": "aie affermi",
+			"que": "vous ayez affermi",
+			"qu'il/elle": "ait affermi",
+			"qu'ils/elles": "aient affermi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "affermirais",
+			"tu": "affermirais",
+			"il/elle": "affermirait",
+			"nous": "affermirions",
+			"vous": "affermiriez",
+			"ils/elles": "affermiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais affermi",
+			"tu": "aurais affermi",
+			"il/elle": "aurait affermi",
+			"nous": "aurions affermi",
+			"vous": "auriez affermi",
+			"ils/elles": "auraient affermi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse affermi",
+			"tu": "eusses affermi",
+			"il/elle": "eût affermi",
+			"nous": "eussions affermi",
+			"vous": "eussiez affermi",
+			"ils/elles": "eussent affermi"
+		}
+	},
+	"participe": {
+		"présent": { "affermissant": "" },
+		"passé composé": { "ayant": "affermi" },
+		"passé": {
+			"masc.sg.:": "affermi",
+			"masc.pl.:": "affermis",
+			"fém.sg.:": "affermie",
+			"fém.pl.:": "affermies"
+		}
+	},
+	"imperatif": {
+		"présent": { "affermis": "", "affermissons": "", "affermissez": "" },
+		"passé": { "aie": "affermi", "ayons": "affermi", "ayez": "affermi" }
+	},
+	"infinitif": {
+		"présent": { "affermir": "" },
+		"passé": { "avoir": "affermi" }
+	}
+}

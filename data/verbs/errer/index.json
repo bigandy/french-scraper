@@ -1,0 +1,140 @@
+{
+	"name": "errer",
+	"definition": "wander; roam; err; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas errer",
+	"indicatif": {
+		"présent": {
+			"j'": "erre",
+			"tu": "erres",
+			"il/elle": "erre",
+			"nous": "errons",
+			"vous": "errez",
+			"ils/elles": "errent"
+		},
+		"imparfait": {
+			"j'": "errais",
+			"tu": "errais",
+			"il/elle": "errait",
+			"nous": "errions",
+			"vous": "erriez",
+			"ils/elles": "erraient"
+		},
+		"futur": {
+			"j'": "errerai",
+			"tu": "erreras",
+			"il/elle": "errera",
+			"nous": "errerons",
+			"vous": "errerez",
+			"ils/elles": "erreront"
+		},
+		"passé simple": {
+			"j'": "errai",
+			"tu": "erras",
+			"il/elle": "erra",
+			"nous": "errâmes",
+			"vous": "errâtes",
+			"ils/elles": "errèrent"
+		},
+		"passé composé": {
+			"j'": "ai erré",
+			"tu": "as erré",
+			"il/elle": "a erré",
+			"nous": "avons erré",
+			"vous": "avez erré",
+			"ils/elles": "ont erré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais erré",
+			"tu": "avais erré",
+			"il/elle": "avait erré",
+			"nous": "avions erré",
+			"vous": "aviez erré",
+			"ils/elles": "avaient erré"
+		},
+		"passé antérieur": {
+			"j'": "eus erré",
+			"tu": "eus erré",
+			"il/elle": "eut erré",
+			"nous": "eûmes erré",
+			"vous": "eûtes erré",
+			"ils/elles": "eurent erré"
+		},
+		"futur antérieur": {
+			"j'": "aurai erré",
+			"tu": "auras erré",
+			"il/elle": "aura erré",
+			"nous": "aurons erré",
+			"vous": "aurez erré",
+			"ils/elles": "auront erré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "erre",
+			"que": "vous erriez",
+			"qu'il/elle": "erre",
+			"qu'ils/elles": "errent"
+		},
+		"imparfait": {
+			"j'": "errasse",
+			"que": "vous errassiez",
+			"qu'il/elle": "errât",
+			"qu'ils/elles": "errassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse erré",
+			"que": "vous eussiez erré",
+			"qu'il/elle": "eût erré",
+			"qu'ils/elles": "eussent erré"
+		},
+		"passé": {
+			"j'": "aie erré",
+			"que": "vous ayez erré",
+			"qu'il/elle": "ait erré",
+			"qu'ils/elles": "aient erré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "errerais",
+			"tu": "errerais",
+			"il/elle": "errerait",
+			"nous": "errerions",
+			"vous": "erreriez",
+			"ils/elles": "erreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais erré",
+			"tu": "aurais erré",
+			"il/elle": "aurait erré",
+			"nous": "aurions erré",
+			"vous": "auriez erré",
+			"ils/elles": "auraient erré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse erré",
+			"tu": "eusses erré",
+			"il/elle": "eût erré",
+			"nous": "eussions erré",
+			"vous": "eussiez erré",
+			"ils/elles": "eussent erré"
+		}
+	},
+	"participe": {
+		"présent": { "errant": "" },
+		"passé composé": { "ayant": "erré" },
+		"passé": {
+			"masc.sg.:": "erré",
+			"masc.pl.:": "errés",
+			"fém.sg.:": "errée",
+			"fém.pl.:": "errées"
+		}
+	},
+	"imperatif": {
+		"présent": { "erre": "", "errons": "", "errez": "" },
+		"passé": { "aie": "erré", "ayons": "erré", "ayez": "erré" }
+	},
+	"infinitif": { "présent": { "errer": "" }, "passé": { "avoir": "erré" } }
+}

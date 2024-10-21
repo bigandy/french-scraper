@@ -1,0 +1,138 @@
+{
+	"name": "fasier",
+	"definition": "",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas fasier",
+	"indicatif": {
+		"présent": {
+			"je": "fasie",
+			"tu": "fasies",
+			"il/elle": "fasie",
+			"nous": "fasions",
+			"vous": "fasiez",
+			"ils/elles": "fasient"
+		},
+		"imparfait": {
+			"je": "fasiais",
+			"tu": "fasiais",
+			"il/elle": "fasiait",
+			"nous": "fasiions",
+			"vous": "fasiiez",
+			"ils/elles": "fasiaient"
+		},
+		"futur": {
+			"je": "fasierai",
+			"tu": "fasieras",
+			"il/elle": "fasiera",
+			"nous": "fasierons",
+			"vous": "fasierez",
+			"ils/elles": "fasieront"
+		},
+		"passé simple": {
+			"je": "fasiai",
+			"tu": "fasias",
+			"il/elle": "fasia",
+			"nous": "fasiâmes",
+			"vous": "fasiâtes",
+			"ils/elles": "fasièrent"
+		},
+		"passé composé": {
+			"j'": "ai fasié",
+			"tu": "as fasié",
+			"il/elle": "a fasié",
+			"nous": "avons fasié",
+			"vous": "avez fasié",
+			"ils/elles": "ont fasié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais fasié",
+			"tu": "avais fasié",
+			"il/elle": "avait fasié",
+			"nous": "avions fasié",
+			"vous": "aviez fasié",
+			"ils/elles": "avaient fasié"
+		},
+		"passé antérieur": {
+			"j'": "eus fasié",
+			"tu": "eus fasié",
+			"il/elle": "eut fasié",
+			"nous": "eûmes fasié",
+			"vous": "eûtes fasié",
+			"ils/elles": "eurent fasié"
+		},
+		"futur antérieur": {
+			"j'": "aurai fasié",
+			"tu": "auras fasié",
+			"il/elle": "aura fasié",
+			"nous": "aurons fasié",
+			"vous": "aurez fasié",
+			"ils/elles": "auront fasié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous fasiiez",
+			"qu'il/elle": "fasie",
+			"qu'ils/elles": "fasient"
+		},
+		"imparfait": {
+			"que": "vous fasiassiez",
+			"qu'il/elle": "fasiât",
+			"qu'ils/elles": "fasiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse fasié",
+			"que": "vous eussiez fasié",
+			"qu'il/elle": "eût fasié",
+			"qu'ils/elles": "eussent fasié"
+		},
+		"passé": {
+			"j'": "aie fasié",
+			"que": "vous ayez fasié",
+			"qu'il/elle": "ait fasié",
+			"qu'ils/elles": "aient fasié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "fasierais",
+			"tu": "fasierais",
+			"il/elle": "fasierait",
+			"nous": "fasierions",
+			"vous": "fasieriez",
+			"ils/elles": "fasieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais fasié",
+			"tu": "aurais fasié",
+			"il/elle": "aurait fasié",
+			"nous": "aurions fasié",
+			"vous": "auriez fasié",
+			"ils/elles": "auraient fasié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse fasié",
+			"tu": "eusses fasié",
+			"il/elle": "eût fasié",
+			"nous": "eussions fasié",
+			"vous": "eussiez fasié",
+			"ils/elles": "eussent fasié"
+		}
+	},
+	"participe": {
+		"présent": { "fasiant": "" },
+		"passé composé": { "ayant": "fasié" },
+		"passé": {
+			"masc.sg.:": "fasié",
+			"masc.pl.:": "fasiés",
+			"fém.sg.:": "fasiée",
+			"fém.pl.:": "fasiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "fasie": "", "fasions": "", "fasiez": "" },
+		"passé": { "aie": "fasié", "ayons": "fasié", "ayez": "fasié" }
+	},
+	"infinitif": { "présent": { "fasier": "" }, "passé": { "avoir": "fasié" } }
+}

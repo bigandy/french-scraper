@@ -1,0 +1,138 @@
+{
+	"name": "boxer",
+	"definition": "box; punch; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas boxer",
+	"indicatif": {
+		"présent": {
+			"je": "boxe",
+			"tu": "boxes",
+			"il/elle": "boxe",
+			"nous": "boxons",
+			"vous": "boxez",
+			"ils/elles": "boxent"
+		},
+		"imparfait": {
+			"je": "boxais",
+			"tu": "boxais",
+			"il/elle": "boxait",
+			"nous": "boxions",
+			"vous": "boxiez",
+			"ils/elles": "boxaient"
+		},
+		"futur": {
+			"je": "boxerai",
+			"tu": "boxeras",
+			"il/elle": "boxera",
+			"nous": "boxerons",
+			"vous": "boxerez",
+			"ils/elles": "boxeront"
+		},
+		"passé simple": {
+			"je": "boxai",
+			"tu": "boxas",
+			"il/elle": "boxa",
+			"nous": "boxâmes",
+			"vous": "boxâtes",
+			"ils/elles": "boxèrent"
+		},
+		"passé composé": {
+			"j'": "ai boxé",
+			"tu": "as boxé",
+			"il/elle": "a boxé",
+			"nous": "avons boxé",
+			"vous": "avez boxé",
+			"ils/elles": "ont boxé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais boxé",
+			"tu": "avais boxé",
+			"il/elle": "avait boxé",
+			"nous": "avions boxé",
+			"vous": "aviez boxé",
+			"ils/elles": "avaient boxé"
+		},
+		"passé antérieur": {
+			"j'": "eus boxé",
+			"tu": "eus boxé",
+			"il/elle": "eut boxé",
+			"nous": "eûmes boxé",
+			"vous": "eûtes boxé",
+			"ils/elles": "eurent boxé"
+		},
+		"futur antérieur": {
+			"j'": "aurai boxé",
+			"tu": "auras boxé",
+			"il/elle": "aura boxé",
+			"nous": "aurons boxé",
+			"vous": "aurez boxé",
+			"ils/elles": "auront boxé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous boxiez",
+			"qu'il/elle": "boxe",
+			"qu'ils/elles": "boxent"
+		},
+		"imparfait": {
+			"que": "vous boxassiez",
+			"qu'il/elle": "boxât",
+			"qu'ils/elles": "boxassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse boxé",
+			"que": "vous eussiez boxé",
+			"qu'il/elle": "eût boxé",
+			"qu'ils/elles": "eussent boxé"
+		},
+		"passé": {
+			"j'": "aie boxé",
+			"que": "vous ayez boxé",
+			"qu'il/elle": "ait boxé",
+			"qu'ils/elles": "aient boxé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "boxerais",
+			"tu": "boxerais",
+			"il/elle": "boxerait",
+			"nous": "boxerions",
+			"vous": "boxeriez",
+			"ils/elles": "boxeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais boxé",
+			"tu": "aurais boxé",
+			"il/elle": "aurait boxé",
+			"nous": "aurions boxé",
+			"vous": "auriez boxé",
+			"ils/elles": "auraient boxé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse boxé",
+			"tu": "eusses boxé",
+			"il/elle": "eût boxé",
+			"nous": "eussions boxé",
+			"vous": "eussiez boxé",
+			"ils/elles": "eussent boxé"
+		}
+	},
+	"participe": {
+		"présent": { "boxant": "" },
+		"passé composé": { "ayant": "boxé" },
+		"passé": {
+			"masc.sg.:": "boxé",
+			"masc.pl.:": "boxés",
+			"fém.sg.:": "boxée",
+			"fém.pl.:": "boxées"
+		}
+	},
+	"imperatif": {
+		"présent": { "boxe": "", "boxons": "", "boxez": "" },
+		"passé": { "aie": "boxé", "ayons": "boxé", "ayez": "boxé" }
+	},
+	"infinitif": { "présent": { "boxer": "" }, "passé": { "avoir": "boxé" } }
+}

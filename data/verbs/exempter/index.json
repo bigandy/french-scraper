@@ -1,0 +1,143 @@
+{
+	"name": "exempter",
+	"definition": "exempt; waive; exclude; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'exempter/ne pas exempter/ne pas s'exempter",
+	"indicatif": {
+		"présent": {
+			"j'": "exempte",
+			"tu": "exemptes",
+			"il/elle": "exempte",
+			"nous": "exemptons",
+			"vous": "exemptez",
+			"ils/elles": "exemptent"
+		},
+		"imparfait": {
+			"j'": "exemptais",
+			"tu": "exemptais",
+			"il/elle": "exemptait",
+			"nous": "exemptions",
+			"vous": "exemptiez",
+			"ils/elles": "exemptaient"
+		},
+		"futur": {
+			"j'": "exempterai",
+			"tu": "exempteras",
+			"il/elle": "exemptera",
+			"nous": "exempterons",
+			"vous": "exempterez",
+			"ils/elles": "exempteront"
+		},
+		"passé simple": {
+			"j'": "exemptai",
+			"tu": "exemptas",
+			"il/elle": "exempta",
+			"nous": "exemptâmes",
+			"vous": "exemptâtes",
+			"ils/elles": "exemptèrent"
+		},
+		"passé composé": {
+			"j'": "ai exempté",
+			"tu": "as exempté",
+			"il/elle": "a exempté",
+			"nous": "avons exempté",
+			"vous": "avez exempté",
+			"ils/elles": "ont exempté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais exempté",
+			"tu": "avais exempté",
+			"il/elle": "avait exempté",
+			"nous": "avions exempté",
+			"vous": "aviez exempté",
+			"ils/elles": "avaient exempté"
+		},
+		"passé antérieur": {
+			"j'": "eus exempté",
+			"tu": "eus exempté",
+			"il/elle": "eut exempté",
+			"nous": "eûmes exempté",
+			"vous": "eûtes exempté",
+			"ils/elles": "eurent exempté"
+		},
+		"futur antérieur": {
+			"j'": "aurai exempté",
+			"tu": "auras exempté",
+			"il/elle": "aura exempté",
+			"nous": "aurons exempté",
+			"vous": "aurez exempté",
+			"ils/elles": "auront exempté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "exempte",
+			"que": "vous exemptiez",
+			"qu'il/elle": "exempte",
+			"qu'ils/elles": "exemptent"
+		},
+		"imparfait": {
+			"j'": "exemptasse",
+			"que": "vous exemptassiez",
+			"qu'il/elle": "exemptât",
+			"qu'ils/elles": "exemptassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse exempté",
+			"que": "vous eussiez exempté",
+			"qu'il/elle": "eût exempté",
+			"qu'ils/elles": "eussent exempté"
+		},
+		"passé": {
+			"j'": "aie exempté",
+			"que": "vous ayez exempté",
+			"qu'il/elle": "ait exempté",
+			"qu'ils/elles": "aient exempté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "exempterais",
+			"tu": "exempterais",
+			"il/elle": "exempterait",
+			"nous": "exempterions",
+			"vous": "exempteriez",
+			"ils/elles": "exempteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais exempté",
+			"tu": "aurais exempté",
+			"il/elle": "aurait exempté",
+			"nous": "aurions exempté",
+			"vous": "auriez exempté",
+			"ils/elles": "auraient exempté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse exempté",
+			"tu": "eusses exempté",
+			"il/elle": "eût exempté",
+			"nous": "eussions exempté",
+			"vous": "eussiez exempté",
+			"ils/elles": "eussent exempté"
+		}
+	},
+	"participe": {
+		"présent": { "exemptant": "" },
+		"passé composé": { "ayant": "exempté" },
+		"passé": {
+			"masc.sg.:": "exempté",
+			"masc.pl.:": "exemptés",
+			"fém.sg.:": "exemptée",
+			"fém.pl.:": "exemptées"
+		}
+	},
+	"imperatif": {
+		"présent": { "exempte": "", "exemptons": "", "exemptez": "" },
+		"passé": { "aie": "exempté", "ayons": "exempté", "ayez": "exempté" }
+	},
+	"infinitif": {
+		"présent": { "exempter": "" },
+		"passé": { "avoir": "exempté" }
+	}
+}

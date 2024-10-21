@@ -1,0 +1,138 @@
+{
+	"name": "frotter",
+	"definition": "rub; scrub; wipe; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se frotter/ne pas frotter/ne pas se frotter",
+	"indicatif": {
+		"présent": {
+			"je": "frotte",
+			"tu": "frottes",
+			"il/elle": "frotte",
+			"nous": "frottons",
+			"vous": "frottez",
+			"ils/elles": "frottent"
+		},
+		"imparfait": {
+			"je": "frottais",
+			"tu": "frottais",
+			"il/elle": "frottait",
+			"nous": "frottions",
+			"vous": "frottiez",
+			"ils/elles": "frottaient"
+		},
+		"futur": {
+			"je": "frotterai",
+			"tu": "frotteras",
+			"il/elle": "frottera",
+			"nous": "frotterons",
+			"vous": "frotterez",
+			"ils/elles": "frotteront"
+		},
+		"passé simple": {
+			"je": "frottai",
+			"tu": "frottas",
+			"il/elle": "frotta",
+			"nous": "frottâmes",
+			"vous": "frottâtes",
+			"ils/elles": "frottèrent"
+		},
+		"passé composé": {
+			"j'": "ai frotté",
+			"tu": "as frotté",
+			"il/elle": "a frotté",
+			"nous": "avons frotté",
+			"vous": "avez frotté",
+			"ils/elles": "ont frotté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais frotté",
+			"tu": "avais frotté",
+			"il/elle": "avait frotté",
+			"nous": "avions frotté",
+			"vous": "aviez frotté",
+			"ils/elles": "avaient frotté"
+		},
+		"passé antérieur": {
+			"j'": "eus frotté",
+			"tu": "eus frotté",
+			"il/elle": "eut frotté",
+			"nous": "eûmes frotté",
+			"vous": "eûtes frotté",
+			"ils/elles": "eurent frotté"
+		},
+		"futur antérieur": {
+			"j'": "aurai frotté",
+			"tu": "auras frotté",
+			"il/elle": "aura frotté",
+			"nous": "aurons frotté",
+			"vous": "aurez frotté",
+			"ils/elles": "auront frotté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous frottiez",
+			"qu'il/elle": "frotte",
+			"qu'ils/elles": "frottent"
+		},
+		"imparfait": {
+			"que": "vous frottassiez",
+			"qu'il/elle": "frottât",
+			"qu'ils/elles": "frottassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse frotté",
+			"que": "vous eussiez frotté",
+			"qu'il/elle": "eût frotté",
+			"qu'ils/elles": "eussent frotté"
+		},
+		"passé": {
+			"j'": "aie frotté",
+			"que": "vous ayez frotté",
+			"qu'il/elle": "ait frotté",
+			"qu'ils/elles": "aient frotté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "frotterais",
+			"tu": "frotterais",
+			"il/elle": "frotterait",
+			"nous": "frotterions",
+			"vous": "frotteriez",
+			"ils/elles": "frotteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais frotté",
+			"tu": "aurais frotté",
+			"il/elle": "aurait frotté",
+			"nous": "aurions frotté",
+			"vous": "auriez frotté",
+			"ils/elles": "auraient frotté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse frotté",
+			"tu": "eusses frotté",
+			"il/elle": "eût frotté",
+			"nous": "eussions frotté",
+			"vous": "eussiez frotté",
+			"ils/elles": "eussent frotté"
+		}
+	},
+	"participe": {
+		"présent": { "frottant": "" },
+		"passé composé": { "ayant": "frotté" },
+		"passé": {
+			"masc.sg.:": "frotté",
+			"masc.pl.:": "frottés",
+			"fém.sg.:": "frottée",
+			"fém.pl.:": "frottées"
+		}
+	},
+	"imperatif": {
+		"présent": { "frotte": "", "frottons": "", "frottez": "" },
+		"passé": { "aie": "frotté", "ayons": "frotté", "ayez": "frotté" }
+	},
+	"infinitif": { "présent": { "frotter": "" }, "passé": { "avoir": "frotté" } }
+}

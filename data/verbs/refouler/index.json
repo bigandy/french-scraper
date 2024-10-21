@@ -1,0 +1,141 @@
+{
+	"name": "refouler",
+	"definition": "discharge; repress; suppress; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se refouler/ne pas refouler/ne pas se refouler",
+	"indicatif": {
+		"présent": {
+			"je": "refoule",
+			"tu": "refoules",
+			"il/elle": "refoule",
+			"nous": "refoulons",
+			"vous": "refoulez",
+			"ils/elles": "refoulent"
+		},
+		"imparfait": {
+			"je": "refoulais",
+			"tu": "refoulais",
+			"il/elle": "refoulait",
+			"nous": "refoulions",
+			"vous": "refouliez",
+			"ils/elles": "refoulaient"
+		},
+		"futur": {
+			"je": "refoulerai",
+			"tu": "refouleras",
+			"il/elle": "refoulera",
+			"nous": "refoulerons",
+			"vous": "refoulerez",
+			"ils/elles": "refouleront"
+		},
+		"passé simple": {
+			"je": "refoulai",
+			"tu": "refoulas",
+			"il/elle": "refoula",
+			"nous": "refoulâmes",
+			"vous": "refoulâtes",
+			"ils/elles": "refoulèrent"
+		},
+		"passé composé": {
+			"j'": "ai refoulé",
+			"tu": "as refoulé",
+			"il/elle": "a refoulé",
+			"nous": "avons refoulé",
+			"vous": "avez refoulé",
+			"ils/elles": "ont refoulé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais refoulé",
+			"tu": "avais refoulé",
+			"il/elle": "avait refoulé",
+			"nous": "avions refoulé",
+			"vous": "aviez refoulé",
+			"ils/elles": "avaient refoulé"
+		},
+		"passé antérieur": {
+			"j'": "eus refoulé",
+			"tu": "eus refoulé",
+			"il/elle": "eut refoulé",
+			"nous": "eûmes refoulé",
+			"vous": "eûtes refoulé",
+			"ils/elles": "eurent refoulé"
+		},
+		"futur antérieur": {
+			"j'": "aurai refoulé",
+			"tu": "auras refoulé",
+			"il/elle": "aura refoulé",
+			"nous": "aurons refoulé",
+			"vous": "aurez refoulé",
+			"ils/elles": "auront refoulé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous refouliez",
+			"qu'il/elle": "refoule",
+			"qu'ils/elles": "refoulent"
+		},
+		"imparfait": {
+			"que": "vous refoulassiez",
+			"qu'il/elle": "refoulât",
+			"qu'ils/elles": "refoulassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse refoulé",
+			"que": "vous eussiez refoulé",
+			"qu'il/elle": "eût refoulé",
+			"qu'ils/elles": "eussent refoulé"
+		},
+		"passé": {
+			"j'": "aie refoulé",
+			"que": "vous ayez refoulé",
+			"qu'il/elle": "ait refoulé",
+			"qu'ils/elles": "aient refoulé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "refoulerais",
+			"tu": "refoulerais",
+			"il/elle": "refoulerait",
+			"nous": "refoulerions",
+			"vous": "refouleriez",
+			"ils/elles": "refouleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais refoulé",
+			"tu": "aurais refoulé",
+			"il/elle": "aurait refoulé",
+			"nous": "aurions refoulé",
+			"vous": "auriez refoulé",
+			"ils/elles": "auraient refoulé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse refoulé",
+			"tu": "eusses refoulé",
+			"il/elle": "eût refoulé",
+			"nous": "eussions refoulé",
+			"vous": "eussiez refoulé",
+			"ils/elles": "eussent refoulé"
+		}
+	},
+	"participe": {
+		"présent": { "refoulant": "" },
+		"passé composé": { "ayant": "refoulé" },
+		"passé": {
+			"masc.sg.:": "refoulé",
+			"masc.pl.:": "refoulés",
+			"fém.sg.:": "refoulée",
+			"fém.pl.:": "refoulées"
+		}
+	},
+	"imperatif": {
+		"présent": { "refoule": "", "refoulons": "", "refoulez": "" },
+		"passé": { "aie": "refoulé", "ayons": "refoulé", "ayez": "refoulé" }
+	},
+	"infinitif": {
+		"présent": { "refouler": "" },
+		"passé": { "avoir": "refoulé" }
+	}
+}

@@ -1,0 +1,145 @@
+{
+	"name": "caoutchouter",
+	"definition": "rubberize; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se caoutchouter/ne pas caoutchouter/ne pas se caoutchouter",
+	"indicatif": {
+		"présent": {
+			"je": "caoutchoute",
+			"tu": "caoutchoutes",
+			"il/elle": "caoutchoute",
+			"nous": "caoutchoutons",
+			"vous": "caoutchoutez",
+			"ils/elles": "caoutchoutent"
+		},
+		"imparfait": {
+			"je": "caoutchoutais",
+			"tu": "caoutchoutais",
+			"il/elle": "caoutchoutait",
+			"nous": "caoutchoutions",
+			"vous": "caoutchoutiez",
+			"ils/elles": "caoutchoutaient"
+		},
+		"futur": {
+			"je": "caoutchouterai",
+			"tu": "caoutchouteras",
+			"il/elle": "caoutchoutera",
+			"nous": "caoutchouterons",
+			"vous": "caoutchouterez",
+			"ils/elles": "caoutchouteront"
+		},
+		"passé simple": {
+			"je": "caoutchoutai",
+			"tu": "caoutchoutas",
+			"il/elle": "caoutchouta",
+			"nous": "caoutchoutâmes",
+			"vous": "caoutchoutâtes",
+			"ils/elles": "caoutchoutèrent"
+		},
+		"passé composé": {
+			"j'": "ai caoutchouté",
+			"tu": "as caoutchouté",
+			"il/elle": "a caoutchouté",
+			"nous": "avons caoutchouté",
+			"vous": "avez caoutchouté",
+			"ils/elles": "ont caoutchouté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais caoutchouté",
+			"tu": "avais caoutchouté",
+			"il/elle": "avait caoutchouté",
+			"nous": "avions caoutchouté",
+			"vous": "aviez caoutchouté",
+			"ils/elles": "avaient caoutchouté"
+		},
+		"passé antérieur": {
+			"j'": "eus caoutchouté",
+			"tu": "eus caoutchouté",
+			"il/elle": "eut caoutchouté",
+			"nous": "eûmes caoutchouté",
+			"vous": "eûtes caoutchouté",
+			"ils/elles": "eurent caoutchouté"
+		},
+		"futur antérieur": {
+			"j'": "aurai caoutchouté",
+			"tu": "auras caoutchouté",
+			"il/elle": "aura caoutchouté",
+			"nous": "aurons caoutchouté",
+			"vous": "aurez caoutchouté",
+			"ils/elles": "auront caoutchouté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous caoutchoutiez",
+			"qu'il/elle": "caoutchoute",
+			"qu'ils/elles": "caoutchoutent"
+		},
+		"imparfait": {
+			"que": "vous caoutchoutassiez",
+			"qu'il/elle": "caoutchoutât",
+			"qu'ils/elles": "caoutchoutassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse caoutchouté",
+			"que": "vous eussiez caoutchouté",
+			"qu'il/elle": "eût caoutchouté",
+			"qu'ils/elles": "eussent caoutchouté"
+		},
+		"passé": {
+			"j'": "aie caoutchouté",
+			"que": "vous ayez caoutchouté",
+			"qu'il/elle": "ait caoutchouté",
+			"qu'ils/elles": "aient caoutchouté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "caoutchouterais",
+			"tu": "caoutchouterais",
+			"il/elle": "caoutchouterait",
+			"nous": "caoutchouterions",
+			"vous": "caoutchouteriez",
+			"ils/elles": "caoutchouteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais caoutchouté",
+			"tu": "aurais caoutchouté",
+			"il/elle": "aurait caoutchouté",
+			"nous": "aurions caoutchouté",
+			"vous": "auriez caoutchouté",
+			"ils/elles": "auraient caoutchouté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse caoutchouté",
+			"tu": "eusses caoutchouté",
+			"il/elle": "eût caoutchouté",
+			"nous": "eussions caoutchouté",
+			"vous": "eussiez caoutchouté",
+			"ils/elles": "eussent caoutchouté"
+		}
+	},
+	"participe": {
+		"présent": { "caoutchoutant": "" },
+		"passé composé": { "ayant": "caoutchouté" },
+		"passé": {
+			"masc.sg.:": "caoutchouté",
+			"masc.pl.:": "caoutchoutés",
+			"fém.sg.:": "caoutchoutée",
+			"fém.pl.:": "caoutchoutées"
+		}
+	},
+	"imperatif": {
+		"présent": { "caoutchoute": "", "caoutchoutons": "", "caoutchoutez": "" },
+		"passé": {
+			"aie": "caoutchouté",
+			"ayons": "caoutchouté",
+			"ayez": "caoutchouté"
+		}
+	},
+	"infinitif": {
+		"présent": { "caoutchouter": "" },
+		"passé": { "avoir": "caoutchouté" }
+	}
+}

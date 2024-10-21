@@ -1,0 +1,155 @@
+{
+	"name": "se suicider",
+	"definition": "\n              commit suicide; kill oneself; shoot himself; ...\n            ",
+	"model": "marcher",
+	"auxiliary": "être",
+	"otherForms": "ne pas se suicider",
+	"indicatif": {
+		"présent": {
+			"je": "me suicide",
+			"tu": "te suicides",
+			"il/elle": "se suicide",
+			"nous": "nous suicidons",
+			"vous": "vous suicidez",
+			"ils/elles": "se suicident"
+		},
+		"imparfait": {
+			"je": "me suicidais",
+			"tu": "te suicidais",
+			"il/elle": "se suicidait",
+			"nous": "nous suicidions",
+			"vous": "vous suicidiez",
+			"ils/elles": "se suicidaient"
+		},
+		"futur": {
+			"je": "me suiciderai",
+			"tu": "te suicideras",
+			"il/elle": "se suicidera",
+			"nous": "nous suiciderons",
+			"vous": "vous suiciderez",
+			"ils/elles": "se suicideront"
+		},
+		"passé simple": {
+			"je": "me suicidai",
+			"tu": "te suicidas",
+			"il/elle": "se suicida",
+			"nous": "nous suicidâmes",
+			"vous": "vous suicidâtes",
+			"ils/elles": "se suicidèrent"
+		},
+		"passé composé": {
+			"je": "me suis suicidé",
+			"tu": "t'es suicidé",
+			"il": "s'est suicidé",
+			"elle": "s'est suicidée",
+			"nous": "nous sommes suicidés",
+			"vous": "vous êtes suicidés",
+			"ils": "se sont suicidés",
+			"elles": "se sont suicidées"
+		},
+		"plus-que-parfait": {
+			"je": "m'étais suicidé",
+			"tu": "t'étais suicidé",
+			"il": "s'était suicidé",
+			"elle": "s'était suicidée",
+			"nous": "nous étions suicidés",
+			"vous": "vous étiez suicidés",
+			"ils": "s'étaient suicidés",
+			"elles": "s'étaient suicidées"
+		},
+		"passé antérieur": {
+			"je": "me fus suicidé",
+			"tu": "te fus suicidé",
+			"il": "se fut suicidé",
+			"elle": "se fut suicidée",
+			"nous": "nous fûmes suicidés",
+			"vous": "vous fûtes suicidés",
+			"ils": "se furent suicidés",
+			"elles": "se furent suicidées"
+		},
+		"futur antérieur": {
+			"je": "me serai suicidé",
+			"tu": "te seras suicidé",
+			"il": "se sera suicidé",
+			"elle": "se sera suicidée",
+			"nous": "nous serons suicidés",
+			"vous": "vous serez suicidés",
+			"ils": "se seront suicidés",
+			"elles": "se seront suicidées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous vous suicidiez",
+			"qu'il/elle": "se suicide",
+			"qu'ils/elles": "se suicident"
+		},
+		"imparfait": {
+			"que": "vous vous suicidassiez",
+			"qu'il/elle": "se suicidât",
+			"qu'ils/elles": "se suicidassent"
+		},
+		"plus-que-parfait": {
+			"que": "vous vous fussiez suicidés",
+			"qu'il": "se fût suicidé",
+			"qu'elle": "se fût suicidée",
+			"qu'ils": "se fussent suicidés",
+			"qu'elles": "se fussent suicidées"
+		},
+		"passé": {
+			"que": "vous vous soyez suicidés",
+			"qu'il": "se soit suicidé",
+			"qu'elle": "se soit suicidée",
+			"qu'ils": "se soient suicidés",
+			"qu'elles": "se soient suicidées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "me suiciderais",
+			"tu": "te suiciderais",
+			"il/elle": "se suiciderait",
+			"nous": "nous suiciderions",
+			"vous": "vous suicideriez",
+			"ils/elles": "se suicideraient"
+		},
+		"passé première forme": {
+			"je": "me serais suicidé",
+			"tu": "te serais suicidé",
+			"il": "se serait suicidé",
+			"elle": "se serait suicidée",
+			"nous": "nous serions suicidés",
+			"vous": "vous seriez suicidés",
+			"ils": "se seraient suicidés",
+			"elles": "se seraient suicidées"
+		},
+		"passé deuxième forme": {
+			"je": "me fusse suicidé",
+			"tu": "te fusses suicidé",
+			"il": "se fût suicidé",
+			"elle": "se fût suicidée",
+			"nous": "nous fussions suicidés",
+			"vous": "vous fussiez suicidés",
+			"ils": "se fussent suicidés",
+			"elles": "se fussent suicidées"
+		}
+	},
+	"participe": {
+		"présent": { "se": "suicidant" },
+		"passé composé": { "s'étant": "suicidé" },
+		"passé": {
+			"masc.sg.:": "suicidé",
+			"masc.pl.:": "suicidés",
+			"fém.sg.:": "suicidée",
+			"fém.pl.:": "suicidées"
+		}
+	},
+	"imperatif": {
+		"présent": { "suicide-toi": "", "suicidons-nous": "", "suicidez-vous": "" },
+		"passé": {}
+	},
+	"infinitif": {
+		"présent": { "se": "suicider" },
+		"passé": { "s'être": "suicidé" }
+	}
+}

@@ -1,0 +1,138 @@
+{
+	"name": "rondir",
+	"definition": "",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se rondir/ne pas rondir/ne pas se rondir",
+	"indicatif": {
+		"présent": {
+			"je": "rondis",
+			"tu": "rondis",
+			"il/elle": "rondit",
+			"nous": "rondissons",
+			"vous": "rondissez",
+			"ils/elles": "rondissent"
+		},
+		"imparfait": {
+			"je": "rondissais",
+			"tu": "rondissais",
+			"il/elle": "rondissait",
+			"nous": "rondissions",
+			"vous": "rondissiez",
+			"ils/elles": "rondissaient"
+		},
+		"futur": {
+			"je": "rondirai",
+			"tu": "rondiras",
+			"il/elle": "rondira",
+			"nous": "rondirons",
+			"vous": "rondirez",
+			"ils/elles": "rondiront"
+		},
+		"passé simple": {
+			"je": "rondis",
+			"tu": "rondis",
+			"il/elle": "rondit",
+			"nous": "rondîmes",
+			"vous": "rondîtes",
+			"ils/elles": "rondirent"
+		},
+		"passé composé": {
+			"j'": "ai rondi",
+			"tu": "as rondi",
+			"il/elle": "a rondi",
+			"nous": "avons rondi",
+			"vous": "avez rondi",
+			"ils/elles": "ont rondi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais rondi",
+			"tu": "avais rondi",
+			"il/elle": "avait rondi",
+			"nous": "avions rondi",
+			"vous": "aviez rondi",
+			"ils/elles": "avaient rondi"
+		},
+		"passé antérieur": {
+			"j'": "eus rondi",
+			"tu": "eus rondi",
+			"il/elle": "eut rondi",
+			"nous": "eûmes rondi",
+			"vous": "eûtes rondi",
+			"ils/elles": "eurent rondi"
+		},
+		"futur antérieur": {
+			"j'": "aurai rondi",
+			"tu": "auras rondi",
+			"il/elle": "aura rondi",
+			"nous": "aurons rondi",
+			"vous": "aurez rondi",
+			"ils/elles": "auront rondi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous rondissiez",
+			"qu'il/elle": "rondisse",
+			"qu'ils/elles": "rondissent"
+		},
+		"imparfait": {
+			"que": "vous rondissiez",
+			"qu'il/elle": "rondît",
+			"qu'ils/elles": "rondissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse rondi",
+			"que": "vous eussiez rondi",
+			"qu'il/elle": "eût rondi",
+			"qu'ils/elles": "eussent rondi"
+		},
+		"passé": {
+			"j'": "aie rondi",
+			"que": "vous ayez rondi",
+			"qu'il/elle": "ait rondi",
+			"qu'ils/elles": "aient rondi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "rondirais",
+			"tu": "rondirais",
+			"il/elle": "rondirait",
+			"nous": "rondirions",
+			"vous": "rondiriez",
+			"ils/elles": "rondiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais rondi",
+			"tu": "aurais rondi",
+			"il/elle": "aurait rondi",
+			"nous": "aurions rondi",
+			"vous": "auriez rondi",
+			"ils/elles": "auraient rondi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse rondi",
+			"tu": "eusses rondi",
+			"il/elle": "eût rondi",
+			"nous": "eussions rondi",
+			"vous": "eussiez rondi",
+			"ils/elles": "eussent rondi"
+		}
+	},
+	"participe": {
+		"présent": { "rondissant": "" },
+		"passé composé": { "ayant": "rondi" },
+		"passé": {
+			"masc.sg.:": "rondi",
+			"masc.pl.:": "rondis",
+			"fém.sg.:": "rondie",
+			"fém.pl.:": "rondies"
+		}
+	},
+	"imperatif": {
+		"présent": { "rondis": "", "rondissons": "", "rondissez": "" },
+		"passé": { "aie": "rondi", "ayons": "rondi", "ayez": "rondi" }
+	},
+	"infinitif": { "présent": { "rondir": "" }, "passé": { "avoir": "rondi" } }
+}

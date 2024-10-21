@@ -1,0 +1,143 @@
+{
+	"name": "occulter",
+	"definition": "obscure; conceal; hide; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'occulter/ne pas occulter/ne pas s'occulter",
+	"indicatif": {
+		"présent": {
+			"j'": "occulte",
+			"tu": "occultes",
+			"il/elle": "occulte",
+			"nous": "occultons",
+			"vous": "occultez",
+			"ils/elles": "occultent"
+		},
+		"imparfait": {
+			"j'": "occultais",
+			"tu": "occultais",
+			"il/elle": "occultait",
+			"nous": "occultions",
+			"vous": "occultiez",
+			"ils/elles": "occultaient"
+		},
+		"futur": {
+			"j'": "occulterai",
+			"tu": "occulteras",
+			"il/elle": "occultera",
+			"nous": "occulterons",
+			"vous": "occulterez",
+			"ils/elles": "occulteront"
+		},
+		"passé simple": {
+			"j'": "occultai",
+			"tu": "occultas",
+			"il/elle": "occulta",
+			"nous": "occultâmes",
+			"vous": "occultâtes",
+			"ils/elles": "occultèrent"
+		},
+		"passé composé": {
+			"j'": "ai occulté",
+			"tu": "as occulté",
+			"il/elle": "a occulté",
+			"nous": "avons occulté",
+			"vous": "avez occulté",
+			"ils/elles": "ont occulté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais occulté",
+			"tu": "avais occulté",
+			"il/elle": "avait occulté",
+			"nous": "avions occulté",
+			"vous": "aviez occulté",
+			"ils/elles": "avaient occulté"
+		},
+		"passé antérieur": {
+			"j'": "eus occulté",
+			"tu": "eus occulté",
+			"il/elle": "eut occulté",
+			"nous": "eûmes occulté",
+			"vous": "eûtes occulté",
+			"ils/elles": "eurent occulté"
+		},
+		"futur antérieur": {
+			"j'": "aurai occulté",
+			"tu": "auras occulté",
+			"il/elle": "aura occulté",
+			"nous": "aurons occulté",
+			"vous": "aurez occulté",
+			"ils/elles": "auront occulté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "occulte",
+			"que": "vous occultiez",
+			"qu'il/elle": "occulte",
+			"qu'ils/elles": "occultent"
+		},
+		"imparfait": {
+			"j'": "occultasse",
+			"que": "vous occultassiez",
+			"qu'il/elle": "occultât",
+			"qu'ils/elles": "occultassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse occulté",
+			"que": "vous eussiez occulté",
+			"qu'il/elle": "eût occulté",
+			"qu'ils/elles": "eussent occulté"
+		},
+		"passé": {
+			"j'": "aie occulté",
+			"que": "vous ayez occulté",
+			"qu'il/elle": "ait occulté",
+			"qu'ils/elles": "aient occulté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "occulterais",
+			"tu": "occulterais",
+			"il/elle": "occulterait",
+			"nous": "occulterions",
+			"vous": "occulteriez",
+			"ils/elles": "occulteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais occulté",
+			"tu": "aurais occulté",
+			"il/elle": "aurait occulté",
+			"nous": "aurions occulté",
+			"vous": "auriez occulté",
+			"ils/elles": "auraient occulté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse occulté",
+			"tu": "eusses occulté",
+			"il/elle": "eût occulté",
+			"nous": "eussions occulté",
+			"vous": "eussiez occulté",
+			"ils/elles": "eussent occulté"
+		}
+	},
+	"participe": {
+		"présent": { "occultant": "" },
+		"passé composé": { "ayant": "occulté" },
+		"passé": {
+			"masc.sg.:": "occulté",
+			"masc.pl.:": "occultés",
+			"fém.sg.:": "occultée",
+			"fém.pl.:": "occultées"
+		}
+	},
+	"imperatif": {
+		"présent": { "occulte": "", "occultons": "", "occultez": "" },
+		"passé": { "aie": "occulté", "ayons": "occulté", "ayez": "occulté" }
+	},
+	"infinitif": {
+		"présent": { "occulter": "" },
+		"passé": { "avoir": "occulté" }
+	}
+}

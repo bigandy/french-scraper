@@ -1,0 +1,138 @@
+{
+	"name": "pivoter",
+	"definition": "pivot; rotate; swivel; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas pivoter",
+	"indicatif": {
+		"présent": {
+			"je": "pivote",
+			"tu": "pivotes",
+			"il/elle": "pivote",
+			"nous": "pivotons",
+			"vous": "pivotez",
+			"ils/elles": "pivotent"
+		},
+		"imparfait": {
+			"je": "pivotais",
+			"tu": "pivotais",
+			"il/elle": "pivotait",
+			"nous": "pivotions",
+			"vous": "pivotiez",
+			"ils/elles": "pivotaient"
+		},
+		"futur": {
+			"je": "pivoterai",
+			"tu": "pivoteras",
+			"il/elle": "pivotera",
+			"nous": "pivoterons",
+			"vous": "pivoterez",
+			"ils/elles": "pivoteront"
+		},
+		"passé simple": {
+			"je": "pivotai",
+			"tu": "pivotas",
+			"il/elle": "pivota",
+			"nous": "pivotâmes",
+			"vous": "pivotâtes",
+			"ils/elles": "pivotèrent"
+		},
+		"passé composé": {
+			"j'": "ai pivoté",
+			"tu": "as pivoté",
+			"il/elle": "a pivoté",
+			"nous": "avons pivoté",
+			"vous": "avez pivoté",
+			"ils/elles": "ont pivoté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais pivoté",
+			"tu": "avais pivoté",
+			"il/elle": "avait pivoté",
+			"nous": "avions pivoté",
+			"vous": "aviez pivoté",
+			"ils/elles": "avaient pivoté"
+		},
+		"passé antérieur": {
+			"j'": "eus pivoté",
+			"tu": "eus pivoté",
+			"il/elle": "eut pivoté",
+			"nous": "eûmes pivoté",
+			"vous": "eûtes pivoté",
+			"ils/elles": "eurent pivoté"
+		},
+		"futur antérieur": {
+			"j'": "aurai pivoté",
+			"tu": "auras pivoté",
+			"il/elle": "aura pivoté",
+			"nous": "aurons pivoté",
+			"vous": "aurez pivoté",
+			"ils/elles": "auront pivoté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous pivotiez",
+			"qu'il/elle": "pivote",
+			"qu'ils/elles": "pivotent"
+		},
+		"imparfait": {
+			"que": "vous pivotassiez",
+			"qu'il/elle": "pivotât",
+			"qu'ils/elles": "pivotassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse pivoté",
+			"que": "vous eussiez pivoté",
+			"qu'il/elle": "eût pivoté",
+			"qu'ils/elles": "eussent pivoté"
+		},
+		"passé": {
+			"j'": "aie pivoté",
+			"que": "vous ayez pivoté",
+			"qu'il/elle": "ait pivoté",
+			"qu'ils/elles": "aient pivoté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "pivoterais",
+			"tu": "pivoterais",
+			"il/elle": "pivoterait",
+			"nous": "pivoterions",
+			"vous": "pivoteriez",
+			"ils/elles": "pivoteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais pivoté",
+			"tu": "aurais pivoté",
+			"il/elle": "aurait pivoté",
+			"nous": "aurions pivoté",
+			"vous": "auriez pivoté",
+			"ils/elles": "auraient pivoté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse pivoté",
+			"tu": "eusses pivoté",
+			"il/elle": "eût pivoté",
+			"nous": "eussions pivoté",
+			"vous": "eussiez pivoté",
+			"ils/elles": "eussent pivoté"
+		}
+	},
+	"participe": {
+		"présent": { "pivotant": "" },
+		"passé composé": { "ayant": "pivoté" },
+		"passé": {
+			"masc.sg.:": "pivoté",
+			"masc.pl.:": "pivotés",
+			"fém.sg.:": "pivotée",
+			"fém.pl.:": "pivotées"
+		}
+	},
+	"imperatif": {
+		"présent": { "pivote": "", "pivotons": "", "pivotez": "" },
+		"passé": { "aie": "pivoté", "ayons": "pivoté", "ayez": "pivoté" }
+	},
+	"infinitif": { "présent": { "pivoter": "" }, "passé": { "avoir": "pivoté" } }
+}

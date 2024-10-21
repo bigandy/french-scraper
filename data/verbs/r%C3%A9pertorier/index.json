@@ -1,0 +1,145 @@
+{
+	"name": "répertorier",
+	"definition": "identify; list; catalogue; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se répertorier/ne pas répertorier/ne pas se répertorier",
+	"indicatif": {
+		"présent": {
+			"je": "répertorie",
+			"tu": "répertories",
+			"il/elle": "répertorie",
+			"nous": "répertorions",
+			"vous": "répertoriez",
+			"ils/elles": "répertorient"
+		},
+		"imparfait": {
+			"je": "répertoriais",
+			"tu": "répertoriais",
+			"il/elle": "répertoriait",
+			"nous": "répertoriions",
+			"vous": "répertoriiez",
+			"ils/elles": "répertoriaient"
+		},
+		"futur": {
+			"je": "répertorierai",
+			"tu": "répertorieras",
+			"il/elle": "répertoriera",
+			"nous": "répertorierons",
+			"vous": "répertorierez",
+			"ils/elles": "répertorieront"
+		},
+		"passé simple": {
+			"je": "répertoriai",
+			"tu": "répertorias",
+			"il/elle": "répertoria",
+			"nous": "répertoriâmes",
+			"vous": "répertoriâtes",
+			"ils/elles": "répertorièrent"
+		},
+		"passé composé": {
+			"j'": "ai répertorié",
+			"tu": "as répertorié",
+			"il/elle": "a répertorié",
+			"nous": "avons répertorié",
+			"vous": "avez répertorié",
+			"ils/elles": "ont répertorié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais répertorié",
+			"tu": "avais répertorié",
+			"il/elle": "avait répertorié",
+			"nous": "avions répertorié",
+			"vous": "aviez répertorié",
+			"ils/elles": "avaient répertorié"
+		},
+		"passé antérieur": {
+			"j'": "eus répertorié",
+			"tu": "eus répertorié",
+			"il/elle": "eut répertorié",
+			"nous": "eûmes répertorié",
+			"vous": "eûtes répertorié",
+			"ils/elles": "eurent répertorié"
+		},
+		"futur antérieur": {
+			"j'": "aurai répertorié",
+			"tu": "auras répertorié",
+			"il/elle": "aura répertorié",
+			"nous": "aurons répertorié",
+			"vous": "aurez répertorié",
+			"ils/elles": "auront répertorié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous répertoriiez",
+			"qu'il/elle": "répertorie",
+			"qu'ils/elles": "répertorient"
+		},
+		"imparfait": {
+			"que": "vous répertoriassiez",
+			"qu'il/elle": "répertoriât",
+			"qu'ils/elles": "répertoriassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse répertorié",
+			"que": "vous eussiez répertorié",
+			"qu'il/elle": "eût répertorié",
+			"qu'ils/elles": "eussent répertorié"
+		},
+		"passé": {
+			"j'": "aie répertorié",
+			"que": "vous ayez répertorié",
+			"qu'il/elle": "ait répertorié",
+			"qu'ils/elles": "aient répertorié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "répertorierais",
+			"tu": "répertorierais",
+			"il/elle": "répertorierait",
+			"nous": "répertorierions",
+			"vous": "répertorieriez",
+			"ils/elles": "répertorieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais répertorié",
+			"tu": "aurais répertorié",
+			"il/elle": "aurait répertorié",
+			"nous": "aurions répertorié",
+			"vous": "auriez répertorié",
+			"ils/elles": "auraient répertorié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse répertorié",
+			"tu": "eusses répertorié",
+			"il/elle": "eût répertorié",
+			"nous": "eussions répertorié",
+			"vous": "eussiez répertorié",
+			"ils/elles": "eussent répertorié"
+		}
+	},
+	"participe": {
+		"présent": { "répertoriant": "" },
+		"passé composé": { "ayant": "répertorié" },
+		"passé": {
+			"masc.sg.:": "répertorié",
+			"masc.pl.:": "répertoriés",
+			"fém.sg.:": "répertoriée",
+			"fém.pl.:": "répertoriées"
+		}
+	},
+	"imperatif": {
+		"présent": { "répertorie": "", "répertorions": "", "répertoriez": "" },
+		"passé": {
+			"aie": "répertorié",
+			"ayons": "répertorié",
+			"ayez": "répertorié"
+		}
+	},
+	"infinitif": {
+		"présent": { "répertorier": "" },
+		"passé": { "avoir": "répertorié" }
+	}
+}

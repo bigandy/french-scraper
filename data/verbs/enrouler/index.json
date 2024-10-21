@@ -1,0 +1,143 @@
+{
+	"name": "enrouler",
+	"definition": "wind; wrap; roll up; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'enrouler/ne pas enrouler/ne pas s'enrouler",
+	"indicatif": {
+		"présent": {
+			"j'": "enroule",
+			"tu": "enroules",
+			"il/elle": "enroule",
+			"nous": "enroulons",
+			"vous": "enroulez",
+			"ils/elles": "enroulent"
+		},
+		"imparfait": {
+			"j'": "enroulais",
+			"tu": "enroulais",
+			"il/elle": "enroulait",
+			"nous": "enroulions",
+			"vous": "enrouliez",
+			"ils/elles": "enroulaient"
+		},
+		"futur": {
+			"j'": "enroulerai",
+			"tu": "enrouleras",
+			"il/elle": "enroulera",
+			"nous": "enroulerons",
+			"vous": "enroulerez",
+			"ils/elles": "enrouleront"
+		},
+		"passé simple": {
+			"j'": "enroulai",
+			"tu": "enroulas",
+			"il/elle": "enroula",
+			"nous": "enroulâmes",
+			"vous": "enroulâtes",
+			"ils/elles": "enroulèrent"
+		},
+		"passé composé": {
+			"j'": "ai enroulé",
+			"tu": "as enroulé",
+			"il/elle": "a enroulé",
+			"nous": "avons enroulé",
+			"vous": "avez enroulé",
+			"ils/elles": "ont enroulé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais enroulé",
+			"tu": "avais enroulé",
+			"il/elle": "avait enroulé",
+			"nous": "avions enroulé",
+			"vous": "aviez enroulé",
+			"ils/elles": "avaient enroulé"
+		},
+		"passé antérieur": {
+			"j'": "eus enroulé",
+			"tu": "eus enroulé",
+			"il/elle": "eut enroulé",
+			"nous": "eûmes enroulé",
+			"vous": "eûtes enroulé",
+			"ils/elles": "eurent enroulé"
+		},
+		"futur antérieur": {
+			"j'": "aurai enroulé",
+			"tu": "auras enroulé",
+			"il/elle": "aura enroulé",
+			"nous": "aurons enroulé",
+			"vous": "aurez enroulé",
+			"ils/elles": "auront enroulé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "enroule",
+			"que": "vous enrouliez",
+			"qu'il/elle": "enroule",
+			"qu'ils/elles": "enroulent"
+		},
+		"imparfait": {
+			"j'": "enroulasse",
+			"que": "vous enroulassiez",
+			"qu'il/elle": "enroulât",
+			"qu'ils/elles": "enroulassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse enroulé",
+			"que": "vous eussiez enroulé",
+			"qu'il/elle": "eût enroulé",
+			"qu'ils/elles": "eussent enroulé"
+		},
+		"passé": {
+			"j'": "aie enroulé",
+			"que": "vous ayez enroulé",
+			"qu'il/elle": "ait enroulé",
+			"qu'ils/elles": "aient enroulé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "enroulerais",
+			"tu": "enroulerais",
+			"il/elle": "enroulerait",
+			"nous": "enroulerions",
+			"vous": "enrouleriez",
+			"ils/elles": "enrouleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais enroulé",
+			"tu": "aurais enroulé",
+			"il/elle": "aurait enroulé",
+			"nous": "aurions enroulé",
+			"vous": "auriez enroulé",
+			"ils/elles": "auraient enroulé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse enroulé",
+			"tu": "eusses enroulé",
+			"il/elle": "eût enroulé",
+			"nous": "eussions enroulé",
+			"vous": "eussiez enroulé",
+			"ils/elles": "eussent enroulé"
+		}
+	},
+	"participe": {
+		"présent": { "enroulant": "" },
+		"passé composé": { "ayant": "enroulé" },
+		"passé": {
+			"masc.sg.:": "enroulé",
+			"masc.pl.:": "enroulés",
+			"fém.sg.:": "enroulée",
+			"fém.pl.:": "enroulées"
+		}
+	},
+	"imperatif": {
+		"présent": { "enroule": "", "enroulons": "", "enroulez": "" },
+		"passé": { "aie": "enroulé", "ayons": "enroulé", "ayez": "enroulé" }
+	},
+	"infinitif": {
+		"présent": { "enrouler": "" },
+		"passé": { "avoir": "enroulé" }
+	}
+}

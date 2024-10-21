@@ -1,0 +1,138 @@
+{
+	"name": "miner",
+	"definition": "undermine; erode; mine; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se miner/ne pas miner/ne pas se miner",
+	"indicatif": {
+		"présent": {
+			"je": "mine",
+			"tu": "mines",
+			"il/elle": "mine",
+			"nous": "minons",
+			"vous": "minez",
+			"ils/elles": "minent"
+		},
+		"imparfait": {
+			"je": "minais",
+			"tu": "minais",
+			"il/elle": "minait",
+			"nous": "minions",
+			"vous": "miniez",
+			"ils/elles": "minaient"
+		},
+		"futur": {
+			"je": "minerai",
+			"tu": "mineras",
+			"il/elle": "minera",
+			"nous": "minerons",
+			"vous": "minerez",
+			"ils/elles": "mineront"
+		},
+		"passé simple": {
+			"je": "minai",
+			"tu": "minas",
+			"il/elle": "mina",
+			"nous": "minâmes",
+			"vous": "minâtes",
+			"ils/elles": "minèrent"
+		},
+		"passé composé": {
+			"j'": "ai miné",
+			"tu": "as miné",
+			"il/elle": "a miné",
+			"nous": "avons miné",
+			"vous": "avez miné",
+			"ils/elles": "ont miné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais miné",
+			"tu": "avais miné",
+			"il/elle": "avait miné",
+			"nous": "avions miné",
+			"vous": "aviez miné",
+			"ils/elles": "avaient miné"
+		},
+		"passé antérieur": {
+			"j'": "eus miné",
+			"tu": "eus miné",
+			"il/elle": "eut miné",
+			"nous": "eûmes miné",
+			"vous": "eûtes miné",
+			"ils/elles": "eurent miné"
+		},
+		"futur antérieur": {
+			"j'": "aurai miné",
+			"tu": "auras miné",
+			"il/elle": "aura miné",
+			"nous": "aurons miné",
+			"vous": "aurez miné",
+			"ils/elles": "auront miné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous miniez",
+			"qu'il/elle": "mine",
+			"qu'ils/elles": "minent"
+		},
+		"imparfait": {
+			"que": "vous minassiez",
+			"qu'il/elle": "minât",
+			"qu'ils/elles": "minassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse miné",
+			"que": "vous eussiez miné",
+			"qu'il/elle": "eût miné",
+			"qu'ils/elles": "eussent miné"
+		},
+		"passé": {
+			"j'": "aie miné",
+			"que": "vous ayez miné",
+			"qu'il/elle": "ait miné",
+			"qu'ils/elles": "aient miné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "minerais",
+			"tu": "minerais",
+			"il/elle": "minerait",
+			"nous": "minerions",
+			"vous": "mineriez",
+			"ils/elles": "mineraient"
+		},
+		"passé première forme": {
+			"j'": "aurais miné",
+			"tu": "aurais miné",
+			"il/elle": "aurait miné",
+			"nous": "aurions miné",
+			"vous": "auriez miné",
+			"ils/elles": "auraient miné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse miné",
+			"tu": "eusses miné",
+			"il/elle": "eût miné",
+			"nous": "eussions miné",
+			"vous": "eussiez miné",
+			"ils/elles": "eussent miné"
+		}
+	},
+	"participe": {
+		"présent": { "minant": "" },
+		"passé composé": { "ayant": "miné" },
+		"passé": {
+			"masc.sg.:": "miné",
+			"masc.pl.:": "minés",
+			"fém.sg.:": "minée",
+			"fém.pl.:": "minées"
+		}
+	},
+	"imperatif": {
+		"présent": { "mine": "", "minons": "", "minez": "" },
+		"passé": { "aie": "miné", "ayons": "miné", "ayez": "miné" }
+	},
+	"infinitif": { "présent": { "miner": "" }, "passé": { "avoir": "miné" } }
+}

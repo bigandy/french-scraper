@@ -1,0 +1,143 @@
+{
+	"name": "encourir",
+	"definition": "incur; ...",
+	"model": "courir",
+	"auxiliary": "avoir",
+	"otherForms": "s'encourir/ne pas encourir/ne pas s'encourir",
+	"indicatif": {
+		"présent": {
+			"j'": "encours",
+			"tu": "encours",
+			"il/elle": "encourt",
+			"nous": "encourons",
+			"vous": "encourez",
+			"ils/elles": "encourent"
+		},
+		"imparfait": {
+			"j'": "encourais",
+			"tu": "encourais",
+			"il/elle": "encourait",
+			"nous": "encourions",
+			"vous": "encouriez",
+			"ils/elles": "encouraient"
+		},
+		"futur": {
+			"j'": "encourrai",
+			"tu": "encourras",
+			"il/elle": "encourra",
+			"nous": "encourrons",
+			"vous": "encourrez",
+			"ils/elles": "encourront"
+		},
+		"passé simple": {
+			"j'": "encourus",
+			"tu": "encourus",
+			"il/elle": "encourut",
+			"nous": "encourûmes",
+			"vous": "encourûtes",
+			"ils/elles": "encoururent"
+		},
+		"passé composé": {
+			"j'": "ai encouru",
+			"tu": "as encouru",
+			"il/elle": "a encouru",
+			"nous": "avons encouru",
+			"vous": "avez encouru",
+			"ils/elles": "ont encouru"
+		},
+		"plus-que-parfait": {
+			"j'": "avais encouru",
+			"tu": "avais encouru",
+			"il/elle": "avait encouru",
+			"nous": "avions encouru",
+			"vous": "aviez encouru",
+			"ils/elles": "avaient encouru"
+		},
+		"passé antérieur": {
+			"j'": "eus encouru",
+			"tu": "eus encouru",
+			"il/elle": "eut encouru",
+			"nous": "eûmes encouru",
+			"vous": "eûtes encouru",
+			"ils/elles": "eurent encouru"
+		},
+		"futur antérieur": {
+			"j'": "aurai encouru",
+			"tu": "auras encouru",
+			"il/elle": "aura encouru",
+			"nous": "aurons encouru",
+			"vous": "aurez encouru",
+			"ils/elles": "auront encouru"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "encoure",
+			"que": "vous encouriez",
+			"qu'il/elle": "encoure",
+			"qu'ils/elles": "encourent"
+		},
+		"imparfait": {
+			"j'": "encourusse",
+			"que": "vous encourussiez",
+			"qu'il/elle": "encourût",
+			"qu'ils/elles": "encourussent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse encouru",
+			"que": "vous eussiez encouru",
+			"qu'il/elle": "eût encouru",
+			"qu'ils/elles": "eussent encouru"
+		},
+		"passé": {
+			"j'": "aie encouru",
+			"que": "vous ayez encouru",
+			"qu'il/elle": "ait encouru",
+			"qu'ils/elles": "aient encouru"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "encourrais",
+			"tu": "encourrais",
+			"il/elle": "encourrait",
+			"nous": "encourrions",
+			"vous": "encourriez",
+			"ils/elles": "encourraient"
+		},
+		"passé première forme": {
+			"j'": "aurais encouru",
+			"tu": "aurais encouru",
+			"il/elle": "aurait encouru",
+			"nous": "aurions encouru",
+			"vous": "auriez encouru",
+			"ils/elles": "auraient encouru"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse encouru",
+			"tu": "eusses encouru",
+			"il/elle": "eût encouru",
+			"nous": "eussions encouru",
+			"vous": "eussiez encouru",
+			"ils/elles": "eussent encouru"
+		}
+	},
+	"participe": {
+		"présent": { "encourant": "" },
+		"passé composé": { "ayant": "encouru" },
+		"passé": {
+			"masc.sg.:": "encouru",
+			"masc.pl.:": "encourus",
+			"fém.sg.:": "encourue",
+			"fém.pl.:": "encourues"
+		}
+	},
+	"imperatif": {
+		"présent": { "encours": "", "encourons": "", "encourez": "" },
+		"passé": { "aie": "encouru", "ayons": "encouru", "ayez": "encouru" }
+	},
+	"infinitif": {
+		"présent": { "encourir": "" },
+		"passé": { "avoir": "encouru" }
+	}
+}

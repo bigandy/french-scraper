@@ -1,0 +1,143 @@
+{
+	"name": "exacerber",
+	"definition": "exacerbate; escalate; aggravate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'exacerber/ne pas exacerber/ne pas s'exacerber",
+	"indicatif": {
+		"présent": {
+			"j'": "exacerbe",
+			"tu": "exacerbes",
+			"il/elle": "exacerbe",
+			"nous": "exacerbons",
+			"vous": "exacerbez",
+			"ils/elles": "exacerbent"
+		},
+		"imparfait": {
+			"j'": "exacerbais",
+			"tu": "exacerbais",
+			"il/elle": "exacerbait",
+			"nous": "exacerbions",
+			"vous": "exacerbiez",
+			"ils/elles": "exacerbaient"
+		},
+		"futur": {
+			"j'": "exacerberai",
+			"tu": "exacerberas",
+			"il/elle": "exacerbera",
+			"nous": "exacerberons",
+			"vous": "exacerberez",
+			"ils/elles": "exacerberont"
+		},
+		"passé simple": {
+			"j'": "exacerbai",
+			"tu": "exacerbas",
+			"il/elle": "exacerba",
+			"nous": "exacerbâmes",
+			"vous": "exacerbâtes",
+			"ils/elles": "exacerbèrent"
+		},
+		"passé composé": {
+			"j'": "ai exacerbé",
+			"tu": "as exacerbé",
+			"il/elle": "a exacerbé",
+			"nous": "avons exacerbé",
+			"vous": "avez exacerbé",
+			"ils/elles": "ont exacerbé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais exacerbé",
+			"tu": "avais exacerbé",
+			"il/elle": "avait exacerbé",
+			"nous": "avions exacerbé",
+			"vous": "aviez exacerbé",
+			"ils/elles": "avaient exacerbé"
+		},
+		"passé antérieur": {
+			"j'": "eus exacerbé",
+			"tu": "eus exacerbé",
+			"il/elle": "eut exacerbé",
+			"nous": "eûmes exacerbé",
+			"vous": "eûtes exacerbé",
+			"ils/elles": "eurent exacerbé"
+		},
+		"futur antérieur": {
+			"j'": "aurai exacerbé",
+			"tu": "auras exacerbé",
+			"il/elle": "aura exacerbé",
+			"nous": "aurons exacerbé",
+			"vous": "aurez exacerbé",
+			"ils/elles": "auront exacerbé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "exacerbe",
+			"que": "vous exacerbiez",
+			"qu'il/elle": "exacerbe",
+			"qu'ils/elles": "exacerbent"
+		},
+		"imparfait": {
+			"j'": "exacerbasse",
+			"que": "vous exacerbassiez",
+			"qu'il/elle": "exacerbât",
+			"qu'ils/elles": "exacerbassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse exacerbé",
+			"que": "vous eussiez exacerbé",
+			"qu'il/elle": "eût exacerbé",
+			"qu'ils/elles": "eussent exacerbé"
+		},
+		"passé": {
+			"j'": "aie exacerbé",
+			"que": "vous ayez exacerbé",
+			"qu'il/elle": "ait exacerbé",
+			"qu'ils/elles": "aient exacerbé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "exacerberais",
+			"tu": "exacerberais",
+			"il/elle": "exacerberait",
+			"nous": "exacerberions",
+			"vous": "exacerberiez",
+			"ils/elles": "exacerberaient"
+		},
+		"passé première forme": {
+			"j'": "aurais exacerbé",
+			"tu": "aurais exacerbé",
+			"il/elle": "aurait exacerbé",
+			"nous": "aurions exacerbé",
+			"vous": "auriez exacerbé",
+			"ils/elles": "auraient exacerbé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse exacerbé",
+			"tu": "eusses exacerbé",
+			"il/elle": "eût exacerbé",
+			"nous": "eussions exacerbé",
+			"vous": "eussiez exacerbé",
+			"ils/elles": "eussent exacerbé"
+		}
+	},
+	"participe": {
+		"présent": { "exacerbant": "" },
+		"passé composé": { "ayant": "exacerbé" },
+		"passé": {
+			"masc.sg.:": "exacerbé",
+			"masc.pl.:": "exacerbés",
+			"fém.sg.:": "exacerbée",
+			"fém.pl.:": "exacerbées"
+		}
+	},
+	"imperatif": {
+		"présent": { "exacerbe": "", "exacerbons": "", "exacerbez": "" },
+		"passé": { "aie": "exacerbé", "ayons": "exacerbé", "ayez": "exacerbé" }
+	},
+	"infinitif": {
+		"présent": { "exacerber": "" },
+		"passé": { "avoir": "exacerbé" }
+	}
+}

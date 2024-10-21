@@ -1,0 +1,138 @@
+{
+	"name": "mériter",
+	"definition": "deserve; earn; merit; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se mériter/ne pas mériter/ne pas se mériter",
+	"indicatif": {
+		"présent": {
+			"je": "mérite",
+			"tu": "mérites",
+			"il/elle": "mérite",
+			"nous": "méritons",
+			"vous": "méritez",
+			"ils/elles": "méritent"
+		},
+		"imparfait": {
+			"je": "méritais",
+			"tu": "méritais",
+			"il/elle": "méritait",
+			"nous": "méritions",
+			"vous": "méritiez",
+			"ils/elles": "méritaient"
+		},
+		"futur": {
+			"je": "mériterai",
+			"tu": "mériteras",
+			"il/elle": "méritera",
+			"nous": "mériterons",
+			"vous": "mériterez",
+			"ils/elles": "mériteront"
+		},
+		"passé simple": {
+			"je": "méritai",
+			"tu": "méritas",
+			"il/elle": "mérita",
+			"nous": "méritâmes",
+			"vous": "méritâtes",
+			"ils/elles": "méritèrent"
+		},
+		"passé composé": {
+			"j'": "ai mérité",
+			"tu": "as mérité",
+			"il/elle": "a mérité",
+			"nous": "avons mérité",
+			"vous": "avez mérité",
+			"ils/elles": "ont mérité"
+		},
+		"plus-que-parfait": {
+			"j'": "avais mérité",
+			"tu": "avais mérité",
+			"il/elle": "avait mérité",
+			"nous": "avions mérité",
+			"vous": "aviez mérité",
+			"ils/elles": "avaient mérité"
+		},
+		"passé antérieur": {
+			"j'": "eus mérité",
+			"tu": "eus mérité",
+			"il/elle": "eut mérité",
+			"nous": "eûmes mérité",
+			"vous": "eûtes mérité",
+			"ils/elles": "eurent mérité"
+		},
+		"futur antérieur": {
+			"j'": "aurai mérité",
+			"tu": "auras mérité",
+			"il/elle": "aura mérité",
+			"nous": "aurons mérité",
+			"vous": "aurez mérité",
+			"ils/elles": "auront mérité"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous méritiez",
+			"qu'il/elle": "mérite",
+			"qu'ils/elles": "méritent"
+		},
+		"imparfait": {
+			"que": "vous méritassiez",
+			"qu'il/elle": "méritât",
+			"qu'ils/elles": "méritassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse mérité",
+			"que": "vous eussiez mérité",
+			"qu'il/elle": "eût mérité",
+			"qu'ils/elles": "eussent mérité"
+		},
+		"passé": {
+			"j'": "aie mérité",
+			"que": "vous ayez mérité",
+			"qu'il/elle": "ait mérité",
+			"qu'ils/elles": "aient mérité"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "mériterais",
+			"tu": "mériterais",
+			"il/elle": "mériterait",
+			"nous": "mériterions",
+			"vous": "mériteriez",
+			"ils/elles": "mériteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais mérité",
+			"tu": "aurais mérité",
+			"il/elle": "aurait mérité",
+			"nous": "aurions mérité",
+			"vous": "auriez mérité",
+			"ils/elles": "auraient mérité"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse mérité",
+			"tu": "eusses mérité",
+			"il/elle": "eût mérité",
+			"nous": "eussions mérité",
+			"vous": "eussiez mérité",
+			"ils/elles": "eussent mérité"
+		}
+	},
+	"participe": {
+		"présent": { "méritant": "" },
+		"passé composé": { "ayant": "mérité" },
+		"passé": {
+			"masc.sg.:": "mérité",
+			"masc.pl.:": "mérités",
+			"fém.sg.:": "méritée",
+			"fém.pl.:": "méritées"
+		}
+	},
+	"imperatif": {
+		"présent": { "mérite": "", "méritons": "", "méritez": "" },
+		"passé": { "aie": "mérité", "ayons": "mérité", "ayez": "mérité" }
+	},
+	"infinitif": { "présent": { "mériter": "" }, "passé": { "avoir": "mérité" } }
+}

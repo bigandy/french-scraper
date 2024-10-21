@@ -1,0 +1,140 @@
+{
+	"name": "oser",
+	"definition": "dare; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'oser/ne pas oser/ne pas s'oser",
+	"indicatif": {
+		"présent": {
+			"j'": "ose",
+			"tu": "oses",
+			"il/elle": "ose",
+			"nous": "osons",
+			"vous": "osez",
+			"ils/elles": "osent"
+		},
+		"imparfait": {
+			"j'": "osais",
+			"tu": "osais",
+			"il/elle": "osait",
+			"nous": "osions",
+			"vous": "osiez",
+			"ils/elles": "osaient"
+		},
+		"futur": {
+			"j'": "oserai",
+			"tu": "oseras",
+			"il/elle": "osera",
+			"nous": "oserons",
+			"vous": "oserez",
+			"ils/elles": "oseront"
+		},
+		"passé simple": {
+			"j'": "osai",
+			"tu": "osas",
+			"il/elle": "osa",
+			"nous": "osâmes",
+			"vous": "osâtes",
+			"ils/elles": "osèrent"
+		},
+		"passé composé": {
+			"j'": "ai osé",
+			"tu": "as osé",
+			"il/elle": "a osé",
+			"nous": "avons osé",
+			"vous": "avez osé",
+			"ils/elles": "ont osé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais osé",
+			"tu": "avais osé",
+			"il/elle": "avait osé",
+			"nous": "avions osé",
+			"vous": "aviez osé",
+			"ils/elles": "avaient osé"
+		},
+		"passé antérieur": {
+			"j'": "eus osé",
+			"tu": "eus osé",
+			"il/elle": "eut osé",
+			"nous": "eûmes osé",
+			"vous": "eûtes osé",
+			"ils/elles": "eurent osé"
+		},
+		"futur antérieur": {
+			"j'": "aurai osé",
+			"tu": "auras osé",
+			"il/elle": "aura osé",
+			"nous": "aurons osé",
+			"vous": "aurez osé",
+			"ils/elles": "auront osé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "ose",
+			"que": "vous osiez",
+			"qu'il/elle": "ose",
+			"qu'ils/elles": "osent"
+		},
+		"imparfait": {
+			"j'": "osasse",
+			"que": "vous osassiez",
+			"qu'il/elle": "osât",
+			"qu'ils/elles": "osassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse osé",
+			"que": "vous eussiez osé",
+			"qu'il/elle": "eût osé",
+			"qu'ils/elles": "eussent osé"
+		},
+		"passé": {
+			"j'": "aie osé",
+			"que": "vous ayez osé",
+			"qu'il/elle": "ait osé",
+			"qu'ils/elles": "aient osé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "oserais",
+			"tu": "oserais",
+			"il/elle": "oserait",
+			"nous": "oserions",
+			"vous": "oseriez",
+			"ils/elles": "oseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais osé",
+			"tu": "aurais osé",
+			"il/elle": "aurait osé",
+			"nous": "aurions osé",
+			"vous": "auriez osé",
+			"ils/elles": "auraient osé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse osé",
+			"tu": "eusses osé",
+			"il/elle": "eût osé",
+			"nous": "eussions osé",
+			"vous": "eussiez osé",
+			"ils/elles": "eussent osé"
+		}
+	},
+	"participe": {
+		"présent": { "osant": "" },
+		"passé composé": { "ayant": "osé" },
+		"passé": {
+			"masc.sg.:": "osé",
+			"masc.pl.:": "osés",
+			"fém.sg.:": "osée",
+			"fém.pl.:": "osées"
+		}
+	},
+	"imperatif": {
+		"présent": { "ose": "", "osons": "", "osez": "" },
+		"passé": { "aie": "osé", "ayons": "osé", "ayez": "osé" }
+	},
+	"infinitif": { "présent": { "oser": "" }, "passé": { "avoir": "osé" } }
+}

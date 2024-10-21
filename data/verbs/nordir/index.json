@@ -1,0 +1,138 @@
+{
+	"name": "nordir",
+	"definition": "",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas nordir",
+	"indicatif": {
+		"présent": {
+			"je": "nordis",
+			"tu": "nordis",
+			"il/elle": "nordit",
+			"nous": "nordissons",
+			"vous": "nordissez",
+			"ils/elles": "nordissent"
+		},
+		"imparfait": {
+			"je": "nordissais",
+			"tu": "nordissais",
+			"il/elle": "nordissait",
+			"nous": "nordissions",
+			"vous": "nordissiez",
+			"ils/elles": "nordissaient"
+		},
+		"futur": {
+			"je": "nordirai",
+			"tu": "nordiras",
+			"il/elle": "nordira",
+			"nous": "nordirons",
+			"vous": "nordirez",
+			"ils/elles": "nordiront"
+		},
+		"passé simple": {
+			"je": "nordis",
+			"tu": "nordis",
+			"il/elle": "nordit",
+			"nous": "nordîmes",
+			"vous": "nordîtes",
+			"ils/elles": "nordirent"
+		},
+		"passé composé": {
+			"j'": "ai nordi",
+			"tu": "as nordi",
+			"il/elle": "a nordi",
+			"nous": "avons nordi",
+			"vous": "avez nordi",
+			"ils/elles": "ont nordi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais nordi",
+			"tu": "avais nordi",
+			"il/elle": "avait nordi",
+			"nous": "avions nordi",
+			"vous": "aviez nordi",
+			"ils/elles": "avaient nordi"
+		},
+		"passé antérieur": {
+			"j'": "eus nordi",
+			"tu": "eus nordi",
+			"il/elle": "eut nordi",
+			"nous": "eûmes nordi",
+			"vous": "eûtes nordi",
+			"ils/elles": "eurent nordi"
+		},
+		"futur antérieur": {
+			"j'": "aurai nordi",
+			"tu": "auras nordi",
+			"il/elle": "aura nordi",
+			"nous": "aurons nordi",
+			"vous": "aurez nordi",
+			"ils/elles": "auront nordi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous nordissiez",
+			"qu'il/elle": "nordisse",
+			"qu'ils/elles": "nordissent"
+		},
+		"imparfait": {
+			"que": "vous nordissiez",
+			"qu'il/elle": "nordît",
+			"qu'ils/elles": "nordissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse nordi",
+			"que": "vous eussiez nordi",
+			"qu'il/elle": "eût nordi",
+			"qu'ils/elles": "eussent nordi"
+		},
+		"passé": {
+			"j'": "aie nordi",
+			"que": "vous ayez nordi",
+			"qu'il/elle": "ait nordi",
+			"qu'ils/elles": "aient nordi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "nordirais",
+			"tu": "nordirais",
+			"il/elle": "nordirait",
+			"nous": "nordirions",
+			"vous": "nordiriez",
+			"ils/elles": "nordiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais nordi",
+			"tu": "aurais nordi",
+			"il/elle": "aurait nordi",
+			"nous": "aurions nordi",
+			"vous": "auriez nordi",
+			"ils/elles": "auraient nordi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse nordi",
+			"tu": "eusses nordi",
+			"il/elle": "eût nordi",
+			"nous": "eussions nordi",
+			"vous": "eussiez nordi",
+			"ils/elles": "eussent nordi"
+		}
+	},
+	"participe": {
+		"présent": { "nordissant": "" },
+		"passé composé": { "ayant": "nordi" },
+		"passé": {
+			"masc.sg.:": "nordi",
+			"masc.pl.:": "nordis",
+			"fém.sg.:": "nordie",
+			"fém.pl.:": "nordies"
+		}
+	},
+	"imperatif": {
+		"présent": { "nordis": "", "nordissons": "", "nordissez": "" },
+		"passé": { "aie": "nordi", "ayons": "nordi", "ayez": "nordi" }
+	},
+	"infinitif": { "présent": { "nordir": "" }, "passé": { "avoir": "nordi" } }
+}

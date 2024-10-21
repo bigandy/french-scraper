@@ -1,0 +1,138 @@
+{
+	"name": "gerber",
+	"definition": "puke; throw up; sick; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se gerber/ne pas gerber/ne pas se gerber",
+	"indicatif": {
+		"présent": {
+			"je": "gerbe",
+			"tu": "gerbes",
+			"il/elle": "gerbe",
+			"nous": "gerbons",
+			"vous": "gerbez",
+			"ils/elles": "gerbent"
+		},
+		"imparfait": {
+			"je": "gerbais",
+			"tu": "gerbais",
+			"il/elle": "gerbait",
+			"nous": "gerbions",
+			"vous": "gerbiez",
+			"ils/elles": "gerbaient"
+		},
+		"futur": {
+			"je": "gerberai",
+			"tu": "gerberas",
+			"il/elle": "gerbera",
+			"nous": "gerberons",
+			"vous": "gerberez",
+			"ils/elles": "gerberont"
+		},
+		"passé simple": {
+			"je": "gerbai",
+			"tu": "gerbas",
+			"il/elle": "gerba",
+			"nous": "gerbâmes",
+			"vous": "gerbâtes",
+			"ils/elles": "gerbèrent"
+		},
+		"passé composé": {
+			"j'": "ai gerbé",
+			"tu": "as gerbé",
+			"il/elle": "a gerbé",
+			"nous": "avons gerbé",
+			"vous": "avez gerbé",
+			"ils/elles": "ont gerbé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais gerbé",
+			"tu": "avais gerbé",
+			"il/elle": "avait gerbé",
+			"nous": "avions gerbé",
+			"vous": "aviez gerbé",
+			"ils/elles": "avaient gerbé"
+		},
+		"passé antérieur": {
+			"j'": "eus gerbé",
+			"tu": "eus gerbé",
+			"il/elle": "eut gerbé",
+			"nous": "eûmes gerbé",
+			"vous": "eûtes gerbé",
+			"ils/elles": "eurent gerbé"
+		},
+		"futur antérieur": {
+			"j'": "aurai gerbé",
+			"tu": "auras gerbé",
+			"il/elle": "aura gerbé",
+			"nous": "aurons gerbé",
+			"vous": "aurez gerbé",
+			"ils/elles": "auront gerbé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous gerbiez",
+			"qu'il/elle": "gerbe",
+			"qu'ils/elles": "gerbent"
+		},
+		"imparfait": {
+			"que": "vous gerbassiez",
+			"qu'il/elle": "gerbât",
+			"qu'ils/elles": "gerbassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse gerbé",
+			"que": "vous eussiez gerbé",
+			"qu'il/elle": "eût gerbé",
+			"qu'ils/elles": "eussent gerbé"
+		},
+		"passé": {
+			"j'": "aie gerbé",
+			"que": "vous ayez gerbé",
+			"qu'il/elle": "ait gerbé",
+			"qu'ils/elles": "aient gerbé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "gerberais",
+			"tu": "gerberais",
+			"il/elle": "gerberait",
+			"nous": "gerberions",
+			"vous": "gerberiez",
+			"ils/elles": "gerberaient"
+		},
+		"passé première forme": {
+			"j'": "aurais gerbé",
+			"tu": "aurais gerbé",
+			"il/elle": "aurait gerbé",
+			"nous": "aurions gerbé",
+			"vous": "auriez gerbé",
+			"ils/elles": "auraient gerbé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse gerbé",
+			"tu": "eusses gerbé",
+			"il/elle": "eût gerbé",
+			"nous": "eussions gerbé",
+			"vous": "eussiez gerbé",
+			"ils/elles": "eussent gerbé"
+		}
+	},
+	"participe": {
+		"présent": { "gerbant": "" },
+		"passé composé": { "ayant": "gerbé" },
+		"passé": {
+			"masc.sg.:": "gerbé",
+			"masc.pl.:": "gerbés",
+			"fém.sg.:": "gerbée",
+			"fém.pl.:": "gerbées"
+		}
+	},
+	"imperatif": {
+		"présent": { "gerbe": "", "gerbons": "", "gerbez": "" },
+		"passé": { "aie": "gerbé", "ayons": "gerbé", "ayez": "gerbé" }
+	},
+	"infinitif": { "présent": { "gerber": "" }, "passé": { "avoir": "gerbé" } }
+}

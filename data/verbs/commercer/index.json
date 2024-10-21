@@ -1,0 +1,141 @@
+{
+	"name": "commercer",
+	"definition": "trade; do business; ...",
+	"model": "commencer",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas commercer",
+	"indicatif": {
+		"présent": {
+			"je": "commerce",
+			"tu": "commerces",
+			"il/elle": "commerce",
+			"nous": "commerçons",
+			"vous": "commercez",
+			"ils/elles": "commercent"
+		},
+		"imparfait": {
+			"je": "commerçais",
+			"tu": "commerçais",
+			"il/elle": "commerçait",
+			"nous": "commercions",
+			"vous": "commerciez",
+			"ils/elles": "commerçaient"
+		},
+		"futur": {
+			"je": "commercerai",
+			"tu": "commerceras",
+			"il/elle": "commercera",
+			"nous": "commercerons",
+			"vous": "commercerez",
+			"ils/elles": "commerceront"
+		},
+		"passé simple": {
+			"je": "commerçai",
+			"tu": "commerças",
+			"il/elle": "commerça",
+			"nous": "commerçâmes",
+			"vous": "commerçâtes",
+			"ils/elles": "commercèrent"
+		},
+		"passé composé": {
+			"j'": "ai commercé",
+			"tu": "as commercé",
+			"il/elle": "a commercé",
+			"nous": "avons commercé",
+			"vous": "avez commercé",
+			"ils/elles": "ont commercé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais commercé",
+			"tu": "avais commercé",
+			"il/elle": "avait commercé",
+			"nous": "avions commercé",
+			"vous": "aviez commercé",
+			"ils/elles": "avaient commercé"
+		},
+		"passé antérieur": {
+			"j'": "eus commercé",
+			"tu": "eus commercé",
+			"il/elle": "eut commercé",
+			"nous": "eûmes commercé",
+			"vous": "eûtes commercé",
+			"ils/elles": "eurent commercé"
+		},
+		"futur antérieur": {
+			"j'": "aurai commercé",
+			"tu": "auras commercé",
+			"il/elle": "aura commercé",
+			"nous": "aurons commercé",
+			"vous": "aurez commercé",
+			"ils/elles": "auront commercé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous commerciez",
+			"qu'il/elle": "commerce",
+			"qu'ils/elles": "commercent"
+		},
+		"imparfait": {
+			"que": "vous commerçassiez",
+			"qu'il/elle": "commerçât",
+			"qu'ils/elles": "commerçassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse commercé",
+			"que": "vous eussiez commercé",
+			"qu'il/elle": "eût commercé",
+			"qu'ils/elles": "eussent commercé"
+		},
+		"passé": {
+			"j'": "aie commercé",
+			"que": "vous ayez commercé",
+			"qu'il/elle": "ait commercé",
+			"qu'ils/elles": "aient commercé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "commercerais",
+			"tu": "commercerais",
+			"il/elle": "commercerait",
+			"nous": "commercerions",
+			"vous": "commerceriez",
+			"ils/elles": "commerceraient"
+		},
+		"passé première forme": {
+			"j'": "aurais commercé",
+			"tu": "aurais commercé",
+			"il/elle": "aurait commercé",
+			"nous": "aurions commercé",
+			"vous": "auriez commercé",
+			"ils/elles": "auraient commercé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse commercé",
+			"tu": "eusses commercé",
+			"il/elle": "eût commercé",
+			"nous": "eussions commercé",
+			"vous": "eussiez commercé",
+			"ils/elles": "eussent commercé"
+		}
+	},
+	"participe": {
+		"présent": { "commerçant": "" },
+		"passé composé": { "ayant": "commercé" },
+		"passé": {
+			"masc.sg.:": "commercé",
+			"masc.pl.:": "commercés",
+			"fém.sg.:": "commercée",
+			"fém.pl.:": "commercées"
+		}
+	},
+	"imperatif": {
+		"présent": { "commerce": "", "commerçons": "", "commercez": "" },
+		"passé": { "aie": "commercé", "ayons": "commercé", "ayez": "commercé" }
+	},
+	"infinitif": {
+		"présent": { "commercer": "" },
+		"passé": { "avoir": "commercé" }
+	}
+}

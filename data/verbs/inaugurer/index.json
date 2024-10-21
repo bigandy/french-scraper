@@ -1,0 +1,143 @@
+{
+	"name": "inaugurer",
+	"definition": "inaugurate; open; usher; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'inaugurer/ne pas inaugurer/ne pas s'inaugurer",
+	"indicatif": {
+		"présent": {
+			"j'": "inaugure",
+			"tu": "inaugures",
+			"il/elle": "inaugure",
+			"nous": "inaugurons",
+			"vous": "inaugurez",
+			"ils/elles": "inaugurent"
+		},
+		"imparfait": {
+			"j'": "inaugurais",
+			"tu": "inaugurais",
+			"il/elle": "inaugurait",
+			"nous": "inaugurions",
+			"vous": "inauguriez",
+			"ils/elles": "inauguraient"
+		},
+		"futur": {
+			"j'": "inaugurerai",
+			"tu": "inaugureras",
+			"il/elle": "inaugurera",
+			"nous": "inaugurerons",
+			"vous": "inaugurerez",
+			"ils/elles": "inaugureront"
+		},
+		"passé simple": {
+			"j'": "inaugurai",
+			"tu": "inauguras",
+			"il/elle": "inaugura",
+			"nous": "inaugurâmes",
+			"vous": "inaugurâtes",
+			"ils/elles": "inaugurèrent"
+		},
+		"passé composé": {
+			"j'": "ai inauguré",
+			"tu": "as inauguré",
+			"il/elle": "a inauguré",
+			"nous": "avons inauguré",
+			"vous": "avez inauguré",
+			"ils/elles": "ont inauguré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais inauguré",
+			"tu": "avais inauguré",
+			"il/elle": "avait inauguré",
+			"nous": "avions inauguré",
+			"vous": "aviez inauguré",
+			"ils/elles": "avaient inauguré"
+		},
+		"passé antérieur": {
+			"j'": "eus inauguré",
+			"tu": "eus inauguré",
+			"il/elle": "eut inauguré",
+			"nous": "eûmes inauguré",
+			"vous": "eûtes inauguré",
+			"ils/elles": "eurent inauguré"
+		},
+		"futur antérieur": {
+			"j'": "aurai inauguré",
+			"tu": "auras inauguré",
+			"il/elle": "aura inauguré",
+			"nous": "aurons inauguré",
+			"vous": "aurez inauguré",
+			"ils/elles": "auront inauguré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "inaugure",
+			"que": "vous inauguriez",
+			"qu'il/elle": "inaugure",
+			"qu'ils/elles": "inaugurent"
+		},
+		"imparfait": {
+			"j'": "inaugurasse",
+			"que": "vous inaugurassiez",
+			"qu'il/elle": "inaugurât",
+			"qu'ils/elles": "inaugurassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse inauguré",
+			"que": "vous eussiez inauguré",
+			"qu'il/elle": "eût inauguré",
+			"qu'ils/elles": "eussent inauguré"
+		},
+		"passé": {
+			"j'": "aie inauguré",
+			"que": "vous ayez inauguré",
+			"qu'il/elle": "ait inauguré",
+			"qu'ils/elles": "aient inauguré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "inaugurerais",
+			"tu": "inaugurerais",
+			"il/elle": "inaugurerait",
+			"nous": "inaugurerions",
+			"vous": "inaugureriez",
+			"ils/elles": "inaugureraient"
+		},
+		"passé première forme": {
+			"j'": "aurais inauguré",
+			"tu": "aurais inauguré",
+			"il/elle": "aurait inauguré",
+			"nous": "aurions inauguré",
+			"vous": "auriez inauguré",
+			"ils/elles": "auraient inauguré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse inauguré",
+			"tu": "eusses inauguré",
+			"il/elle": "eût inauguré",
+			"nous": "eussions inauguré",
+			"vous": "eussiez inauguré",
+			"ils/elles": "eussent inauguré"
+		}
+	},
+	"participe": {
+		"présent": { "inaugurant": "" },
+		"passé composé": { "ayant": "inauguré" },
+		"passé": {
+			"masc.sg.:": "inauguré",
+			"masc.pl.:": "inaugurés",
+			"fém.sg.:": "inaugurée",
+			"fém.pl.:": "inaugurées"
+		}
+	},
+	"imperatif": {
+		"présent": { "inaugure": "", "inaugurons": "", "inaugurez": "" },
+		"passé": { "aie": "inauguré", "ayons": "inauguré", "ayez": "inauguré" }
+	},
+	"infinitif": {
+		"présent": { "inaugurer": "" },
+		"passé": { "avoir": "inauguré" }
+	}
+}

@@ -1,0 +1,138 @@
+{
+	"name": "puiser",
+	"definition": "draw; tap; dip; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se puiser/ne pas puiser/ne pas se puiser",
+	"indicatif": {
+		"présent": {
+			"je": "puise",
+			"tu": "puises",
+			"il/elle": "puise",
+			"nous": "puisons",
+			"vous": "puisez",
+			"ils/elles": "puisent"
+		},
+		"imparfait": {
+			"je": "puisais",
+			"tu": "puisais",
+			"il/elle": "puisait",
+			"nous": "puisions",
+			"vous": "puisiez",
+			"ils/elles": "puisaient"
+		},
+		"futur": {
+			"je": "puiserai",
+			"tu": "puiseras",
+			"il/elle": "puisera",
+			"nous": "puiserons",
+			"vous": "puiserez",
+			"ils/elles": "puiseront"
+		},
+		"passé simple": {
+			"je": "puisai",
+			"tu": "puisas",
+			"il/elle": "puisa",
+			"nous": "puisâmes",
+			"vous": "puisâtes",
+			"ils/elles": "puisèrent"
+		},
+		"passé composé": {
+			"j'": "ai puisé",
+			"tu": "as puisé",
+			"il/elle": "a puisé",
+			"nous": "avons puisé",
+			"vous": "avez puisé",
+			"ils/elles": "ont puisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais puisé",
+			"tu": "avais puisé",
+			"il/elle": "avait puisé",
+			"nous": "avions puisé",
+			"vous": "aviez puisé",
+			"ils/elles": "avaient puisé"
+		},
+		"passé antérieur": {
+			"j'": "eus puisé",
+			"tu": "eus puisé",
+			"il/elle": "eut puisé",
+			"nous": "eûmes puisé",
+			"vous": "eûtes puisé",
+			"ils/elles": "eurent puisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai puisé",
+			"tu": "auras puisé",
+			"il/elle": "aura puisé",
+			"nous": "aurons puisé",
+			"vous": "aurez puisé",
+			"ils/elles": "auront puisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous puisiez",
+			"qu'il/elle": "puise",
+			"qu'ils/elles": "puisent"
+		},
+		"imparfait": {
+			"que": "vous puisassiez",
+			"qu'il/elle": "puisât",
+			"qu'ils/elles": "puisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse puisé",
+			"que": "vous eussiez puisé",
+			"qu'il/elle": "eût puisé",
+			"qu'ils/elles": "eussent puisé"
+		},
+		"passé": {
+			"j'": "aie puisé",
+			"que": "vous ayez puisé",
+			"qu'il/elle": "ait puisé",
+			"qu'ils/elles": "aient puisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "puiserais",
+			"tu": "puiserais",
+			"il/elle": "puiserait",
+			"nous": "puiserions",
+			"vous": "puiseriez",
+			"ils/elles": "puiseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais puisé",
+			"tu": "aurais puisé",
+			"il/elle": "aurait puisé",
+			"nous": "aurions puisé",
+			"vous": "auriez puisé",
+			"ils/elles": "auraient puisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse puisé",
+			"tu": "eusses puisé",
+			"il/elle": "eût puisé",
+			"nous": "eussions puisé",
+			"vous": "eussiez puisé",
+			"ils/elles": "eussent puisé"
+		}
+	},
+	"participe": {
+		"présent": { "puisant": "" },
+		"passé composé": { "ayant": "puisé" },
+		"passé": {
+			"masc.sg.:": "puisé",
+			"masc.pl.:": "puisés",
+			"fém.sg.:": "puisée",
+			"fém.pl.:": "puisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "puise": "", "puisons": "", "puisez": "" },
+		"passé": { "aie": "puisé", "ayons": "puisé", "ayez": "puisé" }
+	},
+	"infinitif": { "présent": { "puiser": "" }, "passé": { "avoir": "puisé" } }
+}

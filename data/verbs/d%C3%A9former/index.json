@@ -1,0 +1,141 @@
+{
+	"name": "déformer",
+	"definition": "deform; distort; twist; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se déformer/ne pas déformer/ne pas se déformer",
+	"indicatif": {
+		"présent": {
+			"je": "déforme",
+			"tu": "déformes",
+			"il/elle": "déforme",
+			"nous": "déformons",
+			"vous": "déformez",
+			"ils/elles": "déforment"
+		},
+		"imparfait": {
+			"je": "déformais",
+			"tu": "déformais",
+			"il/elle": "déformait",
+			"nous": "déformions",
+			"vous": "déformiez",
+			"ils/elles": "déformaient"
+		},
+		"futur": {
+			"je": "déformerai",
+			"tu": "déformeras",
+			"il/elle": "déformera",
+			"nous": "déformerons",
+			"vous": "déformerez",
+			"ils/elles": "déformeront"
+		},
+		"passé simple": {
+			"je": "déformai",
+			"tu": "déformas",
+			"il/elle": "déforma",
+			"nous": "déformâmes",
+			"vous": "déformâtes",
+			"ils/elles": "déformèrent"
+		},
+		"passé composé": {
+			"j'": "ai déformé",
+			"tu": "as déformé",
+			"il/elle": "a déformé",
+			"nous": "avons déformé",
+			"vous": "avez déformé",
+			"ils/elles": "ont déformé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais déformé",
+			"tu": "avais déformé",
+			"il/elle": "avait déformé",
+			"nous": "avions déformé",
+			"vous": "aviez déformé",
+			"ils/elles": "avaient déformé"
+		},
+		"passé antérieur": {
+			"j'": "eus déformé",
+			"tu": "eus déformé",
+			"il/elle": "eut déformé",
+			"nous": "eûmes déformé",
+			"vous": "eûtes déformé",
+			"ils/elles": "eurent déformé"
+		},
+		"futur antérieur": {
+			"j'": "aurai déformé",
+			"tu": "auras déformé",
+			"il/elle": "aura déformé",
+			"nous": "aurons déformé",
+			"vous": "aurez déformé",
+			"ils/elles": "auront déformé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous déformiez",
+			"qu'il/elle": "déforme",
+			"qu'ils/elles": "déforment"
+		},
+		"imparfait": {
+			"que": "vous déformassiez",
+			"qu'il/elle": "déformât",
+			"qu'ils/elles": "déformassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse déformé",
+			"que": "vous eussiez déformé",
+			"qu'il/elle": "eût déformé",
+			"qu'ils/elles": "eussent déformé"
+		},
+		"passé": {
+			"j'": "aie déformé",
+			"que": "vous ayez déformé",
+			"qu'il/elle": "ait déformé",
+			"qu'ils/elles": "aient déformé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "déformerais",
+			"tu": "déformerais",
+			"il/elle": "déformerait",
+			"nous": "déformerions",
+			"vous": "déformeriez",
+			"ils/elles": "déformeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais déformé",
+			"tu": "aurais déformé",
+			"il/elle": "aurait déformé",
+			"nous": "aurions déformé",
+			"vous": "auriez déformé",
+			"ils/elles": "auraient déformé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse déformé",
+			"tu": "eusses déformé",
+			"il/elle": "eût déformé",
+			"nous": "eussions déformé",
+			"vous": "eussiez déformé",
+			"ils/elles": "eussent déformé"
+		}
+	},
+	"participe": {
+		"présent": { "déformant": "" },
+		"passé composé": { "ayant": "déformé" },
+		"passé": {
+			"masc.sg.:": "déformé",
+			"masc.pl.:": "déformés",
+			"fém.sg.:": "déformée",
+			"fém.pl.:": "déformées"
+		}
+	},
+	"imperatif": {
+		"présent": { "déforme": "", "déformons": "", "déformez": "" },
+		"passé": { "aie": "déformé", "ayons": "déformé", "ayez": "déformé" }
+	},
+	"infinitif": {
+		"présent": { "déformer": "" },
+		"passé": { "avoir": "déformé" }
+	}
+}

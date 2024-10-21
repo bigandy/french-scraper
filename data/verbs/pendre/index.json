@@ -1,0 +1,138 @@
+{
+	"name": "pendre",
+	"definition": "hang; hang myself; hang himself; ...",
+	"model": "attendre",
+	"auxiliary": "avoir",
+	"otherForms": "se pendre/ne pas pendre/ne pas se pendre",
+	"indicatif": {
+		"présent": {
+			"je": "pends",
+			"tu": "pends",
+			"il/elle": "pend",
+			"nous": "pendons",
+			"vous": "pendez",
+			"ils/elles": "pendent"
+		},
+		"imparfait": {
+			"je": "pendais",
+			"tu": "pendais",
+			"il/elle": "pendait",
+			"nous": "pendions",
+			"vous": "pendiez",
+			"ils/elles": "pendaient"
+		},
+		"futur": {
+			"je": "pendrai",
+			"tu": "pendras",
+			"il/elle": "pendra",
+			"nous": "pendrons",
+			"vous": "pendrez",
+			"ils/elles": "pendront"
+		},
+		"passé simple": {
+			"je": "pendis",
+			"tu": "pendis",
+			"il/elle": "pendit",
+			"nous": "pendîmes",
+			"vous": "pendîtes",
+			"ils/elles": "pendirent"
+		},
+		"passé composé": {
+			"j'": "ai pendu",
+			"tu": "as pendu",
+			"il/elle": "a pendu",
+			"nous": "avons pendu",
+			"vous": "avez pendu",
+			"ils/elles": "ont pendu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais pendu",
+			"tu": "avais pendu",
+			"il/elle": "avait pendu",
+			"nous": "avions pendu",
+			"vous": "aviez pendu",
+			"ils/elles": "avaient pendu"
+		},
+		"passé antérieur": {
+			"j'": "eus pendu",
+			"tu": "eus pendu",
+			"il/elle": "eut pendu",
+			"nous": "eûmes pendu",
+			"vous": "eûtes pendu",
+			"ils/elles": "eurent pendu"
+		},
+		"futur antérieur": {
+			"j'": "aurai pendu",
+			"tu": "auras pendu",
+			"il/elle": "aura pendu",
+			"nous": "aurons pendu",
+			"vous": "aurez pendu",
+			"ils/elles": "auront pendu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous pendiez",
+			"qu'il/elle": "pende",
+			"qu'ils/elles": "pendent"
+		},
+		"imparfait": {
+			"que": "vous pendissiez",
+			"qu'il/elle": "pendît",
+			"qu'ils/elles": "pendissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse pendu",
+			"que": "vous eussiez pendu",
+			"qu'il/elle": "eût pendu",
+			"qu'ils/elles": "eussent pendu"
+		},
+		"passé": {
+			"j'": "aie pendu",
+			"que": "vous ayez pendu",
+			"qu'il/elle": "ait pendu",
+			"qu'ils/elles": "aient pendu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "pendrais",
+			"tu": "pendrais",
+			"il/elle": "pendrait",
+			"nous": "pendrions",
+			"vous": "pendriez",
+			"ils/elles": "pendraient"
+		},
+		"passé première forme": {
+			"j'": "aurais pendu",
+			"tu": "aurais pendu",
+			"il/elle": "aurait pendu",
+			"nous": "aurions pendu",
+			"vous": "auriez pendu",
+			"ils/elles": "auraient pendu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse pendu",
+			"tu": "eusses pendu",
+			"il/elle": "eût pendu",
+			"nous": "eussions pendu",
+			"vous": "eussiez pendu",
+			"ils/elles": "eussent pendu"
+		}
+	},
+	"participe": {
+		"présent": { "pendant": "" },
+		"passé composé": { "ayant": "pendu" },
+		"passé": {
+			"masc.sg.:": "pendu",
+			"masc.pl.:": "pendus",
+			"fém.sg.:": "pendue",
+			"fém.pl.:": "pendues"
+		}
+	},
+	"imperatif": {
+		"présent": { "pends": "", "pendons": "", "pendez": "" },
+		"passé": { "aie": "pendu", "ayons": "pendu", "ayez": "pendu" }
+	},
+	"infinitif": { "présent": { "pendre": "" }, "passé": { "avoir": "pendu" } }
+}

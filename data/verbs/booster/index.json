@@ -1,0 +1,138 @@
+{
+	"name": "booster",
+	"definition": "boost; supercharge; improve; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se booster/ne pas booster/ne pas se booster",
+	"indicatif": {
+		"présent": {
+			"je": "booste",
+			"tu": "boostes",
+			"il/elle": "booste",
+			"nous": "boostons",
+			"vous": "boostez",
+			"ils/elles": "boostent"
+		},
+		"imparfait": {
+			"je": "boostais",
+			"tu": "boostais",
+			"il/elle": "boostait",
+			"nous": "boostions",
+			"vous": "boostiez",
+			"ils/elles": "boostaient"
+		},
+		"futur": {
+			"je": "boosterai",
+			"tu": "boosteras",
+			"il/elle": "boostera",
+			"nous": "boosterons",
+			"vous": "boosterez",
+			"ils/elles": "boosteront"
+		},
+		"passé simple": {
+			"je": "boostai",
+			"tu": "boostas",
+			"il/elle": "boosta",
+			"nous": "boostâmes",
+			"vous": "boostâtes",
+			"ils/elles": "boostèrent"
+		},
+		"passé composé": {
+			"j'": "ai boosté",
+			"tu": "as boosté",
+			"il/elle": "a boosté",
+			"nous": "avons boosté",
+			"vous": "avez boosté",
+			"ils/elles": "ont boosté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais boosté",
+			"tu": "avais boosté",
+			"il/elle": "avait boosté",
+			"nous": "avions boosté",
+			"vous": "aviez boosté",
+			"ils/elles": "avaient boosté"
+		},
+		"passé antérieur": {
+			"j'": "eus boosté",
+			"tu": "eus boosté",
+			"il/elle": "eut boosté",
+			"nous": "eûmes boosté",
+			"vous": "eûtes boosté",
+			"ils/elles": "eurent boosté"
+		},
+		"futur antérieur": {
+			"j'": "aurai boosté",
+			"tu": "auras boosté",
+			"il/elle": "aura boosté",
+			"nous": "aurons boosté",
+			"vous": "aurez boosté",
+			"ils/elles": "auront boosté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous boostiez",
+			"qu'il/elle": "booste",
+			"qu'ils/elles": "boostent"
+		},
+		"imparfait": {
+			"que": "vous boostassiez",
+			"qu'il/elle": "boostât",
+			"qu'ils/elles": "boostassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse boosté",
+			"que": "vous eussiez boosté",
+			"qu'il/elle": "eût boosté",
+			"qu'ils/elles": "eussent boosté"
+		},
+		"passé": {
+			"j'": "aie boosté",
+			"que": "vous ayez boosté",
+			"qu'il/elle": "ait boosté",
+			"qu'ils/elles": "aient boosté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "boosterais",
+			"tu": "boosterais",
+			"il/elle": "boosterait",
+			"nous": "boosterions",
+			"vous": "boosteriez",
+			"ils/elles": "boosteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais boosté",
+			"tu": "aurais boosté",
+			"il/elle": "aurait boosté",
+			"nous": "aurions boosté",
+			"vous": "auriez boosté",
+			"ils/elles": "auraient boosté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse boosté",
+			"tu": "eusses boosté",
+			"il/elle": "eût boosté",
+			"nous": "eussions boosté",
+			"vous": "eussiez boosté",
+			"ils/elles": "eussent boosté"
+		}
+	},
+	"participe": {
+		"présent": { "boostant": "" },
+		"passé composé": { "ayant": "boosté" },
+		"passé": {
+			"masc.sg.:": "boosté",
+			"masc.pl.:": "boostés",
+			"fém.sg.:": "boostée",
+			"fém.pl.:": "boostées"
+		}
+	},
+	"imperatif": {
+		"présent": { "booste": "", "boostons": "", "boostez": "" },
+		"passé": { "aie": "boosté", "ayons": "boosté", "ayez": "boosté" }
+	},
+	"infinitif": { "présent": { "booster": "" }, "passé": { "avoir": "boosté" } }
+}

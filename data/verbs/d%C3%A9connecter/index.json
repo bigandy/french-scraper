@@ -1,0 +1,145 @@
+{
+	"name": "déconnecter",
+	"definition": "disconnect; log out; switch off; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se déconnecter/ne pas déconnecter/ne pas se déconnecter",
+	"indicatif": {
+		"présent": {
+			"je": "déconnecte",
+			"tu": "déconnectes",
+			"il/elle": "déconnecte",
+			"nous": "déconnectons",
+			"vous": "déconnectez",
+			"ils/elles": "déconnectent"
+		},
+		"imparfait": {
+			"je": "déconnectais",
+			"tu": "déconnectais",
+			"il/elle": "déconnectait",
+			"nous": "déconnections",
+			"vous": "déconnectiez",
+			"ils/elles": "déconnectaient"
+		},
+		"futur": {
+			"je": "déconnecterai",
+			"tu": "déconnecteras",
+			"il/elle": "déconnectera",
+			"nous": "déconnecterons",
+			"vous": "déconnecterez",
+			"ils/elles": "déconnecteront"
+		},
+		"passé simple": {
+			"je": "déconnectai",
+			"tu": "déconnectas",
+			"il/elle": "déconnecta",
+			"nous": "déconnectâmes",
+			"vous": "déconnectâtes",
+			"ils/elles": "déconnectèrent"
+		},
+		"passé composé": {
+			"j'": "ai déconnecté",
+			"tu": "as déconnecté",
+			"il/elle": "a déconnecté",
+			"nous": "avons déconnecté",
+			"vous": "avez déconnecté",
+			"ils/elles": "ont déconnecté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais déconnecté",
+			"tu": "avais déconnecté",
+			"il/elle": "avait déconnecté",
+			"nous": "avions déconnecté",
+			"vous": "aviez déconnecté",
+			"ils/elles": "avaient déconnecté"
+		},
+		"passé antérieur": {
+			"j'": "eus déconnecté",
+			"tu": "eus déconnecté",
+			"il/elle": "eut déconnecté",
+			"nous": "eûmes déconnecté",
+			"vous": "eûtes déconnecté",
+			"ils/elles": "eurent déconnecté"
+		},
+		"futur antérieur": {
+			"j'": "aurai déconnecté",
+			"tu": "auras déconnecté",
+			"il/elle": "aura déconnecté",
+			"nous": "aurons déconnecté",
+			"vous": "aurez déconnecté",
+			"ils/elles": "auront déconnecté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous déconnectiez",
+			"qu'il/elle": "déconnecte",
+			"qu'ils/elles": "déconnectent"
+		},
+		"imparfait": {
+			"que": "vous déconnectassiez",
+			"qu'il/elle": "déconnectât",
+			"qu'ils/elles": "déconnectassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse déconnecté",
+			"que": "vous eussiez déconnecté",
+			"qu'il/elle": "eût déconnecté",
+			"qu'ils/elles": "eussent déconnecté"
+		},
+		"passé": {
+			"j'": "aie déconnecté",
+			"que": "vous ayez déconnecté",
+			"qu'il/elle": "ait déconnecté",
+			"qu'ils/elles": "aient déconnecté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "déconnecterais",
+			"tu": "déconnecterais",
+			"il/elle": "déconnecterait",
+			"nous": "déconnecterions",
+			"vous": "déconnecteriez",
+			"ils/elles": "déconnecteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais déconnecté",
+			"tu": "aurais déconnecté",
+			"il/elle": "aurait déconnecté",
+			"nous": "aurions déconnecté",
+			"vous": "auriez déconnecté",
+			"ils/elles": "auraient déconnecté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse déconnecté",
+			"tu": "eusses déconnecté",
+			"il/elle": "eût déconnecté",
+			"nous": "eussions déconnecté",
+			"vous": "eussiez déconnecté",
+			"ils/elles": "eussent déconnecté"
+		}
+	},
+	"participe": {
+		"présent": { "déconnectant": "" },
+		"passé composé": { "ayant": "déconnecté" },
+		"passé": {
+			"masc.sg.:": "déconnecté",
+			"masc.pl.:": "déconnectés",
+			"fém.sg.:": "déconnectée",
+			"fém.pl.:": "déconnectées"
+		}
+	},
+	"imperatif": {
+		"présent": { "déconnecte": "", "déconnectons": "", "déconnectez": "" },
+		"passé": {
+			"aie": "déconnecté",
+			"ayons": "déconnecté",
+			"ayez": "déconnecté"
+		}
+	},
+	"infinitif": {
+		"présent": { "déconnecter": "" },
+		"passé": { "avoir": "déconnecté" }
+	}
+}

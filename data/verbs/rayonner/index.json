@@ -1,0 +1,141 @@
+{
+	"name": "rayonner",
+	"definition": "radiate; shine; irradiate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se rayonner/ne pas rayonner/ne pas se rayonner",
+	"indicatif": {
+		"présent": {
+			"je": "rayonne",
+			"tu": "rayonnes",
+			"il/elle": "rayonne",
+			"nous": "rayonnons",
+			"vous": "rayonnez",
+			"ils/elles": "rayonnent"
+		},
+		"imparfait": {
+			"je": "rayonnais",
+			"tu": "rayonnais",
+			"il/elle": "rayonnait",
+			"nous": "rayonnions",
+			"vous": "rayonniez",
+			"ils/elles": "rayonnaient"
+		},
+		"futur": {
+			"je": "rayonnerai",
+			"tu": "rayonneras",
+			"il/elle": "rayonnera",
+			"nous": "rayonnerons",
+			"vous": "rayonnerez",
+			"ils/elles": "rayonneront"
+		},
+		"passé simple": {
+			"je": "rayonnai",
+			"tu": "rayonnas",
+			"il/elle": "rayonna",
+			"nous": "rayonnâmes",
+			"vous": "rayonnâtes",
+			"ils/elles": "rayonnèrent"
+		},
+		"passé composé": {
+			"j'": "ai rayonné",
+			"tu": "as rayonné",
+			"il/elle": "a rayonné",
+			"nous": "avons rayonné",
+			"vous": "avez rayonné",
+			"ils/elles": "ont rayonné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais rayonné",
+			"tu": "avais rayonné",
+			"il/elle": "avait rayonné",
+			"nous": "avions rayonné",
+			"vous": "aviez rayonné",
+			"ils/elles": "avaient rayonné"
+		},
+		"passé antérieur": {
+			"j'": "eus rayonné",
+			"tu": "eus rayonné",
+			"il/elle": "eut rayonné",
+			"nous": "eûmes rayonné",
+			"vous": "eûtes rayonné",
+			"ils/elles": "eurent rayonné"
+		},
+		"futur antérieur": {
+			"j'": "aurai rayonné",
+			"tu": "auras rayonné",
+			"il/elle": "aura rayonné",
+			"nous": "aurons rayonné",
+			"vous": "aurez rayonné",
+			"ils/elles": "auront rayonné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous rayonniez",
+			"qu'il/elle": "rayonne",
+			"qu'ils/elles": "rayonnent"
+		},
+		"imparfait": {
+			"que": "vous rayonnassiez",
+			"qu'il/elle": "rayonnât",
+			"qu'ils/elles": "rayonnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse rayonné",
+			"que": "vous eussiez rayonné",
+			"qu'il/elle": "eût rayonné",
+			"qu'ils/elles": "eussent rayonné"
+		},
+		"passé": {
+			"j'": "aie rayonné",
+			"que": "vous ayez rayonné",
+			"qu'il/elle": "ait rayonné",
+			"qu'ils/elles": "aient rayonné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "rayonnerais",
+			"tu": "rayonnerais",
+			"il/elle": "rayonnerait",
+			"nous": "rayonnerions",
+			"vous": "rayonneriez",
+			"ils/elles": "rayonneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais rayonné",
+			"tu": "aurais rayonné",
+			"il/elle": "aurait rayonné",
+			"nous": "aurions rayonné",
+			"vous": "auriez rayonné",
+			"ils/elles": "auraient rayonné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse rayonné",
+			"tu": "eusses rayonné",
+			"il/elle": "eût rayonné",
+			"nous": "eussions rayonné",
+			"vous": "eussiez rayonné",
+			"ils/elles": "eussent rayonné"
+		}
+	},
+	"participe": {
+		"présent": { "rayonnant": "" },
+		"passé composé": { "ayant": "rayonné" },
+		"passé": {
+			"masc.sg.:": "rayonné",
+			"masc.pl.:": "rayonnés",
+			"fém.sg.:": "rayonnée",
+			"fém.pl.:": "rayonnées"
+		}
+	},
+	"imperatif": {
+		"présent": { "rayonne": "", "rayonnons": "", "rayonnez": "" },
+		"passé": { "aie": "rayonné", "ayons": "rayonné", "ayez": "rayonné" }
+	},
+	"infinitif": {
+		"présent": { "rayonner": "" },
+		"passé": { "avoir": "rayonné" }
+	}
+}

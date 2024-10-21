@@ -1,0 +1,138 @@
+{
+	"name": "braquer",
+	"definition": "rob; point; hold up; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se braquer/ne pas braquer/ne pas se braquer",
+	"indicatif": {
+		"présent": {
+			"je": "braque",
+			"tu": "braques",
+			"il/elle": "braque",
+			"nous": "braquons",
+			"vous": "braquez",
+			"ils/elles": "braquent"
+		},
+		"imparfait": {
+			"je": "braquais",
+			"tu": "braquais",
+			"il/elle": "braquait",
+			"nous": "braquions",
+			"vous": "braquiez",
+			"ils/elles": "braquaient"
+		},
+		"futur": {
+			"je": "braquerai",
+			"tu": "braqueras",
+			"il/elle": "braquera",
+			"nous": "braquerons",
+			"vous": "braquerez",
+			"ils/elles": "braqueront"
+		},
+		"passé simple": {
+			"je": "braquai",
+			"tu": "braquas",
+			"il/elle": "braqua",
+			"nous": "braquâmes",
+			"vous": "braquâtes",
+			"ils/elles": "braquèrent"
+		},
+		"passé composé": {
+			"j'": "ai braqué",
+			"tu": "as braqué",
+			"il/elle": "a braqué",
+			"nous": "avons braqué",
+			"vous": "avez braqué",
+			"ils/elles": "ont braqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais braqué",
+			"tu": "avais braqué",
+			"il/elle": "avait braqué",
+			"nous": "avions braqué",
+			"vous": "aviez braqué",
+			"ils/elles": "avaient braqué"
+		},
+		"passé antérieur": {
+			"j'": "eus braqué",
+			"tu": "eus braqué",
+			"il/elle": "eut braqué",
+			"nous": "eûmes braqué",
+			"vous": "eûtes braqué",
+			"ils/elles": "eurent braqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai braqué",
+			"tu": "auras braqué",
+			"il/elle": "aura braqué",
+			"nous": "aurons braqué",
+			"vous": "aurez braqué",
+			"ils/elles": "auront braqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous braquiez",
+			"qu'il/elle": "braque",
+			"qu'ils/elles": "braquent"
+		},
+		"imparfait": {
+			"que": "vous braquassiez",
+			"qu'il/elle": "braquât",
+			"qu'ils/elles": "braquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse braqué",
+			"que": "vous eussiez braqué",
+			"qu'il/elle": "eût braqué",
+			"qu'ils/elles": "eussent braqué"
+		},
+		"passé": {
+			"j'": "aie braqué",
+			"que": "vous ayez braqué",
+			"qu'il/elle": "ait braqué",
+			"qu'ils/elles": "aient braqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "braquerais",
+			"tu": "braquerais",
+			"il/elle": "braquerait",
+			"nous": "braquerions",
+			"vous": "braqueriez",
+			"ils/elles": "braqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais braqué",
+			"tu": "aurais braqué",
+			"il/elle": "aurait braqué",
+			"nous": "aurions braqué",
+			"vous": "auriez braqué",
+			"ils/elles": "auraient braqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse braqué",
+			"tu": "eusses braqué",
+			"il/elle": "eût braqué",
+			"nous": "eussions braqué",
+			"vous": "eussiez braqué",
+			"ils/elles": "eussent braqué"
+		}
+	},
+	"participe": {
+		"présent": { "braquant": "" },
+		"passé composé": { "ayant": "braqué" },
+		"passé": {
+			"masc.sg.:": "braqué",
+			"masc.pl.:": "braqués",
+			"fém.sg.:": "braquée",
+			"fém.pl.:": "braquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "braque": "", "braquons": "", "braquez": "" },
+		"passé": { "aie": "braqué", "ayons": "braqué", "ayez": "braqué" }
+	},
+	"infinitif": { "présent": { "braquer": "" }, "passé": { "avoir": "braqué" } }
+}

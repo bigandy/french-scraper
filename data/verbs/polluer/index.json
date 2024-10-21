@@ -1,0 +1,138 @@
+{
+	"name": "polluer",
+	"definition": "pollute; contaminate; foul; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se polluer/ne pas polluer/ne pas se polluer",
+	"indicatif": {
+		"présent": {
+			"je": "pollue",
+			"tu": "pollues",
+			"il/elle": "pollue",
+			"nous": "polluons",
+			"vous": "polluez",
+			"ils/elles": "polluent"
+		},
+		"imparfait": {
+			"je": "polluais",
+			"tu": "polluais",
+			"il/elle": "polluait",
+			"nous": "polluions",
+			"vous": "polluiez",
+			"ils/elles": "polluaient"
+		},
+		"futur": {
+			"je": "polluerai",
+			"tu": "pollueras",
+			"il/elle": "polluera",
+			"nous": "polluerons",
+			"vous": "polluerez",
+			"ils/elles": "pollueront"
+		},
+		"passé simple": {
+			"je": "polluai",
+			"tu": "polluas",
+			"il/elle": "pollua",
+			"nous": "polluâmes",
+			"vous": "polluâtes",
+			"ils/elles": "polluèrent"
+		},
+		"passé composé": {
+			"j'": "ai pollué",
+			"tu": "as pollué",
+			"il/elle": "a pollué",
+			"nous": "avons pollué",
+			"vous": "avez pollué",
+			"ils/elles": "ont pollué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais pollué",
+			"tu": "avais pollué",
+			"il/elle": "avait pollué",
+			"nous": "avions pollué",
+			"vous": "aviez pollué",
+			"ils/elles": "avaient pollué"
+		},
+		"passé antérieur": {
+			"j'": "eus pollué",
+			"tu": "eus pollué",
+			"il/elle": "eut pollué",
+			"nous": "eûmes pollué",
+			"vous": "eûtes pollué",
+			"ils/elles": "eurent pollué"
+		},
+		"futur antérieur": {
+			"j'": "aurai pollué",
+			"tu": "auras pollué",
+			"il/elle": "aura pollué",
+			"nous": "aurons pollué",
+			"vous": "aurez pollué",
+			"ils/elles": "auront pollué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous polluiez",
+			"qu'il/elle": "pollue",
+			"qu'ils/elles": "polluent"
+		},
+		"imparfait": {
+			"que": "vous polluassiez",
+			"qu'il/elle": "polluât",
+			"qu'ils/elles": "polluassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse pollué",
+			"que": "vous eussiez pollué",
+			"qu'il/elle": "eût pollué",
+			"qu'ils/elles": "eussent pollué"
+		},
+		"passé": {
+			"j'": "aie pollué",
+			"que": "vous ayez pollué",
+			"qu'il/elle": "ait pollué",
+			"qu'ils/elles": "aient pollué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "polluerais",
+			"tu": "polluerais",
+			"il/elle": "polluerait",
+			"nous": "polluerions",
+			"vous": "pollueriez",
+			"ils/elles": "pollueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais pollué",
+			"tu": "aurais pollué",
+			"il/elle": "aurait pollué",
+			"nous": "aurions pollué",
+			"vous": "auriez pollué",
+			"ils/elles": "auraient pollué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse pollué",
+			"tu": "eusses pollué",
+			"il/elle": "eût pollué",
+			"nous": "eussions pollué",
+			"vous": "eussiez pollué",
+			"ils/elles": "eussent pollué"
+		}
+	},
+	"participe": {
+		"présent": { "polluant": "" },
+		"passé composé": { "ayant": "pollué" },
+		"passé": {
+			"masc.sg.:": "pollué",
+			"masc.pl.:": "pollués",
+			"fém.sg.:": "polluée",
+			"fém.pl.:": "polluées"
+		}
+	},
+	"imperatif": {
+		"présent": { "pollue": "", "polluons": "", "polluez": "" },
+		"passé": { "aie": "pollué", "ayons": "pollué", "ayez": "pollué" }
+	},
+	"infinitif": { "présent": { "polluer": "" }, "passé": { "avoir": "pollué" } }
+}

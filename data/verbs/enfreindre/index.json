@@ -1,0 +1,143 @@
+{
+	"name": "enfreindre",
+	"definition": "break; violate; infringe; ...",
+	"model": "craindre",
+	"auxiliary": "avoir",
+	"otherForms": "s'enfreindre/ne pas enfreindre/ne pas s'enfreindre",
+	"indicatif": {
+		"présent": {
+			"j'": "enfreins",
+			"tu": "enfreins",
+			"il/elle": "enfreint",
+			"nous": "enfreignons",
+			"vous": "enfreignez",
+			"ils/elles": "enfreignent"
+		},
+		"imparfait": {
+			"j'": "enfreignais",
+			"tu": "enfreignais",
+			"il/elle": "enfreignait",
+			"nous": "enfreignions",
+			"vous": "enfreigniez",
+			"ils/elles": "enfreignaient"
+		},
+		"futur": {
+			"j'": "enfreindrai",
+			"tu": "enfreindras",
+			"il/elle": "enfreindra",
+			"nous": "enfreindrons",
+			"vous": "enfreindrez",
+			"ils/elles": "enfreindront"
+		},
+		"passé simple": {
+			"j'": "enfreignis",
+			"tu": "enfreignis",
+			"il/elle": "enfreignit",
+			"nous": "enfreignîmes",
+			"vous": "enfreignîtes",
+			"ils/elles": "enfreignirent"
+		},
+		"passé composé": {
+			"j'": "ai enfreint",
+			"tu": "as enfreint",
+			"il/elle": "a enfreint",
+			"nous": "avons enfreint",
+			"vous": "avez enfreint",
+			"ils/elles": "ont enfreint"
+		},
+		"plus-que-parfait": {
+			"j'": "avais enfreint",
+			"tu": "avais enfreint",
+			"il/elle": "avait enfreint",
+			"nous": "avions enfreint",
+			"vous": "aviez enfreint",
+			"ils/elles": "avaient enfreint"
+		},
+		"passé antérieur": {
+			"j'": "eus enfreint",
+			"tu": "eus enfreint",
+			"il/elle": "eut enfreint",
+			"nous": "eûmes enfreint",
+			"vous": "eûtes enfreint",
+			"ils/elles": "eurent enfreint"
+		},
+		"futur antérieur": {
+			"j'": "aurai enfreint",
+			"tu": "auras enfreint",
+			"il/elle": "aura enfreint",
+			"nous": "aurons enfreint",
+			"vous": "aurez enfreint",
+			"ils/elles": "auront enfreint"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "enfreigne",
+			"que": "vous enfreigniez",
+			"qu'il/elle": "enfreigne",
+			"qu'ils/elles": "enfreignent"
+		},
+		"imparfait": {
+			"j'": "enfreignisse",
+			"que": "vous enfreignissiez",
+			"qu'il/elle": "enfreignît",
+			"qu'ils/elles": "enfreignissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse enfreint",
+			"que": "vous eussiez enfreint",
+			"qu'il/elle": "eût enfreint",
+			"qu'ils/elles": "eussent enfreint"
+		},
+		"passé": {
+			"j'": "aie enfreint",
+			"que": "vous ayez enfreint",
+			"qu'il/elle": "ait enfreint",
+			"qu'ils/elles": "aient enfreint"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "enfreindrais",
+			"tu": "enfreindrais",
+			"il/elle": "enfreindrait",
+			"nous": "enfreindrions",
+			"vous": "enfreindriez",
+			"ils/elles": "enfreindraient"
+		},
+		"passé première forme": {
+			"j'": "aurais enfreint",
+			"tu": "aurais enfreint",
+			"il/elle": "aurait enfreint",
+			"nous": "aurions enfreint",
+			"vous": "auriez enfreint",
+			"ils/elles": "auraient enfreint"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse enfreint",
+			"tu": "eusses enfreint",
+			"il/elle": "eût enfreint",
+			"nous": "eussions enfreint",
+			"vous": "eussiez enfreint",
+			"ils/elles": "eussent enfreint"
+		}
+	},
+	"participe": {
+		"présent": { "enfreignant": "" },
+		"passé composé": { "ayant": "enfreint" },
+		"passé": {
+			"masc.sg.:": "enfreint",
+			"masc.pl.:": "enfreints",
+			"fém.sg.:": "enfreinte",
+			"fém.pl.:": "enfreintes"
+		}
+	},
+	"imperatif": {
+		"présent": { "enfreins": "", "enfreignons": "", "enfreignez": "" },
+		"passé": { "aie": "enfreint", "ayons": "enfreint", "ayez": "enfreint" }
+	},
+	"infinitif": {
+		"présent": { "enfreindre": "" },
+		"passé": { "avoir": "enfreint" }
+	}
+}

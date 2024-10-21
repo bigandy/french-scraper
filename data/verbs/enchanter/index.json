@@ -1,0 +1,143 @@
+{
+	"name": "enchanter",
+	"definition": "enchant; delight; be enchanted; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'enchanter/ne pas enchanter/ne pas s'enchanter",
+	"indicatif": {
+		"présent": {
+			"j'": "enchante",
+			"tu": "enchantes",
+			"il/elle": "enchante",
+			"nous": "enchantons",
+			"vous": "enchantez",
+			"ils/elles": "enchantent"
+		},
+		"imparfait": {
+			"j'": "enchantais",
+			"tu": "enchantais",
+			"il/elle": "enchantait",
+			"nous": "enchantions",
+			"vous": "enchantiez",
+			"ils/elles": "enchantaient"
+		},
+		"futur": {
+			"j'": "enchanterai",
+			"tu": "enchanteras",
+			"il/elle": "enchantera",
+			"nous": "enchanterons",
+			"vous": "enchanterez",
+			"ils/elles": "enchanteront"
+		},
+		"passé simple": {
+			"j'": "enchantai",
+			"tu": "enchantas",
+			"il/elle": "enchanta",
+			"nous": "enchantâmes",
+			"vous": "enchantâtes",
+			"ils/elles": "enchantèrent"
+		},
+		"passé composé": {
+			"j'": "ai enchanté",
+			"tu": "as enchanté",
+			"il/elle": "a enchanté",
+			"nous": "avons enchanté",
+			"vous": "avez enchanté",
+			"ils/elles": "ont enchanté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais enchanté",
+			"tu": "avais enchanté",
+			"il/elle": "avait enchanté",
+			"nous": "avions enchanté",
+			"vous": "aviez enchanté",
+			"ils/elles": "avaient enchanté"
+		},
+		"passé antérieur": {
+			"j'": "eus enchanté",
+			"tu": "eus enchanté",
+			"il/elle": "eut enchanté",
+			"nous": "eûmes enchanté",
+			"vous": "eûtes enchanté",
+			"ils/elles": "eurent enchanté"
+		},
+		"futur antérieur": {
+			"j'": "aurai enchanté",
+			"tu": "auras enchanté",
+			"il/elle": "aura enchanté",
+			"nous": "aurons enchanté",
+			"vous": "aurez enchanté",
+			"ils/elles": "auront enchanté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "enchante",
+			"que": "vous enchantiez",
+			"qu'il/elle": "enchante",
+			"qu'ils/elles": "enchantent"
+		},
+		"imparfait": {
+			"j'": "enchantasse",
+			"que": "vous enchantassiez",
+			"qu'il/elle": "enchantât",
+			"qu'ils/elles": "enchantassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse enchanté",
+			"que": "vous eussiez enchanté",
+			"qu'il/elle": "eût enchanté",
+			"qu'ils/elles": "eussent enchanté"
+		},
+		"passé": {
+			"j'": "aie enchanté",
+			"que": "vous ayez enchanté",
+			"qu'il/elle": "ait enchanté",
+			"qu'ils/elles": "aient enchanté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "enchanterais",
+			"tu": "enchanterais",
+			"il/elle": "enchanterait",
+			"nous": "enchanterions",
+			"vous": "enchanteriez",
+			"ils/elles": "enchanteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais enchanté",
+			"tu": "aurais enchanté",
+			"il/elle": "aurait enchanté",
+			"nous": "aurions enchanté",
+			"vous": "auriez enchanté",
+			"ils/elles": "auraient enchanté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse enchanté",
+			"tu": "eusses enchanté",
+			"il/elle": "eût enchanté",
+			"nous": "eussions enchanté",
+			"vous": "eussiez enchanté",
+			"ils/elles": "eussent enchanté"
+		}
+	},
+	"participe": {
+		"présent": { "enchantant": "" },
+		"passé composé": { "ayant": "enchanté" },
+		"passé": {
+			"masc.sg.:": "enchanté",
+			"masc.pl.:": "enchantés",
+			"fém.sg.:": "enchantée",
+			"fém.pl.:": "enchantées"
+		}
+	},
+	"imperatif": {
+		"présent": { "enchante": "", "enchantons": "", "enchantez": "" },
+		"passé": { "aie": "enchanté", "ayons": "enchanté", "ayez": "enchanté" }
+	},
+	"infinitif": {
+		"présent": { "enchanter": "" },
+		"passé": { "avoir": "enchanté" }
+	}
+}

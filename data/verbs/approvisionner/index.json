@@ -1,0 +1,151 @@
+{
+	"name": "approvisionner",
+	"definition": "supply; source; provision; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'approvisionner/ne pas approvisionner/ne pas s'approvisionner",
+	"indicatif": {
+		"présent": {
+			"j'": "approvisionne",
+			"tu": "approvisionnes",
+			"il/elle": "approvisionne",
+			"nous": "approvisionnons",
+			"vous": "approvisionnez",
+			"ils/elles": "approvisionnent"
+		},
+		"imparfait": {
+			"j'": "approvisionnais",
+			"tu": "approvisionnais",
+			"il/elle": "approvisionnait",
+			"nous": "approvisionnions",
+			"vous": "approvisionniez",
+			"ils/elles": "approvisionnaient"
+		},
+		"futur": {
+			"j'": "approvisionnerai",
+			"tu": "approvisionneras",
+			"il/elle": "approvisionnera",
+			"nous": "approvisionnerons",
+			"vous": "approvisionnerez",
+			"ils/elles": "approvisionneront"
+		},
+		"passé simple": {
+			"j'": "approvisionnai",
+			"tu": "approvisionnas",
+			"il/elle": "approvisionna",
+			"nous": "approvisionnâmes",
+			"vous": "approvisionnâtes",
+			"ils/elles": "approvisionnèrent"
+		},
+		"passé composé": {
+			"j'": "ai approvisionné",
+			"tu": "as approvisionné",
+			"il/elle": "a approvisionné",
+			"nous": "avons approvisionné",
+			"vous": "avez approvisionné",
+			"ils/elles": "ont approvisionné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais approvisionné",
+			"tu": "avais approvisionné",
+			"il/elle": "avait approvisionné",
+			"nous": "avions approvisionné",
+			"vous": "aviez approvisionné",
+			"ils/elles": "avaient approvisionné"
+		},
+		"passé antérieur": {
+			"j'": "eus approvisionné",
+			"tu": "eus approvisionné",
+			"il/elle": "eut approvisionné",
+			"nous": "eûmes approvisionné",
+			"vous": "eûtes approvisionné",
+			"ils/elles": "eurent approvisionné"
+		},
+		"futur antérieur": {
+			"j'": "aurai approvisionné",
+			"tu": "auras approvisionné",
+			"il/elle": "aura approvisionné",
+			"nous": "aurons approvisionné",
+			"vous": "aurez approvisionné",
+			"ils/elles": "auront approvisionné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "approvisionne",
+			"que": "vous approvisionniez",
+			"qu'il/elle": "approvisionne",
+			"qu'ils/elles": "approvisionnent"
+		},
+		"imparfait": {
+			"j'": "approvisionnasse",
+			"que": "vous approvisionnassiez",
+			"qu'il/elle": "approvisionnât",
+			"qu'ils/elles": "approvisionnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse approvisionné",
+			"que": "vous eussiez approvisionné",
+			"qu'il/elle": "eût approvisionné",
+			"qu'ils/elles": "eussent approvisionné"
+		},
+		"passé": {
+			"j'": "aie approvisionné",
+			"que": "vous ayez approvisionné",
+			"qu'il/elle": "ait approvisionné",
+			"qu'ils/elles": "aient approvisionné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "approvisionnerais",
+			"tu": "approvisionnerais",
+			"il/elle": "approvisionnerait",
+			"nous": "approvisionnerions",
+			"vous": "approvisionneriez",
+			"ils/elles": "approvisionneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais approvisionné",
+			"tu": "aurais approvisionné",
+			"il/elle": "aurait approvisionné",
+			"nous": "aurions approvisionné",
+			"vous": "auriez approvisionné",
+			"ils/elles": "auraient approvisionné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse approvisionné",
+			"tu": "eusses approvisionné",
+			"il/elle": "eût approvisionné",
+			"nous": "eussions approvisionné",
+			"vous": "eussiez approvisionné",
+			"ils/elles": "eussent approvisionné"
+		}
+	},
+	"participe": {
+		"présent": { "approvisionnant": "" },
+		"passé composé": { "ayant": "approvisionné" },
+		"passé": {
+			"masc.sg.:": "approvisionné",
+			"masc.pl.:": "approvisionnés",
+			"fém.sg.:": "approvisionnée",
+			"fém.pl.:": "approvisionnées"
+		}
+	},
+	"imperatif": {
+		"présent": {
+			"approvisionne": "",
+			"approvisionnons": "",
+			"approvisionnez": ""
+		},
+		"passé": {
+			"aie": "approvisionné",
+			"ayons": "approvisionné",
+			"ayez": "approvisionné"
+		}
+	},
+	"infinitif": {
+		"présent": { "approvisionner": "" },
+		"passé": { "avoir": "approvisionné" }
+	}
+}

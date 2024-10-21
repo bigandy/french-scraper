@@ -1,0 +1,138 @@
+{
+	"name": "tricher",
+	"definition": "cheat; play dirty; delude; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se tricher/ne pas tricher/ne pas se tricher",
+	"indicatif": {
+		"présent": {
+			"je": "triche",
+			"tu": "triches",
+			"il/elle": "triche",
+			"nous": "trichons",
+			"vous": "trichez",
+			"ils/elles": "trichent"
+		},
+		"imparfait": {
+			"je": "trichais",
+			"tu": "trichais",
+			"il/elle": "trichait",
+			"nous": "trichions",
+			"vous": "trichiez",
+			"ils/elles": "trichaient"
+		},
+		"futur": {
+			"je": "tricherai",
+			"tu": "tricheras",
+			"il/elle": "trichera",
+			"nous": "tricherons",
+			"vous": "tricherez",
+			"ils/elles": "tricheront"
+		},
+		"passé simple": {
+			"je": "trichai",
+			"tu": "trichas",
+			"il/elle": "tricha",
+			"nous": "trichâmes",
+			"vous": "trichâtes",
+			"ils/elles": "trichèrent"
+		},
+		"passé composé": {
+			"j'": "ai triché",
+			"tu": "as triché",
+			"il/elle": "a triché",
+			"nous": "avons triché",
+			"vous": "avez triché",
+			"ils/elles": "ont triché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais triché",
+			"tu": "avais triché",
+			"il/elle": "avait triché",
+			"nous": "avions triché",
+			"vous": "aviez triché",
+			"ils/elles": "avaient triché"
+		},
+		"passé antérieur": {
+			"j'": "eus triché",
+			"tu": "eus triché",
+			"il/elle": "eut triché",
+			"nous": "eûmes triché",
+			"vous": "eûtes triché",
+			"ils/elles": "eurent triché"
+		},
+		"futur antérieur": {
+			"j'": "aurai triché",
+			"tu": "auras triché",
+			"il/elle": "aura triché",
+			"nous": "aurons triché",
+			"vous": "aurez triché",
+			"ils/elles": "auront triché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous trichiez",
+			"qu'il/elle": "triche",
+			"qu'ils/elles": "trichent"
+		},
+		"imparfait": {
+			"que": "vous trichassiez",
+			"qu'il/elle": "trichât",
+			"qu'ils/elles": "trichassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse triché",
+			"que": "vous eussiez triché",
+			"qu'il/elle": "eût triché",
+			"qu'ils/elles": "eussent triché"
+		},
+		"passé": {
+			"j'": "aie triché",
+			"que": "vous ayez triché",
+			"qu'il/elle": "ait triché",
+			"qu'ils/elles": "aient triché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "tricherais",
+			"tu": "tricherais",
+			"il/elle": "tricherait",
+			"nous": "tricherions",
+			"vous": "tricheriez",
+			"ils/elles": "tricheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais triché",
+			"tu": "aurais triché",
+			"il/elle": "aurait triché",
+			"nous": "aurions triché",
+			"vous": "auriez triché",
+			"ils/elles": "auraient triché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse triché",
+			"tu": "eusses triché",
+			"il/elle": "eût triché",
+			"nous": "eussions triché",
+			"vous": "eussiez triché",
+			"ils/elles": "eussent triché"
+		}
+	},
+	"participe": {
+		"présent": { "trichant": "" },
+		"passé composé": { "ayant": "triché" },
+		"passé": {
+			"masc.sg.:": "triché",
+			"masc.pl.:": "trichés",
+			"fém.sg.:": "trichée",
+			"fém.pl.:": "trichées"
+		}
+	},
+	"imperatif": {
+		"présent": { "triche": "", "trichons": "", "trichez": "" },
+		"passé": { "aie": "triché", "ayons": "triché", "ayez": "triché" }
+	},
+	"infinitif": { "présent": { "tricher": "" }, "passé": { "avoir": "triché" } }
+}

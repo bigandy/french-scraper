@@ -1,0 +1,141 @@
+{
+	"name": "lubrifier",
+	"definition": "lubricate; grease; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se lubrifier/ne pas lubrifier/ne pas se lubrifier",
+	"indicatif": {
+		"présent": {
+			"je": "lubrifie",
+			"tu": "lubrifies",
+			"il/elle": "lubrifie",
+			"nous": "lubrifions",
+			"vous": "lubrifiez",
+			"ils/elles": "lubrifient"
+		},
+		"imparfait": {
+			"je": "lubrifiais",
+			"tu": "lubrifiais",
+			"il/elle": "lubrifiait",
+			"nous": "lubrifiions",
+			"vous": "lubrifiiez",
+			"ils/elles": "lubrifiaient"
+		},
+		"futur": {
+			"je": "lubrifierai",
+			"tu": "lubrifieras",
+			"il/elle": "lubrifiera",
+			"nous": "lubrifierons",
+			"vous": "lubrifierez",
+			"ils/elles": "lubrifieront"
+		},
+		"passé simple": {
+			"je": "lubrifiai",
+			"tu": "lubrifias",
+			"il/elle": "lubrifia",
+			"nous": "lubrifiâmes",
+			"vous": "lubrifiâtes",
+			"ils/elles": "lubrifièrent"
+		},
+		"passé composé": {
+			"j'": "ai lubrifié",
+			"tu": "as lubrifié",
+			"il/elle": "a lubrifié",
+			"nous": "avons lubrifié",
+			"vous": "avez lubrifié",
+			"ils/elles": "ont lubrifié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais lubrifié",
+			"tu": "avais lubrifié",
+			"il/elle": "avait lubrifié",
+			"nous": "avions lubrifié",
+			"vous": "aviez lubrifié",
+			"ils/elles": "avaient lubrifié"
+		},
+		"passé antérieur": {
+			"j'": "eus lubrifié",
+			"tu": "eus lubrifié",
+			"il/elle": "eut lubrifié",
+			"nous": "eûmes lubrifié",
+			"vous": "eûtes lubrifié",
+			"ils/elles": "eurent lubrifié"
+		},
+		"futur antérieur": {
+			"j'": "aurai lubrifié",
+			"tu": "auras lubrifié",
+			"il/elle": "aura lubrifié",
+			"nous": "aurons lubrifié",
+			"vous": "aurez lubrifié",
+			"ils/elles": "auront lubrifié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous lubrifiiez",
+			"qu'il/elle": "lubrifie",
+			"qu'ils/elles": "lubrifient"
+		},
+		"imparfait": {
+			"que": "vous lubrifiassiez",
+			"qu'il/elle": "lubrifiât",
+			"qu'ils/elles": "lubrifiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse lubrifié",
+			"que": "vous eussiez lubrifié",
+			"qu'il/elle": "eût lubrifié",
+			"qu'ils/elles": "eussent lubrifié"
+		},
+		"passé": {
+			"j'": "aie lubrifié",
+			"que": "vous ayez lubrifié",
+			"qu'il/elle": "ait lubrifié",
+			"qu'ils/elles": "aient lubrifié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "lubrifierais",
+			"tu": "lubrifierais",
+			"il/elle": "lubrifierait",
+			"nous": "lubrifierions",
+			"vous": "lubrifieriez",
+			"ils/elles": "lubrifieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais lubrifié",
+			"tu": "aurais lubrifié",
+			"il/elle": "aurait lubrifié",
+			"nous": "aurions lubrifié",
+			"vous": "auriez lubrifié",
+			"ils/elles": "auraient lubrifié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse lubrifié",
+			"tu": "eusses lubrifié",
+			"il/elle": "eût lubrifié",
+			"nous": "eussions lubrifié",
+			"vous": "eussiez lubrifié",
+			"ils/elles": "eussent lubrifié"
+		}
+	},
+	"participe": {
+		"présent": { "lubrifiant": "" },
+		"passé composé": { "ayant": "lubrifié" },
+		"passé": {
+			"masc.sg.:": "lubrifié",
+			"masc.pl.:": "lubrifiés",
+			"fém.sg.:": "lubrifiée",
+			"fém.pl.:": "lubrifiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "lubrifie": "", "lubrifions": "", "lubrifiez": "" },
+		"passé": { "aie": "lubrifié", "ayons": "lubrifié", "ayez": "lubrifié" }
+	},
+	"infinitif": {
+		"présent": { "lubrifier": "" },
+		"passé": { "avoir": "lubrifié" }
+	}
+}

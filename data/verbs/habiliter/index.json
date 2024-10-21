@@ -1,0 +1,143 @@
+{
+	"name": "habiliter",
+	"definition": "empower; enable; authorize; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'habiliter/ne pas habiliter/ne pas s'habiliter",
+	"indicatif": {
+		"présent": {
+			"j'": "habilite",
+			"tu": "habilites",
+			"il/elle": "habilite",
+			"nous": "habilitons",
+			"vous": "habilitez",
+			"ils/elles": "habilitent"
+		},
+		"imparfait": {
+			"j'": "habilitais",
+			"tu": "habilitais",
+			"il/elle": "habilitait",
+			"nous": "habilitions",
+			"vous": "habilitiez",
+			"ils/elles": "habilitaient"
+		},
+		"futur": {
+			"j'": "habiliterai",
+			"tu": "habiliteras",
+			"il/elle": "habilitera",
+			"nous": "habiliterons",
+			"vous": "habiliterez",
+			"ils/elles": "habiliteront"
+		},
+		"passé simple": {
+			"j'": "habilitai",
+			"tu": "habilitas",
+			"il/elle": "habilita",
+			"nous": "habilitâmes",
+			"vous": "habilitâtes",
+			"ils/elles": "habilitèrent"
+		},
+		"passé composé": {
+			"j'": "ai habilité",
+			"tu": "as habilité",
+			"il/elle": "a habilité",
+			"nous": "avons habilité",
+			"vous": "avez habilité",
+			"ils/elles": "ont habilité"
+		},
+		"plus-que-parfait": {
+			"j'": "avais habilité",
+			"tu": "avais habilité",
+			"il/elle": "avait habilité",
+			"nous": "avions habilité",
+			"vous": "aviez habilité",
+			"ils/elles": "avaient habilité"
+		},
+		"passé antérieur": {
+			"j'": "eus habilité",
+			"tu": "eus habilité",
+			"il/elle": "eut habilité",
+			"nous": "eûmes habilité",
+			"vous": "eûtes habilité",
+			"ils/elles": "eurent habilité"
+		},
+		"futur antérieur": {
+			"j'": "aurai habilité",
+			"tu": "auras habilité",
+			"il/elle": "aura habilité",
+			"nous": "aurons habilité",
+			"vous": "aurez habilité",
+			"ils/elles": "auront habilité"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "habilite",
+			"que": "vous habilitiez",
+			"qu'il/elle": "habilite",
+			"qu'ils/elles": "habilitent"
+		},
+		"imparfait": {
+			"j'": "habilitasse",
+			"que": "vous habilitassiez",
+			"qu'il/elle": "habilitât",
+			"qu'ils/elles": "habilitassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse habilité",
+			"que": "vous eussiez habilité",
+			"qu'il/elle": "eût habilité",
+			"qu'ils/elles": "eussent habilité"
+		},
+		"passé": {
+			"j'": "aie habilité",
+			"que": "vous ayez habilité",
+			"qu'il/elle": "ait habilité",
+			"qu'ils/elles": "aient habilité"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "habiliterais",
+			"tu": "habiliterais",
+			"il/elle": "habiliterait",
+			"nous": "habiliterions",
+			"vous": "habiliteriez",
+			"ils/elles": "habiliteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais habilité",
+			"tu": "aurais habilité",
+			"il/elle": "aurait habilité",
+			"nous": "aurions habilité",
+			"vous": "auriez habilité",
+			"ils/elles": "auraient habilité"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse habilité",
+			"tu": "eusses habilité",
+			"il/elle": "eût habilité",
+			"nous": "eussions habilité",
+			"vous": "eussiez habilité",
+			"ils/elles": "eussent habilité"
+		}
+	},
+	"participe": {
+		"présent": { "habilitant": "" },
+		"passé composé": { "ayant": "habilité" },
+		"passé": {
+			"masc.sg.:": "habilité",
+			"masc.pl.:": "habilités",
+			"fém.sg.:": "habilitée",
+			"fém.pl.:": "habilitées"
+		}
+	},
+	"imperatif": {
+		"présent": { "habilite": "", "habilitons": "", "habilitez": "" },
+		"passé": { "aie": "habilité", "ayons": "habilité", "ayez": "habilité" }
+	},
+	"infinitif": {
+		"présent": { "habiliter": "" },
+		"passé": { "avoir": "habilité" }
+	}
+}

@@ -1,0 +1,143 @@
+{
+	"name": "applaudir",
+	"definition": "applaud; clap; cheer; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "s'applaudir/ne pas applaudir/ne pas s'applaudir",
+	"indicatif": {
+		"présent": {
+			"j'": "applaudis",
+			"tu": "applaudis",
+			"il/elle": "applaudit",
+			"nous": "applaudissons",
+			"vous": "applaudissez",
+			"ils/elles": "applaudissent"
+		},
+		"imparfait": {
+			"j'": "applaudissais",
+			"tu": "applaudissais",
+			"il/elle": "applaudissait",
+			"nous": "applaudissions",
+			"vous": "applaudissiez",
+			"ils/elles": "applaudissaient"
+		},
+		"futur": {
+			"j'": "applaudirai",
+			"tu": "applaudiras",
+			"il/elle": "applaudira",
+			"nous": "applaudirons",
+			"vous": "applaudirez",
+			"ils/elles": "applaudiront"
+		},
+		"passé simple": {
+			"j'": "applaudis",
+			"tu": "applaudis",
+			"il/elle": "applaudit",
+			"nous": "applaudîmes",
+			"vous": "applaudîtes",
+			"ils/elles": "applaudirent"
+		},
+		"passé composé": {
+			"j'": "ai applaudi",
+			"tu": "as applaudi",
+			"il/elle": "a applaudi",
+			"nous": "avons applaudi",
+			"vous": "avez applaudi",
+			"ils/elles": "ont applaudi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais applaudi",
+			"tu": "avais applaudi",
+			"il/elle": "avait applaudi",
+			"nous": "avions applaudi",
+			"vous": "aviez applaudi",
+			"ils/elles": "avaient applaudi"
+		},
+		"passé antérieur": {
+			"j'": "eus applaudi",
+			"tu": "eus applaudi",
+			"il/elle": "eut applaudi",
+			"nous": "eûmes applaudi",
+			"vous": "eûtes applaudi",
+			"ils/elles": "eurent applaudi"
+		},
+		"futur antérieur": {
+			"j'": "aurai applaudi",
+			"tu": "auras applaudi",
+			"il/elle": "aura applaudi",
+			"nous": "aurons applaudi",
+			"vous": "aurez applaudi",
+			"ils/elles": "auront applaudi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "applaudisse",
+			"que": "vous applaudissiez",
+			"qu'il/elle": "applaudisse",
+			"qu'ils/elles": "applaudissent"
+		},
+		"imparfait": {
+			"j'": "applaudisse",
+			"que": "vous applaudissiez",
+			"qu'il/elle": "applaudît",
+			"qu'ils/elles": "applaudissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse applaudi",
+			"que": "vous eussiez applaudi",
+			"qu'il/elle": "eût applaudi",
+			"qu'ils/elles": "eussent applaudi"
+		},
+		"passé": {
+			"j'": "aie applaudi",
+			"que": "vous ayez applaudi",
+			"qu'il/elle": "ait applaudi",
+			"qu'ils/elles": "aient applaudi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "applaudirais",
+			"tu": "applaudirais",
+			"il/elle": "applaudirait",
+			"nous": "applaudirions",
+			"vous": "applaudiriez",
+			"ils/elles": "applaudiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais applaudi",
+			"tu": "aurais applaudi",
+			"il/elle": "aurait applaudi",
+			"nous": "aurions applaudi",
+			"vous": "auriez applaudi",
+			"ils/elles": "auraient applaudi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse applaudi",
+			"tu": "eusses applaudi",
+			"il/elle": "eût applaudi",
+			"nous": "eussions applaudi",
+			"vous": "eussiez applaudi",
+			"ils/elles": "eussent applaudi"
+		}
+	},
+	"participe": {
+		"présent": { "applaudissant": "" },
+		"passé composé": { "ayant": "applaudi" },
+		"passé": {
+			"masc.sg.:": "applaudi",
+			"masc.pl.:": "applaudis",
+			"fém.sg.:": "applaudie",
+			"fém.pl.:": "applaudies"
+		}
+	},
+	"imperatif": {
+		"présent": { "applaudis": "", "applaudissons": "", "applaudissez": "" },
+		"passé": { "aie": "applaudi", "ayons": "applaudi", "ayez": "applaudi" }
+	},
+	"infinitif": {
+		"présent": { "applaudir": "" },
+		"passé": { "avoir": "applaudi" }
+	}
+}

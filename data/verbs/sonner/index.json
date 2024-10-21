@@ -1,0 +1,194 @@
+{
+	"name": "sonner",
+	"definition": "ring; sound; ring the bell; ...",
+	"model": "marcher",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "se sonner/ne pas sonner/ne pas se sonner",
+	"indicatif": {
+		"présent": {
+			"je": "sonne",
+			"tu": "sonnes",
+			"il/elle": "sonne",
+			"nous": "sonnons",
+			"vous": "sonnez",
+			"ils/elles": "sonnent"
+		},
+		"imparfait": {
+			"je": "sonnais",
+			"tu": "sonnais",
+			"il/elle": "sonnait",
+			"nous": "sonnions",
+			"vous": "sonniez",
+			"ils/elles": "sonnaient"
+		},
+		"futur": {
+			"je": "sonnerai",
+			"tu": "sonneras",
+			"il/elle": "sonnera",
+			"nous": "sonnerons",
+			"vous": "sonnerez",
+			"ils/elles": "sonneront"
+		},
+		"passé simple": {
+			"je": "sonnai",
+			"tu": "sonnas",
+			"il/elle": "sonna",
+			"nous": "sonnâmes",
+			"vous": "sonnâtes",
+			"ils/elles": "sonnèrent"
+		},
+		"passé composé": {
+			"j'": "ai sonné",
+			"tu": "es sonné",
+			"il/elle": "a sonné",
+			"nous": "sommes sonnés",
+			"vous": "êtes sonnés",
+			"ils/elles": "ont sonné",
+			"": "",
+			"je": "suis sonné",
+			"il": "est sonné",
+			"elle": "est sonnée",
+			"ils": "sont sonnés",
+			"elles": "sont sonnées"
+		},
+		"plus-que-parfait": {
+			"j'": "étais sonné",
+			"tu": "étais sonné",
+			"il/elle": "avait sonné",
+			"nous": "étions sonnés",
+			"vous": "étiez sonnés",
+			"ils/elles": "avaient sonné",
+			"": "",
+			"il": "était sonné",
+			"elle": "était sonnée",
+			"ils": "étaient sonnés",
+			"elles": "étaient sonnées"
+		},
+		"passé antérieur": {
+			"j'": "eus sonné",
+			"tu": "fus sonné",
+			"il/elle": "eut sonné",
+			"nous": "fûmes sonnés",
+			"vous": "fûtes sonnés",
+			"ils/elles": "eurent sonné",
+			"": "",
+			"je": "fus sonné",
+			"il": "fut sonné",
+			"elle": "fut sonnée",
+			"ils": "furent sonnés",
+			"elles": "furent sonnées"
+		},
+		"futur antérieur": {
+			"j'": "aurai sonné",
+			"tu": "seras sonné",
+			"il/elle": "aura sonné",
+			"nous": "serons sonnés",
+			"vous": "serez sonnés",
+			"ils/elles": "auront sonné",
+			"": "",
+			"je": "serai sonné",
+			"il": "sera sonné",
+			"elle": "sera sonnée",
+			"ils": "seront sonnés",
+			"elles": "seront sonnées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous sonniez",
+			"qu'il/elle": "sonne",
+			"qu'ils/elles": "sonnent"
+		},
+		"imparfait": {
+			"que": "vous sonnassiez",
+			"qu'il/elle": "sonnât",
+			"qu'ils/elles": "sonnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse sonné",
+			"que": "vous fussiez sonnés",
+			"qu'il/elle": "eût sonné",
+			"qu'ils/elles": "eussent sonné",
+			"": "",
+			"qu'il": "fût sonné",
+			"qu'elle": "fût sonnée",
+			"qu'ils": "fussent sonnés",
+			"qu'elles": "fussent sonnées"
+		},
+		"passé": {
+			"j'": "aie sonné",
+			"que": "vous soyez sonnés",
+			"qu'il/elle": "ait sonné",
+			"qu'ils/elles": "aient sonné",
+			"": "",
+			"qu'il": "soit sonné",
+			"qu'elle": "soit sonnée",
+			"qu'ils": "soient sonnés",
+			"qu'elles": "soient sonnées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "sonnerais",
+			"tu": "sonnerais",
+			"il/elle": "sonnerait",
+			"nous": "sonnerions",
+			"vous": "sonneriez",
+			"ils/elles": "sonneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais sonné",
+			"tu": "serais sonné",
+			"il/elle": "aurait sonné",
+			"nous": "serions sonnés",
+			"vous": "seriez sonnés",
+			"ils/elles": "auraient sonné",
+			"": "",
+			"je": "serais sonné",
+			"il": "serait sonné",
+			"elle": "serait sonnée",
+			"ils": "seraient sonnés",
+			"elles": "seraient sonnées"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse sonné",
+			"tu": "fusses sonné",
+			"il/elle": "eût sonné",
+			"nous": "fussions sonnés",
+			"vous": "fussiez sonnés",
+			"ils/elles": "eussent sonné",
+			"": "",
+			"je": "fusse sonné",
+			"il": "fût sonné",
+			"elle": "fût sonnée",
+			"ils": "fussent sonnés",
+			"elles": "fussent sonnées"
+		}
+	},
+	"participe": {
+		"présent": { "sonnant": "" },
+		"passé composé": { "ayant": "sonné", "": "", "étant": "sonnée" },
+		"passé": {
+			"masc.sg.:": "sonné",
+			"masc.pl.:": "sonnés",
+			"fém.sg.:": "sonnée",
+			"fém.pl.:": "sonnées"
+		}
+	},
+	"imperatif": {
+		"présent": { "sonne": "", "sonnons": "", "sonnez": "" },
+		"passé": {
+			"aie": "sonné",
+			"ayons": "sonné",
+			"ayez": "sonné",
+			"": "",
+			"sois": "sonné",
+			"soyons": "sonné",
+			"soyez": "sonné"
+		}
+	},
+	"infinitif": {
+		"présent": { "sonner": "" },
+		"passé": { "avoir": "sonné", "": "", "être": "sonné" }
+	}
+}

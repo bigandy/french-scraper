@@ -1,0 +1,138 @@
+{
+	"name": "briquer",
+	"definition": "polish up; scrub; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se briquer/ne pas briquer/ne pas se briquer",
+	"indicatif": {
+		"présent": {
+			"je": "brique",
+			"tu": "briques",
+			"il/elle": "brique",
+			"nous": "briquons",
+			"vous": "briquez",
+			"ils/elles": "briquent"
+		},
+		"imparfait": {
+			"je": "briquais",
+			"tu": "briquais",
+			"il/elle": "briquait",
+			"nous": "briquions",
+			"vous": "briquiez",
+			"ils/elles": "briquaient"
+		},
+		"futur": {
+			"je": "briquerai",
+			"tu": "briqueras",
+			"il/elle": "briquera",
+			"nous": "briquerons",
+			"vous": "briquerez",
+			"ils/elles": "briqueront"
+		},
+		"passé simple": {
+			"je": "briquai",
+			"tu": "briquas",
+			"il/elle": "briqua",
+			"nous": "briquâmes",
+			"vous": "briquâtes",
+			"ils/elles": "briquèrent"
+		},
+		"passé composé": {
+			"j'": "ai briqué",
+			"tu": "as briqué",
+			"il/elle": "a briqué",
+			"nous": "avons briqué",
+			"vous": "avez briqué",
+			"ils/elles": "ont briqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais briqué",
+			"tu": "avais briqué",
+			"il/elle": "avait briqué",
+			"nous": "avions briqué",
+			"vous": "aviez briqué",
+			"ils/elles": "avaient briqué"
+		},
+		"passé antérieur": {
+			"j'": "eus briqué",
+			"tu": "eus briqué",
+			"il/elle": "eut briqué",
+			"nous": "eûmes briqué",
+			"vous": "eûtes briqué",
+			"ils/elles": "eurent briqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai briqué",
+			"tu": "auras briqué",
+			"il/elle": "aura briqué",
+			"nous": "aurons briqué",
+			"vous": "aurez briqué",
+			"ils/elles": "auront briqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous briquiez",
+			"qu'il/elle": "brique",
+			"qu'ils/elles": "briquent"
+		},
+		"imparfait": {
+			"que": "vous briquassiez",
+			"qu'il/elle": "briquât",
+			"qu'ils/elles": "briquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse briqué",
+			"que": "vous eussiez briqué",
+			"qu'il/elle": "eût briqué",
+			"qu'ils/elles": "eussent briqué"
+		},
+		"passé": {
+			"j'": "aie briqué",
+			"que": "vous ayez briqué",
+			"qu'il/elle": "ait briqué",
+			"qu'ils/elles": "aient briqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "briquerais",
+			"tu": "briquerais",
+			"il/elle": "briquerait",
+			"nous": "briquerions",
+			"vous": "briqueriez",
+			"ils/elles": "briqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais briqué",
+			"tu": "aurais briqué",
+			"il/elle": "aurait briqué",
+			"nous": "aurions briqué",
+			"vous": "auriez briqué",
+			"ils/elles": "auraient briqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse briqué",
+			"tu": "eusses briqué",
+			"il/elle": "eût briqué",
+			"nous": "eussions briqué",
+			"vous": "eussiez briqué",
+			"ils/elles": "eussent briqué"
+		}
+	},
+	"participe": {
+		"présent": { "briquant": "" },
+		"passé composé": { "ayant": "briqué" },
+		"passé": {
+			"masc.sg.:": "briqué",
+			"masc.pl.:": "briqués",
+			"fém.sg.:": "briquée",
+			"fém.pl.:": "briquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "brique": "", "briquons": "", "briquez": "" },
+		"passé": { "aie": "briqué", "ayons": "briqué", "ayez": "briqué" }
+	},
+	"infinitif": { "présent": { "briquer": "" }, "passé": { "avoir": "briqué" } }
+}

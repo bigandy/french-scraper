@@ -1,0 +1,147 @@
+{
+	"name": "emprisonner",
+	"definition": "imprison; jail; trap; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'emprisonner/ne pas emprisonner/ne pas s'emprisonner",
+	"indicatif": {
+		"présent": {
+			"j'": "emprisonne",
+			"tu": "emprisonnes",
+			"il/elle": "emprisonne",
+			"nous": "emprisonnons",
+			"vous": "emprisonnez",
+			"ils/elles": "emprisonnent"
+		},
+		"imparfait": {
+			"j'": "emprisonnais",
+			"tu": "emprisonnais",
+			"il/elle": "emprisonnait",
+			"nous": "emprisonnions",
+			"vous": "emprisonniez",
+			"ils/elles": "emprisonnaient"
+		},
+		"futur": {
+			"j'": "emprisonnerai",
+			"tu": "emprisonneras",
+			"il/elle": "emprisonnera",
+			"nous": "emprisonnerons",
+			"vous": "emprisonnerez",
+			"ils/elles": "emprisonneront"
+		},
+		"passé simple": {
+			"j'": "emprisonnai",
+			"tu": "emprisonnas",
+			"il/elle": "emprisonna",
+			"nous": "emprisonnâmes",
+			"vous": "emprisonnâtes",
+			"ils/elles": "emprisonnèrent"
+		},
+		"passé composé": {
+			"j'": "ai emprisonné",
+			"tu": "as emprisonné",
+			"il/elle": "a emprisonné",
+			"nous": "avons emprisonné",
+			"vous": "avez emprisonné",
+			"ils/elles": "ont emprisonné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais emprisonné",
+			"tu": "avais emprisonné",
+			"il/elle": "avait emprisonné",
+			"nous": "avions emprisonné",
+			"vous": "aviez emprisonné",
+			"ils/elles": "avaient emprisonné"
+		},
+		"passé antérieur": {
+			"j'": "eus emprisonné",
+			"tu": "eus emprisonné",
+			"il/elle": "eut emprisonné",
+			"nous": "eûmes emprisonné",
+			"vous": "eûtes emprisonné",
+			"ils/elles": "eurent emprisonné"
+		},
+		"futur antérieur": {
+			"j'": "aurai emprisonné",
+			"tu": "auras emprisonné",
+			"il/elle": "aura emprisonné",
+			"nous": "aurons emprisonné",
+			"vous": "aurez emprisonné",
+			"ils/elles": "auront emprisonné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "emprisonne",
+			"que": "vous emprisonniez",
+			"qu'il/elle": "emprisonne",
+			"qu'ils/elles": "emprisonnent"
+		},
+		"imparfait": {
+			"j'": "emprisonnasse",
+			"que": "vous emprisonnassiez",
+			"qu'il/elle": "emprisonnât",
+			"qu'ils/elles": "emprisonnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse emprisonné",
+			"que": "vous eussiez emprisonné",
+			"qu'il/elle": "eût emprisonné",
+			"qu'ils/elles": "eussent emprisonné"
+		},
+		"passé": {
+			"j'": "aie emprisonné",
+			"que": "vous ayez emprisonné",
+			"qu'il/elle": "ait emprisonné",
+			"qu'ils/elles": "aient emprisonné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "emprisonnerais",
+			"tu": "emprisonnerais",
+			"il/elle": "emprisonnerait",
+			"nous": "emprisonnerions",
+			"vous": "emprisonneriez",
+			"ils/elles": "emprisonneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais emprisonné",
+			"tu": "aurais emprisonné",
+			"il/elle": "aurait emprisonné",
+			"nous": "aurions emprisonné",
+			"vous": "auriez emprisonné",
+			"ils/elles": "auraient emprisonné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse emprisonné",
+			"tu": "eusses emprisonné",
+			"il/elle": "eût emprisonné",
+			"nous": "eussions emprisonné",
+			"vous": "eussiez emprisonné",
+			"ils/elles": "eussent emprisonné"
+		}
+	},
+	"participe": {
+		"présent": { "emprisonnant": "" },
+		"passé composé": { "ayant": "emprisonné" },
+		"passé": {
+			"masc.sg.:": "emprisonné",
+			"masc.pl.:": "emprisonnés",
+			"fém.sg.:": "emprisonnée",
+			"fém.pl.:": "emprisonnées"
+		}
+	},
+	"imperatif": {
+		"présent": { "emprisonne": "", "emprisonnons": "", "emprisonnez": "" },
+		"passé": {
+			"aie": "emprisonné",
+			"ayons": "emprisonné",
+			"ayez": "emprisonné"
+		}
+	},
+	"infinitif": {
+		"présent": { "emprisonner": "" },
+		"passé": { "avoir": "emprisonné" }
+	}
+}

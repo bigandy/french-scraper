@@ -1,0 +1,145 @@
+{
+	"name": "réprimander",
+	"definition": "reprimand; scold; rebuke; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se réprimander/ne pas réprimander/ne pas se réprimander",
+	"indicatif": {
+		"présent": {
+			"je": "réprimande",
+			"tu": "réprimandes",
+			"il/elle": "réprimande",
+			"nous": "réprimandons",
+			"vous": "réprimandez",
+			"ils/elles": "réprimandent"
+		},
+		"imparfait": {
+			"je": "réprimandais",
+			"tu": "réprimandais",
+			"il/elle": "réprimandait",
+			"nous": "réprimandions",
+			"vous": "réprimandiez",
+			"ils/elles": "réprimandaient"
+		},
+		"futur": {
+			"je": "réprimanderai",
+			"tu": "réprimanderas",
+			"il/elle": "réprimandera",
+			"nous": "réprimanderons",
+			"vous": "réprimanderez",
+			"ils/elles": "réprimanderont"
+		},
+		"passé simple": {
+			"je": "réprimandai",
+			"tu": "réprimandas",
+			"il/elle": "réprimanda",
+			"nous": "réprimandâmes",
+			"vous": "réprimandâtes",
+			"ils/elles": "réprimandèrent"
+		},
+		"passé composé": {
+			"j'": "ai réprimandé",
+			"tu": "as réprimandé",
+			"il/elle": "a réprimandé",
+			"nous": "avons réprimandé",
+			"vous": "avez réprimandé",
+			"ils/elles": "ont réprimandé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais réprimandé",
+			"tu": "avais réprimandé",
+			"il/elle": "avait réprimandé",
+			"nous": "avions réprimandé",
+			"vous": "aviez réprimandé",
+			"ils/elles": "avaient réprimandé"
+		},
+		"passé antérieur": {
+			"j'": "eus réprimandé",
+			"tu": "eus réprimandé",
+			"il/elle": "eut réprimandé",
+			"nous": "eûmes réprimandé",
+			"vous": "eûtes réprimandé",
+			"ils/elles": "eurent réprimandé"
+		},
+		"futur antérieur": {
+			"j'": "aurai réprimandé",
+			"tu": "auras réprimandé",
+			"il/elle": "aura réprimandé",
+			"nous": "aurons réprimandé",
+			"vous": "aurez réprimandé",
+			"ils/elles": "auront réprimandé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous réprimandiez",
+			"qu'il/elle": "réprimande",
+			"qu'ils/elles": "réprimandent"
+		},
+		"imparfait": {
+			"que": "vous réprimandassiez",
+			"qu'il/elle": "réprimandât",
+			"qu'ils/elles": "réprimandassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse réprimandé",
+			"que": "vous eussiez réprimandé",
+			"qu'il/elle": "eût réprimandé",
+			"qu'ils/elles": "eussent réprimandé"
+		},
+		"passé": {
+			"j'": "aie réprimandé",
+			"que": "vous ayez réprimandé",
+			"qu'il/elle": "ait réprimandé",
+			"qu'ils/elles": "aient réprimandé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "réprimanderais",
+			"tu": "réprimanderais",
+			"il/elle": "réprimanderait",
+			"nous": "réprimanderions",
+			"vous": "réprimanderiez",
+			"ils/elles": "réprimanderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais réprimandé",
+			"tu": "aurais réprimandé",
+			"il/elle": "aurait réprimandé",
+			"nous": "aurions réprimandé",
+			"vous": "auriez réprimandé",
+			"ils/elles": "auraient réprimandé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse réprimandé",
+			"tu": "eusses réprimandé",
+			"il/elle": "eût réprimandé",
+			"nous": "eussions réprimandé",
+			"vous": "eussiez réprimandé",
+			"ils/elles": "eussent réprimandé"
+		}
+	},
+	"participe": {
+		"présent": { "réprimandant": "" },
+		"passé composé": { "ayant": "réprimandé" },
+		"passé": {
+			"masc.sg.:": "réprimandé",
+			"masc.pl.:": "réprimandés",
+			"fém.sg.:": "réprimandée",
+			"fém.pl.:": "réprimandées"
+		}
+	},
+	"imperatif": {
+		"présent": { "réprimande": "", "réprimandons": "", "réprimandez": "" },
+		"passé": {
+			"aie": "réprimandé",
+			"ayons": "réprimandé",
+			"ayez": "réprimandé"
+		}
+	},
+	"infinitif": {
+		"présent": { "réprimander": "" },
+		"passé": { "avoir": "réprimandé" }
+	}
+}

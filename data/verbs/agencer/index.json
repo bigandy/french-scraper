@@ -1,0 +1,140 @@
+{
+	"name": "agencer",
+	"definition": "arrange; ...",
+	"model": "commencer",
+	"auxiliary": "avoir",
+	"otherForms": "s'agencer/ne pas agencer/ne pas s'agencer",
+	"indicatif": {
+		"présent": {
+			"j'": "agence",
+			"tu": "agences",
+			"il/elle": "agence",
+			"nous": "agençons",
+			"vous": "agencez",
+			"ils/elles": "agencent"
+		},
+		"imparfait": {
+			"j'": "agençais",
+			"tu": "agençais",
+			"il/elle": "agençait",
+			"nous": "agencions",
+			"vous": "agenciez",
+			"ils/elles": "agençaient"
+		},
+		"futur": {
+			"j'": "agencerai",
+			"tu": "agenceras",
+			"il/elle": "agencera",
+			"nous": "agencerons",
+			"vous": "agencerez",
+			"ils/elles": "agenceront"
+		},
+		"passé simple": {
+			"j'": "agençai",
+			"tu": "agenças",
+			"il/elle": "agença",
+			"nous": "agençâmes",
+			"vous": "agençâtes",
+			"ils/elles": "agencèrent"
+		},
+		"passé composé": {
+			"j'": "ai agencé",
+			"tu": "as agencé",
+			"il/elle": "a agencé",
+			"nous": "avons agencé",
+			"vous": "avez agencé",
+			"ils/elles": "ont agencé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais agencé",
+			"tu": "avais agencé",
+			"il/elle": "avait agencé",
+			"nous": "avions agencé",
+			"vous": "aviez agencé",
+			"ils/elles": "avaient agencé"
+		},
+		"passé antérieur": {
+			"j'": "eus agencé",
+			"tu": "eus agencé",
+			"il/elle": "eut agencé",
+			"nous": "eûmes agencé",
+			"vous": "eûtes agencé",
+			"ils/elles": "eurent agencé"
+		},
+		"futur antérieur": {
+			"j'": "aurai agencé",
+			"tu": "auras agencé",
+			"il/elle": "aura agencé",
+			"nous": "aurons agencé",
+			"vous": "aurez agencé",
+			"ils/elles": "auront agencé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "agence",
+			"que": "vous agenciez",
+			"qu'il/elle": "agence",
+			"qu'ils/elles": "agencent"
+		},
+		"imparfait": {
+			"j'": "agençasse",
+			"que": "vous agençassiez",
+			"qu'il/elle": "agençât",
+			"qu'ils/elles": "agençassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse agencé",
+			"que": "vous eussiez agencé",
+			"qu'il/elle": "eût agencé",
+			"qu'ils/elles": "eussent agencé"
+		},
+		"passé": {
+			"j'": "aie agencé",
+			"que": "vous ayez agencé",
+			"qu'il/elle": "ait agencé",
+			"qu'ils/elles": "aient agencé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "agencerais",
+			"tu": "agencerais",
+			"il/elle": "agencerait",
+			"nous": "agencerions",
+			"vous": "agenceriez",
+			"ils/elles": "agenceraient"
+		},
+		"passé première forme": {
+			"j'": "aurais agencé",
+			"tu": "aurais agencé",
+			"il/elle": "aurait agencé",
+			"nous": "aurions agencé",
+			"vous": "auriez agencé",
+			"ils/elles": "auraient agencé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse agencé",
+			"tu": "eusses agencé",
+			"il/elle": "eût agencé",
+			"nous": "eussions agencé",
+			"vous": "eussiez agencé",
+			"ils/elles": "eussent agencé"
+		}
+	},
+	"participe": {
+		"présent": { "agençant": "" },
+		"passé composé": { "ayant": "agencé" },
+		"passé": {
+			"masc.sg.:": "agencé",
+			"masc.pl.:": "agencés",
+			"fém.sg.:": "agencée",
+			"fém.pl.:": "agencées"
+		}
+	},
+	"imperatif": {
+		"présent": { "agence": "", "agençons": "", "agencez": "" },
+		"passé": { "aie": "agencé", "ayons": "agencé", "ayez": "agencé" }
+	},
+	"infinitif": { "présent": { "agencer": "" }, "passé": { "avoir": "agencé" } }
+}

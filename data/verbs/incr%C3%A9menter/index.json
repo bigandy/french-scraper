@@ -1,0 +1,147 @@
+{
+	"name": "incrémenter",
+	"definition": "increment; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'incrémenter/ne pas incrémenter/ne pas s'incrémenter",
+	"indicatif": {
+		"présent": {
+			"j'": "incrémente",
+			"tu": "incrémentes",
+			"il/elle": "incrémente",
+			"nous": "incrémentons",
+			"vous": "incrémentez",
+			"ils/elles": "incrémentent"
+		},
+		"imparfait": {
+			"j'": "incrémentais",
+			"tu": "incrémentais",
+			"il/elle": "incrémentait",
+			"nous": "incrémentions",
+			"vous": "incrémentiez",
+			"ils/elles": "incrémentaient"
+		},
+		"futur": {
+			"j'": "incrémenterai",
+			"tu": "incrémenteras",
+			"il/elle": "incrémentera",
+			"nous": "incrémenterons",
+			"vous": "incrémenterez",
+			"ils/elles": "incrémenteront"
+		},
+		"passé simple": {
+			"j'": "incrémentai",
+			"tu": "incrémentas",
+			"il/elle": "incrémenta",
+			"nous": "incrémentâmes",
+			"vous": "incrémentâtes",
+			"ils/elles": "incrémentèrent"
+		},
+		"passé composé": {
+			"j'": "ai incrémenté",
+			"tu": "as incrémenté",
+			"il/elle": "a incrémenté",
+			"nous": "avons incrémenté",
+			"vous": "avez incrémenté",
+			"ils/elles": "ont incrémenté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais incrémenté",
+			"tu": "avais incrémenté",
+			"il/elle": "avait incrémenté",
+			"nous": "avions incrémenté",
+			"vous": "aviez incrémenté",
+			"ils/elles": "avaient incrémenté"
+		},
+		"passé antérieur": {
+			"j'": "eus incrémenté",
+			"tu": "eus incrémenté",
+			"il/elle": "eut incrémenté",
+			"nous": "eûmes incrémenté",
+			"vous": "eûtes incrémenté",
+			"ils/elles": "eurent incrémenté"
+		},
+		"futur antérieur": {
+			"j'": "aurai incrémenté",
+			"tu": "auras incrémenté",
+			"il/elle": "aura incrémenté",
+			"nous": "aurons incrémenté",
+			"vous": "aurez incrémenté",
+			"ils/elles": "auront incrémenté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "incrémente",
+			"que": "vous incrémentiez",
+			"qu'il/elle": "incrémente",
+			"qu'ils/elles": "incrémentent"
+		},
+		"imparfait": {
+			"j'": "incrémentasse",
+			"que": "vous incrémentassiez",
+			"qu'il/elle": "incrémentât",
+			"qu'ils/elles": "incrémentassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse incrémenté",
+			"que": "vous eussiez incrémenté",
+			"qu'il/elle": "eût incrémenté",
+			"qu'ils/elles": "eussent incrémenté"
+		},
+		"passé": {
+			"j'": "aie incrémenté",
+			"que": "vous ayez incrémenté",
+			"qu'il/elle": "ait incrémenté",
+			"qu'ils/elles": "aient incrémenté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "incrémenterais",
+			"tu": "incrémenterais",
+			"il/elle": "incrémenterait",
+			"nous": "incrémenterions",
+			"vous": "incrémenteriez",
+			"ils/elles": "incrémenteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais incrémenté",
+			"tu": "aurais incrémenté",
+			"il/elle": "aurait incrémenté",
+			"nous": "aurions incrémenté",
+			"vous": "auriez incrémenté",
+			"ils/elles": "auraient incrémenté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse incrémenté",
+			"tu": "eusses incrémenté",
+			"il/elle": "eût incrémenté",
+			"nous": "eussions incrémenté",
+			"vous": "eussiez incrémenté",
+			"ils/elles": "eussent incrémenté"
+		}
+	},
+	"participe": {
+		"présent": { "incrémentant": "" },
+		"passé composé": { "ayant": "incrémenté" },
+		"passé": {
+			"masc.sg.:": "incrémenté",
+			"masc.pl.:": "incrémentés",
+			"fém.sg.:": "incrémentée",
+			"fém.pl.:": "incrémentées"
+		}
+	},
+	"imperatif": {
+		"présent": { "incrémente": "", "incrémentons": "", "incrémentez": "" },
+		"passé": {
+			"aie": "incrémenté",
+			"ayons": "incrémenté",
+			"ayez": "incrémenté"
+		}
+	},
+	"infinitif": {
+		"présent": { "incrémenter": "" },
+		"passé": { "avoir": "incrémenté" }
+	}
+}

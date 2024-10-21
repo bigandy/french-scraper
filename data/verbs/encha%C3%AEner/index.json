@@ -1,0 +1,143 @@
+{
+	"name": "enchaîner",
+	"definition": "chain; follow up; shackle; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'enchaîner/ne pas enchaîner/ne pas s'enchaîner",
+	"indicatif": {
+		"présent": {
+			"j'": "enchaîne",
+			"tu": "enchaînes",
+			"il/elle": "enchaîne",
+			"nous": "enchaînons",
+			"vous": "enchaînez",
+			"ils/elles": "enchaînent"
+		},
+		"imparfait": {
+			"j'": "enchaînais",
+			"tu": "enchaînais",
+			"il/elle": "enchaînait",
+			"nous": "enchaînions",
+			"vous": "enchaîniez",
+			"ils/elles": "enchaînaient"
+		},
+		"futur": {
+			"j'": "enchaînerai",
+			"tu": "enchaîneras",
+			"il/elle": "enchaînera",
+			"nous": "enchaînerons",
+			"vous": "enchaînerez",
+			"ils/elles": "enchaîneront"
+		},
+		"passé simple": {
+			"j'": "enchaînai",
+			"tu": "enchaînas",
+			"il/elle": "enchaîna",
+			"nous": "enchaînâmes",
+			"vous": "enchaînâtes",
+			"ils/elles": "enchaînèrent"
+		},
+		"passé composé": {
+			"j'": "ai enchaîné",
+			"tu": "as enchaîné",
+			"il/elle": "a enchaîné",
+			"nous": "avons enchaîné",
+			"vous": "avez enchaîné",
+			"ils/elles": "ont enchaîné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais enchaîné",
+			"tu": "avais enchaîné",
+			"il/elle": "avait enchaîné",
+			"nous": "avions enchaîné",
+			"vous": "aviez enchaîné",
+			"ils/elles": "avaient enchaîné"
+		},
+		"passé antérieur": {
+			"j'": "eus enchaîné",
+			"tu": "eus enchaîné",
+			"il/elle": "eut enchaîné",
+			"nous": "eûmes enchaîné",
+			"vous": "eûtes enchaîné",
+			"ils/elles": "eurent enchaîné"
+		},
+		"futur antérieur": {
+			"j'": "aurai enchaîné",
+			"tu": "auras enchaîné",
+			"il/elle": "aura enchaîné",
+			"nous": "aurons enchaîné",
+			"vous": "aurez enchaîné",
+			"ils/elles": "auront enchaîné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "enchaîne",
+			"que": "vous enchaîniez",
+			"qu'il/elle": "enchaîne",
+			"qu'ils/elles": "enchaînent"
+		},
+		"imparfait": {
+			"j'": "enchaînasse",
+			"que": "vous enchaînassiez",
+			"qu'il/elle": "enchaînât",
+			"qu'ils/elles": "enchaînassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse enchaîné",
+			"que": "vous eussiez enchaîné",
+			"qu'il/elle": "eût enchaîné",
+			"qu'ils/elles": "eussent enchaîné"
+		},
+		"passé": {
+			"j'": "aie enchaîné",
+			"que": "vous ayez enchaîné",
+			"qu'il/elle": "ait enchaîné",
+			"qu'ils/elles": "aient enchaîné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "enchaînerais",
+			"tu": "enchaînerais",
+			"il/elle": "enchaînerait",
+			"nous": "enchaînerions",
+			"vous": "enchaîneriez",
+			"ils/elles": "enchaîneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais enchaîné",
+			"tu": "aurais enchaîné",
+			"il/elle": "aurait enchaîné",
+			"nous": "aurions enchaîné",
+			"vous": "auriez enchaîné",
+			"ils/elles": "auraient enchaîné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse enchaîné",
+			"tu": "eusses enchaîné",
+			"il/elle": "eût enchaîné",
+			"nous": "eussions enchaîné",
+			"vous": "eussiez enchaîné",
+			"ils/elles": "eussent enchaîné"
+		}
+	},
+	"participe": {
+		"présent": { "enchaînant": "" },
+		"passé composé": { "ayant": "enchaîné" },
+		"passé": {
+			"masc.sg.:": "enchaîné",
+			"masc.pl.:": "enchaînés",
+			"fém.sg.:": "enchaînée",
+			"fém.pl.:": "enchaînées"
+		}
+	},
+	"imperatif": {
+		"présent": { "enchaîne": "", "enchaînons": "", "enchaînez": "" },
+		"passé": { "aie": "enchaîné", "ayons": "enchaîné", "ayez": "enchaîné" }
+	},
+	"infinitif": {
+		"présent": { "enchaîner": "" },
+		"passé": { "avoir": "enchaîné" }
+	}
+}

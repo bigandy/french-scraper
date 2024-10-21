@@ -1,0 +1,145 @@
+{
+	"name": "badigeonner",
+	"definition": "brush; baste; coat; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se badigeonner/ne pas badigeonner/ne pas se badigeonner",
+	"indicatif": {
+		"présent": {
+			"je": "badigeonne",
+			"tu": "badigeonnes",
+			"il/elle": "badigeonne",
+			"nous": "badigeonnons",
+			"vous": "badigeonnez",
+			"ils/elles": "badigeonnent"
+		},
+		"imparfait": {
+			"je": "badigeonnais",
+			"tu": "badigeonnais",
+			"il/elle": "badigeonnait",
+			"nous": "badigeonnions",
+			"vous": "badigeonniez",
+			"ils/elles": "badigeonnaient"
+		},
+		"futur": {
+			"je": "badigeonnerai",
+			"tu": "badigeonneras",
+			"il/elle": "badigeonnera",
+			"nous": "badigeonnerons",
+			"vous": "badigeonnerez",
+			"ils/elles": "badigeonneront"
+		},
+		"passé simple": {
+			"je": "badigeonnai",
+			"tu": "badigeonnas",
+			"il/elle": "badigeonna",
+			"nous": "badigeonnâmes",
+			"vous": "badigeonnâtes",
+			"ils/elles": "badigeonnèrent"
+		},
+		"passé composé": {
+			"j'": "ai badigeonné",
+			"tu": "as badigeonné",
+			"il/elle": "a badigeonné",
+			"nous": "avons badigeonné",
+			"vous": "avez badigeonné",
+			"ils/elles": "ont badigeonné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais badigeonné",
+			"tu": "avais badigeonné",
+			"il/elle": "avait badigeonné",
+			"nous": "avions badigeonné",
+			"vous": "aviez badigeonné",
+			"ils/elles": "avaient badigeonné"
+		},
+		"passé antérieur": {
+			"j'": "eus badigeonné",
+			"tu": "eus badigeonné",
+			"il/elle": "eut badigeonné",
+			"nous": "eûmes badigeonné",
+			"vous": "eûtes badigeonné",
+			"ils/elles": "eurent badigeonné"
+		},
+		"futur antérieur": {
+			"j'": "aurai badigeonné",
+			"tu": "auras badigeonné",
+			"il/elle": "aura badigeonné",
+			"nous": "aurons badigeonné",
+			"vous": "aurez badigeonné",
+			"ils/elles": "auront badigeonné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous badigeonniez",
+			"qu'il/elle": "badigeonne",
+			"qu'ils/elles": "badigeonnent"
+		},
+		"imparfait": {
+			"que": "vous badigeonnassiez",
+			"qu'il/elle": "badigeonnât",
+			"qu'ils/elles": "badigeonnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse badigeonné",
+			"que": "vous eussiez badigeonné",
+			"qu'il/elle": "eût badigeonné",
+			"qu'ils/elles": "eussent badigeonné"
+		},
+		"passé": {
+			"j'": "aie badigeonné",
+			"que": "vous ayez badigeonné",
+			"qu'il/elle": "ait badigeonné",
+			"qu'ils/elles": "aient badigeonné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "badigeonnerais",
+			"tu": "badigeonnerais",
+			"il/elle": "badigeonnerait",
+			"nous": "badigeonnerions",
+			"vous": "badigeonneriez",
+			"ils/elles": "badigeonneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais badigeonné",
+			"tu": "aurais badigeonné",
+			"il/elle": "aurait badigeonné",
+			"nous": "aurions badigeonné",
+			"vous": "auriez badigeonné",
+			"ils/elles": "auraient badigeonné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse badigeonné",
+			"tu": "eusses badigeonné",
+			"il/elle": "eût badigeonné",
+			"nous": "eussions badigeonné",
+			"vous": "eussiez badigeonné",
+			"ils/elles": "eussent badigeonné"
+		}
+	},
+	"participe": {
+		"présent": { "badigeonnant": "" },
+		"passé composé": { "ayant": "badigeonné" },
+		"passé": {
+			"masc.sg.:": "badigeonné",
+			"masc.pl.:": "badigeonnés",
+			"fém.sg.:": "badigeonnée",
+			"fém.pl.:": "badigeonnées"
+		}
+	},
+	"imperatif": {
+		"présent": { "badigeonne": "", "badigeonnons": "", "badigeonnez": "" },
+		"passé": {
+			"aie": "badigeonné",
+			"ayons": "badigeonné",
+			"ayez": "badigeonné"
+		}
+	},
+	"infinitif": {
+		"présent": { "badigeonner": "" },
+		"passé": { "avoir": "badigeonné" }
+	}
+}

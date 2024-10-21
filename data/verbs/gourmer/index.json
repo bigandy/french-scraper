@@ -1,0 +1,138 @@
+{
+	"name": "gourmer",
+	"definition": "",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se gourmer/ne pas gourmer/ne pas se gourmer",
+	"indicatif": {
+		"présent": {
+			"je": "gourme",
+			"tu": "gourmes",
+			"il/elle": "gourme",
+			"nous": "gourmons",
+			"vous": "gourmez",
+			"ils/elles": "gourment"
+		},
+		"imparfait": {
+			"je": "gourmais",
+			"tu": "gourmais",
+			"il/elle": "gourmait",
+			"nous": "gourmions",
+			"vous": "gourmiez",
+			"ils/elles": "gourmaient"
+		},
+		"futur": {
+			"je": "gourmerai",
+			"tu": "gourmeras",
+			"il/elle": "gourmera",
+			"nous": "gourmerons",
+			"vous": "gourmerez",
+			"ils/elles": "gourmeront"
+		},
+		"passé simple": {
+			"je": "gourmai",
+			"tu": "gourmas",
+			"il/elle": "gourma",
+			"nous": "gourmâmes",
+			"vous": "gourmâtes",
+			"ils/elles": "gourmèrent"
+		},
+		"passé composé": {
+			"j'": "ai gourmé",
+			"tu": "as gourmé",
+			"il/elle": "a gourmé",
+			"nous": "avons gourmé",
+			"vous": "avez gourmé",
+			"ils/elles": "ont gourmé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais gourmé",
+			"tu": "avais gourmé",
+			"il/elle": "avait gourmé",
+			"nous": "avions gourmé",
+			"vous": "aviez gourmé",
+			"ils/elles": "avaient gourmé"
+		},
+		"passé antérieur": {
+			"j'": "eus gourmé",
+			"tu": "eus gourmé",
+			"il/elle": "eut gourmé",
+			"nous": "eûmes gourmé",
+			"vous": "eûtes gourmé",
+			"ils/elles": "eurent gourmé"
+		},
+		"futur antérieur": {
+			"j'": "aurai gourmé",
+			"tu": "auras gourmé",
+			"il/elle": "aura gourmé",
+			"nous": "aurons gourmé",
+			"vous": "aurez gourmé",
+			"ils/elles": "auront gourmé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous gourmiez",
+			"qu'il/elle": "gourme",
+			"qu'ils/elles": "gourment"
+		},
+		"imparfait": {
+			"que": "vous gourmassiez",
+			"qu'il/elle": "gourmât",
+			"qu'ils/elles": "gourmassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse gourmé",
+			"que": "vous eussiez gourmé",
+			"qu'il/elle": "eût gourmé",
+			"qu'ils/elles": "eussent gourmé"
+		},
+		"passé": {
+			"j'": "aie gourmé",
+			"que": "vous ayez gourmé",
+			"qu'il/elle": "ait gourmé",
+			"qu'ils/elles": "aient gourmé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "gourmerais",
+			"tu": "gourmerais",
+			"il/elle": "gourmerait",
+			"nous": "gourmerions",
+			"vous": "gourmeriez",
+			"ils/elles": "gourmeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais gourmé",
+			"tu": "aurais gourmé",
+			"il/elle": "aurait gourmé",
+			"nous": "aurions gourmé",
+			"vous": "auriez gourmé",
+			"ils/elles": "auraient gourmé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse gourmé",
+			"tu": "eusses gourmé",
+			"il/elle": "eût gourmé",
+			"nous": "eussions gourmé",
+			"vous": "eussiez gourmé",
+			"ils/elles": "eussent gourmé"
+		}
+	},
+	"participe": {
+		"présent": { "gourmant": "" },
+		"passé composé": { "ayant": "gourmé" },
+		"passé": {
+			"masc.sg.:": "gourmé",
+			"masc.pl.:": "gourmés",
+			"fém.sg.:": "gourmée",
+			"fém.pl.:": "gourmées"
+		}
+	},
+	"imperatif": {
+		"présent": { "gourme": "", "gourmons": "", "gourmez": "" },
+		"passé": { "aie": "gourmé", "ayons": "gourmé", "ayez": "gourmé" }
+	},
+	"infinitif": { "présent": { "gourmer": "" }, "passé": { "avoir": "gourmé" } }
+}

@@ -1,0 +1,138 @@
+{
+	"name": "diluer",
+	"definition": "dilute; water down; thin; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se diluer/ne pas diluer/ne pas se diluer",
+	"indicatif": {
+		"présent": {
+			"je": "dilue",
+			"tu": "dilues",
+			"il/elle": "dilue",
+			"nous": "diluons",
+			"vous": "diluez",
+			"ils/elles": "diluent"
+		},
+		"imparfait": {
+			"je": "diluais",
+			"tu": "diluais",
+			"il/elle": "diluait",
+			"nous": "diluions",
+			"vous": "diluiez",
+			"ils/elles": "diluaient"
+		},
+		"futur": {
+			"je": "diluerai",
+			"tu": "dilueras",
+			"il/elle": "diluera",
+			"nous": "diluerons",
+			"vous": "diluerez",
+			"ils/elles": "dilueront"
+		},
+		"passé simple": {
+			"je": "diluai",
+			"tu": "diluas",
+			"il/elle": "dilua",
+			"nous": "diluâmes",
+			"vous": "diluâtes",
+			"ils/elles": "diluèrent"
+		},
+		"passé composé": {
+			"j'": "ai dilué",
+			"tu": "as dilué",
+			"il/elle": "a dilué",
+			"nous": "avons dilué",
+			"vous": "avez dilué",
+			"ils/elles": "ont dilué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais dilué",
+			"tu": "avais dilué",
+			"il/elle": "avait dilué",
+			"nous": "avions dilué",
+			"vous": "aviez dilué",
+			"ils/elles": "avaient dilué"
+		},
+		"passé antérieur": {
+			"j'": "eus dilué",
+			"tu": "eus dilué",
+			"il/elle": "eut dilué",
+			"nous": "eûmes dilué",
+			"vous": "eûtes dilué",
+			"ils/elles": "eurent dilué"
+		},
+		"futur antérieur": {
+			"j'": "aurai dilué",
+			"tu": "auras dilué",
+			"il/elle": "aura dilué",
+			"nous": "aurons dilué",
+			"vous": "aurez dilué",
+			"ils/elles": "auront dilué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous diluiez",
+			"qu'il/elle": "dilue",
+			"qu'ils/elles": "diluent"
+		},
+		"imparfait": {
+			"que": "vous diluassiez",
+			"qu'il/elle": "diluât",
+			"qu'ils/elles": "diluassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse dilué",
+			"que": "vous eussiez dilué",
+			"qu'il/elle": "eût dilué",
+			"qu'ils/elles": "eussent dilué"
+		},
+		"passé": {
+			"j'": "aie dilué",
+			"que": "vous ayez dilué",
+			"qu'il/elle": "ait dilué",
+			"qu'ils/elles": "aient dilué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "diluerais",
+			"tu": "diluerais",
+			"il/elle": "diluerait",
+			"nous": "diluerions",
+			"vous": "dilueriez",
+			"ils/elles": "dilueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais dilué",
+			"tu": "aurais dilué",
+			"il/elle": "aurait dilué",
+			"nous": "aurions dilué",
+			"vous": "auriez dilué",
+			"ils/elles": "auraient dilué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse dilué",
+			"tu": "eusses dilué",
+			"il/elle": "eût dilué",
+			"nous": "eussions dilué",
+			"vous": "eussiez dilué",
+			"ils/elles": "eussent dilué"
+		}
+	},
+	"participe": {
+		"présent": { "diluant": "" },
+		"passé composé": { "ayant": "dilué" },
+		"passé": {
+			"masc.sg.:": "dilué",
+			"masc.pl.:": "dilués",
+			"fém.sg.:": "diluée",
+			"fém.pl.:": "diluées"
+		}
+	},
+	"imperatif": {
+		"présent": { "dilue": "", "diluons": "", "diluez": "" },
+		"passé": { "aie": "dilué", "ayons": "dilué", "ayez": "dilué" }
+	},
+	"infinitif": { "présent": { "diluer": "" }, "passé": { "avoir": "dilué" } }
+}

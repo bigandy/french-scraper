@@ -1,0 +1,141 @@
+{
+	"name": "rebondir",
+	"definition": "bounce; rebound; bounce back; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas rebondir",
+	"indicatif": {
+		"présent": {
+			"je": "rebondis",
+			"tu": "rebondis",
+			"il/elle": "rebondit",
+			"nous": "rebondissons",
+			"vous": "rebondissez",
+			"ils/elles": "rebondissent"
+		},
+		"imparfait": {
+			"je": "rebondissais",
+			"tu": "rebondissais",
+			"il/elle": "rebondissait",
+			"nous": "rebondissions",
+			"vous": "rebondissiez",
+			"ils/elles": "rebondissaient"
+		},
+		"futur": {
+			"je": "rebondirai",
+			"tu": "rebondiras",
+			"il/elle": "rebondira",
+			"nous": "rebondirons",
+			"vous": "rebondirez",
+			"ils/elles": "rebondiront"
+		},
+		"passé simple": {
+			"je": "rebondis",
+			"tu": "rebondis",
+			"il/elle": "rebondit",
+			"nous": "rebondîmes",
+			"vous": "rebondîtes",
+			"ils/elles": "rebondirent"
+		},
+		"passé composé": {
+			"j'": "ai rebondi",
+			"tu": "as rebondi",
+			"il/elle": "a rebondi",
+			"nous": "avons rebondi",
+			"vous": "avez rebondi",
+			"ils/elles": "ont rebondi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais rebondi",
+			"tu": "avais rebondi",
+			"il/elle": "avait rebondi",
+			"nous": "avions rebondi",
+			"vous": "aviez rebondi",
+			"ils/elles": "avaient rebondi"
+		},
+		"passé antérieur": {
+			"j'": "eus rebondi",
+			"tu": "eus rebondi",
+			"il/elle": "eut rebondi",
+			"nous": "eûmes rebondi",
+			"vous": "eûtes rebondi",
+			"ils/elles": "eurent rebondi"
+		},
+		"futur antérieur": {
+			"j'": "aurai rebondi",
+			"tu": "auras rebondi",
+			"il/elle": "aura rebondi",
+			"nous": "aurons rebondi",
+			"vous": "aurez rebondi",
+			"ils/elles": "auront rebondi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous rebondissiez",
+			"qu'il/elle": "rebondisse",
+			"qu'ils/elles": "rebondissent"
+		},
+		"imparfait": {
+			"que": "vous rebondissiez",
+			"qu'il/elle": "rebondît",
+			"qu'ils/elles": "rebondissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse rebondi",
+			"que": "vous eussiez rebondi",
+			"qu'il/elle": "eût rebondi",
+			"qu'ils/elles": "eussent rebondi"
+		},
+		"passé": {
+			"j'": "aie rebondi",
+			"que": "vous ayez rebondi",
+			"qu'il/elle": "ait rebondi",
+			"qu'ils/elles": "aient rebondi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "rebondirais",
+			"tu": "rebondirais",
+			"il/elle": "rebondirait",
+			"nous": "rebondirions",
+			"vous": "rebondiriez",
+			"ils/elles": "rebondiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais rebondi",
+			"tu": "aurais rebondi",
+			"il/elle": "aurait rebondi",
+			"nous": "aurions rebondi",
+			"vous": "auriez rebondi",
+			"ils/elles": "auraient rebondi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse rebondi",
+			"tu": "eusses rebondi",
+			"il/elle": "eût rebondi",
+			"nous": "eussions rebondi",
+			"vous": "eussiez rebondi",
+			"ils/elles": "eussent rebondi"
+		}
+	},
+	"participe": {
+		"présent": { "rebondissant": "" },
+		"passé composé": { "ayant": "rebondi" },
+		"passé": {
+			"masc.sg.:": "rebondi",
+			"masc.pl.:": "rebondis",
+			"fém.sg.:": "rebondie",
+			"fém.pl.:": "rebondies"
+		}
+	},
+	"imperatif": {
+		"présent": { "rebondis": "", "rebondissons": "", "rebondissez": "" },
+		"passé": { "aie": "rebondi", "ayons": "rebondi", "ayez": "rebondi" }
+	},
+	"infinitif": {
+		"présent": { "rebondir": "" },
+		"passé": { "avoir": "rebondi" }
+	}
+}

@@ -1,0 +1,141 @@
+{
+	"name": "contredire",
+	"definition": "\n              contradict; argue with; disagree with; ...\n            ",
+	"model": "interdire",
+	"auxiliary": "avoir",
+	"otherForms": "se contredire/ne pas contredire/ne pas se contredire",
+	"indicatif": {
+		"présent": {
+			"je": "contredis",
+			"tu": "contredis",
+			"il/elle": "contredit",
+			"nous": "contredisons",
+			"vous": "contredisez",
+			"ils/elles": "contredisent"
+		},
+		"imparfait": {
+			"je": "contredisais",
+			"tu": "contredisais",
+			"il/elle": "contredisait",
+			"nous": "contredisions",
+			"vous": "contredisiez",
+			"ils/elles": "contredisaient"
+		},
+		"futur": {
+			"je": "contredirai",
+			"tu": "contrediras",
+			"il/elle": "contredira",
+			"nous": "contredirons",
+			"vous": "contredirez",
+			"ils/elles": "contrediront"
+		},
+		"passé simple": {
+			"je": "contredis",
+			"tu": "contredis",
+			"il/elle": "contredit",
+			"nous": "contredîmes",
+			"vous": "contredîtes",
+			"ils/elles": "contredirent"
+		},
+		"passé composé": {
+			"j'": "ai contredit",
+			"tu": "as contredit",
+			"il/elle": "a contredit",
+			"nous": "avons contredit",
+			"vous": "avez contredit",
+			"ils/elles": "ont contredit"
+		},
+		"plus-que-parfait": {
+			"j'": "avais contredit",
+			"tu": "avais contredit",
+			"il/elle": "avait contredit",
+			"nous": "avions contredit",
+			"vous": "aviez contredit",
+			"ils/elles": "avaient contredit"
+		},
+		"passé antérieur": {
+			"j'": "eus contredit",
+			"tu": "eus contredit",
+			"il/elle": "eut contredit",
+			"nous": "eûmes contredit",
+			"vous": "eûtes contredit",
+			"ils/elles": "eurent contredit"
+		},
+		"futur antérieur": {
+			"j'": "aurai contredit",
+			"tu": "auras contredit",
+			"il/elle": "aura contredit",
+			"nous": "aurons contredit",
+			"vous": "aurez contredit",
+			"ils/elles": "auront contredit"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous contredisiez",
+			"qu'il/elle": "contredise",
+			"qu'ils/elles": "contredisent"
+		},
+		"imparfait": {
+			"que": "vous contredissiez",
+			"qu'il/elle": "contredît",
+			"qu'ils/elles": "contredissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse contredit",
+			"que": "vous eussiez contredit",
+			"qu'il/elle": "eût contredit",
+			"qu'ils/elles": "eussent contredit"
+		},
+		"passé": {
+			"j'": "aie contredit",
+			"que": "vous ayez contredit",
+			"qu'il/elle": "ait contredit",
+			"qu'ils/elles": "aient contredit"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "contredirais",
+			"tu": "contredirais",
+			"il/elle": "contredirait",
+			"nous": "contredirions",
+			"vous": "contrediriez",
+			"ils/elles": "contrediraient"
+		},
+		"passé première forme": {
+			"j'": "aurais contredit",
+			"tu": "aurais contredit",
+			"il/elle": "aurait contredit",
+			"nous": "aurions contredit",
+			"vous": "auriez contredit",
+			"ils/elles": "auraient contredit"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse contredit",
+			"tu": "eusses contredit",
+			"il/elle": "eût contredit",
+			"nous": "eussions contredit",
+			"vous": "eussiez contredit",
+			"ils/elles": "eussent contredit"
+		}
+	},
+	"participe": {
+		"présent": { "contredisant": "" },
+		"passé composé": { "ayant": "contredit" },
+		"passé": {
+			"masc.sg.:": "contredit",
+			"masc.pl.:": "contredits",
+			"fém.sg.:": "contredite",
+			"fém.pl.:": "contredites"
+		}
+	},
+	"imperatif": {
+		"présent": { "contredis": "", "contredisons": "", "contredisez": "" },
+		"passé": { "aie": "contredit", "ayons": "contredit", "ayez": "contredit" }
+	},
+	"infinitif": {
+		"présent": { "contredire": "" },
+		"passé": { "avoir": "contredit" }
+	}
+}

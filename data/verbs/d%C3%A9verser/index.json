@@ -1,0 +1,141 @@
+{
+	"name": "déverser",
+	"definition": "discharge; dump; pour; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se déverser/ne pas déverser/ne pas se déverser",
+	"indicatif": {
+		"présent": {
+			"je": "déverse",
+			"tu": "déverses",
+			"il/elle": "déverse",
+			"nous": "déversons",
+			"vous": "déversez",
+			"ils/elles": "déversent"
+		},
+		"imparfait": {
+			"je": "déversais",
+			"tu": "déversais",
+			"il/elle": "déversait",
+			"nous": "déversions",
+			"vous": "déversiez",
+			"ils/elles": "déversaient"
+		},
+		"futur": {
+			"je": "déverserai",
+			"tu": "déverseras",
+			"il/elle": "déversera",
+			"nous": "déverserons",
+			"vous": "déverserez",
+			"ils/elles": "déverseront"
+		},
+		"passé simple": {
+			"je": "déversai",
+			"tu": "déversas",
+			"il/elle": "déversa",
+			"nous": "déversâmes",
+			"vous": "déversâtes",
+			"ils/elles": "déversèrent"
+		},
+		"passé composé": {
+			"j'": "ai déversé",
+			"tu": "as déversé",
+			"il/elle": "a déversé",
+			"nous": "avons déversé",
+			"vous": "avez déversé",
+			"ils/elles": "ont déversé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais déversé",
+			"tu": "avais déversé",
+			"il/elle": "avait déversé",
+			"nous": "avions déversé",
+			"vous": "aviez déversé",
+			"ils/elles": "avaient déversé"
+		},
+		"passé antérieur": {
+			"j'": "eus déversé",
+			"tu": "eus déversé",
+			"il/elle": "eut déversé",
+			"nous": "eûmes déversé",
+			"vous": "eûtes déversé",
+			"ils/elles": "eurent déversé"
+		},
+		"futur antérieur": {
+			"j'": "aurai déversé",
+			"tu": "auras déversé",
+			"il/elle": "aura déversé",
+			"nous": "aurons déversé",
+			"vous": "aurez déversé",
+			"ils/elles": "auront déversé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous déversiez",
+			"qu'il/elle": "déverse",
+			"qu'ils/elles": "déversent"
+		},
+		"imparfait": {
+			"que": "vous déversassiez",
+			"qu'il/elle": "déversât",
+			"qu'ils/elles": "déversassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse déversé",
+			"que": "vous eussiez déversé",
+			"qu'il/elle": "eût déversé",
+			"qu'ils/elles": "eussent déversé"
+		},
+		"passé": {
+			"j'": "aie déversé",
+			"que": "vous ayez déversé",
+			"qu'il/elle": "ait déversé",
+			"qu'ils/elles": "aient déversé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "déverserais",
+			"tu": "déverserais",
+			"il/elle": "déverserait",
+			"nous": "déverserions",
+			"vous": "déverseriez",
+			"ils/elles": "déverseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais déversé",
+			"tu": "aurais déversé",
+			"il/elle": "aurait déversé",
+			"nous": "aurions déversé",
+			"vous": "auriez déversé",
+			"ils/elles": "auraient déversé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse déversé",
+			"tu": "eusses déversé",
+			"il/elle": "eût déversé",
+			"nous": "eussions déversé",
+			"vous": "eussiez déversé",
+			"ils/elles": "eussent déversé"
+		}
+	},
+	"participe": {
+		"présent": { "déversant": "" },
+		"passé composé": { "ayant": "déversé" },
+		"passé": {
+			"masc.sg.:": "déversé",
+			"masc.pl.:": "déversés",
+			"fém.sg.:": "déversée",
+			"fém.pl.:": "déversées"
+		}
+	},
+	"imperatif": {
+		"présent": { "déverse": "", "déversons": "", "déversez": "" },
+		"passé": { "aie": "déversé", "ayons": "déversé", "ayez": "déversé" }
+	},
+	"infinitif": {
+		"présent": { "déverser": "" },
+		"passé": { "avoir": "déversé" }
+	}
+}

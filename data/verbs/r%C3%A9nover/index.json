@@ -1,0 +1,138 @@
+{
+	"name": "rénover",
+	"definition": "renovate; renew; upgrade; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se rénover/ne pas rénover/ne pas se rénover",
+	"indicatif": {
+		"présent": {
+			"je": "rénove",
+			"tu": "rénoves",
+			"il/elle": "rénove",
+			"nous": "rénovons",
+			"vous": "rénovez",
+			"ils/elles": "rénovent"
+		},
+		"imparfait": {
+			"je": "rénovais",
+			"tu": "rénovais",
+			"il/elle": "rénovait",
+			"nous": "rénovions",
+			"vous": "rénoviez",
+			"ils/elles": "rénovaient"
+		},
+		"futur": {
+			"je": "rénoverai",
+			"tu": "rénoveras",
+			"il/elle": "rénovera",
+			"nous": "rénoverons",
+			"vous": "rénoverez",
+			"ils/elles": "rénoveront"
+		},
+		"passé simple": {
+			"je": "rénovai",
+			"tu": "rénovas",
+			"il/elle": "rénova",
+			"nous": "rénovâmes",
+			"vous": "rénovâtes",
+			"ils/elles": "rénovèrent"
+		},
+		"passé composé": {
+			"j'": "ai rénové",
+			"tu": "as rénové",
+			"il/elle": "a rénové",
+			"nous": "avons rénové",
+			"vous": "avez rénové",
+			"ils/elles": "ont rénové"
+		},
+		"plus-que-parfait": {
+			"j'": "avais rénové",
+			"tu": "avais rénové",
+			"il/elle": "avait rénové",
+			"nous": "avions rénové",
+			"vous": "aviez rénové",
+			"ils/elles": "avaient rénové"
+		},
+		"passé antérieur": {
+			"j'": "eus rénové",
+			"tu": "eus rénové",
+			"il/elle": "eut rénové",
+			"nous": "eûmes rénové",
+			"vous": "eûtes rénové",
+			"ils/elles": "eurent rénové"
+		},
+		"futur antérieur": {
+			"j'": "aurai rénové",
+			"tu": "auras rénové",
+			"il/elle": "aura rénové",
+			"nous": "aurons rénové",
+			"vous": "aurez rénové",
+			"ils/elles": "auront rénové"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous rénoviez",
+			"qu'il/elle": "rénove",
+			"qu'ils/elles": "rénovent"
+		},
+		"imparfait": {
+			"que": "vous rénovassiez",
+			"qu'il/elle": "rénovât",
+			"qu'ils/elles": "rénovassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse rénové",
+			"que": "vous eussiez rénové",
+			"qu'il/elle": "eût rénové",
+			"qu'ils/elles": "eussent rénové"
+		},
+		"passé": {
+			"j'": "aie rénové",
+			"que": "vous ayez rénové",
+			"qu'il/elle": "ait rénové",
+			"qu'ils/elles": "aient rénové"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "rénoverais",
+			"tu": "rénoverais",
+			"il/elle": "rénoverait",
+			"nous": "rénoverions",
+			"vous": "rénoveriez",
+			"ils/elles": "rénoveraient"
+		},
+		"passé première forme": {
+			"j'": "aurais rénové",
+			"tu": "aurais rénové",
+			"il/elle": "aurait rénové",
+			"nous": "aurions rénové",
+			"vous": "auriez rénové",
+			"ils/elles": "auraient rénové"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse rénové",
+			"tu": "eusses rénové",
+			"il/elle": "eût rénové",
+			"nous": "eussions rénové",
+			"vous": "eussiez rénové",
+			"ils/elles": "eussent rénové"
+		}
+	},
+	"participe": {
+		"présent": { "rénovant": "" },
+		"passé composé": { "ayant": "rénové" },
+		"passé": {
+			"masc.sg.:": "rénové",
+			"masc.pl.:": "rénovés",
+			"fém.sg.:": "rénovée",
+			"fém.pl.:": "rénovées"
+		}
+	},
+	"imperatif": {
+		"présent": { "rénove": "", "rénovons": "", "rénovez": "" },
+		"passé": { "aie": "rénové", "ayons": "rénové", "ayez": "rénové" }
+	},
+	"infinitif": { "présent": { "rénover": "" }, "passé": { "avoir": "rénové" } }
+}

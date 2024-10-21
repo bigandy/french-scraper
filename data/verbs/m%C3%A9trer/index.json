@@ -1,0 +1,138 @@
+{
+	"name": "métrer",
+	"definition": "measure in metres; ...",
+	"model": "pénétrer",
+	"auxiliary": "avoir",
+	"otherForms": "se métrer/ne pas métrer/ne pas se métrer",
+	"indicatif": {
+		"présent": {
+			"je": "mètre",
+			"tu": "mètres",
+			"il/elle": "mètre",
+			"nous": "métrons",
+			"vous": "métrez",
+			"ils/elles": "mètrent"
+		},
+		"imparfait": {
+			"je": "métrais",
+			"tu": "métrais",
+			"il/elle": "métrait",
+			"nous": "métrions",
+			"vous": "métriez",
+			"ils/elles": "métraient"
+		},
+		"futur": {
+			"je": "métrerai",
+			"tu": "métreras",
+			"il/elle": "métrera",
+			"nous": "métrerons",
+			"vous": "métrerez",
+			"ils/elles": "métreront"
+		},
+		"passé simple": {
+			"je": "métrai",
+			"tu": "métras",
+			"il/elle": "métra",
+			"nous": "métrâmes",
+			"vous": "métrâtes",
+			"ils/elles": "métrèrent"
+		},
+		"passé composé": {
+			"j'": "ai métré",
+			"tu": "as métré",
+			"il/elle": "a métré",
+			"nous": "avons métré",
+			"vous": "avez métré",
+			"ils/elles": "ont métré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais métré",
+			"tu": "avais métré",
+			"il/elle": "avait métré",
+			"nous": "avions métré",
+			"vous": "aviez métré",
+			"ils/elles": "avaient métré"
+		},
+		"passé antérieur": {
+			"j'": "eus métré",
+			"tu": "eus métré",
+			"il/elle": "eut métré",
+			"nous": "eûmes métré",
+			"vous": "eûtes métré",
+			"ils/elles": "eurent métré"
+		},
+		"futur antérieur": {
+			"j'": "aurai métré",
+			"tu": "auras métré",
+			"il/elle": "aura métré",
+			"nous": "aurons métré",
+			"vous": "aurez métré",
+			"ils/elles": "auront métré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous métriez",
+			"qu'il/elle": "mètre",
+			"qu'ils/elles": "mètrent"
+		},
+		"imparfait": {
+			"que": "vous métrassiez",
+			"qu'il/elle": "métrât",
+			"qu'ils/elles": "métrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse métré",
+			"que": "vous eussiez métré",
+			"qu'il/elle": "eût métré",
+			"qu'ils/elles": "eussent métré"
+		},
+		"passé": {
+			"j'": "aie métré",
+			"que": "vous ayez métré",
+			"qu'il/elle": "ait métré",
+			"qu'ils/elles": "aient métré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "métrerais",
+			"tu": "métrerais",
+			"il/elle": "métrerait",
+			"nous": "métrerions",
+			"vous": "métreriez",
+			"ils/elles": "métreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais métré",
+			"tu": "aurais métré",
+			"il/elle": "aurait métré",
+			"nous": "aurions métré",
+			"vous": "auriez métré",
+			"ils/elles": "auraient métré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse métré",
+			"tu": "eusses métré",
+			"il/elle": "eût métré",
+			"nous": "eussions métré",
+			"vous": "eussiez métré",
+			"ils/elles": "eussent métré"
+		}
+	},
+	"participe": {
+		"présent": { "métrant": "" },
+		"passé composé": { "ayant": "métré" },
+		"passé": {
+			"masc.sg.:": "métré",
+			"masc.pl.:": "métrés",
+			"fém.sg.:": "métrée",
+			"fém.pl.:": "métrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "mètre": "", "métrons": "", "métrez": "" },
+		"passé": { "aie": "métré", "ayons": "métré", "ayez": "métré" }
+	},
+	"infinitif": { "présent": { "métrer": "" }, "passé": { "avoir": "métré" } }
+}

@@ -1,0 +1,145 @@
+{
+	"name": "retransmettre",
+	"definition": "retransmit; relay; forward; ...",
+	"model": "mettre",
+	"auxiliary": "avoir",
+	"otherForms": "se retransmettre/ne pas retransmettre/ne pas se retransmettre",
+	"indicatif": {
+		"présent": {
+			"je": "retransmets",
+			"tu": "retransmets",
+			"il/elle": "retransmet",
+			"nous": "retransmettons",
+			"vous": "retransmettez",
+			"ils/elles": "retransmettent"
+		},
+		"imparfait": {
+			"je": "retransmettais",
+			"tu": "retransmettais",
+			"il/elle": "retransmettait",
+			"nous": "retransmettions",
+			"vous": "retransmettiez",
+			"ils/elles": "retransmettaient"
+		},
+		"futur": {
+			"je": "retransmettrai",
+			"tu": "retransmettras",
+			"il/elle": "retransmettra",
+			"nous": "retransmettrons",
+			"vous": "retransmettrez",
+			"ils/elles": "retransmettront"
+		},
+		"passé simple": {
+			"je": "retransmis",
+			"tu": "retransmis",
+			"il/elle": "retransmit",
+			"nous": "retransmîmes",
+			"vous": "retransmîtes",
+			"ils/elles": "retransmirent"
+		},
+		"passé composé": {
+			"j'": "ai retransmis",
+			"tu": "as retransmis",
+			"il/elle": "a retransmis",
+			"nous": "avons retransmis",
+			"vous": "avez retransmis",
+			"ils/elles": "ont retransmis"
+		},
+		"plus-que-parfait": {
+			"j'": "avais retransmis",
+			"tu": "avais retransmis",
+			"il/elle": "avait retransmis",
+			"nous": "avions retransmis",
+			"vous": "aviez retransmis",
+			"ils/elles": "avaient retransmis"
+		},
+		"passé antérieur": {
+			"j'": "eus retransmis",
+			"tu": "eus retransmis",
+			"il/elle": "eut retransmis",
+			"nous": "eûmes retransmis",
+			"vous": "eûtes retransmis",
+			"ils/elles": "eurent retransmis"
+		},
+		"futur antérieur": {
+			"j'": "aurai retransmis",
+			"tu": "auras retransmis",
+			"il/elle": "aura retransmis",
+			"nous": "aurons retransmis",
+			"vous": "aurez retransmis",
+			"ils/elles": "auront retransmis"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous retransmettiez",
+			"qu'il/elle": "retransmette",
+			"qu'ils/elles": "retransmettent"
+		},
+		"imparfait": {
+			"que": "vous retransmissiez",
+			"qu'il/elle": "retransmît",
+			"qu'ils/elles": "retransmissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse retransmis",
+			"que": "vous eussiez retransmis",
+			"qu'il/elle": "eût retransmis",
+			"qu'ils/elles": "eussent retransmis"
+		},
+		"passé": {
+			"j'": "aie retransmis",
+			"que": "vous ayez retransmis",
+			"qu'il/elle": "ait retransmis",
+			"qu'ils/elles": "aient retransmis"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "retransmettrais",
+			"tu": "retransmettrais",
+			"il/elle": "retransmettrait",
+			"nous": "retransmettrions",
+			"vous": "retransmettriez",
+			"ils/elles": "retransmettraient"
+		},
+		"passé première forme": {
+			"j'": "aurais retransmis",
+			"tu": "aurais retransmis",
+			"il/elle": "aurait retransmis",
+			"nous": "aurions retransmis",
+			"vous": "auriez retransmis",
+			"ils/elles": "auraient retransmis"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse retransmis",
+			"tu": "eusses retransmis",
+			"il/elle": "eût retransmis",
+			"nous": "eussions retransmis",
+			"vous": "eussiez retransmis",
+			"ils/elles": "eussent retransmis"
+		}
+	},
+	"participe": {
+		"présent": { "retransmettant": "" },
+		"passé composé": { "ayant": "retransmis" },
+		"passé": {
+			"masc.sg.:": "retransmis",
+			"masc.pl.:": "retransmis",
+			"fém.sg.:": "retransmise",
+			"fém.pl.:": "retransmises"
+		}
+	},
+	"imperatif": {
+		"présent": { "retransmets": "", "retransmettons": "", "retransmettez": "" },
+		"passé": {
+			"aie": "retransmis",
+			"ayons": "retransmis",
+			"ayez": "retransmis"
+		}
+	},
+	"infinitif": {
+		"présent": { "retransmettre": "" },
+		"passé": { "avoir": "retransmis" }
+	}
+}

@@ -1,0 +1,145 @@
+{
+	"name": "synthétiser",
+	"definition": "synthesize; synthesise; summarize; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se synthétiser/ne pas synthétiser/ne pas se synthétiser",
+	"indicatif": {
+		"présent": {
+			"je": "synthétise",
+			"tu": "synthétises",
+			"il/elle": "synthétise",
+			"nous": "synthétisons",
+			"vous": "synthétisez",
+			"ils/elles": "synthétisent"
+		},
+		"imparfait": {
+			"je": "synthétisais",
+			"tu": "synthétisais",
+			"il/elle": "synthétisait",
+			"nous": "synthétisions",
+			"vous": "synthétisiez",
+			"ils/elles": "synthétisaient"
+		},
+		"futur": {
+			"je": "synthétiserai",
+			"tu": "synthétiseras",
+			"il/elle": "synthétisera",
+			"nous": "synthétiserons",
+			"vous": "synthétiserez",
+			"ils/elles": "synthétiseront"
+		},
+		"passé simple": {
+			"je": "synthétisai",
+			"tu": "synthétisas",
+			"il/elle": "synthétisa",
+			"nous": "synthétisâmes",
+			"vous": "synthétisâtes",
+			"ils/elles": "synthétisèrent"
+		},
+		"passé composé": {
+			"j'": "ai synthétisé",
+			"tu": "as synthétisé",
+			"il/elle": "a synthétisé",
+			"nous": "avons synthétisé",
+			"vous": "avez synthétisé",
+			"ils/elles": "ont synthétisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais synthétisé",
+			"tu": "avais synthétisé",
+			"il/elle": "avait synthétisé",
+			"nous": "avions synthétisé",
+			"vous": "aviez synthétisé",
+			"ils/elles": "avaient synthétisé"
+		},
+		"passé antérieur": {
+			"j'": "eus synthétisé",
+			"tu": "eus synthétisé",
+			"il/elle": "eut synthétisé",
+			"nous": "eûmes synthétisé",
+			"vous": "eûtes synthétisé",
+			"ils/elles": "eurent synthétisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai synthétisé",
+			"tu": "auras synthétisé",
+			"il/elle": "aura synthétisé",
+			"nous": "aurons synthétisé",
+			"vous": "aurez synthétisé",
+			"ils/elles": "auront synthétisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous synthétisiez",
+			"qu'il/elle": "synthétise",
+			"qu'ils/elles": "synthétisent"
+		},
+		"imparfait": {
+			"que": "vous synthétisassiez",
+			"qu'il/elle": "synthétisât",
+			"qu'ils/elles": "synthétisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse synthétisé",
+			"que": "vous eussiez synthétisé",
+			"qu'il/elle": "eût synthétisé",
+			"qu'ils/elles": "eussent synthétisé"
+		},
+		"passé": {
+			"j'": "aie synthétisé",
+			"que": "vous ayez synthétisé",
+			"qu'il/elle": "ait synthétisé",
+			"qu'ils/elles": "aient synthétisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "synthétiserais",
+			"tu": "synthétiserais",
+			"il/elle": "synthétiserait",
+			"nous": "synthétiserions",
+			"vous": "synthétiseriez",
+			"ils/elles": "synthétiseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais synthétisé",
+			"tu": "aurais synthétisé",
+			"il/elle": "aurait synthétisé",
+			"nous": "aurions synthétisé",
+			"vous": "auriez synthétisé",
+			"ils/elles": "auraient synthétisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse synthétisé",
+			"tu": "eusses synthétisé",
+			"il/elle": "eût synthétisé",
+			"nous": "eussions synthétisé",
+			"vous": "eussiez synthétisé",
+			"ils/elles": "eussent synthétisé"
+		}
+	},
+	"participe": {
+		"présent": { "synthétisant": "" },
+		"passé composé": { "ayant": "synthétisé" },
+		"passé": {
+			"masc.sg.:": "synthétisé",
+			"masc.pl.:": "synthétisés",
+			"fém.sg.:": "synthétisée",
+			"fém.pl.:": "synthétisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "synthétise": "", "synthétisons": "", "synthétisez": "" },
+		"passé": {
+			"aie": "synthétisé",
+			"ayons": "synthétisé",
+			"ayez": "synthétisé"
+		}
+	},
+	"infinitif": {
+		"présent": { "synthétiser": "" },
+		"passé": { "avoir": "synthétisé" }
+	}
+}

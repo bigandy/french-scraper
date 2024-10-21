@@ -1,0 +1,141 @@
+{
+	"name": "ventiler",
+	"definition": "ventilate; disaggregate; vent; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se ventiler/ne pas ventiler/ne pas se ventiler",
+	"indicatif": {
+		"présent": {
+			"je": "ventile",
+			"tu": "ventiles",
+			"il/elle": "ventile",
+			"nous": "ventilons",
+			"vous": "ventilez",
+			"ils/elles": "ventilent"
+		},
+		"imparfait": {
+			"je": "ventilais",
+			"tu": "ventilais",
+			"il/elle": "ventilait",
+			"nous": "ventilions",
+			"vous": "ventiliez",
+			"ils/elles": "ventilaient"
+		},
+		"futur": {
+			"je": "ventilerai",
+			"tu": "ventileras",
+			"il/elle": "ventilera",
+			"nous": "ventilerons",
+			"vous": "ventilerez",
+			"ils/elles": "ventileront"
+		},
+		"passé simple": {
+			"je": "ventilai",
+			"tu": "ventilas",
+			"il/elle": "ventila",
+			"nous": "ventilâmes",
+			"vous": "ventilâtes",
+			"ils/elles": "ventilèrent"
+		},
+		"passé composé": {
+			"j'": "ai ventilé",
+			"tu": "as ventilé",
+			"il/elle": "a ventilé",
+			"nous": "avons ventilé",
+			"vous": "avez ventilé",
+			"ils/elles": "ont ventilé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais ventilé",
+			"tu": "avais ventilé",
+			"il/elle": "avait ventilé",
+			"nous": "avions ventilé",
+			"vous": "aviez ventilé",
+			"ils/elles": "avaient ventilé"
+		},
+		"passé antérieur": {
+			"j'": "eus ventilé",
+			"tu": "eus ventilé",
+			"il/elle": "eut ventilé",
+			"nous": "eûmes ventilé",
+			"vous": "eûtes ventilé",
+			"ils/elles": "eurent ventilé"
+		},
+		"futur antérieur": {
+			"j'": "aurai ventilé",
+			"tu": "auras ventilé",
+			"il/elle": "aura ventilé",
+			"nous": "aurons ventilé",
+			"vous": "aurez ventilé",
+			"ils/elles": "auront ventilé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous ventiliez",
+			"qu'il/elle": "ventile",
+			"qu'ils/elles": "ventilent"
+		},
+		"imparfait": {
+			"que": "vous ventilassiez",
+			"qu'il/elle": "ventilât",
+			"qu'ils/elles": "ventilassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse ventilé",
+			"que": "vous eussiez ventilé",
+			"qu'il/elle": "eût ventilé",
+			"qu'ils/elles": "eussent ventilé"
+		},
+		"passé": {
+			"j'": "aie ventilé",
+			"que": "vous ayez ventilé",
+			"qu'il/elle": "ait ventilé",
+			"qu'ils/elles": "aient ventilé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "ventilerais",
+			"tu": "ventilerais",
+			"il/elle": "ventilerait",
+			"nous": "ventilerions",
+			"vous": "ventileriez",
+			"ils/elles": "ventileraient"
+		},
+		"passé première forme": {
+			"j'": "aurais ventilé",
+			"tu": "aurais ventilé",
+			"il/elle": "aurait ventilé",
+			"nous": "aurions ventilé",
+			"vous": "auriez ventilé",
+			"ils/elles": "auraient ventilé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse ventilé",
+			"tu": "eusses ventilé",
+			"il/elle": "eût ventilé",
+			"nous": "eussions ventilé",
+			"vous": "eussiez ventilé",
+			"ils/elles": "eussent ventilé"
+		}
+	},
+	"participe": {
+		"présent": { "ventilant": "" },
+		"passé composé": { "ayant": "ventilé" },
+		"passé": {
+			"masc.sg.:": "ventilé",
+			"masc.pl.:": "ventilés",
+			"fém.sg.:": "ventilée",
+			"fém.pl.:": "ventilées"
+		}
+	},
+	"imperatif": {
+		"présent": { "ventile": "", "ventilons": "", "ventilez": "" },
+		"passé": { "aie": "ventilé", "ayons": "ventilé", "ayez": "ventilé" }
+	},
+	"infinitif": {
+		"présent": { "ventiler": "" },
+		"passé": { "avoir": "ventilé" }
+	}
+}

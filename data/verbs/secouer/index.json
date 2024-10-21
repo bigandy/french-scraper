@@ -1,0 +1,138 @@
+{
+	"name": "secouer",
+	"definition": "shake; shake up; shake off; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se secouer/ne pas secouer/ne pas se secouer",
+	"indicatif": {
+		"présent": {
+			"je": "secoue",
+			"tu": "secoues",
+			"il/elle": "secoue",
+			"nous": "secouons",
+			"vous": "secouez",
+			"ils/elles": "secouent"
+		},
+		"imparfait": {
+			"je": "secouais",
+			"tu": "secouais",
+			"il/elle": "secouait",
+			"nous": "secouions",
+			"vous": "secouiez",
+			"ils/elles": "secouaient"
+		},
+		"futur": {
+			"je": "secouerai",
+			"tu": "secoueras",
+			"il/elle": "secouera",
+			"nous": "secouerons",
+			"vous": "secouerez",
+			"ils/elles": "secoueront"
+		},
+		"passé simple": {
+			"je": "secouai",
+			"tu": "secouas",
+			"il/elle": "secoua",
+			"nous": "secouâmes",
+			"vous": "secouâtes",
+			"ils/elles": "secouèrent"
+		},
+		"passé composé": {
+			"j'": "ai secoué",
+			"tu": "as secoué",
+			"il/elle": "a secoué",
+			"nous": "avons secoué",
+			"vous": "avez secoué",
+			"ils/elles": "ont secoué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais secoué",
+			"tu": "avais secoué",
+			"il/elle": "avait secoué",
+			"nous": "avions secoué",
+			"vous": "aviez secoué",
+			"ils/elles": "avaient secoué"
+		},
+		"passé antérieur": {
+			"j'": "eus secoué",
+			"tu": "eus secoué",
+			"il/elle": "eut secoué",
+			"nous": "eûmes secoué",
+			"vous": "eûtes secoué",
+			"ils/elles": "eurent secoué"
+		},
+		"futur antérieur": {
+			"j'": "aurai secoué",
+			"tu": "auras secoué",
+			"il/elle": "aura secoué",
+			"nous": "aurons secoué",
+			"vous": "aurez secoué",
+			"ils/elles": "auront secoué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous secouiez",
+			"qu'il/elle": "secoue",
+			"qu'ils/elles": "secouent"
+		},
+		"imparfait": {
+			"que": "vous secouassiez",
+			"qu'il/elle": "secouât",
+			"qu'ils/elles": "secouassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse secoué",
+			"que": "vous eussiez secoué",
+			"qu'il/elle": "eût secoué",
+			"qu'ils/elles": "eussent secoué"
+		},
+		"passé": {
+			"j'": "aie secoué",
+			"que": "vous ayez secoué",
+			"qu'il/elle": "ait secoué",
+			"qu'ils/elles": "aient secoué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "secouerais",
+			"tu": "secouerais",
+			"il/elle": "secouerait",
+			"nous": "secouerions",
+			"vous": "secoueriez",
+			"ils/elles": "secoueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais secoué",
+			"tu": "aurais secoué",
+			"il/elle": "aurait secoué",
+			"nous": "aurions secoué",
+			"vous": "auriez secoué",
+			"ils/elles": "auraient secoué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse secoué",
+			"tu": "eusses secoué",
+			"il/elle": "eût secoué",
+			"nous": "eussions secoué",
+			"vous": "eussiez secoué",
+			"ils/elles": "eussent secoué"
+		}
+	},
+	"participe": {
+		"présent": { "secouant": "" },
+		"passé composé": { "ayant": "secoué" },
+		"passé": {
+			"masc.sg.:": "secoué",
+			"masc.pl.:": "secoués",
+			"fém.sg.:": "secouée",
+			"fém.pl.:": "secouées"
+		}
+	},
+	"imperatif": {
+		"présent": { "secoue": "", "secouons": "", "secouez": "" },
+		"passé": { "aie": "secoué", "ayons": "secoué", "ayez": "secoué" }
+	},
+	"infinitif": { "présent": { "secouer": "" }, "passé": { "avoir": "secoué" } }
+}

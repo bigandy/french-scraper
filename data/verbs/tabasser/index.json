@@ -1,0 +1,141 @@
+{
+	"name": "tabasser",
+	"definition": "beat up; clobber; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se tabasser/ne pas tabasser/ne pas se tabasser",
+	"indicatif": {
+		"présent": {
+			"je": "tabasse",
+			"tu": "tabasses",
+			"il/elle": "tabasse",
+			"nous": "tabassons",
+			"vous": "tabassez",
+			"ils/elles": "tabassent"
+		},
+		"imparfait": {
+			"je": "tabassais",
+			"tu": "tabassais",
+			"il/elle": "tabassait",
+			"nous": "tabassions",
+			"vous": "tabassiez",
+			"ils/elles": "tabassaient"
+		},
+		"futur": {
+			"je": "tabasserai",
+			"tu": "tabasseras",
+			"il/elle": "tabassera",
+			"nous": "tabasserons",
+			"vous": "tabasserez",
+			"ils/elles": "tabasseront"
+		},
+		"passé simple": {
+			"je": "tabassai",
+			"tu": "tabassas",
+			"il/elle": "tabassa",
+			"nous": "tabassâmes",
+			"vous": "tabassâtes",
+			"ils/elles": "tabassèrent"
+		},
+		"passé composé": {
+			"j'": "ai tabassé",
+			"tu": "as tabassé",
+			"il/elle": "a tabassé",
+			"nous": "avons tabassé",
+			"vous": "avez tabassé",
+			"ils/elles": "ont tabassé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais tabassé",
+			"tu": "avais tabassé",
+			"il/elle": "avait tabassé",
+			"nous": "avions tabassé",
+			"vous": "aviez tabassé",
+			"ils/elles": "avaient tabassé"
+		},
+		"passé antérieur": {
+			"j'": "eus tabassé",
+			"tu": "eus tabassé",
+			"il/elle": "eut tabassé",
+			"nous": "eûmes tabassé",
+			"vous": "eûtes tabassé",
+			"ils/elles": "eurent tabassé"
+		},
+		"futur antérieur": {
+			"j'": "aurai tabassé",
+			"tu": "auras tabassé",
+			"il/elle": "aura tabassé",
+			"nous": "aurons tabassé",
+			"vous": "aurez tabassé",
+			"ils/elles": "auront tabassé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous tabassiez",
+			"qu'il/elle": "tabasse",
+			"qu'ils/elles": "tabassent"
+		},
+		"imparfait": {
+			"que": "vous tabassassiez",
+			"qu'il/elle": "tabassât",
+			"qu'ils/elles": "tabassassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse tabassé",
+			"que": "vous eussiez tabassé",
+			"qu'il/elle": "eût tabassé",
+			"qu'ils/elles": "eussent tabassé"
+		},
+		"passé": {
+			"j'": "aie tabassé",
+			"que": "vous ayez tabassé",
+			"qu'il/elle": "ait tabassé",
+			"qu'ils/elles": "aient tabassé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "tabasserais",
+			"tu": "tabasserais",
+			"il/elle": "tabasserait",
+			"nous": "tabasserions",
+			"vous": "tabasseriez",
+			"ils/elles": "tabasseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais tabassé",
+			"tu": "aurais tabassé",
+			"il/elle": "aurait tabassé",
+			"nous": "aurions tabassé",
+			"vous": "auriez tabassé",
+			"ils/elles": "auraient tabassé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse tabassé",
+			"tu": "eusses tabassé",
+			"il/elle": "eût tabassé",
+			"nous": "eussions tabassé",
+			"vous": "eussiez tabassé",
+			"ils/elles": "eussent tabassé"
+		}
+	},
+	"participe": {
+		"présent": { "tabassant": "" },
+		"passé composé": { "ayant": "tabassé" },
+		"passé": {
+			"masc.sg.:": "tabassé",
+			"masc.pl.:": "tabassés",
+			"fém.sg.:": "tabassée",
+			"fém.pl.:": "tabassées"
+		}
+	},
+	"imperatif": {
+		"présent": { "tabasse": "", "tabassons": "", "tabassez": "" },
+		"passé": { "aie": "tabassé", "ayons": "tabassé", "ayez": "tabassé" }
+	},
+	"infinitif": {
+		"présent": { "tabasser": "" },
+		"passé": { "avoir": "tabassé" }
+	}
+}

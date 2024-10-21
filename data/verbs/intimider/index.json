@@ -1,0 +1,143 @@
+{
+	"name": "intimider",
+	"definition": "intimidate; bully; be intimidated; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'intimider/ne pas intimider/ne pas s'intimider",
+	"indicatif": {
+		"présent": {
+			"j'": "intimide",
+			"tu": "intimides",
+			"il/elle": "intimide",
+			"nous": "intimidons",
+			"vous": "intimidez",
+			"ils/elles": "intimident"
+		},
+		"imparfait": {
+			"j'": "intimidais",
+			"tu": "intimidais",
+			"il/elle": "intimidait",
+			"nous": "intimidions",
+			"vous": "intimidiez",
+			"ils/elles": "intimidaient"
+		},
+		"futur": {
+			"j'": "intimiderai",
+			"tu": "intimideras",
+			"il/elle": "intimidera",
+			"nous": "intimiderons",
+			"vous": "intimiderez",
+			"ils/elles": "intimideront"
+		},
+		"passé simple": {
+			"j'": "intimidai",
+			"tu": "intimidas",
+			"il/elle": "intimida",
+			"nous": "intimidâmes",
+			"vous": "intimidâtes",
+			"ils/elles": "intimidèrent"
+		},
+		"passé composé": {
+			"j'": "ai intimidé",
+			"tu": "as intimidé",
+			"il/elle": "a intimidé",
+			"nous": "avons intimidé",
+			"vous": "avez intimidé",
+			"ils/elles": "ont intimidé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais intimidé",
+			"tu": "avais intimidé",
+			"il/elle": "avait intimidé",
+			"nous": "avions intimidé",
+			"vous": "aviez intimidé",
+			"ils/elles": "avaient intimidé"
+		},
+		"passé antérieur": {
+			"j'": "eus intimidé",
+			"tu": "eus intimidé",
+			"il/elle": "eut intimidé",
+			"nous": "eûmes intimidé",
+			"vous": "eûtes intimidé",
+			"ils/elles": "eurent intimidé"
+		},
+		"futur antérieur": {
+			"j'": "aurai intimidé",
+			"tu": "auras intimidé",
+			"il/elle": "aura intimidé",
+			"nous": "aurons intimidé",
+			"vous": "aurez intimidé",
+			"ils/elles": "auront intimidé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "intimide",
+			"que": "vous intimidiez",
+			"qu'il/elle": "intimide",
+			"qu'ils/elles": "intimident"
+		},
+		"imparfait": {
+			"j'": "intimidasse",
+			"que": "vous intimidassiez",
+			"qu'il/elle": "intimidât",
+			"qu'ils/elles": "intimidassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse intimidé",
+			"que": "vous eussiez intimidé",
+			"qu'il/elle": "eût intimidé",
+			"qu'ils/elles": "eussent intimidé"
+		},
+		"passé": {
+			"j'": "aie intimidé",
+			"que": "vous ayez intimidé",
+			"qu'il/elle": "ait intimidé",
+			"qu'ils/elles": "aient intimidé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "intimiderais",
+			"tu": "intimiderais",
+			"il/elle": "intimiderait",
+			"nous": "intimiderions",
+			"vous": "intimideriez",
+			"ils/elles": "intimideraient"
+		},
+		"passé première forme": {
+			"j'": "aurais intimidé",
+			"tu": "aurais intimidé",
+			"il/elle": "aurait intimidé",
+			"nous": "aurions intimidé",
+			"vous": "auriez intimidé",
+			"ils/elles": "auraient intimidé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse intimidé",
+			"tu": "eusses intimidé",
+			"il/elle": "eût intimidé",
+			"nous": "eussions intimidé",
+			"vous": "eussiez intimidé",
+			"ils/elles": "eussent intimidé"
+		}
+	},
+	"participe": {
+		"présent": { "intimidant": "" },
+		"passé composé": { "ayant": "intimidé" },
+		"passé": {
+			"masc.sg.:": "intimidé",
+			"masc.pl.:": "intimidés",
+			"fém.sg.:": "intimidée",
+			"fém.pl.:": "intimidées"
+		}
+	},
+	"imperatif": {
+		"présent": { "intimide": "", "intimidons": "", "intimidez": "" },
+		"passé": { "aie": "intimidé", "ayons": "intimidé", "ayez": "intimidé" }
+	},
+	"infinitif": {
+		"présent": { "intimider": "" },
+		"passé": { "avoir": "intimidé" }
+	}
+}

@@ -1,0 +1,141 @@
+{
+	"name": "compresser",
+	"definition": "compress; compact; zip; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se compresser/ne pas compresser/ne pas se compresser",
+	"indicatif": {
+		"présent": {
+			"je": "compresse",
+			"tu": "compresses",
+			"il/elle": "compresse",
+			"nous": "compressons",
+			"vous": "compressez",
+			"ils/elles": "compressent"
+		},
+		"imparfait": {
+			"je": "compressais",
+			"tu": "compressais",
+			"il/elle": "compressait",
+			"nous": "compressions",
+			"vous": "compressiez",
+			"ils/elles": "compressaient"
+		},
+		"futur": {
+			"je": "compresserai",
+			"tu": "compresseras",
+			"il/elle": "compressera",
+			"nous": "compresserons",
+			"vous": "compresserez",
+			"ils/elles": "compresseront"
+		},
+		"passé simple": {
+			"je": "compressai",
+			"tu": "compressas",
+			"il/elle": "compressa",
+			"nous": "compressâmes",
+			"vous": "compressâtes",
+			"ils/elles": "compressèrent"
+		},
+		"passé composé": {
+			"j'": "ai compressé",
+			"tu": "as compressé",
+			"il/elle": "a compressé",
+			"nous": "avons compressé",
+			"vous": "avez compressé",
+			"ils/elles": "ont compressé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais compressé",
+			"tu": "avais compressé",
+			"il/elle": "avait compressé",
+			"nous": "avions compressé",
+			"vous": "aviez compressé",
+			"ils/elles": "avaient compressé"
+		},
+		"passé antérieur": {
+			"j'": "eus compressé",
+			"tu": "eus compressé",
+			"il/elle": "eut compressé",
+			"nous": "eûmes compressé",
+			"vous": "eûtes compressé",
+			"ils/elles": "eurent compressé"
+		},
+		"futur antérieur": {
+			"j'": "aurai compressé",
+			"tu": "auras compressé",
+			"il/elle": "aura compressé",
+			"nous": "aurons compressé",
+			"vous": "aurez compressé",
+			"ils/elles": "auront compressé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous compressiez",
+			"qu'il/elle": "compresse",
+			"qu'ils/elles": "compressent"
+		},
+		"imparfait": {
+			"que": "vous compressassiez",
+			"qu'il/elle": "compressât",
+			"qu'ils/elles": "compressassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse compressé",
+			"que": "vous eussiez compressé",
+			"qu'il/elle": "eût compressé",
+			"qu'ils/elles": "eussent compressé"
+		},
+		"passé": {
+			"j'": "aie compressé",
+			"que": "vous ayez compressé",
+			"qu'il/elle": "ait compressé",
+			"qu'ils/elles": "aient compressé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "compresserais",
+			"tu": "compresserais",
+			"il/elle": "compresserait",
+			"nous": "compresserions",
+			"vous": "compresseriez",
+			"ils/elles": "compresseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais compressé",
+			"tu": "aurais compressé",
+			"il/elle": "aurait compressé",
+			"nous": "aurions compressé",
+			"vous": "auriez compressé",
+			"ils/elles": "auraient compressé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse compressé",
+			"tu": "eusses compressé",
+			"il/elle": "eût compressé",
+			"nous": "eussions compressé",
+			"vous": "eussiez compressé",
+			"ils/elles": "eussent compressé"
+		}
+	},
+	"participe": {
+		"présent": { "compressant": "" },
+		"passé composé": { "ayant": "compressé" },
+		"passé": {
+			"masc.sg.:": "compressé",
+			"masc.pl.:": "compressés",
+			"fém.sg.:": "compressée",
+			"fém.pl.:": "compressées"
+		}
+	},
+	"imperatif": {
+		"présent": { "compresse": "", "compressons": "", "compressez": "" },
+		"passé": { "aie": "compressé", "ayons": "compressé", "ayez": "compressé" }
+	},
+	"infinitif": {
+		"présent": { "compresser": "" },
+		"passé": { "avoir": "compressé" }
+	}
+}

@@ -1,0 +1,141 @@
+{
+	"name": "maquiller",
+	"definition": "make up; disguise; wear makeup; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se maquiller/ne pas maquiller/ne pas se maquiller",
+	"indicatif": {
+		"présent": {
+			"je": "maquille",
+			"tu": "maquilles",
+			"il/elle": "maquille",
+			"nous": "maquillons",
+			"vous": "maquillez",
+			"ils/elles": "maquillent"
+		},
+		"imparfait": {
+			"je": "maquillais",
+			"tu": "maquillais",
+			"il/elle": "maquillait",
+			"nous": "maquillions",
+			"vous": "maquilliez",
+			"ils/elles": "maquillaient"
+		},
+		"futur": {
+			"je": "maquillerai",
+			"tu": "maquilleras",
+			"il/elle": "maquillera",
+			"nous": "maquillerons",
+			"vous": "maquillerez",
+			"ils/elles": "maquilleront"
+		},
+		"passé simple": {
+			"je": "maquillai",
+			"tu": "maquillas",
+			"il/elle": "maquilla",
+			"nous": "maquillâmes",
+			"vous": "maquillâtes",
+			"ils/elles": "maquillèrent"
+		},
+		"passé composé": {
+			"j'": "ai maquillé",
+			"tu": "as maquillé",
+			"il/elle": "a maquillé",
+			"nous": "avons maquillé",
+			"vous": "avez maquillé",
+			"ils/elles": "ont maquillé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais maquillé",
+			"tu": "avais maquillé",
+			"il/elle": "avait maquillé",
+			"nous": "avions maquillé",
+			"vous": "aviez maquillé",
+			"ils/elles": "avaient maquillé"
+		},
+		"passé antérieur": {
+			"j'": "eus maquillé",
+			"tu": "eus maquillé",
+			"il/elle": "eut maquillé",
+			"nous": "eûmes maquillé",
+			"vous": "eûtes maquillé",
+			"ils/elles": "eurent maquillé"
+		},
+		"futur antérieur": {
+			"j'": "aurai maquillé",
+			"tu": "auras maquillé",
+			"il/elle": "aura maquillé",
+			"nous": "aurons maquillé",
+			"vous": "aurez maquillé",
+			"ils/elles": "auront maquillé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous maquilliez",
+			"qu'il/elle": "maquille",
+			"qu'ils/elles": "maquillent"
+		},
+		"imparfait": {
+			"que": "vous maquillassiez",
+			"qu'il/elle": "maquillât",
+			"qu'ils/elles": "maquillassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse maquillé",
+			"que": "vous eussiez maquillé",
+			"qu'il/elle": "eût maquillé",
+			"qu'ils/elles": "eussent maquillé"
+		},
+		"passé": {
+			"j'": "aie maquillé",
+			"que": "vous ayez maquillé",
+			"qu'il/elle": "ait maquillé",
+			"qu'ils/elles": "aient maquillé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "maquillerais",
+			"tu": "maquillerais",
+			"il/elle": "maquillerait",
+			"nous": "maquillerions",
+			"vous": "maquilleriez",
+			"ils/elles": "maquilleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais maquillé",
+			"tu": "aurais maquillé",
+			"il/elle": "aurait maquillé",
+			"nous": "aurions maquillé",
+			"vous": "auriez maquillé",
+			"ils/elles": "auraient maquillé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse maquillé",
+			"tu": "eusses maquillé",
+			"il/elle": "eût maquillé",
+			"nous": "eussions maquillé",
+			"vous": "eussiez maquillé",
+			"ils/elles": "eussent maquillé"
+		}
+	},
+	"participe": {
+		"présent": { "maquillant": "" },
+		"passé composé": { "ayant": "maquillé" },
+		"passé": {
+			"masc.sg.:": "maquillé",
+			"masc.pl.:": "maquillés",
+			"fém.sg.:": "maquillée",
+			"fém.pl.:": "maquillées"
+		}
+	},
+	"imperatif": {
+		"présent": { "maquille": "", "maquillons": "", "maquillez": "" },
+		"passé": { "aie": "maquillé", "ayons": "maquillé", "ayez": "maquillé" }
+	},
+	"infinitif": {
+		"présent": { "maquiller": "" },
+		"passé": { "avoir": "maquillé" }
+	}
+}

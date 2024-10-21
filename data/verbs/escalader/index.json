@@ -1,0 +1,143 @@
+{
+	"name": "escalader",
+	"definition": "climb; scale; shimmy up; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'escalader/ne pas escalader/ne pas s'escalader",
+	"indicatif": {
+		"présent": {
+			"j'": "escalade",
+			"tu": "escalades",
+			"il/elle": "escalade",
+			"nous": "escaladons",
+			"vous": "escaladez",
+			"ils/elles": "escaladent"
+		},
+		"imparfait": {
+			"j'": "escaladais",
+			"tu": "escaladais",
+			"il/elle": "escaladait",
+			"nous": "escaladions",
+			"vous": "escaladiez",
+			"ils/elles": "escaladaient"
+		},
+		"futur": {
+			"j'": "escaladerai",
+			"tu": "escaladeras",
+			"il/elle": "escaladera",
+			"nous": "escaladerons",
+			"vous": "escaladerez",
+			"ils/elles": "escaladeront"
+		},
+		"passé simple": {
+			"j'": "escaladai",
+			"tu": "escaladas",
+			"il/elle": "escalada",
+			"nous": "escaladâmes",
+			"vous": "escaladâtes",
+			"ils/elles": "escaladèrent"
+		},
+		"passé composé": {
+			"j'": "ai escaladé",
+			"tu": "as escaladé",
+			"il/elle": "a escaladé",
+			"nous": "avons escaladé",
+			"vous": "avez escaladé",
+			"ils/elles": "ont escaladé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais escaladé",
+			"tu": "avais escaladé",
+			"il/elle": "avait escaladé",
+			"nous": "avions escaladé",
+			"vous": "aviez escaladé",
+			"ils/elles": "avaient escaladé"
+		},
+		"passé antérieur": {
+			"j'": "eus escaladé",
+			"tu": "eus escaladé",
+			"il/elle": "eut escaladé",
+			"nous": "eûmes escaladé",
+			"vous": "eûtes escaladé",
+			"ils/elles": "eurent escaladé"
+		},
+		"futur antérieur": {
+			"j'": "aurai escaladé",
+			"tu": "auras escaladé",
+			"il/elle": "aura escaladé",
+			"nous": "aurons escaladé",
+			"vous": "aurez escaladé",
+			"ils/elles": "auront escaladé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "escalade",
+			"que": "vous escaladiez",
+			"qu'il/elle": "escalade",
+			"qu'ils/elles": "escaladent"
+		},
+		"imparfait": {
+			"j'": "escaladasse",
+			"que": "vous escaladassiez",
+			"qu'il/elle": "escaladât",
+			"qu'ils/elles": "escaladassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse escaladé",
+			"que": "vous eussiez escaladé",
+			"qu'il/elle": "eût escaladé",
+			"qu'ils/elles": "eussent escaladé"
+		},
+		"passé": {
+			"j'": "aie escaladé",
+			"que": "vous ayez escaladé",
+			"qu'il/elle": "ait escaladé",
+			"qu'ils/elles": "aient escaladé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "escaladerais",
+			"tu": "escaladerais",
+			"il/elle": "escaladerait",
+			"nous": "escaladerions",
+			"vous": "escaladeriez",
+			"ils/elles": "escaladeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais escaladé",
+			"tu": "aurais escaladé",
+			"il/elle": "aurait escaladé",
+			"nous": "aurions escaladé",
+			"vous": "auriez escaladé",
+			"ils/elles": "auraient escaladé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse escaladé",
+			"tu": "eusses escaladé",
+			"il/elle": "eût escaladé",
+			"nous": "eussions escaladé",
+			"vous": "eussiez escaladé",
+			"ils/elles": "eussent escaladé"
+		}
+	},
+	"participe": {
+		"présent": { "escaladant": "" },
+		"passé composé": { "ayant": "escaladé" },
+		"passé": {
+			"masc.sg.:": "escaladé",
+			"masc.pl.:": "escaladés",
+			"fém.sg.:": "escaladée",
+			"fém.pl.:": "escaladées"
+		}
+	},
+	"imperatif": {
+		"présent": { "escalade": "", "escaladons": "", "escaladez": "" },
+		"passé": { "aie": "escaladé", "ayons": "escaladé", "ayez": "escaladé" }
+	},
+	"infinitif": {
+		"présent": { "escalader": "" },
+		"passé": { "avoir": "escaladé" }
+	}
+}

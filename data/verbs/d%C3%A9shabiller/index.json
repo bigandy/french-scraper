@@ -1,0 +1,145 @@
+{
+	"name": "déshabiller",
+	"definition": "undress; strip; get undressed; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se déshabiller/ne pas déshabiller/ne pas se déshabiller",
+	"indicatif": {
+		"présent": {
+			"je": "déshabille",
+			"tu": "déshabilles",
+			"il/elle": "déshabille",
+			"nous": "déshabillons",
+			"vous": "déshabillez",
+			"ils/elles": "déshabillent"
+		},
+		"imparfait": {
+			"je": "déshabillais",
+			"tu": "déshabillais",
+			"il/elle": "déshabillait",
+			"nous": "déshabillions",
+			"vous": "déshabilliez",
+			"ils/elles": "déshabillaient"
+		},
+		"futur": {
+			"je": "déshabillerai",
+			"tu": "déshabilleras",
+			"il/elle": "déshabillera",
+			"nous": "déshabillerons",
+			"vous": "déshabillerez",
+			"ils/elles": "déshabilleront"
+		},
+		"passé simple": {
+			"je": "déshabillai",
+			"tu": "déshabillas",
+			"il/elle": "déshabilla",
+			"nous": "déshabillâmes",
+			"vous": "déshabillâtes",
+			"ils/elles": "déshabillèrent"
+		},
+		"passé composé": {
+			"j'": "ai déshabillé",
+			"tu": "as déshabillé",
+			"il/elle": "a déshabillé",
+			"nous": "avons déshabillé",
+			"vous": "avez déshabillé",
+			"ils/elles": "ont déshabillé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais déshabillé",
+			"tu": "avais déshabillé",
+			"il/elle": "avait déshabillé",
+			"nous": "avions déshabillé",
+			"vous": "aviez déshabillé",
+			"ils/elles": "avaient déshabillé"
+		},
+		"passé antérieur": {
+			"j'": "eus déshabillé",
+			"tu": "eus déshabillé",
+			"il/elle": "eut déshabillé",
+			"nous": "eûmes déshabillé",
+			"vous": "eûtes déshabillé",
+			"ils/elles": "eurent déshabillé"
+		},
+		"futur antérieur": {
+			"j'": "aurai déshabillé",
+			"tu": "auras déshabillé",
+			"il/elle": "aura déshabillé",
+			"nous": "aurons déshabillé",
+			"vous": "aurez déshabillé",
+			"ils/elles": "auront déshabillé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous déshabilliez",
+			"qu'il/elle": "déshabille",
+			"qu'ils/elles": "déshabillent"
+		},
+		"imparfait": {
+			"que": "vous déshabillassiez",
+			"qu'il/elle": "déshabillât",
+			"qu'ils/elles": "déshabillassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse déshabillé",
+			"que": "vous eussiez déshabillé",
+			"qu'il/elle": "eût déshabillé",
+			"qu'ils/elles": "eussent déshabillé"
+		},
+		"passé": {
+			"j'": "aie déshabillé",
+			"que": "vous ayez déshabillé",
+			"qu'il/elle": "ait déshabillé",
+			"qu'ils/elles": "aient déshabillé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "déshabillerais",
+			"tu": "déshabillerais",
+			"il/elle": "déshabillerait",
+			"nous": "déshabillerions",
+			"vous": "déshabilleriez",
+			"ils/elles": "déshabilleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais déshabillé",
+			"tu": "aurais déshabillé",
+			"il/elle": "aurait déshabillé",
+			"nous": "aurions déshabillé",
+			"vous": "auriez déshabillé",
+			"ils/elles": "auraient déshabillé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse déshabillé",
+			"tu": "eusses déshabillé",
+			"il/elle": "eût déshabillé",
+			"nous": "eussions déshabillé",
+			"vous": "eussiez déshabillé",
+			"ils/elles": "eussent déshabillé"
+		}
+	},
+	"participe": {
+		"présent": { "déshabillant": "" },
+		"passé composé": { "ayant": "déshabillé" },
+		"passé": {
+			"masc.sg.:": "déshabillé",
+			"masc.pl.:": "déshabillés",
+			"fém.sg.:": "déshabillée",
+			"fém.pl.:": "déshabillées"
+		}
+	},
+	"imperatif": {
+		"présent": { "déshabille": "", "déshabillons": "", "déshabillez": "" },
+		"passé": {
+			"aie": "déshabillé",
+			"ayons": "déshabillé",
+			"ayez": "déshabillé"
+		}
+	},
+	"infinitif": {
+		"présent": { "déshabiller": "" },
+		"passé": { "avoir": "déshabillé" }
+	}
+}

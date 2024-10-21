@@ -1,0 +1,143 @@
+{
+	"name": "irradier",
+	"definition": "irradiate; radiate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'irradier/ne pas irradier/ne pas s'irradier",
+	"indicatif": {
+		"présent": {
+			"j'": "irradie",
+			"tu": "irradies",
+			"il/elle": "irradie",
+			"nous": "irradions",
+			"vous": "irradiez",
+			"ils/elles": "irradient"
+		},
+		"imparfait": {
+			"j'": "irradiais",
+			"tu": "irradiais",
+			"il/elle": "irradiait",
+			"nous": "irradiions",
+			"vous": "irradiiez",
+			"ils/elles": "irradiaient"
+		},
+		"futur": {
+			"j'": "irradierai",
+			"tu": "irradieras",
+			"il/elle": "irradiera",
+			"nous": "irradierons",
+			"vous": "irradierez",
+			"ils/elles": "irradieront"
+		},
+		"passé simple": {
+			"j'": "irradiai",
+			"tu": "irradias",
+			"il/elle": "irradia",
+			"nous": "irradiâmes",
+			"vous": "irradiâtes",
+			"ils/elles": "irradièrent"
+		},
+		"passé composé": {
+			"j'": "ai irradié",
+			"tu": "as irradié",
+			"il/elle": "a irradié",
+			"nous": "avons irradié",
+			"vous": "avez irradié",
+			"ils/elles": "ont irradié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais irradié",
+			"tu": "avais irradié",
+			"il/elle": "avait irradié",
+			"nous": "avions irradié",
+			"vous": "aviez irradié",
+			"ils/elles": "avaient irradié"
+		},
+		"passé antérieur": {
+			"j'": "eus irradié",
+			"tu": "eus irradié",
+			"il/elle": "eut irradié",
+			"nous": "eûmes irradié",
+			"vous": "eûtes irradié",
+			"ils/elles": "eurent irradié"
+		},
+		"futur antérieur": {
+			"j'": "aurai irradié",
+			"tu": "auras irradié",
+			"il/elle": "aura irradié",
+			"nous": "aurons irradié",
+			"vous": "aurez irradié",
+			"ils/elles": "auront irradié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "irradie",
+			"que": "vous irradiiez",
+			"qu'il/elle": "irradie",
+			"qu'ils/elles": "irradient"
+		},
+		"imparfait": {
+			"j'": "irradiasse",
+			"que": "vous irradiassiez",
+			"qu'il/elle": "irradiât",
+			"qu'ils/elles": "irradiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse irradié",
+			"que": "vous eussiez irradié",
+			"qu'il/elle": "eût irradié",
+			"qu'ils/elles": "eussent irradié"
+		},
+		"passé": {
+			"j'": "aie irradié",
+			"que": "vous ayez irradié",
+			"qu'il/elle": "ait irradié",
+			"qu'ils/elles": "aient irradié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "irradierais",
+			"tu": "irradierais",
+			"il/elle": "irradierait",
+			"nous": "irradierions",
+			"vous": "irradieriez",
+			"ils/elles": "irradieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais irradié",
+			"tu": "aurais irradié",
+			"il/elle": "aurait irradié",
+			"nous": "aurions irradié",
+			"vous": "auriez irradié",
+			"ils/elles": "auraient irradié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse irradié",
+			"tu": "eusses irradié",
+			"il/elle": "eût irradié",
+			"nous": "eussions irradié",
+			"vous": "eussiez irradié",
+			"ils/elles": "eussent irradié"
+		}
+	},
+	"participe": {
+		"présent": { "irradiant": "" },
+		"passé composé": { "ayant": "irradié" },
+		"passé": {
+			"masc.sg.:": "irradié",
+			"masc.pl.:": "irradiés",
+			"fém.sg.:": "irradiée",
+			"fém.pl.:": "irradiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "irradie": "", "irradions": "", "irradiez": "" },
+		"passé": { "aie": "irradié", "ayons": "irradié", "ayez": "irradié" }
+	},
+	"infinitif": {
+		"présent": { "irradier": "" },
+		"passé": { "avoir": "irradié" }
+	}
+}

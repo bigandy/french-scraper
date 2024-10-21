@@ -1,0 +1,141 @@
+{
+	"name": "surpasser",
+	"definition": "surpass; exceed; overcome; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se surpasser/ne pas surpasser/ne pas se surpasser",
+	"indicatif": {
+		"présent": {
+			"je": "surpasse",
+			"tu": "surpasses",
+			"il/elle": "surpasse",
+			"nous": "surpassons",
+			"vous": "surpassez",
+			"ils/elles": "surpassent"
+		},
+		"imparfait": {
+			"je": "surpassais",
+			"tu": "surpassais",
+			"il/elle": "surpassait",
+			"nous": "surpassions",
+			"vous": "surpassiez",
+			"ils/elles": "surpassaient"
+		},
+		"futur": {
+			"je": "surpasserai",
+			"tu": "surpasseras",
+			"il/elle": "surpassera",
+			"nous": "surpasserons",
+			"vous": "surpasserez",
+			"ils/elles": "surpasseront"
+		},
+		"passé simple": {
+			"je": "surpassai",
+			"tu": "surpassas",
+			"il/elle": "surpassa",
+			"nous": "surpassâmes",
+			"vous": "surpassâtes",
+			"ils/elles": "surpassèrent"
+		},
+		"passé composé": {
+			"j'": "ai surpassé",
+			"tu": "as surpassé",
+			"il/elle": "a surpassé",
+			"nous": "avons surpassé",
+			"vous": "avez surpassé",
+			"ils/elles": "ont surpassé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais surpassé",
+			"tu": "avais surpassé",
+			"il/elle": "avait surpassé",
+			"nous": "avions surpassé",
+			"vous": "aviez surpassé",
+			"ils/elles": "avaient surpassé"
+		},
+		"passé antérieur": {
+			"j'": "eus surpassé",
+			"tu": "eus surpassé",
+			"il/elle": "eut surpassé",
+			"nous": "eûmes surpassé",
+			"vous": "eûtes surpassé",
+			"ils/elles": "eurent surpassé"
+		},
+		"futur antérieur": {
+			"j'": "aurai surpassé",
+			"tu": "auras surpassé",
+			"il/elle": "aura surpassé",
+			"nous": "aurons surpassé",
+			"vous": "aurez surpassé",
+			"ils/elles": "auront surpassé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous surpassiez",
+			"qu'il/elle": "surpasse",
+			"qu'ils/elles": "surpassent"
+		},
+		"imparfait": {
+			"que": "vous surpassassiez",
+			"qu'il/elle": "surpassât",
+			"qu'ils/elles": "surpassassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse surpassé",
+			"que": "vous eussiez surpassé",
+			"qu'il/elle": "eût surpassé",
+			"qu'ils/elles": "eussent surpassé"
+		},
+		"passé": {
+			"j'": "aie surpassé",
+			"que": "vous ayez surpassé",
+			"qu'il/elle": "ait surpassé",
+			"qu'ils/elles": "aient surpassé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "surpasserais",
+			"tu": "surpasserais",
+			"il/elle": "surpasserait",
+			"nous": "surpasserions",
+			"vous": "surpasseriez",
+			"ils/elles": "surpasseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais surpassé",
+			"tu": "aurais surpassé",
+			"il/elle": "aurait surpassé",
+			"nous": "aurions surpassé",
+			"vous": "auriez surpassé",
+			"ils/elles": "auraient surpassé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse surpassé",
+			"tu": "eusses surpassé",
+			"il/elle": "eût surpassé",
+			"nous": "eussions surpassé",
+			"vous": "eussiez surpassé",
+			"ils/elles": "eussent surpassé"
+		}
+	},
+	"participe": {
+		"présent": { "surpassant": "" },
+		"passé composé": { "ayant": "surpassé" },
+		"passé": {
+			"masc.sg.:": "surpassé",
+			"masc.pl.:": "surpassés",
+			"fém.sg.:": "surpassée",
+			"fém.pl.:": "surpassées"
+		}
+	},
+	"imperatif": {
+		"présent": { "surpasse": "", "surpassons": "", "surpassez": "" },
+		"passé": { "aie": "surpassé", "ayons": "surpassé", "ayez": "surpassé" }
+	},
+	"infinitif": {
+		"présent": { "surpasser": "" },
+		"passé": { "avoir": "surpassé" }
+	}
+}

@@ -1,0 +1,143 @@
+{
+	"name": "assainir",
+	"definition": "clean up; remediate; sanitize; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "s'assainir/ne pas assainir/ne pas s'assainir",
+	"indicatif": {
+		"présent": {
+			"j'": "assainis",
+			"tu": "assainis",
+			"il/elle": "assainit",
+			"nous": "assainissons",
+			"vous": "assainissez",
+			"ils/elles": "assainissent"
+		},
+		"imparfait": {
+			"j'": "assainissais",
+			"tu": "assainissais",
+			"il/elle": "assainissait",
+			"nous": "assainissions",
+			"vous": "assainissiez",
+			"ils/elles": "assainissaient"
+		},
+		"futur": {
+			"j'": "assainirai",
+			"tu": "assainiras",
+			"il/elle": "assainira",
+			"nous": "assainirons",
+			"vous": "assainirez",
+			"ils/elles": "assainiront"
+		},
+		"passé simple": {
+			"j'": "assainis",
+			"tu": "assainis",
+			"il/elle": "assainit",
+			"nous": "assainîmes",
+			"vous": "assainîtes",
+			"ils/elles": "assainirent"
+		},
+		"passé composé": {
+			"j'": "ai assaini",
+			"tu": "as assaini",
+			"il/elle": "a assaini",
+			"nous": "avons assaini",
+			"vous": "avez assaini",
+			"ils/elles": "ont assaini"
+		},
+		"plus-que-parfait": {
+			"j'": "avais assaini",
+			"tu": "avais assaini",
+			"il/elle": "avait assaini",
+			"nous": "avions assaini",
+			"vous": "aviez assaini",
+			"ils/elles": "avaient assaini"
+		},
+		"passé antérieur": {
+			"j'": "eus assaini",
+			"tu": "eus assaini",
+			"il/elle": "eut assaini",
+			"nous": "eûmes assaini",
+			"vous": "eûtes assaini",
+			"ils/elles": "eurent assaini"
+		},
+		"futur antérieur": {
+			"j'": "aurai assaini",
+			"tu": "auras assaini",
+			"il/elle": "aura assaini",
+			"nous": "aurons assaini",
+			"vous": "aurez assaini",
+			"ils/elles": "auront assaini"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "assainisse",
+			"que": "vous assainissiez",
+			"qu'il/elle": "assainisse",
+			"qu'ils/elles": "assainissent"
+		},
+		"imparfait": {
+			"j'": "assainisse",
+			"que": "vous assainissiez",
+			"qu'il/elle": "assainît",
+			"qu'ils/elles": "assainissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse assaini",
+			"que": "vous eussiez assaini",
+			"qu'il/elle": "eût assaini",
+			"qu'ils/elles": "eussent assaini"
+		},
+		"passé": {
+			"j'": "aie assaini",
+			"que": "vous ayez assaini",
+			"qu'il/elle": "ait assaini",
+			"qu'ils/elles": "aient assaini"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "assainirais",
+			"tu": "assainirais",
+			"il/elle": "assainirait",
+			"nous": "assainirions",
+			"vous": "assainiriez",
+			"ils/elles": "assainiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais assaini",
+			"tu": "aurais assaini",
+			"il/elle": "aurait assaini",
+			"nous": "aurions assaini",
+			"vous": "auriez assaini",
+			"ils/elles": "auraient assaini"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse assaini",
+			"tu": "eusses assaini",
+			"il/elle": "eût assaini",
+			"nous": "eussions assaini",
+			"vous": "eussiez assaini",
+			"ils/elles": "eussent assaini"
+		}
+	},
+	"participe": {
+		"présent": { "assainissant": "" },
+		"passé composé": { "ayant": "assaini" },
+		"passé": {
+			"masc.sg.:": "assaini",
+			"masc.pl.:": "assainis",
+			"fém.sg.:": "assainie",
+			"fém.pl.:": "assainies"
+		}
+	},
+	"imperatif": {
+		"présent": { "assainis": "", "assainissons": "", "assainissez": "" },
+		"passé": { "aie": "assaini", "ayons": "assaini", "ayez": "assaini" }
+	},
+	"infinitif": {
+		"présent": { "assainir": "" },
+		"passé": { "avoir": "assaini" }
+	}
+}

@@ -1,0 +1,138 @@
+{
+	"name": "piller",
+	"definition": "plunder; loot; pillage; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se piller/ne pas piller/ne pas se piller",
+	"indicatif": {
+		"présent": {
+			"je": "pille",
+			"tu": "pilles",
+			"il/elle": "pille",
+			"nous": "pillons",
+			"vous": "pillez",
+			"ils/elles": "pillent"
+		},
+		"imparfait": {
+			"je": "pillais",
+			"tu": "pillais",
+			"il/elle": "pillait",
+			"nous": "pillions",
+			"vous": "pilliez",
+			"ils/elles": "pillaient"
+		},
+		"futur": {
+			"je": "pillerai",
+			"tu": "pilleras",
+			"il/elle": "pillera",
+			"nous": "pillerons",
+			"vous": "pillerez",
+			"ils/elles": "pilleront"
+		},
+		"passé simple": {
+			"je": "pillai",
+			"tu": "pillas",
+			"il/elle": "pilla",
+			"nous": "pillâmes",
+			"vous": "pillâtes",
+			"ils/elles": "pillèrent"
+		},
+		"passé composé": {
+			"j'": "ai pillé",
+			"tu": "as pillé",
+			"il/elle": "a pillé",
+			"nous": "avons pillé",
+			"vous": "avez pillé",
+			"ils/elles": "ont pillé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais pillé",
+			"tu": "avais pillé",
+			"il/elle": "avait pillé",
+			"nous": "avions pillé",
+			"vous": "aviez pillé",
+			"ils/elles": "avaient pillé"
+		},
+		"passé antérieur": {
+			"j'": "eus pillé",
+			"tu": "eus pillé",
+			"il/elle": "eut pillé",
+			"nous": "eûmes pillé",
+			"vous": "eûtes pillé",
+			"ils/elles": "eurent pillé"
+		},
+		"futur antérieur": {
+			"j'": "aurai pillé",
+			"tu": "auras pillé",
+			"il/elle": "aura pillé",
+			"nous": "aurons pillé",
+			"vous": "aurez pillé",
+			"ils/elles": "auront pillé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous pilliez",
+			"qu'il/elle": "pille",
+			"qu'ils/elles": "pillent"
+		},
+		"imparfait": {
+			"que": "vous pillassiez",
+			"qu'il/elle": "pillât",
+			"qu'ils/elles": "pillassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse pillé",
+			"que": "vous eussiez pillé",
+			"qu'il/elle": "eût pillé",
+			"qu'ils/elles": "eussent pillé"
+		},
+		"passé": {
+			"j'": "aie pillé",
+			"que": "vous ayez pillé",
+			"qu'il/elle": "ait pillé",
+			"qu'ils/elles": "aient pillé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "pillerais",
+			"tu": "pillerais",
+			"il/elle": "pillerait",
+			"nous": "pillerions",
+			"vous": "pilleriez",
+			"ils/elles": "pilleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais pillé",
+			"tu": "aurais pillé",
+			"il/elle": "aurait pillé",
+			"nous": "aurions pillé",
+			"vous": "auriez pillé",
+			"ils/elles": "auraient pillé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse pillé",
+			"tu": "eusses pillé",
+			"il/elle": "eût pillé",
+			"nous": "eussions pillé",
+			"vous": "eussiez pillé",
+			"ils/elles": "eussent pillé"
+		}
+	},
+	"participe": {
+		"présent": { "pillant": "" },
+		"passé composé": { "ayant": "pillé" },
+		"passé": {
+			"masc.sg.:": "pillé",
+			"masc.pl.:": "pillés",
+			"fém.sg.:": "pillée",
+			"fém.pl.:": "pillées"
+		}
+	},
+	"imperatif": {
+		"présent": { "pille": "", "pillons": "", "pillez": "" },
+		"passé": { "aie": "pillé", "ayons": "pillé", "ayez": "pillé" }
+	},
+	"infinitif": { "présent": { "piller": "" }, "passé": { "avoir": "pillé" } }
+}

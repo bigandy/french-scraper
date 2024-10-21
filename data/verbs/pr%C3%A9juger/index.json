@@ -1,0 +1,141 @@
+{
+	"name": "préjuger",
+	"definition": "prejudge; prejudice; pre-empt; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "se préjuger/ne pas préjuger/ne pas se préjuger",
+	"indicatif": {
+		"présent": {
+			"je": "préjuge",
+			"tu": "préjuges",
+			"il/elle": "préjuge",
+			"nous": "préjugeons",
+			"vous": "préjugez",
+			"ils/elles": "préjugent"
+		},
+		"imparfait": {
+			"je": "préjugeais",
+			"tu": "préjugeais",
+			"il/elle": "préjugeait",
+			"nous": "préjugions",
+			"vous": "préjugiez",
+			"ils/elles": "préjugeaient"
+		},
+		"futur": {
+			"je": "préjugerai",
+			"tu": "préjugeras",
+			"il/elle": "préjugera",
+			"nous": "préjugerons",
+			"vous": "préjugerez",
+			"ils/elles": "préjugeront"
+		},
+		"passé simple": {
+			"je": "préjugeai",
+			"tu": "préjugeas",
+			"il/elle": "préjugea",
+			"nous": "préjugeâmes",
+			"vous": "préjugeâtes",
+			"ils/elles": "préjugèrent"
+		},
+		"passé composé": {
+			"j'": "ai préjugé",
+			"tu": "as préjugé",
+			"il/elle": "a préjugé",
+			"nous": "avons préjugé",
+			"vous": "avez préjugé",
+			"ils/elles": "ont préjugé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais préjugé",
+			"tu": "avais préjugé",
+			"il/elle": "avait préjugé",
+			"nous": "avions préjugé",
+			"vous": "aviez préjugé",
+			"ils/elles": "avaient préjugé"
+		},
+		"passé antérieur": {
+			"j'": "eus préjugé",
+			"tu": "eus préjugé",
+			"il/elle": "eut préjugé",
+			"nous": "eûmes préjugé",
+			"vous": "eûtes préjugé",
+			"ils/elles": "eurent préjugé"
+		},
+		"futur antérieur": {
+			"j'": "aurai préjugé",
+			"tu": "auras préjugé",
+			"il/elle": "aura préjugé",
+			"nous": "aurons préjugé",
+			"vous": "aurez préjugé",
+			"ils/elles": "auront préjugé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous préjugiez",
+			"qu'il/elle": "préjuge",
+			"qu'ils/elles": "préjugent"
+		},
+		"imparfait": {
+			"que": "vous préjugeassiez",
+			"qu'il/elle": "préjugeât",
+			"qu'ils/elles": "préjugeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse préjugé",
+			"que": "vous eussiez préjugé",
+			"qu'il/elle": "eût préjugé",
+			"qu'ils/elles": "eussent préjugé"
+		},
+		"passé": {
+			"j'": "aie préjugé",
+			"que": "vous ayez préjugé",
+			"qu'il/elle": "ait préjugé",
+			"qu'ils/elles": "aient préjugé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "préjugerais",
+			"tu": "préjugerais",
+			"il/elle": "préjugerait",
+			"nous": "préjugerions",
+			"vous": "préjugeriez",
+			"ils/elles": "préjugeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais préjugé",
+			"tu": "aurais préjugé",
+			"il/elle": "aurait préjugé",
+			"nous": "aurions préjugé",
+			"vous": "auriez préjugé",
+			"ils/elles": "auraient préjugé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse préjugé",
+			"tu": "eusses préjugé",
+			"il/elle": "eût préjugé",
+			"nous": "eussions préjugé",
+			"vous": "eussiez préjugé",
+			"ils/elles": "eussent préjugé"
+		}
+	},
+	"participe": {
+		"présent": { "préjugeant": "" },
+		"passé composé": { "ayant": "préjugé" },
+		"passé": {
+			"masc.sg.:": "préjugé",
+			"masc.pl.:": "préjugés",
+			"fém.sg.:": "préjugée",
+			"fém.pl.:": "préjugées"
+		}
+	},
+	"imperatif": {
+		"présent": { "préjuge": "", "préjugeons": "", "préjugez": "" },
+		"passé": { "aie": "préjugé", "ayons": "préjugé", "ayez": "préjugé" }
+	},
+	"infinitif": {
+		"présent": { "préjuger": "" },
+		"passé": { "avoir": "préjugé" }
+	}
+}

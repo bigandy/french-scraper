@@ -1,0 +1,141 @@
+{
+	"name": "raccourcir",
+	"definition": "shorten; reduce; shorter; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se raccourcir/ne pas raccourcir/ne pas se raccourcir",
+	"indicatif": {
+		"présent": {
+			"je": "raccourcis",
+			"tu": "raccourcis",
+			"il/elle": "raccourcit",
+			"nous": "raccourcissons",
+			"vous": "raccourcissez",
+			"ils/elles": "raccourcissent"
+		},
+		"imparfait": {
+			"je": "raccourcissais",
+			"tu": "raccourcissais",
+			"il/elle": "raccourcissait",
+			"nous": "raccourcissions",
+			"vous": "raccourcissiez",
+			"ils/elles": "raccourcissaient"
+		},
+		"futur": {
+			"je": "raccourcirai",
+			"tu": "raccourciras",
+			"il/elle": "raccourcira",
+			"nous": "raccourcirons",
+			"vous": "raccourcirez",
+			"ils/elles": "raccourciront"
+		},
+		"passé simple": {
+			"je": "raccourcis",
+			"tu": "raccourcis",
+			"il/elle": "raccourcit",
+			"nous": "raccourcîmes",
+			"vous": "raccourcîtes",
+			"ils/elles": "raccourcirent"
+		},
+		"passé composé": {
+			"j'": "ai raccourci",
+			"tu": "as raccourci",
+			"il/elle": "a raccourci",
+			"nous": "avons raccourci",
+			"vous": "avez raccourci",
+			"ils/elles": "ont raccourci"
+		},
+		"plus-que-parfait": {
+			"j'": "avais raccourci",
+			"tu": "avais raccourci",
+			"il/elle": "avait raccourci",
+			"nous": "avions raccourci",
+			"vous": "aviez raccourci",
+			"ils/elles": "avaient raccourci"
+		},
+		"passé antérieur": {
+			"j'": "eus raccourci",
+			"tu": "eus raccourci",
+			"il/elle": "eut raccourci",
+			"nous": "eûmes raccourci",
+			"vous": "eûtes raccourci",
+			"ils/elles": "eurent raccourci"
+		},
+		"futur antérieur": {
+			"j'": "aurai raccourci",
+			"tu": "auras raccourci",
+			"il/elle": "aura raccourci",
+			"nous": "aurons raccourci",
+			"vous": "aurez raccourci",
+			"ils/elles": "auront raccourci"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous raccourcissiez",
+			"qu'il/elle": "raccourcisse",
+			"qu'ils/elles": "raccourcissent"
+		},
+		"imparfait": {
+			"que": "vous raccourcissiez",
+			"qu'il/elle": "raccourcît",
+			"qu'ils/elles": "raccourcissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse raccourci",
+			"que": "vous eussiez raccourci",
+			"qu'il/elle": "eût raccourci",
+			"qu'ils/elles": "eussent raccourci"
+		},
+		"passé": {
+			"j'": "aie raccourci",
+			"que": "vous ayez raccourci",
+			"qu'il/elle": "ait raccourci",
+			"qu'ils/elles": "aient raccourci"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "raccourcirais",
+			"tu": "raccourcirais",
+			"il/elle": "raccourcirait",
+			"nous": "raccourcirions",
+			"vous": "raccourciriez",
+			"ils/elles": "raccourciraient"
+		},
+		"passé première forme": {
+			"j'": "aurais raccourci",
+			"tu": "aurais raccourci",
+			"il/elle": "aurait raccourci",
+			"nous": "aurions raccourci",
+			"vous": "auriez raccourci",
+			"ils/elles": "auraient raccourci"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse raccourci",
+			"tu": "eusses raccourci",
+			"il/elle": "eût raccourci",
+			"nous": "eussions raccourci",
+			"vous": "eussiez raccourci",
+			"ils/elles": "eussent raccourci"
+		}
+	},
+	"participe": {
+		"présent": { "raccourcissant": "" },
+		"passé composé": { "ayant": "raccourci" },
+		"passé": {
+			"masc.sg.:": "raccourci",
+			"masc.pl.:": "raccourcis",
+			"fém.sg.:": "raccourcie",
+			"fém.pl.:": "raccourcies"
+		}
+	},
+	"imperatif": {
+		"présent": { "raccourcis": "", "raccourcissons": "", "raccourcissez": "" },
+		"passé": { "aie": "raccourci", "ayons": "raccourci", "ayez": "raccourci" }
+	},
+	"infinitif": {
+		"présent": { "raccourcir": "" },
+		"passé": { "avoir": "raccourci" }
+	}
+}

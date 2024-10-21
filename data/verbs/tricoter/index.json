@@ -1,0 +1,141 @@
+{
+	"name": "tricoter",
+	"definition": "knit; work; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se tricoter/ne pas tricoter/ne pas se tricoter",
+	"indicatif": {
+		"présent": {
+			"je": "tricote",
+			"tu": "tricotes",
+			"il/elle": "tricote",
+			"nous": "tricotons",
+			"vous": "tricotez",
+			"ils/elles": "tricotent"
+		},
+		"imparfait": {
+			"je": "tricotais",
+			"tu": "tricotais",
+			"il/elle": "tricotait",
+			"nous": "tricotions",
+			"vous": "tricotiez",
+			"ils/elles": "tricotaient"
+		},
+		"futur": {
+			"je": "tricoterai",
+			"tu": "tricoteras",
+			"il/elle": "tricotera",
+			"nous": "tricoterons",
+			"vous": "tricoterez",
+			"ils/elles": "tricoteront"
+		},
+		"passé simple": {
+			"je": "tricotai",
+			"tu": "tricotas",
+			"il/elle": "tricota",
+			"nous": "tricotâmes",
+			"vous": "tricotâtes",
+			"ils/elles": "tricotèrent"
+		},
+		"passé composé": {
+			"j'": "ai tricoté",
+			"tu": "as tricoté",
+			"il/elle": "a tricoté",
+			"nous": "avons tricoté",
+			"vous": "avez tricoté",
+			"ils/elles": "ont tricoté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais tricoté",
+			"tu": "avais tricoté",
+			"il/elle": "avait tricoté",
+			"nous": "avions tricoté",
+			"vous": "aviez tricoté",
+			"ils/elles": "avaient tricoté"
+		},
+		"passé antérieur": {
+			"j'": "eus tricoté",
+			"tu": "eus tricoté",
+			"il/elle": "eut tricoté",
+			"nous": "eûmes tricoté",
+			"vous": "eûtes tricoté",
+			"ils/elles": "eurent tricoté"
+		},
+		"futur antérieur": {
+			"j'": "aurai tricoté",
+			"tu": "auras tricoté",
+			"il/elle": "aura tricoté",
+			"nous": "aurons tricoté",
+			"vous": "aurez tricoté",
+			"ils/elles": "auront tricoté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous tricotiez",
+			"qu'il/elle": "tricote",
+			"qu'ils/elles": "tricotent"
+		},
+		"imparfait": {
+			"que": "vous tricotassiez",
+			"qu'il/elle": "tricotât",
+			"qu'ils/elles": "tricotassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse tricoté",
+			"que": "vous eussiez tricoté",
+			"qu'il/elle": "eût tricoté",
+			"qu'ils/elles": "eussent tricoté"
+		},
+		"passé": {
+			"j'": "aie tricoté",
+			"que": "vous ayez tricoté",
+			"qu'il/elle": "ait tricoté",
+			"qu'ils/elles": "aient tricoté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "tricoterais",
+			"tu": "tricoterais",
+			"il/elle": "tricoterait",
+			"nous": "tricoterions",
+			"vous": "tricoteriez",
+			"ils/elles": "tricoteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais tricoté",
+			"tu": "aurais tricoté",
+			"il/elle": "aurait tricoté",
+			"nous": "aurions tricoté",
+			"vous": "auriez tricoté",
+			"ils/elles": "auraient tricoté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse tricoté",
+			"tu": "eusses tricoté",
+			"il/elle": "eût tricoté",
+			"nous": "eussions tricoté",
+			"vous": "eussiez tricoté",
+			"ils/elles": "eussent tricoté"
+		}
+	},
+	"participe": {
+		"présent": { "tricotant": "" },
+		"passé composé": { "ayant": "tricoté" },
+		"passé": {
+			"masc.sg.:": "tricoté",
+			"masc.pl.:": "tricotés",
+			"fém.sg.:": "tricotée",
+			"fém.pl.:": "tricotées"
+		}
+	},
+	"imperatif": {
+		"présent": { "tricote": "", "tricotons": "", "tricotez": "" },
+		"passé": { "aie": "tricoté", "ayons": "tricoté", "ayez": "tricoté" }
+	},
+	"infinitif": {
+		"présent": { "tricoter": "" },
+		"passé": { "avoir": "tricoté" }
+	}
+}

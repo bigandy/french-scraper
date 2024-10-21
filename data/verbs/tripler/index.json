@@ -1,0 +1,138 @@
+{
+	"name": "tripler",
+	"definition": "triple; treble; increase threefold; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se tripler/ne pas tripler/ne pas se tripler",
+	"indicatif": {
+		"présent": {
+			"je": "triple",
+			"tu": "triples",
+			"il/elle": "triple",
+			"nous": "triplons",
+			"vous": "triplez",
+			"ils/elles": "triplent"
+		},
+		"imparfait": {
+			"je": "triplais",
+			"tu": "triplais",
+			"il/elle": "triplait",
+			"nous": "triplions",
+			"vous": "tripliez",
+			"ils/elles": "triplaient"
+		},
+		"futur": {
+			"je": "triplerai",
+			"tu": "tripleras",
+			"il/elle": "triplera",
+			"nous": "triplerons",
+			"vous": "triplerez",
+			"ils/elles": "tripleront"
+		},
+		"passé simple": {
+			"je": "triplai",
+			"tu": "triplas",
+			"il/elle": "tripla",
+			"nous": "triplâmes",
+			"vous": "triplâtes",
+			"ils/elles": "triplèrent"
+		},
+		"passé composé": {
+			"j'": "ai triplé",
+			"tu": "as triplé",
+			"il/elle": "a triplé",
+			"nous": "avons triplé",
+			"vous": "avez triplé",
+			"ils/elles": "ont triplé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais triplé",
+			"tu": "avais triplé",
+			"il/elle": "avait triplé",
+			"nous": "avions triplé",
+			"vous": "aviez triplé",
+			"ils/elles": "avaient triplé"
+		},
+		"passé antérieur": {
+			"j'": "eus triplé",
+			"tu": "eus triplé",
+			"il/elle": "eut triplé",
+			"nous": "eûmes triplé",
+			"vous": "eûtes triplé",
+			"ils/elles": "eurent triplé"
+		},
+		"futur antérieur": {
+			"j'": "aurai triplé",
+			"tu": "auras triplé",
+			"il/elle": "aura triplé",
+			"nous": "aurons triplé",
+			"vous": "aurez triplé",
+			"ils/elles": "auront triplé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous tripliez",
+			"qu'il/elle": "triple",
+			"qu'ils/elles": "triplent"
+		},
+		"imparfait": {
+			"que": "vous triplassiez",
+			"qu'il/elle": "triplât",
+			"qu'ils/elles": "triplassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse triplé",
+			"que": "vous eussiez triplé",
+			"qu'il/elle": "eût triplé",
+			"qu'ils/elles": "eussent triplé"
+		},
+		"passé": {
+			"j'": "aie triplé",
+			"que": "vous ayez triplé",
+			"qu'il/elle": "ait triplé",
+			"qu'ils/elles": "aient triplé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "triplerais",
+			"tu": "triplerais",
+			"il/elle": "triplerait",
+			"nous": "triplerions",
+			"vous": "tripleriez",
+			"ils/elles": "tripleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais triplé",
+			"tu": "aurais triplé",
+			"il/elle": "aurait triplé",
+			"nous": "aurions triplé",
+			"vous": "auriez triplé",
+			"ils/elles": "auraient triplé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse triplé",
+			"tu": "eusses triplé",
+			"il/elle": "eût triplé",
+			"nous": "eussions triplé",
+			"vous": "eussiez triplé",
+			"ils/elles": "eussent triplé"
+		}
+	},
+	"participe": {
+		"présent": { "triplant": "" },
+		"passé composé": { "ayant": "triplé" },
+		"passé": {
+			"masc.sg.:": "triplé",
+			"masc.pl.:": "triplés",
+			"fém.sg.:": "triplée",
+			"fém.pl.:": "triplées"
+		}
+	},
+	"imperatif": {
+		"présent": { "triple": "", "triplons": "", "triplez": "" },
+		"passé": { "aie": "triplé", "ayons": "triplé", "ayez": "triplé" }
+	},
+	"infinitif": { "présent": { "tripler": "" }, "passé": { "avoir": "triplé" } }
+}

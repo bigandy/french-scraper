@@ -1,0 +1,141 @@
+{
+	"name": "chapeler",
+	"definition": "",
+	"model": "appeler",
+	"auxiliary": "avoir",
+	"otherForms": "se chapeler/ne pas chapeler/ne pas se chapeler",
+	"indicatif": {
+		"présent": {
+			"je": "chapelle",
+			"tu": "chapelles",
+			"il/elle": "chapelle",
+			"nous": "chapelons",
+			"vous": "chapelez",
+			"ils/elles": "chapellent"
+		},
+		"imparfait": {
+			"je": "chapelais",
+			"tu": "chapelais",
+			"il/elle": "chapelait",
+			"nous": "chapelions",
+			"vous": "chapeliez",
+			"ils/elles": "chapelaient"
+		},
+		"futur": {
+			"je": "chapellerai",
+			"tu": "chapelleras",
+			"il/elle": "chapellera",
+			"nous": "chapellerons",
+			"vous": "chapellerez",
+			"ils/elles": "chapelleront"
+		},
+		"passé simple": {
+			"je": "chapelai",
+			"tu": "chapelas",
+			"il/elle": "chapela",
+			"nous": "chapelâmes",
+			"vous": "chapelâtes",
+			"ils/elles": "chapelèrent"
+		},
+		"passé composé": {
+			"j'": "ai chapelé",
+			"tu": "as chapelé",
+			"il/elle": "a chapelé",
+			"nous": "avons chapelé",
+			"vous": "avez chapelé",
+			"ils/elles": "ont chapelé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais chapelé",
+			"tu": "avais chapelé",
+			"il/elle": "avait chapelé",
+			"nous": "avions chapelé",
+			"vous": "aviez chapelé",
+			"ils/elles": "avaient chapelé"
+		},
+		"passé antérieur": {
+			"j'": "eus chapelé",
+			"tu": "eus chapelé",
+			"il/elle": "eut chapelé",
+			"nous": "eûmes chapelé",
+			"vous": "eûtes chapelé",
+			"ils/elles": "eurent chapelé"
+		},
+		"futur antérieur": {
+			"j'": "aurai chapelé",
+			"tu": "auras chapelé",
+			"il/elle": "aura chapelé",
+			"nous": "aurons chapelé",
+			"vous": "aurez chapelé",
+			"ils/elles": "auront chapelé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous chapeliez",
+			"qu'il/elle": "chapelle",
+			"qu'ils/elles": "chapellent"
+		},
+		"imparfait": {
+			"que": "vous chapelassiez",
+			"qu'il/elle": "chapelât",
+			"qu'ils/elles": "chapelassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse chapelé",
+			"que": "vous eussiez chapelé",
+			"qu'il/elle": "eût chapelé",
+			"qu'ils/elles": "eussent chapelé"
+		},
+		"passé": {
+			"j'": "aie chapelé",
+			"que": "vous ayez chapelé",
+			"qu'il/elle": "ait chapelé",
+			"qu'ils/elles": "aient chapelé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "chapellerais",
+			"tu": "chapellerais",
+			"il/elle": "chapellerait",
+			"nous": "chapellerions",
+			"vous": "chapelleriez",
+			"ils/elles": "chapelleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais chapelé",
+			"tu": "aurais chapelé",
+			"il/elle": "aurait chapelé",
+			"nous": "aurions chapelé",
+			"vous": "auriez chapelé",
+			"ils/elles": "auraient chapelé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse chapelé",
+			"tu": "eusses chapelé",
+			"il/elle": "eût chapelé",
+			"nous": "eussions chapelé",
+			"vous": "eussiez chapelé",
+			"ils/elles": "eussent chapelé"
+		}
+	},
+	"participe": {
+		"présent": { "chapelant": "" },
+		"passé composé": { "ayant": "chapelé" },
+		"passé": {
+			"masc.sg.:": "chapelé",
+			"masc.pl.:": "chapelés",
+			"fém.sg.:": "chapelée",
+			"fém.pl.:": "chapelées"
+		}
+	},
+	"imperatif": {
+		"présent": { "chapelle": "", "chapelons": "", "chapelez": "" },
+		"passé": { "aie": "chapelé", "ayons": "chapelé", "ayez": "chapelé" }
+	},
+	"infinitif": {
+		"présent": { "chapeler": "" },
+		"passé": { "avoir": "chapelé" }
+	}
+}

@@ -1,0 +1,141 @@
+{
+	"name": "desserrer",
+	"definition": "loosen; release; loose; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se desserrer/ne pas desserrer/ne pas se desserrer",
+	"indicatif": {
+		"présent": {
+			"je": "desserre",
+			"tu": "desserres",
+			"il/elle": "desserre",
+			"nous": "desserrons",
+			"vous": "desserrez",
+			"ils/elles": "desserrent"
+		},
+		"imparfait": {
+			"je": "desserrais",
+			"tu": "desserrais",
+			"il/elle": "desserrait",
+			"nous": "desserrions",
+			"vous": "desserriez",
+			"ils/elles": "desserraient"
+		},
+		"futur": {
+			"je": "desserrerai",
+			"tu": "desserreras",
+			"il/elle": "desserrera",
+			"nous": "desserrerons",
+			"vous": "desserrerez",
+			"ils/elles": "desserreront"
+		},
+		"passé simple": {
+			"je": "desserrai",
+			"tu": "desserras",
+			"il/elle": "desserra",
+			"nous": "desserrâmes",
+			"vous": "desserrâtes",
+			"ils/elles": "desserrèrent"
+		},
+		"passé composé": {
+			"j'": "ai desserré",
+			"tu": "as desserré",
+			"il/elle": "a desserré",
+			"nous": "avons desserré",
+			"vous": "avez desserré",
+			"ils/elles": "ont desserré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais desserré",
+			"tu": "avais desserré",
+			"il/elle": "avait desserré",
+			"nous": "avions desserré",
+			"vous": "aviez desserré",
+			"ils/elles": "avaient desserré"
+		},
+		"passé antérieur": {
+			"j'": "eus desserré",
+			"tu": "eus desserré",
+			"il/elle": "eut desserré",
+			"nous": "eûmes desserré",
+			"vous": "eûtes desserré",
+			"ils/elles": "eurent desserré"
+		},
+		"futur antérieur": {
+			"j'": "aurai desserré",
+			"tu": "auras desserré",
+			"il/elle": "aura desserré",
+			"nous": "aurons desserré",
+			"vous": "aurez desserré",
+			"ils/elles": "auront desserré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous desserriez",
+			"qu'il/elle": "desserre",
+			"qu'ils/elles": "desserrent"
+		},
+		"imparfait": {
+			"que": "vous desserrassiez",
+			"qu'il/elle": "desserrât",
+			"qu'ils/elles": "desserrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse desserré",
+			"que": "vous eussiez desserré",
+			"qu'il/elle": "eût desserré",
+			"qu'ils/elles": "eussent desserré"
+		},
+		"passé": {
+			"j'": "aie desserré",
+			"que": "vous ayez desserré",
+			"qu'il/elle": "ait desserré",
+			"qu'ils/elles": "aient desserré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "desserrerais",
+			"tu": "desserrerais",
+			"il/elle": "desserrerait",
+			"nous": "desserrerions",
+			"vous": "desserreriez",
+			"ils/elles": "desserreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais desserré",
+			"tu": "aurais desserré",
+			"il/elle": "aurait desserré",
+			"nous": "aurions desserré",
+			"vous": "auriez desserré",
+			"ils/elles": "auraient desserré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse desserré",
+			"tu": "eusses desserré",
+			"il/elle": "eût desserré",
+			"nous": "eussions desserré",
+			"vous": "eussiez desserré",
+			"ils/elles": "eussent desserré"
+		}
+	},
+	"participe": {
+		"présent": { "desserrant": "" },
+		"passé composé": { "ayant": "desserré" },
+		"passé": {
+			"masc.sg.:": "desserré",
+			"masc.pl.:": "desserrés",
+			"fém.sg.:": "desserrée",
+			"fém.pl.:": "desserrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "desserre": "", "desserrons": "", "desserrez": "" },
+		"passé": { "aie": "desserré", "ayons": "desserré", "ayez": "desserré" }
+	},
+	"infinitif": {
+		"présent": { "desserrer": "" },
+		"passé": { "avoir": "desserré" }
+	}
+}

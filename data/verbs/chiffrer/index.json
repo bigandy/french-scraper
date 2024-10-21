@@ -1,0 +1,141 @@
+{
+	"name": "chiffrer",
+	"definition": "encrypt; quantify; amount; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se chiffrer/ne pas chiffrer/ne pas se chiffrer",
+	"indicatif": {
+		"présent": {
+			"je": "chiffre",
+			"tu": "chiffres",
+			"il/elle": "chiffre",
+			"nous": "chiffrons",
+			"vous": "chiffrez",
+			"ils/elles": "chiffrent"
+		},
+		"imparfait": {
+			"je": "chiffrais",
+			"tu": "chiffrais",
+			"il/elle": "chiffrait",
+			"nous": "chiffrions",
+			"vous": "chiffriez",
+			"ils/elles": "chiffraient"
+		},
+		"futur": {
+			"je": "chiffrerai",
+			"tu": "chiffreras",
+			"il/elle": "chiffrera",
+			"nous": "chiffrerons",
+			"vous": "chiffrerez",
+			"ils/elles": "chiffreront"
+		},
+		"passé simple": {
+			"je": "chiffrai",
+			"tu": "chiffras",
+			"il/elle": "chiffra",
+			"nous": "chiffrâmes",
+			"vous": "chiffrâtes",
+			"ils/elles": "chiffrèrent"
+		},
+		"passé composé": {
+			"j'": "ai chiffré",
+			"tu": "as chiffré",
+			"il/elle": "a chiffré",
+			"nous": "avons chiffré",
+			"vous": "avez chiffré",
+			"ils/elles": "ont chiffré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais chiffré",
+			"tu": "avais chiffré",
+			"il/elle": "avait chiffré",
+			"nous": "avions chiffré",
+			"vous": "aviez chiffré",
+			"ils/elles": "avaient chiffré"
+		},
+		"passé antérieur": {
+			"j'": "eus chiffré",
+			"tu": "eus chiffré",
+			"il/elle": "eut chiffré",
+			"nous": "eûmes chiffré",
+			"vous": "eûtes chiffré",
+			"ils/elles": "eurent chiffré"
+		},
+		"futur antérieur": {
+			"j'": "aurai chiffré",
+			"tu": "auras chiffré",
+			"il/elle": "aura chiffré",
+			"nous": "aurons chiffré",
+			"vous": "aurez chiffré",
+			"ils/elles": "auront chiffré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous chiffriez",
+			"qu'il/elle": "chiffre",
+			"qu'ils/elles": "chiffrent"
+		},
+		"imparfait": {
+			"que": "vous chiffrassiez",
+			"qu'il/elle": "chiffrât",
+			"qu'ils/elles": "chiffrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse chiffré",
+			"que": "vous eussiez chiffré",
+			"qu'il/elle": "eût chiffré",
+			"qu'ils/elles": "eussent chiffré"
+		},
+		"passé": {
+			"j'": "aie chiffré",
+			"que": "vous ayez chiffré",
+			"qu'il/elle": "ait chiffré",
+			"qu'ils/elles": "aient chiffré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "chiffrerais",
+			"tu": "chiffrerais",
+			"il/elle": "chiffrerait",
+			"nous": "chiffrerions",
+			"vous": "chiffreriez",
+			"ils/elles": "chiffreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais chiffré",
+			"tu": "aurais chiffré",
+			"il/elle": "aurait chiffré",
+			"nous": "aurions chiffré",
+			"vous": "auriez chiffré",
+			"ils/elles": "auraient chiffré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse chiffré",
+			"tu": "eusses chiffré",
+			"il/elle": "eût chiffré",
+			"nous": "eussions chiffré",
+			"vous": "eussiez chiffré",
+			"ils/elles": "eussent chiffré"
+		}
+	},
+	"participe": {
+		"présent": { "chiffrant": "" },
+		"passé composé": { "ayant": "chiffré" },
+		"passé": {
+			"masc.sg.:": "chiffré",
+			"masc.pl.:": "chiffrés",
+			"fém.sg.:": "chiffrée",
+			"fém.pl.:": "chiffrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "chiffre": "", "chiffrons": "", "chiffrez": "" },
+		"passé": { "aie": "chiffré", "ayons": "chiffré", "ayez": "chiffré" }
+	},
+	"infinitif": {
+		"présent": { "chiffrer": "" },
+		"passé": { "avoir": "chiffré" }
+	}
+}

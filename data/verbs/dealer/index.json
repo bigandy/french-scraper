@@ -1,0 +1,138 @@
+{
+	"name": "dealer",
+	"definition": "push; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se dealer/ne pas dealer/ne pas se dealer",
+	"indicatif": {
+		"présent": {
+			"je": "deale",
+			"tu": "deales",
+			"il/elle": "deale",
+			"nous": "dealons",
+			"vous": "dealez",
+			"ils/elles": "dealent"
+		},
+		"imparfait": {
+			"je": "dealais",
+			"tu": "dealais",
+			"il/elle": "dealait",
+			"nous": "dealions",
+			"vous": "dealiez",
+			"ils/elles": "dealaient"
+		},
+		"futur": {
+			"je": "dealerai",
+			"tu": "dealeras",
+			"il/elle": "dealera",
+			"nous": "dealerons",
+			"vous": "dealerez",
+			"ils/elles": "dealeront"
+		},
+		"passé simple": {
+			"je": "dealai",
+			"tu": "dealas",
+			"il/elle": "deala",
+			"nous": "dealâmes",
+			"vous": "dealâtes",
+			"ils/elles": "dealèrent"
+		},
+		"passé composé": {
+			"j'": "ai dealé",
+			"tu": "as dealé",
+			"il/elle": "a dealé",
+			"nous": "avons dealé",
+			"vous": "avez dealé",
+			"ils/elles": "ont dealé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais dealé",
+			"tu": "avais dealé",
+			"il/elle": "avait dealé",
+			"nous": "avions dealé",
+			"vous": "aviez dealé",
+			"ils/elles": "avaient dealé"
+		},
+		"passé antérieur": {
+			"j'": "eus dealé",
+			"tu": "eus dealé",
+			"il/elle": "eut dealé",
+			"nous": "eûmes dealé",
+			"vous": "eûtes dealé",
+			"ils/elles": "eurent dealé"
+		},
+		"futur antérieur": {
+			"j'": "aurai dealé",
+			"tu": "auras dealé",
+			"il/elle": "aura dealé",
+			"nous": "aurons dealé",
+			"vous": "aurez dealé",
+			"ils/elles": "auront dealé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous dealiez",
+			"qu'il/elle": "deale",
+			"qu'ils/elles": "dealent"
+		},
+		"imparfait": {
+			"que": "vous dealassiez",
+			"qu'il/elle": "dealât",
+			"qu'ils/elles": "dealassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse dealé",
+			"que": "vous eussiez dealé",
+			"qu'il/elle": "eût dealé",
+			"qu'ils/elles": "eussent dealé"
+		},
+		"passé": {
+			"j'": "aie dealé",
+			"que": "vous ayez dealé",
+			"qu'il/elle": "ait dealé",
+			"qu'ils/elles": "aient dealé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "dealerais",
+			"tu": "dealerais",
+			"il/elle": "dealerait",
+			"nous": "dealerions",
+			"vous": "dealeriez",
+			"ils/elles": "dealeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais dealé",
+			"tu": "aurais dealé",
+			"il/elle": "aurait dealé",
+			"nous": "aurions dealé",
+			"vous": "auriez dealé",
+			"ils/elles": "auraient dealé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse dealé",
+			"tu": "eusses dealé",
+			"il/elle": "eût dealé",
+			"nous": "eussions dealé",
+			"vous": "eussiez dealé",
+			"ils/elles": "eussent dealé"
+		}
+	},
+	"participe": {
+		"présent": { "dealant": "" },
+		"passé composé": { "ayant": "dealé" },
+		"passé": {
+			"masc.sg.:": "dealé",
+			"masc.pl.:": "dealés",
+			"fém.sg.:": "dealée",
+			"fém.pl.:": "dealées"
+		}
+	},
+	"imperatif": {
+		"présent": { "deale": "", "dealons": "", "dealez": "" },
+		"passé": { "aie": "dealé", "ayons": "dealé", "ayez": "dealé" }
+	},
+	"infinitif": { "présent": { "dealer": "" }, "passé": { "avoir": "dealé" } }
+}

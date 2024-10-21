@@ -1,0 +1,155 @@
+{
+	"name": "s'envoler",
+	"definition": "fly; fly away; soar; ...",
+	"model": "marcher",
+	"auxiliary": "être",
+	"otherForms": "ne pas s'envoler",
+	"indicatif": {
+		"présent": {
+			"je": "m'envole",
+			"tu": "t'envoles",
+			"il/elle": "s'envole",
+			"nous": "nous envolons",
+			"vous": "vous envolez",
+			"ils/elles": "s'envolent"
+		},
+		"imparfait": {
+			"je": "m'envolais",
+			"tu": "t'envolais",
+			"il/elle": "s'envolait",
+			"nous": "nous envolions",
+			"vous": "vous envoliez",
+			"ils/elles": "s'envolaient"
+		},
+		"futur": {
+			"je": "m'envolerai",
+			"tu": "t'envoleras",
+			"il/elle": "s'envolera",
+			"nous": "nous envolerons",
+			"vous": "vous envolerez",
+			"ils/elles": "s'envoleront"
+		},
+		"passé simple": {
+			"je": "m'envolai",
+			"tu": "t'envolas",
+			"il/elle": "s'envola",
+			"nous": "nous envolâmes",
+			"vous": "vous envolâtes",
+			"ils/elles": "s'envolèrent"
+		},
+		"passé composé": {
+			"je": "me suis envolé",
+			"tu": "t'es envolé",
+			"il": "s'est envolé",
+			"elle": "s'est envolée",
+			"nous": "nous sommes envolés",
+			"vous": "vous êtes envolés",
+			"ils": "se sont envolés",
+			"elles": "se sont envolées"
+		},
+		"plus-que-parfait": {
+			"je": "m'étais envolé",
+			"tu": "t'étais envolé",
+			"il": "s'était envolé",
+			"elle": "s'était envolée",
+			"nous": "nous étions envolés",
+			"vous": "vous étiez envolés",
+			"ils": "s'étaient envolés",
+			"elles": "s'étaient envolées"
+		},
+		"passé antérieur": {
+			"je": "me fus envolé",
+			"tu": "te fus envolé",
+			"il": "se fut envolé",
+			"elle": "se fut envolée",
+			"nous": "nous fûmes envolés",
+			"vous": "vous fûtes envolés",
+			"ils": "se furent envolés",
+			"elles": "se furent envolées"
+		},
+		"futur antérieur": {
+			"je": "me serai envolé",
+			"tu": "te seras envolé",
+			"il": "se sera envolé",
+			"elle": "se sera envolée",
+			"nous": "nous serons envolés",
+			"vous": "vous serez envolés",
+			"ils": "se seront envolés",
+			"elles": "se seront envolées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous vous envoliez",
+			"qu'il/elle": "s'envole",
+			"qu'ils/elles": "s'envolent"
+		},
+		"imparfait": {
+			"que": "vous vous envolassiez",
+			"qu'il/elle": "s'envolât",
+			"qu'ils/elles": "s'envolassent"
+		},
+		"plus-que-parfait": {
+			"que": "vous vous fussiez envolés",
+			"qu'il": "se fût envolé",
+			"qu'elle": "se fût envolée",
+			"qu'ils": "se fussent envolés",
+			"qu'elles": "se fussent envolées"
+		},
+		"passé": {
+			"que": "vous vous soyez envolés",
+			"qu'il": "se soit envolé",
+			"qu'elle": "se soit envolée",
+			"qu'ils": "se soient envolés",
+			"qu'elles": "se soient envolées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "m'envolerais",
+			"tu": "t'envolerais",
+			"il/elle": "s'envolerait",
+			"nous": "nous envolerions",
+			"vous": "vous envoleriez",
+			"ils/elles": "s'envoleraient"
+		},
+		"passé première forme": {
+			"je": "me serais envolé",
+			"tu": "te serais envolé",
+			"il": "se serait envolé",
+			"elle": "se serait envolée",
+			"nous": "nous serions envolés",
+			"vous": "vous seriez envolés",
+			"ils": "se seraient envolés",
+			"elles": "se seraient envolées"
+		},
+		"passé deuxième forme": {
+			"je": "me fusse envolé",
+			"tu": "te fusses envolé",
+			"il": "se fût envolé",
+			"elle": "se fût envolée",
+			"nous": "nous fussions envolés",
+			"vous": "vous fussiez envolés",
+			"ils": "se fussent envolés",
+			"elles": "se fussent envolées"
+		}
+	},
+	"participe": {
+		"présent": { "s'envolant": "" },
+		"passé composé": { "s'étant": "envolé" },
+		"passé": {
+			"masc.sg.:": "envolé",
+			"masc.pl.:": "envolés",
+			"fém.sg.:": "envolée",
+			"fém.pl.:": "envolées"
+		}
+	},
+	"imperatif": {
+		"présent": { "envole-toi": "", "envolons-nous": "", "envolez-vous": "" },
+		"passé": {}
+	},
+	"infinitif": {
+		"présent": { "s'envoler": "" },
+		"passé": { "s'être": "envolé" }
+	}
+}

@@ -1,0 +1,138 @@
+{
+	"name": "cogner",
+	"definition": "hit; bang; punch; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se cogner/ne pas cogner/ne pas se cogner",
+	"indicatif": {
+		"présent": {
+			"je": "cogne",
+			"tu": "cognes",
+			"il/elle": "cogne",
+			"nous": "cognons",
+			"vous": "cognez",
+			"ils/elles": "cognent"
+		},
+		"imparfait": {
+			"je": "cognais",
+			"tu": "cognais",
+			"il/elle": "cognait",
+			"nous": "cognions",
+			"vous": "cogniez",
+			"ils/elles": "cognaient"
+		},
+		"futur": {
+			"je": "cognerai",
+			"tu": "cogneras",
+			"il/elle": "cognera",
+			"nous": "cognerons",
+			"vous": "cognerez",
+			"ils/elles": "cogneront"
+		},
+		"passé simple": {
+			"je": "cognai",
+			"tu": "cognas",
+			"il/elle": "cogna",
+			"nous": "cognâmes",
+			"vous": "cognâtes",
+			"ils/elles": "cognèrent"
+		},
+		"passé composé": {
+			"j'": "ai cogné",
+			"tu": "as cogné",
+			"il/elle": "a cogné",
+			"nous": "avons cogné",
+			"vous": "avez cogné",
+			"ils/elles": "ont cogné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais cogné",
+			"tu": "avais cogné",
+			"il/elle": "avait cogné",
+			"nous": "avions cogné",
+			"vous": "aviez cogné",
+			"ils/elles": "avaient cogné"
+		},
+		"passé antérieur": {
+			"j'": "eus cogné",
+			"tu": "eus cogné",
+			"il/elle": "eut cogné",
+			"nous": "eûmes cogné",
+			"vous": "eûtes cogné",
+			"ils/elles": "eurent cogné"
+		},
+		"futur antérieur": {
+			"j'": "aurai cogné",
+			"tu": "auras cogné",
+			"il/elle": "aura cogné",
+			"nous": "aurons cogné",
+			"vous": "aurez cogné",
+			"ils/elles": "auront cogné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous cogniez",
+			"qu'il/elle": "cogne",
+			"qu'ils/elles": "cognent"
+		},
+		"imparfait": {
+			"que": "vous cognassiez",
+			"qu'il/elle": "cognât",
+			"qu'ils/elles": "cognassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse cogné",
+			"que": "vous eussiez cogné",
+			"qu'il/elle": "eût cogné",
+			"qu'ils/elles": "eussent cogné"
+		},
+		"passé": {
+			"j'": "aie cogné",
+			"que": "vous ayez cogné",
+			"qu'il/elle": "ait cogné",
+			"qu'ils/elles": "aient cogné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "cognerais",
+			"tu": "cognerais",
+			"il/elle": "cognerait",
+			"nous": "cognerions",
+			"vous": "cogneriez",
+			"ils/elles": "cogneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais cogné",
+			"tu": "aurais cogné",
+			"il/elle": "aurait cogné",
+			"nous": "aurions cogné",
+			"vous": "auriez cogné",
+			"ils/elles": "auraient cogné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse cogné",
+			"tu": "eusses cogné",
+			"il/elle": "eût cogné",
+			"nous": "eussions cogné",
+			"vous": "eussiez cogné",
+			"ils/elles": "eussent cogné"
+		}
+	},
+	"participe": {
+		"présent": { "cognant": "" },
+		"passé composé": { "ayant": "cogné" },
+		"passé": {
+			"masc.sg.:": "cogné",
+			"masc.pl.:": "cognés",
+			"fém.sg.:": "cognée",
+			"fém.pl.:": "cognées"
+		}
+	},
+	"imperatif": {
+		"présent": { "cogne": "", "cognons": "", "cognez": "" },
+		"passé": { "aie": "cogné", "ayons": "cogné", "ayez": "cogné" }
+	},
+	"infinitif": { "présent": { "cogner": "" }, "passé": { "avoir": "cogné" } }
+}

@@ -1,0 +1,138 @@
+{
+	"name": "bûcher",
+	"definition": "bone up; cram; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se bûcher/ne pas bûcher/ne pas se bûcher",
+	"indicatif": {
+		"présent": {
+			"je": "bûche",
+			"tu": "bûches",
+			"il/elle": "bûche",
+			"nous": "bûchons",
+			"vous": "bûchez",
+			"ils/elles": "bûchent"
+		},
+		"imparfait": {
+			"je": "bûchais",
+			"tu": "bûchais",
+			"il/elle": "bûchait",
+			"nous": "bûchions",
+			"vous": "bûchiez",
+			"ils/elles": "bûchaient"
+		},
+		"futur": {
+			"je": "bûcherai",
+			"tu": "bûcheras",
+			"il/elle": "bûchera",
+			"nous": "bûcherons",
+			"vous": "bûcherez",
+			"ils/elles": "bûcheront"
+		},
+		"passé simple": {
+			"je": "bûchai",
+			"tu": "bûchas",
+			"il/elle": "bûcha",
+			"nous": "bûchâmes",
+			"vous": "bûchâtes",
+			"ils/elles": "bûchèrent"
+		},
+		"passé composé": {
+			"j'": "ai bûché",
+			"tu": "as bûché",
+			"il/elle": "a bûché",
+			"nous": "avons bûché",
+			"vous": "avez bûché",
+			"ils/elles": "ont bûché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais bûché",
+			"tu": "avais bûché",
+			"il/elle": "avait bûché",
+			"nous": "avions bûché",
+			"vous": "aviez bûché",
+			"ils/elles": "avaient bûché"
+		},
+		"passé antérieur": {
+			"j'": "eus bûché",
+			"tu": "eus bûché",
+			"il/elle": "eut bûché",
+			"nous": "eûmes bûché",
+			"vous": "eûtes bûché",
+			"ils/elles": "eurent bûché"
+		},
+		"futur antérieur": {
+			"j'": "aurai bûché",
+			"tu": "auras bûché",
+			"il/elle": "aura bûché",
+			"nous": "aurons bûché",
+			"vous": "aurez bûché",
+			"ils/elles": "auront bûché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous bûchiez",
+			"qu'il/elle": "bûche",
+			"qu'ils/elles": "bûchent"
+		},
+		"imparfait": {
+			"que": "vous bûchassiez",
+			"qu'il/elle": "bûchât",
+			"qu'ils/elles": "bûchassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse bûché",
+			"que": "vous eussiez bûché",
+			"qu'il/elle": "eût bûché",
+			"qu'ils/elles": "eussent bûché"
+		},
+		"passé": {
+			"j'": "aie bûché",
+			"que": "vous ayez bûché",
+			"qu'il/elle": "ait bûché",
+			"qu'ils/elles": "aient bûché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "bûcherais",
+			"tu": "bûcherais",
+			"il/elle": "bûcherait",
+			"nous": "bûcherions",
+			"vous": "bûcheriez",
+			"ils/elles": "bûcheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais bûché",
+			"tu": "aurais bûché",
+			"il/elle": "aurait bûché",
+			"nous": "aurions bûché",
+			"vous": "auriez bûché",
+			"ils/elles": "auraient bûché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse bûché",
+			"tu": "eusses bûché",
+			"il/elle": "eût bûché",
+			"nous": "eussions bûché",
+			"vous": "eussiez bûché",
+			"ils/elles": "eussent bûché"
+		}
+	},
+	"participe": {
+		"présent": { "bûchant": "" },
+		"passé composé": { "ayant": "bûché" },
+		"passé": {
+			"masc.sg.:": "bûché",
+			"masc.pl.:": "bûchés",
+			"fém.sg.:": "bûchée",
+			"fém.pl.:": "bûchées"
+		}
+	},
+	"imperatif": {
+		"présent": { "bûche": "", "bûchons": "", "bûchez": "" },
+		"passé": { "aie": "bûché", "ayons": "bûché", "ayez": "bûché" }
+	},
+	"infinitif": { "présent": { "bûcher": "" }, "passé": { "avoir": "bûché" } }
+}

@@ -1,0 +1,138 @@
+{
+	"name": "moduler",
+	"definition": "modulate; adjust; vary; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se moduler/ne pas moduler/ne pas se moduler",
+	"indicatif": {
+		"présent": {
+			"je": "module",
+			"tu": "modules",
+			"il/elle": "module",
+			"nous": "modulons",
+			"vous": "modulez",
+			"ils/elles": "modulent"
+		},
+		"imparfait": {
+			"je": "modulais",
+			"tu": "modulais",
+			"il/elle": "modulait",
+			"nous": "modulions",
+			"vous": "moduliez",
+			"ils/elles": "modulaient"
+		},
+		"futur": {
+			"je": "modulerai",
+			"tu": "moduleras",
+			"il/elle": "modulera",
+			"nous": "modulerons",
+			"vous": "modulerez",
+			"ils/elles": "moduleront"
+		},
+		"passé simple": {
+			"je": "modulai",
+			"tu": "modulas",
+			"il/elle": "modula",
+			"nous": "modulâmes",
+			"vous": "modulâtes",
+			"ils/elles": "modulèrent"
+		},
+		"passé composé": {
+			"j'": "ai modulé",
+			"tu": "as modulé",
+			"il/elle": "a modulé",
+			"nous": "avons modulé",
+			"vous": "avez modulé",
+			"ils/elles": "ont modulé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais modulé",
+			"tu": "avais modulé",
+			"il/elle": "avait modulé",
+			"nous": "avions modulé",
+			"vous": "aviez modulé",
+			"ils/elles": "avaient modulé"
+		},
+		"passé antérieur": {
+			"j'": "eus modulé",
+			"tu": "eus modulé",
+			"il/elle": "eut modulé",
+			"nous": "eûmes modulé",
+			"vous": "eûtes modulé",
+			"ils/elles": "eurent modulé"
+		},
+		"futur antérieur": {
+			"j'": "aurai modulé",
+			"tu": "auras modulé",
+			"il/elle": "aura modulé",
+			"nous": "aurons modulé",
+			"vous": "aurez modulé",
+			"ils/elles": "auront modulé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous moduliez",
+			"qu'il/elle": "module",
+			"qu'ils/elles": "modulent"
+		},
+		"imparfait": {
+			"que": "vous modulassiez",
+			"qu'il/elle": "modulât",
+			"qu'ils/elles": "modulassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse modulé",
+			"que": "vous eussiez modulé",
+			"qu'il/elle": "eût modulé",
+			"qu'ils/elles": "eussent modulé"
+		},
+		"passé": {
+			"j'": "aie modulé",
+			"que": "vous ayez modulé",
+			"qu'il/elle": "ait modulé",
+			"qu'ils/elles": "aient modulé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "modulerais",
+			"tu": "modulerais",
+			"il/elle": "modulerait",
+			"nous": "modulerions",
+			"vous": "moduleriez",
+			"ils/elles": "moduleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais modulé",
+			"tu": "aurais modulé",
+			"il/elle": "aurait modulé",
+			"nous": "aurions modulé",
+			"vous": "auriez modulé",
+			"ils/elles": "auraient modulé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse modulé",
+			"tu": "eusses modulé",
+			"il/elle": "eût modulé",
+			"nous": "eussions modulé",
+			"vous": "eussiez modulé",
+			"ils/elles": "eussent modulé"
+		}
+	},
+	"participe": {
+		"présent": { "modulant": "" },
+		"passé composé": { "ayant": "modulé" },
+		"passé": {
+			"masc.sg.:": "modulé",
+			"masc.pl.:": "modulés",
+			"fém.sg.:": "modulée",
+			"fém.pl.:": "modulées"
+		}
+	},
+	"imperatif": {
+		"présent": { "module": "", "modulons": "", "modulez": "" },
+		"passé": { "aie": "modulé", "ayons": "modulé", "ayez": "modulé" }
+	},
+	"infinitif": { "présent": { "moduler": "" }, "passé": { "avoir": "modulé" } }
+}

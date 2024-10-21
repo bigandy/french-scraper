@@ -1,0 +1,138 @@
+{
+	"name": "clocher",
+	"definition": "go wrong; local; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se clocher/ne pas clocher/ne pas se clocher",
+	"indicatif": {
+		"présent": {
+			"je": "cloche",
+			"tu": "cloches",
+			"il/elle": "cloche",
+			"nous": "clochons",
+			"vous": "clochez",
+			"ils/elles": "clochent"
+		},
+		"imparfait": {
+			"je": "clochais",
+			"tu": "clochais",
+			"il/elle": "clochait",
+			"nous": "clochions",
+			"vous": "clochiez",
+			"ils/elles": "clochaient"
+		},
+		"futur": {
+			"je": "clocherai",
+			"tu": "clocheras",
+			"il/elle": "clochera",
+			"nous": "clocherons",
+			"vous": "clocherez",
+			"ils/elles": "clocheront"
+		},
+		"passé simple": {
+			"je": "clochai",
+			"tu": "clochas",
+			"il/elle": "clocha",
+			"nous": "clochâmes",
+			"vous": "clochâtes",
+			"ils/elles": "clochèrent"
+		},
+		"passé composé": {
+			"j'": "ai cloché",
+			"tu": "as cloché",
+			"il/elle": "a cloché",
+			"nous": "avons cloché",
+			"vous": "avez cloché",
+			"ils/elles": "ont cloché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais cloché",
+			"tu": "avais cloché",
+			"il/elle": "avait cloché",
+			"nous": "avions cloché",
+			"vous": "aviez cloché",
+			"ils/elles": "avaient cloché"
+		},
+		"passé antérieur": {
+			"j'": "eus cloché",
+			"tu": "eus cloché",
+			"il/elle": "eut cloché",
+			"nous": "eûmes cloché",
+			"vous": "eûtes cloché",
+			"ils/elles": "eurent cloché"
+		},
+		"futur antérieur": {
+			"j'": "aurai cloché",
+			"tu": "auras cloché",
+			"il/elle": "aura cloché",
+			"nous": "aurons cloché",
+			"vous": "aurez cloché",
+			"ils/elles": "auront cloché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous clochiez",
+			"qu'il/elle": "cloche",
+			"qu'ils/elles": "clochent"
+		},
+		"imparfait": {
+			"que": "vous clochassiez",
+			"qu'il/elle": "clochât",
+			"qu'ils/elles": "clochassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse cloché",
+			"que": "vous eussiez cloché",
+			"qu'il/elle": "eût cloché",
+			"qu'ils/elles": "eussent cloché"
+		},
+		"passé": {
+			"j'": "aie cloché",
+			"que": "vous ayez cloché",
+			"qu'il/elle": "ait cloché",
+			"qu'ils/elles": "aient cloché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "clocherais",
+			"tu": "clocherais",
+			"il/elle": "clocherait",
+			"nous": "clocherions",
+			"vous": "clocheriez",
+			"ils/elles": "clocheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais cloché",
+			"tu": "aurais cloché",
+			"il/elle": "aurait cloché",
+			"nous": "aurions cloché",
+			"vous": "auriez cloché",
+			"ils/elles": "auraient cloché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse cloché",
+			"tu": "eusses cloché",
+			"il/elle": "eût cloché",
+			"nous": "eussions cloché",
+			"vous": "eussiez cloché",
+			"ils/elles": "eussent cloché"
+		}
+	},
+	"participe": {
+		"présent": { "clochant": "" },
+		"passé composé": { "ayant": "cloché" },
+		"passé": {
+			"masc.sg.:": "cloché",
+			"masc.pl.:": "clochés",
+			"fém.sg.:": "clochée",
+			"fém.pl.:": "clochées"
+		}
+	},
+	"imperatif": {
+		"présent": { "cloche": "", "clochons": "", "clochez": "" },
+		"passé": { "aie": "cloché", "ayons": "cloché", "ayez": "cloché" }
+	},
+	"infinitif": { "présent": { "clocher": "" }, "passé": { "avoir": "cloché" } }
+}

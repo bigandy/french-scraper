@@ -1,0 +1,138 @@
+{
+	"name": "raviver",
+	"definition": "revive; rekindle; revitalize; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se raviver/ne pas raviver/ne pas se raviver",
+	"indicatif": {
+		"présent": {
+			"je": "ravive",
+			"tu": "ravives",
+			"il/elle": "ravive",
+			"nous": "ravivons",
+			"vous": "ravivez",
+			"ils/elles": "ravivent"
+		},
+		"imparfait": {
+			"je": "ravivais",
+			"tu": "ravivais",
+			"il/elle": "ravivait",
+			"nous": "ravivions",
+			"vous": "raviviez",
+			"ils/elles": "ravivaient"
+		},
+		"futur": {
+			"je": "raviverai",
+			"tu": "raviveras",
+			"il/elle": "ravivera",
+			"nous": "raviverons",
+			"vous": "raviverez",
+			"ils/elles": "raviveront"
+		},
+		"passé simple": {
+			"je": "ravivai",
+			"tu": "ravivas",
+			"il/elle": "raviva",
+			"nous": "ravivâmes",
+			"vous": "ravivâtes",
+			"ils/elles": "ravivèrent"
+		},
+		"passé composé": {
+			"j'": "ai ravivé",
+			"tu": "as ravivé",
+			"il/elle": "a ravivé",
+			"nous": "avons ravivé",
+			"vous": "avez ravivé",
+			"ils/elles": "ont ravivé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais ravivé",
+			"tu": "avais ravivé",
+			"il/elle": "avait ravivé",
+			"nous": "avions ravivé",
+			"vous": "aviez ravivé",
+			"ils/elles": "avaient ravivé"
+		},
+		"passé antérieur": {
+			"j'": "eus ravivé",
+			"tu": "eus ravivé",
+			"il/elle": "eut ravivé",
+			"nous": "eûmes ravivé",
+			"vous": "eûtes ravivé",
+			"ils/elles": "eurent ravivé"
+		},
+		"futur antérieur": {
+			"j'": "aurai ravivé",
+			"tu": "auras ravivé",
+			"il/elle": "aura ravivé",
+			"nous": "aurons ravivé",
+			"vous": "aurez ravivé",
+			"ils/elles": "auront ravivé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous raviviez",
+			"qu'il/elle": "ravive",
+			"qu'ils/elles": "ravivent"
+		},
+		"imparfait": {
+			"que": "vous ravivassiez",
+			"qu'il/elle": "ravivât",
+			"qu'ils/elles": "ravivassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse ravivé",
+			"que": "vous eussiez ravivé",
+			"qu'il/elle": "eût ravivé",
+			"qu'ils/elles": "eussent ravivé"
+		},
+		"passé": {
+			"j'": "aie ravivé",
+			"que": "vous ayez ravivé",
+			"qu'il/elle": "ait ravivé",
+			"qu'ils/elles": "aient ravivé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "raviverais",
+			"tu": "raviverais",
+			"il/elle": "raviverait",
+			"nous": "raviverions",
+			"vous": "raviveriez",
+			"ils/elles": "raviveraient"
+		},
+		"passé première forme": {
+			"j'": "aurais ravivé",
+			"tu": "aurais ravivé",
+			"il/elle": "aurait ravivé",
+			"nous": "aurions ravivé",
+			"vous": "auriez ravivé",
+			"ils/elles": "auraient ravivé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse ravivé",
+			"tu": "eusses ravivé",
+			"il/elle": "eût ravivé",
+			"nous": "eussions ravivé",
+			"vous": "eussiez ravivé",
+			"ils/elles": "eussent ravivé"
+		}
+	},
+	"participe": {
+		"présent": { "ravivant": "" },
+		"passé composé": { "ayant": "ravivé" },
+		"passé": {
+			"masc.sg.:": "ravivé",
+			"masc.pl.:": "ravivés",
+			"fém.sg.:": "ravivée",
+			"fém.pl.:": "ravivées"
+		}
+	},
+	"imperatif": {
+		"présent": { "ravive": "", "ravivons": "", "ravivez": "" },
+		"passé": { "aie": "ravivé", "ayons": "ravivé", "ayez": "ravivé" }
+	},
+	"infinitif": { "présent": { "raviver": "" }, "passé": { "avoir": "ravivé" } }
+}

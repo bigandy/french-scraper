@@ -1,0 +1,140 @@
+{
+	"name": "empiler",
+	"definition": "stack; pile up; pile; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'empiler/ne pas empiler/ne pas s'empiler",
+	"indicatif": {
+		"présent": {
+			"j'": "empile",
+			"tu": "empiles",
+			"il/elle": "empile",
+			"nous": "empilons",
+			"vous": "empilez",
+			"ils/elles": "empilent"
+		},
+		"imparfait": {
+			"j'": "empilais",
+			"tu": "empilais",
+			"il/elle": "empilait",
+			"nous": "empilions",
+			"vous": "empiliez",
+			"ils/elles": "empilaient"
+		},
+		"futur": {
+			"j'": "empilerai",
+			"tu": "empileras",
+			"il/elle": "empilera",
+			"nous": "empilerons",
+			"vous": "empilerez",
+			"ils/elles": "empileront"
+		},
+		"passé simple": {
+			"j'": "empilai",
+			"tu": "empilas",
+			"il/elle": "empila",
+			"nous": "empilâmes",
+			"vous": "empilâtes",
+			"ils/elles": "empilèrent"
+		},
+		"passé composé": {
+			"j'": "ai empilé",
+			"tu": "as empilé",
+			"il/elle": "a empilé",
+			"nous": "avons empilé",
+			"vous": "avez empilé",
+			"ils/elles": "ont empilé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais empilé",
+			"tu": "avais empilé",
+			"il/elle": "avait empilé",
+			"nous": "avions empilé",
+			"vous": "aviez empilé",
+			"ils/elles": "avaient empilé"
+		},
+		"passé antérieur": {
+			"j'": "eus empilé",
+			"tu": "eus empilé",
+			"il/elle": "eut empilé",
+			"nous": "eûmes empilé",
+			"vous": "eûtes empilé",
+			"ils/elles": "eurent empilé"
+		},
+		"futur antérieur": {
+			"j'": "aurai empilé",
+			"tu": "auras empilé",
+			"il/elle": "aura empilé",
+			"nous": "aurons empilé",
+			"vous": "aurez empilé",
+			"ils/elles": "auront empilé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "empile",
+			"que": "vous empiliez",
+			"qu'il/elle": "empile",
+			"qu'ils/elles": "empilent"
+		},
+		"imparfait": {
+			"j'": "empilasse",
+			"que": "vous empilassiez",
+			"qu'il/elle": "empilât",
+			"qu'ils/elles": "empilassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse empilé",
+			"que": "vous eussiez empilé",
+			"qu'il/elle": "eût empilé",
+			"qu'ils/elles": "eussent empilé"
+		},
+		"passé": {
+			"j'": "aie empilé",
+			"que": "vous ayez empilé",
+			"qu'il/elle": "ait empilé",
+			"qu'ils/elles": "aient empilé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "empilerais",
+			"tu": "empilerais",
+			"il/elle": "empilerait",
+			"nous": "empilerions",
+			"vous": "empileriez",
+			"ils/elles": "empileraient"
+		},
+		"passé première forme": {
+			"j'": "aurais empilé",
+			"tu": "aurais empilé",
+			"il/elle": "aurait empilé",
+			"nous": "aurions empilé",
+			"vous": "auriez empilé",
+			"ils/elles": "auraient empilé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse empilé",
+			"tu": "eusses empilé",
+			"il/elle": "eût empilé",
+			"nous": "eussions empilé",
+			"vous": "eussiez empilé",
+			"ils/elles": "eussent empilé"
+		}
+	},
+	"participe": {
+		"présent": { "empilant": "" },
+		"passé composé": { "ayant": "empilé" },
+		"passé": {
+			"masc.sg.:": "empilé",
+			"masc.pl.:": "empilés",
+			"fém.sg.:": "empilée",
+			"fém.pl.:": "empilées"
+		}
+	},
+	"imperatif": {
+		"présent": { "empile": "", "empilons": "", "empilez": "" },
+		"passé": { "aie": "empilé", "ayons": "empilé", "ayez": "empilé" }
+	},
+	"infinitif": { "présent": { "empiler": "" }, "passé": { "avoir": "empilé" } }
+}

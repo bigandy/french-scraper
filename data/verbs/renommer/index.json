@@ -1,0 +1,141 @@
+{
+	"name": "renommer",
+	"definition": "rename; reappoint; redesignate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se renommer/ne pas renommer/ne pas se renommer",
+	"indicatif": {
+		"présent": {
+			"je": "renomme",
+			"tu": "renommes",
+			"il/elle": "renomme",
+			"nous": "renommons",
+			"vous": "renommez",
+			"ils/elles": "renomment"
+		},
+		"imparfait": {
+			"je": "renommais",
+			"tu": "renommais",
+			"il/elle": "renommait",
+			"nous": "renommions",
+			"vous": "renommiez",
+			"ils/elles": "renommaient"
+		},
+		"futur": {
+			"je": "renommerai",
+			"tu": "renommeras",
+			"il/elle": "renommera",
+			"nous": "renommerons",
+			"vous": "renommerez",
+			"ils/elles": "renommeront"
+		},
+		"passé simple": {
+			"je": "renommai",
+			"tu": "renommas",
+			"il/elle": "renomma",
+			"nous": "renommâmes",
+			"vous": "renommâtes",
+			"ils/elles": "renommèrent"
+		},
+		"passé composé": {
+			"j'": "ai renommé",
+			"tu": "as renommé",
+			"il/elle": "a renommé",
+			"nous": "avons renommé",
+			"vous": "avez renommé",
+			"ils/elles": "ont renommé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais renommé",
+			"tu": "avais renommé",
+			"il/elle": "avait renommé",
+			"nous": "avions renommé",
+			"vous": "aviez renommé",
+			"ils/elles": "avaient renommé"
+		},
+		"passé antérieur": {
+			"j'": "eus renommé",
+			"tu": "eus renommé",
+			"il/elle": "eut renommé",
+			"nous": "eûmes renommé",
+			"vous": "eûtes renommé",
+			"ils/elles": "eurent renommé"
+		},
+		"futur antérieur": {
+			"j'": "aurai renommé",
+			"tu": "auras renommé",
+			"il/elle": "aura renommé",
+			"nous": "aurons renommé",
+			"vous": "aurez renommé",
+			"ils/elles": "auront renommé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous renommiez",
+			"qu'il/elle": "renomme",
+			"qu'ils/elles": "renomment"
+		},
+		"imparfait": {
+			"que": "vous renommassiez",
+			"qu'il/elle": "renommât",
+			"qu'ils/elles": "renommassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse renommé",
+			"que": "vous eussiez renommé",
+			"qu'il/elle": "eût renommé",
+			"qu'ils/elles": "eussent renommé"
+		},
+		"passé": {
+			"j'": "aie renommé",
+			"que": "vous ayez renommé",
+			"qu'il/elle": "ait renommé",
+			"qu'ils/elles": "aient renommé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "renommerais",
+			"tu": "renommerais",
+			"il/elle": "renommerait",
+			"nous": "renommerions",
+			"vous": "renommeriez",
+			"ils/elles": "renommeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais renommé",
+			"tu": "aurais renommé",
+			"il/elle": "aurait renommé",
+			"nous": "aurions renommé",
+			"vous": "auriez renommé",
+			"ils/elles": "auraient renommé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse renommé",
+			"tu": "eusses renommé",
+			"il/elle": "eût renommé",
+			"nous": "eussions renommé",
+			"vous": "eussiez renommé",
+			"ils/elles": "eussent renommé"
+		}
+	},
+	"participe": {
+		"présent": { "renommant": "" },
+		"passé composé": { "ayant": "renommé" },
+		"passé": {
+			"masc.sg.:": "renommé",
+			"masc.pl.:": "renommés",
+			"fém.sg.:": "renommée",
+			"fém.pl.:": "renommées"
+		}
+	},
+	"imperatif": {
+		"présent": { "renomme": "", "renommons": "", "renommez": "" },
+		"passé": { "aie": "renommé", "ayons": "renommé", "ayez": "renommé" }
+	},
+	"infinitif": {
+		"présent": { "renommer": "" },
+		"passé": { "avoir": "renommé" }
+	}
+}

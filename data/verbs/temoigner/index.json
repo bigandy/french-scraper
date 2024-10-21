@@ -1,0 +1,141 @@
+{
+	"name": "temoigner",
+	"definition": "",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se temoigner/ne pas temoigner/ne pas se temoigner",
+	"indicatif": {
+		"présent": {
+			"je": "temoigne",
+			"tu": "temoignes",
+			"il/elle": "temoigne",
+			"nous": "temoignons",
+			"vous": "temoignez",
+			"ils/elles": "temoignent"
+		},
+		"imparfait": {
+			"je": "temoignais",
+			"tu": "temoignais",
+			"il/elle": "temoignait",
+			"nous": "temoignions",
+			"vous": "temoigniez",
+			"ils/elles": "temoignaient"
+		},
+		"futur": {
+			"je": "temoignerai",
+			"tu": "temoigneras",
+			"il/elle": "temoignera",
+			"nous": "temoignerons",
+			"vous": "temoignerez",
+			"ils/elles": "temoigneront"
+		},
+		"passé simple": {
+			"je": "temoignai",
+			"tu": "temoignas",
+			"il/elle": "temoigna",
+			"nous": "temoignâmes",
+			"vous": "temoignâtes",
+			"ils/elles": "temoignèrent"
+		},
+		"passé composé": {
+			"j'": "ai temoigné",
+			"tu": "as temoigné",
+			"il/elle": "a temoigné",
+			"nous": "avons temoigné",
+			"vous": "avez temoigné",
+			"ils/elles": "ont temoigné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais temoigné",
+			"tu": "avais temoigné",
+			"il/elle": "avait temoigné",
+			"nous": "avions temoigné",
+			"vous": "aviez temoigné",
+			"ils/elles": "avaient temoigné"
+		},
+		"passé antérieur": {
+			"j'": "eus temoigné",
+			"tu": "eus temoigné",
+			"il/elle": "eut temoigné",
+			"nous": "eûmes temoigné",
+			"vous": "eûtes temoigné",
+			"ils/elles": "eurent temoigné"
+		},
+		"futur antérieur": {
+			"j'": "aurai temoigné",
+			"tu": "auras temoigné",
+			"il/elle": "aura temoigné",
+			"nous": "aurons temoigné",
+			"vous": "aurez temoigné",
+			"ils/elles": "auront temoigné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous temoigniez",
+			"qu'il/elle": "temoigne",
+			"qu'ils/elles": "temoignent"
+		},
+		"imparfait": {
+			"que": "vous temoignassiez",
+			"qu'il/elle": "temoignât",
+			"qu'ils/elles": "temoignassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse temoigné",
+			"que": "vous eussiez temoigné",
+			"qu'il/elle": "eût temoigné",
+			"qu'ils/elles": "eussent temoigné"
+		},
+		"passé": {
+			"j'": "aie temoigné",
+			"que": "vous ayez temoigné",
+			"qu'il/elle": "ait temoigné",
+			"qu'ils/elles": "aient temoigné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "temoignerais",
+			"tu": "temoignerais",
+			"il/elle": "temoignerait",
+			"nous": "temoignerions",
+			"vous": "temoigneriez",
+			"ils/elles": "temoigneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais temoigné",
+			"tu": "aurais temoigné",
+			"il/elle": "aurait temoigné",
+			"nous": "aurions temoigné",
+			"vous": "auriez temoigné",
+			"ils/elles": "auraient temoigné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse temoigné",
+			"tu": "eusses temoigné",
+			"il/elle": "eût temoigné",
+			"nous": "eussions temoigné",
+			"vous": "eussiez temoigné",
+			"ils/elles": "eussent temoigné"
+		}
+	},
+	"participe": {
+		"présent": { "temoignant": "" },
+		"passé composé": { "ayant": "temoigné" },
+		"passé": {
+			"masc.sg.:": "temoigné",
+			"masc.pl.:": "temoignés",
+			"fém.sg.:": "temoignée",
+			"fém.pl.:": "temoignées"
+		}
+	},
+	"imperatif": {
+		"présent": { "temoigne": "", "temoignons": "", "temoignez": "" },
+		"passé": { "aie": "temoigné", "ayons": "temoigné", "ayez": "temoigné" }
+	},
+	"infinitif": {
+		"présent": { "temoigner": "" },
+		"passé": { "avoir": "temoigné" }
+	}
+}

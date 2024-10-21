@@ -1,0 +1,145 @@
+{
+	"name": "concurrencer",
+	"definition": "compete; rival; ...",
+	"model": "commencer",
+	"auxiliary": "avoir",
+	"otherForms": "se concurrencer/ne pas concurrencer/ne pas se concurrencer",
+	"indicatif": {
+		"présent": {
+			"je": "concurrence",
+			"tu": "concurrences",
+			"il/elle": "concurrence",
+			"nous": "concurrençons",
+			"vous": "concurrencez",
+			"ils/elles": "concurrencent"
+		},
+		"imparfait": {
+			"je": "concurrençais",
+			"tu": "concurrençais",
+			"il/elle": "concurrençait",
+			"nous": "concurrencions",
+			"vous": "concurrenciez",
+			"ils/elles": "concurrençaient"
+		},
+		"futur": {
+			"je": "concurrencerai",
+			"tu": "concurrenceras",
+			"il/elle": "concurrencera",
+			"nous": "concurrencerons",
+			"vous": "concurrencerez",
+			"ils/elles": "concurrenceront"
+		},
+		"passé simple": {
+			"je": "concurrençai",
+			"tu": "concurrenças",
+			"il/elle": "concurrença",
+			"nous": "concurrençâmes",
+			"vous": "concurrençâtes",
+			"ils/elles": "concurrencèrent"
+		},
+		"passé composé": {
+			"j'": "ai concurrencé",
+			"tu": "as concurrencé",
+			"il/elle": "a concurrencé",
+			"nous": "avons concurrencé",
+			"vous": "avez concurrencé",
+			"ils/elles": "ont concurrencé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais concurrencé",
+			"tu": "avais concurrencé",
+			"il/elle": "avait concurrencé",
+			"nous": "avions concurrencé",
+			"vous": "aviez concurrencé",
+			"ils/elles": "avaient concurrencé"
+		},
+		"passé antérieur": {
+			"j'": "eus concurrencé",
+			"tu": "eus concurrencé",
+			"il/elle": "eut concurrencé",
+			"nous": "eûmes concurrencé",
+			"vous": "eûtes concurrencé",
+			"ils/elles": "eurent concurrencé"
+		},
+		"futur antérieur": {
+			"j'": "aurai concurrencé",
+			"tu": "auras concurrencé",
+			"il/elle": "aura concurrencé",
+			"nous": "aurons concurrencé",
+			"vous": "aurez concurrencé",
+			"ils/elles": "auront concurrencé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous concurrenciez",
+			"qu'il/elle": "concurrence",
+			"qu'ils/elles": "concurrencent"
+		},
+		"imparfait": {
+			"que": "vous concurrençassiez",
+			"qu'il/elle": "concurrençât",
+			"qu'ils/elles": "concurrençassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse concurrencé",
+			"que": "vous eussiez concurrencé",
+			"qu'il/elle": "eût concurrencé",
+			"qu'ils/elles": "eussent concurrencé"
+		},
+		"passé": {
+			"j'": "aie concurrencé",
+			"que": "vous ayez concurrencé",
+			"qu'il/elle": "ait concurrencé",
+			"qu'ils/elles": "aient concurrencé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "concurrencerais",
+			"tu": "concurrencerais",
+			"il/elle": "concurrencerait",
+			"nous": "concurrencerions",
+			"vous": "concurrenceriez",
+			"ils/elles": "concurrenceraient"
+		},
+		"passé première forme": {
+			"j'": "aurais concurrencé",
+			"tu": "aurais concurrencé",
+			"il/elle": "aurait concurrencé",
+			"nous": "aurions concurrencé",
+			"vous": "auriez concurrencé",
+			"ils/elles": "auraient concurrencé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse concurrencé",
+			"tu": "eusses concurrencé",
+			"il/elle": "eût concurrencé",
+			"nous": "eussions concurrencé",
+			"vous": "eussiez concurrencé",
+			"ils/elles": "eussent concurrencé"
+		}
+	},
+	"participe": {
+		"présent": { "concurrençant": "" },
+		"passé composé": { "ayant": "concurrencé" },
+		"passé": {
+			"masc.sg.:": "concurrencé",
+			"masc.pl.:": "concurrencés",
+			"fém.sg.:": "concurrencée",
+			"fém.pl.:": "concurrencées"
+		}
+	},
+	"imperatif": {
+		"présent": { "concurrence": "", "concurrençons": "", "concurrencez": "" },
+		"passé": {
+			"aie": "concurrencé",
+			"ayons": "concurrencé",
+			"ayez": "concurrencé"
+		}
+	},
+	"infinitif": {
+		"présent": { "concurrencer": "" },
+		"passé": { "avoir": "concurrencé" }
+	}
+}

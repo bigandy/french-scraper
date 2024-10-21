@@ -1,0 +1,141 @@
+{
+	"name": "discerner",
+	"definition": "discern; identify; distinguish; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se discerner/ne pas discerner/ne pas se discerner",
+	"indicatif": {
+		"présent": {
+			"je": "discerne",
+			"tu": "discernes",
+			"il/elle": "discerne",
+			"nous": "discernons",
+			"vous": "discernez",
+			"ils/elles": "discernent"
+		},
+		"imparfait": {
+			"je": "discernais",
+			"tu": "discernais",
+			"il/elle": "discernait",
+			"nous": "discernions",
+			"vous": "discerniez",
+			"ils/elles": "discernaient"
+		},
+		"futur": {
+			"je": "discernerai",
+			"tu": "discerneras",
+			"il/elle": "discernera",
+			"nous": "discernerons",
+			"vous": "discernerez",
+			"ils/elles": "discerneront"
+		},
+		"passé simple": {
+			"je": "discernai",
+			"tu": "discernas",
+			"il/elle": "discerna",
+			"nous": "discernâmes",
+			"vous": "discernâtes",
+			"ils/elles": "discernèrent"
+		},
+		"passé composé": {
+			"j'": "ai discerné",
+			"tu": "as discerné",
+			"il/elle": "a discerné",
+			"nous": "avons discerné",
+			"vous": "avez discerné",
+			"ils/elles": "ont discerné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais discerné",
+			"tu": "avais discerné",
+			"il/elle": "avait discerné",
+			"nous": "avions discerné",
+			"vous": "aviez discerné",
+			"ils/elles": "avaient discerné"
+		},
+		"passé antérieur": {
+			"j'": "eus discerné",
+			"tu": "eus discerné",
+			"il/elle": "eut discerné",
+			"nous": "eûmes discerné",
+			"vous": "eûtes discerné",
+			"ils/elles": "eurent discerné"
+		},
+		"futur antérieur": {
+			"j'": "aurai discerné",
+			"tu": "auras discerné",
+			"il/elle": "aura discerné",
+			"nous": "aurons discerné",
+			"vous": "aurez discerné",
+			"ils/elles": "auront discerné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous discerniez",
+			"qu'il/elle": "discerne",
+			"qu'ils/elles": "discernent"
+		},
+		"imparfait": {
+			"que": "vous discernassiez",
+			"qu'il/elle": "discernât",
+			"qu'ils/elles": "discernassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse discerné",
+			"que": "vous eussiez discerné",
+			"qu'il/elle": "eût discerné",
+			"qu'ils/elles": "eussent discerné"
+		},
+		"passé": {
+			"j'": "aie discerné",
+			"que": "vous ayez discerné",
+			"qu'il/elle": "ait discerné",
+			"qu'ils/elles": "aient discerné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "discernerais",
+			"tu": "discernerais",
+			"il/elle": "discernerait",
+			"nous": "discernerions",
+			"vous": "discerneriez",
+			"ils/elles": "discerneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais discerné",
+			"tu": "aurais discerné",
+			"il/elle": "aurait discerné",
+			"nous": "aurions discerné",
+			"vous": "auriez discerné",
+			"ils/elles": "auraient discerné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse discerné",
+			"tu": "eusses discerné",
+			"il/elle": "eût discerné",
+			"nous": "eussions discerné",
+			"vous": "eussiez discerné",
+			"ils/elles": "eussent discerné"
+		}
+	},
+	"participe": {
+		"présent": { "discernant": "" },
+		"passé composé": { "ayant": "discerné" },
+		"passé": {
+			"masc.sg.:": "discerné",
+			"masc.pl.:": "discernés",
+			"fém.sg.:": "discernée",
+			"fém.pl.:": "discernées"
+		}
+	},
+	"imperatif": {
+		"présent": { "discerne": "", "discernons": "", "discernez": "" },
+		"passé": { "aie": "discerné", "ayons": "discerné", "ayez": "discerné" }
+	},
+	"infinitif": {
+		"présent": { "discerner": "" },
+		"passé": { "avoir": "discerné" }
+	}
+}

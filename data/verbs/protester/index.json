@@ -1,0 +1,141 @@
+{
+	"name": "protester",
+	"definition": "protest; object; grumble; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se protester/ne pas protester/ne pas se protester",
+	"indicatif": {
+		"présent": {
+			"je": "proteste",
+			"tu": "protestes",
+			"il/elle": "proteste",
+			"nous": "protestons",
+			"vous": "protestez",
+			"ils/elles": "protestent"
+		},
+		"imparfait": {
+			"je": "protestais",
+			"tu": "protestais",
+			"il/elle": "protestait",
+			"nous": "protestions",
+			"vous": "protestiez",
+			"ils/elles": "protestaient"
+		},
+		"futur": {
+			"je": "protesterai",
+			"tu": "protesteras",
+			"il/elle": "protestera",
+			"nous": "protesterons",
+			"vous": "protesterez",
+			"ils/elles": "protesteront"
+		},
+		"passé simple": {
+			"je": "protestai",
+			"tu": "protestas",
+			"il/elle": "protesta",
+			"nous": "protestâmes",
+			"vous": "protestâtes",
+			"ils/elles": "protestèrent"
+		},
+		"passé composé": {
+			"j'": "ai protesté",
+			"tu": "as protesté",
+			"il/elle": "a protesté",
+			"nous": "avons protesté",
+			"vous": "avez protesté",
+			"ils/elles": "ont protesté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais protesté",
+			"tu": "avais protesté",
+			"il/elle": "avait protesté",
+			"nous": "avions protesté",
+			"vous": "aviez protesté",
+			"ils/elles": "avaient protesté"
+		},
+		"passé antérieur": {
+			"j'": "eus protesté",
+			"tu": "eus protesté",
+			"il/elle": "eut protesté",
+			"nous": "eûmes protesté",
+			"vous": "eûtes protesté",
+			"ils/elles": "eurent protesté"
+		},
+		"futur antérieur": {
+			"j'": "aurai protesté",
+			"tu": "auras protesté",
+			"il/elle": "aura protesté",
+			"nous": "aurons protesté",
+			"vous": "aurez protesté",
+			"ils/elles": "auront protesté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous protestiez",
+			"qu'il/elle": "proteste",
+			"qu'ils/elles": "protestent"
+		},
+		"imparfait": {
+			"que": "vous protestassiez",
+			"qu'il/elle": "protestât",
+			"qu'ils/elles": "protestassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse protesté",
+			"que": "vous eussiez protesté",
+			"qu'il/elle": "eût protesté",
+			"qu'ils/elles": "eussent protesté"
+		},
+		"passé": {
+			"j'": "aie protesté",
+			"que": "vous ayez protesté",
+			"qu'il/elle": "ait protesté",
+			"qu'ils/elles": "aient protesté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "protesterais",
+			"tu": "protesterais",
+			"il/elle": "protesterait",
+			"nous": "protesterions",
+			"vous": "protesteriez",
+			"ils/elles": "protesteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais protesté",
+			"tu": "aurais protesté",
+			"il/elle": "aurait protesté",
+			"nous": "aurions protesté",
+			"vous": "auriez protesté",
+			"ils/elles": "auraient protesté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse protesté",
+			"tu": "eusses protesté",
+			"il/elle": "eût protesté",
+			"nous": "eussions protesté",
+			"vous": "eussiez protesté",
+			"ils/elles": "eussent protesté"
+		}
+	},
+	"participe": {
+		"présent": { "protestant": "" },
+		"passé composé": { "ayant": "protesté" },
+		"passé": {
+			"masc.sg.:": "protesté",
+			"masc.pl.:": "protestés",
+			"fém.sg.:": "protestée",
+			"fém.pl.:": "protestées"
+		}
+	},
+	"imperatif": {
+		"présent": { "proteste": "", "protestons": "", "protestez": "" },
+		"passé": { "aie": "protesté", "ayons": "protesté", "ayez": "protesté" }
+	},
+	"infinitif": {
+		"présent": { "protester": "" },
+		"passé": { "avoir": "protesté" }
+	}
+}

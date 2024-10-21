@@ -1,0 +1,145 @@
+{
+	"name": "transcender",
+	"definition": "transcend; overcome; go beyond; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se transcender/ne pas transcender/ne pas se transcender",
+	"indicatif": {
+		"présent": {
+			"je": "transcende",
+			"tu": "transcendes",
+			"il/elle": "transcende",
+			"nous": "transcendons",
+			"vous": "transcendez",
+			"ils/elles": "transcendent"
+		},
+		"imparfait": {
+			"je": "transcendais",
+			"tu": "transcendais",
+			"il/elle": "transcendait",
+			"nous": "transcendions",
+			"vous": "transcendiez",
+			"ils/elles": "transcendaient"
+		},
+		"futur": {
+			"je": "transcenderai",
+			"tu": "transcenderas",
+			"il/elle": "transcendera",
+			"nous": "transcenderons",
+			"vous": "transcenderez",
+			"ils/elles": "transcenderont"
+		},
+		"passé simple": {
+			"je": "transcendai",
+			"tu": "transcendas",
+			"il/elle": "transcenda",
+			"nous": "transcendâmes",
+			"vous": "transcendâtes",
+			"ils/elles": "transcendèrent"
+		},
+		"passé composé": {
+			"j'": "ai transcendé",
+			"tu": "as transcendé",
+			"il/elle": "a transcendé",
+			"nous": "avons transcendé",
+			"vous": "avez transcendé",
+			"ils/elles": "ont transcendé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais transcendé",
+			"tu": "avais transcendé",
+			"il/elle": "avait transcendé",
+			"nous": "avions transcendé",
+			"vous": "aviez transcendé",
+			"ils/elles": "avaient transcendé"
+		},
+		"passé antérieur": {
+			"j'": "eus transcendé",
+			"tu": "eus transcendé",
+			"il/elle": "eut transcendé",
+			"nous": "eûmes transcendé",
+			"vous": "eûtes transcendé",
+			"ils/elles": "eurent transcendé"
+		},
+		"futur antérieur": {
+			"j'": "aurai transcendé",
+			"tu": "auras transcendé",
+			"il/elle": "aura transcendé",
+			"nous": "aurons transcendé",
+			"vous": "aurez transcendé",
+			"ils/elles": "auront transcendé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous transcendiez",
+			"qu'il/elle": "transcende",
+			"qu'ils/elles": "transcendent"
+		},
+		"imparfait": {
+			"que": "vous transcendassiez",
+			"qu'il/elle": "transcendât",
+			"qu'ils/elles": "transcendassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse transcendé",
+			"que": "vous eussiez transcendé",
+			"qu'il/elle": "eût transcendé",
+			"qu'ils/elles": "eussent transcendé"
+		},
+		"passé": {
+			"j'": "aie transcendé",
+			"que": "vous ayez transcendé",
+			"qu'il/elle": "ait transcendé",
+			"qu'ils/elles": "aient transcendé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "transcenderais",
+			"tu": "transcenderais",
+			"il/elle": "transcenderait",
+			"nous": "transcenderions",
+			"vous": "transcenderiez",
+			"ils/elles": "transcenderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais transcendé",
+			"tu": "aurais transcendé",
+			"il/elle": "aurait transcendé",
+			"nous": "aurions transcendé",
+			"vous": "auriez transcendé",
+			"ils/elles": "auraient transcendé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse transcendé",
+			"tu": "eusses transcendé",
+			"il/elle": "eût transcendé",
+			"nous": "eussions transcendé",
+			"vous": "eussiez transcendé",
+			"ils/elles": "eussent transcendé"
+		}
+	},
+	"participe": {
+		"présent": { "transcendant": "" },
+		"passé composé": { "ayant": "transcendé" },
+		"passé": {
+			"masc.sg.:": "transcendé",
+			"masc.pl.:": "transcendés",
+			"fém.sg.:": "transcendée",
+			"fém.pl.:": "transcendées"
+		}
+	},
+	"imperatif": {
+		"présent": { "transcende": "", "transcendons": "", "transcendez": "" },
+		"passé": {
+			"aie": "transcendé",
+			"ayons": "transcendé",
+			"ayez": "transcendé"
+		}
+	},
+	"infinitif": {
+		"présent": { "transcender": "" },
+		"passé": { "avoir": "transcendé" }
+	}
+}

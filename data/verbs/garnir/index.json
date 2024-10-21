@@ -1,0 +1,138 @@
+{
+	"name": "garnir",
+	"definition": "garnish; top with; fill; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se garnir/ne pas garnir/ne pas se garnir",
+	"indicatif": {
+		"présent": {
+			"je": "garnis",
+			"tu": "garnis",
+			"il/elle": "garnit",
+			"nous": "garnissons",
+			"vous": "garnissez",
+			"ils/elles": "garnissent"
+		},
+		"imparfait": {
+			"je": "garnissais",
+			"tu": "garnissais",
+			"il/elle": "garnissait",
+			"nous": "garnissions",
+			"vous": "garnissiez",
+			"ils/elles": "garnissaient"
+		},
+		"futur": {
+			"je": "garnirai",
+			"tu": "garniras",
+			"il/elle": "garnira",
+			"nous": "garnirons",
+			"vous": "garnirez",
+			"ils/elles": "garniront"
+		},
+		"passé simple": {
+			"je": "garnis",
+			"tu": "garnis",
+			"il/elle": "garnit",
+			"nous": "garnîmes",
+			"vous": "garnîtes",
+			"ils/elles": "garnirent"
+		},
+		"passé composé": {
+			"j'": "ai garni",
+			"tu": "as garni",
+			"il/elle": "a garni",
+			"nous": "avons garni",
+			"vous": "avez garni",
+			"ils/elles": "ont garni"
+		},
+		"plus-que-parfait": {
+			"j'": "avais garni",
+			"tu": "avais garni",
+			"il/elle": "avait garni",
+			"nous": "avions garni",
+			"vous": "aviez garni",
+			"ils/elles": "avaient garni"
+		},
+		"passé antérieur": {
+			"j'": "eus garni",
+			"tu": "eus garni",
+			"il/elle": "eut garni",
+			"nous": "eûmes garni",
+			"vous": "eûtes garni",
+			"ils/elles": "eurent garni"
+		},
+		"futur antérieur": {
+			"j'": "aurai garni",
+			"tu": "auras garni",
+			"il/elle": "aura garni",
+			"nous": "aurons garni",
+			"vous": "aurez garni",
+			"ils/elles": "auront garni"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous garnissiez",
+			"qu'il/elle": "garnisse",
+			"qu'ils/elles": "garnissent"
+		},
+		"imparfait": {
+			"que": "vous garnissiez",
+			"qu'il/elle": "garnît",
+			"qu'ils/elles": "garnissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse garni",
+			"que": "vous eussiez garni",
+			"qu'il/elle": "eût garni",
+			"qu'ils/elles": "eussent garni"
+		},
+		"passé": {
+			"j'": "aie garni",
+			"que": "vous ayez garni",
+			"qu'il/elle": "ait garni",
+			"qu'ils/elles": "aient garni"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "garnirais",
+			"tu": "garnirais",
+			"il/elle": "garnirait",
+			"nous": "garnirions",
+			"vous": "garniriez",
+			"ils/elles": "garniraient"
+		},
+		"passé première forme": {
+			"j'": "aurais garni",
+			"tu": "aurais garni",
+			"il/elle": "aurait garni",
+			"nous": "aurions garni",
+			"vous": "auriez garni",
+			"ils/elles": "auraient garni"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse garni",
+			"tu": "eusses garni",
+			"il/elle": "eût garni",
+			"nous": "eussions garni",
+			"vous": "eussiez garni",
+			"ils/elles": "eussent garni"
+		}
+	},
+	"participe": {
+		"présent": { "garnissant": "" },
+		"passé composé": { "ayant": "garni" },
+		"passé": {
+			"masc.sg.:": "garni",
+			"masc.pl.:": "garnis",
+			"fém.sg.:": "garnie",
+			"fém.pl.:": "garnies"
+		}
+	},
+	"imperatif": {
+		"présent": { "garnis": "", "garnissons": "", "garnissez": "" },
+		"passé": { "aie": "garni", "ayons": "garni", "ayez": "garni" }
+	},
+	"infinitif": { "présent": { "garnir": "" }, "passé": { "avoir": "garni" } }
+}

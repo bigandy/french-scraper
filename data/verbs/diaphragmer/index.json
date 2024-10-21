@@ -1,0 +1,145 @@
+{
+	"name": "diaphragmer",
+	"definition": "stop down; limit; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se diaphragmer/ne pas diaphragmer/ne pas se diaphragmer",
+	"indicatif": {
+		"présent": {
+			"je": "diaphragme",
+			"tu": "diaphragmes",
+			"il/elle": "diaphragme",
+			"nous": "diaphragmons",
+			"vous": "diaphragmez",
+			"ils/elles": "diaphragment"
+		},
+		"imparfait": {
+			"je": "diaphragmais",
+			"tu": "diaphragmais",
+			"il/elle": "diaphragmait",
+			"nous": "diaphragmions",
+			"vous": "diaphragmiez",
+			"ils/elles": "diaphragmaient"
+		},
+		"futur": {
+			"je": "diaphragmerai",
+			"tu": "diaphragmeras",
+			"il/elle": "diaphragmera",
+			"nous": "diaphragmerons",
+			"vous": "diaphragmerez",
+			"ils/elles": "diaphragmeront"
+		},
+		"passé simple": {
+			"je": "diaphragmai",
+			"tu": "diaphragmas",
+			"il/elle": "diaphragma",
+			"nous": "diaphragmâmes",
+			"vous": "diaphragmâtes",
+			"ils/elles": "diaphragmèrent"
+		},
+		"passé composé": {
+			"j'": "ai diaphragmé",
+			"tu": "as diaphragmé",
+			"il/elle": "a diaphragmé",
+			"nous": "avons diaphragmé",
+			"vous": "avez diaphragmé",
+			"ils/elles": "ont diaphragmé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais diaphragmé",
+			"tu": "avais diaphragmé",
+			"il/elle": "avait diaphragmé",
+			"nous": "avions diaphragmé",
+			"vous": "aviez diaphragmé",
+			"ils/elles": "avaient diaphragmé"
+		},
+		"passé antérieur": {
+			"j'": "eus diaphragmé",
+			"tu": "eus diaphragmé",
+			"il/elle": "eut diaphragmé",
+			"nous": "eûmes diaphragmé",
+			"vous": "eûtes diaphragmé",
+			"ils/elles": "eurent diaphragmé"
+		},
+		"futur antérieur": {
+			"j'": "aurai diaphragmé",
+			"tu": "auras diaphragmé",
+			"il/elle": "aura diaphragmé",
+			"nous": "aurons diaphragmé",
+			"vous": "aurez diaphragmé",
+			"ils/elles": "auront diaphragmé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous diaphragmiez",
+			"qu'il/elle": "diaphragme",
+			"qu'ils/elles": "diaphragment"
+		},
+		"imparfait": {
+			"que": "vous diaphragmassiez",
+			"qu'il/elle": "diaphragmât",
+			"qu'ils/elles": "diaphragmassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse diaphragmé",
+			"que": "vous eussiez diaphragmé",
+			"qu'il/elle": "eût diaphragmé",
+			"qu'ils/elles": "eussent diaphragmé"
+		},
+		"passé": {
+			"j'": "aie diaphragmé",
+			"que": "vous ayez diaphragmé",
+			"qu'il/elle": "ait diaphragmé",
+			"qu'ils/elles": "aient diaphragmé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "diaphragmerais",
+			"tu": "diaphragmerais",
+			"il/elle": "diaphragmerait",
+			"nous": "diaphragmerions",
+			"vous": "diaphragmeriez",
+			"ils/elles": "diaphragmeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais diaphragmé",
+			"tu": "aurais diaphragmé",
+			"il/elle": "aurait diaphragmé",
+			"nous": "aurions diaphragmé",
+			"vous": "auriez diaphragmé",
+			"ils/elles": "auraient diaphragmé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse diaphragmé",
+			"tu": "eusses diaphragmé",
+			"il/elle": "eût diaphragmé",
+			"nous": "eussions diaphragmé",
+			"vous": "eussiez diaphragmé",
+			"ils/elles": "eussent diaphragmé"
+		}
+	},
+	"participe": {
+		"présent": { "diaphragmant": "" },
+		"passé composé": { "ayant": "diaphragmé" },
+		"passé": {
+			"masc.sg.:": "diaphragmé",
+			"masc.pl.:": "diaphragmés",
+			"fém.sg.:": "diaphragmée",
+			"fém.pl.:": "diaphragmées"
+		}
+	},
+	"imperatif": {
+		"présent": { "diaphragme": "", "diaphragmons": "", "diaphragmez": "" },
+		"passé": {
+			"aie": "diaphragmé",
+			"ayons": "diaphragmé",
+			"ayez": "diaphragmé"
+		}
+	},
+	"infinitif": {
+		"présent": { "diaphragmer": "" },
+		"passé": { "avoir": "diaphragmé" }
+	}
+}

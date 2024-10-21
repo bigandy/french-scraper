@@ -1,0 +1,138 @@
+{
+	"name": "ferrer",
+	"definition": "shoe; strike; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se ferrer/ne pas ferrer/ne pas se ferrer",
+	"indicatif": {
+		"présent": {
+			"je": "ferre",
+			"tu": "ferres",
+			"il/elle": "ferre",
+			"nous": "ferrons",
+			"vous": "ferrez",
+			"ils/elles": "ferrent"
+		},
+		"imparfait": {
+			"je": "ferrais",
+			"tu": "ferrais",
+			"il/elle": "ferrait",
+			"nous": "ferrions",
+			"vous": "ferriez",
+			"ils/elles": "ferraient"
+		},
+		"futur": {
+			"je": "ferrerai",
+			"tu": "ferreras",
+			"il/elle": "ferrera",
+			"nous": "ferrerons",
+			"vous": "ferrerez",
+			"ils/elles": "ferreront"
+		},
+		"passé simple": {
+			"je": "ferrai",
+			"tu": "ferras",
+			"il/elle": "ferra",
+			"nous": "ferrâmes",
+			"vous": "ferrâtes",
+			"ils/elles": "ferrèrent"
+		},
+		"passé composé": {
+			"j'": "ai ferré",
+			"tu": "as ferré",
+			"il/elle": "a ferré",
+			"nous": "avons ferré",
+			"vous": "avez ferré",
+			"ils/elles": "ont ferré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais ferré",
+			"tu": "avais ferré",
+			"il/elle": "avait ferré",
+			"nous": "avions ferré",
+			"vous": "aviez ferré",
+			"ils/elles": "avaient ferré"
+		},
+		"passé antérieur": {
+			"j'": "eus ferré",
+			"tu": "eus ferré",
+			"il/elle": "eut ferré",
+			"nous": "eûmes ferré",
+			"vous": "eûtes ferré",
+			"ils/elles": "eurent ferré"
+		},
+		"futur antérieur": {
+			"j'": "aurai ferré",
+			"tu": "auras ferré",
+			"il/elle": "aura ferré",
+			"nous": "aurons ferré",
+			"vous": "aurez ferré",
+			"ils/elles": "auront ferré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous ferriez",
+			"qu'il/elle": "ferre",
+			"qu'ils/elles": "ferrent"
+		},
+		"imparfait": {
+			"que": "vous ferrassiez",
+			"qu'il/elle": "ferrât",
+			"qu'ils/elles": "ferrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse ferré",
+			"que": "vous eussiez ferré",
+			"qu'il/elle": "eût ferré",
+			"qu'ils/elles": "eussent ferré"
+		},
+		"passé": {
+			"j'": "aie ferré",
+			"que": "vous ayez ferré",
+			"qu'il/elle": "ait ferré",
+			"qu'ils/elles": "aient ferré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "ferrerais",
+			"tu": "ferrerais",
+			"il/elle": "ferrerait",
+			"nous": "ferrerions",
+			"vous": "ferreriez",
+			"ils/elles": "ferreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais ferré",
+			"tu": "aurais ferré",
+			"il/elle": "aurait ferré",
+			"nous": "aurions ferré",
+			"vous": "auriez ferré",
+			"ils/elles": "auraient ferré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse ferré",
+			"tu": "eusses ferré",
+			"il/elle": "eût ferré",
+			"nous": "eussions ferré",
+			"vous": "eussiez ferré",
+			"ils/elles": "eussent ferré"
+		}
+	},
+	"participe": {
+		"présent": { "ferrant": "" },
+		"passé composé": { "ayant": "ferré" },
+		"passé": {
+			"masc.sg.:": "ferré",
+			"masc.pl.:": "ferrés",
+			"fém.sg.:": "ferrée",
+			"fém.pl.:": "ferrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "ferre": "", "ferrons": "", "ferrez": "" },
+		"passé": { "aie": "ferré", "ayons": "ferré", "ayez": "ferré" }
+	},
+	"infinitif": { "présent": { "ferrer": "" }, "passé": { "avoir": "ferré" } }
+}

@@ -1,0 +1,147 @@
+{
+	"name": "uniformiser",
+	"definition": "standardize; standardise; uniform; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'uniformiser/ne pas uniformiser/ne pas s'uniformiser",
+	"indicatif": {
+		"présent": {
+			"j'": "uniformise",
+			"tu": "uniformises",
+			"il/elle": "uniformise",
+			"nous": "uniformisons",
+			"vous": "uniformisez",
+			"ils/elles": "uniformisent"
+		},
+		"imparfait": {
+			"j'": "uniformisais",
+			"tu": "uniformisais",
+			"il/elle": "uniformisait",
+			"nous": "uniformisions",
+			"vous": "uniformisiez",
+			"ils/elles": "uniformisaient"
+		},
+		"futur": {
+			"j'": "uniformiserai",
+			"tu": "uniformiseras",
+			"il/elle": "uniformisera",
+			"nous": "uniformiserons",
+			"vous": "uniformiserez",
+			"ils/elles": "uniformiseront"
+		},
+		"passé simple": {
+			"j'": "uniformisai",
+			"tu": "uniformisas",
+			"il/elle": "uniformisa",
+			"nous": "uniformisâmes",
+			"vous": "uniformisâtes",
+			"ils/elles": "uniformisèrent"
+		},
+		"passé composé": {
+			"j'": "ai uniformisé",
+			"tu": "as uniformisé",
+			"il/elle": "a uniformisé",
+			"nous": "avons uniformisé",
+			"vous": "avez uniformisé",
+			"ils/elles": "ont uniformisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais uniformisé",
+			"tu": "avais uniformisé",
+			"il/elle": "avait uniformisé",
+			"nous": "avions uniformisé",
+			"vous": "aviez uniformisé",
+			"ils/elles": "avaient uniformisé"
+		},
+		"passé antérieur": {
+			"j'": "eus uniformisé",
+			"tu": "eus uniformisé",
+			"il/elle": "eut uniformisé",
+			"nous": "eûmes uniformisé",
+			"vous": "eûtes uniformisé",
+			"ils/elles": "eurent uniformisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai uniformisé",
+			"tu": "auras uniformisé",
+			"il/elle": "aura uniformisé",
+			"nous": "aurons uniformisé",
+			"vous": "aurez uniformisé",
+			"ils/elles": "auront uniformisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "uniformise",
+			"que": "vous uniformisiez",
+			"qu'il/elle": "uniformise",
+			"qu'ils/elles": "uniformisent"
+		},
+		"imparfait": {
+			"j'": "uniformisasse",
+			"que": "vous uniformisassiez",
+			"qu'il/elle": "uniformisât",
+			"qu'ils/elles": "uniformisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse uniformisé",
+			"que": "vous eussiez uniformisé",
+			"qu'il/elle": "eût uniformisé",
+			"qu'ils/elles": "eussent uniformisé"
+		},
+		"passé": {
+			"j'": "aie uniformisé",
+			"que": "vous ayez uniformisé",
+			"qu'il/elle": "ait uniformisé",
+			"qu'ils/elles": "aient uniformisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "uniformiserais",
+			"tu": "uniformiserais",
+			"il/elle": "uniformiserait",
+			"nous": "uniformiserions",
+			"vous": "uniformiseriez",
+			"ils/elles": "uniformiseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais uniformisé",
+			"tu": "aurais uniformisé",
+			"il/elle": "aurait uniformisé",
+			"nous": "aurions uniformisé",
+			"vous": "auriez uniformisé",
+			"ils/elles": "auraient uniformisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse uniformisé",
+			"tu": "eusses uniformisé",
+			"il/elle": "eût uniformisé",
+			"nous": "eussions uniformisé",
+			"vous": "eussiez uniformisé",
+			"ils/elles": "eussent uniformisé"
+		}
+	},
+	"participe": {
+		"présent": { "uniformisant": "" },
+		"passé composé": { "ayant": "uniformisé" },
+		"passé": {
+			"masc.sg.:": "uniformisé",
+			"masc.pl.:": "uniformisés",
+			"fém.sg.:": "uniformisée",
+			"fém.pl.:": "uniformisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "uniformise": "", "uniformisons": "", "uniformisez": "" },
+		"passé": {
+			"aie": "uniformisé",
+			"ayons": "uniformisé",
+			"ayez": "uniformisé"
+		}
+	},
+	"infinitif": {
+		"présent": { "uniformiser": "" },
+		"passé": { "avoir": "uniformisé" }
+	}
+}

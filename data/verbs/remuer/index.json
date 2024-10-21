@@ -1,0 +1,138 @@
+{
+	"name": "remuer",
+	"definition": "stir; move; toss; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se remuer/ne pas remuer/ne pas se remuer",
+	"indicatif": {
+		"présent": {
+			"je": "remue",
+			"tu": "remues",
+			"il/elle": "remue",
+			"nous": "remuons",
+			"vous": "remuez",
+			"ils/elles": "remuent"
+		},
+		"imparfait": {
+			"je": "remuais",
+			"tu": "remuais",
+			"il/elle": "remuait",
+			"nous": "remuions",
+			"vous": "remuiez",
+			"ils/elles": "remuaient"
+		},
+		"futur": {
+			"je": "remuerai",
+			"tu": "remueras",
+			"il/elle": "remuera",
+			"nous": "remuerons",
+			"vous": "remuerez",
+			"ils/elles": "remueront"
+		},
+		"passé simple": {
+			"je": "remuai",
+			"tu": "remuas",
+			"il/elle": "remua",
+			"nous": "remuâmes",
+			"vous": "remuâtes",
+			"ils/elles": "remuèrent"
+		},
+		"passé composé": {
+			"j'": "ai remué",
+			"tu": "as remué",
+			"il/elle": "a remué",
+			"nous": "avons remué",
+			"vous": "avez remué",
+			"ils/elles": "ont remué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais remué",
+			"tu": "avais remué",
+			"il/elle": "avait remué",
+			"nous": "avions remué",
+			"vous": "aviez remué",
+			"ils/elles": "avaient remué"
+		},
+		"passé antérieur": {
+			"j'": "eus remué",
+			"tu": "eus remué",
+			"il/elle": "eut remué",
+			"nous": "eûmes remué",
+			"vous": "eûtes remué",
+			"ils/elles": "eurent remué"
+		},
+		"futur antérieur": {
+			"j'": "aurai remué",
+			"tu": "auras remué",
+			"il/elle": "aura remué",
+			"nous": "aurons remué",
+			"vous": "aurez remué",
+			"ils/elles": "auront remué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous remuiez",
+			"qu'il/elle": "remue",
+			"qu'ils/elles": "remuent"
+		},
+		"imparfait": {
+			"que": "vous remuassiez",
+			"qu'il/elle": "remuât",
+			"qu'ils/elles": "remuassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse remué",
+			"que": "vous eussiez remué",
+			"qu'il/elle": "eût remué",
+			"qu'ils/elles": "eussent remué"
+		},
+		"passé": {
+			"j'": "aie remué",
+			"que": "vous ayez remué",
+			"qu'il/elle": "ait remué",
+			"qu'ils/elles": "aient remué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "remuerais",
+			"tu": "remuerais",
+			"il/elle": "remuerait",
+			"nous": "remuerions",
+			"vous": "remueriez",
+			"ils/elles": "remueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais remué",
+			"tu": "aurais remué",
+			"il/elle": "aurait remué",
+			"nous": "aurions remué",
+			"vous": "auriez remué",
+			"ils/elles": "auraient remué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse remué",
+			"tu": "eusses remué",
+			"il/elle": "eût remué",
+			"nous": "eussions remué",
+			"vous": "eussiez remué",
+			"ils/elles": "eussent remué"
+		}
+	},
+	"participe": {
+		"présent": { "remuant": "" },
+		"passé composé": { "ayant": "remué" },
+		"passé": {
+			"masc.sg.:": "remué",
+			"masc.pl.:": "remués",
+			"fém.sg.:": "remuée",
+			"fém.pl.:": "remuées"
+		}
+	},
+	"imperatif": {
+		"présent": { "remue": "", "remuons": "", "remuez": "" },
+		"passé": { "aie": "remué", "ayons": "remué", "ayez": "remué" }
+	},
+	"infinitif": { "présent": { "remuer": "" }, "passé": { "avoir": "remué" } }
+}

@@ -1,0 +1,138 @@
+{
+	"name": "greffer",
+	"definition": "graft; transplant; piggyback; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se greffer/ne pas greffer/ne pas se greffer",
+	"indicatif": {
+		"présent": {
+			"je": "greffe",
+			"tu": "greffes",
+			"il/elle": "greffe",
+			"nous": "greffons",
+			"vous": "greffez",
+			"ils/elles": "greffent"
+		},
+		"imparfait": {
+			"je": "greffais",
+			"tu": "greffais",
+			"il/elle": "greffait",
+			"nous": "greffions",
+			"vous": "greffiez",
+			"ils/elles": "greffaient"
+		},
+		"futur": {
+			"je": "grefferai",
+			"tu": "grefferas",
+			"il/elle": "greffera",
+			"nous": "grefferons",
+			"vous": "grefferez",
+			"ils/elles": "grefferont"
+		},
+		"passé simple": {
+			"je": "greffai",
+			"tu": "greffas",
+			"il/elle": "greffa",
+			"nous": "greffâmes",
+			"vous": "greffâtes",
+			"ils/elles": "greffèrent"
+		},
+		"passé composé": {
+			"j'": "ai greffé",
+			"tu": "as greffé",
+			"il/elle": "a greffé",
+			"nous": "avons greffé",
+			"vous": "avez greffé",
+			"ils/elles": "ont greffé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais greffé",
+			"tu": "avais greffé",
+			"il/elle": "avait greffé",
+			"nous": "avions greffé",
+			"vous": "aviez greffé",
+			"ils/elles": "avaient greffé"
+		},
+		"passé antérieur": {
+			"j'": "eus greffé",
+			"tu": "eus greffé",
+			"il/elle": "eut greffé",
+			"nous": "eûmes greffé",
+			"vous": "eûtes greffé",
+			"ils/elles": "eurent greffé"
+		},
+		"futur antérieur": {
+			"j'": "aurai greffé",
+			"tu": "auras greffé",
+			"il/elle": "aura greffé",
+			"nous": "aurons greffé",
+			"vous": "aurez greffé",
+			"ils/elles": "auront greffé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous greffiez",
+			"qu'il/elle": "greffe",
+			"qu'ils/elles": "greffent"
+		},
+		"imparfait": {
+			"que": "vous greffassiez",
+			"qu'il/elle": "greffât",
+			"qu'ils/elles": "greffassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse greffé",
+			"que": "vous eussiez greffé",
+			"qu'il/elle": "eût greffé",
+			"qu'ils/elles": "eussent greffé"
+		},
+		"passé": {
+			"j'": "aie greffé",
+			"que": "vous ayez greffé",
+			"qu'il/elle": "ait greffé",
+			"qu'ils/elles": "aient greffé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "grefferais",
+			"tu": "grefferais",
+			"il/elle": "grefferait",
+			"nous": "grefferions",
+			"vous": "grefferiez",
+			"ils/elles": "grefferaient"
+		},
+		"passé première forme": {
+			"j'": "aurais greffé",
+			"tu": "aurais greffé",
+			"il/elle": "aurait greffé",
+			"nous": "aurions greffé",
+			"vous": "auriez greffé",
+			"ils/elles": "auraient greffé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse greffé",
+			"tu": "eusses greffé",
+			"il/elle": "eût greffé",
+			"nous": "eussions greffé",
+			"vous": "eussiez greffé",
+			"ils/elles": "eussent greffé"
+		}
+	},
+	"participe": {
+		"présent": { "greffant": "" },
+		"passé composé": { "ayant": "greffé" },
+		"passé": {
+			"masc.sg.:": "greffé",
+			"masc.pl.:": "greffés",
+			"fém.sg.:": "greffée",
+			"fém.pl.:": "greffées"
+		}
+	},
+	"imperatif": {
+		"présent": { "greffe": "", "greffons": "", "greffez": "" },
+		"passé": { "aie": "greffé", "ayons": "greffé", "ayez": "greffé" }
+	},
+	"infinitif": { "présent": { "greffer": "" }, "passé": { "avoir": "greffé" } }
+}

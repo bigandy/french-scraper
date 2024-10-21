@@ -1,0 +1,140 @@
+{
+	"name": "enrober",
+	"definition": "coat; encapsulate; wrap; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'enrober/ne pas enrober/ne pas s'enrober",
+	"indicatif": {
+		"présent": {
+			"j'": "enrobe",
+			"tu": "enrobes",
+			"il/elle": "enrobe",
+			"nous": "enrobons",
+			"vous": "enrobez",
+			"ils/elles": "enrobent"
+		},
+		"imparfait": {
+			"j'": "enrobais",
+			"tu": "enrobais",
+			"il/elle": "enrobait",
+			"nous": "enrobions",
+			"vous": "enrobiez",
+			"ils/elles": "enrobaient"
+		},
+		"futur": {
+			"j'": "enroberai",
+			"tu": "enroberas",
+			"il/elle": "enrobera",
+			"nous": "enroberons",
+			"vous": "enroberez",
+			"ils/elles": "enroberont"
+		},
+		"passé simple": {
+			"j'": "enrobai",
+			"tu": "enrobas",
+			"il/elle": "enroba",
+			"nous": "enrobâmes",
+			"vous": "enrobâtes",
+			"ils/elles": "enrobèrent"
+		},
+		"passé composé": {
+			"j'": "ai enrobé",
+			"tu": "as enrobé",
+			"il/elle": "a enrobé",
+			"nous": "avons enrobé",
+			"vous": "avez enrobé",
+			"ils/elles": "ont enrobé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais enrobé",
+			"tu": "avais enrobé",
+			"il/elle": "avait enrobé",
+			"nous": "avions enrobé",
+			"vous": "aviez enrobé",
+			"ils/elles": "avaient enrobé"
+		},
+		"passé antérieur": {
+			"j'": "eus enrobé",
+			"tu": "eus enrobé",
+			"il/elle": "eut enrobé",
+			"nous": "eûmes enrobé",
+			"vous": "eûtes enrobé",
+			"ils/elles": "eurent enrobé"
+		},
+		"futur antérieur": {
+			"j'": "aurai enrobé",
+			"tu": "auras enrobé",
+			"il/elle": "aura enrobé",
+			"nous": "aurons enrobé",
+			"vous": "aurez enrobé",
+			"ils/elles": "auront enrobé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "enrobe",
+			"que": "vous enrobiez",
+			"qu'il/elle": "enrobe",
+			"qu'ils/elles": "enrobent"
+		},
+		"imparfait": {
+			"j'": "enrobasse",
+			"que": "vous enrobassiez",
+			"qu'il/elle": "enrobât",
+			"qu'ils/elles": "enrobassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse enrobé",
+			"que": "vous eussiez enrobé",
+			"qu'il/elle": "eût enrobé",
+			"qu'ils/elles": "eussent enrobé"
+		},
+		"passé": {
+			"j'": "aie enrobé",
+			"que": "vous ayez enrobé",
+			"qu'il/elle": "ait enrobé",
+			"qu'ils/elles": "aient enrobé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "enroberais",
+			"tu": "enroberais",
+			"il/elle": "enroberait",
+			"nous": "enroberions",
+			"vous": "enroberiez",
+			"ils/elles": "enroberaient"
+		},
+		"passé première forme": {
+			"j'": "aurais enrobé",
+			"tu": "aurais enrobé",
+			"il/elle": "aurait enrobé",
+			"nous": "aurions enrobé",
+			"vous": "auriez enrobé",
+			"ils/elles": "auraient enrobé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse enrobé",
+			"tu": "eusses enrobé",
+			"il/elle": "eût enrobé",
+			"nous": "eussions enrobé",
+			"vous": "eussiez enrobé",
+			"ils/elles": "eussent enrobé"
+		}
+	},
+	"participe": {
+		"présent": { "enrobant": "" },
+		"passé composé": { "ayant": "enrobé" },
+		"passé": {
+			"masc.sg.:": "enrobé",
+			"masc.pl.:": "enrobés",
+			"fém.sg.:": "enrobée",
+			"fém.pl.:": "enrobées"
+		}
+	},
+	"imperatif": {
+		"présent": { "enrobe": "", "enrobons": "", "enrobez": "" },
+		"passé": { "aie": "enrobé", "ayons": "enrobé", "ayez": "enrobé" }
+	},
+	"infinitif": { "présent": { "enrober": "" }, "passé": { "avoir": "enrobé" } }
+}

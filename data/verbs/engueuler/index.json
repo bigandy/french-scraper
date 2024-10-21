@@ -1,0 +1,143 @@
+{
+	"name": "engueuler",
+	"definition": "yell at; chew out; scold; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'engueuler/ne pas engueuler/ne pas s'engueuler",
+	"indicatif": {
+		"présent": {
+			"j'": "engueule",
+			"tu": "engueules",
+			"il/elle": "engueule",
+			"nous": "engueulons",
+			"vous": "engueulez",
+			"ils/elles": "engueulent"
+		},
+		"imparfait": {
+			"j'": "engueulais",
+			"tu": "engueulais",
+			"il/elle": "engueulait",
+			"nous": "engueulions",
+			"vous": "engueuliez",
+			"ils/elles": "engueulaient"
+		},
+		"futur": {
+			"j'": "engueulerai",
+			"tu": "engueuleras",
+			"il/elle": "engueulera",
+			"nous": "engueulerons",
+			"vous": "engueulerez",
+			"ils/elles": "engueuleront"
+		},
+		"passé simple": {
+			"j'": "engueulai",
+			"tu": "engueulas",
+			"il/elle": "engueula",
+			"nous": "engueulâmes",
+			"vous": "engueulâtes",
+			"ils/elles": "engueulèrent"
+		},
+		"passé composé": {
+			"j'": "ai engueulé",
+			"tu": "as engueulé",
+			"il/elle": "a engueulé",
+			"nous": "avons engueulé",
+			"vous": "avez engueulé",
+			"ils/elles": "ont engueulé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais engueulé",
+			"tu": "avais engueulé",
+			"il/elle": "avait engueulé",
+			"nous": "avions engueulé",
+			"vous": "aviez engueulé",
+			"ils/elles": "avaient engueulé"
+		},
+		"passé antérieur": {
+			"j'": "eus engueulé",
+			"tu": "eus engueulé",
+			"il/elle": "eut engueulé",
+			"nous": "eûmes engueulé",
+			"vous": "eûtes engueulé",
+			"ils/elles": "eurent engueulé"
+		},
+		"futur antérieur": {
+			"j'": "aurai engueulé",
+			"tu": "auras engueulé",
+			"il/elle": "aura engueulé",
+			"nous": "aurons engueulé",
+			"vous": "aurez engueulé",
+			"ils/elles": "auront engueulé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "engueule",
+			"que": "vous engueuliez",
+			"qu'il/elle": "engueule",
+			"qu'ils/elles": "engueulent"
+		},
+		"imparfait": {
+			"j'": "engueulasse",
+			"que": "vous engueulassiez",
+			"qu'il/elle": "engueulât",
+			"qu'ils/elles": "engueulassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse engueulé",
+			"que": "vous eussiez engueulé",
+			"qu'il/elle": "eût engueulé",
+			"qu'ils/elles": "eussent engueulé"
+		},
+		"passé": {
+			"j'": "aie engueulé",
+			"que": "vous ayez engueulé",
+			"qu'il/elle": "ait engueulé",
+			"qu'ils/elles": "aient engueulé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "engueulerais",
+			"tu": "engueulerais",
+			"il/elle": "engueulerait",
+			"nous": "engueulerions",
+			"vous": "engueuleriez",
+			"ils/elles": "engueuleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais engueulé",
+			"tu": "aurais engueulé",
+			"il/elle": "aurait engueulé",
+			"nous": "aurions engueulé",
+			"vous": "auriez engueulé",
+			"ils/elles": "auraient engueulé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse engueulé",
+			"tu": "eusses engueulé",
+			"il/elle": "eût engueulé",
+			"nous": "eussions engueulé",
+			"vous": "eussiez engueulé",
+			"ils/elles": "eussent engueulé"
+		}
+	},
+	"participe": {
+		"présent": { "engueulant": "" },
+		"passé composé": { "ayant": "engueulé" },
+		"passé": {
+			"masc.sg.:": "engueulé",
+			"masc.pl.:": "engueulés",
+			"fém.sg.:": "engueulée",
+			"fém.pl.:": "engueulées"
+		}
+	},
+	"imperatif": {
+		"présent": { "engueule": "", "engueulons": "", "engueulez": "" },
+		"passé": { "aie": "engueulé", "ayons": "engueulé", "ayez": "engueulé" }
+	},
+	"infinitif": {
+		"présent": { "engueuler": "" },
+		"passé": { "avoir": "engueulé" }
+	}
+}

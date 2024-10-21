@@ -1,0 +1,149 @@
+{
+	"name": "subventionner",
+	"definition": "subsidize; subsidise; fund; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se subventionner/ne pas subventionner/ne pas se subventionner",
+	"indicatif": {
+		"présent": {
+			"je": "subventionne",
+			"tu": "subventionnes",
+			"il/elle": "subventionne",
+			"nous": "subventionnons",
+			"vous": "subventionnez",
+			"ils/elles": "subventionnent"
+		},
+		"imparfait": {
+			"je": "subventionnais",
+			"tu": "subventionnais",
+			"il/elle": "subventionnait",
+			"nous": "subventionnions",
+			"vous": "subventionniez",
+			"ils/elles": "subventionnaient"
+		},
+		"futur": {
+			"je": "subventionnerai",
+			"tu": "subventionneras",
+			"il/elle": "subventionnera",
+			"nous": "subventionnerons",
+			"vous": "subventionnerez",
+			"ils/elles": "subventionneront"
+		},
+		"passé simple": {
+			"je": "subventionnai",
+			"tu": "subventionnas",
+			"il/elle": "subventionna",
+			"nous": "subventionnâmes",
+			"vous": "subventionnâtes",
+			"ils/elles": "subventionnèrent"
+		},
+		"passé composé": {
+			"j'": "ai subventionné",
+			"tu": "as subventionné",
+			"il/elle": "a subventionné",
+			"nous": "avons subventionné",
+			"vous": "avez subventionné",
+			"ils/elles": "ont subventionné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais subventionné",
+			"tu": "avais subventionné",
+			"il/elle": "avait subventionné",
+			"nous": "avions subventionné",
+			"vous": "aviez subventionné",
+			"ils/elles": "avaient subventionné"
+		},
+		"passé antérieur": {
+			"j'": "eus subventionné",
+			"tu": "eus subventionné",
+			"il/elle": "eut subventionné",
+			"nous": "eûmes subventionné",
+			"vous": "eûtes subventionné",
+			"ils/elles": "eurent subventionné"
+		},
+		"futur antérieur": {
+			"j'": "aurai subventionné",
+			"tu": "auras subventionné",
+			"il/elle": "aura subventionné",
+			"nous": "aurons subventionné",
+			"vous": "aurez subventionné",
+			"ils/elles": "auront subventionné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous subventionniez",
+			"qu'il/elle": "subventionne",
+			"qu'ils/elles": "subventionnent"
+		},
+		"imparfait": {
+			"que": "vous subventionnassiez",
+			"qu'il/elle": "subventionnât",
+			"qu'ils/elles": "subventionnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse subventionné",
+			"que": "vous eussiez subventionné",
+			"qu'il/elle": "eût subventionné",
+			"qu'ils/elles": "eussent subventionné"
+		},
+		"passé": {
+			"j'": "aie subventionné",
+			"que": "vous ayez subventionné",
+			"qu'il/elle": "ait subventionné",
+			"qu'ils/elles": "aient subventionné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "subventionnerais",
+			"tu": "subventionnerais",
+			"il/elle": "subventionnerait",
+			"nous": "subventionnerions",
+			"vous": "subventionneriez",
+			"ils/elles": "subventionneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais subventionné",
+			"tu": "aurais subventionné",
+			"il/elle": "aurait subventionné",
+			"nous": "aurions subventionné",
+			"vous": "auriez subventionné",
+			"ils/elles": "auraient subventionné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse subventionné",
+			"tu": "eusses subventionné",
+			"il/elle": "eût subventionné",
+			"nous": "eussions subventionné",
+			"vous": "eussiez subventionné",
+			"ils/elles": "eussent subventionné"
+		}
+	},
+	"participe": {
+		"présent": { "subventionnant": "" },
+		"passé composé": { "ayant": "subventionné" },
+		"passé": {
+			"masc.sg.:": "subventionné",
+			"masc.pl.:": "subventionnés",
+			"fém.sg.:": "subventionnée",
+			"fém.pl.:": "subventionnées"
+		}
+	},
+	"imperatif": {
+		"présent": {
+			"subventionne": "",
+			"subventionnons": "",
+			"subventionnez": ""
+		},
+		"passé": {
+			"aie": "subventionné",
+			"ayons": "subventionné",
+			"ayez": "subventionné"
+		}
+	},
+	"infinitif": {
+		"présent": { "subventionner": "" },
+		"passé": { "avoir": "subventionné" }
+	}
+}

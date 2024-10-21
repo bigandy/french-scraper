@@ -1,0 +1,138 @@
+{
+	"name": "chuter",
+	"definition": "fall; drop; decline; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se chuter/ne pas chuter/ne pas se chuter",
+	"indicatif": {
+		"présent": {
+			"je": "chute",
+			"tu": "chutes",
+			"il/elle": "chute",
+			"nous": "chutons",
+			"vous": "chutez",
+			"ils/elles": "chutent"
+		},
+		"imparfait": {
+			"je": "chutais",
+			"tu": "chutais",
+			"il/elle": "chutait",
+			"nous": "chutions",
+			"vous": "chutiez",
+			"ils/elles": "chutaient"
+		},
+		"futur": {
+			"je": "chuterai",
+			"tu": "chuteras",
+			"il/elle": "chutera",
+			"nous": "chuterons",
+			"vous": "chuterez",
+			"ils/elles": "chuteront"
+		},
+		"passé simple": {
+			"je": "chutai",
+			"tu": "chutas",
+			"il/elle": "chuta",
+			"nous": "chutâmes",
+			"vous": "chutâtes",
+			"ils/elles": "chutèrent"
+		},
+		"passé composé": {
+			"j'": "ai chuté",
+			"tu": "as chuté",
+			"il/elle": "a chuté",
+			"nous": "avons chuté",
+			"vous": "avez chuté",
+			"ils/elles": "ont chuté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais chuté",
+			"tu": "avais chuté",
+			"il/elle": "avait chuté",
+			"nous": "avions chuté",
+			"vous": "aviez chuté",
+			"ils/elles": "avaient chuté"
+		},
+		"passé antérieur": {
+			"j'": "eus chuté",
+			"tu": "eus chuté",
+			"il/elle": "eut chuté",
+			"nous": "eûmes chuté",
+			"vous": "eûtes chuté",
+			"ils/elles": "eurent chuté"
+		},
+		"futur antérieur": {
+			"j'": "aurai chuté",
+			"tu": "auras chuté",
+			"il/elle": "aura chuté",
+			"nous": "aurons chuté",
+			"vous": "aurez chuté",
+			"ils/elles": "auront chuté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous chutiez",
+			"qu'il/elle": "chute",
+			"qu'ils/elles": "chutent"
+		},
+		"imparfait": {
+			"que": "vous chutassiez",
+			"qu'il/elle": "chutât",
+			"qu'ils/elles": "chutassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse chuté",
+			"que": "vous eussiez chuté",
+			"qu'il/elle": "eût chuté",
+			"qu'ils/elles": "eussent chuté"
+		},
+		"passé": {
+			"j'": "aie chuté",
+			"que": "vous ayez chuté",
+			"qu'il/elle": "ait chuté",
+			"qu'ils/elles": "aient chuté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "chuterais",
+			"tu": "chuterais",
+			"il/elle": "chuterait",
+			"nous": "chuterions",
+			"vous": "chuteriez",
+			"ils/elles": "chuteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais chuté",
+			"tu": "aurais chuté",
+			"il/elle": "aurait chuté",
+			"nous": "aurions chuté",
+			"vous": "auriez chuté",
+			"ils/elles": "auraient chuté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse chuté",
+			"tu": "eusses chuté",
+			"il/elle": "eût chuté",
+			"nous": "eussions chuté",
+			"vous": "eussiez chuté",
+			"ils/elles": "eussent chuté"
+		}
+	},
+	"participe": {
+		"présent": { "chutant": "" },
+		"passé composé": { "ayant": "chuté" },
+		"passé": {
+			"masc.sg.:": "chuté",
+			"masc.pl.:": "chutés",
+			"fém.sg.:": "chutée",
+			"fém.pl.:": "chutées"
+		}
+	},
+	"imperatif": {
+		"présent": { "chute": "", "chutons": "", "chutez": "" },
+		"passé": { "aie": "chuté", "ayons": "chuté", "ayez": "chuté" }
+	},
+	"infinitif": { "présent": { "chuter": "" }, "passé": { "avoir": "chuté" } }
+}

@@ -1,0 +1,141 @@
+{
+	"name": "succéder",
+	"definition": "succeed; follow; replace; ...",
+	"model": "céder",
+	"auxiliary": "avoir",
+	"otherForms": "se succéder/ne pas succéder/ne pas se succéder",
+	"indicatif": {
+		"présent": {
+			"je": "succède",
+			"tu": "succèdes",
+			"il/elle": "succède",
+			"nous": "succédons",
+			"vous": "succédez",
+			"ils/elles": "succèdent"
+		},
+		"imparfait": {
+			"je": "succédais",
+			"tu": "succédais",
+			"il/elle": "succédait",
+			"nous": "succédions",
+			"vous": "succédiez",
+			"ils/elles": "succédaient"
+		},
+		"futur": {
+			"je": "succéderai",
+			"tu": "succéderas",
+			"il/elle": "succédera",
+			"nous": "succéderons",
+			"vous": "succéderez",
+			"ils/elles": "succéderont"
+		},
+		"passé simple": {
+			"je": "succédai",
+			"tu": "succédas",
+			"il/elle": "succéda",
+			"nous": "succédâmes",
+			"vous": "succédâtes",
+			"ils/elles": "succédèrent"
+		},
+		"passé composé": {
+			"j'": "ai succédé",
+			"tu": "as succédé",
+			"il/elle": "a succédé",
+			"nous": "avons succédé",
+			"vous": "avez succédé",
+			"ils/elles": "ont succédé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais succédé",
+			"tu": "avais succédé",
+			"il/elle": "avait succédé",
+			"nous": "avions succédé",
+			"vous": "aviez succédé",
+			"ils/elles": "avaient succédé"
+		},
+		"passé antérieur": {
+			"j'": "eus succédé",
+			"tu": "eus succédé",
+			"il/elle": "eut succédé",
+			"nous": "eûmes succédé",
+			"vous": "eûtes succédé",
+			"ils/elles": "eurent succédé"
+		},
+		"futur antérieur": {
+			"j'": "aurai succédé",
+			"tu": "auras succédé",
+			"il/elle": "aura succédé",
+			"nous": "aurons succédé",
+			"vous": "aurez succédé",
+			"ils/elles": "auront succédé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous succédiez",
+			"qu'il/elle": "succède",
+			"qu'ils/elles": "succèdent"
+		},
+		"imparfait": {
+			"que": "vous succédassiez",
+			"qu'il/elle": "succédât",
+			"qu'ils/elles": "succédassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse succédé",
+			"que": "vous eussiez succédé",
+			"qu'il/elle": "eût succédé",
+			"qu'ils/elles": "eussent succédé"
+		},
+		"passé": {
+			"j'": "aie succédé",
+			"que": "vous ayez succédé",
+			"qu'il/elle": "ait succédé",
+			"qu'ils/elles": "aient succédé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "succéderais",
+			"tu": "succéderais",
+			"il/elle": "succéderait",
+			"nous": "succéderions",
+			"vous": "succéderiez",
+			"ils/elles": "succéderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais succédé",
+			"tu": "aurais succédé",
+			"il/elle": "aurait succédé",
+			"nous": "aurions succédé",
+			"vous": "auriez succédé",
+			"ils/elles": "auraient succédé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse succédé",
+			"tu": "eusses succédé",
+			"il/elle": "eût succédé",
+			"nous": "eussions succédé",
+			"vous": "eussiez succédé",
+			"ils/elles": "eussent succédé"
+		}
+	},
+	"participe": {
+		"présent": { "succédant": "" },
+		"passé composé": { "ayant": "succédé" },
+		"passé": {
+			"masc.sg.:": "succédé",
+			"masc.pl.:": "succédés",
+			"fém.sg.:": "succédée",
+			"fém.pl.:": "succédées"
+		}
+	},
+	"imperatif": {
+		"présent": { "succède": "", "succédons": "", "succédez": "" },
+		"passé": { "aie": "succédé", "ayons": "succédé", "ayez": "succédé" }
+	},
+	"infinitif": {
+		"présent": { "succéder": "" },
+		"passé": { "avoir": "succédé" }
+	}
+}

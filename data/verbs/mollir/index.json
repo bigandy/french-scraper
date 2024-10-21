@@ -1,0 +1,138 @@
+{
+	"name": "mollir",
+	"definition": "slacken; go weak; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se mollir/ne pas mollir/ne pas se mollir",
+	"indicatif": {
+		"présent": {
+			"je": "mollis",
+			"tu": "mollis",
+			"il/elle": "mollit",
+			"nous": "mollissons",
+			"vous": "mollissez",
+			"ils/elles": "mollissent"
+		},
+		"imparfait": {
+			"je": "mollissais",
+			"tu": "mollissais",
+			"il/elle": "mollissait",
+			"nous": "mollissions",
+			"vous": "mollissiez",
+			"ils/elles": "mollissaient"
+		},
+		"futur": {
+			"je": "mollirai",
+			"tu": "molliras",
+			"il/elle": "mollira",
+			"nous": "mollirons",
+			"vous": "mollirez",
+			"ils/elles": "molliront"
+		},
+		"passé simple": {
+			"je": "mollis",
+			"tu": "mollis",
+			"il/elle": "mollit",
+			"nous": "mollîmes",
+			"vous": "mollîtes",
+			"ils/elles": "mollirent"
+		},
+		"passé composé": {
+			"j'": "ai molli",
+			"tu": "as molli",
+			"il/elle": "a molli",
+			"nous": "avons molli",
+			"vous": "avez molli",
+			"ils/elles": "ont molli"
+		},
+		"plus-que-parfait": {
+			"j'": "avais molli",
+			"tu": "avais molli",
+			"il/elle": "avait molli",
+			"nous": "avions molli",
+			"vous": "aviez molli",
+			"ils/elles": "avaient molli"
+		},
+		"passé antérieur": {
+			"j'": "eus molli",
+			"tu": "eus molli",
+			"il/elle": "eut molli",
+			"nous": "eûmes molli",
+			"vous": "eûtes molli",
+			"ils/elles": "eurent molli"
+		},
+		"futur antérieur": {
+			"j'": "aurai molli",
+			"tu": "auras molli",
+			"il/elle": "aura molli",
+			"nous": "aurons molli",
+			"vous": "aurez molli",
+			"ils/elles": "auront molli"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous mollissiez",
+			"qu'il/elle": "mollisse",
+			"qu'ils/elles": "mollissent"
+		},
+		"imparfait": {
+			"que": "vous mollissiez",
+			"qu'il/elle": "mollît",
+			"qu'ils/elles": "mollissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse molli",
+			"que": "vous eussiez molli",
+			"qu'il/elle": "eût molli",
+			"qu'ils/elles": "eussent molli"
+		},
+		"passé": {
+			"j'": "aie molli",
+			"que": "vous ayez molli",
+			"qu'il/elle": "ait molli",
+			"qu'ils/elles": "aient molli"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "mollirais",
+			"tu": "mollirais",
+			"il/elle": "mollirait",
+			"nous": "mollirions",
+			"vous": "molliriez",
+			"ils/elles": "molliraient"
+		},
+		"passé première forme": {
+			"j'": "aurais molli",
+			"tu": "aurais molli",
+			"il/elle": "aurait molli",
+			"nous": "aurions molli",
+			"vous": "auriez molli",
+			"ils/elles": "auraient molli"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse molli",
+			"tu": "eusses molli",
+			"il/elle": "eût molli",
+			"nous": "eussions molli",
+			"vous": "eussiez molli",
+			"ils/elles": "eussent molli"
+		}
+	},
+	"participe": {
+		"présent": { "mollissant": "" },
+		"passé composé": { "ayant": "molli" },
+		"passé": {
+			"masc.sg.:": "molli",
+			"masc.pl.:": "mollis",
+			"fém.sg.:": "mollie",
+			"fém.pl.:": "mollies"
+		}
+	},
+	"imperatif": {
+		"présent": { "mollis": "", "mollissons": "", "mollissez": "" },
+		"passé": { "aie": "molli", "ayons": "molli", "ayez": "molli" }
+	},
+	"infinitif": { "présent": { "mollir": "" }, "passé": { "avoir": "molli" } }
+}

@@ -1,0 +1,138 @@
+{
+	"name": "renouer",
+	"definition": "renew; resume; reconnect; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se renouer/ne pas renouer/ne pas se renouer",
+	"indicatif": {
+		"présent": {
+			"je": "renoue",
+			"tu": "renoues",
+			"il/elle": "renoue",
+			"nous": "renouons",
+			"vous": "renouez",
+			"ils/elles": "renouent"
+		},
+		"imparfait": {
+			"je": "renouais",
+			"tu": "renouais",
+			"il/elle": "renouait",
+			"nous": "renouions",
+			"vous": "renouiez",
+			"ils/elles": "renouaient"
+		},
+		"futur": {
+			"je": "renouerai",
+			"tu": "renoueras",
+			"il/elle": "renouera",
+			"nous": "renouerons",
+			"vous": "renouerez",
+			"ils/elles": "renoueront"
+		},
+		"passé simple": {
+			"je": "renouai",
+			"tu": "renouas",
+			"il/elle": "renoua",
+			"nous": "renouâmes",
+			"vous": "renouâtes",
+			"ils/elles": "renouèrent"
+		},
+		"passé composé": {
+			"j'": "ai renoué",
+			"tu": "as renoué",
+			"il/elle": "a renoué",
+			"nous": "avons renoué",
+			"vous": "avez renoué",
+			"ils/elles": "ont renoué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais renoué",
+			"tu": "avais renoué",
+			"il/elle": "avait renoué",
+			"nous": "avions renoué",
+			"vous": "aviez renoué",
+			"ils/elles": "avaient renoué"
+		},
+		"passé antérieur": {
+			"j'": "eus renoué",
+			"tu": "eus renoué",
+			"il/elle": "eut renoué",
+			"nous": "eûmes renoué",
+			"vous": "eûtes renoué",
+			"ils/elles": "eurent renoué"
+		},
+		"futur antérieur": {
+			"j'": "aurai renoué",
+			"tu": "auras renoué",
+			"il/elle": "aura renoué",
+			"nous": "aurons renoué",
+			"vous": "aurez renoué",
+			"ils/elles": "auront renoué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous renouiez",
+			"qu'il/elle": "renoue",
+			"qu'ils/elles": "renouent"
+		},
+		"imparfait": {
+			"que": "vous renouassiez",
+			"qu'il/elle": "renouât",
+			"qu'ils/elles": "renouassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse renoué",
+			"que": "vous eussiez renoué",
+			"qu'il/elle": "eût renoué",
+			"qu'ils/elles": "eussent renoué"
+		},
+		"passé": {
+			"j'": "aie renoué",
+			"que": "vous ayez renoué",
+			"qu'il/elle": "ait renoué",
+			"qu'ils/elles": "aient renoué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "renouerais",
+			"tu": "renouerais",
+			"il/elle": "renouerait",
+			"nous": "renouerions",
+			"vous": "renoueriez",
+			"ils/elles": "renoueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais renoué",
+			"tu": "aurais renoué",
+			"il/elle": "aurait renoué",
+			"nous": "aurions renoué",
+			"vous": "auriez renoué",
+			"ils/elles": "auraient renoué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse renoué",
+			"tu": "eusses renoué",
+			"il/elle": "eût renoué",
+			"nous": "eussions renoué",
+			"vous": "eussiez renoué",
+			"ils/elles": "eussent renoué"
+		}
+	},
+	"participe": {
+		"présent": { "renouant": "" },
+		"passé composé": { "ayant": "renoué" },
+		"passé": {
+			"masc.sg.:": "renoué",
+			"masc.pl.:": "renoués",
+			"fém.sg.:": "renouée",
+			"fém.pl.:": "renouées"
+		}
+	},
+	"imperatif": {
+		"présent": { "renoue": "", "renouons": "", "renouez": "" },
+		"passé": { "aie": "renoué", "ayons": "renoué", "ayez": "renoué" }
+	},
+	"infinitif": { "présent": { "renouer": "" }, "passé": { "avoir": "renoué" } }
+}

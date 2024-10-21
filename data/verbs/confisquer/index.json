@@ -1,0 +1,141 @@
+{
+	"name": "confisquer",
+	"definition": "confiscate; seize; forfeit; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se confisquer/ne pas confisquer/ne pas se confisquer",
+	"indicatif": {
+		"présent": {
+			"je": "confisque",
+			"tu": "confisques",
+			"il/elle": "confisque",
+			"nous": "confisquons",
+			"vous": "confisquez",
+			"ils/elles": "confisquent"
+		},
+		"imparfait": {
+			"je": "confisquais",
+			"tu": "confisquais",
+			"il/elle": "confisquait",
+			"nous": "confisquions",
+			"vous": "confisquiez",
+			"ils/elles": "confisquaient"
+		},
+		"futur": {
+			"je": "confisquerai",
+			"tu": "confisqueras",
+			"il/elle": "confisquera",
+			"nous": "confisquerons",
+			"vous": "confisquerez",
+			"ils/elles": "confisqueront"
+		},
+		"passé simple": {
+			"je": "confisquai",
+			"tu": "confisquas",
+			"il/elle": "confisqua",
+			"nous": "confisquâmes",
+			"vous": "confisquâtes",
+			"ils/elles": "confisquèrent"
+		},
+		"passé composé": {
+			"j'": "ai confisqué",
+			"tu": "as confisqué",
+			"il/elle": "a confisqué",
+			"nous": "avons confisqué",
+			"vous": "avez confisqué",
+			"ils/elles": "ont confisqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais confisqué",
+			"tu": "avais confisqué",
+			"il/elle": "avait confisqué",
+			"nous": "avions confisqué",
+			"vous": "aviez confisqué",
+			"ils/elles": "avaient confisqué"
+		},
+		"passé antérieur": {
+			"j'": "eus confisqué",
+			"tu": "eus confisqué",
+			"il/elle": "eut confisqué",
+			"nous": "eûmes confisqué",
+			"vous": "eûtes confisqué",
+			"ils/elles": "eurent confisqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai confisqué",
+			"tu": "auras confisqué",
+			"il/elle": "aura confisqué",
+			"nous": "aurons confisqué",
+			"vous": "aurez confisqué",
+			"ils/elles": "auront confisqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous confisquiez",
+			"qu'il/elle": "confisque",
+			"qu'ils/elles": "confisquent"
+		},
+		"imparfait": {
+			"que": "vous confisquassiez",
+			"qu'il/elle": "confisquât",
+			"qu'ils/elles": "confisquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse confisqué",
+			"que": "vous eussiez confisqué",
+			"qu'il/elle": "eût confisqué",
+			"qu'ils/elles": "eussent confisqué"
+		},
+		"passé": {
+			"j'": "aie confisqué",
+			"que": "vous ayez confisqué",
+			"qu'il/elle": "ait confisqué",
+			"qu'ils/elles": "aient confisqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "confisquerais",
+			"tu": "confisquerais",
+			"il/elle": "confisquerait",
+			"nous": "confisquerions",
+			"vous": "confisqueriez",
+			"ils/elles": "confisqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais confisqué",
+			"tu": "aurais confisqué",
+			"il/elle": "aurait confisqué",
+			"nous": "aurions confisqué",
+			"vous": "auriez confisqué",
+			"ils/elles": "auraient confisqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse confisqué",
+			"tu": "eusses confisqué",
+			"il/elle": "eût confisqué",
+			"nous": "eussions confisqué",
+			"vous": "eussiez confisqué",
+			"ils/elles": "eussent confisqué"
+		}
+	},
+	"participe": {
+		"présent": { "confisquant": "" },
+		"passé composé": { "ayant": "confisqué" },
+		"passé": {
+			"masc.sg.:": "confisqué",
+			"masc.pl.:": "confisqués",
+			"fém.sg.:": "confisquée",
+			"fém.pl.:": "confisquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "confisque": "", "confisquons": "", "confisquez": "" },
+		"passé": { "aie": "confisqué", "ayons": "confisqué", "ayez": "confisqué" }
+	},
+	"infinitif": {
+		"présent": { "confisquer": "" },
+		"passé": { "avoir": "confisqué" }
+	}
+}

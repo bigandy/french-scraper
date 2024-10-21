@@ -1,0 +1,141 @@
+{
+	"name": "façonner",
+	"definition": "shape; form; fashion; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se façonner/ne pas façonner/ne pas se façonner",
+	"indicatif": {
+		"présent": {
+			"je": "façonne",
+			"tu": "façonnes",
+			"il/elle": "façonne",
+			"nous": "façonnons",
+			"vous": "façonnez",
+			"ils/elles": "façonnent"
+		},
+		"imparfait": {
+			"je": "façonnais",
+			"tu": "façonnais",
+			"il/elle": "façonnait",
+			"nous": "façonnions",
+			"vous": "façonniez",
+			"ils/elles": "façonnaient"
+		},
+		"futur": {
+			"je": "façonnerai",
+			"tu": "façonneras",
+			"il/elle": "façonnera",
+			"nous": "façonnerons",
+			"vous": "façonnerez",
+			"ils/elles": "façonneront"
+		},
+		"passé simple": {
+			"je": "façonnai",
+			"tu": "façonnas",
+			"il/elle": "façonna",
+			"nous": "façonnâmes",
+			"vous": "façonnâtes",
+			"ils/elles": "façonnèrent"
+		},
+		"passé composé": {
+			"j'": "ai façonné",
+			"tu": "as façonné",
+			"il/elle": "a façonné",
+			"nous": "avons façonné",
+			"vous": "avez façonné",
+			"ils/elles": "ont façonné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais façonné",
+			"tu": "avais façonné",
+			"il/elle": "avait façonné",
+			"nous": "avions façonné",
+			"vous": "aviez façonné",
+			"ils/elles": "avaient façonné"
+		},
+		"passé antérieur": {
+			"j'": "eus façonné",
+			"tu": "eus façonné",
+			"il/elle": "eut façonné",
+			"nous": "eûmes façonné",
+			"vous": "eûtes façonné",
+			"ils/elles": "eurent façonné"
+		},
+		"futur antérieur": {
+			"j'": "aurai façonné",
+			"tu": "auras façonné",
+			"il/elle": "aura façonné",
+			"nous": "aurons façonné",
+			"vous": "aurez façonné",
+			"ils/elles": "auront façonné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous façonniez",
+			"qu'il/elle": "façonne",
+			"qu'ils/elles": "façonnent"
+		},
+		"imparfait": {
+			"que": "vous façonnassiez",
+			"qu'il/elle": "façonnât",
+			"qu'ils/elles": "façonnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse façonné",
+			"que": "vous eussiez façonné",
+			"qu'il/elle": "eût façonné",
+			"qu'ils/elles": "eussent façonné"
+		},
+		"passé": {
+			"j'": "aie façonné",
+			"que": "vous ayez façonné",
+			"qu'il/elle": "ait façonné",
+			"qu'ils/elles": "aient façonné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "façonnerais",
+			"tu": "façonnerais",
+			"il/elle": "façonnerait",
+			"nous": "façonnerions",
+			"vous": "façonneriez",
+			"ils/elles": "façonneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais façonné",
+			"tu": "aurais façonné",
+			"il/elle": "aurait façonné",
+			"nous": "aurions façonné",
+			"vous": "auriez façonné",
+			"ils/elles": "auraient façonné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse façonné",
+			"tu": "eusses façonné",
+			"il/elle": "eût façonné",
+			"nous": "eussions façonné",
+			"vous": "eussiez façonné",
+			"ils/elles": "eussent façonné"
+		}
+	},
+	"participe": {
+		"présent": { "façonnant": "" },
+		"passé composé": { "ayant": "façonné" },
+		"passé": {
+			"masc.sg.:": "façonné",
+			"masc.pl.:": "façonnés",
+			"fém.sg.:": "façonnée",
+			"fém.pl.:": "façonnées"
+		}
+	},
+	"imperatif": {
+		"présent": { "façonne": "", "façonnons": "", "façonnez": "" },
+		"passé": { "aie": "façonné", "ayons": "façonné", "ayez": "façonné" }
+	},
+	"infinitif": {
+		"présent": { "façonner": "" },
+		"passé": { "avoir": "façonné" }
+	}
+}

@@ -1,0 +1,138 @@
+{
+	"name": "dorer",
+	"definition": "brown; gild; bronze; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se dorer/ne pas dorer/ne pas se dorer",
+	"indicatif": {
+		"présent": {
+			"je": "dore",
+			"tu": "dores",
+			"il/elle": "dore",
+			"nous": "dorons",
+			"vous": "dorez",
+			"ils/elles": "dorent"
+		},
+		"imparfait": {
+			"je": "dorais",
+			"tu": "dorais",
+			"il/elle": "dorait",
+			"nous": "dorions",
+			"vous": "doriez",
+			"ils/elles": "doraient"
+		},
+		"futur": {
+			"je": "dorerai",
+			"tu": "doreras",
+			"il/elle": "dorera",
+			"nous": "dorerons",
+			"vous": "dorerez",
+			"ils/elles": "doreront"
+		},
+		"passé simple": {
+			"je": "dorai",
+			"tu": "doras",
+			"il/elle": "dora",
+			"nous": "dorâmes",
+			"vous": "dorâtes",
+			"ils/elles": "dorèrent"
+		},
+		"passé composé": {
+			"j'": "ai doré",
+			"tu": "as doré",
+			"il/elle": "a doré",
+			"nous": "avons doré",
+			"vous": "avez doré",
+			"ils/elles": "ont doré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais doré",
+			"tu": "avais doré",
+			"il/elle": "avait doré",
+			"nous": "avions doré",
+			"vous": "aviez doré",
+			"ils/elles": "avaient doré"
+		},
+		"passé antérieur": {
+			"j'": "eus doré",
+			"tu": "eus doré",
+			"il/elle": "eut doré",
+			"nous": "eûmes doré",
+			"vous": "eûtes doré",
+			"ils/elles": "eurent doré"
+		},
+		"futur antérieur": {
+			"j'": "aurai doré",
+			"tu": "auras doré",
+			"il/elle": "aura doré",
+			"nous": "aurons doré",
+			"vous": "aurez doré",
+			"ils/elles": "auront doré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous doriez",
+			"qu'il/elle": "dore",
+			"qu'ils/elles": "dorent"
+		},
+		"imparfait": {
+			"que": "vous dorassiez",
+			"qu'il/elle": "dorât",
+			"qu'ils/elles": "dorassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse doré",
+			"que": "vous eussiez doré",
+			"qu'il/elle": "eût doré",
+			"qu'ils/elles": "eussent doré"
+		},
+		"passé": {
+			"j'": "aie doré",
+			"que": "vous ayez doré",
+			"qu'il/elle": "ait doré",
+			"qu'ils/elles": "aient doré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "dorerais",
+			"tu": "dorerais",
+			"il/elle": "dorerait",
+			"nous": "dorerions",
+			"vous": "doreriez",
+			"ils/elles": "doreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais doré",
+			"tu": "aurais doré",
+			"il/elle": "aurait doré",
+			"nous": "aurions doré",
+			"vous": "auriez doré",
+			"ils/elles": "auraient doré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse doré",
+			"tu": "eusses doré",
+			"il/elle": "eût doré",
+			"nous": "eussions doré",
+			"vous": "eussiez doré",
+			"ils/elles": "eussent doré"
+		}
+	},
+	"participe": {
+		"présent": { "dorant": "" },
+		"passé composé": { "ayant": "doré" },
+		"passé": {
+			"masc.sg.:": "doré",
+			"masc.pl.:": "dorés",
+			"fém.sg.:": "dorée",
+			"fém.pl.:": "dorées"
+		}
+	},
+	"imperatif": {
+		"présent": { "dore": "", "dorons": "", "dorez": "" },
+		"passé": { "aie": "doré", "ayons": "doré", "ayez": "doré" }
+	},
+	"infinitif": { "présent": { "dorer": "" }, "passé": { "avoir": "doré" } }
+}

@@ -1,0 +1,141 @@
+{
+	"name": "fouetter",
+	"definition": "whip; whisk; beat; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se fouetter/ne pas fouetter/ne pas se fouetter",
+	"indicatif": {
+		"présent": {
+			"je": "fouette",
+			"tu": "fouettes",
+			"il/elle": "fouette",
+			"nous": "fouettons",
+			"vous": "fouettez",
+			"ils/elles": "fouettent"
+		},
+		"imparfait": {
+			"je": "fouettais",
+			"tu": "fouettais",
+			"il/elle": "fouettait",
+			"nous": "fouettions",
+			"vous": "fouettiez",
+			"ils/elles": "fouettaient"
+		},
+		"futur": {
+			"je": "fouetterai",
+			"tu": "fouetteras",
+			"il/elle": "fouettera",
+			"nous": "fouetterons",
+			"vous": "fouetterez",
+			"ils/elles": "fouetteront"
+		},
+		"passé simple": {
+			"je": "fouettai",
+			"tu": "fouettas",
+			"il/elle": "fouetta",
+			"nous": "fouettâmes",
+			"vous": "fouettâtes",
+			"ils/elles": "fouettèrent"
+		},
+		"passé composé": {
+			"j'": "ai fouetté",
+			"tu": "as fouetté",
+			"il/elle": "a fouetté",
+			"nous": "avons fouetté",
+			"vous": "avez fouetté",
+			"ils/elles": "ont fouetté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais fouetté",
+			"tu": "avais fouetté",
+			"il/elle": "avait fouetté",
+			"nous": "avions fouetté",
+			"vous": "aviez fouetté",
+			"ils/elles": "avaient fouetté"
+		},
+		"passé antérieur": {
+			"j'": "eus fouetté",
+			"tu": "eus fouetté",
+			"il/elle": "eut fouetté",
+			"nous": "eûmes fouetté",
+			"vous": "eûtes fouetté",
+			"ils/elles": "eurent fouetté"
+		},
+		"futur antérieur": {
+			"j'": "aurai fouetté",
+			"tu": "auras fouetté",
+			"il/elle": "aura fouetté",
+			"nous": "aurons fouetté",
+			"vous": "aurez fouetté",
+			"ils/elles": "auront fouetté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous fouettiez",
+			"qu'il/elle": "fouette",
+			"qu'ils/elles": "fouettent"
+		},
+		"imparfait": {
+			"que": "vous fouettassiez",
+			"qu'il/elle": "fouettât",
+			"qu'ils/elles": "fouettassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse fouetté",
+			"que": "vous eussiez fouetté",
+			"qu'il/elle": "eût fouetté",
+			"qu'ils/elles": "eussent fouetté"
+		},
+		"passé": {
+			"j'": "aie fouetté",
+			"que": "vous ayez fouetté",
+			"qu'il/elle": "ait fouetté",
+			"qu'ils/elles": "aient fouetté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "fouetterais",
+			"tu": "fouetterais",
+			"il/elle": "fouetterait",
+			"nous": "fouetterions",
+			"vous": "fouetteriez",
+			"ils/elles": "fouetteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais fouetté",
+			"tu": "aurais fouetté",
+			"il/elle": "aurait fouetté",
+			"nous": "aurions fouetté",
+			"vous": "auriez fouetté",
+			"ils/elles": "auraient fouetté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse fouetté",
+			"tu": "eusses fouetté",
+			"il/elle": "eût fouetté",
+			"nous": "eussions fouetté",
+			"vous": "eussiez fouetté",
+			"ils/elles": "eussent fouetté"
+		}
+	},
+	"participe": {
+		"présent": { "fouettant": "" },
+		"passé composé": { "ayant": "fouetté" },
+		"passé": {
+			"masc.sg.:": "fouetté",
+			"masc.pl.:": "fouettés",
+			"fém.sg.:": "fouettée",
+			"fém.pl.:": "fouettées"
+		}
+	},
+	"imperatif": {
+		"présent": { "fouette": "", "fouettons": "", "fouettez": "" },
+		"passé": { "aie": "fouetté", "ayons": "fouetté", "ayez": "fouetté" }
+	},
+	"infinitif": {
+		"présent": { "fouetter": "" },
+		"passé": { "avoir": "fouetté" }
+	}
+}

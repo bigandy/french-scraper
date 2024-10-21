@@ -1,0 +1,138 @@
+{
+	"name": "jacter",
+	"definition": "talk; chatter; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se jacter/ne pas jacter/ne pas se jacter",
+	"indicatif": {
+		"présent": {
+			"je": "jacte",
+			"tu": "jactes",
+			"il/elle": "jacte",
+			"nous": "jactons",
+			"vous": "jactez",
+			"ils/elles": "jactent"
+		},
+		"imparfait": {
+			"je": "jactais",
+			"tu": "jactais",
+			"il/elle": "jactait",
+			"nous": "jactions",
+			"vous": "jactiez",
+			"ils/elles": "jactaient"
+		},
+		"futur": {
+			"je": "jacterai",
+			"tu": "jacteras",
+			"il/elle": "jactera",
+			"nous": "jacterons",
+			"vous": "jacterez",
+			"ils/elles": "jacteront"
+		},
+		"passé simple": {
+			"je": "jactai",
+			"tu": "jactas",
+			"il/elle": "jacta",
+			"nous": "jactâmes",
+			"vous": "jactâtes",
+			"ils/elles": "jactèrent"
+		},
+		"passé composé": {
+			"j'": "ai jacté",
+			"tu": "as jacté",
+			"il/elle": "a jacté",
+			"nous": "avons jacté",
+			"vous": "avez jacté",
+			"ils/elles": "ont jacté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais jacté",
+			"tu": "avais jacté",
+			"il/elle": "avait jacté",
+			"nous": "avions jacté",
+			"vous": "aviez jacté",
+			"ils/elles": "avaient jacté"
+		},
+		"passé antérieur": {
+			"j'": "eus jacté",
+			"tu": "eus jacté",
+			"il/elle": "eut jacté",
+			"nous": "eûmes jacté",
+			"vous": "eûtes jacté",
+			"ils/elles": "eurent jacté"
+		},
+		"futur antérieur": {
+			"j'": "aurai jacté",
+			"tu": "auras jacté",
+			"il/elle": "aura jacté",
+			"nous": "aurons jacté",
+			"vous": "aurez jacté",
+			"ils/elles": "auront jacté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous jactiez",
+			"qu'il/elle": "jacte",
+			"qu'ils/elles": "jactent"
+		},
+		"imparfait": {
+			"que": "vous jactassiez",
+			"qu'il/elle": "jactât",
+			"qu'ils/elles": "jactassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse jacté",
+			"que": "vous eussiez jacté",
+			"qu'il/elle": "eût jacté",
+			"qu'ils/elles": "eussent jacté"
+		},
+		"passé": {
+			"j'": "aie jacté",
+			"que": "vous ayez jacté",
+			"qu'il/elle": "ait jacté",
+			"qu'ils/elles": "aient jacté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "jacterais",
+			"tu": "jacterais",
+			"il/elle": "jacterait",
+			"nous": "jacterions",
+			"vous": "jacteriez",
+			"ils/elles": "jacteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais jacté",
+			"tu": "aurais jacté",
+			"il/elle": "aurait jacté",
+			"nous": "aurions jacté",
+			"vous": "auriez jacté",
+			"ils/elles": "auraient jacté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse jacté",
+			"tu": "eusses jacté",
+			"il/elle": "eût jacté",
+			"nous": "eussions jacté",
+			"vous": "eussiez jacté",
+			"ils/elles": "eussent jacté"
+		}
+	},
+	"participe": {
+		"présent": { "jactant": "" },
+		"passé composé": { "ayant": "jacté" },
+		"passé": {
+			"masc.sg.:": "jacté",
+			"masc.pl.:": "jactés",
+			"fém.sg.:": "jactée",
+			"fém.pl.:": "jactées"
+		}
+	},
+	"imperatif": {
+		"présent": { "jacte": "", "jactons": "", "jactez": "" },
+		"passé": { "aie": "jacté", "ayons": "jacté", "ayez": "jacté" }
+	},
+	"infinitif": { "présent": { "jacter": "" }, "passé": { "avoir": "jacté" } }
+}

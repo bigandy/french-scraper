@@ -1,0 +1,141 @@
+{
+	"name": "charbonner",
+	"definition": "go black; blacken; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se charbonner/ne pas charbonner/ne pas se charbonner",
+	"indicatif": {
+		"présent": {
+			"je": "charbonne",
+			"tu": "charbonnes",
+			"il/elle": "charbonne",
+			"nous": "charbonnons",
+			"vous": "charbonnez",
+			"ils/elles": "charbonnent"
+		},
+		"imparfait": {
+			"je": "charbonnais",
+			"tu": "charbonnais",
+			"il/elle": "charbonnait",
+			"nous": "charbonnions",
+			"vous": "charbonniez",
+			"ils/elles": "charbonnaient"
+		},
+		"futur": {
+			"je": "charbonnerai",
+			"tu": "charbonneras",
+			"il/elle": "charbonnera",
+			"nous": "charbonnerons",
+			"vous": "charbonnerez",
+			"ils/elles": "charbonneront"
+		},
+		"passé simple": {
+			"je": "charbonnai",
+			"tu": "charbonnas",
+			"il/elle": "charbonna",
+			"nous": "charbonnâmes",
+			"vous": "charbonnâtes",
+			"ils/elles": "charbonnèrent"
+		},
+		"passé composé": {
+			"j'": "ai charbonné",
+			"tu": "as charbonné",
+			"il/elle": "a charbonné",
+			"nous": "avons charbonné",
+			"vous": "avez charbonné",
+			"ils/elles": "ont charbonné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais charbonné",
+			"tu": "avais charbonné",
+			"il/elle": "avait charbonné",
+			"nous": "avions charbonné",
+			"vous": "aviez charbonné",
+			"ils/elles": "avaient charbonné"
+		},
+		"passé antérieur": {
+			"j'": "eus charbonné",
+			"tu": "eus charbonné",
+			"il/elle": "eut charbonné",
+			"nous": "eûmes charbonné",
+			"vous": "eûtes charbonné",
+			"ils/elles": "eurent charbonné"
+		},
+		"futur antérieur": {
+			"j'": "aurai charbonné",
+			"tu": "auras charbonné",
+			"il/elle": "aura charbonné",
+			"nous": "aurons charbonné",
+			"vous": "aurez charbonné",
+			"ils/elles": "auront charbonné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous charbonniez",
+			"qu'il/elle": "charbonne",
+			"qu'ils/elles": "charbonnent"
+		},
+		"imparfait": {
+			"que": "vous charbonnassiez",
+			"qu'il/elle": "charbonnât",
+			"qu'ils/elles": "charbonnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse charbonné",
+			"que": "vous eussiez charbonné",
+			"qu'il/elle": "eût charbonné",
+			"qu'ils/elles": "eussent charbonné"
+		},
+		"passé": {
+			"j'": "aie charbonné",
+			"que": "vous ayez charbonné",
+			"qu'il/elle": "ait charbonné",
+			"qu'ils/elles": "aient charbonné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "charbonnerais",
+			"tu": "charbonnerais",
+			"il/elle": "charbonnerait",
+			"nous": "charbonnerions",
+			"vous": "charbonneriez",
+			"ils/elles": "charbonneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais charbonné",
+			"tu": "aurais charbonné",
+			"il/elle": "aurait charbonné",
+			"nous": "aurions charbonné",
+			"vous": "auriez charbonné",
+			"ils/elles": "auraient charbonné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse charbonné",
+			"tu": "eusses charbonné",
+			"il/elle": "eût charbonné",
+			"nous": "eussions charbonné",
+			"vous": "eussiez charbonné",
+			"ils/elles": "eussent charbonné"
+		}
+	},
+	"participe": {
+		"présent": { "charbonnant": "" },
+		"passé composé": { "ayant": "charbonné" },
+		"passé": {
+			"masc.sg.:": "charbonné",
+			"masc.pl.:": "charbonnés",
+			"fém.sg.:": "charbonnée",
+			"fém.pl.:": "charbonnées"
+		}
+	},
+	"imperatif": {
+		"présent": { "charbonne": "", "charbonnons": "", "charbonnez": "" },
+		"passé": { "aie": "charbonné", "ayons": "charbonné", "ayez": "charbonné" }
+	},
+	"infinitif": {
+		"présent": { "charbonner": "" },
+		"passé": { "avoir": "charbonné" }
+	}
+}

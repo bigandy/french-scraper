@@ -1,0 +1,138 @@
+{
+	"name": "claquer",
+	"definition": "slam; snap; click; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se claquer/ne pas claquer/ne pas se claquer",
+	"indicatif": {
+		"présent": {
+			"je": "claque",
+			"tu": "claques",
+			"il/elle": "claque",
+			"nous": "claquons",
+			"vous": "claquez",
+			"ils/elles": "claquent"
+		},
+		"imparfait": {
+			"je": "claquais",
+			"tu": "claquais",
+			"il/elle": "claquait",
+			"nous": "claquions",
+			"vous": "claquiez",
+			"ils/elles": "claquaient"
+		},
+		"futur": {
+			"je": "claquerai",
+			"tu": "claqueras",
+			"il/elle": "claquera",
+			"nous": "claquerons",
+			"vous": "claquerez",
+			"ils/elles": "claqueront"
+		},
+		"passé simple": {
+			"je": "claquai",
+			"tu": "claquas",
+			"il/elle": "claqua",
+			"nous": "claquâmes",
+			"vous": "claquâtes",
+			"ils/elles": "claquèrent"
+		},
+		"passé composé": {
+			"j'": "ai claqué",
+			"tu": "as claqué",
+			"il/elle": "a claqué",
+			"nous": "avons claqué",
+			"vous": "avez claqué",
+			"ils/elles": "ont claqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais claqué",
+			"tu": "avais claqué",
+			"il/elle": "avait claqué",
+			"nous": "avions claqué",
+			"vous": "aviez claqué",
+			"ils/elles": "avaient claqué"
+		},
+		"passé antérieur": {
+			"j'": "eus claqué",
+			"tu": "eus claqué",
+			"il/elle": "eut claqué",
+			"nous": "eûmes claqué",
+			"vous": "eûtes claqué",
+			"ils/elles": "eurent claqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai claqué",
+			"tu": "auras claqué",
+			"il/elle": "aura claqué",
+			"nous": "aurons claqué",
+			"vous": "aurez claqué",
+			"ils/elles": "auront claqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous claquiez",
+			"qu'il/elle": "claque",
+			"qu'ils/elles": "claquent"
+		},
+		"imparfait": {
+			"que": "vous claquassiez",
+			"qu'il/elle": "claquât",
+			"qu'ils/elles": "claquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse claqué",
+			"que": "vous eussiez claqué",
+			"qu'il/elle": "eût claqué",
+			"qu'ils/elles": "eussent claqué"
+		},
+		"passé": {
+			"j'": "aie claqué",
+			"que": "vous ayez claqué",
+			"qu'il/elle": "ait claqué",
+			"qu'ils/elles": "aient claqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "claquerais",
+			"tu": "claquerais",
+			"il/elle": "claquerait",
+			"nous": "claquerions",
+			"vous": "claqueriez",
+			"ils/elles": "claqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais claqué",
+			"tu": "aurais claqué",
+			"il/elle": "aurait claqué",
+			"nous": "aurions claqué",
+			"vous": "auriez claqué",
+			"ils/elles": "auraient claqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse claqué",
+			"tu": "eusses claqué",
+			"il/elle": "eût claqué",
+			"nous": "eussions claqué",
+			"vous": "eussiez claqué",
+			"ils/elles": "eussent claqué"
+		}
+	},
+	"participe": {
+		"présent": { "claquant": "" },
+		"passé composé": { "ayant": "claqué" },
+		"passé": {
+			"masc.sg.:": "claqué",
+			"masc.pl.:": "claqués",
+			"fém.sg.:": "claquée",
+			"fém.pl.:": "claquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "claque": "", "claquons": "", "claquez": "" },
+		"passé": { "aie": "claqué", "ayons": "claqué", "ayez": "claqué" }
+	},
+	"infinitif": { "présent": { "claquer": "" }, "passé": { "avoir": "claqué" } }
+}

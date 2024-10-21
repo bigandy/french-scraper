@@ -1,0 +1,141 @@
+{
+	"name": "soutirer",
+	"definition": "extract; squeeze; extort; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se soutirer/ne pas soutirer/ne pas se soutirer",
+	"indicatif": {
+		"présent": {
+			"je": "soutire",
+			"tu": "soutires",
+			"il/elle": "soutire",
+			"nous": "soutirons",
+			"vous": "soutirez",
+			"ils/elles": "soutirent"
+		},
+		"imparfait": {
+			"je": "soutirais",
+			"tu": "soutirais",
+			"il/elle": "soutirait",
+			"nous": "soutirions",
+			"vous": "soutiriez",
+			"ils/elles": "soutiraient"
+		},
+		"futur": {
+			"je": "soutirerai",
+			"tu": "soutireras",
+			"il/elle": "soutirera",
+			"nous": "soutirerons",
+			"vous": "soutirerez",
+			"ils/elles": "soutireront"
+		},
+		"passé simple": {
+			"je": "soutirai",
+			"tu": "soutiras",
+			"il/elle": "soutira",
+			"nous": "soutirâmes",
+			"vous": "soutirâtes",
+			"ils/elles": "soutirèrent"
+		},
+		"passé composé": {
+			"j'": "ai soutiré",
+			"tu": "as soutiré",
+			"il/elle": "a soutiré",
+			"nous": "avons soutiré",
+			"vous": "avez soutiré",
+			"ils/elles": "ont soutiré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais soutiré",
+			"tu": "avais soutiré",
+			"il/elle": "avait soutiré",
+			"nous": "avions soutiré",
+			"vous": "aviez soutiré",
+			"ils/elles": "avaient soutiré"
+		},
+		"passé antérieur": {
+			"j'": "eus soutiré",
+			"tu": "eus soutiré",
+			"il/elle": "eut soutiré",
+			"nous": "eûmes soutiré",
+			"vous": "eûtes soutiré",
+			"ils/elles": "eurent soutiré"
+		},
+		"futur antérieur": {
+			"j'": "aurai soutiré",
+			"tu": "auras soutiré",
+			"il/elle": "aura soutiré",
+			"nous": "aurons soutiré",
+			"vous": "aurez soutiré",
+			"ils/elles": "auront soutiré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous soutiriez",
+			"qu'il/elle": "soutire",
+			"qu'ils/elles": "soutirent"
+		},
+		"imparfait": {
+			"que": "vous soutirassiez",
+			"qu'il/elle": "soutirât",
+			"qu'ils/elles": "soutirassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse soutiré",
+			"que": "vous eussiez soutiré",
+			"qu'il/elle": "eût soutiré",
+			"qu'ils/elles": "eussent soutiré"
+		},
+		"passé": {
+			"j'": "aie soutiré",
+			"que": "vous ayez soutiré",
+			"qu'il/elle": "ait soutiré",
+			"qu'ils/elles": "aient soutiré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "soutirerais",
+			"tu": "soutirerais",
+			"il/elle": "soutirerait",
+			"nous": "soutirerions",
+			"vous": "soutireriez",
+			"ils/elles": "soutireraient"
+		},
+		"passé première forme": {
+			"j'": "aurais soutiré",
+			"tu": "aurais soutiré",
+			"il/elle": "aurait soutiré",
+			"nous": "aurions soutiré",
+			"vous": "auriez soutiré",
+			"ils/elles": "auraient soutiré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse soutiré",
+			"tu": "eusses soutiré",
+			"il/elle": "eût soutiré",
+			"nous": "eussions soutiré",
+			"vous": "eussiez soutiré",
+			"ils/elles": "eussent soutiré"
+		}
+	},
+	"participe": {
+		"présent": { "soutirant": "" },
+		"passé composé": { "ayant": "soutiré" },
+		"passé": {
+			"masc.sg.:": "soutiré",
+			"masc.pl.:": "soutirés",
+			"fém.sg.:": "soutirée",
+			"fém.pl.:": "soutirées"
+		}
+	},
+	"imperatif": {
+		"présent": { "soutire": "", "soutirons": "", "soutirez": "" },
+		"passé": { "aie": "soutiré", "ayons": "soutiré", "ayez": "soutiré" }
+	},
+	"infinitif": {
+		"présent": { "soutirer": "" },
+		"passé": { "avoir": "soutiré" }
+	}
+}

@@ -1,0 +1,138 @@
+{
+	"name": "songer",
+	"definition": "consider; think; contemplate; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "se songer/ne pas songer/ne pas se songer",
+	"indicatif": {
+		"présent": {
+			"je": "songe",
+			"tu": "songes",
+			"il/elle": "songe",
+			"nous": "songeons",
+			"vous": "songez",
+			"ils/elles": "songent"
+		},
+		"imparfait": {
+			"je": "songeais",
+			"tu": "songeais",
+			"il/elle": "songeait",
+			"nous": "songions",
+			"vous": "songiez",
+			"ils/elles": "songeaient"
+		},
+		"futur": {
+			"je": "songerai",
+			"tu": "songeras",
+			"il/elle": "songera",
+			"nous": "songerons",
+			"vous": "songerez",
+			"ils/elles": "songeront"
+		},
+		"passé simple": {
+			"je": "songeai",
+			"tu": "songeas",
+			"il/elle": "songea",
+			"nous": "songeâmes",
+			"vous": "songeâtes",
+			"ils/elles": "songèrent"
+		},
+		"passé composé": {
+			"j'": "ai songé",
+			"tu": "as songé",
+			"il/elle": "a songé",
+			"nous": "avons songé",
+			"vous": "avez songé",
+			"ils/elles": "ont songé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais songé",
+			"tu": "avais songé",
+			"il/elle": "avait songé",
+			"nous": "avions songé",
+			"vous": "aviez songé",
+			"ils/elles": "avaient songé"
+		},
+		"passé antérieur": {
+			"j'": "eus songé",
+			"tu": "eus songé",
+			"il/elle": "eut songé",
+			"nous": "eûmes songé",
+			"vous": "eûtes songé",
+			"ils/elles": "eurent songé"
+		},
+		"futur antérieur": {
+			"j'": "aurai songé",
+			"tu": "auras songé",
+			"il/elle": "aura songé",
+			"nous": "aurons songé",
+			"vous": "aurez songé",
+			"ils/elles": "auront songé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous songiez",
+			"qu'il/elle": "songe",
+			"qu'ils/elles": "songent"
+		},
+		"imparfait": {
+			"que": "vous songeassiez",
+			"qu'il/elle": "songeât",
+			"qu'ils/elles": "songeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse songé",
+			"que": "vous eussiez songé",
+			"qu'il/elle": "eût songé",
+			"qu'ils/elles": "eussent songé"
+		},
+		"passé": {
+			"j'": "aie songé",
+			"que": "vous ayez songé",
+			"qu'il/elle": "ait songé",
+			"qu'ils/elles": "aient songé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "songerais",
+			"tu": "songerais",
+			"il/elle": "songerait",
+			"nous": "songerions",
+			"vous": "songeriez",
+			"ils/elles": "songeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais songé",
+			"tu": "aurais songé",
+			"il/elle": "aurait songé",
+			"nous": "aurions songé",
+			"vous": "auriez songé",
+			"ils/elles": "auraient songé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse songé",
+			"tu": "eusses songé",
+			"il/elle": "eût songé",
+			"nous": "eussions songé",
+			"vous": "eussiez songé",
+			"ils/elles": "eussent songé"
+		}
+	},
+	"participe": {
+		"présent": { "songeant": "" },
+		"passé composé": { "ayant": "songé" },
+		"passé": {
+			"masc.sg.:": "songé",
+			"masc.pl.:": "songés",
+			"fém.sg.:": "songée",
+			"fém.pl.:": "songées"
+		}
+	},
+	"imperatif": {
+		"présent": { "songe": "", "songeons": "", "songez": "" },
+		"passé": { "aie": "songé", "ayons": "songé", "ayez": "songé" }
+	},
+	"infinitif": { "présent": { "songer": "" }, "passé": { "avoir": "songé" } }
+}

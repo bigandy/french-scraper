@@ -1,0 +1,141 @@
+{
+	"name": "contaminer",
+	"definition": "contaminate; infect; pollute; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se contaminer/ne pas contaminer/ne pas se contaminer",
+	"indicatif": {
+		"présent": {
+			"je": "contamine",
+			"tu": "contamines",
+			"il/elle": "contamine",
+			"nous": "contaminons",
+			"vous": "contaminez",
+			"ils/elles": "contaminent"
+		},
+		"imparfait": {
+			"je": "contaminais",
+			"tu": "contaminais",
+			"il/elle": "contaminait",
+			"nous": "contaminions",
+			"vous": "contaminiez",
+			"ils/elles": "contaminaient"
+		},
+		"futur": {
+			"je": "contaminerai",
+			"tu": "contamineras",
+			"il/elle": "contaminera",
+			"nous": "contaminerons",
+			"vous": "contaminerez",
+			"ils/elles": "contamineront"
+		},
+		"passé simple": {
+			"je": "contaminai",
+			"tu": "contaminas",
+			"il/elle": "contamina",
+			"nous": "contaminâmes",
+			"vous": "contaminâtes",
+			"ils/elles": "contaminèrent"
+		},
+		"passé composé": {
+			"j'": "ai contaminé",
+			"tu": "as contaminé",
+			"il/elle": "a contaminé",
+			"nous": "avons contaminé",
+			"vous": "avez contaminé",
+			"ils/elles": "ont contaminé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais contaminé",
+			"tu": "avais contaminé",
+			"il/elle": "avait contaminé",
+			"nous": "avions contaminé",
+			"vous": "aviez contaminé",
+			"ils/elles": "avaient contaminé"
+		},
+		"passé antérieur": {
+			"j'": "eus contaminé",
+			"tu": "eus contaminé",
+			"il/elle": "eut contaminé",
+			"nous": "eûmes contaminé",
+			"vous": "eûtes contaminé",
+			"ils/elles": "eurent contaminé"
+		},
+		"futur antérieur": {
+			"j'": "aurai contaminé",
+			"tu": "auras contaminé",
+			"il/elle": "aura contaminé",
+			"nous": "aurons contaminé",
+			"vous": "aurez contaminé",
+			"ils/elles": "auront contaminé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous contaminiez",
+			"qu'il/elle": "contamine",
+			"qu'ils/elles": "contaminent"
+		},
+		"imparfait": {
+			"que": "vous contaminassiez",
+			"qu'il/elle": "contaminât",
+			"qu'ils/elles": "contaminassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse contaminé",
+			"que": "vous eussiez contaminé",
+			"qu'il/elle": "eût contaminé",
+			"qu'ils/elles": "eussent contaminé"
+		},
+		"passé": {
+			"j'": "aie contaminé",
+			"que": "vous ayez contaminé",
+			"qu'il/elle": "ait contaminé",
+			"qu'ils/elles": "aient contaminé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "contaminerais",
+			"tu": "contaminerais",
+			"il/elle": "contaminerait",
+			"nous": "contaminerions",
+			"vous": "contamineriez",
+			"ils/elles": "contamineraient"
+		},
+		"passé première forme": {
+			"j'": "aurais contaminé",
+			"tu": "aurais contaminé",
+			"il/elle": "aurait contaminé",
+			"nous": "aurions contaminé",
+			"vous": "auriez contaminé",
+			"ils/elles": "auraient contaminé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse contaminé",
+			"tu": "eusses contaminé",
+			"il/elle": "eût contaminé",
+			"nous": "eussions contaminé",
+			"vous": "eussiez contaminé",
+			"ils/elles": "eussent contaminé"
+		}
+	},
+	"participe": {
+		"présent": { "contaminant": "" },
+		"passé composé": { "ayant": "contaminé" },
+		"passé": {
+			"masc.sg.:": "contaminé",
+			"masc.pl.:": "contaminés",
+			"fém.sg.:": "contaminée",
+			"fém.pl.:": "contaminées"
+		}
+	},
+	"imperatif": {
+		"présent": { "contamine": "", "contaminons": "", "contaminez": "" },
+		"passé": { "aie": "contaminé", "ayons": "contaminé", "ayez": "contaminé" }
+	},
+	"infinitif": {
+		"présent": { "contaminer": "" },
+		"passé": { "avoir": "contaminé" }
+	}
+}

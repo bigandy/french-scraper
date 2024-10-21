@@ -1,0 +1,141 @@
+{
+	"name": "corrompre",
+	"definition": "corrupt; bribe; subvert; ...",
+	"model": "rompre",
+	"auxiliary": "avoir",
+	"otherForms": "se corrompre/ne pas corrompre/ne pas se corrompre",
+	"indicatif": {
+		"présent": {
+			"je": "corromps",
+			"tu": "corromps",
+			"il/elle": "corrompt",
+			"nous": "corrompons",
+			"vous": "corrompez",
+			"ils/elles": "corrompent"
+		},
+		"imparfait": {
+			"je": "corrompais",
+			"tu": "corrompais",
+			"il/elle": "corrompait",
+			"nous": "corrompions",
+			"vous": "corrompiez",
+			"ils/elles": "corrompaient"
+		},
+		"futur": {
+			"je": "corromprai",
+			"tu": "corrompras",
+			"il/elle": "corrompra",
+			"nous": "corromprons",
+			"vous": "corromprez",
+			"ils/elles": "corrompront"
+		},
+		"passé simple": {
+			"je": "corrompis",
+			"tu": "corrompis",
+			"il/elle": "corrompit",
+			"nous": "corrompîmes",
+			"vous": "corrompîtes",
+			"ils/elles": "corrompirent"
+		},
+		"passé composé": {
+			"j'": "ai corrompu",
+			"tu": "as corrompu",
+			"il/elle": "a corrompu",
+			"nous": "avons corrompu",
+			"vous": "avez corrompu",
+			"ils/elles": "ont corrompu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais corrompu",
+			"tu": "avais corrompu",
+			"il/elle": "avait corrompu",
+			"nous": "avions corrompu",
+			"vous": "aviez corrompu",
+			"ils/elles": "avaient corrompu"
+		},
+		"passé antérieur": {
+			"j'": "eus corrompu",
+			"tu": "eus corrompu",
+			"il/elle": "eut corrompu",
+			"nous": "eûmes corrompu",
+			"vous": "eûtes corrompu",
+			"ils/elles": "eurent corrompu"
+		},
+		"futur antérieur": {
+			"j'": "aurai corrompu",
+			"tu": "auras corrompu",
+			"il/elle": "aura corrompu",
+			"nous": "aurons corrompu",
+			"vous": "aurez corrompu",
+			"ils/elles": "auront corrompu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous corrompiez",
+			"qu'il/elle": "corrompe",
+			"qu'ils/elles": "corrompent"
+		},
+		"imparfait": {
+			"que": "vous corrompissiez",
+			"qu'il/elle": "corrompît",
+			"qu'ils/elles": "corrompissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse corrompu",
+			"que": "vous eussiez corrompu",
+			"qu'il/elle": "eût corrompu",
+			"qu'ils/elles": "eussent corrompu"
+		},
+		"passé": {
+			"j'": "aie corrompu",
+			"que": "vous ayez corrompu",
+			"qu'il/elle": "ait corrompu",
+			"qu'ils/elles": "aient corrompu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "corromprais",
+			"tu": "corromprais",
+			"il/elle": "corromprait",
+			"nous": "corromprions",
+			"vous": "corrompriez",
+			"ils/elles": "corrompraient"
+		},
+		"passé première forme": {
+			"j'": "aurais corrompu",
+			"tu": "aurais corrompu",
+			"il/elle": "aurait corrompu",
+			"nous": "aurions corrompu",
+			"vous": "auriez corrompu",
+			"ils/elles": "auraient corrompu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse corrompu",
+			"tu": "eusses corrompu",
+			"il/elle": "eût corrompu",
+			"nous": "eussions corrompu",
+			"vous": "eussiez corrompu",
+			"ils/elles": "eussent corrompu"
+		}
+	},
+	"participe": {
+		"présent": { "corrompant": "" },
+		"passé composé": { "ayant": "corrompu" },
+		"passé": {
+			"masc.sg.:": "corrompu",
+			"masc.pl.:": "corrompus",
+			"fém.sg.:": "corrompue",
+			"fém.pl.:": "corrompues"
+		}
+	},
+	"imperatif": {
+		"présent": { "corromps": "", "corrompons": "", "corrompez": "" },
+		"passé": { "aie": "corrompu", "ayons": "corrompu", "ayez": "corrompu" }
+	},
+	"infinitif": {
+		"présent": { "corrompre": "" },
+		"passé": { "avoir": "corrompu" }
+	}
+}

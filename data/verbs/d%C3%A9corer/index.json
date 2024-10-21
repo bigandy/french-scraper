@@ -1,0 +1,138 @@
+{
+	"name": "décorer",
+	"definition": "decorate; garnish; furnish; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se décorer/ne pas décorer/ne pas se décorer",
+	"indicatif": {
+		"présent": {
+			"je": "décore",
+			"tu": "décores",
+			"il/elle": "décore",
+			"nous": "décorons",
+			"vous": "décorez",
+			"ils/elles": "décorent"
+		},
+		"imparfait": {
+			"je": "décorais",
+			"tu": "décorais",
+			"il/elle": "décorait",
+			"nous": "décorions",
+			"vous": "décoriez",
+			"ils/elles": "décoraient"
+		},
+		"futur": {
+			"je": "décorerai",
+			"tu": "décoreras",
+			"il/elle": "décorera",
+			"nous": "décorerons",
+			"vous": "décorerez",
+			"ils/elles": "décoreront"
+		},
+		"passé simple": {
+			"je": "décorai",
+			"tu": "décoras",
+			"il/elle": "décora",
+			"nous": "décorâmes",
+			"vous": "décorâtes",
+			"ils/elles": "décorèrent"
+		},
+		"passé composé": {
+			"j'": "ai décoré",
+			"tu": "as décoré",
+			"il/elle": "a décoré",
+			"nous": "avons décoré",
+			"vous": "avez décoré",
+			"ils/elles": "ont décoré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais décoré",
+			"tu": "avais décoré",
+			"il/elle": "avait décoré",
+			"nous": "avions décoré",
+			"vous": "aviez décoré",
+			"ils/elles": "avaient décoré"
+		},
+		"passé antérieur": {
+			"j'": "eus décoré",
+			"tu": "eus décoré",
+			"il/elle": "eut décoré",
+			"nous": "eûmes décoré",
+			"vous": "eûtes décoré",
+			"ils/elles": "eurent décoré"
+		},
+		"futur antérieur": {
+			"j'": "aurai décoré",
+			"tu": "auras décoré",
+			"il/elle": "aura décoré",
+			"nous": "aurons décoré",
+			"vous": "aurez décoré",
+			"ils/elles": "auront décoré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous décoriez",
+			"qu'il/elle": "décore",
+			"qu'ils/elles": "décorent"
+		},
+		"imparfait": {
+			"que": "vous décorassiez",
+			"qu'il/elle": "décorât",
+			"qu'ils/elles": "décorassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse décoré",
+			"que": "vous eussiez décoré",
+			"qu'il/elle": "eût décoré",
+			"qu'ils/elles": "eussent décoré"
+		},
+		"passé": {
+			"j'": "aie décoré",
+			"que": "vous ayez décoré",
+			"qu'il/elle": "ait décoré",
+			"qu'ils/elles": "aient décoré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "décorerais",
+			"tu": "décorerais",
+			"il/elle": "décorerait",
+			"nous": "décorerions",
+			"vous": "décoreriez",
+			"ils/elles": "décoreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais décoré",
+			"tu": "aurais décoré",
+			"il/elle": "aurait décoré",
+			"nous": "aurions décoré",
+			"vous": "auriez décoré",
+			"ils/elles": "auraient décoré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse décoré",
+			"tu": "eusses décoré",
+			"il/elle": "eût décoré",
+			"nous": "eussions décoré",
+			"vous": "eussiez décoré",
+			"ils/elles": "eussent décoré"
+		}
+	},
+	"participe": {
+		"présent": { "décorant": "" },
+		"passé composé": { "ayant": "décoré" },
+		"passé": {
+			"masc.sg.:": "décoré",
+			"masc.pl.:": "décorés",
+			"fém.sg.:": "décorée",
+			"fém.pl.:": "décorées"
+		}
+	},
+	"imperatif": {
+		"présent": { "décore": "", "décorons": "", "décorez": "" },
+		"passé": { "aie": "décoré", "ayons": "décoré", "ayez": "décoré" }
+	},
+	"infinitif": { "présent": { "décorer": "" }, "passé": { "avoir": "décoré" } }
+}

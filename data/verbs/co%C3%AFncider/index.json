@@ -1,0 +1,141 @@
+{
+	"name": "coïncider",
+	"definition": "coincide; correspond; overlap; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas coïncider",
+	"indicatif": {
+		"présent": {
+			"je": "coïncide",
+			"tu": "coïncides",
+			"il/elle": "coïncide",
+			"nous": "coïncidons",
+			"vous": "coïncidez",
+			"ils/elles": "coïncident"
+		},
+		"imparfait": {
+			"je": "coïncidais",
+			"tu": "coïncidais",
+			"il/elle": "coïncidait",
+			"nous": "coïncidions",
+			"vous": "coïncidiez",
+			"ils/elles": "coïncidaient"
+		},
+		"futur": {
+			"je": "coïnciderai",
+			"tu": "coïncideras",
+			"il/elle": "coïncidera",
+			"nous": "coïnciderons",
+			"vous": "coïnciderez",
+			"ils/elles": "coïncideront"
+		},
+		"passé simple": {
+			"je": "coïncidai",
+			"tu": "coïncidas",
+			"il/elle": "coïncida",
+			"nous": "coïncidâmes",
+			"vous": "coïncidâtes",
+			"ils/elles": "coïncidèrent"
+		},
+		"passé composé": {
+			"j'": "ai coïncidé",
+			"tu": "as coïncidé",
+			"il/elle": "a coïncidé",
+			"nous": "avons coïncidé",
+			"vous": "avez coïncidé",
+			"ils/elles": "ont coïncidé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais coïncidé",
+			"tu": "avais coïncidé",
+			"il/elle": "avait coïncidé",
+			"nous": "avions coïncidé",
+			"vous": "aviez coïncidé",
+			"ils/elles": "avaient coïncidé"
+		},
+		"passé antérieur": {
+			"j'": "eus coïncidé",
+			"tu": "eus coïncidé",
+			"il/elle": "eut coïncidé",
+			"nous": "eûmes coïncidé",
+			"vous": "eûtes coïncidé",
+			"ils/elles": "eurent coïncidé"
+		},
+		"futur antérieur": {
+			"j'": "aurai coïncidé",
+			"tu": "auras coïncidé",
+			"il/elle": "aura coïncidé",
+			"nous": "aurons coïncidé",
+			"vous": "aurez coïncidé",
+			"ils/elles": "auront coïncidé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous coïncidiez",
+			"qu'il/elle": "coïncide",
+			"qu'ils/elles": "coïncident"
+		},
+		"imparfait": {
+			"que": "vous coïncidassiez",
+			"qu'il/elle": "coïncidât",
+			"qu'ils/elles": "coïncidassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse coïncidé",
+			"que": "vous eussiez coïncidé",
+			"qu'il/elle": "eût coïncidé",
+			"qu'ils/elles": "eussent coïncidé"
+		},
+		"passé": {
+			"j'": "aie coïncidé",
+			"que": "vous ayez coïncidé",
+			"qu'il/elle": "ait coïncidé",
+			"qu'ils/elles": "aient coïncidé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "coïnciderais",
+			"tu": "coïnciderais",
+			"il/elle": "coïnciderait",
+			"nous": "coïnciderions",
+			"vous": "coïncideriez",
+			"ils/elles": "coïncideraient"
+		},
+		"passé première forme": {
+			"j'": "aurais coïncidé",
+			"tu": "aurais coïncidé",
+			"il/elle": "aurait coïncidé",
+			"nous": "aurions coïncidé",
+			"vous": "auriez coïncidé",
+			"ils/elles": "auraient coïncidé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse coïncidé",
+			"tu": "eusses coïncidé",
+			"il/elle": "eût coïncidé",
+			"nous": "eussions coïncidé",
+			"vous": "eussiez coïncidé",
+			"ils/elles": "eussent coïncidé"
+		}
+	},
+	"participe": {
+		"présent": { "coïncidant": "" },
+		"passé composé": { "ayant": "coïncidé" },
+		"passé": {
+			"masc.sg.:": "coïncidé",
+			"masc.pl.:": "coïncidés",
+			"fém.sg.:": "coïncidée",
+			"fém.pl.:": "coïncidées"
+		}
+	},
+	"imperatif": {
+		"présent": { "coïncide": "", "coïncidons": "", "coïncidez": "" },
+		"passé": { "aie": "coïncidé", "ayons": "coïncidé", "ayez": "coïncidé" }
+	},
+	"infinitif": {
+		"présent": { "coïncider": "" },
+		"passé": { "avoir": "coïncidé" }
+	}
+}

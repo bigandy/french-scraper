@@ -1,0 +1,141 @@
+{
+	"name": "véhiculer",
+	"definition": "convey; carry; transport; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se véhiculer/ne pas véhiculer/ne pas se véhiculer",
+	"indicatif": {
+		"présent": {
+			"je": "véhicule",
+			"tu": "véhicules",
+			"il/elle": "véhicule",
+			"nous": "véhiculons",
+			"vous": "véhiculez",
+			"ils/elles": "véhiculent"
+		},
+		"imparfait": {
+			"je": "véhiculais",
+			"tu": "véhiculais",
+			"il/elle": "véhiculait",
+			"nous": "véhiculions",
+			"vous": "véhiculiez",
+			"ils/elles": "véhiculaient"
+		},
+		"futur": {
+			"je": "véhiculerai",
+			"tu": "véhiculeras",
+			"il/elle": "véhiculera",
+			"nous": "véhiculerons",
+			"vous": "véhiculerez",
+			"ils/elles": "véhiculeront"
+		},
+		"passé simple": {
+			"je": "véhiculai",
+			"tu": "véhiculas",
+			"il/elle": "véhicula",
+			"nous": "véhiculâmes",
+			"vous": "véhiculâtes",
+			"ils/elles": "véhiculèrent"
+		},
+		"passé composé": {
+			"j'": "ai véhiculé",
+			"tu": "as véhiculé",
+			"il/elle": "a véhiculé",
+			"nous": "avons véhiculé",
+			"vous": "avez véhiculé",
+			"ils/elles": "ont véhiculé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais véhiculé",
+			"tu": "avais véhiculé",
+			"il/elle": "avait véhiculé",
+			"nous": "avions véhiculé",
+			"vous": "aviez véhiculé",
+			"ils/elles": "avaient véhiculé"
+		},
+		"passé antérieur": {
+			"j'": "eus véhiculé",
+			"tu": "eus véhiculé",
+			"il/elle": "eut véhiculé",
+			"nous": "eûmes véhiculé",
+			"vous": "eûtes véhiculé",
+			"ils/elles": "eurent véhiculé"
+		},
+		"futur antérieur": {
+			"j'": "aurai véhiculé",
+			"tu": "auras véhiculé",
+			"il/elle": "aura véhiculé",
+			"nous": "aurons véhiculé",
+			"vous": "aurez véhiculé",
+			"ils/elles": "auront véhiculé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous véhiculiez",
+			"qu'il/elle": "véhicule",
+			"qu'ils/elles": "véhiculent"
+		},
+		"imparfait": {
+			"que": "vous véhiculassiez",
+			"qu'il/elle": "véhiculât",
+			"qu'ils/elles": "véhiculassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse véhiculé",
+			"que": "vous eussiez véhiculé",
+			"qu'il/elle": "eût véhiculé",
+			"qu'ils/elles": "eussent véhiculé"
+		},
+		"passé": {
+			"j'": "aie véhiculé",
+			"que": "vous ayez véhiculé",
+			"qu'il/elle": "ait véhiculé",
+			"qu'ils/elles": "aient véhiculé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "véhiculerais",
+			"tu": "véhiculerais",
+			"il/elle": "véhiculerait",
+			"nous": "véhiculerions",
+			"vous": "véhiculeriez",
+			"ils/elles": "véhiculeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais véhiculé",
+			"tu": "aurais véhiculé",
+			"il/elle": "aurait véhiculé",
+			"nous": "aurions véhiculé",
+			"vous": "auriez véhiculé",
+			"ils/elles": "auraient véhiculé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse véhiculé",
+			"tu": "eusses véhiculé",
+			"il/elle": "eût véhiculé",
+			"nous": "eussions véhiculé",
+			"vous": "eussiez véhiculé",
+			"ils/elles": "eussent véhiculé"
+		}
+	},
+	"participe": {
+		"présent": { "véhiculant": "" },
+		"passé composé": { "ayant": "véhiculé" },
+		"passé": {
+			"masc.sg.:": "véhiculé",
+			"masc.pl.:": "véhiculés",
+			"fém.sg.:": "véhiculée",
+			"fém.pl.:": "véhiculées"
+		}
+	},
+	"imperatif": {
+		"présent": { "véhicule": "", "véhiculons": "", "véhiculez": "" },
+		"passé": { "aie": "véhiculé", "ayons": "véhiculé", "ayez": "véhiculé" }
+	},
+	"infinitif": {
+		"présent": { "véhiculer": "" },
+		"passé": { "avoir": "véhiculé" }
+	}
+}

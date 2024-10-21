@@ -1,0 +1,138 @@
+{
+	"name": "côcher",
+	"definition": "cover; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se côcher/ne pas côcher/ne pas se côcher",
+	"indicatif": {
+		"présent": {
+			"je": "côche",
+			"tu": "côches",
+			"il/elle": "côche",
+			"nous": "côchons",
+			"vous": "côchez",
+			"ils/elles": "côchent"
+		},
+		"imparfait": {
+			"je": "côchais",
+			"tu": "côchais",
+			"il/elle": "côchait",
+			"nous": "côchions",
+			"vous": "côchiez",
+			"ils/elles": "côchaient"
+		},
+		"futur": {
+			"je": "côcherai",
+			"tu": "côcheras",
+			"il/elle": "côchera",
+			"nous": "côcherons",
+			"vous": "côcherez",
+			"ils/elles": "côcheront"
+		},
+		"passé simple": {
+			"je": "côchai",
+			"tu": "côchas",
+			"il/elle": "côcha",
+			"nous": "côchâmes",
+			"vous": "côchâtes",
+			"ils/elles": "côchèrent"
+		},
+		"passé composé": {
+			"j'": "ai côché",
+			"tu": "as côché",
+			"il/elle": "a côché",
+			"nous": "avons côché",
+			"vous": "avez côché",
+			"ils/elles": "ont côché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais côché",
+			"tu": "avais côché",
+			"il/elle": "avait côché",
+			"nous": "avions côché",
+			"vous": "aviez côché",
+			"ils/elles": "avaient côché"
+		},
+		"passé antérieur": {
+			"j'": "eus côché",
+			"tu": "eus côché",
+			"il/elle": "eut côché",
+			"nous": "eûmes côché",
+			"vous": "eûtes côché",
+			"ils/elles": "eurent côché"
+		},
+		"futur antérieur": {
+			"j'": "aurai côché",
+			"tu": "auras côché",
+			"il/elle": "aura côché",
+			"nous": "aurons côché",
+			"vous": "aurez côché",
+			"ils/elles": "auront côché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous côchiez",
+			"qu'il/elle": "côche",
+			"qu'ils/elles": "côchent"
+		},
+		"imparfait": {
+			"que": "vous côchassiez",
+			"qu'il/elle": "côchât",
+			"qu'ils/elles": "côchassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse côché",
+			"que": "vous eussiez côché",
+			"qu'il/elle": "eût côché",
+			"qu'ils/elles": "eussent côché"
+		},
+		"passé": {
+			"j'": "aie côché",
+			"que": "vous ayez côché",
+			"qu'il/elle": "ait côché",
+			"qu'ils/elles": "aient côché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "côcherais",
+			"tu": "côcherais",
+			"il/elle": "côcherait",
+			"nous": "côcherions",
+			"vous": "côcheriez",
+			"ils/elles": "côcheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais côché",
+			"tu": "aurais côché",
+			"il/elle": "aurait côché",
+			"nous": "aurions côché",
+			"vous": "auriez côché",
+			"ils/elles": "auraient côché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse côché",
+			"tu": "eusses côché",
+			"il/elle": "eût côché",
+			"nous": "eussions côché",
+			"vous": "eussiez côché",
+			"ils/elles": "eussent côché"
+		}
+	},
+	"participe": {
+		"présent": { "côchant": "" },
+		"passé composé": { "ayant": "côché" },
+		"passé": {
+			"masc.sg.:": "côché",
+			"masc.pl.:": "côchés",
+			"fém.sg.:": "côchée",
+			"fém.pl.:": "côchées"
+		}
+	},
+	"imperatif": {
+		"présent": { "côche": "", "côchons": "", "côchez": "" },
+		"passé": { "aie": "côché", "ayons": "côché", "ayez": "côché" }
+	},
+	"infinitif": { "présent": { "côcher": "" }, "passé": { "avoir": "côché" } }
+}

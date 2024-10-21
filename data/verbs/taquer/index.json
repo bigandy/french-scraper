@@ -1,0 +1,138 @@
+{
+	"name": "taquer",
+	"definition": "",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se taquer/ne pas taquer/ne pas se taquer",
+	"indicatif": {
+		"présent": {
+			"je": "taque",
+			"tu": "taques",
+			"il/elle": "taque",
+			"nous": "taquons",
+			"vous": "taquez",
+			"ils/elles": "taquent"
+		},
+		"imparfait": {
+			"je": "taquais",
+			"tu": "taquais",
+			"il/elle": "taquait",
+			"nous": "taquions",
+			"vous": "taquiez",
+			"ils/elles": "taquaient"
+		},
+		"futur": {
+			"je": "taquerai",
+			"tu": "taqueras",
+			"il/elle": "taquera",
+			"nous": "taquerons",
+			"vous": "taquerez",
+			"ils/elles": "taqueront"
+		},
+		"passé simple": {
+			"je": "taquai",
+			"tu": "taquas",
+			"il/elle": "taqua",
+			"nous": "taquâmes",
+			"vous": "taquâtes",
+			"ils/elles": "taquèrent"
+		},
+		"passé composé": {
+			"j'": "ai taqué",
+			"tu": "as taqué",
+			"il/elle": "a taqué",
+			"nous": "avons taqué",
+			"vous": "avez taqué",
+			"ils/elles": "ont taqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais taqué",
+			"tu": "avais taqué",
+			"il/elle": "avait taqué",
+			"nous": "avions taqué",
+			"vous": "aviez taqué",
+			"ils/elles": "avaient taqué"
+		},
+		"passé antérieur": {
+			"j'": "eus taqué",
+			"tu": "eus taqué",
+			"il/elle": "eut taqué",
+			"nous": "eûmes taqué",
+			"vous": "eûtes taqué",
+			"ils/elles": "eurent taqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai taqué",
+			"tu": "auras taqué",
+			"il/elle": "aura taqué",
+			"nous": "aurons taqué",
+			"vous": "aurez taqué",
+			"ils/elles": "auront taqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous taquiez",
+			"qu'il/elle": "taque",
+			"qu'ils/elles": "taquent"
+		},
+		"imparfait": {
+			"que": "vous taquassiez",
+			"qu'il/elle": "taquât",
+			"qu'ils/elles": "taquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse taqué",
+			"que": "vous eussiez taqué",
+			"qu'il/elle": "eût taqué",
+			"qu'ils/elles": "eussent taqué"
+		},
+		"passé": {
+			"j'": "aie taqué",
+			"que": "vous ayez taqué",
+			"qu'il/elle": "ait taqué",
+			"qu'ils/elles": "aient taqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "taquerais",
+			"tu": "taquerais",
+			"il/elle": "taquerait",
+			"nous": "taquerions",
+			"vous": "taqueriez",
+			"ils/elles": "taqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais taqué",
+			"tu": "aurais taqué",
+			"il/elle": "aurait taqué",
+			"nous": "aurions taqué",
+			"vous": "auriez taqué",
+			"ils/elles": "auraient taqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse taqué",
+			"tu": "eusses taqué",
+			"il/elle": "eût taqué",
+			"nous": "eussions taqué",
+			"vous": "eussiez taqué",
+			"ils/elles": "eussent taqué"
+		}
+	},
+	"participe": {
+		"présent": { "taquant": "" },
+		"passé composé": { "ayant": "taqué" },
+		"passé": {
+			"masc.sg.:": "taqué",
+			"masc.pl.:": "taqués",
+			"fém.sg.:": "taquée",
+			"fém.pl.:": "taquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "taque": "", "taquons": "", "taquez": "" },
+		"passé": { "aie": "taqué", "ayons": "taqué", "ayez": "taqué" }
+	},
+	"infinitif": { "présent": { "taquer": "" }, "passé": { "avoir": "taqué" } }
+}

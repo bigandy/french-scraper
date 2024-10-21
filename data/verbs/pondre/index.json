@@ -1,0 +1,138 @@
+{
+	"name": "pondre",
+	"definition": "lay; spawn; produce; ...",
+	"model": "attendre",
+	"auxiliary": "avoir",
+	"otherForms": "se pondre/ne pas pondre/ne pas se pondre",
+	"indicatif": {
+		"présent": {
+			"je": "ponds",
+			"tu": "ponds",
+			"il/elle": "pond",
+			"nous": "pondons",
+			"vous": "pondez",
+			"ils/elles": "pondent"
+		},
+		"imparfait": {
+			"je": "pondais",
+			"tu": "pondais",
+			"il/elle": "pondait",
+			"nous": "pondions",
+			"vous": "pondiez",
+			"ils/elles": "pondaient"
+		},
+		"futur": {
+			"je": "pondrai",
+			"tu": "pondras",
+			"il/elle": "pondra",
+			"nous": "pondrons",
+			"vous": "pondrez",
+			"ils/elles": "pondront"
+		},
+		"passé simple": {
+			"je": "pondis",
+			"tu": "pondis",
+			"il/elle": "pondit",
+			"nous": "pondîmes",
+			"vous": "pondîtes",
+			"ils/elles": "pondirent"
+		},
+		"passé composé": {
+			"j'": "ai pondu",
+			"tu": "as pondu",
+			"il/elle": "a pondu",
+			"nous": "avons pondu",
+			"vous": "avez pondu",
+			"ils/elles": "ont pondu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais pondu",
+			"tu": "avais pondu",
+			"il/elle": "avait pondu",
+			"nous": "avions pondu",
+			"vous": "aviez pondu",
+			"ils/elles": "avaient pondu"
+		},
+		"passé antérieur": {
+			"j'": "eus pondu",
+			"tu": "eus pondu",
+			"il/elle": "eut pondu",
+			"nous": "eûmes pondu",
+			"vous": "eûtes pondu",
+			"ils/elles": "eurent pondu"
+		},
+		"futur antérieur": {
+			"j'": "aurai pondu",
+			"tu": "auras pondu",
+			"il/elle": "aura pondu",
+			"nous": "aurons pondu",
+			"vous": "aurez pondu",
+			"ils/elles": "auront pondu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous pondiez",
+			"qu'il/elle": "ponde",
+			"qu'ils/elles": "pondent"
+		},
+		"imparfait": {
+			"que": "vous pondissiez",
+			"qu'il/elle": "pondît",
+			"qu'ils/elles": "pondissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse pondu",
+			"que": "vous eussiez pondu",
+			"qu'il/elle": "eût pondu",
+			"qu'ils/elles": "eussent pondu"
+		},
+		"passé": {
+			"j'": "aie pondu",
+			"que": "vous ayez pondu",
+			"qu'il/elle": "ait pondu",
+			"qu'ils/elles": "aient pondu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "pondrais",
+			"tu": "pondrais",
+			"il/elle": "pondrait",
+			"nous": "pondrions",
+			"vous": "pondriez",
+			"ils/elles": "pondraient"
+		},
+		"passé première forme": {
+			"j'": "aurais pondu",
+			"tu": "aurais pondu",
+			"il/elle": "aurait pondu",
+			"nous": "aurions pondu",
+			"vous": "auriez pondu",
+			"ils/elles": "auraient pondu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse pondu",
+			"tu": "eusses pondu",
+			"il/elle": "eût pondu",
+			"nous": "eussions pondu",
+			"vous": "eussiez pondu",
+			"ils/elles": "eussent pondu"
+		}
+	},
+	"participe": {
+		"présent": { "pondant": "" },
+		"passé composé": { "ayant": "pondu" },
+		"passé": {
+			"masc.sg.:": "pondu",
+			"masc.pl.:": "pondus",
+			"fém.sg.:": "pondue",
+			"fém.pl.:": "pondues"
+		}
+	},
+	"imperatif": {
+		"présent": { "ponds": "", "pondons": "", "pondez": "" },
+		"passé": { "aie": "pondu", "ayons": "pondu", "ayez": "pondu" }
+	},
+	"infinitif": { "présent": { "pondre": "" }, "passé": { "avoir": "pondu" } }
+}

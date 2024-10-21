@@ -1,0 +1,138 @@
+{
+	"name": "singer",
+	"definition": "ape; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "se singer/ne pas singer/ne pas se singer",
+	"indicatif": {
+		"présent": {
+			"je": "singe",
+			"tu": "singes",
+			"il/elle": "singe",
+			"nous": "singeons",
+			"vous": "singez",
+			"ils/elles": "singent"
+		},
+		"imparfait": {
+			"je": "singeais",
+			"tu": "singeais",
+			"il/elle": "singeait",
+			"nous": "singions",
+			"vous": "singiez",
+			"ils/elles": "singeaient"
+		},
+		"futur": {
+			"je": "singerai",
+			"tu": "singeras",
+			"il/elle": "singera",
+			"nous": "singerons",
+			"vous": "singerez",
+			"ils/elles": "singeront"
+		},
+		"passé simple": {
+			"je": "singeai",
+			"tu": "singeas",
+			"il/elle": "singea",
+			"nous": "singeâmes",
+			"vous": "singeâtes",
+			"ils/elles": "singèrent"
+		},
+		"passé composé": {
+			"j'": "ai singé",
+			"tu": "as singé",
+			"il/elle": "a singé",
+			"nous": "avons singé",
+			"vous": "avez singé",
+			"ils/elles": "ont singé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais singé",
+			"tu": "avais singé",
+			"il/elle": "avait singé",
+			"nous": "avions singé",
+			"vous": "aviez singé",
+			"ils/elles": "avaient singé"
+		},
+		"passé antérieur": {
+			"j'": "eus singé",
+			"tu": "eus singé",
+			"il/elle": "eut singé",
+			"nous": "eûmes singé",
+			"vous": "eûtes singé",
+			"ils/elles": "eurent singé"
+		},
+		"futur antérieur": {
+			"j'": "aurai singé",
+			"tu": "auras singé",
+			"il/elle": "aura singé",
+			"nous": "aurons singé",
+			"vous": "aurez singé",
+			"ils/elles": "auront singé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous singiez",
+			"qu'il/elle": "singe",
+			"qu'ils/elles": "singent"
+		},
+		"imparfait": {
+			"que": "vous singeassiez",
+			"qu'il/elle": "singeât",
+			"qu'ils/elles": "singeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse singé",
+			"que": "vous eussiez singé",
+			"qu'il/elle": "eût singé",
+			"qu'ils/elles": "eussent singé"
+		},
+		"passé": {
+			"j'": "aie singé",
+			"que": "vous ayez singé",
+			"qu'il/elle": "ait singé",
+			"qu'ils/elles": "aient singé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "singerais",
+			"tu": "singerais",
+			"il/elle": "singerait",
+			"nous": "singerions",
+			"vous": "singeriez",
+			"ils/elles": "singeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais singé",
+			"tu": "aurais singé",
+			"il/elle": "aurait singé",
+			"nous": "aurions singé",
+			"vous": "auriez singé",
+			"ils/elles": "auraient singé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse singé",
+			"tu": "eusses singé",
+			"il/elle": "eût singé",
+			"nous": "eussions singé",
+			"vous": "eussiez singé",
+			"ils/elles": "eussent singé"
+		}
+	},
+	"participe": {
+		"présent": { "singeant": "" },
+		"passé composé": { "ayant": "singé" },
+		"passé": {
+			"masc.sg.:": "singé",
+			"masc.pl.:": "singés",
+			"fém.sg.:": "singée",
+			"fém.pl.:": "singées"
+		}
+	},
+	"imperatif": {
+		"présent": { "singe": "", "singeons": "", "singez": "" },
+		"passé": { "aie": "singé", "ayons": "singé", "ayez": "singé" }
+	},
+	"infinitif": { "présent": { "singer": "" }, "passé": { "avoir": "singé" } }
+}

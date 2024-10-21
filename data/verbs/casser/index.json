@@ -1,0 +1,138 @@
+{
+	"name": "casser",
+	"definition": "break; crack; kick; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se casser/ne pas casser/ne pas se casser",
+	"indicatif": {
+		"présent": {
+			"je": "casse",
+			"tu": "casses",
+			"il/elle": "casse",
+			"nous": "cassons",
+			"vous": "cassez",
+			"ils/elles": "cassent"
+		},
+		"imparfait": {
+			"je": "cassais",
+			"tu": "cassais",
+			"il/elle": "cassait",
+			"nous": "cassions",
+			"vous": "cassiez",
+			"ils/elles": "cassaient"
+		},
+		"futur": {
+			"je": "casserai",
+			"tu": "casseras",
+			"il/elle": "cassera",
+			"nous": "casserons",
+			"vous": "casserez",
+			"ils/elles": "casseront"
+		},
+		"passé simple": {
+			"je": "cassai",
+			"tu": "cassas",
+			"il/elle": "cassa",
+			"nous": "cassâmes",
+			"vous": "cassâtes",
+			"ils/elles": "cassèrent"
+		},
+		"passé composé": {
+			"j'": "ai cassé",
+			"tu": "as cassé",
+			"il/elle": "a cassé",
+			"nous": "avons cassé",
+			"vous": "avez cassé",
+			"ils/elles": "ont cassé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais cassé",
+			"tu": "avais cassé",
+			"il/elle": "avait cassé",
+			"nous": "avions cassé",
+			"vous": "aviez cassé",
+			"ils/elles": "avaient cassé"
+		},
+		"passé antérieur": {
+			"j'": "eus cassé",
+			"tu": "eus cassé",
+			"il/elle": "eut cassé",
+			"nous": "eûmes cassé",
+			"vous": "eûtes cassé",
+			"ils/elles": "eurent cassé"
+		},
+		"futur antérieur": {
+			"j'": "aurai cassé",
+			"tu": "auras cassé",
+			"il/elle": "aura cassé",
+			"nous": "aurons cassé",
+			"vous": "aurez cassé",
+			"ils/elles": "auront cassé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous cassiez",
+			"qu'il/elle": "casse",
+			"qu'ils/elles": "cassent"
+		},
+		"imparfait": {
+			"que": "vous cassassiez",
+			"qu'il/elle": "cassât",
+			"qu'ils/elles": "cassassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse cassé",
+			"que": "vous eussiez cassé",
+			"qu'il/elle": "eût cassé",
+			"qu'ils/elles": "eussent cassé"
+		},
+		"passé": {
+			"j'": "aie cassé",
+			"que": "vous ayez cassé",
+			"qu'il/elle": "ait cassé",
+			"qu'ils/elles": "aient cassé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "casserais",
+			"tu": "casserais",
+			"il/elle": "casserait",
+			"nous": "casserions",
+			"vous": "casseriez",
+			"ils/elles": "casseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais cassé",
+			"tu": "aurais cassé",
+			"il/elle": "aurait cassé",
+			"nous": "aurions cassé",
+			"vous": "auriez cassé",
+			"ils/elles": "auraient cassé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse cassé",
+			"tu": "eusses cassé",
+			"il/elle": "eût cassé",
+			"nous": "eussions cassé",
+			"vous": "eussiez cassé",
+			"ils/elles": "eussent cassé"
+		}
+	},
+	"participe": {
+		"présent": { "cassant": "" },
+		"passé composé": { "ayant": "cassé" },
+		"passé": {
+			"masc.sg.:": "cassé",
+			"masc.pl.:": "cassés",
+			"fém.sg.:": "cassée",
+			"fém.pl.:": "cassées"
+		}
+	},
+	"imperatif": {
+		"présent": { "casse": "", "cassons": "", "cassez": "" },
+		"passé": { "aie": "cassé", "ayons": "cassé", "ayez": "cassé" }
+	},
+	"infinitif": { "présent": { "casser": "" }, "passé": { "avoir": "cassé" } }
+}

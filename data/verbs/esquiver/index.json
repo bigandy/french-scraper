@@ -1,0 +1,143 @@
+{
+	"name": "esquiver",
+	"definition": "dodge; duck; avoid; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'esquiver/ne pas esquiver/ne pas s'esquiver",
+	"indicatif": {
+		"présent": {
+			"j'": "esquive",
+			"tu": "esquives",
+			"il/elle": "esquive",
+			"nous": "esquivons",
+			"vous": "esquivez",
+			"ils/elles": "esquivent"
+		},
+		"imparfait": {
+			"j'": "esquivais",
+			"tu": "esquivais",
+			"il/elle": "esquivait",
+			"nous": "esquivions",
+			"vous": "esquiviez",
+			"ils/elles": "esquivaient"
+		},
+		"futur": {
+			"j'": "esquiverai",
+			"tu": "esquiveras",
+			"il/elle": "esquivera",
+			"nous": "esquiverons",
+			"vous": "esquiverez",
+			"ils/elles": "esquiveront"
+		},
+		"passé simple": {
+			"j'": "esquivai",
+			"tu": "esquivas",
+			"il/elle": "esquiva",
+			"nous": "esquivâmes",
+			"vous": "esquivâtes",
+			"ils/elles": "esquivèrent"
+		},
+		"passé composé": {
+			"j'": "ai esquivé",
+			"tu": "as esquivé",
+			"il/elle": "a esquivé",
+			"nous": "avons esquivé",
+			"vous": "avez esquivé",
+			"ils/elles": "ont esquivé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais esquivé",
+			"tu": "avais esquivé",
+			"il/elle": "avait esquivé",
+			"nous": "avions esquivé",
+			"vous": "aviez esquivé",
+			"ils/elles": "avaient esquivé"
+		},
+		"passé antérieur": {
+			"j'": "eus esquivé",
+			"tu": "eus esquivé",
+			"il/elle": "eut esquivé",
+			"nous": "eûmes esquivé",
+			"vous": "eûtes esquivé",
+			"ils/elles": "eurent esquivé"
+		},
+		"futur antérieur": {
+			"j'": "aurai esquivé",
+			"tu": "auras esquivé",
+			"il/elle": "aura esquivé",
+			"nous": "aurons esquivé",
+			"vous": "aurez esquivé",
+			"ils/elles": "auront esquivé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "esquive",
+			"que": "vous esquiviez",
+			"qu'il/elle": "esquive",
+			"qu'ils/elles": "esquivent"
+		},
+		"imparfait": {
+			"j'": "esquivasse",
+			"que": "vous esquivassiez",
+			"qu'il/elle": "esquivât",
+			"qu'ils/elles": "esquivassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse esquivé",
+			"que": "vous eussiez esquivé",
+			"qu'il/elle": "eût esquivé",
+			"qu'ils/elles": "eussent esquivé"
+		},
+		"passé": {
+			"j'": "aie esquivé",
+			"que": "vous ayez esquivé",
+			"qu'il/elle": "ait esquivé",
+			"qu'ils/elles": "aient esquivé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "esquiverais",
+			"tu": "esquiverais",
+			"il/elle": "esquiverait",
+			"nous": "esquiverions",
+			"vous": "esquiveriez",
+			"ils/elles": "esquiveraient"
+		},
+		"passé première forme": {
+			"j'": "aurais esquivé",
+			"tu": "aurais esquivé",
+			"il/elle": "aurait esquivé",
+			"nous": "aurions esquivé",
+			"vous": "auriez esquivé",
+			"ils/elles": "auraient esquivé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse esquivé",
+			"tu": "eusses esquivé",
+			"il/elle": "eût esquivé",
+			"nous": "eussions esquivé",
+			"vous": "eussiez esquivé",
+			"ils/elles": "eussent esquivé"
+		}
+	},
+	"participe": {
+		"présent": { "esquivant": "" },
+		"passé composé": { "ayant": "esquivé" },
+		"passé": {
+			"masc.sg.:": "esquivé",
+			"masc.pl.:": "esquivés",
+			"fém.sg.:": "esquivée",
+			"fém.pl.:": "esquivées"
+		}
+	},
+	"imperatif": {
+		"présent": { "esquive": "", "esquivons": "", "esquivez": "" },
+		"passé": { "aie": "esquivé", "ayons": "esquivé", "ayez": "esquivé" }
+	},
+	"infinitif": {
+		"présent": { "esquiver": "" },
+		"passé": { "avoir": "esquivé" }
+	}
+}

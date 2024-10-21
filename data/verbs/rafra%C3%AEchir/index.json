@@ -1,0 +1,141 @@
+{
+	"name": "rafraîchir",
+	"definition": "refresh; freshen up; cool off; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se rafraîchir/ne pas rafraîchir/ne pas se rafraîchir",
+	"indicatif": {
+		"présent": {
+			"je": "rafraîchis",
+			"tu": "rafraîchis",
+			"il/elle": "rafraîchit",
+			"nous": "rafraîchissons",
+			"vous": "rafraîchissez",
+			"ils/elles": "rafraîchissent"
+		},
+		"imparfait": {
+			"je": "rafraîchissais",
+			"tu": "rafraîchissais",
+			"il/elle": "rafraîchissait",
+			"nous": "rafraîchissions",
+			"vous": "rafraîchissiez",
+			"ils/elles": "rafraîchissaient"
+		},
+		"futur": {
+			"je": "rafraîchirai",
+			"tu": "rafraîchiras",
+			"il/elle": "rafraîchira",
+			"nous": "rafraîchirons",
+			"vous": "rafraîchirez",
+			"ils/elles": "rafraîchiront"
+		},
+		"passé simple": {
+			"je": "rafraîchis",
+			"tu": "rafraîchis",
+			"il/elle": "rafraîchit",
+			"nous": "rafraîchîmes",
+			"vous": "rafraîchîtes",
+			"ils/elles": "rafraîchirent"
+		},
+		"passé composé": {
+			"j'": "ai rafraîchi",
+			"tu": "as rafraîchi",
+			"il/elle": "a rafraîchi",
+			"nous": "avons rafraîchi",
+			"vous": "avez rafraîchi",
+			"ils/elles": "ont rafraîchi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais rafraîchi",
+			"tu": "avais rafraîchi",
+			"il/elle": "avait rafraîchi",
+			"nous": "avions rafraîchi",
+			"vous": "aviez rafraîchi",
+			"ils/elles": "avaient rafraîchi"
+		},
+		"passé antérieur": {
+			"j'": "eus rafraîchi",
+			"tu": "eus rafraîchi",
+			"il/elle": "eut rafraîchi",
+			"nous": "eûmes rafraîchi",
+			"vous": "eûtes rafraîchi",
+			"ils/elles": "eurent rafraîchi"
+		},
+		"futur antérieur": {
+			"j'": "aurai rafraîchi",
+			"tu": "auras rafraîchi",
+			"il/elle": "aura rafraîchi",
+			"nous": "aurons rafraîchi",
+			"vous": "aurez rafraîchi",
+			"ils/elles": "auront rafraîchi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous rafraîchissiez",
+			"qu'il/elle": "rafraîchisse",
+			"qu'ils/elles": "rafraîchissent"
+		},
+		"imparfait": {
+			"que": "vous rafraîchissiez",
+			"qu'il/elle": "rafraîchît",
+			"qu'ils/elles": "rafraîchissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse rafraîchi",
+			"que": "vous eussiez rafraîchi",
+			"qu'il/elle": "eût rafraîchi",
+			"qu'ils/elles": "eussent rafraîchi"
+		},
+		"passé": {
+			"j'": "aie rafraîchi",
+			"que": "vous ayez rafraîchi",
+			"qu'il/elle": "ait rafraîchi",
+			"qu'ils/elles": "aient rafraîchi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "rafraîchirais",
+			"tu": "rafraîchirais",
+			"il/elle": "rafraîchirait",
+			"nous": "rafraîchirions",
+			"vous": "rafraîchiriez",
+			"ils/elles": "rafraîchiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais rafraîchi",
+			"tu": "aurais rafraîchi",
+			"il/elle": "aurait rafraîchi",
+			"nous": "aurions rafraîchi",
+			"vous": "auriez rafraîchi",
+			"ils/elles": "auraient rafraîchi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse rafraîchi",
+			"tu": "eusses rafraîchi",
+			"il/elle": "eût rafraîchi",
+			"nous": "eussions rafraîchi",
+			"vous": "eussiez rafraîchi",
+			"ils/elles": "eussent rafraîchi"
+		}
+	},
+	"participe": {
+		"présent": { "rafraîchissant": "" },
+		"passé composé": { "ayant": "rafraîchi" },
+		"passé": {
+			"masc.sg.:": "rafraîchi",
+			"masc.pl.:": "rafraîchis",
+			"fém.sg.:": "rafraîchie",
+			"fém.pl.:": "rafraîchies"
+		}
+	},
+	"imperatif": {
+		"présent": { "rafraîchis": "", "rafraîchissons": "", "rafraîchissez": "" },
+		"passé": { "aie": "rafraîchi", "ayons": "rafraîchi", "ayez": "rafraîchi" }
+	},
+	"infinitif": {
+		"présent": { "rafraîchir": "" },
+		"passé": { "avoir": "rafraîchi" }
+	}
+}

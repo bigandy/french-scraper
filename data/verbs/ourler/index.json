@@ -1,0 +1,140 @@
+{
+	"name": "ourler",
+	"definition": "hem; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'ourler/ne pas ourler/ne pas s'ourler",
+	"indicatif": {
+		"présent": {
+			"j'": "ourle",
+			"tu": "ourles",
+			"il/elle": "ourle",
+			"nous": "ourlons",
+			"vous": "ourlez",
+			"ils/elles": "ourlent"
+		},
+		"imparfait": {
+			"j'": "ourlais",
+			"tu": "ourlais",
+			"il/elle": "ourlait",
+			"nous": "ourlions",
+			"vous": "ourliez",
+			"ils/elles": "ourlaient"
+		},
+		"futur": {
+			"j'": "ourlerai",
+			"tu": "ourleras",
+			"il/elle": "ourlera",
+			"nous": "ourlerons",
+			"vous": "ourlerez",
+			"ils/elles": "ourleront"
+		},
+		"passé simple": {
+			"j'": "ourlai",
+			"tu": "ourlas",
+			"il/elle": "ourla",
+			"nous": "ourlâmes",
+			"vous": "ourlâtes",
+			"ils/elles": "ourlèrent"
+		},
+		"passé composé": {
+			"j'": "ai ourlé",
+			"tu": "as ourlé",
+			"il/elle": "a ourlé",
+			"nous": "avons ourlé",
+			"vous": "avez ourlé",
+			"ils/elles": "ont ourlé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais ourlé",
+			"tu": "avais ourlé",
+			"il/elle": "avait ourlé",
+			"nous": "avions ourlé",
+			"vous": "aviez ourlé",
+			"ils/elles": "avaient ourlé"
+		},
+		"passé antérieur": {
+			"j'": "eus ourlé",
+			"tu": "eus ourlé",
+			"il/elle": "eut ourlé",
+			"nous": "eûmes ourlé",
+			"vous": "eûtes ourlé",
+			"ils/elles": "eurent ourlé"
+		},
+		"futur antérieur": {
+			"j'": "aurai ourlé",
+			"tu": "auras ourlé",
+			"il/elle": "aura ourlé",
+			"nous": "aurons ourlé",
+			"vous": "aurez ourlé",
+			"ils/elles": "auront ourlé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "ourle",
+			"que": "vous ourliez",
+			"qu'il/elle": "ourle",
+			"qu'ils/elles": "ourlent"
+		},
+		"imparfait": {
+			"j'": "ourlasse",
+			"que": "vous ourlassiez",
+			"qu'il/elle": "ourlât",
+			"qu'ils/elles": "ourlassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse ourlé",
+			"que": "vous eussiez ourlé",
+			"qu'il/elle": "eût ourlé",
+			"qu'ils/elles": "eussent ourlé"
+		},
+		"passé": {
+			"j'": "aie ourlé",
+			"que": "vous ayez ourlé",
+			"qu'il/elle": "ait ourlé",
+			"qu'ils/elles": "aient ourlé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "ourlerais",
+			"tu": "ourlerais",
+			"il/elle": "ourlerait",
+			"nous": "ourlerions",
+			"vous": "ourleriez",
+			"ils/elles": "ourleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais ourlé",
+			"tu": "aurais ourlé",
+			"il/elle": "aurait ourlé",
+			"nous": "aurions ourlé",
+			"vous": "auriez ourlé",
+			"ils/elles": "auraient ourlé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse ourlé",
+			"tu": "eusses ourlé",
+			"il/elle": "eût ourlé",
+			"nous": "eussions ourlé",
+			"vous": "eussiez ourlé",
+			"ils/elles": "eussent ourlé"
+		}
+	},
+	"participe": {
+		"présent": { "ourlant": "" },
+		"passé composé": { "ayant": "ourlé" },
+		"passé": {
+			"masc.sg.:": "ourlé",
+			"masc.pl.:": "ourlés",
+			"fém.sg.:": "ourlée",
+			"fém.pl.:": "ourlées"
+		}
+	},
+	"imperatif": {
+		"présent": { "ourle": "", "ourlons": "", "ourlez": "" },
+		"passé": { "aie": "ourlé", "ayons": "ourlé", "ayez": "ourlé" }
+	},
+	"infinitif": { "présent": { "ourler": "" }, "passé": { "avoir": "ourlé" } }
+}

@@ -1,0 +1,141 @@
+{
+	"name": "paniquer",
+	"definition": "panic; freak out; alarm; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se paniquer/ne pas paniquer/ne pas se paniquer",
+	"indicatif": {
+		"présent": {
+			"je": "panique",
+			"tu": "paniques",
+			"il/elle": "panique",
+			"nous": "paniquons",
+			"vous": "paniquez",
+			"ils/elles": "paniquent"
+		},
+		"imparfait": {
+			"je": "paniquais",
+			"tu": "paniquais",
+			"il/elle": "paniquait",
+			"nous": "paniquions",
+			"vous": "paniquiez",
+			"ils/elles": "paniquaient"
+		},
+		"futur": {
+			"je": "paniquerai",
+			"tu": "paniqueras",
+			"il/elle": "paniquera",
+			"nous": "paniquerons",
+			"vous": "paniquerez",
+			"ils/elles": "paniqueront"
+		},
+		"passé simple": {
+			"je": "paniquai",
+			"tu": "paniquas",
+			"il/elle": "paniqua",
+			"nous": "paniquâmes",
+			"vous": "paniquâtes",
+			"ils/elles": "paniquèrent"
+		},
+		"passé composé": {
+			"j'": "ai paniqué",
+			"tu": "as paniqué",
+			"il/elle": "a paniqué",
+			"nous": "avons paniqué",
+			"vous": "avez paniqué",
+			"ils/elles": "ont paniqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais paniqué",
+			"tu": "avais paniqué",
+			"il/elle": "avait paniqué",
+			"nous": "avions paniqué",
+			"vous": "aviez paniqué",
+			"ils/elles": "avaient paniqué"
+		},
+		"passé antérieur": {
+			"j'": "eus paniqué",
+			"tu": "eus paniqué",
+			"il/elle": "eut paniqué",
+			"nous": "eûmes paniqué",
+			"vous": "eûtes paniqué",
+			"ils/elles": "eurent paniqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai paniqué",
+			"tu": "auras paniqué",
+			"il/elle": "aura paniqué",
+			"nous": "aurons paniqué",
+			"vous": "aurez paniqué",
+			"ils/elles": "auront paniqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous paniquiez",
+			"qu'il/elle": "panique",
+			"qu'ils/elles": "paniquent"
+		},
+		"imparfait": {
+			"que": "vous paniquassiez",
+			"qu'il/elle": "paniquât",
+			"qu'ils/elles": "paniquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse paniqué",
+			"que": "vous eussiez paniqué",
+			"qu'il/elle": "eût paniqué",
+			"qu'ils/elles": "eussent paniqué"
+		},
+		"passé": {
+			"j'": "aie paniqué",
+			"que": "vous ayez paniqué",
+			"qu'il/elle": "ait paniqué",
+			"qu'ils/elles": "aient paniqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "paniquerais",
+			"tu": "paniquerais",
+			"il/elle": "paniquerait",
+			"nous": "paniquerions",
+			"vous": "paniqueriez",
+			"ils/elles": "paniqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais paniqué",
+			"tu": "aurais paniqué",
+			"il/elle": "aurait paniqué",
+			"nous": "aurions paniqué",
+			"vous": "auriez paniqué",
+			"ils/elles": "auraient paniqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse paniqué",
+			"tu": "eusses paniqué",
+			"il/elle": "eût paniqué",
+			"nous": "eussions paniqué",
+			"vous": "eussiez paniqué",
+			"ils/elles": "eussent paniqué"
+		}
+	},
+	"participe": {
+		"présent": { "paniquant": "" },
+		"passé composé": { "ayant": "paniqué" },
+		"passé": {
+			"masc.sg.:": "paniqué",
+			"masc.pl.:": "paniqués",
+			"fém.sg.:": "paniquée",
+			"fém.pl.:": "paniquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "panique": "", "paniquons": "", "paniquez": "" },
+		"passé": { "aie": "paniqué", "ayons": "paniqué", "ayez": "paniqué" }
+	},
+	"infinitif": {
+		"présent": { "paniquer": "" },
+		"passé": { "avoir": "paniqué" }
+	}
+}

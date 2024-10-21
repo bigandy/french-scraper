@@ -1,0 +1,138 @@
+{
+	"name": "draguer",
+	"definition": "hit on; dredge; pick up; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se draguer/ne pas draguer/ne pas se draguer",
+	"indicatif": {
+		"présent": {
+			"je": "drague",
+			"tu": "dragues",
+			"il/elle": "drague",
+			"nous": "draguons",
+			"vous": "draguez",
+			"ils/elles": "draguent"
+		},
+		"imparfait": {
+			"je": "draguais",
+			"tu": "draguais",
+			"il/elle": "draguait",
+			"nous": "draguions",
+			"vous": "draguiez",
+			"ils/elles": "draguaient"
+		},
+		"futur": {
+			"je": "draguerai",
+			"tu": "dragueras",
+			"il/elle": "draguera",
+			"nous": "draguerons",
+			"vous": "draguerez",
+			"ils/elles": "dragueront"
+		},
+		"passé simple": {
+			"je": "draguai",
+			"tu": "draguas",
+			"il/elle": "dragua",
+			"nous": "draguâmes",
+			"vous": "draguâtes",
+			"ils/elles": "draguèrent"
+		},
+		"passé composé": {
+			"j'": "ai dragué",
+			"tu": "as dragué",
+			"il/elle": "a dragué",
+			"nous": "avons dragué",
+			"vous": "avez dragué",
+			"ils/elles": "ont dragué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais dragué",
+			"tu": "avais dragué",
+			"il/elle": "avait dragué",
+			"nous": "avions dragué",
+			"vous": "aviez dragué",
+			"ils/elles": "avaient dragué"
+		},
+		"passé antérieur": {
+			"j'": "eus dragué",
+			"tu": "eus dragué",
+			"il/elle": "eut dragué",
+			"nous": "eûmes dragué",
+			"vous": "eûtes dragué",
+			"ils/elles": "eurent dragué"
+		},
+		"futur antérieur": {
+			"j'": "aurai dragué",
+			"tu": "auras dragué",
+			"il/elle": "aura dragué",
+			"nous": "aurons dragué",
+			"vous": "aurez dragué",
+			"ils/elles": "auront dragué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous draguiez",
+			"qu'il/elle": "drague",
+			"qu'ils/elles": "draguent"
+		},
+		"imparfait": {
+			"que": "vous draguassiez",
+			"qu'il/elle": "draguât",
+			"qu'ils/elles": "draguassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse dragué",
+			"que": "vous eussiez dragué",
+			"qu'il/elle": "eût dragué",
+			"qu'ils/elles": "eussent dragué"
+		},
+		"passé": {
+			"j'": "aie dragué",
+			"que": "vous ayez dragué",
+			"qu'il/elle": "ait dragué",
+			"qu'ils/elles": "aient dragué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "draguerais",
+			"tu": "draguerais",
+			"il/elle": "draguerait",
+			"nous": "draguerions",
+			"vous": "dragueriez",
+			"ils/elles": "dragueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais dragué",
+			"tu": "aurais dragué",
+			"il/elle": "aurait dragué",
+			"nous": "aurions dragué",
+			"vous": "auriez dragué",
+			"ils/elles": "auraient dragué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse dragué",
+			"tu": "eusses dragué",
+			"il/elle": "eût dragué",
+			"nous": "eussions dragué",
+			"vous": "eussiez dragué",
+			"ils/elles": "eussent dragué"
+		}
+	},
+	"participe": {
+		"présent": { "draguant": "" },
+		"passé composé": { "ayant": "dragué" },
+		"passé": {
+			"masc.sg.:": "dragué",
+			"masc.pl.:": "dragués",
+			"fém.sg.:": "draguée",
+			"fém.pl.:": "draguées"
+		}
+	},
+	"imperatif": {
+		"présent": { "drague": "", "draguons": "", "draguez": "" },
+		"passé": { "aie": "dragué", "ayons": "dragué", "ayez": "dragué" }
+	},
+	"infinitif": { "présent": { "draguer": "" }, "passé": { "avoir": "dragué" } }
+}

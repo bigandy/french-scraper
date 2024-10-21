@@ -1,0 +1,140 @@
+{
+	"name": "apposer",
+	"definition": "affix; apply; be affixed; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'apposer/ne pas apposer/ne pas s'apposer",
+	"indicatif": {
+		"présent": {
+			"j'": "appose",
+			"tu": "apposes",
+			"il/elle": "appose",
+			"nous": "apposons",
+			"vous": "apposez",
+			"ils/elles": "apposent"
+		},
+		"imparfait": {
+			"j'": "apposais",
+			"tu": "apposais",
+			"il/elle": "apposait",
+			"nous": "apposions",
+			"vous": "apposiez",
+			"ils/elles": "apposaient"
+		},
+		"futur": {
+			"j'": "apposerai",
+			"tu": "apposeras",
+			"il/elle": "apposera",
+			"nous": "apposerons",
+			"vous": "apposerez",
+			"ils/elles": "apposeront"
+		},
+		"passé simple": {
+			"j'": "apposai",
+			"tu": "apposas",
+			"il/elle": "apposa",
+			"nous": "apposâmes",
+			"vous": "apposâtes",
+			"ils/elles": "apposèrent"
+		},
+		"passé composé": {
+			"j'": "ai apposé",
+			"tu": "as apposé",
+			"il/elle": "a apposé",
+			"nous": "avons apposé",
+			"vous": "avez apposé",
+			"ils/elles": "ont apposé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais apposé",
+			"tu": "avais apposé",
+			"il/elle": "avait apposé",
+			"nous": "avions apposé",
+			"vous": "aviez apposé",
+			"ils/elles": "avaient apposé"
+		},
+		"passé antérieur": {
+			"j'": "eus apposé",
+			"tu": "eus apposé",
+			"il/elle": "eut apposé",
+			"nous": "eûmes apposé",
+			"vous": "eûtes apposé",
+			"ils/elles": "eurent apposé"
+		},
+		"futur antérieur": {
+			"j'": "aurai apposé",
+			"tu": "auras apposé",
+			"il/elle": "aura apposé",
+			"nous": "aurons apposé",
+			"vous": "aurez apposé",
+			"ils/elles": "auront apposé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "appose",
+			"que": "vous apposiez",
+			"qu'il/elle": "appose",
+			"qu'ils/elles": "apposent"
+		},
+		"imparfait": {
+			"j'": "apposasse",
+			"que": "vous apposassiez",
+			"qu'il/elle": "apposât",
+			"qu'ils/elles": "apposassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse apposé",
+			"que": "vous eussiez apposé",
+			"qu'il/elle": "eût apposé",
+			"qu'ils/elles": "eussent apposé"
+		},
+		"passé": {
+			"j'": "aie apposé",
+			"que": "vous ayez apposé",
+			"qu'il/elle": "ait apposé",
+			"qu'ils/elles": "aient apposé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "apposerais",
+			"tu": "apposerais",
+			"il/elle": "apposerait",
+			"nous": "apposerions",
+			"vous": "apposeriez",
+			"ils/elles": "apposeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais apposé",
+			"tu": "aurais apposé",
+			"il/elle": "aurait apposé",
+			"nous": "aurions apposé",
+			"vous": "auriez apposé",
+			"ils/elles": "auraient apposé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse apposé",
+			"tu": "eusses apposé",
+			"il/elle": "eût apposé",
+			"nous": "eussions apposé",
+			"vous": "eussiez apposé",
+			"ils/elles": "eussent apposé"
+		}
+	},
+	"participe": {
+		"présent": { "apposant": "" },
+		"passé composé": { "ayant": "apposé" },
+		"passé": {
+			"masc.sg.:": "apposé",
+			"masc.pl.:": "apposés",
+			"fém.sg.:": "apposée",
+			"fém.pl.:": "apposées"
+		}
+	},
+	"imperatif": {
+		"présent": { "appose": "", "apposons": "", "apposez": "" },
+		"passé": { "aie": "apposé", "ayons": "apposé", "ayez": "apposé" }
+	},
+	"infinitif": { "présent": { "apposer": "" }, "passé": { "avoir": "apposé" } }
+}

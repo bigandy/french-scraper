@@ -1,0 +1,140 @@
+{
+	"name": "inhiber",
+	"definition": "inhibit; suppress; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'inhiber/ne pas inhiber/ne pas s'inhiber",
+	"indicatif": {
+		"présent": {
+			"j'": "inhibe",
+			"tu": "inhibes",
+			"il/elle": "inhibe",
+			"nous": "inhibons",
+			"vous": "inhibez",
+			"ils/elles": "inhibent"
+		},
+		"imparfait": {
+			"j'": "inhibais",
+			"tu": "inhibais",
+			"il/elle": "inhibait",
+			"nous": "inhibions",
+			"vous": "inhibiez",
+			"ils/elles": "inhibaient"
+		},
+		"futur": {
+			"j'": "inhiberai",
+			"tu": "inhiberas",
+			"il/elle": "inhibera",
+			"nous": "inhiberons",
+			"vous": "inhiberez",
+			"ils/elles": "inhiberont"
+		},
+		"passé simple": {
+			"j'": "inhibai",
+			"tu": "inhibas",
+			"il/elle": "inhiba",
+			"nous": "inhibâmes",
+			"vous": "inhibâtes",
+			"ils/elles": "inhibèrent"
+		},
+		"passé composé": {
+			"j'": "ai inhibé",
+			"tu": "as inhibé",
+			"il/elle": "a inhibé",
+			"nous": "avons inhibé",
+			"vous": "avez inhibé",
+			"ils/elles": "ont inhibé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais inhibé",
+			"tu": "avais inhibé",
+			"il/elle": "avait inhibé",
+			"nous": "avions inhibé",
+			"vous": "aviez inhibé",
+			"ils/elles": "avaient inhibé"
+		},
+		"passé antérieur": {
+			"j'": "eus inhibé",
+			"tu": "eus inhibé",
+			"il/elle": "eut inhibé",
+			"nous": "eûmes inhibé",
+			"vous": "eûtes inhibé",
+			"ils/elles": "eurent inhibé"
+		},
+		"futur antérieur": {
+			"j'": "aurai inhibé",
+			"tu": "auras inhibé",
+			"il/elle": "aura inhibé",
+			"nous": "aurons inhibé",
+			"vous": "aurez inhibé",
+			"ils/elles": "auront inhibé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "inhibe",
+			"que": "vous inhibiez",
+			"qu'il/elle": "inhibe",
+			"qu'ils/elles": "inhibent"
+		},
+		"imparfait": {
+			"j'": "inhibasse",
+			"que": "vous inhibassiez",
+			"qu'il/elle": "inhibât",
+			"qu'ils/elles": "inhibassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse inhibé",
+			"que": "vous eussiez inhibé",
+			"qu'il/elle": "eût inhibé",
+			"qu'ils/elles": "eussent inhibé"
+		},
+		"passé": {
+			"j'": "aie inhibé",
+			"que": "vous ayez inhibé",
+			"qu'il/elle": "ait inhibé",
+			"qu'ils/elles": "aient inhibé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "inhiberais",
+			"tu": "inhiberais",
+			"il/elle": "inhiberait",
+			"nous": "inhiberions",
+			"vous": "inhiberiez",
+			"ils/elles": "inhiberaient"
+		},
+		"passé première forme": {
+			"j'": "aurais inhibé",
+			"tu": "aurais inhibé",
+			"il/elle": "aurait inhibé",
+			"nous": "aurions inhibé",
+			"vous": "auriez inhibé",
+			"ils/elles": "auraient inhibé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse inhibé",
+			"tu": "eusses inhibé",
+			"il/elle": "eût inhibé",
+			"nous": "eussions inhibé",
+			"vous": "eussiez inhibé",
+			"ils/elles": "eussent inhibé"
+		}
+	},
+	"participe": {
+		"présent": { "inhibant": "" },
+		"passé composé": { "ayant": "inhibé" },
+		"passé": {
+			"masc.sg.:": "inhibé",
+			"masc.pl.:": "inhibés",
+			"fém.sg.:": "inhibée",
+			"fém.pl.:": "inhibées"
+		}
+	},
+	"imperatif": {
+		"présent": { "inhibe": "", "inhibons": "", "inhibez": "" },
+		"passé": { "aie": "inhibé", "ayons": "inhibé", "ayez": "inhibé" }
+	},
+	"infinitif": { "présent": { "inhiber": "" }, "passé": { "avoir": "inhibé" } }
+}

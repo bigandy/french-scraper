@@ -1,0 +1,141 @@
+{
+	"name": "camoufler",
+	"definition": "camouflage; hide; cover up; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se camoufler/ne pas camoufler/ne pas se camoufler",
+	"indicatif": {
+		"présent": {
+			"je": "camoufle",
+			"tu": "camoufles",
+			"il/elle": "camoufle",
+			"nous": "camouflons",
+			"vous": "camouflez",
+			"ils/elles": "camouflent"
+		},
+		"imparfait": {
+			"je": "camouflais",
+			"tu": "camouflais",
+			"il/elle": "camouflait",
+			"nous": "camouflions",
+			"vous": "camoufliez",
+			"ils/elles": "camouflaient"
+		},
+		"futur": {
+			"je": "camouflerai",
+			"tu": "camoufleras",
+			"il/elle": "camouflera",
+			"nous": "camouflerons",
+			"vous": "camouflerez",
+			"ils/elles": "camoufleront"
+		},
+		"passé simple": {
+			"je": "camouflai",
+			"tu": "camouflas",
+			"il/elle": "camoufla",
+			"nous": "camouflâmes",
+			"vous": "camouflâtes",
+			"ils/elles": "camouflèrent"
+		},
+		"passé composé": {
+			"j'": "ai camouflé",
+			"tu": "as camouflé",
+			"il/elle": "a camouflé",
+			"nous": "avons camouflé",
+			"vous": "avez camouflé",
+			"ils/elles": "ont camouflé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais camouflé",
+			"tu": "avais camouflé",
+			"il/elle": "avait camouflé",
+			"nous": "avions camouflé",
+			"vous": "aviez camouflé",
+			"ils/elles": "avaient camouflé"
+		},
+		"passé antérieur": {
+			"j'": "eus camouflé",
+			"tu": "eus camouflé",
+			"il/elle": "eut camouflé",
+			"nous": "eûmes camouflé",
+			"vous": "eûtes camouflé",
+			"ils/elles": "eurent camouflé"
+		},
+		"futur antérieur": {
+			"j'": "aurai camouflé",
+			"tu": "auras camouflé",
+			"il/elle": "aura camouflé",
+			"nous": "aurons camouflé",
+			"vous": "aurez camouflé",
+			"ils/elles": "auront camouflé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous camoufliez",
+			"qu'il/elle": "camoufle",
+			"qu'ils/elles": "camouflent"
+		},
+		"imparfait": {
+			"que": "vous camouflassiez",
+			"qu'il/elle": "camouflât",
+			"qu'ils/elles": "camouflassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse camouflé",
+			"que": "vous eussiez camouflé",
+			"qu'il/elle": "eût camouflé",
+			"qu'ils/elles": "eussent camouflé"
+		},
+		"passé": {
+			"j'": "aie camouflé",
+			"que": "vous ayez camouflé",
+			"qu'il/elle": "ait camouflé",
+			"qu'ils/elles": "aient camouflé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "camouflerais",
+			"tu": "camouflerais",
+			"il/elle": "camouflerait",
+			"nous": "camouflerions",
+			"vous": "camoufleriez",
+			"ils/elles": "camoufleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais camouflé",
+			"tu": "aurais camouflé",
+			"il/elle": "aurait camouflé",
+			"nous": "aurions camouflé",
+			"vous": "auriez camouflé",
+			"ils/elles": "auraient camouflé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse camouflé",
+			"tu": "eusses camouflé",
+			"il/elle": "eût camouflé",
+			"nous": "eussions camouflé",
+			"vous": "eussiez camouflé",
+			"ils/elles": "eussent camouflé"
+		}
+	},
+	"participe": {
+		"présent": { "camouflant": "" },
+		"passé composé": { "ayant": "camouflé" },
+		"passé": {
+			"masc.sg.:": "camouflé",
+			"masc.pl.:": "camouflés",
+			"fém.sg.:": "camouflée",
+			"fém.pl.:": "camouflées"
+		}
+	},
+	"imperatif": {
+		"présent": { "camoufle": "", "camouflons": "", "camouflez": "" },
+		"passé": { "aie": "camouflé", "ayons": "camouflé", "ayez": "camouflé" }
+	},
+	"infinitif": {
+		"présent": { "camoufler": "" },
+		"passé": { "avoir": "camouflé" }
+	}
+}

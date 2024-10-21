@@ -1,0 +1,148 @@
+{
+	"name": "relayer",
+	"definition": "relay; take turns; convey; ...",
+	"model": "marcher\n              /\n              balayer",
+	"auxiliary": "avoir",
+	"otherForms": "se relayer/ne pas relayer/ne pas se relayer",
+	"indicatif": {
+		"présent": {
+			"je": "relaie",
+			"tu": "relaies",
+			"il/elle": "relaie",
+			"nous": "relayons",
+			"vous": "relayez",
+			"ils/elles": "relaient",
+			"": ""
+		},
+		"imparfait": {
+			"je": "relayais",
+			"tu": "relayais",
+			"il/elle": "relayait",
+			"nous": "relayions",
+			"vous": "relayiez",
+			"ils/elles": "relayaient"
+		},
+		"futur": {
+			"je": "relaierai",
+			"tu": "relaieras",
+			"il/elle": "relaiera",
+			"nous": "relaierons",
+			"vous": "relaierez",
+			"ils/elles": "relaieront",
+			"": ""
+		},
+		"passé simple": {
+			"je": "relayai",
+			"tu": "relayas",
+			"il/elle": "relaya",
+			"nous": "relayâmes",
+			"vous": "relayâtes",
+			"ils/elles": "relayèrent"
+		},
+		"passé composé": {
+			"j'": "ai relayé",
+			"tu": "as relayé",
+			"il/elle": "a relayé",
+			"nous": "avons relayé",
+			"vous": "avez relayé",
+			"ils/elles": "ont relayé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais relayé",
+			"tu": "avais relayé",
+			"il/elle": "avait relayé",
+			"nous": "avions relayé",
+			"vous": "aviez relayé",
+			"ils/elles": "avaient relayé"
+		},
+		"passé antérieur": {
+			"j'": "eus relayé",
+			"tu": "eus relayé",
+			"il/elle": "eut relayé",
+			"nous": "eûmes relayé",
+			"vous": "eûtes relayé",
+			"ils/elles": "eurent relayé"
+		},
+		"futur antérieur": {
+			"j'": "aurai relayé",
+			"tu": "auras relayé",
+			"il/elle": "aura relayé",
+			"nous": "aurons relayé",
+			"vous": "aurez relayé",
+			"ils/elles": "auront relayé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous relayiez",
+			"qu'il/elle": "relaie",
+			"qu'ils/elles": "relaient",
+			"": ""
+		},
+		"imparfait": {
+			"que": "vous relayassiez",
+			"qu'il/elle": "relayât",
+			"qu'ils/elles": "relayassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse relayé",
+			"que": "vous eussiez relayé",
+			"qu'il/elle": "eût relayé",
+			"qu'ils/elles": "eussent relayé"
+		},
+		"passé": {
+			"j'": "aie relayé",
+			"que": "vous ayez relayé",
+			"qu'il/elle": "ait relayé",
+			"qu'ils/elles": "aient relayé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "relaierais",
+			"tu": "relaierais",
+			"il/elle": "relaierait",
+			"nous": "relaierions",
+			"vous": "relaieriez",
+			"ils/elles": "relaieraient",
+			"": ""
+		},
+		"passé première forme": {
+			"j'": "aurais relayé",
+			"tu": "aurais relayé",
+			"il/elle": "aurait relayé",
+			"nous": "aurions relayé",
+			"vous": "auriez relayé",
+			"ils/elles": "auraient relayé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse relayé",
+			"tu": "eusses relayé",
+			"il/elle": "eût relayé",
+			"nous": "eussions relayé",
+			"vous": "eussiez relayé",
+			"ils/elles": "eussent relayé"
+		}
+	},
+	"participe": {
+		"présent": { "relayant": "" },
+		"passé composé": { "ayant": "relayé" },
+		"passé": {
+			"masc.sg.:": "relayé",
+			"masc.pl.:": "relayés",
+			"fém.sg.:": "relayée",
+			"fém.pl.:": "relayées"
+		}
+	},
+	"imperatif": {
+		"présent": {
+			"relaye": "",
+			"relayons": "",
+			"relayez": "",
+			"": "",
+			"relaie": ""
+		},
+		"passé": { "aie": "relayé", "ayons": "relayé", "ayez": "relayé" }
+	},
+	"infinitif": { "présent": { "relayer": "" }, "passé": { "avoir": "relayé" } }
+}

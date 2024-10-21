@@ -1,0 +1,138 @@
+{
+	"name": "situer",
+	"definition": "locate; place; situate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se situer/ne pas situer/ne pas se situer",
+	"indicatif": {
+		"présent": {
+			"je": "situe",
+			"tu": "situes",
+			"il/elle": "situe",
+			"nous": "situons",
+			"vous": "situez",
+			"ils/elles": "situent"
+		},
+		"imparfait": {
+			"je": "situais",
+			"tu": "situais",
+			"il/elle": "situait",
+			"nous": "situions",
+			"vous": "situiez",
+			"ils/elles": "situaient"
+		},
+		"futur": {
+			"je": "situerai",
+			"tu": "situeras",
+			"il/elle": "situera",
+			"nous": "situerons",
+			"vous": "situerez",
+			"ils/elles": "situeront"
+		},
+		"passé simple": {
+			"je": "situai",
+			"tu": "situas",
+			"il/elle": "situa",
+			"nous": "situâmes",
+			"vous": "situâtes",
+			"ils/elles": "situèrent"
+		},
+		"passé composé": {
+			"j'": "ai situé",
+			"tu": "as situé",
+			"il/elle": "a situé",
+			"nous": "avons situé",
+			"vous": "avez situé",
+			"ils/elles": "ont situé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais situé",
+			"tu": "avais situé",
+			"il/elle": "avait situé",
+			"nous": "avions situé",
+			"vous": "aviez situé",
+			"ils/elles": "avaient situé"
+		},
+		"passé antérieur": {
+			"j'": "eus situé",
+			"tu": "eus situé",
+			"il/elle": "eut situé",
+			"nous": "eûmes situé",
+			"vous": "eûtes situé",
+			"ils/elles": "eurent situé"
+		},
+		"futur antérieur": {
+			"j'": "aurai situé",
+			"tu": "auras situé",
+			"il/elle": "aura situé",
+			"nous": "aurons situé",
+			"vous": "aurez situé",
+			"ils/elles": "auront situé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous situiez",
+			"qu'il/elle": "situe",
+			"qu'ils/elles": "situent"
+		},
+		"imparfait": {
+			"que": "vous situassiez",
+			"qu'il/elle": "situât",
+			"qu'ils/elles": "situassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse situé",
+			"que": "vous eussiez situé",
+			"qu'il/elle": "eût situé",
+			"qu'ils/elles": "eussent situé"
+		},
+		"passé": {
+			"j'": "aie situé",
+			"que": "vous ayez situé",
+			"qu'il/elle": "ait situé",
+			"qu'ils/elles": "aient situé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "situerais",
+			"tu": "situerais",
+			"il/elle": "situerait",
+			"nous": "situerions",
+			"vous": "situeriez",
+			"ils/elles": "situeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais situé",
+			"tu": "aurais situé",
+			"il/elle": "aurait situé",
+			"nous": "aurions situé",
+			"vous": "auriez situé",
+			"ils/elles": "auraient situé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse situé",
+			"tu": "eusses situé",
+			"il/elle": "eût situé",
+			"nous": "eussions situé",
+			"vous": "eussiez situé",
+			"ils/elles": "eussent situé"
+		}
+	},
+	"participe": {
+		"présent": { "situant": "" },
+		"passé composé": { "ayant": "situé" },
+		"passé": {
+			"masc.sg.:": "situé",
+			"masc.pl.:": "situés",
+			"fém.sg.:": "située",
+			"fém.pl.:": "situées"
+		}
+	},
+	"imperatif": {
+		"présent": { "situe": "", "situons": "", "situez": "" },
+		"passé": { "aie": "situé", "ayons": "situé", "ayez": "situé" }
+	},
+	"infinitif": { "présent": { "situer": "" }, "passé": { "avoir": "situé" } }
+}

@@ -1,0 +1,141 @@
+{
+	"name": "révoquer",
+	"definition": "revoke; remove; dismiss; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se révoquer/ne pas révoquer/ne pas se révoquer",
+	"indicatif": {
+		"présent": {
+			"je": "révoque",
+			"tu": "révoques",
+			"il/elle": "révoque",
+			"nous": "révoquons",
+			"vous": "révoquez",
+			"ils/elles": "révoquent"
+		},
+		"imparfait": {
+			"je": "révoquais",
+			"tu": "révoquais",
+			"il/elle": "révoquait",
+			"nous": "révoquions",
+			"vous": "révoquiez",
+			"ils/elles": "révoquaient"
+		},
+		"futur": {
+			"je": "révoquerai",
+			"tu": "révoqueras",
+			"il/elle": "révoquera",
+			"nous": "révoquerons",
+			"vous": "révoquerez",
+			"ils/elles": "révoqueront"
+		},
+		"passé simple": {
+			"je": "révoquai",
+			"tu": "révoquas",
+			"il/elle": "révoqua",
+			"nous": "révoquâmes",
+			"vous": "révoquâtes",
+			"ils/elles": "révoquèrent"
+		},
+		"passé composé": {
+			"j'": "ai révoqué",
+			"tu": "as révoqué",
+			"il/elle": "a révoqué",
+			"nous": "avons révoqué",
+			"vous": "avez révoqué",
+			"ils/elles": "ont révoqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais révoqué",
+			"tu": "avais révoqué",
+			"il/elle": "avait révoqué",
+			"nous": "avions révoqué",
+			"vous": "aviez révoqué",
+			"ils/elles": "avaient révoqué"
+		},
+		"passé antérieur": {
+			"j'": "eus révoqué",
+			"tu": "eus révoqué",
+			"il/elle": "eut révoqué",
+			"nous": "eûmes révoqué",
+			"vous": "eûtes révoqué",
+			"ils/elles": "eurent révoqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai révoqué",
+			"tu": "auras révoqué",
+			"il/elle": "aura révoqué",
+			"nous": "aurons révoqué",
+			"vous": "aurez révoqué",
+			"ils/elles": "auront révoqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous révoquiez",
+			"qu'il/elle": "révoque",
+			"qu'ils/elles": "révoquent"
+		},
+		"imparfait": {
+			"que": "vous révoquassiez",
+			"qu'il/elle": "révoquât",
+			"qu'ils/elles": "révoquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse révoqué",
+			"que": "vous eussiez révoqué",
+			"qu'il/elle": "eût révoqué",
+			"qu'ils/elles": "eussent révoqué"
+		},
+		"passé": {
+			"j'": "aie révoqué",
+			"que": "vous ayez révoqué",
+			"qu'il/elle": "ait révoqué",
+			"qu'ils/elles": "aient révoqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "révoquerais",
+			"tu": "révoquerais",
+			"il/elle": "révoquerait",
+			"nous": "révoquerions",
+			"vous": "révoqueriez",
+			"ils/elles": "révoqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais révoqué",
+			"tu": "aurais révoqué",
+			"il/elle": "aurait révoqué",
+			"nous": "aurions révoqué",
+			"vous": "auriez révoqué",
+			"ils/elles": "auraient révoqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse révoqué",
+			"tu": "eusses révoqué",
+			"il/elle": "eût révoqué",
+			"nous": "eussions révoqué",
+			"vous": "eussiez révoqué",
+			"ils/elles": "eussent révoqué"
+		}
+	},
+	"participe": {
+		"présent": { "révoquant": "" },
+		"passé composé": { "ayant": "révoqué" },
+		"passé": {
+			"masc.sg.:": "révoqué",
+			"masc.pl.:": "révoqués",
+			"fém.sg.:": "révoquée",
+			"fém.pl.:": "révoquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "révoque": "", "révoquons": "", "révoquez": "" },
+		"passé": { "aie": "révoqué", "ayons": "révoqué", "ayez": "révoqué" }
+	},
+	"infinitif": {
+		"présent": { "révoquer": "" },
+		"passé": { "avoir": "révoqué" }
+	}
+}

@@ -1,0 +1,143 @@
+{
+	"name": "inculper",
+	"definition": "charge; indict; convict; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'inculper/ne pas inculper/ne pas s'inculper",
+	"indicatif": {
+		"présent": {
+			"j'": "inculpe",
+			"tu": "inculpes",
+			"il/elle": "inculpe",
+			"nous": "inculpons",
+			"vous": "inculpez",
+			"ils/elles": "inculpent"
+		},
+		"imparfait": {
+			"j'": "inculpais",
+			"tu": "inculpais",
+			"il/elle": "inculpait",
+			"nous": "inculpions",
+			"vous": "inculpiez",
+			"ils/elles": "inculpaient"
+		},
+		"futur": {
+			"j'": "inculperai",
+			"tu": "inculperas",
+			"il/elle": "inculpera",
+			"nous": "inculperons",
+			"vous": "inculperez",
+			"ils/elles": "inculperont"
+		},
+		"passé simple": {
+			"j'": "inculpai",
+			"tu": "inculpas",
+			"il/elle": "inculpa",
+			"nous": "inculpâmes",
+			"vous": "inculpâtes",
+			"ils/elles": "inculpèrent"
+		},
+		"passé composé": {
+			"j'": "ai inculpé",
+			"tu": "as inculpé",
+			"il/elle": "a inculpé",
+			"nous": "avons inculpé",
+			"vous": "avez inculpé",
+			"ils/elles": "ont inculpé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais inculpé",
+			"tu": "avais inculpé",
+			"il/elle": "avait inculpé",
+			"nous": "avions inculpé",
+			"vous": "aviez inculpé",
+			"ils/elles": "avaient inculpé"
+		},
+		"passé antérieur": {
+			"j'": "eus inculpé",
+			"tu": "eus inculpé",
+			"il/elle": "eut inculpé",
+			"nous": "eûmes inculpé",
+			"vous": "eûtes inculpé",
+			"ils/elles": "eurent inculpé"
+		},
+		"futur antérieur": {
+			"j'": "aurai inculpé",
+			"tu": "auras inculpé",
+			"il/elle": "aura inculpé",
+			"nous": "aurons inculpé",
+			"vous": "aurez inculpé",
+			"ils/elles": "auront inculpé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "inculpe",
+			"que": "vous inculpiez",
+			"qu'il/elle": "inculpe",
+			"qu'ils/elles": "inculpent"
+		},
+		"imparfait": {
+			"j'": "inculpasse",
+			"que": "vous inculpassiez",
+			"qu'il/elle": "inculpât",
+			"qu'ils/elles": "inculpassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse inculpé",
+			"que": "vous eussiez inculpé",
+			"qu'il/elle": "eût inculpé",
+			"qu'ils/elles": "eussent inculpé"
+		},
+		"passé": {
+			"j'": "aie inculpé",
+			"que": "vous ayez inculpé",
+			"qu'il/elle": "ait inculpé",
+			"qu'ils/elles": "aient inculpé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "inculperais",
+			"tu": "inculperais",
+			"il/elle": "inculperait",
+			"nous": "inculperions",
+			"vous": "inculperiez",
+			"ils/elles": "inculperaient"
+		},
+		"passé première forme": {
+			"j'": "aurais inculpé",
+			"tu": "aurais inculpé",
+			"il/elle": "aurait inculpé",
+			"nous": "aurions inculpé",
+			"vous": "auriez inculpé",
+			"ils/elles": "auraient inculpé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse inculpé",
+			"tu": "eusses inculpé",
+			"il/elle": "eût inculpé",
+			"nous": "eussions inculpé",
+			"vous": "eussiez inculpé",
+			"ils/elles": "eussent inculpé"
+		}
+	},
+	"participe": {
+		"présent": { "inculpant": "" },
+		"passé composé": { "ayant": "inculpé" },
+		"passé": {
+			"masc.sg.:": "inculpé",
+			"masc.pl.:": "inculpés",
+			"fém.sg.:": "inculpée",
+			"fém.pl.:": "inculpées"
+		}
+	},
+	"imperatif": {
+		"présent": { "inculpe": "", "inculpons": "", "inculpez": "" },
+		"passé": { "aie": "inculpé", "ayons": "inculpé", "ayez": "inculpé" }
+	},
+	"infinitif": {
+		"présent": { "inculper": "" },
+		"passé": { "avoir": "inculpé" }
+	}
+}

@@ -1,0 +1,140 @@
+{
+	"name": "épauler",
+	"definition": "support; assist; complement; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'épauler/ne pas épauler/ne pas s'épauler",
+	"indicatif": {
+		"présent": {
+			"j'": "épaule",
+			"tu": "épaules",
+			"il/elle": "épaule",
+			"nous": "épaulons",
+			"vous": "épaulez",
+			"ils/elles": "épaulent"
+		},
+		"imparfait": {
+			"j'": "épaulais",
+			"tu": "épaulais",
+			"il/elle": "épaulait",
+			"nous": "épaulions",
+			"vous": "épauliez",
+			"ils/elles": "épaulaient"
+		},
+		"futur": {
+			"j'": "épaulerai",
+			"tu": "épauleras",
+			"il/elle": "épaulera",
+			"nous": "épaulerons",
+			"vous": "épaulerez",
+			"ils/elles": "épauleront"
+		},
+		"passé simple": {
+			"j'": "épaulai",
+			"tu": "épaulas",
+			"il/elle": "épaula",
+			"nous": "épaulâmes",
+			"vous": "épaulâtes",
+			"ils/elles": "épaulèrent"
+		},
+		"passé composé": {
+			"j'": "ai épaulé",
+			"tu": "as épaulé",
+			"il/elle": "a épaulé",
+			"nous": "avons épaulé",
+			"vous": "avez épaulé",
+			"ils/elles": "ont épaulé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais épaulé",
+			"tu": "avais épaulé",
+			"il/elle": "avait épaulé",
+			"nous": "avions épaulé",
+			"vous": "aviez épaulé",
+			"ils/elles": "avaient épaulé"
+		},
+		"passé antérieur": {
+			"j'": "eus épaulé",
+			"tu": "eus épaulé",
+			"il/elle": "eut épaulé",
+			"nous": "eûmes épaulé",
+			"vous": "eûtes épaulé",
+			"ils/elles": "eurent épaulé"
+		},
+		"futur antérieur": {
+			"j'": "aurai épaulé",
+			"tu": "auras épaulé",
+			"il/elle": "aura épaulé",
+			"nous": "aurons épaulé",
+			"vous": "aurez épaulé",
+			"ils/elles": "auront épaulé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "épaule",
+			"que": "vous épauliez",
+			"qu'il/elle": "épaule",
+			"qu'ils/elles": "épaulent"
+		},
+		"imparfait": {
+			"j'": "épaulasse",
+			"que": "vous épaulassiez",
+			"qu'il/elle": "épaulât",
+			"qu'ils/elles": "épaulassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse épaulé",
+			"que": "vous eussiez épaulé",
+			"qu'il/elle": "eût épaulé",
+			"qu'ils/elles": "eussent épaulé"
+		},
+		"passé": {
+			"j'": "aie épaulé",
+			"que": "vous ayez épaulé",
+			"qu'il/elle": "ait épaulé",
+			"qu'ils/elles": "aient épaulé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "épaulerais",
+			"tu": "épaulerais",
+			"il/elle": "épaulerait",
+			"nous": "épaulerions",
+			"vous": "épauleriez",
+			"ils/elles": "épauleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais épaulé",
+			"tu": "aurais épaulé",
+			"il/elle": "aurait épaulé",
+			"nous": "aurions épaulé",
+			"vous": "auriez épaulé",
+			"ils/elles": "auraient épaulé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse épaulé",
+			"tu": "eusses épaulé",
+			"il/elle": "eût épaulé",
+			"nous": "eussions épaulé",
+			"vous": "eussiez épaulé",
+			"ils/elles": "eussent épaulé"
+		}
+	},
+	"participe": {
+		"présent": { "épaulant": "" },
+		"passé composé": { "ayant": "épaulé" },
+		"passé": {
+			"masc.sg.:": "épaulé",
+			"masc.pl.:": "épaulés",
+			"fém.sg.:": "épaulée",
+			"fém.pl.:": "épaulées"
+		}
+	},
+	"imperatif": {
+		"présent": { "épaule": "", "épaulons": "", "épaulez": "" },
+		"passé": { "aie": "épaulé", "ayons": "épaulé", "ayez": "épaulé" }
+	},
+	"infinitif": { "présent": { "épauler": "" }, "passé": { "avoir": "épaulé" } }
+}

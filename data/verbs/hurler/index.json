@@ -1,0 +1,138 @@
+{
+	"name": "hurler",
+	"definition": "scream; yell; howl; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se hurler/ne pas hurler/ne pas se hurler",
+	"indicatif": {
+		"présent": {
+			"je": "hurle",
+			"tu": "hurles",
+			"il/elle": "hurle",
+			"nous": "hurlons",
+			"vous": "hurlez",
+			"ils/elles": "hurlent"
+		},
+		"imparfait": {
+			"je": "hurlais",
+			"tu": "hurlais",
+			"il/elle": "hurlait",
+			"nous": "hurlions",
+			"vous": "hurliez",
+			"ils/elles": "hurlaient"
+		},
+		"futur": {
+			"je": "hurlerai",
+			"tu": "hurleras",
+			"il/elle": "hurlera",
+			"nous": "hurlerons",
+			"vous": "hurlerez",
+			"ils/elles": "hurleront"
+		},
+		"passé simple": {
+			"je": "hurlai",
+			"tu": "hurlas",
+			"il/elle": "hurla",
+			"nous": "hurlâmes",
+			"vous": "hurlâtes",
+			"ils/elles": "hurlèrent"
+		},
+		"passé composé": {
+			"j'": "ai hurlé",
+			"tu": "as hurlé",
+			"il/elle": "a hurlé",
+			"nous": "avons hurlé",
+			"vous": "avez hurlé",
+			"ils/elles": "ont hurlé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais hurlé",
+			"tu": "avais hurlé",
+			"il/elle": "avait hurlé",
+			"nous": "avions hurlé",
+			"vous": "aviez hurlé",
+			"ils/elles": "avaient hurlé"
+		},
+		"passé antérieur": {
+			"j'": "eus hurlé",
+			"tu": "eus hurlé",
+			"il/elle": "eut hurlé",
+			"nous": "eûmes hurlé",
+			"vous": "eûtes hurlé",
+			"ils/elles": "eurent hurlé"
+		},
+		"futur antérieur": {
+			"j'": "aurai hurlé",
+			"tu": "auras hurlé",
+			"il/elle": "aura hurlé",
+			"nous": "aurons hurlé",
+			"vous": "aurez hurlé",
+			"ils/elles": "auront hurlé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous hurliez",
+			"qu'il/elle": "hurle",
+			"qu'ils/elles": "hurlent"
+		},
+		"imparfait": {
+			"que": "vous hurlassiez",
+			"qu'il/elle": "hurlât",
+			"qu'ils/elles": "hurlassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse hurlé",
+			"que": "vous eussiez hurlé",
+			"qu'il/elle": "eût hurlé",
+			"qu'ils/elles": "eussent hurlé"
+		},
+		"passé": {
+			"j'": "aie hurlé",
+			"que": "vous ayez hurlé",
+			"qu'il/elle": "ait hurlé",
+			"qu'ils/elles": "aient hurlé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "hurlerais",
+			"tu": "hurlerais",
+			"il/elle": "hurlerait",
+			"nous": "hurlerions",
+			"vous": "hurleriez",
+			"ils/elles": "hurleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais hurlé",
+			"tu": "aurais hurlé",
+			"il/elle": "aurait hurlé",
+			"nous": "aurions hurlé",
+			"vous": "auriez hurlé",
+			"ils/elles": "auraient hurlé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse hurlé",
+			"tu": "eusses hurlé",
+			"il/elle": "eût hurlé",
+			"nous": "eussions hurlé",
+			"vous": "eussiez hurlé",
+			"ils/elles": "eussent hurlé"
+		}
+	},
+	"participe": {
+		"présent": { "hurlant": "" },
+		"passé composé": { "ayant": "hurlé" },
+		"passé": {
+			"masc.sg.:": "hurlé",
+			"masc.pl.:": "hurlés",
+			"fém.sg.:": "hurlée",
+			"fém.pl.:": "hurlées"
+		}
+	},
+	"imperatif": {
+		"présent": { "hurle": "", "hurlons": "", "hurlez": "" },
+		"passé": { "aie": "hurlé", "ayons": "hurlé", "ayez": "hurlé" }
+	},
+	"infinitif": { "présent": { "hurler": "" }, "passé": { "avoir": "hurlé" } }
+}

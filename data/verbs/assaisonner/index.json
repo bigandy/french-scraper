@@ -1,0 +1,147 @@
+{
+	"name": "assaisonner",
+	"definition": "season; flavour; pepper; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'assaisonner/ne pas assaisonner/ne pas s'assaisonner",
+	"indicatif": {
+		"présent": {
+			"j'": "assaisonne",
+			"tu": "assaisonnes",
+			"il/elle": "assaisonne",
+			"nous": "assaisonnons",
+			"vous": "assaisonnez",
+			"ils/elles": "assaisonnent"
+		},
+		"imparfait": {
+			"j'": "assaisonnais",
+			"tu": "assaisonnais",
+			"il/elle": "assaisonnait",
+			"nous": "assaisonnions",
+			"vous": "assaisonniez",
+			"ils/elles": "assaisonnaient"
+		},
+		"futur": {
+			"j'": "assaisonnerai",
+			"tu": "assaisonneras",
+			"il/elle": "assaisonnera",
+			"nous": "assaisonnerons",
+			"vous": "assaisonnerez",
+			"ils/elles": "assaisonneront"
+		},
+		"passé simple": {
+			"j'": "assaisonnai",
+			"tu": "assaisonnas",
+			"il/elle": "assaisonna",
+			"nous": "assaisonnâmes",
+			"vous": "assaisonnâtes",
+			"ils/elles": "assaisonnèrent"
+		},
+		"passé composé": {
+			"j'": "ai assaisonné",
+			"tu": "as assaisonné",
+			"il/elle": "a assaisonné",
+			"nous": "avons assaisonné",
+			"vous": "avez assaisonné",
+			"ils/elles": "ont assaisonné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais assaisonné",
+			"tu": "avais assaisonné",
+			"il/elle": "avait assaisonné",
+			"nous": "avions assaisonné",
+			"vous": "aviez assaisonné",
+			"ils/elles": "avaient assaisonné"
+		},
+		"passé antérieur": {
+			"j'": "eus assaisonné",
+			"tu": "eus assaisonné",
+			"il/elle": "eut assaisonné",
+			"nous": "eûmes assaisonné",
+			"vous": "eûtes assaisonné",
+			"ils/elles": "eurent assaisonné"
+		},
+		"futur antérieur": {
+			"j'": "aurai assaisonné",
+			"tu": "auras assaisonné",
+			"il/elle": "aura assaisonné",
+			"nous": "aurons assaisonné",
+			"vous": "aurez assaisonné",
+			"ils/elles": "auront assaisonné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "assaisonne",
+			"que": "vous assaisonniez",
+			"qu'il/elle": "assaisonne",
+			"qu'ils/elles": "assaisonnent"
+		},
+		"imparfait": {
+			"j'": "assaisonnasse",
+			"que": "vous assaisonnassiez",
+			"qu'il/elle": "assaisonnât",
+			"qu'ils/elles": "assaisonnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse assaisonné",
+			"que": "vous eussiez assaisonné",
+			"qu'il/elle": "eût assaisonné",
+			"qu'ils/elles": "eussent assaisonné"
+		},
+		"passé": {
+			"j'": "aie assaisonné",
+			"que": "vous ayez assaisonné",
+			"qu'il/elle": "ait assaisonné",
+			"qu'ils/elles": "aient assaisonné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "assaisonnerais",
+			"tu": "assaisonnerais",
+			"il/elle": "assaisonnerait",
+			"nous": "assaisonnerions",
+			"vous": "assaisonneriez",
+			"ils/elles": "assaisonneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais assaisonné",
+			"tu": "aurais assaisonné",
+			"il/elle": "aurait assaisonné",
+			"nous": "aurions assaisonné",
+			"vous": "auriez assaisonné",
+			"ils/elles": "auraient assaisonné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse assaisonné",
+			"tu": "eusses assaisonné",
+			"il/elle": "eût assaisonné",
+			"nous": "eussions assaisonné",
+			"vous": "eussiez assaisonné",
+			"ils/elles": "eussent assaisonné"
+		}
+	},
+	"participe": {
+		"présent": { "assaisonnant": "" },
+		"passé composé": { "ayant": "assaisonné" },
+		"passé": {
+			"masc.sg.:": "assaisonné",
+			"masc.pl.:": "assaisonnés",
+			"fém.sg.:": "assaisonnée",
+			"fém.pl.:": "assaisonnées"
+		}
+	},
+	"imperatif": {
+		"présent": { "assaisonne": "", "assaisonnons": "", "assaisonnez": "" },
+		"passé": {
+			"aie": "assaisonné",
+			"ayons": "assaisonné",
+			"ayez": "assaisonné"
+		}
+	},
+	"infinitif": {
+		"présent": { "assaisonner": "" },
+		"passé": { "avoir": "assaisonné" }
+	}
+}

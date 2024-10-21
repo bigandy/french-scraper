@@ -1,0 +1,138 @@
+{
+	"name": "défaire",
+	"definition": "undo; defeat; unpack; ...",
+	"model": "faire",
+	"auxiliary": "avoir",
+	"otherForms": "se défaire/ne pas défaire/ne pas se défaire",
+	"indicatif": {
+		"présent": {
+			"je": "défais",
+			"tu": "défais",
+			"il/elle": "défait",
+			"nous": "défaisons",
+			"vous": "défaites",
+			"ils/elles": "défont"
+		},
+		"imparfait": {
+			"je": "défaisais",
+			"tu": "défaisais",
+			"il/elle": "défaisait",
+			"nous": "défaisions",
+			"vous": "défaisiez",
+			"ils/elles": "défaisaient"
+		},
+		"futur": {
+			"je": "déferai",
+			"tu": "déferas",
+			"il/elle": "défera",
+			"nous": "déferons",
+			"vous": "déferez",
+			"ils/elles": "déferont"
+		},
+		"passé simple": {
+			"je": "défis",
+			"tu": "défis",
+			"il/elle": "défit",
+			"nous": "défîmes",
+			"vous": "défîtes",
+			"ils/elles": "défirent"
+		},
+		"passé composé": {
+			"j'": "ai défait",
+			"tu": "as défait",
+			"il/elle": "a défait",
+			"nous": "avons défait",
+			"vous": "avez défait",
+			"ils/elles": "ont défait"
+		},
+		"plus-que-parfait": {
+			"j'": "avais défait",
+			"tu": "avais défait",
+			"il/elle": "avait défait",
+			"nous": "avions défait",
+			"vous": "aviez défait",
+			"ils/elles": "avaient défait"
+		},
+		"passé antérieur": {
+			"j'": "eus défait",
+			"tu": "eus défait",
+			"il/elle": "eut défait",
+			"nous": "eûmes défait",
+			"vous": "eûtes défait",
+			"ils/elles": "eurent défait"
+		},
+		"futur antérieur": {
+			"j'": "aurai défait",
+			"tu": "auras défait",
+			"il/elle": "aura défait",
+			"nous": "aurons défait",
+			"vous": "aurez défait",
+			"ils/elles": "auront défait"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous défassiez",
+			"qu'il/elle": "défasse",
+			"qu'ils/elles": "défassent"
+		},
+		"imparfait": {
+			"que": "vous défissiez",
+			"qu'il/elle": "défît",
+			"qu'ils/elles": "défissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse défait",
+			"que": "vous eussiez défait",
+			"qu'il/elle": "eût défait",
+			"qu'ils/elles": "eussent défait"
+		},
+		"passé": {
+			"j'": "aie défait",
+			"que": "vous ayez défait",
+			"qu'il/elle": "ait défait",
+			"qu'ils/elles": "aient défait"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "déferais",
+			"tu": "déferais",
+			"il/elle": "déferait",
+			"nous": "déferions",
+			"vous": "déferiez",
+			"ils/elles": "déferaient"
+		},
+		"passé première forme": {
+			"j'": "aurais défait",
+			"tu": "aurais défait",
+			"il/elle": "aurait défait",
+			"nous": "aurions défait",
+			"vous": "auriez défait",
+			"ils/elles": "auraient défait"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse défait",
+			"tu": "eusses défait",
+			"il/elle": "eût défait",
+			"nous": "eussions défait",
+			"vous": "eussiez défait",
+			"ils/elles": "eussent défait"
+		}
+	},
+	"participe": {
+		"présent": { "défaisant": "" },
+		"passé composé": { "ayant": "défait" },
+		"passé": {
+			"masc.sg.:": "défait",
+			"masc.pl.:": "défaits",
+			"fém.sg.:": "défaite",
+			"fém.pl.:": "défaites"
+		}
+	},
+	"imperatif": {
+		"présent": { "défais": "", "défaisons": "", "défaites": "" },
+		"passé": { "aie": "défait", "ayons": "défait", "ayez": "défait" }
+	},
+	"infinitif": { "présent": { "défaire": "" }, "passé": { "avoir": "défait" } }
+}

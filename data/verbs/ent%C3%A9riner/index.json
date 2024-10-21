@@ -1,0 +1,143 @@
+{
+	"name": "entériner",
+	"definition": "endorse; ratify; approve; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'entériner/ne pas entériner/ne pas s'entériner",
+	"indicatif": {
+		"présent": {
+			"j'": "entérine",
+			"tu": "entérines",
+			"il/elle": "entérine",
+			"nous": "entérinons",
+			"vous": "entérinez",
+			"ils/elles": "entérinent"
+		},
+		"imparfait": {
+			"j'": "entérinais",
+			"tu": "entérinais",
+			"il/elle": "entérinait",
+			"nous": "entérinions",
+			"vous": "entériniez",
+			"ils/elles": "entérinaient"
+		},
+		"futur": {
+			"j'": "entérinerai",
+			"tu": "entérineras",
+			"il/elle": "entérinera",
+			"nous": "entérinerons",
+			"vous": "entérinerez",
+			"ils/elles": "entérineront"
+		},
+		"passé simple": {
+			"j'": "entérinai",
+			"tu": "entérinas",
+			"il/elle": "entérina",
+			"nous": "entérinâmes",
+			"vous": "entérinâtes",
+			"ils/elles": "entérinèrent"
+		},
+		"passé composé": {
+			"j'": "ai entériné",
+			"tu": "as entériné",
+			"il/elle": "a entériné",
+			"nous": "avons entériné",
+			"vous": "avez entériné",
+			"ils/elles": "ont entériné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais entériné",
+			"tu": "avais entériné",
+			"il/elle": "avait entériné",
+			"nous": "avions entériné",
+			"vous": "aviez entériné",
+			"ils/elles": "avaient entériné"
+		},
+		"passé antérieur": {
+			"j'": "eus entériné",
+			"tu": "eus entériné",
+			"il/elle": "eut entériné",
+			"nous": "eûmes entériné",
+			"vous": "eûtes entériné",
+			"ils/elles": "eurent entériné"
+		},
+		"futur antérieur": {
+			"j'": "aurai entériné",
+			"tu": "auras entériné",
+			"il/elle": "aura entériné",
+			"nous": "aurons entériné",
+			"vous": "aurez entériné",
+			"ils/elles": "auront entériné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "entérine",
+			"que": "vous entériniez",
+			"qu'il/elle": "entérine",
+			"qu'ils/elles": "entérinent"
+		},
+		"imparfait": {
+			"j'": "entérinasse",
+			"que": "vous entérinassiez",
+			"qu'il/elle": "entérinât",
+			"qu'ils/elles": "entérinassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse entériné",
+			"que": "vous eussiez entériné",
+			"qu'il/elle": "eût entériné",
+			"qu'ils/elles": "eussent entériné"
+		},
+		"passé": {
+			"j'": "aie entériné",
+			"que": "vous ayez entériné",
+			"qu'il/elle": "ait entériné",
+			"qu'ils/elles": "aient entériné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "entérinerais",
+			"tu": "entérinerais",
+			"il/elle": "entérinerait",
+			"nous": "entérinerions",
+			"vous": "entérineriez",
+			"ils/elles": "entérineraient"
+		},
+		"passé première forme": {
+			"j'": "aurais entériné",
+			"tu": "aurais entériné",
+			"il/elle": "aurait entériné",
+			"nous": "aurions entériné",
+			"vous": "auriez entériné",
+			"ils/elles": "auraient entériné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse entériné",
+			"tu": "eusses entériné",
+			"il/elle": "eût entériné",
+			"nous": "eussions entériné",
+			"vous": "eussiez entériné",
+			"ils/elles": "eussent entériné"
+		}
+	},
+	"participe": {
+		"présent": { "entérinant": "" },
+		"passé composé": { "ayant": "entériné" },
+		"passé": {
+			"masc.sg.:": "entériné",
+			"masc.pl.:": "entérinés",
+			"fém.sg.:": "entérinée",
+			"fém.pl.:": "entérinées"
+		}
+	},
+	"imperatif": {
+		"présent": { "entérine": "", "entérinons": "", "entérinez": "" },
+		"passé": { "aie": "entériné", "ayons": "entériné", "ayez": "entériné" }
+	},
+	"infinitif": {
+		"présent": { "entériner": "" },
+		"passé": { "avoir": "entériné" }
+	}
+}

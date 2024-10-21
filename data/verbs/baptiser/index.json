@@ -1,0 +1,141 @@
+{
+	"name": "baptiser",
+	"definition": "baptize; baptise; christen; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se baptiser/ne pas baptiser/ne pas se baptiser",
+	"indicatif": {
+		"présent": {
+			"je": "baptise",
+			"tu": "baptises",
+			"il/elle": "baptise",
+			"nous": "baptisons",
+			"vous": "baptisez",
+			"ils/elles": "baptisent"
+		},
+		"imparfait": {
+			"je": "baptisais",
+			"tu": "baptisais",
+			"il/elle": "baptisait",
+			"nous": "baptisions",
+			"vous": "baptisiez",
+			"ils/elles": "baptisaient"
+		},
+		"futur": {
+			"je": "baptiserai",
+			"tu": "baptiseras",
+			"il/elle": "baptisera",
+			"nous": "baptiserons",
+			"vous": "baptiserez",
+			"ils/elles": "baptiseront"
+		},
+		"passé simple": {
+			"je": "baptisai",
+			"tu": "baptisas",
+			"il/elle": "baptisa",
+			"nous": "baptisâmes",
+			"vous": "baptisâtes",
+			"ils/elles": "baptisèrent"
+		},
+		"passé composé": {
+			"j'": "ai baptisé",
+			"tu": "as baptisé",
+			"il/elle": "a baptisé",
+			"nous": "avons baptisé",
+			"vous": "avez baptisé",
+			"ils/elles": "ont baptisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais baptisé",
+			"tu": "avais baptisé",
+			"il/elle": "avait baptisé",
+			"nous": "avions baptisé",
+			"vous": "aviez baptisé",
+			"ils/elles": "avaient baptisé"
+		},
+		"passé antérieur": {
+			"j'": "eus baptisé",
+			"tu": "eus baptisé",
+			"il/elle": "eut baptisé",
+			"nous": "eûmes baptisé",
+			"vous": "eûtes baptisé",
+			"ils/elles": "eurent baptisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai baptisé",
+			"tu": "auras baptisé",
+			"il/elle": "aura baptisé",
+			"nous": "aurons baptisé",
+			"vous": "aurez baptisé",
+			"ils/elles": "auront baptisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous baptisiez",
+			"qu'il/elle": "baptise",
+			"qu'ils/elles": "baptisent"
+		},
+		"imparfait": {
+			"que": "vous baptisassiez",
+			"qu'il/elle": "baptisât",
+			"qu'ils/elles": "baptisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse baptisé",
+			"que": "vous eussiez baptisé",
+			"qu'il/elle": "eût baptisé",
+			"qu'ils/elles": "eussent baptisé"
+		},
+		"passé": {
+			"j'": "aie baptisé",
+			"que": "vous ayez baptisé",
+			"qu'il/elle": "ait baptisé",
+			"qu'ils/elles": "aient baptisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "baptiserais",
+			"tu": "baptiserais",
+			"il/elle": "baptiserait",
+			"nous": "baptiserions",
+			"vous": "baptiseriez",
+			"ils/elles": "baptiseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais baptisé",
+			"tu": "aurais baptisé",
+			"il/elle": "aurait baptisé",
+			"nous": "aurions baptisé",
+			"vous": "auriez baptisé",
+			"ils/elles": "auraient baptisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse baptisé",
+			"tu": "eusses baptisé",
+			"il/elle": "eût baptisé",
+			"nous": "eussions baptisé",
+			"vous": "eussiez baptisé",
+			"ils/elles": "eussent baptisé"
+		}
+	},
+	"participe": {
+		"présent": { "baptisant": "" },
+		"passé composé": { "ayant": "baptisé" },
+		"passé": {
+			"masc.sg.:": "baptisé",
+			"masc.pl.:": "baptisés",
+			"fém.sg.:": "baptisée",
+			"fém.pl.:": "baptisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "baptise": "", "baptisons": "", "baptisez": "" },
+		"passé": { "aie": "baptisé", "ayons": "baptisé", "ayez": "baptisé" }
+	},
+	"infinitif": {
+		"présent": { "baptiser": "" },
+		"passé": { "avoir": "baptisé" }
+	}
+}

@@ -1,0 +1,143 @@
+{
+	"name": "expliciter",
+	"definition": "clarify; explain; elaborate on; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'expliciter/ne pas expliciter/ne pas s'expliciter",
+	"indicatif": {
+		"présent": {
+			"j'": "explicite",
+			"tu": "explicites",
+			"il/elle": "explicite",
+			"nous": "explicitons",
+			"vous": "explicitez",
+			"ils/elles": "explicitent"
+		},
+		"imparfait": {
+			"j'": "explicitais",
+			"tu": "explicitais",
+			"il/elle": "explicitait",
+			"nous": "explicitions",
+			"vous": "explicitiez",
+			"ils/elles": "explicitaient"
+		},
+		"futur": {
+			"j'": "expliciterai",
+			"tu": "expliciteras",
+			"il/elle": "explicitera",
+			"nous": "expliciterons",
+			"vous": "expliciterez",
+			"ils/elles": "expliciteront"
+		},
+		"passé simple": {
+			"j'": "explicitai",
+			"tu": "explicitas",
+			"il/elle": "explicita",
+			"nous": "explicitâmes",
+			"vous": "explicitâtes",
+			"ils/elles": "explicitèrent"
+		},
+		"passé composé": {
+			"j'": "ai explicité",
+			"tu": "as explicité",
+			"il/elle": "a explicité",
+			"nous": "avons explicité",
+			"vous": "avez explicité",
+			"ils/elles": "ont explicité"
+		},
+		"plus-que-parfait": {
+			"j'": "avais explicité",
+			"tu": "avais explicité",
+			"il/elle": "avait explicité",
+			"nous": "avions explicité",
+			"vous": "aviez explicité",
+			"ils/elles": "avaient explicité"
+		},
+		"passé antérieur": {
+			"j'": "eus explicité",
+			"tu": "eus explicité",
+			"il/elle": "eut explicité",
+			"nous": "eûmes explicité",
+			"vous": "eûtes explicité",
+			"ils/elles": "eurent explicité"
+		},
+		"futur antérieur": {
+			"j'": "aurai explicité",
+			"tu": "auras explicité",
+			"il/elle": "aura explicité",
+			"nous": "aurons explicité",
+			"vous": "aurez explicité",
+			"ils/elles": "auront explicité"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "explicite",
+			"que": "vous explicitiez",
+			"qu'il/elle": "explicite",
+			"qu'ils/elles": "explicitent"
+		},
+		"imparfait": {
+			"j'": "explicitasse",
+			"que": "vous explicitassiez",
+			"qu'il/elle": "explicitât",
+			"qu'ils/elles": "explicitassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse explicité",
+			"que": "vous eussiez explicité",
+			"qu'il/elle": "eût explicité",
+			"qu'ils/elles": "eussent explicité"
+		},
+		"passé": {
+			"j'": "aie explicité",
+			"que": "vous ayez explicité",
+			"qu'il/elle": "ait explicité",
+			"qu'ils/elles": "aient explicité"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "expliciterais",
+			"tu": "expliciterais",
+			"il/elle": "expliciterait",
+			"nous": "expliciterions",
+			"vous": "expliciteriez",
+			"ils/elles": "expliciteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais explicité",
+			"tu": "aurais explicité",
+			"il/elle": "aurait explicité",
+			"nous": "aurions explicité",
+			"vous": "auriez explicité",
+			"ils/elles": "auraient explicité"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse explicité",
+			"tu": "eusses explicité",
+			"il/elle": "eût explicité",
+			"nous": "eussions explicité",
+			"vous": "eussiez explicité",
+			"ils/elles": "eussent explicité"
+		}
+	},
+	"participe": {
+		"présent": { "explicitant": "" },
+		"passé composé": { "ayant": "explicité" },
+		"passé": {
+			"masc.sg.:": "explicité",
+			"masc.pl.:": "explicités",
+			"fém.sg.:": "explicitée",
+			"fém.pl.:": "explicitées"
+		}
+	},
+	"imperatif": {
+		"présent": { "explicite": "", "explicitons": "", "explicitez": "" },
+		"passé": { "aie": "explicité", "ayons": "explicité", "ayez": "explicité" }
+	},
+	"infinitif": {
+		"présent": { "expliciter": "" },
+		"passé": { "avoir": "explicité" }
+	}
+}

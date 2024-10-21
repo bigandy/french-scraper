@@ -1,0 +1,138 @@
+{
+	"name": "déplier",
+	"definition": "unfold; display; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se déplier/ne pas déplier/ne pas se déplier",
+	"indicatif": {
+		"présent": {
+			"je": "déplie",
+			"tu": "déplies",
+			"il/elle": "déplie",
+			"nous": "déplions",
+			"vous": "dépliez",
+			"ils/elles": "déplient"
+		},
+		"imparfait": {
+			"je": "dépliais",
+			"tu": "dépliais",
+			"il/elle": "dépliait",
+			"nous": "dépliions",
+			"vous": "dépliiez",
+			"ils/elles": "dépliaient"
+		},
+		"futur": {
+			"je": "déplierai",
+			"tu": "déplieras",
+			"il/elle": "dépliera",
+			"nous": "déplierons",
+			"vous": "déplierez",
+			"ils/elles": "déplieront"
+		},
+		"passé simple": {
+			"je": "dépliai",
+			"tu": "déplias",
+			"il/elle": "déplia",
+			"nous": "dépliâmes",
+			"vous": "dépliâtes",
+			"ils/elles": "déplièrent"
+		},
+		"passé composé": {
+			"j'": "ai déplié",
+			"tu": "as déplié",
+			"il/elle": "a déplié",
+			"nous": "avons déplié",
+			"vous": "avez déplié",
+			"ils/elles": "ont déplié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais déplié",
+			"tu": "avais déplié",
+			"il/elle": "avait déplié",
+			"nous": "avions déplié",
+			"vous": "aviez déplié",
+			"ils/elles": "avaient déplié"
+		},
+		"passé antérieur": {
+			"j'": "eus déplié",
+			"tu": "eus déplié",
+			"il/elle": "eut déplié",
+			"nous": "eûmes déplié",
+			"vous": "eûtes déplié",
+			"ils/elles": "eurent déplié"
+		},
+		"futur antérieur": {
+			"j'": "aurai déplié",
+			"tu": "auras déplié",
+			"il/elle": "aura déplié",
+			"nous": "aurons déplié",
+			"vous": "aurez déplié",
+			"ils/elles": "auront déplié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous dépliiez",
+			"qu'il/elle": "déplie",
+			"qu'ils/elles": "déplient"
+		},
+		"imparfait": {
+			"que": "vous dépliassiez",
+			"qu'il/elle": "dépliât",
+			"qu'ils/elles": "dépliassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse déplié",
+			"que": "vous eussiez déplié",
+			"qu'il/elle": "eût déplié",
+			"qu'ils/elles": "eussent déplié"
+		},
+		"passé": {
+			"j'": "aie déplié",
+			"que": "vous ayez déplié",
+			"qu'il/elle": "ait déplié",
+			"qu'ils/elles": "aient déplié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "déplierais",
+			"tu": "déplierais",
+			"il/elle": "déplierait",
+			"nous": "déplierions",
+			"vous": "déplieriez",
+			"ils/elles": "déplieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais déplié",
+			"tu": "aurais déplié",
+			"il/elle": "aurait déplié",
+			"nous": "aurions déplié",
+			"vous": "auriez déplié",
+			"ils/elles": "auraient déplié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse déplié",
+			"tu": "eusses déplié",
+			"il/elle": "eût déplié",
+			"nous": "eussions déplié",
+			"vous": "eussiez déplié",
+			"ils/elles": "eussent déplié"
+		}
+	},
+	"participe": {
+		"présent": { "dépliant": "" },
+		"passé composé": { "ayant": "déplié" },
+		"passé": {
+			"masc.sg.:": "déplié",
+			"masc.pl.:": "dépliés",
+			"fém.sg.:": "dépliée",
+			"fém.pl.:": "dépliées"
+		}
+	},
+	"imperatif": {
+		"présent": { "déplie": "", "déplions": "", "dépliez": "" },
+		"passé": { "aie": "déplié", "ayons": "déplié", "ayez": "déplié" }
+	},
+	"infinitif": { "présent": { "déplier": "" }, "passé": { "avoir": "déplié" } }
+}

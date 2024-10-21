@@ -1,0 +1,143 @@
+{
+	"name": "infléchir",
+	"definition": "influence; deflect; flex; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "s'infléchir/ne pas infléchir/ne pas s'infléchir",
+	"indicatif": {
+		"présent": {
+			"j'": "infléchis",
+			"tu": "infléchis",
+			"il/elle": "infléchit",
+			"nous": "infléchissons",
+			"vous": "infléchissez",
+			"ils/elles": "infléchissent"
+		},
+		"imparfait": {
+			"j'": "infléchissais",
+			"tu": "infléchissais",
+			"il/elle": "infléchissait",
+			"nous": "infléchissions",
+			"vous": "infléchissiez",
+			"ils/elles": "infléchissaient"
+		},
+		"futur": {
+			"j'": "infléchirai",
+			"tu": "infléchiras",
+			"il/elle": "infléchira",
+			"nous": "infléchirons",
+			"vous": "infléchirez",
+			"ils/elles": "infléchiront"
+		},
+		"passé simple": {
+			"j'": "infléchis",
+			"tu": "infléchis",
+			"il/elle": "infléchit",
+			"nous": "infléchîmes",
+			"vous": "infléchîtes",
+			"ils/elles": "infléchirent"
+		},
+		"passé composé": {
+			"j'": "ai infléchi",
+			"tu": "as infléchi",
+			"il/elle": "a infléchi",
+			"nous": "avons infléchi",
+			"vous": "avez infléchi",
+			"ils/elles": "ont infléchi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais infléchi",
+			"tu": "avais infléchi",
+			"il/elle": "avait infléchi",
+			"nous": "avions infléchi",
+			"vous": "aviez infléchi",
+			"ils/elles": "avaient infléchi"
+		},
+		"passé antérieur": {
+			"j'": "eus infléchi",
+			"tu": "eus infléchi",
+			"il/elle": "eut infléchi",
+			"nous": "eûmes infléchi",
+			"vous": "eûtes infléchi",
+			"ils/elles": "eurent infléchi"
+		},
+		"futur antérieur": {
+			"j'": "aurai infléchi",
+			"tu": "auras infléchi",
+			"il/elle": "aura infléchi",
+			"nous": "aurons infléchi",
+			"vous": "aurez infléchi",
+			"ils/elles": "auront infléchi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "infléchisse",
+			"que": "vous infléchissiez",
+			"qu'il/elle": "infléchisse",
+			"qu'ils/elles": "infléchissent"
+		},
+		"imparfait": {
+			"j'": "infléchisse",
+			"que": "vous infléchissiez",
+			"qu'il/elle": "infléchît",
+			"qu'ils/elles": "infléchissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse infléchi",
+			"que": "vous eussiez infléchi",
+			"qu'il/elle": "eût infléchi",
+			"qu'ils/elles": "eussent infléchi"
+		},
+		"passé": {
+			"j'": "aie infléchi",
+			"que": "vous ayez infléchi",
+			"qu'il/elle": "ait infléchi",
+			"qu'ils/elles": "aient infléchi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "infléchirais",
+			"tu": "infléchirais",
+			"il/elle": "infléchirait",
+			"nous": "infléchirions",
+			"vous": "infléchiriez",
+			"ils/elles": "infléchiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais infléchi",
+			"tu": "aurais infléchi",
+			"il/elle": "aurait infléchi",
+			"nous": "aurions infléchi",
+			"vous": "auriez infléchi",
+			"ils/elles": "auraient infléchi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse infléchi",
+			"tu": "eusses infléchi",
+			"il/elle": "eût infléchi",
+			"nous": "eussions infléchi",
+			"vous": "eussiez infléchi",
+			"ils/elles": "eussent infléchi"
+		}
+	},
+	"participe": {
+		"présent": { "infléchissant": "" },
+		"passé composé": { "ayant": "infléchi" },
+		"passé": {
+			"masc.sg.:": "infléchi",
+			"masc.pl.:": "infléchis",
+			"fém.sg.:": "infléchie",
+			"fém.pl.:": "infléchies"
+		}
+	},
+	"imperatif": {
+		"présent": { "infléchis": "", "infléchissons": "", "infléchissez": "" },
+		"passé": { "aie": "infléchi", "ayons": "infléchi", "ayez": "infléchi" }
+	},
+	"infinitif": {
+		"présent": { "infléchir": "" },
+		"passé": { "avoir": "infléchi" }
+	}
+}

@@ -1,0 +1,138 @@
+{
+	"name": "candir",
+	"definition": "candy; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se candir/ne pas candir/ne pas se candir",
+	"indicatif": {
+		"présent": {
+			"je": "candis",
+			"tu": "candis",
+			"il/elle": "candit",
+			"nous": "candissons",
+			"vous": "candissez",
+			"ils/elles": "candissent"
+		},
+		"imparfait": {
+			"je": "candissais",
+			"tu": "candissais",
+			"il/elle": "candissait",
+			"nous": "candissions",
+			"vous": "candissiez",
+			"ils/elles": "candissaient"
+		},
+		"futur": {
+			"je": "candirai",
+			"tu": "candiras",
+			"il/elle": "candira",
+			"nous": "candirons",
+			"vous": "candirez",
+			"ils/elles": "candiront"
+		},
+		"passé simple": {
+			"je": "candis",
+			"tu": "candis",
+			"il/elle": "candit",
+			"nous": "candîmes",
+			"vous": "candîtes",
+			"ils/elles": "candirent"
+		},
+		"passé composé": {
+			"j'": "ai candi",
+			"tu": "as candi",
+			"il/elle": "a candi",
+			"nous": "avons candi",
+			"vous": "avez candi",
+			"ils/elles": "ont candi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais candi",
+			"tu": "avais candi",
+			"il/elle": "avait candi",
+			"nous": "avions candi",
+			"vous": "aviez candi",
+			"ils/elles": "avaient candi"
+		},
+		"passé antérieur": {
+			"j'": "eus candi",
+			"tu": "eus candi",
+			"il/elle": "eut candi",
+			"nous": "eûmes candi",
+			"vous": "eûtes candi",
+			"ils/elles": "eurent candi"
+		},
+		"futur antérieur": {
+			"j'": "aurai candi",
+			"tu": "auras candi",
+			"il/elle": "aura candi",
+			"nous": "aurons candi",
+			"vous": "aurez candi",
+			"ils/elles": "auront candi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous candissiez",
+			"qu'il/elle": "candisse",
+			"qu'ils/elles": "candissent"
+		},
+		"imparfait": {
+			"que": "vous candissiez",
+			"qu'il/elle": "candît",
+			"qu'ils/elles": "candissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse candi",
+			"que": "vous eussiez candi",
+			"qu'il/elle": "eût candi",
+			"qu'ils/elles": "eussent candi"
+		},
+		"passé": {
+			"j'": "aie candi",
+			"que": "vous ayez candi",
+			"qu'il/elle": "ait candi",
+			"qu'ils/elles": "aient candi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "candirais",
+			"tu": "candirais",
+			"il/elle": "candirait",
+			"nous": "candirions",
+			"vous": "candiriez",
+			"ils/elles": "candiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais candi",
+			"tu": "aurais candi",
+			"il/elle": "aurait candi",
+			"nous": "aurions candi",
+			"vous": "auriez candi",
+			"ils/elles": "auraient candi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse candi",
+			"tu": "eusses candi",
+			"il/elle": "eût candi",
+			"nous": "eussions candi",
+			"vous": "eussiez candi",
+			"ils/elles": "eussent candi"
+		}
+	},
+	"participe": {
+		"présent": { "candissant": "" },
+		"passé composé": { "ayant": "candi" },
+		"passé": {
+			"masc.sg.:": "candi",
+			"masc.pl.:": "candis",
+			"fém.sg.:": "candie",
+			"fém.pl.:": "candies"
+		}
+	},
+	"imperatif": {
+		"présent": { "candis": "", "candissons": "", "candissez": "" },
+		"passé": { "aie": "candi", "ayons": "candi", "ayez": "candi" }
+	},
+	"infinitif": { "présent": { "candir": "" }, "passé": { "avoir": "candi" } }
+}

@@ -1,0 +1,141 @@
+{
+	"name": "numériser",
+	"definition": "scan; digitize; digitise; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se numériser/ne pas numériser/ne pas se numériser",
+	"indicatif": {
+		"présent": {
+			"je": "numérise",
+			"tu": "numérises",
+			"il/elle": "numérise",
+			"nous": "numérisons",
+			"vous": "numérisez",
+			"ils/elles": "numérisent"
+		},
+		"imparfait": {
+			"je": "numérisais",
+			"tu": "numérisais",
+			"il/elle": "numérisait",
+			"nous": "numérisions",
+			"vous": "numérisiez",
+			"ils/elles": "numérisaient"
+		},
+		"futur": {
+			"je": "numériserai",
+			"tu": "numériseras",
+			"il/elle": "numérisera",
+			"nous": "numériserons",
+			"vous": "numériserez",
+			"ils/elles": "numériseront"
+		},
+		"passé simple": {
+			"je": "numérisai",
+			"tu": "numérisas",
+			"il/elle": "numérisa",
+			"nous": "numérisâmes",
+			"vous": "numérisâtes",
+			"ils/elles": "numérisèrent"
+		},
+		"passé composé": {
+			"j'": "ai numérisé",
+			"tu": "as numérisé",
+			"il/elle": "a numérisé",
+			"nous": "avons numérisé",
+			"vous": "avez numérisé",
+			"ils/elles": "ont numérisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais numérisé",
+			"tu": "avais numérisé",
+			"il/elle": "avait numérisé",
+			"nous": "avions numérisé",
+			"vous": "aviez numérisé",
+			"ils/elles": "avaient numérisé"
+		},
+		"passé antérieur": {
+			"j'": "eus numérisé",
+			"tu": "eus numérisé",
+			"il/elle": "eut numérisé",
+			"nous": "eûmes numérisé",
+			"vous": "eûtes numérisé",
+			"ils/elles": "eurent numérisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai numérisé",
+			"tu": "auras numérisé",
+			"il/elle": "aura numérisé",
+			"nous": "aurons numérisé",
+			"vous": "aurez numérisé",
+			"ils/elles": "auront numérisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous numérisiez",
+			"qu'il/elle": "numérise",
+			"qu'ils/elles": "numérisent"
+		},
+		"imparfait": {
+			"que": "vous numérisassiez",
+			"qu'il/elle": "numérisât",
+			"qu'ils/elles": "numérisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse numérisé",
+			"que": "vous eussiez numérisé",
+			"qu'il/elle": "eût numérisé",
+			"qu'ils/elles": "eussent numérisé"
+		},
+		"passé": {
+			"j'": "aie numérisé",
+			"que": "vous ayez numérisé",
+			"qu'il/elle": "ait numérisé",
+			"qu'ils/elles": "aient numérisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "numériserais",
+			"tu": "numériserais",
+			"il/elle": "numériserait",
+			"nous": "numériserions",
+			"vous": "numériseriez",
+			"ils/elles": "numériseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais numérisé",
+			"tu": "aurais numérisé",
+			"il/elle": "aurait numérisé",
+			"nous": "aurions numérisé",
+			"vous": "auriez numérisé",
+			"ils/elles": "auraient numérisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse numérisé",
+			"tu": "eusses numérisé",
+			"il/elle": "eût numérisé",
+			"nous": "eussions numérisé",
+			"vous": "eussiez numérisé",
+			"ils/elles": "eussent numérisé"
+		}
+	},
+	"participe": {
+		"présent": { "numérisant": "" },
+		"passé composé": { "ayant": "numérisé" },
+		"passé": {
+			"masc.sg.:": "numérisé",
+			"masc.pl.:": "numérisés",
+			"fém.sg.:": "numérisée",
+			"fém.pl.:": "numérisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "numérise": "", "numérisons": "", "numérisez": "" },
+		"passé": { "aie": "numérisé", "ayons": "numérisé", "ayez": "numérisé" }
+	},
+	"infinitif": {
+		"présent": { "numériser": "" },
+		"passé": { "avoir": "numérisé" }
+	}
+}

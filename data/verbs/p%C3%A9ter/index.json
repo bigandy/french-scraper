@@ -1,0 +1,138 @@
+{
+	"name": "péter",
+	"definition": "fart; break; blow up; ...",
+	"model": "répéter",
+	"auxiliary": "avoir",
+	"otherForms": "se péter/ne pas péter/ne pas se péter",
+	"indicatif": {
+		"présent": {
+			"je": "pète",
+			"tu": "pètes",
+			"il/elle": "pète",
+			"nous": "pétons",
+			"vous": "pétez",
+			"ils/elles": "pètent"
+		},
+		"imparfait": {
+			"je": "pétais",
+			"tu": "pétais",
+			"il/elle": "pétait",
+			"nous": "pétions",
+			"vous": "pétiez",
+			"ils/elles": "pétaient"
+		},
+		"futur": {
+			"je": "péterai",
+			"tu": "péteras",
+			"il/elle": "pétera",
+			"nous": "péterons",
+			"vous": "péterez",
+			"ils/elles": "péteront"
+		},
+		"passé simple": {
+			"je": "pétai",
+			"tu": "pétas",
+			"il/elle": "péta",
+			"nous": "pétâmes",
+			"vous": "pétâtes",
+			"ils/elles": "pétèrent"
+		},
+		"passé composé": {
+			"j'": "ai pété",
+			"tu": "as pété",
+			"il/elle": "a pété",
+			"nous": "avons pété",
+			"vous": "avez pété",
+			"ils/elles": "ont pété"
+		},
+		"plus-que-parfait": {
+			"j'": "avais pété",
+			"tu": "avais pété",
+			"il/elle": "avait pété",
+			"nous": "avions pété",
+			"vous": "aviez pété",
+			"ils/elles": "avaient pété"
+		},
+		"passé antérieur": {
+			"j'": "eus pété",
+			"tu": "eus pété",
+			"il/elle": "eut pété",
+			"nous": "eûmes pété",
+			"vous": "eûtes pété",
+			"ils/elles": "eurent pété"
+		},
+		"futur antérieur": {
+			"j'": "aurai pété",
+			"tu": "auras pété",
+			"il/elle": "aura pété",
+			"nous": "aurons pété",
+			"vous": "aurez pété",
+			"ils/elles": "auront pété"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous pétiez",
+			"qu'il/elle": "pète",
+			"qu'ils/elles": "pètent"
+		},
+		"imparfait": {
+			"que": "vous pétassiez",
+			"qu'il/elle": "pétât",
+			"qu'ils/elles": "pétassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse pété",
+			"que": "vous eussiez pété",
+			"qu'il/elle": "eût pété",
+			"qu'ils/elles": "eussent pété"
+		},
+		"passé": {
+			"j'": "aie pété",
+			"que": "vous ayez pété",
+			"qu'il/elle": "ait pété",
+			"qu'ils/elles": "aient pété"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "péterais",
+			"tu": "péterais",
+			"il/elle": "péterait",
+			"nous": "péterions",
+			"vous": "péteriez",
+			"ils/elles": "péteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais pété",
+			"tu": "aurais pété",
+			"il/elle": "aurait pété",
+			"nous": "aurions pété",
+			"vous": "auriez pété",
+			"ils/elles": "auraient pété"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse pété",
+			"tu": "eusses pété",
+			"il/elle": "eût pété",
+			"nous": "eussions pété",
+			"vous": "eussiez pété",
+			"ils/elles": "eussent pété"
+		}
+	},
+	"participe": {
+		"présent": { "pétant": "" },
+		"passé composé": { "ayant": "pété" },
+		"passé": {
+			"masc.sg.:": "pété",
+			"masc.pl.:": "pétés",
+			"fém.sg.:": "pétée",
+			"fém.pl.:": "pétées"
+		}
+	},
+	"imperatif": {
+		"présent": { "pète": "", "pétons": "", "pétez": "" },
+		"passé": { "aie": "pété", "ayons": "pété", "ayez": "pété" }
+	},
+	"infinitif": { "présent": { "péter": "" }, "passé": { "avoir": "pété" } }
+}

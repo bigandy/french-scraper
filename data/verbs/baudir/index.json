@@ -1,0 +1,138 @@
+{
+	"name": "baudir",
+	"definition": "",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se baudir/ne pas baudir/ne pas se baudir",
+	"indicatif": {
+		"présent": {
+			"je": "baudis",
+			"tu": "baudis",
+			"il/elle": "baudit",
+			"nous": "baudissons",
+			"vous": "baudissez",
+			"ils/elles": "baudissent"
+		},
+		"imparfait": {
+			"je": "baudissais",
+			"tu": "baudissais",
+			"il/elle": "baudissait",
+			"nous": "baudissions",
+			"vous": "baudissiez",
+			"ils/elles": "baudissaient"
+		},
+		"futur": {
+			"je": "baudirai",
+			"tu": "baudiras",
+			"il/elle": "baudira",
+			"nous": "baudirons",
+			"vous": "baudirez",
+			"ils/elles": "baudiront"
+		},
+		"passé simple": {
+			"je": "baudis",
+			"tu": "baudis",
+			"il/elle": "baudit",
+			"nous": "baudîmes",
+			"vous": "baudîtes",
+			"ils/elles": "baudirent"
+		},
+		"passé composé": {
+			"j'": "ai baudi",
+			"tu": "as baudi",
+			"il/elle": "a baudi",
+			"nous": "avons baudi",
+			"vous": "avez baudi",
+			"ils/elles": "ont baudi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais baudi",
+			"tu": "avais baudi",
+			"il/elle": "avait baudi",
+			"nous": "avions baudi",
+			"vous": "aviez baudi",
+			"ils/elles": "avaient baudi"
+		},
+		"passé antérieur": {
+			"j'": "eus baudi",
+			"tu": "eus baudi",
+			"il/elle": "eut baudi",
+			"nous": "eûmes baudi",
+			"vous": "eûtes baudi",
+			"ils/elles": "eurent baudi"
+		},
+		"futur antérieur": {
+			"j'": "aurai baudi",
+			"tu": "auras baudi",
+			"il/elle": "aura baudi",
+			"nous": "aurons baudi",
+			"vous": "aurez baudi",
+			"ils/elles": "auront baudi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous baudissiez",
+			"qu'il/elle": "baudisse",
+			"qu'ils/elles": "baudissent"
+		},
+		"imparfait": {
+			"que": "vous baudissiez",
+			"qu'il/elle": "baudît",
+			"qu'ils/elles": "baudissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse baudi",
+			"que": "vous eussiez baudi",
+			"qu'il/elle": "eût baudi",
+			"qu'ils/elles": "eussent baudi"
+		},
+		"passé": {
+			"j'": "aie baudi",
+			"que": "vous ayez baudi",
+			"qu'il/elle": "ait baudi",
+			"qu'ils/elles": "aient baudi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "baudirais",
+			"tu": "baudirais",
+			"il/elle": "baudirait",
+			"nous": "baudirions",
+			"vous": "baudiriez",
+			"ils/elles": "baudiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais baudi",
+			"tu": "aurais baudi",
+			"il/elle": "aurait baudi",
+			"nous": "aurions baudi",
+			"vous": "auriez baudi",
+			"ils/elles": "auraient baudi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse baudi",
+			"tu": "eusses baudi",
+			"il/elle": "eût baudi",
+			"nous": "eussions baudi",
+			"vous": "eussiez baudi",
+			"ils/elles": "eussent baudi"
+		}
+	},
+	"participe": {
+		"présent": { "baudissant": "" },
+		"passé composé": { "ayant": "baudi" },
+		"passé": {
+			"masc.sg.:": "baudi",
+			"masc.pl.:": "baudis",
+			"fém.sg.:": "baudie",
+			"fém.pl.:": "baudies"
+		}
+	},
+	"imperatif": {
+		"présent": { "baudis": "", "baudissons": "", "baudissez": "" },
+		"passé": { "aie": "baudi", "ayons": "baudi", "ayez": "baudi" }
+	},
+	"infinitif": { "présent": { "baudir": "" }, "passé": { "avoir": "baudi" } }
+}

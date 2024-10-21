@@ -1,0 +1,141 @@
+{
+	"name": "rétracter",
+	"definition": "retract; withdraw; recant; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se rétracter/ne pas rétracter/ne pas se rétracter",
+	"indicatif": {
+		"présent": {
+			"je": "rétracte",
+			"tu": "rétractes",
+			"il/elle": "rétracte",
+			"nous": "rétractons",
+			"vous": "rétractez",
+			"ils/elles": "rétractent"
+		},
+		"imparfait": {
+			"je": "rétractais",
+			"tu": "rétractais",
+			"il/elle": "rétractait",
+			"nous": "rétractions",
+			"vous": "rétractiez",
+			"ils/elles": "rétractaient"
+		},
+		"futur": {
+			"je": "rétracterai",
+			"tu": "rétracteras",
+			"il/elle": "rétractera",
+			"nous": "rétracterons",
+			"vous": "rétracterez",
+			"ils/elles": "rétracteront"
+		},
+		"passé simple": {
+			"je": "rétractai",
+			"tu": "rétractas",
+			"il/elle": "rétracta",
+			"nous": "rétractâmes",
+			"vous": "rétractâtes",
+			"ils/elles": "rétractèrent"
+		},
+		"passé composé": {
+			"j'": "ai rétracté",
+			"tu": "as rétracté",
+			"il/elle": "a rétracté",
+			"nous": "avons rétracté",
+			"vous": "avez rétracté",
+			"ils/elles": "ont rétracté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais rétracté",
+			"tu": "avais rétracté",
+			"il/elle": "avait rétracté",
+			"nous": "avions rétracté",
+			"vous": "aviez rétracté",
+			"ils/elles": "avaient rétracté"
+		},
+		"passé antérieur": {
+			"j'": "eus rétracté",
+			"tu": "eus rétracté",
+			"il/elle": "eut rétracté",
+			"nous": "eûmes rétracté",
+			"vous": "eûtes rétracté",
+			"ils/elles": "eurent rétracté"
+		},
+		"futur antérieur": {
+			"j'": "aurai rétracté",
+			"tu": "auras rétracté",
+			"il/elle": "aura rétracté",
+			"nous": "aurons rétracté",
+			"vous": "aurez rétracté",
+			"ils/elles": "auront rétracté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous rétractiez",
+			"qu'il/elle": "rétracte",
+			"qu'ils/elles": "rétractent"
+		},
+		"imparfait": {
+			"que": "vous rétractassiez",
+			"qu'il/elle": "rétractât",
+			"qu'ils/elles": "rétractassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse rétracté",
+			"que": "vous eussiez rétracté",
+			"qu'il/elle": "eût rétracté",
+			"qu'ils/elles": "eussent rétracté"
+		},
+		"passé": {
+			"j'": "aie rétracté",
+			"que": "vous ayez rétracté",
+			"qu'il/elle": "ait rétracté",
+			"qu'ils/elles": "aient rétracté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "rétracterais",
+			"tu": "rétracterais",
+			"il/elle": "rétracterait",
+			"nous": "rétracterions",
+			"vous": "rétracteriez",
+			"ils/elles": "rétracteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais rétracté",
+			"tu": "aurais rétracté",
+			"il/elle": "aurait rétracté",
+			"nous": "aurions rétracté",
+			"vous": "auriez rétracté",
+			"ils/elles": "auraient rétracté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse rétracté",
+			"tu": "eusses rétracté",
+			"il/elle": "eût rétracté",
+			"nous": "eussions rétracté",
+			"vous": "eussiez rétracté",
+			"ils/elles": "eussent rétracté"
+		}
+	},
+	"participe": {
+		"présent": { "rétractant": "" },
+		"passé composé": { "ayant": "rétracté" },
+		"passé": {
+			"masc.sg.:": "rétracté",
+			"masc.pl.:": "rétractés",
+			"fém.sg.:": "rétractée",
+			"fém.pl.:": "rétractées"
+		}
+	},
+	"imperatif": {
+		"présent": { "rétracte": "", "rétractons": "", "rétractez": "" },
+		"passé": { "aie": "rétracté", "ayons": "rétracté", "ayez": "rétracté" }
+	},
+	"infinitif": {
+		"présent": { "rétracter": "" },
+		"passé": { "avoir": "rétracté" }
+	}
+}

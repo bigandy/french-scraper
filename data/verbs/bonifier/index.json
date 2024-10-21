@@ -1,0 +1,141 @@
+{
+	"name": "bonifier",
+	"definition": "improve; enhance; upgrade; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se bonifier/ne pas bonifier/ne pas se bonifier",
+	"indicatif": {
+		"présent": {
+			"je": "bonifie",
+			"tu": "bonifies",
+			"il/elle": "bonifie",
+			"nous": "bonifions",
+			"vous": "bonifiez",
+			"ils/elles": "bonifient"
+		},
+		"imparfait": {
+			"je": "bonifiais",
+			"tu": "bonifiais",
+			"il/elle": "bonifiait",
+			"nous": "bonifiions",
+			"vous": "bonifiiez",
+			"ils/elles": "bonifiaient"
+		},
+		"futur": {
+			"je": "bonifierai",
+			"tu": "bonifieras",
+			"il/elle": "bonifiera",
+			"nous": "bonifierons",
+			"vous": "bonifierez",
+			"ils/elles": "bonifieront"
+		},
+		"passé simple": {
+			"je": "bonifiai",
+			"tu": "bonifias",
+			"il/elle": "bonifia",
+			"nous": "bonifiâmes",
+			"vous": "bonifiâtes",
+			"ils/elles": "bonifièrent"
+		},
+		"passé composé": {
+			"j'": "ai bonifié",
+			"tu": "as bonifié",
+			"il/elle": "a bonifié",
+			"nous": "avons bonifié",
+			"vous": "avez bonifié",
+			"ils/elles": "ont bonifié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais bonifié",
+			"tu": "avais bonifié",
+			"il/elle": "avait bonifié",
+			"nous": "avions bonifié",
+			"vous": "aviez bonifié",
+			"ils/elles": "avaient bonifié"
+		},
+		"passé antérieur": {
+			"j'": "eus bonifié",
+			"tu": "eus bonifié",
+			"il/elle": "eut bonifié",
+			"nous": "eûmes bonifié",
+			"vous": "eûtes bonifié",
+			"ils/elles": "eurent bonifié"
+		},
+		"futur antérieur": {
+			"j'": "aurai bonifié",
+			"tu": "auras bonifié",
+			"il/elle": "aura bonifié",
+			"nous": "aurons bonifié",
+			"vous": "aurez bonifié",
+			"ils/elles": "auront bonifié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous bonifiiez",
+			"qu'il/elle": "bonifie",
+			"qu'ils/elles": "bonifient"
+		},
+		"imparfait": {
+			"que": "vous bonifiassiez",
+			"qu'il/elle": "bonifiât",
+			"qu'ils/elles": "bonifiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse bonifié",
+			"que": "vous eussiez bonifié",
+			"qu'il/elle": "eût bonifié",
+			"qu'ils/elles": "eussent bonifié"
+		},
+		"passé": {
+			"j'": "aie bonifié",
+			"que": "vous ayez bonifié",
+			"qu'il/elle": "ait bonifié",
+			"qu'ils/elles": "aient bonifié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "bonifierais",
+			"tu": "bonifierais",
+			"il/elle": "bonifierait",
+			"nous": "bonifierions",
+			"vous": "bonifieriez",
+			"ils/elles": "bonifieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais bonifié",
+			"tu": "aurais bonifié",
+			"il/elle": "aurait bonifié",
+			"nous": "aurions bonifié",
+			"vous": "auriez bonifié",
+			"ils/elles": "auraient bonifié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse bonifié",
+			"tu": "eusses bonifié",
+			"il/elle": "eût bonifié",
+			"nous": "eussions bonifié",
+			"vous": "eussiez bonifié",
+			"ils/elles": "eussent bonifié"
+		}
+	},
+	"participe": {
+		"présent": { "bonifiant": "" },
+		"passé composé": { "ayant": "bonifié" },
+		"passé": {
+			"masc.sg.:": "bonifié",
+			"masc.pl.:": "bonifiés",
+			"fém.sg.:": "bonifiée",
+			"fém.pl.:": "bonifiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "bonifie": "", "bonifions": "", "bonifiez": "" },
+		"passé": { "aie": "bonifié", "ayons": "bonifié", "ayez": "bonifié" }
+	},
+	"infinitif": {
+		"présent": { "bonifier": "" },
+		"passé": { "avoir": "bonifié" }
+	}
+}

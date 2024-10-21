@@ -1,0 +1,138 @@
+{
+	"name": "déjeter",
+	"definition": "bend; ...",
+	"model": "jeter",
+	"auxiliary": "avoir",
+	"otherForms": "se déjeter/ne pas déjeter/ne pas se déjeter",
+	"indicatif": {
+		"présent": {
+			"je": "déjette",
+			"tu": "déjettes",
+			"il/elle": "déjette",
+			"nous": "déjetons",
+			"vous": "déjetez",
+			"ils/elles": "déjettent"
+		},
+		"imparfait": {
+			"je": "déjetais",
+			"tu": "déjetais",
+			"il/elle": "déjetait",
+			"nous": "déjetions",
+			"vous": "déjetiez",
+			"ils/elles": "déjetaient"
+		},
+		"futur": {
+			"je": "déjetterai",
+			"tu": "déjetteras",
+			"il/elle": "déjettera",
+			"nous": "déjetterons",
+			"vous": "déjetterez",
+			"ils/elles": "déjetteront"
+		},
+		"passé simple": {
+			"je": "déjetai",
+			"tu": "déjetas",
+			"il/elle": "déjeta",
+			"nous": "déjetâmes",
+			"vous": "déjetâtes",
+			"ils/elles": "déjetèrent"
+		},
+		"passé composé": {
+			"j'": "ai déjeté",
+			"tu": "as déjeté",
+			"il/elle": "a déjeté",
+			"nous": "avons déjeté",
+			"vous": "avez déjeté",
+			"ils/elles": "ont déjeté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais déjeté",
+			"tu": "avais déjeté",
+			"il/elle": "avait déjeté",
+			"nous": "avions déjeté",
+			"vous": "aviez déjeté",
+			"ils/elles": "avaient déjeté"
+		},
+		"passé antérieur": {
+			"j'": "eus déjeté",
+			"tu": "eus déjeté",
+			"il/elle": "eut déjeté",
+			"nous": "eûmes déjeté",
+			"vous": "eûtes déjeté",
+			"ils/elles": "eurent déjeté"
+		},
+		"futur antérieur": {
+			"j'": "aurai déjeté",
+			"tu": "auras déjeté",
+			"il/elle": "aura déjeté",
+			"nous": "aurons déjeté",
+			"vous": "aurez déjeté",
+			"ils/elles": "auront déjeté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous déjetiez",
+			"qu'il/elle": "déjette",
+			"qu'ils/elles": "déjettent"
+		},
+		"imparfait": {
+			"que": "vous déjetassiez",
+			"qu'il/elle": "déjetât",
+			"qu'ils/elles": "déjetassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse déjeté",
+			"que": "vous eussiez déjeté",
+			"qu'il/elle": "eût déjeté",
+			"qu'ils/elles": "eussent déjeté"
+		},
+		"passé": {
+			"j'": "aie déjeté",
+			"que": "vous ayez déjeté",
+			"qu'il/elle": "ait déjeté",
+			"qu'ils/elles": "aient déjeté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "déjetterais",
+			"tu": "déjetterais",
+			"il/elle": "déjetterait",
+			"nous": "déjetterions",
+			"vous": "déjetteriez",
+			"ils/elles": "déjetteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais déjeté",
+			"tu": "aurais déjeté",
+			"il/elle": "aurait déjeté",
+			"nous": "aurions déjeté",
+			"vous": "auriez déjeté",
+			"ils/elles": "auraient déjeté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse déjeté",
+			"tu": "eusses déjeté",
+			"il/elle": "eût déjeté",
+			"nous": "eussions déjeté",
+			"vous": "eussiez déjeté",
+			"ils/elles": "eussent déjeté"
+		}
+	},
+	"participe": {
+		"présent": { "déjetant": "" },
+		"passé composé": { "ayant": "déjeté" },
+		"passé": {
+			"masc.sg.:": "déjeté",
+			"masc.pl.:": "déjetés",
+			"fém.sg.:": "déjetée",
+			"fém.pl.:": "déjetées"
+		}
+	},
+	"imperatif": {
+		"présent": { "déjette": "", "déjetons": "", "déjetez": "" },
+		"passé": { "aie": "déjeté", "ayons": "déjeté", "ayez": "déjeté" }
+	},
+	"infinitif": { "présent": { "déjeter": "" }, "passé": { "avoir": "déjeté" } }
+}

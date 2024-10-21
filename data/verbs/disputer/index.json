@@ -1,0 +1,141 @@
+{
+	"name": "disputer",
+	"definition": "argue; fight; play; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se disputer/ne pas disputer/ne pas se disputer",
+	"indicatif": {
+		"présent": {
+			"je": "dispute",
+			"tu": "disputes",
+			"il/elle": "dispute",
+			"nous": "disputons",
+			"vous": "disputez",
+			"ils/elles": "disputent"
+		},
+		"imparfait": {
+			"je": "disputais",
+			"tu": "disputais",
+			"il/elle": "disputait",
+			"nous": "disputions",
+			"vous": "disputiez",
+			"ils/elles": "disputaient"
+		},
+		"futur": {
+			"je": "disputerai",
+			"tu": "disputeras",
+			"il/elle": "disputera",
+			"nous": "disputerons",
+			"vous": "disputerez",
+			"ils/elles": "disputeront"
+		},
+		"passé simple": {
+			"je": "disputai",
+			"tu": "disputas",
+			"il/elle": "disputa",
+			"nous": "disputâmes",
+			"vous": "disputâtes",
+			"ils/elles": "disputèrent"
+		},
+		"passé composé": {
+			"j'": "ai disputé",
+			"tu": "as disputé",
+			"il/elle": "a disputé",
+			"nous": "avons disputé",
+			"vous": "avez disputé",
+			"ils/elles": "ont disputé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais disputé",
+			"tu": "avais disputé",
+			"il/elle": "avait disputé",
+			"nous": "avions disputé",
+			"vous": "aviez disputé",
+			"ils/elles": "avaient disputé"
+		},
+		"passé antérieur": {
+			"j'": "eus disputé",
+			"tu": "eus disputé",
+			"il/elle": "eut disputé",
+			"nous": "eûmes disputé",
+			"vous": "eûtes disputé",
+			"ils/elles": "eurent disputé"
+		},
+		"futur antérieur": {
+			"j'": "aurai disputé",
+			"tu": "auras disputé",
+			"il/elle": "aura disputé",
+			"nous": "aurons disputé",
+			"vous": "aurez disputé",
+			"ils/elles": "auront disputé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous disputiez",
+			"qu'il/elle": "dispute",
+			"qu'ils/elles": "disputent"
+		},
+		"imparfait": {
+			"que": "vous disputassiez",
+			"qu'il/elle": "disputât",
+			"qu'ils/elles": "disputassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse disputé",
+			"que": "vous eussiez disputé",
+			"qu'il/elle": "eût disputé",
+			"qu'ils/elles": "eussent disputé"
+		},
+		"passé": {
+			"j'": "aie disputé",
+			"que": "vous ayez disputé",
+			"qu'il/elle": "ait disputé",
+			"qu'ils/elles": "aient disputé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "disputerais",
+			"tu": "disputerais",
+			"il/elle": "disputerait",
+			"nous": "disputerions",
+			"vous": "disputeriez",
+			"ils/elles": "disputeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais disputé",
+			"tu": "aurais disputé",
+			"il/elle": "aurait disputé",
+			"nous": "aurions disputé",
+			"vous": "auriez disputé",
+			"ils/elles": "auraient disputé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse disputé",
+			"tu": "eusses disputé",
+			"il/elle": "eût disputé",
+			"nous": "eussions disputé",
+			"vous": "eussiez disputé",
+			"ils/elles": "eussent disputé"
+		}
+	},
+	"participe": {
+		"présent": { "disputant": "" },
+		"passé composé": { "ayant": "disputé" },
+		"passé": {
+			"masc.sg.:": "disputé",
+			"masc.pl.:": "disputés",
+			"fém.sg.:": "disputée",
+			"fém.pl.:": "disputées"
+		}
+	},
+	"imperatif": {
+		"présent": { "dispute": "", "disputons": "", "disputez": "" },
+		"passé": { "aie": "disputé", "ayons": "disputé", "ayez": "disputé" }
+	},
+	"infinitif": {
+		"présent": { "disputer": "" },
+		"passé": { "avoir": "disputé" }
+	}
+}

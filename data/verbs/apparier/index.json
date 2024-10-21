@@ -1,0 +1,143 @@
+{
+	"name": "apparier",
+	"definition": "match; mate; pair; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'apparier/ne pas apparier/ne pas s'apparier",
+	"indicatif": {
+		"présent": {
+			"j'": "apparie",
+			"tu": "apparies",
+			"il/elle": "apparie",
+			"nous": "apparions",
+			"vous": "appariez",
+			"ils/elles": "apparient"
+		},
+		"imparfait": {
+			"j'": "appariais",
+			"tu": "appariais",
+			"il/elle": "appariait",
+			"nous": "appariions",
+			"vous": "appariiez",
+			"ils/elles": "appariaient"
+		},
+		"futur": {
+			"j'": "apparierai",
+			"tu": "apparieras",
+			"il/elle": "appariera",
+			"nous": "apparierons",
+			"vous": "apparierez",
+			"ils/elles": "apparieront"
+		},
+		"passé simple": {
+			"j'": "appariai",
+			"tu": "apparias",
+			"il/elle": "apparia",
+			"nous": "appariâmes",
+			"vous": "appariâtes",
+			"ils/elles": "apparièrent"
+		},
+		"passé composé": {
+			"j'": "ai apparié",
+			"tu": "as apparié",
+			"il/elle": "a apparié",
+			"nous": "avons apparié",
+			"vous": "avez apparié",
+			"ils/elles": "ont apparié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais apparié",
+			"tu": "avais apparié",
+			"il/elle": "avait apparié",
+			"nous": "avions apparié",
+			"vous": "aviez apparié",
+			"ils/elles": "avaient apparié"
+		},
+		"passé antérieur": {
+			"j'": "eus apparié",
+			"tu": "eus apparié",
+			"il/elle": "eut apparié",
+			"nous": "eûmes apparié",
+			"vous": "eûtes apparié",
+			"ils/elles": "eurent apparié"
+		},
+		"futur antérieur": {
+			"j'": "aurai apparié",
+			"tu": "auras apparié",
+			"il/elle": "aura apparié",
+			"nous": "aurons apparié",
+			"vous": "aurez apparié",
+			"ils/elles": "auront apparié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "apparie",
+			"que": "vous appariiez",
+			"qu'il/elle": "apparie",
+			"qu'ils/elles": "apparient"
+		},
+		"imparfait": {
+			"j'": "appariasse",
+			"que": "vous appariassiez",
+			"qu'il/elle": "appariât",
+			"qu'ils/elles": "appariassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse apparié",
+			"que": "vous eussiez apparié",
+			"qu'il/elle": "eût apparié",
+			"qu'ils/elles": "eussent apparié"
+		},
+		"passé": {
+			"j'": "aie apparié",
+			"que": "vous ayez apparié",
+			"qu'il/elle": "ait apparié",
+			"qu'ils/elles": "aient apparié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "apparierais",
+			"tu": "apparierais",
+			"il/elle": "apparierait",
+			"nous": "apparierions",
+			"vous": "apparieriez",
+			"ils/elles": "apparieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais apparié",
+			"tu": "aurais apparié",
+			"il/elle": "aurait apparié",
+			"nous": "aurions apparié",
+			"vous": "auriez apparié",
+			"ils/elles": "auraient apparié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse apparié",
+			"tu": "eusses apparié",
+			"il/elle": "eût apparié",
+			"nous": "eussions apparié",
+			"vous": "eussiez apparié",
+			"ils/elles": "eussent apparié"
+		}
+	},
+	"participe": {
+		"présent": { "appariant": "" },
+		"passé composé": { "ayant": "apparié" },
+		"passé": {
+			"masc.sg.:": "apparié",
+			"masc.pl.:": "appariés",
+			"fém.sg.:": "appariée",
+			"fém.pl.:": "appariées"
+		}
+	},
+	"imperatif": {
+		"présent": { "apparie": "", "apparions": "", "appariez": "" },
+		"passé": { "aie": "apparié", "ayons": "apparié", "ayez": "apparié" }
+	},
+	"infinitif": {
+		"présent": { "apparier": "" },
+		"passé": { "avoir": "apparié" }
+	}
+}

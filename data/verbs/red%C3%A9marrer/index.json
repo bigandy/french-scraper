@@ -1,0 +1,141 @@
+{
+	"name": "redémarrer",
+	"definition": "restart; reboot; reset; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se redémarrer/ne pas redémarrer/ne pas se redémarrer",
+	"indicatif": {
+		"présent": {
+			"je": "redémarre",
+			"tu": "redémarres",
+			"il/elle": "redémarre",
+			"nous": "redémarrons",
+			"vous": "redémarrez",
+			"ils/elles": "redémarrent"
+		},
+		"imparfait": {
+			"je": "redémarrais",
+			"tu": "redémarrais",
+			"il/elle": "redémarrait",
+			"nous": "redémarrions",
+			"vous": "redémarriez",
+			"ils/elles": "redémarraient"
+		},
+		"futur": {
+			"je": "redémarrerai",
+			"tu": "redémarreras",
+			"il/elle": "redémarrera",
+			"nous": "redémarrerons",
+			"vous": "redémarrerez",
+			"ils/elles": "redémarreront"
+		},
+		"passé simple": {
+			"je": "redémarrai",
+			"tu": "redémarras",
+			"il/elle": "redémarra",
+			"nous": "redémarrâmes",
+			"vous": "redémarrâtes",
+			"ils/elles": "redémarrèrent"
+		},
+		"passé composé": {
+			"j'": "ai redémarré",
+			"tu": "as redémarré",
+			"il/elle": "a redémarré",
+			"nous": "avons redémarré",
+			"vous": "avez redémarré",
+			"ils/elles": "ont redémarré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais redémarré",
+			"tu": "avais redémarré",
+			"il/elle": "avait redémarré",
+			"nous": "avions redémarré",
+			"vous": "aviez redémarré",
+			"ils/elles": "avaient redémarré"
+		},
+		"passé antérieur": {
+			"j'": "eus redémarré",
+			"tu": "eus redémarré",
+			"il/elle": "eut redémarré",
+			"nous": "eûmes redémarré",
+			"vous": "eûtes redémarré",
+			"ils/elles": "eurent redémarré"
+		},
+		"futur antérieur": {
+			"j'": "aurai redémarré",
+			"tu": "auras redémarré",
+			"il/elle": "aura redémarré",
+			"nous": "aurons redémarré",
+			"vous": "aurez redémarré",
+			"ils/elles": "auront redémarré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous redémarriez",
+			"qu'il/elle": "redémarre",
+			"qu'ils/elles": "redémarrent"
+		},
+		"imparfait": {
+			"que": "vous redémarrassiez",
+			"qu'il/elle": "redémarrât",
+			"qu'ils/elles": "redémarrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse redémarré",
+			"que": "vous eussiez redémarré",
+			"qu'il/elle": "eût redémarré",
+			"qu'ils/elles": "eussent redémarré"
+		},
+		"passé": {
+			"j'": "aie redémarré",
+			"que": "vous ayez redémarré",
+			"qu'il/elle": "ait redémarré",
+			"qu'ils/elles": "aient redémarré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "redémarrerais",
+			"tu": "redémarrerais",
+			"il/elle": "redémarrerait",
+			"nous": "redémarrerions",
+			"vous": "redémarreriez",
+			"ils/elles": "redémarreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais redémarré",
+			"tu": "aurais redémarré",
+			"il/elle": "aurait redémarré",
+			"nous": "aurions redémarré",
+			"vous": "auriez redémarré",
+			"ils/elles": "auraient redémarré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse redémarré",
+			"tu": "eusses redémarré",
+			"il/elle": "eût redémarré",
+			"nous": "eussions redémarré",
+			"vous": "eussiez redémarré",
+			"ils/elles": "eussent redémarré"
+		}
+	},
+	"participe": {
+		"présent": { "redémarrant": "" },
+		"passé composé": { "ayant": "redémarré" },
+		"passé": {
+			"masc.sg.:": "redémarré",
+			"masc.pl.:": "redémarrés",
+			"fém.sg.:": "redémarrée",
+			"fém.pl.:": "redémarrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "redémarre": "", "redémarrons": "", "redémarrez": "" },
+		"passé": { "aie": "redémarré", "ayons": "redémarré", "ayez": "redémarré" }
+	},
+	"infinitif": {
+		"présent": { "redémarrer": "" },
+		"passé": { "avoir": "redémarré" }
+	}
+}

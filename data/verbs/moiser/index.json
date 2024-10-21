@@ -1,0 +1,138 @@
+{
+	"name": "moiser",
+	"definition": "",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se moiser/ne pas moiser/ne pas se moiser",
+	"indicatif": {
+		"présent": {
+			"je": "moise",
+			"tu": "moises",
+			"il/elle": "moise",
+			"nous": "moisons",
+			"vous": "moisez",
+			"ils/elles": "moisent"
+		},
+		"imparfait": {
+			"je": "moisais",
+			"tu": "moisais",
+			"il/elle": "moisait",
+			"nous": "moisions",
+			"vous": "moisiez",
+			"ils/elles": "moisaient"
+		},
+		"futur": {
+			"je": "moiserai",
+			"tu": "moiseras",
+			"il/elle": "moisera",
+			"nous": "moiserons",
+			"vous": "moiserez",
+			"ils/elles": "moiseront"
+		},
+		"passé simple": {
+			"je": "moisai",
+			"tu": "moisas",
+			"il/elle": "moisa",
+			"nous": "moisâmes",
+			"vous": "moisâtes",
+			"ils/elles": "moisèrent"
+		},
+		"passé composé": {
+			"j'": "ai moisé",
+			"tu": "as moisé",
+			"il/elle": "a moisé",
+			"nous": "avons moisé",
+			"vous": "avez moisé",
+			"ils/elles": "ont moisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais moisé",
+			"tu": "avais moisé",
+			"il/elle": "avait moisé",
+			"nous": "avions moisé",
+			"vous": "aviez moisé",
+			"ils/elles": "avaient moisé"
+		},
+		"passé antérieur": {
+			"j'": "eus moisé",
+			"tu": "eus moisé",
+			"il/elle": "eut moisé",
+			"nous": "eûmes moisé",
+			"vous": "eûtes moisé",
+			"ils/elles": "eurent moisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai moisé",
+			"tu": "auras moisé",
+			"il/elle": "aura moisé",
+			"nous": "aurons moisé",
+			"vous": "aurez moisé",
+			"ils/elles": "auront moisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous moisiez",
+			"qu'il/elle": "moise",
+			"qu'ils/elles": "moisent"
+		},
+		"imparfait": {
+			"que": "vous moisassiez",
+			"qu'il/elle": "moisât",
+			"qu'ils/elles": "moisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse moisé",
+			"que": "vous eussiez moisé",
+			"qu'il/elle": "eût moisé",
+			"qu'ils/elles": "eussent moisé"
+		},
+		"passé": {
+			"j'": "aie moisé",
+			"que": "vous ayez moisé",
+			"qu'il/elle": "ait moisé",
+			"qu'ils/elles": "aient moisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "moiserais",
+			"tu": "moiserais",
+			"il/elle": "moiserait",
+			"nous": "moiserions",
+			"vous": "moiseriez",
+			"ils/elles": "moiseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais moisé",
+			"tu": "aurais moisé",
+			"il/elle": "aurait moisé",
+			"nous": "aurions moisé",
+			"vous": "auriez moisé",
+			"ils/elles": "auraient moisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse moisé",
+			"tu": "eusses moisé",
+			"il/elle": "eût moisé",
+			"nous": "eussions moisé",
+			"vous": "eussiez moisé",
+			"ils/elles": "eussent moisé"
+		}
+	},
+	"participe": {
+		"présent": { "moisant": "" },
+		"passé composé": { "ayant": "moisé" },
+		"passé": {
+			"masc.sg.:": "moisé",
+			"masc.pl.:": "moisés",
+			"fém.sg.:": "moisée",
+			"fém.pl.:": "moisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "moise": "", "moisons": "", "moisez": "" },
+		"passé": { "aie": "moisé", "ayons": "moisé", "ayez": "moisé" }
+	},
+	"infinitif": { "présent": { "moiser": "" }, "passé": { "avoir": "moisé" } }
+}

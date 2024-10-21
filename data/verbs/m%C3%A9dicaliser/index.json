@@ -1,0 +1,145 @@
+{
+	"name": "médicaliser",
+	"definition": "\n              medicalize; provide with medical care; ...\n            ",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se médicaliser/ne pas médicaliser/ne pas se médicaliser",
+	"indicatif": {
+		"présent": {
+			"je": "médicalise",
+			"tu": "médicalises",
+			"il/elle": "médicalise",
+			"nous": "médicalisons",
+			"vous": "médicalisez",
+			"ils/elles": "médicalisent"
+		},
+		"imparfait": {
+			"je": "médicalisais",
+			"tu": "médicalisais",
+			"il/elle": "médicalisait",
+			"nous": "médicalisions",
+			"vous": "médicalisiez",
+			"ils/elles": "médicalisaient"
+		},
+		"futur": {
+			"je": "médicaliserai",
+			"tu": "médicaliseras",
+			"il/elle": "médicalisera",
+			"nous": "médicaliserons",
+			"vous": "médicaliserez",
+			"ils/elles": "médicaliseront"
+		},
+		"passé simple": {
+			"je": "médicalisai",
+			"tu": "médicalisas",
+			"il/elle": "médicalisa",
+			"nous": "médicalisâmes",
+			"vous": "médicalisâtes",
+			"ils/elles": "médicalisèrent"
+		},
+		"passé composé": {
+			"j'": "ai médicalisé",
+			"tu": "as médicalisé",
+			"il/elle": "a médicalisé",
+			"nous": "avons médicalisé",
+			"vous": "avez médicalisé",
+			"ils/elles": "ont médicalisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais médicalisé",
+			"tu": "avais médicalisé",
+			"il/elle": "avait médicalisé",
+			"nous": "avions médicalisé",
+			"vous": "aviez médicalisé",
+			"ils/elles": "avaient médicalisé"
+		},
+		"passé antérieur": {
+			"j'": "eus médicalisé",
+			"tu": "eus médicalisé",
+			"il/elle": "eut médicalisé",
+			"nous": "eûmes médicalisé",
+			"vous": "eûtes médicalisé",
+			"ils/elles": "eurent médicalisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai médicalisé",
+			"tu": "auras médicalisé",
+			"il/elle": "aura médicalisé",
+			"nous": "aurons médicalisé",
+			"vous": "aurez médicalisé",
+			"ils/elles": "auront médicalisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous médicalisiez",
+			"qu'il/elle": "médicalise",
+			"qu'ils/elles": "médicalisent"
+		},
+		"imparfait": {
+			"que": "vous médicalisassiez",
+			"qu'il/elle": "médicalisât",
+			"qu'ils/elles": "médicalisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse médicalisé",
+			"que": "vous eussiez médicalisé",
+			"qu'il/elle": "eût médicalisé",
+			"qu'ils/elles": "eussent médicalisé"
+		},
+		"passé": {
+			"j'": "aie médicalisé",
+			"que": "vous ayez médicalisé",
+			"qu'il/elle": "ait médicalisé",
+			"qu'ils/elles": "aient médicalisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "médicaliserais",
+			"tu": "médicaliserais",
+			"il/elle": "médicaliserait",
+			"nous": "médicaliserions",
+			"vous": "médicaliseriez",
+			"ils/elles": "médicaliseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais médicalisé",
+			"tu": "aurais médicalisé",
+			"il/elle": "aurait médicalisé",
+			"nous": "aurions médicalisé",
+			"vous": "auriez médicalisé",
+			"ils/elles": "auraient médicalisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse médicalisé",
+			"tu": "eusses médicalisé",
+			"il/elle": "eût médicalisé",
+			"nous": "eussions médicalisé",
+			"vous": "eussiez médicalisé",
+			"ils/elles": "eussent médicalisé"
+		}
+	},
+	"participe": {
+		"présent": { "médicalisant": "" },
+		"passé composé": { "ayant": "médicalisé" },
+		"passé": {
+			"masc.sg.:": "médicalisé",
+			"masc.pl.:": "médicalisés",
+			"fém.sg.:": "médicalisée",
+			"fém.pl.:": "médicalisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "médicalise": "", "médicalisons": "", "médicalisez": "" },
+		"passé": {
+			"aie": "médicalisé",
+			"ayons": "médicalisé",
+			"ayez": "médicalisé"
+		}
+	},
+	"infinitif": {
+		"présent": { "médicaliser": "" },
+		"passé": { "avoir": "médicalisé" }
+	}
+}

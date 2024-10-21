@@ -1,0 +1,145 @@
+{
+	"name": "reconfigurer",
+	"definition": "reconfigure; redesign; re-engineer; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se reconfigurer/ne pas reconfigurer/ne pas se reconfigurer",
+	"indicatif": {
+		"présent": {
+			"je": "reconfigure",
+			"tu": "reconfigures",
+			"il/elle": "reconfigure",
+			"nous": "reconfigurons",
+			"vous": "reconfigurez",
+			"ils/elles": "reconfigurent"
+		},
+		"imparfait": {
+			"je": "reconfigurais",
+			"tu": "reconfigurais",
+			"il/elle": "reconfigurait",
+			"nous": "reconfigurions",
+			"vous": "reconfiguriez",
+			"ils/elles": "reconfiguraient"
+		},
+		"futur": {
+			"je": "reconfigurerai",
+			"tu": "reconfigureras",
+			"il/elle": "reconfigurera",
+			"nous": "reconfigurerons",
+			"vous": "reconfigurerez",
+			"ils/elles": "reconfigureront"
+		},
+		"passé simple": {
+			"je": "reconfigurai",
+			"tu": "reconfiguras",
+			"il/elle": "reconfigura",
+			"nous": "reconfigurâmes",
+			"vous": "reconfigurâtes",
+			"ils/elles": "reconfigurèrent"
+		},
+		"passé composé": {
+			"j'": "ai reconfiguré",
+			"tu": "as reconfiguré",
+			"il/elle": "a reconfiguré",
+			"nous": "avons reconfiguré",
+			"vous": "avez reconfiguré",
+			"ils/elles": "ont reconfiguré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais reconfiguré",
+			"tu": "avais reconfiguré",
+			"il/elle": "avait reconfiguré",
+			"nous": "avions reconfiguré",
+			"vous": "aviez reconfiguré",
+			"ils/elles": "avaient reconfiguré"
+		},
+		"passé antérieur": {
+			"j'": "eus reconfiguré",
+			"tu": "eus reconfiguré",
+			"il/elle": "eut reconfiguré",
+			"nous": "eûmes reconfiguré",
+			"vous": "eûtes reconfiguré",
+			"ils/elles": "eurent reconfiguré"
+		},
+		"futur antérieur": {
+			"j'": "aurai reconfiguré",
+			"tu": "auras reconfiguré",
+			"il/elle": "aura reconfiguré",
+			"nous": "aurons reconfiguré",
+			"vous": "aurez reconfiguré",
+			"ils/elles": "auront reconfiguré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous reconfiguriez",
+			"qu'il/elle": "reconfigure",
+			"qu'ils/elles": "reconfigurent"
+		},
+		"imparfait": {
+			"que": "vous reconfigurassiez",
+			"qu'il/elle": "reconfigurât",
+			"qu'ils/elles": "reconfigurassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse reconfiguré",
+			"que": "vous eussiez reconfiguré",
+			"qu'il/elle": "eût reconfiguré",
+			"qu'ils/elles": "eussent reconfiguré"
+		},
+		"passé": {
+			"j'": "aie reconfiguré",
+			"que": "vous ayez reconfiguré",
+			"qu'il/elle": "ait reconfiguré",
+			"qu'ils/elles": "aient reconfiguré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "reconfigurerais",
+			"tu": "reconfigurerais",
+			"il/elle": "reconfigurerait",
+			"nous": "reconfigurerions",
+			"vous": "reconfigureriez",
+			"ils/elles": "reconfigureraient"
+		},
+		"passé première forme": {
+			"j'": "aurais reconfiguré",
+			"tu": "aurais reconfiguré",
+			"il/elle": "aurait reconfiguré",
+			"nous": "aurions reconfiguré",
+			"vous": "auriez reconfiguré",
+			"ils/elles": "auraient reconfiguré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse reconfiguré",
+			"tu": "eusses reconfiguré",
+			"il/elle": "eût reconfiguré",
+			"nous": "eussions reconfiguré",
+			"vous": "eussiez reconfiguré",
+			"ils/elles": "eussent reconfiguré"
+		}
+	},
+	"participe": {
+		"présent": { "reconfigurant": "" },
+		"passé composé": { "ayant": "reconfiguré" },
+		"passé": {
+			"masc.sg.:": "reconfiguré",
+			"masc.pl.:": "reconfigurés",
+			"fém.sg.:": "reconfigurée",
+			"fém.pl.:": "reconfigurées"
+		}
+	},
+	"imperatif": {
+		"présent": { "reconfigure": "", "reconfigurons": "", "reconfigurez": "" },
+		"passé": {
+			"aie": "reconfiguré",
+			"ayons": "reconfiguré",
+			"ayez": "reconfiguré"
+		}
+	},
+	"infinitif": {
+		"présent": { "reconfigurer": "" },
+		"passé": { "avoir": "reconfiguré" }
+	}
+}

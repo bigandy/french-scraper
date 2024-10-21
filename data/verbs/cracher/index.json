@@ -1,0 +1,138 @@
+{
+	"name": "cracher",
+	"definition": "spit; cough up; spit out; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se cracher/ne pas cracher/ne pas se cracher",
+	"indicatif": {
+		"présent": {
+			"je": "crache",
+			"tu": "craches",
+			"il/elle": "crache",
+			"nous": "crachons",
+			"vous": "crachez",
+			"ils/elles": "crachent"
+		},
+		"imparfait": {
+			"je": "crachais",
+			"tu": "crachais",
+			"il/elle": "crachait",
+			"nous": "crachions",
+			"vous": "crachiez",
+			"ils/elles": "crachaient"
+		},
+		"futur": {
+			"je": "cracherai",
+			"tu": "cracheras",
+			"il/elle": "crachera",
+			"nous": "cracherons",
+			"vous": "cracherez",
+			"ils/elles": "cracheront"
+		},
+		"passé simple": {
+			"je": "crachai",
+			"tu": "crachas",
+			"il/elle": "cracha",
+			"nous": "crachâmes",
+			"vous": "crachâtes",
+			"ils/elles": "crachèrent"
+		},
+		"passé composé": {
+			"j'": "ai craché",
+			"tu": "as craché",
+			"il/elle": "a craché",
+			"nous": "avons craché",
+			"vous": "avez craché",
+			"ils/elles": "ont craché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais craché",
+			"tu": "avais craché",
+			"il/elle": "avait craché",
+			"nous": "avions craché",
+			"vous": "aviez craché",
+			"ils/elles": "avaient craché"
+		},
+		"passé antérieur": {
+			"j'": "eus craché",
+			"tu": "eus craché",
+			"il/elle": "eut craché",
+			"nous": "eûmes craché",
+			"vous": "eûtes craché",
+			"ils/elles": "eurent craché"
+		},
+		"futur antérieur": {
+			"j'": "aurai craché",
+			"tu": "auras craché",
+			"il/elle": "aura craché",
+			"nous": "aurons craché",
+			"vous": "aurez craché",
+			"ils/elles": "auront craché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous crachiez",
+			"qu'il/elle": "crache",
+			"qu'ils/elles": "crachent"
+		},
+		"imparfait": {
+			"que": "vous crachassiez",
+			"qu'il/elle": "crachât",
+			"qu'ils/elles": "crachassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse craché",
+			"que": "vous eussiez craché",
+			"qu'il/elle": "eût craché",
+			"qu'ils/elles": "eussent craché"
+		},
+		"passé": {
+			"j'": "aie craché",
+			"que": "vous ayez craché",
+			"qu'il/elle": "ait craché",
+			"qu'ils/elles": "aient craché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "cracherais",
+			"tu": "cracherais",
+			"il/elle": "cracherait",
+			"nous": "cracherions",
+			"vous": "cracheriez",
+			"ils/elles": "cracheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais craché",
+			"tu": "aurais craché",
+			"il/elle": "aurait craché",
+			"nous": "aurions craché",
+			"vous": "auriez craché",
+			"ils/elles": "auraient craché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse craché",
+			"tu": "eusses craché",
+			"il/elle": "eût craché",
+			"nous": "eussions craché",
+			"vous": "eussiez craché",
+			"ils/elles": "eussent craché"
+		}
+	},
+	"participe": {
+		"présent": { "crachant": "" },
+		"passé composé": { "ayant": "craché" },
+		"passé": {
+			"masc.sg.:": "craché",
+			"masc.pl.:": "crachés",
+			"fém.sg.:": "crachée",
+			"fém.pl.:": "crachées"
+		}
+	},
+	"imperatif": {
+		"présent": { "crache": "", "crachons": "", "crachez": "" },
+		"passé": { "aie": "craché", "ayons": "craché", "ayez": "craché" }
+	},
+	"infinitif": { "présent": { "cracher": "" }, "passé": { "avoir": "craché" } }
+}

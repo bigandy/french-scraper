@@ -1,0 +1,138 @@
+{
+	"name": "juguler",
+	"definition": "curb; stem; contain; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se juguler/ne pas juguler/ne pas se juguler",
+	"indicatif": {
+		"présent": {
+			"je": "jugule",
+			"tu": "jugules",
+			"il/elle": "jugule",
+			"nous": "jugulons",
+			"vous": "jugulez",
+			"ils/elles": "jugulent"
+		},
+		"imparfait": {
+			"je": "jugulais",
+			"tu": "jugulais",
+			"il/elle": "jugulait",
+			"nous": "jugulions",
+			"vous": "juguliez",
+			"ils/elles": "jugulaient"
+		},
+		"futur": {
+			"je": "jugulerai",
+			"tu": "juguleras",
+			"il/elle": "jugulera",
+			"nous": "jugulerons",
+			"vous": "jugulerez",
+			"ils/elles": "juguleront"
+		},
+		"passé simple": {
+			"je": "jugulai",
+			"tu": "jugulas",
+			"il/elle": "jugula",
+			"nous": "jugulâmes",
+			"vous": "jugulâtes",
+			"ils/elles": "jugulèrent"
+		},
+		"passé composé": {
+			"j'": "ai jugulé",
+			"tu": "as jugulé",
+			"il/elle": "a jugulé",
+			"nous": "avons jugulé",
+			"vous": "avez jugulé",
+			"ils/elles": "ont jugulé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais jugulé",
+			"tu": "avais jugulé",
+			"il/elle": "avait jugulé",
+			"nous": "avions jugulé",
+			"vous": "aviez jugulé",
+			"ils/elles": "avaient jugulé"
+		},
+		"passé antérieur": {
+			"j'": "eus jugulé",
+			"tu": "eus jugulé",
+			"il/elle": "eut jugulé",
+			"nous": "eûmes jugulé",
+			"vous": "eûtes jugulé",
+			"ils/elles": "eurent jugulé"
+		},
+		"futur antérieur": {
+			"j'": "aurai jugulé",
+			"tu": "auras jugulé",
+			"il/elle": "aura jugulé",
+			"nous": "aurons jugulé",
+			"vous": "aurez jugulé",
+			"ils/elles": "auront jugulé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous juguliez",
+			"qu'il/elle": "jugule",
+			"qu'ils/elles": "jugulent"
+		},
+		"imparfait": {
+			"que": "vous jugulassiez",
+			"qu'il/elle": "jugulât",
+			"qu'ils/elles": "jugulassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse jugulé",
+			"que": "vous eussiez jugulé",
+			"qu'il/elle": "eût jugulé",
+			"qu'ils/elles": "eussent jugulé"
+		},
+		"passé": {
+			"j'": "aie jugulé",
+			"que": "vous ayez jugulé",
+			"qu'il/elle": "ait jugulé",
+			"qu'ils/elles": "aient jugulé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "jugulerais",
+			"tu": "jugulerais",
+			"il/elle": "jugulerait",
+			"nous": "jugulerions",
+			"vous": "juguleriez",
+			"ils/elles": "juguleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais jugulé",
+			"tu": "aurais jugulé",
+			"il/elle": "aurait jugulé",
+			"nous": "aurions jugulé",
+			"vous": "auriez jugulé",
+			"ils/elles": "auraient jugulé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse jugulé",
+			"tu": "eusses jugulé",
+			"il/elle": "eût jugulé",
+			"nous": "eussions jugulé",
+			"vous": "eussiez jugulé",
+			"ils/elles": "eussent jugulé"
+		}
+	},
+	"participe": {
+		"présent": { "jugulant": "" },
+		"passé composé": { "ayant": "jugulé" },
+		"passé": {
+			"masc.sg.:": "jugulé",
+			"masc.pl.:": "jugulés",
+			"fém.sg.:": "jugulée",
+			"fém.pl.:": "jugulées"
+		}
+	},
+	"imperatif": {
+		"présent": { "jugule": "", "jugulons": "", "jugulez": "" },
+		"passé": { "aie": "jugulé", "ayons": "jugulé", "ayez": "jugulé" }
+	},
+	"infinitif": { "présent": { "juguler": "" }, "passé": { "avoir": "jugulé" } }
+}

@@ -1,0 +1,138 @@
+{
+	"name": "conster",
+	"definition": "",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas conster",
+	"indicatif": {
+		"présent": {
+			"je": "conste",
+			"tu": "constes",
+			"il/elle": "conste",
+			"nous": "constons",
+			"vous": "constez",
+			"ils/elles": "constent"
+		},
+		"imparfait": {
+			"je": "constais",
+			"tu": "constais",
+			"il/elle": "constait",
+			"nous": "constions",
+			"vous": "constiez",
+			"ils/elles": "constaient"
+		},
+		"futur": {
+			"je": "consterai",
+			"tu": "consteras",
+			"il/elle": "constera",
+			"nous": "consterons",
+			"vous": "consterez",
+			"ils/elles": "consteront"
+		},
+		"passé simple": {
+			"je": "constai",
+			"tu": "constas",
+			"il/elle": "consta",
+			"nous": "constâmes",
+			"vous": "constâtes",
+			"ils/elles": "constèrent"
+		},
+		"passé composé": {
+			"j'": "ai consté",
+			"tu": "as consté",
+			"il/elle": "a consté",
+			"nous": "avons consté",
+			"vous": "avez consté",
+			"ils/elles": "ont consté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais consté",
+			"tu": "avais consté",
+			"il/elle": "avait consté",
+			"nous": "avions consté",
+			"vous": "aviez consté",
+			"ils/elles": "avaient consté"
+		},
+		"passé antérieur": {
+			"j'": "eus consté",
+			"tu": "eus consté",
+			"il/elle": "eut consté",
+			"nous": "eûmes consté",
+			"vous": "eûtes consté",
+			"ils/elles": "eurent consté"
+		},
+		"futur antérieur": {
+			"j'": "aurai consté",
+			"tu": "auras consté",
+			"il/elle": "aura consté",
+			"nous": "aurons consté",
+			"vous": "aurez consté",
+			"ils/elles": "auront consté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous constiez",
+			"qu'il/elle": "conste",
+			"qu'ils/elles": "constent"
+		},
+		"imparfait": {
+			"que": "vous constassiez",
+			"qu'il/elle": "constât",
+			"qu'ils/elles": "constassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse consté",
+			"que": "vous eussiez consté",
+			"qu'il/elle": "eût consté",
+			"qu'ils/elles": "eussent consté"
+		},
+		"passé": {
+			"j'": "aie consté",
+			"que": "vous ayez consté",
+			"qu'il/elle": "ait consté",
+			"qu'ils/elles": "aient consté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "consterais",
+			"tu": "consterais",
+			"il/elle": "consterait",
+			"nous": "consterions",
+			"vous": "consteriez",
+			"ils/elles": "consteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais consté",
+			"tu": "aurais consté",
+			"il/elle": "aurait consté",
+			"nous": "aurions consté",
+			"vous": "auriez consté",
+			"ils/elles": "auraient consté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse consté",
+			"tu": "eusses consté",
+			"il/elle": "eût consté",
+			"nous": "eussions consté",
+			"vous": "eussiez consté",
+			"ils/elles": "eussent consté"
+		}
+	},
+	"participe": {
+		"présent": { "constant": "" },
+		"passé composé": { "ayant": "consté" },
+		"passé": {
+			"masc.sg.:": "consté",
+			"masc.pl.:": "constés",
+			"fém.sg.:": "constée",
+			"fém.pl.:": "constées"
+		}
+	},
+	"imperatif": {
+		"présent": { "conste": "", "constons": "", "constez": "" },
+		"passé": { "aie": "consté", "ayons": "consté", "ayez": "consté" }
+	},
+	"infinitif": { "présent": { "conster": "" }, "passé": { "avoir": "consté" } }
+}

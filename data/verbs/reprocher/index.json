@@ -1,0 +1,141 @@
+{
+	"name": "reprocher",
+	"definition": "blame; reproach; fault; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se reprocher/ne pas reprocher/ne pas se reprocher",
+	"indicatif": {
+		"présent": {
+			"je": "reproche",
+			"tu": "reproches",
+			"il/elle": "reproche",
+			"nous": "reprochons",
+			"vous": "reprochez",
+			"ils/elles": "reprochent"
+		},
+		"imparfait": {
+			"je": "reprochais",
+			"tu": "reprochais",
+			"il/elle": "reprochait",
+			"nous": "reprochions",
+			"vous": "reprochiez",
+			"ils/elles": "reprochaient"
+		},
+		"futur": {
+			"je": "reprocherai",
+			"tu": "reprocheras",
+			"il/elle": "reprochera",
+			"nous": "reprocherons",
+			"vous": "reprocherez",
+			"ils/elles": "reprocheront"
+		},
+		"passé simple": {
+			"je": "reprochai",
+			"tu": "reprochas",
+			"il/elle": "reprocha",
+			"nous": "reprochâmes",
+			"vous": "reprochâtes",
+			"ils/elles": "reprochèrent"
+		},
+		"passé composé": {
+			"j'": "ai reproché",
+			"tu": "as reproché",
+			"il/elle": "a reproché",
+			"nous": "avons reproché",
+			"vous": "avez reproché",
+			"ils/elles": "ont reproché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais reproché",
+			"tu": "avais reproché",
+			"il/elle": "avait reproché",
+			"nous": "avions reproché",
+			"vous": "aviez reproché",
+			"ils/elles": "avaient reproché"
+		},
+		"passé antérieur": {
+			"j'": "eus reproché",
+			"tu": "eus reproché",
+			"il/elle": "eut reproché",
+			"nous": "eûmes reproché",
+			"vous": "eûtes reproché",
+			"ils/elles": "eurent reproché"
+		},
+		"futur antérieur": {
+			"j'": "aurai reproché",
+			"tu": "auras reproché",
+			"il/elle": "aura reproché",
+			"nous": "aurons reproché",
+			"vous": "aurez reproché",
+			"ils/elles": "auront reproché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous reprochiez",
+			"qu'il/elle": "reproche",
+			"qu'ils/elles": "reprochent"
+		},
+		"imparfait": {
+			"que": "vous reprochassiez",
+			"qu'il/elle": "reprochât",
+			"qu'ils/elles": "reprochassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse reproché",
+			"que": "vous eussiez reproché",
+			"qu'il/elle": "eût reproché",
+			"qu'ils/elles": "eussent reproché"
+		},
+		"passé": {
+			"j'": "aie reproché",
+			"que": "vous ayez reproché",
+			"qu'il/elle": "ait reproché",
+			"qu'ils/elles": "aient reproché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "reprocherais",
+			"tu": "reprocherais",
+			"il/elle": "reprocherait",
+			"nous": "reprocherions",
+			"vous": "reprocheriez",
+			"ils/elles": "reprocheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais reproché",
+			"tu": "aurais reproché",
+			"il/elle": "aurait reproché",
+			"nous": "aurions reproché",
+			"vous": "auriez reproché",
+			"ils/elles": "auraient reproché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse reproché",
+			"tu": "eusses reproché",
+			"il/elle": "eût reproché",
+			"nous": "eussions reproché",
+			"vous": "eussiez reproché",
+			"ils/elles": "eussent reproché"
+		}
+	},
+	"participe": {
+		"présent": { "reprochant": "" },
+		"passé composé": { "ayant": "reproché" },
+		"passé": {
+			"masc.sg.:": "reproché",
+			"masc.pl.:": "reprochés",
+			"fém.sg.:": "reprochée",
+			"fém.pl.:": "reprochées"
+		}
+	},
+	"imperatif": {
+		"présent": { "reproche": "", "reprochons": "", "reprochez": "" },
+		"passé": { "aie": "reproché", "ayons": "reproché", "ayez": "reproché" }
+	},
+	"infinitif": {
+		"présent": { "reprocher": "" },
+		"passé": { "avoir": "reproché" }
+	}
+}

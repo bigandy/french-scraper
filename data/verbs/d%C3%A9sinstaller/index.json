@@ -1,0 +1,145 @@
+{
+	"name": "désinstaller",
+	"definition": "uninstall; deinstall; unmerge; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se désinstaller/ne pas désinstaller/ne pas se désinstaller",
+	"indicatif": {
+		"présent": {
+			"je": "désinstalle",
+			"tu": "désinstalles",
+			"il/elle": "désinstalle",
+			"nous": "désinstallons",
+			"vous": "désinstallez",
+			"ils/elles": "désinstallent"
+		},
+		"imparfait": {
+			"je": "désinstallais",
+			"tu": "désinstallais",
+			"il/elle": "désinstallait",
+			"nous": "désinstallions",
+			"vous": "désinstalliez",
+			"ils/elles": "désinstallaient"
+		},
+		"futur": {
+			"je": "désinstallerai",
+			"tu": "désinstalleras",
+			"il/elle": "désinstallera",
+			"nous": "désinstallerons",
+			"vous": "désinstallerez",
+			"ils/elles": "désinstalleront"
+		},
+		"passé simple": {
+			"je": "désinstallai",
+			"tu": "désinstallas",
+			"il/elle": "désinstalla",
+			"nous": "désinstallâmes",
+			"vous": "désinstallâtes",
+			"ils/elles": "désinstallèrent"
+		},
+		"passé composé": {
+			"j'": "ai désinstallé",
+			"tu": "as désinstallé",
+			"il/elle": "a désinstallé",
+			"nous": "avons désinstallé",
+			"vous": "avez désinstallé",
+			"ils/elles": "ont désinstallé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais désinstallé",
+			"tu": "avais désinstallé",
+			"il/elle": "avait désinstallé",
+			"nous": "avions désinstallé",
+			"vous": "aviez désinstallé",
+			"ils/elles": "avaient désinstallé"
+		},
+		"passé antérieur": {
+			"j'": "eus désinstallé",
+			"tu": "eus désinstallé",
+			"il/elle": "eut désinstallé",
+			"nous": "eûmes désinstallé",
+			"vous": "eûtes désinstallé",
+			"ils/elles": "eurent désinstallé"
+		},
+		"futur antérieur": {
+			"j'": "aurai désinstallé",
+			"tu": "auras désinstallé",
+			"il/elle": "aura désinstallé",
+			"nous": "aurons désinstallé",
+			"vous": "aurez désinstallé",
+			"ils/elles": "auront désinstallé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous désinstalliez",
+			"qu'il/elle": "désinstalle",
+			"qu'ils/elles": "désinstallent"
+		},
+		"imparfait": {
+			"que": "vous désinstallassiez",
+			"qu'il/elle": "désinstallât",
+			"qu'ils/elles": "désinstallassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse désinstallé",
+			"que": "vous eussiez désinstallé",
+			"qu'il/elle": "eût désinstallé",
+			"qu'ils/elles": "eussent désinstallé"
+		},
+		"passé": {
+			"j'": "aie désinstallé",
+			"que": "vous ayez désinstallé",
+			"qu'il/elle": "ait désinstallé",
+			"qu'ils/elles": "aient désinstallé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "désinstallerais",
+			"tu": "désinstallerais",
+			"il/elle": "désinstallerait",
+			"nous": "désinstallerions",
+			"vous": "désinstalleriez",
+			"ils/elles": "désinstalleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais désinstallé",
+			"tu": "aurais désinstallé",
+			"il/elle": "aurait désinstallé",
+			"nous": "aurions désinstallé",
+			"vous": "auriez désinstallé",
+			"ils/elles": "auraient désinstallé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse désinstallé",
+			"tu": "eusses désinstallé",
+			"il/elle": "eût désinstallé",
+			"nous": "eussions désinstallé",
+			"vous": "eussiez désinstallé",
+			"ils/elles": "eussent désinstallé"
+		}
+	},
+	"participe": {
+		"présent": { "désinstallant": "" },
+		"passé composé": { "ayant": "désinstallé" },
+		"passé": {
+			"masc.sg.:": "désinstallé",
+			"masc.pl.:": "désinstallés",
+			"fém.sg.:": "désinstallée",
+			"fém.pl.:": "désinstallées"
+		}
+	},
+	"imperatif": {
+		"présent": { "désinstalle": "", "désinstallons": "", "désinstallez": "" },
+		"passé": {
+			"aie": "désinstallé",
+			"ayons": "désinstallé",
+			"ayez": "désinstallé"
+		}
+	},
+	"infinitif": {
+		"présent": { "désinstaller": "" },
+		"passé": { "avoir": "désinstallé" }
+	}
+}

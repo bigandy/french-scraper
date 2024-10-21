@@ -1,0 +1,150 @@
+{
+	"name": "érayer",
+	"definition": "",
+	"model": "marcher\n              /\n              balayer",
+	"auxiliary": "avoir",
+	"otherForms": "s'érayer/ne pas érayer/ne pas s'érayer",
+	"indicatif": {
+		"présent": {
+			"j'": "éraie",
+			"tu": "éraies",
+			"il/elle": "éraie",
+			"nous": "érayons",
+			"vous": "érayez",
+			"ils/elles": "éraient",
+			"": ""
+		},
+		"imparfait": {
+			"j'": "érayais",
+			"tu": "érayais",
+			"il/elle": "érayait",
+			"nous": "érayions",
+			"vous": "érayiez",
+			"ils/elles": "érayaient"
+		},
+		"futur": {
+			"j'": "éraierai",
+			"tu": "éraieras",
+			"il/elle": "éraiera",
+			"nous": "éraierons",
+			"vous": "éraierez",
+			"ils/elles": "éraieront",
+			"": ""
+		},
+		"passé simple": {
+			"j'": "érayai",
+			"tu": "érayas",
+			"il/elle": "éraya",
+			"nous": "érayâmes",
+			"vous": "érayâtes",
+			"ils/elles": "érayèrent"
+		},
+		"passé composé": {
+			"j'": "ai érayé",
+			"tu": "as érayé",
+			"il/elle": "a érayé",
+			"nous": "avons érayé",
+			"vous": "avez érayé",
+			"ils/elles": "ont érayé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais érayé",
+			"tu": "avais érayé",
+			"il/elle": "avait érayé",
+			"nous": "avions érayé",
+			"vous": "aviez érayé",
+			"ils/elles": "avaient érayé"
+		},
+		"passé antérieur": {
+			"j'": "eus érayé",
+			"tu": "eus érayé",
+			"il/elle": "eut érayé",
+			"nous": "eûmes érayé",
+			"vous": "eûtes érayé",
+			"ils/elles": "eurent érayé"
+		},
+		"futur antérieur": {
+			"j'": "aurai érayé",
+			"tu": "auras érayé",
+			"il/elle": "aura érayé",
+			"nous": "aurons érayé",
+			"vous": "aurez érayé",
+			"ils/elles": "auront érayé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "éraie",
+			"que": "vous érayiez",
+			"qu'il/elle": "éraie",
+			"qu'ils/elles": "éraient",
+			"": ""
+		},
+		"imparfait": {
+			"j'": "érayasse",
+			"que": "vous érayassiez",
+			"qu'il/elle": "érayât",
+			"qu'ils/elles": "érayassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse érayé",
+			"que": "vous eussiez érayé",
+			"qu'il/elle": "eût érayé",
+			"qu'ils/elles": "eussent érayé"
+		},
+		"passé": {
+			"j'": "aie érayé",
+			"que": "vous ayez érayé",
+			"qu'il/elle": "ait érayé",
+			"qu'ils/elles": "aient érayé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "éraierais",
+			"tu": "éraierais",
+			"il/elle": "éraierait",
+			"nous": "éraierions",
+			"vous": "éraieriez",
+			"ils/elles": "éraieraient",
+			"": ""
+		},
+		"passé première forme": {
+			"j'": "aurais érayé",
+			"tu": "aurais érayé",
+			"il/elle": "aurait érayé",
+			"nous": "aurions érayé",
+			"vous": "auriez érayé",
+			"ils/elles": "auraient érayé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse érayé",
+			"tu": "eusses érayé",
+			"il/elle": "eût érayé",
+			"nous": "eussions érayé",
+			"vous": "eussiez érayé",
+			"ils/elles": "eussent érayé"
+		}
+	},
+	"participe": {
+		"présent": { "érayant": "" },
+		"passé composé": { "ayant": "érayé" },
+		"passé": {
+			"masc.sg.:": "érayé",
+			"masc.pl.:": "érayés",
+			"fém.sg.:": "érayée",
+			"fém.pl.:": "érayées"
+		}
+	},
+	"imperatif": {
+		"présent": {
+			"éraye": "",
+			"érayons": "",
+			"érayez": "",
+			"": "",
+			"éraie": ""
+		},
+		"passé": { "aie": "érayé", "ayons": "érayé", "ayez": "érayé" }
+	},
+	"infinitif": { "présent": { "érayer": "" }, "passé": { "avoir": "érayé" } }
+}

@@ -1,0 +1,141 @@
+{
+	"name": "recharger",
+	"definition": "recharge; reload; charge; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "se recharger/ne pas recharger/ne pas se recharger",
+	"indicatif": {
+		"présent": {
+			"je": "recharge",
+			"tu": "recharges",
+			"il/elle": "recharge",
+			"nous": "rechargeons",
+			"vous": "rechargez",
+			"ils/elles": "rechargent"
+		},
+		"imparfait": {
+			"je": "rechargeais",
+			"tu": "rechargeais",
+			"il/elle": "rechargeait",
+			"nous": "rechargions",
+			"vous": "rechargiez",
+			"ils/elles": "rechargeaient"
+		},
+		"futur": {
+			"je": "rechargerai",
+			"tu": "rechargeras",
+			"il/elle": "rechargera",
+			"nous": "rechargerons",
+			"vous": "rechargerez",
+			"ils/elles": "rechargeront"
+		},
+		"passé simple": {
+			"je": "rechargeai",
+			"tu": "rechargeas",
+			"il/elle": "rechargea",
+			"nous": "rechargeâmes",
+			"vous": "rechargeâtes",
+			"ils/elles": "rechargèrent"
+		},
+		"passé composé": {
+			"j'": "ai rechargé",
+			"tu": "as rechargé",
+			"il/elle": "a rechargé",
+			"nous": "avons rechargé",
+			"vous": "avez rechargé",
+			"ils/elles": "ont rechargé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais rechargé",
+			"tu": "avais rechargé",
+			"il/elle": "avait rechargé",
+			"nous": "avions rechargé",
+			"vous": "aviez rechargé",
+			"ils/elles": "avaient rechargé"
+		},
+		"passé antérieur": {
+			"j'": "eus rechargé",
+			"tu": "eus rechargé",
+			"il/elle": "eut rechargé",
+			"nous": "eûmes rechargé",
+			"vous": "eûtes rechargé",
+			"ils/elles": "eurent rechargé"
+		},
+		"futur antérieur": {
+			"j'": "aurai rechargé",
+			"tu": "auras rechargé",
+			"il/elle": "aura rechargé",
+			"nous": "aurons rechargé",
+			"vous": "aurez rechargé",
+			"ils/elles": "auront rechargé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous rechargiez",
+			"qu'il/elle": "recharge",
+			"qu'ils/elles": "rechargent"
+		},
+		"imparfait": {
+			"que": "vous rechargeassiez",
+			"qu'il/elle": "rechargeât",
+			"qu'ils/elles": "rechargeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse rechargé",
+			"que": "vous eussiez rechargé",
+			"qu'il/elle": "eût rechargé",
+			"qu'ils/elles": "eussent rechargé"
+		},
+		"passé": {
+			"j'": "aie rechargé",
+			"que": "vous ayez rechargé",
+			"qu'il/elle": "ait rechargé",
+			"qu'ils/elles": "aient rechargé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "rechargerais",
+			"tu": "rechargerais",
+			"il/elle": "rechargerait",
+			"nous": "rechargerions",
+			"vous": "rechargeriez",
+			"ils/elles": "rechargeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais rechargé",
+			"tu": "aurais rechargé",
+			"il/elle": "aurait rechargé",
+			"nous": "aurions rechargé",
+			"vous": "auriez rechargé",
+			"ils/elles": "auraient rechargé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse rechargé",
+			"tu": "eusses rechargé",
+			"il/elle": "eût rechargé",
+			"nous": "eussions rechargé",
+			"vous": "eussiez rechargé",
+			"ils/elles": "eussent rechargé"
+		}
+	},
+	"participe": {
+		"présent": { "rechargeant": "" },
+		"passé composé": { "ayant": "rechargé" },
+		"passé": {
+			"masc.sg.:": "rechargé",
+			"masc.pl.:": "rechargés",
+			"fém.sg.:": "rechargée",
+			"fém.pl.:": "rechargées"
+		}
+	},
+	"imperatif": {
+		"présent": { "recharge": "", "rechargeons": "", "rechargez": "" },
+		"passé": { "aie": "rechargé", "ayons": "rechargé", "ayez": "rechargé" }
+	},
+	"infinitif": {
+		"présent": { "recharger": "" },
+		"passé": { "avoir": "rechargé" }
+	}
+}

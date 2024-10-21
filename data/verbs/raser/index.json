@@ -1,0 +1,138 @@
+{
+	"name": "raser",
+	"definition": "shave; raze; level; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se raser/ne pas raser/ne pas se raser",
+	"indicatif": {
+		"présent": {
+			"je": "rase",
+			"tu": "rases",
+			"il/elle": "rase",
+			"nous": "rasons",
+			"vous": "rasez",
+			"ils/elles": "rasent"
+		},
+		"imparfait": {
+			"je": "rasais",
+			"tu": "rasais",
+			"il/elle": "rasait",
+			"nous": "rasions",
+			"vous": "rasiez",
+			"ils/elles": "rasaient"
+		},
+		"futur": {
+			"je": "raserai",
+			"tu": "raseras",
+			"il/elle": "rasera",
+			"nous": "raserons",
+			"vous": "raserez",
+			"ils/elles": "raseront"
+		},
+		"passé simple": {
+			"je": "rasai",
+			"tu": "rasas",
+			"il/elle": "rasa",
+			"nous": "rasâmes",
+			"vous": "rasâtes",
+			"ils/elles": "rasèrent"
+		},
+		"passé composé": {
+			"j'": "ai rasé",
+			"tu": "as rasé",
+			"il/elle": "a rasé",
+			"nous": "avons rasé",
+			"vous": "avez rasé",
+			"ils/elles": "ont rasé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais rasé",
+			"tu": "avais rasé",
+			"il/elle": "avait rasé",
+			"nous": "avions rasé",
+			"vous": "aviez rasé",
+			"ils/elles": "avaient rasé"
+		},
+		"passé antérieur": {
+			"j'": "eus rasé",
+			"tu": "eus rasé",
+			"il/elle": "eut rasé",
+			"nous": "eûmes rasé",
+			"vous": "eûtes rasé",
+			"ils/elles": "eurent rasé"
+		},
+		"futur antérieur": {
+			"j'": "aurai rasé",
+			"tu": "auras rasé",
+			"il/elle": "aura rasé",
+			"nous": "aurons rasé",
+			"vous": "aurez rasé",
+			"ils/elles": "auront rasé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous rasiez",
+			"qu'il/elle": "rase",
+			"qu'ils/elles": "rasent"
+		},
+		"imparfait": {
+			"que": "vous rasassiez",
+			"qu'il/elle": "rasât",
+			"qu'ils/elles": "rasassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse rasé",
+			"que": "vous eussiez rasé",
+			"qu'il/elle": "eût rasé",
+			"qu'ils/elles": "eussent rasé"
+		},
+		"passé": {
+			"j'": "aie rasé",
+			"que": "vous ayez rasé",
+			"qu'il/elle": "ait rasé",
+			"qu'ils/elles": "aient rasé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "raserais",
+			"tu": "raserais",
+			"il/elle": "raserait",
+			"nous": "raserions",
+			"vous": "raseriez",
+			"ils/elles": "raseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais rasé",
+			"tu": "aurais rasé",
+			"il/elle": "aurait rasé",
+			"nous": "aurions rasé",
+			"vous": "auriez rasé",
+			"ils/elles": "auraient rasé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse rasé",
+			"tu": "eusses rasé",
+			"il/elle": "eût rasé",
+			"nous": "eussions rasé",
+			"vous": "eussiez rasé",
+			"ils/elles": "eussent rasé"
+		}
+	},
+	"participe": {
+		"présent": { "rasant": "" },
+		"passé composé": { "ayant": "rasé" },
+		"passé": {
+			"masc.sg.:": "rasé",
+			"masc.pl.:": "rasés",
+			"fém.sg.:": "rasée",
+			"fém.pl.:": "rasées"
+		}
+	},
+	"imperatif": {
+		"présent": { "rase": "", "rasons": "", "rasez": "" },
+		"passé": { "aie": "rasé", "ayons": "rasé", "ayez": "rasé" }
+	},
+	"infinitif": { "présent": { "raser": "" }, "passé": { "avoir": "rasé" } }
+}

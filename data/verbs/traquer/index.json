@@ -1,0 +1,138 @@
+{
+	"name": "traquer",
+	"definition": "track down; hunt down; stalk; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se traquer/ne pas traquer/ne pas se traquer",
+	"indicatif": {
+		"présent": {
+			"je": "traque",
+			"tu": "traques",
+			"il/elle": "traque",
+			"nous": "traquons",
+			"vous": "traquez",
+			"ils/elles": "traquent"
+		},
+		"imparfait": {
+			"je": "traquais",
+			"tu": "traquais",
+			"il/elle": "traquait",
+			"nous": "traquions",
+			"vous": "traquiez",
+			"ils/elles": "traquaient"
+		},
+		"futur": {
+			"je": "traquerai",
+			"tu": "traqueras",
+			"il/elle": "traquera",
+			"nous": "traquerons",
+			"vous": "traquerez",
+			"ils/elles": "traqueront"
+		},
+		"passé simple": {
+			"je": "traquai",
+			"tu": "traquas",
+			"il/elle": "traqua",
+			"nous": "traquâmes",
+			"vous": "traquâtes",
+			"ils/elles": "traquèrent"
+		},
+		"passé composé": {
+			"j'": "ai traqué",
+			"tu": "as traqué",
+			"il/elle": "a traqué",
+			"nous": "avons traqué",
+			"vous": "avez traqué",
+			"ils/elles": "ont traqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais traqué",
+			"tu": "avais traqué",
+			"il/elle": "avait traqué",
+			"nous": "avions traqué",
+			"vous": "aviez traqué",
+			"ils/elles": "avaient traqué"
+		},
+		"passé antérieur": {
+			"j'": "eus traqué",
+			"tu": "eus traqué",
+			"il/elle": "eut traqué",
+			"nous": "eûmes traqué",
+			"vous": "eûtes traqué",
+			"ils/elles": "eurent traqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai traqué",
+			"tu": "auras traqué",
+			"il/elle": "aura traqué",
+			"nous": "aurons traqué",
+			"vous": "aurez traqué",
+			"ils/elles": "auront traqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous traquiez",
+			"qu'il/elle": "traque",
+			"qu'ils/elles": "traquent"
+		},
+		"imparfait": {
+			"que": "vous traquassiez",
+			"qu'il/elle": "traquât",
+			"qu'ils/elles": "traquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse traqué",
+			"que": "vous eussiez traqué",
+			"qu'il/elle": "eût traqué",
+			"qu'ils/elles": "eussent traqué"
+		},
+		"passé": {
+			"j'": "aie traqué",
+			"que": "vous ayez traqué",
+			"qu'il/elle": "ait traqué",
+			"qu'ils/elles": "aient traqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "traquerais",
+			"tu": "traquerais",
+			"il/elle": "traquerait",
+			"nous": "traquerions",
+			"vous": "traqueriez",
+			"ils/elles": "traqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais traqué",
+			"tu": "aurais traqué",
+			"il/elle": "aurait traqué",
+			"nous": "aurions traqué",
+			"vous": "auriez traqué",
+			"ils/elles": "auraient traqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse traqué",
+			"tu": "eusses traqué",
+			"il/elle": "eût traqué",
+			"nous": "eussions traqué",
+			"vous": "eussiez traqué",
+			"ils/elles": "eussent traqué"
+		}
+	},
+	"participe": {
+		"présent": { "traquant": "" },
+		"passé composé": { "ayant": "traqué" },
+		"passé": {
+			"masc.sg.:": "traqué",
+			"masc.pl.:": "traqués",
+			"fém.sg.:": "traquée",
+			"fém.pl.:": "traquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "traque": "", "traquons": "", "traquez": "" },
+		"passé": { "aie": "traqué", "ayons": "traqué", "ayez": "traqué" }
+	},
+	"infinitif": { "présent": { "traquer": "" }, "passé": { "avoir": "traqué" } }
+}

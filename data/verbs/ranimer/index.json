@@ -1,0 +1,138 @@
+{
+	"name": "ranimer",
+	"definition": "revive; rekindle; reanimate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se ranimer/ne pas ranimer/ne pas se ranimer",
+	"indicatif": {
+		"présent": {
+			"je": "ranime",
+			"tu": "ranimes",
+			"il/elle": "ranime",
+			"nous": "ranimons",
+			"vous": "ranimez",
+			"ils/elles": "raniment"
+		},
+		"imparfait": {
+			"je": "ranimais",
+			"tu": "ranimais",
+			"il/elle": "ranimait",
+			"nous": "ranimions",
+			"vous": "ranimiez",
+			"ils/elles": "ranimaient"
+		},
+		"futur": {
+			"je": "ranimerai",
+			"tu": "ranimeras",
+			"il/elle": "ranimera",
+			"nous": "ranimerons",
+			"vous": "ranimerez",
+			"ils/elles": "ranimeront"
+		},
+		"passé simple": {
+			"je": "ranimai",
+			"tu": "ranimas",
+			"il/elle": "ranima",
+			"nous": "ranimâmes",
+			"vous": "ranimâtes",
+			"ils/elles": "ranimèrent"
+		},
+		"passé composé": {
+			"j'": "ai ranimé",
+			"tu": "as ranimé",
+			"il/elle": "a ranimé",
+			"nous": "avons ranimé",
+			"vous": "avez ranimé",
+			"ils/elles": "ont ranimé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais ranimé",
+			"tu": "avais ranimé",
+			"il/elle": "avait ranimé",
+			"nous": "avions ranimé",
+			"vous": "aviez ranimé",
+			"ils/elles": "avaient ranimé"
+		},
+		"passé antérieur": {
+			"j'": "eus ranimé",
+			"tu": "eus ranimé",
+			"il/elle": "eut ranimé",
+			"nous": "eûmes ranimé",
+			"vous": "eûtes ranimé",
+			"ils/elles": "eurent ranimé"
+		},
+		"futur antérieur": {
+			"j'": "aurai ranimé",
+			"tu": "auras ranimé",
+			"il/elle": "aura ranimé",
+			"nous": "aurons ranimé",
+			"vous": "aurez ranimé",
+			"ils/elles": "auront ranimé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous ranimiez",
+			"qu'il/elle": "ranime",
+			"qu'ils/elles": "raniment"
+		},
+		"imparfait": {
+			"que": "vous ranimassiez",
+			"qu'il/elle": "ranimât",
+			"qu'ils/elles": "ranimassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse ranimé",
+			"que": "vous eussiez ranimé",
+			"qu'il/elle": "eût ranimé",
+			"qu'ils/elles": "eussent ranimé"
+		},
+		"passé": {
+			"j'": "aie ranimé",
+			"que": "vous ayez ranimé",
+			"qu'il/elle": "ait ranimé",
+			"qu'ils/elles": "aient ranimé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "ranimerais",
+			"tu": "ranimerais",
+			"il/elle": "ranimerait",
+			"nous": "ranimerions",
+			"vous": "ranimeriez",
+			"ils/elles": "ranimeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais ranimé",
+			"tu": "aurais ranimé",
+			"il/elle": "aurait ranimé",
+			"nous": "aurions ranimé",
+			"vous": "auriez ranimé",
+			"ils/elles": "auraient ranimé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse ranimé",
+			"tu": "eusses ranimé",
+			"il/elle": "eût ranimé",
+			"nous": "eussions ranimé",
+			"vous": "eussiez ranimé",
+			"ils/elles": "eussent ranimé"
+		}
+	},
+	"participe": {
+		"présent": { "ranimant": "" },
+		"passé composé": { "ayant": "ranimé" },
+		"passé": {
+			"masc.sg.:": "ranimé",
+			"masc.pl.:": "ranimés",
+			"fém.sg.:": "ranimée",
+			"fém.pl.:": "ranimées"
+		}
+	},
+	"imperatif": {
+		"présent": { "ranime": "", "ranimons": "", "ranimez": "" },
+		"passé": { "aie": "ranimé", "ayons": "ranimé", "ayez": "ranimé" }
+	},
+	"infinitif": { "présent": { "ranimer": "" }, "passé": { "avoir": "ranimé" } }
+}

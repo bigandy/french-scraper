@@ -1,0 +1,143 @@
+{
+	"name": "hydrater",
+	"definition": "hydrate; moisturize; moisturise; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'hydrater/ne pas hydrater/ne pas s'hydrater",
+	"indicatif": {
+		"présent": {
+			"j'": "hydrate",
+			"tu": "hydrates",
+			"il/elle": "hydrate",
+			"nous": "hydratons",
+			"vous": "hydratez",
+			"ils/elles": "hydratent"
+		},
+		"imparfait": {
+			"j'": "hydratais",
+			"tu": "hydratais",
+			"il/elle": "hydratait",
+			"nous": "hydrations",
+			"vous": "hydratiez",
+			"ils/elles": "hydrataient"
+		},
+		"futur": {
+			"j'": "hydraterai",
+			"tu": "hydrateras",
+			"il/elle": "hydratera",
+			"nous": "hydraterons",
+			"vous": "hydraterez",
+			"ils/elles": "hydrateront"
+		},
+		"passé simple": {
+			"j'": "hydratai",
+			"tu": "hydratas",
+			"il/elle": "hydrata",
+			"nous": "hydratâmes",
+			"vous": "hydratâtes",
+			"ils/elles": "hydratèrent"
+		},
+		"passé composé": {
+			"j'": "ai hydraté",
+			"tu": "as hydraté",
+			"il/elle": "a hydraté",
+			"nous": "avons hydraté",
+			"vous": "avez hydraté",
+			"ils/elles": "ont hydraté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais hydraté",
+			"tu": "avais hydraté",
+			"il/elle": "avait hydraté",
+			"nous": "avions hydraté",
+			"vous": "aviez hydraté",
+			"ils/elles": "avaient hydraté"
+		},
+		"passé antérieur": {
+			"j'": "eus hydraté",
+			"tu": "eus hydraté",
+			"il/elle": "eut hydraté",
+			"nous": "eûmes hydraté",
+			"vous": "eûtes hydraté",
+			"ils/elles": "eurent hydraté"
+		},
+		"futur antérieur": {
+			"j'": "aurai hydraté",
+			"tu": "auras hydraté",
+			"il/elle": "aura hydraté",
+			"nous": "aurons hydraté",
+			"vous": "aurez hydraté",
+			"ils/elles": "auront hydraté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "hydrate",
+			"que": "vous hydratiez",
+			"qu'il/elle": "hydrate",
+			"qu'ils/elles": "hydratent"
+		},
+		"imparfait": {
+			"j'": "hydratasse",
+			"que": "vous hydratassiez",
+			"qu'il/elle": "hydratât",
+			"qu'ils/elles": "hydratassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse hydraté",
+			"que": "vous eussiez hydraté",
+			"qu'il/elle": "eût hydraté",
+			"qu'ils/elles": "eussent hydraté"
+		},
+		"passé": {
+			"j'": "aie hydraté",
+			"que": "vous ayez hydraté",
+			"qu'il/elle": "ait hydraté",
+			"qu'ils/elles": "aient hydraté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "hydraterais",
+			"tu": "hydraterais",
+			"il/elle": "hydraterait",
+			"nous": "hydraterions",
+			"vous": "hydrateriez",
+			"ils/elles": "hydrateraient"
+		},
+		"passé première forme": {
+			"j'": "aurais hydraté",
+			"tu": "aurais hydraté",
+			"il/elle": "aurait hydraté",
+			"nous": "aurions hydraté",
+			"vous": "auriez hydraté",
+			"ils/elles": "auraient hydraté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse hydraté",
+			"tu": "eusses hydraté",
+			"il/elle": "eût hydraté",
+			"nous": "eussions hydraté",
+			"vous": "eussiez hydraté",
+			"ils/elles": "eussent hydraté"
+		}
+	},
+	"participe": {
+		"présent": { "hydratant": "" },
+		"passé composé": { "ayant": "hydraté" },
+		"passé": {
+			"masc.sg.:": "hydraté",
+			"masc.pl.:": "hydratés",
+			"fém.sg.:": "hydratée",
+			"fém.pl.:": "hydratées"
+		}
+	},
+	"imperatif": {
+		"présent": { "hydrate": "", "hydratons": "", "hydratez": "" },
+		"passé": { "aie": "hydraté", "ayons": "hydraté", "ayez": "hydraté" }
+	},
+	"infinitif": {
+		"présent": { "hydrater": "" },
+		"passé": { "avoir": "hydraté" }
+	}
+}

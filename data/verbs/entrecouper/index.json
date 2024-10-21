@@ -1,0 +1,147 @@
+{
+	"name": "entrecouper",
+	"definition": "intersect; interrupt; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'entrecouper/ne pas entrecouper/ne pas s'entrecouper",
+	"indicatif": {
+		"présent": {
+			"j'": "entrecoupe",
+			"tu": "entrecoupes",
+			"il/elle": "entrecoupe",
+			"nous": "entrecoupons",
+			"vous": "entrecoupez",
+			"ils/elles": "entrecoupent"
+		},
+		"imparfait": {
+			"j'": "entrecoupais",
+			"tu": "entrecoupais",
+			"il/elle": "entrecoupait",
+			"nous": "entrecoupions",
+			"vous": "entrecoupiez",
+			"ils/elles": "entrecoupaient"
+		},
+		"futur": {
+			"j'": "entrecouperai",
+			"tu": "entrecouperas",
+			"il/elle": "entrecoupera",
+			"nous": "entrecouperons",
+			"vous": "entrecouperez",
+			"ils/elles": "entrecouperont"
+		},
+		"passé simple": {
+			"j'": "entrecoupai",
+			"tu": "entrecoupas",
+			"il/elle": "entrecoupa",
+			"nous": "entrecoupâmes",
+			"vous": "entrecoupâtes",
+			"ils/elles": "entrecoupèrent"
+		},
+		"passé composé": {
+			"j'": "ai entrecoupé",
+			"tu": "as entrecoupé",
+			"il/elle": "a entrecoupé",
+			"nous": "avons entrecoupé",
+			"vous": "avez entrecoupé",
+			"ils/elles": "ont entrecoupé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais entrecoupé",
+			"tu": "avais entrecoupé",
+			"il/elle": "avait entrecoupé",
+			"nous": "avions entrecoupé",
+			"vous": "aviez entrecoupé",
+			"ils/elles": "avaient entrecoupé"
+		},
+		"passé antérieur": {
+			"j'": "eus entrecoupé",
+			"tu": "eus entrecoupé",
+			"il/elle": "eut entrecoupé",
+			"nous": "eûmes entrecoupé",
+			"vous": "eûtes entrecoupé",
+			"ils/elles": "eurent entrecoupé"
+		},
+		"futur antérieur": {
+			"j'": "aurai entrecoupé",
+			"tu": "auras entrecoupé",
+			"il/elle": "aura entrecoupé",
+			"nous": "aurons entrecoupé",
+			"vous": "aurez entrecoupé",
+			"ils/elles": "auront entrecoupé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "entrecoupe",
+			"que": "vous entrecoupiez",
+			"qu'il/elle": "entrecoupe",
+			"qu'ils/elles": "entrecoupent"
+		},
+		"imparfait": {
+			"j'": "entrecoupasse",
+			"que": "vous entrecoupassiez",
+			"qu'il/elle": "entrecoupât",
+			"qu'ils/elles": "entrecoupassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse entrecoupé",
+			"que": "vous eussiez entrecoupé",
+			"qu'il/elle": "eût entrecoupé",
+			"qu'ils/elles": "eussent entrecoupé"
+		},
+		"passé": {
+			"j'": "aie entrecoupé",
+			"que": "vous ayez entrecoupé",
+			"qu'il/elle": "ait entrecoupé",
+			"qu'ils/elles": "aient entrecoupé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "entrecouperais",
+			"tu": "entrecouperais",
+			"il/elle": "entrecouperait",
+			"nous": "entrecouperions",
+			"vous": "entrecouperiez",
+			"ils/elles": "entrecouperaient"
+		},
+		"passé première forme": {
+			"j'": "aurais entrecoupé",
+			"tu": "aurais entrecoupé",
+			"il/elle": "aurait entrecoupé",
+			"nous": "aurions entrecoupé",
+			"vous": "auriez entrecoupé",
+			"ils/elles": "auraient entrecoupé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse entrecoupé",
+			"tu": "eusses entrecoupé",
+			"il/elle": "eût entrecoupé",
+			"nous": "eussions entrecoupé",
+			"vous": "eussiez entrecoupé",
+			"ils/elles": "eussent entrecoupé"
+		}
+	},
+	"participe": {
+		"présent": { "entrecoupant": "" },
+		"passé composé": { "ayant": "entrecoupé" },
+		"passé": {
+			"masc.sg.:": "entrecoupé",
+			"masc.pl.:": "entrecoupés",
+			"fém.sg.:": "entrecoupée",
+			"fém.pl.:": "entrecoupées"
+		}
+	},
+	"imperatif": {
+		"présent": { "entrecoupe": "", "entrecoupons": "", "entrecoupez": "" },
+		"passé": {
+			"aie": "entrecoupé",
+			"ayons": "entrecoupé",
+			"ayez": "entrecoupé"
+		}
+	},
+	"infinitif": {
+		"présent": { "entrecouper": "" },
+		"passé": { "avoir": "entrecoupé" }
+	}
+}

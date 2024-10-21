@@ -1,0 +1,145 @@
+{
+	"name": "raccompagner",
+	"definition": "walk; home; escort; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se raccompagner/ne pas raccompagner/ne pas se raccompagner",
+	"indicatif": {
+		"présent": {
+			"je": "raccompagne",
+			"tu": "raccompagnes",
+			"il/elle": "raccompagne",
+			"nous": "raccompagnons",
+			"vous": "raccompagnez",
+			"ils/elles": "raccompagnent"
+		},
+		"imparfait": {
+			"je": "raccompagnais",
+			"tu": "raccompagnais",
+			"il/elle": "raccompagnait",
+			"nous": "raccompagnions",
+			"vous": "raccompagniez",
+			"ils/elles": "raccompagnaient"
+		},
+		"futur": {
+			"je": "raccompagnerai",
+			"tu": "raccompagneras",
+			"il/elle": "raccompagnera",
+			"nous": "raccompagnerons",
+			"vous": "raccompagnerez",
+			"ils/elles": "raccompagneront"
+		},
+		"passé simple": {
+			"je": "raccompagnai",
+			"tu": "raccompagnas",
+			"il/elle": "raccompagna",
+			"nous": "raccompagnâmes",
+			"vous": "raccompagnâtes",
+			"ils/elles": "raccompagnèrent"
+		},
+		"passé composé": {
+			"j'": "ai raccompagné",
+			"tu": "as raccompagné",
+			"il/elle": "a raccompagné",
+			"nous": "avons raccompagné",
+			"vous": "avez raccompagné",
+			"ils/elles": "ont raccompagné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais raccompagné",
+			"tu": "avais raccompagné",
+			"il/elle": "avait raccompagné",
+			"nous": "avions raccompagné",
+			"vous": "aviez raccompagné",
+			"ils/elles": "avaient raccompagné"
+		},
+		"passé antérieur": {
+			"j'": "eus raccompagné",
+			"tu": "eus raccompagné",
+			"il/elle": "eut raccompagné",
+			"nous": "eûmes raccompagné",
+			"vous": "eûtes raccompagné",
+			"ils/elles": "eurent raccompagné"
+		},
+		"futur antérieur": {
+			"j'": "aurai raccompagné",
+			"tu": "auras raccompagné",
+			"il/elle": "aura raccompagné",
+			"nous": "aurons raccompagné",
+			"vous": "aurez raccompagné",
+			"ils/elles": "auront raccompagné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous raccompagniez",
+			"qu'il/elle": "raccompagne",
+			"qu'ils/elles": "raccompagnent"
+		},
+		"imparfait": {
+			"que": "vous raccompagnassiez",
+			"qu'il/elle": "raccompagnât",
+			"qu'ils/elles": "raccompagnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse raccompagné",
+			"que": "vous eussiez raccompagné",
+			"qu'il/elle": "eût raccompagné",
+			"qu'ils/elles": "eussent raccompagné"
+		},
+		"passé": {
+			"j'": "aie raccompagné",
+			"que": "vous ayez raccompagné",
+			"qu'il/elle": "ait raccompagné",
+			"qu'ils/elles": "aient raccompagné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "raccompagnerais",
+			"tu": "raccompagnerais",
+			"il/elle": "raccompagnerait",
+			"nous": "raccompagnerions",
+			"vous": "raccompagneriez",
+			"ils/elles": "raccompagneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais raccompagné",
+			"tu": "aurais raccompagné",
+			"il/elle": "aurait raccompagné",
+			"nous": "aurions raccompagné",
+			"vous": "auriez raccompagné",
+			"ils/elles": "auraient raccompagné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse raccompagné",
+			"tu": "eusses raccompagné",
+			"il/elle": "eût raccompagné",
+			"nous": "eussions raccompagné",
+			"vous": "eussiez raccompagné",
+			"ils/elles": "eussent raccompagné"
+		}
+	},
+	"participe": {
+		"présent": { "raccompagnant": "" },
+		"passé composé": { "ayant": "raccompagné" },
+		"passé": {
+			"masc.sg.:": "raccompagné",
+			"masc.pl.:": "raccompagnés",
+			"fém.sg.:": "raccompagnée",
+			"fém.pl.:": "raccompagnées"
+		}
+	},
+	"imperatif": {
+		"présent": { "raccompagne": "", "raccompagnons": "", "raccompagnez": "" },
+		"passé": {
+			"aie": "raccompagné",
+			"ayons": "raccompagné",
+			"ayez": "raccompagné"
+		}
+	},
+	"infinitif": {
+		"présent": { "raccompagner": "" },
+		"passé": { "avoir": "raccompagné" }
+	}
+}

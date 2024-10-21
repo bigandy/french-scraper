@@ -1,0 +1,140 @@
+{
+	"name": "influer",
+	"definition": "influence; impact; effect; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas influer",
+	"indicatif": {
+		"présent": {
+			"j'": "influe",
+			"tu": "influes",
+			"il/elle": "influe",
+			"nous": "influons",
+			"vous": "influez",
+			"ils/elles": "influent"
+		},
+		"imparfait": {
+			"j'": "influais",
+			"tu": "influais",
+			"il/elle": "influait",
+			"nous": "influions",
+			"vous": "influiez",
+			"ils/elles": "influaient"
+		},
+		"futur": {
+			"j'": "influerai",
+			"tu": "influeras",
+			"il/elle": "influera",
+			"nous": "influerons",
+			"vous": "influerez",
+			"ils/elles": "influeront"
+		},
+		"passé simple": {
+			"j'": "influai",
+			"tu": "influas",
+			"il/elle": "influa",
+			"nous": "influâmes",
+			"vous": "influâtes",
+			"ils/elles": "influèrent"
+		},
+		"passé composé": {
+			"j'": "ai influé",
+			"tu": "as influé",
+			"il/elle": "a influé",
+			"nous": "avons influé",
+			"vous": "avez influé",
+			"ils/elles": "ont influé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais influé",
+			"tu": "avais influé",
+			"il/elle": "avait influé",
+			"nous": "avions influé",
+			"vous": "aviez influé",
+			"ils/elles": "avaient influé"
+		},
+		"passé antérieur": {
+			"j'": "eus influé",
+			"tu": "eus influé",
+			"il/elle": "eut influé",
+			"nous": "eûmes influé",
+			"vous": "eûtes influé",
+			"ils/elles": "eurent influé"
+		},
+		"futur antérieur": {
+			"j'": "aurai influé",
+			"tu": "auras influé",
+			"il/elle": "aura influé",
+			"nous": "aurons influé",
+			"vous": "aurez influé",
+			"ils/elles": "auront influé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "influe",
+			"que": "vous influiez",
+			"qu'il/elle": "influe",
+			"qu'ils/elles": "influent"
+		},
+		"imparfait": {
+			"j'": "influasse",
+			"que": "vous influassiez",
+			"qu'il/elle": "influât",
+			"qu'ils/elles": "influassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse influé",
+			"que": "vous eussiez influé",
+			"qu'il/elle": "eût influé",
+			"qu'ils/elles": "eussent influé"
+		},
+		"passé": {
+			"j'": "aie influé",
+			"que": "vous ayez influé",
+			"qu'il/elle": "ait influé",
+			"qu'ils/elles": "aient influé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "influerais",
+			"tu": "influerais",
+			"il/elle": "influerait",
+			"nous": "influerions",
+			"vous": "influeriez",
+			"ils/elles": "influeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais influé",
+			"tu": "aurais influé",
+			"il/elle": "aurait influé",
+			"nous": "aurions influé",
+			"vous": "auriez influé",
+			"ils/elles": "auraient influé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse influé",
+			"tu": "eusses influé",
+			"il/elle": "eût influé",
+			"nous": "eussions influé",
+			"vous": "eussiez influé",
+			"ils/elles": "eussent influé"
+		}
+	},
+	"participe": {
+		"présent": { "influant": "" },
+		"passé composé": { "ayant": "influé" },
+		"passé": {
+			"masc.sg.:": "influé",
+			"masc.pl.:": "influés",
+			"fém.sg.:": "influée",
+			"fém.pl.:": "influées"
+		}
+	},
+	"imperatif": {
+		"présent": { "influe": "", "influons": "", "influez": "" },
+		"passé": { "aie": "influé", "ayons": "influé", "ayez": "influé" }
+	},
+	"infinitif": { "présent": { "influer": "" }, "passé": { "avoir": "influé" } }
+}

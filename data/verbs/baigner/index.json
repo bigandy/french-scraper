@@ -1,0 +1,138 @@
+{
+	"name": "baigner",
+	"definition": "bathe; bath; dip; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se baigner/ne pas baigner/ne pas se baigner",
+	"indicatif": {
+		"présent": {
+			"je": "baigne",
+			"tu": "baignes",
+			"il/elle": "baigne",
+			"nous": "baignons",
+			"vous": "baignez",
+			"ils/elles": "baignent"
+		},
+		"imparfait": {
+			"je": "baignais",
+			"tu": "baignais",
+			"il/elle": "baignait",
+			"nous": "baignions",
+			"vous": "baigniez",
+			"ils/elles": "baignaient"
+		},
+		"futur": {
+			"je": "baignerai",
+			"tu": "baigneras",
+			"il/elle": "baignera",
+			"nous": "baignerons",
+			"vous": "baignerez",
+			"ils/elles": "baigneront"
+		},
+		"passé simple": {
+			"je": "baignai",
+			"tu": "baignas",
+			"il/elle": "baigna",
+			"nous": "baignâmes",
+			"vous": "baignâtes",
+			"ils/elles": "baignèrent"
+		},
+		"passé composé": {
+			"j'": "ai baigné",
+			"tu": "as baigné",
+			"il/elle": "a baigné",
+			"nous": "avons baigné",
+			"vous": "avez baigné",
+			"ils/elles": "ont baigné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais baigné",
+			"tu": "avais baigné",
+			"il/elle": "avait baigné",
+			"nous": "avions baigné",
+			"vous": "aviez baigné",
+			"ils/elles": "avaient baigné"
+		},
+		"passé antérieur": {
+			"j'": "eus baigné",
+			"tu": "eus baigné",
+			"il/elle": "eut baigné",
+			"nous": "eûmes baigné",
+			"vous": "eûtes baigné",
+			"ils/elles": "eurent baigné"
+		},
+		"futur antérieur": {
+			"j'": "aurai baigné",
+			"tu": "auras baigné",
+			"il/elle": "aura baigné",
+			"nous": "aurons baigné",
+			"vous": "aurez baigné",
+			"ils/elles": "auront baigné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous baigniez",
+			"qu'il/elle": "baigne",
+			"qu'ils/elles": "baignent"
+		},
+		"imparfait": {
+			"que": "vous baignassiez",
+			"qu'il/elle": "baignât",
+			"qu'ils/elles": "baignassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse baigné",
+			"que": "vous eussiez baigné",
+			"qu'il/elle": "eût baigné",
+			"qu'ils/elles": "eussent baigné"
+		},
+		"passé": {
+			"j'": "aie baigné",
+			"que": "vous ayez baigné",
+			"qu'il/elle": "ait baigné",
+			"qu'ils/elles": "aient baigné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "baignerais",
+			"tu": "baignerais",
+			"il/elle": "baignerait",
+			"nous": "baignerions",
+			"vous": "baigneriez",
+			"ils/elles": "baigneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais baigné",
+			"tu": "aurais baigné",
+			"il/elle": "aurait baigné",
+			"nous": "aurions baigné",
+			"vous": "auriez baigné",
+			"ils/elles": "auraient baigné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse baigné",
+			"tu": "eusses baigné",
+			"il/elle": "eût baigné",
+			"nous": "eussions baigné",
+			"vous": "eussiez baigné",
+			"ils/elles": "eussent baigné"
+		}
+	},
+	"participe": {
+		"présent": { "baignant": "" },
+		"passé composé": { "ayant": "baigné" },
+		"passé": {
+			"masc.sg.:": "baigné",
+			"masc.pl.:": "baignés",
+			"fém.sg.:": "baignée",
+			"fém.pl.:": "baignées"
+		}
+	},
+	"imperatif": {
+		"présent": { "baigne": "", "baignons": "", "baignez": "" },
+		"passé": { "aie": "baigné", "ayons": "baigné", "ayez": "baigné" }
+	},
+	"infinitif": { "présent": { "baigner": "" }, "passé": { "avoir": "baigné" } }
+}

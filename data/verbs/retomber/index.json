@@ -1,0 +1,152 @@
+{
+	"name": "retomber",
+	"definition": "fall back; slip back; relapse; ...",
+	"model": "marcher",
+	"auxiliary": "être",
+	"otherForms": "ne pas retomber",
+	"indicatif": {
+		"présent": {
+			"je": "retombe",
+			"tu": "retombes",
+			"il/elle": "retombe",
+			"nous": "retombons",
+			"vous": "retombez",
+			"ils/elles": "retombent"
+		},
+		"imparfait": {
+			"je": "retombais",
+			"tu": "retombais",
+			"il/elle": "retombait",
+			"nous": "retombions",
+			"vous": "retombiez",
+			"ils/elles": "retombaient"
+		},
+		"futur": {
+			"je": "retomberai",
+			"tu": "retomberas",
+			"il/elle": "retombera",
+			"nous": "retomberons",
+			"vous": "retomberez",
+			"ils/elles": "retomberont"
+		},
+		"passé simple": {
+			"je": "retombai",
+			"tu": "retombas",
+			"il/elle": "retomba",
+			"nous": "retombâmes",
+			"vous": "retombâtes",
+			"ils/elles": "retombèrent"
+		},
+		"passé composé": {
+			"je": "suis retombé",
+			"tu": "es retombé",
+			"il": "est retombé",
+			"elle": "est retombée",
+			"nous": "sommes retombés",
+			"vous": "êtes retombés",
+			"ils": "sont retombés",
+			"elles": "sont retombées"
+		},
+		"plus-que-parfait": {
+			"j'": "étais retombé",
+			"tu": "étais retombé",
+			"il": "était retombé",
+			"elle": "était retombée",
+			"nous": "étions retombés",
+			"vous": "étiez retombés",
+			"ils": "étaient retombés",
+			"elles": "étaient retombées"
+		},
+		"passé antérieur": {
+			"je": "fus retombé",
+			"tu": "fus retombé",
+			"il": "fut retombé",
+			"elle": "fut retombée",
+			"nous": "fûmes retombés",
+			"vous": "fûtes retombés",
+			"ils": "furent retombés",
+			"elles": "furent retombées"
+		},
+		"futur antérieur": {
+			"je": "serai retombé",
+			"tu": "seras retombé",
+			"il": "sera retombé",
+			"elle": "sera retombée",
+			"nous": "serons retombés",
+			"vous": "serez retombés",
+			"ils": "seront retombés",
+			"elles": "seront retombées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous retombiez",
+			"qu'il/elle": "retombe",
+			"qu'ils/elles": "retombent"
+		},
+		"imparfait": {
+			"que": "vous retombassiez",
+			"qu'il/elle": "retombât",
+			"qu'ils/elles": "retombassent"
+		},
+		"plus-que-parfait": {
+			"que": "vous fussiez retombés",
+			"qu'il": "fût retombé",
+			"qu'elle": "fût retombée",
+			"qu'ils": "fussent retombés",
+			"qu'elles": "fussent retombées"
+		},
+		"passé": {
+			"que": "vous soyez retombés",
+			"qu'il": "soit retombé",
+			"qu'elle": "soit retombée",
+			"qu'ils": "soient retombés",
+			"qu'elles": "soient retombées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "retomberais",
+			"tu": "retomberais",
+			"il/elle": "retomberait",
+			"nous": "retomberions",
+			"vous": "retomberiez",
+			"ils/elles": "retomberaient"
+		},
+		"passé première forme": {
+			"je": "serais retombé",
+			"tu": "serais retombé",
+			"il": "serait retombé",
+			"elle": "serait retombée",
+			"nous": "serions retombés",
+			"vous": "seriez retombés",
+			"ils": "seraient retombés",
+			"elles": "seraient retombées"
+		},
+		"passé deuxième forme": {
+			"je": "fusse retombé",
+			"tu": "fusses retombé",
+			"il": "fût retombé",
+			"elle": "fût retombée",
+			"nous": "fussions retombés",
+			"vous": "fussiez retombés",
+			"ils": "fussent retombés",
+			"elles": "fussent retombées"
+		}
+	},
+	"participe": {
+		"présent": { "retombant": "" },
+		"passé composé": { "étant": "retombée" },
+		"passé": {
+			"masc.sg.:": "retombé",
+			"masc.pl.:": "retombés",
+			"fém.sg.:": "retombée",
+			"fém.pl.:": "retombées"
+		}
+	},
+	"imperatif": {
+		"présent": { "retombe": "", "retombons": "", "retombez": "" },
+		"passé": { "sois": "retombé", "soyons": "retombé", "soyez": "retombé" }
+	},
+	"infinitif": { "présent": { "retomber": "" }, "passé": { "être": "retombé" } }
+}

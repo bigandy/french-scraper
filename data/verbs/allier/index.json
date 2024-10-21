@@ -1,0 +1,140 @@
+{
+	"name": "allier",
+	"definition": "combine; ally; unite; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'allier/ne pas allier/ne pas s'allier",
+	"indicatif": {
+		"présent": {
+			"j'": "allie",
+			"tu": "allies",
+			"il/elle": "allie",
+			"nous": "allions",
+			"vous": "alliez",
+			"ils/elles": "allient"
+		},
+		"imparfait": {
+			"j'": "alliais",
+			"tu": "alliais",
+			"il/elle": "alliait",
+			"nous": "alliions",
+			"vous": "alliiez",
+			"ils/elles": "alliaient"
+		},
+		"futur": {
+			"j'": "allierai",
+			"tu": "allieras",
+			"il/elle": "alliera",
+			"nous": "allierons",
+			"vous": "allierez",
+			"ils/elles": "allieront"
+		},
+		"passé simple": {
+			"j'": "alliai",
+			"tu": "allias",
+			"il/elle": "allia",
+			"nous": "alliâmes",
+			"vous": "alliâtes",
+			"ils/elles": "allièrent"
+		},
+		"passé composé": {
+			"j'": "ai allié",
+			"tu": "as allié",
+			"il/elle": "a allié",
+			"nous": "avons allié",
+			"vous": "avez allié",
+			"ils/elles": "ont allié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais allié",
+			"tu": "avais allié",
+			"il/elle": "avait allié",
+			"nous": "avions allié",
+			"vous": "aviez allié",
+			"ils/elles": "avaient allié"
+		},
+		"passé antérieur": {
+			"j'": "eus allié",
+			"tu": "eus allié",
+			"il/elle": "eut allié",
+			"nous": "eûmes allié",
+			"vous": "eûtes allié",
+			"ils/elles": "eurent allié"
+		},
+		"futur antérieur": {
+			"j'": "aurai allié",
+			"tu": "auras allié",
+			"il/elle": "aura allié",
+			"nous": "aurons allié",
+			"vous": "aurez allié",
+			"ils/elles": "auront allié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "allie",
+			"que": "vous alliiez",
+			"qu'il/elle": "allie",
+			"qu'ils/elles": "allient"
+		},
+		"imparfait": {
+			"j'": "alliasse",
+			"que": "vous alliassiez",
+			"qu'il/elle": "alliât",
+			"qu'ils/elles": "alliassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse allié",
+			"que": "vous eussiez allié",
+			"qu'il/elle": "eût allié",
+			"qu'ils/elles": "eussent allié"
+		},
+		"passé": {
+			"j'": "aie allié",
+			"que": "vous ayez allié",
+			"qu'il/elle": "ait allié",
+			"qu'ils/elles": "aient allié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "allierais",
+			"tu": "allierais",
+			"il/elle": "allierait",
+			"nous": "allierions",
+			"vous": "allieriez",
+			"ils/elles": "allieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais allié",
+			"tu": "aurais allié",
+			"il/elle": "aurait allié",
+			"nous": "aurions allié",
+			"vous": "auriez allié",
+			"ils/elles": "auraient allié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse allié",
+			"tu": "eusses allié",
+			"il/elle": "eût allié",
+			"nous": "eussions allié",
+			"vous": "eussiez allié",
+			"ils/elles": "eussent allié"
+		}
+	},
+	"participe": {
+		"présent": { "alliant": "" },
+		"passé composé": { "ayant": "allié" },
+		"passé": {
+			"masc.sg.:": "allié",
+			"masc.pl.:": "alliés",
+			"fém.sg.:": "alliée",
+			"fém.pl.:": "alliées"
+		}
+	},
+	"imperatif": {
+		"présent": { "allie": "", "allions": "", "alliez": "" },
+		"passé": { "aie": "allié", "ayons": "allié", "ayez": "allié" }
+	},
+	"infinitif": { "présent": { "allier": "" }, "passé": { "avoir": "allié" } }
+}

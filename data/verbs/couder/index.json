@@ -1,0 +1,138 @@
+{
+	"name": "couder",
+	"definition": "bend; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se couder/ne pas couder/ne pas se couder",
+	"indicatif": {
+		"présent": {
+			"je": "coude",
+			"tu": "coudes",
+			"il/elle": "coude",
+			"nous": "coudons",
+			"vous": "coudez",
+			"ils/elles": "coudent"
+		},
+		"imparfait": {
+			"je": "coudais",
+			"tu": "coudais",
+			"il/elle": "coudait",
+			"nous": "coudions",
+			"vous": "coudiez",
+			"ils/elles": "coudaient"
+		},
+		"futur": {
+			"je": "couderai",
+			"tu": "couderas",
+			"il/elle": "coudera",
+			"nous": "couderons",
+			"vous": "couderez",
+			"ils/elles": "couderont"
+		},
+		"passé simple": {
+			"je": "coudai",
+			"tu": "coudas",
+			"il/elle": "couda",
+			"nous": "coudâmes",
+			"vous": "coudâtes",
+			"ils/elles": "coudèrent"
+		},
+		"passé composé": {
+			"j'": "ai coudé",
+			"tu": "as coudé",
+			"il/elle": "a coudé",
+			"nous": "avons coudé",
+			"vous": "avez coudé",
+			"ils/elles": "ont coudé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais coudé",
+			"tu": "avais coudé",
+			"il/elle": "avait coudé",
+			"nous": "avions coudé",
+			"vous": "aviez coudé",
+			"ils/elles": "avaient coudé"
+		},
+		"passé antérieur": {
+			"j'": "eus coudé",
+			"tu": "eus coudé",
+			"il/elle": "eut coudé",
+			"nous": "eûmes coudé",
+			"vous": "eûtes coudé",
+			"ils/elles": "eurent coudé"
+		},
+		"futur antérieur": {
+			"j'": "aurai coudé",
+			"tu": "auras coudé",
+			"il/elle": "aura coudé",
+			"nous": "aurons coudé",
+			"vous": "aurez coudé",
+			"ils/elles": "auront coudé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous coudiez",
+			"qu'il/elle": "coude",
+			"qu'ils/elles": "coudent"
+		},
+		"imparfait": {
+			"que": "vous coudassiez",
+			"qu'il/elle": "coudât",
+			"qu'ils/elles": "coudassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse coudé",
+			"que": "vous eussiez coudé",
+			"qu'il/elle": "eût coudé",
+			"qu'ils/elles": "eussent coudé"
+		},
+		"passé": {
+			"j'": "aie coudé",
+			"que": "vous ayez coudé",
+			"qu'il/elle": "ait coudé",
+			"qu'ils/elles": "aient coudé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "couderais",
+			"tu": "couderais",
+			"il/elle": "couderait",
+			"nous": "couderions",
+			"vous": "couderiez",
+			"ils/elles": "couderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais coudé",
+			"tu": "aurais coudé",
+			"il/elle": "aurait coudé",
+			"nous": "aurions coudé",
+			"vous": "auriez coudé",
+			"ils/elles": "auraient coudé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse coudé",
+			"tu": "eusses coudé",
+			"il/elle": "eût coudé",
+			"nous": "eussions coudé",
+			"vous": "eussiez coudé",
+			"ils/elles": "eussent coudé"
+		}
+	},
+	"participe": {
+		"présent": { "coudant": "" },
+		"passé composé": { "ayant": "coudé" },
+		"passé": {
+			"masc.sg.:": "coudé",
+			"masc.pl.:": "coudés",
+			"fém.sg.:": "coudée",
+			"fém.pl.:": "coudées"
+		}
+	},
+	"imperatif": {
+		"présent": { "coude": "", "coudons": "", "coudez": "" },
+		"passé": { "aie": "coudé", "ayons": "coudé", "ayez": "coudé" }
+	},
+	"infinitif": { "présent": { "couder": "" }, "passé": { "avoir": "coudé" } }
+}

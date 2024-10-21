@@ -1,0 +1,138 @@
+{
+	"name": "prôner",
+	"definition": "advocate; preach; call for; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se prôner/ne pas prôner/ne pas se prôner",
+	"indicatif": {
+		"présent": {
+			"je": "prône",
+			"tu": "prônes",
+			"il/elle": "prône",
+			"nous": "prônons",
+			"vous": "prônez",
+			"ils/elles": "prônent"
+		},
+		"imparfait": {
+			"je": "prônais",
+			"tu": "prônais",
+			"il/elle": "prônait",
+			"nous": "prônions",
+			"vous": "prôniez",
+			"ils/elles": "prônaient"
+		},
+		"futur": {
+			"je": "prônerai",
+			"tu": "prôneras",
+			"il/elle": "prônera",
+			"nous": "prônerons",
+			"vous": "prônerez",
+			"ils/elles": "prôneront"
+		},
+		"passé simple": {
+			"je": "prônai",
+			"tu": "prônas",
+			"il/elle": "prôna",
+			"nous": "prônâmes",
+			"vous": "prônâtes",
+			"ils/elles": "prônèrent"
+		},
+		"passé composé": {
+			"j'": "ai prôné",
+			"tu": "as prôné",
+			"il/elle": "a prôné",
+			"nous": "avons prôné",
+			"vous": "avez prôné",
+			"ils/elles": "ont prôné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais prôné",
+			"tu": "avais prôné",
+			"il/elle": "avait prôné",
+			"nous": "avions prôné",
+			"vous": "aviez prôné",
+			"ils/elles": "avaient prôné"
+		},
+		"passé antérieur": {
+			"j'": "eus prôné",
+			"tu": "eus prôné",
+			"il/elle": "eut prôné",
+			"nous": "eûmes prôné",
+			"vous": "eûtes prôné",
+			"ils/elles": "eurent prôné"
+		},
+		"futur antérieur": {
+			"j'": "aurai prôné",
+			"tu": "auras prôné",
+			"il/elle": "aura prôné",
+			"nous": "aurons prôné",
+			"vous": "aurez prôné",
+			"ils/elles": "auront prôné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous prôniez",
+			"qu'il/elle": "prône",
+			"qu'ils/elles": "prônent"
+		},
+		"imparfait": {
+			"que": "vous prônassiez",
+			"qu'il/elle": "prônât",
+			"qu'ils/elles": "prônassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse prôné",
+			"que": "vous eussiez prôné",
+			"qu'il/elle": "eût prôné",
+			"qu'ils/elles": "eussent prôné"
+		},
+		"passé": {
+			"j'": "aie prôné",
+			"que": "vous ayez prôné",
+			"qu'il/elle": "ait prôné",
+			"qu'ils/elles": "aient prôné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "prônerais",
+			"tu": "prônerais",
+			"il/elle": "prônerait",
+			"nous": "prônerions",
+			"vous": "prôneriez",
+			"ils/elles": "prôneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais prôné",
+			"tu": "aurais prôné",
+			"il/elle": "aurait prôné",
+			"nous": "aurions prôné",
+			"vous": "auriez prôné",
+			"ils/elles": "auraient prôné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse prôné",
+			"tu": "eusses prôné",
+			"il/elle": "eût prôné",
+			"nous": "eussions prôné",
+			"vous": "eussiez prôné",
+			"ils/elles": "eussent prôné"
+		}
+	},
+	"participe": {
+		"présent": { "prônant": "" },
+		"passé composé": { "ayant": "prôné" },
+		"passé": {
+			"masc.sg.:": "prôné",
+			"masc.pl.:": "prônés",
+			"fém.sg.:": "prônée",
+			"fém.pl.:": "prônées"
+		}
+	},
+	"imperatif": {
+		"présent": { "prône": "", "prônons": "", "prônez": "" },
+		"passé": { "aie": "prôné", "ayons": "prôné", "ayez": "prôné" }
+	},
+	"infinitif": { "présent": { "prôner": "" }, "passé": { "avoir": "prôné" } }
+}

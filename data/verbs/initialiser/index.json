@@ -1,0 +1,147 @@
+{
+	"name": "initialiser",
+	"definition": "initialize; initialise; initiate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'initialiser/ne pas initialiser/ne pas s'initialiser",
+	"indicatif": {
+		"présent": {
+			"j'": "initialise",
+			"tu": "initialises",
+			"il/elle": "initialise",
+			"nous": "initialisons",
+			"vous": "initialisez",
+			"ils/elles": "initialisent"
+		},
+		"imparfait": {
+			"j'": "initialisais",
+			"tu": "initialisais",
+			"il/elle": "initialisait",
+			"nous": "initialisions",
+			"vous": "initialisiez",
+			"ils/elles": "initialisaient"
+		},
+		"futur": {
+			"j'": "initialiserai",
+			"tu": "initialiseras",
+			"il/elle": "initialisera",
+			"nous": "initialiserons",
+			"vous": "initialiserez",
+			"ils/elles": "initialiseront"
+		},
+		"passé simple": {
+			"j'": "initialisai",
+			"tu": "initialisas",
+			"il/elle": "initialisa",
+			"nous": "initialisâmes",
+			"vous": "initialisâtes",
+			"ils/elles": "initialisèrent"
+		},
+		"passé composé": {
+			"j'": "ai initialisé",
+			"tu": "as initialisé",
+			"il/elle": "a initialisé",
+			"nous": "avons initialisé",
+			"vous": "avez initialisé",
+			"ils/elles": "ont initialisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais initialisé",
+			"tu": "avais initialisé",
+			"il/elle": "avait initialisé",
+			"nous": "avions initialisé",
+			"vous": "aviez initialisé",
+			"ils/elles": "avaient initialisé"
+		},
+		"passé antérieur": {
+			"j'": "eus initialisé",
+			"tu": "eus initialisé",
+			"il/elle": "eut initialisé",
+			"nous": "eûmes initialisé",
+			"vous": "eûtes initialisé",
+			"ils/elles": "eurent initialisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai initialisé",
+			"tu": "auras initialisé",
+			"il/elle": "aura initialisé",
+			"nous": "aurons initialisé",
+			"vous": "aurez initialisé",
+			"ils/elles": "auront initialisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "initialise",
+			"que": "vous initialisiez",
+			"qu'il/elle": "initialise",
+			"qu'ils/elles": "initialisent"
+		},
+		"imparfait": {
+			"j'": "initialisasse",
+			"que": "vous initialisassiez",
+			"qu'il/elle": "initialisât",
+			"qu'ils/elles": "initialisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse initialisé",
+			"que": "vous eussiez initialisé",
+			"qu'il/elle": "eût initialisé",
+			"qu'ils/elles": "eussent initialisé"
+		},
+		"passé": {
+			"j'": "aie initialisé",
+			"que": "vous ayez initialisé",
+			"qu'il/elle": "ait initialisé",
+			"qu'ils/elles": "aient initialisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "initialiserais",
+			"tu": "initialiserais",
+			"il/elle": "initialiserait",
+			"nous": "initialiserions",
+			"vous": "initialiseriez",
+			"ils/elles": "initialiseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais initialisé",
+			"tu": "aurais initialisé",
+			"il/elle": "aurait initialisé",
+			"nous": "aurions initialisé",
+			"vous": "auriez initialisé",
+			"ils/elles": "auraient initialisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse initialisé",
+			"tu": "eusses initialisé",
+			"il/elle": "eût initialisé",
+			"nous": "eussions initialisé",
+			"vous": "eussiez initialisé",
+			"ils/elles": "eussent initialisé"
+		}
+	},
+	"participe": {
+		"présent": { "initialisant": "" },
+		"passé composé": { "ayant": "initialisé" },
+		"passé": {
+			"masc.sg.:": "initialisé",
+			"masc.pl.:": "initialisés",
+			"fém.sg.:": "initialisée",
+			"fém.pl.:": "initialisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "initialise": "", "initialisons": "", "initialisez": "" },
+		"passé": {
+			"aie": "initialisé",
+			"ayons": "initialisé",
+			"ayez": "initialisé"
+		}
+	},
+	"infinitif": {
+		"présent": { "initialiser": "" },
+		"passé": { "avoir": "initialisé" }
+	}
+}

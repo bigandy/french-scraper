@@ -1,0 +1,138 @@
+{
+	"name": "tremper",
+	"definition": "soak; dip; quench; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se tremper/ne pas tremper/ne pas se tremper",
+	"indicatif": {
+		"présent": {
+			"je": "trempe",
+			"tu": "trempes",
+			"il/elle": "trempe",
+			"nous": "trempons",
+			"vous": "trempez",
+			"ils/elles": "trempent"
+		},
+		"imparfait": {
+			"je": "trempais",
+			"tu": "trempais",
+			"il/elle": "trempait",
+			"nous": "trempions",
+			"vous": "trempiez",
+			"ils/elles": "trempaient"
+		},
+		"futur": {
+			"je": "tremperai",
+			"tu": "tremperas",
+			"il/elle": "trempera",
+			"nous": "tremperons",
+			"vous": "tremperez",
+			"ils/elles": "tremperont"
+		},
+		"passé simple": {
+			"je": "trempai",
+			"tu": "trempas",
+			"il/elle": "trempa",
+			"nous": "trempâmes",
+			"vous": "trempâtes",
+			"ils/elles": "trempèrent"
+		},
+		"passé composé": {
+			"j'": "ai trempé",
+			"tu": "as trempé",
+			"il/elle": "a trempé",
+			"nous": "avons trempé",
+			"vous": "avez trempé",
+			"ils/elles": "ont trempé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais trempé",
+			"tu": "avais trempé",
+			"il/elle": "avait trempé",
+			"nous": "avions trempé",
+			"vous": "aviez trempé",
+			"ils/elles": "avaient trempé"
+		},
+		"passé antérieur": {
+			"j'": "eus trempé",
+			"tu": "eus trempé",
+			"il/elle": "eut trempé",
+			"nous": "eûmes trempé",
+			"vous": "eûtes trempé",
+			"ils/elles": "eurent trempé"
+		},
+		"futur antérieur": {
+			"j'": "aurai trempé",
+			"tu": "auras trempé",
+			"il/elle": "aura trempé",
+			"nous": "aurons trempé",
+			"vous": "aurez trempé",
+			"ils/elles": "auront trempé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous trempiez",
+			"qu'il/elle": "trempe",
+			"qu'ils/elles": "trempent"
+		},
+		"imparfait": {
+			"que": "vous trempassiez",
+			"qu'il/elle": "trempât",
+			"qu'ils/elles": "trempassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse trempé",
+			"que": "vous eussiez trempé",
+			"qu'il/elle": "eût trempé",
+			"qu'ils/elles": "eussent trempé"
+		},
+		"passé": {
+			"j'": "aie trempé",
+			"que": "vous ayez trempé",
+			"qu'il/elle": "ait trempé",
+			"qu'ils/elles": "aient trempé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "tremperais",
+			"tu": "tremperais",
+			"il/elle": "tremperait",
+			"nous": "tremperions",
+			"vous": "tremperiez",
+			"ils/elles": "tremperaient"
+		},
+		"passé première forme": {
+			"j'": "aurais trempé",
+			"tu": "aurais trempé",
+			"il/elle": "aurait trempé",
+			"nous": "aurions trempé",
+			"vous": "auriez trempé",
+			"ils/elles": "auraient trempé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse trempé",
+			"tu": "eusses trempé",
+			"il/elle": "eût trempé",
+			"nous": "eussions trempé",
+			"vous": "eussiez trempé",
+			"ils/elles": "eussent trempé"
+		}
+	},
+	"participe": {
+		"présent": { "trempant": "" },
+		"passé composé": { "ayant": "trempé" },
+		"passé": {
+			"masc.sg.:": "trempé",
+			"masc.pl.:": "trempés",
+			"fém.sg.:": "trempée",
+			"fém.pl.:": "trempées"
+		}
+	},
+	"imperatif": {
+		"présent": { "trempe": "", "trempons": "", "trempez": "" },
+		"passé": { "aie": "trempé", "ayons": "trempé", "ayez": "trempé" }
+	},
+	"infinitif": { "présent": { "tremper": "" }, "passé": { "avoir": "trempé" } }
+}

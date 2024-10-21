@@ -1,0 +1,138 @@
+{
+	"name": "pacager",
+	"definition": "graze; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "se pacager/ne pas pacager/ne pas se pacager",
+	"indicatif": {
+		"présent": {
+			"je": "pacage",
+			"tu": "pacages",
+			"il/elle": "pacage",
+			"nous": "pacageons",
+			"vous": "pacagez",
+			"ils/elles": "pacagent"
+		},
+		"imparfait": {
+			"je": "pacageais",
+			"tu": "pacageais",
+			"il/elle": "pacageait",
+			"nous": "pacagions",
+			"vous": "pacagiez",
+			"ils/elles": "pacageaient"
+		},
+		"futur": {
+			"je": "pacagerai",
+			"tu": "pacageras",
+			"il/elle": "pacagera",
+			"nous": "pacagerons",
+			"vous": "pacagerez",
+			"ils/elles": "pacageront"
+		},
+		"passé simple": {
+			"je": "pacageai",
+			"tu": "pacageas",
+			"il/elle": "pacagea",
+			"nous": "pacageâmes",
+			"vous": "pacageâtes",
+			"ils/elles": "pacagèrent"
+		},
+		"passé composé": {
+			"j'": "ai pacagé",
+			"tu": "as pacagé",
+			"il/elle": "a pacagé",
+			"nous": "avons pacagé",
+			"vous": "avez pacagé",
+			"ils/elles": "ont pacagé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais pacagé",
+			"tu": "avais pacagé",
+			"il/elle": "avait pacagé",
+			"nous": "avions pacagé",
+			"vous": "aviez pacagé",
+			"ils/elles": "avaient pacagé"
+		},
+		"passé antérieur": {
+			"j'": "eus pacagé",
+			"tu": "eus pacagé",
+			"il/elle": "eut pacagé",
+			"nous": "eûmes pacagé",
+			"vous": "eûtes pacagé",
+			"ils/elles": "eurent pacagé"
+		},
+		"futur antérieur": {
+			"j'": "aurai pacagé",
+			"tu": "auras pacagé",
+			"il/elle": "aura pacagé",
+			"nous": "aurons pacagé",
+			"vous": "aurez pacagé",
+			"ils/elles": "auront pacagé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous pacagiez",
+			"qu'il/elle": "pacage",
+			"qu'ils/elles": "pacagent"
+		},
+		"imparfait": {
+			"que": "vous pacageassiez",
+			"qu'il/elle": "pacageât",
+			"qu'ils/elles": "pacageassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse pacagé",
+			"que": "vous eussiez pacagé",
+			"qu'il/elle": "eût pacagé",
+			"qu'ils/elles": "eussent pacagé"
+		},
+		"passé": {
+			"j'": "aie pacagé",
+			"que": "vous ayez pacagé",
+			"qu'il/elle": "ait pacagé",
+			"qu'ils/elles": "aient pacagé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "pacagerais",
+			"tu": "pacagerais",
+			"il/elle": "pacagerait",
+			"nous": "pacagerions",
+			"vous": "pacageriez",
+			"ils/elles": "pacageraient"
+		},
+		"passé première forme": {
+			"j'": "aurais pacagé",
+			"tu": "aurais pacagé",
+			"il/elle": "aurait pacagé",
+			"nous": "aurions pacagé",
+			"vous": "auriez pacagé",
+			"ils/elles": "auraient pacagé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse pacagé",
+			"tu": "eusses pacagé",
+			"il/elle": "eût pacagé",
+			"nous": "eussions pacagé",
+			"vous": "eussiez pacagé",
+			"ils/elles": "eussent pacagé"
+		}
+	},
+	"participe": {
+		"présent": { "pacageant": "" },
+		"passé composé": { "ayant": "pacagé" },
+		"passé": {
+			"masc.sg.:": "pacagé",
+			"masc.pl.:": "pacagés",
+			"fém.sg.:": "pacagée",
+			"fém.pl.:": "pacagées"
+		}
+	},
+	"imperatif": {
+		"présent": { "pacage": "", "pacageons": "", "pacagez": "" },
+		"passé": { "aie": "pacagé", "ayons": "pacagé", "ayez": "pacagé" }
+	},
+	"infinitif": { "présent": { "pacager": "" }, "passé": { "avoir": "pacagé" } }
+}

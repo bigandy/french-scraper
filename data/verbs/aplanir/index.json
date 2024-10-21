@@ -1,0 +1,140 @@
+{
+	"name": "aplanir",
+	"definition": "resolve; overcome; bridge; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "s'aplanir/ne pas aplanir/ne pas s'aplanir",
+	"indicatif": {
+		"présent": {
+			"j'": "aplanis",
+			"tu": "aplanis",
+			"il/elle": "aplanit",
+			"nous": "aplanissons",
+			"vous": "aplanissez",
+			"ils/elles": "aplanissent"
+		},
+		"imparfait": {
+			"j'": "aplanissais",
+			"tu": "aplanissais",
+			"il/elle": "aplanissait",
+			"nous": "aplanissions",
+			"vous": "aplanissiez",
+			"ils/elles": "aplanissaient"
+		},
+		"futur": {
+			"j'": "aplanirai",
+			"tu": "aplaniras",
+			"il/elle": "aplanira",
+			"nous": "aplanirons",
+			"vous": "aplanirez",
+			"ils/elles": "aplaniront"
+		},
+		"passé simple": {
+			"j'": "aplanis",
+			"tu": "aplanis",
+			"il/elle": "aplanit",
+			"nous": "aplanîmes",
+			"vous": "aplanîtes",
+			"ils/elles": "aplanirent"
+		},
+		"passé composé": {
+			"j'": "ai aplani",
+			"tu": "as aplani",
+			"il/elle": "a aplani",
+			"nous": "avons aplani",
+			"vous": "avez aplani",
+			"ils/elles": "ont aplani"
+		},
+		"plus-que-parfait": {
+			"j'": "avais aplani",
+			"tu": "avais aplani",
+			"il/elle": "avait aplani",
+			"nous": "avions aplani",
+			"vous": "aviez aplani",
+			"ils/elles": "avaient aplani"
+		},
+		"passé antérieur": {
+			"j'": "eus aplani",
+			"tu": "eus aplani",
+			"il/elle": "eut aplani",
+			"nous": "eûmes aplani",
+			"vous": "eûtes aplani",
+			"ils/elles": "eurent aplani"
+		},
+		"futur antérieur": {
+			"j'": "aurai aplani",
+			"tu": "auras aplani",
+			"il/elle": "aura aplani",
+			"nous": "aurons aplani",
+			"vous": "aurez aplani",
+			"ils/elles": "auront aplani"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "aplanisse",
+			"que": "vous aplanissiez",
+			"qu'il/elle": "aplanisse",
+			"qu'ils/elles": "aplanissent"
+		},
+		"imparfait": {
+			"j'": "aplanisse",
+			"que": "vous aplanissiez",
+			"qu'il/elle": "aplanît",
+			"qu'ils/elles": "aplanissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse aplani",
+			"que": "vous eussiez aplani",
+			"qu'il/elle": "eût aplani",
+			"qu'ils/elles": "eussent aplani"
+		},
+		"passé": {
+			"j'": "aie aplani",
+			"que": "vous ayez aplani",
+			"qu'il/elle": "ait aplani",
+			"qu'ils/elles": "aient aplani"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "aplanirais",
+			"tu": "aplanirais",
+			"il/elle": "aplanirait",
+			"nous": "aplanirions",
+			"vous": "aplaniriez",
+			"ils/elles": "aplaniraient"
+		},
+		"passé première forme": {
+			"j'": "aurais aplani",
+			"tu": "aurais aplani",
+			"il/elle": "aurait aplani",
+			"nous": "aurions aplani",
+			"vous": "auriez aplani",
+			"ils/elles": "auraient aplani"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse aplani",
+			"tu": "eusses aplani",
+			"il/elle": "eût aplani",
+			"nous": "eussions aplani",
+			"vous": "eussiez aplani",
+			"ils/elles": "eussent aplani"
+		}
+	},
+	"participe": {
+		"présent": { "aplanissant": "" },
+		"passé composé": { "ayant": "aplani" },
+		"passé": {
+			"masc.sg.:": "aplani",
+			"masc.pl.:": "aplanis",
+			"fém.sg.:": "aplanie",
+			"fém.pl.:": "aplanies"
+		}
+	},
+	"imperatif": {
+		"présent": { "aplanis": "", "aplanissons": "", "aplanissez": "" },
+		"passé": { "aie": "aplani", "ayons": "aplani", "ayez": "aplani" }
+	},
+	"infinitif": { "présent": { "aplanir": "" }, "passé": { "avoir": "aplani" } }
+}

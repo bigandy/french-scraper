@@ -1,0 +1,138 @@
+{
+	"name": "doser",
+	"definition": "dose; meter; assay; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se doser/ne pas doser/ne pas se doser",
+	"indicatif": {
+		"présent": {
+			"je": "dose",
+			"tu": "doses",
+			"il/elle": "dose",
+			"nous": "dosons",
+			"vous": "dosez",
+			"ils/elles": "dosent"
+		},
+		"imparfait": {
+			"je": "dosais",
+			"tu": "dosais",
+			"il/elle": "dosait",
+			"nous": "dosions",
+			"vous": "dosiez",
+			"ils/elles": "dosaient"
+		},
+		"futur": {
+			"je": "doserai",
+			"tu": "doseras",
+			"il/elle": "dosera",
+			"nous": "doserons",
+			"vous": "doserez",
+			"ils/elles": "doseront"
+		},
+		"passé simple": {
+			"je": "dosai",
+			"tu": "dosas",
+			"il/elle": "dosa",
+			"nous": "dosâmes",
+			"vous": "dosâtes",
+			"ils/elles": "dosèrent"
+		},
+		"passé composé": {
+			"j'": "ai dosé",
+			"tu": "as dosé",
+			"il/elle": "a dosé",
+			"nous": "avons dosé",
+			"vous": "avez dosé",
+			"ils/elles": "ont dosé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais dosé",
+			"tu": "avais dosé",
+			"il/elle": "avait dosé",
+			"nous": "avions dosé",
+			"vous": "aviez dosé",
+			"ils/elles": "avaient dosé"
+		},
+		"passé antérieur": {
+			"j'": "eus dosé",
+			"tu": "eus dosé",
+			"il/elle": "eut dosé",
+			"nous": "eûmes dosé",
+			"vous": "eûtes dosé",
+			"ils/elles": "eurent dosé"
+		},
+		"futur antérieur": {
+			"j'": "aurai dosé",
+			"tu": "auras dosé",
+			"il/elle": "aura dosé",
+			"nous": "aurons dosé",
+			"vous": "aurez dosé",
+			"ils/elles": "auront dosé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous dosiez",
+			"qu'il/elle": "dose",
+			"qu'ils/elles": "dosent"
+		},
+		"imparfait": {
+			"que": "vous dosassiez",
+			"qu'il/elle": "dosât",
+			"qu'ils/elles": "dosassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse dosé",
+			"que": "vous eussiez dosé",
+			"qu'il/elle": "eût dosé",
+			"qu'ils/elles": "eussent dosé"
+		},
+		"passé": {
+			"j'": "aie dosé",
+			"que": "vous ayez dosé",
+			"qu'il/elle": "ait dosé",
+			"qu'ils/elles": "aient dosé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "doserais",
+			"tu": "doserais",
+			"il/elle": "doserait",
+			"nous": "doserions",
+			"vous": "doseriez",
+			"ils/elles": "doseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais dosé",
+			"tu": "aurais dosé",
+			"il/elle": "aurait dosé",
+			"nous": "aurions dosé",
+			"vous": "auriez dosé",
+			"ils/elles": "auraient dosé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse dosé",
+			"tu": "eusses dosé",
+			"il/elle": "eût dosé",
+			"nous": "eussions dosé",
+			"vous": "eussiez dosé",
+			"ils/elles": "eussent dosé"
+		}
+	},
+	"participe": {
+		"présent": { "dosant": "" },
+		"passé composé": { "ayant": "dosé" },
+		"passé": {
+			"masc.sg.:": "dosé",
+			"masc.pl.:": "dosés",
+			"fém.sg.:": "dosée",
+			"fém.pl.:": "dosées"
+		}
+	},
+	"imperatif": {
+		"présent": { "dose": "", "dosons": "", "dosez": "" },
+		"passé": { "aie": "dosé", "ayons": "dosé", "ayez": "dosé" }
+	},
+	"infinitif": { "présent": { "doser": "" }, "passé": { "avoir": "dosé" } }
+}

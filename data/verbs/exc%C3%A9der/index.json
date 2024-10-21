@@ -1,0 +1,140 @@
+{
+	"name": "excéder",
+	"definition": "exceed; more than; go beyond; ...",
+	"model": "céder",
+	"auxiliary": "avoir",
+	"otherForms": "s'excéder/ne pas excéder/ne pas s'excéder",
+	"indicatif": {
+		"présent": {
+			"j'": "excède",
+			"tu": "excèdes",
+			"il/elle": "excède",
+			"nous": "excédons",
+			"vous": "excédez",
+			"ils/elles": "excèdent"
+		},
+		"imparfait": {
+			"j'": "excédais",
+			"tu": "excédais",
+			"il/elle": "excédait",
+			"nous": "excédions",
+			"vous": "excédiez",
+			"ils/elles": "excédaient"
+		},
+		"futur": {
+			"j'": "excéderai",
+			"tu": "excéderas",
+			"il/elle": "excédera",
+			"nous": "excéderons",
+			"vous": "excéderez",
+			"ils/elles": "excéderont"
+		},
+		"passé simple": {
+			"j'": "excédai",
+			"tu": "excédas",
+			"il/elle": "excéda",
+			"nous": "excédâmes",
+			"vous": "excédâtes",
+			"ils/elles": "excédèrent"
+		},
+		"passé composé": {
+			"j'": "ai excédé",
+			"tu": "as excédé",
+			"il/elle": "a excédé",
+			"nous": "avons excédé",
+			"vous": "avez excédé",
+			"ils/elles": "ont excédé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais excédé",
+			"tu": "avais excédé",
+			"il/elle": "avait excédé",
+			"nous": "avions excédé",
+			"vous": "aviez excédé",
+			"ils/elles": "avaient excédé"
+		},
+		"passé antérieur": {
+			"j'": "eus excédé",
+			"tu": "eus excédé",
+			"il/elle": "eut excédé",
+			"nous": "eûmes excédé",
+			"vous": "eûtes excédé",
+			"ils/elles": "eurent excédé"
+		},
+		"futur antérieur": {
+			"j'": "aurai excédé",
+			"tu": "auras excédé",
+			"il/elle": "aura excédé",
+			"nous": "aurons excédé",
+			"vous": "aurez excédé",
+			"ils/elles": "auront excédé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "excède",
+			"que": "vous excédiez",
+			"qu'il/elle": "excède",
+			"qu'ils/elles": "excèdent"
+		},
+		"imparfait": {
+			"j'": "excédasse",
+			"que": "vous excédassiez",
+			"qu'il/elle": "excédât",
+			"qu'ils/elles": "excédassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse excédé",
+			"que": "vous eussiez excédé",
+			"qu'il/elle": "eût excédé",
+			"qu'ils/elles": "eussent excédé"
+		},
+		"passé": {
+			"j'": "aie excédé",
+			"que": "vous ayez excédé",
+			"qu'il/elle": "ait excédé",
+			"qu'ils/elles": "aient excédé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "excéderais",
+			"tu": "excéderais",
+			"il/elle": "excéderait",
+			"nous": "excéderions",
+			"vous": "excéderiez",
+			"ils/elles": "excéderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais excédé",
+			"tu": "aurais excédé",
+			"il/elle": "aurait excédé",
+			"nous": "aurions excédé",
+			"vous": "auriez excédé",
+			"ils/elles": "auraient excédé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse excédé",
+			"tu": "eusses excédé",
+			"il/elle": "eût excédé",
+			"nous": "eussions excédé",
+			"vous": "eussiez excédé",
+			"ils/elles": "eussent excédé"
+		}
+	},
+	"participe": {
+		"présent": { "excédant": "" },
+		"passé composé": { "ayant": "excédé" },
+		"passé": {
+			"masc.sg.:": "excédé",
+			"masc.pl.:": "excédés",
+			"fém.sg.:": "excédée",
+			"fém.pl.:": "excédées"
+		}
+	},
+	"imperatif": {
+		"présent": { "excède": "", "excédons": "", "excédez": "" },
+		"passé": { "aie": "excédé", "ayons": "excédé", "ayez": "excédé" }
+	},
+	"infinitif": { "présent": { "excéder": "" }, "passé": { "avoir": "excédé" } }
+}

@@ -1,0 +1,138 @@
+{
+	"name": "béquer",
+	"definition": "",
+	"model": "hypothéquer",
+	"auxiliary": "avoir",
+	"otherForms": "se béquer/ne pas béquer/ne pas se béquer",
+	"indicatif": {
+		"présent": {
+			"je": "bèque",
+			"tu": "bèques",
+			"il/elle": "bèque",
+			"nous": "béquons",
+			"vous": "béquez",
+			"ils/elles": "bèquent"
+		},
+		"imparfait": {
+			"je": "béquais",
+			"tu": "béquais",
+			"il/elle": "béquait",
+			"nous": "béquions",
+			"vous": "béquiez",
+			"ils/elles": "béquaient"
+		},
+		"futur": {
+			"je": "béquerai",
+			"tu": "béqueras",
+			"il/elle": "béquera",
+			"nous": "béquerons",
+			"vous": "béquerez",
+			"ils/elles": "béqueront"
+		},
+		"passé simple": {
+			"je": "béquai",
+			"tu": "béquas",
+			"il/elle": "béqua",
+			"nous": "béquâmes",
+			"vous": "béquâtes",
+			"ils/elles": "béquèrent"
+		},
+		"passé composé": {
+			"j'": "ai béqué",
+			"tu": "as béqué",
+			"il/elle": "a béqué",
+			"nous": "avons béqué",
+			"vous": "avez béqué",
+			"ils/elles": "ont béqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais béqué",
+			"tu": "avais béqué",
+			"il/elle": "avait béqué",
+			"nous": "avions béqué",
+			"vous": "aviez béqué",
+			"ils/elles": "avaient béqué"
+		},
+		"passé antérieur": {
+			"j'": "eus béqué",
+			"tu": "eus béqué",
+			"il/elle": "eut béqué",
+			"nous": "eûmes béqué",
+			"vous": "eûtes béqué",
+			"ils/elles": "eurent béqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai béqué",
+			"tu": "auras béqué",
+			"il/elle": "aura béqué",
+			"nous": "aurons béqué",
+			"vous": "aurez béqué",
+			"ils/elles": "auront béqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous béquiez",
+			"qu'il/elle": "bèque",
+			"qu'ils/elles": "bèquent"
+		},
+		"imparfait": {
+			"que": "vous béquassiez",
+			"qu'il/elle": "béquât",
+			"qu'ils/elles": "béquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse béqué",
+			"que": "vous eussiez béqué",
+			"qu'il/elle": "eût béqué",
+			"qu'ils/elles": "eussent béqué"
+		},
+		"passé": {
+			"j'": "aie béqué",
+			"que": "vous ayez béqué",
+			"qu'il/elle": "ait béqué",
+			"qu'ils/elles": "aient béqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "béquerais",
+			"tu": "béquerais",
+			"il/elle": "béquerait",
+			"nous": "béquerions",
+			"vous": "béqueriez",
+			"ils/elles": "béqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais béqué",
+			"tu": "aurais béqué",
+			"il/elle": "aurait béqué",
+			"nous": "aurions béqué",
+			"vous": "auriez béqué",
+			"ils/elles": "auraient béqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse béqué",
+			"tu": "eusses béqué",
+			"il/elle": "eût béqué",
+			"nous": "eussions béqué",
+			"vous": "eussiez béqué",
+			"ils/elles": "eussent béqué"
+		}
+	},
+	"participe": {
+		"présent": { "béquant": "" },
+		"passé composé": { "ayant": "béqué" },
+		"passé": {
+			"masc.sg.:": "béqué",
+			"masc.pl.:": "béqués",
+			"fém.sg.:": "béquée",
+			"fém.pl.:": "béquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "bèque": "", "béquons": "", "béquez": "" },
+		"passé": { "aie": "béqué", "ayons": "béqué", "ayez": "béqué" }
+	},
+	"infinitif": { "présent": { "béquer": "" }, "passé": { "avoir": "béqué" } }
+}

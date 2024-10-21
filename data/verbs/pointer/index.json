@@ -1,0 +1,138 @@
+{
+	"name": "pointer",
+	"definition": "point; show up; point out; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se pointer/ne pas pointer/ne pas se pointer",
+	"indicatif": {
+		"présent": {
+			"je": "pointe",
+			"tu": "pointes",
+			"il/elle": "pointe",
+			"nous": "pointons",
+			"vous": "pointez",
+			"ils/elles": "pointent"
+		},
+		"imparfait": {
+			"je": "pointais",
+			"tu": "pointais",
+			"il/elle": "pointait",
+			"nous": "pointions",
+			"vous": "pointiez",
+			"ils/elles": "pointaient"
+		},
+		"futur": {
+			"je": "pointerai",
+			"tu": "pointeras",
+			"il/elle": "pointera",
+			"nous": "pointerons",
+			"vous": "pointerez",
+			"ils/elles": "pointeront"
+		},
+		"passé simple": {
+			"je": "pointai",
+			"tu": "pointas",
+			"il/elle": "pointa",
+			"nous": "pointâmes",
+			"vous": "pointâtes",
+			"ils/elles": "pointèrent"
+		},
+		"passé composé": {
+			"j'": "ai pointé",
+			"tu": "as pointé",
+			"il/elle": "a pointé",
+			"nous": "avons pointé",
+			"vous": "avez pointé",
+			"ils/elles": "ont pointé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais pointé",
+			"tu": "avais pointé",
+			"il/elle": "avait pointé",
+			"nous": "avions pointé",
+			"vous": "aviez pointé",
+			"ils/elles": "avaient pointé"
+		},
+		"passé antérieur": {
+			"j'": "eus pointé",
+			"tu": "eus pointé",
+			"il/elle": "eut pointé",
+			"nous": "eûmes pointé",
+			"vous": "eûtes pointé",
+			"ils/elles": "eurent pointé"
+		},
+		"futur antérieur": {
+			"j'": "aurai pointé",
+			"tu": "auras pointé",
+			"il/elle": "aura pointé",
+			"nous": "aurons pointé",
+			"vous": "aurez pointé",
+			"ils/elles": "auront pointé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous pointiez",
+			"qu'il/elle": "pointe",
+			"qu'ils/elles": "pointent"
+		},
+		"imparfait": {
+			"que": "vous pointassiez",
+			"qu'il/elle": "pointât",
+			"qu'ils/elles": "pointassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse pointé",
+			"que": "vous eussiez pointé",
+			"qu'il/elle": "eût pointé",
+			"qu'ils/elles": "eussent pointé"
+		},
+		"passé": {
+			"j'": "aie pointé",
+			"que": "vous ayez pointé",
+			"qu'il/elle": "ait pointé",
+			"qu'ils/elles": "aient pointé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "pointerais",
+			"tu": "pointerais",
+			"il/elle": "pointerait",
+			"nous": "pointerions",
+			"vous": "pointeriez",
+			"ils/elles": "pointeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais pointé",
+			"tu": "aurais pointé",
+			"il/elle": "aurait pointé",
+			"nous": "aurions pointé",
+			"vous": "auriez pointé",
+			"ils/elles": "auraient pointé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse pointé",
+			"tu": "eusses pointé",
+			"il/elle": "eût pointé",
+			"nous": "eussions pointé",
+			"vous": "eussiez pointé",
+			"ils/elles": "eussent pointé"
+		}
+	},
+	"participe": {
+		"présent": { "pointant": "" },
+		"passé composé": { "ayant": "pointé" },
+		"passé": {
+			"masc.sg.:": "pointé",
+			"masc.pl.:": "pointés",
+			"fém.sg.:": "pointée",
+			"fém.pl.:": "pointées"
+		}
+	},
+	"imperatif": {
+		"présent": { "pointe": "", "pointons": "", "pointez": "" },
+		"passé": { "aie": "pointé", "ayons": "pointé", "ayez": "pointé" }
+	},
+	"infinitif": { "présent": { "pointer": "" }, "passé": { "avoir": "pointé" } }
+}

@@ -1,0 +1,138 @@
+{
+	"name": "vaguer",
+	"definition": "roam; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se vaguer/ne pas vaguer/ne pas se vaguer",
+	"indicatif": {
+		"présent": {
+			"je": "vague",
+			"tu": "vagues",
+			"il/elle": "vague",
+			"nous": "vaguons",
+			"vous": "vaguez",
+			"ils/elles": "vaguent"
+		},
+		"imparfait": {
+			"je": "vaguais",
+			"tu": "vaguais",
+			"il/elle": "vaguait",
+			"nous": "vaguions",
+			"vous": "vaguiez",
+			"ils/elles": "vaguaient"
+		},
+		"futur": {
+			"je": "vaguerai",
+			"tu": "vagueras",
+			"il/elle": "vaguera",
+			"nous": "vaguerons",
+			"vous": "vaguerez",
+			"ils/elles": "vagueront"
+		},
+		"passé simple": {
+			"je": "vaguai",
+			"tu": "vaguas",
+			"il/elle": "vagua",
+			"nous": "vaguâmes",
+			"vous": "vaguâtes",
+			"ils/elles": "vaguèrent"
+		},
+		"passé composé": {
+			"j'": "ai vagué",
+			"tu": "as vagué",
+			"il/elle": "a vagué",
+			"nous": "avons vagué",
+			"vous": "avez vagué",
+			"ils/elles": "ont vagué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais vagué",
+			"tu": "avais vagué",
+			"il/elle": "avait vagué",
+			"nous": "avions vagué",
+			"vous": "aviez vagué",
+			"ils/elles": "avaient vagué"
+		},
+		"passé antérieur": {
+			"j'": "eus vagué",
+			"tu": "eus vagué",
+			"il/elle": "eut vagué",
+			"nous": "eûmes vagué",
+			"vous": "eûtes vagué",
+			"ils/elles": "eurent vagué"
+		},
+		"futur antérieur": {
+			"j'": "aurai vagué",
+			"tu": "auras vagué",
+			"il/elle": "aura vagué",
+			"nous": "aurons vagué",
+			"vous": "aurez vagué",
+			"ils/elles": "auront vagué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous vaguiez",
+			"qu'il/elle": "vague",
+			"qu'ils/elles": "vaguent"
+		},
+		"imparfait": {
+			"que": "vous vaguassiez",
+			"qu'il/elle": "vaguât",
+			"qu'ils/elles": "vaguassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse vagué",
+			"que": "vous eussiez vagué",
+			"qu'il/elle": "eût vagué",
+			"qu'ils/elles": "eussent vagué"
+		},
+		"passé": {
+			"j'": "aie vagué",
+			"que": "vous ayez vagué",
+			"qu'il/elle": "ait vagué",
+			"qu'ils/elles": "aient vagué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "vaguerais",
+			"tu": "vaguerais",
+			"il/elle": "vaguerait",
+			"nous": "vaguerions",
+			"vous": "vagueriez",
+			"ils/elles": "vagueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais vagué",
+			"tu": "aurais vagué",
+			"il/elle": "aurait vagué",
+			"nous": "aurions vagué",
+			"vous": "auriez vagué",
+			"ils/elles": "auraient vagué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse vagué",
+			"tu": "eusses vagué",
+			"il/elle": "eût vagué",
+			"nous": "eussions vagué",
+			"vous": "eussiez vagué",
+			"ils/elles": "eussent vagué"
+		}
+	},
+	"participe": {
+		"présent": { "vaguant": "" },
+		"passé composé": { "ayant": "vagué" },
+		"passé": {
+			"masc.sg.:": "vagué",
+			"masc.pl.:": "vagués",
+			"fém.sg.:": "vaguée",
+			"fém.pl.:": "vaguées"
+		}
+	},
+	"imperatif": {
+		"présent": { "vague": "", "vaguons": "", "vaguez": "" },
+		"passé": { "aie": "vagué", "ayons": "vagué", "ayez": "vagué" }
+	},
+	"infinitif": { "présent": { "vaguer": "" }, "passé": { "avoir": "vagué" } }
+}

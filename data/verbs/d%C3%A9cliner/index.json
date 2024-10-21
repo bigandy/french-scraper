@@ -1,0 +1,141 @@
+{
+	"name": "décliner",
+	"definition": "decline; wane; turn down; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se décliner/ne pas décliner/ne pas se décliner",
+	"indicatif": {
+		"présent": {
+			"je": "décline",
+			"tu": "déclines",
+			"il/elle": "décline",
+			"nous": "déclinons",
+			"vous": "déclinez",
+			"ils/elles": "déclinent"
+		},
+		"imparfait": {
+			"je": "déclinais",
+			"tu": "déclinais",
+			"il/elle": "déclinait",
+			"nous": "déclinions",
+			"vous": "décliniez",
+			"ils/elles": "déclinaient"
+		},
+		"futur": {
+			"je": "déclinerai",
+			"tu": "déclineras",
+			"il/elle": "déclinera",
+			"nous": "déclinerons",
+			"vous": "déclinerez",
+			"ils/elles": "déclineront"
+		},
+		"passé simple": {
+			"je": "déclinai",
+			"tu": "déclinas",
+			"il/elle": "déclina",
+			"nous": "déclinâmes",
+			"vous": "déclinâtes",
+			"ils/elles": "déclinèrent"
+		},
+		"passé composé": {
+			"j'": "ai décliné",
+			"tu": "as décliné",
+			"il/elle": "a décliné",
+			"nous": "avons décliné",
+			"vous": "avez décliné",
+			"ils/elles": "ont décliné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais décliné",
+			"tu": "avais décliné",
+			"il/elle": "avait décliné",
+			"nous": "avions décliné",
+			"vous": "aviez décliné",
+			"ils/elles": "avaient décliné"
+		},
+		"passé antérieur": {
+			"j'": "eus décliné",
+			"tu": "eus décliné",
+			"il/elle": "eut décliné",
+			"nous": "eûmes décliné",
+			"vous": "eûtes décliné",
+			"ils/elles": "eurent décliné"
+		},
+		"futur antérieur": {
+			"j'": "aurai décliné",
+			"tu": "auras décliné",
+			"il/elle": "aura décliné",
+			"nous": "aurons décliné",
+			"vous": "aurez décliné",
+			"ils/elles": "auront décliné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous décliniez",
+			"qu'il/elle": "décline",
+			"qu'ils/elles": "déclinent"
+		},
+		"imparfait": {
+			"que": "vous déclinassiez",
+			"qu'il/elle": "déclinât",
+			"qu'ils/elles": "déclinassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse décliné",
+			"que": "vous eussiez décliné",
+			"qu'il/elle": "eût décliné",
+			"qu'ils/elles": "eussent décliné"
+		},
+		"passé": {
+			"j'": "aie décliné",
+			"que": "vous ayez décliné",
+			"qu'il/elle": "ait décliné",
+			"qu'ils/elles": "aient décliné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "déclinerais",
+			"tu": "déclinerais",
+			"il/elle": "déclinerait",
+			"nous": "déclinerions",
+			"vous": "déclineriez",
+			"ils/elles": "déclineraient"
+		},
+		"passé première forme": {
+			"j'": "aurais décliné",
+			"tu": "aurais décliné",
+			"il/elle": "aurait décliné",
+			"nous": "aurions décliné",
+			"vous": "auriez décliné",
+			"ils/elles": "auraient décliné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse décliné",
+			"tu": "eusses décliné",
+			"il/elle": "eût décliné",
+			"nous": "eussions décliné",
+			"vous": "eussiez décliné",
+			"ils/elles": "eussent décliné"
+		}
+	},
+	"participe": {
+		"présent": { "déclinant": "" },
+		"passé composé": { "ayant": "décliné" },
+		"passé": {
+			"masc.sg.:": "décliné",
+			"masc.pl.:": "déclinés",
+			"fém.sg.:": "déclinée",
+			"fém.pl.:": "déclinées"
+		}
+	},
+	"imperatif": {
+		"présent": { "décline": "", "déclinons": "", "déclinez": "" },
+		"passé": { "aie": "décliné", "ayons": "décliné", "ayez": "décliné" }
+	},
+	"infinitif": {
+		"présent": { "décliner": "" },
+		"passé": { "avoir": "décliné" }
+	}
+}

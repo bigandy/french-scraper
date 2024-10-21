@@ -1,0 +1,140 @@
+{
+	"name": "animer",
+	"definition": "animate; lead; facilitate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'animer/ne pas animer/ne pas s'animer",
+	"indicatif": {
+		"présent": {
+			"j'": "anime",
+			"tu": "animes",
+			"il/elle": "anime",
+			"nous": "animons",
+			"vous": "animez",
+			"ils/elles": "animent"
+		},
+		"imparfait": {
+			"j'": "animais",
+			"tu": "animais",
+			"il/elle": "animait",
+			"nous": "animions",
+			"vous": "animiez",
+			"ils/elles": "animaient"
+		},
+		"futur": {
+			"j'": "animerai",
+			"tu": "animeras",
+			"il/elle": "animera",
+			"nous": "animerons",
+			"vous": "animerez",
+			"ils/elles": "animeront"
+		},
+		"passé simple": {
+			"j'": "animai",
+			"tu": "animas",
+			"il/elle": "anima",
+			"nous": "animâmes",
+			"vous": "animâtes",
+			"ils/elles": "animèrent"
+		},
+		"passé composé": {
+			"j'": "ai animé",
+			"tu": "as animé",
+			"il/elle": "a animé",
+			"nous": "avons animé",
+			"vous": "avez animé",
+			"ils/elles": "ont animé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais animé",
+			"tu": "avais animé",
+			"il/elle": "avait animé",
+			"nous": "avions animé",
+			"vous": "aviez animé",
+			"ils/elles": "avaient animé"
+		},
+		"passé antérieur": {
+			"j'": "eus animé",
+			"tu": "eus animé",
+			"il/elle": "eut animé",
+			"nous": "eûmes animé",
+			"vous": "eûtes animé",
+			"ils/elles": "eurent animé"
+		},
+		"futur antérieur": {
+			"j'": "aurai animé",
+			"tu": "auras animé",
+			"il/elle": "aura animé",
+			"nous": "aurons animé",
+			"vous": "aurez animé",
+			"ils/elles": "auront animé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "anime",
+			"que": "vous animiez",
+			"qu'il/elle": "anime",
+			"qu'ils/elles": "animent"
+		},
+		"imparfait": {
+			"j'": "animasse",
+			"que": "vous animassiez",
+			"qu'il/elle": "animât",
+			"qu'ils/elles": "animassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse animé",
+			"que": "vous eussiez animé",
+			"qu'il/elle": "eût animé",
+			"qu'ils/elles": "eussent animé"
+		},
+		"passé": {
+			"j'": "aie animé",
+			"que": "vous ayez animé",
+			"qu'il/elle": "ait animé",
+			"qu'ils/elles": "aient animé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "animerais",
+			"tu": "animerais",
+			"il/elle": "animerait",
+			"nous": "animerions",
+			"vous": "animeriez",
+			"ils/elles": "animeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais animé",
+			"tu": "aurais animé",
+			"il/elle": "aurait animé",
+			"nous": "aurions animé",
+			"vous": "auriez animé",
+			"ils/elles": "auraient animé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse animé",
+			"tu": "eusses animé",
+			"il/elle": "eût animé",
+			"nous": "eussions animé",
+			"vous": "eussiez animé",
+			"ils/elles": "eussent animé"
+		}
+	},
+	"participe": {
+		"présent": { "animant": "" },
+		"passé composé": { "ayant": "animé" },
+		"passé": {
+			"masc.sg.:": "animé",
+			"masc.pl.:": "animés",
+			"fém.sg.:": "animée",
+			"fém.pl.:": "animées"
+		}
+	},
+	"imperatif": {
+		"présent": { "anime": "", "animons": "", "animez": "" },
+		"passé": { "aie": "animé", "ayons": "animé", "ayez": "animé" }
+	},
+	"infinitif": { "présent": { "animer": "" }, "passé": { "avoir": "animé" } }
+}

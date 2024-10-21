@@ -1,0 +1,141 @@
+{
+	"name": "conjuguer",
+	"definition": "combine; conjugate; join; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se conjuguer/ne pas conjuguer/ne pas se conjuguer",
+	"indicatif": {
+		"présent": {
+			"je": "conjugue",
+			"tu": "conjugues",
+			"il/elle": "conjugue",
+			"nous": "conjuguons",
+			"vous": "conjuguez",
+			"ils/elles": "conjuguent"
+		},
+		"imparfait": {
+			"je": "conjuguais",
+			"tu": "conjuguais",
+			"il/elle": "conjuguait",
+			"nous": "conjuguions",
+			"vous": "conjuguiez",
+			"ils/elles": "conjuguaient"
+		},
+		"futur": {
+			"je": "conjuguerai",
+			"tu": "conjugueras",
+			"il/elle": "conjuguera",
+			"nous": "conjuguerons",
+			"vous": "conjuguerez",
+			"ils/elles": "conjugueront"
+		},
+		"passé simple": {
+			"je": "conjuguai",
+			"tu": "conjuguas",
+			"il/elle": "conjugua",
+			"nous": "conjuguâmes",
+			"vous": "conjuguâtes",
+			"ils/elles": "conjuguèrent"
+		},
+		"passé composé": {
+			"j'": "ai conjugué",
+			"tu": "as conjugué",
+			"il/elle": "a conjugué",
+			"nous": "avons conjugué",
+			"vous": "avez conjugué",
+			"ils/elles": "ont conjugué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais conjugué",
+			"tu": "avais conjugué",
+			"il/elle": "avait conjugué",
+			"nous": "avions conjugué",
+			"vous": "aviez conjugué",
+			"ils/elles": "avaient conjugué"
+		},
+		"passé antérieur": {
+			"j'": "eus conjugué",
+			"tu": "eus conjugué",
+			"il/elle": "eut conjugué",
+			"nous": "eûmes conjugué",
+			"vous": "eûtes conjugué",
+			"ils/elles": "eurent conjugué"
+		},
+		"futur antérieur": {
+			"j'": "aurai conjugué",
+			"tu": "auras conjugué",
+			"il/elle": "aura conjugué",
+			"nous": "aurons conjugué",
+			"vous": "aurez conjugué",
+			"ils/elles": "auront conjugué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous conjuguiez",
+			"qu'il/elle": "conjugue",
+			"qu'ils/elles": "conjuguent"
+		},
+		"imparfait": {
+			"que": "vous conjuguassiez",
+			"qu'il/elle": "conjuguât",
+			"qu'ils/elles": "conjuguassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse conjugué",
+			"que": "vous eussiez conjugué",
+			"qu'il/elle": "eût conjugué",
+			"qu'ils/elles": "eussent conjugué"
+		},
+		"passé": {
+			"j'": "aie conjugué",
+			"que": "vous ayez conjugué",
+			"qu'il/elle": "ait conjugué",
+			"qu'ils/elles": "aient conjugué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "conjuguerais",
+			"tu": "conjuguerais",
+			"il/elle": "conjuguerait",
+			"nous": "conjuguerions",
+			"vous": "conjugueriez",
+			"ils/elles": "conjugueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais conjugué",
+			"tu": "aurais conjugué",
+			"il/elle": "aurait conjugué",
+			"nous": "aurions conjugué",
+			"vous": "auriez conjugué",
+			"ils/elles": "auraient conjugué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse conjugué",
+			"tu": "eusses conjugué",
+			"il/elle": "eût conjugué",
+			"nous": "eussions conjugué",
+			"vous": "eussiez conjugué",
+			"ils/elles": "eussent conjugué"
+		}
+	},
+	"participe": {
+		"présent": { "conjuguant": "" },
+		"passé composé": { "ayant": "conjugué" },
+		"passé": {
+			"masc.sg.:": "conjugué",
+			"masc.pl.:": "conjugués",
+			"fém.sg.:": "conjuguée",
+			"fém.pl.:": "conjuguées"
+		}
+	},
+	"imperatif": {
+		"présent": { "conjugue": "", "conjuguons": "", "conjuguez": "" },
+		"passé": { "aie": "conjugué", "ayons": "conjugué", "ayez": "conjugué" }
+	},
+	"infinitif": {
+		"présent": { "conjuguer": "" },
+		"passé": { "avoir": "conjugué" }
+	}
+}

@@ -1,0 +1,143 @@
+{
+	"name": "assassiner",
+	"definition": "murder; assassinate; kill; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'assassiner/ne pas assassiner/ne pas s'assassiner",
+	"indicatif": {
+		"présent": {
+			"j'": "assassine",
+			"tu": "assassines",
+			"il/elle": "assassine",
+			"nous": "assassinons",
+			"vous": "assassinez",
+			"ils/elles": "assassinent"
+		},
+		"imparfait": {
+			"j'": "assassinais",
+			"tu": "assassinais",
+			"il/elle": "assassinait",
+			"nous": "assassinions",
+			"vous": "assassiniez",
+			"ils/elles": "assassinaient"
+		},
+		"futur": {
+			"j'": "assassinerai",
+			"tu": "assassineras",
+			"il/elle": "assassinera",
+			"nous": "assassinerons",
+			"vous": "assassinerez",
+			"ils/elles": "assassineront"
+		},
+		"passé simple": {
+			"j'": "assassinai",
+			"tu": "assassinas",
+			"il/elle": "assassina",
+			"nous": "assassinâmes",
+			"vous": "assassinâtes",
+			"ils/elles": "assassinèrent"
+		},
+		"passé composé": {
+			"j'": "ai assassiné",
+			"tu": "as assassiné",
+			"il/elle": "a assassiné",
+			"nous": "avons assassiné",
+			"vous": "avez assassiné",
+			"ils/elles": "ont assassiné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais assassiné",
+			"tu": "avais assassiné",
+			"il/elle": "avait assassiné",
+			"nous": "avions assassiné",
+			"vous": "aviez assassiné",
+			"ils/elles": "avaient assassiné"
+		},
+		"passé antérieur": {
+			"j'": "eus assassiné",
+			"tu": "eus assassiné",
+			"il/elle": "eut assassiné",
+			"nous": "eûmes assassiné",
+			"vous": "eûtes assassiné",
+			"ils/elles": "eurent assassiné"
+		},
+		"futur antérieur": {
+			"j'": "aurai assassiné",
+			"tu": "auras assassiné",
+			"il/elle": "aura assassiné",
+			"nous": "aurons assassiné",
+			"vous": "aurez assassiné",
+			"ils/elles": "auront assassiné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "assassine",
+			"que": "vous assassiniez",
+			"qu'il/elle": "assassine",
+			"qu'ils/elles": "assassinent"
+		},
+		"imparfait": {
+			"j'": "assassinasse",
+			"que": "vous assassinassiez",
+			"qu'il/elle": "assassinât",
+			"qu'ils/elles": "assassinassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse assassiné",
+			"que": "vous eussiez assassiné",
+			"qu'il/elle": "eût assassiné",
+			"qu'ils/elles": "eussent assassiné"
+		},
+		"passé": {
+			"j'": "aie assassiné",
+			"que": "vous ayez assassiné",
+			"qu'il/elle": "ait assassiné",
+			"qu'ils/elles": "aient assassiné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "assassinerais",
+			"tu": "assassinerais",
+			"il/elle": "assassinerait",
+			"nous": "assassinerions",
+			"vous": "assassineriez",
+			"ils/elles": "assassineraient"
+		},
+		"passé première forme": {
+			"j'": "aurais assassiné",
+			"tu": "aurais assassiné",
+			"il/elle": "aurait assassiné",
+			"nous": "aurions assassiné",
+			"vous": "auriez assassiné",
+			"ils/elles": "auraient assassiné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse assassiné",
+			"tu": "eusses assassiné",
+			"il/elle": "eût assassiné",
+			"nous": "eussions assassiné",
+			"vous": "eussiez assassiné",
+			"ils/elles": "eussent assassiné"
+		}
+	},
+	"participe": {
+		"présent": { "assassinant": "" },
+		"passé composé": { "ayant": "assassiné" },
+		"passé": {
+			"masc.sg.:": "assassiné",
+			"masc.pl.:": "assassinés",
+			"fém.sg.:": "assassinée",
+			"fém.pl.:": "assassinées"
+		}
+	},
+	"imperatif": {
+		"présent": { "assassine": "", "assassinons": "", "assassinez": "" },
+		"passé": { "aie": "assassiné", "ayons": "assassiné", "ayez": "assassiné" }
+	},
+	"infinitif": {
+		"présent": { "assassiner": "" },
+		"passé": { "avoir": "assassiné" }
+	}
+}

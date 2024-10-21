@@ -1,0 +1,138 @@
+{
+	"name": "hausser",
+	"definition": "raise; increase; shrug; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se hausser/ne pas hausser/ne pas se hausser",
+	"indicatif": {
+		"présent": {
+			"je": "hausse",
+			"tu": "hausses",
+			"il/elle": "hausse",
+			"nous": "haussons",
+			"vous": "haussez",
+			"ils/elles": "haussent"
+		},
+		"imparfait": {
+			"je": "haussais",
+			"tu": "haussais",
+			"il/elle": "haussait",
+			"nous": "haussions",
+			"vous": "haussiez",
+			"ils/elles": "haussaient"
+		},
+		"futur": {
+			"je": "hausserai",
+			"tu": "hausseras",
+			"il/elle": "haussera",
+			"nous": "hausserons",
+			"vous": "hausserez",
+			"ils/elles": "hausseront"
+		},
+		"passé simple": {
+			"je": "haussai",
+			"tu": "haussas",
+			"il/elle": "haussa",
+			"nous": "haussâmes",
+			"vous": "haussâtes",
+			"ils/elles": "haussèrent"
+		},
+		"passé composé": {
+			"j'": "ai haussé",
+			"tu": "as haussé",
+			"il/elle": "a haussé",
+			"nous": "avons haussé",
+			"vous": "avez haussé",
+			"ils/elles": "ont haussé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais haussé",
+			"tu": "avais haussé",
+			"il/elle": "avait haussé",
+			"nous": "avions haussé",
+			"vous": "aviez haussé",
+			"ils/elles": "avaient haussé"
+		},
+		"passé antérieur": {
+			"j'": "eus haussé",
+			"tu": "eus haussé",
+			"il/elle": "eut haussé",
+			"nous": "eûmes haussé",
+			"vous": "eûtes haussé",
+			"ils/elles": "eurent haussé"
+		},
+		"futur antérieur": {
+			"j'": "aurai haussé",
+			"tu": "auras haussé",
+			"il/elle": "aura haussé",
+			"nous": "aurons haussé",
+			"vous": "aurez haussé",
+			"ils/elles": "auront haussé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous haussiez",
+			"qu'il/elle": "hausse",
+			"qu'ils/elles": "haussent"
+		},
+		"imparfait": {
+			"que": "vous haussassiez",
+			"qu'il/elle": "haussât",
+			"qu'ils/elles": "haussassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse haussé",
+			"que": "vous eussiez haussé",
+			"qu'il/elle": "eût haussé",
+			"qu'ils/elles": "eussent haussé"
+		},
+		"passé": {
+			"j'": "aie haussé",
+			"que": "vous ayez haussé",
+			"qu'il/elle": "ait haussé",
+			"qu'ils/elles": "aient haussé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "hausserais",
+			"tu": "hausserais",
+			"il/elle": "hausserait",
+			"nous": "hausserions",
+			"vous": "hausseriez",
+			"ils/elles": "hausseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais haussé",
+			"tu": "aurais haussé",
+			"il/elle": "aurait haussé",
+			"nous": "aurions haussé",
+			"vous": "auriez haussé",
+			"ils/elles": "auraient haussé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse haussé",
+			"tu": "eusses haussé",
+			"il/elle": "eût haussé",
+			"nous": "eussions haussé",
+			"vous": "eussiez haussé",
+			"ils/elles": "eussent haussé"
+		}
+	},
+	"participe": {
+		"présent": { "haussant": "" },
+		"passé composé": { "ayant": "haussé" },
+		"passé": {
+			"masc.sg.:": "haussé",
+			"masc.pl.:": "haussés",
+			"fém.sg.:": "haussée",
+			"fém.pl.:": "haussées"
+		}
+	},
+	"imperatif": {
+		"présent": { "hausse": "", "haussons": "", "haussez": "" },
+		"passé": { "aie": "haussé", "ayons": "haussé", "ayez": "haussé" }
+	},
+	"infinitif": { "présent": { "hausser": "" }, "passé": { "avoir": "haussé" } }
+}

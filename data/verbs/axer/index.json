@@ -1,0 +1,140 @@
+{
+	"name": "axer",
+	"definition": "focus; concentrate; direct; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'axer/ne pas axer/ne pas s'axer",
+	"indicatif": {
+		"présent": {
+			"j'": "axe",
+			"tu": "axes",
+			"il/elle": "axe",
+			"nous": "axons",
+			"vous": "axez",
+			"ils/elles": "axent"
+		},
+		"imparfait": {
+			"j'": "axais",
+			"tu": "axais",
+			"il/elle": "axait",
+			"nous": "axions",
+			"vous": "axiez",
+			"ils/elles": "axaient"
+		},
+		"futur": {
+			"j'": "axerai",
+			"tu": "axeras",
+			"il/elle": "axera",
+			"nous": "axerons",
+			"vous": "axerez",
+			"ils/elles": "axeront"
+		},
+		"passé simple": {
+			"j'": "axai",
+			"tu": "axas",
+			"il/elle": "axa",
+			"nous": "axâmes",
+			"vous": "axâtes",
+			"ils/elles": "axèrent"
+		},
+		"passé composé": {
+			"j'": "ai axé",
+			"tu": "as axé",
+			"il/elle": "a axé",
+			"nous": "avons axé",
+			"vous": "avez axé",
+			"ils/elles": "ont axé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais axé",
+			"tu": "avais axé",
+			"il/elle": "avait axé",
+			"nous": "avions axé",
+			"vous": "aviez axé",
+			"ils/elles": "avaient axé"
+		},
+		"passé antérieur": {
+			"j'": "eus axé",
+			"tu": "eus axé",
+			"il/elle": "eut axé",
+			"nous": "eûmes axé",
+			"vous": "eûtes axé",
+			"ils/elles": "eurent axé"
+		},
+		"futur antérieur": {
+			"j'": "aurai axé",
+			"tu": "auras axé",
+			"il/elle": "aura axé",
+			"nous": "aurons axé",
+			"vous": "aurez axé",
+			"ils/elles": "auront axé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "axe",
+			"que": "vous axiez",
+			"qu'il/elle": "axe",
+			"qu'ils/elles": "axent"
+		},
+		"imparfait": {
+			"j'": "axasse",
+			"que": "vous axassiez",
+			"qu'il/elle": "axât",
+			"qu'ils/elles": "axassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse axé",
+			"que": "vous eussiez axé",
+			"qu'il/elle": "eût axé",
+			"qu'ils/elles": "eussent axé"
+		},
+		"passé": {
+			"j'": "aie axé",
+			"que": "vous ayez axé",
+			"qu'il/elle": "ait axé",
+			"qu'ils/elles": "aient axé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "axerais",
+			"tu": "axerais",
+			"il/elle": "axerait",
+			"nous": "axerions",
+			"vous": "axeriez",
+			"ils/elles": "axeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais axé",
+			"tu": "aurais axé",
+			"il/elle": "aurait axé",
+			"nous": "aurions axé",
+			"vous": "auriez axé",
+			"ils/elles": "auraient axé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse axé",
+			"tu": "eusses axé",
+			"il/elle": "eût axé",
+			"nous": "eussions axé",
+			"vous": "eussiez axé",
+			"ils/elles": "eussent axé"
+		}
+	},
+	"participe": {
+		"présent": { "axant": "" },
+		"passé composé": { "ayant": "axé" },
+		"passé": {
+			"masc.sg.:": "axé",
+			"masc.pl.:": "axés",
+			"fém.sg.:": "axée",
+			"fém.pl.:": "axées"
+		}
+	},
+	"imperatif": {
+		"présent": { "axe": "", "axons": "", "axez": "" },
+		"passé": { "aie": "axé", "ayons": "axé", "ayez": "axé" }
+	},
+	"infinitif": { "présent": { "axer": "" }, "passé": { "avoir": "axé" } }
+}

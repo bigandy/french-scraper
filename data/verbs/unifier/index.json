@@ -1,0 +1,140 @@
+{
+	"name": "unifier",
+	"definition": "unify; unite; consolidate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'unifier/ne pas unifier/ne pas s'unifier",
+	"indicatif": {
+		"présent": {
+			"j'": "unifie",
+			"tu": "unifies",
+			"il/elle": "unifie",
+			"nous": "unifions",
+			"vous": "unifiez",
+			"ils/elles": "unifient"
+		},
+		"imparfait": {
+			"j'": "unifiais",
+			"tu": "unifiais",
+			"il/elle": "unifiait",
+			"nous": "unifiions",
+			"vous": "unifiiez",
+			"ils/elles": "unifiaient"
+		},
+		"futur": {
+			"j'": "unifierai",
+			"tu": "unifieras",
+			"il/elle": "unifiera",
+			"nous": "unifierons",
+			"vous": "unifierez",
+			"ils/elles": "unifieront"
+		},
+		"passé simple": {
+			"j'": "unifiai",
+			"tu": "unifias",
+			"il/elle": "unifia",
+			"nous": "unifiâmes",
+			"vous": "unifiâtes",
+			"ils/elles": "unifièrent"
+		},
+		"passé composé": {
+			"j'": "ai unifié",
+			"tu": "as unifié",
+			"il/elle": "a unifié",
+			"nous": "avons unifié",
+			"vous": "avez unifié",
+			"ils/elles": "ont unifié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais unifié",
+			"tu": "avais unifié",
+			"il/elle": "avait unifié",
+			"nous": "avions unifié",
+			"vous": "aviez unifié",
+			"ils/elles": "avaient unifié"
+		},
+		"passé antérieur": {
+			"j'": "eus unifié",
+			"tu": "eus unifié",
+			"il/elle": "eut unifié",
+			"nous": "eûmes unifié",
+			"vous": "eûtes unifié",
+			"ils/elles": "eurent unifié"
+		},
+		"futur antérieur": {
+			"j'": "aurai unifié",
+			"tu": "auras unifié",
+			"il/elle": "aura unifié",
+			"nous": "aurons unifié",
+			"vous": "aurez unifié",
+			"ils/elles": "auront unifié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "unifie",
+			"que": "vous unifiiez",
+			"qu'il/elle": "unifie",
+			"qu'ils/elles": "unifient"
+		},
+		"imparfait": {
+			"j'": "unifiasse",
+			"que": "vous unifiassiez",
+			"qu'il/elle": "unifiât",
+			"qu'ils/elles": "unifiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse unifié",
+			"que": "vous eussiez unifié",
+			"qu'il/elle": "eût unifié",
+			"qu'ils/elles": "eussent unifié"
+		},
+		"passé": {
+			"j'": "aie unifié",
+			"que": "vous ayez unifié",
+			"qu'il/elle": "ait unifié",
+			"qu'ils/elles": "aient unifié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "unifierais",
+			"tu": "unifierais",
+			"il/elle": "unifierait",
+			"nous": "unifierions",
+			"vous": "unifieriez",
+			"ils/elles": "unifieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais unifié",
+			"tu": "aurais unifié",
+			"il/elle": "aurait unifié",
+			"nous": "aurions unifié",
+			"vous": "auriez unifié",
+			"ils/elles": "auraient unifié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse unifié",
+			"tu": "eusses unifié",
+			"il/elle": "eût unifié",
+			"nous": "eussions unifié",
+			"vous": "eussiez unifié",
+			"ils/elles": "eussent unifié"
+		}
+	},
+	"participe": {
+		"présent": { "unifiant": "" },
+		"passé composé": { "ayant": "unifié" },
+		"passé": {
+			"masc.sg.:": "unifié",
+			"masc.pl.:": "unifiés",
+			"fém.sg.:": "unifiée",
+			"fém.pl.:": "unifiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "unifie": "", "unifions": "", "unifiez": "" },
+		"passé": { "aie": "unifié", "ayons": "unifié", "ayez": "unifié" }
+	},
+	"infinitif": { "présent": { "unifier": "" }, "passé": { "avoir": "unifié" } }
+}

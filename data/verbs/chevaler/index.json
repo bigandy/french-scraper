@@ -1,0 +1,141 @@
+{
+	"name": "chevaler",
+	"definition": "prop up; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se chevaler/ne pas chevaler/ne pas se chevaler",
+	"indicatif": {
+		"présent": {
+			"je": "chevale",
+			"tu": "chevales",
+			"il/elle": "chevale",
+			"nous": "chevalons",
+			"vous": "chevalez",
+			"ils/elles": "chevalent"
+		},
+		"imparfait": {
+			"je": "chevalais",
+			"tu": "chevalais",
+			"il/elle": "chevalait",
+			"nous": "chevalions",
+			"vous": "chevaliez",
+			"ils/elles": "chevalaient"
+		},
+		"futur": {
+			"je": "chevalerai",
+			"tu": "chevaleras",
+			"il/elle": "chevalera",
+			"nous": "chevalerons",
+			"vous": "chevalerez",
+			"ils/elles": "chevaleront"
+		},
+		"passé simple": {
+			"je": "chevalai",
+			"tu": "chevalas",
+			"il/elle": "chevala",
+			"nous": "chevalâmes",
+			"vous": "chevalâtes",
+			"ils/elles": "chevalèrent"
+		},
+		"passé composé": {
+			"j'": "ai chevalé",
+			"tu": "as chevalé",
+			"il/elle": "a chevalé",
+			"nous": "avons chevalé",
+			"vous": "avez chevalé",
+			"ils/elles": "ont chevalé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais chevalé",
+			"tu": "avais chevalé",
+			"il/elle": "avait chevalé",
+			"nous": "avions chevalé",
+			"vous": "aviez chevalé",
+			"ils/elles": "avaient chevalé"
+		},
+		"passé antérieur": {
+			"j'": "eus chevalé",
+			"tu": "eus chevalé",
+			"il/elle": "eut chevalé",
+			"nous": "eûmes chevalé",
+			"vous": "eûtes chevalé",
+			"ils/elles": "eurent chevalé"
+		},
+		"futur antérieur": {
+			"j'": "aurai chevalé",
+			"tu": "auras chevalé",
+			"il/elle": "aura chevalé",
+			"nous": "aurons chevalé",
+			"vous": "aurez chevalé",
+			"ils/elles": "auront chevalé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous chevaliez",
+			"qu'il/elle": "chevale",
+			"qu'ils/elles": "chevalent"
+		},
+		"imparfait": {
+			"que": "vous chevalassiez",
+			"qu'il/elle": "chevalât",
+			"qu'ils/elles": "chevalassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse chevalé",
+			"que": "vous eussiez chevalé",
+			"qu'il/elle": "eût chevalé",
+			"qu'ils/elles": "eussent chevalé"
+		},
+		"passé": {
+			"j'": "aie chevalé",
+			"que": "vous ayez chevalé",
+			"qu'il/elle": "ait chevalé",
+			"qu'ils/elles": "aient chevalé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "chevalerais",
+			"tu": "chevalerais",
+			"il/elle": "chevalerait",
+			"nous": "chevalerions",
+			"vous": "chevaleriez",
+			"ils/elles": "chevaleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais chevalé",
+			"tu": "aurais chevalé",
+			"il/elle": "aurait chevalé",
+			"nous": "aurions chevalé",
+			"vous": "auriez chevalé",
+			"ils/elles": "auraient chevalé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse chevalé",
+			"tu": "eusses chevalé",
+			"il/elle": "eût chevalé",
+			"nous": "eussions chevalé",
+			"vous": "eussiez chevalé",
+			"ils/elles": "eussent chevalé"
+		}
+	},
+	"participe": {
+		"présent": { "chevalant": "" },
+		"passé composé": { "ayant": "chevalé" },
+		"passé": {
+			"masc.sg.:": "chevalé",
+			"masc.pl.:": "chevalés",
+			"fém.sg.:": "chevalée",
+			"fém.pl.:": "chevalées"
+		}
+	},
+	"imperatif": {
+		"présent": { "chevale": "", "chevalons": "", "chevalez": "" },
+		"passé": { "aie": "chevalé", "ayons": "chevalé", "ayez": "chevalé" }
+	},
+	"infinitif": {
+		"présent": { "chevaler": "" },
+		"passé": { "avoir": "chevalé" }
+	}
+}

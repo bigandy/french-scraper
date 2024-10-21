@@ -1,0 +1,149 @@
+{
+	"name": "photographier",
+	"definition": "photograph; shoot; take photos; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se photographier/ne pas photographier/ne pas se photographier",
+	"indicatif": {
+		"présent": {
+			"je": "photographie",
+			"tu": "photographies",
+			"il/elle": "photographie",
+			"nous": "photographions",
+			"vous": "photographiez",
+			"ils/elles": "photographient"
+		},
+		"imparfait": {
+			"je": "photographiais",
+			"tu": "photographiais",
+			"il/elle": "photographiait",
+			"nous": "photographiions",
+			"vous": "photographiiez",
+			"ils/elles": "photographiaient"
+		},
+		"futur": {
+			"je": "photographierai",
+			"tu": "photographieras",
+			"il/elle": "photographiera",
+			"nous": "photographierons",
+			"vous": "photographierez",
+			"ils/elles": "photographieront"
+		},
+		"passé simple": {
+			"je": "photographiai",
+			"tu": "photographias",
+			"il/elle": "photographia",
+			"nous": "photographiâmes",
+			"vous": "photographiâtes",
+			"ils/elles": "photographièrent"
+		},
+		"passé composé": {
+			"j'": "ai photographié",
+			"tu": "as photographié",
+			"il/elle": "a photographié",
+			"nous": "avons photographié",
+			"vous": "avez photographié",
+			"ils/elles": "ont photographié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais photographié",
+			"tu": "avais photographié",
+			"il/elle": "avait photographié",
+			"nous": "avions photographié",
+			"vous": "aviez photographié",
+			"ils/elles": "avaient photographié"
+		},
+		"passé antérieur": {
+			"j'": "eus photographié",
+			"tu": "eus photographié",
+			"il/elle": "eut photographié",
+			"nous": "eûmes photographié",
+			"vous": "eûtes photographié",
+			"ils/elles": "eurent photographié"
+		},
+		"futur antérieur": {
+			"j'": "aurai photographié",
+			"tu": "auras photographié",
+			"il/elle": "aura photographié",
+			"nous": "aurons photographié",
+			"vous": "aurez photographié",
+			"ils/elles": "auront photographié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous photographiiez",
+			"qu'il/elle": "photographie",
+			"qu'ils/elles": "photographient"
+		},
+		"imparfait": {
+			"que": "vous photographiassiez",
+			"qu'il/elle": "photographiât",
+			"qu'ils/elles": "photographiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse photographié",
+			"que": "vous eussiez photographié",
+			"qu'il/elle": "eût photographié",
+			"qu'ils/elles": "eussent photographié"
+		},
+		"passé": {
+			"j'": "aie photographié",
+			"que": "vous ayez photographié",
+			"qu'il/elle": "ait photographié",
+			"qu'ils/elles": "aient photographié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "photographierais",
+			"tu": "photographierais",
+			"il/elle": "photographierait",
+			"nous": "photographierions",
+			"vous": "photographieriez",
+			"ils/elles": "photographieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais photographié",
+			"tu": "aurais photographié",
+			"il/elle": "aurait photographié",
+			"nous": "aurions photographié",
+			"vous": "auriez photographié",
+			"ils/elles": "auraient photographié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse photographié",
+			"tu": "eusses photographié",
+			"il/elle": "eût photographié",
+			"nous": "eussions photographié",
+			"vous": "eussiez photographié",
+			"ils/elles": "eussent photographié"
+		}
+	},
+	"participe": {
+		"présent": { "photographiant": "" },
+		"passé composé": { "ayant": "photographié" },
+		"passé": {
+			"masc.sg.:": "photographié",
+			"masc.pl.:": "photographiés",
+			"fém.sg.:": "photographiée",
+			"fém.pl.:": "photographiées"
+		}
+	},
+	"imperatif": {
+		"présent": {
+			"photographie": "",
+			"photographions": "",
+			"photographiez": ""
+		},
+		"passé": {
+			"aie": "photographié",
+			"ayons": "photographié",
+			"ayez": "photographié"
+		}
+	},
+	"infinitif": {
+		"présent": { "photographier": "" },
+		"passé": { "avoir": "photographié" }
+	}
+}

@@ -1,0 +1,141 @@
+{
+	"name": "reporter",
+	"definition": "postpone; refer; defer; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se reporter/ne pas reporter/ne pas se reporter",
+	"indicatif": {
+		"présent": {
+			"je": "reporte",
+			"tu": "reportes",
+			"il/elle": "reporte",
+			"nous": "reportons",
+			"vous": "reportez",
+			"ils/elles": "reportent"
+		},
+		"imparfait": {
+			"je": "reportais",
+			"tu": "reportais",
+			"il/elle": "reportait",
+			"nous": "reportions",
+			"vous": "reportiez",
+			"ils/elles": "reportaient"
+		},
+		"futur": {
+			"je": "reporterai",
+			"tu": "reporteras",
+			"il/elle": "reportera",
+			"nous": "reporterons",
+			"vous": "reporterez",
+			"ils/elles": "reporteront"
+		},
+		"passé simple": {
+			"je": "reportai",
+			"tu": "reportas",
+			"il/elle": "reporta",
+			"nous": "reportâmes",
+			"vous": "reportâtes",
+			"ils/elles": "reportèrent"
+		},
+		"passé composé": {
+			"j'": "ai reporté",
+			"tu": "as reporté",
+			"il/elle": "a reporté",
+			"nous": "avons reporté",
+			"vous": "avez reporté",
+			"ils/elles": "ont reporté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais reporté",
+			"tu": "avais reporté",
+			"il/elle": "avait reporté",
+			"nous": "avions reporté",
+			"vous": "aviez reporté",
+			"ils/elles": "avaient reporté"
+		},
+		"passé antérieur": {
+			"j'": "eus reporté",
+			"tu": "eus reporté",
+			"il/elle": "eut reporté",
+			"nous": "eûmes reporté",
+			"vous": "eûtes reporté",
+			"ils/elles": "eurent reporté"
+		},
+		"futur antérieur": {
+			"j'": "aurai reporté",
+			"tu": "auras reporté",
+			"il/elle": "aura reporté",
+			"nous": "aurons reporté",
+			"vous": "aurez reporté",
+			"ils/elles": "auront reporté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous reportiez",
+			"qu'il/elle": "reporte",
+			"qu'ils/elles": "reportent"
+		},
+		"imparfait": {
+			"que": "vous reportassiez",
+			"qu'il/elle": "reportât",
+			"qu'ils/elles": "reportassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse reporté",
+			"que": "vous eussiez reporté",
+			"qu'il/elle": "eût reporté",
+			"qu'ils/elles": "eussent reporté"
+		},
+		"passé": {
+			"j'": "aie reporté",
+			"que": "vous ayez reporté",
+			"qu'il/elle": "ait reporté",
+			"qu'ils/elles": "aient reporté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "reporterais",
+			"tu": "reporterais",
+			"il/elle": "reporterait",
+			"nous": "reporterions",
+			"vous": "reporteriez",
+			"ils/elles": "reporteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais reporté",
+			"tu": "aurais reporté",
+			"il/elle": "aurait reporté",
+			"nous": "aurions reporté",
+			"vous": "auriez reporté",
+			"ils/elles": "auraient reporté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse reporté",
+			"tu": "eusses reporté",
+			"il/elle": "eût reporté",
+			"nous": "eussions reporté",
+			"vous": "eussiez reporté",
+			"ils/elles": "eussent reporté"
+		}
+	},
+	"participe": {
+		"présent": { "reportant": "" },
+		"passé composé": { "ayant": "reporté" },
+		"passé": {
+			"masc.sg.:": "reporté",
+			"masc.pl.:": "reportés",
+			"fém.sg.:": "reportée",
+			"fém.pl.:": "reportées"
+		}
+	},
+	"imperatif": {
+		"présent": { "reporte": "", "reportons": "", "reportez": "" },
+		"passé": { "aie": "reporté", "ayons": "reporté", "ayez": "reporté" }
+	},
+	"infinitif": {
+		"présent": { "reporter": "" },
+		"passé": { "avoir": "reporté" }
+	}
+}

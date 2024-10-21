@@ -1,0 +1,141 @@
+{
+	"name": "désarmer",
+	"definition": "disarm; decommission; unset; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se désarmer/ne pas désarmer/ne pas se désarmer",
+	"indicatif": {
+		"présent": {
+			"je": "désarme",
+			"tu": "désarmes",
+			"il/elle": "désarme",
+			"nous": "désarmons",
+			"vous": "désarmez",
+			"ils/elles": "désarment"
+		},
+		"imparfait": {
+			"je": "désarmais",
+			"tu": "désarmais",
+			"il/elle": "désarmait",
+			"nous": "désarmions",
+			"vous": "désarmiez",
+			"ils/elles": "désarmaient"
+		},
+		"futur": {
+			"je": "désarmerai",
+			"tu": "désarmeras",
+			"il/elle": "désarmera",
+			"nous": "désarmerons",
+			"vous": "désarmerez",
+			"ils/elles": "désarmeront"
+		},
+		"passé simple": {
+			"je": "désarmai",
+			"tu": "désarmas",
+			"il/elle": "désarma",
+			"nous": "désarmâmes",
+			"vous": "désarmâtes",
+			"ils/elles": "désarmèrent"
+		},
+		"passé composé": {
+			"j'": "ai désarmé",
+			"tu": "as désarmé",
+			"il/elle": "a désarmé",
+			"nous": "avons désarmé",
+			"vous": "avez désarmé",
+			"ils/elles": "ont désarmé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais désarmé",
+			"tu": "avais désarmé",
+			"il/elle": "avait désarmé",
+			"nous": "avions désarmé",
+			"vous": "aviez désarmé",
+			"ils/elles": "avaient désarmé"
+		},
+		"passé antérieur": {
+			"j'": "eus désarmé",
+			"tu": "eus désarmé",
+			"il/elle": "eut désarmé",
+			"nous": "eûmes désarmé",
+			"vous": "eûtes désarmé",
+			"ils/elles": "eurent désarmé"
+		},
+		"futur antérieur": {
+			"j'": "aurai désarmé",
+			"tu": "auras désarmé",
+			"il/elle": "aura désarmé",
+			"nous": "aurons désarmé",
+			"vous": "aurez désarmé",
+			"ils/elles": "auront désarmé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous désarmiez",
+			"qu'il/elle": "désarme",
+			"qu'ils/elles": "désarment"
+		},
+		"imparfait": {
+			"que": "vous désarmassiez",
+			"qu'il/elle": "désarmât",
+			"qu'ils/elles": "désarmassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse désarmé",
+			"que": "vous eussiez désarmé",
+			"qu'il/elle": "eût désarmé",
+			"qu'ils/elles": "eussent désarmé"
+		},
+		"passé": {
+			"j'": "aie désarmé",
+			"que": "vous ayez désarmé",
+			"qu'il/elle": "ait désarmé",
+			"qu'ils/elles": "aient désarmé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "désarmerais",
+			"tu": "désarmerais",
+			"il/elle": "désarmerait",
+			"nous": "désarmerions",
+			"vous": "désarmeriez",
+			"ils/elles": "désarmeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais désarmé",
+			"tu": "aurais désarmé",
+			"il/elle": "aurait désarmé",
+			"nous": "aurions désarmé",
+			"vous": "auriez désarmé",
+			"ils/elles": "auraient désarmé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse désarmé",
+			"tu": "eusses désarmé",
+			"il/elle": "eût désarmé",
+			"nous": "eussions désarmé",
+			"vous": "eussiez désarmé",
+			"ils/elles": "eussent désarmé"
+		}
+	},
+	"participe": {
+		"présent": { "désarmant": "" },
+		"passé composé": { "ayant": "désarmé" },
+		"passé": {
+			"masc.sg.:": "désarmé",
+			"masc.pl.:": "désarmés",
+			"fém.sg.:": "désarmée",
+			"fém.pl.:": "désarmées"
+		}
+	},
+	"imperatif": {
+		"présent": { "désarme": "", "désarmons": "", "désarmez": "" },
+		"passé": { "aie": "désarmé", "ayons": "désarmé", "ayez": "désarmé" }
+	},
+	"infinitif": {
+		"présent": { "désarmer": "" },
+		"passé": { "avoir": "désarmé" }
+	}
+}

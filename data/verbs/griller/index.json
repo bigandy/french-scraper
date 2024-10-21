@@ -1,0 +1,138 @@
+{
+	"name": "griller",
+	"definition": "grill; toast; fry; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se griller/ne pas griller/ne pas se griller",
+	"indicatif": {
+		"présent": {
+			"je": "grille",
+			"tu": "grilles",
+			"il/elle": "grille",
+			"nous": "grillons",
+			"vous": "grillez",
+			"ils/elles": "grillent"
+		},
+		"imparfait": {
+			"je": "grillais",
+			"tu": "grillais",
+			"il/elle": "grillait",
+			"nous": "grillions",
+			"vous": "grilliez",
+			"ils/elles": "grillaient"
+		},
+		"futur": {
+			"je": "grillerai",
+			"tu": "grilleras",
+			"il/elle": "grillera",
+			"nous": "grillerons",
+			"vous": "grillerez",
+			"ils/elles": "grilleront"
+		},
+		"passé simple": {
+			"je": "grillai",
+			"tu": "grillas",
+			"il/elle": "grilla",
+			"nous": "grillâmes",
+			"vous": "grillâtes",
+			"ils/elles": "grillèrent"
+		},
+		"passé composé": {
+			"j'": "ai grillé",
+			"tu": "as grillé",
+			"il/elle": "a grillé",
+			"nous": "avons grillé",
+			"vous": "avez grillé",
+			"ils/elles": "ont grillé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais grillé",
+			"tu": "avais grillé",
+			"il/elle": "avait grillé",
+			"nous": "avions grillé",
+			"vous": "aviez grillé",
+			"ils/elles": "avaient grillé"
+		},
+		"passé antérieur": {
+			"j'": "eus grillé",
+			"tu": "eus grillé",
+			"il/elle": "eut grillé",
+			"nous": "eûmes grillé",
+			"vous": "eûtes grillé",
+			"ils/elles": "eurent grillé"
+		},
+		"futur antérieur": {
+			"j'": "aurai grillé",
+			"tu": "auras grillé",
+			"il/elle": "aura grillé",
+			"nous": "aurons grillé",
+			"vous": "aurez grillé",
+			"ils/elles": "auront grillé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous grilliez",
+			"qu'il/elle": "grille",
+			"qu'ils/elles": "grillent"
+		},
+		"imparfait": {
+			"que": "vous grillassiez",
+			"qu'il/elle": "grillât",
+			"qu'ils/elles": "grillassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse grillé",
+			"que": "vous eussiez grillé",
+			"qu'il/elle": "eût grillé",
+			"qu'ils/elles": "eussent grillé"
+		},
+		"passé": {
+			"j'": "aie grillé",
+			"que": "vous ayez grillé",
+			"qu'il/elle": "ait grillé",
+			"qu'ils/elles": "aient grillé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "grillerais",
+			"tu": "grillerais",
+			"il/elle": "grillerait",
+			"nous": "grillerions",
+			"vous": "grilleriez",
+			"ils/elles": "grilleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais grillé",
+			"tu": "aurais grillé",
+			"il/elle": "aurait grillé",
+			"nous": "aurions grillé",
+			"vous": "auriez grillé",
+			"ils/elles": "auraient grillé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse grillé",
+			"tu": "eusses grillé",
+			"il/elle": "eût grillé",
+			"nous": "eussions grillé",
+			"vous": "eussiez grillé",
+			"ils/elles": "eussent grillé"
+		}
+	},
+	"participe": {
+		"présent": { "grillant": "" },
+		"passé composé": { "ayant": "grillé" },
+		"passé": {
+			"masc.sg.:": "grillé",
+			"masc.pl.:": "grillés",
+			"fém.sg.:": "grillée",
+			"fém.pl.:": "grillées"
+		}
+	},
+	"imperatif": {
+		"présent": { "grille": "", "grillons": "", "grillez": "" },
+		"passé": { "aie": "grillé", "ayons": "grillé", "ayez": "grillé" }
+	},
+	"infinitif": { "présent": { "griller": "" }, "passé": { "avoir": "grillé" } }
+}

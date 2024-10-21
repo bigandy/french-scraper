@@ -1,0 +1,138 @@
+{
+	"name": "tordre",
+	"definition": "twist; bend; wring; ...",
+	"model": "attendre",
+	"auxiliary": "avoir",
+	"otherForms": "se tordre/ne pas tordre/ne pas se tordre",
+	"indicatif": {
+		"présent": {
+			"je": "tords",
+			"tu": "tords",
+			"il/elle": "tord",
+			"nous": "tordons",
+			"vous": "tordez",
+			"ils/elles": "tordent"
+		},
+		"imparfait": {
+			"je": "tordais",
+			"tu": "tordais",
+			"il/elle": "tordait",
+			"nous": "tordions",
+			"vous": "tordiez",
+			"ils/elles": "tordaient"
+		},
+		"futur": {
+			"je": "tordrai",
+			"tu": "tordras",
+			"il/elle": "tordra",
+			"nous": "tordrons",
+			"vous": "tordrez",
+			"ils/elles": "tordront"
+		},
+		"passé simple": {
+			"je": "tordis",
+			"tu": "tordis",
+			"il/elle": "tordit",
+			"nous": "tordîmes",
+			"vous": "tordîtes",
+			"ils/elles": "tordirent"
+		},
+		"passé composé": {
+			"j'": "ai tordu",
+			"tu": "as tordu",
+			"il/elle": "a tordu",
+			"nous": "avons tordu",
+			"vous": "avez tordu",
+			"ils/elles": "ont tordu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais tordu",
+			"tu": "avais tordu",
+			"il/elle": "avait tordu",
+			"nous": "avions tordu",
+			"vous": "aviez tordu",
+			"ils/elles": "avaient tordu"
+		},
+		"passé antérieur": {
+			"j'": "eus tordu",
+			"tu": "eus tordu",
+			"il/elle": "eut tordu",
+			"nous": "eûmes tordu",
+			"vous": "eûtes tordu",
+			"ils/elles": "eurent tordu"
+		},
+		"futur antérieur": {
+			"j'": "aurai tordu",
+			"tu": "auras tordu",
+			"il/elle": "aura tordu",
+			"nous": "aurons tordu",
+			"vous": "aurez tordu",
+			"ils/elles": "auront tordu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous tordiez",
+			"qu'il/elle": "torde",
+			"qu'ils/elles": "tordent"
+		},
+		"imparfait": {
+			"que": "vous tordissiez",
+			"qu'il/elle": "tordît",
+			"qu'ils/elles": "tordissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse tordu",
+			"que": "vous eussiez tordu",
+			"qu'il/elle": "eût tordu",
+			"qu'ils/elles": "eussent tordu"
+		},
+		"passé": {
+			"j'": "aie tordu",
+			"que": "vous ayez tordu",
+			"qu'il/elle": "ait tordu",
+			"qu'ils/elles": "aient tordu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "tordrais",
+			"tu": "tordrais",
+			"il/elle": "tordrait",
+			"nous": "tordrions",
+			"vous": "tordriez",
+			"ils/elles": "tordraient"
+		},
+		"passé première forme": {
+			"j'": "aurais tordu",
+			"tu": "aurais tordu",
+			"il/elle": "aurait tordu",
+			"nous": "aurions tordu",
+			"vous": "auriez tordu",
+			"ils/elles": "auraient tordu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse tordu",
+			"tu": "eusses tordu",
+			"il/elle": "eût tordu",
+			"nous": "eussions tordu",
+			"vous": "eussiez tordu",
+			"ils/elles": "eussent tordu"
+		}
+	},
+	"participe": {
+		"présent": { "tordant": "" },
+		"passé composé": { "ayant": "tordu" },
+		"passé": {
+			"masc.sg.:": "tordu",
+			"masc.pl.:": "tordus",
+			"fém.sg.:": "tordue",
+			"fém.pl.:": "tordues"
+		}
+	},
+	"imperatif": {
+		"présent": { "tords": "", "tordons": "", "tordez": "" },
+		"passé": { "aie": "tordu", "ayons": "tordu", "ayez": "tordu" }
+	},
+	"infinitif": { "présent": { "tordre": "" }, "passé": { "avoir": "tordu" } }
+}

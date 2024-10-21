@@ -1,0 +1,140 @@
+{
+	"name": "hésiter",
+	"definition": "hesitate; be reluctant; shy away; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'hésiter/ne pas hésiter/ne pas s'hésiter",
+	"indicatif": {
+		"présent": {
+			"j'": "hésite",
+			"tu": "hésites",
+			"il/elle": "hésite",
+			"nous": "hésitons",
+			"vous": "hésitez",
+			"ils/elles": "hésitent"
+		},
+		"imparfait": {
+			"j'": "hésitais",
+			"tu": "hésitais",
+			"il/elle": "hésitait",
+			"nous": "hésitions",
+			"vous": "hésitiez",
+			"ils/elles": "hésitaient"
+		},
+		"futur": {
+			"j'": "hésiterai",
+			"tu": "hésiteras",
+			"il/elle": "hésitera",
+			"nous": "hésiterons",
+			"vous": "hésiterez",
+			"ils/elles": "hésiteront"
+		},
+		"passé simple": {
+			"j'": "hésitai",
+			"tu": "hésitas",
+			"il/elle": "hésita",
+			"nous": "hésitâmes",
+			"vous": "hésitâtes",
+			"ils/elles": "hésitèrent"
+		},
+		"passé composé": {
+			"j'": "ai hésité",
+			"tu": "as hésité",
+			"il/elle": "a hésité",
+			"nous": "avons hésité",
+			"vous": "avez hésité",
+			"ils/elles": "ont hésité"
+		},
+		"plus-que-parfait": {
+			"j'": "avais hésité",
+			"tu": "avais hésité",
+			"il/elle": "avait hésité",
+			"nous": "avions hésité",
+			"vous": "aviez hésité",
+			"ils/elles": "avaient hésité"
+		},
+		"passé antérieur": {
+			"j'": "eus hésité",
+			"tu": "eus hésité",
+			"il/elle": "eut hésité",
+			"nous": "eûmes hésité",
+			"vous": "eûtes hésité",
+			"ils/elles": "eurent hésité"
+		},
+		"futur antérieur": {
+			"j'": "aurai hésité",
+			"tu": "auras hésité",
+			"il/elle": "aura hésité",
+			"nous": "aurons hésité",
+			"vous": "aurez hésité",
+			"ils/elles": "auront hésité"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "hésite",
+			"que": "vous hésitiez",
+			"qu'il/elle": "hésite",
+			"qu'ils/elles": "hésitent"
+		},
+		"imparfait": {
+			"j'": "hésitasse",
+			"que": "vous hésitassiez",
+			"qu'il/elle": "hésitât",
+			"qu'ils/elles": "hésitassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse hésité",
+			"que": "vous eussiez hésité",
+			"qu'il/elle": "eût hésité",
+			"qu'ils/elles": "eussent hésité"
+		},
+		"passé": {
+			"j'": "aie hésité",
+			"que": "vous ayez hésité",
+			"qu'il/elle": "ait hésité",
+			"qu'ils/elles": "aient hésité"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "hésiterais",
+			"tu": "hésiterais",
+			"il/elle": "hésiterait",
+			"nous": "hésiterions",
+			"vous": "hésiteriez",
+			"ils/elles": "hésiteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais hésité",
+			"tu": "aurais hésité",
+			"il/elle": "aurait hésité",
+			"nous": "aurions hésité",
+			"vous": "auriez hésité",
+			"ils/elles": "auraient hésité"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse hésité",
+			"tu": "eusses hésité",
+			"il/elle": "eût hésité",
+			"nous": "eussions hésité",
+			"vous": "eussiez hésité",
+			"ils/elles": "eussent hésité"
+		}
+	},
+	"participe": {
+		"présent": { "hésitant": "" },
+		"passé composé": { "ayant": "hésité" },
+		"passé": {
+			"masc.sg.:": "hésité",
+			"masc.pl.:": "hésités",
+			"fém.sg.:": "hésitée",
+			"fém.pl.:": "hésitées"
+		}
+	},
+	"imperatif": {
+		"présent": { "hésite": "", "hésitons": "", "hésitez": "" },
+		"passé": { "aie": "hésité", "ayons": "hésité", "ayez": "hésité" }
+	},
+	"infinitif": { "présent": { "hésiter": "" }, "passé": { "avoir": "hésité" } }
+}

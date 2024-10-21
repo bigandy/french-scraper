@@ -1,0 +1,140 @@
+{
+	"name": "abîmer",
+	"definition": "damage; ruin; spoil; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'abîmer/ne pas abîmer/ne pas s'abîmer",
+	"indicatif": {
+		"présent": {
+			"j'": "abîme",
+			"tu": "abîmes",
+			"il/elle": "abîme",
+			"nous": "abîmons",
+			"vous": "abîmez",
+			"ils/elles": "abîment"
+		},
+		"imparfait": {
+			"j'": "abîmais",
+			"tu": "abîmais",
+			"il/elle": "abîmait",
+			"nous": "abîmions",
+			"vous": "abîmiez",
+			"ils/elles": "abîmaient"
+		},
+		"futur": {
+			"j'": "abîmerai",
+			"tu": "abîmeras",
+			"il/elle": "abîmera",
+			"nous": "abîmerons",
+			"vous": "abîmerez",
+			"ils/elles": "abîmeront"
+		},
+		"passé simple": {
+			"j'": "abîmai",
+			"tu": "abîmas",
+			"il/elle": "abîma",
+			"nous": "abîmâmes",
+			"vous": "abîmâtes",
+			"ils/elles": "abîmèrent"
+		},
+		"passé composé": {
+			"j'": "ai abîmé",
+			"tu": "as abîmé",
+			"il/elle": "a abîmé",
+			"nous": "avons abîmé",
+			"vous": "avez abîmé",
+			"ils/elles": "ont abîmé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais abîmé",
+			"tu": "avais abîmé",
+			"il/elle": "avait abîmé",
+			"nous": "avions abîmé",
+			"vous": "aviez abîmé",
+			"ils/elles": "avaient abîmé"
+		},
+		"passé antérieur": {
+			"j'": "eus abîmé",
+			"tu": "eus abîmé",
+			"il/elle": "eut abîmé",
+			"nous": "eûmes abîmé",
+			"vous": "eûtes abîmé",
+			"ils/elles": "eurent abîmé"
+		},
+		"futur antérieur": {
+			"j'": "aurai abîmé",
+			"tu": "auras abîmé",
+			"il/elle": "aura abîmé",
+			"nous": "aurons abîmé",
+			"vous": "aurez abîmé",
+			"ils/elles": "auront abîmé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "abîme",
+			"que": "vous abîmiez",
+			"qu'il/elle": "abîme",
+			"qu'ils/elles": "abîment"
+		},
+		"imparfait": {
+			"j'": "abîmasse",
+			"que": "vous abîmassiez",
+			"qu'il/elle": "abîmât",
+			"qu'ils/elles": "abîmassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse abîmé",
+			"que": "vous eussiez abîmé",
+			"qu'il/elle": "eût abîmé",
+			"qu'ils/elles": "eussent abîmé"
+		},
+		"passé": {
+			"j'": "aie abîmé",
+			"que": "vous ayez abîmé",
+			"qu'il/elle": "ait abîmé",
+			"qu'ils/elles": "aient abîmé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "abîmerais",
+			"tu": "abîmerais",
+			"il/elle": "abîmerait",
+			"nous": "abîmerions",
+			"vous": "abîmeriez",
+			"ils/elles": "abîmeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais abîmé",
+			"tu": "aurais abîmé",
+			"il/elle": "aurait abîmé",
+			"nous": "aurions abîmé",
+			"vous": "auriez abîmé",
+			"ils/elles": "auraient abîmé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse abîmé",
+			"tu": "eusses abîmé",
+			"il/elle": "eût abîmé",
+			"nous": "eussions abîmé",
+			"vous": "eussiez abîmé",
+			"ils/elles": "eussent abîmé"
+		}
+	},
+	"participe": {
+		"présent": { "abîmant": "" },
+		"passé composé": { "ayant": "abîmé" },
+		"passé": {
+			"masc.sg.:": "abîmé",
+			"masc.pl.:": "abîmés",
+			"fém.sg.:": "abîmée",
+			"fém.pl.:": "abîmées"
+		}
+	},
+	"imperatif": {
+		"présent": { "abîme": "", "abîmons": "", "abîmez": "" },
+		"passé": { "aie": "abîmé", "ayons": "abîmé", "ayez": "abîmé" }
+	},
+	"infinitif": { "présent": { "abîmer": "" }, "passé": { "avoir": "abîmé" } }
+}

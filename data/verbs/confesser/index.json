@@ -1,0 +1,141 @@
+{
+	"name": "confesser",
+	"definition": "confess; profess; come clean; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se confesser/ne pas confesser/ne pas se confesser",
+	"indicatif": {
+		"présent": {
+			"je": "confesse",
+			"tu": "confesses",
+			"il/elle": "confesse",
+			"nous": "confessons",
+			"vous": "confessez",
+			"ils/elles": "confessent"
+		},
+		"imparfait": {
+			"je": "confessais",
+			"tu": "confessais",
+			"il/elle": "confessait",
+			"nous": "confessions",
+			"vous": "confessiez",
+			"ils/elles": "confessaient"
+		},
+		"futur": {
+			"je": "confesserai",
+			"tu": "confesseras",
+			"il/elle": "confessera",
+			"nous": "confesserons",
+			"vous": "confesserez",
+			"ils/elles": "confesseront"
+		},
+		"passé simple": {
+			"je": "confessai",
+			"tu": "confessas",
+			"il/elle": "confessa",
+			"nous": "confessâmes",
+			"vous": "confessâtes",
+			"ils/elles": "confessèrent"
+		},
+		"passé composé": {
+			"j'": "ai confessé",
+			"tu": "as confessé",
+			"il/elle": "a confessé",
+			"nous": "avons confessé",
+			"vous": "avez confessé",
+			"ils/elles": "ont confessé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais confessé",
+			"tu": "avais confessé",
+			"il/elle": "avait confessé",
+			"nous": "avions confessé",
+			"vous": "aviez confessé",
+			"ils/elles": "avaient confessé"
+		},
+		"passé antérieur": {
+			"j'": "eus confessé",
+			"tu": "eus confessé",
+			"il/elle": "eut confessé",
+			"nous": "eûmes confessé",
+			"vous": "eûtes confessé",
+			"ils/elles": "eurent confessé"
+		},
+		"futur antérieur": {
+			"j'": "aurai confessé",
+			"tu": "auras confessé",
+			"il/elle": "aura confessé",
+			"nous": "aurons confessé",
+			"vous": "aurez confessé",
+			"ils/elles": "auront confessé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous confessiez",
+			"qu'il/elle": "confesse",
+			"qu'ils/elles": "confessent"
+		},
+		"imparfait": {
+			"que": "vous confessassiez",
+			"qu'il/elle": "confessât",
+			"qu'ils/elles": "confessassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse confessé",
+			"que": "vous eussiez confessé",
+			"qu'il/elle": "eût confessé",
+			"qu'ils/elles": "eussent confessé"
+		},
+		"passé": {
+			"j'": "aie confessé",
+			"que": "vous ayez confessé",
+			"qu'il/elle": "ait confessé",
+			"qu'ils/elles": "aient confessé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "confesserais",
+			"tu": "confesserais",
+			"il/elle": "confesserait",
+			"nous": "confesserions",
+			"vous": "confesseriez",
+			"ils/elles": "confesseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais confessé",
+			"tu": "aurais confessé",
+			"il/elle": "aurait confessé",
+			"nous": "aurions confessé",
+			"vous": "auriez confessé",
+			"ils/elles": "auraient confessé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse confessé",
+			"tu": "eusses confessé",
+			"il/elle": "eût confessé",
+			"nous": "eussions confessé",
+			"vous": "eussiez confessé",
+			"ils/elles": "eussent confessé"
+		}
+	},
+	"participe": {
+		"présent": { "confessant": "" },
+		"passé composé": { "ayant": "confessé" },
+		"passé": {
+			"masc.sg.:": "confessé",
+			"masc.pl.:": "confessés",
+			"fém.sg.:": "confessée",
+			"fém.pl.:": "confessées"
+		}
+	},
+	"imperatif": {
+		"présent": { "confesse": "", "confessons": "", "confessez": "" },
+		"passé": { "aie": "confessé", "ayons": "confessé", "ayez": "confessé" }
+	},
+	"infinitif": {
+		"présent": { "confesser": "" },
+		"passé": { "avoir": "confessé" }
+	}
+}

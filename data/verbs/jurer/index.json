@@ -1,0 +1,138 @@
+{
+	"name": "jurer",
+	"definition": "swear; curse; promise; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se jurer/ne pas jurer/ne pas se jurer",
+	"indicatif": {
+		"présent": {
+			"je": "jure",
+			"tu": "jures",
+			"il/elle": "jure",
+			"nous": "jurons",
+			"vous": "jurez",
+			"ils/elles": "jurent"
+		},
+		"imparfait": {
+			"je": "jurais",
+			"tu": "jurais",
+			"il/elle": "jurait",
+			"nous": "jurions",
+			"vous": "juriez",
+			"ils/elles": "juraient"
+		},
+		"futur": {
+			"je": "jurerai",
+			"tu": "jureras",
+			"il/elle": "jurera",
+			"nous": "jurerons",
+			"vous": "jurerez",
+			"ils/elles": "jureront"
+		},
+		"passé simple": {
+			"je": "jurai",
+			"tu": "juras",
+			"il/elle": "jura",
+			"nous": "jurâmes",
+			"vous": "jurâtes",
+			"ils/elles": "jurèrent"
+		},
+		"passé composé": {
+			"j'": "ai juré",
+			"tu": "as juré",
+			"il/elle": "a juré",
+			"nous": "avons juré",
+			"vous": "avez juré",
+			"ils/elles": "ont juré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais juré",
+			"tu": "avais juré",
+			"il/elle": "avait juré",
+			"nous": "avions juré",
+			"vous": "aviez juré",
+			"ils/elles": "avaient juré"
+		},
+		"passé antérieur": {
+			"j'": "eus juré",
+			"tu": "eus juré",
+			"il/elle": "eut juré",
+			"nous": "eûmes juré",
+			"vous": "eûtes juré",
+			"ils/elles": "eurent juré"
+		},
+		"futur antérieur": {
+			"j'": "aurai juré",
+			"tu": "auras juré",
+			"il/elle": "aura juré",
+			"nous": "aurons juré",
+			"vous": "aurez juré",
+			"ils/elles": "auront juré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous juriez",
+			"qu'il/elle": "jure",
+			"qu'ils/elles": "jurent"
+		},
+		"imparfait": {
+			"que": "vous jurassiez",
+			"qu'il/elle": "jurât",
+			"qu'ils/elles": "jurassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse juré",
+			"que": "vous eussiez juré",
+			"qu'il/elle": "eût juré",
+			"qu'ils/elles": "eussent juré"
+		},
+		"passé": {
+			"j'": "aie juré",
+			"que": "vous ayez juré",
+			"qu'il/elle": "ait juré",
+			"qu'ils/elles": "aient juré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "jurerais",
+			"tu": "jurerais",
+			"il/elle": "jurerait",
+			"nous": "jurerions",
+			"vous": "jureriez",
+			"ils/elles": "jureraient"
+		},
+		"passé première forme": {
+			"j'": "aurais juré",
+			"tu": "aurais juré",
+			"il/elle": "aurait juré",
+			"nous": "aurions juré",
+			"vous": "auriez juré",
+			"ils/elles": "auraient juré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse juré",
+			"tu": "eusses juré",
+			"il/elle": "eût juré",
+			"nous": "eussions juré",
+			"vous": "eussiez juré",
+			"ils/elles": "eussent juré"
+		}
+	},
+	"participe": {
+		"présent": { "jurant": "" },
+		"passé composé": { "ayant": "juré" },
+		"passé": {
+			"masc.sg.:": "juré",
+			"masc.pl.:": "jurés",
+			"fém.sg.:": "jurée",
+			"fém.pl.:": "jurées"
+		}
+	},
+	"imperatif": {
+		"présent": { "jure": "", "jurons": "", "jurez": "" },
+		"passé": { "aie": "juré", "ayons": "juré", "ayez": "juré" }
+	},
+	"infinitif": { "présent": { "jurer": "" }, "passé": { "avoir": "juré" } }
+}

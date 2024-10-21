@@ -1,0 +1,143 @@
+{
+	"name": "infecter",
+	"definition": "infect; become infected; infest; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'infecter/ne pas infecter/ne pas s'infecter",
+	"indicatif": {
+		"présent": {
+			"j'": "infecte",
+			"tu": "infectes",
+			"il/elle": "infecte",
+			"nous": "infectons",
+			"vous": "infectez",
+			"ils/elles": "infectent"
+		},
+		"imparfait": {
+			"j'": "infectais",
+			"tu": "infectais",
+			"il/elle": "infectait",
+			"nous": "infections",
+			"vous": "infectiez",
+			"ils/elles": "infectaient"
+		},
+		"futur": {
+			"j'": "infecterai",
+			"tu": "infecteras",
+			"il/elle": "infectera",
+			"nous": "infecterons",
+			"vous": "infecterez",
+			"ils/elles": "infecteront"
+		},
+		"passé simple": {
+			"j'": "infectai",
+			"tu": "infectas",
+			"il/elle": "infecta",
+			"nous": "infectâmes",
+			"vous": "infectâtes",
+			"ils/elles": "infectèrent"
+		},
+		"passé composé": {
+			"j'": "ai infecté",
+			"tu": "as infecté",
+			"il/elle": "a infecté",
+			"nous": "avons infecté",
+			"vous": "avez infecté",
+			"ils/elles": "ont infecté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais infecté",
+			"tu": "avais infecté",
+			"il/elle": "avait infecté",
+			"nous": "avions infecté",
+			"vous": "aviez infecté",
+			"ils/elles": "avaient infecté"
+		},
+		"passé antérieur": {
+			"j'": "eus infecté",
+			"tu": "eus infecté",
+			"il/elle": "eut infecté",
+			"nous": "eûmes infecté",
+			"vous": "eûtes infecté",
+			"ils/elles": "eurent infecté"
+		},
+		"futur antérieur": {
+			"j'": "aurai infecté",
+			"tu": "auras infecté",
+			"il/elle": "aura infecté",
+			"nous": "aurons infecté",
+			"vous": "aurez infecté",
+			"ils/elles": "auront infecté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "infecte",
+			"que": "vous infectiez",
+			"qu'il/elle": "infecte",
+			"qu'ils/elles": "infectent"
+		},
+		"imparfait": {
+			"j'": "infectasse",
+			"que": "vous infectassiez",
+			"qu'il/elle": "infectât",
+			"qu'ils/elles": "infectassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse infecté",
+			"que": "vous eussiez infecté",
+			"qu'il/elle": "eût infecté",
+			"qu'ils/elles": "eussent infecté"
+		},
+		"passé": {
+			"j'": "aie infecté",
+			"que": "vous ayez infecté",
+			"qu'il/elle": "ait infecté",
+			"qu'ils/elles": "aient infecté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "infecterais",
+			"tu": "infecterais",
+			"il/elle": "infecterait",
+			"nous": "infecterions",
+			"vous": "infecteriez",
+			"ils/elles": "infecteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais infecté",
+			"tu": "aurais infecté",
+			"il/elle": "aurait infecté",
+			"nous": "aurions infecté",
+			"vous": "auriez infecté",
+			"ils/elles": "auraient infecté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse infecté",
+			"tu": "eusses infecté",
+			"il/elle": "eût infecté",
+			"nous": "eussions infecté",
+			"vous": "eussiez infecté",
+			"ils/elles": "eussent infecté"
+		}
+	},
+	"participe": {
+		"présent": { "infectant": "" },
+		"passé composé": { "ayant": "infecté" },
+		"passé": {
+			"masc.sg.:": "infecté",
+			"masc.pl.:": "infectés",
+			"fém.sg.:": "infectée",
+			"fém.pl.:": "infectées"
+		}
+	},
+	"imperatif": {
+		"présent": { "infecte": "", "infectons": "", "infectez": "" },
+		"passé": { "aie": "infecté", "ayons": "infecté", "ayez": "infecté" }
+	},
+	"infinitif": {
+		"présent": { "infecter": "" },
+		"passé": { "avoir": "infecté" }
+	}
+}

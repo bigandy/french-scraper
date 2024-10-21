@@ -1,0 +1,138 @@
+{
+	"name": "mâcher",
+	"definition": "chew; chew on; mince; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se mâcher/ne pas mâcher/ne pas se mâcher",
+	"indicatif": {
+		"présent": {
+			"je": "mâche",
+			"tu": "mâches",
+			"il/elle": "mâche",
+			"nous": "mâchons",
+			"vous": "mâchez",
+			"ils/elles": "mâchent"
+		},
+		"imparfait": {
+			"je": "mâchais",
+			"tu": "mâchais",
+			"il/elle": "mâchait",
+			"nous": "mâchions",
+			"vous": "mâchiez",
+			"ils/elles": "mâchaient"
+		},
+		"futur": {
+			"je": "mâcherai",
+			"tu": "mâcheras",
+			"il/elle": "mâchera",
+			"nous": "mâcherons",
+			"vous": "mâcherez",
+			"ils/elles": "mâcheront"
+		},
+		"passé simple": {
+			"je": "mâchai",
+			"tu": "mâchas",
+			"il/elle": "mâcha",
+			"nous": "mâchâmes",
+			"vous": "mâchâtes",
+			"ils/elles": "mâchèrent"
+		},
+		"passé composé": {
+			"j'": "ai mâché",
+			"tu": "as mâché",
+			"il/elle": "a mâché",
+			"nous": "avons mâché",
+			"vous": "avez mâché",
+			"ils/elles": "ont mâché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais mâché",
+			"tu": "avais mâché",
+			"il/elle": "avait mâché",
+			"nous": "avions mâché",
+			"vous": "aviez mâché",
+			"ils/elles": "avaient mâché"
+		},
+		"passé antérieur": {
+			"j'": "eus mâché",
+			"tu": "eus mâché",
+			"il/elle": "eut mâché",
+			"nous": "eûmes mâché",
+			"vous": "eûtes mâché",
+			"ils/elles": "eurent mâché"
+		},
+		"futur antérieur": {
+			"j'": "aurai mâché",
+			"tu": "auras mâché",
+			"il/elle": "aura mâché",
+			"nous": "aurons mâché",
+			"vous": "aurez mâché",
+			"ils/elles": "auront mâché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous mâchiez",
+			"qu'il/elle": "mâche",
+			"qu'ils/elles": "mâchent"
+		},
+		"imparfait": {
+			"que": "vous mâchassiez",
+			"qu'il/elle": "mâchât",
+			"qu'ils/elles": "mâchassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse mâché",
+			"que": "vous eussiez mâché",
+			"qu'il/elle": "eût mâché",
+			"qu'ils/elles": "eussent mâché"
+		},
+		"passé": {
+			"j'": "aie mâché",
+			"que": "vous ayez mâché",
+			"qu'il/elle": "ait mâché",
+			"qu'ils/elles": "aient mâché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "mâcherais",
+			"tu": "mâcherais",
+			"il/elle": "mâcherait",
+			"nous": "mâcherions",
+			"vous": "mâcheriez",
+			"ils/elles": "mâcheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais mâché",
+			"tu": "aurais mâché",
+			"il/elle": "aurait mâché",
+			"nous": "aurions mâché",
+			"vous": "auriez mâché",
+			"ils/elles": "auraient mâché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse mâché",
+			"tu": "eusses mâché",
+			"il/elle": "eût mâché",
+			"nous": "eussions mâché",
+			"vous": "eussiez mâché",
+			"ils/elles": "eussent mâché"
+		}
+	},
+	"participe": {
+		"présent": { "mâchant": "" },
+		"passé composé": { "ayant": "mâché" },
+		"passé": {
+			"masc.sg.:": "mâché",
+			"masc.pl.:": "mâchés",
+			"fém.sg.:": "mâchée",
+			"fém.pl.:": "mâchées"
+		}
+	},
+	"imperatif": {
+		"présent": { "mâche": "", "mâchons": "", "mâchez": "" },
+		"passé": { "aie": "mâché", "ayons": "mâché", "ayez": "mâché" }
+	},
+	"infinitif": { "présent": { "mâcher": "" }, "passé": { "avoir": "mâché" } }
+}

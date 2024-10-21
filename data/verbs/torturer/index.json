@@ -1,0 +1,141 @@
+{
+	"name": "torturer",
+	"definition": "torture; torment; waterboard; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se torturer/ne pas torturer/ne pas se torturer",
+	"indicatif": {
+		"présent": {
+			"je": "torture",
+			"tu": "tortures",
+			"il/elle": "torture",
+			"nous": "torturons",
+			"vous": "torturez",
+			"ils/elles": "torturent"
+		},
+		"imparfait": {
+			"je": "torturais",
+			"tu": "torturais",
+			"il/elle": "torturait",
+			"nous": "torturions",
+			"vous": "torturiez",
+			"ils/elles": "torturaient"
+		},
+		"futur": {
+			"je": "torturerai",
+			"tu": "tortureras",
+			"il/elle": "torturera",
+			"nous": "torturerons",
+			"vous": "torturerez",
+			"ils/elles": "tortureront"
+		},
+		"passé simple": {
+			"je": "torturai",
+			"tu": "torturas",
+			"il/elle": "tortura",
+			"nous": "torturâmes",
+			"vous": "torturâtes",
+			"ils/elles": "torturèrent"
+		},
+		"passé composé": {
+			"j'": "ai torturé",
+			"tu": "as torturé",
+			"il/elle": "a torturé",
+			"nous": "avons torturé",
+			"vous": "avez torturé",
+			"ils/elles": "ont torturé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais torturé",
+			"tu": "avais torturé",
+			"il/elle": "avait torturé",
+			"nous": "avions torturé",
+			"vous": "aviez torturé",
+			"ils/elles": "avaient torturé"
+		},
+		"passé antérieur": {
+			"j'": "eus torturé",
+			"tu": "eus torturé",
+			"il/elle": "eut torturé",
+			"nous": "eûmes torturé",
+			"vous": "eûtes torturé",
+			"ils/elles": "eurent torturé"
+		},
+		"futur antérieur": {
+			"j'": "aurai torturé",
+			"tu": "auras torturé",
+			"il/elle": "aura torturé",
+			"nous": "aurons torturé",
+			"vous": "aurez torturé",
+			"ils/elles": "auront torturé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous torturiez",
+			"qu'il/elle": "torture",
+			"qu'ils/elles": "torturent"
+		},
+		"imparfait": {
+			"que": "vous torturassiez",
+			"qu'il/elle": "torturât",
+			"qu'ils/elles": "torturassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse torturé",
+			"que": "vous eussiez torturé",
+			"qu'il/elle": "eût torturé",
+			"qu'ils/elles": "eussent torturé"
+		},
+		"passé": {
+			"j'": "aie torturé",
+			"que": "vous ayez torturé",
+			"qu'il/elle": "ait torturé",
+			"qu'ils/elles": "aient torturé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "torturerais",
+			"tu": "torturerais",
+			"il/elle": "torturerait",
+			"nous": "torturerions",
+			"vous": "tortureriez",
+			"ils/elles": "tortureraient"
+		},
+		"passé première forme": {
+			"j'": "aurais torturé",
+			"tu": "aurais torturé",
+			"il/elle": "aurait torturé",
+			"nous": "aurions torturé",
+			"vous": "auriez torturé",
+			"ils/elles": "auraient torturé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse torturé",
+			"tu": "eusses torturé",
+			"il/elle": "eût torturé",
+			"nous": "eussions torturé",
+			"vous": "eussiez torturé",
+			"ils/elles": "eussent torturé"
+		}
+	},
+	"participe": {
+		"présent": { "torturant": "" },
+		"passé composé": { "ayant": "torturé" },
+		"passé": {
+			"masc.sg.:": "torturé",
+			"masc.pl.:": "torturés",
+			"fém.sg.:": "torturée",
+			"fém.pl.:": "torturées"
+		}
+	},
+	"imperatif": {
+		"présent": { "torture": "", "torturons": "", "torturez": "" },
+		"passé": { "aie": "torturé", "ayons": "torturé", "ayez": "torturé" }
+	},
+	"infinitif": {
+		"présent": { "torturer": "" },
+		"passé": { "avoir": "torturé" }
+	}
+}

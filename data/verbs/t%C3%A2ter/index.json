@@ -1,0 +1,138 @@
+{
+	"name": "tâter",
+	"definition": "feel; try; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se tâter/ne pas tâter/ne pas se tâter",
+	"indicatif": {
+		"présent": {
+			"je": "tâte",
+			"tu": "tâtes",
+			"il/elle": "tâte",
+			"nous": "tâtons",
+			"vous": "tâtez",
+			"ils/elles": "tâtent"
+		},
+		"imparfait": {
+			"je": "tâtais",
+			"tu": "tâtais",
+			"il/elle": "tâtait",
+			"nous": "tâtions",
+			"vous": "tâtiez",
+			"ils/elles": "tâtaient"
+		},
+		"futur": {
+			"je": "tâterai",
+			"tu": "tâteras",
+			"il/elle": "tâtera",
+			"nous": "tâterons",
+			"vous": "tâterez",
+			"ils/elles": "tâteront"
+		},
+		"passé simple": {
+			"je": "tâtai",
+			"tu": "tâtas",
+			"il/elle": "tâta",
+			"nous": "tâtâmes",
+			"vous": "tâtâtes",
+			"ils/elles": "tâtèrent"
+		},
+		"passé composé": {
+			"j'": "ai tâté",
+			"tu": "as tâté",
+			"il/elle": "a tâté",
+			"nous": "avons tâté",
+			"vous": "avez tâté",
+			"ils/elles": "ont tâté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais tâté",
+			"tu": "avais tâté",
+			"il/elle": "avait tâté",
+			"nous": "avions tâté",
+			"vous": "aviez tâté",
+			"ils/elles": "avaient tâté"
+		},
+		"passé antérieur": {
+			"j'": "eus tâté",
+			"tu": "eus tâté",
+			"il/elle": "eut tâté",
+			"nous": "eûmes tâté",
+			"vous": "eûtes tâté",
+			"ils/elles": "eurent tâté"
+		},
+		"futur antérieur": {
+			"j'": "aurai tâté",
+			"tu": "auras tâté",
+			"il/elle": "aura tâté",
+			"nous": "aurons tâté",
+			"vous": "aurez tâté",
+			"ils/elles": "auront tâté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous tâtiez",
+			"qu'il/elle": "tâte",
+			"qu'ils/elles": "tâtent"
+		},
+		"imparfait": {
+			"que": "vous tâtassiez",
+			"qu'il/elle": "tâtât",
+			"qu'ils/elles": "tâtassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse tâté",
+			"que": "vous eussiez tâté",
+			"qu'il/elle": "eût tâté",
+			"qu'ils/elles": "eussent tâté"
+		},
+		"passé": {
+			"j'": "aie tâté",
+			"que": "vous ayez tâté",
+			"qu'il/elle": "ait tâté",
+			"qu'ils/elles": "aient tâté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "tâterais",
+			"tu": "tâterais",
+			"il/elle": "tâterait",
+			"nous": "tâterions",
+			"vous": "tâteriez",
+			"ils/elles": "tâteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais tâté",
+			"tu": "aurais tâté",
+			"il/elle": "aurait tâté",
+			"nous": "aurions tâté",
+			"vous": "auriez tâté",
+			"ils/elles": "auraient tâté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse tâté",
+			"tu": "eusses tâté",
+			"il/elle": "eût tâté",
+			"nous": "eussions tâté",
+			"vous": "eussiez tâté",
+			"ils/elles": "eussent tâté"
+		}
+	},
+	"participe": {
+		"présent": { "tâtant": "" },
+		"passé composé": { "ayant": "tâté" },
+		"passé": {
+			"masc.sg.:": "tâté",
+			"masc.pl.:": "tâtés",
+			"fém.sg.:": "tâtée",
+			"fém.pl.:": "tâtées"
+		}
+	},
+	"imperatif": {
+		"présent": { "tâte": "", "tâtons": "", "tâtez": "" },
+		"passé": { "aie": "tâté", "ayons": "tâté", "ayez": "tâté" }
+	},
+	"infinitif": { "présent": { "tâter": "" }, "passé": { "avoir": "tâté" } }
+}

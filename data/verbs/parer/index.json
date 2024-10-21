@@ -1,0 +1,138 @@
+{
+	"name": "parer",
+	"definition": "address; counter; avoid; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se parer/ne pas parer/ne pas se parer",
+	"indicatif": {
+		"présent": {
+			"je": "pare",
+			"tu": "pares",
+			"il/elle": "pare",
+			"nous": "parons",
+			"vous": "parez",
+			"ils/elles": "parent"
+		},
+		"imparfait": {
+			"je": "parais",
+			"tu": "parais",
+			"il/elle": "parait",
+			"nous": "parions",
+			"vous": "pariez",
+			"ils/elles": "paraient"
+		},
+		"futur": {
+			"je": "parerai",
+			"tu": "pareras",
+			"il/elle": "parera",
+			"nous": "parerons",
+			"vous": "parerez",
+			"ils/elles": "pareront"
+		},
+		"passé simple": {
+			"je": "parai",
+			"tu": "paras",
+			"il/elle": "para",
+			"nous": "parâmes",
+			"vous": "parâtes",
+			"ils/elles": "parèrent"
+		},
+		"passé composé": {
+			"j'": "ai paré",
+			"tu": "as paré",
+			"il/elle": "a paré",
+			"nous": "avons paré",
+			"vous": "avez paré",
+			"ils/elles": "ont paré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais paré",
+			"tu": "avais paré",
+			"il/elle": "avait paré",
+			"nous": "avions paré",
+			"vous": "aviez paré",
+			"ils/elles": "avaient paré"
+		},
+		"passé antérieur": {
+			"j'": "eus paré",
+			"tu": "eus paré",
+			"il/elle": "eut paré",
+			"nous": "eûmes paré",
+			"vous": "eûtes paré",
+			"ils/elles": "eurent paré"
+		},
+		"futur antérieur": {
+			"j'": "aurai paré",
+			"tu": "auras paré",
+			"il/elle": "aura paré",
+			"nous": "aurons paré",
+			"vous": "aurez paré",
+			"ils/elles": "auront paré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous pariez",
+			"qu'il/elle": "pare",
+			"qu'ils/elles": "parent"
+		},
+		"imparfait": {
+			"que": "vous parassiez",
+			"qu'il/elle": "parât",
+			"qu'ils/elles": "parassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse paré",
+			"que": "vous eussiez paré",
+			"qu'il/elle": "eût paré",
+			"qu'ils/elles": "eussent paré"
+		},
+		"passé": {
+			"j'": "aie paré",
+			"que": "vous ayez paré",
+			"qu'il/elle": "ait paré",
+			"qu'ils/elles": "aient paré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "parerais",
+			"tu": "parerais",
+			"il/elle": "parerait",
+			"nous": "parerions",
+			"vous": "pareriez",
+			"ils/elles": "pareraient"
+		},
+		"passé première forme": {
+			"j'": "aurais paré",
+			"tu": "aurais paré",
+			"il/elle": "aurait paré",
+			"nous": "aurions paré",
+			"vous": "auriez paré",
+			"ils/elles": "auraient paré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse paré",
+			"tu": "eusses paré",
+			"il/elle": "eût paré",
+			"nous": "eussions paré",
+			"vous": "eussiez paré",
+			"ils/elles": "eussent paré"
+		}
+	},
+	"participe": {
+		"présent": { "parant": "" },
+		"passé composé": { "ayant": "paré" },
+		"passé": {
+			"masc.sg.:": "paré",
+			"masc.pl.:": "parés",
+			"fém.sg.:": "parée",
+			"fém.pl.:": "parées"
+		}
+	},
+	"imperatif": {
+		"présent": { "pare": "", "parons": "", "parez": "" },
+		"passé": { "aie": "paré", "ayons": "paré", "ayez": "paré" }
+	},
+	"infinitif": { "présent": { "parer": "" }, "passé": { "avoir": "paré" } }
+}

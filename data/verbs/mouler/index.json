@@ -1,0 +1,138 @@
+{
+	"name": "mouler",
+	"definition": "mold; mould; cast; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se mouler/ne pas mouler/ne pas se mouler",
+	"indicatif": {
+		"présent": {
+			"je": "moule",
+			"tu": "moules",
+			"il/elle": "moule",
+			"nous": "moulons",
+			"vous": "moulez",
+			"ils/elles": "moulent"
+		},
+		"imparfait": {
+			"je": "moulais",
+			"tu": "moulais",
+			"il/elle": "moulait",
+			"nous": "moulions",
+			"vous": "mouliez",
+			"ils/elles": "moulaient"
+		},
+		"futur": {
+			"je": "moulerai",
+			"tu": "mouleras",
+			"il/elle": "moulera",
+			"nous": "moulerons",
+			"vous": "moulerez",
+			"ils/elles": "mouleront"
+		},
+		"passé simple": {
+			"je": "moulai",
+			"tu": "moulas",
+			"il/elle": "moula",
+			"nous": "moulâmes",
+			"vous": "moulâtes",
+			"ils/elles": "moulèrent"
+		},
+		"passé composé": {
+			"j'": "ai moulé",
+			"tu": "as moulé",
+			"il/elle": "a moulé",
+			"nous": "avons moulé",
+			"vous": "avez moulé",
+			"ils/elles": "ont moulé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais moulé",
+			"tu": "avais moulé",
+			"il/elle": "avait moulé",
+			"nous": "avions moulé",
+			"vous": "aviez moulé",
+			"ils/elles": "avaient moulé"
+		},
+		"passé antérieur": {
+			"j'": "eus moulé",
+			"tu": "eus moulé",
+			"il/elle": "eut moulé",
+			"nous": "eûmes moulé",
+			"vous": "eûtes moulé",
+			"ils/elles": "eurent moulé"
+		},
+		"futur antérieur": {
+			"j'": "aurai moulé",
+			"tu": "auras moulé",
+			"il/elle": "aura moulé",
+			"nous": "aurons moulé",
+			"vous": "aurez moulé",
+			"ils/elles": "auront moulé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous mouliez",
+			"qu'il/elle": "moule",
+			"qu'ils/elles": "moulent"
+		},
+		"imparfait": {
+			"que": "vous moulassiez",
+			"qu'il/elle": "moulât",
+			"qu'ils/elles": "moulassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse moulé",
+			"que": "vous eussiez moulé",
+			"qu'il/elle": "eût moulé",
+			"qu'ils/elles": "eussent moulé"
+		},
+		"passé": {
+			"j'": "aie moulé",
+			"que": "vous ayez moulé",
+			"qu'il/elle": "ait moulé",
+			"qu'ils/elles": "aient moulé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "moulerais",
+			"tu": "moulerais",
+			"il/elle": "moulerait",
+			"nous": "moulerions",
+			"vous": "mouleriez",
+			"ils/elles": "mouleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais moulé",
+			"tu": "aurais moulé",
+			"il/elle": "aurait moulé",
+			"nous": "aurions moulé",
+			"vous": "auriez moulé",
+			"ils/elles": "auraient moulé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse moulé",
+			"tu": "eusses moulé",
+			"il/elle": "eût moulé",
+			"nous": "eussions moulé",
+			"vous": "eussiez moulé",
+			"ils/elles": "eussent moulé"
+		}
+	},
+	"participe": {
+		"présent": { "moulant": "" },
+		"passé composé": { "ayant": "moulé" },
+		"passé": {
+			"masc.sg.:": "moulé",
+			"masc.pl.:": "moulés",
+			"fém.sg.:": "moulée",
+			"fém.pl.:": "moulées"
+		}
+	},
+	"imperatif": {
+		"présent": { "moule": "", "moulons": "", "moulez": "" },
+		"passé": { "aie": "moulé", "ayons": "moulé", "ayez": "moulé" }
+	},
+	"infinitif": { "présent": { "mouler": "" }, "passé": { "avoir": "moulé" } }
+}

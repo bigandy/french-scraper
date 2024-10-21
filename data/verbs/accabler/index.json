@@ -1,0 +1,143 @@
+{
+	"name": "accabler",
+	"definition": "burden; overwhelm; overburden; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'accabler/ne pas accabler/ne pas s'accabler",
+	"indicatif": {
+		"présent": {
+			"j'": "accable",
+			"tu": "accables",
+			"il/elle": "accable",
+			"nous": "accablons",
+			"vous": "accablez",
+			"ils/elles": "accablent"
+		},
+		"imparfait": {
+			"j'": "accablais",
+			"tu": "accablais",
+			"il/elle": "accablait",
+			"nous": "accablions",
+			"vous": "accabliez",
+			"ils/elles": "accablaient"
+		},
+		"futur": {
+			"j'": "accablerai",
+			"tu": "accableras",
+			"il/elle": "accablera",
+			"nous": "accablerons",
+			"vous": "accablerez",
+			"ils/elles": "accableront"
+		},
+		"passé simple": {
+			"j'": "accablai",
+			"tu": "accablas",
+			"il/elle": "accabla",
+			"nous": "accablâmes",
+			"vous": "accablâtes",
+			"ils/elles": "accablèrent"
+		},
+		"passé composé": {
+			"j'": "ai accablé",
+			"tu": "as accablé",
+			"il/elle": "a accablé",
+			"nous": "avons accablé",
+			"vous": "avez accablé",
+			"ils/elles": "ont accablé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais accablé",
+			"tu": "avais accablé",
+			"il/elle": "avait accablé",
+			"nous": "avions accablé",
+			"vous": "aviez accablé",
+			"ils/elles": "avaient accablé"
+		},
+		"passé antérieur": {
+			"j'": "eus accablé",
+			"tu": "eus accablé",
+			"il/elle": "eut accablé",
+			"nous": "eûmes accablé",
+			"vous": "eûtes accablé",
+			"ils/elles": "eurent accablé"
+		},
+		"futur antérieur": {
+			"j'": "aurai accablé",
+			"tu": "auras accablé",
+			"il/elle": "aura accablé",
+			"nous": "aurons accablé",
+			"vous": "aurez accablé",
+			"ils/elles": "auront accablé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "accable",
+			"que": "vous accabliez",
+			"qu'il/elle": "accable",
+			"qu'ils/elles": "accablent"
+		},
+		"imparfait": {
+			"j'": "accablasse",
+			"que": "vous accablassiez",
+			"qu'il/elle": "accablât",
+			"qu'ils/elles": "accablassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse accablé",
+			"que": "vous eussiez accablé",
+			"qu'il/elle": "eût accablé",
+			"qu'ils/elles": "eussent accablé"
+		},
+		"passé": {
+			"j'": "aie accablé",
+			"que": "vous ayez accablé",
+			"qu'il/elle": "ait accablé",
+			"qu'ils/elles": "aient accablé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "accablerais",
+			"tu": "accablerais",
+			"il/elle": "accablerait",
+			"nous": "accablerions",
+			"vous": "accableriez",
+			"ils/elles": "accableraient"
+		},
+		"passé première forme": {
+			"j'": "aurais accablé",
+			"tu": "aurais accablé",
+			"il/elle": "aurait accablé",
+			"nous": "aurions accablé",
+			"vous": "auriez accablé",
+			"ils/elles": "auraient accablé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse accablé",
+			"tu": "eusses accablé",
+			"il/elle": "eût accablé",
+			"nous": "eussions accablé",
+			"vous": "eussiez accablé",
+			"ils/elles": "eussent accablé"
+		}
+	},
+	"participe": {
+		"présent": { "accablant": "" },
+		"passé composé": { "ayant": "accablé" },
+		"passé": {
+			"masc.sg.:": "accablé",
+			"masc.pl.:": "accablés",
+			"fém.sg.:": "accablée",
+			"fém.pl.:": "accablées"
+		}
+	},
+	"imperatif": {
+		"présent": { "accable": "", "accablons": "", "accablez": "" },
+		"passé": { "aie": "accablé", "ayons": "accablé", "ayez": "accablé" }
+	},
+	"infinitif": {
+		"présent": { "accabler": "" },
+		"passé": { "avoir": "accablé" }
+	}
+}

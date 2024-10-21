@@ -1,0 +1,140 @@
+{
+	"name": "atteler",
+	"definition": "tackle; couple; get down; ...",
+	"model": "appeler",
+	"auxiliary": "avoir",
+	"otherForms": "s'atteler/ne pas atteler/ne pas s'atteler",
+	"indicatif": {
+		"présent": {
+			"j'": "attelle",
+			"tu": "attelles",
+			"il/elle": "attelle",
+			"nous": "attelons",
+			"vous": "attelez",
+			"ils/elles": "attellent"
+		},
+		"imparfait": {
+			"j'": "attelais",
+			"tu": "attelais",
+			"il/elle": "attelait",
+			"nous": "attelions",
+			"vous": "atteliez",
+			"ils/elles": "attelaient"
+		},
+		"futur": {
+			"j'": "attellerai",
+			"tu": "attelleras",
+			"il/elle": "attellera",
+			"nous": "attellerons",
+			"vous": "attellerez",
+			"ils/elles": "attelleront"
+		},
+		"passé simple": {
+			"j'": "attelai",
+			"tu": "attelas",
+			"il/elle": "attela",
+			"nous": "attelâmes",
+			"vous": "attelâtes",
+			"ils/elles": "attelèrent"
+		},
+		"passé composé": {
+			"j'": "ai attelé",
+			"tu": "as attelé",
+			"il/elle": "a attelé",
+			"nous": "avons attelé",
+			"vous": "avez attelé",
+			"ils/elles": "ont attelé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais attelé",
+			"tu": "avais attelé",
+			"il/elle": "avait attelé",
+			"nous": "avions attelé",
+			"vous": "aviez attelé",
+			"ils/elles": "avaient attelé"
+		},
+		"passé antérieur": {
+			"j'": "eus attelé",
+			"tu": "eus attelé",
+			"il/elle": "eut attelé",
+			"nous": "eûmes attelé",
+			"vous": "eûtes attelé",
+			"ils/elles": "eurent attelé"
+		},
+		"futur antérieur": {
+			"j'": "aurai attelé",
+			"tu": "auras attelé",
+			"il/elle": "aura attelé",
+			"nous": "aurons attelé",
+			"vous": "aurez attelé",
+			"ils/elles": "auront attelé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "attelle",
+			"que": "vous atteliez",
+			"qu'il/elle": "attelle",
+			"qu'ils/elles": "attellent"
+		},
+		"imparfait": {
+			"j'": "attelasse",
+			"que": "vous attelassiez",
+			"qu'il/elle": "attelât",
+			"qu'ils/elles": "attelassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse attelé",
+			"que": "vous eussiez attelé",
+			"qu'il/elle": "eût attelé",
+			"qu'ils/elles": "eussent attelé"
+		},
+		"passé": {
+			"j'": "aie attelé",
+			"que": "vous ayez attelé",
+			"qu'il/elle": "ait attelé",
+			"qu'ils/elles": "aient attelé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "attellerais",
+			"tu": "attellerais",
+			"il/elle": "attellerait",
+			"nous": "attellerions",
+			"vous": "attelleriez",
+			"ils/elles": "attelleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais attelé",
+			"tu": "aurais attelé",
+			"il/elle": "aurait attelé",
+			"nous": "aurions attelé",
+			"vous": "auriez attelé",
+			"ils/elles": "auraient attelé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse attelé",
+			"tu": "eusses attelé",
+			"il/elle": "eût attelé",
+			"nous": "eussions attelé",
+			"vous": "eussiez attelé",
+			"ils/elles": "eussent attelé"
+		}
+	},
+	"participe": {
+		"présent": { "attelant": "" },
+		"passé composé": { "ayant": "attelé" },
+		"passé": {
+			"masc.sg.:": "attelé",
+			"masc.pl.:": "attelés",
+			"fém.sg.:": "attelée",
+			"fém.pl.:": "attelées"
+		}
+	},
+	"imperatif": {
+		"présent": { "attelle": "", "attelons": "", "attelez": "" },
+		"passé": { "aie": "attelé", "ayons": "attelé", "ayez": "attelé" }
+	},
+	"infinitif": { "présent": { "atteler": "" }, "passé": { "avoir": "attelé" } }
+}

@@ -1,0 +1,138 @@
+{
+	"name": "gréser",
+	"definition": "",
+	"model": "léser",
+	"auxiliary": "avoir",
+	"otherForms": "se gréser/ne pas gréser/ne pas se gréser",
+	"indicatif": {
+		"présent": {
+			"je": "grèse",
+			"tu": "grèses",
+			"il/elle": "grèse",
+			"nous": "grésons",
+			"vous": "grésez",
+			"ils/elles": "grèsent"
+		},
+		"imparfait": {
+			"je": "grésais",
+			"tu": "grésais",
+			"il/elle": "grésait",
+			"nous": "grésions",
+			"vous": "grésiez",
+			"ils/elles": "grésaient"
+		},
+		"futur": {
+			"je": "gréserai",
+			"tu": "gréseras",
+			"il/elle": "grésera",
+			"nous": "gréserons",
+			"vous": "gréserez",
+			"ils/elles": "gréseront"
+		},
+		"passé simple": {
+			"je": "grésai",
+			"tu": "grésas",
+			"il/elle": "grésa",
+			"nous": "grésâmes",
+			"vous": "grésâtes",
+			"ils/elles": "grésèrent"
+		},
+		"passé composé": {
+			"j'": "ai grésé",
+			"tu": "as grésé",
+			"il/elle": "a grésé",
+			"nous": "avons grésé",
+			"vous": "avez grésé",
+			"ils/elles": "ont grésé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais grésé",
+			"tu": "avais grésé",
+			"il/elle": "avait grésé",
+			"nous": "avions grésé",
+			"vous": "aviez grésé",
+			"ils/elles": "avaient grésé"
+		},
+		"passé antérieur": {
+			"j'": "eus grésé",
+			"tu": "eus grésé",
+			"il/elle": "eut grésé",
+			"nous": "eûmes grésé",
+			"vous": "eûtes grésé",
+			"ils/elles": "eurent grésé"
+		},
+		"futur antérieur": {
+			"j'": "aurai grésé",
+			"tu": "auras grésé",
+			"il/elle": "aura grésé",
+			"nous": "aurons grésé",
+			"vous": "aurez grésé",
+			"ils/elles": "auront grésé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous grésiez",
+			"qu'il/elle": "grèse",
+			"qu'ils/elles": "grèsent"
+		},
+		"imparfait": {
+			"que": "vous grésassiez",
+			"qu'il/elle": "grésât",
+			"qu'ils/elles": "grésassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse grésé",
+			"que": "vous eussiez grésé",
+			"qu'il/elle": "eût grésé",
+			"qu'ils/elles": "eussent grésé"
+		},
+		"passé": {
+			"j'": "aie grésé",
+			"que": "vous ayez grésé",
+			"qu'il/elle": "ait grésé",
+			"qu'ils/elles": "aient grésé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "gréserais",
+			"tu": "gréserais",
+			"il/elle": "gréserait",
+			"nous": "gréserions",
+			"vous": "gréseriez",
+			"ils/elles": "gréseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais grésé",
+			"tu": "aurais grésé",
+			"il/elle": "aurait grésé",
+			"nous": "aurions grésé",
+			"vous": "auriez grésé",
+			"ils/elles": "auraient grésé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse grésé",
+			"tu": "eusses grésé",
+			"il/elle": "eût grésé",
+			"nous": "eussions grésé",
+			"vous": "eussiez grésé",
+			"ils/elles": "eussent grésé"
+		}
+	},
+	"participe": {
+		"présent": { "grésant": "" },
+		"passé composé": { "ayant": "grésé" },
+		"passé": {
+			"masc.sg.:": "grésé",
+			"masc.pl.:": "grésés",
+			"fém.sg.:": "grésée",
+			"fém.pl.:": "grésées"
+		}
+	},
+	"imperatif": {
+		"présent": { "grèse": "", "grésons": "", "grésez": "" },
+		"passé": { "aie": "grésé", "ayons": "grésé", "ayez": "grésé" }
+	},
+	"infinitif": { "présent": { "gréser": "" }, "passé": { "avoir": "grésé" } }
+}

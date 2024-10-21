@@ -1,0 +1,138 @@
+{
+	"name": "masser",
+	"definition": "massage; rub; mass; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se masser/ne pas masser/ne pas se masser",
+	"indicatif": {
+		"présent": {
+			"je": "masse",
+			"tu": "masses",
+			"il/elle": "masse",
+			"nous": "massons",
+			"vous": "massez",
+			"ils/elles": "massent"
+		},
+		"imparfait": {
+			"je": "massais",
+			"tu": "massais",
+			"il/elle": "massait",
+			"nous": "massions",
+			"vous": "massiez",
+			"ils/elles": "massaient"
+		},
+		"futur": {
+			"je": "masserai",
+			"tu": "masseras",
+			"il/elle": "massera",
+			"nous": "masserons",
+			"vous": "masserez",
+			"ils/elles": "masseront"
+		},
+		"passé simple": {
+			"je": "massai",
+			"tu": "massas",
+			"il/elle": "massa",
+			"nous": "massâmes",
+			"vous": "massâtes",
+			"ils/elles": "massèrent"
+		},
+		"passé composé": {
+			"j'": "ai massé",
+			"tu": "as massé",
+			"il/elle": "a massé",
+			"nous": "avons massé",
+			"vous": "avez massé",
+			"ils/elles": "ont massé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais massé",
+			"tu": "avais massé",
+			"il/elle": "avait massé",
+			"nous": "avions massé",
+			"vous": "aviez massé",
+			"ils/elles": "avaient massé"
+		},
+		"passé antérieur": {
+			"j'": "eus massé",
+			"tu": "eus massé",
+			"il/elle": "eut massé",
+			"nous": "eûmes massé",
+			"vous": "eûtes massé",
+			"ils/elles": "eurent massé"
+		},
+		"futur antérieur": {
+			"j'": "aurai massé",
+			"tu": "auras massé",
+			"il/elle": "aura massé",
+			"nous": "aurons massé",
+			"vous": "aurez massé",
+			"ils/elles": "auront massé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous massiez",
+			"qu'il/elle": "masse",
+			"qu'ils/elles": "massent"
+		},
+		"imparfait": {
+			"que": "vous massassiez",
+			"qu'il/elle": "massât",
+			"qu'ils/elles": "massassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse massé",
+			"que": "vous eussiez massé",
+			"qu'il/elle": "eût massé",
+			"qu'ils/elles": "eussent massé"
+		},
+		"passé": {
+			"j'": "aie massé",
+			"que": "vous ayez massé",
+			"qu'il/elle": "ait massé",
+			"qu'ils/elles": "aient massé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "masserais",
+			"tu": "masserais",
+			"il/elle": "masserait",
+			"nous": "masserions",
+			"vous": "masseriez",
+			"ils/elles": "masseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais massé",
+			"tu": "aurais massé",
+			"il/elle": "aurait massé",
+			"nous": "aurions massé",
+			"vous": "auriez massé",
+			"ils/elles": "auraient massé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse massé",
+			"tu": "eusses massé",
+			"il/elle": "eût massé",
+			"nous": "eussions massé",
+			"vous": "eussiez massé",
+			"ils/elles": "eussent massé"
+		}
+	},
+	"participe": {
+		"présent": { "massant": "" },
+		"passé composé": { "ayant": "massé" },
+		"passé": {
+			"masc.sg.:": "massé",
+			"masc.pl.:": "massés",
+			"fém.sg.:": "massée",
+			"fém.pl.:": "massées"
+		}
+	},
+	"imperatif": {
+		"présent": { "masse": "", "massons": "", "massez": "" },
+		"passé": { "aie": "massé", "ayons": "massé", "ayez": "massé" }
+	},
+	"infinitif": { "présent": { "masser": "" }, "passé": { "avoir": "massé" } }
+}

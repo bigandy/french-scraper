@@ -1,0 +1,143 @@
+{
+	"name": "infiltrer",
+	"definition": "infiltrate; penetrate; seep; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'infiltrer/ne pas infiltrer/ne pas s'infiltrer",
+	"indicatif": {
+		"présent": {
+			"j'": "infiltre",
+			"tu": "infiltres",
+			"il/elle": "infiltre",
+			"nous": "infiltrons",
+			"vous": "infiltrez",
+			"ils/elles": "infiltrent"
+		},
+		"imparfait": {
+			"j'": "infiltrais",
+			"tu": "infiltrais",
+			"il/elle": "infiltrait",
+			"nous": "infiltrions",
+			"vous": "infiltriez",
+			"ils/elles": "infiltraient"
+		},
+		"futur": {
+			"j'": "infiltrerai",
+			"tu": "infiltreras",
+			"il/elle": "infiltrera",
+			"nous": "infiltrerons",
+			"vous": "infiltrerez",
+			"ils/elles": "infiltreront"
+		},
+		"passé simple": {
+			"j'": "infiltrai",
+			"tu": "infiltras",
+			"il/elle": "infiltra",
+			"nous": "infiltrâmes",
+			"vous": "infiltrâtes",
+			"ils/elles": "infiltrèrent"
+		},
+		"passé composé": {
+			"j'": "ai infiltré",
+			"tu": "as infiltré",
+			"il/elle": "a infiltré",
+			"nous": "avons infiltré",
+			"vous": "avez infiltré",
+			"ils/elles": "ont infiltré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais infiltré",
+			"tu": "avais infiltré",
+			"il/elle": "avait infiltré",
+			"nous": "avions infiltré",
+			"vous": "aviez infiltré",
+			"ils/elles": "avaient infiltré"
+		},
+		"passé antérieur": {
+			"j'": "eus infiltré",
+			"tu": "eus infiltré",
+			"il/elle": "eut infiltré",
+			"nous": "eûmes infiltré",
+			"vous": "eûtes infiltré",
+			"ils/elles": "eurent infiltré"
+		},
+		"futur antérieur": {
+			"j'": "aurai infiltré",
+			"tu": "auras infiltré",
+			"il/elle": "aura infiltré",
+			"nous": "aurons infiltré",
+			"vous": "aurez infiltré",
+			"ils/elles": "auront infiltré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "infiltre",
+			"que": "vous infiltriez",
+			"qu'il/elle": "infiltre",
+			"qu'ils/elles": "infiltrent"
+		},
+		"imparfait": {
+			"j'": "infiltrasse",
+			"que": "vous infiltrassiez",
+			"qu'il/elle": "infiltrât",
+			"qu'ils/elles": "infiltrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse infiltré",
+			"que": "vous eussiez infiltré",
+			"qu'il/elle": "eût infiltré",
+			"qu'ils/elles": "eussent infiltré"
+		},
+		"passé": {
+			"j'": "aie infiltré",
+			"que": "vous ayez infiltré",
+			"qu'il/elle": "ait infiltré",
+			"qu'ils/elles": "aient infiltré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "infiltrerais",
+			"tu": "infiltrerais",
+			"il/elle": "infiltrerait",
+			"nous": "infiltrerions",
+			"vous": "infiltreriez",
+			"ils/elles": "infiltreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais infiltré",
+			"tu": "aurais infiltré",
+			"il/elle": "aurait infiltré",
+			"nous": "aurions infiltré",
+			"vous": "auriez infiltré",
+			"ils/elles": "auraient infiltré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse infiltré",
+			"tu": "eusses infiltré",
+			"il/elle": "eût infiltré",
+			"nous": "eussions infiltré",
+			"vous": "eussiez infiltré",
+			"ils/elles": "eussent infiltré"
+		}
+	},
+	"participe": {
+		"présent": { "infiltrant": "" },
+		"passé composé": { "ayant": "infiltré" },
+		"passé": {
+			"masc.sg.:": "infiltré",
+			"masc.pl.:": "infiltrés",
+			"fém.sg.:": "infiltrée",
+			"fém.pl.:": "infiltrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "infiltre": "", "infiltrons": "", "infiltrez": "" },
+		"passé": { "aie": "infiltré", "ayons": "infiltré", "ayez": "infiltré" }
+	},
+	"infinitif": {
+		"présent": { "infiltrer": "" },
+		"passé": { "avoir": "infiltré" }
+	}
+}

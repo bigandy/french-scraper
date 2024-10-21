@@ -1,0 +1,140 @@
+{
+	"name": "égaler",
+	"definition": "match; equal; tie; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'égaler/ne pas égaler/ne pas s'égaler",
+	"indicatif": {
+		"présent": {
+			"j'": "égale",
+			"tu": "égales",
+			"il/elle": "égale",
+			"nous": "égalons",
+			"vous": "égalez",
+			"ils/elles": "égalent"
+		},
+		"imparfait": {
+			"j'": "égalais",
+			"tu": "égalais",
+			"il/elle": "égalait",
+			"nous": "égalions",
+			"vous": "égaliez",
+			"ils/elles": "égalaient"
+		},
+		"futur": {
+			"j'": "égalerai",
+			"tu": "égaleras",
+			"il/elle": "égalera",
+			"nous": "égalerons",
+			"vous": "égalerez",
+			"ils/elles": "égaleront"
+		},
+		"passé simple": {
+			"j'": "égalai",
+			"tu": "égalas",
+			"il/elle": "égala",
+			"nous": "égalâmes",
+			"vous": "égalâtes",
+			"ils/elles": "égalèrent"
+		},
+		"passé composé": {
+			"j'": "ai égalé",
+			"tu": "as égalé",
+			"il/elle": "a égalé",
+			"nous": "avons égalé",
+			"vous": "avez égalé",
+			"ils/elles": "ont égalé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais égalé",
+			"tu": "avais égalé",
+			"il/elle": "avait égalé",
+			"nous": "avions égalé",
+			"vous": "aviez égalé",
+			"ils/elles": "avaient égalé"
+		},
+		"passé antérieur": {
+			"j'": "eus égalé",
+			"tu": "eus égalé",
+			"il/elle": "eut égalé",
+			"nous": "eûmes égalé",
+			"vous": "eûtes égalé",
+			"ils/elles": "eurent égalé"
+		},
+		"futur antérieur": {
+			"j'": "aurai égalé",
+			"tu": "auras égalé",
+			"il/elle": "aura égalé",
+			"nous": "aurons égalé",
+			"vous": "aurez égalé",
+			"ils/elles": "auront égalé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "égale",
+			"que": "vous égaliez",
+			"qu'il/elle": "égale",
+			"qu'ils/elles": "égalent"
+		},
+		"imparfait": {
+			"j'": "égalasse",
+			"que": "vous égalassiez",
+			"qu'il/elle": "égalât",
+			"qu'ils/elles": "égalassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse égalé",
+			"que": "vous eussiez égalé",
+			"qu'il/elle": "eût égalé",
+			"qu'ils/elles": "eussent égalé"
+		},
+		"passé": {
+			"j'": "aie égalé",
+			"que": "vous ayez égalé",
+			"qu'il/elle": "ait égalé",
+			"qu'ils/elles": "aient égalé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "égalerais",
+			"tu": "égalerais",
+			"il/elle": "égalerait",
+			"nous": "égalerions",
+			"vous": "égaleriez",
+			"ils/elles": "égaleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais égalé",
+			"tu": "aurais égalé",
+			"il/elle": "aurait égalé",
+			"nous": "aurions égalé",
+			"vous": "auriez égalé",
+			"ils/elles": "auraient égalé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse égalé",
+			"tu": "eusses égalé",
+			"il/elle": "eût égalé",
+			"nous": "eussions égalé",
+			"vous": "eussiez égalé",
+			"ils/elles": "eussent égalé"
+		}
+	},
+	"participe": {
+		"présent": { "égalant": "" },
+		"passé composé": { "ayant": "égalé" },
+		"passé": {
+			"masc.sg.:": "égalé",
+			"masc.pl.:": "égalés",
+			"fém.sg.:": "égalée",
+			"fém.pl.:": "égalées"
+		}
+	},
+	"imperatif": {
+		"présent": { "égale": "", "égalons": "", "égalez": "" },
+		"passé": { "aie": "égalé", "ayons": "égalé", "ayez": "égalé" }
+	},
+	"infinitif": { "présent": { "égaler": "" }, "passé": { "avoir": "égalé" } }
+}

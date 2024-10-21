@@ -1,0 +1,141 @@
+{
+	"name": "formaliser",
+	"definition": "formalize; formalise; take offence; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se formaliser/ne pas formaliser/ne pas se formaliser",
+	"indicatif": {
+		"présent": {
+			"je": "formalise",
+			"tu": "formalises",
+			"il/elle": "formalise",
+			"nous": "formalisons",
+			"vous": "formalisez",
+			"ils/elles": "formalisent"
+		},
+		"imparfait": {
+			"je": "formalisais",
+			"tu": "formalisais",
+			"il/elle": "formalisait",
+			"nous": "formalisions",
+			"vous": "formalisiez",
+			"ils/elles": "formalisaient"
+		},
+		"futur": {
+			"je": "formaliserai",
+			"tu": "formaliseras",
+			"il/elle": "formalisera",
+			"nous": "formaliserons",
+			"vous": "formaliserez",
+			"ils/elles": "formaliseront"
+		},
+		"passé simple": {
+			"je": "formalisai",
+			"tu": "formalisas",
+			"il/elle": "formalisa",
+			"nous": "formalisâmes",
+			"vous": "formalisâtes",
+			"ils/elles": "formalisèrent"
+		},
+		"passé composé": {
+			"j'": "ai formalisé",
+			"tu": "as formalisé",
+			"il/elle": "a formalisé",
+			"nous": "avons formalisé",
+			"vous": "avez formalisé",
+			"ils/elles": "ont formalisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais formalisé",
+			"tu": "avais formalisé",
+			"il/elle": "avait formalisé",
+			"nous": "avions formalisé",
+			"vous": "aviez formalisé",
+			"ils/elles": "avaient formalisé"
+		},
+		"passé antérieur": {
+			"j'": "eus formalisé",
+			"tu": "eus formalisé",
+			"il/elle": "eut formalisé",
+			"nous": "eûmes formalisé",
+			"vous": "eûtes formalisé",
+			"ils/elles": "eurent formalisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai formalisé",
+			"tu": "auras formalisé",
+			"il/elle": "aura formalisé",
+			"nous": "aurons formalisé",
+			"vous": "aurez formalisé",
+			"ils/elles": "auront formalisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous formalisiez",
+			"qu'il/elle": "formalise",
+			"qu'ils/elles": "formalisent"
+		},
+		"imparfait": {
+			"que": "vous formalisassiez",
+			"qu'il/elle": "formalisât",
+			"qu'ils/elles": "formalisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse formalisé",
+			"que": "vous eussiez formalisé",
+			"qu'il/elle": "eût formalisé",
+			"qu'ils/elles": "eussent formalisé"
+		},
+		"passé": {
+			"j'": "aie formalisé",
+			"que": "vous ayez formalisé",
+			"qu'il/elle": "ait formalisé",
+			"qu'ils/elles": "aient formalisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "formaliserais",
+			"tu": "formaliserais",
+			"il/elle": "formaliserait",
+			"nous": "formaliserions",
+			"vous": "formaliseriez",
+			"ils/elles": "formaliseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais formalisé",
+			"tu": "aurais formalisé",
+			"il/elle": "aurait formalisé",
+			"nous": "aurions formalisé",
+			"vous": "auriez formalisé",
+			"ils/elles": "auraient formalisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse formalisé",
+			"tu": "eusses formalisé",
+			"il/elle": "eût formalisé",
+			"nous": "eussions formalisé",
+			"vous": "eussiez formalisé",
+			"ils/elles": "eussent formalisé"
+		}
+	},
+	"participe": {
+		"présent": { "formalisant": "" },
+		"passé composé": { "ayant": "formalisé" },
+		"passé": {
+			"masc.sg.:": "formalisé",
+			"masc.pl.:": "formalisés",
+			"fém.sg.:": "formalisée",
+			"fém.pl.:": "formalisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "formalise": "", "formalisons": "", "formalisez": "" },
+		"passé": { "aie": "formalisé", "ayons": "formalisé", "ayez": "formalisé" }
+	},
+	"infinitif": {
+		"présent": { "formaliser": "" },
+		"passé": { "avoir": "formalisé" }
+	}
+}

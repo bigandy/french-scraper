@@ -39,7 +39,7 @@ async function convertVerbUrls(urls: string[]) {
 		// a Queue system so not ramming the website!
 
 		for (const url of urls) {
-			console.log(url)
+			// console.log(url)
 
 			const verb = getVerbNamefromUrl(url)
 

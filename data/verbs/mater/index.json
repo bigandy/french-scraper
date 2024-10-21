@@ -1,0 +1,138 @@
+{
+	"name": "mater",
+	"definition": "stare at; check out; subdue; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se mater/ne pas mater/ne pas se mater",
+	"indicatif": {
+		"présent": {
+			"je": "mate",
+			"tu": "mates",
+			"il/elle": "mate",
+			"nous": "matons",
+			"vous": "matez",
+			"ils/elles": "matent"
+		},
+		"imparfait": {
+			"je": "matais",
+			"tu": "matais",
+			"il/elle": "matait",
+			"nous": "mations",
+			"vous": "matiez",
+			"ils/elles": "mataient"
+		},
+		"futur": {
+			"je": "materai",
+			"tu": "materas",
+			"il/elle": "matera",
+			"nous": "materons",
+			"vous": "materez",
+			"ils/elles": "materont"
+		},
+		"passé simple": {
+			"je": "matai",
+			"tu": "matas",
+			"il/elle": "mata",
+			"nous": "matâmes",
+			"vous": "matâtes",
+			"ils/elles": "matèrent"
+		},
+		"passé composé": {
+			"j'": "ai maté",
+			"tu": "as maté",
+			"il/elle": "a maté",
+			"nous": "avons maté",
+			"vous": "avez maté",
+			"ils/elles": "ont maté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais maté",
+			"tu": "avais maté",
+			"il/elle": "avait maté",
+			"nous": "avions maté",
+			"vous": "aviez maté",
+			"ils/elles": "avaient maté"
+		},
+		"passé antérieur": {
+			"j'": "eus maté",
+			"tu": "eus maté",
+			"il/elle": "eut maté",
+			"nous": "eûmes maté",
+			"vous": "eûtes maté",
+			"ils/elles": "eurent maté"
+		},
+		"futur antérieur": {
+			"j'": "aurai maté",
+			"tu": "auras maté",
+			"il/elle": "aura maté",
+			"nous": "aurons maté",
+			"vous": "aurez maté",
+			"ils/elles": "auront maté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous matiez",
+			"qu'il/elle": "mate",
+			"qu'ils/elles": "matent"
+		},
+		"imparfait": {
+			"que": "vous matassiez",
+			"qu'il/elle": "matât",
+			"qu'ils/elles": "matassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse maté",
+			"que": "vous eussiez maté",
+			"qu'il/elle": "eût maté",
+			"qu'ils/elles": "eussent maté"
+		},
+		"passé": {
+			"j'": "aie maté",
+			"que": "vous ayez maté",
+			"qu'il/elle": "ait maté",
+			"qu'ils/elles": "aient maté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "materais",
+			"tu": "materais",
+			"il/elle": "materait",
+			"nous": "materions",
+			"vous": "materiez",
+			"ils/elles": "materaient"
+		},
+		"passé première forme": {
+			"j'": "aurais maté",
+			"tu": "aurais maté",
+			"il/elle": "aurait maté",
+			"nous": "aurions maté",
+			"vous": "auriez maté",
+			"ils/elles": "auraient maté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse maté",
+			"tu": "eusses maté",
+			"il/elle": "eût maté",
+			"nous": "eussions maté",
+			"vous": "eussiez maté",
+			"ils/elles": "eussent maté"
+		}
+	},
+	"participe": {
+		"présent": { "matant": "" },
+		"passé composé": { "ayant": "maté" },
+		"passé": {
+			"masc.sg.:": "maté",
+			"masc.pl.:": "matés",
+			"fém.sg.:": "matée",
+			"fém.pl.:": "matées"
+		}
+	},
+	"imperatif": {
+		"présent": { "mate": "", "matons": "", "matez": "" },
+		"passé": { "aie": "maté", "ayons": "maté", "ayez": "maté" }
+	},
+	"infinitif": { "présent": { "mater": "" }, "passé": { "avoir": "maté" } }
+}

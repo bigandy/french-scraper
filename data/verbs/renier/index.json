@@ -1,0 +1,138 @@
+{
+	"name": "renier",
+	"definition": "deny; disown; renounce; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se renier/ne pas renier/ne pas se renier",
+	"indicatif": {
+		"présent": {
+			"je": "renie",
+			"tu": "renies",
+			"il/elle": "renie",
+			"nous": "renions",
+			"vous": "reniez",
+			"ils/elles": "renient"
+		},
+		"imparfait": {
+			"je": "reniais",
+			"tu": "reniais",
+			"il/elle": "reniait",
+			"nous": "reniions",
+			"vous": "reniiez",
+			"ils/elles": "reniaient"
+		},
+		"futur": {
+			"je": "renierai",
+			"tu": "renieras",
+			"il/elle": "reniera",
+			"nous": "renierons",
+			"vous": "renierez",
+			"ils/elles": "renieront"
+		},
+		"passé simple": {
+			"je": "reniai",
+			"tu": "renias",
+			"il/elle": "renia",
+			"nous": "reniâmes",
+			"vous": "reniâtes",
+			"ils/elles": "renièrent"
+		},
+		"passé composé": {
+			"j'": "ai renié",
+			"tu": "as renié",
+			"il/elle": "a renié",
+			"nous": "avons renié",
+			"vous": "avez renié",
+			"ils/elles": "ont renié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais renié",
+			"tu": "avais renié",
+			"il/elle": "avait renié",
+			"nous": "avions renié",
+			"vous": "aviez renié",
+			"ils/elles": "avaient renié"
+		},
+		"passé antérieur": {
+			"j'": "eus renié",
+			"tu": "eus renié",
+			"il/elle": "eut renié",
+			"nous": "eûmes renié",
+			"vous": "eûtes renié",
+			"ils/elles": "eurent renié"
+		},
+		"futur antérieur": {
+			"j'": "aurai renié",
+			"tu": "auras renié",
+			"il/elle": "aura renié",
+			"nous": "aurons renié",
+			"vous": "aurez renié",
+			"ils/elles": "auront renié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous reniiez",
+			"qu'il/elle": "renie",
+			"qu'ils/elles": "renient"
+		},
+		"imparfait": {
+			"que": "vous reniassiez",
+			"qu'il/elle": "reniât",
+			"qu'ils/elles": "reniassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse renié",
+			"que": "vous eussiez renié",
+			"qu'il/elle": "eût renié",
+			"qu'ils/elles": "eussent renié"
+		},
+		"passé": {
+			"j'": "aie renié",
+			"que": "vous ayez renié",
+			"qu'il/elle": "ait renié",
+			"qu'ils/elles": "aient renié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "renierais",
+			"tu": "renierais",
+			"il/elle": "renierait",
+			"nous": "renierions",
+			"vous": "renieriez",
+			"ils/elles": "renieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais renié",
+			"tu": "aurais renié",
+			"il/elle": "aurait renié",
+			"nous": "aurions renié",
+			"vous": "auriez renié",
+			"ils/elles": "auraient renié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse renié",
+			"tu": "eusses renié",
+			"il/elle": "eût renié",
+			"nous": "eussions renié",
+			"vous": "eussiez renié",
+			"ils/elles": "eussent renié"
+		}
+	},
+	"participe": {
+		"présent": { "reniant": "" },
+		"passé composé": { "ayant": "renié" },
+		"passé": {
+			"masc.sg.:": "renié",
+			"masc.pl.:": "reniés",
+			"fém.sg.:": "reniée",
+			"fém.pl.:": "reniées"
+		}
+	},
+	"imperatif": {
+		"présent": { "renie": "", "renions": "", "reniez": "" },
+		"passé": { "aie": "renié", "ayons": "renié", "ayez": "renié" }
+	},
+	"infinitif": { "présent": { "renier": "" }, "passé": { "avoir": "renié" } }
+}

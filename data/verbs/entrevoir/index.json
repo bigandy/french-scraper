@@ -1,0 +1,143 @@
+{
+	"name": "entrevoir",
+	"definition": "glimpse; foresee; prospect; ...",
+	"model": "voir",
+	"auxiliary": "avoir",
+	"otherForms": "s'entrevoir/ne pas entrevoir/ne pas s'entrevoir",
+	"indicatif": {
+		"présent": {
+			"j'": "entrevois",
+			"tu": "entrevois",
+			"il/elle": "entrevoit",
+			"nous": "entrevoyons",
+			"vous": "entrevoyez",
+			"ils/elles": "entrevoient"
+		},
+		"imparfait": {
+			"j'": "entrevoyais",
+			"tu": "entrevoyais",
+			"il/elle": "entrevoyait",
+			"nous": "entrevoyions",
+			"vous": "entrevoyiez",
+			"ils/elles": "entrevoyaient"
+		},
+		"futur": {
+			"j'": "entreverrai",
+			"tu": "entreverras",
+			"il/elle": "entreverra",
+			"nous": "entreverrons",
+			"vous": "entreverrez",
+			"ils/elles": "entreverront"
+		},
+		"passé simple": {
+			"j'": "entrevis",
+			"tu": "entrevis",
+			"il/elle": "entrevit",
+			"nous": "entrevîmes",
+			"vous": "entrevîtes",
+			"ils/elles": "entrevirent"
+		},
+		"passé composé": {
+			"j'": "ai entrevu",
+			"tu": "as entrevu",
+			"il/elle": "a entrevu",
+			"nous": "avons entrevu",
+			"vous": "avez entrevu",
+			"ils/elles": "ont entrevu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais entrevu",
+			"tu": "avais entrevu",
+			"il/elle": "avait entrevu",
+			"nous": "avions entrevu",
+			"vous": "aviez entrevu",
+			"ils/elles": "avaient entrevu"
+		},
+		"passé antérieur": {
+			"j'": "eus entrevu",
+			"tu": "eus entrevu",
+			"il/elle": "eut entrevu",
+			"nous": "eûmes entrevu",
+			"vous": "eûtes entrevu",
+			"ils/elles": "eurent entrevu"
+		},
+		"futur antérieur": {
+			"j'": "aurai entrevu",
+			"tu": "auras entrevu",
+			"il/elle": "aura entrevu",
+			"nous": "aurons entrevu",
+			"vous": "aurez entrevu",
+			"ils/elles": "auront entrevu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "entrevoie",
+			"que": "vous entrevoyiez",
+			"qu'il/elle": "entrevoie",
+			"qu'ils/elles": "entrevoient"
+		},
+		"imparfait": {
+			"j'": "entrevisse",
+			"que": "vous entrevissiez",
+			"qu'il/elle": "entrevît",
+			"qu'ils/elles": "entrevissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse entrevu",
+			"que": "vous eussiez entrevu",
+			"qu'il/elle": "eût entrevu",
+			"qu'ils/elles": "eussent entrevu"
+		},
+		"passé": {
+			"j'": "aie entrevu",
+			"que": "vous ayez entrevu",
+			"qu'il/elle": "ait entrevu",
+			"qu'ils/elles": "aient entrevu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "entreverrais",
+			"tu": "entreverrais",
+			"il/elle": "entreverrait",
+			"nous": "entreverrions",
+			"vous": "entreverriez",
+			"ils/elles": "entreverraient"
+		},
+		"passé première forme": {
+			"j'": "aurais entrevu",
+			"tu": "aurais entrevu",
+			"il/elle": "aurait entrevu",
+			"nous": "aurions entrevu",
+			"vous": "auriez entrevu",
+			"ils/elles": "auraient entrevu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse entrevu",
+			"tu": "eusses entrevu",
+			"il/elle": "eût entrevu",
+			"nous": "eussions entrevu",
+			"vous": "eussiez entrevu",
+			"ils/elles": "eussent entrevu"
+		}
+	},
+	"participe": {
+		"présent": { "entrevoyant": "" },
+		"passé composé": { "ayant": "entrevu" },
+		"passé": {
+			"masc.sg.:": "entrevu",
+			"masc.pl.:": "entrevus",
+			"fém.sg.:": "entrevue",
+			"fém.pl.:": "entrevues"
+		}
+	},
+	"imperatif": {
+		"présent": { "entrevois": "", "entrevoyons": "", "entrevoyez": "" },
+		"passé": { "aie": "entrevu", "ayons": "entrevu", "ayez": "entrevu" }
+	},
+	"infinitif": {
+		"présent": { "entrevoir": "" },
+		"passé": { "avoir": "entrevu" }
+	}
+}

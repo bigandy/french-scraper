@@ -1,0 +1,138 @@
+{
+	"name": "coder",
+	"definition": "encode; code; encrypt; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se coder/ne pas coder/ne pas se coder",
+	"indicatif": {
+		"présent": {
+			"je": "code",
+			"tu": "codes",
+			"il/elle": "code",
+			"nous": "codons",
+			"vous": "codez",
+			"ils/elles": "codent"
+		},
+		"imparfait": {
+			"je": "codais",
+			"tu": "codais",
+			"il/elle": "codait",
+			"nous": "codions",
+			"vous": "codiez",
+			"ils/elles": "codaient"
+		},
+		"futur": {
+			"je": "coderai",
+			"tu": "coderas",
+			"il/elle": "codera",
+			"nous": "coderons",
+			"vous": "coderez",
+			"ils/elles": "coderont"
+		},
+		"passé simple": {
+			"je": "codai",
+			"tu": "codas",
+			"il/elle": "coda",
+			"nous": "codâmes",
+			"vous": "codâtes",
+			"ils/elles": "codèrent"
+		},
+		"passé composé": {
+			"j'": "ai codé",
+			"tu": "as codé",
+			"il/elle": "a codé",
+			"nous": "avons codé",
+			"vous": "avez codé",
+			"ils/elles": "ont codé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais codé",
+			"tu": "avais codé",
+			"il/elle": "avait codé",
+			"nous": "avions codé",
+			"vous": "aviez codé",
+			"ils/elles": "avaient codé"
+		},
+		"passé antérieur": {
+			"j'": "eus codé",
+			"tu": "eus codé",
+			"il/elle": "eut codé",
+			"nous": "eûmes codé",
+			"vous": "eûtes codé",
+			"ils/elles": "eurent codé"
+		},
+		"futur antérieur": {
+			"j'": "aurai codé",
+			"tu": "auras codé",
+			"il/elle": "aura codé",
+			"nous": "aurons codé",
+			"vous": "aurez codé",
+			"ils/elles": "auront codé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous codiez",
+			"qu'il/elle": "code",
+			"qu'ils/elles": "codent"
+		},
+		"imparfait": {
+			"que": "vous codassiez",
+			"qu'il/elle": "codât",
+			"qu'ils/elles": "codassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse codé",
+			"que": "vous eussiez codé",
+			"qu'il/elle": "eût codé",
+			"qu'ils/elles": "eussent codé"
+		},
+		"passé": {
+			"j'": "aie codé",
+			"que": "vous ayez codé",
+			"qu'il/elle": "ait codé",
+			"qu'ils/elles": "aient codé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "coderais",
+			"tu": "coderais",
+			"il/elle": "coderait",
+			"nous": "coderions",
+			"vous": "coderiez",
+			"ils/elles": "coderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais codé",
+			"tu": "aurais codé",
+			"il/elle": "aurait codé",
+			"nous": "aurions codé",
+			"vous": "auriez codé",
+			"ils/elles": "auraient codé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse codé",
+			"tu": "eusses codé",
+			"il/elle": "eût codé",
+			"nous": "eussions codé",
+			"vous": "eussiez codé",
+			"ils/elles": "eussent codé"
+		}
+	},
+	"participe": {
+		"présent": { "codant": "" },
+		"passé composé": { "ayant": "codé" },
+		"passé": {
+			"masc.sg.:": "codé",
+			"masc.pl.:": "codés",
+			"fém.sg.:": "codée",
+			"fém.pl.:": "codées"
+		}
+	},
+	"imperatif": {
+		"présent": { "code": "", "codons": "", "codez": "" },
+		"passé": { "aie": "codé", "ayons": "codé", "ayez": "codé" }
+	},
+	"infinitif": { "présent": { "coder": "" }, "passé": { "avoir": "codé" } }
+}

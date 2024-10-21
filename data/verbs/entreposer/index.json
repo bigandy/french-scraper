@@ -1,0 +1,143 @@
+{
+	"name": "entreposer",
+	"definition": "store; warehouse; put in storage; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'entreposer/ne pas entreposer/ne pas s'entreposer",
+	"indicatif": {
+		"présent": {
+			"j'": "entrepose",
+			"tu": "entreposes",
+			"il/elle": "entrepose",
+			"nous": "entreposons",
+			"vous": "entreposez",
+			"ils/elles": "entreposent"
+		},
+		"imparfait": {
+			"j'": "entreposais",
+			"tu": "entreposais",
+			"il/elle": "entreposait",
+			"nous": "entreposions",
+			"vous": "entreposiez",
+			"ils/elles": "entreposaient"
+		},
+		"futur": {
+			"j'": "entreposerai",
+			"tu": "entreposeras",
+			"il/elle": "entreposera",
+			"nous": "entreposerons",
+			"vous": "entreposerez",
+			"ils/elles": "entreposeront"
+		},
+		"passé simple": {
+			"j'": "entreposai",
+			"tu": "entreposas",
+			"il/elle": "entreposa",
+			"nous": "entreposâmes",
+			"vous": "entreposâtes",
+			"ils/elles": "entreposèrent"
+		},
+		"passé composé": {
+			"j'": "ai entreposé",
+			"tu": "as entreposé",
+			"il/elle": "a entreposé",
+			"nous": "avons entreposé",
+			"vous": "avez entreposé",
+			"ils/elles": "ont entreposé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais entreposé",
+			"tu": "avais entreposé",
+			"il/elle": "avait entreposé",
+			"nous": "avions entreposé",
+			"vous": "aviez entreposé",
+			"ils/elles": "avaient entreposé"
+		},
+		"passé antérieur": {
+			"j'": "eus entreposé",
+			"tu": "eus entreposé",
+			"il/elle": "eut entreposé",
+			"nous": "eûmes entreposé",
+			"vous": "eûtes entreposé",
+			"ils/elles": "eurent entreposé"
+		},
+		"futur antérieur": {
+			"j'": "aurai entreposé",
+			"tu": "auras entreposé",
+			"il/elle": "aura entreposé",
+			"nous": "aurons entreposé",
+			"vous": "aurez entreposé",
+			"ils/elles": "auront entreposé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "entrepose",
+			"que": "vous entreposiez",
+			"qu'il/elle": "entrepose",
+			"qu'ils/elles": "entreposent"
+		},
+		"imparfait": {
+			"j'": "entreposasse",
+			"que": "vous entreposassiez",
+			"qu'il/elle": "entreposât",
+			"qu'ils/elles": "entreposassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse entreposé",
+			"que": "vous eussiez entreposé",
+			"qu'il/elle": "eût entreposé",
+			"qu'ils/elles": "eussent entreposé"
+		},
+		"passé": {
+			"j'": "aie entreposé",
+			"que": "vous ayez entreposé",
+			"qu'il/elle": "ait entreposé",
+			"qu'ils/elles": "aient entreposé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "entreposerais",
+			"tu": "entreposerais",
+			"il/elle": "entreposerait",
+			"nous": "entreposerions",
+			"vous": "entreposeriez",
+			"ils/elles": "entreposeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais entreposé",
+			"tu": "aurais entreposé",
+			"il/elle": "aurait entreposé",
+			"nous": "aurions entreposé",
+			"vous": "auriez entreposé",
+			"ils/elles": "auraient entreposé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse entreposé",
+			"tu": "eusses entreposé",
+			"il/elle": "eût entreposé",
+			"nous": "eussions entreposé",
+			"vous": "eussiez entreposé",
+			"ils/elles": "eussent entreposé"
+		}
+	},
+	"participe": {
+		"présent": { "entreposant": "" },
+		"passé composé": { "ayant": "entreposé" },
+		"passé": {
+			"masc.sg.:": "entreposé",
+			"masc.pl.:": "entreposés",
+			"fém.sg.:": "entreposée",
+			"fém.pl.:": "entreposées"
+		}
+	},
+	"imperatif": {
+		"présent": { "entrepose": "", "entreposons": "", "entreposez": "" },
+		"passé": { "aie": "entreposé", "ayons": "entreposé", "ayez": "entreposé" }
+	},
+	"infinitif": {
+		"présent": { "entreposer": "" },
+		"passé": { "avoir": "entreposé" }
+	}
+}

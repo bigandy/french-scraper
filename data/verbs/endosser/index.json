@@ -1,0 +1,143 @@
+{
+	"name": "endosser",
+	"definition": "endorse; shoulder; take on; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'endosser/ne pas endosser/ne pas s'endosser",
+	"indicatif": {
+		"présent": {
+			"j'": "endosse",
+			"tu": "endosses",
+			"il/elle": "endosse",
+			"nous": "endossons",
+			"vous": "endossez",
+			"ils/elles": "endossent"
+		},
+		"imparfait": {
+			"j'": "endossais",
+			"tu": "endossais",
+			"il/elle": "endossait",
+			"nous": "endossions",
+			"vous": "endossiez",
+			"ils/elles": "endossaient"
+		},
+		"futur": {
+			"j'": "endosserai",
+			"tu": "endosseras",
+			"il/elle": "endossera",
+			"nous": "endosserons",
+			"vous": "endosserez",
+			"ils/elles": "endosseront"
+		},
+		"passé simple": {
+			"j'": "endossai",
+			"tu": "endossas",
+			"il/elle": "endossa",
+			"nous": "endossâmes",
+			"vous": "endossâtes",
+			"ils/elles": "endossèrent"
+		},
+		"passé composé": {
+			"j'": "ai endossé",
+			"tu": "as endossé",
+			"il/elle": "a endossé",
+			"nous": "avons endossé",
+			"vous": "avez endossé",
+			"ils/elles": "ont endossé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais endossé",
+			"tu": "avais endossé",
+			"il/elle": "avait endossé",
+			"nous": "avions endossé",
+			"vous": "aviez endossé",
+			"ils/elles": "avaient endossé"
+		},
+		"passé antérieur": {
+			"j'": "eus endossé",
+			"tu": "eus endossé",
+			"il/elle": "eut endossé",
+			"nous": "eûmes endossé",
+			"vous": "eûtes endossé",
+			"ils/elles": "eurent endossé"
+		},
+		"futur antérieur": {
+			"j'": "aurai endossé",
+			"tu": "auras endossé",
+			"il/elle": "aura endossé",
+			"nous": "aurons endossé",
+			"vous": "aurez endossé",
+			"ils/elles": "auront endossé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "endosse",
+			"que": "vous endossiez",
+			"qu'il/elle": "endosse",
+			"qu'ils/elles": "endossent"
+		},
+		"imparfait": {
+			"j'": "endossasse",
+			"que": "vous endossassiez",
+			"qu'il/elle": "endossât",
+			"qu'ils/elles": "endossassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse endossé",
+			"que": "vous eussiez endossé",
+			"qu'il/elle": "eût endossé",
+			"qu'ils/elles": "eussent endossé"
+		},
+		"passé": {
+			"j'": "aie endossé",
+			"que": "vous ayez endossé",
+			"qu'il/elle": "ait endossé",
+			"qu'ils/elles": "aient endossé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "endosserais",
+			"tu": "endosserais",
+			"il/elle": "endosserait",
+			"nous": "endosserions",
+			"vous": "endosseriez",
+			"ils/elles": "endosseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais endossé",
+			"tu": "aurais endossé",
+			"il/elle": "aurait endossé",
+			"nous": "aurions endossé",
+			"vous": "auriez endossé",
+			"ils/elles": "auraient endossé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse endossé",
+			"tu": "eusses endossé",
+			"il/elle": "eût endossé",
+			"nous": "eussions endossé",
+			"vous": "eussiez endossé",
+			"ils/elles": "eussent endossé"
+		}
+	},
+	"participe": {
+		"présent": { "endossant": "" },
+		"passé composé": { "ayant": "endossé" },
+		"passé": {
+			"masc.sg.:": "endossé",
+			"masc.pl.:": "endossés",
+			"fém.sg.:": "endossée",
+			"fém.pl.:": "endossées"
+		}
+	},
+	"imperatif": {
+		"présent": { "endosse": "", "endossons": "", "endossez": "" },
+		"passé": { "aie": "endossé", "ayons": "endossé", "ayez": "endossé" }
+	},
+	"infinitif": {
+		"présent": { "endosser": "" },
+		"passé": { "avoir": "endossé" }
+	}
+}

@@ -1,0 +1,196 @@
+{
+	"name": "expirer",
+	"definition": "expire; exhale; lapse; ...",
+	"model": "marcher",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "s'expirer/ne pas expirer/ne pas s'expirer",
+	"indicatif": {
+		"présent": {
+			"j'": "expire",
+			"tu": "expires",
+			"il/elle": "expire",
+			"nous": "expirons",
+			"vous": "expirez",
+			"ils/elles": "expirent"
+		},
+		"imparfait": {
+			"j'": "expirais",
+			"tu": "expirais",
+			"il/elle": "expirait",
+			"nous": "expirions",
+			"vous": "expiriez",
+			"ils/elles": "expiraient"
+		},
+		"futur": {
+			"j'": "expirerai",
+			"tu": "expireras",
+			"il/elle": "expirera",
+			"nous": "expirerons",
+			"vous": "expirerez",
+			"ils/elles": "expireront"
+		},
+		"passé simple": {
+			"j'": "expirai",
+			"tu": "expiras",
+			"il/elle": "expira",
+			"nous": "expirâmes",
+			"vous": "expirâtes",
+			"ils/elles": "expirèrent"
+		},
+		"passé composé": {
+			"j'": "ai expiré",
+			"tu": "es expiré",
+			"il/elle": "a expiré",
+			"nous": "sommes expirés",
+			"vous": "êtes expirés",
+			"ils/elles": "ont expiré",
+			"": "",
+			"je": "suis expiré",
+			"il": "est expiré",
+			"elle": "est expirée",
+			"ils": "sont expirés",
+			"elles": "sont expirées"
+		},
+		"plus-que-parfait": {
+			"j'": "étais expiré",
+			"tu": "étais expiré",
+			"il/elle": "avait expiré",
+			"nous": "étions expirés",
+			"vous": "étiez expirés",
+			"ils/elles": "avaient expiré",
+			"": "",
+			"il": "était expiré",
+			"elle": "était expirée",
+			"ils": "étaient expirés",
+			"elles": "étaient expirées"
+		},
+		"passé antérieur": {
+			"j'": "eus expiré",
+			"tu": "fus expiré",
+			"il/elle": "eut expiré",
+			"nous": "fûmes expirés",
+			"vous": "fûtes expirés",
+			"ils/elles": "eurent expiré",
+			"": "",
+			"je": "fus expiré",
+			"il": "fut expiré",
+			"elle": "fut expirée",
+			"ils": "furent expirés",
+			"elles": "furent expirées"
+		},
+		"futur antérieur": {
+			"j'": "aurai expiré",
+			"tu": "seras expiré",
+			"il/elle": "aura expiré",
+			"nous": "serons expirés",
+			"vous": "serez expirés",
+			"ils/elles": "auront expiré",
+			"": "",
+			"je": "serai expiré",
+			"il": "sera expiré",
+			"elle": "sera expirée",
+			"ils": "seront expirés",
+			"elles": "seront expirées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "expire",
+			"que": "vous expiriez",
+			"qu'il/elle": "expire",
+			"qu'ils/elles": "expirent"
+		},
+		"imparfait": {
+			"j'": "expirasse",
+			"que": "vous expirassiez",
+			"qu'il/elle": "expirât",
+			"qu'ils/elles": "expirassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse expiré",
+			"que": "vous fussiez expirés",
+			"qu'il/elle": "eût expiré",
+			"qu'ils/elles": "eussent expiré",
+			"": "",
+			"qu'il": "fût expiré",
+			"qu'elle": "fût expirée",
+			"qu'ils": "fussent expirés",
+			"qu'elles": "fussent expirées"
+		},
+		"passé": {
+			"j'": "aie expiré",
+			"que": "vous soyez expirés",
+			"qu'il/elle": "ait expiré",
+			"qu'ils/elles": "aient expiré",
+			"": "",
+			"qu'il": "soit expiré",
+			"qu'elle": "soit expirée",
+			"qu'ils": "soient expirés",
+			"qu'elles": "soient expirées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "expirerais",
+			"tu": "expirerais",
+			"il/elle": "expirerait",
+			"nous": "expirerions",
+			"vous": "expireriez",
+			"ils/elles": "expireraient"
+		},
+		"passé première forme": {
+			"j'": "aurais expiré",
+			"tu": "serais expiré",
+			"il/elle": "aurait expiré",
+			"nous": "serions expirés",
+			"vous": "seriez expirés",
+			"ils/elles": "auraient expiré",
+			"": "",
+			"je": "serais expiré",
+			"il": "serait expiré",
+			"elle": "serait expirée",
+			"ils": "seraient expirés",
+			"elles": "seraient expirées"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse expiré",
+			"tu": "fusses expiré",
+			"il/elle": "eût expiré",
+			"nous": "fussions expirés",
+			"vous": "fussiez expirés",
+			"ils/elles": "eussent expiré",
+			"": "",
+			"je": "fusse expiré",
+			"il": "fût expiré",
+			"elle": "fût expirée",
+			"ils": "fussent expirés",
+			"elles": "fussent expirées"
+		}
+	},
+	"participe": {
+		"présent": { "expirant": "" },
+		"passé composé": { "ayant": "expiré", "": "", "étant": "expirée" },
+		"passé": {
+			"masc.sg.:": "expiré",
+			"masc.pl.:": "expirés",
+			"fém.sg.:": "expirée",
+			"fém.pl.:": "expirées"
+		}
+	},
+	"imperatif": {
+		"présent": { "expire": "", "expirons": "", "expirez": "" },
+		"passé": {
+			"aie": "expiré",
+			"ayons": "expiré",
+			"ayez": "expiré",
+			"": "",
+			"sois": "expiré",
+			"soyons": "expiré",
+			"soyez": "expiré"
+		}
+	},
+	"infinitif": {
+		"présent": { "expirer": "" },
+		"passé": { "avoir": "expiré", "": "", "être": "expiré" }
+	}
+}

@@ -1,0 +1,138 @@
+{
+	"name": "daguer",
+	"definition": "",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se daguer/ne pas daguer/ne pas se daguer",
+	"indicatif": {
+		"présent": {
+			"je": "dague",
+			"tu": "dagues",
+			"il/elle": "dague",
+			"nous": "daguons",
+			"vous": "daguez",
+			"ils/elles": "daguent"
+		},
+		"imparfait": {
+			"je": "daguais",
+			"tu": "daguais",
+			"il/elle": "daguait",
+			"nous": "daguions",
+			"vous": "daguiez",
+			"ils/elles": "daguaient"
+		},
+		"futur": {
+			"je": "daguerai",
+			"tu": "dagueras",
+			"il/elle": "daguera",
+			"nous": "daguerons",
+			"vous": "daguerez",
+			"ils/elles": "dagueront"
+		},
+		"passé simple": {
+			"je": "daguai",
+			"tu": "daguas",
+			"il/elle": "dagua",
+			"nous": "daguâmes",
+			"vous": "daguâtes",
+			"ils/elles": "daguèrent"
+		},
+		"passé composé": {
+			"j'": "ai dagué",
+			"tu": "as dagué",
+			"il/elle": "a dagué",
+			"nous": "avons dagué",
+			"vous": "avez dagué",
+			"ils/elles": "ont dagué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais dagué",
+			"tu": "avais dagué",
+			"il/elle": "avait dagué",
+			"nous": "avions dagué",
+			"vous": "aviez dagué",
+			"ils/elles": "avaient dagué"
+		},
+		"passé antérieur": {
+			"j'": "eus dagué",
+			"tu": "eus dagué",
+			"il/elle": "eut dagué",
+			"nous": "eûmes dagué",
+			"vous": "eûtes dagué",
+			"ils/elles": "eurent dagué"
+		},
+		"futur antérieur": {
+			"j'": "aurai dagué",
+			"tu": "auras dagué",
+			"il/elle": "aura dagué",
+			"nous": "aurons dagué",
+			"vous": "aurez dagué",
+			"ils/elles": "auront dagué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous daguiez",
+			"qu'il/elle": "dague",
+			"qu'ils/elles": "daguent"
+		},
+		"imparfait": {
+			"que": "vous daguassiez",
+			"qu'il/elle": "daguât",
+			"qu'ils/elles": "daguassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse dagué",
+			"que": "vous eussiez dagué",
+			"qu'il/elle": "eût dagué",
+			"qu'ils/elles": "eussent dagué"
+		},
+		"passé": {
+			"j'": "aie dagué",
+			"que": "vous ayez dagué",
+			"qu'il/elle": "ait dagué",
+			"qu'ils/elles": "aient dagué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "daguerais",
+			"tu": "daguerais",
+			"il/elle": "daguerait",
+			"nous": "daguerions",
+			"vous": "dagueriez",
+			"ils/elles": "dagueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais dagué",
+			"tu": "aurais dagué",
+			"il/elle": "aurait dagué",
+			"nous": "aurions dagué",
+			"vous": "auriez dagué",
+			"ils/elles": "auraient dagué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse dagué",
+			"tu": "eusses dagué",
+			"il/elle": "eût dagué",
+			"nous": "eussions dagué",
+			"vous": "eussiez dagué",
+			"ils/elles": "eussent dagué"
+		}
+	},
+	"participe": {
+		"présent": { "daguant": "" },
+		"passé composé": { "ayant": "dagué" },
+		"passé": {
+			"masc.sg.:": "dagué",
+			"masc.pl.:": "dagués",
+			"fém.sg.:": "daguée",
+			"fém.pl.:": "daguées"
+		}
+	},
+	"imperatif": {
+		"présent": { "dague": "", "daguons": "", "daguez": "" },
+		"passé": { "aie": "dagué", "ayons": "dagué", "ayez": "dagué" }
+	},
+	"infinitif": { "présent": { "daguer": "" }, "passé": { "avoir": "dagué" } }
+}

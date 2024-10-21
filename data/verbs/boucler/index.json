@@ -1,0 +1,138 @@
+{
+	"name": "boucler",
+	"definition": "close; complete; shut up; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se boucler/ne pas boucler/ne pas se boucler",
+	"indicatif": {
+		"présent": {
+			"je": "boucle",
+			"tu": "boucles",
+			"il/elle": "boucle",
+			"nous": "bouclons",
+			"vous": "bouclez",
+			"ils/elles": "bouclent"
+		},
+		"imparfait": {
+			"je": "bouclais",
+			"tu": "bouclais",
+			"il/elle": "bouclait",
+			"nous": "bouclions",
+			"vous": "boucliez",
+			"ils/elles": "bouclaient"
+		},
+		"futur": {
+			"je": "bouclerai",
+			"tu": "boucleras",
+			"il/elle": "bouclera",
+			"nous": "bouclerons",
+			"vous": "bouclerez",
+			"ils/elles": "boucleront"
+		},
+		"passé simple": {
+			"je": "bouclai",
+			"tu": "bouclas",
+			"il/elle": "boucla",
+			"nous": "bouclâmes",
+			"vous": "bouclâtes",
+			"ils/elles": "bouclèrent"
+		},
+		"passé composé": {
+			"j'": "ai bouclé",
+			"tu": "as bouclé",
+			"il/elle": "a bouclé",
+			"nous": "avons bouclé",
+			"vous": "avez bouclé",
+			"ils/elles": "ont bouclé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais bouclé",
+			"tu": "avais bouclé",
+			"il/elle": "avait bouclé",
+			"nous": "avions bouclé",
+			"vous": "aviez bouclé",
+			"ils/elles": "avaient bouclé"
+		},
+		"passé antérieur": {
+			"j'": "eus bouclé",
+			"tu": "eus bouclé",
+			"il/elle": "eut bouclé",
+			"nous": "eûmes bouclé",
+			"vous": "eûtes bouclé",
+			"ils/elles": "eurent bouclé"
+		},
+		"futur antérieur": {
+			"j'": "aurai bouclé",
+			"tu": "auras bouclé",
+			"il/elle": "aura bouclé",
+			"nous": "aurons bouclé",
+			"vous": "aurez bouclé",
+			"ils/elles": "auront bouclé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous boucliez",
+			"qu'il/elle": "boucle",
+			"qu'ils/elles": "bouclent"
+		},
+		"imparfait": {
+			"que": "vous bouclassiez",
+			"qu'il/elle": "bouclât",
+			"qu'ils/elles": "bouclassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse bouclé",
+			"que": "vous eussiez bouclé",
+			"qu'il/elle": "eût bouclé",
+			"qu'ils/elles": "eussent bouclé"
+		},
+		"passé": {
+			"j'": "aie bouclé",
+			"que": "vous ayez bouclé",
+			"qu'il/elle": "ait bouclé",
+			"qu'ils/elles": "aient bouclé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "bouclerais",
+			"tu": "bouclerais",
+			"il/elle": "bouclerait",
+			"nous": "bouclerions",
+			"vous": "boucleriez",
+			"ils/elles": "boucleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais bouclé",
+			"tu": "aurais bouclé",
+			"il/elle": "aurait bouclé",
+			"nous": "aurions bouclé",
+			"vous": "auriez bouclé",
+			"ils/elles": "auraient bouclé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse bouclé",
+			"tu": "eusses bouclé",
+			"il/elle": "eût bouclé",
+			"nous": "eussions bouclé",
+			"vous": "eussiez bouclé",
+			"ils/elles": "eussent bouclé"
+		}
+	},
+	"participe": {
+		"présent": { "bouclant": "" },
+		"passé composé": { "ayant": "bouclé" },
+		"passé": {
+			"masc.sg.:": "bouclé",
+			"masc.pl.:": "bouclés",
+			"fém.sg.:": "bouclée",
+			"fém.pl.:": "bouclées"
+		}
+	},
+	"imperatif": {
+		"présent": { "boucle": "", "bouclons": "", "bouclez": "" },
+		"passé": { "aie": "bouclé", "ayons": "bouclé", "ayez": "bouclé" }
+	},
+	"infinitif": { "présent": { "boucler": "" }, "passé": { "avoir": "bouclé" } }
+}

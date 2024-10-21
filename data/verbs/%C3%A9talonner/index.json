@@ -1,0 +1,143 @@
+{
+	"name": "étalonner",
+	"definition": "calibrate; test; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'étalonner/ne pas étalonner/ne pas s'étalonner",
+	"indicatif": {
+		"présent": {
+			"j'": "étalonne",
+			"tu": "étalonnes",
+			"il/elle": "étalonne",
+			"nous": "étalonnons",
+			"vous": "étalonnez",
+			"ils/elles": "étalonnent"
+		},
+		"imparfait": {
+			"j'": "étalonnais",
+			"tu": "étalonnais",
+			"il/elle": "étalonnait",
+			"nous": "étalonnions",
+			"vous": "étalonniez",
+			"ils/elles": "étalonnaient"
+		},
+		"futur": {
+			"j'": "étalonnerai",
+			"tu": "étalonneras",
+			"il/elle": "étalonnera",
+			"nous": "étalonnerons",
+			"vous": "étalonnerez",
+			"ils/elles": "étalonneront"
+		},
+		"passé simple": {
+			"j'": "étalonnai",
+			"tu": "étalonnas",
+			"il/elle": "étalonna",
+			"nous": "étalonnâmes",
+			"vous": "étalonnâtes",
+			"ils/elles": "étalonnèrent"
+		},
+		"passé composé": {
+			"j'": "ai étalonné",
+			"tu": "as étalonné",
+			"il/elle": "a étalonné",
+			"nous": "avons étalonné",
+			"vous": "avez étalonné",
+			"ils/elles": "ont étalonné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais étalonné",
+			"tu": "avais étalonné",
+			"il/elle": "avait étalonné",
+			"nous": "avions étalonné",
+			"vous": "aviez étalonné",
+			"ils/elles": "avaient étalonné"
+		},
+		"passé antérieur": {
+			"j'": "eus étalonné",
+			"tu": "eus étalonné",
+			"il/elle": "eut étalonné",
+			"nous": "eûmes étalonné",
+			"vous": "eûtes étalonné",
+			"ils/elles": "eurent étalonné"
+		},
+		"futur antérieur": {
+			"j'": "aurai étalonné",
+			"tu": "auras étalonné",
+			"il/elle": "aura étalonné",
+			"nous": "aurons étalonné",
+			"vous": "aurez étalonné",
+			"ils/elles": "auront étalonné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "étalonne",
+			"que": "vous étalonniez",
+			"qu'il/elle": "étalonne",
+			"qu'ils/elles": "étalonnent"
+		},
+		"imparfait": {
+			"j'": "étalonnasse",
+			"que": "vous étalonnassiez",
+			"qu'il/elle": "étalonnât",
+			"qu'ils/elles": "étalonnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse étalonné",
+			"que": "vous eussiez étalonné",
+			"qu'il/elle": "eût étalonné",
+			"qu'ils/elles": "eussent étalonné"
+		},
+		"passé": {
+			"j'": "aie étalonné",
+			"que": "vous ayez étalonné",
+			"qu'il/elle": "ait étalonné",
+			"qu'ils/elles": "aient étalonné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "étalonnerais",
+			"tu": "étalonnerais",
+			"il/elle": "étalonnerait",
+			"nous": "étalonnerions",
+			"vous": "étalonneriez",
+			"ils/elles": "étalonneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais étalonné",
+			"tu": "aurais étalonné",
+			"il/elle": "aurait étalonné",
+			"nous": "aurions étalonné",
+			"vous": "auriez étalonné",
+			"ils/elles": "auraient étalonné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse étalonné",
+			"tu": "eusses étalonné",
+			"il/elle": "eût étalonné",
+			"nous": "eussions étalonné",
+			"vous": "eussiez étalonné",
+			"ils/elles": "eussent étalonné"
+		}
+	},
+	"participe": {
+		"présent": { "étalonnant": "" },
+		"passé composé": { "ayant": "étalonné" },
+		"passé": {
+			"masc.sg.:": "étalonné",
+			"masc.pl.:": "étalonnés",
+			"fém.sg.:": "étalonnée",
+			"fém.pl.:": "étalonnées"
+		}
+	},
+	"imperatif": {
+		"présent": { "étalonne": "", "étalonnons": "", "étalonnez": "" },
+		"passé": { "aie": "étalonné", "ayons": "étalonné", "ayez": "étalonné" }
+	},
+	"infinitif": {
+		"présent": { "étalonner": "" },
+		"passé": { "avoir": "étalonné" }
+	}
+}

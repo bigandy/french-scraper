@@ -1,0 +1,138 @@
+{
+	"name": "broyer",
+	"definition": "grind; crush; mill; ...",
+	"model": "balayer",
+	"auxiliary": "avoir",
+	"otherForms": "se broyer/ne pas broyer/ne pas se broyer",
+	"indicatif": {
+		"présent": {
+			"je": "broie",
+			"tu": "broies",
+			"il/elle": "broie",
+			"nous": "broyons",
+			"vous": "broyez",
+			"ils/elles": "broient"
+		},
+		"imparfait": {
+			"je": "broyais",
+			"tu": "broyais",
+			"il/elle": "broyait",
+			"nous": "broyions",
+			"vous": "broyiez",
+			"ils/elles": "broyaient"
+		},
+		"futur": {
+			"je": "broierai",
+			"tu": "broieras",
+			"il/elle": "broiera",
+			"nous": "broierons",
+			"vous": "broierez",
+			"ils/elles": "broieront"
+		},
+		"passé simple": {
+			"je": "broyai",
+			"tu": "broyas",
+			"il/elle": "broya",
+			"nous": "broyâmes",
+			"vous": "broyâtes",
+			"ils/elles": "broyèrent"
+		},
+		"passé composé": {
+			"j'": "ai broyé",
+			"tu": "as broyé",
+			"il/elle": "a broyé",
+			"nous": "avons broyé",
+			"vous": "avez broyé",
+			"ils/elles": "ont broyé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais broyé",
+			"tu": "avais broyé",
+			"il/elle": "avait broyé",
+			"nous": "avions broyé",
+			"vous": "aviez broyé",
+			"ils/elles": "avaient broyé"
+		},
+		"passé antérieur": {
+			"j'": "eus broyé",
+			"tu": "eus broyé",
+			"il/elle": "eut broyé",
+			"nous": "eûmes broyé",
+			"vous": "eûtes broyé",
+			"ils/elles": "eurent broyé"
+		},
+		"futur antérieur": {
+			"j'": "aurai broyé",
+			"tu": "auras broyé",
+			"il/elle": "aura broyé",
+			"nous": "aurons broyé",
+			"vous": "aurez broyé",
+			"ils/elles": "auront broyé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous broyiez",
+			"qu'il/elle": "broie",
+			"qu'ils/elles": "broient"
+		},
+		"imparfait": {
+			"que": "vous broyassiez",
+			"qu'il/elle": "broyât",
+			"qu'ils/elles": "broyassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse broyé",
+			"que": "vous eussiez broyé",
+			"qu'il/elle": "eût broyé",
+			"qu'ils/elles": "eussent broyé"
+		},
+		"passé": {
+			"j'": "aie broyé",
+			"que": "vous ayez broyé",
+			"qu'il/elle": "ait broyé",
+			"qu'ils/elles": "aient broyé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "broierais",
+			"tu": "broierais",
+			"il/elle": "broierait",
+			"nous": "broierions",
+			"vous": "broieriez",
+			"ils/elles": "broieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais broyé",
+			"tu": "aurais broyé",
+			"il/elle": "aurait broyé",
+			"nous": "aurions broyé",
+			"vous": "auriez broyé",
+			"ils/elles": "auraient broyé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse broyé",
+			"tu": "eusses broyé",
+			"il/elle": "eût broyé",
+			"nous": "eussions broyé",
+			"vous": "eussiez broyé",
+			"ils/elles": "eussent broyé"
+		}
+	},
+	"participe": {
+		"présent": { "broyant": "" },
+		"passé composé": { "ayant": "broyé" },
+		"passé": {
+			"masc.sg.:": "broyé",
+			"masc.pl.:": "broyés",
+			"fém.sg.:": "broyée",
+			"fém.pl.:": "broyées"
+		}
+	},
+	"imperatif": {
+		"présent": { "broie": "", "broyons": "", "broyez": "" },
+		"passé": { "aie": "broyé", "ayons": "broyé", "ayez": "broyé" }
+	},
+	"infinitif": { "présent": { "broyer": "" }, "passé": { "avoir": "broyé" } }
+}

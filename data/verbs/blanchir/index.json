@@ -1,0 +1,141 @@
+{
+	"name": "blanchir",
+	"definition": "launder; whiten; blanch; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se blanchir/ne pas blanchir/ne pas se blanchir",
+	"indicatif": {
+		"présent": {
+			"je": "blanchis",
+			"tu": "blanchis",
+			"il/elle": "blanchit",
+			"nous": "blanchissons",
+			"vous": "blanchissez",
+			"ils/elles": "blanchissent"
+		},
+		"imparfait": {
+			"je": "blanchissais",
+			"tu": "blanchissais",
+			"il/elle": "blanchissait",
+			"nous": "blanchissions",
+			"vous": "blanchissiez",
+			"ils/elles": "blanchissaient"
+		},
+		"futur": {
+			"je": "blanchirai",
+			"tu": "blanchiras",
+			"il/elle": "blanchira",
+			"nous": "blanchirons",
+			"vous": "blanchirez",
+			"ils/elles": "blanchiront"
+		},
+		"passé simple": {
+			"je": "blanchis",
+			"tu": "blanchis",
+			"il/elle": "blanchit",
+			"nous": "blanchîmes",
+			"vous": "blanchîtes",
+			"ils/elles": "blanchirent"
+		},
+		"passé composé": {
+			"j'": "ai blanchi",
+			"tu": "as blanchi",
+			"il/elle": "a blanchi",
+			"nous": "avons blanchi",
+			"vous": "avez blanchi",
+			"ils/elles": "ont blanchi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais blanchi",
+			"tu": "avais blanchi",
+			"il/elle": "avait blanchi",
+			"nous": "avions blanchi",
+			"vous": "aviez blanchi",
+			"ils/elles": "avaient blanchi"
+		},
+		"passé antérieur": {
+			"j'": "eus blanchi",
+			"tu": "eus blanchi",
+			"il/elle": "eut blanchi",
+			"nous": "eûmes blanchi",
+			"vous": "eûtes blanchi",
+			"ils/elles": "eurent blanchi"
+		},
+		"futur antérieur": {
+			"j'": "aurai blanchi",
+			"tu": "auras blanchi",
+			"il/elle": "aura blanchi",
+			"nous": "aurons blanchi",
+			"vous": "aurez blanchi",
+			"ils/elles": "auront blanchi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous blanchissiez",
+			"qu'il/elle": "blanchisse",
+			"qu'ils/elles": "blanchissent"
+		},
+		"imparfait": {
+			"que": "vous blanchissiez",
+			"qu'il/elle": "blanchît",
+			"qu'ils/elles": "blanchissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse blanchi",
+			"que": "vous eussiez blanchi",
+			"qu'il/elle": "eût blanchi",
+			"qu'ils/elles": "eussent blanchi"
+		},
+		"passé": {
+			"j'": "aie blanchi",
+			"que": "vous ayez blanchi",
+			"qu'il/elle": "ait blanchi",
+			"qu'ils/elles": "aient blanchi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "blanchirais",
+			"tu": "blanchirais",
+			"il/elle": "blanchirait",
+			"nous": "blanchirions",
+			"vous": "blanchiriez",
+			"ils/elles": "blanchiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais blanchi",
+			"tu": "aurais blanchi",
+			"il/elle": "aurait blanchi",
+			"nous": "aurions blanchi",
+			"vous": "auriez blanchi",
+			"ils/elles": "auraient blanchi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse blanchi",
+			"tu": "eusses blanchi",
+			"il/elle": "eût blanchi",
+			"nous": "eussions blanchi",
+			"vous": "eussiez blanchi",
+			"ils/elles": "eussent blanchi"
+		}
+	},
+	"participe": {
+		"présent": { "blanchissant": "" },
+		"passé composé": { "ayant": "blanchi" },
+		"passé": {
+			"masc.sg.:": "blanchi",
+			"masc.pl.:": "blanchis",
+			"fém.sg.:": "blanchie",
+			"fém.pl.:": "blanchies"
+		}
+	},
+	"imperatif": {
+		"présent": { "blanchis": "", "blanchissons": "", "blanchissez": "" },
+		"passé": { "aie": "blanchi", "ayons": "blanchi", "ayez": "blanchi" }
+	},
+	"infinitif": {
+		"présent": { "blanchir": "" },
+		"passé": { "avoir": "blanchi" }
+	}
+}

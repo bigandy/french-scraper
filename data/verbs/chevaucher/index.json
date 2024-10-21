@@ -1,0 +1,141 @@
+{
+	"name": "chevaucher",
+	"definition": "overlap; ride; straddle; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se chevaucher/ne pas chevaucher/ne pas se chevaucher",
+	"indicatif": {
+		"présent": {
+			"je": "chevauche",
+			"tu": "chevauches",
+			"il/elle": "chevauche",
+			"nous": "chevauchons",
+			"vous": "chevauchez",
+			"ils/elles": "chevauchent"
+		},
+		"imparfait": {
+			"je": "chevauchais",
+			"tu": "chevauchais",
+			"il/elle": "chevauchait",
+			"nous": "chevauchions",
+			"vous": "chevauchiez",
+			"ils/elles": "chevauchaient"
+		},
+		"futur": {
+			"je": "chevaucherai",
+			"tu": "chevaucheras",
+			"il/elle": "chevauchera",
+			"nous": "chevaucherons",
+			"vous": "chevaucherez",
+			"ils/elles": "chevaucheront"
+		},
+		"passé simple": {
+			"je": "chevauchai",
+			"tu": "chevauchas",
+			"il/elle": "chevaucha",
+			"nous": "chevauchâmes",
+			"vous": "chevauchâtes",
+			"ils/elles": "chevauchèrent"
+		},
+		"passé composé": {
+			"j'": "ai chevauché",
+			"tu": "as chevauché",
+			"il/elle": "a chevauché",
+			"nous": "avons chevauché",
+			"vous": "avez chevauché",
+			"ils/elles": "ont chevauché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais chevauché",
+			"tu": "avais chevauché",
+			"il/elle": "avait chevauché",
+			"nous": "avions chevauché",
+			"vous": "aviez chevauché",
+			"ils/elles": "avaient chevauché"
+		},
+		"passé antérieur": {
+			"j'": "eus chevauché",
+			"tu": "eus chevauché",
+			"il/elle": "eut chevauché",
+			"nous": "eûmes chevauché",
+			"vous": "eûtes chevauché",
+			"ils/elles": "eurent chevauché"
+		},
+		"futur antérieur": {
+			"j'": "aurai chevauché",
+			"tu": "auras chevauché",
+			"il/elle": "aura chevauché",
+			"nous": "aurons chevauché",
+			"vous": "aurez chevauché",
+			"ils/elles": "auront chevauché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous chevauchiez",
+			"qu'il/elle": "chevauche",
+			"qu'ils/elles": "chevauchent"
+		},
+		"imparfait": {
+			"que": "vous chevauchassiez",
+			"qu'il/elle": "chevauchât",
+			"qu'ils/elles": "chevauchassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse chevauché",
+			"que": "vous eussiez chevauché",
+			"qu'il/elle": "eût chevauché",
+			"qu'ils/elles": "eussent chevauché"
+		},
+		"passé": {
+			"j'": "aie chevauché",
+			"que": "vous ayez chevauché",
+			"qu'il/elle": "ait chevauché",
+			"qu'ils/elles": "aient chevauché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "chevaucherais",
+			"tu": "chevaucherais",
+			"il/elle": "chevaucherait",
+			"nous": "chevaucherions",
+			"vous": "chevaucheriez",
+			"ils/elles": "chevaucheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais chevauché",
+			"tu": "aurais chevauché",
+			"il/elle": "aurait chevauché",
+			"nous": "aurions chevauché",
+			"vous": "auriez chevauché",
+			"ils/elles": "auraient chevauché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse chevauché",
+			"tu": "eusses chevauché",
+			"il/elle": "eût chevauché",
+			"nous": "eussions chevauché",
+			"vous": "eussiez chevauché",
+			"ils/elles": "eussent chevauché"
+		}
+	},
+	"participe": {
+		"présent": { "chevauchant": "" },
+		"passé composé": { "ayant": "chevauché" },
+		"passé": {
+			"masc.sg.:": "chevauché",
+			"masc.pl.:": "chevauchés",
+			"fém.sg.:": "chevauchée",
+			"fém.pl.:": "chevauchées"
+		}
+	},
+	"imperatif": {
+		"présent": { "chevauche": "", "chevauchons": "", "chevauchez": "" },
+		"passé": { "aie": "chevauché", "ayons": "chevauché", "ayez": "chevauché" }
+	},
+	"infinitif": {
+		"présent": { "chevaucher": "" },
+		"passé": { "avoir": "chevauché" }
+	}
+}

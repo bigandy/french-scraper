@@ -1,0 +1,138 @@
+{
+	"name": "foncer",
+	"definition": "go for it; darken; charge; ...",
+	"model": "commencer",
+	"auxiliary": "avoir",
+	"otherForms": "se foncer/ne pas foncer/ne pas se foncer",
+	"indicatif": {
+		"présent": {
+			"je": "fonce",
+			"tu": "fonces",
+			"il/elle": "fonce",
+			"nous": "fonçons",
+			"vous": "foncez",
+			"ils/elles": "foncent"
+		},
+		"imparfait": {
+			"je": "fonçais",
+			"tu": "fonçais",
+			"il/elle": "fonçait",
+			"nous": "foncions",
+			"vous": "fonciez",
+			"ils/elles": "fonçaient"
+		},
+		"futur": {
+			"je": "foncerai",
+			"tu": "fonceras",
+			"il/elle": "foncera",
+			"nous": "foncerons",
+			"vous": "foncerez",
+			"ils/elles": "fonceront"
+		},
+		"passé simple": {
+			"je": "fonçai",
+			"tu": "fonças",
+			"il/elle": "fonça",
+			"nous": "fonçâmes",
+			"vous": "fonçâtes",
+			"ils/elles": "foncèrent"
+		},
+		"passé composé": {
+			"j'": "ai foncé",
+			"tu": "as foncé",
+			"il/elle": "a foncé",
+			"nous": "avons foncé",
+			"vous": "avez foncé",
+			"ils/elles": "ont foncé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais foncé",
+			"tu": "avais foncé",
+			"il/elle": "avait foncé",
+			"nous": "avions foncé",
+			"vous": "aviez foncé",
+			"ils/elles": "avaient foncé"
+		},
+		"passé antérieur": {
+			"j'": "eus foncé",
+			"tu": "eus foncé",
+			"il/elle": "eut foncé",
+			"nous": "eûmes foncé",
+			"vous": "eûtes foncé",
+			"ils/elles": "eurent foncé"
+		},
+		"futur antérieur": {
+			"j'": "aurai foncé",
+			"tu": "auras foncé",
+			"il/elle": "aura foncé",
+			"nous": "aurons foncé",
+			"vous": "aurez foncé",
+			"ils/elles": "auront foncé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous fonciez",
+			"qu'il/elle": "fonce",
+			"qu'ils/elles": "foncent"
+		},
+		"imparfait": {
+			"que": "vous fonçassiez",
+			"qu'il/elle": "fonçât",
+			"qu'ils/elles": "fonçassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse foncé",
+			"que": "vous eussiez foncé",
+			"qu'il/elle": "eût foncé",
+			"qu'ils/elles": "eussent foncé"
+		},
+		"passé": {
+			"j'": "aie foncé",
+			"que": "vous ayez foncé",
+			"qu'il/elle": "ait foncé",
+			"qu'ils/elles": "aient foncé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "foncerais",
+			"tu": "foncerais",
+			"il/elle": "foncerait",
+			"nous": "foncerions",
+			"vous": "fonceriez",
+			"ils/elles": "fonceraient"
+		},
+		"passé première forme": {
+			"j'": "aurais foncé",
+			"tu": "aurais foncé",
+			"il/elle": "aurait foncé",
+			"nous": "aurions foncé",
+			"vous": "auriez foncé",
+			"ils/elles": "auraient foncé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse foncé",
+			"tu": "eusses foncé",
+			"il/elle": "eût foncé",
+			"nous": "eussions foncé",
+			"vous": "eussiez foncé",
+			"ils/elles": "eussent foncé"
+		}
+	},
+	"participe": {
+		"présent": { "fonçant": "" },
+		"passé composé": { "ayant": "foncé" },
+		"passé": {
+			"masc.sg.:": "foncé",
+			"masc.pl.:": "foncés",
+			"fém.sg.:": "foncée",
+			"fém.pl.:": "foncées"
+		}
+	},
+	"imperatif": {
+		"présent": { "fonce": "", "fonçons": "", "foncez": "" },
+		"passé": { "aie": "foncé", "ayons": "foncé", "ayez": "foncé" }
+	},
+	"infinitif": { "présent": { "foncer": "" }, "passé": { "avoir": "foncé" } }
+}

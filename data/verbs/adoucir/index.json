@@ -1,0 +1,140 @@
+{
+	"name": "adoucir",
+	"definition": "soften; smooth; sweeten; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "s'adoucir/ne pas adoucir/ne pas s'adoucir",
+	"indicatif": {
+		"présent": {
+			"j'": "adoucis",
+			"tu": "adoucis",
+			"il/elle": "adoucit",
+			"nous": "adoucissons",
+			"vous": "adoucissez",
+			"ils/elles": "adoucissent"
+		},
+		"imparfait": {
+			"j'": "adoucissais",
+			"tu": "adoucissais",
+			"il/elle": "adoucissait",
+			"nous": "adoucissions",
+			"vous": "adoucissiez",
+			"ils/elles": "adoucissaient"
+		},
+		"futur": {
+			"j'": "adoucirai",
+			"tu": "adouciras",
+			"il/elle": "adoucira",
+			"nous": "adoucirons",
+			"vous": "adoucirez",
+			"ils/elles": "adouciront"
+		},
+		"passé simple": {
+			"j'": "adoucis",
+			"tu": "adoucis",
+			"il/elle": "adoucit",
+			"nous": "adoucîmes",
+			"vous": "adoucîtes",
+			"ils/elles": "adoucirent"
+		},
+		"passé composé": {
+			"j'": "ai adouci",
+			"tu": "as adouci",
+			"il/elle": "a adouci",
+			"nous": "avons adouci",
+			"vous": "avez adouci",
+			"ils/elles": "ont adouci"
+		},
+		"plus-que-parfait": {
+			"j'": "avais adouci",
+			"tu": "avais adouci",
+			"il/elle": "avait adouci",
+			"nous": "avions adouci",
+			"vous": "aviez adouci",
+			"ils/elles": "avaient adouci"
+		},
+		"passé antérieur": {
+			"j'": "eus adouci",
+			"tu": "eus adouci",
+			"il/elle": "eut adouci",
+			"nous": "eûmes adouci",
+			"vous": "eûtes adouci",
+			"ils/elles": "eurent adouci"
+		},
+		"futur antérieur": {
+			"j'": "aurai adouci",
+			"tu": "auras adouci",
+			"il/elle": "aura adouci",
+			"nous": "aurons adouci",
+			"vous": "aurez adouci",
+			"ils/elles": "auront adouci"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "adoucisse",
+			"que": "vous adoucissiez",
+			"qu'il/elle": "adoucisse",
+			"qu'ils/elles": "adoucissent"
+		},
+		"imparfait": {
+			"j'": "adoucisse",
+			"que": "vous adoucissiez",
+			"qu'il/elle": "adoucît",
+			"qu'ils/elles": "adoucissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse adouci",
+			"que": "vous eussiez adouci",
+			"qu'il/elle": "eût adouci",
+			"qu'ils/elles": "eussent adouci"
+		},
+		"passé": {
+			"j'": "aie adouci",
+			"que": "vous ayez adouci",
+			"qu'il/elle": "ait adouci",
+			"qu'ils/elles": "aient adouci"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "adoucirais",
+			"tu": "adoucirais",
+			"il/elle": "adoucirait",
+			"nous": "adoucirions",
+			"vous": "adouciriez",
+			"ils/elles": "adouciraient"
+		},
+		"passé première forme": {
+			"j'": "aurais adouci",
+			"tu": "aurais adouci",
+			"il/elle": "aurait adouci",
+			"nous": "aurions adouci",
+			"vous": "auriez adouci",
+			"ils/elles": "auraient adouci"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse adouci",
+			"tu": "eusses adouci",
+			"il/elle": "eût adouci",
+			"nous": "eussions adouci",
+			"vous": "eussiez adouci",
+			"ils/elles": "eussent adouci"
+		}
+	},
+	"participe": {
+		"présent": { "adoucissant": "" },
+		"passé composé": { "ayant": "adouci" },
+		"passé": {
+			"masc.sg.:": "adouci",
+			"masc.pl.:": "adoucis",
+			"fém.sg.:": "adoucie",
+			"fém.pl.:": "adoucies"
+		}
+	},
+	"imperatif": {
+		"présent": { "adoucis": "", "adoucissons": "", "adoucissez": "" },
+		"passé": { "aie": "adouci", "ayons": "adouci", "ayez": "adouci" }
+	},
+	"infinitif": { "présent": { "adoucir": "" }, "passé": { "avoir": "adouci" } }
+}

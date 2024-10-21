@@ -1,0 +1,194 @@
+{
+	"name": "grossir",
+	"definition": "grow; swell; get fat; ...",
+	"model": "finir",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "se grossir/ne pas grossir/ne pas se grossir",
+	"indicatif": {
+		"présent": {
+			"je": "grossis",
+			"tu": "grossis",
+			"il/elle": "grossit",
+			"nous": "grossissons",
+			"vous": "grossissez",
+			"ils/elles": "grossissent"
+		},
+		"imparfait": {
+			"je": "grossissais",
+			"tu": "grossissais",
+			"il/elle": "grossissait",
+			"nous": "grossissions",
+			"vous": "grossissiez",
+			"ils/elles": "grossissaient"
+		},
+		"futur": {
+			"je": "grossirai",
+			"tu": "grossiras",
+			"il/elle": "grossira",
+			"nous": "grossirons",
+			"vous": "grossirez",
+			"ils/elles": "grossiront"
+		},
+		"passé simple": {
+			"je": "grossis",
+			"tu": "grossis",
+			"il/elle": "grossit",
+			"nous": "grossîmes",
+			"vous": "grossîtes",
+			"ils/elles": "grossirent"
+		},
+		"passé composé": {
+			"j'": "ai grossi",
+			"tu": "es grossi",
+			"il/elle": "a grossi",
+			"nous": "sommes grossis",
+			"vous": "êtes grossis",
+			"ils/elles": "ont grossi",
+			"": "",
+			"je": "suis grossi",
+			"il": "est grossi",
+			"elle": "est grossie",
+			"ils": "sont grossis",
+			"elles": "sont grossies"
+		},
+		"plus-que-parfait": {
+			"j'": "étais grossi",
+			"tu": "étais grossi",
+			"il/elle": "avait grossi",
+			"nous": "étions grossis",
+			"vous": "étiez grossis",
+			"ils/elles": "avaient grossi",
+			"": "",
+			"il": "était grossi",
+			"elle": "était grossie",
+			"ils": "étaient grossis",
+			"elles": "étaient grossies"
+		},
+		"passé antérieur": {
+			"j'": "eus grossi",
+			"tu": "fus grossi",
+			"il/elle": "eut grossi",
+			"nous": "fûmes grossis",
+			"vous": "fûtes grossis",
+			"ils/elles": "eurent grossi",
+			"": "",
+			"je": "fus grossi",
+			"il": "fut grossi",
+			"elle": "fut grossie",
+			"ils": "furent grossis",
+			"elles": "furent grossies"
+		},
+		"futur antérieur": {
+			"j'": "aurai grossi",
+			"tu": "seras grossi",
+			"il/elle": "aura grossi",
+			"nous": "serons grossis",
+			"vous": "serez grossis",
+			"ils/elles": "auront grossi",
+			"": "",
+			"je": "serai grossi",
+			"il": "sera grossi",
+			"elle": "sera grossie",
+			"ils": "seront grossis",
+			"elles": "seront grossies"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous grossissiez",
+			"qu'il/elle": "grossisse",
+			"qu'ils/elles": "grossissent"
+		},
+		"imparfait": {
+			"que": "vous grossissiez",
+			"qu'il/elle": "grossît",
+			"qu'ils/elles": "grossissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse grossi",
+			"que": "vous fussiez grossis",
+			"qu'il/elle": "eût grossi",
+			"qu'ils/elles": "eussent grossi",
+			"": "",
+			"qu'il": "fût grossi",
+			"qu'elle": "fût grossie",
+			"qu'ils": "fussent grossis",
+			"qu'elles": "fussent grossies"
+		},
+		"passé": {
+			"j'": "aie grossi",
+			"que": "vous soyez grossis",
+			"qu'il/elle": "ait grossi",
+			"qu'ils/elles": "aient grossi",
+			"": "",
+			"qu'il": "soit grossi",
+			"qu'elle": "soit grossie",
+			"qu'ils": "soient grossis",
+			"qu'elles": "soient grossies"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "grossirais",
+			"tu": "grossirais",
+			"il/elle": "grossirait",
+			"nous": "grossirions",
+			"vous": "grossiriez",
+			"ils/elles": "grossiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais grossi",
+			"tu": "serais grossi",
+			"il/elle": "aurait grossi",
+			"nous": "serions grossis",
+			"vous": "seriez grossis",
+			"ils/elles": "auraient grossi",
+			"": "",
+			"je": "serais grossi",
+			"il": "serait grossi",
+			"elle": "serait grossie",
+			"ils": "seraient grossis",
+			"elles": "seraient grossies"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse grossi",
+			"tu": "fusses grossi",
+			"il/elle": "eût grossi",
+			"nous": "fussions grossis",
+			"vous": "fussiez grossis",
+			"ils/elles": "eussent grossi",
+			"": "",
+			"je": "fusse grossi",
+			"il": "fût grossi",
+			"elle": "fût grossie",
+			"ils": "fussent grossis",
+			"elles": "fussent grossies"
+		}
+	},
+	"participe": {
+		"présent": { "grossissant": "" },
+		"passé composé": { "ayant": "grossi", "": "", "étant": "grossie" },
+		"passé": {
+			"masc.sg.:": "grossi",
+			"masc.pl.:": "grossis",
+			"fém.sg.:": "grossie",
+			"fém.pl.:": "grossies"
+		}
+	},
+	"imperatif": {
+		"présent": { "grossis": "", "grossissons": "", "grossissez": "" },
+		"passé": {
+			"aie": "grossi",
+			"ayons": "grossi",
+			"ayez": "grossi",
+			"": "",
+			"sois": "grossi",
+			"soyons": "grossi",
+			"soyez": "grossi"
+		}
+	},
+	"infinitif": {
+		"présent": { "grossir": "" },
+		"passé": { "avoir": "grossi", "": "", "être": "grossi" }
+	}
+}

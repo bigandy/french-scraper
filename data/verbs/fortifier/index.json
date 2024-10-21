@@ -1,0 +1,141 @@
+{
+	"name": "fortifier",
+	"definition": "strengthen; fortify; consolidate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se fortifier/ne pas fortifier/ne pas se fortifier",
+	"indicatif": {
+		"présent": {
+			"je": "fortifie",
+			"tu": "fortifies",
+			"il/elle": "fortifie",
+			"nous": "fortifions",
+			"vous": "fortifiez",
+			"ils/elles": "fortifient"
+		},
+		"imparfait": {
+			"je": "fortifiais",
+			"tu": "fortifiais",
+			"il/elle": "fortifiait",
+			"nous": "fortifiions",
+			"vous": "fortifiiez",
+			"ils/elles": "fortifiaient"
+		},
+		"futur": {
+			"je": "fortifierai",
+			"tu": "fortifieras",
+			"il/elle": "fortifiera",
+			"nous": "fortifierons",
+			"vous": "fortifierez",
+			"ils/elles": "fortifieront"
+		},
+		"passé simple": {
+			"je": "fortifiai",
+			"tu": "fortifias",
+			"il/elle": "fortifia",
+			"nous": "fortifiâmes",
+			"vous": "fortifiâtes",
+			"ils/elles": "fortifièrent"
+		},
+		"passé composé": {
+			"j'": "ai fortifié",
+			"tu": "as fortifié",
+			"il/elle": "a fortifié",
+			"nous": "avons fortifié",
+			"vous": "avez fortifié",
+			"ils/elles": "ont fortifié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais fortifié",
+			"tu": "avais fortifié",
+			"il/elle": "avait fortifié",
+			"nous": "avions fortifié",
+			"vous": "aviez fortifié",
+			"ils/elles": "avaient fortifié"
+		},
+		"passé antérieur": {
+			"j'": "eus fortifié",
+			"tu": "eus fortifié",
+			"il/elle": "eut fortifié",
+			"nous": "eûmes fortifié",
+			"vous": "eûtes fortifié",
+			"ils/elles": "eurent fortifié"
+		},
+		"futur antérieur": {
+			"j'": "aurai fortifié",
+			"tu": "auras fortifié",
+			"il/elle": "aura fortifié",
+			"nous": "aurons fortifié",
+			"vous": "aurez fortifié",
+			"ils/elles": "auront fortifié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous fortifiiez",
+			"qu'il/elle": "fortifie",
+			"qu'ils/elles": "fortifient"
+		},
+		"imparfait": {
+			"que": "vous fortifiassiez",
+			"qu'il/elle": "fortifiât",
+			"qu'ils/elles": "fortifiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse fortifié",
+			"que": "vous eussiez fortifié",
+			"qu'il/elle": "eût fortifié",
+			"qu'ils/elles": "eussent fortifié"
+		},
+		"passé": {
+			"j'": "aie fortifié",
+			"que": "vous ayez fortifié",
+			"qu'il/elle": "ait fortifié",
+			"qu'ils/elles": "aient fortifié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "fortifierais",
+			"tu": "fortifierais",
+			"il/elle": "fortifierait",
+			"nous": "fortifierions",
+			"vous": "fortifieriez",
+			"ils/elles": "fortifieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais fortifié",
+			"tu": "aurais fortifié",
+			"il/elle": "aurait fortifié",
+			"nous": "aurions fortifié",
+			"vous": "auriez fortifié",
+			"ils/elles": "auraient fortifié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse fortifié",
+			"tu": "eusses fortifié",
+			"il/elle": "eût fortifié",
+			"nous": "eussions fortifié",
+			"vous": "eussiez fortifié",
+			"ils/elles": "eussent fortifié"
+		}
+	},
+	"participe": {
+		"présent": { "fortifiant": "" },
+		"passé composé": { "ayant": "fortifié" },
+		"passé": {
+			"masc.sg.:": "fortifié",
+			"masc.pl.:": "fortifiés",
+			"fém.sg.:": "fortifiée",
+			"fém.pl.:": "fortifiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "fortifie": "", "fortifions": "", "fortifiez": "" },
+		"passé": { "aie": "fortifié", "ayons": "fortifié", "ayez": "fortifié" }
+	},
+	"infinitif": {
+		"présent": { "fortifier": "" },
+		"passé": { "avoir": "fortifié" }
+	}
+}

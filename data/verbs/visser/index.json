@@ -1,0 +1,138 @@
+{
+	"name": "visser",
+	"definition": "screw; thread; be screwed; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se visser/ne pas visser/ne pas se visser",
+	"indicatif": {
+		"présent": {
+			"je": "visse",
+			"tu": "visses",
+			"il/elle": "visse",
+			"nous": "vissons",
+			"vous": "vissez",
+			"ils/elles": "vissent"
+		},
+		"imparfait": {
+			"je": "vissais",
+			"tu": "vissais",
+			"il/elle": "vissait",
+			"nous": "vissions",
+			"vous": "vissiez",
+			"ils/elles": "vissaient"
+		},
+		"futur": {
+			"je": "visserai",
+			"tu": "visseras",
+			"il/elle": "vissera",
+			"nous": "visserons",
+			"vous": "visserez",
+			"ils/elles": "visseront"
+		},
+		"passé simple": {
+			"je": "vissai",
+			"tu": "vissas",
+			"il/elle": "vissa",
+			"nous": "vissâmes",
+			"vous": "vissâtes",
+			"ils/elles": "vissèrent"
+		},
+		"passé composé": {
+			"j'": "ai vissé",
+			"tu": "as vissé",
+			"il/elle": "a vissé",
+			"nous": "avons vissé",
+			"vous": "avez vissé",
+			"ils/elles": "ont vissé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais vissé",
+			"tu": "avais vissé",
+			"il/elle": "avait vissé",
+			"nous": "avions vissé",
+			"vous": "aviez vissé",
+			"ils/elles": "avaient vissé"
+		},
+		"passé antérieur": {
+			"j'": "eus vissé",
+			"tu": "eus vissé",
+			"il/elle": "eut vissé",
+			"nous": "eûmes vissé",
+			"vous": "eûtes vissé",
+			"ils/elles": "eurent vissé"
+		},
+		"futur antérieur": {
+			"j'": "aurai vissé",
+			"tu": "auras vissé",
+			"il/elle": "aura vissé",
+			"nous": "aurons vissé",
+			"vous": "aurez vissé",
+			"ils/elles": "auront vissé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous vissiez",
+			"qu'il/elle": "visse",
+			"qu'ils/elles": "vissent"
+		},
+		"imparfait": {
+			"que": "vous vissassiez",
+			"qu'il/elle": "vissât",
+			"qu'ils/elles": "vissassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse vissé",
+			"que": "vous eussiez vissé",
+			"qu'il/elle": "eût vissé",
+			"qu'ils/elles": "eussent vissé"
+		},
+		"passé": {
+			"j'": "aie vissé",
+			"que": "vous ayez vissé",
+			"qu'il/elle": "ait vissé",
+			"qu'ils/elles": "aient vissé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "visserais",
+			"tu": "visserais",
+			"il/elle": "visserait",
+			"nous": "visserions",
+			"vous": "visseriez",
+			"ils/elles": "visseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais vissé",
+			"tu": "aurais vissé",
+			"il/elle": "aurait vissé",
+			"nous": "aurions vissé",
+			"vous": "auriez vissé",
+			"ils/elles": "auraient vissé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse vissé",
+			"tu": "eusses vissé",
+			"il/elle": "eût vissé",
+			"nous": "eussions vissé",
+			"vous": "eussiez vissé",
+			"ils/elles": "eussent vissé"
+		}
+	},
+	"participe": {
+		"présent": { "vissant": "" },
+		"passé composé": { "ayant": "vissé" },
+		"passé": {
+			"masc.sg.:": "vissé",
+			"masc.pl.:": "vissés",
+			"fém.sg.:": "vissée",
+			"fém.pl.:": "vissées"
+		}
+	},
+	"imperatif": {
+		"présent": { "visse": "", "vissons": "", "vissez": "" },
+		"passé": { "aie": "vissé", "ayons": "vissé", "ayez": "vissé" }
+	},
+	"infinitif": { "présent": { "visser": "" }, "passé": { "avoir": "vissé" } }
+}

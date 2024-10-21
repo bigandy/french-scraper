@@ -1,0 +1,140 @@
+{
+	"name": "enfiler",
+	"definition": "put on; thread; don; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'enfiler/ne pas enfiler/ne pas s'enfiler",
+	"indicatif": {
+		"présent": {
+			"j'": "enfile",
+			"tu": "enfiles",
+			"il/elle": "enfile",
+			"nous": "enfilons",
+			"vous": "enfilez",
+			"ils/elles": "enfilent"
+		},
+		"imparfait": {
+			"j'": "enfilais",
+			"tu": "enfilais",
+			"il/elle": "enfilait",
+			"nous": "enfilions",
+			"vous": "enfiliez",
+			"ils/elles": "enfilaient"
+		},
+		"futur": {
+			"j'": "enfilerai",
+			"tu": "enfileras",
+			"il/elle": "enfilera",
+			"nous": "enfilerons",
+			"vous": "enfilerez",
+			"ils/elles": "enfileront"
+		},
+		"passé simple": {
+			"j'": "enfilai",
+			"tu": "enfilas",
+			"il/elle": "enfila",
+			"nous": "enfilâmes",
+			"vous": "enfilâtes",
+			"ils/elles": "enfilèrent"
+		},
+		"passé composé": {
+			"j'": "ai enfilé",
+			"tu": "as enfilé",
+			"il/elle": "a enfilé",
+			"nous": "avons enfilé",
+			"vous": "avez enfilé",
+			"ils/elles": "ont enfilé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais enfilé",
+			"tu": "avais enfilé",
+			"il/elle": "avait enfilé",
+			"nous": "avions enfilé",
+			"vous": "aviez enfilé",
+			"ils/elles": "avaient enfilé"
+		},
+		"passé antérieur": {
+			"j'": "eus enfilé",
+			"tu": "eus enfilé",
+			"il/elle": "eut enfilé",
+			"nous": "eûmes enfilé",
+			"vous": "eûtes enfilé",
+			"ils/elles": "eurent enfilé"
+		},
+		"futur antérieur": {
+			"j'": "aurai enfilé",
+			"tu": "auras enfilé",
+			"il/elle": "aura enfilé",
+			"nous": "aurons enfilé",
+			"vous": "aurez enfilé",
+			"ils/elles": "auront enfilé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "enfile",
+			"que": "vous enfiliez",
+			"qu'il/elle": "enfile",
+			"qu'ils/elles": "enfilent"
+		},
+		"imparfait": {
+			"j'": "enfilasse",
+			"que": "vous enfilassiez",
+			"qu'il/elle": "enfilât",
+			"qu'ils/elles": "enfilassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse enfilé",
+			"que": "vous eussiez enfilé",
+			"qu'il/elle": "eût enfilé",
+			"qu'ils/elles": "eussent enfilé"
+		},
+		"passé": {
+			"j'": "aie enfilé",
+			"que": "vous ayez enfilé",
+			"qu'il/elle": "ait enfilé",
+			"qu'ils/elles": "aient enfilé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "enfilerais",
+			"tu": "enfilerais",
+			"il/elle": "enfilerait",
+			"nous": "enfilerions",
+			"vous": "enfileriez",
+			"ils/elles": "enfileraient"
+		},
+		"passé première forme": {
+			"j'": "aurais enfilé",
+			"tu": "aurais enfilé",
+			"il/elle": "aurait enfilé",
+			"nous": "aurions enfilé",
+			"vous": "auriez enfilé",
+			"ils/elles": "auraient enfilé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse enfilé",
+			"tu": "eusses enfilé",
+			"il/elle": "eût enfilé",
+			"nous": "eussions enfilé",
+			"vous": "eussiez enfilé",
+			"ils/elles": "eussent enfilé"
+		}
+	},
+	"participe": {
+		"présent": { "enfilant": "" },
+		"passé composé": { "ayant": "enfilé" },
+		"passé": {
+			"masc.sg.:": "enfilé",
+			"masc.pl.:": "enfilés",
+			"fém.sg.:": "enfilée",
+			"fém.pl.:": "enfilées"
+		}
+	},
+	"imperatif": {
+		"présent": { "enfile": "", "enfilons": "", "enfilez": "" },
+		"passé": { "aie": "enfilé", "ayons": "enfilé", "ayez": "enfilé" }
+	},
+	"infinitif": { "présent": { "enfiler": "" }, "passé": { "avoir": "enfilé" } }
+}

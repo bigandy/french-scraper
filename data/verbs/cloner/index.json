@@ -1,0 +1,138 @@
+{
+	"name": "cloner",
+	"definition": "clone; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se cloner/ne pas cloner/ne pas se cloner",
+	"indicatif": {
+		"présent": {
+			"je": "clone",
+			"tu": "clones",
+			"il/elle": "clone",
+			"nous": "clonons",
+			"vous": "clonez",
+			"ils/elles": "clonent"
+		},
+		"imparfait": {
+			"je": "clonais",
+			"tu": "clonais",
+			"il/elle": "clonait",
+			"nous": "clonions",
+			"vous": "cloniez",
+			"ils/elles": "clonaient"
+		},
+		"futur": {
+			"je": "clonerai",
+			"tu": "cloneras",
+			"il/elle": "clonera",
+			"nous": "clonerons",
+			"vous": "clonerez",
+			"ils/elles": "cloneront"
+		},
+		"passé simple": {
+			"je": "clonai",
+			"tu": "clonas",
+			"il/elle": "clona",
+			"nous": "clonâmes",
+			"vous": "clonâtes",
+			"ils/elles": "clonèrent"
+		},
+		"passé composé": {
+			"j'": "ai cloné",
+			"tu": "as cloné",
+			"il/elle": "a cloné",
+			"nous": "avons cloné",
+			"vous": "avez cloné",
+			"ils/elles": "ont cloné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais cloné",
+			"tu": "avais cloné",
+			"il/elle": "avait cloné",
+			"nous": "avions cloné",
+			"vous": "aviez cloné",
+			"ils/elles": "avaient cloné"
+		},
+		"passé antérieur": {
+			"j'": "eus cloné",
+			"tu": "eus cloné",
+			"il/elle": "eut cloné",
+			"nous": "eûmes cloné",
+			"vous": "eûtes cloné",
+			"ils/elles": "eurent cloné"
+		},
+		"futur antérieur": {
+			"j'": "aurai cloné",
+			"tu": "auras cloné",
+			"il/elle": "aura cloné",
+			"nous": "aurons cloné",
+			"vous": "aurez cloné",
+			"ils/elles": "auront cloné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous cloniez",
+			"qu'il/elle": "clone",
+			"qu'ils/elles": "clonent"
+		},
+		"imparfait": {
+			"que": "vous clonassiez",
+			"qu'il/elle": "clonât",
+			"qu'ils/elles": "clonassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse cloné",
+			"que": "vous eussiez cloné",
+			"qu'il/elle": "eût cloné",
+			"qu'ils/elles": "eussent cloné"
+		},
+		"passé": {
+			"j'": "aie cloné",
+			"que": "vous ayez cloné",
+			"qu'il/elle": "ait cloné",
+			"qu'ils/elles": "aient cloné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "clonerais",
+			"tu": "clonerais",
+			"il/elle": "clonerait",
+			"nous": "clonerions",
+			"vous": "cloneriez",
+			"ils/elles": "cloneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais cloné",
+			"tu": "aurais cloné",
+			"il/elle": "aurait cloné",
+			"nous": "aurions cloné",
+			"vous": "auriez cloné",
+			"ils/elles": "auraient cloné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse cloné",
+			"tu": "eusses cloné",
+			"il/elle": "eût cloné",
+			"nous": "eussions cloné",
+			"vous": "eussiez cloné",
+			"ils/elles": "eussent cloné"
+		}
+	},
+	"participe": {
+		"présent": { "clonant": "" },
+		"passé composé": { "ayant": "cloné" },
+		"passé": {
+			"masc.sg.:": "cloné",
+			"masc.pl.:": "clonés",
+			"fém.sg.:": "clonée",
+			"fém.pl.:": "clonées"
+		}
+	},
+	"imperatif": {
+		"présent": { "clone": "", "clonons": "", "clonez": "" },
+		"passé": { "aie": "cloné", "ayons": "cloné", "ayez": "cloné" }
+	},
+	"infinitif": { "présent": { "cloner": "" }, "passé": { "avoir": "cloné" } }
+}

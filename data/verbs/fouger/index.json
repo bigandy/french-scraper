@@ -1,0 +1,138 @@
+{
+	"name": "fouger",
+	"definition": "",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas fouger",
+	"indicatif": {
+		"présent": {
+			"je": "fouge",
+			"tu": "fouges",
+			"il/elle": "fouge",
+			"nous": "fougeons",
+			"vous": "fougez",
+			"ils/elles": "fougent"
+		},
+		"imparfait": {
+			"je": "fougeais",
+			"tu": "fougeais",
+			"il/elle": "fougeait",
+			"nous": "fougions",
+			"vous": "fougiez",
+			"ils/elles": "fougeaient"
+		},
+		"futur": {
+			"je": "fougerai",
+			"tu": "fougeras",
+			"il/elle": "fougera",
+			"nous": "fougerons",
+			"vous": "fougerez",
+			"ils/elles": "fougeront"
+		},
+		"passé simple": {
+			"je": "fougeai",
+			"tu": "fougeas",
+			"il/elle": "fougea",
+			"nous": "fougeâmes",
+			"vous": "fougeâtes",
+			"ils/elles": "fougèrent"
+		},
+		"passé composé": {
+			"j'": "ai fougé",
+			"tu": "as fougé",
+			"il/elle": "a fougé",
+			"nous": "avons fougé",
+			"vous": "avez fougé",
+			"ils/elles": "ont fougé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais fougé",
+			"tu": "avais fougé",
+			"il/elle": "avait fougé",
+			"nous": "avions fougé",
+			"vous": "aviez fougé",
+			"ils/elles": "avaient fougé"
+		},
+		"passé antérieur": {
+			"j'": "eus fougé",
+			"tu": "eus fougé",
+			"il/elle": "eut fougé",
+			"nous": "eûmes fougé",
+			"vous": "eûtes fougé",
+			"ils/elles": "eurent fougé"
+		},
+		"futur antérieur": {
+			"j'": "aurai fougé",
+			"tu": "auras fougé",
+			"il/elle": "aura fougé",
+			"nous": "aurons fougé",
+			"vous": "aurez fougé",
+			"ils/elles": "auront fougé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous fougiez",
+			"qu'il/elle": "fouge",
+			"qu'ils/elles": "fougent"
+		},
+		"imparfait": {
+			"que": "vous fougeassiez",
+			"qu'il/elle": "fougeât",
+			"qu'ils/elles": "fougeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse fougé",
+			"que": "vous eussiez fougé",
+			"qu'il/elle": "eût fougé",
+			"qu'ils/elles": "eussent fougé"
+		},
+		"passé": {
+			"j'": "aie fougé",
+			"que": "vous ayez fougé",
+			"qu'il/elle": "ait fougé",
+			"qu'ils/elles": "aient fougé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "fougerais",
+			"tu": "fougerais",
+			"il/elle": "fougerait",
+			"nous": "fougerions",
+			"vous": "fougeriez",
+			"ils/elles": "fougeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais fougé",
+			"tu": "aurais fougé",
+			"il/elle": "aurait fougé",
+			"nous": "aurions fougé",
+			"vous": "auriez fougé",
+			"ils/elles": "auraient fougé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse fougé",
+			"tu": "eusses fougé",
+			"il/elle": "eût fougé",
+			"nous": "eussions fougé",
+			"vous": "eussiez fougé",
+			"ils/elles": "eussent fougé"
+		}
+	},
+	"participe": {
+		"présent": { "fougeant": "" },
+		"passé composé": { "ayant": "fougé" },
+		"passé": {
+			"masc.sg.:": "fougé",
+			"masc.pl.:": "fougés",
+			"fém.sg.:": "fougée",
+			"fém.pl.:": "fougées"
+		}
+	},
+	"imperatif": {
+		"présent": { "fouge": "", "fougeons": "", "fougez": "" },
+		"passé": { "aie": "fougé", "ayons": "fougé", "ayez": "fougé" }
+	},
+	"infinitif": { "présent": { "fouger": "" }, "passé": { "avoir": "fougé" } }
+}

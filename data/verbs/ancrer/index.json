@@ -1,0 +1,140 @@
+{
+	"name": "ancrer",
+	"definition": "anchor; embed; entrench; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'ancrer/ne pas ancrer/ne pas s'ancrer",
+	"indicatif": {
+		"présent": {
+			"j'": "ancre",
+			"tu": "ancres",
+			"il/elle": "ancre",
+			"nous": "ancrons",
+			"vous": "ancrez",
+			"ils/elles": "ancrent"
+		},
+		"imparfait": {
+			"j'": "ancrais",
+			"tu": "ancrais",
+			"il/elle": "ancrait",
+			"nous": "ancrions",
+			"vous": "ancriez",
+			"ils/elles": "ancraient"
+		},
+		"futur": {
+			"j'": "ancrerai",
+			"tu": "ancreras",
+			"il/elle": "ancrera",
+			"nous": "ancrerons",
+			"vous": "ancrerez",
+			"ils/elles": "ancreront"
+		},
+		"passé simple": {
+			"j'": "ancrai",
+			"tu": "ancras",
+			"il/elle": "ancra",
+			"nous": "ancrâmes",
+			"vous": "ancrâtes",
+			"ils/elles": "ancrèrent"
+		},
+		"passé composé": {
+			"j'": "ai ancré",
+			"tu": "as ancré",
+			"il/elle": "a ancré",
+			"nous": "avons ancré",
+			"vous": "avez ancré",
+			"ils/elles": "ont ancré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais ancré",
+			"tu": "avais ancré",
+			"il/elle": "avait ancré",
+			"nous": "avions ancré",
+			"vous": "aviez ancré",
+			"ils/elles": "avaient ancré"
+		},
+		"passé antérieur": {
+			"j'": "eus ancré",
+			"tu": "eus ancré",
+			"il/elle": "eut ancré",
+			"nous": "eûmes ancré",
+			"vous": "eûtes ancré",
+			"ils/elles": "eurent ancré"
+		},
+		"futur antérieur": {
+			"j'": "aurai ancré",
+			"tu": "auras ancré",
+			"il/elle": "aura ancré",
+			"nous": "aurons ancré",
+			"vous": "aurez ancré",
+			"ils/elles": "auront ancré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "ancre",
+			"que": "vous ancriez",
+			"qu'il/elle": "ancre",
+			"qu'ils/elles": "ancrent"
+		},
+		"imparfait": {
+			"j'": "ancrasse",
+			"que": "vous ancrassiez",
+			"qu'il/elle": "ancrât",
+			"qu'ils/elles": "ancrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse ancré",
+			"que": "vous eussiez ancré",
+			"qu'il/elle": "eût ancré",
+			"qu'ils/elles": "eussent ancré"
+		},
+		"passé": {
+			"j'": "aie ancré",
+			"que": "vous ayez ancré",
+			"qu'il/elle": "ait ancré",
+			"qu'ils/elles": "aient ancré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "ancrerais",
+			"tu": "ancrerais",
+			"il/elle": "ancrerait",
+			"nous": "ancrerions",
+			"vous": "ancreriez",
+			"ils/elles": "ancreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais ancré",
+			"tu": "aurais ancré",
+			"il/elle": "aurait ancré",
+			"nous": "aurions ancré",
+			"vous": "auriez ancré",
+			"ils/elles": "auraient ancré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse ancré",
+			"tu": "eusses ancré",
+			"il/elle": "eût ancré",
+			"nous": "eussions ancré",
+			"vous": "eussiez ancré",
+			"ils/elles": "eussent ancré"
+		}
+	},
+	"participe": {
+		"présent": { "ancrant": "" },
+		"passé composé": { "ayant": "ancré" },
+		"passé": {
+			"masc.sg.:": "ancré",
+			"masc.pl.:": "ancrés",
+			"fém.sg.:": "ancrée",
+			"fém.pl.:": "ancrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "ancre": "", "ancrons": "", "ancrez": "" },
+		"passé": { "aie": "ancré", "ayons": "ancré", "ayez": "ancré" }
+	},
+	"infinitif": { "présent": { "ancrer": "" }, "passé": { "avoir": "ancré" } }
+}

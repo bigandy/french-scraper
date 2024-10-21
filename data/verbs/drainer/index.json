@@ -1,0 +1,138 @@
+{
+	"name": "drainer",
+	"definition": "drain; attract; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se drainer/ne pas drainer/ne pas se drainer",
+	"indicatif": {
+		"présent": {
+			"je": "draine",
+			"tu": "draines",
+			"il/elle": "draine",
+			"nous": "drainons",
+			"vous": "drainez",
+			"ils/elles": "drainent"
+		},
+		"imparfait": {
+			"je": "drainais",
+			"tu": "drainais",
+			"il/elle": "drainait",
+			"nous": "drainions",
+			"vous": "drainiez",
+			"ils/elles": "drainaient"
+		},
+		"futur": {
+			"je": "drainerai",
+			"tu": "draineras",
+			"il/elle": "drainera",
+			"nous": "drainerons",
+			"vous": "drainerez",
+			"ils/elles": "draineront"
+		},
+		"passé simple": {
+			"je": "drainai",
+			"tu": "drainas",
+			"il/elle": "draina",
+			"nous": "drainâmes",
+			"vous": "drainâtes",
+			"ils/elles": "drainèrent"
+		},
+		"passé composé": {
+			"j'": "ai drainé",
+			"tu": "as drainé",
+			"il/elle": "a drainé",
+			"nous": "avons drainé",
+			"vous": "avez drainé",
+			"ils/elles": "ont drainé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais drainé",
+			"tu": "avais drainé",
+			"il/elle": "avait drainé",
+			"nous": "avions drainé",
+			"vous": "aviez drainé",
+			"ils/elles": "avaient drainé"
+		},
+		"passé antérieur": {
+			"j'": "eus drainé",
+			"tu": "eus drainé",
+			"il/elle": "eut drainé",
+			"nous": "eûmes drainé",
+			"vous": "eûtes drainé",
+			"ils/elles": "eurent drainé"
+		},
+		"futur antérieur": {
+			"j'": "aurai drainé",
+			"tu": "auras drainé",
+			"il/elle": "aura drainé",
+			"nous": "aurons drainé",
+			"vous": "aurez drainé",
+			"ils/elles": "auront drainé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous drainiez",
+			"qu'il/elle": "draine",
+			"qu'ils/elles": "drainent"
+		},
+		"imparfait": {
+			"que": "vous drainassiez",
+			"qu'il/elle": "drainât",
+			"qu'ils/elles": "drainassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse drainé",
+			"que": "vous eussiez drainé",
+			"qu'il/elle": "eût drainé",
+			"qu'ils/elles": "eussent drainé"
+		},
+		"passé": {
+			"j'": "aie drainé",
+			"que": "vous ayez drainé",
+			"qu'il/elle": "ait drainé",
+			"qu'ils/elles": "aient drainé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "drainerais",
+			"tu": "drainerais",
+			"il/elle": "drainerait",
+			"nous": "drainerions",
+			"vous": "draineriez",
+			"ils/elles": "draineraient"
+		},
+		"passé première forme": {
+			"j'": "aurais drainé",
+			"tu": "aurais drainé",
+			"il/elle": "aurait drainé",
+			"nous": "aurions drainé",
+			"vous": "auriez drainé",
+			"ils/elles": "auraient drainé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse drainé",
+			"tu": "eusses drainé",
+			"il/elle": "eût drainé",
+			"nous": "eussions drainé",
+			"vous": "eussiez drainé",
+			"ils/elles": "eussent drainé"
+		}
+	},
+	"participe": {
+		"présent": { "drainant": "" },
+		"passé composé": { "ayant": "drainé" },
+		"passé": {
+			"masc.sg.:": "drainé",
+			"masc.pl.:": "drainés",
+			"fém.sg.:": "drainée",
+			"fém.pl.:": "drainées"
+		}
+	},
+	"imperatif": {
+		"présent": { "draine": "", "drainons": "", "drainez": "" },
+		"passé": { "aie": "drainé", "ayons": "drainé", "ayez": "drainé" }
+	},
+	"infinitif": { "présent": { "drainer": "" }, "passé": { "avoir": "drainé" } }
+}

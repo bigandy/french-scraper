@@ -1,0 +1,141 @@
+{
+	"name": "renfermer",
+	"definition": "contain; include; enclose; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se renfermer/ne pas renfermer/ne pas se renfermer",
+	"indicatif": {
+		"présent": {
+			"je": "renferme",
+			"tu": "renfermes",
+			"il/elle": "renferme",
+			"nous": "renfermons",
+			"vous": "renfermez",
+			"ils/elles": "renferment"
+		},
+		"imparfait": {
+			"je": "renfermais",
+			"tu": "renfermais",
+			"il/elle": "renfermait",
+			"nous": "renfermions",
+			"vous": "renfermiez",
+			"ils/elles": "renfermaient"
+		},
+		"futur": {
+			"je": "renfermerai",
+			"tu": "renfermeras",
+			"il/elle": "renfermera",
+			"nous": "renfermerons",
+			"vous": "renfermerez",
+			"ils/elles": "renfermeront"
+		},
+		"passé simple": {
+			"je": "renfermai",
+			"tu": "renfermas",
+			"il/elle": "renferma",
+			"nous": "renfermâmes",
+			"vous": "renfermâtes",
+			"ils/elles": "renfermèrent"
+		},
+		"passé composé": {
+			"j'": "ai renfermé",
+			"tu": "as renfermé",
+			"il/elle": "a renfermé",
+			"nous": "avons renfermé",
+			"vous": "avez renfermé",
+			"ils/elles": "ont renfermé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais renfermé",
+			"tu": "avais renfermé",
+			"il/elle": "avait renfermé",
+			"nous": "avions renfermé",
+			"vous": "aviez renfermé",
+			"ils/elles": "avaient renfermé"
+		},
+		"passé antérieur": {
+			"j'": "eus renfermé",
+			"tu": "eus renfermé",
+			"il/elle": "eut renfermé",
+			"nous": "eûmes renfermé",
+			"vous": "eûtes renfermé",
+			"ils/elles": "eurent renfermé"
+		},
+		"futur antérieur": {
+			"j'": "aurai renfermé",
+			"tu": "auras renfermé",
+			"il/elle": "aura renfermé",
+			"nous": "aurons renfermé",
+			"vous": "aurez renfermé",
+			"ils/elles": "auront renfermé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous renfermiez",
+			"qu'il/elle": "renferme",
+			"qu'ils/elles": "renferment"
+		},
+		"imparfait": {
+			"que": "vous renfermassiez",
+			"qu'il/elle": "renfermât",
+			"qu'ils/elles": "renfermassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse renfermé",
+			"que": "vous eussiez renfermé",
+			"qu'il/elle": "eût renfermé",
+			"qu'ils/elles": "eussent renfermé"
+		},
+		"passé": {
+			"j'": "aie renfermé",
+			"que": "vous ayez renfermé",
+			"qu'il/elle": "ait renfermé",
+			"qu'ils/elles": "aient renfermé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "renfermerais",
+			"tu": "renfermerais",
+			"il/elle": "renfermerait",
+			"nous": "renfermerions",
+			"vous": "renfermeriez",
+			"ils/elles": "renfermeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais renfermé",
+			"tu": "aurais renfermé",
+			"il/elle": "aurait renfermé",
+			"nous": "aurions renfermé",
+			"vous": "auriez renfermé",
+			"ils/elles": "auraient renfermé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse renfermé",
+			"tu": "eusses renfermé",
+			"il/elle": "eût renfermé",
+			"nous": "eussions renfermé",
+			"vous": "eussiez renfermé",
+			"ils/elles": "eussent renfermé"
+		}
+	},
+	"participe": {
+		"présent": { "renfermant": "" },
+		"passé composé": { "ayant": "renfermé" },
+		"passé": {
+			"masc.sg.:": "renfermé",
+			"masc.pl.:": "renfermés",
+			"fém.sg.:": "renfermée",
+			"fém.pl.:": "renfermées"
+		}
+	},
+	"imperatif": {
+		"présent": { "renferme": "", "renfermons": "", "renfermez": "" },
+		"passé": { "aie": "renfermé", "ayons": "renfermé", "ayez": "renfermé" }
+	},
+	"infinitif": {
+		"présent": { "renfermer": "" },
+		"passé": { "avoir": "renfermé" }
+	}
+}

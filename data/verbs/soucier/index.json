@@ -1,0 +1,138 @@
+{
+	"name": "soucier",
+	"definition": "worry about; care; concern; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se soucier/ne pas soucier/ne pas se soucier",
+	"indicatif": {
+		"présent": {
+			"je": "soucie",
+			"tu": "soucies",
+			"il/elle": "soucie",
+			"nous": "soucions",
+			"vous": "souciez",
+			"ils/elles": "soucient"
+		},
+		"imparfait": {
+			"je": "souciais",
+			"tu": "souciais",
+			"il/elle": "souciait",
+			"nous": "souciions",
+			"vous": "souciiez",
+			"ils/elles": "souciaient"
+		},
+		"futur": {
+			"je": "soucierai",
+			"tu": "soucieras",
+			"il/elle": "souciera",
+			"nous": "soucierons",
+			"vous": "soucierez",
+			"ils/elles": "soucieront"
+		},
+		"passé simple": {
+			"je": "souciai",
+			"tu": "soucias",
+			"il/elle": "soucia",
+			"nous": "souciâmes",
+			"vous": "souciâtes",
+			"ils/elles": "soucièrent"
+		},
+		"passé composé": {
+			"j'": "ai soucié",
+			"tu": "as soucié",
+			"il/elle": "a soucié",
+			"nous": "avons soucié",
+			"vous": "avez soucié",
+			"ils/elles": "ont soucié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais soucié",
+			"tu": "avais soucié",
+			"il/elle": "avait soucié",
+			"nous": "avions soucié",
+			"vous": "aviez soucié",
+			"ils/elles": "avaient soucié"
+		},
+		"passé antérieur": {
+			"j'": "eus soucié",
+			"tu": "eus soucié",
+			"il/elle": "eut soucié",
+			"nous": "eûmes soucié",
+			"vous": "eûtes soucié",
+			"ils/elles": "eurent soucié"
+		},
+		"futur antérieur": {
+			"j'": "aurai soucié",
+			"tu": "auras soucié",
+			"il/elle": "aura soucié",
+			"nous": "aurons soucié",
+			"vous": "aurez soucié",
+			"ils/elles": "auront soucié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous souciiez",
+			"qu'il/elle": "soucie",
+			"qu'ils/elles": "soucient"
+		},
+		"imparfait": {
+			"que": "vous souciassiez",
+			"qu'il/elle": "souciât",
+			"qu'ils/elles": "souciassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse soucié",
+			"que": "vous eussiez soucié",
+			"qu'il/elle": "eût soucié",
+			"qu'ils/elles": "eussent soucié"
+		},
+		"passé": {
+			"j'": "aie soucié",
+			"que": "vous ayez soucié",
+			"qu'il/elle": "ait soucié",
+			"qu'ils/elles": "aient soucié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "soucierais",
+			"tu": "soucierais",
+			"il/elle": "soucierait",
+			"nous": "soucierions",
+			"vous": "soucieriez",
+			"ils/elles": "soucieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais soucié",
+			"tu": "aurais soucié",
+			"il/elle": "aurait soucié",
+			"nous": "aurions soucié",
+			"vous": "auriez soucié",
+			"ils/elles": "auraient soucié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse soucié",
+			"tu": "eusses soucié",
+			"il/elle": "eût soucié",
+			"nous": "eussions soucié",
+			"vous": "eussiez soucié",
+			"ils/elles": "eussent soucié"
+		}
+	},
+	"participe": {
+		"présent": { "souciant": "" },
+		"passé composé": { "ayant": "soucié" },
+		"passé": {
+			"masc.sg.:": "soucié",
+			"masc.pl.:": "souciés",
+			"fém.sg.:": "souciée",
+			"fém.pl.:": "souciées"
+		}
+	},
+	"imperatif": {
+		"présent": { "soucie": "", "soucions": "", "souciez": "" },
+		"passé": { "aie": "soucié", "ayons": "soucié", "ayez": "soucié" }
+	},
+	"infinitif": { "présent": { "soucier": "" }, "passé": { "avoir": "soucié" } }
+}

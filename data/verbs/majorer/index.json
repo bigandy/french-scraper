@@ -1,0 +1,138 @@
+{
+	"name": "majorer",
+	"definition": "increase; mark up; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se majorer/ne pas majorer/ne pas se majorer",
+	"indicatif": {
+		"présent": {
+			"je": "majore",
+			"tu": "majores",
+			"il/elle": "majore",
+			"nous": "majorons",
+			"vous": "majorez",
+			"ils/elles": "majorent"
+		},
+		"imparfait": {
+			"je": "majorais",
+			"tu": "majorais",
+			"il/elle": "majorait",
+			"nous": "majorions",
+			"vous": "majoriez",
+			"ils/elles": "majoraient"
+		},
+		"futur": {
+			"je": "majorerai",
+			"tu": "majoreras",
+			"il/elle": "majorera",
+			"nous": "majorerons",
+			"vous": "majorerez",
+			"ils/elles": "majoreront"
+		},
+		"passé simple": {
+			"je": "majorai",
+			"tu": "majoras",
+			"il/elle": "majora",
+			"nous": "majorâmes",
+			"vous": "majorâtes",
+			"ils/elles": "majorèrent"
+		},
+		"passé composé": {
+			"j'": "ai majoré",
+			"tu": "as majoré",
+			"il/elle": "a majoré",
+			"nous": "avons majoré",
+			"vous": "avez majoré",
+			"ils/elles": "ont majoré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais majoré",
+			"tu": "avais majoré",
+			"il/elle": "avait majoré",
+			"nous": "avions majoré",
+			"vous": "aviez majoré",
+			"ils/elles": "avaient majoré"
+		},
+		"passé antérieur": {
+			"j'": "eus majoré",
+			"tu": "eus majoré",
+			"il/elle": "eut majoré",
+			"nous": "eûmes majoré",
+			"vous": "eûtes majoré",
+			"ils/elles": "eurent majoré"
+		},
+		"futur antérieur": {
+			"j'": "aurai majoré",
+			"tu": "auras majoré",
+			"il/elle": "aura majoré",
+			"nous": "aurons majoré",
+			"vous": "aurez majoré",
+			"ils/elles": "auront majoré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous majoriez",
+			"qu'il/elle": "majore",
+			"qu'ils/elles": "majorent"
+		},
+		"imparfait": {
+			"que": "vous majorassiez",
+			"qu'il/elle": "majorât",
+			"qu'ils/elles": "majorassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse majoré",
+			"que": "vous eussiez majoré",
+			"qu'il/elle": "eût majoré",
+			"qu'ils/elles": "eussent majoré"
+		},
+		"passé": {
+			"j'": "aie majoré",
+			"que": "vous ayez majoré",
+			"qu'il/elle": "ait majoré",
+			"qu'ils/elles": "aient majoré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "majorerais",
+			"tu": "majorerais",
+			"il/elle": "majorerait",
+			"nous": "majorerions",
+			"vous": "majoreriez",
+			"ils/elles": "majoreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais majoré",
+			"tu": "aurais majoré",
+			"il/elle": "aurait majoré",
+			"nous": "aurions majoré",
+			"vous": "auriez majoré",
+			"ils/elles": "auraient majoré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse majoré",
+			"tu": "eusses majoré",
+			"il/elle": "eût majoré",
+			"nous": "eussions majoré",
+			"vous": "eussiez majoré",
+			"ils/elles": "eussent majoré"
+		}
+	},
+	"participe": {
+		"présent": { "majorant": "" },
+		"passé composé": { "ayant": "majoré" },
+		"passé": {
+			"masc.sg.:": "majoré",
+			"masc.pl.:": "majorés",
+			"fém.sg.:": "majorée",
+			"fém.pl.:": "majorées"
+		}
+	},
+	"imperatif": {
+		"présent": { "majore": "", "majorons": "", "majorez": "" },
+		"passé": { "aie": "majoré", "ayons": "majoré", "ayez": "majoré" }
+	},
+	"infinitif": { "présent": { "majorer": "" }, "passé": { "avoir": "majoré" } }
+}

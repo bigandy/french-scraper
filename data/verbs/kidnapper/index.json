@@ -1,0 +1,141 @@
+{
+	"name": "kidnapper",
+	"definition": "kidnap; abduct; steal; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se kidnapper/ne pas kidnapper/ne pas se kidnapper",
+	"indicatif": {
+		"présent": {
+			"je": "kidnappe",
+			"tu": "kidnappes",
+			"il/elle": "kidnappe",
+			"nous": "kidnappons",
+			"vous": "kidnappez",
+			"ils/elles": "kidnappent"
+		},
+		"imparfait": {
+			"je": "kidnappais",
+			"tu": "kidnappais",
+			"il/elle": "kidnappait",
+			"nous": "kidnappions",
+			"vous": "kidnappiez",
+			"ils/elles": "kidnappaient"
+		},
+		"futur": {
+			"je": "kidnapperai",
+			"tu": "kidnapperas",
+			"il/elle": "kidnappera",
+			"nous": "kidnapperons",
+			"vous": "kidnapperez",
+			"ils/elles": "kidnapperont"
+		},
+		"passé simple": {
+			"je": "kidnappai",
+			"tu": "kidnappas",
+			"il/elle": "kidnappa",
+			"nous": "kidnappâmes",
+			"vous": "kidnappâtes",
+			"ils/elles": "kidnappèrent"
+		},
+		"passé composé": {
+			"j'": "ai kidnappé",
+			"tu": "as kidnappé",
+			"il/elle": "a kidnappé",
+			"nous": "avons kidnappé",
+			"vous": "avez kidnappé",
+			"ils/elles": "ont kidnappé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais kidnappé",
+			"tu": "avais kidnappé",
+			"il/elle": "avait kidnappé",
+			"nous": "avions kidnappé",
+			"vous": "aviez kidnappé",
+			"ils/elles": "avaient kidnappé"
+		},
+		"passé antérieur": {
+			"j'": "eus kidnappé",
+			"tu": "eus kidnappé",
+			"il/elle": "eut kidnappé",
+			"nous": "eûmes kidnappé",
+			"vous": "eûtes kidnappé",
+			"ils/elles": "eurent kidnappé"
+		},
+		"futur antérieur": {
+			"j'": "aurai kidnappé",
+			"tu": "auras kidnappé",
+			"il/elle": "aura kidnappé",
+			"nous": "aurons kidnappé",
+			"vous": "aurez kidnappé",
+			"ils/elles": "auront kidnappé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous kidnappiez",
+			"qu'il/elle": "kidnappe",
+			"qu'ils/elles": "kidnappent"
+		},
+		"imparfait": {
+			"que": "vous kidnappassiez",
+			"qu'il/elle": "kidnappât",
+			"qu'ils/elles": "kidnappassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse kidnappé",
+			"que": "vous eussiez kidnappé",
+			"qu'il/elle": "eût kidnappé",
+			"qu'ils/elles": "eussent kidnappé"
+		},
+		"passé": {
+			"j'": "aie kidnappé",
+			"que": "vous ayez kidnappé",
+			"qu'il/elle": "ait kidnappé",
+			"qu'ils/elles": "aient kidnappé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "kidnapperais",
+			"tu": "kidnapperais",
+			"il/elle": "kidnapperait",
+			"nous": "kidnapperions",
+			"vous": "kidnapperiez",
+			"ils/elles": "kidnapperaient"
+		},
+		"passé première forme": {
+			"j'": "aurais kidnappé",
+			"tu": "aurais kidnappé",
+			"il/elle": "aurait kidnappé",
+			"nous": "aurions kidnappé",
+			"vous": "auriez kidnappé",
+			"ils/elles": "auraient kidnappé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse kidnappé",
+			"tu": "eusses kidnappé",
+			"il/elle": "eût kidnappé",
+			"nous": "eussions kidnappé",
+			"vous": "eussiez kidnappé",
+			"ils/elles": "eussent kidnappé"
+		}
+	},
+	"participe": {
+		"présent": { "kidnappant": "" },
+		"passé composé": { "ayant": "kidnappé" },
+		"passé": {
+			"masc.sg.:": "kidnappé",
+			"masc.pl.:": "kidnappés",
+			"fém.sg.:": "kidnappée",
+			"fém.pl.:": "kidnappées"
+		}
+	},
+	"imperatif": {
+		"présent": { "kidnappe": "", "kidnappons": "", "kidnappez": "" },
+		"passé": { "aie": "kidnappé", "ayons": "kidnappé", "ayez": "kidnappé" }
+	},
+	"infinitif": {
+		"présent": { "kidnapper": "" },
+		"passé": { "avoir": "kidnappé" }
+	}
+}

@@ -1,0 +1,141 @@
+{
+	"name": "réactiver",
+	"definition": "reactivate; revive; re-activate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se réactiver/ne pas réactiver/ne pas se réactiver",
+	"indicatif": {
+		"présent": {
+			"je": "réactive",
+			"tu": "réactives",
+			"il/elle": "réactive",
+			"nous": "réactivons",
+			"vous": "réactivez",
+			"ils/elles": "réactivent"
+		},
+		"imparfait": {
+			"je": "réactivais",
+			"tu": "réactivais",
+			"il/elle": "réactivait",
+			"nous": "réactivions",
+			"vous": "réactiviez",
+			"ils/elles": "réactivaient"
+		},
+		"futur": {
+			"je": "réactiverai",
+			"tu": "réactiveras",
+			"il/elle": "réactivera",
+			"nous": "réactiverons",
+			"vous": "réactiverez",
+			"ils/elles": "réactiveront"
+		},
+		"passé simple": {
+			"je": "réactivai",
+			"tu": "réactivas",
+			"il/elle": "réactiva",
+			"nous": "réactivâmes",
+			"vous": "réactivâtes",
+			"ils/elles": "réactivèrent"
+		},
+		"passé composé": {
+			"j'": "ai réactivé",
+			"tu": "as réactivé",
+			"il/elle": "a réactivé",
+			"nous": "avons réactivé",
+			"vous": "avez réactivé",
+			"ils/elles": "ont réactivé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais réactivé",
+			"tu": "avais réactivé",
+			"il/elle": "avait réactivé",
+			"nous": "avions réactivé",
+			"vous": "aviez réactivé",
+			"ils/elles": "avaient réactivé"
+		},
+		"passé antérieur": {
+			"j'": "eus réactivé",
+			"tu": "eus réactivé",
+			"il/elle": "eut réactivé",
+			"nous": "eûmes réactivé",
+			"vous": "eûtes réactivé",
+			"ils/elles": "eurent réactivé"
+		},
+		"futur antérieur": {
+			"j'": "aurai réactivé",
+			"tu": "auras réactivé",
+			"il/elle": "aura réactivé",
+			"nous": "aurons réactivé",
+			"vous": "aurez réactivé",
+			"ils/elles": "auront réactivé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous réactiviez",
+			"qu'il/elle": "réactive",
+			"qu'ils/elles": "réactivent"
+		},
+		"imparfait": {
+			"que": "vous réactivassiez",
+			"qu'il/elle": "réactivât",
+			"qu'ils/elles": "réactivassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse réactivé",
+			"que": "vous eussiez réactivé",
+			"qu'il/elle": "eût réactivé",
+			"qu'ils/elles": "eussent réactivé"
+		},
+		"passé": {
+			"j'": "aie réactivé",
+			"que": "vous ayez réactivé",
+			"qu'il/elle": "ait réactivé",
+			"qu'ils/elles": "aient réactivé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "réactiverais",
+			"tu": "réactiverais",
+			"il/elle": "réactiverait",
+			"nous": "réactiverions",
+			"vous": "réactiveriez",
+			"ils/elles": "réactiveraient"
+		},
+		"passé première forme": {
+			"j'": "aurais réactivé",
+			"tu": "aurais réactivé",
+			"il/elle": "aurait réactivé",
+			"nous": "aurions réactivé",
+			"vous": "auriez réactivé",
+			"ils/elles": "auraient réactivé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse réactivé",
+			"tu": "eusses réactivé",
+			"il/elle": "eût réactivé",
+			"nous": "eussions réactivé",
+			"vous": "eussiez réactivé",
+			"ils/elles": "eussent réactivé"
+		}
+	},
+	"participe": {
+		"présent": { "réactivant": "" },
+		"passé composé": { "ayant": "réactivé" },
+		"passé": {
+			"masc.sg.:": "réactivé",
+			"masc.pl.:": "réactivés",
+			"fém.sg.:": "réactivée",
+			"fém.pl.:": "réactivées"
+		}
+	},
+	"imperatif": {
+		"présent": { "réactive": "", "réactivons": "", "réactivez": "" },
+		"passé": { "aie": "réactivé", "ayons": "réactivé", "ayez": "réactivé" }
+	},
+	"infinitif": {
+		"présent": { "réactiver": "" },
+		"passé": { "avoir": "réactivé" }
+	}
+}

@@ -1,0 +1,141 @@
+{
+	"name": "démonter",
+	"definition": "disassemble; dismantle; remove; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se démonter/ne pas démonter/ne pas se démonter",
+	"indicatif": {
+		"présent": {
+			"je": "démonte",
+			"tu": "démontes",
+			"il/elle": "démonte",
+			"nous": "démontons",
+			"vous": "démontez",
+			"ils/elles": "démontent"
+		},
+		"imparfait": {
+			"je": "démontais",
+			"tu": "démontais",
+			"il/elle": "démontait",
+			"nous": "démontions",
+			"vous": "démontiez",
+			"ils/elles": "démontaient"
+		},
+		"futur": {
+			"je": "démonterai",
+			"tu": "démonteras",
+			"il/elle": "démontera",
+			"nous": "démonterons",
+			"vous": "démonterez",
+			"ils/elles": "démonteront"
+		},
+		"passé simple": {
+			"je": "démontai",
+			"tu": "démontas",
+			"il/elle": "démonta",
+			"nous": "démontâmes",
+			"vous": "démontâtes",
+			"ils/elles": "démontèrent"
+		},
+		"passé composé": {
+			"j'": "ai démonté",
+			"tu": "as démonté",
+			"il/elle": "a démonté",
+			"nous": "avons démonté",
+			"vous": "avez démonté",
+			"ils/elles": "ont démonté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais démonté",
+			"tu": "avais démonté",
+			"il/elle": "avait démonté",
+			"nous": "avions démonté",
+			"vous": "aviez démonté",
+			"ils/elles": "avaient démonté"
+		},
+		"passé antérieur": {
+			"j'": "eus démonté",
+			"tu": "eus démonté",
+			"il/elle": "eut démonté",
+			"nous": "eûmes démonté",
+			"vous": "eûtes démonté",
+			"ils/elles": "eurent démonté"
+		},
+		"futur antérieur": {
+			"j'": "aurai démonté",
+			"tu": "auras démonté",
+			"il/elle": "aura démonté",
+			"nous": "aurons démonté",
+			"vous": "aurez démonté",
+			"ils/elles": "auront démonté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous démontiez",
+			"qu'il/elle": "démonte",
+			"qu'ils/elles": "démontent"
+		},
+		"imparfait": {
+			"que": "vous démontassiez",
+			"qu'il/elle": "démontât",
+			"qu'ils/elles": "démontassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse démonté",
+			"que": "vous eussiez démonté",
+			"qu'il/elle": "eût démonté",
+			"qu'ils/elles": "eussent démonté"
+		},
+		"passé": {
+			"j'": "aie démonté",
+			"que": "vous ayez démonté",
+			"qu'il/elle": "ait démonté",
+			"qu'ils/elles": "aient démonté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "démonterais",
+			"tu": "démonterais",
+			"il/elle": "démonterait",
+			"nous": "démonterions",
+			"vous": "démonteriez",
+			"ils/elles": "démonteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais démonté",
+			"tu": "aurais démonté",
+			"il/elle": "aurait démonté",
+			"nous": "aurions démonté",
+			"vous": "auriez démonté",
+			"ils/elles": "auraient démonté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse démonté",
+			"tu": "eusses démonté",
+			"il/elle": "eût démonté",
+			"nous": "eussions démonté",
+			"vous": "eussiez démonté",
+			"ils/elles": "eussent démonté"
+		}
+	},
+	"participe": {
+		"présent": { "démontant": "" },
+		"passé composé": { "ayant": "démonté" },
+		"passé": {
+			"masc.sg.:": "démonté",
+			"masc.pl.:": "démontés",
+			"fém.sg.:": "démontée",
+			"fém.pl.:": "démontées"
+		}
+	},
+	"imperatif": {
+		"présent": { "démonte": "", "démontons": "", "démontez": "" },
+		"passé": { "aie": "démonté", "ayons": "démonté", "ayez": "démonté" }
+	},
+	"infinitif": {
+		"présent": { "démonter": "" },
+		"passé": { "avoir": "démonté" }
+	}
+}

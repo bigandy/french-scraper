@@ -1,0 +1,138 @@
+{
+	"name": "doucher",
+	"definition": "shower; take a shower; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se doucher/ne pas doucher/ne pas se doucher",
+	"indicatif": {
+		"présent": {
+			"je": "douche",
+			"tu": "douches",
+			"il/elle": "douche",
+			"nous": "douchons",
+			"vous": "douchez",
+			"ils/elles": "douchent"
+		},
+		"imparfait": {
+			"je": "douchais",
+			"tu": "douchais",
+			"il/elle": "douchait",
+			"nous": "douchions",
+			"vous": "douchiez",
+			"ils/elles": "douchaient"
+		},
+		"futur": {
+			"je": "doucherai",
+			"tu": "doucheras",
+			"il/elle": "douchera",
+			"nous": "doucherons",
+			"vous": "doucherez",
+			"ils/elles": "doucheront"
+		},
+		"passé simple": {
+			"je": "douchai",
+			"tu": "douchas",
+			"il/elle": "doucha",
+			"nous": "douchâmes",
+			"vous": "douchâtes",
+			"ils/elles": "douchèrent"
+		},
+		"passé composé": {
+			"j'": "ai douché",
+			"tu": "as douché",
+			"il/elle": "a douché",
+			"nous": "avons douché",
+			"vous": "avez douché",
+			"ils/elles": "ont douché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais douché",
+			"tu": "avais douché",
+			"il/elle": "avait douché",
+			"nous": "avions douché",
+			"vous": "aviez douché",
+			"ils/elles": "avaient douché"
+		},
+		"passé antérieur": {
+			"j'": "eus douché",
+			"tu": "eus douché",
+			"il/elle": "eut douché",
+			"nous": "eûmes douché",
+			"vous": "eûtes douché",
+			"ils/elles": "eurent douché"
+		},
+		"futur antérieur": {
+			"j'": "aurai douché",
+			"tu": "auras douché",
+			"il/elle": "aura douché",
+			"nous": "aurons douché",
+			"vous": "aurez douché",
+			"ils/elles": "auront douché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous douchiez",
+			"qu'il/elle": "douche",
+			"qu'ils/elles": "douchent"
+		},
+		"imparfait": {
+			"que": "vous douchassiez",
+			"qu'il/elle": "douchât",
+			"qu'ils/elles": "douchassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse douché",
+			"que": "vous eussiez douché",
+			"qu'il/elle": "eût douché",
+			"qu'ils/elles": "eussent douché"
+		},
+		"passé": {
+			"j'": "aie douché",
+			"que": "vous ayez douché",
+			"qu'il/elle": "ait douché",
+			"qu'ils/elles": "aient douché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "doucherais",
+			"tu": "doucherais",
+			"il/elle": "doucherait",
+			"nous": "doucherions",
+			"vous": "doucheriez",
+			"ils/elles": "doucheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais douché",
+			"tu": "aurais douché",
+			"il/elle": "aurait douché",
+			"nous": "aurions douché",
+			"vous": "auriez douché",
+			"ils/elles": "auraient douché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse douché",
+			"tu": "eusses douché",
+			"il/elle": "eût douché",
+			"nous": "eussions douché",
+			"vous": "eussiez douché",
+			"ils/elles": "eussent douché"
+		}
+	},
+	"participe": {
+		"présent": { "douchant": "" },
+		"passé composé": { "ayant": "douché" },
+		"passé": {
+			"masc.sg.:": "douché",
+			"masc.pl.:": "douchés",
+			"fém.sg.:": "douchée",
+			"fém.pl.:": "douchées"
+		}
+	},
+	"imperatif": {
+		"présent": { "douche": "", "douchons": "", "douchez": "" },
+		"passé": { "aie": "douché", "ayons": "douché", "ayez": "douché" }
+	},
+	"infinitif": { "présent": { "doucher": "" }, "passé": { "avoir": "douché" } }
+}

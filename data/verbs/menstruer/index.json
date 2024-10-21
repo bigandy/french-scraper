@@ -1,0 +1,141 @@
+{
+	"name": "menstruer",
+	"definition": "menstruate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas menstruer",
+	"indicatif": {
+		"présent": {
+			"je": "menstrue",
+			"tu": "menstrues",
+			"il/elle": "menstrue",
+			"nous": "menstruons",
+			"vous": "menstruez",
+			"ils/elles": "menstruent"
+		},
+		"imparfait": {
+			"je": "menstruais",
+			"tu": "menstruais",
+			"il/elle": "menstruait",
+			"nous": "menstruions",
+			"vous": "menstruiez",
+			"ils/elles": "menstruaient"
+		},
+		"futur": {
+			"je": "menstruerai",
+			"tu": "menstrueras",
+			"il/elle": "menstruera",
+			"nous": "menstruerons",
+			"vous": "menstruerez",
+			"ils/elles": "menstrueront"
+		},
+		"passé simple": {
+			"je": "menstruai",
+			"tu": "menstruas",
+			"il/elle": "menstrua",
+			"nous": "menstruâmes",
+			"vous": "menstruâtes",
+			"ils/elles": "menstruèrent"
+		},
+		"passé composé": {
+			"j'": "ai menstrué",
+			"tu": "as menstrué",
+			"il/elle": "a menstrué",
+			"nous": "avons menstrué",
+			"vous": "avez menstrué",
+			"ils/elles": "ont menstrué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais menstrué",
+			"tu": "avais menstrué",
+			"il/elle": "avait menstrué",
+			"nous": "avions menstrué",
+			"vous": "aviez menstrué",
+			"ils/elles": "avaient menstrué"
+		},
+		"passé antérieur": {
+			"j'": "eus menstrué",
+			"tu": "eus menstrué",
+			"il/elle": "eut menstrué",
+			"nous": "eûmes menstrué",
+			"vous": "eûtes menstrué",
+			"ils/elles": "eurent menstrué"
+		},
+		"futur antérieur": {
+			"j'": "aurai menstrué",
+			"tu": "auras menstrué",
+			"il/elle": "aura menstrué",
+			"nous": "aurons menstrué",
+			"vous": "aurez menstrué",
+			"ils/elles": "auront menstrué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous menstruiez",
+			"qu'il/elle": "menstrue",
+			"qu'ils/elles": "menstruent"
+		},
+		"imparfait": {
+			"que": "vous menstruassiez",
+			"qu'il/elle": "menstruât",
+			"qu'ils/elles": "menstruassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse menstrué",
+			"que": "vous eussiez menstrué",
+			"qu'il/elle": "eût menstrué",
+			"qu'ils/elles": "eussent menstrué"
+		},
+		"passé": {
+			"j'": "aie menstrué",
+			"que": "vous ayez menstrué",
+			"qu'il/elle": "ait menstrué",
+			"qu'ils/elles": "aient menstrué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "menstruerais",
+			"tu": "menstruerais",
+			"il/elle": "menstruerait",
+			"nous": "menstruerions",
+			"vous": "menstrueriez",
+			"ils/elles": "menstrueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais menstrué",
+			"tu": "aurais menstrué",
+			"il/elle": "aurait menstrué",
+			"nous": "aurions menstrué",
+			"vous": "auriez menstrué",
+			"ils/elles": "auraient menstrué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse menstrué",
+			"tu": "eusses menstrué",
+			"il/elle": "eût menstrué",
+			"nous": "eussions menstrué",
+			"vous": "eussiez menstrué",
+			"ils/elles": "eussent menstrué"
+		}
+	},
+	"participe": {
+		"présent": { "menstruant": "" },
+		"passé composé": { "ayant": "menstrué" },
+		"passé": {
+			"masc.sg.:": "menstrué",
+			"masc.pl.:": "menstrués",
+			"fém.sg.:": "menstruée",
+			"fém.pl.:": "menstruées"
+		}
+	},
+	"imperatif": {
+		"présent": { "menstrue": "", "menstruons": "", "menstruez": "" },
+		"passé": { "aie": "menstrué", "ayons": "menstrué", "ayez": "menstrué" }
+	},
+	"infinitif": {
+		"présent": { "menstruer": "" },
+		"passé": { "avoir": "menstrué" }
+	}
+}

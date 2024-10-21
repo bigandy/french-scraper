@@ -1,0 +1,138 @@
+{
+	"name": "manier",
+	"definition": "handle; wield; swing; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se manier/ne pas manier/ne pas se manier",
+	"indicatif": {
+		"présent": {
+			"je": "manie",
+			"tu": "manies",
+			"il/elle": "manie",
+			"nous": "manions",
+			"vous": "maniez",
+			"ils/elles": "manient"
+		},
+		"imparfait": {
+			"je": "maniais",
+			"tu": "maniais",
+			"il/elle": "maniait",
+			"nous": "maniions",
+			"vous": "maniiez",
+			"ils/elles": "maniaient"
+		},
+		"futur": {
+			"je": "manierai",
+			"tu": "manieras",
+			"il/elle": "maniera",
+			"nous": "manierons",
+			"vous": "manierez",
+			"ils/elles": "manieront"
+		},
+		"passé simple": {
+			"je": "maniai",
+			"tu": "manias",
+			"il/elle": "mania",
+			"nous": "maniâmes",
+			"vous": "maniâtes",
+			"ils/elles": "manièrent"
+		},
+		"passé composé": {
+			"j'": "ai manié",
+			"tu": "as manié",
+			"il/elle": "a manié",
+			"nous": "avons manié",
+			"vous": "avez manié",
+			"ils/elles": "ont manié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais manié",
+			"tu": "avais manié",
+			"il/elle": "avait manié",
+			"nous": "avions manié",
+			"vous": "aviez manié",
+			"ils/elles": "avaient manié"
+		},
+		"passé antérieur": {
+			"j'": "eus manié",
+			"tu": "eus manié",
+			"il/elle": "eut manié",
+			"nous": "eûmes manié",
+			"vous": "eûtes manié",
+			"ils/elles": "eurent manié"
+		},
+		"futur antérieur": {
+			"j'": "aurai manié",
+			"tu": "auras manié",
+			"il/elle": "aura manié",
+			"nous": "aurons manié",
+			"vous": "aurez manié",
+			"ils/elles": "auront manié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous maniiez",
+			"qu'il/elle": "manie",
+			"qu'ils/elles": "manient"
+		},
+		"imparfait": {
+			"que": "vous maniassiez",
+			"qu'il/elle": "maniât",
+			"qu'ils/elles": "maniassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse manié",
+			"que": "vous eussiez manié",
+			"qu'il/elle": "eût manié",
+			"qu'ils/elles": "eussent manié"
+		},
+		"passé": {
+			"j'": "aie manié",
+			"que": "vous ayez manié",
+			"qu'il/elle": "ait manié",
+			"qu'ils/elles": "aient manié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "manierais",
+			"tu": "manierais",
+			"il/elle": "manierait",
+			"nous": "manierions",
+			"vous": "manieriez",
+			"ils/elles": "manieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais manié",
+			"tu": "aurais manié",
+			"il/elle": "aurait manié",
+			"nous": "aurions manié",
+			"vous": "auriez manié",
+			"ils/elles": "auraient manié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse manié",
+			"tu": "eusses manié",
+			"il/elle": "eût manié",
+			"nous": "eussions manié",
+			"vous": "eussiez manié",
+			"ils/elles": "eussent manié"
+		}
+	},
+	"participe": {
+		"présent": { "maniant": "" },
+		"passé composé": { "ayant": "manié" },
+		"passé": {
+			"masc.sg.:": "manié",
+			"masc.pl.:": "maniés",
+			"fém.sg.:": "maniée",
+			"fém.pl.:": "maniées"
+		}
+	},
+	"imperatif": {
+		"présent": { "manie": "", "manions": "", "maniez": "" },
+		"passé": { "aie": "manié", "ayons": "manié", "ayez": "manié" }
+	},
+	"infinitif": { "présent": { "manier": "" }, "passé": { "avoir": "manié" } }
+}

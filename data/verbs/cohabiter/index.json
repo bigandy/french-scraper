@@ -1,0 +1,141 @@
+{
+	"name": "cohabiter",
+	"definition": "live together; cohabit; coexist; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas cohabiter",
+	"indicatif": {
+		"présent": {
+			"je": "cohabite",
+			"tu": "cohabites",
+			"il/elle": "cohabite",
+			"nous": "cohabitons",
+			"vous": "cohabitez",
+			"ils/elles": "cohabitent"
+		},
+		"imparfait": {
+			"je": "cohabitais",
+			"tu": "cohabitais",
+			"il/elle": "cohabitait",
+			"nous": "cohabitions",
+			"vous": "cohabitiez",
+			"ils/elles": "cohabitaient"
+		},
+		"futur": {
+			"je": "cohabiterai",
+			"tu": "cohabiteras",
+			"il/elle": "cohabitera",
+			"nous": "cohabiterons",
+			"vous": "cohabiterez",
+			"ils/elles": "cohabiteront"
+		},
+		"passé simple": {
+			"je": "cohabitai",
+			"tu": "cohabitas",
+			"il/elle": "cohabita",
+			"nous": "cohabitâmes",
+			"vous": "cohabitâtes",
+			"ils/elles": "cohabitèrent"
+		},
+		"passé composé": {
+			"j'": "ai cohabité",
+			"tu": "as cohabité",
+			"il/elle": "a cohabité",
+			"nous": "avons cohabité",
+			"vous": "avez cohabité",
+			"ils/elles": "ont cohabité"
+		},
+		"plus-que-parfait": {
+			"j'": "avais cohabité",
+			"tu": "avais cohabité",
+			"il/elle": "avait cohabité",
+			"nous": "avions cohabité",
+			"vous": "aviez cohabité",
+			"ils/elles": "avaient cohabité"
+		},
+		"passé antérieur": {
+			"j'": "eus cohabité",
+			"tu": "eus cohabité",
+			"il/elle": "eut cohabité",
+			"nous": "eûmes cohabité",
+			"vous": "eûtes cohabité",
+			"ils/elles": "eurent cohabité"
+		},
+		"futur antérieur": {
+			"j'": "aurai cohabité",
+			"tu": "auras cohabité",
+			"il/elle": "aura cohabité",
+			"nous": "aurons cohabité",
+			"vous": "aurez cohabité",
+			"ils/elles": "auront cohabité"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous cohabitiez",
+			"qu'il/elle": "cohabite",
+			"qu'ils/elles": "cohabitent"
+		},
+		"imparfait": {
+			"que": "vous cohabitassiez",
+			"qu'il/elle": "cohabitât",
+			"qu'ils/elles": "cohabitassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse cohabité",
+			"que": "vous eussiez cohabité",
+			"qu'il/elle": "eût cohabité",
+			"qu'ils/elles": "eussent cohabité"
+		},
+		"passé": {
+			"j'": "aie cohabité",
+			"que": "vous ayez cohabité",
+			"qu'il/elle": "ait cohabité",
+			"qu'ils/elles": "aient cohabité"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "cohabiterais",
+			"tu": "cohabiterais",
+			"il/elle": "cohabiterait",
+			"nous": "cohabiterions",
+			"vous": "cohabiteriez",
+			"ils/elles": "cohabiteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais cohabité",
+			"tu": "aurais cohabité",
+			"il/elle": "aurait cohabité",
+			"nous": "aurions cohabité",
+			"vous": "auriez cohabité",
+			"ils/elles": "auraient cohabité"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse cohabité",
+			"tu": "eusses cohabité",
+			"il/elle": "eût cohabité",
+			"nous": "eussions cohabité",
+			"vous": "eussiez cohabité",
+			"ils/elles": "eussent cohabité"
+		}
+	},
+	"participe": {
+		"présent": { "cohabitant": "" },
+		"passé composé": { "ayant": "cohabité" },
+		"passé": {
+			"masc.sg.:": "cohabité",
+			"masc.pl.:": "cohabités",
+			"fém.sg.:": "cohabitée",
+			"fém.pl.:": "cohabitées"
+		}
+	},
+	"imperatif": {
+		"présent": { "cohabite": "", "cohabitons": "", "cohabitez": "" },
+		"passé": { "aie": "cohabité", "ayons": "cohabité", "ayez": "cohabité" }
+	},
+	"infinitif": {
+		"présent": { "cohabiter": "" },
+		"passé": { "avoir": "cohabité" }
+	}
+}

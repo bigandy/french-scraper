@@ -1,0 +1,141 @@
+{
+	"name": "modéliser",
+	"definition": "model; modelize; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se modéliser/ne pas modéliser/ne pas se modéliser",
+	"indicatif": {
+		"présent": {
+			"je": "modélise",
+			"tu": "modélises",
+			"il/elle": "modélise",
+			"nous": "modélisons",
+			"vous": "modélisez",
+			"ils/elles": "modélisent"
+		},
+		"imparfait": {
+			"je": "modélisais",
+			"tu": "modélisais",
+			"il/elle": "modélisait",
+			"nous": "modélisions",
+			"vous": "modélisiez",
+			"ils/elles": "modélisaient"
+		},
+		"futur": {
+			"je": "modéliserai",
+			"tu": "modéliseras",
+			"il/elle": "modélisera",
+			"nous": "modéliserons",
+			"vous": "modéliserez",
+			"ils/elles": "modéliseront"
+		},
+		"passé simple": {
+			"je": "modélisai",
+			"tu": "modélisas",
+			"il/elle": "modélisa",
+			"nous": "modélisâmes",
+			"vous": "modélisâtes",
+			"ils/elles": "modélisèrent"
+		},
+		"passé composé": {
+			"j'": "ai modélisé",
+			"tu": "as modélisé",
+			"il/elle": "a modélisé",
+			"nous": "avons modélisé",
+			"vous": "avez modélisé",
+			"ils/elles": "ont modélisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais modélisé",
+			"tu": "avais modélisé",
+			"il/elle": "avait modélisé",
+			"nous": "avions modélisé",
+			"vous": "aviez modélisé",
+			"ils/elles": "avaient modélisé"
+		},
+		"passé antérieur": {
+			"j'": "eus modélisé",
+			"tu": "eus modélisé",
+			"il/elle": "eut modélisé",
+			"nous": "eûmes modélisé",
+			"vous": "eûtes modélisé",
+			"ils/elles": "eurent modélisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai modélisé",
+			"tu": "auras modélisé",
+			"il/elle": "aura modélisé",
+			"nous": "aurons modélisé",
+			"vous": "aurez modélisé",
+			"ils/elles": "auront modélisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous modélisiez",
+			"qu'il/elle": "modélise",
+			"qu'ils/elles": "modélisent"
+		},
+		"imparfait": {
+			"que": "vous modélisassiez",
+			"qu'il/elle": "modélisât",
+			"qu'ils/elles": "modélisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse modélisé",
+			"que": "vous eussiez modélisé",
+			"qu'il/elle": "eût modélisé",
+			"qu'ils/elles": "eussent modélisé"
+		},
+		"passé": {
+			"j'": "aie modélisé",
+			"que": "vous ayez modélisé",
+			"qu'il/elle": "ait modélisé",
+			"qu'ils/elles": "aient modélisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "modéliserais",
+			"tu": "modéliserais",
+			"il/elle": "modéliserait",
+			"nous": "modéliserions",
+			"vous": "modéliseriez",
+			"ils/elles": "modéliseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais modélisé",
+			"tu": "aurais modélisé",
+			"il/elle": "aurait modélisé",
+			"nous": "aurions modélisé",
+			"vous": "auriez modélisé",
+			"ils/elles": "auraient modélisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse modélisé",
+			"tu": "eusses modélisé",
+			"il/elle": "eût modélisé",
+			"nous": "eussions modélisé",
+			"vous": "eussiez modélisé",
+			"ils/elles": "eussent modélisé"
+		}
+	},
+	"participe": {
+		"présent": { "modélisant": "" },
+		"passé composé": { "ayant": "modélisé" },
+		"passé": {
+			"masc.sg.:": "modélisé",
+			"masc.pl.:": "modélisés",
+			"fém.sg.:": "modélisée",
+			"fém.pl.:": "modélisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "modélise": "", "modélisons": "", "modélisez": "" },
+		"passé": { "aie": "modélisé", "ayons": "modélisé", "ayez": "modélisé" }
+	},
+	"infinitif": {
+		"présent": { "modéliser": "" },
+		"passé": { "avoir": "modélisé" }
+	}
+}

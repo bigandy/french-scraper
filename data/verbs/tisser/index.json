@@ -1,0 +1,138 @@
+{
+	"name": "tisser",
+	"definition": "weave; forge; spin; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se tisser/ne pas tisser/ne pas se tisser",
+	"indicatif": {
+		"présent": {
+			"je": "tisse",
+			"tu": "tisses",
+			"il/elle": "tisse",
+			"nous": "tissons",
+			"vous": "tissez",
+			"ils/elles": "tissent"
+		},
+		"imparfait": {
+			"je": "tissais",
+			"tu": "tissais",
+			"il/elle": "tissait",
+			"nous": "tissions",
+			"vous": "tissiez",
+			"ils/elles": "tissaient"
+		},
+		"futur": {
+			"je": "tisserai",
+			"tu": "tisseras",
+			"il/elle": "tissera",
+			"nous": "tisserons",
+			"vous": "tisserez",
+			"ils/elles": "tisseront"
+		},
+		"passé simple": {
+			"je": "tissai",
+			"tu": "tissas",
+			"il/elle": "tissa",
+			"nous": "tissâmes",
+			"vous": "tissâtes",
+			"ils/elles": "tissèrent"
+		},
+		"passé composé": {
+			"j'": "ai tissé",
+			"tu": "as tissé",
+			"il/elle": "a tissé",
+			"nous": "avons tissé",
+			"vous": "avez tissé",
+			"ils/elles": "ont tissé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais tissé",
+			"tu": "avais tissé",
+			"il/elle": "avait tissé",
+			"nous": "avions tissé",
+			"vous": "aviez tissé",
+			"ils/elles": "avaient tissé"
+		},
+		"passé antérieur": {
+			"j'": "eus tissé",
+			"tu": "eus tissé",
+			"il/elle": "eut tissé",
+			"nous": "eûmes tissé",
+			"vous": "eûtes tissé",
+			"ils/elles": "eurent tissé"
+		},
+		"futur antérieur": {
+			"j'": "aurai tissé",
+			"tu": "auras tissé",
+			"il/elle": "aura tissé",
+			"nous": "aurons tissé",
+			"vous": "aurez tissé",
+			"ils/elles": "auront tissé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous tissiez",
+			"qu'il/elle": "tisse",
+			"qu'ils/elles": "tissent"
+		},
+		"imparfait": {
+			"que": "vous tissassiez",
+			"qu'il/elle": "tissât",
+			"qu'ils/elles": "tissassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse tissé",
+			"que": "vous eussiez tissé",
+			"qu'il/elle": "eût tissé",
+			"qu'ils/elles": "eussent tissé"
+		},
+		"passé": {
+			"j'": "aie tissé",
+			"que": "vous ayez tissé",
+			"qu'il/elle": "ait tissé",
+			"qu'ils/elles": "aient tissé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "tisserais",
+			"tu": "tisserais",
+			"il/elle": "tisserait",
+			"nous": "tisserions",
+			"vous": "tisseriez",
+			"ils/elles": "tisseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais tissé",
+			"tu": "aurais tissé",
+			"il/elle": "aurait tissé",
+			"nous": "aurions tissé",
+			"vous": "auriez tissé",
+			"ils/elles": "auraient tissé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse tissé",
+			"tu": "eusses tissé",
+			"il/elle": "eût tissé",
+			"nous": "eussions tissé",
+			"vous": "eussiez tissé",
+			"ils/elles": "eussent tissé"
+		}
+	},
+	"participe": {
+		"présent": { "tissant": "" },
+		"passé composé": { "ayant": "tissé" },
+		"passé": {
+			"masc.sg.:": "tissé",
+			"masc.pl.:": "tissés",
+			"fém.sg.:": "tissée",
+			"fém.pl.:": "tissées"
+		}
+	},
+	"imperatif": {
+		"présent": { "tisse": "", "tissons": "", "tissez": "" },
+		"passé": { "aie": "tissé", "ayons": "tissé", "ayez": "tissé" }
+	},
+	"infinitif": { "présent": { "tisser": "" }, "passé": { "avoir": "tissé" } }
+}

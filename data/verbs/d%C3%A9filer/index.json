@@ -1,0 +1,138 @@
+{
+	"name": "défiler",
+	"definition": "scroll; march; parade; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se défiler/ne pas défiler/ne pas se défiler",
+	"indicatif": {
+		"présent": {
+			"je": "défile",
+			"tu": "défiles",
+			"il/elle": "défile",
+			"nous": "défilons",
+			"vous": "défilez",
+			"ils/elles": "défilent"
+		},
+		"imparfait": {
+			"je": "défilais",
+			"tu": "défilais",
+			"il/elle": "défilait",
+			"nous": "défilions",
+			"vous": "défiliez",
+			"ils/elles": "défilaient"
+		},
+		"futur": {
+			"je": "défilerai",
+			"tu": "défileras",
+			"il/elle": "défilera",
+			"nous": "défilerons",
+			"vous": "défilerez",
+			"ils/elles": "défileront"
+		},
+		"passé simple": {
+			"je": "défilai",
+			"tu": "défilas",
+			"il/elle": "défila",
+			"nous": "défilâmes",
+			"vous": "défilâtes",
+			"ils/elles": "défilèrent"
+		},
+		"passé composé": {
+			"j'": "ai défilé",
+			"tu": "as défilé",
+			"il/elle": "a défilé",
+			"nous": "avons défilé",
+			"vous": "avez défilé",
+			"ils/elles": "ont défilé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais défilé",
+			"tu": "avais défilé",
+			"il/elle": "avait défilé",
+			"nous": "avions défilé",
+			"vous": "aviez défilé",
+			"ils/elles": "avaient défilé"
+		},
+		"passé antérieur": {
+			"j'": "eus défilé",
+			"tu": "eus défilé",
+			"il/elle": "eut défilé",
+			"nous": "eûmes défilé",
+			"vous": "eûtes défilé",
+			"ils/elles": "eurent défilé"
+		},
+		"futur antérieur": {
+			"j'": "aurai défilé",
+			"tu": "auras défilé",
+			"il/elle": "aura défilé",
+			"nous": "aurons défilé",
+			"vous": "aurez défilé",
+			"ils/elles": "auront défilé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous défiliez",
+			"qu'il/elle": "défile",
+			"qu'ils/elles": "défilent"
+		},
+		"imparfait": {
+			"que": "vous défilassiez",
+			"qu'il/elle": "défilât",
+			"qu'ils/elles": "défilassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse défilé",
+			"que": "vous eussiez défilé",
+			"qu'il/elle": "eût défilé",
+			"qu'ils/elles": "eussent défilé"
+		},
+		"passé": {
+			"j'": "aie défilé",
+			"que": "vous ayez défilé",
+			"qu'il/elle": "ait défilé",
+			"qu'ils/elles": "aient défilé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "défilerais",
+			"tu": "défilerais",
+			"il/elle": "défilerait",
+			"nous": "défilerions",
+			"vous": "défileriez",
+			"ils/elles": "défileraient"
+		},
+		"passé première forme": {
+			"j'": "aurais défilé",
+			"tu": "aurais défilé",
+			"il/elle": "aurait défilé",
+			"nous": "aurions défilé",
+			"vous": "auriez défilé",
+			"ils/elles": "auraient défilé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse défilé",
+			"tu": "eusses défilé",
+			"il/elle": "eût défilé",
+			"nous": "eussions défilé",
+			"vous": "eussiez défilé",
+			"ils/elles": "eussent défilé"
+		}
+	},
+	"participe": {
+		"présent": { "défilant": "" },
+		"passé composé": { "ayant": "défilé" },
+		"passé": {
+			"masc.sg.:": "défilé",
+			"masc.pl.:": "défilés",
+			"fém.sg.:": "défilée",
+			"fém.pl.:": "défilées"
+		}
+	},
+	"imperatif": {
+		"présent": { "défile": "", "défilons": "", "défilez": "" },
+		"passé": { "aie": "défilé", "ayons": "défilé", "ayez": "défilé" }
+	},
+	"infinitif": { "présent": { "défiler": "" }, "passé": { "avoir": "défilé" } }
+}

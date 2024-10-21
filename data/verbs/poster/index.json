@@ -1,0 +1,138 @@
+{
+	"name": "poster",
+	"definition": "post; mail; station; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se poster/ne pas poster/ne pas se poster",
+	"indicatif": {
+		"présent": {
+			"je": "poste",
+			"tu": "postes",
+			"il/elle": "poste",
+			"nous": "postons",
+			"vous": "postez",
+			"ils/elles": "postent"
+		},
+		"imparfait": {
+			"je": "postais",
+			"tu": "postais",
+			"il/elle": "postait",
+			"nous": "postions",
+			"vous": "postiez",
+			"ils/elles": "postaient"
+		},
+		"futur": {
+			"je": "posterai",
+			"tu": "posteras",
+			"il/elle": "postera",
+			"nous": "posterons",
+			"vous": "posterez",
+			"ils/elles": "posteront"
+		},
+		"passé simple": {
+			"je": "postai",
+			"tu": "postas",
+			"il/elle": "posta",
+			"nous": "postâmes",
+			"vous": "postâtes",
+			"ils/elles": "postèrent"
+		},
+		"passé composé": {
+			"j'": "ai posté",
+			"tu": "as posté",
+			"il/elle": "a posté",
+			"nous": "avons posté",
+			"vous": "avez posté",
+			"ils/elles": "ont posté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais posté",
+			"tu": "avais posté",
+			"il/elle": "avait posté",
+			"nous": "avions posté",
+			"vous": "aviez posté",
+			"ils/elles": "avaient posté"
+		},
+		"passé antérieur": {
+			"j'": "eus posté",
+			"tu": "eus posté",
+			"il/elle": "eut posté",
+			"nous": "eûmes posté",
+			"vous": "eûtes posté",
+			"ils/elles": "eurent posté"
+		},
+		"futur antérieur": {
+			"j'": "aurai posté",
+			"tu": "auras posté",
+			"il/elle": "aura posté",
+			"nous": "aurons posté",
+			"vous": "aurez posté",
+			"ils/elles": "auront posté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous postiez",
+			"qu'il/elle": "poste",
+			"qu'ils/elles": "postent"
+		},
+		"imparfait": {
+			"que": "vous postassiez",
+			"qu'il/elle": "postât",
+			"qu'ils/elles": "postassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse posté",
+			"que": "vous eussiez posté",
+			"qu'il/elle": "eût posté",
+			"qu'ils/elles": "eussent posté"
+		},
+		"passé": {
+			"j'": "aie posté",
+			"que": "vous ayez posté",
+			"qu'il/elle": "ait posté",
+			"qu'ils/elles": "aient posté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "posterais",
+			"tu": "posterais",
+			"il/elle": "posterait",
+			"nous": "posterions",
+			"vous": "posteriez",
+			"ils/elles": "posteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais posté",
+			"tu": "aurais posté",
+			"il/elle": "aurait posté",
+			"nous": "aurions posté",
+			"vous": "auriez posté",
+			"ils/elles": "auraient posté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse posté",
+			"tu": "eusses posté",
+			"il/elle": "eût posté",
+			"nous": "eussions posté",
+			"vous": "eussiez posté",
+			"ils/elles": "eussent posté"
+		}
+	},
+	"participe": {
+		"présent": { "postant": "" },
+		"passé composé": { "ayant": "posté" },
+		"passé": {
+			"masc.sg.:": "posté",
+			"masc.pl.:": "postés",
+			"fém.sg.:": "postée",
+			"fém.pl.:": "postées"
+		}
+	},
+	"imperatif": {
+		"présent": { "poste": "", "postons": "", "postez": "" },
+		"passé": { "aie": "posté", "ayons": "posté", "ayez": "posté" }
+	},
+	"infinitif": { "présent": { "poster": "" }, "passé": { "avoir": "posté" } }
+}

@@ -1,0 +1,141 @@
+{
+	"name": "riposter",
+	"definition": "respond; fight back; retaliate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se riposter/ne pas riposter/ne pas se riposter",
+	"indicatif": {
+		"présent": {
+			"je": "riposte",
+			"tu": "ripostes",
+			"il/elle": "riposte",
+			"nous": "ripostons",
+			"vous": "ripostez",
+			"ils/elles": "ripostent"
+		},
+		"imparfait": {
+			"je": "ripostais",
+			"tu": "ripostais",
+			"il/elle": "ripostait",
+			"nous": "ripostions",
+			"vous": "ripostiez",
+			"ils/elles": "ripostaient"
+		},
+		"futur": {
+			"je": "riposterai",
+			"tu": "riposteras",
+			"il/elle": "ripostera",
+			"nous": "riposterons",
+			"vous": "riposterez",
+			"ils/elles": "riposteront"
+		},
+		"passé simple": {
+			"je": "ripostai",
+			"tu": "ripostas",
+			"il/elle": "riposta",
+			"nous": "ripostâmes",
+			"vous": "ripostâtes",
+			"ils/elles": "ripostèrent"
+		},
+		"passé composé": {
+			"j'": "ai riposté",
+			"tu": "as riposté",
+			"il/elle": "a riposté",
+			"nous": "avons riposté",
+			"vous": "avez riposté",
+			"ils/elles": "ont riposté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais riposté",
+			"tu": "avais riposté",
+			"il/elle": "avait riposté",
+			"nous": "avions riposté",
+			"vous": "aviez riposté",
+			"ils/elles": "avaient riposté"
+		},
+		"passé antérieur": {
+			"j'": "eus riposté",
+			"tu": "eus riposté",
+			"il/elle": "eut riposté",
+			"nous": "eûmes riposté",
+			"vous": "eûtes riposté",
+			"ils/elles": "eurent riposté"
+		},
+		"futur antérieur": {
+			"j'": "aurai riposté",
+			"tu": "auras riposté",
+			"il/elle": "aura riposté",
+			"nous": "aurons riposté",
+			"vous": "aurez riposté",
+			"ils/elles": "auront riposté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous ripostiez",
+			"qu'il/elle": "riposte",
+			"qu'ils/elles": "ripostent"
+		},
+		"imparfait": {
+			"que": "vous ripostassiez",
+			"qu'il/elle": "ripostât",
+			"qu'ils/elles": "ripostassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse riposté",
+			"que": "vous eussiez riposté",
+			"qu'il/elle": "eût riposté",
+			"qu'ils/elles": "eussent riposté"
+		},
+		"passé": {
+			"j'": "aie riposté",
+			"que": "vous ayez riposté",
+			"qu'il/elle": "ait riposté",
+			"qu'ils/elles": "aient riposté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "riposterais",
+			"tu": "riposterais",
+			"il/elle": "riposterait",
+			"nous": "riposterions",
+			"vous": "riposteriez",
+			"ils/elles": "riposteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais riposté",
+			"tu": "aurais riposté",
+			"il/elle": "aurait riposté",
+			"nous": "aurions riposté",
+			"vous": "auriez riposté",
+			"ils/elles": "auraient riposté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse riposté",
+			"tu": "eusses riposté",
+			"il/elle": "eût riposté",
+			"nous": "eussions riposté",
+			"vous": "eussiez riposté",
+			"ils/elles": "eussent riposté"
+		}
+	},
+	"participe": {
+		"présent": { "ripostant": "" },
+		"passé composé": { "ayant": "riposté" },
+		"passé": {
+			"masc.sg.:": "riposté",
+			"masc.pl.:": "ripostés",
+			"fém.sg.:": "ripostée",
+			"fém.pl.:": "ripostées"
+		}
+	},
+	"imperatif": {
+		"présent": { "riposte": "", "ripostons": "", "ripostez": "" },
+		"passé": { "aie": "riposté", "ayons": "riposté", "ayez": "riposté" }
+	},
+	"infinitif": {
+		"présent": { "riposter": "" },
+		"passé": { "avoir": "riposté" }
+	}
+}

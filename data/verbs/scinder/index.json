@@ -1,0 +1,138 @@
+{
+	"name": "scinder",
+	"definition": "split; divide; separate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se scinder/ne pas scinder/ne pas se scinder",
+	"indicatif": {
+		"présent": {
+			"je": "scinde",
+			"tu": "scindes",
+			"il/elle": "scinde",
+			"nous": "scindons",
+			"vous": "scindez",
+			"ils/elles": "scindent"
+		},
+		"imparfait": {
+			"je": "scindais",
+			"tu": "scindais",
+			"il/elle": "scindait",
+			"nous": "scindions",
+			"vous": "scindiez",
+			"ils/elles": "scindaient"
+		},
+		"futur": {
+			"je": "scinderai",
+			"tu": "scinderas",
+			"il/elle": "scindera",
+			"nous": "scinderons",
+			"vous": "scinderez",
+			"ils/elles": "scinderont"
+		},
+		"passé simple": {
+			"je": "scindai",
+			"tu": "scindas",
+			"il/elle": "scinda",
+			"nous": "scindâmes",
+			"vous": "scindâtes",
+			"ils/elles": "scindèrent"
+		},
+		"passé composé": {
+			"j'": "ai scindé",
+			"tu": "as scindé",
+			"il/elle": "a scindé",
+			"nous": "avons scindé",
+			"vous": "avez scindé",
+			"ils/elles": "ont scindé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais scindé",
+			"tu": "avais scindé",
+			"il/elle": "avait scindé",
+			"nous": "avions scindé",
+			"vous": "aviez scindé",
+			"ils/elles": "avaient scindé"
+		},
+		"passé antérieur": {
+			"j'": "eus scindé",
+			"tu": "eus scindé",
+			"il/elle": "eut scindé",
+			"nous": "eûmes scindé",
+			"vous": "eûtes scindé",
+			"ils/elles": "eurent scindé"
+		},
+		"futur antérieur": {
+			"j'": "aurai scindé",
+			"tu": "auras scindé",
+			"il/elle": "aura scindé",
+			"nous": "aurons scindé",
+			"vous": "aurez scindé",
+			"ils/elles": "auront scindé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous scindiez",
+			"qu'il/elle": "scinde",
+			"qu'ils/elles": "scindent"
+		},
+		"imparfait": {
+			"que": "vous scindassiez",
+			"qu'il/elle": "scindât",
+			"qu'ils/elles": "scindassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse scindé",
+			"que": "vous eussiez scindé",
+			"qu'il/elle": "eût scindé",
+			"qu'ils/elles": "eussent scindé"
+		},
+		"passé": {
+			"j'": "aie scindé",
+			"que": "vous ayez scindé",
+			"qu'il/elle": "ait scindé",
+			"qu'ils/elles": "aient scindé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "scinderais",
+			"tu": "scinderais",
+			"il/elle": "scinderait",
+			"nous": "scinderions",
+			"vous": "scinderiez",
+			"ils/elles": "scinderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais scindé",
+			"tu": "aurais scindé",
+			"il/elle": "aurait scindé",
+			"nous": "aurions scindé",
+			"vous": "auriez scindé",
+			"ils/elles": "auraient scindé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse scindé",
+			"tu": "eusses scindé",
+			"il/elle": "eût scindé",
+			"nous": "eussions scindé",
+			"vous": "eussiez scindé",
+			"ils/elles": "eussent scindé"
+		}
+	},
+	"participe": {
+		"présent": { "scindant": "" },
+		"passé composé": { "ayant": "scindé" },
+		"passé": {
+			"masc.sg.:": "scindé",
+			"masc.pl.:": "scindés",
+			"fém.sg.:": "scindée",
+			"fém.pl.:": "scindées"
+		}
+	},
+	"imperatif": {
+		"présent": { "scinde": "", "scindons": "", "scindez": "" },
+		"passé": { "aie": "scindé", "ayons": "scindé", "ayez": "scindé" }
+	},
+	"infinitif": { "présent": { "scinder": "" }, "passé": { "avoir": "scindé" } }
+}

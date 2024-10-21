@@ -1,0 +1,149 @@
+{
+	"name": "circonstancier",
+	"definition": "",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se circonstancier/ne pas circonstancier/ne pas se circonstancier",
+	"indicatif": {
+		"présent": {
+			"je": "circonstancie",
+			"tu": "circonstancies",
+			"il/elle": "circonstancie",
+			"nous": "circonstancions",
+			"vous": "circonstanciez",
+			"ils/elles": "circonstancient"
+		},
+		"imparfait": {
+			"je": "circonstanciais",
+			"tu": "circonstanciais",
+			"il/elle": "circonstanciait",
+			"nous": "circonstanciions",
+			"vous": "circonstanciiez",
+			"ils/elles": "circonstanciaient"
+		},
+		"futur": {
+			"je": "circonstancierai",
+			"tu": "circonstancieras",
+			"il/elle": "circonstanciera",
+			"nous": "circonstancierons",
+			"vous": "circonstancierez",
+			"ils/elles": "circonstancieront"
+		},
+		"passé simple": {
+			"je": "circonstanciai",
+			"tu": "circonstancias",
+			"il/elle": "circonstancia",
+			"nous": "circonstanciâmes",
+			"vous": "circonstanciâtes",
+			"ils/elles": "circonstancièrent"
+		},
+		"passé composé": {
+			"j'": "ai circonstancié",
+			"tu": "as circonstancié",
+			"il/elle": "a circonstancié",
+			"nous": "avons circonstancié",
+			"vous": "avez circonstancié",
+			"ils/elles": "ont circonstancié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais circonstancié",
+			"tu": "avais circonstancié",
+			"il/elle": "avait circonstancié",
+			"nous": "avions circonstancié",
+			"vous": "aviez circonstancié",
+			"ils/elles": "avaient circonstancié"
+		},
+		"passé antérieur": {
+			"j'": "eus circonstancié",
+			"tu": "eus circonstancié",
+			"il/elle": "eut circonstancié",
+			"nous": "eûmes circonstancié",
+			"vous": "eûtes circonstancié",
+			"ils/elles": "eurent circonstancié"
+		},
+		"futur antérieur": {
+			"j'": "aurai circonstancié",
+			"tu": "auras circonstancié",
+			"il/elle": "aura circonstancié",
+			"nous": "aurons circonstancié",
+			"vous": "aurez circonstancié",
+			"ils/elles": "auront circonstancié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous circonstanciiez",
+			"qu'il/elle": "circonstancie",
+			"qu'ils/elles": "circonstancient"
+		},
+		"imparfait": {
+			"que": "vous circonstanciassiez",
+			"qu'il/elle": "circonstanciât",
+			"qu'ils/elles": "circonstanciassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse circonstancié",
+			"que": "vous eussiez circonstancié",
+			"qu'il/elle": "eût circonstancié",
+			"qu'ils/elles": "eussent circonstancié"
+		},
+		"passé": {
+			"j'": "aie circonstancié",
+			"que": "vous ayez circonstancié",
+			"qu'il/elle": "ait circonstancié",
+			"qu'ils/elles": "aient circonstancié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "circonstancierais",
+			"tu": "circonstancierais",
+			"il/elle": "circonstancierait",
+			"nous": "circonstancierions",
+			"vous": "circonstancieriez",
+			"ils/elles": "circonstancieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais circonstancié",
+			"tu": "aurais circonstancié",
+			"il/elle": "aurait circonstancié",
+			"nous": "aurions circonstancié",
+			"vous": "auriez circonstancié",
+			"ils/elles": "auraient circonstancié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse circonstancié",
+			"tu": "eusses circonstancié",
+			"il/elle": "eût circonstancié",
+			"nous": "eussions circonstancié",
+			"vous": "eussiez circonstancié",
+			"ils/elles": "eussent circonstancié"
+		}
+	},
+	"participe": {
+		"présent": { "circonstanciant": "" },
+		"passé composé": { "ayant": "circonstancié" },
+		"passé": {
+			"masc.sg.:": "circonstancié",
+			"masc.pl.:": "circonstanciés",
+			"fém.sg.:": "circonstanciée",
+			"fém.pl.:": "circonstanciées"
+		}
+	},
+	"imperatif": {
+		"présent": {
+			"circonstancie": "",
+			"circonstancions": "",
+			"circonstanciez": ""
+		},
+		"passé": {
+			"aie": "circonstancié",
+			"ayons": "circonstancié",
+			"ayez": "circonstancié"
+		}
+	},
+	"infinitif": {
+		"présent": { "circonstancier": "" },
+		"passé": { "avoir": "circonstancié" }
+	}
+}

@@ -1,0 +1,141 @@
+{
+	"name": "séquencer",
+	"definition": "sequence; ...",
+	"model": "commencer",
+	"auxiliary": "avoir",
+	"otherForms": "se séquencer/ne pas séquencer/ne pas se séquencer",
+	"indicatif": {
+		"présent": {
+			"je": "séquence",
+			"tu": "séquences",
+			"il/elle": "séquence",
+			"nous": "séquençons",
+			"vous": "séquencez",
+			"ils/elles": "séquencent"
+		},
+		"imparfait": {
+			"je": "séquençais",
+			"tu": "séquençais",
+			"il/elle": "séquençait",
+			"nous": "séquencions",
+			"vous": "séquenciez",
+			"ils/elles": "séquençaient"
+		},
+		"futur": {
+			"je": "séquencerai",
+			"tu": "séquenceras",
+			"il/elle": "séquencera",
+			"nous": "séquencerons",
+			"vous": "séquencerez",
+			"ils/elles": "séquenceront"
+		},
+		"passé simple": {
+			"je": "séquençai",
+			"tu": "séquenças",
+			"il/elle": "séquença",
+			"nous": "séquençâmes",
+			"vous": "séquençâtes",
+			"ils/elles": "séquencèrent"
+		},
+		"passé composé": {
+			"j'": "ai séquencé",
+			"tu": "as séquencé",
+			"il/elle": "a séquencé",
+			"nous": "avons séquencé",
+			"vous": "avez séquencé",
+			"ils/elles": "ont séquencé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais séquencé",
+			"tu": "avais séquencé",
+			"il/elle": "avait séquencé",
+			"nous": "avions séquencé",
+			"vous": "aviez séquencé",
+			"ils/elles": "avaient séquencé"
+		},
+		"passé antérieur": {
+			"j'": "eus séquencé",
+			"tu": "eus séquencé",
+			"il/elle": "eut séquencé",
+			"nous": "eûmes séquencé",
+			"vous": "eûtes séquencé",
+			"ils/elles": "eurent séquencé"
+		},
+		"futur antérieur": {
+			"j'": "aurai séquencé",
+			"tu": "auras séquencé",
+			"il/elle": "aura séquencé",
+			"nous": "aurons séquencé",
+			"vous": "aurez séquencé",
+			"ils/elles": "auront séquencé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous séquenciez",
+			"qu'il/elle": "séquence",
+			"qu'ils/elles": "séquencent"
+		},
+		"imparfait": {
+			"que": "vous séquençassiez",
+			"qu'il/elle": "séquençât",
+			"qu'ils/elles": "séquençassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse séquencé",
+			"que": "vous eussiez séquencé",
+			"qu'il/elle": "eût séquencé",
+			"qu'ils/elles": "eussent séquencé"
+		},
+		"passé": {
+			"j'": "aie séquencé",
+			"que": "vous ayez séquencé",
+			"qu'il/elle": "ait séquencé",
+			"qu'ils/elles": "aient séquencé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "séquencerais",
+			"tu": "séquencerais",
+			"il/elle": "séquencerait",
+			"nous": "séquencerions",
+			"vous": "séquenceriez",
+			"ils/elles": "séquenceraient"
+		},
+		"passé première forme": {
+			"j'": "aurais séquencé",
+			"tu": "aurais séquencé",
+			"il/elle": "aurait séquencé",
+			"nous": "aurions séquencé",
+			"vous": "auriez séquencé",
+			"ils/elles": "auraient séquencé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse séquencé",
+			"tu": "eusses séquencé",
+			"il/elle": "eût séquencé",
+			"nous": "eussions séquencé",
+			"vous": "eussiez séquencé",
+			"ils/elles": "eussent séquencé"
+		}
+	},
+	"participe": {
+		"présent": { "séquençant": "" },
+		"passé composé": { "ayant": "séquencé" },
+		"passé": {
+			"masc.sg.:": "séquencé",
+			"masc.pl.:": "séquencés",
+			"fém.sg.:": "séquencée",
+			"fém.pl.:": "séquencées"
+		}
+	},
+	"imperatif": {
+		"présent": { "séquence": "", "séquençons": "", "séquencez": "" },
+		"passé": { "aie": "séquencé", "ayons": "séquencé", "ayez": "séquencé" }
+	},
+	"infinitif": {
+		"présent": { "séquencer": "" },
+		"passé": { "avoir": "séquencé" }
+	}
+}

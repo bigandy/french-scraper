@@ -1,0 +1,147 @@
+{
+	"name": "expérimenter",
+	"definition": "experience; experiment; test; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'expérimenter/ne pas expérimenter/ne pas s'expérimenter",
+	"indicatif": {
+		"présent": {
+			"j'": "expérimente",
+			"tu": "expérimentes",
+			"il/elle": "expérimente",
+			"nous": "expérimentons",
+			"vous": "expérimentez",
+			"ils/elles": "expérimentent"
+		},
+		"imparfait": {
+			"j'": "expérimentais",
+			"tu": "expérimentais",
+			"il/elle": "expérimentait",
+			"nous": "expérimentions",
+			"vous": "expérimentiez",
+			"ils/elles": "expérimentaient"
+		},
+		"futur": {
+			"j'": "expérimenterai",
+			"tu": "expérimenteras",
+			"il/elle": "expérimentera",
+			"nous": "expérimenterons",
+			"vous": "expérimenterez",
+			"ils/elles": "expérimenteront"
+		},
+		"passé simple": {
+			"j'": "expérimentai",
+			"tu": "expérimentas",
+			"il/elle": "expérimenta",
+			"nous": "expérimentâmes",
+			"vous": "expérimentâtes",
+			"ils/elles": "expérimentèrent"
+		},
+		"passé composé": {
+			"j'": "ai expérimenté",
+			"tu": "as expérimenté",
+			"il/elle": "a expérimenté",
+			"nous": "avons expérimenté",
+			"vous": "avez expérimenté",
+			"ils/elles": "ont expérimenté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais expérimenté",
+			"tu": "avais expérimenté",
+			"il/elle": "avait expérimenté",
+			"nous": "avions expérimenté",
+			"vous": "aviez expérimenté",
+			"ils/elles": "avaient expérimenté"
+		},
+		"passé antérieur": {
+			"j'": "eus expérimenté",
+			"tu": "eus expérimenté",
+			"il/elle": "eut expérimenté",
+			"nous": "eûmes expérimenté",
+			"vous": "eûtes expérimenté",
+			"ils/elles": "eurent expérimenté"
+		},
+		"futur antérieur": {
+			"j'": "aurai expérimenté",
+			"tu": "auras expérimenté",
+			"il/elle": "aura expérimenté",
+			"nous": "aurons expérimenté",
+			"vous": "aurez expérimenté",
+			"ils/elles": "auront expérimenté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "expérimente",
+			"que": "vous expérimentiez",
+			"qu'il/elle": "expérimente",
+			"qu'ils/elles": "expérimentent"
+		},
+		"imparfait": {
+			"j'": "expérimentasse",
+			"que": "vous expérimentassiez",
+			"qu'il/elle": "expérimentât",
+			"qu'ils/elles": "expérimentassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse expérimenté",
+			"que": "vous eussiez expérimenté",
+			"qu'il/elle": "eût expérimenté",
+			"qu'ils/elles": "eussent expérimenté"
+		},
+		"passé": {
+			"j'": "aie expérimenté",
+			"que": "vous ayez expérimenté",
+			"qu'il/elle": "ait expérimenté",
+			"qu'ils/elles": "aient expérimenté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "expérimenterais",
+			"tu": "expérimenterais",
+			"il/elle": "expérimenterait",
+			"nous": "expérimenterions",
+			"vous": "expérimenteriez",
+			"ils/elles": "expérimenteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais expérimenté",
+			"tu": "aurais expérimenté",
+			"il/elle": "aurait expérimenté",
+			"nous": "aurions expérimenté",
+			"vous": "auriez expérimenté",
+			"ils/elles": "auraient expérimenté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse expérimenté",
+			"tu": "eusses expérimenté",
+			"il/elle": "eût expérimenté",
+			"nous": "eussions expérimenté",
+			"vous": "eussiez expérimenté",
+			"ils/elles": "eussent expérimenté"
+		}
+	},
+	"participe": {
+		"présent": { "expérimentant": "" },
+		"passé composé": { "ayant": "expérimenté" },
+		"passé": {
+			"masc.sg.:": "expérimenté",
+			"masc.pl.:": "expérimentés",
+			"fém.sg.:": "expérimentée",
+			"fém.pl.:": "expérimentées"
+		}
+	},
+	"imperatif": {
+		"présent": { "expérimente": "", "expérimentons": "", "expérimentez": "" },
+		"passé": {
+			"aie": "expérimenté",
+			"ayons": "expérimenté",
+			"ayez": "expérimenté"
+		}
+	},
+	"infinitif": {
+		"présent": { "expérimenter": "" },
+		"passé": { "avoir": "expérimenté" }
+	}
+}

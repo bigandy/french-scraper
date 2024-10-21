@@ -1,0 +1,141 @@
+{
+	"name": "décrocher",
+	"definition": "pick up; win; land; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se décrocher/ne pas décrocher/ne pas se décrocher",
+	"indicatif": {
+		"présent": {
+			"je": "décroche",
+			"tu": "décroches",
+			"il/elle": "décroche",
+			"nous": "décrochons",
+			"vous": "décrochez",
+			"ils/elles": "décrochent"
+		},
+		"imparfait": {
+			"je": "décrochais",
+			"tu": "décrochais",
+			"il/elle": "décrochait",
+			"nous": "décrochions",
+			"vous": "décrochiez",
+			"ils/elles": "décrochaient"
+		},
+		"futur": {
+			"je": "décrocherai",
+			"tu": "décrocheras",
+			"il/elle": "décrochera",
+			"nous": "décrocherons",
+			"vous": "décrocherez",
+			"ils/elles": "décrocheront"
+		},
+		"passé simple": {
+			"je": "décrochai",
+			"tu": "décrochas",
+			"il/elle": "décrocha",
+			"nous": "décrochâmes",
+			"vous": "décrochâtes",
+			"ils/elles": "décrochèrent"
+		},
+		"passé composé": {
+			"j'": "ai décroché",
+			"tu": "as décroché",
+			"il/elle": "a décroché",
+			"nous": "avons décroché",
+			"vous": "avez décroché",
+			"ils/elles": "ont décroché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais décroché",
+			"tu": "avais décroché",
+			"il/elle": "avait décroché",
+			"nous": "avions décroché",
+			"vous": "aviez décroché",
+			"ils/elles": "avaient décroché"
+		},
+		"passé antérieur": {
+			"j'": "eus décroché",
+			"tu": "eus décroché",
+			"il/elle": "eut décroché",
+			"nous": "eûmes décroché",
+			"vous": "eûtes décroché",
+			"ils/elles": "eurent décroché"
+		},
+		"futur antérieur": {
+			"j'": "aurai décroché",
+			"tu": "auras décroché",
+			"il/elle": "aura décroché",
+			"nous": "aurons décroché",
+			"vous": "aurez décroché",
+			"ils/elles": "auront décroché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous décrochiez",
+			"qu'il/elle": "décroche",
+			"qu'ils/elles": "décrochent"
+		},
+		"imparfait": {
+			"que": "vous décrochassiez",
+			"qu'il/elle": "décrochât",
+			"qu'ils/elles": "décrochassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse décroché",
+			"que": "vous eussiez décroché",
+			"qu'il/elle": "eût décroché",
+			"qu'ils/elles": "eussent décroché"
+		},
+		"passé": {
+			"j'": "aie décroché",
+			"que": "vous ayez décroché",
+			"qu'il/elle": "ait décroché",
+			"qu'ils/elles": "aient décroché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "décrocherais",
+			"tu": "décrocherais",
+			"il/elle": "décrocherait",
+			"nous": "décrocherions",
+			"vous": "décrocheriez",
+			"ils/elles": "décrocheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais décroché",
+			"tu": "aurais décroché",
+			"il/elle": "aurait décroché",
+			"nous": "aurions décroché",
+			"vous": "auriez décroché",
+			"ils/elles": "auraient décroché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse décroché",
+			"tu": "eusses décroché",
+			"il/elle": "eût décroché",
+			"nous": "eussions décroché",
+			"vous": "eussiez décroché",
+			"ils/elles": "eussent décroché"
+		}
+	},
+	"participe": {
+		"présent": { "décrochant": "" },
+		"passé composé": { "ayant": "décroché" },
+		"passé": {
+			"masc.sg.:": "décroché",
+			"masc.pl.:": "décrochés",
+			"fém.sg.:": "décrochée",
+			"fém.pl.:": "décrochées"
+		}
+	},
+	"imperatif": {
+		"présent": { "décroche": "", "décrochons": "", "décrochez": "" },
+		"passé": { "aie": "décroché", "ayons": "décroché", "ayez": "décroché" }
+	},
+	"infinitif": {
+		"présent": { "décrocher": "" },
+		"passé": { "avoir": "décroché" }
+	}
+}

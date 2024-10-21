@@ -1,0 +1,147 @@
+{
+	"name": "interviewer",
+	"definition": "interview; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'interviewer/ne pas interviewer/ne pas s'interviewer",
+	"indicatif": {
+		"présent": {
+			"j'": "interviewe",
+			"tu": "interviewes",
+			"il/elle": "interviewe",
+			"nous": "interviewons",
+			"vous": "interviewez",
+			"ils/elles": "interviewent"
+		},
+		"imparfait": {
+			"j'": "interviewais",
+			"tu": "interviewais",
+			"il/elle": "interviewait",
+			"nous": "interviewions",
+			"vous": "interviewiez",
+			"ils/elles": "interviewaient"
+		},
+		"futur": {
+			"j'": "interviewerai",
+			"tu": "intervieweras",
+			"il/elle": "interviewera",
+			"nous": "interviewerons",
+			"vous": "interviewerez",
+			"ils/elles": "intervieweront"
+		},
+		"passé simple": {
+			"j'": "interviewai",
+			"tu": "interviewas",
+			"il/elle": "interviewa",
+			"nous": "interviewâmes",
+			"vous": "interviewâtes",
+			"ils/elles": "interviewèrent"
+		},
+		"passé composé": {
+			"j'": "ai interviewé",
+			"tu": "as interviewé",
+			"il/elle": "a interviewé",
+			"nous": "avons interviewé",
+			"vous": "avez interviewé",
+			"ils/elles": "ont interviewé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais interviewé",
+			"tu": "avais interviewé",
+			"il/elle": "avait interviewé",
+			"nous": "avions interviewé",
+			"vous": "aviez interviewé",
+			"ils/elles": "avaient interviewé"
+		},
+		"passé antérieur": {
+			"j'": "eus interviewé",
+			"tu": "eus interviewé",
+			"il/elle": "eut interviewé",
+			"nous": "eûmes interviewé",
+			"vous": "eûtes interviewé",
+			"ils/elles": "eurent interviewé"
+		},
+		"futur antérieur": {
+			"j'": "aurai interviewé",
+			"tu": "auras interviewé",
+			"il/elle": "aura interviewé",
+			"nous": "aurons interviewé",
+			"vous": "aurez interviewé",
+			"ils/elles": "auront interviewé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "interviewe",
+			"que": "vous interviewiez",
+			"qu'il/elle": "interviewe",
+			"qu'ils/elles": "interviewent"
+		},
+		"imparfait": {
+			"j'": "interviewasse",
+			"que": "vous interviewassiez",
+			"qu'il/elle": "interviewât",
+			"qu'ils/elles": "interviewassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse interviewé",
+			"que": "vous eussiez interviewé",
+			"qu'il/elle": "eût interviewé",
+			"qu'ils/elles": "eussent interviewé"
+		},
+		"passé": {
+			"j'": "aie interviewé",
+			"que": "vous ayez interviewé",
+			"qu'il/elle": "ait interviewé",
+			"qu'ils/elles": "aient interviewé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "interviewerais",
+			"tu": "interviewerais",
+			"il/elle": "interviewerait",
+			"nous": "interviewerions",
+			"vous": "intervieweriez",
+			"ils/elles": "intervieweraient"
+		},
+		"passé première forme": {
+			"j'": "aurais interviewé",
+			"tu": "aurais interviewé",
+			"il/elle": "aurait interviewé",
+			"nous": "aurions interviewé",
+			"vous": "auriez interviewé",
+			"ils/elles": "auraient interviewé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse interviewé",
+			"tu": "eusses interviewé",
+			"il/elle": "eût interviewé",
+			"nous": "eussions interviewé",
+			"vous": "eussiez interviewé",
+			"ils/elles": "eussent interviewé"
+		}
+	},
+	"participe": {
+		"présent": { "interviewant": "" },
+		"passé composé": { "ayant": "interviewé" },
+		"passé": {
+			"masc.sg.:": "interviewé",
+			"masc.pl.:": "interviewés",
+			"fém.sg.:": "interviewée",
+			"fém.pl.:": "interviewées"
+		}
+	},
+	"imperatif": {
+		"présent": { "interviewe": "", "interviewons": "", "interviewez": "" },
+		"passé": {
+			"aie": "interviewé",
+			"ayons": "interviewé",
+			"ayez": "interviewé"
+		}
+	},
+	"infinitif": {
+		"présent": { "interviewer": "" },
+		"passé": { "avoir": "interviewé" }
+	}
+}

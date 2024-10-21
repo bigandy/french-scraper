@@ -1,0 +1,138 @@
+{
+	"name": "pirater",
+	"definition": "hack; hack into; crack; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas pirater",
+	"indicatif": {
+		"présent": {
+			"je": "pirate",
+			"tu": "pirates",
+			"il/elle": "pirate",
+			"nous": "piratons",
+			"vous": "piratez",
+			"ils/elles": "piratent"
+		},
+		"imparfait": {
+			"je": "piratais",
+			"tu": "piratais",
+			"il/elle": "piratait",
+			"nous": "pirations",
+			"vous": "piratiez",
+			"ils/elles": "pirataient"
+		},
+		"futur": {
+			"je": "piraterai",
+			"tu": "pirateras",
+			"il/elle": "piratera",
+			"nous": "piraterons",
+			"vous": "piraterez",
+			"ils/elles": "pirateront"
+		},
+		"passé simple": {
+			"je": "piratai",
+			"tu": "piratas",
+			"il/elle": "pirata",
+			"nous": "piratâmes",
+			"vous": "piratâtes",
+			"ils/elles": "piratèrent"
+		},
+		"passé composé": {
+			"j'": "ai piraté",
+			"tu": "as piraté",
+			"il/elle": "a piraté",
+			"nous": "avons piraté",
+			"vous": "avez piraté",
+			"ils/elles": "ont piraté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais piraté",
+			"tu": "avais piraté",
+			"il/elle": "avait piraté",
+			"nous": "avions piraté",
+			"vous": "aviez piraté",
+			"ils/elles": "avaient piraté"
+		},
+		"passé antérieur": {
+			"j'": "eus piraté",
+			"tu": "eus piraté",
+			"il/elle": "eut piraté",
+			"nous": "eûmes piraté",
+			"vous": "eûtes piraté",
+			"ils/elles": "eurent piraté"
+		},
+		"futur antérieur": {
+			"j'": "aurai piraté",
+			"tu": "auras piraté",
+			"il/elle": "aura piraté",
+			"nous": "aurons piraté",
+			"vous": "aurez piraté",
+			"ils/elles": "auront piraté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous piratiez",
+			"qu'il/elle": "pirate",
+			"qu'ils/elles": "piratent"
+		},
+		"imparfait": {
+			"que": "vous piratassiez",
+			"qu'il/elle": "piratât",
+			"qu'ils/elles": "piratassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse piraté",
+			"que": "vous eussiez piraté",
+			"qu'il/elle": "eût piraté",
+			"qu'ils/elles": "eussent piraté"
+		},
+		"passé": {
+			"j'": "aie piraté",
+			"que": "vous ayez piraté",
+			"qu'il/elle": "ait piraté",
+			"qu'ils/elles": "aient piraté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "piraterais",
+			"tu": "piraterais",
+			"il/elle": "piraterait",
+			"nous": "piraterions",
+			"vous": "pirateriez",
+			"ils/elles": "pirateraient"
+		},
+		"passé première forme": {
+			"j'": "aurais piraté",
+			"tu": "aurais piraté",
+			"il/elle": "aurait piraté",
+			"nous": "aurions piraté",
+			"vous": "auriez piraté",
+			"ils/elles": "auraient piraté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse piraté",
+			"tu": "eusses piraté",
+			"il/elle": "eût piraté",
+			"nous": "eussions piraté",
+			"vous": "eussiez piraté",
+			"ils/elles": "eussent piraté"
+		}
+	},
+	"participe": {
+		"présent": { "piratant": "" },
+		"passé composé": { "ayant": "piraté" },
+		"passé": {
+			"masc.sg.:": "piraté",
+			"masc.pl.:": "piratés",
+			"fém.sg.:": "piratée",
+			"fém.pl.:": "piratées"
+		}
+	},
+	"imperatif": {
+		"présent": { "pirate": "", "piratons": "", "piratez": "" },
+		"passé": { "aie": "piraté", "ayons": "piraté", "ayez": "piraté" }
+	},
+	"infinitif": { "présent": { "pirater": "" }, "passé": { "avoir": "piraté" } }
+}

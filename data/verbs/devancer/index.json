@@ -1,0 +1,141 @@
+{
+	"name": "devancer",
+	"definition": "pre-empt; anticipate; beat; ...",
+	"model": "commencer",
+	"auxiliary": "avoir",
+	"otherForms": "se devancer/ne pas devancer/ne pas se devancer",
+	"indicatif": {
+		"présent": {
+			"je": "devance",
+			"tu": "devances",
+			"il/elle": "devance",
+			"nous": "devançons",
+			"vous": "devancez",
+			"ils/elles": "devancent"
+		},
+		"imparfait": {
+			"je": "devançais",
+			"tu": "devançais",
+			"il/elle": "devançait",
+			"nous": "devancions",
+			"vous": "devanciez",
+			"ils/elles": "devançaient"
+		},
+		"futur": {
+			"je": "devancerai",
+			"tu": "devanceras",
+			"il/elle": "devancera",
+			"nous": "devancerons",
+			"vous": "devancerez",
+			"ils/elles": "devanceront"
+		},
+		"passé simple": {
+			"je": "devançai",
+			"tu": "devanças",
+			"il/elle": "devança",
+			"nous": "devançâmes",
+			"vous": "devançâtes",
+			"ils/elles": "devancèrent"
+		},
+		"passé composé": {
+			"j'": "ai devancé",
+			"tu": "as devancé",
+			"il/elle": "a devancé",
+			"nous": "avons devancé",
+			"vous": "avez devancé",
+			"ils/elles": "ont devancé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais devancé",
+			"tu": "avais devancé",
+			"il/elle": "avait devancé",
+			"nous": "avions devancé",
+			"vous": "aviez devancé",
+			"ils/elles": "avaient devancé"
+		},
+		"passé antérieur": {
+			"j'": "eus devancé",
+			"tu": "eus devancé",
+			"il/elle": "eut devancé",
+			"nous": "eûmes devancé",
+			"vous": "eûtes devancé",
+			"ils/elles": "eurent devancé"
+		},
+		"futur antérieur": {
+			"j'": "aurai devancé",
+			"tu": "auras devancé",
+			"il/elle": "aura devancé",
+			"nous": "aurons devancé",
+			"vous": "aurez devancé",
+			"ils/elles": "auront devancé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous devanciez",
+			"qu'il/elle": "devance",
+			"qu'ils/elles": "devancent"
+		},
+		"imparfait": {
+			"que": "vous devançassiez",
+			"qu'il/elle": "devançât",
+			"qu'ils/elles": "devançassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse devancé",
+			"que": "vous eussiez devancé",
+			"qu'il/elle": "eût devancé",
+			"qu'ils/elles": "eussent devancé"
+		},
+		"passé": {
+			"j'": "aie devancé",
+			"que": "vous ayez devancé",
+			"qu'il/elle": "ait devancé",
+			"qu'ils/elles": "aient devancé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "devancerais",
+			"tu": "devancerais",
+			"il/elle": "devancerait",
+			"nous": "devancerions",
+			"vous": "devanceriez",
+			"ils/elles": "devanceraient"
+		},
+		"passé première forme": {
+			"j'": "aurais devancé",
+			"tu": "aurais devancé",
+			"il/elle": "aurait devancé",
+			"nous": "aurions devancé",
+			"vous": "auriez devancé",
+			"ils/elles": "auraient devancé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse devancé",
+			"tu": "eusses devancé",
+			"il/elle": "eût devancé",
+			"nous": "eussions devancé",
+			"vous": "eussiez devancé",
+			"ils/elles": "eussent devancé"
+		}
+	},
+	"participe": {
+		"présent": { "devançant": "" },
+		"passé composé": { "ayant": "devancé" },
+		"passé": {
+			"masc.sg.:": "devancé",
+			"masc.pl.:": "devancés",
+			"fém.sg.:": "devancée",
+			"fém.pl.:": "devancées"
+		}
+	},
+	"imperatif": {
+		"présent": { "devance": "", "devançons": "", "devancez": "" },
+		"passé": { "aie": "devancé", "ayons": "devancé", "ayez": "devancé" }
+	},
+	"infinitif": {
+		"présent": { "devancer": "" },
+		"passé": { "avoir": "devancé" }
+	}
+}

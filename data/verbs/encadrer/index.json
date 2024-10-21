@@ -1,0 +1,143 @@
+{
+	"name": "encadrer",
+	"definition": "frame; mentor; supervise; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'encadrer/ne pas encadrer/ne pas s'encadrer",
+	"indicatif": {
+		"présent": {
+			"j'": "encadre",
+			"tu": "encadres",
+			"il/elle": "encadre",
+			"nous": "encadrons",
+			"vous": "encadrez",
+			"ils/elles": "encadrent"
+		},
+		"imparfait": {
+			"j'": "encadrais",
+			"tu": "encadrais",
+			"il/elle": "encadrait",
+			"nous": "encadrions",
+			"vous": "encadriez",
+			"ils/elles": "encadraient"
+		},
+		"futur": {
+			"j'": "encadrerai",
+			"tu": "encadreras",
+			"il/elle": "encadrera",
+			"nous": "encadrerons",
+			"vous": "encadrerez",
+			"ils/elles": "encadreront"
+		},
+		"passé simple": {
+			"j'": "encadrai",
+			"tu": "encadras",
+			"il/elle": "encadra",
+			"nous": "encadrâmes",
+			"vous": "encadrâtes",
+			"ils/elles": "encadrèrent"
+		},
+		"passé composé": {
+			"j'": "ai encadré",
+			"tu": "as encadré",
+			"il/elle": "a encadré",
+			"nous": "avons encadré",
+			"vous": "avez encadré",
+			"ils/elles": "ont encadré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais encadré",
+			"tu": "avais encadré",
+			"il/elle": "avait encadré",
+			"nous": "avions encadré",
+			"vous": "aviez encadré",
+			"ils/elles": "avaient encadré"
+		},
+		"passé antérieur": {
+			"j'": "eus encadré",
+			"tu": "eus encadré",
+			"il/elle": "eut encadré",
+			"nous": "eûmes encadré",
+			"vous": "eûtes encadré",
+			"ils/elles": "eurent encadré"
+		},
+		"futur antérieur": {
+			"j'": "aurai encadré",
+			"tu": "auras encadré",
+			"il/elle": "aura encadré",
+			"nous": "aurons encadré",
+			"vous": "aurez encadré",
+			"ils/elles": "auront encadré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "encadre",
+			"que": "vous encadriez",
+			"qu'il/elle": "encadre",
+			"qu'ils/elles": "encadrent"
+		},
+		"imparfait": {
+			"j'": "encadrasse",
+			"que": "vous encadrassiez",
+			"qu'il/elle": "encadrât",
+			"qu'ils/elles": "encadrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse encadré",
+			"que": "vous eussiez encadré",
+			"qu'il/elle": "eût encadré",
+			"qu'ils/elles": "eussent encadré"
+		},
+		"passé": {
+			"j'": "aie encadré",
+			"que": "vous ayez encadré",
+			"qu'il/elle": "ait encadré",
+			"qu'ils/elles": "aient encadré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "encadrerais",
+			"tu": "encadrerais",
+			"il/elle": "encadrerait",
+			"nous": "encadrerions",
+			"vous": "encadreriez",
+			"ils/elles": "encadreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais encadré",
+			"tu": "aurais encadré",
+			"il/elle": "aurait encadré",
+			"nous": "aurions encadré",
+			"vous": "auriez encadré",
+			"ils/elles": "auraient encadré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse encadré",
+			"tu": "eusses encadré",
+			"il/elle": "eût encadré",
+			"nous": "eussions encadré",
+			"vous": "eussiez encadré",
+			"ils/elles": "eussent encadré"
+		}
+	},
+	"participe": {
+		"présent": { "encadrant": "" },
+		"passé composé": { "ayant": "encadré" },
+		"passé": {
+			"masc.sg.:": "encadré",
+			"masc.pl.:": "encadrés",
+			"fém.sg.:": "encadrée",
+			"fém.pl.:": "encadrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "encadre": "", "encadrons": "", "encadrez": "" },
+		"passé": { "aie": "encadré", "ayons": "encadré", "ayez": "encadré" }
+	},
+	"infinitif": {
+		"présent": { "encadrer": "" },
+		"passé": { "avoir": "encadré" }
+	}
+}

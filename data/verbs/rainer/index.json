@@ -1,0 +1,138 @@
+{
+	"name": "rainer",
+	"definition": "",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se rainer/ne pas rainer/ne pas se rainer",
+	"indicatif": {
+		"présent": {
+			"je": "raine",
+			"tu": "raines",
+			"il/elle": "raine",
+			"nous": "rainons",
+			"vous": "rainez",
+			"ils/elles": "rainent"
+		},
+		"imparfait": {
+			"je": "rainais",
+			"tu": "rainais",
+			"il/elle": "rainait",
+			"nous": "rainions",
+			"vous": "rainiez",
+			"ils/elles": "rainaient"
+		},
+		"futur": {
+			"je": "rainerai",
+			"tu": "raineras",
+			"il/elle": "rainera",
+			"nous": "rainerons",
+			"vous": "rainerez",
+			"ils/elles": "raineront"
+		},
+		"passé simple": {
+			"je": "rainai",
+			"tu": "rainas",
+			"il/elle": "raina",
+			"nous": "rainâmes",
+			"vous": "rainâtes",
+			"ils/elles": "rainèrent"
+		},
+		"passé composé": {
+			"j'": "ai rainé",
+			"tu": "as rainé",
+			"il/elle": "a rainé",
+			"nous": "avons rainé",
+			"vous": "avez rainé",
+			"ils/elles": "ont rainé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais rainé",
+			"tu": "avais rainé",
+			"il/elle": "avait rainé",
+			"nous": "avions rainé",
+			"vous": "aviez rainé",
+			"ils/elles": "avaient rainé"
+		},
+		"passé antérieur": {
+			"j'": "eus rainé",
+			"tu": "eus rainé",
+			"il/elle": "eut rainé",
+			"nous": "eûmes rainé",
+			"vous": "eûtes rainé",
+			"ils/elles": "eurent rainé"
+		},
+		"futur antérieur": {
+			"j'": "aurai rainé",
+			"tu": "auras rainé",
+			"il/elle": "aura rainé",
+			"nous": "aurons rainé",
+			"vous": "aurez rainé",
+			"ils/elles": "auront rainé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous rainiez",
+			"qu'il/elle": "raine",
+			"qu'ils/elles": "rainent"
+		},
+		"imparfait": {
+			"que": "vous rainassiez",
+			"qu'il/elle": "rainât",
+			"qu'ils/elles": "rainassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse rainé",
+			"que": "vous eussiez rainé",
+			"qu'il/elle": "eût rainé",
+			"qu'ils/elles": "eussent rainé"
+		},
+		"passé": {
+			"j'": "aie rainé",
+			"que": "vous ayez rainé",
+			"qu'il/elle": "ait rainé",
+			"qu'ils/elles": "aient rainé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "rainerais",
+			"tu": "rainerais",
+			"il/elle": "rainerait",
+			"nous": "rainerions",
+			"vous": "raineriez",
+			"ils/elles": "raineraient"
+		},
+		"passé première forme": {
+			"j'": "aurais rainé",
+			"tu": "aurais rainé",
+			"il/elle": "aurait rainé",
+			"nous": "aurions rainé",
+			"vous": "auriez rainé",
+			"ils/elles": "auraient rainé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse rainé",
+			"tu": "eusses rainé",
+			"il/elle": "eût rainé",
+			"nous": "eussions rainé",
+			"vous": "eussiez rainé",
+			"ils/elles": "eussent rainé"
+		}
+	},
+	"participe": {
+		"présent": { "rainant": "" },
+		"passé composé": { "ayant": "rainé" },
+		"passé": {
+			"masc.sg.:": "rainé",
+			"masc.pl.:": "rainés",
+			"fém.sg.:": "rainée",
+			"fém.pl.:": "rainées"
+		}
+	},
+	"imperatif": {
+		"présent": { "raine": "", "rainons": "", "rainez": "" },
+		"passé": { "aie": "rainé", "ayons": "rainé", "ayez": "rainé" }
+	},
+	"infinitif": { "présent": { "rainer": "" }, "passé": { "avoir": "rainé" } }
+}

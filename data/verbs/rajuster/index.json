@@ -1,0 +1,141 @@
+{
+	"name": "rajuster",
+	"definition": "adjust; readjust; reset; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se rajuster/ne pas rajuster/ne pas se rajuster",
+	"indicatif": {
+		"présent": {
+			"je": "rajuste",
+			"tu": "rajustes",
+			"il/elle": "rajuste",
+			"nous": "rajustons",
+			"vous": "rajustez",
+			"ils/elles": "rajustent"
+		},
+		"imparfait": {
+			"je": "rajustais",
+			"tu": "rajustais",
+			"il/elle": "rajustait",
+			"nous": "rajustions",
+			"vous": "rajustiez",
+			"ils/elles": "rajustaient"
+		},
+		"futur": {
+			"je": "rajusterai",
+			"tu": "rajusteras",
+			"il/elle": "rajustera",
+			"nous": "rajusterons",
+			"vous": "rajusterez",
+			"ils/elles": "rajusteront"
+		},
+		"passé simple": {
+			"je": "rajustai",
+			"tu": "rajustas",
+			"il/elle": "rajusta",
+			"nous": "rajustâmes",
+			"vous": "rajustâtes",
+			"ils/elles": "rajustèrent"
+		},
+		"passé composé": {
+			"j'": "ai rajusté",
+			"tu": "as rajusté",
+			"il/elle": "a rajusté",
+			"nous": "avons rajusté",
+			"vous": "avez rajusté",
+			"ils/elles": "ont rajusté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais rajusté",
+			"tu": "avais rajusté",
+			"il/elle": "avait rajusté",
+			"nous": "avions rajusté",
+			"vous": "aviez rajusté",
+			"ils/elles": "avaient rajusté"
+		},
+		"passé antérieur": {
+			"j'": "eus rajusté",
+			"tu": "eus rajusté",
+			"il/elle": "eut rajusté",
+			"nous": "eûmes rajusté",
+			"vous": "eûtes rajusté",
+			"ils/elles": "eurent rajusté"
+		},
+		"futur antérieur": {
+			"j'": "aurai rajusté",
+			"tu": "auras rajusté",
+			"il/elle": "aura rajusté",
+			"nous": "aurons rajusté",
+			"vous": "aurez rajusté",
+			"ils/elles": "auront rajusté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous rajustiez",
+			"qu'il/elle": "rajuste",
+			"qu'ils/elles": "rajustent"
+		},
+		"imparfait": {
+			"que": "vous rajustassiez",
+			"qu'il/elle": "rajustât",
+			"qu'ils/elles": "rajustassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse rajusté",
+			"que": "vous eussiez rajusté",
+			"qu'il/elle": "eût rajusté",
+			"qu'ils/elles": "eussent rajusté"
+		},
+		"passé": {
+			"j'": "aie rajusté",
+			"que": "vous ayez rajusté",
+			"qu'il/elle": "ait rajusté",
+			"qu'ils/elles": "aient rajusté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "rajusterais",
+			"tu": "rajusterais",
+			"il/elle": "rajusterait",
+			"nous": "rajusterions",
+			"vous": "rajusteriez",
+			"ils/elles": "rajusteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais rajusté",
+			"tu": "aurais rajusté",
+			"il/elle": "aurait rajusté",
+			"nous": "aurions rajusté",
+			"vous": "auriez rajusté",
+			"ils/elles": "auraient rajusté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse rajusté",
+			"tu": "eusses rajusté",
+			"il/elle": "eût rajusté",
+			"nous": "eussions rajusté",
+			"vous": "eussiez rajusté",
+			"ils/elles": "eussent rajusté"
+		}
+	},
+	"participe": {
+		"présent": { "rajustant": "" },
+		"passé composé": { "ayant": "rajusté" },
+		"passé": {
+			"masc.sg.:": "rajusté",
+			"masc.pl.:": "rajustés",
+			"fém.sg.:": "rajustée",
+			"fém.pl.:": "rajustées"
+		}
+	},
+	"imperatif": {
+		"présent": { "rajuste": "", "rajustons": "", "rajustez": "" },
+		"passé": { "aie": "rajusté", "ayons": "rajusté", "ayez": "rajusté" }
+	},
+	"infinitif": {
+		"présent": { "rajuster": "" },
+		"passé": { "avoir": "rajusté" }
+	}
+}

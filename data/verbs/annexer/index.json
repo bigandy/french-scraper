@@ -1,0 +1,140 @@
+{
+	"name": "annexer",
+	"definition": "annex; attach; append; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'annexer/ne pas annexer/ne pas s'annexer",
+	"indicatif": {
+		"présent": {
+			"j'": "annexe",
+			"tu": "annexes",
+			"il/elle": "annexe",
+			"nous": "annexons",
+			"vous": "annexez",
+			"ils/elles": "annexent"
+		},
+		"imparfait": {
+			"j'": "annexais",
+			"tu": "annexais",
+			"il/elle": "annexait",
+			"nous": "annexions",
+			"vous": "annexiez",
+			"ils/elles": "annexaient"
+		},
+		"futur": {
+			"j'": "annexerai",
+			"tu": "annexeras",
+			"il/elle": "annexera",
+			"nous": "annexerons",
+			"vous": "annexerez",
+			"ils/elles": "annexeront"
+		},
+		"passé simple": {
+			"j'": "annexai",
+			"tu": "annexas",
+			"il/elle": "annexa",
+			"nous": "annexâmes",
+			"vous": "annexâtes",
+			"ils/elles": "annexèrent"
+		},
+		"passé composé": {
+			"j'": "ai annexé",
+			"tu": "as annexé",
+			"il/elle": "a annexé",
+			"nous": "avons annexé",
+			"vous": "avez annexé",
+			"ils/elles": "ont annexé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais annexé",
+			"tu": "avais annexé",
+			"il/elle": "avait annexé",
+			"nous": "avions annexé",
+			"vous": "aviez annexé",
+			"ils/elles": "avaient annexé"
+		},
+		"passé antérieur": {
+			"j'": "eus annexé",
+			"tu": "eus annexé",
+			"il/elle": "eut annexé",
+			"nous": "eûmes annexé",
+			"vous": "eûtes annexé",
+			"ils/elles": "eurent annexé"
+		},
+		"futur antérieur": {
+			"j'": "aurai annexé",
+			"tu": "auras annexé",
+			"il/elle": "aura annexé",
+			"nous": "aurons annexé",
+			"vous": "aurez annexé",
+			"ils/elles": "auront annexé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "annexe",
+			"que": "vous annexiez",
+			"qu'il/elle": "annexe",
+			"qu'ils/elles": "annexent"
+		},
+		"imparfait": {
+			"j'": "annexasse",
+			"que": "vous annexassiez",
+			"qu'il/elle": "annexât",
+			"qu'ils/elles": "annexassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse annexé",
+			"que": "vous eussiez annexé",
+			"qu'il/elle": "eût annexé",
+			"qu'ils/elles": "eussent annexé"
+		},
+		"passé": {
+			"j'": "aie annexé",
+			"que": "vous ayez annexé",
+			"qu'il/elle": "ait annexé",
+			"qu'ils/elles": "aient annexé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "annexerais",
+			"tu": "annexerais",
+			"il/elle": "annexerait",
+			"nous": "annexerions",
+			"vous": "annexeriez",
+			"ils/elles": "annexeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais annexé",
+			"tu": "aurais annexé",
+			"il/elle": "aurait annexé",
+			"nous": "aurions annexé",
+			"vous": "auriez annexé",
+			"ils/elles": "auraient annexé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse annexé",
+			"tu": "eusses annexé",
+			"il/elle": "eût annexé",
+			"nous": "eussions annexé",
+			"vous": "eussiez annexé",
+			"ils/elles": "eussent annexé"
+		}
+	},
+	"participe": {
+		"présent": { "annexant": "" },
+		"passé composé": { "ayant": "annexé" },
+		"passé": {
+			"masc.sg.:": "annexé",
+			"masc.pl.:": "annexés",
+			"fém.sg.:": "annexée",
+			"fém.pl.:": "annexées"
+		}
+	},
+	"imperatif": {
+		"présent": { "annexe": "", "annexons": "", "annexez": "" },
+		"passé": { "aie": "annexé", "ayons": "annexé", "ayez": "annexé" }
+	},
+	"infinitif": { "présent": { "annexer": "" }, "passé": { "avoir": "annexé" } }
+}

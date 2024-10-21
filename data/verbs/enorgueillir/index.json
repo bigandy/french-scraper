@@ -1,0 +1,151 @@
+{
+	"name": "enorgueillir",
+	"definition": "be proud; pride; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "s'enorgueillir/ne pas enorgueillir/ne pas s'enorgueillir",
+	"indicatif": {
+		"présent": {
+			"j'": "enorgueillis",
+			"tu": "enorgueillis",
+			"il/elle": "enorgueillit",
+			"nous": "enorgueillissons",
+			"vous": "enorgueillissez",
+			"ils/elles": "enorgueillissent"
+		},
+		"imparfait": {
+			"j'": "enorgueillissais",
+			"tu": "enorgueillissais",
+			"il/elle": "enorgueillissait",
+			"nous": "enorgueillissions",
+			"vous": "enorgueillissiez",
+			"ils/elles": "enorgueillissaient"
+		},
+		"futur": {
+			"j'": "enorgueillirai",
+			"tu": "enorgueilliras",
+			"il/elle": "enorgueillira",
+			"nous": "enorgueillirons",
+			"vous": "enorgueillirez",
+			"ils/elles": "enorgueilliront"
+		},
+		"passé simple": {
+			"j'": "enorgueillis",
+			"tu": "enorgueillis",
+			"il/elle": "enorgueillit",
+			"nous": "enorgueillîmes",
+			"vous": "enorgueillîtes",
+			"ils/elles": "enorgueillirent"
+		},
+		"passé composé": {
+			"j'": "ai enorgueilli",
+			"tu": "as enorgueilli",
+			"il/elle": "a enorgueilli",
+			"nous": "avons enorgueilli",
+			"vous": "avez enorgueilli",
+			"ils/elles": "ont enorgueilli"
+		},
+		"plus-que-parfait": {
+			"j'": "avais enorgueilli",
+			"tu": "avais enorgueilli",
+			"il/elle": "avait enorgueilli",
+			"nous": "avions enorgueilli",
+			"vous": "aviez enorgueilli",
+			"ils/elles": "avaient enorgueilli"
+		},
+		"passé antérieur": {
+			"j'": "eus enorgueilli",
+			"tu": "eus enorgueilli",
+			"il/elle": "eut enorgueilli",
+			"nous": "eûmes enorgueilli",
+			"vous": "eûtes enorgueilli",
+			"ils/elles": "eurent enorgueilli"
+		},
+		"futur antérieur": {
+			"j'": "aurai enorgueilli",
+			"tu": "auras enorgueilli",
+			"il/elle": "aura enorgueilli",
+			"nous": "aurons enorgueilli",
+			"vous": "aurez enorgueilli",
+			"ils/elles": "auront enorgueilli"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "enorgueillisse",
+			"que": "vous enorgueillissiez",
+			"qu'il/elle": "enorgueillisse",
+			"qu'ils/elles": "enorgueillissent"
+		},
+		"imparfait": {
+			"j'": "enorgueillisse",
+			"que": "vous enorgueillissiez",
+			"qu'il/elle": "enorgueillît",
+			"qu'ils/elles": "enorgueillissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse enorgueilli",
+			"que": "vous eussiez enorgueilli",
+			"qu'il/elle": "eût enorgueilli",
+			"qu'ils/elles": "eussent enorgueilli"
+		},
+		"passé": {
+			"j'": "aie enorgueilli",
+			"que": "vous ayez enorgueilli",
+			"qu'il/elle": "ait enorgueilli",
+			"qu'ils/elles": "aient enorgueilli"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "enorgueillirais",
+			"tu": "enorgueillirais",
+			"il/elle": "enorgueillirait",
+			"nous": "enorgueillirions",
+			"vous": "enorgueilliriez",
+			"ils/elles": "enorgueilliraient"
+		},
+		"passé première forme": {
+			"j'": "aurais enorgueilli",
+			"tu": "aurais enorgueilli",
+			"il/elle": "aurait enorgueilli",
+			"nous": "aurions enorgueilli",
+			"vous": "auriez enorgueilli",
+			"ils/elles": "auraient enorgueilli"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse enorgueilli",
+			"tu": "eusses enorgueilli",
+			"il/elle": "eût enorgueilli",
+			"nous": "eussions enorgueilli",
+			"vous": "eussiez enorgueilli",
+			"ils/elles": "eussent enorgueilli"
+		}
+	},
+	"participe": {
+		"présent": { "enorgueillissant": "" },
+		"passé composé": { "ayant": "enorgueilli" },
+		"passé": {
+			"masc.sg.:": "enorgueilli",
+			"masc.pl.:": "enorgueillis",
+			"fém.sg.:": "enorgueillie",
+			"fém.pl.:": "enorgueillies"
+		}
+	},
+	"imperatif": {
+		"présent": {
+			"enorgueillis": "",
+			"enorgueillissons": "",
+			"enorgueillissez": ""
+		},
+		"passé": {
+			"aie": "enorgueilli",
+			"ayons": "enorgueilli",
+			"ayez": "enorgueilli"
+		}
+	},
+	"infinitif": {
+		"présent": { "enorgueillir": "" },
+		"passé": { "avoir": "enorgueilli" }
+	}
+}

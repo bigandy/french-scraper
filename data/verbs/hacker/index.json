@@ -1,0 +1,138 @@
+{
+	"name": "hacker",
+	"definition": "hack; crack; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se hacker/ne pas hacker/ne pas se hacker",
+	"indicatif": {
+		"présent": {
+			"je": "hacke",
+			"tu": "hackes",
+			"il/elle": "hacke",
+			"nous": "hackons",
+			"vous": "hackez",
+			"ils/elles": "hackent"
+		},
+		"imparfait": {
+			"je": "hackais",
+			"tu": "hackais",
+			"il/elle": "hackait",
+			"nous": "hackions",
+			"vous": "hackiez",
+			"ils/elles": "hackaient"
+		},
+		"futur": {
+			"je": "hackerai",
+			"tu": "hackeras",
+			"il/elle": "hackera",
+			"nous": "hackerons",
+			"vous": "hackerez",
+			"ils/elles": "hackeront"
+		},
+		"passé simple": {
+			"je": "hackai",
+			"tu": "hackas",
+			"il/elle": "hacka",
+			"nous": "hackâmes",
+			"vous": "hackâtes",
+			"ils/elles": "hackèrent"
+		},
+		"passé composé": {
+			"j'": "ai hacké",
+			"tu": "as hacké",
+			"il/elle": "a hacké",
+			"nous": "avons hacké",
+			"vous": "avez hacké",
+			"ils/elles": "ont hacké"
+		},
+		"plus-que-parfait": {
+			"j'": "avais hacké",
+			"tu": "avais hacké",
+			"il/elle": "avait hacké",
+			"nous": "avions hacké",
+			"vous": "aviez hacké",
+			"ils/elles": "avaient hacké"
+		},
+		"passé antérieur": {
+			"j'": "eus hacké",
+			"tu": "eus hacké",
+			"il/elle": "eut hacké",
+			"nous": "eûmes hacké",
+			"vous": "eûtes hacké",
+			"ils/elles": "eurent hacké"
+		},
+		"futur antérieur": {
+			"j'": "aurai hacké",
+			"tu": "auras hacké",
+			"il/elle": "aura hacké",
+			"nous": "aurons hacké",
+			"vous": "aurez hacké",
+			"ils/elles": "auront hacké"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous hackiez",
+			"qu'il/elle": "hacke",
+			"qu'ils/elles": "hackent"
+		},
+		"imparfait": {
+			"que": "vous hackassiez",
+			"qu'il/elle": "hackât",
+			"qu'ils/elles": "hackassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse hacké",
+			"que": "vous eussiez hacké",
+			"qu'il/elle": "eût hacké",
+			"qu'ils/elles": "eussent hacké"
+		},
+		"passé": {
+			"j'": "aie hacké",
+			"que": "vous ayez hacké",
+			"qu'il/elle": "ait hacké",
+			"qu'ils/elles": "aient hacké"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "hackerais",
+			"tu": "hackerais",
+			"il/elle": "hackerait",
+			"nous": "hackerions",
+			"vous": "hackeriez",
+			"ils/elles": "hackeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais hacké",
+			"tu": "aurais hacké",
+			"il/elle": "aurait hacké",
+			"nous": "aurions hacké",
+			"vous": "auriez hacké",
+			"ils/elles": "auraient hacké"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse hacké",
+			"tu": "eusses hacké",
+			"il/elle": "eût hacké",
+			"nous": "eussions hacké",
+			"vous": "eussiez hacké",
+			"ils/elles": "eussent hacké"
+		}
+	},
+	"participe": {
+		"présent": { "hackant": "" },
+		"passé composé": { "ayant": "hacké" },
+		"passé": {
+			"masc.sg.:": "hacké",
+			"masc.pl.:": "hackés",
+			"fém.sg.:": "hackée",
+			"fém.pl.:": "hackées"
+		}
+	},
+	"imperatif": {
+		"présent": { "hacke": "", "hackons": "", "hackez": "" },
+		"passé": { "aie": "hacké", "ayons": "hacké", "ayez": "hacké" }
+	},
+	"infinitif": { "présent": { "hacker": "" }, "passé": { "avoir": "hacké" } }
+}

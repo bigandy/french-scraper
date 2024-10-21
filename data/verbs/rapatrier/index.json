@@ -1,0 +1,141 @@
+{
+	"name": "rapatrier",
+	"definition": "repatriate; retrieve; patriate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se rapatrier/ne pas rapatrier/ne pas se rapatrier",
+	"indicatif": {
+		"présent": {
+			"je": "rapatrie",
+			"tu": "rapatries",
+			"il/elle": "rapatrie",
+			"nous": "rapatrions",
+			"vous": "rapatriez",
+			"ils/elles": "rapatrient"
+		},
+		"imparfait": {
+			"je": "rapatriais",
+			"tu": "rapatriais",
+			"il/elle": "rapatriait",
+			"nous": "rapatriions",
+			"vous": "rapatriiez",
+			"ils/elles": "rapatriaient"
+		},
+		"futur": {
+			"je": "rapatrierai",
+			"tu": "rapatrieras",
+			"il/elle": "rapatriera",
+			"nous": "rapatrierons",
+			"vous": "rapatrierez",
+			"ils/elles": "rapatrieront"
+		},
+		"passé simple": {
+			"je": "rapatriai",
+			"tu": "rapatrias",
+			"il/elle": "rapatria",
+			"nous": "rapatriâmes",
+			"vous": "rapatriâtes",
+			"ils/elles": "rapatrièrent"
+		},
+		"passé composé": {
+			"j'": "ai rapatrié",
+			"tu": "as rapatrié",
+			"il/elle": "a rapatrié",
+			"nous": "avons rapatrié",
+			"vous": "avez rapatrié",
+			"ils/elles": "ont rapatrié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais rapatrié",
+			"tu": "avais rapatrié",
+			"il/elle": "avait rapatrié",
+			"nous": "avions rapatrié",
+			"vous": "aviez rapatrié",
+			"ils/elles": "avaient rapatrié"
+		},
+		"passé antérieur": {
+			"j'": "eus rapatrié",
+			"tu": "eus rapatrié",
+			"il/elle": "eut rapatrié",
+			"nous": "eûmes rapatrié",
+			"vous": "eûtes rapatrié",
+			"ils/elles": "eurent rapatrié"
+		},
+		"futur antérieur": {
+			"j'": "aurai rapatrié",
+			"tu": "auras rapatrié",
+			"il/elle": "aura rapatrié",
+			"nous": "aurons rapatrié",
+			"vous": "aurez rapatrié",
+			"ils/elles": "auront rapatrié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous rapatriiez",
+			"qu'il/elle": "rapatrie",
+			"qu'ils/elles": "rapatrient"
+		},
+		"imparfait": {
+			"que": "vous rapatriassiez",
+			"qu'il/elle": "rapatriât",
+			"qu'ils/elles": "rapatriassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse rapatrié",
+			"que": "vous eussiez rapatrié",
+			"qu'il/elle": "eût rapatrié",
+			"qu'ils/elles": "eussent rapatrié"
+		},
+		"passé": {
+			"j'": "aie rapatrié",
+			"que": "vous ayez rapatrié",
+			"qu'il/elle": "ait rapatrié",
+			"qu'ils/elles": "aient rapatrié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "rapatrierais",
+			"tu": "rapatrierais",
+			"il/elle": "rapatrierait",
+			"nous": "rapatrierions",
+			"vous": "rapatrieriez",
+			"ils/elles": "rapatrieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais rapatrié",
+			"tu": "aurais rapatrié",
+			"il/elle": "aurait rapatrié",
+			"nous": "aurions rapatrié",
+			"vous": "auriez rapatrié",
+			"ils/elles": "auraient rapatrié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse rapatrié",
+			"tu": "eusses rapatrié",
+			"il/elle": "eût rapatrié",
+			"nous": "eussions rapatrié",
+			"vous": "eussiez rapatrié",
+			"ils/elles": "eussent rapatrié"
+		}
+	},
+	"participe": {
+		"présent": { "rapatriant": "" },
+		"passé composé": { "ayant": "rapatrié" },
+		"passé": {
+			"masc.sg.:": "rapatrié",
+			"masc.pl.:": "rapatriés",
+			"fém.sg.:": "rapatriée",
+			"fém.pl.:": "rapatriées"
+		}
+	},
+	"imperatif": {
+		"présent": { "rapatrie": "", "rapatrions": "", "rapatriez": "" },
+		"passé": { "aie": "rapatrié", "ayons": "rapatrié", "ayez": "rapatrié" }
+	},
+	"infinitif": {
+		"présent": { "rapatrier": "" },
+		"passé": { "avoir": "rapatrié" }
+	}
+}

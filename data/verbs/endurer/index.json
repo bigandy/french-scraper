@@ -1,0 +1,140 @@
+{
+	"name": "endurer",
+	"definition": "endure; suffer; go through; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'endurer/ne pas endurer/ne pas s'endurer",
+	"indicatif": {
+		"présent": {
+			"j'": "endure",
+			"tu": "endures",
+			"il/elle": "endure",
+			"nous": "endurons",
+			"vous": "endurez",
+			"ils/elles": "endurent"
+		},
+		"imparfait": {
+			"j'": "endurais",
+			"tu": "endurais",
+			"il/elle": "endurait",
+			"nous": "endurions",
+			"vous": "enduriez",
+			"ils/elles": "enduraient"
+		},
+		"futur": {
+			"j'": "endurerai",
+			"tu": "endureras",
+			"il/elle": "endurera",
+			"nous": "endurerons",
+			"vous": "endurerez",
+			"ils/elles": "endureront"
+		},
+		"passé simple": {
+			"j'": "endurai",
+			"tu": "enduras",
+			"il/elle": "endura",
+			"nous": "endurâmes",
+			"vous": "endurâtes",
+			"ils/elles": "endurèrent"
+		},
+		"passé composé": {
+			"j'": "ai enduré",
+			"tu": "as enduré",
+			"il/elle": "a enduré",
+			"nous": "avons enduré",
+			"vous": "avez enduré",
+			"ils/elles": "ont enduré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais enduré",
+			"tu": "avais enduré",
+			"il/elle": "avait enduré",
+			"nous": "avions enduré",
+			"vous": "aviez enduré",
+			"ils/elles": "avaient enduré"
+		},
+		"passé antérieur": {
+			"j'": "eus enduré",
+			"tu": "eus enduré",
+			"il/elle": "eut enduré",
+			"nous": "eûmes enduré",
+			"vous": "eûtes enduré",
+			"ils/elles": "eurent enduré"
+		},
+		"futur antérieur": {
+			"j'": "aurai enduré",
+			"tu": "auras enduré",
+			"il/elle": "aura enduré",
+			"nous": "aurons enduré",
+			"vous": "aurez enduré",
+			"ils/elles": "auront enduré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "endure",
+			"que": "vous enduriez",
+			"qu'il/elle": "endure",
+			"qu'ils/elles": "endurent"
+		},
+		"imparfait": {
+			"j'": "endurasse",
+			"que": "vous endurassiez",
+			"qu'il/elle": "endurât",
+			"qu'ils/elles": "endurassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse enduré",
+			"que": "vous eussiez enduré",
+			"qu'il/elle": "eût enduré",
+			"qu'ils/elles": "eussent enduré"
+		},
+		"passé": {
+			"j'": "aie enduré",
+			"que": "vous ayez enduré",
+			"qu'il/elle": "ait enduré",
+			"qu'ils/elles": "aient enduré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "endurerais",
+			"tu": "endurerais",
+			"il/elle": "endurerait",
+			"nous": "endurerions",
+			"vous": "endureriez",
+			"ils/elles": "endureraient"
+		},
+		"passé première forme": {
+			"j'": "aurais enduré",
+			"tu": "aurais enduré",
+			"il/elle": "aurait enduré",
+			"nous": "aurions enduré",
+			"vous": "auriez enduré",
+			"ils/elles": "auraient enduré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse enduré",
+			"tu": "eusses enduré",
+			"il/elle": "eût enduré",
+			"nous": "eussions enduré",
+			"vous": "eussiez enduré",
+			"ils/elles": "eussent enduré"
+		}
+	},
+	"participe": {
+		"présent": { "endurant": "" },
+		"passé composé": { "ayant": "enduré" },
+		"passé": {
+			"masc.sg.:": "enduré",
+			"masc.pl.:": "endurés",
+			"fém.sg.:": "endurée",
+			"fém.pl.:": "endurées"
+		}
+	},
+	"imperatif": {
+		"présent": { "endure": "", "endurons": "", "endurez": "" },
+		"passé": { "aie": "enduré", "ayons": "enduré", "ayez": "enduré" }
+	},
+	"infinitif": { "présent": { "endurer": "" }, "passé": { "avoir": "enduré" } }
+}

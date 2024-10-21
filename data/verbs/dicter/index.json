@@ -1,0 +1,138 @@
+{
+	"name": "dicter",
+	"definition": "dictate; prescribe; impose; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se dicter/ne pas dicter/ne pas se dicter",
+	"indicatif": {
+		"présent": {
+			"je": "dicte",
+			"tu": "dictes",
+			"il/elle": "dicte",
+			"nous": "dictons",
+			"vous": "dictez",
+			"ils/elles": "dictent"
+		},
+		"imparfait": {
+			"je": "dictais",
+			"tu": "dictais",
+			"il/elle": "dictait",
+			"nous": "dictions",
+			"vous": "dictiez",
+			"ils/elles": "dictaient"
+		},
+		"futur": {
+			"je": "dicterai",
+			"tu": "dicteras",
+			"il/elle": "dictera",
+			"nous": "dicterons",
+			"vous": "dicterez",
+			"ils/elles": "dicteront"
+		},
+		"passé simple": {
+			"je": "dictai",
+			"tu": "dictas",
+			"il/elle": "dicta",
+			"nous": "dictâmes",
+			"vous": "dictâtes",
+			"ils/elles": "dictèrent"
+		},
+		"passé composé": {
+			"j'": "ai dicté",
+			"tu": "as dicté",
+			"il/elle": "a dicté",
+			"nous": "avons dicté",
+			"vous": "avez dicté",
+			"ils/elles": "ont dicté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais dicté",
+			"tu": "avais dicté",
+			"il/elle": "avait dicté",
+			"nous": "avions dicté",
+			"vous": "aviez dicté",
+			"ils/elles": "avaient dicté"
+		},
+		"passé antérieur": {
+			"j'": "eus dicté",
+			"tu": "eus dicté",
+			"il/elle": "eut dicté",
+			"nous": "eûmes dicté",
+			"vous": "eûtes dicté",
+			"ils/elles": "eurent dicté"
+		},
+		"futur antérieur": {
+			"j'": "aurai dicté",
+			"tu": "auras dicté",
+			"il/elle": "aura dicté",
+			"nous": "aurons dicté",
+			"vous": "aurez dicté",
+			"ils/elles": "auront dicté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous dictiez",
+			"qu'il/elle": "dicte",
+			"qu'ils/elles": "dictent"
+		},
+		"imparfait": {
+			"que": "vous dictassiez",
+			"qu'il/elle": "dictât",
+			"qu'ils/elles": "dictassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse dicté",
+			"que": "vous eussiez dicté",
+			"qu'il/elle": "eût dicté",
+			"qu'ils/elles": "eussent dicté"
+		},
+		"passé": {
+			"j'": "aie dicté",
+			"que": "vous ayez dicté",
+			"qu'il/elle": "ait dicté",
+			"qu'ils/elles": "aient dicté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "dicterais",
+			"tu": "dicterais",
+			"il/elle": "dicterait",
+			"nous": "dicterions",
+			"vous": "dicteriez",
+			"ils/elles": "dicteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais dicté",
+			"tu": "aurais dicté",
+			"il/elle": "aurait dicté",
+			"nous": "aurions dicté",
+			"vous": "auriez dicté",
+			"ils/elles": "auraient dicté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse dicté",
+			"tu": "eusses dicté",
+			"il/elle": "eût dicté",
+			"nous": "eussions dicté",
+			"vous": "eussiez dicté",
+			"ils/elles": "eussent dicté"
+		}
+	},
+	"participe": {
+		"présent": { "dictant": "" },
+		"passé composé": { "ayant": "dicté" },
+		"passé": {
+			"masc.sg.:": "dicté",
+			"masc.pl.:": "dictés",
+			"fém.sg.:": "dictée",
+			"fém.pl.:": "dictées"
+		}
+	},
+	"imperatif": {
+		"présent": { "dicte": "", "dictons": "", "dictez": "" },
+		"passé": { "aie": "dicté", "ayons": "dicté", "ayez": "dicté" }
+	},
+	"infinitif": { "présent": { "dicter": "" }, "passé": { "avoir": "dicté" } }
+}

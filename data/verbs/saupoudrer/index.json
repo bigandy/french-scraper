@@ -1,0 +1,141 @@
+{
+	"name": "saupoudrer",
+	"definition": "sprinkle; dust with; top with; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se saupoudrer/ne pas saupoudrer/ne pas se saupoudrer",
+	"indicatif": {
+		"présent": {
+			"je": "saupoudre",
+			"tu": "saupoudres",
+			"il/elle": "saupoudre",
+			"nous": "saupoudrons",
+			"vous": "saupoudrez",
+			"ils/elles": "saupoudrent"
+		},
+		"imparfait": {
+			"je": "saupoudrais",
+			"tu": "saupoudrais",
+			"il/elle": "saupoudrait",
+			"nous": "saupoudrions",
+			"vous": "saupoudriez",
+			"ils/elles": "saupoudraient"
+		},
+		"futur": {
+			"je": "saupoudrerai",
+			"tu": "saupoudreras",
+			"il/elle": "saupoudrera",
+			"nous": "saupoudrerons",
+			"vous": "saupoudrerez",
+			"ils/elles": "saupoudreront"
+		},
+		"passé simple": {
+			"je": "saupoudrai",
+			"tu": "saupoudras",
+			"il/elle": "saupoudra",
+			"nous": "saupoudrâmes",
+			"vous": "saupoudrâtes",
+			"ils/elles": "saupoudrèrent"
+		},
+		"passé composé": {
+			"j'": "ai saupoudré",
+			"tu": "as saupoudré",
+			"il/elle": "a saupoudré",
+			"nous": "avons saupoudré",
+			"vous": "avez saupoudré",
+			"ils/elles": "ont saupoudré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais saupoudré",
+			"tu": "avais saupoudré",
+			"il/elle": "avait saupoudré",
+			"nous": "avions saupoudré",
+			"vous": "aviez saupoudré",
+			"ils/elles": "avaient saupoudré"
+		},
+		"passé antérieur": {
+			"j'": "eus saupoudré",
+			"tu": "eus saupoudré",
+			"il/elle": "eut saupoudré",
+			"nous": "eûmes saupoudré",
+			"vous": "eûtes saupoudré",
+			"ils/elles": "eurent saupoudré"
+		},
+		"futur antérieur": {
+			"j'": "aurai saupoudré",
+			"tu": "auras saupoudré",
+			"il/elle": "aura saupoudré",
+			"nous": "aurons saupoudré",
+			"vous": "aurez saupoudré",
+			"ils/elles": "auront saupoudré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous saupoudriez",
+			"qu'il/elle": "saupoudre",
+			"qu'ils/elles": "saupoudrent"
+		},
+		"imparfait": {
+			"que": "vous saupoudrassiez",
+			"qu'il/elle": "saupoudrât",
+			"qu'ils/elles": "saupoudrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse saupoudré",
+			"que": "vous eussiez saupoudré",
+			"qu'il/elle": "eût saupoudré",
+			"qu'ils/elles": "eussent saupoudré"
+		},
+		"passé": {
+			"j'": "aie saupoudré",
+			"que": "vous ayez saupoudré",
+			"qu'il/elle": "ait saupoudré",
+			"qu'ils/elles": "aient saupoudré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "saupoudrerais",
+			"tu": "saupoudrerais",
+			"il/elle": "saupoudrerait",
+			"nous": "saupoudrerions",
+			"vous": "saupoudreriez",
+			"ils/elles": "saupoudreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais saupoudré",
+			"tu": "aurais saupoudré",
+			"il/elle": "aurait saupoudré",
+			"nous": "aurions saupoudré",
+			"vous": "auriez saupoudré",
+			"ils/elles": "auraient saupoudré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse saupoudré",
+			"tu": "eusses saupoudré",
+			"il/elle": "eût saupoudré",
+			"nous": "eussions saupoudré",
+			"vous": "eussiez saupoudré",
+			"ils/elles": "eussent saupoudré"
+		}
+	},
+	"participe": {
+		"présent": { "saupoudrant": "" },
+		"passé composé": { "ayant": "saupoudré" },
+		"passé": {
+			"masc.sg.:": "saupoudré",
+			"masc.pl.:": "saupoudrés",
+			"fém.sg.:": "saupoudrée",
+			"fém.pl.:": "saupoudrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "saupoudre": "", "saupoudrons": "", "saupoudrez": "" },
+		"passé": { "aie": "saupoudré", "ayons": "saupoudré", "ayez": "saupoudré" }
+	},
+	"infinitif": {
+		"présent": { "saupoudrer": "" },
+		"passé": { "avoir": "saupoudré" }
+	}
+}

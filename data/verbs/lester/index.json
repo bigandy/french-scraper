@@ -1,0 +1,138 @@
+{
+	"name": "lester",
+	"definition": "ballast; weight; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se lester/ne pas lester/ne pas se lester",
+	"indicatif": {
+		"présent": {
+			"je": "leste",
+			"tu": "lestes",
+			"il/elle": "leste",
+			"nous": "lestons",
+			"vous": "lestez",
+			"ils/elles": "lestent"
+		},
+		"imparfait": {
+			"je": "lestais",
+			"tu": "lestais",
+			"il/elle": "lestait",
+			"nous": "lestions",
+			"vous": "lestiez",
+			"ils/elles": "lestaient"
+		},
+		"futur": {
+			"je": "lesterai",
+			"tu": "lesteras",
+			"il/elle": "lestera",
+			"nous": "lesterons",
+			"vous": "lesterez",
+			"ils/elles": "lesteront"
+		},
+		"passé simple": {
+			"je": "lestai",
+			"tu": "lestas",
+			"il/elle": "lesta",
+			"nous": "lestâmes",
+			"vous": "lestâtes",
+			"ils/elles": "lestèrent"
+		},
+		"passé composé": {
+			"j'": "ai lesté",
+			"tu": "as lesté",
+			"il/elle": "a lesté",
+			"nous": "avons lesté",
+			"vous": "avez lesté",
+			"ils/elles": "ont lesté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais lesté",
+			"tu": "avais lesté",
+			"il/elle": "avait lesté",
+			"nous": "avions lesté",
+			"vous": "aviez lesté",
+			"ils/elles": "avaient lesté"
+		},
+		"passé antérieur": {
+			"j'": "eus lesté",
+			"tu": "eus lesté",
+			"il/elle": "eut lesté",
+			"nous": "eûmes lesté",
+			"vous": "eûtes lesté",
+			"ils/elles": "eurent lesté"
+		},
+		"futur antérieur": {
+			"j'": "aurai lesté",
+			"tu": "auras lesté",
+			"il/elle": "aura lesté",
+			"nous": "aurons lesté",
+			"vous": "aurez lesté",
+			"ils/elles": "auront lesté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous lestiez",
+			"qu'il/elle": "leste",
+			"qu'ils/elles": "lestent"
+		},
+		"imparfait": {
+			"que": "vous lestassiez",
+			"qu'il/elle": "lestât",
+			"qu'ils/elles": "lestassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse lesté",
+			"que": "vous eussiez lesté",
+			"qu'il/elle": "eût lesté",
+			"qu'ils/elles": "eussent lesté"
+		},
+		"passé": {
+			"j'": "aie lesté",
+			"que": "vous ayez lesté",
+			"qu'il/elle": "ait lesté",
+			"qu'ils/elles": "aient lesté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "lesterais",
+			"tu": "lesterais",
+			"il/elle": "lesterait",
+			"nous": "lesterions",
+			"vous": "lesteriez",
+			"ils/elles": "lesteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais lesté",
+			"tu": "aurais lesté",
+			"il/elle": "aurait lesté",
+			"nous": "aurions lesté",
+			"vous": "auriez lesté",
+			"ils/elles": "auraient lesté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse lesté",
+			"tu": "eusses lesté",
+			"il/elle": "eût lesté",
+			"nous": "eussions lesté",
+			"vous": "eussiez lesté",
+			"ils/elles": "eussent lesté"
+		}
+	},
+	"participe": {
+		"présent": { "lestant": "" },
+		"passé composé": { "ayant": "lesté" },
+		"passé": {
+			"masc.sg.:": "lesté",
+			"masc.pl.:": "lestés",
+			"fém.sg.:": "lestée",
+			"fém.pl.:": "lestées"
+		}
+	},
+	"imperatif": {
+		"présent": { "leste": "", "lestons": "", "lestez": "" },
+		"passé": { "aie": "lesté", "ayons": "lesté", "ayez": "lesté" }
+	},
+	"infinitif": { "présent": { "lester": "" }, "passé": { "avoir": "lesté" } }
+}

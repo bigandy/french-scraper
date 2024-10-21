@@ -1,0 +1,138 @@
+{
+	"name": "louper",
+	"definition": "miss; miss out; flunk; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se louper/ne pas louper/ne pas se louper",
+	"indicatif": {
+		"présent": {
+			"je": "loupe",
+			"tu": "loupes",
+			"il/elle": "loupe",
+			"nous": "loupons",
+			"vous": "loupez",
+			"ils/elles": "loupent"
+		},
+		"imparfait": {
+			"je": "loupais",
+			"tu": "loupais",
+			"il/elle": "loupait",
+			"nous": "loupions",
+			"vous": "loupiez",
+			"ils/elles": "loupaient"
+		},
+		"futur": {
+			"je": "louperai",
+			"tu": "louperas",
+			"il/elle": "loupera",
+			"nous": "louperons",
+			"vous": "louperez",
+			"ils/elles": "louperont"
+		},
+		"passé simple": {
+			"je": "loupai",
+			"tu": "loupas",
+			"il/elle": "loupa",
+			"nous": "loupâmes",
+			"vous": "loupâtes",
+			"ils/elles": "loupèrent"
+		},
+		"passé composé": {
+			"j'": "ai loupé",
+			"tu": "as loupé",
+			"il/elle": "a loupé",
+			"nous": "avons loupé",
+			"vous": "avez loupé",
+			"ils/elles": "ont loupé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais loupé",
+			"tu": "avais loupé",
+			"il/elle": "avait loupé",
+			"nous": "avions loupé",
+			"vous": "aviez loupé",
+			"ils/elles": "avaient loupé"
+		},
+		"passé antérieur": {
+			"j'": "eus loupé",
+			"tu": "eus loupé",
+			"il/elle": "eut loupé",
+			"nous": "eûmes loupé",
+			"vous": "eûtes loupé",
+			"ils/elles": "eurent loupé"
+		},
+		"futur antérieur": {
+			"j'": "aurai loupé",
+			"tu": "auras loupé",
+			"il/elle": "aura loupé",
+			"nous": "aurons loupé",
+			"vous": "aurez loupé",
+			"ils/elles": "auront loupé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous loupiez",
+			"qu'il/elle": "loupe",
+			"qu'ils/elles": "loupent"
+		},
+		"imparfait": {
+			"que": "vous loupassiez",
+			"qu'il/elle": "loupât",
+			"qu'ils/elles": "loupassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse loupé",
+			"que": "vous eussiez loupé",
+			"qu'il/elle": "eût loupé",
+			"qu'ils/elles": "eussent loupé"
+		},
+		"passé": {
+			"j'": "aie loupé",
+			"que": "vous ayez loupé",
+			"qu'il/elle": "ait loupé",
+			"qu'ils/elles": "aient loupé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "louperais",
+			"tu": "louperais",
+			"il/elle": "louperait",
+			"nous": "louperions",
+			"vous": "louperiez",
+			"ils/elles": "louperaient"
+		},
+		"passé première forme": {
+			"j'": "aurais loupé",
+			"tu": "aurais loupé",
+			"il/elle": "aurait loupé",
+			"nous": "aurions loupé",
+			"vous": "auriez loupé",
+			"ils/elles": "auraient loupé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse loupé",
+			"tu": "eusses loupé",
+			"il/elle": "eût loupé",
+			"nous": "eussions loupé",
+			"vous": "eussiez loupé",
+			"ils/elles": "eussent loupé"
+		}
+	},
+	"participe": {
+		"présent": { "loupant": "" },
+		"passé composé": { "ayant": "loupé" },
+		"passé": {
+			"masc.sg.:": "loupé",
+			"masc.pl.:": "loupés",
+			"fém.sg.:": "loupée",
+			"fém.pl.:": "loupées"
+		}
+	},
+	"imperatif": {
+		"présent": { "loupe": "", "loupons": "", "loupez": "" },
+		"passé": { "aie": "loupé", "ayons": "loupé", "ayez": "loupé" }
+	},
+	"infinitif": { "présent": { "louper": "" }, "passé": { "avoir": "loupé" } }
+}

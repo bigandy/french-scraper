@@ -1,0 +1,149 @@
+{
+	"name": "conteneuriser",
+	"definition": "containerize; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se conteneuriser/ne pas conteneuriser/ne pas se conteneuriser",
+	"indicatif": {
+		"présent": {
+			"je": "conteneurise",
+			"tu": "conteneurises",
+			"il/elle": "conteneurise",
+			"nous": "conteneurisons",
+			"vous": "conteneurisez",
+			"ils/elles": "conteneurisent"
+		},
+		"imparfait": {
+			"je": "conteneurisais",
+			"tu": "conteneurisais",
+			"il/elle": "conteneurisait",
+			"nous": "conteneurisions",
+			"vous": "conteneurisiez",
+			"ils/elles": "conteneurisaient"
+		},
+		"futur": {
+			"je": "conteneuriserai",
+			"tu": "conteneuriseras",
+			"il/elle": "conteneurisera",
+			"nous": "conteneuriserons",
+			"vous": "conteneuriserez",
+			"ils/elles": "conteneuriseront"
+		},
+		"passé simple": {
+			"je": "conteneurisai",
+			"tu": "conteneurisas",
+			"il/elle": "conteneurisa",
+			"nous": "conteneurisâmes",
+			"vous": "conteneurisâtes",
+			"ils/elles": "conteneurisèrent"
+		},
+		"passé composé": {
+			"j'": "ai conteneurisé",
+			"tu": "as conteneurisé",
+			"il/elle": "a conteneurisé",
+			"nous": "avons conteneurisé",
+			"vous": "avez conteneurisé",
+			"ils/elles": "ont conteneurisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais conteneurisé",
+			"tu": "avais conteneurisé",
+			"il/elle": "avait conteneurisé",
+			"nous": "avions conteneurisé",
+			"vous": "aviez conteneurisé",
+			"ils/elles": "avaient conteneurisé"
+		},
+		"passé antérieur": {
+			"j'": "eus conteneurisé",
+			"tu": "eus conteneurisé",
+			"il/elle": "eut conteneurisé",
+			"nous": "eûmes conteneurisé",
+			"vous": "eûtes conteneurisé",
+			"ils/elles": "eurent conteneurisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai conteneurisé",
+			"tu": "auras conteneurisé",
+			"il/elle": "aura conteneurisé",
+			"nous": "aurons conteneurisé",
+			"vous": "aurez conteneurisé",
+			"ils/elles": "auront conteneurisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous conteneurisiez",
+			"qu'il/elle": "conteneurise",
+			"qu'ils/elles": "conteneurisent"
+		},
+		"imparfait": {
+			"que": "vous conteneurisassiez",
+			"qu'il/elle": "conteneurisât",
+			"qu'ils/elles": "conteneurisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse conteneurisé",
+			"que": "vous eussiez conteneurisé",
+			"qu'il/elle": "eût conteneurisé",
+			"qu'ils/elles": "eussent conteneurisé"
+		},
+		"passé": {
+			"j'": "aie conteneurisé",
+			"que": "vous ayez conteneurisé",
+			"qu'il/elle": "ait conteneurisé",
+			"qu'ils/elles": "aient conteneurisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "conteneuriserais",
+			"tu": "conteneuriserais",
+			"il/elle": "conteneuriserait",
+			"nous": "conteneuriserions",
+			"vous": "conteneuriseriez",
+			"ils/elles": "conteneuriseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais conteneurisé",
+			"tu": "aurais conteneurisé",
+			"il/elle": "aurait conteneurisé",
+			"nous": "aurions conteneurisé",
+			"vous": "auriez conteneurisé",
+			"ils/elles": "auraient conteneurisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse conteneurisé",
+			"tu": "eusses conteneurisé",
+			"il/elle": "eût conteneurisé",
+			"nous": "eussions conteneurisé",
+			"vous": "eussiez conteneurisé",
+			"ils/elles": "eussent conteneurisé"
+		}
+	},
+	"participe": {
+		"présent": { "conteneurisant": "" },
+		"passé composé": { "ayant": "conteneurisé" },
+		"passé": {
+			"masc.sg.:": "conteneurisé",
+			"masc.pl.:": "conteneurisés",
+			"fém.sg.:": "conteneurisée",
+			"fém.pl.:": "conteneurisées"
+		}
+	},
+	"imperatif": {
+		"présent": {
+			"conteneurise": "",
+			"conteneurisons": "",
+			"conteneurisez": ""
+		},
+		"passé": {
+			"aie": "conteneurisé",
+			"ayons": "conteneurisé",
+			"ayez": "conteneurisé"
+		}
+	},
+	"infinitif": {
+		"présent": { "conteneuriser": "" },
+		"passé": { "avoir": "conteneurisé" }
+	}
+}

@@ -1,0 +1,143 @@
+{
+	"name": "envelopper",
+	"definition": "wrap; envelop; enclose; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'envelopper/ne pas envelopper/ne pas s'envelopper",
+	"indicatif": {
+		"présent": {
+			"j'": "enveloppe",
+			"tu": "enveloppes",
+			"il/elle": "enveloppe",
+			"nous": "enveloppons",
+			"vous": "enveloppez",
+			"ils/elles": "enveloppent"
+		},
+		"imparfait": {
+			"j'": "enveloppais",
+			"tu": "enveloppais",
+			"il/elle": "enveloppait",
+			"nous": "enveloppions",
+			"vous": "enveloppiez",
+			"ils/elles": "enveloppaient"
+		},
+		"futur": {
+			"j'": "envelopperai",
+			"tu": "envelopperas",
+			"il/elle": "enveloppera",
+			"nous": "envelopperons",
+			"vous": "envelopperez",
+			"ils/elles": "envelopperont"
+		},
+		"passé simple": {
+			"j'": "enveloppai",
+			"tu": "enveloppas",
+			"il/elle": "enveloppa",
+			"nous": "enveloppâmes",
+			"vous": "enveloppâtes",
+			"ils/elles": "enveloppèrent"
+		},
+		"passé composé": {
+			"j'": "ai enveloppé",
+			"tu": "as enveloppé",
+			"il/elle": "a enveloppé",
+			"nous": "avons enveloppé",
+			"vous": "avez enveloppé",
+			"ils/elles": "ont enveloppé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais enveloppé",
+			"tu": "avais enveloppé",
+			"il/elle": "avait enveloppé",
+			"nous": "avions enveloppé",
+			"vous": "aviez enveloppé",
+			"ils/elles": "avaient enveloppé"
+		},
+		"passé antérieur": {
+			"j'": "eus enveloppé",
+			"tu": "eus enveloppé",
+			"il/elle": "eut enveloppé",
+			"nous": "eûmes enveloppé",
+			"vous": "eûtes enveloppé",
+			"ils/elles": "eurent enveloppé"
+		},
+		"futur antérieur": {
+			"j'": "aurai enveloppé",
+			"tu": "auras enveloppé",
+			"il/elle": "aura enveloppé",
+			"nous": "aurons enveloppé",
+			"vous": "aurez enveloppé",
+			"ils/elles": "auront enveloppé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "enveloppe",
+			"que": "vous enveloppiez",
+			"qu'il/elle": "enveloppe",
+			"qu'ils/elles": "enveloppent"
+		},
+		"imparfait": {
+			"j'": "enveloppasse",
+			"que": "vous enveloppassiez",
+			"qu'il/elle": "enveloppât",
+			"qu'ils/elles": "enveloppassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse enveloppé",
+			"que": "vous eussiez enveloppé",
+			"qu'il/elle": "eût enveloppé",
+			"qu'ils/elles": "eussent enveloppé"
+		},
+		"passé": {
+			"j'": "aie enveloppé",
+			"que": "vous ayez enveloppé",
+			"qu'il/elle": "ait enveloppé",
+			"qu'ils/elles": "aient enveloppé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "envelopperais",
+			"tu": "envelopperais",
+			"il/elle": "envelopperait",
+			"nous": "envelopperions",
+			"vous": "envelopperiez",
+			"ils/elles": "envelopperaient"
+		},
+		"passé première forme": {
+			"j'": "aurais enveloppé",
+			"tu": "aurais enveloppé",
+			"il/elle": "aurait enveloppé",
+			"nous": "aurions enveloppé",
+			"vous": "auriez enveloppé",
+			"ils/elles": "auraient enveloppé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse enveloppé",
+			"tu": "eusses enveloppé",
+			"il/elle": "eût enveloppé",
+			"nous": "eussions enveloppé",
+			"vous": "eussiez enveloppé",
+			"ils/elles": "eussent enveloppé"
+		}
+	},
+	"participe": {
+		"présent": { "enveloppant": "" },
+		"passé composé": { "ayant": "enveloppé" },
+		"passé": {
+			"masc.sg.:": "enveloppé",
+			"masc.pl.:": "enveloppés",
+			"fém.sg.:": "enveloppée",
+			"fém.pl.:": "enveloppées"
+		}
+	},
+	"imperatif": {
+		"présent": { "enveloppe": "", "enveloppons": "", "enveloppez": "" },
+		"passé": { "aie": "enveloppé", "ayons": "enveloppé", "ayez": "enveloppé" }
+	},
+	"infinitif": {
+		"présent": { "envelopper": "" },
+		"passé": { "avoir": "enveloppé" }
+	}
+}

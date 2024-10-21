@@ -1,0 +1,141 @@
+{
+	"name": "congeler",
+	"definition": "freeze; congeal; ...",
+	"model": "peler",
+	"auxiliary": "avoir",
+	"otherForms": "se congeler/ne pas congeler/ne pas se congeler",
+	"indicatif": {
+		"présent": {
+			"je": "congèle",
+			"tu": "congèles",
+			"il/elle": "congèle",
+			"nous": "congelons",
+			"vous": "congelez",
+			"ils/elles": "congèlent"
+		},
+		"imparfait": {
+			"je": "congelais",
+			"tu": "congelais",
+			"il/elle": "congelait",
+			"nous": "congelions",
+			"vous": "congeliez",
+			"ils/elles": "congelaient"
+		},
+		"futur": {
+			"je": "congèlerai",
+			"tu": "congèleras",
+			"il/elle": "congèlera",
+			"nous": "congèlerons",
+			"vous": "congèlerez",
+			"ils/elles": "congèleront"
+		},
+		"passé simple": {
+			"je": "congelai",
+			"tu": "congelas",
+			"il/elle": "congela",
+			"nous": "congelâmes",
+			"vous": "congelâtes",
+			"ils/elles": "congelèrent"
+		},
+		"passé composé": {
+			"j'": "ai congelé",
+			"tu": "as congelé",
+			"il/elle": "a congelé",
+			"nous": "avons congelé",
+			"vous": "avez congelé",
+			"ils/elles": "ont congelé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais congelé",
+			"tu": "avais congelé",
+			"il/elle": "avait congelé",
+			"nous": "avions congelé",
+			"vous": "aviez congelé",
+			"ils/elles": "avaient congelé"
+		},
+		"passé antérieur": {
+			"j'": "eus congelé",
+			"tu": "eus congelé",
+			"il/elle": "eut congelé",
+			"nous": "eûmes congelé",
+			"vous": "eûtes congelé",
+			"ils/elles": "eurent congelé"
+		},
+		"futur antérieur": {
+			"j'": "aurai congelé",
+			"tu": "auras congelé",
+			"il/elle": "aura congelé",
+			"nous": "aurons congelé",
+			"vous": "aurez congelé",
+			"ils/elles": "auront congelé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous congeliez",
+			"qu'il/elle": "congèle",
+			"qu'ils/elles": "congèlent"
+		},
+		"imparfait": {
+			"que": "vous congelassiez",
+			"qu'il/elle": "congelât",
+			"qu'ils/elles": "congelassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse congelé",
+			"que": "vous eussiez congelé",
+			"qu'il/elle": "eût congelé",
+			"qu'ils/elles": "eussent congelé"
+		},
+		"passé": {
+			"j'": "aie congelé",
+			"que": "vous ayez congelé",
+			"qu'il/elle": "ait congelé",
+			"qu'ils/elles": "aient congelé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "congèlerais",
+			"tu": "congèlerais",
+			"il/elle": "congèlerait",
+			"nous": "congèlerions",
+			"vous": "congèleriez",
+			"ils/elles": "congèleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais congelé",
+			"tu": "aurais congelé",
+			"il/elle": "aurait congelé",
+			"nous": "aurions congelé",
+			"vous": "auriez congelé",
+			"ils/elles": "auraient congelé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse congelé",
+			"tu": "eusses congelé",
+			"il/elle": "eût congelé",
+			"nous": "eussions congelé",
+			"vous": "eussiez congelé",
+			"ils/elles": "eussent congelé"
+		}
+	},
+	"participe": {
+		"présent": { "congelant": "" },
+		"passé composé": { "ayant": "congelé" },
+		"passé": {
+			"masc.sg.:": "congelé",
+			"masc.pl.:": "congelés",
+			"fém.sg.:": "congelée",
+			"fém.pl.:": "congelées"
+		}
+	},
+	"imperatif": {
+		"présent": { "congèle": "", "congelons": "", "congelez": "" },
+		"passé": { "aie": "congelé", "ayons": "congelé", "ayez": "congelé" }
+	},
+	"infinitif": {
+		"présent": { "congeler": "" },
+		"passé": { "avoir": "congelé" }
+	}
+}

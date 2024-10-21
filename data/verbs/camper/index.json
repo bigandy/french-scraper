@@ -1,0 +1,194 @@
+{
+	"name": "camper",
+	"definition": "camp; camp out; encamp; ...",
+	"model": "marcher",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "se camper/ne pas camper/ne pas se camper",
+	"indicatif": {
+		"présent": {
+			"je": "campe",
+			"tu": "campes",
+			"il/elle": "campe",
+			"nous": "campons",
+			"vous": "campez",
+			"ils/elles": "campent"
+		},
+		"imparfait": {
+			"je": "campais",
+			"tu": "campais",
+			"il/elle": "campait",
+			"nous": "campions",
+			"vous": "campiez",
+			"ils/elles": "campaient"
+		},
+		"futur": {
+			"je": "camperai",
+			"tu": "camperas",
+			"il/elle": "campera",
+			"nous": "camperons",
+			"vous": "camperez",
+			"ils/elles": "camperont"
+		},
+		"passé simple": {
+			"je": "campai",
+			"tu": "campas",
+			"il/elle": "campa",
+			"nous": "campâmes",
+			"vous": "campâtes",
+			"ils/elles": "campèrent"
+		},
+		"passé composé": {
+			"j'": "ai campé",
+			"tu": "es campé",
+			"il/elle": "a campé",
+			"nous": "sommes campés",
+			"vous": "êtes campés",
+			"ils/elles": "ont campé",
+			"": "",
+			"je": "suis campé",
+			"il": "est campé",
+			"elle": "est campée",
+			"ils": "sont campés",
+			"elles": "sont campées"
+		},
+		"plus-que-parfait": {
+			"j'": "étais campé",
+			"tu": "étais campé",
+			"il/elle": "avait campé",
+			"nous": "étions campés",
+			"vous": "étiez campés",
+			"ils/elles": "avaient campé",
+			"": "",
+			"il": "était campé",
+			"elle": "était campée",
+			"ils": "étaient campés",
+			"elles": "étaient campées"
+		},
+		"passé antérieur": {
+			"j'": "eus campé",
+			"tu": "fus campé",
+			"il/elle": "eut campé",
+			"nous": "fûmes campés",
+			"vous": "fûtes campés",
+			"ils/elles": "eurent campé",
+			"": "",
+			"je": "fus campé",
+			"il": "fut campé",
+			"elle": "fut campée",
+			"ils": "furent campés",
+			"elles": "furent campées"
+		},
+		"futur antérieur": {
+			"j'": "aurai campé",
+			"tu": "seras campé",
+			"il/elle": "aura campé",
+			"nous": "serons campés",
+			"vous": "serez campés",
+			"ils/elles": "auront campé",
+			"": "",
+			"je": "serai campé",
+			"il": "sera campé",
+			"elle": "sera campée",
+			"ils": "seront campés",
+			"elles": "seront campées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous campiez",
+			"qu'il/elle": "campe",
+			"qu'ils/elles": "campent"
+		},
+		"imparfait": {
+			"que": "vous campassiez",
+			"qu'il/elle": "campât",
+			"qu'ils/elles": "campassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse campé",
+			"que": "vous fussiez campés",
+			"qu'il/elle": "eût campé",
+			"qu'ils/elles": "eussent campé",
+			"": "",
+			"qu'il": "fût campé",
+			"qu'elle": "fût campée",
+			"qu'ils": "fussent campés",
+			"qu'elles": "fussent campées"
+		},
+		"passé": {
+			"j'": "aie campé",
+			"que": "vous soyez campés",
+			"qu'il/elle": "ait campé",
+			"qu'ils/elles": "aient campé",
+			"": "",
+			"qu'il": "soit campé",
+			"qu'elle": "soit campée",
+			"qu'ils": "soient campés",
+			"qu'elles": "soient campées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "camperais",
+			"tu": "camperais",
+			"il/elle": "camperait",
+			"nous": "camperions",
+			"vous": "camperiez",
+			"ils/elles": "camperaient"
+		},
+		"passé première forme": {
+			"j'": "aurais campé",
+			"tu": "serais campé",
+			"il/elle": "aurait campé",
+			"nous": "serions campés",
+			"vous": "seriez campés",
+			"ils/elles": "auraient campé",
+			"": "",
+			"je": "serais campé",
+			"il": "serait campé",
+			"elle": "serait campée",
+			"ils": "seraient campés",
+			"elles": "seraient campées"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse campé",
+			"tu": "fusses campé",
+			"il/elle": "eût campé",
+			"nous": "fussions campés",
+			"vous": "fussiez campés",
+			"ils/elles": "eussent campé",
+			"": "",
+			"je": "fusse campé",
+			"il": "fût campé",
+			"elle": "fût campée",
+			"ils": "fussent campés",
+			"elles": "fussent campées"
+		}
+	},
+	"participe": {
+		"présent": { "campant": "" },
+		"passé composé": { "ayant": "campé", "": "", "étant": "campée" },
+		"passé": {
+			"masc.sg.:": "campé",
+			"masc.pl.:": "campés",
+			"fém.sg.:": "campée",
+			"fém.pl.:": "campées"
+		}
+	},
+	"imperatif": {
+		"présent": { "campe": "", "campons": "", "campez": "" },
+		"passé": {
+			"aie": "campé",
+			"ayons": "campé",
+			"ayez": "campé",
+			"": "",
+			"sois": "campé",
+			"soyons": "campé",
+			"soyez": "campé"
+		}
+	},
+	"infinitif": {
+		"présent": { "camper": "" },
+		"passé": { "avoir": "campé", "": "", "être": "campé" }
+	}
+}

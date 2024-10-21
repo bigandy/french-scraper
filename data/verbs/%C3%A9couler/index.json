@@ -1,0 +1,140 @@
+{
+	"name": "écouler",
+	"definition": "sell; pass; elapse; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'écouler/ne pas écouler/ne pas s'écouler",
+	"indicatif": {
+		"présent": {
+			"j'": "écoule",
+			"tu": "écoules",
+			"il/elle": "écoule",
+			"nous": "écoulons",
+			"vous": "écoulez",
+			"ils/elles": "écoulent"
+		},
+		"imparfait": {
+			"j'": "écoulais",
+			"tu": "écoulais",
+			"il/elle": "écoulait",
+			"nous": "écoulions",
+			"vous": "écouliez",
+			"ils/elles": "écoulaient"
+		},
+		"futur": {
+			"j'": "écoulerai",
+			"tu": "écouleras",
+			"il/elle": "écoulera",
+			"nous": "écoulerons",
+			"vous": "écoulerez",
+			"ils/elles": "écouleront"
+		},
+		"passé simple": {
+			"j'": "écoulai",
+			"tu": "écoulas",
+			"il/elle": "écoula",
+			"nous": "écoulâmes",
+			"vous": "écoulâtes",
+			"ils/elles": "écoulèrent"
+		},
+		"passé composé": {
+			"j'": "ai écoulé",
+			"tu": "as écoulé",
+			"il/elle": "a écoulé",
+			"nous": "avons écoulé",
+			"vous": "avez écoulé",
+			"ils/elles": "ont écoulé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais écoulé",
+			"tu": "avais écoulé",
+			"il/elle": "avait écoulé",
+			"nous": "avions écoulé",
+			"vous": "aviez écoulé",
+			"ils/elles": "avaient écoulé"
+		},
+		"passé antérieur": {
+			"j'": "eus écoulé",
+			"tu": "eus écoulé",
+			"il/elle": "eut écoulé",
+			"nous": "eûmes écoulé",
+			"vous": "eûtes écoulé",
+			"ils/elles": "eurent écoulé"
+		},
+		"futur antérieur": {
+			"j'": "aurai écoulé",
+			"tu": "auras écoulé",
+			"il/elle": "aura écoulé",
+			"nous": "aurons écoulé",
+			"vous": "aurez écoulé",
+			"ils/elles": "auront écoulé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "écoule",
+			"que": "vous écouliez",
+			"qu'il/elle": "écoule",
+			"qu'ils/elles": "écoulent"
+		},
+		"imparfait": {
+			"j'": "écoulasse",
+			"que": "vous écoulassiez",
+			"qu'il/elle": "écoulât",
+			"qu'ils/elles": "écoulassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse écoulé",
+			"que": "vous eussiez écoulé",
+			"qu'il/elle": "eût écoulé",
+			"qu'ils/elles": "eussent écoulé"
+		},
+		"passé": {
+			"j'": "aie écoulé",
+			"que": "vous ayez écoulé",
+			"qu'il/elle": "ait écoulé",
+			"qu'ils/elles": "aient écoulé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "écoulerais",
+			"tu": "écoulerais",
+			"il/elle": "écoulerait",
+			"nous": "écoulerions",
+			"vous": "écouleriez",
+			"ils/elles": "écouleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais écoulé",
+			"tu": "aurais écoulé",
+			"il/elle": "aurait écoulé",
+			"nous": "aurions écoulé",
+			"vous": "auriez écoulé",
+			"ils/elles": "auraient écoulé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse écoulé",
+			"tu": "eusses écoulé",
+			"il/elle": "eût écoulé",
+			"nous": "eussions écoulé",
+			"vous": "eussiez écoulé",
+			"ils/elles": "eussent écoulé"
+		}
+	},
+	"participe": {
+		"présent": { "écoulant": "" },
+		"passé composé": { "ayant": "écoulé" },
+		"passé": {
+			"masc.sg.:": "écoulé",
+			"masc.pl.:": "écoulés",
+			"fém.sg.:": "écoulée",
+			"fém.pl.:": "écoulées"
+		}
+	},
+	"imperatif": {
+		"présent": { "écoule": "", "écoulons": "", "écoulez": "" },
+		"passé": { "aie": "écoulé", "ayons": "écoulé", "ayez": "écoulé" }
+	},
+	"infinitif": { "présent": { "écouler": "" }, "passé": { "avoir": "écoulé" } }
+}

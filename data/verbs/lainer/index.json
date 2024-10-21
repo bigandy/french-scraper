@@ -1,0 +1,138 @@
+{
+	"name": "lainer",
+	"definition": "nap; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se lainer/ne pas lainer/ne pas se lainer",
+	"indicatif": {
+		"présent": {
+			"je": "laine",
+			"tu": "laines",
+			"il/elle": "laine",
+			"nous": "lainons",
+			"vous": "lainez",
+			"ils/elles": "lainent"
+		},
+		"imparfait": {
+			"je": "lainais",
+			"tu": "lainais",
+			"il/elle": "lainait",
+			"nous": "lainions",
+			"vous": "lainiez",
+			"ils/elles": "lainaient"
+		},
+		"futur": {
+			"je": "lainerai",
+			"tu": "laineras",
+			"il/elle": "lainera",
+			"nous": "lainerons",
+			"vous": "lainerez",
+			"ils/elles": "laineront"
+		},
+		"passé simple": {
+			"je": "lainai",
+			"tu": "lainas",
+			"il/elle": "laina",
+			"nous": "lainâmes",
+			"vous": "lainâtes",
+			"ils/elles": "lainèrent"
+		},
+		"passé composé": {
+			"j'": "ai lainé",
+			"tu": "as lainé",
+			"il/elle": "a lainé",
+			"nous": "avons lainé",
+			"vous": "avez lainé",
+			"ils/elles": "ont lainé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais lainé",
+			"tu": "avais lainé",
+			"il/elle": "avait lainé",
+			"nous": "avions lainé",
+			"vous": "aviez lainé",
+			"ils/elles": "avaient lainé"
+		},
+		"passé antérieur": {
+			"j'": "eus lainé",
+			"tu": "eus lainé",
+			"il/elle": "eut lainé",
+			"nous": "eûmes lainé",
+			"vous": "eûtes lainé",
+			"ils/elles": "eurent lainé"
+		},
+		"futur antérieur": {
+			"j'": "aurai lainé",
+			"tu": "auras lainé",
+			"il/elle": "aura lainé",
+			"nous": "aurons lainé",
+			"vous": "aurez lainé",
+			"ils/elles": "auront lainé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous lainiez",
+			"qu'il/elle": "laine",
+			"qu'ils/elles": "lainent"
+		},
+		"imparfait": {
+			"que": "vous lainassiez",
+			"qu'il/elle": "lainât",
+			"qu'ils/elles": "lainassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse lainé",
+			"que": "vous eussiez lainé",
+			"qu'il/elle": "eût lainé",
+			"qu'ils/elles": "eussent lainé"
+		},
+		"passé": {
+			"j'": "aie lainé",
+			"que": "vous ayez lainé",
+			"qu'il/elle": "ait lainé",
+			"qu'ils/elles": "aient lainé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "lainerais",
+			"tu": "lainerais",
+			"il/elle": "lainerait",
+			"nous": "lainerions",
+			"vous": "laineriez",
+			"ils/elles": "laineraient"
+		},
+		"passé première forme": {
+			"j'": "aurais lainé",
+			"tu": "aurais lainé",
+			"il/elle": "aurait lainé",
+			"nous": "aurions lainé",
+			"vous": "auriez lainé",
+			"ils/elles": "auraient lainé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse lainé",
+			"tu": "eusses lainé",
+			"il/elle": "eût lainé",
+			"nous": "eussions lainé",
+			"vous": "eussiez lainé",
+			"ils/elles": "eussent lainé"
+		}
+	},
+	"participe": {
+		"présent": { "lainant": "" },
+		"passé composé": { "ayant": "lainé" },
+		"passé": {
+			"masc.sg.:": "lainé",
+			"masc.pl.:": "lainés",
+			"fém.sg.:": "lainée",
+			"fém.pl.:": "lainées"
+		}
+	},
+	"imperatif": {
+		"présent": { "laine": "", "lainons": "", "lainez": "" },
+		"passé": { "aie": "lainé", "ayons": "lainé", "ayez": "lainé" }
+	},
+	"infinitif": { "présent": { "lainer": "" }, "passé": { "avoir": "lainé" } }
+}

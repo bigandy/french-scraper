@@ -1,0 +1,138 @@
+{
+	"name": "saper",
+	"definition": "undermine; erode; undercut; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se saper/ne pas saper/ne pas se saper",
+	"indicatif": {
+		"présent": {
+			"je": "sape",
+			"tu": "sapes",
+			"il/elle": "sape",
+			"nous": "sapons",
+			"vous": "sapez",
+			"ils/elles": "sapent"
+		},
+		"imparfait": {
+			"je": "sapais",
+			"tu": "sapais",
+			"il/elle": "sapait",
+			"nous": "sapions",
+			"vous": "sapiez",
+			"ils/elles": "sapaient"
+		},
+		"futur": {
+			"je": "saperai",
+			"tu": "saperas",
+			"il/elle": "sapera",
+			"nous": "saperons",
+			"vous": "saperez",
+			"ils/elles": "saperont"
+		},
+		"passé simple": {
+			"je": "sapai",
+			"tu": "sapas",
+			"il/elle": "sapa",
+			"nous": "sapâmes",
+			"vous": "sapâtes",
+			"ils/elles": "sapèrent"
+		},
+		"passé composé": {
+			"j'": "ai sapé",
+			"tu": "as sapé",
+			"il/elle": "a sapé",
+			"nous": "avons sapé",
+			"vous": "avez sapé",
+			"ils/elles": "ont sapé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais sapé",
+			"tu": "avais sapé",
+			"il/elle": "avait sapé",
+			"nous": "avions sapé",
+			"vous": "aviez sapé",
+			"ils/elles": "avaient sapé"
+		},
+		"passé antérieur": {
+			"j'": "eus sapé",
+			"tu": "eus sapé",
+			"il/elle": "eut sapé",
+			"nous": "eûmes sapé",
+			"vous": "eûtes sapé",
+			"ils/elles": "eurent sapé"
+		},
+		"futur antérieur": {
+			"j'": "aurai sapé",
+			"tu": "auras sapé",
+			"il/elle": "aura sapé",
+			"nous": "aurons sapé",
+			"vous": "aurez sapé",
+			"ils/elles": "auront sapé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous sapiez",
+			"qu'il/elle": "sape",
+			"qu'ils/elles": "sapent"
+		},
+		"imparfait": {
+			"que": "vous sapassiez",
+			"qu'il/elle": "sapât",
+			"qu'ils/elles": "sapassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse sapé",
+			"que": "vous eussiez sapé",
+			"qu'il/elle": "eût sapé",
+			"qu'ils/elles": "eussent sapé"
+		},
+		"passé": {
+			"j'": "aie sapé",
+			"que": "vous ayez sapé",
+			"qu'il/elle": "ait sapé",
+			"qu'ils/elles": "aient sapé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "saperais",
+			"tu": "saperais",
+			"il/elle": "saperait",
+			"nous": "saperions",
+			"vous": "saperiez",
+			"ils/elles": "saperaient"
+		},
+		"passé première forme": {
+			"j'": "aurais sapé",
+			"tu": "aurais sapé",
+			"il/elle": "aurait sapé",
+			"nous": "aurions sapé",
+			"vous": "auriez sapé",
+			"ils/elles": "auraient sapé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse sapé",
+			"tu": "eusses sapé",
+			"il/elle": "eût sapé",
+			"nous": "eussions sapé",
+			"vous": "eussiez sapé",
+			"ils/elles": "eussent sapé"
+		}
+	},
+	"participe": {
+		"présent": { "sapant": "" },
+		"passé composé": { "ayant": "sapé" },
+		"passé": {
+			"masc.sg.:": "sapé",
+			"masc.pl.:": "sapés",
+			"fém.sg.:": "sapée",
+			"fém.pl.:": "sapées"
+		}
+	},
+	"imperatif": {
+		"présent": { "sape": "", "sapons": "", "sapez": "" },
+		"passé": { "aie": "sapé", "ayons": "sapé", "ayez": "sapé" }
+	},
+	"infinitif": { "présent": { "saper": "" }, "passé": { "avoir": "sapé" } }
+}

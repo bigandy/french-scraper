@@ -1,0 +1,138 @@
+{
+	"name": "modeler",
+	"definition": "shape; model; mold; ...",
+	"model": "peler",
+	"auxiliary": "avoir",
+	"otherForms": "se modeler/ne pas modeler/ne pas se modeler",
+	"indicatif": {
+		"présent": {
+			"je": "modèle",
+			"tu": "modèles",
+			"il/elle": "modèle",
+			"nous": "modelons",
+			"vous": "modelez",
+			"ils/elles": "modèlent"
+		},
+		"imparfait": {
+			"je": "modelais",
+			"tu": "modelais",
+			"il/elle": "modelait",
+			"nous": "modelions",
+			"vous": "modeliez",
+			"ils/elles": "modelaient"
+		},
+		"futur": {
+			"je": "modèlerai",
+			"tu": "modèleras",
+			"il/elle": "modèlera",
+			"nous": "modèlerons",
+			"vous": "modèlerez",
+			"ils/elles": "modèleront"
+		},
+		"passé simple": {
+			"je": "modelai",
+			"tu": "modelas",
+			"il/elle": "modela",
+			"nous": "modelâmes",
+			"vous": "modelâtes",
+			"ils/elles": "modelèrent"
+		},
+		"passé composé": {
+			"j'": "ai modelé",
+			"tu": "as modelé",
+			"il/elle": "a modelé",
+			"nous": "avons modelé",
+			"vous": "avez modelé",
+			"ils/elles": "ont modelé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais modelé",
+			"tu": "avais modelé",
+			"il/elle": "avait modelé",
+			"nous": "avions modelé",
+			"vous": "aviez modelé",
+			"ils/elles": "avaient modelé"
+		},
+		"passé antérieur": {
+			"j'": "eus modelé",
+			"tu": "eus modelé",
+			"il/elle": "eut modelé",
+			"nous": "eûmes modelé",
+			"vous": "eûtes modelé",
+			"ils/elles": "eurent modelé"
+		},
+		"futur antérieur": {
+			"j'": "aurai modelé",
+			"tu": "auras modelé",
+			"il/elle": "aura modelé",
+			"nous": "aurons modelé",
+			"vous": "aurez modelé",
+			"ils/elles": "auront modelé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous modeliez",
+			"qu'il/elle": "modèle",
+			"qu'ils/elles": "modèlent"
+		},
+		"imparfait": {
+			"que": "vous modelassiez",
+			"qu'il/elle": "modelât",
+			"qu'ils/elles": "modelassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse modelé",
+			"que": "vous eussiez modelé",
+			"qu'il/elle": "eût modelé",
+			"qu'ils/elles": "eussent modelé"
+		},
+		"passé": {
+			"j'": "aie modelé",
+			"que": "vous ayez modelé",
+			"qu'il/elle": "ait modelé",
+			"qu'ils/elles": "aient modelé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "modèlerais",
+			"tu": "modèlerais",
+			"il/elle": "modèlerait",
+			"nous": "modèlerions",
+			"vous": "modèleriez",
+			"ils/elles": "modèleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais modelé",
+			"tu": "aurais modelé",
+			"il/elle": "aurait modelé",
+			"nous": "aurions modelé",
+			"vous": "auriez modelé",
+			"ils/elles": "auraient modelé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse modelé",
+			"tu": "eusses modelé",
+			"il/elle": "eût modelé",
+			"nous": "eussions modelé",
+			"vous": "eussiez modelé",
+			"ils/elles": "eussent modelé"
+		}
+	},
+	"participe": {
+		"présent": { "modelant": "" },
+		"passé composé": { "ayant": "modelé" },
+		"passé": {
+			"masc.sg.:": "modelé",
+			"masc.pl.:": "modelés",
+			"fém.sg.:": "modelée",
+			"fém.pl.:": "modelées"
+		}
+	},
+	"imperatif": {
+		"présent": { "modèle": "", "modelons": "", "modelez": "" },
+		"passé": { "aie": "modelé", "ayons": "modelé", "ayez": "modelé" }
+	},
+	"infinitif": { "présent": { "modeler": "" }, "passé": { "avoir": "modelé" } }
+}

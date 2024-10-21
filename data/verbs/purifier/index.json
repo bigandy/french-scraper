@@ -1,0 +1,141 @@
+{
+	"name": "purifier",
+	"definition": "purify; cleanse; clean; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se purifier/ne pas purifier/ne pas se purifier",
+	"indicatif": {
+		"présent": {
+			"je": "purifie",
+			"tu": "purifies",
+			"il/elle": "purifie",
+			"nous": "purifions",
+			"vous": "purifiez",
+			"ils/elles": "purifient"
+		},
+		"imparfait": {
+			"je": "purifiais",
+			"tu": "purifiais",
+			"il/elle": "purifiait",
+			"nous": "purifiions",
+			"vous": "purifiiez",
+			"ils/elles": "purifiaient"
+		},
+		"futur": {
+			"je": "purifierai",
+			"tu": "purifieras",
+			"il/elle": "purifiera",
+			"nous": "purifierons",
+			"vous": "purifierez",
+			"ils/elles": "purifieront"
+		},
+		"passé simple": {
+			"je": "purifiai",
+			"tu": "purifias",
+			"il/elle": "purifia",
+			"nous": "purifiâmes",
+			"vous": "purifiâtes",
+			"ils/elles": "purifièrent"
+		},
+		"passé composé": {
+			"j'": "ai purifié",
+			"tu": "as purifié",
+			"il/elle": "a purifié",
+			"nous": "avons purifié",
+			"vous": "avez purifié",
+			"ils/elles": "ont purifié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais purifié",
+			"tu": "avais purifié",
+			"il/elle": "avait purifié",
+			"nous": "avions purifié",
+			"vous": "aviez purifié",
+			"ils/elles": "avaient purifié"
+		},
+		"passé antérieur": {
+			"j'": "eus purifié",
+			"tu": "eus purifié",
+			"il/elle": "eut purifié",
+			"nous": "eûmes purifié",
+			"vous": "eûtes purifié",
+			"ils/elles": "eurent purifié"
+		},
+		"futur antérieur": {
+			"j'": "aurai purifié",
+			"tu": "auras purifié",
+			"il/elle": "aura purifié",
+			"nous": "aurons purifié",
+			"vous": "aurez purifié",
+			"ils/elles": "auront purifié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous purifiiez",
+			"qu'il/elle": "purifie",
+			"qu'ils/elles": "purifient"
+		},
+		"imparfait": {
+			"que": "vous purifiassiez",
+			"qu'il/elle": "purifiât",
+			"qu'ils/elles": "purifiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse purifié",
+			"que": "vous eussiez purifié",
+			"qu'il/elle": "eût purifié",
+			"qu'ils/elles": "eussent purifié"
+		},
+		"passé": {
+			"j'": "aie purifié",
+			"que": "vous ayez purifié",
+			"qu'il/elle": "ait purifié",
+			"qu'ils/elles": "aient purifié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "purifierais",
+			"tu": "purifierais",
+			"il/elle": "purifierait",
+			"nous": "purifierions",
+			"vous": "purifieriez",
+			"ils/elles": "purifieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais purifié",
+			"tu": "aurais purifié",
+			"il/elle": "aurait purifié",
+			"nous": "aurions purifié",
+			"vous": "auriez purifié",
+			"ils/elles": "auraient purifié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse purifié",
+			"tu": "eusses purifié",
+			"il/elle": "eût purifié",
+			"nous": "eussions purifié",
+			"vous": "eussiez purifié",
+			"ils/elles": "eussent purifié"
+		}
+	},
+	"participe": {
+		"présent": { "purifiant": "" },
+		"passé composé": { "ayant": "purifié" },
+		"passé": {
+			"masc.sg.:": "purifié",
+			"masc.pl.:": "purifiés",
+			"fém.sg.:": "purifiée",
+			"fém.pl.:": "purifiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "purifie": "", "purifions": "", "purifiez": "" },
+		"passé": { "aie": "purifié", "ayons": "purifié", "ayez": "purifié" }
+	},
+	"infinitif": {
+		"présent": { "purifier": "" },
+		"passé": { "avoir": "purifié" }
+	}
+}

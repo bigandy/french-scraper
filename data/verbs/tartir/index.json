@@ -1,0 +1,138 @@
+{
+	"name": "tartir",
+	"definition": "",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas tartir",
+	"indicatif": {
+		"présent": {
+			"je": "tartis",
+			"tu": "tartis",
+			"il/elle": "tartit",
+			"nous": "tartissons",
+			"vous": "tartissez",
+			"ils/elles": "tartissent"
+		},
+		"imparfait": {
+			"je": "tartissais",
+			"tu": "tartissais",
+			"il/elle": "tartissait",
+			"nous": "tartissions",
+			"vous": "tartissiez",
+			"ils/elles": "tartissaient"
+		},
+		"futur": {
+			"je": "tartirai",
+			"tu": "tartiras",
+			"il/elle": "tartira",
+			"nous": "tartirons",
+			"vous": "tartirez",
+			"ils/elles": "tartiront"
+		},
+		"passé simple": {
+			"je": "tartis",
+			"tu": "tartis",
+			"il/elle": "tartit",
+			"nous": "tartîmes",
+			"vous": "tartîtes",
+			"ils/elles": "tartirent"
+		},
+		"passé composé": {
+			"j'": "ai tarti",
+			"tu": "as tarti",
+			"il/elle": "a tarti",
+			"nous": "avons tarti",
+			"vous": "avez tarti",
+			"ils/elles": "ont tarti"
+		},
+		"plus-que-parfait": {
+			"j'": "avais tarti",
+			"tu": "avais tarti",
+			"il/elle": "avait tarti",
+			"nous": "avions tarti",
+			"vous": "aviez tarti",
+			"ils/elles": "avaient tarti"
+		},
+		"passé antérieur": {
+			"j'": "eus tarti",
+			"tu": "eus tarti",
+			"il/elle": "eut tarti",
+			"nous": "eûmes tarti",
+			"vous": "eûtes tarti",
+			"ils/elles": "eurent tarti"
+		},
+		"futur antérieur": {
+			"j'": "aurai tarti",
+			"tu": "auras tarti",
+			"il/elle": "aura tarti",
+			"nous": "aurons tarti",
+			"vous": "aurez tarti",
+			"ils/elles": "auront tarti"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous tartissiez",
+			"qu'il/elle": "tartisse",
+			"qu'ils/elles": "tartissent"
+		},
+		"imparfait": {
+			"que": "vous tartissiez",
+			"qu'il/elle": "tartît",
+			"qu'ils/elles": "tartissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse tarti",
+			"que": "vous eussiez tarti",
+			"qu'il/elle": "eût tarti",
+			"qu'ils/elles": "eussent tarti"
+		},
+		"passé": {
+			"j'": "aie tarti",
+			"que": "vous ayez tarti",
+			"qu'il/elle": "ait tarti",
+			"qu'ils/elles": "aient tarti"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "tartirais",
+			"tu": "tartirais",
+			"il/elle": "tartirait",
+			"nous": "tartirions",
+			"vous": "tartiriez",
+			"ils/elles": "tartiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais tarti",
+			"tu": "aurais tarti",
+			"il/elle": "aurait tarti",
+			"nous": "aurions tarti",
+			"vous": "auriez tarti",
+			"ils/elles": "auraient tarti"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse tarti",
+			"tu": "eusses tarti",
+			"il/elle": "eût tarti",
+			"nous": "eussions tarti",
+			"vous": "eussiez tarti",
+			"ils/elles": "eussent tarti"
+		}
+	},
+	"participe": {
+		"présent": { "tartissant": "" },
+		"passé composé": { "ayant": "tarti" },
+		"passé": {
+			"masc.sg.:": "tarti",
+			"masc.pl.:": "tartis",
+			"fém.sg.:": "tartie",
+			"fém.pl.:": "tarties"
+		}
+	},
+	"imperatif": {
+		"présent": { "tartis": "", "tartissons": "", "tartissez": "" },
+		"passé": { "aie": "tarti", "ayons": "tarti", "ayez": "tarti" }
+	},
+	"infinitif": { "présent": { "tartir": "" }, "passé": { "avoir": "tarti" } }
+}

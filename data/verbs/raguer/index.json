@@ -1,0 +1,138 @@
+{
+	"name": "raguer",
+	"definition": "",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se raguer/ne pas raguer/ne pas se raguer",
+	"indicatif": {
+		"présent": {
+			"je": "rague",
+			"tu": "ragues",
+			"il/elle": "rague",
+			"nous": "raguons",
+			"vous": "raguez",
+			"ils/elles": "raguent"
+		},
+		"imparfait": {
+			"je": "raguais",
+			"tu": "raguais",
+			"il/elle": "raguait",
+			"nous": "raguions",
+			"vous": "raguiez",
+			"ils/elles": "raguaient"
+		},
+		"futur": {
+			"je": "raguerai",
+			"tu": "ragueras",
+			"il/elle": "raguera",
+			"nous": "raguerons",
+			"vous": "raguerez",
+			"ils/elles": "ragueront"
+		},
+		"passé simple": {
+			"je": "raguai",
+			"tu": "raguas",
+			"il/elle": "ragua",
+			"nous": "raguâmes",
+			"vous": "raguâtes",
+			"ils/elles": "raguèrent"
+		},
+		"passé composé": {
+			"j'": "ai ragué",
+			"tu": "as ragué",
+			"il/elle": "a ragué",
+			"nous": "avons ragué",
+			"vous": "avez ragué",
+			"ils/elles": "ont ragué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais ragué",
+			"tu": "avais ragué",
+			"il/elle": "avait ragué",
+			"nous": "avions ragué",
+			"vous": "aviez ragué",
+			"ils/elles": "avaient ragué"
+		},
+		"passé antérieur": {
+			"j'": "eus ragué",
+			"tu": "eus ragué",
+			"il/elle": "eut ragué",
+			"nous": "eûmes ragué",
+			"vous": "eûtes ragué",
+			"ils/elles": "eurent ragué"
+		},
+		"futur antérieur": {
+			"j'": "aurai ragué",
+			"tu": "auras ragué",
+			"il/elle": "aura ragué",
+			"nous": "aurons ragué",
+			"vous": "aurez ragué",
+			"ils/elles": "auront ragué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous raguiez",
+			"qu'il/elle": "rague",
+			"qu'ils/elles": "raguent"
+		},
+		"imparfait": {
+			"que": "vous raguassiez",
+			"qu'il/elle": "raguât",
+			"qu'ils/elles": "raguassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse ragué",
+			"que": "vous eussiez ragué",
+			"qu'il/elle": "eût ragué",
+			"qu'ils/elles": "eussent ragué"
+		},
+		"passé": {
+			"j'": "aie ragué",
+			"que": "vous ayez ragué",
+			"qu'il/elle": "ait ragué",
+			"qu'ils/elles": "aient ragué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "raguerais",
+			"tu": "raguerais",
+			"il/elle": "raguerait",
+			"nous": "raguerions",
+			"vous": "ragueriez",
+			"ils/elles": "ragueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais ragué",
+			"tu": "aurais ragué",
+			"il/elle": "aurait ragué",
+			"nous": "aurions ragué",
+			"vous": "auriez ragué",
+			"ils/elles": "auraient ragué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse ragué",
+			"tu": "eusses ragué",
+			"il/elle": "eût ragué",
+			"nous": "eussions ragué",
+			"vous": "eussiez ragué",
+			"ils/elles": "eussent ragué"
+		}
+	},
+	"participe": {
+		"présent": { "raguant": "" },
+		"passé composé": { "ayant": "ragué" },
+		"passé": {
+			"masc.sg.:": "ragué",
+			"masc.pl.:": "ragués",
+			"fém.sg.:": "raguée",
+			"fém.pl.:": "raguées"
+		}
+	},
+	"imperatif": {
+		"présent": { "rague": "", "raguons": "", "raguez": "" },
+		"passé": { "aie": "ragué", "ayons": "ragué", "ayez": "ragué" }
+	},
+	"infinitif": { "présent": { "raguer": "" }, "passé": { "avoir": "ragué" } }
+}

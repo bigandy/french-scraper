@@ -1,0 +1,141 @@
+{
+	"name": "dynamiser",
+	"definition": "boost; energize; stimulate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se dynamiser/ne pas dynamiser/ne pas se dynamiser",
+	"indicatif": {
+		"présent": {
+			"je": "dynamise",
+			"tu": "dynamises",
+			"il/elle": "dynamise",
+			"nous": "dynamisons",
+			"vous": "dynamisez",
+			"ils/elles": "dynamisent"
+		},
+		"imparfait": {
+			"je": "dynamisais",
+			"tu": "dynamisais",
+			"il/elle": "dynamisait",
+			"nous": "dynamisions",
+			"vous": "dynamisiez",
+			"ils/elles": "dynamisaient"
+		},
+		"futur": {
+			"je": "dynamiserai",
+			"tu": "dynamiseras",
+			"il/elle": "dynamisera",
+			"nous": "dynamiserons",
+			"vous": "dynamiserez",
+			"ils/elles": "dynamiseront"
+		},
+		"passé simple": {
+			"je": "dynamisai",
+			"tu": "dynamisas",
+			"il/elle": "dynamisa",
+			"nous": "dynamisâmes",
+			"vous": "dynamisâtes",
+			"ils/elles": "dynamisèrent"
+		},
+		"passé composé": {
+			"j'": "ai dynamisé",
+			"tu": "as dynamisé",
+			"il/elle": "a dynamisé",
+			"nous": "avons dynamisé",
+			"vous": "avez dynamisé",
+			"ils/elles": "ont dynamisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais dynamisé",
+			"tu": "avais dynamisé",
+			"il/elle": "avait dynamisé",
+			"nous": "avions dynamisé",
+			"vous": "aviez dynamisé",
+			"ils/elles": "avaient dynamisé"
+		},
+		"passé antérieur": {
+			"j'": "eus dynamisé",
+			"tu": "eus dynamisé",
+			"il/elle": "eut dynamisé",
+			"nous": "eûmes dynamisé",
+			"vous": "eûtes dynamisé",
+			"ils/elles": "eurent dynamisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai dynamisé",
+			"tu": "auras dynamisé",
+			"il/elle": "aura dynamisé",
+			"nous": "aurons dynamisé",
+			"vous": "aurez dynamisé",
+			"ils/elles": "auront dynamisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous dynamisiez",
+			"qu'il/elle": "dynamise",
+			"qu'ils/elles": "dynamisent"
+		},
+		"imparfait": {
+			"que": "vous dynamisassiez",
+			"qu'il/elle": "dynamisât",
+			"qu'ils/elles": "dynamisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse dynamisé",
+			"que": "vous eussiez dynamisé",
+			"qu'il/elle": "eût dynamisé",
+			"qu'ils/elles": "eussent dynamisé"
+		},
+		"passé": {
+			"j'": "aie dynamisé",
+			"que": "vous ayez dynamisé",
+			"qu'il/elle": "ait dynamisé",
+			"qu'ils/elles": "aient dynamisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "dynamiserais",
+			"tu": "dynamiserais",
+			"il/elle": "dynamiserait",
+			"nous": "dynamiserions",
+			"vous": "dynamiseriez",
+			"ils/elles": "dynamiseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais dynamisé",
+			"tu": "aurais dynamisé",
+			"il/elle": "aurait dynamisé",
+			"nous": "aurions dynamisé",
+			"vous": "auriez dynamisé",
+			"ils/elles": "auraient dynamisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse dynamisé",
+			"tu": "eusses dynamisé",
+			"il/elle": "eût dynamisé",
+			"nous": "eussions dynamisé",
+			"vous": "eussiez dynamisé",
+			"ils/elles": "eussent dynamisé"
+		}
+	},
+	"participe": {
+		"présent": { "dynamisant": "" },
+		"passé composé": { "ayant": "dynamisé" },
+		"passé": {
+			"masc.sg.:": "dynamisé",
+			"masc.pl.:": "dynamisés",
+			"fém.sg.:": "dynamisée",
+			"fém.pl.:": "dynamisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "dynamise": "", "dynamisons": "", "dynamisez": "" },
+		"passé": { "aie": "dynamisé", "ayons": "dynamisé", "ayez": "dynamisé" }
+	},
+	"infinitif": {
+		"présent": { "dynamiser": "" },
+		"passé": { "avoir": "dynamisé" }
+	}
+}

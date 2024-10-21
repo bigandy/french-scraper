@@ -1,0 +1,138 @@
+{
+	"name": "rallier",
+	"definition": "rally; join; endorse; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se rallier/ne pas rallier/ne pas se rallier",
+	"indicatif": {
+		"présent": {
+			"je": "rallie",
+			"tu": "rallies",
+			"il/elle": "rallie",
+			"nous": "rallions",
+			"vous": "ralliez",
+			"ils/elles": "rallient"
+		},
+		"imparfait": {
+			"je": "ralliais",
+			"tu": "ralliais",
+			"il/elle": "ralliait",
+			"nous": "ralliions",
+			"vous": "ralliiez",
+			"ils/elles": "ralliaient"
+		},
+		"futur": {
+			"je": "rallierai",
+			"tu": "rallieras",
+			"il/elle": "ralliera",
+			"nous": "rallierons",
+			"vous": "rallierez",
+			"ils/elles": "rallieront"
+		},
+		"passé simple": {
+			"je": "ralliai",
+			"tu": "rallias",
+			"il/elle": "rallia",
+			"nous": "ralliâmes",
+			"vous": "ralliâtes",
+			"ils/elles": "rallièrent"
+		},
+		"passé composé": {
+			"j'": "ai rallié",
+			"tu": "as rallié",
+			"il/elle": "a rallié",
+			"nous": "avons rallié",
+			"vous": "avez rallié",
+			"ils/elles": "ont rallié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais rallié",
+			"tu": "avais rallié",
+			"il/elle": "avait rallié",
+			"nous": "avions rallié",
+			"vous": "aviez rallié",
+			"ils/elles": "avaient rallié"
+		},
+		"passé antérieur": {
+			"j'": "eus rallié",
+			"tu": "eus rallié",
+			"il/elle": "eut rallié",
+			"nous": "eûmes rallié",
+			"vous": "eûtes rallié",
+			"ils/elles": "eurent rallié"
+		},
+		"futur antérieur": {
+			"j'": "aurai rallié",
+			"tu": "auras rallié",
+			"il/elle": "aura rallié",
+			"nous": "aurons rallié",
+			"vous": "aurez rallié",
+			"ils/elles": "auront rallié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous ralliiez",
+			"qu'il/elle": "rallie",
+			"qu'ils/elles": "rallient"
+		},
+		"imparfait": {
+			"que": "vous ralliassiez",
+			"qu'il/elle": "ralliât",
+			"qu'ils/elles": "ralliassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse rallié",
+			"que": "vous eussiez rallié",
+			"qu'il/elle": "eût rallié",
+			"qu'ils/elles": "eussent rallié"
+		},
+		"passé": {
+			"j'": "aie rallié",
+			"que": "vous ayez rallié",
+			"qu'il/elle": "ait rallié",
+			"qu'ils/elles": "aient rallié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "rallierais",
+			"tu": "rallierais",
+			"il/elle": "rallierait",
+			"nous": "rallierions",
+			"vous": "rallieriez",
+			"ils/elles": "rallieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais rallié",
+			"tu": "aurais rallié",
+			"il/elle": "aurait rallié",
+			"nous": "aurions rallié",
+			"vous": "auriez rallié",
+			"ils/elles": "auraient rallié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse rallié",
+			"tu": "eusses rallié",
+			"il/elle": "eût rallié",
+			"nous": "eussions rallié",
+			"vous": "eussiez rallié",
+			"ils/elles": "eussent rallié"
+		}
+	},
+	"participe": {
+		"présent": { "ralliant": "" },
+		"passé composé": { "ayant": "rallié" },
+		"passé": {
+			"masc.sg.:": "rallié",
+			"masc.pl.:": "ralliés",
+			"fém.sg.:": "ralliée",
+			"fém.pl.:": "ralliées"
+		}
+	},
+	"imperatif": {
+		"présent": { "rallie": "", "rallions": "", "ralliez": "" },
+		"passé": { "aie": "rallié", "ayons": "rallié", "ayez": "rallié" }
+	},
+	"infinitif": { "présent": { "rallier": "" }, "passé": { "avoir": "rallié" } }
+}

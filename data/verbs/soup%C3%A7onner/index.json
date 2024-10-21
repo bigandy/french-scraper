@@ -1,0 +1,141 @@
+{
+	"name": "soupçonner",
+	"definition": "suspect; be suspicious; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se soupçonner/ne pas soupçonner/ne pas se soupçonner",
+	"indicatif": {
+		"présent": {
+			"je": "soupçonne",
+			"tu": "soupçonnes",
+			"il/elle": "soupçonne",
+			"nous": "soupçonnons",
+			"vous": "soupçonnez",
+			"ils/elles": "soupçonnent"
+		},
+		"imparfait": {
+			"je": "soupçonnais",
+			"tu": "soupçonnais",
+			"il/elle": "soupçonnait",
+			"nous": "soupçonnions",
+			"vous": "soupçonniez",
+			"ils/elles": "soupçonnaient"
+		},
+		"futur": {
+			"je": "soupçonnerai",
+			"tu": "soupçonneras",
+			"il/elle": "soupçonnera",
+			"nous": "soupçonnerons",
+			"vous": "soupçonnerez",
+			"ils/elles": "soupçonneront"
+		},
+		"passé simple": {
+			"je": "soupçonnai",
+			"tu": "soupçonnas",
+			"il/elle": "soupçonna",
+			"nous": "soupçonnâmes",
+			"vous": "soupçonnâtes",
+			"ils/elles": "soupçonnèrent"
+		},
+		"passé composé": {
+			"j'": "ai soupçonné",
+			"tu": "as soupçonné",
+			"il/elle": "a soupçonné",
+			"nous": "avons soupçonné",
+			"vous": "avez soupçonné",
+			"ils/elles": "ont soupçonné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais soupçonné",
+			"tu": "avais soupçonné",
+			"il/elle": "avait soupçonné",
+			"nous": "avions soupçonné",
+			"vous": "aviez soupçonné",
+			"ils/elles": "avaient soupçonné"
+		},
+		"passé antérieur": {
+			"j'": "eus soupçonné",
+			"tu": "eus soupçonné",
+			"il/elle": "eut soupçonné",
+			"nous": "eûmes soupçonné",
+			"vous": "eûtes soupçonné",
+			"ils/elles": "eurent soupçonné"
+		},
+		"futur antérieur": {
+			"j'": "aurai soupçonné",
+			"tu": "auras soupçonné",
+			"il/elle": "aura soupçonné",
+			"nous": "aurons soupçonné",
+			"vous": "aurez soupçonné",
+			"ils/elles": "auront soupçonné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous soupçonniez",
+			"qu'il/elle": "soupçonne",
+			"qu'ils/elles": "soupçonnent"
+		},
+		"imparfait": {
+			"que": "vous soupçonnassiez",
+			"qu'il/elle": "soupçonnât",
+			"qu'ils/elles": "soupçonnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse soupçonné",
+			"que": "vous eussiez soupçonné",
+			"qu'il/elle": "eût soupçonné",
+			"qu'ils/elles": "eussent soupçonné"
+		},
+		"passé": {
+			"j'": "aie soupçonné",
+			"que": "vous ayez soupçonné",
+			"qu'il/elle": "ait soupçonné",
+			"qu'ils/elles": "aient soupçonné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "soupçonnerais",
+			"tu": "soupçonnerais",
+			"il/elle": "soupçonnerait",
+			"nous": "soupçonnerions",
+			"vous": "soupçonneriez",
+			"ils/elles": "soupçonneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais soupçonné",
+			"tu": "aurais soupçonné",
+			"il/elle": "aurait soupçonné",
+			"nous": "aurions soupçonné",
+			"vous": "auriez soupçonné",
+			"ils/elles": "auraient soupçonné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse soupçonné",
+			"tu": "eusses soupçonné",
+			"il/elle": "eût soupçonné",
+			"nous": "eussions soupçonné",
+			"vous": "eussiez soupçonné",
+			"ils/elles": "eussent soupçonné"
+		}
+	},
+	"participe": {
+		"présent": { "soupçonnant": "" },
+		"passé composé": { "ayant": "soupçonné" },
+		"passé": {
+			"masc.sg.:": "soupçonné",
+			"masc.pl.:": "soupçonnés",
+			"fém.sg.:": "soupçonnée",
+			"fém.pl.:": "soupçonnées"
+		}
+	},
+	"imperatif": {
+		"présent": { "soupçonne": "", "soupçonnons": "", "soupçonnez": "" },
+		"passé": { "aie": "soupçonné", "ayons": "soupçonné", "ayez": "soupçonné" }
+	},
+	"infinitif": {
+		"présent": { "soupçonner": "" },
+		"passé": { "avoir": "soupçonné" }
+	}
+}

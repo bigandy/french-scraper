@@ -1,0 +1,143 @@
+{
+	"name": "égoutter",
+	"definition": "drain; strain; drip; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'égoutter/ne pas égoutter/ne pas s'égoutter",
+	"indicatif": {
+		"présent": {
+			"j'": "égoutte",
+			"tu": "égouttes",
+			"il/elle": "égoutte",
+			"nous": "égouttons",
+			"vous": "égouttez",
+			"ils/elles": "égouttent"
+		},
+		"imparfait": {
+			"j'": "égouttais",
+			"tu": "égouttais",
+			"il/elle": "égouttait",
+			"nous": "égouttions",
+			"vous": "égouttiez",
+			"ils/elles": "égouttaient"
+		},
+		"futur": {
+			"j'": "égoutterai",
+			"tu": "égoutteras",
+			"il/elle": "égouttera",
+			"nous": "égoutterons",
+			"vous": "égoutterez",
+			"ils/elles": "égoutteront"
+		},
+		"passé simple": {
+			"j'": "égouttai",
+			"tu": "égouttas",
+			"il/elle": "égoutta",
+			"nous": "égouttâmes",
+			"vous": "égouttâtes",
+			"ils/elles": "égouttèrent"
+		},
+		"passé composé": {
+			"j'": "ai égoutté",
+			"tu": "as égoutté",
+			"il/elle": "a égoutté",
+			"nous": "avons égoutté",
+			"vous": "avez égoutté",
+			"ils/elles": "ont égoutté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais égoutté",
+			"tu": "avais égoutté",
+			"il/elle": "avait égoutté",
+			"nous": "avions égoutté",
+			"vous": "aviez égoutté",
+			"ils/elles": "avaient égoutté"
+		},
+		"passé antérieur": {
+			"j'": "eus égoutté",
+			"tu": "eus égoutté",
+			"il/elle": "eut égoutté",
+			"nous": "eûmes égoutté",
+			"vous": "eûtes égoutté",
+			"ils/elles": "eurent égoutté"
+		},
+		"futur antérieur": {
+			"j'": "aurai égoutté",
+			"tu": "auras égoutté",
+			"il/elle": "aura égoutté",
+			"nous": "aurons égoutté",
+			"vous": "aurez égoutté",
+			"ils/elles": "auront égoutté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "égoutte",
+			"que": "vous égouttiez",
+			"qu'il/elle": "égoutte",
+			"qu'ils/elles": "égouttent"
+		},
+		"imparfait": {
+			"j'": "égouttasse",
+			"que": "vous égouttassiez",
+			"qu'il/elle": "égouttât",
+			"qu'ils/elles": "égouttassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse égoutté",
+			"que": "vous eussiez égoutté",
+			"qu'il/elle": "eût égoutté",
+			"qu'ils/elles": "eussent égoutté"
+		},
+		"passé": {
+			"j'": "aie égoutté",
+			"que": "vous ayez égoutté",
+			"qu'il/elle": "ait égoutté",
+			"qu'ils/elles": "aient égoutté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "égoutterais",
+			"tu": "égoutterais",
+			"il/elle": "égoutterait",
+			"nous": "égoutterions",
+			"vous": "égoutteriez",
+			"ils/elles": "égoutteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais égoutté",
+			"tu": "aurais égoutté",
+			"il/elle": "aurait égoutté",
+			"nous": "aurions égoutté",
+			"vous": "auriez égoutté",
+			"ils/elles": "auraient égoutté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse égoutté",
+			"tu": "eusses égoutté",
+			"il/elle": "eût égoutté",
+			"nous": "eussions égoutté",
+			"vous": "eussiez égoutté",
+			"ils/elles": "eussent égoutté"
+		}
+	},
+	"participe": {
+		"présent": { "égouttant": "" },
+		"passé composé": { "ayant": "égoutté" },
+		"passé": {
+			"masc.sg.:": "égoutté",
+			"masc.pl.:": "égouttés",
+			"fém.sg.:": "égouttée",
+			"fém.pl.:": "égouttées"
+		}
+	},
+	"imperatif": {
+		"présent": { "égoutte": "", "égouttons": "", "égouttez": "" },
+		"passé": { "aie": "égoutté", "ayons": "égoutté", "ayez": "égoutté" }
+	},
+	"infinitif": {
+		"présent": { "égoutter": "" },
+		"passé": { "avoir": "égoutté" }
+	}
+}

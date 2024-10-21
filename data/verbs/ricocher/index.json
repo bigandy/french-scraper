@@ -1,0 +1,141 @@
+{
+	"name": "ricocher",
+	"definition": "ricochet; bounce; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas ricocher",
+	"indicatif": {
+		"présent": {
+			"je": "ricoche",
+			"tu": "ricoches",
+			"il/elle": "ricoche",
+			"nous": "ricochons",
+			"vous": "ricochez",
+			"ils/elles": "ricochent"
+		},
+		"imparfait": {
+			"je": "ricochais",
+			"tu": "ricochais",
+			"il/elle": "ricochait",
+			"nous": "ricochions",
+			"vous": "ricochiez",
+			"ils/elles": "ricochaient"
+		},
+		"futur": {
+			"je": "ricocherai",
+			"tu": "ricocheras",
+			"il/elle": "ricochera",
+			"nous": "ricocherons",
+			"vous": "ricocherez",
+			"ils/elles": "ricocheront"
+		},
+		"passé simple": {
+			"je": "ricochai",
+			"tu": "ricochas",
+			"il/elle": "ricocha",
+			"nous": "ricochâmes",
+			"vous": "ricochâtes",
+			"ils/elles": "ricochèrent"
+		},
+		"passé composé": {
+			"j'": "ai ricoché",
+			"tu": "as ricoché",
+			"il/elle": "a ricoché",
+			"nous": "avons ricoché",
+			"vous": "avez ricoché",
+			"ils/elles": "ont ricoché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais ricoché",
+			"tu": "avais ricoché",
+			"il/elle": "avait ricoché",
+			"nous": "avions ricoché",
+			"vous": "aviez ricoché",
+			"ils/elles": "avaient ricoché"
+		},
+		"passé antérieur": {
+			"j'": "eus ricoché",
+			"tu": "eus ricoché",
+			"il/elle": "eut ricoché",
+			"nous": "eûmes ricoché",
+			"vous": "eûtes ricoché",
+			"ils/elles": "eurent ricoché"
+		},
+		"futur antérieur": {
+			"j'": "aurai ricoché",
+			"tu": "auras ricoché",
+			"il/elle": "aura ricoché",
+			"nous": "aurons ricoché",
+			"vous": "aurez ricoché",
+			"ils/elles": "auront ricoché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous ricochiez",
+			"qu'il/elle": "ricoche",
+			"qu'ils/elles": "ricochent"
+		},
+		"imparfait": {
+			"que": "vous ricochassiez",
+			"qu'il/elle": "ricochât",
+			"qu'ils/elles": "ricochassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse ricoché",
+			"que": "vous eussiez ricoché",
+			"qu'il/elle": "eût ricoché",
+			"qu'ils/elles": "eussent ricoché"
+		},
+		"passé": {
+			"j'": "aie ricoché",
+			"que": "vous ayez ricoché",
+			"qu'il/elle": "ait ricoché",
+			"qu'ils/elles": "aient ricoché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "ricocherais",
+			"tu": "ricocherais",
+			"il/elle": "ricocherait",
+			"nous": "ricocherions",
+			"vous": "ricocheriez",
+			"ils/elles": "ricocheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais ricoché",
+			"tu": "aurais ricoché",
+			"il/elle": "aurait ricoché",
+			"nous": "aurions ricoché",
+			"vous": "auriez ricoché",
+			"ils/elles": "auraient ricoché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse ricoché",
+			"tu": "eusses ricoché",
+			"il/elle": "eût ricoché",
+			"nous": "eussions ricoché",
+			"vous": "eussiez ricoché",
+			"ils/elles": "eussent ricoché"
+		}
+	},
+	"participe": {
+		"présent": { "ricochant": "" },
+		"passé composé": { "ayant": "ricoché" },
+		"passé": {
+			"masc.sg.:": "ricoché",
+			"masc.pl.:": "ricochés",
+			"fém.sg.:": "ricochée",
+			"fém.pl.:": "ricochées"
+		}
+	},
+	"imperatif": {
+		"présent": { "ricoche": "", "ricochons": "", "ricochez": "" },
+		"passé": { "aie": "ricoché", "ayons": "ricoché", "ayez": "ricoché" }
+	},
+	"infinitif": {
+		"présent": { "ricocher": "" },
+		"passé": { "avoir": "ricoché" }
+	}
+}

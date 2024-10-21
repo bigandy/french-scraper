@@ -1,0 +1,145 @@
+{
+	"name": "redistribuer",
+	"definition": "\n              redistribute; distribute; reallocate; ...\n            ",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se redistribuer/ne pas redistribuer/ne pas se redistribuer",
+	"indicatif": {
+		"présent": {
+			"je": "redistribue",
+			"tu": "redistribues",
+			"il/elle": "redistribue",
+			"nous": "redistribuons",
+			"vous": "redistribuez",
+			"ils/elles": "redistribuent"
+		},
+		"imparfait": {
+			"je": "redistribuais",
+			"tu": "redistribuais",
+			"il/elle": "redistribuait",
+			"nous": "redistribuions",
+			"vous": "redistribuiez",
+			"ils/elles": "redistribuaient"
+		},
+		"futur": {
+			"je": "redistribuerai",
+			"tu": "redistribueras",
+			"il/elle": "redistribuera",
+			"nous": "redistribuerons",
+			"vous": "redistribuerez",
+			"ils/elles": "redistribueront"
+		},
+		"passé simple": {
+			"je": "redistribuai",
+			"tu": "redistribuas",
+			"il/elle": "redistribua",
+			"nous": "redistribuâmes",
+			"vous": "redistribuâtes",
+			"ils/elles": "redistribuèrent"
+		},
+		"passé composé": {
+			"j'": "ai redistribué",
+			"tu": "as redistribué",
+			"il/elle": "a redistribué",
+			"nous": "avons redistribué",
+			"vous": "avez redistribué",
+			"ils/elles": "ont redistribué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais redistribué",
+			"tu": "avais redistribué",
+			"il/elle": "avait redistribué",
+			"nous": "avions redistribué",
+			"vous": "aviez redistribué",
+			"ils/elles": "avaient redistribué"
+		},
+		"passé antérieur": {
+			"j'": "eus redistribué",
+			"tu": "eus redistribué",
+			"il/elle": "eut redistribué",
+			"nous": "eûmes redistribué",
+			"vous": "eûtes redistribué",
+			"ils/elles": "eurent redistribué"
+		},
+		"futur antérieur": {
+			"j'": "aurai redistribué",
+			"tu": "auras redistribué",
+			"il/elle": "aura redistribué",
+			"nous": "aurons redistribué",
+			"vous": "aurez redistribué",
+			"ils/elles": "auront redistribué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous redistribuiez",
+			"qu'il/elle": "redistribue",
+			"qu'ils/elles": "redistribuent"
+		},
+		"imparfait": {
+			"que": "vous redistribuassiez",
+			"qu'il/elle": "redistribuât",
+			"qu'ils/elles": "redistribuassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse redistribué",
+			"que": "vous eussiez redistribué",
+			"qu'il/elle": "eût redistribué",
+			"qu'ils/elles": "eussent redistribué"
+		},
+		"passé": {
+			"j'": "aie redistribué",
+			"que": "vous ayez redistribué",
+			"qu'il/elle": "ait redistribué",
+			"qu'ils/elles": "aient redistribué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "redistribuerais",
+			"tu": "redistribuerais",
+			"il/elle": "redistribuerait",
+			"nous": "redistribuerions",
+			"vous": "redistribueriez",
+			"ils/elles": "redistribueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais redistribué",
+			"tu": "aurais redistribué",
+			"il/elle": "aurait redistribué",
+			"nous": "aurions redistribué",
+			"vous": "auriez redistribué",
+			"ils/elles": "auraient redistribué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse redistribué",
+			"tu": "eusses redistribué",
+			"il/elle": "eût redistribué",
+			"nous": "eussions redistribué",
+			"vous": "eussiez redistribué",
+			"ils/elles": "eussent redistribué"
+		}
+	},
+	"participe": {
+		"présent": { "redistribuant": "" },
+		"passé composé": { "ayant": "redistribué" },
+		"passé": {
+			"masc.sg.:": "redistribué",
+			"masc.pl.:": "redistribués",
+			"fém.sg.:": "redistribuée",
+			"fém.pl.:": "redistribuées"
+		}
+	},
+	"imperatif": {
+		"présent": { "redistribue": "", "redistribuons": "", "redistribuez": "" },
+		"passé": {
+			"aie": "redistribué",
+			"ayons": "redistribué",
+			"ayez": "redistribué"
+		}
+	},
+	"infinitif": {
+		"présent": { "redistribuer": "" },
+		"passé": { "avoir": "redistribué" }
+	}
+}

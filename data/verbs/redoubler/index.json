@@ -1,0 +1,141 @@
+{
+	"name": "redoubler",
+	"definition": "redouble; repeat; double; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se redoubler/ne pas redoubler/ne pas se redoubler",
+	"indicatif": {
+		"présent": {
+			"je": "redouble",
+			"tu": "redoubles",
+			"il/elle": "redouble",
+			"nous": "redoublons",
+			"vous": "redoublez",
+			"ils/elles": "redoublent"
+		},
+		"imparfait": {
+			"je": "redoublais",
+			"tu": "redoublais",
+			"il/elle": "redoublait",
+			"nous": "redoublions",
+			"vous": "redoubliez",
+			"ils/elles": "redoublaient"
+		},
+		"futur": {
+			"je": "redoublerai",
+			"tu": "redoubleras",
+			"il/elle": "redoublera",
+			"nous": "redoublerons",
+			"vous": "redoublerez",
+			"ils/elles": "redoubleront"
+		},
+		"passé simple": {
+			"je": "redoublai",
+			"tu": "redoublas",
+			"il/elle": "redoubla",
+			"nous": "redoublâmes",
+			"vous": "redoublâtes",
+			"ils/elles": "redoublèrent"
+		},
+		"passé composé": {
+			"j'": "ai redoublé",
+			"tu": "as redoublé",
+			"il/elle": "a redoublé",
+			"nous": "avons redoublé",
+			"vous": "avez redoublé",
+			"ils/elles": "ont redoublé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais redoublé",
+			"tu": "avais redoublé",
+			"il/elle": "avait redoublé",
+			"nous": "avions redoublé",
+			"vous": "aviez redoublé",
+			"ils/elles": "avaient redoublé"
+		},
+		"passé antérieur": {
+			"j'": "eus redoublé",
+			"tu": "eus redoublé",
+			"il/elle": "eut redoublé",
+			"nous": "eûmes redoublé",
+			"vous": "eûtes redoublé",
+			"ils/elles": "eurent redoublé"
+		},
+		"futur antérieur": {
+			"j'": "aurai redoublé",
+			"tu": "auras redoublé",
+			"il/elle": "aura redoublé",
+			"nous": "aurons redoublé",
+			"vous": "aurez redoublé",
+			"ils/elles": "auront redoublé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous redoubliez",
+			"qu'il/elle": "redouble",
+			"qu'ils/elles": "redoublent"
+		},
+		"imparfait": {
+			"que": "vous redoublassiez",
+			"qu'il/elle": "redoublât",
+			"qu'ils/elles": "redoublassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse redoublé",
+			"que": "vous eussiez redoublé",
+			"qu'il/elle": "eût redoublé",
+			"qu'ils/elles": "eussent redoublé"
+		},
+		"passé": {
+			"j'": "aie redoublé",
+			"que": "vous ayez redoublé",
+			"qu'il/elle": "ait redoublé",
+			"qu'ils/elles": "aient redoublé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "redoublerais",
+			"tu": "redoublerais",
+			"il/elle": "redoublerait",
+			"nous": "redoublerions",
+			"vous": "redoubleriez",
+			"ils/elles": "redoubleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais redoublé",
+			"tu": "aurais redoublé",
+			"il/elle": "aurait redoublé",
+			"nous": "aurions redoublé",
+			"vous": "auriez redoublé",
+			"ils/elles": "auraient redoublé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse redoublé",
+			"tu": "eusses redoublé",
+			"il/elle": "eût redoublé",
+			"nous": "eussions redoublé",
+			"vous": "eussiez redoublé",
+			"ils/elles": "eussent redoublé"
+		}
+	},
+	"participe": {
+		"présent": { "redoublant": "" },
+		"passé composé": { "ayant": "redoublé" },
+		"passé": {
+			"masc.sg.:": "redoublé",
+			"masc.pl.:": "redoublés",
+			"fém.sg.:": "redoublée",
+			"fém.pl.:": "redoublées"
+		}
+	},
+	"imperatif": {
+		"présent": { "redouble": "", "redoublons": "", "redoublez": "" },
+		"passé": { "aie": "redoublé", "ayons": "redoublé", "ayez": "redoublé" }
+	},
+	"infinitif": {
+		"présent": { "redoubler": "" },
+		"passé": { "avoir": "redoublé" }
+	}
+}

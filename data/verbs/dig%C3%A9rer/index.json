@@ -1,0 +1,138 @@
+{
+	"name": "digérer",
+	"definition": "digest; process; stomach; ...",
+	"model": "aérer",
+	"auxiliary": "avoir",
+	"otherForms": "se digérer/ne pas digérer/ne pas se digérer",
+	"indicatif": {
+		"présent": {
+			"je": "digère",
+			"tu": "digères",
+			"il/elle": "digère",
+			"nous": "digérons",
+			"vous": "digérez",
+			"ils/elles": "digèrent"
+		},
+		"imparfait": {
+			"je": "digérais",
+			"tu": "digérais",
+			"il/elle": "digérait",
+			"nous": "digérions",
+			"vous": "digériez",
+			"ils/elles": "digéraient"
+		},
+		"futur": {
+			"je": "digérerai",
+			"tu": "digéreras",
+			"il/elle": "digérera",
+			"nous": "digérerons",
+			"vous": "digérerez",
+			"ils/elles": "digéreront"
+		},
+		"passé simple": {
+			"je": "digérai",
+			"tu": "digéras",
+			"il/elle": "digéra",
+			"nous": "digérâmes",
+			"vous": "digérâtes",
+			"ils/elles": "digérèrent"
+		},
+		"passé composé": {
+			"j'": "ai digéré",
+			"tu": "as digéré",
+			"il/elle": "a digéré",
+			"nous": "avons digéré",
+			"vous": "avez digéré",
+			"ils/elles": "ont digéré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais digéré",
+			"tu": "avais digéré",
+			"il/elle": "avait digéré",
+			"nous": "avions digéré",
+			"vous": "aviez digéré",
+			"ils/elles": "avaient digéré"
+		},
+		"passé antérieur": {
+			"j'": "eus digéré",
+			"tu": "eus digéré",
+			"il/elle": "eut digéré",
+			"nous": "eûmes digéré",
+			"vous": "eûtes digéré",
+			"ils/elles": "eurent digéré"
+		},
+		"futur antérieur": {
+			"j'": "aurai digéré",
+			"tu": "auras digéré",
+			"il/elle": "aura digéré",
+			"nous": "aurons digéré",
+			"vous": "aurez digéré",
+			"ils/elles": "auront digéré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous digériez",
+			"qu'il/elle": "digère",
+			"qu'ils/elles": "digèrent"
+		},
+		"imparfait": {
+			"que": "vous digérassiez",
+			"qu'il/elle": "digérât",
+			"qu'ils/elles": "digérassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse digéré",
+			"que": "vous eussiez digéré",
+			"qu'il/elle": "eût digéré",
+			"qu'ils/elles": "eussent digéré"
+		},
+		"passé": {
+			"j'": "aie digéré",
+			"que": "vous ayez digéré",
+			"qu'il/elle": "ait digéré",
+			"qu'ils/elles": "aient digéré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "digérerais",
+			"tu": "digérerais",
+			"il/elle": "digérerait",
+			"nous": "digérerions",
+			"vous": "digéreriez",
+			"ils/elles": "digéreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais digéré",
+			"tu": "aurais digéré",
+			"il/elle": "aurait digéré",
+			"nous": "aurions digéré",
+			"vous": "auriez digéré",
+			"ils/elles": "auraient digéré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse digéré",
+			"tu": "eusses digéré",
+			"il/elle": "eût digéré",
+			"nous": "eussions digéré",
+			"vous": "eussiez digéré",
+			"ils/elles": "eussent digéré"
+		}
+	},
+	"participe": {
+		"présent": { "digérant": "" },
+		"passé composé": { "ayant": "digéré" },
+		"passé": {
+			"masc.sg.:": "digéré",
+			"masc.pl.:": "digérés",
+			"fém.sg.:": "digérée",
+			"fém.pl.:": "digérées"
+		}
+	},
+	"imperatif": {
+		"présent": { "digère": "", "digérons": "", "digérez": "" },
+		"passé": { "aie": "digéré", "ayons": "digéré", "ayez": "digéré" }
+	},
+	"infinitif": { "présent": { "digérer": "" }, "passé": { "avoir": "digéré" } }
+}

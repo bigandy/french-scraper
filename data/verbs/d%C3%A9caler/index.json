@@ -1,0 +1,138 @@
+{
+	"name": "décaler",
+	"definition": "shift; offset; move; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se décaler/ne pas décaler/ne pas se décaler",
+	"indicatif": {
+		"présent": {
+			"je": "décale",
+			"tu": "décales",
+			"il/elle": "décale",
+			"nous": "décalons",
+			"vous": "décalez",
+			"ils/elles": "décalent"
+		},
+		"imparfait": {
+			"je": "décalais",
+			"tu": "décalais",
+			"il/elle": "décalait",
+			"nous": "décalions",
+			"vous": "décaliez",
+			"ils/elles": "décalaient"
+		},
+		"futur": {
+			"je": "décalerai",
+			"tu": "décaleras",
+			"il/elle": "décalera",
+			"nous": "décalerons",
+			"vous": "décalerez",
+			"ils/elles": "décaleront"
+		},
+		"passé simple": {
+			"je": "décalai",
+			"tu": "décalas",
+			"il/elle": "décala",
+			"nous": "décalâmes",
+			"vous": "décalâtes",
+			"ils/elles": "décalèrent"
+		},
+		"passé composé": {
+			"j'": "ai décalé",
+			"tu": "as décalé",
+			"il/elle": "a décalé",
+			"nous": "avons décalé",
+			"vous": "avez décalé",
+			"ils/elles": "ont décalé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais décalé",
+			"tu": "avais décalé",
+			"il/elle": "avait décalé",
+			"nous": "avions décalé",
+			"vous": "aviez décalé",
+			"ils/elles": "avaient décalé"
+		},
+		"passé antérieur": {
+			"j'": "eus décalé",
+			"tu": "eus décalé",
+			"il/elle": "eut décalé",
+			"nous": "eûmes décalé",
+			"vous": "eûtes décalé",
+			"ils/elles": "eurent décalé"
+		},
+		"futur antérieur": {
+			"j'": "aurai décalé",
+			"tu": "auras décalé",
+			"il/elle": "aura décalé",
+			"nous": "aurons décalé",
+			"vous": "aurez décalé",
+			"ils/elles": "auront décalé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous décaliez",
+			"qu'il/elle": "décale",
+			"qu'ils/elles": "décalent"
+		},
+		"imparfait": {
+			"que": "vous décalassiez",
+			"qu'il/elle": "décalât",
+			"qu'ils/elles": "décalassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse décalé",
+			"que": "vous eussiez décalé",
+			"qu'il/elle": "eût décalé",
+			"qu'ils/elles": "eussent décalé"
+		},
+		"passé": {
+			"j'": "aie décalé",
+			"que": "vous ayez décalé",
+			"qu'il/elle": "ait décalé",
+			"qu'ils/elles": "aient décalé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "décalerais",
+			"tu": "décalerais",
+			"il/elle": "décalerait",
+			"nous": "décalerions",
+			"vous": "décaleriez",
+			"ils/elles": "décaleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais décalé",
+			"tu": "aurais décalé",
+			"il/elle": "aurait décalé",
+			"nous": "aurions décalé",
+			"vous": "auriez décalé",
+			"ils/elles": "auraient décalé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse décalé",
+			"tu": "eusses décalé",
+			"il/elle": "eût décalé",
+			"nous": "eussions décalé",
+			"vous": "eussiez décalé",
+			"ils/elles": "eussent décalé"
+		}
+	},
+	"participe": {
+		"présent": { "décalant": "" },
+		"passé composé": { "ayant": "décalé" },
+		"passé": {
+			"masc.sg.:": "décalé",
+			"masc.pl.:": "décalés",
+			"fém.sg.:": "décalée",
+			"fém.pl.:": "décalées"
+		}
+	},
+	"imperatif": {
+		"présent": { "décale": "", "décalons": "", "décalez": "" },
+		"passé": { "aie": "décalé", "ayons": "décalé", "ayez": "décalé" }
+	},
+	"infinitif": { "présent": { "décaler": "" }, "passé": { "avoir": "décalé" } }
+}

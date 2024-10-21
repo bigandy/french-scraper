@@ -1,0 +1,141 @@
+{
+	"name": "propulser",
+	"definition": "propel; power; drive; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se propulser/ne pas propulser/ne pas se propulser",
+	"indicatif": {
+		"présent": {
+			"je": "propulse",
+			"tu": "propulses",
+			"il/elle": "propulse",
+			"nous": "propulsons",
+			"vous": "propulsez",
+			"ils/elles": "propulsent"
+		},
+		"imparfait": {
+			"je": "propulsais",
+			"tu": "propulsais",
+			"il/elle": "propulsait",
+			"nous": "propulsions",
+			"vous": "propulsiez",
+			"ils/elles": "propulsaient"
+		},
+		"futur": {
+			"je": "propulserai",
+			"tu": "propulseras",
+			"il/elle": "propulsera",
+			"nous": "propulserons",
+			"vous": "propulserez",
+			"ils/elles": "propulseront"
+		},
+		"passé simple": {
+			"je": "propulsai",
+			"tu": "propulsas",
+			"il/elle": "propulsa",
+			"nous": "propulsâmes",
+			"vous": "propulsâtes",
+			"ils/elles": "propulsèrent"
+		},
+		"passé composé": {
+			"j'": "ai propulsé",
+			"tu": "as propulsé",
+			"il/elle": "a propulsé",
+			"nous": "avons propulsé",
+			"vous": "avez propulsé",
+			"ils/elles": "ont propulsé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais propulsé",
+			"tu": "avais propulsé",
+			"il/elle": "avait propulsé",
+			"nous": "avions propulsé",
+			"vous": "aviez propulsé",
+			"ils/elles": "avaient propulsé"
+		},
+		"passé antérieur": {
+			"j'": "eus propulsé",
+			"tu": "eus propulsé",
+			"il/elle": "eut propulsé",
+			"nous": "eûmes propulsé",
+			"vous": "eûtes propulsé",
+			"ils/elles": "eurent propulsé"
+		},
+		"futur antérieur": {
+			"j'": "aurai propulsé",
+			"tu": "auras propulsé",
+			"il/elle": "aura propulsé",
+			"nous": "aurons propulsé",
+			"vous": "aurez propulsé",
+			"ils/elles": "auront propulsé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous propulsiez",
+			"qu'il/elle": "propulse",
+			"qu'ils/elles": "propulsent"
+		},
+		"imparfait": {
+			"que": "vous propulsassiez",
+			"qu'il/elle": "propulsât",
+			"qu'ils/elles": "propulsassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse propulsé",
+			"que": "vous eussiez propulsé",
+			"qu'il/elle": "eût propulsé",
+			"qu'ils/elles": "eussent propulsé"
+		},
+		"passé": {
+			"j'": "aie propulsé",
+			"que": "vous ayez propulsé",
+			"qu'il/elle": "ait propulsé",
+			"qu'ils/elles": "aient propulsé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "propulserais",
+			"tu": "propulserais",
+			"il/elle": "propulserait",
+			"nous": "propulserions",
+			"vous": "propulseriez",
+			"ils/elles": "propulseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais propulsé",
+			"tu": "aurais propulsé",
+			"il/elle": "aurait propulsé",
+			"nous": "aurions propulsé",
+			"vous": "auriez propulsé",
+			"ils/elles": "auraient propulsé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse propulsé",
+			"tu": "eusses propulsé",
+			"il/elle": "eût propulsé",
+			"nous": "eussions propulsé",
+			"vous": "eussiez propulsé",
+			"ils/elles": "eussent propulsé"
+		}
+	},
+	"participe": {
+		"présent": { "propulsant": "" },
+		"passé composé": { "ayant": "propulsé" },
+		"passé": {
+			"masc.sg.:": "propulsé",
+			"masc.pl.:": "propulsés",
+			"fém.sg.:": "propulsée",
+			"fém.pl.:": "propulsées"
+		}
+	},
+	"imperatif": {
+		"présent": { "propulse": "", "propulsons": "", "propulsez": "" },
+		"passé": { "aie": "propulsé", "ayons": "propulsé", "ayez": "propulsé" }
+	},
+	"infinitif": {
+		"présent": { "propulser": "" },
+		"passé": { "avoir": "propulsé" }
+	}
+}

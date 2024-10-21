@@ -1,0 +1,141 @@
+{
+	"name": "consumer",
+	"definition": "consume; burn; burn away; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se consumer/ne pas consumer/ne pas se consumer",
+	"indicatif": {
+		"présent": {
+			"je": "consume",
+			"tu": "consumes",
+			"il/elle": "consume",
+			"nous": "consumons",
+			"vous": "consumez",
+			"ils/elles": "consument"
+		},
+		"imparfait": {
+			"je": "consumais",
+			"tu": "consumais",
+			"il/elle": "consumait",
+			"nous": "consumions",
+			"vous": "consumiez",
+			"ils/elles": "consumaient"
+		},
+		"futur": {
+			"je": "consumerai",
+			"tu": "consumeras",
+			"il/elle": "consumera",
+			"nous": "consumerons",
+			"vous": "consumerez",
+			"ils/elles": "consumeront"
+		},
+		"passé simple": {
+			"je": "consumai",
+			"tu": "consumas",
+			"il/elle": "consuma",
+			"nous": "consumâmes",
+			"vous": "consumâtes",
+			"ils/elles": "consumèrent"
+		},
+		"passé composé": {
+			"j'": "ai consumé",
+			"tu": "as consumé",
+			"il/elle": "a consumé",
+			"nous": "avons consumé",
+			"vous": "avez consumé",
+			"ils/elles": "ont consumé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais consumé",
+			"tu": "avais consumé",
+			"il/elle": "avait consumé",
+			"nous": "avions consumé",
+			"vous": "aviez consumé",
+			"ils/elles": "avaient consumé"
+		},
+		"passé antérieur": {
+			"j'": "eus consumé",
+			"tu": "eus consumé",
+			"il/elle": "eut consumé",
+			"nous": "eûmes consumé",
+			"vous": "eûtes consumé",
+			"ils/elles": "eurent consumé"
+		},
+		"futur antérieur": {
+			"j'": "aurai consumé",
+			"tu": "auras consumé",
+			"il/elle": "aura consumé",
+			"nous": "aurons consumé",
+			"vous": "aurez consumé",
+			"ils/elles": "auront consumé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous consumiez",
+			"qu'il/elle": "consume",
+			"qu'ils/elles": "consument"
+		},
+		"imparfait": {
+			"que": "vous consumassiez",
+			"qu'il/elle": "consumât",
+			"qu'ils/elles": "consumassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse consumé",
+			"que": "vous eussiez consumé",
+			"qu'il/elle": "eût consumé",
+			"qu'ils/elles": "eussent consumé"
+		},
+		"passé": {
+			"j'": "aie consumé",
+			"que": "vous ayez consumé",
+			"qu'il/elle": "ait consumé",
+			"qu'ils/elles": "aient consumé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "consumerais",
+			"tu": "consumerais",
+			"il/elle": "consumerait",
+			"nous": "consumerions",
+			"vous": "consumeriez",
+			"ils/elles": "consumeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais consumé",
+			"tu": "aurais consumé",
+			"il/elle": "aurait consumé",
+			"nous": "aurions consumé",
+			"vous": "auriez consumé",
+			"ils/elles": "auraient consumé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse consumé",
+			"tu": "eusses consumé",
+			"il/elle": "eût consumé",
+			"nous": "eussions consumé",
+			"vous": "eussiez consumé",
+			"ils/elles": "eussent consumé"
+		}
+	},
+	"participe": {
+		"présent": { "consumant": "" },
+		"passé composé": { "ayant": "consumé" },
+		"passé": {
+			"masc.sg.:": "consumé",
+			"masc.pl.:": "consumés",
+			"fém.sg.:": "consumée",
+			"fém.pl.:": "consumées"
+		}
+	},
+	"imperatif": {
+		"présent": { "consume": "", "consumons": "", "consumez": "" },
+		"passé": { "aie": "consumé", "ayons": "consumé", "ayez": "consumé" }
+	},
+	"infinitif": {
+		"présent": { "consumer": "" },
+		"passé": { "avoir": "consumé" }
+	}
+}

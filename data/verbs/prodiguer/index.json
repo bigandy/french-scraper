@@ -1,0 +1,141 @@
+{
+	"name": "prodiguer",
+	"definition": "give; lavish; dispense; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se prodiguer/ne pas prodiguer/ne pas se prodiguer",
+	"indicatif": {
+		"présent": {
+			"je": "prodigue",
+			"tu": "prodigues",
+			"il/elle": "prodigue",
+			"nous": "prodiguons",
+			"vous": "prodiguez",
+			"ils/elles": "prodiguent"
+		},
+		"imparfait": {
+			"je": "prodiguais",
+			"tu": "prodiguais",
+			"il/elle": "prodiguait",
+			"nous": "prodiguions",
+			"vous": "prodiguiez",
+			"ils/elles": "prodiguaient"
+		},
+		"futur": {
+			"je": "prodiguerai",
+			"tu": "prodigueras",
+			"il/elle": "prodiguera",
+			"nous": "prodiguerons",
+			"vous": "prodiguerez",
+			"ils/elles": "prodigueront"
+		},
+		"passé simple": {
+			"je": "prodiguai",
+			"tu": "prodiguas",
+			"il/elle": "prodigua",
+			"nous": "prodiguâmes",
+			"vous": "prodiguâtes",
+			"ils/elles": "prodiguèrent"
+		},
+		"passé composé": {
+			"j'": "ai prodigué",
+			"tu": "as prodigué",
+			"il/elle": "a prodigué",
+			"nous": "avons prodigué",
+			"vous": "avez prodigué",
+			"ils/elles": "ont prodigué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais prodigué",
+			"tu": "avais prodigué",
+			"il/elle": "avait prodigué",
+			"nous": "avions prodigué",
+			"vous": "aviez prodigué",
+			"ils/elles": "avaient prodigué"
+		},
+		"passé antérieur": {
+			"j'": "eus prodigué",
+			"tu": "eus prodigué",
+			"il/elle": "eut prodigué",
+			"nous": "eûmes prodigué",
+			"vous": "eûtes prodigué",
+			"ils/elles": "eurent prodigué"
+		},
+		"futur antérieur": {
+			"j'": "aurai prodigué",
+			"tu": "auras prodigué",
+			"il/elle": "aura prodigué",
+			"nous": "aurons prodigué",
+			"vous": "aurez prodigué",
+			"ils/elles": "auront prodigué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous prodiguiez",
+			"qu'il/elle": "prodigue",
+			"qu'ils/elles": "prodiguent"
+		},
+		"imparfait": {
+			"que": "vous prodiguassiez",
+			"qu'il/elle": "prodiguât",
+			"qu'ils/elles": "prodiguassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse prodigué",
+			"que": "vous eussiez prodigué",
+			"qu'il/elle": "eût prodigué",
+			"qu'ils/elles": "eussent prodigué"
+		},
+		"passé": {
+			"j'": "aie prodigué",
+			"que": "vous ayez prodigué",
+			"qu'il/elle": "ait prodigué",
+			"qu'ils/elles": "aient prodigué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "prodiguerais",
+			"tu": "prodiguerais",
+			"il/elle": "prodiguerait",
+			"nous": "prodiguerions",
+			"vous": "prodigueriez",
+			"ils/elles": "prodigueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais prodigué",
+			"tu": "aurais prodigué",
+			"il/elle": "aurait prodigué",
+			"nous": "aurions prodigué",
+			"vous": "auriez prodigué",
+			"ils/elles": "auraient prodigué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse prodigué",
+			"tu": "eusses prodigué",
+			"il/elle": "eût prodigué",
+			"nous": "eussions prodigué",
+			"vous": "eussiez prodigué",
+			"ils/elles": "eussent prodigué"
+		}
+	},
+	"participe": {
+		"présent": { "prodiguant": "" },
+		"passé composé": { "ayant": "prodigué" },
+		"passé": {
+			"masc.sg.:": "prodigué",
+			"masc.pl.:": "prodigués",
+			"fém.sg.:": "prodiguée",
+			"fém.pl.:": "prodiguées"
+		}
+	},
+	"imperatif": {
+		"présent": { "prodigue": "", "prodiguons": "", "prodiguez": "" },
+		"passé": { "aie": "prodigué", "ayons": "prodigué", "ayez": "prodigué" }
+	},
+	"infinitif": {
+		"présent": { "prodiguer": "" },
+		"passé": { "avoir": "prodigué" }
+	}
+}

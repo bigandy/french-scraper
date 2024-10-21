@@ -1,0 +1,130 @@
+{
+	"name": "distraire",
+	"definition": "distract; entertain; divert; ...",
+	"model": "traire",
+	"auxiliary": "avoir",
+	"otherForms": "se distraire/ne pas distraire/ne pas se distraire",
+	"indicatif": {
+		"présent": {
+			"je": "distrais",
+			"tu": "distrais",
+			"il/elle": "distrait",
+			"nous": "distrayons",
+			"vous": "distrayez",
+			"ils/elles": "distraient"
+		},
+		"imparfait": {
+			"je": "distrayais",
+			"tu": "distrayais",
+			"il/elle": "distrayait",
+			"nous": "distrayions",
+			"vous": "distrayiez",
+			"ils/elles": "distrayaient"
+		},
+		"futur": {
+			"je": "distrairai",
+			"tu": "distrairas",
+			"il/elle": "distraira",
+			"nous": "distrairons",
+			"vous": "distrairez",
+			"ils/elles": "distrairont"
+		},
+		"passé simple": {},
+		"passé composé": {
+			"j'": "ai distrait",
+			"tu": "as distrait",
+			"il/elle": "a distrait",
+			"nous": "avons distrait",
+			"vous": "avez distrait",
+			"ils/elles": "ont distrait"
+		},
+		"plus-que-parfait": {
+			"j'": "avais distrait",
+			"tu": "avais distrait",
+			"il/elle": "avait distrait",
+			"nous": "avions distrait",
+			"vous": "aviez distrait",
+			"ils/elles": "avaient distrait"
+		},
+		"passé antérieur": {
+			"j'": "eus distrait",
+			"tu": "eus distrait",
+			"il/elle": "eut distrait",
+			"nous": "eûmes distrait",
+			"vous": "eûtes distrait",
+			"ils/elles": "eurent distrait"
+		},
+		"futur antérieur": {
+			"j'": "aurai distrait",
+			"tu": "auras distrait",
+			"il/elle": "aura distrait",
+			"nous": "aurons distrait",
+			"vous": "aurez distrait",
+			"ils/elles": "auront distrait"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous distrayiez",
+			"qu'il/elle": "distraie",
+			"qu'ils/elles": "distraient"
+		},
+		"imparfait": {},
+		"plus-que-parfait": {
+			"j'": "eusse distrait",
+			"que": "vous eussiez distrait",
+			"qu'il/elle": "eût distrait",
+			"qu'ils/elles": "eussent distrait"
+		},
+		"passé": {
+			"j'": "aie distrait",
+			"que": "vous ayez distrait",
+			"qu'il/elle": "ait distrait",
+			"qu'ils/elles": "aient distrait"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "distrairais",
+			"tu": "distrairais",
+			"il/elle": "distrairait",
+			"nous": "distrairions",
+			"vous": "distrairiez",
+			"ils/elles": "distrairaient"
+		},
+		"passé première forme": {
+			"j'": "aurais distrait",
+			"tu": "aurais distrait",
+			"il/elle": "aurait distrait",
+			"nous": "aurions distrait",
+			"vous": "auriez distrait",
+			"ils/elles": "auraient distrait"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse distrait",
+			"tu": "eusses distrait",
+			"il/elle": "eût distrait",
+			"nous": "eussions distrait",
+			"vous": "eussiez distrait",
+			"ils/elles": "eussent distrait"
+		}
+	},
+	"participe": {
+		"présent": { "distrayant": "" },
+		"passé composé": { "ayant": "distrait" },
+		"passé": {
+			"masc.sg.:": "distrait",
+			"masc.pl.:": "distraits",
+			"fém.sg.:": "distraite",
+			"fém.pl.:": "distraites"
+		}
+	},
+	"imperatif": {
+		"présent": { "distrais": "", "distrayons": "", "distrayez": "" },
+		"passé": { "aie": "distrait", "ayons": "distrait", "ayez": "distrait" }
+	},
+	"infinitif": {
+		"présent": { "distraire": "" },
+		"passé": { "avoir": "distrait" }
+	}
+}

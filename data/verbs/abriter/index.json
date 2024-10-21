@@ -1,0 +1,140 @@
+{
+	"name": "abriter",
+	"definition": "house; shelter; host; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'abriter/ne pas abriter/ne pas s'abriter",
+	"indicatif": {
+		"présent": {
+			"j'": "abrite",
+			"tu": "abrites",
+			"il/elle": "abrite",
+			"nous": "abritons",
+			"vous": "abritez",
+			"ils/elles": "abritent"
+		},
+		"imparfait": {
+			"j'": "abritais",
+			"tu": "abritais",
+			"il/elle": "abritait",
+			"nous": "abritions",
+			"vous": "abritiez",
+			"ils/elles": "abritaient"
+		},
+		"futur": {
+			"j'": "abriterai",
+			"tu": "abriteras",
+			"il/elle": "abritera",
+			"nous": "abriterons",
+			"vous": "abriterez",
+			"ils/elles": "abriteront"
+		},
+		"passé simple": {
+			"j'": "abritai",
+			"tu": "abritas",
+			"il/elle": "abrita",
+			"nous": "abritâmes",
+			"vous": "abritâtes",
+			"ils/elles": "abritèrent"
+		},
+		"passé composé": {
+			"j'": "ai abrité",
+			"tu": "as abrité",
+			"il/elle": "a abrité",
+			"nous": "avons abrité",
+			"vous": "avez abrité",
+			"ils/elles": "ont abrité"
+		},
+		"plus-que-parfait": {
+			"j'": "avais abrité",
+			"tu": "avais abrité",
+			"il/elle": "avait abrité",
+			"nous": "avions abrité",
+			"vous": "aviez abrité",
+			"ils/elles": "avaient abrité"
+		},
+		"passé antérieur": {
+			"j'": "eus abrité",
+			"tu": "eus abrité",
+			"il/elle": "eut abrité",
+			"nous": "eûmes abrité",
+			"vous": "eûtes abrité",
+			"ils/elles": "eurent abrité"
+		},
+		"futur antérieur": {
+			"j'": "aurai abrité",
+			"tu": "auras abrité",
+			"il/elle": "aura abrité",
+			"nous": "aurons abrité",
+			"vous": "aurez abrité",
+			"ils/elles": "auront abrité"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "abrite",
+			"que": "vous abritiez",
+			"qu'il/elle": "abrite",
+			"qu'ils/elles": "abritent"
+		},
+		"imparfait": {
+			"j'": "abritasse",
+			"que": "vous abritassiez",
+			"qu'il/elle": "abritât",
+			"qu'ils/elles": "abritassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse abrité",
+			"que": "vous eussiez abrité",
+			"qu'il/elle": "eût abrité",
+			"qu'ils/elles": "eussent abrité"
+		},
+		"passé": {
+			"j'": "aie abrité",
+			"que": "vous ayez abrité",
+			"qu'il/elle": "ait abrité",
+			"qu'ils/elles": "aient abrité"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "abriterais",
+			"tu": "abriterais",
+			"il/elle": "abriterait",
+			"nous": "abriterions",
+			"vous": "abriteriez",
+			"ils/elles": "abriteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais abrité",
+			"tu": "aurais abrité",
+			"il/elle": "aurait abrité",
+			"nous": "aurions abrité",
+			"vous": "auriez abrité",
+			"ils/elles": "auraient abrité"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse abrité",
+			"tu": "eusses abrité",
+			"il/elle": "eût abrité",
+			"nous": "eussions abrité",
+			"vous": "eussiez abrité",
+			"ils/elles": "eussent abrité"
+		}
+	},
+	"participe": {
+		"présent": { "abritant": "" },
+		"passé composé": { "ayant": "abrité" },
+		"passé": {
+			"masc.sg.:": "abrité",
+			"masc.pl.:": "abrités",
+			"fém.sg.:": "abritée",
+			"fém.pl.:": "abritées"
+		}
+	},
+	"imperatif": {
+		"présent": { "abrite": "", "abritons": "", "abritez": "" },
+		"passé": { "aie": "abrité", "ayons": "abrité", "ayez": "abrité" }
+	},
+	"infinitif": { "présent": { "abriter": "" }, "passé": { "avoir": "abrité" } }
+}

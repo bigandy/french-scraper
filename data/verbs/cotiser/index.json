@@ -1,0 +1,138 @@
+{
+	"name": "cotiser",
+	"definition": "contribute; club together; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se cotiser/ne pas cotiser/ne pas se cotiser",
+	"indicatif": {
+		"présent": {
+			"je": "cotise",
+			"tu": "cotises",
+			"il/elle": "cotise",
+			"nous": "cotisons",
+			"vous": "cotisez",
+			"ils/elles": "cotisent"
+		},
+		"imparfait": {
+			"je": "cotisais",
+			"tu": "cotisais",
+			"il/elle": "cotisait",
+			"nous": "cotisions",
+			"vous": "cotisiez",
+			"ils/elles": "cotisaient"
+		},
+		"futur": {
+			"je": "cotiserai",
+			"tu": "cotiseras",
+			"il/elle": "cotisera",
+			"nous": "cotiserons",
+			"vous": "cotiserez",
+			"ils/elles": "cotiseront"
+		},
+		"passé simple": {
+			"je": "cotisai",
+			"tu": "cotisas",
+			"il/elle": "cotisa",
+			"nous": "cotisâmes",
+			"vous": "cotisâtes",
+			"ils/elles": "cotisèrent"
+		},
+		"passé composé": {
+			"j'": "ai cotisé",
+			"tu": "as cotisé",
+			"il/elle": "a cotisé",
+			"nous": "avons cotisé",
+			"vous": "avez cotisé",
+			"ils/elles": "ont cotisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais cotisé",
+			"tu": "avais cotisé",
+			"il/elle": "avait cotisé",
+			"nous": "avions cotisé",
+			"vous": "aviez cotisé",
+			"ils/elles": "avaient cotisé"
+		},
+		"passé antérieur": {
+			"j'": "eus cotisé",
+			"tu": "eus cotisé",
+			"il/elle": "eut cotisé",
+			"nous": "eûmes cotisé",
+			"vous": "eûtes cotisé",
+			"ils/elles": "eurent cotisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai cotisé",
+			"tu": "auras cotisé",
+			"il/elle": "aura cotisé",
+			"nous": "aurons cotisé",
+			"vous": "aurez cotisé",
+			"ils/elles": "auront cotisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous cotisiez",
+			"qu'il/elle": "cotise",
+			"qu'ils/elles": "cotisent"
+		},
+		"imparfait": {
+			"que": "vous cotisassiez",
+			"qu'il/elle": "cotisât",
+			"qu'ils/elles": "cotisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse cotisé",
+			"que": "vous eussiez cotisé",
+			"qu'il/elle": "eût cotisé",
+			"qu'ils/elles": "eussent cotisé"
+		},
+		"passé": {
+			"j'": "aie cotisé",
+			"que": "vous ayez cotisé",
+			"qu'il/elle": "ait cotisé",
+			"qu'ils/elles": "aient cotisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "cotiserais",
+			"tu": "cotiserais",
+			"il/elle": "cotiserait",
+			"nous": "cotiserions",
+			"vous": "cotiseriez",
+			"ils/elles": "cotiseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais cotisé",
+			"tu": "aurais cotisé",
+			"il/elle": "aurait cotisé",
+			"nous": "aurions cotisé",
+			"vous": "auriez cotisé",
+			"ils/elles": "auraient cotisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse cotisé",
+			"tu": "eusses cotisé",
+			"il/elle": "eût cotisé",
+			"nous": "eussions cotisé",
+			"vous": "eussiez cotisé",
+			"ils/elles": "eussent cotisé"
+		}
+	},
+	"participe": {
+		"présent": { "cotisant": "" },
+		"passé composé": { "ayant": "cotisé" },
+		"passé": {
+			"masc.sg.:": "cotisé",
+			"masc.pl.:": "cotisés",
+			"fém.sg.:": "cotisée",
+			"fém.pl.:": "cotisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "cotise": "", "cotisons": "", "cotisez": "" },
+		"passé": { "aie": "cotisé", "ayons": "cotisé", "ayez": "cotisé" }
+	},
+	"infinitif": { "présent": { "cotiser": "" }, "passé": { "avoir": "cotisé" } }
+}

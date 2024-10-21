@@ -1,0 +1,138 @@
+{
+	"name": "siniser",
+	"definition": "\n              sinicize; sinicise; become sinicized; ...\n            ",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se siniser/ne pas siniser/ne pas se siniser",
+	"indicatif": {
+		"présent": {
+			"je": "sinise",
+			"tu": "sinises",
+			"il/elle": "sinise",
+			"nous": "sinisons",
+			"vous": "sinisez",
+			"ils/elles": "sinisent"
+		},
+		"imparfait": {
+			"je": "sinisais",
+			"tu": "sinisais",
+			"il/elle": "sinisait",
+			"nous": "sinisions",
+			"vous": "sinisiez",
+			"ils/elles": "sinisaient"
+		},
+		"futur": {
+			"je": "siniserai",
+			"tu": "siniseras",
+			"il/elle": "sinisera",
+			"nous": "siniserons",
+			"vous": "siniserez",
+			"ils/elles": "siniseront"
+		},
+		"passé simple": {
+			"je": "sinisai",
+			"tu": "sinisas",
+			"il/elle": "sinisa",
+			"nous": "sinisâmes",
+			"vous": "sinisâtes",
+			"ils/elles": "sinisèrent"
+		},
+		"passé composé": {
+			"j'": "ai sinisé",
+			"tu": "as sinisé",
+			"il/elle": "a sinisé",
+			"nous": "avons sinisé",
+			"vous": "avez sinisé",
+			"ils/elles": "ont sinisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais sinisé",
+			"tu": "avais sinisé",
+			"il/elle": "avait sinisé",
+			"nous": "avions sinisé",
+			"vous": "aviez sinisé",
+			"ils/elles": "avaient sinisé"
+		},
+		"passé antérieur": {
+			"j'": "eus sinisé",
+			"tu": "eus sinisé",
+			"il/elle": "eut sinisé",
+			"nous": "eûmes sinisé",
+			"vous": "eûtes sinisé",
+			"ils/elles": "eurent sinisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai sinisé",
+			"tu": "auras sinisé",
+			"il/elle": "aura sinisé",
+			"nous": "aurons sinisé",
+			"vous": "aurez sinisé",
+			"ils/elles": "auront sinisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous sinisiez",
+			"qu'il/elle": "sinise",
+			"qu'ils/elles": "sinisent"
+		},
+		"imparfait": {
+			"que": "vous sinisassiez",
+			"qu'il/elle": "sinisât",
+			"qu'ils/elles": "sinisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse sinisé",
+			"que": "vous eussiez sinisé",
+			"qu'il/elle": "eût sinisé",
+			"qu'ils/elles": "eussent sinisé"
+		},
+		"passé": {
+			"j'": "aie sinisé",
+			"que": "vous ayez sinisé",
+			"qu'il/elle": "ait sinisé",
+			"qu'ils/elles": "aient sinisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "siniserais",
+			"tu": "siniserais",
+			"il/elle": "siniserait",
+			"nous": "siniserions",
+			"vous": "siniseriez",
+			"ils/elles": "siniseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais sinisé",
+			"tu": "aurais sinisé",
+			"il/elle": "aurait sinisé",
+			"nous": "aurions sinisé",
+			"vous": "auriez sinisé",
+			"ils/elles": "auraient sinisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse sinisé",
+			"tu": "eusses sinisé",
+			"il/elle": "eût sinisé",
+			"nous": "eussions sinisé",
+			"vous": "eussiez sinisé",
+			"ils/elles": "eussent sinisé"
+		}
+	},
+	"participe": {
+		"présent": { "sinisant": "" },
+		"passé composé": { "ayant": "sinisé" },
+		"passé": {
+			"masc.sg.:": "sinisé",
+			"masc.pl.:": "sinisés",
+			"fém.sg.:": "sinisée",
+			"fém.pl.:": "sinisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "sinise": "", "sinisons": "", "sinisez": "" },
+		"passé": { "aie": "sinisé", "ayons": "sinisé", "ayez": "sinisé" }
+	},
+	"infinitif": { "présent": { "siniser": "" }, "passé": { "avoir": "sinisé" } }
+}

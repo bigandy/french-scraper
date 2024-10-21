@@ -1,0 +1,141 @@
+{
+	"name": "visionner",
+	"definition": "view; watch; preview; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se visionner/ne pas visionner/ne pas se visionner",
+	"indicatif": {
+		"présent": {
+			"je": "visionne",
+			"tu": "visionnes",
+			"il/elle": "visionne",
+			"nous": "visionnons",
+			"vous": "visionnez",
+			"ils/elles": "visionnent"
+		},
+		"imparfait": {
+			"je": "visionnais",
+			"tu": "visionnais",
+			"il/elle": "visionnait",
+			"nous": "visionnions",
+			"vous": "visionniez",
+			"ils/elles": "visionnaient"
+		},
+		"futur": {
+			"je": "visionnerai",
+			"tu": "visionneras",
+			"il/elle": "visionnera",
+			"nous": "visionnerons",
+			"vous": "visionnerez",
+			"ils/elles": "visionneront"
+		},
+		"passé simple": {
+			"je": "visionnai",
+			"tu": "visionnas",
+			"il/elle": "visionna",
+			"nous": "visionnâmes",
+			"vous": "visionnâtes",
+			"ils/elles": "visionnèrent"
+		},
+		"passé composé": {
+			"j'": "ai visionné",
+			"tu": "as visionné",
+			"il/elle": "a visionné",
+			"nous": "avons visionné",
+			"vous": "avez visionné",
+			"ils/elles": "ont visionné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais visionné",
+			"tu": "avais visionné",
+			"il/elle": "avait visionné",
+			"nous": "avions visionné",
+			"vous": "aviez visionné",
+			"ils/elles": "avaient visionné"
+		},
+		"passé antérieur": {
+			"j'": "eus visionné",
+			"tu": "eus visionné",
+			"il/elle": "eut visionné",
+			"nous": "eûmes visionné",
+			"vous": "eûtes visionné",
+			"ils/elles": "eurent visionné"
+		},
+		"futur antérieur": {
+			"j'": "aurai visionné",
+			"tu": "auras visionné",
+			"il/elle": "aura visionné",
+			"nous": "aurons visionné",
+			"vous": "aurez visionné",
+			"ils/elles": "auront visionné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous visionniez",
+			"qu'il/elle": "visionne",
+			"qu'ils/elles": "visionnent"
+		},
+		"imparfait": {
+			"que": "vous visionnassiez",
+			"qu'il/elle": "visionnât",
+			"qu'ils/elles": "visionnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse visionné",
+			"que": "vous eussiez visionné",
+			"qu'il/elle": "eût visionné",
+			"qu'ils/elles": "eussent visionné"
+		},
+		"passé": {
+			"j'": "aie visionné",
+			"que": "vous ayez visionné",
+			"qu'il/elle": "ait visionné",
+			"qu'ils/elles": "aient visionné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "visionnerais",
+			"tu": "visionnerais",
+			"il/elle": "visionnerait",
+			"nous": "visionnerions",
+			"vous": "visionneriez",
+			"ils/elles": "visionneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais visionné",
+			"tu": "aurais visionné",
+			"il/elle": "aurait visionné",
+			"nous": "aurions visionné",
+			"vous": "auriez visionné",
+			"ils/elles": "auraient visionné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse visionné",
+			"tu": "eusses visionné",
+			"il/elle": "eût visionné",
+			"nous": "eussions visionné",
+			"vous": "eussiez visionné",
+			"ils/elles": "eussent visionné"
+		}
+	},
+	"participe": {
+		"présent": { "visionnant": "" },
+		"passé composé": { "ayant": "visionné" },
+		"passé": {
+			"masc.sg.:": "visionné",
+			"masc.pl.:": "visionnés",
+			"fém.sg.:": "visionnée",
+			"fém.pl.:": "visionnées"
+		}
+	},
+	"imperatif": {
+		"présent": { "visionne": "", "visionnons": "", "visionnez": "" },
+		"passé": { "aie": "visionné", "ayons": "visionné", "ayez": "visionné" }
+	},
+	"infinitif": {
+		"présent": { "visionner": "" },
+		"passé": { "avoir": "visionné" }
+	}
+}

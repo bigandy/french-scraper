@@ -1,0 +1,138 @@
+{
+	"name": "vomir",
+	"definition": "throw up; vomit; puke; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se vomir/ne pas vomir/ne pas se vomir",
+	"indicatif": {
+		"présent": {
+			"je": "vomis",
+			"tu": "vomis",
+			"il/elle": "vomit",
+			"nous": "vomissons",
+			"vous": "vomissez",
+			"ils/elles": "vomissent"
+		},
+		"imparfait": {
+			"je": "vomissais",
+			"tu": "vomissais",
+			"il/elle": "vomissait",
+			"nous": "vomissions",
+			"vous": "vomissiez",
+			"ils/elles": "vomissaient"
+		},
+		"futur": {
+			"je": "vomirai",
+			"tu": "vomiras",
+			"il/elle": "vomira",
+			"nous": "vomirons",
+			"vous": "vomirez",
+			"ils/elles": "vomiront"
+		},
+		"passé simple": {
+			"je": "vomis",
+			"tu": "vomis",
+			"il/elle": "vomit",
+			"nous": "vomîmes",
+			"vous": "vomîtes",
+			"ils/elles": "vomirent"
+		},
+		"passé composé": {
+			"j'": "ai vomi",
+			"tu": "as vomi",
+			"il/elle": "a vomi",
+			"nous": "avons vomi",
+			"vous": "avez vomi",
+			"ils/elles": "ont vomi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais vomi",
+			"tu": "avais vomi",
+			"il/elle": "avait vomi",
+			"nous": "avions vomi",
+			"vous": "aviez vomi",
+			"ils/elles": "avaient vomi"
+		},
+		"passé antérieur": {
+			"j'": "eus vomi",
+			"tu": "eus vomi",
+			"il/elle": "eut vomi",
+			"nous": "eûmes vomi",
+			"vous": "eûtes vomi",
+			"ils/elles": "eurent vomi"
+		},
+		"futur antérieur": {
+			"j'": "aurai vomi",
+			"tu": "auras vomi",
+			"il/elle": "aura vomi",
+			"nous": "aurons vomi",
+			"vous": "aurez vomi",
+			"ils/elles": "auront vomi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous vomissiez",
+			"qu'il/elle": "vomisse",
+			"qu'ils/elles": "vomissent"
+		},
+		"imparfait": {
+			"que": "vous vomissiez",
+			"qu'il/elle": "vomît",
+			"qu'ils/elles": "vomissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse vomi",
+			"que": "vous eussiez vomi",
+			"qu'il/elle": "eût vomi",
+			"qu'ils/elles": "eussent vomi"
+		},
+		"passé": {
+			"j'": "aie vomi",
+			"que": "vous ayez vomi",
+			"qu'il/elle": "ait vomi",
+			"qu'ils/elles": "aient vomi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "vomirais",
+			"tu": "vomirais",
+			"il/elle": "vomirait",
+			"nous": "vomirions",
+			"vous": "vomiriez",
+			"ils/elles": "vomiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais vomi",
+			"tu": "aurais vomi",
+			"il/elle": "aurait vomi",
+			"nous": "aurions vomi",
+			"vous": "auriez vomi",
+			"ils/elles": "auraient vomi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse vomi",
+			"tu": "eusses vomi",
+			"il/elle": "eût vomi",
+			"nous": "eussions vomi",
+			"vous": "eussiez vomi",
+			"ils/elles": "eussent vomi"
+		}
+	},
+	"participe": {
+		"présent": { "vomissant": "" },
+		"passé composé": { "ayant": "vomi" },
+		"passé": {
+			"masc.sg.:": "vomi",
+			"masc.pl.:": "vomis",
+			"fém.sg.:": "vomie",
+			"fém.pl.:": "vomies"
+		}
+	},
+	"imperatif": {
+		"présent": { "vomis": "", "vomissons": "", "vomissez": "" },
+		"passé": { "aie": "vomi", "ayons": "vomi", "ayez": "vomi" }
+	},
+	"infinitif": { "présent": { "vomir": "" }, "passé": { "avoir": "vomi" } }
+}

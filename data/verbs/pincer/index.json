@@ -1,0 +1,138 @@
+{
+	"name": "pincer",
+	"definition": "pinch; catch; clamp; ...",
+	"model": "commencer",
+	"auxiliary": "avoir",
+	"otherForms": "se pincer/ne pas pincer/ne pas se pincer",
+	"indicatif": {
+		"présent": {
+			"je": "pince",
+			"tu": "pinces",
+			"il/elle": "pince",
+			"nous": "pinçons",
+			"vous": "pincez",
+			"ils/elles": "pincent"
+		},
+		"imparfait": {
+			"je": "pinçais",
+			"tu": "pinçais",
+			"il/elle": "pinçait",
+			"nous": "pincions",
+			"vous": "pinciez",
+			"ils/elles": "pinçaient"
+		},
+		"futur": {
+			"je": "pincerai",
+			"tu": "pinceras",
+			"il/elle": "pincera",
+			"nous": "pincerons",
+			"vous": "pincerez",
+			"ils/elles": "pinceront"
+		},
+		"passé simple": {
+			"je": "pinçai",
+			"tu": "pinças",
+			"il/elle": "pinça",
+			"nous": "pinçâmes",
+			"vous": "pinçâtes",
+			"ils/elles": "pincèrent"
+		},
+		"passé composé": {
+			"j'": "ai pincé",
+			"tu": "as pincé",
+			"il/elle": "a pincé",
+			"nous": "avons pincé",
+			"vous": "avez pincé",
+			"ils/elles": "ont pincé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais pincé",
+			"tu": "avais pincé",
+			"il/elle": "avait pincé",
+			"nous": "avions pincé",
+			"vous": "aviez pincé",
+			"ils/elles": "avaient pincé"
+		},
+		"passé antérieur": {
+			"j'": "eus pincé",
+			"tu": "eus pincé",
+			"il/elle": "eut pincé",
+			"nous": "eûmes pincé",
+			"vous": "eûtes pincé",
+			"ils/elles": "eurent pincé"
+		},
+		"futur antérieur": {
+			"j'": "aurai pincé",
+			"tu": "auras pincé",
+			"il/elle": "aura pincé",
+			"nous": "aurons pincé",
+			"vous": "aurez pincé",
+			"ils/elles": "auront pincé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous pinciez",
+			"qu'il/elle": "pince",
+			"qu'ils/elles": "pincent"
+		},
+		"imparfait": {
+			"que": "vous pinçassiez",
+			"qu'il/elle": "pinçât",
+			"qu'ils/elles": "pinçassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse pincé",
+			"que": "vous eussiez pincé",
+			"qu'il/elle": "eût pincé",
+			"qu'ils/elles": "eussent pincé"
+		},
+		"passé": {
+			"j'": "aie pincé",
+			"que": "vous ayez pincé",
+			"qu'il/elle": "ait pincé",
+			"qu'ils/elles": "aient pincé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "pincerais",
+			"tu": "pincerais",
+			"il/elle": "pincerait",
+			"nous": "pincerions",
+			"vous": "pinceriez",
+			"ils/elles": "pinceraient"
+		},
+		"passé première forme": {
+			"j'": "aurais pincé",
+			"tu": "aurais pincé",
+			"il/elle": "aurait pincé",
+			"nous": "aurions pincé",
+			"vous": "auriez pincé",
+			"ils/elles": "auraient pincé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse pincé",
+			"tu": "eusses pincé",
+			"il/elle": "eût pincé",
+			"nous": "eussions pincé",
+			"vous": "eussiez pincé",
+			"ils/elles": "eussent pincé"
+		}
+	},
+	"participe": {
+		"présent": { "pinçant": "" },
+		"passé composé": { "ayant": "pincé" },
+		"passé": {
+			"masc.sg.:": "pincé",
+			"masc.pl.:": "pincés",
+			"fém.sg.:": "pincée",
+			"fém.pl.:": "pincées"
+		}
+	},
+	"imperatif": {
+		"présent": { "pince": "", "pinçons": "", "pincez": "" },
+		"passé": { "aie": "pincé", "ayons": "pincé", "ayez": "pincé" }
+	},
+	"infinitif": { "présent": { "pincer": "" }, "passé": { "avoir": "pincé" } }
+}

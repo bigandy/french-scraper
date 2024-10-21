@@ -1,0 +1,138 @@
+{
+	"name": "nouer",
+	"definition": "establish; build; tie; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se nouer/ne pas nouer/ne pas se nouer",
+	"indicatif": {
+		"présent": {
+			"je": "noue",
+			"tu": "noues",
+			"il/elle": "noue",
+			"nous": "nouons",
+			"vous": "nouez",
+			"ils/elles": "nouent"
+		},
+		"imparfait": {
+			"je": "nouais",
+			"tu": "nouais",
+			"il/elle": "nouait",
+			"nous": "nouions",
+			"vous": "nouiez",
+			"ils/elles": "nouaient"
+		},
+		"futur": {
+			"je": "nouerai",
+			"tu": "noueras",
+			"il/elle": "nouera",
+			"nous": "nouerons",
+			"vous": "nouerez",
+			"ils/elles": "noueront"
+		},
+		"passé simple": {
+			"je": "nouai",
+			"tu": "nouas",
+			"il/elle": "noua",
+			"nous": "nouâmes",
+			"vous": "nouâtes",
+			"ils/elles": "nouèrent"
+		},
+		"passé composé": {
+			"j'": "ai noué",
+			"tu": "as noué",
+			"il/elle": "a noué",
+			"nous": "avons noué",
+			"vous": "avez noué",
+			"ils/elles": "ont noué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais noué",
+			"tu": "avais noué",
+			"il/elle": "avait noué",
+			"nous": "avions noué",
+			"vous": "aviez noué",
+			"ils/elles": "avaient noué"
+		},
+		"passé antérieur": {
+			"j'": "eus noué",
+			"tu": "eus noué",
+			"il/elle": "eut noué",
+			"nous": "eûmes noué",
+			"vous": "eûtes noué",
+			"ils/elles": "eurent noué"
+		},
+		"futur antérieur": {
+			"j'": "aurai noué",
+			"tu": "auras noué",
+			"il/elle": "aura noué",
+			"nous": "aurons noué",
+			"vous": "aurez noué",
+			"ils/elles": "auront noué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous nouiez",
+			"qu'il/elle": "noue",
+			"qu'ils/elles": "nouent"
+		},
+		"imparfait": {
+			"que": "vous nouassiez",
+			"qu'il/elle": "nouât",
+			"qu'ils/elles": "nouassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse noué",
+			"que": "vous eussiez noué",
+			"qu'il/elle": "eût noué",
+			"qu'ils/elles": "eussent noué"
+		},
+		"passé": {
+			"j'": "aie noué",
+			"que": "vous ayez noué",
+			"qu'il/elle": "ait noué",
+			"qu'ils/elles": "aient noué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "nouerais",
+			"tu": "nouerais",
+			"il/elle": "nouerait",
+			"nous": "nouerions",
+			"vous": "noueriez",
+			"ils/elles": "noueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais noué",
+			"tu": "aurais noué",
+			"il/elle": "aurait noué",
+			"nous": "aurions noué",
+			"vous": "auriez noué",
+			"ils/elles": "auraient noué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse noué",
+			"tu": "eusses noué",
+			"il/elle": "eût noué",
+			"nous": "eussions noué",
+			"vous": "eussiez noué",
+			"ils/elles": "eussent noué"
+		}
+	},
+	"participe": {
+		"présent": { "nouant": "" },
+		"passé composé": { "ayant": "noué" },
+		"passé": {
+			"masc.sg.:": "noué",
+			"masc.pl.:": "noués",
+			"fém.sg.:": "nouée",
+			"fém.pl.:": "nouées"
+		}
+	},
+	"imperatif": {
+		"présent": { "noue": "", "nouons": "", "nouez": "" },
+		"passé": { "aie": "noué", "ayons": "noué", "ayez": "noué" }
+	},
+	"infinitif": { "présent": { "nouer": "" }, "passé": { "avoir": "noué" } }
+}

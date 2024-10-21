@@ -1,0 +1,149 @@
+{
+	"name": "potentialiser",
+	"definition": "potentiate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se potentialiser/ne pas potentialiser/ne pas se potentialiser",
+	"indicatif": {
+		"présent": {
+			"je": "potentialise",
+			"tu": "potentialises",
+			"il/elle": "potentialise",
+			"nous": "potentialisons",
+			"vous": "potentialisez",
+			"ils/elles": "potentialisent"
+		},
+		"imparfait": {
+			"je": "potentialisais",
+			"tu": "potentialisais",
+			"il/elle": "potentialisait",
+			"nous": "potentialisions",
+			"vous": "potentialisiez",
+			"ils/elles": "potentialisaient"
+		},
+		"futur": {
+			"je": "potentialiserai",
+			"tu": "potentialiseras",
+			"il/elle": "potentialisera",
+			"nous": "potentialiserons",
+			"vous": "potentialiserez",
+			"ils/elles": "potentialiseront"
+		},
+		"passé simple": {
+			"je": "potentialisai",
+			"tu": "potentialisas",
+			"il/elle": "potentialisa",
+			"nous": "potentialisâmes",
+			"vous": "potentialisâtes",
+			"ils/elles": "potentialisèrent"
+		},
+		"passé composé": {
+			"j'": "ai potentialisé",
+			"tu": "as potentialisé",
+			"il/elle": "a potentialisé",
+			"nous": "avons potentialisé",
+			"vous": "avez potentialisé",
+			"ils/elles": "ont potentialisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais potentialisé",
+			"tu": "avais potentialisé",
+			"il/elle": "avait potentialisé",
+			"nous": "avions potentialisé",
+			"vous": "aviez potentialisé",
+			"ils/elles": "avaient potentialisé"
+		},
+		"passé antérieur": {
+			"j'": "eus potentialisé",
+			"tu": "eus potentialisé",
+			"il/elle": "eut potentialisé",
+			"nous": "eûmes potentialisé",
+			"vous": "eûtes potentialisé",
+			"ils/elles": "eurent potentialisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai potentialisé",
+			"tu": "auras potentialisé",
+			"il/elle": "aura potentialisé",
+			"nous": "aurons potentialisé",
+			"vous": "aurez potentialisé",
+			"ils/elles": "auront potentialisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous potentialisiez",
+			"qu'il/elle": "potentialise",
+			"qu'ils/elles": "potentialisent"
+		},
+		"imparfait": {
+			"que": "vous potentialisassiez",
+			"qu'il/elle": "potentialisât",
+			"qu'ils/elles": "potentialisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse potentialisé",
+			"que": "vous eussiez potentialisé",
+			"qu'il/elle": "eût potentialisé",
+			"qu'ils/elles": "eussent potentialisé"
+		},
+		"passé": {
+			"j'": "aie potentialisé",
+			"que": "vous ayez potentialisé",
+			"qu'il/elle": "ait potentialisé",
+			"qu'ils/elles": "aient potentialisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "potentialiserais",
+			"tu": "potentialiserais",
+			"il/elle": "potentialiserait",
+			"nous": "potentialiserions",
+			"vous": "potentialiseriez",
+			"ils/elles": "potentialiseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais potentialisé",
+			"tu": "aurais potentialisé",
+			"il/elle": "aurait potentialisé",
+			"nous": "aurions potentialisé",
+			"vous": "auriez potentialisé",
+			"ils/elles": "auraient potentialisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse potentialisé",
+			"tu": "eusses potentialisé",
+			"il/elle": "eût potentialisé",
+			"nous": "eussions potentialisé",
+			"vous": "eussiez potentialisé",
+			"ils/elles": "eussent potentialisé"
+		}
+	},
+	"participe": {
+		"présent": { "potentialisant": "" },
+		"passé composé": { "ayant": "potentialisé" },
+		"passé": {
+			"masc.sg.:": "potentialisé",
+			"masc.pl.:": "potentialisés",
+			"fém.sg.:": "potentialisée",
+			"fém.pl.:": "potentialisées"
+		}
+	},
+	"imperatif": {
+		"présent": {
+			"potentialise": "",
+			"potentialisons": "",
+			"potentialisez": ""
+		},
+		"passé": {
+			"aie": "potentialisé",
+			"ayons": "potentialisé",
+			"ayez": "potentialisé"
+		}
+	},
+	"infinitif": {
+		"présent": { "potentialiser": "" },
+		"passé": { "avoir": "potentialisé" }
+	}
+}

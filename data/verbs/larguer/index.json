@@ -1,0 +1,138 @@
+{
+	"name": "larguer",
+	"definition": "dump; drop; release; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se larguer/ne pas larguer/ne pas se larguer",
+	"indicatif": {
+		"présent": {
+			"je": "largue",
+			"tu": "largues",
+			"il/elle": "largue",
+			"nous": "larguons",
+			"vous": "larguez",
+			"ils/elles": "larguent"
+		},
+		"imparfait": {
+			"je": "larguais",
+			"tu": "larguais",
+			"il/elle": "larguait",
+			"nous": "larguions",
+			"vous": "larguiez",
+			"ils/elles": "larguaient"
+		},
+		"futur": {
+			"je": "larguerai",
+			"tu": "largueras",
+			"il/elle": "larguera",
+			"nous": "larguerons",
+			"vous": "larguerez",
+			"ils/elles": "largueront"
+		},
+		"passé simple": {
+			"je": "larguai",
+			"tu": "larguas",
+			"il/elle": "largua",
+			"nous": "larguâmes",
+			"vous": "larguâtes",
+			"ils/elles": "larguèrent"
+		},
+		"passé composé": {
+			"j'": "ai largué",
+			"tu": "as largué",
+			"il/elle": "a largué",
+			"nous": "avons largué",
+			"vous": "avez largué",
+			"ils/elles": "ont largué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais largué",
+			"tu": "avais largué",
+			"il/elle": "avait largué",
+			"nous": "avions largué",
+			"vous": "aviez largué",
+			"ils/elles": "avaient largué"
+		},
+		"passé antérieur": {
+			"j'": "eus largué",
+			"tu": "eus largué",
+			"il/elle": "eut largué",
+			"nous": "eûmes largué",
+			"vous": "eûtes largué",
+			"ils/elles": "eurent largué"
+		},
+		"futur antérieur": {
+			"j'": "aurai largué",
+			"tu": "auras largué",
+			"il/elle": "aura largué",
+			"nous": "aurons largué",
+			"vous": "aurez largué",
+			"ils/elles": "auront largué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous larguiez",
+			"qu'il/elle": "largue",
+			"qu'ils/elles": "larguent"
+		},
+		"imparfait": {
+			"que": "vous larguassiez",
+			"qu'il/elle": "larguât",
+			"qu'ils/elles": "larguassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse largué",
+			"que": "vous eussiez largué",
+			"qu'il/elle": "eût largué",
+			"qu'ils/elles": "eussent largué"
+		},
+		"passé": {
+			"j'": "aie largué",
+			"que": "vous ayez largué",
+			"qu'il/elle": "ait largué",
+			"qu'ils/elles": "aient largué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "larguerais",
+			"tu": "larguerais",
+			"il/elle": "larguerait",
+			"nous": "larguerions",
+			"vous": "largueriez",
+			"ils/elles": "largueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais largué",
+			"tu": "aurais largué",
+			"il/elle": "aurait largué",
+			"nous": "aurions largué",
+			"vous": "auriez largué",
+			"ils/elles": "auraient largué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse largué",
+			"tu": "eusses largué",
+			"il/elle": "eût largué",
+			"nous": "eussions largué",
+			"vous": "eussiez largué",
+			"ils/elles": "eussent largué"
+		}
+	},
+	"participe": {
+		"présent": { "larguant": "" },
+		"passé composé": { "ayant": "largué" },
+		"passé": {
+			"masc.sg.:": "largué",
+			"masc.pl.:": "largués",
+			"fém.sg.:": "larguée",
+			"fém.pl.:": "larguées"
+		}
+	},
+	"imperatif": {
+		"présent": { "largue": "", "larguons": "", "larguez": "" },
+		"passé": { "aie": "largué", "ayons": "largué", "ayez": "largué" }
+	},
+	"infinitif": { "présent": { "larguer": "" }, "passé": { "avoir": "largué" } }
+}

@@ -1,0 +1,140 @@
+{
+	"name": "arroser",
+	"definition": "water; sprinkle; drizzle with; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'arroser/ne pas arroser/ne pas s'arroser",
+	"indicatif": {
+		"présent": {
+			"j'": "arrose",
+			"tu": "arroses",
+			"il/elle": "arrose",
+			"nous": "arrosons",
+			"vous": "arrosez",
+			"ils/elles": "arrosent"
+		},
+		"imparfait": {
+			"j'": "arrosais",
+			"tu": "arrosais",
+			"il/elle": "arrosait",
+			"nous": "arrosions",
+			"vous": "arrosiez",
+			"ils/elles": "arrosaient"
+		},
+		"futur": {
+			"j'": "arroserai",
+			"tu": "arroseras",
+			"il/elle": "arrosera",
+			"nous": "arroserons",
+			"vous": "arroserez",
+			"ils/elles": "arroseront"
+		},
+		"passé simple": {
+			"j'": "arrosai",
+			"tu": "arrosas",
+			"il/elle": "arrosa",
+			"nous": "arrosâmes",
+			"vous": "arrosâtes",
+			"ils/elles": "arrosèrent"
+		},
+		"passé composé": {
+			"j'": "ai arrosé",
+			"tu": "as arrosé",
+			"il/elle": "a arrosé",
+			"nous": "avons arrosé",
+			"vous": "avez arrosé",
+			"ils/elles": "ont arrosé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais arrosé",
+			"tu": "avais arrosé",
+			"il/elle": "avait arrosé",
+			"nous": "avions arrosé",
+			"vous": "aviez arrosé",
+			"ils/elles": "avaient arrosé"
+		},
+		"passé antérieur": {
+			"j'": "eus arrosé",
+			"tu": "eus arrosé",
+			"il/elle": "eut arrosé",
+			"nous": "eûmes arrosé",
+			"vous": "eûtes arrosé",
+			"ils/elles": "eurent arrosé"
+		},
+		"futur antérieur": {
+			"j'": "aurai arrosé",
+			"tu": "auras arrosé",
+			"il/elle": "aura arrosé",
+			"nous": "aurons arrosé",
+			"vous": "aurez arrosé",
+			"ils/elles": "auront arrosé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "arrose",
+			"que": "vous arrosiez",
+			"qu'il/elle": "arrose",
+			"qu'ils/elles": "arrosent"
+		},
+		"imparfait": {
+			"j'": "arrosasse",
+			"que": "vous arrosassiez",
+			"qu'il/elle": "arrosât",
+			"qu'ils/elles": "arrosassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse arrosé",
+			"que": "vous eussiez arrosé",
+			"qu'il/elle": "eût arrosé",
+			"qu'ils/elles": "eussent arrosé"
+		},
+		"passé": {
+			"j'": "aie arrosé",
+			"que": "vous ayez arrosé",
+			"qu'il/elle": "ait arrosé",
+			"qu'ils/elles": "aient arrosé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "arroserais",
+			"tu": "arroserais",
+			"il/elle": "arroserait",
+			"nous": "arroserions",
+			"vous": "arroseriez",
+			"ils/elles": "arroseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais arrosé",
+			"tu": "aurais arrosé",
+			"il/elle": "aurait arrosé",
+			"nous": "aurions arrosé",
+			"vous": "auriez arrosé",
+			"ils/elles": "auraient arrosé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse arrosé",
+			"tu": "eusses arrosé",
+			"il/elle": "eût arrosé",
+			"nous": "eussions arrosé",
+			"vous": "eussiez arrosé",
+			"ils/elles": "eussent arrosé"
+		}
+	},
+	"participe": {
+		"présent": { "arrosant": "" },
+		"passé composé": { "ayant": "arrosé" },
+		"passé": {
+			"masc.sg.:": "arrosé",
+			"masc.pl.:": "arrosés",
+			"fém.sg.:": "arrosée",
+			"fém.pl.:": "arrosées"
+		}
+	},
+	"imperatif": {
+		"présent": { "arrose": "", "arrosons": "", "arrosez": "" },
+		"passé": { "aie": "arrosé", "ayons": "arrosé", "ayez": "arrosé" }
+	},
+	"infinitif": { "présent": { "arroser": "" }, "passé": { "avoir": "arrosé" } }
+}

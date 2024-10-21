@@ -1,0 +1,143 @@
+{
+	"name": "aiguiser",
+	"definition": "sharpen; hone; grind; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'aiguiser/ne pas aiguiser/ne pas s'aiguiser",
+	"indicatif": {
+		"présent": {
+			"j'": "aiguise",
+			"tu": "aiguises",
+			"il/elle": "aiguise",
+			"nous": "aiguisons",
+			"vous": "aiguisez",
+			"ils/elles": "aiguisent"
+		},
+		"imparfait": {
+			"j'": "aiguisais",
+			"tu": "aiguisais",
+			"il/elle": "aiguisait",
+			"nous": "aiguisions",
+			"vous": "aiguisiez",
+			"ils/elles": "aiguisaient"
+		},
+		"futur": {
+			"j'": "aiguiserai",
+			"tu": "aiguiseras",
+			"il/elle": "aiguisera",
+			"nous": "aiguiserons",
+			"vous": "aiguiserez",
+			"ils/elles": "aiguiseront"
+		},
+		"passé simple": {
+			"j'": "aiguisai",
+			"tu": "aiguisas",
+			"il/elle": "aiguisa",
+			"nous": "aiguisâmes",
+			"vous": "aiguisâtes",
+			"ils/elles": "aiguisèrent"
+		},
+		"passé composé": {
+			"j'": "ai aiguisé",
+			"tu": "as aiguisé",
+			"il/elle": "a aiguisé",
+			"nous": "avons aiguisé",
+			"vous": "avez aiguisé",
+			"ils/elles": "ont aiguisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais aiguisé",
+			"tu": "avais aiguisé",
+			"il/elle": "avait aiguisé",
+			"nous": "avions aiguisé",
+			"vous": "aviez aiguisé",
+			"ils/elles": "avaient aiguisé"
+		},
+		"passé antérieur": {
+			"j'": "eus aiguisé",
+			"tu": "eus aiguisé",
+			"il/elle": "eut aiguisé",
+			"nous": "eûmes aiguisé",
+			"vous": "eûtes aiguisé",
+			"ils/elles": "eurent aiguisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai aiguisé",
+			"tu": "auras aiguisé",
+			"il/elle": "aura aiguisé",
+			"nous": "aurons aiguisé",
+			"vous": "aurez aiguisé",
+			"ils/elles": "auront aiguisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "aiguise",
+			"que": "vous aiguisiez",
+			"qu'il/elle": "aiguise",
+			"qu'ils/elles": "aiguisent"
+		},
+		"imparfait": {
+			"j'": "aiguisasse",
+			"que": "vous aiguisassiez",
+			"qu'il/elle": "aiguisât",
+			"qu'ils/elles": "aiguisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse aiguisé",
+			"que": "vous eussiez aiguisé",
+			"qu'il/elle": "eût aiguisé",
+			"qu'ils/elles": "eussent aiguisé"
+		},
+		"passé": {
+			"j'": "aie aiguisé",
+			"que": "vous ayez aiguisé",
+			"qu'il/elle": "ait aiguisé",
+			"qu'ils/elles": "aient aiguisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "aiguiserais",
+			"tu": "aiguiserais",
+			"il/elle": "aiguiserait",
+			"nous": "aiguiserions",
+			"vous": "aiguiseriez",
+			"ils/elles": "aiguiseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais aiguisé",
+			"tu": "aurais aiguisé",
+			"il/elle": "aurait aiguisé",
+			"nous": "aurions aiguisé",
+			"vous": "auriez aiguisé",
+			"ils/elles": "auraient aiguisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse aiguisé",
+			"tu": "eusses aiguisé",
+			"il/elle": "eût aiguisé",
+			"nous": "eussions aiguisé",
+			"vous": "eussiez aiguisé",
+			"ils/elles": "eussent aiguisé"
+		}
+	},
+	"participe": {
+		"présent": { "aiguisant": "" },
+		"passé composé": { "ayant": "aiguisé" },
+		"passé": {
+			"masc.sg.:": "aiguisé",
+			"masc.pl.:": "aiguisés",
+			"fém.sg.:": "aiguisée",
+			"fém.pl.:": "aiguisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "aiguise": "", "aiguisons": "", "aiguisez": "" },
+		"passé": { "aie": "aiguisé", "ayons": "aiguisé", "ayez": "aiguisé" }
+	},
+	"infinitif": {
+		"présent": { "aiguiser": "" },
+		"passé": { "avoir": "aiguisé" }
+	}
+}

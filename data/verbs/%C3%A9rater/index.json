@@ -1,0 +1,140 @@
+{
+	"name": "érater",
+	"definition": "",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'érater/ne pas érater/ne pas s'érater",
+	"indicatif": {
+		"présent": {
+			"j'": "érate",
+			"tu": "érates",
+			"il/elle": "érate",
+			"nous": "ératons",
+			"vous": "ératez",
+			"ils/elles": "ératent"
+		},
+		"imparfait": {
+			"j'": "ératais",
+			"tu": "ératais",
+			"il/elle": "ératait",
+			"nous": "érations",
+			"vous": "ératiez",
+			"ils/elles": "érataient"
+		},
+		"futur": {
+			"j'": "ératerai",
+			"tu": "érateras",
+			"il/elle": "ératera",
+			"nous": "ératerons",
+			"vous": "ératerez",
+			"ils/elles": "érateront"
+		},
+		"passé simple": {
+			"j'": "ératai",
+			"tu": "ératas",
+			"il/elle": "érata",
+			"nous": "ératâmes",
+			"vous": "ératâtes",
+			"ils/elles": "ératèrent"
+		},
+		"passé composé": {
+			"j'": "ai ératé",
+			"tu": "as ératé",
+			"il/elle": "a ératé",
+			"nous": "avons ératé",
+			"vous": "avez ératé",
+			"ils/elles": "ont ératé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais ératé",
+			"tu": "avais ératé",
+			"il/elle": "avait ératé",
+			"nous": "avions ératé",
+			"vous": "aviez ératé",
+			"ils/elles": "avaient ératé"
+		},
+		"passé antérieur": {
+			"j'": "eus ératé",
+			"tu": "eus ératé",
+			"il/elle": "eut ératé",
+			"nous": "eûmes ératé",
+			"vous": "eûtes ératé",
+			"ils/elles": "eurent ératé"
+		},
+		"futur antérieur": {
+			"j'": "aurai ératé",
+			"tu": "auras ératé",
+			"il/elle": "aura ératé",
+			"nous": "aurons ératé",
+			"vous": "aurez ératé",
+			"ils/elles": "auront ératé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "érate",
+			"que": "vous ératiez",
+			"qu'il/elle": "érate",
+			"qu'ils/elles": "ératent"
+		},
+		"imparfait": {
+			"j'": "ératasse",
+			"que": "vous ératassiez",
+			"qu'il/elle": "ératât",
+			"qu'ils/elles": "ératassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse ératé",
+			"que": "vous eussiez ératé",
+			"qu'il/elle": "eût ératé",
+			"qu'ils/elles": "eussent ératé"
+		},
+		"passé": {
+			"j'": "aie ératé",
+			"que": "vous ayez ératé",
+			"qu'il/elle": "ait ératé",
+			"qu'ils/elles": "aient ératé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "ératerais",
+			"tu": "ératerais",
+			"il/elle": "ératerait",
+			"nous": "ératerions",
+			"vous": "érateriez",
+			"ils/elles": "érateraient"
+		},
+		"passé première forme": {
+			"j'": "aurais ératé",
+			"tu": "aurais ératé",
+			"il/elle": "aurait ératé",
+			"nous": "aurions ératé",
+			"vous": "auriez ératé",
+			"ils/elles": "auraient ératé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse ératé",
+			"tu": "eusses ératé",
+			"il/elle": "eût ératé",
+			"nous": "eussions ératé",
+			"vous": "eussiez ératé",
+			"ils/elles": "eussent ératé"
+		}
+	},
+	"participe": {
+		"présent": { "ératant": "" },
+		"passé composé": { "ayant": "ératé" },
+		"passé": {
+			"masc.sg.:": "ératé",
+			"masc.pl.:": "ératés",
+			"fém.sg.:": "ératée",
+			"fém.pl.:": "ératées"
+		}
+	},
+	"imperatif": {
+		"présent": { "érate": "", "ératons": "", "ératez": "" },
+		"passé": { "aie": "ératé", "ayons": "ératé", "ayez": "ératé" }
+	},
+	"infinitif": { "présent": { "érater": "" }, "passé": { "avoir": "ératé" } }
+}

@@ -1,0 +1,141 @@
+{
+	"name": "spéculer",
+	"definition": "speculate; surmise; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas spéculer",
+	"indicatif": {
+		"présent": {
+			"je": "spécule",
+			"tu": "spécules",
+			"il/elle": "spécule",
+			"nous": "spéculons",
+			"vous": "spéculez",
+			"ils/elles": "spéculent"
+		},
+		"imparfait": {
+			"je": "spéculais",
+			"tu": "spéculais",
+			"il/elle": "spéculait",
+			"nous": "spéculions",
+			"vous": "spéculiez",
+			"ils/elles": "spéculaient"
+		},
+		"futur": {
+			"je": "spéculerai",
+			"tu": "spéculeras",
+			"il/elle": "spéculera",
+			"nous": "spéculerons",
+			"vous": "spéculerez",
+			"ils/elles": "spéculeront"
+		},
+		"passé simple": {
+			"je": "spéculai",
+			"tu": "spéculas",
+			"il/elle": "spécula",
+			"nous": "spéculâmes",
+			"vous": "spéculâtes",
+			"ils/elles": "spéculèrent"
+		},
+		"passé composé": {
+			"j'": "ai spéculé",
+			"tu": "as spéculé",
+			"il/elle": "a spéculé",
+			"nous": "avons spéculé",
+			"vous": "avez spéculé",
+			"ils/elles": "ont spéculé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais spéculé",
+			"tu": "avais spéculé",
+			"il/elle": "avait spéculé",
+			"nous": "avions spéculé",
+			"vous": "aviez spéculé",
+			"ils/elles": "avaient spéculé"
+		},
+		"passé antérieur": {
+			"j'": "eus spéculé",
+			"tu": "eus spéculé",
+			"il/elle": "eut spéculé",
+			"nous": "eûmes spéculé",
+			"vous": "eûtes spéculé",
+			"ils/elles": "eurent spéculé"
+		},
+		"futur antérieur": {
+			"j'": "aurai spéculé",
+			"tu": "auras spéculé",
+			"il/elle": "aura spéculé",
+			"nous": "aurons spéculé",
+			"vous": "aurez spéculé",
+			"ils/elles": "auront spéculé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous spéculiez",
+			"qu'il/elle": "spécule",
+			"qu'ils/elles": "spéculent"
+		},
+		"imparfait": {
+			"que": "vous spéculassiez",
+			"qu'il/elle": "spéculât",
+			"qu'ils/elles": "spéculassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse spéculé",
+			"que": "vous eussiez spéculé",
+			"qu'il/elle": "eût spéculé",
+			"qu'ils/elles": "eussent spéculé"
+		},
+		"passé": {
+			"j'": "aie spéculé",
+			"que": "vous ayez spéculé",
+			"qu'il/elle": "ait spéculé",
+			"qu'ils/elles": "aient spéculé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "spéculerais",
+			"tu": "spéculerais",
+			"il/elle": "spéculerait",
+			"nous": "spéculerions",
+			"vous": "spéculeriez",
+			"ils/elles": "spéculeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais spéculé",
+			"tu": "aurais spéculé",
+			"il/elle": "aurait spéculé",
+			"nous": "aurions spéculé",
+			"vous": "auriez spéculé",
+			"ils/elles": "auraient spéculé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse spéculé",
+			"tu": "eusses spéculé",
+			"il/elle": "eût spéculé",
+			"nous": "eussions spéculé",
+			"vous": "eussiez spéculé",
+			"ils/elles": "eussent spéculé"
+		}
+	},
+	"participe": {
+		"présent": { "spéculant": "" },
+		"passé composé": { "ayant": "spéculé" },
+		"passé": {
+			"masc.sg.:": "spéculé",
+			"masc.pl.:": "spéculés",
+			"fém.sg.:": "spéculée",
+			"fém.pl.:": "spéculées"
+		}
+	},
+	"imperatif": {
+		"présent": { "spécule": "", "spéculons": "", "spéculez": "" },
+		"passé": { "aie": "spéculé", "ayons": "spéculé", "ayez": "spéculé" }
+	},
+	"infinitif": {
+		"présent": { "spéculer": "" },
+		"passé": { "avoir": "spéculé" }
+	}
+}

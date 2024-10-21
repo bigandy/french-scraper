@@ -1,0 +1,141 @@
+{
+	"name": "bombarder",
+	"definition": "bomb; bombard; shell; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se bombarder/ne pas bombarder/ne pas se bombarder",
+	"indicatif": {
+		"présent": {
+			"je": "bombarde",
+			"tu": "bombardes",
+			"il/elle": "bombarde",
+			"nous": "bombardons",
+			"vous": "bombardez",
+			"ils/elles": "bombardent"
+		},
+		"imparfait": {
+			"je": "bombardais",
+			"tu": "bombardais",
+			"il/elle": "bombardait",
+			"nous": "bombardions",
+			"vous": "bombardiez",
+			"ils/elles": "bombardaient"
+		},
+		"futur": {
+			"je": "bombarderai",
+			"tu": "bombarderas",
+			"il/elle": "bombardera",
+			"nous": "bombarderons",
+			"vous": "bombarderez",
+			"ils/elles": "bombarderont"
+		},
+		"passé simple": {
+			"je": "bombardai",
+			"tu": "bombardas",
+			"il/elle": "bombarda",
+			"nous": "bombardâmes",
+			"vous": "bombardâtes",
+			"ils/elles": "bombardèrent"
+		},
+		"passé composé": {
+			"j'": "ai bombardé",
+			"tu": "as bombardé",
+			"il/elle": "a bombardé",
+			"nous": "avons bombardé",
+			"vous": "avez bombardé",
+			"ils/elles": "ont bombardé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais bombardé",
+			"tu": "avais bombardé",
+			"il/elle": "avait bombardé",
+			"nous": "avions bombardé",
+			"vous": "aviez bombardé",
+			"ils/elles": "avaient bombardé"
+		},
+		"passé antérieur": {
+			"j'": "eus bombardé",
+			"tu": "eus bombardé",
+			"il/elle": "eut bombardé",
+			"nous": "eûmes bombardé",
+			"vous": "eûtes bombardé",
+			"ils/elles": "eurent bombardé"
+		},
+		"futur antérieur": {
+			"j'": "aurai bombardé",
+			"tu": "auras bombardé",
+			"il/elle": "aura bombardé",
+			"nous": "aurons bombardé",
+			"vous": "aurez bombardé",
+			"ils/elles": "auront bombardé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous bombardiez",
+			"qu'il/elle": "bombarde",
+			"qu'ils/elles": "bombardent"
+		},
+		"imparfait": {
+			"que": "vous bombardassiez",
+			"qu'il/elle": "bombardât",
+			"qu'ils/elles": "bombardassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse bombardé",
+			"que": "vous eussiez bombardé",
+			"qu'il/elle": "eût bombardé",
+			"qu'ils/elles": "eussent bombardé"
+		},
+		"passé": {
+			"j'": "aie bombardé",
+			"que": "vous ayez bombardé",
+			"qu'il/elle": "ait bombardé",
+			"qu'ils/elles": "aient bombardé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "bombarderais",
+			"tu": "bombarderais",
+			"il/elle": "bombarderait",
+			"nous": "bombarderions",
+			"vous": "bombarderiez",
+			"ils/elles": "bombarderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais bombardé",
+			"tu": "aurais bombardé",
+			"il/elle": "aurait bombardé",
+			"nous": "aurions bombardé",
+			"vous": "auriez bombardé",
+			"ils/elles": "auraient bombardé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse bombardé",
+			"tu": "eusses bombardé",
+			"il/elle": "eût bombardé",
+			"nous": "eussions bombardé",
+			"vous": "eussiez bombardé",
+			"ils/elles": "eussent bombardé"
+		}
+	},
+	"participe": {
+		"présent": { "bombardant": "" },
+		"passé composé": { "ayant": "bombardé" },
+		"passé": {
+			"masc.sg.:": "bombardé",
+			"masc.pl.:": "bombardés",
+			"fém.sg.:": "bombardée",
+			"fém.pl.:": "bombardées"
+		}
+	},
+	"imperatif": {
+		"présent": { "bombarde": "", "bombardons": "", "bombardez": "" },
+		"passé": { "aie": "bombardé", "ayons": "bombardé", "ayez": "bombardé" }
+	},
+	"infinitif": {
+		"présent": { "bombarder": "" },
+		"passé": { "avoir": "bombardé" }
+	}
+}

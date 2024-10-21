@@ -1,0 +1,141 @@
+{
+	"name": "patienter",
+	"definition": "wait; hold on; be patient; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas patienter",
+	"indicatif": {
+		"présent": {
+			"je": "patiente",
+			"tu": "patientes",
+			"il/elle": "patiente",
+			"nous": "patientons",
+			"vous": "patientez",
+			"ils/elles": "patientent"
+		},
+		"imparfait": {
+			"je": "patientais",
+			"tu": "patientais",
+			"il/elle": "patientait",
+			"nous": "patientions",
+			"vous": "patientiez",
+			"ils/elles": "patientaient"
+		},
+		"futur": {
+			"je": "patienterai",
+			"tu": "patienteras",
+			"il/elle": "patientera",
+			"nous": "patienterons",
+			"vous": "patienterez",
+			"ils/elles": "patienteront"
+		},
+		"passé simple": {
+			"je": "patientai",
+			"tu": "patientas",
+			"il/elle": "patienta",
+			"nous": "patientâmes",
+			"vous": "patientâtes",
+			"ils/elles": "patientèrent"
+		},
+		"passé composé": {
+			"j'": "ai patienté",
+			"tu": "as patienté",
+			"il/elle": "a patienté",
+			"nous": "avons patienté",
+			"vous": "avez patienté",
+			"ils/elles": "ont patienté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais patienté",
+			"tu": "avais patienté",
+			"il/elle": "avait patienté",
+			"nous": "avions patienté",
+			"vous": "aviez patienté",
+			"ils/elles": "avaient patienté"
+		},
+		"passé antérieur": {
+			"j'": "eus patienté",
+			"tu": "eus patienté",
+			"il/elle": "eut patienté",
+			"nous": "eûmes patienté",
+			"vous": "eûtes patienté",
+			"ils/elles": "eurent patienté"
+		},
+		"futur antérieur": {
+			"j'": "aurai patienté",
+			"tu": "auras patienté",
+			"il/elle": "aura patienté",
+			"nous": "aurons patienté",
+			"vous": "aurez patienté",
+			"ils/elles": "auront patienté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous patientiez",
+			"qu'il/elle": "patiente",
+			"qu'ils/elles": "patientent"
+		},
+		"imparfait": {
+			"que": "vous patientassiez",
+			"qu'il/elle": "patientât",
+			"qu'ils/elles": "patientassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse patienté",
+			"que": "vous eussiez patienté",
+			"qu'il/elle": "eût patienté",
+			"qu'ils/elles": "eussent patienté"
+		},
+		"passé": {
+			"j'": "aie patienté",
+			"que": "vous ayez patienté",
+			"qu'il/elle": "ait patienté",
+			"qu'ils/elles": "aient patienté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "patienterais",
+			"tu": "patienterais",
+			"il/elle": "patienterait",
+			"nous": "patienterions",
+			"vous": "patienteriez",
+			"ils/elles": "patienteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais patienté",
+			"tu": "aurais patienté",
+			"il/elle": "aurait patienté",
+			"nous": "aurions patienté",
+			"vous": "auriez patienté",
+			"ils/elles": "auraient patienté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse patienté",
+			"tu": "eusses patienté",
+			"il/elle": "eût patienté",
+			"nous": "eussions patienté",
+			"vous": "eussiez patienté",
+			"ils/elles": "eussent patienté"
+		}
+	},
+	"participe": {
+		"présent": { "patientant": "" },
+		"passé composé": { "ayant": "patienté" },
+		"passé": {
+			"masc.sg.:": "patienté",
+			"masc.pl.:": "patientés",
+			"fém.sg.:": "patientée",
+			"fém.pl.:": "patientées"
+		}
+	},
+	"imperatif": {
+		"présent": { "patiente": "", "patientons": "", "patientez": "" },
+		"passé": { "aie": "patienté", "ayons": "patienté", "ayez": "patienté" }
+	},
+	"infinitif": {
+		"présent": { "patienter": "" },
+		"passé": { "avoir": "patienté" }
+	}
+}

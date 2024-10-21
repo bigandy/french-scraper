@@ -1,0 +1,138 @@
+{
+	"name": "capter",
+	"definition": "capture; sense; pick up; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se capter/ne pas capter/ne pas se capter",
+	"indicatif": {
+		"présent": {
+			"je": "capte",
+			"tu": "captes",
+			"il/elle": "capte",
+			"nous": "captons",
+			"vous": "captez",
+			"ils/elles": "captent"
+		},
+		"imparfait": {
+			"je": "captais",
+			"tu": "captais",
+			"il/elle": "captait",
+			"nous": "captions",
+			"vous": "captiez",
+			"ils/elles": "captaient"
+		},
+		"futur": {
+			"je": "capterai",
+			"tu": "capteras",
+			"il/elle": "captera",
+			"nous": "capterons",
+			"vous": "capterez",
+			"ils/elles": "capteront"
+		},
+		"passé simple": {
+			"je": "captai",
+			"tu": "captas",
+			"il/elle": "capta",
+			"nous": "captâmes",
+			"vous": "captâtes",
+			"ils/elles": "captèrent"
+		},
+		"passé composé": {
+			"j'": "ai capté",
+			"tu": "as capté",
+			"il/elle": "a capté",
+			"nous": "avons capté",
+			"vous": "avez capté",
+			"ils/elles": "ont capté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais capté",
+			"tu": "avais capté",
+			"il/elle": "avait capté",
+			"nous": "avions capté",
+			"vous": "aviez capté",
+			"ils/elles": "avaient capté"
+		},
+		"passé antérieur": {
+			"j'": "eus capté",
+			"tu": "eus capté",
+			"il/elle": "eut capté",
+			"nous": "eûmes capté",
+			"vous": "eûtes capté",
+			"ils/elles": "eurent capté"
+		},
+		"futur antérieur": {
+			"j'": "aurai capté",
+			"tu": "auras capté",
+			"il/elle": "aura capté",
+			"nous": "aurons capté",
+			"vous": "aurez capté",
+			"ils/elles": "auront capté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous captiez",
+			"qu'il/elle": "capte",
+			"qu'ils/elles": "captent"
+		},
+		"imparfait": {
+			"que": "vous captassiez",
+			"qu'il/elle": "captât",
+			"qu'ils/elles": "captassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse capté",
+			"que": "vous eussiez capté",
+			"qu'il/elle": "eût capté",
+			"qu'ils/elles": "eussent capté"
+		},
+		"passé": {
+			"j'": "aie capté",
+			"que": "vous ayez capté",
+			"qu'il/elle": "ait capté",
+			"qu'ils/elles": "aient capté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "capterais",
+			"tu": "capterais",
+			"il/elle": "capterait",
+			"nous": "capterions",
+			"vous": "capteriez",
+			"ils/elles": "capteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais capté",
+			"tu": "aurais capté",
+			"il/elle": "aurait capté",
+			"nous": "aurions capté",
+			"vous": "auriez capté",
+			"ils/elles": "auraient capté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse capté",
+			"tu": "eusses capté",
+			"il/elle": "eût capté",
+			"nous": "eussions capté",
+			"vous": "eussiez capté",
+			"ils/elles": "eussent capté"
+		}
+	},
+	"participe": {
+		"présent": { "captant": "" },
+		"passé composé": { "ayant": "capté" },
+		"passé": {
+			"masc.sg.:": "capté",
+			"masc.pl.:": "captés",
+			"fém.sg.:": "captée",
+			"fém.pl.:": "captées"
+		}
+	},
+	"imperatif": {
+		"présent": { "capte": "", "captons": "", "captez": "" },
+		"passé": { "aie": "capté", "ayons": "capté", "ayez": "capté" }
+	},
+	"infinitif": { "présent": { "capter": "" }, "passé": { "avoir": "capté" } }
+}

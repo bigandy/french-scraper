@@ -1,0 +1,140 @@
+{
+	"name": "abonner",
+	"definition": "\n              subscribe; sign up; take out a subscription; ...\n            ",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'abonner/ne pas abonner/ne pas s'abonner",
+	"indicatif": {
+		"présent": {
+			"j'": "abonne",
+			"tu": "abonnes",
+			"il/elle": "abonne",
+			"nous": "abonnons",
+			"vous": "abonnez",
+			"ils/elles": "abonnent"
+		},
+		"imparfait": {
+			"j'": "abonnais",
+			"tu": "abonnais",
+			"il/elle": "abonnait",
+			"nous": "abonnions",
+			"vous": "abonniez",
+			"ils/elles": "abonnaient"
+		},
+		"futur": {
+			"j'": "abonnerai",
+			"tu": "abonneras",
+			"il/elle": "abonnera",
+			"nous": "abonnerons",
+			"vous": "abonnerez",
+			"ils/elles": "abonneront"
+		},
+		"passé simple": {
+			"j'": "abonnai",
+			"tu": "abonnas",
+			"il/elle": "abonna",
+			"nous": "abonnâmes",
+			"vous": "abonnâtes",
+			"ils/elles": "abonnèrent"
+		},
+		"passé composé": {
+			"j'": "ai abonné",
+			"tu": "as abonné",
+			"il/elle": "a abonné",
+			"nous": "avons abonné",
+			"vous": "avez abonné",
+			"ils/elles": "ont abonné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais abonné",
+			"tu": "avais abonné",
+			"il/elle": "avait abonné",
+			"nous": "avions abonné",
+			"vous": "aviez abonné",
+			"ils/elles": "avaient abonné"
+		},
+		"passé antérieur": {
+			"j'": "eus abonné",
+			"tu": "eus abonné",
+			"il/elle": "eut abonné",
+			"nous": "eûmes abonné",
+			"vous": "eûtes abonné",
+			"ils/elles": "eurent abonné"
+		},
+		"futur antérieur": {
+			"j'": "aurai abonné",
+			"tu": "auras abonné",
+			"il/elle": "aura abonné",
+			"nous": "aurons abonné",
+			"vous": "aurez abonné",
+			"ils/elles": "auront abonné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "abonne",
+			"que": "vous abonniez",
+			"qu'il/elle": "abonne",
+			"qu'ils/elles": "abonnent"
+		},
+		"imparfait": {
+			"j'": "abonnasse",
+			"que": "vous abonnassiez",
+			"qu'il/elle": "abonnât",
+			"qu'ils/elles": "abonnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse abonné",
+			"que": "vous eussiez abonné",
+			"qu'il/elle": "eût abonné",
+			"qu'ils/elles": "eussent abonné"
+		},
+		"passé": {
+			"j'": "aie abonné",
+			"que": "vous ayez abonné",
+			"qu'il/elle": "ait abonné",
+			"qu'ils/elles": "aient abonné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "abonnerais",
+			"tu": "abonnerais",
+			"il/elle": "abonnerait",
+			"nous": "abonnerions",
+			"vous": "abonneriez",
+			"ils/elles": "abonneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais abonné",
+			"tu": "aurais abonné",
+			"il/elle": "aurait abonné",
+			"nous": "aurions abonné",
+			"vous": "auriez abonné",
+			"ils/elles": "auraient abonné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse abonné",
+			"tu": "eusses abonné",
+			"il/elle": "eût abonné",
+			"nous": "eussions abonné",
+			"vous": "eussiez abonné",
+			"ils/elles": "eussent abonné"
+		}
+	},
+	"participe": {
+		"présent": { "abonnant": "" },
+		"passé composé": { "ayant": "abonné" },
+		"passé": {
+			"masc.sg.:": "abonné",
+			"masc.pl.:": "abonnés",
+			"fém.sg.:": "abonnée",
+			"fém.pl.:": "abonnées"
+		}
+	},
+	"imperatif": {
+		"présent": { "abonne": "", "abonnons": "", "abonnez": "" },
+		"passé": { "aie": "abonné", "ayons": "abonné", "ayez": "abonné" }
+	},
+	"infinitif": { "présent": { "abonner": "" }, "passé": { "avoir": "abonné" } }
+}

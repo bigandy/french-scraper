@@ -1,0 +1,141 @@
+{
+	"name": "compacter",
+	"definition": "compact; compress; stuff; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se compacter/ne pas compacter/ne pas se compacter",
+	"indicatif": {
+		"présent": {
+			"je": "compacte",
+			"tu": "compactes",
+			"il/elle": "compacte",
+			"nous": "compactons",
+			"vous": "compactez",
+			"ils/elles": "compactent"
+		},
+		"imparfait": {
+			"je": "compactais",
+			"tu": "compactais",
+			"il/elle": "compactait",
+			"nous": "compactions",
+			"vous": "compactiez",
+			"ils/elles": "compactaient"
+		},
+		"futur": {
+			"je": "compacterai",
+			"tu": "compacteras",
+			"il/elle": "compactera",
+			"nous": "compacterons",
+			"vous": "compacterez",
+			"ils/elles": "compacteront"
+		},
+		"passé simple": {
+			"je": "compactai",
+			"tu": "compactas",
+			"il/elle": "compacta",
+			"nous": "compactâmes",
+			"vous": "compactâtes",
+			"ils/elles": "compactèrent"
+		},
+		"passé composé": {
+			"j'": "ai compacté",
+			"tu": "as compacté",
+			"il/elle": "a compacté",
+			"nous": "avons compacté",
+			"vous": "avez compacté",
+			"ils/elles": "ont compacté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais compacté",
+			"tu": "avais compacté",
+			"il/elle": "avait compacté",
+			"nous": "avions compacté",
+			"vous": "aviez compacté",
+			"ils/elles": "avaient compacté"
+		},
+		"passé antérieur": {
+			"j'": "eus compacté",
+			"tu": "eus compacté",
+			"il/elle": "eut compacté",
+			"nous": "eûmes compacté",
+			"vous": "eûtes compacté",
+			"ils/elles": "eurent compacté"
+		},
+		"futur antérieur": {
+			"j'": "aurai compacté",
+			"tu": "auras compacté",
+			"il/elle": "aura compacté",
+			"nous": "aurons compacté",
+			"vous": "aurez compacté",
+			"ils/elles": "auront compacté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous compactiez",
+			"qu'il/elle": "compacte",
+			"qu'ils/elles": "compactent"
+		},
+		"imparfait": {
+			"que": "vous compactassiez",
+			"qu'il/elle": "compactât",
+			"qu'ils/elles": "compactassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse compacté",
+			"que": "vous eussiez compacté",
+			"qu'il/elle": "eût compacté",
+			"qu'ils/elles": "eussent compacté"
+		},
+		"passé": {
+			"j'": "aie compacté",
+			"que": "vous ayez compacté",
+			"qu'il/elle": "ait compacté",
+			"qu'ils/elles": "aient compacté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "compacterais",
+			"tu": "compacterais",
+			"il/elle": "compacterait",
+			"nous": "compacterions",
+			"vous": "compacteriez",
+			"ils/elles": "compacteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais compacté",
+			"tu": "aurais compacté",
+			"il/elle": "aurait compacté",
+			"nous": "aurions compacté",
+			"vous": "auriez compacté",
+			"ils/elles": "auraient compacté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse compacté",
+			"tu": "eusses compacté",
+			"il/elle": "eût compacté",
+			"nous": "eussions compacté",
+			"vous": "eussiez compacté",
+			"ils/elles": "eussent compacté"
+		}
+	},
+	"participe": {
+		"présent": { "compactant": "" },
+		"passé composé": { "ayant": "compacté" },
+		"passé": {
+			"masc.sg.:": "compacté",
+			"masc.pl.:": "compactés",
+			"fém.sg.:": "compactée",
+			"fém.pl.:": "compactées"
+		}
+	},
+	"imperatif": {
+		"présent": { "compacte": "", "compactons": "", "compactez": "" },
+		"passé": { "aie": "compacté", "ayons": "compacté", "ayez": "compacté" }
+	},
+	"infinitif": {
+		"présent": { "compacter": "" },
+		"passé": { "avoir": "compacté" }
+	}
+}

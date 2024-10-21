@@ -1,0 +1,141 @@
+{
+	"name": "harceler",
+	"definition": "harass; stalk; pester; ...",
+	"model": "peler",
+	"auxiliary": "avoir",
+	"otherForms": "se harceler/ne pas harceler/ne pas se harceler",
+	"indicatif": {
+		"présent": {
+			"je": "harcèle",
+			"tu": "harcèles",
+			"il/elle": "harcèle",
+			"nous": "harcelons",
+			"vous": "harcelez",
+			"ils/elles": "harcèlent"
+		},
+		"imparfait": {
+			"je": "harcelais",
+			"tu": "harcelais",
+			"il/elle": "harcelait",
+			"nous": "harcelions",
+			"vous": "harceliez",
+			"ils/elles": "harcelaient"
+		},
+		"futur": {
+			"je": "harcèlerai",
+			"tu": "harcèleras",
+			"il/elle": "harcèlera",
+			"nous": "harcèlerons",
+			"vous": "harcèlerez",
+			"ils/elles": "harcèleront"
+		},
+		"passé simple": {
+			"je": "harcelai",
+			"tu": "harcelas",
+			"il/elle": "harcela",
+			"nous": "harcelâmes",
+			"vous": "harcelâtes",
+			"ils/elles": "harcelèrent"
+		},
+		"passé composé": {
+			"j'": "ai harcelé",
+			"tu": "as harcelé",
+			"il/elle": "a harcelé",
+			"nous": "avons harcelé",
+			"vous": "avez harcelé",
+			"ils/elles": "ont harcelé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais harcelé",
+			"tu": "avais harcelé",
+			"il/elle": "avait harcelé",
+			"nous": "avions harcelé",
+			"vous": "aviez harcelé",
+			"ils/elles": "avaient harcelé"
+		},
+		"passé antérieur": {
+			"j'": "eus harcelé",
+			"tu": "eus harcelé",
+			"il/elle": "eut harcelé",
+			"nous": "eûmes harcelé",
+			"vous": "eûtes harcelé",
+			"ils/elles": "eurent harcelé"
+		},
+		"futur antérieur": {
+			"j'": "aurai harcelé",
+			"tu": "auras harcelé",
+			"il/elle": "aura harcelé",
+			"nous": "aurons harcelé",
+			"vous": "aurez harcelé",
+			"ils/elles": "auront harcelé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous harceliez",
+			"qu'il/elle": "harcèle",
+			"qu'ils/elles": "harcèlent"
+		},
+		"imparfait": {
+			"que": "vous harcelassiez",
+			"qu'il/elle": "harcelât",
+			"qu'ils/elles": "harcelassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse harcelé",
+			"que": "vous eussiez harcelé",
+			"qu'il/elle": "eût harcelé",
+			"qu'ils/elles": "eussent harcelé"
+		},
+		"passé": {
+			"j'": "aie harcelé",
+			"que": "vous ayez harcelé",
+			"qu'il/elle": "ait harcelé",
+			"qu'ils/elles": "aient harcelé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "harcèlerais",
+			"tu": "harcèlerais",
+			"il/elle": "harcèlerait",
+			"nous": "harcèlerions",
+			"vous": "harcèleriez",
+			"ils/elles": "harcèleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais harcelé",
+			"tu": "aurais harcelé",
+			"il/elle": "aurait harcelé",
+			"nous": "aurions harcelé",
+			"vous": "auriez harcelé",
+			"ils/elles": "auraient harcelé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse harcelé",
+			"tu": "eusses harcelé",
+			"il/elle": "eût harcelé",
+			"nous": "eussions harcelé",
+			"vous": "eussiez harcelé",
+			"ils/elles": "eussent harcelé"
+		}
+	},
+	"participe": {
+		"présent": { "harcelant": "" },
+		"passé composé": { "ayant": "harcelé" },
+		"passé": {
+			"masc.sg.:": "harcelé",
+			"masc.pl.:": "harcelés",
+			"fém.sg.:": "harcelée",
+			"fém.pl.:": "harcelées"
+		}
+	},
+	"imperatif": {
+		"présent": { "harcèle": "", "harcelons": "", "harcelez": "" },
+		"passé": { "aie": "harcelé", "ayons": "harcelé", "ayez": "harcelé" }
+	},
+	"infinitif": {
+		"présent": { "harceler": "" },
+		"passé": { "avoir": "harcelé" }
+	}
+}

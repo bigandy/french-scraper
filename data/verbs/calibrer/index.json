@@ -1,0 +1,141 @@
+{
+	"name": "calibrer",
+	"definition": "calibrate; size; gauge; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se calibrer/ne pas calibrer/ne pas se calibrer",
+	"indicatif": {
+		"présent": {
+			"je": "calibre",
+			"tu": "calibres",
+			"il/elle": "calibre",
+			"nous": "calibrons",
+			"vous": "calibrez",
+			"ils/elles": "calibrent"
+		},
+		"imparfait": {
+			"je": "calibrais",
+			"tu": "calibrais",
+			"il/elle": "calibrait",
+			"nous": "calibrions",
+			"vous": "calibriez",
+			"ils/elles": "calibraient"
+		},
+		"futur": {
+			"je": "calibrerai",
+			"tu": "calibreras",
+			"il/elle": "calibrera",
+			"nous": "calibrerons",
+			"vous": "calibrerez",
+			"ils/elles": "calibreront"
+		},
+		"passé simple": {
+			"je": "calibrai",
+			"tu": "calibras",
+			"il/elle": "calibra",
+			"nous": "calibrâmes",
+			"vous": "calibrâtes",
+			"ils/elles": "calibrèrent"
+		},
+		"passé composé": {
+			"j'": "ai calibré",
+			"tu": "as calibré",
+			"il/elle": "a calibré",
+			"nous": "avons calibré",
+			"vous": "avez calibré",
+			"ils/elles": "ont calibré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais calibré",
+			"tu": "avais calibré",
+			"il/elle": "avait calibré",
+			"nous": "avions calibré",
+			"vous": "aviez calibré",
+			"ils/elles": "avaient calibré"
+		},
+		"passé antérieur": {
+			"j'": "eus calibré",
+			"tu": "eus calibré",
+			"il/elle": "eut calibré",
+			"nous": "eûmes calibré",
+			"vous": "eûtes calibré",
+			"ils/elles": "eurent calibré"
+		},
+		"futur antérieur": {
+			"j'": "aurai calibré",
+			"tu": "auras calibré",
+			"il/elle": "aura calibré",
+			"nous": "aurons calibré",
+			"vous": "aurez calibré",
+			"ils/elles": "auront calibré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous calibriez",
+			"qu'il/elle": "calibre",
+			"qu'ils/elles": "calibrent"
+		},
+		"imparfait": {
+			"que": "vous calibrassiez",
+			"qu'il/elle": "calibrât",
+			"qu'ils/elles": "calibrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse calibré",
+			"que": "vous eussiez calibré",
+			"qu'il/elle": "eût calibré",
+			"qu'ils/elles": "eussent calibré"
+		},
+		"passé": {
+			"j'": "aie calibré",
+			"que": "vous ayez calibré",
+			"qu'il/elle": "ait calibré",
+			"qu'ils/elles": "aient calibré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "calibrerais",
+			"tu": "calibrerais",
+			"il/elle": "calibrerait",
+			"nous": "calibrerions",
+			"vous": "calibreriez",
+			"ils/elles": "calibreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais calibré",
+			"tu": "aurais calibré",
+			"il/elle": "aurait calibré",
+			"nous": "aurions calibré",
+			"vous": "auriez calibré",
+			"ils/elles": "auraient calibré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse calibré",
+			"tu": "eusses calibré",
+			"il/elle": "eût calibré",
+			"nous": "eussions calibré",
+			"vous": "eussiez calibré",
+			"ils/elles": "eussent calibré"
+		}
+	},
+	"participe": {
+		"présent": { "calibrant": "" },
+		"passé composé": { "ayant": "calibré" },
+		"passé": {
+			"masc.sg.:": "calibré",
+			"masc.pl.:": "calibrés",
+			"fém.sg.:": "calibrée",
+			"fém.pl.:": "calibrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "calibre": "", "calibrons": "", "calibrez": "" },
+		"passé": { "aie": "calibré", "ayons": "calibré", "ayez": "calibré" }
+	},
+	"infinitif": {
+		"présent": { "calibrer": "" },
+		"passé": { "avoir": "calibré" }
+	}
+}

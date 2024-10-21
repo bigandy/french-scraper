@@ -1,0 +1,145 @@
+{
+	"name": "recommencer",
+	"definition": "\n              start over; start again; do it again; ...\n            ",
+	"model": "commencer",
+	"auxiliary": "avoir",
+	"otherForms": "se recommencer/ne pas recommencer/ne pas se recommencer",
+	"indicatif": {
+		"présent": {
+			"je": "recommence",
+			"tu": "recommences",
+			"il/elle": "recommence",
+			"nous": "recommençons",
+			"vous": "recommencez",
+			"ils/elles": "recommencent"
+		},
+		"imparfait": {
+			"je": "recommençais",
+			"tu": "recommençais",
+			"il/elle": "recommençait",
+			"nous": "recommencions",
+			"vous": "recommenciez",
+			"ils/elles": "recommençaient"
+		},
+		"futur": {
+			"je": "recommencerai",
+			"tu": "recommenceras",
+			"il/elle": "recommencera",
+			"nous": "recommencerons",
+			"vous": "recommencerez",
+			"ils/elles": "recommenceront"
+		},
+		"passé simple": {
+			"je": "recommençai",
+			"tu": "recommenças",
+			"il/elle": "recommença",
+			"nous": "recommençâmes",
+			"vous": "recommençâtes",
+			"ils/elles": "recommencèrent"
+		},
+		"passé composé": {
+			"j'": "ai recommencé",
+			"tu": "as recommencé",
+			"il/elle": "a recommencé",
+			"nous": "avons recommencé",
+			"vous": "avez recommencé",
+			"ils/elles": "ont recommencé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais recommencé",
+			"tu": "avais recommencé",
+			"il/elle": "avait recommencé",
+			"nous": "avions recommencé",
+			"vous": "aviez recommencé",
+			"ils/elles": "avaient recommencé"
+		},
+		"passé antérieur": {
+			"j'": "eus recommencé",
+			"tu": "eus recommencé",
+			"il/elle": "eut recommencé",
+			"nous": "eûmes recommencé",
+			"vous": "eûtes recommencé",
+			"ils/elles": "eurent recommencé"
+		},
+		"futur antérieur": {
+			"j'": "aurai recommencé",
+			"tu": "auras recommencé",
+			"il/elle": "aura recommencé",
+			"nous": "aurons recommencé",
+			"vous": "aurez recommencé",
+			"ils/elles": "auront recommencé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous recommenciez",
+			"qu'il/elle": "recommence",
+			"qu'ils/elles": "recommencent"
+		},
+		"imparfait": {
+			"que": "vous recommençassiez",
+			"qu'il/elle": "recommençât",
+			"qu'ils/elles": "recommençassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse recommencé",
+			"que": "vous eussiez recommencé",
+			"qu'il/elle": "eût recommencé",
+			"qu'ils/elles": "eussent recommencé"
+		},
+		"passé": {
+			"j'": "aie recommencé",
+			"que": "vous ayez recommencé",
+			"qu'il/elle": "ait recommencé",
+			"qu'ils/elles": "aient recommencé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "recommencerais",
+			"tu": "recommencerais",
+			"il/elle": "recommencerait",
+			"nous": "recommencerions",
+			"vous": "recommenceriez",
+			"ils/elles": "recommenceraient"
+		},
+		"passé première forme": {
+			"j'": "aurais recommencé",
+			"tu": "aurais recommencé",
+			"il/elle": "aurait recommencé",
+			"nous": "aurions recommencé",
+			"vous": "auriez recommencé",
+			"ils/elles": "auraient recommencé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse recommencé",
+			"tu": "eusses recommencé",
+			"il/elle": "eût recommencé",
+			"nous": "eussions recommencé",
+			"vous": "eussiez recommencé",
+			"ils/elles": "eussent recommencé"
+		}
+	},
+	"participe": {
+		"présent": { "recommençant": "" },
+		"passé composé": { "ayant": "recommencé" },
+		"passé": {
+			"masc.sg.:": "recommencé",
+			"masc.pl.:": "recommencés",
+			"fém.sg.:": "recommencée",
+			"fém.pl.:": "recommencées"
+		}
+	},
+	"imperatif": {
+		"présent": { "recommence": "", "recommençons": "", "recommencez": "" },
+		"passé": {
+			"aie": "recommencé",
+			"ayons": "recommencé",
+			"ayez": "recommencé"
+		}
+	},
+	"infinitif": {
+		"présent": { "recommencer": "" },
+		"passé": { "avoir": "recommencé" }
+	}
+}

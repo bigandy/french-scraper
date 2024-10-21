@@ -1,0 +1,143 @@
+{
+	"name": "emboucher",
+	"definition": "blow; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'emboucher/ne pas emboucher/ne pas s'emboucher",
+	"indicatif": {
+		"présent": {
+			"j'": "embouche",
+			"tu": "embouches",
+			"il/elle": "embouche",
+			"nous": "embouchons",
+			"vous": "embouchez",
+			"ils/elles": "embouchent"
+		},
+		"imparfait": {
+			"j'": "embouchais",
+			"tu": "embouchais",
+			"il/elle": "embouchait",
+			"nous": "embouchions",
+			"vous": "embouchiez",
+			"ils/elles": "embouchaient"
+		},
+		"futur": {
+			"j'": "emboucherai",
+			"tu": "emboucheras",
+			"il/elle": "embouchera",
+			"nous": "emboucherons",
+			"vous": "emboucherez",
+			"ils/elles": "emboucheront"
+		},
+		"passé simple": {
+			"j'": "embouchai",
+			"tu": "embouchas",
+			"il/elle": "emboucha",
+			"nous": "embouchâmes",
+			"vous": "embouchâtes",
+			"ils/elles": "embouchèrent"
+		},
+		"passé composé": {
+			"j'": "ai embouché",
+			"tu": "as embouché",
+			"il/elle": "a embouché",
+			"nous": "avons embouché",
+			"vous": "avez embouché",
+			"ils/elles": "ont embouché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais embouché",
+			"tu": "avais embouché",
+			"il/elle": "avait embouché",
+			"nous": "avions embouché",
+			"vous": "aviez embouché",
+			"ils/elles": "avaient embouché"
+		},
+		"passé antérieur": {
+			"j'": "eus embouché",
+			"tu": "eus embouché",
+			"il/elle": "eut embouché",
+			"nous": "eûmes embouché",
+			"vous": "eûtes embouché",
+			"ils/elles": "eurent embouché"
+		},
+		"futur antérieur": {
+			"j'": "aurai embouché",
+			"tu": "auras embouché",
+			"il/elle": "aura embouché",
+			"nous": "aurons embouché",
+			"vous": "aurez embouché",
+			"ils/elles": "auront embouché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "embouche",
+			"que": "vous embouchiez",
+			"qu'il/elle": "embouche",
+			"qu'ils/elles": "embouchent"
+		},
+		"imparfait": {
+			"j'": "embouchasse",
+			"que": "vous embouchassiez",
+			"qu'il/elle": "embouchât",
+			"qu'ils/elles": "embouchassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse embouché",
+			"que": "vous eussiez embouché",
+			"qu'il/elle": "eût embouché",
+			"qu'ils/elles": "eussent embouché"
+		},
+		"passé": {
+			"j'": "aie embouché",
+			"que": "vous ayez embouché",
+			"qu'il/elle": "ait embouché",
+			"qu'ils/elles": "aient embouché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "emboucherais",
+			"tu": "emboucherais",
+			"il/elle": "emboucherait",
+			"nous": "emboucherions",
+			"vous": "emboucheriez",
+			"ils/elles": "emboucheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais embouché",
+			"tu": "aurais embouché",
+			"il/elle": "aurait embouché",
+			"nous": "aurions embouché",
+			"vous": "auriez embouché",
+			"ils/elles": "auraient embouché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse embouché",
+			"tu": "eusses embouché",
+			"il/elle": "eût embouché",
+			"nous": "eussions embouché",
+			"vous": "eussiez embouché",
+			"ils/elles": "eussent embouché"
+		}
+	},
+	"participe": {
+		"présent": { "embouchant": "" },
+		"passé composé": { "ayant": "embouché" },
+		"passé": {
+			"masc.sg.:": "embouché",
+			"masc.pl.:": "embouchés",
+			"fém.sg.:": "embouchée",
+			"fém.pl.:": "embouchées"
+		}
+	},
+	"imperatif": {
+		"présent": { "embouche": "", "embouchons": "", "embouchez": "" },
+		"passé": { "aie": "embouché", "ayons": "embouché", "ayez": "embouché" }
+	},
+	"infinitif": {
+		"présent": { "emboucher": "" },
+		"passé": { "avoir": "embouché" }
+	}
+}

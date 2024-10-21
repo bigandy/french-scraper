@@ -1,0 +1,141 @@
+{
+	"name": "secourir",
+	"definition": "rescue; help; assist; ...",
+	"model": "courir",
+	"auxiliary": "avoir",
+	"otherForms": "se secourir/ne pas secourir/ne pas se secourir",
+	"indicatif": {
+		"présent": {
+			"je": "secours",
+			"tu": "secours",
+			"il/elle": "secourt",
+			"nous": "secourons",
+			"vous": "secourez",
+			"ils/elles": "secourent"
+		},
+		"imparfait": {
+			"je": "secourais",
+			"tu": "secourais",
+			"il/elle": "secourait",
+			"nous": "secourions",
+			"vous": "secouriez",
+			"ils/elles": "secouraient"
+		},
+		"futur": {
+			"je": "secourrai",
+			"tu": "secourras",
+			"il/elle": "secourra",
+			"nous": "secourrons",
+			"vous": "secourrez",
+			"ils/elles": "secourront"
+		},
+		"passé simple": {
+			"je": "secourus",
+			"tu": "secourus",
+			"il/elle": "secourut",
+			"nous": "secourûmes",
+			"vous": "secourûtes",
+			"ils/elles": "secoururent"
+		},
+		"passé composé": {
+			"j'": "ai secouru",
+			"tu": "as secouru",
+			"il/elle": "a secouru",
+			"nous": "avons secouru",
+			"vous": "avez secouru",
+			"ils/elles": "ont secouru"
+		},
+		"plus-que-parfait": {
+			"j'": "avais secouru",
+			"tu": "avais secouru",
+			"il/elle": "avait secouru",
+			"nous": "avions secouru",
+			"vous": "aviez secouru",
+			"ils/elles": "avaient secouru"
+		},
+		"passé antérieur": {
+			"j'": "eus secouru",
+			"tu": "eus secouru",
+			"il/elle": "eut secouru",
+			"nous": "eûmes secouru",
+			"vous": "eûtes secouru",
+			"ils/elles": "eurent secouru"
+		},
+		"futur antérieur": {
+			"j'": "aurai secouru",
+			"tu": "auras secouru",
+			"il/elle": "aura secouru",
+			"nous": "aurons secouru",
+			"vous": "aurez secouru",
+			"ils/elles": "auront secouru"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous secouriez",
+			"qu'il/elle": "secoure",
+			"qu'ils/elles": "secourent"
+		},
+		"imparfait": {
+			"que": "vous secourussiez",
+			"qu'il/elle": "secourût",
+			"qu'ils/elles": "secourussent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse secouru",
+			"que": "vous eussiez secouru",
+			"qu'il/elle": "eût secouru",
+			"qu'ils/elles": "eussent secouru"
+		},
+		"passé": {
+			"j'": "aie secouru",
+			"que": "vous ayez secouru",
+			"qu'il/elle": "ait secouru",
+			"qu'ils/elles": "aient secouru"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "secourrais",
+			"tu": "secourrais",
+			"il/elle": "secourrait",
+			"nous": "secourrions",
+			"vous": "secourriez",
+			"ils/elles": "secourraient"
+		},
+		"passé première forme": {
+			"j'": "aurais secouru",
+			"tu": "aurais secouru",
+			"il/elle": "aurait secouru",
+			"nous": "aurions secouru",
+			"vous": "auriez secouru",
+			"ils/elles": "auraient secouru"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse secouru",
+			"tu": "eusses secouru",
+			"il/elle": "eût secouru",
+			"nous": "eussions secouru",
+			"vous": "eussiez secouru",
+			"ils/elles": "eussent secouru"
+		}
+	},
+	"participe": {
+		"présent": { "secourant": "" },
+		"passé composé": { "ayant": "secouru" },
+		"passé": {
+			"masc.sg.:": "secouru",
+			"masc.pl.:": "secourus",
+			"fém.sg.:": "secourue",
+			"fém.pl.:": "secourues"
+		}
+	},
+	"imperatif": {
+		"présent": { "secours": "", "secourons": "", "secourez": "" },
+		"passé": { "aie": "secouru", "ayons": "secouru", "ayez": "secouru" }
+	},
+	"infinitif": {
+		"présent": { "secourir": "" },
+		"passé": { "avoir": "secouru" }
+	}
+}

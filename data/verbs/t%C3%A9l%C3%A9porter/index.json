@@ -1,0 +1,141 @@
+{
+	"name": "téléporter",
+	"definition": "teleport; transport; beam up; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se téléporter/ne pas téléporter/ne pas se téléporter",
+	"indicatif": {
+		"présent": {
+			"je": "téléporte",
+			"tu": "téléportes",
+			"il/elle": "téléporte",
+			"nous": "téléportons",
+			"vous": "téléportez",
+			"ils/elles": "téléportent"
+		},
+		"imparfait": {
+			"je": "téléportais",
+			"tu": "téléportais",
+			"il/elle": "téléportait",
+			"nous": "téléportions",
+			"vous": "téléportiez",
+			"ils/elles": "téléportaient"
+		},
+		"futur": {
+			"je": "téléporterai",
+			"tu": "téléporteras",
+			"il/elle": "téléportera",
+			"nous": "téléporterons",
+			"vous": "téléporterez",
+			"ils/elles": "téléporteront"
+		},
+		"passé simple": {
+			"je": "téléportai",
+			"tu": "téléportas",
+			"il/elle": "téléporta",
+			"nous": "téléportâmes",
+			"vous": "téléportâtes",
+			"ils/elles": "téléportèrent"
+		},
+		"passé composé": {
+			"j'": "ai téléporté",
+			"tu": "as téléporté",
+			"il/elle": "a téléporté",
+			"nous": "avons téléporté",
+			"vous": "avez téléporté",
+			"ils/elles": "ont téléporté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais téléporté",
+			"tu": "avais téléporté",
+			"il/elle": "avait téléporté",
+			"nous": "avions téléporté",
+			"vous": "aviez téléporté",
+			"ils/elles": "avaient téléporté"
+		},
+		"passé antérieur": {
+			"j'": "eus téléporté",
+			"tu": "eus téléporté",
+			"il/elle": "eut téléporté",
+			"nous": "eûmes téléporté",
+			"vous": "eûtes téléporté",
+			"ils/elles": "eurent téléporté"
+		},
+		"futur antérieur": {
+			"j'": "aurai téléporté",
+			"tu": "auras téléporté",
+			"il/elle": "aura téléporté",
+			"nous": "aurons téléporté",
+			"vous": "aurez téléporté",
+			"ils/elles": "auront téléporté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous téléportiez",
+			"qu'il/elle": "téléporte",
+			"qu'ils/elles": "téléportent"
+		},
+		"imparfait": {
+			"que": "vous téléportassiez",
+			"qu'il/elle": "téléportât",
+			"qu'ils/elles": "téléportassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse téléporté",
+			"que": "vous eussiez téléporté",
+			"qu'il/elle": "eût téléporté",
+			"qu'ils/elles": "eussent téléporté"
+		},
+		"passé": {
+			"j'": "aie téléporté",
+			"que": "vous ayez téléporté",
+			"qu'il/elle": "ait téléporté",
+			"qu'ils/elles": "aient téléporté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "téléporterais",
+			"tu": "téléporterais",
+			"il/elle": "téléporterait",
+			"nous": "téléporterions",
+			"vous": "téléporteriez",
+			"ils/elles": "téléporteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais téléporté",
+			"tu": "aurais téléporté",
+			"il/elle": "aurait téléporté",
+			"nous": "aurions téléporté",
+			"vous": "auriez téléporté",
+			"ils/elles": "auraient téléporté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse téléporté",
+			"tu": "eusses téléporté",
+			"il/elle": "eût téléporté",
+			"nous": "eussions téléporté",
+			"vous": "eussiez téléporté",
+			"ils/elles": "eussent téléporté"
+		}
+	},
+	"participe": {
+		"présent": { "téléportant": "" },
+		"passé composé": { "ayant": "téléporté" },
+		"passé": {
+			"masc.sg.:": "téléporté",
+			"masc.pl.:": "téléportés",
+			"fém.sg.:": "téléportée",
+			"fém.pl.:": "téléportées"
+		}
+	},
+	"imperatif": {
+		"présent": { "téléporte": "", "téléportons": "", "téléportez": "" },
+		"passé": { "aie": "téléporté", "ayons": "téléporté", "ayez": "téléporté" }
+	},
+	"infinitif": {
+		"présent": { "téléporter": "" },
+		"passé": { "avoir": "téléporté" }
+	}
+}

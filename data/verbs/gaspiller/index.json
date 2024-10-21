@@ -1,0 +1,141 @@
+{
+	"name": "gaspiller",
+	"definition": "waste; squander; spend; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se gaspiller/ne pas gaspiller/ne pas se gaspiller",
+	"indicatif": {
+		"présent": {
+			"je": "gaspille",
+			"tu": "gaspilles",
+			"il/elle": "gaspille",
+			"nous": "gaspillons",
+			"vous": "gaspillez",
+			"ils/elles": "gaspillent"
+		},
+		"imparfait": {
+			"je": "gaspillais",
+			"tu": "gaspillais",
+			"il/elle": "gaspillait",
+			"nous": "gaspillions",
+			"vous": "gaspilliez",
+			"ils/elles": "gaspillaient"
+		},
+		"futur": {
+			"je": "gaspillerai",
+			"tu": "gaspilleras",
+			"il/elle": "gaspillera",
+			"nous": "gaspillerons",
+			"vous": "gaspillerez",
+			"ils/elles": "gaspilleront"
+		},
+		"passé simple": {
+			"je": "gaspillai",
+			"tu": "gaspillas",
+			"il/elle": "gaspilla",
+			"nous": "gaspillâmes",
+			"vous": "gaspillâtes",
+			"ils/elles": "gaspillèrent"
+		},
+		"passé composé": {
+			"j'": "ai gaspillé",
+			"tu": "as gaspillé",
+			"il/elle": "a gaspillé",
+			"nous": "avons gaspillé",
+			"vous": "avez gaspillé",
+			"ils/elles": "ont gaspillé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais gaspillé",
+			"tu": "avais gaspillé",
+			"il/elle": "avait gaspillé",
+			"nous": "avions gaspillé",
+			"vous": "aviez gaspillé",
+			"ils/elles": "avaient gaspillé"
+		},
+		"passé antérieur": {
+			"j'": "eus gaspillé",
+			"tu": "eus gaspillé",
+			"il/elle": "eut gaspillé",
+			"nous": "eûmes gaspillé",
+			"vous": "eûtes gaspillé",
+			"ils/elles": "eurent gaspillé"
+		},
+		"futur antérieur": {
+			"j'": "aurai gaspillé",
+			"tu": "auras gaspillé",
+			"il/elle": "aura gaspillé",
+			"nous": "aurons gaspillé",
+			"vous": "aurez gaspillé",
+			"ils/elles": "auront gaspillé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous gaspilliez",
+			"qu'il/elle": "gaspille",
+			"qu'ils/elles": "gaspillent"
+		},
+		"imparfait": {
+			"que": "vous gaspillassiez",
+			"qu'il/elle": "gaspillât",
+			"qu'ils/elles": "gaspillassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse gaspillé",
+			"que": "vous eussiez gaspillé",
+			"qu'il/elle": "eût gaspillé",
+			"qu'ils/elles": "eussent gaspillé"
+		},
+		"passé": {
+			"j'": "aie gaspillé",
+			"que": "vous ayez gaspillé",
+			"qu'il/elle": "ait gaspillé",
+			"qu'ils/elles": "aient gaspillé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "gaspillerais",
+			"tu": "gaspillerais",
+			"il/elle": "gaspillerait",
+			"nous": "gaspillerions",
+			"vous": "gaspilleriez",
+			"ils/elles": "gaspilleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais gaspillé",
+			"tu": "aurais gaspillé",
+			"il/elle": "aurait gaspillé",
+			"nous": "aurions gaspillé",
+			"vous": "auriez gaspillé",
+			"ils/elles": "auraient gaspillé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse gaspillé",
+			"tu": "eusses gaspillé",
+			"il/elle": "eût gaspillé",
+			"nous": "eussions gaspillé",
+			"vous": "eussiez gaspillé",
+			"ils/elles": "eussent gaspillé"
+		}
+	},
+	"participe": {
+		"présent": { "gaspillant": "" },
+		"passé composé": { "ayant": "gaspillé" },
+		"passé": {
+			"masc.sg.:": "gaspillé",
+			"masc.pl.:": "gaspillés",
+			"fém.sg.:": "gaspillée",
+			"fém.pl.:": "gaspillées"
+		}
+	},
+	"imperatif": {
+		"présent": { "gaspille": "", "gaspillons": "", "gaspillez": "" },
+		"passé": { "aie": "gaspillé", "ayons": "gaspillé", "ayez": "gaspillé" }
+	},
+	"infinitif": {
+		"présent": { "gaspiller": "" },
+		"passé": { "avoir": "gaspillé" }
+	}
+}

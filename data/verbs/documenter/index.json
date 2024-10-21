@@ -1,0 +1,141 @@
+{
+	"name": "documenter",
+	"definition": "document; inform; research; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se documenter/ne pas documenter/ne pas se documenter",
+	"indicatif": {
+		"présent": {
+			"je": "documente",
+			"tu": "documentes",
+			"il/elle": "documente",
+			"nous": "documentons",
+			"vous": "documentez",
+			"ils/elles": "documentent"
+		},
+		"imparfait": {
+			"je": "documentais",
+			"tu": "documentais",
+			"il/elle": "documentait",
+			"nous": "documentions",
+			"vous": "documentiez",
+			"ils/elles": "documentaient"
+		},
+		"futur": {
+			"je": "documenterai",
+			"tu": "documenteras",
+			"il/elle": "documentera",
+			"nous": "documenterons",
+			"vous": "documenterez",
+			"ils/elles": "documenteront"
+		},
+		"passé simple": {
+			"je": "documentai",
+			"tu": "documentas",
+			"il/elle": "documenta",
+			"nous": "documentâmes",
+			"vous": "documentâtes",
+			"ils/elles": "documentèrent"
+		},
+		"passé composé": {
+			"j'": "ai documenté",
+			"tu": "as documenté",
+			"il/elle": "a documenté",
+			"nous": "avons documenté",
+			"vous": "avez documenté",
+			"ils/elles": "ont documenté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais documenté",
+			"tu": "avais documenté",
+			"il/elle": "avait documenté",
+			"nous": "avions documenté",
+			"vous": "aviez documenté",
+			"ils/elles": "avaient documenté"
+		},
+		"passé antérieur": {
+			"j'": "eus documenté",
+			"tu": "eus documenté",
+			"il/elle": "eut documenté",
+			"nous": "eûmes documenté",
+			"vous": "eûtes documenté",
+			"ils/elles": "eurent documenté"
+		},
+		"futur antérieur": {
+			"j'": "aurai documenté",
+			"tu": "auras documenté",
+			"il/elle": "aura documenté",
+			"nous": "aurons documenté",
+			"vous": "aurez documenté",
+			"ils/elles": "auront documenté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous documentiez",
+			"qu'il/elle": "documente",
+			"qu'ils/elles": "documentent"
+		},
+		"imparfait": {
+			"que": "vous documentassiez",
+			"qu'il/elle": "documentât",
+			"qu'ils/elles": "documentassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse documenté",
+			"que": "vous eussiez documenté",
+			"qu'il/elle": "eût documenté",
+			"qu'ils/elles": "eussent documenté"
+		},
+		"passé": {
+			"j'": "aie documenté",
+			"que": "vous ayez documenté",
+			"qu'il/elle": "ait documenté",
+			"qu'ils/elles": "aient documenté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "documenterais",
+			"tu": "documenterais",
+			"il/elle": "documenterait",
+			"nous": "documenterions",
+			"vous": "documenteriez",
+			"ils/elles": "documenteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais documenté",
+			"tu": "aurais documenté",
+			"il/elle": "aurait documenté",
+			"nous": "aurions documenté",
+			"vous": "auriez documenté",
+			"ils/elles": "auraient documenté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse documenté",
+			"tu": "eusses documenté",
+			"il/elle": "eût documenté",
+			"nous": "eussions documenté",
+			"vous": "eussiez documenté",
+			"ils/elles": "eussent documenté"
+		}
+	},
+	"participe": {
+		"présent": { "documentant": "" },
+		"passé composé": { "ayant": "documenté" },
+		"passé": {
+			"masc.sg.:": "documenté",
+			"masc.pl.:": "documentés",
+			"fém.sg.:": "documentée",
+			"fém.pl.:": "documentées"
+		}
+	},
+	"imperatif": {
+		"présent": { "documente": "", "documentons": "", "documentez": "" },
+		"passé": { "aie": "documenté", "ayons": "documenté", "ayez": "documenté" }
+	},
+	"infinitif": {
+		"présent": { "documenter": "" },
+		"passé": { "avoir": "documenté" }
+	}
+}

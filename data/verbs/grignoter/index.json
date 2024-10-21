@@ -1,0 +1,141 @@
+{
+	"name": "grignoter",
+	"definition": "snack; nibble; eat; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se grignoter/ne pas grignoter/ne pas se grignoter",
+	"indicatif": {
+		"présent": {
+			"je": "grignote",
+			"tu": "grignotes",
+			"il/elle": "grignote",
+			"nous": "grignotons",
+			"vous": "grignotez",
+			"ils/elles": "grignotent"
+		},
+		"imparfait": {
+			"je": "grignotais",
+			"tu": "grignotais",
+			"il/elle": "grignotait",
+			"nous": "grignotions",
+			"vous": "grignotiez",
+			"ils/elles": "grignotaient"
+		},
+		"futur": {
+			"je": "grignoterai",
+			"tu": "grignoteras",
+			"il/elle": "grignotera",
+			"nous": "grignoterons",
+			"vous": "grignoterez",
+			"ils/elles": "grignoteront"
+		},
+		"passé simple": {
+			"je": "grignotai",
+			"tu": "grignotas",
+			"il/elle": "grignota",
+			"nous": "grignotâmes",
+			"vous": "grignotâtes",
+			"ils/elles": "grignotèrent"
+		},
+		"passé composé": {
+			"j'": "ai grignoté",
+			"tu": "as grignoté",
+			"il/elle": "a grignoté",
+			"nous": "avons grignoté",
+			"vous": "avez grignoté",
+			"ils/elles": "ont grignoté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais grignoté",
+			"tu": "avais grignoté",
+			"il/elle": "avait grignoté",
+			"nous": "avions grignoté",
+			"vous": "aviez grignoté",
+			"ils/elles": "avaient grignoté"
+		},
+		"passé antérieur": {
+			"j'": "eus grignoté",
+			"tu": "eus grignoté",
+			"il/elle": "eut grignoté",
+			"nous": "eûmes grignoté",
+			"vous": "eûtes grignoté",
+			"ils/elles": "eurent grignoté"
+		},
+		"futur antérieur": {
+			"j'": "aurai grignoté",
+			"tu": "auras grignoté",
+			"il/elle": "aura grignoté",
+			"nous": "aurons grignoté",
+			"vous": "aurez grignoté",
+			"ils/elles": "auront grignoté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous grignotiez",
+			"qu'il/elle": "grignote",
+			"qu'ils/elles": "grignotent"
+		},
+		"imparfait": {
+			"que": "vous grignotassiez",
+			"qu'il/elle": "grignotât",
+			"qu'ils/elles": "grignotassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse grignoté",
+			"que": "vous eussiez grignoté",
+			"qu'il/elle": "eût grignoté",
+			"qu'ils/elles": "eussent grignoté"
+		},
+		"passé": {
+			"j'": "aie grignoté",
+			"que": "vous ayez grignoté",
+			"qu'il/elle": "ait grignoté",
+			"qu'ils/elles": "aient grignoté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "grignoterais",
+			"tu": "grignoterais",
+			"il/elle": "grignoterait",
+			"nous": "grignoterions",
+			"vous": "grignoteriez",
+			"ils/elles": "grignoteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais grignoté",
+			"tu": "aurais grignoté",
+			"il/elle": "aurait grignoté",
+			"nous": "aurions grignoté",
+			"vous": "auriez grignoté",
+			"ils/elles": "auraient grignoté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse grignoté",
+			"tu": "eusses grignoté",
+			"il/elle": "eût grignoté",
+			"nous": "eussions grignoté",
+			"vous": "eussiez grignoté",
+			"ils/elles": "eussent grignoté"
+		}
+	},
+	"participe": {
+		"présent": { "grignotant": "" },
+		"passé composé": { "ayant": "grignoté" },
+		"passé": {
+			"masc.sg.:": "grignoté",
+			"masc.pl.:": "grignotés",
+			"fém.sg.:": "grignotée",
+			"fém.pl.:": "grignotées"
+		}
+	},
+	"imperatif": {
+		"présent": { "grignote": "", "grignotons": "", "grignotez": "" },
+		"passé": { "aie": "grignoté", "ayons": "grignoté", "ayez": "grignoté" }
+	},
+	"infinitif": {
+		"présent": { "grignoter": "" },
+		"passé": { "avoir": "grignoté" }
+	}
+}

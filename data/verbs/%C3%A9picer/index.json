@@ -1,0 +1,140 @@
+{
+	"name": "épicer",
+	"definition": "spice; season; ...",
+	"model": "commencer",
+	"auxiliary": "avoir",
+	"otherForms": "s'épicer/ne pas épicer/ne pas s'épicer",
+	"indicatif": {
+		"présent": {
+			"j'": "épice",
+			"tu": "épices",
+			"il/elle": "épice",
+			"nous": "épiçons",
+			"vous": "épicez",
+			"ils/elles": "épicent"
+		},
+		"imparfait": {
+			"j'": "épiçais",
+			"tu": "épiçais",
+			"il/elle": "épiçait",
+			"nous": "épicions",
+			"vous": "épiciez",
+			"ils/elles": "épiçaient"
+		},
+		"futur": {
+			"j'": "épicerai",
+			"tu": "épiceras",
+			"il/elle": "épicera",
+			"nous": "épicerons",
+			"vous": "épicerez",
+			"ils/elles": "épiceront"
+		},
+		"passé simple": {
+			"j'": "épiçai",
+			"tu": "épiças",
+			"il/elle": "épiça",
+			"nous": "épiçâmes",
+			"vous": "épiçâtes",
+			"ils/elles": "épicèrent"
+		},
+		"passé composé": {
+			"j'": "ai épicé",
+			"tu": "as épicé",
+			"il/elle": "a épicé",
+			"nous": "avons épicé",
+			"vous": "avez épicé",
+			"ils/elles": "ont épicé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais épicé",
+			"tu": "avais épicé",
+			"il/elle": "avait épicé",
+			"nous": "avions épicé",
+			"vous": "aviez épicé",
+			"ils/elles": "avaient épicé"
+		},
+		"passé antérieur": {
+			"j'": "eus épicé",
+			"tu": "eus épicé",
+			"il/elle": "eut épicé",
+			"nous": "eûmes épicé",
+			"vous": "eûtes épicé",
+			"ils/elles": "eurent épicé"
+		},
+		"futur antérieur": {
+			"j'": "aurai épicé",
+			"tu": "auras épicé",
+			"il/elle": "aura épicé",
+			"nous": "aurons épicé",
+			"vous": "aurez épicé",
+			"ils/elles": "auront épicé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "épice",
+			"que": "vous épiciez",
+			"qu'il/elle": "épice",
+			"qu'ils/elles": "épicent"
+		},
+		"imparfait": {
+			"j'": "épiçasse",
+			"que": "vous épiçassiez",
+			"qu'il/elle": "épiçât",
+			"qu'ils/elles": "épiçassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse épicé",
+			"que": "vous eussiez épicé",
+			"qu'il/elle": "eût épicé",
+			"qu'ils/elles": "eussent épicé"
+		},
+		"passé": {
+			"j'": "aie épicé",
+			"que": "vous ayez épicé",
+			"qu'il/elle": "ait épicé",
+			"qu'ils/elles": "aient épicé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "épicerais",
+			"tu": "épicerais",
+			"il/elle": "épicerait",
+			"nous": "épicerions",
+			"vous": "épiceriez",
+			"ils/elles": "épiceraient"
+		},
+		"passé première forme": {
+			"j'": "aurais épicé",
+			"tu": "aurais épicé",
+			"il/elle": "aurait épicé",
+			"nous": "aurions épicé",
+			"vous": "auriez épicé",
+			"ils/elles": "auraient épicé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse épicé",
+			"tu": "eusses épicé",
+			"il/elle": "eût épicé",
+			"nous": "eussions épicé",
+			"vous": "eussiez épicé",
+			"ils/elles": "eussent épicé"
+		}
+	},
+	"participe": {
+		"présent": { "épiçant": "" },
+		"passé composé": { "ayant": "épicé" },
+		"passé": {
+			"masc.sg.:": "épicé",
+			"masc.pl.:": "épicés",
+			"fém.sg.:": "épicée",
+			"fém.pl.:": "épicées"
+		}
+	},
+	"imperatif": {
+		"présent": { "épice": "", "épiçons": "", "épicez": "" },
+		"passé": { "aie": "épicé", "ayons": "épicé", "ayez": "épicé" }
+	},
+	"infinitif": { "présent": { "épicer": "" }, "passé": { "avoir": "épicé" } }
+}

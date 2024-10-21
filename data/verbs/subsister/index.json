@@ -1,0 +1,141 @@
+{
+	"name": "subsister",
+	"definition": "remain; survive; subsist; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas subsister",
+	"indicatif": {
+		"présent": {
+			"je": "subsiste",
+			"tu": "subsistes",
+			"il/elle": "subsiste",
+			"nous": "subsistons",
+			"vous": "subsistez",
+			"ils/elles": "subsistent"
+		},
+		"imparfait": {
+			"je": "subsistais",
+			"tu": "subsistais",
+			"il/elle": "subsistait",
+			"nous": "subsistions",
+			"vous": "subsistiez",
+			"ils/elles": "subsistaient"
+		},
+		"futur": {
+			"je": "subsisterai",
+			"tu": "subsisteras",
+			"il/elle": "subsistera",
+			"nous": "subsisterons",
+			"vous": "subsisterez",
+			"ils/elles": "subsisteront"
+		},
+		"passé simple": {
+			"je": "subsistai",
+			"tu": "subsistas",
+			"il/elle": "subsista",
+			"nous": "subsistâmes",
+			"vous": "subsistâtes",
+			"ils/elles": "subsistèrent"
+		},
+		"passé composé": {
+			"j'": "ai subsisté",
+			"tu": "as subsisté",
+			"il/elle": "a subsisté",
+			"nous": "avons subsisté",
+			"vous": "avez subsisté",
+			"ils/elles": "ont subsisté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais subsisté",
+			"tu": "avais subsisté",
+			"il/elle": "avait subsisté",
+			"nous": "avions subsisté",
+			"vous": "aviez subsisté",
+			"ils/elles": "avaient subsisté"
+		},
+		"passé antérieur": {
+			"j'": "eus subsisté",
+			"tu": "eus subsisté",
+			"il/elle": "eut subsisté",
+			"nous": "eûmes subsisté",
+			"vous": "eûtes subsisté",
+			"ils/elles": "eurent subsisté"
+		},
+		"futur antérieur": {
+			"j'": "aurai subsisté",
+			"tu": "auras subsisté",
+			"il/elle": "aura subsisté",
+			"nous": "aurons subsisté",
+			"vous": "aurez subsisté",
+			"ils/elles": "auront subsisté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous subsistiez",
+			"qu'il/elle": "subsiste",
+			"qu'ils/elles": "subsistent"
+		},
+		"imparfait": {
+			"que": "vous subsistassiez",
+			"qu'il/elle": "subsistât",
+			"qu'ils/elles": "subsistassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse subsisté",
+			"que": "vous eussiez subsisté",
+			"qu'il/elle": "eût subsisté",
+			"qu'ils/elles": "eussent subsisté"
+		},
+		"passé": {
+			"j'": "aie subsisté",
+			"que": "vous ayez subsisté",
+			"qu'il/elle": "ait subsisté",
+			"qu'ils/elles": "aient subsisté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "subsisterais",
+			"tu": "subsisterais",
+			"il/elle": "subsisterait",
+			"nous": "subsisterions",
+			"vous": "subsisteriez",
+			"ils/elles": "subsisteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais subsisté",
+			"tu": "aurais subsisté",
+			"il/elle": "aurait subsisté",
+			"nous": "aurions subsisté",
+			"vous": "auriez subsisté",
+			"ils/elles": "auraient subsisté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse subsisté",
+			"tu": "eusses subsisté",
+			"il/elle": "eût subsisté",
+			"nous": "eussions subsisté",
+			"vous": "eussiez subsisté",
+			"ils/elles": "eussent subsisté"
+		}
+	},
+	"participe": {
+		"présent": { "subsistant": "" },
+		"passé composé": { "ayant": "subsisté" },
+		"passé": {
+			"masc.sg.:": "subsisté",
+			"masc.pl.:": "subsistés",
+			"fém.sg.:": "subsistée",
+			"fém.pl.:": "subsistées"
+		}
+	},
+	"imperatif": {
+		"présent": { "subsiste": "", "subsistons": "", "subsistez": "" },
+		"passé": { "aie": "subsisté", "ayons": "subsisté", "ayez": "subsisté" }
+	},
+	"infinitif": {
+		"présent": { "subsister": "" },
+		"passé": { "avoir": "subsisté" }
+	}
+}

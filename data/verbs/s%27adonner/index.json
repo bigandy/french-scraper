@@ -1,0 +1,155 @@
+{
+	"name": "s'adonner",
+	"definition": "indulge; engage; enjoy; ...",
+	"model": "marcher",
+	"auxiliary": "être",
+	"otherForms": "ne pas s'adonner",
+	"indicatif": {
+		"présent": {
+			"je": "m'adonne",
+			"tu": "t'adonnes",
+			"il/elle": "s'adonne",
+			"nous": "nous adonnons",
+			"vous": "vous adonnez",
+			"ils/elles": "s'adonnent"
+		},
+		"imparfait": {
+			"je": "m'adonnais",
+			"tu": "t'adonnais",
+			"il/elle": "s'adonnait",
+			"nous": "nous adonnions",
+			"vous": "vous adonniez",
+			"ils/elles": "s'adonnaient"
+		},
+		"futur": {
+			"je": "m'adonnerai",
+			"tu": "t'adonneras",
+			"il/elle": "s'adonnera",
+			"nous": "nous adonnerons",
+			"vous": "vous adonnerez",
+			"ils/elles": "s'adonneront"
+		},
+		"passé simple": {
+			"je": "m'adonnai",
+			"tu": "t'adonnas",
+			"il/elle": "s'adonna",
+			"nous": "nous adonnâmes",
+			"vous": "vous adonnâtes",
+			"ils/elles": "s'adonnèrent"
+		},
+		"passé composé": {
+			"je": "me suis adonné",
+			"tu": "t'es adonné",
+			"il": "s'est adonné",
+			"elle": "s'est adonnée",
+			"nous": "nous sommes adonnés",
+			"vous": "vous êtes adonnés",
+			"ils": "se sont adonnés",
+			"elles": "se sont adonnées"
+		},
+		"plus-que-parfait": {
+			"je": "m'étais adonné",
+			"tu": "t'étais adonné",
+			"il": "s'était adonné",
+			"elle": "s'était adonnée",
+			"nous": "nous étions adonnés",
+			"vous": "vous étiez adonnés",
+			"ils": "s'étaient adonnés",
+			"elles": "s'étaient adonnées"
+		},
+		"passé antérieur": {
+			"je": "me fus adonné",
+			"tu": "te fus adonné",
+			"il": "se fut adonné",
+			"elle": "se fut adonnée",
+			"nous": "nous fûmes adonnés",
+			"vous": "vous fûtes adonnés",
+			"ils": "se furent adonnés",
+			"elles": "se furent adonnées"
+		},
+		"futur antérieur": {
+			"je": "me serai adonné",
+			"tu": "te seras adonné",
+			"il": "se sera adonné",
+			"elle": "se sera adonnée",
+			"nous": "nous serons adonnés",
+			"vous": "vous serez adonnés",
+			"ils": "se seront adonnés",
+			"elles": "se seront adonnées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous vous adonniez",
+			"qu'il/elle": "s'adonne",
+			"qu'ils/elles": "s'adonnent"
+		},
+		"imparfait": {
+			"que": "vous vous adonnassiez",
+			"qu'il/elle": "s'adonnât",
+			"qu'ils/elles": "s'adonnassent"
+		},
+		"plus-que-parfait": {
+			"que": "vous vous fussiez adonnés",
+			"qu'il": "se fût adonné",
+			"qu'elle": "se fût adonnée",
+			"qu'ils": "se fussent adonnés",
+			"qu'elles": "se fussent adonnées"
+		},
+		"passé": {
+			"que": "vous vous soyez adonnés",
+			"qu'il": "se soit adonné",
+			"qu'elle": "se soit adonnée",
+			"qu'ils": "se soient adonnés",
+			"qu'elles": "se soient adonnées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "m'adonnerais",
+			"tu": "t'adonnerais",
+			"il/elle": "s'adonnerait",
+			"nous": "nous adonnerions",
+			"vous": "vous adonneriez",
+			"ils/elles": "s'adonneraient"
+		},
+		"passé première forme": {
+			"je": "me serais adonné",
+			"tu": "te serais adonné",
+			"il": "se serait adonné",
+			"elle": "se serait adonnée",
+			"nous": "nous serions adonnés",
+			"vous": "vous seriez adonnés",
+			"ils": "se seraient adonnés",
+			"elles": "se seraient adonnées"
+		},
+		"passé deuxième forme": {
+			"je": "me fusse adonné",
+			"tu": "te fusses adonné",
+			"il": "se fût adonné",
+			"elle": "se fût adonnée",
+			"nous": "nous fussions adonnés",
+			"vous": "vous fussiez adonnés",
+			"ils": "se fussent adonnés",
+			"elles": "se fussent adonnées"
+		}
+	},
+	"participe": {
+		"présent": { "s'adonnant": "" },
+		"passé composé": { "s'étant": "adonné" },
+		"passé": {
+			"masc.sg.:": "adonné",
+			"masc.pl.:": "adonnés",
+			"fém.sg.:": "adonnée",
+			"fém.pl.:": "adonnées"
+		}
+	},
+	"imperatif": {
+		"présent": { "adonne-toi": "", "adonnons-nous": "", "adonnez-vous": "" },
+		"passé": {}
+	},
+	"infinitif": {
+		"présent": { "s'adonner": "" },
+		"passé": { "s'être": "adonné" }
+	}
+}

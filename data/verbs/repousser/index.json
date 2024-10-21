@@ -1,0 +1,141 @@
+{
+	"name": "repousser",
+	"definition": "repel; postpone; push back; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se repousser/ne pas repousser/ne pas se repousser",
+	"indicatif": {
+		"présent": {
+			"je": "repousse",
+			"tu": "repousses",
+			"il/elle": "repousse",
+			"nous": "repoussons",
+			"vous": "repoussez",
+			"ils/elles": "repoussent"
+		},
+		"imparfait": {
+			"je": "repoussais",
+			"tu": "repoussais",
+			"il/elle": "repoussait",
+			"nous": "repoussions",
+			"vous": "repoussiez",
+			"ils/elles": "repoussaient"
+		},
+		"futur": {
+			"je": "repousserai",
+			"tu": "repousseras",
+			"il/elle": "repoussera",
+			"nous": "repousserons",
+			"vous": "repousserez",
+			"ils/elles": "repousseront"
+		},
+		"passé simple": {
+			"je": "repoussai",
+			"tu": "repoussas",
+			"il/elle": "repoussa",
+			"nous": "repoussâmes",
+			"vous": "repoussâtes",
+			"ils/elles": "repoussèrent"
+		},
+		"passé composé": {
+			"j'": "ai repoussé",
+			"tu": "as repoussé",
+			"il/elle": "a repoussé",
+			"nous": "avons repoussé",
+			"vous": "avez repoussé",
+			"ils/elles": "ont repoussé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais repoussé",
+			"tu": "avais repoussé",
+			"il/elle": "avait repoussé",
+			"nous": "avions repoussé",
+			"vous": "aviez repoussé",
+			"ils/elles": "avaient repoussé"
+		},
+		"passé antérieur": {
+			"j'": "eus repoussé",
+			"tu": "eus repoussé",
+			"il/elle": "eut repoussé",
+			"nous": "eûmes repoussé",
+			"vous": "eûtes repoussé",
+			"ils/elles": "eurent repoussé"
+		},
+		"futur antérieur": {
+			"j'": "aurai repoussé",
+			"tu": "auras repoussé",
+			"il/elle": "aura repoussé",
+			"nous": "aurons repoussé",
+			"vous": "aurez repoussé",
+			"ils/elles": "auront repoussé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous repoussiez",
+			"qu'il/elle": "repousse",
+			"qu'ils/elles": "repoussent"
+		},
+		"imparfait": {
+			"que": "vous repoussassiez",
+			"qu'il/elle": "repoussât",
+			"qu'ils/elles": "repoussassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse repoussé",
+			"que": "vous eussiez repoussé",
+			"qu'il/elle": "eût repoussé",
+			"qu'ils/elles": "eussent repoussé"
+		},
+		"passé": {
+			"j'": "aie repoussé",
+			"que": "vous ayez repoussé",
+			"qu'il/elle": "ait repoussé",
+			"qu'ils/elles": "aient repoussé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "repousserais",
+			"tu": "repousserais",
+			"il/elle": "repousserait",
+			"nous": "repousserions",
+			"vous": "repousseriez",
+			"ils/elles": "repousseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais repoussé",
+			"tu": "aurais repoussé",
+			"il/elle": "aurait repoussé",
+			"nous": "aurions repoussé",
+			"vous": "auriez repoussé",
+			"ils/elles": "auraient repoussé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse repoussé",
+			"tu": "eusses repoussé",
+			"il/elle": "eût repoussé",
+			"nous": "eussions repoussé",
+			"vous": "eussiez repoussé",
+			"ils/elles": "eussent repoussé"
+		}
+	},
+	"participe": {
+		"présent": { "repoussant": "" },
+		"passé composé": { "ayant": "repoussé" },
+		"passé": {
+			"masc.sg.:": "repoussé",
+			"masc.pl.:": "repoussés",
+			"fém.sg.:": "repoussée",
+			"fém.pl.:": "repoussées"
+		}
+	},
+	"imperatif": {
+		"présent": { "repousse": "", "repoussons": "", "repoussez": "" },
+		"passé": { "aie": "repoussé", "ayons": "repoussé", "ayez": "repoussé" }
+	},
+	"infinitif": {
+		"présent": { "repousser": "" },
+		"passé": { "avoir": "repoussé" }
+	}
+}

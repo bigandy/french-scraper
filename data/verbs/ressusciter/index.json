@@ -1,0 +1,194 @@
+{
+	"name": "ressusciter",
+	"definition": "resurrect; revive; resuscitate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "se ressusciter/ne pas ressusciter/ne pas se ressusciter",
+	"indicatif": {
+		"présent": {
+			"je": "ressuscite",
+			"tu": "ressuscites",
+			"il/elle": "ressuscite",
+			"nous": "ressuscitons",
+			"vous": "ressuscitez",
+			"ils/elles": "ressuscitent"
+		},
+		"imparfait": {
+			"je": "ressuscitais",
+			"tu": "ressuscitais",
+			"il/elle": "ressuscitait",
+			"nous": "ressuscitions",
+			"vous": "ressuscitiez",
+			"ils/elles": "ressuscitaient"
+		},
+		"futur": {
+			"je": "ressusciterai",
+			"tu": "ressusciteras",
+			"il/elle": "ressuscitera",
+			"nous": "ressusciterons",
+			"vous": "ressusciterez",
+			"ils/elles": "ressusciteront"
+		},
+		"passé simple": {
+			"je": "ressuscitai",
+			"tu": "ressuscitas",
+			"il/elle": "ressuscita",
+			"nous": "ressuscitâmes",
+			"vous": "ressuscitâtes",
+			"ils/elles": "ressuscitèrent"
+		},
+		"passé composé": {
+			"j'": "ai ressuscité",
+			"tu": "es ressuscité",
+			"il/elle": "a ressuscité",
+			"nous": "sommes ressuscités",
+			"vous": "êtes ressuscités",
+			"ils/elles": "ont ressuscité",
+			"": "",
+			"je": "suis ressuscité",
+			"il": "est ressuscité",
+			"elle": "est ressuscitée",
+			"ils": "sont ressuscités",
+			"elles": "sont ressuscitées"
+		},
+		"plus-que-parfait": {
+			"j'": "étais ressuscité",
+			"tu": "étais ressuscité",
+			"il/elle": "avait ressuscité",
+			"nous": "étions ressuscités",
+			"vous": "étiez ressuscités",
+			"ils/elles": "avaient ressuscité",
+			"": "",
+			"il": "était ressuscité",
+			"elle": "était ressuscitée",
+			"ils": "étaient ressuscités",
+			"elles": "étaient ressuscitées"
+		},
+		"passé antérieur": {
+			"j'": "eus ressuscité",
+			"tu": "fus ressuscité",
+			"il/elle": "eut ressuscité",
+			"nous": "fûmes ressuscités",
+			"vous": "fûtes ressuscités",
+			"ils/elles": "eurent ressuscité",
+			"": "",
+			"je": "fus ressuscité",
+			"il": "fut ressuscité",
+			"elle": "fut ressuscitée",
+			"ils": "furent ressuscités",
+			"elles": "furent ressuscitées"
+		},
+		"futur antérieur": {
+			"j'": "aurai ressuscité",
+			"tu": "seras ressuscité",
+			"il/elle": "aura ressuscité",
+			"nous": "serons ressuscités",
+			"vous": "serez ressuscités",
+			"ils/elles": "auront ressuscité",
+			"": "",
+			"je": "serai ressuscité",
+			"il": "sera ressuscité",
+			"elle": "sera ressuscitée",
+			"ils": "seront ressuscités",
+			"elles": "seront ressuscitées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous ressuscitiez",
+			"qu'il/elle": "ressuscite",
+			"qu'ils/elles": "ressuscitent"
+		},
+		"imparfait": {
+			"que": "vous ressuscitassiez",
+			"qu'il/elle": "ressuscitât",
+			"qu'ils/elles": "ressuscitassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse ressuscité",
+			"que": "vous fussiez ressuscités",
+			"qu'il/elle": "eût ressuscité",
+			"qu'ils/elles": "eussent ressuscité",
+			"": "",
+			"qu'il": "fût ressuscité",
+			"qu'elle": "fût ressuscitée",
+			"qu'ils": "fussent ressuscités",
+			"qu'elles": "fussent ressuscitées"
+		},
+		"passé": {
+			"j'": "aie ressuscité",
+			"que": "vous soyez ressuscités",
+			"qu'il/elle": "ait ressuscité",
+			"qu'ils/elles": "aient ressuscité",
+			"": "",
+			"qu'il": "soit ressuscité",
+			"qu'elle": "soit ressuscitée",
+			"qu'ils": "soient ressuscités",
+			"qu'elles": "soient ressuscitées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "ressusciterais",
+			"tu": "ressusciterais",
+			"il/elle": "ressusciterait",
+			"nous": "ressusciterions",
+			"vous": "ressusciteriez",
+			"ils/elles": "ressusciteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais ressuscité",
+			"tu": "serais ressuscité",
+			"il/elle": "aurait ressuscité",
+			"nous": "serions ressuscités",
+			"vous": "seriez ressuscités",
+			"ils/elles": "auraient ressuscité",
+			"": "",
+			"je": "serais ressuscité",
+			"il": "serait ressuscité",
+			"elle": "serait ressuscitée",
+			"ils": "seraient ressuscités",
+			"elles": "seraient ressuscitées"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse ressuscité",
+			"tu": "fusses ressuscité",
+			"il/elle": "eût ressuscité",
+			"nous": "fussions ressuscités",
+			"vous": "fussiez ressuscités",
+			"ils/elles": "eussent ressuscité",
+			"": "",
+			"je": "fusse ressuscité",
+			"il": "fût ressuscité",
+			"elle": "fût ressuscitée",
+			"ils": "fussent ressuscités",
+			"elles": "fussent ressuscitées"
+		}
+	},
+	"participe": {
+		"présent": { "ressuscitant": "" },
+		"passé composé": { "ayant": "ressuscité", "": "", "étant": "ressuscitée" },
+		"passé": {
+			"masc.sg.:": "ressuscité",
+			"masc.pl.:": "ressuscités",
+			"fém.sg.:": "ressuscitée",
+			"fém.pl.:": "ressuscitées"
+		}
+	},
+	"imperatif": {
+		"présent": { "ressuscite": "", "ressuscitons": "", "ressuscitez": "" },
+		"passé": {
+			"aie": "ressuscité",
+			"ayons": "ressuscité",
+			"ayez": "ressuscité",
+			"": "",
+			"sois": "ressuscité",
+			"soyons": "ressuscité",
+			"soyez": "ressuscité"
+		}
+	},
+	"infinitif": {
+		"présent": { "ressusciter": "" },
+		"passé": { "avoir": "ressuscité", "": "", "être": "ressuscité" }
+	}
+}

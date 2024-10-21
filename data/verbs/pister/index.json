@@ -1,0 +1,138 @@
+{
+	"name": "pister",
+	"definition": "track; trace; trail; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se pister/ne pas pister/ne pas se pister",
+	"indicatif": {
+		"présent": {
+			"je": "piste",
+			"tu": "pistes",
+			"il/elle": "piste",
+			"nous": "pistons",
+			"vous": "pistez",
+			"ils/elles": "pistent"
+		},
+		"imparfait": {
+			"je": "pistais",
+			"tu": "pistais",
+			"il/elle": "pistait",
+			"nous": "pistions",
+			"vous": "pistiez",
+			"ils/elles": "pistaient"
+		},
+		"futur": {
+			"je": "pisterai",
+			"tu": "pisteras",
+			"il/elle": "pistera",
+			"nous": "pisterons",
+			"vous": "pisterez",
+			"ils/elles": "pisteront"
+		},
+		"passé simple": {
+			"je": "pistai",
+			"tu": "pistas",
+			"il/elle": "pista",
+			"nous": "pistâmes",
+			"vous": "pistâtes",
+			"ils/elles": "pistèrent"
+		},
+		"passé composé": {
+			"j'": "ai pisté",
+			"tu": "as pisté",
+			"il/elle": "a pisté",
+			"nous": "avons pisté",
+			"vous": "avez pisté",
+			"ils/elles": "ont pisté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais pisté",
+			"tu": "avais pisté",
+			"il/elle": "avait pisté",
+			"nous": "avions pisté",
+			"vous": "aviez pisté",
+			"ils/elles": "avaient pisté"
+		},
+		"passé antérieur": {
+			"j'": "eus pisté",
+			"tu": "eus pisté",
+			"il/elle": "eut pisté",
+			"nous": "eûmes pisté",
+			"vous": "eûtes pisté",
+			"ils/elles": "eurent pisté"
+		},
+		"futur antérieur": {
+			"j'": "aurai pisté",
+			"tu": "auras pisté",
+			"il/elle": "aura pisté",
+			"nous": "aurons pisté",
+			"vous": "aurez pisté",
+			"ils/elles": "auront pisté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous pistiez",
+			"qu'il/elle": "piste",
+			"qu'ils/elles": "pistent"
+		},
+		"imparfait": {
+			"que": "vous pistassiez",
+			"qu'il/elle": "pistât",
+			"qu'ils/elles": "pistassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse pisté",
+			"que": "vous eussiez pisté",
+			"qu'il/elle": "eût pisté",
+			"qu'ils/elles": "eussent pisté"
+		},
+		"passé": {
+			"j'": "aie pisté",
+			"que": "vous ayez pisté",
+			"qu'il/elle": "ait pisté",
+			"qu'ils/elles": "aient pisté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "pisterais",
+			"tu": "pisterais",
+			"il/elle": "pisterait",
+			"nous": "pisterions",
+			"vous": "pisteriez",
+			"ils/elles": "pisteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais pisté",
+			"tu": "aurais pisté",
+			"il/elle": "aurait pisté",
+			"nous": "aurions pisté",
+			"vous": "auriez pisté",
+			"ils/elles": "auraient pisté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse pisté",
+			"tu": "eusses pisté",
+			"il/elle": "eût pisté",
+			"nous": "eussions pisté",
+			"vous": "eussiez pisté",
+			"ils/elles": "eussent pisté"
+		}
+	},
+	"participe": {
+		"présent": { "pistant": "" },
+		"passé composé": { "ayant": "pisté" },
+		"passé": {
+			"masc.sg.:": "pisté",
+			"masc.pl.:": "pistés",
+			"fém.sg.:": "pistée",
+			"fém.pl.:": "pistées"
+		}
+	},
+	"imperatif": {
+		"présent": { "piste": "", "pistons": "", "pistez": "" },
+		"passé": { "aie": "pisté", "ayons": "pisté", "ayez": "pisté" }
+	},
+	"infinitif": { "présent": { "pister": "" }, "passé": { "avoir": "pisté" } }
+}

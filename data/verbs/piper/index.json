@@ -1,0 +1,138 @@
+{
+	"name": "piper",
+	"definition": "load; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se piper/ne pas piper/ne pas se piper",
+	"indicatif": {
+		"présent": {
+			"je": "pipe",
+			"tu": "pipes",
+			"il/elle": "pipe",
+			"nous": "pipons",
+			"vous": "pipez",
+			"ils/elles": "pipent"
+		},
+		"imparfait": {
+			"je": "pipais",
+			"tu": "pipais",
+			"il/elle": "pipait",
+			"nous": "pipions",
+			"vous": "pipiez",
+			"ils/elles": "pipaient"
+		},
+		"futur": {
+			"je": "piperai",
+			"tu": "piperas",
+			"il/elle": "pipera",
+			"nous": "piperons",
+			"vous": "piperez",
+			"ils/elles": "piperont"
+		},
+		"passé simple": {
+			"je": "pipai",
+			"tu": "pipas",
+			"il/elle": "pipa",
+			"nous": "pipâmes",
+			"vous": "pipâtes",
+			"ils/elles": "pipèrent"
+		},
+		"passé composé": {
+			"j'": "ai pipé",
+			"tu": "as pipé",
+			"il/elle": "a pipé",
+			"nous": "avons pipé",
+			"vous": "avez pipé",
+			"ils/elles": "ont pipé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais pipé",
+			"tu": "avais pipé",
+			"il/elle": "avait pipé",
+			"nous": "avions pipé",
+			"vous": "aviez pipé",
+			"ils/elles": "avaient pipé"
+		},
+		"passé antérieur": {
+			"j'": "eus pipé",
+			"tu": "eus pipé",
+			"il/elle": "eut pipé",
+			"nous": "eûmes pipé",
+			"vous": "eûtes pipé",
+			"ils/elles": "eurent pipé"
+		},
+		"futur antérieur": {
+			"j'": "aurai pipé",
+			"tu": "auras pipé",
+			"il/elle": "aura pipé",
+			"nous": "aurons pipé",
+			"vous": "aurez pipé",
+			"ils/elles": "auront pipé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous pipiez",
+			"qu'il/elle": "pipe",
+			"qu'ils/elles": "pipent"
+		},
+		"imparfait": {
+			"que": "vous pipassiez",
+			"qu'il/elle": "pipât",
+			"qu'ils/elles": "pipassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse pipé",
+			"que": "vous eussiez pipé",
+			"qu'il/elle": "eût pipé",
+			"qu'ils/elles": "eussent pipé"
+		},
+		"passé": {
+			"j'": "aie pipé",
+			"que": "vous ayez pipé",
+			"qu'il/elle": "ait pipé",
+			"qu'ils/elles": "aient pipé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "piperais",
+			"tu": "piperais",
+			"il/elle": "piperait",
+			"nous": "piperions",
+			"vous": "piperiez",
+			"ils/elles": "piperaient"
+		},
+		"passé première forme": {
+			"j'": "aurais pipé",
+			"tu": "aurais pipé",
+			"il/elle": "aurait pipé",
+			"nous": "aurions pipé",
+			"vous": "auriez pipé",
+			"ils/elles": "auraient pipé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse pipé",
+			"tu": "eusses pipé",
+			"il/elle": "eût pipé",
+			"nous": "eussions pipé",
+			"vous": "eussiez pipé",
+			"ils/elles": "eussent pipé"
+		}
+	},
+	"participe": {
+		"présent": { "pipant": "" },
+		"passé composé": { "ayant": "pipé" },
+		"passé": {
+			"masc.sg.:": "pipé",
+			"masc.pl.:": "pipés",
+			"fém.sg.:": "pipée",
+			"fém.pl.:": "pipées"
+		}
+	},
+	"imperatif": {
+		"présent": { "pipe": "", "pipons": "", "pipez": "" },
+		"passé": { "aie": "pipé", "ayons": "pipé", "ayez": "pipé" }
+	},
+	"infinitif": { "présent": { "piper": "" }, "passé": { "avoir": "pipé" } }
+}

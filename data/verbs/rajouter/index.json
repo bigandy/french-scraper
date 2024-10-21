@@ -1,0 +1,141 @@
+{
+	"name": "rajouter",
+	"definition": "add; pile on; throw in; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se rajouter/ne pas rajouter/ne pas se rajouter",
+	"indicatif": {
+		"présent": {
+			"je": "rajoute",
+			"tu": "rajoutes",
+			"il/elle": "rajoute",
+			"nous": "rajoutons",
+			"vous": "rajoutez",
+			"ils/elles": "rajoutent"
+		},
+		"imparfait": {
+			"je": "rajoutais",
+			"tu": "rajoutais",
+			"il/elle": "rajoutait",
+			"nous": "rajoutions",
+			"vous": "rajoutiez",
+			"ils/elles": "rajoutaient"
+		},
+		"futur": {
+			"je": "rajouterai",
+			"tu": "rajouteras",
+			"il/elle": "rajoutera",
+			"nous": "rajouterons",
+			"vous": "rajouterez",
+			"ils/elles": "rajouteront"
+		},
+		"passé simple": {
+			"je": "rajoutai",
+			"tu": "rajoutas",
+			"il/elle": "rajouta",
+			"nous": "rajoutâmes",
+			"vous": "rajoutâtes",
+			"ils/elles": "rajoutèrent"
+		},
+		"passé composé": {
+			"j'": "ai rajouté",
+			"tu": "as rajouté",
+			"il/elle": "a rajouté",
+			"nous": "avons rajouté",
+			"vous": "avez rajouté",
+			"ils/elles": "ont rajouté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais rajouté",
+			"tu": "avais rajouté",
+			"il/elle": "avait rajouté",
+			"nous": "avions rajouté",
+			"vous": "aviez rajouté",
+			"ils/elles": "avaient rajouté"
+		},
+		"passé antérieur": {
+			"j'": "eus rajouté",
+			"tu": "eus rajouté",
+			"il/elle": "eut rajouté",
+			"nous": "eûmes rajouté",
+			"vous": "eûtes rajouté",
+			"ils/elles": "eurent rajouté"
+		},
+		"futur antérieur": {
+			"j'": "aurai rajouté",
+			"tu": "auras rajouté",
+			"il/elle": "aura rajouté",
+			"nous": "aurons rajouté",
+			"vous": "aurez rajouté",
+			"ils/elles": "auront rajouté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous rajoutiez",
+			"qu'il/elle": "rajoute",
+			"qu'ils/elles": "rajoutent"
+		},
+		"imparfait": {
+			"que": "vous rajoutassiez",
+			"qu'il/elle": "rajoutât",
+			"qu'ils/elles": "rajoutassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse rajouté",
+			"que": "vous eussiez rajouté",
+			"qu'il/elle": "eût rajouté",
+			"qu'ils/elles": "eussent rajouté"
+		},
+		"passé": {
+			"j'": "aie rajouté",
+			"que": "vous ayez rajouté",
+			"qu'il/elle": "ait rajouté",
+			"qu'ils/elles": "aient rajouté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "rajouterais",
+			"tu": "rajouterais",
+			"il/elle": "rajouterait",
+			"nous": "rajouterions",
+			"vous": "rajouteriez",
+			"ils/elles": "rajouteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais rajouté",
+			"tu": "aurais rajouté",
+			"il/elle": "aurait rajouté",
+			"nous": "aurions rajouté",
+			"vous": "auriez rajouté",
+			"ils/elles": "auraient rajouté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse rajouté",
+			"tu": "eusses rajouté",
+			"il/elle": "eût rajouté",
+			"nous": "eussions rajouté",
+			"vous": "eussiez rajouté",
+			"ils/elles": "eussent rajouté"
+		}
+	},
+	"participe": {
+		"présent": { "rajoutant": "" },
+		"passé composé": { "ayant": "rajouté" },
+		"passé": {
+			"masc.sg.:": "rajouté",
+			"masc.pl.:": "rajoutés",
+			"fém.sg.:": "rajoutée",
+			"fém.pl.:": "rajoutées"
+		}
+	},
+	"imperatif": {
+		"présent": { "rajoute": "", "rajoutons": "", "rajoutez": "" },
+		"passé": { "aie": "rajouté", "ayons": "rajouté", "ayez": "rajouté" }
+	},
+	"infinitif": {
+		"présent": { "rajouter": "" },
+		"passé": { "avoir": "rajouté" }
+	}
+}

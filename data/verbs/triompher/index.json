@@ -1,0 +1,141 @@
+{
+	"name": "triompher",
+	"definition": "triumph; overcome; prevail; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se triompher/ne pas triompher/ne pas se triompher",
+	"indicatif": {
+		"présent": {
+			"je": "triomphe",
+			"tu": "triomphes",
+			"il/elle": "triomphe",
+			"nous": "triomphons",
+			"vous": "triomphez",
+			"ils/elles": "triomphent"
+		},
+		"imparfait": {
+			"je": "triomphais",
+			"tu": "triomphais",
+			"il/elle": "triomphait",
+			"nous": "triomphions",
+			"vous": "triomphiez",
+			"ils/elles": "triomphaient"
+		},
+		"futur": {
+			"je": "triompherai",
+			"tu": "triompheras",
+			"il/elle": "triomphera",
+			"nous": "triompherons",
+			"vous": "triompherez",
+			"ils/elles": "triompheront"
+		},
+		"passé simple": {
+			"je": "triomphai",
+			"tu": "triomphas",
+			"il/elle": "triompha",
+			"nous": "triomphâmes",
+			"vous": "triomphâtes",
+			"ils/elles": "triomphèrent"
+		},
+		"passé composé": {
+			"j'": "ai triomphé",
+			"tu": "as triomphé",
+			"il/elle": "a triomphé",
+			"nous": "avons triomphé",
+			"vous": "avez triomphé",
+			"ils/elles": "ont triomphé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais triomphé",
+			"tu": "avais triomphé",
+			"il/elle": "avait triomphé",
+			"nous": "avions triomphé",
+			"vous": "aviez triomphé",
+			"ils/elles": "avaient triomphé"
+		},
+		"passé antérieur": {
+			"j'": "eus triomphé",
+			"tu": "eus triomphé",
+			"il/elle": "eut triomphé",
+			"nous": "eûmes triomphé",
+			"vous": "eûtes triomphé",
+			"ils/elles": "eurent triomphé"
+		},
+		"futur antérieur": {
+			"j'": "aurai triomphé",
+			"tu": "auras triomphé",
+			"il/elle": "aura triomphé",
+			"nous": "aurons triomphé",
+			"vous": "aurez triomphé",
+			"ils/elles": "auront triomphé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous triomphiez",
+			"qu'il/elle": "triomphe",
+			"qu'ils/elles": "triomphent"
+		},
+		"imparfait": {
+			"que": "vous triomphassiez",
+			"qu'il/elle": "triomphât",
+			"qu'ils/elles": "triomphassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse triomphé",
+			"que": "vous eussiez triomphé",
+			"qu'il/elle": "eût triomphé",
+			"qu'ils/elles": "eussent triomphé"
+		},
+		"passé": {
+			"j'": "aie triomphé",
+			"que": "vous ayez triomphé",
+			"qu'il/elle": "ait triomphé",
+			"qu'ils/elles": "aient triomphé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "triompherais",
+			"tu": "triompherais",
+			"il/elle": "triompherait",
+			"nous": "triompherions",
+			"vous": "triompheriez",
+			"ils/elles": "triompheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais triomphé",
+			"tu": "aurais triomphé",
+			"il/elle": "aurait triomphé",
+			"nous": "aurions triomphé",
+			"vous": "auriez triomphé",
+			"ils/elles": "auraient triomphé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse triomphé",
+			"tu": "eusses triomphé",
+			"il/elle": "eût triomphé",
+			"nous": "eussions triomphé",
+			"vous": "eussiez triomphé",
+			"ils/elles": "eussent triomphé"
+		}
+	},
+	"participe": {
+		"présent": { "triomphant": "" },
+		"passé composé": { "ayant": "triomphé" },
+		"passé": {
+			"masc.sg.:": "triomphé",
+			"masc.pl.:": "triomphés",
+			"fém.sg.:": "triomphée",
+			"fém.pl.:": "triomphées"
+		}
+	},
+	"imperatif": {
+		"présent": { "triomphe": "", "triomphons": "", "triomphez": "" },
+		"passé": { "aie": "triomphé", "ayons": "triomphé", "ayez": "triomphé" }
+	},
+	"infinitif": {
+		"présent": { "triompher": "" },
+		"passé": { "avoir": "triomphé" }
+	}
+}

@@ -1,0 +1,143 @@
+{
+	"name": "intenter",
+	"definition": "bring; prosecute; institute; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'intenter/ne pas intenter/ne pas s'intenter",
+	"indicatif": {
+		"présent": {
+			"j'": "intente",
+			"tu": "intentes",
+			"il/elle": "intente",
+			"nous": "intentons",
+			"vous": "intentez",
+			"ils/elles": "intentent"
+		},
+		"imparfait": {
+			"j'": "intentais",
+			"tu": "intentais",
+			"il/elle": "intentait",
+			"nous": "intentions",
+			"vous": "intentiez",
+			"ils/elles": "intentaient"
+		},
+		"futur": {
+			"j'": "intenterai",
+			"tu": "intenteras",
+			"il/elle": "intentera",
+			"nous": "intenterons",
+			"vous": "intenterez",
+			"ils/elles": "intenteront"
+		},
+		"passé simple": {
+			"j'": "intentai",
+			"tu": "intentas",
+			"il/elle": "intenta",
+			"nous": "intentâmes",
+			"vous": "intentâtes",
+			"ils/elles": "intentèrent"
+		},
+		"passé composé": {
+			"j'": "ai intenté",
+			"tu": "as intenté",
+			"il/elle": "a intenté",
+			"nous": "avons intenté",
+			"vous": "avez intenté",
+			"ils/elles": "ont intenté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais intenté",
+			"tu": "avais intenté",
+			"il/elle": "avait intenté",
+			"nous": "avions intenté",
+			"vous": "aviez intenté",
+			"ils/elles": "avaient intenté"
+		},
+		"passé antérieur": {
+			"j'": "eus intenté",
+			"tu": "eus intenté",
+			"il/elle": "eut intenté",
+			"nous": "eûmes intenté",
+			"vous": "eûtes intenté",
+			"ils/elles": "eurent intenté"
+		},
+		"futur antérieur": {
+			"j'": "aurai intenté",
+			"tu": "auras intenté",
+			"il/elle": "aura intenté",
+			"nous": "aurons intenté",
+			"vous": "aurez intenté",
+			"ils/elles": "auront intenté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "intente",
+			"que": "vous intentiez",
+			"qu'il/elle": "intente",
+			"qu'ils/elles": "intentent"
+		},
+		"imparfait": {
+			"j'": "intentasse",
+			"que": "vous intentassiez",
+			"qu'il/elle": "intentât",
+			"qu'ils/elles": "intentassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse intenté",
+			"que": "vous eussiez intenté",
+			"qu'il/elle": "eût intenté",
+			"qu'ils/elles": "eussent intenté"
+		},
+		"passé": {
+			"j'": "aie intenté",
+			"que": "vous ayez intenté",
+			"qu'il/elle": "ait intenté",
+			"qu'ils/elles": "aient intenté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "intenterais",
+			"tu": "intenterais",
+			"il/elle": "intenterait",
+			"nous": "intenterions",
+			"vous": "intenteriez",
+			"ils/elles": "intenteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais intenté",
+			"tu": "aurais intenté",
+			"il/elle": "aurait intenté",
+			"nous": "aurions intenté",
+			"vous": "auriez intenté",
+			"ils/elles": "auraient intenté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse intenté",
+			"tu": "eusses intenté",
+			"il/elle": "eût intenté",
+			"nous": "eussions intenté",
+			"vous": "eussiez intenté",
+			"ils/elles": "eussent intenté"
+		}
+	},
+	"participe": {
+		"présent": { "intentant": "" },
+		"passé composé": { "ayant": "intenté" },
+		"passé": {
+			"masc.sg.:": "intenté",
+			"masc.pl.:": "intentés",
+			"fém.sg.:": "intentée",
+			"fém.pl.:": "intentées"
+		}
+	},
+	"imperatif": {
+		"présent": { "intente": "", "intentons": "", "intentez": "" },
+		"passé": { "aie": "intenté", "ayons": "intenté", "ayez": "intenté" }
+	},
+	"infinitif": {
+		"présent": { "intenter": "" },
+		"passé": { "avoir": "intenté" }
+	}
+}

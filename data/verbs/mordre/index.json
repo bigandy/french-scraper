@@ -1,0 +1,138 @@
+{
+	"name": "mordre",
+	"definition": "bite; take; bite on; ...",
+	"model": "attendre",
+	"auxiliary": "avoir",
+	"otherForms": "se mordre/ne pas mordre/ne pas se mordre",
+	"indicatif": {
+		"présent": {
+			"je": "mords",
+			"tu": "mords",
+			"il/elle": "mord",
+			"nous": "mordons",
+			"vous": "mordez",
+			"ils/elles": "mordent"
+		},
+		"imparfait": {
+			"je": "mordais",
+			"tu": "mordais",
+			"il/elle": "mordait",
+			"nous": "mordions",
+			"vous": "mordiez",
+			"ils/elles": "mordaient"
+		},
+		"futur": {
+			"je": "mordrai",
+			"tu": "mordras",
+			"il/elle": "mordra",
+			"nous": "mordrons",
+			"vous": "mordrez",
+			"ils/elles": "mordront"
+		},
+		"passé simple": {
+			"je": "mordis",
+			"tu": "mordis",
+			"il/elle": "mordit",
+			"nous": "mordîmes",
+			"vous": "mordîtes",
+			"ils/elles": "mordirent"
+		},
+		"passé composé": {
+			"j'": "ai mordu",
+			"tu": "as mordu",
+			"il/elle": "a mordu",
+			"nous": "avons mordu",
+			"vous": "avez mordu",
+			"ils/elles": "ont mordu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais mordu",
+			"tu": "avais mordu",
+			"il/elle": "avait mordu",
+			"nous": "avions mordu",
+			"vous": "aviez mordu",
+			"ils/elles": "avaient mordu"
+		},
+		"passé antérieur": {
+			"j'": "eus mordu",
+			"tu": "eus mordu",
+			"il/elle": "eut mordu",
+			"nous": "eûmes mordu",
+			"vous": "eûtes mordu",
+			"ils/elles": "eurent mordu"
+		},
+		"futur antérieur": {
+			"j'": "aurai mordu",
+			"tu": "auras mordu",
+			"il/elle": "aura mordu",
+			"nous": "aurons mordu",
+			"vous": "aurez mordu",
+			"ils/elles": "auront mordu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous mordiez",
+			"qu'il/elle": "morde",
+			"qu'ils/elles": "mordent"
+		},
+		"imparfait": {
+			"que": "vous mordissiez",
+			"qu'il/elle": "mordît",
+			"qu'ils/elles": "mordissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse mordu",
+			"que": "vous eussiez mordu",
+			"qu'il/elle": "eût mordu",
+			"qu'ils/elles": "eussent mordu"
+		},
+		"passé": {
+			"j'": "aie mordu",
+			"que": "vous ayez mordu",
+			"qu'il/elle": "ait mordu",
+			"qu'ils/elles": "aient mordu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "mordrais",
+			"tu": "mordrais",
+			"il/elle": "mordrait",
+			"nous": "mordrions",
+			"vous": "mordriez",
+			"ils/elles": "mordraient"
+		},
+		"passé première forme": {
+			"j'": "aurais mordu",
+			"tu": "aurais mordu",
+			"il/elle": "aurait mordu",
+			"nous": "aurions mordu",
+			"vous": "auriez mordu",
+			"ils/elles": "auraient mordu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse mordu",
+			"tu": "eusses mordu",
+			"il/elle": "eût mordu",
+			"nous": "eussions mordu",
+			"vous": "eussiez mordu",
+			"ils/elles": "eussent mordu"
+		}
+	},
+	"participe": {
+		"présent": { "mordant": "" },
+		"passé composé": { "ayant": "mordu" },
+		"passé": {
+			"masc.sg.:": "mordu",
+			"masc.pl.:": "mordus",
+			"fém.sg.:": "mordue",
+			"fém.pl.:": "mordues"
+		}
+	},
+	"imperatif": {
+		"présent": { "mords": "", "mordons": "", "mordez": "" },
+		"passé": { "aie": "mordu", "ayons": "mordu", "ayez": "mordu" }
+	},
+	"infinitif": { "présent": { "mordre": "" }, "passé": { "avoir": "mordu" } }
+}

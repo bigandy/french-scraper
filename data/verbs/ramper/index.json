@@ -1,0 +1,138 @@
+{
+	"name": "ramper",
+	"definition": "crawl; grovel; creep; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas ramper",
+	"indicatif": {
+		"présent": {
+			"je": "rampe",
+			"tu": "rampes",
+			"il/elle": "rampe",
+			"nous": "rampons",
+			"vous": "rampez",
+			"ils/elles": "rampent"
+		},
+		"imparfait": {
+			"je": "rampais",
+			"tu": "rampais",
+			"il/elle": "rampait",
+			"nous": "rampions",
+			"vous": "rampiez",
+			"ils/elles": "rampaient"
+		},
+		"futur": {
+			"je": "ramperai",
+			"tu": "ramperas",
+			"il/elle": "rampera",
+			"nous": "ramperons",
+			"vous": "ramperez",
+			"ils/elles": "ramperont"
+		},
+		"passé simple": {
+			"je": "rampai",
+			"tu": "rampas",
+			"il/elle": "rampa",
+			"nous": "rampâmes",
+			"vous": "rampâtes",
+			"ils/elles": "rampèrent"
+		},
+		"passé composé": {
+			"j'": "ai rampé",
+			"tu": "as rampé",
+			"il/elle": "a rampé",
+			"nous": "avons rampé",
+			"vous": "avez rampé",
+			"ils/elles": "ont rampé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais rampé",
+			"tu": "avais rampé",
+			"il/elle": "avait rampé",
+			"nous": "avions rampé",
+			"vous": "aviez rampé",
+			"ils/elles": "avaient rampé"
+		},
+		"passé antérieur": {
+			"j'": "eus rampé",
+			"tu": "eus rampé",
+			"il/elle": "eut rampé",
+			"nous": "eûmes rampé",
+			"vous": "eûtes rampé",
+			"ils/elles": "eurent rampé"
+		},
+		"futur antérieur": {
+			"j'": "aurai rampé",
+			"tu": "auras rampé",
+			"il/elle": "aura rampé",
+			"nous": "aurons rampé",
+			"vous": "aurez rampé",
+			"ils/elles": "auront rampé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous rampiez",
+			"qu'il/elle": "rampe",
+			"qu'ils/elles": "rampent"
+		},
+		"imparfait": {
+			"que": "vous rampassiez",
+			"qu'il/elle": "rampât",
+			"qu'ils/elles": "rampassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse rampé",
+			"que": "vous eussiez rampé",
+			"qu'il/elle": "eût rampé",
+			"qu'ils/elles": "eussent rampé"
+		},
+		"passé": {
+			"j'": "aie rampé",
+			"que": "vous ayez rampé",
+			"qu'il/elle": "ait rampé",
+			"qu'ils/elles": "aient rampé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "ramperais",
+			"tu": "ramperais",
+			"il/elle": "ramperait",
+			"nous": "ramperions",
+			"vous": "ramperiez",
+			"ils/elles": "ramperaient"
+		},
+		"passé première forme": {
+			"j'": "aurais rampé",
+			"tu": "aurais rampé",
+			"il/elle": "aurait rampé",
+			"nous": "aurions rampé",
+			"vous": "auriez rampé",
+			"ils/elles": "auraient rampé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse rampé",
+			"tu": "eusses rampé",
+			"il/elle": "eût rampé",
+			"nous": "eussions rampé",
+			"vous": "eussiez rampé",
+			"ils/elles": "eussent rampé"
+		}
+	},
+	"participe": {
+		"présent": { "rampant": "" },
+		"passé composé": { "ayant": "rampé" },
+		"passé": {
+			"masc.sg.:": "rampé",
+			"masc.pl.:": "rampés",
+			"fém.sg.:": "rampée",
+			"fém.pl.:": "rampées"
+		}
+	},
+	"imperatif": {
+		"présent": { "rampe": "", "rampons": "", "rampez": "" },
+		"passé": { "aie": "rampé", "ayons": "rampé", "ayez": "rampé" }
+	},
+	"infinitif": { "présent": { "ramper": "" }, "passé": { "avoir": "rampé" } }
+}

@@ -1,0 +1,194 @@
+{
+	"name": "vieillir",
+	"definition": "age; grow old; get old; ...",
+	"model": "finir",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "se vieillir/ne pas vieillir/ne pas se vieillir",
+	"indicatif": {
+		"présent": {
+			"je": "vieillis",
+			"tu": "vieillis",
+			"il/elle": "vieillit",
+			"nous": "vieillissons",
+			"vous": "vieillissez",
+			"ils/elles": "vieillissent"
+		},
+		"imparfait": {
+			"je": "vieillissais",
+			"tu": "vieillissais",
+			"il/elle": "vieillissait",
+			"nous": "vieillissions",
+			"vous": "vieillissiez",
+			"ils/elles": "vieillissaient"
+		},
+		"futur": {
+			"je": "vieillirai",
+			"tu": "vieilliras",
+			"il/elle": "vieillira",
+			"nous": "vieillirons",
+			"vous": "vieillirez",
+			"ils/elles": "vieilliront"
+		},
+		"passé simple": {
+			"je": "vieillis",
+			"tu": "vieillis",
+			"il/elle": "vieillit",
+			"nous": "vieillîmes",
+			"vous": "vieillîtes",
+			"ils/elles": "vieillirent"
+		},
+		"passé composé": {
+			"j'": "ai vieilli",
+			"tu": "es vieilli",
+			"il/elle": "a vieilli",
+			"nous": "sommes vieillis",
+			"vous": "êtes vieillis",
+			"ils/elles": "ont vieilli",
+			"": "",
+			"je": "suis vieilli",
+			"il": "est vieilli",
+			"elle": "est vieillie",
+			"ils": "sont vieillis",
+			"elles": "sont vieillies"
+		},
+		"plus-que-parfait": {
+			"j'": "étais vieilli",
+			"tu": "étais vieilli",
+			"il/elle": "avait vieilli",
+			"nous": "étions vieillis",
+			"vous": "étiez vieillis",
+			"ils/elles": "avaient vieilli",
+			"": "",
+			"il": "était vieilli",
+			"elle": "était vieillie",
+			"ils": "étaient vieillis",
+			"elles": "étaient vieillies"
+		},
+		"passé antérieur": {
+			"j'": "eus vieilli",
+			"tu": "fus vieilli",
+			"il/elle": "eut vieilli",
+			"nous": "fûmes vieillis",
+			"vous": "fûtes vieillis",
+			"ils/elles": "eurent vieilli",
+			"": "",
+			"je": "fus vieilli",
+			"il": "fut vieilli",
+			"elle": "fut vieillie",
+			"ils": "furent vieillis",
+			"elles": "furent vieillies"
+		},
+		"futur antérieur": {
+			"j'": "aurai vieilli",
+			"tu": "seras vieilli",
+			"il/elle": "aura vieilli",
+			"nous": "serons vieillis",
+			"vous": "serez vieillis",
+			"ils/elles": "auront vieilli",
+			"": "",
+			"je": "serai vieilli",
+			"il": "sera vieilli",
+			"elle": "sera vieillie",
+			"ils": "seront vieillis",
+			"elles": "seront vieillies"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous vieillissiez",
+			"qu'il/elle": "vieillisse",
+			"qu'ils/elles": "vieillissent"
+		},
+		"imparfait": {
+			"que": "vous vieillissiez",
+			"qu'il/elle": "vieillît",
+			"qu'ils/elles": "vieillissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse vieilli",
+			"que": "vous fussiez vieillis",
+			"qu'il/elle": "eût vieilli",
+			"qu'ils/elles": "eussent vieilli",
+			"": "",
+			"qu'il": "fût vieilli",
+			"qu'elle": "fût vieillie",
+			"qu'ils": "fussent vieillis",
+			"qu'elles": "fussent vieillies"
+		},
+		"passé": {
+			"j'": "aie vieilli",
+			"que": "vous soyez vieillis",
+			"qu'il/elle": "ait vieilli",
+			"qu'ils/elles": "aient vieilli",
+			"": "",
+			"qu'il": "soit vieilli",
+			"qu'elle": "soit vieillie",
+			"qu'ils": "soient vieillis",
+			"qu'elles": "soient vieillies"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "vieillirais",
+			"tu": "vieillirais",
+			"il/elle": "vieillirait",
+			"nous": "vieillirions",
+			"vous": "vieilliriez",
+			"ils/elles": "vieilliraient"
+		},
+		"passé première forme": {
+			"j'": "aurais vieilli",
+			"tu": "serais vieilli",
+			"il/elle": "aurait vieilli",
+			"nous": "serions vieillis",
+			"vous": "seriez vieillis",
+			"ils/elles": "auraient vieilli",
+			"": "",
+			"je": "serais vieilli",
+			"il": "serait vieilli",
+			"elle": "serait vieillie",
+			"ils": "seraient vieillis",
+			"elles": "seraient vieillies"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse vieilli",
+			"tu": "fusses vieilli",
+			"il/elle": "eût vieilli",
+			"nous": "fussions vieillis",
+			"vous": "fussiez vieillis",
+			"ils/elles": "eussent vieilli",
+			"": "",
+			"je": "fusse vieilli",
+			"il": "fût vieilli",
+			"elle": "fût vieillie",
+			"ils": "fussent vieillis",
+			"elles": "fussent vieillies"
+		}
+	},
+	"participe": {
+		"présent": { "vieillissant": "" },
+		"passé composé": { "ayant": "vieilli", "": "", "étant": "vieillie" },
+		"passé": {
+			"masc.sg.:": "vieilli",
+			"masc.pl.:": "vieillis",
+			"fém.sg.:": "vieillie",
+			"fém.pl.:": "vieillies"
+		}
+	},
+	"imperatif": {
+		"présent": { "vieillis": "", "vieillissons": "", "vieillissez": "" },
+		"passé": {
+			"aie": "vieilli",
+			"ayons": "vieilli",
+			"ayez": "vieilli",
+			"": "",
+			"sois": "vieilli",
+			"soyons": "vieilli",
+			"soyez": "vieilli"
+		}
+	},
+	"infinitif": {
+		"présent": { "vieillir": "" },
+		"passé": { "avoir": "vieilli", "": "", "être": "vieilli" }
+	}
+}

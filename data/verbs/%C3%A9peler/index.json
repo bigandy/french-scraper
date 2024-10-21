@@ -1,0 +1,140 @@
+{
+	"name": "épeler",
+	"definition": "spell; ...",
+	"model": "appeler",
+	"auxiliary": "avoir",
+	"otherForms": "s'épeler/ne pas épeler/ne pas s'épeler",
+	"indicatif": {
+		"présent": {
+			"j'": "épelle",
+			"tu": "épelles",
+			"il/elle": "épelle",
+			"nous": "épelons",
+			"vous": "épelez",
+			"ils/elles": "épellent"
+		},
+		"imparfait": {
+			"j'": "épelais",
+			"tu": "épelais",
+			"il/elle": "épelait",
+			"nous": "épelions",
+			"vous": "épeliez",
+			"ils/elles": "épelaient"
+		},
+		"futur": {
+			"j'": "épellerai",
+			"tu": "épelleras",
+			"il/elle": "épellera",
+			"nous": "épellerons",
+			"vous": "épellerez",
+			"ils/elles": "épelleront"
+		},
+		"passé simple": {
+			"j'": "épelai",
+			"tu": "épelas",
+			"il/elle": "épela",
+			"nous": "épelâmes",
+			"vous": "épelâtes",
+			"ils/elles": "épelèrent"
+		},
+		"passé composé": {
+			"j'": "ai épelé",
+			"tu": "as épelé",
+			"il/elle": "a épelé",
+			"nous": "avons épelé",
+			"vous": "avez épelé",
+			"ils/elles": "ont épelé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais épelé",
+			"tu": "avais épelé",
+			"il/elle": "avait épelé",
+			"nous": "avions épelé",
+			"vous": "aviez épelé",
+			"ils/elles": "avaient épelé"
+		},
+		"passé antérieur": {
+			"j'": "eus épelé",
+			"tu": "eus épelé",
+			"il/elle": "eut épelé",
+			"nous": "eûmes épelé",
+			"vous": "eûtes épelé",
+			"ils/elles": "eurent épelé"
+		},
+		"futur antérieur": {
+			"j'": "aurai épelé",
+			"tu": "auras épelé",
+			"il/elle": "aura épelé",
+			"nous": "aurons épelé",
+			"vous": "aurez épelé",
+			"ils/elles": "auront épelé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "épelle",
+			"que": "vous épeliez",
+			"qu'il/elle": "épelle",
+			"qu'ils/elles": "épellent"
+		},
+		"imparfait": {
+			"j'": "épelasse",
+			"que": "vous épelassiez",
+			"qu'il/elle": "épelât",
+			"qu'ils/elles": "épelassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse épelé",
+			"que": "vous eussiez épelé",
+			"qu'il/elle": "eût épelé",
+			"qu'ils/elles": "eussent épelé"
+		},
+		"passé": {
+			"j'": "aie épelé",
+			"que": "vous ayez épelé",
+			"qu'il/elle": "ait épelé",
+			"qu'ils/elles": "aient épelé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "épellerais",
+			"tu": "épellerais",
+			"il/elle": "épellerait",
+			"nous": "épellerions",
+			"vous": "épelleriez",
+			"ils/elles": "épelleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais épelé",
+			"tu": "aurais épelé",
+			"il/elle": "aurait épelé",
+			"nous": "aurions épelé",
+			"vous": "auriez épelé",
+			"ils/elles": "auraient épelé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse épelé",
+			"tu": "eusses épelé",
+			"il/elle": "eût épelé",
+			"nous": "eussions épelé",
+			"vous": "eussiez épelé",
+			"ils/elles": "eussent épelé"
+		}
+	},
+	"participe": {
+		"présent": { "épelant": "" },
+		"passé composé": { "ayant": "épelé" },
+		"passé": {
+			"masc.sg.:": "épelé",
+			"masc.pl.:": "épelés",
+			"fém.sg.:": "épelée",
+			"fém.pl.:": "épelées"
+		}
+	},
+	"imperatif": {
+		"présent": { "épelle": "", "épelons": "", "épelez": "" },
+		"passé": { "aie": "épelé", "ayons": "épelé", "ayez": "épelé" }
+	},
+	"infinitif": { "présent": { "épeler": "" }, "passé": { "avoir": "épelé" } }
+}

@@ -1,0 +1,141 @@
+{
+	"name": "transposer",
+	"definition": "transpose; translate; implement; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se transposer/ne pas transposer/ne pas se transposer",
+	"indicatif": {
+		"présent": {
+			"je": "transpose",
+			"tu": "transposes",
+			"il/elle": "transpose",
+			"nous": "transposons",
+			"vous": "transposez",
+			"ils/elles": "transposent"
+		},
+		"imparfait": {
+			"je": "transposais",
+			"tu": "transposais",
+			"il/elle": "transposait",
+			"nous": "transposions",
+			"vous": "transposiez",
+			"ils/elles": "transposaient"
+		},
+		"futur": {
+			"je": "transposerai",
+			"tu": "transposeras",
+			"il/elle": "transposera",
+			"nous": "transposerons",
+			"vous": "transposerez",
+			"ils/elles": "transposeront"
+		},
+		"passé simple": {
+			"je": "transposai",
+			"tu": "transposas",
+			"il/elle": "transposa",
+			"nous": "transposâmes",
+			"vous": "transposâtes",
+			"ils/elles": "transposèrent"
+		},
+		"passé composé": {
+			"j'": "ai transposé",
+			"tu": "as transposé",
+			"il/elle": "a transposé",
+			"nous": "avons transposé",
+			"vous": "avez transposé",
+			"ils/elles": "ont transposé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais transposé",
+			"tu": "avais transposé",
+			"il/elle": "avait transposé",
+			"nous": "avions transposé",
+			"vous": "aviez transposé",
+			"ils/elles": "avaient transposé"
+		},
+		"passé antérieur": {
+			"j'": "eus transposé",
+			"tu": "eus transposé",
+			"il/elle": "eut transposé",
+			"nous": "eûmes transposé",
+			"vous": "eûtes transposé",
+			"ils/elles": "eurent transposé"
+		},
+		"futur antérieur": {
+			"j'": "aurai transposé",
+			"tu": "auras transposé",
+			"il/elle": "aura transposé",
+			"nous": "aurons transposé",
+			"vous": "aurez transposé",
+			"ils/elles": "auront transposé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous transposiez",
+			"qu'il/elle": "transpose",
+			"qu'ils/elles": "transposent"
+		},
+		"imparfait": {
+			"que": "vous transposassiez",
+			"qu'il/elle": "transposât",
+			"qu'ils/elles": "transposassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse transposé",
+			"que": "vous eussiez transposé",
+			"qu'il/elle": "eût transposé",
+			"qu'ils/elles": "eussent transposé"
+		},
+		"passé": {
+			"j'": "aie transposé",
+			"que": "vous ayez transposé",
+			"qu'il/elle": "ait transposé",
+			"qu'ils/elles": "aient transposé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "transposerais",
+			"tu": "transposerais",
+			"il/elle": "transposerait",
+			"nous": "transposerions",
+			"vous": "transposeriez",
+			"ils/elles": "transposeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais transposé",
+			"tu": "aurais transposé",
+			"il/elle": "aurait transposé",
+			"nous": "aurions transposé",
+			"vous": "auriez transposé",
+			"ils/elles": "auraient transposé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse transposé",
+			"tu": "eusses transposé",
+			"il/elle": "eût transposé",
+			"nous": "eussions transposé",
+			"vous": "eussiez transposé",
+			"ils/elles": "eussent transposé"
+		}
+	},
+	"participe": {
+		"présent": { "transposant": "" },
+		"passé composé": { "ayant": "transposé" },
+		"passé": {
+			"masc.sg.:": "transposé",
+			"masc.pl.:": "transposés",
+			"fém.sg.:": "transposée",
+			"fém.pl.:": "transposées"
+		}
+	},
+	"imperatif": {
+		"présent": { "transpose": "", "transposons": "", "transposez": "" },
+		"passé": { "aie": "transposé", "ayons": "transposé", "ayez": "transposé" }
+	},
+	"infinitif": {
+		"présent": { "transposer": "" },
+		"passé": { "avoir": "transposé" }
+	}
+}

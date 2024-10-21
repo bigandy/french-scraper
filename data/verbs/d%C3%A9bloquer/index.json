@@ -1,0 +1,141 @@
+{
+	"name": "débloquer",
+	"definition": "unlock; unblock; release; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se débloquer/ne pas débloquer/ne pas se débloquer",
+	"indicatif": {
+		"présent": {
+			"je": "débloque",
+			"tu": "débloques",
+			"il/elle": "débloque",
+			"nous": "débloquons",
+			"vous": "débloquez",
+			"ils/elles": "débloquent"
+		},
+		"imparfait": {
+			"je": "débloquais",
+			"tu": "débloquais",
+			"il/elle": "débloquait",
+			"nous": "débloquions",
+			"vous": "débloquiez",
+			"ils/elles": "débloquaient"
+		},
+		"futur": {
+			"je": "débloquerai",
+			"tu": "débloqueras",
+			"il/elle": "débloquera",
+			"nous": "débloquerons",
+			"vous": "débloquerez",
+			"ils/elles": "débloqueront"
+		},
+		"passé simple": {
+			"je": "débloquai",
+			"tu": "débloquas",
+			"il/elle": "débloqua",
+			"nous": "débloquâmes",
+			"vous": "débloquâtes",
+			"ils/elles": "débloquèrent"
+		},
+		"passé composé": {
+			"j'": "ai débloqué",
+			"tu": "as débloqué",
+			"il/elle": "a débloqué",
+			"nous": "avons débloqué",
+			"vous": "avez débloqué",
+			"ils/elles": "ont débloqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais débloqué",
+			"tu": "avais débloqué",
+			"il/elle": "avait débloqué",
+			"nous": "avions débloqué",
+			"vous": "aviez débloqué",
+			"ils/elles": "avaient débloqué"
+		},
+		"passé antérieur": {
+			"j'": "eus débloqué",
+			"tu": "eus débloqué",
+			"il/elle": "eut débloqué",
+			"nous": "eûmes débloqué",
+			"vous": "eûtes débloqué",
+			"ils/elles": "eurent débloqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai débloqué",
+			"tu": "auras débloqué",
+			"il/elle": "aura débloqué",
+			"nous": "aurons débloqué",
+			"vous": "aurez débloqué",
+			"ils/elles": "auront débloqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous débloquiez",
+			"qu'il/elle": "débloque",
+			"qu'ils/elles": "débloquent"
+		},
+		"imparfait": {
+			"que": "vous débloquassiez",
+			"qu'il/elle": "débloquât",
+			"qu'ils/elles": "débloquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse débloqué",
+			"que": "vous eussiez débloqué",
+			"qu'il/elle": "eût débloqué",
+			"qu'ils/elles": "eussent débloqué"
+		},
+		"passé": {
+			"j'": "aie débloqué",
+			"que": "vous ayez débloqué",
+			"qu'il/elle": "ait débloqué",
+			"qu'ils/elles": "aient débloqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "débloquerais",
+			"tu": "débloquerais",
+			"il/elle": "débloquerait",
+			"nous": "débloquerions",
+			"vous": "débloqueriez",
+			"ils/elles": "débloqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais débloqué",
+			"tu": "aurais débloqué",
+			"il/elle": "aurait débloqué",
+			"nous": "aurions débloqué",
+			"vous": "auriez débloqué",
+			"ils/elles": "auraient débloqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse débloqué",
+			"tu": "eusses débloqué",
+			"il/elle": "eût débloqué",
+			"nous": "eussions débloqué",
+			"vous": "eussiez débloqué",
+			"ils/elles": "eussent débloqué"
+		}
+	},
+	"participe": {
+		"présent": { "débloquant": "" },
+		"passé composé": { "ayant": "débloqué" },
+		"passé": {
+			"masc.sg.:": "débloqué",
+			"masc.pl.:": "débloqués",
+			"fém.sg.:": "débloquée",
+			"fém.pl.:": "débloquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "débloque": "", "débloquons": "", "débloquez": "" },
+		"passé": { "aie": "débloqué", "ayons": "débloqué", "ayez": "débloqué" }
+	},
+	"infinitif": {
+		"présent": { "débloquer": "" },
+		"passé": { "avoir": "débloqué" }
+	}
+}

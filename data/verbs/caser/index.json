@@ -1,0 +1,138 @@
+{
+	"name": "caser",
+	"definition": "settle down; fit; put; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se caser/ne pas caser/ne pas se caser",
+	"indicatif": {
+		"présent": {
+			"je": "case",
+			"tu": "cases",
+			"il/elle": "case",
+			"nous": "casons",
+			"vous": "casez",
+			"ils/elles": "casent"
+		},
+		"imparfait": {
+			"je": "casais",
+			"tu": "casais",
+			"il/elle": "casait",
+			"nous": "casions",
+			"vous": "casiez",
+			"ils/elles": "casaient"
+		},
+		"futur": {
+			"je": "caserai",
+			"tu": "caseras",
+			"il/elle": "casera",
+			"nous": "caserons",
+			"vous": "caserez",
+			"ils/elles": "caseront"
+		},
+		"passé simple": {
+			"je": "casai",
+			"tu": "casas",
+			"il/elle": "casa",
+			"nous": "casâmes",
+			"vous": "casâtes",
+			"ils/elles": "casèrent"
+		},
+		"passé composé": {
+			"j'": "ai casé",
+			"tu": "as casé",
+			"il/elle": "a casé",
+			"nous": "avons casé",
+			"vous": "avez casé",
+			"ils/elles": "ont casé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais casé",
+			"tu": "avais casé",
+			"il/elle": "avait casé",
+			"nous": "avions casé",
+			"vous": "aviez casé",
+			"ils/elles": "avaient casé"
+		},
+		"passé antérieur": {
+			"j'": "eus casé",
+			"tu": "eus casé",
+			"il/elle": "eut casé",
+			"nous": "eûmes casé",
+			"vous": "eûtes casé",
+			"ils/elles": "eurent casé"
+		},
+		"futur antérieur": {
+			"j'": "aurai casé",
+			"tu": "auras casé",
+			"il/elle": "aura casé",
+			"nous": "aurons casé",
+			"vous": "aurez casé",
+			"ils/elles": "auront casé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous casiez",
+			"qu'il/elle": "case",
+			"qu'ils/elles": "casent"
+		},
+		"imparfait": {
+			"que": "vous casassiez",
+			"qu'il/elle": "casât",
+			"qu'ils/elles": "casassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse casé",
+			"que": "vous eussiez casé",
+			"qu'il/elle": "eût casé",
+			"qu'ils/elles": "eussent casé"
+		},
+		"passé": {
+			"j'": "aie casé",
+			"que": "vous ayez casé",
+			"qu'il/elle": "ait casé",
+			"qu'ils/elles": "aient casé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "caserais",
+			"tu": "caserais",
+			"il/elle": "caserait",
+			"nous": "caserions",
+			"vous": "caseriez",
+			"ils/elles": "caseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais casé",
+			"tu": "aurais casé",
+			"il/elle": "aurait casé",
+			"nous": "aurions casé",
+			"vous": "auriez casé",
+			"ils/elles": "auraient casé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse casé",
+			"tu": "eusses casé",
+			"il/elle": "eût casé",
+			"nous": "eussions casé",
+			"vous": "eussiez casé",
+			"ils/elles": "eussent casé"
+		}
+	},
+	"participe": {
+		"présent": { "casant": "" },
+		"passé composé": { "ayant": "casé" },
+		"passé": {
+			"masc.sg.:": "casé",
+			"masc.pl.:": "casés",
+			"fém.sg.:": "casée",
+			"fém.pl.:": "casées"
+		}
+	},
+	"imperatif": {
+		"présent": { "case": "", "casons": "", "casez": "" },
+		"passé": { "aie": "casé", "ayons": "casé", "ayez": "casé" }
+	},
+	"infinitif": { "présent": { "caser": "" }, "passé": { "avoir": "casé" } }
+}

@@ -1,0 +1,141 @@
+{
+	"name": "décoller",
+	"definition": "take off; launch; fly; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se décoller/ne pas décoller/ne pas se décoller",
+	"indicatif": {
+		"présent": {
+			"je": "décolle",
+			"tu": "décolles",
+			"il/elle": "décolle",
+			"nous": "décollons",
+			"vous": "décollez",
+			"ils/elles": "décollent"
+		},
+		"imparfait": {
+			"je": "décollais",
+			"tu": "décollais",
+			"il/elle": "décollait",
+			"nous": "décollions",
+			"vous": "décolliez",
+			"ils/elles": "décollaient"
+		},
+		"futur": {
+			"je": "décollerai",
+			"tu": "décolleras",
+			"il/elle": "décollera",
+			"nous": "décollerons",
+			"vous": "décollerez",
+			"ils/elles": "décolleront"
+		},
+		"passé simple": {
+			"je": "décollai",
+			"tu": "décollas",
+			"il/elle": "décolla",
+			"nous": "décollâmes",
+			"vous": "décollâtes",
+			"ils/elles": "décollèrent"
+		},
+		"passé composé": {
+			"j'": "ai décollé",
+			"tu": "as décollé",
+			"il/elle": "a décollé",
+			"nous": "avons décollé",
+			"vous": "avez décollé",
+			"ils/elles": "ont décollé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais décollé",
+			"tu": "avais décollé",
+			"il/elle": "avait décollé",
+			"nous": "avions décollé",
+			"vous": "aviez décollé",
+			"ils/elles": "avaient décollé"
+		},
+		"passé antérieur": {
+			"j'": "eus décollé",
+			"tu": "eus décollé",
+			"il/elle": "eut décollé",
+			"nous": "eûmes décollé",
+			"vous": "eûtes décollé",
+			"ils/elles": "eurent décollé"
+		},
+		"futur antérieur": {
+			"j'": "aurai décollé",
+			"tu": "auras décollé",
+			"il/elle": "aura décollé",
+			"nous": "aurons décollé",
+			"vous": "aurez décollé",
+			"ils/elles": "auront décollé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous décolliez",
+			"qu'il/elle": "décolle",
+			"qu'ils/elles": "décollent"
+		},
+		"imparfait": {
+			"que": "vous décollassiez",
+			"qu'il/elle": "décollât",
+			"qu'ils/elles": "décollassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse décollé",
+			"que": "vous eussiez décollé",
+			"qu'il/elle": "eût décollé",
+			"qu'ils/elles": "eussent décollé"
+		},
+		"passé": {
+			"j'": "aie décollé",
+			"que": "vous ayez décollé",
+			"qu'il/elle": "ait décollé",
+			"qu'ils/elles": "aient décollé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "décollerais",
+			"tu": "décollerais",
+			"il/elle": "décollerait",
+			"nous": "décollerions",
+			"vous": "décolleriez",
+			"ils/elles": "décolleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais décollé",
+			"tu": "aurais décollé",
+			"il/elle": "aurait décollé",
+			"nous": "aurions décollé",
+			"vous": "auriez décollé",
+			"ils/elles": "auraient décollé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse décollé",
+			"tu": "eusses décollé",
+			"il/elle": "eût décollé",
+			"nous": "eussions décollé",
+			"vous": "eussiez décollé",
+			"ils/elles": "eussent décollé"
+		}
+	},
+	"participe": {
+		"présent": { "décollant": "" },
+		"passé composé": { "ayant": "décollé" },
+		"passé": {
+			"masc.sg.:": "décollé",
+			"masc.pl.:": "décollés",
+			"fém.sg.:": "décollée",
+			"fém.pl.:": "décollées"
+		}
+	},
+	"imperatif": {
+		"présent": { "décolle": "", "décollons": "", "décollez": "" },
+		"passé": { "aie": "décollé", "ayons": "décollé", "ayez": "décollé" }
+	},
+	"infinitif": {
+		"présent": { "décoller": "" },
+		"passé": { "avoir": "décollé" }
+	}
+}

@@ -1,0 +1,143 @@
+{
+	"name": "arrondir",
+	"definition": "round off; round up; supplement; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "s'arrondir/ne pas arrondir/ne pas s'arrondir",
+	"indicatif": {
+		"présent": {
+			"j'": "arrondis",
+			"tu": "arrondis",
+			"il/elle": "arrondit",
+			"nous": "arrondissons",
+			"vous": "arrondissez",
+			"ils/elles": "arrondissent"
+		},
+		"imparfait": {
+			"j'": "arrondissais",
+			"tu": "arrondissais",
+			"il/elle": "arrondissait",
+			"nous": "arrondissions",
+			"vous": "arrondissiez",
+			"ils/elles": "arrondissaient"
+		},
+		"futur": {
+			"j'": "arrondirai",
+			"tu": "arrondiras",
+			"il/elle": "arrondira",
+			"nous": "arrondirons",
+			"vous": "arrondirez",
+			"ils/elles": "arrondiront"
+		},
+		"passé simple": {
+			"j'": "arrondis",
+			"tu": "arrondis",
+			"il/elle": "arrondit",
+			"nous": "arrondîmes",
+			"vous": "arrondîtes",
+			"ils/elles": "arrondirent"
+		},
+		"passé composé": {
+			"j'": "ai arrondi",
+			"tu": "as arrondi",
+			"il/elle": "a arrondi",
+			"nous": "avons arrondi",
+			"vous": "avez arrondi",
+			"ils/elles": "ont arrondi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais arrondi",
+			"tu": "avais arrondi",
+			"il/elle": "avait arrondi",
+			"nous": "avions arrondi",
+			"vous": "aviez arrondi",
+			"ils/elles": "avaient arrondi"
+		},
+		"passé antérieur": {
+			"j'": "eus arrondi",
+			"tu": "eus arrondi",
+			"il/elle": "eut arrondi",
+			"nous": "eûmes arrondi",
+			"vous": "eûtes arrondi",
+			"ils/elles": "eurent arrondi"
+		},
+		"futur antérieur": {
+			"j'": "aurai arrondi",
+			"tu": "auras arrondi",
+			"il/elle": "aura arrondi",
+			"nous": "aurons arrondi",
+			"vous": "aurez arrondi",
+			"ils/elles": "auront arrondi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "arrondisse",
+			"que": "vous arrondissiez",
+			"qu'il/elle": "arrondisse",
+			"qu'ils/elles": "arrondissent"
+		},
+		"imparfait": {
+			"j'": "arrondisse",
+			"que": "vous arrondissiez",
+			"qu'il/elle": "arrondît",
+			"qu'ils/elles": "arrondissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse arrondi",
+			"que": "vous eussiez arrondi",
+			"qu'il/elle": "eût arrondi",
+			"qu'ils/elles": "eussent arrondi"
+		},
+		"passé": {
+			"j'": "aie arrondi",
+			"que": "vous ayez arrondi",
+			"qu'il/elle": "ait arrondi",
+			"qu'ils/elles": "aient arrondi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "arrondirais",
+			"tu": "arrondirais",
+			"il/elle": "arrondirait",
+			"nous": "arrondirions",
+			"vous": "arrondiriez",
+			"ils/elles": "arrondiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais arrondi",
+			"tu": "aurais arrondi",
+			"il/elle": "aurait arrondi",
+			"nous": "aurions arrondi",
+			"vous": "auriez arrondi",
+			"ils/elles": "auraient arrondi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse arrondi",
+			"tu": "eusses arrondi",
+			"il/elle": "eût arrondi",
+			"nous": "eussions arrondi",
+			"vous": "eussiez arrondi",
+			"ils/elles": "eussent arrondi"
+		}
+	},
+	"participe": {
+		"présent": { "arrondissant": "" },
+		"passé composé": { "ayant": "arrondi" },
+		"passé": {
+			"masc.sg.:": "arrondi",
+			"masc.pl.:": "arrondis",
+			"fém.sg.:": "arrondie",
+			"fém.pl.:": "arrondies"
+		}
+	},
+	"imperatif": {
+		"présent": { "arrondis": "", "arrondissons": "", "arrondissez": "" },
+		"passé": { "aie": "arrondi", "ayons": "arrondi", "ayez": "arrondi" }
+	},
+	"infinitif": {
+		"présent": { "arrondir": "" },
+		"passé": { "avoir": "arrondi" }
+	}
+}

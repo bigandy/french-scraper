@@ -1,0 +1,145 @@
+{
+	"name": "désinfecter",
+	"definition": "disinfect; sanitize; fumigate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se désinfecter/ne pas désinfecter/ne pas se désinfecter",
+	"indicatif": {
+		"présent": {
+			"je": "désinfecte",
+			"tu": "désinfectes",
+			"il/elle": "désinfecte",
+			"nous": "désinfectons",
+			"vous": "désinfectez",
+			"ils/elles": "désinfectent"
+		},
+		"imparfait": {
+			"je": "désinfectais",
+			"tu": "désinfectais",
+			"il/elle": "désinfectait",
+			"nous": "désinfections",
+			"vous": "désinfectiez",
+			"ils/elles": "désinfectaient"
+		},
+		"futur": {
+			"je": "désinfecterai",
+			"tu": "désinfecteras",
+			"il/elle": "désinfectera",
+			"nous": "désinfecterons",
+			"vous": "désinfecterez",
+			"ils/elles": "désinfecteront"
+		},
+		"passé simple": {
+			"je": "désinfectai",
+			"tu": "désinfectas",
+			"il/elle": "désinfecta",
+			"nous": "désinfectâmes",
+			"vous": "désinfectâtes",
+			"ils/elles": "désinfectèrent"
+		},
+		"passé composé": {
+			"j'": "ai désinfecté",
+			"tu": "as désinfecté",
+			"il/elle": "a désinfecté",
+			"nous": "avons désinfecté",
+			"vous": "avez désinfecté",
+			"ils/elles": "ont désinfecté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais désinfecté",
+			"tu": "avais désinfecté",
+			"il/elle": "avait désinfecté",
+			"nous": "avions désinfecté",
+			"vous": "aviez désinfecté",
+			"ils/elles": "avaient désinfecté"
+		},
+		"passé antérieur": {
+			"j'": "eus désinfecté",
+			"tu": "eus désinfecté",
+			"il/elle": "eut désinfecté",
+			"nous": "eûmes désinfecté",
+			"vous": "eûtes désinfecté",
+			"ils/elles": "eurent désinfecté"
+		},
+		"futur antérieur": {
+			"j'": "aurai désinfecté",
+			"tu": "auras désinfecté",
+			"il/elle": "aura désinfecté",
+			"nous": "aurons désinfecté",
+			"vous": "aurez désinfecté",
+			"ils/elles": "auront désinfecté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous désinfectiez",
+			"qu'il/elle": "désinfecte",
+			"qu'ils/elles": "désinfectent"
+		},
+		"imparfait": {
+			"que": "vous désinfectassiez",
+			"qu'il/elle": "désinfectât",
+			"qu'ils/elles": "désinfectassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse désinfecté",
+			"que": "vous eussiez désinfecté",
+			"qu'il/elle": "eût désinfecté",
+			"qu'ils/elles": "eussent désinfecté"
+		},
+		"passé": {
+			"j'": "aie désinfecté",
+			"que": "vous ayez désinfecté",
+			"qu'il/elle": "ait désinfecté",
+			"qu'ils/elles": "aient désinfecté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "désinfecterais",
+			"tu": "désinfecterais",
+			"il/elle": "désinfecterait",
+			"nous": "désinfecterions",
+			"vous": "désinfecteriez",
+			"ils/elles": "désinfecteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais désinfecté",
+			"tu": "aurais désinfecté",
+			"il/elle": "aurait désinfecté",
+			"nous": "aurions désinfecté",
+			"vous": "auriez désinfecté",
+			"ils/elles": "auraient désinfecté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse désinfecté",
+			"tu": "eusses désinfecté",
+			"il/elle": "eût désinfecté",
+			"nous": "eussions désinfecté",
+			"vous": "eussiez désinfecté",
+			"ils/elles": "eussent désinfecté"
+		}
+	},
+	"participe": {
+		"présent": { "désinfectant": "" },
+		"passé composé": { "ayant": "désinfecté" },
+		"passé": {
+			"masc.sg.:": "désinfecté",
+			"masc.pl.:": "désinfectés",
+			"fém.sg.:": "désinfectée",
+			"fém.pl.:": "désinfectées"
+		}
+	},
+	"imperatif": {
+		"présent": { "désinfecte": "", "désinfectons": "", "désinfectez": "" },
+		"passé": {
+			"aie": "désinfecté",
+			"ayons": "désinfecté",
+			"ayez": "désinfecté"
+		}
+	},
+	"infinitif": {
+		"présent": { "désinfecter": "" },
+		"passé": { "avoir": "désinfecté" }
+	}
+}

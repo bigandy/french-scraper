@@ -1,0 +1,143 @@
+{
+	"name": "assigner",
+	"definition": "assign; subpoena; summon; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'assigner/ne pas assigner/ne pas s'assigner",
+	"indicatif": {
+		"présent": {
+			"j'": "assigne",
+			"tu": "assignes",
+			"il/elle": "assigne",
+			"nous": "assignons",
+			"vous": "assignez",
+			"ils/elles": "assignent"
+		},
+		"imparfait": {
+			"j'": "assignais",
+			"tu": "assignais",
+			"il/elle": "assignait",
+			"nous": "assignions",
+			"vous": "assigniez",
+			"ils/elles": "assignaient"
+		},
+		"futur": {
+			"j'": "assignerai",
+			"tu": "assigneras",
+			"il/elle": "assignera",
+			"nous": "assignerons",
+			"vous": "assignerez",
+			"ils/elles": "assigneront"
+		},
+		"passé simple": {
+			"j'": "assignai",
+			"tu": "assignas",
+			"il/elle": "assigna",
+			"nous": "assignâmes",
+			"vous": "assignâtes",
+			"ils/elles": "assignèrent"
+		},
+		"passé composé": {
+			"j'": "ai assigné",
+			"tu": "as assigné",
+			"il/elle": "a assigné",
+			"nous": "avons assigné",
+			"vous": "avez assigné",
+			"ils/elles": "ont assigné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais assigné",
+			"tu": "avais assigné",
+			"il/elle": "avait assigné",
+			"nous": "avions assigné",
+			"vous": "aviez assigné",
+			"ils/elles": "avaient assigné"
+		},
+		"passé antérieur": {
+			"j'": "eus assigné",
+			"tu": "eus assigné",
+			"il/elle": "eut assigné",
+			"nous": "eûmes assigné",
+			"vous": "eûtes assigné",
+			"ils/elles": "eurent assigné"
+		},
+		"futur antérieur": {
+			"j'": "aurai assigné",
+			"tu": "auras assigné",
+			"il/elle": "aura assigné",
+			"nous": "aurons assigné",
+			"vous": "aurez assigné",
+			"ils/elles": "auront assigné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "assigne",
+			"que": "vous assigniez",
+			"qu'il/elle": "assigne",
+			"qu'ils/elles": "assignent"
+		},
+		"imparfait": {
+			"j'": "assignasse",
+			"que": "vous assignassiez",
+			"qu'il/elle": "assignât",
+			"qu'ils/elles": "assignassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse assigné",
+			"que": "vous eussiez assigné",
+			"qu'il/elle": "eût assigné",
+			"qu'ils/elles": "eussent assigné"
+		},
+		"passé": {
+			"j'": "aie assigné",
+			"que": "vous ayez assigné",
+			"qu'il/elle": "ait assigné",
+			"qu'ils/elles": "aient assigné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "assignerais",
+			"tu": "assignerais",
+			"il/elle": "assignerait",
+			"nous": "assignerions",
+			"vous": "assigneriez",
+			"ils/elles": "assigneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais assigné",
+			"tu": "aurais assigné",
+			"il/elle": "aurait assigné",
+			"nous": "aurions assigné",
+			"vous": "auriez assigné",
+			"ils/elles": "auraient assigné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse assigné",
+			"tu": "eusses assigné",
+			"il/elle": "eût assigné",
+			"nous": "eussions assigné",
+			"vous": "eussiez assigné",
+			"ils/elles": "eussent assigné"
+		}
+	},
+	"participe": {
+		"présent": { "assignant": "" },
+		"passé composé": { "ayant": "assigné" },
+		"passé": {
+			"masc.sg.:": "assigné",
+			"masc.pl.:": "assignés",
+			"fém.sg.:": "assignée",
+			"fém.pl.:": "assignées"
+		}
+	},
+	"imperatif": {
+		"présent": { "assigne": "", "assignons": "", "assignez": "" },
+		"passé": { "aie": "assigné", "ayons": "assigné", "ayez": "assigné" }
+	},
+	"infinitif": {
+		"présent": { "assigner": "" },
+		"passé": { "avoir": "assigné" }
+	}
+}

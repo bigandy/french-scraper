@@ -1,0 +1,140 @@
+{
+	"name": "aérer",
+	"definition": "aerate; air; ventilate; ...",
+	"model": "aérer",
+	"auxiliary": "avoir",
+	"otherForms": "s'aérer/ne pas aérer/ne pas s'aérer",
+	"indicatif": {
+		"présent": {
+			"j'": "aère",
+			"tu": "aères",
+			"il/elle": "aère",
+			"nous": "aérons",
+			"vous": "aérez",
+			"ils/elles": "aèrent"
+		},
+		"imparfait": {
+			"j'": "aérais",
+			"tu": "aérais",
+			"il/elle": "aérait",
+			"nous": "aérions",
+			"vous": "aériez",
+			"ils/elles": "aéraient"
+		},
+		"futur": {
+			"j'": "aérerai",
+			"tu": "aéreras",
+			"il/elle": "aérera",
+			"nous": "aérerons",
+			"vous": "aérerez",
+			"ils/elles": "aéreront"
+		},
+		"passé simple": {
+			"j'": "aérai",
+			"tu": "aéras",
+			"il/elle": "aéra",
+			"nous": "aérâmes",
+			"vous": "aérâtes",
+			"ils/elles": "aérèrent"
+		},
+		"passé composé": {
+			"j'": "ai aéré",
+			"tu": "as aéré",
+			"il/elle": "a aéré",
+			"nous": "avons aéré",
+			"vous": "avez aéré",
+			"ils/elles": "ont aéré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais aéré",
+			"tu": "avais aéré",
+			"il/elle": "avait aéré",
+			"nous": "avions aéré",
+			"vous": "aviez aéré",
+			"ils/elles": "avaient aéré"
+		},
+		"passé antérieur": {
+			"j'": "eus aéré",
+			"tu": "eus aéré",
+			"il/elle": "eut aéré",
+			"nous": "eûmes aéré",
+			"vous": "eûtes aéré",
+			"ils/elles": "eurent aéré"
+		},
+		"futur antérieur": {
+			"j'": "aurai aéré",
+			"tu": "auras aéré",
+			"il/elle": "aura aéré",
+			"nous": "aurons aéré",
+			"vous": "aurez aéré",
+			"ils/elles": "auront aéré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "aère",
+			"que": "vous aériez",
+			"qu'il/elle": "aère",
+			"qu'ils/elles": "aèrent"
+		},
+		"imparfait": {
+			"j'": "aérasse",
+			"que": "vous aérassiez",
+			"qu'il/elle": "aérât",
+			"qu'ils/elles": "aérassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse aéré",
+			"que": "vous eussiez aéré",
+			"qu'il/elle": "eût aéré",
+			"qu'ils/elles": "eussent aéré"
+		},
+		"passé": {
+			"j'": "aie aéré",
+			"que": "vous ayez aéré",
+			"qu'il/elle": "ait aéré",
+			"qu'ils/elles": "aient aéré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "aérerais",
+			"tu": "aérerais",
+			"il/elle": "aérerait",
+			"nous": "aérerions",
+			"vous": "aéreriez",
+			"ils/elles": "aéreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais aéré",
+			"tu": "aurais aéré",
+			"il/elle": "aurait aéré",
+			"nous": "aurions aéré",
+			"vous": "auriez aéré",
+			"ils/elles": "auraient aéré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse aéré",
+			"tu": "eusses aéré",
+			"il/elle": "eût aéré",
+			"nous": "eussions aéré",
+			"vous": "eussiez aéré",
+			"ils/elles": "eussent aéré"
+		}
+	},
+	"participe": {
+		"présent": { "aérant": "" },
+		"passé composé": { "ayant": "aéré" },
+		"passé": {
+			"masc.sg.:": "aéré",
+			"masc.pl.:": "aérés",
+			"fém.sg.:": "aérée",
+			"fém.pl.:": "aérées"
+		}
+	},
+	"imperatif": {
+		"présent": { "aère": "", "aérons": "", "aérez": "" },
+		"passé": { "aie": "aéré", "ayons": "aéré", "ayez": "aéré" }
+	},
+	"infinitif": { "présent": { "aérer": "" }, "passé": { "avoir": "aéré" } }
+}

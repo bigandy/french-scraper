@@ -1,0 +1,141 @@
+{
+	"name": "déplorer",
+	"definition": "deplore; regret; lament; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se déplorer/ne pas déplorer/ne pas se déplorer",
+	"indicatif": {
+		"présent": {
+			"je": "déplore",
+			"tu": "déplores",
+			"il/elle": "déplore",
+			"nous": "déplorons",
+			"vous": "déplorez",
+			"ils/elles": "déplorent"
+		},
+		"imparfait": {
+			"je": "déplorais",
+			"tu": "déplorais",
+			"il/elle": "déplorait",
+			"nous": "déplorions",
+			"vous": "déploriez",
+			"ils/elles": "déploraient"
+		},
+		"futur": {
+			"je": "déplorerai",
+			"tu": "déploreras",
+			"il/elle": "déplorera",
+			"nous": "déplorerons",
+			"vous": "déplorerez",
+			"ils/elles": "déploreront"
+		},
+		"passé simple": {
+			"je": "déplorai",
+			"tu": "déploras",
+			"il/elle": "déplora",
+			"nous": "déplorâmes",
+			"vous": "déplorâtes",
+			"ils/elles": "déplorèrent"
+		},
+		"passé composé": {
+			"j'": "ai déploré",
+			"tu": "as déploré",
+			"il/elle": "a déploré",
+			"nous": "avons déploré",
+			"vous": "avez déploré",
+			"ils/elles": "ont déploré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais déploré",
+			"tu": "avais déploré",
+			"il/elle": "avait déploré",
+			"nous": "avions déploré",
+			"vous": "aviez déploré",
+			"ils/elles": "avaient déploré"
+		},
+		"passé antérieur": {
+			"j'": "eus déploré",
+			"tu": "eus déploré",
+			"il/elle": "eut déploré",
+			"nous": "eûmes déploré",
+			"vous": "eûtes déploré",
+			"ils/elles": "eurent déploré"
+		},
+		"futur antérieur": {
+			"j'": "aurai déploré",
+			"tu": "auras déploré",
+			"il/elle": "aura déploré",
+			"nous": "aurons déploré",
+			"vous": "aurez déploré",
+			"ils/elles": "auront déploré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous déploriez",
+			"qu'il/elle": "déplore",
+			"qu'ils/elles": "déplorent"
+		},
+		"imparfait": {
+			"que": "vous déplorassiez",
+			"qu'il/elle": "déplorât",
+			"qu'ils/elles": "déplorassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse déploré",
+			"que": "vous eussiez déploré",
+			"qu'il/elle": "eût déploré",
+			"qu'ils/elles": "eussent déploré"
+		},
+		"passé": {
+			"j'": "aie déploré",
+			"que": "vous ayez déploré",
+			"qu'il/elle": "ait déploré",
+			"qu'ils/elles": "aient déploré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "déplorerais",
+			"tu": "déplorerais",
+			"il/elle": "déplorerait",
+			"nous": "déplorerions",
+			"vous": "déploreriez",
+			"ils/elles": "déploreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais déploré",
+			"tu": "aurais déploré",
+			"il/elle": "aurait déploré",
+			"nous": "aurions déploré",
+			"vous": "auriez déploré",
+			"ils/elles": "auraient déploré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse déploré",
+			"tu": "eusses déploré",
+			"il/elle": "eût déploré",
+			"nous": "eussions déploré",
+			"vous": "eussiez déploré",
+			"ils/elles": "eussent déploré"
+		}
+	},
+	"participe": {
+		"présent": { "déplorant": "" },
+		"passé composé": { "ayant": "déploré" },
+		"passé": {
+			"masc.sg.:": "déploré",
+			"masc.pl.:": "déplorés",
+			"fém.sg.:": "déplorée",
+			"fém.pl.:": "déplorées"
+		}
+	},
+	"imperatif": {
+		"présent": { "déplore": "", "déplorons": "", "déplorez": "" },
+		"passé": { "aie": "déploré", "ayons": "déploré", "ayez": "déploré" }
+	},
+	"infinitif": {
+		"présent": { "déplorer": "" },
+		"passé": { "avoir": "déploré" }
+	}
+}

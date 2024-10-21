@@ -1,0 +1,141 @@
+{
+	"name": "concéder",
+	"definition": "grant; concede; license; ...",
+	"model": "céder",
+	"auxiliary": "avoir",
+	"otherForms": "se concéder/ne pas concéder/ne pas se concéder",
+	"indicatif": {
+		"présent": {
+			"je": "concède",
+			"tu": "concèdes",
+			"il/elle": "concède",
+			"nous": "concédons",
+			"vous": "concédez",
+			"ils/elles": "concèdent"
+		},
+		"imparfait": {
+			"je": "concédais",
+			"tu": "concédais",
+			"il/elle": "concédait",
+			"nous": "concédions",
+			"vous": "concédiez",
+			"ils/elles": "concédaient"
+		},
+		"futur": {
+			"je": "concéderai",
+			"tu": "concéderas",
+			"il/elle": "concédera",
+			"nous": "concéderons",
+			"vous": "concéderez",
+			"ils/elles": "concéderont"
+		},
+		"passé simple": {
+			"je": "concédai",
+			"tu": "concédas",
+			"il/elle": "concéda",
+			"nous": "concédâmes",
+			"vous": "concédâtes",
+			"ils/elles": "concédèrent"
+		},
+		"passé composé": {
+			"j'": "ai concédé",
+			"tu": "as concédé",
+			"il/elle": "a concédé",
+			"nous": "avons concédé",
+			"vous": "avez concédé",
+			"ils/elles": "ont concédé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais concédé",
+			"tu": "avais concédé",
+			"il/elle": "avait concédé",
+			"nous": "avions concédé",
+			"vous": "aviez concédé",
+			"ils/elles": "avaient concédé"
+		},
+		"passé antérieur": {
+			"j'": "eus concédé",
+			"tu": "eus concédé",
+			"il/elle": "eut concédé",
+			"nous": "eûmes concédé",
+			"vous": "eûtes concédé",
+			"ils/elles": "eurent concédé"
+		},
+		"futur antérieur": {
+			"j'": "aurai concédé",
+			"tu": "auras concédé",
+			"il/elle": "aura concédé",
+			"nous": "aurons concédé",
+			"vous": "aurez concédé",
+			"ils/elles": "auront concédé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous concédiez",
+			"qu'il/elle": "concède",
+			"qu'ils/elles": "concèdent"
+		},
+		"imparfait": {
+			"que": "vous concédassiez",
+			"qu'il/elle": "concédât",
+			"qu'ils/elles": "concédassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse concédé",
+			"que": "vous eussiez concédé",
+			"qu'il/elle": "eût concédé",
+			"qu'ils/elles": "eussent concédé"
+		},
+		"passé": {
+			"j'": "aie concédé",
+			"que": "vous ayez concédé",
+			"qu'il/elle": "ait concédé",
+			"qu'ils/elles": "aient concédé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "concéderais",
+			"tu": "concéderais",
+			"il/elle": "concéderait",
+			"nous": "concéderions",
+			"vous": "concéderiez",
+			"ils/elles": "concéderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais concédé",
+			"tu": "aurais concédé",
+			"il/elle": "aurait concédé",
+			"nous": "aurions concédé",
+			"vous": "auriez concédé",
+			"ils/elles": "auraient concédé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse concédé",
+			"tu": "eusses concédé",
+			"il/elle": "eût concédé",
+			"nous": "eussions concédé",
+			"vous": "eussiez concédé",
+			"ils/elles": "eussent concédé"
+		}
+	},
+	"participe": {
+		"présent": { "concédant": "" },
+		"passé composé": { "ayant": "concédé" },
+		"passé": {
+			"masc.sg.:": "concédé",
+			"masc.pl.:": "concédés",
+			"fém.sg.:": "concédée",
+			"fém.pl.:": "concédées"
+		}
+	},
+	"imperatif": {
+		"présent": { "concède": "", "concédons": "", "concédez": "" },
+		"passé": { "aie": "concédé", "ayons": "concédé", "ayez": "concédé" }
+	},
+	"infinitif": {
+		"présent": { "concéder": "" },
+		"passé": { "avoir": "concédé" }
+	}
+}

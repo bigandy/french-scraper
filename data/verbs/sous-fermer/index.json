@@ -1,0 +1,145 @@
+{
+	"name": "sous-fermer",
+	"definition": "",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se sous-fermer/ne pas sous-fermer/ne pas se sous-fermer",
+	"indicatif": {
+		"présent": {
+			"je": "sous-ferme",
+			"tu": "sous-fermes",
+			"il/elle": "sous-ferme",
+			"nous": "sous-fermons",
+			"vous": "sous-fermez",
+			"ils/elles": "sous-ferment"
+		},
+		"imparfait": {
+			"je": "sous-fermais",
+			"tu": "sous-fermais",
+			"il/elle": "sous-fermait",
+			"nous": "sous-fermions",
+			"vous": "sous-fermiez",
+			"ils/elles": "sous-fermaient"
+		},
+		"futur": {
+			"je": "sous-fermerai",
+			"tu": "sous-fermeras",
+			"il/elle": "sous-fermera",
+			"nous": "sous-fermerons",
+			"vous": "sous-fermerez",
+			"ils/elles": "sous-fermeront"
+		},
+		"passé simple": {
+			"je": "sous-fermai",
+			"tu": "sous-fermas",
+			"il/elle": "sous-ferma",
+			"nous": "sous-fermâmes",
+			"vous": "sous-fermâtes",
+			"ils/elles": "sous-fermèrent"
+		},
+		"passé composé": {
+			"j'": "ai sous-fermé",
+			"tu": "as sous-fermé",
+			"il/elle": "a sous-fermé",
+			"nous": "avons sous-fermé",
+			"vous": "avez sous-fermé",
+			"ils/elles": "ont sous-fermé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais sous-fermé",
+			"tu": "avais sous-fermé",
+			"il/elle": "avait sous-fermé",
+			"nous": "avions sous-fermé",
+			"vous": "aviez sous-fermé",
+			"ils/elles": "avaient sous-fermé"
+		},
+		"passé antérieur": {
+			"j'": "eus sous-fermé",
+			"tu": "eus sous-fermé",
+			"il/elle": "eut sous-fermé",
+			"nous": "eûmes sous-fermé",
+			"vous": "eûtes sous-fermé",
+			"ils/elles": "eurent sous-fermé"
+		},
+		"futur antérieur": {
+			"j'": "aurai sous-fermé",
+			"tu": "auras sous-fermé",
+			"il/elle": "aura sous-fermé",
+			"nous": "aurons sous-fermé",
+			"vous": "aurez sous-fermé",
+			"ils/elles": "auront sous-fermé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous sous-fermiez",
+			"qu'il/elle": "sous-ferme",
+			"qu'ils/elles": "sous-ferment"
+		},
+		"imparfait": {
+			"que": "vous sous-fermassiez",
+			"qu'il/elle": "sous-fermât",
+			"qu'ils/elles": "sous-fermassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse sous-fermé",
+			"que": "vous eussiez sous-fermé",
+			"qu'il/elle": "eût sous-fermé",
+			"qu'ils/elles": "eussent sous-fermé"
+		},
+		"passé": {
+			"j'": "aie sous-fermé",
+			"que": "vous ayez sous-fermé",
+			"qu'il/elle": "ait sous-fermé",
+			"qu'ils/elles": "aient sous-fermé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "sous-fermerais",
+			"tu": "sous-fermerais",
+			"il/elle": "sous-fermerait",
+			"nous": "sous-fermerions",
+			"vous": "sous-fermeriez",
+			"ils/elles": "sous-fermeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais sous-fermé",
+			"tu": "aurais sous-fermé",
+			"il/elle": "aurait sous-fermé",
+			"nous": "aurions sous-fermé",
+			"vous": "auriez sous-fermé",
+			"ils/elles": "auraient sous-fermé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse sous-fermé",
+			"tu": "eusses sous-fermé",
+			"il/elle": "eût sous-fermé",
+			"nous": "eussions sous-fermé",
+			"vous": "eussiez sous-fermé",
+			"ils/elles": "eussent sous-fermé"
+		}
+	},
+	"participe": {
+		"présent": { "sous-fermant": "" },
+		"passé composé": { "ayant": "sous-fermé" },
+		"passé": {
+			"masc.sg.:": "sous-fermé",
+			"masc.pl.:": "sous-fermés",
+			"fém.sg.:": "sous-fermée",
+			"fém.pl.:": "sous-fermées"
+		}
+	},
+	"imperatif": {
+		"présent": { "sous-ferme": "", "sous-fermons": "", "sous-fermez": "" },
+		"passé": {
+			"aie": "sous-fermé",
+			"ayons": "sous-fermé",
+			"ayez": "sous-fermé"
+		}
+	},
+	"infinitif": {
+		"présent": { "sous-fermer": "" },
+		"passé": { "avoir": "sous-fermé" }
+	}
+}

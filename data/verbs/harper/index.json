@@ -1,0 +1,138 @@
+{
+	"name": "harper",
+	"definition": "",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se harper/ne pas harper/ne pas se harper",
+	"indicatif": {
+		"présent": {
+			"je": "harpe",
+			"tu": "harpes",
+			"il/elle": "harpe",
+			"nous": "harpons",
+			"vous": "harpez",
+			"ils/elles": "harpent"
+		},
+		"imparfait": {
+			"je": "harpais",
+			"tu": "harpais",
+			"il/elle": "harpait",
+			"nous": "harpions",
+			"vous": "harpiez",
+			"ils/elles": "harpaient"
+		},
+		"futur": {
+			"je": "harperai",
+			"tu": "harperas",
+			"il/elle": "harpera",
+			"nous": "harperons",
+			"vous": "harperez",
+			"ils/elles": "harperont"
+		},
+		"passé simple": {
+			"je": "harpai",
+			"tu": "harpas",
+			"il/elle": "harpa",
+			"nous": "harpâmes",
+			"vous": "harpâtes",
+			"ils/elles": "harpèrent"
+		},
+		"passé composé": {
+			"j'": "ai harpé",
+			"tu": "as harpé",
+			"il/elle": "a harpé",
+			"nous": "avons harpé",
+			"vous": "avez harpé",
+			"ils/elles": "ont harpé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais harpé",
+			"tu": "avais harpé",
+			"il/elle": "avait harpé",
+			"nous": "avions harpé",
+			"vous": "aviez harpé",
+			"ils/elles": "avaient harpé"
+		},
+		"passé antérieur": {
+			"j'": "eus harpé",
+			"tu": "eus harpé",
+			"il/elle": "eut harpé",
+			"nous": "eûmes harpé",
+			"vous": "eûtes harpé",
+			"ils/elles": "eurent harpé"
+		},
+		"futur antérieur": {
+			"j'": "aurai harpé",
+			"tu": "auras harpé",
+			"il/elle": "aura harpé",
+			"nous": "aurons harpé",
+			"vous": "aurez harpé",
+			"ils/elles": "auront harpé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous harpiez",
+			"qu'il/elle": "harpe",
+			"qu'ils/elles": "harpent"
+		},
+		"imparfait": {
+			"que": "vous harpassiez",
+			"qu'il/elle": "harpât",
+			"qu'ils/elles": "harpassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse harpé",
+			"que": "vous eussiez harpé",
+			"qu'il/elle": "eût harpé",
+			"qu'ils/elles": "eussent harpé"
+		},
+		"passé": {
+			"j'": "aie harpé",
+			"que": "vous ayez harpé",
+			"qu'il/elle": "ait harpé",
+			"qu'ils/elles": "aient harpé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "harperais",
+			"tu": "harperais",
+			"il/elle": "harperait",
+			"nous": "harperions",
+			"vous": "harperiez",
+			"ils/elles": "harperaient"
+		},
+		"passé première forme": {
+			"j'": "aurais harpé",
+			"tu": "aurais harpé",
+			"il/elle": "aurait harpé",
+			"nous": "aurions harpé",
+			"vous": "auriez harpé",
+			"ils/elles": "auraient harpé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse harpé",
+			"tu": "eusses harpé",
+			"il/elle": "eût harpé",
+			"nous": "eussions harpé",
+			"vous": "eussiez harpé",
+			"ils/elles": "eussent harpé"
+		}
+	},
+	"participe": {
+		"présent": { "harpant": "" },
+		"passé composé": { "ayant": "harpé" },
+		"passé": {
+			"masc.sg.:": "harpé",
+			"masc.pl.:": "harpés",
+			"fém.sg.:": "harpée",
+			"fém.pl.:": "harpées"
+		}
+	},
+	"imperatif": {
+		"présent": { "harpe": "", "harpons": "", "harpez": "" },
+		"passé": { "aie": "harpé", "ayons": "harpé", "ayez": "harpé" }
+	},
+	"infinitif": { "présent": { "harper": "" }, "passé": { "avoir": "harpé" } }
+}

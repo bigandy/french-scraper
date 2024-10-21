@@ -1,0 +1,138 @@
+{
+	"name": "taxer",
+	"definition": "tax; bum; impose a tax on; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se taxer/ne pas taxer/ne pas se taxer",
+	"indicatif": {
+		"présent": {
+			"je": "taxe",
+			"tu": "taxes",
+			"il/elle": "taxe",
+			"nous": "taxons",
+			"vous": "taxez",
+			"ils/elles": "taxent"
+		},
+		"imparfait": {
+			"je": "taxais",
+			"tu": "taxais",
+			"il/elle": "taxait",
+			"nous": "taxions",
+			"vous": "taxiez",
+			"ils/elles": "taxaient"
+		},
+		"futur": {
+			"je": "taxerai",
+			"tu": "taxeras",
+			"il/elle": "taxera",
+			"nous": "taxerons",
+			"vous": "taxerez",
+			"ils/elles": "taxeront"
+		},
+		"passé simple": {
+			"je": "taxai",
+			"tu": "taxas",
+			"il/elle": "taxa",
+			"nous": "taxâmes",
+			"vous": "taxâtes",
+			"ils/elles": "taxèrent"
+		},
+		"passé composé": {
+			"j'": "ai taxé",
+			"tu": "as taxé",
+			"il/elle": "a taxé",
+			"nous": "avons taxé",
+			"vous": "avez taxé",
+			"ils/elles": "ont taxé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais taxé",
+			"tu": "avais taxé",
+			"il/elle": "avait taxé",
+			"nous": "avions taxé",
+			"vous": "aviez taxé",
+			"ils/elles": "avaient taxé"
+		},
+		"passé antérieur": {
+			"j'": "eus taxé",
+			"tu": "eus taxé",
+			"il/elle": "eut taxé",
+			"nous": "eûmes taxé",
+			"vous": "eûtes taxé",
+			"ils/elles": "eurent taxé"
+		},
+		"futur antérieur": {
+			"j'": "aurai taxé",
+			"tu": "auras taxé",
+			"il/elle": "aura taxé",
+			"nous": "aurons taxé",
+			"vous": "aurez taxé",
+			"ils/elles": "auront taxé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous taxiez",
+			"qu'il/elle": "taxe",
+			"qu'ils/elles": "taxent"
+		},
+		"imparfait": {
+			"que": "vous taxassiez",
+			"qu'il/elle": "taxât",
+			"qu'ils/elles": "taxassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse taxé",
+			"que": "vous eussiez taxé",
+			"qu'il/elle": "eût taxé",
+			"qu'ils/elles": "eussent taxé"
+		},
+		"passé": {
+			"j'": "aie taxé",
+			"que": "vous ayez taxé",
+			"qu'il/elle": "ait taxé",
+			"qu'ils/elles": "aient taxé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "taxerais",
+			"tu": "taxerais",
+			"il/elle": "taxerait",
+			"nous": "taxerions",
+			"vous": "taxeriez",
+			"ils/elles": "taxeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais taxé",
+			"tu": "aurais taxé",
+			"il/elle": "aurait taxé",
+			"nous": "aurions taxé",
+			"vous": "auriez taxé",
+			"ils/elles": "auraient taxé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse taxé",
+			"tu": "eusses taxé",
+			"il/elle": "eût taxé",
+			"nous": "eussions taxé",
+			"vous": "eussiez taxé",
+			"ils/elles": "eussent taxé"
+		}
+	},
+	"participe": {
+		"présent": { "taxant": "" },
+		"passé composé": { "ayant": "taxé" },
+		"passé": {
+			"masc.sg.:": "taxé",
+			"masc.pl.:": "taxés",
+			"fém.sg.:": "taxée",
+			"fém.pl.:": "taxées"
+		}
+	},
+	"imperatif": {
+		"présent": { "taxe": "", "taxons": "", "taxez": "" },
+		"passé": { "aie": "taxé", "ayons": "taxé", "ayez": "taxé" }
+	},
+	"infinitif": { "présent": { "taxer": "" }, "passé": { "avoir": "taxé" } }
+}

@@ -1,0 +1,143 @@
+{
+	"name": "insulter",
+	"definition": "insult; abuse; curse; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'insulter/ne pas insulter/ne pas s'insulter",
+	"indicatif": {
+		"présent": {
+			"j'": "insulte",
+			"tu": "insultes",
+			"il/elle": "insulte",
+			"nous": "insultons",
+			"vous": "insultez",
+			"ils/elles": "insultent"
+		},
+		"imparfait": {
+			"j'": "insultais",
+			"tu": "insultais",
+			"il/elle": "insultait",
+			"nous": "insultions",
+			"vous": "insultiez",
+			"ils/elles": "insultaient"
+		},
+		"futur": {
+			"j'": "insulterai",
+			"tu": "insulteras",
+			"il/elle": "insultera",
+			"nous": "insulterons",
+			"vous": "insulterez",
+			"ils/elles": "insulteront"
+		},
+		"passé simple": {
+			"j'": "insultai",
+			"tu": "insultas",
+			"il/elle": "insulta",
+			"nous": "insultâmes",
+			"vous": "insultâtes",
+			"ils/elles": "insultèrent"
+		},
+		"passé composé": {
+			"j'": "ai insulté",
+			"tu": "as insulté",
+			"il/elle": "a insulté",
+			"nous": "avons insulté",
+			"vous": "avez insulté",
+			"ils/elles": "ont insulté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais insulté",
+			"tu": "avais insulté",
+			"il/elle": "avait insulté",
+			"nous": "avions insulté",
+			"vous": "aviez insulté",
+			"ils/elles": "avaient insulté"
+		},
+		"passé antérieur": {
+			"j'": "eus insulté",
+			"tu": "eus insulté",
+			"il/elle": "eut insulté",
+			"nous": "eûmes insulté",
+			"vous": "eûtes insulté",
+			"ils/elles": "eurent insulté"
+		},
+		"futur antérieur": {
+			"j'": "aurai insulté",
+			"tu": "auras insulté",
+			"il/elle": "aura insulté",
+			"nous": "aurons insulté",
+			"vous": "aurez insulté",
+			"ils/elles": "auront insulté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "insulte",
+			"que": "vous insultiez",
+			"qu'il/elle": "insulte",
+			"qu'ils/elles": "insultent"
+		},
+		"imparfait": {
+			"j'": "insultasse",
+			"que": "vous insultassiez",
+			"qu'il/elle": "insultât",
+			"qu'ils/elles": "insultassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse insulté",
+			"que": "vous eussiez insulté",
+			"qu'il/elle": "eût insulté",
+			"qu'ils/elles": "eussent insulté"
+		},
+		"passé": {
+			"j'": "aie insulté",
+			"que": "vous ayez insulté",
+			"qu'il/elle": "ait insulté",
+			"qu'ils/elles": "aient insulté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "insulterais",
+			"tu": "insulterais",
+			"il/elle": "insulterait",
+			"nous": "insulterions",
+			"vous": "insulteriez",
+			"ils/elles": "insulteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais insulté",
+			"tu": "aurais insulté",
+			"il/elle": "aurait insulté",
+			"nous": "aurions insulté",
+			"vous": "auriez insulté",
+			"ils/elles": "auraient insulté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse insulté",
+			"tu": "eusses insulté",
+			"il/elle": "eût insulté",
+			"nous": "eussions insulté",
+			"vous": "eussiez insulté",
+			"ils/elles": "eussent insulté"
+		}
+	},
+	"participe": {
+		"présent": { "insultant": "" },
+		"passé composé": { "ayant": "insulté" },
+		"passé": {
+			"masc.sg.:": "insulté",
+			"masc.pl.:": "insultés",
+			"fém.sg.:": "insultée",
+			"fém.pl.:": "insultées"
+		}
+	},
+	"imperatif": {
+		"présent": { "insulte": "", "insultons": "", "insultez": "" },
+		"passé": { "aie": "insulté", "ayons": "insulté", "ayez": "insulté" }
+	},
+	"infinitif": {
+		"présent": { "insulter": "" },
+		"passé": { "avoir": "insulté" }
+	}
+}

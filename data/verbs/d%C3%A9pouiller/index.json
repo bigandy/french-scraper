@@ -1,0 +1,141 @@
+{
+	"name": "dépouiller",
+	"definition": "strip; rob; deprive; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se dépouiller/ne pas dépouiller/ne pas se dépouiller",
+	"indicatif": {
+		"présent": {
+			"je": "dépouille",
+			"tu": "dépouilles",
+			"il/elle": "dépouille",
+			"nous": "dépouillons",
+			"vous": "dépouillez",
+			"ils/elles": "dépouillent"
+		},
+		"imparfait": {
+			"je": "dépouillais",
+			"tu": "dépouillais",
+			"il/elle": "dépouillait",
+			"nous": "dépouillions",
+			"vous": "dépouilliez",
+			"ils/elles": "dépouillaient"
+		},
+		"futur": {
+			"je": "dépouillerai",
+			"tu": "dépouilleras",
+			"il/elle": "dépouillera",
+			"nous": "dépouillerons",
+			"vous": "dépouillerez",
+			"ils/elles": "dépouilleront"
+		},
+		"passé simple": {
+			"je": "dépouillai",
+			"tu": "dépouillas",
+			"il/elle": "dépouilla",
+			"nous": "dépouillâmes",
+			"vous": "dépouillâtes",
+			"ils/elles": "dépouillèrent"
+		},
+		"passé composé": {
+			"j'": "ai dépouillé",
+			"tu": "as dépouillé",
+			"il/elle": "a dépouillé",
+			"nous": "avons dépouillé",
+			"vous": "avez dépouillé",
+			"ils/elles": "ont dépouillé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais dépouillé",
+			"tu": "avais dépouillé",
+			"il/elle": "avait dépouillé",
+			"nous": "avions dépouillé",
+			"vous": "aviez dépouillé",
+			"ils/elles": "avaient dépouillé"
+		},
+		"passé antérieur": {
+			"j'": "eus dépouillé",
+			"tu": "eus dépouillé",
+			"il/elle": "eut dépouillé",
+			"nous": "eûmes dépouillé",
+			"vous": "eûtes dépouillé",
+			"ils/elles": "eurent dépouillé"
+		},
+		"futur antérieur": {
+			"j'": "aurai dépouillé",
+			"tu": "auras dépouillé",
+			"il/elle": "aura dépouillé",
+			"nous": "aurons dépouillé",
+			"vous": "aurez dépouillé",
+			"ils/elles": "auront dépouillé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous dépouilliez",
+			"qu'il/elle": "dépouille",
+			"qu'ils/elles": "dépouillent"
+		},
+		"imparfait": {
+			"que": "vous dépouillassiez",
+			"qu'il/elle": "dépouillât",
+			"qu'ils/elles": "dépouillassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse dépouillé",
+			"que": "vous eussiez dépouillé",
+			"qu'il/elle": "eût dépouillé",
+			"qu'ils/elles": "eussent dépouillé"
+		},
+		"passé": {
+			"j'": "aie dépouillé",
+			"que": "vous ayez dépouillé",
+			"qu'il/elle": "ait dépouillé",
+			"qu'ils/elles": "aient dépouillé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "dépouillerais",
+			"tu": "dépouillerais",
+			"il/elle": "dépouillerait",
+			"nous": "dépouillerions",
+			"vous": "dépouilleriez",
+			"ils/elles": "dépouilleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais dépouillé",
+			"tu": "aurais dépouillé",
+			"il/elle": "aurait dépouillé",
+			"nous": "aurions dépouillé",
+			"vous": "auriez dépouillé",
+			"ils/elles": "auraient dépouillé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse dépouillé",
+			"tu": "eusses dépouillé",
+			"il/elle": "eût dépouillé",
+			"nous": "eussions dépouillé",
+			"vous": "eussiez dépouillé",
+			"ils/elles": "eussent dépouillé"
+		}
+	},
+	"participe": {
+		"présent": { "dépouillant": "" },
+		"passé composé": { "ayant": "dépouillé" },
+		"passé": {
+			"masc.sg.:": "dépouillé",
+			"masc.pl.:": "dépouillés",
+			"fém.sg.:": "dépouillée",
+			"fém.pl.:": "dépouillées"
+		}
+	},
+	"imperatif": {
+		"présent": { "dépouille": "", "dépouillons": "", "dépouillez": "" },
+		"passé": { "aie": "dépouillé", "ayons": "dépouillé", "ayez": "dépouillé" }
+	},
+	"infinitif": {
+		"présent": { "dépouiller": "" },
+		"passé": { "avoir": "dépouillé" }
+	}
+}

@@ -1,0 +1,138 @@
+{
+	"name": "trôner",
+	"definition": "throne; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se trôner/ne pas trôner/ne pas se trôner",
+	"indicatif": {
+		"présent": {
+			"je": "trône",
+			"tu": "trônes",
+			"il/elle": "trône",
+			"nous": "trônons",
+			"vous": "trônez",
+			"ils/elles": "trônent"
+		},
+		"imparfait": {
+			"je": "trônais",
+			"tu": "trônais",
+			"il/elle": "trônait",
+			"nous": "trônions",
+			"vous": "trôniez",
+			"ils/elles": "trônaient"
+		},
+		"futur": {
+			"je": "trônerai",
+			"tu": "trôneras",
+			"il/elle": "trônera",
+			"nous": "trônerons",
+			"vous": "trônerez",
+			"ils/elles": "trôneront"
+		},
+		"passé simple": {
+			"je": "trônai",
+			"tu": "trônas",
+			"il/elle": "trôna",
+			"nous": "trônâmes",
+			"vous": "trônâtes",
+			"ils/elles": "trônèrent"
+		},
+		"passé composé": {
+			"j'": "ai trôné",
+			"tu": "as trôné",
+			"il/elle": "a trôné",
+			"nous": "avons trôné",
+			"vous": "avez trôné",
+			"ils/elles": "ont trôné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais trôné",
+			"tu": "avais trôné",
+			"il/elle": "avait trôné",
+			"nous": "avions trôné",
+			"vous": "aviez trôné",
+			"ils/elles": "avaient trôné"
+		},
+		"passé antérieur": {
+			"j'": "eus trôné",
+			"tu": "eus trôné",
+			"il/elle": "eut trôné",
+			"nous": "eûmes trôné",
+			"vous": "eûtes trôné",
+			"ils/elles": "eurent trôné"
+		},
+		"futur antérieur": {
+			"j'": "aurai trôné",
+			"tu": "auras trôné",
+			"il/elle": "aura trôné",
+			"nous": "aurons trôné",
+			"vous": "aurez trôné",
+			"ils/elles": "auront trôné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous trôniez",
+			"qu'il/elle": "trône",
+			"qu'ils/elles": "trônent"
+		},
+		"imparfait": {
+			"que": "vous trônassiez",
+			"qu'il/elle": "trônât",
+			"qu'ils/elles": "trônassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse trôné",
+			"que": "vous eussiez trôné",
+			"qu'il/elle": "eût trôné",
+			"qu'ils/elles": "eussent trôné"
+		},
+		"passé": {
+			"j'": "aie trôné",
+			"que": "vous ayez trôné",
+			"qu'il/elle": "ait trôné",
+			"qu'ils/elles": "aient trôné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "trônerais",
+			"tu": "trônerais",
+			"il/elle": "trônerait",
+			"nous": "trônerions",
+			"vous": "trôneriez",
+			"ils/elles": "trôneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais trôné",
+			"tu": "aurais trôné",
+			"il/elle": "aurait trôné",
+			"nous": "aurions trôné",
+			"vous": "auriez trôné",
+			"ils/elles": "auraient trôné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse trôné",
+			"tu": "eusses trôné",
+			"il/elle": "eût trôné",
+			"nous": "eussions trôné",
+			"vous": "eussiez trôné",
+			"ils/elles": "eussent trôné"
+		}
+	},
+	"participe": {
+		"présent": { "trônant": "" },
+		"passé composé": { "ayant": "trôné" },
+		"passé": {
+			"masc.sg.:": "trôné",
+			"masc.pl.:": "trônés",
+			"fém.sg.:": "trônée",
+			"fém.pl.:": "trônées"
+		}
+	},
+	"imperatif": {
+		"présent": { "trône": "", "trônons": "", "trônez": "" },
+		"passé": { "aie": "trôné", "ayons": "trôné", "ayez": "trôné" }
+	},
+	"infinitif": { "présent": { "trôner": "" }, "passé": { "avoir": "trôné" } }
+}

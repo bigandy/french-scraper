@@ -1,0 +1,138 @@
+{
+	"name": "dédier",
+	"definition": "dedicate; devote; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se dédier/ne pas dédier/ne pas se dédier",
+	"indicatif": {
+		"présent": {
+			"je": "dédie",
+			"tu": "dédies",
+			"il/elle": "dédie",
+			"nous": "dédions",
+			"vous": "dédiez",
+			"ils/elles": "dédient"
+		},
+		"imparfait": {
+			"je": "dédiais",
+			"tu": "dédiais",
+			"il/elle": "dédiait",
+			"nous": "dédiions",
+			"vous": "dédiiez",
+			"ils/elles": "dédiaient"
+		},
+		"futur": {
+			"je": "dédierai",
+			"tu": "dédieras",
+			"il/elle": "dédiera",
+			"nous": "dédierons",
+			"vous": "dédierez",
+			"ils/elles": "dédieront"
+		},
+		"passé simple": {
+			"je": "dédiai",
+			"tu": "dédias",
+			"il/elle": "dédia",
+			"nous": "dédiâmes",
+			"vous": "dédiâtes",
+			"ils/elles": "dédièrent"
+		},
+		"passé composé": {
+			"j'": "ai dédié",
+			"tu": "as dédié",
+			"il/elle": "a dédié",
+			"nous": "avons dédié",
+			"vous": "avez dédié",
+			"ils/elles": "ont dédié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais dédié",
+			"tu": "avais dédié",
+			"il/elle": "avait dédié",
+			"nous": "avions dédié",
+			"vous": "aviez dédié",
+			"ils/elles": "avaient dédié"
+		},
+		"passé antérieur": {
+			"j'": "eus dédié",
+			"tu": "eus dédié",
+			"il/elle": "eut dédié",
+			"nous": "eûmes dédié",
+			"vous": "eûtes dédié",
+			"ils/elles": "eurent dédié"
+		},
+		"futur antérieur": {
+			"j'": "aurai dédié",
+			"tu": "auras dédié",
+			"il/elle": "aura dédié",
+			"nous": "aurons dédié",
+			"vous": "aurez dédié",
+			"ils/elles": "auront dédié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous dédiiez",
+			"qu'il/elle": "dédie",
+			"qu'ils/elles": "dédient"
+		},
+		"imparfait": {
+			"que": "vous dédiassiez",
+			"qu'il/elle": "dédiât",
+			"qu'ils/elles": "dédiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse dédié",
+			"que": "vous eussiez dédié",
+			"qu'il/elle": "eût dédié",
+			"qu'ils/elles": "eussent dédié"
+		},
+		"passé": {
+			"j'": "aie dédié",
+			"que": "vous ayez dédié",
+			"qu'il/elle": "ait dédié",
+			"qu'ils/elles": "aient dédié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "dédierais",
+			"tu": "dédierais",
+			"il/elle": "dédierait",
+			"nous": "dédierions",
+			"vous": "dédieriez",
+			"ils/elles": "dédieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais dédié",
+			"tu": "aurais dédié",
+			"il/elle": "aurait dédié",
+			"nous": "aurions dédié",
+			"vous": "auriez dédié",
+			"ils/elles": "auraient dédié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse dédié",
+			"tu": "eusses dédié",
+			"il/elle": "eût dédié",
+			"nous": "eussions dédié",
+			"vous": "eussiez dédié",
+			"ils/elles": "eussent dédié"
+		}
+	},
+	"participe": {
+		"présent": { "dédiant": "" },
+		"passé composé": { "ayant": "dédié" },
+		"passé": {
+			"masc.sg.:": "dédié",
+			"masc.pl.:": "dédiés",
+			"fém.sg.:": "dédiée",
+			"fém.pl.:": "dédiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "dédie": "", "dédions": "", "dédiez": "" },
+		"passé": { "aie": "dédié", "ayons": "dédié", "ayez": "dédié" }
+	},
+	"infinitif": { "présent": { "dédier": "" }, "passé": { "avoir": "dédié" } }
+}

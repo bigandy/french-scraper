@@ -1,0 +1,138 @@
+{
+	"name": "draper",
+	"definition": "drape; wrap; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se draper/ne pas draper/ne pas se draper",
+	"indicatif": {
+		"présent": {
+			"je": "drape",
+			"tu": "drapes",
+			"il/elle": "drape",
+			"nous": "drapons",
+			"vous": "drapez",
+			"ils/elles": "drapent"
+		},
+		"imparfait": {
+			"je": "drapais",
+			"tu": "drapais",
+			"il/elle": "drapait",
+			"nous": "drapions",
+			"vous": "drapiez",
+			"ils/elles": "drapaient"
+		},
+		"futur": {
+			"je": "draperai",
+			"tu": "draperas",
+			"il/elle": "drapera",
+			"nous": "draperons",
+			"vous": "draperez",
+			"ils/elles": "draperont"
+		},
+		"passé simple": {
+			"je": "drapai",
+			"tu": "drapas",
+			"il/elle": "drapa",
+			"nous": "drapâmes",
+			"vous": "drapâtes",
+			"ils/elles": "drapèrent"
+		},
+		"passé composé": {
+			"j'": "ai drapé",
+			"tu": "as drapé",
+			"il/elle": "a drapé",
+			"nous": "avons drapé",
+			"vous": "avez drapé",
+			"ils/elles": "ont drapé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais drapé",
+			"tu": "avais drapé",
+			"il/elle": "avait drapé",
+			"nous": "avions drapé",
+			"vous": "aviez drapé",
+			"ils/elles": "avaient drapé"
+		},
+		"passé antérieur": {
+			"j'": "eus drapé",
+			"tu": "eus drapé",
+			"il/elle": "eut drapé",
+			"nous": "eûmes drapé",
+			"vous": "eûtes drapé",
+			"ils/elles": "eurent drapé"
+		},
+		"futur antérieur": {
+			"j'": "aurai drapé",
+			"tu": "auras drapé",
+			"il/elle": "aura drapé",
+			"nous": "aurons drapé",
+			"vous": "aurez drapé",
+			"ils/elles": "auront drapé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous drapiez",
+			"qu'il/elle": "drape",
+			"qu'ils/elles": "drapent"
+		},
+		"imparfait": {
+			"que": "vous drapassiez",
+			"qu'il/elle": "drapât",
+			"qu'ils/elles": "drapassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse drapé",
+			"que": "vous eussiez drapé",
+			"qu'il/elle": "eût drapé",
+			"qu'ils/elles": "eussent drapé"
+		},
+		"passé": {
+			"j'": "aie drapé",
+			"que": "vous ayez drapé",
+			"qu'il/elle": "ait drapé",
+			"qu'ils/elles": "aient drapé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "draperais",
+			"tu": "draperais",
+			"il/elle": "draperait",
+			"nous": "draperions",
+			"vous": "draperiez",
+			"ils/elles": "draperaient"
+		},
+		"passé première forme": {
+			"j'": "aurais drapé",
+			"tu": "aurais drapé",
+			"il/elle": "aurait drapé",
+			"nous": "aurions drapé",
+			"vous": "auriez drapé",
+			"ils/elles": "auraient drapé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse drapé",
+			"tu": "eusses drapé",
+			"il/elle": "eût drapé",
+			"nous": "eussions drapé",
+			"vous": "eussiez drapé",
+			"ils/elles": "eussent drapé"
+		}
+	},
+	"participe": {
+		"présent": { "drapant": "" },
+		"passé composé": { "ayant": "drapé" },
+		"passé": {
+			"masc.sg.:": "drapé",
+			"masc.pl.:": "drapés",
+			"fém.sg.:": "drapée",
+			"fém.pl.:": "drapées"
+		}
+	},
+	"imperatif": {
+		"présent": { "drape": "", "drapons": "", "drapez": "" },
+		"passé": { "aie": "drapé", "ayons": "drapé", "ayez": "drapé" }
+	},
+	"infinitif": { "présent": { "draper": "" }, "passé": { "avoir": "drapé" } }
+}

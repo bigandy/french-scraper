@@ -1,0 +1,138 @@
+{
+	"name": "bannir",
+	"definition": "ban; banish; outlaw; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se bannir/ne pas bannir/ne pas se bannir",
+	"indicatif": {
+		"présent": {
+			"je": "bannis",
+			"tu": "bannis",
+			"il/elle": "bannit",
+			"nous": "bannissons",
+			"vous": "bannissez",
+			"ils/elles": "bannissent"
+		},
+		"imparfait": {
+			"je": "bannissais",
+			"tu": "bannissais",
+			"il/elle": "bannissait",
+			"nous": "bannissions",
+			"vous": "bannissiez",
+			"ils/elles": "bannissaient"
+		},
+		"futur": {
+			"je": "bannirai",
+			"tu": "banniras",
+			"il/elle": "bannira",
+			"nous": "bannirons",
+			"vous": "bannirez",
+			"ils/elles": "banniront"
+		},
+		"passé simple": {
+			"je": "bannis",
+			"tu": "bannis",
+			"il/elle": "bannit",
+			"nous": "bannîmes",
+			"vous": "bannîtes",
+			"ils/elles": "bannirent"
+		},
+		"passé composé": {
+			"j'": "ai banni",
+			"tu": "as banni",
+			"il/elle": "a banni",
+			"nous": "avons banni",
+			"vous": "avez banni",
+			"ils/elles": "ont banni"
+		},
+		"plus-que-parfait": {
+			"j'": "avais banni",
+			"tu": "avais banni",
+			"il/elle": "avait banni",
+			"nous": "avions banni",
+			"vous": "aviez banni",
+			"ils/elles": "avaient banni"
+		},
+		"passé antérieur": {
+			"j'": "eus banni",
+			"tu": "eus banni",
+			"il/elle": "eut banni",
+			"nous": "eûmes banni",
+			"vous": "eûtes banni",
+			"ils/elles": "eurent banni"
+		},
+		"futur antérieur": {
+			"j'": "aurai banni",
+			"tu": "auras banni",
+			"il/elle": "aura banni",
+			"nous": "aurons banni",
+			"vous": "aurez banni",
+			"ils/elles": "auront banni"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous bannissiez",
+			"qu'il/elle": "bannisse",
+			"qu'ils/elles": "bannissent"
+		},
+		"imparfait": {
+			"que": "vous bannissiez",
+			"qu'il/elle": "bannît",
+			"qu'ils/elles": "bannissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse banni",
+			"que": "vous eussiez banni",
+			"qu'il/elle": "eût banni",
+			"qu'ils/elles": "eussent banni"
+		},
+		"passé": {
+			"j'": "aie banni",
+			"que": "vous ayez banni",
+			"qu'il/elle": "ait banni",
+			"qu'ils/elles": "aient banni"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "bannirais",
+			"tu": "bannirais",
+			"il/elle": "bannirait",
+			"nous": "bannirions",
+			"vous": "banniriez",
+			"ils/elles": "banniraient"
+		},
+		"passé première forme": {
+			"j'": "aurais banni",
+			"tu": "aurais banni",
+			"il/elle": "aurait banni",
+			"nous": "aurions banni",
+			"vous": "auriez banni",
+			"ils/elles": "auraient banni"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse banni",
+			"tu": "eusses banni",
+			"il/elle": "eût banni",
+			"nous": "eussions banni",
+			"vous": "eussiez banni",
+			"ils/elles": "eussent banni"
+		}
+	},
+	"participe": {
+		"présent": { "bannissant": "" },
+		"passé composé": { "ayant": "banni" },
+		"passé": {
+			"masc.sg.:": "banni",
+			"masc.pl.:": "bannis",
+			"fém.sg.:": "bannie",
+			"fém.pl.:": "bannies"
+		}
+	},
+	"imperatif": {
+		"présent": { "bannis": "", "bannissons": "", "bannissez": "" },
+		"passé": { "aie": "banni", "ayons": "banni", "ayez": "banni" }
+	},
+	"infinitif": { "présent": { "bannir": "" }, "passé": { "avoir": "banni" } }
+}

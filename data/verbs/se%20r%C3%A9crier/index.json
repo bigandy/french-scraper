@@ -1,0 +1,155 @@
+{
+	"name": "se récrier",
+	"definition": "cry out; ...",
+	"model": "marcher",
+	"auxiliary": "être",
+	"otherForms": "ne pas se récrier",
+	"indicatif": {
+		"présent": {
+			"je": "me récrie",
+			"tu": "te récries",
+			"il/elle": "se récrie",
+			"nous": "nous récrions",
+			"vous": "vous récriez",
+			"ils/elles": "se récrient"
+		},
+		"imparfait": {
+			"je": "me récriais",
+			"tu": "te récriais",
+			"il/elle": "se récriait",
+			"nous": "nous récriions",
+			"vous": "vous récriiez",
+			"ils/elles": "se récriaient"
+		},
+		"futur": {
+			"je": "me récrierai",
+			"tu": "te récrieras",
+			"il/elle": "se récriera",
+			"nous": "nous récrierons",
+			"vous": "vous récrierez",
+			"ils/elles": "se récrieront"
+		},
+		"passé simple": {
+			"je": "me récriai",
+			"tu": "te récrias",
+			"il/elle": "se récria",
+			"nous": "nous récriâmes",
+			"vous": "vous récriâtes",
+			"ils/elles": "se récrièrent"
+		},
+		"passé composé": {
+			"je": "me suis récrié",
+			"tu": "t'es récrié",
+			"il": "s'est récrié",
+			"elle": "s'est récriée",
+			"nous": "nous sommes récriés",
+			"vous": "vous êtes récriés",
+			"ils": "se sont récriés",
+			"elles": "se sont récriées"
+		},
+		"plus-que-parfait": {
+			"je": "m'étais récrié",
+			"tu": "t'étais récrié",
+			"il": "s'était récrié",
+			"elle": "s'était récriée",
+			"nous": "nous étions récriés",
+			"vous": "vous étiez récriés",
+			"ils": "s'étaient récriés",
+			"elles": "s'étaient récriées"
+		},
+		"passé antérieur": {
+			"je": "me fus récrié",
+			"tu": "te fus récrié",
+			"il": "se fut récrié",
+			"elle": "se fut récriée",
+			"nous": "nous fûmes récriés",
+			"vous": "vous fûtes récriés",
+			"ils": "se furent récriés",
+			"elles": "se furent récriées"
+		},
+		"futur antérieur": {
+			"je": "me serai récrié",
+			"tu": "te seras récrié",
+			"il": "se sera récrié",
+			"elle": "se sera récriée",
+			"nous": "nous serons récriés",
+			"vous": "vous serez récriés",
+			"ils": "se seront récriés",
+			"elles": "se seront récriées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous vous récriiez",
+			"qu'il/elle": "se récrie",
+			"qu'ils/elles": "se récrient"
+		},
+		"imparfait": {
+			"que": "vous vous récriassiez",
+			"qu'il/elle": "se récriât",
+			"qu'ils/elles": "se récriassent"
+		},
+		"plus-que-parfait": {
+			"que": "vous vous fussiez récriés",
+			"qu'il": "se fût récrié",
+			"qu'elle": "se fût récriée",
+			"qu'ils": "se fussent récriés",
+			"qu'elles": "se fussent récriées"
+		},
+		"passé": {
+			"que": "vous vous soyez récriés",
+			"qu'il": "se soit récrié",
+			"qu'elle": "se soit récriée",
+			"qu'ils": "se soient récriés",
+			"qu'elles": "se soient récriées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "me récrierais",
+			"tu": "te récrierais",
+			"il/elle": "se récrierait",
+			"nous": "nous récrierions",
+			"vous": "vous récrieriez",
+			"ils/elles": "se récrieraient"
+		},
+		"passé première forme": {
+			"je": "me serais récrié",
+			"tu": "te serais récrié",
+			"il": "se serait récrié",
+			"elle": "se serait récriée",
+			"nous": "nous serions récriés",
+			"vous": "vous seriez récriés",
+			"ils": "se seraient récriés",
+			"elles": "se seraient récriées"
+		},
+		"passé deuxième forme": {
+			"je": "me fusse récrié",
+			"tu": "te fusses récrié",
+			"il": "se fût récrié",
+			"elle": "se fût récriée",
+			"nous": "nous fussions récriés",
+			"vous": "vous fussiez récriés",
+			"ils": "se fussent récriés",
+			"elles": "se fussent récriées"
+		}
+	},
+	"participe": {
+		"présent": { "se": "récriant" },
+		"passé composé": { "s'étant": "récrié" },
+		"passé": {
+			"masc.sg.:": "récrié",
+			"masc.pl.:": "récriés",
+			"fém.sg.:": "récriée",
+			"fém.pl.:": "récriées"
+		}
+	},
+	"imperatif": {
+		"présent": { "récrie-toi": "", "récrions-nous": "", "récriez-vous": "" },
+		"passé": {}
+	},
+	"infinitif": {
+		"présent": { "se": "récrier" },
+		"passé": { "s'être": "récrié" }
+	}
+}

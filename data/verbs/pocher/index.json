@@ -1,0 +1,138 @@
+{
+	"name": "pocher",
+	"definition": "poach; seat at the back; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se pocher/ne pas pocher/ne pas se pocher",
+	"indicatif": {
+		"présent": {
+			"je": "poche",
+			"tu": "poches",
+			"il/elle": "poche",
+			"nous": "pochons",
+			"vous": "pochez",
+			"ils/elles": "pochent"
+		},
+		"imparfait": {
+			"je": "pochais",
+			"tu": "pochais",
+			"il/elle": "pochait",
+			"nous": "pochions",
+			"vous": "pochiez",
+			"ils/elles": "pochaient"
+		},
+		"futur": {
+			"je": "pocherai",
+			"tu": "pocheras",
+			"il/elle": "pochera",
+			"nous": "pocherons",
+			"vous": "pocherez",
+			"ils/elles": "pocheront"
+		},
+		"passé simple": {
+			"je": "pochai",
+			"tu": "pochas",
+			"il/elle": "pocha",
+			"nous": "pochâmes",
+			"vous": "pochâtes",
+			"ils/elles": "pochèrent"
+		},
+		"passé composé": {
+			"j'": "ai poché",
+			"tu": "as poché",
+			"il/elle": "a poché",
+			"nous": "avons poché",
+			"vous": "avez poché",
+			"ils/elles": "ont poché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais poché",
+			"tu": "avais poché",
+			"il/elle": "avait poché",
+			"nous": "avions poché",
+			"vous": "aviez poché",
+			"ils/elles": "avaient poché"
+		},
+		"passé antérieur": {
+			"j'": "eus poché",
+			"tu": "eus poché",
+			"il/elle": "eut poché",
+			"nous": "eûmes poché",
+			"vous": "eûtes poché",
+			"ils/elles": "eurent poché"
+		},
+		"futur antérieur": {
+			"j'": "aurai poché",
+			"tu": "auras poché",
+			"il/elle": "aura poché",
+			"nous": "aurons poché",
+			"vous": "aurez poché",
+			"ils/elles": "auront poché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous pochiez",
+			"qu'il/elle": "poche",
+			"qu'ils/elles": "pochent"
+		},
+		"imparfait": {
+			"que": "vous pochassiez",
+			"qu'il/elle": "pochât",
+			"qu'ils/elles": "pochassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse poché",
+			"que": "vous eussiez poché",
+			"qu'il/elle": "eût poché",
+			"qu'ils/elles": "eussent poché"
+		},
+		"passé": {
+			"j'": "aie poché",
+			"que": "vous ayez poché",
+			"qu'il/elle": "ait poché",
+			"qu'ils/elles": "aient poché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "pocherais",
+			"tu": "pocherais",
+			"il/elle": "pocherait",
+			"nous": "pocherions",
+			"vous": "pocheriez",
+			"ils/elles": "pocheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais poché",
+			"tu": "aurais poché",
+			"il/elle": "aurait poché",
+			"nous": "aurions poché",
+			"vous": "auriez poché",
+			"ils/elles": "auraient poché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse poché",
+			"tu": "eusses poché",
+			"il/elle": "eût poché",
+			"nous": "eussions poché",
+			"vous": "eussiez poché",
+			"ils/elles": "eussent poché"
+		}
+	},
+	"participe": {
+		"présent": { "pochant": "" },
+		"passé composé": { "ayant": "poché" },
+		"passé": {
+			"masc.sg.:": "poché",
+			"masc.pl.:": "pochés",
+			"fém.sg.:": "pochée",
+			"fém.pl.:": "pochées"
+		}
+	},
+	"imperatif": {
+		"présent": { "poche": "", "pochons": "", "pochez": "" },
+		"passé": { "aie": "poché", "ayons": "poché", "ayez": "poché" }
+	},
+	"infinitif": { "présent": { "pocher": "" }, "passé": { "avoir": "poché" } }
+}

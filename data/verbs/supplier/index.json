@@ -1,0 +1,141 @@
+{
+	"name": "supplier",
+	"definition": "beg; plead; beseech; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se supplier/ne pas supplier/ne pas se supplier",
+	"indicatif": {
+		"présent": {
+			"je": "supplie",
+			"tu": "supplies",
+			"il/elle": "supplie",
+			"nous": "supplions",
+			"vous": "suppliez",
+			"ils/elles": "supplient"
+		},
+		"imparfait": {
+			"je": "suppliais",
+			"tu": "suppliais",
+			"il/elle": "suppliait",
+			"nous": "suppliions",
+			"vous": "suppliiez",
+			"ils/elles": "suppliaient"
+		},
+		"futur": {
+			"je": "supplierai",
+			"tu": "supplieras",
+			"il/elle": "suppliera",
+			"nous": "supplierons",
+			"vous": "supplierez",
+			"ils/elles": "supplieront"
+		},
+		"passé simple": {
+			"je": "suppliai",
+			"tu": "supplias",
+			"il/elle": "supplia",
+			"nous": "suppliâmes",
+			"vous": "suppliâtes",
+			"ils/elles": "supplièrent"
+		},
+		"passé composé": {
+			"j'": "ai supplié",
+			"tu": "as supplié",
+			"il/elle": "a supplié",
+			"nous": "avons supplié",
+			"vous": "avez supplié",
+			"ils/elles": "ont supplié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais supplié",
+			"tu": "avais supplié",
+			"il/elle": "avait supplié",
+			"nous": "avions supplié",
+			"vous": "aviez supplié",
+			"ils/elles": "avaient supplié"
+		},
+		"passé antérieur": {
+			"j'": "eus supplié",
+			"tu": "eus supplié",
+			"il/elle": "eut supplié",
+			"nous": "eûmes supplié",
+			"vous": "eûtes supplié",
+			"ils/elles": "eurent supplié"
+		},
+		"futur antérieur": {
+			"j'": "aurai supplié",
+			"tu": "auras supplié",
+			"il/elle": "aura supplié",
+			"nous": "aurons supplié",
+			"vous": "aurez supplié",
+			"ils/elles": "auront supplié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous suppliiez",
+			"qu'il/elle": "supplie",
+			"qu'ils/elles": "supplient"
+		},
+		"imparfait": {
+			"que": "vous suppliassiez",
+			"qu'il/elle": "suppliât",
+			"qu'ils/elles": "suppliassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse supplié",
+			"que": "vous eussiez supplié",
+			"qu'il/elle": "eût supplié",
+			"qu'ils/elles": "eussent supplié"
+		},
+		"passé": {
+			"j'": "aie supplié",
+			"que": "vous ayez supplié",
+			"qu'il/elle": "ait supplié",
+			"qu'ils/elles": "aient supplié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "supplierais",
+			"tu": "supplierais",
+			"il/elle": "supplierait",
+			"nous": "supplierions",
+			"vous": "supplieriez",
+			"ils/elles": "supplieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais supplié",
+			"tu": "aurais supplié",
+			"il/elle": "aurait supplié",
+			"nous": "aurions supplié",
+			"vous": "auriez supplié",
+			"ils/elles": "auraient supplié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse supplié",
+			"tu": "eusses supplié",
+			"il/elle": "eût supplié",
+			"nous": "eussions supplié",
+			"vous": "eussiez supplié",
+			"ils/elles": "eussent supplié"
+		}
+	},
+	"participe": {
+		"présent": { "suppliant": "" },
+		"passé composé": { "ayant": "supplié" },
+		"passé": {
+			"masc.sg.:": "supplié",
+			"masc.pl.:": "suppliés",
+			"fém.sg.:": "suppliée",
+			"fém.pl.:": "suppliées"
+		}
+	},
+	"imperatif": {
+		"présent": { "supplie": "", "supplions": "", "suppliez": "" },
+		"passé": { "aie": "supplié", "ayons": "supplié", "ayez": "supplié" }
+	},
+	"infinitif": {
+		"présent": { "supplier": "" },
+		"passé": { "avoir": "supplié" }
+	}
+}

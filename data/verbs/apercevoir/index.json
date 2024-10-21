@@ -1,0 +1,143 @@
+{
+	"name": "apercevoir",
+	"definition": "see; notice; realize; ...",
+	"model": "recevoir",
+	"auxiliary": "avoir",
+	"otherForms": "s'apercevoir/ne pas apercevoir/ne pas s'apercevoir",
+	"indicatif": {
+		"présent": {
+			"j'": "aperçois",
+			"tu": "aperçois",
+			"il/elle": "aperçoit",
+			"nous": "apercevons",
+			"vous": "apercevez",
+			"ils/elles": "aperçoivent"
+		},
+		"imparfait": {
+			"j'": "apercevais",
+			"tu": "apercevais",
+			"il/elle": "apercevait",
+			"nous": "apercevions",
+			"vous": "aperceviez",
+			"ils/elles": "apercevaient"
+		},
+		"futur": {
+			"j'": "apercevrai",
+			"tu": "apercevras",
+			"il/elle": "apercevra",
+			"nous": "apercevrons",
+			"vous": "apercevrez",
+			"ils/elles": "apercevront"
+		},
+		"passé simple": {
+			"j'": "aperçus",
+			"tu": "aperçus",
+			"il/elle": "aperçut",
+			"nous": "aperçûmes",
+			"vous": "aperçûtes",
+			"ils/elles": "aperçurent"
+		},
+		"passé composé": {
+			"j'": "ai aperçu",
+			"tu": "as aperçu",
+			"il/elle": "a aperçu",
+			"nous": "avons aperçu",
+			"vous": "avez aperçu",
+			"ils/elles": "ont aperçu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais aperçu",
+			"tu": "avais aperçu",
+			"il/elle": "avait aperçu",
+			"nous": "avions aperçu",
+			"vous": "aviez aperçu",
+			"ils/elles": "avaient aperçu"
+		},
+		"passé antérieur": {
+			"j'": "eus aperçu",
+			"tu": "eus aperçu",
+			"il/elle": "eut aperçu",
+			"nous": "eûmes aperçu",
+			"vous": "eûtes aperçu",
+			"ils/elles": "eurent aperçu"
+		},
+		"futur antérieur": {
+			"j'": "aurai aperçu",
+			"tu": "auras aperçu",
+			"il/elle": "aura aperçu",
+			"nous": "aurons aperçu",
+			"vous": "aurez aperçu",
+			"ils/elles": "auront aperçu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "aperçoive",
+			"que": "vous aperceviez",
+			"qu'il/elle": "aperçoive",
+			"qu'ils/elles": "aperçoivent"
+		},
+		"imparfait": {
+			"j'": "aperçusse",
+			"que": "vous aperçussiez",
+			"qu'il/elle": "aperçût",
+			"qu'ils/elles": "aperçussent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse aperçu",
+			"que": "vous eussiez aperçu",
+			"qu'il/elle": "eût aperçu",
+			"qu'ils/elles": "eussent aperçu"
+		},
+		"passé": {
+			"j'": "aie aperçu",
+			"que": "vous ayez aperçu",
+			"qu'il/elle": "ait aperçu",
+			"qu'ils/elles": "aient aperçu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "apercevrais",
+			"tu": "apercevrais",
+			"il/elle": "apercevrait",
+			"nous": "apercevrions",
+			"vous": "apercevriez",
+			"ils/elles": "apercevraient"
+		},
+		"passé première forme": {
+			"j'": "aurais aperçu",
+			"tu": "aurais aperçu",
+			"il/elle": "aurait aperçu",
+			"nous": "aurions aperçu",
+			"vous": "auriez aperçu",
+			"ils/elles": "auraient aperçu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse aperçu",
+			"tu": "eusses aperçu",
+			"il/elle": "eût aperçu",
+			"nous": "eussions aperçu",
+			"vous": "eussiez aperçu",
+			"ils/elles": "eussent aperçu"
+		}
+	},
+	"participe": {
+		"présent": { "apercevant": "" },
+		"passé composé": { "ayant": "aperçu" },
+		"passé": {
+			"masc.sg.:": "aperçu",
+			"masc.pl.:": "aperçus",
+			"fém.sg.:": "aperçue",
+			"fém.pl.:": "aperçues"
+		}
+	},
+	"imperatif": {
+		"présent": { "aperçois": "", "apercevons": "", "apercevez": "" },
+		"passé": { "aie": "aperçu", "ayons": "aperçu", "ayez": "aperçu" }
+	},
+	"infinitif": {
+		"présent": { "apercevoir": "" },
+		"passé": { "avoir": "aperçu" }
+	}
+}

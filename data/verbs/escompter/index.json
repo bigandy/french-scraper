@@ -1,0 +1,143 @@
+{
+	"name": "escompter",
+	"definition": "expect; be expected; discount; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'escompter/ne pas escompter/ne pas s'escompter",
+	"indicatif": {
+		"présent": {
+			"j'": "escompte",
+			"tu": "escomptes",
+			"il/elle": "escompte",
+			"nous": "escomptons",
+			"vous": "escomptez",
+			"ils/elles": "escomptent"
+		},
+		"imparfait": {
+			"j'": "escomptais",
+			"tu": "escomptais",
+			"il/elle": "escomptait",
+			"nous": "escomptions",
+			"vous": "escomptiez",
+			"ils/elles": "escomptaient"
+		},
+		"futur": {
+			"j'": "escompterai",
+			"tu": "escompteras",
+			"il/elle": "escomptera",
+			"nous": "escompterons",
+			"vous": "escompterez",
+			"ils/elles": "escompteront"
+		},
+		"passé simple": {
+			"j'": "escomptai",
+			"tu": "escomptas",
+			"il/elle": "escompta",
+			"nous": "escomptâmes",
+			"vous": "escomptâtes",
+			"ils/elles": "escomptèrent"
+		},
+		"passé composé": {
+			"j'": "ai escompté",
+			"tu": "as escompté",
+			"il/elle": "a escompté",
+			"nous": "avons escompté",
+			"vous": "avez escompté",
+			"ils/elles": "ont escompté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais escompté",
+			"tu": "avais escompté",
+			"il/elle": "avait escompté",
+			"nous": "avions escompté",
+			"vous": "aviez escompté",
+			"ils/elles": "avaient escompté"
+		},
+		"passé antérieur": {
+			"j'": "eus escompté",
+			"tu": "eus escompté",
+			"il/elle": "eut escompté",
+			"nous": "eûmes escompté",
+			"vous": "eûtes escompté",
+			"ils/elles": "eurent escompté"
+		},
+		"futur antérieur": {
+			"j'": "aurai escompté",
+			"tu": "auras escompté",
+			"il/elle": "aura escompté",
+			"nous": "aurons escompté",
+			"vous": "aurez escompté",
+			"ils/elles": "auront escompté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "escompte",
+			"que": "vous escomptiez",
+			"qu'il/elle": "escompte",
+			"qu'ils/elles": "escomptent"
+		},
+		"imparfait": {
+			"j'": "escomptasse",
+			"que": "vous escomptassiez",
+			"qu'il/elle": "escomptât",
+			"qu'ils/elles": "escomptassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse escompté",
+			"que": "vous eussiez escompté",
+			"qu'il/elle": "eût escompté",
+			"qu'ils/elles": "eussent escompté"
+		},
+		"passé": {
+			"j'": "aie escompté",
+			"que": "vous ayez escompté",
+			"qu'il/elle": "ait escompté",
+			"qu'ils/elles": "aient escompté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "escompterais",
+			"tu": "escompterais",
+			"il/elle": "escompterait",
+			"nous": "escompterions",
+			"vous": "escompteriez",
+			"ils/elles": "escompteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais escompté",
+			"tu": "aurais escompté",
+			"il/elle": "aurait escompté",
+			"nous": "aurions escompté",
+			"vous": "auriez escompté",
+			"ils/elles": "auraient escompté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse escompté",
+			"tu": "eusses escompté",
+			"il/elle": "eût escompté",
+			"nous": "eussions escompté",
+			"vous": "eussiez escompté",
+			"ils/elles": "eussent escompté"
+		}
+	},
+	"participe": {
+		"présent": { "escomptant": "" },
+		"passé composé": { "ayant": "escompté" },
+		"passé": {
+			"masc.sg.:": "escompté",
+			"masc.pl.:": "escomptés",
+			"fém.sg.:": "escomptée",
+			"fém.pl.:": "escomptées"
+		}
+	},
+	"imperatif": {
+		"présent": { "escompte": "", "escomptons": "", "escomptez": "" },
+		"passé": { "aie": "escompté", "ayons": "escompté", "ayez": "escompté" }
+	},
+	"infinitif": {
+		"présent": { "escompter": "" },
+		"passé": { "avoir": "escompté" }
+	}
+}

@@ -1,0 +1,194 @@
+{
+	"name": "pourrir",
+	"definition": "rot; ruin; decay; ...",
+	"model": "finir",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "se pourrir/ne pas pourrir/ne pas se pourrir",
+	"indicatif": {
+		"présent": {
+			"je": "pourris",
+			"tu": "pourris",
+			"il/elle": "pourrit",
+			"nous": "pourrissons",
+			"vous": "pourrissez",
+			"ils/elles": "pourrissent"
+		},
+		"imparfait": {
+			"je": "pourrissais",
+			"tu": "pourrissais",
+			"il/elle": "pourrissait",
+			"nous": "pourrissions",
+			"vous": "pourrissiez",
+			"ils/elles": "pourrissaient"
+		},
+		"futur": {
+			"je": "pourrirai",
+			"tu": "pourriras",
+			"il/elle": "pourrira",
+			"nous": "pourrirons",
+			"vous": "pourrirez",
+			"ils/elles": "pourriront"
+		},
+		"passé simple": {
+			"je": "pourris",
+			"tu": "pourris",
+			"il/elle": "pourrit",
+			"nous": "pourrîmes",
+			"vous": "pourrîtes",
+			"ils/elles": "pourrirent"
+		},
+		"passé composé": {
+			"j'": "ai pourri",
+			"tu": "es pourri",
+			"il/elle": "a pourri",
+			"nous": "sommes pourris",
+			"vous": "êtes pourris",
+			"ils/elles": "ont pourri",
+			"": "",
+			"je": "suis pourri",
+			"il": "est pourri",
+			"elle": "est pourrie",
+			"ils": "sont pourris",
+			"elles": "sont pourries"
+		},
+		"plus-que-parfait": {
+			"j'": "étais pourri",
+			"tu": "étais pourri",
+			"il/elle": "avait pourri",
+			"nous": "étions pourris",
+			"vous": "étiez pourris",
+			"ils/elles": "avaient pourri",
+			"": "",
+			"il": "était pourri",
+			"elle": "était pourrie",
+			"ils": "étaient pourris",
+			"elles": "étaient pourries"
+		},
+		"passé antérieur": {
+			"j'": "eus pourri",
+			"tu": "fus pourri",
+			"il/elle": "eut pourri",
+			"nous": "fûmes pourris",
+			"vous": "fûtes pourris",
+			"ils/elles": "eurent pourri",
+			"": "",
+			"je": "fus pourri",
+			"il": "fut pourri",
+			"elle": "fut pourrie",
+			"ils": "furent pourris",
+			"elles": "furent pourries"
+		},
+		"futur antérieur": {
+			"j'": "aurai pourri",
+			"tu": "seras pourri",
+			"il/elle": "aura pourri",
+			"nous": "serons pourris",
+			"vous": "serez pourris",
+			"ils/elles": "auront pourri",
+			"": "",
+			"je": "serai pourri",
+			"il": "sera pourri",
+			"elle": "sera pourrie",
+			"ils": "seront pourris",
+			"elles": "seront pourries"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous pourrissiez",
+			"qu'il/elle": "pourrisse",
+			"qu'ils/elles": "pourrissent"
+		},
+		"imparfait": {
+			"que": "vous pourrissiez",
+			"qu'il/elle": "pourrît",
+			"qu'ils/elles": "pourrissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse pourri",
+			"que": "vous fussiez pourris",
+			"qu'il/elle": "eût pourri",
+			"qu'ils/elles": "eussent pourri",
+			"": "",
+			"qu'il": "fût pourri",
+			"qu'elle": "fût pourrie",
+			"qu'ils": "fussent pourris",
+			"qu'elles": "fussent pourries"
+		},
+		"passé": {
+			"j'": "aie pourri",
+			"que": "vous soyez pourris",
+			"qu'il/elle": "ait pourri",
+			"qu'ils/elles": "aient pourri",
+			"": "",
+			"qu'il": "soit pourri",
+			"qu'elle": "soit pourrie",
+			"qu'ils": "soient pourris",
+			"qu'elles": "soient pourries"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "pourrirais",
+			"tu": "pourrirais",
+			"il/elle": "pourrirait",
+			"nous": "pourririons",
+			"vous": "pourririez",
+			"ils/elles": "pourriraient"
+		},
+		"passé première forme": {
+			"j'": "aurais pourri",
+			"tu": "serais pourri",
+			"il/elle": "aurait pourri",
+			"nous": "serions pourris",
+			"vous": "seriez pourris",
+			"ils/elles": "auraient pourri",
+			"": "",
+			"je": "serais pourri",
+			"il": "serait pourri",
+			"elle": "serait pourrie",
+			"ils": "seraient pourris",
+			"elles": "seraient pourries"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse pourri",
+			"tu": "fusses pourri",
+			"il/elle": "eût pourri",
+			"nous": "fussions pourris",
+			"vous": "fussiez pourris",
+			"ils/elles": "eussent pourri",
+			"": "",
+			"je": "fusse pourri",
+			"il": "fût pourri",
+			"elle": "fût pourrie",
+			"ils": "fussent pourris",
+			"elles": "fussent pourries"
+		}
+	},
+	"participe": {
+		"présent": { "pourrissant": "" },
+		"passé composé": { "ayant": "pourri", "": "", "étant": "pourrie" },
+		"passé": {
+			"masc.sg.:": "pourri",
+			"masc.pl.:": "pourris",
+			"fém.sg.:": "pourrie",
+			"fém.pl.:": "pourries"
+		}
+	},
+	"imperatif": {
+		"présent": { "pourris": "", "pourrissons": "", "pourrissez": "" },
+		"passé": {
+			"aie": "pourri",
+			"ayons": "pourri",
+			"ayez": "pourri",
+			"": "",
+			"sois": "pourri",
+			"soyons": "pourri",
+			"soyez": "pourri"
+		}
+	},
+	"infinitif": {
+		"présent": { "pourrir": "" },
+		"passé": { "avoir": "pourri", "": "", "être": "pourri" }
+	}
+}

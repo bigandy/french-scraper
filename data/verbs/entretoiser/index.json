@@ -1,0 +1,147 @@
+{
+	"name": "entretoiser",
+	"definition": "brace; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'entretoiser/ne pas entretoiser/ne pas s'entretoiser",
+	"indicatif": {
+		"présent": {
+			"j'": "entretoise",
+			"tu": "entretoises",
+			"il/elle": "entretoise",
+			"nous": "entretoisons",
+			"vous": "entretoisez",
+			"ils/elles": "entretoisent"
+		},
+		"imparfait": {
+			"j'": "entretoisais",
+			"tu": "entretoisais",
+			"il/elle": "entretoisait",
+			"nous": "entretoisions",
+			"vous": "entretoisiez",
+			"ils/elles": "entretoisaient"
+		},
+		"futur": {
+			"j'": "entretoiserai",
+			"tu": "entretoiseras",
+			"il/elle": "entretoisera",
+			"nous": "entretoiserons",
+			"vous": "entretoiserez",
+			"ils/elles": "entretoiseront"
+		},
+		"passé simple": {
+			"j'": "entretoisai",
+			"tu": "entretoisas",
+			"il/elle": "entretoisa",
+			"nous": "entretoisâmes",
+			"vous": "entretoisâtes",
+			"ils/elles": "entretoisèrent"
+		},
+		"passé composé": {
+			"j'": "ai entretoisé",
+			"tu": "as entretoisé",
+			"il/elle": "a entretoisé",
+			"nous": "avons entretoisé",
+			"vous": "avez entretoisé",
+			"ils/elles": "ont entretoisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais entretoisé",
+			"tu": "avais entretoisé",
+			"il/elle": "avait entretoisé",
+			"nous": "avions entretoisé",
+			"vous": "aviez entretoisé",
+			"ils/elles": "avaient entretoisé"
+		},
+		"passé antérieur": {
+			"j'": "eus entretoisé",
+			"tu": "eus entretoisé",
+			"il/elle": "eut entretoisé",
+			"nous": "eûmes entretoisé",
+			"vous": "eûtes entretoisé",
+			"ils/elles": "eurent entretoisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai entretoisé",
+			"tu": "auras entretoisé",
+			"il/elle": "aura entretoisé",
+			"nous": "aurons entretoisé",
+			"vous": "aurez entretoisé",
+			"ils/elles": "auront entretoisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "entretoise",
+			"que": "vous entretoisiez",
+			"qu'il/elle": "entretoise",
+			"qu'ils/elles": "entretoisent"
+		},
+		"imparfait": {
+			"j'": "entretoisasse",
+			"que": "vous entretoisassiez",
+			"qu'il/elle": "entretoisât",
+			"qu'ils/elles": "entretoisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse entretoisé",
+			"que": "vous eussiez entretoisé",
+			"qu'il/elle": "eût entretoisé",
+			"qu'ils/elles": "eussent entretoisé"
+		},
+		"passé": {
+			"j'": "aie entretoisé",
+			"que": "vous ayez entretoisé",
+			"qu'il/elle": "ait entretoisé",
+			"qu'ils/elles": "aient entretoisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "entretoiserais",
+			"tu": "entretoiserais",
+			"il/elle": "entretoiserait",
+			"nous": "entretoiserions",
+			"vous": "entretoiseriez",
+			"ils/elles": "entretoiseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais entretoisé",
+			"tu": "aurais entretoisé",
+			"il/elle": "aurait entretoisé",
+			"nous": "aurions entretoisé",
+			"vous": "auriez entretoisé",
+			"ils/elles": "auraient entretoisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse entretoisé",
+			"tu": "eusses entretoisé",
+			"il/elle": "eût entretoisé",
+			"nous": "eussions entretoisé",
+			"vous": "eussiez entretoisé",
+			"ils/elles": "eussent entretoisé"
+		}
+	},
+	"participe": {
+		"présent": { "entretoisant": "" },
+		"passé composé": { "ayant": "entretoisé" },
+		"passé": {
+			"masc.sg.:": "entretoisé",
+			"masc.pl.:": "entretoisés",
+			"fém.sg.:": "entretoisée",
+			"fém.pl.:": "entretoisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "entretoise": "", "entretoisons": "", "entretoisez": "" },
+		"passé": {
+			"aie": "entretoisé",
+			"ayons": "entretoisé",
+			"ayez": "entretoisé"
+		}
+	},
+	"infinitif": {
+		"présent": { "entretoiser": "" },
+		"passé": { "avoir": "entretoisé" }
+	}
+}

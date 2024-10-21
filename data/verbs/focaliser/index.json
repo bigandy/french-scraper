@@ -1,0 +1,141 @@
+{
+	"name": "focaliser",
+	"definition": "focus; concentrate; focalize; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se focaliser/ne pas focaliser/ne pas se focaliser",
+	"indicatif": {
+		"présent": {
+			"je": "focalise",
+			"tu": "focalises",
+			"il/elle": "focalise",
+			"nous": "focalisons",
+			"vous": "focalisez",
+			"ils/elles": "focalisent"
+		},
+		"imparfait": {
+			"je": "focalisais",
+			"tu": "focalisais",
+			"il/elle": "focalisait",
+			"nous": "focalisions",
+			"vous": "focalisiez",
+			"ils/elles": "focalisaient"
+		},
+		"futur": {
+			"je": "focaliserai",
+			"tu": "focaliseras",
+			"il/elle": "focalisera",
+			"nous": "focaliserons",
+			"vous": "focaliserez",
+			"ils/elles": "focaliseront"
+		},
+		"passé simple": {
+			"je": "focalisai",
+			"tu": "focalisas",
+			"il/elle": "focalisa",
+			"nous": "focalisâmes",
+			"vous": "focalisâtes",
+			"ils/elles": "focalisèrent"
+		},
+		"passé composé": {
+			"j'": "ai focalisé",
+			"tu": "as focalisé",
+			"il/elle": "a focalisé",
+			"nous": "avons focalisé",
+			"vous": "avez focalisé",
+			"ils/elles": "ont focalisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais focalisé",
+			"tu": "avais focalisé",
+			"il/elle": "avait focalisé",
+			"nous": "avions focalisé",
+			"vous": "aviez focalisé",
+			"ils/elles": "avaient focalisé"
+		},
+		"passé antérieur": {
+			"j'": "eus focalisé",
+			"tu": "eus focalisé",
+			"il/elle": "eut focalisé",
+			"nous": "eûmes focalisé",
+			"vous": "eûtes focalisé",
+			"ils/elles": "eurent focalisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai focalisé",
+			"tu": "auras focalisé",
+			"il/elle": "aura focalisé",
+			"nous": "aurons focalisé",
+			"vous": "aurez focalisé",
+			"ils/elles": "auront focalisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous focalisiez",
+			"qu'il/elle": "focalise",
+			"qu'ils/elles": "focalisent"
+		},
+		"imparfait": {
+			"que": "vous focalisassiez",
+			"qu'il/elle": "focalisât",
+			"qu'ils/elles": "focalisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse focalisé",
+			"que": "vous eussiez focalisé",
+			"qu'il/elle": "eût focalisé",
+			"qu'ils/elles": "eussent focalisé"
+		},
+		"passé": {
+			"j'": "aie focalisé",
+			"que": "vous ayez focalisé",
+			"qu'il/elle": "ait focalisé",
+			"qu'ils/elles": "aient focalisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "focaliserais",
+			"tu": "focaliserais",
+			"il/elle": "focaliserait",
+			"nous": "focaliserions",
+			"vous": "focaliseriez",
+			"ils/elles": "focaliseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais focalisé",
+			"tu": "aurais focalisé",
+			"il/elle": "aurait focalisé",
+			"nous": "aurions focalisé",
+			"vous": "auriez focalisé",
+			"ils/elles": "auraient focalisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse focalisé",
+			"tu": "eusses focalisé",
+			"il/elle": "eût focalisé",
+			"nous": "eussions focalisé",
+			"vous": "eussiez focalisé",
+			"ils/elles": "eussent focalisé"
+		}
+	},
+	"participe": {
+		"présent": { "focalisant": "" },
+		"passé composé": { "ayant": "focalisé" },
+		"passé": {
+			"masc.sg.:": "focalisé",
+			"masc.pl.:": "focalisés",
+			"fém.sg.:": "focalisée",
+			"fém.pl.:": "focalisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "focalise": "", "focalisons": "", "focalisez": "" },
+		"passé": { "aie": "focalisé", "ayons": "focalisé", "ayez": "focalisé" }
+	},
+	"infinitif": {
+		"présent": { "focaliser": "" },
+		"passé": { "avoir": "focalisé" }
+	}
+}

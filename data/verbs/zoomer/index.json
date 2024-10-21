@@ -1,0 +1,138 @@
+{
+	"name": "zoomer",
+	"definition": "zoom; zoom in; push in; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas zoomer",
+	"indicatif": {
+		"présent": {
+			"je": "zoome",
+			"tu": "zoomes",
+			"il/elle": "zoome",
+			"nous": "zoomons",
+			"vous": "zoomez",
+			"ils/elles": "zooment"
+		},
+		"imparfait": {
+			"je": "zoomais",
+			"tu": "zoomais",
+			"il/elle": "zoomait",
+			"nous": "zoomions",
+			"vous": "zoomiez",
+			"ils/elles": "zoomaient"
+		},
+		"futur": {
+			"je": "zoomerai",
+			"tu": "zoomeras",
+			"il/elle": "zoomera",
+			"nous": "zoomerons",
+			"vous": "zoomerez",
+			"ils/elles": "zoomeront"
+		},
+		"passé simple": {
+			"je": "zoomai",
+			"tu": "zoomas",
+			"il/elle": "zooma",
+			"nous": "zoomâmes",
+			"vous": "zoomâtes",
+			"ils/elles": "zoomèrent"
+		},
+		"passé composé": {
+			"j'": "ai zoomé",
+			"tu": "as zoomé",
+			"il/elle": "a zoomé",
+			"nous": "avons zoomé",
+			"vous": "avez zoomé",
+			"ils/elles": "ont zoomé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais zoomé",
+			"tu": "avais zoomé",
+			"il/elle": "avait zoomé",
+			"nous": "avions zoomé",
+			"vous": "aviez zoomé",
+			"ils/elles": "avaient zoomé"
+		},
+		"passé antérieur": {
+			"j'": "eus zoomé",
+			"tu": "eus zoomé",
+			"il/elle": "eut zoomé",
+			"nous": "eûmes zoomé",
+			"vous": "eûtes zoomé",
+			"ils/elles": "eurent zoomé"
+		},
+		"futur antérieur": {
+			"j'": "aurai zoomé",
+			"tu": "auras zoomé",
+			"il/elle": "aura zoomé",
+			"nous": "aurons zoomé",
+			"vous": "aurez zoomé",
+			"ils/elles": "auront zoomé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous zoomiez",
+			"qu'il/elle": "zoome",
+			"qu'ils/elles": "zooment"
+		},
+		"imparfait": {
+			"que": "vous zoomassiez",
+			"qu'il/elle": "zoomât",
+			"qu'ils/elles": "zoomassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse zoomé",
+			"que": "vous eussiez zoomé",
+			"qu'il/elle": "eût zoomé",
+			"qu'ils/elles": "eussent zoomé"
+		},
+		"passé": {
+			"j'": "aie zoomé",
+			"que": "vous ayez zoomé",
+			"qu'il/elle": "ait zoomé",
+			"qu'ils/elles": "aient zoomé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "zoomerais",
+			"tu": "zoomerais",
+			"il/elle": "zoomerait",
+			"nous": "zoomerions",
+			"vous": "zoomeriez",
+			"ils/elles": "zoomeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais zoomé",
+			"tu": "aurais zoomé",
+			"il/elle": "aurait zoomé",
+			"nous": "aurions zoomé",
+			"vous": "auriez zoomé",
+			"ils/elles": "auraient zoomé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse zoomé",
+			"tu": "eusses zoomé",
+			"il/elle": "eût zoomé",
+			"nous": "eussions zoomé",
+			"vous": "eussiez zoomé",
+			"ils/elles": "eussent zoomé"
+		}
+	},
+	"participe": {
+		"présent": { "zoomant": "" },
+		"passé composé": { "ayant": "zoomé" },
+		"passé": {
+			"masc.sg.:": "zoomé",
+			"masc.pl.:": "zoomés",
+			"fém.sg.:": "zoomée",
+			"fém.pl.:": "zoomées"
+		}
+	},
+	"imperatif": {
+		"présent": { "zoome": "", "zoomons": "", "zoomez": "" },
+		"passé": { "aie": "zoomé", "ayons": "zoomé", "ayez": "zoomé" }
+	},
+	"infinitif": { "présent": { "zoomer": "" }, "passé": { "avoir": "zoomé" } }
+}

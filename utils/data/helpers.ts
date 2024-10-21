@@ -6,7 +6,7 @@ export const writeDataToJSON = (filePath: string, result: any) => {
 			encoding: 'utf-8',
 			flag: 'w',
 		})
-		console.log('Data successfully saved to disk')
+		// console.log('Data successfully saved to disk')
 	} catch (error) {
 		console.log('An error has occurred ', error)
 		throw new Error('An error has occurred in writeDataToJSON')
@@ -31,6 +31,6 @@ export const extractFileDataFromHtmlFile = async (verb: string) => {
 		return fileData
 	} catch (error: any) {
 		console.error({ error })
-		throw new Error('Error in extractFileDataFromHtmlFile', error.toString())
+		// throw new Error('Error in extractFileDataFromHtmlFile', error.toString())
 	}
 }

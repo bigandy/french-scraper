@@ -1,0 +1,141 @@
+{
+	"name": "cousiner",
+	"definition": "",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se cousiner/ne pas cousiner/ne pas se cousiner",
+	"indicatif": {
+		"présent": {
+			"je": "cousine",
+			"tu": "cousines",
+			"il/elle": "cousine",
+			"nous": "cousinons",
+			"vous": "cousinez",
+			"ils/elles": "cousinent"
+		},
+		"imparfait": {
+			"je": "cousinais",
+			"tu": "cousinais",
+			"il/elle": "cousinait",
+			"nous": "cousinions",
+			"vous": "cousiniez",
+			"ils/elles": "cousinaient"
+		},
+		"futur": {
+			"je": "cousinerai",
+			"tu": "cousineras",
+			"il/elle": "cousinera",
+			"nous": "cousinerons",
+			"vous": "cousinerez",
+			"ils/elles": "cousineront"
+		},
+		"passé simple": {
+			"je": "cousinai",
+			"tu": "cousinas",
+			"il/elle": "cousina",
+			"nous": "cousinâmes",
+			"vous": "cousinâtes",
+			"ils/elles": "cousinèrent"
+		},
+		"passé composé": {
+			"j'": "ai cousiné",
+			"tu": "as cousiné",
+			"il/elle": "a cousiné",
+			"nous": "avons cousiné",
+			"vous": "avez cousiné",
+			"ils/elles": "ont cousiné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais cousiné",
+			"tu": "avais cousiné",
+			"il/elle": "avait cousiné",
+			"nous": "avions cousiné",
+			"vous": "aviez cousiné",
+			"ils/elles": "avaient cousiné"
+		},
+		"passé antérieur": {
+			"j'": "eus cousiné",
+			"tu": "eus cousiné",
+			"il/elle": "eut cousiné",
+			"nous": "eûmes cousiné",
+			"vous": "eûtes cousiné",
+			"ils/elles": "eurent cousiné"
+		},
+		"futur antérieur": {
+			"j'": "aurai cousiné",
+			"tu": "auras cousiné",
+			"il/elle": "aura cousiné",
+			"nous": "aurons cousiné",
+			"vous": "aurez cousiné",
+			"ils/elles": "auront cousiné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous cousiniez",
+			"qu'il/elle": "cousine",
+			"qu'ils/elles": "cousinent"
+		},
+		"imparfait": {
+			"que": "vous cousinassiez",
+			"qu'il/elle": "cousinât",
+			"qu'ils/elles": "cousinassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse cousiné",
+			"que": "vous eussiez cousiné",
+			"qu'il/elle": "eût cousiné",
+			"qu'ils/elles": "eussent cousiné"
+		},
+		"passé": {
+			"j'": "aie cousiné",
+			"que": "vous ayez cousiné",
+			"qu'il/elle": "ait cousiné",
+			"qu'ils/elles": "aient cousiné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "cousinerais",
+			"tu": "cousinerais",
+			"il/elle": "cousinerait",
+			"nous": "cousinerions",
+			"vous": "cousineriez",
+			"ils/elles": "cousineraient"
+		},
+		"passé première forme": {
+			"j'": "aurais cousiné",
+			"tu": "aurais cousiné",
+			"il/elle": "aurait cousiné",
+			"nous": "aurions cousiné",
+			"vous": "auriez cousiné",
+			"ils/elles": "auraient cousiné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse cousiné",
+			"tu": "eusses cousiné",
+			"il/elle": "eût cousiné",
+			"nous": "eussions cousiné",
+			"vous": "eussiez cousiné",
+			"ils/elles": "eussent cousiné"
+		}
+	},
+	"participe": {
+		"présent": { "cousinant": "" },
+		"passé composé": { "ayant": "cousiné" },
+		"passé": {
+			"masc.sg.:": "cousiné",
+			"masc.pl.:": "cousinés",
+			"fém.sg.:": "cousinée",
+			"fém.pl.:": "cousinées"
+		}
+	},
+	"imperatif": {
+		"présent": { "cousine": "", "cousinons": "", "cousinez": "" },
+		"passé": { "aie": "cousiné", "ayons": "cousiné", "ayez": "cousiné" }
+	},
+	"infinitif": {
+		"présent": { "cousiner": "" },
+		"passé": { "avoir": "cousiné" }
+	}
+}

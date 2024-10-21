@@ -1,0 +1,143 @@
+{
+	"name": "incriminer",
+	"definition": "criminalize; incriminate; blame; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'incriminer/ne pas incriminer/ne pas s'incriminer",
+	"indicatif": {
+		"présent": {
+			"j'": "incrimine",
+			"tu": "incrimines",
+			"il/elle": "incrimine",
+			"nous": "incriminons",
+			"vous": "incriminez",
+			"ils/elles": "incriminent"
+		},
+		"imparfait": {
+			"j'": "incriminais",
+			"tu": "incriminais",
+			"il/elle": "incriminait",
+			"nous": "incriminions",
+			"vous": "incriminiez",
+			"ils/elles": "incriminaient"
+		},
+		"futur": {
+			"j'": "incriminerai",
+			"tu": "incrimineras",
+			"il/elle": "incriminera",
+			"nous": "incriminerons",
+			"vous": "incriminerez",
+			"ils/elles": "incrimineront"
+		},
+		"passé simple": {
+			"j'": "incriminai",
+			"tu": "incriminas",
+			"il/elle": "incrimina",
+			"nous": "incriminâmes",
+			"vous": "incriminâtes",
+			"ils/elles": "incriminèrent"
+		},
+		"passé composé": {
+			"j'": "ai incriminé",
+			"tu": "as incriminé",
+			"il/elle": "a incriminé",
+			"nous": "avons incriminé",
+			"vous": "avez incriminé",
+			"ils/elles": "ont incriminé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais incriminé",
+			"tu": "avais incriminé",
+			"il/elle": "avait incriminé",
+			"nous": "avions incriminé",
+			"vous": "aviez incriminé",
+			"ils/elles": "avaient incriminé"
+		},
+		"passé antérieur": {
+			"j'": "eus incriminé",
+			"tu": "eus incriminé",
+			"il/elle": "eut incriminé",
+			"nous": "eûmes incriminé",
+			"vous": "eûtes incriminé",
+			"ils/elles": "eurent incriminé"
+		},
+		"futur antérieur": {
+			"j'": "aurai incriminé",
+			"tu": "auras incriminé",
+			"il/elle": "aura incriminé",
+			"nous": "aurons incriminé",
+			"vous": "aurez incriminé",
+			"ils/elles": "auront incriminé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "incrimine",
+			"que": "vous incriminiez",
+			"qu'il/elle": "incrimine",
+			"qu'ils/elles": "incriminent"
+		},
+		"imparfait": {
+			"j'": "incriminasse",
+			"que": "vous incriminassiez",
+			"qu'il/elle": "incriminât",
+			"qu'ils/elles": "incriminassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse incriminé",
+			"que": "vous eussiez incriminé",
+			"qu'il/elle": "eût incriminé",
+			"qu'ils/elles": "eussent incriminé"
+		},
+		"passé": {
+			"j'": "aie incriminé",
+			"que": "vous ayez incriminé",
+			"qu'il/elle": "ait incriminé",
+			"qu'ils/elles": "aient incriminé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "incriminerais",
+			"tu": "incriminerais",
+			"il/elle": "incriminerait",
+			"nous": "incriminerions",
+			"vous": "incrimineriez",
+			"ils/elles": "incrimineraient"
+		},
+		"passé première forme": {
+			"j'": "aurais incriminé",
+			"tu": "aurais incriminé",
+			"il/elle": "aurait incriminé",
+			"nous": "aurions incriminé",
+			"vous": "auriez incriminé",
+			"ils/elles": "auraient incriminé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse incriminé",
+			"tu": "eusses incriminé",
+			"il/elle": "eût incriminé",
+			"nous": "eussions incriminé",
+			"vous": "eussiez incriminé",
+			"ils/elles": "eussent incriminé"
+		}
+	},
+	"participe": {
+		"présent": { "incriminant": "" },
+		"passé composé": { "ayant": "incriminé" },
+		"passé": {
+			"masc.sg.:": "incriminé",
+			"masc.pl.:": "incriminés",
+			"fém.sg.:": "incriminée",
+			"fém.pl.:": "incriminées"
+		}
+	},
+	"imperatif": {
+		"présent": { "incrimine": "", "incriminons": "", "incriminez": "" },
+		"passé": { "aie": "incriminé", "ayons": "incriminé", "ayez": "incriminé" }
+	},
+	"infinitif": {
+		"présent": { "incriminer": "" },
+		"passé": { "avoir": "incriminé" }
+	}
+}

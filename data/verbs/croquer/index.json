@@ -1,0 +1,138 @@
+{
+	"name": "croquer",
+	"definition": "eat; crunch; chew; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se croquer/ne pas croquer/ne pas se croquer",
+	"indicatif": {
+		"présent": {
+			"je": "croque",
+			"tu": "croques",
+			"il/elle": "croque",
+			"nous": "croquons",
+			"vous": "croquez",
+			"ils/elles": "croquent"
+		},
+		"imparfait": {
+			"je": "croquais",
+			"tu": "croquais",
+			"il/elle": "croquait",
+			"nous": "croquions",
+			"vous": "croquiez",
+			"ils/elles": "croquaient"
+		},
+		"futur": {
+			"je": "croquerai",
+			"tu": "croqueras",
+			"il/elle": "croquera",
+			"nous": "croquerons",
+			"vous": "croquerez",
+			"ils/elles": "croqueront"
+		},
+		"passé simple": {
+			"je": "croquai",
+			"tu": "croquas",
+			"il/elle": "croqua",
+			"nous": "croquâmes",
+			"vous": "croquâtes",
+			"ils/elles": "croquèrent"
+		},
+		"passé composé": {
+			"j'": "ai croqué",
+			"tu": "as croqué",
+			"il/elle": "a croqué",
+			"nous": "avons croqué",
+			"vous": "avez croqué",
+			"ils/elles": "ont croqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais croqué",
+			"tu": "avais croqué",
+			"il/elle": "avait croqué",
+			"nous": "avions croqué",
+			"vous": "aviez croqué",
+			"ils/elles": "avaient croqué"
+		},
+		"passé antérieur": {
+			"j'": "eus croqué",
+			"tu": "eus croqué",
+			"il/elle": "eut croqué",
+			"nous": "eûmes croqué",
+			"vous": "eûtes croqué",
+			"ils/elles": "eurent croqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai croqué",
+			"tu": "auras croqué",
+			"il/elle": "aura croqué",
+			"nous": "aurons croqué",
+			"vous": "aurez croqué",
+			"ils/elles": "auront croqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous croquiez",
+			"qu'il/elle": "croque",
+			"qu'ils/elles": "croquent"
+		},
+		"imparfait": {
+			"que": "vous croquassiez",
+			"qu'il/elle": "croquât",
+			"qu'ils/elles": "croquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse croqué",
+			"que": "vous eussiez croqué",
+			"qu'il/elle": "eût croqué",
+			"qu'ils/elles": "eussent croqué"
+		},
+		"passé": {
+			"j'": "aie croqué",
+			"que": "vous ayez croqué",
+			"qu'il/elle": "ait croqué",
+			"qu'ils/elles": "aient croqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "croquerais",
+			"tu": "croquerais",
+			"il/elle": "croquerait",
+			"nous": "croquerions",
+			"vous": "croqueriez",
+			"ils/elles": "croqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais croqué",
+			"tu": "aurais croqué",
+			"il/elle": "aurait croqué",
+			"nous": "aurions croqué",
+			"vous": "auriez croqué",
+			"ils/elles": "auraient croqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse croqué",
+			"tu": "eusses croqué",
+			"il/elle": "eût croqué",
+			"nous": "eussions croqué",
+			"vous": "eussiez croqué",
+			"ils/elles": "eussent croqué"
+		}
+	},
+	"participe": {
+		"présent": { "croquant": "" },
+		"passé composé": { "ayant": "croqué" },
+		"passé": {
+			"masc.sg.:": "croqué",
+			"masc.pl.:": "croqués",
+			"fém.sg.:": "croquée",
+			"fém.pl.:": "croquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "croque": "", "croquons": "", "croquez": "" },
+		"passé": { "aie": "croqué", "ayons": "croqué", "ayez": "croqué" }
+	},
+	"infinitif": { "présent": { "croquer": "" }, "passé": { "avoir": "croqué" } }
+}

@@ -1,0 +1,141 @@
+{
+	"name": "consister",
+	"definition": "consist; entail; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas consister",
+	"indicatif": {
+		"présent": {
+			"je": "consiste",
+			"tu": "consistes",
+			"il/elle": "consiste",
+			"nous": "consistons",
+			"vous": "consistez",
+			"ils/elles": "consistent"
+		},
+		"imparfait": {
+			"je": "consistais",
+			"tu": "consistais",
+			"il/elle": "consistait",
+			"nous": "consistions",
+			"vous": "consistiez",
+			"ils/elles": "consistaient"
+		},
+		"futur": {
+			"je": "consisterai",
+			"tu": "consisteras",
+			"il/elle": "consistera",
+			"nous": "consisterons",
+			"vous": "consisterez",
+			"ils/elles": "consisteront"
+		},
+		"passé simple": {
+			"je": "consistai",
+			"tu": "consistas",
+			"il/elle": "consista",
+			"nous": "consistâmes",
+			"vous": "consistâtes",
+			"ils/elles": "consistèrent"
+		},
+		"passé composé": {
+			"j'": "ai consisté",
+			"tu": "as consisté",
+			"il/elle": "a consisté",
+			"nous": "avons consisté",
+			"vous": "avez consisté",
+			"ils/elles": "ont consisté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais consisté",
+			"tu": "avais consisté",
+			"il/elle": "avait consisté",
+			"nous": "avions consisté",
+			"vous": "aviez consisté",
+			"ils/elles": "avaient consisté"
+		},
+		"passé antérieur": {
+			"j'": "eus consisté",
+			"tu": "eus consisté",
+			"il/elle": "eut consisté",
+			"nous": "eûmes consisté",
+			"vous": "eûtes consisté",
+			"ils/elles": "eurent consisté"
+		},
+		"futur antérieur": {
+			"j'": "aurai consisté",
+			"tu": "auras consisté",
+			"il/elle": "aura consisté",
+			"nous": "aurons consisté",
+			"vous": "aurez consisté",
+			"ils/elles": "auront consisté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous consistiez",
+			"qu'il/elle": "consiste",
+			"qu'ils/elles": "consistent"
+		},
+		"imparfait": {
+			"que": "vous consistassiez",
+			"qu'il/elle": "consistât",
+			"qu'ils/elles": "consistassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse consisté",
+			"que": "vous eussiez consisté",
+			"qu'il/elle": "eût consisté",
+			"qu'ils/elles": "eussent consisté"
+		},
+		"passé": {
+			"j'": "aie consisté",
+			"que": "vous ayez consisté",
+			"qu'il/elle": "ait consisté",
+			"qu'ils/elles": "aient consisté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "consisterais",
+			"tu": "consisterais",
+			"il/elle": "consisterait",
+			"nous": "consisterions",
+			"vous": "consisteriez",
+			"ils/elles": "consisteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais consisté",
+			"tu": "aurais consisté",
+			"il/elle": "aurait consisté",
+			"nous": "aurions consisté",
+			"vous": "auriez consisté",
+			"ils/elles": "auraient consisté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse consisté",
+			"tu": "eusses consisté",
+			"il/elle": "eût consisté",
+			"nous": "eussions consisté",
+			"vous": "eussiez consisté",
+			"ils/elles": "eussent consisté"
+		}
+	},
+	"participe": {
+		"présent": { "consistant": "" },
+		"passé composé": { "ayant": "consisté" },
+		"passé": {
+			"masc.sg.:": "consisté",
+			"masc.pl.:": "consistés",
+			"fém.sg.:": "consistée",
+			"fém.pl.:": "consistées"
+		}
+	},
+	"imperatif": {
+		"présent": { "consiste": "", "consistons": "", "consistez": "" },
+		"passé": { "aie": "consisté", "ayons": "consisté", "ayez": "consisté" }
+	},
+	"infinitif": {
+		"présent": { "consister": "" },
+		"passé": { "avoir": "consisté" }
+	}
+}

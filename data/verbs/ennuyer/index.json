@@ -1,0 +1,140 @@
+{
+	"name": "ennuyer",
+	"definition": "bore; bother; annoy; ...",
+	"model": "balayer",
+	"auxiliary": "avoir",
+	"otherForms": "s'ennuyer/ne pas ennuyer/ne pas s'ennuyer",
+	"indicatif": {
+		"présent": {
+			"j'": "ennuie",
+			"tu": "ennuies",
+			"il/elle": "ennuie",
+			"nous": "ennuyons",
+			"vous": "ennuyez",
+			"ils/elles": "ennuient"
+		},
+		"imparfait": {
+			"j'": "ennuyais",
+			"tu": "ennuyais",
+			"il/elle": "ennuyait",
+			"nous": "ennuyions",
+			"vous": "ennuyiez",
+			"ils/elles": "ennuyaient"
+		},
+		"futur": {
+			"j'": "ennuierai",
+			"tu": "ennuieras",
+			"il/elle": "ennuiera",
+			"nous": "ennuierons",
+			"vous": "ennuierez",
+			"ils/elles": "ennuieront"
+		},
+		"passé simple": {
+			"j'": "ennuyai",
+			"tu": "ennuyas",
+			"il/elle": "ennuya",
+			"nous": "ennuyâmes",
+			"vous": "ennuyâtes",
+			"ils/elles": "ennuyèrent"
+		},
+		"passé composé": {
+			"j'": "ai ennuyé",
+			"tu": "as ennuyé",
+			"il/elle": "a ennuyé",
+			"nous": "avons ennuyé",
+			"vous": "avez ennuyé",
+			"ils/elles": "ont ennuyé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais ennuyé",
+			"tu": "avais ennuyé",
+			"il/elle": "avait ennuyé",
+			"nous": "avions ennuyé",
+			"vous": "aviez ennuyé",
+			"ils/elles": "avaient ennuyé"
+		},
+		"passé antérieur": {
+			"j'": "eus ennuyé",
+			"tu": "eus ennuyé",
+			"il/elle": "eut ennuyé",
+			"nous": "eûmes ennuyé",
+			"vous": "eûtes ennuyé",
+			"ils/elles": "eurent ennuyé"
+		},
+		"futur antérieur": {
+			"j'": "aurai ennuyé",
+			"tu": "auras ennuyé",
+			"il/elle": "aura ennuyé",
+			"nous": "aurons ennuyé",
+			"vous": "aurez ennuyé",
+			"ils/elles": "auront ennuyé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "ennuie",
+			"que": "vous ennuyiez",
+			"qu'il/elle": "ennuie",
+			"qu'ils/elles": "ennuient"
+		},
+		"imparfait": {
+			"j'": "ennuyasse",
+			"que": "vous ennuyassiez",
+			"qu'il/elle": "ennuyât",
+			"qu'ils/elles": "ennuyassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse ennuyé",
+			"que": "vous eussiez ennuyé",
+			"qu'il/elle": "eût ennuyé",
+			"qu'ils/elles": "eussent ennuyé"
+		},
+		"passé": {
+			"j'": "aie ennuyé",
+			"que": "vous ayez ennuyé",
+			"qu'il/elle": "ait ennuyé",
+			"qu'ils/elles": "aient ennuyé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "ennuierais",
+			"tu": "ennuierais",
+			"il/elle": "ennuierait",
+			"nous": "ennuierions",
+			"vous": "ennuieriez",
+			"ils/elles": "ennuieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais ennuyé",
+			"tu": "aurais ennuyé",
+			"il/elle": "aurait ennuyé",
+			"nous": "aurions ennuyé",
+			"vous": "auriez ennuyé",
+			"ils/elles": "auraient ennuyé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse ennuyé",
+			"tu": "eusses ennuyé",
+			"il/elle": "eût ennuyé",
+			"nous": "eussions ennuyé",
+			"vous": "eussiez ennuyé",
+			"ils/elles": "eussent ennuyé"
+		}
+	},
+	"participe": {
+		"présent": { "ennuyant": "" },
+		"passé composé": { "ayant": "ennuyé" },
+		"passé": {
+			"masc.sg.:": "ennuyé",
+			"masc.pl.:": "ennuyés",
+			"fém.sg.:": "ennuyée",
+			"fém.pl.:": "ennuyées"
+		}
+	},
+	"imperatif": {
+		"présent": { "ennuie": "", "ennuyons": "", "ennuyez": "" },
+		"passé": { "aie": "ennuyé", "ayons": "ennuyé", "ayez": "ennuyé" }
+	},
+	"infinitif": { "présent": { "ennuyer": "" }, "passé": { "avoir": "ennuyé" } }
+}

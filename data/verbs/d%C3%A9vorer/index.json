@@ -1,0 +1,138 @@
+{
+	"name": "dévorer",
+	"definition": "devour; eat; consume; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se dévorer/ne pas dévorer/ne pas se dévorer",
+	"indicatif": {
+		"présent": {
+			"je": "dévore",
+			"tu": "dévores",
+			"il/elle": "dévore",
+			"nous": "dévorons",
+			"vous": "dévorez",
+			"ils/elles": "dévorent"
+		},
+		"imparfait": {
+			"je": "dévorais",
+			"tu": "dévorais",
+			"il/elle": "dévorait",
+			"nous": "dévorions",
+			"vous": "dévoriez",
+			"ils/elles": "dévoraient"
+		},
+		"futur": {
+			"je": "dévorerai",
+			"tu": "dévoreras",
+			"il/elle": "dévorera",
+			"nous": "dévorerons",
+			"vous": "dévorerez",
+			"ils/elles": "dévoreront"
+		},
+		"passé simple": {
+			"je": "dévorai",
+			"tu": "dévoras",
+			"il/elle": "dévora",
+			"nous": "dévorâmes",
+			"vous": "dévorâtes",
+			"ils/elles": "dévorèrent"
+		},
+		"passé composé": {
+			"j'": "ai dévoré",
+			"tu": "as dévoré",
+			"il/elle": "a dévoré",
+			"nous": "avons dévoré",
+			"vous": "avez dévoré",
+			"ils/elles": "ont dévoré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais dévoré",
+			"tu": "avais dévoré",
+			"il/elle": "avait dévoré",
+			"nous": "avions dévoré",
+			"vous": "aviez dévoré",
+			"ils/elles": "avaient dévoré"
+		},
+		"passé antérieur": {
+			"j'": "eus dévoré",
+			"tu": "eus dévoré",
+			"il/elle": "eut dévoré",
+			"nous": "eûmes dévoré",
+			"vous": "eûtes dévoré",
+			"ils/elles": "eurent dévoré"
+		},
+		"futur antérieur": {
+			"j'": "aurai dévoré",
+			"tu": "auras dévoré",
+			"il/elle": "aura dévoré",
+			"nous": "aurons dévoré",
+			"vous": "aurez dévoré",
+			"ils/elles": "auront dévoré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous dévoriez",
+			"qu'il/elle": "dévore",
+			"qu'ils/elles": "dévorent"
+		},
+		"imparfait": {
+			"que": "vous dévorassiez",
+			"qu'il/elle": "dévorât",
+			"qu'ils/elles": "dévorassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse dévoré",
+			"que": "vous eussiez dévoré",
+			"qu'il/elle": "eût dévoré",
+			"qu'ils/elles": "eussent dévoré"
+		},
+		"passé": {
+			"j'": "aie dévoré",
+			"que": "vous ayez dévoré",
+			"qu'il/elle": "ait dévoré",
+			"qu'ils/elles": "aient dévoré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "dévorerais",
+			"tu": "dévorerais",
+			"il/elle": "dévorerait",
+			"nous": "dévorerions",
+			"vous": "dévoreriez",
+			"ils/elles": "dévoreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais dévoré",
+			"tu": "aurais dévoré",
+			"il/elle": "aurait dévoré",
+			"nous": "aurions dévoré",
+			"vous": "auriez dévoré",
+			"ils/elles": "auraient dévoré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse dévoré",
+			"tu": "eusses dévoré",
+			"il/elle": "eût dévoré",
+			"nous": "eussions dévoré",
+			"vous": "eussiez dévoré",
+			"ils/elles": "eussent dévoré"
+		}
+	},
+	"participe": {
+		"présent": { "dévorant": "" },
+		"passé composé": { "ayant": "dévoré" },
+		"passé": {
+			"masc.sg.:": "dévoré",
+			"masc.pl.:": "dévorés",
+			"fém.sg.:": "dévorée",
+			"fém.pl.:": "dévorées"
+		}
+	},
+	"imperatif": {
+		"présent": { "dévore": "", "dévorons": "", "dévorez": "" },
+		"passé": { "aie": "dévoré", "ayons": "dévoré", "ayez": "dévoré" }
+	},
+	"infinitif": { "présent": { "dévorer": "" }, "passé": { "avoir": "dévoré" } }
+}

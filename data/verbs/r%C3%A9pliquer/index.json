@@ -1,0 +1,141 @@
+{
+	"name": "répliquer",
+	"definition": "replicate; reply; respond; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se répliquer/ne pas répliquer/ne pas se répliquer",
+	"indicatif": {
+		"présent": {
+			"je": "réplique",
+			"tu": "répliques",
+			"il/elle": "réplique",
+			"nous": "répliquons",
+			"vous": "répliquez",
+			"ils/elles": "répliquent"
+		},
+		"imparfait": {
+			"je": "répliquais",
+			"tu": "répliquais",
+			"il/elle": "répliquait",
+			"nous": "répliquions",
+			"vous": "répliquiez",
+			"ils/elles": "répliquaient"
+		},
+		"futur": {
+			"je": "répliquerai",
+			"tu": "répliqueras",
+			"il/elle": "répliquera",
+			"nous": "répliquerons",
+			"vous": "répliquerez",
+			"ils/elles": "répliqueront"
+		},
+		"passé simple": {
+			"je": "répliquai",
+			"tu": "répliquas",
+			"il/elle": "répliqua",
+			"nous": "répliquâmes",
+			"vous": "répliquâtes",
+			"ils/elles": "répliquèrent"
+		},
+		"passé composé": {
+			"j'": "ai répliqué",
+			"tu": "as répliqué",
+			"il/elle": "a répliqué",
+			"nous": "avons répliqué",
+			"vous": "avez répliqué",
+			"ils/elles": "ont répliqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais répliqué",
+			"tu": "avais répliqué",
+			"il/elle": "avait répliqué",
+			"nous": "avions répliqué",
+			"vous": "aviez répliqué",
+			"ils/elles": "avaient répliqué"
+		},
+		"passé antérieur": {
+			"j'": "eus répliqué",
+			"tu": "eus répliqué",
+			"il/elle": "eut répliqué",
+			"nous": "eûmes répliqué",
+			"vous": "eûtes répliqué",
+			"ils/elles": "eurent répliqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai répliqué",
+			"tu": "auras répliqué",
+			"il/elle": "aura répliqué",
+			"nous": "aurons répliqué",
+			"vous": "aurez répliqué",
+			"ils/elles": "auront répliqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous répliquiez",
+			"qu'il/elle": "réplique",
+			"qu'ils/elles": "répliquent"
+		},
+		"imparfait": {
+			"que": "vous répliquassiez",
+			"qu'il/elle": "répliquât",
+			"qu'ils/elles": "répliquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse répliqué",
+			"que": "vous eussiez répliqué",
+			"qu'il/elle": "eût répliqué",
+			"qu'ils/elles": "eussent répliqué"
+		},
+		"passé": {
+			"j'": "aie répliqué",
+			"que": "vous ayez répliqué",
+			"qu'il/elle": "ait répliqué",
+			"qu'ils/elles": "aient répliqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "répliquerais",
+			"tu": "répliquerais",
+			"il/elle": "répliquerait",
+			"nous": "répliquerions",
+			"vous": "répliqueriez",
+			"ils/elles": "répliqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais répliqué",
+			"tu": "aurais répliqué",
+			"il/elle": "aurait répliqué",
+			"nous": "aurions répliqué",
+			"vous": "auriez répliqué",
+			"ils/elles": "auraient répliqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse répliqué",
+			"tu": "eusses répliqué",
+			"il/elle": "eût répliqué",
+			"nous": "eussions répliqué",
+			"vous": "eussiez répliqué",
+			"ils/elles": "eussent répliqué"
+		}
+	},
+	"participe": {
+		"présent": { "répliquant": "" },
+		"passé composé": { "ayant": "répliqué" },
+		"passé": {
+			"masc.sg.:": "répliqué",
+			"masc.pl.:": "répliqués",
+			"fém.sg.:": "répliquée",
+			"fém.pl.:": "répliquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "réplique": "", "répliquons": "", "répliquez": "" },
+		"passé": { "aie": "répliqué", "ayons": "répliqué", "ayez": "répliqué" }
+	},
+	"infinitif": {
+		"présent": { "répliquer": "" },
+		"passé": { "avoir": "répliqué" }
+	}
+}

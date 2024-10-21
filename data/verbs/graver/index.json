@@ -1,0 +1,138 @@
+{
+	"name": "graver",
+	"definition": "burn; etch; engrave; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se graver/ne pas graver/ne pas se graver",
+	"indicatif": {
+		"présent": {
+			"je": "grave",
+			"tu": "graves",
+			"il/elle": "grave",
+			"nous": "gravons",
+			"vous": "gravez",
+			"ils/elles": "gravent"
+		},
+		"imparfait": {
+			"je": "gravais",
+			"tu": "gravais",
+			"il/elle": "gravait",
+			"nous": "gravions",
+			"vous": "graviez",
+			"ils/elles": "gravaient"
+		},
+		"futur": {
+			"je": "graverai",
+			"tu": "graveras",
+			"il/elle": "gravera",
+			"nous": "graverons",
+			"vous": "graverez",
+			"ils/elles": "graveront"
+		},
+		"passé simple": {
+			"je": "gravai",
+			"tu": "gravas",
+			"il/elle": "grava",
+			"nous": "gravâmes",
+			"vous": "gravâtes",
+			"ils/elles": "gravèrent"
+		},
+		"passé composé": {
+			"j'": "ai gravé",
+			"tu": "as gravé",
+			"il/elle": "a gravé",
+			"nous": "avons gravé",
+			"vous": "avez gravé",
+			"ils/elles": "ont gravé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais gravé",
+			"tu": "avais gravé",
+			"il/elle": "avait gravé",
+			"nous": "avions gravé",
+			"vous": "aviez gravé",
+			"ils/elles": "avaient gravé"
+		},
+		"passé antérieur": {
+			"j'": "eus gravé",
+			"tu": "eus gravé",
+			"il/elle": "eut gravé",
+			"nous": "eûmes gravé",
+			"vous": "eûtes gravé",
+			"ils/elles": "eurent gravé"
+		},
+		"futur antérieur": {
+			"j'": "aurai gravé",
+			"tu": "auras gravé",
+			"il/elle": "aura gravé",
+			"nous": "aurons gravé",
+			"vous": "aurez gravé",
+			"ils/elles": "auront gravé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous graviez",
+			"qu'il/elle": "grave",
+			"qu'ils/elles": "gravent"
+		},
+		"imparfait": {
+			"que": "vous gravassiez",
+			"qu'il/elle": "gravât",
+			"qu'ils/elles": "gravassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse gravé",
+			"que": "vous eussiez gravé",
+			"qu'il/elle": "eût gravé",
+			"qu'ils/elles": "eussent gravé"
+		},
+		"passé": {
+			"j'": "aie gravé",
+			"que": "vous ayez gravé",
+			"qu'il/elle": "ait gravé",
+			"qu'ils/elles": "aient gravé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "graverais",
+			"tu": "graverais",
+			"il/elle": "graverait",
+			"nous": "graverions",
+			"vous": "graveriez",
+			"ils/elles": "graveraient"
+		},
+		"passé première forme": {
+			"j'": "aurais gravé",
+			"tu": "aurais gravé",
+			"il/elle": "aurait gravé",
+			"nous": "aurions gravé",
+			"vous": "auriez gravé",
+			"ils/elles": "auraient gravé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse gravé",
+			"tu": "eusses gravé",
+			"il/elle": "eût gravé",
+			"nous": "eussions gravé",
+			"vous": "eussiez gravé",
+			"ils/elles": "eussent gravé"
+		}
+	},
+	"participe": {
+		"présent": { "gravant": "" },
+		"passé composé": { "ayant": "gravé" },
+		"passé": {
+			"masc.sg.:": "gravé",
+			"masc.pl.:": "gravés",
+			"fém.sg.:": "gravée",
+			"fém.pl.:": "gravées"
+		}
+	},
+	"imperatif": {
+		"présent": { "grave": "", "gravons": "", "gravez": "" },
+		"passé": { "aie": "gravé", "ayons": "gravé", "ayez": "gravé" }
+	},
+	"infinitif": { "présent": { "graver": "" }, "passé": { "avoir": "gravé" } }
+}

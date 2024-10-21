@@ -1,0 +1,141 @@
+{
+	"name": "massacrer",
+	"definition": "slaughter; massacre; kill; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se massacrer/ne pas massacrer/ne pas se massacrer",
+	"indicatif": {
+		"présent": {
+			"je": "massacre",
+			"tu": "massacres",
+			"il/elle": "massacre",
+			"nous": "massacrons",
+			"vous": "massacrez",
+			"ils/elles": "massacrent"
+		},
+		"imparfait": {
+			"je": "massacrais",
+			"tu": "massacrais",
+			"il/elle": "massacrait",
+			"nous": "massacrions",
+			"vous": "massacriez",
+			"ils/elles": "massacraient"
+		},
+		"futur": {
+			"je": "massacrerai",
+			"tu": "massacreras",
+			"il/elle": "massacrera",
+			"nous": "massacrerons",
+			"vous": "massacrerez",
+			"ils/elles": "massacreront"
+		},
+		"passé simple": {
+			"je": "massacrai",
+			"tu": "massacras",
+			"il/elle": "massacra",
+			"nous": "massacrâmes",
+			"vous": "massacrâtes",
+			"ils/elles": "massacrèrent"
+		},
+		"passé composé": {
+			"j'": "ai massacré",
+			"tu": "as massacré",
+			"il/elle": "a massacré",
+			"nous": "avons massacré",
+			"vous": "avez massacré",
+			"ils/elles": "ont massacré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais massacré",
+			"tu": "avais massacré",
+			"il/elle": "avait massacré",
+			"nous": "avions massacré",
+			"vous": "aviez massacré",
+			"ils/elles": "avaient massacré"
+		},
+		"passé antérieur": {
+			"j'": "eus massacré",
+			"tu": "eus massacré",
+			"il/elle": "eut massacré",
+			"nous": "eûmes massacré",
+			"vous": "eûtes massacré",
+			"ils/elles": "eurent massacré"
+		},
+		"futur antérieur": {
+			"j'": "aurai massacré",
+			"tu": "auras massacré",
+			"il/elle": "aura massacré",
+			"nous": "aurons massacré",
+			"vous": "aurez massacré",
+			"ils/elles": "auront massacré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous massacriez",
+			"qu'il/elle": "massacre",
+			"qu'ils/elles": "massacrent"
+		},
+		"imparfait": {
+			"que": "vous massacrassiez",
+			"qu'il/elle": "massacrât",
+			"qu'ils/elles": "massacrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse massacré",
+			"que": "vous eussiez massacré",
+			"qu'il/elle": "eût massacré",
+			"qu'ils/elles": "eussent massacré"
+		},
+		"passé": {
+			"j'": "aie massacré",
+			"que": "vous ayez massacré",
+			"qu'il/elle": "ait massacré",
+			"qu'ils/elles": "aient massacré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "massacrerais",
+			"tu": "massacrerais",
+			"il/elle": "massacrerait",
+			"nous": "massacrerions",
+			"vous": "massacreriez",
+			"ils/elles": "massacreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais massacré",
+			"tu": "aurais massacré",
+			"il/elle": "aurait massacré",
+			"nous": "aurions massacré",
+			"vous": "auriez massacré",
+			"ils/elles": "auraient massacré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse massacré",
+			"tu": "eusses massacré",
+			"il/elle": "eût massacré",
+			"nous": "eussions massacré",
+			"vous": "eussiez massacré",
+			"ils/elles": "eussent massacré"
+		}
+	},
+	"participe": {
+		"présent": { "massacrant": "" },
+		"passé composé": { "ayant": "massacré" },
+		"passé": {
+			"masc.sg.:": "massacré",
+			"masc.pl.:": "massacrés",
+			"fém.sg.:": "massacrée",
+			"fém.pl.:": "massacrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "massacre": "", "massacrons": "", "massacrez": "" },
+		"passé": { "aie": "massacré", "ayons": "massacré", "ayez": "massacré" }
+	},
+	"infinitif": {
+		"présent": { "massacrer": "" },
+		"passé": { "avoir": "massacré" }
+	}
+}

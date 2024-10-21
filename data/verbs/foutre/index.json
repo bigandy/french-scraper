@@ -1,0 +1,127 @@
+{
+	"name": "foutre",
+	"definition": "",
+	"model": "foutre",
+	"auxiliary": "avoir",
+	"otherForms": "se foutre/ne pas foutre/ne pas se foutre",
+	"indicatif": {
+		"présent": {
+			"je": "fous",
+			"tu": "fous",
+			"il/elle": "fout",
+			"nous": "foutons",
+			"vous": "foutez",
+			"ils/elles": "foutent"
+		},
+		"imparfait": {
+			"je": "foutais",
+			"tu": "foutais",
+			"il/elle": "foutait",
+			"nous": "foutions",
+			"vous": "foutiez",
+			"ils/elles": "foutaient"
+		},
+		"futur": {
+			"je": "foutrai",
+			"tu": "foutras",
+			"il/elle": "foutra",
+			"nous": "foutrons",
+			"vous": "foutrez",
+			"ils/elles": "foutront"
+		},
+		"passé simple": {},
+		"passé composé": {
+			"j'": "ai foutu",
+			"tu": "as foutu",
+			"il/elle": "a foutu",
+			"nous": "avons foutu",
+			"vous": "avez foutu",
+			"ils/elles": "ont foutu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais foutu",
+			"tu": "avais foutu",
+			"il/elle": "avait foutu",
+			"nous": "avions foutu",
+			"vous": "aviez foutu",
+			"ils/elles": "avaient foutu"
+		},
+		"passé antérieur": {
+			"j'": "eus foutu",
+			"tu": "eus foutu",
+			"il/elle": "eut foutu",
+			"nous": "eûmes foutu",
+			"vous": "eûtes foutu",
+			"ils/elles": "eurent foutu"
+		},
+		"futur antérieur": {
+			"j'": "aurai foutu",
+			"tu": "auras foutu",
+			"il/elle": "aura foutu",
+			"nous": "aurons foutu",
+			"vous": "aurez foutu",
+			"ils/elles": "auront foutu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous foutiez",
+			"qu'il/elle": "foute",
+			"qu'ils/elles": "foutent"
+		},
+		"imparfait": {},
+		"plus-que-parfait": {
+			"j'": "eusse foutu",
+			"que": "vous eussiez foutu",
+			"qu'il/elle": "eût foutu",
+			"qu'ils/elles": "eussent foutu"
+		},
+		"passé": {
+			"j'": "aie foutu",
+			"que": "vous ayez foutu",
+			"qu'il/elle": "ait foutu",
+			"qu'ils/elles": "aient foutu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "foutrais",
+			"tu": "foutrais",
+			"il/elle": "foutrait",
+			"nous": "foutrions",
+			"vous": "foutriez",
+			"ils/elles": "foutraient"
+		},
+		"passé première forme": {
+			"j'": "aurais foutu",
+			"tu": "aurais foutu",
+			"il/elle": "aurait foutu",
+			"nous": "aurions foutu",
+			"vous": "auriez foutu",
+			"ils/elles": "auraient foutu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse foutu",
+			"tu": "eusses foutu",
+			"il/elle": "eût foutu",
+			"nous": "eussions foutu",
+			"vous": "eussiez foutu",
+			"ils/elles": "eussent foutu"
+		}
+	},
+	"participe": {
+		"présent": { "foutant": "" },
+		"passé composé": { "ayant": "foutu" },
+		"passé": {
+			"masc.sg.:": "foutu",
+			"masc.pl.:": "foutus",
+			"fém.sg.:": "foutue",
+			"fém.pl.:": "foutues"
+		}
+	},
+	"imperatif": {
+		"présent": { "fous": "", "foutons": "", "foutez": "" },
+		"passé": { "aie": "foutu", "ayons": "foutu", "ayez": "foutu" }
+	},
+	"infinitif": { "présent": { "foutre": "" }, "passé": { "avoir": "foutu" } }
+}

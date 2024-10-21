@@ -1,0 +1,138 @@
+{
+	"name": "croiser",
+	"definition": "cross; intersect; meet; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se croiser/ne pas croiser/ne pas se croiser",
+	"indicatif": {
+		"présent": {
+			"je": "croise",
+			"tu": "croises",
+			"il/elle": "croise",
+			"nous": "croisons",
+			"vous": "croisez",
+			"ils/elles": "croisent"
+		},
+		"imparfait": {
+			"je": "croisais",
+			"tu": "croisais",
+			"il/elle": "croisait",
+			"nous": "croisions",
+			"vous": "croisiez",
+			"ils/elles": "croisaient"
+		},
+		"futur": {
+			"je": "croiserai",
+			"tu": "croiseras",
+			"il/elle": "croisera",
+			"nous": "croiserons",
+			"vous": "croiserez",
+			"ils/elles": "croiseront"
+		},
+		"passé simple": {
+			"je": "croisai",
+			"tu": "croisas",
+			"il/elle": "croisa",
+			"nous": "croisâmes",
+			"vous": "croisâtes",
+			"ils/elles": "croisèrent"
+		},
+		"passé composé": {
+			"j'": "ai croisé",
+			"tu": "as croisé",
+			"il/elle": "a croisé",
+			"nous": "avons croisé",
+			"vous": "avez croisé",
+			"ils/elles": "ont croisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais croisé",
+			"tu": "avais croisé",
+			"il/elle": "avait croisé",
+			"nous": "avions croisé",
+			"vous": "aviez croisé",
+			"ils/elles": "avaient croisé"
+		},
+		"passé antérieur": {
+			"j'": "eus croisé",
+			"tu": "eus croisé",
+			"il/elle": "eut croisé",
+			"nous": "eûmes croisé",
+			"vous": "eûtes croisé",
+			"ils/elles": "eurent croisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai croisé",
+			"tu": "auras croisé",
+			"il/elle": "aura croisé",
+			"nous": "aurons croisé",
+			"vous": "aurez croisé",
+			"ils/elles": "auront croisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous croisiez",
+			"qu'il/elle": "croise",
+			"qu'ils/elles": "croisent"
+		},
+		"imparfait": {
+			"que": "vous croisassiez",
+			"qu'il/elle": "croisât",
+			"qu'ils/elles": "croisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse croisé",
+			"que": "vous eussiez croisé",
+			"qu'il/elle": "eût croisé",
+			"qu'ils/elles": "eussent croisé"
+		},
+		"passé": {
+			"j'": "aie croisé",
+			"que": "vous ayez croisé",
+			"qu'il/elle": "ait croisé",
+			"qu'ils/elles": "aient croisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "croiserais",
+			"tu": "croiserais",
+			"il/elle": "croiserait",
+			"nous": "croiserions",
+			"vous": "croiseriez",
+			"ils/elles": "croiseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais croisé",
+			"tu": "aurais croisé",
+			"il/elle": "aurait croisé",
+			"nous": "aurions croisé",
+			"vous": "auriez croisé",
+			"ils/elles": "auraient croisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse croisé",
+			"tu": "eusses croisé",
+			"il/elle": "eût croisé",
+			"nous": "eussions croisé",
+			"vous": "eussiez croisé",
+			"ils/elles": "eussent croisé"
+		}
+	},
+	"participe": {
+		"présent": { "croisant": "" },
+		"passé composé": { "ayant": "croisé" },
+		"passé": {
+			"masc.sg.:": "croisé",
+			"masc.pl.:": "croisés",
+			"fém.sg.:": "croisée",
+			"fém.pl.:": "croisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "croise": "", "croisons": "", "croisez": "" },
+		"passé": { "aie": "croisé", "ayons": "croisé", "ayez": "croisé" }
+	},
+	"infinitif": { "présent": { "croiser": "" }, "passé": { "avoir": "croisé" } }
+}

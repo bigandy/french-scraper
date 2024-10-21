@@ -1,0 +1,145 @@
+{
+	"name": "conjecturer",
+	"definition": "speculate; surmise; conjecture; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se conjecturer/ne pas conjecturer/ne pas se conjecturer",
+	"indicatif": {
+		"présent": {
+			"je": "conjecture",
+			"tu": "conjectures",
+			"il/elle": "conjecture",
+			"nous": "conjecturons",
+			"vous": "conjecturez",
+			"ils/elles": "conjecturent"
+		},
+		"imparfait": {
+			"je": "conjecturais",
+			"tu": "conjecturais",
+			"il/elle": "conjecturait",
+			"nous": "conjecturions",
+			"vous": "conjecturiez",
+			"ils/elles": "conjecturaient"
+		},
+		"futur": {
+			"je": "conjecturerai",
+			"tu": "conjectureras",
+			"il/elle": "conjecturera",
+			"nous": "conjecturerons",
+			"vous": "conjecturerez",
+			"ils/elles": "conjectureront"
+		},
+		"passé simple": {
+			"je": "conjecturai",
+			"tu": "conjecturas",
+			"il/elle": "conjectura",
+			"nous": "conjecturâmes",
+			"vous": "conjecturâtes",
+			"ils/elles": "conjecturèrent"
+		},
+		"passé composé": {
+			"j'": "ai conjecturé",
+			"tu": "as conjecturé",
+			"il/elle": "a conjecturé",
+			"nous": "avons conjecturé",
+			"vous": "avez conjecturé",
+			"ils/elles": "ont conjecturé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais conjecturé",
+			"tu": "avais conjecturé",
+			"il/elle": "avait conjecturé",
+			"nous": "avions conjecturé",
+			"vous": "aviez conjecturé",
+			"ils/elles": "avaient conjecturé"
+		},
+		"passé antérieur": {
+			"j'": "eus conjecturé",
+			"tu": "eus conjecturé",
+			"il/elle": "eut conjecturé",
+			"nous": "eûmes conjecturé",
+			"vous": "eûtes conjecturé",
+			"ils/elles": "eurent conjecturé"
+		},
+		"futur antérieur": {
+			"j'": "aurai conjecturé",
+			"tu": "auras conjecturé",
+			"il/elle": "aura conjecturé",
+			"nous": "aurons conjecturé",
+			"vous": "aurez conjecturé",
+			"ils/elles": "auront conjecturé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous conjecturiez",
+			"qu'il/elle": "conjecture",
+			"qu'ils/elles": "conjecturent"
+		},
+		"imparfait": {
+			"que": "vous conjecturassiez",
+			"qu'il/elle": "conjecturât",
+			"qu'ils/elles": "conjecturassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse conjecturé",
+			"que": "vous eussiez conjecturé",
+			"qu'il/elle": "eût conjecturé",
+			"qu'ils/elles": "eussent conjecturé"
+		},
+		"passé": {
+			"j'": "aie conjecturé",
+			"que": "vous ayez conjecturé",
+			"qu'il/elle": "ait conjecturé",
+			"qu'ils/elles": "aient conjecturé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "conjecturerais",
+			"tu": "conjecturerais",
+			"il/elle": "conjecturerait",
+			"nous": "conjecturerions",
+			"vous": "conjectureriez",
+			"ils/elles": "conjectureraient"
+		},
+		"passé première forme": {
+			"j'": "aurais conjecturé",
+			"tu": "aurais conjecturé",
+			"il/elle": "aurait conjecturé",
+			"nous": "aurions conjecturé",
+			"vous": "auriez conjecturé",
+			"ils/elles": "auraient conjecturé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse conjecturé",
+			"tu": "eusses conjecturé",
+			"il/elle": "eût conjecturé",
+			"nous": "eussions conjecturé",
+			"vous": "eussiez conjecturé",
+			"ils/elles": "eussent conjecturé"
+		}
+	},
+	"participe": {
+		"présent": { "conjecturant": "" },
+		"passé composé": { "ayant": "conjecturé" },
+		"passé": {
+			"masc.sg.:": "conjecturé",
+			"masc.pl.:": "conjecturés",
+			"fém.sg.:": "conjecturée",
+			"fém.pl.:": "conjecturées"
+		}
+	},
+	"imperatif": {
+		"présent": { "conjecture": "", "conjecturons": "", "conjecturez": "" },
+		"passé": {
+			"aie": "conjecturé",
+			"ayons": "conjecturé",
+			"ayez": "conjecturé"
+		}
+	},
+	"infinitif": {
+		"présent": { "conjecturer": "" },
+		"passé": { "avoir": "conjecturé" }
+	}
+}

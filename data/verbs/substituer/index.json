@@ -1,0 +1,141 @@
+{
+	"name": "substituer",
+	"definition": "substitute; replace; supplant; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se substituer/ne pas substituer/ne pas se substituer",
+	"indicatif": {
+		"présent": {
+			"je": "substitue",
+			"tu": "substitues",
+			"il/elle": "substitue",
+			"nous": "substituons",
+			"vous": "substituez",
+			"ils/elles": "substituent"
+		},
+		"imparfait": {
+			"je": "substituais",
+			"tu": "substituais",
+			"il/elle": "substituait",
+			"nous": "substituions",
+			"vous": "substituiez",
+			"ils/elles": "substituaient"
+		},
+		"futur": {
+			"je": "substituerai",
+			"tu": "substitueras",
+			"il/elle": "substituera",
+			"nous": "substituerons",
+			"vous": "substituerez",
+			"ils/elles": "substitueront"
+		},
+		"passé simple": {
+			"je": "substituai",
+			"tu": "substituas",
+			"il/elle": "substitua",
+			"nous": "substituâmes",
+			"vous": "substituâtes",
+			"ils/elles": "substituèrent"
+		},
+		"passé composé": {
+			"j'": "ai substitué",
+			"tu": "as substitué",
+			"il/elle": "a substitué",
+			"nous": "avons substitué",
+			"vous": "avez substitué",
+			"ils/elles": "ont substitué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais substitué",
+			"tu": "avais substitué",
+			"il/elle": "avait substitué",
+			"nous": "avions substitué",
+			"vous": "aviez substitué",
+			"ils/elles": "avaient substitué"
+		},
+		"passé antérieur": {
+			"j'": "eus substitué",
+			"tu": "eus substitué",
+			"il/elle": "eut substitué",
+			"nous": "eûmes substitué",
+			"vous": "eûtes substitué",
+			"ils/elles": "eurent substitué"
+		},
+		"futur antérieur": {
+			"j'": "aurai substitué",
+			"tu": "auras substitué",
+			"il/elle": "aura substitué",
+			"nous": "aurons substitué",
+			"vous": "aurez substitué",
+			"ils/elles": "auront substitué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous substituiez",
+			"qu'il/elle": "substitue",
+			"qu'ils/elles": "substituent"
+		},
+		"imparfait": {
+			"que": "vous substituassiez",
+			"qu'il/elle": "substituât",
+			"qu'ils/elles": "substituassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse substitué",
+			"que": "vous eussiez substitué",
+			"qu'il/elle": "eût substitué",
+			"qu'ils/elles": "eussent substitué"
+		},
+		"passé": {
+			"j'": "aie substitué",
+			"que": "vous ayez substitué",
+			"qu'il/elle": "ait substitué",
+			"qu'ils/elles": "aient substitué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "substituerais",
+			"tu": "substituerais",
+			"il/elle": "substituerait",
+			"nous": "substituerions",
+			"vous": "substitueriez",
+			"ils/elles": "substitueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais substitué",
+			"tu": "aurais substitué",
+			"il/elle": "aurait substitué",
+			"nous": "aurions substitué",
+			"vous": "auriez substitué",
+			"ils/elles": "auraient substitué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse substitué",
+			"tu": "eusses substitué",
+			"il/elle": "eût substitué",
+			"nous": "eussions substitué",
+			"vous": "eussiez substitué",
+			"ils/elles": "eussent substitué"
+		}
+	},
+	"participe": {
+		"présent": { "substituant": "" },
+		"passé composé": { "ayant": "substitué" },
+		"passé": {
+			"masc.sg.:": "substitué",
+			"masc.pl.:": "substitués",
+			"fém.sg.:": "substituée",
+			"fém.pl.:": "substituées"
+		}
+	},
+	"imperatif": {
+		"présent": { "substitue": "", "substituons": "", "substituez": "" },
+		"passé": { "aie": "substitué", "ayons": "substitué", "ayez": "substitué" }
+	},
+	"infinitif": {
+		"présent": { "substituer": "" },
+		"passé": { "avoir": "substitué" }
+	}
+}

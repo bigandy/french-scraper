@@ -1,0 +1,141 @@
+{
+	"name": "parrainer",
+	"definition": "sponsor; co-sponsor; mentor; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se parrainer/ne pas parrainer/ne pas se parrainer",
+	"indicatif": {
+		"présent": {
+			"je": "parraine",
+			"tu": "parraines",
+			"il/elle": "parraine",
+			"nous": "parrainons",
+			"vous": "parrainez",
+			"ils/elles": "parrainent"
+		},
+		"imparfait": {
+			"je": "parrainais",
+			"tu": "parrainais",
+			"il/elle": "parrainait",
+			"nous": "parrainions",
+			"vous": "parrainiez",
+			"ils/elles": "parrainaient"
+		},
+		"futur": {
+			"je": "parrainerai",
+			"tu": "parraineras",
+			"il/elle": "parrainera",
+			"nous": "parrainerons",
+			"vous": "parrainerez",
+			"ils/elles": "parraineront"
+		},
+		"passé simple": {
+			"je": "parrainai",
+			"tu": "parrainas",
+			"il/elle": "parraina",
+			"nous": "parrainâmes",
+			"vous": "parrainâtes",
+			"ils/elles": "parrainèrent"
+		},
+		"passé composé": {
+			"j'": "ai parrainé",
+			"tu": "as parrainé",
+			"il/elle": "a parrainé",
+			"nous": "avons parrainé",
+			"vous": "avez parrainé",
+			"ils/elles": "ont parrainé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais parrainé",
+			"tu": "avais parrainé",
+			"il/elle": "avait parrainé",
+			"nous": "avions parrainé",
+			"vous": "aviez parrainé",
+			"ils/elles": "avaient parrainé"
+		},
+		"passé antérieur": {
+			"j'": "eus parrainé",
+			"tu": "eus parrainé",
+			"il/elle": "eut parrainé",
+			"nous": "eûmes parrainé",
+			"vous": "eûtes parrainé",
+			"ils/elles": "eurent parrainé"
+		},
+		"futur antérieur": {
+			"j'": "aurai parrainé",
+			"tu": "auras parrainé",
+			"il/elle": "aura parrainé",
+			"nous": "aurons parrainé",
+			"vous": "aurez parrainé",
+			"ils/elles": "auront parrainé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous parrainiez",
+			"qu'il/elle": "parraine",
+			"qu'ils/elles": "parrainent"
+		},
+		"imparfait": {
+			"que": "vous parrainassiez",
+			"qu'il/elle": "parrainât",
+			"qu'ils/elles": "parrainassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse parrainé",
+			"que": "vous eussiez parrainé",
+			"qu'il/elle": "eût parrainé",
+			"qu'ils/elles": "eussent parrainé"
+		},
+		"passé": {
+			"j'": "aie parrainé",
+			"que": "vous ayez parrainé",
+			"qu'il/elle": "ait parrainé",
+			"qu'ils/elles": "aient parrainé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "parrainerais",
+			"tu": "parrainerais",
+			"il/elle": "parrainerait",
+			"nous": "parrainerions",
+			"vous": "parraineriez",
+			"ils/elles": "parraineraient"
+		},
+		"passé première forme": {
+			"j'": "aurais parrainé",
+			"tu": "aurais parrainé",
+			"il/elle": "aurait parrainé",
+			"nous": "aurions parrainé",
+			"vous": "auriez parrainé",
+			"ils/elles": "auraient parrainé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse parrainé",
+			"tu": "eusses parrainé",
+			"il/elle": "eût parrainé",
+			"nous": "eussions parrainé",
+			"vous": "eussiez parrainé",
+			"ils/elles": "eussent parrainé"
+		}
+	},
+	"participe": {
+		"présent": { "parrainant": "" },
+		"passé composé": { "ayant": "parrainé" },
+		"passé": {
+			"masc.sg.:": "parrainé",
+			"masc.pl.:": "parrainés",
+			"fém.sg.:": "parrainée",
+			"fém.pl.:": "parrainées"
+		}
+	},
+	"imperatif": {
+		"présent": { "parraine": "", "parrainons": "", "parrainez": "" },
+		"passé": { "aie": "parrainé", "ayons": "parrainé", "ayez": "parrainé" }
+	},
+	"infinitif": {
+		"présent": { "parrainer": "" },
+		"passé": { "avoir": "parrainé" }
+	}
+}

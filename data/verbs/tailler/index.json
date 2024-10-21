@@ -1,0 +1,138 @@
+{
+	"name": "tailler",
+	"definition": "cut; trim; prune; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se tailler/ne pas tailler/ne pas se tailler",
+	"indicatif": {
+		"présent": {
+			"je": "taille",
+			"tu": "tailles",
+			"il/elle": "taille",
+			"nous": "taillons",
+			"vous": "taillez",
+			"ils/elles": "taillent"
+		},
+		"imparfait": {
+			"je": "taillais",
+			"tu": "taillais",
+			"il/elle": "taillait",
+			"nous": "taillions",
+			"vous": "tailliez",
+			"ils/elles": "taillaient"
+		},
+		"futur": {
+			"je": "taillerai",
+			"tu": "tailleras",
+			"il/elle": "taillera",
+			"nous": "taillerons",
+			"vous": "taillerez",
+			"ils/elles": "tailleront"
+		},
+		"passé simple": {
+			"je": "taillai",
+			"tu": "taillas",
+			"il/elle": "tailla",
+			"nous": "taillâmes",
+			"vous": "taillâtes",
+			"ils/elles": "taillèrent"
+		},
+		"passé composé": {
+			"j'": "ai taillé",
+			"tu": "as taillé",
+			"il/elle": "a taillé",
+			"nous": "avons taillé",
+			"vous": "avez taillé",
+			"ils/elles": "ont taillé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais taillé",
+			"tu": "avais taillé",
+			"il/elle": "avait taillé",
+			"nous": "avions taillé",
+			"vous": "aviez taillé",
+			"ils/elles": "avaient taillé"
+		},
+		"passé antérieur": {
+			"j'": "eus taillé",
+			"tu": "eus taillé",
+			"il/elle": "eut taillé",
+			"nous": "eûmes taillé",
+			"vous": "eûtes taillé",
+			"ils/elles": "eurent taillé"
+		},
+		"futur antérieur": {
+			"j'": "aurai taillé",
+			"tu": "auras taillé",
+			"il/elle": "aura taillé",
+			"nous": "aurons taillé",
+			"vous": "aurez taillé",
+			"ils/elles": "auront taillé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous tailliez",
+			"qu'il/elle": "taille",
+			"qu'ils/elles": "taillent"
+		},
+		"imparfait": {
+			"que": "vous taillassiez",
+			"qu'il/elle": "taillât",
+			"qu'ils/elles": "taillassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse taillé",
+			"que": "vous eussiez taillé",
+			"qu'il/elle": "eût taillé",
+			"qu'ils/elles": "eussent taillé"
+		},
+		"passé": {
+			"j'": "aie taillé",
+			"que": "vous ayez taillé",
+			"qu'il/elle": "ait taillé",
+			"qu'ils/elles": "aient taillé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "taillerais",
+			"tu": "taillerais",
+			"il/elle": "taillerait",
+			"nous": "taillerions",
+			"vous": "tailleriez",
+			"ils/elles": "tailleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais taillé",
+			"tu": "aurais taillé",
+			"il/elle": "aurait taillé",
+			"nous": "aurions taillé",
+			"vous": "auriez taillé",
+			"ils/elles": "auraient taillé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse taillé",
+			"tu": "eusses taillé",
+			"il/elle": "eût taillé",
+			"nous": "eussions taillé",
+			"vous": "eussiez taillé",
+			"ils/elles": "eussent taillé"
+		}
+	},
+	"participe": {
+		"présent": { "taillant": "" },
+		"passé composé": { "ayant": "taillé" },
+		"passé": {
+			"masc.sg.:": "taillé",
+			"masc.pl.:": "taillés",
+			"fém.sg.:": "taillée",
+			"fém.pl.:": "taillées"
+		}
+	},
+	"imperatif": {
+		"présent": { "taille": "", "taillons": "", "taillez": "" },
+		"passé": { "aie": "taillé", "ayons": "taillé", "ayez": "taillé" }
+	},
+	"infinitif": { "présent": { "tailler": "" }, "passé": { "avoir": "taillé" } }
+}

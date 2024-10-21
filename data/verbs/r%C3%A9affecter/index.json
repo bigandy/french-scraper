@@ -1,0 +1,141 @@
+{
+	"name": "réaffecter",
+	"definition": "reallocate; reassign; redirect; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se réaffecter/ne pas réaffecter/ne pas se réaffecter",
+	"indicatif": {
+		"présent": {
+			"je": "réaffecte",
+			"tu": "réaffectes",
+			"il/elle": "réaffecte",
+			"nous": "réaffectons",
+			"vous": "réaffectez",
+			"ils/elles": "réaffectent"
+		},
+		"imparfait": {
+			"je": "réaffectais",
+			"tu": "réaffectais",
+			"il/elle": "réaffectait",
+			"nous": "réaffections",
+			"vous": "réaffectiez",
+			"ils/elles": "réaffectaient"
+		},
+		"futur": {
+			"je": "réaffecterai",
+			"tu": "réaffecteras",
+			"il/elle": "réaffectera",
+			"nous": "réaffecterons",
+			"vous": "réaffecterez",
+			"ils/elles": "réaffecteront"
+		},
+		"passé simple": {
+			"je": "réaffectai",
+			"tu": "réaffectas",
+			"il/elle": "réaffecta",
+			"nous": "réaffectâmes",
+			"vous": "réaffectâtes",
+			"ils/elles": "réaffectèrent"
+		},
+		"passé composé": {
+			"j'": "ai réaffecté",
+			"tu": "as réaffecté",
+			"il/elle": "a réaffecté",
+			"nous": "avons réaffecté",
+			"vous": "avez réaffecté",
+			"ils/elles": "ont réaffecté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais réaffecté",
+			"tu": "avais réaffecté",
+			"il/elle": "avait réaffecté",
+			"nous": "avions réaffecté",
+			"vous": "aviez réaffecté",
+			"ils/elles": "avaient réaffecté"
+		},
+		"passé antérieur": {
+			"j'": "eus réaffecté",
+			"tu": "eus réaffecté",
+			"il/elle": "eut réaffecté",
+			"nous": "eûmes réaffecté",
+			"vous": "eûtes réaffecté",
+			"ils/elles": "eurent réaffecté"
+		},
+		"futur antérieur": {
+			"j'": "aurai réaffecté",
+			"tu": "auras réaffecté",
+			"il/elle": "aura réaffecté",
+			"nous": "aurons réaffecté",
+			"vous": "aurez réaffecté",
+			"ils/elles": "auront réaffecté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous réaffectiez",
+			"qu'il/elle": "réaffecte",
+			"qu'ils/elles": "réaffectent"
+		},
+		"imparfait": {
+			"que": "vous réaffectassiez",
+			"qu'il/elle": "réaffectât",
+			"qu'ils/elles": "réaffectassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse réaffecté",
+			"que": "vous eussiez réaffecté",
+			"qu'il/elle": "eût réaffecté",
+			"qu'ils/elles": "eussent réaffecté"
+		},
+		"passé": {
+			"j'": "aie réaffecté",
+			"que": "vous ayez réaffecté",
+			"qu'il/elle": "ait réaffecté",
+			"qu'ils/elles": "aient réaffecté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "réaffecterais",
+			"tu": "réaffecterais",
+			"il/elle": "réaffecterait",
+			"nous": "réaffecterions",
+			"vous": "réaffecteriez",
+			"ils/elles": "réaffecteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais réaffecté",
+			"tu": "aurais réaffecté",
+			"il/elle": "aurait réaffecté",
+			"nous": "aurions réaffecté",
+			"vous": "auriez réaffecté",
+			"ils/elles": "auraient réaffecté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse réaffecté",
+			"tu": "eusses réaffecté",
+			"il/elle": "eût réaffecté",
+			"nous": "eussions réaffecté",
+			"vous": "eussiez réaffecté",
+			"ils/elles": "eussent réaffecté"
+		}
+	},
+	"participe": {
+		"présent": { "réaffectant": "" },
+		"passé composé": { "ayant": "réaffecté" },
+		"passé": {
+			"masc.sg.:": "réaffecté",
+			"masc.pl.:": "réaffectés",
+			"fém.sg.:": "réaffectée",
+			"fém.pl.:": "réaffectées"
+		}
+	},
+	"imperatif": {
+		"présent": { "réaffecte": "", "réaffectons": "", "réaffectez": "" },
+		"passé": { "aie": "réaffecté", "ayons": "réaffecté", "ayez": "réaffecté" }
+	},
+	"infinitif": {
+		"présent": { "réaffecter": "" },
+		"passé": { "avoir": "réaffecté" }
+	}
+}

@@ -1,0 +1,141 @@
+{
+	"name": "reparler",
+	"definition": "talk again; discuss; revisit; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se reparler/ne pas reparler/ne pas se reparler",
+	"indicatif": {
+		"présent": {
+			"je": "reparle",
+			"tu": "reparles",
+			"il/elle": "reparle",
+			"nous": "reparlons",
+			"vous": "reparlez",
+			"ils/elles": "reparlent"
+		},
+		"imparfait": {
+			"je": "reparlais",
+			"tu": "reparlais",
+			"il/elle": "reparlait",
+			"nous": "reparlions",
+			"vous": "reparliez",
+			"ils/elles": "reparlaient"
+		},
+		"futur": {
+			"je": "reparlerai",
+			"tu": "reparleras",
+			"il/elle": "reparlera",
+			"nous": "reparlerons",
+			"vous": "reparlerez",
+			"ils/elles": "reparleront"
+		},
+		"passé simple": {
+			"je": "reparlai",
+			"tu": "reparlas",
+			"il/elle": "reparla",
+			"nous": "reparlâmes",
+			"vous": "reparlâtes",
+			"ils/elles": "reparlèrent"
+		},
+		"passé composé": {
+			"j'": "ai reparlé",
+			"tu": "as reparlé",
+			"il/elle": "a reparlé",
+			"nous": "avons reparlé",
+			"vous": "avez reparlé",
+			"ils/elles": "ont reparlé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais reparlé",
+			"tu": "avais reparlé",
+			"il/elle": "avait reparlé",
+			"nous": "avions reparlé",
+			"vous": "aviez reparlé",
+			"ils/elles": "avaient reparlé"
+		},
+		"passé antérieur": {
+			"j'": "eus reparlé",
+			"tu": "eus reparlé",
+			"il/elle": "eut reparlé",
+			"nous": "eûmes reparlé",
+			"vous": "eûtes reparlé",
+			"ils/elles": "eurent reparlé"
+		},
+		"futur antérieur": {
+			"j'": "aurai reparlé",
+			"tu": "auras reparlé",
+			"il/elle": "aura reparlé",
+			"nous": "aurons reparlé",
+			"vous": "aurez reparlé",
+			"ils/elles": "auront reparlé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous reparliez",
+			"qu'il/elle": "reparle",
+			"qu'ils/elles": "reparlent"
+		},
+		"imparfait": {
+			"que": "vous reparlassiez",
+			"qu'il/elle": "reparlât",
+			"qu'ils/elles": "reparlassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse reparlé",
+			"que": "vous eussiez reparlé",
+			"qu'il/elle": "eût reparlé",
+			"qu'ils/elles": "eussent reparlé"
+		},
+		"passé": {
+			"j'": "aie reparlé",
+			"que": "vous ayez reparlé",
+			"qu'il/elle": "ait reparlé",
+			"qu'ils/elles": "aient reparlé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "reparlerais",
+			"tu": "reparlerais",
+			"il/elle": "reparlerait",
+			"nous": "reparlerions",
+			"vous": "reparleriez",
+			"ils/elles": "reparleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais reparlé",
+			"tu": "aurais reparlé",
+			"il/elle": "aurait reparlé",
+			"nous": "aurions reparlé",
+			"vous": "auriez reparlé",
+			"ils/elles": "auraient reparlé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse reparlé",
+			"tu": "eusses reparlé",
+			"il/elle": "eût reparlé",
+			"nous": "eussions reparlé",
+			"vous": "eussiez reparlé",
+			"ils/elles": "eussent reparlé"
+		}
+	},
+	"participe": {
+		"présent": { "reparlant": "" },
+		"passé composé": { "ayant": "reparlé" },
+		"passé": {
+			"masc.sg.:": "reparlé",
+			"masc.pl.:": "reparlés",
+			"fém.sg.:": "reparlée",
+			"fém.pl.:": "reparlées"
+		}
+	},
+	"imperatif": {
+		"présent": { "reparle": "", "reparlons": "", "reparlez": "" },
+		"passé": { "aie": "reparlé", "ayons": "reparlé", "ayez": "reparlé" }
+	},
+	"infinitif": {
+		"présent": { "reparler": "" },
+		"passé": { "avoir": "reparlé" }
+	}
+}

@@ -1,0 +1,145 @@
+{
+	"name": "reconstituer",
+	"definition": "\n              reconstruct; reconstitute; replenish; ...\n            ",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se reconstituer/ne pas reconstituer/ne pas se reconstituer",
+	"indicatif": {
+		"présent": {
+			"je": "reconstitue",
+			"tu": "reconstitues",
+			"il/elle": "reconstitue",
+			"nous": "reconstituons",
+			"vous": "reconstituez",
+			"ils/elles": "reconstituent"
+		},
+		"imparfait": {
+			"je": "reconstituais",
+			"tu": "reconstituais",
+			"il/elle": "reconstituait",
+			"nous": "reconstituions",
+			"vous": "reconstituiez",
+			"ils/elles": "reconstituaient"
+		},
+		"futur": {
+			"je": "reconstituerai",
+			"tu": "reconstitueras",
+			"il/elle": "reconstituera",
+			"nous": "reconstituerons",
+			"vous": "reconstituerez",
+			"ils/elles": "reconstitueront"
+		},
+		"passé simple": {
+			"je": "reconstituai",
+			"tu": "reconstituas",
+			"il/elle": "reconstitua",
+			"nous": "reconstituâmes",
+			"vous": "reconstituâtes",
+			"ils/elles": "reconstituèrent"
+		},
+		"passé composé": {
+			"j'": "ai reconstitué",
+			"tu": "as reconstitué",
+			"il/elle": "a reconstitué",
+			"nous": "avons reconstitué",
+			"vous": "avez reconstitué",
+			"ils/elles": "ont reconstitué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais reconstitué",
+			"tu": "avais reconstitué",
+			"il/elle": "avait reconstitué",
+			"nous": "avions reconstitué",
+			"vous": "aviez reconstitué",
+			"ils/elles": "avaient reconstitué"
+		},
+		"passé antérieur": {
+			"j'": "eus reconstitué",
+			"tu": "eus reconstitué",
+			"il/elle": "eut reconstitué",
+			"nous": "eûmes reconstitué",
+			"vous": "eûtes reconstitué",
+			"ils/elles": "eurent reconstitué"
+		},
+		"futur antérieur": {
+			"j'": "aurai reconstitué",
+			"tu": "auras reconstitué",
+			"il/elle": "aura reconstitué",
+			"nous": "aurons reconstitué",
+			"vous": "aurez reconstitué",
+			"ils/elles": "auront reconstitué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous reconstituiez",
+			"qu'il/elle": "reconstitue",
+			"qu'ils/elles": "reconstituent"
+		},
+		"imparfait": {
+			"que": "vous reconstituassiez",
+			"qu'il/elle": "reconstituât",
+			"qu'ils/elles": "reconstituassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse reconstitué",
+			"que": "vous eussiez reconstitué",
+			"qu'il/elle": "eût reconstitué",
+			"qu'ils/elles": "eussent reconstitué"
+		},
+		"passé": {
+			"j'": "aie reconstitué",
+			"que": "vous ayez reconstitué",
+			"qu'il/elle": "ait reconstitué",
+			"qu'ils/elles": "aient reconstitué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "reconstituerais",
+			"tu": "reconstituerais",
+			"il/elle": "reconstituerait",
+			"nous": "reconstituerions",
+			"vous": "reconstitueriez",
+			"ils/elles": "reconstitueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais reconstitué",
+			"tu": "aurais reconstitué",
+			"il/elle": "aurait reconstitué",
+			"nous": "aurions reconstitué",
+			"vous": "auriez reconstitué",
+			"ils/elles": "auraient reconstitué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse reconstitué",
+			"tu": "eusses reconstitué",
+			"il/elle": "eût reconstitué",
+			"nous": "eussions reconstitué",
+			"vous": "eussiez reconstitué",
+			"ils/elles": "eussent reconstitué"
+		}
+	},
+	"participe": {
+		"présent": { "reconstituant": "" },
+		"passé composé": { "ayant": "reconstitué" },
+		"passé": {
+			"masc.sg.:": "reconstitué",
+			"masc.pl.:": "reconstitués",
+			"fém.sg.:": "reconstituée",
+			"fém.pl.:": "reconstituées"
+		}
+	},
+	"imperatif": {
+		"présent": { "reconstitue": "", "reconstituons": "", "reconstituez": "" },
+		"passé": {
+			"aie": "reconstitué",
+			"ayons": "reconstitué",
+			"ayez": "reconstitué"
+		}
+	},
+	"infinitif": {
+		"présent": { "reconstituer": "" },
+		"passé": { "avoir": "reconstitué" }
+	}
+}

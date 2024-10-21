@@ -1,0 +1,141 @@
+{
+	"name": "transiter",
+	"definition": "\n              transit; transition; pass in transit; ...\n            ",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se transiter/ne pas transiter/ne pas se transiter",
+	"indicatif": {
+		"présent": {
+			"je": "transite",
+			"tu": "transites",
+			"il/elle": "transite",
+			"nous": "transitons",
+			"vous": "transitez",
+			"ils/elles": "transitent"
+		},
+		"imparfait": {
+			"je": "transitais",
+			"tu": "transitais",
+			"il/elle": "transitait",
+			"nous": "transitions",
+			"vous": "transitiez",
+			"ils/elles": "transitaient"
+		},
+		"futur": {
+			"je": "transiterai",
+			"tu": "transiteras",
+			"il/elle": "transitera",
+			"nous": "transiterons",
+			"vous": "transiterez",
+			"ils/elles": "transiteront"
+		},
+		"passé simple": {
+			"je": "transitai",
+			"tu": "transitas",
+			"il/elle": "transita",
+			"nous": "transitâmes",
+			"vous": "transitâtes",
+			"ils/elles": "transitèrent"
+		},
+		"passé composé": {
+			"j'": "ai transité",
+			"tu": "as transité",
+			"il/elle": "a transité",
+			"nous": "avons transité",
+			"vous": "avez transité",
+			"ils/elles": "ont transité"
+		},
+		"plus-que-parfait": {
+			"j'": "avais transité",
+			"tu": "avais transité",
+			"il/elle": "avait transité",
+			"nous": "avions transité",
+			"vous": "aviez transité",
+			"ils/elles": "avaient transité"
+		},
+		"passé antérieur": {
+			"j'": "eus transité",
+			"tu": "eus transité",
+			"il/elle": "eut transité",
+			"nous": "eûmes transité",
+			"vous": "eûtes transité",
+			"ils/elles": "eurent transité"
+		},
+		"futur antérieur": {
+			"j'": "aurai transité",
+			"tu": "auras transité",
+			"il/elle": "aura transité",
+			"nous": "aurons transité",
+			"vous": "aurez transité",
+			"ils/elles": "auront transité"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous transitiez",
+			"qu'il/elle": "transite",
+			"qu'ils/elles": "transitent"
+		},
+		"imparfait": {
+			"que": "vous transitassiez",
+			"qu'il/elle": "transitât",
+			"qu'ils/elles": "transitassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse transité",
+			"que": "vous eussiez transité",
+			"qu'il/elle": "eût transité",
+			"qu'ils/elles": "eussent transité"
+		},
+		"passé": {
+			"j'": "aie transité",
+			"que": "vous ayez transité",
+			"qu'il/elle": "ait transité",
+			"qu'ils/elles": "aient transité"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "transiterais",
+			"tu": "transiterais",
+			"il/elle": "transiterait",
+			"nous": "transiterions",
+			"vous": "transiteriez",
+			"ils/elles": "transiteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais transité",
+			"tu": "aurais transité",
+			"il/elle": "aurait transité",
+			"nous": "aurions transité",
+			"vous": "auriez transité",
+			"ils/elles": "auraient transité"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse transité",
+			"tu": "eusses transité",
+			"il/elle": "eût transité",
+			"nous": "eussions transité",
+			"vous": "eussiez transité",
+			"ils/elles": "eussent transité"
+		}
+	},
+	"participe": {
+		"présent": { "transitant": "" },
+		"passé composé": { "ayant": "transité" },
+		"passé": {
+			"masc.sg.:": "transité",
+			"masc.pl.:": "transités",
+			"fém.sg.:": "transitée",
+			"fém.pl.:": "transitées"
+		}
+	},
+	"imperatif": {
+		"présent": { "transite": "", "transitons": "", "transitez": "" },
+		"passé": { "aie": "transité", "ayons": "transité", "ayez": "transité" }
+	},
+	"infinitif": {
+		"présent": { "transiter": "" },
+		"passé": { "avoir": "transité" }
+	}
+}

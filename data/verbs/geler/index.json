@@ -1,0 +1,138 @@
+{
+	"name": "geler",
+	"definition": "freeze; set aside; suspend; ...",
+	"model": "peler",
+	"auxiliary": "avoir",
+	"otherForms": "se geler/ne pas geler/ne pas se geler",
+	"indicatif": {
+		"présent": {
+			"je": "gèle",
+			"tu": "gèles",
+			"il/elle": "gèle",
+			"nous": "gelons",
+			"vous": "gelez",
+			"ils/elles": "gèlent"
+		},
+		"imparfait": {
+			"je": "gelais",
+			"tu": "gelais",
+			"il/elle": "gelait",
+			"nous": "gelions",
+			"vous": "geliez",
+			"ils/elles": "gelaient"
+		},
+		"futur": {
+			"je": "gèlerai",
+			"tu": "gèleras",
+			"il/elle": "gèlera",
+			"nous": "gèlerons",
+			"vous": "gèlerez",
+			"ils/elles": "gèleront"
+		},
+		"passé simple": {
+			"je": "gelai",
+			"tu": "gelas",
+			"il/elle": "gela",
+			"nous": "gelâmes",
+			"vous": "gelâtes",
+			"ils/elles": "gelèrent"
+		},
+		"passé composé": {
+			"j'": "ai gelé",
+			"tu": "as gelé",
+			"il/elle": "a gelé",
+			"nous": "avons gelé",
+			"vous": "avez gelé",
+			"ils/elles": "ont gelé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais gelé",
+			"tu": "avais gelé",
+			"il/elle": "avait gelé",
+			"nous": "avions gelé",
+			"vous": "aviez gelé",
+			"ils/elles": "avaient gelé"
+		},
+		"passé antérieur": {
+			"j'": "eus gelé",
+			"tu": "eus gelé",
+			"il/elle": "eut gelé",
+			"nous": "eûmes gelé",
+			"vous": "eûtes gelé",
+			"ils/elles": "eurent gelé"
+		},
+		"futur antérieur": {
+			"j'": "aurai gelé",
+			"tu": "auras gelé",
+			"il/elle": "aura gelé",
+			"nous": "aurons gelé",
+			"vous": "aurez gelé",
+			"ils/elles": "auront gelé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous geliez",
+			"qu'il/elle": "gèle",
+			"qu'ils/elles": "gèlent"
+		},
+		"imparfait": {
+			"que": "vous gelassiez",
+			"qu'il/elle": "gelât",
+			"qu'ils/elles": "gelassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse gelé",
+			"que": "vous eussiez gelé",
+			"qu'il/elle": "eût gelé",
+			"qu'ils/elles": "eussent gelé"
+		},
+		"passé": {
+			"j'": "aie gelé",
+			"que": "vous ayez gelé",
+			"qu'il/elle": "ait gelé",
+			"qu'ils/elles": "aient gelé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "gèlerais",
+			"tu": "gèlerais",
+			"il/elle": "gèlerait",
+			"nous": "gèlerions",
+			"vous": "gèleriez",
+			"ils/elles": "gèleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais gelé",
+			"tu": "aurais gelé",
+			"il/elle": "aurait gelé",
+			"nous": "aurions gelé",
+			"vous": "auriez gelé",
+			"ils/elles": "auraient gelé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse gelé",
+			"tu": "eusses gelé",
+			"il/elle": "eût gelé",
+			"nous": "eussions gelé",
+			"vous": "eussiez gelé",
+			"ils/elles": "eussent gelé"
+		}
+	},
+	"participe": {
+		"présent": { "gelant": "" },
+		"passé composé": { "ayant": "gelé" },
+		"passé": {
+			"masc.sg.:": "gelé",
+			"masc.pl.:": "gelés",
+			"fém.sg.:": "gelée",
+			"fém.pl.:": "gelées"
+		}
+	},
+	"imperatif": {
+		"présent": { "gèle": "", "gelons": "", "gelez": "" },
+		"passé": { "aie": "gelé", "ayons": "gelé", "ayez": "gelé" }
+	},
+	"infinitif": { "présent": { "geler": "" }, "passé": { "avoir": "gelé" } }
+}

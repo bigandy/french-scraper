@@ -1,0 +1,138 @@
+{
+	"name": "banquer",
+	"definition": "shell out; fork out; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se banquer/ne pas banquer/ne pas se banquer",
+	"indicatif": {
+		"présent": {
+			"je": "banque",
+			"tu": "banques",
+			"il/elle": "banque",
+			"nous": "banquons",
+			"vous": "banquez",
+			"ils/elles": "banquent"
+		},
+		"imparfait": {
+			"je": "banquais",
+			"tu": "banquais",
+			"il/elle": "banquait",
+			"nous": "banquions",
+			"vous": "banquiez",
+			"ils/elles": "banquaient"
+		},
+		"futur": {
+			"je": "banquerai",
+			"tu": "banqueras",
+			"il/elle": "banquera",
+			"nous": "banquerons",
+			"vous": "banquerez",
+			"ils/elles": "banqueront"
+		},
+		"passé simple": {
+			"je": "banquai",
+			"tu": "banquas",
+			"il/elle": "banqua",
+			"nous": "banquâmes",
+			"vous": "banquâtes",
+			"ils/elles": "banquèrent"
+		},
+		"passé composé": {
+			"j'": "ai banqué",
+			"tu": "as banqué",
+			"il/elle": "a banqué",
+			"nous": "avons banqué",
+			"vous": "avez banqué",
+			"ils/elles": "ont banqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais banqué",
+			"tu": "avais banqué",
+			"il/elle": "avait banqué",
+			"nous": "avions banqué",
+			"vous": "aviez banqué",
+			"ils/elles": "avaient banqué"
+		},
+		"passé antérieur": {
+			"j'": "eus banqué",
+			"tu": "eus banqué",
+			"il/elle": "eut banqué",
+			"nous": "eûmes banqué",
+			"vous": "eûtes banqué",
+			"ils/elles": "eurent banqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai banqué",
+			"tu": "auras banqué",
+			"il/elle": "aura banqué",
+			"nous": "aurons banqué",
+			"vous": "aurez banqué",
+			"ils/elles": "auront banqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous banquiez",
+			"qu'il/elle": "banque",
+			"qu'ils/elles": "banquent"
+		},
+		"imparfait": {
+			"que": "vous banquassiez",
+			"qu'il/elle": "banquât",
+			"qu'ils/elles": "banquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse banqué",
+			"que": "vous eussiez banqué",
+			"qu'il/elle": "eût banqué",
+			"qu'ils/elles": "eussent banqué"
+		},
+		"passé": {
+			"j'": "aie banqué",
+			"que": "vous ayez banqué",
+			"qu'il/elle": "ait banqué",
+			"qu'ils/elles": "aient banqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "banquerais",
+			"tu": "banquerais",
+			"il/elle": "banquerait",
+			"nous": "banquerions",
+			"vous": "banqueriez",
+			"ils/elles": "banqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais banqué",
+			"tu": "aurais banqué",
+			"il/elle": "aurait banqué",
+			"nous": "aurions banqué",
+			"vous": "auriez banqué",
+			"ils/elles": "auraient banqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse banqué",
+			"tu": "eusses banqué",
+			"il/elle": "eût banqué",
+			"nous": "eussions banqué",
+			"vous": "eussiez banqué",
+			"ils/elles": "eussent banqué"
+		}
+	},
+	"participe": {
+		"présent": { "banquant": "" },
+		"passé composé": { "ayant": "banqué" },
+		"passé": {
+			"masc.sg.:": "banqué",
+			"masc.pl.:": "banqués",
+			"fém.sg.:": "banquée",
+			"fém.pl.:": "banquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "banque": "", "banquons": "", "banquez": "" },
+		"passé": { "aie": "banqué", "ayons": "banqué", "ayez": "banqué" }
+	},
+	"infinitif": { "présent": { "banquer": "" }, "passé": { "avoir": "banqué" } }
+}

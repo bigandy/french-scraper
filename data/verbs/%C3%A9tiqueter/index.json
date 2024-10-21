@@ -1,0 +1,143 @@
+{
+	"name": "étiqueter",
+	"definition": "label; tag; mark; ...",
+	"model": "jeter",
+	"auxiliary": "avoir",
+	"otherForms": "s'étiqueter/ne pas étiqueter/ne pas s'étiqueter",
+	"indicatif": {
+		"présent": {
+			"j'": "étiquette",
+			"tu": "étiquettes",
+			"il/elle": "étiquette",
+			"nous": "étiquetons",
+			"vous": "étiquetez",
+			"ils/elles": "étiquettent"
+		},
+		"imparfait": {
+			"j'": "étiquetais",
+			"tu": "étiquetais",
+			"il/elle": "étiquetait",
+			"nous": "étiquetions",
+			"vous": "étiquetiez",
+			"ils/elles": "étiquetaient"
+		},
+		"futur": {
+			"j'": "étiquetterai",
+			"tu": "étiquetteras",
+			"il/elle": "étiquettera",
+			"nous": "étiquetterons",
+			"vous": "étiquetterez",
+			"ils/elles": "étiquetteront"
+		},
+		"passé simple": {
+			"j'": "étiquetai",
+			"tu": "étiquetas",
+			"il/elle": "étiqueta",
+			"nous": "étiquetâmes",
+			"vous": "étiquetâtes",
+			"ils/elles": "étiquetèrent"
+		},
+		"passé composé": {
+			"j'": "ai étiqueté",
+			"tu": "as étiqueté",
+			"il/elle": "a étiqueté",
+			"nous": "avons étiqueté",
+			"vous": "avez étiqueté",
+			"ils/elles": "ont étiqueté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais étiqueté",
+			"tu": "avais étiqueté",
+			"il/elle": "avait étiqueté",
+			"nous": "avions étiqueté",
+			"vous": "aviez étiqueté",
+			"ils/elles": "avaient étiqueté"
+		},
+		"passé antérieur": {
+			"j'": "eus étiqueté",
+			"tu": "eus étiqueté",
+			"il/elle": "eut étiqueté",
+			"nous": "eûmes étiqueté",
+			"vous": "eûtes étiqueté",
+			"ils/elles": "eurent étiqueté"
+		},
+		"futur antérieur": {
+			"j'": "aurai étiqueté",
+			"tu": "auras étiqueté",
+			"il/elle": "aura étiqueté",
+			"nous": "aurons étiqueté",
+			"vous": "aurez étiqueté",
+			"ils/elles": "auront étiqueté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "étiquette",
+			"que": "vous étiquetiez",
+			"qu'il/elle": "étiquette",
+			"qu'ils/elles": "étiquettent"
+		},
+		"imparfait": {
+			"j'": "étiquetasse",
+			"que": "vous étiquetassiez",
+			"qu'il/elle": "étiquetât",
+			"qu'ils/elles": "étiquetassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse étiqueté",
+			"que": "vous eussiez étiqueté",
+			"qu'il/elle": "eût étiqueté",
+			"qu'ils/elles": "eussent étiqueté"
+		},
+		"passé": {
+			"j'": "aie étiqueté",
+			"que": "vous ayez étiqueté",
+			"qu'il/elle": "ait étiqueté",
+			"qu'ils/elles": "aient étiqueté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "étiquetterais",
+			"tu": "étiquetterais",
+			"il/elle": "étiquetterait",
+			"nous": "étiquetterions",
+			"vous": "étiquetteriez",
+			"ils/elles": "étiquetteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais étiqueté",
+			"tu": "aurais étiqueté",
+			"il/elle": "aurait étiqueté",
+			"nous": "aurions étiqueté",
+			"vous": "auriez étiqueté",
+			"ils/elles": "auraient étiqueté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse étiqueté",
+			"tu": "eusses étiqueté",
+			"il/elle": "eût étiqueté",
+			"nous": "eussions étiqueté",
+			"vous": "eussiez étiqueté",
+			"ils/elles": "eussent étiqueté"
+		}
+	},
+	"participe": {
+		"présent": { "étiquetant": "" },
+		"passé composé": { "ayant": "étiqueté" },
+		"passé": {
+			"masc.sg.:": "étiqueté",
+			"masc.pl.:": "étiquetés",
+			"fém.sg.:": "étiquetée",
+			"fém.pl.:": "étiquetées"
+		}
+	},
+	"imperatif": {
+		"présent": { "étiquette": "", "étiquetons": "", "étiquetez": "" },
+		"passé": { "aie": "étiqueté", "ayons": "étiqueté", "ayez": "étiqueté" }
+	},
+	"infinitif": {
+		"présent": { "étiqueter": "" },
+		"passé": { "avoir": "étiqueté" }
+	}
+}

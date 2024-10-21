@@ -1,0 +1,143 @@
+{
+	"name": "assommer",
+	"definition": "knock out; stun; bludgeon; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'assommer/ne pas assommer/ne pas s'assommer",
+	"indicatif": {
+		"présent": {
+			"j'": "assomme",
+			"tu": "assommes",
+			"il/elle": "assomme",
+			"nous": "assommons",
+			"vous": "assommez",
+			"ils/elles": "assomment"
+		},
+		"imparfait": {
+			"j'": "assommais",
+			"tu": "assommais",
+			"il/elle": "assommait",
+			"nous": "assommions",
+			"vous": "assommiez",
+			"ils/elles": "assommaient"
+		},
+		"futur": {
+			"j'": "assommerai",
+			"tu": "assommeras",
+			"il/elle": "assommera",
+			"nous": "assommerons",
+			"vous": "assommerez",
+			"ils/elles": "assommeront"
+		},
+		"passé simple": {
+			"j'": "assommai",
+			"tu": "assommas",
+			"il/elle": "assomma",
+			"nous": "assommâmes",
+			"vous": "assommâtes",
+			"ils/elles": "assommèrent"
+		},
+		"passé composé": {
+			"j'": "ai assommé",
+			"tu": "as assommé",
+			"il/elle": "a assommé",
+			"nous": "avons assommé",
+			"vous": "avez assommé",
+			"ils/elles": "ont assommé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais assommé",
+			"tu": "avais assommé",
+			"il/elle": "avait assommé",
+			"nous": "avions assommé",
+			"vous": "aviez assommé",
+			"ils/elles": "avaient assommé"
+		},
+		"passé antérieur": {
+			"j'": "eus assommé",
+			"tu": "eus assommé",
+			"il/elle": "eut assommé",
+			"nous": "eûmes assommé",
+			"vous": "eûtes assommé",
+			"ils/elles": "eurent assommé"
+		},
+		"futur antérieur": {
+			"j'": "aurai assommé",
+			"tu": "auras assommé",
+			"il/elle": "aura assommé",
+			"nous": "aurons assommé",
+			"vous": "aurez assommé",
+			"ils/elles": "auront assommé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "assomme",
+			"que": "vous assommiez",
+			"qu'il/elle": "assomme",
+			"qu'ils/elles": "assomment"
+		},
+		"imparfait": {
+			"j'": "assommasse",
+			"que": "vous assommassiez",
+			"qu'il/elle": "assommât",
+			"qu'ils/elles": "assommassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse assommé",
+			"que": "vous eussiez assommé",
+			"qu'il/elle": "eût assommé",
+			"qu'ils/elles": "eussent assommé"
+		},
+		"passé": {
+			"j'": "aie assommé",
+			"que": "vous ayez assommé",
+			"qu'il/elle": "ait assommé",
+			"qu'ils/elles": "aient assommé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "assommerais",
+			"tu": "assommerais",
+			"il/elle": "assommerait",
+			"nous": "assommerions",
+			"vous": "assommeriez",
+			"ils/elles": "assommeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais assommé",
+			"tu": "aurais assommé",
+			"il/elle": "aurait assommé",
+			"nous": "aurions assommé",
+			"vous": "auriez assommé",
+			"ils/elles": "auraient assommé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse assommé",
+			"tu": "eusses assommé",
+			"il/elle": "eût assommé",
+			"nous": "eussions assommé",
+			"vous": "eussiez assommé",
+			"ils/elles": "eussent assommé"
+		}
+	},
+	"participe": {
+		"présent": { "assommant": "" },
+		"passé composé": { "ayant": "assommé" },
+		"passé": {
+			"masc.sg.:": "assommé",
+			"masc.pl.:": "assommés",
+			"fém.sg.:": "assommée",
+			"fém.pl.:": "assommées"
+		}
+	},
+	"imperatif": {
+		"présent": { "assomme": "", "assommons": "", "assommez": "" },
+		"passé": { "aie": "assommé", "ayons": "assommé", "ayez": "assommé" }
+	},
+	"infinitif": {
+		"présent": { "assommer": "" },
+		"passé": { "avoir": "assommé" }
+	}
+}

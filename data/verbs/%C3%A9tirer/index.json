@@ -1,0 +1,140 @@
+{
+	"name": "étirer",
+	"definition": "stretch; elongate; draw out; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'étirer/ne pas étirer/ne pas s'étirer",
+	"indicatif": {
+		"présent": {
+			"j'": "étire",
+			"tu": "étires",
+			"il/elle": "étire",
+			"nous": "étirons",
+			"vous": "étirez",
+			"ils/elles": "étirent"
+		},
+		"imparfait": {
+			"j'": "étirais",
+			"tu": "étirais",
+			"il/elle": "étirait",
+			"nous": "étirions",
+			"vous": "étiriez",
+			"ils/elles": "étiraient"
+		},
+		"futur": {
+			"j'": "étirerai",
+			"tu": "étireras",
+			"il/elle": "étirera",
+			"nous": "étirerons",
+			"vous": "étirerez",
+			"ils/elles": "étireront"
+		},
+		"passé simple": {
+			"j'": "étirai",
+			"tu": "étiras",
+			"il/elle": "étira",
+			"nous": "étirâmes",
+			"vous": "étirâtes",
+			"ils/elles": "étirèrent"
+		},
+		"passé composé": {
+			"j'": "ai étiré",
+			"tu": "as étiré",
+			"il/elle": "a étiré",
+			"nous": "avons étiré",
+			"vous": "avez étiré",
+			"ils/elles": "ont étiré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais étiré",
+			"tu": "avais étiré",
+			"il/elle": "avait étiré",
+			"nous": "avions étiré",
+			"vous": "aviez étiré",
+			"ils/elles": "avaient étiré"
+		},
+		"passé antérieur": {
+			"j'": "eus étiré",
+			"tu": "eus étiré",
+			"il/elle": "eut étiré",
+			"nous": "eûmes étiré",
+			"vous": "eûtes étiré",
+			"ils/elles": "eurent étiré"
+		},
+		"futur antérieur": {
+			"j'": "aurai étiré",
+			"tu": "auras étiré",
+			"il/elle": "aura étiré",
+			"nous": "aurons étiré",
+			"vous": "aurez étiré",
+			"ils/elles": "auront étiré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "étire",
+			"que": "vous étiriez",
+			"qu'il/elle": "étire",
+			"qu'ils/elles": "étirent"
+		},
+		"imparfait": {
+			"j'": "étirasse",
+			"que": "vous étirassiez",
+			"qu'il/elle": "étirât",
+			"qu'ils/elles": "étirassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse étiré",
+			"que": "vous eussiez étiré",
+			"qu'il/elle": "eût étiré",
+			"qu'ils/elles": "eussent étiré"
+		},
+		"passé": {
+			"j'": "aie étiré",
+			"que": "vous ayez étiré",
+			"qu'il/elle": "ait étiré",
+			"qu'ils/elles": "aient étiré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "étirerais",
+			"tu": "étirerais",
+			"il/elle": "étirerait",
+			"nous": "étirerions",
+			"vous": "étireriez",
+			"ils/elles": "étireraient"
+		},
+		"passé première forme": {
+			"j'": "aurais étiré",
+			"tu": "aurais étiré",
+			"il/elle": "aurait étiré",
+			"nous": "aurions étiré",
+			"vous": "auriez étiré",
+			"ils/elles": "auraient étiré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse étiré",
+			"tu": "eusses étiré",
+			"il/elle": "eût étiré",
+			"nous": "eussions étiré",
+			"vous": "eussiez étiré",
+			"ils/elles": "eussent étiré"
+		}
+	},
+	"participe": {
+		"présent": { "étirant": "" },
+		"passé composé": { "ayant": "étiré" },
+		"passé": {
+			"masc.sg.:": "étiré",
+			"masc.pl.:": "étirés",
+			"fém.sg.:": "étirée",
+			"fém.pl.:": "étirées"
+		}
+	},
+	"imperatif": {
+		"présent": { "étire": "", "étirons": "", "étirez": "" },
+		"passé": { "aie": "étiré", "ayons": "étiré", "ayez": "étiré" }
+	},
+	"infinitif": { "présent": { "étirer": "" }, "passé": { "avoir": "étiré" } }
+}

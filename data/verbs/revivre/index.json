@@ -1,0 +1,138 @@
+{
+	"name": "revivre",
+	"definition": "relive; revive; live again; ...",
+	"model": "vivre",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas revivre",
+	"indicatif": {
+		"présent": {
+			"je": "revis",
+			"tu": "revis",
+			"il/elle": "revit",
+			"nous": "revivons",
+			"vous": "revivez",
+			"ils/elles": "revivent"
+		},
+		"imparfait": {
+			"je": "revivais",
+			"tu": "revivais",
+			"il/elle": "revivait",
+			"nous": "revivions",
+			"vous": "reviviez",
+			"ils/elles": "revivaient"
+		},
+		"futur": {
+			"je": "revivrai",
+			"tu": "revivras",
+			"il/elle": "revivra",
+			"nous": "revivrons",
+			"vous": "revivrez",
+			"ils/elles": "revivront"
+		},
+		"passé simple": {
+			"je": "revécus",
+			"tu": "revécus",
+			"il/elle": "revécut",
+			"nous": "revécûmes",
+			"vous": "revécûtes",
+			"ils/elles": "revécurent"
+		},
+		"passé composé": {
+			"j'": "ai revécu",
+			"tu": "as revécu",
+			"il/elle": "a revécu",
+			"nous": "avons revécu",
+			"vous": "avez revécu",
+			"ils/elles": "ont revécu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais revécu",
+			"tu": "avais revécu",
+			"il/elle": "avait revécu",
+			"nous": "avions revécu",
+			"vous": "aviez revécu",
+			"ils/elles": "avaient revécu"
+		},
+		"passé antérieur": {
+			"j'": "eus revécu",
+			"tu": "eus revécu",
+			"il/elle": "eut revécu",
+			"nous": "eûmes revécu",
+			"vous": "eûtes revécu",
+			"ils/elles": "eurent revécu"
+		},
+		"futur antérieur": {
+			"j'": "aurai revécu",
+			"tu": "auras revécu",
+			"il/elle": "aura revécu",
+			"nous": "aurons revécu",
+			"vous": "aurez revécu",
+			"ils/elles": "auront revécu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous reviviez",
+			"qu'il/elle": "revive",
+			"qu'ils/elles": "revivent"
+		},
+		"imparfait": {
+			"que": "vous revécussiez",
+			"qu'il/elle": "revécût",
+			"qu'ils/elles": "revécussent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse revécu",
+			"que": "vous eussiez revécu",
+			"qu'il/elle": "eût revécu",
+			"qu'ils/elles": "eussent revécu"
+		},
+		"passé": {
+			"j'": "aie revécu",
+			"que": "vous ayez revécu",
+			"qu'il/elle": "ait revécu",
+			"qu'ils/elles": "aient revécu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "revivrais",
+			"tu": "revivrais",
+			"il/elle": "revivrait",
+			"nous": "revivrions",
+			"vous": "revivriez",
+			"ils/elles": "revivraient"
+		},
+		"passé première forme": {
+			"j'": "aurais revécu",
+			"tu": "aurais revécu",
+			"il/elle": "aurait revécu",
+			"nous": "aurions revécu",
+			"vous": "auriez revécu",
+			"ils/elles": "auraient revécu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse revécu",
+			"tu": "eusses revécu",
+			"il/elle": "eût revécu",
+			"nous": "eussions revécu",
+			"vous": "eussiez revécu",
+			"ils/elles": "eussent revécu"
+		}
+	},
+	"participe": {
+		"présent": { "revivant": "" },
+		"passé composé": { "ayant": "revécu" },
+		"passé": {
+			"masc.sg.:": "revécu",
+			"masc.pl.:": "revécus",
+			"fém.sg.:": "revécue",
+			"fém.pl.:": "revécues"
+		}
+	},
+	"imperatif": {
+		"présent": { "revis": "", "revivons": "", "revivez": "" },
+		"passé": { "aie": "revécu", "ayons": "revécu", "ayez": "revécu" }
+	},
+	"infinitif": { "présent": { "revivre": "" }, "passé": { "avoir": "revécu" } }
+}

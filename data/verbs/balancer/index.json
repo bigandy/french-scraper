@@ -1,0 +1,141 @@
+{
+	"name": "balancer",
+	"definition": "swing; throw; rock; ...",
+	"model": "commencer",
+	"auxiliary": "avoir",
+	"otherForms": "se balancer/ne pas balancer/ne pas se balancer",
+	"indicatif": {
+		"présent": {
+			"je": "balance",
+			"tu": "balances",
+			"il/elle": "balance",
+			"nous": "balançons",
+			"vous": "balancez",
+			"ils/elles": "balancent"
+		},
+		"imparfait": {
+			"je": "balançais",
+			"tu": "balançais",
+			"il/elle": "balançait",
+			"nous": "balancions",
+			"vous": "balanciez",
+			"ils/elles": "balançaient"
+		},
+		"futur": {
+			"je": "balancerai",
+			"tu": "balanceras",
+			"il/elle": "balancera",
+			"nous": "balancerons",
+			"vous": "balancerez",
+			"ils/elles": "balanceront"
+		},
+		"passé simple": {
+			"je": "balançai",
+			"tu": "balanças",
+			"il/elle": "balança",
+			"nous": "balançâmes",
+			"vous": "balançâtes",
+			"ils/elles": "balancèrent"
+		},
+		"passé composé": {
+			"j'": "ai balancé",
+			"tu": "as balancé",
+			"il/elle": "a balancé",
+			"nous": "avons balancé",
+			"vous": "avez balancé",
+			"ils/elles": "ont balancé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais balancé",
+			"tu": "avais balancé",
+			"il/elle": "avait balancé",
+			"nous": "avions balancé",
+			"vous": "aviez balancé",
+			"ils/elles": "avaient balancé"
+		},
+		"passé antérieur": {
+			"j'": "eus balancé",
+			"tu": "eus balancé",
+			"il/elle": "eut balancé",
+			"nous": "eûmes balancé",
+			"vous": "eûtes balancé",
+			"ils/elles": "eurent balancé"
+		},
+		"futur antérieur": {
+			"j'": "aurai balancé",
+			"tu": "auras balancé",
+			"il/elle": "aura balancé",
+			"nous": "aurons balancé",
+			"vous": "aurez balancé",
+			"ils/elles": "auront balancé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous balanciez",
+			"qu'il/elle": "balance",
+			"qu'ils/elles": "balancent"
+		},
+		"imparfait": {
+			"que": "vous balançassiez",
+			"qu'il/elle": "balançât",
+			"qu'ils/elles": "balançassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse balancé",
+			"que": "vous eussiez balancé",
+			"qu'il/elle": "eût balancé",
+			"qu'ils/elles": "eussent balancé"
+		},
+		"passé": {
+			"j'": "aie balancé",
+			"que": "vous ayez balancé",
+			"qu'il/elle": "ait balancé",
+			"qu'ils/elles": "aient balancé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "balancerais",
+			"tu": "balancerais",
+			"il/elle": "balancerait",
+			"nous": "balancerions",
+			"vous": "balanceriez",
+			"ils/elles": "balanceraient"
+		},
+		"passé première forme": {
+			"j'": "aurais balancé",
+			"tu": "aurais balancé",
+			"il/elle": "aurait balancé",
+			"nous": "aurions balancé",
+			"vous": "auriez balancé",
+			"ils/elles": "auraient balancé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse balancé",
+			"tu": "eusses balancé",
+			"il/elle": "eût balancé",
+			"nous": "eussions balancé",
+			"vous": "eussiez balancé",
+			"ils/elles": "eussent balancé"
+		}
+	},
+	"participe": {
+		"présent": { "balançant": "" },
+		"passé composé": { "ayant": "balancé" },
+		"passé": {
+			"masc.sg.:": "balancé",
+			"masc.pl.:": "balancés",
+			"fém.sg.:": "balancée",
+			"fém.pl.:": "balancées"
+		}
+	},
+	"imperatif": {
+		"présent": { "balance": "", "balançons": "", "balancez": "" },
+		"passé": { "aie": "balancé", "ayons": "balancé", "ayez": "balancé" }
+	},
+	"infinitif": {
+		"présent": { "balancer": "" },
+		"passé": { "avoir": "balancé" }
+	}
+}

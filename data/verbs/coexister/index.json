@@ -1,0 +1,141 @@
+{
+	"name": "coexister",
+	"definition": "coexist; co-exist; live together; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas coexister",
+	"indicatif": {
+		"présent": {
+			"je": "coexiste",
+			"tu": "coexistes",
+			"il/elle": "coexiste",
+			"nous": "coexistons",
+			"vous": "coexistez",
+			"ils/elles": "coexistent"
+		},
+		"imparfait": {
+			"je": "coexistais",
+			"tu": "coexistais",
+			"il/elle": "coexistait",
+			"nous": "coexistions",
+			"vous": "coexistiez",
+			"ils/elles": "coexistaient"
+		},
+		"futur": {
+			"je": "coexisterai",
+			"tu": "coexisteras",
+			"il/elle": "coexistera",
+			"nous": "coexisterons",
+			"vous": "coexisterez",
+			"ils/elles": "coexisteront"
+		},
+		"passé simple": {
+			"je": "coexistai",
+			"tu": "coexistas",
+			"il/elle": "coexista",
+			"nous": "coexistâmes",
+			"vous": "coexistâtes",
+			"ils/elles": "coexistèrent"
+		},
+		"passé composé": {
+			"j'": "ai coexisté",
+			"tu": "as coexisté",
+			"il/elle": "a coexisté",
+			"nous": "avons coexisté",
+			"vous": "avez coexisté",
+			"ils/elles": "ont coexisté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais coexisté",
+			"tu": "avais coexisté",
+			"il/elle": "avait coexisté",
+			"nous": "avions coexisté",
+			"vous": "aviez coexisté",
+			"ils/elles": "avaient coexisté"
+		},
+		"passé antérieur": {
+			"j'": "eus coexisté",
+			"tu": "eus coexisté",
+			"il/elle": "eut coexisté",
+			"nous": "eûmes coexisté",
+			"vous": "eûtes coexisté",
+			"ils/elles": "eurent coexisté"
+		},
+		"futur antérieur": {
+			"j'": "aurai coexisté",
+			"tu": "auras coexisté",
+			"il/elle": "aura coexisté",
+			"nous": "aurons coexisté",
+			"vous": "aurez coexisté",
+			"ils/elles": "auront coexisté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous coexistiez",
+			"qu'il/elle": "coexiste",
+			"qu'ils/elles": "coexistent"
+		},
+		"imparfait": {
+			"que": "vous coexistassiez",
+			"qu'il/elle": "coexistât",
+			"qu'ils/elles": "coexistassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse coexisté",
+			"que": "vous eussiez coexisté",
+			"qu'il/elle": "eût coexisté",
+			"qu'ils/elles": "eussent coexisté"
+		},
+		"passé": {
+			"j'": "aie coexisté",
+			"que": "vous ayez coexisté",
+			"qu'il/elle": "ait coexisté",
+			"qu'ils/elles": "aient coexisté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "coexisterais",
+			"tu": "coexisterais",
+			"il/elle": "coexisterait",
+			"nous": "coexisterions",
+			"vous": "coexisteriez",
+			"ils/elles": "coexisteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais coexisté",
+			"tu": "aurais coexisté",
+			"il/elle": "aurait coexisté",
+			"nous": "aurions coexisté",
+			"vous": "auriez coexisté",
+			"ils/elles": "auraient coexisté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse coexisté",
+			"tu": "eusses coexisté",
+			"il/elle": "eût coexisté",
+			"nous": "eussions coexisté",
+			"vous": "eussiez coexisté",
+			"ils/elles": "eussent coexisté"
+		}
+	},
+	"participe": {
+		"présent": { "coexistant": "" },
+		"passé composé": { "ayant": "coexisté" },
+		"passé": {
+			"masc.sg.:": "coexisté",
+			"masc.pl.:": "coexistés",
+			"fém.sg.:": "coexistée",
+			"fém.pl.:": "coexistées"
+		}
+	},
+	"imperatif": {
+		"présent": { "coexiste": "", "coexistons": "", "coexistez": "" },
+		"passé": { "aie": "coexisté", "ayons": "coexisté", "ayez": "coexisté" }
+	},
+	"infinitif": {
+		"présent": { "coexister": "" },
+		"passé": { "avoir": "coexisté" }
+	}
+}

@@ -1,0 +1,141 @@
+{
+	"name": "chroniquer",
+	"definition": "chronicle; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se chroniquer/ne pas chroniquer/ne pas se chroniquer",
+	"indicatif": {
+		"présent": {
+			"je": "chronique",
+			"tu": "chroniques",
+			"il/elle": "chronique",
+			"nous": "chroniquons",
+			"vous": "chroniquez",
+			"ils/elles": "chroniquent"
+		},
+		"imparfait": {
+			"je": "chroniquais",
+			"tu": "chroniquais",
+			"il/elle": "chroniquait",
+			"nous": "chroniquions",
+			"vous": "chroniquiez",
+			"ils/elles": "chroniquaient"
+		},
+		"futur": {
+			"je": "chroniquerai",
+			"tu": "chroniqueras",
+			"il/elle": "chroniquera",
+			"nous": "chroniquerons",
+			"vous": "chroniquerez",
+			"ils/elles": "chroniqueront"
+		},
+		"passé simple": {
+			"je": "chroniquai",
+			"tu": "chroniquas",
+			"il/elle": "chroniqua",
+			"nous": "chroniquâmes",
+			"vous": "chroniquâtes",
+			"ils/elles": "chroniquèrent"
+		},
+		"passé composé": {
+			"j'": "ai chroniqué",
+			"tu": "as chroniqué",
+			"il/elle": "a chroniqué",
+			"nous": "avons chroniqué",
+			"vous": "avez chroniqué",
+			"ils/elles": "ont chroniqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais chroniqué",
+			"tu": "avais chroniqué",
+			"il/elle": "avait chroniqué",
+			"nous": "avions chroniqué",
+			"vous": "aviez chroniqué",
+			"ils/elles": "avaient chroniqué"
+		},
+		"passé antérieur": {
+			"j'": "eus chroniqué",
+			"tu": "eus chroniqué",
+			"il/elle": "eut chroniqué",
+			"nous": "eûmes chroniqué",
+			"vous": "eûtes chroniqué",
+			"ils/elles": "eurent chroniqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai chroniqué",
+			"tu": "auras chroniqué",
+			"il/elle": "aura chroniqué",
+			"nous": "aurons chroniqué",
+			"vous": "aurez chroniqué",
+			"ils/elles": "auront chroniqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous chroniquiez",
+			"qu'il/elle": "chronique",
+			"qu'ils/elles": "chroniquent"
+		},
+		"imparfait": {
+			"que": "vous chroniquassiez",
+			"qu'il/elle": "chroniquât",
+			"qu'ils/elles": "chroniquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse chroniqué",
+			"que": "vous eussiez chroniqué",
+			"qu'il/elle": "eût chroniqué",
+			"qu'ils/elles": "eussent chroniqué"
+		},
+		"passé": {
+			"j'": "aie chroniqué",
+			"que": "vous ayez chroniqué",
+			"qu'il/elle": "ait chroniqué",
+			"qu'ils/elles": "aient chroniqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "chroniquerais",
+			"tu": "chroniquerais",
+			"il/elle": "chroniquerait",
+			"nous": "chroniquerions",
+			"vous": "chroniqueriez",
+			"ils/elles": "chroniqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais chroniqué",
+			"tu": "aurais chroniqué",
+			"il/elle": "aurait chroniqué",
+			"nous": "aurions chroniqué",
+			"vous": "auriez chroniqué",
+			"ils/elles": "auraient chroniqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse chroniqué",
+			"tu": "eusses chroniqué",
+			"il/elle": "eût chroniqué",
+			"nous": "eussions chroniqué",
+			"vous": "eussiez chroniqué",
+			"ils/elles": "eussent chroniqué"
+		}
+	},
+	"participe": {
+		"présent": { "chroniquant": "" },
+		"passé composé": { "ayant": "chroniqué" },
+		"passé": {
+			"masc.sg.:": "chroniqué",
+			"masc.pl.:": "chroniqués",
+			"fém.sg.:": "chroniquée",
+			"fém.pl.:": "chroniquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "chronique": "", "chroniquons": "", "chroniquez": "" },
+		"passé": { "aie": "chroniqué", "ayons": "chroniqué", "ayez": "chroniqué" }
+	},
+	"infinitif": {
+		"présent": { "chroniquer": "" },
+		"passé": { "avoir": "chroniqué" }
+	}
+}

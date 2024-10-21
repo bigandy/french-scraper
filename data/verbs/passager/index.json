@@ -1,0 +1,141 @@
+{
+	"name": "passager",
+	"definition": "",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "se passager/ne pas passager/ne pas se passager",
+	"indicatif": {
+		"présent": {
+			"je": "passage",
+			"tu": "passages",
+			"il/elle": "passage",
+			"nous": "passageons",
+			"vous": "passagez",
+			"ils/elles": "passagent"
+		},
+		"imparfait": {
+			"je": "passageais",
+			"tu": "passageais",
+			"il/elle": "passageait",
+			"nous": "passagions",
+			"vous": "passagiez",
+			"ils/elles": "passageaient"
+		},
+		"futur": {
+			"je": "passagerai",
+			"tu": "passageras",
+			"il/elle": "passagera",
+			"nous": "passagerons",
+			"vous": "passagerez",
+			"ils/elles": "passageront"
+		},
+		"passé simple": {
+			"je": "passageai",
+			"tu": "passageas",
+			"il/elle": "passagea",
+			"nous": "passageâmes",
+			"vous": "passageâtes",
+			"ils/elles": "passagèrent"
+		},
+		"passé composé": {
+			"j'": "ai passagé",
+			"tu": "as passagé",
+			"il/elle": "a passagé",
+			"nous": "avons passagé",
+			"vous": "avez passagé",
+			"ils/elles": "ont passagé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais passagé",
+			"tu": "avais passagé",
+			"il/elle": "avait passagé",
+			"nous": "avions passagé",
+			"vous": "aviez passagé",
+			"ils/elles": "avaient passagé"
+		},
+		"passé antérieur": {
+			"j'": "eus passagé",
+			"tu": "eus passagé",
+			"il/elle": "eut passagé",
+			"nous": "eûmes passagé",
+			"vous": "eûtes passagé",
+			"ils/elles": "eurent passagé"
+		},
+		"futur antérieur": {
+			"j'": "aurai passagé",
+			"tu": "auras passagé",
+			"il/elle": "aura passagé",
+			"nous": "aurons passagé",
+			"vous": "aurez passagé",
+			"ils/elles": "auront passagé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous passagiez",
+			"qu'il/elle": "passage",
+			"qu'ils/elles": "passagent"
+		},
+		"imparfait": {
+			"que": "vous passageassiez",
+			"qu'il/elle": "passageât",
+			"qu'ils/elles": "passageassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse passagé",
+			"que": "vous eussiez passagé",
+			"qu'il/elle": "eût passagé",
+			"qu'ils/elles": "eussent passagé"
+		},
+		"passé": {
+			"j'": "aie passagé",
+			"que": "vous ayez passagé",
+			"qu'il/elle": "ait passagé",
+			"qu'ils/elles": "aient passagé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "passagerais",
+			"tu": "passagerais",
+			"il/elle": "passagerait",
+			"nous": "passagerions",
+			"vous": "passageriez",
+			"ils/elles": "passageraient"
+		},
+		"passé première forme": {
+			"j'": "aurais passagé",
+			"tu": "aurais passagé",
+			"il/elle": "aurait passagé",
+			"nous": "aurions passagé",
+			"vous": "auriez passagé",
+			"ils/elles": "auraient passagé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse passagé",
+			"tu": "eusses passagé",
+			"il/elle": "eût passagé",
+			"nous": "eussions passagé",
+			"vous": "eussiez passagé",
+			"ils/elles": "eussent passagé"
+		}
+	},
+	"participe": {
+		"présent": { "passageant": "" },
+		"passé composé": { "ayant": "passagé" },
+		"passé": {
+			"masc.sg.:": "passagé",
+			"masc.pl.:": "passagés",
+			"fém.sg.:": "passagée",
+			"fém.pl.:": "passagées"
+		}
+	},
+	"imperatif": {
+		"présent": { "passage": "", "passageons": "", "passagez": "" },
+		"passé": { "aie": "passagé", "ayons": "passagé", "ayez": "passagé" }
+	},
+	"infinitif": {
+		"présent": { "passager": "" },
+		"passé": { "avoir": "passagé" }
+	}
+}

@@ -1,0 +1,140 @@
+{
+	"name": "envahir",
+	"definition": "invade; take over; overrun; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "s'envahir/ne pas envahir/ne pas s'envahir",
+	"indicatif": {
+		"présent": {
+			"j'": "envahis",
+			"tu": "envahis",
+			"il/elle": "envahit",
+			"nous": "envahissons",
+			"vous": "envahissez",
+			"ils/elles": "envahissent"
+		},
+		"imparfait": {
+			"j'": "envahissais",
+			"tu": "envahissais",
+			"il/elle": "envahissait",
+			"nous": "envahissions",
+			"vous": "envahissiez",
+			"ils/elles": "envahissaient"
+		},
+		"futur": {
+			"j'": "envahirai",
+			"tu": "envahiras",
+			"il/elle": "envahira",
+			"nous": "envahirons",
+			"vous": "envahirez",
+			"ils/elles": "envahiront"
+		},
+		"passé simple": {
+			"j'": "envahis",
+			"tu": "envahis",
+			"il/elle": "envahit",
+			"nous": "envahîmes",
+			"vous": "envahîtes",
+			"ils/elles": "envahirent"
+		},
+		"passé composé": {
+			"j'": "ai envahi",
+			"tu": "as envahi",
+			"il/elle": "a envahi",
+			"nous": "avons envahi",
+			"vous": "avez envahi",
+			"ils/elles": "ont envahi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais envahi",
+			"tu": "avais envahi",
+			"il/elle": "avait envahi",
+			"nous": "avions envahi",
+			"vous": "aviez envahi",
+			"ils/elles": "avaient envahi"
+		},
+		"passé antérieur": {
+			"j'": "eus envahi",
+			"tu": "eus envahi",
+			"il/elle": "eut envahi",
+			"nous": "eûmes envahi",
+			"vous": "eûtes envahi",
+			"ils/elles": "eurent envahi"
+		},
+		"futur antérieur": {
+			"j'": "aurai envahi",
+			"tu": "auras envahi",
+			"il/elle": "aura envahi",
+			"nous": "aurons envahi",
+			"vous": "aurez envahi",
+			"ils/elles": "auront envahi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "envahisse",
+			"que": "vous envahissiez",
+			"qu'il/elle": "envahisse",
+			"qu'ils/elles": "envahissent"
+		},
+		"imparfait": {
+			"j'": "envahisse",
+			"que": "vous envahissiez",
+			"qu'il/elle": "envahît",
+			"qu'ils/elles": "envahissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse envahi",
+			"que": "vous eussiez envahi",
+			"qu'il/elle": "eût envahi",
+			"qu'ils/elles": "eussent envahi"
+		},
+		"passé": {
+			"j'": "aie envahi",
+			"que": "vous ayez envahi",
+			"qu'il/elle": "ait envahi",
+			"qu'ils/elles": "aient envahi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "envahirais",
+			"tu": "envahirais",
+			"il/elle": "envahirait",
+			"nous": "envahirions",
+			"vous": "envahiriez",
+			"ils/elles": "envahiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais envahi",
+			"tu": "aurais envahi",
+			"il/elle": "aurait envahi",
+			"nous": "aurions envahi",
+			"vous": "auriez envahi",
+			"ils/elles": "auraient envahi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse envahi",
+			"tu": "eusses envahi",
+			"il/elle": "eût envahi",
+			"nous": "eussions envahi",
+			"vous": "eussiez envahi",
+			"ils/elles": "eussent envahi"
+		}
+	},
+	"participe": {
+		"présent": { "envahissant": "" },
+		"passé composé": { "ayant": "envahi" },
+		"passé": {
+			"masc.sg.:": "envahi",
+			"masc.pl.:": "envahis",
+			"fém.sg.:": "envahie",
+			"fém.pl.:": "envahies"
+		}
+	},
+	"imperatif": {
+		"présent": { "envahis": "", "envahissons": "", "envahissez": "" },
+		"passé": { "aie": "envahi", "ayons": "envahi", "ayez": "envahi" }
+	},
+	"infinitif": { "présent": { "envahir": "" }, "passé": { "avoir": "envahi" } }
+}

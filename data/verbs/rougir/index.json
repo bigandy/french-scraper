@@ -1,0 +1,138 @@
+{
+	"name": "rougir",
+	"definition": "blush; be ashamed; flush; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se rougir/ne pas rougir/ne pas se rougir",
+	"indicatif": {
+		"présent": {
+			"je": "rougis",
+			"tu": "rougis",
+			"il/elle": "rougit",
+			"nous": "rougissons",
+			"vous": "rougissez",
+			"ils/elles": "rougissent"
+		},
+		"imparfait": {
+			"je": "rougissais",
+			"tu": "rougissais",
+			"il/elle": "rougissait",
+			"nous": "rougissions",
+			"vous": "rougissiez",
+			"ils/elles": "rougissaient"
+		},
+		"futur": {
+			"je": "rougirai",
+			"tu": "rougiras",
+			"il/elle": "rougira",
+			"nous": "rougirons",
+			"vous": "rougirez",
+			"ils/elles": "rougiront"
+		},
+		"passé simple": {
+			"je": "rougis",
+			"tu": "rougis",
+			"il/elle": "rougit",
+			"nous": "rougîmes",
+			"vous": "rougîtes",
+			"ils/elles": "rougirent"
+		},
+		"passé composé": {
+			"j'": "ai rougi",
+			"tu": "as rougi",
+			"il/elle": "a rougi",
+			"nous": "avons rougi",
+			"vous": "avez rougi",
+			"ils/elles": "ont rougi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais rougi",
+			"tu": "avais rougi",
+			"il/elle": "avait rougi",
+			"nous": "avions rougi",
+			"vous": "aviez rougi",
+			"ils/elles": "avaient rougi"
+		},
+		"passé antérieur": {
+			"j'": "eus rougi",
+			"tu": "eus rougi",
+			"il/elle": "eut rougi",
+			"nous": "eûmes rougi",
+			"vous": "eûtes rougi",
+			"ils/elles": "eurent rougi"
+		},
+		"futur antérieur": {
+			"j'": "aurai rougi",
+			"tu": "auras rougi",
+			"il/elle": "aura rougi",
+			"nous": "aurons rougi",
+			"vous": "aurez rougi",
+			"ils/elles": "auront rougi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous rougissiez",
+			"qu'il/elle": "rougisse",
+			"qu'ils/elles": "rougissent"
+		},
+		"imparfait": {
+			"que": "vous rougissiez",
+			"qu'il/elle": "rougît",
+			"qu'ils/elles": "rougissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse rougi",
+			"que": "vous eussiez rougi",
+			"qu'il/elle": "eût rougi",
+			"qu'ils/elles": "eussent rougi"
+		},
+		"passé": {
+			"j'": "aie rougi",
+			"que": "vous ayez rougi",
+			"qu'il/elle": "ait rougi",
+			"qu'ils/elles": "aient rougi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "rougirais",
+			"tu": "rougirais",
+			"il/elle": "rougirait",
+			"nous": "rougirions",
+			"vous": "rougiriez",
+			"ils/elles": "rougiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais rougi",
+			"tu": "aurais rougi",
+			"il/elle": "aurait rougi",
+			"nous": "aurions rougi",
+			"vous": "auriez rougi",
+			"ils/elles": "auraient rougi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse rougi",
+			"tu": "eusses rougi",
+			"il/elle": "eût rougi",
+			"nous": "eussions rougi",
+			"vous": "eussiez rougi",
+			"ils/elles": "eussent rougi"
+		}
+	},
+	"participe": {
+		"présent": { "rougissant": "" },
+		"passé composé": { "ayant": "rougi" },
+		"passé": {
+			"masc.sg.:": "rougi",
+			"masc.pl.:": "rougis",
+			"fém.sg.:": "rougie",
+			"fém.pl.:": "rougies"
+		}
+	},
+	"imperatif": {
+		"présent": { "rougis": "", "rougissons": "", "rougissez": "" },
+		"passé": { "aie": "rougi", "ayons": "rougi", "ayez": "rougi" }
+	},
+	"infinitif": { "présent": { "rougir": "" }, "passé": { "avoir": "rougi" } }
+}

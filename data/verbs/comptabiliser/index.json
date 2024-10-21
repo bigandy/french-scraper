@@ -1,0 +1,149 @@
+{
+	"name": "comptabiliser",
+	"definition": "recognise; record; account for; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se comptabiliser/ne pas comptabiliser/ne pas se comptabiliser",
+	"indicatif": {
+		"présent": {
+			"je": "comptabilise",
+			"tu": "comptabilises",
+			"il/elle": "comptabilise",
+			"nous": "comptabilisons",
+			"vous": "comptabilisez",
+			"ils/elles": "comptabilisent"
+		},
+		"imparfait": {
+			"je": "comptabilisais",
+			"tu": "comptabilisais",
+			"il/elle": "comptabilisait",
+			"nous": "comptabilisions",
+			"vous": "comptabilisiez",
+			"ils/elles": "comptabilisaient"
+		},
+		"futur": {
+			"je": "comptabiliserai",
+			"tu": "comptabiliseras",
+			"il/elle": "comptabilisera",
+			"nous": "comptabiliserons",
+			"vous": "comptabiliserez",
+			"ils/elles": "comptabiliseront"
+		},
+		"passé simple": {
+			"je": "comptabilisai",
+			"tu": "comptabilisas",
+			"il/elle": "comptabilisa",
+			"nous": "comptabilisâmes",
+			"vous": "comptabilisâtes",
+			"ils/elles": "comptabilisèrent"
+		},
+		"passé composé": {
+			"j'": "ai comptabilisé",
+			"tu": "as comptabilisé",
+			"il/elle": "a comptabilisé",
+			"nous": "avons comptabilisé",
+			"vous": "avez comptabilisé",
+			"ils/elles": "ont comptabilisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais comptabilisé",
+			"tu": "avais comptabilisé",
+			"il/elle": "avait comptabilisé",
+			"nous": "avions comptabilisé",
+			"vous": "aviez comptabilisé",
+			"ils/elles": "avaient comptabilisé"
+		},
+		"passé antérieur": {
+			"j'": "eus comptabilisé",
+			"tu": "eus comptabilisé",
+			"il/elle": "eut comptabilisé",
+			"nous": "eûmes comptabilisé",
+			"vous": "eûtes comptabilisé",
+			"ils/elles": "eurent comptabilisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai comptabilisé",
+			"tu": "auras comptabilisé",
+			"il/elle": "aura comptabilisé",
+			"nous": "aurons comptabilisé",
+			"vous": "aurez comptabilisé",
+			"ils/elles": "auront comptabilisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous comptabilisiez",
+			"qu'il/elle": "comptabilise",
+			"qu'ils/elles": "comptabilisent"
+		},
+		"imparfait": {
+			"que": "vous comptabilisassiez",
+			"qu'il/elle": "comptabilisât",
+			"qu'ils/elles": "comptabilisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse comptabilisé",
+			"que": "vous eussiez comptabilisé",
+			"qu'il/elle": "eût comptabilisé",
+			"qu'ils/elles": "eussent comptabilisé"
+		},
+		"passé": {
+			"j'": "aie comptabilisé",
+			"que": "vous ayez comptabilisé",
+			"qu'il/elle": "ait comptabilisé",
+			"qu'ils/elles": "aient comptabilisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "comptabiliserais",
+			"tu": "comptabiliserais",
+			"il/elle": "comptabiliserait",
+			"nous": "comptabiliserions",
+			"vous": "comptabiliseriez",
+			"ils/elles": "comptabiliseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais comptabilisé",
+			"tu": "aurais comptabilisé",
+			"il/elle": "aurait comptabilisé",
+			"nous": "aurions comptabilisé",
+			"vous": "auriez comptabilisé",
+			"ils/elles": "auraient comptabilisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse comptabilisé",
+			"tu": "eusses comptabilisé",
+			"il/elle": "eût comptabilisé",
+			"nous": "eussions comptabilisé",
+			"vous": "eussiez comptabilisé",
+			"ils/elles": "eussent comptabilisé"
+		}
+	},
+	"participe": {
+		"présent": { "comptabilisant": "" },
+		"passé composé": { "ayant": "comptabilisé" },
+		"passé": {
+			"masc.sg.:": "comptabilisé",
+			"masc.pl.:": "comptabilisés",
+			"fém.sg.:": "comptabilisée",
+			"fém.pl.:": "comptabilisées"
+		}
+	},
+	"imperatif": {
+		"présent": {
+			"comptabilise": "",
+			"comptabilisons": "",
+			"comptabilisez": ""
+		},
+		"passé": {
+			"aie": "comptabilisé",
+			"ayons": "comptabilisé",
+			"ayez": "comptabilisé"
+		}
+	},
+	"infinitif": {
+		"présent": { "comptabiliser": "" },
+		"passé": { "avoir": "comptabilisé" }
+	}
+}

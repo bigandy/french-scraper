@@ -1,0 +1,140 @@
+{
+	"name": "abréger",
+	"definition": "shorten; abbreviate; abridge; ...",
+	"model": "protéger",
+	"auxiliary": "avoir",
+	"otherForms": "s'abréger/ne pas abréger/ne pas s'abréger",
+	"indicatif": {
+		"présent": {
+			"j'": "abrège",
+			"tu": "abrèges",
+			"il/elle": "abrège",
+			"nous": "abrégeons",
+			"vous": "abrégez",
+			"ils/elles": "abrègent"
+		},
+		"imparfait": {
+			"j'": "abrégeais",
+			"tu": "abrégeais",
+			"il/elle": "abrégeait",
+			"nous": "abrégions",
+			"vous": "abrégiez",
+			"ils/elles": "abrégeaient"
+		},
+		"futur": {
+			"j'": "abrégerai",
+			"tu": "abrégeras",
+			"il/elle": "abrégera",
+			"nous": "abrégerons",
+			"vous": "abrégerez",
+			"ils/elles": "abrégeront"
+		},
+		"passé simple": {
+			"j'": "abrégeai",
+			"tu": "abrégeas",
+			"il/elle": "abrégea",
+			"nous": "abrégeâmes",
+			"vous": "abrégeâtes",
+			"ils/elles": "abrégèrent"
+		},
+		"passé composé": {
+			"j'": "ai abrégé",
+			"tu": "as abrégé",
+			"il/elle": "a abrégé",
+			"nous": "avons abrégé",
+			"vous": "avez abrégé",
+			"ils/elles": "ont abrégé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais abrégé",
+			"tu": "avais abrégé",
+			"il/elle": "avait abrégé",
+			"nous": "avions abrégé",
+			"vous": "aviez abrégé",
+			"ils/elles": "avaient abrégé"
+		},
+		"passé antérieur": {
+			"j'": "eus abrégé",
+			"tu": "eus abrégé",
+			"il/elle": "eut abrégé",
+			"nous": "eûmes abrégé",
+			"vous": "eûtes abrégé",
+			"ils/elles": "eurent abrégé"
+		},
+		"futur antérieur": {
+			"j'": "aurai abrégé",
+			"tu": "auras abrégé",
+			"il/elle": "aura abrégé",
+			"nous": "aurons abrégé",
+			"vous": "aurez abrégé",
+			"ils/elles": "auront abrégé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "abrège",
+			"que": "vous abrégiez",
+			"qu'il/elle": "abrège",
+			"qu'ils/elles": "abrègent"
+		},
+		"imparfait": {
+			"j'": "abrégeasse",
+			"que": "vous abrégeassiez",
+			"qu'il/elle": "abrégeât",
+			"qu'ils/elles": "abrégeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse abrégé",
+			"que": "vous eussiez abrégé",
+			"qu'il/elle": "eût abrégé",
+			"qu'ils/elles": "eussent abrégé"
+		},
+		"passé": {
+			"j'": "aie abrégé",
+			"que": "vous ayez abrégé",
+			"qu'il/elle": "ait abrégé",
+			"qu'ils/elles": "aient abrégé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "abrégerais",
+			"tu": "abrégerais",
+			"il/elle": "abrégerait",
+			"nous": "abrégerions",
+			"vous": "abrégeriez",
+			"ils/elles": "abrégeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais abrégé",
+			"tu": "aurais abrégé",
+			"il/elle": "aurait abrégé",
+			"nous": "aurions abrégé",
+			"vous": "auriez abrégé",
+			"ils/elles": "auraient abrégé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse abrégé",
+			"tu": "eusses abrégé",
+			"il/elle": "eût abrégé",
+			"nous": "eussions abrégé",
+			"vous": "eussiez abrégé",
+			"ils/elles": "eussent abrégé"
+		}
+	},
+	"participe": {
+		"présent": { "abrégeant": "" },
+		"passé composé": { "ayant": "abrégé" },
+		"passé": {
+			"masc.sg.:": "abrégé",
+			"masc.pl.:": "abrégés",
+			"fém.sg.:": "abrégée",
+			"fém.pl.:": "abrégées"
+		}
+	},
+	"imperatif": {
+		"présent": { "abrège": "", "abrégeons": "", "abrégez": "" },
+		"passé": { "aie": "abrégé", "ayons": "abrégé", "ayez": "abrégé" }
+	},
+	"infinitif": { "présent": { "abréger": "" }, "passé": { "avoir": "abrégé" } }
+}

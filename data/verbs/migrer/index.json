@@ -1,0 +1,138 @@
+{
+	"name": "migrer",
+	"definition": "migrate; upgrade; run; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se migrer/ne pas migrer/ne pas se migrer",
+	"indicatif": {
+		"présent": {
+			"je": "migre",
+			"tu": "migres",
+			"il/elle": "migre",
+			"nous": "migrons",
+			"vous": "migrez",
+			"ils/elles": "migrent"
+		},
+		"imparfait": {
+			"je": "migrais",
+			"tu": "migrais",
+			"il/elle": "migrait",
+			"nous": "migrions",
+			"vous": "migriez",
+			"ils/elles": "migraient"
+		},
+		"futur": {
+			"je": "migrerai",
+			"tu": "migreras",
+			"il/elle": "migrera",
+			"nous": "migrerons",
+			"vous": "migrerez",
+			"ils/elles": "migreront"
+		},
+		"passé simple": {
+			"je": "migrai",
+			"tu": "migras",
+			"il/elle": "migra",
+			"nous": "migrâmes",
+			"vous": "migrâtes",
+			"ils/elles": "migrèrent"
+		},
+		"passé composé": {
+			"j'": "ai migré",
+			"tu": "as migré",
+			"il/elle": "a migré",
+			"nous": "avons migré",
+			"vous": "avez migré",
+			"ils/elles": "ont migré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais migré",
+			"tu": "avais migré",
+			"il/elle": "avait migré",
+			"nous": "avions migré",
+			"vous": "aviez migré",
+			"ils/elles": "avaient migré"
+		},
+		"passé antérieur": {
+			"j'": "eus migré",
+			"tu": "eus migré",
+			"il/elle": "eut migré",
+			"nous": "eûmes migré",
+			"vous": "eûtes migré",
+			"ils/elles": "eurent migré"
+		},
+		"futur antérieur": {
+			"j'": "aurai migré",
+			"tu": "auras migré",
+			"il/elle": "aura migré",
+			"nous": "aurons migré",
+			"vous": "aurez migré",
+			"ils/elles": "auront migré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous migriez",
+			"qu'il/elle": "migre",
+			"qu'ils/elles": "migrent"
+		},
+		"imparfait": {
+			"que": "vous migrassiez",
+			"qu'il/elle": "migrât",
+			"qu'ils/elles": "migrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse migré",
+			"que": "vous eussiez migré",
+			"qu'il/elle": "eût migré",
+			"qu'ils/elles": "eussent migré"
+		},
+		"passé": {
+			"j'": "aie migré",
+			"que": "vous ayez migré",
+			"qu'il/elle": "ait migré",
+			"qu'ils/elles": "aient migré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "migrerais",
+			"tu": "migrerais",
+			"il/elle": "migrerait",
+			"nous": "migrerions",
+			"vous": "migreriez",
+			"ils/elles": "migreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais migré",
+			"tu": "aurais migré",
+			"il/elle": "aurait migré",
+			"nous": "aurions migré",
+			"vous": "auriez migré",
+			"ils/elles": "auraient migré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse migré",
+			"tu": "eusses migré",
+			"il/elle": "eût migré",
+			"nous": "eussions migré",
+			"vous": "eussiez migré",
+			"ils/elles": "eussent migré"
+		}
+	},
+	"participe": {
+		"présent": { "migrant": "" },
+		"passé composé": { "ayant": "migré" },
+		"passé": {
+			"masc.sg.:": "migré",
+			"masc.pl.:": "migrés",
+			"fém.sg.:": "migrée",
+			"fém.pl.:": "migrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "migre": "", "migrons": "", "migrez": "" },
+		"passé": { "aie": "migré", "ayons": "migré", "ayez": "migré" }
+	},
+	"infinitif": { "présent": { "migrer": "" }, "passé": { "avoir": "migré" } }
+}

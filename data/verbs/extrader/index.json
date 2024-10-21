@@ -1,0 +1,143 @@
+{
+	"name": "extrader",
+	"definition": "extradite; surrender; deport; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'extrader/ne pas extrader/ne pas s'extrader",
+	"indicatif": {
+		"présent": {
+			"j'": "extrade",
+			"tu": "extrades",
+			"il/elle": "extrade",
+			"nous": "extradons",
+			"vous": "extradez",
+			"ils/elles": "extradent"
+		},
+		"imparfait": {
+			"j'": "extradais",
+			"tu": "extradais",
+			"il/elle": "extradait",
+			"nous": "extradions",
+			"vous": "extradiez",
+			"ils/elles": "extradaient"
+		},
+		"futur": {
+			"j'": "extraderai",
+			"tu": "extraderas",
+			"il/elle": "extradera",
+			"nous": "extraderons",
+			"vous": "extraderez",
+			"ils/elles": "extraderont"
+		},
+		"passé simple": {
+			"j'": "extradai",
+			"tu": "extradas",
+			"il/elle": "extrada",
+			"nous": "extradâmes",
+			"vous": "extradâtes",
+			"ils/elles": "extradèrent"
+		},
+		"passé composé": {
+			"j'": "ai extradé",
+			"tu": "as extradé",
+			"il/elle": "a extradé",
+			"nous": "avons extradé",
+			"vous": "avez extradé",
+			"ils/elles": "ont extradé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais extradé",
+			"tu": "avais extradé",
+			"il/elle": "avait extradé",
+			"nous": "avions extradé",
+			"vous": "aviez extradé",
+			"ils/elles": "avaient extradé"
+		},
+		"passé antérieur": {
+			"j'": "eus extradé",
+			"tu": "eus extradé",
+			"il/elle": "eut extradé",
+			"nous": "eûmes extradé",
+			"vous": "eûtes extradé",
+			"ils/elles": "eurent extradé"
+		},
+		"futur antérieur": {
+			"j'": "aurai extradé",
+			"tu": "auras extradé",
+			"il/elle": "aura extradé",
+			"nous": "aurons extradé",
+			"vous": "aurez extradé",
+			"ils/elles": "auront extradé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "extrade",
+			"que": "vous extradiez",
+			"qu'il/elle": "extrade",
+			"qu'ils/elles": "extradent"
+		},
+		"imparfait": {
+			"j'": "extradasse",
+			"que": "vous extradassiez",
+			"qu'il/elle": "extradât",
+			"qu'ils/elles": "extradassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse extradé",
+			"que": "vous eussiez extradé",
+			"qu'il/elle": "eût extradé",
+			"qu'ils/elles": "eussent extradé"
+		},
+		"passé": {
+			"j'": "aie extradé",
+			"que": "vous ayez extradé",
+			"qu'il/elle": "ait extradé",
+			"qu'ils/elles": "aient extradé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "extraderais",
+			"tu": "extraderais",
+			"il/elle": "extraderait",
+			"nous": "extraderions",
+			"vous": "extraderiez",
+			"ils/elles": "extraderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais extradé",
+			"tu": "aurais extradé",
+			"il/elle": "aurait extradé",
+			"nous": "aurions extradé",
+			"vous": "auriez extradé",
+			"ils/elles": "auraient extradé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse extradé",
+			"tu": "eusses extradé",
+			"il/elle": "eût extradé",
+			"nous": "eussions extradé",
+			"vous": "eussiez extradé",
+			"ils/elles": "eussent extradé"
+		}
+	},
+	"participe": {
+		"présent": { "extradant": "" },
+		"passé composé": { "ayant": "extradé" },
+		"passé": {
+			"masc.sg.:": "extradé",
+			"masc.pl.:": "extradés",
+			"fém.sg.:": "extradée",
+			"fém.pl.:": "extradées"
+		}
+	},
+	"imperatif": {
+		"présent": { "extrade": "", "extradons": "", "extradez": "" },
+		"passé": { "aie": "extradé", "ayons": "extradé", "ayez": "extradé" }
+	},
+	"infinitif": {
+		"présent": { "extrader": "" },
+		"passé": { "avoir": "extradé" }
+	}
+}

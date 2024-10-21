@@ -1,0 +1,138 @@
+{
+	"name": "skier",
+	"definition": "ski; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se skier/ne pas skier/ne pas se skier",
+	"indicatif": {
+		"présent": {
+			"je": "skie",
+			"tu": "skies",
+			"il/elle": "skie",
+			"nous": "skions",
+			"vous": "skiez",
+			"ils/elles": "skient"
+		},
+		"imparfait": {
+			"je": "skiais",
+			"tu": "skiais",
+			"il/elle": "skiait",
+			"nous": "skiions",
+			"vous": "skiiez",
+			"ils/elles": "skiaient"
+		},
+		"futur": {
+			"je": "skierai",
+			"tu": "skieras",
+			"il/elle": "skiera",
+			"nous": "skierons",
+			"vous": "skierez",
+			"ils/elles": "skieront"
+		},
+		"passé simple": {
+			"je": "skiai",
+			"tu": "skias",
+			"il/elle": "skia",
+			"nous": "skiâmes",
+			"vous": "skiâtes",
+			"ils/elles": "skièrent"
+		},
+		"passé composé": {
+			"j'": "ai skié",
+			"tu": "as skié",
+			"il/elle": "a skié",
+			"nous": "avons skié",
+			"vous": "avez skié",
+			"ils/elles": "ont skié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais skié",
+			"tu": "avais skié",
+			"il/elle": "avait skié",
+			"nous": "avions skié",
+			"vous": "aviez skié",
+			"ils/elles": "avaient skié"
+		},
+		"passé antérieur": {
+			"j'": "eus skié",
+			"tu": "eus skié",
+			"il/elle": "eut skié",
+			"nous": "eûmes skié",
+			"vous": "eûtes skié",
+			"ils/elles": "eurent skié"
+		},
+		"futur antérieur": {
+			"j'": "aurai skié",
+			"tu": "auras skié",
+			"il/elle": "aura skié",
+			"nous": "aurons skié",
+			"vous": "aurez skié",
+			"ils/elles": "auront skié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous skiiez",
+			"qu'il/elle": "skie",
+			"qu'ils/elles": "skient"
+		},
+		"imparfait": {
+			"que": "vous skiassiez",
+			"qu'il/elle": "skiât",
+			"qu'ils/elles": "skiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse skié",
+			"que": "vous eussiez skié",
+			"qu'il/elle": "eût skié",
+			"qu'ils/elles": "eussent skié"
+		},
+		"passé": {
+			"j'": "aie skié",
+			"que": "vous ayez skié",
+			"qu'il/elle": "ait skié",
+			"qu'ils/elles": "aient skié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "skierais",
+			"tu": "skierais",
+			"il/elle": "skierait",
+			"nous": "skierions",
+			"vous": "skieriez",
+			"ils/elles": "skieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais skié",
+			"tu": "aurais skié",
+			"il/elle": "aurait skié",
+			"nous": "aurions skié",
+			"vous": "auriez skié",
+			"ils/elles": "auraient skié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse skié",
+			"tu": "eusses skié",
+			"il/elle": "eût skié",
+			"nous": "eussions skié",
+			"vous": "eussiez skié",
+			"ils/elles": "eussent skié"
+		}
+	},
+	"participe": {
+		"présent": { "skiant": "" },
+		"passé composé": { "ayant": "skié" },
+		"passé": {
+			"masc.sg.:": "skié",
+			"masc.pl.:": "skiés",
+			"fém.sg.:": "skiée",
+			"fém.pl.:": "skiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "skie": "", "skions": "", "skiez": "" },
+		"passé": { "aie": "skié", "ayons": "skié", "ayez": "skié" }
+	},
+	"infinitif": { "présent": { "skier": "" }, "passé": { "avoir": "skié" } }
+}

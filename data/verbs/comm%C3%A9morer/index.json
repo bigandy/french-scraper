@@ -1,0 +1,141 @@
+{
+	"name": "commémorer",
+	"definition": "commemorate; celebrate; mark; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se commémorer/ne pas commémorer/ne pas se commémorer",
+	"indicatif": {
+		"présent": {
+			"je": "commémore",
+			"tu": "commémores",
+			"il/elle": "commémore",
+			"nous": "commémorons",
+			"vous": "commémorez",
+			"ils/elles": "commémorent"
+		},
+		"imparfait": {
+			"je": "commémorais",
+			"tu": "commémorais",
+			"il/elle": "commémorait",
+			"nous": "commémorions",
+			"vous": "commémoriez",
+			"ils/elles": "commémoraient"
+		},
+		"futur": {
+			"je": "commémorerai",
+			"tu": "commémoreras",
+			"il/elle": "commémorera",
+			"nous": "commémorerons",
+			"vous": "commémorerez",
+			"ils/elles": "commémoreront"
+		},
+		"passé simple": {
+			"je": "commémorai",
+			"tu": "commémoras",
+			"il/elle": "commémora",
+			"nous": "commémorâmes",
+			"vous": "commémorâtes",
+			"ils/elles": "commémorèrent"
+		},
+		"passé composé": {
+			"j'": "ai commémoré",
+			"tu": "as commémoré",
+			"il/elle": "a commémoré",
+			"nous": "avons commémoré",
+			"vous": "avez commémoré",
+			"ils/elles": "ont commémoré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais commémoré",
+			"tu": "avais commémoré",
+			"il/elle": "avait commémoré",
+			"nous": "avions commémoré",
+			"vous": "aviez commémoré",
+			"ils/elles": "avaient commémoré"
+		},
+		"passé antérieur": {
+			"j'": "eus commémoré",
+			"tu": "eus commémoré",
+			"il/elle": "eut commémoré",
+			"nous": "eûmes commémoré",
+			"vous": "eûtes commémoré",
+			"ils/elles": "eurent commémoré"
+		},
+		"futur antérieur": {
+			"j'": "aurai commémoré",
+			"tu": "auras commémoré",
+			"il/elle": "aura commémoré",
+			"nous": "aurons commémoré",
+			"vous": "aurez commémoré",
+			"ils/elles": "auront commémoré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous commémoriez",
+			"qu'il/elle": "commémore",
+			"qu'ils/elles": "commémorent"
+		},
+		"imparfait": {
+			"que": "vous commémorassiez",
+			"qu'il/elle": "commémorât",
+			"qu'ils/elles": "commémorassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse commémoré",
+			"que": "vous eussiez commémoré",
+			"qu'il/elle": "eût commémoré",
+			"qu'ils/elles": "eussent commémoré"
+		},
+		"passé": {
+			"j'": "aie commémoré",
+			"que": "vous ayez commémoré",
+			"qu'il/elle": "ait commémoré",
+			"qu'ils/elles": "aient commémoré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "commémorerais",
+			"tu": "commémorerais",
+			"il/elle": "commémorerait",
+			"nous": "commémorerions",
+			"vous": "commémoreriez",
+			"ils/elles": "commémoreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais commémoré",
+			"tu": "aurais commémoré",
+			"il/elle": "aurait commémoré",
+			"nous": "aurions commémoré",
+			"vous": "auriez commémoré",
+			"ils/elles": "auraient commémoré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse commémoré",
+			"tu": "eusses commémoré",
+			"il/elle": "eût commémoré",
+			"nous": "eussions commémoré",
+			"vous": "eussiez commémoré",
+			"ils/elles": "eussent commémoré"
+		}
+	},
+	"participe": {
+		"présent": { "commémorant": "" },
+		"passé composé": { "ayant": "commémoré" },
+		"passé": {
+			"masc.sg.:": "commémoré",
+			"masc.pl.:": "commémorés",
+			"fém.sg.:": "commémorée",
+			"fém.pl.:": "commémorées"
+		}
+	},
+	"imperatif": {
+		"présent": { "commémore": "", "commémorons": "", "commémorez": "" },
+		"passé": { "aie": "commémoré", "ayons": "commémoré", "ayez": "commémoré" }
+	},
+	"infinitif": {
+		"présent": { "commémorer": "" },
+		"passé": { "avoir": "commémoré" }
+	}
+}

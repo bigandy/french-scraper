@@ -1,0 +1,141 @@
+{
+	"name": "dépêcher",
+	"definition": "hurry; hurry up; send; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se dépêcher/ne pas dépêcher/ne pas se dépêcher",
+	"indicatif": {
+		"présent": {
+			"je": "dépêche",
+			"tu": "dépêches",
+			"il/elle": "dépêche",
+			"nous": "dépêchons",
+			"vous": "dépêchez",
+			"ils/elles": "dépêchent"
+		},
+		"imparfait": {
+			"je": "dépêchais",
+			"tu": "dépêchais",
+			"il/elle": "dépêchait",
+			"nous": "dépêchions",
+			"vous": "dépêchiez",
+			"ils/elles": "dépêchaient"
+		},
+		"futur": {
+			"je": "dépêcherai",
+			"tu": "dépêcheras",
+			"il/elle": "dépêchera",
+			"nous": "dépêcherons",
+			"vous": "dépêcherez",
+			"ils/elles": "dépêcheront"
+		},
+		"passé simple": {
+			"je": "dépêchai",
+			"tu": "dépêchas",
+			"il/elle": "dépêcha",
+			"nous": "dépêchâmes",
+			"vous": "dépêchâtes",
+			"ils/elles": "dépêchèrent"
+		},
+		"passé composé": {
+			"j'": "ai dépêché",
+			"tu": "as dépêché",
+			"il/elle": "a dépêché",
+			"nous": "avons dépêché",
+			"vous": "avez dépêché",
+			"ils/elles": "ont dépêché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais dépêché",
+			"tu": "avais dépêché",
+			"il/elle": "avait dépêché",
+			"nous": "avions dépêché",
+			"vous": "aviez dépêché",
+			"ils/elles": "avaient dépêché"
+		},
+		"passé antérieur": {
+			"j'": "eus dépêché",
+			"tu": "eus dépêché",
+			"il/elle": "eut dépêché",
+			"nous": "eûmes dépêché",
+			"vous": "eûtes dépêché",
+			"ils/elles": "eurent dépêché"
+		},
+		"futur antérieur": {
+			"j'": "aurai dépêché",
+			"tu": "auras dépêché",
+			"il/elle": "aura dépêché",
+			"nous": "aurons dépêché",
+			"vous": "aurez dépêché",
+			"ils/elles": "auront dépêché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous dépêchiez",
+			"qu'il/elle": "dépêche",
+			"qu'ils/elles": "dépêchent"
+		},
+		"imparfait": {
+			"que": "vous dépêchassiez",
+			"qu'il/elle": "dépêchât",
+			"qu'ils/elles": "dépêchassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse dépêché",
+			"que": "vous eussiez dépêché",
+			"qu'il/elle": "eût dépêché",
+			"qu'ils/elles": "eussent dépêché"
+		},
+		"passé": {
+			"j'": "aie dépêché",
+			"que": "vous ayez dépêché",
+			"qu'il/elle": "ait dépêché",
+			"qu'ils/elles": "aient dépêché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "dépêcherais",
+			"tu": "dépêcherais",
+			"il/elle": "dépêcherait",
+			"nous": "dépêcherions",
+			"vous": "dépêcheriez",
+			"ils/elles": "dépêcheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais dépêché",
+			"tu": "aurais dépêché",
+			"il/elle": "aurait dépêché",
+			"nous": "aurions dépêché",
+			"vous": "auriez dépêché",
+			"ils/elles": "auraient dépêché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse dépêché",
+			"tu": "eusses dépêché",
+			"il/elle": "eût dépêché",
+			"nous": "eussions dépêché",
+			"vous": "eussiez dépêché",
+			"ils/elles": "eussent dépêché"
+		}
+	},
+	"participe": {
+		"présent": { "dépêchant": "" },
+		"passé composé": { "ayant": "dépêché" },
+		"passé": {
+			"masc.sg.:": "dépêché",
+			"masc.pl.:": "dépêchés",
+			"fém.sg.:": "dépêchée",
+			"fém.pl.:": "dépêchées"
+		}
+	},
+	"imperatif": {
+		"présent": { "dépêche": "", "dépêchons": "", "dépêchez": "" },
+		"passé": { "aie": "dépêché", "ayons": "dépêché", "ayez": "dépêché" }
+	},
+	"infinitif": {
+		"présent": { "dépêcher": "" },
+		"passé": { "avoir": "dépêché" }
+	}
+}

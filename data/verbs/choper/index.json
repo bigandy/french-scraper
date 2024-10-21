@@ -1,0 +1,138 @@
+{
+	"name": "choper",
+	"definition": "get; catch; bust; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se choper/ne pas choper/ne pas se choper",
+	"indicatif": {
+		"présent": {
+			"je": "chope",
+			"tu": "chopes",
+			"il/elle": "chope",
+			"nous": "chopons",
+			"vous": "chopez",
+			"ils/elles": "chopent"
+		},
+		"imparfait": {
+			"je": "chopais",
+			"tu": "chopais",
+			"il/elle": "chopait",
+			"nous": "chopions",
+			"vous": "chopiez",
+			"ils/elles": "chopaient"
+		},
+		"futur": {
+			"je": "choperai",
+			"tu": "choperas",
+			"il/elle": "chopera",
+			"nous": "choperons",
+			"vous": "choperez",
+			"ils/elles": "choperont"
+		},
+		"passé simple": {
+			"je": "chopai",
+			"tu": "chopas",
+			"il/elle": "chopa",
+			"nous": "chopâmes",
+			"vous": "chopâtes",
+			"ils/elles": "chopèrent"
+		},
+		"passé composé": {
+			"j'": "ai chopé",
+			"tu": "as chopé",
+			"il/elle": "a chopé",
+			"nous": "avons chopé",
+			"vous": "avez chopé",
+			"ils/elles": "ont chopé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais chopé",
+			"tu": "avais chopé",
+			"il/elle": "avait chopé",
+			"nous": "avions chopé",
+			"vous": "aviez chopé",
+			"ils/elles": "avaient chopé"
+		},
+		"passé antérieur": {
+			"j'": "eus chopé",
+			"tu": "eus chopé",
+			"il/elle": "eut chopé",
+			"nous": "eûmes chopé",
+			"vous": "eûtes chopé",
+			"ils/elles": "eurent chopé"
+		},
+		"futur antérieur": {
+			"j'": "aurai chopé",
+			"tu": "auras chopé",
+			"il/elle": "aura chopé",
+			"nous": "aurons chopé",
+			"vous": "aurez chopé",
+			"ils/elles": "auront chopé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous chopiez",
+			"qu'il/elle": "chope",
+			"qu'ils/elles": "chopent"
+		},
+		"imparfait": {
+			"que": "vous chopassiez",
+			"qu'il/elle": "chopât",
+			"qu'ils/elles": "chopassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse chopé",
+			"que": "vous eussiez chopé",
+			"qu'il/elle": "eût chopé",
+			"qu'ils/elles": "eussent chopé"
+		},
+		"passé": {
+			"j'": "aie chopé",
+			"que": "vous ayez chopé",
+			"qu'il/elle": "ait chopé",
+			"qu'ils/elles": "aient chopé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "choperais",
+			"tu": "choperais",
+			"il/elle": "choperait",
+			"nous": "choperions",
+			"vous": "choperiez",
+			"ils/elles": "choperaient"
+		},
+		"passé première forme": {
+			"j'": "aurais chopé",
+			"tu": "aurais chopé",
+			"il/elle": "aurait chopé",
+			"nous": "aurions chopé",
+			"vous": "auriez chopé",
+			"ils/elles": "auraient chopé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse chopé",
+			"tu": "eusses chopé",
+			"il/elle": "eût chopé",
+			"nous": "eussions chopé",
+			"vous": "eussiez chopé",
+			"ils/elles": "eussent chopé"
+		}
+	},
+	"participe": {
+		"présent": { "chopant": "" },
+		"passé composé": { "ayant": "chopé" },
+		"passé": {
+			"masc.sg.:": "chopé",
+			"masc.pl.:": "chopés",
+			"fém.sg.:": "chopée",
+			"fém.pl.:": "chopées"
+		}
+	},
+	"imperatif": {
+		"présent": { "chope": "", "chopons": "", "chopez": "" },
+		"passé": { "aie": "chopé", "ayons": "chopé", "ayez": "chopé" }
+	},
+	"infinitif": { "présent": { "choper": "" }, "passé": { "avoir": "chopé" } }
+}

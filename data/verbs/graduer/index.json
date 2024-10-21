@@ -1,0 +1,138 @@
+{
+	"name": "graduer",
+	"definition": "graduate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se graduer/ne pas graduer/ne pas se graduer",
+	"indicatif": {
+		"présent": {
+			"je": "gradue",
+			"tu": "gradues",
+			"il/elle": "gradue",
+			"nous": "graduons",
+			"vous": "graduez",
+			"ils/elles": "graduent"
+		},
+		"imparfait": {
+			"je": "graduais",
+			"tu": "graduais",
+			"il/elle": "graduait",
+			"nous": "graduions",
+			"vous": "graduiez",
+			"ils/elles": "graduaient"
+		},
+		"futur": {
+			"je": "graduerai",
+			"tu": "gradueras",
+			"il/elle": "graduera",
+			"nous": "graduerons",
+			"vous": "graduerez",
+			"ils/elles": "gradueront"
+		},
+		"passé simple": {
+			"je": "graduai",
+			"tu": "graduas",
+			"il/elle": "gradua",
+			"nous": "graduâmes",
+			"vous": "graduâtes",
+			"ils/elles": "graduèrent"
+		},
+		"passé composé": {
+			"j'": "ai gradué",
+			"tu": "as gradué",
+			"il/elle": "a gradué",
+			"nous": "avons gradué",
+			"vous": "avez gradué",
+			"ils/elles": "ont gradué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais gradué",
+			"tu": "avais gradué",
+			"il/elle": "avait gradué",
+			"nous": "avions gradué",
+			"vous": "aviez gradué",
+			"ils/elles": "avaient gradué"
+		},
+		"passé antérieur": {
+			"j'": "eus gradué",
+			"tu": "eus gradué",
+			"il/elle": "eut gradué",
+			"nous": "eûmes gradué",
+			"vous": "eûtes gradué",
+			"ils/elles": "eurent gradué"
+		},
+		"futur antérieur": {
+			"j'": "aurai gradué",
+			"tu": "auras gradué",
+			"il/elle": "aura gradué",
+			"nous": "aurons gradué",
+			"vous": "aurez gradué",
+			"ils/elles": "auront gradué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous graduiez",
+			"qu'il/elle": "gradue",
+			"qu'ils/elles": "graduent"
+		},
+		"imparfait": {
+			"que": "vous graduassiez",
+			"qu'il/elle": "graduât",
+			"qu'ils/elles": "graduassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse gradué",
+			"que": "vous eussiez gradué",
+			"qu'il/elle": "eût gradué",
+			"qu'ils/elles": "eussent gradué"
+		},
+		"passé": {
+			"j'": "aie gradué",
+			"que": "vous ayez gradué",
+			"qu'il/elle": "ait gradué",
+			"qu'ils/elles": "aient gradué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "graduerais",
+			"tu": "graduerais",
+			"il/elle": "graduerait",
+			"nous": "graduerions",
+			"vous": "gradueriez",
+			"ils/elles": "gradueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais gradué",
+			"tu": "aurais gradué",
+			"il/elle": "aurait gradué",
+			"nous": "aurions gradué",
+			"vous": "auriez gradué",
+			"ils/elles": "auraient gradué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse gradué",
+			"tu": "eusses gradué",
+			"il/elle": "eût gradué",
+			"nous": "eussions gradué",
+			"vous": "eussiez gradué",
+			"ils/elles": "eussent gradué"
+		}
+	},
+	"participe": {
+		"présent": { "graduant": "" },
+		"passé composé": { "ayant": "gradué" },
+		"passé": {
+			"masc.sg.:": "gradué",
+			"masc.pl.:": "gradués",
+			"fém.sg.:": "graduée",
+			"fém.pl.:": "graduées"
+		}
+	},
+	"imperatif": {
+		"présent": { "gradue": "", "graduons": "", "graduez": "" },
+		"passé": { "aie": "gradué", "ayons": "gradué", "ayez": "gradué" }
+	},
+	"infinitif": { "présent": { "graduer": "" }, "passé": { "avoir": "gradué" } }
+}

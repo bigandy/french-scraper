@@ -1,0 +1,143 @@
+{
+	"name": "assortir",
+	"definition": "match; attach; accompany; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "s'assortir/ne pas assortir/ne pas s'assortir",
+	"indicatif": {
+		"présent": {
+			"j'": "assortis",
+			"tu": "assortis",
+			"il/elle": "assortit",
+			"nous": "assortissons",
+			"vous": "assortissez",
+			"ils/elles": "assortissent"
+		},
+		"imparfait": {
+			"j'": "assortissais",
+			"tu": "assortissais",
+			"il/elle": "assortissait",
+			"nous": "assortissions",
+			"vous": "assortissiez",
+			"ils/elles": "assortissaient"
+		},
+		"futur": {
+			"j'": "assortirai",
+			"tu": "assortiras",
+			"il/elle": "assortira",
+			"nous": "assortirons",
+			"vous": "assortirez",
+			"ils/elles": "assortiront"
+		},
+		"passé simple": {
+			"j'": "assortis",
+			"tu": "assortis",
+			"il/elle": "assortit",
+			"nous": "assortîmes",
+			"vous": "assortîtes",
+			"ils/elles": "assortirent"
+		},
+		"passé composé": {
+			"j'": "ai assorti",
+			"tu": "as assorti",
+			"il/elle": "a assorti",
+			"nous": "avons assorti",
+			"vous": "avez assorti",
+			"ils/elles": "ont assorti"
+		},
+		"plus-que-parfait": {
+			"j'": "avais assorti",
+			"tu": "avais assorti",
+			"il/elle": "avait assorti",
+			"nous": "avions assorti",
+			"vous": "aviez assorti",
+			"ils/elles": "avaient assorti"
+		},
+		"passé antérieur": {
+			"j'": "eus assorti",
+			"tu": "eus assorti",
+			"il/elle": "eut assorti",
+			"nous": "eûmes assorti",
+			"vous": "eûtes assorti",
+			"ils/elles": "eurent assorti"
+		},
+		"futur antérieur": {
+			"j'": "aurai assorti",
+			"tu": "auras assorti",
+			"il/elle": "aura assorti",
+			"nous": "aurons assorti",
+			"vous": "aurez assorti",
+			"ils/elles": "auront assorti"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "assortisse",
+			"que": "vous assortissiez",
+			"qu'il/elle": "assortisse",
+			"qu'ils/elles": "assortissent"
+		},
+		"imparfait": {
+			"j'": "assortisse",
+			"que": "vous assortissiez",
+			"qu'il/elle": "assortît",
+			"qu'ils/elles": "assortissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse assorti",
+			"que": "vous eussiez assorti",
+			"qu'il/elle": "eût assorti",
+			"qu'ils/elles": "eussent assorti"
+		},
+		"passé": {
+			"j'": "aie assorti",
+			"que": "vous ayez assorti",
+			"qu'il/elle": "ait assorti",
+			"qu'ils/elles": "aient assorti"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "assortirais",
+			"tu": "assortirais",
+			"il/elle": "assortirait",
+			"nous": "assortirions",
+			"vous": "assortiriez",
+			"ils/elles": "assortiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais assorti",
+			"tu": "aurais assorti",
+			"il/elle": "aurait assorti",
+			"nous": "aurions assorti",
+			"vous": "auriez assorti",
+			"ils/elles": "auraient assorti"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse assorti",
+			"tu": "eusses assorti",
+			"il/elle": "eût assorti",
+			"nous": "eussions assorti",
+			"vous": "eussiez assorti",
+			"ils/elles": "eussent assorti"
+		}
+	},
+	"participe": {
+		"présent": { "assortissant": "" },
+		"passé composé": { "ayant": "assorti" },
+		"passé": {
+			"masc.sg.:": "assorti",
+			"masc.pl.:": "assortis",
+			"fém.sg.:": "assortie",
+			"fém.pl.:": "assorties"
+		}
+	},
+	"imperatif": {
+		"présent": { "assortis": "", "assortissons": "", "assortissez": "" },
+		"passé": { "aie": "assorti", "ayons": "assorti", "ayez": "assorti" }
+	},
+	"infinitif": {
+		"présent": { "assortir": "" },
+		"passé": { "avoir": "assorti" }
+	}
+}

@@ -1,0 +1,141 @@
+{
+	"name": "résorber",
+	"definition": "reduce; clear; eliminate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se résorber/ne pas résorber/ne pas se résorber",
+	"indicatif": {
+		"présent": {
+			"je": "résorbe",
+			"tu": "résorbes",
+			"il/elle": "résorbe",
+			"nous": "résorbons",
+			"vous": "résorbez",
+			"ils/elles": "résorbent"
+		},
+		"imparfait": {
+			"je": "résorbais",
+			"tu": "résorbais",
+			"il/elle": "résorbait",
+			"nous": "résorbions",
+			"vous": "résorbiez",
+			"ils/elles": "résorbaient"
+		},
+		"futur": {
+			"je": "résorberai",
+			"tu": "résorberas",
+			"il/elle": "résorbera",
+			"nous": "résorberons",
+			"vous": "résorberez",
+			"ils/elles": "résorberont"
+		},
+		"passé simple": {
+			"je": "résorbai",
+			"tu": "résorbas",
+			"il/elle": "résorba",
+			"nous": "résorbâmes",
+			"vous": "résorbâtes",
+			"ils/elles": "résorbèrent"
+		},
+		"passé composé": {
+			"j'": "ai résorbé",
+			"tu": "as résorbé",
+			"il/elle": "a résorbé",
+			"nous": "avons résorbé",
+			"vous": "avez résorbé",
+			"ils/elles": "ont résorbé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais résorbé",
+			"tu": "avais résorbé",
+			"il/elle": "avait résorbé",
+			"nous": "avions résorbé",
+			"vous": "aviez résorbé",
+			"ils/elles": "avaient résorbé"
+		},
+		"passé antérieur": {
+			"j'": "eus résorbé",
+			"tu": "eus résorbé",
+			"il/elle": "eut résorbé",
+			"nous": "eûmes résorbé",
+			"vous": "eûtes résorbé",
+			"ils/elles": "eurent résorbé"
+		},
+		"futur antérieur": {
+			"j'": "aurai résorbé",
+			"tu": "auras résorbé",
+			"il/elle": "aura résorbé",
+			"nous": "aurons résorbé",
+			"vous": "aurez résorbé",
+			"ils/elles": "auront résorbé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous résorbiez",
+			"qu'il/elle": "résorbe",
+			"qu'ils/elles": "résorbent"
+		},
+		"imparfait": {
+			"que": "vous résorbassiez",
+			"qu'il/elle": "résorbât",
+			"qu'ils/elles": "résorbassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse résorbé",
+			"que": "vous eussiez résorbé",
+			"qu'il/elle": "eût résorbé",
+			"qu'ils/elles": "eussent résorbé"
+		},
+		"passé": {
+			"j'": "aie résorbé",
+			"que": "vous ayez résorbé",
+			"qu'il/elle": "ait résorbé",
+			"qu'ils/elles": "aient résorbé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "résorberais",
+			"tu": "résorberais",
+			"il/elle": "résorberait",
+			"nous": "résorberions",
+			"vous": "résorberiez",
+			"ils/elles": "résorberaient"
+		},
+		"passé première forme": {
+			"j'": "aurais résorbé",
+			"tu": "aurais résorbé",
+			"il/elle": "aurait résorbé",
+			"nous": "aurions résorbé",
+			"vous": "auriez résorbé",
+			"ils/elles": "auraient résorbé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse résorbé",
+			"tu": "eusses résorbé",
+			"il/elle": "eût résorbé",
+			"nous": "eussions résorbé",
+			"vous": "eussiez résorbé",
+			"ils/elles": "eussent résorbé"
+		}
+	},
+	"participe": {
+		"présent": { "résorbant": "" },
+		"passé composé": { "ayant": "résorbé" },
+		"passé": {
+			"masc.sg.:": "résorbé",
+			"masc.pl.:": "résorbés",
+			"fém.sg.:": "résorbée",
+			"fém.pl.:": "résorbées"
+		}
+	},
+	"imperatif": {
+		"présent": { "résorbe": "", "résorbons": "", "résorbez": "" },
+		"passé": { "aie": "résorbé", "ayons": "résorbé", "ayez": "résorbé" }
+	},
+	"infinitif": {
+		"présent": { "résorber": "" },
+		"passé": { "avoir": "résorbé" }
+	}
+}

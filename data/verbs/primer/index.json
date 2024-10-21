@@ -1,0 +1,138 @@
+{
+	"name": "primer",
+	"definition": "prevail; override; dominate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se primer/ne pas primer/ne pas se primer",
+	"indicatif": {
+		"présent": {
+			"je": "prime",
+			"tu": "primes",
+			"il/elle": "prime",
+			"nous": "primons",
+			"vous": "primez",
+			"ils/elles": "priment"
+		},
+		"imparfait": {
+			"je": "primais",
+			"tu": "primais",
+			"il/elle": "primait",
+			"nous": "primions",
+			"vous": "primiez",
+			"ils/elles": "primaient"
+		},
+		"futur": {
+			"je": "primerai",
+			"tu": "primeras",
+			"il/elle": "primera",
+			"nous": "primerons",
+			"vous": "primerez",
+			"ils/elles": "primeront"
+		},
+		"passé simple": {
+			"je": "primai",
+			"tu": "primas",
+			"il/elle": "prima",
+			"nous": "primâmes",
+			"vous": "primâtes",
+			"ils/elles": "primèrent"
+		},
+		"passé composé": {
+			"j'": "ai primé",
+			"tu": "as primé",
+			"il/elle": "a primé",
+			"nous": "avons primé",
+			"vous": "avez primé",
+			"ils/elles": "ont primé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais primé",
+			"tu": "avais primé",
+			"il/elle": "avait primé",
+			"nous": "avions primé",
+			"vous": "aviez primé",
+			"ils/elles": "avaient primé"
+		},
+		"passé antérieur": {
+			"j'": "eus primé",
+			"tu": "eus primé",
+			"il/elle": "eut primé",
+			"nous": "eûmes primé",
+			"vous": "eûtes primé",
+			"ils/elles": "eurent primé"
+		},
+		"futur antérieur": {
+			"j'": "aurai primé",
+			"tu": "auras primé",
+			"il/elle": "aura primé",
+			"nous": "aurons primé",
+			"vous": "aurez primé",
+			"ils/elles": "auront primé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous primiez",
+			"qu'il/elle": "prime",
+			"qu'ils/elles": "priment"
+		},
+		"imparfait": {
+			"que": "vous primassiez",
+			"qu'il/elle": "primât",
+			"qu'ils/elles": "primassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse primé",
+			"que": "vous eussiez primé",
+			"qu'il/elle": "eût primé",
+			"qu'ils/elles": "eussent primé"
+		},
+		"passé": {
+			"j'": "aie primé",
+			"que": "vous ayez primé",
+			"qu'il/elle": "ait primé",
+			"qu'ils/elles": "aient primé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "primerais",
+			"tu": "primerais",
+			"il/elle": "primerait",
+			"nous": "primerions",
+			"vous": "primeriez",
+			"ils/elles": "primeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais primé",
+			"tu": "aurais primé",
+			"il/elle": "aurait primé",
+			"nous": "aurions primé",
+			"vous": "auriez primé",
+			"ils/elles": "auraient primé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse primé",
+			"tu": "eusses primé",
+			"il/elle": "eût primé",
+			"nous": "eussions primé",
+			"vous": "eussiez primé",
+			"ils/elles": "eussent primé"
+		}
+	},
+	"participe": {
+		"présent": { "primant": "" },
+		"passé composé": { "ayant": "primé" },
+		"passé": {
+			"masc.sg.:": "primé",
+			"masc.pl.:": "primés",
+			"fém.sg.:": "primée",
+			"fém.pl.:": "primées"
+		}
+	},
+	"imperatif": {
+		"présent": { "prime": "", "primons": "", "primez": "" },
+		"passé": { "aie": "primé", "ayons": "primé", "ayez": "primé" }
+	},
+	"infinitif": { "présent": { "primer": "" }, "passé": { "avoir": "primé" } }
+}

@@ -1,0 +1,138 @@
+{
+	"name": "pâtir",
+	"definition": "suffer; suffer as a result; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas pâtir",
+	"indicatif": {
+		"présent": {
+			"je": "pâtis",
+			"tu": "pâtis",
+			"il/elle": "pâtit",
+			"nous": "pâtissons",
+			"vous": "pâtissez",
+			"ils/elles": "pâtissent"
+		},
+		"imparfait": {
+			"je": "pâtissais",
+			"tu": "pâtissais",
+			"il/elle": "pâtissait",
+			"nous": "pâtissions",
+			"vous": "pâtissiez",
+			"ils/elles": "pâtissaient"
+		},
+		"futur": {
+			"je": "pâtirai",
+			"tu": "pâtiras",
+			"il/elle": "pâtira",
+			"nous": "pâtirons",
+			"vous": "pâtirez",
+			"ils/elles": "pâtiront"
+		},
+		"passé simple": {
+			"je": "pâtis",
+			"tu": "pâtis",
+			"il/elle": "pâtit",
+			"nous": "pâtîmes",
+			"vous": "pâtîtes",
+			"ils/elles": "pâtirent"
+		},
+		"passé composé": {
+			"j'": "ai pâti",
+			"tu": "as pâti",
+			"il/elle": "a pâti",
+			"nous": "avons pâti",
+			"vous": "avez pâti",
+			"ils/elles": "ont pâti"
+		},
+		"plus-que-parfait": {
+			"j'": "avais pâti",
+			"tu": "avais pâti",
+			"il/elle": "avait pâti",
+			"nous": "avions pâti",
+			"vous": "aviez pâti",
+			"ils/elles": "avaient pâti"
+		},
+		"passé antérieur": {
+			"j'": "eus pâti",
+			"tu": "eus pâti",
+			"il/elle": "eut pâti",
+			"nous": "eûmes pâti",
+			"vous": "eûtes pâti",
+			"ils/elles": "eurent pâti"
+		},
+		"futur antérieur": {
+			"j'": "aurai pâti",
+			"tu": "auras pâti",
+			"il/elle": "aura pâti",
+			"nous": "aurons pâti",
+			"vous": "aurez pâti",
+			"ils/elles": "auront pâti"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous pâtissiez",
+			"qu'il/elle": "pâtisse",
+			"qu'ils/elles": "pâtissent"
+		},
+		"imparfait": {
+			"que": "vous pâtissiez",
+			"qu'il/elle": "pâtît",
+			"qu'ils/elles": "pâtissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse pâti",
+			"que": "vous eussiez pâti",
+			"qu'il/elle": "eût pâti",
+			"qu'ils/elles": "eussent pâti"
+		},
+		"passé": {
+			"j'": "aie pâti",
+			"que": "vous ayez pâti",
+			"qu'il/elle": "ait pâti",
+			"qu'ils/elles": "aient pâti"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "pâtirais",
+			"tu": "pâtirais",
+			"il/elle": "pâtirait",
+			"nous": "pâtirions",
+			"vous": "pâtiriez",
+			"ils/elles": "pâtiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais pâti",
+			"tu": "aurais pâti",
+			"il/elle": "aurait pâti",
+			"nous": "aurions pâti",
+			"vous": "auriez pâti",
+			"ils/elles": "auraient pâti"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse pâti",
+			"tu": "eusses pâti",
+			"il/elle": "eût pâti",
+			"nous": "eussions pâti",
+			"vous": "eussiez pâti",
+			"ils/elles": "eussent pâti"
+		}
+	},
+	"participe": {
+		"présent": { "pâtissant": "" },
+		"passé composé": { "ayant": "pâti" },
+		"passé": {
+			"masc.sg.:": "pâti",
+			"masc.pl.:": "pâtis",
+			"fém.sg.:": "pâtie",
+			"fém.pl.:": "pâties"
+		}
+	},
+	"imperatif": {
+		"présent": { "pâtis": "", "pâtissons": "", "pâtissez": "" },
+		"passé": { "aie": "pâti", "ayons": "pâti", "ayez": "pâti" }
+	},
+	"infinitif": { "présent": { "pâtir": "" }, "passé": { "avoir": "pâti" } }
+}

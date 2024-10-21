@@ -1,0 +1,140 @@
+{
+	"name": "oxyder",
+	"definition": "oxidize; oxidise; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'oxyder/ne pas oxyder/ne pas s'oxyder",
+	"indicatif": {
+		"présent": {
+			"j'": "oxyde",
+			"tu": "oxydes",
+			"il/elle": "oxyde",
+			"nous": "oxydons",
+			"vous": "oxydez",
+			"ils/elles": "oxydent"
+		},
+		"imparfait": {
+			"j'": "oxydais",
+			"tu": "oxydais",
+			"il/elle": "oxydait",
+			"nous": "oxydions",
+			"vous": "oxydiez",
+			"ils/elles": "oxydaient"
+		},
+		"futur": {
+			"j'": "oxyderai",
+			"tu": "oxyderas",
+			"il/elle": "oxydera",
+			"nous": "oxyderons",
+			"vous": "oxyderez",
+			"ils/elles": "oxyderont"
+		},
+		"passé simple": {
+			"j'": "oxydai",
+			"tu": "oxydas",
+			"il/elle": "oxyda",
+			"nous": "oxydâmes",
+			"vous": "oxydâtes",
+			"ils/elles": "oxydèrent"
+		},
+		"passé composé": {
+			"j'": "ai oxydé",
+			"tu": "as oxydé",
+			"il/elle": "a oxydé",
+			"nous": "avons oxydé",
+			"vous": "avez oxydé",
+			"ils/elles": "ont oxydé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais oxydé",
+			"tu": "avais oxydé",
+			"il/elle": "avait oxydé",
+			"nous": "avions oxydé",
+			"vous": "aviez oxydé",
+			"ils/elles": "avaient oxydé"
+		},
+		"passé antérieur": {
+			"j'": "eus oxydé",
+			"tu": "eus oxydé",
+			"il/elle": "eut oxydé",
+			"nous": "eûmes oxydé",
+			"vous": "eûtes oxydé",
+			"ils/elles": "eurent oxydé"
+		},
+		"futur antérieur": {
+			"j'": "aurai oxydé",
+			"tu": "auras oxydé",
+			"il/elle": "aura oxydé",
+			"nous": "aurons oxydé",
+			"vous": "aurez oxydé",
+			"ils/elles": "auront oxydé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "oxyde",
+			"que": "vous oxydiez",
+			"qu'il/elle": "oxyde",
+			"qu'ils/elles": "oxydent"
+		},
+		"imparfait": {
+			"j'": "oxydasse",
+			"que": "vous oxydassiez",
+			"qu'il/elle": "oxydât",
+			"qu'ils/elles": "oxydassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse oxydé",
+			"que": "vous eussiez oxydé",
+			"qu'il/elle": "eût oxydé",
+			"qu'ils/elles": "eussent oxydé"
+		},
+		"passé": {
+			"j'": "aie oxydé",
+			"que": "vous ayez oxydé",
+			"qu'il/elle": "ait oxydé",
+			"qu'ils/elles": "aient oxydé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "oxyderais",
+			"tu": "oxyderais",
+			"il/elle": "oxyderait",
+			"nous": "oxyderions",
+			"vous": "oxyderiez",
+			"ils/elles": "oxyderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais oxydé",
+			"tu": "aurais oxydé",
+			"il/elle": "aurait oxydé",
+			"nous": "aurions oxydé",
+			"vous": "auriez oxydé",
+			"ils/elles": "auraient oxydé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse oxydé",
+			"tu": "eusses oxydé",
+			"il/elle": "eût oxydé",
+			"nous": "eussions oxydé",
+			"vous": "eussiez oxydé",
+			"ils/elles": "eussent oxydé"
+		}
+	},
+	"participe": {
+		"présent": { "oxydant": "" },
+		"passé composé": { "ayant": "oxydé" },
+		"passé": {
+			"masc.sg.:": "oxydé",
+			"masc.pl.:": "oxydés",
+			"fém.sg.:": "oxydée",
+			"fém.pl.:": "oxydées"
+		}
+	},
+	"imperatif": {
+		"présent": { "oxyde": "", "oxydons": "", "oxydez": "" },
+		"passé": { "aie": "oxydé", "ayons": "oxydé", "ayez": "oxydé" }
+	},
+	"infinitif": { "présent": { "oxyder": "" }, "passé": { "avoir": "oxydé" } }
+}

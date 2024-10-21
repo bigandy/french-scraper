@@ -1,0 +1,145 @@
+{
+	"name": "généraliser",
+	"definition": "generalize; generalise; mainstream; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se généraliser/ne pas généraliser/ne pas se généraliser",
+	"indicatif": {
+		"présent": {
+			"je": "généralise",
+			"tu": "généralises",
+			"il/elle": "généralise",
+			"nous": "généralisons",
+			"vous": "généralisez",
+			"ils/elles": "généralisent"
+		},
+		"imparfait": {
+			"je": "généralisais",
+			"tu": "généralisais",
+			"il/elle": "généralisait",
+			"nous": "généralisions",
+			"vous": "généralisiez",
+			"ils/elles": "généralisaient"
+		},
+		"futur": {
+			"je": "généraliserai",
+			"tu": "généraliseras",
+			"il/elle": "généralisera",
+			"nous": "généraliserons",
+			"vous": "généraliserez",
+			"ils/elles": "généraliseront"
+		},
+		"passé simple": {
+			"je": "généralisai",
+			"tu": "généralisas",
+			"il/elle": "généralisa",
+			"nous": "généralisâmes",
+			"vous": "généralisâtes",
+			"ils/elles": "généralisèrent"
+		},
+		"passé composé": {
+			"j'": "ai généralisé",
+			"tu": "as généralisé",
+			"il/elle": "a généralisé",
+			"nous": "avons généralisé",
+			"vous": "avez généralisé",
+			"ils/elles": "ont généralisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais généralisé",
+			"tu": "avais généralisé",
+			"il/elle": "avait généralisé",
+			"nous": "avions généralisé",
+			"vous": "aviez généralisé",
+			"ils/elles": "avaient généralisé"
+		},
+		"passé antérieur": {
+			"j'": "eus généralisé",
+			"tu": "eus généralisé",
+			"il/elle": "eut généralisé",
+			"nous": "eûmes généralisé",
+			"vous": "eûtes généralisé",
+			"ils/elles": "eurent généralisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai généralisé",
+			"tu": "auras généralisé",
+			"il/elle": "aura généralisé",
+			"nous": "aurons généralisé",
+			"vous": "aurez généralisé",
+			"ils/elles": "auront généralisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous généralisiez",
+			"qu'il/elle": "généralise",
+			"qu'ils/elles": "généralisent"
+		},
+		"imparfait": {
+			"que": "vous généralisassiez",
+			"qu'il/elle": "généralisât",
+			"qu'ils/elles": "généralisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse généralisé",
+			"que": "vous eussiez généralisé",
+			"qu'il/elle": "eût généralisé",
+			"qu'ils/elles": "eussent généralisé"
+		},
+		"passé": {
+			"j'": "aie généralisé",
+			"que": "vous ayez généralisé",
+			"qu'il/elle": "ait généralisé",
+			"qu'ils/elles": "aient généralisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "généraliserais",
+			"tu": "généraliserais",
+			"il/elle": "généraliserait",
+			"nous": "généraliserions",
+			"vous": "généraliseriez",
+			"ils/elles": "généraliseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais généralisé",
+			"tu": "aurais généralisé",
+			"il/elle": "aurait généralisé",
+			"nous": "aurions généralisé",
+			"vous": "auriez généralisé",
+			"ils/elles": "auraient généralisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse généralisé",
+			"tu": "eusses généralisé",
+			"il/elle": "eût généralisé",
+			"nous": "eussions généralisé",
+			"vous": "eussiez généralisé",
+			"ils/elles": "eussent généralisé"
+		}
+	},
+	"participe": {
+		"présent": { "généralisant": "" },
+		"passé composé": { "ayant": "généralisé" },
+		"passé": {
+			"masc.sg.:": "généralisé",
+			"masc.pl.:": "généralisés",
+			"fém.sg.:": "généralisée",
+			"fém.pl.:": "généralisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "généralise": "", "généralisons": "", "généralisez": "" },
+		"passé": {
+			"aie": "généralisé",
+			"ayons": "généralisé",
+			"ayez": "généralisé"
+		}
+	},
+	"infinitif": {
+		"présent": { "généraliser": "" },
+		"passé": { "avoir": "généralisé" }
+	}
+}

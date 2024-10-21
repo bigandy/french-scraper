@@ -1,0 +1,141 @@
+{
+	"name": "décerner",
+	"definition": "award; issue; confer; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se décerner/ne pas décerner/ne pas se décerner",
+	"indicatif": {
+		"présent": {
+			"je": "décerne",
+			"tu": "décernes",
+			"il/elle": "décerne",
+			"nous": "décernons",
+			"vous": "décernez",
+			"ils/elles": "décernent"
+		},
+		"imparfait": {
+			"je": "décernais",
+			"tu": "décernais",
+			"il/elle": "décernait",
+			"nous": "décernions",
+			"vous": "décerniez",
+			"ils/elles": "décernaient"
+		},
+		"futur": {
+			"je": "décernerai",
+			"tu": "décerneras",
+			"il/elle": "décernera",
+			"nous": "décernerons",
+			"vous": "décernerez",
+			"ils/elles": "décerneront"
+		},
+		"passé simple": {
+			"je": "décernai",
+			"tu": "décernas",
+			"il/elle": "décerna",
+			"nous": "décernâmes",
+			"vous": "décernâtes",
+			"ils/elles": "décernèrent"
+		},
+		"passé composé": {
+			"j'": "ai décerné",
+			"tu": "as décerné",
+			"il/elle": "a décerné",
+			"nous": "avons décerné",
+			"vous": "avez décerné",
+			"ils/elles": "ont décerné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais décerné",
+			"tu": "avais décerné",
+			"il/elle": "avait décerné",
+			"nous": "avions décerné",
+			"vous": "aviez décerné",
+			"ils/elles": "avaient décerné"
+		},
+		"passé antérieur": {
+			"j'": "eus décerné",
+			"tu": "eus décerné",
+			"il/elle": "eut décerné",
+			"nous": "eûmes décerné",
+			"vous": "eûtes décerné",
+			"ils/elles": "eurent décerné"
+		},
+		"futur antérieur": {
+			"j'": "aurai décerné",
+			"tu": "auras décerné",
+			"il/elle": "aura décerné",
+			"nous": "aurons décerné",
+			"vous": "aurez décerné",
+			"ils/elles": "auront décerné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous décerniez",
+			"qu'il/elle": "décerne",
+			"qu'ils/elles": "décernent"
+		},
+		"imparfait": {
+			"que": "vous décernassiez",
+			"qu'il/elle": "décernât",
+			"qu'ils/elles": "décernassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse décerné",
+			"que": "vous eussiez décerné",
+			"qu'il/elle": "eût décerné",
+			"qu'ils/elles": "eussent décerné"
+		},
+		"passé": {
+			"j'": "aie décerné",
+			"que": "vous ayez décerné",
+			"qu'il/elle": "ait décerné",
+			"qu'ils/elles": "aient décerné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "décernerais",
+			"tu": "décernerais",
+			"il/elle": "décernerait",
+			"nous": "décernerions",
+			"vous": "décerneriez",
+			"ils/elles": "décerneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais décerné",
+			"tu": "aurais décerné",
+			"il/elle": "aurait décerné",
+			"nous": "aurions décerné",
+			"vous": "auriez décerné",
+			"ils/elles": "auraient décerné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse décerné",
+			"tu": "eusses décerné",
+			"il/elle": "eût décerné",
+			"nous": "eussions décerné",
+			"vous": "eussiez décerné",
+			"ils/elles": "eussent décerné"
+		}
+	},
+	"participe": {
+		"présent": { "décernant": "" },
+		"passé composé": { "ayant": "décerné" },
+		"passé": {
+			"masc.sg.:": "décerné",
+			"masc.pl.:": "décernés",
+			"fém.sg.:": "décernée",
+			"fém.pl.:": "décernées"
+		}
+	},
+	"imperatif": {
+		"présent": { "décerne": "", "décernons": "", "décernez": "" },
+		"passé": { "aie": "décerné", "ayons": "décerné", "ayez": "décerné" }
+	},
+	"infinitif": {
+		"présent": { "décerner": "" },
+		"passé": { "avoir": "décerné" }
+	}
+}

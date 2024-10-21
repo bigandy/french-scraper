@@ -1,0 +1,141 @@
+{
+	"name": "solidifier",
+	"definition": "solidify; strengthen; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se solidifier/ne pas solidifier/ne pas se solidifier",
+	"indicatif": {
+		"présent": {
+			"je": "solidifie",
+			"tu": "solidifies",
+			"il/elle": "solidifie",
+			"nous": "solidifions",
+			"vous": "solidifiez",
+			"ils/elles": "solidifient"
+		},
+		"imparfait": {
+			"je": "solidifiais",
+			"tu": "solidifiais",
+			"il/elle": "solidifiait",
+			"nous": "solidifiions",
+			"vous": "solidifiiez",
+			"ils/elles": "solidifiaient"
+		},
+		"futur": {
+			"je": "solidifierai",
+			"tu": "solidifieras",
+			"il/elle": "solidifiera",
+			"nous": "solidifierons",
+			"vous": "solidifierez",
+			"ils/elles": "solidifieront"
+		},
+		"passé simple": {
+			"je": "solidifiai",
+			"tu": "solidifias",
+			"il/elle": "solidifia",
+			"nous": "solidifiâmes",
+			"vous": "solidifiâtes",
+			"ils/elles": "solidifièrent"
+		},
+		"passé composé": {
+			"j'": "ai solidifié",
+			"tu": "as solidifié",
+			"il/elle": "a solidifié",
+			"nous": "avons solidifié",
+			"vous": "avez solidifié",
+			"ils/elles": "ont solidifié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais solidifié",
+			"tu": "avais solidifié",
+			"il/elle": "avait solidifié",
+			"nous": "avions solidifié",
+			"vous": "aviez solidifié",
+			"ils/elles": "avaient solidifié"
+		},
+		"passé antérieur": {
+			"j'": "eus solidifié",
+			"tu": "eus solidifié",
+			"il/elle": "eut solidifié",
+			"nous": "eûmes solidifié",
+			"vous": "eûtes solidifié",
+			"ils/elles": "eurent solidifié"
+		},
+		"futur antérieur": {
+			"j'": "aurai solidifié",
+			"tu": "auras solidifié",
+			"il/elle": "aura solidifié",
+			"nous": "aurons solidifié",
+			"vous": "aurez solidifié",
+			"ils/elles": "auront solidifié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous solidifiiez",
+			"qu'il/elle": "solidifie",
+			"qu'ils/elles": "solidifient"
+		},
+		"imparfait": {
+			"que": "vous solidifiassiez",
+			"qu'il/elle": "solidifiât",
+			"qu'ils/elles": "solidifiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse solidifié",
+			"que": "vous eussiez solidifié",
+			"qu'il/elle": "eût solidifié",
+			"qu'ils/elles": "eussent solidifié"
+		},
+		"passé": {
+			"j'": "aie solidifié",
+			"que": "vous ayez solidifié",
+			"qu'il/elle": "ait solidifié",
+			"qu'ils/elles": "aient solidifié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "solidifierais",
+			"tu": "solidifierais",
+			"il/elle": "solidifierait",
+			"nous": "solidifierions",
+			"vous": "solidifieriez",
+			"ils/elles": "solidifieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais solidifié",
+			"tu": "aurais solidifié",
+			"il/elle": "aurait solidifié",
+			"nous": "aurions solidifié",
+			"vous": "auriez solidifié",
+			"ils/elles": "auraient solidifié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse solidifié",
+			"tu": "eusses solidifié",
+			"il/elle": "eût solidifié",
+			"nous": "eussions solidifié",
+			"vous": "eussiez solidifié",
+			"ils/elles": "eussent solidifié"
+		}
+	},
+	"participe": {
+		"présent": { "solidifiant": "" },
+		"passé composé": { "ayant": "solidifié" },
+		"passé": {
+			"masc.sg.:": "solidifié",
+			"masc.pl.:": "solidifiés",
+			"fém.sg.:": "solidifiée",
+			"fém.pl.:": "solidifiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "solidifie": "", "solidifions": "", "solidifiez": "" },
+		"passé": { "aie": "solidifié", "ayons": "solidifié", "ayez": "solidifié" }
+	},
+	"infinitif": {
+		"présent": { "solidifier": "" },
+		"passé": { "avoir": "solidifié" }
+	}
+}

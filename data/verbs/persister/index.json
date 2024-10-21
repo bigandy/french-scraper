@@ -1,0 +1,141 @@
+{
+	"name": "persister",
+	"definition": "persist; continue; last; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se persister/ne pas persister/ne pas se persister",
+	"indicatif": {
+		"présent": {
+			"je": "persiste",
+			"tu": "persistes",
+			"il/elle": "persiste",
+			"nous": "persistons",
+			"vous": "persistez",
+			"ils/elles": "persistent"
+		},
+		"imparfait": {
+			"je": "persistais",
+			"tu": "persistais",
+			"il/elle": "persistait",
+			"nous": "persistions",
+			"vous": "persistiez",
+			"ils/elles": "persistaient"
+		},
+		"futur": {
+			"je": "persisterai",
+			"tu": "persisteras",
+			"il/elle": "persistera",
+			"nous": "persisterons",
+			"vous": "persisterez",
+			"ils/elles": "persisteront"
+		},
+		"passé simple": {
+			"je": "persistai",
+			"tu": "persistas",
+			"il/elle": "persista",
+			"nous": "persistâmes",
+			"vous": "persistâtes",
+			"ils/elles": "persistèrent"
+		},
+		"passé composé": {
+			"j'": "ai persisté",
+			"tu": "as persisté",
+			"il/elle": "a persisté",
+			"nous": "avons persisté",
+			"vous": "avez persisté",
+			"ils/elles": "ont persisté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais persisté",
+			"tu": "avais persisté",
+			"il/elle": "avait persisté",
+			"nous": "avions persisté",
+			"vous": "aviez persisté",
+			"ils/elles": "avaient persisté"
+		},
+		"passé antérieur": {
+			"j'": "eus persisté",
+			"tu": "eus persisté",
+			"il/elle": "eut persisté",
+			"nous": "eûmes persisté",
+			"vous": "eûtes persisté",
+			"ils/elles": "eurent persisté"
+		},
+		"futur antérieur": {
+			"j'": "aurai persisté",
+			"tu": "auras persisté",
+			"il/elle": "aura persisté",
+			"nous": "aurons persisté",
+			"vous": "aurez persisté",
+			"ils/elles": "auront persisté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous persistiez",
+			"qu'il/elle": "persiste",
+			"qu'ils/elles": "persistent"
+		},
+		"imparfait": {
+			"que": "vous persistassiez",
+			"qu'il/elle": "persistât",
+			"qu'ils/elles": "persistassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse persisté",
+			"que": "vous eussiez persisté",
+			"qu'il/elle": "eût persisté",
+			"qu'ils/elles": "eussent persisté"
+		},
+		"passé": {
+			"j'": "aie persisté",
+			"que": "vous ayez persisté",
+			"qu'il/elle": "ait persisté",
+			"qu'ils/elles": "aient persisté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "persisterais",
+			"tu": "persisterais",
+			"il/elle": "persisterait",
+			"nous": "persisterions",
+			"vous": "persisteriez",
+			"ils/elles": "persisteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais persisté",
+			"tu": "aurais persisté",
+			"il/elle": "aurait persisté",
+			"nous": "aurions persisté",
+			"vous": "auriez persisté",
+			"ils/elles": "auraient persisté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse persisté",
+			"tu": "eusses persisté",
+			"il/elle": "eût persisté",
+			"nous": "eussions persisté",
+			"vous": "eussiez persisté",
+			"ils/elles": "eussent persisté"
+		}
+	},
+	"participe": {
+		"présent": { "persistant": "" },
+		"passé composé": { "ayant": "persisté" },
+		"passé": {
+			"masc.sg.:": "persisté",
+			"masc.pl.:": "persistés",
+			"fém.sg.:": "persistée",
+			"fém.pl.:": "persistées"
+		}
+	},
+	"imperatif": {
+		"présent": { "persiste": "", "persistons": "", "persistez": "" },
+		"passé": { "aie": "persisté", "ayons": "persisté", "ayez": "persisté" }
+	},
+	"infinitif": {
+		"présent": { "persister": "" },
+		"passé": { "avoir": "persisté" }
+	}
+}

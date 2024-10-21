@@ -1,0 +1,138 @@
+{
+	"name": "radier",
+	"definition": "write off; remove; disbar; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se radier/ne pas radier/ne pas se radier",
+	"indicatif": {
+		"présent": {
+			"je": "radie",
+			"tu": "radies",
+			"il/elle": "radie",
+			"nous": "radions",
+			"vous": "radiez",
+			"ils/elles": "radient"
+		},
+		"imparfait": {
+			"je": "radiais",
+			"tu": "radiais",
+			"il/elle": "radiait",
+			"nous": "radiions",
+			"vous": "radiiez",
+			"ils/elles": "radiaient"
+		},
+		"futur": {
+			"je": "radierai",
+			"tu": "radieras",
+			"il/elle": "radiera",
+			"nous": "radierons",
+			"vous": "radierez",
+			"ils/elles": "radieront"
+		},
+		"passé simple": {
+			"je": "radiai",
+			"tu": "radias",
+			"il/elle": "radia",
+			"nous": "radiâmes",
+			"vous": "radiâtes",
+			"ils/elles": "radièrent"
+		},
+		"passé composé": {
+			"j'": "ai radié",
+			"tu": "as radié",
+			"il/elle": "a radié",
+			"nous": "avons radié",
+			"vous": "avez radié",
+			"ils/elles": "ont radié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais radié",
+			"tu": "avais radié",
+			"il/elle": "avait radié",
+			"nous": "avions radié",
+			"vous": "aviez radié",
+			"ils/elles": "avaient radié"
+		},
+		"passé antérieur": {
+			"j'": "eus radié",
+			"tu": "eus radié",
+			"il/elle": "eut radié",
+			"nous": "eûmes radié",
+			"vous": "eûtes radié",
+			"ils/elles": "eurent radié"
+		},
+		"futur antérieur": {
+			"j'": "aurai radié",
+			"tu": "auras radié",
+			"il/elle": "aura radié",
+			"nous": "aurons radié",
+			"vous": "aurez radié",
+			"ils/elles": "auront radié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous radiiez",
+			"qu'il/elle": "radie",
+			"qu'ils/elles": "radient"
+		},
+		"imparfait": {
+			"que": "vous radiassiez",
+			"qu'il/elle": "radiât",
+			"qu'ils/elles": "radiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse radié",
+			"que": "vous eussiez radié",
+			"qu'il/elle": "eût radié",
+			"qu'ils/elles": "eussent radié"
+		},
+		"passé": {
+			"j'": "aie radié",
+			"que": "vous ayez radié",
+			"qu'il/elle": "ait radié",
+			"qu'ils/elles": "aient radié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "radierais",
+			"tu": "radierais",
+			"il/elle": "radierait",
+			"nous": "radierions",
+			"vous": "radieriez",
+			"ils/elles": "radieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais radié",
+			"tu": "aurais radié",
+			"il/elle": "aurait radié",
+			"nous": "aurions radié",
+			"vous": "auriez radié",
+			"ils/elles": "auraient radié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse radié",
+			"tu": "eusses radié",
+			"il/elle": "eût radié",
+			"nous": "eussions radié",
+			"vous": "eussiez radié",
+			"ils/elles": "eussent radié"
+		}
+	},
+	"participe": {
+		"présent": { "radiant": "" },
+		"passé composé": { "ayant": "radié" },
+		"passé": {
+			"masc.sg.:": "radié",
+			"masc.pl.:": "radiés",
+			"fém.sg.:": "radiée",
+			"fém.pl.:": "radiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "radie": "", "radions": "", "radiez": "" },
+		"passé": { "aie": "radié", "ayons": "radié", "ayez": "radié" }
+	},
+	"infinitif": { "présent": { "radier": "" }, "passé": { "avoir": "radié" } }
+}

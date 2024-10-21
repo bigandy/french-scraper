@@ -1,0 +1,149 @@
+{
+	"name": "radiodiffuser",
+	"definition": "broadcast; radiocast; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se radiodiffuser/ne pas radiodiffuser/ne pas se radiodiffuser",
+	"indicatif": {
+		"présent": {
+			"je": "radiodiffuse",
+			"tu": "radiodiffuses",
+			"il/elle": "radiodiffuse",
+			"nous": "radiodiffusons",
+			"vous": "radiodiffusez",
+			"ils/elles": "radiodiffusent"
+		},
+		"imparfait": {
+			"je": "radiodiffusais",
+			"tu": "radiodiffusais",
+			"il/elle": "radiodiffusait",
+			"nous": "radiodiffusions",
+			"vous": "radiodiffusiez",
+			"ils/elles": "radiodiffusaient"
+		},
+		"futur": {
+			"je": "radiodiffuserai",
+			"tu": "radiodiffuseras",
+			"il/elle": "radiodiffusera",
+			"nous": "radiodiffuserons",
+			"vous": "radiodiffuserez",
+			"ils/elles": "radiodiffuseront"
+		},
+		"passé simple": {
+			"je": "radiodiffusai",
+			"tu": "radiodiffusas",
+			"il/elle": "radiodiffusa",
+			"nous": "radiodiffusâmes",
+			"vous": "radiodiffusâtes",
+			"ils/elles": "radiodiffusèrent"
+		},
+		"passé composé": {
+			"j'": "ai radiodiffusé",
+			"tu": "as radiodiffusé",
+			"il/elle": "a radiodiffusé",
+			"nous": "avons radiodiffusé",
+			"vous": "avez radiodiffusé",
+			"ils/elles": "ont radiodiffusé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais radiodiffusé",
+			"tu": "avais radiodiffusé",
+			"il/elle": "avait radiodiffusé",
+			"nous": "avions radiodiffusé",
+			"vous": "aviez radiodiffusé",
+			"ils/elles": "avaient radiodiffusé"
+		},
+		"passé antérieur": {
+			"j'": "eus radiodiffusé",
+			"tu": "eus radiodiffusé",
+			"il/elle": "eut radiodiffusé",
+			"nous": "eûmes radiodiffusé",
+			"vous": "eûtes radiodiffusé",
+			"ils/elles": "eurent radiodiffusé"
+		},
+		"futur antérieur": {
+			"j'": "aurai radiodiffusé",
+			"tu": "auras radiodiffusé",
+			"il/elle": "aura radiodiffusé",
+			"nous": "aurons radiodiffusé",
+			"vous": "aurez radiodiffusé",
+			"ils/elles": "auront radiodiffusé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous radiodiffusiez",
+			"qu'il/elle": "radiodiffuse",
+			"qu'ils/elles": "radiodiffusent"
+		},
+		"imparfait": {
+			"que": "vous radiodiffusassiez",
+			"qu'il/elle": "radiodiffusât",
+			"qu'ils/elles": "radiodiffusassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse radiodiffusé",
+			"que": "vous eussiez radiodiffusé",
+			"qu'il/elle": "eût radiodiffusé",
+			"qu'ils/elles": "eussent radiodiffusé"
+		},
+		"passé": {
+			"j'": "aie radiodiffusé",
+			"que": "vous ayez radiodiffusé",
+			"qu'il/elle": "ait radiodiffusé",
+			"qu'ils/elles": "aient radiodiffusé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "radiodiffuserais",
+			"tu": "radiodiffuserais",
+			"il/elle": "radiodiffuserait",
+			"nous": "radiodiffuserions",
+			"vous": "radiodiffuseriez",
+			"ils/elles": "radiodiffuseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais radiodiffusé",
+			"tu": "aurais radiodiffusé",
+			"il/elle": "aurait radiodiffusé",
+			"nous": "aurions radiodiffusé",
+			"vous": "auriez radiodiffusé",
+			"ils/elles": "auraient radiodiffusé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse radiodiffusé",
+			"tu": "eusses radiodiffusé",
+			"il/elle": "eût radiodiffusé",
+			"nous": "eussions radiodiffusé",
+			"vous": "eussiez radiodiffusé",
+			"ils/elles": "eussent radiodiffusé"
+		}
+	},
+	"participe": {
+		"présent": { "radiodiffusant": "" },
+		"passé composé": { "ayant": "radiodiffusé" },
+		"passé": {
+			"masc.sg.:": "radiodiffusé",
+			"masc.pl.:": "radiodiffusés",
+			"fém.sg.:": "radiodiffusée",
+			"fém.pl.:": "radiodiffusées"
+		}
+	},
+	"imperatif": {
+		"présent": {
+			"radiodiffuse": "",
+			"radiodiffusons": "",
+			"radiodiffusez": ""
+		},
+		"passé": {
+			"aie": "radiodiffusé",
+			"ayons": "radiodiffusé",
+			"ayez": "radiodiffusé"
+		}
+	},
+	"infinitif": {
+		"présent": { "radiodiffuser": "" },
+		"passé": { "avoir": "radiodiffusé" }
+	}
+}

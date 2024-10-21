@@ -1,0 +1,141 @@
+{
+	"name": "subdiviser",
+	"definition": "subdivide; divide; sub-divide; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se subdiviser/ne pas subdiviser/ne pas se subdiviser",
+	"indicatif": {
+		"présent": {
+			"je": "subdivise",
+			"tu": "subdivises",
+			"il/elle": "subdivise",
+			"nous": "subdivisons",
+			"vous": "subdivisez",
+			"ils/elles": "subdivisent"
+		},
+		"imparfait": {
+			"je": "subdivisais",
+			"tu": "subdivisais",
+			"il/elle": "subdivisait",
+			"nous": "subdivisions",
+			"vous": "subdivisiez",
+			"ils/elles": "subdivisaient"
+		},
+		"futur": {
+			"je": "subdiviserai",
+			"tu": "subdiviseras",
+			"il/elle": "subdivisera",
+			"nous": "subdiviserons",
+			"vous": "subdiviserez",
+			"ils/elles": "subdiviseront"
+		},
+		"passé simple": {
+			"je": "subdivisai",
+			"tu": "subdivisas",
+			"il/elle": "subdivisa",
+			"nous": "subdivisâmes",
+			"vous": "subdivisâtes",
+			"ils/elles": "subdivisèrent"
+		},
+		"passé composé": {
+			"j'": "ai subdivisé",
+			"tu": "as subdivisé",
+			"il/elle": "a subdivisé",
+			"nous": "avons subdivisé",
+			"vous": "avez subdivisé",
+			"ils/elles": "ont subdivisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais subdivisé",
+			"tu": "avais subdivisé",
+			"il/elle": "avait subdivisé",
+			"nous": "avions subdivisé",
+			"vous": "aviez subdivisé",
+			"ils/elles": "avaient subdivisé"
+		},
+		"passé antérieur": {
+			"j'": "eus subdivisé",
+			"tu": "eus subdivisé",
+			"il/elle": "eut subdivisé",
+			"nous": "eûmes subdivisé",
+			"vous": "eûtes subdivisé",
+			"ils/elles": "eurent subdivisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai subdivisé",
+			"tu": "auras subdivisé",
+			"il/elle": "aura subdivisé",
+			"nous": "aurons subdivisé",
+			"vous": "aurez subdivisé",
+			"ils/elles": "auront subdivisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous subdivisiez",
+			"qu'il/elle": "subdivise",
+			"qu'ils/elles": "subdivisent"
+		},
+		"imparfait": {
+			"que": "vous subdivisassiez",
+			"qu'il/elle": "subdivisât",
+			"qu'ils/elles": "subdivisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse subdivisé",
+			"que": "vous eussiez subdivisé",
+			"qu'il/elle": "eût subdivisé",
+			"qu'ils/elles": "eussent subdivisé"
+		},
+		"passé": {
+			"j'": "aie subdivisé",
+			"que": "vous ayez subdivisé",
+			"qu'il/elle": "ait subdivisé",
+			"qu'ils/elles": "aient subdivisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "subdiviserais",
+			"tu": "subdiviserais",
+			"il/elle": "subdiviserait",
+			"nous": "subdiviserions",
+			"vous": "subdiviseriez",
+			"ils/elles": "subdiviseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais subdivisé",
+			"tu": "aurais subdivisé",
+			"il/elle": "aurait subdivisé",
+			"nous": "aurions subdivisé",
+			"vous": "auriez subdivisé",
+			"ils/elles": "auraient subdivisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse subdivisé",
+			"tu": "eusses subdivisé",
+			"il/elle": "eût subdivisé",
+			"nous": "eussions subdivisé",
+			"vous": "eussiez subdivisé",
+			"ils/elles": "eussent subdivisé"
+		}
+	},
+	"participe": {
+		"présent": { "subdivisant": "" },
+		"passé composé": { "ayant": "subdivisé" },
+		"passé": {
+			"masc.sg.:": "subdivisé",
+			"masc.pl.:": "subdivisés",
+			"fém.sg.:": "subdivisée",
+			"fém.pl.:": "subdivisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "subdivise": "", "subdivisons": "", "subdivisez": "" },
+		"passé": { "aie": "subdivisé", "ayons": "subdivisé", "ayez": "subdivisé" }
+	},
+	"infinitif": {
+		"présent": { "subdiviser": "" },
+		"passé": { "avoir": "subdivisé" }
+	}
+}

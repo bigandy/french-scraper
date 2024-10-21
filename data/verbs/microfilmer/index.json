@@ -1,0 +1,145 @@
+{
+	"name": "microfilmer",
+	"definition": "microfilm; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas microfilmer",
+	"indicatif": {
+		"présent": {
+			"je": "microfilme",
+			"tu": "microfilmes",
+			"il/elle": "microfilme",
+			"nous": "microfilmons",
+			"vous": "microfilmez",
+			"ils/elles": "microfilment"
+		},
+		"imparfait": {
+			"je": "microfilmais",
+			"tu": "microfilmais",
+			"il/elle": "microfilmait",
+			"nous": "microfilmions",
+			"vous": "microfilmiez",
+			"ils/elles": "microfilmaient"
+		},
+		"futur": {
+			"je": "microfilmerai",
+			"tu": "microfilmeras",
+			"il/elle": "microfilmera",
+			"nous": "microfilmerons",
+			"vous": "microfilmerez",
+			"ils/elles": "microfilmeront"
+		},
+		"passé simple": {
+			"je": "microfilmai",
+			"tu": "microfilmas",
+			"il/elle": "microfilma",
+			"nous": "microfilmâmes",
+			"vous": "microfilmâtes",
+			"ils/elles": "microfilmèrent"
+		},
+		"passé composé": {
+			"j'": "ai microfilmé",
+			"tu": "as microfilmé",
+			"il/elle": "a microfilmé",
+			"nous": "avons microfilmé",
+			"vous": "avez microfilmé",
+			"ils/elles": "ont microfilmé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais microfilmé",
+			"tu": "avais microfilmé",
+			"il/elle": "avait microfilmé",
+			"nous": "avions microfilmé",
+			"vous": "aviez microfilmé",
+			"ils/elles": "avaient microfilmé"
+		},
+		"passé antérieur": {
+			"j'": "eus microfilmé",
+			"tu": "eus microfilmé",
+			"il/elle": "eut microfilmé",
+			"nous": "eûmes microfilmé",
+			"vous": "eûtes microfilmé",
+			"ils/elles": "eurent microfilmé"
+		},
+		"futur antérieur": {
+			"j'": "aurai microfilmé",
+			"tu": "auras microfilmé",
+			"il/elle": "aura microfilmé",
+			"nous": "aurons microfilmé",
+			"vous": "aurez microfilmé",
+			"ils/elles": "auront microfilmé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous microfilmiez",
+			"qu'il/elle": "microfilme",
+			"qu'ils/elles": "microfilment"
+		},
+		"imparfait": {
+			"que": "vous microfilmassiez",
+			"qu'il/elle": "microfilmât",
+			"qu'ils/elles": "microfilmassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse microfilmé",
+			"que": "vous eussiez microfilmé",
+			"qu'il/elle": "eût microfilmé",
+			"qu'ils/elles": "eussent microfilmé"
+		},
+		"passé": {
+			"j'": "aie microfilmé",
+			"que": "vous ayez microfilmé",
+			"qu'il/elle": "ait microfilmé",
+			"qu'ils/elles": "aient microfilmé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "microfilmerais",
+			"tu": "microfilmerais",
+			"il/elle": "microfilmerait",
+			"nous": "microfilmerions",
+			"vous": "microfilmeriez",
+			"ils/elles": "microfilmeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais microfilmé",
+			"tu": "aurais microfilmé",
+			"il/elle": "aurait microfilmé",
+			"nous": "aurions microfilmé",
+			"vous": "auriez microfilmé",
+			"ils/elles": "auraient microfilmé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse microfilmé",
+			"tu": "eusses microfilmé",
+			"il/elle": "eût microfilmé",
+			"nous": "eussions microfilmé",
+			"vous": "eussiez microfilmé",
+			"ils/elles": "eussent microfilmé"
+		}
+	},
+	"participe": {
+		"présent": { "microfilmant": "" },
+		"passé composé": { "ayant": "microfilmé" },
+		"passé": {
+			"masc.sg.:": "microfilmé",
+			"masc.pl.:": "microfilmés",
+			"fém.sg.:": "microfilmée",
+			"fém.pl.:": "microfilmées"
+		}
+	},
+	"imperatif": {
+		"présent": { "microfilme": "", "microfilmons": "", "microfilmez": "" },
+		"passé": {
+			"aie": "microfilmé",
+			"ayons": "microfilmé",
+			"ayez": "microfilmé"
+		}
+	},
+	"infinitif": {
+		"présent": { "microfilmer": "" },
+		"passé": { "avoir": "microfilmé" }
+	}
+}

@@ -1,0 +1,140 @@
+{
+	"name": "amender",
+	"definition": "amend; reform; make amends; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'amender/ne pas amender/ne pas s'amender",
+	"indicatif": {
+		"présent": {
+			"j'": "amende",
+			"tu": "amendes",
+			"il/elle": "amende",
+			"nous": "amendons",
+			"vous": "amendez",
+			"ils/elles": "amendent"
+		},
+		"imparfait": {
+			"j'": "amendais",
+			"tu": "amendais",
+			"il/elle": "amendait",
+			"nous": "amendions",
+			"vous": "amendiez",
+			"ils/elles": "amendaient"
+		},
+		"futur": {
+			"j'": "amenderai",
+			"tu": "amenderas",
+			"il/elle": "amendera",
+			"nous": "amenderons",
+			"vous": "amenderez",
+			"ils/elles": "amenderont"
+		},
+		"passé simple": {
+			"j'": "amendai",
+			"tu": "amendas",
+			"il/elle": "amenda",
+			"nous": "amendâmes",
+			"vous": "amendâtes",
+			"ils/elles": "amendèrent"
+		},
+		"passé composé": {
+			"j'": "ai amendé",
+			"tu": "as amendé",
+			"il/elle": "a amendé",
+			"nous": "avons amendé",
+			"vous": "avez amendé",
+			"ils/elles": "ont amendé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais amendé",
+			"tu": "avais amendé",
+			"il/elle": "avait amendé",
+			"nous": "avions amendé",
+			"vous": "aviez amendé",
+			"ils/elles": "avaient amendé"
+		},
+		"passé antérieur": {
+			"j'": "eus amendé",
+			"tu": "eus amendé",
+			"il/elle": "eut amendé",
+			"nous": "eûmes amendé",
+			"vous": "eûtes amendé",
+			"ils/elles": "eurent amendé"
+		},
+		"futur antérieur": {
+			"j'": "aurai amendé",
+			"tu": "auras amendé",
+			"il/elle": "aura amendé",
+			"nous": "aurons amendé",
+			"vous": "aurez amendé",
+			"ils/elles": "auront amendé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "amende",
+			"que": "vous amendiez",
+			"qu'il/elle": "amende",
+			"qu'ils/elles": "amendent"
+		},
+		"imparfait": {
+			"j'": "amendasse",
+			"que": "vous amendassiez",
+			"qu'il/elle": "amendât",
+			"qu'ils/elles": "amendassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse amendé",
+			"que": "vous eussiez amendé",
+			"qu'il/elle": "eût amendé",
+			"qu'ils/elles": "eussent amendé"
+		},
+		"passé": {
+			"j'": "aie amendé",
+			"que": "vous ayez amendé",
+			"qu'il/elle": "ait amendé",
+			"qu'ils/elles": "aient amendé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "amenderais",
+			"tu": "amenderais",
+			"il/elle": "amenderait",
+			"nous": "amenderions",
+			"vous": "amenderiez",
+			"ils/elles": "amenderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais amendé",
+			"tu": "aurais amendé",
+			"il/elle": "aurait amendé",
+			"nous": "aurions amendé",
+			"vous": "auriez amendé",
+			"ils/elles": "auraient amendé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse amendé",
+			"tu": "eusses amendé",
+			"il/elle": "eût amendé",
+			"nous": "eussions amendé",
+			"vous": "eussiez amendé",
+			"ils/elles": "eussent amendé"
+		}
+	},
+	"participe": {
+		"présent": { "amendant": "" },
+		"passé composé": { "ayant": "amendé" },
+		"passé": {
+			"masc.sg.:": "amendé",
+			"masc.pl.:": "amendés",
+			"fém.sg.:": "amendée",
+			"fém.pl.:": "amendées"
+		}
+	},
+	"imperatif": {
+		"présent": { "amende": "", "amendons": "", "amendez": "" },
+		"passé": { "aie": "amendé", "ayons": "amendé", "ayez": "amendé" }
+	},
+	"infinitif": { "présent": { "amender": "" }, "passé": { "avoir": "amendé" } }
+}

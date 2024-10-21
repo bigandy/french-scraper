@@ -1,0 +1,147 @@
+{
+	"name": "embarrasser",
+	"definition": "embarrass; perplex; entangle; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'embarrasser/ne pas embarrasser/ne pas s'embarrasser",
+	"indicatif": {
+		"présent": {
+			"j'": "embarrasse",
+			"tu": "embarrasses",
+			"il/elle": "embarrasse",
+			"nous": "embarrassons",
+			"vous": "embarrassez",
+			"ils/elles": "embarrassent"
+		},
+		"imparfait": {
+			"j'": "embarrassais",
+			"tu": "embarrassais",
+			"il/elle": "embarrassait",
+			"nous": "embarrassions",
+			"vous": "embarrassiez",
+			"ils/elles": "embarrassaient"
+		},
+		"futur": {
+			"j'": "embarrasserai",
+			"tu": "embarrasseras",
+			"il/elle": "embarrassera",
+			"nous": "embarrasserons",
+			"vous": "embarrasserez",
+			"ils/elles": "embarrasseront"
+		},
+		"passé simple": {
+			"j'": "embarrassai",
+			"tu": "embarrassas",
+			"il/elle": "embarrassa",
+			"nous": "embarrassâmes",
+			"vous": "embarrassâtes",
+			"ils/elles": "embarrassèrent"
+		},
+		"passé composé": {
+			"j'": "ai embarrassé",
+			"tu": "as embarrassé",
+			"il/elle": "a embarrassé",
+			"nous": "avons embarrassé",
+			"vous": "avez embarrassé",
+			"ils/elles": "ont embarrassé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais embarrassé",
+			"tu": "avais embarrassé",
+			"il/elle": "avait embarrassé",
+			"nous": "avions embarrassé",
+			"vous": "aviez embarrassé",
+			"ils/elles": "avaient embarrassé"
+		},
+		"passé antérieur": {
+			"j'": "eus embarrassé",
+			"tu": "eus embarrassé",
+			"il/elle": "eut embarrassé",
+			"nous": "eûmes embarrassé",
+			"vous": "eûtes embarrassé",
+			"ils/elles": "eurent embarrassé"
+		},
+		"futur antérieur": {
+			"j'": "aurai embarrassé",
+			"tu": "auras embarrassé",
+			"il/elle": "aura embarrassé",
+			"nous": "aurons embarrassé",
+			"vous": "aurez embarrassé",
+			"ils/elles": "auront embarrassé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "embarrasse",
+			"que": "vous embarrassiez",
+			"qu'il/elle": "embarrasse",
+			"qu'ils/elles": "embarrassent"
+		},
+		"imparfait": {
+			"j'": "embarrassasse",
+			"que": "vous embarrassassiez",
+			"qu'il/elle": "embarrassât",
+			"qu'ils/elles": "embarrassassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse embarrassé",
+			"que": "vous eussiez embarrassé",
+			"qu'il/elle": "eût embarrassé",
+			"qu'ils/elles": "eussent embarrassé"
+		},
+		"passé": {
+			"j'": "aie embarrassé",
+			"que": "vous ayez embarrassé",
+			"qu'il/elle": "ait embarrassé",
+			"qu'ils/elles": "aient embarrassé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "embarrasserais",
+			"tu": "embarrasserais",
+			"il/elle": "embarrasserait",
+			"nous": "embarrasserions",
+			"vous": "embarrasseriez",
+			"ils/elles": "embarrasseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais embarrassé",
+			"tu": "aurais embarrassé",
+			"il/elle": "aurait embarrassé",
+			"nous": "aurions embarrassé",
+			"vous": "auriez embarrassé",
+			"ils/elles": "auraient embarrassé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse embarrassé",
+			"tu": "eusses embarrassé",
+			"il/elle": "eût embarrassé",
+			"nous": "eussions embarrassé",
+			"vous": "eussiez embarrassé",
+			"ils/elles": "eussent embarrassé"
+		}
+	},
+	"participe": {
+		"présent": { "embarrassant": "" },
+		"passé composé": { "ayant": "embarrassé" },
+		"passé": {
+			"masc.sg.:": "embarrassé",
+			"masc.pl.:": "embarrassés",
+			"fém.sg.:": "embarrassée",
+			"fém.pl.:": "embarrassées"
+		}
+	},
+	"imperatif": {
+		"présent": { "embarrasse": "", "embarrassons": "", "embarrassez": "" },
+		"passé": {
+			"aie": "embarrassé",
+			"ayons": "embarrassé",
+			"ayez": "embarrassé"
+		}
+	},
+	"infinitif": {
+		"présent": { "embarrasser": "" },
+		"passé": { "avoir": "embarrassé" }
+	}
+}

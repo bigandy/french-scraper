@@ -1,0 +1,143 @@
+{
+	"name": "inspecter",
+	"definition": "inspect; examine; check out; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'inspecter/ne pas inspecter/ne pas s'inspecter",
+	"indicatif": {
+		"présent": {
+			"j'": "inspecte",
+			"tu": "inspectes",
+			"il/elle": "inspecte",
+			"nous": "inspectons",
+			"vous": "inspectez",
+			"ils/elles": "inspectent"
+		},
+		"imparfait": {
+			"j'": "inspectais",
+			"tu": "inspectais",
+			"il/elle": "inspectait",
+			"nous": "inspections",
+			"vous": "inspectiez",
+			"ils/elles": "inspectaient"
+		},
+		"futur": {
+			"j'": "inspecterai",
+			"tu": "inspecteras",
+			"il/elle": "inspectera",
+			"nous": "inspecterons",
+			"vous": "inspecterez",
+			"ils/elles": "inspecteront"
+		},
+		"passé simple": {
+			"j'": "inspectai",
+			"tu": "inspectas",
+			"il/elle": "inspecta",
+			"nous": "inspectâmes",
+			"vous": "inspectâtes",
+			"ils/elles": "inspectèrent"
+		},
+		"passé composé": {
+			"j'": "ai inspecté",
+			"tu": "as inspecté",
+			"il/elle": "a inspecté",
+			"nous": "avons inspecté",
+			"vous": "avez inspecté",
+			"ils/elles": "ont inspecté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais inspecté",
+			"tu": "avais inspecté",
+			"il/elle": "avait inspecté",
+			"nous": "avions inspecté",
+			"vous": "aviez inspecté",
+			"ils/elles": "avaient inspecté"
+		},
+		"passé antérieur": {
+			"j'": "eus inspecté",
+			"tu": "eus inspecté",
+			"il/elle": "eut inspecté",
+			"nous": "eûmes inspecté",
+			"vous": "eûtes inspecté",
+			"ils/elles": "eurent inspecté"
+		},
+		"futur antérieur": {
+			"j'": "aurai inspecté",
+			"tu": "auras inspecté",
+			"il/elle": "aura inspecté",
+			"nous": "aurons inspecté",
+			"vous": "aurez inspecté",
+			"ils/elles": "auront inspecté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "inspecte",
+			"que": "vous inspectiez",
+			"qu'il/elle": "inspecte",
+			"qu'ils/elles": "inspectent"
+		},
+		"imparfait": {
+			"j'": "inspectasse",
+			"que": "vous inspectassiez",
+			"qu'il/elle": "inspectât",
+			"qu'ils/elles": "inspectassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse inspecté",
+			"que": "vous eussiez inspecté",
+			"qu'il/elle": "eût inspecté",
+			"qu'ils/elles": "eussent inspecté"
+		},
+		"passé": {
+			"j'": "aie inspecté",
+			"que": "vous ayez inspecté",
+			"qu'il/elle": "ait inspecté",
+			"qu'ils/elles": "aient inspecté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "inspecterais",
+			"tu": "inspecterais",
+			"il/elle": "inspecterait",
+			"nous": "inspecterions",
+			"vous": "inspecteriez",
+			"ils/elles": "inspecteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais inspecté",
+			"tu": "aurais inspecté",
+			"il/elle": "aurait inspecté",
+			"nous": "aurions inspecté",
+			"vous": "auriez inspecté",
+			"ils/elles": "auraient inspecté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse inspecté",
+			"tu": "eusses inspecté",
+			"il/elle": "eût inspecté",
+			"nous": "eussions inspecté",
+			"vous": "eussiez inspecté",
+			"ils/elles": "eussent inspecté"
+		}
+	},
+	"participe": {
+		"présent": { "inspectant": "" },
+		"passé composé": { "ayant": "inspecté" },
+		"passé": {
+			"masc.sg.:": "inspecté",
+			"masc.pl.:": "inspectés",
+			"fém.sg.:": "inspectée",
+			"fém.pl.:": "inspectées"
+		}
+	},
+	"imperatif": {
+		"présent": { "inspecte": "", "inspectons": "", "inspectez": "" },
+		"passé": { "aie": "inspecté", "ayons": "inspecté", "ayez": "inspecté" }
+	},
+	"infinitif": {
+		"présent": { "inspecter": "" },
+		"passé": { "avoir": "inspecté" }
+	}
+}

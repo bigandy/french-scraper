@@ -1,0 +1,141 @@
+{
+	"name": "refermer",
+	"definition": "close; seal; reclose; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se refermer/ne pas refermer/ne pas se refermer",
+	"indicatif": {
+		"présent": {
+			"je": "referme",
+			"tu": "refermes",
+			"il/elle": "referme",
+			"nous": "refermons",
+			"vous": "refermez",
+			"ils/elles": "referment"
+		},
+		"imparfait": {
+			"je": "refermais",
+			"tu": "refermais",
+			"il/elle": "refermait",
+			"nous": "refermions",
+			"vous": "refermiez",
+			"ils/elles": "refermaient"
+		},
+		"futur": {
+			"je": "refermerai",
+			"tu": "refermeras",
+			"il/elle": "refermera",
+			"nous": "refermerons",
+			"vous": "refermerez",
+			"ils/elles": "refermeront"
+		},
+		"passé simple": {
+			"je": "refermai",
+			"tu": "refermas",
+			"il/elle": "referma",
+			"nous": "refermâmes",
+			"vous": "refermâtes",
+			"ils/elles": "refermèrent"
+		},
+		"passé composé": {
+			"j'": "ai refermé",
+			"tu": "as refermé",
+			"il/elle": "a refermé",
+			"nous": "avons refermé",
+			"vous": "avez refermé",
+			"ils/elles": "ont refermé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais refermé",
+			"tu": "avais refermé",
+			"il/elle": "avait refermé",
+			"nous": "avions refermé",
+			"vous": "aviez refermé",
+			"ils/elles": "avaient refermé"
+		},
+		"passé antérieur": {
+			"j'": "eus refermé",
+			"tu": "eus refermé",
+			"il/elle": "eut refermé",
+			"nous": "eûmes refermé",
+			"vous": "eûtes refermé",
+			"ils/elles": "eurent refermé"
+		},
+		"futur antérieur": {
+			"j'": "aurai refermé",
+			"tu": "auras refermé",
+			"il/elle": "aura refermé",
+			"nous": "aurons refermé",
+			"vous": "aurez refermé",
+			"ils/elles": "auront refermé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous refermiez",
+			"qu'il/elle": "referme",
+			"qu'ils/elles": "referment"
+		},
+		"imparfait": {
+			"que": "vous refermassiez",
+			"qu'il/elle": "refermât",
+			"qu'ils/elles": "refermassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse refermé",
+			"que": "vous eussiez refermé",
+			"qu'il/elle": "eût refermé",
+			"qu'ils/elles": "eussent refermé"
+		},
+		"passé": {
+			"j'": "aie refermé",
+			"que": "vous ayez refermé",
+			"qu'il/elle": "ait refermé",
+			"qu'ils/elles": "aient refermé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "refermerais",
+			"tu": "refermerais",
+			"il/elle": "refermerait",
+			"nous": "refermerions",
+			"vous": "refermeriez",
+			"ils/elles": "refermeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais refermé",
+			"tu": "aurais refermé",
+			"il/elle": "aurait refermé",
+			"nous": "aurions refermé",
+			"vous": "auriez refermé",
+			"ils/elles": "auraient refermé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse refermé",
+			"tu": "eusses refermé",
+			"il/elle": "eût refermé",
+			"nous": "eussions refermé",
+			"vous": "eussiez refermé",
+			"ils/elles": "eussent refermé"
+		}
+	},
+	"participe": {
+		"présent": { "refermant": "" },
+		"passé composé": { "ayant": "refermé" },
+		"passé": {
+			"masc.sg.:": "refermé",
+			"masc.pl.:": "refermés",
+			"fém.sg.:": "refermée",
+			"fém.pl.:": "refermées"
+		}
+	},
+	"imperatif": {
+		"présent": { "referme": "", "refermons": "", "refermez": "" },
+		"passé": { "aie": "refermé", "ayons": "refermé", "ayez": "refermé" }
+	},
+	"infinitif": {
+		"présent": { "refermer": "" },
+		"passé": { "avoir": "refermé" }
+	}
+}

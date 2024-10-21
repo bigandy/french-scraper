@@ -1,0 +1,138 @@
+{
+	"name": "requérir",
+	"definition": "require; request; ask; ...",
+	"model": "acquérir",
+	"auxiliary": "avoir",
+	"otherForms": "se requérir/ne pas requérir/ne pas se requérir",
+	"indicatif": {
+		"présent": {
+			"je": "requiers",
+			"tu": "requiers",
+			"il/elle": "requiert",
+			"nous": "requérons",
+			"vous": "requérez",
+			"ils/elles": "requièrent"
+		},
+		"imparfait": {
+			"je": "requérais",
+			"tu": "requérais",
+			"il/elle": "requérait",
+			"nous": "requérions",
+			"vous": "requériez",
+			"ils/elles": "requéraient"
+		},
+		"futur": {
+			"je": "requerrai",
+			"tu": "requerras",
+			"il/elle": "requerra",
+			"nous": "requerrons",
+			"vous": "requerrez",
+			"ils/elles": "requerront"
+		},
+		"passé simple": {
+			"je": "requis",
+			"tu": "requis",
+			"il/elle": "requit",
+			"nous": "requîmes",
+			"vous": "requîtes",
+			"ils/elles": "requirent"
+		},
+		"passé composé": {
+			"j'": "ai requis",
+			"tu": "as requis",
+			"il/elle": "a requis",
+			"nous": "avons requis",
+			"vous": "avez requis",
+			"ils/elles": "ont requis"
+		},
+		"plus-que-parfait": {
+			"j'": "avais requis",
+			"tu": "avais requis",
+			"il/elle": "avait requis",
+			"nous": "avions requis",
+			"vous": "aviez requis",
+			"ils/elles": "avaient requis"
+		},
+		"passé antérieur": {
+			"j'": "eus requis",
+			"tu": "eus requis",
+			"il/elle": "eut requis",
+			"nous": "eûmes requis",
+			"vous": "eûtes requis",
+			"ils/elles": "eurent requis"
+		},
+		"futur antérieur": {
+			"j'": "aurai requis",
+			"tu": "auras requis",
+			"il/elle": "aura requis",
+			"nous": "aurons requis",
+			"vous": "aurez requis",
+			"ils/elles": "auront requis"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous requériez",
+			"qu'il/elle": "requière",
+			"qu'ils/elles": "requièrent"
+		},
+		"imparfait": {
+			"que": "vous requissiez",
+			"qu'il/elle": "requît",
+			"qu'ils/elles": "requissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse requis",
+			"que": "vous eussiez requis",
+			"qu'il/elle": "eût requis",
+			"qu'ils/elles": "eussent requis"
+		},
+		"passé": {
+			"j'": "aie requis",
+			"que": "vous ayez requis",
+			"qu'il/elle": "ait requis",
+			"qu'ils/elles": "aient requis"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "requerrais",
+			"tu": "requerrais",
+			"il/elle": "requerrait",
+			"nous": "requerrions",
+			"vous": "requerriez",
+			"ils/elles": "requerraient"
+		},
+		"passé première forme": {
+			"j'": "aurais requis",
+			"tu": "aurais requis",
+			"il/elle": "aurait requis",
+			"nous": "aurions requis",
+			"vous": "auriez requis",
+			"ils/elles": "auraient requis"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse requis",
+			"tu": "eusses requis",
+			"il/elle": "eût requis",
+			"nous": "eussions requis",
+			"vous": "eussiez requis",
+			"ils/elles": "eussent requis"
+		}
+	},
+	"participe": {
+		"présent": { "requérant": "" },
+		"passé composé": { "ayant": "requis" },
+		"passé": {
+			"masc.sg.:": "requis",
+			"masc.pl.:": "requis",
+			"fém.sg.:": "requise",
+			"fém.pl.:": "requises"
+		}
+	},
+	"imperatif": {
+		"présent": { "requiers": "", "requérons": "", "requérez": "" },
+		"passé": { "aie": "requis", "ayons": "requis", "ayez": "requis" }
+	},
+	"infinitif": { "présent": { "requérir": "" }, "passé": { "avoir": "requis" } }
+}

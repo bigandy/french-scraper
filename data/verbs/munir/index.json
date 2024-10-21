@@ -1,0 +1,138 @@
+{
+	"name": "munir",
+	"definition": "provide; equip; take; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se munir/ne pas munir/ne pas se munir",
+	"indicatif": {
+		"présent": {
+			"je": "munis",
+			"tu": "munis",
+			"il/elle": "munit",
+			"nous": "munissons",
+			"vous": "munissez",
+			"ils/elles": "munissent"
+		},
+		"imparfait": {
+			"je": "munissais",
+			"tu": "munissais",
+			"il/elle": "munissait",
+			"nous": "munissions",
+			"vous": "munissiez",
+			"ils/elles": "munissaient"
+		},
+		"futur": {
+			"je": "munirai",
+			"tu": "muniras",
+			"il/elle": "munira",
+			"nous": "munirons",
+			"vous": "munirez",
+			"ils/elles": "muniront"
+		},
+		"passé simple": {
+			"je": "munis",
+			"tu": "munis",
+			"il/elle": "munit",
+			"nous": "munîmes",
+			"vous": "munîtes",
+			"ils/elles": "munirent"
+		},
+		"passé composé": {
+			"j'": "ai muni",
+			"tu": "as muni",
+			"il/elle": "a muni",
+			"nous": "avons muni",
+			"vous": "avez muni",
+			"ils/elles": "ont muni"
+		},
+		"plus-que-parfait": {
+			"j'": "avais muni",
+			"tu": "avais muni",
+			"il/elle": "avait muni",
+			"nous": "avions muni",
+			"vous": "aviez muni",
+			"ils/elles": "avaient muni"
+		},
+		"passé antérieur": {
+			"j'": "eus muni",
+			"tu": "eus muni",
+			"il/elle": "eut muni",
+			"nous": "eûmes muni",
+			"vous": "eûtes muni",
+			"ils/elles": "eurent muni"
+		},
+		"futur antérieur": {
+			"j'": "aurai muni",
+			"tu": "auras muni",
+			"il/elle": "aura muni",
+			"nous": "aurons muni",
+			"vous": "aurez muni",
+			"ils/elles": "auront muni"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous munissiez",
+			"qu'il/elle": "munisse",
+			"qu'ils/elles": "munissent"
+		},
+		"imparfait": {
+			"que": "vous munissiez",
+			"qu'il/elle": "munît",
+			"qu'ils/elles": "munissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse muni",
+			"que": "vous eussiez muni",
+			"qu'il/elle": "eût muni",
+			"qu'ils/elles": "eussent muni"
+		},
+		"passé": {
+			"j'": "aie muni",
+			"que": "vous ayez muni",
+			"qu'il/elle": "ait muni",
+			"qu'ils/elles": "aient muni"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "munirais",
+			"tu": "munirais",
+			"il/elle": "munirait",
+			"nous": "munirions",
+			"vous": "muniriez",
+			"ils/elles": "muniraient"
+		},
+		"passé première forme": {
+			"j'": "aurais muni",
+			"tu": "aurais muni",
+			"il/elle": "aurait muni",
+			"nous": "aurions muni",
+			"vous": "auriez muni",
+			"ils/elles": "auraient muni"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse muni",
+			"tu": "eusses muni",
+			"il/elle": "eût muni",
+			"nous": "eussions muni",
+			"vous": "eussiez muni",
+			"ils/elles": "eussent muni"
+		}
+	},
+	"participe": {
+		"présent": { "munissant": "" },
+		"passé composé": { "ayant": "muni" },
+		"passé": {
+			"masc.sg.:": "muni",
+			"masc.pl.:": "munis",
+			"fém.sg.:": "munie",
+			"fém.pl.:": "munies"
+		}
+	},
+	"imperatif": {
+		"présent": { "munis": "", "munissons": "", "munissez": "" },
+		"passé": { "aie": "muni", "ayons": "muni", "ayez": "muni" }
+	},
+	"infinitif": { "présent": { "munir": "" }, "passé": { "avoir": "muni" } }
+}

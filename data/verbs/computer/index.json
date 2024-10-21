@@ -1,0 +1,141 @@
+{
+	"name": "computer",
+	"definition": "compute; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se computer/ne pas computer/ne pas se computer",
+	"indicatif": {
+		"présent": {
+			"je": "compute",
+			"tu": "computes",
+			"il/elle": "compute",
+			"nous": "computons",
+			"vous": "computez",
+			"ils/elles": "computent"
+		},
+		"imparfait": {
+			"je": "computais",
+			"tu": "computais",
+			"il/elle": "computait",
+			"nous": "computions",
+			"vous": "computiez",
+			"ils/elles": "computaient"
+		},
+		"futur": {
+			"je": "computerai",
+			"tu": "computeras",
+			"il/elle": "computera",
+			"nous": "computerons",
+			"vous": "computerez",
+			"ils/elles": "computeront"
+		},
+		"passé simple": {
+			"je": "computai",
+			"tu": "computas",
+			"il/elle": "computa",
+			"nous": "computâmes",
+			"vous": "computâtes",
+			"ils/elles": "computèrent"
+		},
+		"passé composé": {
+			"j'": "ai computé",
+			"tu": "as computé",
+			"il/elle": "a computé",
+			"nous": "avons computé",
+			"vous": "avez computé",
+			"ils/elles": "ont computé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais computé",
+			"tu": "avais computé",
+			"il/elle": "avait computé",
+			"nous": "avions computé",
+			"vous": "aviez computé",
+			"ils/elles": "avaient computé"
+		},
+		"passé antérieur": {
+			"j'": "eus computé",
+			"tu": "eus computé",
+			"il/elle": "eut computé",
+			"nous": "eûmes computé",
+			"vous": "eûtes computé",
+			"ils/elles": "eurent computé"
+		},
+		"futur antérieur": {
+			"j'": "aurai computé",
+			"tu": "auras computé",
+			"il/elle": "aura computé",
+			"nous": "aurons computé",
+			"vous": "aurez computé",
+			"ils/elles": "auront computé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous computiez",
+			"qu'il/elle": "compute",
+			"qu'ils/elles": "computent"
+		},
+		"imparfait": {
+			"que": "vous computassiez",
+			"qu'il/elle": "computât",
+			"qu'ils/elles": "computassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse computé",
+			"que": "vous eussiez computé",
+			"qu'il/elle": "eût computé",
+			"qu'ils/elles": "eussent computé"
+		},
+		"passé": {
+			"j'": "aie computé",
+			"que": "vous ayez computé",
+			"qu'il/elle": "ait computé",
+			"qu'ils/elles": "aient computé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "computerais",
+			"tu": "computerais",
+			"il/elle": "computerait",
+			"nous": "computerions",
+			"vous": "computeriez",
+			"ils/elles": "computeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais computé",
+			"tu": "aurais computé",
+			"il/elle": "aurait computé",
+			"nous": "aurions computé",
+			"vous": "auriez computé",
+			"ils/elles": "auraient computé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse computé",
+			"tu": "eusses computé",
+			"il/elle": "eût computé",
+			"nous": "eussions computé",
+			"vous": "eussiez computé",
+			"ils/elles": "eussent computé"
+		}
+	},
+	"participe": {
+		"présent": { "computant": "" },
+		"passé composé": { "ayant": "computé" },
+		"passé": {
+			"masc.sg.:": "computé",
+			"masc.pl.:": "computés",
+			"fém.sg.:": "computée",
+			"fém.pl.:": "computées"
+		}
+	},
+	"imperatif": {
+		"présent": { "compute": "", "computons": "", "computez": "" },
+		"passé": { "aie": "computé", "ayons": "computé", "ayez": "computé" }
+	},
+	"infinitif": {
+		"présent": { "computer": "" },
+		"passé": { "avoir": "computé" }
+	}
+}

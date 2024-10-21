@@ -1,0 +1,138 @@
+{
+	"name": "germer",
+	"definition": "germinate; sprout; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas germer",
+	"indicatif": {
+		"présent": {
+			"je": "germe",
+			"tu": "germes",
+			"il/elle": "germe",
+			"nous": "germons",
+			"vous": "germez",
+			"ils/elles": "germent"
+		},
+		"imparfait": {
+			"je": "germais",
+			"tu": "germais",
+			"il/elle": "germait",
+			"nous": "germions",
+			"vous": "germiez",
+			"ils/elles": "germaient"
+		},
+		"futur": {
+			"je": "germerai",
+			"tu": "germeras",
+			"il/elle": "germera",
+			"nous": "germerons",
+			"vous": "germerez",
+			"ils/elles": "germeront"
+		},
+		"passé simple": {
+			"je": "germai",
+			"tu": "germas",
+			"il/elle": "germa",
+			"nous": "germâmes",
+			"vous": "germâtes",
+			"ils/elles": "germèrent"
+		},
+		"passé composé": {
+			"j'": "ai germé",
+			"tu": "as germé",
+			"il/elle": "a germé",
+			"nous": "avons germé",
+			"vous": "avez germé",
+			"ils/elles": "ont germé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais germé",
+			"tu": "avais germé",
+			"il/elle": "avait germé",
+			"nous": "avions germé",
+			"vous": "aviez germé",
+			"ils/elles": "avaient germé"
+		},
+		"passé antérieur": {
+			"j'": "eus germé",
+			"tu": "eus germé",
+			"il/elle": "eut germé",
+			"nous": "eûmes germé",
+			"vous": "eûtes germé",
+			"ils/elles": "eurent germé"
+		},
+		"futur antérieur": {
+			"j'": "aurai germé",
+			"tu": "auras germé",
+			"il/elle": "aura germé",
+			"nous": "aurons germé",
+			"vous": "aurez germé",
+			"ils/elles": "auront germé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous germiez",
+			"qu'il/elle": "germe",
+			"qu'ils/elles": "germent"
+		},
+		"imparfait": {
+			"que": "vous germassiez",
+			"qu'il/elle": "germât",
+			"qu'ils/elles": "germassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse germé",
+			"que": "vous eussiez germé",
+			"qu'il/elle": "eût germé",
+			"qu'ils/elles": "eussent germé"
+		},
+		"passé": {
+			"j'": "aie germé",
+			"que": "vous ayez germé",
+			"qu'il/elle": "ait germé",
+			"qu'ils/elles": "aient germé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "germerais",
+			"tu": "germerais",
+			"il/elle": "germerait",
+			"nous": "germerions",
+			"vous": "germeriez",
+			"ils/elles": "germeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais germé",
+			"tu": "aurais germé",
+			"il/elle": "aurait germé",
+			"nous": "aurions germé",
+			"vous": "auriez germé",
+			"ils/elles": "auraient germé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse germé",
+			"tu": "eusses germé",
+			"il/elle": "eût germé",
+			"nous": "eussions germé",
+			"vous": "eussiez germé",
+			"ils/elles": "eussent germé"
+		}
+	},
+	"participe": {
+		"présent": { "germant": "" },
+		"passé composé": { "ayant": "germé" },
+		"passé": {
+			"masc.sg.:": "germé",
+			"masc.pl.:": "germés",
+			"fém.sg.:": "germée",
+			"fém.pl.:": "germées"
+		}
+	},
+	"imperatif": {
+		"présent": { "germe": "", "germons": "", "germez": "" },
+		"passé": { "aie": "germé", "ayons": "germé", "ayez": "germé" }
+	},
+	"infinitif": { "présent": { "germer": "" }, "passé": { "avoir": "germé" } }
+}

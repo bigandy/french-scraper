@@ -1,0 +1,140 @@
+{
+	"name": "exonder",
+	"definition": "",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'exonder/ne pas exonder/ne pas s'exonder",
+	"indicatif": {
+		"présent": {
+			"j'": "exonde",
+			"tu": "exondes",
+			"il/elle": "exonde",
+			"nous": "exondons",
+			"vous": "exondez",
+			"ils/elles": "exondent"
+		},
+		"imparfait": {
+			"j'": "exondais",
+			"tu": "exondais",
+			"il/elle": "exondait",
+			"nous": "exondions",
+			"vous": "exondiez",
+			"ils/elles": "exondaient"
+		},
+		"futur": {
+			"j'": "exonderai",
+			"tu": "exonderas",
+			"il/elle": "exondera",
+			"nous": "exonderons",
+			"vous": "exonderez",
+			"ils/elles": "exonderont"
+		},
+		"passé simple": {
+			"j'": "exondai",
+			"tu": "exondas",
+			"il/elle": "exonda",
+			"nous": "exondâmes",
+			"vous": "exondâtes",
+			"ils/elles": "exondèrent"
+		},
+		"passé composé": {
+			"j'": "ai exondé",
+			"tu": "as exondé",
+			"il/elle": "a exondé",
+			"nous": "avons exondé",
+			"vous": "avez exondé",
+			"ils/elles": "ont exondé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais exondé",
+			"tu": "avais exondé",
+			"il/elle": "avait exondé",
+			"nous": "avions exondé",
+			"vous": "aviez exondé",
+			"ils/elles": "avaient exondé"
+		},
+		"passé antérieur": {
+			"j'": "eus exondé",
+			"tu": "eus exondé",
+			"il/elle": "eut exondé",
+			"nous": "eûmes exondé",
+			"vous": "eûtes exondé",
+			"ils/elles": "eurent exondé"
+		},
+		"futur antérieur": {
+			"j'": "aurai exondé",
+			"tu": "auras exondé",
+			"il/elle": "aura exondé",
+			"nous": "aurons exondé",
+			"vous": "aurez exondé",
+			"ils/elles": "auront exondé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "exonde",
+			"que": "vous exondiez",
+			"qu'il/elle": "exonde",
+			"qu'ils/elles": "exondent"
+		},
+		"imparfait": {
+			"j'": "exondasse",
+			"que": "vous exondassiez",
+			"qu'il/elle": "exondât",
+			"qu'ils/elles": "exondassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse exondé",
+			"que": "vous eussiez exondé",
+			"qu'il/elle": "eût exondé",
+			"qu'ils/elles": "eussent exondé"
+		},
+		"passé": {
+			"j'": "aie exondé",
+			"que": "vous ayez exondé",
+			"qu'il/elle": "ait exondé",
+			"qu'ils/elles": "aient exondé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "exonderais",
+			"tu": "exonderais",
+			"il/elle": "exonderait",
+			"nous": "exonderions",
+			"vous": "exonderiez",
+			"ils/elles": "exonderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais exondé",
+			"tu": "aurais exondé",
+			"il/elle": "aurait exondé",
+			"nous": "aurions exondé",
+			"vous": "auriez exondé",
+			"ils/elles": "auraient exondé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse exondé",
+			"tu": "eusses exondé",
+			"il/elle": "eût exondé",
+			"nous": "eussions exondé",
+			"vous": "eussiez exondé",
+			"ils/elles": "eussent exondé"
+		}
+	},
+	"participe": {
+		"présent": { "exondant": "" },
+		"passé composé": { "ayant": "exondé" },
+		"passé": {
+			"masc.sg.:": "exondé",
+			"masc.pl.:": "exondés",
+			"fém.sg.:": "exondée",
+			"fém.pl.:": "exondées"
+		}
+	},
+	"imperatif": {
+		"présent": { "exonde": "", "exondons": "", "exondez": "" },
+		"passé": { "aie": "exondé", "ayons": "exondé", "ayez": "exondé" }
+	},
+	"infinitif": { "présent": { "exonder": "" }, "passé": { "avoir": "exondé" } }
+}

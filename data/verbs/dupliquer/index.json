@@ -1,0 +1,141 @@
+{
+	"name": "dupliquer",
+	"definition": "duplicate; replicate; mirror; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se dupliquer/ne pas dupliquer/ne pas se dupliquer",
+	"indicatif": {
+		"présent": {
+			"je": "duplique",
+			"tu": "dupliques",
+			"il/elle": "duplique",
+			"nous": "dupliquons",
+			"vous": "dupliquez",
+			"ils/elles": "dupliquent"
+		},
+		"imparfait": {
+			"je": "dupliquais",
+			"tu": "dupliquais",
+			"il/elle": "dupliquait",
+			"nous": "dupliquions",
+			"vous": "dupliquiez",
+			"ils/elles": "dupliquaient"
+		},
+		"futur": {
+			"je": "dupliquerai",
+			"tu": "dupliqueras",
+			"il/elle": "dupliquera",
+			"nous": "dupliquerons",
+			"vous": "dupliquerez",
+			"ils/elles": "dupliqueront"
+		},
+		"passé simple": {
+			"je": "dupliquai",
+			"tu": "dupliquas",
+			"il/elle": "dupliqua",
+			"nous": "dupliquâmes",
+			"vous": "dupliquâtes",
+			"ils/elles": "dupliquèrent"
+		},
+		"passé composé": {
+			"j'": "ai dupliqué",
+			"tu": "as dupliqué",
+			"il/elle": "a dupliqué",
+			"nous": "avons dupliqué",
+			"vous": "avez dupliqué",
+			"ils/elles": "ont dupliqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais dupliqué",
+			"tu": "avais dupliqué",
+			"il/elle": "avait dupliqué",
+			"nous": "avions dupliqué",
+			"vous": "aviez dupliqué",
+			"ils/elles": "avaient dupliqué"
+		},
+		"passé antérieur": {
+			"j'": "eus dupliqué",
+			"tu": "eus dupliqué",
+			"il/elle": "eut dupliqué",
+			"nous": "eûmes dupliqué",
+			"vous": "eûtes dupliqué",
+			"ils/elles": "eurent dupliqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai dupliqué",
+			"tu": "auras dupliqué",
+			"il/elle": "aura dupliqué",
+			"nous": "aurons dupliqué",
+			"vous": "aurez dupliqué",
+			"ils/elles": "auront dupliqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous dupliquiez",
+			"qu'il/elle": "duplique",
+			"qu'ils/elles": "dupliquent"
+		},
+		"imparfait": {
+			"que": "vous dupliquassiez",
+			"qu'il/elle": "dupliquât",
+			"qu'ils/elles": "dupliquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse dupliqué",
+			"que": "vous eussiez dupliqué",
+			"qu'il/elle": "eût dupliqué",
+			"qu'ils/elles": "eussent dupliqué"
+		},
+		"passé": {
+			"j'": "aie dupliqué",
+			"que": "vous ayez dupliqué",
+			"qu'il/elle": "ait dupliqué",
+			"qu'ils/elles": "aient dupliqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "dupliquerais",
+			"tu": "dupliquerais",
+			"il/elle": "dupliquerait",
+			"nous": "dupliquerions",
+			"vous": "dupliqueriez",
+			"ils/elles": "dupliqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais dupliqué",
+			"tu": "aurais dupliqué",
+			"il/elle": "aurait dupliqué",
+			"nous": "aurions dupliqué",
+			"vous": "auriez dupliqué",
+			"ils/elles": "auraient dupliqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse dupliqué",
+			"tu": "eusses dupliqué",
+			"il/elle": "eût dupliqué",
+			"nous": "eussions dupliqué",
+			"vous": "eussiez dupliqué",
+			"ils/elles": "eussent dupliqué"
+		}
+	},
+	"participe": {
+		"présent": { "dupliquant": "" },
+		"passé composé": { "ayant": "dupliqué" },
+		"passé": {
+			"masc.sg.:": "dupliqué",
+			"masc.pl.:": "dupliqués",
+			"fém.sg.:": "dupliquée",
+			"fém.pl.:": "dupliquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "duplique": "", "dupliquons": "", "dupliquez": "" },
+		"passé": { "aie": "dupliqué", "ayons": "dupliqué", "ayez": "dupliqué" }
+	},
+	"infinitif": {
+		"présent": { "dupliquer": "" },
+		"passé": { "avoir": "dupliqué" }
+	}
+}

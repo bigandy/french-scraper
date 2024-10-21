@@ -1,0 +1,143 @@
+{
+	"name": "archiver",
+	"definition": "archive; store; record; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'archiver/ne pas archiver/ne pas s'archiver",
+	"indicatif": {
+		"présent": {
+			"j'": "archive",
+			"tu": "archives",
+			"il/elle": "archive",
+			"nous": "archivons",
+			"vous": "archivez",
+			"ils/elles": "archivent"
+		},
+		"imparfait": {
+			"j'": "archivais",
+			"tu": "archivais",
+			"il/elle": "archivait",
+			"nous": "archivions",
+			"vous": "archiviez",
+			"ils/elles": "archivaient"
+		},
+		"futur": {
+			"j'": "archiverai",
+			"tu": "archiveras",
+			"il/elle": "archivera",
+			"nous": "archiverons",
+			"vous": "archiverez",
+			"ils/elles": "archiveront"
+		},
+		"passé simple": {
+			"j'": "archivai",
+			"tu": "archivas",
+			"il/elle": "archiva",
+			"nous": "archivâmes",
+			"vous": "archivâtes",
+			"ils/elles": "archivèrent"
+		},
+		"passé composé": {
+			"j'": "ai archivé",
+			"tu": "as archivé",
+			"il/elle": "a archivé",
+			"nous": "avons archivé",
+			"vous": "avez archivé",
+			"ils/elles": "ont archivé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais archivé",
+			"tu": "avais archivé",
+			"il/elle": "avait archivé",
+			"nous": "avions archivé",
+			"vous": "aviez archivé",
+			"ils/elles": "avaient archivé"
+		},
+		"passé antérieur": {
+			"j'": "eus archivé",
+			"tu": "eus archivé",
+			"il/elle": "eut archivé",
+			"nous": "eûmes archivé",
+			"vous": "eûtes archivé",
+			"ils/elles": "eurent archivé"
+		},
+		"futur antérieur": {
+			"j'": "aurai archivé",
+			"tu": "auras archivé",
+			"il/elle": "aura archivé",
+			"nous": "aurons archivé",
+			"vous": "aurez archivé",
+			"ils/elles": "auront archivé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "archive",
+			"que": "vous archiviez",
+			"qu'il/elle": "archive",
+			"qu'ils/elles": "archivent"
+		},
+		"imparfait": {
+			"j'": "archivasse",
+			"que": "vous archivassiez",
+			"qu'il/elle": "archivât",
+			"qu'ils/elles": "archivassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse archivé",
+			"que": "vous eussiez archivé",
+			"qu'il/elle": "eût archivé",
+			"qu'ils/elles": "eussent archivé"
+		},
+		"passé": {
+			"j'": "aie archivé",
+			"que": "vous ayez archivé",
+			"qu'il/elle": "ait archivé",
+			"qu'ils/elles": "aient archivé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "archiverais",
+			"tu": "archiverais",
+			"il/elle": "archiverait",
+			"nous": "archiverions",
+			"vous": "archiveriez",
+			"ils/elles": "archiveraient"
+		},
+		"passé première forme": {
+			"j'": "aurais archivé",
+			"tu": "aurais archivé",
+			"il/elle": "aurait archivé",
+			"nous": "aurions archivé",
+			"vous": "auriez archivé",
+			"ils/elles": "auraient archivé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse archivé",
+			"tu": "eusses archivé",
+			"il/elle": "eût archivé",
+			"nous": "eussions archivé",
+			"vous": "eussiez archivé",
+			"ils/elles": "eussent archivé"
+		}
+	},
+	"participe": {
+		"présent": { "archivant": "" },
+		"passé composé": { "ayant": "archivé" },
+		"passé": {
+			"masc.sg.:": "archivé",
+			"masc.pl.:": "archivés",
+			"fém.sg.:": "archivée",
+			"fém.pl.:": "archivées"
+		}
+	},
+	"imperatif": {
+		"présent": { "archive": "", "archivons": "", "archivez": "" },
+		"passé": { "aie": "archivé", "ayons": "archivé", "ayez": "archivé" }
+	},
+	"infinitif": {
+		"présent": { "archiver": "" },
+		"passé": { "avoir": "archivé" }
+	}
+}

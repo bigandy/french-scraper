@@ -1,0 +1,138 @@
+{
+	"name": "réciter",
+	"definition": "recite; say; pray; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se réciter/ne pas réciter/ne pas se réciter",
+	"indicatif": {
+		"présent": {
+			"je": "récite",
+			"tu": "récites",
+			"il/elle": "récite",
+			"nous": "récitons",
+			"vous": "récitez",
+			"ils/elles": "récitent"
+		},
+		"imparfait": {
+			"je": "récitais",
+			"tu": "récitais",
+			"il/elle": "récitait",
+			"nous": "récitions",
+			"vous": "récitiez",
+			"ils/elles": "récitaient"
+		},
+		"futur": {
+			"je": "réciterai",
+			"tu": "réciteras",
+			"il/elle": "récitera",
+			"nous": "réciterons",
+			"vous": "réciterez",
+			"ils/elles": "réciteront"
+		},
+		"passé simple": {
+			"je": "récitai",
+			"tu": "récitas",
+			"il/elle": "récita",
+			"nous": "récitâmes",
+			"vous": "récitâtes",
+			"ils/elles": "récitèrent"
+		},
+		"passé composé": {
+			"j'": "ai récité",
+			"tu": "as récité",
+			"il/elle": "a récité",
+			"nous": "avons récité",
+			"vous": "avez récité",
+			"ils/elles": "ont récité"
+		},
+		"plus-que-parfait": {
+			"j'": "avais récité",
+			"tu": "avais récité",
+			"il/elle": "avait récité",
+			"nous": "avions récité",
+			"vous": "aviez récité",
+			"ils/elles": "avaient récité"
+		},
+		"passé antérieur": {
+			"j'": "eus récité",
+			"tu": "eus récité",
+			"il/elle": "eut récité",
+			"nous": "eûmes récité",
+			"vous": "eûtes récité",
+			"ils/elles": "eurent récité"
+		},
+		"futur antérieur": {
+			"j'": "aurai récité",
+			"tu": "auras récité",
+			"il/elle": "aura récité",
+			"nous": "aurons récité",
+			"vous": "aurez récité",
+			"ils/elles": "auront récité"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous récitiez",
+			"qu'il/elle": "récite",
+			"qu'ils/elles": "récitent"
+		},
+		"imparfait": {
+			"que": "vous récitassiez",
+			"qu'il/elle": "récitât",
+			"qu'ils/elles": "récitassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse récité",
+			"que": "vous eussiez récité",
+			"qu'il/elle": "eût récité",
+			"qu'ils/elles": "eussent récité"
+		},
+		"passé": {
+			"j'": "aie récité",
+			"que": "vous ayez récité",
+			"qu'il/elle": "ait récité",
+			"qu'ils/elles": "aient récité"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "réciterais",
+			"tu": "réciterais",
+			"il/elle": "réciterait",
+			"nous": "réciterions",
+			"vous": "réciteriez",
+			"ils/elles": "réciteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais récité",
+			"tu": "aurais récité",
+			"il/elle": "aurait récité",
+			"nous": "aurions récité",
+			"vous": "auriez récité",
+			"ils/elles": "auraient récité"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse récité",
+			"tu": "eusses récité",
+			"il/elle": "eût récité",
+			"nous": "eussions récité",
+			"vous": "eussiez récité",
+			"ils/elles": "eussent récité"
+		}
+	},
+	"participe": {
+		"présent": { "récitant": "" },
+		"passé composé": { "ayant": "récité" },
+		"passé": {
+			"masc.sg.:": "récité",
+			"masc.pl.:": "récités",
+			"fém.sg.:": "récitée",
+			"fém.pl.:": "récitées"
+		}
+	},
+	"imperatif": {
+		"présent": { "récite": "", "récitons": "", "récitez": "" },
+		"passé": { "aie": "récité", "ayons": "récité", "ayez": "récité" }
+	},
+	"infinitif": { "présent": { "réciter": "" }, "passé": { "avoir": "récité" } }
+}

@@ -1,0 +1,141 @@
+{
+	"name": "codifier",
+	"definition": "codify; consolidate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se codifier/ne pas codifier/ne pas se codifier",
+	"indicatif": {
+		"présent": {
+			"je": "codifie",
+			"tu": "codifies",
+			"il/elle": "codifie",
+			"nous": "codifions",
+			"vous": "codifiez",
+			"ils/elles": "codifient"
+		},
+		"imparfait": {
+			"je": "codifiais",
+			"tu": "codifiais",
+			"il/elle": "codifiait",
+			"nous": "codifiions",
+			"vous": "codifiiez",
+			"ils/elles": "codifiaient"
+		},
+		"futur": {
+			"je": "codifierai",
+			"tu": "codifieras",
+			"il/elle": "codifiera",
+			"nous": "codifierons",
+			"vous": "codifierez",
+			"ils/elles": "codifieront"
+		},
+		"passé simple": {
+			"je": "codifiai",
+			"tu": "codifias",
+			"il/elle": "codifia",
+			"nous": "codifiâmes",
+			"vous": "codifiâtes",
+			"ils/elles": "codifièrent"
+		},
+		"passé composé": {
+			"j'": "ai codifié",
+			"tu": "as codifié",
+			"il/elle": "a codifié",
+			"nous": "avons codifié",
+			"vous": "avez codifié",
+			"ils/elles": "ont codifié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais codifié",
+			"tu": "avais codifié",
+			"il/elle": "avait codifié",
+			"nous": "avions codifié",
+			"vous": "aviez codifié",
+			"ils/elles": "avaient codifié"
+		},
+		"passé antérieur": {
+			"j'": "eus codifié",
+			"tu": "eus codifié",
+			"il/elle": "eut codifié",
+			"nous": "eûmes codifié",
+			"vous": "eûtes codifié",
+			"ils/elles": "eurent codifié"
+		},
+		"futur antérieur": {
+			"j'": "aurai codifié",
+			"tu": "auras codifié",
+			"il/elle": "aura codifié",
+			"nous": "aurons codifié",
+			"vous": "aurez codifié",
+			"ils/elles": "auront codifié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous codifiiez",
+			"qu'il/elle": "codifie",
+			"qu'ils/elles": "codifient"
+		},
+		"imparfait": {
+			"que": "vous codifiassiez",
+			"qu'il/elle": "codifiât",
+			"qu'ils/elles": "codifiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse codifié",
+			"que": "vous eussiez codifié",
+			"qu'il/elle": "eût codifié",
+			"qu'ils/elles": "eussent codifié"
+		},
+		"passé": {
+			"j'": "aie codifié",
+			"que": "vous ayez codifié",
+			"qu'il/elle": "ait codifié",
+			"qu'ils/elles": "aient codifié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "codifierais",
+			"tu": "codifierais",
+			"il/elle": "codifierait",
+			"nous": "codifierions",
+			"vous": "codifieriez",
+			"ils/elles": "codifieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais codifié",
+			"tu": "aurais codifié",
+			"il/elle": "aurait codifié",
+			"nous": "aurions codifié",
+			"vous": "auriez codifié",
+			"ils/elles": "auraient codifié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse codifié",
+			"tu": "eusses codifié",
+			"il/elle": "eût codifié",
+			"nous": "eussions codifié",
+			"vous": "eussiez codifié",
+			"ils/elles": "eussent codifié"
+		}
+	},
+	"participe": {
+		"présent": { "codifiant": "" },
+		"passé composé": { "ayant": "codifié" },
+		"passé": {
+			"masc.sg.:": "codifié",
+			"masc.pl.:": "codifiés",
+			"fém.sg.:": "codifiée",
+			"fém.pl.:": "codifiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "codifie": "", "codifions": "", "codifiez": "" },
+		"passé": { "aie": "codifié", "ayons": "codifié", "ayez": "codifié" }
+	},
+	"infinitif": {
+		"présent": { "codifier": "" },
+		"passé": { "avoir": "codifié" }
+	}
+}

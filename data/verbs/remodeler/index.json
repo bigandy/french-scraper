@@ -1,0 +1,141 @@
+{
+	"name": "remodeler",
+	"definition": "reshape; remodel; redesign; ...",
+	"model": "peler",
+	"auxiliary": "avoir",
+	"otherForms": "se remodeler/ne pas remodeler/ne pas se remodeler",
+	"indicatif": {
+		"présent": {
+			"je": "remodèle",
+			"tu": "remodèles",
+			"il/elle": "remodèle",
+			"nous": "remodelons",
+			"vous": "remodelez",
+			"ils/elles": "remodèlent"
+		},
+		"imparfait": {
+			"je": "remodelais",
+			"tu": "remodelais",
+			"il/elle": "remodelait",
+			"nous": "remodelions",
+			"vous": "remodeliez",
+			"ils/elles": "remodelaient"
+		},
+		"futur": {
+			"je": "remodèlerai",
+			"tu": "remodèleras",
+			"il/elle": "remodèlera",
+			"nous": "remodèlerons",
+			"vous": "remodèlerez",
+			"ils/elles": "remodèleront"
+		},
+		"passé simple": {
+			"je": "remodelai",
+			"tu": "remodelas",
+			"il/elle": "remodela",
+			"nous": "remodelâmes",
+			"vous": "remodelâtes",
+			"ils/elles": "remodelèrent"
+		},
+		"passé composé": {
+			"j'": "ai remodelé",
+			"tu": "as remodelé",
+			"il/elle": "a remodelé",
+			"nous": "avons remodelé",
+			"vous": "avez remodelé",
+			"ils/elles": "ont remodelé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais remodelé",
+			"tu": "avais remodelé",
+			"il/elle": "avait remodelé",
+			"nous": "avions remodelé",
+			"vous": "aviez remodelé",
+			"ils/elles": "avaient remodelé"
+		},
+		"passé antérieur": {
+			"j'": "eus remodelé",
+			"tu": "eus remodelé",
+			"il/elle": "eut remodelé",
+			"nous": "eûmes remodelé",
+			"vous": "eûtes remodelé",
+			"ils/elles": "eurent remodelé"
+		},
+		"futur antérieur": {
+			"j'": "aurai remodelé",
+			"tu": "auras remodelé",
+			"il/elle": "aura remodelé",
+			"nous": "aurons remodelé",
+			"vous": "aurez remodelé",
+			"ils/elles": "auront remodelé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous remodeliez",
+			"qu'il/elle": "remodèle",
+			"qu'ils/elles": "remodèlent"
+		},
+		"imparfait": {
+			"que": "vous remodelassiez",
+			"qu'il/elle": "remodelât",
+			"qu'ils/elles": "remodelassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse remodelé",
+			"que": "vous eussiez remodelé",
+			"qu'il/elle": "eût remodelé",
+			"qu'ils/elles": "eussent remodelé"
+		},
+		"passé": {
+			"j'": "aie remodelé",
+			"que": "vous ayez remodelé",
+			"qu'il/elle": "ait remodelé",
+			"qu'ils/elles": "aient remodelé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "remodèlerais",
+			"tu": "remodèlerais",
+			"il/elle": "remodèlerait",
+			"nous": "remodèlerions",
+			"vous": "remodèleriez",
+			"ils/elles": "remodèleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais remodelé",
+			"tu": "aurais remodelé",
+			"il/elle": "aurait remodelé",
+			"nous": "aurions remodelé",
+			"vous": "auriez remodelé",
+			"ils/elles": "auraient remodelé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse remodelé",
+			"tu": "eusses remodelé",
+			"il/elle": "eût remodelé",
+			"nous": "eussions remodelé",
+			"vous": "eussiez remodelé",
+			"ils/elles": "eussent remodelé"
+		}
+	},
+	"participe": {
+		"présent": { "remodelant": "" },
+		"passé composé": { "ayant": "remodelé" },
+		"passé": {
+			"masc.sg.:": "remodelé",
+			"masc.pl.:": "remodelés",
+			"fém.sg.:": "remodelée",
+			"fém.pl.:": "remodelées"
+		}
+	},
+	"imperatif": {
+		"présent": { "remodèle": "", "remodelons": "", "remodelez": "" },
+		"passé": { "aie": "remodelé", "ayons": "remodelé", "ayez": "remodelé" }
+	},
+	"infinitif": {
+		"présent": { "remodeler": "" },
+		"passé": { "avoir": "remodelé" }
+	}
+}

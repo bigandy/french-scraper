@@ -1,0 +1,140 @@
+{
+	"name": "encoder",
+	"definition": "encode; encrypt; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'encoder/ne pas encoder/ne pas s'encoder",
+	"indicatif": {
+		"présent": {
+			"j'": "encode",
+			"tu": "encodes",
+			"il/elle": "encode",
+			"nous": "encodons",
+			"vous": "encodez",
+			"ils/elles": "encodent"
+		},
+		"imparfait": {
+			"j'": "encodais",
+			"tu": "encodais",
+			"il/elle": "encodait",
+			"nous": "encodions",
+			"vous": "encodiez",
+			"ils/elles": "encodaient"
+		},
+		"futur": {
+			"j'": "encoderai",
+			"tu": "encoderas",
+			"il/elle": "encodera",
+			"nous": "encoderons",
+			"vous": "encoderez",
+			"ils/elles": "encoderont"
+		},
+		"passé simple": {
+			"j'": "encodai",
+			"tu": "encodas",
+			"il/elle": "encoda",
+			"nous": "encodâmes",
+			"vous": "encodâtes",
+			"ils/elles": "encodèrent"
+		},
+		"passé composé": {
+			"j'": "ai encodé",
+			"tu": "as encodé",
+			"il/elle": "a encodé",
+			"nous": "avons encodé",
+			"vous": "avez encodé",
+			"ils/elles": "ont encodé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais encodé",
+			"tu": "avais encodé",
+			"il/elle": "avait encodé",
+			"nous": "avions encodé",
+			"vous": "aviez encodé",
+			"ils/elles": "avaient encodé"
+		},
+		"passé antérieur": {
+			"j'": "eus encodé",
+			"tu": "eus encodé",
+			"il/elle": "eut encodé",
+			"nous": "eûmes encodé",
+			"vous": "eûtes encodé",
+			"ils/elles": "eurent encodé"
+		},
+		"futur antérieur": {
+			"j'": "aurai encodé",
+			"tu": "auras encodé",
+			"il/elle": "aura encodé",
+			"nous": "aurons encodé",
+			"vous": "aurez encodé",
+			"ils/elles": "auront encodé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "encode",
+			"que": "vous encodiez",
+			"qu'il/elle": "encode",
+			"qu'ils/elles": "encodent"
+		},
+		"imparfait": {
+			"j'": "encodasse",
+			"que": "vous encodassiez",
+			"qu'il/elle": "encodât",
+			"qu'ils/elles": "encodassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse encodé",
+			"que": "vous eussiez encodé",
+			"qu'il/elle": "eût encodé",
+			"qu'ils/elles": "eussent encodé"
+		},
+		"passé": {
+			"j'": "aie encodé",
+			"que": "vous ayez encodé",
+			"qu'il/elle": "ait encodé",
+			"qu'ils/elles": "aient encodé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "encoderais",
+			"tu": "encoderais",
+			"il/elle": "encoderait",
+			"nous": "encoderions",
+			"vous": "encoderiez",
+			"ils/elles": "encoderaient"
+		},
+		"passé première forme": {
+			"j'": "aurais encodé",
+			"tu": "aurais encodé",
+			"il/elle": "aurait encodé",
+			"nous": "aurions encodé",
+			"vous": "auriez encodé",
+			"ils/elles": "auraient encodé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse encodé",
+			"tu": "eusses encodé",
+			"il/elle": "eût encodé",
+			"nous": "eussions encodé",
+			"vous": "eussiez encodé",
+			"ils/elles": "eussent encodé"
+		}
+	},
+	"participe": {
+		"présent": { "encodant": "" },
+		"passé composé": { "ayant": "encodé" },
+		"passé": {
+			"masc.sg.:": "encodé",
+			"masc.pl.:": "encodés",
+			"fém.sg.:": "encodée",
+			"fém.pl.:": "encodées"
+		}
+	},
+	"imperatif": {
+		"présent": { "encode": "", "encodons": "", "encodez": "" },
+		"passé": { "aie": "encodé", "ayons": "encodé", "ayez": "encodé" }
+	},
+	"infinitif": { "présent": { "encoder": "" }, "passé": { "avoir": "encodé" } }
+}

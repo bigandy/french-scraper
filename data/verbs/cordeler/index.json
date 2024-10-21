@@ -1,0 +1,141 @@
+{
+	"name": "cordeler",
+	"definition": "braid; ...",
+	"model": "appeler",
+	"auxiliary": "avoir",
+	"otherForms": "se cordeler/ne pas cordeler/ne pas se cordeler",
+	"indicatif": {
+		"présent": {
+			"je": "cordelle",
+			"tu": "cordelles",
+			"il/elle": "cordelle",
+			"nous": "cordelons",
+			"vous": "cordelez",
+			"ils/elles": "cordellent"
+		},
+		"imparfait": {
+			"je": "cordelais",
+			"tu": "cordelais",
+			"il/elle": "cordelait",
+			"nous": "cordelions",
+			"vous": "cordeliez",
+			"ils/elles": "cordelaient"
+		},
+		"futur": {
+			"je": "cordellerai",
+			"tu": "cordelleras",
+			"il/elle": "cordellera",
+			"nous": "cordellerons",
+			"vous": "cordellerez",
+			"ils/elles": "cordelleront"
+		},
+		"passé simple": {
+			"je": "cordelai",
+			"tu": "cordelas",
+			"il/elle": "cordela",
+			"nous": "cordelâmes",
+			"vous": "cordelâtes",
+			"ils/elles": "cordelèrent"
+		},
+		"passé composé": {
+			"j'": "ai cordelé",
+			"tu": "as cordelé",
+			"il/elle": "a cordelé",
+			"nous": "avons cordelé",
+			"vous": "avez cordelé",
+			"ils/elles": "ont cordelé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais cordelé",
+			"tu": "avais cordelé",
+			"il/elle": "avait cordelé",
+			"nous": "avions cordelé",
+			"vous": "aviez cordelé",
+			"ils/elles": "avaient cordelé"
+		},
+		"passé antérieur": {
+			"j'": "eus cordelé",
+			"tu": "eus cordelé",
+			"il/elle": "eut cordelé",
+			"nous": "eûmes cordelé",
+			"vous": "eûtes cordelé",
+			"ils/elles": "eurent cordelé"
+		},
+		"futur antérieur": {
+			"j'": "aurai cordelé",
+			"tu": "auras cordelé",
+			"il/elle": "aura cordelé",
+			"nous": "aurons cordelé",
+			"vous": "aurez cordelé",
+			"ils/elles": "auront cordelé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous cordeliez",
+			"qu'il/elle": "cordelle",
+			"qu'ils/elles": "cordellent"
+		},
+		"imparfait": {
+			"que": "vous cordelassiez",
+			"qu'il/elle": "cordelât",
+			"qu'ils/elles": "cordelassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse cordelé",
+			"que": "vous eussiez cordelé",
+			"qu'il/elle": "eût cordelé",
+			"qu'ils/elles": "eussent cordelé"
+		},
+		"passé": {
+			"j'": "aie cordelé",
+			"que": "vous ayez cordelé",
+			"qu'il/elle": "ait cordelé",
+			"qu'ils/elles": "aient cordelé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "cordellerais",
+			"tu": "cordellerais",
+			"il/elle": "cordellerait",
+			"nous": "cordellerions",
+			"vous": "cordelleriez",
+			"ils/elles": "cordelleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais cordelé",
+			"tu": "aurais cordelé",
+			"il/elle": "aurait cordelé",
+			"nous": "aurions cordelé",
+			"vous": "auriez cordelé",
+			"ils/elles": "auraient cordelé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse cordelé",
+			"tu": "eusses cordelé",
+			"il/elle": "eût cordelé",
+			"nous": "eussions cordelé",
+			"vous": "eussiez cordelé",
+			"ils/elles": "eussent cordelé"
+		}
+	},
+	"participe": {
+		"présent": { "cordelant": "" },
+		"passé composé": { "ayant": "cordelé" },
+		"passé": {
+			"masc.sg.:": "cordelé",
+			"masc.pl.:": "cordelés",
+			"fém.sg.:": "cordelée",
+			"fém.pl.:": "cordelées"
+		}
+	},
+	"imperatif": {
+		"présent": { "cordelle": "", "cordelons": "", "cordelez": "" },
+		"passé": { "aie": "cordelé", "ayons": "cordelé", "ayez": "cordelé" }
+	},
+	"infinitif": {
+		"présent": { "cordeler": "" },
+		"passé": { "avoir": "cordelé" }
+	}
+}

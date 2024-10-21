@@ -1,0 +1,138 @@
+{
+	"name": "pomper",
+	"definition": "pump; suck; milk; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se pomper/ne pas pomper/ne pas se pomper",
+	"indicatif": {
+		"présent": {
+			"je": "pompe",
+			"tu": "pompes",
+			"il/elle": "pompe",
+			"nous": "pompons",
+			"vous": "pompez",
+			"ils/elles": "pompent"
+		},
+		"imparfait": {
+			"je": "pompais",
+			"tu": "pompais",
+			"il/elle": "pompait",
+			"nous": "pompions",
+			"vous": "pompiez",
+			"ils/elles": "pompaient"
+		},
+		"futur": {
+			"je": "pomperai",
+			"tu": "pomperas",
+			"il/elle": "pompera",
+			"nous": "pomperons",
+			"vous": "pomperez",
+			"ils/elles": "pomperont"
+		},
+		"passé simple": {
+			"je": "pompai",
+			"tu": "pompas",
+			"il/elle": "pompa",
+			"nous": "pompâmes",
+			"vous": "pompâtes",
+			"ils/elles": "pompèrent"
+		},
+		"passé composé": {
+			"j'": "ai pompé",
+			"tu": "as pompé",
+			"il/elle": "a pompé",
+			"nous": "avons pompé",
+			"vous": "avez pompé",
+			"ils/elles": "ont pompé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais pompé",
+			"tu": "avais pompé",
+			"il/elle": "avait pompé",
+			"nous": "avions pompé",
+			"vous": "aviez pompé",
+			"ils/elles": "avaient pompé"
+		},
+		"passé antérieur": {
+			"j'": "eus pompé",
+			"tu": "eus pompé",
+			"il/elle": "eut pompé",
+			"nous": "eûmes pompé",
+			"vous": "eûtes pompé",
+			"ils/elles": "eurent pompé"
+		},
+		"futur antérieur": {
+			"j'": "aurai pompé",
+			"tu": "auras pompé",
+			"il/elle": "aura pompé",
+			"nous": "aurons pompé",
+			"vous": "aurez pompé",
+			"ils/elles": "auront pompé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous pompiez",
+			"qu'il/elle": "pompe",
+			"qu'ils/elles": "pompent"
+		},
+		"imparfait": {
+			"que": "vous pompassiez",
+			"qu'il/elle": "pompât",
+			"qu'ils/elles": "pompassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse pompé",
+			"que": "vous eussiez pompé",
+			"qu'il/elle": "eût pompé",
+			"qu'ils/elles": "eussent pompé"
+		},
+		"passé": {
+			"j'": "aie pompé",
+			"que": "vous ayez pompé",
+			"qu'il/elle": "ait pompé",
+			"qu'ils/elles": "aient pompé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "pomperais",
+			"tu": "pomperais",
+			"il/elle": "pomperait",
+			"nous": "pomperions",
+			"vous": "pomperiez",
+			"ils/elles": "pomperaient"
+		},
+		"passé première forme": {
+			"j'": "aurais pompé",
+			"tu": "aurais pompé",
+			"il/elle": "aurait pompé",
+			"nous": "aurions pompé",
+			"vous": "auriez pompé",
+			"ils/elles": "auraient pompé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse pompé",
+			"tu": "eusses pompé",
+			"il/elle": "eût pompé",
+			"nous": "eussions pompé",
+			"vous": "eussiez pompé",
+			"ils/elles": "eussent pompé"
+		}
+	},
+	"participe": {
+		"présent": { "pompant": "" },
+		"passé composé": { "ayant": "pompé" },
+		"passé": {
+			"masc.sg.:": "pompé",
+			"masc.pl.:": "pompés",
+			"fém.sg.:": "pompée",
+			"fém.pl.:": "pompées"
+		}
+	},
+	"imperatif": {
+		"présent": { "pompe": "", "pompons": "", "pompez": "" },
+		"passé": { "aie": "pompé", "ayons": "pompé", "ayez": "pompé" }
+	},
+	"infinitif": { "présent": { "pomper": "" }, "passé": { "avoir": "pompé" } }
+}

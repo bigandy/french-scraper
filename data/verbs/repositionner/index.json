@@ -1,0 +1,149 @@
+{
+	"name": "repositionner",
+	"definition": "reposition; re-position; relocate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se repositionner/ne pas repositionner/ne pas se repositionner",
+	"indicatif": {
+		"présent": {
+			"je": "repositionne",
+			"tu": "repositionnes",
+			"il/elle": "repositionne",
+			"nous": "repositionnons",
+			"vous": "repositionnez",
+			"ils/elles": "repositionnent"
+		},
+		"imparfait": {
+			"je": "repositionnais",
+			"tu": "repositionnais",
+			"il/elle": "repositionnait",
+			"nous": "repositionnions",
+			"vous": "repositionniez",
+			"ils/elles": "repositionnaient"
+		},
+		"futur": {
+			"je": "repositionnerai",
+			"tu": "repositionneras",
+			"il/elle": "repositionnera",
+			"nous": "repositionnerons",
+			"vous": "repositionnerez",
+			"ils/elles": "repositionneront"
+		},
+		"passé simple": {
+			"je": "repositionnai",
+			"tu": "repositionnas",
+			"il/elle": "repositionna",
+			"nous": "repositionnâmes",
+			"vous": "repositionnâtes",
+			"ils/elles": "repositionnèrent"
+		},
+		"passé composé": {
+			"j'": "ai repositionné",
+			"tu": "as repositionné",
+			"il/elle": "a repositionné",
+			"nous": "avons repositionné",
+			"vous": "avez repositionné",
+			"ils/elles": "ont repositionné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais repositionné",
+			"tu": "avais repositionné",
+			"il/elle": "avait repositionné",
+			"nous": "avions repositionné",
+			"vous": "aviez repositionné",
+			"ils/elles": "avaient repositionné"
+		},
+		"passé antérieur": {
+			"j'": "eus repositionné",
+			"tu": "eus repositionné",
+			"il/elle": "eut repositionné",
+			"nous": "eûmes repositionné",
+			"vous": "eûtes repositionné",
+			"ils/elles": "eurent repositionné"
+		},
+		"futur antérieur": {
+			"j'": "aurai repositionné",
+			"tu": "auras repositionné",
+			"il/elle": "aura repositionné",
+			"nous": "aurons repositionné",
+			"vous": "aurez repositionné",
+			"ils/elles": "auront repositionné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous repositionniez",
+			"qu'il/elle": "repositionne",
+			"qu'ils/elles": "repositionnent"
+		},
+		"imparfait": {
+			"que": "vous repositionnassiez",
+			"qu'il/elle": "repositionnât",
+			"qu'ils/elles": "repositionnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse repositionné",
+			"que": "vous eussiez repositionné",
+			"qu'il/elle": "eût repositionné",
+			"qu'ils/elles": "eussent repositionné"
+		},
+		"passé": {
+			"j'": "aie repositionné",
+			"que": "vous ayez repositionné",
+			"qu'il/elle": "ait repositionné",
+			"qu'ils/elles": "aient repositionné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "repositionnerais",
+			"tu": "repositionnerais",
+			"il/elle": "repositionnerait",
+			"nous": "repositionnerions",
+			"vous": "repositionneriez",
+			"ils/elles": "repositionneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais repositionné",
+			"tu": "aurais repositionné",
+			"il/elle": "aurait repositionné",
+			"nous": "aurions repositionné",
+			"vous": "auriez repositionné",
+			"ils/elles": "auraient repositionné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse repositionné",
+			"tu": "eusses repositionné",
+			"il/elle": "eût repositionné",
+			"nous": "eussions repositionné",
+			"vous": "eussiez repositionné",
+			"ils/elles": "eussent repositionné"
+		}
+	},
+	"participe": {
+		"présent": { "repositionnant": "" },
+		"passé composé": { "ayant": "repositionné" },
+		"passé": {
+			"masc.sg.:": "repositionné",
+			"masc.pl.:": "repositionnés",
+			"fém.sg.:": "repositionnée",
+			"fém.pl.:": "repositionnées"
+		}
+	},
+	"imperatif": {
+		"présent": {
+			"repositionne": "",
+			"repositionnons": "",
+			"repositionnez": ""
+		},
+		"passé": {
+			"aie": "repositionné",
+			"ayons": "repositionné",
+			"ayez": "repositionné"
+		}
+	},
+	"infinitif": {
+		"présent": { "repositionner": "" },
+		"passé": { "avoir": "repositionné" }
+	}
+}

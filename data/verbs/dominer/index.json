@@ -1,0 +1,138 @@
+{
+	"name": "dominer",
+	"definition": "dominate; control; rule; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se dominer/ne pas dominer/ne pas se dominer",
+	"indicatif": {
+		"présent": {
+			"je": "domine",
+			"tu": "domines",
+			"il/elle": "domine",
+			"nous": "dominons",
+			"vous": "dominez",
+			"ils/elles": "dominent"
+		},
+		"imparfait": {
+			"je": "dominais",
+			"tu": "dominais",
+			"il/elle": "dominait",
+			"nous": "dominions",
+			"vous": "dominiez",
+			"ils/elles": "dominaient"
+		},
+		"futur": {
+			"je": "dominerai",
+			"tu": "domineras",
+			"il/elle": "dominera",
+			"nous": "dominerons",
+			"vous": "dominerez",
+			"ils/elles": "domineront"
+		},
+		"passé simple": {
+			"je": "dominai",
+			"tu": "dominas",
+			"il/elle": "domina",
+			"nous": "dominâmes",
+			"vous": "dominâtes",
+			"ils/elles": "dominèrent"
+		},
+		"passé composé": {
+			"j'": "ai dominé",
+			"tu": "as dominé",
+			"il/elle": "a dominé",
+			"nous": "avons dominé",
+			"vous": "avez dominé",
+			"ils/elles": "ont dominé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais dominé",
+			"tu": "avais dominé",
+			"il/elle": "avait dominé",
+			"nous": "avions dominé",
+			"vous": "aviez dominé",
+			"ils/elles": "avaient dominé"
+		},
+		"passé antérieur": {
+			"j'": "eus dominé",
+			"tu": "eus dominé",
+			"il/elle": "eut dominé",
+			"nous": "eûmes dominé",
+			"vous": "eûtes dominé",
+			"ils/elles": "eurent dominé"
+		},
+		"futur antérieur": {
+			"j'": "aurai dominé",
+			"tu": "auras dominé",
+			"il/elle": "aura dominé",
+			"nous": "aurons dominé",
+			"vous": "aurez dominé",
+			"ils/elles": "auront dominé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous dominiez",
+			"qu'il/elle": "domine",
+			"qu'ils/elles": "dominent"
+		},
+		"imparfait": {
+			"que": "vous dominassiez",
+			"qu'il/elle": "dominât",
+			"qu'ils/elles": "dominassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse dominé",
+			"que": "vous eussiez dominé",
+			"qu'il/elle": "eût dominé",
+			"qu'ils/elles": "eussent dominé"
+		},
+		"passé": {
+			"j'": "aie dominé",
+			"que": "vous ayez dominé",
+			"qu'il/elle": "ait dominé",
+			"qu'ils/elles": "aient dominé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "dominerais",
+			"tu": "dominerais",
+			"il/elle": "dominerait",
+			"nous": "dominerions",
+			"vous": "domineriez",
+			"ils/elles": "domineraient"
+		},
+		"passé première forme": {
+			"j'": "aurais dominé",
+			"tu": "aurais dominé",
+			"il/elle": "aurait dominé",
+			"nous": "aurions dominé",
+			"vous": "auriez dominé",
+			"ils/elles": "auraient dominé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse dominé",
+			"tu": "eusses dominé",
+			"il/elle": "eût dominé",
+			"nous": "eussions dominé",
+			"vous": "eussiez dominé",
+			"ils/elles": "eussent dominé"
+		}
+	},
+	"participe": {
+		"présent": { "dominant": "" },
+		"passé composé": { "ayant": "dominé" },
+		"passé": {
+			"masc.sg.:": "dominé",
+			"masc.pl.:": "dominés",
+			"fém.sg.:": "dominée",
+			"fém.pl.:": "dominées"
+		}
+	},
+	"imperatif": {
+		"présent": { "domine": "", "dominons": "", "dominez": "" },
+		"passé": { "aie": "dominé", "ayons": "dominé", "ayez": "dominé" }
+	},
+	"infinitif": { "présent": { "dominer": "" }, "passé": { "avoir": "dominé" } }
+}

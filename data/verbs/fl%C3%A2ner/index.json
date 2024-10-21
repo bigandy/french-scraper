@@ -1,0 +1,138 @@
+{
+	"name": "flâner",
+	"definition": "stroll; loiter; walk; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se flâner/ne pas flâner/ne pas se flâner",
+	"indicatif": {
+		"présent": {
+			"je": "flâne",
+			"tu": "flânes",
+			"il/elle": "flâne",
+			"nous": "flânons",
+			"vous": "flânez",
+			"ils/elles": "flânent"
+		},
+		"imparfait": {
+			"je": "flânais",
+			"tu": "flânais",
+			"il/elle": "flânait",
+			"nous": "flânions",
+			"vous": "flâniez",
+			"ils/elles": "flânaient"
+		},
+		"futur": {
+			"je": "flânerai",
+			"tu": "flâneras",
+			"il/elle": "flânera",
+			"nous": "flânerons",
+			"vous": "flânerez",
+			"ils/elles": "flâneront"
+		},
+		"passé simple": {
+			"je": "flânai",
+			"tu": "flânas",
+			"il/elle": "flâna",
+			"nous": "flânâmes",
+			"vous": "flânâtes",
+			"ils/elles": "flânèrent"
+		},
+		"passé composé": {
+			"j'": "ai flâné",
+			"tu": "as flâné",
+			"il/elle": "a flâné",
+			"nous": "avons flâné",
+			"vous": "avez flâné",
+			"ils/elles": "ont flâné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais flâné",
+			"tu": "avais flâné",
+			"il/elle": "avait flâné",
+			"nous": "avions flâné",
+			"vous": "aviez flâné",
+			"ils/elles": "avaient flâné"
+		},
+		"passé antérieur": {
+			"j'": "eus flâné",
+			"tu": "eus flâné",
+			"il/elle": "eut flâné",
+			"nous": "eûmes flâné",
+			"vous": "eûtes flâné",
+			"ils/elles": "eurent flâné"
+		},
+		"futur antérieur": {
+			"j'": "aurai flâné",
+			"tu": "auras flâné",
+			"il/elle": "aura flâné",
+			"nous": "aurons flâné",
+			"vous": "aurez flâné",
+			"ils/elles": "auront flâné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous flâniez",
+			"qu'il/elle": "flâne",
+			"qu'ils/elles": "flânent"
+		},
+		"imparfait": {
+			"que": "vous flânassiez",
+			"qu'il/elle": "flânât",
+			"qu'ils/elles": "flânassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse flâné",
+			"que": "vous eussiez flâné",
+			"qu'il/elle": "eût flâné",
+			"qu'ils/elles": "eussent flâné"
+		},
+		"passé": {
+			"j'": "aie flâné",
+			"que": "vous ayez flâné",
+			"qu'il/elle": "ait flâné",
+			"qu'ils/elles": "aient flâné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "flânerais",
+			"tu": "flânerais",
+			"il/elle": "flânerait",
+			"nous": "flânerions",
+			"vous": "flâneriez",
+			"ils/elles": "flâneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais flâné",
+			"tu": "aurais flâné",
+			"il/elle": "aurait flâné",
+			"nous": "aurions flâné",
+			"vous": "auriez flâné",
+			"ils/elles": "auraient flâné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse flâné",
+			"tu": "eusses flâné",
+			"il/elle": "eût flâné",
+			"nous": "eussions flâné",
+			"vous": "eussiez flâné",
+			"ils/elles": "eussent flâné"
+		}
+	},
+	"participe": {
+		"présent": { "flânant": "" },
+		"passé composé": { "ayant": "flâné" },
+		"passé": {
+			"masc.sg.:": "flâné",
+			"masc.pl.:": "flânés",
+			"fém.sg.:": "flânée",
+			"fém.pl.:": "flânées"
+		}
+	},
+	"imperatif": {
+		"présent": { "flâne": "", "flânons": "", "flânez": "" },
+		"passé": { "aie": "flâné", "ayons": "flâné", "ayez": "flâné" }
+	},
+	"infinitif": { "présent": { "flâner": "" }, "passé": { "avoir": "flâné" } }
+}

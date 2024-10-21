@@ -1,0 +1,143 @@
+{
+	"name": "éveiller",
+	"definition": "awaken; arouse; raise; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'éveiller/ne pas éveiller/ne pas s'éveiller",
+	"indicatif": {
+		"présent": {
+			"j'": "éveille",
+			"tu": "éveilles",
+			"il/elle": "éveille",
+			"nous": "éveillons",
+			"vous": "éveillez",
+			"ils/elles": "éveillent"
+		},
+		"imparfait": {
+			"j'": "éveillais",
+			"tu": "éveillais",
+			"il/elle": "éveillait",
+			"nous": "éveillions",
+			"vous": "éveilliez",
+			"ils/elles": "éveillaient"
+		},
+		"futur": {
+			"j'": "éveillerai",
+			"tu": "éveilleras",
+			"il/elle": "éveillera",
+			"nous": "éveillerons",
+			"vous": "éveillerez",
+			"ils/elles": "éveilleront"
+		},
+		"passé simple": {
+			"j'": "éveillai",
+			"tu": "éveillas",
+			"il/elle": "éveilla",
+			"nous": "éveillâmes",
+			"vous": "éveillâtes",
+			"ils/elles": "éveillèrent"
+		},
+		"passé composé": {
+			"j'": "ai éveillé",
+			"tu": "as éveillé",
+			"il/elle": "a éveillé",
+			"nous": "avons éveillé",
+			"vous": "avez éveillé",
+			"ils/elles": "ont éveillé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais éveillé",
+			"tu": "avais éveillé",
+			"il/elle": "avait éveillé",
+			"nous": "avions éveillé",
+			"vous": "aviez éveillé",
+			"ils/elles": "avaient éveillé"
+		},
+		"passé antérieur": {
+			"j'": "eus éveillé",
+			"tu": "eus éveillé",
+			"il/elle": "eut éveillé",
+			"nous": "eûmes éveillé",
+			"vous": "eûtes éveillé",
+			"ils/elles": "eurent éveillé"
+		},
+		"futur antérieur": {
+			"j'": "aurai éveillé",
+			"tu": "auras éveillé",
+			"il/elle": "aura éveillé",
+			"nous": "aurons éveillé",
+			"vous": "aurez éveillé",
+			"ils/elles": "auront éveillé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "éveille",
+			"que": "vous éveilliez",
+			"qu'il/elle": "éveille",
+			"qu'ils/elles": "éveillent"
+		},
+		"imparfait": {
+			"j'": "éveillasse",
+			"que": "vous éveillassiez",
+			"qu'il/elle": "éveillât",
+			"qu'ils/elles": "éveillassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse éveillé",
+			"que": "vous eussiez éveillé",
+			"qu'il/elle": "eût éveillé",
+			"qu'ils/elles": "eussent éveillé"
+		},
+		"passé": {
+			"j'": "aie éveillé",
+			"que": "vous ayez éveillé",
+			"qu'il/elle": "ait éveillé",
+			"qu'ils/elles": "aient éveillé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "éveillerais",
+			"tu": "éveillerais",
+			"il/elle": "éveillerait",
+			"nous": "éveillerions",
+			"vous": "éveilleriez",
+			"ils/elles": "éveilleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais éveillé",
+			"tu": "aurais éveillé",
+			"il/elle": "aurait éveillé",
+			"nous": "aurions éveillé",
+			"vous": "auriez éveillé",
+			"ils/elles": "auraient éveillé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse éveillé",
+			"tu": "eusses éveillé",
+			"il/elle": "eût éveillé",
+			"nous": "eussions éveillé",
+			"vous": "eussiez éveillé",
+			"ils/elles": "eussent éveillé"
+		}
+	},
+	"participe": {
+		"présent": { "éveillant": "" },
+		"passé composé": { "ayant": "éveillé" },
+		"passé": {
+			"masc.sg.:": "éveillé",
+			"masc.pl.:": "éveillés",
+			"fém.sg.:": "éveillée",
+			"fém.pl.:": "éveillées"
+		}
+	},
+	"imperatif": {
+		"présent": { "éveille": "", "éveillons": "", "éveillez": "" },
+		"passé": { "aie": "éveillé", "ayons": "éveillé", "ayez": "éveillé" }
+	},
+	"infinitif": {
+		"présent": { "éveiller": "" },
+		"passé": { "avoir": "éveillé" }
+	}
+}

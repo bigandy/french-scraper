@@ -1,0 +1,138 @@
+{
+	"name": "redire",
+	"definition": "reiterate; repeat; fault; ...",
+	"model": "dire",
+	"auxiliary": "avoir",
+	"otherForms": "se redire/ne pas redire/ne pas se redire",
+	"indicatif": {
+		"présent": {
+			"je": "redis",
+			"tu": "redis",
+			"il/elle": "redit",
+			"nous": "redisons",
+			"vous": "redites",
+			"ils/elles": "redisent"
+		},
+		"imparfait": {
+			"je": "redisais",
+			"tu": "redisais",
+			"il/elle": "redisait",
+			"nous": "redisions",
+			"vous": "redisiez",
+			"ils/elles": "redisaient"
+		},
+		"futur": {
+			"je": "redirai",
+			"tu": "rediras",
+			"il/elle": "redira",
+			"nous": "redirons",
+			"vous": "redirez",
+			"ils/elles": "rediront"
+		},
+		"passé simple": {
+			"je": "redis",
+			"tu": "redis",
+			"il/elle": "redit",
+			"nous": "redîmes",
+			"vous": "redîtes",
+			"ils/elles": "redirent"
+		},
+		"passé composé": {
+			"j'": "ai redit",
+			"tu": "as redit",
+			"il/elle": "a redit",
+			"nous": "avons redit",
+			"vous": "avez redit",
+			"ils/elles": "ont redit"
+		},
+		"plus-que-parfait": {
+			"j'": "avais redit",
+			"tu": "avais redit",
+			"il/elle": "avait redit",
+			"nous": "avions redit",
+			"vous": "aviez redit",
+			"ils/elles": "avaient redit"
+		},
+		"passé antérieur": {
+			"j'": "eus redit",
+			"tu": "eus redit",
+			"il/elle": "eut redit",
+			"nous": "eûmes redit",
+			"vous": "eûtes redit",
+			"ils/elles": "eurent redit"
+		},
+		"futur antérieur": {
+			"j'": "aurai redit",
+			"tu": "auras redit",
+			"il/elle": "aura redit",
+			"nous": "aurons redit",
+			"vous": "aurez redit",
+			"ils/elles": "auront redit"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous redisiez",
+			"qu'il/elle": "redise",
+			"qu'ils/elles": "redisent"
+		},
+		"imparfait": {
+			"que": "vous redissiez",
+			"qu'il/elle": "redît",
+			"qu'ils/elles": "redissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse redit",
+			"que": "vous eussiez redit",
+			"qu'il/elle": "eût redit",
+			"qu'ils/elles": "eussent redit"
+		},
+		"passé": {
+			"j'": "aie redit",
+			"que": "vous ayez redit",
+			"qu'il/elle": "ait redit",
+			"qu'ils/elles": "aient redit"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "redirais",
+			"tu": "redirais",
+			"il/elle": "redirait",
+			"nous": "redirions",
+			"vous": "rediriez",
+			"ils/elles": "rediraient"
+		},
+		"passé première forme": {
+			"j'": "aurais redit",
+			"tu": "aurais redit",
+			"il/elle": "aurait redit",
+			"nous": "aurions redit",
+			"vous": "auriez redit",
+			"ils/elles": "auraient redit"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse redit",
+			"tu": "eusses redit",
+			"il/elle": "eût redit",
+			"nous": "eussions redit",
+			"vous": "eussiez redit",
+			"ils/elles": "eussent redit"
+		}
+	},
+	"participe": {
+		"présent": { "redisant": "" },
+		"passé composé": { "ayant": "redit" },
+		"passé": {
+			"masc.sg.:": "redit",
+			"masc.pl.:": "redits",
+			"fém.sg.:": "redite",
+			"fém.pl.:": "redites"
+		}
+	},
+	"imperatif": {
+		"présent": { "redis": "", "redisons": "", "redites": "" },
+		"passé": { "aie": "redit", "ayons": "redit", "ayez": "redit" }
+	},
+	"infinitif": { "présent": { "redire": "" }, "passé": { "avoir": "redit" } }
+}

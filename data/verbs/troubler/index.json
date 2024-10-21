@@ -1,0 +1,141 @@
+{
+	"name": "troubler",
+	"definition": "disturb; trouble; disrupt; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se troubler/ne pas troubler/ne pas se troubler",
+	"indicatif": {
+		"présent": {
+			"je": "trouble",
+			"tu": "troubles",
+			"il/elle": "trouble",
+			"nous": "troublons",
+			"vous": "troublez",
+			"ils/elles": "troublent"
+		},
+		"imparfait": {
+			"je": "troublais",
+			"tu": "troublais",
+			"il/elle": "troublait",
+			"nous": "troublions",
+			"vous": "troubliez",
+			"ils/elles": "troublaient"
+		},
+		"futur": {
+			"je": "troublerai",
+			"tu": "troubleras",
+			"il/elle": "troublera",
+			"nous": "troublerons",
+			"vous": "troublerez",
+			"ils/elles": "troubleront"
+		},
+		"passé simple": {
+			"je": "troublai",
+			"tu": "troublas",
+			"il/elle": "troubla",
+			"nous": "troublâmes",
+			"vous": "troublâtes",
+			"ils/elles": "troublèrent"
+		},
+		"passé composé": {
+			"j'": "ai troublé",
+			"tu": "as troublé",
+			"il/elle": "a troublé",
+			"nous": "avons troublé",
+			"vous": "avez troublé",
+			"ils/elles": "ont troublé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais troublé",
+			"tu": "avais troublé",
+			"il/elle": "avait troublé",
+			"nous": "avions troublé",
+			"vous": "aviez troublé",
+			"ils/elles": "avaient troublé"
+		},
+		"passé antérieur": {
+			"j'": "eus troublé",
+			"tu": "eus troublé",
+			"il/elle": "eut troublé",
+			"nous": "eûmes troublé",
+			"vous": "eûtes troublé",
+			"ils/elles": "eurent troublé"
+		},
+		"futur antérieur": {
+			"j'": "aurai troublé",
+			"tu": "auras troublé",
+			"il/elle": "aura troublé",
+			"nous": "aurons troublé",
+			"vous": "aurez troublé",
+			"ils/elles": "auront troublé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous troubliez",
+			"qu'il/elle": "trouble",
+			"qu'ils/elles": "troublent"
+		},
+		"imparfait": {
+			"que": "vous troublassiez",
+			"qu'il/elle": "troublât",
+			"qu'ils/elles": "troublassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse troublé",
+			"que": "vous eussiez troublé",
+			"qu'il/elle": "eût troublé",
+			"qu'ils/elles": "eussent troublé"
+		},
+		"passé": {
+			"j'": "aie troublé",
+			"que": "vous ayez troublé",
+			"qu'il/elle": "ait troublé",
+			"qu'ils/elles": "aient troublé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "troublerais",
+			"tu": "troublerais",
+			"il/elle": "troublerait",
+			"nous": "troublerions",
+			"vous": "troubleriez",
+			"ils/elles": "troubleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais troublé",
+			"tu": "aurais troublé",
+			"il/elle": "aurait troublé",
+			"nous": "aurions troublé",
+			"vous": "auriez troublé",
+			"ils/elles": "auraient troublé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse troublé",
+			"tu": "eusses troublé",
+			"il/elle": "eût troublé",
+			"nous": "eussions troublé",
+			"vous": "eussiez troublé",
+			"ils/elles": "eussent troublé"
+		}
+	},
+	"participe": {
+		"présent": { "troublant": "" },
+		"passé composé": { "ayant": "troublé" },
+		"passé": {
+			"masc.sg.:": "troublé",
+			"masc.pl.:": "troublés",
+			"fém.sg.:": "troublée",
+			"fém.pl.:": "troublées"
+		}
+	},
+	"imperatif": {
+		"présent": { "trouble": "", "troublons": "", "troublez": "" },
+		"passé": { "aie": "troublé", "ayons": "troublé", "ayez": "troublé" }
+	},
+	"infinitif": {
+		"présent": { "troubler": "" },
+		"passé": { "avoir": "troublé" }
+	}
+}

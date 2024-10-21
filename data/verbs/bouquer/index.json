@@ -1,0 +1,138 @@
+{
+	"name": "bouquer",
+	"definition": "",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se bouquer/ne pas bouquer/ne pas se bouquer",
+	"indicatif": {
+		"présent": {
+			"je": "bouque",
+			"tu": "bouques",
+			"il/elle": "bouque",
+			"nous": "bouquons",
+			"vous": "bouquez",
+			"ils/elles": "bouquent"
+		},
+		"imparfait": {
+			"je": "bouquais",
+			"tu": "bouquais",
+			"il/elle": "bouquait",
+			"nous": "bouquions",
+			"vous": "bouquiez",
+			"ils/elles": "bouquaient"
+		},
+		"futur": {
+			"je": "bouquerai",
+			"tu": "bouqueras",
+			"il/elle": "bouquera",
+			"nous": "bouquerons",
+			"vous": "bouquerez",
+			"ils/elles": "bouqueront"
+		},
+		"passé simple": {
+			"je": "bouquai",
+			"tu": "bouquas",
+			"il/elle": "bouqua",
+			"nous": "bouquâmes",
+			"vous": "bouquâtes",
+			"ils/elles": "bouquèrent"
+		},
+		"passé composé": {
+			"j'": "ai bouqué",
+			"tu": "as bouqué",
+			"il/elle": "a bouqué",
+			"nous": "avons bouqué",
+			"vous": "avez bouqué",
+			"ils/elles": "ont bouqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais bouqué",
+			"tu": "avais bouqué",
+			"il/elle": "avait bouqué",
+			"nous": "avions bouqué",
+			"vous": "aviez bouqué",
+			"ils/elles": "avaient bouqué"
+		},
+		"passé antérieur": {
+			"j'": "eus bouqué",
+			"tu": "eus bouqué",
+			"il/elle": "eut bouqué",
+			"nous": "eûmes bouqué",
+			"vous": "eûtes bouqué",
+			"ils/elles": "eurent bouqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai bouqué",
+			"tu": "auras bouqué",
+			"il/elle": "aura bouqué",
+			"nous": "aurons bouqué",
+			"vous": "aurez bouqué",
+			"ils/elles": "auront bouqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous bouquiez",
+			"qu'il/elle": "bouque",
+			"qu'ils/elles": "bouquent"
+		},
+		"imparfait": {
+			"que": "vous bouquassiez",
+			"qu'il/elle": "bouquât",
+			"qu'ils/elles": "bouquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse bouqué",
+			"que": "vous eussiez bouqué",
+			"qu'il/elle": "eût bouqué",
+			"qu'ils/elles": "eussent bouqué"
+		},
+		"passé": {
+			"j'": "aie bouqué",
+			"que": "vous ayez bouqué",
+			"qu'il/elle": "ait bouqué",
+			"qu'ils/elles": "aient bouqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "bouquerais",
+			"tu": "bouquerais",
+			"il/elle": "bouquerait",
+			"nous": "bouquerions",
+			"vous": "bouqueriez",
+			"ils/elles": "bouqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais bouqué",
+			"tu": "aurais bouqué",
+			"il/elle": "aurait bouqué",
+			"nous": "aurions bouqué",
+			"vous": "auriez bouqué",
+			"ils/elles": "auraient bouqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse bouqué",
+			"tu": "eusses bouqué",
+			"il/elle": "eût bouqué",
+			"nous": "eussions bouqué",
+			"vous": "eussiez bouqué",
+			"ils/elles": "eussent bouqué"
+		}
+	},
+	"participe": {
+		"présent": { "bouquant": "" },
+		"passé composé": { "ayant": "bouqué" },
+		"passé": {
+			"masc.sg.:": "bouqué",
+			"masc.pl.:": "bouqués",
+			"fém.sg.:": "bouquée",
+			"fém.pl.:": "bouquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "bouque": "", "bouquons": "", "bouquez": "" },
+		"passé": { "aie": "bouqué", "ayons": "bouqué", "ayez": "bouqué" }
+	},
+	"infinitif": { "présent": { "bouquer": "" }, "passé": { "avoir": "bouqué" } }
+}

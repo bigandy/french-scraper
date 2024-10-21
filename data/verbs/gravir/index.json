@@ -1,0 +1,138 @@
+{
+	"name": "gravir",
+	"definition": "climb; climb up; ascend; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se gravir/ne pas gravir/ne pas se gravir",
+	"indicatif": {
+		"présent": {
+			"je": "gravis",
+			"tu": "gravis",
+			"il/elle": "gravit",
+			"nous": "gravissons",
+			"vous": "gravissez",
+			"ils/elles": "gravissent"
+		},
+		"imparfait": {
+			"je": "gravissais",
+			"tu": "gravissais",
+			"il/elle": "gravissait",
+			"nous": "gravissions",
+			"vous": "gravissiez",
+			"ils/elles": "gravissaient"
+		},
+		"futur": {
+			"je": "gravirai",
+			"tu": "graviras",
+			"il/elle": "gravira",
+			"nous": "gravirons",
+			"vous": "gravirez",
+			"ils/elles": "graviront"
+		},
+		"passé simple": {
+			"je": "gravis",
+			"tu": "gravis",
+			"il/elle": "gravit",
+			"nous": "gravîmes",
+			"vous": "gravîtes",
+			"ils/elles": "gravirent"
+		},
+		"passé composé": {
+			"j'": "ai gravi",
+			"tu": "as gravi",
+			"il/elle": "a gravi",
+			"nous": "avons gravi",
+			"vous": "avez gravi",
+			"ils/elles": "ont gravi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais gravi",
+			"tu": "avais gravi",
+			"il/elle": "avait gravi",
+			"nous": "avions gravi",
+			"vous": "aviez gravi",
+			"ils/elles": "avaient gravi"
+		},
+		"passé antérieur": {
+			"j'": "eus gravi",
+			"tu": "eus gravi",
+			"il/elle": "eut gravi",
+			"nous": "eûmes gravi",
+			"vous": "eûtes gravi",
+			"ils/elles": "eurent gravi"
+		},
+		"futur antérieur": {
+			"j'": "aurai gravi",
+			"tu": "auras gravi",
+			"il/elle": "aura gravi",
+			"nous": "aurons gravi",
+			"vous": "aurez gravi",
+			"ils/elles": "auront gravi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous gravissiez",
+			"qu'il/elle": "gravisse",
+			"qu'ils/elles": "gravissent"
+		},
+		"imparfait": {
+			"que": "vous gravissiez",
+			"qu'il/elle": "gravît",
+			"qu'ils/elles": "gravissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse gravi",
+			"que": "vous eussiez gravi",
+			"qu'il/elle": "eût gravi",
+			"qu'ils/elles": "eussent gravi"
+		},
+		"passé": {
+			"j'": "aie gravi",
+			"que": "vous ayez gravi",
+			"qu'il/elle": "ait gravi",
+			"qu'ils/elles": "aient gravi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "gravirais",
+			"tu": "gravirais",
+			"il/elle": "gravirait",
+			"nous": "gravirions",
+			"vous": "graviriez",
+			"ils/elles": "graviraient"
+		},
+		"passé première forme": {
+			"j'": "aurais gravi",
+			"tu": "aurais gravi",
+			"il/elle": "aurait gravi",
+			"nous": "aurions gravi",
+			"vous": "auriez gravi",
+			"ils/elles": "auraient gravi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse gravi",
+			"tu": "eusses gravi",
+			"il/elle": "eût gravi",
+			"nous": "eussions gravi",
+			"vous": "eussiez gravi",
+			"ils/elles": "eussent gravi"
+		}
+	},
+	"participe": {
+		"présent": { "gravissant": "" },
+		"passé composé": { "ayant": "gravi" },
+		"passé": {
+			"masc.sg.:": "gravi",
+			"masc.pl.:": "gravis",
+			"fém.sg.:": "gravie",
+			"fém.pl.:": "gravies"
+		}
+	},
+	"imperatif": {
+		"présent": { "gravis": "", "gravissons": "", "gravissez": "" },
+		"passé": { "aie": "gravi", "ayons": "gravi", "ayez": "gravi" }
+	},
+	"infinitif": { "présent": { "gravir": "" }, "passé": { "avoir": "gravi" } }
+}

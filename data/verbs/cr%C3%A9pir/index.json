@@ -1,0 +1,138 @@
+{
+	"name": "crépir",
+	"definition": "plaster; roughcast; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se crépir/ne pas crépir/ne pas se crépir",
+	"indicatif": {
+		"présent": {
+			"je": "crépis",
+			"tu": "crépis",
+			"il/elle": "crépit",
+			"nous": "crépissons",
+			"vous": "crépissez",
+			"ils/elles": "crépissent"
+		},
+		"imparfait": {
+			"je": "crépissais",
+			"tu": "crépissais",
+			"il/elle": "crépissait",
+			"nous": "crépissions",
+			"vous": "crépissiez",
+			"ils/elles": "crépissaient"
+		},
+		"futur": {
+			"je": "crépirai",
+			"tu": "crépiras",
+			"il/elle": "crépira",
+			"nous": "crépirons",
+			"vous": "crépirez",
+			"ils/elles": "crépiront"
+		},
+		"passé simple": {
+			"je": "crépis",
+			"tu": "crépis",
+			"il/elle": "crépit",
+			"nous": "crépîmes",
+			"vous": "crépîtes",
+			"ils/elles": "crépirent"
+		},
+		"passé composé": {
+			"j'": "ai crépi",
+			"tu": "as crépi",
+			"il/elle": "a crépi",
+			"nous": "avons crépi",
+			"vous": "avez crépi",
+			"ils/elles": "ont crépi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais crépi",
+			"tu": "avais crépi",
+			"il/elle": "avait crépi",
+			"nous": "avions crépi",
+			"vous": "aviez crépi",
+			"ils/elles": "avaient crépi"
+		},
+		"passé antérieur": {
+			"j'": "eus crépi",
+			"tu": "eus crépi",
+			"il/elle": "eut crépi",
+			"nous": "eûmes crépi",
+			"vous": "eûtes crépi",
+			"ils/elles": "eurent crépi"
+		},
+		"futur antérieur": {
+			"j'": "aurai crépi",
+			"tu": "auras crépi",
+			"il/elle": "aura crépi",
+			"nous": "aurons crépi",
+			"vous": "aurez crépi",
+			"ils/elles": "auront crépi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous crépissiez",
+			"qu'il/elle": "crépisse",
+			"qu'ils/elles": "crépissent"
+		},
+		"imparfait": {
+			"que": "vous crépissiez",
+			"qu'il/elle": "crépît",
+			"qu'ils/elles": "crépissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse crépi",
+			"que": "vous eussiez crépi",
+			"qu'il/elle": "eût crépi",
+			"qu'ils/elles": "eussent crépi"
+		},
+		"passé": {
+			"j'": "aie crépi",
+			"que": "vous ayez crépi",
+			"qu'il/elle": "ait crépi",
+			"qu'ils/elles": "aient crépi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "crépirais",
+			"tu": "crépirais",
+			"il/elle": "crépirait",
+			"nous": "crépirions",
+			"vous": "crépiriez",
+			"ils/elles": "crépiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais crépi",
+			"tu": "aurais crépi",
+			"il/elle": "aurait crépi",
+			"nous": "aurions crépi",
+			"vous": "auriez crépi",
+			"ils/elles": "auraient crépi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse crépi",
+			"tu": "eusses crépi",
+			"il/elle": "eût crépi",
+			"nous": "eussions crépi",
+			"vous": "eussiez crépi",
+			"ils/elles": "eussent crépi"
+		}
+	},
+	"participe": {
+		"présent": { "crépissant": "" },
+		"passé composé": { "ayant": "crépi" },
+		"passé": {
+			"masc.sg.:": "crépi",
+			"masc.pl.:": "crépis",
+			"fém.sg.:": "crépie",
+			"fém.pl.:": "crépies"
+		}
+	},
+	"imperatif": {
+		"présent": { "crépis": "", "crépissons": "", "crépissez": "" },
+		"passé": { "aie": "crépi", "ayons": "crépi", "ayez": "crépi" }
+	},
+	"infinitif": { "présent": { "crépir": "" }, "passé": { "avoir": "crépi" } }
+}

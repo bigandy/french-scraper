@@ -1,0 +1,138 @@
+{
+	"name": "saboter",
+	"definition": "sabotage; undermine; ruin; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se saboter/ne pas saboter/ne pas se saboter",
+	"indicatif": {
+		"présent": {
+			"je": "sabote",
+			"tu": "sabotes",
+			"il/elle": "sabote",
+			"nous": "sabotons",
+			"vous": "sabotez",
+			"ils/elles": "sabotent"
+		},
+		"imparfait": {
+			"je": "sabotais",
+			"tu": "sabotais",
+			"il/elle": "sabotait",
+			"nous": "sabotions",
+			"vous": "sabotiez",
+			"ils/elles": "sabotaient"
+		},
+		"futur": {
+			"je": "saboterai",
+			"tu": "saboteras",
+			"il/elle": "sabotera",
+			"nous": "saboterons",
+			"vous": "saboterez",
+			"ils/elles": "saboteront"
+		},
+		"passé simple": {
+			"je": "sabotai",
+			"tu": "sabotas",
+			"il/elle": "sabota",
+			"nous": "sabotâmes",
+			"vous": "sabotâtes",
+			"ils/elles": "sabotèrent"
+		},
+		"passé composé": {
+			"j'": "ai saboté",
+			"tu": "as saboté",
+			"il/elle": "a saboté",
+			"nous": "avons saboté",
+			"vous": "avez saboté",
+			"ils/elles": "ont saboté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais saboté",
+			"tu": "avais saboté",
+			"il/elle": "avait saboté",
+			"nous": "avions saboté",
+			"vous": "aviez saboté",
+			"ils/elles": "avaient saboté"
+		},
+		"passé antérieur": {
+			"j'": "eus saboté",
+			"tu": "eus saboté",
+			"il/elle": "eut saboté",
+			"nous": "eûmes saboté",
+			"vous": "eûtes saboté",
+			"ils/elles": "eurent saboté"
+		},
+		"futur antérieur": {
+			"j'": "aurai saboté",
+			"tu": "auras saboté",
+			"il/elle": "aura saboté",
+			"nous": "aurons saboté",
+			"vous": "aurez saboté",
+			"ils/elles": "auront saboté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous sabotiez",
+			"qu'il/elle": "sabote",
+			"qu'ils/elles": "sabotent"
+		},
+		"imparfait": {
+			"que": "vous sabotassiez",
+			"qu'il/elle": "sabotât",
+			"qu'ils/elles": "sabotassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse saboté",
+			"que": "vous eussiez saboté",
+			"qu'il/elle": "eût saboté",
+			"qu'ils/elles": "eussent saboté"
+		},
+		"passé": {
+			"j'": "aie saboté",
+			"que": "vous ayez saboté",
+			"qu'il/elle": "ait saboté",
+			"qu'ils/elles": "aient saboté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "saboterais",
+			"tu": "saboterais",
+			"il/elle": "saboterait",
+			"nous": "saboterions",
+			"vous": "saboteriez",
+			"ils/elles": "saboteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais saboté",
+			"tu": "aurais saboté",
+			"il/elle": "aurait saboté",
+			"nous": "aurions saboté",
+			"vous": "auriez saboté",
+			"ils/elles": "auraient saboté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse saboté",
+			"tu": "eusses saboté",
+			"il/elle": "eût saboté",
+			"nous": "eussions saboté",
+			"vous": "eussiez saboté",
+			"ils/elles": "eussent saboté"
+		}
+	},
+	"participe": {
+		"présent": { "sabotant": "" },
+		"passé composé": { "ayant": "saboté" },
+		"passé": {
+			"masc.sg.:": "saboté",
+			"masc.pl.:": "sabotés",
+			"fém.sg.:": "sabotée",
+			"fém.pl.:": "sabotées"
+		}
+	},
+	"imperatif": {
+		"présent": { "sabote": "", "sabotons": "", "sabotez": "" },
+		"passé": { "aie": "saboté", "ayons": "saboté", "ayez": "saboté" }
+	},
+	"infinitif": { "présent": { "saboter": "" }, "passé": { "avoir": "saboté" } }
+}

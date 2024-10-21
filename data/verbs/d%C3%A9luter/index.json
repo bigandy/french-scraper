@@ -1,0 +1,138 @@
+{
+	"name": "déluter",
+	"definition": "",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se déluter/ne pas déluter/ne pas se déluter",
+	"indicatif": {
+		"présent": {
+			"je": "délute",
+			"tu": "délutes",
+			"il/elle": "délute",
+			"nous": "délutons",
+			"vous": "délutez",
+			"ils/elles": "délutent"
+		},
+		"imparfait": {
+			"je": "délutais",
+			"tu": "délutais",
+			"il/elle": "délutait",
+			"nous": "délutions",
+			"vous": "délutiez",
+			"ils/elles": "délutaient"
+		},
+		"futur": {
+			"je": "déluterai",
+			"tu": "déluteras",
+			"il/elle": "délutera",
+			"nous": "déluterons",
+			"vous": "déluterez",
+			"ils/elles": "déluteront"
+		},
+		"passé simple": {
+			"je": "délutai",
+			"tu": "délutas",
+			"il/elle": "déluta",
+			"nous": "délutâmes",
+			"vous": "délutâtes",
+			"ils/elles": "délutèrent"
+		},
+		"passé composé": {
+			"j'": "ai déluté",
+			"tu": "as déluté",
+			"il/elle": "a déluté",
+			"nous": "avons déluté",
+			"vous": "avez déluté",
+			"ils/elles": "ont déluté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais déluté",
+			"tu": "avais déluté",
+			"il/elle": "avait déluté",
+			"nous": "avions déluté",
+			"vous": "aviez déluté",
+			"ils/elles": "avaient déluté"
+		},
+		"passé antérieur": {
+			"j'": "eus déluté",
+			"tu": "eus déluté",
+			"il/elle": "eut déluté",
+			"nous": "eûmes déluté",
+			"vous": "eûtes déluté",
+			"ils/elles": "eurent déluté"
+		},
+		"futur antérieur": {
+			"j'": "aurai déluté",
+			"tu": "auras déluté",
+			"il/elle": "aura déluté",
+			"nous": "aurons déluté",
+			"vous": "aurez déluté",
+			"ils/elles": "auront déluté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous délutiez",
+			"qu'il/elle": "délute",
+			"qu'ils/elles": "délutent"
+		},
+		"imparfait": {
+			"que": "vous délutassiez",
+			"qu'il/elle": "délutât",
+			"qu'ils/elles": "délutassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse déluté",
+			"que": "vous eussiez déluté",
+			"qu'il/elle": "eût déluté",
+			"qu'ils/elles": "eussent déluté"
+		},
+		"passé": {
+			"j'": "aie déluté",
+			"que": "vous ayez déluté",
+			"qu'il/elle": "ait déluté",
+			"qu'ils/elles": "aient déluté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "déluterais",
+			"tu": "déluterais",
+			"il/elle": "déluterait",
+			"nous": "déluterions",
+			"vous": "déluteriez",
+			"ils/elles": "déluteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais déluté",
+			"tu": "aurais déluté",
+			"il/elle": "aurait déluté",
+			"nous": "aurions déluté",
+			"vous": "auriez déluté",
+			"ils/elles": "auraient déluté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse déluté",
+			"tu": "eusses déluté",
+			"il/elle": "eût déluté",
+			"nous": "eussions déluté",
+			"vous": "eussiez déluté",
+			"ils/elles": "eussent déluté"
+		}
+	},
+	"participe": {
+		"présent": { "délutant": "" },
+		"passé composé": { "ayant": "déluté" },
+		"passé": {
+			"masc.sg.:": "déluté",
+			"masc.pl.:": "délutés",
+			"fém.sg.:": "délutée",
+			"fém.pl.:": "délutées"
+		}
+	},
+	"imperatif": {
+		"présent": { "délute": "", "délutons": "", "délutez": "" },
+		"passé": { "aie": "déluté", "ayons": "déluté", "ayez": "déluté" }
+	},
+	"infinitif": { "présent": { "déluter": "" }, "passé": { "avoir": "déluté" } }
+}

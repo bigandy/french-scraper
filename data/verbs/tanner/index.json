@@ -1,0 +1,138 @@
+{
+	"name": "tanner",
+	"definition": "tan; nag; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se tanner/ne pas tanner/ne pas se tanner",
+	"indicatif": {
+		"présent": {
+			"je": "tanne",
+			"tu": "tannes",
+			"il/elle": "tanne",
+			"nous": "tannons",
+			"vous": "tannez",
+			"ils/elles": "tannent"
+		},
+		"imparfait": {
+			"je": "tannais",
+			"tu": "tannais",
+			"il/elle": "tannait",
+			"nous": "tannions",
+			"vous": "tanniez",
+			"ils/elles": "tannaient"
+		},
+		"futur": {
+			"je": "tannerai",
+			"tu": "tanneras",
+			"il/elle": "tannera",
+			"nous": "tannerons",
+			"vous": "tannerez",
+			"ils/elles": "tanneront"
+		},
+		"passé simple": {
+			"je": "tannai",
+			"tu": "tannas",
+			"il/elle": "tanna",
+			"nous": "tannâmes",
+			"vous": "tannâtes",
+			"ils/elles": "tannèrent"
+		},
+		"passé composé": {
+			"j'": "ai tanné",
+			"tu": "as tanné",
+			"il/elle": "a tanné",
+			"nous": "avons tanné",
+			"vous": "avez tanné",
+			"ils/elles": "ont tanné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais tanné",
+			"tu": "avais tanné",
+			"il/elle": "avait tanné",
+			"nous": "avions tanné",
+			"vous": "aviez tanné",
+			"ils/elles": "avaient tanné"
+		},
+		"passé antérieur": {
+			"j'": "eus tanné",
+			"tu": "eus tanné",
+			"il/elle": "eut tanné",
+			"nous": "eûmes tanné",
+			"vous": "eûtes tanné",
+			"ils/elles": "eurent tanné"
+		},
+		"futur antérieur": {
+			"j'": "aurai tanné",
+			"tu": "auras tanné",
+			"il/elle": "aura tanné",
+			"nous": "aurons tanné",
+			"vous": "aurez tanné",
+			"ils/elles": "auront tanné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous tanniez",
+			"qu'il/elle": "tanne",
+			"qu'ils/elles": "tannent"
+		},
+		"imparfait": {
+			"que": "vous tannassiez",
+			"qu'il/elle": "tannât",
+			"qu'ils/elles": "tannassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse tanné",
+			"que": "vous eussiez tanné",
+			"qu'il/elle": "eût tanné",
+			"qu'ils/elles": "eussent tanné"
+		},
+		"passé": {
+			"j'": "aie tanné",
+			"que": "vous ayez tanné",
+			"qu'il/elle": "ait tanné",
+			"qu'ils/elles": "aient tanné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "tannerais",
+			"tu": "tannerais",
+			"il/elle": "tannerait",
+			"nous": "tannerions",
+			"vous": "tanneriez",
+			"ils/elles": "tanneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais tanné",
+			"tu": "aurais tanné",
+			"il/elle": "aurait tanné",
+			"nous": "aurions tanné",
+			"vous": "auriez tanné",
+			"ils/elles": "auraient tanné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse tanné",
+			"tu": "eusses tanné",
+			"il/elle": "eût tanné",
+			"nous": "eussions tanné",
+			"vous": "eussiez tanné",
+			"ils/elles": "eussent tanné"
+		}
+	},
+	"participe": {
+		"présent": { "tannant": "" },
+		"passé composé": { "ayant": "tanné" },
+		"passé": {
+			"masc.sg.:": "tanné",
+			"masc.pl.:": "tannés",
+			"fém.sg.:": "tannée",
+			"fém.pl.:": "tannées"
+		}
+	},
+	"imperatif": {
+		"présent": { "tanne": "", "tannons": "", "tannez": "" },
+		"passé": { "aie": "tanné", "ayons": "tanné", "ayez": "tanné" }
+	},
+	"infinitif": { "présent": { "tanner": "" }, "passé": { "avoir": "tanné" } }
+}

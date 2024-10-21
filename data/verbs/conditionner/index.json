@@ -1,0 +1,145 @@
+{
+	"name": "conditionner",
+	"definition": "condition; package; brainwash; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se conditionner/ne pas conditionner/ne pas se conditionner",
+	"indicatif": {
+		"présent": {
+			"je": "conditionne",
+			"tu": "conditionnes",
+			"il/elle": "conditionne",
+			"nous": "conditionnons",
+			"vous": "conditionnez",
+			"ils/elles": "conditionnent"
+		},
+		"imparfait": {
+			"je": "conditionnais",
+			"tu": "conditionnais",
+			"il/elle": "conditionnait",
+			"nous": "conditionnions",
+			"vous": "conditionniez",
+			"ils/elles": "conditionnaient"
+		},
+		"futur": {
+			"je": "conditionnerai",
+			"tu": "conditionneras",
+			"il/elle": "conditionnera",
+			"nous": "conditionnerons",
+			"vous": "conditionnerez",
+			"ils/elles": "conditionneront"
+		},
+		"passé simple": {
+			"je": "conditionnai",
+			"tu": "conditionnas",
+			"il/elle": "conditionna",
+			"nous": "conditionnâmes",
+			"vous": "conditionnâtes",
+			"ils/elles": "conditionnèrent"
+		},
+		"passé composé": {
+			"j'": "ai conditionné",
+			"tu": "as conditionné",
+			"il/elle": "a conditionné",
+			"nous": "avons conditionné",
+			"vous": "avez conditionné",
+			"ils/elles": "ont conditionné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais conditionné",
+			"tu": "avais conditionné",
+			"il/elle": "avait conditionné",
+			"nous": "avions conditionné",
+			"vous": "aviez conditionné",
+			"ils/elles": "avaient conditionné"
+		},
+		"passé antérieur": {
+			"j'": "eus conditionné",
+			"tu": "eus conditionné",
+			"il/elle": "eut conditionné",
+			"nous": "eûmes conditionné",
+			"vous": "eûtes conditionné",
+			"ils/elles": "eurent conditionné"
+		},
+		"futur antérieur": {
+			"j'": "aurai conditionné",
+			"tu": "auras conditionné",
+			"il/elle": "aura conditionné",
+			"nous": "aurons conditionné",
+			"vous": "aurez conditionné",
+			"ils/elles": "auront conditionné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous conditionniez",
+			"qu'il/elle": "conditionne",
+			"qu'ils/elles": "conditionnent"
+		},
+		"imparfait": {
+			"que": "vous conditionnassiez",
+			"qu'il/elle": "conditionnât",
+			"qu'ils/elles": "conditionnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse conditionné",
+			"que": "vous eussiez conditionné",
+			"qu'il/elle": "eût conditionné",
+			"qu'ils/elles": "eussent conditionné"
+		},
+		"passé": {
+			"j'": "aie conditionné",
+			"que": "vous ayez conditionné",
+			"qu'il/elle": "ait conditionné",
+			"qu'ils/elles": "aient conditionné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "conditionnerais",
+			"tu": "conditionnerais",
+			"il/elle": "conditionnerait",
+			"nous": "conditionnerions",
+			"vous": "conditionneriez",
+			"ils/elles": "conditionneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais conditionné",
+			"tu": "aurais conditionné",
+			"il/elle": "aurait conditionné",
+			"nous": "aurions conditionné",
+			"vous": "auriez conditionné",
+			"ils/elles": "auraient conditionné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse conditionné",
+			"tu": "eusses conditionné",
+			"il/elle": "eût conditionné",
+			"nous": "eussions conditionné",
+			"vous": "eussiez conditionné",
+			"ils/elles": "eussent conditionné"
+		}
+	},
+	"participe": {
+		"présent": { "conditionnant": "" },
+		"passé composé": { "ayant": "conditionné" },
+		"passé": {
+			"masc.sg.:": "conditionné",
+			"masc.pl.:": "conditionnés",
+			"fém.sg.:": "conditionnée",
+			"fém.pl.:": "conditionnées"
+		}
+	},
+	"imperatif": {
+		"présent": { "conditionne": "", "conditionnons": "", "conditionnez": "" },
+		"passé": {
+			"aie": "conditionné",
+			"ayons": "conditionné",
+			"ayez": "conditionné"
+		}
+	},
+	"infinitif": {
+		"présent": { "conditionner": "" },
+		"passé": { "avoir": "conditionné" }
+	}
+}

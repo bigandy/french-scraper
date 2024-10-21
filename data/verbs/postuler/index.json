@@ -1,0 +1,141 @@
+{
+	"name": "postuler",
+	"definition": "apply; postulate; compete for; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se postuler/ne pas postuler/ne pas se postuler",
+	"indicatif": {
+		"présent": {
+			"je": "postule",
+			"tu": "postules",
+			"il/elle": "postule",
+			"nous": "postulons",
+			"vous": "postulez",
+			"ils/elles": "postulent"
+		},
+		"imparfait": {
+			"je": "postulais",
+			"tu": "postulais",
+			"il/elle": "postulait",
+			"nous": "postulions",
+			"vous": "postuliez",
+			"ils/elles": "postulaient"
+		},
+		"futur": {
+			"je": "postulerai",
+			"tu": "postuleras",
+			"il/elle": "postulera",
+			"nous": "postulerons",
+			"vous": "postulerez",
+			"ils/elles": "postuleront"
+		},
+		"passé simple": {
+			"je": "postulai",
+			"tu": "postulas",
+			"il/elle": "postula",
+			"nous": "postulâmes",
+			"vous": "postulâtes",
+			"ils/elles": "postulèrent"
+		},
+		"passé composé": {
+			"j'": "ai postulé",
+			"tu": "as postulé",
+			"il/elle": "a postulé",
+			"nous": "avons postulé",
+			"vous": "avez postulé",
+			"ils/elles": "ont postulé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais postulé",
+			"tu": "avais postulé",
+			"il/elle": "avait postulé",
+			"nous": "avions postulé",
+			"vous": "aviez postulé",
+			"ils/elles": "avaient postulé"
+		},
+		"passé antérieur": {
+			"j'": "eus postulé",
+			"tu": "eus postulé",
+			"il/elle": "eut postulé",
+			"nous": "eûmes postulé",
+			"vous": "eûtes postulé",
+			"ils/elles": "eurent postulé"
+		},
+		"futur antérieur": {
+			"j'": "aurai postulé",
+			"tu": "auras postulé",
+			"il/elle": "aura postulé",
+			"nous": "aurons postulé",
+			"vous": "aurez postulé",
+			"ils/elles": "auront postulé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous postuliez",
+			"qu'il/elle": "postule",
+			"qu'ils/elles": "postulent"
+		},
+		"imparfait": {
+			"que": "vous postulassiez",
+			"qu'il/elle": "postulât",
+			"qu'ils/elles": "postulassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse postulé",
+			"que": "vous eussiez postulé",
+			"qu'il/elle": "eût postulé",
+			"qu'ils/elles": "eussent postulé"
+		},
+		"passé": {
+			"j'": "aie postulé",
+			"que": "vous ayez postulé",
+			"qu'il/elle": "ait postulé",
+			"qu'ils/elles": "aient postulé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "postulerais",
+			"tu": "postulerais",
+			"il/elle": "postulerait",
+			"nous": "postulerions",
+			"vous": "postuleriez",
+			"ils/elles": "postuleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais postulé",
+			"tu": "aurais postulé",
+			"il/elle": "aurait postulé",
+			"nous": "aurions postulé",
+			"vous": "auriez postulé",
+			"ils/elles": "auraient postulé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse postulé",
+			"tu": "eusses postulé",
+			"il/elle": "eût postulé",
+			"nous": "eussions postulé",
+			"vous": "eussiez postulé",
+			"ils/elles": "eussent postulé"
+		}
+	},
+	"participe": {
+		"présent": { "postulant": "" },
+		"passé composé": { "ayant": "postulé" },
+		"passé": {
+			"masc.sg.:": "postulé",
+			"masc.pl.:": "postulés",
+			"fém.sg.:": "postulée",
+			"fém.pl.:": "postulées"
+		}
+	},
+	"imperatif": {
+		"présent": { "postule": "", "postulons": "", "postulez": "" },
+		"passé": { "aie": "postulé", "ayons": "postulé", "ayez": "postulé" }
+	},
+	"infinitif": {
+		"présent": { "postuler": "" },
+		"passé": { "avoir": "postulé" }
+	}
+}

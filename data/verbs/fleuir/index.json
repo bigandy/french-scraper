@@ -1,0 +1,138 @@
+{
+	"name": "fleuir",
+	"definition": "",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se fleuir/ne pas fleuir/ne pas se fleuir",
+	"indicatif": {
+		"présent": {
+			"je": "fleuis",
+			"tu": "fleuis",
+			"il/elle": "fleuit",
+			"nous": "fleuissons",
+			"vous": "fleuissez",
+			"ils/elles": "fleuissent"
+		},
+		"imparfait": {
+			"je": "fleuissais",
+			"tu": "fleuissais",
+			"il/elle": "fleuissait",
+			"nous": "fleuissions",
+			"vous": "fleuissiez",
+			"ils/elles": "fleuissaient"
+		},
+		"futur": {
+			"je": "fleuirai",
+			"tu": "fleuiras",
+			"il/elle": "fleuira",
+			"nous": "fleuirons",
+			"vous": "fleuirez",
+			"ils/elles": "fleuiront"
+		},
+		"passé simple": {
+			"je": "fleuis",
+			"tu": "fleuis",
+			"il/elle": "fleuit",
+			"nous": "fleuîmes",
+			"vous": "fleuîtes",
+			"ils/elles": "fleuirent"
+		},
+		"passé composé": {
+			"j'": "ai fleui",
+			"tu": "as fleui",
+			"il/elle": "a fleui",
+			"nous": "avons fleui",
+			"vous": "avez fleui",
+			"ils/elles": "ont fleui"
+		},
+		"plus-que-parfait": {
+			"j'": "avais fleui",
+			"tu": "avais fleui",
+			"il/elle": "avait fleui",
+			"nous": "avions fleui",
+			"vous": "aviez fleui",
+			"ils/elles": "avaient fleui"
+		},
+		"passé antérieur": {
+			"j'": "eus fleui",
+			"tu": "eus fleui",
+			"il/elle": "eut fleui",
+			"nous": "eûmes fleui",
+			"vous": "eûtes fleui",
+			"ils/elles": "eurent fleui"
+		},
+		"futur antérieur": {
+			"j'": "aurai fleui",
+			"tu": "auras fleui",
+			"il/elle": "aura fleui",
+			"nous": "aurons fleui",
+			"vous": "aurez fleui",
+			"ils/elles": "auront fleui"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous fleuissiez",
+			"qu'il/elle": "fleuisse",
+			"qu'ils/elles": "fleuissent"
+		},
+		"imparfait": {
+			"que": "vous fleuissiez",
+			"qu'il/elle": "fleuît",
+			"qu'ils/elles": "fleuissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse fleui",
+			"que": "vous eussiez fleui",
+			"qu'il/elle": "eût fleui",
+			"qu'ils/elles": "eussent fleui"
+		},
+		"passé": {
+			"j'": "aie fleui",
+			"que": "vous ayez fleui",
+			"qu'il/elle": "ait fleui",
+			"qu'ils/elles": "aient fleui"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "fleuirais",
+			"tu": "fleuirais",
+			"il/elle": "fleuirait",
+			"nous": "fleuirions",
+			"vous": "fleuiriez",
+			"ils/elles": "fleuiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais fleui",
+			"tu": "aurais fleui",
+			"il/elle": "aurait fleui",
+			"nous": "aurions fleui",
+			"vous": "auriez fleui",
+			"ils/elles": "auraient fleui"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse fleui",
+			"tu": "eusses fleui",
+			"il/elle": "eût fleui",
+			"nous": "eussions fleui",
+			"vous": "eussiez fleui",
+			"ils/elles": "eussent fleui"
+		}
+	},
+	"participe": {
+		"présent": { "fleuissant": "" },
+		"passé composé": { "ayant": "fleui" },
+		"passé": {
+			"masc.sg.:": "fleui",
+			"masc.pl.:": "fleuis",
+			"fém.sg.:": "fleuie",
+			"fém.pl.:": "fleuies"
+		}
+	},
+	"imperatif": {
+		"présent": { "fleuis": "", "fleuissons": "", "fleuissez": "" },
+		"passé": { "aie": "fleui", "ayons": "fleui", "ayez": "fleui" }
+	},
+	"infinitif": { "présent": { "fleuir": "" }, "passé": { "avoir": "fleui" } }
+}

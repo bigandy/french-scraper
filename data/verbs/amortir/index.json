@@ -1,0 +1,140 @@
+{
+	"name": "amortir",
+	"definition": "damp; dampen; cushion; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "s'amortir/ne pas amortir/ne pas s'amortir",
+	"indicatif": {
+		"présent": {
+			"j'": "amortis",
+			"tu": "amortis",
+			"il/elle": "amortit",
+			"nous": "amortissons",
+			"vous": "amortissez",
+			"ils/elles": "amortissent"
+		},
+		"imparfait": {
+			"j'": "amortissais",
+			"tu": "amortissais",
+			"il/elle": "amortissait",
+			"nous": "amortissions",
+			"vous": "amortissiez",
+			"ils/elles": "amortissaient"
+		},
+		"futur": {
+			"j'": "amortirai",
+			"tu": "amortiras",
+			"il/elle": "amortira",
+			"nous": "amortirons",
+			"vous": "amortirez",
+			"ils/elles": "amortiront"
+		},
+		"passé simple": {
+			"j'": "amortis",
+			"tu": "amortis",
+			"il/elle": "amortit",
+			"nous": "amortîmes",
+			"vous": "amortîtes",
+			"ils/elles": "amortirent"
+		},
+		"passé composé": {
+			"j'": "ai amorti",
+			"tu": "as amorti",
+			"il/elle": "a amorti",
+			"nous": "avons amorti",
+			"vous": "avez amorti",
+			"ils/elles": "ont amorti"
+		},
+		"plus-que-parfait": {
+			"j'": "avais amorti",
+			"tu": "avais amorti",
+			"il/elle": "avait amorti",
+			"nous": "avions amorti",
+			"vous": "aviez amorti",
+			"ils/elles": "avaient amorti"
+		},
+		"passé antérieur": {
+			"j'": "eus amorti",
+			"tu": "eus amorti",
+			"il/elle": "eut amorti",
+			"nous": "eûmes amorti",
+			"vous": "eûtes amorti",
+			"ils/elles": "eurent amorti"
+		},
+		"futur antérieur": {
+			"j'": "aurai amorti",
+			"tu": "auras amorti",
+			"il/elle": "aura amorti",
+			"nous": "aurons amorti",
+			"vous": "aurez amorti",
+			"ils/elles": "auront amorti"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "amortisse",
+			"que": "vous amortissiez",
+			"qu'il/elle": "amortisse",
+			"qu'ils/elles": "amortissent"
+		},
+		"imparfait": {
+			"j'": "amortisse",
+			"que": "vous amortissiez",
+			"qu'il/elle": "amortît",
+			"qu'ils/elles": "amortissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse amorti",
+			"que": "vous eussiez amorti",
+			"qu'il/elle": "eût amorti",
+			"qu'ils/elles": "eussent amorti"
+		},
+		"passé": {
+			"j'": "aie amorti",
+			"que": "vous ayez amorti",
+			"qu'il/elle": "ait amorti",
+			"qu'ils/elles": "aient amorti"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "amortirais",
+			"tu": "amortirais",
+			"il/elle": "amortirait",
+			"nous": "amortirions",
+			"vous": "amortiriez",
+			"ils/elles": "amortiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais amorti",
+			"tu": "aurais amorti",
+			"il/elle": "aurait amorti",
+			"nous": "aurions amorti",
+			"vous": "auriez amorti",
+			"ils/elles": "auraient amorti"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse amorti",
+			"tu": "eusses amorti",
+			"il/elle": "eût amorti",
+			"nous": "eussions amorti",
+			"vous": "eussiez amorti",
+			"ils/elles": "eussent amorti"
+		}
+	},
+	"participe": {
+		"présent": { "amortissant": "" },
+		"passé composé": { "ayant": "amorti" },
+		"passé": {
+			"masc.sg.:": "amorti",
+			"masc.pl.:": "amortis",
+			"fém.sg.:": "amortie",
+			"fém.pl.:": "amorties"
+		}
+	},
+	"imperatif": {
+		"présent": { "amortis": "", "amortissons": "", "amortissez": "" },
+		"passé": { "aie": "amorti", "ayons": "amorti", "ayez": "amorti" }
+	},
+	"infinitif": { "présent": { "amortir": "" }, "passé": { "avoir": "amorti" } }
+}

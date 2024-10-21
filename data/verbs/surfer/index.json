@@ -1,0 +1,138 @@
+{
+	"name": "surfer",
+	"definition": "surf; browse; navigate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se surfer/ne pas surfer/ne pas se surfer",
+	"indicatif": {
+		"présent": {
+			"je": "surfe",
+			"tu": "surfes",
+			"il/elle": "surfe",
+			"nous": "surfons",
+			"vous": "surfez",
+			"ils/elles": "surfent"
+		},
+		"imparfait": {
+			"je": "surfais",
+			"tu": "surfais",
+			"il/elle": "surfait",
+			"nous": "surfions",
+			"vous": "surfiez",
+			"ils/elles": "surfaient"
+		},
+		"futur": {
+			"je": "surferai",
+			"tu": "surferas",
+			"il/elle": "surfera",
+			"nous": "surferons",
+			"vous": "surferez",
+			"ils/elles": "surferont"
+		},
+		"passé simple": {
+			"je": "surfai",
+			"tu": "surfas",
+			"il/elle": "surfa",
+			"nous": "surfâmes",
+			"vous": "surfâtes",
+			"ils/elles": "surfèrent"
+		},
+		"passé composé": {
+			"j'": "ai surfé",
+			"tu": "as surfé",
+			"il/elle": "a surfé",
+			"nous": "avons surfé",
+			"vous": "avez surfé",
+			"ils/elles": "ont surfé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais surfé",
+			"tu": "avais surfé",
+			"il/elle": "avait surfé",
+			"nous": "avions surfé",
+			"vous": "aviez surfé",
+			"ils/elles": "avaient surfé"
+		},
+		"passé antérieur": {
+			"j'": "eus surfé",
+			"tu": "eus surfé",
+			"il/elle": "eut surfé",
+			"nous": "eûmes surfé",
+			"vous": "eûtes surfé",
+			"ils/elles": "eurent surfé"
+		},
+		"futur antérieur": {
+			"j'": "aurai surfé",
+			"tu": "auras surfé",
+			"il/elle": "aura surfé",
+			"nous": "aurons surfé",
+			"vous": "aurez surfé",
+			"ils/elles": "auront surfé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous surfiez",
+			"qu'il/elle": "surfe",
+			"qu'ils/elles": "surfent"
+		},
+		"imparfait": {
+			"que": "vous surfassiez",
+			"qu'il/elle": "surfât",
+			"qu'ils/elles": "surfassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse surfé",
+			"que": "vous eussiez surfé",
+			"qu'il/elle": "eût surfé",
+			"qu'ils/elles": "eussent surfé"
+		},
+		"passé": {
+			"j'": "aie surfé",
+			"que": "vous ayez surfé",
+			"qu'il/elle": "ait surfé",
+			"qu'ils/elles": "aient surfé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "surferais",
+			"tu": "surferais",
+			"il/elle": "surferait",
+			"nous": "surferions",
+			"vous": "surferiez",
+			"ils/elles": "surferaient"
+		},
+		"passé première forme": {
+			"j'": "aurais surfé",
+			"tu": "aurais surfé",
+			"il/elle": "aurait surfé",
+			"nous": "aurions surfé",
+			"vous": "auriez surfé",
+			"ils/elles": "auraient surfé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse surfé",
+			"tu": "eusses surfé",
+			"il/elle": "eût surfé",
+			"nous": "eussions surfé",
+			"vous": "eussiez surfé",
+			"ils/elles": "eussent surfé"
+		}
+	},
+	"participe": {
+		"présent": { "surfant": "" },
+		"passé composé": { "ayant": "surfé" },
+		"passé": {
+			"masc.sg.:": "surfé",
+			"masc.pl.:": "surfés",
+			"fém.sg.:": "surfée",
+			"fém.pl.:": "surfées"
+		}
+	},
+	"imperatif": {
+		"présent": { "surfe": "", "surfons": "", "surfez": "" },
+		"passé": { "aie": "surfé", "ayons": "surfé", "ayez": "surfé" }
+	},
+	"infinitif": { "présent": { "surfer": "" }, "passé": { "avoir": "surfé" } }
+}

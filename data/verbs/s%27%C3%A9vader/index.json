@@ -1,0 +1,152 @@
+{
+	"name": "s'évader",
+	"definition": "escape; get away; break out; ...",
+	"model": "marcher",
+	"auxiliary": "être",
+	"otherForms": "ne pas s'évader",
+	"indicatif": {
+		"présent": {
+			"je": "m'évade",
+			"tu": "t'évades",
+			"il/elle": "s'évade",
+			"nous": "nous évadons",
+			"vous": "vous évadez",
+			"ils/elles": "s'évadent"
+		},
+		"imparfait": {
+			"je": "m'évadais",
+			"tu": "t'évadais",
+			"il/elle": "s'évadait",
+			"nous": "nous évadions",
+			"vous": "vous évadiez",
+			"ils/elles": "s'évadaient"
+		},
+		"futur": {
+			"je": "m'évaderai",
+			"tu": "t'évaderas",
+			"il/elle": "s'évadera",
+			"nous": "nous évaderons",
+			"vous": "vous évaderez",
+			"ils/elles": "s'évaderont"
+		},
+		"passé simple": {
+			"je": "m'évadai",
+			"tu": "t'évadas",
+			"il/elle": "s'évada",
+			"nous": "nous évadâmes",
+			"vous": "vous évadâtes",
+			"ils/elles": "s'évadèrent"
+		},
+		"passé composé": {
+			"je": "me suis évadé",
+			"tu": "t'es évadé",
+			"il": "s'est évadé",
+			"elle": "s'est évadée",
+			"nous": "nous sommes évadés",
+			"vous": "vous êtes évadés",
+			"ils": "se sont évadés",
+			"elles": "se sont évadées"
+		},
+		"plus-que-parfait": {
+			"je": "m'étais évadé",
+			"tu": "t'étais évadé",
+			"il": "s'était évadé",
+			"elle": "s'était évadée",
+			"nous": "nous étions évadés",
+			"vous": "vous étiez évadés",
+			"ils": "s'étaient évadés",
+			"elles": "s'étaient évadées"
+		},
+		"passé antérieur": {
+			"je": "me fus évadé",
+			"tu": "te fus évadé",
+			"il": "se fut évadé",
+			"elle": "se fut évadée",
+			"nous": "nous fûmes évadés",
+			"vous": "vous fûtes évadés",
+			"ils": "se furent évadés",
+			"elles": "se furent évadées"
+		},
+		"futur antérieur": {
+			"je": "me serai évadé",
+			"tu": "te seras évadé",
+			"il": "se sera évadé",
+			"elle": "se sera évadée",
+			"nous": "nous serons évadés",
+			"vous": "vous serez évadés",
+			"ils": "se seront évadés",
+			"elles": "se seront évadées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous vous évadiez",
+			"qu'il/elle": "s'évade",
+			"qu'ils/elles": "s'évadent"
+		},
+		"imparfait": {
+			"que": "vous vous évadassiez",
+			"qu'il/elle": "s'évadât",
+			"qu'ils/elles": "s'évadassent"
+		},
+		"plus-que-parfait": {
+			"que": "vous vous fussiez évadés",
+			"qu'il": "se fût évadé",
+			"qu'elle": "se fût évadée",
+			"qu'ils": "se fussent évadés",
+			"qu'elles": "se fussent évadées"
+		},
+		"passé": {
+			"que": "vous vous soyez évadés",
+			"qu'il": "se soit évadé",
+			"qu'elle": "se soit évadée",
+			"qu'ils": "se soient évadés",
+			"qu'elles": "se soient évadées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "m'évaderais",
+			"tu": "t'évaderais",
+			"il/elle": "s'évaderait",
+			"nous": "nous évaderions",
+			"vous": "vous évaderiez",
+			"ils/elles": "s'évaderaient"
+		},
+		"passé première forme": {
+			"je": "me serais évadé",
+			"tu": "te serais évadé",
+			"il": "se serait évadé",
+			"elle": "se serait évadée",
+			"nous": "nous serions évadés",
+			"vous": "vous seriez évadés",
+			"ils": "se seraient évadés",
+			"elles": "se seraient évadées"
+		},
+		"passé deuxième forme": {
+			"je": "me fusse évadé",
+			"tu": "te fusses évadé",
+			"il": "se fût évadé",
+			"elle": "se fût évadée",
+			"nous": "nous fussions évadés",
+			"vous": "vous fussiez évadés",
+			"ils": "se fussent évadés",
+			"elles": "se fussent évadées"
+		}
+	},
+	"participe": {
+		"présent": { "s'évadant": "" },
+		"passé composé": { "s'étant": "évadé" },
+		"passé": {
+			"masc.sg.:": "évadé",
+			"masc.pl.:": "évadés",
+			"fém.sg.:": "évadée",
+			"fém.pl.:": "évadées"
+		}
+	},
+	"imperatif": {
+		"présent": { "évade-toi": "", "évadons-nous": "", "évadez-vous": "" },
+		"passé": {}
+	},
+	"infinitif": { "présent": { "s'évader": "" }, "passé": { "s'être": "évadé" } }
+}

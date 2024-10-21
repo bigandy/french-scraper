@@ -1,0 +1,138 @@
+{
+	"name": "twitter",
+	"definition": "tweet; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas twitter",
+	"indicatif": {
+		"présent": {
+			"je": "twitte",
+			"tu": "twittes",
+			"il/elle": "twitte",
+			"nous": "twittons",
+			"vous": "twittez",
+			"ils/elles": "twittent"
+		},
+		"imparfait": {
+			"je": "twittais",
+			"tu": "twittais",
+			"il/elle": "twittait",
+			"nous": "twittions",
+			"vous": "twittiez",
+			"ils/elles": "twittaient"
+		},
+		"futur": {
+			"je": "twitterai",
+			"tu": "twitteras",
+			"il/elle": "twittera",
+			"nous": "twitterons",
+			"vous": "twitterez",
+			"ils/elles": "twitteront"
+		},
+		"passé simple": {
+			"je": "twittai",
+			"tu": "twittas",
+			"il/elle": "twitta",
+			"nous": "twittâmes",
+			"vous": "twittâtes",
+			"ils/elles": "twittèrent"
+		},
+		"passé composé": {
+			"j'": "ai twitté",
+			"tu": "as twitté",
+			"il/elle": "a twitté",
+			"nous": "avons twitté",
+			"vous": "avez twitté",
+			"ils/elles": "ont twitté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais twitté",
+			"tu": "avais twitté",
+			"il/elle": "avait twitté",
+			"nous": "avions twitté",
+			"vous": "aviez twitté",
+			"ils/elles": "avaient twitté"
+		},
+		"passé antérieur": {
+			"j'": "eus twitté",
+			"tu": "eus twitté",
+			"il/elle": "eut twitté",
+			"nous": "eûmes twitté",
+			"vous": "eûtes twitté",
+			"ils/elles": "eurent twitté"
+		},
+		"futur antérieur": {
+			"j'": "aurai twitté",
+			"tu": "auras twitté",
+			"il/elle": "aura twitté",
+			"nous": "aurons twitté",
+			"vous": "aurez twitté",
+			"ils/elles": "auront twitté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous twittiez",
+			"qu'il/elle": "twitte",
+			"qu'ils/elles": "twittent"
+		},
+		"imparfait": {
+			"que": "vous twittassiez",
+			"qu'il/elle": "twittât",
+			"qu'ils/elles": "twittassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse twitté",
+			"que": "vous eussiez twitté",
+			"qu'il/elle": "eût twitté",
+			"qu'ils/elles": "eussent twitté"
+		},
+		"passé": {
+			"j'": "aie twitté",
+			"que": "vous ayez twitté",
+			"qu'il/elle": "ait twitté",
+			"qu'ils/elles": "aient twitté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "twitterais",
+			"tu": "twitterais",
+			"il/elle": "twitterait",
+			"nous": "twitterions",
+			"vous": "twitteriez",
+			"ils/elles": "twitteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais twitté",
+			"tu": "aurais twitté",
+			"il/elle": "aurait twitté",
+			"nous": "aurions twitté",
+			"vous": "auriez twitté",
+			"ils/elles": "auraient twitté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse twitté",
+			"tu": "eusses twitté",
+			"il/elle": "eût twitté",
+			"nous": "eussions twitté",
+			"vous": "eussiez twitté",
+			"ils/elles": "eussent twitté"
+		}
+	},
+	"participe": {
+		"présent": { "twittant": "" },
+		"passé composé": { "ayant": "twitté" },
+		"passé": {
+			"masc.sg.:": "twitté",
+			"masc.pl.:": "twittés",
+			"fém.sg.:": "twittée",
+			"fém.pl.:": "twittées"
+		}
+	},
+	"imperatif": {
+		"présent": { "twitte": "", "twittons": "", "twittez": "" },
+		"passé": { "aie": "twitté", "ayons": "twitté", "ayez": "twitté" }
+	},
+	"infinitif": { "présent": { "twitter": "" }, "passé": { "avoir": "twitté" } }
+}

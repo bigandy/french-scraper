@@ -1,0 +1,141 @@
+{
+	"name": "savourer",
+	"definition": "enjoy; savour; savor; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se savourer/ne pas savourer/ne pas se savourer",
+	"indicatif": {
+		"présent": {
+			"je": "savoure",
+			"tu": "savoures",
+			"il/elle": "savoure",
+			"nous": "savourons",
+			"vous": "savourez",
+			"ils/elles": "savourent"
+		},
+		"imparfait": {
+			"je": "savourais",
+			"tu": "savourais",
+			"il/elle": "savourait",
+			"nous": "savourions",
+			"vous": "savouriez",
+			"ils/elles": "savouraient"
+		},
+		"futur": {
+			"je": "savourerai",
+			"tu": "savoureras",
+			"il/elle": "savourera",
+			"nous": "savourerons",
+			"vous": "savourerez",
+			"ils/elles": "savoureront"
+		},
+		"passé simple": {
+			"je": "savourai",
+			"tu": "savouras",
+			"il/elle": "savoura",
+			"nous": "savourâmes",
+			"vous": "savourâtes",
+			"ils/elles": "savourèrent"
+		},
+		"passé composé": {
+			"j'": "ai savouré",
+			"tu": "as savouré",
+			"il/elle": "a savouré",
+			"nous": "avons savouré",
+			"vous": "avez savouré",
+			"ils/elles": "ont savouré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais savouré",
+			"tu": "avais savouré",
+			"il/elle": "avait savouré",
+			"nous": "avions savouré",
+			"vous": "aviez savouré",
+			"ils/elles": "avaient savouré"
+		},
+		"passé antérieur": {
+			"j'": "eus savouré",
+			"tu": "eus savouré",
+			"il/elle": "eut savouré",
+			"nous": "eûmes savouré",
+			"vous": "eûtes savouré",
+			"ils/elles": "eurent savouré"
+		},
+		"futur antérieur": {
+			"j'": "aurai savouré",
+			"tu": "auras savouré",
+			"il/elle": "aura savouré",
+			"nous": "aurons savouré",
+			"vous": "aurez savouré",
+			"ils/elles": "auront savouré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous savouriez",
+			"qu'il/elle": "savoure",
+			"qu'ils/elles": "savourent"
+		},
+		"imparfait": {
+			"que": "vous savourassiez",
+			"qu'il/elle": "savourât",
+			"qu'ils/elles": "savourassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse savouré",
+			"que": "vous eussiez savouré",
+			"qu'il/elle": "eût savouré",
+			"qu'ils/elles": "eussent savouré"
+		},
+		"passé": {
+			"j'": "aie savouré",
+			"que": "vous ayez savouré",
+			"qu'il/elle": "ait savouré",
+			"qu'ils/elles": "aient savouré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "savourerais",
+			"tu": "savourerais",
+			"il/elle": "savourerait",
+			"nous": "savourerions",
+			"vous": "savoureriez",
+			"ils/elles": "savoureraient"
+		},
+		"passé première forme": {
+			"j'": "aurais savouré",
+			"tu": "aurais savouré",
+			"il/elle": "aurait savouré",
+			"nous": "aurions savouré",
+			"vous": "auriez savouré",
+			"ils/elles": "auraient savouré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse savouré",
+			"tu": "eusses savouré",
+			"il/elle": "eût savouré",
+			"nous": "eussions savouré",
+			"vous": "eussiez savouré",
+			"ils/elles": "eussent savouré"
+		}
+	},
+	"participe": {
+		"présent": { "savourant": "" },
+		"passé composé": { "ayant": "savouré" },
+		"passé": {
+			"masc.sg.:": "savouré",
+			"masc.pl.:": "savourés",
+			"fém.sg.:": "savourée",
+			"fém.pl.:": "savourées"
+		}
+	},
+	"imperatif": {
+		"présent": { "savoure": "", "savourons": "", "savourez": "" },
+		"passé": { "aie": "savouré", "ayons": "savouré", "ayez": "savouré" }
+	},
+	"infinitif": {
+		"présent": { "savourer": "" },
+		"passé": { "avoir": "savouré" }
+	}
+}

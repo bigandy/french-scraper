@@ -1,0 +1,138 @@
+{
+	"name": "patiner",
+	"definition": "skate; ice-skate; spin; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se patiner/ne pas patiner/ne pas se patiner",
+	"indicatif": {
+		"présent": {
+			"je": "patine",
+			"tu": "patines",
+			"il/elle": "patine",
+			"nous": "patinons",
+			"vous": "patinez",
+			"ils/elles": "patinent"
+		},
+		"imparfait": {
+			"je": "patinais",
+			"tu": "patinais",
+			"il/elle": "patinait",
+			"nous": "patinions",
+			"vous": "patiniez",
+			"ils/elles": "patinaient"
+		},
+		"futur": {
+			"je": "patinerai",
+			"tu": "patineras",
+			"il/elle": "patinera",
+			"nous": "patinerons",
+			"vous": "patinerez",
+			"ils/elles": "patineront"
+		},
+		"passé simple": {
+			"je": "patinai",
+			"tu": "patinas",
+			"il/elle": "patina",
+			"nous": "patinâmes",
+			"vous": "patinâtes",
+			"ils/elles": "patinèrent"
+		},
+		"passé composé": {
+			"j'": "ai patiné",
+			"tu": "as patiné",
+			"il/elle": "a patiné",
+			"nous": "avons patiné",
+			"vous": "avez patiné",
+			"ils/elles": "ont patiné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais patiné",
+			"tu": "avais patiné",
+			"il/elle": "avait patiné",
+			"nous": "avions patiné",
+			"vous": "aviez patiné",
+			"ils/elles": "avaient patiné"
+		},
+		"passé antérieur": {
+			"j'": "eus patiné",
+			"tu": "eus patiné",
+			"il/elle": "eut patiné",
+			"nous": "eûmes patiné",
+			"vous": "eûtes patiné",
+			"ils/elles": "eurent patiné"
+		},
+		"futur antérieur": {
+			"j'": "aurai patiné",
+			"tu": "auras patiné",
+			"il/elle": "aura patiné",
+			"nous": "aurons patiné",
+			"vous": "aurez patiné",
+			"ils/elles": "auront patiné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous patiniez",
+			"qu'il/elle": "patine",
+			"qu'ils/elles": "patinent"
+		},
+		"imparfait": {
+			"que": "vous patinassiez",
+			"qu'il/elle": "patinât",
+			"qu'ils/elles": "patinassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse patiné",
+			"que": "vous eussiez patiné",
+			"qu'il/elle": "eût patiné",
+			"qu'ils/elles": "eussent patiné"
+		},
+		"passé": {
+			"j'": "aie patiné",
+			"que": "vous ayez patiné",
+			"qu'il/elle": "ait patiné",
+			"qu'ils/elles": "aient patiné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "patinerais",
+			"tu": "patinerais",
+			"il/elle": "patinerait",
+			"nous": "patinerions",
+			"vous": "patineriez",
+			"ils/elles": "patineraient"
+		},
+		"passé première forme": {
+			"j'": "aurais patiné",
+			"tu": "aurais patiné",
+			"il/elle": "aurait patiné",
+			"nous": "aurions patiné",
+			"vous": "auriez patiné",
+			"ils/elles": "auraient patiné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse patiné",
+			"tu": "eusses patiné",
+			"il/elle": "eût patiné",
+			"nous": "eussions patiné",
+			"vous": "eussiez patiné",
+			"ils/elles": "eussent patiné"
+		}
+	},
+	"participe": {
+		"présent": { "patinant": "" },
+		"passé composé": { "ayant": "patiné" },
+		"passé": {
+			"masc.sg.:": "patiné",
+			"masc.pl.:": "patinés",
+			"fém.sg.:": "patinée",
+			"fém.pl.:": "patinées"
+		}
+	},
+	"imperatif": {
+		"présent": { "patine": "", "patinons": "", "patinez": "" },
+		"passé": { "aie": "patiné", "ayons": "patiné", "ayez": "patiné" }
+	},
+	"infinitif": { "présent": { "patiner": "" }, "passé": { "avoir": "patiné" } }
+}

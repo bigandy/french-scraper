@@ -1,0 +1,138 @@
+{
+	"name": "lisser",
+	"definition": "smooth; straighten; smoothen; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se lisser/ne pas lisser/ne pas se lisser",
+	"indicatif": {
+		"présent": {
+			"je": "lisse",
+			"tu": "lisses",
+			"il/elle": "lisse",
+			"nous": "lissons",
+			"vous": "lissez",
+			"ils/elles": "lissent"
+		},
+		"imparfait": {
+			"je": "lissais",
+			"tu": "lissais",
+			"il/elle": "lissait",
+			"nous": "lissions",
+			"vous": "lissiez",
+			"ils/elles": "lissaient"
+		},
+		"futur": {
+			"je": "lisserai",
+			"tu": "lisseras",
+			"il/elle": "lissera",
+			"nous": "lisserons",
+			"vous": "lisserez",
+			"ils/elles": "lisseront"
+		},
+		"passé simple": {
+			"je": "lissai",
+			"tu": "lissas",
+			"il/elle": "lissa",
+			"nous": "lissâmes",
+			"vous": "lissâtes",
+			"ils/elles": "lissèrent"
+		},
+		"passé composé": {
+			"j'": "ai lissé",
+			"tu": "as lissé",
+			"il/elle": "a lissé",
+			"nous": "avons lissé",
+			"vous": "avez lissé",
+			"ils/elles": "ont lissé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais lissé",
+			"tu": "avais lissé",
+			"il/elle": "avait lissé",
+			"nous": "avions lissé",
+			"vous": "aviez lissé",
+			"ils/elles": "avaient lissé"
+		},
+		"passé antérieur": {
+			"j'": "eus lissé",
+			"tu": "eus lissé",
+			"il/elle": "eut lissé",
+			"nous": "eûmes lissé",
+			"vous": "eûtes lissé",
+			"ils/elles": "eurent lissé"
+		},
+		"futur antérieur": {
+			"j'": "aurai lissé",
+			"tu": "auras lissé",
+			"il/elle": "aura lissé",
+			"nous": "aurons lissé",
+			"vous": "aurez lissé",
+			"ils/elles": "auront lissé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous lissiez",
+			"qu'il/elle": "lisse",
+			"qu'ils/elles": "lissent"
+		},
+		"imparfait": {
+			"que": "vous lissassiez",
+			"qu'il/elle": "lissât",
+			"qu'ils/elles": "lissassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse lissé",
+			"que": "vous eussiez lissé",
+			"qu'il/elle": "eût lissé",
+			"qu'ils/elles": "eussent lissé"
+		},
+		"passé": {
+			"j'": "aie lissé",
+			"que": "vous ayez lissé",
+			"qu'il/elle": "ait lissé",
+			"qu'ils/elles": "aient lissé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "lisserais",
+			"tu": "lisserais",
+			"il/elle": "lisserait",
+			"nous": "lisserions",
+			"vous": "lisseriez",
+			"ils/elles": "lisseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais lissé",
+			"tu": "aurais lissé",
+			"il/elle": "aurait lissé",
+			"nous": "aurions lissé",
+			"vous": "auriez lissé",
+			"ils/elles": "auraient lissé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse lissé",
+			"tu": "eusses lissé",
+			"il/elle": "eût lissé",
+			"nous": "eussions lissé",
+			"vous": "eussiez lissé",
+			"ils/elles": "eussent lissé"
+		}
+	},
+	"participe": {
+		"présent": { "lissant": "" },
+		"passé composé": { "ayant": "lissé" },
+		"passé": {
+			"masc.sg.:": "lissé",
+			"masc.pl.:": "lissés",
+			"fém.sg.:": "lissée",
+			"fém.pl.:": "lissées"
+		}
+	},
+	"imperatif": {
+		"présent": { "lisse": "", "lissons": "", "lissez": "" },
+		"passé": { "aie": "lissé", "ayons": "lissé", "ayez": "lissé" }
+	},
+	"infinitif": { "présent": { "lisser": "" }, "passé": { "avoir": "lissé" } }
+}

@@ -1,0 +1,140 @@
+{
+	"name": "hériter",
+	"definition": "inherit; heir; fall heir; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'hériter/ne pas hériter/ne pas s'hériter",
+	"indicatif": {
+		"présent": {
+			"j'": "hérite",
+			"tu": "hérites",
+			"il/elle": "hérite",
+			"nous": "héritons",
+			"vous": "héritez",
+			"ils/elles": "héritent"
+		},
+		"imparfait": {
+			"j'": "héritais",
+			"tu": "héritais",
+			"il/elle": "héritait",
+			"nous": "héritions",
+			"vous": "héritiez",
+			"ils/elles": "héritaient"
+		},
+		"futur": {
+			"j'": "hériterai",
+			"tu": "hériteras",
+			"il/elle": "héritera",
+			"nous": "hériterons",
+			"vous": "hériterez",
+			"ils/elles": "hériteront"
+		},
+		"passé simple": {
+			"j'": "héritai",
+			"tu": "héritas",
+			"il/elle": "hérita",
+			"nous": "héritâmes",
+			"vous": "héritâtes",
+			"ils/elles": "héritèrent"
+		},
+		"passé composé": {
+			"j'": "ai hérité",
+			"tu": "as hérité",
+			"il/elle": "a hérité",
+			"nous": "avons hérité",
+			"vous": "avez hérité",
+			"ils/elles": "ont hérité"
+		},
+		"plus-que-parfait": {
+			"j'": "avais hérité",
+			"tu": "avais hérité",
+			"il/elle": "avait hérité",
+			"nous": "avions hérité",
+			"vous": "aviez hérité",
+			"ils/elles": "avaient hérité"
+		},
+		"passé antérieur": {
+			"j'": "eus hérité",
+			"tu": "eus hérité",
+			"il/elle": "eut hérité",
+			"nous": "eûmes hérité",
+			"vous": "eûtes hérité",
+			"ils/elles": "eurent hérité"
+		},
+		"futur antérieur": {
+			"j'": "aurai hérité",
+			"tu": "auras hérité",
+			"il/elle": "aura hérité",
+			"nous": "aurons hérité",
+			"vous": "aurez hérité",
+			"ils/elles": "auront hérité"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "hérite",
+			"que": "vous héritiez",
+			"qu'il/elle": "hérite",
+			"qu'ils/elles": "héritent"
+		},
+		"imparfait": {
+			"j'": "héritasse",
+			"que": "vous héritassiez",
+			"qu'il/elle": "héritât",
+			"qu'ils/elles": "héritassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse hérité",
+			"que": "vous eussiez hérité",
+			"qu'il/elle": "eût hérité",
+			"qu'ils/elles": "eussent hérité"
+		},
+		"passé": {
+			"j'": "aie hérité",
+			"que": "vous ayez hérité",
+			"qu'il/elle": "ait hérité",
+			"qu'ils/elles": "aient hérité"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "hériterais",
+			"tu": "hériterais",
+			"il/elle": "hériterait",
+			"nous": "hériterions",
+			"vous": "hériteriez",
+			"ils/elles": "hériteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais hérité",
+			"tu": "aurais hérité",
+			"il/elle": "aurait hérité",
+			"nous": "aurions hérité",
+			"vous": "auriez hérité",
+			"ils/elles": "auraient hérité"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse hérité",
+			"tu": "eusses hérité",
+			"il/elle": "eût hérité",
+			"nous": "eussions hérité",
+			"vous": "eussiez hérité",
+			"ils/elles": "eussent hérité"
+		}
+	},
+	"participe": {
+		"présent": { "héritant": "" },
+		"passé composé": { "ayant": "hérité" },
+		"passé": {
+			"masc.sg.:": "hérité",
+			"masc.pl.:": "hérités",
+			"fém.sg.:": "héritée",
+			"fém.pl.:": "héritées"
+		}
+	},
+	"imperatif": {
+		"présent": { "hérite": "", "héritons": "", "héritez": "" },
+		"passé": { "aie": "hérité", "ayons": "hérité", "ayez": "hérité" }
+	},
+	"infinitif": { "présent": { "hériter": "" }, "passé": { "avoir": "hérité" } }
+}

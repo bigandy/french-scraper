@@ -1,0 +1,141 @@
+{
+	"name": "trembler",
+	"definition": "shake; tremble; shiver; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se trembler/ne pas trembler/ne pas se trembler",
+	"indicatif": {
+		"présent": {
+			"je": "tremble",
+			"tu": "trembles",
+			"il/elle": "tremble",
+			"nous": "tremblons",
+			"vous": "tremblez",
+			"ils/elles": "tremblent"
+		},
+		"imparfait": {
+			"je": "tremblais",
+			"tu": "tremblais",
+			"il/elle": "tremblait",
+			"nous": "tremblions",
+			"vous": "trembliez",
+			"ils/elles": "tremblaient"
+		},
+		"futur": {
+			"je": "tremblerai",
+			"tu": "trembleras",
+			"il/elle": "tremblera",
+			"nous": "tremblerons",
+			"vous": "tremblerez",
+			"ils/elles": "trembleront"
+		},
+		"passé simple": {
+			"je": "tremblai",
+			"tu": "tremblas",
+			"il/elle": "trembla",
+			"nous": "tremblâmes",
+			"vous": "tremblâtes",
+			"ils/elles": "tremblèrent"
+		},
+		"passé composé": {
+			"j'": "ai tremblé",
+			"tu": "as tremblé",
+			"il/elle": "a tremblé",
+			"nous": "avons tremblé",
+			"vous": "avez tremblé",
+			"ils/elles": "ont tremblé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais tremblé",
+			"tu": "avais tremblé",
+			"il/elle": "avait tremblé",
+			"nous": "avions tremblé",
+			"vous": "aviez tremblé",
+			"ils/elles": "avaient tremblé"
+		},
+		"passé antérieur": {
+			"j'": "eus tremblé",
+			"tu": "eus tremblé",
+			"il/elle": "eut tremblé",
+			"nous": "eûmes tremblé",
+			"vous": "eûtes tremblé",
+			"ils/elles": "eurent tremblé"
+		},
+		"futur antérieur": {
+			"j'": "aurai tremblé",
+			"tu": "auras tremblé",
+			"il/elle": "aura tremblé",
+			"nous": "aurons tremblé",
+			"vous": "aurez tremblé",
+			"ils/elles": "auront tremblé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous trembliez",
+			"qu'il/elle": "tremble",
+			"qu'ils/elles": "tremblent"
+		},
+		"imparfait": {
+			"que": "vous tremblassiez",
+			"qu'il/elle": "tremblât",
+			"qu'ils/elles": "tremblassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse tremblé",
+			"que": "vous eussiez tremblé",
+			"qu'il/elle": "eût tremblé",
+			"qu'ils/elles": "eussent tremblé"
+		},
+		"passé": {
+			"j'": "aie tremblé",
+			"que": "vous ayez tremblé",
+			"qu'il/elle": "ait tremblé",
+			"qu'ils/elles": "aient tremblé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "tremblerais",
+			"tu": "tremblerais",
+			"il/elle": "tremblerait",
+			"nous": "tremblerions",
+			"vous": "trembleriez",
+			"ils/elles": "trembleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais tremblé",
+			"tu": "aurais tremblé",
+			"il/elle": "aurait tremblé",
+			"nous": "aurions tremblé",
+			"vous": "auriez tremblé",
+			"ils/elles": "auraient tremblé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse tremblé",
+			"tu": "eusses tremblé",
+			"il/elle": "eût tremblé",
+			"nous": "eussions tremblé",
+			"vous": "eussiez tremblé",
+			"ils/elles": "eussent tremblé"
+		}
+	},
+	"participe": {
+		"présent": { "tremblant": "" },
+		"passé composé": { "ayant": "tremblé" },
+		"passé": {
+			"masc.sg.:": "tremblé",
+			"masc.pl.:": "tremblés",
+			"fém.sg.:": "tremblée",
+			"fém.pl.:": "tremblées"
+		}
+	},
+	"imperatif": {
+		"présent": { "tremble": "", "tremblons": "", "tremblez": "" },
+		"passé": { "aie": "tremblé", "ayons": "tremblé", "ayez": "tremblé" }
+	},
+	"infinitif": {
+		"présent": { "trembler": "" },
+		"passé": { "avoir": "tremblé" }
+	}
+}

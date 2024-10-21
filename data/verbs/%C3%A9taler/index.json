@@ -1,0 +1,140 @@
+{
+	"name": "étaler",
+	"definition": "spread; spread out; display; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'étaler/ne pas étaler/ne pas s'étaler",
+	"indicatif": {
+		"présent": {
+			"j'": "étale",
+			"tu": "étales",
+			"il/elle": "étale",
+			"nous": "étalons",
+			"vous": "étalez",
+			"ils/elles": "étalent"
+		},
+		"imparfait": {
+			"j'": "étalais",
+			"tu": "étalais",
+			"il/elle": "étalait",
+			"nous": "étalions",
+			"vous": "étaliez",
+			"ils/elles": "étalaient"
+		},
+		"futur": {
+			"j'": "étalerai",
+			"tu": "étaleras",
+			"il/elle": "étalera",
+			"nous": "étalerons",
+			"vous": "étalerez",
+			"ils/elles": "étaleront"
+		},
+		"passé simple": {
+			"j'": "étalai",
+			"tu": "étalas",
+			"il/elle": "étala",
+			"nous": "étalâmes",
+			"vous": "étalâtes",
+			"ils/elles": "étalèrent"
+		},
+		"passé composé": {
+			"j'": "ai étalé",
+			"tu": "as étalé",
+			"il/elle": "a étalé",
+			"nous": "avons étalé",
+			"vous": "avez étalé",
+			"ils/elles": "ont étalé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais étalé",
+			"tu": "avais étalé",
+			"il/elle": "avait étalé",
+			"nous": "avions étalé",
+			"vous": "aviez étalé",
+			"ils/elles": "avaient étalé"
+		},
+		"passé antérieur": {
+			"j'": "eus étalé",
+			"tu": "eus étalé",
+			"il/elle": "eut étalé",
+			"nous": "eûmes étalé",
+			"vous": "eûtes étalé",
+			"ils/elles": "eurent étalé"
+		},
+		"futur antérieur": {
+			"j'": "aurai étalé",
+			"tu": "auras étalé",
+			"il/elle": "aura étalé",
+			"nous": "aurons étalé",
+			"vous": "aurez étalé",
+			"ils/elles": "auront étalé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "étale",
+			"que": "vous étaliez",
+			"qu'il/elle": "étale",
+			"qu'ils/elles": "étalent"
+		},
+		"imparfait": {
+			"j'": "étalasse",
+			"que": "vous étalassiez",
+			"qu'il/elle": "étalât",
+			"qu'ils/elles": "étalassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse étalé",
+			"que": "vous eussiez étalé",
+			"qu'il/elle": "eût étalé",
+			"qu'ils/elles": "eussent étalé"
+		},
+		"passé": {
+			"j'": "aie étalé",
+			"que": "vous ayez étalé",
+			"qu'il/elle": "ait étalé",
+			"qu'ils/elles": "aient étalé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "étalerais",
+			"tu": "étalerais",
+			"il/elle": "étalerait",
+			"nous": "étalerions",
+			"vous": "étaleriez",
+			"ils/elles": "étaleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais étalé",
+			"tu": "aurais étalé",
+			"il/elle": "aurait étalé",
+			"nous": "aurions étalé",
+			"vous": "auriez étalé",
+			"ils/elles": "auraient étalé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse étalé",
+			"tu": "eusses étalé",
+			"il/elle": "eût étalé",
+			"nous": "eussions étalé",
+			"vous": "eussiez étalé",
+			"ils/elles": "eussent étalé"
+		}
+	},
+	"participe": {
+		"présent": { "étalant": "" },
+		"passé composé": { "ayant": "étalé" },
+		"passé": {
+			"masc.sg.:": "étalé",
+			"masc.pl.:": "étalés",
+			"fém.sg.:": "étalée",
+			"fém.pl.:": "étalées"
+		}
+	},
+	"imperatif": {
+		"présent": { "étale": "", "étalons": "", "étalez": "" },
+		"passé": { "aie": "étalé", "ayons": "étalé", "ayez": "étalé" }
+	},
+	"infinitif": { "présent": { "étaler": "" }, "passé": { "avoir": "étalé" } }
+}

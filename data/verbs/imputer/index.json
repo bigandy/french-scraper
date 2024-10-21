@@ -1,0 +1,140 @@
+{
+	"name": "imputer",
+	"definition": "charge; impute; blame; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'imputer/ne pas imputer/ne pas s'imputer",
+	"indicatif": {
+		"présent": {
+			"j'": "impute",
+			"tu": "imputes",
+			"il/elle": "impute",
+			"nous": "imputons",
+			"vous": "imputez",
+			"ils/elles": "imputent"
+		},
+		"imparfait": {
+			"j'": "imputais",
+			"tu": "imputais",
+			"il/elle": "imputait",
+			"nous": "imputions",
+			"vous": "imputiez",
+			"ils/elles": "imputaient"
+		},
+		"futur": {
+			"j'": "imputerai",
+			"tu": "imputeras",
+			"il/elle": "imputera",
+			"nous": "imputerons",
+			"vous": "imputerez",
+			"ils/elles": "imputeront"
+		},
+		"passé simple": {
+			"j'": "imputai",
+			"tu": "imputas",
+			"il/elle": "imputa",
+			"nous": "imputâmes",
+			"vous": "imputâtes",
+			"ils/elles": "imputèrent"
+		},
+		"passé composé": {
+			"j'": "ai imputé",
+			"tu": "as imputé",
+			"il/elle": "a imputé",
+			"nous": "avons imputé",
+			"vous": "avez imputé",
+			"ils/elles": "ont imputé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais imputé",
+			"tu": "avais imputé",
+			"il/elle": "avait imputé",
+			"nous": "avions imputé",
+			"vous": "aviez imputé",
+			"ils/elles": "avaient imputé"
+		},
+		"passé antérieur": {
+			"j'": "eus imputé",
+			"tu": "eus imputé",
+			"il/elle": "eut imputé",
+			"nous": "eûmes imputé",
+			"vous": "eûtes imputé",
+			"ils/elles": "eurent imputé"
+		},
+		"futur antérieur": {
+			"j'": "aurai imputé",
+			"tu": "auras imputé",
+			"il/elle": "aura imputé",
+			"nous": "aurons imputé",
+			"vous": "aurez imputé",
+			"ils/elles": "auront imputé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "impute",
+			"que": "vous imputiez",
+			"qu'il/elle": "impute",
+			"qu'ils/elles": "imputent"
+		},
+		"imparfait": {
+			"j'": "imputasse",
+			"que": "vous imputassiez",
+			"qu'il/elle": "imputât",
+			"qu'ils/elles": "imputassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse imputé",
+			"que": "vous eussiez imputé",
+			"qu'il/elle": "eût imputé",
+			"qu'ils/elles": "eussent imputé"
+		},
+		"passé": {
+			"j'": "aie imputé",
+			"que": "vous ayez imputé",
+			"qu'il/elle": "ait imputé",
+			"qu'ils/elles": "aient imputé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "imputerais",
+			"tu": "imputerais",
+			"il/elle": "imputerait",
+			"nous": "imputerions",
+			"vous": "imputeriez",
+			"ils/elles": "imputeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais imputé",
+			"tu": "aurais imputé",
+			"il/elle": "aurait imputé",
+			"nous": "aurions imputé",
+			"vous": "auriez imputé",
+			"ils/elles": "auraient imputé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse imputé",
+			"tu": "eusses imputé",
+			"il/elle": "eût imputé",
+			"nous": "eussions imputé",
+			"vous": "eussiez imputé",
+			"ils/elles": "eussent imputé"
+		}
+	},
+	"participe": {
+		"présent": { "imputant": "" },
+		"passé composé": { "ayant": "imputé" },
+		"passé": {
+			"masc.sg.:": "imputé",
+			"masc.pl.:": "imputés",
+			"fém.sg.:": "imputée",
+			"fém.pl.:": "imputées"
+		}
+	},
+	"imperatif": {
+		"présent": { "impute": "", "imputons": "", "imputez": "" },
+		"passé": { "aie": "imputé", "ayons": "imputé", "ayez": "imputé" }
+	},
+	"infinitif": { "présent": { "imputer": "" }, "passé": { "avoir": "imputé" } }
+}

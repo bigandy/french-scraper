@@ -1,0 +1,138 @@
+{
+	"name": "shooter",
+	"definition": "shoot; shoot up; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se shooter/ne pas shooter/ne pas se shooter",
+	"indicatif": {
+		"présent": {
+			"je": "shoote",
+			"tu": "shootes",
+			"il/elle": "shoote",
+			"nous": "shootons",
+			"vous": "shootez",
+			"ils/elles": "shootent"
+		},
+		"imparfait": {
+			"je": "shootais",
+			"tu": "shootais",
+			"il/elle": "shootait",
+			"nous": "shootions",
+			"vous": "shootiez",
+			"ils/elles": "shootaient"
+		},
+		"futur": {
+			"je": "shooterai",
+			"tu": "shooteras",
+			"il/elle": "shootera",
+			"nous": "shooterons",
+			"vous": "shooterez",
+			"ils/elles": "shooteront"
+		},
+		"passé simple": {
+			"je": "shootai",
+			"tu": "shootas",
+			"il/elle": "shoota",
+			"nous": "shootâmes",
+			"vous": "shootâtes",
+			"ils/elles": "shootèrent"
+		},
+		"passé composé": {
+			"j'": "ai shooté",
+			"tu": "as shooté",
+			"il/elle": "a shooté",
+			"nous": "avons shooté",
+			"vous": "avez shooté",
+			"ils/elles": "ont shooté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais shooté",
+			"tu": "avais shooté",
+			"il/elle": "avait shooté",
+			"nous": "avions shooté",
+			"vous": "aviez shooté",
+			"ils/elles": "avaient shooté"
+		},
+		"passé antérieur": {
+			"j'": "eus shooté",
+			"tu": "eus shooté",
+			"il/elle": "eut shooté",
+			"nous": "eûmes shooté",
+			"vous": "eûtes shooté",
+			"ils/elles": "eurent shooté"
+		},
+		"futur antérieur": {
+			"j'": "aurai shooté",
+			"tu": "auras shooté",
+			"il/elle": "aura shooté",
+			"nous": "aurons shooté",
+			"vous": "aurez shooté",
+			"ils/elles": "auront shooté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous shootiez",
+			"qu'il/elle": "shoote",
+			"qu'ils/elles": "shootent"
+		},
+		"imparfait": {
+			"que": "vous shootassiez",
+			"qu'il/elle": "shootât",
+			"qu'ils/elles": "shootassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse shooté",
+			"que": "vous eussiez shooté",
+			"qu'il/elle": "eût shooté",
+			"qu'ils/elles": "eussent shooté"
+		},
+		"passé": {
+			"j'": "aie shooté",
+			"que": "vous ayez shooté",
+			"qu'il/elle": "ait shooté",
+			"qu'ils/elles": "aient shooté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "shooterais",
+			"tu": "shooterais",
+			"il/elle": "shooterait",
+			"nous": "shooterions",
+			"vous": "shooteriez",
+			"ils/elles": "shooteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais shooté",
+			"tu": "aurais shooté",
+			"il/elle": "aurait shooté",
+			"nous": "aurions shooté",
+			"vous": "auriez shooté",
+			"ils/elles": "auraient shooté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse shooté",
+			"tu": "eusses shooté",
+			"il/elle": "eût shooté",
+			"nous": "eussions shooté",
+			"vous": "eussiez shooté",
+			"ils/elles": "eussent shooté"
+		}
+	},
+	"participe": {
+		"présent": { "shootant": "" },
+		"passé composé": { "ayant": "shooté" },
+		"passé": {
+			"masc.sg.:": "shooté",
+			"masc.pl.:": "shootés",
+			"fém.sg.:": "shootée",
+			"fém.pl.:": "shootées"
+		}
+	},
+	"imperatif": {
+		"présent": { "shoote": "", "shootons": "", "shootez": "" },
+		"passé": { "aie": "shooté", "ayons": "shooté", "ayez": "shooté" }
+	},
+	"infinitif": { "présent": { "shooter": "" }, "passé": { "avoir": "shooté" } }
+}

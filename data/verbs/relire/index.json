@@ -1,0 +1,138 @@
+{
+	"name": "relire",
+	"definition": "reread; read; re-read; ...",
+	"model": "lire",
+	"auxiliary": "avoir",
+	"otherForms": "se relire/ne pas relire/ne pas se relire",
+	"indicatif": {
+		"présent": {
+			"je": "relis",
+			"tu": "relis",
+			"il/elle": "relit",
+			"nous": "relisons",
+			"vous": "relisez",
+			"ils/elles": "relisent"
+		},
+		"imparfait": {
+			"je": "relisais",
+			"tu": "relisais",
+			"il/elle": "relisait",
+			"nous": "relisions",
+			"vous": "relisiez",
+			"ils/elles": "relisaient"
+		},
+		"futur": {
+			"je": "relirai",
+			"tu": "reliras",
+			"il/elle": "relira",
+			"nous": "relirons",
+			"vous": "relirez",
+			"ils/elles": "reliront"
+		},
+		"passé simple": {
+			"je": "relus",
+			"tu": "relus",
+			"il/elle": "relut",
+			"nous": "relûmes",
+			"vous": "relûtes",
+			"ils/elles": "relurent"
+		},
+		"passé composé": {
+			"j'": "ai relu",
+			"tu": "as relu",
+			"il/elle": "a relu",
+			"nous": "avons relu",
+			"vous": "avez relu",
+			"ils/elles": "ont relu"
+		},
+		"plus-que-parfait": {
+			"j'": "avais relu",
+			"tu": "avais relu",
+			"il/elle": "avait relu",
+			"nous": "avions relu",
+			"vous": "aviez relu",
+			"ils/elles": "avaient relu"
+		},
+		"passé antérieur": {
+			"j'": "eus relu",
+			"tu": "eus relu",
+			"il/elle": "eut relu",
+			"nous": "eûmes relu",
+			"vous": "eûtes relu",
+			"ils/elles": "eurent relu"
+		},
+		"futur antérieur": {
+			"j'": "aurai relu",
+			"tu": "auras relu",
+			"il/elle": "aura relu",
+			"nous": "aurons relu",
+			"vous": "aurez relu",
+			"ils/elles": "auront relu"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous relisiez",
+			"qu'il/elle": "relise",
+			"qu'ils/elles": "relisent"
+		},
+		"imparfait": {
+			"que": "vous relussiez",
+			"qu'il/elle": "relût",
+			"qu'ils/elles": "relussent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse relu",
+			"que": "vous eussiez relu",
+			"qu'il/elle": "eût relu",
+			"qu'ils/elles": "eussent relu"
+		},
+		"passé": {
+			"j'": "aie relu",
+			"que": "vous ayez relu",
+			"qu'il/elle": "ait relu",
+			"qu'ils/elles": "aient relu"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "relirais",
+			"tu": "relirais",
+			"il/elle": "relirait",
+			"nous": "relirions",
+			"vous": "reliriez",
+			"ils/elles": "reliraient"
+		},
+		"passé première forme": {
+			"j'": "aurais relu",
+			"tu": "aurais relu",
+			"il/elle": "aurait relu",
+			"nous": "aurions relu",
+			"vous": "auriez relu",
+			"ils/elles": "auraient relu"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse relu",
+			"tu": "eusses relu",
+			"il/elle": "eût relu",
+			"nous": "eussions relu",
+			"vous": "eussiez relu",
+			"ils/elles": "eussent relu"
+		}
+	},
+	"participe": {
+		"présent": { "relisant": "" },
+		"passé composé": { "ayant": "relu" },
+		"passé": {
+			"masc.sg.:": "relu",
+			"masc.pl.:": "relus",
+			"fém.sg.:": "relue",
+			"fém.pl.:": "relues"
+		}
+	},
+	"imperatif": {
+		"présent": { "relis": "", "relisons": "", "relisez": "" },
+		"passé": { "aie": "relu", "ayons": "relu", "ayez": "relu" }
+	},
+	"infinitif": { "présent": { "relire": "" }, "passé": { "avoir": "relu" } }
+}

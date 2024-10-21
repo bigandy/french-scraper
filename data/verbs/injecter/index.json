@@ -1,0 +1,143 @@
+{
+	"name": "injecter",
+	"definition": "inject; pump; invest; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'injecter/ne pas injecter/ne pas s'injecter",
+	"indicatif": {
+		"présent": {
+			"j'": "injecte",
+			"tu": "injectes",
+			"il/elle": "injecte",
+			"nous": "injectons",
+			"vous": "injectez",
+			"ils/elles": "injectent"
+		},
+		"imparfait": {
+			"j'": "injectais",
+			"tu": "injectais",
+			"il/elle": "injectait",
+			"nous": "injections",
+			"vous": "injectiez",
+			"ils/elles": "injectaient"
+		},
+		"futur": {
+			"j'": "injecterai",
+			"tu": "injecteras",
+			"il/elle": "injectera",
+			"nous": "injecterons",
+			"vous": "injecterez",
+			"ils/elles": "injecteront"
+		},
+		"passé simple": {
+			"j'": "injectai",
+			"tu": "injectas",
+			"il/elle": "injecta",
+			"nous": "injectâmes",
+			"vous": "injectâtes",
+			"ils/elles": "injectèrent"
+		},
+		"passé composé": {
+			"j'": "ai injecté",
+			"tu": "as injecté",
+			"il/elle": "a injecté",
+			"nous": "avons injecté",
+			"vous": "avez injecté",
+			"ils/elles": "ont injecté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais injecté",
+			"tu": "avais injecté",
+			"il/elle": "avait injecté",
+			"nous": "avions injecté",
+			"vous": "aviez injecté",
+			"ils/elles": "avaient injecté"
+		},
+		"passé antérieur": {
+			"j'": "eus injecté",
+			"tu": "eus injecté",
+			"il/elle": "eut injecté",
+			"nous": "eûmes injecté",
+			"vous": "eûtes injecté",
+			"ils/elles": "eurent injecté"
+		},
+		"futur antérieur": {
+			"j'": "aurai injecté",
+			"tu": "auras injecté",
+			"il/elle": "aura injecté",
+			"nous": "aurons injecté",
+			"vous": "aurez injecté",
+			"ils/elles": "auront injecté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "injecte",
+			"que": "vous injectiez",
+			"qu'il/elle": "injecte",
+			"qu'ils/elles": "injectent"
+		},
+		"imparfait": {
+			"j'": "injectasse",
+			"que": "vous injectassiez",
+			"qu'il/elle": "injectât",
+			"qu'ils/elles": "injectassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse injecté",
+			"que": "vous eussiez injecté",
+			"qu'il/elle": "eût injecté",
+			"qu'ils/elles": "eussent injecté"
+		},
+		"passé": {
+			"j'": "aie injecté",
+			"que": "vous ayez injecté",
+			"qu'il/elle": "ait injecté",
+			"qu'ils/elles": "aient injecté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "injecterais",
+			"tu": "injecterais",
+			"il/elle": "injecterait",
+			"nous": "injecterions",
+			"vous": "injecteriez",
+			"ils/elles": "injecteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais injecté",
+			"tu": "aurais injecté",
+			"il/elle": "aurait injecté",
+			"nous": "aurions injecté",
+			"vous": "auriez injecté",
+			"ils/elles": "auraient injecté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse injecté",
+			"tu": "eusses injecté",
+			"il/elle": "eût injecté",
+			"nous": "eussions injecté",
+			"vous": "eussiez injecté",
+			"ils/elles": "eussent injecté"
+		}
+	},
+	"participe": {
+		"présent": { "injectant": "" },
+		"passé composé": { "ayant": "injecté" },
+		"passé": {
+			"masc.sg.:": "injecté",
+			"masc.pl.:": "injectés",
+			"fém.sg.:": "injectée",
+			"fém.pl.:": "injectées"
+		}
+	},
+	"imperatif": {
+		"présent": { "injecte": "", "injectons": "", "injectez": "" },
+		"passé": { "aie": "injecté", "ayons": "injecté", "ayez": "injecté" }
+	},
+	"infinitif": {
+		"présent": { "injecter": "" },
+		"passé": { "avoir": "injecté" }
+	}
+}

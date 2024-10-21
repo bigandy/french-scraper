@@ -1,0 +1,147 @@
+{
+	"name": "intercepter",
+	"definition": "intercept; interdict; trap; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'intercepter/ne pas intercepter/ne pas s'intercepter",
+	"indicatif": {
+		"présent": {
+			"j'": "intercepte",
+			"tu": "interceptes",
+			"il/elle": "intercepte",
+			"nous": "interceptons",
+			"vous": "interceptez",
+			"ils/elles": "interceptent"
+		},
+		"imparfait": {
+			"j'": "interceptais",
+			"tu": "interceptais",
+			"il/elle": "interceptait",
+			"nous": "interceptions",
+			"vous": "interceptiez",
+			"ils/elles": "interceptaient"
+		},
+		"futur": {
+			"j'": "intercepterai",
+			"tu": "intercepteras",
+			"il/elle": "interceptera",
+			"nous": "intercepterons",
+			"vous": "intercepterez",
+			"ils/elles": "intercepteront"
+		},
+		"passé simple": {
+			"j'": "interceptai",
+			"tu": "interceptas",
+			"il/elle": "intercepta",
+			"nous": "interceptâmes",
+			"vous": "interceptâtes",
+			"ils/elles": "interceptèrent"
+		},
+		"passé composé": {
+			"j'": "ai intercepté",
+			"tu": "as intercepté",
+			"il/elle": "a intercepté",
+			"nous": "avons intercepté",
+			"vous": "avez intercepté",
+			"ils/elles": "ont intercepté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais intercepté",
+			"tu": "avais intercepté",
+			"il/elle": "avait intercepté",
+			"nous": "avions intercepté",
+			"vous": "aviez intercepté",
+			"ils/elles": "avaient intercepté"
+		},
+		"passé antérieur": {
+			"j'": "eus intercepté",
+			"tu": "eus intercepté",
+			"il/elle": "eut intercepté",
+			"nous": "eûmes intercepté",
+			"vous": "eûtes intercepté",
+			"ils/elles": "eurent intercepté"
+		},
+		"futur antérieur": {
+			"j'": "aurai intercepté",
+			"tu": "auras intercepté",
+			"il/elle": "aura intercepté",
+			"nous": "aurons intercepté",
+			"vous": "aurez intercepté",
+			"ils/elles": "auront intercepté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "intercepte",
+			"que": "vous interceptiez",
+			"qu'il/elle": "intercepte",
+			"qu'ils/elles": "interceptent"
+		},
+		"imparfait": {
+			"j'": "interceptasse",
+			"que": "vous interceptassiez",
+			"qu'il/elle": "interceptât",
+			"qu'ils/elles": "interceptassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse intercepté",
+			"que": "vous eussiez intercepté",
+			"qu'il/elle": "eût intercepté",
+			"qu'ils/elles": "eussent intercepté"
+		},
+		"passé": {
+			"j'": "aie intercepté",
+			"que": "vous ayez intercepté",
+			"qu'il/elle": "ait intercepté",
+			"qu'ils/elles": "aient intercepté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "intercepterais",
+			"tu": "intercepterais",
+			"il/elle": "intercepterait",
+			"nous": "intercepterions",
+			"vous": "intercepteriez",
+			"ils/elles": "intercepteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais intercepté",
+			"tu": "aurais intercepté",
+			"il/elle": "aurait intercepté",
+			"nous": "aurions intercepté",
+			"vous": "auriez intercepté",
+			"ils/elles": "auraient intercepté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse intercepté",
+			"tu": "eusses intercepté",
+			"il/elle": "eût intercepté",
+			"nous": "eussions intercepté",
+			"vous": "eussiez intercepté",
+			"ils/elles": "eussent intercepté"
+		}
+	},
+	"participe": {
+		"présent": { "interceptant": "" },
+		"passé composé": { "ayant": "intercepté" },
+		"passé": {
+			"masc.sg.:": "intercepté",
+			"masc.pl.:": "interceptés",
+			"fém.sg.:": "interceptée",
+			"fém.pl.:": "interceptées"
+		}
+	},
+	"imperatif": {
+		"présent": { "intercepte": "", "interceptons": "", "interceptez": "" },
+		"passé": {
+			"aie": "intercepté",
+			"ayons": "intercepté",
+			"ayez": "intercepté"
+		}
+	},
+	"infinitif": {
+		"présent": { "intercepter": "" },
+		"passé": { "avoir": "intercepté" }
+	}
+}

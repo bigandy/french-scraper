@@ -1,0 +1,143 @@
+{
+	"name": "adjoindre",
+	"definition": "add; attach; appoint; ...",
+	"model": "craindre",
+	"auxiliary": "avoir",
+	"otherForms": "s'adjoindre/ne pas adjoindre/ne pas s'adjoindre",
+	"indicatif": {
+		"présent": {
+			"j'": "adjoins",
+			"tu": "adjoins",
+			"il/elle": "adjoint",
+			"nous": "adjoignons",
+			"vous": "adjoignez",
+			"ils/elles": "adjoignent"
+		},
+		"imparfait": {
+			"j'": "adjoignais",
+			"tu": "adjoignais",
+			"il/elle": "adjoignait",
+			"nous": "adjoignions",
+			"vous": "adjoigniez",
+			"ils/elles": "adjoignaient"
+		},
+		"futur": {
+			"j'": "adjoindrai",
+			"tu": "adjoindras",
+			"il/elle": "adjoindra",
+			"nous": "adjoindrons",
+			"vous": "adjoindrez",
+			"ils/elles": "adjoindront"
+		},
+		"passé simple": {
+			"j'": "adjoignis",
+			"tu": "adjoignis",
+			"il/elle": "adjoignit",
+			"nous": "adjoignîmes",
+			"vous": "adjoignîtes",
+			"ils/elles": "adjoignirent"
+		},
+		"passé composé": {
+			"j'": "ai adjoint",
+			"tu": "as adjoint",
+			"il/elle": "a adjoint",
+			"nous": "avons adjoint",
+			"vous": "avez adjoint",
+			"ils/elles": "ont adjoint"
+		},
+		"plus-que-parfait": {
+			"j'": "avais adjoint",
+			"tu": "avais adjoint",
+			"il/elle": "avait adjoint",
+			"nous": "avions adjoint",
+			"vous": "aviez adjoint",
+			"ils/elles": "avaient adjoint"
+		},
+		"passé antérieur": {
+			"j'": "eus adjoint",
+			"tu": "eus adjoint",
+			"il/elle": "eut adjoint",
+			"nous": "eûmes adjoint",
+			"vous": "eûtes adjoint",
+			"ils/elles": "eurent adjoint"
+		},
+		"futur antérieur": {
+			"j'": "aurai adjoint",
+			"tu": "auras adjoint",
+			"il/elle": "aura adjoint",
+			"nous": "aurons adjoint",
+			"vous": "aurez adjoint",
+			"ils/elles": "auront adjoint"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "adjoigne",
+			"que": "vous adjoigniez",
+			"qu'il/elle": "adjoigne",
+			"qu'ils/elles": "adjoignent"
+		},
+		"imparfait": {
+			"j'": "adjoignisse",
+			"que": "vous adjoignissiez",
+			"qu'il/elle": "adjoignît",
+			"qu'ils/elles": "adjoignissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse adjoint",
+			"que": "vous eussiez adjoint",
+			"qu'il/elle": "eût adjoint",
+			"qu'ils/elles": "eussent adjoint"
+		},
+		"passé": {
+			"j'": "aie adjoint",
+			"que": "vous ayez adjoint",
+			"qu'il/elle": "ait adjoint",
+			"qu'ils/elles": "aient adjoint"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "adjoindrais",
+			"tu": "adjoindrais",
+			"il/elle": "adjoindrait",
+			"nous": "adjoindrions",
+			"vous": "adjoindriez",
+			"ils/elles": "adjoindraient"
+		},
+		"passé première forme": {
+			"j'": "aurais adjoint",
+			"tu": "aurais adjoint",
+			"il/elle": "aurait adjoint",
+			"nous": "aurions adjoint",
+			"vous": "auriez adjoint",
+			"ils/elles": "auraient adjoint"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse adjoint",
+			"tu": "eusses adjoint",
+			"il/elle": "eût adjoint",
+			"nous": "eussions adjoint",
+			"vous": "eussiez adjoint",
+			"ils/elles": "eussent adjoint"
+		}
+	},
+	"participe": {
+		"présent": { "adjoignant": "" },
+		"passé composé": { "ayant": "adjoint" },
+		"passé": {
+			"masc.sg.:": "adjoint",
+			"masc.pl.:": "adjoints",
+			"fém.sg.:": "adjointe",
+			"fém.pl.:": "adjointes"
+		}
+	},
+	"imperatif": {
+		"présent": { "adjoins": "", "adjoignons": "", "adjoignez": "" },
+		"passé": { "aie": "adjoint", "ayons": "adjoint", "ayez": "adjoint" }
+	},
+	"infinitif": {
+		"présent": { "adjoindre": "" },
+		"passé": { "avoir": "adjoint" }
+	}
+}

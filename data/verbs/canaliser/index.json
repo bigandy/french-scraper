@@ -1,0 +1,141 @@
+{
+	"name": "canaliser",
+	"definition": "channel; direct; harness; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se canaliser/ne pas canaliser/ne pas se canaliser",
+	"indicatif": {
+		"présent": {
+			"je": "canalise",
+			"tu": "canalises",
+			"il/elle": "canalise",
+			"nous": "canalisons",
+			"vous": "canalisez",
+			"ils/elles": "canalisent"
+		},
+		"imparfait": {
+			"je": "canalisais",
+			"tu": "canalisais",
+			"il/elle": "canalisait",
+			"nous": "canalisions",
+			"vous": "canalisiez",
+			"ils/elles": "canalisaient"
+		},
+		"futur": {
+			"je": "canaliserai",
+			"tu": "canaliseras",
+			"il/elle": "canalisera",
+			"nous": "canaliserons",
+			"vous": "canaliserez",
+			"ils/elles": "canaliseront"
+		},
+		"passé simple": {
+			"je": "canalisai",
+			"tu": "canalisas",
+			"il/elle": "canalisa",
+			"nous": "canalisâmes",
+			"vous": "canalisâtes",
+			"ils/elles": "canalisèrent"
+		},
+		"passé composé": {
+			"j'": "ai canalisé",
+			"tu": "as canalisé",
+			"il/elle": "a canalisé",
+			"nous": "avons canalisé",
+			"vous": "avez canalisé",
+			"ils/elles": "ont canalisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais canalisé",
+			"tu": "avais canalisé",
+			"il/elle": "avait canalisé",
+			"nous": "avions canalisé",
+			"vous": "aviez canalisé",
+			"ils/elles": "avaient canalisé"
+		},
+		"passé antérieur": {
+			"j'": "eus canalisé",
+			"tu": "eus canalisé",
+			"il/elle": "eut canalisé",
+			"nous": "eûmes canalisé",
+			"vous": "eûtes canalisé",
+			"ils/elles": "eurent canalisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai canalisé",
+			"tu": "auras canalisé",
+			"il/elle": "aura canalisé",
+			"nous": "aurons canalisé",
+			"vous": "aurez canalisé",
+			"ils/elles": "auront canalisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous canalisiez",
+			"qu'il/elle": "canalise",
+			"qu'ils/elles": "canalisent"
+		},
+		"imparfait": {
+			"que": "vous canalisassiez",
+			"qu'il/elle": "canalisât",
+			"qu'ils/elles": "canalisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse canalisé",
+			"que": "vous eussiez canalisé",
+			"qu'il/elle": "eût canalisé",
+			"qu'ils/elles": "eussent canalisé"
+		},
+		"passé": {
+			"j'": "aie canalisé",
+			"que": "vous ayez canalisé",
+			"qu'il/elle": "ait canalisé",
+			"qu'ils/elles": "aient canalisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "canaliserais",
+			"tu": "canaliserais",
+			"il/elle": "canaliserait",
+			"nous": "canaliserions",
+			"vous": "canaliseriez",
+			"ils/elles": "canaliseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais canalisé",
+			"tu": "aurais canalisé",
+			"il/elle": "aurait canalisé",
+			"nous": "aurions canalisé",
+			"vous": "auriez canalisé",
+			"ils/elles": "auraient canalisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse canalisé",
+			"tu": "eusses canalisé",
+			"il/elle": "eût canalisé",
+			"nous": "eussions canalisé",
+			"vous": "eussiez canalisé",
+			"ils/elles": "eussent canalisé"
+		}
+	},
+	"participe": {
+		"présent": { "canalisant": "" },
+		"passé composé": { "ayant": "canalisé" },
+		"passé": {
+			"masc.sg.:": "canalisé",
+			"masc.pl.:": "canalisés",
+			"fém.sg.:": "canalisée",
+			"fém.pl.:": "canalisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "canalise": "", "canalisons": "", "canalisez": "" },
+		"passé": { "aie": "canalisé", "ayons": "canalisé", "ayez": "canalisé" }
+	},
+	"infinitif": {
+		"présent": { "canaliser": "" },
+		"passé": { "avoir": "canalisé" }
+	}
+}

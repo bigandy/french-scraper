@@ -1,0 +1,196 @@
+{
+	"name": "accoucher",
+	"definition": "give birth; deliver; produce; ...",
+	"model": "marcher",
+	"auxiliary": "avoir,\n              être",
+	"otherForms": "ne pas accoucher",
+	"indicatif": {
+		"présent": {
+			"j'": "accouche",
+			"tu": "accouches",
+			"il/elle": "accouche",
+			"nous": "accouchons",
+			"vous": "accouchez",
+			"ils/elles": "accouchent"
+		},
+		"imparfait": {
+			"j'": "accouchais",
+			"tu": "accouchais",
+			"il/elle": "accouchait",
+			"nous": "accouchions",
+			"vous": "accouchiez",
+			"ils/elles": "accouchaient"
+		},
+		"futur": {
+			"j'": "accoucherai",
+			"tu": "accoucheras",
+			"il/elle": "accouchera",
+			"nous": "accoucherons",
+			"vous": "accoucherez",
+			"ils/elles": "accoucheront"
+		},
+		"passé simple": {
+			"j'": "accouchai",
+			"tu": "accouchas",
+			"il/elle": "accoucha",
+			"nous": "accouchâmes",
+			"vous": "accouchâtes",
+			"ils/elles": "accouchèrent"
+		},
+		"passé composé": {
+			"j'": "ai accouché",
+			"tu": "es accouché",
+			"il/elle": "a accouché",
+			"nous": "sommes accouchés",
+			"vous": "êtes accouchés",
+			"ils/elles": "ont accouché",
+			"": "",
+			"je": "suis accouché",
+			"il": "est accouché",
+			"elle": "est accouchée",
+			"ils": "sont accouchés",
+			"elles": "sont accouchées"
+		},
+		"plus-que-parfait": {
+			"j'": "étais accouché",
+			"tu": "étais accouché",
+			"il/elle": "avait accouché",
+			"nous": "étions accouchés",
+			"vous": "étiez accouchés",
+			"ils/elles": "avaient accouché",
+			"": "",
+			"il": "était accouché",
+			"elle": "était accouchée",
+			"ils": "étaient accouchés",
+			"elles": "étaient accouchées"
+		},
+		"passé antérieur": {
+			"j'": "eus accouché",
+			"tu": "fus accouché",
+			"il/elle": "eut accouché",
+			"nous": "fûmes accouchés",
+			"vous": "fûtes accouchés",
+			"ils/elles": "eurent accouché",
+			"": "",
+			"je": "fus accouché",
+			"il": "fut accouché",
+			"elle": "fut accouchée",
+			"ils": "furent accouchés",
+			"elles": "furent accouchées"
+		},
+		"futur antérieur": {
+			"j'": "aurai accouché",
+			"tu": "seras accouché",
+			"il/elle": "aura accouché",
+			"nous": "serons accouchés",
+			"vous": "serez accouchés",
+			"ils/elles": "auront accouché",
+			"": "",
+			"je": "serai accouché",
+			"il": "sera accouché",
+			"elle": "sera accouchée",
+			"ils": "seront accouchés",
+			"elles": "seront accouchées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "accouche",
+			"que": "vous accouchiez",
+			"qu'il/elle": "accouche",
+			"qu'ils/elles": "accouchent"
+		},
+		"imparfait": {
+			"j'": "accouchasse",
+			"que": "vous accouchassiez",
+			"qu'il/elle": "accouchât",
+			"qu'ils/elles": "accouchassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse accouché",
+			"que": "vous fussiez accouchés",
+			"qu'il/elle": "eût accouché",
+			"qu'ils/elles": "eussent accouché",
+			"": "",
+			"qu'il": "fût accouché",
+			"qu'elle": "fût accouchée",
+			"qu'ils": "fussent accouchés",
+			"qu'elles": "fussent accouchées"
+		},
+		"passé": {
+			"j'": "aie accouché",
+			"que": "vous soyez accouchés",
+			"qu'il/elle": "ait accouché",
+			"qu'ils/elles": "aient accouché",
+			"": "",
+			"qu'il": "soit accouché",
+			"qu'elle": "soit accouchée",
+			"qu'ils": "soient accouchés",
+			"qu'elles": "soient accouchées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "accoucherais",
+			"tu": "accoucherais",
+			"il/elle": "accoucherait",
+			"nous": "accoucherions",
+			"vous": "accoucheriez",
+			"ils/elles": "accoucheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais accouché",
+			"tu": "serais accouché",
+			"il/elle": "aurait accouché",
+			"nous": "serions accouchés",
+			"vous": "seriez accouchés",
+			"ils/elles": "auraient accouché",
+			"": "",
+			"je": "serais accouché",
+			"il": "serait accouché",
+			"elle": "serait accouchée",
+			"ils": "seraient accouchés",
+			"elles": "seraient accouchées"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse accouché",
+			"tu": "fusses accouché",
+			"il/elle": "eût accouché",
+			"nous": "fussions accouchés",
+			"vous": "fussiez accouchés",
+			"ils/elles": "eussent accouché",
+			"": "",
+			"je": "fusse accouché",
+			"il": "fût accouché",
+			"elle": "fût accouchée",
+			"ils": "fussent accouchés",
+			"elles": "fussent accouchées"
+		}
+	},
+	"participe": {
+		"présent": { "accouchant": "" },
+		"passé composé": { "ayant": "accouché", "": "", "étant": "accouchée" },
+		"passé": {
+			"masc.sg.:": "accouché",
+			"masc.pl.:": "accouchés",
+			"fém.sg.:": "accouchée",
+			"fém.pl.:": "accouchées"
+		}
+	},
+	"imperatif": {
+		"présent": { "accouche": "", "accouchons": "", "accouchez": "" },
+		"passé": {
+			"aie": "accouché",
+			"ayons": "accouché",
+			"ayez": "accouché",
+			"": "",
+			"sois": "accouché",
+			"soyons": "accouché",
+			"soyez": "accouché"
+		}
+	},
+	"infinitif": {
+		"présent": { "accoucher": "" },
+		"passé": { "avoir": "accouché", "": "", "être": "accouché" }
+	}
+}

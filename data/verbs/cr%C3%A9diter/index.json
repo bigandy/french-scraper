@@ -1,0 +1,141 @@
+{
+	"name": "créditer",
+	"definition": "credit; give credence; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se créditer/ne pas créditer/ne pas se créditer",
+	"indicatif": {
+		"présent": {
+			"je": "crédite",
+			"tu": "crédites",
+			"il/elle": "crédite",
+			"nous": "créditons",
+			"vous": "créditez",
+			"ils/elles": "créditent"
+		},
+		"imparfait": {
+			"je": "créditais",
+			"tu": "créditais",
+			"il/elle": "créditait",
+			"nous": "créditions",
+			"vous": "créditiez",
+			"ils/elles": "créditaient"
+		},
+		"futur": {
+			"je": "créditerai",
+			"tu": "créditeras",
+			"il/elle": "créditera",
+			"nous": "créditerons",
+			"vous": "créditerez",
+			"ils/elles": "créditeront"
+		},
+		"passé simple": {
+			"je": "créditai",
+			"tu": "créditas",
+			"il/elle": "crédita",
+			"nous": "créditâmes",
+			"vous": "créditâtes",
+			"ils/elles": "créditèrent"
+		},
+		"passé composé": {
+			"j'": "ai crédité",
+			"tu": "as crédité",
+			"il/elle": "a crédité",
+			"nous": "avons crédité",
+			"vous": "avez crédité",
+			"ils/elles": "ont crédité"
+		},
+		"plus-que-parfait": {
+			"j'": "avais crédité",
+			"tu": "avais crédité",
+			"il/elle": "avait crédité",
+			"nous": "avions crédité",
+			"vous": "aviez crédité",
+			"ils/elles": "avaient crédité"
+		},
+		"passé antérieur": {
+			"j'": "eus crédité",
+			"tu": "eus crédité",
+			"il/elle": "eut crédité",
+			"nous": "eûmes crédité",
+			"vous": "eûtes crédité",
+			"ils/elles": "eurent crédité"
+		},
+		"futur antérieur": {
+			"j'": "aurai crédité",
+			"tu": "auras crédité",
+			"il/elle": "aura crédité",
+			"nous": "aurons crédité",
+			"vous": "aurez crédité",
+			"ils/elles": "auront crédité"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous créditiez",
+			"qu'il/elle": "crédite",
+			"qu'ils/elles": "créditent"
+		},
+		"imparfait": {
+			"que": "vous créditassiez",
+			"qu'il/elle": "créditât",
+			"qu'ils/elles": "créditassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse crédité",
+			"que": "vous eussiez crédité",
+			"qu'il/elle": "eût crédité",
+			"qu'ils/elles": "eussent crédité"
+		},
+		"passé": {
+			"j'": "aie crédité",
+			"que": "vous ayez crédité",
+			"qu'il/elle": "ait crédité",
+			"qu'ils/elles": "aient crédité"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "créditerais",
+			"tu": "créditerais",
+			"il/elle": "créditerait",
+			"nous": "créditerions",
+			"vous": "créditeriez",
+			"ils/elles": "créditeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais crédité",
+			"tu": "aurais crédité",
+			"il/elle": "aurait crédité",
+			"nous": "aurions crédité",
+			"vous": "auriez crédité",
+			"ils/elles": "auraient crédité"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse crédité",
+			"tu": "eusses crédité",
+			"il/elle": "eût crédité",
+			"nous": "eussions crédité",
+			"vous": "eussiez crédité",
+			"ils/elles": "eussent crédité"
+		}
+	},
+	"participe": {
+		"présent": { "créditant": "" },
+		"passé composé": { "ayant": "crédité" },
+		"passé": {
+			"masc.sg.:": "crédité",
+			"masc.pl.:": "crédités",
+			"fém.sg.:": "créditée",
+			"fém.pl.:": "créditées"
+		}
+	},
+	"imperatif": {
+		"présent": { "crédite": "", "créditons": "", "créditez": "" },
+		"passé": { "aie": "crédité", "ayons": "crédité", "ayez": "crédité" }
+	},
+	"infinitif": {
+		"présent": { "créditer": "" },
+		"passé": { "avoir": "crédité" }
+	}
+}

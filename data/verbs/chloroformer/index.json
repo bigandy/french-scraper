@@ -1,0 +1,145 @@
+{
+	"name": "chloroformer",
+	"definition": "chloroform; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se chloroformer/ne pas chloroformer/ne pas se chloroformer",
+	"indicatif": {
+		"présent": {
+			"je": "chloroforme",
+			"tu": "chloroformes",
+			"il/elle": "chloroforme",
+			"nous": "chloroformons",
+			"vous": "chloroformez",
+			"ils/elles": "chloroforment"
+		},
+		"imparfait": {
+			"je": "chloroformais",
+			"tu": "chloroformais",
+			"il/elle": "chloroformait",
+			"nous": "chloroformions",
+			"vous": "chloroformiez",
+			"ils/elles": "chloroformaient"
+		},
+		"futur": {
+			"je": "chloroformerai",
+			"tu": "chloroformeras",
+			"il/elle": "chloroformera",
+			"nous": "chloroformerons",
+			"vous": "chloroformerez",
+			"ils/elles": "chloroformeront"
+		},
+		"passé simple": {
+			"je": "chloroformai",
+			"tu": "chloroformas",
+			"il/elle": "chloroforma",
+			"nous": "chloroformâmes",
+			"vous": "chloroformâtes",
+			"ils/elles": "chloroformèrent"
+		},
+		"passé composé": {
+			"j'": "ai chloroformé",
+			"tu": "as chloroformé",
+			"il/elle": "a chloroformé",
+			"nous": "avons chloroformé",
+			"vous": "avez chloroformé",
+			"ils/elles": "ont chloroformé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais chloroformé",
+			"tu": "avais chloroformé",
+			"il/elle": "avait chloroformé",
+			"nous": "avions chloroformé",
+			"vous": "aviez chloroformé",
+			"ils/elles": "avaient chloroformé"
+		},
+		"passé antérieur": {
+			"j'": "eus chloroformé",
+			"tu": "eus chloroformé",
+			"il/elle": "eut chloroformé",
+			"nous": "eûmes chloroformé",
+			"vous": "eûtes chloroformé",
+			"ils/elles": "eurent chloroformé"
+		},
+		"futur antérieur": {
+			"j'": "aurai chloroformé",
+			"tu": "auras chloroformé",
+			"il/elle": "aura chloroformé",
+			"nous": "aurons chloroformé",
+			"vous": "aurez chloroformé",
+			"ils/elles": "auront chloroformé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous chloroformiez",
+			"qu'il/elle": "chloroforme",
+			"qu'ils/elles": "chloroforment"
+		},
+		"imparfait": {
+			"que": "vous chloroformassiez",
+			"qu'il/elle": "chloroformât",
+			"qu'ils/elles": "chloroformassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse chloroformé",
+			"que": "vous eussiez chloroformé",
+			"qu'il/elle": "eût chloroformé",
+			"qu'ils/elles": "eussent chloroformé"
+		},
+		"passé": {
+			"j'": "aie chloroformé",
+			"que": "vous ayez chloroformé",
+			"qu'il/elle": "ait chloroformé",
+			"qu'ils/elles": "aient chloroformé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "chloroformerais",
+			"tu": "chloroformerais",
+			"il/elle": "chloroformerait",
+			"nous": "chloroformerions",
+			"vous": "chloroformeriez",
+			"ils/elles": "chloroformeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais chloroformé",
+			"tu": "aurais chloroformé",
+			"il/elle": "aurait chloroformé",
+			"nous": "aurions chloroformé",
+			"vous": "auriez chloroformé",
+			"ils/elles": "auraient chloroformé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse chloroformé",
+			"tu": "eusses chloroformé",
+			"il/elle": "eût chloroformé",
+			"nous": "eussions chloroformé",
+			"vous": "eussiez chloroformé",
+			"ils/elles": "eussent chloroformé"
+		}
+	},
+	"participe": {
+		"présent": { "chloroformant": "" },
+		"passé composé": { "ayant": "chloroformé" },
+		"passé": {
+			"masc.sg.:": "chloroformé",
+			"masc.pl.:": "chloroformés",
+			"fém.sg.:": "chloroformée",
+			"fém.pl.:": "chloroformées"
+		}
+	},
+	"imperatif": {
+		"présent": { "chloroforme": "", "chloroformons": "", "chloroformez": "" },
+		"passé": {
+			"aie": "chloroformé",
+			"ayons": "chloroformé",
+			"ayez": "chloroformé"
+		}
+	},
+	"infinitif": {
+		"présent": { "chloroformer": "" },
+		"passé": { "avoir": "chloroformé" }
+	}
+}

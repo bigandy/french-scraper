@@ -1,0 +1,138 @@
+{
+	"name": "jasper",
+	"definition": "chatter; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se jasper/ne pas jasper/ne pas se jasper",
+	"indicatif": {
+		"présent": {
+			"je": "jaspe",
+			"tu": "jaspes",
+			"il/elle": "jaspe",
+			"nous": "jaspons",
+			"vous": "jaspez",
+			"ils/elles": "jaspent"
+		},
+		"imparfait": {
+			"je": "jaspais",
+			"tu": "jaspais",
+			"il/elle": "jaspait",
+			"nous": "jaspions",
+			"vous": "jaspiez",
+			"ils/elles": "jaspaient"
+		},
+		"futur": {
+			"je": "jasperai",
+			"tu": "jasperas",
+			"il/elle": "jaspera",
+			"nous": "jasperons",
+			"vous": "jasperez",
+			"ils/elles": "jasperont"
+		},
+		"passé simple": {
+			"je": "jaspai",
+			"tu": "jaspas",
+			"il/elle": "jaspa",
+			"nous": "jaspâmes",
+			"vous": "jaspâtes",
+			"ils/elles": "jaspèrent"
+		},
+		"passé composé": {
+			"j'": "ai jaspé",
+			"tu": "as jaspé",
+			"il/elle": "a jaspé",
+			"nous": "avons jaspé",
+			"vous": "avez jaspé",
+			"ils/elles": "ont jaspé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais jaspé",
+			"tu": "avais jaspé",
+			"il/elle": "avait jaspé",
+			"nous": "avions jaspé",
+			"vous": "aviez jaspé",
+			"ils/elles": "avaient jaspé"
+		},
+		"passé antérieur": {
+			"j'": "eus jaspé",
+			"tu": "eus jaspé",
+			"il/elle": "eut jaspé",
+			"nous": "eûmes jaspé",
+			"vous": "eûtes jaspé",
+			"ils/elles": "eurent jaspé"
+		},
+		"futur antérieur": {
+			"j'": "aurai jaspé",
+			"tu": "auras jaspé",
+			"il/elle": "aura jaspé",
+			"nous": "aurons jaspé",
+			"vous": "aurez jaspé",
+			"ils/elles": "auront jaspé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous jaspiez",
+			"qu'il/elle": "jaspe",
+			"qu'ils/elles": "jaspent"
+		},
+		"imparfait": {
+			"que": "vous jaspassiez",
+			"qu'il/elle": "jaspât",
+			"qu'ils/elles": "jaspassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse jaspé",
+			"que": "vous eussiez jaspé",
+			"qu'il/elle": "eût jaspé",
+			"qu'ils/elles": "eussent jaspé"
+		},
+		"passé": {
+			"j'": "aie jaspé",
+			"que": "vous ayez jaspé",
+			"qu'il/elle": "ait jaspé",
+			"qu'ils/elles": "aient jaspé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "jasperais",
+			"tu": "jasperais",
+			"il/elle": "jasperait",
+			"nous": "jasperions",
+			"vous": "jasperiez",
+			"ils/elles": "jasperaient"
+		},
+		"passé première forme": {
+			"j'": "aurais jaspé",
+			"tu": "aurais jaspé",
+			"il/elle": "aurait jaspé",
+			"nous": "aurions jaspé",
+			"vous": "auriez jaspé",
+			"ils/elles": "auraient jaspé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse jaspé",
+			"tu": "eusses jaspé",
+			"il/elle": "eût jaspé",
+			"nous": "eussions jaspé",
+			"vous": "eussiez jaspé",
+			"ils/elles": "eussent jaspé"
+		}
+	},
+	"participe": {
+		"présent": { "jaspant": "" },
+		"passé composé": { "ayant": "jaspé" },
+		"passé": {
+			"masc.sg.:": "jaspé",
+			"masc.pl.:": "jaspés",
+			"fém.sg.:": "jaspée",
+			"fém.pl.:": "jaspées"
+		}
+	},
+	"imperatif": {
+		"présent": { "jaspe": "", "jaspons": "", "jaspez": "" },
+		"passé": { "aie": "jaspé", "ayons": "jaspé", "ayez": "jaspé" }
+	},
+	"infinitif": { "présent": { "jasper": "" }, "passé": { "avoir": "jaspé" } }
+}

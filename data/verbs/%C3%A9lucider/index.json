@@ -1,0 +1,143 @@
+{
+	"name": "élucider",
+	"definition": "elucidate; clarify; solve; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'élucider/ne pas élucider/ne pas s'élucider",
+	"indicatif": {
+		"présent": {
+			"j'": "élucide",
+			"tu": "élucides",
+			"il/elle": "élucide",
+			"nous": "élucidons",
+			"vous": "élucidez",
+			"ils/elles": "élucident"
+		},
+		"imparfait": {
+			"j'": "élucidais",
+			"tu": "élucidais",
+			"il/elle": "élucidait",
+			"nous": "élucidions",
+			"vous": "élucidiez",
+			"ils/elles": "élucidaient"
+		},
+		"futur": {
+			"j'": "éluciderai",
+			"tu": "élucideras",
+			"il/elle": "élucidera",
+			"nous": "éluciderons",
+			"vous": "éluciderez",
+			"ils/elles": "élucideront"
+		},
+		"passé simple": {
+			"j'": "élucidai",
+			"tu": "élucidas",
+			"il/elle": "élucida",
+			"nous": "élucidâmes",
+			"vous": "élucidâtes",
+			"ils/elles": "élucidèrent"
+		},
+		"passé composé": {
+			"j'": "ai élucidé",
+			"tu": "as élucidé",
+			"il/elle": "a élucidé",
+			"nous": "avons élucidé",
+			"vous": "avez élucidé",
+			"ils/elles": "ont élucidé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais élucidé",
+			"tu": "avais élucidé",
+			"il/elle": "avait élucidé",
+			"nous": "avions élucidé",
+			"vous": "aviez élucidé",
+			"ils/elles": "avaient élucidé"
+		},
+		"passé antérieur": {
+			"j'": "eus élucidé",
+			"tu": "eus élucidé",
+			"il/elle": "eut élucidé",
+			"nous": "eûmes élucidé",
+			"vous": "eûtes élucidé",
+			"ils/elles": "eurent élucidé"
+		},
+		"futur antérieur": {
+			"j'": "aurai élucidé",
+			"tu": "auras élucidé",
+			"il/elle": "aura élucidé",
+			"nous": "aurons élucidé",
+			"vous": "aurez élucidé",
+			"ils/elles": "auront élucidé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "élucide",
+			"que": "vous élucidiez",
+			"qu'il/elle": "élucide",
+			"qu'ils/elles": "élucident"
+		},
+		"imparfait": {
+			"j'": "élucidasse",
+			"que": "vous élucidassiez",
+			"qu'il/elle": "élucidât",
+			"qu'ils/elles": "élucidassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse élucidé",
+			"que": "vous eussiez élucidé",
+			"qu'il/elle": "eût élucidé",
+			"qu'ils/elles": "eussent élucidé"
+		},
+		"passé": {
+			"j'": "aie élucidé",
+			"que": "vous ayez élucidé",
+			"qu'il/elle": "ait élucidé",
+			"qu'ils/elles": "aient élucidé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "éluciderais",
+			"tu": "éluciderais",
+			"il/elle": "éluciderait",
+			"nous": "éluciderions",
+			"vous": "élucideriez",
+			"ils/elles": "élucideraient"
+		},
+		"passé première forme": {
+			"j'": "aurais élucidé",
+			"tu": "aurais élucidé",
+			"il/elle": "aurait élucidé",
+			"nous": "aurions élucidé",
+			"vous": "auriez élucidé",
+			"ils/elles": "auraient élucidé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse élucidé",
+			"tu": "eusses élucidé",
+			"il/elle": "eût élucidé",
+			"nous": "eussions élucidé",
+			"vous": "eussiez élucidé",
+			"ils/elles": "eussent élucidé"
+		}
+	},
+	"participe": {
+		"présent": { "élucidant": "" },
+		"passé composé": { "ayant": "élucidé" },
+		"passé": {
+			"masc.sg.:": "élucidé",
+			"masc.pl.:": "élucidés",
+			"fém.sg.:": "élucidée",
+			"fém.pl.:": "élucidées"
+		}
+	},
+	"imperatif": {
+		"présent": { "élucide": "", "élucidons": "", "élucidez": "" },
+		"passé": { "aie": "élucidé", "ayons": "élucidé", "ayez": "élucidé" }
+	},
+	"infinitif": {
+		"présent": { "élucider": "" },
+		"passé": { "avoir": "élucidé" }
+	}
+}

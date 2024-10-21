@@ -1,0 +1,141 @@
+{
+	"name": "préconiser",
+	"definition": "advocate; recommend; call for; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se préconiser/ne pas préconiser/ne pas se préconiser",
+	"indicatif": {
+		"présent": {
+			"je": "préconise",
+			"tu": "préconises",
+			"il/elle": "préconise",
+			"nous": "préconisons",
+			"vous": "préconisez",
+			"ils/elles": "préconisent"
+		},
+		"imparfait": {
+			"je": "préconisais",
+			"tu": "préconisais",
+			"il/elle": "préconisait",
+			"nous": "préconisions",
+			"vous": "préconisiez",
+			"ils/elles": "préconisaient"
+		},
+		"futur": {
+			"je": "préconiserai",
+			"tu": "préconiseras",
+			"il/elle": "préconisera",
+			"nous": "préconiserons",
+			"vous": "préconiserez",
+			"ils/elles": "préconiseront"
+		},
+		"passé simple": {
+			"je": "préconisai",
+			"tu": "préconisas",
+			"il/elle": "préconisa",
+			"nous": "préconisâmes",
+			"vous": "préconisâtes",
+			"ils/elles": "préconisèrent"
+		},
+		"passé composé": {
+			"j'": "ai préconisé",
+			"tu": "as préconisé",
+			"il/elle": "a préconisé",
+			"nous": "avons préconisé",
+			"vous": "avez préconisé",
+			"ils/elles": "ont préconisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais préconisé",
+			"tu": "avais préconisé",
+			"il/elle": "avait préconisé",
+			"nous": "avions préconisé",
+			"vous": "aviez préconisé",
+			"ils/elles": "avaient préconisé"
+		},
+		"passé antérieur": {
+			"j'": "eus préconisé",
+			"tu": "eus préconisé",
+			"il/elle": "eut préconisé",
+			"nous": "eûmes préconisé",
+			"vous": "eûtes préconisé",
+			"ils/elles": "eurent préconisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai préconisé",
+			"tu": "auras préconisé",
+			"il/elle": "aura préconisé",
+			"nous": "aurons préconisé",
+			"vous": "aurez préconisé",
+			"ils/elles": "auront préconisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous préconisiez",
+			"qu'il/elle": "préconise",
+			"qu'ils/elles": "préconisent"
+		},
+		"imparfait": {
+			"que": "vous préconisassiez",
+			"qu'il/elle": "préconisât",
+			"qu'ils/elles": "préconisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse préconisé",
+			"que": "vous eussiez préconisé",
+			"qu'il/elle": "eût préconisé",
+			"qu'ils/elles": "eussent préconisé"
+		},
+		"passé": {
+			"j'": "aie préconisé",
+			"que": "vous ayez préconisé",
+			"qu'il/elle": "ait préconisé",
+			"qu'ils/elles": "aient préconisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "préconiserais",
+			"tu": "préconiserais",
+			"il/elle": "préconiserait",
+			"nous": "préconiserions",
+			"vous": "préconiseriez",
+			"ils/elles": "préconiseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais préconisé",
+			"tu": "aurais préconisé",
+			"il/elle": "aurait préconisé",
+			"nous": "aurions préconisé",
+			"vous": "auriez préconisé",
+			"ils/elles": "auraient préconisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse préconisé",
+			"tu": "eusses préconisé",
+			"il/elle": "eût préconisé",
+			"nous": "eussions préconisé",
+			"vous": "eussiez préconisé",
+			"ils/elles": "eussent préconisé"
+		}
+	},
+	"participe": {
+		"présent": { "préconisant": "" },
+		"passé composé": { "ayant": "préconisé" },
+		"passé": {
+			"masc.sg.:": "préconisé",
+			"masc.pl.:": "préconisés",
+			"fém.sg.:": "préconisée",
+			"fém.pl.:": "préconisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "préconise": "", "préconisons": "", "préconisez": "" },
+		"passé": { "aie": "préconisé", "ayons": "préconisé", "ayez": "préconisé" }
+	},
+	"infinitif": {
+		"présent": { "préconiser": "" },
+		"passé": { "avoir": "préconisé" }
+	}
+}

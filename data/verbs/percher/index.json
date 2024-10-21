@@ -1,0 +1,138 @@
+{
+	"name": "percher",
+	"definition": "perch; roost; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se percher/ne pas percher/ne pas se percher",
+	"indicatif": {
+		"présent": {
+			"je": "perche",
+			"tu": "perches",
+			"il/elle": "perche",
+			"nous": "perchons",
+			"vous": "perchez",
+			"ils/elles": "perchent"
+		},
+		"imparfait": {
+			"je": "perchais",
+			"tu": "perchais",
+			"il/elle": "perchait",
+			"nous": "perchions",
+			"vous": "perchiez",
+			"ils/elles": "perchaient"
+		},
+		"futur": {
+			"je": "percherai",
+			"tu": "percheras",
+			"il/elle": "perchera",
+			"nous": "percherons",
+			"vous": "percherez",
+			"ils/elles": "percheront"
+		},
+		"passé simple": {
+			"je": "perchai",
+			"tu": "perchas",
+			"il/elle": "percha",
+			"nous": "perchâmes",
+			"vous": "perchâtes",
+			"ils/elles": "perchèrent"
+		},
+		"passé composé": {
+			"j'": "ai perché",
+			"tu": "as perché",
+			"il/elle": "a perché",
+			"nous": "avons perché",
+			"vous": "avez perché",
+			"ils/elles": "ont perché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais perché",
+			"tu": "avais perché",
+			"il/elle": "avait perché",
+			"nous": "avions perché",
+			"vous": "aviez perché",
+			"ils/elles": "avaient perché"
+		},
+		"passé antérieur": {
+			"j'": "eus perché",
+			"tu": "eus perché",
+			"il/elle": "eut perché",
+			"nous": "eûmes perché",
+			"vous": "eûtes perché",
+			"ils/elles": "eurent perché"
+		},
+		"futur antérieur": {
+			"j'": "aurai perché",
+			"tu": "auras perché",
+			"il/elle": "aura perché",
+			"nous": "aurons perché",
+			"vous": "aurez perché",
+			"ils/elles": "auront perché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous perchiez",
+			"qu'il/elle": "perche",
+			"qu'ils/elles": "perchent"
+		},
+		"imparfait": {
+			"que": "vous perchassiez",
+			"qu'il/elle": "perchât",
+			"qu'ils/elles": "perchassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse perché",
+			"que": "vous eussiez perché",
+			"qu'il/elle": "eût perché",
+			"qu'ils/elles": "eussent perché"
+		},
+		"passé": {
+			"j'": "aie perché",
+			"que": "vous ayez perché",
+			"qu'il/elle": "ait perché",
+			"qu'ils/elles": "aient perché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "percherais",
+			"tu": "percherais",
+			"il/elle": "percherait",
+			"nous": "percherions",
+			"vous": "percheriez",
+			"ils/elles": "percheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais perché",
+			"tu": "aurais perché",
+			"il/elle": "aurait perché",
+			"nous": "aurions perché",
+			"vous": "auriez perché",
+			"ils/elles": "auraient perché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse perché",
+			"tu": "eusses perché",
+			"il/elle": "eût perché",
+			"nous": "eussions perché",
+			"vous": "eussiez perché",
+			"ils/elles": "eussent perché"
+		}
+	},
+	"participe": {
+		"présent": { "perchant": "" },
+		"passé composé": { "ayant": "perché" },
+		"passé": {
+			"masc.sg.:": "perché",
+			"masc.pl.:": "perchés",
+			"fém.sg.:": "perchée",
+			"fém.pl.:": "perchées"
+		}
+	},
+	"imperatif": {
+		"présent": { "perche": "", "perchons": "", "perchez": "" },
+		"passé": { "aie": "perché", "ayons": "perché", "ayez": "perché" }
+	},
+	"infinitif": { "présent": { "percher": "" }, "passé": { "avoir": "perché" } }
+}

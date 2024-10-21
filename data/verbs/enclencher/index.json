@@ -1,0 +1,143 @@
+{
+	"name": "enclencher",
+	"definition": "engage; initiate; trigger; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'enclencher/ne pas enclencher/ne pas s'enclencher",
+	"indicatif": {
+		"présent": {
+			"j'": "enclenche",
+			"tu": "enclenches",
+			"il/elle": "enclenche",
+			"nous": "enclenchons",
+			"vous": "enclenchez",
+			"ils/elles": "enclenchent"
+		},
+		"imparfait": {
+			"j'": "enclenchais",
+			"tu": "enclenchais",
+			"il/elle": "enclenchait",
+			"nous": "enclenchions",
+			"vous": "enclenchiez",
+			"ils/elles": "enclenchaient"
+		},
+		"futur": {
+			"j'": "enclencherai",
+			"tu": "enclencheras",
+			"il/elle": "enclenchera",
+			"nous": "enclencherons",
+			"vous": "enclencherez",
+			"ils/elles": "enclencheront"
+		},
+		"passé simple": {
+			"j'": "enclenchai",
+			"tu": "enclenchas",
+			"il/elle": "enclencha",
+			"nous": "enclenchâmes",
+			"vous": "enclenchâtes",
+			"ils/elles": "enclenchèrent"
+		},
+		"passé composé": {
+			"j'": "ai enclenché",
+			"tu": "as enclenché",
+			"il/elle": "a enclenché",
+			"nous": "avons enclenché",
+			"vous": "avez enclenché",
+			"ils/elles": "ont enclenché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais enclenché",
+			"tu": "avais enclenché",
+			"il/elle": "avait enclenché",
+			"nous": "avions enclenché",
+			"vous": "aviez enclenché",
+			"ils/elles": "avaient enclenché"
+		},
+		"passé antérieur": {
+			"j'": "eus enclenché",
+			"tu": "eus enclenché",
+			"il/elle": "eut enclenché",
+			"nous": "eûmes enclenché",
+			"vous": "eûtes enclenché",
+			"ils/elles": "eurent enclenché"
+		},
+		"futur antérieur": {
+			"j'": "aurai enclenché",
+			"tu": "auras enclenché",
+			"il/elle": "aura enclenché",
+			"nous": "aurons enclenché",
+			"vous": "aurez enclenché",
+			"ils/elles": "auront enclenché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "enclenche",
+			"que": "vous enclenchiez",
+			"qu'il/elle": "enclenche",
+			"qu'ils/elles": "enclenchent"
+		},
+		"imparfait": {
+			"j'": "enclenchasse",
+			"que": "vous enclenchassiez",
+			"qu'il/elle": "enclenchât",
+			"qu'ils/elles": "enclenchassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse enclenché",
+			"que": "vous eussiez enclenché",
+			"qu'il/elle": "eût enclenché",
+			"qu'ils/elles": "eussent enclenché"
+		},
+		"passé": {
+			"j'": "aie enclenché",
+			"que": "vous ayez enclenché",
+			"qu'il/elle": "ait enclenché",
+			"qu'ils/elles": "aient enclenché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "enclencherais",
+			"tu": "enclencherais",
+			"il/elle": "enclencherait",
+			"nous": "enclencherions",
+			"vous": "enclencheriez",
+			"ils/elles": "enclencheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais enclenché",
+			"tu": "aurais enclenché",
+			"il/elle": "aurait enclenché",
+			"nous": "aurions enclenché",
+			"vous": "auriez enclenché",
+			"ils/elles": "auraient enclenché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse enclenché",
+			"tu": "eusses enclenché",
+			"il/elle": "eût enclenché",
+			"nous": "eussions enclenché",
+			"vous": "eussiez enclenché",
+			"ils/elles": "eussent enclenché"
+		}
+	},
+	"participe": {
+		"présent": { "enclenchant": "" },
+		"passé composé": { "ayant": "enclenché" },
+		"passé": {
+			"masc.sg.:": "enclenché",
+			"masc.pl.:": "enclenchés",
+			"fém.sg.:": "enclenchée",
+			"fém.pl.:": "enclenchées"
+		}
+	},
+	"imperatif": {
+		"présent": { "enclenche": "", "enclenchons": "", "enclenchez": "" },
+		"passé": { "aie": "enclenché", "ayons": "enclenché", "ayez": "enclenché" }
+	},
+	"infinitif": {
+		"présent": { "enclencher": "" },
+		"passé": { "avoir": "enclenché" }
+	}
+}

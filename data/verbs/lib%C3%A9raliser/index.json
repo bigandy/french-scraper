@@ -1,0 +1,145 @@
+{
+	"name": "libéraliser",
+	"definition": "liberalize; liberalise; deregulate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se libéraliser/ne pas libéraliser/ne pas se libéraliser",
+	"indicatif": {
+		"présent": {
+			"je": "libéralise",
+			"tu": "libéralises",
+			"il/elle": "libéralise",
+			"nous": "libéralisons",
+			"vous": "libéralisez",
+			"ils/elles": "libéralisent"
+		},
+		"imparfait": {
+			"je": "libéralisais",
+			"tu": "libéralisais",
+			"il/elle": "libéralisait",
+			"nous": "libéralisions",
+			"vous": "libéralisiez",
+			"ils/elles": "libéralisaient"
+		},
+		"futur": {
+			"je": "libéraliserai",
+			"tu": "libéraliseras",
+			"il/elle": "libéralisera",
+			"nous": "libéraliserons",
+			"vous": "libéraliserez",
+			"ils/elles": "libéraliseront"
+		},
+		"passé simple": {
+			"je": "libéralisai",
+			"tu": "libéralisas",
+			"il/elle": "libéralisa",
+			"nous": "libéralisâmes",
+			"vous": "libéralisâtes",
+			"ils/elles": "libéralisèrent"
+		},
+		"passé composé": {
+			"j'": "ai libéralisé",
+			"tu": "as libéralisé",
+			"il/elle": "a libéralisé",
+			"nous": "avons libéralisé",
+			"vous": "avez libéralisé",
+			"ils/elles": "ont libéralisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais libéralisé",
+			"tu": "avais libéralisé",
+			"il/elle": "avait libéralisé",
+			"nous": "avions libéralisé",
+			"vous": "aviez libéralisé",
+			"ils/elles": "avaient libéralisé"
+		},
+		"passé antérieur": {
+			"j'": "eus libéralisé",
+			"tu": "eus libéralisé",
+			"il/elle": "eut libéralisé",
+			"nous": "eûmes libéralisé",
+			"vous": "eûtes libéralisé",
+			"ils/elles": "eurent libéralisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai libéralisé",
+			"tu": "auras libéralisé",
+			"il/elle": "aura libéralisé",
+			"nous": "aurons libéralisé",
+			"vous": "aurez libéralisé",
+			"ils/elles": "auront libéralisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous libéralisiez",
+			"qu'il/elle": "libéralise",
+			"qu'ils/elles": "libéralisent"
+		},
+		"imparfait": {
+			"que": "vous libéralisassiez",
+			"qu'il/elle": "libéralisât",
+			"qu'ils/elles": "libéralisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse libéralisé",
+			"que": "vous eussiez libéralisé",
+			"qu'il/elle": "eût libéralisé",
+			"qu'ils/elles": "eussent libéralisé"
+		},
+		"passé": {
+			"j'": "aie libéralisé",
+			"que": "vous ayez libéralisé",
+			"qu'il/elle": "ait libéralisé",
+			"qu'ils/elles": "aient libéralisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "libéraliserais",
+			"tu": "libéraliserais",
+			"il/elle": "libéraliserait",
+			"nous": "libéraliserions",
+			"vous": "libéraliseriez",
+			"ils/elles": "libéraliseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais libéralisé",
+			"tu": "aurais libéralisé",
+			"il/elle": "aurait libéralisé",
+			"nous": "aurions libéralisé",
+			"vous": "auriez libéralisé",
+			"ils/elles": "auraient libéralisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse libéralisé",
+			"tu": "eusses libéralisé",
+			"il/elle": "eût libéralisé",
+			"nous": "eussions libéralisé",
+			"vous": "eussiez libéralisé",
+			"ils/elles": "eussent libéralisé"
+		}
+	},
+	"participe": {
+		"présent": { "libéralisant": "" },
+		"passé composé": { "ayant": "libéralisé" },
+		"passé": {
+			"masc.sg.:": "libéralisé",
+			"masc.pl.:": "libéralisés",
+			"fém.sg.:": "libéralisée",
+			"fém.pl.:": "libéralisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "libéralise": "", "libéralisons": "", "libéralisez": "" },
+		"passé": {
+			"aie": "libéralisé",
+			"ayons": "libéralisé",
+			"ayez": "libéralisé"
+		}
+	},
+	"infinitif": {
+		"présent": { "libéraliser": "" },
+		"passé": { "avoir": "libéralisé" }
+	}
+}

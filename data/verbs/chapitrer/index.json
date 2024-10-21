@@ -1,0 +1,141 @@
+{
+	"name": "chapitrer",
+	"definition": "reprimand; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se chapitrer/ne pas chapitrer/ne pas se chapitrer",
+	"indicatif": {
+		"présent": {
+			"je": "chapitre",
+			"tu": "chapitres",
+			"il/elle": "chapitre",
+			"nous": "chapitrons",
+			"vous": "chapitrez",
+			"ils/elles": "chapitrent"
+		},
+		"imparfait": {
+			"je": "chapitrais",
+			"tu": "chapitrais",
+			"il/elle": "chapitrait",
+			"nous": "chapitrions",
+			"vous": "chapitriez",
+			"ils/elles": "chapitraient"
+		},
+		"futur": {
+			"je": "chapitrerai",
+			"tu": "chapitreras",
+			"il/elle": "chapitrera",
+			"nous": "chapitrerons",
+			"vous": "chapitrerez",
+			"ils/elles": "chapitreront"
+		},
+		"passé simple": {
+			"je": "chapitrai",
+			"tu": "chapitras",
+			"il/elle": "chapitra",
+			"nous": "chapitrâmes",
+			"vous": "chapitrâtes",
+			"ils/elles": "chapitrèrent"
+		},
+		"passé composé": {
+			"j'": "ai chapitré",
+			"tu": "as chapitré",
+			"il/elle": "a chapitré",
+			"nous": "avons chapitré",
+			"vous": "avez chapitré",
+			"ils/elles": "ont chapitré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais chapitré",
+			"tu": "avais chapitré",
+			"il/elle": "avait chapitré",
+			"nous": "avions chapitré",
+			"vous": "aviez chapitré",
+			"ils/elles": "avaient chapitré"
+		},
+		"passé antérieur": {
+			"j'": "eus chapitré",
+			"tu": "eus chapitré",
+			"il/elle": "eut chapitré",
+			"nous": "eûmes chapitré",
+			"vous": "eûtes chapitré",
+			"ils/elles": "eurent chapitré"
+		},
+		"futur antérieur": {
+			"j'": "aurai chapitré",
+			"tu": "auras chapitré",
+			"il/elle": "aura chapitré",
+			"nous": "aurons chapitré",
+			"vous": "aurez chapitré",
+			"ils/elles": "auront chapitré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous chapitriez",
+			"qu'il/elle": "chapitre",
+			"qu'ils/elles": "chapitrent"
+		},
+		"imparfait": {
+			"que": "vous chapitrassiez",
+			"qu'il/elle": "chapitrât",
+			"qu'ils/elles": "chapitrassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse chapitré",
+			"que": "vous eussiez chapitré",
+			"qu'il/elle": "eût chapitré",
+			"qu'ils/elles": "eussent chapitré"
+		},
+		"passé": {
+			"j'": "aie chapitré",
+			"que": "vous ayez chapitré",
+			"qu'il/elle": "ait chapitré",
+			"qu'ils/elles": "aient chapitré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "chapitrerais",
+			"tu": "chapitrerais",
+			"il/elle": "chapitrerait",
+			"nous": "chapitrerions",
+			"vous": "chapitreriez",
+			"ils/elles": "chapitreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais chapitré",
+			"tu": "aurais chapitré",
+			"il/elle": "aurait chapitré",
+			"nous": "aurions chapitré",
+			"vous": "auriez chapitré",
+			"ils/elles": "auraient chapitré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse chapitré",
+			"tu": "eusses chapitré",
+			"il/elle": "eût chapitré",
+			"nous": "eussions chapitré",
+			"vous": "eussiez chapitré",
+			"ils/elles": "eussent chapitré"
+		}
+	},
+	"participe": {
+		"présent": { "chapitrant": "" },
+		"passé composé": { "ayant": "chapitré" },
+		"passé": {
+			"masc.sg.:": "chapitré",
+			"masc.pl.:": "chapitrés",
+			"fém.sg.:": "chapitrée",
+			"fém.pl.:": "chapitrées"
+		}
+	},
+	"imperatif": {
+		"présent": { "chapitre": "", "chapitrons": "", "chapitrez": "" },
+		"passé": { "aie": "chapitré", "ayons": "chapitré", "ayez": "chapitré" }
+	},
+	"infinitif": {
+		"présent": { "chapitrer": "" },
+		"passé": { "avoir": "chapitré" }
+	}
+}

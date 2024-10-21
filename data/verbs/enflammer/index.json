@@ -1,0 +1,143 @@
+{
+	"name": "enflammer",
+	"definition": "ignite; inflame; fire; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'enflammer/ne pas enflammer/ne pas s'enflammer",
+	"indicatif": {
+		"présent": {
+			"j'": "enflamme",
+			"tu": "enflammes",
+			"il/elle": "enflamme",
+			"nous": "enflammons",
+			"vous": "enflammez",
+			"ils/elles": "enflamment"
+		},
+		"imparfait": {
+			"j'": "enflammais",
+			"tu": "enflammais",
+			"il/elle": "enflammait",
+			"nous": "enflammions",
+			"vous": "enflammiez",
+			"ils/elles": "enflammaient"
+		},
+		"futur": {
+			"j'": "enflammerai",
+			"tu": "enflammeras",
+			"il/elle": "enflammera",
+			"nous": "enflammerons",
+			"vous": "enflammerez",
+			"ils/elles": "enflammeront"
+		},
+		"passé simple": {
+			"j'": "enflammai",
+			"tu": "enflammas",
+			"il/elle": "enflamma",
+			"nous": "enflammâmes",
+			"vous": "enflammâtes",
+			"ils/elles": "enflammèrent"
+		},
+		"passé composé": {
+			"j'": "ai enflammé",
+			"tu": "as enflammé",
+			"il/elle": "a enflammé",
+			"nous": "avons enflammé",
+			"vous": "avez enflammé",
+			"ils/elles": "ont enflammé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais enflammé",
+			"tu": "avais enflammé",
+			"il/elle": "avait enflammé",
+			"nous": "avions enflammé",
+			"vous": "aviez enflammé",
+			"ils/elles": "avaient enflammé"
+		},
+		"passé antérieur": {
+			"j'": "eus enflammé",
+			"tu": "eus enflammé",
+			"il/elle": "eut enflammé",
+			"nous": "eûmes enflammé",
+			"vous": "eûtes enflammé",
+			"ils/elles": "eurent enflammé"
+		},
+		"futur antérieur": {
+			"j'": "aurai enflammé",
+			"tu": "auras enflammé",
+			"il/elle": "aura enflammé",
+			"nous": "aurons enflammé",
+			"vous": "aurez enflammé",
+			"ils/elles": "auront enflammé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "enflamme",
+			"que": "vous enflammiez",
+			"qu'il/elle": "enflamme",
+			"qu'ils/elles": "enflamment"
+		},
+		"imparfait": {
+			"j'": "enflammasse",
+			"que": "vous enflammassiez",
+			"qu'il/elle": "enflammât",
+			"qu'ils/elles": "enflammassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse enflammé",
+			"que": "vous eussiez enflammé",
+			"qu'il/elle": "eût enflammé",
+			"qu'ils/elles": "eussent enflammé"
+		},
+		"passé": {
+			"j'": "aie enflammé",
+			"que": "vous ayez enflammé",
+			"qu'il/elle": "ait enflammé",
+			"qu'ils/elles": "aient enflammé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "enflammerais",
+			"tu": "enflammerais",
+			"il/elle": "enflammerait",
+			"nous": "enflammerions",
+			"vous": "enflammeriez",
+			"ils/elles": "enflammeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais enflammé",
+			"tu": "aurais enflammé",
+			"il/elle": "aurait enflammé",
+			"nous": "aurions enflammé",
+			"vous": "auriez enflammé",
+			"ils/elles": "auraient enflammé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse enflammé",
+			"tu": "eusses enflammé",
+			"il/elle": "eût enflammé",
+			"nous": "eussions enflammé",
+			"vous": "eussiez enflammé",
+			"ils/elles": "eussent enflammé"
+		}
+	},
+	"participe": {
+		"présent": { "enflammant": "" },
+		"passé composé": { "ayant": "enflammé" },
+		"passé": {
+			"masc.sg.:": "enflammé",
+			"masc.pl.:": "enflammés",
+			"fém.sg.:": "enflammée",
+			"fém.pl.:": "enflammées"
+		}
+	},
+	"imperatif": {
+		"présent": { "enflamme": "", "enflammons": "", "enflammez": "" },
+		"passé": { "aie": "enflammé", "ayons": "enflammé", "ayez": "enflammé" }
+	},
+	"infinitif": {
+		"présent": { "enflammer": "" },
+		"passé": { "avoir": "enflammé" }
+	}
+}

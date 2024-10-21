@@ -1,0 +1,147 @@
+{
+	"name": "automatiser",
+	"definition": "automate; automatize; automatise; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'automatiser/ne pas automatiser/ne pas s'automatiser",
+	"indicatif": {
+		"présent": {
+			"j'": "automatise",
+			"tu": "automatises",
+			"il/elle": "automatise",
+			"nous": "automatisons",
+			"vous": "automatisez",
+			"ils/elles": "automatisent"
+		},
+		"imparfait": {
+			"j'": "automatisais",
+			"tu": "automatisais",
+			"il/elle": "automatisait",
+			"nous": "automatisions",
+			"vous": "automatisiez",
+			"ils/elles": "automatisaient"
+		},
+		"futur": {
+			"j'": "automatiserai",
+			"tu": "automatiseras",
+			"il/elle": "automatisera",
+			"nous": "automatiserons",
+			"vous": "automatiserez",
+			"ils/elles": "automatiseront"
+		},
+		"passé simple": {
+			"j'": "automatisai",
+			"tu": "automatisas",
+			"il/elle": "automatisa",
+			"nous": "automatisâmes",
+			"vous": "automatisâtes",
+			"ils/elles": "automatisèrent"
+		},
+		"passé composé": {
+			"j'": "ai automatisé",
+			"tu": "as automatisé",
+			"il/elle": "a automatisé",
+			"nous": "avons automatisé",
+			"vous": "avez automatisé",
+			"ils/elles": "ont automatisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais automatisé",
+			"tu": "avais automatisé",
+			"il/elle": "avait automatisé",
+			"nous": "avions automatisé",
+			"vous": "aviez automatisé",
+			"ils/elles": "avaient automatisé"
+		},
+		"passé antérieur": {
+			"j'": "eus automatisé",
+			"tu": "eus automatisé",
+			"il/elle": "eut automatisé",
+			"nous": "eûmes automatisé",
+			"vous": "eûtes automatisé",
+			"ils/elles": "eurent automatisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai automatisé",
+			"tu": "auras automatisé",
+			"il/elle": "aura automatisé",
+			"nous": "aurons automatisé",
+			"vous": "aurez automatisé",
+			"ils/elles": "auront automatisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "automatise",
+			"que": "vous automatisiez",
+			"qu'il/elle": "automatise",
+			"qu'ils/elles": "automatisent"
+		},
+		"imparfait": {
+			"j'": "automatisasse",
+			"que": "vous automatisassiez",
+			"qu'il/elle": "automatisât",
+			"qu'ils/elles": "automatisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse automatisé",
+			"que": "vous eussiez automatisé",
+			"qu'il/elle": "eût automatisé",
+			"qu'ils/elles": "eussent automatisé"
+		},
+		"passé": {
+			"j'": "aie automatisé",
+			"que": "vous ayez automatisé",
+			"qu'il/elle": "ait automatisé",
+			"qu'ils/elles": "aient automatisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "automatiserais",
+			"tu": "automatiserais",
+			"il/elle": "automatiserait",
+			"nous": "automatiserions",
+			"vous": "automatiseriez",
+			"ils/elles": "automatiseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais automatisé",
+			"tu": "aurais automatisé",
+			"il/elle": "aurait automatisé",
+			"nous": "aurions automatisé",
+			"vous": "auriez automatisé",
+			"ils/elles": "auraient automatisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse automatisé",
+			"tu": "eusses automatisé",
+			"il/elle": "eût automatisé",
+			"nous": "eussions automatisé",
+			"vous": "eussiez automatisé",
+			"ils/elles": "eussent automatisé"
+		}
+	},
+	"participe": {
+		"présent": { "automatisant": "" },
+		"passé composé": { "ayant": "automatisé" },
+		"passé": {
+			"masc.sg.:": "automatisé",
+			"masc.pl.:": "automatisés",
+			"fém.sg.:": "automatisée",
+			"fém.pl.:": "automatisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "automatise": "", "automatisons": "", "automatisez": "" },
+		"passé": {
+			"aie": "automatisé",
+			"ayons": "automatisé",
+			"ayez": "automatisé"
+		}
+	},
+	"infinitif": {
+		"présent": { "automatiser": "" },
+		"passé": { "avoir": "automatisé" }
+	}
+}

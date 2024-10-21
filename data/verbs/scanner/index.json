@@ -1,0 +1,138 @@
+{
+	"name": "scanner",
+	"definition": "scan; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se scanner/ne pas scanner/ne pas se scanner",
+	"indicatif": {
+		"présent": {
+			"je": "scanne",
+			"tu": "scannes",
+			"il/elle": "scanne",
+			"nous": "scannons",
+			"vous": "scannez",
+			"ils/elles": "scannent"
+		},
+		"imparfait": {
+			"je": "scannais",
+			"tu": "scannais",
+			"il/elle": "scannait",
+			"nous": "scannions",
+			"vous": "scanniez",
+			"ils/elles": "scannaient"
+		},
+		"futur": {
+			"je": "scannerai",
+			"tu": "scanneras",
+			"il/elle": "scannera",
+			"nous": "scannerons",
+			"vous": "scannerez",
+			"ils/elles": "scanneront"
+		},
+		"passé simple": {
+			"je": "scannai",
+			"tu": "scannas",
+			"il/elle": "scanna",
+			"nous": "scannâmes",
+			"vous": "scannâtes",
+			"ils/elles": "scannèrent"
+		},
+		"passé composé": {
+			"j'": "ai scanné",
+			"tu": "as scanné",
+			"il/elle": "a scanné",
+			"nous": "avons scanné",
+			"vous": "avez scanné",
+			"ils/elles": "ont scanné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais scanné",
+			"tu": "avais scanné",
+			"il/elle": "avait scanné",
+			"nous": "avions scanné",
+			"vous": "aviez scanné",
+			"ils/elles": "avaient scanné"
+		},
+		"passé antérieur": {
+			"j'": "eus scanné",
+			"tu": "eus scanné",
+			"il/elle": "eut scanné",
+			"nous": "eûmes scanné",
+			"vous": "eûtes scanné",
+			"ils/elles": "eurent scanné"
+		},
+		"futur antérieur": {
+			"j'": "aurai scanné",
+			"tu": "auras scanné",
+			"il/elle": "aura scanné",
+			"nous": "aurons scanné",
+			"vous": "aurez scanné",
+			"ils/elles": "auront scanné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous scanniez",
+			"qu'il/elle": "scanne",
+			"qu'ils/elles": "scannent"
+		},
+		"imparfait": {
+			"que": "vous scannassiez",
+			"qu'il/elle": "scannât",
+			"qu'ils/elles": "scannassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse scanné",
+			"que": "vous eussiez scanné",
+			"qu'il/elle": "eût scanné",
+			"qu'ils/elles": "eussent scanné"
+		},
+		"passé": {
+			"j'": "aie scanné",
+			"que": "vous ayez scanné",
+			"qu'il/elle": "ait scanné",
+			"qu'ils/elles": "aient scanné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "scannerais",
+			"tu": "scannerais",
+			"il/elle": "scannerait",
+			"nous": "scannerions",
+			"vous": "scanneriez",
+			"ils/elles": "scanneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais scanné",
+			"tu": "aurais scanné",
+			"il/elle": "aurait scanné",
+			"nous": "aurions scanné",
+			"vous": "auriez scanné",
+			"ils/elles": "auraient scanné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse scanné",
+			"tu": "eusses scanné",
+			"il/elle": "eût scanné",
+			"nous": "eussions scanné",
+			"vous": "eussiez scanné",
+			"ils/elles": "eussent scanné"
+		}
+	},
+	"participe": {
+		"présent": { "scannant": "" },
+		"passé composé": { "ayant": "scanné" },
+		"passé": {
+			"masc.sg.:": "scanné",
+			"masc.pl.:": "scannés",
+			"fém.sg.:": "scannée",
+			"fém.pl.:": "scannées"
+		}
+	},
+	"imperatif": {
+		"présent": { "scanne": "", "scannons": "", "scannez": "" },
+		"passé": { "aie": "scanné", "ayons": "scanné", "ayez": "scanné" }
+	},
+	"infinitif": { "présent": { "scanner": "" }, "passé": { "avoir": "scanné" } }
+}

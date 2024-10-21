@@ -1,0 +1,141 @@
+{
+	"name": "cabrioler",
+	"definition": "skip; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "ne pas cabrioler",
+	"indicatif": {
+		"présent": {
+			"je": "cabriole",
+			"tu": "cabrioles",
+			"il/elle": "cabriole",
+			"nous": "cabriolons",
+			"vous": "cabriolez",
+			"ils/elles": "cabriolent"
+		},
+		"imparfait": {
+			"je": "cabriolais",
+			"tu": "cabriolais",
+			"il/elle": "cabriolait",
+			"nous": "cabriolions",
+			"vous": "cabrioliez",
+			"ils/elles": "cabriolaient"
+		},
+		"futur": {
+			"je": "cabriolerai",
+			"tu": "cabrioleras",
+			"il/elle": "cabriolera",
+			"nous": "cabriolerons",
+			"vous": "cabriolerez",
+			"ils/elles": "cabrioleront"
+		},
+		"passé simple": {
+			"je": "cabriolai",
+			"tu": "cabriolas",
+			"il/elle": "cabriola",
+			"nous": "cabriolâmes",
+			"vous": "cabriolâtes",
+			"ils/elles": "cabriolèrent"
+		},
+		"passé composé": {
+			"j'": "ai cabriolé",
+			"tu": "as cabriolé",
+			"il/elle": "a cabriolé",
+			"nous": "avons cabriolé",
+			"vous": "avez cabriolé",
+			"ils/elles": "ont cabriolé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais cabriolé",
+			"tu": "avais cabriolé",
+			"il/elle": "avait cabriolé",
+			"nous": "avions cabriolé",
+			"vous": "aviez cabriolé",
+			"ils/elles": "avaient cabriolé"
+		},
+		"passé antérieur": {
+			"j'": "eus cabriolé",
+			"tu": "eus cabriolé",
+			"il/elle": "eut cabriolé",
+			"nous": "eûmes cabriolé",
+			"vous": "eûtes cabriolé",
+			"ils/elles": "eurent cabriolé"
+		},
+		"futur antérieur": {
+			"j'": "aurai cabriolé",
+			"tu": "auras cabriolé",
+			"il/elle": "aura cabriolé",
+			"nous": "aurons cabriolé",
+			"vous": "aurez cabriolé",
+			"ils/elles": "auront cabriolé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous cabrioliez",
+			"qu'il/elle": "cabriole",
+			"qu'ils/elles": "cabriolent"
+		},
+		"imparfait": {
+			"que": "vous cabriolassiez",
+			"qu'il/elle": "cabriolât",
+			"qu'ils/elles": "cabriolassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse cabriolé",
+			"que": "vous eussiez cabriolé",
+			"qu'il/elle": "eût cabriolé",
+			"qu'ils/elles": "eussent cabriolé"
+		},
+		"passé": {
+			"j'": "aie cabriolé",
+			"que": "vous ayez cabriolé",
+			"qu'il/elle": "ait cabriolé",
+			"qu'ils/elles": "aient cabriolé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "cabriolerais",
+			"tu": "cabriolerais",
+			"il/elle": "cabriolerait",
+			"nous": "cabriolerions",
+			"vous": "cabrioleriez",
+			"ils/elles": "cabrioleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais cabriolé",
+			"tu": "aurais cabriolé",
+			"il/elle": "aurait cabriolé",
+			"nous": "aurions cabriolé",
+			"vous": "auriez cabriolé",
+			"ils/elles": "auraient cabriolé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse cabriolé",
+			"tu": "eusses cabriolé",
+			"il/elle": "eût cabriolé",
+			"nous": "eussions cabriolé",
+			"vous": "eussiez cabriolé",
+			"ils/elles": "eussent cabriolé"
+		}
+	},
+	"participe": {
+		"présent": { "cabriolant": "" },
+		"passé composé": { "ayant": "cabriolé" },
+		"passé": {
+			"masc.sg.:": "cabriolé",
+			"masc.pl.:": "cabriolés",
+			"fém.sg.:": "cabriolée",
+			"fém.pl.:": "cabriolées"
+		}
+	},
+	"imperatif": {
+		"présent": { "cabriole": "", "cabriolons": "", "cabriolez": "" },
+		"passé": { "aie": "cabriolé", "ayons": "cabriolé", "ayez": "cabriolé" }
+	},
+	"infinitif": {
+		"présent": { "cabrioler": "" },
+		"passé": { "avoir": "cabriolé" }
+	}
+}

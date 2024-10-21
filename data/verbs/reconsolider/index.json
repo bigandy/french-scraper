@@ -1,0 +1,145 @@
+{
+	"name": "reconsolider",
+	"definition": "rebind; reconsolidate; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se reconsolider/ne pas reconsolider/ne pas se reconsolider",
+	"indicatif": {
+		"présent": {
+			"je": "reconsolide",
+			"tu": "reconsolides",
+			"il/elle": "reconsolide",
+			"nous": "reconsolidons",
+			"vous": "reconsolidez",
+			"ils/elles": "reconsolident"
+		},
+		"imparfait": {
+			"je": "reconsolidais",
+			"tu": "reconsolidais",
+			"il/elle": "reconsolidait",
+			"nous": "reconsolidions",
+			"vous": "reconsolidiez",
+			"ils/elles": "reconsolidaient"
+		},
+		"futur": {
+			"je": "reconsoliderai",
+			"tu": "reconsolideras",
+			"il/elle": "reconsolidera",
+			"nous": "reconsoliderons",
+			"vous": "reconsoliderez",
+			"ils/elles": "reconsolideront"
+		},
+		"passé simple": {
+			"je": "reconsolidai",
+			"tu": "reconsolidas",
+			"il/elle": "reconsolida",
+			"nous": "reconsolidâmes",
+			"vous": "reconsolidâtes",
+			"ils/elles": "reconsolidèrent"
+		},
+		"passé composé": {
+			"j'": "ai reconsolidé",
+			"tu": "as reconsolidé",
+			"il/elle": "a reconsolidé",
+			"nous": "avons reconsolidé",
+			"vous": "avez reconsolidé",
+			"ils/elles": "ont reconsolidé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais reconsolidé",
+			"tu": "avais reconsolidé",
+			"il/elle": "avait reconsolidé",
+			"nous": "avions reconsolidé",
+			"vous": "aviez reconsolidé",
+			"ils/elles": "avaient reconsolidé"
+		},
+		"passé antérieur": {
+			"j'": "eus reconsolidé",
+			"tu": "eus reconsolidé",
+			"il/elle": "eut reconsolidé",
+			"nous": "eûmes reconsolidé",
+			"vous": "eûtes reconsolidé",
+			"ils/elles": "eurent reconsolidé"
+		},
+		"futur antérieur": {
+			"j'": "aurai reconsolidé",
+			"tu": "auras reconsolidé",
+			"il/elle": "aura reconsolidé",
+			"nous": "aurons reconsolidé",
+			"vous": "aurez reconsolidé",
+			"ils/elles": "auront reconsolidé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous reconsolidiez",
+			"qu'il/elle": "reconsolide",
+			"qu'ils/elles": "reconsolident"
+		},
+		"imparfait": {
+			"que": "vous reconsolidassiez",
+			"qu'il/elle": "reconsolidât",
+			"qu'ils/elles": "reconsolidassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse reconsolidé",
+			"que": "vous eussiez reconsolidé",
+			"qu'il/elle": "eût reconsolidé",
+			"qu'ils/elles": "eussent reconsolidé"
+		},
+		"passé": {
+			"j'": "aie reconsolidé",
+			"que": "vous ayez reconsolidé",
+			"qu'il/elle": "ait reconsolidé",
+			"qu'ils/elles": "aient reconsolidé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "reconsoliderais",
+			"tu": "reconsoliderais",
+			"il/elle": "reconsoliderait",
+			"nous": "reconsoliderions",
+			"vous": "reconsolideriez",
+			"ils/elles": "reconsolideraient"
+		},
+		"passé première forme": {
+			"j'": "aurais reconsolidé",
+			"tu": "aurais reconsolidé",
+			"il/elle": "aurait reconsolidé",
+			"nous": "aurions reconsolidé",
+			"vous": "auriez reconsolidé",
+			"ils/elles": "auraient reconsolidé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse reconsolidé",
+			"tu": "eusses reconsolidé",
+			"il/elle": "eût reconsolidé",
+			"nous": "eussions reconsolidé",
+			"vous": "eussiez reconsolidé",
+			"ils/elles": "eussent reconsolidé"
+		}
+	},
+	"participe": {
+		"présent": { "reconsolidant": "" },
+		"passé composé": { "ayant": "reconsolidé" },
+		"passé": {
+			"masc.sg.:": "reconsolidé",
+			"masc.pl.:": "reconsolidés",
+			"fém.sg.:": "reconsolidée",
+			"fém.pl.:": "reconsolidées"
+		}
+	},
+	"imperatif": {
+		"présent": { "reconsolide": "", "reconsolidons": "", "reconsolidez": "" },
+		"passé": {
+			"aie": "reconsolidé",
+			"ayons": "reconsolidé",
+			"ayez": "reconsolidé"
+		}
+	},
+	"infinitif": {
+		"présent": { "reconsolider": "" },
+		"passé": { "avoir": "reconsolidé" }
+	}
+}

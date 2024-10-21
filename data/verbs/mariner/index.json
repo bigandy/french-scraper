@@ -1,0 +1,138 @@
+{
+	"name": "mariner",
+	"definition": "marinate; marinade; dangle; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se mariner/ne pas mariner/ne pas se mariner",
+	"indicatif": {
+		"présent": {
+			"je": "marine",
+			"tu": "marines",
+			"il/elle": "marine",
+			"nous": "marinons",
+			"vous": "marinez",
+			"ils/elles": "marinent"
+		},
+		"imparfait": {
+			"je": "marinais",
+			"tu": "marinais",
+			"il/elle": "marinait",
+			"nous": "marinions",
+			"vous": "mariniez",
+			"ils/elles": "marinaient"
+		},
+		"futur": {
+			"je": "marinerai",
+			"tu": "marineras",
+			"il/elle": "marinera",
+			"nous": "marinerons",
+			"vous": "marinerez",
+			"ils/elles": "marineront"
+		},
+		"passé simple": {
+			"je": "marinai",
+			"tu": "marinas",
+			"il/elle": "marina",
+			"nous": "marinâmes",
+			"vous": "marinâtes",
+			"ils/elles": "marinèrent"
+		},
+		"passé composé": {
+			"j'": "ai mariné",
+			"tu": "as mariné",
+			"il/elle": "a mariné",
+			"nous": "avons mariné",
+			"vous": "avez mariné",
+			"ils/elles": "ont mariné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais mariné",
+			"tu": "avais mariné",
+			"il/elle": "avait mariné",
+			"nous": "avions mariné",
+			"vous": "aviez mariné",
+			"ils/elles": "avaient mariné"
+		},
+		"passé antérieur": {
+			"j'": "eus mariné",
+			"tu": "eus mariné",
+			"il/elle": "eut mariné",
+			"nous": "eûmes mariné",
+			"vous": "eûtes mariné",
+			"ils/elles": "eurent mariné"
+		},
+		"futur antérieur": {
+			"j'": "aurai mariné",
+			"tu": "auras mariné",
+			"il/elle": "aura mariné",
+			"nous": "aurons mariné",
+			"vous": "aurez mariné",
+			"ils/elles": "auront mariné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous mariniez",
+			"qu'il/elle": "marine",
+			"qu'ils/elles": "marinent"
+		},
+		"imparfait": {
+			"que": "vous marinassiez",
+			"qu'il/elle": "marinât",
+			"qu'ils/elles": "marinassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse mariné",
+			"que": "vous eussiez mariné",
+			"qu'il/elle": "eût mariné",
+			"qu'ils/elles": "eussent mariné"
+		},
+		"passé": {
+			"j'": "aie mariné",
+			"que": "vous ayez mariné",
+			"qu'il/elle": "ait mariné",
+			"qu'ils/elles": "aient mariné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "marinerais",
+			"tu": "marinerais",
+			"il/elle": "marinerait",
+			"nous": "marinerions",
+			"vous": "marineriez",
+			"ils/elles": "marineraient"
+		},
+		"passé première forme": {
+			"j'": "aurais mariné",
+			"tu": "aurais mariné",
+			"il/elle": "aurait mariné",
+			"nous": "aurions mariné",
+			"vous": "auriez mariné",
+			"ils/elles": "auraient mariné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse mariné",
+			"tu": "eusses mariné",
+			"il/elle": "eût mariné",
+			"nous": "eussions mariné",
+			"vous": "eussiez mariné",
+			"ils/elles": "eussent mariné"
+		}
+	},
+	"participe": {
+		"présent": { "marinant": "" },
+		"passé composé": { "ayant": "mariné" },
+		"passé": {
+			"masc.sg.:": "mariné",
+			"masc.pl.:": "marinés",
+			"fém.sg.:": "marinée",
+			"fém.pl.:": "marinées"
+		}
+	},
+	"imperatif": {
+		"présent": { "marine": "", "marinons": "", "marinez": "" },
+		"passé": { "aie": "mariné", "ayons": "mariné", "ayez": "mariné" }
+	},
+	"infinitif": { "présent": { "mariner": "" }, "passé": { "avoir": "mariné" } }
+}

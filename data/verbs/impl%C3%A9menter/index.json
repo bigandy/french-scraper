@@ -1,0 +1,147 @@
+{
+	"name": "implémenter",
+	"definition": "implement; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'implémenter/ne pas implémenter/ne pas s'implémenter",
+	"indicatif": {
+		"présent": {
+			"j'": "implémente",
+			"tu": "implémentes",
+			"il/elle": "implémente",
+			"nous": "implémentons",
+			"vous": "implémentez",
+			"ils/elles": "implémentent"
+		},
+		"imparfait": {
+			"j'": "implémentais",
+			"tu": "implémentais",
+			"il/elle": "implémentait",
+			"nous": "implémentions",
+			"vous": "implémentiez",
+			"ils/elles": "implémentaient"
+		},
+		"futur": {
+			"j'": "implémenterai",
+			"tu": "implémenteras",
+			"il/elle": "implémentera",
+			"nous": "implémenterons",
+			"vous": "implémenterez",
+			"ils/elles": "implémenteront"
+		},
+		"passé simple": {
+			"j'": "implémentai",
+			"tu": "implémentas",
+			"il/elle": "implémenta",
+			"nous": "implémentâmes",
+			"vous": "implémentâtes",
+			"ils/elles": "implémentèrent"
+		},
+		"passé composé": {
+			"j'": "ai implémenté",
+			"tu": "as implémenté",
+			"il/elle": "a implémenté",
+			"nous": "avons implémenté",
+			"vous": "avez implémenté",
+			"ils/elles": "ont implémenté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais implémenté",
+			"tu": "avais implémenté",
+			"il/elle": "avait implémenté",
+			"nous": "avions implémenté",
+			"vous": "aviez implémenté",
+			"ils/elles": "avaient implémenté"
+		},
+		"passé antérieur": {
+			"j'": "eus implémenté",
+			"tu": "eus implémenté",
+			"il/elle": "eut implémenté",
+			"nous": "eûmes implémenté",
+			"vous": "eûtes implémenté",
+			"ils/elles": "eurent implémenté"
+		},
+		"futur antérieur": {
+			"j'": "aurai implémenté",
+			"tu": "auras implémenté",
+			"il/elle": "aura implémenté",
+			"nous": "aurons implémenté",
+			"vous": "aurez implémenté",
+			"ils/elles": "auront implémenté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "implémente",
+			"que": "vous implémentiez",
+			"qu'il/elle": "implémente",
+			"qu'ils/elles": "implémentent"
+		},
+		"imparfait": {
+			"j'": "implémentasse",
+			"que": "vous implémentassiez",
+			"qu'il/elle": "implémentât",
+			"qu'ils/elles": "implémentassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse implémenté",
+			"que": "vous eussiez implémenté",
+			"qu'il/elle": "eût implémenté",
+			"qu'ils/elles": "eussent implémenté"
+		},
+		"passé": {
+			"j'": "aie implémenté",
+			"que": "vous ayez implémenté",
+			"qu'il/elle": "ait implémenté",
+			"qu'ils/elles": "aient implémenté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "implémenterais",
+			"tu": "implémenterais",
+			"il/elle": "implémenterait",
+			"nous": "implémenterions",
+			"vous": "implémenteriez",
+			"ils/elles": "implémenteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais implémenté",
+			"tu": "aurais implémenté",
+			"il/elle": "aurait implémenté",
+			"nous": "aurions implémenté",
+			"vous": "auriez implémenté",
+			"ils/elles": "auraient implémenté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse implémenté",
+			"tu": "eusses implémenté",
+			"il/elle": "eût implémenté",
+			"nous": "eussions implémenté",
+			"vous": "eussiez implémenté",
+			"ils/elles": "eussent implémenté"
+		}
+	},
+	"participe": {
+		"présent": { "implémentant": "" },
+		"passé composé": { "ayant": "implémenté" },
+		"passé": {
+			"masc.sg.:": "implémenté",
+			"masc.pl.:": "implémentés",
+			"fém.sg.:": "implémentée",
+			"fém.pl.:": "implémentées"
+		}
+	},
+	"imperatif": {
+		"présent": { "implémente": "", "implémentons": "", "implémentez": "" },
+		"passé": {
+			"aie": "implémenté",
+			"ayons": "implémenté",
+			"ayez": "implémenté"
+		}
+	},
+	"infinitif": {
+		"présent": { "implémenter": "" },
+		"passé": { "avoir": "implémenté" }
+	}
+}

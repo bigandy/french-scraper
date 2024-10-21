@@ -1,0 +1,141 @@
+{
+	"name": "couturer",
+	"definition": "",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se couturer/ne pas couturer/ne pas se couturer",
+	"indicatif": {
+		"présent": {
+			"je": "couture",
+			"tu": "coutures",
+			"il/elle": "couture",
+			"nous": "couturons",
+			"vous": "couturez",
+			"ils/elles": "couturent"
+		},
+		"imparfait": {
+			"je": "couturais",
+			"tu": "couturais",
+			"il/elle": "couturait",
+			"nous": "couturions",
+			"vous": "couturiez",
+			"ils/elles": "couturaient"
+		},
+		"futur": {
+			"je": "couturerai",
+			"tu": "coutureras",
+			"il/elle": "couturera",
+			"nous": "couturerons",
+			"vous": "couturerez",
+			"ils/elles": "coutureront"
+		},
+		"passé simple": {
+			"je": "couturai",
+			"tu": "couturas",
+			"il/elle": "coutura",
+			"nous": "couturâmes",
+			"vous": "couturâtes",
+			"ils/elles": "couturèrent"
+		},
+		"passé composé": {
+			"j'": "ai couturé",
+			"tu": "as couturé",
+			"il/elle": "a couturé",
+			"nous": "avons couturé",
+			"vous": "avez couturé",
+			"ils/elles": "ont couturé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais couturé",
+			"tu": "avais couturé",
+			"il/elle": "avait couturé",
+			"nous": "avions couturé",
+			"vous": "aviez couturé",
+			"ils/elles": "avaient couturé"
+		},
+		"passé antérieur": {
+			"j'": "eus couturé",
+			"tu": "eus couturé",
+			"il/elle": "eut couturé",
+			"nous": "eûmes couturé",
+			"vous": "eûtes couturé",
+			"ils/elles": "eurent couturé"
+		},
+		"futur antérieur": {
+			"j'": "aurai couturé",
+			"tu": "auras couturé",
+			"il/elle": "aura couturé",
+			"nous": "aurons couturé",
+			"vous": "aurez couturé",
+			"ils/elles": "auront couturé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous couturiez",
+			"qu'il/elle": "couture",
+			"qu'ils/elles": "couturent"
+		},
+		"imparfait": {
+			"que": "vous couturassiez",
+			"qu'il/elle": "couturât",
+			"qu'ils/elles": "couturassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse couturé",
+			"que": "vous eussiez couturé",
+			"qu'il/elle": "eût couturé",
+			"qu'ils/elles": "eussent couturé"
+		},
+		"passé": {
+			"j'": "aie couturé",
+			"que": "vous ayez couturé",
+			"qu'il/elle": "ait couturé",
+			"qu'ils/elles": "aient couturé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "couturerais",
+			"tu": "couturerais",
+			"il/elle": "couturerait",
+			"nous": "couturerions",
+			"vous": "coutureriez",
+			"ils/elles": "coutureraient"
+		},
+		"passé première forme": {
+			"j'": "aurais couturé",
+			"tu": "aurais couturé",
+			"il/elle": "aurait couturé",
+			"nous": "aurions couturé",
+			"vous": "auriez couturé",
+			"ils/elles": "auraient couturé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse couturé",
+			"tu": "eusses couturé",
+			"il/elle": "eût couturé",
+			"nous": "eussions couturé",
+			"vous": "eussiez couturé",
+			"ils/elles": "eussent couturé"
+		}
+	},
+	"participe": {
+		"présent": { "couturant": "" },
+		"passé composé": { "ayant": "couturé" },
+		"passé": {
+			"masc.sg.:": "couturé",
+			"masc.pl.:": "couturés",
+			"fém.sg.:": "couturée",
+			"fém.pl.:": "couturées"
+		}
+	},
+	"imperatif": {
+		"présent": { "couture": "", "couturons": "", "couturez": "" },
+		"passé": { "aie": "couturé", "ayons": "couturé", "ayez": "couturé" }
+	},
+	"infinitif": {
+		"présent": { "couturer": "" },
+		"passé": { "avoir": "couturé" }
+	}
+}

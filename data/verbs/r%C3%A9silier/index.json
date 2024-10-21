@@ -1,0 +1,141 @@
+{
+	"name": "résilier",
+	"definition": "terminate; cancel; withdraw from; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se résilier/ne pas résilier/ne pas se résilier",
+	"indicatif": {
+		"présent": {
+			"je": "résilie",
+			"tu": "résilies",
+			"il/elle": "résilie",
+			"nous": "résilions",
+			"vous": "résiliez",
+			"ils/elles": "résilient"
+		},
+		"imparfait": {
+			"je": "résiliais",
+			"tu": "résiliais",
+			"il/elle": "résiliait",
+			"nous": "résiliions",
+			"vous": "résiliiez",
+			"ils/elles": "résiliaient"
+		},
+		"futur": {
+			"je": "résilierai",
+			"tu": "résilieras",
+			"il/elle": "résiliera",
+			"nous": "résilierons",
+			"vous": "résilierez",
+			"ils/elles": "résilieront"
+		},
+		"passé simple": {
+			"je": "résiliai",
+			"tu": "résilias",
+			"il/elle": "résilia",
+			"nous": "résiliâmes",
+			"vous": "résiliâtes",
+			"ils/elles": "résilièrent"
+		},
+		"passé composé": {
+			"j'": "ai résilié",
+			"tu": "as résilié",
+			"il/elle": "a résilié",
+			"nous": "avons résilié",
+			"vous": "avez résilié",
+			"ils/elles": "ont résilié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais résilié",
+			"tu": "avais résilié",
+			"il/elle": "avait résilié",
+			"nous": "avions résilié",
+			"vous": "aviez résilié",
+			"ils/elles": "avaient résilié"
+		},
+		"passé antérieur": {
+			"j'": "eus résilié",
+			"tu": "eus résilié",
+			"il/elle": "eut résilié",
+			"nous": "eûmes résilié",
+			"vous": "eûtes résilié",
+			"ils/elles": "eurent résilié"
+		},
+		"futur antérieur": {
+			"j'": "aurai résilié",
+			"tu": "auras résilié",
+			"il/elle": "aura résilié",
+			"nous": "aurons résilié",
+			"vous": "aurez résilié",
+			"ils/elles": "auront résilié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous résiliiez",
+			"qu'il/elle": "résilie",
+			"qu'ils/elles": "résilient"
+		},
+		"imparfait": {
+			"que": "vous résiliassiez",
+			"qu'il/elle": "résiliât",
+			"qu'ils/elles": "résiliassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse résilié",
+			"que": "vous eussiez résilié",
+			"qu'il/elle": "eût résilié",
+			"qu'ils/elles": "eussent résilié"
+		},
+		"passé": {
+			"j'": "aie résilié",
+			"que": "vous ayez résilié",
+			"qu'il/elle": "ait résilié",
+			"qu'ils/elles": "aient résilié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "résilierais",
+			"tu": "résilierais",
+			"il/elle": "résilierait",
+			"nous": "résilierions",
+			"vous": "résilieriez",
+			"ils/elles": "résilieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais résilié",
+			"tu": "aurais résilié",
+			"il/elle": "aurait résilié",
+			"nous": "aurions résilié",
+			"vous": "auriez résilié",
+			"ils/elles": "auraient résilié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse résilié",
+			"tu": "eusses résilié",
+			"il/elle": "eût résilié",
+			"nous": "eussions résilié",
+			"vous": "eussiez résilié",
+			"ils/elles": "eussent résilié"
+		}
+	},
+	"participe": {
+		"présent": { "résiliant": "" },
+		"passé composé": { "ayant": "résilié" },
+		"passé": {
+			"masc.sg.:": "résilié",
+			"masc.pl.:": "résiliés",
+			"fém.sg.:": "résiliée",
+			"fém.pl.:": "résiliées"
+		}
+	},
+	"imperatif": {
+		"présent": { "résilie": "", "résilions": "", "résiliez": "" },
+		"passé": { "aie": "résilié", "ayons": "résilié", "ayez": "résilié" }
+	},
+	"infinitif": {
+		"présent": { "résilier": "" },
+		"passé": { "avoir": "résilié" }
+	}
+}

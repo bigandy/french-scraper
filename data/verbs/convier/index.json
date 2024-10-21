@@ -1,0 +1,138 @@
+{
+	"name": "convier",
+	"definition": "invite; urge; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se convier/ne pas convier/ne pas se convier",
+	"indicatif": {
+		"présent": {
+			"je": "convie",
+			"tu": "convies",
+			"il/elle": "convie",
+			"nous": "convions",
+			"vous": "conviez",
+			"ils/elles": "convient"
+		},
+		"imparfait": {
+			"je": "conviais",
+			"tu": "conviais",
+			"il/elle": "conviait",
+			"nous": "conviions",
+			"vous": "conviiez",
+			"ils/elles": "conviaient"
+		},
+		"futur": {
+			"je": "convierai",
+			"tu": "convieras",
+			"il/elle": "conviera",
+			"nous": "convierons",
+			"vous": "convierez",
+			"ils/elles": "convieront"
+		},
+		"passé simple": {
+			"je": "conviai",
+			"tu": "convias",
+			"il/elle": "convia",
+			"nous": "conviâmes",
+			"vous": "conviâtes",
+			"ils/elles": "convièrent"
+		},
+		"passé composé": {
+			"j'": "ai convié",
+			"tu": "as convié",
+			"il/elle": "a convié",
+			"nous": "avons convié",
+			"vous": "avez convié",
+			"ils/elles": "ont convié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais convié",
+			"tu": "avais convié",
+			"il/elle": "avait convié",
+			"nous": "avions convié",
+			"vous": "aviez convié",
+			"ils/elles": "avaient convié"
+		},
+		"passé antérieur": {
+			"j'": "eus convié",
+			"tu": "eus convié",
+			"il/elle": "eut convié",
+			"nous": "eûmes convié",
+			"vous": "eûtes convié",
+			"ils/elles": "eurent convié"
+		},
+		"futur antérieur": {
+			"j'": "aurai convié",
+			"tu": "auras convié",
+			"il/elle": "aura convié",
+			"nous": "aurons convié",
+			"vous": "aurez convié",
+			"ils/elles": "auront convié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous conviiez",
+			"qu'il/elle": "convie",
+			"qu'ils/elles": "convient"
+		},
+		"imparfait": {
+			"que": "vous conviassiez",
+			"qu'il/elle": "conviât",
+			"qu'ils/elles": "conviassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse convié",
+			"que": "vous eussiez convié",
+			"qu'il/elle": "eût convié",
+			"qu'ils/elles": "eussent convié"
+		},
+		"passé": {
+			"j'": "aie convié",
+			"que": "vous ayez convié",
+			"qu'il/elle": "ait convié",
+			"qu'ils/elles": "aient convié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "convierais",
+			"tu": "convierais",
+			"il/elle": "convierait",
+			"nous": "convierions",
+			"vous": "convieriez",
+			"ils/elles": "convieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais convié",
+			"tu": "aurais convié",
+			"il/elle": "aurait convié",
+			"nous": "aurions convié",
+			"vous": "auriez convié",
+			"ils/elles": "auraient convié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse convié",
+			"tu": "eusses convié",
+			"il/elle": "eût convié",
+			"nous": "eussions convié",
+			"vous": "eussiez convié",
+			"ils/elles": "eussent convié"
+		}
+	},
+	"participe": {
+		"présent": { "conviant": "" },
+		"passé composé": { "ayant": "convié" },
+		"passé": {
+			"masc.sg.:": "convié",
+			"masc.pl.:": "conviés",
+			"fém.sg.:": "conviée",
+			"fém.pl.:": "conviées"
+		}
+	},
+	"imperatif": {
+		"présent": { "convie": "", "convions": "", "conviez": "" },
+		"passé": { "aie": "convié", "ayons": "convié", "ayez": "convié" }
+	},
+	"infinitif": { "présent": { "convier": "" }, "passé": { "avoir": "convié" } }
+}

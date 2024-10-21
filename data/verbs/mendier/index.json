@@ -1,0 +1,138 @@
+{
+	"name": "mendier",
+	"definition": "beg; panhandle; beg for alms; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se mendier/ne pas mendier/ne pas se mendier",
+	"indicatif": {
+		"présent": {
+			"je": "mendie",
+			"tu": "mendies",
+			"il/elle": "mendie",
+			"nous": "mendions",
+			"vous": "mendiez",
+			"ils/elles": "mendient"
+		},
+		"imparfait": {
+			"je": "mendiais",
+			"tu": "mendiais",
+			"il/elle": "mendiait",
+			"nous": "mendiions",
+			"vous": "mendiiez",
+			"ils/elles": "mendiaient"
+		},
+		"futur": {
+			"je": "mendierai",
+			"tu": "mendieras",
+			"il/elle": "mendiera",
+			"nous": "mendierons",
+			"vous": "mendierez",
+			"ils/elles": "mendieront"
+		},
+		"passé simple": {
+			"je": "mendiai",
+			"tu": "mendias",
+			"il/elle": "mendia",
+			"nous": "mendiâmes",
+			"vous": "mendiâtes",
+			"ils/elles": "mendièrent"
+		},
+		"passé composé": {
+			"j'": "ai mendié",
+			"tu": "as mendié",
+			"il/elle": "a mendié",
+			"nous": "avons mendié",
+			"vous": "avez mendié",
+			"ils/elles": "ont mendié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais mendié",
+			"tu": "avais mendié",
+			"il/elle": "avait mendié",
+			"nous": "avions mendié",
+			"vous": "aviez mendié",
+			"ils/elles": "avaient mendié"
+		},
+		"passé antérieur": {
+			"j'": "eus mendié",
+			"tu": "eus mendié",
+			"il/elle": "eut mendié",
+			"nous": "eûmes mendié",
+			"vous": "eûtes mendié",
+			"ils/elles": "eurent mendié"
+		},
+		"futur antérieur": {
+			"j'": "aurai mendié",
+			"tu": "auras mendié",
+			"il/elle": "aura mendié",
+			"nous": "aurons mendié",
+			"vous": "aurez mendié",
+			"ils/elles": "auront mendié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous mendiiez",
+			"qu'il/elle": "mendie",
+			"qu'ils/elles": "mendient"
+		},
+		"imparfait": {
+			"que": "vous mendiassiez",
+			"qu'il/elle": "mendiât",
+			"qu'ils/elles": "mendiassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse mendié",
+			"que": "vous eussiez mendié",
+			"qu'il/elle": "eût mendié",
+			"qu'ils/elles": "eussent mendié"
+		},
+		"passé": {
+			"j'": "aie mendié",
+			"que": "vous ayez mendié",
+			"qu'il/elle": "ait mendié",
+			"qu'ils/elles": "aient mendié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "mendierais",
+			"tu": "mendierais",
+			"il/elle": "mendierait",
+			"nous": "mendierions",
+			"vous": "mendieriez",
+			"ils/elles": "mendieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais mendié",
+			"tu": "aurais mendié",
+			"il/elle": "aurait mendié",
+			"nous": "aurions mendié",
+			"vous": "auriez mendié",
+			"ils/elles": "auraient mendié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse mendié",
+			"tu": "eusses mendié",
+			"il/elle": "eût mendié",
+			"nous": "eussions mendié",
+			"vous": "eussiez mendié",
+			"ils/elles": "eussent mendié"
+		}
+	},
+	"participe": {
+		"présent": { "mendiant": "" },
+		"passé composé": { "ayant": "mendié" },
+		"passé": {
+			"masc.sg.:": "mendié",
+			"masc.pl.:": "mendiés",
+			"fém.sg.:": "mendiée",
+			"fém.pl.:": "mendiées"
+		}
+	},
+	"imperatif": {
+		"présent": { "mendie": "", "mendions": "", "mendiez": "" },
+		"passé": { "aie": "mendié", "ayons": "mendié", "ayez": "mendié" }
+	},
+	"infinitif": { "présent": { "mendier": "" }, "passé": { "avoir": "mendié" } }
+}

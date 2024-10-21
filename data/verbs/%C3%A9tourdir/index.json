@@ -1,0 +1,143 @@
+{
+	"name": "étourdir",
+	"definition": "stun; daze; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "s'étourdir/ne pas étourdir/ne pas s'étourdir",
+	"indicatif": {
+		"présent": {
+			"j'": "étourdis",
+			"tu": "étourdis",
+			"il/elle": "étourdit",
+			"nous": "étourdissons",
+			"vous": "étourdissez",
+			"ils/elles": "étourdissent"
+		},
+		"imparfait": {
+			"j'": "étourdissais",
+			"tu": "étourdissais",
+			"il/elle": "étourdissait",
+			"nous": "étourdissions",
+			"vous": "étourdissiez",
+			"ils/elles": "étourdissaient"
+		},
+		"futur": {
+			"j'": "étourdirai",
+			"tu": "étourdiras",
+			"il/elle": "étourdira",
+			"nous": "étourdirons",
+			"vous": "étourdirez",
+			"ils/elles": "étourdiront"
+		},
+		"passé simple": {
+			"j'": "étourdis",
+			"tu": "étourdis",
+			"il/elle": "étourdit",
+			"nous": "étourdîmes",
+			"vous": "étourdîtes",
+			"ils/elles": "étourdirent"
+		},
+		"passé composé": {
+			"j'": "ai étourdi",
+			"tu": "as étourdi",
+			"il/elle": "a étourdi",
+			"nous": "avons étourdi",
+			"vous": "avez étourdi",
+			"ils/elles": "ont étourdi"
+		},
+		"plus-que-parfait": {
+			"j'": "avais étourdi",
+			"tu": "avais étourdi",
+			"il/elle": "avait étourdi",
+			"nous": "avions étourdi",
+			"vous": "aviez étourdi",
+			"ils/elles": "avaient étourdi"
+		},
+		"passé antérieur": {
+			"j'": "eus étourdi",
+			"tu": "eus étourdi",
+			"il/elle": "eut étourdi",
+			"nous": "eûmes étourdi",
+			"vous": "eûtes étourdi",
+			"ils/elles": "eurent étourdi"
+		},
+		"futur antérieur": {
+			"j'": "aurai étourdi",
+			"tu": "auras étourdi",
+			"il/elle": "aura étourdi",
+			"nous": "aurons étourdi",
+			"vous": "aurez étourdi",
+			"ils/elles": "auront étourdi"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "étourdisse",
+			"que": "vous étourdissiez",
+			"qu'il/elle": "étourdisse",
+			"qu'ils/elles": "étourdissent"
+		},
+		"imparfait": {
+			"j'": "étourdisse",
+			"que": "vous étourdissiez",
+			"qu'il/elle": "étourdît",
+			"qu'ils/elles": "étourdissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse étourdi",
+			"que": "vous eussiez étourdi",
+			"qu'il/elle": "eût étourdi",
+			"qu'ils/elles": "eussent étourdi"
+		},
+		"passé": {
+			"j'": "aie étourdi",
+			"que": "vous ayez étourdi",
+			"qu'il/elle": "ait étourdi",
+			"qu'ils/elles": "aient étourdi"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "étourdirais",
+			"tu": "étourdirais",
+			"il/elle": "étourdirait",
+			"nous": "étourdirions",
+			"vous": "étourdiriez",
+			"ils/elles": "étourdiraient"
+		},
+		"passé première forme": {
+			"j'": "aurais étourdi",
+			"tu": "aurais étourdi",
+			"il/elle": "aurait étourdi",
+			"nous": "aurions étourdi",
+			"vous": "auriez étourdi",
+			"ils/elles": "auraient étourdi"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse étourdi",
+			"tu": "eusses étourdi",
+			"il/elle": "eût étourdi",
+			"nous": "eussions étourdi",
+			"vous": "eussiez étourdi",
+			"ils/elles": "eussent étourdi"
+		}
+	},
+	"participe": {
+		"présent": { "étourdissant": "" },
+		"passé composé": { "ayant": "étourdi" },
+		"passé": {
+			"masc.sg.:": "étourdi",
+			"masc.pl.:": "étourdis",
+			"fém.sg.:": "étourdie",
+			"fém.pl.:": "étourdies"
+		}
+	},
+	"imperatif": {
+		"présent": { "étourdis": "", "étourdissons": "", "étourdissez": "" },
+		"passé": { "aie": "étourdi", "ayons": "étourdi", "ayez": "étourdi" }
+	},
+	"infinitif": {
+		"présent": { "étourdir": "" },
+		"passé": { "avoir": "étourdi" }
+	}
+}

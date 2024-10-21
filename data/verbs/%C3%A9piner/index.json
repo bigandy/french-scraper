@@ -1,0 +1,140 @@
+{
+	"name": "épiner",
+	"definition": "",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'épiner/ne pas épiner/ne pas s'épiner",
+	"indicatif": {
+		"présent": {
+			"j'": "épine",
+			"tu": "épines",
+			"il/elle": "épine",
+			"nous": "épinons",
+			"vous": "épinez",
+			"ils/elles": "épinent"
+		},
+		"imparfait": {
+			"j'": "épinais",
+			"tu": "épinais",
+			"il/elle": "épinait",
+			"nous": "épinions",
+			"vous": "épiniez",
+			"ils/elles": "épinaient"
+		},
+		"futur": {
+			"j'": "épinerai",
+			"tu": "épineras",
+			"il/elle": "épinera",
+			"nous": "épinerons",
+			"vous": "épinerez",
+			"ils/elles": "épineront"
+		},
+		"passé simple": {
+			"j'": "épinai",
+			"tu": "épinas",
+			"il/elle": "épina",
+			"nous": "épinâmes",
+			"vous": "épinâtes",
+			"ils/elles": "épinèrent"
+		},
+		"passé composé": {
+			"j'": "ai épiné",
+			"tu": "as épiné",
+			"il/elle": "a épiné",
+			"nous": "avons épiné",
+			"vous": "avez épiné",
+			"ils/elles": "ont épiné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais épiné",
+			"tu": "avais épiné",
+			"il/elle": "avait épiné",
+			"nous": "avions épiné",
+			"vous": "aviez épiné",
+			"ils/elles": "avaient épiné"
+		},
+		"passé antérieur": {
+			"j'": "eus épiné",
+			"tu": "eus épiné",
+			"il/elle": "eut épiné",
+			"nous": "eûmes épiné",
+			"vous": "eûtes épiné",
+			"ils/elles": "eurent épiné"
+		},
+		"futur antérieur": {
+			"j'": "aurai épiné",
+			"tu": "auras épiné",
+			"il/elle": "aura épiné",
+			"nous": "aurons épiné",
+			"vous": "aurez épiné",
+			"ils/elles": "auront épiné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "épine",
+			"que": "vous épiniez",
+			"qu'il/elle": "épine",
+			"qu'ils/elles": "épinent"
+		},
+		"imparfait": {
+			"j'": "épinasse",
+			"que": "vous épinassiez",
+			"qu'il/elle": "épinât",
+			"qu'ils/elles": "épinassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse épiné",
+			"que": "vous eussiez épiné",
+			"qu'il/elle": "eût épiné",
+			"qu'ils/elles": "eussent épiné"
+		},
+		"passé": {
+			"j'": "aie épiné",
+			"que": "vous ayez épiné",
+			"qu'il/elle": "ait épiné",
+			"qu'ils/elles": "aient épiné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "épinerais",
+			"tu": "épinerais",
+			"il/elle": "épinerait",
+			"nous": "épinerions",
+			"vous": "épineriez",
+			"ils/elles": "épineraient"
+		},
+		"passé première forme": {
+			"j'": "aurais épiné",
+			"tu": "aurais épiné",
+			"il/elle": "aurait épiné",
+			"nous": "aurions épiné",
+			"vous": "auriez épiné",
+			"ils/elles": "auraient épiné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse épiné",
+			"tu": "eusses épiné",
+			"il/elle": "eût épiné",
+			"nous": "eussions épiné",
+			"vous": "eussiez épiné",
+			"ils/elles": "eussent épiné"
+		}
+	},
+	"participe": {
+		"présent": { "épinant": "" },
+		"passé composé": { "ayant": "épiné" },
+		"passé": {
+			"masc.sg.:": "épiné",
+			"masc.pl.:": "épinés",
+			"fém.sg.:": "épinée",
+			"fém.pl.:": "épinées"
+		}
+	},
+	"imperatif": {
+		"présent": { "épine": "", "épinons": "", "épinez": "" },
+		"passé": { "aie": "épiné", "ayons": "épiné", "ayez": "épiné" }
+	},
+	"infinitif": { "présent": { "épiner": "" }, "passé": { "avoir": "épiné" } }
+}

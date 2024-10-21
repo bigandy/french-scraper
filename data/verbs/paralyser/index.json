@@ -1,0 +1,141 @@
+{
+	"name": "paralyser",
+	"definition": "paralyze; paralyse; cripple; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se paralyser/ne pas paralyser/ne pas se paralyser",
+	"indicatif": {
+		"présent": {
+			"je": "paralyse",
+			"tu": "paralyses",
+			"il/elle": "paralyse",
+			"nous": "paralysons",
+			"vous": "paralysez",
+			"ils/elles": "paralysent"
+		},
+		"imparfait": {
+			"je": "paralysais",
+			"tu": "paralysais",
+			"il/elle": "paralysait",
+			"nous": "paralysions",
+			"vous": "paralysiez",
+			"ils/elles": "paralysaient"
+		},
+		"futur": {
+			"je": "paralyserai",
+			"tu": "paralyseras",
+			"il/elle": "paralysera",
+			"nous": "paralyserons",
+			"vous": "paralyserez",
+			"ils/elles": "paralyseront"
+		},
+		"passé simple": {
+			"je": "paralysai",
+			"tu": "paralysas",
+			"il/elle": "paralysa",
+			"nous": "paralysâmes",
+			"vous": "paralysâtes",
+			"ils/elles": "paralysèrent"
+		},
+		"passé composé": {
+			"j'": "ai paralysé",
+			"tu": "as paralysé",
+			"il/elle": "a paralysé",
+			"nous": "avons paralysé",
+			"vous": "avez paralysé",
+			"ils/elles": "ont paralysé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais paralysé",
+			"tu": "avais paralysé",
+			"il/elle": "avait paralysé",
+			"nous": "avions paralysé",
+			"vous": "aviez paralysé",
+			"ils/elles": "avaient paralysé"
+		},
+		"passé antérieur": {
+			"j'": "eus paralysé",
+			"tu": "eus paralysé",
+			"il/elle": "eut paralysé",
+			"nous": "eûmes paralysé",
+			"vous": "eûtes paralysé",
+			"ils/elles": "eurent paralysé"
+		},
+		"futur antérieur": {
+			"j'": "aurai paralysé",
+			"tu": "auras paralysé",
+			"il/elle": "aura paralysé",
+			"nous": "aurons paralysé",
+			"vous": "aurez paralysé",
+			"ils/elles": "auront paralysé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous paralysiez",
+			"qu'il/elle": "paralyse",
+			"qu'ils/elles": "paralysent"
+		},
+		"imparfait": {
+			"que": "vous paralysassiez",
+			"qu'il/elle": "paralysât",
+			"qu'ils/elles": "paralysassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse paralysé",
+			"que": "vous eussiez paralysé",
+			"qu'il/elle": "eût paralysé",
+			"qu'ils/elles": "eussent paralysé"
+		},
+		"passé": {
+			"j'": "aie paralysé",
+			"que": "vous ayez paralysé",
+			"qu'il/elle": "ait paralysé",
+			"qu'ils/elles": "aient paralysé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "paralyserais",
+			"tu": "paralyserais",
+			"il/elle": "paralyserait",
+			"nous": "paralyserions",
+			"vous": "paralyseriez",
+			"ils/elles": "paralyseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais paralysé",
+			"tu": "aurais paralysé",
+			"il/elle": "aurait paralysé",
+			"nous": "aurions paralysé",
+			"vous": "auriez paralysé",
+			"ils/elles": "auraient paralysé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse paralysé",
+			"tu": "eusses paralysé",
+			"il/elle": "eût paralysé",
+			"nous": "eussions paralysé",
+			"vous": "eussiez paralysé",
+			"ils/elles": "eussent paralysé"
+		}
+	},
+	"participe": {
+		"présent": { "paralysant": "" },
+		"passé composé": { "ayant": "paralysé" },
+		"passé": {
+			"masc.sg.:": "paralysé",
+			"masc.pl.:": "paralysés",
+			"fém.sg.:": "paralysée",
+			"fém.pl.:": "paralysées"
+		}
+	},
+	"imperatif": {
+		"présent": { "paralyse": "", "paralysons": "", "paralysez": "" },
+		"passé": { "aie": "paralysé", "ayons": "paralysé", "ayez": "paralysé" }
+	},
+	"infinitif": {
+		"présent": { "paralyser": "" },
+		"passé": { "avoir": "paralysé" }
+	}
+}

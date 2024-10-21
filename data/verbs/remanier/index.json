@@ -1,0 +1,141 @@
+{
+	"name": "remanier",
+	"definition": "redraft; redesign; revise; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se remanier/ne pas remanier/ne pas se remanier",
+	"indicatif": {
+		"présent": {
+			"je": "remanie",
+			"tu": "remanies",
+			"il/elle": "remanie",
+			"nous": "remanions",
+			"vous": "remaniez",
+			"ils/elles": "remanient"
+		},
+		"imparfait": {
+			"je": "remaniais",
+			"tu": "remaniais",
+			"il/elle": "remaniait",
+			"nous": "remaniions",
+			"vous": "remaniiez",
+			"ils/elles": "remaniaient"
+		},
+		"futur": {
+			"je": "remanierai",
+			"tu": "remanieras",
+			"il/elle": "remaniera",
+			"nous": "remanierons",
+			"vous": "remanierez",
+			"ils/elles": "remanieront"
+		},
+		"passé simple": {
+			"je": "remaniai",
+			"tu": "remanias",
+			"il/elle": "remania",
+			"nous": "remaniâmes",
+			"vous": "remaniâtes",
+			"ils/elles": "remanièrent"
+		},
+		"passé composé": {
+			"j'": "ai remanié",
+			"tu": "as remanié",
+			"il/elle": "a remanié",
+			"nous": "avons remanié",
+			"vous": "avez remanié",
+			"ils/elles": "ont remanié"
+		},
+		"plus-que-parfait": {
+			"j'": "avais remanié",
+			"tu": "avais remanié",
+			"il/elle": "avait remanié",
+			"nous": "avions remanié",
+			"vous": "aviez remanié",
+			"ils/elles": "avaient remanié"
+		},
+		"passé antérieur": {
+			"j'": "eus remanié",
+			"tu": "eus remanié",
+			"il/elle": "eut remanié",
+			"nous": "eûmes remanié",
+			"vous": "eûtes remanié",
+			"ils/elles": "eurent remanié"
+		},
+		"futur antérieur": {
+			"j'": "aurai remanié",
+			"tu": "auras remanié",
+			"il/elle": "aura remanié",
+			"nous": "aurons remanié",
+			"vous": "aurez remanié",
+			"ils/elles": "auront remanié"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous remaniiez",
+			"qu'il/elle": "remanie",
+			"qu'ils/elles": "remanient"
+		},
+		"imparfait": {
+			"que": "vous remaniassiez",
+			"qu'il/elle": "remaniât",
+			"qu'ils/elles": "remaniassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse remanié",
+			"que": "vous eussiez remanié",
+			"qu'il/elle": "eût remanié",
+			"qu'ils/elles": "eussent remanié"
+		},
+		"passé": {
+			"j'": "aie remanié",
+			"que": "vous ayez remanié",
+			"qu'il/elle": "ait remanié",
+			"qu'ils/elles": "aient remanié"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "remanierais",
+			"tu": "remanierais",
+			"il/elle": "remanierait",
+			"nous": "remanierions",
+			"vous": "remanieriez",
+			"ils/elles": "remanieraient"
+		},
+		"passé première forme": {
+			"j'": "aurais remanié",
+			"tu": "aurais remanié",
+			"il/elle": "aurait remanié",
+			"nous": "aurions remanié",
+			"vous": "auriez remanié",
+			"ils/elles": "auraient remanié"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse remanié",
+			"tu": "eusses remanié",
+			"il/elle": "eût remanié",
+			"nous": "eussions remanié",
+			"vous": "eussiez remanié",
+			"ils/elles": "eussent remanié"
+		}
+	},
+	"participe": {
+		"présent": { "remaniant": "" },
+		"passé composé": { "ayant": "remanié" },
+		"passé": {
+			"masc.sg.:": "remanié",
+			"masc.pl.:": "remaniés",
+			"fém.sg.:": "remaniée",
+			"fém.pl.:": "remaniées"
+		}
+	},
+	"imperatif": {
+		"présent": { "remanie": "", "remanions": "", "remaniez": "" },
+		"passé": { "aie": "remanié", "ayons": "remanié", "ayez": "remanié" }
+	},
+	"infinitif": {
+		"présent": { "remanier": "" },
+		"passé": { "avoir": "remanié" }
+	}
+}

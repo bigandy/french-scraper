@@ -1,0 +1,143 @@
+{
+	"name": "insuffler",
+	"definition": "breathe; inject; infuse; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'insuffler/ne pas insuffler/ne pas s'insuffler",
+	"indicatif": {
+		"présent": {
+			"j'": "insuffle",
+			"tu": "insuffles",
+			"il/elle": "insuffle",
+			"nous": "insufflons",
+			"vous": "insufflez",
+			"ils/elles": "insufflent"
+		},
+		"imparfait": {
+			"j'": "insufflais",
+			"tu": "insufflais",
+			"il/elle": "insufflait",
+			"nous": "insufflions",
+			"vous": "insuffliez",
+			"ils/elles": "insufflaient"
+		},
+		"futur": {
+			"j'": "insufflerai",
+			"tu": "insuffleras",
+			"il/elle": "insufflera",
+			"nous": "insufflerons",
+			"vous": "insufflerez",
+			"ils/elles": "insuffleront"
+		},
+		"passé simple": {
+			"j'": "insufflai",
+			"tu": "insufflas",
+			"il/elle": "insuffla",
+			"nous": "insufflâmes",
+			"vous": "insufflâtes",
+			"ils/elles": "insufflèrent"
+		},
+		"passé composé": {
+			"j'": "ai insufflé",
+			"tu": "as insufflé",
+			"il/elle": "a insufflé",
+			"nous": "avons insufflé",
+			"vous": "avez insufflé",
+			"ils/elles": "ont insufflé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais insufflé",
+			"tu": "avais insufflé",
+			"il/elle": "avait insufflé",
+			"nous": "avions insufflé",
+			"vous": "aviez insufflé",
+			"ils/elles": "avaient insufflé"
+		},
+		"passé antérieur": {
+			"j'": "eus insufflé",
+			"tu": "eus insufflé",
+			"il/elle": "eut insufflé",
+			"nous": "eûmes insufflé",
+			"vous": "eûtes insufflé",
+			"ils/elles": "eurent insufflé"
+		},
+		"futur antérieur": {
+			"j'": "aurai insufflé",
+			"tu": "auras insufflé",
+			"il/elle": "aura insufflé",
+			"nous": "aurons insufflé",
+			"vous": "aurez insufflé",
+			"ils/elles": "auront insufflé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "insuffle",
+			"que": "vous insuffliez",
+			"qu'il/elle": "insuffle",
+			"qu'ils/elles": "insufflent"
+		},
+		"imparfait": {
+			"j'": "insufflasse",
+			"que": "vous insufflassiez",
+			"qu'il/elle": "insufflât",
+			"qu'ils/elles": "insufflassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse insufflé",
+			"que": "vous eussiez insufflé",
+			"qu'il/elle": "eût insufflé",
+			"qu'ils/elles": "eussent insufflé"
+		},
+		"passé": {
+			"j'": "aie insufflé",
+			"que": "vous ayez insufflé",
+			"qu'il/elle": "ait insufflé",
+			"qu'ils/elles": "aient insufflé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "insufflerais",
+			"tu": "insufflerais",
+			"il/elle": "insufflerait",
+			"nous": "insufflerions",
+			"vous": "insuffleriez",
+			"ils/elles": "insuffleraient"
+		},
+		"passé première forme": {
+			"j'": "aurais insufflé",
+			"tu": "aurais insufflé",
+			"il/elle": "aurait insufflé",
+			"nous": "aurions insufflé",
+			"vous": "auriez insufflé",
+			"ils/elles": "auraient insufflé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse insufflé",
+			"tu": "eusses insufflé",
+			"il/elle": "eût insufflé",
+			"nous": "eussions insufflé",
+			"vous": "eussiez insufflé",
+			"ils/elles": "eussent insufflé"
+		}
+	},
+	"participe": {
+		"présent": { "insufflant": "" },
+		"passé composé": { "ayant": "insufflé" },
+		"passé": {
+			"masc.sg.:": "insufflé",
+			"masc.pl.:": "insufflés",
+			"fém.sg.:": "insufflée",
+			"fém.pl.:": "insufflées"
+		}
+	},
+	"imperatif": {
+		"présent": { "insuffle": "", "insufflons": "", "insufflez": "" },
+		"passé": { "aie": "insufflé", "ayons": "insufflé", "ayez": "insufflé" }
+	},
+	"infinitif": {
+		"présent": { "insuffler": "" },
+		"passé": { "avoir": "insufflé" }
+	}
+}

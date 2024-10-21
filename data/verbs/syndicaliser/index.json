@@ -1,0 +1,145 @@
+{
+	"name": "syndicaliser",
+	"definition": "unionize; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se syndicaliser/ne pas syndicaliser/ne pas se syndicaliser",
+	"indicatif": {
+		"présent": {
+			"je": "syndicalise",
+			"tu": "syndicalises",
+			"il/elle": "syndicalise",
+			"nous": "syndicalisons",
+			"vous": "syndicalisez",
+			"ils/elles": "syndicalisent"
+		},
+		"imparfait": {
+			"je": "syndicalisais",
+			"tu": "syndicalisais",
+			"il/elle": "syndicalisait",
+			"nous": "syndicalisions",
+			"vous": "syndicalisiez",
+			"ils/elles": "syndicalisaient"
+		},
+		"futur": {
+			"je": "syndicaliserai",
+			"tu": "syndicaliseras",
+			"il/elle": "syndicalisera",
+			"nous": "syndicaliserons",
+			"vous": "syndicaliserez",
+			"ils/elles": "syndicaliseront"
+		},
+		"passé simple": {
+			"je": "syndicalisai",
+			"tu": "syndicalisas",
+			"il/elle": "syndicalisa",
+			"nous": "syndicalisâmes",
+			"vous": "syndicalisâtes",
+			"ils/elles": "syndicalisèrent"
+		},
+		"passé composé": {
+			"j'": "ai syndicalisé",
+			"tu": "as syndicalisé",
+			"il/elle": "a syndicalisé",
+			"nous": "avons syndicalisé",
+			"vous": "avez syndicalisé",
+			"ils/elles": "ont syndicalisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais syndicalisé",
+			"tu": "avais syndicalisé",
+			"il/elle": "avait syndicalisé",
+			"nous": "avions syndicalisé",
+			"vous": "aviez syndicalisé",
+			"ils/elles": "avaient syndicalisé"
+		},
+		"passé antérieur": {
+			"j'": "eus syndicalisé",
+			"tu": "eus syndicalisé",
+			"il/elle": "eut syndicalisé",
+			"nous": "eûmes syndicalisé",
+			"vous": "eûtes syndicalisé",
+			"ils/elles": "eurent syndicalisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai syndicalisé",
+			"tu": "auras syndicalisé",
+			"il/elle": "aura syndicalisé",
+			"nous": "aurons syndicalisé",
+			"vous": "aurez syndicalisé",
+			"ils/elles": "auront syndicalisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous syndicalisiez",
+			"qu'il/elle": "syndicalise",
+			"qu'ils/elles": "syndicalisent"
+		},
+		"imparfait": {
+			"que": "vous syndicalisassiez",
+			"qu'il/elle": "syndicalisât",
+			"qu'ils/elles": "syndicalisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse syndicalisé",
+			"que": "vous eussiez syndicalisé",
+			"qu'il/elle": "eût syndicalisé",
+			"qu'ils/elles": "eussent syndicalisé"
+		},
+		"passé": {
+			"j'": "aie syndicalisé",
+			"que": "vous ayez syndicalisé",
+			"qu'il/elle": "ait syndicalisé",
+			"qu'ils/elles": "aient syndicalisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "syndicaliserais",
+			"tu": "syndicaliserais",
+			"il/elle": "syndicaliserait",
+			"nous": "syndicaliserions",
+			"vous": "syndicaliseriez",
+			"ils/elles": "syndicaliseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais syndicalisé",
+			"tu": "aurais syndicalisé",
+			"il/elle": "aurait syndicalisé",
+			"nous": "aurions syndicalisé",
+			"vous": "auriez syndicalisé",
+			"ils/elles": "auraient syndicalisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse syndicalisé",
+			"tu": "eusses syndicalisé",
+			"il/elle": "eût syndicalisé",
+			"nous": "eussions syndicalisé",
+			"vous": "eussiez syndicalisé",
+			"ils/elles": "eussent syndicalisé"
+		}
+	},
+	"participe": {
+		"présent": { "syndicalisant": "" },
+		"passé composé": { "ayant": "syndicalisé" },
+		"passé": {
+			"masc.sg.:": "syndicalisé",
+			"masc.pl.:": "syndicalisés",
+			"fém.sg.:": "syndicalisée",
+			"fém.pl.:": "syndicalisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "syndicalise": "", "syndicalisons": "", "syndicalisez": "" },
+		"passé": {
+			"aie": "syndicalisé",
+			"ayons": "syndicalisé",
+			"ayez": "syndicalisé"
+		}
+	},
+	"infinitif": {
+		"présent": { "syndicaliser": "" },
+		"passé": { "avoir": "syndicalisé" }
+	}
+}

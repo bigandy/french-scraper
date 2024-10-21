@@ -1,0 +1,141 @@
+{
+	"name": "condenser",
+	"definition": "condense; compress; pack; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se condenser/ne pas condenser/ne pas se condenser",
+	"indicatif": {
+		"présent": {
+			"je": "condense",
+			"tu": "condenses",
+			"il/elle": "condense",
+			"nous": "condensons",
+			"vous": "condensez",
+			"ils/elles": "condensent"
+		},
+		"imparfait": {
+			"je": "condensais",
+			"tu": "condensais",
+			"il/elle": "condensait",
+			"nous": "condensions",
+			"vous": "condensiez",
+			"ils/elles": "condensaient"
+		},
+		"futur": {
+			"je": "condenserai",
+			"tu": "condenseras",
+			"il/elle": "condensera",
+			"nous": "condenserons",
+			"vous": "condenserez",
+			"ils/elles": "condenseront"
+		},
+		"passé simple": {
+			"je": "condensai",
+			"tu": "condensas",
+			"il/elle": "condensa",
+			"nous": "condensâmes",
+			"vous": "condensâtes",
+			"ils/elles": "condensèrent"
+		},
+		"passé composé": {
+			"j'": "ai condensé",
+			"tu": "as condensé",
+			"il/elle": "a condensé",
+			"nous": "avons condensé",
+			"vous": "avez condensé",
+			"ils/elles": "ont condensé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais condensé",
+			"tu": "avais condensé",
+			"il/elle": "avait condensé",
+			"nous": "avions condensé",
+			"vous": "aviez condensé",
+			"ils/elles": "avaient condensé"
+		},
+		"passé antérieur": {
+			"j'": "eus condensé",
+			"tu": "eus condensé",
+			"il/elle": "eut condensé",
+			"nous": "eûmes condensé",
+			"vous": "eûtes condensé",
+			"ils/elles": "eurent condensé"
+		},
+		"futur antérieur": {
+			"j'": "aurai condensé",
+			"tu": "auras condensé",
+			"il/elle": "aura condensé",
+			"nous": "aurons condensé",
+			"vous": "aurez condensé",
+			"ils/elles": "auront condensé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous condensiez",
+			"qu'il/elle": "condense",
+			"qu'ils/elles": "condensent"
+		},
+		"imparfait": {
+			"que": "vous condensassiez",
+			"qu'il/elle": "condensât",
+			"qu'ils/elles": "condensassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse condensé",
+			"que": "vous eussiez condensé",
+			"qu'il/elle": "eût condensé",
+			"qu'ils/elles": "eussent condensé"
+		},
+		"passé": {
+			"j'": "aie condensé",
+			"que": "vous ayez condensé",
+			"qu'il/elle": "ait condensé",
+			"qu'ils/elles": "aient condensé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "condenserais",
+			"tu": "condenserais",
+			"il/elle": "condenserait",
+			"nous": "condenserions",
+			"vous": "condenseriez",
+			"ils/elles": "condenseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais condensé",
+			"tu": "aurais condensé",
+			"il/elle": "aurait condensé",
+			"nous": "aurions condensé",
+			"vous": "auriez condensé",
+			"ils/elles": "auraient condensé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse condensé",
+			"tu": "eusses condensé",
+			"il/elle": "eût condensé",
+			"nous": "eussions condensé",
+			"vous": "eussiez condensé",
+			"ils/elles": "eussent condensé"
+		}
+	},
+	"participe": {
+		"présent": { "condensant": "" },
+		"passé composé": { "ayant": "condensé" },
+		"passé": {
+			"masc.sg.:": "condensé",
+			"masc.pl.:": "condensés",
+			"fém.sg.:": "condensée",
+			"fém.pl.:": "condensées"
+		}
+	},
+	"imperatif": {
+		"présent": { "condense": "", "condensons": "", "condensez": "" },
+		"passé": { "aie": "condensé", "ayons": "condensé", "ayez": "condensé" }
+	},
+	"infinitif": {
+		"présent": { "condenser": "" },
+		"passé": { "avoir": "condensé" }
+	}
+}

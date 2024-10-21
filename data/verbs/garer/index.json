@@ -1,0 +1,138 @@
+{
+	"name": "garer",
+	"definition": "park; pull over; pull up; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se garer/ne pas garer/ne pas se garer",
+	"indicatif": {
+		"présent": {
+			"je": "gare",
+			"tu": "gares",
+			"il/elle": "gare",
+			"nous": "garons",
+			"vous": "garez",
+			"ils/elles": "garent"
+		},
+		"imparfait": {
+			"je": "garais",
+			"tu": "garais",
+			"il/elle": "garait",
+			"nous": "garions",
+			"vous": "gariez",
+			"ils/elles": "garaient"
+		},
+		"futur": {
+			"je": "garerai",
+			"tu": "gareras",
+			"il/elle": "garera",
+			"nous": "garerons",
+			"vous": "garerez",
+			"ils/elles": "gareront"
+		},
+		"passé simple": {
+			"je": "garai",
+			"tu": "garas",
+			"il/elle": "gara",
+			"nous": "garâmes",
+			"vous": "garâtes",
+			"ils/elles": "garèrent"
+		},
+		"passé composé": {
+			"j'": "ai garé",
+			"tu": "as garé",
+			"il/elle": "a garé",
+			"nous": "avons garé",
+			"vous": "avez garé",
+			"ils/elles": "ont garé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais garé",
+			"tu": "avais garé",
+			"il/elle": "avait garé",
+			"nous": "avions garé",
+			"vous": "aviez garé",
+			"ils/elles": "avaient garé"
+		},
+		"passé antérieur": {
+			"j'": "eus garé",
+			"tu": "eus garé",
+			"il/elle": "eut garé",
+			"nous": "eûmes garé",
+			"vous": "eûtes garé",
+			"ils/elles": "eurent garé"
+		},
+		"futur antérieur": {
+			"j'": "aurai garé",
+			"tu": "auras garé",
+			"il/elle": "aura garé",
+			"nous": "aurons garé",
+			"vous": "aurez garé",
+			"ils/elles": "auront garé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous gariez",
+			"qu'il/elle": "gare",
+			"qu'ils/elles": "garent"
+		},
+		"imparfait": {
+			"que": "vous garassiez",
+			"qu'il/elle": "garât",
+			"qu'ils/elles": "garassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse garé",
+			"que": "vous eussiez garé",
+			"qu'il/elle": "eût garé",
+			"qu'ils/elles": "eussent garé"
+		},
+		"passé": {
+			"j'": "aie garé",
+			"que": "vous ayez garé",
+			"qu'il/elle": "ait garé",
+			"qu'ils/elles": "aient garé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "garerais",
+			"tu": "garerais",
+			"il/elle": "garerait",
+			"nous": "garerions",
+			"vous": "gareriez",
+			"ils/elles": "gareraient"
+		},
+		"passé première forme": {
+			"j'": "aurais garé",
+			"tu": "aurais garé",
+			"il/elle": "aurait garé",
+			"nous": "aurions garé",
+			"vous": "auriez garé",
+			"ils/elles": "auraient garé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse garé",
+			"tu": "eusses garé",
+			"il/elle": "eût garé",
+			"nous": "eussions garé",
+			"vous": "eussiez garé",
+			"ils/elles": "eussent garé"
+		}
+	},
+	"participe": {
+		"présent": { "garant": "" },
+		"passé composé": { "ayant": "garé" },
+		"passé": {
+			"masc.sg.:": "garé",
+			"masc.pl.:": "garés",
+			"fém.sg.:": "garée",
+			"fém.pl.:": "garées"
+		}
+	},
+	"imperatif": {
+		"présent": { "gare": "", "garons": "", "garez": "" },
+		"passé": { "aie": "garé", "ayons": "garé", "ayez": "garé" }
+	},
+	"infinitif": { "présent": { "garer": "" }, "passé": { "avoir": "garé" } }
+}

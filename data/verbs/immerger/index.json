@@ -1,0 +1,143 @@
+{
+	"name": "immerger",
+	"definition": "immerse; submerge; dip; ...",
+	"model": "manger",
+	"auxiliary": "avoir",
+	"otherForms": "s'immerger/ne pas immerger/ne pas s'immerger",
+	"indicatif": {
+		"présent": {
+			"j'": "immerge",
+			"tu": "immerges",
+			"il/elle": "immerge",
+			"nous": "immergeons",
+			"vous": "immergez",
+			"ils/elles": "immergent"
+		},
+		"imparfait": {
+			"j'": "immergeais",
+			"tu": "immergeais",
+			"il/elle": "immergeait",
+			"nous": "immergions",
+			"vous": "immergiez",
+			"ils/elles": "immergeaient"
+		},
+		"futur": {
+			"j'": "immergerai",
+			"tu": "immergeras",
+			"il/elle": "immergera",
+			"nous": "immergerons",
+			"vous": "immergerez",
+			"ils/elles": "immergeront"
+		},
+		"passé simple": {
+			"j'": "immergeai",
+			"tu": "immergeas",
+			"il/elle": "immergea",
+			"nous": "immergeâmes",
+			"vous": "immergeâtes",
+			"ils/elles": "immergèrent"
+		},
+		"passé composé": {
+			"j'": "ai immergé",
+			"tu": "as immergé",
+			"il/elle": "a immergé",
+			"nous": "avons immergé",
+			"vous": "avez immergé",
+			"ils/elles": "ont immergé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais immergé",
+			"tu": "avais immergé",
+			"il/elle": "avait immergé",
+			"nous": "avions immergé",
+			"vous": "aviez immergé",
+			"ils/elles": "avaient immergé"
+		},
+		"passé antérieur": {
+			"j'": "eus immergé",
+			"tu": "eus immergé",
+			"il/elle": "eut immergé",
+			"nous": "eûmes immergé",
+			"vous": "eûtes immergé",
+			"ils/elles": "eurent immergé"
+		},
+		"futur antérieur": {
+			"j'": "aurai immergé",
+			"tu": "auras immergé",
+			"il/elle": "aura immergé",
+			"nous": "aurons immergé",
+			"vous": "aurez immergé",
+			"ils/elles": "auront immergé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "immerge",
+			"que": "vous immergiez",
+			"qu'il/elle": "immerge",
+			"qu'ils/elles": "immergent"
+		},
+		"imparfait": {
+			"j'": "immergeasse",
+			"que": "vous immergeassiez",
+			"qu'il/elle": "immergeât",
+			"qu'ils/elles": "immergeassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse immergé",
+			"que": "vous eussiez immergé",
+			"qu'il/elle": "eût immergé",
+			"qu'ils/elles": "eussent immergé"
+		},
+		"passé": {
+			"j'": "aie immergé",
+			"que": "vous ayez immergé",
+			"qu'il/elle": "ait immergé",
+			"qu'ils/elles": "aient immergé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "immergerais",
+			"tu": "immergerais",
+			"il/elle": "immergerait",
+			"nous": "immergerions",
+			"vous": "immergeriez",
+			"ils/elles": "immergeraient"
+		},
+		"passé première forme": {
+			"j'": "aurais immergé",
+			"tu": "aurais immergé",
+			"il/elle": "aurait immergé",
+			"nous": "aurions immergé",
+			"vous": "auriez immergé",
+			"ils/elles": "auraient immergé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse immergé",
+			"tu": "eusses immergé",
+			"il/elle": "eût immergé",
+			"nous": "eussions immergé",
+			"vous": "eussiez immergé",
+			"ils/elles": "eussent immergé"
+		}
+	},
+	"participe": {
+		"présent": { "immergeant": "" },
+		"passé composé": { "ayant": "immergé" },
+		"passé": {
+			"masc.sg.:": "immergé",
+			"masc.pl.:": "immergés",
+			"fém.sg.:": "immergée",
+			"fém.pl.:": "immergées"
+		}
+	},
+	"imperatif": {
+		"présent": { "immerge": "", "immergeons": "", "immergez": "" },
+		"passé": { "aie": "immergé", "ayons": "immergé", "ayez": "immergé" }
+	},
+	"infinitif": {
+		"présent": { "immerger": "" },
+		"passé": { "avoir": "immergé" }
+	}
+}

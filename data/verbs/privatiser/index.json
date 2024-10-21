@@ -1,0 +1,141 @@
+{
+	"name": "privatiser",
+	"definition": "privatize; privatise; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se privatiser/ne pas privatiser/ne pas se privatiser",
+	"indicatif": {
+		"présent": {
+			"je": "privatise",
+			"tu": "privatises",
+			"il/elle": "privatise",
+			"nous": "privatisons",
+			"vous": "privatisez",
+			"ils/elles": "privatisent"
+		},
+		"imparfait": {
+			"je": "privatisais",
+			"tu": "privatisais",
+			"il/elle": "privatisait",
+			"nous": "privatisions",
+			"vous": "privatisiez",
+			"ils/elles": "privatisaient"
+		},
+		"futur": {
+			"je": "privatiserai",
+			"tu": "privatiseras",
+			"il/elle": "privatisera",
+			"nous": "privatiserons",
+			"vous": "privatiserez",
+			"ils/elles": "privatiseront"
+		},
+		"passé simple": {
+			"je": "privatisai",
+			"tu": "privatisas",
+			"il/elle": "privatisa",
+			"nous": "privatisâmes",
+			"vous": "privatisâtes",
+			"ils/elles": "privatisèrent"
+		},
+		"passé composé": {
+			"j'": "ai privatisé",
+			"tu": "as privatisé",
+			"il/elle": "a privatisé",
+			"nous": "avons privatisé",
+			"vous": "avez privatisé",
+			"ils/elles": "ont privatisé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais privatisé",
+			"tu": "avais privatisé",
+			"il/elle": "avait privatisé",
+			"nous": "avions privatisé",
+			"vous": "aviez privatisé",
+			"ils/elles": "avaient privatisé"
+		},
+		"passé antérieur": {
+			"j'": "eus privatisé",
+			"tu": "eus privatisé",
+			"il/elle": "eut privatisé",
+			"nous": "eûmes privatisé",
+			"vous": "eûtes privatisé",
+			"ils/elles": "eurent privatisé"
+		},
+		"futur antérieur": {
+			"j'": "aurai privatisé",
+			"tu": "auras privatisé",
+			"il/elle": "aura privatisé",
+			"nous": "aurons privatisé",
+			"vous": "aurez privatisé",
+			"ils/elles": "auront privatisé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous privatisiez",
+			"qu'il/elle": "privatise",
+			"qu'ils/elles": "privatisent"
+		},
+		"imparfait": {
+			"que": "vous privatisassiez",
+			"qu'il/elle": "privatisât",
+			"qu'ils/elles": "privatisassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse privatisé",
+			"que": "vous eussiez privatisé",
+			"qu'il/elle": "eût privatisé",
+			"qu'ils/elles": "eussent privatisé"
+		},
+		"passé": {
+			"j'": "aie privatisé",
+			"que": "vous ayez privatisé",
+			"qu'il/elle": "ait privatisé",
+			"qu'ils/elles": "aient privatisé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "privatiserais",
+			"tu": "privatiserais",
+			"il/elle": "privatiserait",
+			"nous": "privatiserions",
+			"vous": "privatiseriez",
+			"ils/elles": "privatiseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais privatisé",
+			"tu": "aurais privatisé",
+			"il/elle": "aurait privatisé",
+			"nous": "aurions privatisé",
+			"vous": "auriez privatisé",
+			"ils/elles": "auraient privatisé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse privatisé",
+			"tu": "eusses privatisé",
+			"il/elle": "eût privatisé",
+			"nous": "eussions privatisé",
+			"vous": "eussiez privatisé",
+			"ils/elles": "eussent privatisé"
+		}
+	},
+	"participe": {
+		"présent": { "privatisant": "" },
+		"passé composé": { "ayant": "privatisé" },
+		"passé": {
+			"masc.sg.:": "privatisé",
+			"masc.pl.:": "privatisés",
+			"fém.sg.:": "privatisée",
+			"fém.pl.:": "privatisées"
+		}
+	},
+	"imperatif": {
+		"présent": { "privatise": "", "privatisons": "", "privatisez": "" },
+		"passé": { "aie": "privatisé", "ayons": "privatisé", "ayez": "privatisé" }
+	},
+	"infinitif": {
+		"présent": { "privatiser": "" },
+		"passé": { "avoir": "privatisé" }
+	}
+}

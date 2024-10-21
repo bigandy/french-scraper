@@ -1,0 +1,140 @@
+{
+	"name": "apeurer",
+	"definition": "scare; frighten; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'apeurer/ne pas apeurer/ne pas s'apeurer",
+	"indicatif": {
+		"présent": {
+			"j'": "apeure",
+			"tu": "apeures",
+			"il/elle": "apeure",
+			"nous": "apeurons",
+			"vous": "apeurez",
+			"ils/elles": "apeurent"
+		},
+		"imparfait": {
+			"j'": "apeurais",
+			"tu": "apeurais",
+			"il/elle": "apeurait",
+			"nous": "apeurions",
+			"vous": "apeuriez",
+			"ils/elles": "apeuraient"
+		},
+		"futur": {
+			"j'": "apeurerai",
+			"tu": "apeureras",
+			"il/elle": "apeurera",
+			"nous": "apeurerons",
+			"vous": "apeurerez",
+			"ils/elles": "apeureront"
+		},
+		"passé simple": {
+			"j'": "apeurai",
+			"tu": "apeuras",
+			"il/elle": "apeura",
+			"nous": "apeurâmes",
+			"vous": "apeurâtes",
+			"ils/elles": "apeurèrent"
+		},
+		"passé composé": {
+			"j'": "ai apeuré",
+			"tu": "as apeuré",
+			"il/elle": "a apeuré",
+			"nous": "avons apeuré",
+			"vous": "avez apeuré",
+			"ils/elles": "ont apeuré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais apeuré",
+			"tu": "avais apeuré",
+			"il/elle": "avait apeuré",
+			"nous": "avions apeuré",
+			"vous": "aviez apeuré",
+			"ils/elles": "avaient apeuré"
+		},
+		"passé antérieur": {
+			"j'": "eus apeuré",
+			"tu": "eus apeuré",
+			"il/elle": "eut apeuré",
+			"nous": "eûmes apeuré",
+			"vous": "eûtes apeuré",
+			"ils/elles": "eurent apeuré"
+		},
+		"futur antérieur": {
+			"j'": "aurai apeuré",
+			"tu": "auras apeuré",
+			"il/elle": "aura apeuré",
+			"nous": "aurons apeuré",
+			"vous": "aurez apeuré",
+			"ils/elles": "auront apeuré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "apeure",
+			"que": "vous apeuriez",
+			"qu'il/elle": "apeure",
+			"qu'ils/elles": "apeurent"
+		},
+		"imparfait": {
+			"j'": "apeurasse",
+			"que": "vous apeurassiez",
+			"qu'il/elle": "apeurât",
+			"qu'ils/elles": "apeurassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse apeuré",
+			"que": "vous eussiez apeuré",
+			"qu'il/elle": "eût apeuré",
+			"qu'ils/elles": "eussent apeuré"
+		},
+		"passé": {
+			"j'": "aie apeuré",
+			"que": "vous ayez apeuré",
+			"qu'il/elle": "ait apeuré",
+			"qu'ils/elles": "aient apeuré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "apeurerais",
+			"tu": "apeurerais",
+			"il/elle": "apeurerait",
+			"nous": "apeurerions",
+			"vous": "apeureriez",
+			"ils/elles": "apeureraient"
+		},
+		"passé première forme": {
+			"j'": "aurais apeuré",
+			"tu": "aurais apeuré",
+			"il/elle": "aurait apeuré",
+			"nous": "aurions apeuré",
+			"vous": "auriez apeuré",
+			"ils/elles": "auraient apeuré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse apeuré",
+			"tu": "eusses apeuré",
+			"il/elle": "eût apeuré",
+			"nous": "eussions apeuré",
+			"vous": "eussiez apeuré",
+			"ils/elles": "eussent apeuré"
+		}
+	},
+	"participe": {
+		"présent": { "apeurant": "" },
+		"passé composé": { "ayant": "apeuré" },
+		"passé": {
+			"masc.sg.:": "apeuré",
+			"masc.pl.:": "apeurés",
+			"fém.sg.:": "apeurée",
+			"fém.pl.:": "apeurées"
+		}
+	},
+	"imperatif": {
+		"présent": { "apeure": "", "apeurons": "", "apeurez": "" },
+		"passé": { "aie": "apeuré", "ayons": "apeuré", "ayez": "apeuré" }
+	},
+	"infinitif": { "présent": { "apeurer": "" }, "passé": { "avoir": "apeuré" } }
+}

@@ -1,0 +1,143 @@
+{
+	"name": "éplucher",
+	"definition": "peel; go through; comb through; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'éplucher/ne pas éplucher/ne pas s'éplucher",
+	"indicatif": {
+		"présent": {
+			"j'": "épluche",
+			"tu": "épluches",
+			"il/elle": "épluche",
+			"nous": "épluchons",
+			"vous": "épluchez",
+			"ils/elles": "épluchent"
+		},
+		"imparfait": {
+			"j'": "épluchais",
+			"tu": "épluchais",
+			"il/elle": "épluchait",
+			"nous": "épluchions",
+			"vous": "épluchiez",
+			"ils/elles": "épluchaient"
+		},
+		"futur": {
+			"j'": "éplucherai",
+			"tu": "éplucheras",
+			"il/elle": "épluchera",
+			"nous": "éplucherons",
+			"vous": "éplucherez",
+			"ils/elles": "éplucheront"
+		},
+		"passé simple": {
+			"j'": "épluchai",
+			"tu": "épluchas",
+			"il/elle": "éplucha",
+			"nous": "épluchâmes",
+			"vous": "épluchâtes",
+			"ils/elles": "épluchèrent"
+		},
+		"passé composé": {
+			"j'": "ai épluché",
+			"tu": "as épluché",
+			"il/elle": "a épluché",
+			"nous": "avons épluché",
+			"vous": "avez épluché",
+			"ils/elles": "ont épluché"
+		},
+		"plus-que-parfait": {
+			"j'": "avais épluché",
+			"tu": "avais épluché",
+			"il/elle": "avait épluché",
+			"nous": "avions épluché",
+			"vous": "aviez épluché",
+			"ils/elles": "avaient épluché"
+		},
+		"passé antérieur": {
+			"j'": "eus épluché",
+			"tu": "eus épluché",
+			"il/elle": "eut épluché",
+			"nous": "eûmes épluché",
+			"vous": "eûtes épluché",
+			"ils/elles": "eurent épluché"
+		},
+		"futur antérieur": {
+			"j'": "aurai épluché",
+			"tu": "auras épluché",
+			"il/elle": "aura épluché",
+			"nous": "aurons épluché",
+			"vous": "aurez épluché",
+			"ils/elles": "auront épluché"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "épluche",
+			"que": "vous épluchiez",
+			"qu'il/elle": "épluche",
+			"qu'ils/elles": "épluchent"
+		},
+		"imparfait": {
+			"j'": "épluchasse",
+			"que": "vous épluchassiez",
+			"qu'il/elle": "épluchât",
+			"qu'ils/elles": "épluchassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse épluché",
+			"que": "vous eussiez épluché",
+			"qu'il/elle": "eût épluché",
+			"qu'ils/elles": "eussent épluché"
+		},
+		"passé": {
+			"j'": "aie épluché",
+			"que": "vous ayez épluché",
+			"qu'il/elle": "ait épluché",
+			"qu'ils/elles": "aient épluché"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "éplucherais",
+			"tu": "éplucherais",
+			"il/elle": "éplucherait",
+			"nous": "éplucherions",
+			"vous": "éplucheriez",
+			"ils/elles": "éplucheraient"
+		},
+		"passé première forme": {
+			"j'": "aurais épluché",
+			"tu": "aurais épluché",
+			"il/elle": "aurait épluché",
+			"nous": "aurions épluché",
+			"vous": "auriez épluché",
+			"ils/elles": "auraient épluché"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse épluché",
+			"tu": "eusses épluché",
+			"il/elle": "eût épluché",
+			"nous": "eussions épluché",
+			"vous": "eussiez épluché",
+			"ils/elles": "eussent épluché"
+		}
+	},
+	"participe": {
+		"présent": { "épluchant": "" },
+		"passé composé": { "ayant": "épluché" },
+		"passé": {
+			"masc.sg.:": "épluché",
+			"masc.pl.:": "épluchés",
+			"fém.sg.:": "épluchée",
+			"fém.pl.:": "épluchées"
+		}
+	},
+	"imperatif": {
+		"présent": { "épluche": "", "épluchons": "", "épluchez": "" },
+		"passé": { "aie": "épluché", "ayons": "épluché", "ayez": "épluché" }
+	},
+	"infinitif": {
+		"présent": { "éplucher": "" },
+		"passé": { "avoir": "épluché" }
+	}
+}

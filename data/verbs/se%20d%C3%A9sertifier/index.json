@@ -1,0 +1,159 @@
+{
+	"name": "se désertifier",
+	"definition": "depeople; become depopulated; ...",
+	"model": "marcher",
+	"auxiliary": "être",
+	"otherForms": "désertifier/ne pas désertifier/ne pas se désertifier",
+	"indicatif": {
+		"présent": {
+			"je": "me désertifie",
+			"tu": "te désertifies",
+			"il/elle": "se désertifie",
+			"nous": "nous désertifions",
+			"vous": "vous désertifiez",
+			"ils/elles": "se désertifient"
+		},
+		"imparfait": {
+			"je": "me désertifiais",
+			"tu": "te désertifiais",
+			"il/elle": "se désertifiait",
+			"nous": "nous désertifiions",
+			"vous": "vous désertifiiez",
+			"ils/elles": "se désertifiaient"
+		},
+		"futur": {
+			"je": "me désertifierai",
+			"tu": "te désertifieras",
+			"il/elle": "se désertifiera",
+			"nous": "nous désertifierons",
+			"vous": "vous désertifierez",
+			"ils/elles": "se désertifieront"
+		},
+		"passé simple": {
+			"je": "me désertifiai",
+			"tu": "te désertifias",
+			"il/elle": "se désertifia",
+			"nous": "nous désertifiâmes",
+			"vous": "vous désertifiâtes",
+			"ils/elles": "se désertifièrent"
+		},
+		"passé composé": {
+			"je": "me suis désertifié",
+			"tu": "t'es désertifié",
+			"il": "s'est désertifié",
+			"elle": "s'est désertifiée",
+			"nous": "nous sommes désertifiés",
+			"vous": "vous êtes désertifiés",
+			"ils": "se sont désertifiés",
+			"elles": "se sont désertifiées"
+		},
+		"plus-que-parfait": {
+			"je": "m'étais désertifié",
+			"tu": "t'étais désertifié",
+			"il": "s'était désertifié",
+			"elle": "s'était désertifiée",
+			"nous": "nous étions désertifiés",
+			"vous": "vous étiez désertifiés",
+			"ils": "s'étaient désertifiés",
+			"elles": "s'étaient désertifiées"
+		},
+		"passé antérieur": {
+			"je": "me fus désertifié",
+			"tu": "te fus désertifié",
+			"il": "se fut désertifié",
+			"elle": "se fut désertifiée",
+			"nous": "nous fûmes désertifiés",
+			"vous": "vous fûtes désertifiés",
+			"ils": "se furent désertifiés",
+			"elles": "se furent désertifiées"
+		},
+		"futur antérieur": {
+			"je": "me serai désertifié",
+			"tu": "te seras désertifié",
+			"il": "se sera désertifié",
+			"elle": "se sera désertifiée",
+			"nous": "nous serons désertifiés",
+			"vous": "vous serez désertifiés",
+			"ils": "se seront désertifiés",
+			"elles": "se seront désertifiées"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous vous désertifiiez",
+			"qu'il/elle": "se désertifie",
+			"qu'ils/elles": "se désertifient"
+		},
+		"imparfait": {
+			"que": "vous vous désertifiassiez",
+			"qu'il/elle": "se désertifiât",
+			"qu'ils/elles": "se désertifiassent"
+		},
+		"plus-que-parfait": {
+			"que": "vous vous fussiez désertifiés",
+			"qu'il": "se fût désertifié",
+			"qu'elle": "se fût désertifiée",
+			"qu'ils": "se fussent désertifiés",
+			"qu'elles": "se fussent désertifiées"
+		},
+		"passé": {
+			"que": "vous vous soyez désertifiés",
+			"qu'il": "se soit désertifié",
+			"qu'elle": "se soit désertifiée",
+			"qu'ils": "se soient désertifiés",
+			"qu'elles": "se soient désertifiées"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "me désertifierais",
+			"tu": "te désertifierais",
+			"il/elle": "se désertifierait",
+			"nous": "nous désertifierions",
+			"vous": "vous désertifieriez",
+			"ils/elles": "se désertifieraient"
+		},
+		"passé première forme": {
+			"je": "me serais désertifié",
+			"tu": "te serais désertifié",
+			"il": "se serait désertifié",
+			"elle": "se serait désertifiée",
+			"nous": "nous serions désertifiés",
+			"vous": "vous seriez désertifiés",
+			"ils": "se seraient désertifiés",
+			"elles": "se seraient désertifiées"
+		},
+		"passé deuxième forme": {
+			"je": "me fusse désertifié",
+			"tu": "te fusses désertifié",
+			"il": "se fût désertifié",
+			"elle": "se fût désertifiée",
+			"nous": "nous fussions désertifiés",
+			"vous": "vous fussiez désertifiés",
+			"ils": "se fussent désertifiés",
+			"elles": "se fussent désertifiées"
+		}
+	},
+	"participe": {
+		"présent": { "se": "désertifiant" },
+		"passé composé": { "s'étant": "désertifié" },
+		"passé": {
+			"masc.sg.:": "désertifié",
+			"masc.pl.:": "désertifiés",
+			"fém.sg.:": "désertifiée",
+			"fém.pl.:": "désertifiées"
+		}
+	},
+	"imperatif": {
+		"présent": {
+			"désertifie-toi": "",
+			"désertifions-nous": "",
+			"désertifiez-vous": ""
+		},
+		"passé": {}
+	},
+	"infinitif": {
+		"présent": { "se": "désertifier" },
+		"passé": { "s'être": "désertifié" }
+	}
+}

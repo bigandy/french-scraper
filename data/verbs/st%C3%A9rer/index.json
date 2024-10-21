@@ -1,0 +1,138 @@
+{
+	"name": "stérer",
+	"definition": "",
+	"model": "aérer",
+	"auxiliary": "avoir",
+	"otherForms": "se stérer/ne pas stérer/ne pas se stérer",
+	"indicatif": {
+		"présent": {
+			"je": "stère",
+			"tu": "stères",
+			"il/elle": "stère",
+			"nous": "stérons",
+			"vous": "stérez",
+			"ils/elles": "stèrent"
+		},
+		"imparfait": {
+			"je": "stérais",
+			"tu": "stérais",
+			"il/elle": "stérait",
+			"nous": "stérions",
+			"vous": "stériez",
+			"ils/elles": "stéraient"
+		},
+		"futur": {
+			"je": "stérerai",
+			"tu": "stéreras",
+			"il/elle": "stérera",
+			"nous": "stérerons",
+			"vous": "stérerez",
+			"ils/elles": "stéreront"
+		},
+		"passé simple": {
+			"je": "stérai",
+			"tu": "stéras",
+			"il/elle": "stéra",
+			"nous": "stérâmes",
+			"vous": "stérâtes",
+			"ils/elles": "stérèrent"
+		},
+		"passé composé": {
+			"j'": "ai stéré",
+			"tu": "as stéré",
+			"il/elle": "a stéré",
+			"nous": "avons stéré",
+			"vous": "avez stéré",
+			"ils/elles": "ont stéré"
+		},
+		"plus-que-parfait": {
+			"j'": "avais stéré",
+			"tu": "avais stéré",
+			"il/elle": "avait stéré",
+			"nous": "avions stéré",
+			"vous": "aviez stéré",
+			"ils/elles": "avaient stéré"
+		},
+		"passé antérieur": {
+			"j'": "eus stéré",
+			"tu": "eus stéré",
+			"il/elle": "eut stéré",
+			"nous": "eûmes stéré",
+			"vous": "eûtes stéré",
+			"ils/elles": "eurent stéré"
+		},
+		"futur antérieur": {
+			"j'": "aurai stéré",
+			"tu": "auras stéré",
+			"il/elle": "aura stéré",
+			"nous": "aurons stéré",
+			"vous": "aurez stéré",
+			"ils/elles": "auront stéré"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous stériez",
+			"qu'il/elle": "stère",
+			"qu'ils/elles": "stèrent"
+		},
+		"imparfait": {
+			"que": "vous stérassiez",
+			"qu'il/elle": "stérât",
+			"qu'ils/elles": "stérassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse stéré",
+			"que": "vous eussiez stéré",
+			"qu'il/elle": "eût stéré",
+			"qu'ils/elles": "eussent stéré"
+		},
+		"passé": {
+			"j'": "aie stéré",
+			"que": "vous ayez stéré",
+			"qu'il/elle": "ait stéré",
+			"qu'ils/elles": "aient stéré"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "stérerais",
+			"tu": "stérerais",
+			"il/elle": "stérerait",
+			"nous": "stérerions",
+			"vous": "stéreriez",
+			"ils/elles": "stéreraient"
+		},
+		"passé première forme": {
+			"j'": "aurais stéré",
+			"tu": "aurais stéré",
+			"il/elle": "aurait stéré",
+			"nous": "aurions stéré",
+			"vous": "auriez stéré",
+			"ils/elles": "auraient stéré"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse stéré",
+			"tu": "eusses stéré",
+			"il/elle": "eût stéré",
+			"nous": "eussions stéré",
+			"vous": "eussiez stéré",
+			"ils/elles": "eussent stéré"
+		}
+	},
+	"participe": {
+		"présent": { "stérant": "" },
+		"passé composé": { "ayant": "stéré" },
+		"passé": {
+			"masc.sg.:": "stéré",
+			"masc.pl.:": "stérés",
+			"fém.sg.:": "stérée",
+			"fém.pl.:": "stérées"
+		}
+	},
+	"imperatif": {
+		"présent": { "stère": "", "stérons": "", "stérez": "" },
+		"passé": { "aie": "stéré", "ayons": "stéré", "ayez": "stéré" }
+	},
+	"infinitif": { "présent": { "stérer": "" }, "passé": { "avoir": "stéré" } }
+}

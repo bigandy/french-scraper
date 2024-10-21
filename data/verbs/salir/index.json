@@ -1,0 +1,138 @@
+{
+	"name": "salir",
+	"definition": "dirty; soil; smear; ...",
+	"model": "finir",
+	"auxiliary": "avoir",
+	"otherForms": "se salir/ne pas salir/ne pas se salir",
+	"indicatif": {
+		"présent": {
+			"je": "salis",
+			"tu": "salis",
+			"il/elle": "salit",
+			"nous": "salissons",
+			"vous": "salissez",
+			"ils/elles": "salissent"
+		},
+		"imparfait": {
+			"je": "salissais",
+			"tu": "salissais",
+			"il/elle": "salissait",
+			"nous": "salissions",
+			"vous": "salissiez",
+			"ils/elles": "salissaient"
+		},
+		"futur": {
+			"je": "salirai",
+			"tu": "saliras",
+			"il/elle": "salira",
+			"nous": "salirons",
+			"vous": "salirez",
+			"ils/elles": "saliront"
+		},
+		"passé simple": {
+			"je": "salis",
+			"tu": "salis",
+			"il/elle": "salit",
+			"nous": "salîmes",
+			"vous": "salîtes",
+			"ils/elles": "salirent"
+		},
+		"passé composé": {
+			"j'": "ai sali",
+			"tu": "as sali",
+			"il/elle": "a sali",
+			"nous": "avons sali",
+			"vous": "avez sali",
+			"ils/elles": "ont sali"
+		},
+		"plus-que-parfait": {
+			"j'": "avais sali",
+			"tu": "avais sali",
+			"il/elle": "avait sali",
+			"nous": "avions sali",
+			"vous": "aviez sali",
+			"ils/elles": "avaient sali"
+		},
+		"passé antérieur": {
+			"j'": "eus sali",
+			"tu": "eus sali",
+			"il/elle": "eut sali",
+			"nous": "eûmes sali",
+			"vous": "eûtes sali",
+			"ils/elles": "eurent sali"
+		},
+		"futur antérieur": {
+			"j'": "aurai sali",
+			"tu": "auras sali",
+			"il/elle": "aura sali",
+			"nous": "aurons sali",
+			"vous": "aurez sali",
+			"ils/elles": "auront sali"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous salissiez",
+			"qu'il/elle": "salisse",
+			"qu'ils/elles": "salissent"
+		},
+		"imparfait": {
+			"que": "vous salissiez",
+			"qu'il/elle": "salît",
+			"qu'ils/elles": "salissent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse sali",
+			"que": "vous eussiez sali",
+			"qu'il/elle": "eût sali",
+			"qu'ils/elles": "eussent sali"
+		},
+		"passé": {
+			"j'": "aie sali",
+			"que": "vous ayez sali",
+			"qu'il/elle": "ait sali",
+			"qu'ils/elles": "aient sali"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "salirais",
+			"tu": "salirais",
+			"il/elle": "salirait",
+			"nous": "salirions",
+			"vous": "saliriez",
+			"ils/elles": "saliraient"
+		},
+		"passé première forme": {
+			"j'": "aurais sali",
+			"tu": "aurais sali",
+			"il/elle": "aurait sali",
+			"nous": "aurions sali",
+			"vous": "auriez sali",
+			"ils/elles": "auraient sali"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse sali",
+			"tu": "eusses sali",
+			"il/elle": "eût sali",
+			"nous": "eussions sali",
+			"vous": "eussiez sali",
+			"ils/elles": "eussent sali"
+		}
+	},
+	"participe": {
+		"présent": { "salissant": "" },
+		"passé composé": { "ayant": "sali" },
+		"passé": {
+			"masc.sg.:": "sali",
+			"masc.pl.:": "salis",
+			"fém.sg.:": "salie",
+			"fém.pl.:": "salies"
+		}
+	},
+	"imperatif": {
+		"présent": { "salis": "", "salissons": "", "salissez": "" },
+		"passé": { "aie": "sali", "ayons": "sali", "ayez": "sali" }
+	},
+	"infinitif": { "présent": { "salir": "" }, "passé": { "avoir": "sali" } }
+}

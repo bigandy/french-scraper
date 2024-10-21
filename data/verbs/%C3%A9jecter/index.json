@@ -1,0 +1,140 @@
+{
+	"name": "éjecter",
+	"definition": "eject; jet; kick; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'éjecter/ne pas éjecter/ne pas s'éjecter",
+	"indicatif": {
+		"présent": {
+			"j'": "éjecte",
+			"tu": "éjectes",
+			"il/elle": "éjecte",
+			"nous": "éjectons",
+			"vous": "éjectez",
+			"ils/elles": "éjectent"
+		},
+		"imparfait": {
+			"j'": "éjectais",
+			"tu": "éjectais",
+			"il/elle": "éjectait",
+			"nous": "éjections",
+			"vous": "éjectiez",
+			"ils/elles": "éjectaient"
+		},
+		"futur": {
+			"j'": "éjecterai",
+			"tu": "éjecteras",
+			"il/elle": "éjectera",
+			"nous": "éjecterons",
+			"vous": "éjecterez",
+			"ils/elles": "éjecteront"
+		},
+		"passé simple": {
+			"j'": "éjectai",
+			"tu": "éjectas",
+			"il/elle": "éjecta",
+			"nous": "éjectâmes",
+			"vous": "éjectâtes",
+			"ils/elles": "éjectèrent"
+		},
+		"passé composé": {
+			"j'": "ai éjecté",
+			"tu": "as éjecté",
+			"il/elle": "a éjecté",
+			"nous": "avons éjecté",
+			"vous": "avez éjecté",
+			"ils/elles": "ont éjecté"
+		},
+		"plus-que-parfait": {
+			"j'": "avais éjecté",
+			"tu": "avais éjecté",
+			"il/elle": "avait éjecté",
+			"nous": "avions éjecté",
+			"vous": "aviez éjecté",
+			"ils/elles": "avaient éjecté"
+		},
+		"passé antérieur": {
+			"j'": "eus éjecté",
+			"tu": "eus éjecté",
+			"il/elle": "eut éjecté",
+			"nous": "eûmes éjecté",
+			"vous": "eûtes éjecté",
+			"ils/elles": "eurent éjecté"
+		},
+		"futur antérieur": {
+			"j'": "aurai éjecté",
+			"tu": "auras éjecté",
+			"il/elle": "aura éjecté",
+			"nous": "aurons éjecté",
+			"vous": "aurez éjecté",
+			"ils/elles": "auront éjecté"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "éjecte",
+			"que": "vous éjectiez",
+			"qu'il/elle": "éjecte",
+			"qu'ils/elles": "éjectent"
+		},
+		"imparfait": {
+			"j'": "éjectasse",
+			"que": "vous éjectassiez",
+			"qu'il/elle": "éjectât",
+			"qu'ils/elles": "éjectassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse éjecté",
+			"que": "vous eussiez éjecté",
+			"qu'il/elle": "eût éjecté",
+			"qu'ils/elles": "eussent éjecté"
+		},
+		"passé": {
+			"j'": "aie éjecté",
+			"que": "vous ayez éjecté",
+			"qu'il/elle": "ait éjecté",
+			"qu'ils/elles": "aient éjecté"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "éjecterais",
+			"tu": "éjecterais",
+			"il/elle": "éjecterait",
+			"nous": "éjecterions",
+			"vous": "éjecteriez",
+			"ils/elles": "éjecteraient"
+		},
+		"passé première forme": {
+			"j'": "aurais éjecté",
+			"tu": "aurais éjecté",
+			"il/elle": "aurait éjecté",
+			"nous": "aurions éjecté",
+			"vous": "auriez éjecté",
+			"ils/elles": "auraient éjecté"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse éjecté",
+			"tu": "eusses éjecté",
+			"il/elle": "eût éjecté",
+			"nous": "eussions éjecté",
+			"vous": "eussiez éjecté",
+			"ils/elles": "eussent éjecté"
+		}
+	},
+	"participe": {
+		"présent": { "éjectant": "" },
+		"passé composé": { "ayant": "éjecté" },
+		"passé": {
+			"masc.sg.:": "éjecté",
+			"masc.pl.:": "éjectés",
+			"fém.sg.:": "éjectée",
+			"fém.pl.:": "éjectées"
+		}
+	},
+	"imperatif": {
+		"présent": { "éjecte": "", "éjectons": "", "éjectez": "" },
+		"passé": { "aie": "éjecté", "ayons": "éjecté", "ayez": "éjecté" }
+	},
+	"infinitif": { "présent": { "éjecter": "" }, "passé": { "avoir": "éjecté" } }
+}

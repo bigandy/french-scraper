@@ -1,0 +1,138 @@
+{
+	"name": "fausser",
+	"definition": "distort; skew; bias; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se fausser/ne pas fausser/ne pas se fausser",
+	"indicatif": {
+		"présent": {
+			"je": "fausse",
+			"tu": "fausses",
+			"il/elle": "fausse",
+			"nous": "faussons",
+			"vous": "faussez",
+			"ils/elles": "faussent"
+		},
+		"imparfait": {
+			"je": "faussais",
+			"tu": "faussais",
+			"il/elle": "faussait",
+			"nous": "faussions",
+			"vous": "faussiez",
+			"ils/elles": "faussaient"
+		},
+		"futur": {
+			"je": "fausserai",
+			"tu": "fausseras",
+			"il/elle": "faussera",
+			"nous": "fausserons",
+			"vous": "fausserez",
+			"ils/elles": "fausseront"
+		},
+		"passé simple": {
+			"je": "faussai",
+			"tu": "faussas",
+			"il/elle": "faussa",
+			"nous": "faussâmes",
+			"vous": "faussâtes",
+			"ils/elles": "faussèrent"
+		},
+		"passé composé": {
+			"j'": "ai faussé",
+			"tu": "as faussé",
+			"il/elle": "a faussé",
+			"nous": "avons faussé",
+			"vous": "avez faussé",
+			"ils/elles": "ont faussé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais faussé",
+			"tu": "avais faussé",
+			"il/elle": "avait faussé",
+			"nous": "avions faussé",
+			"vous": "aviez faussé",
+			"ils/elles": "avaient faussé"
+		},
+		"passé antérieur": {
+			"j'": "eus faussé",
+			"tu": "eus faussé",
+			"il/elle": "eut faussé",
+			"nous": "eûmes faussé",
+			"vous": "eûtes faussé",
+			"ils/elles": "eurent faussé"
+		},
+		"futur antérieur": {
+			"j'": "aurai faussé",
+			"tu": "auras faussé",
+			"il/elle": "aura faussé",
+			"nous": "aurons faussé",
+			"vous": "aurez faussé",
+			"ils/elles": "auront faussé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous faussiez",
+			"qu'il/elle": "fausse",
+			"qu'ils/elles": "faussent"
+		},
+		"imparfait": {
+			"que": "vous faussassiez",
+			"qu'il/elle": "faussât",
+			"qu'ils/elles": "faussassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse faussé",
+			"que": "vous eussiez faussé",
+			"qu'il/elle": "eût faussé",
+			"qu'ils/elles": "eussent faussé"
+		},
+		"passé": {
+			"j'": "aie faussé",
+			"que": "vous ayez faussé",
+			"qu'il/elle": "ait faussé",
+			"qu'ils/elles": "aient faussé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "fausserais",
+			"tu": "fausserais",
+			"il/elle": "fausserait",
+			"nous": "fausserions",
+			"vous": "fausseriez",
+			"ils/elles": "fausseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais faussé",
+			"tu": "aurais faussé",
+			"il/elle": "aurait faussé",
+			"nous": "aurions faussé",
+			"vous": "auriez faussé",
+			"ils/elles": "auraient faussé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse faussé",
+			"tu": "eusses faussé",
+			"il/elle": "eût faussé",
+			"nous": "eussions faussé",
+			"vous": "eussiez faussé",
+			"ils/elles": "eussent faussé"
+		}
+	},
+	"participe": {
+		"présent": { "faussant": "" },
+		"passé composé": { "ayant": "faussé" },
+		"passé": {
+			"masc.sg.:": "faussé",
+			"masc.pl.:": "faussés",
+			"fém.sg.:": "faussée",
+			"fém.pl.:": "faussées"
+		}
+	},
+	"imperatif": {
+		"présent": { "fausse": "", "faussons": "", "faussez": "" },
+		"passé": { "aie": "faussé", "ayons": "faussé", "ayez": "faussé" }
+	},
+	"infinitif": { "présent": { "fausser": "" }, "passé": { "avoir": "faussé" } }
+}

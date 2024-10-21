@@ -1,0 +1,138 @@
+{
+	"name": "corner",
+	"definition": "fold; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se corner/ne pas corner/ne pas se corner",
+	"indicatif": {
+		"présent": {
+			"je": "corne",
+			"tu": "cornes",
+			"il/elle": "corne",
+			"nous": "cornons",
+			"vous": "cornez",
+			"ils/elles": "cornent"
+		},
+		"imparfait": {
+			"je": "cornais",
+			"tu": "cornais",
+			"il/elle": "cornait",
+			"nous": "cornions",
+			"vous": "corniez",
+			"ils/elles": "cornaient"
+		},
+		"futur": {
+			"je": "cornerai",
+			"tu": "corneras",
+			"il/elle": "cornera",
+			"nous": "cornerons",
+			"vous": "cornerez",
+			"ils/elles": "corneront"
+		},
+		"passé simple": {
+			"je": "cornai",
+			"tu": "cornas",
+			"il/elle": "corna",
+			"nous": "cornâmes",
+			"vous": "cornâtes",
+			"ils/elles": "cornèrent"
+		},
+		"passé composé": {
+			"j'": "ai corné",
+			"tu": "as corné",
+			"il/elle": "a corné",
+			"nous": "avons corné",
+			"vous": "avez corné",
+			"ils/elles": "ont corné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais corné",
+			"tu": "avais corné",
+			"il/elle": "avait corné",
+			"nous": "avions corné",
+			"vous": "aviez corné",
+			"ils/elles": "avaient corné"
+		},
+		"passé antérieur": {
+			"j'": "eus corné",
+			"tu": "eus corné",
+			"il/elle": "eut corné",
+			"nous": "eûmes corné",
+			"vous": "eûtes corné",
+			"ils/elles": "eurent corné"
+		},
+		"futur antérieur": {
+			"j'": "aurai corné",
+			"tu": "auras corné",
+			"il/elle": "aura corné",
+			"nous": "aurons corné",
+			"vous": "aurez corné",
+			"ils/elles": "auront corné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous corniez",
+			"qu'il/elle": "corne",
+			"qu'ils/elles": "cornent"
+		},
+		"imparfait": {
+			"que": "vous cornassiez",
+			"qu'il/elle": "cornât",
+			"qu'ils/elles": "cornassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse corné",
+			"que": "vous eussiez corné",
+			"qu'il/elle": "eût corné",
+			"qu'ils/elles": "eussent corné"
+		},
+		"passé": {
+			"j'": "aie corné",
+			"que": "vous ayez corné",
+			"qu'il/elle": "ait corné",
+			"qu'ils/elles": "aient corné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "cornerais",
+			"tu": "cornerais",
+			"il/elle": "cornerait",
+			"nous": "cornerions",
+			"vous": "corneriez",
+			"ils/elles": "corneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais corné",
+			"tu": "aurais corné",
+			"il/elle": "aurait corné",
+			"nous": "aurions corné",
+			"vous": "auriez corné",
+			"ils/elles": "auraient corné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse corné",
+			"tu": "eusses corné",
+			"il/elle": "eût corné",
+			"nous": "eussions corné",
+			"vous": "eussiez corné",
+			"ils/elles": "eussent corné"
+		}
+	},
+	"participe": {
+		"présent": { "cornant": "" },
+		"passé composé": { "ayant": "corné" },
+		"passé": {
+			"masc.sg.:": "corné",
+			"masc.pl.:": "cornés",
+			"fém.sg.:": "cornée",
+			"fém.pl.:": "cornées"
+		}
+	},
+	"imperatif": {
+		"présent": { "corne": "", "cornons": "", "cornez": "" },
+		"passé": { "aie": "corné", "ayons": "corné", "ayez": "corné" }
+	},
+	"infinitif": { "présent": { "corner": "" }, "passé": { "avoir": "corné" } }
+}

@@ -1,0 +1,138 @@
+{
+	"name": "choquer",
+	"definition": "shock; offend; upset; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se choquer/ne pas choquer/ne pas se choquer",
+	"indicatif": {
+		"présent": {
+			"je": "choque",
+			"tu": "choques",
+			"il/elle": "choque",
+			"nous": "choquons",
+			"vous": "choquez",
+			"ils/elles": "choquent"
+		},
+		"imparfait": {
+			"je": "choquais",
+			"tu": "choquais",
+			"il/elle": "choquait",
+			"nous": "choquions",
+			"vous": "choquiez",
+			"ils/elles": "choquaient"
+		},
+		"futur": {
+			"je": "choquerai",
+			"tu": "choqueras",
+			"il/elle": "choquera",
+			"nous": "choquerons",
+			"vous": "choquerez",
+			"ils/elles": "choqueront"
+		},
+		"passé simple": {
+			"je": "choquai",
+			"tu": "choquas",
+			"il/elle": "choqua",
+			"nous": "choquâmes",
+			"vous": "choquâtes",
+			"ils/elles": "choquèrent"
+		},
+		"passé composé": {
+			"j'": "ai choqué",
+			"tu": "as choqué",
+			"il/elle": "a choqué",
+			"nous": "avons choqué",
+			"vous": "avez choqué",
+			"ils/elles": "ont choqué"
+		},
+		"plus-que-parfait": {
+			"j'": "avais choqué",
+			"tu": "avais choqué",
+			"il/elle": "avait choqué",
+			"nous": "avions choqué",
+			"vous": "aviez choqué",
+			"ils/elles": "avaient choqué"
+		},
+		"passé antérieur": {
+			"j'": "eus choqué",
+			"tu": "eus choqué",
+			"il/elle": "eut choqué",
+			"nous": "eûmes choqué",
+			"vous": "eûtes choqué",
+			"ils/elles": "eurent choqué"
+		},
+		"futur antérieur": {
+			"j'": "aurai choqué",
+			"tu": "auras choqué",
+			"il/elle": "aura choqué",
+			"nous": "aurons choqué",
+			"vous": "aurez choqué",
+			"ils/elles": "auront choqué"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous choquiez",
+			"qu'il/elle": "choque",
+			"qu'ils/elles": "choquent"
+		},
+		"imparfait": {
+			"que": "vous choquassiez",
+			"qu'il/elle": "choquât",
+			"qu'ils/elles": "choquassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse choqué",
+			"que": "vous eussiez choqué",
+			"qu'il/elle": "eût choqué",
+			"qu'ils/elles": "eussent choqué"
+		},
+		"passé": {
+			"j'": "aie choqué",
+			"que": "vous ayez choqué",
+			"qu'il/elle": "ait choqué",
+			"qu'ils/elles": "aient choqué"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "choquerais",
+			"tu": "choquerais",
+			"il/elle": "choquerait",
+			"nous": "choquerions",
+			"vous": "choqueriez",
+			"ils/elles": "choqueraient"
+		},
+		"passé première forme": {
+			"j'": "aurais choqué",
+			"tu": "aurais choqué",
+			"il/elle": "aurait choqué",
+			"nous": "aurions choqué",
+			"vous": "auriez choqué",
+			"ils/elles": "auraient choqué"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse choqué",
+			"tu": "eusses choqué",
+			"il/elle": "eût choqué",
+			"nous": "eussions choqué",
+			"vous": "eussiez choqué",
+			"ils/elles": "eussent choqué"
+		}
+	},
+	"participe": {
+		"présent": { "choquant": "" },
+		"passé composé": { "ayant": "choqué" },
+		"passé": {
+			"masc.sg.:": "choqué",
+			"masc.pl.:": "choqués",
+			"fém.sg.:": "choquée",
+			"fém.pl.:": "choquées"
+		}
+	},
+	"imperatif": {
+		"présent": { "choque": "", "choquons": "", "choquez": "" },
+		"passé": { "aie": "choqué", "ayons": "choqué", "ayez": "choqué" }
+	},
+	"infinitif": { "présent": { "choquer": "" }, "passé": { "avoir": "choqué" } }
+}

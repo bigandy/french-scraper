@@ -1,0 +1,141 @@
+{
+	"name": "débourser",
+	"definition": "pay; spend; disburse; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "se débourser/ne pas débourser/ne pas se débourser",
+	"indicatif": {
+		"présent": {
+			"je": "débourse",
+			"tu": "débourses",
+			"il/elle": "débourse",
+			"nous": "déboursons",
+			"vous": "déboursez",
+			"ils/elles": "déboursent"
+		},
+		"imparfait": {
+			"je": "déboursais",
+			"tu": "déboursais",
+			"il/elle": "déboursait",
+			"nous": "déboursions",
+			"vous": "déboursiez",
+			"ils/elles": "déboursaient"
+		},
+		"futur": {
+			"je": "débourserai",
+			"tu": "débourseras",
+			"il/elle": "déboursera",
+			"nous": "débourserons",
+			"vous": "débourserez",
+			"ils/elles": "débourseront"
+		},
+		"passé simple": {
+			"je": "déboursai",
+			"tu": "déboursas",
+			"il/elle": "déboursa",
+			"nous": "déboursâmes",
+			"vous": "déboursâtes",
+			"ils/elles": "déboursèrent"
+		},
+		"passé composé": {
+			"j'": "ai déboursé",
+			"tu": "as déboursé",
+			"il/elle": "a déboursé",
+			"nous": "avons déboursé",
+			"vous": "avez déboursé",
+			"ils/elles": "ont déboursé"
+		},
+		"plus-que-parfait": {
+			"j'": "avais déboursé",
+			"tu": "avais déboursé",
+			"il/elle": "avait déboursé",
+			"nous": "avions déboursé",
+			"vous": "aviez déboursé",
+			"ils/elles": "avaient déboursé"
+		},
+		"passé antérieur": {
+			"j'": "eus déboursé",
+			"tu": "eus déboursé",
+			"il/elle": "eut déboursé",
+			"nous": "eûmes déboursé",
+			"vous": "eûtes déboursé",
+			"ils/elles": "eurent déboursé"
+		},
+		"futur antérieur": {
+			"j'": "aurai déboursé",
+			"tu": "auras déboursé",
+			"il/elle": "aura déboursé",
+			"nous": "aurons déboursé",
+			"vous": "aurez déboursé",
+			"ils/elles": "auront déboursé"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"que": "vous déboursiez",
+			"qu'il/elle": "débourse",
+			"qu'ils/elles": "déboursent"
+		},
+		"imparfait": {
+			"que": "vous déboursassiez",
+			"qu'il/elle": "déboursât",
+			"qu'ils/elles": "déboursassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse déboursé",
+			"que": "vous eussiez déboursé",
+			"qu'il/elle": "eût déboursé",
+			"qu'ils/elles": "eussent déboursé"
+		},
+		"passé": {
+			"j'": "aie déboursé",
+			"que": "vous ayez déboursé",
+			"qu'il/elle": "ait déboursé",
+			"qu'ils/elles": "aient déboursé"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"je": "débourserais",
+			"tu": "débourserais",
+			"il/elle": "débourserait",
+			"nous": "débourserions",
+			"vous": "débourseriez",
+			"ils/elles": "débourseraient"
+		},
+		"passé première forme": {
+			"j'": "aurais déboursé",
+			"tu": "aurais déboursé",
+			"il/elle": "aurait déboursé",
+			"nous": "aurions déboursé",
+			"vous": "auriez déboursé",
+			"ils/elles": "auraient déboursé"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse déboursé",
+			"tu": "eusses déboursé",
+			"il/elle": "eût déboursé",
+			"nous": "eussions déboursé",
+			"vous": "eussiez déboursé",
+			"ils/elles": "eussent déboursé"
+		}
+	},
+	"participe": {
+		"présent": { "déboursant": "" },
+		"passé composé": { "ayant": "déboursé" },
+		"passé": {
+			"masc.sg.:": "déboursé",
+			"masc.pl.:": "déboursés",
+			"fém.sg.:": "déboursée",
+			"fém.pl.:": "déboursées"
+		}
+	},
+	"imperatif": {
+		"présent": { "débourse": "", "déboursons": "", "déboursez": "" },
+		"passé": { "aie": "déboursé", "ayons": "déboursé", "ayez": "déboursé" }
+	},
+	"infinitif": {
+		"présent": { "débourser": "" },
+		"passé": { "avoir": "déboursé" }
+	}
+}

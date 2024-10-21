@@ -1,0 +1,147 @@
+{
+	"name": "empoisonner",
+	"definition": "poison; bedevil; embitter; ...",
+	"model": "marcher",
+	"auxiliary": "avoir",
+	"otherForms": "s'empoisonner/ne pas empoisonner/ne pas s'empoisonner",
+	"indicatif": {
+		"présent": {
+			"j'": "empoisonne",
+			"tu": "empoisonnes",
+			"il/elle": "empoisonne",
+			"nous": "empoisonnons",
+			"vous": "empoisonnez",
+			"ils/elles": "empoisonnent"
+		},
+		"imparfait": {
+			"j'": "empoisonnais",
+			"tu": "empoisonnais",
+			"il/elle": "empoisonnait",
+			"nous": "empoisonnions",
+			"vous": "empoisonniez",
+			"ils/elles": "empoisonnaient"
+		},
+		"futur": {
+			"j'": "empoisonnerai",
+			"tu": "empoisonneras",
+			"il/elle": "empoisonnera",
+			"nous": "empoisonnerons",
+			"vous": "empoisonnerez",
+			"ils/elles": "empoisonneront"
+		},
+		"passé simple": {
+			"j'": "empoisonnai",
+			"tu": "empoisonnas",
+			"il/elle": "empoisonna",
+			"nous": "empoisonnâmes",
+			"vous": "empoisonnâtes",
+			"ils/elles": "empoisonnèrent"
+		},
+		"passé composé": {
+			"j'": "ai empoisonné",
+			"tu": "as empoisonné",
+			"il/elle": "a empoisonné",
+			"nous": "avons empoisonné",
+			"vous": "avez empoisonné",
+			"ils/elles": "ont empoisonné"
+		},
+		"plus-que-parfait": {
+			"j'": "avais empoisonné",
+			"tu": "avais empoisonné",
+			"il/elle": "avait empoisonné",
+			"nous": "avions empoisonné",
+			"vous": "aviez empoisonné",
+			"ils/elles": "avaient empoisonné"
+		},
+		"passé antérieur": {
+			"j'": "eus empoisonné",
+			"tu": "eus empoisonné",
+			"il/elle": "eut empoisonné",
+			"nous": "eûmes empoisonné",
+			"vous": "eûtes empoisonné",
+			"ils/elles": "eurent empoisonné"
+		},
+		"futur antérieur": {
+			"j'": "aurai empoisonné",
+			"tu": "auras empoisonné",
+			"il/elle": "aura empoisonné",
+			"nous": "aurons empoisonné",
+			"vous": "aurez empoisonné",
+			"ils/elles": "auront empoisonné"
+		}
+	},
+	"subjonctif": {
+		"présent": {
+			"j'": "empoisonne",
+			"que": "vous empoisonniez",
+			"qu'il/elle": "empoisonne",
+			"qu'ils/elles": "empoisonnent"
+		},
+		"imparfait": {
+			"j'": "empoisonnasse",
+			"que": "vous empoisonnassiez",
+			"qu'il/elle": "empoisonnât",
+			"qu'ils/elles": "empoisonnassent"
+		},
+		"plus-que-parfait": {
+			"j'": "eusse empoisonné",
+			"que": "vous eussiez empoisonné",
+			"qu'il/elle": "eût empoisonné",
+			"qu'ils/elles": "eussent empoisonné"
+		},
+		"passé": {
+			"j'": "aie empoisonné",
+			"que": "vous ayez empoisonné",
+			"qu'il/elle": "ait empoisonné",
+			"qu'ils/elles": "aient empoisonné"
+		}
+	},
+	"conditionnel": {
+		"présent": {
+			"j'": "empoisonnerais",
+			"tu": "empoisonnerais",
+			"il/elle": "empoisonnerait",
+			"nous": "empoisonnerions",
+			"vous": "empoisonneriez",
+			"ils/elles": "empoisonneraient"
+		},
+		"passé première forme": {
+			"j'": "aurais empoisonné",
+			"tu": "aurais empoisonné",
+			"il/elle": "aurait empoisonné",
+			"nous": "aurions empoisonné",
+			"vous": "auriez empoisonné",
+			"ils/elles": "auraient empoisonné"
+		},
+		"passé deuxième forme": {
+			"j'": "eusse empoisonné",
+			"tu": "eusses empoisonné",
+			"il/elle": "eût empoisonné",
+			"nous": "eussions empoisonné",
+			"vous": "eussiez empoisonné",
+			"ils/elles": "eussent empoisonné"
+		}
+	},
+	"participe": {
+		"présent": { "empoisonnant": "" },
+		"passé composé": { "ayant": "empoisonné" },
+		"passé": {
+			"masc.sg.:": "empoisonné",
+			"masc.pl.:": "empoisonnés",
+			"fém.sg.:": "empoisonnée",
+			"fém.pl.:": "empoisonnées"
+		}
+	},
+	"imperatif": {
+		"présent": { "empoisonne": "", "empoisonnons": "", "empoisonnez": "" },
+		"passé": {
+			"aie": "empoisonné",
+			"ayons": "empoisonné",
+			"ayez": "empoisonné"
+		}
+	},
+	"infinitif": {
+		"présent": { "empoisonner": "" },
+		"passé": { "avoir": "empoisonné" }
+	}
+}
