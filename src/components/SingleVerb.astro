@@ -1,0 +1,14 @@
+---
+interface Props {
+	verb: any;
+}
+
+const { verb } = Astro.props;
+const { name } = verb;
+---
+
+<div class="single-verb">
+    <h2>
+        {name}
+    </h2>
+</div>
