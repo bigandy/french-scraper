@@ -3,16 +3,15 @@
 import Layout from '../../layouts/Layout.astro';
 import SingleVerb from '../../components/SingleVerb.astro';
 
-import {getVerbs} from '../utils'
+import {getVerbs, } from '../utils'
  
 export async function getStaticPaths() {
 	const posts = await getVerbs();
 	
 	return posts.map((verb) => {
-		console.log(verb);
 		return {
 			params: {
-				slug: verb.name
+				slug: verb.slug 
 			},
 			props: {
 				verb,
@@ -22,7 +21,6 @@ export async function getStaticPaths() {
 }
 
 const { verb } = Astro.props
-console.log({props: Astro.props })
 ---
 
 <Layout title={verb.name}>

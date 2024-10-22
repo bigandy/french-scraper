@@ -1,19 +1,16 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 
-import {getVerbs} from '../utils'
+import { getVerbs } from '../utils'
 
 let allVerbs = await getVerbs();
-
-// console.log({allVerbs})
-allVerbs = allVerbs.slice(0,2)
 ---
 
 <Layout title="Welcome to Astro.">
     {allVerbs.map((verb: any) => {
         return (
             <div>
-                <a href={`/verbs/${verb.name}`}>{verb.name}</a>
+                <a href={`/verbs/${verb.slug}`}>{`/verb/${verb.name}`}</a>
                 <h2>{verb.definition}</h2>
             </div>
         )
