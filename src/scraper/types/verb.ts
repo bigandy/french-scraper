@@ -23,7 +23,7 @@ export interface Verbs {
 
   // Indicative
   indicatif: {
-    present: Verb;
+    présent: Verb;
     imparfait: Verb;
     futur: Verb;
     "passé simple": Verb;

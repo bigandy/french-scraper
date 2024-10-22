@@ -1,14 +1,43 @@
 ---
+import type { Verbs } from '@scraper/types/verb';
+import VerbTable from '@components/VerbTable.astro';
+
 interface Props {
-	verb: any;
+	verb: Verbs;
+    slug: string;
 }
 
-const { verb } = Astro.props;
-const { name } = verb;
+const { verb, slug } = Astro.props;
+const { name, definition, indicatif, model, auxiliary } = verb;
+
+const {présent, futur, 'passé composé': passéComposé, imparfait } = indicatif;
+
 ---
 
 <div class="single-verb">
-    <h2>
+    <h2 style={`--tn: title-${slug}; color: orange;`} class="tn">
         {name}
     </h2>
+
+    <p>{definition}</p>
+
+    <p>Model: {model}</p>
+    <p>Auxillary: {auxiliary}</p>
+
+    <h2>Intrinsic</h2>
+
+    <h3>présent</h3>
+    <VerbTable verbForm={présent} />
+
+    <h3>passé composé</h3>
+    <VerbTable verbForm={passéComposé} />
+    
+    <h3>futur</h3>
+    <VerbTable verbForm={futur} />
+
+    <h3>Infinitive</h3>
+    <VerbTable verbForm={imparfait} />
 </div>
+
+<style>
+</style>

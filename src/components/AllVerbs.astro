@@ -1,0 +1,14 @@
+---
+import { getVerbs } from '@pages/utils'
+
+let allVerbs = await getVerbs();
+---
+
+{allVerbs.map((verb: any) => {
+    return (
+        <div>
+            <h2 class="tn" style={`--tn: title-${verb.slug}`}>{verb.name}</h2>
+            <a href={`/verbs/${verb.slug}`}>{verb.name}</AllVerbs>
+        </div>
+    )
+})}

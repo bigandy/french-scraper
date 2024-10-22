@@ -1,18 +1,13 @@
 ---
-import Layout from '../../layouts/Layout.astro';
+import Layout from '@layouts/Layout.astro';
+import AllVerbs from '@components/AllVerbs.astro';
 
-import { getVerbs } from '../utils'
-
-let allVerbs = await getVerbs();
+// export const prerender = true
 ---
 
-<Layout title="Welcome to Astro.">
-    {allVerbs.map((verb: any) => {
-        return (
-            <div>
-                <a href={`/verbs/${verb.slug}`}>{`/verb/${verb.name}`}</a>
-                <h2>{verb.definition}</h2>
-            </div>
-        )
-    })}
+<Layout title="Verbs Page">
+
+    <h1>Verbs Page</h1>
+
+    <AllVerbs />
 </Layout>
