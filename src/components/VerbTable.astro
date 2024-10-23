@@ -5,14 +5,15 @@ import SvelteVerbTable from "src/components/SvelteTable.svelte";
 
 interface Props {
   verbForm: Verb;
+  name: string;
 }
 
-const { verbForm } = Astro.props;
+const { verbForm, name } = Astro.props;
 const rows = Object.entries(verbForm);
 ---
 
 <div class="verb-table">
-<SvelteVerbTable rows={rows} />
+<SvelteVerbTable {name} rows={rows} client:load />
 
 <details>
   <summary>Solution</summary>

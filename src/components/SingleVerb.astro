@@ -1,6 +1,7 @@
 ---
 import type { Verbs } from '@scraper/types/verb';
 import VerbTable from '@components/VerbTable.astro';
+import ResetAllVerbTables from 'src/components/ResetAllVerbTables.svelte';
 
 interface Props {
 	verb: Verbs;
@@ -10,7 +11,32 @@ interface Props {
 const { verb, slug } = Astro.props;
 const { name, definition, indicatif, model, auxiliary } = verb;
 
-const {présent, futur, 'passé composé': passéComposé, imparfait } = indicatif;
+const { présent, futur, 'passé composé': passéComposé, imparfait } = indicatif;
+
+const intrinsicVerbs = [
+    {
+        title: 'présent',
+        name: `${slug}-présent`,
+        verbForm: présent,
+    },
+    {
+        title: 'passé composé',
+        name: `${slug}-passéComposé`,
+        verbForm: passéComposé,
+    },
+    {
+        title: 'futur',
+        name: `${slug}-futur`,
+        verbForm: futur,
+    },
+    {
+        title: 'imparfait',
+        name: `${slug}-imparfait`,
+        verbForm: imparfait,
+    },
+];
+
+const verbNamesToReset = intrinsicVerbs.map(({name}) => name)
 
 ---
 
@@ -26,17 +52,14 @@ const {présent, futur, 'passé composé': passéComposé, imparfait } = indicat
 
     <h2>Intrinsic</h2>
 
-    <h3>présent</h3>
-    <VerbTable verbForm={présent} />
+    {intrinsicVerbs.map(({title, name, verbForm}) => {
+        return (
+            <h3>{title}</h3>
+            <VerbTable name={name} verbForm={verbForm} />
+        )})
+    }
 
-    <h3>passé composé</h3>
-    <VerbTable verbForm={passéComposé} />
-    
-    <h3>futur</h3>
-    <VerbTable verbForm={futur} />
-
-    <h3>Infinitive</h3>
-    <VerbTable verbForm={imparfait} />
+    <ResetAllVerbTables verbNamesToReset={verbNamesToReset} client:load />
 </div>
 
 <style>
