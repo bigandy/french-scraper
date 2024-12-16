@@ -9,7 +9,8 @@ export const getVerbs = async () => {
 	const allData = allVerbs.map((v: any) => v.data)
 	const withSlugs = allData.map((verb: any) => ({
 		...verb,
-		slug: getRidofAccentsInUrls(verb.name),
+		// slug: getRidofAccentsInUrls(verb.name),
+		slug: verb.name,
 	}))
 	const sorted = withSlugs.sort((a, b) => a.name.localeCompare(b.name))
 
