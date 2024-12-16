@@ -1,0 +1,66 @@
+---
+import type { Verbs } from '@scraper/types/verb';
+import VerbTable from '@components/VerbTable.astro';
+import ResetAllVerbTables from 'src/components/ResetAllVerbTables.svelte';
+
+interface Props {
+	verb: Verbs;
+    slug: string;
+}
+
+const { verb, slug } = Astro.props;
+const { name, definition, indicatif, model, auxiliary } = verb;
+
+const { présent, futur, 'passé composé': passéComposé, imparfait } = indicatif;
+
+const intrinsicVerbs = [
+    {
+        title: 'présent',
+        name: `${slug}-présent`,
+        verbForm: présent,
+    },
+    {
+        title: 'passé composé',
+        name: `${slug}-passéComposé`,
+        verbForm: passéComposé,
+    },
+    {
+        title: 'futur',
+        name: `${slug}-futur`,
+        verbForm: futur,
+    },
+    {
+        title: 'imparfait',
+        name: `${slug}-imparfait`,
+        verbForm: imparfait,
+    },
+];
+
+const verbNamesToReset = intrinsicVerbs.map(({name}) => name)
+
+---
+
+<div class="single-verb">
+    <h2 style={`--tn: title-${slug}; color: orange;`} class="tn">
+        {name}
+    </h2>
+
+    <p>{definition}</p>
+
+    <p>Model: {model}</p>
+    <p>Auxillary: {auxiliary}</p>
+
+    <h2>Intrinsic</h2>
+
+    {intrinsicVerbs.map(({title, name, verbForm}) => {
+        return (
+            <h3>{title}</h3>
+            <VerbTable name={name} verbForm={verbForm} />
+        )})
+    }
+
+    <ResetAllVerbTables verbNamesToReset={verbNamesToReset} client:load />
+</div>
+
+<style>
+</style>

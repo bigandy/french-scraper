@@ -1,0 +1,54 @@
+---
+import type { Verb } from "@scraper/types/verb";
+
+import SvelteVerbTable from "src/components/SvelteTable.svelte"; 
+
+interface Props {
+  verbForm: Verb;
+  name: string;
+}
+
+const { verbForm, name } = Astro.props;
+const rows = Object.entries(verbForm);
+---
+
+<div class="verb-table">
+<SvelteVerbTable {name} rows={rows} client:load />
+
+<details>
+  <summary>Solution</summary>
+  <table>
+    {
+      rows.map(([key, value]) => {
+        return (
+          <tr>
+            <td>{key}</td>
+            <td>
+              {value}
+            </td>
+          </tr>
+        );
+      })
+    }
+  </table>
+</details>
+</div>
+
+
+<style>
+  .verb-table :global(*) {
+    table {
+      border: 1px solid;
+      width: 100%;
+      border-collapse: collapse;
+      table-layout: fixed;
+    }
+
+    td,
+    th {
+      border: 1px solid orange;
+      padding: 0.25rem;
+      text-align: center;
+    }
+  }
+</style>
