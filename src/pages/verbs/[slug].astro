@@ -3,9 +3,8 @@
 import Layout from '@layouts/Layout.astro';
 import SingleVerb from '@components/SingleVerb.astro';
 
-import BackgroundSwitcher from 'src/components/BackgroundSwitcher.svelte';
 
-import {getVerbs } from '../utils'
+import { getVerbs } from '../utils'
  
 // export const prerender = true
 
@@ -32,7 +31,6 @@ const { verb } = Astro.props
 ---
 
 <Layout title={verb.name}>
-	<BackgroundSwitcher client:load />
 	<a href="/verbs">&larr;All Verbs</a>
 	<SingleVerb verb={verb} slug={verb.slug} />
 </Layout>
